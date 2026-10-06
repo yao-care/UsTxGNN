@@ -14,7 +14,7 @@ permalink: /news/ramucirumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Ramucirumab?">
-<strong>Ramucirumab</strong> currently has <strong>7 news articles</strong>, with 10 predicted indications.
+<strong>Ramucirumab</strong> currently has <strong>8 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,21 +40,37 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (8)
 
-### [It Can Keep Cancer in Remission. Why Is No One Talking About It? - The New York Times](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWnhQTWYtY3AzOXdDMXhMMkxPOHRZLUNsZlhLbGotTkR5VGdlLUZzejgtYjlhZHAzdnBhZnlRbnJQX3J0NkJ3bUljR3JvNDRBUS1jVkdfSnNZU0hJMEJPY0ZnbGtiVVZaUDlONUFGS2FTWVNPOTQ1S0JPdmtibDRXTXdfc19CSkFH?oc=5)
+### [A BRCA gene mutation ups your risk of these 4 cancers. Here’s what to know. - The Washington Post](https://news.google.com/rss/articles/CBMiowFBVV95cUxNYktZbkFvUl9OR2lSWDJ3bkk5OHJWdXhMWDhDV0I3R3FzZE5WcW1iNFdRMzl1NHZsS3JrcTRfWGJSYWlKN3E5NEo5TFRIa0xnQzZuSVF1UlJCVUtLbGtDZld1LUNDWDRyeUYxdjE0a0Z3N1ZfbzZLVjI2aVh6WnFURU9ZV2l2YzB1NnFiZ1dSUkZDZFlmSjNLbE1jRW5BQ3BWVHZJ?oc=5)
 
 2026-10-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
 
-Source: [The New York Times](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWnhQTWYtY3AzOXdDMXhMMkxPOHRZLUNsZlhLbGotTkR5VGdlLUZzejgtYjlhZHAzdnBhZnlRbnJQX3J0NkJ3bUljR3JvNDRBUS1jVkdfSnNZU0hJMEJPY0ZnbGtiVVZaUDlONUFGS2FTWVNPOTQ1S0JPdmtibDRXTXdfc19CSkFH?oc=5)
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMiowFBVV95cUxNYktZbkFvUl9OR2lSWDJ3bkk5OHJWdXhMWDhDV0I3R3FzZE5WcW1iNFdRMzl1NHZsS3JrcTRfWGJSYWlKN3E5NEo5TFRIa0xnQzZuSVF1UlJCVUtLbGtDZld1LUNDWDRyeUYxdjE0a0Z3N1ZfbzZLVjI2aVh6WnFURU9ZV2l2YzB1NnFiZ1dSUkZDZFlmSjNLbE1jRW5BQ3BWVHZJ?oc=5)
 
 ---
 
 ### [These infections are behind 1 in 8 cancer cases worldwide, study finds - USA Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNall2YzNVY2s1ZHptOEVid21LUFBsNjZRdjlqUVdRcUtmeEZoRVVVOEszYXBVaGxmNVlZZndaWnppa3pOVTZMWmR3alNOV3Y1b29hYlk1Z0tkTXhhLTU3andJampueEFRMk4yWGp6NmdVb3FrOC1VUTlvRzRMdUtMVGxMZ2ZQWHQtQmdKV1lCSjlHZThOUVhEeU9fVl9MZnNZYS04WHVVdFZGTmtoQlZUZjdjVnJDZ1lv?oc=5)
 
-2026-10-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+2026-10-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
 
 Source: [USA Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNall2YzNVY2s1ZHptOEVid21LUFBsNjZRdjlqUVdRcUtmeEZoRVVVOEszYXBVaGxmNVlZZndaWnppa3pOVTZMWmR3alNOV3Y1b29hYlk1Z0tkTXhhLTU3andJampueEFRMk4yWGp6NmdVb3FrOC1VUTlvRzRMdUtMVGxMZ2ZQWHQtQmdKV1lCSjlHZThOUVhEeU9fVl9MZnNZYS04WHVVdFZGTmtoQlZUZjdjVnJDZ1lv?oc=5)
+
+---
+
+### [It Can Keep Cancer in Remission. Why Is No One Talking About It? - The New York Times](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWnhQTWYtY3AzOXdDMXhMMkxPOHRZLUNsZlhLbGotTkR5VGdlLUZzejgtYjlhZHAzdnBhZnlRbnJQX3J0NkJ3bUljR3JvNDRBUS1jVkdfSnNZU0hJMEJPY0ZnbGtiVVZaUDlONUFGS2FTWVNPOTQ1S0JPdmtibDRXTXdfc19CSkFH?oc=5)
+
+2026-10-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span>
+
+Source: [The New York Times](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWnhQTWYtY3AzOXdDMXhMMkxPOHRZLUNsZlhLbGotTkR5VGdlLUZzejgtYjlhZHAzdnBhZnlRbnJQX3J0NkJ3bUljR3JvNDRBUS1jVkdfSnNZU0hJMEJPY0ZnbGtiVVZaUDlONUFGS2FTWVNPOTQ1S0JPdmtibDRXTXdfc19CSkFH?oc=5)
+
+---
+
+### [Longtime surfers are being diagnosed with this strange condition](https://news.google.com/rss/articles/CBMikgFBVV95cUxOOWRvcEF2Vi03VEZIQlNYRGFLOHB4SWNrSXJEbDlTNkdkbXU0eWcwei1ZeXdEUGM1NlBLQ2c0YTBjV09GZndrYTJnWmhKeTdGcDQ4TzVWcnE4dmxZeXEyRndseVJCQVhLdElDaFB2dzkzVVc2Vk1wSHFzR0RRaUp5dXVCakQzc3J2YzBxNGw2dV9CZ9IBlwFBVV95cUxQaGZaRzJ0R1lvMTZBcHhvb2xOeE54LWM1SDBTMEh3UDJTTmw1dzRMSG14ZzlSUUJFWFEyTXQ3NDBwMzhmbUF3SmFoMWx3UG1zN2lvU3RwSEhMNGdNREk1M291cEM2cXFxRkwyMko5Tm5JVDVfR3RmNnZsZU55Q2lfQmdmZWhKM2JyREhEN2E1MnRaTWlkMkhn?oc=5)
+
+2026-10-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [NewsNation](https://news.google.com/rss/articles/CBMikgFBVV95cUxOOWRvcEF2Vi03VEZIQlNYRGFLOHB4SWNrSXJEbDlTNkdkbXU0eWcwei1ZeXdEUGM1NlBLQ2c0YTBjV09GZndrYTJnWmhKeTdGcDQ4TzVWcnE4dmxZeXEyRndseVJCQVhLdElDaFB2dzkzVVc2Vk1wSHFzR0RRaUp5dXVCakQzc3J2YzBxNGw2dV9CZ9IBlwFBVV95cUxQaGZaRzJ0R1lvMTZBcHhvb2xOeE54LWM1SDBTMEh3UDJTTmw1dzRMSG14ZzlSUUJFWFEyTXQ3NDBwMzhmbUF3SmFoMWx3UG1zN2lvU3RwSEhMNGdNREk1M291cEM2cXFxRkwyMko5Tm5JVDVfR3RmNnZsZU55Q2lfQmdmZWhKM2JyREhEN2E1MnRaTWlkMkhn?oc=5)
 
 ---
 
@@ -74,17 +90,9 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE80dmhfZWlZNWg3O
 
 ---
 
-### [Giant Papillary Renal Cell Carcinoma: A Rare Case of a 31-cm Renal Mass With Suspected Metastatic Disease on Imaging](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQT2ZZSlhNdk5mRFRwa3lyRjVxVzhPY1ViYzMwMVIxLWlhNVl1ZS1YSXFMTllEOURlOUtxX0hETUl1N1BZRGFNNTlpdjB6M2xwS3Rsd3RSUjBCSHFsaW1uRjJpYXRsWFVPdXdNOWJsOXJKUlAyVnA5OExHNHpYaVNkZ0lvN0NTdElITE1ZQ0lCYmswQnBidTVzN2NvX3JQVUhCSUNqdlZ0MkJUbDhRMi1DR0JDcXU1bm5KOFpwR2VaNVE3UWJveTZFUUpwdTRIM0w5RW1hUGMzNUdHSjFhb0ZiYU5kV2ktMFVKNnc?oc=5)
-
-2026-10-05 <span class="news-indication-tag">carcinoma</span> <span class="news-indication-tag">RA</span>
-
-Source: [Cureus](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQT2ZZSlhNdk5mRFRwa3lyRjVxVzhPY1ViYzMwMVIxLWlhNVl1ZS1YSXFMTllEOURlOUtxX0hETUl1N1BZRGFNNTlpdjB6M2xwS3Rsd3RSUjBCSHFsaW1uRjJpYXRsWFVPdXdNOWJsOXJKUlAyVnA5OExHNHpYaVNkZ0lvN0NTdElITE1ZQ0lCYmswQnBidTVzN2NvX3JQVUhCSUNqdlZ0MkJUbDhRMi1DR0JDcXU1bm5KOFpwR2VaNVE3UWJveTZFUUpwdTRIM0w5RW1hUGMzNUdHSjFhb0ZiYU5kV2ktMFVKNnc?oc=5)
-
----
-
 ### [Scientists Untangle the Biology of an ‘Undruggable’ Cancer Gene - The New York Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxQdDZxVGs2MkFnenNPR3VKV0ZQck14TDhQWnMwaTF4NThqSWZFMFVlcFlIUFREZGRqMlZnSENBcWVvbC02ZExCSllkdUhfNmVINHRhWmZxWGJ6M0N2MTVYVlBVNlF6UWtTR0dRaHFUWmt5Zjc2RENUcHJUaUdLeTVkSm41TFFjcmFKQXVFVV9TOHlkUW5PdzdzZUZ3VXZWQ1drWC1YX0tRWFM1aVpWdmc?oc=5)
 
-2026-10-02 <span class="news-indication-tag">cancer</span>
+2026-10-02 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
 Source: [The New York Times](https://news.google.com/rss/articles/CBMirgFBVV95cUxQdDZxVGs2MkFnenNPR3VKV0ZQck14TDhQWnMwaTF4NThqSWZFMFVlcFlIUFREZGRqMlZnSENBcWVvbC02ZExCSllkdUhfNmVINHRhWmZxWGJ6M0N2MTVYVlBVNlF6UWtTR0dRaHFUWmt5Zjc2RENUcHJUaUdLeTVkSm41TFFjcmFKQXVFVV9TOHlkUW5PdzdzZUZ3VXZWQ1drWC1YX0tRWFM1aVpWdmc?oc=5)
 

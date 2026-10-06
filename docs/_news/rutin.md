@@ -14,7 +14,7 @@ permalink: /news/rutin/
 ---
 
 <p class="key-answer" data-question="What news is there about Rutin?">
-<strong>Rutin</strong> currently has <strong>7 news articles</strong>, with 8 predicted indications.
+<strong>Rutin</strong> currently has <strong>9 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,15 @@ This page combines the AI-predicted indications for Rutin with the latest health
 <p><a href="{{ '/drugs/rutin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (9)
+
+### [Longtime surfers are being diagnosed with this strange condition](https://news.google.com/rss/articles/CBMikgFBVV95cUxOOWRvcEF2Vi03VEZIQlNYRGFLOHB4SWNrSXJEbDlTNkdkbXU0eWcwei1ZeXdEUGM1NlBLQ2c0YTBjV09GZndrYTJnWmhKeTdGcDQ4TzVWcnE4dmxZeXEyRndseVJCQVhLdElDaFB2dzkzVVc2Vk1wSHFzR0RRaUp5dXVCakQzc3J2YzBxNGw2dV9CZ9IBlwFBVV95cUxQaGZaRzJ0R1lvMTZBcHhvb2xOeE54LWM1SDBTMEh3UDJTTmw1dzRMSG14ZzlSUUJFWFEyTXQ3NDBwMzhmbUF3SmFoMWx3UG1zN2lvU3RwSEhMNGdNREk1M291cEM2cXFxRkwyMko5Tm5JVDVfR3RmNnZsZU55Q2lfQmdmZWhKM2JyREhEN2E1MnRaTWlkMkhn?oc=5)
+
+2026-10-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [NewsNation](https://news.google.com/rss/articles/CBMikgFBVV95cUxOOWRvcEF2Vi03VEZIQlNYRGFLOHB4SWNrSXJEbDlTNkdkbXU0eWcwei1ZeXdEUGM1NlBLQ2c0YTBjV09GZndrYTJnWmhKeTdGcDQ4TzVWcnE4dmxZeXEyRndseVJCQVhLdElDaFB2dzkzVVc2Vk1wSHFzR0RRaUp5dXVCakQzc3J2YzBxNGw2dV9CZ9IBlwFBVV95cUxQaGZaRzJ0R1lvMTZBcHhvb2xOeE54LWM1SDBTMEh3UDJTTmw1dzRMSG14ZzlSUUJFWFEyTXQ3NDBwMzhmbUF3SmFoMWx3UG1zN2lvU3RwSEhMNGdNREk1M291cEM2cXFxRkwyMko5Tm5JVDVfR3RmNnZsZU55Q2lfQmdmZWhKM2JyREhEN2E1MnRaTWlkMkhn?oc=5)
+
+---
 
 ### [Anesthesia Is 180 Years Old And Still a Mystery. A Study of 6 Animal Brains May Have Found Its Common Thread.](https://news.google.com/rss/articles/CBMirwFBVV95cUxNeXVETDBsTVNkR1pObGI3RFF4V3dMWng3eVJiczIxUTgxemxhbTRHcEdTMDRzOTVqYTJiR3hZVFRHdU9XaUZUZUpLa2pGdVVYQ3JTaldxQklHNTBKTGl1a2Z6azBiT1dPcmZBNGJNNUh0c1BqX1drZUcwNXg1OEVHVFFGR2xDUS02UGNQeXlrMHFHV3k4TmlrVTdTTWE5eTk2VndKVlRMdkNscXNOZ2Fj?oc=5)
 
@@ -53,6 +61,14 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMirwFBVV95cUxNeXVE
 2026-10-05 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
 
 Source: [Futurism](https://news.google.com/rss/articles/CBMidkFVX3lxTE03VFNJcHZINnlDSWFKSy1oRmc5N0pzTjJKbW9BenBRQmYwMlZnM0xvRjNVN0hPUFJ5SFJtTUx5cDAtXzNXS0lCUVRmS09VN3JBN1dKc25pdDl1OC1oVmk4WVRLWVBCZGlKOG1zaUdWemhxc2VHSVE?oc=5)
+
+---
+
+### [Everyone Is Talking About Ferritin Levels. How Much Does It Really Matter for Your Health?](https://news.google.com/rss/articles/CBMitwFBVV95cUxQclBFRnR0LUNPWG1DQjR0bVZVMGJVbDhubTktelMtODBXazVSMFF3WXV6UTZtV1pMbzlZMHhLTllnOGJ0VGNWeGZEYmpfVjFKcWhsa1h2SkwyeWpwQXZUNkxMTDAwVkdOZ1JWU0xQZ3NWTC1HVFRmNlVQNDA5cUZCMy1rNEh0MGFDZm8xVkZXMjlHQkstdjFQUktibjNuak9sYVlZWFRxeWFnOWZzNFlpMW9pZ3p0YlE?oc=5)
+
+2026-10-05 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+
+Source: [TODAY.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxQclBFRnR0LUNPWG1DQjR0bVZVMGJVbDhubTktelMtODBXazVSMFF3WXV6UTZtV1pMbzlZMHhLTllnOGJ0VGNWeGZEYmpfVjFKcWhsa1h2SkwyeWpwQXZUNkxMTDAwVkdOZ1JWU0xQZ3NWTC1HVFRmNlVQNDA5cUZCMy1rNEh0MGFDZm8xVkZXMjlHQkstdjFQUktibjNuak9sYVlZWFRxeWFnOWZzNFlpMW9pZ3p0YlE?oc=5)
 
 ---
 
@@ -80,11 +96,11 @@ Source: [The New York Times](https://news.google.com/rss/articles/CBMic0FVX3lxTE
 
 ---
 
-### [Scientists just found a new way to make hydrogen from water](https://news.google.com/rss/articles/CBMib0FVX3lxTE8tVEhJQVUwY1NsUmp5dzNWemdUZk5pbXo1aHpLUEl1NDh1VkQtRFBwZVppVWJqN0czTWs5WXk1NE4zT2thNlRXbDRKNld2RFg1QlZZU0paRjBmck5pNmxtbFo2cEJnVXBRNkljNDVJSQ?oc=5)
+### [Wall Squats, Planks Once a Week May Help Lower Your Blood Pressure](https://news.google.com/rss/articles/CBMingFBVV95cUxNR2hDOUtkTzd6aUJueEtsMXFBUElab29WQjAwU2ljbEZVSWxwQjVtblRFV0RRVnZkaUVpQmgzYkowanNFSEdxX2tYMzdFdkI3R1JaY1VPV1BYR0tUc0xuZkdDejV5eXBzZkktTFZOeGwwbVF2SGNsbExaSWlHUGI3ZmdPT24zbFBJcWF5MTY4WFdlcUhRSmMyQ0Rod2FhZw?oc=5)
 
-2026-10-04 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+2026-10-01 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
 
-Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8tVEhJQVUwY1NsUmp5dzNWemdUZk5pbXo1aHpLUEl1NDh1VkQtRFBwZVppVWJqN0czTWs5WXk1NE4zT2thNlRXbDRKNld2RFg1QlZZU0paRjBmck5pNmxtbFo2cEJnVXBRNkljNDVJSQ?oc=5)
+Source: [Healthline](https://news.google.com/rss/articles/CBMingFBVV95cUxNR2hDOUtkTzd6aUJueEtsMXFBUElab29WQjAwU2ljbEZVSWxwQjVtblRFV0RRVnZkaUVpQmgzYkowanNFSEdxX2tYMzdFdkI3R1JaY1VPV1BYR0tUc0xuZkdDejV5eXBzZkktTFZOeGwwbVF2SGNsbExaSWlHUGI3ZmdPT24zbFBJcWF5MTY4WFdlcUhRSmMyQ0Rod2FhZw?oc=5)
 
 ---
 

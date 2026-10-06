@@ -40,27 +40,27 @@ This page combines the AI-predicted indications for Rutin with the latest health
 
 ## Related News (7)
 
-### [Anesthesia Is 180 Years Old And Still a Mystery. A Worm Study Just Cracked It Open.](https://news.google.com/rss/articles/CBMirwFBVV95cUxNeXVETDBsTVNkR1pObGI3RFF4V3dMWng3eVJiczIxUTgxemxhbTRHcEdTMDRzOTVqYTJiR3hZVFRHdU9XaUZUZUpLa2pGdVVYQ3JTaldxQklHNTBKTGl1a2Z6azBiT1dPcmZBNGJNNUh0c1BqX1drZUcwNXg1OEVHVFFGR2xDUS02UGNQeXlrMHFHV3k4TmlrVTdTTWE5eTk2VndKVlRMdkNscXNOZ2Fj?oc=5)
+### [Anesthesia Is 180 Years Old And Still a Mystery. A Study of 6 Animal Brains May Have Found Its Common Thread.](https://news.google.com/rss/articles/CBMirwFBVV95cUxNeXVETDBsTVNkR1pObGI3RFF4V3dMWng3eVJiczIxUTgxemxhbTRHcEdTMDRzOTVqYTJiR3hZVFRHdU9XaUZUZUpLa2pGdVVYQ3JTaldxQklHNTBKTGl1a2Z6azBiT1dPcmZBNGJNNUh0c1BqX1drZUcwNXg1OEVHVFFGR2xDUS02UGNQeXlrMHFHV3k4TmlrVTdTTWE5eTk2VndKVlRMdkNscXNOZ2Fj?oc=5)
 
-2026-10-06 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-10-06 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMirwFBVV95cUxNeXVETDBsTVNkR1pObGI3RFF4V3dMWng3eVJiczIxUTgxemxhbTRHcEdTMDRzOTVqYTJiR3hZVFRHdU9XaUZUZUpLa2pGdVVYQ3JTaldxQklHNTBKTGl1a2Z6azBiT1dPcmZBNGJNNUh0c1BqX1drZUcwNXg1OEVHVFFGR2xDUS02UGNQeXlrMHFHV3k4TmlrVTdTTWE5eTk2VndKVlRMdkNscXNOZ2Fj?oc=5)
 
 ---
 
-### [Alzheimer’s risk linked to compound found in popular joint health supplements - Fox News](https://news.google.com/rss/articles/CBMiowFBVV95cUxPYXgxdEU5aldCS3ZmNlQ1OG1LWGhfQnZablJndWQ5bnZSRGdOR256MzlyTVpVVEozTmVNaUxKb1l6NU5Hbk43a1UtdmxIVktYc01WTzRVbVJxcVhURzJES093b0dsQmIwck10RDNScEhIYnBLSjZabVluN0YyOEJ3NXhqX21oWF9XdkxzdHNaVlgzcUpKaGlaMkQxWTdPbk53dTdJ0gGoAUFVX3lxTE9TNzlfbE5kbGlURVRhanJtMGVIWm1sZ1V3cU9UYTNjOUNFYnppYUNadGZER3NMN0JmcUJuX09odzlrX0kyNVQ0X1QxVjE5R2ZfWWlrWVV3N25qYlhwNjZVT1dyVmhDRGkzZVoxODJqdnpnSlY4aXNGaEsyYUNVbkcteF84NFp4Z2MtRXZaeWx0UlNpZk9CWHd6NUN2SENqQ015MWNfRGMwZA?oc=5)
+### [Our Solar System Is Unstable and Doomed for Destruction](https://news.google.com/rss/articles/CBMidkFVX3lxTE03VFNJcHZINnlDSWFKSy1oRmc5N0pzTjJKbW9BenBRQmYwMlZnM0xvRjNVN0hPUFJ5SFJtTUx5cDAtXzNXS0lCUVRmS09VN3JBN1dKc25pdDl1OC1oVmk4WVRLWVBCZGlKOG1zaUdWemhxc2VHSVE?oc=5)
 
 2026-10-05 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
 
-Source: [Fox News](https://news.google.com/rss/articles/CBMiowFBVV95cUxPYXgxdEU5aldCS3ZmNlQ1OG1LWGhfQnZablJndWQ5bnZSRGdOR256MzlyTVpVVEozTmVNaUxKb1l6NU5Hbk43a1UtdmxIVktYc01WTzRVbVJxcVhURzJES093b0dsQmIwck10RDNScEhIYnBLSjZabVluN0YyOEJ3NXhqX21oWF9XdkxzdHNaVlgzcUpKaGlaMkQxWTdPbk53dTdJ0gGoAUFVX3lxTE9TNzlfbE5kbGlURVRhanJtMGVIWm1sZ1V3cU9UYTNjOUNFYnppYUNadGZER3NMN0JmcUJuX09odzlrX0kyNVQ0X1QxVjE5R2ZfWWlrWVV3N25qYlhwNjZVT1dyVmhDRGkzZVoxODJqdnpnSlY4aXNGaEsyYUNVbkcteF84NFp4Z2MtRXZaeWx0UlNpZk9CWHd6NUN2SENqQ015MWNfRGMwZA?oc=5)
+Source: [Futurism](https://news.google.com/rss/articles/CBMidkFVX3lxTE03VFNJcHZINnlDSWFKSy1oRmc5N0pzTjJKbW9BenBRQmYwMlZnM0xvRjNVN0hPUFJ5SFJtTUx5cDAtXzNXS0lCUVRmS09VN3JBN1dKc25pdDl1OC1oVmk4WVRLWVBCZGlKOG1zaUdWemhxc2VHSVE?oc=5)
 
 ---
 
-### [Measles Outbreak in Amish Country Forces Some to Rethink Vaccines - The New York Times](https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZUDVXQU0tWDVyUW40akdzOEdtMXRGWXVuVEJMbThKaTkxSVBFbWhOdlFvTmhPMG1WTDQ3cHNPbmY2dHZTVG1GR0JxYzh4RkFhSHdzc2thakRBTFlWTDE2OWtNNHpYVVo3S3R5TTBBR2NkSU0?oc=5)
+### [Creatine may help build muscle even without exercise, study suggests](https://news.google.com/rss/articles/CBMiogFBVV95cUxPNFBMZlFSVlFMNlpGQlgtQlNmUnhTcVFIczVxc1l1bE1pS0RGVW9EVUVXd3ZGbEwwb0dpT2VGX2hJZzc5UWsyTm4ya1NmX3BpeFBuckZMZ0xLT0VsQmp0OUJqYTBZY1N6TTNCeDhkS0E2b2pmb1ZFYVZkSGNYVElKUVFFM2hRR3NxajhOZ1JYdDlhMklmMk1FVDFFcXFWdWVmREE?oc=5)
 
-2026-10-05 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+2026-10-05 <span class="news-indication-tag">UC</span>
 
-Source: [The New York Times](https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZUDVXQU0tWDVyUW40akdzOEdtMXRGWXVuVEJMbThKaTkxSVBFbWhOdlFvTmhPMG1WTDQ3cHNPbmY2dHZTVG1GR0JxYzh4RkFhSHdzc2thakRBTFlWTDE2OWtNNHpYVVo3S3R5TTBBR2NkSU0?oc=5)
+Source: [MedicalNewsToday](https://news.google.com/rss/articles/CBMiogFBVV95cUxPNFBMZlFSVlFMNlpGQlgtQlNmUnhTcVFIczVxc1l1bE1pS0RGVW9EVUVXd3ZGbEwwb0dpT2VGX2hJZzc5UWsyTm4ya1NmX3BpeFBuckZMZ0xLT0VsQmp0OUJqYTBZY1N6TTNCeDhkS0E2b2pmb1ZFYVZkSGNYVElKUVFFM2hRR3NxajhOZ1JYdDlhMklmMk1FVDFFcXFWdWVmREE?oc=5)
 
 ---
 
@@ -72,11 +72,19 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSnk5
 
 ---
 
-### [Our Solar System Is Terminally Unstable and Will Be Completely Destroyed, Study Finds - 404 Media](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZjlESnc1TGdWdHNjUHBuMG1pUFJOQ09zNGt6THR6cnhXVjNPLUQxNEhGM1ljcXZlemhrcFpjdXZMc3BqdVRMSWhCZ1JOUGloemhOREJ4Z2hPQzVxTDk1WS1HY28zZ1VEbXBxM09aR09OZjZZMkpPaWhFV0d2ZUtrMngwVk9OUV9RYWh1M01oUUw1b3A5WVkwNWhyY0tUekJtWGp2OXNIQjhJOVFMSEE?oc=5)
+### [Measles Outbreak in Amish Country Forces Some to Rethink Vaccines - The New York Times](https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZUDVXQU0tWDVyUW40akdzOEdtMXRGWXVuVEJMbThKaTkxSVBFbWhOdlFvTmhPMG1WTDQ3cHNPbmY2dHZTVG1GR0JxYzh4RkFhSHdzc2thakRBTFlWTDE2OWtNNHpYVVo3S3R5TTBBR2NkSU0?oc=5)
 
-2026-10-03 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+2026-10-04 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
 
-Source: [404 Media](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZjlESnc1TGdWdHNjUHBuMG1pUFJOQ09zNGt6THR6cnhXVjNPLUQxNEhGM1ljcXZlemhrcFpjdXZMc3BqdVRMSWhCZ1JOUGloemhOREJ4Z2hPQzVxTDk1WS1HY28zZ1VEbXBxM09aR09OZjZZMkpPaWhFV0d2ZUtrMngwVk9OUV9RYWh1M01oUUw1b3A5WVkwNWhyY0tUekJtWGp2OXNIQjhJOVFMSEE?oc=5)
+Source: [The New York Times](https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZUDVXQU0tWDVyUW40akdzOEdtMXRGWXVuVEJMbThKaTkxSVBFbWhOdlFvTmhPMG1WTDQ3cHNPbmY2dHZTVG1GR0JxYzh4RkFhSHdzc2thakRBTFlWTDE2OWtNNHpYVVo3S3R5TTBBR2NkSU0?oc=5)
+
+---
+
+### [Scientists just found a new way to make hydrogen from water](https://news.google.com/rss/articles/CBMib0FVX3lxTE8tVEhJQVUwY1NsUmp5dzNWemdUZk5pbXo1aHpLUEl1NDh1VkQtRFBwZVppVWJqN0czTWs5WXk1NE4zT2thNlRXbDRKNld2RFg1QlZZU0paRjBmck5pNmxtbFo2cEJnVXBRNkljNDVJSQ?oc=5)
+
+2026-10-04 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+
+Source: [ScienceDaily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8tVEhJQVUwY1NsUmp5dzNWemdUZk5pbXo1aHpLUEl1NDh1VkQtRFBwZVppVWJqN0czTWs5WXk1NE4zT2thNlRXbDRKNld2RFg1QlZZU0paRjBmck5pNmxtbFo2cEJnVXBRNkljNDVJSQ?oc=5)
 
 ---
 
@@ -85,14 +93,6 @@ Source: [404 Media](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZjlESnc
 2026-09-30 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwZjJhblFMU3Z5LXZtWUxVWWpCQWY5U0xlUjMtRXlkVldZdkJBeS1YMS1paC1lbWlRbjBOWE95SGdhX2ppT0I2WFc1VzBwUloxQV9nMUE5QWQ3ZjhtUmZz?oc=5)
-
----
-
-### [Do Endometriosis Tests Really Work? - The New York Times](https://news.google.com/rss/articles/CBMihgFBVV95cUxNbDJLVnM1ZVVIZkNnY19IdnY4czBrTENmWjVQN29xVTItZG1QZmVwXzZjcy1EY01tanBPejhxdW9SMExPbll5Zm1VbFJ5enlfQndONmc3Qkk5a0RDRzhaX0JmcXVMUURHMzFaSFFLSk10bmFUOXNic29qaDBGYlBjeEt3Z1k0QQ?oc=5)
-
-2026-09-29 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [The New York Times](https://news.google.com/rss/articles/CBMihgFBVV95cUxNbDJLVnM1ZVVIZkNnY19IdnY4czBrTENmWjVQN29xVTItZG1QZmVwXzZjcy1EY01tanBPejhxdW9SMExPbll5Zm1VbFJ5enlfQndONmc3Qkk5a0RDRzhaX0JmcXVMUURHMzFaSFFLSk10bmFUOXNic29qaDBGYlBjeEt3Z1k0QQ?oc=5)
 
 ---
 

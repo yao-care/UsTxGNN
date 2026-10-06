@@ -3,7 +3,7 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 5 articles, 2 related drugs."
+description: "Health news about flu (influenza). 4 articles, 2 related drugs."
 permalink: /news/influenza/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/influenza/
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>5 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>4 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (5)
+## Related News (4)
 
 ### [In wake of Legionnaires' outbreaks, a debate over NYC's water and industry influence](https://news.google.com/rss/articles/CBMirAFBVV95cUxPeXI0TjNhR01KZndPb0ZzaTh1bHhFZmVXY1o4dVZsMEgxaW1SZzJIQkxUOGJaUFFmdTlUa2lmclUwVXlCeDJ5d1p0QUgydmpwSlM5MlBUZVBULTJOZjRad3ZLSW03aW1mLWVsN3Q1MzdaaFhMOUNuR1RRRFJkZUx2a01ZUzRFaGZlQkVXR3F2NzJUbVNYcVdjZHQ0VHVvTm1ESnd6WThzS3VIekI0?oc=5)
 
@@ -48,27 +48,19 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxPeW
 
 ---
 
-### [Patient-zero drill put health facilities to the test—40% of them failed](https://news.google.com/rss/articles/CBMirwFBVV95cUxOZEtuRG1GdjRaNndMa3JzTVBtaU1uUXA3YmMxRFFxMHVES2RvMTlJRlRfd0FyUEw4UXNkTXhKMU9VWHJtRTB2RUx3Y1V0Z0FZSVFJVkNERzFGQXV4ZGhJQmhTWjhoV2YxMDdCSHpWN0JxUUNyc1ZoeGllY2tIdFFnZ0Z4Zm82LTdjQ29tYVlBcXRoamVpYXd4dWVkb2pRUG50UzVnbVN4M19mSkxUUHFV?oc=5)
+### [Affordable ways to protect your gut microbiome from unhealthy changes - The Independent](https://news.google.com/rss/articles/CBMisgFBVV95cUxNVy1JekhYQTZKU2xTUVdDZGE2azVtNlFXTmI1LWZxN1JwamdXMnJKQ1kxZHY5SUgwRC1FM0tuTmVhUHZRcl84SXp0ekNYNWpwdzR6ZWZZbE5rZFk5U203T0xaTHktLVgyWGRTUlhxRGVoN0VmNENXVDBLWHVxLVNHMmRzOWFkR1J0eUVDR0NhQlZjMURMUExiSVNLWVBRUDZXSWIyellRMjE2cG8wUm81TWtR?oc=5)
 
-2026-10-02
+2026-10-03
 
-Source: [arstechnica.com](https://news.google.com/rss/articles/CBMirwFBVV95cUxOZEtuRG1GdjRaNndMa3JzTVBtaU1uUXA3YmMxRFFxMHVES2RvMTlJRlRfd0FyUEw4UXNkTXhKMU9VWHJtRTB2RUx3Y1V0Z0FZSVFJVkNERzFGQXV4ZGhJQmhTWjhoV2YxMDdCSHpWN0JxUUNyc1ZoeGllY2tIdFFnZ0Z4Zm82LTdjQ29tYVlBcXRoamVpYXd4dWVkb2pRUG50UzVnbVN4M19mSkxUUHFV?oc=5)
-
----
-
-### [When should I get the flu shot? What experts say is the ideal time to protect yourself - NBC Connecticut](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNWlNNTNpcF9RajByN2FmYlVPbklqb2ZWMWdYTkNzaVBuTloyb0YtWkp6YWFkcTJZN1JBVjRnUnJnTFhZcU9mbHE1QlphN0JWUVpBMGMxS05pcVN4dVhWNTB5cUkwelBXd3NQdmJ1YzU4OTM5Qzhab3hZazJuRE1XSjNWZVlhb2o0WlJKdFA2Wk5fMFpXNXBlVHhCQ3B2dVVGNGtnWnpLVXBsc29tX25rdTNoWFZ0cUVM0gHAAUFVX3lxTFBGb2p4dzhhY3BSZVdsWUxGaHhObTN6dWFBNjdvQU5jelUxb1NHT1hNQnNMTVItNmhyZjlraVcwT1hqcU5SV2JGMXdFT1pzQTdCTnVYRnpIT3RZVFppbWtrMXRuc3Y2LUR3S3M5NG12UXFONDFpOXV6dC1URFFzMVJYazBQckNpTzJfMDI1UmQ5RDRwblpndHBwWVZHN3NJVV9nUTZZS2NvOUdnLVluMjQwVXFTd0RwUW5fVHJPcHJMZA?oc=5)
-
-2026-10-02
-
-Source: [NBC Connecticut](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNWlNNTNpcF9RajByN2FmYlVPbklqb2ZWMWdYTkNzaVBuTloyb0YtWkp6YWFkcTJZN1JBVjRnUnJnTFhZcU9mbHE1QlphN0JWUVpBMGMxS05pcVN4dVhWNTB5cUkwelBXd3NQdmJ1YzU4OTM5Qzhab3hZazJuRE1XSjNWZVlhb2o0WlJKdFA2Wk5fMFpXNXBlVHhCQ3B2dVVGNGtnWnpLVXBsc29tX25rdTNoWFZ0cUVM0gHAAUFVX3lxTFBGb2p4dzhhY3BSZVdsWUxGaHhObTN6dWFBNjdvQU5jelUxb1NHT1hNQnNMTVItNmhyZjlraVcwT1hqcU5SV2JGMXdFT1pzQTdCTnVYRnpIT3RZVFppbWtrMXRuc3Y2LUR3S3M5NG12UXFONDFpOXV6dC1URFFzMVJYazBQckNpTzJfMDI1UmQ5RDRwblpndHBwWVZHN3NJVV9nUTZZS2NvOUdnLVluMjQwVXFTd0RwUW5fVHJPcHJMZA?oc=5)
+Source: [The Independent](https://news.google.com/rss/articles/CBMisgFBVV95cUxNVy1JekhYQTZKU2xTUVdDZGE2azVtNlFXTmI1LWZxN1JwamdXMnJKQ1kxZHY5SUgwRC1FM0tuTmVhUHZRcl84SXp0ekNYNWpwdzR6ZWZZbE5rZFk5U203T0xaTHktLVgyWGRTUlhxRGVoN0VmNENXVDBLWHVxLVNHMmRzOWFkR1J0eUVDR0NhQlZjMURMUExiSVNLWVBRUDZXSWIyellRMjE2cG8wUm81TWtR?oc=5)
 
 ---
 
-### [Sex chromosomes influence immunity, cancer, aging and disease risk](https://news.google.com/rss/articles/CBMisgFBVV95cUxQcklKbmRWMDg1VW1MVjNDdGRpdnpFZUVkR3pMZEtseF9DMlFueFMwQnU4TEhVZHdPeV9HZlV1cDlKcEpEX21kSXVITURzbWc0WnRnUEV0WnpUUi0zYmJ0YnlXUklpdUxVdklvSWxXUUxOXzdkeW1ydXRaeU9sMzhZQUlEMFBOd2h1S1JEOURSLUVmNUdDcUs1c0xobU92UURuQWVDSW54Zjd2YnV0QnpLaWtR?oc=5)
+### [Patient-zero drill put health facilities to the test—40% of them failed - Ars Technica](https://news.google.com/rss/articles/CBMirwFBVV95cUxOZEtuRG1GdjRaNndMa3JzTVBtaU1uUXA3YmMxRFFxMHVES2RvMTlJRlRfd0FyUEw4UXNkTXhKMU9VWHJtRTB2RUx3Y1V0Z0FZSVFJVkNERzFGQXV4ZGhJQmhTWjhoV2YxMDdCSHpWN0JxUUNyc1ZoeGllY2tIdFFnZ0Z4Zm82LTdjQ29tYVlBcXRoamVpYXd4dWVkb2pRUG50UzVnbVN4M19mSkxUUHFV?oc=5)
 
-2026-10-01
+2026-10-02
 
-Source: [News-Medical](https://news.google.com/rss/articles/CBMisgFBVV95cUxQcklKbmRWMDg1VW1MVjNDdGRpdnpFZUVkR3pMZEtseF9DMlFueFMwQnU4TEhVZHdPeV9HZlV1cDlKcEpEX21kSXVITURzbWc0WnRnUEV0WnpUUi0zYmJ0YnlXUklpdUxVdklvSWxXUUxOXzdkeW1ydXRaeU9sMzhZQUlEMFBOd2h1S1JEOURSLUVmNUdDcUs1c0xobU92UURuQWVDSW54Zjd2YnV0QnpLaWtR?oc=5)
+Source: [Ars Technica](https://news.google.com/rss/articles/CBMirwFBVV95cUxOZEtuRG1GdjRaNndMa3JzTVBtaU1uUXA3YmMxRFFxMHVES2RvMTlJRlRfd0FyUEw4UXNkTXhKMU9VWHJtRTB2RUx3Y1V0Z0FZSVFJVkNERzFGQXV4ZGhJQmhTWjhoV2YxMDdCSHpWN0JxUUNyc1ZoeGllY2tIdFFnZ0Z4Zm82LTdjQ29tYVlBcXRoamVpYXd4dWVkb2pRUG50UzVnbVN4M19mSkxUUHFV?oc=5)
 
 ---
 

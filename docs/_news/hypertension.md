@@ -31,11 +31,11 @@ This page brings together the latest health news about “hypertension” and li
 
 ## Related News (1)
 
-### [High blood pressure can accelerate osteoarthritis joint damage via a newly identified hormone pathway - Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDVTNkViTmNiQW5zUEV1TTdsTDZIN1RyUFZKOWhxV1FIRXRPN2pKNzZHNEs3MzRXSVUxdTdzdllQU3Yxd1RSc2s2Y1gwVkk0NVVrTXRIYS13OGNJNkEyUWVWRzFSU3Z0WEhmWjR1RmkycWJKQWhCbDd3Zmh6d1ZpN2xUZWNseWdrV0dZUQ?oc=5)
+### [Oscar Winner, 56, Reveals Life-Changing Health Diagnosis - The Daily Beast](https://news.google.com/rss/articles/CBMimAFBVV95cUxQU0RoUXNGVWw5VlNUSEVsc19LYTdVWFBYQzU3Smp4N1lDQXFMVFM0UlJKOXdHVERfSHNkQ080VVZFSGVfeFA5bnA5X1BzTllfX2hwel9iSkEtdEdBVHV2ekVISTZaWWFERWR2WEh1REg1d1JDY0FvcWpJMWxEbVB2QVc5NVBFVTNkQmRONXZhQ0ZCYW9JTDJaTQ?oc=5)
 
-2026-10-05
+2026-10-06
 
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxOZDVTNkViTmNiQW5zUEV1TTdsTDZIN1RyUFZKOWhxV1FIRXRPN2pKNzZHNEs3MzRXSVUxdTdzdllQU3Yxd1RSc2s2Y1gwVkk0NVVrTXRIYS13OGNJNkEyUWVWRzFSU3Z0WEhmWjR1RmkycWJKQWhCbDd3Zmh6d1ZpN2xUZWNseWdrV0dZUQ?oc=5)
+Source: [The Daily Beast](https://news.google.com/rss/articles/CBMimAFBVV95cUxQU0RoUXNGVWw5VlNUSEVsc19LYTdVWFBYQzU3Smp4N1lDQXFMVFM0UlJKOXdHVERfSHNkQ080VVZFSGVfeFA5bnA5X1BzTllfX2hwel9iSkEtdEdBVHV2ekVISTZaWWFERWR2WEh1REg1d1JDY0FvcWpJMWxEbVB2QVc5NVBFVTNkQmRONXZhQ0ZCYW9JTDJaTQ?oc=5)
 
 ---
 

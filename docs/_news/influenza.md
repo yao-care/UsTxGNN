@@ -3,7 +3,7 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 7 articles, 2 related drugs."
+description: "Health news about flu (influenza). 6 articles, 2 related drugs."
 permalink: /news/influenza/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/influenza/
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>7 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>6 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,21 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (7)
+## Related News (6)
 
-### [An early flu season means it might be time to think about a flu shot](https://news.google.com/rss/articles/CBMieEFVX3lxTE96TDMxTS1uYUtQZzZhN0d4SnpqeGc0QlZXTGpjZWQ1cENjZ2thNHYtTkticGFTMXhDZ0N2azRZTm1fdENhSDF1Mlk1eDJfUFMwTHJ1MU01ejJzQmRHdTBwU2RjN25OM2FaTF81N1VYbzNUdTlOckFWXw?oc=5)
+### [Expert tips for parents to prepare as flu season begins - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMingFBVV95cUxPMi1Mb2hmbHBGU0pscFZCNzBDVTltUEVtNmhyQU4wT0JQd0VDMkdBOWF0UHhzMVJUY0lQZkFSbVJiczQzTTVqSGxvQ0syWEZOcllsMmhXX00zQm1rNG0tc1phMExWMUx2d3l2c2U4Ump3Rnlwa3ozWTY2U1VGSkljYTVBZ3hsNG9yYTg5YVl5VVd4MU5qNW9rTmRoZTVwUdIBowFBVV95cUxPeDhCNVJuR21jaTVBa3VCajJ5WGhUdHVpTUlHZXN0OTJFb05OZUN2Z3RDdEZlWEg5YnU0aU5uM1hFd2VIWkQyWGNDblk5bU5YVWh3UXZweTNtSGNGMDdvb0lCMHdLaGN0VDRZRnpEWURjdTNqRUFPcjhZWTZEZWxDbkEtVmlvREpZRUZCZEVFVTFkck9hUnhheW1MREkxN0ZmMmI4?oc=5)
 
 2026-10-07
 
-Source: [NPR](https://news.google.com/rss/articles/CBMieEFVX3lxTE96TDMxTS1uYUtQZzZhN0d4SnpqeGc0QlZXTGpjZWQ1cENjZ2thNHYtTkticGFTMXhDZ0N2azRZTm1fdENhSDF1Mlk1eDJfUFMwTHJ1MU01ejJzQmRHdTBwU2RjN25OM2FaTF81N1VYbzNUdTlOckFWXw?oc=5)
+Source: [ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMingFBVV95cUxPMi1Mb2hmbHBGU0pscFZCNzBDVTltUEVtNmhyQU4wT0JQd0VDMkdBOWF0UHhzMVJUY0lQZkFSbVJiczQzTTVqSGxvQ0syWEZOcllsMmhXX00zQm1rNG0tc1phMExWMUx2d3l2c2U4Ump3Rnlwa3ozWTY2U1VGSkljYTVBZ3hsNG9yYTg5YVl5VVd4MU5qNW9rTmRoZTVwUdIBowFBVV95cUxPeDhCNVJuR21jaTVBa3VCajJ5WGhUdHVpTUlHZXN0OTJFb05OZUN2Z3RDdEZlWEg5YnU0aU5uM1hFd2VIWkQyWGNDblk5bU5YVWh3UXZweTNtSGNGMDdvb0lCMHdLaGN0VDRZRnpEWURjdTNqRUFPcjhZWTZEZWxDbkEtVmlvREpZRUZCZEVFVTFkck9hUnhheW1MREkxN0ZmMmI4?oc=5)
+
+---
+
+### [Everything you need to know about getting your flu and COVID vaccines - CTV News](https://news.google.com/rss/articles/CBMisAFBVV95cUxNTTFqOTh1VjZUcjZwbm55QVo1WUtNS1pRRTBxRG43eEFNc1h5OFZSTndOaWVMOEdaS1p2dUJQclpIZ1VlRGdRUzh0bXJYWllzclVqWFgwZjJXc3pKdDByc0FTU3lNalZWYktFZDNrajdIWGQ2RVlYNGZZdjY4ZzVlZEppLXZwbW9QeEJodlNydGZHLTZBY1E1WkJOaEFoNzF0aExDZ0ZJVUdqTWpwRmI0Mw?oc=5)
+
+2026-10-06
+
+Source: [CTV News](https://news.google.com/rss/articles/CBMisAFBVV95cUxNTTFqOTh1VjZUcjZwbm55QVo1WUtNS1pRRTBxRG43eEFNc1h5OFZSTndOaWVMOEdaS1p2dUJQclpIZ1VlRGdRUzh0bXJYWllzclVqWFgwZjJXc3pKdDByc0FTU3lNalZWYktFZDNrajdIWGQ2RVlYNGZZdjY4ZzVlZEppLXZwbW9QeEJodlNydGZHLTZBY1E1WkJOaEFoNzF0aExDZ0ZJVUdqTWpwRmI0Mw?oc=5)
 
 ---
 
@@ -56,35 +64,19 @@ Source: [The Conversation](https://news.google.com/rss/articles/CBMipwFBVV95cUxP
 
 ---
 
-### [‘Please get vaccinated,’ state health secretary urges as new COVID-19 vaccines roll out - Pittsburgh Post](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR0RDOHpQZDRKeXBUcy0zSG5PSjN5QjVDVDk4TTdqekxLend3MmxFdENiNF81bGlHOFBuTmNVZDRjSnZtNHNudjJ5ZDRkQ05SVzgxSDNqdVlSWnplY2JMM3I2OHk2WlUyV0Q2N0xlMGZ2UmFJd1kxc3BsekkyVkpLZVR2R1RWRHpGLUVpdWdYbmxzbGZzdUxGcjF2a19fUk5wN0FKMkphOVZZaXlxeE1pMWNGelRScTlWTnNrN0c2cmpmdw?oc=5)
-
-2026-10-05
-
-Source: [Pittsburgh Post-Gazette](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR0RDOHpQZDRKeXBUcy0zSG5PSjN5QjVDVDk4TTdqekxLend3MmxFdENiNF81bGlHOFBuTmNVZDRjSnZtNHNudjJ5ZDRkQ05SVzgxSDNqdVlSWnplY2JMM3I2OHk2WlUyV0Q2N0xlMGZ2UmFJd1kxc3BsekkyVkpLZVR2R1RWRHpGLUVpdWdYbmxzbGZzdUxGcjF2a19fUk5wN0FKMkphOVZZaXlxeE1pMWNGelRScTlWTnNrN0c2cmpmdw?oc=5)
-
----
-
-### [Scientists Served Processed and Unprocessed Meals—Then Compared the Effects](https://news.google.com/rss/articles/CBMijwFBVV95cUxNZDJHd3R2UnIwWnE3SDdrb0NWaEFwcnpfNXUxNEZWNEhycWRodmc5cnZwQjk2cV8tYmxTX1F1bVdMb19Gb2t6VTR4RjlqMTA0b0dpb2VaYXZjd2VNOVhpNjRCN0o0U19VRTNJcEVfSHBhWDZHY04ydkE3U1lhTzhjXzJ4RTV6bmZWMjdMSGlGQQ?oc=5)
-
-2026-10-05
-
-Source: [Newsweek](https://news.google.com/rss/articles/CBMijwFBVV95cUxNZDJHd3R2UnIwWnE3SDdrb0NWaEFwcnpfNXUxNEZWNEhycWRodmc5cnZwQjk2cV8tYmxTX1F1bVdMb19Gb2t6VTR4RjlqMTA0b0dpb2VaYXZjd2VNOVhpNjRCN0o0U19VRTNJcEVfSHBhWDZHY04ydkE3U1lhTzhjXzJ4RTV6bmZWMjdMSGlGQQ?oc=5)
-
----
-
-### [Most people with flu stop isolating at exactly the wrong time, CDC study finds - San Francisco Chronicle](https://news.google.com/rss/articles/CBMijAFBVV95cUxORXNPRDVkZkVlZFd0TGYyQkZ2a3JRd2twOUlhZjc2Znd3Y1lRbjNYc2RGejhDb1pnTFJPS19QZnlURnJWRzB6LUFMUHQwWGpxWmJCV25BWWFYcGJfZktGRFpHS2VUVnFTa09GVTB5ZmpyOEY2M1l4UWdicUdBTTlWeUZtQnpsTHNXbGNlNA?oc=5)
-
-2026-10-04
-
-Source: [San Francisco Chronicle](https://news.google.com/rss/articles/CBMijAFBVV95cUxORXNPRDVkZkVlZFd0TGYyQkZ2a3JRd2twOUlhZjc2Znd3Y1lRbjNYc2RGejhDb1pnTFJPS19QZnlURnJWRzB6LUFMUHQwWGpxWmJCV25BWWFYcGJfZktGRFpHS2VUVnFTa09GVTB5ZmpyOEY2M1l4UWdicUdBTTlWeUZtQnpsTHNXbGNlNA?oc=5)
-
----
-
 ### [Patient-zero drill put health facilities to the test—40% of them failed - Ars Technica](https://news.google.com/rss/articles/CBMirwFBVV95cUxOZEtuRG1GdjRaNndMa3JzTVBtaU1uUXA3YmMxRFFxMHVES2RvMTlJRlRfd0FyUEw4UXNkTXhKMU9VWHJtRTB2RUx3Y1V0Z0FZSVFJVkNERzFGQXV4ZGhJQmhTWjhoV2YxMDdCSHpWN0JxUUNyc1ZoeGllY2tIdFFnZ0Z4Zm82LTdjQ29tYVlBcXRoamVpYXd4dWVkb2pRUG50UzVnbVN4M19mSkxUUHFV?oc=5)
 
 2026-10-02
 
 Source: [Ars Technica](https://news.google.com/rss/articles/CBMirwFBVV95cUxOZEtuRG1GdjRaNndMa3JzTVBtaU1uUXA3YmMxRFFxMHVES2RvMTlJRlRfd0FyUEw4UXNkTXhKMU9VWHJtRTB2RUx3Y1V0Z0FZSVFJVkNERzFGQXV4ZGhJQmhTWjhoV2YxMDdCSHpWN0JxUUNyc1ZoeGllY2tIdFFnZ0Z4Zm82LTdjQ29tYVlBcXRoamVpYXd4dWVkb2pRUG50UzVnbVN4M19mSkxUUHFV?oc=5)
+
+---
+
+### [This amount of deli meat associated with higher dementia risk in compelling new review - Fox News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxON1JiNTYwNDNPT3hpMkdmM3BzbGpERnJDYVhJYVRoRlg1RU1VdTRsbjl1dGYxb3BIR3Zidk9sbkdWZHh6a0RpdDJzQ2ZHaUVCZlhwNVItcURLVWZLX19WcnBDeTRxZDRUM0dfUDdTNXJuMW14NlFtenYwUy1HSGpjelUzZ05YMEVTN2laM0drejN0RWhiYW9PRUlwak9jemR0RlI4YjliemLSAa4BQVVfeXFMTlotN0VEclBMaWphclF1ZzRVTl8wUE9YS3RsMDl0NnVEVlVIMjEzaTNGM2hiMkdBUHZhSDdVcW52VV9zRlNoOXlEeXVjeXZGWTRCWEk5d0J6N20xTG5uaVlCcUJ5OUxwMUZDQ1BPajhIamg1UkhlYXNzX2l5Um9Lcm1nX1hyeUpSTXk2TEVrekVNMnFXOURqOHBDZnRZSlN2TDA3SXhBNXkwcC1Jc3l3?oc=5)
+
+2026-10-02
+
+Source: [Fox News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxON1JiNTYwNDNPT3hpMkdmM3BzbGpERnJDYVhJYVRoRlg1RU1VdTRsbjl1dGYxb3BIR3Zidk9sbkdWZHh6a0RpdDJzQ2ZHaUVCZlhwNVItcURLVWZLX19WcnBDeTRxZDRUM0dfUDdTNXJuMW14NlFtenYwUy1HSGpjelUzZ05YMEVTN2laM0drejN0RWhiYW9PRUlwak9jemR0RlI4YjliemLSAa4BQVVfeXFMTlotN0VEclBMaWphclF1ZzRVTl8wUE9YS3RsMDl0NnVEVlVIMjEzaTNGM2hiMkdBUHZhSDdVcW52VV9zRlNoOXlEeXVjeXZGWTRCWEk5d0J6N20xTG5uaVlCcUJ5OUxwMUZDQ1BPajhIamg1UkhlYXNzX2l5Um9Lcm1nX1hyeUpSTXk2TEVrekVNMnFXOURqOHBDZnRZSlN2TDA3SXhBNXkwcC1Jc3l3?oc=5)
 
 ---
 

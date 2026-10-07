@@ -14,7 +14,7 @@ permalink: /news/rutin/
 ---
 
 <p class="key-answer" data-question="What news is there about Rutin?">
-<strong>Rutin</strong> currently has <strong>6 news articles</strong>, with 8 predicted indications.
+<strong>Rutin</strong> currently has <strong>5 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,23 @@ This page combines the AI-predicted indications for Rutin with the latest health
 <p><a href="{{ '/drugs/rutin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (5)
+
+### [James Watson Suggested Rosalind Franklin Missed the DNA Double Helix. Her Notes Say Otherwise](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV1FGS1cxQWlSRi1UVjFVSDdKYUp5ZHk3RVVlSGl0V0hMNW1Ebkk2WjYwV29CZUl1RDRrYWI3NTNrMG5qY245QlM3ckdBSGNnODVXbFQ5Q1BVQWNINXhfQ1hjU2QxNWhmYXFxZjhyRkE0WXdyanczaE1KYVRFZHc0T1FoNnFIRUxuNlJsLWVGaUNSd0c3Rmpudl9LWTM0dU1DWGNVR2lwemZMeHlRcUNGUG5yLTR3blRsTFdSREdkWVA?oc=5)
+
+2026-10-07 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [Gizmodo](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV1FGS1cxQWlSRi1UVjFVSDdKYUp5ZHk3RVVlSGl0V0hMNW1Ebkk2WjYwV29CZUl1RDRrYWI3NTNrMG5qY245QlM3ckdBSGNnODVXbFQ5Q1BVQWNINXhfQ1hjU2QxNWhmYXFxZjhyRkE0WXdyanczaE1KYVRFZHc0T1FoNnFIRUxuNlJsLWVGaUNSd0c3Rmpudl9LWTM0dU1DWGNVR2lwemZMeHlRcUNGUG5yLTR3blRsTFdSREdkWVA?oc=5)
+
+---
+
+### [California set to ban quartz countertop production amid health concerns](https://news.google.com/rss/articles/CBMigwFBVV95cUxQRF9qaDhGSG9rZURwU3R0UGhCWFlrZVlhai1yQVRyQXdBZkRDUEh3ZzRZanNyZFp0dkRlbUhHT09yblhNZGdLVmRnaXJlMGlrczMydjVFT2NUZFJCVC0wZzFMcHFQdE11RUxCV291VVJQSXBJbU9TZzJQQkl2cl80TmR0c9IBiAFBVV95cUxQQXR2X3RNR1dMZ1RhYWVBNUNKYjlZS3FUaUpqNlczSmlyNm4yUVZ4TWFlQXF2cDRmbThBSnh3WF91N1VOdWpxWnRuVGtBdHdBa2tXbjJJYXUtajc0RzBGUllxT05YQmN6bmJRMmNRM1ZUMnJCMEtmemJWaGkzTWEzbDZCWmFCMzNJ?oc=5)
+
+2026-10-06 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+
+Source: [NewsNation](https://news.google.com/rss/articles/CBMigwFBVV95cUxQRF9qaDhGSG9rZURwU3R0UGhCWFlrZVlhai1yQVRyQXdBZkRDUEh3ZzRZanNyZFp0dkRlbUhHT09yblhNZGdLVmRnaXJlMGlrczMydjVFT2NUZFJCVC0wZzFMcHFQdE11RUxCV291VVJQSXBJbU9TZzJQQkl2cl80TmR0c9IBiAFBVV95cUxQQXR2X3RNR1dMZ1RhYWVBNUNKYjlZS3FUaUpqNlczSmlyNm4yUVZ4TWFlQXF2cDRmbThBSnh3WF91N1VOdWpxWnRuVGtBdHdBa2tXbjJJYXUtajc0RzBGUllxT05YQmN6bmJRMmNRM1ZUMnJCMEtmemJWaGkzTWEzbDZCWmFCMzNJ?oc=5)
+
+---
 
 ### [Biotech’s peptide shows promise as ‘bait molecule’ to treat neuropathic pain in mice - Fierce Biotech](https://news.google.com/rss/articles/CBMiugFBVV95cUxQa3B5MzVnSWVBd3E2SlhrVXhiQmVwcFJJTjkyR0dDbXZESTV5aFVvUzlsYVJwa3BwSm4wVU5oUHM1RlVvYVdKRkRkU205WFlXaXZqbkJMNFBMdzdkYWEwWkV6MFk2aGNjTl9wbWFpNGhHOWpOWUJpR0FZcWlQWXc5VDNoUzVEbUpIZVlfVGUzeUNBVnVmNE8yQ1g5VDFRYWs5OTJtR0c0M2xSVVZQbkZEdHpxRmlHQWh2LUE?oc=5)
 
@@ -48,27 +64,11 @@ Source: [Fierce Biotech](https://news.google.com/rss/articles/CBMiugFBVV95cUxQa3
 
 ---
 
-### [Anesthesia Is 180 Years Old And Still a Mystery. A Study of 6 Animal Brains May Have Found Its Common Thread.](https://news.google.com/rss/articles/CBMirwFBVV95cUxNeXVETDBsTVNkR1pObGI3RFF4V3dMWng3eVJiczIxUTgxemxhbTRHcEdTMDRzOTVqYTJiR3hZVFRHdU9XaUZUZUpLa2pGdVVYQ3JTaldxQklHNTBKTGl1a2Z6azBiT1dPcmZBNGJNNUh0c1BqX1drZUcwNXg1OEVHVFFGR2xDUS02UGNQeXlrMHFHV3k4TmlrVTdTTWE5eTk2VndKVlRMdkNscXNOZ2Fj?oc=5)
+### [Brain tissue removed during surgery reveals potential way to curb inflammation linked to Alzheimer's - Medical Xpress](https://news.google.com/rss/articles/CBMiigFBVV95cUxOZzBpSUdEbmFlaWJ0Z1hCNnpzWG41Unk2R2lMQzZrNFRqOUdXa1N3cFVBcHp4b2Z1RlhTR3VtelBDRzRSOGd1Qko3OU1IZ2dTbnNTZ3U0MmIzYXVHVks2eVBtRi1QeWVvaUluUDdxajBld3drZV8xMExuQ0hwemY4RHh0VFBPaUtjQ2c?oc=5)
 
-2026-10-06 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-10-04 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMirwFBVV95cUxNeXVETDBsTVNkR1pObGI3RFF4V3dMWng3eVJiczIxUTgxemxhbTRHcEdTMDRzOTVqYTJiR3hZVFRHdU9XaUZUZUpLa2pGdVVYQ3JTaldxQklHNTBKTGl1a2Z6azBiT1dPcmZBNGJNNUh0c1BqX1drZUcwNXg1OEVHVFFGR2xDUS02UGNQeXlrMHFHV3k4TmlrVTdTTWE5eTk2VndKVlRMdkNscXNOZ2Fj?oc=5)
-
----
-
-### [Everyone Is Talking About Ferritin Levels. How Much Does It Really Matter for Your Health?](https://news.google.com/rss/articles/CBMitwFBVV95cUxQclBFRnR0LUNPWG1DQjR0bVZVMGJVbDhubTktelMtODBXazVSMFF3WXV6UTZtV1pMbzlZMHhLTllnOGJ0VGNWeGZEYmpfVjFKcWhsa1h2SkwyeWpwQXZUNkxMTDAwVkdOZ1JWU0xQZ3NWTC1HVFRmNlVQNDA5cUZCMy1rNEh0MGFDZm8xVkZXMjlHQkstdjFQUktibjNuak9sYVlZWFRxeWFnOWZzNFlpMW9pZ3p0YlE?oc=5)
-
-2026-10-05 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
-
-Source: [TODAY.com](https://news.google.com/rss/articles/CBMitwFBVV95cUxQclBFRnR0LUNPWG1DQjR0bVZVMGJVbDhubTktelMtODBXazVSMFF3WXV6UTZtV1pMbzlZMHhLTllnOGJ0VGNWeGZEYmpfVjFKcWhsa1h2SkwyeWpwQXZUNkxMTDAwVkdOZ1JWU0xQZ3NWTC1HVFRmNlVQNDA5cUZCMy1rNEh0MGFDZm8xVkZXMjlHQkstdjFQUktibjNuak9sYVlZWFRxeWFnOWZzNFlpMW9pZ3p0YlE?oc=5)
-
----
-
-### [Creatine may help build muscle even without exercise, study suggests](https://news.google.com/rss/articles/CBMiogFBVV95cUxPNFBMZlFSVlFMNlpGQlgtQlNmUnhTcVFIczVxc1l1bE1pS0RGVW9EVUVXd3ZGbEwwb0dpT2VGX2hJZzc5UWsyTm4ya1NmX3BpeFBuckZMZ0xLT0VsQmp0OUJqYTBZY1N6TTNCeDhkS0E2b2pmb1ZFYVZkSGNYVElKUVFFM2hRR3NxajhOZ1JYdDlhMklmMk1FVDFFcXFWdWVmREE?oc=5)
-
-2026-10-05 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
-
-Source: [MedicalNewsToday](https://news.google.com/rss/articles/CBMiogFBVV95cUxPNFBMZlFSVlFMNlpGQlgtQlNmUnhTcVFIczVxc1l1bE1pS0RGVW9EVUVXd3ZGbEwwb0dpT2VGX2hJZzc5UWsyTm4ya1NmX3BpeFBuckZMZ0xLT0VsQmp0OUJqYTBZY1N6TTNCeDhkS0E2b2pmb1ZFYVZkSGNYVElKUVFFM2hRR3NxajhOZ1JYdDlhMklmMk1FVDFFcXFWdWVmREE?oc=5)
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiigFBVV95cUxOZzBpSUdEbmFlaWJ0Z1hCNnpzWG41Unk2R2lMQzZrNFRqOUdXa1N3cFVBcHp4b2Z1RlhTR3VtelBDRzRSOGd1Qko3OU1IZ2dTbnNTZ3U0MmIzYXVHVks2eVBtRi1QeWVvaUluUDdxajBld3drZV8xMExuQ0hwemY4RHh0VFBPaUtjQ2c?oc=5)
 
 ---
 
@@ -77,14 +77,6 @@ Source: [MedicalNewsToday](https://news.google.com/rss/articles/CBMiogFBVV95cUxP
 2026-10-02 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [New York Post](https://news.google.com/rss/articles/CBMitAFBVV95cUxNOEN4bTFod1NKbmxiR2pwVU1OVzM5VVR6TV9wMU8tSkFuQnF1VUMwMEFNMjQzTjZKNmE0U1NELUkwMkR3R3RTbFVoX3o4WmowaDlUZUhCT0lIYWdzMmNrOE1BLUQ5eTlfRHB3U0swRS16NE9oNVRCYUJwd3NvdER4d2c4bkM1UjVnVlYwMHpkNkdCaXdBWWY1SGdRZjA3TnZJcExkVE1YU1Q4bjl0bi00MkRkUWw?oc=5)
-
----
-
-### [Sugar-rich foods exacerbate antibiotic-induced microbiome disruption](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwZjJhblFMU3Z5LXZtWUxVWWpCQWY5U0xlUjMtRXlkVldZdkJBeS1YMS1paC1lbWlRbjBOWE95SGdhX2ppT0I2WFc1VzBwUloxQV9nMUE5QWQ3ZjhtUmZz?oc=5)
-
-2026-09-30 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwZjJhblFMU3Z5LXZtWUxVWWpCQWY5U0xlUjMtRXlkVldZdkJBeS1YMS1paC1lbWlRbjBOWE95SGdhX2ppT0I2WFc1VzBwUloxQV9nMUE5QWQ3ZjhtUmZz?oc=5)
 
 ---
 

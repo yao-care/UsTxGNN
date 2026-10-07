@@ -14,7 +14,7 @@ permalink: /news/ramucirumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Ramucirumab?">
-<strong>Ramucirumab</strong> currently has <strong>7 news articles</strong>, with 10 predicted indications.
+<strong>Ramucirumab</strong> currently has <strong>9 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,45 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (9)
+
+### [It Can Keep Cancer in Remission. Why Is No One Talking About It? - The New York Times](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWnhQTWYtY3AzOXdDMXhMMkxPOHRZLUNsZlhLbGotTkR5VGdlLUZzejgtYjlhZHAzdnBhZnlRbnJQX3J0NkJ3bUljR3JvNDRBUS1jVkdfSnNZU0hJMEJPY0ZnbGtiVVZaUDlONUFGS2FTWVNPOTQ1S0JPdmtibDRXTXdfc19CSkFH?oc=5)
+
+2026-10-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+
+Source: [The New York Times](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWnhQTWYtY3AzOXdDMXhMMkxPOHRZLUNsZlhLbGotTkR5VGdlLUZzejgtYjlhZHAzdnBhZnlRbnJQX3J0NkJ3bUljR3JvNDRBUS1jVkdfSnNZU0hJMEJPY0ZnbGtiVVZaUDlONUFGS2FTWVNPOTQ1S0JPdmtibDRXTXdfc19CSkFH?oc=5)
+
+---
+
+### [Breast cancer rates are rising in young women. Here is what you can do to protect yourself. - CBS News](https://news.google.com/rss/articles/CBMie0FVX3lxTE9UZThlU2hMYzV3aTdPdWdwYXhJbmV2YS0zUEFaNG85S2ZXajk4SWc5MHZMTEQ4d3IzY1hZTHNSSjFsaWFmbk16NDB5YkhMM1k4VzNOY3ZXX21XVkxEUDNsY0RmMS1MdVNmUGdUWWlCM0JkVTFnTEU2NGpacw?oc=5)
+
+2026-10-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+
+Source: [CBS News](https://news.google.com/rss/articles/CBMie0FVX3lxTE9UZThlU2hMYzV3aTdPdWdwYXhJbmV2YS0zUEFaNG85S2ZXajk4SWc5MHZMTEQ4d3IzY1hZTHNSSjFsaWFmbk16NDB5YkhMM1k4VzNOY3ZXX21XVkxEUDNsY0RmMS1MdVNmUGdUWWlCM0JkVTFnTEU2NGpacw?oc=5)
+
+---
+
+### [7 Best Drinks for Liver Health: What to Drink to Support Your Liver](https://news.google.com/rss/articles/CBMiowFBVV95cUxNSi1lcGRQVTdhMHBtQUVlNFV4Z2hUdVBSQjRfNVVLSVc5bFF4d1VFMjNlaDZCSHBwQ2V6d2lIZU5kM2lwd3hRaVc2SXMxLW5BTTdEd2FsNEgtY3Ezb1RKYzJNQlBtNXZTS0pUSzNqa3ZMNG1IWGFIYTR4YVVYdjBFRFVJcE5SZk9wSG1saF9FSHZ3cGJsYVNhQ2VZSU8yRktaUnhN?oc=5)
+
+2026-10-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+
+Source: [https://docksiderestaurant.com.au/](https://news.google.com/rss/articles/CBMiowFBVV95cUxNSi1lcGRQVTdhMHBtQUVlNFV4Z2hUdVBSQjRfNVVLSVc5bFF4d1VFMjNlaDZCSHBwQ2V6d2lIZU5kM2lwd3hRaVc2SXMxLW5BTTdEd2FsNEgtY3Ezb1RKYzJNQlBtNXZTS0pUSzNqa3ZMNG1IWGFIYTR4YVVYdjBFRFVJcE5SZk9wSG1saF9FSHZ3cGJsYVNhQ2VZSU8yRktaUnhN?oc=5)
+
+---
 
 ### [Common Antidepressants Could Have an Unexpected Role in Cancer Survival](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZzd3QXBRcGFHSjNnektFeUp6bmdxbXY2Nk9EdEhBSWZ5dFp0MjlYUXBDRV9UbFQzUWwzV29rcWxTQ2tobzEwbGJfYXZqZ0JLckc4YlBnZmJNdlh5eWtSc0Y1ZDdIZzBBb0xGVEtmNloteHhmTXgyeHZiYjJFSEpUZGE1bkZ6S21NSnh4Mzllb3hUQkdHYzFIM0xnLVp5T2tqVWc?oc=5)
 
 2026-10-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZzd3QXBRcGFHSjNnektFeUp6bmdxbXY2Nk9EdEhBSWZ5dFp0MjlYUXBDRV9UbFQzUWwzV29rcWxTQ2tobzEwbGJfYXZqZ0JLckc4YlBnZmJNdlh5eWtSc0Y1ZDdIZzBBb0xGVEtmNloteHhmTXgyeHZiYjJFSEpUZGE1bkZ6S21NSnh4Mzllb3hUQkdHYzFIM0xnLVp5T2tqVWc?oc=5)
+
+---
+
+### [‘Too young for cancer’: Mother defies Stage 4 cancer diagnosis, welcomes second child - FOX 8 News](https://news.google.com/rss/articles/CBMipwFBVV95cUxOZE91X1REMW5CZVNoOUdYYjNPbFg3S0JxaHhUUkFKWWd0OHcxc0ZCenluemszTjZZVzdERndjX1JJTnNFWVpCYzJwZUFNc0xWSVgtbVBvb1RBMHc2OVJGQm91cW82aGFfSC0tQVdlUE5jaTFZSUxOWnhtT0tLSzVyMUZBYU80bFFKSWpONzl5bjNtLVp6WjRDNTh2NG5LcVJ3Zzdqa21rRdIBrAFBVV95cUxNN1ZENTdka2d1UHRZcHZuWHltUDlFTkdpS2E4Ml9lYTJnaGxvOEh2R0pTNlE5NVVaczBza096cGRXU2kwYzM1UFh1SFpaVWkxY053eU1aTGloYmEzZDdKY1c4akFFUEJMeDVzUWp5a1VITEhfS1hDVTF5ZHMxUllZNTBsT3NVSDB1T1ZScDR0Y3VweTV0elJjcFQtZTkyTDRfdTcwcDh6d1BEUzAy?oc=5)
+
+2026-10-06 <span class="news-indication-tag">cancer</span>
+
+Source: [FOX 8 News](https://news.google.com/rss/articles/CBMipwFBVV95cUxOZE91X1REMW5CZVNoOUdYYjNPbFg3S0JxaHhUUkFKWWd0OHcxc0ZCenluemszTjZZVzdERndjX1JJTnNFWVpCYzJwZUFNc0xWSVgtbVBvb1RBMHc2OVJGQm91cW82aGFfSC0tQVdlUE5jaTFZSUxOWnhtT0tLSzVyMUZBYU80bFFKSWpONzl5bjNtLVp6WjRDNTh2NG5LcVJ3Zzdqa21rRdIBrAFBVV95cUxNN1ZENTdka2d1UHRZcHZuWHltUDlFTkdpS2E4Ml9lYTJnaGxvOEh2R0pTNlE5NVVaczBza096cGRXU2kwYzM1UFh1SFpaVWkxY053eU1aTGloYmEzZDdKY1c4akFFUEJMeDVzUWp5a1VITEhfS1hDVTF5ZHMxUllZNTBsT3NVSDB1T1ZScDR0Y3VweTV0elJjcFQtZTkyTDRfdTcwcDh6d1BEUzAy?oc=5)
 
 ---
 
@@ -66,35 +98,19 @@ Source: [The Washington Post](https://news.google.com/rss/articles/CBMiowFBVV95c
 
 ---
 
-### [It Can Keep Cancer in Remission. Why Is No One Talking About It? - The New York Times](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWnhQTWYtY3AzOXdDMXhMMkxPOHRZLUNsZlhLbGotTkR5VGdlLUZzejgtYjlhZHAzdnBhZnlRbnJQX3J0NkJ3bUljR3JvNDRBUS1jVkdfSnNZU0hJMEJPY0ZnbGtiVVZaUDlONUFGS2FTWVNPOTQ1S0JPdmtibDRXTXdfc19CSkFH?oc=5)
+### [These infections are behind 1 in 8 cancer cases worldwide, study finds - USA Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNall2YzNVY2s1ZHptOEVid21LUFBsNjZRdjlqUVdRcUtmeEZoRVVVOEszYXBVaGxmNVlZZndaWnppa3pOVTZMWmR3alNOV3Y1b29hYlk1Z0tkTXhhLTU3andJampueEFRMk4yWGp6NmdVb3FrOC1VUTlvRzRMdUtMVGxMZ2ZQWHQtQmdKV1lCSjlHZThOUVhEeU9fVl9MZnNZYS04WHVVdFZGTmtoQlZUZjdjVnJDZ1lv?oc=5)
 
-2026-10-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span>
+2026-10-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
 
-Source: [The New York Times](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWnhQTWYtY3AzOXdDMXhMMkxPOHRZLUNsZlhLbGotTkR5VGdlLUZzejgtYjlhZHAzdnBhZnlRbnJQX3J0NkJ3bUljR3JvNDRBUS1jVkdfSnNZU0hJMEJPY0ZnbGtiVVZaUDlONUFGS2FTWVNPOTQ1S0JPdmtibDRXTXdfc19CSkFH?oc=5)
+Source: [USA Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNall2YzNVY2s1ZHptOEVid21LUFBsNjZRdjlqUVdRcUtmeEZoRVVVOEszYXBVaGxmNVlZZndaWnppa3pOVTZMWmR3alNOV3Y1b29hYlk1Z0tkTXhhLTU3andJampueEFRMk4yWGp6NmdVb3FrOC1VUTlvRzRMdUtMVGxMZ2ZQWHQtQmdKV1lCSjlHZThOUVhEeU9fVl9MZnNZYS04WHVVdFZGTmtoQlZUZjdjVnJDZ1lv?oc=5)
 
 ---
 
-### [Four types of cancer have doubled in under-50s - The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxPdW4yTjgzbjZ6Qk9EUEduSUs2TTVwYTJ2dWxiTW9US09zYlFoRDV1ODNZbkFpMVpwSUxURFVBYTN1U2lHbW1fTjNwdnJ5UTI0bkVrQ21CZFFpSEZOcWhYZ3NIMlNTenRKMEVTQ2RpcVIwcDB0dUQ2VXFJYVlmMXBGM2JUdDZSWk9zQ0M2SVM4NHVuNkJmWnc?oc=5)
+### [Cancer trial drug may work differently than scientists believed, raising concerns for clinical research - Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxPbEtwSmdkRy16UFdvYmZTVUo3TGhGNHAwMXdaNFZ3WW5WRGlpU0pjVjJ4b1BtUW56TFhiN1dDeGlnOU5LYjRSdVNmQjhNeFMyX0paRjFfZkJWVDZhMGdNMzdpMlRqQVVuR3hVM0FnQXdCeVBQMklyU3lGWlJMWFU5Q1dUODhhSDdYc2FRNw?oc=5)
 
 2026-10-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMilgFBVV95cUxPdW4yTjgzbjZ6Qk9EUEduSUs2TTVwYTJ2dWxiTW9US09zYlFoRDV1ODNZbkFpMVpwSUxURFVBYTN1U2lHbW1fTjNwdnJ5UTI0bkVrQ21CZFFpSEZOcWhYZ3NIMlNTenRKMEVTQ2RpcVIwcDB0dUQ2VXFJYVlmMXBGM2JUdDZSWk9zQ0M2SVM4NHVuNkJmWnc?oc=5)
-
----
-
-### [These infections are behind 1 in 8 cancer cases worldwide, study finds](https://news.google.com/rss/articles/CBMikAFBVV95cUxPaUZEZGJVeVNhaDBITmVDaFFpZnJMdFNBT3QxTFdqbk11TDMyUTBQVjRSYm9fQmUzYkJIR0RTalhtaXJEeXkyMkZ5VWZ5R2dES3VuZWdfMTFYSXlCX1Q3bldfS083enV3R25ZQVNlTk42d0xBT1BQak9WczA3X0JfbUZITU1JNHlxYU03dWduVkw?oc=5)
-
-2026-10-05 <span class="news-indication-tag">cancer</span>
-
-Source: [Yahoo](https://news.google.com/rss/articles/CBMikAFBVV95cUxPaUZEZGJVeVNhaDBITmVDaFFpZnJMdFNBT3QxTFdqbk11TDMyUTBQVjRSYm9fQmUzYkJIR0RTalhtaXJEeXkyMkZ5VWZ5R2dES3VuZWdfMTFYSXlCX1Q3bldfS083enV3R25ZQVNlTk42d0xBT1BQak9WczA3X0JfbUZITU1JNHlxYU03dWduVkw?oc=5)
-
----
-
-### [Clues to Why a Breakthrough Pancreatic Cancer Drug Eventually Stops Working - The New York Times](https://news.google.com/rss/articles/CBMipwFBVV95cUxNdlBieXNlcHBLVVlhZXRqOEJmSkQtS1BiLWlfU1pVSzRGZlR4b2FKU1lWYmh4QlVXQ193cDFRSnhBbXRsV0g4ZEZZdkFQLXRfOVZOYkItN3VHN3BCOXhHOHZHakU2a0g2SDBMWEV4V3BPZGNER09VRzB5WndWWUNtQnVVbVB1N0dCTWdkek9sZEVsZTBWMjF6aDZNWFAxal84ZHpEUjIycw?oc=5)
-
-2026-09-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
-
-Source: [The New York Times](https://news.google.com/rss/articles/CBMipwFBVV95cUxNdlBieXNlcHBLVVlhZXRqOEJmSkQtS1BiLWlfU1pVSzRGZlR4b2FKU1lWYmh4QlVXQ193cDFRSnhBbXRsV0g4ZEZZdkFQLXRfOVZOYkItN3VHN3BCOXhHOHZHakU2a0g2SDBMWEV4V3BPZGNER09VRzB5WndWWUNtQnVVbVB1N0dCTWdkek9sZEVsZTBWMjF6aDZNWFAxal84ZHpEUjIycw?oc=5)
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxPbEtwSmdkRy16UFdvYmZTVUo3TGhGNHAwMXdaNFZ3WW5WRGlpU0pjVjJ4b1BtUW56TFhiN1dDeGlnOU5LYjRSdVNmQjhNeFMyX0paRjFfZkJWVDZhMGdNMzdpMlRqQVVuR3hVM0FnQXdCeVBQMklyU3lGWlJMWFU5Q1dUODhhSDdYc2FRNw?oc=5)
 
 ---
 

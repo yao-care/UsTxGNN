@@ -3,7 +3,7 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 3 articles, 2 related drugs."
+description: "Health news about flu (influenza). 4 articles, 2 related drugs."
 permalink: /news/influenza/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/influenza/
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>3 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>4 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (3)
+## Related News (4)
+
+### [Flu season could kick off ‘incredibly’ early — what scientists are watching](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iZGZfeGp2NVdzUjlOYkNSMjNEQ1hmdmYyOFhJTWRzYVE3NUpNdFVROTlGN2VBNEJfSHduYk9IdDh1OVJ5WXJTcDFoTVZja3lhWklQMS1sbll2eGk4WUdn?oc=5)
+
+2026-10-06
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9iZGZfeGp2NVdzUjlOYkNSMjNEQ1hmdmYyOFhJTWRzYVE3NUpNdFVROTlGN2VBNEJfSHduYk9IdDh1OVJ5WXJTcDFoTVZja3lhWklQMS1sbll2eGk4WUdn?oc=5)
+
+---
 
 ### [‘Please get vaccinated,’ state health secretary urges as new COVID-19 vaccines roll out - Pittsburgh Post](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR0RDOHpQZDRKeXBUcy0zSG5PSjN5QjVDVDk4TTdqekxLend3MmxFdENiNF81bGlHOFBuTmNVZDRjSnZtNHNudjJ5ZDRkQ05SVzgxSDNqdVlSWnplY2JMM3I2OHk2WlUyV0Q2N0xlMGZ2UmFJd1kxc3BsekkyVkpLZVR2R1RWRHpGLUVpdWdYbmxzbGZzdUxGcjF2a19fUk5wN0FKMkphOVZZaXlxeE1pMWNGelRScTlWTnNrN0c2cmpmdw?oc=5)
 
@@ -40,11 +48,11 @@ Source: [Pittsburgh Post-Gazette](https://news.google.com/rss/articles/CBMiwgFBV
 
 ---
 
-### [Same calories, different responses: Food processing influences metabolism and brain activity - Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxPeWJkckdEOE9Na0U1OGVSa1ZMaW40dVY3VUxsZ2psVGxGLUowSW5QY3A5QjVVTkQwdjVyZzU5WklGbUdNREVxMVBSRmVuTEJKbWp1YlUzcXVkU3pORVFneC1Rc29jR2lCdXJuTjNKeVBYdHNMT3p3Z29Ick45SnlGLURfbk5kbFRsZkhOUw?oc=5)
+### [Scientists Served Processed and Unprocessed Meals—Then Compared the Effects](https://news.google.com/rss/articles/CBMijwFBVV95cUxNZDJHd3R2UnIwWnE3SDdrb0NWaEFwcnpfNXUxNEZWNEhycWRodmc5cnZwQjk2cV8tYmxTX1F1bVdMb19Gb2t6VTR4RjlqMTA0b0dpb2VaYXZjd2VNOVhpNjRCN0o0U19VRTNJcEVfSHBhWDZHY04ydkE3U1lhTzhjXzJ4RTV6bmZWMjdMSGlGQQ?oc=5)
 
 2026-10-05
 
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxPeWJkckdEOE9Na0U1OGVSa1ZMaW40dVY3VUxsZ2psVGxGLUowSW5QY3A5QjVVTkQwdjVyZzU5WklGbUdNREVxMVBSRmVuTEJKbWp1YlUzcXVkU3pORVFneC1Rc29jR2lCdXJuTjNKeVBYdHNMT3p3Z29Ick45SnlGLURfbk5kbFRsZkhOUw?oc=5)
+Source: [Newsweek](https://news.google.com/rss/articles/CBMijwFBVV95cUxNZDJHd3R2UnIwWnE3SDdrb0NWaEFwcnpfNXUxNEZWNEhycWRodmc5cnZwQjk2cV8tYmxTX1F1bVdMb19Gb2t6VTR4RjlqMTA0b0dpb2VaYXZjd2VNOVhpNjRCN0o0U19VRTNJcEVfSHBhWDZHY04ydkE3U1lhTzhjXzJ4RTV6bmZWMjdMSGlGQQ?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 9 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 8 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/inflammatory-bowel-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>9 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>8 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,7 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (9)
+## Related News (8)
 
 ### [Longtime surfers are being diagnosed with this strange condition](https://news.google.com/rss/articles/CBMikgFBVV95cUxOOWRvcEF2Vi03VEZIQlNYRGFLOHB4SWNrSXJEbDlTNkdkbXU0eWcwei1ZeXdEUGM1NlBLQ2c0YTBjV09GZndrYTJnWmhKeTdGcDQ4TzVWcnE4dmxZeXEyRndseVJCQVhLdElDaFB2dzkzVVc2Vk1wSHFzR0RRaUp5dXVCakQzc3J2YzBxNGw2dV9CZ9IBlwFBVV95cUxQaGZaRzJ0R1lvMTZBcHhvb2xOeE54LWM1SDBTMEh3UDJTTmw1dzRMSG14ZzlSUUJFWFEyTXQ3NDBwMzhmbUF3SmFoMWx3UG1zN2lvU3RwSEhMNGdNREk1M291cEM2cXFxRkwyMko5Tm5JVDVfR3RmNnZsZU55Q2lfQmdmZWhKM2JyREhEN2E1MnRaTWlkMkhn?oc=5)
 
@@ -76,14 +76,6 @@ Source: [MedicalNewsToday](https://news.google.com/rss/articles/CBMiogFBVV95cUxP
 
 ---
 
-### [Shortages of crucial HIV medicines due to aid cuts are a ‘warning’, say experts - The Guardian](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSnk5N0hJMGdwNzh1d3hWSEVpclhwUmc1X2FxMU9rQlU3cWc2U0JUekRLeV83d0tiRzYwRzNFUlFhSmRGU0tsX2ViNndrNGU0dUlRdXhnMTl0OC1UbVdxenVsWmUyQjBWcHhYa3d3Q3QyM2FHeFV3V3UtQTA0Sm82dDRBQmZubFgtX0JMS1Fid3B5TFNLSlhTbTg5Zlh3dDhIQ2ZZOVlWaUt5WDE5SVFMMURQV21yV2ZURkJWZnVrVlp6Mmo3Z3cyak1OaTlIYUpL?oc=5)
-
-2026-10-05
-
-Source: [The Guardian](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSnk5N0hJMGdwNzh1d3hWSEVpclhwUmc1X2FxMU9rQlU3cWc2U0JUekRLeV83d0tiRzYwRzNFUlFhSmRGU0tsX2ViNndrNGU0dUlRdXhnMTl0OC1UbVdxenVsWmUyQjBWcHhYa3d3Q3QyM2FHeFV3V3UtQTA0Sm82dDRBQmZubFgtX0JMS1Fid3B5TFNLSlhTbTg5Zlh3dDhIQ2ZZOVlWaUt5WDE5SVFMMURQV21yV2ZURkJWZnVrVlp6Mmo3Z3cyak1OaTlIYUpL?oc=5)
-
----
-
 ### [Measles Outbreak in Amish Country Forces Some to Rethink Vaccines - The New York Times](https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZUDVXQU0tWDVyUW40akdzOEdtMXRGWXVuVEJMbThKaTkxSVBFbWhOdlFvTmhPMG1WTDQ3cHNPbmY2dHZTVG1GR0JxYzh4RkFhSHdzc2thakRBTFlWTDE2OWtNNHpYVVo3S3R5TTBBR2NkSU0?oc=5)
 
 2026-10-04
@@ -92,11 +84,11 @@ Source: [The New York Times](https://news.google.com/rss/articles/CBMic0FVX3lxTE
 
 ---
 
-### [Wall Squats, Planks Once a Week May Help Lower Your Blood Pressure](https://news.google.com/rss/articles/CBMingFBVV95cUxNR2hDOUtkTzd6aUJueEtsMXFBUElab29WQjAwU2ljbEZVSWxwQjVtblRFV0RRVnZkaUVpQmgzYkowanNFSEdxX2tYMzdFdkI3R1JaY1VPV1BYR0tUc0xuZkdDejV5eXBzZkktTFZOeGwwbVF2SGNsbExaSWlHUGI3ZmdPT24zbFBJcWF5MTY4WFdlcUhRSmMyQ0Rod2FhZw?oc=5)
+### [The One Fall Food Dietitians Recommend for Brain, Heart, and Gut Health - Real Simple](https://news.google.com/rss/articles/CBMigwFBVV95cUxNS1I1RTVKOGctYm9MX00wRE93Zkx4Y3FscFlJRWpUZ2s2STZJaUtmSFhRaUpYOXRMXzhuSTU5cWRfS1FzVkdwNFU5dzJNRnpYVjkzNU4tYXJJZzZXSm9rQkVCUTNsOVd2ckVzSTV3MlM1SVR3VmdaT2FKMXM0b19fc3NHbw?oc=5)
 
-2026-10-01
+2026-10-04
 
-Source: [Healthline](https://news.google.com/rss/articles/CBMingFBVV95cUxNR2hDOUtkTzd6aUJueEtsMXFBUElab29WQjAwU2ljbEZVSWxwQjVtblRFV0RRVnZkaUVpQmgzYkowanNFSEdxX2tYMzdFdkI3R1JaY1VPV1BYR0tUc0xuZkdDejV5eXBzZkktTFZOeGwwbVF2SGNsbExaSWlHUGI3ZmdPT24zbFBJcWF5MTY4WFdlcUhRSmMyQ0Rod2FhZw?oc=5)
+Source: [Real Simple](https://news.google.com/rss/articles/CBMigwFBVV95cUxNS1I1RTVKOGctYm9MX00wRE93Zkx4Y3FscFlJRWpUZ2s2STZJaUtmSFhRaUpYOXRMXzhuSTU5cWRfS1FzVkdwNFU5dzJNRnpYVjkzNU4tYXJJZzZXSm9rQkVCUTNsOVd2ckVzSTV3MlM1SVR3VmdaT2FKMXM0b19fc3NHbw?oc=5)
 
 ---
 

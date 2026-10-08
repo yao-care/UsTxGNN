@@ -32,27 +32,35 @@ This page brings together the latest health news about “flu” and lists the d
 
 ## Related News (5)
 
-### [What vaccines doctors say you may need for respiratory virus season - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMikAFBVV95cUxQREpDQ1Y0ZEZDVjJfcXdldmx0NG5BSDBVbkRkQzBhZDFMZS04OUI3Qm5BdGVWdjhnUGZhRElrcWVvWlJkM3d6N2RsMXUxUkgxbGlCWmw1M1VSaTZ6VWgtcExkYnZqc3V5V2Zrd1gtMWZyM3ppMHMzTHN0NDhzMXN5amNNRi1acWRlMkk2ZllTNVDSAZYBQVVfeXFMTXZHZ2cxb0hDekY1SlJDYjFPT1JUX3ZkY3lnNzE0M2xnN2dQd2ZJRk9TZ0xOLTZvVUdCSGtNeEZuZGc2WEFwcDNJd2twN01GZU5HRFIxdVBHd1N2NW9xMzQ5OEo4am9pOHZNWmJKdzB4VlBCengyVDk3S2d6YlJ2dmpWOXNZMjdBLXZMcGx3alNsT3NsMTNB?oc=5)
+### [Covid, flu, West Nile virus, and plague](https://news.google.com/rss/articles/CBMijgFBVV95cUxQcHFfbjBnd25qaS1Xb0V1WUhHYjI4TzVlZnF0QUdDbkxtTktyMXduSVl2SVZiaWUxX2JfWFBYTDhINTFJLWtOZTFfUEdzc1RjdzY1Zm91Y2JHMTliV1RNNUo0WUtRSEhtWjhSNElDaWIyQ2pPUEFnem5XakRzT3RLNl9sODl5VUctTTA5VEd3?oc=5)
 
 2026-10-08
 
-Source: [ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMikAFBVV95cUxQREpDQ1Y0ZEZDVjJfcXdldmx0NG5BSDBVbkRkQzBhZDFMZS04OUI3Qm5BdGVWdjhnUGZhRElrcWVvWlJkM3d6N2RsMXUxUkgxbGlCWmw1M1VSaTZ6VWgtcExkYnZqc3V5V2Zrd1gtMWZyM3ppMHMzTHN0NDhzMXN5amNNRi1acWRlMkk2ZllTNVDSAZYBQVVfeXFMTXZHZ2cxb0hDekY1SlJDYjFPT1JUX3ZkY3lnNzE0M2xnN2dQd2ZJRk9TZ0xOLTZvVUdCSGtNeEZuZGc2WEFwcDNJd2twN01GZU5HRFIxdVBHd1N2NW9xMzQ5OEo4am9pOHZNWmJKdzB4VlBCengyVDk3S2d6YlJ2dmpWOXNZMjdBLXZMcGx3alNsT3NsMTNB?oc=5)
+Source: [Substack](https://news.google.com/rss/articles/CBMijgFBVV95cUxQcHFfbjBnd25qaS1Xb0V1WUhHYjI4TzVlZnF0QUdDbkxtTktyMXduSVl2SVZiaWUxX2JfWFBYTDhINTFJLWtOZTFfUEdzc1RjdzY1Zm91Y2JHMTliV1RNNUo0WUtRSEhtWjhSNElDaWIyQ2pPUEFnem5XakRzT3RLNl9sODl5VUctTTA5VEd3?oc=5)
 
 ---
 
-### [UCSF infectious diseases expert on the early arrival of the flu season](https://news.google.com/rss/articles/CBMid0FVX3lxTFBEZm90NGpJZG9NNVB4ZjduazRkLXI3TzBVdkctdWstZ0gzUjRwemQ5TlZBbFZIWnA2UVhub1lSSU1TdXQ1Z1l6UDBydndhWHJTRUxLZnNRR2pzS1FrWlpxdkFwNDVpdVJybUwyOE5QRmwxNFM1ZDNZ0gF8QVVfeXFMTVNlU3JzUG5nOVpIdjlZSmEzZjBENnFJdnZsRkJnR043UzdtcG4zaC1ILXFLS19VNEp0bkhwckQzeE8xQ3RLcnNBdGJwbGRPNWpqYzZuN2VBbTZuRm1wcmhkbk1EVkF1cE5XTjZQQkVtcWVCMktyQ3pPVTJtbg?oc=5)
+### [Flu season didn’t start when or where it was expected. Get your shot now, health officials say - Los Angeles Times](https://news.google.com/rss/articles/CBMipgFBVV95cUxQRTRsYmpSQ0JOU1NNRGJWQ0ZBZDFLSHZNRlVzOUpLRVl4R3UyVWUyaTdRczRtdllyR0hWeFFWNUdlOHJvdGZvREx5VzFNSGo2M3FNMXZNS25VWEZIWGhONFRTbkRySWlTTzRkNGNpNWQ2dlpCLWhSVlRQM0R3bVVmSWFVanZfWENhMUcyQ0dVMmpOZE5VWTFMcjY5Qkc3TGlWWlRUaHpB?oc=5)
 
-2026-10-06
+2026-10-08
 
-Source: [KTVU](https://news.google.com/rss/articles/CBMid0FVX3lxTFBEZm90NGpJZG9NNVB4ZjduazRkLXI3TzBVdkctdWstZ0gzUjRwemQ5TlZBbFZIWnA2UVhub1lSSU1TdXQ1Z1l6UDBydndhWHJTRUxLZnNRR2pzS1FrWlpxdkFwNDVpdVJybUwyOE5QRmwxNFM1ZDNZ0gF8QVVfeXFMTVNlU3JzUG5nOVpIdjlZSmEzZjBENnFJdnZsRkJnR043UzdtcG4zaC1ILXFLS19VNEp0bkhwckQzeE8xQ3RLcnNBdGJwbGRPNWpqYzZuN2VBbTZuRm1wcmhkbk1EVkF1cE5XTjZQQkVtcWVCMktyQ3pPVTJtbg?oc=5)
+Source: [Los Angeles Times](https://news.google.com/rss/articles/CBMipgFBVV95cUxQRTRsYmpSQ0JOU1NNRGJWQ0ZBZDFLSHZNRlVzOUpLRVl4R3UyVWUyaTdRczRtdllyR0hWeFFWNUdlOHJvdGZvREx5VzFNSGo2M3FNMXZNS25VWEZIWGhONFRTbkRySWlTTzRkNGNpNWQ2dlpCLWhSVlRQM0R3bVVmSWFVanZfWENhMUcyQ0dVMmpOZE5VWTFMcjY5Qkc3TGlWWlRUaHpB?oc=5)
 
 ---
 
-### [Diet alone cannot explain differences in gut bacterial communities](https://news.google.com/rss/articles/CBMigwFBVV95cUxQM1BCUlpXYzY0Y0pSdk9xeEQzYUdGdHZYWl9FSGxkMF9EVUEyNzVMeHp5TEplemlkSW1QSkdtT1NRMVk0WThBZmY5bDkyTV85YVVXdC04MkdhUGotYXF6RHB5U0N4MjAwWTNWVDVaaDg5cFZfNlUzYU4zaHU0a3JxT2ZJMA?oc=5)
+### [Sonoma County issues masking order for some health facilities ahead of flu and cold season - The Press Democrat](https://news.google.com/rss/articles/CBMidEFVX3lxTE10MGJUNGtHejB2d19vUWpFSEFJenltalFWem1HUzRncUVMaHE3Y2hVQXF0Smo3SkNrZ05aZk5PUUJZMjdRUVU1ZW9LeE5ZMnNrakJzM3JnQ3Z4d1NrVmR4MjhPUVdXZHVQVHk0blA3OHNJTWpm?oc=5)
 
-2026-10-06
+2026-10-07
 
-Source: [Phys.org](https://news.google.com/rss/articles/CBMigwFBVV95cUxQM1BCUlpXYzY0Y0pSdk9xeEQzYUdGdHZYWl9FSGxkMF9EVUEyNzVMeHp5TEplemlkSW1QSkdtT1NRMVk0WThBZmY5bDkyTV85YVVXdC04MkdhUGotYXF6RHB5U0N4MjAwWTNWVDVaaDg5cFZfNlUzYU4zaHU0a3JxT2ZJMA?oc=5)
+Source: [The Press Democrat](https://news.google.com/rss/articles/CBMidEFVX3lxTE10MGJUNGtHejB2d19vUWpFSEFJenltalFWem1HUzRncUVMaHE3Y2hVQXF0Smo3SkNrZ05aZk5PUUJZMjdRUVU1ZW9LeE5ZMnNrakJzM3JnQ3Z4d1NrVmR4MjhPUVdXZHVQVHk0blA3OHNJTWpm?oc=5)
+
+---
+
+### [Measles is surging in the US. These graphics show how bad it has gotten - AP News](https://news.google.com/rss/articles/CBMiygFBVV95cUxQa2ZiUV9LSjc5R3FWeUZLcXpzQnQ1YS1JejJ2WDRidDRRYmQxUXZTbWJHLXE1SFZmeHBtc1J3aW5BNVVCX0F5RVhMQnl0LUtXd1lzNWsyTl80NXZBeDVmUjRVSXQtdmxrcXN0UVdzbFhCZFRWSjZKUkpwT2NQN3FGSjJEOU9lNDhlcGZMZF9GMGJXcGNrWGlJaFQwSXVOTWh3ZFRxaU1OTG41S1JqcjZkeHdUc29Ra2NTNHVfdmhrbDFscWc0U21Hb2Fn?oc=5)
+
+2026-10-07
+
+Source: [AP News](https://news.google.com/rss/articles/CBMiygFBVV95cUxQa2ZiUV9LSjc5R3FWeUZLcXpzQnQ1YS1JejJ2WDRidDRRYmQxUXZTbWJHLXE1SFZmeHBtc1J3aW5BNVVCX0F5RVhMQnl0LUtXd1lzNWsyTl80NXZBeDVmUjRVSXQtdmxrcXN0UVdzbFhCZFRWSjZKUkpwT2NQN3FGSjJEOU9lNDhlcGZMZF9GMGJXcGNrWGlJaFQwSXVOTWh3ZFRxaU1OTG41S1JqcjZkeHdUc29Ra2NTNHVfdmhrbDFscWc0U21Hb2Fn?oc=5)
 
 ---
 
@@ -61,14 +69,6 @@ Source: [Phys.org](https://news.google.com/rss/articles/CBMigwFBVV95cUxQM1BCUlpX
 2026-10-06
 
 Source: [The Conversation](https://news.google.com/rss/articles/CBMipwFBVV95cUxPd1ZpRmY1RGpFVlIyeExpNG9wX2N3ZFlHYmFPV1hRckZOMUFXZWx1M2czNlVJVHozdnlYa21GTHdpSEFyNkxZb3lDd3lweU13akQ2b3QzSzd5VVltd2xKYXRTdnlZd2ZWQmZTSlMzVjFDbEd0ZHk1U3V1aDd6RVFGRUI4Q0cyS1g4aWNwNDQtZnZSZmk3VlhjaVN3eWp1a2pkRmJjWkhiQQ?oc=5)
-
----
-
-### [Same calories, different responses: Food processing influences metabolism and brain activity - Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxPeWJkckdEOE9Na0U1OGVSa1ZMaW40dVY3VUxsZ2psVGxGLUowSW5QY3A5QjVVTkQwdjVyZzU5WklGbUdNREVxMVBSRmVuTEJKbWp1YlUzcXVkU3pORVFneC1Rc29jR2lCdXJuTjNKeVBYdHNMT3p3Z29Ick45SnlGLURfbk5kbFRsZkhOUw?oc=5)
-
-2026-10-05
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijAFBVV95cUxPeWJkckdEOE9Na0U1OGVSa1ZMaW40dVY3VUxsZ2psVGxGLUowSW5QY3A5QjVVTkQwdjVyZzU5WklGbUdNREVxMVBSRmVuTEJKbWp1YlUzcXVkU3pORVFneC1Rc29jR2lCdXJuTjNKeVBYdHNMT3p3Z29Ick45SnlGLURfbk5kbFRsZkhOUw?oc=5)
 
 ---
 

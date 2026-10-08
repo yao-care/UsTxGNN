@@ -3,7 +3,7 @@ layout: default
 title: "CAD (heart disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about CAD (heart disease). 4 articles, 1 related drugs."
+description: "Health news about CAD (heart disease). 3 articles, 1 related drugs."
 permalink: /news/heart-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/heart-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about CAD (heart disease)?">
-<strong>CAD (heart disease)</strong> currently has <strong>4 news articles</strong> and 1 related drugs.
+<strong>CAD (heart disease)</strong> currently has <strong>3 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -29,37 +29,29 @@ This page brings together the latest health news about “CAD” and lists the d
 </ul>
 </div>
 
-## Related News (4)
+## Related News (3)
 
-### [Nobel physics winner's pride at pioneering AI role](https://news.google.com/rss/articles/CBMickFVX3lxTE9WaUFiTXZVY0hlYnVQTU9qbTNVY2RvRXpEa1p3Y1lfaWJwbTdjN2g4c0pTeHNCZ2RpSi1uMnF6RFFtVjhsUV9uZ1ZFazczTENYREoySG1PRHBEUFNFOFdaU29oUG5ZeHFoZ1dpSDVGTEE0Zw?oc=5)
+### [Health officials report 74 new measles cases in Pennsylvania - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMipgFBVV95cUxNMndFcnFqeFdqTUE0Y0ZmNFdhQ1ViX2dXWWJtbjQyelNpYUZ3TjlLMnRjamxHSmFvRTZzc3VHTFltckRKVkdFQzJLenB5UDhFUVd6dmhnLTZlbE92UzkzcVMwMWRXbkF6WDJlcEFDa3ZSZFkwLXRPYVVrVjlQUk1XakpXSl9Wd0tsa3ZHOUJzQUJHUWFkUjJ1cXZKelVxNGxKMlFDUmlR0gGrAUFVX3lxTE53WjhWUE9JcEJQYjFsVDU5amhWbWs5cldIbllpbTVrd0NvamFpVy1WTUFhMVdfSkFxdzhKeWhHY0ZlWUdYQ0JPV2E3am5QR0ZORjRISUI4S2ZVVy1IMTNyRUk4OC1taTlwbGk4N0VfempYekNwWmNnSUpBcmNUNnlZaEFiSVBhTWZkY1ZwOG5tN1ZmRml5cWhOLUEwVURETzZuQVN2bGp4VS1rSQ?oc=5)
 
-2026-10-07
+2026-10-08
 
-Source: [Phys.org](https://news.google.com/rss/articles/CBMickFVX3lxTE9WaUFiTXZVY0hlYnVQTU9qbTNVY2RvRXpEa1p3Y1lfaWJwbTdjN2g4c0pTeHNCZ2RpSi1uMnF6RFFtVjhsUV9uZ1ZFazczTENYREoySG1PRHBEUFNFOFdaU29oUG5ZeHFoZ1dpSDVGTEE0Zw?oc=5)
-
----
-
-### [PA measles outbreak tops 1,000 cases, largest since disease was eliminated - Ars Technica](https://news.google.com/rss/articles/CBMisgFBVV95cUxOMDJBUEV3WHRnRTl4WlNDa2lsaFNicThRU3RsOGxKRzJCV2xkd25WN3FieDRSSFZfcVZlOUJTbVBLTUotYjA5ZElTWWF6aWFacmVILUJoNFNHQkhneEdCRzJ6NGJvdUZHNjBueHRtUWlTTmtEQktwekVpRVp0d2VnZVJ3d2ViNlJWNlVGcHEyNTRYTFI0TUd1bHhMUV9iWkwzTF9sVjRMNjJuQlZsY2lNOVZR?oc=5)
-
-2026-10-07
-
-Source: [Ars Technica](https://news.google.com/rss/articles/CBMisgFBVV95cUxOMDJBUEV3WHRnRTl4WlNDa2lsaFNicThRU3RsOGxKRzJCV2xkd25WN3FieDRSSFZfcVZlOUJTbVBLTUotYjA5ZElTWWF6aWFacmVILUJoNFNHQkhneEdCRzJ6NGJvdUZHNjBueHRtUWlTTmtEQktwekVpRVp0d2VnZVJ3d2ViNlJWNlVGcHEyNTRYTFI0TUd1bHhMUV9iWkwzTF9sVjRMNjJuQlZsY2lNOVZR?oc=5)
+Source: [ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMipgFBVV95cUxNMndFcnFqeFdqTUE0Y0ZmNFdhQ1ViX2dXWWJtbjQyelNpYUZ3TjlLMnRjamxHSmFvRTZzc3VHTFltckRKVkdFQzJLenB5UDhFUVd6dmhnLTZlbE92UzkzcVMwMWRXbkF6WDJlcEFDa3ZSZFkwLXRPYVVrVjlQUk1XakpXSl9Wd0tsa3ZHOUJzQUJHUWFkUjJ1cXZKelVxNGxKMlFDUmlR0gGrAUFVX3lxTE53WjhWUE9JcEJQYjFsVDU5amhWbWs5cldIbllpbTVrd0NvamFpVy1WTUFhMVdfSkFxdzhKeWhHY0ZlWUdYQ0JPV2E3am5QR0ZORjRISUI4S2ZVVy1IMTNyRUk4OC1taTlwbGk4N0VfempYekNwWmNnSUpBcmNUNnlZaEFiSVBhTWZkY1ZwOG5tN1ZmRml5cWhOLUEwVURETzZuQVN2bGp4VS1rSQ?oc=5)
 
 ---
 
-### [Shingles rates fall off a cliff among some Americans as researchers reveal likely reason - Fox News](https://news.google.com/rss/articles/CBMioAFBVV95cUxPU1ZYcEFmaXMzY0ZEQm53QTdLQ1JYdFpxdFRDdDkwbFZhRGxsd29INzR1aXJMdHN1S0tRd21GdnFEQTloTmpBdXIzeGZ4N2pDRG04UzBYTmRfemJNaTNucXNLTlBwb3FuNmJlNkJxc0pmdEs1VEN2NWpIM2c1Vm9hR3QyU0xvZGN2c21aN1Z1b1Zpc1A3aDUxalRhRGNHQ0lp0gGmAUFVX3lxTE1iMHF1WjlrSkN5Mzc0eldJUjl5Nl9ScWU3VDNSMGMta01rZG51ZU1OT3c3cU5BVXRPNVFYWThvRWJXMkc0djNBSWlGb1MwRTVGVi1FamFGV3FwaXZkZy1wMWpBLTRjanl1QWVBWHhKY1A5Z2hLVUpZUkhoZFlNaUZjQmRzc1VQcWZsZHRJanhHZ0JWcGNRZDQxdnVtd0NiQXBySFZFSnc?oc=5)
+### [American Academy of Pediatrics Renews Call for Ban on Raw Milk](https://news.google.com/rss/articles/CBMilwFBVV95cUxPZmcwVUd2WjdpOUVWWWdHVExoRHU0YkxZMGlWem1kR1JRTC1YWGJkTE1uWnFBZGQtLXJ2LUdiLTgwVzVmczRKYzZxa01qVm1zT1JKVGpaaFZjWlRjRVFxQy1iX2RrdmZuX0Y0UE42NXhSdDRiclFFRzZNM2w2OW03RmZjZ2Vhb1E4bnhzUTE4aUp4X3Y3U1Jr?oc=5)
 
-2026-10-07
+2026-10-08
 
-Source: [Fox News](https://news.google.com/rss/articles/CBMioAFBVV95cUxPU1ZYcEFmaXMzY0ZEQm53QTdLQ1JYdFpxdFRDdDkwbFZhRGxsd29INzR1aXJMdHN1S0tRd21GdnFEQTloTmpBdXIzeGZ4N2pDRG04UzBYTmRfemJNaTNucXNLTlBwb3FuNmJlNkJxc0pmdEs1VEN2NWpIM2c1Vm9hR3QyU0xvZGN2c21aN1Z1b1Zpc1A3aDUxalRhRGNHQ0lp0gGmAUFVX3lxTE1iMHF1WjlrSkN5Mzc0eldJUjl5Nl9ScWU3VDNSMGMta01rZG51ZU1OT3c3cU5BVXRPNVFYWThvRWJXMkc0djNBSWlGb1MwRTVGVi1FamFGV3FwaXZkZy1wMWpBLTRjanl1QWVBWHhKY1A5Z2hLVUpZUkhoZFlNaUZjQmRzc1VQcWZsZHRJanhHZ0JWcGNRZDQxdnVtd0NiQXBySFZFSnc?oc=5)
+Source: [ProPublica](https://news.google.com/rss/articles/CBMilwFBVV95cUxPZmcwVUd2WjdpOUVWWWdHVExoRHU0YkxZMGlWem1kR1JRTC1YWGJkTE1uWnFBZGQtLXJ2LUdiLTgwVzVmczRKYzZxa01qVm1zT1JKVGpaaFZjWlRjRVFxQy1iX2RrdmZuX0Y0UE42NXhSdDRiclFFRzZNM2w2OW03RmZjZ2Vhb1E4bnhzUTE4aUp4X3Y3U1Jr?oc=5)
 
 ---
 
-### [Lp(a): The ‘sticky’ cholesterol gene you might not know you have - The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxQZHpWd3FXVDA1b19ydXhwTWMxY1VQZENRMUo2VE9QaWRMUmljMjRaVzZ5cWRaRkNhY2I0M0pTN2ZvdkpSRmpic2wtcGpjdGlkSUY4aXVEZS15aWJ4VGYwUUdHRko5UjlKRTMwZHZOcGxuTDhfcjc1ZWM2N1Y5QS1ueHM4V1E5SEdGOGNTaWdIYUNnUm5BV1RsWVR2NA?oc=5)
+### [Common Antidepressants Could Have an Unexpected Role in Cancer Survival](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZzd3QXBRcGFHSjNnektFeUp6bmdxbXY2Nk9EdEhBSWZ5dFp0MjlYUXBDRV9UbFQzUWwzV29rcWxTQ2tobzEwbGJfYXZqZ0JLckc4YlBnZmJNdlh5eWtSc0Y1ZDdIZzBBb0xGVEtmNloteHhmTXgyeHZiYjJFSEpUZGE1bkZ6S21NSnh4Mzllb3hUQkdHYzFIM0xnLVp5T2tqVWc?oc=5)
 
 2026-10-07
 
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMimwFBVV95cUxQZHpWd3FXVDA1b19ydXhwTWMxY1VQZENRMUo2VE9QaWRMUmljMjRaVzZ5cWRaRkNhY2I0M0pTN2ZvdkpSRmpic2wtcGpjdGlkSUY4aXVEZS15aWJ4VGYwUUdHRko5UjlKRTMwZHZOcGxuTDhfcjc1ZWM2N1Y5QS1ueHM4V1E5SEdGOGNTaWdIYUNnUm5BV1RsWVR2NA?oc=5)
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZzd3QXBRcGFHSjNnektFeUp6bmdxbXY2Nk9EdEhBSWZ5dFp0MjlYUXBDRV9UbFQzUWwzV29rcWxTQ2tobzEwbGJfYXZqZ0JLckc4YlBnZmJNdlh5eWtSc0Y1ZDdIZzBBb0xGVEtmNloteHhmTXgyeHZiYjJFSEpUZGE1bkZ6S21NSnh4Mzllb3hUQkdHYzFIM0xnLVp5T2tqVWc?oc=5)
 
 ---
 

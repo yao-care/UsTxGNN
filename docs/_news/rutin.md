@@ -14,7 +14,7 @@ permalink: /news/rutin/
 ---
 
 <p class="key-answer" data-question="What news is there about Rutin?">
-<strong>Rutin</strong> currently has <strong>11 news articles</strong>, with 8 predicted indications.
+<strong>Rutin</strong> currently has <strong>10 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,31 @@ This page combines the AI-predicted indications for Rutin with the latest health
 <p><a href="{{ '/drugs/rutin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (10)
+
+### [More physical activity may mean slower Parkinson’s disease progression - The Washington Post](https://news.google.com/rss/articles/CBMivgFBVV95cUxOVFNnWHhjVGVGYm96b3AtREd2cDBrUlgtMzRzcFFCZURHVENyVDBxN0pCWG1zRHY1TDZmUUt5YWNxeE1vTnQ1WEJGYjNhamZVSnExODMtWnM5LVpHSHpWRklXeVRUbE5wdWxfNUkyS3VJQ2k3MWxXdWZBWDBiMkM1M3hONGtISFZEMkFOY0UzZ01aWG5Zbk1Ya05vN1loLVFtVmdEc3oyUlJ1REJiZm1vUFduU3ZSTEtzdkltQUJn?oc=5)
+
+2026-10-08 <span class="news-indication-tag">UC</span>
+
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMivgFBVV95cUxOVFNnWHhjVGVGYm96b3AtREd2cDBrUlgtMzRzcFFCZURHVENyVDBxN0pCWG1zRHY1TDZmUUt5YWNxeE1vTnQ1WEJGYjNhamZVSnExODMtWnM5LVpHSHpWRklXeVRUbE5wdWxfNUkyS3VJQ2k3MWxXdWZBWDBiMkM1M3hONGtISFZEMkFOY0UzZ01aWG5Zbk1Ya05vN1loLVFtVmdEc3oyUlJ1REJiZm1vUFduU3ZSTEtzdkltQUJn?oc=5)
+
+---
+
+### [Why California could ban a popular feature for high-end kitchen remodels - San Francisco Chronicle](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ2ZpRmw4QzJvOEVhQks3bEtLV1NqLXI2aGtWeC0zdjM0WnhtbERBNmZHSkpsNGU4S1A1eXlwNllQRHdOdFhFcUNDR2RBWFNFbUxPR3NHY2N1dkp4ZWp4bkhoZVV6dVlxVmpvTGpRV1ltN3VvX1RMLV9TVlNlSVhMMTV0TFUyZDExamJZMEFBa3VoMlc0V2VnU2pQdmZtaWpZS1BYSHhwY1Q?oc=5)
+
+2026-10-08 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [San Francisco Chronicle](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ2ZpRmw4QzJvOEVhQks3bEtLV1NqLXI2aGtWeC0zdjM0WnhtbERBNmZHSkpsNGU4S1A1eXlwNllQRHdOdFhFcUNDR2RBWFNFbUxPR3NHY2N1dkp4ZWp4bkhoZVV6dVlxVmpvTGpRV1ltN3VvX1RMLV9TVlNlSVhMMTV0TFUyZDExamJZMEFBa3VoMlc0V2VnU2pQdmZtaWpZS1BYSHhwY1Q?oc=5)
+
+---
+
+### [​Forget the pill, common gut microbe produces molecule that cuts cholesterol and betters heart health: What the new study found​ - The Times of India](https://news.google.com/rss/articles/CBMiqAJBVV95cUxNb0xSVG01T1pYcFMwU2ZpQWpMTnd1MGRyOGNhcHltVUZSaElOZUJVWUJWSlV1eEpyUVpEXzZFQ0gtT0FwaWVRdzBITjdSQWJnXzRTY2EyVVlFelVoR0hLaEFfbFFyRmZ2YnkyMUoteTlHdkxZUEtoS3pxUElGLTFqdHd1V3FBM1dJbVpOaVhXMkpkX0FNZUtSejIxNE1yZk03T2NqNWRvT1VDSmRfcUVjQURoUVkySU9FbDl6dFNfbFNZb3VOYXVxcU1pMUM2Si1aaG95dzd2M18yM1BZel93WVVsVHdvd21iYVdSNHBPOXhyZ3hXUEFlVFBERnhzZHN0azhzSC0yS1d3Y3hQbXNwZE4zbDhxV1NMNWpIYnhOeER1TVRXNngxRtIBsAJBVV95cUxOQWVmcm9HWm52RDFfa2ItVjF1dzJ3eUJidGU0SWUxVUlRbGItWG1uRm5Ha0lGOXk4VUdYaVNZV00tWWlPU3FNeVdZcW5UMlRDSkFJZXY2VXRuQ2dCMkFxSFdDVk95VTAwazFoY1hHeTQ5TlpWNmNlR2lKX1FfMEI2MDNzNGthYWhJT2J5NnhwNDhORndHaFZlWnJ0Rm9lQTR5ZE9CMEk1TTVHeG05T09JclZUZmpSWVY3dk9iQ21pQm1IdENKQ2RJeG9vMThZbktOVkJBMkF1OFNUMWdUdkpGc3lvMG1wb1pwU0R1WHV1ZEtlSVhOSzZTaFhhR2U2M2cyYlhVS1lNRDJYaGs0d2V6ZGFNMmNDMks5c1NCd1Y0a0ZXVS1GUjRPUjNTMHVZYnVm?oc=5)
+
+2026-10-08 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMiqAJBVV95cUxNb0xSVG01T1pYcFMwU2ZpQWpMTnd1MGRyOGNhcHltVUZSaElOZUJVWUJWSlV1eEpyUVpEXzZFQ0gtT0FwaWVRdzBITjdSQWJnXzRTY2EyVVlFelVoR0hLaEFfbFFyRmZ2YnkyMUoteTlHdkxZUEtoS3pxUElGLTFqdHd1V3FBM1dJbVpOaVhXMkpkX0FNZUtSejIxNE1yZk03T2NqNWRvT1VDSmRfcUVjQURoUVkySU9FbDl6dFNfbFNZb3VOYXVxcU1pMUM2Si1aaG95dzd2M18yM1BZel93WVVsVHdvd21iYVdSNHBPOXhyZ3hXUEFlVFBERnhzZHN0azhzSC0yS1d3Y3hQbXNwZE4zbDhxV1NMNWpIYnhOeER1TVRXNngxRtIBsAJBVV95cUxOQWVmcm9HWm52RDFfa2ItVjF1dzJ3eUJidGU0SWUxVUlRbGItWG1uRm5Ha0lGOXk4VUdYaVNZV00tWWlPU3FNeVdZcW5UMlRDSkFJZXY2VXRuQ2dCMkFxSFdDVk95VTAwazFoY1hHeTQ5TlpWNmNlR2lKX1FfMEI2MDNzNGthYWhJT2J5NnhwNDhORndHaFZlWnJ0Rm9lQTR5ZE9CMEk1TTVHeG05T09JclZUZmpSWVY3dk9iQ21pQm1IdENKQ2RJeG9vMThZbktOVkJBMkF1OFNUMWdUdkpGc3lvMG1wb1pwU0R1WHV1ZEtlSVhOSzZTaFhhR2U2M2cyYlhVS1lNRDJYaGs0d2V6ZGFNMmNDMks5c1NCd1Y0a0ZXVS1GUjRPUjNTMHVZYnVm?oc=5)
+
+---
 
 ### [Neanderthal woodworking was far more advanced than we thought, new study shows - Archaeology News Online Magazine](https://news.google.com/rss/articles/CBMigwFBVV95cUxOUmNpaTJ6em9FTWt5UkJac2dYWlcwdkxhcDZOdDI2aXlxY1ZpZVJiODd6SHBlUWVpa1NqVVFYRmw1SmRpNmppbWhkVFdhT1RzelBtWmNaRkZlUm4yS2laZzNnWFJDQ254SmpMNWRmRndjb2thRldKNExVQ1lxU2t4eGx0aw?oc=5)
 
@@ -48,19 +72,11 @@ Source: [Archaeology News Online Magazine](https://news.google.com/rss/articles/
 
 ---
 
-### [DNA From a Human Brain Gene Has Turned Up In a Virus](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQazlMNm9uYjh5Q0F5MDJsNm93ZDZxU0t2VTRKcHhBMVNGenNOdHQ0a2VIQkE4YWNfTGxZcmdQYURmaHVtcndyS255SG5tQ3pfaFZoZkRlaThkZG1vUzFDNVNXSnkzZXk3bDNqY1FRSjB4NUhJa01wTVFsR1MxVDI2bjhLSUNTSGJ6?oc=5)
+### [Woman in Pennsylvania diagnosed with alpha-gal syndrome after tick bite - CBS News](https://news.google.com/rss/articles/CBMiigFBVV95cUxQMFNhSkZhMHc2QUhwMVdRWFBSTklQV19XRUtIc0lhb0F3aDhMUDhUOUtnNEI3VXZSd3MyT1VDZ1Z4VloydlpWazkzX25iLWR5eHJaN21oSTZ6TWdtZEJfaGducDB4S1dud2xwa2VudnQ5MnNmeFJDczNuQUNCM0R3NTZUamRQMVZISnc?oc=5)
 
-2026-10-07 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-10-07 <span class="news-indication-tag">UC</span>
 
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQazlMNm9uYjh5Q0F5MDJsNm93ZDZxU0t2VTRKcHhBMVNGenNOdHQ0a2VIQkE4YWNfTGxZcmdQYURmaHVtcndyS255SG5tQ3pfaFZoZkRlaThkZG1vUzFDNVNXSnkzZXk3bDNqY1FRSjB4NUhJa01wTVFsR1MxVDI2bjhLSUNTSGJ6?oc=5)
-
----
-
-### [California could ban quartz countertop production amid health concerns](https://news.google.com/rss/articles/CBMidEFVX3lxTE0zX1MxMUJWc0QzNzZaaWtzcHBqc3ZjMXVZNFRWclVrMFYxTF9CTzRfMlpoMldZNTR6Z2RnM1FfUU1aTGRfR2hWbjYtWnlVbVlNMldBSnhqYUFHMnlnM3BOV3kyU0tpU2QwbzJPQUR0UDhudUJw0gF6QVVfeXFMTlVNc2NsOTZhajdjcTJINm0tNmxKaGpNbDFfU3ByTGdseHVWaXVnWWpGRVpodDJmV1VhX0RHZVM1WEZmVGlzVU8yWlFheWdtNVNWNkFDa0sxZXJiQnlqbHNaNGVuTG90YzdqUEJMMGlidjlwbGFFd3VQSGc?oc=5)
-
-2026-10-07 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
-
-Source: [KTLA](https://news.google.com/rss/articles/CBMidEFVX3lxTE0zX1MxMUJWc0QzNzZaaWtzcHBqc3ZjMXVZNFRWclVrMFYxTF9CTzRfMlpoMldZNTR6Z2RnM1FfUU1aTGRfR2hWbjYtWnlVbVlNMldBSnhqYUFHMnlnM3BOV3kyU0tpU2QwbzJPQUR0UDhudUJw0gF6QVVfeXFMTlVNc2NsOTZhajdjcTJINm0tNmxKaGpNbDFfU3ByTGdseHVWaXVnWWpGRVpodDJmV1VhX0RHZVM1WEZmVGlzVU8yWlFheWdtNVNWNkFDa0sxZXJiQnlqbHNaNGVuTG90YzdqUEJMMGlidjlwbGFFd3VQSGc?oc=5)
+Source: [CBS News](https://news.google.com/rss/articles/CBMiigFBVV95cUxQMFNhSkZhMHc2QUhwMVdRWFBSTklQV19XRUtIc0lhb0F3aDhMUDhUOUtnNEI3VXZSd3MyT1VDZ1Z4VloydlpWazkzX25iLWR5eHJaN21oSTZ6TWdtZEJfaGducDB4S1dud2xwa2VudnQ5MnNmeFJDczNuQUNCM0R3NTZUamRQMVZISnc?oc=5)
 
 ---
 
@@ -74,7 +90,7 @@ Source: [The New York Times](https://news.google.com/rss/articles/CBMihAFBVV95cU
 
 ### [Scientists May Have Found How to Limit Weight Regain After Stopping GLP-1s](https://news.google.com/rss/articles/CBMif0FVX3lxTE5DRlNVeGlpTUdJLUNEdVVqdVJtRHRhNnNsQ3o0Z2k5R2NpcGhnR2NUYTkxeUhpenFsVVRtNTlnSzBXVE83azVqbFRqLW83U25qYkMtYTM3QXlKcm8zNWFKeXpWZFBfd2VFZjl2LUhjRjdfekVLTkRXR25aWWdHSWs?oc=5)
 
-2026-10-07 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+2026-10-07 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [Newsweek](https://news.google.com/rss/articles/CBMif0FVX3lxTE5DRlNVeGlpTUdJLUNEdVVqdVJtRHRhNnNsQ3o0Z2k5R2NpcGhnR2NUYTkxeUhpenFsVVRtNTlnSzBXVE83azVqbFRqLW83U25qYkMtYTM3QXlKcm8zNWFKeXpWZFBfd2VFZjl2LUhjRjdfekVLTkRXR25aWWdHSWs?oc=5)
 
@@ -88,35 +104,11 @@ Source: [Gizmodo](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV1FGS1cxQ
 
 ---
 
-### [Breast cancer rates are rising in young women. Here is what you can do to protect yourself. - CBS News](https://news.google.com/rss/articles/CBMie0FVX3lxTE9UZThlU2hMYzV3aTdPdWdwYXhJbmV2YS0zUEFaNG85S2ZXajk4SWc5MHZMTEQ4d3IzY1hZTHNSSjFsaWFmbk16NDB5YkhMM1k4VzNOY3ZXX21XVkxEUDNsY0RmMS1MdVNmUGdUWWlCM0JkVTFnTEU2NGpacw?oc=5)
+### [A simple fall can change your life. Here’s how to prevent one - USA Today](https://news.google.com/rss/articles/CBMipwFBVV95cUxOcVNlRzZhcjJHOXJLOGZXdjRJaU5PNy1TQURoYnU5RnIxUl9CZ1MzSzRmb1RTYkRiTm9McERPTTkxUG9aNVJRZTZIUTYyVFVEd1JCTjY1QVBVbGRsOUMxTVBpem15TnMwNTRKeWxST1gwcGZ4bjFRZnNtUUh0aGVhZHRFLThvc2FiWHpzREpRakNhb29pM3NPQVBvSUVDNXVkVnZLdkxQSQ?oc=5)
 
-2026-10-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-10-06 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
-Source: [CBS News](https://news.google.com/rss/articles/CBMie0FVX3lxTE9UZThlU2hMYzV3aTdPdWdwYXhJbmV2YS0zUEFaNG85S2ZXajk4SWc5MHZMTEQ4d3IzY1hZTHNSSjFsaWFmbk16NDB5YkhMM1k4VzNOY3ZXX21XVkxEUDNsY0RmMS1MdVNmUGdUWWlCM0JkVTFnTEU2NGpacw?oc=5)
-
----
-
-### [A new study suggests that this supplement could help you build muscle in midlife—without hitting the gym](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZnMzTWk3MEVUQ0V3WjJhcURMOUpzakF5VnFlWVJHR2h3eFdlMzJPNk9BV2NxVXBBRXczRW45QllOMGVRaEwxSVlJTDRsT1J1OVczaE5KYXFPNzU4Z05vbDkyaG1JX3RCN2JkZzNhQWd6TlZkSjJ5M0EzMXhNczA4a0wtNlVKb0p6RVBydkNVaDd6MUctYTF0WVJrSTVoQ3h4bUNjb2lsRWY0ckNUMmU3NER5aDVqNEtiZV9yTzVTT1pQRGhMbjZfdEpodUh3TTRTMUY5VzJnTTBxYmFNMlNOb0VSd0J5c19iZnhadHJPa1FmdnYx?oc=5)
-
-2026-10-07 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
-
-Source: [Fit&Well](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZnMzTWk3MEVUQ0V3WjJhcURMOUpzakF5VnFlWVJHR2h3eFdlMzJPNk9BV2NxVXBBRXczRW45QllOMGVRaEwxSVlJTDRsT1J1OVczaE5KYXFPNzU4Z05vbDkyaG1JX3RCN2JkZzNhQWd6TlZkSjJ5M0EzMXhNczA4a0wtNlVKb0p6RVBydkNVaDd6MUctYTF0WVJrSTVoQ3h4bUNjb2lsRWY0ckNUMmU3NER5aDVqNEtiZV9yTzVTT1pQRGhMbjZfdEpodUh3TTRTMUY5VzJnTTBxYmFNMlNOb0VSd0J5c19iZnhadHJPa1FmdnYx?oc=5)
-
----
-
-### [UCSF infectious diseases expert on the early arrival of the flu season](https://news.google.com/rss/articles/CBMid0FVX3lxTFBEZm90NGpJZG9NNVB4ZjduazRkLXI3TzBVdkctdWstZ0gzUjRwemQ5TlZBbFZIWnA2UVhub1lSSU1TdXQ1Z1l6UDBydndhWHJTRUxLZnNRR2pzS1FrWlpxdkFwNDVpdVJybUwyOE5QRmwxNFM1ZDNZ0gF8QVVfeXFMTVNlU3JzUG5nOVpIdjlZSmEzZjBENnFJdnZsRkJnR043UzdtcG4zaC1ILXFLS19VNEp0bkhwckQzeE8xQ3RLcnNBdGJwbGRPNWpqYzZuN2VBbTZuRm1wcmhkbk1EVkF1cE5XTjZQQkVtcWVCMktyQ3pPVTJtbg?oc=5)
-
-2026-10-06 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">flu</span> <span class="news-indication-tag">UC</span>
-
-Source: [KTVU](https://news.google.com/rss/articles/CBMid0FVX3lxTFBEZm90NGpJZG9NNVB4ZjduazRkLXI3TzBVdkctdWstZ0gzUjRwemQ5TlZBbFZIWnA2UVhub1lSSU1TdXQ1Z1l6UDBydndhWHJTRUxLZnNRR2pzS1FrWlpxdkFwNDVpdVJybUwyOE5QRmwxNFM1ZDNZ0gF8QVVfeXFMTVNlU3JzUG5nOVpIdjlZSmEzZjBENnFJdnZsRkJnR043UzdtcG4zaC1ILXFLS19VNEp0bkhwckQzeE8xQ3RLcnNBdGJwbGRPNWpqYzZuN2VBbTZuRm1wcmhkbk1EVkF1cE5XTjZQQkVtcWVCMktyQ3pPVTJtbg?oc=5)
-
----
-
-### [The top cancer success stories of the past 50 years, by the numbers](https://news.google.com/rss/articles/CBMiX0FVX3lxTE51NVN0eVh6THdCZmJERlRJQ0FyZVEzbERyTmktaEJYMjdqVEtnWUlLRDV3a3lxQmhsQ3VVNF9SY09qeFcxQldZTkF4VDlKYkVnNUFubEdNUUtlS1NKSFpz?oc=5)
-
-2026-10-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">UC</span>
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE51NVN0eVh6THdCZmJERlRJQ0FyZVEzbERyTmktaEJYMjdqVEtnWUlLRDV3a3lxQmhsQ3VVNF9SY09qeFcxQldZTkF4VDlKYkVnNUFubEdNUUtlS1NKSFpz?oc=5)
+Source: [USA Today](https://news.google.com/rss/articles/CBMipwFBVV95cUxOcVNlRzZhcjJHOXJLOGZXdjRJaU5PNy1TQURoYnU5RnIxUl9CZ1MzSzRmb1RTYkRiTm9McERPTTkxUG9aNVJRZTZIUTYyVFVEd1JCTjY1QVBVbGRsOUMxTVBpem15TnMwNTRKeWxST1gwcGZ4bjFRZnNtUUh0aGVhZHRFLThvc2FiWHpzREpRakNhb29pM3NPQVBvSUVDNXVkVnZLdkxQSQ?oc=5)
 
 ---
 

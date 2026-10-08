@@ -3,7 +3,7 @@ layout: default
 title: "cancer News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer. 7 articles, 1 related drugs."
+description: "Health news about cancer. 6 articles, 1 related drugs."
 permalink: /news/cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cancer/
 ---
 
 <p class="key-answer" data-question="What news is there about cancer?">
-<strong>cancer</strong> currently has <strong>7 news articles</strong> and 1 related drugs.
+<strong>cancer</strong> currently has <strong>6 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -29,37 +29,37 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (7)
+## Related News (6)
 
-### [tRNA dosage regulates lineage dependency and resistance in prostate cancer](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NTDZyZ3pSUTRmbjFKSklRc1JPNmw0eTI4dmtyT0l2S1F6dFVKMjdtZzk2R2NyZHZUNGp4eUxfVE1CSmh3eUh5eWtubXBKMkllalV0OEFtLUo1TFFuNEZF?oc=5)
+### [It can keep cancer in remission. Why is no one talking about it? - The Seattle Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNzNIVlFnc1RTd2Y2el9VTEltOVFXY2dpTHNmNXFKSXlYYkVOcF9SbTJfVkJ0WTRWdDZ2WkR6ZERuQnlhVFBTUXNTdU1POEx4VlBxUUZBMFVrTHlvWWxHRnlzLXQtX01YVk1jRGFycjJJRktOT2t4YmRCMmFkNGZPOEl4SElqdDM3SFV0Rm40SWJKRjRENWJOUW9hNkgxZFF6WjcxUnBjLVE?oc=5)
 
-2026-10-07
+2026-10-08
 
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NTDZyZ3pSUTRmbjFKSklRc1JPNmw0eTI4dmtyT0l2S1F6dFVKMjdtZzk2R2NyZHZUNGp4eUxfVE1CSmh3eUh5eWtubXBKMkllalV0OEFtLUo1TFFuNEZF?oc=5)
-
----
-
-### [Exercise Can Help Cancer Patients but Goes Uncovered](https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ05aNWJmZXlXU0RvX0ZsQWRDZ0pJakpfMXN4a2l2M29HVjlVaWE5bHVTaWVxR0tCMlNHR3BSTmdlazNrVmczU3JBc0t6RkZpeVhfSkI5cDdQYTRsR3JaaVQ4WG5YOG11VTJNeVRwVFc3SVhRdF9Xel91SC1wYWdENmdUbTVYblVCRHZ4SlFWV3J4YlFDeHlHcA?oc=5)
-
-2026-10-07
-
-Source: [Newser](https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ05aNWJmZXlXU0RvX0ZsQWRDZ0pJakpfMXN4a2l2M29HVjlVaWE5bHVTaWVxR0tCMlNHR3BSTmdlazNrVmczU3JBc0t6RkZpeVhfSkI5cDdQYTRsR3JaaVQ4WG5YOG11VTJNeVRwVFc3SVhRdF9Xel91SC1wYWdENmdUbTVYblVCRHZ4SlFWV3J4YlFDeHlHcA?oc=5)
+Source: [The Seattle Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNzNIVlFnc1RTd2Y2el9VTEltOVFXY2dpTHNmNXFKSXlYYkVOcF9SbTJfVkJ0WTRWdDZ2WkR6ZERuQnlhVFBTUXNTdU1POEx4VlBxUUZBMFVrTHlvWWxHRnlzLXQtX01YVk1jRGFycjJJRktOT2t4YmRCMmFkNGZPOEl4SElqdDM3SFV0Rm40SWJKRjRENWJOUW9hNkgxZFF6WjcxUnBjLVE?oc=5)
 
 ---
 
-### [At 29, She Treated Her Breast Cancer — then Discovered it Spread to Her Brain. Now She’s Back to Teaching, Spending Time with Her Daughters](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUjMzRVg0OGZZWHFrei1fUVhnVG10bldDcWNmMW82dzBsY2NEY190VURpdXNISDN3a0lfdEppZFdPUDFMRjBHdmdkRmNoemUzWDBZTnZYRXA3d2lxbEs2ZWx0MWFaZ2hwVHF3cm16TGlwSWV2dFRKZUJvbzY4UDlhWlZmQ3pCZkFW?oc=5)
+### [Prostate cancer survival rates improve as more men come forward - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxQRWxBUnlibjNQRlZ2OHJTbXFDcGJZblhoNTVCeS0yMS1LdlVhV3lveHZuLXRPZHFoUFRjbE93MDNBOG1BMUNhejd4XzNDV08wN0w3NDFEdGRnM29VenZfVkZwdjlUWlk1Q1VsbUZDUGxHbFY4TVQ2U01SeGZPZk9ZbzZMa24ySEFqaDg5QlUtNFN2aGMxOXFCVV9ybVNLVHE2Snc?oc=5)
 
-2026-10-07
+2026-10-08
 
-Source: [Yahoo](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUjMzRVg0OGZZWHFrei1fUVhnVG10bldDcWNmMW82dzBsY2NEY190VURpdXNISDN3a0lfdEppZFdPUDFMRjBHdmdkRmNoemUzWDBZTnZYRXA3d2lxbEs2ZWx0MWFaZ2hwVHF3cm16TGlwSWV2dFRKZUJvbzY4UDlhWlZmQ3pCZkFW?oc=5)
+Source: [The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxQRWxBUnlibjNQRlZ2OHJTbXFDcGJZblhoNTVCeS0yMS1LdlVhV3lveHZuLXRPZHFoUFRjbE93MDNBOG1BMUNhejd4XzNDV08wN0w3NDFEdGRnM29VenZfVkZwdjlUWlk1Q1VsbUZDUGxHbFY4TVQ2U01SeGZPZk9ZbzZMa24ySEFqaDg5QlUtNFN2aGMxOXFCVV9ybVNLVHE2Snc?oc=5)
 
 ---
 
-### [Breast cancer rates are rising in young women. Here is what you can do to protect yourself. - CBS News](https://news.google.com/rss/articles/CBMie0FVX3lxTE9UZThlU2hMYzV3aTdPdWdwYXhJbmV2YS0zUEFaNG85S2ZXajk4SWc5MHZMTEQ4d3IzY1hZTHNSSjFsaWFmbk16NDB5YkhMM1k4VzNOY3ZXX21XVkxEUDNsY0RmMS1MdVNmUGdUWWlCM0JkVTFnTEU2NGpacw?oc=5)
+### [A preinvasive regulatory T cell axis for lung cancer interception](https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zdzdkamZCU3NwY0FTVC10b3g4SFFvUVpZRFo3UmxYRV9xamlvOEd3NXhDaEF3aVRMMlcyT1N2VUFzU2RzTjk2OVJIbXFwU2ZYaXBSS2tjTmVnV24yRE1j?oc=5)
 
 2026-10-07
 
-Source: [CBS News](https://news.google.com/rss/articles/CBMie0FVX3lxTE9UZThlU2hMYzV3aTdPdWdwYXhJbmV2YS0zUEFaNG85S2ZXajk4SWc5MHZMTEQ4d3IzY1hZTHNSSjFsaWFmbk16NDB5YkhMM1k4VzNOY3ZXX21XVkxEUDNsY0RmMS1MdVNmUGdUWWlCM0JkVTFnTEU2NGpacw?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zdzdkamZCU3NwY0FTVC10b3g4SFFvUVpZRFo3UmxYRV9xamlvOEd3NXhDaEF3aVRMMlcyT1N2VUFzU2RzTjk2OVJIbXFwU2ZYaXBSS2tjTmVnV24yRE1j?oc=5)
+
+---
+
+### [Key driver of aggressive prostate cancer identified, suggesting new way to reverse drug resistance - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaVBoQzh3dlNRWUtwZGItSTF0bGVxNEp6NzFkUXJMVWJ0d2ZZZEdnRUJ5ZFZQX3NxdzlXTXJONGF0Sl9xUlNFWnVyRkpzMkd3TXRLbThLNjNYaGY3WXpCRV9Mbi1pMWtuVVhPc2Q2SW1fNXVQVFVGSXpfOEhOZTc1SC1UUElTNjVF?oc=5)
+
+2026-10-07
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaVBoQzh3dlNRWUtwZGItSTF0bGVxNEp6NzFkUXJMVWJ0d2ZZZEdnRUJ5ZFZQX3NxdzlXTXJONGF0Sl9xUlNFWnVyRkpzMkd3TXRLbThLNjNYaGY3WXpCRV9Mbi1pMWtuVVhPc2Q2SW1fNXVQVFVGSXpfOEhOZTc1SC1UUElTNjVF?oc=5)
 
 ---
 
@@ -68,14 +68,6 @@ Source: [CBS News](https://news.google.com/rss/articles/CBMie0FVX3lxTE9UZThlU2hM
 2026-10-07
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZzd3QXBRcGFHSjNnektFeUp6bmdxbXY2Nk9EdEhBSWZ5dFp0MjlYUXBDRV9UbFQzUWwzV29rcWxTQ2tobzEwbGJfYXZqZ0JLckc4YlBnZmJNdlh5eWtSc0Y1ZDdIZzBBb0xGVEtmNloteHhmTXgyeHZiYjJFSEpUZGE1bkZ6S21NSnh4Mzllb3hUQkdHYzFIM0xnLVp5T2tqVWc?oc=5)
-
----
-
-### [The top cancer success stories of the past 50 years, by the numbers](https://news.google.com/rss/articles/CBMiX0FVX3lxTE51NVN0eVh6THdCZmJERlRJQ0FyZVEzbERyTmktaEJYMjdqVEtnWUlLRDV3a3lxQmhsQ3VVNF9SY09qeFcxQldZTkF4VDlKYkVnNUFubEdNUUtlS1NKSFpz?oc=5)
-
-2026-10-06
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE51NVN0eVh6THdCZmJERlRJQ0FyZVEzbERyTmktaEJYMjdqVEtnWUlLRDV3a3lxQmhsQ3VVNF9SY09qeFcxQldZTkF4VDlKYkVnNUFubEdNUUtlS1NKSFpz?oc=5)
 
 ---
 

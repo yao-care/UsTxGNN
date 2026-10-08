@@ -3,7 +3,7 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 5 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 9 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/inflammatory-bowel-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>5 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>9 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,39 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (5)
+## Related News (9)
+
+### [Neanderthal woodworking was far more advanced than we thought, new study shows - Archaeology News Online Magazine](https://news.google.com/rss/articles/CBMigwFBVV95cUxOUmNpaTJ6em9FTWt5UkJac2dYWlcwdkxhcDZOdDI2aXlxY1ZpZVJiODd6SHBlUWVpa1NqVVFYRmw1SmRpNmppbWhkVFdhT1RzelBtWmNaRkZlUm4yS2laZzNnWFJDQ254SmpMNWRmRndjb2thRldKNExVQ1lxU2t4eGx0aw?oc=5)
+
+2026-10-08
+
+Source: [Archaeology News Online Magazine](https://news.google.com/rss/articles/CBMigwFBVV95cUxOUmNpaTJ6em9FTWt5UkJac2dYWlcwdkxhcDZOdDI2aXlxY1ZpZVJiODd6SHBlUWVpa1NqVVFYRmw1SmRpNmppbWhkVFdhT1RzelBtWmNaRkZlUm4yS2laZzNnWFJDQ254SmpMNWRmRndjb2thRldKNExVQ1lxU2t4eGx0aw?oc=5)
+
+---
+
+### [DNA From a Human Brain Gene Has Turned Up In a Virus](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQazlMNm9uYjh5Q0F5MDJsNm93ZDZxU0t2VTRKcHhBMVNGenNOdHQ0a2VIQkE4YWNfTGxZcmdQYURmaHVtcndyS255SG5tQ3pfaFZoZkRlaThkZG1vUzFDNVNXSnkzZXk3bDNqY1FRSjB4NUhJa01wTVFsR1MxVDI2bjhLSUNTSGJ6?oc=5)
+
+2026-10-07
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQazlMNm9uYjh5Q0F5MDJsNm93ZDZxU0t2VTRKcHhBMVNGenNOdHQ0a2VIQkE4YWNfTGxZcmdQYURmaHVtcndyS255SG5tQ3pfaFZoZkRlaThkZG1vUzFDNVNXSnkzZXk3bDNqY1FRSjB4NUhJa01wTVFsR1MxVDI2bjhLSUNTSGJ6?oc=5)
+
+---
+
+### [California could ban quartz countertop production amid health concerns](https://news.google.com/rss/articles/CBMidEFVX3lxTE0zX1MxMUJWc0QzNzZaaWtzcHBqc3ZjMXVZNFRWclVrMFYxTF9CTzRfMlpoMldZNTR6Z2RnM1FfUU1aTGRfR2hWbjYtWnlVbVlNMldBSnhqYUFHMnlnM3BOV3kyU0tpU2QwbzJPQUR0UDhudUJw0gF6QVVfeXFMTlVNc2NsOTZhajdjcTJINm0tNmxKaGpNbDFfU3ByTGdseHVWaXVnWWpGRVpodDJmV1VhX0RHZVM1WEZmVGlzVU8yWlFheWdtNVNWNkFDa0sxZXJiQnlqbHNaNGVuTG90YzdqUEJMMGlidjlwbGFFd3VQSGc?oc=5)
+
+2026-10-07
+
+Source: [KTLA](https://news.google.com/rss/articles/CBMidEFVX3lxTE0zX1MxMUJWc0QzNzZaaWtzcHBqc3ZjMXVZNFRWclVrMFYxTF9CTzRfMlpoMldZNTR6Z2RnM1FfUU1aTGRfR2hWbjYtWnlVbVlNMldBSnhqYUFHMnlnM3BOV3kyU0tpU2QwbzJPQUR0UDhudUJw0gF6QVVfeXFMTlVNc2NsOTZhajdjcTJINm0tNmxKaGpNbDFfU3ByTGdseHVWaXVnWWpGRVpodDJmV1VhX0RHZVM1WEZmVGlzVU8yWlFheWdtNVNWNkFDa0sxZXJiQnlqbHNaNGVuTG90YzdqUEJMMGlidjlwbGFFd3VQSGc?oc=5)
+
+---
+
+### [The generation raised on sugar rations – and what their health reveals 70 years later - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNY2h6TnVSMGprQndTMkg3cXlORDRNaDA3cGxtUWdGZ0p1dXI5bUFtMU1nRDV0TDU1WTd0YTJoeDR3YjNNX1Q3eEs4Q243TjdqSEZjRmdUT1FEWkNmNEM0OGxUdGdvbHpRMjFVX3g4YlZLTFNxRjRfLXZ0LWFSVTVSaVY5c2dlR2N3a2lPTVo5SGJ4REFm?oc=5)
+
+2026-10-07
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxNY2h6TnVSMGprQndTMkg3cXlORDRNaDA3cGxtUWdGZ0p1dXI5bUFtMU1nRDV0TDU1WTd0YTJoeDR3YjNNX1Q3eEs4Q243TjdqSEZjRmdUT1FEWkNmNEM0OGxUdGdvbHpRMjFVX3g4YlZLTFNxRjRfLXZ0LWFSVTVSaVY5c2dlR2N3a2lPTVo5SGJ4REFm?oc=5)
+
+---
 
 ### [James Watson Suggested Rosalind Franklin Missed the DNA Double Helix. Her Notes Say Otherwise](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV1FGS1cxQWlSRi1UVjFVSDdKYUp5ZHk3RVVlSGl0V0hMNW1Ebkk2WjYwV29CZUl1RDRrYWI3NTNrMG5qY245QlM3ckdBSGNnODVXbFQ5Q1BVQWNINXhfQ1hjU2QxNWhmYXFxZjhyRkE0WXdyanczaE1KYVRFZHc0T1FoNnFIRUxuNlJsLWVGaUNSd0c3Rmpudl9LWTM0dU1DWGNVR2lwemZMeHlRcUNGUG5yLTR3blRsTFdSREdkWVA?oc=5)
 
@@ -44,19 +76,19 @@ Source: [Gizmodo](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV1FGS1cxQ
 
 ---
 
-### [California set to ban quartz countertop production amid health concerns](https://news.google.com/rss/articles/CBMigwFBVV95cUxQRF9qaDhGSG9rZURwU3R0UGhCWFlrZVlhai1yQVRyQXdBZkRDUEh3ZzRZanNyZFp0dkRlbUhHT09yblhNZGdLVmRnaXJlMGlrczMydjVFT2NUZFJCVC0wZzFMcHFQdE11RUxCV291VVJQSXBJbU9TZzJQQkl2cl80TmR0c9IBiAFBVV95cUxQQXR2X3RNR1dMZ1RhYWVBNUNKYjlZS3FUaUpqNlczSmlyNm4yUVZ4TWFlQXF2cDRmbThBSnh3WF91N1VOdWpxWnRuVGtBdHdBa2tXbjJJYXUtajc0RzBGUllxT05YQmN6bmJRMmNRM1ZUMnJCMEtmemJWaGkzTWEzbDZCWmFCMzNJ?oc=5)
+### [A new study suggests that this supplement could help you build muscle in midlife—without hitting the gym](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZnMzTWk3MEVUQ0V3WjJhcURMOUpzakF5VnFlWVJHR2h3eFdlMzJPNk9BV2NxVXBBRXczRW45QllOMGVRaEwxSVlJTDRsT1J1OVczaE5KYXFPNzU4Z05vbDkyaG1JX3RCN2JkZzNhQWd6TlZkSjJ5M0EzMXhNczA4a0wtNlVKb0p6RVBydkNVaDd6MUctYTF0WVJrSTVoQ3h4bUNjb2lsRWY0ckNUMmU3NER5aDVqNEtiZV9yTzVTT1pQRGhMbjZfdEpodUh3TTRTMUY5VzJnTTBxYmFNMlNOb0VSd0J5c19iZnhadHJPa1FmdnYx?oc=5)
 
-2026-10-06
+2026-10-07
 
-Source: [NewsNation](https://news.google.com/rss/articles/CBMigwFBVV95cUxQRF9qaDhGSG9rZURwU3R0UGhCWFlrZVlhai1yQVRyQXdBZkRDUEh3ZzRZanNyZFp0dkRlbUhHT09yblhNZGdLVmRnaXJlMGlrczMydjVFT2NUZFJCVC0wZzFMcHFQdE11RUxCV291VVJQSXBJbU9TZzJQQkl2cl80TmR0c9IBiAFBVV95cUxQQXR2X3RNR1dMZ1RhYWVBNUNKYjlZS3FUaUpqNlczSmlyNm4yUVZ4TWFlQXF2cDRmbThBSnh3WF91N1VOdWpxWnRuVGtBdHdBa2tXbjJJYXUtajc0RzBGUllxT05YQmN6bmJRMmNRM1ZUMnJCMEtmemJWaGkzTWEzbDZCWmFCMzNJ?oc=5)
+Source: [Fit&Well](https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZnMzTWk3MEVUQ0V3WjJhcURMOUpzakF5VnFlWVJHR2h3eFdlMzJPNk9BV2NxVXBBRXczRW45QllOMGVRaEwxSVlJTDRsT1J1OVczaE5KYXFPNzU4Z05vbDkyaG1JX3RCN2JkZzNhQWd6TlZkSjJ5M0EzMXhNczA4a0wtNlVKb0p6RVBydkNVaDd6MUctYTF0WVJrSTVoQ3h4bUNjb2lsRWY0ckNUMmU3NER5aDVqNEtiZV9yTzVTT1pQRGhMbjZfdEpodUh3TTRTMUY5VzJnTTBxYmFNMlNOb0VSd0J5c19iZnhadHJPa1FmdnYx?oc=5)
 
 ---
 
-### [Biotech’s peptide shows promise as ‘bait molecule’ to treat neuropathic pain in mice - Fierce Biotech](https://news.google.com/rss/articles/CBMiugFBVV95cUxQa3B5MzVnSWVBd3E2SlhrVXhiQmVwcFJJTjkyR0dDbXZESTV5aFVvUzlsYVJwa3BwSm4wVU5oUHM1RlVvYVdKRkRkU205WFlXaXZqbkJMNFBMdzdkYWEwWkV6MFk2aGNjTl9wbWFpNGhHOWpOWUJpR0FZcWlQWXc5VDNoUzVEbUpIZVlfVGUzeUNBVnVmNE8yQ1g5VDFRYWs5OTJtR0c0M2xSVVZQbkZEdHpxRmlHQWh2LUE?oc=5)
+### [UCSF infectious diseases expert on the early arrival of the flu season](https://news.google.com/rss/articles/CBMid0FVX3lxTFBEZm90NGpJZG9NNVB4ZjduazRkLXI3TzBVdkctdWstZ0gzUjRwemQ5TlZBbFZIWnA2UVhub1lSSU1TdXQ1Z1l6UDBydndhWHJTRUxLZnNRR2pzS1FrWlpxdkFwNDVpdVJybUwyOE5QRmwxNFM1ZDNZ0gF8QVVfeXFMTVNlU3JzUG5nOVpIdjlZSmEzZjBENnFJdnZsRkJnR043UzdtcG4zaC1ILXFLS19VNEp0bkhwckQzeE8xQ3RLcnNBdGJwbGRPNWpqYzZuN2VBbTZuRm1wcmhkbk1EVkF1cE5XTjZQQkVtcWVCMktyQ3pPVTJtbg?oc=5)
 
 2026-10-06
 
-Source: [Fierce Biotech](https://news.google.com/rss/articles/CBMiugFBVV95cUxQa3B5MzVnSWVBd3E2SlhrVXhiQmVwcFJJTjkyR0dDbXZESTV5aFVvUzlsYVJwa3BwSm4wVU5oUHM1RlVvYVdKRkRkU205WFlXaXZqbkJMNFBMdzdkYWEwWkV6MFk2aGNjTl9wbWFpNGhHOWpOWUJpR0FZcWlQWXc5VDNoUzVEbUpIZVlfVGUzeUNBVnVmNE8yQ1g5VDFRYWs5OTJtR0c0M2xSVVZQbkZEdHpxRmlHQWh2LUE?oc=5)
+Source: [KTVU](https://news.google.com/rss/articles/CBMid0FVX3lxTFBEZm90NGpJZG9NNVB4ZjduazRkLXI3TzBVdkctdWstZ0gzUjRwemQ5TlZBbFZIWnA2UVhub1lSSU1TdXQ1Z1l6UDBydndhWHJTRUxLZnNRR2pzS1FrWlpxdkFwNDVpdVJybUwyOE5QRmwxNFM1ZDNZ0gF8QVVfeXFMTVNlU3JzUG5nOVpIdjlZSmEzZjBENnFJdnZsRkJnR043UzdtcG4zaC1ILXFLS19VNEp0bkhwckQzeE8xQ3RLcnNBdGJwbGRPNWpqYzZuN2VBbTZuRm1wcmhkbk1EVkF1cE5XTjZQQkVtcWVCMktyQ3pPVTJtbg?oc=5)
 
 ---
 

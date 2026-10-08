@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "tumor (cancer) News"
+title: "cancer News"
 parent: Health News
 nav_exclude: true
-description: "Health news about tumor (cancer). 9 articles, 1 related drugs."
+description: "Health news about cancer. 9 articles, 1 related drugs."
 permalink: /news/cancer/
 ---
 
-# tumor (cancer) News
+# cancer News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about tumor (cancer)?">
-<strong>tumor (cancer)</strong> currently has <strong>9 news articles</strong> and 1 related drugs.
+<p class="key-answer" data-question="What news is there about cancer?">
+<strong>cancer</strong> currently has <strong>9 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “tumor” and lists the drugs in the UsTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “cancer” and lists the drugs in the UsTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -30,6 +30,14 @@ This page brings together the latest health news about “tumor” and lists the
 </div>
 
 ## Related News (9)
+
+### [Key driver of aggressive prostate cancer identified, suggesting new way to reverse drug resistance - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaVBoQzh3dlNRWUtwZGItSTF0bGVxNEp6NzFkUXJMVWJ0d2ZZZEdnRUJ5ZFZQX3NxdzlXTXJONGF0Sl9xUlNFWnVyRkpzMkd3TXRLbThLNjNYaGY3WXpCRV9Mbi1pMWtuVVhPc2Q2SW1fNXVQVFVGSXpfOEhOZTc1SC1UUElTNjVF?oc=5)
+
+2026-10-07
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaVBoQzh3dlNRWUtwZGItSTF0bGVxNEp6NzFkUXJMVWJ0d2ZZZEdnRUJ5ZFZQX3NxdzlXTXJONGF0Sl9xUlNFWnVyRkpzMkd3TXRLbThLNjNYaGY3WXpCRV9Mbi1pMWtuVVhPc2Q2SW1fNXVQVFVGSXpfOEhOZTc1SC1UUElTNjVF?oc=5)
+
+---
 
 ### [It Can Keep Cancer in Remission. Why Is No One Talking About It? - The New York Times](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWnhQTWYtY3AzOXdDMXhMMkxPOHRZLUNsZlhLbGotTkR5VGdlLUZzejgtYjlhZHAzdnBhZnlRbnJQX3J0NkJ3bUljR3JvNDRBUS1jVkdfSnNZU0hJMEJPY0ZnbGtiVVZaUDlONUFGS2FTWVNPOTQ1S0JPdmtibDRXTXdfc19CSkFH?oc=5)
 
@@ -68,14 +76,6 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZzd3
 2026-10-06
 
 Source: [FOX 8 News](https://news.google.com/rss/articles/CBMipwFBVV95cUxOZE91X1REMW5CZVNoOUdYYjNPbFg3S0JxaHhUUkFKWWd0OHcxc0ZCenluemszTjZZVzdERndjX1JJTnNFWVpCYzJwZUFNc0xWSVgtbVBvb1RBMHc2OVJGQm91cW82aGFfSC0tQVdlUE5jaTFZSUxOWnhtT0tLSzVyMUZBYU80bFFKSWpONzl5bjNtLVp6WjRDNTh2NG5LcVJ3Zzdqa21rRdIBrAFBVV95cUxNN1ZENTdka2d1UHRZcHZuWHltUDlFTkdpS2E4Ml9lYTJnaGxvOEh2R0pTNlE5NVVaczBza096cGRXU2kwYzM1UFh1SFpaVWkxY053eU1aTGloYmEzZDdKY1c4akFFUEJMeDVzUWp5a1VITEhfS1hDVTF5ZHMxUllZNTBsT3NVSDB1T1ZScDR0Y3VweTV0elJjcFQtZTkyTDRfdTcwcDh6d1BEUzAy?oc=5)
-
----
-
-### [Southern California surfers are being diagnosed with a bizarre ‘tumor’ condition - Yahoo Health](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWm9UR1pBYXFZMmN0ZVZURnpTX1BfNzZyWjd4LVU1OUZRbjlYeVYxbzkyampQd21jRTFMQ25iZThxa3NORWpMMEhOOFpkQlJmQW9JMDd5SUVHNjJFSjYtYkZBcDczYjA2UHVvd1daM0VwbXpCWU9EWEJKVXYxdFBGY2N4QXI2WTk4YTNmbVNXMno0anhVV3ZWd3JtTEdsV2xj?oc=5)
-
-2026-10-06
-
-Source: [Yahoo Health](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWm9UR1pBYXFZMmN0ZVZURnpTX1BfNzZyWjd4LVU1OUZRbjlYeVYxbzkyampQd21jRTFMQ25iZThxa3NORWpMMEhOOFpkQlJmQW9JMDd5SUVHNjJFSjYtYkZBcDczYjA2UHVvd1daM0VwbXpCWU9EWEJKVXYxdFBGY2N4QXI2WTk4YTNmbVNXMno0anhVV3ZWd3JtTEdsV2xj?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/ramucirumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Ramucirumab?">
-<strong>Ramucirumab</strong> currently has <strong>9 news articles</strong>, with 10 predicted indications.
+<strong>Ramucirumab</strong> currently has <strong>11 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,23 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (11)
+
+### [Cancer Vaccines Are the N.I.H’s Next ‘Big Bet’ - The New York Times](https://news.google.com/rss/articles/CBMigAFBVV95cUxQcDZ3bklCUkxsQmVZd0hqWUJsRFFZU0NaZEp5WndCTWFhMW92MGszZTV5LUFSVF9LamlDSTNOcnl4SHNWemZxMkdmZjRCbTRNRHJfYmhXNUMzN0U3SDJUSXhraEVaRldKN2Nidnc4LWtuLVN2dmpudVJDc3h5YkVrcA?oc=5)
+
+2026-10-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+
+Source: [The New York Times](https://news.google.com/rss/articles/CBMigAFBVV95cUxQcDZ3bklCUkxsQmVZd0hqWUJsRFFZU0NaZEp5WndCTWFhMW92MGszZTV5LUFSVF9LamlDSTNOcnl4SHNWemZxMkdmZjRCbTRNRHJfYmhXNUMzN0U3SDJUSXhraEVaRldKN2Nidnc4LWtuLVN2dmpudVJDc3h5YkVrcA?oc=5)
+
+---
+
+### [Utah mom's breast cancer diagnosis highlights importance of screening - KSL News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbk5qdTN5cDk3QUtqTUtNZEswa2RXODg0RDlKNUk2ZkJpdmVHajRBVDJYNzBvakt6dWtERUl4ZmNneXdGMV9nNFJWc1ZmQjR3VXhGQ0ZHSzVkYl9CUU9uN0RXYWl5ckV3WjMzM0JFX2FKSXYzN0VJYm5aV2ppaVV3Q2ZTeWVXUWFFZFBFUnNYSkxGU3IwYnp1a19xejJ1Y0VRWnkxc0NtZFc?oc=5)
+
+2026-10-09 <span class="news-indication-tag">cancer</span>
+
+Source: [KSL News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbk5qdTN5cDk3QUtqTUtNZEswa2RXODg0RDlKNUk2ZkJpdmVHajRBVDJYNzBvakt6dWtERUl4ZmNneXdGMV9nNFJWc1ZmQjR3VXhGQ0ZHSzVkYl9CUU9uN0RXYWl5ckV3WjMzM0JFX2FKSXYzN0VJYm5aV2ppaVV3Q2ZTeWVXUWFFZFBFUnNYSkxGU3IwYnp1a19xejJ1Y0VRWnkxc0NtZFc?oc=5)
+
+---
 
 ### [Opinion | Far too few patients are being screened for lung cancer - The Washington Post](https://news.google.com/rss/articles/CBMitAFBVV95cUxOSURXTnZROVFyTTVuSVYtQXNyZnBwUU5rZklFQUh3Y3JLY2NkOU5ocDlzRG5Gb1kzaUVtdkljOE02TzgyMFVPc3pGam95ano3ajJ6bjVFSHYtTjlla0M5b29PczlqZnpUb1c3b2ZsVkJoTXpUOHJnSUVqc3dfSVMydldGWUQwUkM2OTRzbEhPRVczOUZWcFVnWV9FTHlYNXRPOVM1NGZJVGVsTHN2YzVmWWpnZnU?oc=5)
 
@@ -55,14 +71,6 @@ Source: [The Washington Post](https://news.google.com/rss/articles/CBMitAFBVV95c
 2026-10-08 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
 Source: [Yahoo](https://news.google.com/rss/articles/CBMilwFBVV95cUxPbEtmSXJhR3J1WVB5NlRTTG5wS1hQeGEtUHlTMGFUSDJRdmR4STFfVFdYcjliU1lKOUZRUHJIdEFicFl5V1JlWHdDZnBKUUNRWkt3U1dCc1l3MGlZWG9EMU5OOEVyVS1LVXZCeE5PU2RiTUkxNlpEcmQzS3VRYjA4U2h3dUp0ZHlUMlhwMURVbHBBeHRBR3E0?oc=5)
-
----
-
-### [Breakthroughs mean prostate cancer patients have ‘longer, better lives’ - The Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxOMy1EU0trLTU1dUNuNkxZS0lyLTZLWVFjOXpxaG8yWEJWQklwXzFWTUR2bHJ2eXpldVRsdlBJN3VxMU5YMGI0V04xNFZ0VjVRLXN2cjBaQ1dxZ3labjZyQ3NlWGdMVDNyNEdvbGQwN0c4ZXEyYmpRM0loQlZCbHFuUUNpa0hncHBrV1FFenVyNUY3T3lneGRyUA?oc=5)
-
-2026-10-08 <span class="news-indication-tag">cancer</span>
-
-Source: [The Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxOMy1EU0trLTU1dUNuNkxZS0lyLTZLWVFjOXpxaG8yWEJWQklwXzFWTUR2bHJ2eXpldVRsdlBJN3VxMU5YMGI0V04xNFZ0VjVRLXN2cjBaQ1dxZ3labjZyQ3NlWGdMVDNyNEdvbGQwN0c4ZXEyYmpRM0loQlZCbHFuUUNpa0hncHBrV1FFenVyNUY3T3lneGRyUA?oc=5)
 
 ---
 
@@ -92,7 +100,7 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zdzdkamZCU3
 
 ### [Key driver of aggressive prostate cancer identified, suggesting new way to reverse drug resistance - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaVBoQzh3dlNRWUtwZGItSTF0bGVxNEp6NzFkUXJMVWJ0d2ZZZEdnRUJ5ZFZQX3NxdzlXTXJONGF0Sl9xUlNFWnVyRkpzMkd3TXRLbThLNjNYaGY3WXpCRV9Mbi1pMWtuVVhPc2Q2SW1fNXVQVFVGSXpfOEhOZTc1SC1UUElTNjVF?oc=5)
 
-2026-10-07 <span class="news-indication-tag">cancer</span>
+2026-10-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
 Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaVBoQzh3dlNRWUtwZGItSTF0bGVxNEp6NzFkUXJMVWJ0d2ZZZEdnRUJ5ZFZQX3NxdzlXTXJONGF0Sl9xUlNFWnVyRkpzMkd3TXRLbThLNjNYaGY3WXpCRV9Mbi1pMWtuVVhPc2Q2SW1fNXVQVFVGSXpfOEhOZTc1SC1UUElTNjVF?oc=5)
 
@@ -106,11 +114,19 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZzd3
 
 ---
 
-### [Connecting Cancer Survivors with Practical Resources - LiveNOW from FOX](https://news.google.com/rss/articles/CBMihAFBVV95cUxNdGxudnUtNFFKTUVQb2lSendQOEtDT3A0djlPbjVLYWt2TERvNGU2SDhnZzlOcTBiZUp5blpUcVZGR1ZuMm5jbUhTeG9fVFdyTWxJRTh3cUQxTUpRQUQ4cjVLY0YwbC1RT3JZb0VwZXplM3prM3VjX2I4LXg0bTM1UDVLNnLSAYoBQVVfeXFMT1pybTNudktoZUtlTXFYbGVCZi1xUjBhSVRyRXVhQkF0eV95YUV6RGRzSks3QUFJT2lPbEdLUF9PRUpYUFBPVy1XNHVZcEdqWm5WbUxOUkdIVVNEZEhKQUs1YnhZcnYtY1ZvNGVBN2VERzlQeDZUSkxJYnl3ME0yLTFlcmhOZHl4V3pB?oc=5)
+### [Southern California surfers are being diagnosed with a bizarre ‘tumor’ condition - Yahoo Health](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWm9UR1pBYXFZMmN0ZVZURnpTX1BfNzZyWjd4LVU1OUZRbjlYeVYxbzkyampQd21jRTFMQ25iZThxa3NORWpMMEhOOFpkQlJmQW9JMDd5SUVHNjJFSjYtYkZBcDczYjA2UHVvd1daM0VwbXpCWU9EWEJKVXYxdFBGY2N4QXI2WTk4YTNmbVNXMno0anhVV3ZWd3JtTEdsV2xj?oc=5)
 
-2026-10-05 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+2026-10-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
-Source: [LiveNOW from FOX](https://news.google.com/rss/articles/CBMihAFBVV95cUxNdGxudnUtNFFKTUVQb2lSendQOEtDT3A0djlPbjVLYWt2TERvNGU2SDhnZzlOcTBiZUp5blpUcVZGR1ZuMm5jbUhTeG9fVFdyTWxJRTh3cUQxTUpRQUQ4cjVLY0YwbC1RT3JZb0VwZXplM3prM3VjX2I4LXg0bTM1UDVLNnLSAYoBQVVfeXFMT1pybTNudktoZUtlTXFYbGVCZi1xUjBhSVRyRXVhQkF0eV95YUV6RGRzSks3QUFJT2lPbEdLUF9PRUpYUFBPVy1XNHVZcEdqWm5WbUxOUkdIVVNEZEhKQUs1YnhZcnYtY1ZvNGVBN2VERzlQeDZUSkxJYnl3ME0yLTFlcmhOZHl4V3pB?oc=5)
+Source: [Yahoo Health](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWm9UR1pBYXFZMmN0ZVZURnpTX1BfNzZyWjd4LVU1OUZRbjlYeVYxbzkyampQd21jRTFMQ25iZThxa3NORWpMMEhOOFpkQlJmQW9JMDd5SUVHNjJFSjYtYkZBcDczYjA2UHVvd1daM0VwbXpCWU9EWEJKVXYxdFBGY2N4QXI2WTk4YTNmbVNXMno0anhVV3ZWd3JtTEdsV2xj?oc=5)
+
+---
+
+### [These infections are behind 1 in 8 cancer cases worldwide, study finds - USA Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNall2YzNVY2s1ZHptOEVid21LUFBsNjZRdjlqUVdRcUtmeEZoRVVVOEszYXBVaGxmNVlZZndaWnppa3pOVTZMWmR3alNOV3Y1b29hYlk1Z0tkTXhhLTU3andJampueEFRMk4yWGp6NmdVb3FrOC1VUTlvRzRMdUtMVGxMZ2ZQWHQtQmdKV1lCSjlHZThOUVhEeU9fVl9MZnNZYS04WHVVdFZGTmtoQlZUZjdjVnJDZ1lv?oc=5)
+
+2026-10-06 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+
+Source: [USA Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNall2YzNVY2s1ZHptOEVid21LUFBsNjZRdjlqUVdRcUtmeEZoRVVVOEszYXBVaGxmNVlZZndaWnppa3pOVTZMWmR3alNOV3Y1b29hYlk1Z0tkTXhhLTU3andJampueEFRMk4yWGp6NmdVb3FrOC1VUTlvRzRMdUtMVGxMZ2ZQWHQtQmdKV1lCSjlHZThOUVhEeU9fVl9MZnNZYS04WHVVdFZGTmtoQlZUZjdjVnJDZ1lv?oc=5)
 
 ---
 

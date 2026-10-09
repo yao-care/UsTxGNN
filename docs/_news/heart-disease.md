@@ -31,11 +31,11 @@ This page brings together the latest health news about “CAD” and lists the d
 
 ## Related News (3)
 
-### [Health officials report 74 new measles cases in Pennsylvania - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMipgFBVV95cUxNMndFcnFqeFdqTUE0Y0ZmNFdhQ1ViX2dXWWJtbjQyelNpYUZ3TjlLMnRjamxHSmFvRTZzc3VHTFltckRKVkdFQzJLenB5UDhFUVd6dmhnLTZlbE92UzkzcVMwMWRXbkF6WDJlcEFDa3ZSZFkwLXRPYVVrVjlQUk1XakpXSl9Wd0tsa3ZHOUJzQUJHUWFkUjJ1cXZKelVxNGxKMlFDUmlR0gGrAUFVX3lxTE53WjhWUE9JcEJQYjFsVDU5amhWbWs5cldIbllpbTVrd0NvamFpVy1WTUFhMVdfSkFxdzhKeWhHY0ZlWUdYQ0JPV2E3am5QR0ZORjRISUI4S2ZVVy1IMTNyRUk4OC1taTlwbGk4N0VfempYekNwWmNnSUpBcmNUNnlZaEFiSVBhTWZkY1ZwOG5tN1ZmRml5cWhOLUEwVURETzZuQVN2bGp4VS1rSQ?oc=5)
+### [Second measles case confirmed in Allegheny County - Pittsburgh's Public Source](https://news.google.com/rss/articles/CBMifkFVX3lxTE11NGRhbGlIeHpILUdyOGNtWVg4bnMwU1BVNGNKV3Z2OGlIMGVTNDlYdW8xdEp4WFl3X25NNGt5bzVscTdXZ202VENIdDlLNzdsZHlvN1oyWklhTFE3azVQQjc0bGZlWktjdk9qY2pwNU9LNERfT3gwb3Z4YVA5Zw?oc=5)
 
 2026-10-08
 
-Source: [ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMipgFBVV95cUxNMndFcnFqeFdqTUE0Y0ZmNFdhQ1ViX2dXWWJtbjQyelNpYUZ3TjlLMnRjamxHSmFvRTZzc3VHTFltckRKVkdFQzJLenB5UDhFUVd6dmhnLTZlbE92UzkzcVMwMWRXbkF6WDJlcEFDa3ZSZFkwLXRPYVVrVjlQUk1XakpXSl9Wd0tsa3ZHOUJzQUJHUWFkUjJ1cXZKelVxNGxKMlFDUmlR0gGrAUFVX3lxTE53WjhWUE9JcEJQYjFsVDU5amhWbWs5cldIbllpbTVrd0NvamFpVy1WTUFhMVdfSkFxdzhKeWhHY0ZlWUdYQ0JPV2E3am5QR0ZORjRISUI4S2ZVVy1IMTNyRUk4OC1taTlwbGk4N0VfempYekNwWmNnSUpBcmNUNnlZaEFiSVBhTWZkY1ZwOG5tN1ZmRml5cWhOLUEwVURETzZuQVN2bGp4VS1rSQ?oc=5)
+Source: [Pittsburgh's Public Source](https://news.google.com/rss/articles/CBMifkFVX3lxTE11NGRhbGlIeHpILUdyOGNtWVg4bnMwU1BVNGNKV3Z2OGlIMGVTNDlYdW8xdEp4WFl3X25NNGt5bzVscTdXZ202VENIdDlLNzdsZHlvN1oyWklhTFE3azVQQjc0bGZlWktjdk9qY2pwNU9LNERfT3gwb3Z4YVA5Zw?oc=5)
 
 ---
 
@@ -47,11 +47,11 @@ Source: [ProPublica](https://news.google.com/rss/articles/CBMilwFBVV95cUxPZmcwVU
 
 ---
 
-### [Common Antidepressants Could Have an Unexpected Role in Cancer Survival](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZzd3QXBRcGFHSjNnektFeUp6bmdxbXY2Nk9EdEhBSWZ5dFp0MjlYUXBDRV9UbFQzUWwzV29rcWxTQ2tobzEwbGJfYXZqZ0JLckc4YlBnZmJNdlh5eWtSc0Y1ZDdIZzBBb0xGVEtmNloteHhmTXgyeHZiYjJFSEpUZGE1bkZ6S21NSnh4Mzllb3hUQkdHYzFIM0xnLVp5T2tqVWc?oc=5)
+### [Revealed: how this common gut microbe protects against heart disease](https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tS1JvZHp2UGM2aTFlWDcyMlYyN3M5ajRhN3VuRWZZVzVoRHZRLWxNU1ZDQUMwOEtEdmREd0JNNGFxVW9zOWpRQjVLYUJkRUxpTVQwRGpRY3BoRU1XU3h3?oc=5)
 
 2026-10-07
 
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZzd3QXBRcGFHSjNnektFeUp6bmdxbXY2Nk9EdEhBSWZ5dFp0MjlYUXBDRV9UbFQzUWwzV29rcWxTQ2tobzEwbGJfYXZqZ0JLckc4YlBnZmJNdlh5eWtSc0Y1ZDdIZzBBb0xGVEtmNloteHhmTXgyeHZiYjJFSEpUZGE1bkZ6S21NSnh4Mzllb3hUQkdHYzFIM0xnLVp5T2tqVWc?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tS1JvZHp2UGM2aTFlWDcyMlYyN3M5ajRhN3VuRWZZVzVoRHZRLWxNU1ZDQUMwOEtEdmREd0JNNGFxVW9zOWpRQjVLYUJkRUxpTVQwRGpRY3BoRU1XU3h3?oc=5)
 
 ---
 

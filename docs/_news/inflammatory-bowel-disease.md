@@ -3,7 +3,7 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 10 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 11 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/inflammatory-bowel-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>10 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>11 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,31 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (10)
+## Related News (11)
+
+### [New iron deficiency standards for diagnosis released](https://news.google.com/rss/articles/CBMigwFBVV95cUxQY0xiNm9tVXJYeDR0LXZvTzhPYUNoNnpjMnQtZUZmZXNLYUlJNk9KMndodEYtRXl6dGlpbEUyWTBUUk5oT3ZMV3NjbnVGNkRubTdoeWFqQVdsQzItazFIbm1rdjZGa3NLb0ZLcjF1cF94RkoxcDk4NTBPSHVUUWRNeHFIY9IBiAFBVV95cUxQb1I2a0JOWVA1cF95aUI4S0ZPREhqdGhudDZyN05GUHBTZmtXWlQxTm5TMF81Y3E5dkxyUHNDQ0JGenVxN0VRUnEzSEZZRnREZlo1c2IzTVp4Z1ptdHQ5Z1pZS3ZpSkRPRC1QOXlZYkZ0R2VLaTJuWTZBeXppUnpIT0wtblZGZjdQ?oc=5)
+
+2026-10-09
+
+Source: [NewsNation](https://news.google.com/rss/articles/CBMigwFBVV95cUxQY0xiNm9tVXJYeDR0LXZvTzhPYUNoNnpjMnQtZUZmZXNLYUlJNk9KMndodEYtRXl6dGlpbEUyWTBUUk5oT3ZMV3NjbnVGNkRubTdoeWFqQVdsQzItazFIbm1rdjZGa3NLb0ZLcjF1cF94RkoxcDk4NTBPSHVUUWRNeHFIY9IBiAFBVV95cUxQb1I2a0JOWVA1cF95aUI4S0ZPREhqdGhudDZyN05GUHBTZmtXWlQxTm5TMF81Y3E5dkxyUHNDQ0JGenVxN0VRUnEzSEZZRnREZlo1c2IzTVp4Z1ptdHQ5Z1pZS3ZpSkRPRC1QOXlZYkZ0R2VLaTJuWTZBeXppUnpIT0wtblZGZjdQ?oc=5)
+
+---
+
+### [Oscar-Winning Actress, 61, Reveals Shocking Diagnosis - The Daily Beast](https://news.google.com/rss/articles/CBMihwFBVV95cUxNTVBHN1hRRjhIRlRna3hZdlRKaTV5bUh4MC1memtaMXJkaFkybVpLTlR5djBQRHlHZEJIeHZDTlcxYWlubmhuZnRMNWxpSi15T3B2cm91UXcxRVAwM2xHelBDeU9vWHRFSFhIb1Ntdi1ZS3dsUG9uSU04ZVhfOG8wVlRkUGhVZTQ?oc=5)
+
+2026-10-08
+
+Source: [The Daily Beast](https://news.google.com/rss/articles/CBMihwFBVV95cUxNTVBHN1hRRjhIRlRna3hZdlRKaTV5bUh4MC1memtaMXJkaFkybVpLTlR5djBQRHlHZEJIeHZDTlcxYWlubmhuZnRMNWxpSi15T3B2cm91UXcxRVAwM2xHelBDeU9vWHRFSFhIb1Ntdi1ZS3dsUG9uSU04ZVhfOG8wVlRkUGhVZTQ?oc=5)
+
+---
+
+### [Rare traces of wooden tools reveal Neanderthals were skilled woodworkers](https://news.google.com/rss/articles/CBMifEFVX3lxTE12Z2RkNUQySU9XeVpmMGdIR0U3Z29IX1BwNEZRemRDYjRFZVJOTHZlTWpVYnhpWG5VNTFtNGxCTVhKVGZLbUVEOXFPZ183SzA4aGp4c2hXdDEtRWJrd0FranlReGpsalRIbjhUVTh5ZERCUjZtSjkzemp5Wjg?oc=5)
+
+2026-10-08
+
+Source: [Phys.org](https://news.google.com/rss/articles/CBMifEFVX3lxTE12Z2RkNUQySU9XeVpmMGdIR0U3Z29IX1BwNEZRemRDYjRFZVJOTHZlTWpVYnhpWG5VNTFtNGxCTVhKVGZLbUVEOXFPZ183SzA4aGp4c2hXdDEtRWJrd0FranlReGpsalRIbjhUVTh5ZERCUjZtSjkzemp5Wjg?oc=5)
+
+---
 
 ### [More physical activity may mean slower Parkinson’s disease progression - The Washington Post](https://news.google.com/rss/articles/CBMivgFBVV95cUxOVFNnWHhjVGVGYm96b3AtREd2cDBrUlgtMzRzcFFCZURHVENyVDBxN0pCWG1zRHY1TDZmUUt5YWNxeE1vTnQ1WEJGYjNhamZVSnExODMtWnM5LVpHSHpWRklXeVRUbE5wdWxfNUkyS3VJQ2k3MWxXdWZBWDBiMkM1M3hONGtISFZEMkFOY0UzZ01aWG5Zbk1Ya05vN1loLVFtVmdEc3oyUlJ1REJiZm1vUFduU3ZSTEtzdkltQUJn?oc=5)
 
@@ -44,35 +68,27 @@ Source: [The Washington Post](https://news.google.com/rss/articles/CBMivgFBVV95c
 
 ---
 
-### [Why California could ban a popular feature for high-end kitchen remodels - San Francisco Chronicle](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ2ZpRmw4QzJvOEVhQks3bEtLV1NqLXI2aGtWeC0zdjM0WnhtbERBNmZHSkpsNGU4S1A1eXlwNllQRHdOdFhFcUNDR2RBWFNFbUxPR3NHY2N1dkp4ZWp4bkhoZVV6dVlxVmpvTGpRV1ltN3VvX1RMLV9TVlNlSVhMMTV0TFUyZDExamJZMEFBa3VoMlc0V2VnU2pQdmZtaWpZS1BYSHhwY1Q?oc=5)
-
-2026-10-08
-
-Source: [San Francisco Chronicle](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ2ZpRmw4QzJvOEVhQks3bEtLV1NqLXI2aGtWeC0zdjM0WnhtbERBNmZHSkpsNGU4S1A1eXlwNllQRHdOdFhFcUNDR2RBWFNFbUxPR3NHY2N1dkp4ZWp4bkhoZVV6dVlxVmpvTGpRV1ltN3VvX1RMLV9TVlNlSVhMMTV0TFUyZDExamJZMEFBa3VoMlc0V2VnU2pQdmZtaWpZS1BYSHhwY1Q?oc=5)
-
----
-
-### [​Forget the pill, common gut microbe produces molecule that cuts cholesterol and betters heart health: What the new study found​ - The Times of India](https://news.google.com/rss/articles/CBMiqAJBVV95cUxNb0xSVG01T1pYcFMwU2ZpQWpMTnd1MGRyOGNhcHltVUZSaElOZUJVWUJWSlV1eEpyUVpEXzZFQ0gtT0FwaWVRdzBITjdSQWJnXzRTY2EyVVlFelVoR0hLaEFfbFFyRmZ2YnkyMUoteTlHdkxZUEtoS3pxUElGLTFqdHd1V3FBM1dJbVpOaVhXMkpkX0FNZUtSejIxNE1yZk03T2NqNWRvT1VDSmRfcUVjQURoUVkySU9FbDl6dFNfbFNZb3VOYXVxcU1pMUM2Si1aaG95dzd2M18yM1BZel93WVVsVHdvd21iYVdSNHBPOXhyZ3hXUEFlVFBERnhzZHN0azhzSC0yS1d3Y3hQbXNwZE4zbDhxV1NMNWpIYnhOeER1TVRXNngxRtIBsAJBVV95cUxOQWVmcm9HWm52RDFfa2ItVjF1dzJ3eUJidGU0SWUxVUlRbGItWG1uRm5Ha0lGOXk4VUdYaVNZV00tWWlPU3FNeVdZcW5UMlRDSkFJZXY2VXRuQ2dCMkFxSFdDVk95VTAwazFoY1hHeTQ5TlpWNmNlR2lKX1FfMEI2MDNzNGthYWhJT2J5NnhwNDhORndHaFZlWnJ0Rm9lQTR5ZE9CMEk1TTVHeG05T09JclZUZmpSWVY3dk9iQ21pQm1IdENKQ2RJeG9vMThZbktOVkJBMkF1OFNUMWdUdkpGc3lvMG1wb1pwU0R1WHV1ZEtlSVhOSzZTaFhhR2U2M2cyYlhVS1lNRDJYaGs0d2V6ZGFNMmNDMks5c1NCd1Y0a0ZXVS1GUjRPUjNTMHVZYnVm?oc=5)
-
-2026-10-08
-
-Source: [The Times of India](https://news.google.com/rss/articles/CBMiqAJBVV95cUxNb0xSVG01T1pYcFMwU2ZpQWpMTnd1MGRyOGNhcHltVUZSaElOZUJVWUJWSlV1eEpyUVpEXzZFQ0gtT0FwaWVRdzBITjdSQWJnXzRTY2EyVVlFelVoR0hLaEFfbFFyRmZ2YnkyMUoteTlHdkxZUEtoS3pxUElGLTFqdHd1V3FBM1dJbVpOaVhXMkpkX0FNZUtSejIxNE1yZk03T2NqNWRvT1VDSmRfcUVjQURoUVkySU9FbDl6dFNfbFNZb3VOYXVxcU1pMUM2Si1aaG95dzd2M18yM1BZel93WVVsVHdvd21iYVdSNHBPOXhyZ3hXUEFlVFBERnhzZHN0azhzSC0yS1d3Y3hQbXNwZE4zbDhxV1NMNWpIYnhOeER1TVRXNngxRtIBsAJBVV95cUxOQWVmcm9HWm52RDFfa2ItVjF1dzJ3eUJidGU0SWUxVUlRbGItWG1uRm5Ha0lGOXk4VUdYaVNZV00tWWlPU3FNeVdZcW5UMlRDSkFJZXY2VXRuQ2dCMkFxSFdDVk95VTAwazFoY1hHeTQ5TlpWNmNlR2lKX1FfMEI2MDNzNGthYWhJT2J5NnhwNDhORndHaFZlWnJ0Rm9lQTR5ZE9CMEk1TTVHeG05T09JclZUZmpSWVY3dk9iQ21pQm1IdENKQ2RJeG9vMThZbktOVkJBMkF1OFNUMWdUdkpGc3lvMG1wb1pwU0R1WHV1ZEtlSVhOSzZTaFhhR2U2M2cyYlhVS1lNRDJYaGs0d2V6ZGFNMmNDMks5c1NCd1Y0a0ZXVS1GUjRPUjNTMHVZYnVm?oc=5)
-
----
-
-### [Neanderthal woodworking was far more advanced than we thought, new study shows - Archaeology News Online Magazine](https://news.google.com/rss/articles/CBMigwFBVV95cUxOUmNpaTJ6em9FTWt5UkJac2dYWlcwdkxhcDZOdDI2aXlxY1ZpZVJiODd6SHBlUWVpa1NqVVFYRmw1SmRpNmppbWhkVFdhT1RzelBtWmNaRkZlUm4yS2laZzNnWFJDQ254SmpMNWRmRndjb2thRldKNExVQ1lxU2t4eGx0aw?oc=5)
-
-2026-10-08
-
-Source: [Archaeology News Online Magazine](https://news.google.com/rss/articles/CBMigwFBVV95cUxOUmNpaTJ6em9FTWt5UkJac2dYWlcwdkxhcDZOdDI2aXlxY1ZpZVJiODd6SHBlUWVpa1NqVVFYRmw1SmRpNmppbWhkVFdhT1RzelBtWmNaRkZlUm4yS2laZzNnWFJDQ254SmpMNWRmRndjb2thRldKNExVQ1lxU2t4eGx0aw?oc=5)
-
----
-
 ### [Woman in Pennsylvania diagnosed with alpha-gal syndrome after tick bite - CBS News](https://news.google.com/rss/articles/CBMiigFBVV95cUxQMFNhSkZhMHc2QUhwMVdRWFBSTklQV19XRUtIc0lhb0F3aDhMUDhUOUtnNEI3VXZSd3MyT1VDZ1Z4VloydlpWazkzX25iLWR5eHJaN21oSTZ6TWdtZEJfaGducDB4S1dud2xwa2VudnQ5MnNmeFJDczNuQUNCM0R3NTZUamRQMVZISnc?oc=5)
 
 2026-10-07
 
 Source: [CBS News](https://news.google.com/rss/articles/CBMiigFBVV95cUxQMFNhSkZhMHc2QUhwMVdRWFBSTklQV19XRUtIc0lhb0F3aDhMUDhUOUtnNEI3VXZSd3MyT1VDZ1Z4VloydlpWazkzX25iLWR5eHJaN21oSTZ6TWdtZEJfaGducDB4S1dud2xwa2VudnQ5MnNmeFJDczNuQUNCM0R3NTZUamRQMVZISnc?oc=5)
+
+---
+
+### [DNA From a Human Brain Gene Has Turned Up In a Virus](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQazlMNm9uYjh5Q0F5MDJsNm93ZDZxU0t2VTRKcHhBMVNGenNOdHQ0a2VIQkE4YWNfTGxZcmdQYURmaHVtcndyS255SG5tQ3pfaFZoZkRlaThkZG1vUzFDNVNXSnkzZXk3bDNqY1FRSjB4NUhJa01wTVFsR1MxVDI2bjhLSUNTSGJ6?oc=5)
+
+2026-10-07
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQazlMNm9uYjh5Q0F5MDJsNm93ZDZxU0t2VTRKcHhBMVNGenNOdHQ0a2VIQkE4YWNfTGxZcmdQYURmaHVtcndyS255SG5tQ3pfaFZoZkRlaThkZG1vUzFDNVNXSnkzZXk3bDNqY1FRSjB4NUhJa01wTVFsR1MxVDI2bjhLSUNTSGJ6?oc=5)
+
+---
+
+### [Revealed: how this common gut microbe protects against heart disease](https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tS1JvZHp2UGM2aTFlWDcyMlYyN3M5ajRhN3VuRWZZVzVoRHZRLWxNU1ZDQUMwOEtEdmREd0JNNGFxVW9zOWpRQjVLYUJkRUxpTVQwRGpRY3BoRU1XU3h3?oc=5)
+
+2026-10-07
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE4tS1JvZHp2UGM2aTFlWDcyMlYyN3M5ajRhN3VuRWZZVzVoRHZRLWxNU1ZDQUMwOEtEdmREd0JNNGFxVW9zOWpRQjVLYUJkRUxpTVQwRGpRY3BoRU1XU3h3?oc=5)
 
 ---
 
@@ -89,14 +105,6 @@ Source: [The New York Times](https://news.google.com/rss/articles/CBMihAFBVV95cU
 2026-10-07
 
 Source: [Newsweek](https://news.google.com/rss/articles/CBMif0FVX3lxTE5DRlNVeGlpTUdJLUNEdVVqdVJtRHRhNnNsQ3o0Z2k5R2NpcGhnR2NUYTkxeUhpenFsVVRtNTlnSzBXVE83azVqbFRqLW83U25qYkMtYTM3QXlKcm8zNWFKeXpWZFBfd2VFZjl2LUhjRjdfekVLTkRXR25aWWdHSWs?oc=5)
-
----
-
-### [James Watson Suggested Rosalind Franklin Missed the DNA Double Helix. Her Notes Say Otherwise](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV1FGS1cxQWlSRi1UVjFVSDdKYUp5ZHk3RVVlSGl0V0hMNW1Ebkk2WjYwV29CZUl1RDRrYWI3NTNrMG5qY245QlM3ckdBSGNnODVXbFQ5Q1BVQWNINXhfQ1hjU2QxNWhmYXFxZjhyRkE0WXdyanczaE1KYVRFZHc0T1FoNnFIRUxuNlJsLWVGaUNSd0c3Rmpudl9LWTM0dU1DWGNVR2lwemZMeHlRcUNGUG5yLTR3blRsTFdSREdkWVA?oc=5)
-
-2026-10-07
-
-Source: [Gizmodo](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV1FGS1cxQWlSRi1UVjFVSDdKYUp5ZHk3RVVlSGl0V0hMNW1Ebkk2WjYwV29CZUl1RDRrYWI3NTNrMG5qY245QlM3ckdBSGNnODVXbFQ5Q1BVQWNINXhfQ1hjU2QxNWhmYXFxZjhyRkE0WXdyanczaE1KYVRFZHc0T1FoNnFIRUxuNlJsLWVGaUNSd0c3Rmpudl9LWTM0dU1DWGNVR2lwemZMeHlRcUNGUG5yLTR3blRsTFdSREdkWVA?oc=5)
 
 ---
 

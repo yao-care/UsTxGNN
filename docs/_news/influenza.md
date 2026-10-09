@@ -3,7 +3,7 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 5 articles, 2 related drugs."
+description: "Health news about flu (influenza). 4 articles, 2 related drugs."
 permalink: /news/influenza/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/influenza/
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>5 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>4 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (5)
+## Related News (4)
 
 ### [Covid, flu, West Nile virus, and plague](https://news.google.com/rss/articles/CBMijgFBVV95cUxQcHFfbjBnd25qaS1Xb0V1WUhHYjI4TzVlZnF0QUdDbkxtTktyMXduSVl2SVZiaWUxX2JfWFBYTDhINTFJLWtOZTFfUEdzc1RjdzY1Zm91Y2JHMTliV1RNNUo0WUtRSEhtWjhSNElDaWIyQ2pPUEFnem5XakRzT3RLNl9sODl5VUctTTA5VEd3?oc=5)
 
@@ -56,19 +56,11 @@ Source: [The Press Democrat](https://news.google.com/rss/articles/CBMidEFVX3lxTE
 
 ---
 
-### [Measles is surging in the US. These graphics show how bad it has gotten - AP News](https://news.google.com/rss/articles/CBMiygFBVV95cUxQa2ZiUV9LSjc5R3FWeUZLcXpzQnQ1YS1JejJ2WDRidDRRYmQxUXZTbWJHLXE1SFZmeHBtc1J3aW5BNVVCX0F5RVhMQnl0LUtXd1lzNWsyTl80NXZBeDVmUjRVSXQtdmxrcXN0UVdzbFhCZFRWSjZKUkpwT2NQN3FGSjJEOU9lNDhlcGZMZF9GMGJXcGNrWGlJaFQwSXVOTWh3ZFRxaU1OTG41S1JqcjZkeHdUc29Ra2NTNHVfdmhrbDFscWc0U21Hb2Fn?oc=5)
+### [Metabolic and neural responses to ultraprocessed foods: a randomized, controlled, crossover study](https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zUmVVVGtnNGk1SmEzc2twcXJsOFZaLVBZU2kwem9oN2oyRWFIblAwUGpCQWlNdDFCV0hjQ1lqTFlYQmFOQnRDa3padXVJWmVncmNULW9ESUhUVzYzdE1n?oc=5)
 
-2026-10-07
+2026-10-05
 
-Source: [AP News](https://news.google.com/rss/articles/CBMiygFBVV95cUxQa2ZiUV9LSjc5R3FWeUZLcXpzQnQ1YS1JejJ2WDRidDRRYmQxUXZTbWJHLXE1SFZmeHBtc1J3aW5BNVVCX0F5RVhMQnl0LUtXd1lzNWsyTl80NXZBeDVmUjRVSXQtdmxrcXN0UVdzbFhCZFRWSjZKUkpwT2NQN3FGSjJEOU9lNDhlcGZMZF9GMGJXcGNrWGlJaFQwSXVOTWh3ZFRxaU1OTG41S1JqcjZkeHdUc29Ra2NTNHVfdmhrbDFscWc0U21Hb2Fn?oc=5)
-
----
-
-### [Why old dogs might be able to teach Alzheimer’s researchers new tricks - The Conversation](https://news.google.com/rss/articles/CBMipwFBVV95cUxPd1ZpRmY1RGpFVlIyeExpNG9wX2N3ZFlHYmFPV1hRckZOMUFXZWx1M2czNlVJVHozdnlYa21GTHdpSEFyNkxZb3lDd3lweU13akQ2b3QzSzd5VVltd2xKYXRTdnlZd2ZWQmZTSlMzVjFDbEd0ZHk1U3V1aDd6RVFGRUI4Q0cyS1g4aWNwNDQtZnZSZmk3VlhjaVN3eWp1a2pkRmJjWkhiQQ?oc=5)
-
-2026-10-06
-
-Source: [The Conversation](https://news.google.com/rss/articles/CBMipwFBVV95cUxPd1ZpRmY1RGpFVlIyeExpNG9wX2N3ZFlHYmFPV1hRckZOMUFXZWx1M2czNlVJVHozdnlYa21GTHdpSEFyNkxZb3lDd3lweU13akQ2b3QzSzd5VVltd2xKYXRTdnlZd2ZWQmZTSlMzVjFDbEd0ZHk1U3V1aDd6RVFGRUI4Q0cyS1g4aWNwNDQtZnZSZmk3VlhjaVN3eWp1a2pkRmJjWkhiQQ?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zUmVVVGtnNGk1SmEzc2twcXJsOFZaLVBZU2kwem9oN2oyRWFIblAwUGpCQWlNdDFCV0hjQ1lqTFlYQmFOQnRDa3padXVJWmVncmNULW9ESUhUVzYzdE1n?oc=5)
 
 ---
 

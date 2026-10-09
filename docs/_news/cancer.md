@@ -3,7 +3,7 @@ layout: default
 title: "cancer News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer. 6 articles, 1 related drugs."
+description: "Health news about cancer. 9 articles, 1 related drugs."
 permalink: /news/cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cancer/
 ---
 
 <p class="key-answer" data-question="What news is there about cancer?">
-<strong>cancer</strong> currently has <strong>6 news articles</strong> and 1 related drugs.
+<strong>cancer</strong> currently has <strong>9 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,31 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (6)
+## Related News (9)
+
+### [Opinion | Far too few patients are being screened for lung cancer - The Washington Post](https://news.google.com/rss/articles/CBMitAFBVV95cUxOSURXTnZROVFyTTVuSVYtQXNyZnBwUU5rZklFQUh3Y3JLY2NkOU5ocDlzRG5Gb1kzaUVtdkljOE02TzgyMFVPc3pGam95ano3ajJ6bjVFSHYtTjlla0M5b29PczlqZnpUb1c3b2ZsVkJoTXpUOHJnSUVqc3dfSVMydldGWUQwUkM2OTRzbEhPRVczOUZWcFVnWV9FTHlYNXRPOVM1NGZJVGVsTHN2YzVmWWpnZnU?oc=5)
+
+2026-10-09
+
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMitAFBVV95cUxOSURXTnZROVFyTTVuSVYtQXNyZnBwUU5rZklFQUh3Y3JLY2NkOU5ocDlzRG5Gb1kzaUVtdkljOE02TzgyMFVPc3pGam95ano3ajJ6bjVFSHYtTjlla0M5b29PczlqZnpUb1c3b2ZsVkJoTXpUOHJnSUVqc3dfSVMydldGWUQwUkM2OTRzbEhPRVczOUZWcFVnWV9FTHlYNXRPOVM1NGZJVGVsTHN2YzVmWWpnZnU?oc=5)
+
+---
+
+### [Breast Cancer Survivor Now Paralyzed After Experiencing ‘Severe’ Leg Pain During Utah Hike](https://news.google.com/rss/articles/CBMilwFBVV95cUxPbEtmSXJhR3J1WVB5NlRTTG5wS1hQeGEtUHlTMGFUSDJRdmR4STFfVFdYcjliU1lKOUZRUHJIdEFicFl5V1JlWHdDZnBKUUNRWkt3U1dCc1l3MGlZWG9EMU5OOEVyVS1LVXZCeE5PU2RiTUkxNlpEcmQzS3VRYjA4U2h3dUp0ZHlUMlhwMURVbHBBeHRBR3E0?oc=5)
+
+2026-10-08
+
+Source: [Yahoo](https://news.google.com/rss/articles/CBMilwFBVV95cUxPbEtmSXJhR3J1WVB5NlRTTG5wS1hQeGEtUHlTMGFUSDJRdmR4STFfVFdYcjliU1lKOUZRUHJIdEFicFl5V1JlWHdDZnBKUUNRWkt3U1dCc1l3MGlZWG9EMU5OOEVyVS1LVXZCeE5PU2RiTUkxNlpEcmQzS3VRYjA4U2h3dUp0ZHlUMlhwMURVbHBBeHRBR3E0?oc=5)
+
+---
+
+### [Breakthroughs mean prostate cancer patients have ‘longer, better lives’ - The Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxOMy1EU0trLTU1dUNuNkxZS0lyLTZLWVFjOXpxaG8yWEJWQklwXzFWTUR2bHJ2eXpldVRsdlBJN3VxMU5YMGI0V04xNFZ0VjVRLXN2cjBaQ1dxZ3labjZyQ3NlWGdMVDNyNEdvbGQwN0c4ZXEyYmpRM0loQlZCbHFuUUNpa0hncHBrV1FFenVyNUY3T3lneGRyUA?oc=5)
+
+2026-10-08
+
+Source: [The Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxOMy1EU0trLTU1dUNuNkxZS0lyLTZLWVFjOXpxaG8yWEJWQklwXzFWTUR2bHJ2eXpldVRsdlBJN3VxMU5YMGI0V04xNFZ0VjVRLXN2cjBaQ1dxZ3labjZyQ3NlWGdMVDNyNEdvbGQwN0c4ZXEyYmpRM0loQlZCbHFuUUNpa0hncHBrV1FFenVyNUY3T3lneGRyUA?oc=5)
+
+---
 
 ### [It can keep cancer in remission. Why is no one talking about it? - The Seattle Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNzNIVlFnc1RTd2Y2el9VTEltOVFXY2dpTHNmNXFKSXlYYkVOcF9SbTJfVkJ0WTRWdDZ2WkR6ZERuQnlhVFBTUXNTdU1POEx4VlBxUUZBMFVrTHlvWWxHRnlzLXQtX01YVk1jRGFycjJJRktOT2t4YmRCMmFkNGZPOEl4SElqdDM3SFV0Rm40SWJKRjRENWJOUW9hNkgxZFF6WjcxUnBjLVE?oc=5)
 
@@ -39,11 +63,11 @@ Source: [The Seattle Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUx
 
 ---
 
-### [Prostate cancer survival rates improve as more men come forward - The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxQRWxBUnlibjNQRlZ2OHJTbXFDcGJZblhoNTVCeS0yMS1LdlVhV3lveHZuLXRPZHFoUFRjbE93MDNBOG1BMUNhejd4XzNDV08wN0w3NDFEdGRnM29VenZfVkZwdjlUWlk1Q1VsbUZDUGxHbFY4TVQ2U01SeGZPZk9ZbzZMa24ySEFqaDg5QlUtNFN2aGMxOXFCVV9ybVNLVHE2Snc?oc=5)
+### [Staten Island breast cancer survivors create group to support women and promote early detection](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQld0dW9GRlZvQU5qb2h6OUJ1QWI2NVM0Mk5fNjlBTG1yM215OEdKNGlXaDRHVTBETkxjbjRPbnBHOThnVUtuMzdPSWRaQWhRbGpNa0VPUVFQYjBWMm0wUFRZeTRlc2NBcm5LcDFRejFVTlRmTG9ZZnM3UUFvRXpIU0NocTkxYXlBQmJ1dFU0bUEzektjemFzcTRtMVMwSGVxVGxZZ1NMaWJ4UFhLc1BoTFUwMlYxSFZCZThmbWRFNkFvcVNfbl9vbDh5ZEg5ZUozX0JqNlNhbHVFNkhYeXlyS0NXSGd6eFhzVjlzZFRn?oc=5)
 
 2026-10-08
 
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMiogFBVV95cUxQRWxBUnlibjNQRlZ2OHJTbXFDcGJZblhoNTVCeS0yMS1LdlVhV3lveHZuLXRPZHFoUFRjbE93MDNBOG1BMUNhejd4XzNDV08wN0w3NDFEdGRnM29VenZfVkZwdjlUWlk1Q1VsbUZDUGxHbFY4TVQ2U01SeGZPZk9ZbzZMa24ySEFqaDg5QlUtNFN2aGMxOXFCVV9ybVNLVHE2Snc?oc=5)
+Source: [SILive.com](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQld0dW9GRlZvQU5qb2h6OUJ1QWI2NVM0Mk5fNjlBTG1yM215OEdKNGlXaDRHVTBETkxjbjRPbnBHOThnVUtuMzdPSWRaQWhRbGpNa0VPUVFQYjBWMm0wUFRZeTRlc2NBcm5LcDFRejFVTlRmTG9ZZnM3UUFvRXpIU0NocTkxYXlBQmJ1dFU0bUEzektjemFzcTRtMVMwSGVxVGxZZ1NMaWJ4UFhLc1BoTFUwMlYxSFZCZThmbWRFNkFvcVNfbl9vbDh5ZEg5ZUozX0JqNlNhbHVFNkhYeXlyS0NXSGd6eFhzVjlzZFRn?oc=5)
 
 ---
 

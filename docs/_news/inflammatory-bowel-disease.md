@@ -3,7 +3,7 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 14 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 11 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/inflammatory-bowel-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>14 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>11 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,13 +34,29 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (14)
+## Related News (11)
 
-### [Clinical Trial Indicates A.I. Chatbots Could Aid Urgent Care - The New York Times](https://news.google.com/rss/articles/CBMif0FVX3lxTE1jUlZobENhRDVCSDVERHFnRE13Vy15Z0tFWGdlWW42WElCdkVaY0xMU0p0LXpweDdxN3J0U3FVLWpzTGZFbGhwUWd2VmZzM0JNV2wzX0lyRV9XWU5jWFdxamdBQmpkM09OeEpMSUlUTnhDaWV0MEgxSmpqRk9Uc2M?oc=5)
+### [One type of sleep linked to dramatically lower risk of dementia, Parkinson's and 81 other diseases - Fox News](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZksyeTRKTFZROHBFSDY3Mkw1c0dDVGYzVmJZR2Voc1d6WEFXalk0YURmb1dUYmlaWW1kMDBKSFRoVmZRWXF1MEt6SzNQbXdYRENIWTcySjNzc2h4a2UwanpTWXpvNkdFdFdEX083OWdZY1BRUFZna254bjdGdTNPcllBbUM5Z2tCRF9LU3pXZEhHZmt3RHZMcDJlTzQwY2E3RDNsSWsyMNIBrAFBVV95cUxObXJ6VFM0RUhOQVJ5RHFXNGttaU9lTzZfQTktQkRhWUswNUJNMWN2d0ZFLVYwdU1kYzVNcjZBZHhSa25KUW4wVFRLOG9XaG56bnVsSEJsREJyOHY3RlBBS0UtYzRkbDBnQlJCSnpOQzhRX0RXQnY1SHhCZi02c1NMVUYxRm1SejV1cDhwTmJOVl9HVDlLTGRlNEpTbGdGQlFJdnQ5a1NWd24yak9v?oc=5)
+
+2026-10-09
+
+Source: [Fox News](https://news.google.com/rss/articles/CBMipwFBVV95cUxQZksyeTRKTFZROHBFSDY3Mkw1c0dDVGYzVmJZR2Voc1d6WEFXalk0YURmb1dUYmlaWW1kMDBKSFRoVmZRWXF1MEt6SzNQbXdYRENIWTcySjNzc2h4a2UwanpTWXpvNkdFdFdEX083OWdZY1BRUFZna254bjdGdTNPcllBbUM5Z2tCRF9LU3pXZEhHZmt3RHZMcDJlTzQwY2E3RDNsSWsyMNIBrAFBVV95cUxObXJ6VFM0RUhOQVJ5RHFXNGttaU9lTzZfQTktQkRhWUswNUJNMWN2d0ZFLVYwdU1kYzVNcjZBZHhSa25KUW4wVFRLOG9XaG56bnVsSEJsREJyOHY3RlBBS0UtYzRkbDBnQlJCSnpOQzhRX0RXQnY1SHhCZi02c1NMVUYxRm1SejV1cDhwTmJOVl9HVDlLTGRlNEpTbGdGQlFJdnQ5a1NWd24yak9v?oc=5)
+
+---
+
+### [Here’s what happens to your body when you stop drinking alcohol - The Independent](https://news.google.com/rss/articles/CBMimAFBVV95cUxNeDB5ZzhUQTFoSmxneU5TcjR2dkI0Y0VjNTJ6SDRUOFNlbHdpN0dyOW02SGxyNmN4X1p2SkxpU2dkQVlkS2NEbkNnOUJQWHVjdDZWM3pRZ3FjRVQxekNqZUk2U0dmRGoydURuMVBmN3Jud0dxQlNLT0MzOEVheDB3NlQ2dEx0Rk9MVHE2VUxhVi1vbFNaTGFCOQ?oc=5)
+
+2026-10-09
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMimAFBVV95cUxNeDB5ZzhUQTFoSmxneU5TcjR2dkI0Y0VjNTJ6SDRUOFNlbHdpN0dyOW02SGxyNmN4X1p2SkxpU2dkQVlkS2NEbkNnOUJQWHVjdDZWM3pRZ3FjRVQxekNqZUk2U0dmRGoydURuMVBmN3Jud0dxQlNLT0MzOEVheDB3NlQ2dEx0Rk9MVHE2VUxhVi1vbFNaTGFCOQ?oc=5)
+
+---
+
+### [Parkinson's patients may protect memory and movement with one simple habit - Fox News](https://news.google.com/rss/articles/CBMikAFBVV95cUxPbWZoYmthaElIdk1KbUo1TU5MaFVJZHFydXc0RUJTdVlDaFlvVnVSLVhDdlNlWmtGal91RDFmcmx2ZTRXejYyUDF2aUxLYXZfZW9YMnFqTUxVVDU5NkJXQ3pOY3NMb2k0d1hNamJhODUtYkVCVUZIR3dybnp3TGEwaXNLTHA4a0t5S2lKTmV2aHLSAZYBQVVfeXFMTVNtRTlmZWUxR2ZnQ1R4S25QbENLTmZKd1VwOVBib0RVS0NXWGV0cEVuNjN3WVktZE9BTTJhcFpLLTd3LWVsOUhqUDF3bVdQNHVfNlVoREM4NWhmcXRJR2xMUVZqbm82QTVQY2NaNEdMOGlmTUNqOFFZS2lhVVNWVmRST2MzOEw5RnBsYTNDSWJ1ZlljeTlB?oc=5)
 
 2026-10-08
 
-Source: [The New York Times](https://news.google.com/rss/articles/CBMif0FVX3lxTE1jUlZobENhRDVCSDVERHFnRE13Vy15Z0tFWGdlWW42WElCdkVaY0xMU0p0LXpweDdxN3J0U3FVLWpzTGZFbGhwUWd2VmZzM0JNV2wzX0lyRV9XWU5jWFdxamdBQmpkM09OeEpMSUlUTnhDaWV0MEgxSmpqRk9Uc2M?oc=5)
+Source: [Fox News](https://news.google.com/rss/articles/CBMikAFBVV95cUxPbWZoYmthaElIdk1KbUo1TU5MaFVJZHFydXc0RUJTdVlDaFlvVnVSLVhDdlNlWmtGal91RDFmcmx2ZTRXejYyUDF2aUxLYXZfZW9YMnFqTUxVVDU5NkJXQ3pOY3NMb2k0d1hNamJhODUtYkVCVUZIR3dybnp3TGEwaXNLTHA4a0t5S2lKTmV2aHLSAZYBQVVfeXFMTVNtRTlmZWUxR2ZnQ1R4S25QbENLTmZKd1VwOVBib0RVS0NXWGV0cEVuNjN3WVktZE9BTTJhcFpLLTd3LWVsOUhqUDF3bVdQNHVfNlVoREM4NWhmcXRJR2xMUVZqbm82QTVQY2NaNEdMOGlmTUNqOFFZS2lhVVNWVmRST2MzOEw5RnBsYTNDSWJ1ZlljeTlB?oc=5)
 
 ---
 
@@ -60,19 +76,11 @@ Source: [NewsNation](https://news.google.com/rss/articles/CBMigwFBVV95cUxQY0xiNm
 
 ---
 
-### [More physical activity may mean slower Parkinson’s disease progression - The Washington Post](https://news.google.com/rss/articles/CBMivgFBVV95cUxOVFNnWHhjVGVGYm96b3AtREd2cDBrUlgtMzRzcFFCZURHVENyVDBxN0pCWG1zRHY1TDZmUUt5YWNxeE1vTnQ1WEJGYjNhamZVSnExODMtWnM5LVpHSHpWRklXeVRUbE5wdWxfNUkyS3VJQ2k3MWxXdWZBWDBiMkM1M3hONGtISFZEMkFOY0UzZ01aWG5Zbk1Ya05vN1loLVFtVmdEc3oyUlJ1REJiZm1vUFduU3ZSTEtzdkltQUJn?oc=5)
+### [Justice at last for Rosalind Franklin over role in DNA discovery - The Times](https://news.google.com/rss/articles/CBMinwFBVV95cUxPT3o1TzdoR3JsanhWTzZpQzczN3N1YkNGQWlFUms5UkpwQWxXY01Dd2gtYzBhWUlsQ3hpekliYlkxY1NRTVhkQzJPbmxmWXl3N1MyNXIzYVNTTmRXeWZWRnB0RE80R2ZWRHVxRFhhNWtPOEx1T2ZZZVRvaERMS1U4Qmxvb0xaa0FCNS1QQWN3SWtpTnM3R2o0QXIweHVHM0E?oc=5)
 
 2026-10-08
 
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMivgFBVV95cUxOVFNnWHhjVGVGYm96b3AtREd2cDBrUlgtMzRzcFFCZURHVENyVDBxN0pCWG1zRHY1TDZmUUt5YWNxeE1vTnQ1WEJGYjNhamZVSnExODMtWnM5LVpHSHpWRklXeVRUbE5wdWxfNUkyS3VJQ2k3MWxXdWZBWDBiMkM1M3hONGtISFZEMkFOY0UzZ01aWG5Zbk1Ya05vN1loLVFtVmdEc3oyUlJ1REJiZm1vUFduU3ZSTEtzdkltQUJn?oc=5)
-
----
-
-### [Nagging people to eat healthily does not work - The Economist](https://news.google.com/rss/articles/CBMinAFBVV95cUxQVGQ5ajY4eVVqQmNTdzEwSmZIUTQwWk9BbU94OGpJNjNHZDRXa1pXdXZud3VtNVN3SWVPS0EwXzhWSFVLUDNfQmRQR3oyVXVuMmFIY3BnUGtoTmFWX2xoVXdqUEkwR0FaR3BMbGgzc3hxSzRlWDJlbWZMdVhsUDF5Sm9mRmJjczUyWkFWaGtjdmVEcGg3X3ctSUtSUG4?oc=5)
-
-2026-10-08
-
-Source: [The Economist](https://news.google.com/rss/articles/CBMinAFBVV95cUxQVGQ5ajY4eVVqQmNTdzEwSmZIUTQwWk9BbU94OGpJNjNHZDRXa1pXdXZud3VtNVN3SWVPS0EwXzhWSFVLUDNfQmRQR3oyVXVuMmFIY3BnUGtoTmFWX2xoVXdqUEkwR0FaR3BMbGgzc3hxSzRlWDJlbWZMdVhsUDF5Sm9mRmJjczUyWkFWaGtjdmVEcGg3X3ctSUtSUG4?oc=5)
+Source: [The Times](https://news.google.com/rss/articles/CBMinwFBVV95cUxPT3o1TzdoR3JsanhWTzZpQzczN3N1YkNGQWlFUms5UkpwQWxXY01Dd2gtYzBhWUlsQ3hpekliYlkxY1NRTVhkQzJPbmxmWXl3N1MyNXIzYVNTTmRXeWZWRnB0RE80R2ZWRHVxRFhhNWtPOEx1T2ZZZVRvaERMS1U4Qmxvb0xaa0FCNS1QQWN3SWtpTnM3R2o0QXIweHVHM0E?oc=5)
 
 ---
 
@@ -84,22 +92,6 @@ Source: [The Times of India](https://news.google.com/rss/articles/CBMiqAJBVV95cU
 
 ---
 
-### [Woman in Pennsylvania diagnosed with alpha-gal syndrome after tick bite - CBS News](https://news.google.com/rss/articles/CBMiigFBVV95cUxQMFNhSkZhMHc2QUhwMVdRWFBSTklQV19XRUtIc0lhb0F3aDhMUDhUOUtnNEI3VXZSd3MyT1VDZ1Z4VloydlpWazkzX25iLWR5eHJaN21oSTZ6TWdtZEJfaGducDB4S1dud2xwa2VudnQ5MnNmeFJDczNuQUNCM0R3NTZUamRQMVZISnc?oc=5)
-
-2026-10-07
-
-Source: [CBS News](https://news.google.com/rss/articles/CBMiigFBVV95cUxQMFNhSkZhMHc2QUhwMVdRWFBSTklQV19XRUtIc0lhb0F3aDhMUDhUOUtnNEI3VXZSd3MyT1VDZ1Z4VloydlpWazkzX25iLWR5eHJaN21oSTZ6TWdtZEJfaGducDB4S1dud2xwa2VudnQ5MnNmeFJDczNuQUNCM0R3NTZUamRQMVZISnc?oc=5)
-
----
-
-### [A chiral superlattice route to spin-split topological antiferromagnetism](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JVlp2V1A3NnpnQTV1NFRhRktYSE1jc0Q2aG9mSXpMbjdPb2dLcFNsQjFSbmJDMnJTclNiQWFwZ2xXUlp3bnNtSEVmZVVXdFZPVmdtY2ctaS1OZmNTMXRZ?oc=5)
-
-2026-10-07
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JVlp2V1A3NnpnQTV1NFRhRktYSE1jc0Q2aG9mSXpMbjdPb2dLcFNsQjFSbmJDMnJTclNiQWFwZ2xXUlp3bnNtSEVmZVVXdFZPVmdtY2ctaS1OZmNTMXRZ?oc=5)
-
----
-
 ### [DNA From a Human Brain Gene Has Turned Up In a Virus](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQazlMNm9uYjh5Q0F5MDJsNm93ZDZxU0t2VTRKcHhBMVNGenNOdHQ0a2VIQkE4YWNfTGxZcmdQYURmaHVtcndyS255SG5tQ3pfaFZoZkRlaThkZG1vUzFDNVNXSnkzZXk3bDNqY1FRSjB4NUhJa01wTVFsR1MxVDI2bjhLSUNTSGJ6?oc=5)
 
 2026-10-07
@@ -108,7 +100,7 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQazlM
 
 ---
 
-### [Trump Administration Delays Threaten Funding for HIV Research - The New York Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOWkVFMEwwZTdaWlh2a2hEZXdkM1FvLWxLdFhMbHRtOWsyc1p5RGFpSjJmMmlsVmFzUTlRbm03SUpDYm41YzJab2NEeVpKNlV6UzU1UzFhU1lEY3dlSTZaWTlEcTBlb1RxQmNiazJudmI1OXZOSkVyLXNfeEVHY2d0ckYyVEM?oc=5)
+### [H.I.V. Research Networks Face Uncertain Future Amid Funding Delays - The New York Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOWkVFMEwwZTdaWlh2a2hEZXdkM1FvLWxLdFhMbHRtOWsyc1p5RGFpSjJmMmlsVmFzUTlRbm03SUpDYm41YzJab2NEeVpKNlV6UzU1UzFhU1lEY3dlSTZaWTlEcTBlb1RxQmNiazJudmI1OXZOSkVyLXNfeEVHY2d0ckYyVEM?oc=5)
 
 2026-10-07
 
@@ -124,27 +116,11 @@ Source: [Newsweek](https://news.google.com/rss/articles/CBMif0FVX3lxTE5DRlNVeGlp
 
 ---
 
-### [Southern California surfers are being diagnosed with a bizarre ‘tumor’ condition - Yahoo Health](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWm9UR1pBYXFZMmN0ZVZURnpTX1BfNzZyWjd4LVU1OUZRbjlYeVYxbzkyampQd21jRTFMQ25iZThxa3NORWpMMEhOOFpkQlJmQW9JMDd5SUVHNjJFSjYtYkZBcDczYjA2UHVvd1daM0VwbXpCWU9EWEJKVXYxdFBGY2N4QXI2WTk4YTNmbVNXMno0anhVV3ZWd3JtTEdsV2xj?oc=5)
+### [Conservationists are discovering ‘bright spots’ around the globe. Here’s why they matter - The Conversation](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOV9yZ05uejRJVnc2MU5XYy04VEw2NzJLYXFzZUpyUWdQaWxmSFpkaFF3eExoY0hPWFE4bTFhbUtDWWtjalBPbmM1YVZkOWdKclR3NldQbEpiRjdFZzJMcHVZakVlVzczM3dFVGRISUktSEw0ZFo0VzlXWGRGOEhVZjVDVXhwMXVBWXRoTk1nZzNzSDFMMTRFTDBOSFgxYTU2U3JMWDR1VzBQdjJiLTE1eERhSEZwTzVxOUp3?oc=5)
 
-2026-10-06
+2026-10-07
 
-Source: [Yahoo Health](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWm9UR1pBYXFZMmN0ZVZURnpTX1BfNzZyWjd4LVU1OUZRbjlYeVYxbzkyampQd21jRTFMQ25iZThxa3NORWpMMEhOOFpkQlJmQW9JMDd5SUVHNjJFSjYtYkZBcDczYjA2UHVvd1daM0VwbXpCWU9EWEJKVXYxdFBGY2N4QXI2WTk4YTNmbVNXMno0anhVV3ZWd3JtTEdsV2xj?oc=5)
-
----
-
-### [A simple fall can change your life. Here’s how to prevent one - USA Today](https://news.google.com/rss/articles/CBMipwFBVV95cUxOcVNlRzZhcjJHOXJLOGZXdjRJaU5PNy1TQURoYnU5RnIxUl9CZ1MzSzRmb1RTYkRiTm9McERPTTkxUG9aNVJRZTZIUTYyVFVEd1JCTjY1QVBVbGRsOUMxTVBpem15TnMwNTRKeWxST1gwcGZ4bjFRZnNtUUh0aGVhZHRFLThvc2FiWHpzREpRakNhb29pM3NPQVBvSUVDNXVkVnZLdkxQSQ?oc=5)
-
-2026-10-06
-
-Source: [USA Today](https://news.google.com/rss/articles/CBMipwFBVV95cUxOcVNlRzZhcjJHOXJLOGZXdjRJaU5PNy1TQURoYnU5RnIxUl9CZ1MzSzRmb1RTYkRiTm9McERPTTkxUG9aNVJRZTZIUTYyVFVEd1JCTjY1QVBVbGRsOUMxTVBpem15TnMwNTRKeWxST1gwcGZ4bjFRZnNtUUh0aGVhZHRFLThvc2FiWHpzREpRakNhb29pM3NPQVBvSUVDNXVkVnZLdkxQSQ?oc=5)
-
----
-
-### [New weight-loss drug could give you a ‘flatter stomach’ in mere weeks — and unlike Ozempic, it targets belly fat directly - New York Post](https://news.google.com/rss/articles/CBMitAFBVV95cUxNOEN4bTFod1NKbmxiR2pwVU1OVzM5VVR6TV9wMU8tSkFuQnF1VUMwMEFNMjQzTjZKNmE0U1NELUkwMkR3R3RTbFVoX3o4WmowaDlUZUhCT0lIYWdzMmNrOE1BLUQ5eTlfRHB3U0swRS16NE9oNVRCYUJwd3NvdER4d2c4bkM1UjVnVlYwMHpkNkdCaXdBWWY1SGdRZjA3TnZJcExkVE1YU1Q4bjl0bi00MkRkUWw?oc=5)
-
-2026-10-02
-
-Source: [New York Post](https://news.google.com/rss/articles/CBMitAFBVV95cUxNOEN4bTFod1NKbmxiR2pwVU1OVzM5VVR6TV9wMU8tSkFuQnF1VUMwMEFNMjQzTjZKNmE0U1NELUkwMkR3R3RTbFVoX3o4WmowaDlUZUhCT0lIYWdzMmNrOE1BLUQ5eTlfRHB3U0swRS16NE9oNVRCYUJwd3NvdER4d2c4bkM1UjVnVlYwMHpkNkdCaXdBWWY1SGdRZjA3TnZJcExkVE1YU1Q4bjl0bi00MkRkUWw?oc=5)
+Source: [The Conversation](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOV9yZ05uejRJVnc2MU5XYy04VEw2NzJLYXFzZUpyUWdQaWxmSFpkaFF3eExoY0hPWFE4bTFhbUtDWWtjalBPbmM1YVZkOWdKclR3NldQbEpiRjdFZzJMcHVZakVlVzczM3dFVGRISUktSEw0ZFo0VzlXWGRGOEhVZjVDVXhwMXVBWXRoTk1nZzNzSDFMMTRFTDBOSFgxYTU2U3JMWDR1VzBQdjJiLTE1eERhSEZwTzVxOUp3?oc=5)
 
 ---
 

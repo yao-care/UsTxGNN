@@ -32,6 +32,14 @@ This page brings together the latest health news about “flu” and lists the d
 
 ## Related News (3)
 
+### [Should you get a high-dose flu vaccine? Here’s what experts recommend. - The Washington Post](https://news.google.com/rss/articles/CBMiuAFBVV95cUxONURocFExbXV5U3lsMVVhcm9XUVBXaEZCeFdXb20xNHBUeXNLUlJxQUV1THgxT2xieTltQ2JlR2UzM0xaVXNIOTE4R19UNWJtLTIxb1RlMnFreU9yTHNKdHdGbVBqZEJLT1pKWGx5b1R3X0pWVzdrcHBzRUZweW1DUTdRYUl6d3lkOE1PRGpGWWdaRXllY0pudHRKZmtMYmlkSEsxN2s5VGo5VjJZc1B4NmlBV1l3blNi?oc=5)
+
+2026-10-10
+
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMiuAFBVV95cUxONURocFExbXV5U3lsMVVhcm9XUVBXaEZCeFdXb20xNHBUeXNLUlJxQUV1THgxT2xieTltQ2JlR2UzM0xaVXNIOTE4R19UNWJtLTIxb1RlMnFreU9yTHNKdHdGbVBqZEJLT1pKWGx5b1R3X0pWVzdrcHBzRUZweW1DUTdRYUl6d3lkOE1PRGpGWWdaRXllY0pudHRKZmtMYmlkSEsxN2s5VGo5VjJZc1B4NmlBV1l3blNi?oc=5)
+
+---
+
 ### [Free Meals and Other Perks From Big Pharma Really Do Sway Doctors, Review Finds](https://news.google.com/rss/articles/CBMirgFBVV95cUxOcm5mUjlBWUMxc2duNzJTRzFhVGsxRWVyYjYzM2tRVHNQUHFCY0ltQ3pUWTVBLVotaHNjNlZkSlFNbWthYndmZFZkd2FoTENybjl5OG14cXNHR004aFVrakhwUU1QN2ptOWZYTE92NWtSYTU3cUl6LVRLTEhtS1NVOXVDOTIxbEZ5Y0NsVGpTUXJpVzg5bGFMM0dJSlZiYkR6RklKbWtZTVRXOWFvY3c?oc=5)
 
 2026-10-09
@@ -45,14 +53,6 @@ Source: [Gizmodo](https://news.google.com/rss/articles/CBMirgFBVV95cUxOcm5mUjlBW
 2026-10-08
 
 Source: [The Seattle Times](https://news.google.com/rss/articles/CBMiqgFBVV95cUxONGdTTllrU00yY3BQRll1blA5amoxQTd0S3F6VXE2blVxU1RwQjBBUkNsaEJrODUwWXpQZ0JTTi04WTk2cTgxUW5WMkV3dFBHa1owZ1JlQjExLThnbE11NGNDR3oxLUx1NjBOYmxJalAtSW1uUVFEdE5Lb1ptWklnSUY5aVhyNTVjcEZrclVoUUp5dWNSQ3JyblhuUlV1aDc2YXdOSUdETFQ4dw?oc=5)
-
----
-
-### [Key driver of aggressive prostate cancer identified, suggesting new way to reverse drug resistance - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaVBoQzh3dlNRWUtwZGItSTF0bGVxNEp6NzFkUXJMVWJ0d2ZZZEdnRUJ5ZFZQX3NxdzlXTXJONGF0Sl9xUlNFWnVyRkpzMkd3TXRLbThLNjNYaGY3WXpCRV9Mbi1pMWtuVVhPc2Q2SW1fNXVQVFVGSXpfOEhOZTc1SC1UUElTNjVF?oc=5)
-
-2026-10-07
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaVBoQzh3dlNRWUtwZGItSTF0bGVxNEp6NzFkUXJMVWJ0d2ZZZEdnRUJ5ZFZQX3NxdzlXTXJONGF0Sl9xUlNFWnVyRkpzMkd3TXRLbThLNjNYaGY3WXpCRV9Mbi1pMWtuVVhPc2Q2SW1fNXVQVFVGSXpfOEhOZTc1SC1UUElTNjVF?oc=5)
 
 ---
 

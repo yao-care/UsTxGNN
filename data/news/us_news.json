@@ -1,19 +1,55 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-10-10T04:58:15.794320+00:00",
+  "fetched_at": "2026-10-10T12:06:34.921455+00:00",
   "total_fetched": 140,
   "unique_count": 140,
-  "health_related_count": 74,
+  "health_related_count": 71,
   "news": [
     {
-      "id": "ea9cc1d45d07",
-      "title": "Measles hits an Allegheny County school as outbreak accelerates - Pittsburgh Post-Gazette",
-      "published": "2026-10-10T03:25:05+00:00",
-      "summary": "Measles hits an Allegheny County school as outbreak accelerates&nbsp;&nbsp;Pittsburgh Post-GazetteUS surpasses 4,000 measles cases with infections confirmed in 45 states: CDC&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosMeasles Outbreak in Pennsylvania Is Now the Biggest in U.S. in 35 Years&nbsp;&nbsp;WSJThis Penn State Health pediatrician never thought he’d see measles. Now, he treats it every day.&nbsp;&nbsp;Pittsburgh Post-GazetteHealth Department: Both children with measles att",
+      "id": "13ef7f4616a0",
+      "title": "Should you get a high-dose flu vaccine? Here’s what experts recommend. - The Washington Post",
+      "published": "2026-10-10T11:32:41+00:00",
+      "summary": "Should you get a high-dose flu vaccine? Here’s what experts recommend.&nbsp;&nbsp;The Washington PostBest flu shots and vaccines for seniors in fall 2026&nbsp;&nbsp;Your Ohio NewsYour guide to the 2026 flu season&nbsp;&nbsp;East TennesseanFlu in Older Adults: Why Symptoms May Look Different&nbsp;&nbsp;Banner HealthExpert Q&amp;A: Pharmacist Outlines Influenza Vaccine Selection and Timing Considerations for 2026-2027&nbsp;&nbsp;Pharmacy Times",
       "sources": [
         {
-          "name": "Pittsburgh Post-Gazette",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQenFsaHRTa2h6MnJkckY3T2V0ckpXblFMbjBHSno5WXMwQU05Qkowa2lpaFBEREFFalZWS0d6RlgzYUl5czlYYUVZbjJxYlB4LUhRMnd4ZmdWMlZ5eFdpVG1zZDdEMmtueFNPWHUyRk9zaVNfclIxdnlWQ3B4TDFLNmYwQXp3blBoV2FNdU92WEVCVWpMUDB0NmxVOGNuOFJi?oc=5"
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONURocFExbXV5U3lsMVVhcm9XUVBXaEZCeFdXb20xNHBUeXNLUlJxQUV1THgxT2xieTltQ2JlR2UzM0xaVXNIOTE4R19UNWJtLTIxb1RlMnFreU9yTHNKdHdGbVBqZEJLT1pKWGx5b1R3X0pWVzdrcHBzRUZweW1DUTdRYUl6d3lkOE1PRGpGWWdaRXllY0pudHRKZmtMYmlkSEsxN2s5VGo5VjJZc1B4NmlBV1l3blNi?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "24e14b72e241",
+      "title": "Will We Ever Understand Dementia? - The New York Times",
+      "published": "2026-10-10T09:00:30+00:00",
+      "summary": "Will We Ever Understand Dementia?&nbsp;&nbsp;The New York TimesA dementia diagnosis has long been a death sentence. But are things about to change?&nbsp;&nbsp;The AgeFor Your Health — What to Know About Dementia — and Ways to Prevent It&nbsp;&nbsp;RiverBender.com",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeU1MTzRFVjZDX2g2Q05xUFdvQWpJUFZHODhTc2p5VF9xTEtKb1Nrck1zMXdYQmZHOS1NTzNRSXVJTXNVaHAwUzdwTkREbHNOVEhON0oxRlZ1R2VmaUx3NnJDcDhRSjZxd1Zvd0dZdlpYREQyd2o4SFZ6bVB0clFnclc2X2ZIbmM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1d4b7a551b24",
+      "title": "What happens when you grow up not knowing your family medical history? - BBC",
+      "published": "2026-10-10T05:00:22+00:00",
+      "summary": "What happens when you grow up not knowing your family medical history?&nbsp;&nbsp;BBCSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Ld1RWY0NpQ1FzMDhaZTRBenpwU1FQZ3BaekN5WFBtZGVvb20tMDQ4WmVpc3VLc1Q0cXNrNXpzSXhDVURLdFk3bjdUbC14NDJGMFd6UHNYRHpYQXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3a232939e055",
+      "title": "Early mammogram leads to life-saving discovery for Utah woman and her family - KSL",
+      "published": "2026-10-10T04:54:54+00:00",
+      "summary": "Early mammogram leads to life-saving discovery for Utah woman and her family&nbsp;&nbsp;KSLMammograms and early detection: why it’s important&nbsp;&nbsp;WVNSA Routine Breast Cancer Screening Changed Everything&nbsp;&nbsp;Prince William LivingTiny speck, big warning: Floral Park woman’s mammogram detects cancer no one could see or feel&nbsp;&nbsp;News12 | Long IslandBreast Cancer Awareness | 'It is so important': Mammogram leads to Bedford woman's diagnosis&nbsp;&nbsp;The Tribune-Democrat",
+      "sources": [
+        {
+          "name": "KSL",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQWIwVzdDVlhEM3BYSDVTZmxSTXNvYk90MVpIa0RxTFdzWVNNYTZCYnJyMUoyOE5YcTRMeGxWd1pBVHlHRHRXS251b3lUY3hvQkdOMTQwd3BrLVNqdE9McWVPdzNnaEpBb0ZjVjAwVDJCNkNyWFNuOWNreU1UMFVobWVvTkdHc1FzNFBseW5YOUo2ZjI2LWFzSkxKU19IYkM3VHZSeENjTl9oOFo5RUhFQUNKVQ?oc=5"
         }
       ]
     },
@@ -45,7 +81,7 @@
       "id": "d1a9d215d0eb",
       "title": "Neanderthal wooden tools from Spain found preserved in stone - Ars Technica",
       "published": "2026-10-09T22:34:03+00:00",
-      "summary": "Neanderthal wooden tools from Spain found preserved in stone&nbsp;&nbsp;Ars TechnicaNeanderthal woodworking was far more advanced than we thought, new study shows&nbsp;&nbsp;Archaeology News Online MagazineRare traces of wooden tools reveal Neanderthals were skilled woodworkers&nbsp;&nbsp;Phys.orgNeanderthal Europe was as much a wooden age as a stone age&nbsp;&nbsp;New ScientistA Wooden Club and Other Rare Finds Reveal ‘Invisible’ Side of Neanderthal Life&nbsp;&nbsp;Gizmodo",
+      "summary": "Neanderthal wooden tools from Spain found preserved in stone&nbsp;&nbsp;Ars TechnicaNeanderthal woodworking was far more advanced than we thought, new study shows&nbsp;&nbsp;Archaeology News Online MagazineRare traces of wooden tools reveal Neanderthals were skilled woodworkers&nbsp;&nbsp;Phys.orgArchaeologists Uncover Unprecedented Evidence of Neanderthal Woodworking Skills&nbsp;&nbsp;YahooNeanderthal Europe was as much a wooden age as a stone age&nbsp;&nbsp;New Scientist",
       "sources": [
         {
           "name": "Ars Technica",
@@ -54,10 +90,22 @@
       ]
     },
     {
+      "id": "3c11d2faaee1",
+      "title": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau - The Guardian",
+      "published": "2026-10-09T21:36:00+00:00",
+      "summary": "Controversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau&nbsp;&nbsp;The GuardianHepatitis B vaccine study condemned as unethical wins approval from Danish university&nbsp;&nbsp;CIDRAPCDC Is Moving Forward With a Previously Shelved Controversial Hepatitis B Vaccine Study&nbsp;&nbsp;Rolling StoneOutrage grows as CDC reportedly poised to fund \"unethical\" vaccine trial&nbsp;&nbsp;Ars TechnicaCDC director’s office ordered $1.6 million reserved for Guinea-Bissau trial — Ars Technica",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcUhibHRCZ05LR2ZkRkZQUlFKUy1iTW5rU0wtQmZyQjlzNEFRclpSYThieWdJZGZXTnk1MFdtaWc5SnlXRnk1N1JkenlNZ0dKNVRaNDAxYUJpVmdwNWU0WV9NMmU0ZDlwdS13M1BQOENVbG53djhJYzZ4b2R0dHJ5STZwRUxEV3lCOHc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "bb400308f701",
       "title": "Free Meals and Other Perks From Big Pharma Really Do Sway Doctors, Review Finds - Gizmodo",
       "published": "2026-10-09T21:15:51+00:00",
-      "summary": "Free Meals and Other Perks From Big Pharma Really Do Sway Doctors, Review Finds&nbsp;&nbsp;GizmodoPharmaceutical company marketing negatively influences prescribing&nbsp;&nbsp;EurekAlert! Science News ReleasesFree lunches for clinicians bloat prescription bills: review&nbsp;&nbsp;Fierce PharmaDrug company promotion negatively affects how doctors prescribe: Insights from a new Cochrane review&nbsp;&nbsp;The ConversationDoctors who receive gifts or payments from companies prescribe drugs more freq",
+      "summary": "Free Meals and Other Perks From Big Pharma Really Do Sway Doctors, Review Finds&nbsp;&nbsp;GizmodoPharmaceutical company marketing negatively influences prescribing&nbsp;&nbsp;EurekAlert! Science News ReleasesPharma’s free lunches for doctors boost inappropriate prescribing, analysis finds&nbsp;&nbsp;STATFree lunches for clinicians bloat prescription bills: review&nbsp;&nbsp;Fierce PharmaDoctors who receive gifts or payments from companies prescribe drugs more frequently, review finds&nbsp;&nbsp",
       "sources": [
         {
           "name": "Gizmodo",
@@ -69,7 +117,7 @@
       "id": "d070d3e7ef12",
       "title": "Measles is surging in the US. These graphics show how bad it has gotten - AP News",
       "published": "2026-10-09T20:15:00+00:00",
-      "summary": "Measles is surging in the US. These graphics show how bad it has gotten&nbsp;&nbsp;AP NewsNew York declares measles emergency amid outbreak&nbsp;&nbsp;NewsNationMontgomery County officials respond to measles cases&nbsp;&nbsp;NEWS10 ABCNew York governor plans to seek federal help to tackle measles outbreak&nbsp;&nbsp;ReutersThis disease has now been declared an emergency. Maps show where it's spreading&nbsp;&nbsp;USA Today",
+      "summary": "Measles is surging in the US. These graphics show how bad it has gotten&nbsp;&nbsp;AP NewsNew York governor plans to seek federal help to tackle measles outbreak&nbsp;&nbsp;ReutersNew York declares first US measles disaster emergency since 2025 surge&nbsp;&nbsp;CNNMontgomery County officials respond to measles cases&nbsp;&nbsp;NEWS10 ABCThis disease has now been declared an emergency. Maps show where it's spreading&nbsp;&nbsp;USA Today",
       "sources": [
         {
           "name": "AP News",
@@ -102,14 +150,14 @@
       ]
     },
     {
-      "id": "cbcbb58b88c0",
-      "title": "Outrage grows as CDC reportedly poised to fund \"unethical\" vaccine trial - Ars Technica",
-      "published": "2026-10-09T19:27:27+00:00",
-      "summary": "Outrage grows as CDC reportedly poised to fund \"unethical\" vaccine trial&nbsp;&nbsp;Ars TechnicaControversial vaccine trial touted by RFK Jr gets go-ahead in Guinea-Bissau&nbsp;&nbsp;The GuardianHepatitis B vaccine study condemned as unethical wins approval from Danish university&nbsp;&nbsp;CIDRAPCDC Is Moving Forward With a Previously Shelved Controversial Hepatitis B Vaccine Study&nbsp;&nbsp;Rolling StoneCDC director’s office ordered $1.6 million reserved for Guinea-Bissau trial — Ars Technica",
+      "id": "3d3f65a71fe8",
+      "title": "Breast cancer can show up on the skin. Here's what to know - ABC News - Breaking News, Latest News and Videos",
+      "published": "2026-10-09T18:34:43+00:00",
+      "summary": "Breast cancer can show up on the skin. Here's what to know&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos5 Things a Breast Cancer Surgeon Wants Every Woman to Know&nbsp;&nbsp;ELYSIAN MagazineBreast cancer warning: 8 signs women should not ignore&nbsp;&nbsp;The Worcester NewsGynaecologist Urges Women to Make Breast Health a Priority..&nbsp;&nbsp;The Indian AwaazBreast Lump Doesn’t Have To Hurt To Warrant A Check, Says Surgeon&nbsp;&nbsp;SME & Entrepreneurship Magazine",
       "sources": [
         {
-          "name": "Ars Technica",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUlc2N1FvbXVqVUN2RE5ScFo2VnF2dUZpTE1HY2pjbURrS001VmFOSlZfY2hxbEx3VHQ3R1VQdzVvU095RDdyaElQVGtOYnFGelp2TldfZldqR2ZHZ1JIdjNyN2ZFRkJfUHh6TUdVZ2llejVtWG82SUpuT3B2ZTJaSzJVWFRSRV9OaUlGSXl1TjRGX0JYWjBKbTIzZ1JqemFjUmIyaUExanZhQUtFVWxHQUVQSnFWeXhtWDBPVGdB?oc=5"
+          "name": "ABC News - Breaking News, Latest News and Videos",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQblhIdFdMbmFQYVVBR09EUEFueXpmM2MxLVRlWkFTWTlJdE05TGotcWpOVEF6UF8tSVoxMUxzMmFvLTdGZU5wc2xXeEY4ckw4NkZXLWpfb1VqdTV4MXpHSlpXMFdjbHhHMUxidEVyb3BSczNxRkRZTU02ajBVcl9Qc9IBhgFBVV95cUxNNm1vam44TnVRRDVhWHVJVFNBVzdlWlpFUXlBUzViNC1RQVpoaU1FRndMbDR4TkhVd0tIa0U2eTlhR1NuWC1Rc2VVbTN6cEJaaHNwSUJwWm5CWjJweVNyNGZXT3dZSWhHcE9YQnplNm81VkEtMmhMSWpHUW9tdmYtQnA3MGsyZw?oc=5"
         }
       ]
     },
@@ -174,10 +222,22 @@
       ]
     },
     {
+      "id": "976b0ae82df8",
+      "title": "US surpasses 4,000 measles cases with infections confirmed in 45 states: CDC - ABC News - Breaking News, Latest News and Videos",
+      "published": "2026-10-09T16:41:35+00:00",
+      "summary": "US surpasses 4,000 measles cases with infections confirmed in 45 states: CDC&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosPennsylvania faces largest measles outbreak in decades as case count rises to 1,000&nbsp;&nbsp;The GuardianThis Penn State Health pediatrician never thought he’d see measles. Now, he treats it every day.&nbsp;&nbsp;Pittsburgh Post-GazetteSecond measles case confirmed in Allegheny County&nbsp;&nbsp;Pittsburgh's Public SourceUS measles cases rise to 4,080, CDC say",
+      "sources": [
+        {
+          "name": "ABC News - Breaking News, Latest News and Videos",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdnpfZ3VLOVFsUlByd1JjR2R3U1pCaTFsTXZWby1LVjNuc1VjYU9zZjhWWE1xelh0aThhM2EtUFlUUjlyZXlsSGMwQlFmV2pmOWUya2ZGOXFBWmQ1Smp6TDdBLWNJTklmcnNJOURfRkEta3JYYm43dlE1TUFJM00xQzhzZjczai1vdzFySkU0bTBEeWlITUI2c013UmdDM2g2SVVN0gGoAUFVX3lxTE5kU1c2aG5ZX19pLXdfWDQzMFlDZ0pRMjBER3RlY3ItX0RaS2kyazZrVkszVEdQSjlfQm04aXJpZl9GMmU2b3JWemJac09nRDJXZXJ6R19Pc1hNR2RnV3ZXejJRa2NKcDdoc0ZkdGdacVF0ZVkya3U4cmpkLVFPc2FHdktyNWJydXV1TVkxU2wwUUpQTVk5bDM2Y1JPb2tpdDRjTFUtZkQ2UA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0a75c24b26be",
       "title": "Hundreds in Ohio sickened by sexually transmitted diarrhea disease - The Columbus Dispatch",
       "published": "2026-10-09T16:16:00+00:00",
-      "summary": "Hundreds in Ohio sickened by sexually transmitted diarrhea disease&nbsp;&nbsp;The Columbus DispatchSee more headlines & perspectives on Google News",
+      "summary": "Hundreds in Ohio sickened by sexually transmitted diarrhea disease&nbsp;&nbsp;The Columbus DispatchSexually transmitted diarrhea cases soar in US as infections grow resistant to treatment&nbsp;&nbsp;LiveNOW from FOXSexually transmitted diarrhea illness spreads in Ohio, including Stark&nbsp;&nbsp;YahooSexually transmitted diarrhea? What to know about increasingly treatment-resistant infection&nbsp;&nbsp;WBAL-TVIs 'sexually transmitted diarrhea' a thing? Explaining Shigella illness&nbsp;&nbsp;USA ",
       "sources": [
         {
           "name": "The Columbus Dispatch",
@@ -201,11 +261,23 @@
       "id": "fb2d723f4b32",
       "title": "Measles Cases Confirmed in Oneida County Among Unvaccinated Residents - WKTV",
       "published": "2026-10-09T15:32:00+00:00",
-      "summary": "Measles Cases Confirmed in Oneida County Among Unvaccinated Residents&nbsp;&nbsp;WKTVOswego County health officials confirm second case of measles&nbsp;&nbsp;Syracuse.comFirst measles cases in 30 years confirmed in Oneida County&nbsp;&nbsp;Utica Observer DispatchHealth advisory: Confirmed measles case in region&nbsp;&nbsp;Wadena Pioneer JournalTwo measles cases confirmed in Oneida County&nbsp;&nbsp;CNYhomepage.com",
+      "summary": "Measles Cases Confirmed in Oneida County Among Unvaccinated Residents&nbsp;&nbsp;WKTVOswego County health officials confirm second case of measles&nbsp;&nbsp;Syracuse.comFirst measles cases in 30 years confirmed in Oneida County&nbsp;&nbsp;Utica Observer DispatchHealth advisory: Confirmed measles case in region&nbsp;&nbsp;Wadena Pioneer JournalTwo measles cases confirmed in Oneida County&nbsp;&nbsp;Yahoo",
       "sources": [
         {
           "name": "WKTV",
           "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPM1JERDVJd1R1UHVkVkdJeS1QdFg5SmZJalFYSWw3VVpSZExQWWU5S1VDbWd6MGdwa0JQc0ppTDZtTWU1Y0VwV213QlRneXBELWhEMzYtUjgwWVZfRmlVWEdNWjQtU0NSOEpHRzlXMUE4VXhQYXI2TFNhRUp5X0M0NUNPQllBWVlOYVNDel9rcFR1cmVZd3ljdGRWV3pDdXY0NDR4WldMMnpjVGVSQUktNWZlXzBOc09TOTBya0ZrdlotOUt6VV96bWJZNERkb1lmUXZCcFJhR3dFNldzSkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c9953b5ca88a",
+      "title": "Late-night snack significantly increases disease risk, study warns - The Independent",
+      "published": "2026-10-09T15:00:00+00:00",
+      "summary": "Late-night snack significantly increases disease risk, study warns&nbsp;&nbsp;The IndependentLate-night snacking may affect liver health&nbsp;&nbsp;News-MedicalCommon late night habit could raise risk of TWO liver diseases by 30% - the 4-step formula to prevent it&nbsp;&nbsp;The SunEating before bed increases risk of fatty liver disease&nbsp;&nbsp;The TelegraphLate-Night Eating Linked to Higher Liver Disease Risk, Study Finds&nbsp;&nbsp;Everyday Health",
+      "sources": [
+        {
+          "name": "The Independent",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVS0xcDVsMzhIMHZEVEFzcVNfOVFBdE5KUDZDamhCNmpHMDA3LTE1elRMMEg5Rmg0U2R0aGw5bTQxNUFvT1M1SWdtb1ZlNlYyaUFXOE9CUnVnTXJ0em5HMnFlSEhhRWltandMY1hkb3RFdUlkVl9qNTgzZF9nWVlncFIxWGs4QUppeTVnam0xX3VLcldkQ0Q3Y1JJV2F2NnZpeG90SVlDdXdVaGJ5VXJv?oc=5"
         }
       ]
     },
@@ -222,14 +294,14 @@
       ]
     },
     {
-      "id": "c9953b5ca88a",
-      "title": "Late-night snack significantly increases disease risk, study warns - The Independent",
-      "published": "2026-10-09T15:00:00+00:00",
-      "summary": "Late-night snack significantly increases disease risk, study warns&nbsp;&nbsp;The IndependentLate-night eating linked to higher rates of fatty liver disease and cirrhosis&nbsp;&nbsp;Medical XpressLate-Night Eating Linked to Higher Liver Disease Risk, Study Finds&nbsp;&nbsp;Everyday HealthCommon late night habit could raise risk of TWO liver diseases by 30% - the 4-step formula to prevent it&nbsp;&nbsp;The SunEating before bed increases risk of fatty liver disease&nbsp;&nbsp;The Telegraph",
+      "id": "070d109158e7",
+      "title": "Your cat could give you ‘beaver fever’ — it’s more common than people realize - New York Post",
+      "published": "2026-10-09T14:31:00+00:00",
+      "summary": "Your cat could give you ‘beaver fever’ — it’s more common than people realize&nbsp;&nbsp;New York Post1 in 15 household cats may carry 'Beaver Fever' which can infect humans&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos1 in 15 house cats may carry ‘beaver fever’ parasite that can infect humans&nbsp;&nbsp;KTLAOne in 15 Cats Are Carrying a Diarrhea-Causing Parasite, Study Shows&nbsp;&nbsp;GizmodoGood news: Your cat probably won't give you Giardia&nbsp;&nbsp;CIDRAP",
       "sources": [
         {
-          "name": "The Independent",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVS0xcDVsMzhIMHZEVEFzcVNfOVFBdE5KUDZDamhCNmpHMDA3LTE1elRMMEg5Rmg0U2R0aGw5bTQxNUFvT1M1SWdtb1ZlNlYyaUFXOE9CUnVnTXJ0em5HMnFlSEhhRWltandMY1hkb3RFdUlkVl9qNTgzZF9nWVlncFIxWGs4QUppeTVnam0xX3VLcldkQ0Q3Y1JJV2F2NnZpeG90SVlDdXdVaGJ5VXJv?oc=5"
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMTM0dkw1MXhfWjVzaTBvc2FpWlBRU1ZfZEpCX2xaampHOVFFeTVrYUhsSGtTR0o3YlpzYmtFQmtIRWI0dWdjS3RxeEk1X01vSEVVMnNQSThuaHB6XzNsanhTTks4Z21fM1NvQ0tSRnZjLWRtZEhjcUZIUzFxNnlJdWlmNllzbmJUM0s1bDA2WXFQbUF6VEtnSWpR?oc=5"
         }
       ]
     },
@@ -258,14 +330,14 @@
       ]
     },
     {
-      "id": "bee4e67c719a",
-      "title": "A rare healthcare issue both parties agree on - The Washington Post",
-      "published": "2026-10-09T13:34:45+00:00",
-      "summary": "A rare healthcare issue both parties agree on&nbsp;&nbsp;The Washington PostEstimating cognitive impairment risk, timing&nbsp;&nbsp;National Institutes of Health (NIH) | (.gov)Letter: Urge North Dakota's delegation to support the ASAP Act&nbsp;&nbsp;InForumRoutine blood test may offer clues to future dementia risk&nbsp;&nbsp;News-MedicalCan Blood-Based Molecules Provide a Window Into Brain Disease?&nbsp;&nbsp;Psychiatric Times",
+      "id": "1b1d2abb51b2",
+      "title": "NEWSLETTER: Blindness treatment based on Nobel-winning research shows promise - Reuters",
+      "published": "2026-10-09T13:49:58+00:00",
+      "summary": "NEWSLETTER: Blindness treatment based on Nobel-winning research shows promise&nbsp;&nbsp;ReutersGene therapy can partly restore sight in blind people, researchers reveal&nbsp;&nbsp;The GuardianIn small trial, optogenetics restores some vision lost to retinitis pigmentosa&nbsp;&nbsp;STATGene therapy and special goggles give some blind people limited sight&nbsp;&nbsp;Science NewsOptogenetic therapy shows early signs of improving vision in inherited blindness&nbsp;&nbsp;Medical Xpress",
       "sources": [
         {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRW1mOXFEZktBd1JpRE9qRmRvWWtYTDlESGRuVWNobTd3bFRXYlFjUkZBRWI0YUxJNDMzYldvZnlTeXJjUm9mMEwtNkJ4U0V6WmxxM0hETzFkZjE5TXMwVnBxSWRueVVwUzlNeFRxV0tFeUI3WUQ1UTVNa01ZdlJURjdBUHdnRkdO?oc=5"
+          "name": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTU1NVUVyc3N5aEtUT0hVaWJTUGVMb01NbF9adU1uSklKSllRY1pXcTlUSzFBX3gxakt4cGo3WEd2aDFPZHVHT25zTHVFcTk1anh3dkJadEJyZEIwc1JvLTZrbS1NUzBVUVhDWmcwWHI1RlZuaFJBTjBSWmVTVEk4ZXI1WGdXOUx6UW5weUlXS0Vuc19UVGJsME4tYWdVWjQxQlUtc3ZUcjhCc1MzX1ZucjZJbHdzQmZrQ2VPS1c5S2xhOWUxbzlIeG5qR0pwcU0?oc=5"
         }
       ]
     },
@@ -330,6 +402,18 @@
       ]
     },
     {
+      "id": "02708458784d",
+      "title": "Age and sex shape cancer immunity, mouse experiments and human data suggest - Medical Xpress",
+      "published": "2026-10-09T09:00:01+00:00",
+      "summary": "Age and sex shape cancer immunity, mouse experiments and human data suggest&nbsp;&nbsp;Medical Xpress",
+      "sources": [
+        {
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9RblNBcmpLb0VxT1N3TmRudExkaWJwV1NMSWNqUWI1U1E2M0x0SGROcXZHNllWVDNwM0VFSjdMdndHSklZM0hoUEJfMzcxMUN0UEoyUFFrYm5GcHJVa1gtb3NZMG4tNFFNbXlodlBsbGc4Mmt1VDZVcDBqa2dEdw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b8af903e3c76",
       "title": "One of the toughest parts of ADHD is left out of the diagnosis : Short Wave - NPR",
       "published": "2026-10-09T07:00:00+00:00",
@@ -357,23 +441,11 @@
       "id": "2f67e23af57e",
       "title": "​1 in 8 cancer cases worldwide linked to infections that can be prevented: What you should know and how to protect yourself​ - The Times of India",
       "published": "2026-10-09T04:29:32+00:00",
-      "summary": "​1 in 8 cancer cases worldwide linked to infections that can be prevented: What you should know and how to protect yourself​&nbsp;&nbsp;The Times of IndiaAbout 1 in 8 cancer cases worldwide are tied to these infections — most of them preventable&nbsp;&nbsp;CNNInteractive: 2.3 million cancer cases in 2024 were attributable to infections&nbsp;&nbsp;Scripps NewsScientists discover the likely cause of one in eight cancers worldwide&nbsp;&nbsp;The Independent12% of Cancer Cases Could Be Preventable, ",
+      "summary": "​1 in 8 cancer cases worldwide linked to infections that can be prevented: What you should know and how to protect yourself​&nbsp;&nbsp;The Times of IndiaAbout 1 in 8 cancer cases worldwide are tied to these infections — most of them preventable&nbsp;&nbsp;CNNInfections caused 1 in 8 cancer cases worldwide in 2024, study finds&nbsp;&nbsp;News-Medical12% of Cancer Cases Could Be Preventable, New Study Suggests&nbsp;&nbsp;EatingWellResearch updates, October 6&nbsp;&nbsp;The Sick Times",
       "sources": [
         {
           "name": "The Times of India",
           "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNb2Z3MVYyMV8yeFhkdVptVkl1T3dWNGo4N2JiWnEzOXFFWDY4Q1IwM2tTZVlkNFBTaW53MFl6SGhEbDR4SDhYV3BfMkRoMG1JR0pxUXJ5N0t3UFM0OGY5WTFTc0RPSTdFM3ZhVXNmQ1FIYXN1UXgwOElFUUhLeE5XSHRaUDFhOVgzSDE2TkhTcWpNbVdHd2NBY3FBZnJaS1JMVkY4cVNaeXRzcHBKaC1wXzV4TXB1NTNoSGZBOTM3S3pBalVwZ0R2TnZVVEJJOHdhMWd3elpkb041ZnMxVjIzTExBNWJkT2lwcy1qSV9uTDgzNVhjYUFxa1VtcWp5VXA4MERWbWdCWVI1cktYWEJWel9fZUluaW9IVDFoM2JjcW84SXRR0gGsAkFVX3lxTE5BSlp6VVpLVjZ1UVNOWFhVYXlYUEozb3NrUzhPWWw2dWg0cmhOVlVMOThWdy1jenk4NnhCZVRhU01ZOWFFaDBpYTQ1dTFMLW12WDl5cFl1Y0cyYTJYa2NjUGROZkxrMjF4RlBaOF8yX0dZbW9FQk9OdTNmdU9GTWU0VzVocmFQc0VvOW5La2toOF9BRkI2R2x1ZU9GV3JqMk1UUDVIUnBQNUZ3elRETUVpcm9HY1NZTUNfcEl6U1VyZjZkUk9RMVF4UUQ3T0hMeWt6aG1QUGpENmVNOWhEbUFUSnFpUXpYeDYyYmxvNTc2R3FUWE9PX2I1dVF0TDBJenJCWVhaSDRSZHNzb2F1VGtaNV9pTENSLW9ZZEdMbk9MTEM0eTV2eE9QaFd4LQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cc750128ffc8",
-      "title": "Utah mom's breast cancer diagnosis highlights importance of screening - KSL News",
-      "published": "2026-10-09T04:07:57+00:00",
-      "summary": "Utah mom's breast cancer diagnosis highlights importance of screening&nbsp;&nbsp;KSL NewsLubbock oncologist urging women get early screening for breast cancer&nbsp;&nbsp;KCBDEditorial: Breast Cancer Awareness Month 2026&nbsp;&nbsp;WYFFBreast cancer awareness focus at Monument event&nbsp;&nbsp;The Rapid City PostHow women can be proactive when it comes to breast health&nbsp;&nbsp;Yahoo",
-      "sources": [
-        {
-          "name": "KSL News",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbk5qdTN5cDk3QUtqTUtNZEswa2RXODg0RDlKNUk2ZkJpdmVHajRBVDJYNzBvakt6dWtERUl4ZmNneXdGMV9nNFJWc1ZmQjR3VXhGQ0ZHSzVkYl9CUU9uN0RXYWl5ckV3WjMzM0JFX2FKSXYzN0VJYm5aV2ppaVV3Q2ZTeWVXUWFFZFBFUnNYSkxGU3IwYnp1a19xejJ1Y0VRWnkxc0NtZFc?oc=5"
         }
       ]
     },
@@ -390,34 +462,10 @@
       ]
     },
     {
-      "id": "ff686777b0a9",
-      "title": "GLP-1 Users Are Reporting Their Fingernails Detaching - ScienceAlert",
-      "published": "2026-10-09T01:31:19+00:00",
-      "summary": "GLP-1 Users Are Reporting Their Fingernails Detaching&nbsp;&nbsp;ScienceAlertNew study suggests possible connection between GLP-1s and hair loss in men&nbsp;&nbsp;YahooNew study explores possible link between GLP-1 medications and nail problems&nbsp;&nbsp;WCVBGLP-1s linked to a nasty side effect in nails: study&nbsp;&nbsp;New York PostGLP-1s Linked to Nail Disorders in New Study&nbsp;&nbsp;Medscape",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYnBfZTNOMVZZYWk2MjF4NnN5Wi0wdWVDX3BibnE3MFM1bmZRaUI3bm1JNTBSbnQ5ODJGRlV1eHludDRQVWdvNTdPVmxYNHdkTGNMZHpzOWF4UTAxMzRsMDdvTFZfbmtGa0JhelV4blUxRVd4dXFJTTdQcDB2azlBV2JkUDhTWU1YWGViaUk3NGNHVjF6QVFpQXZTRVVfWnhVbzlLeGFkb3B6NWZa?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0f40eb1900bf",
-      "title": "Report shows heart failure rates rising among adults under 65 - FOX 8 News",
-      "published": "2026-10-09T00:39:36+00:00",
-      "summary": "Report shows heart failure rates rising among adults under 65&nbsp;&nbsp;FOX 8 NewsGlobal Analysis Finds HF Has More Than Doubled&nbsp;&nbsp;MedscapeHeart Failure Mortality Before and After COVID-19: Demographic Variations and Urbanization Patterns in the United States (2018-2023)&nbsp;&nbsp;CureusA new study finds increasing rates of heart failure in young Americans&nbsp;&nbsp;Spectrum NewsGlobal Heart Failure Cases More Than Doubled to 56 Million Since 1990&nbsp;&nbsp;AJMC",
-      "sources": [
-        {
-          "name": "FOX 8 News",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSXZ3QWhaQXRCTjdvVWZvTjVvc3N1MTljendqM0tvNktJOXY0LVlyY29LMFpuWWNvNE96Ui1RTEdnODNMLW1hQzBVcC02NnVjcXIzdmpLNmpwN3R5SHFaMzF5dWJwSnFyZExqQlAxeldTTklCc3NnNC1pTTh3dmJWWmpTOHlkbXlSa1hhNdIBkgFBVV95cUxOZ2lyUFc3UmdsVUdPVVZ2T3B5dnZ1emZKNFhsdFNWS0pYRlVvcVJEZGxqdF90YUE3dkN1ekZWQ2M0RURHSWVFVkpyVnl2d1EwTmJ3VGUxMXc3X1FPb3JTUE1ublhCQzY5VlR6X2FPd1Q5U3o0aXl4NVRDejRPUk42V0xWSXhPZHNKMnNaNGhIQm04Zw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "04d064f9904e",
       "title": "​Gender pain gap: Women experience more pain than men across the whole body, major global study finds ‘shocking’ data​ - The Times of India",
       "published": "2026-10-08T23:52:29+00:00",
-      "summary": "​Gender pain gap: Women experience more pain than men across the whole body, major global study finds ‘shocking’ data​&nbsp;&nbsp;The Times of IndiaGlobal and regional reference curves for pain across the lifespan in 6.1 million individuals in 118 countries&nbsp;&nbsp;NatureWomen suffer more pain than men across the whole body, major global study finds&nbsp;&nbsp;The GuardianPain: Women more affected than men, global study confirms&nbsp;&nbsp;MedicalNewsTodayA study spanning 118 countries reveal",
+      "summary": "​Gender pain gap: Women experience more pain than men across the whole body, major global study finds ‘shocking’ data​&nbsp;&nbsp;The Times of IndiaGlobal and regional reference curves for pain across the lifespan in 6.1 million individuals in 118 countries&nbsp;&nbsp;NatureWomen suffer more pain than men across the whole body, major global study finds&nbsp;&nbsp;The GuardianA study spanning 118 countries reveals a divide in pain and aging&nbsp;&nbsp;News-MedicalGustavo Monnerat: Pain Across the",
       "sources": [
         {
           "name": "The Times of India",
@@ -441,7 +489,7 @@
       "id": "6782fb2d5171",
       "title": "Clinical Trial Indicates A.I. Chatbots Could Aid Urgent Care - The New York Times",
       "published": "2026-10-08T22:30:05+00:00",
-      "summary": "Clinical Trial Indicates A.I. Chatbots Could Aid Urgent Care&nbsp;&nbsp;The New York TimesStudy in The Lancet suggests AI could improve patient-physician relationships.&nbsp;&nbsp;blog.googleGoogle AMIE study adds evidence of medical AI’s promise with patients, under doctors’ supervision&nbsp;&nbsp;R&amp;D WorldBIDMC Researchers Conduct First Real-World Study of Safety and Quality of Patient-Facing AI in Primary Care&nbsp;&nbsp;Beth Israel Deaconess Medical CenterHow GPs could use AI chatbots to",
+      "summary": "Clinical Trial Indicates A.I. Chatbots Could Aid Urgent Care&nbsp;&nbsp;The New York TimesStudy in The Lancet suggests AI could improve patient-physician relationships.&nbsp;&nbsp;blog.googleGoogle AMIE study adds evidence of medical AI’s promise with patients, under doctors’ supervision&nbsp;&nbsp;R&amp;D WorldBIDMC Researchers Conduct First Real-World Study of Safety and Quality of Patient-Facing AI in Primary Care&nbsp;&nbsp;Beth Israel Deaconess Medical CenterYan Leyfman։ What if AI Could Al",
       "sources": [
         {
           "name": "The New York Times",
@@ -450,14 +498,14 @@
       ]
     },
     {
-      "id": "cfc8103bd788",
-      "title": "Big dogs age faster at an epigenetic level, new study finds - Live Science",
-      "published": "2026-10-08T21:59:11+00:00",
-      "summary": "Big dogs age faster at an epigenetic level, new study finds&nbsp;&nbsp;Live ScienceBig dogs die younger, and scientists now know why&nbsp;&nbsp;The TelegraphWhy big dogs age faster&nbsp;&nbsp;EurekAlert! Science News ReleasesMystery of why big dogs age faster than small ones finally solved&nbsp;&nbsp;The IndependentDog Aging Project shows large male dogs age faster at molecular level&nbsp;&nbsp;DongA Science",
+      "id": "5ab471609620",
+      "title": "US health secretary Kennedy launches new push on vaccine injuries - Reuters",
+      "published": "2026-10-08T21:59:44+00:00",
+      "summary": "US health secretary Kennedy launches new push on vaccine injuries&nbsp;&nbsp;ReutersHHS Launches Agency-Wide Actions to Strengthen Vaccine Injury Research, Reporting, and Patient Care&nbsp;&nbsp;HHS.govRFK Jr. tasks researchers with studying vaccine injuries&nbsp;&nbsp;CNNRFK Jr. unveils sweeping federal initiative to find evidence of vaccine injuries&nbsp;&nbsp;Ars TechnicaKennedy Plans Federal Vaccine Injury Initiative, Drawing Wary Eye From Experts&nbsp;&nbsp;The New York Times",
       "sources": [
         {
-          "name": "Live Science",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdVZyZnFHdTFGOWhlSWNNa3FscUMyY055QXNvbFg0ZTVSVDNnczV4a3ZWYjRUSGVPaDdTSEhXdXplZVFickFGOG1VbkFMMURFdG8xSDY0Q1RrLVRVY0ZjZ21KSFh6dXhjbGd2SDFzYkRBdkEyRFFQM3lmQmhpdzM5cTRvTlBJMG1CVEt0SkMzYjk2LVJySTlteXN5LWxDMTYy?oc=5"
+          "name": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTzB4YVJGS1RHRzhJMTJFOWdRRWV6V3I1SlBoeDF6d0ljWlR5YnBDNnBXdzBwbEhKR3lFSkJSZ3p2MnZneDRYVlprOVVpU25DcGo5cTdJWjFLa3piNkdfX1RLaDFXeEdKbG1DZExtVm1uaXZDc3NHTlN3TDUzUG1PaXNYc2hYX2tsdENHMDliM0V5Y3VfMDUtQW5yN2ZPN1ViS0hJUFZrcEtUUXlKWTdydjZsdEpfUQ?oc=5"
         }
       ]
     },
@@ -510,14 +558,14 @@
       ]
     },
     {
-      "id": "553c2d653be8",
-      "title": "RFK Jr. tasks researchers with studying vaccine injuries - CNN",
-      "published": "2026-10-08T20:23:21+00:00",
-      "summary": "RFK Jr. tasks researchers with studying vaccine injuries&nbsp;&nbsp;CNNHHS Launches Agency-Wide Actions to Strengthen Vaccine Injury Research, Reporting, and Patient Care&nbsp;&nbsp;HHS.govUS health secretary Kennedy launches new push on vaccine injuries&nbsp;&nbsp;ReutersKennedy Plans Federal Vaccine Injury Initiative, Drawing Wary Eye From Experts&nbsp;&nbsp;The New York TimesRFK Jr. unveils sweeping federal initiative to find evidence of vaccine injuries&nbsp;&nbsp;Ars Technica",
+      "id": "75a4dcc40d77",
+      "title": "Mystery of why big dogs age faster than small ones finally solved - The Independent",
+      "published": "2026-10-08T20:25:00+00:00",
+      "summary": "Mystery of why big dogs age faster than small ones finally solved&nbsp;&nbsp;The IndependentBig dogs age faster at an epigenetic level, new study finds&nbsp;&nbsp;YahooWhy big dogs age faster&nbsp;&nbsp;EurekAlert! Science News ReleasesDog Aging Project shows large male dogs age faster at molecular level&nbsp;&nbsp;DongA ScienceBig Dogs May Age Faster Due to Unruly 'Jumping Genes'&nbsp;&nbsp;Newser",
       "sources": [
         {
-          "name": "CNN",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05ay1HNjJZeURQQVJpdTkzOGp3bzh1UUdsQ2hUdTlxMXRURUJ5UnlybnktRlZ1SDZDbWV1MUtmM1pHN2ZCbE42Sl9LQjNONUpuS3NhT0lHS3RubnJVWnlhcC0tZ3NJZTJNcFNaN2E1NWNNXy1pRlE?oc=5"
+          "name": "The Independent",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYm4tQWhNOXJIbEZRT05iRXpubWNrNjZodnBGdWNKZldlSGMtZDd3VDI4MXdSNTRUamlPc3RaSGdwcFFieWM1eEVnTVNUaGlmMDQ1SnEzS0dIaVA5ZHc4ZnM2dGpubWxLdXlicjY4aVpIYzB6Z3ZQYV9KLVJReUN0b21sWXNOMFNGMzRTZldaSQ?oc=5"
         }
       ]
     },
@@ -534,18 +582,6 @@
       ]
     },
     {
-      "id": "3d3f65a71fe8",
-      "title": "Breast cancer can show up on the skin. Here's what to know - ABC News - Breaking News, Latest News and Videos",
-      "published": "2026-10-08T19:29:30+00:00",
-      "summary": "Breast cancer can show up on the skin. Here's what to know&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosBreast Cancer Awareness: The effects of breast cancer on the body&nbsp;&nbsp;Devil's Lake Daily JournalLocal OB/GYN talks about breast cancer symptoms and prevention&nbsp;&nbsp;KRWG Public Media5 Things a Breast Cancer Surgeon Wants Every Woman to Know&nbsp;&nbsp;ELYSIAN MagazineBreast cancer warning: 8 signs women should not ignore&nbsp;&nbsp;The Worcester News",
-      "sources": [
-        {
-          "name": "ABC News - Breaking News, Latest News and Videos",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQblhIdFdMbmFQYVVBR09EUEFueXpmM2MxLVRlWkFTWTlJdE05TGotcWpOVEF6UF8tSVoxMUxzMmFvLTdGZU5wc2xXeEY4ckw4NkZXLWpfb1VqdTV4MXpHSlpXMFdjbHhHMUxidEVyb3BSczNxRkRZTU02ajBVcl9Qc9IBhgFBVV95cUxNNm1vam44TnVRRDVhWHVJVFNBVzdlWlpFUXlBUzViNC1RQVpoaU1FRndMbDR4TkhVd0tIa0U2eTlhR1NuWC1Rc2VVbTN6cEJaaHNwSUJwWm5CWjJweVNyNGZXT3dZSWhHcE9YQnplNm81VkEtMmhMSWpHUW9tdmYtQnA3MGsyZw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "37d9194f31fc",
       "title": "How to build a mouse: embryo development captured in stunning detail - Nature",
       "published": "2026-10-08T19:26:29+00:00",
@@ -558,34 +594,10 @@
       ]
     },
     {
-      "id": "0f3b615c257d",
-      "title": "1 in 15 house cats may carry ‘beaver fever’ parasite that can infect humans - KTLA",
-      "published": "2026-10-08T18:57:28+00:00",
-      "summary": "1 in 15 house cats may carry ‘beaver fever’ parasite that can infect humans&nbsp;&nbsp;KTLA1 in 15 household cats may carry 'Beaver Fever' which can infect humans&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosYour cat could give you ‘beaver fever’ — it’s more common than people realize&nbsp;&nbsp;New York PostOne in 15 Cats Are Carrying a Diarrhea-Causing Parasite, Study Shows&nbsp;&nbsp;GizmodoGood news: Your cat probably won't give you Giardia&nbsp;&nbsp;CIDRAP",
-      "sources": [
-        {
-          "name": "KTLA",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRjc3QS04dVV5YkNRckh6b2xDbmZYMk1JVzRzMWN6eFdsdEhGS1hyQjVGOHRPMkRJNDlTMEluaVlHZmJwajJENWd6am0xTjdQdng3WHJqVV8xRHlDWXlKaG55LUxCNUVYSHBEV0hnWUpCVmNib19CSXY0UENWSFBORXRSWWZrSHNKNkMxTnlGUkF0bzUtWHU2UG0xbWRGbDlQcFNQaHFXbHlPWDDSAbABQVVfeXFMT3RIeC1QakdhRGxFVG9GemdESk1wbDFfajVuZUNQRHNRbXdzWFBtUTh4a0liaGNxazhnTGs3LWJVQUVVSzNjMl9ONGVjM1VmOGZTTWtjNTBWMEVvNFJKd3RWcm4yTGpXLW1ZMk93TzY3cjBTbHJzV2hTelRXTlgzckpKd3d4cGlNZVpaV3ByaUxlOExSeWFrdkMzdm5OSHloWGdld0t1OHdWd3FCWDBrM2M?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "89c759d46184",
-      "title": "1st Human West Nile Virus Death Of Year Reported In DuPage County - Patch",
-      "published": "2026-10-08T16:36:29+00:00",
-      "summary": "1st Human West Nile Virus Death Of Year Reported In DuPage County&nbsp;&nbsp;PatchElderly Man Dies After Contracting West Nile In Shelby County&nbsp;&nbsp;Effingham RadioMercer County Reports Four West Nile Cases as Virus Activity Remains High&nbsp;&nbsp;MercerMeDallas County reports first West Nile virus death of the year&nbsp;&nbsp;FOX 4 News Dallas-Fort WorthNJ confirms first 2026 West Nile virus death, encourages protection&nbsp;&nbsp;Courier-Post",
-      "sources": [
-        {
-          "name": "Patch",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOanN1TGZyV3VaSzhiT0pCNTExM211V2l4LUtXLWxtZVZaeGQtX0dzcF8tbXk4YjRXWENKWWpnWDZtOUs2TjNSRHZkUy1JYndURjBGaGNMTU5VcjdFc200VTRLaFZYMHo5SjM4OWRaODhZYUVtTngxSnIwY0hlanRJN1NmVWU1SF9SSEFWRFpvNlU0NFVfNHVtYTFR0gGzAUFVX3lxTE85X1BfRjZEMTQyV3R5cnZuRlpTZjlMU0JOdUlWWGhGVUxiR2poNm95anNVbERndzhIRFpNX3FNaWhPeExiblFVNzFzejFUQW94cVhzVE44Vl91MmFIdUY3al9jWm9JbWs4N2JjbVNQeDJCdHVsci1oOERjVWZyUEplYkNPTXhPSnVDSmpuMDRaZ21KbVNkdmZnRVNHQjhhLWlLSDVXWjVwMXVtTFUxTDA4X1RR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8cf231866444",
       "title": "New iron deficiency standards for diagnosis released - NewsNation",
       "published": "2026-10-08T16:33:39+00:00",
-      "summary": "New iron deficiency standards for diagnosis released&nbsp;&nbsp;NewsNationEveryone Is Talking About Ferritin Levels. How Much Does It Really Matter for Your Health?&nbsp;&nbsp;TODAY.comNew iron deficiency guidelines raise key blood test cutoffs&nbsp;&nbsp;News-MedicalFAQ: ASH's New Ferritin Thresholds, With Jacquelyn Powers, MD, MS&nbsp;&nbsp;HCPLiveNew Ferritin Thresholds Recommended in Guidelines Have Benefits, Disadvantages&nbsp;&nbsp;U.S. Medicine",
+      "summary": "New iron deficiency standards for diagnosis released&nbsp;&nbsp;NewsNationEveryone Is Talking About Ferritin Levels. How Much Does It Really Matter for Your Health?&nbsp;&nbsp;TODAY.comIron deficiency: New guidelines aim to detect low iron levels earlier&nbsp;&nbsp;The Eastleigh VoiceFAQ: ASH's New Ferritin Thresholds, With Jacquelyn Powers, MD, MS&nbsp;&nbsp;HCPLiveNew iron deficiency guidelines raise key blood test cutoffs&nbsp;&nbsp;News-Medical",
       "sources": [
         {
           "name": "NewsNation",
@@ -606,6 +618,18 @@
       ]
     },
     {
+      "id": "b393414f916a",
+      "title": "Higher Levels of 19 Potentially Toxic Chemicals Found in The Teeth of Children With Autism - ScienceAlert",
+      "published": "2026-10-08T15:01:17+00:00",
+      "summary": "Higher Levels of 19 Potentially Toxic Chemicals Found in The Teeth of Children With Autism&nbsp;&nbsp;ScienceAlertUT San Antonio Health Science Center study finds elevated levels of toxicants in teeth of children with autism&nbsp;&nbsp;UT Health San Antonio19 chemicals found in higher concentrations in the teeth of children with autism — ScienceAlert&nbsp;&nbsp;UA.NEWSStudy finds higher levels of everyday chemicals in baby teeth of kids with autism&nbsp;&nbsp;FOX 7 Austin",
+      "sources": [
+        {
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVFlkQTZIajRGOXRyUHVvWlRDU0ZxZlNWY3RIQVRiTm5Oa0l4LURPYWh4LUVFZXdOdndtVTNkQVl5WXgxNHJGZGdvWExIWXNBSkJ2X3Q2Q2k2NF9jN0xEMEpYQ1R5eWZ4NkFKRHVRbXR1UzRXeHZiWWhXQzl5Sjg1WnhBNmIxTnFtMDFKX1dUMDdXNG1zcG1FWGl2YUpCanl0aV9RODZ2RmZEOThseTlvdm1jY3MwWVB3NVRr?oc=5"
+        }
+      ]
+    },
+    {
       "id": "022c48190c72",
       "title": "Sleep Research May Shift Thinking on ADHD - Newser",
       "published": "2026-10-08T14:16:00+00:00",
@@ -621,7 +645,7 @@
       "id": "d62c5ea6329a",
       "title": "Flu season's unexpected twist: It started in Western states - The Seattle Times",
       "published": "2026-10-08T11:56:55+00:00",
-      "summary": "Flu season's unexpected twist: It started in Western states&nbsp;&nbsp;The Seattle TimesAs flu season ramps up, why should you get vaccinated?&nbsp;&nbsp;The Spokesman-ReviewFlu season is near – here’s a guide to available vaccines&nbsp;&nbsp;The ConversationHow good is this year's flu shot? Here's what to know about flu season&nbsp;&nbsp;CBCFlu is showing up earlier this year&nbsp;&nbsp;Axios",
+      "summary": "Flu season's unexpected twist: It started in Western states&nbsp;&nbsp;The Seattle TimesFlu season is near – here’s a guide to available vaccines&nbsp;&nbsp;The ConversationAs flu season ramps up, why should you get vaccinated?&nbsp;&nbsp;The Spokesman-ReviewHow good is this year's flu shot? Here's what to know about flu season&nbsp;&nbsp;CBCDoctor Says: Flu season is fast approaching. Here’s what’s new about this year’s vaccine.&nbsp;&nbsp;NOLA.com",
       "sources": [
         {
           "name": "The Seattle Times",
@@ -678,6 +702,18 @@
       ]
     },
     {
+      "id": "1833f1728259",
+      "title": "tRNA dosage regulates lineage dependency and resistance in prostate cancer - Nature",
+      "published": "2026-10-07T23:03:38+00:00",
+      "summary": "tRNA dosage regulates lineage dependency and resistance in prostate cancer&nbsp;&nbsp;NatureKey driver of aggressive prostate cancer identified, suggesting new way to reverse drug resistance&nbsp;&nbsp;Medical XpressScientists find potential weak spot in aggressive, drug-resistant cancer&nbsp;&nbsp;YahooHidden Aggression: Machine Learning Exposes Dangerous Biology in Low-Risk Prostate Cancer&nbsp;&nbsp;Bioengineer.orgHigh tRNA (IMAGE)&nbsp;&nbsp;EurekAlert! Science News Releases",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NTDZyZ3pSUTRmbjFKSklRc1JPNmw0eTI4dmtyT0l2S1F6dFVKMjdtZzk2R2NyZHZUNGp4eUxfVE1CSmh3eUh5eWtubXBKMkllalV0OEFtLUo1TFFuNEZF?oc=5"
+        }
+      ]
+    },
+    {
       "id": "535b49322309",
       "title": "DNA From a Human Brain Gene Has Turned Up In a Virus - ScienceAlert",
       "published": "2026-10-07T22:01:05+00:00",
@@ -686,30 +722,6 @@
         {
           "name": "ScienceAlert",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQazlMNm9uYjh5Q0F5MDJsNm93ZDZxU0t2VTRKcHhBMVNGenNOdHQ0a2VIQkE4YWNfTGxZcmdQYURmaHVtcndyS255SG5tQ3pfaFZoZkRlaThkZG1vUzFDNVNXSnkzZXk3bDNqY1FRSjB4NUhJa01wTVFsR1MxVDI2bjhLSUNTSGJ6?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "387f31053c3c",
-      "title": "Gene therapy can partly restore sight in blind people, researchers reveal - The Guardian",
-      "published": "2026-10-07T21:00:00+00:00",
-      "summary": "Gene therapy can partly restore sight in blind people, researchers reveal&nbsp;&nbsp;The GuardianNEWSLETTER: Blindness treatment based on Nobel-winning research shows promise&nbsp;&nbsp;ReutersIn small trial, optogenetics restores some vision lost to retinitis pigmentosa&nbsp;&nbsp;STATOptogenetic therapy shows early signs of improving vision in inherited blindness&nbsp;&nbsp;Medical XpressGene therapy and special goggles give some blind people limited sight&nbsp;&nbsp;Science News",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORDVQYkhPdGdyd1E4ZVo4SDFEaTFiSERmdDFVV0ZJVXRKT0hidWthMWtjQnBKS3lJTld1NV8zYXZyNVdXLXJnc0ZBcEtIQk8tcXNhMFV3SWlseGNTWWVHNnExd0IyV2RyY2x2QzlEaVpvZ0JqaFVBQ2kteFlBdmE0Z05ENGQwUE1qZ2h0dWs5dGNtYTdDRVB3WEwteTQ4c0N1Sk12dWRreWN4OTEwcnU1MjZnbnJKdUJWQTI5ZA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0dcf2987f454",
-      "title": "DNA Puts Humans in the Americas at the Height of the Last Ice Age, but the Debate Isn't Over - Gizmodo",
-      "published": "2026-10-07T20:05:48+00:00",
-      "summary": "DNA Puts Humans in the Americas at the Height of the Last Ice Age, but the Debate Isn't Over&nbsp;&nbsp;GizmodoFirst Indigenous Americans reached the Americas no earlier than 21,000 years ago, study suggests&nbsp;&nbsp;Archaeology News Online MagazineAncient DNA Puts Humans in the Americas at the Height of the Last Ice Age, but the Mystery Is Far From Solved&nbsp;&nbsp;ZME ScienceAncient DNA evidence narrows down when people first reached the Americas&nbsp;&nbsp;Phys.orgWhen Did People First Set",
-      "sources": [
-        {
-          "name": "Gizmodo",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa251WFl1blA3Z3VRamZkb21FUGlkbEl4YVpqcUxUbmVnWnpaaG5Fc1B6Q1ZZTXBfNDMwTmM3VC1Vcy13OEZZVTBnMmlST1g5aWJMRW1vaFFMZTlXLW1GTm5SSGJnaGItOHZGcHhkcUhRSmJtelNYS3ROVU5LcVAyVlBGckdoRHh5OWVZY0lqSHlaLUtfU0NYZTJpNXVGVDBoa3BwSktXQlV4VjNLaHlERmhfM2tlOWIzUmMzLVN3?oc=5"
         }
       ]
     },
@@ -750,62 +762,14 @@
       ]
     },
     {
-      "id": "3471e4716066",
-      "title": "Scientists May Have Found How to Limit Weight Regain After Stopping GLP-1s - Newsweek",
-      "published": "2026-10-07T15:14:00+00:00",
-      "summary": "Scientists May Have Found How to Limit Weight Regain After Stopping GLP-1s&nbsp;&nbsp;NewsweekStopping GLP-1s? This May Help You Maintain a Healthy Weight&nbsp;&nbsp;HealthlineHow to improve metabolic health with, without, or after GLP-1s&nbsp;&nbsp;Bristow BeatStructured support may slow weight regain after stopping GLP-1 drugs&nbsp;&nbsp;News-MedicalTwo cheap hacks can STOP fat jab users regaining 11% of their weight after coming off the drugs&nbsp;&nbsp;The Sun",
-      "sources": [
-        {
-          "name": "Newsweek",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DRlNVeGlpTUdJLUNEdVVqdVJtRHRhNnNsQ3o0Z2k5R2NpcGhnR2NUYTkxeUhpenFsVVRtNTlnSzBXVE83azVqbFRqLW83U25qYkMtYTM3QXlKcm8zNWFKeXpWZFBfd2VFZjl2LUhjRjdfekVLTkRXR25aWWdHSWs?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8c6ab7e57a63",
-      "title": "Key driver of aggressive prostate cancer identified, suggesting new way to reverse drug resistance - Medical Xpress",
-      "published": "2026-10-07T15:00:02+00:00",
-      "summary": "Key driver of aggressive prostate cancer identified, suggesting new way to reverse drug resistance&nbsp;&nbsp;Medical XpresstRNA dosage regulates lineage dependency and resistance in prostate cancer&nbsp;&nbsp;NatureHidden Aggression: Machine Learning Exposes Dangerous Biology in Low-Risk Prostate Cancer&nbsp;&nbsp;Bioengineer.orgScientists find potential weak spot in aggressive, drug-resistant cancer&nbsp;&nbsp;NewsweektRNA Influences If Prostate Cancer Becomes Resistant to Treatment&nbsp;&nbsp",
-      "sources": [
-        {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaVBoQzh3dlNRWUtwZGItSTF0bGVxNEp6NzFkUXJMVWJ0d2ZZZEdnRUJ5ZFZQX3NxdzlXTXJONGF0Sl9xUlNFWnVyRkpzMkd3TXRLbThLNjNYaGY3WXpCRV9Mbi1pMWtuVVhPc2Q2SW1fNXVQVFVGSXpfOEhOZTc1SC1UUElTNjVF?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ea019b193181",
-      "title": "Can your brain grow new neurons? How researchers are solving a century-old puzzle - Nature",
-      "published": "2026-10-07T13:34:17+00:00",
-      "summary": "Can your brain grow new neurons? How researchers are solving a century-old puzzle&nbsp;&nbsp;Nature",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8wMElxeDB2ZGljZWM3RDlicUxFdkExNjZWaGM4MW5lUjhvVnFiR2s5S0RSS29xS21Od1RIYkRzaUxyZzhlV1Z3VW03VXZPTHlKUzd3c2tQZURoV0kta3l3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "41d6d3346ffa",
       "title": "It Can Keep Cancer in Remission. Why Is No One Talking About It? - The New York Times",
       "published": "2026-10-07T07:00:00+00:00",
-      "summary": "It Can Keep Cancer in Remission. Why Is No One Talking About It?&nbsp;&nbsp;The New York TimesExercise therapy in cancer prevention and treatment&nbsp;&nbsp;NatureNew research reveals the role of exercise in fighting cancer&nbsp;&nbsp;The IndependentExercise May Slow Aging at the Cellular Level, and Genetics Helps Explain How&nbsp;&nbsp;Bioengineer.orgExercise Helped Colon Cancer Survivors Live Longer, but There’s a Catch&nbsp;&nbsp;Men's Journal",
+      "summary": "It Can Keep Cancer in Remission. Why Is No One Talking About It?&nbsp;&nbsp;The New York TimesExercise therapy in cancer prevention and treatment&nbsp;&nbsp;NatureExercise May Slow Biological Aging After Breast Cancer&nbsp;&nbsp;Cancer Nursing TodayAACR Highlights the Benefits of Exercise for Cancer Patients and Survivors&nbsp;&nbsp;OncodailyExercise May Slow Aging at the Cellular Level, and Genetics Helps Explain How&nbsp;&nbsp;Bioengineer.org",
       "sources": [
         {
           "name": "The New York Times",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWnhQTWYtY3AzOXdDMXhMMkxPOHRZLUNsZlhLbGotTkR5VGdlLUZzejgtYjlhZHAzdnBhZnlRbnJQX3J0NkJ3bUljR3JvNDRBUS1jVkdfSnNZU0hJMEJPY0ZnbGtiVVZaUDlONUFGS2FTWVNPOTQ1S0JPdmtibDRXTXdfc19CSkFH?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "864496183c39",
-      "title": "The 5 Most Common Issues People Bring Up in Therapy, According to a Therapist - Verywell Mind",
-      "published": "2026-10-07T07:00:00+00:00",
-      "summary": "The 5 Most Common Issues People Bring Up in Therapy, According to a Therapist&nbsp;&nbsp;Verywell Mind",
-      "sources": [
-        {
-          "name": "Verywell Mind",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GOUc0d0RLdkVQNmRWZjMzSzhsNnZSdHBIOHdlQU9XRXBiZHd2NGN2TDd1a0x6NkFuWW5KMVRPRy16OGZFSUt6bUUtUEFkUlljYTd3Ni1PZ3RXRnQydlJqUmhzSFUwNW5zY3Nn?oc=5"
         }
       ]
     },
@@ -822,14 +786,14 @@
       ]
     },
     {
-      "id": "22cfb7a2913f",
-      "title": "Common Antidepressants Could Have an Unexpected Role in Cancer Survival - Yahoo",
-      "published": "2026-10-07T00:03:00+00:00",
-      "summary": "Common Antidepressants Could Have an Unexpected Role in Cancer Survival&nbsp;&nbsp;YahooSee more headlines & perspectives on Google News",
+      "id": "616e76044580",
+      "title": "Common Antidepressants Could Have an Unexpected Role in Cancer Survival - ScienceAlert",
+      "published": "2026-10-07T00:05:09+00:00",
+      "summary": "Common Antidepressants Could Have an Unexpected Role in Cancer Survival&nbsp;&nbsp;ScienceAlertEarly Interventions for Depression Tied to Better Cancer Survival&nbsp;&nbsp;Cancer HealthEarly Depression Treatment May Be Linked to Lower Cancer Death Risk&nbsp;&nbsp;Cure TodayCommon Antidepressants May Boost Immunotherapy Survival in Cancer Patients, Major Study Finds&nbsp;&nbsp;Bioengineer.orgPsychotherapy for Major Depressive Disorder Tied to Lower Cancer Mortality Risk&nbsp;&nbsp;Medscape",
       "sources": [
         {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeGQ1elB5cHRtZm50YURvVzZSemJJaUg1SVFUUXAzM0hlSU5zTHRQeVRvSzVPNFUxVm4zMGpiY21ET2ZuMDFyMGhtaWxkZzRMY2c1dk9XNWRBcFdscXpWN21oZkdYZ0tGczhoQ2xGLU1WQzQzSWgxY3hQRWU4QVJTcmFxMVFSODd6aEZjSnM5bVp4alU1aDR2RTJXbUlzZ3A5dUFPT0J3?oc=5"
+          "name": "ScienceAlert",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZzd3QXBRcGFHSjNnektFeUp6bmdxbXY2Nk9EdEhBSWZ5dFp0MjlYUXBDRV9UbFQzUWwzV29rcWxTQ2tobzEwbGJfYXZqZ0JLckc4YlBnZmJNdlh5eWtSc0Y1ZDdIZzBBb0xGVEtmNloteHhmTXgyeHZiYjJFSEpUZGE1bkZ6S21NSnh4Mzllb3hUQkdHYzFIM0xnLVp5T2tqVWc?oc=5"
         }
       ]
     },
@@ -846,26 +810,14 @@
       ]
     },
     {
-      "id": "745c26803b9c",
-      "title": "Earth is in the firing line of a strange new type of cosmic object, scientists say: a 'microblazar' - Yahoo Tech",
-      "published": "2026-10-06T20:41:50+00:00",
-      "summary": "Earth is in the firing line of a strange new type of cosmic object, scientists say: a 'microblazar'&nbsp;&nbsp;Yahoo TechEarth is in the firing line of a strange new type of cosmic object: a 'microblazar'&nbsp;&nbsp;Live ScienceAstronomers say they’ve spotted the first miniature quasar pointed at Earth&nbsp;&nbsp;Science NewsAstronomers describe candidate for first known microblazar — Live Science&nbsp;&nbsp;UA.NEWS",
+      "id": "4df5da9981ce",
+      "title": "Statin Side Effects: What the Evidence Shows - Medscape",
+      "published": "2026-10-05T20:27:55+00:00",
+      "summary": "Statin Side Effects: What the Evidence Shows&nbsp;&nbsp;Medscape",
       "sources": [
         {
-          "name": "Yahoo Tech",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRHg1dUlQTlZOWnF5SWlZdFRveUNIRGxyOWVkaWZKQktFVU12UWsyd240NlFJelBYeGo3RC1QYzJhYUk3czFzdHY0MGpxR3RvNldIWmxJX0V5UzNZUDFXY0o4ejg1QUtSUzR6TWJqdE90dkVDQ0dJYTFlUk5MeGFmTEo2VlN5SE4yRmhqR0VR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b35c96ed618c",
-      "title": "Science-backed guidance for healthy screen time : Short Wave - NPR",
-      "published": "2026-10-06T07:00:00+00:00",
-      "summary": "Science-backed guidance for healthy screen time : Short Wave&nbsp;&nbsp;NPRDigital media can be dangerous. Kids use it anyway. Here’s what parents can do&nbsp;&nbsp;CNNKids and young adults are addicted to screens. New research argues it may be a public health concern&nbsp;&nbsp;CBCWorld Mental Health Day: Why monitoring screen time isn’t enough to protect a child’s mental health&nbsp;&nbsp;FirstpostMental health effects of excessive screen use&nbsp;&nbsp;Universidad de Guadalajara (UDG)",
-      "sources": [
-        {
-          "name": "NPR",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWmpvNldnUTIxeEs0dC1mU29OOEs2b0lsRVIwTmRoMDNJZjRtT1NTOXVBWkZCbG1tVmktOUhZSWxlR0tHZVY1d0ZwdG9YSUE0RGdiRzhUUS1qaHFlbDNGeDBDRlpWRWhmbWpMbW5DYVJ2MHdhbUtyU0NKZ3E1aE15LUg3bF9ERmFaS3M3dzVqUQ?oc=5"
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZUN2WEx2UEZjaEVfOVZsRzgtYWN4Zll5Yl9wZ3NHOFl2Q01RVVY2VWl5Qm1oZkthaE9pcmlpSHY1dEpGYlhGM3R6TlM4dkFiTk5TcTRuOFpsOEs5bjVJV0F5MDRtSkFNcEg3clJuVF9DQnJERHgwVFMydjdWcndDVXh0V2VJc3A4NlJJNEpFdDc5Yzg?oc=5"
         }
       ]
     },
@@ -885,11 +837,23 @@
       "id": "7c163d59670d",
       "title": "Study finds a whole-grain sweet spot for heart health - The Washington Post",
       "published": "2026-10-05T17:00:00+00:00",
-      "summary": "Study finds a whole-grain sweet spot for heart health&nbsp;&nbsp;The Washington PostThis Simple Carb Swap Could Help Lower Your Cholesterol, According to New Research&nbsp;&nbsp;Women's HealthEating More Whole Grains Could Protect Your Heart, New Research Suggests&nbsp;&nbsp;Black DoctorGood news for rice and roti lovers: Switching to whole grains may be good for your heart&nbsp;&nbsp;FirstpostScientists Found a Whole-Grain ‘Sweet Spot’ for Better Heart Health&nbsp;&nbsp;AOL.com",
+      "summary": "Study finds a whole-grain sweet spot for heart health&nbsp;&nbsp;The Washington PostThis Simple Carb Swap Could Help Lower Your Cholesterol, According to New Research&nbsp;&nbsp;Women's HealthGood news for rice and roti lovers: Switching to whole grains may be good for your heart&nbsp;&nbsp;FirstpostEating More Whole Grains Could Protect Your Heart, New Research Suggests&nbsp;&nbsp;Black DoctorScientists Found a Whole-Grain ‘Sweet Spot’ for Better Heart Health&nbsp;&nbsp;AOL.com",
       "sources": [
         {
           "name": "The Washington Post",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSTRBQi04OW52R2ZoMHpuMTh6RFByallYbUNrZlEwa2J5eHd5YVlhdnBNZkw2MEd4X0daRlp3NmNfbGoxaDZxSjB6UGk5aXpZcGVHMkdIZk0xVGQ0a2VoWlpUTng3N2lwcWNacU91dFVORXlnRXpzcFd5RFczbTF3c1JEVHk5cmhwOTk0bDlzeHJ1T0JOWUhEVURhVTNCQl8y?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e4281ec448ac",
+      "title": "GLP-1 Users Report More Nail Detachments - Newser",
+      "published": "2026-10-05T16:15:00+00:00",
+      "summary": "GLP-1 Users Report More Nail Detachments&nbsp;&nbsp;NewserGLP-1 Users Are Reporting Their Fingernails Detaching&nbsp;&nbsp;ScienceAlertPeople on weight-loss drugs report fingernails falling off as researchers uncover surprising link&nbsp;&nbsp;Fox NewsNew study explores possible link between GLP-1 medications and nail problems&nbsp;&nbsp;WCVBNew study suggests possible connection between GLP-1s and hair loss in men&nbsp;&nbsp;Yahoo",
+      "sources": [
+        {
+          "name": "Newser",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU1BHZmFhc01lWWlHUXB3NWlzYU8xbTNadGV6eGZDWDlVQzZhN2plNFpUYV80Z1cwMmtfcnMwcDBWblp1Nk1yTmxjY3IzQ2tGOWQ3bU1OTlhNaFJhaDRFY2hleHBfVEM3RHJJSDdXRzc2WUREWkExYmtVRHJwNU9YVzRtTUJ2TkRvY2V6MlNnX3dnNHpyU2c?oc=5"
         }
       ]
     }

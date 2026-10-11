@@ -36,19 +36,11 @@ This page brings together the latest health news about “UC” and lists the dr
 
 ## Related News (10)
 
-### [Nuclear war and malicious use of AI threaten end of humanity by 2100, says Lancet assessment - The Guardian](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZ0xqVGwtbDRuaFVMR3JfY2FMczBGeC1BTXZKb25xajl1d29hWFBHaWpYZFNVSGw1dERESlY3US1EQWlqRjRKWUpnS1l3VW5sTG5FSzNKLU5FczNmcVJLeDlISkJYbnByMDB3b2dqakVnR2Q1ckNKRmYwN2YxYjdLWHdfZFVMd3FrZGZRUGhrUHJ3em9wYUhOX0U1QTVqbmRaNDd4cEdCdnpPSEkzSEJfNUlfTWdlT1RxRVRzRWtBaUVldlc4aGtyUVFXQmZjTGNZaGpkcFdvYkFGc1dRdlNUMjFXVEk?oc=5)
+### [Scientists Gave People 2 Nearly Identical Meals. One Triggered Much More Insulin.](https://news.google.com/rss/articles/CBMirAFBVV95cUxNN0dXY0tXZ0FwbUtvSUNpRENCS2pxd2tydWVKNjc0RDF2N1RlaFc2X0dWdFY1X3pIMURBaTdmQ2Q2ZUxWSkRvdGNINnhDbFJzX2M3bGhCNC1NX0YtNHc0QVpvd2Y3T0hYcDVPcnJTWGQ5UDE0YjJkaWhhdS15R2tSVE93djAzVF9ZWVg3Tlp3ZDUwbmVIYU5oeE1SeEt6bHpETXEtbVFsSlZfa2JW?oc=5)
 
-2026-10-10
+2026-10-11
 
-Source: [The Guardian](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZ0xqVGwtbDRuaFVMR3JfY2FMczBGeC1BTXZKb25xajl1d29hWFBHaWpYZFNVSGw1dERESlY3US1EQWlqRjRKWUpnS1l3VW5sTG5FSzNKLU5FczNmcVJLeDlISkJYbnByMDB3b2dqakVnR2Q1ckNKRmYwN2YxYjdLWHdfZFVMd3FrZGZRUGhrUHJ3em9wYUhOX0U1QTVqbmRaNDd4cEdCdnpPSEkzSEJfNUlfTWdlT1RxRVRzRWtBaUVldlc4aGtyUVFXQmZjTGNZaGpkcFdvYkFGc1dRdlNUMjFXVEk?oc=5)
-
----
-
-### [Scientists Studied Water, Diet Soda and Weight Loss—Here’s What They Found](https://news.google.com/rss/articles/CBMicEFVX3lxTFByeTdMUUFkT01CRGxxZmxGRy1NamtFQzhzZWVqVVRUZnJtZDRJajhKZV9tQ3pGMWdMLTlRTzZKRFVyZTBmR0RoVjBkUEliejI3ZlhkZE1rX19JaGtBLWlMZjcwbEs0NFg0S1lOTXRIQlM?oc=5)
-
-2026-10-10
-
-Source: [EatingWell](https://news.google.com/rss/articles/CBMicEFVX3lxTFByeTdMUUFkT01CRGxxZmxGRy1NamtFQzhzZWVqVVRUZnJtZDRJajhKZV9tQ3pGMWdMLTlRTzZKRFVyZTBmR0RoVjBkUEliejI3ZlhkZE1rX19JaGtBLWlMZjcwbEs0NFg0S1lOTXRIQlM?oc=5)
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMirAFBVV95cUxNN0dXY0tXZ0FwbUtvSUNpRENCS2pxd2tydWVKNjc0RDF2N1RlaFc2X0dWdFY1X3pIMURBaTdmQ2Q2ZUxWSkRvdGNINnhDbFJzX2M3bGhCNC1NX0YtNHc0QVpvd2Y3T0hYcDVPcnJTWGQ5UDE0YjJkaWhhdS15R2tSVE93djAzVF9ZWVg3Tlp3ZDUwbmVIYU5oeE1SeEt6bHpETXEtbVFsSlZfa2JW?oc=5)
 
 ---
 
@@ -68,19 +60,27 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMirAFBVV95cUxONkx4
 
 ---
 
+### [Will We Ever Understand Dementia? - The New York Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxOeU1MTzRFVjZDX2g2Q05xUFdvQWpJUFZHODhTc2p5VF9xTEtKb1Nrck1zMXdYQmZHOS1NTzNRSXVJTXNVaHAwUzdwTkREbHNOVEhON0oxRlZ1R2VmaUx3NnJDcDhRSjZxd1Zvd0dZdlpYREQyd2o4SFZ6bVB0clFnclc2X2ZIbmM?oc=5)
+
+2026-10-10
+
+Source: [The New York Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxOeU1MTzRFVjZDX2g2Q05xUFdvQWpJUFZHODhTc2p5VF9xTEtKb1Nrck1zMXdYQmZHOS1NTzNRSXVJTXNVaHAwUzdwTkREbHNOVEhON0oxRlZ1R2VmaUx3NnJDcDhRSjZxd1Zvd0dZdlpYREQyd2o4SFZ6bVB0clFnclc2X2ZIbmM?oc=5)
+
+---
+
+### [Mom told to end pregnancy to start treatment. Her decision changed it all](https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmlPX3N2SzltekNUbEVSYUh6bC1MY0FXUEdPdnlvaVpOU1FiWHl0TkNUUXQxZEliNm9TVGVTNUk0Rl9wX3RtWVBzUmVlXzItZ3lvWXlGdFEwNVg2LVI2RmQ2SHd0NF9DRjlyNXdCQnVWSkdLNTZkVjB1VVU2eDc3cGotRElKR1ppZFE?oc=5)
+
+2026-10-09
+
+Source: [Yahoo](https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmlPX3N2SzltekNUbEVSYUh6bC1MY0FXUEdPdnlvaVpOU1FiWHl0TkNUUXQxZEliNm9TVGVTNUk0Rl9wX3RtWVBzUmVlXzItZ3lvWXlGdFEwNVg2LVI2RmQ2SHd0NF9DRjlyNXdCQnVWSkdLNTZkVjB1VVU2eDc3cGotRElKR1ppZFE?oc=5)
+
+---
+
 ### [Discovery marks the first detection of variable water clouds outside of the solar system](https://news.google.com/rss/articles/CBMidEFVX3lxTE5qYWtlT2tlZzVGaEluWnpRamx1dnhJMER4c0ZielQ2Vm8tNFc2dWVBODdVZ1ZOU3BmOXBCQUVnTElyVExwTkNteWFFTlJGdWt0TzVKU0dKdVd3bjNZREVsUnl1bDF5MjJUY2ZCSDljQktWZl9a?oc=5)
 
 2026-10-09
 
 Source: [Phys.org](https://news.google.com/rss/articles/CBMidEFVX3lxTE5qYWtlT2tlZzVGaEluWnpRamx1dnhJMER4c0ZielQ2Vm8tNFc2dWVBODdVZ1ZOU3BmOXBCQUVnTElyVExwTkNteWFFTlJGdWt0TzVKU0dKdVd3bjNZREVsUnl1bDF5MjJUY2ZCSDljQktWZl9a?oc=5)
-
----
-
-### [Your Favorite Song Might Make Pain Hurt Less - Yahoo Health](https://news.google.com/rss/articles/CBMiowFBVV95cUxQSmhnVUItT3JMaEZkUjBXQ0VaN0FVdWV4TUZXLW9RVVRRWFFrRmVqN0phbmpYUFlwcGljZWR0RDNmN3dCbTRiZzl5VTk1LUYwNnZMQTY0ZTcxVHI1NUZ3N0lsT1l2RGtCRV9QQU5icjBFY1VQZXZybzlESzRJQ09yUkN4MENlNzRKYW05VFFkTnk0RG9QSHROZkNoY0JhVlB3N1dF?oc=5)
-
-2026-10-09
-
-Source: [Yahoo Health](https://news.google.com/rss/articles/CBMiowFBVV95cUxQSmhnVUItT3JMaEZkUjBXQ0VaN0FVdWV4TUZXLW9RVVRRWFFrRmVqN0phbmpYUFlwcGljZWR0RDNmN3dCbTRiZzl5VTk1LUYwNnZMQTY0ZTcxVHI1NUZ3N0lsT1l2RGtCRV9QQU5icjBFY1VQZXZybzlESzRJQ09yUkN4MENlNzRKYW05VFFkTnk0RG9QSHROZkNoY0JhVlB3N1dF?oc=5)
 
 ---
 

@@ -42,19 +42,19 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 
 ## Related News (15)
 
+### [Scientists Gave People 2 Nearly Identical Meals. One Triggered Much More Insulin.](https://news.google.com/rss/articles/CBMirAFBVV95cUxNN0dXY0tXZ0FwbUtvSUNpRENCS2pxd2tydWVKNjc0RDF2N1RlaFc2X0dWdFY1X3pIMURBaTdmQ2Q2ZUxWSkRvdGNINnhDbFJzX2M3bGhCNC1NX0YtNHc0QVpvd2Y3T0hYcDVPcnJTWGQ5UDE0YjJkaWhhdS15R2tSVE93djAzVF9ZWVg3Tlp3ZDUwbmVIYU5oeE1SeEt6bHpETXEtbVFsSlZfa2JW?oc=5)
+
+2026-10-11 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">flu</span> <span class="news-indication-tag">UC</span>
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMirAFBVV95cUxNN0dXY0tXZ0FwbUtvSUNpRENCS2pxd2tydWVKNjc0RDF2N1RlaFc2X0dWdFY1X3pIMURBaTdmQ2Q2ZUxWSkRvdGNINnhDbFJzX2M3bGhCNC1NX0YtNHc0QVpvd2Y3T0hYcDVPcnJTWGQ5UDE0YjJkaWhhdS15R2tSVE93djAzVF9ZWVg3Tlp3ZDUwbmVIYU5oeE1SeEt6bHpETXEtbVFsSlZfa2JW?oc=5)
+
+---
+
 ### [Bowel cancer “melted away” after immunotherapy, then stayed away - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFB1RDJ4ZzZaeGxSZXlxMkpOUGpwMkdxTEpsQVRvMDVGYmFxMzFiLUtMUmdpd2phNGlObC1OckZzRHhYY1gwc09NTHZCV2xMcVdXYnhpcTZVc29JbWtUQlhQemdYSk14WmNyMm9YSjEyUQ?oc=5)
 
 2026-10-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
 Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFB1RDJ4ZzZaeGxSZXlxMkpOUGpwMkdxTEpsQVRvMDVGYmFxMzFiLUtMUmdpd2phNGlObC1OckZzRHhYY1gwc09NTHZCV2xMcVdXYnhpcTZVc29JbWtUQlhQemdYSk14WmNyMm9YSjEyUQ?oc=5)
-
----
-
-### [York County woman battling terminal breast cancer putting on golf charity event](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX2VScUpyenBTQWo2N0FJZzhzNnBhNjlWSWxtVkhCVWFrUWNrdTByQnMyaXpGdTlUZHR4RzMwZm5lM3Z6VkVrX1psbG5aVVhfVGhTbzVrY0pDdDAzVnhhbDFNUnZERWkwRVRMQ1VYZTFoWnlxLUNzUGtPcDdjX1BiNkRjbm9JMDg3UE9saXctX1NNc2pQZ3gxMlFJdGEtOVRNMUpmWXhuUmVaT0ZtclppOWV6VVFoNWJN?oc=5)
-
-2026-10-10 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span>
-
-Source: [WGAL](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX2VScUpyenBTQWo2N0FJZzhzNnBhNjlWSWxtVkhCVWFrUWNrdTByQnMyaXpGdTlUZHR4RzMwZm5lM3Z6VkVrX1psbG5aVVhfVGhTbzVrY0pDdDAzVnhhbDFNUnZERWkwRVRMQ1VYZTFoWnlxLUNzUGtPcDdjX1BiNkRjbm9JMDg3UE9saXctX1NNc2pQZ3gxMlFJdGEtOVRNMUpmWXhuUmVaT0ZtclppOWV6VVFoNWJN?oc=5)
 
 ---
 
@@ -90,11 +90,19 @@ Source: [KSL News](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQWIwVzdD
 
 ---
 
-### [Gut microbes help set the body's inflammatory response to vaccination - Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV1Y0eVZkSjVzZmc2OHBSaGJBd2NvMWhaRWRCWW9fOTMwVFJiRURPUDQ0ckpDdXJhbF84SVpXcTNydXUzb1ZUa1Y0OTFKTzNWSGRUOE5MellpUHNzLThnbF9RcHotbnl0QmY4MFplVnJUeFhGNEY4MGlWMWQzTl9RcTJoUks0M0dibllN?oc=5)
+### [Mom told to end pregnancy to start treatment. Her decision changed it all](https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmlPX3N2SzltekNUbEVSYUh6bC1MY0FXUEdPdnlvaVpOU1FiWHl0TkNUUXQxZEliNm9TVGVTNUk0Rl9wX3RtWVBzUmVlXzItZ3lvWXlGdFEwNVg2LVI2RmQ2SHd0NF9DRjlyNXdCQnVWSkdLNTZkVjB1VVU2eDc3cGotRElKR1ppZFE?oc=5)
+
+2026-10-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">UC</span>
+
+Source: [Yahoo](https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmlPX3N2SzltekNUbEVSYUh6bC1MY0FXUEdPdnlvaVpOU1FiWHl0TkNUUXQxZEliNm9TVGVTNUk0Rl9wX3RtWVBzUmVlXzItZ3lvWXlGdFEwNVg2LVI2RmQ2SHd0NF9DRjlyNXdCQnVWSkdLNTZkVjB1VVU2eDc3cGotRElKR1ppZFE?oc=5)
+
+---
+
+### [York County woman battling terminal breast cancer putting on golf charity event](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX2VScUpyenBTQWo2N0FJZzhzNnBhNjlWSWxtVkhCVWFrUWNrdTByQnMyaXpGdTlUZHR4RzMwZm5lM3Z6VkVrX1psbG5aVVhfVGhTbzVrY0pDdDAzVnhhbDFNUnZERWkwRVRMQ1VYZTFoWnlxLUNzUGtPcDdjX1BiNkRjbm9JMDg3UE9saXctX1NNc2pQZ3gxMlFJdGEtOVRNMUpmWXhuUmVaT0ZtclppOWV6VVFoNWJN?oc=5)
 
 2026-10-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span>
 
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV1Y0eVZkSjVzZmc2OHBSaGJBd2NvMWhaRWRCWW9fOTMwVFJiRURPUDQ0ckpDdXJhbF84SVpXcTNydXUzb1ZUa1Y0OTFKTzNWSGRUOE5MellpUHNzLThnbF9RcHotbnl0QmY4MFplVnJUeFhGNEY4MGlWMWQzTl9RcTJoUks0M0dibllN?oc=5)
+Source: [WGAL](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX2VScUpyenBTQWo2N0FJZzhzNnBhNjlWSWxtVkhCVWFrUWNrdTByQnMyaXpGdTlUZHR4RzMwZm5lM3Z6VkVrX1psbG5aVVhfVGhTbzVrY0pDdDAzVnhhbDFNUnZERWkwRVRMQ1VYZTFoWnlxLUNzUGtPcDdjX1BiNkRjbm9JMDg3UE9saXctX1NNc2pQZ3gxMlFJdGEtOVRNMUpmWXhuUmVaT0ZtclppOWV6VVFoNWJN?oc=5)
 
 ---
 
@@ -106,11 +114,11 @@ Source: [ABC News - Breaking News, Latest News and Videos](https://news.google.c
 
 ---
 
-### [Cancer Vaccines Are the N.I.H.’s Next ‘Big Bet’ - The New York Times](https://news.google.com/rss/articles/CBMigAFBVV95cUxQcDZ3bklCUkxsQmVZd0hqWUJsRFFZU0NaZEp5WndCTWFhMW92MGszZTV5LUFSVF9LamlDSTNOcnl4SHNWemZxMkdmZjRCbTRNRHJfYmhXNUMzN0U3SDJUSXhraEVaRldKN2Nidnc4LWtuLVN2dmpudVJDc3h5YkVrcA?oc=5)
+### [Scientists find potential weak spot in aggressive, drug-resistant cancer](https://news.google.com/rss/articles/CBMikwFBVV95cUxPYzh0YVZ2VGJqVWNQbjc4SzNlMFFOT19YWG1Pd2FqdGR0ZkJXNGt3WTJiNkVEZHhUVXE0VjRKQmpuWmRSaW5zTEwtM2NrYzVCTFYzSXdjQjA5QzFaYVFKQlZOLUgzZVBzcEI1QmVzZDcxSGxkUkh2TVJBeFBHNjkweHN2Q0VsSzJLR3k5SDF2T04xQ0U?oc=5)
 
-2026-10-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+2026-10-09 <span class="news-indication-tag">cancer</span>
 
-Source: [The New York Times](https://news.google.com/rss/articles/CBMigAFBVV95cUxQcDZ3bklCUkxsQmVZd0hqWUJsRFFZU0NaZEp5WndCTWFhMW92MGszZTV5LUFSVF9LamlDSTNOcnl4SHNWemZxMkdmZjRCbTRNRHJfYmhXNUMzN0U3SDJUSXhraEVaRldKN2Nidnc4LWtuLVN2dmpudVJDc3h5YkVrcA?oc=5)
+Source: [Newsweek](https://news.google.com/rss/articles/CBMikwFBVV95cUxPYzh0YVZ2VGJqVWNQbjc4SzNlMFFOT19YWG1Pd2FqdGR0ZkJXNGt3WTJiNkVEZHhUVXE0VjRKQmpuWmRSaW5zTEwtM2NrYzVCTFYzSXdjQjA5QzFaYVFKQlZOLUgzZVBzcEI1QmVzZDcxSGxkUkh2TVJBeFBHNjkweHN2Q0VsSzJLR3k5SDF2T04xQ0U?oc=5)
 
 ---
 
@@ -130,14 +138,6 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zdzdkamZCU3
 
 ---
 
-### [Key driver of aggressive prostate cancer identified, suggesting new way to reverse drug resistance - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaVBoQzh3dlNRWUtwZGItSTF0bGVxNEp6NzFkUXJMVWJ0d2ZZZEdnRUJ5ZFZQX3NxdzlXTXJONGF0Sl9xUlNFWnVyRkpzMkd3TXRLbThLNjNYaGY3WXpCRV9Mbi1pMWtuVVhPc2Q2SW1fNXVQVFVGSXpfOEhOZTc1SC1UUElTNjVF?oc=5)
-
-2026-10-07 <span class="news-indication-tag">cancer</span>
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaVBoQzh3dlNRWUtwZGItSTF0bGVxNEp6NzFkUXJMVWJ0d2ZZZEdnRUJ5ZFZQX3NxdzlXTXJONGF0Sl9xUlNFWnVyRkpzMkd3TXRLbThLNjNYaGY3WXpCRV9Mbi1pMWtuVVhPc2Q2SW1fNXVQVFVGSXpfOEhOZTc1SC1UUElTNjVF?oc=5)
-
----
-
 ### [It Can Keep Cancer in Remission. Why Is No One Talking About It? - The New York Times](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWnhQTWYtY3AzOXdDMXhMMkxPOHRZLUNsZlhLbGotTkR5VGdlLUZzejgtYjlhZHAzdnBhZnlRbnJQX3J0NkJ3bUljR3JvNDRBUS1jVkdfSnNZU0hJMEJPY0ZnbGtiVVZaUDlONUFGS2FTWVNPOTQ1S0JPdmtibDRXTXdfc19CSkFH?oc=5)
 
 2026-10-07 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span>
@@ -154,11 +154,11 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZzd3
 
 ---
 
-### [These infections are behind 1 in 8 cancer cases worldwide, study finds - USA Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNall2YzNVY2s1ZHptOEVid21LUFBsNjZRdjlqUVdRcUtmeEZoRVVVOEszYXBVaGxmNVlZZndaWnppa3pOVTZMWmR3alNOV3Y1b29hYlk1Z0tkTXhhLTU3andJampueEFRMk4yWGp6NmdVb3FrOC1VUTlvRzRMdUtMVGxMZ2ZQWHQtQmdKV1lCSjlHZThOUVhEeU9fVl9MZnNZYS04WHVVdFZGTmtoQlZUZjdjVnJDZ1lv?oc=5)
+### [About 1 in 8 cancer cases worldwide are tied to these infections — most of them preventable](https://news.google.com/rss/articles/CBMijgFBVV95cUxPYmNLUU50bXMtY3lnR0xaaGlPVTdiWWtTQ0J3SzlEc0FIZm9kTzBfUnpqZ0pRczRkRkdwUU9FVkNPVW1QdS1ZbFdYMlM1NmhNWTNKTGlJNDVwR09YOFlrYzVEc2R2N25RNEo4ZVNGT0Jkd293WVZobXI0NTZBajlreW5iWEozZHAtMFZpYXln?oc=5)
 
-2026-10-06 <span class="news-indication-tag">cancer</span>
+2026-10-05 <span class="news-indication-tag">cancer</span>
 
-Source: [USA Today](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNall2YzNVY2s1ZHptOEVid21LUFBsNjZRdjlqUVdRcUtmeEZoRVVVOEszYXBVaGxmNVlZZndaWnppa3pOVTZMWmR3alNOV3Y1b29hYlk1Z0tkTXhhLTU3andJampueEFRMk4yWGp6NmdVb3FrOC1VUTlvRzRMdUtMVGxMZ2ZQWHQtQmdKV1lCSjlHZThOUVhEeU9fVl9MZnNZYS04WHVVdFZGTmtoQlZUZjdjVnJDZ1lv?oc=5)
+Source: [CNN](https://news.google.com/rss/articles/CBMijgFBVV95cUxPYmNLUU50bXMtY3lnR0xaaGlPVTdiWWtTQ0J3SzlEc0FIZm9kTzBfUnpqZ0pRczRkRkdwUU9FVkNPVW1QdS1ZbFdYMlM1NmhNWTNKTGlJNDVwR09YOFlrYzVEc2R2N25RNEo4ZVNGT0Jkd293WVZobXI0NTZBajlreW5iWEozZHAtMFZpYXln?oc=5)
 
 ---
 

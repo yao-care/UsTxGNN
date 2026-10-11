@@ -29,10 +29,6 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-The background skill-check has completed (result: skip) — confirming the `txgnn-pipeline` skill was not needed for this report-generation task. The evaluation report above is the final output.
-
----
-
 **Summary of key findings:**
 
 | Issue | Detail |

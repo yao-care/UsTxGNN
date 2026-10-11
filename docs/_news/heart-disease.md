@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "heart disease News"
+title: "CAD (heart disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about heart disease. 2 articles, 1 related drugs."
+description: "Health news about CAD (heart disease). 2 articles, 1 related drugs."
 permalink: /news/heart-disease/
 ---
 
-# heart disease News
+# CAD (heart disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about heart disease?">
-<strong>heart disease</strong> currently has <strong>2 news articles</strong> and 1 related drugs.
+<p class="key-answer" data-question="What news is there about CAD (heart disease)?">
+<strong>CAD (heart disease)</strong> currently has <strong>2 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “heart disease” and lists the drugs in the UsTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “CAD” and lists the drugs in the UsTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -39,11 +39,11 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMirAFBVV95cUxNN0dX
 
 ---
 
-### [New state law requires mammogram results to include this heart disease warning sign - The Washington Post](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYjZiNjNkeU1uZWNwZzlUVjlrdVd4T1NBRTRVWUlQSldpb09ZQnEzN1M1aEIxYmRCWWhfSXpqd1JEbmxrSldyOTNSUll2YUVxLU8yRVMzWkt2NEJyVG9MUC1iNTJZRUFVRUI4LUNMMVRQdnB0TFpJNjdZQ3BlYVBMbzFvdnlEaHMxUXFqamJtaHhicUdJNmxoYzBWQTEySXo4RW9BZGhlQVJGdUV4MUZCR3RIRXV2OFl0bzJ5WVBJdXM?oc=5)
+### [U.S. measles cases surpass 4,000, with over 25 percent coming from Pennsylvania - The Hill](https://news.google.com/rss/articles/CBMikwFBVV95cUxOVVpmQkJwTGNTUVNxUTNPQXc4TEo1YWpQazUyY2NDZzRPUjZ3aVZRdXgya1Y0ZmQ1OXl3WXRKaDVHMHdTLURGSVFFYWlqV3FqRld3akpwaDRadTlVZGRlY3V5RXg4aGFWVzFFbDlIYVZIRlZKaFpRdXVkeWd1QlVOVGxLamlna1NzblR0VV9rMmxUWDjSAZgBQVVfeXFMUGtydHZxNmlRdEFvT0s4b3hPb2dNaGY5YmJTdjdrSE43eXZaclA5UXhXejlWU3E0Ml9jNzRzWnd5d1JxWXRzdkEtYmR0VTJSeDNnX1ctU1FjdWItU2pTbDJYN1FpNFk0ZjFJOE9TdzJjRDJqLUp4c3Y2WHNYSXhuS0ZySnJwOFFPTzg4TXJaQkVVOVVXb2c4RVg?oc=5)
 
-2026-10-07
+2026-10-10
 
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYjZiNjNkeU1uZWNwZzlUVjlrdVd4T1NBRTRVWUlQSldpb09ZQnEzN1M1aEIxYmRCWWhfSXpqd1JEbmxrSldyOTNSUll2YUVxLU8yRVMzWkt2NEJyVG9MUC1iNTJZRUFVRUI4LUNMMVRQdnB0TFpJNjdZQ3BlYVBMbzFvdnlEaHMxUXFqamJtaHhicUdJNmxoYzBWQTEySXo4RW9BZGhlQVJGdUV4MUZCR3RIRXV2OFl0bzJ5WVBJdXM?oc=5)
+Source: [The Hill](https://news.google.com/rss/articles/CBMikwFBVV95cUxOVVpmQkJwTGNTUVNxUTNPQXc4TEo1YWpQazUyY2NDZzRPUjZ3aVZRdXgya1Y0ZmQ1OXl3WXRKaDVHMHdTLURGSVFFYWlqV3FqRld3akpwaDRadTlVZGRlY3V5RXg4aGFWVzFFbDlIYVZIRlZKaFpRdXVkeWd1QlVOVGxLamlna1NzblR0VV9rMmxUWDjSAZgBQVVfeXFMUGtydHZxNmlRdEFvT0s4b3hPb2dNaGY5YmJTdjdrSE43eXZaclA5UXhXejlWU3E0Ml9jNzRzWnd5d1JxWXRzdkEtYmR0VTJSeDNnX1ctU1FjdWItU2pTbDJYN1FpNFk0ZjFJOE9TdzJjRDJqLUp4c3Y2WHNYSXhuS0ZySnJwOFFPTzg4TXJaQkVVOVVXb2c4RVg?oc=5)
 
 ---
 

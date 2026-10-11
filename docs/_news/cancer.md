@@ -3,7 +3,7 @@ layout: default
 title: "cancer News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer. 15 articles, 1 related drugs."
+description: "Health news about cancer. 12 articles, 1 related drugs."
 permalink: /news/cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cancer/
 ---
 
 <p class="key-answer" data-question="What news is there about cancer?">
-<strong>cancer</strong> currently has <strong>15 news articles</strong> and 1 related drugs.
+<strong>cancer</strong> currently has <strong>12 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,21 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (15)
+## Related News (12)
+
+### [Why doctors are urging women to redo early genetic tests for cancer risks - The Washington Post](https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ0RsWk5zR0o3SHlfVjF1Y19rSjJBQUNtWjlHZFMtUXM0cS1nMzBybklPMXFlQXVwZkoxdTlsNEhBOHJwOFlLekZHSDZnUjRkRFRkS2gwUjNrdUVsNVBMUEtHMzVIUXNLbkFJMVo1Z2drWWR5eGR6ejdnN3JLYUpxazhPWDFCb2M0eUpIMUV1eE5qdUhGdWZiSTYza1Rtam9jVzZvWjZMa1pIOFBsYm9NSGNMQXVycFc5blhheGF3?oc=5)
+
+2026-10-11
+
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ0RsWk5zR0o3SHlfVjF1Y19rSjJBQUNtWjlHZFMtUXM0cS1nMzBybklPMXFlQXVwZkoxdTlsNEhBOHJwOFlLekZHSDZnUjRkRFRkS2gwUjNrdUVsNVBMUEtHMzVIUXNLbkFJMVo1Z2drWWR5eGR6ejdnN3JLYUpxazhPWDFCb2M0eUpIMUV1eE5qdUhGdWZiSTYza1Rtam9jVzZvWjZMa1pIOFBsYm9NSGNMQXVycFc5blhheGF3?oc=5)
+
+---
 
 ### [Scientists Gave People 2 Nearly Identical Meals. One Triggered Much More Insulin.](https://news.google.com/rss/articles/CBMirAFBVV95cUxNN0dXY0tXZ0FwbUtvSUNpRENCS2pxd2tydWVKNjc0RDF2N1RlaFc2X0dWdFY1X3pIMURBaTdmQ2Q2ZUxWSkRvdGNINnhDbFJzX2M3bGhCNC1NX0YtNHc0QVpvd2Y3T0hYcDVPcnJTWGQ5UDE0YjJkaWhhdS15R2tSVE93djAzVF9ZWVg3Tlp3ZDUwbmVIYU5oeE1SeEt6bHpETXEtbVFsSlZfa2JW?oc=5)
 
 2026-10-11
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMirAFBVV95cUxNN0dXY0tXZ0FwbUtvSUNpRENCS2pxd2tydWVKNjc0RDF2N1RlaFc2X0dWdFY1X3pIMURBaTdmQ2Q2ZUxWSkRvdGNINnhDbFJzX2M3bGhCNC1NX0YtNHc0QVpvd2Y3T0hYcDVPcnJTWGQ5UDE0YjJkaWhhdS15R2tSVE93djAzVF9ZWVg3Tlp3ZDUwbmVIYU5oeE1SeEt6bHpETXEtbVFsSlZfa2JW?oc=5)
-
----
-
-### [Bowel cancer “melted away” after immunotherapy, then stayed away - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFB1RDJ4ZzZaeGxSZXlxMkpOUGpwMkdxTEpsQVRvMDVGYmFxMzFiLUtMUmdpd2phNGlObC1OckZzRHhYY1gwc09NTHZCV2xMcVdXYnhpcTZVc29JbWtUQlhQemdYSk14WmNyMm9YSjEyUQ?oc=5)
-
-2026-10-10
-
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFB1RDJ4ZzZaeGxSZXlxMkpOUGpwMkdxTEpsQVRvMDVGYmFxMzFiLUtMUmdpd2phNGlObC1OckZzRHhYY1gwc09NTHZCV2xMcVdXYnhpcTZVc29JbWtUQlhQemdYSk14WmNyMm9YSjEyUQ?oc=5)
 
 ---
 
@@ -63,14 +63,6 @@ Source: [CBS News](https://news.google.com/rss/articles/CBMipAFBVV95cUxOdGtJUjBE
 
 ---
 
-### [This Mindless Habit Is Linked With An Increase In Cancer Risk — And You Are Likely Guilty Of It](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUDNOWXE2eFdNWVRzVWZTWGtNMVRkSUtpUmFham5yNzFMWEJiRXpBeHMzR3I3cWJxMld3RkVPbFFwYjI5WGpBdDNZVk1haXlUakRkaW9nM1pFV200QUZMX3I3dnNndDgtTTZFaGNUN01wYzZQLTRyWXFpMW1JSFhLSzkxRXFtYXJhUjAyR2kxWXNERHh6UkFqckRyU2cyWExveFFPUmlOX1NEdWxudDBqWUNsWEc2ZzI3NGphcnZiWHBKaG1LaXNtV2xpa3VrOF9uM2NtaTlUVWJxeHl6MXdnR0hzYmZMbW9R0gHuAUFVX3lxTE9WaTQtVVdPWGh6b0VHQ003R0N3Q3kwVlVGTVl1clVIQXd0OXlRUk8zU0RnUENzREFzNF80YU9jam5ucDZHV1pVNi1wNzk2andsNGp2VnlUTGZuSUNvb3BXTnlKRXNOZFVDZS1hbEZvQy15RlpWUmU1SUhhbkM3eWpsZ3Mtbmhma2hjWHBxRTN6aWZhU1RrQTA5NHdBUDZ2NG5VUkItWnBxRUR2S0FFMnhPMWd6NW1zRnl1U2NFWEMzeUNCNmUzRlVHUlpCNnNYSTFkbzMzNjFIaEZWZUpDc3ZfaWY3WmtXdWpiTGhaNHc?oc=5)
-
-2026-10-10
-
-Source: [HuffPost](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUDNOWXE2eFdNWVRzVWZTWGtNMVRkSUtpUmFham5yNzFMWEJiRXpBeHMzR3I3cWJxMld3RkVPbFFwYjI5WGpBdDNZVk1haXlUakRkaW9nM1pFV200QUZMX3I3dnNndDgtTTZFaGNUN01wYzZQLTRyWXFpMW1JSFhLSzkxRXFtYXJhUjAyR2kxWXNERHh6UkFqckRyU2cyWExveFFPUmlOX1NEdWxudDBqWUNsWEc2ZzI3NGphcnZiWHBKaG1LaXNtV2xpa3VrOF9uM2NtaTlUVWJxeHl6MXdnR0hzYmZMbW9R0gHuAUFVX3lxTE9WaTQtVVdPWGh6b0VHQ003R0N3Q3kwVlVGTVl1clVIQXd0OXlRUk8zU0RnUENzREFzNF80YU9jam5ucDZHV1pVNi1wNzk2andsNGp2VnlUTGZuSUNvb3BXTnlKRXNOZFVDZS1hbEZvQy15RlpWUmU1SUhhbkM3eWpsZ3Mtbmhma2hjWHBxRTN6aWZhU1RrQTA5NHdBUDZ2NG5VUkItWnBxRUR2S0FFMnhPMWd6NW1zRnl1U2NFWEMzeUNCNmUzRlVHUlpCNnNYSTFkbzMzNjFIaEZWZUpDc3ZfaWY3WmtXdWpiTGhaNHc?oc=5)
-
----
-
 ### [Early mammogram leads to life-saving discovery for Utah woman and her family - KSL News](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQWIwVzdDVlhEM3BYSDVTZmxSTXNvYk90MVpIa0RxTFdzWVNNYTZCYnJyMUoyOE5YcTRMeGxWd1pBVHlHRHRXS251b3lUY3hvQkdOMTQwd3BrLVNqdE9McWVPdzNnaEpBb0ZjVjAwVDJCNkNyWFNuOWNreU1UMFVobWVvTkdHc1FzNFBseW5YOUo2ZjI2LWFzSkxKU19IYkM3VHZSeENjTl9oOFo5RUhFQUNKVQ?oc=5)
 
 2026-10-10
@@ -84,14 +76,6 @@ Source: [KSL News](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQWIwVzdD
 2026-10-09
 
 Source: [Yahoo](https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmlPX3N2SzltekNUbEVSYUh6bC1MY0FXUEdPdnlvaVpOU1FiWHl0TkNUUXQxZEliNm9TVGVTNUk0Rl9wX3RtWVBzUmVlXzItZ3lvWXlGdFEwNVg2LVI2RmQ2SHd0NF9DRjlyNXdCQnVWSkdLNTZkVjB1VVU2eDc3cGotRElKR1ppZFE?oc=5)
-
----
-
-### [York County woman battling terminal breast cancer putting on golf charity event](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX2VScUpyenBTQWo2N0FJZzhzNnBhNjlWSWxtVkhCVWFrUWNrdTByQnMyaXpGdTlUZHR4RzMwZm5lM3Z6VkVrX1psbG5aVVhfVGhTbzVrY0pDdDAzVnhhbDFNUnZERWkwRVRMQ1VYZTFoWnlxLUNzUGtPcDdjX1BiNkRjbm9JMDg3UE9saXctX1NNc2pQZ3gxMlFJdGEtOVRNMUpmWXhuUmVaT0ZtclppOWV6VVFoNWJN?oc=5)
-
-2026-10-09
-
-Source: [WGAL](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX2VScUpyenBTQWo2N0FJZzhzNnBhNjlWSWxtVkhCVWFrUWNrdTByQnMyaXpGdTlUZHR4RzMwZm5lM3Z6VkVrX1psbG5aVVhfVGhTbzVrY0pDdDAzVnhhbDFNUnZERWkwRVRMQ1VYZTFoWnlxLUNzUGtPcDdjX1BiNkRjbm9JMDg3UE9saXctX1NNc2pQZ3gxMlFJdGEtOVRNMUpmWXhuUmVaT0ZtclppOWV6VVFoNWJN?oc=5)
 
 ---
 
@@ -111,14 +95,6 @@ Source: [Newsweek](https://news.google.com/rss/articles/CBMikwFBVV95cUxPYzh0YVZ2
 
 ---
 
-### [Age and sex shape cancer immunity, mouse experiments and human data suggest - Medical Xpress](https://news.google.com/rss/articles/CBMifkFVX3lxTE9RblNBcmpLb0VxT1N3TmRudExkaWJwV1NMSWNqUWI1U1E2M0x0SGROcXZHNllWVDNwM0VFSjdMdndHSklZM0hoUEJfMzcxMUN0UEoyUFFrYm5GcHJVa1gtb3NZMG4tNFFNbXlodlBsbGc4Mmt1VDZVcDBqa2dEdw?oc=5)
-
-2026-10-09
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMifkFVX3lxTE9RblNBcmpLb0VxT1N3TmRudExkaWJwV1NMSWNqUWI1U1E2M0x0SGROcXZHNllWVDNwM0VFSjdMdndHSklZM0hoUEJfMzcxMUN0UEoyUFFrYm5GcHJVa1gtb3NZMG4tNFFNbXlodlBsbGc4Mmt1VDZVcDBqa2dEdw?oc=5)
-
----
-
 ### [A preinvasive regulatory T cell axis for lung cancer interception](https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zdzdkamZCU3NwY0FTVC10b3g4SFFvUVpZRFo3UmxYRV9xamlvOEd3NXhDaEF3aVRMMlcyT1N2VUFzU2RzTjk2OVJIbXFwU2ZYaXBSS2tjTmVnV24yRE1j?oc=5)
 
 2026-10-07
@@ -135,11 +111,11 @@ Source: [The New York Times](https://news.google.com/rss/articles/CBMiiAFBVV95cU
 
 ---
 
-### [Common Antidepressants Could Have an Unexpected Role in Cancer Survival](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZzd3QXBRcGFHSjNnektFeUp6bmdxbXY2Nk9EdEhBSWZ5dFp0MjlYUXBDRV9UbFQzUWwzV29rcWxTQ2tobzEwbGJfYXZqZ0JLckc4YlBnZmJNdlh5eWtSc0Y1ZDdIZzBBb0xGVEtmNloteHhmTXgyeHZiYjJFSEpUZGE1bkZ6S21NSnh4Mzllb3hUQkdHYzFIM0xnLVp5T2tqVWc?oc=5)
+### [Common Antidepressants Could Have an Unexpected Role in Cancer Survival](https://news.google.com/rss/articles/CBMipgFBVV95cUxOeGQ1elB5cHRtZm50YURvVzZSemJJaUg1SVFUUXAzM0hlSU5zTHRQeVRvSzVPNFUxVm4zMGpiY21ET2ZuMDFyMGhtaWxkZzRMY2c1dk9XNWRBcFdscXpWN21oZkdYZ0tGczhoQ2xGLU1WQzQzSWgxY3hQRWU4QVJTcmFxMVFSODd6aEZjSnM5bVp4alU1aDR2RTJXbUlzZ3A5dUFPT0J3?oc=5)
 
 2026-10-07
 
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZzd3QXBRcGFHSjNnektFeUp6bmdxbXY2Nk9EdEhBSWZ5dFp0MjlYUXBDRV9UbFQzUWwzV29rcWxTQ2tobzEwbGJfYXZqZ0JLckc4YlBnZmJNdlh5eWtSc0Y1ZDdIZzBBb0xGVEtmNloteHhmTXgyeHZiYjJFSEpUZGE1bkZ6S21NSnh4Mzllb3hUQkdHYzFIM0xnLVp5T2tqVWc?oc=5)
+Source: [Yahoo](https://news.google.com/rss/articles/CBMipgFBVV95cUxOeGQ1elB5cHRtZm50YURvVzZSemJJaUg1SVFUUXAzM0hlSU5zTHRQeVRvSzVPNFUxVm4zMGpiY21ET2ZuMDFyMGhtaWxkZzRMY2c1dk9XNWRBcFdscXpWN21oZkdYZ0tGczhoQ2xGLU1WQzQzSWgxY3hQRWU4QVJTcmFxMVFSODd6aEZjSnM5bVp4alU1aDR2RTJXbUlzZ3A5dUFPT0J3?oc=5)
 
 ---
 

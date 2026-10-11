@@ -3,7 +3,7 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 10 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 11 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/inflammatory-bowel-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>10 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>11 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,13 +34,29 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (10)
+## Related News (11)
 
 ### [Scientists Gave People 2 Nearly Identical Meals. One Triggered Much More Insulin.](https://news.google.com/rss/articles/CBMirAFBVV95cUxNN0dXY0tXZ0FwbUtvSUNpRENCS2pxd2tydWVKNjc0RDF2N1RlaFc2X0dWdFY1X3pIMURBaTdmQ2Q2ZUxWSkRvdGNINnhDbFJzX2M3bGhCNC1NX0YtNHc0QVpvd2Y3T0hYcDVPcnJTWGQ5UDE0YjJkaWhhdS15R2tSVE93djAzVF9ZWVg3Tlp3ZDUwbmVIYU5oeE1SeEt6bHpETXEtbVFsSlZfa2JW?oc=5)
 
 2026-10-11
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMirAFBVV95cUxNN0dXY0tXZ0FwbUtvSUNpRENCS2pxd2tydWVKNjc0RDF2N1RlaFc2X0dWdFY1X3pIMURBaTdmQ2Q2ZUxWSkRvdGNINnhDbFJzX2M3bGhCNC1NX0YtNHc0QVpvd2Y3T0hYcDVPcnJTWGQ5UDE0YjJkaWhhdS15R2tSVE93djAzVF9ZWVg3Tlp3ZDUwbmVIYU5oeE1SeEt6bHpETXEtbVFsSlZfa2JW?oc=5)
+
+---
+
+### [Scientists Identify Brain Cells That May Explain Why Cannabis Triggers Anxiety](https://news.google.com/rss/articles/CBMiqwFBVV95cUxORGhsSlA4MEozb1J3UGJlcWc3WTVYUWtlTTdHWXJaM3BPeXJOM3Y3cUtSWUFsU3FlYkFBLWFFSVN3SFptOHFDOTBYcHdFYUJaY0VqcmlZMWFzWHRMMmxVTWtlN3FyV2ctOElhcFhWc1ZWUkpzM2h2ZnMtZlpVRE53dW1zSnN2WFloaDV6WFJxWnJmcU9RNHVFU2g1VTk4SUtGRUxKblhwQlZjdTQ?oc=5)
+
+2026-10-11
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiqwFBVV95cUxORGhsSlA4MEozb1J3UGJlcWc3WTVYUWtlTTdHWXJaM3BPeXJOM3Y3cUtSWUFsU3FlYkFBLWFFSVN3SFptOHFDOTBYcHdFYUJaY0VqcmlZMWFzWHRMMmxVTWtlN3FyV2ctOElhcFhWc1ZWUkpzM2h2ZnMtZlpVRE53dW1zSnN2WFloaDV6WFJxWnJmcU9RNHVFU2g1VTk4SUtGRUxKblhwQlZjdTQ?oc=5)
+
+---
+
+### [Late-night snacking carries a serious health risk, new study finds - The Independent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNak03VkV2dnh5MmdDcGVxSWlBVHhxLWxNOEpPUnFNZU1hcXkwZmRGWFRrLU1lejVFMHV5bDVGaFNUQXlDNGV1X08zQU81aTdHRmc4b1ZULVZaM3NsOGgxekloeS0teG05V0NVeUxoNWR6M1JFdUM0RklVZWNiRVlSejhRNjRxYUNRNTNiWU5BTlNtV3JTR0NUUnJzQnJudVBmZTZva1lxZlIxcTg?oc=5)
+
+2026-10-10
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNak03VkV2dnh5MmdDcGVxSWlBVHhxLWxNOEpPUnFNZU1hcXkwZmRGWFRrLU1lejVFMHV5bDVGaFNUQXlDNGV1X08zQU81aTdHRmc4b1ZULVZaM3NsOGgxekloeS0teG05V0NVeUxoNWR6M1JFdUM0RklVZWNiRVlSejhRNjRxYUNRNTNiWU5BTlNtV3JTR0NUUnJzQnJudVBmZTZva1lxZlIxcTg?oc=5)
 
 ---
 
@@ -60,35 +76,11 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMirAFBVV95cUxONkx4
 
 ---
 
-### [Will We Ever Understand Dementia? - The New York Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxOeU1MTzRFVjZDX2g2Q05xUFdvQWpJUFZHODhTc2p5VF9xTEtKb1Nrck1zMXdYQmZHOS1NTzNRSXVJTXNVaHAwUzdwTkREbHNOVEhON0oxRlZ1R2VmaUx3NnJDcDhRSjZxd1Zvd0dZdlpYREQyd2o4SFZ6bVB0clFnclc2X2ZIbmM?oc=5)
-
-2026-10-10
-
-Source: [The New York Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxOeU1MTzRFVjZDX2g2Q05xUFdvQWpJUFZHODhTc2p5VF9xTEtKb1Nrck1zMXdYQmZHOS1NTzNRSXVJTXNVaHAwUzdwTkREbHNOVEhON0oxRlZ1R2VmaUx3NnJDcDhRSjZxd1Zvd0dZdlpYREQyd2o4SFZ6bVB0clFnclc2X2ZIbmM?oc=5)
-
----
-
 ### [Mom told to end pregnancy to start treatment. Her decision changed it all](https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmlPX3N2SzltekNUbEVSYUh6bC1MY0FXUEdPdnlvaVpOU1FiWHl0TkNUUXQxZEliNm9TVGVTNUk0Rl9wX3RtWVBzUmVlXzItZ3lvWXlGdFEwNVg2LVI2RmQ2SHd0NF9DRjlyNXdCQnVWSkdLNTZkVjB1VVU2eDc3cGotRElKR1ppZFE?oc=5)
 
 2026-10-09
 
 Source: [Yahoo](https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmlPX3N2SzltekNUbEVSYUh6bC1MY0FXUEdPdnlvaVpOU1FiWHl0TkNUUXQxZEliNm9TVGVTNUk0Rl9wX3RtWVBzUmVlXzItZ3lvWXlGdFEwNVg2LVI2RmQ2SHd0NF9DRjlyNXdCQnVWSkdLNTZkVjB1VVU2eDc3cGotRElKR1ppZFE?oc=5)
-
----
-
-### [Discovery marks the first detection of variable water clouds outside of the solar system](https://news.google.com/rss/articles/CBMidEFVX3lxTE5qYWtlT2tlZzVGaEluWnpRamx1dnhJMER4c0ZielQ2Vm8tNFc2dWVBODdVZ1ZOU3BmOXBCQUVnTElyVExwTkNteWFFTlJGdWt0TzVKU0dKdVd3bjNZREVsUnl1bDF5MjJUY2ZCSDljQktWZl9a?oc=5)
-
-2026-10-09
-
-Source: [Phys.org](https://news.google.com/rss/articles/CBMidEFVX3lxTE5qYWtlT2tlZzVGaEluWnpRamx1dnhJMER4c0ZielQ2Vm8tNFc2dWVBODdVZ1ZOU3BmOXBCQUVnTElyVExwTkNteWFFTlJGdWt0TzVKU0dKdVd3bjNZREVsUnl1bDF5MjJUY2ZCSDljQktWZl9a?oc=5)
-
----
-
-### [Clinical Trial Indicates A.I. Chatbots Could Aid Urgent Care - The New York Times](https://news.google.com/rss/articles/CBMif0FVX3lxTE1jUlZobENhRDVCSDVERHFnRE13Vy15Z0tFWGdlWW42WElCdkVaY0xMU0p0LXpweDdxN3J0U3FVLWpzTGZFbGhwUWd2VmZzM0JNV2wzX0lyRV9XWU5jWFdxamdBQmpkM09OeEpMSUlUTnhDaWV0MEgxSmpqRk9Uc2M?oc=5)
-
-2026-10-08
-
-Source: [The New York Times](https://news.google.com/rss/articles/CBMif0FVX3lxTE1jUlZobENhRDVCSDVERHFnRE13Vy15Z0tFWGdlWW42WElCdkVaY0xMU0p0LXpweDdxN3J0U3FVLWpzTGZFbGhwUWd2VmZzM0JNV2wzX0lyRV9XWU5jWFdxamdBQmpkM09OeEpMSUlUTnhDaWV0MEgxSmpqRk9Uc2M?oc=5)
 
 ---
 
@@ -100,11 +92,11 @@ Source: [Fox News](https://news.google.com/rss/articles/CBMikAFBVV95cUxPbWZoYmth
 
 ---
 
-### [New iron deficiency standards for diagnosis released](https://news.google.com/rss/articles/CBMigwFBVV95cUxQY0xiNm9tVXJYeDR0LXZvTzhPYUNoNnpjMnQtZUZmZXNLYUlJNk9KMndodEYtRXl6dGlpbEUyWTBUUk5oT3ZMV3NjbnVGNkRubTdoeWFqQVdsQzItazFIbm1rdjZGa3NLb0ZLcjF1cF94RkoxcDk4NTBPSHVUUWRNeHFIY9IBiAFBVV95cUxQb1I2a0JOWVA1cF95aUI4S0ZPREhqdGhudDZyN05GUHBTZmtXWlQxTm5TMF81Y3E5dkxyUHNDQ0JGenVxN0VRUnEzSEZZRnREZlo1c2IzTVp4Z1ptdHQ5Z1pZS3ZpSkRPRC1QOXlZYkZ0R2VLaTJuWTZBeXppUnpIT0wtblZGZjdQ?oc=5)
+### [How to build a mouse: embryo development captured in stunning detail](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9USUZwUUgzaFo3aEVyR2JKN2JuT0tOMG9ZSVFZdjhJN2dlTmhvTFh3YlZ2aXdWNFhfUS00T3E3cWx5clRXLVhPYmt2UHlycGs2djhQSWhha05HZi1LTVBr?oc=5)
 
 2026-10-08
 
-Source: [NewsNation](https://news.google.com/rss/articles/CBMigwFBVV95cUxQY0xiNm9tVXJYeDR0LXZvTzhPYUNoNnpjMnQtZUZmZXNLYUlJNk9KMndodEYtRXl6dGlpbEUyWTBUUk5oT3ZMV3NjbnVGNkRubTdoeWFqQVdsQzItazFIbm1rdjZGa3NLb0ZLcjF1cF94RkoxcDk4NTBPSHVUUWRNeHFIY9IBiAFBVV95cUxQb1I2a0JOWVA1cF95aUI4S0ZPREhqdGhudDZyN05GUHBTZmtXWlQxTm5TMF81Y3E5dkxyUHNDQ0JGenVxN0VRUnEzSEZZRnREZlo1c2IzTVp4Z1ptdHQ5Z1pZS3ZpSkRPRC1QOXlZYkZ0R2VLaTJuWTZBeXppUnpIT0wtblZGZjdQ?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9USUZwUUgzaFo3aEVyR2JKN2JuT0tOMG9ZSVFZdjhJN2dlTmhvTFh3YlZ2aXdWNFhfUS00T3E3cWx5clRXLVhPYmt2UHlycGs2djhQSWhha05HZi1LTVBr?oc=5)
 
 ---
 
@@ -113,6 +105,22 @@ Source: [NewsNation](https://news.google.com/rss/articles/CBMigwFBVV95cUxQY0xiNm
 2026-10-07
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQazlMNm9uYjh5Q0F5MDJsNm93ZDZxU0t2VTRKcHhBMVNGenNOdHQ0a2VIQkE4YWNfTGxZcmdQYURmaHVtcndyS255SG5tQ3pfaFZoZkRlaThkZG1vUzFDNVNXSnkzZXk3bDNqY1FRSjB4NUhJa01wTVFsR1MxVDI2bjhLSUNTSGJ6?oc=5)
+
+---
+
+### [World's Loudest Birds Rival Jackhammers](https://news.google.com/rss/articles/CBMihgFBVV95cUxNOWpMY0g5cTVFTnhFVkZpOS1PY09taGpLS09pamZFZndjQ25qRXJqcGdnWl9vVmFwaVp0QVdoZEttbTV6d2R2RzhwNVY2VkUwWDFUWjRabnVmSjg4d0l5U0h2UGRGcnZhbXZRWXdMVVdiOHdsVWpvOTYwR3o2cVR3RkptZEJmZw?oc=5)
+
+2026-10-05
+
+Source: [Newser](https://news.google.com/rss/articles/CBMihgFBVV95cUxNOWpMY0g5cTVFTnhFVkZpOS1PY09taGpLS09pamZFZndjQ25qRXJqcGdnWl9vVmFwaVp0QVdoZEttbTV6d2R2RzhwNVY2VkUwWDFUWjRabnVmSjg4d0l5U0h2UGRGcnZhbXZRWXdMVVdiOHdsVWpvOTYwR3o2cVR3RkptZEJmZw?oc=5)
+
+---
+
+### [Exclusive: How did Rosalind Franklin miss the helix in her iconic DNA image? She didn’t - Science | AAAS](https://news.google.com/rss/articles/CBMirAFBVV95cUxPanNIblpycWNJRWU2aVJ2RlZXVGZoQzZMMFFiYW9MVVRLUDBfM002X3paWHl4b3IwVTJwRkpkMUU5ZlpDUEp1WUpaQkZSWGJlLXJYc25icG10RExhTDZGM0N1Sm41ck1LTW5zbzBYcnhvcGplNkNiWFFqb1l6Z0FfdnhXaWpIVndtLUFQYnA4b3pEQ3BLVkJOXzJQZGFPeGVsckdLdVhlaERERFdT?oc=5)
+
+2026-10-05
+
+Source: [Science | AAAS](https://news.google.com/rss/articles/CBMirAFBVV95cUxPanNIblpycWNJRWU2aVJ2RlZXVGZoQzZMMFFiYW9MVVRLUDBfM002X3paWHl4b3IwVTJwRkpkMUU5ZlpDUEp1WUpaQkZSWGJlLXJYc25icG10RExhTDZGM0N1Sm41ck1LTW5zbzBYcnhvcGplNkNiWFFqb1l6Z0FfdnhXaWpIVndtLUFQYnA4b3pEQ3BLVkJOXzJQZGFPeGVsckdLdVhlaERERFdT?oc=5)
 
 ---
 

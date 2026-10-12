@@ -31,11 +31,19 @@ This page brings together the latest health news about “cancer” and lists th
 
 ## Related News (13)
 
-### [Childhood cancer symptoms can be easily missed - here's what to look out for](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iYjEtRi1NaWxmV05Td2xPMmtoNFlrbTVPVVRwSk9IQkhOYVU5RXhBeThCRGN4ZzB2RWFFN2RKSmh3ajM0RzVNUGp6alkwcHZHelN6N281Rjg4aXM?oc=5)
+### [Column | I’m an oncologist. Here’s what to know about DCIS or Stage 0 breast cancer. - The Washington Post](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVHVCWW82S2x0N1A4X2ZKdUdHOEZoU1JsY0dMYmdTcFRZanh4NDNuay1mR0pnNUdNQi1nUGc3UlpZMEhyclpGRmEweEE4SVFqTzhhU3I2c3RUdjZaRDQyY1dQNDBOMGd6N2RSOXQtRVNaTmxkekstcktOYjd3MjFQcHh0cXNjM3pReUpoUDBzN0RiSnF6b2xwbGY4UnY4ekFEcVVUQkZEb1RrdkZYQ0pyNi1Pa24?oc=5)
 
-2026-10-11
+2026-10-12
 
-Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iYjEtRi1NaWxmV05Td2xPMmtoNFlrbTVPVVRwSk9IQkhOYVU5RXhBeThCRGN4ZzB2RWFFN2RKSmh3ajM0RzVNUGp6alkwcHZHelN6N281Rjg4aXM?oc=5)
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVHVCWW82S2x0N1A4X2ZKdUdHOEZoU1JsY0dMYmdTcFRZanh4NDNuay1mR0pnNUdNQi1nUGc3UlpZMEhyclpGRmEweEE4SVFqTzhhU3I2c3RUdjZaRDQyY1dQNDBOMGd6N2RSOXQtRVNaTmxkekstcktOYjd3MjFQcHh0cXNjM3pReUpoUDBzN0RiSnF6b2xwbGY4UnY4ekFEcVVUQkZEb1RrdkZYQ0pyNi1Pa24?oc=5)
+
+---
+
+### [New prostate cancer imaging outperforms biopsies for diagnosis - The Seattle Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb0swZUlpV0dMQXNiejRpX0VUeFdNVXktYTFCQnpscE9MMHF4cGNMamlkS0dNUG9NSlVSNDNCSmQ1RHBXQ1ppVk00eTQyYlZLNWNyVFEwS2JJVjRXVWpQNkhSQU5nVWxmdEFlM09KelNwazB5MmV5RkdPb2tja1JIZ3BBcUo4M2RSUVpvd2JYTUZ4SmJnYTNHY1lsSkZtdF9ISXBBRmVBQzM?oc=5)
+
+2026-10-12
+
+Source: [The Seattle Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb0swZUlpV0dMQXNiejRpX0VUeFdNVXktYTFCQnpscE9MMHF4cGNMamlkS0dNUG9NSlVSNDNCSmQ1RHBXQ1ppVk00eTQyYlZLNWNyVFEwS2JJVjRXVWpQNkhSQU5nVWxmdEFlM09KelNwazB5MmV5RkdPb2tja1JIZ3BBcUo4M2RSUVpvd2JYTUZ4SmJnYTNHY1lsSkZtdF9ISXBBRmVBQzM?oc=5)
 
 ---
 
@@ -47,11 +55,11 @@ Source: [Fox News](https://news.google.com/rss/articles/CBMipAFBVV95cUxQamFxbEZB
 
 ---
 
-### [Maesteg teen whose cancer returned after remission has clinical trial hope](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaUjNZZDlLdzRYckkzM2FJWDhPZU5Qc2hrWmZ1TnJpM0NseHMtRUU4Z1FqYnM3Y0s5OWZ3SzVpNUNPdThqemVkMnpKRlpudFZsUDlyNmo0Wks2aTQ?oc=5)
+### [Teen 'detached from reality' to cope with return of aggressive cancer](https://news.google.com/rss/articles/CBMilAFBVV95cUxPYzdiVUNYbGhpcHgzY09tRkduLVgzdlFZZjE5U1J0ejlHN21kcGlVWXcwa09iWnlRbFNBVFdYVjBmdy1zTDhKRmt3VFZlUmtPOHpidzAyaFpVY205WURLTTFQRENmM195Qm4tbWhiNU5vUmFDNndQMGpqLWJqV0VKMGNsM213SEtMRXRlMUNHclNtTjlW?oc=5)
 
 2026-10-11
 
-Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaUjNZZDlLdzRYckkzM2FJWDhPZU5Qc2hrWmZ1TnJpM0NseHMtRUU4Z1FqYnM3Y0s5OWZ3SzVpNUNPdThqemVkMnpKRlpudFZsUDlyNmo0Wks2aTQ?oc=5)
+Source: [Yahoo](https://news.google.com/rss/articles/CBMilAFBVV95cUxPYzdiVUNYbGhpcHgzY09tRkduLVgzdlFZZjE5U1J0ejlHN21kcGlVWXcwa09iWnlRbFNBVFdYVjBmdy1zTDhKRmt3VFZlUmtPOHpidzAyaFpVY205WURLTTFQRENmM195Qm4tbWhiNU5vUmFDNndQMGpqLWJqV0VKMGNsM213SEtMRXRlMUNHclNtTjlW?oc=5)
 
 ---
 
@@ -60,6 +68,14 @@ Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaUjNZZDlLdzRYc
 2026-10-11
 
 Source: [The Washington Post](https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ0RsWk5zR0o3SHlfVjF1Y19rSjJBQUNtWjlHZFMtUXM0cS1nMzBybklPMXFlQXVwZkoxdTlsNEhBOHJwOFlLekZHSDZnUjRkRFRkS2gwUjNrdUVsNVBMUEtHMzVIUXNLbkFJMVo1Z2drWWR5eGR6ejdnN3JLYUpxazhPWDFCb2M0eUpIMUV1eE5qdUhGdWZiSTYza1Rtam9jVzZvWjZMa1pIOFBsYm9NSGNMQXVycFc5blhheGF3?oc=5)
+
+---
+
+### [Ultra-processed vs whole foods: What's the metabolic impact? - Medical News Today](https://news.google.com/rss/articles/CBMisAFBVV95cUxPbjZRVGdueWhXTmtSbEUwcWJ2amYxdFA4T3BmSHRYbHZKTnkza18tUFMwWldrZXBFYk1ESTBHc0RpZGN1ZkZTeXR1UE52UDRVUkFzcGw4YmVURFRYN0h4dHF6X2xKOUhTNGhfQURHQkZ3T202Ri1hc1R0b3dFdHlpODltYWlaSjY0T044c3BkS1ktQXliUVQ2cGJRVmI0TGdFZjRSTFBCNmhrYWM3VzJaZw?oc=5)
+
+2026-10-11
+
+Source: [Medical News Today](https://news.google.com/rss/articles/CBMisAFBVV95cUxPbjZRVGdueWhXTmtSbEUwcWJ2amYxdFA4T3BmSHRYbHZKTnkza18tUFMwWldrZXBFYk1ESTBHc0RpZGN1ZkZTeXR1UE52UDRVUkFzcGw4YmVURFRYN0h4dHF6X2xKOUhTNGhfQURHQkZ3T202Ri1hc1R0b3dFdHlpODltYWlaSjY0T044c3BkS1ktQXliUVQ2cGJRVmI0TGdFZjRSTFBCNmhrYWM3VzJaZw?oc=5)
 
 ---
 
@@ -103,14 +119,6 @@ Source: [Newsweek](https://news.google.com/rss/articles/CBMikwFBVV95cUxPYzh0YVZ2
 
 ---
 
-### [Advances in Systemic Treatment of Breast Cancer](https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wSnhyb2JRNkJmSThSeWpwMzJleWZHVkVKUGtCSDNaOWRIQjVadVJEZ1ZnaW5LZVFmOGluS29pX0dnb0lXWXoxdHhnMHRaX0ZyT0Q1a3RBYkVmRExPR2dsdA?oc=5)
-
-2026-10-07
-
-Source: [NEJM](https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wSnhyb2JRNkJmSThSeWpwMzJleWZHVkVKUGtCSDNaOWRIQjVadVJEZ1ZnaW5LZVFmOGluS29pX0dnb0lXWXoxdHhnMHRaX0ZyT0Q1a3RBYkVmRExPR2dsdA?oc=5)
-
----
-
 ### [It Can Keep Cancer in Remission. Why Is No One Talking About It? - The New York Times](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWnhQTWYtY3AzOXdDMXhMMkxPOHRZLUNsZlhLbGotTkR5VGdlLUZzejgtYjlhZHAzdnBhZnlRbnJQX3J0NkJ3bUljR3JvNDRBUS1jVkdfSnNZU0hJMEJPY0ZnbGtiVVZaUDlONUFGS2FTWVNPOTQ1S0JPdmtibDRXTXdfc19CSkFH?oc=5)
 
 2026-10-07
@@ -124,14 +132,6 @@ Source: [The New York Times](https://news.google.com/rss/articles/CBMiiAFBVV95cU
 2026-10-07
 
 Source: [Yahoo](https://news.google.com/rss/articles/CBMipgFBVV95cUxOeGQ1elB5cHRtZm50YURvVzZSemJJaUg1SVFUUXAzM0hlSU5zTHRQeVRvSzVPNFUxVm4zMGpiY21ET2ZuMDFyMGhtaWxkZzRMY2c1dk9XNWRBcFdscXpWN21oZkdYZ0tGczhoQ2xGLU1WQzQzSWgxY3hQRWU4QVJTcmFxMVFSODd6aEZjSnM5bVp4alU1aDR2RTJXbUlzZ3A5dUFPT0J3?oc=5)
-
----
-
-### [About 1 in 8 cancer cases worldwide are tied to these infections — most of them preventable](https://news.google.com/rss/articles/CBMijgFBVV95cUxPYmNLUU50bXMtY3lnR0xaaGlPVTdiWWtTQ0J3SzlEc0FIZm9kTzBfUnpqZ0pRczRkRkdwUU9FVkNPVW1QdS1ZbFdYMlM1NmhNWTNKTGlJNDVwR09YOFlrYzVEc2R2N25RNEo4ZVNGT0Jkd293WVZobXI0NTZBajlreW5iWEozZHAtMFZpYXln?oc=5)
-
-2026-10-05
-
-Source: [CNN](https://news.google.com/rss/articles/CBMijgFBVV95cUxPYmNLUU50bXMtY3lnR0xaaGlPVTdiWWtTQ0J3SzlEc0FIZm9kTzBfUnpqZ0pRczRkRkdwUU9FVkNPVW1QdS1ZbFdYMlM1NmhNWTNKTGlJNDVwR09YOFlrYzVEc2R2N25RNEo4ZVNGT0Jkd293WVZobXI0NTZBajlreW5iWEozZHAtMFZpYXln?oc=5)
 
 ---
 

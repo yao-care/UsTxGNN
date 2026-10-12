@@ -3,7 +3,7 @@ layout: default
 title: "cancer News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer. 12 articles, 1 related drugs."
+description: "Health news about cancer. 13 articles, 1 related drugs."
 permalink: /news/cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cancer/
 ---
 
 <p class="key-answer" data-question="What news is there about cancer?">
-<strong>cancer</strong> currently has <strong>12 news articles</strong> and 1 related drugs.
+<strong>cancer</strong> currently has <strong>13 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,37 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (12)
+## Related News (13)
+
+### [Childhood cancer symptoms can be easily missed - here's what to look out for](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iYjEtRi1NaWxmV05Td2xPMmtoNFlrbTVPVVRwSk9IQkhOYVU5RXhBeThCRGN4ZzB2RWFFN2RKSmh3ajM0RzVNUGp6alkwcHZHelN6N281Rjg4aXM?oc=5)
+
+2026-10-11
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1iYjEtRi1NaWxmV05Td2xPMmtoNFlrbTVPVVRwSk9IQkhOYVU5RXhBeThCRGN4ZzB2RWFFN2RKSmh3ajM0RzVNUGp6alkwcHZHelN6N281Rjg4aXM?oc=5)
+
+---
+
+### [Hidden clues could help predict a woman’s breast cancer risk years in advance - Fox News](https://news.google.com/rss/articles/CBMipAFBVV95cUxQamFxbEZBRDMxYnRidkppeDJEcW42VURmT3ZrWlY3am9kM3d5RE5obnp1X29nNEkzQlJoelM4d0JDRkJHaUM3eW4tTkRiOTJJVFFHM0tuWHhocV96RlZ5UWM4THZkbU5CSW1DcGpWWWpMNXJ4WHc4UkUxa2FvWU0wZWZBWmRYNWJieEROdTdSNDRCMTRWeUk3ZGJKYnQtdUEzUDdGbdIBqgFBVV95cUxORllWNkhaOGItZkJYTWxOSXNvUndrOExOclJ4U1kxM0swTVpHdkdGT2FBUDFOSmFjbG50UGJGTnNheW1JX2RpRmJmZDlSSjB4dlo0VHQ5cjV2QTBoanNtcXYzajhEZDZjbTl2cDFTNE1hRkMwRjVNWjA5T21Ra093UWhCdUhmOV84SWQ1Q1dBVlk2a1djUFFhQ2c3cjVONTFCcHF4ZFc0X1Jqdw?oc=5)
+
+2026-10-11
+
+Source: [Fox News](https://news.google.com/rss/articles/CBMipAFBVV95cUxQamFxbEZBRDMxYnRidkppeDJEcW42VURmT3ZrWlY3am9kM3d5RE5obnp1X29nNEkzQlJoelM4d0JDRkJHaUM3eW4tTkRiOTJJVFFHM0tuWHhocV96RlZ5UWM4THZkbU5CSW1DcGpWWWpMNXJ4WHc4UkUxa2FvWU0wZWZBWmRYNWJieEROdTdSNDRCMTRWeUk3ZGJKYnQtdUEzUDdGbdIBqgFBVV95cUxORllWNkhaOGItZkJYTWxOSXNvUndrOExOclJ4U1kxM0swTVpHdkdGT2FBUDFOSmFjbG50UGJGTnNheW1JX2RpRmJmZDlSSjB4dlo0VHQ5cjV2QTBoanNtcXYzajhEZDZjbTl2cDFTNE1hRkMwRjVNWjA5T21Ra093UWhCdUhmOV84SWQ1Q1dBVlk2a1djUFFhQ2c3cjVONTFCcHF4ZFc0X1Jqdw?oc=5)
+
+---
+
+### [Maesteg teen whose cancer returned after remission has clinical trial hope](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaUjNZZDlLdzRYckkzM2FJWDhPZU5Qc2hrWmZ1TnJpM0NseHMtRUU4Z1FqYnM3Y0s5OWZ3SzVpNUNPdThqemVkMnpKRlpudFZsUDlyNmo0Wks2aTQ?oc=5)
+
+2026-10-11
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaUjNZZDlLdzRYckkzM2FJWDhPZU5Qc2hrWmZ1TnJpM0NseHMtRUU4Z1FqYnM3Y0s5OWZ3SzVpNUNPdThqemVkMnpKRlpudFZsUDlyNmo0Wks2aTQ?oc=5)
+
+---
 
 ### [Why doctors are urging women to redo early genetic tests for cancer risks - The Washington Post](https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ0RsWk5zR0o3SHlfVjF1Y19rSjJBQUNtWjlHZFMtUXM0cS1nMzBybklPMXFlQXVwZkoxdTlsNEhBOHJwOFlLekZHSDZnUjRkRFRkS2gwUjNrdUVsNVBMUEtHMzVIUXNLbkFJMVo1Z2drWWR5eGR6ejdnN3JLYUpxazhPWDFCb2M0eUpIMUV1eE5qdUhGdWZiSTYza1Rtam9jVzZvWjZMa1pIOFBsYm9NSGNMQXVycFc5blhheGF3?oc=5)
 
 2026-10-11
 
 Source: [The Washington Post](https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ0RsWk5zR0o3SHlfVjF1Y19rSjJBQUNtWjlHZFMtUXM0cS1nMzBybklPMXFlQXVwZkoxdTlsNEhBOHJwOFlLekZHSDZnUjRkRFRkS2gwUjNrdUVsNVBMUEtHMzVIUXNLbkFJMVo1Z2drWWR5eGR6ejdnN3JLYUpxazhPWDFCb2M0eUpIMUV1eE5qdUhGdWZiSTYza1Rtam9jVzZvWjZMa1pIOFBsYm9NSGNMQXVycFc5blhheGF3?oc=5)
-
----
-
-### [Scientists Gave People 2 Nearly Identical Meals. One Triggered Much More Insulin.](https://news.google.com/rss/articles/CBMirAFBVV95cUxNN0dXY0tXZ0FwbUtvSUNpRENCS2pxd2tydWVKNjc0RDF2N1RlaFc2X0dWdFY1X3pIMURBaTdmQ2Q2ZUxWSkRvdGNINnhDbFJzX2M3bGhCNC1NX0YtNHc0QVpvd2Y3T0hYcDVPcnJTWGQ5UDE0YjJkaWhhdS15R2tSVE93djAzVF9ZWVg3Tlp3ZDUwbmVIYU5oeE1SeEt6bHpETXEtbVFsSlZfa2JW?oc=5)
-
-2026-10-11
-
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMirAFBVV95cUxNN0dXY0tXZ0FwbUtvSUNpRENCS2pxd2tydWVKNjc0RDF2N1RlaFc2X0dWdFY1X3pIMURBaTdmQ2Q2ZUxWSkRvdGNINnhDbFJzX2M3bGhCNC1NX0YtNHc0QVpvd2Y3T0hYcDVPcnJTWGQ5UDE0YjJkaWhhdS15R2tSVE93djAzVF9ZWVg3Tlp3ZDUwbmVIYU5oeE1SeEt6bHpETXEtbVFsSlZfa2JW?oc=5)
 
 ---
 
@@ -60,14 +76,6 @@ Source: [New York Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxOQTZ
 2026-10-10
 
 Source: [CBS News](https://news.google.com/rss/articles/CBMipAFBVV95cUxOdGtJUjBER2VIR2N2MEdIWUdJLWNuMGFYSlU2RlQ1b0V1Rzl3WlBoMXdvQ2tTWFRGWjJaZlJ1TVdjY2VaQlhrLVhNREdCVEFzb3Ytc1NuS05UZktrc25xakFDSXBQRUFRdXlPRk1fbHRqaUllUEhjall2WE9Nb3ZlcGhSNjNZajB5WGtRb3E4WXVPVmo2dGlBbnZmcUNPVS02elFVSQ?oc=5)
-
----
-
-### [Early mammogram leads to life-saving discovery for Utah woman and her family - KSL News](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQWIwVzdDVlhEM3BYSDVTZmxSTXNvYk90MVpIa0RxTFdzWVNNYTZCYnJyMUoyOE5YcTRMeGxWd1pBVHlHRHRXS251b3lUY3hvQkdOMTQwd3BrLVNqdE9McWVPdzNnaEpBb0ZjVjAwVDJCNkNyWFNuOWNreU1UMFVobWVvTkdHc1FzNFBseW5YOUo2ZjI2LWFzSkxKU19IYkM3VHZSeENjTl9oOFo5RUhFQUNKVQ?oc=5)
-
-2026-10-10
-
-Source: [KSL News](https://news.google.com/rss/articles/CBMiswFBVV95cUxQQWIwVzdDVlhEM3BYSDVTZmxSTXNvYk90MVpIa0RxTFdzWVNNYTZCYnJyMUoyOE5YcTRMeGxWd1pBVHlHRHRXS251b3lUY3hvQkdOMTQwd3BrLVNqdE9McWVPdzNnaEpBb0ZjVjAwVDJCNkNyWFNuOWNreU1UMFVobWVvTkdHc1FzNFBseW5YOUo2ZjI2LWFzSkxKU19IYkM3VHZSeENjTl9oOFo5RUhFQUNKVQ?oc=5)
 
 ---
 
@@ -95,11 +103,11 @@ Source: [Newsweek](https://news.google.com/rss/articles/CBMikwFBVV95cUxPYzh0YVZ2
 
 ---
 
-### [A preinvasive regulatory T cell axis for lung cancer interception](https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zdzdkamZCU3NwY0FTVC10b3g4SFFvUVpZRFo3UmxYRV9xamlvOEd3NXhDaEF3aVRMMlcyT1N2VUFzU2RzTjk2OVJIbXFwU2ZYaXBSS2tjTmVnV24yRE1j?oc=5)
+### [Advances in Systemic Treatment of Breast Cancer](https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wSnhyb2JRNkJmSThSeWpwMzJleWZHVkVKUGtCSDNaOWRIQjVadVJEZ1ZnaW5LZVFmOGluS29pX0dnb0lXWXoxdHhnMHRaX0ZyT0Q1a3RBYkVmRExPR2dsdA?oc=5)
 
 2026-10-07
 
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zdzdkamZCU3NwY0FTVC10b3g4SFFvUVpZRFo3UmxYRV9xamlvOEd3NXhDaEF3aVRMMlcyT1N2VUFzU2RzTjk2OVJIbXFwU2ZYaXBSS2tjTmVnV24yRE1j?oc=5)
+Source: [NEJM](https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wSnhyb2JRNkJmSThSeWpwMzJleWZHVkVKUGtCSDNaOWRIQjVadVJEZ1ZnaW5LZVFmOGluS29pX0dnb0lXWXoxdHhnMHRaX0ZyT0Q1a3RBYkVmRExPR2dsdA?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 3 articles, 2 related drugs."
+description: "Health news about flu (influenza). 4 articles, 2 related drugs."
 permalink: /news/influenza/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/influenza/
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>3 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>4 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (3)
+## Related News (4)
 
 ### [Here’s how much a flu vaccine may lower your dementia risk - The Washington Post](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQazJMeUhabVFtYlg4bWFtQ204bl9qY3hMN0xUYkh5QkhFNS1lNldpbFdOcFk1OUZFZ1FQZXZuUmxFX2stVHFDUXJqeHREWjZpdkNwTnh5aFlMdDBWMU5NbXdxMHRfTU1NUDM4NWhwdHc5a2pqTzdmcEt1QlpuOWUtdWhQOFZGbURka2tFeWV5bUxZbjlrNlpyVW5vM2ZGcFZiellZcGJVcXF0UXc?oc=5)
 
@@ -40,11 +40,19 @@ Source: [The Washington Post](https://news.google.com/rss/articles/CBMiqwFBVV95c
 
 ---
 
-### [Ultra-processed vs whole foods: What's the metabolic impact? - Medical News Today](https://news.google.com/rss/articles/CBMisAFBVV95cUxPbjZRVGdueWhXTmtSbEUwcWJ2amYxdFA4T3BmSHRYbHZKTnkza18tUFMwWldrZXBFYk1ESTBHc0RpZGN1ZkZTeXR1UE52UDRVUkFzcGw4YmVURFRYN0h4dHF6X2xKOUhTNGhfQURHQkZ3T202Ri1hc1R0b3dFdHlpODltYWlaSjY0T044c3BkS1ktQXliUVQ2cGJRVmI0TGdFZjRSTFBCNmhrYWM3VzJaZw?oc=5)
+### [Young Influencer Left With Facial Paralysis After 23-Day Period In ICU Over Eating Sushi, Doctors Explain The Risks - Bored Panda](https://news.google.com/rss/articles/CBMilAFBVV95cUxQSDZJMjhpZG1QNHZTMDFiUjZhN2FOV3pFV2NRejBtLWh3dVhSdEl5NmNMNThUVlI4VE9xcEs4RkpFZk5pSV9uYlA4eHdjbXpzLUJmSmxrZ2tiOXNYaWx3aFgyTmZmUjVGM21fYlNmV2V3dFNNS0J5ejhjWkxvSlVyX2tsYWRSdUdEbVp1QXktaHNaaTJS?oc=5)
+
+2026-10-12
+
+Source: [Bored Panda](https://news.google.com/rss/articles/CBMilAFBVV95cUxQSDZJMjhpZG1QNHZTMDFiUjZhN2FOV3pFV2NRejBtLWh3dVhSdEl5NmNMNThUVlI4VE9xcEs4RkpFZk5pSV9uYlA4eHdjbXpzLUJmSmxrZ2tiOXNYaWx3aFgyTmZmUjVGM21fYlNmV2V3dFNNS0J5ejhjWkxvSlVyX2tsYWRSdUdEbVp1QXktaHNaaTJS?oc=5)
+
+---
+
+### [Flu picks up steam in Colorado while COVID lurks, according to latest state data - Colorado Public Radio](https://news.google.com/rss/articles/CBMic0FVX3lxTE9xZm1sbjM2cVFyODAwajdqXzQ2bXNTd3ltNmRZNDdURVJoRGR4Xzh1NVdYMGk5UmJmcFFkMDY2QUFpLVprWEotcHN3bmVoallTRmU3bVRmWFI0V0FBTDcycXZseFljczYtVTVETlh0Ql9IZkU?oc=5)
 
 2026-10-11
 
-Source: [Medical News Today](https://news.google.com/rss/articles/CBMisAFBVV95cUxPbjZRVGdueWhXTmtSbEUwcWJ2amYxdFA4T3BmSHRYbHZKTnkza18tUFMwWldrZXBFYk1ESTBHc0RpZGN1ZkZTeXR1UE52UDRVUkFzcGw4YmVURFRYN0h4dHF6X2xKOUhTNGhfQURHQkZ3T202Ri1hc1R0b3dFdHlpODltYWlaSjY0T044c3BkS1ktQXliUVQ2cGJRVmI0TGdFZjRSTFBCNmhrYWM3VzJaZw?oc=5)
+Source: [Colorado Public Radio](https://news.google.com/rss/articles/CBMic0FVX3lxTE9xZm1sbjM2cVFyODAwajdqXzQ2bXNTd3ltNmRZNDdURVJoRGR4Xzh1NVdYMGk5UmJmcFFkMDY2QUFpLVprWEotcHN3bmVoallTRmU3bVRmWFI0V0FBTDcycXZseFljczYtVTVETlh0Ql9IZkU?oc=5)
 
 ---
 

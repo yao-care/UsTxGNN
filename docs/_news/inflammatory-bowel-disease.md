@@ -3,7 +3,7 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 15 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 13 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/inflammatory-bowel-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>15 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>13 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,13 +34,37 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (15)
+## Related News (13)
 
 ### [Here’s how much a flu vaccine may lower your dementia risk - The Washington Post](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQazJMeUhabVFtYlg4bWFtQ204bl9qY3hMN0xUYkh5QkhFNS1lNldpbFdOcFk1OUZFZ1FQZXZuUmxFX2stVHFDUXJqeHREWjZpdkNwTnh5aFlMdDBWMU5NbXdxMHRfTU1NUDM4NWhwdHc5a2pqTzdmcEt1QlpuOWUtdWhQOFZGbURka2tFeWV5bUxZbjlrNlpyVW5vM2ZGcFZiellZcGJVcXF0UXc?oc=5)
 
 2026-10-12
 
 Source: [The Washington Post](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQazJMeUhabVFtYlg4bWFtQ204bl9qY3hMN0xUYkh5QkhFNS1lNldpbFdOcFk1OUZFZ1FQZXZuUmxFX2stVHFDUXJqeHREWjZpdkNwTnh5aFlMdDBWMU5NbXdxMHRfTU1NUDM4NWhwdHc5a2pqTzdmcEt1QlpuOWUtdWhQOFZGbURka2tFeWV5bUxZbjlrNlpyVW5vM2ZGcFZiellZcGJVcXF0UXc?oc=5)
+
+---
+
+### [Bones, Liver, And Blood Fats All Shift Abruptly at Menopause, Huge Study Finds](https://news.google.com/rss/articles/CBMipwFBVV95cUxPNDFwZXN2SjdsUVEwdExHUnBIWVZFSlpWNUxDUm5vUzVUb0RaOVgwY3lSQXhqbUxEcHlwajVaYW9MdjdqR1hUYllCeWx4VEdjWWlndm9uSU9JejQyUlQ4bWRWWGQxanNFWlJDOG9hbHIwTUVac0NoSVlSaGNBV1NsN3JhMkFPUzRfR3U4RlY1RzI0b2wwcW1feDNUaWZsT2VYMERqRVAwbw?oc=5)
+
+2026-10-12
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMipwFBVV95cUxPNDFwZXN2SjdsUVEwdExHUnBIWVZFSlpWNUxDUm5vUzVUb0RaOVgwY3lSQXhqbUxEcHlwajVaYW9MdjdqR1hUYllCeWx4VEdjWWlndm9uSU9JejQyUlQ4bWRWWGQxanNFWlJDOG9hbHIwTUVac0NoSVlSaGNBV1NsN3JhMkFPUzRfR3U4RlY1RzI0b2wwcW1feDNUaWZsT2VYMERqRVAwbw?oc=5)
+
+---
+
+### [Can I get too much protein? Experts answer your questions on the popular supplement - The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxQNGl4NDdaM3RaWF8zRjFMamRxWFVrMVdHWGFrTUFZeU16cUhNYWtieFNWNXg4Tl9CX3BpNUoyZlk4S2c0MkJhNVFpT3E5NXFaNkFfRnVnT081azRTdkE5WngxN21tTGlZUnU2ZkMwb0RDSm5mUnhKaWt1RHhOc0FJaElGc0pfTWw5UVE?oc=5)
+
+2026-10-12
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxQNGl4NDdaM3RaWF8zRjFMamRxWFVrMVdHWGFrTUFZeU16cUhNYWtieFNWNXg4Tl9CX3BpNUoyZlk4S2c0MkJhNVFpT3E5NXFaNkFfRnVnT081azRTdkE5WngxN21tTGlZUnU2ZkMwb0RDSm5mUnhKaWt1RHhOc0FJaElGc0pfTWw5UVE?oc=5)
+
+---
+
+### [Eating only 15-ml olive oil before having carbs can have a positive impact on blood sugar spike, in an ex - The Times of India](https://news.google.com/rss/articles/CBMioANBVV95cUxPNnd0NHlwMGdybHFyWDdqcUlXQmZUS2lqcHdWTWxydlc5bzZkbmhmUWZKMTNtM002c3pZS2p0My1xVGxFLVluVUR1d2lRZTdJWTlNRk9fNmNTNHo4bHJTTnlQMFZDLTRtckNfZGQzTTEtbzE2aUpRWlo5c0JyUTgzR2pwcHRNRmxERVZQZGNiWFd4WEh5RVZCSTFlUnVmOUtueFZJMFBJLUJwVnl1NElvOS0ycVB3RzAwb2trMEU2c3Q5R2x2aVN3NENETUJlWTh5WHA3NHdDREJOanZrOFBlY3YyMHlPLTVIWC1DQ2JHZzRqR3R3c0NxY2xETlRhcWg1a045VEpGQjhSaVFTSnBNYVZOTzZnOXZubkM2RFFERzM5Y0h6dDd2aGQ2Y212WWNJNlh0cU9CTndPWW9DLXdnc0JJUjRYa1RQeS1zaWJNSDFsMjlLOWRLaHlzS25EcDlBdnU0T2UwLVcxZWk5OFB2Q3hNX1JiODNTREZ0ZWJvUm5YQ0xZZDdVNjd5ODZwNnZ3M2xfSGFRQS1NdHRuR0JTU9IBpgNBVV95cUxOaXI5dE9QdlVibmNLRGdENE1ud1gwU05zU0RMQzBZSVJiS0JSenB4d1hnOC1FUTRRNURMR194T0w4VzJfbUphTTktYkNHR0xLcDB5aXVWU3ZBVEJrRXJUZTVTVU9COEdTbXNPN3BkYzVSNXJJOUNBWjBEWks2cXRYRTI5OTRoQzFLVVNNLWhSbW1DdXRYdEJoUlJGbzFqSGVHYnlScFZQSjVBaVprWDBta052MTVDNWlLSWViNHhkdXlRc2RFMEVpZTdWWVoyUFR1ZTI0Q3NrS1lVb3pPVmlobVR1VS1YZnBqS2ZFcDN2MVJuRE54TVpzMFFzM0RiQkVieElES2g0dDdUNm0zRmJrS1o3c0M2MjRYbmpwUDVvTHRVTGxuVkgycWVaTk0wYWpXYkhTRGo0MTRrNS1SbFg3ZEJLMzNuT2pXOVJTZjFRQ2JvZ21QS3dkMHZEVk5LbEIzWDFZYWxRQ2FfYnFuQlF4UE01QVQ4R3gyWWNMU2JvYWtwMFc1ekdGZkwxZmFnQnVGanpiRnBSdkhDUWxqaWs3NDZSWU4yQQ?oc=5)
+
+2026-10-12
+
+Source: [The Times of India](https://news.google.com/rss/articles/CBMioANBVV95cUxPNnd0NHlwMGdybHFyWDdqcUlXQmZUS2lqcHdWTWxydlc5bzZkbmhmUWZKMTNtM002c3pZS2p0My1xVGxFLVluVUR1d2lRZTdJWTlNRk9fNmNTNHo4bHJTTnlQMFZDLTRtckNfZGQzTTEtbzE2aUpRWlo5c0JyUTgzR2pwcHRNRmxERVZQZGNiWFd4WEh5RVZCSTFlUnVmOUtueFZJMFBJLUJwVnl1NElvOS0ycVB3RzAwb2trMEU2c3Q5R2x2aVN3NENETUJlWTh5WHA3NHdDREJOanZrOFBlY3YyMHlPLTVIWC1DQ2JHZzRqR3R3c0NxY2xETlRhcWg1a045VEpGQjhSaVFTSnBNYVZOTzZnOXZubkM2RFFERzM5Y0h6dDd2aGQ2Y212WWNJNlh0cU9CTndPWW9DLXdnc0JJUjRYa1RQeS1zaWJNSDFsMjlLOWRLaHlzS25EcDlBdnU0T2UwLVcxZWk5OFB2Q3hNX1JiODNTREZ0ZWJvUm5YQ0xZZDdVNjd5ODZwNnZ3M2xfSGFRQS1NdHRuR0JTU9IBpgNBVV95cUxOaXI5dE9QdlVibmNLRGdENE1ud1gwU05zU0RMQzBZSVJiS0JSenB4d1hnOC1FUTRRNURMR194T0w4VzJfbUphTTktYkNHR0xLcDB5aXVWU3ZBVEJrRXJUZTVTVU9COEdTbXNPN3BkYzVSNXJJOUNBWjBEWks2cXRYRTI5OTRoQzFLVVNNLWhSbW1DdXRYdEJoUlJGbzFqSGVHYnlScFZQSjVBaVprWDBta052MTVDNWlLSWViNHhkdXlRc2RFMEVpZTdWWVoyUFR1ZTI0Q3NrS1lVb3pPVmlobVR1VS1YZnBqS2ZFcDN2MVJuRE54TVpzMFFzM0RiQkVieElES2g0dDdUNm0zRmJrS1o3c0M2MjRYbmpwUDVvTHRVTGxuVkgycWVaTk0wYWpXYkhTRGo0MTRrNS1SbFg3ZEJLMzNuT2pXOVJTZjFRQ2JvZ21QS3dkMHZEVk5LbEIzWDFZYWxRQ2FfYnFuQlF4UE01QVQ4R3gyWWNMU2JvYWtwMFc1ekdGZkwxZmFnQnVGanpiRnBSdkhDUWxqaWs3NDZSWU4yQQ?oc=5)
 
 ---
 
@@ -60,19 +84,19 @@ Source: [Fox News](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd3hOM0Zp
 
 ---
 
-### [Ultra-processed vs whole foods: What's the metabolic impact? - Medical News Today](https://news.google.com/rss/articles/CBMisAFBVV95cUxPbjZRVGdueWhXTmtSbEUwcWJ2amYxdFA4T3BmSHRYbHZKTnkza18tUFMwWldrZXBFYk1ESTBHc0RpZGN1ZkZTeXR1UE52UDRVUkFzcGw4YmVURFRYN0h4dHF6X2xKOUhTNGhfQURHQkZ3T202Ri1hc1R0b3dFdHlpODltYWlaSjY0T044c3BkS1ktQXliUVQ2cGJRVmI0TGdFZjRSTFBCNmhrYWM3VzJaZw?oc=5)
+### [Statins May Protect People From Glaucoma or Blindness By Preventing or Slowing Nerve Cell Death - Good News Network](https://news.google.com/rss/articles/CBMihAFBVV95cUxPeUZlaXZwc1pNeEUyX2F2NDBVb0kzTlFsMWJPcDYyejdhQVB5R0tzSzhUbTZqQXFJNFNSYkRvcURzLVZXTU9lUFltOVdEMUFhaFlJSmwxanMtWUFfSmdwRTh0MzBkRnhCcG5PUmxXRDFmbUJnTjFjajhhRng3eFFwc2Z5Snk?oc=5)
 
 2026-10-11
 
-Source: [Medical News Today](https://news.google.com/rss/articles/CBMisAFBVV95cUxPbjZRVGdueWhXTmtSbEUwcWJ2amYxdFA4T3BmSHRYbHZKTnkza18tUFMwWldrZXBFYk1ESTBHc0RpZGN1ZkZTeXR1UE52UDRVUkFzcGw4YmVURFRYN0h4dHF6X2xKOUhTNGhfQURHQkZ3T202Ri1hc1R0b3dFdHlpODltYWlaSjY0T044c3BkS1ktQXliUVQ2cGJRVmI0TGdFZjRSTFBCNmhrYWM3VzJaZw?oc=5)
+Source: [Good News Network](https://news.google.com/rss/articles/CBMihAFBVV95cUxPeUZlaXZwc1pNeEUyX2F2NDBVb0kzTlFsMWJPcDYyejdhQVB5R0tzSzhUbTZqQXFJNFNSYkRvcURzLVZXTU9lUFltOVdEMUFhaFlJSmwxanMtWUFfSmdwRTh0MzBkRnhCcG5PUmxXRDFmbUJnTjFjajhhRng3eFFwc2Z5Snk?oc=5)
 
 ---
 
-### [Late-night snacking carries a serious health risk, new study finds - The Independent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNak03VkV2dnh5MmdDcGVxSWlBVHhxLWxNOEpPUnFNZU1hcXkwZmRGWFRrLU1lejVFMHV5bDVGaFNUQXlDNGV1X08zQU81aTdHRmc4b1ZULVZaM3NsOGgxekloeS0teG05V0NVeUxoNWR6M1JFdUM0RklVZWNiRVlSejhRNjRxYUNRNTNiWU5BTlNtV3JTR0NUUnJzQnJudVBmZTZva1lxZlIxcTg?oc=5)
+### [Scientists Gave People 2 Nearly Identical Meals. One Triggered Much More Insulin.](https://news.google.com/rss/articles/CBMirAFBVV95cUxNN0dXY0tXZ0FwbUtvSUNpRENCS2pxd2tydWVKNjc0RDF2N1RlaFc2X0dWdFY1X3pIMURBaTdmQ2Q2ZUxWSkRvdGNINnhDbFJzX2M3bGhCNC1NX0YtNHc0QVpvd2Y3T0hYcDVPcnJTWGQ5UDE0YjJkaWhhdS15R2tSVE93djAzVF9ZWVg3Tlp3ZDUwbmVIYU5oeE1SeEt6bHpETXEtbVFsSlZfa2JW?oc=5)
 
-2026-10-10
+2026-10-11
 
-Source: [The Independent](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNak03VkV2dnh5MmdDcGVxSWlBVHhxLWxNOEpPUnFNZU1hcXkwZmRGWFRrLU1lejVFMHV5bDVGaFNUQXlDNGV1X08zQU81aTdHRmc4b1ZULVZaM3NsOGgxekloeS0teG05V0NVeUxoNWR6M1JFdUM0RklVZWNiRVlSejhRNjRxYUNRNTNiWU5BTlNtV3JTR0NUUnJzQnJudVBmZTZva1lxZlIxcTg?oc=5)
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMirAFBVV95cUxNN0dXY0tXZ0FwbUtvSUNpRENCS2pxd2tydWVKNjc0RDF2N1RlaFc2X0dWdFY1X3pIMURBaTdmQ2Q2ZUxWSkRvdGNINnhDbFJzX2M3bGhCNC1NX0YtNHc0QVpvd2Y3T0hYcDVPcnJTWGQ5UDE0YjJkaWhhdS15R2tSVE93djAzVF9ZWVg3Tlp3ZDUwbmVIYU5oeE1SeEt6bHpETXEtbVFsSlZfa2JW?oc=5)
 
 ---
 
@@ -84,27 +108,11 @@ Source: [CBS News](https://news.google.com/rss/articles/CBMipAFBVV95cUxOdGtJUjBE
 
 ---
 
-### [Will We Ever Understand Dementia? - The New York Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxOeU1MTzRFVjZDX2g2Q05xUFdvQWpJUFZHODhTc2p5VF9xTEtKb1Nrck1zMXdYQmZHOS1NTzNRSXVJTXNVaHAwUzdwTkREbHNOVEhON0oxRlZ1R2VmaUx3NnJDcDhRSjZxd1Zvd0dZdlpYREQyd2o4SFZ6bVB0clFnclc2X2ZIbmM?oc=5)
+### [This Mindless Habit Is Linked With An Increase In Cancer Risk — And You Are Likely Guilty Of It](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUDNOWXE2eFdNWVRzVWZTWGtNMVRkSUtpUmFham5yNzFMWEJiRXpBeHMzR3I3cWJxMld3RkVPbFFwYjI5WGpBdDNZVk1haXlUakRkaW9nM1pFV200QUZMX3I3dnNndDgtTTZFaGNUN01wYzZQLTRyWXFpMW1JSFhLSzkxRXFtYXJhUjAyR2kxWXNERHh6UkFqckRyU2cyWExveFFPUmlOX1NEdWxudDBqWUNsWEc2ZzI3NGphcnZiWHBKaG1LaXNtV2xpa3VrOF9uM2NtaTlUVWJxeHl6MXdnR0hzYmZMbW9R0gHuAUFVX3lxTE9WaTQtVVdPWGh6b0VHQ003R0N3Q3kwVlVGTVl1clVIQXd0OXlRUk8zU0RnUENzREFzNF80YU9jam5ucDZHV1pVNi1wNzk2andsNGp2VnlUTGZuSUNvb3BXTnlKRXNOZFVDZS1hbEZvQy15RlpWUmU1SUhhbkM3eWpsZ3Mtbmhma2hjWHBxRTN6aWZhU1RrQTA5NHdBUDZ2NG5VUkItWnBxRUR2S0FFMnhPMWd6NW1zRnl1U2NFWEMzeUNCNmUzRlVHUlpCNnNYSTFkbzMzNjFIaEZWZUpDc3ZfaWY3WmtXdWpiTGhaNHc?oc=5)
 
 2026-10-10
 
-Source: [The New York Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxOeU1MTzRFVjZDX2g2Q05xUFdvQWpJUFZHODhTc2p5VF9xTEtKb1Nrck1zMXdYQmZHOS1NTzNRSXVJTXNVaHAwUzdwTkREbHNOVEhON0oxRlZ1R2VmaUx3NnJDcDhRSjZxd1Zvd0dZdlpYREQyd2o4SFZ6bVB0clFnclc2X2ZIbmM?oc=5)
-
----
-
-### [Most Americans are eating enough protein, but choosing the right ‘package’ matters!](https://news.google.com/rss/articles/CBMigAFBVV95cUxPT21WZDdwNEUzcE0wa0YyX3d6ZzFjWTgyMHFMa0hBQksxcTM3blRmcUtEcmFNRVp6aW5NTUZwWldrZXN6X3lhLVd1a3RBX1RYMkdOeUluRlo4NzY2SEJWeWZNZnFwcEdlYWpHOUhOVUNUdkswT0o0Yng1VUJGRjZwRA?oc=5)
-
-2026-10-10
-
-Source: [https://docksiderestaurant.com.au/](https://news.google.com/rss/articles/CBMigAFBVV95cUxPT21WZDdwNEUzcE0wa0YyX3d6ZzFjWTgyMHFMa0hBQksxcTM3blRmcUtEcmFNRVp6aW5NTUZwWldrZXN6X3lhLVd1a3RBX1RYMkdOeUluRlo4NzY2SEJWeWZNZnFwcEdlYWpHOUhOVUNUdkswT0o0Yng1VUJGRjZwRA?oc=5)
-
----
-
-### [Mom told to end pregnancy to start treatment. Her decision changed it all](https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmlPX3N2SzltekNUbEVSYUh6bC1MY0FXUEdPdnlvaVpOU1FiWHl0TkNUUXQxZEliNm9TVGVTNUk0Rl9wX3RtWVBzUmVlXzItZ3lvWXlGdFEwNVg2LVI2RmQ2SHd0NF9DRjlyNXdCQnVWSkdLNTZkVjB1VVU2eDc3cGotRElKR1ppZFE?oc=5)
-
-2026-10-09
-
-Source: [Yahoo](https://news.google.com/rss/articles/CBMiigFBVV95cUxOcmlPX3N2SzltekNUbEVSYUh6bC1MY0FXUEdPdnlvaVpOU1FiWHl0TkNUUXQxZEliNm9TVGVTNUk0Rl9wX3RtWVBzUmVlXzItZ3lvWXlGdFEwNVg2LVI2RmQ2SHd0NF9DRjlyNXdCQnVWSkdLNTZkVjB1VVU2eDc3cGotRElKR1ppZFE?oc=5)
+Source: [HuffPost](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUDNOWXE2eFdNWVRzVWZTWGtNMVRkSUtpUmFham5yNzFMWEJiRXpBeHMzR3I3cWJxMld3RkVPbFFwYjI5WGpBdDNZVk1haXlUakRkaW9nM1pFV200QUZMX3I3dnNndDgtTTZFaGNUN01wYzZQLTRyWXFpMW1JSFhLSzkxRXFtYXJhUjAyR2kxWXNERHh6UkFqckRyU2cyWExveFFPUmlOX1NEdWxudDBqWUNsWEc2ZzI3NGphcnZiWHBKaG1LaXNtV2xpa3VrOF9uM2NtaTlUVWJxeHl6MXdnR0hzYmZMbW9R0gHuAUFVX3lxTE9WaTQtVVdPWGh6b0VHQ003R0N3Q3kwVlVGTVl1clVIQXd0OXlRUk8zU0RnUENzREFzNF80YU9jam5ucDZHV1pVNi1wNzk2andsNGp2VnlUTGZuSUNvb3BXTnlKRXNOZFVDZS1hbEZvQy15RlpWUmU1SUhhbkM3eWpsZ3Mtbmhma2hjWHBxRTN6aWZhU1RrQTA5NHdBUDZ2NG5VUkItWnBxRUR2S0FFMnhPMWd6NW1zRnl1U2NFWEMzeUNCNmUzRlVHUlpCNnNYSTFkbzMzNjFIaEZWZUpDc3ZfaWY3WmtXdWpiTGhaNHc?oc=5)
 
 ---
 
@@ -116,14 +124,6 @@ Source: [Phys.org](https://news.google.com/rss/articles/CBMidEFVX3lxTE5qYWtlT2tl
 
 ---
 
-### [Parkinson's patients may protect memory and movement with one simple habit - Fox News](https://news.google.com/rss/articles/CBMikAFBVV95cUxPbWZoYmthaElIdk1KbUo1TU5MaFVJZHFydXc0RUJTdVlDaFlvVnVSLVhDdlNlWmtGal91RDFmcmx2ZTRXejYyUDF2aUxLYXZfZW9YMnFqTUxVVDU5NkJXQ3pOY3NMb2k0d1hNamJhODUtYkVCVUZIR3dybnp3TGEwaXNLTHA4a0t5S2lKTmV2aHLSAZYBQVVfeXFMTVNtRTlmZWUxR2ZnQ1R4S25QbENLTmZKd1VwOVBib0RVS0NXWGV0cEVuNjN3WVktZE9BTTJhcFpLLTd3LWVsOUhqUDF3bVdQNHVfNlVoREM4NWhmcXRJR2xMUVZqbm82QTVQY2NaNEdMOGlmTUNqOFFZS2lhVVNWVmRST2MzOEw5RnBsYTNDSWJ1ZlljeTlB?oc=5)
-
-2026-10-08
-
-Source: [Fox News](https://news.google.com/rss/articles/CBMikAFBVV95cUxPbWZoYmthaElIdk1KbUo1TU5MaFVJZHFydXc0RUJTdVlDaFlvVnVSLVhDdlNlWmtGal91RDFmcmx2ZTRXejYyUDF2aUxLYXZfZW9YMnFqTUxVVDU5NkJXQ3pOY3NMb2k0d1hNamJhODUtYkVCVUZIR3dybnp3TGEwaXNLTHA4a0t5S2lKTmV2aHLSAZYBQVVfeXFMTVNtRTlmZWUxR2ZnQ1R4S25QbENLTmZKd1VwOVBib0RVS0NXWGV0cEVuNjN3WVktZE9BTTJhcFpLLTd3LWVsOUhqUDF3bVdQNHVfNlVoREM4NWhmcXRJR2xMUVZqbm82QTVQY2NaNEdMOGlmTUNqOFFZS2lhVVNWVmRST2MzOEw5RnBsYTNDSWJ1ZlljeTlB?oc=5)
-
----
-
 ### [How to build a mouse: embryo development captured in stunning detail](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9USUZwUUgzaFo3aEVyR2JKN2JuT0tOMG9ZSVFZdjhJN2dlTmhvTFh3YlZ2aXdWNFhfUS00T3E3cWx5clRXLVhPYmt2UHlycGs2djhQSWhha05HZi1LTVBr?oc=5)
 
 2026-10-08
@@ -132,27 +132,11 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9USUZwUUgzaF
 
 ---
 
-### [Eating olive oil before carbs has a surprising effect on blood sugar - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5Na05uZ3otdVVSLVVuY1ZxczVEbGE2RVZSQTJxbi1XcGQ2RFBQTE12OENGQXFKNWRLTmJYWWFON3RVek9ZNmNXQ3JRZE9HX3Y3N2lsWkhJY1RzT1RVQWZHOTdiT0R2akVVT2ljZzRROA?oc=5)
-
-2026-10-08
-
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE5Na05uZ3otdVVSLVVuY1ZxczVEbGE2RVZSQTJxbi1XcGQ2RFBQTE12OENGQXFKNWRLTmJYWWFON3RVek9ZNmNXQ3JRZE9HX3Y3N2lsWkhJY1RzT1RVQWZHOTdiT0R2akVVT2ljZzRROA?oc=5)
-
----
-
 ### [Prehistoric global migration of vanishing gut microbes with humans](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rYUxPSzVnaGpkMVJpOV93ZlhZTmVTb2tNYXprUERBNnRBS3JWTGxrLU9HOV80dHlENWRDUUszeGwzQmNRdVpqRlNqdVpSajR5czJmOWNTWlh5RVlBcGNv?oc=5)
 
 2026-10-07
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rYUxPSzVnaGpkMVJpOV93ZlhZTmVTb2tNYXprUERBNnRBS3JWTGxrLU9HOV80dHlENWRDUUszeGwzQmNRdVpqRlNqdVpSajR5czJmOWNTWlh5RVlBcGNv?oc=5)
-
----
-
-### [World's Loudest Birds Rival Jackhammers](https://news.google.com/rss/articles/CBMihgFBVV95cUxNOWpMY0g5cTVFTnhFVkZpOS1PY09taGpLS09pamZFZndjQ25qRXJqcGdnWl9vVmFwaVp0QVdoZEttbTV6d2R2RzhwNVY2VkUwWDFUWjRabnVmSjg4d0l5U0h2UGRGcnZhbXZRWXdMVVdiOHdsVWpvOTYwR3o2cVR3RkptZEJmZw?oc=5)
-
-2026-10-05
-
-Source: [Newser](https://news.google.com/rss/articles/CBMihgFBVV95cUxNOWpMY0g5cTVFTnhFVkZpOS1PY09taGpLS09pamZFZndjQ25qRXJqcGdnWl9vVmFwaVp0QVdoZEttbTV6d2R2RzhwNVY2VkUwWDFUWjRabnVmSjg4d0l5U0h2UGRGcnZhbXZRWXdMVVdiOHdsVWpvOTYwR3o2cVR3RkptZEJmZw?oc=5)
 
 ---
 

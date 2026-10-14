@@ -31,6 +31,14 @@ This page brings together the latest health news about “cancer” and lists th
 
 ## Related News (7)
 
+### [Got your BRCA test more than 13 years ago? It may have missed a cancer-linked mutation - New York Post](https://news.google.com/rss/articles/CBMimAFBVV95cUxPYTZUOExGXzhOR0FSUzloeU5EOFZDcWhMWFEwaTVJS3Izd1dQMEhadHVqbm1MTk5zakN2YW1zNlhSRzFldVp1UHh5NnB6Z2l0RmhWaFJzbXBCN2wxa2dYUXUyaW96MUJqV0ZkS3lMcGJXNUxKX2Q5aU9NN0lFdDFPSlBoWmtMZUdVM211VS1TNDV1bWh2LXhlNA?oc=5)
+
+2026-10-13
+
+Source: [New York Post](https://news.google.com/rss/articles/CBMimAFBVV95cUxPYTZUOExGXzhOR0FSUzloeU5EOFZDcWhMWFEwaTVJS3Izd1dQMEhadHVqbm1MTk5zakN2YW1zNlhSRzFldVp1UHh5NnB6Z2l0RmhWaFJzbXBCN2wxa2dYUXUyaW96MUJqV0ZkS3lMcGJXNUxKX2Q5aU9NN0lFdDFPSlBoWmtMZUdVM211VS1TNDV1bWh2LXhlNA?oc=5)
+
+---
+
 ### [Woman Who Survived Colon Cancer 3 Times Reveals the First Symptom She Noticed at 14: ‘I Hid It From Everyone’](https://news.google.com/rss/articles/CBMijgFBVV95cUxON01CY2dmUy1IdHBwV0diS0dnS2VVcUNzYmt3WF9pSUVoeHY5dHJmX05nTmtWR1B0OFl5VjU1WnJxZGxRZXVyampzZHJscTYyLXdLV1NkdjFId1gxSGdtdnFVR2JvUGlBZnlCNG1tOUVSSnBxVFNXSVJ3RW5CRFJMd0ltOW5pMXRyZ19aTkpR?oc=5)
 
 2026-10-13
@@ -39,27 +47,19 @@ Source: [Yahoo](https://news.google.com/rss/articles/CBMijgFBVV95cUxON01CY2dmUy1
 
 ---
 
+### [New prostate cancer scan identified 91% of cases in study, potentially avoiding biopsies](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOclYzN3MwaXdZa1FLaVBHTGxJNE9sSm9kcVM0MkF5czVEZDdCc19OMGNRNlVMLVBWQXh0QzRGNXdMMkhxbWpmdEJMbXBtQXdZNVd5cy1xbGxEXzhhR3I3QnpFcF9wckNHUC1qMjFxMUpUaXdpU0FYSVdNOUhKRk9LbXFGdEZfeFAzVU9VWFpJeGxNY0FoQnI2MWQyRmtPd0FlNFhWdHNnbGF5b0lOcGQ5RUtpcS1mdGw0MHp3?oc=5)
+
+2026-10-13
+
+Source: [wusa9.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOclYzN3MwaXdZa1FLaVBHTGxJNE9sSm9kcVM0MkF5czVEZDdCc19OMGNRNlVMLVBWQXh0QzRGNXdMMkhxbWpmdEJMbXBtQXdZNVd5cy1xbGxEXzhhR3I3QnpFcF9wckNHUC1qMjFxMUpUaXdpU0FYSVdNOUhKRk9LbXFGdEZfeFAzVU9VWFpJeGxNY0FoQnI2MWQyRmtPd0FlNFhWdHNnbGF5b0lOcGQ5RUtpcS1mdGw0MHp3?oc=5)
+
+---
+
 ### [Divergent trial results on cancer vaccines have the field grappling with hard questions - The Boston Globe](https://news.google.com/rss/articles/CBMiggFBVV95cUxPS1lGVnhrMlNkeXZSdnJBRE9NSDBoc0VOaDFYRF82MDczSFJCa3hPZVg0WEhyUHQ1YUJMMkNPdDBCYXRJdUxsaS10cHI0ZEtOcnpYd2dfSGZqUFFEakRLdUNxd0ZaeU5HSmRSajBtR0JmS2trTElpR3kzc3FBU3VzYmdB?oc=5)
 
 2026-10-13
 
 Source: [The Boston Globe](https://news.google.com/rss/articles/CBMiggFBVV95cUxPS1lGVnhrMlNkeXZSdnJBRE9NSDBoc0VOaDFYRF82MDczSFJCa3hPZVg0WEhyUHQ1YUJMMkNPdDBCYXRJdUxsaS10cHI0ZEtOcnpYd2dfSGZqUFFEakRLdUNxd0ZaeU5HSmRSajBtR0JmS2trTElpR3kzc3FBU3VzYmdB?oc=5)
-
----
-
-### [New prostate cancer scan identified 91% of cases in study, potentially avoiding biopsies](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOclYzN3MwaXdZa1FLaVBHTGxJNE9sSm9kcVM0MkF5czVEZDdCc19OMGNRNlVMLVBWQXh0QzRGNXdMMkhxbWpmdEJMbXBtQXdZNVd5cy1xbGxEXzhhR3I3QnpFcF9wckNHUC1qMjFxMUpUaXdpU0FYSVdNOUhKRk9LbXFGdEZfeFAzVU9VWFpJeGxNY0FoQnI2MWQyRmtPd0FlNFhWdHNnbGF5b0lOcGQ5RUtpcS1mdGw0MHp3?oc=5)
-
-2026-10-13
-
-Source: [WUSA9](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOclYzN3MwaXdZa1FLaVBHTGxJNE9sSm9kcVM0MkF5czVEZDdCc19OMGNRNlVMLVBWQXh0QzRGNXdMMkhxbWpmdEJMbXBtQXdZNVd5cy1xbGxEXzhhR3I3QnpFcF9wckNHUC1qMjFxMUpUaXdpU0FYSVdNOUhKRk9LbXFGdEZfeFAzVU9VWFpJeGxNY0FoQnI2MWQyRmtPd0FlNFhWdHNnbGF5b0lOcGQ5RUtpcS1mdGw0MHp3?oc=5)
-
----
-
-### [Continuously evolving cells help pancreatic cancer evade treatment and spread - Medical Xpress](https://news.google.com/rss/articles/CBMiigFBVV95cUxOWnd1dnM5WHk1SXV5dm5zSEw0SXV1VGdqV2RyTnhOa1FzejVvdGdJZUltcXF3Q2hjR3Nrbk0xNW52VU52YjVTNWx1UEhmeUhlNU41OEg0NXc3YWFqclJwenVocldwSzFVLV9LbmRBVnhRb2ZTMVMxNUl1V0dTODVUNWlKSDRYZ2NwNnc?oc=5)
-
-2026-10-13
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiigFBVV95cUxOWnd1dnM5WHk1SXV5dm5zSEw0SXV1VGdqV2RyTnhOa1FzejVvdGdJZUltcXF3Q2hjR3Nrbk0xNW52VU52YjVTNWx1UEhmeUhlNU41OEg0NXc3YWFqclJwenVocldwSzFVLV9LbmRBVnhRb2ZTMVMxNUl1V0dTODVUNWlKSDRYZ2NwNnc?oc=5)
 
 ---
 

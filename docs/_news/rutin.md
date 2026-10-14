@@ -14,7 +14,7 @@ permalink: /news/rutin/
 ---
 
 <p class="key-answer" data-question="What news is there about Rutin?">
-<strong>Rutin</strong> currently has <strong>9 news articles</strong>, with 8 predicted indications.
+<strong>Rutin</strong> currently has <strong>11 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ This page combines the AI-predicted indications for Rutin with the latest health
 <p><a href="{{ '/drugs/rutin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (11)
 
 ### [Too much penguin poop in Antarctica is accelerating snow melt and rising sea levels: study - New York Post](https://news.google.com/rss/articles/CBMingFBVV95cUxPcmlvUnRxSU8tR0xQM0RkajFDMHBHYkd1ZzhwR0xjaG5CRkszZ2pOcUhLR05wWE5VM2tMYzhRWGtSeTRHUDBOWjdnVjFoRVlteHAyMGdjMmxUYVdVeFk1M0tLOExONThTY2FieXQ1SE5DWTN3NkhsYUxJWjd6anlnT3lTWGp4OEhIRUtNSkRObEIxNnkwYm91NGdDcmkwQQ?oc=5)
 
@@ -72,6 +72,14 @@ Source: [Phys.org](https://news.google.com/rss/articles/CBMic0FVX3lxTE5qZmlQN3V6
 
 ---
 
+### [Franklin created famed 'Photo 51' after calculating key features of DNA's helix from an earlier image, study reveals](https://news.google.com/rss/articles/CBMid0FVX3lxTFBRRnZuRTZpdGlQdHFQYWZHN0doNloxY3BPZHhkOUtYb3VkYk5TY0lTY1FTMU04UEZfZV9lY1EydGVlWTgzVWY3U0RLcEhaNTU3UnhUTmZYSEx6eS1salhMYzRkTlV3OHF6NVJ3bnljcWZLYmNOX2lR?oc=5)
+
+2026-10-12 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [Phys.org](https://news.google.com/rss/articles/CBMid0FVX3lxTFBRRnZuRTZpdGlQdHFQYWZHN0doNloxY3BPZHhkOUtYb3VkYk5TY0lTY1FTMU04UEZfZV9lY1EydGVlWTgzVWY3U0RLcEhaNTU3UnhUTmZYSEx6eS1salhMYzRkTlV3OHF6NVJ3bnljcWZLYmNOX2lR?oc=5)
+
+---
+
 ### [Bones, Liver, And Blood Fats All Shift Abruptly at Menopause, Huge Study Finds](https://news.google.com/rss/articles/CBMipwFBVV95cUxPNDFwZXN2SjdsUVEwdExHUnBIWVZFSlpWNUxDUm5vUzVUb0RaOVgwY3lSQXhqbUxEcHlwajVaYW9MdjdqR1hUYllCeWx4VEdjWWlndm9uSU9JejQyUlQ4bWRWWGQxanNFWlJDOG9hbHIwTUVac0NoSVlSaGNBV1NsN3JhMkFPUzRfR3U4RlY1RzI0b2wwcW1feDNUaWZsT2VYMERqRVAwbw?oc=5)
 
 2026-10-12 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
@@ -80,27 +88,27 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMipwFBVV95cUxPNDFw
 
 ---
 
-### [An Earth-Sized Planet Could Survive With 2 Suns Just 16 Light-Years Away](https://news.google.com/rss/articles/CBMiowFBVV95cUxOOHJCS1NDUWZ4WmJ1V2E0RzZ1WFNqTXN3RTR5bmRESUJfNW5KcC0wSHpqMUp3YXd4Mmt1UGVWTkRxLUI0dllOaEI4b25WV1hDM3lPcXhhZ3hHbkpDZTZnSzAwVFlYVF9UbXhZMDRDUHdmTXNnc0t5a2Y3RjJvVmxoN21qYWRMNjFtdTVDZWpwTk9QTzUxeWNUQm9aQm9xbm5MRlNZ?oc=5)
+### [Researchers followed glucose monitor users for three years and found a possible kidney benefit](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdm8tbmJBRDNSYlBNc3VfVm1qd0hjNmtxalJUWmFSSVVHNHJWTy1YMXZlam80aU5nMTFhQzVfYWZrcDYwWXhJbnpsQjh3ZFJRc21WVEIwQW44ekJmOUtXbVVLOWFyNkFZejNjU1Y4QzZxeU5VcW1Va2d0UzJjMzZXS3BmVjY1dEpZN29OYWdSSkV0VUFaTElNWGFYcWEySzh1enVDZU9kcVdVY2ZETjdGWDBDVzNYR1FVTmhpQ0dyZnhBb2RhRWZhRmhmX25OZmNDd3lhQjVVdEZaUQ?oc=5)
+
+2026-10-12 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [News-Medical](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdm8tbmJBRDNSYlBNc3VfVm1qd0hjNmtxalJUWmFSSVVHNHJWTy1YMXZlam80aU5nMTFhQzVfYWZrcDYwWXhJbnpsQjh3ZFJRc21WVEIwQW44ekJmOUtXbVVLOWFyNkFZejNjU1Y4QzZxeU5VcW1Va2d0UzJjMzZXS3BmVjY1dEpZN29OYWdSSkV0VUFaTElNWGFYcWEySzh1enVDZU9kcVdVY2ZETjdGWDBDVzNYR1FVTmhpQ0dyZnhBb2RhRWZhRmhmX25OZmNDd3lhQjVVdEZaUQ?oc=5)
+
+---
+
+### [Star Wars-like planet of Earth’s size can actually support life - Yahoo Tech](https://news.google.com/rss/articles/CBMiigFBVV95cUxPcTZaNFUxdmNIckNLaHRyTThrZHRIeVhjaEhKZjVJcmp3UWUtS3pNV0dPLTlGM1FkWktqVWtqX2V0WmliRHZiRmtOYWpGRUJyNEE4VFdmTG1EZS1UQnRDamJNOFZlVFgxUUhwRnFFQVdXQkVCTEZEY2RsY1FjLXhlbl9lV0hydHIzN1E?oc=5)
 
 2026-10-12 <span class="news-indication-tag">UC</span>
 
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiowFBVV95cUxOOHJCS1NDUWZ4WmJ1V2E0RzZ1WFNqTXN3RTR5bmRESUJfNW5KcC0wSHpqMUp3YXd4Mmt1UGVWTkRxLUI0dllOaEI4b25WV1hDM3lPcXhhZ3hHbkpDZTZnSzAwVFlYVF9UbXhZMDRDUHdmTXNnc0t5a2Y3RjJvVmxoN21qYWRMNjFtdTVDZWpwTk9QTzUxeWNUQm9aQm9xbm5MRlNZ?oc=5)
+Source: [Yahoo Tech](https://news.google.com/rss/articles/CBMiigFBVV95cUxPcTZaNFUxdmNIckNLaHRyTThrZHRIeVhjaEhKZjVJcmp3UWUtS3pNV0dPLTlGM1FkWktqVWtqX2V0WmliRHZiRmtOYWpGRUJyNEE4VFdmTG1EZS1UQnRDamJNOFZlVFgxUUhwRnFFQVdXQkVCTEZEY2RsY1FjLXhlbl9lV0hydHIzN1E?oc=5)
 
 ---
 
-### [New belly fat injection cuts dangerous fat surrounding organs by 12% in early human trial - Fox News](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd3hOM0ZpWXZJLVBzVFFqcFFtSHhuMm1kQkwwU2RjQ0lsc0o3OTlJSGI4Q3VPU2s5V0xtRHNsc213eGQ3cVMxLWE3dFd2TllWelZ6NlRHeWpBVnRNeS1XVWN4bmhpV1NaQTRXdnJLZTFRd3BDZUlCU0VYODV2Smlxb1NENUZwcUNDVEhObzY3di1RR09VaVFvZkNuazZWVVpTMks2ZG1RYVVBQVlFckNXSFpCUmRpWEdC0gG-AUFVX3lxTE1hYlNCYnFpYTVhZTZNWUlGUUwzeFVzUnMwY1RjR0MtdFo5UXE0RC1HdVYtZl9pUVpybW1zM0VsUlMyRTZCR3BKNWtlaFBQMS1DR1ZNVHVHY2pjbDhuQm1HYmpOSFlQaU44T0R4ZkY3cTdMSW9vQ3BiVWl4MGZDYW5XaTdmLVNXcElYOFVVMkRDY01SZF9nWWdZVmxIalFBOWF3Yi1uOGdBdm85MzZpQ3ZMMVVOMTB3OTIyUEZyd1E?oc=5)
+### [New belly fat injection cuts dangerous fat surrounding organs by 12% in early human trial - Fox News](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd3hOM0ZpWXZJLVBzVFFqcFFtSHhuMm1kQkwwU2RjQ0lsc0o3OTlJSGI4Q3VPU2s5V0xtRHNsc213eGQ3cVMxLWE3dFd2TllWelZ6NlRHeWpBVnRNeS1XVWN4bmhpV1NaQTRXdnJLZTFRd3BDZUlCU0VYODV2Smlxb1NENUZwcUNDVEhObzY3di1RR09VaVFvZkNuazZWVVpTMks2ZG1RYVVBQVlFckNXSFpCUmRpWEdC?oc=5)
 
 2026-10-11 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
-Source: [Fox News](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd3hOM0ZpWXZJLVBzVFFqcFFtSHhuMm1kQkwwU2RjQ0lsc0o3OTlJSGI4Q3VPU2s5V0xtRHNsc213eGQ3cVMxLWE3dFd2TllWelZ6NlRHeWpBVnRNeS1XVWN4bmhpV1NaQTRXdnJLZTFRd3BDZUlCU0VYODV2Smlxb1NENUZwcUNDVEhObzY3di1RR09VaVFvZkNuazZWVVpTMks2ZG1RYVVBQVlFckNXSFpCUmRpWEdC0gG-AUFVX3lxTE1hYlNCYnFpYTVhZTZNWUlGUUwzeFVzUnMwY1RjR0MtdFo5UXE0RC1HdVYtZl9pUVpybW1zM0VsUlMyRTZCR3BKNWtlaFBQMS1DR1ZNVHVHY2pjbDhuQm1HYmpOSFlQaU44T0R4ZkY3cTdMSW9vQ3BiVWl4MGZDYW5XaTdmLVNXcElYOFVVMkRDY01SZF9nWWdZVmxIalFBOWF3Yi1uOGdBdm85MzZpQ3ZMMVVOMTB3OTIyUEZyd1E?oc=5)
-
----
-
-### [A chemical produced by gut bacteria may accelerate Alzheimer’s disease](https://news.google.com/rss/articles/CBMimwFBVV95cUxQNlF2aHdtclkyN2RDUW5uQlZYZ0E2ai1YSlprc2d2Nk5KNDZkbFpNd2ZKYWZGRHJKRnJCRmRrdVVRTXpRdmx6S29iRlhjcmtZU2U1TzVLYXRGcnJfMGdmTk5QMEU0T0JrODMySXhrRGJUYk5SakpWNjdSTW9xUFVVWWZRbmpnUDlCZ084VC1DblJGcFlvM2o5dTl0OA?oc=5)
-
-2026-10-11 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [PsyPost](https://news.google.com/rss/articles/CBMimwFBVV95cUxQNlF2aHdtclkyN2RDUW5uQlZYZ0E2ai1YSlprc2d2Nk5KNDZkbFpNd2ZKYWZGRHJKRnJCRmRrdVVRTXpRdmx6S29iRlhjcmtZU2U1TzVLYXRGcnJfMGdmTk5QMEU0T0JrODMySXhrRGJUYk5SakpWNjdSTW9xUFVVWWZRbmpnUDlCZ084VC1DblJGcFlvM2o5dTl0OA?oc=5)
+Source: [Fox News](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd3hOM0ZpWXZJLVBzVFFqcFFtSHhuMm1kQkwwU2RjQ0lsc0o3OTlJSGI4Q3VPU2s5V0xtRHNsc213eGQ3cVMxLWE3dFd2TllWelZ6NlRHeWpBVnRNeS1XVWN4bmhpV1NaQTRXdnJLZTFRd3BDZUlCU0VYODV2Smlxb1NENUZwcUNDVEhObzY3di1RR09VaVFvZkNuazZWVVpTMks2ZG1RYVVBQVlFckNXSFpCUmRpWEdC?oc=5)
 
 ---
 
@@ -109,6 +117,14 @@ Source: [PsyPost](https://news.google.com/rss/articles/CBMimwFBVV95cUxQNlF2aHdtc
 2026-10-11 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMirAFBVV95cUxNN0dXY0tXZ0FwbUtvSUNpRENCS2pxd2tydWVKNjc0RDF2N1RlaFc2X0dWdFY1X3pIMURBaTdmQ2Q2ZUxWSkRvdGNINnhDbFJzX2M3bGhCNC1NX0YtNHc0QVpvd2Y3T0hYcDVPcnJTWGQ5UDE0YjJkaWhhdS15R2tSVE93djAzVF9ZWVg3Tlp3ZDUwbmVIYU5oeE1SeEt6bHpETXEtbVFsSlZfa2JW?oc=5)
+
+---
+
+### [Diet soda drinkers lost just as much weight as water drinkers, study finds](https://news.google.com/rss/articles/CBMikAFBVV95cUxOdDczdEtHWUQ3QWxkTm9HQjJZR0p3WUVxR2FONHYtZWVXM3ppaE1OV256RFV3SWhleW1LVUF5YUw4RERYWWdRTzRuYjJ1VXVWRm1lMTFiQlhvZHF1NWtrWHJMOVhIaWk0QXhOSW56V0pkdEcyOEVPVWt5ekJiNkl0blFuSU5JWHdwWExPQXoxVFDSAZYBQVVfeXFMUG5wVU9UM2JpenNyUElTa2tjZFVWcWtzQ3NFdWJ4WTFndTZNWDRtTUQ3MWJRcXRHQkFMcHRTWndCemNQU2R2MWdXTEhnZ3BmVzNiSVVwVDZxaVFQS3dDTGViQ2k2c1dpbHlHdHF1QTJWd3ppdGVfaEtGX2tmcDE1eHFqV1M4c1NtZFFhaGZaVkcza2RTMHRn?oc=5)
+
+2026-10-10 <span class="news-indication-tag">UC</span>
+
+Source: [NewsNation](https://news.google.com/rss/articles/CBMikAFBVV95cUxOdDczdEtHWUQ3QWxkTm9HQjJZR0p3WUVxR2FONHYtZWVXM3ppaE1OV256RFV3SWhleW1LVUF5YUw4RERYWWdRTzRuYjJ1VXVWRm1lMTFiQlhvZHF1NWtrWHJMOVhIaWk0QXhOSW56V0pkdEcyOEVPVWt5ekJiNkl0blFuSU5JWHdwWExPQXoxVFDSAZYBQVVfeXFMUG5wVU9UM2JpenNyUElTa2tjZFVWcWtzQ3NFdWJ4WTFndTZNWDRtTUQ3MWJRcXRHQkFMcHRTWndCemNQU2R2MWdXTEhnZ3BmVzNiSVVwVDZxaVFQS3dDTGViQ2k2c1dpbHlHdHF1QTJWd3ppdGVfaEtGX2tmcDE1eHFqV1M4c1NtZFFhaGZaVkcza2RTMHRn?oc=5)
 
 ---
 

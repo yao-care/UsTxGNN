@@ -36,11 +36,19 @@ This page brings together the latest health news about “UC” and lists the dr
 
 ## Related News (10)
 
-### [Menopause triggers sudden changes throughout the body, Israeli study finds](https://news.google.com/rss/articles/CBMiakFVX3lxTFBnNThwQmRKd0ladkwtb2pVcVBzZGFTN3BIQUFQRU5VcWd4VDVHOFExV0JkaG1qSXAtbUZoQnBYX0JzOGtjcDJ3c0hpYVhNRE5wQzI5d3F1VDhGLXNsRDVTVXdKeENpTzcwbkE?oc=5)
+### [Alpha-Gal Syndrome Spikes On Nantucket Over Summer As Lone Star Ticks Spread - Nantucket Current](https://news.google.com/rss/articles/CBMirwFBVV95cUxOS0FpbzVTSnR5OUoxWUZzWVZlaGdDOFZFNXVfSUF1VTRhLXF1cmlwMVJHS0U1RXlJbEYxcGJoWEZndW9iREtBck5nbWZuclR6cnR6bXpybFg1cG1LaUZuclphUGJxengyWTgxN2d0NlpqSDZkUTE5MUF6THduaVhOSVdhZ0I3N0NlRUtMUnNsTGs5dnlQRTdVazBMdlZmT0lWbjkzUVBYY0tsdlQ5S3E0?oc=5)
 
 2026-10-14
 
-Source: [Ynetnews](https://news.google.com/rss/articles/CBMiakFVX3lxTFBnNThwQmRKd0ladkwtb2pVcVBzZGFTN3BIQUFQRU5VcWd4VDVHOFExV0JkaG1qSXAtbUZoQnBYX0JzOGtjcDJ3c0hpYVhNRE5wQzI5d3F1VDhGLXNsRDVTVXdKeENpTzcwbkE?oc=5)
+Source: [Nantucket Current](https://news.google.com/rss/articles/CBMirwFBVV95cUxOS0FpbzVTSnR5OUoxWUZzWVZlaGdDOFZFNXVfSUF1VTRhLXF1cmlwMVJHS0U1RXlJbEYxcGJoWEZndW9iREtBck5nbWZuclR6cnR6bXpybFg1cG1LaUZuclphUGJxengyWTgxN2d0NlpqSDZkUTE5MUF6THduaVhOSVdhZ0I3N0NlRUtMUnNsTGs5dnlQRTdVazBMdlZmT0lWbjkzUVBYY0tsdlQ5S3E0?oc=5)
+
+---
+
+### [Scientists studied 1 million women before menopause—one pattern stood out - Yahoo Health](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeEpFYi1IRF90Vjh6LUpXY0hvTlVMeEk1U2lvZGU1d1ByUzBza1lGSlFTY2lxVTZtM3Q0UjNjOFhFMlZNcnZIbVpzSGhRS05obW1ENFltSGdoeWVTUG1VTWJRTDZIUjZHNE1TYy14VVdRNEl0VUE4cjYxOUlLRHpZNHg5SEUwcWh1N05UZnpDa3lxSFl3MGIzRjhsUS0wNUZfVGZiNmJjVlo1WlNCX1AxbE1DWEg1Q0xj?oc=5)
+
+2026-10-13
+
+Source: [Yahoo Health](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeEpFYi1IRF90Vjh6LUpXY0hvTlVMeEk1U2lvZGU1d1ByUzBza1lGSlFTY2lxVTZtM3Q0UjNjOFhFMlZNcnZIbVpzSGhRS05obW1ENFltSGdoeWVTUG1VTWJRTDZIUjZHNE1TYy14VVdRNEl0VUE4cjYxOUlLRHpZNHg5SEUwcWh1N05UZnpDa3lxSFl3MGIzRjhsUS0wNUZfVGZiNmJjVlo1WlNCX1AxbE1DWEg1Q0xj?oc=5)
 
 ---
 
@@ -52,27 +60,11 @@ Source: [New York Post](https://news.google.com/rss/articles/CBMingFBVV95cUxPcml
 
 ---
 
-### [Why a debate on declining sperm counts can spur conversations about overall health](https://news.google.com/rss/articles/CBMieEFVX3lxTE1UVnYtc3E1dTFsOTViZWxCNVlodmlzd1RwT2lfY0hFdk93Ml8yV3UwU2htWTVIcF8yZ09FY29VOU4xbC1SYllVa1RuLTdwWXI1eGZvcHFINHkxM2NaOHB1NHZ3WTg2Y1hUbEJLU0RKaGxReWR3OThvVw?oc=5)
-
-2026-10-13
-
-Source: [CNN](https://news.google.com/rss/articles/CBMieEFVX3lxTE1UVnYtc3E1dTFsOTViZWxCNVlodmlzd1RwT2lfY0hFdk93Ml8yV3UwU2htWTVIcF8yZ09FY29VOU4xbC1SYllVa1RuLTdwWXI1eGZvcHFINHkxM2NaOHB1NHZ3WTg2Y1hUbEJLU0RKaGxReWR3OThvVw?oc=5)
-
----
-
-### [The dying sun could tear the solar system apart sooner than thought](https://news.google.com/rss/articles/CBMic0FVX3lxTE5qZmlQN3V6dG5uUEVpX1JFbnF0OERoWnA3NDN1eDlydnJVWmV6TjVvSGJ4NnEyWUp1eFNoR1RLX2JvWlV3Nl9nb2xtVnpoMktHZGgtYVVaNW8yWlQ0LUJwSkEwdFlxWHZiSDEzVUJZYlVpVGM?oc=5)
+### [Here’s how much a flu vaccine may lower your dementia risk - The Washington Post](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQazJMeUhabVFtYlg4bWFtQ204bl9qY3hMN0xUYkh5QkhFNS1lNldpbFdOcFk1OUZFZ1FQZXZuUmxFX2stVHFDUXJqeHREWjZpdkNwTnh5aFlMdDBWMU5NbXdxMHRfTU1NUDM4NWhwdHc5a2pqTzdmcEt1QlpuOWUtdWhQOFZGbURka2tFeWV5bUxZbjlrNlpyVW5vM2ZGcFZiellZcGJVcXF0UXc?oc=5)
 
 2026-10-12
 
-Source: [Phys.org](https://news.google.com/rss/articles/CBMic0FVX3lxTE5qZmlQN3V6dG5uUEVpX1JFbnF0OERoWnA3NDN1eDlydnJVWmV6TjVvSGJ4NnEyWUp1eFNoR1RLX2JvWlV3Nl9nb2xtVnpoMktHZGgtYVVaNW8yWlQ0LUJwSkEwdFlxWHZiSDEzVUJZYlVpVGM?oc=5)
-
----
-
-### [‘I want to do everything I can to head off dementia’: why demand for the shingles vaccine is soaring - The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxORlBldlA1RTdhYTExcGRJak5mRGhUTWRqNW52WVYxZy1VbXN4VXJCQW9mM0lCa1AzOEVldlVUWDZYWElQSTRicC1PQ0p6WWh2dEpNREYxLWRsOEpLZ0pMamxWLUd0d2dPblBLMUtKQU1yQ3RNNm1adk9DbDU4dlhfY1VUTUlKUGl3WTFhMmFubkFTVURKRnhGdFc1dw?oc=5)
-
-2026-10-12
-
-Source: [The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxORlBldlA1RTdhYTExcGRJak5mRGhUTWRqNW52WVYxZy1VbXN4VXJCQW9mM0lCa1AzOEVldlVUWDZYWElQSTRicC1PQ0p6WWh2dEpNREYxLWRsOEpLZ0pMamxWLUd0d2dPblBLMUtKQU1yQ3RNNm1adk9DbDU4dlhfY1VUTUlKUGl3WTFhMmFubkFTVURKRnhGdFc1dw?oc=5)
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQazJMeUhabVFtYlg4bWFtQ204bl9qY3hMN0xUYkh5QkhFNS1lNldpbFdOcFk1OUZFZ1FQZXZuUmxFX2stVHFDUXJqeHREWjZpdkNwTnh5aFlMdDBWMU5NbXdxMHRfTU1NUDM4NWhwdHc5a2pqTzdmcEt1QlpuOWUtdWhQOFZGbURka2tFeWV5bUxZbjlrNlpyVW5vM2ZGcFZiellZcGJVcXF0UXc?oc=5)
 
 ---
 
@@ -84,11 +76,11 @@ Source: [News-Medical](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdm8t
 
 ---
 
-### [Star Wars-like planet of Earth’s size can actually support life - Yahoo Tech](https://news.google.com/rss/articles/CBMiigFBVV95cUxPcTZaNFUxdmNIckNLaHRyTThrZHRIeVhjaEhKZjVJcmp3UWUtS3pNV0dPLTlGM1FkWktqVWtqX2V0WmliRHZiRmtOYWpGRUJyNEE4VFdmTG1EZS1UQnRDamJNOFZlVFgxUUhwRnFFQVdXQkVCTEZEY2RsY1FjLXhlbl9lV0hydHIzN1E?oc=5)
+### [Star Wars-like planet of Earth’s size can support life, study finds - The Independent](https://news.google.com/rss/articles/CBMilAFBVV95cUxNSEtKSGpuZVo1THJrNmdYdXBMMkhEekRWSlQ5Qm9udkw1MC0yRnNzNm9LVXc3T0tIcXU4WGxSWnotWURVSkxudTE2RmEtbnZXMUxNTHRYN0N3cmpmMFNYZzNVU1A1aXJLcXNkYkhjVndoX210cmlveEpNYmk5T3BkcTdjYWxDS2JEcE1BQzJkX2UwRW9S?oc=5)
 
 2026-10-12
 
-Source: [Yahoo Tech](https://news.google.com/rss/articles/CBMiigFBVV95cUxPcTZaNFUxdmNIckNLaHRyTThrZHRIeVhjaEhKZjVJcmp3UWUtS3pNV0dPLTlGM1FkWktqVWtqX2V0WmliRHZiRmtOYWpGRUJyNEE4VFdmTG1EZS1UQnRDamJNOFZlVFgxUUhwRnFFQVdXQkVCTEZEY2RsY1FjLXhlbl9lV0hydHIzN1E?oc=5)
+Source: [The Independent](https://news.google.com/rss/articles/CBMilAFBVV95cUxNSEtKSGpuZVo1THJrNmdYdXBMMkhEekRWSlQ5Qm9udkw1MC0yRnNzNm9LVXc3T0tIcXU4WGxSWnotWURVSkxudTE2RmEtbnZXMUxNTHRYN0N3cmpmMFNYZzNVU1A1aXJLcXNkYkhjVndoX210cmlveEpNYmk5T3BkcTdjYWxDS2JEcE1BQzJkX2UwRW9S?oc=5)
 
 ---
 
@@ -105,6 +97,14 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMirAFBVV95cUxNN0dX
 2026-10-10
 
 Source: [NewsNation](https://news.google.com/rss/articles/CBMikAFBVV95cUxOdDczdEtHWUQ3QWxkTm9HQjJZR0p3WUVxR2FONHYtZWVXM3ppaE1OV256RFV3SWhleW1LVUF5YUw4RERYWWdRTzRuYjJ1VXVWRm1lMTFiQlhvZHF1NWtrWHJMOVhIaWk0QXhOSW56V0pkdEcyOEVPVWt5ekJiNkl0blFuSU5JWHdwWExPQXoxVFDSAZYBQVVfeXFMUG5wVU9UM2JpenNyUElTa2tjZFVWcWtzQ3NFdWJ4WTFndTZNWDRtTUQ3MWJRcXRHQkFMcHRTWndCemNQU2R2MWdXTEhnZ3BmVzNiSVVwVDZxaVFQS3dDTGViQ2k2c1dpbHlHdHF1QTJWd3ppdGVfaEtGX2tmcDE1eHFqV1M4c1NtZFFhaGZaVkcza2RTMHRn?oc=5)
+
+---
+
+### [Do you need to walk 10,000 steps a day? - The Economist](https://news.google.com/rss/articles/CBMingFBVV95cUxOSURybldtMmxJbEpGMDlNdGZXT29pS2t3RE1BMU83UEJVOHk0OUY0T3ZMaDlYVXA0WGxEblh3Y3Rmek5BUEpJZXIzMUMzT29vOEU4MDNLbmFuc0RvNGdVbjE4MzFldm5XekhCcTR3ak5YcUowaWZpcmsteVpjQ0VNN3NiOEJPbXdDM2hKZG1BUlAwNXRKMTNlQmZNb0VUZw?oc=5)
+
+2026-10-09
+
+Source: [The Economist](https://news.google.com/rss/articles/CBMingFBVV95cUxOSURybldtMmxJbEpGMDlNdGZXT29pS2t3RE1BMU83UEJVOHk0OUY0T3ZMaDlYVXA0WGxEblh3Y3Rmek5BUEpJZXIzMUMzT29vOEU4MDNLbmFuc0RvNGdVbjE4MzFldm5XekhCcTR3ak5YcUowaWZpcmsteVpjQ0VNN3NiOEJPbXdDM2hKZG1BUlAwNXRKMTNlQmZNb0VUZw?oc=5)
 
 ---
 

@@ -33,27 +33,34 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 ## One-Sentence Summary
 
-Captopril is a marketed oral ACE inhibitor antihypertensive. The TxGNN model predicts it may be useful for **malignant hypertensive renal disease**, but this rests on the model score alone. There are **0 registered clinical trials** and **1 publication**, a diagnostic case report that does not test captopril as treatment.
+Captopril is an ACE inhibitor originally used to treat hypertension and diabetic nephropathy.
+The TxGNN model predicts it may be effective for **malignant hypertensive renal disease**,
+but there are currently **0 registered clinical trials** and only **1 publication** (a diagnostic case report), so the support rests almost entirely on computational prediction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension (captopril is a marketed antihypertensive; the label text in the source data is blank) |
+| Original Indication | Hypertension, hypertensive disorder, diabetic nephropathy (from the knowledge graph; no approved indication text is available in the US license records) |
 | Predicted New Indication | Malignant hypertensive renal disease |
 | TxGNN Prediction Score | 99.28% |
-| Evidence Level | L4 (mechanistic rationale only; no supporting treatment study) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (all shown listings are generic ANDAs) |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no currently valid licences) |
+| Number of NDAs | 5 (all ANDA generic approvals, all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the Evidence Pack. Captopril is known to be an ACE inhibitor. It blocks angiotensin II formation, which lowers vasoconstriction and pressure inside the kidney's filtering units.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known information, captopril is an ACE inhibitor, and its efficacy in hypertension is established. Mechanistically, it may be applicable to malignant hypertensive renal disease, because the renin-angiotensin system (RAS) plays a central role in malignant hypertension and the associated kidney injury.
 
-Malignant hypertension damages the kidney through severe, renin-driven pressure injury (malignant nephrosclerosis). Blocking the renin-angiotensin-aldosterone system (RAAS) is therefore biologically plausible. This is a theoretical link, not something the retrieved evidence demonstrates.
+The new indication sits very close to the original one. Malignant hypertensive renal disease is a severe form of hypertension-related kidney damage, so this is largely an extension within captopril's existing indication space rather than a true repurposing case. The high score (0.993) is a computational prediction only.
 
-It is also unclear whether this counts as true repurposing. Captopril is already an antihypertensive, so this may be an extension of an existing use. The pack does not list the original indication, which makes it hard to judge how far the new indication departs from it.
+The single retrieved publication does not test treatment. It is a case report on captopril renography, a diagnostic procedure, in a patient with renal cell carcinoma and no renal artery stenosis. It therefore says nothing about therapeutic efficacy.
+
+Other predictions in the same analysis, for context (all rated Hold):
+- **Malignant renovascular hypertension** (score 99.28%, Evidence Level L4): RAS activation drives this condition, and captopril inhibits that pathway. Evidence is indirect or consists of old case series and reports, with no controlled data.
+- **Pulmonary hypertension, unclear multifactorial mechanism** (score 99.15%, L5): prediction only, with no trials and no literature.
+- **Pulmonary hypertension owing to lung disease and/or hypoxia** (score 99.15%, L5): the retrieved literature is largely off-target, and no study addresses captopril in this condition.
 
 ## Clinical Trial Evidence
 
@@ -63,40 +70,47 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [28902735](https://pubmed.ncbi.nlm.nih.gov/28902735/) | 2017 | Case report (diagnostic) | Clin Nucl Med | A patient had a positive captopril renography but no renal artery stenosis. The cause was a large chromophobe renal cell carcinoma, and renin-dependent hypertension resolved after nephrectomy. Captopril was used as a diagnostic tool, not as treatment. |
+| [28902735](https://pubmed.ncbi.nlm.nih.gov/28902735/) | 2017 | Case report | Clinical Nuclear Medicine | Positive captopril renography (a diagnostic test) in a patient whose CT showed intact renal arteries but a large chromophobe renal cell carcinoma. Renin-dependent hypertension resolved after nephrectomy. Not a study of therapeutic efficacy. |
+
+For the related prediction **malignant renovascular hypertension**, the literature is also indirect. The most relevant items are a 1984 clinical report on captopril in stable and malignant hypertension ([PMID 6145432](https://pubmed.ncbi.nlm.nih.gov/6145432/)) and a 1979 review of captopril as an ACE inhibitor ([PMID 392136](https://pubmed.ncbi.nlm.nih.gov/392136/)). Most other items concern diagnosis (captopril renography) or causes of hypertension rather than treatment.
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA212809 | Captopril (Bryant Ranch Prepack) | Tablet | Not stated in source data |
-| ANDA074505 | Captopril (Golden State Medical Supply) | Tablet | Not stated in source data |
-| ANDA074677 | Captopril (Method Pharmaceuticals) | Tablet | Not stated in source data |
-| ANDA074505 | Captopril (Hikma Pharmaceuticals USA) | Tablet | Not stated in source data |
-| ANDA074677 | Captopril (Amici Pharmaceuticals) | Tablet | Not stated in source data |
+| ANDA212809 | Captopril (Bryant Ranch Prepack) | Tablet | Not stated; licence cancelled |
+| ANDA074505 | Captopril (Golden State Medical Supply) | Tablet | Not stated; licence cancelled |
+| ANDA074677 | Captopril (Method Pharmaceuticals) | Tablet | Not stated; licence cancelled |
+| ANDA074477 | Captopril (Solco Healthcare US) | Tablet | Not stated; licence cancelled |
+| ANDA074737 | Captopril (Camber Pharmaceuticals) | Tablet | Not stated; licence cancelled |
 
-All listed products are oral tablets.
+All five authorizations are cancelled, and none is currently valid.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Package insert warnings and contraindications were not available in the data compiled for this report. Please refer to the package insert for label-based safety information.
 
-The pack notes one class-level concern from a related prediction: ACE inhibitors can cause acute renal failure in bilateral renal artery stenosis or a solitary kidney. No drug interactions were found in the queried database.
+- **Knowledge-graph contraindication signals** (from a computational knowledge graph, not label text): kidney disease, liver disease, pancreatitis, angioedema (including hereditary and ACE-inhibitor-related forms), systemic lupus erythematosus, diabetes mellitus and diabetic ketoacidosis, neutropenia and agranulocytosis, aortic stenosis, hypotensive disorder, hyperparathyroidism, hepatic encephalopathy, connective tissue disease, and potassium deficiency, among others.
+- **Drug Interactions**: 100 interactions were found in the DDI query. The listed ones are mostly Moderate, including:
+  - corticosteroids (hydrocortisone, dexamethasone, betamethasone, triamcinolone, budesonide)
+  - antidiabetic drugs (metformin, alogliptin, canagliflozin, dapagliflozin, empagliflozin, ertugliflozin, exenatide, chlorpropamide, acetohexamide)
+  - bupropion, morphine, aspirin, dronabinol
+  - Minor interactions: aluminum hydroxide, calcium carbonate
+- **Population-specific consideration**: ACE inhibitors carry a known risk of renal function deterioration in bilateral renal artery stenosis, which is relevant to the renovascular predictions. The literature also notes fetal effects of ACE inhibitors.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The high TxGNN score (99.28%) is a prediction only. No trials exist, and the single paper is a diagnostic case report with no therapeutic support. It is also unclear whether this is genuine repurposing.
-
-Among the other predictions, malignant renovascular hypertension (same score, more literature, and a stronger mechanistic fit) is the better candidate to follow up. Its evidence is still mostly indirect (diagnostic and review papers).
+The prediction score is high, but no clinical trials are registered, and the only retrieved publication is a diagnostic case report that does not assess treatment. The indication is also very close to captopril's existing uses, so it is not a clear new-use opportunity. In addition, all US licences are cancelled, and label safety data is missing.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications, which are currently blocking the safety screen
-- The drug's original indication and MOA data (e.g., from DrugBank)
-- Clinical or observational evidence of captopril used as treatment in malignant hypertensive nephropathy
-- A renal safety plan for patients with renal artery stenosis or a solitary kidney
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism-of-action data from DrugBank
+- Controlled or observational clinical data on captopril treating malignant hypertensive renal disease or malignant renovascular hypertension
+- A review of the renal safety risks (especially bilateral renal artery stenosis) and of the knowledge-graph contraindications in the target population
+- Confirmation of current US marketing availability, given that all licences are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

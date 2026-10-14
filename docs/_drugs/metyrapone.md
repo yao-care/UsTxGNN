@@ -29,80 +29,104 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Metyrapone: From Adrenal Cortisol Inhibition to Exercise-Induced Malignant Hyperthermia
+# Metyrapone: From a Diagnostic and Cushing's Syndrome Agent to Exercise-Induced Malignant Hyperthermia
 
 ## One-Sentence Summary
 
-Metyrapone is an oral drug that blocks cortisol production in the adrenal gland (11-beta-hydroxylase inhibition), and it is marketed in the US as Metopirone.
-The TxGNN model predicts it may be effective for **exercise-induced malignant hyperthermia**, but this rests on the model score alone.
-There are **0 clinical trials** and **0 publications** for this indication, so the prediction is not yet supported by evidence.
+Metyrapone is an oral inhibitor of cortisol synthesis, used as a diagnostic test of hypothalamic-pituitary function and occasionally to treat Cushing's syndrome.
+The TxGNN model predicts it may be effective for **exercise-induced malignant hyperthermia**, but **no clinical trials and no publications** support this prediction.
+The prediction rests on computational network proximity only, and no biological rationale was identified.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the regulatory record (the drug's known action is inhibition of adrenal cortisol synthesis) |
+| Original Indication | Not stated in the US license data. Pharmacology sources describe use as a diagnostic test of hypothalamic-pituitary function and occasional use in Cushing's syndrome |
 | Predicted New Indication | Exercise-induced malignant hyperthermia |
-| TxGNN Prediction Score | 99.95% (model rank 1807) |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 2 listings (both under NDA012911, from two manufacturers) |
+| TxGNN Prediction Score | 99.95% |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no active license) |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data from DrugBank is not available. Metyrapone is known to inhibit adrenal 11-beta-hydroxylase (CYP11B1), which lowers cortisol. Malignant hyperthermia is a different kind of disease. It is mainly a disorder of calcium handling in skeletal muscle, driven by variants in genes such as RYR1 and CACNA1S.
+Detailed mechanism-of-action data was not available in the data compiled for this report. Pharmacology data show that metyrapone targets CYP11B1 (11-beta-hydroxylase) and CYP11B2 (aldosterone synthase). Inhibiting these enzymes reduces cortisol synthesis, which explains its use in Cushing's syndrome and in testing pituitary-adrenal function.
 
-**No clear mechanistic link was found.** Cortisol synthesis inhibition is not a recognized way to modulate this pathway. The high score most likely reflects the knowledge graph placing malignant hyperthermia, related muscle diseases and hyperthermia phenotypes close together. It does not reflect a demonstrated pharmacological rationale.
+The predicted indication is mechanistically unrelated to this action. Malignant hyperthermia is a disorder of skeletal muscle calcium handling, mainly involving RYR1 and CACNA1S. Its acute treatment is dantrolene, which acts directly on the ryanodine receptor. No plausible link between steroidogenesis inhibition and this pathway was identified.
 
-The same pattern appears across the other top predictions. Most are RYR1-related myopathies or malignant hyperthermia variants, including malignant hyperthermia susceptibility, King-Denborough syndrome, central core myopathy and centronuclear myopathy. All are Level L5 with no trials or literature. Together they look like one cluster of graph-derived predictions rather than ten independent signals.
+The high TxGNN score most likely reflects proximity in the knowledge graph to a cluster of related myopathy nodes rather than biological rationale. This prediction should be treated as a computational hypothesis, not a supported lead.
+
+### Other Predicted Indications
+
+Nine other predictions were reviewed, and all lack clinical trials. Most are RYR1-related or other congenital myopathies, with no mechanistic link to metyrapone.
+
+| Rank | Predicted Indication | TxGNN Score | Evidence Level |
+|---|---|---|---|
+| 2 | Malignant hyperthermia, susceptibility to | 99.82% | L5 |
+| 3 | King-Denborough syndrome | 99.77% | L5 |
+| 4 | Central core myopathy | 99.72% | L5 |
+| 5 | Moderate multiminicore disease with hand involvement | 99.72% | L5 |
+| 6 | Congenital multicore myopathy with external ophthalmoplegia | 99.70% | L5 |
+| 7 | Myopathy, centronuclear | 99.47% | L5 |
+| 8 | Familial periodic paralysis | 99.40% | L4 |
+| 9 | Renal tubular acidosis | 99.28% | L5 |
+| 10 | Malignant hyperthermia of anesthesia | 99.23% | L5 |
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
-Currently no related literature available for exercise-induced malignant hyperthermia.
+For the top-ranked prediction (exercise-induced malignant hyperthermia), currently no related literature is available.
 
-One lower-ranked prediction, **familial periodic paralysis** (rank 8, score 99.40%, Level L4), did return two old papers. They are listed below for context only.
+The only publication identified across the ten predictions concerns the rank 8 prediction, familial periodic paralysis:
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [4322666](https://pubmed.ncbi.nlm.nih.gov/4322666/) | 1971 | Clinical physiology study | J Clin Invest | In one patient with hyperkalemic periodic paralysis, paralysis was induced by potassium chloride, corticotropin and several glucocorticoids. It was not induced by mineralocorticoids or by ACTH plus metyrapone. Metyrapone appears to have been used as a physiological probe, not as a treatment. |
-| [4301626](https://pubmed.ncbi.nlm.nih.gov/4301626/) | 1968 | Case report / small case series | Eur Neurol | Primary periodic paralysis with hyperkalemic and hypokalemic attacks and hemolytic bilirubinemia. No abstract is available, and the relevance to metyrapone is unconfirmed. |
+| [4322666](https://pubmed.ncbi.nlm.nih.gov/4322666/) | 1971 | Mechanistic/physiological study | The Journal of Clinical Investigation | In a 19-year-old man with hyperkalemic periodic paralysis, attacks were induced by potassium chloride, corticotropin-gel and several glucocorticoids, but not by mineralocorticoids or by ACTH-gel plus metyrapone. This is a mechanistic observation, not evidence of therapeutic efficacy. |
 
-Neither paper shows a therapeutic effect. A full-text review is needed before drawing any conclusion.
+---
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA012911 | Metopirone | Capsule, gelatin coated (oral) | ESTEVE Pharmaceuticals, S.A. |
-| NDA012911 | Metopirone | Capsule, gelatin coated (oral) | HRA Pharma Rare Diseases |
+| NDA012911 | Metopirone (ESTEVE PHARMACEUTICALS, S.A.) | Capsule, gelatin coated (oral) | Not stated in the license data. Status: cancelled |
 
-The record does not include approved-indication text.
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindication signals from the knowledge graph** (drug-disease edges in the TxGNN knowledge graph, not label text): Addison disease, chronic primary adrenal insufficiency, adrenal insufficiency, adrenocortical insufficiency, congenital adrenal hyperplasia, familial glucocorticoid deficiency, X-linked adrenal hypoplasia congenita, familial adrenal hypoplasia with absent pituitary luteinizing hormone, and inherited isolated adrenal insufficiency due to partial CYP11A1 deficiency. These are consistent with the drug's cortisol-lowering action.
+- **Drug interactions**: 10 interactions rated Moderate were found, with estrogens (ethinylestradiol, estradiol, conjugated estrogens, mestranol, esterified estrogens, estrone sulfate, and topical estradiol, conjugated estrogens and estrone sulfate) and with cyproheptadine. Pharmacology records also list CYP11B1 and CYP11B2 as targets.
 
-No drug interaction records were found in the queried source. Because metyrapone lowers cortisol, any speculative use raises the concern of adrenal insufficiency and electrolyte disturbance, such as low potassium. This concern comes from the pharmacology of the drug, not from a retrieved label.
+Package insert warnings and contraindications were not available. Please refer to the package insert for full safety information.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a very high model score but no clinical trials, no literature and no plausible mechanism linking cortisol synthesis inhibition to malignant hyperthermia. It is best treated as a likely graph-proximity artifact.
+The prediction has no clinical, registry or literature support and no plausible mechanism. Metyrapone's CYP11B1 inhibition is unrelated to the RYR1-driven calcium dysregulation underlying malignant hyperthermia. The US license is also cancelled, and adrenal-insufficiency-related safety signals add concern.
 
 **To proceed, the following is needed:**
-- The FDA package insert (warnings and contraindications), since safety screening cannot start without it
-- Detailed mechanism of action data from DrugBank
-- A targeted literature search covering metyrapone with RYR1 and calcium-handling biology, and a full-text review of the two periodic paralysis papers
-- If the team wants to pursue this direction, a preclinical mechanistic study before any clinical consideration
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism-of-action data from DrugBank
+- A biological hypothesis connecting steroidogenesis inhibition to muscle calcium handling, supported by preclinical data
+- Confirmation of the original approved indication from the license record
+- Route and similarity-to-original assessments, which are still pending
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

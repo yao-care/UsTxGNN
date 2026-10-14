@@ -29,89 +29,72 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Selenium: Repurposing Prediction for Sclerosing Cholangitis
+# Selenium: From an Unspecified Original Indication to Sclerosing Cholangitis
 
 ## One-Sentence Summary
 
-Selenium is a trace element marketed in the US in several forms, including pellets, injection and tablets. No original approved indication is recorded in the evidence pack.
-The TxGNN model predicts it may be relevant to **sclerosing cholangitis**, but there are **0 clinical trials** and only **5 publications**, none of which tests selenium as a treatment.
-
----
+Selenium is an essential trace element, marketed in the US mainly as selenious acid injection (trace-element supplementation) and as a homeopathic pellet. The label-derived indication text was not available in the data compiled for this report. The TxGNN model predicts it may be effective for **sclerosing cholangitis**, but there are currently **0 clinical trials** and only **5 publications**, all observational, preclinical or indirect, so the evidence is very limited.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Not available (approved indication text is empty in the compiled data) |
 | Predicted New Indication | Sclerosing cholangitis |
 | TxGNN Prediction Score | 99.04% |
-| Evidence Level | L4 (mechanism and association studies only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 3 authorizations in total (1 NDA, 1 ANDA, 1 unnumbered homeopathic product), all cancelled |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available for selenium, and no original indication is recorded. Selenium is a cofactor of glutathione peroxidase and other selenoproteins. An antioxidant or anti-fibrotic role in cholestatic liver injury is therefore biologically plausible.
+Detailed mechanism-of-action data is not available. Based on general knowledge, selenium is a cofactor of glutathione peroxidases and other selenoproteins. Antioxidant and anti-inflammatory effects on cholestatic liver injury are therefore plausible, but this has not been verified in the data compiled for this report.
 
-The literature links selenium to primary sclerosing cholangitis (PSC) only through association. One study examined hepatic copper and selenium retention in PSC patients. A dietary survey found poor fat-soluble vitamin intake in this population. A parenteral nutrition case report discussed oxidative stress in a patient with overlapping PSC and ulcerative colitis.
-
-Nothing shows that selenium supplementation changes the course of PSC. The high TxGNN score is a model prediction and is not backed by therapeutic evidence.
-
----
+The literature links selenium to primary sclerosing cholangitis (PSC) only as a matter of status. One 1995 study reported abnormal hepatic copper and selenium retention in PSC patients, and a 2025 study examined dietary intake in PSC. These are observational findings about selenium levels or intake. They do not show that giving selenium treats the disease. The very high TxGNN score (0.99) is a model output and has no supporting mechanistic or clinical confirmation here.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [9053974](https://pubmed.ncbi.nlm.nih.gov/9053974/) | 1995 | Observational | Scand J Gastroenterol | Studied trace element metabolism, including hepatic copper and selenium retention, in 32 PSC patients. Association only, not a treatment study. |
-| [39601354](https://pubmed.ncbi.nlm.nih.gov/39601354/) | 2025 | Observational | Liver Int | Dietary survey of people with PSC compared with Nordic nutrition recommendations. It reports poor fat-soluble vitamin intake and dietary quality. |
-| [29148959](https://pubmed.ncbi.nlm.nih.gov/29148959/) | 2017 | Case report | JPEN J Parenter Enteral Nutr | Parenteral nutrition with a lipid emulsion in a patient with severe malabsorption and overlapping PSC and ulcerative colitis. Discusses oxidative stress and antioxidant deficiency in liver disease. Indirect, not selenium-specific. |
-| [17109383](https://pubmed.ncbi.nlm.nih.gov/17109383/) | 2006 | Preclinical | Proteomics | Compared hepatic proteome changes in mouse models of toxin-induced fibrosis and sclerosing cholangitis. Mechanistic background only. |
-| [18941372](https://pubmed.ncbi.nlm.nih.gov/18941372/) | 2008 | Review | Eur J Cancer Prev | Review of colorectal cancer chemoprevention agents. Indirect relevance to this prediction. |
-
----
+| [9053974](https://pubmed.ncbi.nlm.nih.gov/9053974/) | 1995 | Observational | Scand J Gastroenterol | Trace element metabolism in 32 PSC patients; hepatic copper and selenium retention observed |
+| [39601354](https://pubmed.ncbi.nlm.nih.gov/39601354/) | 2025 | Observational | Liver Int | Dietary survey in PSC; poor fat-soluble vitamin intake and dietary quality |
+| [29148959](https://pubmed.ncbi.nlm.nih.gov/29148959/) | 2017 | Clinical case | JPEN J Parenter Enteral Nutr | Parenteral nutrition lipid emulsion and GGT monitoring in a patient with PSC and ulcerative colitis; not selenium-specific |
+| [18941372](https://pubmed.ncbi.nlm.nih.gov/18941372/) | 2008 | Review | Eur J Cancer Prev | Colorectal cancer chemoprevention; only indirect relevance, likely via PSC-associated colorectal cancer risk |
+| [17109383](https://pubmed.ncbi.nlm.nih.gov/17109383/) | 2006 | Preclinical | Proteomics | Hepatic proteome changes in murine models of fibrogenesis and sclerosing cholangitis |
 
 ## US Market Information
 
-The evidence pack lists 20 authorizations. Five are shown below. License numbers and approved indication text are not recorded for these entries. The pack also lists injection (solution), tablet and soluble tablet forms.
-
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| Not listed | Selenium Metallicum (Hahnemann Laboratories, Inc.) | Pellet | Not listed |
-| Not listed | Selenium metallicum (Boiron) | Pellet | Not listed |
-| Not listed | Selenium metallicum (Boiron) | Pellet | Not listed |
-| Not listed | Selenium metallicum (Boiron) | Pellet | Not listed |
-| Not listed | Selenium Muriaticum (Hahnemann Laboratories, Inc.) | Pellet | Not listed |
-
----
+| NDA209379 (cancelled) | Selenious Acid (American Regent) | Injection, solution | Not available |
+| ANDA219629 (cancelled) | Selenious Acid (Gland Pharma) | Injection, solution | Not available |
+| Not numbered (cancelled) | Selenium Metallicum (Hahnemann Laboratories) | Pellet | Not available |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug interaction records were found for selenium in the evidence pack.
+**Drug Interactions** (6 interactions found; mostly moderate):
+- **Major**: Dimercaprol
+- **Moderate**: Levofloxacin, Triethylenetetramine, Deferiprone, Tolevamer, Eltrombopag
 
----
+For other safety information, please refer to the package insert.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is very high, but there are no registered clinical trials, and the literature shows only association between selenium and PSC. Mechanism of action and safety data are also missing, so the prediction cannot be advanced to safety screening.
+The prediction rests only on a model score. There are no registered clinical trials, and the literature shows only altered selenium status in PSC, not a therapeutic effect. Selenium has no currently valid US license in the compiled data, and the original indication and safety labeling are not available.
 
 **To proceed, the following is needed:**
-- Detailed mechanism of action data for selenium (e.g., via DrugBank)
-- Package insert warnings and contraindications from the FDA website
-- Evidence that selenium supplementation affects PSC outcomes, such as preclinical cholestasis models or a pilot clinical study
-- Original indication and approved indication text for the marketed products
-- Route and formulation compatibility assessment for sclerosing cholangitis
+- FDA package insert warnings and contraindications, which are currently missing and block safety screening
+- Mechanism-of-action data (for example, from DrugBank) to assess a mechanistic link to sclerosing cholangitis
+- Preclinical or early clinical evidence that selenium supplementation changes the course of cholestatic liver disease
+- Confirmation of the current US regulatory and supply status, and of route and dosage-form compatibility
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

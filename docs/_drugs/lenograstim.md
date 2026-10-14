@@ -29,100 +29,78 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Lenograstim: From G-CSF Therapy to Primary Release Disorder of Platelets
+# Lenograstim: From G-CSF Neutrophil Support to Primary Release Disorder of Platelets
 
 ## One-Sentence Summary
 
-Lenograstim is a recombinant human granulocyte colony-stimulating factor (G-CSF) that acts on the neutrophil lineage and mobilizes hematopoietic stem cells.
-The TxGNN model predicts it may be relevant to **primary release disorder of platelets**, but the supporting evidence is very weak.
-The **13 matched clinical trials** are stem cell transplant, GVHD or unrelated trials that do not test lenograstim for this condition, and there are **0 publications**.
-
----
+Lenograstim is a recombinant human granulocyte colony-stimulating factor (G-CSF) that stimulates neutrophil production.
+The TxGNN model predicts it may be effective for **primary release disorder of platelets**,
+but **no clinical trials and no publications** currently support this direction, so the prediction rests on the computational model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Not available (the approved indication text is blank in the compiled regulatory records) |
 | Predicted New Indication | Primary release disorder of platelets |
 | TxGNN Prediction Score | 99.91% |
-| Evidence Level | L5 (model prediction only; the pack lists L4, but no matched study tests lenograstim for this indication) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 2 |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no currently valid license) |
+| Number of NDAs | 2 (both cancelled; one is BLA761134) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Lenograstim is recombinant human G-CSF. It stimulates neutrophil production and mobilizes hematopoietic stem cells. Detailed mechanism of action data is not available in the source record, and the approved indication text is also blank.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, lenograstim is a recombinant human G-CSF that acts through the G-CSF receptor to drive proliferation and differentiation of the neutrophil (granulocyte) lineage.
 
-A platelet release disorder is a defect in platelet granule release and function. G-CSF has no established action on this pathway. The very high TxGNN score is a graph-based association, most likely driven by shared hematologic and transplant-related neighbors in the knowledge graph. It is not evidence of a mechanistic link.
+Primary release disorder of platelets is a qualitative platelet function defect, not a shortage of white blood cells. No direct mechanistic link between G-CSF signaling and this condition is evident. The high TxGNN score (0.999) is a graph-based prediction, and nothing in the compiled data supports it with clinical or laboratory evidence. This prediction should therefore be treated as a hypothesis to be tested, not as a finding.
 
-The other three predictions are weaker still. No supporting mechanism, trials or literature were found for any of them.
+### Other Predicted Indications (for reference)
 
-| Predicted Indication | TxGNN Score | Evidence Level | Comment |
-|------|------|------|------|
-| Glanzmann thrombasthenia | 99.89% | L5 | Inherited defect of platelet integrin αIIbβ3, which G-CSF does not correct |
-| Pseudo-von Willebrand disease | 99.88% | L5 | Gain-of-function GPIbα variants, a pathway G-CSF does not act on |
-| Severe nonproliferative diabetic retinopathy | 99.61% | L5 | Only a speculative link through endothelial progenitor mobilization, and neovascularization could be a safety concern |
+| Rank | Predicted Disease | TxGNN Score | Evidence Level | Comment |
+|------|------|------|------|------|
+| 2 | Glanzmann thrombasthenia | 99.89% | L5 | Caused by a defect in platelet integrin αIIbβ3 (GPIIb/IIIa). G-CSF does not target this pathway, and neutrophil stimulation would not be expected to correct the defect. |
+| 3 | Pseudo-von Willebrand disease | 99.88% | L5 | Caused by a gain-of-function defect in platelet GPIbα. Lenograstim has no known action on this receptor or on VWF biology. |
+| 4 | Severe nonproliferative diabetic retinopathy | 99.61% | L5 | G-CSF has been discussed in endothelial progenitor cell mobilization and vascular repair, which is a speculative link. G-CSF could also promote pathological neovascularization, so the direction of effect is uncertain. |
 
----
+All four predictions have no supporting clinical trials or literature in the compiled data.
 
 ## Clinical Trial Evidence
 
-Thirteen trials were matched to this prediction and 10 are listed below. All 10 were graded C (low relevance). None shows that lenograstim was the intervention, and none addresses a platelet release disorder.
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT00281879](https://clinicaltrials.gov/study/NCT00281879) | Phase 2 | Terminated | 200 | Unrelated-donor stem cell transplant for hematologic malignancies |
-| [NCT04047628](https://clinicaltrials.gov/study/NCT04047628) | Phase 3 | Recruiting | 156 | Autologous stem cell transplant vs best available therapy in relapsing multiple sclerosis |
-| [NCT06859424](https://clinicaltrials.gov/study/NCT06859424) | Phase 2 | Recruiting | 358 | Post-transplant cyclophosphamide GVHD prophylaxis platform |
-| [NCT00245037](https://clinicaltrials.gov/study/NCT00245037) | Phase 1/2 | Completed | 147 | Non-myeloablative allogeneic transplant with busulfan, fludarabine and irradiation |
-| [NCT05170828](https://clinicaltrials.gov/study/NCT05170828) | Phase 1 | Withdrawn | 0 | Banked HLA-mismatched donor marrow with post-transplant cyclophosphamide; no data |
-| [NCT01335932](https://clinicaltrials.gov/study/NCT01335932) | Phase 2 | Completed | 160 | Ganciclovir for CMV reactivation in acute lung injury (antiviral trial) |
-| [NCT00043979](https://clinicaltrials.gov/study/NCT00043979) | Phase 2 | Completed | 60 | Allogeneic/syngeneic stem cell transplant in pediatric sarcomas |
-| [NCT04540120](https://clinicaltrials.gov/study/NCT04540120) | Phase 2 | Terminated | 49 | Oral dapansutrile for moderate COVID-19 with early cytokine release syndrome |
-| [NCT05436418](https://clinicaltrials.gov/study/NCT05436418) | Phase 1/2 | Recruiting | 260 | Dose-finding for post-transplant cyclophosphamide in GVHD prophylaxis |
-| [NCT00076752](https://clinicaltrials.gov/study/NCT00076752) | Phase 2 | Completed | 9 | Intensified lymphodepletion with autologous stem cell transplant in severe lupus |
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA761134 | RYZNEUTA (Acrotech Biopharma Inc) | Injection | Not specified in the data |
-| Not available | GUNA-GCSF (Guna spa) | Solution/drops | Not specified in the data |
+| Not available | GUNA-GCSF (Guna spa) | Solution / drops | Not available (cancelled) |
+| BLA761134 | RYZNEUTA (Acrotech Biopharma Inc) | Injection | Not available (cancelled) |
 
----
+Both authorizations are cancelled, so no lenograstim product currently has a valid US license in the compiled records.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug interaction records were found.
+No drug interactions were found in the queried database, and no disease contraindications were identified from the knowledge graph.
 
----
+Please refer to the package insert for safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The high TxGNN score is a graph-based association only. There is no plausible mechanism linking G-CSF to platelet release disorders, and none of the matched trials tests lenograstim for this condition. There is no literature. The 13 matched trials are stem cell transplant, GVHD or unrelated trials.
+The prediction is supported only by a model score, with no clinical trials, no literature and no plausible mechanistic link to a platelet function defect. In addition, no lenograstim product currently holds a valid US license, and the package insert safety data have not been obtained.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data from DrugBank
-- Approved indication text for the US licenses
-- Direct preclinical or clinical evidence that G-CSF affects platelet granule release or function
-- Review of the 3 matched trials that were not graded
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank to allow a proper mechanistic analysis
+- Original approved indication text for the drug
+- Preclinical or mechanistic studies showing any plausible effect of G-CSF on platelet function
+- Confirmation of the regulatory status and route compatibility if development is pursued
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

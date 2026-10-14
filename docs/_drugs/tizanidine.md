@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Tizanidine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1236
-evidence_level: L3
+evidence_level: L5
 indication_count: 6
 ---
 
 # Tizanidine
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,11 +29,11 @@ Evidence Level: **L3** | Predicted Indications: **6**
 
 </div>
 
-# Tizanidine: From Spasticity to Migraine Disorder
+# Tizanidine: From Spasticity Management to Migraine Disorder
 
 ## One-Sentence Summary
 
-Tizanidine is a marketed oral muscle relaxant, generally used for spasticity. The TxGNN model predicts it may be effective for **migraine disorder** (preventive use), with **2 clinical trials** (1 of them a directly relevant Phase 3) and **18 publications** retrieved. The evidence is early: the Phase 3 trial is still recruiting, and the published studies are mostly small, older, or review-level.
+Tizanidine is a centrally acting alpha-2 adrenergic agonist, which is a muscle relaxant class. The TxGNN model predicts it may be effective for **migraine disorder**, with **2 registered clinical trials** (only 1 directly relevant) and **16 publications** currently supporting this direction. Tizanidine's original FDA-labelled indication is not available in the data compiled for this report. The spasticity use mentioned here comes from general drug knowledge, not from the compiled data.
 
 ---
 
@@ -41,23 +41,28 @@ Tizanidine is a marketed oral muscle relaxant, generally used for spasticity. Th
 
 | Item | Content |
 |------|------|
-| Original Indication | Spasticity (general drug knowledge; the retrieved US license records contain no indication text) |
+| Original Indication | Not available in the compiled data (general knowledge: spasticity) |
 | Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 99.79% |
-| Evidence Level | L3 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (all listed records are ANDAs, i.e., generics) |
-| Recommended Decision | Hold |
+| Evidence Level | L1 (provisional; see note below) |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 9 (all ANDA generic applications, all cancelled) |
+| Recommended Decision | Proceed with Guardrails |
+
+**Note on the evidence level:** L1 normally requires at least 2 completed Phase 3 RCTs. The only Phase 3 trial (NCT05484349) has an "Unknown" status with no reported results, so L1 is provisional and should be verified against published trial results. Strictly by the rules, the evidence would be closer to L2 or L3: the one placebo-controlled RCT (2002) was in chronic daily headache, not strictly migraine.
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the source data. Tizanidine is generally described as a central alpha-2 adrenergic agonist. On that basis it may reduce trigeminal pain signalling and pericranial muscle tension. This mechanism has not been verified in this evidence package and should be treated as a hypothesis.
+Detailed mechanism of action data is not available in the compiled data. Based on known pharmacology, tizanidine is a central alpha-2 adrenergic agonist. Alpha-2 agonism can reduce trigeminovascular pain signalling and central sensitization, and may lower the muscle tension that contributes to headache. These effects give a plausible basis for migraine and chronic daily headache prevention.
 
-Clinically, tizanidine has been studied as an add-on preventive treatment in chronic daily headache, which includes chronic migraine. It has also been used in medication-overuse (analgesic rebound) headache. Several reviews list it among agents used for migraine and headache prevention, alongside topiramate and gabapentin. The link is therefore more than a knowledge-graph artifact, although the supporting studies are small and dated.
+Migraine and chronic daily headache share pain-processing pathways that tizanidine may modulate. A double-blind, placebo-controlled, multicentre study (PMID 12167135, 2002) tested tizanidine as add-on prevention in chronic daily headache (chronic migraine, migrainous headache or tension-type headache). Several reviews also list tizanidine among options studied for migraine prevention.
 
-The other five TxGNN predictions for tizanidine are weak. They are migraine with brainstem aura, migraine susceptibility (a genetic phenotype), atrophoderma vermiculata, Tourette syndrome, and ulerythema ophryogenesis. Only the general migraine prediction has any tizanidine-specific clinical evidence.
+**Caveats:**
+- The Phase 3 trial of tizanidine for migraine prevention has no reported results.
+- The 2002 study covers chronic daily headache, not strictly migraine.
+- Several of the supporting publications are general reviews that mention tizanidine only briefly.
 
 ---
 
@@ -65,63 +70,81 @@ The other five TxGNN predictions for tizanidine are weak. They are migraine with
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT05484349](https://clinicaltrials.gov/study/NCT05484349) | Phase 3 | Recruiting | 189 | Multicenter, randomized, double-blind, placebo-controlled trial of oral tizanidine for preventing migraine attacks in adults (18–65) with episodic migraine. Directly on target, but no results yet (est. completion Dec 2025). |
-| [NCT02403687](https://clinicaltrials.gov/study/NCT02403687) | N/A | Completed | 300 | PACE study: 24-week observational study of topical NSAIDs for pain. No sign that tizanidine or migraine is studied, so relevance is weak. |
+| [NCT05484349](https://clinicaltrials.gov/study/NCT05484349) | Phase 3 | Unknown | 189 | Multicentre, randomized, double-blind, placebo-controlled study of oral tizanidine for preventing migraine attacks in adults aged 18–65 with episodic migraine. Directly relevant, but no results are available. |
+| [NCT02403687](https://clinicaltrials.gov/study/NCT02403687) | N/A | Completed | 300 | 24-week observational study of topical NSAIDs for pain relief. It does not mention tizanidine or migraine, so relevance is low. |
 
 ---
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|---------|---------|
-| [12167135](https://pubmed.ncbi.nlm.nih.gov/12167135/) | 2002 | Double-blind RCT | Headache | Multicenter placebo-controlled study of tizanidine as adjunctive prophylaxis in chronic daily headache (chronic migraine, migrainous headache, tension-type headache). The retrieved abstract states the aim only, not the results. |
-| [11318882](https://pubmed.ncbi.nlm.nih.gov/11318882/) | 2001 | Open-label study | Headache | Open-label dose-titration study of tizanidine tablets for prophylaxis of chronic daily headache. |
-| [11903539](https://pubmed.ncbi.nlm.nih.gov/11903539/) | 2002 | Clinical study | Headache | Outpatient regimen of low-dose tizanidine plus NSAIDs for detoxification from analgesic rebound headache. |
-| [20464578](https://pubmed.ncbi.nlm.nih.gov/20464578/) | 2010 | Review | Neurol Sci | Critical review of double-blind placebo-controlled trials of chronic migraine prophylaxis. |
-| [12696998](https://pubmed.ncbi.nlm.nih.gov/12696998/) | 2003 | Review | CNS Drugs | Reviews baclofen, tizanidine and botulinum toxin A for migraine and tension-type headache prevention. Controlled trials are scarce, and results for botulinum toxin A are conflicting. |
-| [17115988](https://pubmed.ncbi.nlm.nih.gov/17115988/) | 2006 | Review | Headache | Prophylaxis of chronic daily headache. Tizanidine is named among the agents with some supporting evidence. |
-| [15115635](https://pubmed.ncbi.nlm.nih.gov/15115635/) | 2004 | Review | Curr Pain Headache Rep | Emerging migraine preventive options, including tizanidine. |
-| [21770931](https://pubmed.ncbi.nlm.nih.gov/21770931/) | 2011 | Review | Headache | Notes that tizanidine has been evaluated for chronic migraine prophylaxis, and that no drug was FDA-approved for the indication at that time. |
-| [23293866](https://pubmed.ncbi.nlm.nih.gov/23293866/) | 2013 | Review | Headache | Management of chronic migraine. Tizanidine is listed among options with less robust evidence than topiramate and onabotulinumtoxinA. |
-| [40983294](https://pubmed.ncbi.nlm.nih.gov/40983294/) | 2025 | Preclinical | J Control Release | Tizanidine–meloxicam supramolecular co-assembly designed to enhance anti-migraine efficacy. Formulation and preclinical work only. |
+|------|-----|------|------|---------|
+| [12167135](https://pubmed.ncbi.nlm.nih.gov/12167135/) | 2002 | RCT | Headache | Double-blind, placebo-controlled multicentre study of tizanidine versus placebo as add-on prevention in chronic daily headache |
+| [11318882](https://pubmed.ncbi.nlm.nih.gov/11318882/) | 2001 | Open-label study | Headache | Dose-titration study of tizanidine efficacy and tolerability for chronic daily headache prevention |
+| [11903539](https://pubmed.ncbi.nlm.nih.gov/11903539/) | 2002 | Clinical study | Headache | Low-dose tizanidine with NSAIDs for detoxification from analgesic rebound headache |
+| [12696998](https://pubmed.ncbi.nlm.nih.gov/12696998/) | 2003 | Review | CNS Drugs | Muscle-tone drugs (baclofen, tizanidine, botulinum toxin A) as migraine and tension-type headache prevention. Well-controlled data are sparse, and botulinum toxin has the most data. |
+| [15115635](https://pubmed.ncbi.nlm.nih.gov/15115635/) | 2004 | Review | Current Pain and Headache Reports | Emerging migraine prevention options, including tizanidine |
+| [20464578](https://pubmed.ncbi.nlm.nih.gov/20464578/) | 2010 | Review | Neurological Sciences | Review of double-blind placebo-controlled trials of chronic migraine prophylaxis |
+| [31365643](https://pubmed.ncbi.nlm.nih.gov/31365643/) | 2019 | Consensus guideline | Arquivos de Neuro-Psiquiatria | Brazilian Headache Society consensus on chronic migraine treatment |
+| [17115988](https://pubmed.ncbi.nlm.nih.gov/17115988/) | 2006 | Review | Headache | Prophylactic treatment of chronic daily headache; tizanidine is among the agents evaluated |
+| [21770931](https://pubmed.ncbi.nlm.nih.gov/21770931/) | 2011 | Review | Headache | Clinical trials on medication overuse and prophylaxis; tizanidine is among the agents evaluated |
+| [40983294](https://pubmed.ncbi.nlm.nih.gov/40983294/) | 2025 | Preclinical/formulation | Journal of Controlled Release | Tizanidine–meloxicam supramolecular self-assembly designed to enhance anti-migraine efficacy |
 
 ---
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| ANDA091283 | Tizanidine | Tablet | Proficient Rx LP |
-| ANDA076416 | Tizanidine | Tablet | Bryant Ranch Prepack |
-| ANDA078868 | Tizanidine Hydrochloride | Capsule, gelatin coated | AvKARE |
-| ANDA210021 | Tizanidine Hydrochloride | Capsule | Nivagen Pharmaceuticals, Inc. |
-| ANDA076286 | Tizanidine | Tablet | AvPAK |
+All 9 US authorizations are generic (ANDA) applications and all are cancelled. The approved indication text is not available in the compiled data.
 
-All available forms are oral (tablet and capsule). The retrieved records contain no approved-indication text.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA091283 | Tizanidine (Proficient Rx LP) | Tablet | Not available |
+| ANDA076416 | Tizanidine (Bryant Ranch Prepack) | Tablet | Not available |
+| ANDA078868 | Tizanidine Hydrochloride (AvKARE) | Capsule, gelatin coated | Not available |
+| ANDA210021 | Tizanidine Hydrochloride (Nivagen Pharmaceuticals) | Capsule | Not available |
+| ANDA076286 | Tizanidine (AvPAK) | Tablet | Not available |
+
+Four more cancelled ANDAs exist (ANDA208187, ANDA213798, ANDA076533, ANDA212196). Available oral forms are tablets and capsules.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug-interaction records were found in the data source.
+- **Disease-related cautions (from the knowledge graph, not label text):** Contraindication links exist with liver failure, kidney disease, pyoureter, psychotic disorders (including schizophreniform and schizoaffective disorders), other mental disorders, and hypotensive disorder.
+- **Drug Interactions:** 100 interactions were found. Examples from the first 20 listed:
+  - **Major:** famotidine, morphine, cimetidine, dolasetron, obeticholic acid
+  - **Moderate:** hyoscyamine, loperamide, atropine, clarithromycin, dicyclomine, palonosetron, naltrexone, levofloxacin, metoclopramide, and others
+- **Additional guardrails noted in the evaluation:** sedation, hypotension, and hepatotoxicity (monitor liver enzymes). Strong CYP1A2 inhibitors such as fluvoxamine and ciprofloxacin are contraindicated.
+
+Please refer to the package insert for full warnings and contraindications, as label text was not available in the compiled data.
+
+---
+
+## Other Predicted Indications (Brief)
+
+| Predicted Indication | Score | Evidence Level | Recommendation | Comment |
+|------|------|------|------|------|
+| Migraine with brainstem aura | 99.71% | L4 | Hold | Only a breast-feeding recommendation review; no efficacy evidence |
+| Migraine with or without aura, susceptibility to | 99.54% | L3 | Research Question | Overlaps with migraine disorder; the literature is the same indirect set |
+| Atrophoderma vermiculata | 99.31% | L5 | Hold | Model prediction only |
+| Tourette syndrome | 99.17% | L4 | Hold | Class-level rationale from alpha-2 agonists; no specific data |
+| Ulerythema ophryogenesis | 99.13% | L5 | Hold | Model prediction only |
 
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Proceed with Guardrails**
 
 **Rationale:**
-Tizanidine has a plausible mechanism and a body of small, older headache-prevention studies, and a directly relevant Phase 3 migraine trial (NCT05484349) is underway. However, that trial has no results yet, and the evidence sits at L3 (research question stage). The package insert warnings and contraindications are missing, and this blocking gap prevents safety screening.
+A directly relevant Phase 3 placebo-controlled trial in migraine prevention exists, along with a placebo-controlled RCT in chronic daily headache and a plausible alpha-2 mechanism. However, the Phase 3 trial has no reported results and an unknown status. The L1 level is therefore provisional, and the interaction burden is large.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (blocking gap; download and parse the US label)
-- Verified mechanism of action data (e.g., from DrugBank)
-- Results of NCT05484349, and full-text review of the 2002 placebo-controlled chronic daily headache study (PMID 12167135)
-- A safety assessment for migraine populations, including interaction and sedation risks at preventive doses
-- Confirmation of whether the original US indication text (spasticity) matches the current label
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
+- Verify the results and current status of NCT05484349
+- Obtain FDA package insert warnings, contraindications and original indication text (currently missing)
+- Obtain detailed mechanism of action data from DrugBank
+- Confirm current US market availability, since all 9 ANDAs are cancelled
+- Define a safety monitoring plan covering sedation, hypotension, liver enzymes, and CYP1A2 inhibitor exclusion
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

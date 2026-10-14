@@ -29,37 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Plazomicin: From Complicated Urinary Tract Infection to Gonococcal Urethritis
+# Plazomicin: From Urinary Tract Infection to Gonococcal Urethritis
 
 ## One-Sentence Summary
 
-Plazomicin is an injectable aminoglycoside antibiotic marketed in the US as Zemdri, used against complicated urinary tract infections caused by resistant Gram-negative bacteria.
+Plazomicin is an aminoglycoside antibiotic, originally used to treat urinary tract infections.
 The TxGNN model predicts it may be effective for **gonococcal urethritis**,
-but there are currently **0 clinical trials** and **0 publications** supporting this direction, so it is a model-only prediction.
+but there are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Complicated urinary tract infection, including pyelonephritis (the label text was not in the supplied data) |
+| Original Indication | Urinary tract infection |
 | Predicted New Indication | Gonococcal urethritis |
 | TxGNN Prediction Score | 99.64% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 3 entries (all under NDA210303, from three different manufacturers) |
+| US Market Status | Cancelled only |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the source record. From general pharmacology, plazomicin is an aminoglycoside that binds the 30S ribosomal subunit and is bactericidal against Gram-negative bacteria. It is approved for resistant Enterobacterales infections of the urinary tract.
+Currently, detailed mechanism of action data is not available. Based on known information, plazomicin belongs to the aminoglycoside class, which acts against many Gram-negative bacteria, including Enterobacterales. Its efficacy in urinary tract infection is the basis of its original use.
 
-Gonococcal urethritis is a Gram-negative bacterial infection of the genitourinary tract, so a class-level link to antibacterial therapy is plausible. Another aminoglycoside, gentamicin, has been studied for gonorrhea. However, no plazomicin-specific laboratory, clinical, or literature evidence was supplied. The link is therefore plausible but unverified.
+*Neisseria gonorrhoeae* is also a Gram-negative pathogen, and other aminoglycosides (e.g., gentamicin) have been used in gonorrhea treatment. This gives the prediction a plausible antibacterial link. However, plazomicin has not been established for gonococcal infection, and current standard-of-care options are well defined. The high score (0.996) is a computational output only, and the US marketing authorization is cancelled, which further limits practical feasibility.
 
-Two practical concerns remain:
-- Plazomicin is IV-only and approved for a narrow indication, so its practical feasibility for a common outpatient infection is unclear.
-- Route compatibility with the new indication has not been assessed.
-
-The other six predictions from the model are weaker. Uterine inflammatory disease and xanthogranulomatous pyelonephritis have indirect links. Ureaplasma urethritis has a weak link. Hyperamylasemia, polyclonal hyperviscosity syndrome and congenital analbuminemia have no credible mechanism and are probably graph artifacts.
+Other predicted indications are weaker still. The closest to the approved use is xanthogranulomatous pyelonephritis (a Gram-negative-associated condition usually managed surgically, with antibiotics as an adjunct). Ureaplasma urethritis is unlikely to respond because Ureaplasma lacks a cell wall and aminoglycosides are not reliable against it. Hyperamylasemia, polyclonal hyperviscosity syndrome and congenital analbuminemia have no plausible antibacterial mechanism and are likely graph-based artifacts.
 
 ## Clinical Trial Evidence
 
@@ -71,29 +67,30 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA210303 | Zemdri (plazomicin) | Injection | Achaogen, Inc. |
-| NDA210303 | Zemdri (plazomicin) | Injection | Cipla Therapeutics Inc. |
-| NDA210303 | Zemdri (plazomicin) | Injection | Cipla USA Inc. |
+| NDA210303 | Zemdri (plazomicin) (Achaogen, Inc.; status: cancelled) | Injection | Not specified |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: 70 interactions were identified in total. Those listed below are from the first 20 records reviewed.
+  - **Major**: Magnesium sulfate, Mannitol
+  - **Moderate**: Amphotericin B (including lipid complex, cholesteryl sulfate and liposomal forms), other aminoglycosides and related antibiotics (kanamycin, neomycin, neomycin topical, vancomycin), proton pump inhibitors (rabeprazole, omeprazole, lansoprazole, dexlansoprazole, pantoprazole), aminosalicylates (mesalazine, balsalazide, olsalazine), acetylsalicylic acid, picosulfuric acid
+- **Class considerations**: Aminoglycoside nephrotoxicity and ototoxicity are class concerns. The interaction list above is consistent with this (combinations with other nephrotoxic or ototoxic agents). Please refer to the package insert for full safety information, including warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high (99.64%), but the evidence level is L5. No trials, no literature and no mechanism data support plazomicin for gonococcal urethritis, and the IV-only formulation makes practical use doubtful.
+The prediction has no supporting clinical trials or publications (evidence level L5). Although there is a plausible antibacterial link for gonococcal urethritis, standard-of-care options are well established, and the product's US authorization is cancelled. The remaining predicted indications lack a credible mechanism.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data from DrugBank
-- In vitro susceptibility data for plazomicin against *Neisseria gonorrhoeae*
-- A comparison with current standard gonorrhea therapy and a route-of-administration feasibility assessment
-- A literature and trial search specific to plazomicin and gonorrhea
+- Package insert warnings and contraindications (required before any safety screening)
+- Mechanism of action data
+- In vitro susceptibility data for *N. gonorrhoeae* and comparison with current standard-of-care agents
+- Any clinical or observational evidence in gonococcal urethritis
+- Assessment of the feasibility of reintroducing or re-licensing the product, given the cancelled US status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,86 +29,72 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Fomepizole: From Poisoning Antidote to Sclerosing Cholangitis
+# Fomepizole: From Ethylene Glycol/Methanol Poisoning to Sclerosing Cholangitis
 
 ## One-Sentence Summary
 
-Fomepizole is a marketed injectable drug that is generally known as an antidote for methanol and ethylene glycol poisoning (the US license records provided contain no indication text).
-The TxGNN model predicts it may be effective for **sclerosing cholangitis**, but this rests on the model score alone: **0 clinical trials** and **0 publications** support it.
-
----
+Fomepizole is an injectable alcohol dehydrogenase inhibitor, known as an antidote for ethylene glycol and methanol poisoning.
+The TxGNN model predicts it may be effective for **sclerosing cholangitis**,
+but there are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the license records provided (generally known use: antidote for methanol and ethylene glycol poisoning) |
+| Original Indication | No approved indication text is available in the US license records (general pharmacology: antidote for ethylene glycol and methanol poisoning) |
 | Predicted New Indication | Sclerosing cholangitis |
-| TxGNN Prediction Score | 99.28% (model rank 16015) |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 6 (all are generic ANDA-type authorizations) |
+| TxGNN Prediction Score | 99.28% |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 4 (all ANDAs, all cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the input. Fomepizole is generally known as a competitive alcohol dehydrogenase inhibitor. Its established use is in toxic alcohol poisoning, which is unrelated to bile duct disease.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, fomepizole is a competitive inhibitor of alcohol dehydrogenase and is used as an antidote in ethylene glycol and methanol poisoning.
 
-No plausible pathway from fomepizole to sclerosing cholangitis has been established in the provided data. Speculative links, such as effects on hepatic alcohol or aldehyde metabolism or on oxidative stress, are unverified. The high score (0.993) may reflect knowledge-graph topology rather than real biology, so it should not be read as evidence of efficacy.
+Sclerosing cholangitis is a chronic, cholestatic, immune-mediated biliary disease. No plausible mechanistic link between alcohol dehydrogenase inhibition and this disease can be established from the available data. One speculative route is alcohol dehydrogenase-mediated metabolism or oxidative stress in the biliary epithelium, but nothing in the data supports it, so it should not be treated as a finding.
 
----
+The score is very high and has no corroboration. It may reflect knowledge-graph artifacts and should be verified before any further work.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-The license records list no approved indication text, so that column is replaced by the manufacturer.
-
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA078537 | Fomepizole | Injection, solution | Navinta LLC |
-| ANDA078368 | Fomepizole | Injection, solution | American Regent, Inc. |
-| ANDA216791 | Fomepizole | Injection | Gland Pharma Limited |
-| ANDA216791 | Fomepizole | Injection | Sagent Pharmaceuticals |
-| ANDA078639 | Fomepizole | Injection, solution | Mylan Institutional LLC |
-
-All products are injectables. Only 5 of the 6 licenses are listed in the input.
-
----
+| ANDA078537 (Cancelled) | Fomepizole (Navinta LLC) | Injection, solution | Not specified |
+| ANDA078368 (Cancelled) | Fomepizole (American Regent, Inc.) | Injection, solution | Not specified |
+| ANDA216791 (Cancelled) | Fomepizole (Gland Pharma Limited) | Injection | Not specified |
+| ANDA078639 (Cancelled) | Fomepizole (Mylan Institutional LLC) | Injection, solution | Not specified |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Disease associations flagged in the knowledge graph (not label text)**: kidney disease, pyoureter, liver disease, gallbladder disease. These come from drug-disease contraindication edges in the TxGNN knowledge graph and need verification against the package insert. Liver and gallbladder disease are especially relevant to a biliary indication.
+- **Drug Interactions**: **Ethanol**, Major severity. This is expected, since fomepizole inhibits alcohol dehydrogenase, the enzyme that metabolizes ethanol.
 
----
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a knowledge-graph score, with no trials, no literature, and no established mechanism linking fomepizole to sclerosing cholangitis. The safety data are also missing, so safety screening cannot start.
+The only support is a computational prediction score. There are no clinical trials or publications, no mechanism data, and no plausible mechanistic link to sclerosing cholangitis. All US licenses are cancelled, and the knowledge graph flags liver and gallbladder disease as concerns.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (blocking; obtain from the FDA label)
-- Mechanism of action data (for example, from DrugBank)
-- A systematic search of PubMed, ClinicalTrials.gov and ICTRP for fomepizole in cholestatic or biliary disease
-- A testable mechanistic hypothesis, ideally supported by preclinical data, that connects alcohol dehydrogenase inhibition to bile duct injury or fibrosis
-- Route and regimen compatibility assessment: the product is injectable only, while sclerosing cholangitis is a chronic condition
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data (for example from DrugBank) and a mechanistic rationale linking alcohol dehydrogenase inhibition to biliary disease
+- Verification that the prediction is not a knowledge-graph artifact, plus a literature and trial search with broader terms
+- Preclinical evidence in a cholangitis model, if the prediction survives verification
+- Clarification of the original indication text and the reason for the cancelled licenses
+- Route compatibility assessment (the product is injectable only)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

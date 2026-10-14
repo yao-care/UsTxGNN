@@ -33,7 +33,9 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Nafarelin is a GnRH agonist nasal spray marketed in the US as Synarel. The TxGNN model predicts it may be effective for **Ambras type hypertrichosis universalis congenita**, but this is a graph-based prediction only, with **0 clinical trials** and **0 publications** supporting it. There is no plausible biological link, so this candidate is not recommended for further development.
+Nafarelin is a GnRH (gonadotropin-releasing hormone) agonist, originally used to treat endometriosis and central precocious puberty.
+The TxGNN model predicts it may be effective for **Ambras type hypertrichosis universalis congenita**,
+but there are currently **0 clinical trials** and **0 publications** supporting this prediction, so it is a model-only signal.
 
 ---
 
@@ -41,21 +43,27 @@ Nafarelin is a GnRH agonist nasal spray marketed in the US as Synarel. The TxGNN
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the license record; the Evidence Pack notes indicate endometriosis as a known nafarelin use |
+| Original Indication | Endometriosis; precocious puberty (the approved indication text on the US NDA record is blank, so these come from the knowledge graph used by the model) |
 | Predicted New Indication | Ambras type hypertrichosis universalis congenita |
 | TxGNN Prediction Score | 99.87% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 1 |
+| US Market Status | Cancelled only (no active marketing authorization) |
+| Number of NDAs | 1 (cancelled) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the record. Nafarelin is known to be a GnRH agonist. With continuous dosing it desensitizes pituitary GnRH receptors and suppresses the pituitary-gonadal axis, lowering sex hormone levels. That effect underlies its use in hormone-dependent conditions such as endometriosis.
+Currently, detailed mechanism of action data is not available in the compiled data. Based on known pharmacology, nafarelin is a peptide GnRH agonist that acts on the GnRH receptor (GNRHR). Continuous exposure suppresses gonadotropin release and therefore sex steroid production. This is why it works in hormone-dependent conditions such as endometriosis and central precocious puberty.
 
-Ambras syndrome is different. It is a congenital hair-growth disorder linked to genomic rearrangements at 8q22 (the TRPS1 region), not to hormone excess. Suppressing sex hormones would not be expected to correct a genetic defect of this kind. The very high TxGNN score (99.87%) most likely reflects graph proximity to other hair and hormone-related conditions rather than biology, so it should not be read as evidence of efficacy.
+The predicted indication, Ambras syndrome, is a congenital hypertrichosis linked to genomic rearrangements affecting regulation of the *TRPS1* gene. Its cause is developmental and genetic rather than driven by sex hormones. No established mechanistic link to GnRH-agonist-mediated hormonal suppression was identified. The high score appears to be a network-based association with no supporting clinical or literature data, so this prediction should be viewed as **speculative**.
+
+For context, the other top-ranked predictions are similarly weak:
+- **Hypertrichosis (rank 3):** Androgen suppression could in theory reduce androgen-dependent hair growth, but hypertrichosis is generally androgen-independent.
+- **Central precocious puberty 1 (rank 9):** This is already an original indication, so it is a rediscovery of a known use, not a new opportunity.
+- **Physiological sexual disorder (rank 7):** The only supporting paper is a 1994 study of endometriosis pain with nafarelin versus danazol, which is an existing indication rather than direct evidence for sexual dysfunction.
+- **Pelvic organ prolapse (rank 4):** Nafarelin-induced hypoestrogenism would be expected to worsen pelvic tissue integrity, so benefit is biologically unlikely.
 
 ---
 
@@ -67,7 +75,7 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for the lead prediction.
 
 ---
 
@@ -75,13 +83,16 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA 019886 | Synarel (Pfizer Laboratories Div Pfizer Inc) | Metered spray | Not listed in the record |
+| NDA019886 (cancelled) | Synarel (Pfizer Laboratories Div Pfizer Inc) | Metered spray | Not listed in the compiled data |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindication signals from the knowledge graph (not label text):** hypertensive disorder, hypertension, hyperglycemia, osteoporosis, postmenopausal osteoporosis, diabetes mellitus, diabetic ketoacidosis, substance abuse/dependence, obesity disorder, monogenic obesity. These should be verified against the official label.
+- **Drug interactions:** No drug-drug interactions were identified. The only pharmacology entry is the drug's target, the GnRH1 receptor (GNRHR).
+
+Please refer to the package insert for further safety information.
 
 ---
 
@@ -90,13 +101,14 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The top prediction has no trials, no literature and no plausible mechanism, so it stays at evidence level L5. The other nine predictions were also graded Hold. Only one of them, central precocious puberty (rank 9), has a strong mechanistic fit. It is probably an existing labeled use rather than true repurposing. The rank 7 candidate (physiological sexual disorder) has one indirect paper on endometriosis pain, which does not address sexual dysfunction directly.
+The prediction rests only on a network-based score, with no clinical trials, no literature, and no plausible mechanistic link between GnRH agonism and a genetically driven congenital hypertrichosis. The only US authorization is cancelled, which further limits practical development.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanistic evidence connecting GnRH-axis suppression to the *TRPS1*-related pathology of Ambras syndrome
+- Preclinical or case-level data in hypertrichosis or related hair disorders
+- Official FDA package insert warnings and contraindications for a full safety review
 - Mechanism of action data from DrugBank
-- Confirmation of the current labeled indications, including whether central precocious puberty is already on the label, since the license record has no indication text
-- Any direct biological or clinical evidence linking GnRH agonism to Ambras syndrome. Without it, this candidate should not advance.
+- Confirmation of current regulatory and supply status, given that the NDA is cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

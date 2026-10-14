@@ -29,80 +29,81 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Fenfluramine: From Seizures in Dravet and Lennox-Gastaut Syndromes to Proximal 16p11.2 Microdeletion Syndrome
+# Fenfluramine: From Obesity to Proximal 16p11.2 Microdeletion Syndrome
 
 ## One-Sentence Summary
 
-Fenfluramine (Fintepla) is a serotonin-releasing drug marketed in the US for seizures in developmental epileptic encephalopathies (Dravet syndrome and Lennox-Gastaut syndrome).
-The TxGNN model predicts it may be useful for **proximal 16p11.2 microdeletion syndrome**, but there are currently **0 clinical trials** and **0 publications** supporting this direction, so it remains a hypothesis-level research question.
-
----
+Fenfluramine was originally used to treat obesity, including monogenic obesity.
+The TxGNN model predicts it may be effective for **proximal 16p11.2 microdeletion syndrome**,
+but **no clinical trials and no publications** currently support this prediction, so it rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the US license record (the seizure indications above come from the drug's known marketed use) |
+| Original Indication | Obesity disorder, monogenic obesity (from the knowledge graph; no approved indication text on the US license) |
 | Predicted New Indication | Proximal 16p11.2 microdeletion syndrome |
 | TxGNN Prediction Score | 99.93% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
+| US Market Status | Cancelled only (no currently valid license) |
 | Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
----
-
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the supplied record. Based on general pharmacology, fenfluramine is a serotonin-releasing agent and 5-HT2 receptor agonist with anorectic (appetite-suppressing) effects.
+Currently, detailed mechanism of action data is not available. Based on known information, fenfluramine is a serotonin-releasing agent with an established appetite-suppressing effect in obesity. A later formulation has also shown antiseizure activity in developmental and epileptic encephalopathies.
 
-The 16p11.2 deletion syndrome includes hyperphagia and obesity, epilepsy, and autism-spectrum features. Fenfluramine's seizure indication and its appetite-suppressing effects overlap with two of these features, which gives a plausible but indirect link. This reasoning rests on general pharmacology, not on any trial or publication in this dataset.
+The 16p11.2 microdeletion is associated with hyperphagia, early-onset obesity, and neurodevelopmental features such as seizures and autism spectrum traits. Serotonergic modulation of appetite and neuronal excitability therefore offers a plausible, though unproven, link between the original use and this new indication.
 
-The model also ranked three other predictions highly: hypervitaminosis, obsolete hypertelorism, and frontorhiny. None has a credible mechanistic link, and all are likely knowledge-graph artifacts. Hypertelorism and frontorhiny are structural craniofacial conditions, and hypervitaminosis is managed by stopping the vitamin and giving supportive care. The 16p11.2 microdeletion syndrome is the only prediction with a biologically reasonable connection.
+This link rests only on the high TxGNN score. Cardiac valvulopathy and pulmonary hypertension risks, which led to the original market withdrawal, would need careful consideration in any repurposing effort.
 
----
+Other predictions from the model were also reviewed. They have weaker or no credible mechanistic support:
+- **Hypervitaminosis** (99.92%): no credible mechanism; likely a knowledge-graph artifact.
+- **Obsolete hypertelorism** (99.86%): a structural craniofacial feature, not a pharmacologically modifiable pathway.
+- **Frontorhiny** (99.78%): a congenital craniofacial malformation; a serotonin-releasing drug is not expected to correct it.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
-
----
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA212102 | Fintepla (UCB, Inc.) | Solution | Not stated in the record |
-
----
+| NDA212102 (cancelled) | Fintepla (UCB, Inc.) | Solution | Not available |
 
 ## Safety Considerations
 
-- **Cardiopulmonary risks**: Valvular heart disease and pulmonary arterial hypertension are known concerns with fenfluramine. Any future study in a new population would need to weigh them.
-- **Drug Interactions**: No interaction records were found in the query.
+- **Disease-related cautions (knowledge graph, not label text)**: the knowledge graph links fenfluramine with contraindication to hypertension, pulmonary hypertension, type 1 and type 2 diabetes mellitus, diabetic ketoacidosis, glaucoma, and substance abuse/dependence.
+- **Drug Interactions**: 100 interactions were identified. Examples of **Major** interactions include:
+  - Fentanyl
+  - Dextromethorphan
+  - Tramadol
+  - Alfentanil
+  - Almotriptan
+
+  **Moderate** interactions include abciximab, abiraterone, acalabrutinib, acarbose, codeine, dihydrocodeine, ibuprofen, ketorolac, salbutamol, formoterol, ethanol, pioglitazone, alogliptin, and albiglutide.
+- **Historical risk**: cardiac valvulopathy and pulmonary hypertension led to the original market withdrawal.
 
 Please refer to the package insert for full warnings and contraindications.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the model score and an indirect pharmacological argument. No trials or publications exist for this syndrome, and the known cardiopulmonary risks raise the bar for any new use.
+The prediction has a high model score and a plausible serotonergic link to the appetite and seizure features of 16p11.2 microdeletion. However, there are no trials or publications, the mechanism data are missing, and the historical cardiac and pulmonary safety concerns are serious. The other three predictions have no credible mechanistic support.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications
-- Mechanism-of-action data
-- Preclinical or literature evidence linking serotonergic activity to the seizure or appetite phenotypes of 16p11.2 deletion
-- A risk-benefit and cardiac monitoring plan for any exploratory study
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data
+- Preclinical or clinical evidence in 16p11.2 microdeletion syndrome
+- A cardiac and pulmonary safety monitoring plan (for example, echocardiography)
+- Clarification of the cancelled NDA status and the current regulatory pathway
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

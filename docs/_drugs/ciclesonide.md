@@ -29,79 +29,83 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Ciclesonide: From Inhaled Corticosteroid Use to Atopic Eczema
+# Ciclesonide: From Asthma and Allergic Rhinitis to Atopic Eczema
 
 ## One-Sentence Summary
 
-Ciclesonide is a corticosteroid prodrug marketed in the US as an inhaled aerosol (Alvesco) and a nasal spray (Omnaris).
-The TxGNN model predicts it may be effective for **atopic eczema**.
-**No clinical trials and no publications** currently support this direction, so it is a model prediction only.
+Ciclesonide is an inhaled and intranasal corticosteroid prodrug, originally used to treat asthma and allergic rhinitis.
+The TxGNN model predicts it may be effective for **atopic eczema**, but **0 clinical trials** and **0 publications** currently support this specific prediction, so it rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Asthma, allergic asthma, allergic rhinitis, vasomotor rhinitis (from the knowledge graph; the US label indication text is empty) |
 | Predicted New Indication | Atopic eczema |
 | TxGNN Prediction Score | 99.96% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 3 records (2 unique NDAs; NDA021658 is listed twice) |
+| US Market Status | Cancelled only (no currently valid authorizations) |
+| Number of NDAs | 2 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the input. Based on known pharmacology, ciclesonide is a glucocorticoid prodrug. It is converted to its active form, des-ciclesonide, which acts as a glucocorticoid receptor agonist.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, ciclesonide is an inhaled corticosteroid prodrug. It is converted in the body to the active metabolite des-ciclesonide, which acts as a glucocorticoid receptor agonist with anti-inflammatory activity. Its efficacy in allergic airway disease (asthma, allergic rhinitis) is established.
 
-Glucocorticoid receptor agonism suppresses type 2 inflammation. Atopic eczema is driven by this kind of inflammation, and topical corticosteroids are a standard drug class for the disease. This class-level link is why the prediction is biologically plausible.
+Atopic eczema is a chronic allergic inflammatory skin disease, and topical corticosteroids are standard therapy for it. A glucocorticoid anti-inflammatory mechanism is therefore plausible. The same rationale applies to the closely related predictions "dermatitis, atopic" (essentially the same disease, score 99.73%) and "contact dermatitis" (score 99.25%).
 
-Two caveats apply. The approved indication text is missing from the input, so the relationship to the original indications could not be assessed. The choice of route (inhaled or nasal versus topical skin delivery) and skin-specific pharmacology have not been addressed. The knowledge graph also lists "dermatitis, atopic" (rank 3, score 99.73%) as a separate entry for the same condition. The two entries should be merged in downstream review.
+However, the plausibility comes from class-level pharmacology, not from ciclesonide-specific data. Ciclesonide's available forms are an inhaler and a nasal spray, not skin products, and route compatibility has not been assessed. Other predictions in the list are of limited meaning as repurposing targets:
+- "2-hydroxyethyl methacrylate sensitization" is an allergic state rather than a typical treatment target.
+- "Asthma-related traits, susceptibility to" is a genetic trait that mostly reflects the existing asthma indication.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials registered for atopic eczema.
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for atopic eczema.
 
-## Other Predicted Indications
+For other predicted indications, the data compiled for this report contain only indirect items:
 
-| Rank | Predicted Indication | Score | Evidence Level | Note |
-|------|------|------|------|------|
-| 2 | 2-hydroxyethyl methacrylate sensitization | 99.76% | L5 | A hapten-driven allergy state, not a treatable disease for an inhaled corticosteroid. It likely reflects knowledge-graph proximity. Hold. |
-| 3 | Dermatitis, atopic | 99.73% | L5 | Duplicate of atopic eczema. |
-| 4 | Bronchitis | 99.70% | L4 | The only support is a Finnish COPD guideline ([PMID 25515181](https://pubmed.ncbi.nlm.nih.gov/25515181/), 2015). It is indirect evidence and does not show ciclesonide efficacy. |
-| 5 | Contact dermatitis | 99.25% | L4 | The only item is a case report ([PMID 22957490](https://pubmed.ncbi.nlm.nih.gov/22957490/), 2012). It describes systemic allergic dermatitis from inhaled budesonide, with patch-test cross-reactivity to ciclesonide. This is a safety signal, not therapeutic evidence. Hold. |
-| 6 | Asthma-related traits, susceptibility to | 99.13% | L5 | Describes genetic susceptibility rather than a treatable condition. Likely overlaps an existing indication or is an ontology artifact. Hold. |
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [25515181](https://pubmed.ncbi.nlm.nih.gov/25515181/) | 2015 | Review (guideline) | Basic & Clinical Pharmacology & Toxicology | Finnish guideline on diagnosis and pharmacotherapy of stable COPD (predicted indication: bronchitis). Indirect relevance only; no ciclesonide-specific evidence evident. |
+| [22957490](https://pubmed.ncbi.nlm.nih.gov/22957490/) | 2012 | Case report | Contact Dermatitis | Systemic allergic dermatitis caused by inhaled budesonide, with cross-reactivity on patch testing to ciclesonide (predicted indication: contact dermatitis). This is a hypersensitivity signal, not evidence of benefit. |
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA021658 | Alvesco | Aerosol, metered | Covis Pharma US, Inc |
-| NDA022004 | Omnaris | Spray | Covis Pharma US, Inc |
+| NDA021658 (cancelled) | Alvesco | Aerosol, metered | Not available |
+| NDA022004 (cancelled) | Omnaris | Spray | Not available |
+
+Both products were marketed by Covis Pharma US, Inc. and both authorizations are cancelled.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No warnings, contraindications, or drug interaction records were available.
+- **Disease associations flagged in the knowledge graph (not label text)**: herpes simplex virus keratitis, adrenocortical insufficiency, Addison disease, osteoporosis, postmenopausal osteoporosis, fungal infectious disease, dermatophytosis, ocular hypertension, glaucoma, parasitic infection. These are model-derived associations and need confirmation against the package insert.
+- **Drug Interactions**: 63 interactions were identified. The main ones are:
+  - **Major**: cladribine.
+  - **Moderate**: clarithromycin, miconazole, cobicistat, fostamatinib, abametapir (topical), fosamprenavir, atazanavir, amprenavir, ceritinib, boceprevir, conivaptan, and inhaled human insulin. Several of these are CYP3A4 inhibitors, which may raise corticosteroid exposure.
+  - **Minor**: formoterol, salbutamol, arformoterol.
+- **Hypersensitivity**: a case report documents cross-reactivity between budesonide and ciclesonide on patch testing, so corticosteroid contact allergy is a consideration.
 
-- **Cross-reactivity signal**: A published case report describes systemic allergic dermatitis from inhaled budesonide, with patch-test cross-reactivity to ciclesonide ([PMID 22957490](https://pubmed.ncbi.nlm.nih.gov/22957490/)). Corticosteroids can themselves sensitize, which matters for any skin-related use.
+Please refer to the package insert for warnings and contraindications, as this information was not available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high (99.96%), but there are no trials or literature for ciclesonide in atopic eczema. Package insert safety data is missing, which blocks safety screening. The only related published item is a sensitization case report.
+The TxGNN score is very high (99.96%), and the glucocorticoid mechanism is plausible for atopic eczema. However, there are no clinical trials or publications for this indication (evidence level L5). The US authorizations are all cancelled, label warnings are missing, and the available dosage forms (inhaler, nasal spray) are not suited to skin use.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, obtained from the FDA label
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
-- Approved indication text for each NDA, to confirm the original indications
-- A literature and trial search specific to ciclesonide in atopic eczema
-- A route and formulation assessment, since the marketed products are inhaled or nasal and not topical
-- A corticosteroid sensitization and cross-reactivity safety review
-- Merging of the duplicate "atopic eczema" and "dermatitis, atopic" entries
+- A literature and trial search specific to ciclesonide in atopic dermatitis
+- Assessment of route and formulation compatibility (topical delivery versus the existing inhaled and nasal forms)
+- Comparison with established topical corticosteroids to judge any added value
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

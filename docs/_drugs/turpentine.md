@@ -29,11 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Turpentine: From Topical Counterirritant to Multiple Endocrine Neoplasia
+# Turpentine: From No Recorded Indication to Multiple Endocrine Neoplasia
 
 ## One-Sentence Summary
 
-Turpentine is a volatile terpene mixture used topically as a counterirritant and rubefacient, and as a solvent. The TxGNN model predicts it may be effective for **multiple endocrine neoplasia**, but **no clinical trials and no publications** currently support this prediction. It is a knowledge-graph signal only.
+Turpentine is a mixture of terpenes (mainly alpha- and beta-pinene) that has been used as a solvent and historically as a topical counterirritant, but no approved indication is recorded for it in the data compiled for this report.
+The TxGNN model predicts it may be effective for **multiple endocrine neoplasia**, but **no clinical trials** and **no publications** currently support this direction.
+The prediction rests solely on a computational score.
 
 ---
 
@@ -41,22 +43,23 @@ Turpentine is a volatile terpene mixture used topically as a counterirritant and
 
 | Item | Content |
 |------|------|
+| Original Indication | Not recorded (no approved indication text in the license data) |
 | Predicted New Indication | Multiple endocrine neoplasia |
 | TxGNN Prediction Score | 99.60% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no valid licenses) |
+| Number of NDAs | 3 (all cancelled) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available, and DrugBank lists no original indications for turpentine. Turpentine is a mixture of terpenes, mainly alpha- and beta-pinene. In practice it is used as a counterirritant, a rubefacient and a solvent.
+Currently, detailed mechanism of action data is not available. Turpentine is a complex mixture of terpenes, used as a solvent and historically as a topical counterirritant. No original indication is recorded, so no link between an established use and the predicted one can be drawn.
 
-Multiple endocrine neoplasia (MEN1, MEN2) is a hereditary syndrome. It is driven by MEN1 or RET mutations that cause endocrine tumors. No credible mechanistic link between turpentine and this disease can be established. Some terpenes, including pinene, have preclinical antiproliferative reports in general cancer models. Nothing connects them to MEN-related tumorigenesis.
+No mechanistic link to multiple endocrine neoplasia can be established from the data compiled for this report. These syndromes are driven by germline mutations in MEN1 (menin), RET, or CDKN1B, and turpentine has no known target or pathway relevant to them.
 
-The high TxGNN score (0.996) comes from the knowledge graph alone. It does not show a biologically plausible pathway and should not be read as clinical support.
+The very high TxGNN score (0.996) is a computational prediction, not biological or clinical evidence. It may reflect knowledge-graph artifacts such as sparse drug connectivity or shared neighbouring nodes, and it should not be read as a biological signal.
 
 ---
 
@@ -74,26 +77,21 @@ Currently no related literature available.
 
 ## US Market Information
 
-The listed products are mostly homeopathic pellets. No approved indication text is recorded for any of them.
-
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| Not listed | Terebinthina (Boiron) | Pellet | Not stated |
-| Not listed | Terebinthina (Hahnemann Laboratories, INC.) | Pellet | Not stated |
-| Not listed | Terebinthina (Hahnemann Laboratories, INC.) | Pellet | Not stated |
-| M017 | Ling Nam Hak Kwai Oil | Oil | Not stated |
-| Not listed | Terebinthina (Hahnemann Laboratories, INC.) | Pellet | Not stated |
+| Not available | Terebinthina (Boiron) | Pellet | Not recorded (cancelled) |
+| M017 | Ling Nam Hak Kwai Oil (Ling Nam Medicine Factory (H.K.) Ltd.) | Oil | Not recorded (cancelled) |
+| M014 | ARTREX (Bioved Pharmaceuticals) | Cream | Not recorded (cancelled) |
 
-Across all 20 authorizations, the dosage forms include pellet, oil, liniment, cream (topical), liquid and solution.
+All three authorizations are cancelled, so no valid licenses remain.
 
 ---
 
 ## Safety Considerations
 
-- **Toxicity**: Turpentine is toxic when ingested or inhaled (CNS depression, aspiration pneumonitis, renal injury), and it is a skin sensitizer.
-- **Drug Interactions**: No interaction records were found.
+- **Known toxicity profile (general knowledge, not from label data):** turpentine is associated with aspiration hazard, CNS effects, renal effects and dermal effects.
 
-Please refer to the package insert for warnings and contraindications.
+The package insert warnings and contraindications were not available, and no drug-interaction records were found. Please refer to the package insert for safety information.
 
 ---
 
@@ -102,14 +100,14 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone (L5). There are no trials, no literature, and no plausible mechanistic link to MEN-related tumorigenesis. The known toxicity of turpentine adds a safety concern for any systemic use.
+The only support is a computational score, with no clinical trials, no literature, no mechanistic rationale and no valid US market authorization. Together with turpentine's known toxicity, this does not justify advancing the candidate.
 
 **To proceed, the following is needed:**
-- Mechanism of action data (MOA), for example from DrugBank
-- Package insert warnings and contraindications, to complete safety screening
-- Preclinical evidence linking turpentine or its terpene components to MEN1/RET-driven tumorigenesis
-- Route compatibility assessment, since the marketed forms are mostly topical, pellet or oil
-- A recheck of trial registries and literature to see whether any supporting evidence has appeared
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data, to test whether any plausible link to MEN1, RET or CDKN1B biology exists
+- Preclinical or mechanistic evidence for activity in multiple endocrine neoplasia
+- Review of the knowledge-graph prediction to rule out artifacts from sparse connectivity
+- Assessment of route compatibility and a safety plan, given turpentine's toxicity
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

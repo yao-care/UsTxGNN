@@ -33,69 +33,101 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Sonidegib (Odomzo) is an oral Hedgehog pathway inhibitor, used for advanced basal cell carcinoma (BCC).
-The TxGNN model predicts it may be effective for **medulloblastoma with extensive nodularity**, but this prediction currently has **0 clinical trials** and **0 publications** behind it. It is a model-only signal.
+Sonidegib is an oral Hedgehog pathway inhibitor, originally used to treat basal cell carcinoma (a skin cancer).
+The TxGNN model predicts it may be effective for **medulloblastoma with extensive nodularity**, but there are currently **0 clinical trials** and **0 publications** supporting this specific prediction.
+The prediction is biologically plausible but remains purely computational.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Basal cell carcinoma (from general knowledge; the license record has no indication text) |
+| Original Indication | Basal cell carcinoma (skin carcinoma) |
 | Predicted New Indication | Medulloblastoma with extensive nodularity |
 | TxGNN Prediction Score | 99.90% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
+| US Market Status | Cancelled only (no active authorization) |
 | Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
+---
+
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the input. Based on general knowledge, sonidegib inhibits Smoothened (SMO), a key transducer of Hedgehog signaling. Aberrant Hedgehog activation is the main driver of BCC, and this is the basis for sonidegib's use there.
+Sonidegib is a Smoothened (SMO) inhibitor. SMO is a key signal transducer of the Hedgehog pathway, and sonidegib suppresses aberrant Hedgehog signaling, the main driver of basal cell carcinoma. The data compiled for this report do not include a formal mechanism-of-action entry, so this description comes from the mechanistic analysis of the prediction.
 
-A subset of medulloblastomas is also driven by Hedgehog signaling, so the link is biologically plausible. However, the input contains no trials or literature for this indication. The prediction rests on the graph-based score and general pathway knowledge alone. The input also does not say whether the extensive-nodularity subtype is Hedgehog-dependent, so subtype-level applicability is unconfirmed.
+Medulloblastoma, particularly the SHH subgroup and the nodular/desmoplastic variant, is also driven by Hedgehog signaling. This shared pathway makes the TxGNN prediction biologically reasonable.
 
-Other predictions for this drug have more support. For "skin cancer", the input lists a completed randomized Phase 2 trial in advanced BCC (NCT01327053, n=230) and its 42-month follow-up (PMID 31545507). That evidence concerns BCC, which is likely on-label, and does not transfer to medulloblastoma.
+Several concerns remain open:
+- **Blood-brain barrier penetration:** it is unclear whether sonidegib reaches therapeutic levels in the brain.
+- **Pediatric safety:** premature growth plate closure is a concern, and medulloblastoma often occurs in children.
+- **Resistance:** downstream mutations (e.g., SUFU, GLI2) would make an SMO inhibitor ineffective.
+
+Other predictions for this drug are mostly related to skin cancer. The "skin cancer" prediction is supported by a Phase 2 randomized trial (NCT01327053, n=230), but it largely restates the existing basal cell carcinoma indication rather than a true repurposing finding. Other predictions, such as xeroderma pigmentosum, have only a single case report. They are not the focus of this report.
+
+---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials registered for medulloblastoma with extensive nodularity.
+
+---
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for medulloblastoma with extensive nodularity.
+
+---
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA205266 | Odomzo (Sun Pharmaceutical Industries, Inc.) | Capsule (oral) | Not listed in the input |
+| NDA205266 (cancelled) | Odomzo (Sun Pharmaceutical Industries, Inc.) | Capsule | Not specified in the compiled data |
+
+The only US authorization is cancelled, so product availability would need to be verified before any development work.
+
+---
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (Hedgehog/SMO inhibitor), not a conventional cytotoxic |
+| Cytotoxicity Classification | Targeted therapy (Hedgehog/SMO inhibitor) |
 | Myelosuppression Risk | Please refer to the package insert warnings and precautions |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Please refer to the package insert; class toxicities to watch include musculoskeletal effects |
-| Handling Protection | Please refer to the package insert; embryo-fetal risk is a known class concern for SMO inhibitors |
+| Monitoring Items | Musculoskeletal toxicity and creatine kinase (CK) elevation; other parameters per package insert |
+| Handling Protection | Embryo-fetal toxicity precautions are required; otherwise refer to the package insert |
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions:** The interaction screening found 100 interacting drugs in total. The first 20 returned are summarized below.
+  - **Major:** aprepitant, dexamethasone, clarithromycin, clotrimazole, cobicistat
+  - **Moderate:** cimetidine, metreleptin, miconazole, troglitazone, deferasirox
+  - **Minor:** acid-suppressing agents such as famotidine, ranitidine, nizatidine, omeprazole, esomeprazole, lansoprazole, dexlansoprazole, pantoprazole and rabeprazole
+- **Class concerns noted in the analysis:** musculoskeletal toxicity with CK elevation, embryo-fetal toxicity, and, for pediatric use, premature growth plate closure.
+
+Please refer to the package insert for the full warnings and contraindications, which were not available in the data compiled for this report.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The evidence level is L5. The prediction is model-only, with no trials or publications for medulloblastoma with extensive nodularity. The Hedgehog rationale is plausible but unverified for this subtype. The package insert has not been reviewed, so safety screening cannot start.
+The prediction is mechanistically plausible because medulloblastoma is Hedgehog-driven. However, there is no clinical or published evidence for this indication (Evidence Level L5). The US authorization is cancelled, and the pediatric safety and brain-penetration concerns are significant.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (obtain and parse the FDA label)
-- Mechanism of action data from DrugBank
-- Preclinical or clinical data on SMO inhibition in Hedgehog-driven medulloblastoma, especially the nodular subtype
-- Assessment of pediatric use and embryo-fetal toxicity risk, since medulloblastoma commonly occurs in children
+- Preclinical or clinical evidence of sonidegib activity in SHH-subgroup and nodular/desmoplastic medulloblastoma
+- Data on blood-brain barrier penetration
+- Assessment of resistance risk from downstream mutations (SUFU, GLI2)
+- A pediatric safety assessment, especially for growth plate effects
+- FDA package insert warnings and contraindications
+- Verification of current product availability, since the only US NDA is cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

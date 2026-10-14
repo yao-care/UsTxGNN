@@ -29,68 +29,92 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Titanium Dioxide: From UV Filter and Pigment to Drug-Induced Osteoporosis
+# Titanium Dioxide: From Topical Sun Protection and Homeopathic Use to Drug-Induced Osteoporosis
 
 ## One-Sentence Summary
 
-Titanium dioxide is an inert pigment, opacifier and UV filter, marketed in the US mainly in sunscreens and cosmetics.
-The TxGNN model predicts it may be effective for **drug-induced osteoporosis**, but this rests on the model score alone, with **0 clinical trials** and **0 publications** supporting the indication.
+Titanium dioxide is an inert mineral compound used mainly as a sunscreen ingredient and in a homeopathic preparation; no approved medical indication is recorded in the data compiled for this report.
+The TxGNN model predicts it may be effective for **drug-induced osteoporosis**, with a very high graph-based score.
+However, there are **0 clinical trials** and **0 relevant publications** supporting this prediction, so it is a model-only prediction.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the license records (products are sunscreens, cosmetics and a homeopathic pellet) |
+| Original Indication | No approved indication text recorded (products are a sunscreen lotion and a homeopathic pellet) |
 | Predicted New Indication | Drug-induced osteoporosis |
 | TxGNN Prediction Score | 99.9998% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 2 (both cancelled) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Titanium dioxide is used as a pigment, opacifier and UV filter, not as a drug that acts on a biological target. No pharmacological pathway links it to bone loss.
+Currently, detailed mechanism of action data is not available. Titanium dioxide is a poorly absorbed, chemically inert pigment and implant material. Its known uses are physical UV blocking in sunscreens and as a component of medical devices, not as a systemically active drug.
 
-The high TxGNN score (~1.0) reflects proximity in the knowledge graph, not biological evidence. Titanium is widely used in bone implants, but that is a property of the material and not a pharmacological effect on bone loss. The prediction is therefore **not mechanistically supported** by the available data.
+The review of this prediction found no plausible pharmacological pathway linking titanium dioxide to the treatment of osteoporosis. The very high TxGNN score (about 0.999998) appears to reflect proximity within the knowledge graph rather than a biological mechanism. Without trials, literature, or a mechanistic link, the prediction cannot be considered supported.
+
+Other top-ranked predictions show the same pattern: diabetic retinopathy, severe nonproliferative diabetic retinopathy, diabetic cataract, and several cataract subtypes (craniostenosis, mature, tetanic, immature, type 2 diabetes-associated, and cortical). All are at evidence level L5 with a Hold recommendation.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for drug-induced osteoporosis.
+
+For context, the second-ranked prediction (diabetic retinopathy) returned five publications. None shows a therapeutic effect of titanium dioxide:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [36197877](https://pubmed.ncbi.nlm.nih.gov/36197877/) | 2022 | Methods/Analytical | Analytical Chemistry | TiO2 microparticles used to purify plasma extracellular vesicles for diabetic retinopathy metabolic profiling (a laboratory tool, not a treatment) |
+| [41637842](https://pubmed.ncbi.nlm.nih.gov/41637842/) | 2026 | Review | J Trace Elem Med Biol | Review of metallic nanoparticles in diabetes mellitus; mechanistic and therapeutic perspectives, not specific to titanium dioxide treatment of retinopathy |
+| [38078945](https://pubmed.ncbi.nlm.nih.gov/38078945/) | 2023 | Methods/Analytical | Analytical Chemistry | Selective magnetic system for analysing circulating RNAs on extracellular vesicles and lipoproteins |
+| [39566751](https://pubmed.ncbi.nlm.nih.gov/39566751/) | 2025 | Preclinical/Imaging | Methods | Ultrasmall TiO2 nanoparticle-fluorescein conjugates evaluated for improved fundus fluorescein angiography (imaging, not therapy) |
+| [20059246](https://pubmed.ncbi.nlm.nih.gov/20059246/) | 2009 | Phantom/Device study | J Biomed Opt | Dynamic eye phantom for retinal oximetry calibration |
+
+---
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| M020 | Kiehls Since 1851 Dermatologist Solutions SuperFluid UV Mineral Defense Broad Spectrum SPF 50 Plus Sunscreen | Lotion | Not stated in record |
-| M020 | toty Ilumina CC Creamy Compact 3W | Cream | Not stated in record |
-| Not listed | Titanium metallicum (Boiron) | Pellet | Not stated in record |
-| M020 | bareMinerals ORIGINAL Liquid Mineral Foundation Broad Spectrum SPF 20 Sunscreen | Liquid | Not stated in record |
-| M020 | Cover Creme (Baxter of California) | Cream | Not stated in record |
+| M020 (cancelled) | Kiehl's Since 1851 Dermatologist Solutions SuperFluid UV Mineral Defense Broad Spectrum SPF 50 Plus Sunscreen | Lotion | Not recorded |
+| Not available (cancelled) | Titanium metallicum (Boiron) | Pellet | Not recorded |
+
+---
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
+
+No drug interaction records were found for this compound.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no trials, no literature and no plausible mechanism, so it is a graph-proximity signal only (L5). The drug's real uses (sunscreen, cosmetic pigment) are unrelated to bone metabolism.
-
-The other top predictions do not change this. Most are cataract or diabetic eye terms with no supporting data, and their near-identical scores likely come from shared graph neighbors rather than independent signals. The only literature found (for diabetic retinopathy) covers analytical methods and imaging, not treatment.
+The prediction rests only on a graph-based model score. There are no clinical trials, no supportive literature, and no plausible mechanism for titanium dioxide in drug-induced osteoporosis. The compound is inert and poorly absorbed, and its available literature concerns diagnostic and analytical tools rather than therapy. It also has no currently valid US licenses.
 
 **To proceed, the following is needed:**
-- Mechanism of action data (DrugBank) and a biological rationale linking titanium dioxide to bone loss
-- Preclinical evidence (in vitro or animal bone models) for drug-induced osteoporosis
-- Package insert warnings and contraindications, which are currently missing and block safety screening
-- Nanoparticle safety assessment before any therapeutic hypothesis
-- Route compatibility analysis: current products are topical or other non-systemic forms, and no route suitable for a bone indication has been identified
+- Mechanism of action data and a credible biological pathway linking titanium dioxide to bone metabolism
+- Preclinical evidence (in vitro or animal models) of an effect on drug-induced bone loss
+- Safety and warning information from FDA labeling, which has not been obtained
+- Evaluation of route compatibility, since current products are topical or homeopathic rather than systemic
+- Reassessment of whether graph-proximity artefacts explain the high scores across the osteoporosis, retinopathy, and cataract predictions
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

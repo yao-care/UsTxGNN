@@ -33,80 +33,72 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 ## One-Sentence Summary
 
-Risdiplam is an SMN2 pre-mRNA splicing modifier, marketed in the US as EVRYSDI and approved for spinal muscular atrophy.
+Risdiplam is an SMN2 pre-mRNA splicing modifier that is known as a treatment for spinal muscular atrophy, though the US license records compiled for this report do not list an indication text.
 The TxGNN model predicts it may be effective for **acne**, but there are currently **0 clinical trials** and **0 publications** supporting this direction.
-The prediction rests only on a computational score and has no mechanistic or clinical backing.
-
----
+The prediction rests on a model score alone and should be treated as a hypothesis.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Spinal muscular atrophy (the US license records contain no indication text) |
-| Predicted New Indication | Acne (disease) |
+| Original Indication | Spinal muscular atrophy (based on general knowledge of the drug; the license records contain no indication text) |
+| Predicted New Indication | Acne |
 | TxGNN Prediction Score | 99.45% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (the records show no currently valid license) |
 | Number of NDAs | 2 |
 | Recommended Decision | Hold |
 
----
-
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the record. Based on known information, risdiplam is an SMN2 pre-mRNA splicing modifier approved for spinal muscular atrophy. That indication concerns a genetic motor neuron disease, not a skin condition.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, risdiplam is a small-molecule modifier of SMN2 pre-mRNA splicing and is used for spinal muscular atrophy. That mechanism is not obviously related to acne.
 
-No established mechanistic link to acne was identified. Acne involves sebum production, follicular hyperkeratinization, *Cutibacterium acnes* colonization, and inflammation. None of these has a documented connection to SMN2 splicing modulation.
+No plausible link to acne biology can be established from the available data. Acne involves sebaceous gland activity, *Cutibacterium acnes* colonization, follicular hyperkeratinization and inflammation, and nothing here connects risdiplam to these processes.
 
-The high TxGNN score (0.9945) is a computational prediction, not evidence. It may reflect network topology or sparse-data artifacts in the knowledge graph. Because the record has no original-indication list or MOA data, the graph-based rationale cannot be checked against known pharmacology.
-
-A systemic, chronic-use drug is also an unlikely fit for a condition with many established, lower-risk treatments.
-
----
+The high score (rank 12,794 among predictions) may reflect knowledge-graph topology, such as shared gene or pathway neighbors, rather than a true biological relationship. Any link remains hypothetical and unverified.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA213535 | EVRYSDI | Powder, for solution | Genentech, Inc. |
-| NDA219285 | EVRYSDI | Tablet | Genentech, Inc. |
+| NDA213535 | EVRYSDI | Powder, for solution | Not listed in the records (status: cancelled) |
+| NDA219285 | EVRYSDI | Tablet | Not listed in the records (status: cancelled) |
 
-The powder for solution is listed under a non-oral route category, and the tablet is oral. Neither is a topical form, which is the route most acne treatments use.
+Both authorizations are held by Genentech, Inc. and are recorded as cancelled. The records should be checked against the current FDA database before any conclusion is drawn about market availability.
 
----
+## Cytotoxicity
+
+Omitted. Risdiplam is not an antineoplastic drug.
 
 ## Safety Considerations
 
-Package insert warnings and contraindications are not available in the record, and no drug interaction data were found. Please refer to the package insert for safety information.
+- **Drug Interactions**: Two moderate-level interactions were identified (DDInter):
+  - Metformin
+  - Methylnaltrexone
 
----
+For other safety information, please refer to the package insert.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The only support for this prediction is a high model score. There are no clinical trials, no literature, and no plausible mechanistic link between SMN2 splicing modulation and acne. Risdiplam's systemic, chronic-use profile also makes it a poor fit for a condition with many established, lower-risk treatments.
+The prediction is supported only by a model score, with no clinical trials, no literature and no identifiable mechanistic link to acne. Package insert safety data and mechanism data are also missing.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data from DrugBank, to test any link to acne pathways
-- Preclinical or mechanistic evidence connecting SMN2 splicing to acne pathogenesis
-- Route compatibility assessment, since only systemic forms exist
-- A benefit-risk comparison against existing acne therapies
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data (for example from DrugBank) to test whether any link to acne biology exists
+- Confirmation of current US marketing status, since both NDAs are recorded as cancelled
+- Preclinical or mechanistic evidence that risdiplam acts on acne-relevant pathways
+- A route-of-administration assessment for acne, since oral and solution forms are the only forms recorded
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

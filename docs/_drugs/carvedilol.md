@@ -33,38 +33,33 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 ## One-Sentence Summary
 
-Carvedilol is a marketed beta-blocker with alpha-1 blocking activity, used as a blood pressure-lowering drug.
-The TxGNN model predicts it may be effective for **malignant hypertensive renal disease**.
-There are currently **0 clinical trials** and **0 publications** supporting this specific prediction, so it is a model-only hypothesis.
+Carvedilol is a non-selective beta-blocker with alpha-1 blocking activity, originally used to treat hypertension.
+The TxGNN model predicts it may be effective for **malignant hypertensive renal disease**,
+but **0 clinical trials** and **0 publications** currently support this specific indication. This is a model prediction only, and it is closely tied to the drug's existing hypertension use.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension (general antihypertensive use; label indication text is not available in the supplied data) |
+| Original Indication | Hypertension (hypertensive disorder) |
 | Predicted New Indication | Malignant hypertensive renal disease |
 | TxGNN Prediction Score | 99.55% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (the five listed are all generic ANDAs) |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 9 (all cancelled; listed as ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the supplied data. Based on general pharmacology, carvedilol is a non-selective beta-blocker with alpha-1 blockade and vasodilatory activity. It lowers blood pressure, so a benefit in kidney injury caused by severe hypertension is biologically plausible. This link is not supported by the supplied data.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, carvedilol is a non-selective beta-blocker with alpha-1 blockade. Its blood-pressure-lowering effect is established in hypertension, and mechanistically it may be applicable to hypertension-related kidney damage.
 
-Malignant hypertensive renal disease is kidney damage from severely elevated blood pressure. Carvedilol is already used to treat hypertension, so this is closer to an extension within the same drug class than to true repurposing. The very high score (99.55%) reflects model confidence, not clinical proof.
+The high TxGNN score most likely reflects how close this disease sits to the original hypertension indication in the knowledge graph. Malignant hypertensive renal disease is essentially a severe complication of hypertension, so this is arguably an extension of the existing indication rather than true repurposing. No trials or literature were found for this specific indication.
 
-There are practical limits. Malignant hypertension is an emergency usually managed with titratable IV agents, so oral carvedilol is unlikely to be a primary option.
-
-The same model run also predicted four other indications:
-
-- **Malignant renovascular hypertension** (99.55%): the identical score suggests a shared graph neighborhood rather than independent evidence.
-- **Pulmonary hypertension, unclear multifactorial mechanism** (99.54%): beta-blockers are used cautiously in pulmonary hypertension because of possible harm to right ventricular function.
-- **Pulmonary hypertension owing to lung disease and/or hypoxia** (99.54%): carvedilol is non-selective and can cause bronchospasm in obstructive lung disease.
-- **Braddock syndrome** (99.37%): a rare syndrome with no defined link to carvedilol.
-
-All four are L5 with no supporting trials.
+Other predictions in the same list follow a similar pattern:
+- **Malignant renovascular hypertension** (99.55%): a subtype of hypertension; beta-1 blockade may reduce renin release. No direct evidence.
+- **Pulmonary hypertension, unclear multifactorial mechanism** (99.54%): beta-blockade is controversial in pulmonary arterial hypertension because of possible reduced cardiac output. No direct evidence.
+- **Pulmonary hypertension owing to lung disease and/or hypoxia** (99.54%): only indirect preclinical data, for example carvedilol reversing hypoxia-induced hypertension in rats (PMID 26291659). Evidence level L4, labelled a research question.
+- **Braddock syndrome** (99.37%): no clear mechanistic rationale can be established.
 
 ## Clinical Trial Evidence
 
@@ -72,38 +67,56 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for the top-ranked prediction (malignant hypertensive renal disease).
 
-Note: the 20 publications retrieved for the hypoxia-related pulmonary hypertension prediction are generic hypoxia papers (brain aging, cancer, altitude, multiple sclerosis). None mention carvedilol or pulmonary hypertension, so they do not count as evidence.
+For reference, the closest evidence found for the fourth-ranked prediction (pulmonary hypertension owing to lung disease and/or hypoxia) is mostly preclinical or indirect:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [19789971](https://pubmed.ncbi.nlm.nih.gov/19789971/) | 2009 | Review | Cardiovasc Drugs Ther | Beta-blocker effects on lung function in heart failure; addresses airway safety rather than pulmonary hypertension efficacy |
+| [26291659](https://pubmed.ncbi.nlm.nih.gov/26291659/) | 2015 | Animal study | Eur J Pharmacol | Carvedilol reversed hypertension induced by chronic intermittent hypoxia in rats |
+| [20508210](https://pubmed.ncbi.nlm.nih.gov/20508210/) | 2010 | Animal study | Am J Respir Crit Care Med | Adrenergic receptor blockade reversed right heart remodeling in pulmonary hypertensive rats |
+| [16639551](https://pubmed.ncbi.nlm.nih.gov/16639551/) | 2006 | Animal study | Pflugers Arch | Carvedilol inhibited right ventricular hypertrophy induced by chronic hypobaric hypoxia |
+| [24798657](https://pubmed.ncbi.nlm.nih.gov/24798657/) | 2014 | Crossover study (11 patients) | J Clin Hypertens | Nighttime carvedilol vs nifedipine on sleep blood pressure in hypertensive patients with sleep apnoea |
+| [10862260](https://pubmed.ncbi.nlm.nih.gov/10862260/) | 2000 | Review | Presse Med | Beta-blocker intoxication; carvedilol listed among the more toxic agents (safety context) |
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| ANDA204717 | Carvedilol Phosphate | Extended-release capsule | AvKARE |
-| ANDA077614 | Carvedilol | Film-coated tablet | A-S Medication Solutions |
-| ANDA078384 | Carvedilol | Film-coated tablet | Golden State Medical Supply, Inc. |
-| ANDA077614 | Carvedilol | Film-coated tablet | Northwind Health Company, LLC |
-| ANDA078384 | Carvedilol | Film-coated tablet | Golden State Medical Supply, Inc. |
+All nine US authorizations are cancelled, and none has approved-indication text on record.
 
-Both dosage forms are oral. Approved indication text was not provided in the data.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA204717 | Carvedilol Phosphate (AvKARE) | Capsule, extended release | Not available |
+| ANDA077614 | Carvedilol (A-S Medication Solutions) | Tablet, film coated | Not available |
+| ANDA078384 | Carvedilol (Golden State Medical Supply) | Tablet, film coated | Not available |
+| ANDA076373 | Carvedilol (Teva) | Tablet, film coated | Not available |
+| ANDA078786 | Carvedilol (Method Pharmaceuticals) | Tablet, film coated | Not available |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Package insert warnings and contraindications were not available in the data compiled for this report. Please refer to the package insert for full safety information.
+
+- **Contraindications suggested by the knowledge graph** (not label text): liver failure, bronchitis, asthma (including intrinsic and allergic), diabetes mellitus, diabetic ketoacidosis, hypotensive disorder, peripheral vascular disease and arterial disease, intermittent claudication, atrioventricular block, pulmonary emphysema, bronchial disease, Prinzmetal angina, sick sinus syndrome, anaphylaxis, and intraoperative floppy iris syndrome.
+- **Drug interactions** (100 recorded; main ones shown):
+  - **Major:** epinephrine.
+  - **Moderate:** corticosteroids (hydrocortisone, dexamethasone, betamethasone, triamcinolone, budesonide), hyoscyamine, atropine, bupropion, morphine, lorcaserin, canagliflozin, acetohexamide, and calcium salts (phosphate, acetate, carbonate, citrate).
+  - **Minor:** acetylsalicylic acid, aluminum hydroxide, attapulgite.
+- **Pulmonary hypertension and lung disease:** beta-blockade may reduce cardiac output and is a concern in airway disease, so tolerability needs clarification before any use in those populations.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high, but it is a model output only (L5), with no clinical trials and no drug-specific literature. Malignant hypertension is normally treated with IV agents, and carvedilol is already an established antihypertensive, so the added value is unclear.
+The prediction rests on knowledge-graph proximity alone, with no trials or literature for malignant hypertensive renal disease, and it largely overlaps with carvedilol's existing hypertension use. All US licenses are also cancelled, and label safety data is missing, which blocks safety screening.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data from DrugBank
-- Targeted literature search for carvedilol in hypertensive nephropathy and malignant hypertension
-- Clinical rationale for oral carvedilol in an emergency setting where IV therapy is standard
+- FDA package insert warnings and contraindications (currently a blocking gap)
+- Mechanism of action data (for example from DrugBank)
+- A literature and trial search specific to hypertensive kidney disease
+- Clarification of whether this is a true new indication or a subtype of the existing hypertension indication
+- For the pulmonary hypertension predictions, human safety and tolerability data on beta-blockade in lung disease
+- Confirmation of current US marketing status for the product
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

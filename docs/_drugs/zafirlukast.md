@@ -33,72 +33,87 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 ## One-Sentence Summary
 
-Zafirlukast is an oral leukotriene receptor antagonist. The literature in the Evidence Pack describes it as indicated for prophylaxis and treatment of chronic asthma.
-The TxGNN model predicts it may be effective for **bronchitis**, but this is a model prediction only, with **0 clinical trials** and **0 publications** retrieved for this indication.
+Zafirlukast is a cysteinyl leukotriene receptor antagonist originally used to treat asthma (including intrinsic and allergic asthma).
+The TxGNN model predicts it may be effective for **Bronchitis** (score 99.93%), but **no clinical trials and no publications** currently support this specific indication.
+The second-ranked prediction, **Obstructive Lung Disease**, is backed by **18 publications** (all reviews or pharmacology articles) and no clinical trials.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Chronic asthma (per literature; the US licence records contain no indication text) |
+| Original Indication | Asthma (including intrinsic asthma and allergic asthma) |
 | Predicted New Indication | Bronchitis |
 | TxGNN Prediction Score | 99.93% |
-| Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 14 (licences on record, including NDA and ANDA) |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | Cancelled only (all 4 authorizations cancelled) |
+| Number of NDAs | 4 (1 NDA and 3 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Based on the supplied literature, zafirlukast is a selective CysLT1 (cysteinyl leukotriene) receptor antagonist. Its efficacy in asthma has been described extensively in reviews.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, zafirlukast is a CysLT1 receptor antagonist. Cysteinyl leukotrienes promote bronchoconstriction, airway inflammation, and mucus secretion.
 
-Cysteinyl leukotrienes cause bronchoconstriction, mucus secretion, increased vascular permeability and eosinophil recruitment. Bronchitis shares airway inflammation and mucus hypersecretion with asthma, so blocking this pathway could plausibly help. This reasoning is an inference and is not supported by any retrieved study on bronchitis.
+Asthma and bronchitis are both inflammatory airway conditions in which mucus hypersecretion and airway narrowing play a role. This gives a plausible biological rationale for the prediction. However, the TxGNN score is a model output only. No trials or literature were found for bronchitis, so the mechanistic link cannot be verified from the available data.
 
-The TxGNN score is very high, but the knowledge-graph basis cannot be checked because the original indications and mechanism of action are missing. A high model score without supporting studies should be treated as a hypothesis only.
+The second prediction, obstructive lung disease, is more closely related to the approved use, since asthma is itself an obstructive airway disease. The supplied literature is mostly about asthma, so its support for any *new* obstructive disease claim is indirect. Only one article (PMID 10421833) directly addresses leukotriene pathway inhibitors in asthma and COPD.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials registered for bronchitis. No clinical trials were supplied for the second prediction (obstructive lung disease) either.
 
 ## Literature Evidence
 
-Currently no related literature available.
+No related literature is available for bronchitis.
+
+For the second-ranked prediction, **obstructive lung disease** (evidence level L4), the most relevant publications are listed below. All are reviews or pharmacology articles; no RCTs were supplied.
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [10421833](https://pubmed.ncbi.nlm.nih.gov/10421833/) | 1999 | Review | Clin Exp Allergy | Leukotriene pathway inhibitors (zafirlukast, montelukast, zileuton) in asthma and COPD; leukotrienes drive bronchial contraction, mucus production, and eosinophil recruitment |
+| [26385352](https://pubmed.ncbi.nlm.nih.gov/26385352/) | 2015 | Review | Curr Allergy Asthma Rep | Antileukotrienes improve symptoms in chronic respiratory diseases, especially asthma and allergic rhinitis |
+| [31544544](https://pubmed.ncbi.nlm.nih.gov/31544544/) | 2019 | Review | Expert Rev Respir Med | Update on leukotriene receptor antagonist treatment and leukotriene-related airway inflammation in asthma |
+| [11270943](https://pubmed.ncbi.nlm.nih.gov/11270943/) | 2001 | Review | Drugs | Zafirlukast 20 mg twice daily showed efficacy in double-blind placebo-controlled studies of up to 13 weeks in asthma |
+| [9463793](https://pubmed.ncbi.nlm.nih.gov/9463793/) | 1998 | Review | Drugs | Pharmacology and therapeutic potential of zafirlukast in chronic asthma |
+| [10023966](https://pubmed.ncbi.nlm.nih.gov/10023966/) | 1999 | Review | Lancet | Leukotriene-receptor antagonists act as a hybrid of anti-inflammatory and bronchodilator drugs, with activity across asthma severities |
+| [9647602](https://pubmed.ncbi.nlm.nih.gov/9647602/) | 1998 | Review | Am J Respir Crit Care Med | Preclinical pharmacology: zafirlukast is a potent, selective CysLT1 antagonist with about twice the affinity of LTD4 |
+| [11888331](https://pubmed.ncbi.nlm.nih.gov/11888331/) | 2002 | Pharmacokinetics review | Clin Pharmacokinet | Pharmacokinetic profile: peak plasma levels about 3 hours after oral dosing; efficacy at 20 to 40 mg twice daily |
+| [15648777](https://pubmed.ncbi.nlm.nih.gov/15648777/) | 2004 | Review | Ann Clin Lab Sci | Proposes broader roles for leukotriene blockers in asthma management and possible new applications |
+| [17691939](https://pubmed.ncbi.nlm.nih.gov/17691939/) | 2007 | Review | Curr Med Chem | Clinical application, effectiveness, and safety of antileukotriene drugs in chronic respiratory diseases |
 
 ## US Market Information
 
-The licence records contain no approved-indication text. The table therefore shows the manufacturer instead.
+All four US authorizations are currently cancelled, and no approved indication text is available in the data.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA213163 | Zafirlukast | Tablet, film coated | Aurobindo Pharma Limited |
-| NDA020547 | Zafirlukast | Tablet, coated | Strides Pharma Science Limited |
-| ANDA090372 | Zafirlukast | Tablet, film coated | American Health Packaging |
-| ANDA090372 | Zafirlukast | Tablet, film coated | Dr. Reddys Laboratories Limited |
-| NDA020547 | ACCOLATE | Tablet, film coated | Strides Pharma Science Limited |
-
-All listed products are oral tablets.
+| NDA020547 (Strides Pharma Science) | Zafirlukast | Tablet, coated | Not available |
+| ANDA213163 (Aurobindo Pharma) | Zafirlukast | Tablet, film coated | Not available |
+| ANDA090372 (American Health Packaging) | Zafirlukast | Tablet, film coated | Not available |
+| ANDA212475 (Bryant Ranch Prepack) | Zafirlukast | Tablet, film coated | Not available |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Package insert warnings and contraindications were not available in the data compiled for this report. Please refer to the package insert for full safety information.
 
-The literature in the Evidence Pack includes a review of liver injury associated with leukotriene antagonists (PMID 12879996). Hepatic monitoring should be considered in any development plan.
+- **Disease-level cautions (knowledge graph, not label text)**: The drug-disease contraindication links include liver disease, cirrhosis of liver, gallbladder disease, insomnia, anxiety, anxiety disorder, neurotic disorder, and dysthymic disorder. These should be verified against the official label.
+- **Drug Interactions**: 100 interactions were recorded. The first 20 returned include mostly Moderate-level interactions:
+  - Moderate: aprepitant, acetylsalicylic acid, metronidazole, budesonide (including nasal), saxagliptin, eliglustat, naltrexone, nateglinide, nitisinone, repaglinide, rosuvastatin, simvastatin, tinidazole
+  - Minor: sibutramine
+  - Unknown severity: pantoprazole, mesalazine, morphine, metformin, omeprazole
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The model score is very high, but no trials or publications support bronchitis, so this remains a model prediction only (L5). The pack lists the package insert warnings and contraindications as a blocking data gap, so safety screening cannot proceed.
+The bronchitis prediction rests on a model score alone (L5), with no trials or literature. The obstructive lung disease prediction has only indirect, review-level evidence (L4). All US authorizations are also cancelled, and the label safety data is missing.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (blocking), from the FDA label
-- Mechanism of action and original indication data, from DrugBank
-- A systematic search for bronchitis-specific trials and literature, including acute versus chronic bronchitis
-- A mechanistic and clinical case that separates bronchitis from the existing asthma use
-- Route compatibility assessment, which is pending
-
-**Note:** The second prediction, obstructive lung disease (including COPD), has more support. It is rated L3 with 19 publications, including two COPD-related clinical studies (PMID 12877822, PMID 11694805). Its study designs and sample sizes are unverified, and no trials are registered. It is a better candidate for follow-up as a research question.
+- Obtain and review the FDA package insert for warnings and contraindications, especially regarding liver disease, as flagged by the knowledge graph
+- Retrieve mechanism of action data (for example from DrugBank)
+- Search for clinical or observational studies of zafirlukast in bronchitis and in non-asthma obstructive lung disease (such as COPD)
+- Clarify why the US authorizations were cancelled and whether a product is available for further development
+- Assess route and dosage-form compatibility (currently only oral tablets are known)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

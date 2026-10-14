@@ -29,70 +29,94 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tinidazole: From Anti-Infective Therapy to Postmenopausal Atrophic Vaginitis
+# Tinidazole: From Giardiasis and Vaginal Infections to Postmenopausal Atrophic Vaginitis
 
 ## One-Sentence Summary
 
-Tinidazole is a 5-nitroimidazole anti-infective active against anaerobic bacteria and protozoa such as Trichomonas, Giardia and Entamoeba.
-The TxGNN model predicts it may be effective for **postmenopausal atrophic vaginitis**,
-but **0 clinical trials** and **0 publications** currently support this direction, so the prediction rests on the model alone.
+Tinidazole is an oral 5-nitroimidazole antimicrobial, originally used for protozoal and anaerobic infections such as giardiasis, amoebiasis, trichomoniasis and bacterial vaginosis.
+The TxGNN model predicts it may be effective for **postmenopausal atrophic vaginitis**, but **no clinical trials and no publications** currently support this prediction, so it is a model-only signal.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Giardiasis, bacterial vaginosis, vaginitis, vulvitis, vulvovaginitis, amoebiasis (*Entamoeba histolytica*), trichomoniasis (from the knowledge-graph indication list; no label text available) |
 | Predicted New Indication | Postmenopausal atrophic vaginitis |
 | TxGNN Prediction Score | 99.93% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 11 (generic ANDA approvals) |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 4 authorizations on record (1 NDA, 3 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, tinidazole is a 5-nitroimidazole antimicrobial. Its activity against anaerobes, protozoa and bacterial vaginosis pathogens is well established. Mechanistically, though, the link to the new indication is weak.
+Currently, detailed mechanism of action data is not available. Based on known information, tinidazole belongs to the 5-nitroimidazole class of antimicrobials. Its efficacy in infectious vaginitis and bacterial vaginosis is established.
 
-Atrophic vaginitis after menopause is driven mainly by estrogen deficiency, not by infection. An anti-infective has no clear disease-modifying role in it. The very high graph score most likely reflects the many vaginal-infection diseases neighbouring tinidazole in the knowledge graph, not a real therapeutic relationship.
+The prediction is probably not mechanistically grounded. Atrophic vaginitis after menopause is caused by estrogen deficiency, not infection, so an antimicrobial offers no clear rationale. The high score most likely reflects the closeness of "postmenopausal atrophic vaginitis" to the approved vaginitis indications in the knowledge graph. It should be treated as a graph-proximity artifact until proven otherwise.
 
-The other top-ranked predictions (vulvar ulceration, vulvar neoplasm, benign breast conditions) show the same pattern of genital-tract or breast graph proximity without supporting evidence. The one exception is AIDS (rank 5), which has indirect evidence: tinidazole treats co-infections common in people with HIV, and one trial explores microbiome modulation for HIV susceptibility. This evidence does not show that tinidazole treats AIDS itself.
+Other top-ranked predictions show a similar pattern. Ulceration of vulva and vulvar neoplasm follow the same anatomical-proximity logic. Several benign breast conditions have no plausible microbial driver. The AIDS-related predictions have only indirect relevance, through treatment of co-infections.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials registered for postmenopausal atrophic vaginitis.
+
+For reference, one trial was found for a lower-ranked prediction (AIDS):
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT03412071](https://clinicaltrials.gov/study/NCT03412071) | NA | Unknown | 125 | Pilot study of four antimicrobial products (three topical, one systemic) on the foreskin microbiome and HIV susceptibility in Ugandan men. Tinidazole's role is not shown in the data, and the trial does not test treatment of AIDS. |
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for postmenopausal atrophic vaginitis.
+
+The following publications were found for the lower-ranked AIDS prediction. They concern tinidazole in infections that commonly occur in people with HIV, not HIV outcomes:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [21931875](https://pubmed.ncbi.nlm.nih.gov/21931875/) | 2011 | Cohort | PLoS Negl Trop Dis | Retrospective analysis of 170 HIV-1-infected Japanese men with invasive amebiasis: clinical features and response to therapy |
+| [31324206](https://pubmed.ncbi.nlm.nih.gov/31324206/) | 2019 | Trial protocol | Trials | Randomized trial protocol on systemic and topical antimicrobials, penile microbiota and HIV susceptibility |
+| [34794678](https://pubmed.ncbi.nlm.nih.gov/34794678/) | 2022 | Review | Pediatr Clin North Am | Amebiasis and amebic liver abscess in children, including higher risk in people with HIV |
+| [35863010](https://pubmed.ncbi.nlm.nih.gov/35863010/) | 2022 | In vitro study | Microbiol Spectrum | Activity of 5-nitroimidazoles against 94 *T. vaginalis* clinical isolates compared with metronidazole |
+| [30789955](https://pubmed.ncbi.nlm.nih.gov/30789955/) | 2019 | Review | PLoS One | Epidemiological and clinical features of amoebic colitis in Barcelona, 2007-2017 |
+| [19632225](https://pubmed.ncbi.nlm.nih.gov/19632225/) | 2010 | Review | Exp Parasitol | Treatment options and prospects for new drugs against Cryptosporidium and Giardia |
+| [21097745](https://pubmed.ncbi.nlm.nih.gov/21097745/) | 2010 | Case report | Int J STD AIDS | Trichomonas presenting as vulval ulceration, fully resolved with oral tinidazole |
+| [16004628](https://pubmed.ncbi.nlm.nih.gov/16004628/) | 2005 | Case series | Int J STD AIDS | High-dose tinidazole plus a broad-spectrum antibiotic and clotrimazole for metronidazole-resistant trichomoniasis (11 cases) |
+| [8442923](https://pubmed.ncbi.nlm.nih.gov/8442923/) | 1993 | Clinical study | AIDS | Preliminary study of tinidazole, thiabendazole and cotrimoxazole versus placebo for AIDS diarrhoea in Zambia |
+| [33121364](https://pubmed.ncbi.nlm.nih.gov/33121364/) | 2021 | Case report | Int J STD AIDS | Successful tinidazole desensitization and treatment of trichomoniasis in a metronidazole-allergic patient |
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA202044 | Tinidazole | Film-coated tablet | Chartwell RX, LLC |
-| ANDA202489 | Tindazole | Film-coated tablet | Rising Pharma Holdings, Inc. |
-| ANDA203808 | Tinidazole | Tablet | Edenbridge Pharmaceuticals LLC. |
+| NDA021618 | Tinidazole (BioComp Pharma) | Film-coated tablet | Not available; status cancelled |
+| ANDA202044 | Tinidazole (Chartwell RX) | Film-coated tablet | Not available; status cancelled |
+| ANDA202489 | Tindazole (Rising Pharma) | Film-coated tablet | Not available; status cancelled |
+| ANDA203808 | Tinidazole (Edenbridge) | Tablet | Not available; status cancelled |
 
-All listed products are oral tablets.
+All four authorizations on record are cancelled, and all products are oral.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Disease associations flagged in the knowledge graph (not label text)**: epilepsy, neutropenia, agranulocytosis, peripheral nervous system disease and peripheral neuropathy.
+- **Drug Interactions**: 100 interactions were found, and the 20 listed are all Moderate. Notable examples include ethanol, amiodarone, capecitabine, paclitaxel, cabazitaxel, bortezomib, brentuximab vedotin, trastuzumab emtansine, ethinylestradiol, estradiol, atorvastatin, levodopa, amobarbital, butalbital and apalutamide.
+
+Please refer to the package insert for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trial or literature support (Evidence Level L5). The mechanistic link is weak, because atrophic vaginitis is estrogen-deficiency driven and not infectious. The high score likely reflects knowledge-graph proximity to vaginal infections.
+The prediction has only model support (L5). Atrophic vaginitis is a hormone-deficiency condition with no clear antimicrobial rationale, and the high score likely reflects graph proximity to infectious vaginitis. No trials or literature exist, and US licenses are all cancelled.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data from DrugBank
-- Any preclinical or clinical evidence for tinidazole in atrophic vaginitis, and a comparison with established estrogen-based treatments
-- Route compatibility assessment, since no route information has been evaluated for this indication
-- Consider re-prioritizing to the AIDS-related prediction (Evidence Level L4), which has indirect co-infection and microbiome evidence
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Mechanism of action data and a rationale for a non-infectious indication
+- Package insert warnings and contraindications
+- Evidence that a microbial or dysbiosis component of atrophic vaginitis responds to tinidazole
+- Comparison against standard care (local estrogen therapy)
+- Review of the knowledge-graph safety flags (neutropenia, neuropathy, epilepsy) for the target population
+- Route and formulation assessment, since a vaginal formulation is not among the listed products
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

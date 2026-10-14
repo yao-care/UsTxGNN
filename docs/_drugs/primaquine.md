@@ -29,90 +29,90 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-# Primaquine: From Malaria to Myiasis
+# Primaquine: From Plasmodium vivax Malaria to Myiasis
 
 ## One-Sentence Summary
 
-Primaquine is an 8-aminoquinoline antimalarial, used for radical cure of *P. vivax*/*P. ovale* malaria and to block *P. falciparum* transmission.
-The TxGNN model ranks **myiasis** (a fly-larvae infestation of tissue) as its top new-indication prediction.
-This prediction has **0 clinical trials** and **0 publications** behind it, so it is a model output only and no supporting evidence was found.
+Primaquine is an 8-aminoquinoline antimalarial, originally used for the radical cure of *Plasmodium vivax* malaria.
+The TxGNN model predicts it may be effective for **myiasis** (fly-larva infestation) with a very high score, but **0 clinical trials** and **0 publications** currently support this direction.
+The prediction rests on model output alone and has no biological rationale behind it.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Malaria (the US license records contain no indication text; this is based on primaquine's established use as described in the evidence pack) |
+| Original Indication | Plasmodium vivax malaria |
 | Predicted New Indication | Myiasis |
 | TxGNN Prediction Score | 99.76% |
-| Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 5 |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 3 |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, primaquine is an 8-aminoquinoline whose efficacy against *Plasmodium* parasites (liver-stage hypnozoites and mature gametocytes) is well established. The pack has no mechanistic link to fly larvae.
+Currently, detailed mechanism of action data is not available. Based on known information, primaquine acts on protozoan parasites, notably the liver stages and dormant hypnozoites of *P. vivax*/*P. ovale* and mature *P. falciparum* gametocytes, probably through oxidative stress mechanisms.
 
-Myiasis is an infestation by dipteran (fly) larvae, which are arthropods, not protozoa. Primaquine has no known activity against arthropods. The very high score (99.76%) most likely reflects the drug sitting close to antiparasitic drugs in the knowledge graph, not a pharmacological reason.
+Myiasis is a different kind of disease. It is an infestation by fly larvae, which are multicellular arthropods rather than protozoa. Treatment is normally larval removal, occlusion or debridement, with ivermectin sometimes used. Primaquine has no known activity against fly larvae.
 
-The same reasoning applies to the closely related predictions creeping myiasis, furuncular myiasis and wound myiasis (each about 99.7%). None has any trial or literature support.
+The high TxGNN score therefore looks like a graph-based artifact, probably driven by generic antiparasitic associations. The related subtypes (creeping, furuncular and wound myiasis) received nearly identical scores, which supports this reading. No mechanistic link between primaquine and myiasis could be identified.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
 Currently no related literature available.
 
+---
+
 ## US Market Information
 
-The license records contain no approved-indication text.
+All three US authorizations for primaquine are cancelled.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| NDA008316 | Primaquine Phosphate | Tablet, film coated | Sanofi-Aventis U.S. LLC |
-| ANDA206043 | Primaquine Phosphate | Tablet, film coated | Ingenus Pharmaceuticals, LLC |
-| ANDA206043 | Primaquine Phosphate | Tablet, film coated | AvKARE |
-| ANDA204476 | Primaquine Phosphate | Tablet | Unichem Pharmaceuticals (USA), Inc. |
-| ANDA204476 | Primaquine Phosphate | Tablet | PD-Rx Pharmaceuticals, Inc. |
+| Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
+|---------|------|------|------|------|
+| NDA008316 | Primaquine Phosphate | Tablet, film coated | Sanofi-Aventis U.S. LLC | Cancelled |
+| ANDA206043 | Primaquine Phosphate | Tablet, film coated | Ingenus Pharmaceuticals, LLC | Cancelled |
+| ANDA204476 | Primaquine Phosphate | Tablet | Unichem Pharmaceuticals (USA), Inc. | Cancelled |
 
-All products are oral tablets. The official label warnings and contraindications were not captured in this pack.
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindication signals (from drug–disease knowledge graph, not label text)**: neutropenia, agranulocytosis, G6PD deficiency, hemolytic anemia, methemoglobinemia due to methemoglobin reductase deficiency, glycogen storage disease, cystinuria, galactosemia, pyruvate dehydrogenase E3 deficiency.
+- **Drug Interactions**: 100 interactions were recorded. Examples from the first 20 returned:
+  - **Major**: dolasetron.
+  - **Moderate**: clarithromycin, levofloxacin, ondansetron, palonosetron, granisetron, famotidine, alosetron, loperamide, and several laxatives and bowel-preparation agents (bisacodyl, picosulfuric acid, polyethylene glycol, lactulose, lactitol, sodium sulfate, magnesium citrate, glycerin, castor oil).
+  - **Minor**: metronidazole.
 
-Safety points from the supporting evidence for other primaquine indications (not from the label):
-- **Hemolysis in G6PD deficiency**: G6PD testing before use is emphasized throughout the literature and trials.
-- **Methemoglobinemia**: reported in the literature, including a 2025 case report.
-- **Pregnancy and lactation**: use is restricted. A Phase 2/3 pharmacokinetic study in lactating women (NCT07060404) has not yet started recruiting.
+Please refer to the package insert for full warnings and precautions.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The myiasis prediction is model-only (L5): no trials, no literature, and no plausible mechanism, because primaquine acts on *Plasmodium* and not on arthropod larvae. It should not be advanced.
-
-**Other predictions in the pack:**
-
-| Predicted Indication | Score | Evidence Level | Decision | Note |
-|------|------|------|------|------|
-| Pneumocystosis | 99.32% | L1 | Proceed with Guardrails | Clindamycin plus primaquine is an established second-line regimen. It is supported by a completed Phase 3 trial (NCT00000640, n=290) and by systematic reviews and guidelines. |
-| Malaria | 99.38% | L2 | Proceed with Guardrails | This is primaquine's on-label core use, not true repurposing. |
-| Toxoplasmosis | 99.64% | L4 | Hold | Only indirect review mentions. |
-| Nocardiosis | 99.42% | L5 | Hold | Bacterial infection, no mechanism and no evidence. |
-
-Pneumocystosis is the only genuine repurposing candidate with strong evidence.
+The myiasis prediction has no clinical trials, no literature and no plausible mechanism. Its Evidence Level is L5, and all US licenses are cancelled. The hemolysis risk in G6PD deficiency adds further caution, so there is no basis for advancing this indication.
 
 **To proceed, the following is needed:**
-- Do not pursue the myiasis group unless independent preclinical or clinical evidence appears.
-- Obtain the FDA package insert (warnings and contraindications) to fill the label safety gap.
-- Obtain mechanism of action data from DrugBank.
-- If pursuing pneumocystosis, define guardrails: second-line use only when TMP-SMX cannot be used, mandatory G6PD screening, and methemoglobin monitoring.
+- Any preclinical or mechanistic evidence of primaquine activity against fly larvae. Without it, further investment is not justified.
+- Detailed mechanism of action data for primaquine.
+- Full package insert warnings and contraindications.
+- Verification of current product availability in the US.
 
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
+Other predictions for this drug are better supported and may deserve review first. **Malaria** (L1, 40 registered trials) is essentially an on-label or extension use. **Pneumocystosis** (L1) is supported by older Phase 3 data on clindamycin plus primaquine as a second-line regimen. Both would need G6PD screening as a guardrail.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

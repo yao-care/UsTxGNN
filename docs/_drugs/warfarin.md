@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Warfarin
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1298
-evidence_level: L4
+evidence_level: L5
 indication_count: 7
 ---
 
 # Warfarin
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **7** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,12 +29,13 @@ Evidence Level: **L4** | Predicted Indications: **7**
 
 </div>
 
-# Warfarin: From Anticoagulation to Heparin Cofactor II Deficiency
+# Warfarin: From Thrombotic Disease to Thrombophilia
 
 ## One-Sentence Summary
 
-Warfarin is an oral vitamin K antagonist anticoagulant, and the data supplied lists no approved indication text.
-The TxGNN model predicts it may be useful for **heparin cofactor II deficiency**, but this prediction has **0 clinical trials** and only **5 publications**, all case reports, a review or a laboratory-method paper.
+Warfarin is an oral vitamin K antagonist anticoagulant, originally used to treat and prevent thrombotic conditions such as pulmonary embolism, thrombotic disease and intracranial embolism.
+The TxGNN model predicts it may be useful for **Thrombophilia** (the highest-ranked prediction with any clinical trial), supported by **1 clinical trial** and **19 publications**.
+This is largely an extension of warfarin's existing anticoagulant use rather than a truly new indication, and the evidence is indirect.
 
 ---
 
@@ -42,63 +43,108 @@ The TxGNN model predicts it may be useful for **heparin cofactor II deficiency**
 
 | Item | Content |
 |------|------|
-| Predicted New Indication | Heparin cofactor 2 deficiency |
-| TxGNN Prediction Score | 99.87% |
-| Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (the five listed below are ANDAs) |
+| Original Indication | Pulmonary embolism, thrombotic disease, intracranial embolism |
+| Predicted New Indication | Thrombophilia (the first-ranked prediction, heparin cofactor 2 deficiency, has only case reports) |
+| TxGNN Prediction Score | 99.75% (thrombophilia); 99.87% (heparin cofactor 2 deficiency) |
+| Evidence Level | L1 (conditional; see below) |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 4 (all cancelled; all are ANDA generic applications) |
 | Recommended Decision | Hold |
+
+**Note on evidence level:** The L1 grade for thrombophilia rests on a single Phase 3 trial of unknown status that tests a D-dimer-guided strategy, not warfarin alone. It does not meet the "≥2 completed Phase 3 RCTs" definition, so it should be read as conditional at best.
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, warfarin is a long-term oral anticoagulant used to prevent and treat thrombosis, and heparin cofactor II (HC II) deficiency is a hereditary thrombophilia. Mechanistically, warfarin may be applicable to the deficiency.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, warfarin is a vitamin K antagonist that reduces the synthesis of clotting factors II, VII, IX and X. Its efficacy in thrombotic disease is established, and mechanistically it may be applicable to inherited and acquired thrombophilias, in which the underlying problem is a tendency toward clot formation.
 
-HC II deficiency predisposes patients to venous thrombosis, so anticoagulant therapy is a plausible management approach. This is an inference from drug class only. The retrieved literature does not confirm warfarin outcomes in HC II deficiency. The prediction therefore looks like an extension of warfarin's existing anticoagulant use, not a distinct repurposing signal.
+Thrombophilia is a predisposition to thrombosis, so anticoagulation for secondary prevention of venous thromboembolism is a natural fit. The same reasoning applies to the other top predictions: heparin cofactor II deficiency, factor V excess and antithrombin type 2 deficiency are all inherited prothrombotic states. These conditions overlap closely with warfarin's existing thrombotic-disease indications, so the high TxGNN scores likely reflect similarity to those indications rather than independent evidence of new benefit.
 
-The other six predicted indications fall into three groups:
-- **Antithrombin deficiency type 2 and factor V excess:** plausible by class, but with at most one case report.
-- **Thrombophilia:** the best-supported alternative, with L3 evidence and many trials and papers.
-- **Rheumatoid arthritis and breast fibrocystic disease (and its synonym, benign mammary dysplasia):** no therapeutic rationale found, likely knowledge-graph artifacts.
+Two lower-ranked predictions look like artifacts. For **rheumatoid arthritis**, warfarin appears in four Phase 1 drug-interaction studies only as a CYP2C9 probe substrate, not as a treatment. For **breast fibrocystic disease** and **benign mammary dysplasia**, the signal appears to come from the danazol–warfarin interaction, with no therapeutic rationale.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+**Thrombophilia (top-ranked prediction with trial evidence)**
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT00895505](https://clinicaltrials.gov/study/NCT00895505) | Phase 3 | Unknown | 300 | Randomized trial testing whether D-dimer can tailor the duration of oral anticoagulation after an unprovoked deep vein thrombosis. It tests a strategy, not warfarin alone. |
+
+**Rheumatoid arthritis (drug-interaction studies only, not efficacy)**
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT01311622](https://clinicaltrials.gov/study/NCT01311622) | Phase 1 | Completed | 15 | Effect of fostamatinib on warfarin pharmacokinetics and anticoagulant effect |
+| [NCT04246762](https://clinicaltrials.gov/study/NCT04246762) | Phase 1 | Completed | 17 | Effect of olokizumab on CYP probe substrates, including S-warfarin, in RA patients |
+| [NCT01636557](https://clinicaltrials.gov/study/NCT01636557) | Phase 1 | Completed | 12 | Effect of sirukumab on CYP450 activities in RA patients, with warfarin as a probe |
+| [NCT05392127](https://clinicaltrials.gov/study/NCT05392127) | Phase 1 | Completed | 24 | Effect of SHR0302 on CYP substrates, including S-warfarin, in healthy volunteers |
+
+No clinical trials are registered for heparin cofactor 2 deficiency, factor 5 excess, antithrombin deficiency type 2, breast fibrocystic disease or benign mammary dysplasia.
 
 ---
 
 ## Literature Evidence
 
+**Thrombophilia (selected from 19 publications)**
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [11177584](https://pubmed.ncbi.nlm.nih.gov/11177584/) | 2001 | Review | AIDS Patient Care STDs | Review of thrombotic events and hypercoagulable abnormalities in HIV/AIDS patients, including deficiencies of natural anticoagulant proteins |
-| [2214444](https://pubmed.ncbi.nlm.nih.gov/2214444/) | 1990 | Case report | Kyobu Geka | A 14-year-old girl with familial HC II deficiency had a right ventricular thrombus that was surgically removed |
-| [3778142](https://pubmed.ncbi.nlm.nih.gov/3778142/) | 1986 | Laboratory method | Arch Pathol Lab Med | Laboratory assay for HC II activity. Low levels were seen in liver disease, consumptive coagulopathy and preeclampsia |
-| [2033902](https://pubmed.ncbi.nlm.nih.gov/2033902/) | 1991 | Case report | Nihon Kyobu Shikkan Gakkai Zasshi | A woman with congenital antithrombin II (HC II) deficiency and repeated thromboses, including pulmonary infarction, had been on warfarin for 7 years. Warfarin was stopped on admission and replaced with low-dose heparin |
-| [11570053](https://pubmed.ncbi.nlm.nih.gov/11570053/) | 2001 | Case report | J UOEH | A family with multiple thromboses in which known hereditary thrombophilias were ruled out. One child developed repeat DVT despite warfarin. Only indirectly relevant to HC II deficiency |
+| [33141212](https://pubmed.ncbi.nlm.nih.gov/33141212/) | 2020 | Review | JAMA | Diagnosis and treatment of lower extremity VTE; recurrence of 20–36% within 10 years of an initial event |
+| [39233011](https://pubmed.ncbi.nlm.nih.gov/39233011/) | 2024 | Review | J Thromb Haemost | ISTH communication on DOACs for secondary VTE prevention in severe thrombophilia; evidence limited to cohort and single-center studies |
+| [39244017](https://pubmed.ncbi.nlm.nih.gov/39244017/) | 2024 | Review | Presse Med | Impact of thrombophilia on VTE management |
+| [25387211](https://pubmed.ncbi.nlm.nih.gov/25387211/) | 2014 | Review | Postgrad Med | Diagnosis, treatment and prevention of VTE in pregnancy |
+| [15706484](https://pubmed.ncbi.nlm.nih.gov/15706484/) | 2005 | Review | Semin Thromb Hemost | Management options; inherited thrombophilia should not alter anticoagulation intensity |
+| [12871277](https://pubmed.ncbi.nlm.nih.gov/12871277/) | 2003 | Review | J Thromb Haemost | Management of thrombophilia and uncertainty about how test results should guide care |
+| [10718793](https://pubmed.ncbi.nlm.nih.gov/10718793/) | 2000 | Not classified | Br J Surg | Warfarin-induced skin necrosis, a rare complication (0.01–0.1%) |
+
+**Other predicted indications**
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [2214444](https://pubmed.ncbi.nlm.nih.gov/2214444/) | 1990 | Case report | Kyobu Geka | Right ventricular thrombosis in familial heparin cofactor II deficiency |
+| [2033902](https://pubmed.ncbi.nlm.nih.gov/2033902/) | 1991 | Case report | Nihon Kyobu Shikkan Gakkai Zasshi | Congenital antithrombin deficiency with pulmonary infarction; patient had received warfarin for 7 years |
+| [11570053](https://pubmed.ncbi.nlm.nih.gov/11570053/) | 2001 | Case report | J UOEH | Family with multiple thromboses; a child developed recurrent DVT despite warfarin |
+| [29582922](https://pubmed.ncbi.nlm.nih.gov/29582922/) | 2017 | Case report | Hamostaseologie | Unprovoked VTE in a young patient with antithrombin type IIB deficiency |
+| [16716139](https://pubmed.ncbi.nlm.nih.gov/16716139/) | 2006 | Case report/Review | Pharmacotherapy | Leflunomide raised INR in a patient on warfarin, requiring a 22% dose reduction (RA context) |
+| [1591422](https://pubmed.ncbi.nlm.nih.gov/1591422/) | 1992 | Case report | Ann Pharmacother | Danazol potentiated warfarin's effect and caused bleeding (fibrocystic disease context) |
+
+None of the literature evaluates warfarin as a treatment in a controlled setting for these predicted indications. No randomized controlled trials were identified.
 
 ---
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA040301 | Warfarin Sodium | Tablet | Golden State Medical Supply, Inc. |
-| ANDA202202 | Warfarin Sodium | Tablet | REMEDYREPACK INC. |
-| ANDA040301 | Warfarin Sodium | Tablet | Aphena Pharma Solutions - Tennessee, LLC |
-| ANDA040616 | Warfarin Sodium | Tablet | PD-Rx Pharmaceuticals, Inc. |
-| ANDA090935 | Warfarin Sodium | Tablet | Golden State Medical Supply, Inc. |
+| ANDA040301 | Warfarin Sodium (Golden State Medical Supply) | Tablet | Not available (status: cancelled) |
+| ANDA202202 | Warfarin Sodium (REMEDYREPACK) | Tablet | Not available (status: cancelled) |
+| ANDA040616 | Warfarin Sodium (PD-Rx Pharmaceuticals) | Tablet | Not available (status: cancelled) |
+| ANDA090935 | Warfarin Sodium (Golden State Medical Supply) | Tablet | Not available (status: cancelled) |
 
-The only route is oral (tablet).
+All four listed authorizations are cancelled, and the data compiled for this report show no currently valid single-ingredient or combination licenses. Warfarin is available only as an oral tablet.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+**Contraindications flagged in the knowledge graph (not label text):** Drug–disease contraindication links were found for the following conditions. They should be verified against the official package insert.
+- Cardiovascular and metabolic: hypertension, congestive heart failure, hyperlipidemia (including familial), hypothyroidism/myxedema
+- Liver and biliary: liver failure, liver disease, gallbladder disease, cholestasis (including benign recurrent and familial intrahepatic forms)
+- Kidney: impaired renal function, nephrotic syndrome (including familial and lipoid nephrosis)
+- Blood: blood coagulation disease, anemia (including macrocytic)
+- Psychiatric and other: psychotic, schizophreniform, schizoaffective and other mental disorders, substance abuse/dependence, connective tissue disease, bone and cartilage disease, chronic diarrheal disease
+
+**Drug Interactions:** The interaction screen returned 100 interacting drugs. The 20 shown include:
+- **Major:** Acetylsalicylic acid (aspirin), Metronidazole
+- **Moderate:** Ranitidine, Rabeprazole, Doxycycline, Hydrocortisone, Metformin, Amoxicillin, Bupropion, Aprepitant, Mesalazine, Triamcinolone, Balsalazide, Dexamethasone, Betamethasone, Budesonide, Chenodeoxycholic acid
+- **Minor:** Acarbose, Albiglutide, Ascorbic acid
+
+**Additional signals from the literature:** Warfarin-induced skin necrosis is a rare complication, and interactions with leflunomide and danazol have caused INR elevation or bleeding.
+
+Label warnings and contraindications have not been retrieved, so please refer to the package insert for the full safety information.
 
 ---
 
@@ -107,13 +153,16 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is high (99.87%), but the score is not clinical evidence. The supporting literature is five case reports, one review and one laboratory-method paper, with no trials. One case report even describes a patient switched from warfarin to heparin. The use also overlaps with warfarin's existing anticoagulant indications, so it offers little new repurposing value.
+- The thrombophilia prediction largely duplicates warfarin's existing thrombotic indications, and its only trial is a Phase 3 strategy study of unknown status that does not isolate warfarin. The other inherited-deficiency predictions rest on case reports or on model output alone.
+- The rheumatoid arthritis, fibrocystic breast disease and benign mammary dysplasia predictions appear to be artifacts of drug-interaction co-occurrence and have no therapeutic basis.
+- Warfarin currently has no valid US licenses in the data reviewed, and the FDA label safety data and mechanism data are missing, which blocks progression to safety screening.
 
 **To proceed, the following is needed:**
-- Package insert warnings, contraindications and approved indications (blocking gap for safety screening)
-- Mechanism of action data (MOA) from DrugBank
-- Targeted literature review of warfarin outcomes in HC II deficiency, including bleeding risk and INR management
-- If a thrombosis-related direction is wanted, consider the broader **thrombophilia** prediction (rank 4, L3 evidence, many trials and reviews) instead
+- FDA package insert warnings and contraindications (a blocking gap)
+- Mechanism of action data from DrugBank
+- Confirmation of the current US marketing status, since all four authorizations are cancelled
+- The final results of NCT00895505, plus comparative data for warfarin versus DOACs in severe inherited thrombophilia
+- A clear definition of what would count as a new indication, given the overlap with warfarin's existing thrombotic-disease uses
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

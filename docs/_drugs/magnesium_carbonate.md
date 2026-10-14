@@ -3,14 +3,14 @@ layout: default
 title: Magnesium Carbonate
 parent: Moderate Evidence (L3-L4)
 nav_order: 882
-evidence_level: L3
+evidence_level: L4
 indication_count: 10
 ---
 
 # Magnesium Carbonate
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,30 +29,33 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Magnesium Carbonate: From Antacid Use to Active Peptic Ulcer Disease
+# Magnesium Carbonate: From Peptic Ulcer Disease to Active Peptic Ulcer Disease
 
 ## One-Sentence Summary
 
-Magnesium carbonate is an antacid that neutralizes gastric acid, although the US license records do not list an approved indication.
-The TxGNN model predicts it may be effective for **active peptic ulcer disease**. There are **0 registered clinical trials** and **4 publications**, and the publications are mostly older studies of antacid combinations.
+Magnesium carbonate is an antacid originally used for peptic ulcer disease, gastroesophageal reflux disease, esophagitis, constipation and dyspepsia.
+The TxGNN model predicts it may be effective for **active peptic ulcer disease**, but there are **0 clinical trials** and only **1 publication** (an in vitro product-quality study) behind this prediction.
+The prediction largely overlaps with the drug's existing indications, so it is not true repurposing.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the license data (known as an antacid) |
+| Original Indication | Peptic ulcer disease, gastroesophageal reflux disease, esophagitis, constipation, dyspepsia (no approved indication text is available for the US licenses) |
 | Predicted New Indication | Active peptic ulcer disease |
 | TxGNN Prediction Score | 99.96% |
-| Evidence Level | L3 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 15 |
+| Evidence Level | L4 |
+| US Market Status | Cancelled only (no currently valid license) |
+| Number of NDAs | 2 (both cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, magnesium carbonate is an antacid that neutralizes gastric acid. Because peptic ulcers are acid-related, a link to ulcer healing is biologically plausible.
+Detailed mechanism of action data is not available. Based on known information, magnesium carbonate is an antacid that neutralizes gastric acid. This is consistent with symptomatic management of active peptic ulcer disease.
 
-The published ulcer trials mostly test antacid/anticholinergic combinations or high-dose antacid regimens. The effect of magnesium carbonate alone cannot be isolated from them. The high TxGNN score probably reflects the existing use of antacids for acid-related conditions rather than a novel repurposing. This is better described as a label-adjacent use than a new one.
+Active peptic ulcer disease is essentially the same condition as the drug's original peptic ulcer indication, so the high score likely reflects how close the two diseases sit in the knowledge graph. The only retrieved paper evaluates the acid-neutralizing capacity of marketed antacids. It is a product-quality study, not clinical evidence of ulcer healing.
+
+Other predictions follow the same pattern. Ones with some indirect support include gastrojejunal ulcer, gastroduodenitis, gastric ulcer, duodenogastric reflux and the broad "stomach disease" category, where the support is in vitro or small mucosal-protection data. Others, such as peptic ulcer perforation, gastroparesis and duodenal obstruction, have no plausible antacid mechanism. Duodenal ulcer is mechanistically plausible but has no retrieved evidence.
 
 ## Clinical Trial Evidence
 
@@ -62,40 +65,40 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [7034155](https://pubmed.ncbi.nlm.nih.gov/7034155/) | 1981 | RCT | Scand J Gastroenterol | 72 patients with duodenal or prepyloric ulcer in a 12-week double-blind trial of cimetidine, antacid plus L-hyoscyamine, or placebo. Cimetidine healed 67% of ulcers at 3 weeks (p<0.005 vs placebo). The abstract is truncated, so the antacid arm's result is not fully available. |
-| [6755656](https://pubmed.ncbi.nlm.nih.gov/6755656/) | 1982 | RCT | Scand J Gastroenterol Suppl | Antacid/anticholinergic vs cimetidine vs placebo in active prepyloric and duodenal ulcers. No abstract is available; it appears to be a companion report of the trial above. |
-| [3003883](https://pubmed.ncbi.nlm.nih.gov/3003883/) | 1985 | Clinical study (design not confirmed) | Scand J Gastroenterol | 80 patients with active duodenal ulcer were randomized to a high- or low-fiber diet. All received an antacid tablet four times daily. Healing was 67.5% vs 60%. This tests the diet, not the antacid. |
-| [35720246](https://pubmed.ncbi.nlm.nih.gov/35720246/) | 2022 | In vitro | Med Pharm Rep | Measured the acid-neutralizing capacity and other properties of antacids marketed in Morocco. It provides no clinical efficacy data. |
+| [35720246](https://pubmed.ncbi.nlm.nih.gov/35720246/) | 2022 | In vitro / product quality study | Medicine and pharmacy reports | Evaluated the acid-neutralizing capacity and other properties of antacids marketed in Morocco |
+
+Related literature for other predicted gastric and duodenal conditions is limited to in vitro and small mucosal studies (for example PMIDs 3440273, 3913424, 8763049). None of it shows clinical benefit of magnesium carbonate in a new disease.
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| Not listed | Magnesia carbonica (Boiron) | Pellet | Not listed |
-| Not listed | Magnesia Carbonica (Hahnemann Laboratories, Inc.) | Pellet | Not listed |
-| Not listed | Magnesia carbonica (Boiron) | Pellet | Not listed |
-| Not listed | Magnesia Carbonica (Hahnemann Laboratories, Inc.) | Pellet | Not listed |
-| Not listed | Magnesia Carbonica (Hahnemann Laboratories, Inc.) | Pellet | Not listed |
-
-The five entries above are 5 of 15 licenses. The product names, manufacturers and pellet form suggest homeopathic preparations rather than conventional antacid products. Other records include suspension and soluble-tablet (oral) forms.
+| M001 (cancelled) | Humco Dewees Carminative | Suspension | Not specified |
+| Not available (cancelled) | Magnesia carbonica (Boiron) | Pellet | Not specified |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindication signals from the knowledge graph (not label text)**: Liver failure, hepatic coma and hepatic encephalopathy, kidney disease, nephrocalcinosis, hypercalcemia, hyperparathyroidism, porphyria, thrombocytopenia, neutropenia, agranulocytosis, anemia, sarcoidosis, sleep apnea syndromes, substance abuse/dependence, anxiety and neurotic disorders, diarrheal disease, and others. These are graph-derived associations and should be verified against official labeling.
+- **Drug Interactions**: 100 interactions were found. Notable ones:
+  - Major: dolutegravir.
+  - Moderate: acalabrutinib, doxycycline, alendronic acid, risedronic acid, cholecalciferol, amphetamine, acetylsalicylic acid, atazanavir, atropine, azithromycin, baloxavir marboxil, benzphetamine.
+  - Minor: famotidine, ranitidine, alprazolam, atenolol, acebutolol, axitinib, benazepril.
+
+Please also refer to the package insert for official warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-No clinical trials are registered for this indication, and the supporting papers are mostly 1980s studies of antacid combinations. These predate PPIs and H. pylori eradication, and none isolates magnesium carbonate as a single agent. Package insert safety information is also missing.
+The predicted indication is essentially the drug's existing antacid use. The evidence is a single in vitro product-quality study with no clinical trials, and no US license is currently valid. There is no basis for a repurposing program.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications
-- Mechanism of action data (MOA)
-- Evidence for magnesium carbonate as a single agent, or a clear identification of its contribution within combination products
-- Comparison against current standard care (PPIs and H. pylori eradication)
-- Clarification of the approved indications and formulations of the 15 US licenses, given that the listed products appear homeopathic
+- Official label warnings and contraindications to complete safety screening
+- Mechanism of action data
+- Clinical evidence in a genuinely new indication, since the current predictions mostly restate existing antacid uses
+- Review of the major interaction with dolutegravir and the mineral-binding interactions (tetracyclines, bisphosphonates) in any dosing plan
+- Clarification of regulatory status, since both US licenses are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

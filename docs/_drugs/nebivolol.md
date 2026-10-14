@@ -29,36 +29,36 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-# Nebivolol: From Approved Antihypertensive Use to Malignant Hypertensive Renal Disease
+# Nebivolol: From Hypertension to Malignant Hypertensive Renal Disease
 
 ## One-Sentence Summary
 
-Nebivolol is an oral, highly beta-1-selective blocker with nitric oxide-mediated vasodilation, marketed in the US as tablets.
-The TxGNN model predicts it may be effective for **malignant hypertensive renal disease**, but there are currently **0 clinical trials** and **0 publications** supporting this specific prediction. It rests on model output alone.
+Nebivolol is a beta-blocker originally used to treat hypertension.
+The TxGNN model predicts it may be effective for **malignant hypertensive renal disease**,
+but **no clinical trials** and **no directly relevant publications** currently support this prediction, so it rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Hypertensive disorder / hypertension |
 | Predicted New Indication | Malignant hypertensive renal disease |
 | TxGNN Prediction Score | 99.42% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (NDA and ANDA authorizations) |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (all licenses cancelled) |
+| Number of NDAs | 11 (1 NDA and 10 ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the source record. Based on general pharmacology, nebivolol combines beta-1 blockade with endothelial nitric oxide-mediated vasodilation. That profile is biologically plausible for severe hypertension and hypertension-related renal injury.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacological knowledge, nebivolol is a highly beta-1-selective blocker that also promotes endothelial nitric oxide-mediated vasodilation. Its efficacy in hypertension is established, and mechanistically it could plausibly lower blood pressure in hypertension with renal involvement.
 
-The link between nebivolol's antihypertensive use and this new indication is only indirect. Malignant hypertensive renal disease is a consequence of severe, uncontrolled hypertension. Blood pressure lowering could therefore be relevant in principle. However, nebivolol is an oral agent and not a standard therapy for hypertensive emergencies, which usually call for rapidly titratable, often intravenous treatment. The high score most likely reflects the drug's general antihypertensive associations in the knowledge graph, not disease-specific evidence.
+Malignant hypertensive renal disease is a severe form of hypertension in which kidney damage accompanies very high blood pressure. The model's high score likely reflects its close proximity to the approved hypertension indication rather than independent evidence. Malignant hypertension is a hypertensive emergency, normally managed with titratable intravenous agents, whereas nebivolol is an oral tablet. Its suitability for this setting is therefore doubtful.
 
-Other predictions follow the same pattern:
-- **Malignant renovascular hypertension** (99.42%): Beta-1 blockade reduces renin release, which is plausible but unverified.
-- **Pulmonary hypertension** (two entries, 99.39%): The link is weak, and beta-blockers are generally used cautiously in this setting.
-- **Braddock syndrome** (99.14%): No mechanistic rationale could be established.
-
-All are L5 with no supporting trials.
+Other predictions for this drug share the same limitation:
+- **Malignant renovascular hypertension** (score 99.42%): beta-blockade reduces renin release, which is relevant, but the link is purely theoretical and no studies were found.
+- **Pulmonary hypertension** (score 99.39%, two related entries): the retrieved papers are mostly preclinical organ-protection studies, and none tests nebivolol in pulmonary hypertension. Beta-blockers also raise concern in this condition because of possible negative effects on right ventricular function.
+- **Braddock syndrome** (score 99.14%): no evidence and no clear mechanistic rationale. It should be treated only as a hypothesis-generating signal.
 
 ## Clinical Trial Evidence
 
@@ -66,41 +66,40 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available for this indication.
-
-The 20 publications retrieved for the pulmonary hypertension prediction are general hypoxia biology papers (brain aging, cancer, altitude, multiple sclerosis). None studies nebivolol, so they do not count as supporting evidence.
+Currently no related literature available for malignant hypertensive renal disease.
 
 ## US Market Information
 
+Oral tablets only. All 11 licenses are listed as cancelled, and no approved indication text is available.
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA021742 | Bystolic (Allergan, Inc.) | Tablet | Not listed in source data |
-| ANDA203966 | nebivolol (Torrent Pharmaceuticals Limited) | Tablet | Not listed in source data |
-| ANDA203659 | Nebivolol (Golden State Medical Supply, Inc.) | Tablet | Not listed in source data |
-| ANDA212682 | NEBIVOLOL (A-S Medication Solutions) | Tablet | Not listed in source data |
-| ANDA203825 | Nebivolol (Camber Pharmaceuticals, Inc.) | Tablet | Not listed in source data |
-
-All listed products are oral tablets. 5 of 20 authorizations are shown.
+| NDA021742 | Bystolic (Allergan, Inc.) | Tablet | Not available |
+| ANDA203966 | Nebivolol (Torrent Pharmaceuticals Limited) | Tablet | Not available |
+| ANDA203659 | Nebivolol (Golden State Medical Supply, Inc.) | Tablet | Not available |
+| ANDA212682 | Nebivolol (A-S Medication Solutions) | Tablet | Not available |
+| ANDA203825 | Nebivolol (Camber Pharmaceuticals, Inc.) | Tablet | Not available |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindications / disease associations (from the knowledge graph, not label text):** liver failure, liver disease, gallbladder disease, diabetes mellitus, diabetic ketoacidosis, peripheral vascular disease, intermittent claudication, peripheral arterial disease, hypoglycemia, atrioventricular block, bronchial disease, sick sinus syndrome, familial sick sinus syndrome.
+- **Drug Interactions:** 100 interactions were identified. Most of those shown are Moderate, for example epinephrine, hydrocortisone, dexamethasone, betamethasone, bupropion, morphine, canagliflozin, dapagliflozin and chlorpropamide. Minor examples include acetylsalicylic acid and magnesium oxide.
+
+Package insert warnings and contraindications were not available, so please refer to the package insert for complete safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score, with no trials or literature. Nebivolol is an oral agent and is not a standard option for hypertensive emergencies. Safety data are also missing, so it cannot yet proceed to safety screening.
+The prediction is supported only by a model score (Evidence Level L5), with no clinical trials or relevant publications. The score likely reflects similarity to the existing hypertension indication. The intended condition is an emergency setting where an oral beta-blocker is unlikely to be first-line, and all US licenses are currently cancelled.
 
 **To proceed, the following is needed:**
-- The FDA package insert, to obtain warnings and contraindications (a blocking gap)
-- Mechanism of action data from DrugBank
-- A targeted literature search for nebivolol in malignant or severe hypertension and hypertensive nephropathy
-- An assessment of whether an oral beta-blocker fits the acute setting of this indication
-- Confirmation of the approved indications on the US labels
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data
+- Clinical or observational evidence of nebivolol in malignant or renovascular hypertension with renal involvement
+- Clinical rationale for oral nebivolol versus standard intravenous emergency therapy
+- Clarification of the US regulatory and market status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

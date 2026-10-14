@@ -29,31 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Pentostatin: From Its Marketed Use to Botryoid-Type Embryonal Rhabdomyosarcoma of the Vagina
+# Pentostatin: From Hairy Cell Leukemia to Botryoid-Type Embryonal Rhabdomyosarcoma of the Vagina
 
 ## One-Sentence Summary
 
-Pentostatin is a marketed injectable (Nipent) whose approved indication is not recorded in the Evidence Pack.
+Pentostatin was originally used to treat hairy cell leukemia, a rare lymphoid malignancy.
 The TxGNN model predicts it may be effective for **botryoid-type embryonal rhabdomyosarcoma of the vagina**,
-but there are currently **0 clinical trials** and **0 publications** supporting this direction, so this is a model-only prediction.
+but **no clinical trials** and **no publications** currently support this prediction, so it rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the provided data |
+| Original Indication | Hairy cell leukemia (hairy cell leukemia variant is also listed; the US license record contains no indication text) |
 | Predicted New Indication | Botryoid-type embryonal rhabdomyosarcoma of the vagina |
 | TxGNN Prediction Score | 99.54% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
+| US Market Status | Cancelled only (no currently valid license) |
 | Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for this drug in the Evidence Pack. Pentostatin is generally known as an adenosine deaminase inhibitor with lymphocyte-selective toxicity. That comes from general knowledge, not from the provided data. Any link to a solid mesenchymal tumor is therefore hypothetical.
+Pentostatin is known as an adenosine deaminase (ADA) inhibitor that disrupts purine metabolism, and it is approved for hairy cell leukemia. Detailed mechanism-of-action data were not available in the data compiled for this report, so the mechanism described here comes from general pharmacological knowledge and could not be verified against the supplied data.
 
-This is a rare anatomical subtype of embryonal rhabdomyosarcoma. The high score (99.54%) most likely reflects proximity to the parent disease, rhabdomyosarcoma, in the knowledge graph rather than independent evidence. The other six predictions in this pack are related rhabdomyosarcoma subtypes (parameningeal, prostate, extrahepatic bile duct), the parent rhabdomyosarcoma node, and liver sarcoma. All are also L5, with scores between 99.42% and 99.54%. They appear to share the same graph-derived signal rather than adding independent support.
+No trial, publication, or mechanistic data link ADA inhibition to the biology of embryonal rhabdomyosarcoma. The high score (0.995) most likely reflects knowledge-graph proximity to other cytotoxic oncology agents rather than disease-specific evidence. The prediction should be treated as a hypothesis only.
+
+Several other top predictions are closely related rhabdomyosarcoma entries (parameningeal embryonal, the parent "rhabdomyosarcoma" category, bile duct subtypes, prostate embryonal), plus liver sarcoma. They share nearly identical scores (0.994–0.995) and are probably propagated from the parent rhabdomyosarcoma node, so they should not be counted as independent evidence. Before any further consideration, a preclinical rationale, such as ADA dependence in rhabdomyosarcoma cell lines, would be needed.
 
 ## Clinical Trial Evidence
 
@@ -67,39 +69,43 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA020122 | Nipent (Hospira, Inc.) | Injection, powder, lyophilized, for solution | Not listed in the provided data |
+| NDA020122 (cancelled) | Nipent (Hospira, Inc.) | Injection, powder, lyophilized, for solution | Not stated in the available record |
 
 ## Cytotoxicity
 
-Pentostatin is treated here as an antineoplastic because the predicted indications are all malignancies. No DrugBank category or toxicity data were provided.
-
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (purine-analogue antimetabolite type), based on general drug-class knowledge |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
+| Cytotoxicity Classification | Conventional cytotoxic (purine analogue / ADA inhibitor class) |
+| Myelosuppression Risk | Please refer to the package insert warnings and precautions. The knowledge graph links the drug to neutropenia, thrombocytopenia, leukopenia, anemia and agranulocytosis as contraindicated conditions, which suggests hematologic risk |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Please refer to the package insert warnings and precautions (typically CBC, liver and renal function) |
+| Monitoring Items | Complete blood count with differential, liver and renal function (the knowledge graph flags kidney and liver disease), infection surveillance |
 | Handling Protection | Follow cytotoxic drug handling regulations |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindicated conditions (knowledge-graph associations, not label text)**: kidney disease, pyoureter, liver disease, gallbladder disease, thrombocytopenia, infectious disease, neutropenia, agranulocytosis, hypotensive disorder, anemia, macrocytic anemia, leukopenia, pulmonary edema.
+- **Drug Interactions**: 100 interactions were recorded. Examples of the 20 reviewed:
+  - **Major**: deferiprone, samarium (153Sm) lexidronam, adalimumab, baricitinib
+  - **Moderate**: mercaptopurine, zidovudine, chloramphenicol, azathioprine, alemtuzumab, aldesleukin, palifermin, roflumilast, strontium chloride Sr-89, anakinra, alefacept, and several vaccines (tetanus toxoid, anthrax)
+  - **Minor**: levofloxacin, allopurinol
+
+  The major interactions mostly involve additive myelosuppression or immunosuppression, which is consistent with the hematologic risks above.
+
+Package insert warnings and contraindications were not available, so please refer to the package insert for the full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is model-only (L5), with no registered trials or publications. The mechanism is unverified, and the score likely propagates from the parent rhabdomyosarcoma node. Package insert safety data are also missing, so the candidate cannot advance to safety screening.
+The prediction has a high model score but no supporting trials, literature, or verified mechanism (Evidence Level L5). The US license is cancelled, and the knowledge graph shows substantial hematologic, hepatic, and renal safety concerns. There is no basis to advance.
 
 **To proceed, the following is needed:**
-- The FDA package insert (approved indication, warnings, contraindications), which is currently blocking safety screening
-- Mechanism of action data from DrugBank
-- A targeted literature and trial search (PubMed, ClinicalTrials.gov, ICTRP) for pentostatin in rhabdomyosarcoma and sarcoma
-- Preclinical evidence (for example, cell-line sensitivity of rhabdomyosarcoma to adenosine deaminase inhibition), which would be the minimum step toward L4
-- A route and dosing compatibility assessment, since route compatibility is still pending
-
-*These results are for research reference only and do not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Preclinical evidence of ADA or purine-metabolism dependence in rhabdomyosarcoma models
+- Mechanism-of-action data from DrugBank to allow a verifiable mechanistic link
+- Package insert warnings and contraindications, so that safety screening can proceed
+- A literature and trial search specific to pentostatin in rhabdomyosarcoma or other soft-tissue sarcomas
+- Clarification of whether the cancelled US status affects drug supply or formulation availability, and of route compatibility, which is currently pending
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

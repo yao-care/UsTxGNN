@@ -29,92 +29,89 @@ Evidence Level: **L4** | Predicted Indications: **1**
 
 </div>
 
-# Niacin: From Lipid Modification to Homozygous Familial Hypercholesterolemia
+# Niacin: From Hyperlipidemia to Homozygous Familial Hypercholesterolemia
 
 ## One-Sentence Summary
 
-Niacin is an established lipid-modifying agent, though the supplied data lists no approved indication text.
-The TxGNN model predicts it may be useful for **homozygous familial hypercholesterolemia (HoFH)**.
-Evidence is thin: **2 clinical trials** and **20 publications** were retrieved, but none shows niacin's efficacy in HoFH.
+Niacin (vitamin B3) is a lipid-modifying agent originally used for hyperlipidemia, including familial forms, hypertriglyceridemia and vitamin deficiency.
+The TxGNN model predicts it may be useful for **homozygous familial hypercholesterolemia (HoFH)**,
+but there are currently **0 registered clinical trials** and **17 publications** (all reviews, case reports or general lipid-therapy articles, none a niacin-specific trial in HoFH).
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed (all US license records have empty indication text) |
+| Original Indication | Hyperlipidemia (including familial hyperlipidemia and hypertriglyceridemia) and vitamin deficiency disorder. The US license records contain no indication text, so this comes from the knowledge-graph indication list. |
 | Predicted New Indication | Homozygous familial hypercholesterolemia |
 | TxGNN Prediction Score | 99.74% |
 | Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (the listed oral tablets are ANDAs) |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 9 (all cancelled; all are ANDA or other registrations) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Niacin lowers LDL-C, triglycerides and Lp(a) and raises HDL-C. It is thought to work by reducing hepatic VLDL/apoB production, through DGAT2 inhibition and the GPR109A receptor. Formal mechanism-of-action data is not available in the Evidence Pack, so this description comes from general lipid pharmacology.
+Niacin is already used for hyperlipidemia and familial hyperlipidemia, so this prediction is a close extension within the same disease family. Detailed mechanism-of-action data is not available in the data compiled for this report. From general pharmacology, niacin lowers LDL-C, triglycerides and lipoprotein(a) and raises HDL-C. This is thought to occur through inhibition of hepatic DGAT2, which reduces VLDL/LDL production, and through HCA2 (GPR109A)-mediated suppression of adipocyte lipolysis.
 
-HoFH is caused mainly by LDL-receptor deficiency. A mechanism that reduces apoB-containing lipoprotein production does not depend on receptor function, so niacin could plausibly serve as an add-on lipid-lowering agent in HoFH.
-
-However, this link is inferred, not shown in HoFH patients:
-- The TxGNN score is a model prediction only.
-- The retrieved literature is mostly disease-level review material that mentions niacin at most as a non-statin option.
-- Large outcome trials of niacin in general dyslipidemia populations, which are not among the supplied records, did not show added cardiovascular benefit.
-- Niacin has tolerability limits, including flushing and hepatic and glycemic effects.
+In HoFH the core defect is absent or severely reduced LDL receptor function. Because niacin's effects are largely receptor-independent (reduced lipoprotein production), a modest adjunctive LDL-lowering effect is plausible. It is unlikely to be sufficient as monotherapy. The TxGNN score of 0.997 is a computational prediction only and is not clinical evidence.
 
 ## Clinical Trial Evidence
 
-Neither trial tests niacin, and both were graded C (low relevance).
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT03510715](https://clinicaltrials.gov/study/NCT03510715) | Phase 3 | Completed | 18 | Open-label study of alirocumab (a PCSK9 inhibitor) in children and adolescents with HoFH. Matches the disease but not the drug, so it only shows the current HoFH treatment landscape. |
-| [NCT03110432](https://clinicaltrials.gov/study/NCT03110432) | N/A | Completed | 1695 | German registry of very-high-cardiovascular-risk dyslipidemia patients eligible for PCSK9 inhibitors. Not HoFH-specific and no niacin exposure indicated. |
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-None of these publications reports niacin efficacy in HoFH.
+None of the retrieved publications is a niacin-specific trial in HoFH. They are mostly reviews on familial hypercholesterolemia or non-statin lipid therapy. Several concern other drugs (atorvastatin, ezetimibe).
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [24506448](https://pubmed.ncbi.nlm.nih.gov/24506448/) | 2014 | Review | Expert Rev Cardiovasc Ther | Critical review of non-statin options (fibrates, ezetimibe, bile acid sequestrants, n-3 fatty acids, niacin) for residual risk and statin intolerance. |
-| [26376908](https://pubmed.ncbi.nlm.nih.gov/26376908/) | 2015 | Scientific statement | Arterioscler Thromb Vasc Biol | ATVB Council statement on non-statin LDL-lowering therapy. Notes that niacin monotherapy reduced CVD endpoints in placebo-controlled trials. |
-| [24734312](https://pubmed.ncbi.nlm.nih.gov/24734312/) | 2014 | PK interaction study | Pharmacotherapy | Studied lomitapide's pharmacokinetic interactions with lipid-lowering drugs, including niacin, in the HoFH treatment setting. |
-| [26370207](https://pubmed.ncbi.nlm.nih.gov/26370207/) | 2015 | Review | Drugs | Challenges in diagnosing and treating HoFH, a disease with severely elevated LDL-C and early cardiovascular risk. |
-| [25257073](https://pubmed.ncbi.nlm.nih.gov/25257073/) | 2014 | Review | Atheroscler Suppl | What current HoFH care (apheresis and lipid-lowering drugs) achieves, and the unmet needs. |
-| [27797643](https://pubmed.ncbi.nlm.nih.gov/27797643/) | 2016 | Review | Metab Syndr Relat Disord | Modern management of familial hypercholesterolemia, covering both HoFH and heterozygous forms. |
-| [23959229](https://pubmed.ncbi.nlm.nih.gov/23959229/) | 2013 | Review | Nat Rev Cardiol | Lipid-modifying pharmacotherapies beyond statins for severe hypercholesterolemia and mixed dyslipidemia. |
-| [36422206](https://pubmed.ncbi.nlm.nih.gov/36422206/) | 2022 | Review | Medicina (Kaunas) | Literature analysis of familial hypercholesterolemia diagnostics and treatment options. |
-| [23074505](https://pubmed.ncbi.nlm.nih.gov/23074505/) | 2007 | Health technology assessment | Ont Health Technol Assess Ser | Evidence-based analysis of LDL apheresis for refractory homozygous and heterozygous FH. |
-| [2912428](https://pubmed.ncbi.nlm.nih.gov/2912428/) | 1989 | Clinical study | Arteriosclerosis | Drug regimens in children and adolescents with FH (30 heterozygous, 3 homozygous). |
+| [26376908](https://pubmed.ncbi.nlm.nih.gov/26376908/) | 2015 | Scientific statement / Review | Arterioscler Thromb Vasc Biol | Notes that placebo-controlled RCTs showed bile acid sequestrants, niacin and fibrates each reduce CVD endpoints as monotherapy; discusses the role of non-statin LDL-lowering therapy |
+| [24506448](https://pubmed.ncbi.nlm.nih.gov/24506448/) | 2014 | Review | Expert Rev Cardiovasc Ther | Critical review of non-statin options (fibrates, ezetimibe, bile acid sequestrants, n-3 fatty acids, niacin) for residual risk and statin intolerance |
+| [23959229](https://pubmed.ncbi.nlm.nih.gov/23959229/) | 2013 | Review | Nat Rev Cardiol | Lipid-lowering agents beyond statins as add-on or alternative therapy in severe hypercholesterolaemia or mixed dyslipidaemia |
+| [27797643](https://pubmed.ncbi.nlm.nih.gov/27797643/) | 2016 | Review | Metab Syndr Relat Disord | Modern management of familial hypercholesterolemia, covering both homozygous and heterozygous forms |
+| [36422206](https://pubmed.ncbi.nlm.nih.gov/36422206/) | 2022 | Review | Medicina (Kaunas) | Literature analysis of FH diagnosis and treatment options |
+| [25257073](https://pubmed.ncbi.nlm.nih.gov/25257073/) | 2014 | Review | Atheroscler Suppl | Achievements and unmet needs in HoFH; apheresis and drugs improve survival but residual risk remains |
+| [26370207](https://pubmed.ncbi.nlm.nih.gov/26370207/) | 2015 | Review | Drugs | Challenges in diagnosing and treating HoFH, rooted in LDL receptor dysfunction |
+| [24734312](https://pubmed.ncbi.nlm.nih.gov/24734312/) | 2014 | Pharmacokinetic study | Pharmacotherapy | Examined lomitapide's pharmacokinetic interactions with several lipid-lowering drugs, including niacin, in the HoFH treatment setting |
+| [2912428](https://pubmed.ncbi.nlm.nih.gov/2912428/) | 1989 | Clinical study | Arteriosclerosis | Drug treatment of children with heterozygous and homozygous FH; plasma lipids stayed well above optimal on resin therapy |
+| [19947811](https://pubmed.ncbi.nlm.nih.gov/19947811/) | 2009 | Case report | Pharmacotherapy | Xanthomas in an 18-year-old with HoFH |
 
 ## US Market Information
 
+All nine records are cancelled, and none contains approved indication text. Only five are listed.
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA203899 | Niacin (Golden State Medical Supply) | Tablet, extended release | Not listed |
-| ANDA203578 | Niacin (Amneal Pharmaceuticals) | Tablet, extended release | Not listed |
-| ANDA204934 | Niacin (Macleods Pharmaceuticals) | Tablet | Not listed |
-| Not listed | THE SKIN HOUSE Vital Bright EyeCream (cosmetic) | Cream | Not listed |
-| Not listed | DERLADIE LABORATOIRE PORE TIGHTENING AMPOULE (cosmetic) | Liquid | Not listed |
+| ANDA203899 | Niacin (Golden State Medical Supply) | Tablet, extended release | Not provided (cancelled) |
+| ANDA203578 | Niacin (Amneal) | Tablet, extended release | Not provided (cancelled) |
+| ANDA204934 | Niacin (Macleods) | Tablet | Not provided (cancelled) |
+| ANDA200484 | Niacin (Sun Pharmaceutical) | Tablet, film coated, extended release | Not provided (cancelled) |
+| ANDA090892 | Niacin (Lupin) | Tablet, extended release | Not provided (cancelled) |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+**Drug Interactions**: 100 interactions were found. The main ones listed here are Moderate-level, mostly with antidiabetic drugs, and may affect glycaemic control:
+- Oral and injectable antidiabetics: acarbose, alogliptin, albiglutide, dulaglutide, exenatide
+- SGLT2 inhibitors: canagliflozin, dapagliflozin, empagliflozin, ertugliflozin
+- Sulfonylureas and metformin: chlorpropamide, acetohexamide, glimepiride, glipizide, glyburide, metformin
+- Insulins: human insulin, insulin aspart, insulin degludec
+- Acetylsalicylic acid is a Minor-level interaction.
+
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score and a plausible but inferred mechanism. The retrieved trials and publications contain no niacin-specific efficacy or safety data in HoFH. Niacin's tolerability limits and the lack of added cardiovascular benefit in general dyslipidemia outcome trials also argue against advancing now.
+The prediction is biologically plausible, since niacin lowers LDL-C through receptor-independent mechanisms. However, there are no registered trials and no niacin-specific HoFH studies. The evidence rests on general reviews and a model score, which is L4. All US licenses are cancelled, and package insert safety data is missing.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (blocking data gap), to allow safety screening
-- Mechanism-of-action data from DrugBank and the approved indication text
-- Niacin-specific HoFH evidence, such as case series, small trials, or use as an add-on to statins, ezetimibe, or PCSK9 inhibitors
-- Comparison against current HoFH standards of care (PCSK9 inhibitors, lomitapide, LDL apheresis) to define any remaining role for niacin
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism-of-action data
+- Targeted review of niacin use in HoFH, including as add-on to statins, ezetimibe, PCSK9 inhibitors or apheresis
+- Assessment of the regulatory and market position, given that all US licenses are cancelled and the recent evidence on niacin's cardiovascular benefit
+- Review of the impact of interactions with antidiabetic drugs
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

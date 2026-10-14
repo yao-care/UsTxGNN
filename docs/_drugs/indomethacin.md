@@ -29,74 +29,92 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Indomethacin: From an Established NSAID to Brachydactyly-Syndactyly Syndrome
+# Indomethacin: From Inflammatory Joint Disease to Brachydactyly-Syndactyly Syndrome
 
 ## One-Sentence Summary
 
-Indomethacin is a marketed non-steroidal anti-inflammatory drug (NSAID) that inhibits COX-1 and COX-2.
-The TxGNN model predicts it may be effective for **brachydactyly-syndactyly syndrome**, but there are **0 clinical trials** and **0 publications** for this indication.
-The prediction rests on the model score alone and no plausible mechanistic link has been identified.
+Indomethacin is a non-steroidal anti-inflammatory drug (NSAID) originally used for inflammatory and degenerative joint conditions such as rheumatoid arthritis, ankylosing spondylitis, gout and bursitis, and for closing patent ductus arteriosus.
+The TxGNN model predicts it may be effective for **brachydactyly-syndactyly syndrome**, a rare congenital limb malformation.
+This prediction has **0 clinical trials** and **0 publications** behind it, so it is a computational signal only.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Bursitis, synovitis, tenosynovitis, rheumatoid arthritis, ankylosing spondylitis, tendinitis, gout, osteoarthritis, frozen shoulder, patent ductus arteriosus (indication text is not recorded in the US license entries, so this comes from the knowledge graph) |
 | Predicted New Indication | Brachydactyly-syndactyly syndrome |
 | TxGNN Prediction Score | 99.97% |
-| Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | Cancelled only (no currently valid licenses in the compiled data) |
+| Number of NDAs | 7 (all cancelled) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the source record. Based on general pharmacology, indomethacin is a non-selective COX-1/COX-2 inhibitor that reduces prostaglandin synthesis. That makes it useful for inflammation, pain, and fever.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Indomethacin is generally known as a COX-1/COX-2 inhibitor that reduces prostaglandin-mediated inflammation and pain, and its efficacy in inflammatory arthritis is established.
 
-Brachydactyly-syndactyly syndrome is a congenital limb malformation with a genetic and developmental basis. There is no known inflammatory driver that COX inhibition would address. The high score (0.9997) most likely reflects graph proximity in the knowledge graph, not a biological rationale.
+That mechanism does not obviously apply to the predicted condition. Brachydactyly-syndactyly syndrome is a rare congenital limb malformation driven by developmental genetics, not by ongoing inflammation. No mechanistic link between COX inhibition and this pathology has been identified. The high score (99.97%) reflects patterns in the knowledge graph, not biological or clinical support. It should be treated as a hypothesis-generating signal at most.
 
-Overall, this prediction is not mechanistically supported, and the evidence is model output only.
+**A more credible direction among the other predictions:** juvenile idiopathic arthritis (JIA, rank 8, score 99.84%) has some literature support, including a 1978 double-blind crossover trial in 30 children comparing ketoprofen and indomethacin (indomethacin was the preferred drug) and several pediatric rheumatology reviews. This reflects historical symptomatic NSAID use, not a new repurposing signal. NSAIDs do not modify the disease, and current JIA care relies mainly on DMARDs and biologics.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
 Currently no related literature available.
 
+---
+
 ## US Market Information
 
-Five of the 20 authorizations are listed below. The source data does not include approved indication text for these products.
+All seven US authorizations in the compiled data are cancelled.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|------|
-| ANDA091240 | Indomethacin | Capsule | Bryant Ranch Prepack |
-| ANDA091240 | Indomethacin | Capsule | XLCare Pharmaceuticals Inc. |
-| ANDA201807 | Indomethacin | Capsule, extended release | Proficient Rx LP |
-| ANDA073314 | INDOCIN | Suppository | Zyla Life Sciences US Inc. |
-| ANDA091276 | INDOMETHACIN | Capsule | DIRECT RX |
+| Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
+|---------|------|------|------|------|
+| ANDA091240 | Indomethacin | Capsule | Bryant Ranch Prepack | Cancelled |
+| ANDA201807 | Indomethacin | Capsule, extended release | Proficient Rx LP | Cancelled |
+| ANDA073314 | INDOCIN | Suppository | Zyla Life Sciences US Inc. | Cancelled |
+| ANDA091276 | Indomethacin | Capsule | DIRECT RX | Cancelled |
+| NDA018829 | Indomethacin | Capsule | Chartwell RX, LLC | Cancelled |
 
-Available routes are oral (capsule, extended-release capsule) and other (suppository).
+Two further cancelled entries (ANDA079175, extended-release capsule; ANDA216184, suppository) are not shown.
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindication-related conditions (from the knowledge graph, not label text):** hypertension, epilepsy, gastric and duodenal ulcer, active peptic ulcer disease, kidney disease, liver disease, gallbladder disease, thrombocytopenia, blood coagulation disorders, asthma (intrinsic and allergic), myocardial infarction, cardiovascular and heart disease, ulcerative colitis, inflammatory bowel disease, necrotizing enterocolitis, intracerebral hemorrhage, esophageal dyskinesia, anxiety and related mood disorders, hemoglobinopathy, and infectious disease.
+- **Drug Interactions:** 100 interactions were found in total. Of the 20 reviewed:
+  - **Moderate:** hydrocortisone, dexamethasone, betamethasone, triamcinolone, budesonide, acetylsalicylic acid, metformin, glimepiride, chlorpropamide, aprepitant, mesalazine, balsalazide, potassium citrate, potassium bicarbonate, picosulfuric acid, and polyethylene glycol with electrolytes.
+  - **Minor:** famotidine, ranitidine, cimetidine, linaclotide.
+
+Please refer to the package insert for full warnings and contraindications.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This is an L5 prediction with no trials, no literature, and no plausible mechanism. Congenital limb malformation is not expected to respond to COX inhibition.
+The prediction for brachydactyly-syndactyly syndrome rests only on a model score, with no trials, no literature, and no plausible mechanistic link. All US licenses in the compiled data are also cancelled. This candidate is not suitable for advancement.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data from DrugBank
-- Any mechanistic or preclinical evidence linking prostaglandin pathways to this syndrome
-
-**Note on other predictions:** Among the top 10 predictions, only juvenile idiopathic arthritis (rank 8, L3) has meaningful literature support. That support is mostly old NSAID literature, including a 1978 double-blind trial comparing ketoprofen and indomethacin in children, and it points to symptomatic relief rather than disease modification. It is better evaluated as a separate research question against current JIA guidelines and pediatric safety data (GI, renal, and bleeding risks).
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Mechanistic evidence connecting COX inhibition or prostaglandin signaling to the pathophysiology of this syndrome
+- Preclinical data (cell or animal models) supporting any biological effect
+- Package insert warnings and contraindications to complete safety screening
+- Detailed mechanism of action data
+- Consideration of redirecting effort to juvenile idiopathic arthritis, the better-supported prediction, bearing in mind that NSAIDs are only symptomatic therapy there
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

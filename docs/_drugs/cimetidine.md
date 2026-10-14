@@ -29,71 +29,101 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-# Cimetidine: From Acid-Related Gastrointestinal Disease to Smouldering Systemic Mastocytosis
+# Cimetidine: From Gastric Ulcer to Smouldering Systemic Mastocytosis
 
 ## One-Sentence Summary
 
-Cimetidine is a histamine H2-receptor blocker, marketed in the US for stomach-acid conditions such as peptic ulcer. The TxGNN model predicts it may be useful for **Smouldering systemic mastocytosis**, but there are currently **0 clinical trials** and **0 publications** for this prediction, so it rests on the model score alone.
+Cimetidine is a histamine H2-receptor antagonist originally used for acid-related conditions such as gastric and duodenal ulcer, gastroesophageal reflux disease and Zollinger-Ellison syndrome.
+The TxGNN model predicts it may be effective for **Smouldering systemic mastocytosis**, but this prediction currently has **0 clinical trials** and **0 publications** supporting it.
+The prediction therefore rests on model output alone (Evidence Level L5).
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Gastric ulcer, gastroesophageal reflux disease, esophagitis, dyspepsia, duodenal ulcer, Zollinger-Ellison syndrome (the data compiled for this report also lists systemic mastocytosis and mastocytosis) |
 | Predicted New Indication | Smouldering systemic mastocytosis |
 | TxGNN Prediction Score | 99.80% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (total US licenses, mostly generic ANDAs plus the brand NDA020238, TAGAMET) |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no currently valid authorizations) |
+| Number of NDAs | 9 (all cancelled; 1 NDA and 8 ANDAs) |
 | Recommended Decision | Hold |
 
-The evidence pack has no approved-indication text, so the original indication is not listed in the table. The title uses the general acid-related use of the drug class, not label wording.
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Cimetidine is an H2 antagonist that reduces gastric acid secretion. Its efficacy in acid-related disease is well established, and mechanistically it may be applicable to mast cell disease through histamine blockade.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, cimetidine blocks histamine H2 receptors and reduces gastric acid secretion. In mast-cell disease, excess histamine release drives gastric hypersecretion and related symptoms, so H2 blockade may relieve these.
 
-Mast cells release large amounts of histamine, which drives gastric acid hypersecretion and related symptoms in mastocytosis. Blocking H2 receptors could plausibly relieve these symptoms.
+The high TxGNN score most likely reflects that systemic mastocytosis and mastocytosis already appear among cimetidine's known indications in the knowledge graph. Smouldering systemic mastocytosis is a subtype of the same disease family, so the link is plausible. However, H2 blockade would only control symptoms. It would not modify the underlying mast-cell disease.
 
-This would be symptom control only. Cimetidine would not change the underlying clonal mast cell disease. The link is inferred, and nothing in this package supports it with trial or literature data.
+No trials or literature specific to this subtype were found, so the prediction remains unverified.
+
+### Other Predicted Indications (Lower Priority)
+
+| Rank | Predicted Indication | Score | Evidence Level | Assessment |
+|---|---|---|---|---|
+| 2 | Active peptic ulcer disease | 99.79% | L4 | Essentially an original indication, so not true repurposing. Most literature consists of reviews of other drugs. |
+| 3 | Gastrojejunal ulcer | 99.77% | L4 | Acid suppression is plausible, but no specific trial was found. |
+| 4 | Peptic ulcer perforation | 99.77% | L4 | Case reports describe perforation occurring during cimetidine therapy, which argues against benefit. |
+| 5 | Lymphoadenopathic mastocytosis with eosinophilia | 99.76% | L5 | Rare condition. No studies found. |
+| 6 | Duodenogastric reflux | 99.49% | L4 | Poor mechanistic fit (bile reflux is not mainly acid-driven). Evidence is indirect or preclinical. |
+| 7 | Duodenal obstruction | 99.44% | L4 | Only a small uncontrolled 1978 report of response in ulcer-related gastric outlet obstruction. |
+| 8 | Acne | 99.33% | L4 | Possible anti-androgenic effect, but evidence is indirect. Labelled a research question. |
+| 9 | Abnormality of glucagon secretion | 99.14% | L5 | The single paper is an unrelated imaging study. The signal appears spurious. |
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for smouldering systemic mastocytosis.
+
+---
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| ANDA074329 | Cimetidine | Tablet, film coated | Chartwell RX, LLC |
-| ANDA074251 | Cimetidine hydrochloride | Solution | Chartwell RX, LLC |
-| ANDA074151 | Cimetidine | Tablet, film coated | Teva Pharmaceuticals USA, Inc. |
-| NDA020238 | TAGAMET | Tablet | Prestige Brands Holdings, Inc. |
-| ANDA218220 | Cimetidine | Tablet, film coated | Bionpharma Inc. |
+All nine US authorizations are cancelled. No approved indication text was available in the data compiled for this report. The table below lists the five main authorizations.
 
-Approved-indication text was not provided for any of these licenses.
+| Authorization Number | Product Name | Dosage Form | Status |
+|---------|------|------|-----------|
+| NDA020238 | TAGAMET (Prestige Brands Holdings, Inc.) | Tablet | Cancelled |
+| ANDA074329 | Cimetidine (Chartwell RX, LLC) | Film-coated tablet | Cancelled |
+| ANDA074251 | Cimetidine hydrochloride (Chartwell RX, LLC) | Solution | Cancelled |
+| ANDA074151 | Cimetidine (Teva Pharmaceuticals USA, Inc.) | Film-coated tablet | Cancelled |
+| ANDA074664 | Cimetidine hydrochloride (PAI Pharma) | Solution | Cancelled |
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindications (from knowledge graph associations, not label text)**: Liver disease, gallbladder disease, impaired renal function, and gastric cancer (including gastric neoplasm, diffuse gastric adenocarcinoma, gastric linitis plastica and gastric carcinoma).
+- **Drug Interactions**: 100 interactions were recorded in total. The first 20 returned include mostly Minor and Moderate levels. Moderate-level examples include paclitaxel, fentanyl, acalabrutinib, lidocaine, acebutolol, dihydrocodeine, codeine, tramadol, nifedipine and alfentanil. Minor-level examples include dolutegravir, zidovudine, acetaminophen, ibuprofen, ketorolac, ethinylestradiol, albendazole, ethanol, alendronic acid and cholecalciferol.
+
+Please refer to the package insert for full warnings and precautions, as label-based safety data were not available.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a very high model score, but no trials or literature support it. The only rationale is symptomatic histamine blockade, which would not treat the underlying mast cell disease.
-
-Among the other predictions in the pack, "active peptic ulcer disease" (L1) is most likely an existing labeled use rather than true repurposing. Confirm it against the current label before treating it as a candidate.
+The prediction is supported only by the model score and the drug's existing association with mastocytosis. No trials or publications address smouldering systemic mastocytosis, and H2 blockade would be symptomatic rather than disease-modifying. All US authorizations are cancelled, and label-based safety information is missing.
 
 **To proceed, the following is needed:**
-- The current FDA package insert, to confirm the approved indications and to obtain warnings and contraindications
+- FDA package insert warnings and contraindications (currently a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
-- A targeted search for cimetidine or H2-blocker studies in systemic mastocytosis
-- A clinical case for the value of symptom control in smouldering disease, including comparison with standard antihistamine and mast-cell-directed therapy
+- Clinical or observational evidence of cimetidine in smouldering systemic mastocytosis, including comparison with standard H1/H2 antihistamine and mast-cell-directed therapy
+- Clarification of US regulatory pathway, given that all current authorizations are cancelled
+- Interaction review for patients on concurrent therapies, especially those with Moderate-level interactions
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,33 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Fluconazole: From Antifungal Therapy to Punctate Epithelial Keratoconjunctivitis
+# Fluconazole: From Candidiasis to Punctate Epithelial Keratoconjunctivitis
 
 ## One-Sentence Summary
 
-Fluconazole is an azole antifungal that is widely marketed in the United States.
+Fluconazole is an azole antifungal originally used for candidiasis (oral, esophageal, vulvovaginal, disseminated) and cryptococcal meningitis.
 The TxGNN model predicts it may be effective for **punctate epithelial keratoconjunctivitis**,
-but there are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction is a model output only.
+but currently there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the source data (fluconazole is an antifungal) |
+| Original Indication | Oral candidiasis, candidiasis, vulvovaginal candidiasis, esophageal candidiasis, cryptococcal meningitis, candidemia, disseminated candidiasis |
 | Predicted New Indication | Punctate epithelial keratoconjunctivitis |
 | TxGNN Prediction Score | 99.24% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 10 authorizations in total (1 NDA, 9 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the Evidence Pack. Fluconazole is known to inhibit fungal lanosterol 14-alpha-demethylase (CYP51), which blocks the synthesis of fungal cell membrane ergosterol.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacological knowledge, fluconazole is an azole antifungal that inhibits fungal lanosterol 14-alpha-demethylase (CYP51), blocking ergosterol synthesis. Its efficacy in candidiasis and cryptococcal infection is well established.
 
-The link between this mechanism and the predicted indication is weak. Punctate epithelial keratoconjunctivitis is most often adenoviral or otherwise non-fungal, so an antifungal mechanism has no clear target. The high TxGNN score (0.992) likely reflects knowledge-graph proximity to ocular or antifungal-related nodes rather than real pharmacological rationale.
+A plausible link to the new indication would be a fungal cause or fungal co-infection of the ocular surface. However, punctate epithelial keratoconjunctivitis is most often caused by viral (e.g., adenoviral), bacterial, toxic or dry-eye-related mechanisms. An antifungal rationale is therefore not established, and any link is speculative.
 
-Because the original indications are also missing from the input, the prediction cannot be checked against known drug biology. It should be treated as an unvalidated, low-plausibility hypothesis.
+The high model score (0.992) is not clinical evidence. One way to test the prediction would be to check whether it is driven by a related node, such as fungal keratitis, in the knowledge graph.
 
 ## Clinical Trial Evidence
 
@@ -67,34 +67,43 @@ Currently no related literature available.
 
 ## US Market Information
 
-The source data lists 20 authorizations in total; the five main ones are shown below. Approved indication text was not provided for any of them.
+All authorizations listed below are cancelled; none is currently valid. Only 5 of the 10 are shown. Approved indication text was not available for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer | Approved Indication |
-|---------|------|------|------|-----------|
-| ANDA078764 | Fluconazole | Injection | Hikma Pharmaceuticals USA Inc. | Not listed |
-| ANDA076658 | Fluconazole | Tablet | Cardinal Health 107, LLC | Not listed |
-| ANDA077731 | Fluconazole | Tablet | Sportpharm LLC | Not listed |
-| ANDA078698 | Fluconazole | Injection | Hikma Pharmaceuticals USA Inc. | Not listed |
-| ANDA078423 | Fluconazole | Tablet | Golden State Medical Supply, Inc. | Not listed |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA020090 | Fluconazole (Mylan Pharmaceuticals Inc.) | Powder, for suspension | Not available |
+| ANDA078764 | Fluconazole (Hikma Pharmaceuticals USA Inc.) | Injection | Not available |
+| ANDA076658 | Fluconazole (Cardinal Health 107, LLC) | Tablet | Not available |
+| ANDA208963 | Fluconazole (Zydus Pharmaceuticals (USA) Inc.) | Tablet | Not available |
+| ANDA079104 | Fluconazole (Sagent Pharmaceuticals) | Injection, solution | Not available |
 
-Available dosage forms include oral tablets, injections (including injection solutions), and powder for suspension. No ophthalmic (topical eye) formulation appears in the data.
+Dosage forms across all authorizations: injectable (injection, injection solution), oral (tablet), and powder for suspension. Route compatibility with an ocular indication has not been assessed.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug interaction records were found in the queried source.
+**Contraindication-related diseases (from knowledge graph, not label text):** long QT syndrome, familial long QT syndrome, kidney disease, pyoureter, liver disease, gallbladder disease.
+
+**Drug Interactions:** 100 interactions were found in total. The first 20 returned include:
+- **Major:** chlorpropamide
+- **Moderate:** famotidine, rabeprazole, omeprazole, dexlansoprazole, hydrocortisone, dexamethasone, betamethasone, triamcinolone, budesonide (including nasal), loperamide, aprepitant, bisacodyl, picosulfuric acid, polyethylene glycol 3350 with electrolytes, saxagliptin
+- **Minor:** amphotericin B (including lipid complex), clarithromycin
+
+Package insert warnings and contraindications were not available. Please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone (Evidence Level L5). No clinical trials or literature support it, and the antifungal mechanism does not plausibly match a mostly non-fungal condition.
+The prediction rests only on a model score. There are no clinical trials or publications, the mechanistic link to a mainly viral, bacterial, toxic or dry-eye-related condition is weak, and all US authorizations are cancelled.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data from DrugBank and the original approved indications
-- A literature and trial search for fluconazole in punctate epithelial keratoconjunctivitis and fungal keratitis
-- An assessment of route compatibility, since the marketed forms are oral and injectable and no ophthalmic formulation is listed
+- Review the knowledge-graph paths behind the prediction (e.g., a fungal keratitis link)
+- Literature and trial searches for fluconazole in ocular surface disease
+- Mechanism of action data and a clearer rationale for this indication
+- Assessment of route compatibility (systemic vs. ocular delivery)
+- Package insert warnings and contraindications, including QT prolongation and hepatic/renal risk
+- Clarification of the current US regulatory status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

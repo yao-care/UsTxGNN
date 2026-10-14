@@ -29,13 +29,13 @@ Evidence Level: **L3** | Predicted Indications: **1**
 
 </div>
 
-# Micafungin: From Systemic Candida Infections to Urinary Tract Infection
+# Micafungin: From Candidemia and Invasive Candidiasis to Urinary Tract Infection
 
 ## One-Sentence Summary
 
-Micafungin is an echinocandin antifungal marketed in the US as an injectable, used mainly against Candida infections. The original indication is not in the Evidence Pack and comes from general pharmacology knowledge.
-The TxGNN model predicts it may be effective for **urinary tract infection (Candida UTI / candiduria)**.
-Support is currently **0 registered clinical trials** and **13 publications**, all non-randomized (PK study, retrospective cohorts, case series and case reports).
+Micafungin is an echinocandin antifungal originally used to treat esophageal candidiasis, candidemia, and disseminated candidiasis.
+The TxGNN model predicts it may be effective for **urinary tract infection (Candida UTI / candiduria)**,
+with **no registered clinical trials** but **12 publications** (mostly cohort studies, case reports, and case series) currently supporting this direction.
 
 ---
 
@@ -43,23 +43,23 @@ Support is currently **0 registered clinical trials** and **13 publications**, a
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the Evidence Pack (US label text is empty). General knowledge: invasive Candida infections |
+| Original Indication | Esophageal candidiasis, candidemia, disseminated candidiasis (the US label indication text was not available in the data compiled for this report) |
 | Predicted New Indication | Urinary tract infection |
 | TxGNN Prediction Score | 99.03% |
 | Evidence Level | L3 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (includes ANDA generics) |
+| US Market Status | Cancelled only (all 11 listed authorizations are recorded as cancelled) |
+| Number of NDAs | 11 authorizations (3 NDAs and 8 ANDAs) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Micafungin is an echinocandin that inhibits 1,3-beta-D-glucan synthase and disrupts the fungal cell wall. It is active against Candida species, including azole-resistant *C. glabrata* and *C. krusei*, and some *C. auris* isolates. The Evidence Pack does not include mechanism-of-action data, so this description comes from general pharmacology.
+Micafungin is an echinocandin that inhibits 1,3-beta-D-glucan synthase, an enzyme needed to build the fungal cell wall. This description comes from general knowledge of the drug class, because the mechanism-of-action field in the data compiled for this report was empty.
 
-Candida is the relevant pathogen in fungal UTI and candiduria, so the link between the original and new indication is plausible. The main obstacle is pharmacokinetic: echinocandins have traditionally been considered poor options for urinary infections because little active drug is excreted in urine.
+The original indications (candidemia and disseminated candidiasis) are caused by the same pathogen, *Candida*, that causes candiduria and Candida urinary tract infection. The prediction is therefore an extension of anti-Candida activity to a new site of infection rather than a new mechanism.
 
-Some clinical reports argue against that view. A pharmacokinetic study (PMID 27424599) reports urinary micafungin levels sufficient to treat Candida UTI. Retrospective series and case reports describe eradication of candiduria, including in azole-resistant cases. The high TxGNN score is therefore biologically plausible, but it rests on non-randomized evidence.
+There is an important pharmacological caveat: echinocandins are excreted in urine only at low levels as active drug, which is why they are not routinely recommended for candiduria. A 2016 study (PMID 27424599) reports that urinary micafungin levels were sufficient to treat Candida UTIs in six patients, which partly addresses this concern. The high TxGNN score is consistent with the clinical reports but is not independent confirmation.
 
 ---
 
@@ -71,40 +71,45 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Study types are as classified in the Evidence Pack. Abstracts were truncated, so some outcomes are not visible.
-
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [27424599](https://pubmed.ncbi.nlm.nih.gov/27424599/) | 2016 | PK study | Int J Antimicrob Agents | Six UTI cases treated successfully with micafungin, four with fluconazole-resistant Candida. Authors conclude urinary micafungin levels are sufficient for Candida UTI. |
-| [27587066](https://pubmed.ncbi.nlm.nih.gov/27587066/) | 2016 | Retrospective cohort | Int Urol Nephrol | Examined candiduria elimination rates in micafungin-treated hospitalized patients. Result figures are not visible in the truncated abstract. |
-| [35146837](https://pubmed.ncbi.nlm.nih.gov/35146837/) | 2022 | Retrospective pediatric cohort | Pediatr Int | Reported outcomes of critically ill children given micafungin for hospital-acquired Candida UTI, including success rates by species. Result figures are not visible. |
-| [26937340](https://pubmed.ncbi.nlm.nih.gov/26937340/) | 2016 | Case series | Med Mycol Case Rep | Five patients received at least 6 days of parenteral micafungin. All had resolution of baseline candiduria within 30 days of treatment completion. |
-| [31111613](https://pubmed.ncbi.nlm.nih.gov/31111613/) | 2019 | Case report | Transpl Infect Dis | Chronic symptomatic *C. krusei* UTI in a liver and kidney transplant recipient, treated with increased-dose micafungin. The title reports successful eradication. |
-| [38827222](https://pubmed.ncbi.nlm.nih.gov/38827222/) | 2024 | Case report | Front Pediatr | *C. glabrata* urinary infection in a premature neonate treated with micafungin. |
-| [40765059](https://pubmed.ncbi.nlm.nih.gov/40765059/) | 2025 | Case report (from title) | J Pharm Health Care Sci | *C. glabrata* pyelonephritis and bacteremia in a patient on an SGLT2 inhibitor, successfully treated with micafungin. |
-| [38681664](https://pubmed.ncbi.nlm.nih.gov/38681664/) | 2024 | Case report | Med Mycol Case Rep | Renal fungus ball from *C. glabrata* (micafungin-susceptible) resolved with antifungal therapy, endoscopic extraction and stenting. Micafungin's specific role cannot be isolated. |
-| [29109159](https://pubmed.ncbi.nlm.nih.gov/29109159/) | 2018 | Retrospective cohort (indirect) | Antimicrob Agents Chemother | Asymptomatic candiduria is often overtreated with antifungals against guideline advice. This is a caution on appropriate use, not efficacy evidence. |
-| [24182454](https://pubmed.ncbi.nlm.nih.gov/24182454/) | 2014 | Surveillance study (indirect) | Int J Antimicrob Agents | 1,218 US Candida bloodstream infection episodes with antifungal susceptibility data, including micafungin. It concerns bloodstream, not urinary, infection. |
+| [35146837](https://pubmed.ncbi.nlm.nih.gov/35146837/) | 2022 | Cohort | Pediatr Int | Outcomes of micafungin for hospital-acquired Candida UTI in critically ill children in pediatric intensive care, including success rates by Candida species |
+| [27587066](https://pubmed.ncbi.nlm.nih.gov/27587066/) | 2016 | Cohort | Int Urol Nephrol | Rates of candiduria elimination in hospitalized patients treated with micafungin |
+| [27424599](https://pubmed.ncbi.nlm.nih.gov/27424599/) | 2016 | Pharmacokinetic study | Int J Antimicrob Agents | Six UTI cases treated successfully; urinary micafungin levels were sufficient despite low urinary excretion |
+| [26937340](https://pubmed.ncbi.nlm.nih.gov/26937340/) | 2016 | Case series | Med Mycol Case Rep | Five candiduria cases; fungal clearance within 30 days of finishing at least 6 days of micafungin |
+| [31111613](https://pubmed.ncbi.nlm.nih.gov/31111613/) | 2019 | Case report and review | Transpl Infect Dis | Chronic *C. krusei* UTI eradicated with increased-dose micafungin in a liver and kidney transplant recipient |
+| [38827222](https://pubmed.ncbi.nlm.nih.gov/38827222/) | 2024 | Case report | Front Pediatr | *C. glabrata* urinary infection in a premature neonate treated with micafungin |
+| [38681664](https://pubmed.ncbi.nlm.nih.gov/38681664/) | 2024 | Case report | Med Mycol Case Rep | Renal fungus ball from *C. glabrata* (micafungin-sensitive), treated with antifungal therapy plus endoscopic extraction and stent |
+| [40765059](https://pubmed.ncbi.nlm.nih.gov/40765059/) | 2025 | Case report | J Pharm Health Care Sci | Pyelonephritis and bacteremia from *C. glabrata*, successfully treated with micafungin |
+| [33520520](https://pubmed.ncbi.nlm.nih.gov/33520520/) | 2020 | Case report | Cureus | *Candida auris* UTI in a nursing home patient with multiple comorbidities |
+| [29109159](https://pubmed.ncbi.nlm.nih.gov/29109159/) | 2018 | Cohort | Antimicrob Agents Chemother | Multi-institutional study showing overtreatment of asymptomatic candiduria; guidelines advise against antifungals in this setting |
+
+Note: the literature is mostly small case-level evidence with no randomized trials. Surveillance studies on Candida species distribution and susceptibility (for example PMID 39781278 and PMID 24182454) provide background only.
 
 ---
 
 ## US Market Information
 
+All listed authorizations are currently recorded as cancelled, and the approved indication text was not available in the data compiled for this report.
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA021506 | Mycamine (Astellas Pharma US) | Injection, powder, lyophilized, for solution | Not provided in the data |
-| NDA216142 | Micafungin in Sodium Chloride (Baxter Healthcare) | Injection | Not provided in the data |
-| ANDA213363 | Micafungin (Sagent Pharmaceuticals) | Injection, powder, lyophilized, for solution | Not provided in the data |
-| ANDA207344 | Micafungin (Fresenius Kabi USA) | Injection, powder, lyophilized, for solution | Not provided in the data |
-| ANDA215381 | Micafungin (Meitheal Pharmaceuticals) | Injection, powder, lyophilized, for solution | Not provided in the data |
+| NDA021506 | Mycamine (Astellas Pharma US) | Injection, powder, lyophilized, for solution | Not available |
+| NDA216142 | Micafungin in Sodium Chloride (Baxter Healthcare) | Injection | Not available |
+| NDA212156 | Micafungin (Par Health USA) | Injection, powder, lyophilized, for solution | Not available |
+| ANDA207344 | Micafungin (Fresenius Kabi USA) | Injection, powder, lyophilized, for solution | Not available |
+| ANDA213363 | Micafungin (Sagent Pharmaceuticals) | Injection, powder, lyophilized, for solution | Not available |
 
-All listed products are injectables. The Evidence Pack shows 20 authorizations in total, and these are the first five.
+Six more ANDAs (Meitheal, Hisun, Glenmark, Zydus, Hikma, Biocon) are also recorded as cancelled.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Disease-related cautions from the knowledge graph** (not label text): kidney disease and pyoureter are listed as contraindication-related conditions. This is relevant because the proposed indication involves the urinary tract.
+- **Drug Interactions** (5 moderate-level interactions): amphotericin B, nitisinone, everolimus, ribociclib, and sirolimus.
+
+Please refer to the package insert for full warnings and contraindications.
 
 ---
 
@@ -113,14 +118,15 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The biological rationale is plausible, and PK data plus case-level reports suggest micafungin can clear Candida from the urinary tract. However, there are no registered trials, no randomized data, and no comparison against standard therapy such as fluconazole or amphotericin B. The evidence is L3, and the pipeline flags it as a research question. Package-insert safety data are also missing, so safety screening cannot start.
+The literature suggests micafungin can clear Candida from the urinary tract in selected patients, but it consists of small cohort studies, case reports, and case series, with no registered trials. The low urinary excretion of active drug, the knowledge-graph link to kidney disease and pyoureter, and the current cancelled status of all US authorizations argue against moving forward until these are resolved. Guidelines also advise against treating asymptomatic candiduria with antifungals.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications (blocking gap for safety screening)
-- Confirmed original indication text and mechanism-of-action data from DrugBank
-- Full-text review of the retrospective cohorts (PMIDs 27587066, 35146837) to extract eradication rates and urinary concentrations
-- A prospective study or comparative trial in symptomatic Candida UTI, focused on azole-resistant species
-- Guidance on patient selection, because asymptomatic candiduria generally should not be treated with antifungals (PMID 29109159)
+- Package insert warnings and contraindications, which are currently missing and block safety screening
+- Confirmation of current US marketing status, since all 11 authorizations are recorded as cancelled
+- Mechanism-of-action data from a primary source such as DrugBank
+- Urinary pharmacokinetic data to confirm adequate active-drug concentrations at the infection site
+- Controlled or prospective studies in symptomatic Candida UTI, with attention to patients with kidney disease or urinary tract obstruction
+- A review of the moderate drug interactions, especially in transplant patients taking sirolimus or everolimus
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -3,14 +3,14 @@ layout: default
 title: Decitabine
 parent: Moderate Evidence (L3-L4)
 nav_order: 576
-evidence_level: L3
+evidence_level: L4
 indication_count: 1
 ---
 
 # Decitabine
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **1** 
+Evidence Level: **L4** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,33 +29,31 @@ Evidence Level: **L3** | Predicted Indications: **1**
 
 </div>
 
-# Decitabine: From Myelodysplastic Syndromes to Refractory Cytopenia of Childhood
+# Decitabine: From Acute Myeloid Leukemia to Refractory Cytopenia of Childhood
 
 ## One-Sentence Summary
 
-Decitabine is a hypomethylating agent marketed in the US for myelodysplastic syndromes (MDS).
-The TxGNN model predicts it may be useful for **refractory cytopenia of childhood (RCC)**, the most common pediatric MDS subtype.
-Support is thin: **0 registered clinical trials** and **1 publication** (a single-center retrospective cohort in pediatric MDS).
+Decitabine is a DNA-hypomethylating agent originally used for myeloid leukemias, including acute myeloid leukemia (AML) and related myelodysplastic conditions.
+The TxGNN model predicts it may be effective for **Refractory Cytopenia of Childhood (RCC)**, a pediatric myelodysplastic syndrome subtype.
+Support is currently limited: **0 registered clinical trials** and **2 publications** (one retrospective cohort and one case report).
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Myelodysplastic syndromes (from general drug knowledge; the approved-indication text was empty in the input data) |
+| Original Indication | Myeloid leukemia (including AML and its subtypes) |
 | Predicted New Indication | Refractory cytopenia of childhood |
-| TxGNN Prediction Score | 99.03% (a model output, not clinical evidence) |
-| Evidence Level | L3 |
-| US Market Status | ✓ Marketed |
-| Number of Licenses | 20 (generic ANDAs) |
+| TxGNN Prediction Score | 99.03% |
+| Evidence Level | L4 |
+| US Market Status | Cancelled only (all 13 listed authorizations are cancelled) |
+| Number of NDAs | 13 (all ANDA generic applications, none currently valid) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not currently available in the input. Decitabine is a DNA methyltransferase inhibitor (hypomethylating agent). It is thought to reverse abnormal DNA hypermethylation in dysplastic blood-forming clones. This explanation comes from general knowledge of the drug class, not from the Evidence Pack.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on the drug's known class pharmacology, decitabine is a hypomethylating agent (DNA methyltransferase inhibitor) already used in myeloid malignancies, including AML and myelodysplastic syndromes (MDS).
 
-RCC is the most common pediatric MDS subtype, so its biology overlaps with adult MDS, the setting where decitabine is already used. That makes the prediction biologically plausible.
-
-The one available paper does not test decitabine alone. It studies decitabine as part of a minimally myelosuppressive regimen used to bridge children to allogeneic stem cell transplantation. The evidence therefore supports decitabine as a bridging or conditioning component, not as standalone therapy for RCC. The paper covers pediatric MDS in general, and no RCC-specific results are confirmed.
+RCC is the most common pediatric MDS subtype. The shared biology of aberrant DNA methylation and clonal myeloid dysregulation provides a plausible mechanistic rationale. This link rests on class-level knowledge rather than on the supplied data. The high TxGNN score (0.99) is a computational prediction and does not substitute for clinical evidence.
 
 ## Clinical Trial Evidence
 
@@ -65,51 +63,54 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [35624441](https://pubmed.ncbi.nlm.nih.gov/35624441/) | 2022 | Cohort (inferred as retrospective, single center) | BMC Pediatrics | 10-year single-center experience with decitabine plus a minimally myelosuppressive regimen bridging to allo-HSCT in children with MDS. Only the study objective was available; outcome data and RCC-specific results were not confirmed. |
+| [35624441](https://pubmed.ncbi.nlm.nih.gov/35624441/) | 2022 | Cohort (likely retrospective; design not confirmed) | BMC Pediatrics | Single-center, 10-year experience of decitabine combined with a minimally myelosuppressive regimen as a bridge to allogeneic HSCT in pediatric MDS |
+| [42125547](https://pubmed.ncbi.nlm.nih.gov/42125547/) | 2026 | Case report | Experimental and Therapeutic Medicine | Decitabine monotherapy in an 8-year-old with MDS/RCC who was ineligible for HSCT or immunosuppressive therapy |
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|------|
-| ANDA210756 | Decitabine | Lyophilized powder for injection | Fresenius Kabi USA, LLC |
-| ANDA204607 | Decitabine | Lyophilized powder for injection | Mylan Institutional LLC |
-| ANDA203131 | Decitabine | Lyophilized powder for injection | Dr. Reddy's Laboratories Inc. |
-| ANDA215355 | Decitabine | Lyophilized powder for injection | Camber Pharmaceuticals, Inc. |
-| ANDA203131 | Decitabine | Lyophilized powder for injection | Dr. Reddy's Laboratories Limited |
+All 13 authorizations in the data are generic ANDAs for lyophilized powder for injection solution, and all are listed as cancelled. Approved indication text is not available. The five main entries are shown below.
 
-The approved-indication text was not provided for these authorizations. All listed products are injectables.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA210756 | Decitabine | Injection, powder, lyophilized, for solution | Fresenius Kabi USA, LLC |
+| ANDA204607 | Decitabine | Injection, powder, lyophilized, for solution | Mylan Institutional LLC |
+| ANDA203131 | Decitabine | Injection, powder, lyophilized, for solution | Dr. Reddy's Laboratories Inc. |
+| ANDA215355 | Decitabine | Injection, powder, lyophilized, for solution | Camber Pharmaceuticals, Inc. |
+| ANDA206033 | Decitabine | Injection, powder, lyophilized, for solution | Amneal Pharmaceuticals LLC |
 
 ## Cytotoxicity
 
-This section is based on general knowledge of the drug class, not on the Evidence Pack. Please also refer to the package insert warnings and precautions.
-
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (hypomethylating nucleoside analog) |
-| Myelosuppression Risk | High (neutropenia and thrombocytopenia are common) |
-| Emetogenicity Classification | Low |
-| Monitoring Items | CBC with differential and platelets, liver and renal function |
-| Handling Protection | Follow hazardous (cytotoxic) drug handling regulations |
+| Cytotoxicity Classification | Hypomethylating agent (nucleoside analogue); cytotoxic antineoplastic |
+| Myelosuppression Risk | High expected. The knowledge graph links decitabine to neutropenia, thrombocytopenia and agranulocytosis as cautions |
+| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
+| Monitoring Items | CBC with differential and platelet counts, liver and renal function |
+| Handling Protection | Follow cytotoxic drug handling regulations |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Knowledge-graph contraindication signals** (not label text): kidney disease, pyoureter, liver disease, gallbladder disease, thrombocytopenia, diabetes mellitus, diabetic ketoacidosis, neutropenia, agranulocytosis. These are especially relevant in a population with cytopenias.
+- **Drug Interactions**: 100 interactions were identified; the main ones from the first 20 reviewed are:
+  - **Major**: deferiprone, samarium (153Sm) lexidronam, adalimumab, baricitinib
+  - **Moderate**: palifermin, strontium chloride Sr-89, mercaptopurine, roflumilast, chloramphenicol, zidovudine, aldesleukin, alemtuzumab, ganciclovir, gemcitabine, azathioprine, anakinra, and certain vaccines (tetanus toxoid, anthrax)
+  - Many of these involve additive myelosuppression or immunosuppression.
+
+Please refer to the package insert for official warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The only evidence is one retrospective single-center cohort. It studies decitabine in a combination regimen for pediatric MDS in general, not as monotherapy or specifically in RCC. The package insert safety data is also missing, which blocks the safety screening step. The pediatric setting and the drug's high myelosuppression risk make that gap especially important.
+The prediction is mechanistically plausible, but evidence is limited to one likely-retrospective cohort and one case report (L4), with no registered trials. All US authorizations are listed as cancelled, and the supplied data lack label safety information. In a pediatric population already affected by cytopenias, the drug's myelosuppressive potential also warrants caution.
 
 **To proceed, the following is needed:**
-- The FDA package insert (warnings, contraindications, approved indications), parsed into the safety data
-- Mechanism of action data from DrugBank
-- The full text of PMID 35624441, to confirm study design, population (RCC subgroup) and outcomes
-- A search of trial registries (including ICTRP) and the literature for RCC-specific decitabine studies
-- Pediatric dosing and toxicity data, particularly for combination regimens before transplant
-
-*This report is for research reference only and does not constitute medical advice. Drug repurposing candidates require clinical validation before any application.*
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism of action data (MOA)
+- Confirmation of the current US regulatory and marketing status
+- Prospective or controlled pediatric data, such as registered trials in RCC/pediatric MDS
+- A pediatric-specific myelosuppression monitoring and dosing plan
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

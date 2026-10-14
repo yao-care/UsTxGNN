@@ -29,31 +29,32 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Aflibercept: From Ocular Anti-VEGF Therapy to Esotropia
+# Aflibercept: From Metastatic Colon Cancer and Retinal Disease to Esotropia
 
 ## One-Sentence Summary
 
-Aflibercept is a VEGF trap given by injection into the eye and marketed in the US under several biologic licenses. The TxGNN model predicts it may be effective for **esotropia**, but there are currently **0 clinical trials** and **0 publications** supporting this direction. The prediction is model-only and no mechanistic link has been established, so it should be treated as a low-confidence signal.
+Aflibercept is a recombinant fusion protein that blocks VEGF, originally used for metastatic colorectal cancer and retinal diseases such as macular degeneration, diabetic macular edema, and retinal artery occlusion.
+The TxGNN model predicts it may be effective for **esotropia**, but **no clinical trials and no publications** currently support this direction. This is a computational prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the data provided (the mechanism notes describe intravitreal use for retinal vascular diseases) |
+| Original Indication | Metastasis from malignant tumor of colon; macular degeneration; retinal artery occlusion; diabetic macular edema |
 | Predicted New Indication | Esotropia |
 | TxGNN Prediction Score | 99.38% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 9 (all listed licenses are BLAs) |
+| US Market Status | Cancelled only (all 6 licenses cancelled) |
+| Number of NDAs | 6 (BLA licenses) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the source data. Based on known information, aflibercept is a trap for VEGF-A, VEGF-B and placental growth factor (PlGF). It is used in the eye for retinal vascular diseases.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, aflibercept traps VEGF-A, VEGF-B, and placental growth factor (PlGF), which reduces abnormal blood vessel growth and vascular leakage. This is why it is used in retinal vascular diseases and in colorectal cancer.
 
-Esotropia is inward misalignment of the eye. It usually arises from extraocular muscle, neural or refractive problems rather than from abnormal blood vessel growth. No pathway from VEGF inhibition to correcting this misalignment is supported by the provided data.
+The link to esotropia is weak. Esotropia is a form of strabismus (inward eye turning) caused by neuromuscular, refractive, or accommodative factors. The data compiled for this report establish no direct biological connection between VEGF inhibition and these causes. One possible indirect link is that anti-VEGF agents are used in retinal diseases, such as retinopathy of prematurity, which can co-occur with or lead to secondary strabismus. That would be a link to a comorbidity, not a treatment effect on esotropia, and it remains speculative.
 
-The high score (0.994) is a knowledge-graph output only. It may reflect the drug's general ophthalmic associations rather than a real therapeutic relationship. Strabismus is sometimes seen after retinopathy of prematurity, which anti-VEGF agents treat. That is a different indication and does not show that aflibercept treats esotropia itself.
+The high TxGNN score (0.994) reflects a model-based computational association. It should not be read as evidence of clinical efficacy.
 
 ## Clinical Trial Evidence
 
@@ -67,28 +68,53 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA761378 | AHZANTIVE (Valorum Biologics) | Injection, solution | Not listed in the data provided |
-| BLA761377 | EYDENZELT (Celltrion USA) | Injection | Not listed in the data provided |
-| BLA125387 | EYLEA (Regeneron) | Injection, solution | Not listed in the data provided |
-| BLA761355 | EYLEA HD (Regeneron) | Injection, solution | Not listed in the data provided |
-| BLA761298 | PAVBLU (Amgen) | Injection, solution | Not listed in the data provided |
+| BLA761378 | AHZANTIVE | Injection, solution | Not available (status: cancelled) |
+| BLA761377 | EYDENZELT | Injection | Not available (status: cancelled) |
+| BLA125387 | EYLEA | Injection, solution | Not available (status: cancelled) |
+| BLA761355 | EYLEA HD | Injection, solution | Not available (status: cancelled) |
+| BLA761298 | PAVBLU | Injection, solution | Not available (status: cancelled) |
+
+A sixth license, BLA125418 (ZALTRAP, solution concentrate, sanofi-aventis U.S. LLC), is also listed as cancelled. All 6 licenses are cancelled, and none is currently valid in the compiled data.
+
+## Cytotoxicity
+
+| Item | Content |
+|------|------|
+| Cytotoxicity Classification | Targeted therapy (anti-VEGF fusion protein), not a conventional cytotoxic agent |
+| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
+| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
+| Monitoring Items | Please refer to the package insert warnings and precautions |
+| Handling Protection | Please refer to the package insert warnings and precautions |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug-drug interaction records were found for this drug.
+**Drug Interactions:** The interaction screening completed and identified **78 interacting drugs**. Examples of the interactions rated **Major** include:
+- Deferiprone
+- Samarium (153Sm) lexidronam
+- Adalimumab
+- Baricitinib
+- Certolizumab pegol
+- Cladribine
+- Clozapine
+
+Examples rated **Moderate** include strontium chloride Sr-89, roflumilast, chloramphenicol (systemic and ophthalmic), zidovudine, alefacept, alemtuzumab, anakinra, azathioprine, canakinumab, and several vaccines (tetanus toxoid, anthrax, live cholera).
+
+Only a subset of the 78 interactions is shown here. Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score, with no trials, no literature and no supported mechanistic link between VEGF inhibition and esotropia. Safety data are also missing, so there is no basis to advance.
+The prediction rests only on a model score. No clinical trials or publications support aflibercept for esotropia, and no direct mechanistic link between VEGF inhibition and esotropia is established. In addition, all US licenses are currently listed as cancelled, and label-based safety data are missing.
 
 **To proceed, the following is needed:**
-- Obtain the FDA package insert (warnings and contraindications), which is blocking for safety screening
-- Obtain mechanism of action data from DrugBank
-- Find any preclinical or clinical evidence linking anti-VEGF therapy to esotropia or strabismus
-- Assess whether intravitreal delivery is compatible with a strabismus indication (route compatibility is still pending)
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism of action data
+- Preclinical or mechanistic evidence linking VEGF signalling to esotropia or its causes
+- A literature and trial search for anti-VEGF use in strabismus and retinopathy of prematurity–related strabismus
+- Clarification of current US licensing and market status
+- Assessment of route compatibility, since intravitreal or intravenous injection may not suit a strabismus indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

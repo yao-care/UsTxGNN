@@ -29,96 +29,68 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ravulizumab: From Complement-Mediated Disease (PNH) to Autosomal Recessive Severe Congenital Neutropenia due to G6PC3 Deficiency
+# Ravulizumab: From Paroxysmal Nocturnal Hemoglobinuria to Autosomal Recessive Severe Congenital Neutropenia (G6PC3 Deficiency)
 
 ## One-Sentence Summary
 
-Ravulizumab is a C5 complement inhibitor, marketed in the US as Ultomiris. The TxGNN model predicts it may be effective for **autosomal recessive severe congenital neutropenia due to G6PC3 deficiency**, but there are **0 clinical trials** and **0 publications** supporting this direction. The prediction is purely graph-based, and no mechanistic link has been identified.
-
----
+Ravulizumab is a long-acting C5 complement inhibitor, originally used to treat paroxysmal nocturnal hemoglobinuria (PNH).
+The TxGNN model predicts it may be effective for **autosomal recessive severe congenital neutropenia due to G6PC3 deficiency**,
+but **no clinical trials and no publications** currently support this prediction, so it rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Complement-mediated disease (PNH is cited in the mechanism review; the approved indication text was not provided in the Evidence Pack) |
+| Original Indication | Paroxysmal nocturnal hemoglobinuria |
 | Predicted New Indication | Autosomal recessive severe congenital neutropenia due to G6PC3 deficiency |
 | TxGNN Prediction Score | 99.96% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 3 records (all BLA761108) |
+| US Market Status | Cancelled only (the single BLA is listed as cancelled) |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the database. Based on known information, ravulizumab is a terminal complement (C5) inhibitor. Its efficacy in complement-mediated hemolysis, as in PNH, is established, but that mechanism does not obviously extend to the predicted indication.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known information, ravulizumab is a long-acting inhibitor of complement component C5. Its efficacy in PNH, a disease of complement-mediated hemolysis, is the basis of its original indication.
 
-**The prediction is weak mechanistically.** G6PC3 deficiency causes neutrophil apoptosis and ER stress through accumulation of 1,5-anhydroglucitol-6-phosphate. This is not a complement-driven process, so blocking C5 has no clear rationale. The high TxGNN score reflects graph-based similarity only, with no supporting clinical or mechanistic data.
+The predicted disease is different in nature. G6PC3 deficiency is a defect in glucose-6-phosphatase catalytic subunit 3, which causes neutrophil apoptosis and endoplasmic reticulum stress. No established link exists between terminal complement activation and this neutropenia. The high TxGNN score appears to reflect network proximity within the knowledge graph rather than a biologically validated mechanism.
 
-**The other top-10 predictions are similarly unsupported.** All have Evidence Level L5, with no clinical trials or literature:
-
-| Rank | Predicted Indication | TxGNN Score | Mechanistic Assessment |
-|------|------|------|------|
-| 2 | Cyclic hematopoiesis | 99.94% | No plausible link (ELANE-driven precursor maturation defect) |
-| 3 | Primary hyperoxaluria | 99.90% | Speculative, indirect link only (secondary complement activation from oxalate crystals); the primary defect is hepatic oxalate overproduction |
-| 4 | Severe congenital neutropenia | 99.87% | No link; C5 inhibition raises infection risk in neutropenic patients |
-| 5 | Severe congenital neutropenia due to CXCR2 deficiency | 99.86% | Distant conceptual overlap via C5a/neutrophil recruitment; no supporting data |
-| 6 | Primary immunodeficiency due to p14 deficiency | 99.83% | No rationale; complement inhibition would further compromise immune defense |
-| 7 | Pseudo-von Willebrand disease | 99.82% | No plausible link (GP1BA gain-of-function) |
-| 8 | X-linked severe congenital neutropenia | 99.82% | No link (WAS gain-of-function) |
-| 9 | Primary release disorder of platelets | 99.81% | No plausible link (platelet granule secretion defect) |
-| 10 | Megaloblastic anemia | 99.80% | Weak and indirect; cause is B12/folate deficiency, treated by replacement |
-
----
+The other top-ranked predictions show the same pattern. These include cyclic hematopoiesis, severe congenital neutropenia, CXCR2 deficiency, primary hyperoxaluria, and pseudo-von Willebrand disease. None has a recognized role for C5 inhibition, and none has supporting trials or literature. Primary hyperoxaluria is the only one with even a speculative indirect link, through complement-related secondary renal injury from calcium oxalate crystals. Its primary disease driver is not addressed by C5 blockade.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA761108 | Ultomiris | Solution, concentrate | Alexion Pharmaceuticals Inc. |
-
-The Evidence Pack contains 3 identical records for this BLA. The approved indication text was empty in all of them.
-
----
+| BLA761108 | Ultomiris (Alexion Pharmaceuticals Inc.) | Solution, concentrate | Not listed in the compiled data (status: cancelled) |
 
 ## Safety Considerations
 
-- **Infection risk**: Complement C5 inhibition increases susceptibility to infections with encapsulated bacteria. This is a particular concern in neutropenia and primary immunodeficiency, where the predicted indications already carry high infection risk.
-- **Drug Interactions**: No interaction records were found.
+- **Contraindication signal from the knowledge graph**: Meningococcal infection is listed as a contraindicated disease. This comes from knowledge graph edges, not from package insert text. It is consistent with the known infection risk from terminal complement blockade, and the risk is greater in patients with immunodeficiency.
+- **Drug Interactions**: Four interactions were found, all rated Minor. They involve human immunoglobulin G in its intravenous, subcutaneous, intramuscular, and combined intravenous/subcutaneous forms.
 
-Please refer to the package insert for full warnings and contraindications.
-
----
+Please refer to the package insert for other warnings and contraindications. The label text was not available when this report was compiled.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The predictions rest on model scores alone (Evidence Level L5). There are no trials or publications, and no plausible mechanistic link between C5 inhibition and the predicted diseases. For the neutropenia and immunodeficiency predictions, complement blockade may cause harm rather than benefit.
+The prediction has no clinical trial or literature support (Evidence Level L5), and no plausible mechanistic link between C5 inhibition and G6PC3-deficiency neutropenia. Complement blockade also carries a serious risk of meningococcal and other encapsulated-organism infection, which is a particular concern in neutropenic or immunodeficient patients. In addition, the only US license is listed as cancelled.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data from DrugBank
-- Approved indication text for the original indication
-- Any preclinical or clinical evidence linking complement C5 to the predicted disease pathophysiology
-- A benefit-risk assessment of infection risk in neutropenic or immunodeficient populations
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Mechanistic evidence for complement involvement in G6PC3-deficiency neutropenia, such as preclinical or biomarker studies
+- Detailed mechanism-of-action data for ravulizumab
+- The full package insert, to review warnings and contraindications
+- Clarification of the US regulatory status and the reason for cancellation
+- A risk-benefit assessment of infection risk (including meningococcal vaccination and prophylaxis) in neutropenic patients
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

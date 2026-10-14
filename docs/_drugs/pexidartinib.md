@@ -29,79 +29,97 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Pexidartinib: From Tenosynovial Giant Cell Tumor to HER2-Positive Breast Carcinoma
+# Pexidartinib: From Tenosynovial Giant Cell Tumor to HER2 Positive Breast Carcinoma
 
 ## One-Sentence Summary
 
-Pexidartinib (Turalio) is an oral CSF1R/KIT/FLT3 kinase inhibitor. The supplied data list no approved-indication text, but the retrieved literature describes its FDA approval for symptomatic tenosynovial giant cell tumor (TGCT).
-The TxGNN model predicts it may be effective for **HER2-positive breast carcinoma**, but only **1 indirect clinical trial** and **0 publications** support this, so it remains a prediction to be validated.
+Pexidartinib is an oral kinase inhibitor originally used to treat tenosynovial giant cell tumor (TGCT, also called pigmented villonodular synovitis).
+The TxGNN model predicts it may be effective for **HER2 positive breast carcinoma**, but this rests on the model score alone: there are **0 clinical trials** and **1 preclinical publication**, and that paper does not study HER2-positive disease or pexidartinib itself.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the license data. Literature describes symptomatic tenosynovial giant cell tumor (TGCT) not amenable to surgery |
+| Original Indication | Tenosynovial giant cell tumor (including the localized type and pigmented villonodular synovitis) |
 | Predicted New Indication | HER2 positive breast carcinoma |
 | TxGNN Prediction Score | 99.98% |
-| Evidence Level | L4 (effectively prediction-only; the one linked trial is indirect) |
-| US Market Status | ✓ Marketed |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no currently valid license) |
 | Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
+---
+
 ## Why is This Prediction Reasonable?
 
-The mechanism of action field is empty in the Evidence Pack. Literature in the pack describes pexidartinib as a small-molecule inhibitor of CSF1R, KIT and FLT3-ITD. Blocking CSF1R can reduce the macrophages that support tumors, which is why it works in TGCT, a tumor driven by CSF1 overexpression.
+Detailed mechanism-of-action data is not available in the data compiled for this report. The published literature describes pexidartinib as an oral inhibitor of colony-stimulating factor 1 receptor (CSF1R), KIT and FLT3-ITD. In TGCT, CSF1 overexpression recruits CSF1R-bearing macrophages that drive tumor growth, and pexidartinib's efficacy there is well established.
 
-The link to breast cancer is indirect. Tumor-associated macrophages are present in breast tumors, so CSF1R blockade could plausibly affect the tumor microenvironment. However, the pack contains no HER2-specific mechanism or data, and the high TxGNN score is a graph-based prediction only.
+The proposed link to breast cancer is indirect. CSF1R inhibition can reprogram tumor-associated macrophages, which may counter immunosuppression in the tumor microenvironment. The only linked paper (PMID 41986650) is a preclinical study in which CSF1R inhibitors reduced CDK4/6 inhibitor-induced immunosuppression in **HR+/HER2-** breast cancer. It addresses CSF1R inhibitors in general, not HER2-positive disease and not pexidartinib specifically.
 
-The pack's better-supported breast cancer signal is for the PR-negative (triple-negative-like) subset. There, a completed Phase 1/2 study combined pexidartinib (PLX3397) with eribulin. Efficacy results were not provided.
+TGCT is a benign, locally aggressive synovial tumor, so its biology is very different from HER2-driven breast cancer. The high TxGNN score (99.98%) is a computational prediction only and is not backed by indication-specific clinical or mechanistic data.
+
+---
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT01042379](https://clinicaltrials.gov/study/NCT01042379) | Phase 2 | Recruiting | 5000 | I-SPY 2 adaptive platform trial across many breast cancer agents. A pexidartinib arm or HER2-specific result is not confirmed in the supplied data (relevance grade C) |
-| [NCT01596751](https://clinicaltrials.gov/study/NCT01596751) | Phase 1/2 | Completed | 67 | PLX3397 plus eribulin in metastatic breast cancer, targeting macrophages in triple-negative/basal-like disease. It was listed under the PR-negative prediction, not HER2, and efficacy outcomes were not provided (relevance grade A for that subtype) |
+Currently no related clinical trials registered.
+
+---
 
 ## Literature Evidence
 
-Currently no related literature available for HER2-positive breast carcinoma.
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [41986650](https://pubmed.ncbi.nlm.nih.gov/41986650/) | 2026 | Preclinical | Oncogene | CSF1R inhibitors mitigate CDK4/6 inhibitor-induced immunosuppression and increase antitumor immunity in HR+/HER2- breast cancer. It does not address HER2-positive disease or pexidartinib. |
+
+---
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA211810 | Turalio (Daiichi Sankyo Inc.) | Capsule (oral) | Not provided in the source data |
+| NDA211810 (cancelled) | Turalio (Daiichi Sankyo Inc.) | Capsule (oral) | Indication text not provided in the data compiled |
+
+---
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (CSF1R/KIT/FLT3 tyrosine kinase inhibitor) |
+| Cytotoxicity Classification | Targeted therapy (small-molecule kinase inhibitor: CSF1R, KIT, FLT3) |
 | Myelosuppression Risk | Please refer to the package insert warnings and precautions |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Liver function tests (hepatotoxicity is the key risk noted in the pack) |
+| Monitoring Items | Liver function is the key parameter (hepatotoxicity is the principal concern, with a boxed warning and REMS program noted in the compiled data); other parameters per the package insert |
 | Handling Protection | Please refer to the package insert warnings and precautions |
+
+---
 
 ## Safety Considerations
 
-- **Key Warnings**: Hepatotoxicity boxed warning, with a restricted-access risk program (from the pack's repurposing rationale). Use is label-restricted to symptomatic TGCT not amenable to surgery.
+- **Key Warnings**: The compiled data notes a boxed warning for serious hepatotoxicity and restricted access through a REMS program. A dedicated long-term hepatic safety analysis in TGCT patients is available (PMID 33289960). Full package insert text was not available.
+- **Drug Interactions**: The query returned 100 interactions, of which 20 were reviewed. Major-level interactions among them include:
+  - Acid-suppressing drugs: omeprazole, rabeprazole, dexlansoprazole
+  - Antibiotics: clarithromycin, doxycycline, minocycline, tetracycline
+  - Other drugs: acarbose, pioglitazone, bupropion, aprepitant, chenodeoxycholic acid
 
-Please refer to the package insert for the full safety information.
+  Moderate interactions include famotidine, ranitidine, cimetidine, metformin, dexamethasone, budesonide, magnesium oxide and saxagliptin. A clinical study (PMID 32918831) evaluated pexidartinib's effects on CYP2C9, CYP2C19, CYP3A and P-glycoprotein substrates.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The HER2-positive breast carcinoma prediction rests on a high model score, one large platform trial with no confirmed pexidartinib arm, and no literature. The pack's best-supported use is TGCT (Phase 3 ENLIVEN, PMID 31229240, long-term follow-up and a Phase 4 study), which is already approved and is not a new repurposing. In breast cancer, only the PR-negative/triple-negative-like subset has a direct early-phase signal, and its efficacy outcomes have not been reviewed.
+The prediction for HER2-positive breast carcinoma has no clinical trials and only one general preclinical paper in a different breast cancer subtype (HR+/HER2-). The evidence level is L5, and the US license is cancelled-only. The boxed hepatotoxicity warning also raises the bar for any new oncology use.
 
 **To proceed, the following is needed:**
-- Confirm whether I-SPY 2 (NCT01042379) included a pexidartinib arm, and obtain any HER2-specific results
-- Obtain and review the efficacy outcomes of NCT01596751 (PLX3397 plus eribulin)
-- Preclinical or mechanistic evidence for CSF1R inhibition in HER2-positive disease
-- The FDA package insert warnings and contraindications (a blocking data gap), followed by a liver-safety monitoring plan
-- Mechanism of action data from DrugBank
+- Pexidartinib-specific preclinical data in HER2-positive breast cancer models, alone and combined with HER2-targeted therapy
+- Detailed mechanism-of-action data (MOA) and a clear rationale for the CSF1R/macrophage link in HER2-positive disease
+- Full package insert warnings and contraindications, including the hepatotoxicity risk-benefit assessment for a non-TGCT population
+- A review of regulatory and REMS availability, given the cancelled-only market status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

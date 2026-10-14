@@ -33,31 +33,31 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Ciprofloxacin is a fluoroquinolone antibiotic that is marketed in the US under 20 licenses.
-The TxGNN model predicts it may be useful for **diffuse scleroderma**.
-The evidence is thin: **no registered clinical trials** and **2 publications**, one of which reports a small controlled trial whose design and results have not been confirmed.
+Ciprofloxacin is a fluoroquinolone antibiotic, originally used for bacterial infections such as typhoid fever, bacterial pneumonia, anthrax, and infectious diarrhoea.
+The TxGNN model predicts it may be effective for **diffuse scleroderma** (score 99.87%), but there are **no registered clinical trials** and only **2 publications**, both indirect or exploratory, supporting this direction. The evidence is model-driven and weak.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Bacterial infections (typhoid fever, salmonellosis, bacterial pneumonia, anthrax, Pseudomonas aeruginosa infection, dysentery, shigellosis, among others) |
 | Predicted New Indication | Diffuse scleroderma |
 | TxGNN Prediction Score | 99.87% |
 | Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of Licenses | 20 (ANDA) |
+| US Market Status | Cancelled only (all licences cancelled) |
+| Number of NDAs | 8 (1 NDA, 7 ANDAs; all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Ciprofloxacin is a fluoroquinolone that kills bacteria by inhibiting DNA gyrase and topoisomerase IV. That mechanism explains its antibacterial use but does not by itself explain an effect on scleroderma.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Ciprofloxacin is a fluoroquinolone antibacterial, a class generally known to inhibit bacterial DNA gyrase and topoisomerase IV. Its efficacy in bacterial infections is well established.
 
-Two indirect links to scleroderma appear in the literature:
+The link to diffuse scleroderma is indirect and runs along two possible routes:
 
-- **Antifibrotic effect:** A 2010 study (PMID 20507401) reports that oral ciprofloxacin may reduce skin fibrosis in scleroderma patients. Scleroderma is characterized by excessive skin fibrosis and microvascular injury.
-- **Gut bacterial overgrowth:** Systemic sclerosis patients often have small bowel bacterial overgrowth (SIBO) with diarrhoea and weight loss. An antibiotic could help this complication (PMID 7728404). This would treat a complication, not the underlying disease.
+1. **Antifibrotic effect on skin.** An exploratory study (PMID 20507401) examined whether oral ciprofloxacin reduces the severity of scleroderma, a fibrosing autoimmune connective tissue disease.
+2. **Gastrointestinal complications.** Small bowel bacterial overgrowth is common in systemic sclerosis and can cause diarrhoea and malabsorption. An antibiotic could plausibly help here. However, the one paper retrieved (PMID 7728404) focuses on detecting overgrowth rather than showing a treatment effect.
 
-Both links are plausible but indirect. The study designs were judged from titles and abstracts only and need full-text review.
+The very high TxGNN score is not backed by clinical data. At present this is a hypothesis rather than a validated repurposing signal.
 
 ## Clinical Trial Evidence
 
@@ -67,41 +67,53 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [20507401](https://pubmed.ncbi.nlm.nih.gov/20507401/) | 2010 | Clinical/translational study (design unconfirmed) | J Dermatol | Controlled, double-blind randomized trial testing whether oral ciprofloxacin reduces scleroderma severity, with skin fibrosis as the focus. The retrieved abstract is truncated and gives no results. |
-| [7728404](https://pubmed.ncbi.nlm.nih.gov/7728404/) | 1995 | Diagnostic cohort | Br J Rheumatol | 24 systemic sclerosis patients with malabsorption symptoms were tested for small bowel bacterial overgrowth, and treatment outcome was reported. It addresses gut overgrowth, not ciprofloxacin efficacy on scleroderma itself. |
+| [20507401](https://pubmed.ncbi.nlm.nih.gov/20507401/) | 2010 | Exploratory antifibrotic skin study | The Journal of Dermatology | Tested whether oral ciprofloxacin reduces scleroderma severity as an antifibrotic, using a controlled, double-blind randomised design per the abstract. The abstract available to us was truncated, so results are not confirmed. |
+| [7728404](https://pubmed.ncbi.nlm.nih.gov/7728404/) | 1995 | Diagnostic / cohort | British Journal of Rheumatology | 24 systemic sclerosis patients with malabsorption symptoms were assessed for small bowel bacterial overgrowth, with treatment outcomes reported. It mainly addresses detection, not a clear ciprofloxacin effect. |
 
 ## US Market Information
 
-The retrieved licenses have no approved indication text. Five of the 20 licenses are listed below.
+All eight US authorisations are cancelled, and none has approved-indication text on record.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA077859 | Ciprofloxacin | Tablet, film coated | Medsource Pharmaceuticals |
-| ANDA076639 | Ciprofloxacin | Tablet | Coupler LLC |
-| ANDA076593 | Ciprofloxacin Hydrochloride | Tablet, film coated | Westminster Pharmaceuticals, LLC |
-| ANDA076558 | Ciprofloxacin | Tablet, film coated | Bryant Ranch Prepack |
-| ANDA208921 | Ciprofloxacin | Tablet | Bryant Ranch Prepack |
+| ANDA077859 | Ciprofloxacin (Medsource Pharmaceuticals) | Tablet, film coated | Not recorded |
+| ANDA076639 | Ciprofloxacin (Coupler LLC) | Tablet | Not recorded |
+| ANDA076593 | Ciprofloxacin Hydrochloride (Westminster Pharmaceuticals) | Tablet, film coated | Not recorded |
+| ANDA076558 | Ciprofloxacin (Bryant Ranch Prepack) | Tablet, film coated | Not recorded |
+| ANDA208921 | Ciprofloxacin (Bryant Ranch Prepack) | Tablet | Not recorded |
+
+Three further cancelled licences are not shown: ANDA076126 (Carlsbad Technology), NDA019992 (Proficient Rx, solution/drops), and ANDA075939 (Amneal).
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Safety information is based on drug-disease relationships from a knowledge graph, not package insert text, and should be confirmed against the label.
+
+- **Conditions flagged as contraindicated in the knowledge graph:**
+  - Cardiac: long QT syndrome (including familial), torsades de pointes
+  - Neurological: epilepsy, peripheral neuropathy and other peripheral nervous system disease, myasthenia gravis and other neuromuscular junction disease
+  - Tendon and joint: tendinitis, periarthritis, Achilles bursitis, heel spur, exostosis
+  - Renal and metabolic: kidney disease, pyoureter, potassium deficiency
+  - Gastrointestinal: *Clostridium difficile* colitis, perinatal necrotising enterocolitis
+  - Other: superimposed infection
+- **Drug interactions:** 100 interactions were found. The ones listed include several rated **Major**: hydrocortisone, triamcinolone, dexamethasone, betamethasone (corticosteroids), and bupropion. Many are rated Moderate, including acarbose, metformin, pioglitazone, alogliptin, albiglutide, famotidine, loperamide, alosetron, aprepitant, aspirin, balsalazide, bisacodyl, calcium phosphate, and budesonide.
+- **Points relevant to scleroderma:** Corticosteroids are commonly used in scleroderma, and the major interaction with them (together with the tendon-related contraindications) is a particular concern. Scleroderma patients may also have gastrointestinal and neuromuscular involvement, overlapping with flagged conditions.
+
+Please refer to the package insert for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a high model score, but the supporting evidence is limited. There are no registered trials, and the two publications are one small study of unconfirmed design and one gut-overgrowth cohort. This is a research question, not a development candidate.
+The TxGNN score is very high, but no clinical trials exist, the supporting literature is exploratory or indirect, and the safety profile (tendon, neuropathy, QT, and corticosteroid interaction concerns) is not favourable for a chronic autoimmune fibrosing disease. Other predicted indications on the list, such as plague, rest on stronger evidence, but they largely extend the existing antibacterial use rather than representing true repurposing.
 
 **To proceed, the following is needed:**
-- Full-text review of PMID 20507401 to confirm design, sample size, endpoints and results
-- Package insert warnings and contraindications, which are needed before any safety screening
-- Detailed mechanism of action data linking ciprofloxacin to fibrosis in scleroderma
-- Any registered or planned trial in scleroderma, since none exists today
-
-**Other candidates:** Among the other predicted indications, **septicemic plague** (rank 10) has much stronger support. It has a completed Phase 2 randomized non-inferiority trial (NCT01243437, n=200) and a 2025 randomized trial in bubonic plague (PMID 40768716), and it is rated L2 (Proceed with Guardrails). That may be a labeling gap rather than true repurposing, and it should be evaluated separately.
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
+- Full-text review of PMID 20507401 to confirm design, sample size, and outcomes
+- Mechanism-of-action data and a plausible antifibrotic pathway
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Clinical evidence for ciprofloxacin in systemic sclerosis small bowel bacterial overgrowth, in comparison with other antibiotics
+- A benefit-risk assessment, given the tendon, neuropathy, QT, and corticosteroid interaction risks
+- A decision on whether a re-listed US product is available, as all current licences are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,89 +29,71 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Methocarbamol: From Musculoskeletal Conditions to Cauda Equina Syndrome
+# Methocarbamol: From Muscle Spasm Relief to Cauda Equina Syndrome
 
 ## One-Sentence Summary
 
-Methocarbamol is a centrally acting skeletal muscle relaxant that is marketed in the United States as oral tablets and an injectable solution.
-The TxGNN model predicts it may be effective for **Cauda Equina Syndrome**,
-but **0 clinical trials** and **0 publications** currently support this prediction, so it rests on model output alone.
-
----
+Methocarbamol is a centrally acting skeletal muscle relaxant. The TxGNN model predicts it may be effective for **cauda equina syndrome**, but **0 clinical trials** and **0 publications** currently support this direction. This is a model prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the supplied license records (methocarbamol is a skeletal muscle relaxant) |
+| Original Indication | Not listed in the data compiled for this report (methocarbamol is generally known as a muscle relaxant for musculoskeletal conditions) |
 | Predicted New Indication | Cauda equina syndrome |
 | TxGNN Prediction Score | 99.98% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (the listed authorizations are generic ANDAs) |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 8 (all cancelled; listed as ANDAs) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, methocarbamol is a centrally acting skeletal muscle relaxant whose mechanism is incompletely characterized. Its effect on muscle spasm and back pain may be applicable to symptoms that accompany lumbosacral pathology.
+Detailed mechanism of action data is not available. Based on general knowledge, methocarbamol is a centrally acting skeletal muscle relaxant. A plausible link to cauda equina syndrome is symptomatic relief of muscle spasm or pain associated with nerve root compression.
 
-The link to cauda equina syndrome is weak and symptomatic only. The condition is caused by compression of the nerve roots at the lower end of the spinal canal, and it is a surgical emergency. Methocarbamol would not treat that compression. At most it might ease accompanying muscle spasm or pain.
+This link is weak. Cauda equina syndrome is a surgical emergency caused by compression of the nerve roots. Methocarbamol would not treat that underlying compression, so at best it could serve as an adjunct for symptoms. No trials or literature in the data compiled for this report support the prediction.
 
-The TxGNN score of 99.98% is a model prediction, not clinical evidence. It should not be read as proof of efficacy.
-
----
+The other top predictions (irritable bowel syndrome, panuveitis, anaphylaxis, iris disease, uveitis, ventricular tachycardia, food-dependent exercise-induced anaphylaxis, conjunctivitis, and an obsolete bundle branch block entry) also have scores of about 99.9% and no clinical support. They show no clear mechanistic connection to a muscle relaxant. The high scores therefore should not be read as evidence of efficacy.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-Currently no related literature available.
-
----
+Currently no related literature available for cauda equina syndrome.
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA040489 | Methocarbamol (Bryant Ranch Prepack) | Tablet | Not stated in the supplied records |
-| ANDA200958 | Methocarbamol (Oncora Pharma, LLC) | Tablet, coated | Not stated in the supplied records |
-| ANDA209312 | Methocarbamol (Granules India Ltd) | Tablet, coated | Not stated in the supplied records |
-| ANDA040489 | Methocarbamol (PD-Rx Pharmaceuticals, Inc.) | Tablet | Not stated in the supplied records |
-| ANDA200958 | Methocarbamol (Bostal LLC) | Tablet, coated | Not stated in the supplied records |
+| ANDA040489 | Methocarbamol (Bryant Ranch Prepack) | Tablet | Not listed (cancelled) |
+| ANDA200958 | Methocarbamol (Oncora Pharma) | Tablet, coated | Not listed (cancelled) |
+| ANDA209312 | Methocarbamol (Granules India) | Tablet, coated | Not listed (cancelled) |
+| ANDA211504 | Methocarbamol (Sagent Pharmaceuticals) | Injection, solution | Not listed (cancelled) |
+| ANDA212707 | Tanlor (Forte Bio-Pharma) | Tablet, film coated | Not listed (cancelled) |
 
-Other available forms: film-coated oral tablets and an injectable solution.
-
----
+Eight licenses are recorded in total, and all are cancelled. Only the first five are shown above. Available forms include oral tablets (plain, coated and film coated) and an injectable solution.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No warnings or contraindications were available, and no drug interactions were found in the queried source.
+- **Disease-level contraindication signals (knowledge graph, not label text):** The TxGNN knowledge graph links methocarbamol to contraindications in epilepsy, kidney disease, liver disease, gallbladder disease, thrombocytopenia, peptic ulcer disease, gout, substance abuse/dependence, hemophilia, anemia, von Willebrand disease, Reye syndrome, Alzheimer disease, and cerebellar degeneration, among others. These come from a prediction graph and need confirmation against the official label.
+- **Drug Interactions:** 100 interactions were found in total. The main **Major** interactions are with **morphine** (including liposomal morphine). **Moderate** interactions include dronabinol, nabilone, metoclopramide, opium, and sibutramine. These are consistent with additive central nervous system depression.
 
----
+Please refer to the package insert for key warnings and label contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trials or literature behind it (Evidence Level L5, screening stage S0). Methocarbamol could at best relieve symptoms and would not address the cause of cauda equina syndrome, which needs urgent surgical care.
-
-The other nine predictions (irritable bowel syndrome, panuveitis, anaphylaxis, iris disease, uveitis, ventricular tachycardia, food-dependent exercise-induced anaphylaxis, conjunctivitis, and obsolete bundle branch block) are also L5 and Hold. Two articles were retrieved for them, but neither evaluates methocarbamol for the predicted condition: a general review of arthropod bites and stings (anaphylaxis) and a veterinary lamotrigine toxicosis case report (ventricular tachycardia). Several of these predictions have no plausible mechanistic link.
+The prediction rests only on a model score. There are no clinical trials or supporting literature, and the mechanistic link is weak because cauda equina syndrome requires urgent surgical decompression. All US licenses are cancelled, and the label safety information could not be obtained.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data, for example from DrugBank
-- Approved indication text for the US licenses
-- Clinical or preclinical studies of methocarbamol in cauda equina syndrome or related radiculopathy pain
-- Route compatibility and similarity-to-original assessments, both still pending
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data
+- Preclinical or clinical evidence in nerve-root compression or cauda equina–related symptoms
+- A clear definition of the intended role (symptomatic adjunct versus disease-modifying) and a review of the knowledge-graph contraindication signals, especially for patients with renal or liver disease and those taking opioids
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

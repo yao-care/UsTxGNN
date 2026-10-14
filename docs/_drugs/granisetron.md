@@ -29,32 +29,46 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Granisetron: From Antiemetic Use to Manic Bipolar Affective Disorder
+# Granisetron: From Chemotherapy-Associated Nausea and Vomiting to Manic Bipolar Affective Disorder
 
 ## One-Sentence Summary
 
-Granisetron is a 5-HT3 receptor antagonist marketed in the US in injectable, oral and other forms.
-The TxGNN model predicts it may be effective for **manic bipolar affective disorder**, but **no clinical trials and no publications** currently support this prediction, so it remains a model prediction only.
+Granisetron is a selective 5-HT3 receptor antagonist. The data compiled for this report do not list an approved indication text, but the drug is widely known as an antiemetic.
+The TxGNN model predicts it may be effective for **manic bipolar affective disorder**, but there are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the computational model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the license records (granisetron is a 5-HT3 antagonist antiemetic) |
+| Original Indication | Not stated in the compiled regulatory data (granisetron is generally known as an antiemetic for chemotherapy-induced nausea and vomiting) |
 | Predicted New Indication | Manic bipolar affective disorder |
 | TxGNN Prediction Score | 99.62% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 14 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 10 (all cancelled; 2 NDAs and 8 ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the input. Based on general pharmacology, granisetron selectively blocks 5-HT3 receptors. Serotonin signaling is loosely relevant to mood regulation, which gives a modest theoretical basis for the prediction.
+Currently, detailed mechanism of action data is not available in the compiled records. Based on known pharmacology, granisetron is a selective 5-HT3 receptor antagonist, and its efficacy in nausea and vomiting is established through blockade of serotonin signaling.
 
-No trial or publication was found to test this link, so it is speculative. The high TxGNN score (0.996) is a model output, not clinical evidence. It should not be read as proof of efficacy.
+Mechanistically, 5-HT3 modulation has been hypothesized to influence dopaminergic and serotonergic signaling relevant to mood disorders. This link is speculative. The very high TxGNN score (0.996) is a model prediction only, and no clinical trials or literature were found to support it. The original indication (nausea and vomiting) and the predicted indication (mania) are not closely related clinically, so the similarity between them has not yet been assessed.
 
-Among the other top-ranked predictions, only Tourette syndrome and trichotillomania have a similarly modest serotonergic or neuro-circuit rationale. Several others (conjunctivitis, bronchitis, nephrogenic syndrome of inappropriate antidiuresis) have no plausible mechanistic link and are likely knowledge-graph artifacts. All ten predictions are at evidence level L5.
+### Other Predicted Indications
+
+The model also produced nine other predictions. None has clinical trial or literature support, and all are rated L5 with a Hold recommendation.
+
+| Rank | Predicted Indication | TxGNN Score | Mechanistic Plausibility |
+|------|------|------|------|
+| 2 | Tourette syndrome | 99.52% | Plausible but unproven: 5-HT3 antagonism may modulate basal ganglia dopamine release |
+| 3 | Acute contagious conjunctivitis | 99.49% | No clear link: the disease is pathogen-driven; likely a graph-based association |
+| 4 | Angioedema | 99.36% | Weak: possible role in neurogenic inflammation; hypersensitivity to 5-HT3 antagonists is a concern |
+| 5 | Allergic urticaria | 99.32% | Weak: serotonin may contribute to pruritus, but antihistamines remain standard |
+| 6 | Nephrogenic syndrome of inappropriate antidiuresis | 99.32% | None apparent: caused by AVPR2 gain-of-function mutations; likely an artifact |
+| 7 | Trichotillomania | 99.23% | Plausible but unproven: OCD-spectrum disorder with serotonergic involvement |
+| 8 | Bronchitis | 99.18% | Speculative: vagal afferents express 5-HT3 receptors |
+| 9 | Cold urticaria | 99.10% | Indirect: mast cell signaling or pruritus |
+| 10 | Conjunctivitis | 99.09% | Weak: no demonstrated ocular activity; overlaps with rank 3 |
 
 ## Clinical Trial Evidence
 
@@ -66,34 +80,41 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| ANDA091136 | Granisetron Hydrochloride | Injection, solution | Mylan Institutional LLC |
-| ANDA204238 | Granisetron Hydrochloride | Injection, solution | Eugia US LLC |
-| ANDA219282 | Granisol | Solution | Intra-Sana Laboratories |
-| ANDA078969 | Granisetron Hydrochloride | Tablet | Breckenridge Pharmaceutical, Inc. |
+| NDA022445 | SUSTOL (Heron Therapeutics) | Injection | Cancelled |
+| NDA022198 | SANCUSO (Cumberland Pharmaceuticals) | Patch | Cancelled |
+| ANDA091136 | Granisetron Hydrochloride (Mylan Institutional) | Injection, solution | Cancelled |
+| ANDA204238 | Granisetron Hydrochloride (Eugia US) | Injection, solution | Cancelled |
+| ANDA219282 | Granisol (Intra-Sana Laboratories) | Solution | Cancelled |
 
-Across all 14 authorizations, available dosage forms also include film-coated tablets and a patch. The license records contain no approved-indication text.
+The compiled records contain no approved indication text for these licenses. Five more licenses (all cancelled) are on file, covering tablets, film-coated tablets and additional injections.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Knowledge-graph contraindication signals** (from drug-disease edges, not label text): long QT syndrome, familial long QT syndrome, potassium deficiency disease, sudden cardiac arrest, heart conduction disease. These point to a QT-prolongation and arrhythmia concern.
+- **Drug Interactions**: 100 interactions were found. The first 20 retrieved include these major ones:
+  - **Opioids and serotonergic agents**: fentanyl, alfentanil, tramadol, dextromethorphan (serotonergic or additive risk)
+  - **Triptans**: almotriptan, sumatriptan
+  - **QT-prolonging or antiarrhythmic agents**: amiodarone, amisulpride, amitriptyline, anagrelide
+  - Moderate interactions include abiraterone, famotidine, formoterol, salbutamol, adenosine, propofol, codeine, dihydrocodeine, alfuzosin and abametapir (topical).
+- **Hypersensitivity**: reactions to 5-HT3 antagonists have been reported, which matters especially for angioedema and urticaria predictions.
+
+Please refer to the package insert for complete warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score. There are no clinical trials or publications, and the mechanistic link to mania is weak and unverified.
+The top prediction (manic bipolar affective disorder) has a very high model score but no supporting clinical trials or literature (Evidence Level L5). All US licenses are cancelled, and the mechanistic link is speculative. QT-related safety signals and many major drug interactions add further caution, especially in a psychiatric population that often takes QT-prolonging drugs.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications for safety screening
-- Detailed mechanism of action (MOA) data, for example from DrugBank
-- A systematic literature and trial search for 5-HT3 antagonists in bipolar mania
-- A check of route compatibility (available formulations vs. what the new indication would require)
-- Preclinical or early clinical data that support the indication
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Package insert warnings and contraindications from the FDA (needed for safety screening)
+- Detailed mechanism of action data
+- A systematic search of clinical trials and literature for granisetron or other 5-HT3 antagonists in mania, bipolar disorder, and Tourette syndrome or trichotillomania
+- A QT-risk and drug-interaction assessment for the target population
+- Clarification of the original approved indication and of route and formulation compatibility with the new indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

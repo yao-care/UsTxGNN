@@ -33,67 +33,86 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Ziconotide (brand name PRIALT) is an intrathecal injection approved in the US for severe chronic pain.
-The TxGNN model predicts it may be effective for **migraine disorder**.
-Support is thin: **0 clinical trials** and **1 publication**, a single case report.
+Ziconotide is an intrathecally administered N-type calcium channel blocker, a drug of the kind used for severe chronic pain (the data compiled for this report contain no approved indication text).
+The TxGNN model predicts it may be effective for **migraine disorder**, but there are currently **0 registered clinical trials** and only **1 case report** (plus related reviews) supporting this direction.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Severe chronic pain (intrathecal use) |
+| Original Indication | Not listed in the compiled regulatory data (the approved indication text is empty) |
 | Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 99.92% |
 | Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 3 license records (all under the same NDA, NDA021060) |
+| US Market Status | Cancelled only (the single NDA is cancelled) |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Ziconotide is a selective N-type (Cav2.2) calcium channel blocker. It reduces the release of pain-signalling neurotransmitters in the spinal dorsal horn. This is how it relieves severe chronic pain.
+Ziconotide is a selective N-type (Cav2.2) voltage-gated calcium channel blocker. By blocking these channels in the dorsal horn, it is thought to reduce the release of pain-transmitting neurotransmitters such as substance P, CGRP and glutamate. Detailed mechanism of action data were not available in the drug record, so this description comes from the mechanistic analysis of the prediction.
 
-Migraine involves trigeminovascular pain signalling, which plausibly overlaps with the pathways ziconotide blocks. Calcium channel biology is also relevant to migraine in general. This gives the prediction a reasonable mechanistic basis.
+CGRP and trigeminal-cervical pain pathways play a central role in migraine. Dampening nociceptive signalling in these pathways could therefore plausibly help chronic migraine. This is the main mechanistic rationale for the prediction.
 
-The practical barriers are large. Ziconotide must be given intrathecally, and it carries a neuropsychiatric safety burden. Both limit its feasibility for a common condition like migraine. The only clinical evidence so far is one case report.
+The support is thin, however. It rests on a single case report of chronic migraine resolving with intrathecal ziconotide, plus narrative reviews. No controlled studies exist. A related entry, "migraine with or without aura, susceptibility to," maps to the same general migraine phenotype and draws on the same literature, so it is not independent evidence.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [26392785](https://pubmed.ncbi.nlm.nih.gov/26392785/) | 2015 | Case report | Journal of Pain Research | Reports resolution of chronic migraine headaches with intrathecal ziconotide in a single patient. It is hypothesis-generating only. |
+| [26392785](https://pubmed.ncbi.nlm.nih.gov/26392785/) | 2015 | Case report | Journal of Pain Research | Resolution of chronic migraine headaches with intrathecal ziconotide in a single patient |
+| [35505713](https://pubmed.ncbi.nlm.nih.gov/35505713/) | 2022 | Review / case-based discussion | Cureus | Intrathecal ziconotide proposed as an emerging option for migraine refractory to conventional treatment |
+| [41628204](https://pubmed.ncbi.nlm.nih.gov/41628204/) | 2026 | Review | Pain Physician | Narrative review of neuromodulation devices for chronic pain; indirect relevance only |
+
+---
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA021060 | PRIALT | Injection, solution | TerSera Therapeutics LLC |
+| NDA021060 | PRIALT (TerSera Therapeutics LLC) | Injection, solution | Not listed (status: cancelled) |
 
-The three license records in the pack are identical, so they are shown once.
+---
 
 ## Safety Considerations
 
-- **Key Warnings**: The pack's rationale notes a boxed warning for severe psychiatric symptoms and neurological impairment. The package insert text itself is not included in the pack.
-- **Drug Interactions**: No interaction records were found.
+- **Contraindications (knowledge-graph associations, not label text)**: The TxGNN knowledge graph links ziconotide to psychotic disorder, schizophreniform disorder, mental disorder, schizoaffective disorder and blood coagulation disease. These should be verified against the official labelling.
+- **Drug Interactions**: 48 interactions were found, all of the 20 shown being Moderate. They mainly involve other central nervous system depressants, including:
+  - Opioids: morphine (including liposomal), codeine, hydrocodone, opium, diphenoxylate and difenoxin
+  - Cannabinoids: dronabinol and nabilone
+  - Sedating antihistamines: promethazine, chlorpheniramine, cetirizine, brompheniramine, carbinoxamine, clemastine and azelastine (nasal)
+  - Others: ethanol, metoclopramide, dextromethorphan and sibutramine
+- **Other considerations from the prediction analysis**: The drug is given intrathecally, and its neuropsychiatric and neurological adverse-event profile is a concern for a non-life-threatening condition such as migraine.
 
-For full safety information, please refer to the package insert.
+Please refer to the package insert for warnings and contraindications, as label data were not available.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high, but the evidence is one case report and no registered trials. The intrathecal route and the neuropsychiatric safety profile make use in a common outpatient condition like migraine hard to justify at this stage.
+Evidence is limited to one case report and narrative reviews, with no registered trials. The only US NDA is cancelled. The intrathecal route and the neuropsychiatric risk profile make the risk-benefit balance unfavourable for migraine, which is rarely life-threatening. The topic is better treated as a research question than as a development candidate for now.
 
 **To proceed, the following is needed:**
-- The package insert warnings and contraindications, which are a blocking gap before safety screening
-- Detailed mechanism of action data from DrugBank to support the mechanistic-link analysis
-- A route-feasibility assessment, since migraine would require intrathecal delivery
-- Controlled clinical evidence beyond a single case report, such as prospective studies in refractory chronic migraine
+- FDA package insert warnings and contraindications, which are currently missing and block safety screening
+- Confirmed original indication and mechanism of action from DrugBank or the label
+- Controlled clinical data, or at least a systematic case series, in refractory chronic migraine
+- An assessment of route feasibility (intrathecal delivery) and of whether a less invasive formulation is realistic
+- Confirmation of the current US regulatory and supply status, given that the NDA is cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

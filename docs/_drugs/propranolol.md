@@ -29,32 +29,39 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Propranolol: From Beta-Blocker Therapy to Distal Myopathy, Tateyama Type
+# Propranolol: From Hypertension to Distal Myopathy, Tateyama Type
 
 ## One-Sentence Summary
 
-Propranolol is a non-selective beta-adrenergic blocker that is widely marketed in the US as generic products.
-The TxGNN model predicts it may be effective for **distal myopathy, Tateyama type**, a rare muscle disease.
-This prediction is model-only, with **0 clinical trials** and **0 publications** supporting it.
+Propranolol is a non-selective beta-adrenergic blocker, originally used for hypertension, arrhythmias such as atrial fibrillation, hypertrophic cardiomyopathy, and infantile hemangioma.
+The TxGNN model predicts it may be effective for **distal myopathy, Tateyama type**, but **0 clinical trials** and **0 publications** currently support this prediction.
+This is a model-only prediction with no supporting evidence in the data compiled for this report.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Hypertension (the US license records contain no indication text; original indications come from the knowledge graph) |
 | Predicted New Indication | Distal myopathy, Tateyama type |
 | TxGNN Prediction Score | 99.40% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (all listed products are generic ANDAs) |
+| US Market Status | Cancelled only (no currently valid licenses among the 8 records) |
+| Number of NDAs | 8 (1 NDA and 7 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Propranolol is known to be a non-selective beta-adrenergic blocker, and it is marketed as extended-release capsules, tablets and an oral solution.
+Currently, detailed mechanism of action data is not available. Based on general knowledge, propranolol is a non-selective beta-blocker that reduces heart rate and myocardial contractility. Its efficacy is established in cardiovascular conditions such as hypertension and hypertrophic cardiomyopathy.
 
-For this indication, the data show **no clear mechanistic link**. Nothing connects beta-blockade to the pathophysiology of this rare distal myopathy. The high score (0.994; rank 13,770) reflects a graph-based association in the TxGNN knowledge graph and is not backed by any biological or clinical evidence.
+The data compiled for this report do not support a mechanistic link between beta-blockade and the pathophysiology of this rare distal myopathy. The high TxGNN score (99.40%) is a computational prediction only, and the relationship to the original indications remains unassessed.
 
-This prediction should be treated as a computational signal only. Without a plausible mechanism, trials or literature, it does not justify moving into clinical evaluation.
+Other predictions in the same analysis show the same pattern:
+
+- **Congenital myopathy with excess of thin filaments** (score 99.30%): prediction only, no trials or literature, Hold.
+- **Hypertrophic cardiomyopathy due to intensive athletic training** (99.17%): a conceptual link exists through the on-label hypertrophic cardiomyopathy use, but athletic remodeling is a physiological adaptation, and no evidence was provided. Hold.
+- **Chondroma** (99.14%): no mechanistic link; any anti-angiogenic rationale is speculative. Hold.
+- **Cirrhotic cardiomyopathy** (99.12%): three publications, with mixed findings (see below). Research question, L4.
+- **Cardiomyopathy** (99.12%): many publications, mostly on hypertrophic cardiomyopathy, which is already an approved use. Research question, L3.
 
 ## Clinical Trial Evidence
 
@@ -62,38 +69,63 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for distal myopathy, Tateyama type.
+
+For context, literature was found for two lower-ranked predictions:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [38738176](https://pubmed.ncbi.nlm.nih.gov/38738176/) | 2024 | Clinical study (design unconfirmed) | Frontiers in Pharmacology | Cirrhotic cardiomyopathy: propranolol may correct prolonged QT intervals in cirrhosis |
+| [35763518](https://pubmed.ncbi.nlm.nih.gov/35763518/) | 2022 | Clinical/observational (unconfirmed) | PLoS One | Cirrhotic cardiomyopathy: blunted cardiovascular effects of beta-blockers, related to severity of cirrhosis |
+| [32446716](https://pubmed.ncbi.nlm.nih.gov/32446716/) | 2020 | Clinical/observational (unconfirmed) | Journal of Hepatology | Cirrhotic cardiomyopathy: non-selective beta-blockers impaired circulatory and renal function in refractory ascites |
+| [6686544](https://pubmed.ncbi.nlm.nih.gov/6686544/) | 1983 | Clinical physiological study | European Heart Journal | Cardiomyopathy: effects of propranolol and verapamil on diastolic stiffness in hypertrophic cardiomyopathy |
+| [7200796](https://pubmed.ncbi.nlm.nih.gov/7200796/) | 1982 | Clinical hemodynamic study | British Heart Journal | Cardiomyopathy: nifedipine plus propranolol appeared superior to nifedipine alone in hypertrophic obstructive cardiomyopathy |
+| [7191199](https://pubmed.ncbi.nlm.nih.gov/7191199/) | 1980 | Clinical study | American Journal of Cardiology | Cardiomyopathy: propranolol and arrhythmia in hypertrophic cardiomyopathy |
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| ANDA078703 | Propranolol hydrochloride | Capsule, extended release | AvKARE |
-| ANDA070322 | Propranolol Hydrochloride | Tablet | Amici Pharmaceuticals LLC |
-| ANDA071972 | Propranolol Hydrochloride | Tablet | Amneal Pharmaceuticals NY LLC |
-| ANDA070322 | Propranolol Hydrochloride | Tablet | American Health Packaging |
-| ANDA070979 | Propranolol Hydrochloride | Solution | Atlantic Biologicals Corp. |
+All 8 US licenses are cancelled; none is currently valid. The records contain no approved-indication text.
 
-Approved indication text is not included in the supplied data. Only 5 of the 20 authorizations are listed above.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA018553 | Propranolol Hydrochloride (ANI Pharmaceuticals) | Capsule, extended release | Not available |
+| ANDA078703 | Propranolol hydrochloride (AvKARE) | Capsule, extended release | Not available |
+| ANDA078494 | Propranolol Hydrochloride (Proficient Rx) | Capsule, extended release | Not available |
+| ANDA070322 | Propranolol Hydrochloride (Amici Pharmaceuticals) | Tablet | Not available |
+| ANDA071972 | Propranolol Hydrochloride (Amneal Pharmaceuticals NY) | Tablet | Not available |
+
+Three more cancelled licenses exist: ANDA070979 (solution), ANDA070221 (tablet), and ANDA078955 (tablet).
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindications (from the knowledge graph, not label text)**: The knowledge graph lists many disease-level contraindications. The most relevant to a muscle-disease prediction are myopathy, muscular disease, skeletal muscle disease, familial periodic paralysis, and myasthenia gravis. Others include:
+  - Respiratory: bronchitis.
+  - Metabolic: diabetes mellitus, diabetic ketoacidosis, gout, hypercalcemia, hyperparathyroidism, potassium deficiency.
+  - Organ disease: liver disease, hepatic coma and encephalopathy, kidney disease, anuria, pancreatitis, gallbladder disease.
+  - Autoimmune: systemic lupus erythematosus.
+  - Psychiatric: anxiety disorder, neurotic disorder, dysthymic disorder.
+
+  The listing of myopathy and skeletal muscle disease as contraindications is a direct concern for the predicted indication.
+- **Drug Interactions**: 100 interactions were identified; the 20 shown in the data include:
+  - **Major**: epinephrine.
+  - **Moderate**: corticosteroids (hydrocortisone, dexamethasone, betamethasone, budesonide, triamcinolone), anticholinergics (atropine, hyoscyamine, methscopolamine), bupropion, morphine, lorcaserin, canagliflozin, chlorpropamide, cimetidine, and calcium salts (calcium phosphate, calcium acetate).
+  - **Minor**: ascorbic acid, acetylsalicylic acid, magnesium oxide.
+
+Label warnings and contraindications were not available; please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a graph score alone. There are no trials, no literature and no plausible mechanism linking beta-blockade to this myopathy, so the evidence stays at L5.
+The prediction for distal myopathy, Tateyama type rests only on a model score, with no clinical trials, no literature, and no mechanistic rationale. In addition, the knowledge graph lists myopathy and skeletal muscle disease as contraindications for propranolol, and all US licenses are cancelled.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data from DrugBank
-- Any mechanistic or preclinical rationale linking beta-adrenergic signaling to this myopathy
-- Consider prioritizing other predictions for this drug. Cirrhotic cardiomyopathy (5 publications) and cardiomyopathy (3 trials, 19 publications) are both at L3 and carry a "Research Question" recommendation. Cirrhotic cardiomyopathy needs a safety-first review because non-selective beta-blockers may impair circulatory and renal function in advanced cirrhosis. For cardiomyopathy, no efficacy RCT is supplied and the subtype matters.
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Mechanism of action data and a plausible biological link between beta-blockade and this myopathy
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- A literature search for case reports, preclinical models, or any beta-blocker use in distal myopathies
+- A review of the contraindication signal for muscle disease
+- If a cardiovascular-adjacent direction is of interest, cirrhotic cardiomyopathy is a better-supported research question, but the safety concerns in advanced cirrhosis must be addressed first. Cardiomyopathy is largely an existing on-label use (hypertrophic cardiomyopathy), so it is not a true repurposing opportunity.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

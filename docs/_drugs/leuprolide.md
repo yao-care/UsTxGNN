@@ -29,88 +29,79 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Leuprolide: From an Unrecorded Original Indication to Osteoarthritis
+# Leuprolide: From Endometriosis to Osteoarthritis
 
 ## One-Sentence Summary
 
-Leuprolide is a GnRH agonist, marketed in the US as several extended-release injectable products. The Evidence Pack does not record its approved indications.
-The TxGNN model predicts it may be effective for **osteoarthritis**, but this is a model prediction only.
-**1 clinical trial** and **1 publication** were retrieved, and neither studies osteoarthritis.
-
----
+Leuprolide is a GnRH (gonadotropin-releasing hormone) agonist, originally used for hormone-related conditions such as endometriosis and precocious puberty.
+The TxGNN model predicts it may be effective for **osteoarthritis**,
+but currently **0 clinical trials** and **1 publication** (an unrelated case report) support this direction, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in the provided data |
+| Original Indication | Endometriosis, precocious puberty (from the knowledge graph; no approved-indication text is available in the US licence records) |
 | Predicted New Indication | Osteoarthritis |
 | TxGNN Prediction Score | 99.70% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 11 |
+| US Market Status | Cancelled only (all licences cancelled) |
+| Number of NDAs | 6 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Leuprolide is a GnRH agonist that suppresses gonadal sex steroids after an initial stimulation phase. A speculative link to osteoarthritis is hormonal influence on cartilage and subchondral bone.
+Detailed mechanism of action data is not currently available. Based on known pharmacology, leuprolide is a GnRH agonist that suppresses the pituitary-gonadal axis and lowers sex steroid levels. This is the basis of its use in endometriosis and precocious puberty.
 
-No evidence in this package supports that link. The original indication is also not recorded, so the relationship between the original and predicted indications cannot be assessed. The high TxGNN score (0.997) should be treated as a hypothesis-generating signal, not as support for efficacy.
+A credible mechanistic link to osteoarthritis cannot be established from the data compiled for this report. Estrogen deficiency is generally associated with worse joint health (for example, higher osteoarthritis risk after menopause). GnRH-agonist-induced hypoestrogenism would therefore be expected to be neutral or harmful rather than beneficial.
 
-The second-ranked prediction, pseudoachondroplasia (score 99.69%), is also L5 with no trials or literature.
+The very high TxGNN score (99.70%) is a model-based prediction only. No clinical evidence supports it, so it should be treated with caution.
 
----
+A second prediction, **pseudoachondroplasia** (score 99.69%), has no clinical trials or literature either. The disease is caused by COMP gene mutations that stress cartilage cells, and GnRH suppression has no known effect on that pathology. One speculative indirect idea is that GnRH agonists delay growth-plate closure, but this does not address the underlying defect.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT00002881](https://clinicaltrials.gov/study/NCT00002881) | Phase 3 | Completed | Not reported | Randomized trial in metastatic prostate cancer of orchiectomy/LHRH analog + flutamide, with or without suramin and hydrocortisone. It does not study osteoarthritis and was likely matched only through the drug name (relevance grade C). |
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [20133250](https://pubmed.ncbi.nlm.nih.gov/20133250/) | 2010 | Case report | Clinical Breast Cancer | Metastatic prostatic adenocarcinoma presenting with skin changes that mimicked inflammatory breast carcinoma. Not relevant to osteoarthritis. |
-
----
+| [20133250](https://pubmed.ncbi.nlm.nih.gov/20133250/) | 2010 | Case report | Clinical Breast Cancer | Metastatic prostate adenocarcinoma mimicking inflammatory breast carcinoma in a 78-year-old man. It is not related to osteoarthritis and offers no support for this prediction. |
 
 ## US Market Information
 
-Five of the 11 authorizations are listed. The Evidence Pack contains no approved-indication text for any of them.
+All six US licences are currently cancelled. Approved-indication text is not available in the records.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA021488 | Eligard (TOLMAR Inc.) | Injection, suspension, extended release | Not listed |
-| NDA021343 | Eligard (TOLMAR Inc.) | Injection, suspension, extended release | Not listed |
-| NDA021379 | Vabrinty (Uronova Pharmaceuticals, Inc.) | Injection, suspension, extended release | Not listed |
-| NDA021731 | Vabrinty (Uronova Pharmaceuticals, Inc.) | Injection, suspension, extended release | Not listed |
-| NDA211488 | CAMCEVI (Accord BioPharma, Inc.) | Injection, emulsion | Not listed |
+| NDA021488 | Eligard (Tolmar) | Extended-release injectable suspension | Not available |
+| NDA021343 | Eligard (Tolmar) | Extended-release injectable suspension | Not available |
+| NDA021379 | Vabrinty (Uronova) | Extended-release injectable suspension | Not available |
+| NDA021731 | Vabrinty (Uronova) | Extended-release injectable suspension | Not available |
+| NDA211488 | CAMCEVI (Accord BioPharma) | Injectable emulsion | Not available |
 
----
+A sixth licence, NDA213150 (Fensolvi, Tolmar, extended-release injectable suspension), is also cancelled.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindication-related conditions (from the knowledge graph, not label text)**: hypertension, hyperglycemia, diabetes mellitus and diabetic ketoacidosis, obesity (including monogenic obesity), stroke and other cerebrovascular disorders, cerebral infarction, myocardial infarction and coronary thrombosis, hemoglobinopathy, and urinary tract obstruction.
+- **Drug Interactions**: 100 interactions were recorded. Most of those listed are Moderate, including antidiabetic agents (acarbose, metformin, alogliptin, linagliptin, saxagliptin, canagliflozin, dapagliflozin, empagliflozin, chlorpropamide, albiglutide, dulaglutide), laxatives (bisacodyl, picosulfuric acid, castor oil, polyethylene glycol), famotidine, loperamide, and clarithromycin. **Major** interactions were found with **dolasetron** and **cisapride**.
 
----
+Please refer to the package insert for label warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on the TxGNN score. The one trial and one publication found concern prostate cancer, not osteoarthritis. There is no supported mechanistic link, and neither the mechanism of action nor the safety data are available.
+The prediction rests on a model score alone (evidence level L5). There are no relevant trials or literature, and the biology (sex-steroid suppression) suggests no benefit, and possibly harm, for osteoarthritis. All US licences are also cancelled.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, to allow safety screening
-- Mechanism of action data (e.g., from DrugBank) and the approved indications
-- Preclinical or clinical evidence specific to osteoarthritis
-- An assessment of route and dosage-form compatibility, since all marketed forms are extended-release injectables
+- Detailed mechanism of action data (MOA)
+- FDA package insert warnings and contraindications
+- A plausible mechanistic rationale, plus preclinical or observational data, linking GnRH agonism to joint or cartilage outcomes
+- Review of the cancelled licence status and approved-indication text
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

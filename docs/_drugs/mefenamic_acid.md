@@ -29,99 +29,100 @@ Evidence Level: **L2** | Predicted Indications: **8**
 
 </div>
 
-# Mefenamic Acid: From Pain Relief (NSAID) to Rheumatoid Arthritis
+# Mefenamic Acid: From NSAID Pain Relief to Rheumatoid Arthritis
 
 ## One-Sentence Summary
 
-Mefenamic acid is a nonsteroidal anti-inflammatory drug (NSAID) marketed in the US as oral capsules. The registry data carry no indication text; its standard use is analgesia.
-The TxGNN model predicts it may be effective for **rheumatoid arthritis**, supported by **0 registered clinical trials** and **20 publications**. These are mostly 1966-1979 studies showing symptomatic benefit comparable to other NSAIDs.
-
----
+Mefenamic acid is an oral nonsteroidal anti-inflammatory drug (NSAID) that reduces prostaglandin production. The TxGNN model predicts it may be effective for **Rheumatoid Arthritis** (rank 1), and the data compiled for this report also show a stronger evidence base for **Migraine Disorder** (rank 7). Neither indication has registered clinical trials; support comes from **about 20 publications each**, mostly small, older randomized trials.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the registry data (general knowledge: mild-to-moderate pain) |
+| Original Indication | Not available (the US license records contain no approved-indication text) |
 | Predicted New Indication | Rheumatoid arthritis |
 | TxGNN Prediction Score | 99.73% |
 | Evidence Level | L2 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 6 licenses (all ANDA generics, 3 distinct application numbers) |
-| Recommended Decision | Hold |
-
----
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 3 (all cancelled; listed as ANDAs) |
+| Recommended Decision | Hold (rheumatoid arthritis); Proceed with Guardrails (migraine disorder, the strongest candidate) |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the source record. Mefenamic acid is an NSAID that inhibits COX-1/COX-2 and thereby prostaglandin synthesis. This plausibly reduces the pain and swelling of inflammatory joint disease.
+Detailed mechanism-of-action data is not available in the compiled data. Mefenamic acid is known to be a COX-1/COX-2 inhibitor that lowers prostaglandin synthesis. Prostaglandins drive inflammation and pain in rheumatoid arthritis, so symptom relief is mechanistically plausible.
 
-Rheumatoid arthritis is an inflammatory condition in which prostaglandin-mediated pain and stiffness are major symptoms. Several 1966-1979 clinical studies, including a double-blind crossover trial and comparisons with ibuprofen, report symptomatic benefit. Mefenamic acid performed comparably to ibuprofen in these studies.
+Several double-blind comparisons from 1976 to 1979 found mefenamic acid comparable to ibuprofen, and better than placebo alongside sulindac and flurbiprofen. It is **not disease-modifying**. It relieves symptoms but does not slow joint damage. Its long-term gastrointestinal and haematological safety signals (for example, autoimmune haemolytic anaemia case reports) limit its use compared with newer NSAIDs.
 
-Two limits apply. First, it is not disease-modifying and offers no clear advantage over established NSAIDs. Second, the NSAID class risks (GI, renal, cardiovascular) apply.
-
----
+Other predictions are weaker:
+- **Migraine disorder (rank 7)** is the best-supported alternative. Prostaglandin release around menstruation is implicated in menstrually related migraine, and placebo- and active-controlled trials exist.
+- **Headache disorder (rank 3)** is supported mainly through migraine studies.
+- **Osteoarthritis susceptibility, trigeminal autonomic cephalalgia, colobomatous microphthalmia-rhizomelic dysplasia syndrome and brachydactyly-syndactyly syndrome (ranks 2, 4, 5, 6)** have no trials or literature. The last two have no plausible pharmacological link and are likely model artifacts.
+- **Migraine with brainstem aura (rank 8)** has only indirect evidence, from general menstrual migraine rather than this subtype.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
-
----
+Currently no related clinical trials registered, for rheumatoid arthritis or any other predicted indication.
 
 ## Literature Evidence
 
+**Rheumatoid arthritis**
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [373989](https://pubmed.ncbi.nlm.nih.gov/373989/) | 1979 | RCT | Curr Med Res Opin | Double-blind crossover in 24 patients; mefenamic acid, flurbiprofen and sulindac were all significantly better than placebo on pain, joint tenderness and morning stiffness |
-| [330287](https://pubmed.ncbi.nlm.nih.gov/330287/) | 1977 | Comparative trial | J Int Med Res | Randomized double-blind study in 40 patients; analgesic and anti-inflammatory effect not significantly different from ibuprofen |
-| [796645](https://pubmed.ncbi.nlm.nih.gov/796645/) | 1976 | Comparative trial | Med J Aust | Double-blind crossover vs ibuprofen; mefenamic acid compared favourably, with mild, mostly gastrointestinal side effects |
+| [373989](https://pubmed.ncbi.nlm.nih.gov/373989/) | 1979 | RCT | Curr Med Res Opin | Double-blind crossover in 24 patients: mefenamic acid, sulindac and flurbiprofen all significantly beat placebo on pain, articular index and morning stiffness |
+| [796645](https://pubmed.ncbi.nlm.nih.gov/796645/) | 1976 | RCT | Med J Aust | Double-blind crossover vs ibuprofen; mefenamic acid compared favourably, with mild, mostly GI side effects |
+| [330287](https://pubmed.ncbi.nlm.nih.gov/330287/) | 1977 | RCT | J Int Med Res | 40 patients; analgesic and anti-inflammatory effect not significantly different from ibuprofen |
+| [326491](https://pubmed.ncbi.nlm.nih.gov/326491/) | 1977 | Double-blind crossover | Curr Med Res Opin | 18 patients; mefenamic acid and indomethacin both significantly better than placebo on most parameters |
 | [4294443](https://pubmed.ncbi.nlm.nih.gov/4294443/) | 1967 | Clinical study | Ann Rheum Dis | Early clinical study of mefenamic acid in rheumatoid arthritis (no abstract available) |
-| [5920657](https://pubmed.ncbi.nlm.nih.gov/5920657/) | 1966 | Comparative study | Br Med J | Compared mefenamic and flufenamic acid with aspirin and phenylbutazone (no abstract available) |
-| [6039589](https://pubmed.ncbi.nlm.nih.gov/6039589/) | 1967 | Comparative study | Ann Rheum Dis | Outpatient assessment methods and comparison of fenamates with phenylbutazone and aspirin (no abstract available) |
-| [10439](https://pubmed.ncbi.nlm.nih.gov/10439/) | 1976 | Clinical study | J Rheumatol | Single-blind evaluation of 10 antirheumatic drugs in 684 patients, using subjective pain indices |
-| [4890710](https://pubmed.ncbi.nlm.nih.gov/4890710/) | 1967 | Clinical study | Reumatismo | Preliminary double-blind observations of mefenamic acid in rheumatoid arthritis (no abstract available) |
-| [306128](https://pubmed.ncbi.nlm.nih.gov/306128/) | 1978 | Review | Scott Med J | Review of the place of mefenamic acid in rheumatoid arthritis treatment |
-| [29548675](https://pubmed.ncbi.nlm.nih.gov/29548675/) | 2018 | Case-crossover study | Am J Cardiol | Stroke and myocardial infarction risk with NSAIDs in 5,921 rheumatoid arthritis patients (a class-level safety signal) |
+| [5920657](https://pubmed.ncbi.nlm.nih.gov/5920657/) | 1966 | Comparative study | Br Med J | Mefenamic and flufenamic acid compared with aspirin and phenylbutazone (no abstract available) |
+| [5676955](https://pubmed.ncbi.nlm.nih.gov/5676955/) | 1968 | Case report | Br Med J | Three patients developed warm-antibody autoimmune haemolytic anaemia on mefenamic acid; all recovered after withdrawal |
+| [1455792](https://pubmed.ncbi.nlm.nih.gov/1455792/) | 1992 | Clinical report | Vopr Kurortol Fizioter Lech Fiz Kult | Electrophoresis of mefenamic acid in 125 patients; 75% complete or partial response |
 
----
+**Migraine disorder (strongest alternative)**
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [10799353](https://pubmed.ncbi.nlm.nih.gov/10799353/) | 2000 | RCT | Eur J Med Res | Double-blind, placebo-controlled study of mefenamic acid in 24 women with menstrual migraine |
+| [6347393](https://pubmed.ncbi.nlm.nih.gov/6347393/) | 1983 | RCT | Cephalalgia | Double-blind crossover vs paracetamol in 40 migraine patients |
+| [3524092](https://pubmed.ncbi.nlm.nih.gov/3524092/) | 1986 | RCT | Acta Neurol Scand | In 17 completers, mefenamic acid and propranolol both reduced attack frequency and total duration vs placebo |
+| [22529203](https://pubmed.ncbi.nlm.nih.gov/22529203/) | 2012 | Guideline | Neurology | AAN/AHS evidence-based update on NSAIDs for episodic migraine prevention |
+| [18427072](https://pubmed.ncbi.nlm.nih.gov/18427072/) | 2008 | Review | Neurology | Systematic review and meta-analysis of therapy for menstrually related migraine |
+| [29095288](https://pubmed.ncbi.nlm.nih.gov/29095288/) | 2017 | Case series | Medicine | Severe enteropathy with villous atrophy in prolonged mefenamic acid users |
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA090562 | Mefenamic acid (Micro Labs Limited) | Capsule | Not listed in registry data |
-| ANDA090562 | Mefenamic acid (Bryant Ranch Prepack) | Capsule | Not listed in registry data |
-| ANDA091322 | Mefenamic Acid (Advanced Rx of Tennessee) | Capsule | Not listed in registry data |
-| ANDA091322 | Mefenamic Acid (Lupin Pharmaceuticals) | Capsule | Not listed in registry data |
-| ANDA091608 | Mefenamic Acid (Misemer Pharmaceuticals) | Capsule | Not listed in registry data |
+| ANDA090562 | Mefenamic acid (Micro Labs Limited) | Capsule | Not recorded; status cancelled |
+| ANDA091322 | Mefenamic Acid (Advanced Rx of Tennessee, LLC) | Capsule | Not recorded; status cancelled |
+| ANDA091608 | Mefenamic Acid (Misemer Pharmaceuticals, Inc) | Capsule | Not recorded; status cancelled |
 
----
+All three authorizations are oral capsules and all are cancelled, so there is no currently valid US single-ingredient or combination license.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No structured warnings, contraindications or drug interaction data were retrieved.
+- **Contraindication-type conditions (from knowledge graph, not label text)**: hypertension, kidney disease, liver disease, gallbladder disease, peptic ulcer disease (including active), blood coagulation disease, myocardial infarction, coronary thrombosis, cardiovascular and heart disease, and hemoglobinopathy.
+- **Drug Interactions**: 100 interactions are recorded. Examples among those reviewed:
+  - *Moderate*: acetylsalicylic acid, metformin, chlorpropamide, corticosteroids (hydrocortisone, dexamethasone, betamethasone, triamcinolone, budesonide), mesalazine, balsalazide, aprepitant, and potassium citrate and bicarbonate.
+  - *Minor*: famotidine, ranitidine, cimetidine, dapagliflozin and linaclotide.
+- **Literature-reported risks**: enteropathy with prolonged use, autoimmune haemolytic anaemia, analgesic-associated renal disease, and medication-overuse headache.
 
-Safety signals from the retrieved literature:
-- **Class risk**: NSAIDs carry GI, renal and cardiovascular risks, including stroke and myocardial infarction risk in rheumatoid arthritis patients (PMID 29548675).
-- **Autoimmune haemolytic anaemia**: three cases were reported with mefenamic acid therapy (PMID 5676955, 1968).
-- **Enteropathy**: severe enteropathy with villous atrophy has been described in prolonged users (PMID 29095288).
-
----
+The package insert warnings and contraindications were not available for this report. Please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Hold (rheumatoid arthritis); Proceed with Guardrails (migraine disorder, the strongest candidate)**
 
 **Rationale:**
-The evidence is limited to small, decades-old studies showing symptom relief no better than established NSAIDs. There are no registered trials, and mefenamic acid is not disease-modifying. Package insert safety data has not yet been reviewed.
+- For rheumatoid arthritis, the controlled evidence is limited to small trials from 1976 to 1979 that show symptom relief comparable to other NSAIDs. There are no registered trials, the drug is not disease-modifying, and there are long-term GI and haematological concerns. This is a research question rather than a development candidate.
+- Migraine disorder has several double-blind trials (2000, 1983, 1986) plus guideline coverage, supporting a guarded path limited to short, perimenstrual courses.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
-- Verification of the design and phase of the historical studies, and any modern controlled data
-- A comparative rationale versus current NSAIDs, given the class GI, renal and cardiovascular risks
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before use.*
+- Modern, adequately powered trials, since the existing studies are small and decades old
+- For migraine, a plan that limits use to short perimenstrual courses, monitors GI and renal risk, avoids chronic use, and reviews the recorded drug interactions
+- Clarification of the cancelled US license status, since no valid license is currently on the market
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

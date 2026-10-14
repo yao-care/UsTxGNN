@@ -29,13 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Ivosidenib: From IDH1-Mutated Cancers to Bulbar Polio
+# Ivosidenib: From Acute Myeloid Leukemia to Bulbar Polio
 
 ## One-Sentence Summary
 
-Ivosidenib is a mutant IDH1 inhibitor, used in IDH1-mutated myeloid and biliary cancers.
-The TxGNN model predicts it may be effective for **bulbar polio**, but **no clinical trials and no publications** support this prediction.
-The link is most likely a knowledge-graph artifact, so the prediction should be treated as low-credibility.
+Ivosidenib is a targeted oral drug originally used to treat acute myeloid leukemia (AML) and related myeloid cancers.
+The TxGNN model's top-ranked prediction is **bulbar polio**, but there are **0 clinical trials** and **0 publications** supporting it, and no plausible biological link was identified.
+Two lower-ranked predictions, **AML/MDS related to alkylating agents** and **AML/MDS related to radiation**, are biologically plausible but largely extend the existing AML use rather than representing true repurposing.
 
 ---
 
@@ -43,10 +43,11 @@ The link is most likely a knowledge-graph artifact, so the prediction should be 
 
 | Item | Content |
 |------|------|
-| Predicted New Indication | Bulbar polio |
+| Original Indication | Acute myeloid leukemia (multiple subtypes, per the knowledge graph; no approved-indication text available in the US license record) |
+| Predicted New Indication | Bulbar polio (top-ranked) |
 | TxGNN Prediction Score | 99.31% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (NDA 211192 is listed as cancelled) |
 | Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
@@ -54,27 +55,23 @@ The link is most likely a knowledge-graph artifact, so the prediction should be 
 
 ## Why is This Prediction Reasonable?
 
-It is not reasonable on biological grounds. Ivosidenib inhibits mutant IDH1, which lowers 2-hydroxyglutarate (2-HG) and relieves the differentiation block in IDH1-mutated myeloid and biliary cancers.
+Detailed mechanism of action data is not available in the data compiled for this report. From general knowledge, ivosidenib is an inhibitor of mutant IDH1. It lowers 2-hydroxyglutarate in IDH1-mutant cancers.
 
-Bulbar polio is a poliovirus infection of motor neurons, and no IDH1-driven pathway is involved. The high score (0.993) most likely comes from neighborhood proximity in the knowledge graph, not from real biology. The original-indication and mechanism-of-action fields are also missing from the input, which weakens the prediction further.
+**Bulbar polio (rank 1):** Bulbar polio is a viral infection of motor neurons caused by poliovirus. No plausible mechanistic link to mutant IDH1 inhibition was identified. The very high score (0.993) is a knowledge-graph prediction only and most likely reflects network artifacts rather than biology. This prediction is not considered credible without independent supporting evidence.
 
-**Other predictions for this drug.** Two lower-ranked predictions are biologically plausible:
-- AML/MDS related to alkylating agents
-- AML/MDS related to radiation
-
-Both are therapy-related myeloid neoplasms, where IDH1 mutations can occur. Any benefit would probably be limited to IDH1-mutated cases. Both have the same score (0.9926), which suggests the graph collapsed them into one signal. They also have no supporting trials or literature, so they are research questions rather than new repurposing findings until existing AML/MDS labeling and trial subgroups are checked.
+**Therapy-related myeloid neoplasms (ranks 2 and 3):** AML/MDS related to alkylating agents and AML/MDS related to radiation are biologically plausible targets. These diseases can carry IDH1 mutations, which ivosidenib targets. Therapy-related AML/MDS and other AML entities already appear among the drug's original indications. Benefit would depend on IDH1 mutation status. These predictions are best viewed as an extension of the existing AML use rather than distinct new indications.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials registered for the predicted indications.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for the predicted indications.
 
 ---
 
@@ -82,7 +79,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA 211192 | TIBSOVO (Servier Pharmaceutical LLC) | Film-coated tablet (oral) | Not listed in the supplied record |
+| NDA 211192 | TIBSOVO (Servier Pharmaceutical LLC), status: cancelled | Tablet, film coated | Not available in the compiled data |
 
 ---
 
@@ -100,7 +97,13 @@ Currently no related literature available.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions:** The interaction query returned 100 interacting drugs. The 20 shown in the data compiled for this report include:
+  - **Major:** Aprepitant, Clarithromycin, Dolasetron, Palonosetron, Cisapride, Granisetron, Levofloxacin
+  - **Moderate:** Famotidine, Loperamide, Bisacodyl, Picosulfuric acid, Polyethylene glycol (3350 with electrolytes), Saxagliptin, Eliglustat, Linagliptin, Sodium sulfate, Castor oil, Glycerin, Lactitol, Lactulose
+
+  Several Major interactions involve antiemetics (5-HT3 antagonists) and QT-prolonging drugs. Pharmacodynamic QT interactions should be reviewed carefully.
+
+Please refer to the package insert for warnings and contraindications.
 
 ---
 
@@ -109,12 +112,16 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The bulbar polio prediction has no plausible mechanism and no trial or literature support, and the high score is likely a graph artifact. The evidence is L5 only, and the package insert safety data has not been retrieved.
+- The top-ranked prediction (bulbar polio) has no supporting trials or literature, and no plausible mechanism. The high score is likely a knowledge-graph artifact.
+- The two plausible predictions (therapy-related AML/MDS) are mainly extensions of the existing AML use, are classified as research questions, and also lack specific trial or literature evidence.
+- The US license record shows only a cancelled NDA, and package insert safety data are missing.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action and original indications from DrugBank
-- For the therapy-related AML/MDS predictions: an IDH1 mutation-stratified evidence review, and a check of whether current labeling already covers these cases
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism of action data
+- For therapy-related AML/MDS: IDH1 mutation prevalence in these populations, and a review of existing IDH1-mutant AML/MDS trial subgroups
+- Clarification of the current US market status, since the only NDA is listed as cancelled
+- For bulbar polio: no further investment is recommended unless an independent biological rationale emerges
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

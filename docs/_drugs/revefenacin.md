@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Revefenacin
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1118
-evidence_level: L4
+evidence_level: L5
 indication_count: 2
 ---
 
 # Revefenacin
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **2** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,12 +29,13 @@ Evidence Level: **L4** | Predicted Indications: **2**
 
 </div>
 
-# Revefenacin: From COPD to Bronchitis
+# Revefenacin: From COPD to Bronchitis / Obstructive Lung Disease
 
 ## One-Sentence Summary
 
-Revefenacin (brand name YUPELRI) is a once-daily nebulized long-acting bronchodilator, and published literature describes its US approval for maintenance treatment of chronic obstructive pulmonary disease (COPD).
-The TxGNN model predicts it may be effective for **bronchitis**, but only **1 clinical trial** (a COPD study, not a bronchitis-specific one) and **no publications** currently support this specific indication.
+Revefenacin is a once-daily, nebulized long-acting muscarinic antagonist (LAMA) originally used for the maintenance treatment of chronic obstructive pulmonary disease (COPD).
+The TxGNN model predicts it may be effective for **bronchitis** (top-ranked prediction) and **obstructive lung disease** (second-ranked prediction), but both predictions largely reflect disease-classification overlap with COPD rather than true new indications.
+For obstructive lung disease, **13 clinical trials** (including several completed Phase 3 RCTs) and **20 publications** are available; for bronchitis, only **1 clinical trial** (COPD population) and no literature.
 
 ---
 
@@ -42,66 +43,102 @@ The TxGNN model predicts it may be effective for **bronchitis**, but only **1 cl
 
 | Item | Content |
 |------|------|
-| Original Indication | COPD maintenance treatment (per the FDA approval summary in PMID 30560478; the license record's indication text is blank) |
-| Predicted New Indication | Bronchitis |
-| TxGNN Prediction Score | 99.61% |
-| Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
+| Original Indication | Chronic obstructive pulmonary disease (COPD) |
+| Predicted New Indication | Bronchitis (rank 1); Obstructive lung disease (rank 2) |
+| TxGNN Prediction Score | Bronchitis 99.61%; Obstructive lung disease 99.10% |
+| Evidence Level | Bronchitis: L3 (indirect only); Obstructive lung disease: L1 |
+| US Market Status | Cancelled only (no currently valid license) |
 | Number of NDAs | 1 |
-| Recommended Decision | Hold |
+| Recommended Decision | Proceed with Guardrails (obstructive lung disease); Hold / research question only (bronchitis) |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the drug record. Based on its known drug class, revefenacin is a lung-selective long-acting muscarinic antagonist (LAMA). It blocks M3 receptors on airway smooth muscle and submucosal glands, which relaxes the airways and may reduce cholinergic mucus secretion.
+Revefenacin is a lung-selective, long-acting muscarinic antagonist. It blocks M3 muscarinic receptors on airway smooth muscle, reducing cholinergic tone and producing sustained bronchodilation suitable for once-daily nebulized dosing. Detailed mechanism of action data was not available in the data compiled for this report; the description above is based on the published literature and the drug's known class.
 
-Chronic bronchitis is a recognized phenotype of COPD, and mucus hypersecretion is a core feature of it. That is why a muscarinic antagonist could plausibly help. The link is indirect, though. The available human data are in COPD populations and were not designed around a bronchitis endpoint.
-
-The very high TxGNN score is a computational prediction and does not replace clinical evidence. The prediction is also partly a re-labeling of the known COPD use, so it is not a clearly novel repurposing signal.
+The two predicted indications are closely related to the original one. Chronic bronchitis is a component of COPD, and "obstructive lung disease" is the umbrella category that includes COPD. The very high TxGNN scores most likely reflect this nosological proximity. This is therefore mainly a confirmation of the existing COPD indication, not a novel repurposing. There is no direct evidence in isolated bronchitis (non-COPD) populations, and extension to other obstructive diseases such as asthma is not supported by the available data.
 
 ---
 
 ## Clinical Trial Evidence
 
+### Bronchitis
+
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT01704404](https://clinicaltrials.gov/study/NCT01704404) | Phase 2 | Completed | 62 | Multiple-dose (7 days) study of pharmacodynamics, safety and pharmacokinetics of TD-4208 (revefenacin) in COPD. It characterizes the dose response and supports the effect on airway obstruction only indirectly. |
+| [NCT01704404](https://clinicaltrials.gov/study/NCT01704404) | Phase 2 | Completed | 62 | 7-day dose-response, safety and PK study in COPD; indirect support only, no bronchitis-specific efficacy data |
+
+### Obstructive Lung Disease
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT02518139](https://clinicaltrials.gov/study/NCT02518139) | Phase 3 | Completed | 1060 | 52-week safety and tolerability of nebulized revefenacin vs tiotropium in moderate to very severe COPD |
+| [NCT02459080](https://clinicaltrials.gov/study/NCT02459080) | Phase 3 | Completed | 619 | 12-week placebo-controlled study of effectiveness and safety in moderate to very severe COPD |
+| [NCT02512510](https://clinicaltrials.gov/study/NCT02512510) | Phase 3 | Completed | 611 | Replicate 12-week pivotal placebo-controlled efficacy trial in COPD |
+| [NCT05165485](https://clinicaltrials.gov/study/NCT05165485) | Phase 4 | Completed | 404 | Revefenacin vs tiotropium (HandiHaler) over 12 weeks in severe to very severe COPD with suboptimal inspiratory flow |
+| [NCT02040792](https://clinicaltrials.gov/study/NCT02040792) | Phase 2 | Completed | 355 | 28-day dose-ranging, placebo-controlled study of four doses |
+| [NCT05046795](https://clinicaltrials.gov/study/NCT05046795) | Phase 3 | Completed | 258 | 12-week placebo-controlled study of 175 mcg once daily in Chinese patients with COPD |
+| [NCT03095456](https://clinicaltrials.gov/study/NCT03095456) | Phase 3 | Completed | 207 | Once-daily nebulized revefenacin vs Spiriva HandiHaler in COPD with low peak inspiratory flow |
+| [NCT03573817](https://clinicaltrials.gov/study/NCT03573817) | Phase 3 | Completed | 122 | 42-day safety and tolerability of revefenacin with formoterol (sequential vs combined) |
+| [NCT07133880](https://clinicaltrials.gov/study/NCT07133880) | Phase 4 | Recruiting | 72 | Nebulizer vs dry powder inhaler delivery of long-acting bronchodilators in symptomatic COPD |
+| [NCT02109172](https://clinicaltrials.gov/study/NCT02109172) | Phase 2 | Completed | 64 | Crossover study of once-daily vs twice-daily nebulized dosing vs placebo |
+
+*Additional trials not listed above include NCT03064113 (Phase 2, n=32), NCT04315558 (RARICO, Phase 2, n=21, acute respiratory failure in COPD) and NCT02772159 (Phase 1 ADME, n=9).*
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available for bronchitis.
+No literature was found specific to bronchitis. The publications below are the most relevant for obstructive lung disease (COPD).
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [31150963](https://pubmed.ncbi.nlm.nih.gov/31150963/) | 2019 | Phase 3 trial (safety) | Respiratory Medicine | 52-week safety and tolerability of revefenacin 88 and 175 μg in moderate to very severe COPD |
+| [29096627](https://pubmed.ncbi.nlm.nih.gov/29096627/) | 2017 | RCT | Respiratory Research | 28-day placebo-controlled study of bronchodilation efficacy and adverse events |
+| [32106777](https://pubmed.ncbi.nlm.nih.gov/32106777/) | 2020 | RCT (subgroup) | Ther Adv Respir Dis | Efficacy and safety in patients taking concomitant LABA or ICS/LABA |
+| [36681255](https://pubmed.ncbi.nlm.nih.gov/36681255/) | 2023 | RCT (post hoc) | Respiratory Medicine | Improvements in health status (SGRQ, CAT, CCQ) in women and men |
+| [34875569](https://pubmed.ncbi.nlm.nih.gov/34875569/) | 2022 | Meta-analysis | Heart & Lung | Safety of revefenacin at the approved dose in COPD |
+| [31152911](https://pubmed.ncbi.nlm.nih.gov/31152911/) | 2019 | Phase 3 safety analysis | Pulm Pharmacol Ther | No clinically meaningful ECG changes over up to 52 weeks |
+| [28987804](https://pubmed.ncbi.nlm.nih.gov/28987804/) | 2018 | Phase 2 RCTs | Pulm Pharmacol Ther | Pharmacodynamics, PK and safety from two randomized phase 2 studies |
+| [39429809](https://pubmed.ncbi.nlm.nih.gov/39429809/) | 2024 | Clinical analysis | Int J COPD | FEV1 area-under-the-curve spirometry in moderate to very severe COPD |
+| [30803279](https://pubmed.ncbi.nlm.nih.gov/30803279/) | 2019 | Review | Expert Rev Clin Pharmacol | Overview of revefenacin for COPD |
+| [31847629](https://pubmed.ncbi.nlm.nih.gov/31847629/) | 2020 | Review | Expert Rev Respir Med | Role of revefenacin among LAMA/LABA maintenance options and device selection |
 
 ---
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA210598 | YUPELRI | Solution | Viatris Specialty LLC |
+| NDA210598 | YUPELRI (Viatris Specialty LLC) | Solution | Status: cancelled; indication text not available |
+
+The only US authorization is recorded as cancelled, so commercial availability should be verified before any action.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: 100 interactions were recorded. All those listed are of Moderate severity. Most are additive anticholinergic effects with other antimuscarinic agents, including hyoscyamine, atropine, glycopyrronium, clidinium, dicyclomine, trospium, mepenzolate, methscopolamine, propantheline and scopolamine. Other moderate interactions include cobicistat, promethazine, eltrombopag, artesunate, abiraterone, eluxadoline, obeticholic acid and prucalopride.
+
+Please refer to the package insert for warnings and contraindications, as this information was not available in the data compiled for this report.
 
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Proceed with Guardrails** (for obstructive lung disease/COPD); **Hold** for bronchitis as a stand-alone indication (research question only).
 
 **Rationale:**
-The bronchitis prediction rests on class pharmacology and a single COPD-based Phase 2 trial, with no bronchitis-specific trials or publications. Revefenacin's strong evidence (Phase 3 trials) is in COPD, which is most likely its existing labeled use, so it should not be counted as support for a new bronchitis indication.
+- For obstructive lung disease, multiple completed Phase 3 RCTs and a Phase 4 trial show improved lung function and an acceptable safety profile. However, this largely confirms the already-approved COPD indication rather than a new one.
+- For bronchitis, there is no direct evidence outside COPD, and the high TxGNN score likely reflects disease-classification proximity.
 
 **To proceed, the following is needed:**
-- Confirm the current US label indication text, since the license record's approved indication is blank
-- Clarify whether "bronchitis" here means chronic bronchitis within COPD (already covered) or a separate condition
-- Review the package insert for warnings and contraindications, and complete mechanism of action data
-- Bronchitis-specific clinical data, such as a trial with mucus or cough endpoints in a chronic bronchitis population
+- Verify current commercial availability, since the only US NDA is listed as cancelled
+- Obtain the FDA package insert warnings and contraindications
+- Obtain detailed mechanism of action data from DrugBank
+- Bronchitis-specific data in non-COPD populations, if that indication is to be pursued
+- Evidence for any extension to non-COPD obstructive diseases such as asthma
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,37 +29,35 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Oritavancin: From Acute Bacterial Skin Infections to Bacteroidaceae Infectious Disease
+# Oritavancin: From Skin Infection to Bacteroidaceae Infectious Disease
 
 ## One-Sentence Summary
 
-Oritavancin is an injectable lipoglycopeptide antibiotic marketed in the US, and its labeled use is for Gram-positive skin and soft-tissue infections.
-The TxGNN model predicts it may be effective for **Bacteroidaceae infectious disease**, but **0 clinical trials** and **0 publications** support this direction.
-The prediction rests on the model score alone and is biologically questionable.
+Oritavancin is a lipoglycopeptide antibacterial, originally used to treat skin disease caused by infection.
+The TxGNN model predicts it may be effective for **Bacteroidaceae infectious disease**,
+but currently there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Acute bacterial skin and skin structure infections (the supplied license records do not list indication text; this reflects general knowledge of the product labeling) |
+| Original Indication | Skin disease caused by infection |
 | Predicted New Indication | Bacteroidaceae infectious disease |
 | TxGNN Prediction Score | 99.48% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
+| US Market Status | Cancelled only |
 | Number of NDAs | 2 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the supplied record. Oritavancin is a lipoglycopeptide that inhibits cell wall synthesis in Gram-positive bacteria and disrupts their membranes.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, oritavancin is a lipoglycopeptide that inhibits bacterial cell wall synthesis (transglycosylation and transpeptidation) and disrupts membrane integrity. Its activity is mainly against Gram-positive bacteria, which is consistent with its use in skin infections.
 
-The predicted indication is hard to reconcile with that mechanism. Bacteroidaceae are Gram-negative anaerobes, and their outer membrane normally blocks glycopeptides from reaching their target. The high score (0.995) is most likely a graph-proximity artifact in the knowledge graph. It should not be read as a clinical signal without in vitro susceptibility data.
+The link to the predicted indication is weak. Bacteroidaceae are Gram-negative anaerobes with an outer membrane that glycopeptides generally cannot penetrate. The high TxGNN score (99.48%) is therefore not supported by known pharmacology. It may reflect a graph-based association, such as shared infection-related nodes, rather than real activity.
 
-The other two top predictions are weaker still:
-- **Ophthalmic herpes zoster (score 99.03%):** this is a viral disease, and oritavancin has no recognized antiviral target.
-- **Mycoplasma pneumoniae pneumonia (score 99.01%):** Mycoplasma lacks a cell wall, so a cell-wall-targeting agent is expected to be ineffective. This is a mechanistic contradiction, not just a gap in the data.
-
-All three predictions are Evidence Level L5 with a Hold recommendation.
+Two other top-ranked predictions are also doubtful, which suggests the model's scores for this drug should be read with caution:
+- **Ophthalmic herpes zoster (score 99.03%)**: caused by a virus, and oritavancin has no known antiviral activity.
+- **Mycoplasma pneumoniae pneumonia (score 99.01%)**: Mycoplasma lacks a cell wall, so cell-wall-targeting agents are intrinsically inactive.
 
 ## Clinical Trial Evidence
 
@@ -73,29 +71,35 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA214155 | Kimyrsa (Melinta Therapeutics, LLC) | Injection, powder, lyophilized, for solution | — |
-| NDA206334 | Orbactiv (Melinta Therapeutics, LLC) | Injection, powder, lyophilized, for solution | — |
+| NDA214155 | Kimyrsa | Lyophilized powder for injection solution | Not available (status: cancelled) |
+| NDA206334 | Orbactiv | Lyophilized powder for injection solution | Not available (status: cancelled) |
 
-Both products are injectable only. No drug interactions were found in the queried data.
+Both authorizations are held by Melinta Therapeutics, LLC and are currently listed as cancelled.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: 38 interactions were identified in total. The first 20 retrieved include one Major interaction and mostly Moderate ones.
+  - **Major**: Heparin
+  - **Moderate (examples)**: Warfarin, Ticagrelor, Cobicistat, Fostamatinib, Hydrocodone, Ethinylestradiol, Abemaciclib, Acalabrutinib, Alpelisib, Brigatinib, Cabozantinib, Crizotinib
+  - **Minor**: Bortezomib
+
+  Several of these involve anticoagulants or antiplatelet agents (heparin, warfarin, ticagrelor), so coagulation monitoring deserves attention.
+
+Please refer to the package insert for warnings and contraindications, as these were not available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no trial or literature support (L5), and the known mechanism argues against it. Oritavancin acts on Gram-positive cell walls, while Bacteroidaceae are Gram-negative anaerobes protected by an outer membrane. The high TxGNN score alone does not justify further investment.
+The prediction has no clinical trial or literature support (Evidence Level L5). Known pharmacology also argues against it: glycopeptides are poorly active against Gram-negative anaerobes because of the outer membrane. Both US authorizations are cancelled, and safety label data are missing.
 
 **To proceed, the following is needed:**
-- In vitro susceptibility (MIC) data for oritavancin against Bacteroidaceae isolates
-- Detailed mechanism of action data
-- Package insert warnings and contraindications
-- Indication text for the two NDAs, to confirm the original indication
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
+- Package insert warnings and contraindications from the FDA
+- Detailed mechanism of action data (MOA)
+- In vitro susceptibility data for oritavancin against Bacteroidaceae (e.g., Bacteroides species)
+- Review of why the model gives high scores to mechanistically implausible indications (viral and cell-wall-deficient pathogens)
+- Clarification of the reasons for the authorization cancellations and of the current US availability
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

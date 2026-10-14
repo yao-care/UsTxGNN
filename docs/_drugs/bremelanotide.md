@@ -29,83 +29,73 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Bremelanotide: From Hypoactive Sexual Desire Disorder (HSDD) to Acne
+# Bremelanotide: From Hypoactive Sexual Desire Disorder to Acne
 
 ## One-Sentence Summary
 
-Bremelanotide (Vyleesi) is a melanocortin receptor agonist given by injection. The Evidence Pack does not state its approved indication; the title uses HSDD in premenopausal women from general knowledge of the US label, which should be checked against the package insert.
-The TxGNN model predicts it may be effective for **acne**, but there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model score alone.
-
----
+Bremelanotide is a melanocortin receptor agonist, originally used to treat hypoactive sexual desire disorder (HSDD).
+The TxGNN model predicts it may be effective for **acne**, but **no clinical trials** and **no publications** currently support this direction, so it remains a computational prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the source data (the approved indication text is empty); HSDD per general knowledge of the US label |
-| Predicted New Indication | Acne (disease) |
+| Original Indication | Hypoactive sexual desire disorder (HSDD) |
+| Predicted New Indication | Acne |
 | TxGNN Prediction Score | 100.00% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
+| US Market Status | Cancelled only (the single NDA is cancelled) |
 | Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
----
-
 ## Why is This Prediction Reasonable?
 
-Bremelanotide is a melanocortin receptor agonist, acting mainly on MC4R with activity at other melanocortin receptors. Detailed mechanism-of-action data is not available in the source record, so this description comes from the analysis of the predicted indication.
+Detailed mechanism of action data is not formally available for this report. From pharmacology data, bremelanotide (PT-141) is a peptide that acts on melanocortin receptors, including MC1R, MC3R, MC4R and MC5R. It is approved as a subcutaneous injection for premenopausal women with HSDD.
 
-Melanocortin signaling, including MC1R and MC5R, has been reported in sebocytes and in skin inflammation. That makes a link to acne biologically plausible. The link is indirect and unverified. MC5R is the main receptor on sebaceous glands, and bremelanotide is not selective for it. Bremelanotide is also known to cause skin hyperpigmentation, which is a concern for a skin indication.
+Melanocortin signaling, particularly through MC1R and MC5R, has been linked to skin inflammation and sebaceous gland regulation. This offers a plausible but unvalidated link to acne. The similarity between the original and predicted indications has not been assessed, since HSDD is a central nervous system-driven condition and acne is a dermatologic one.
 
-The relationship between the original indication and acne is still pending analysis. The 100% score should be read as a model output, not as evidence of efficacy.
+There is also a tolerability concern: MC1R activation can cause hyperpigmentation, a known adverse effect of bremelanotide. This would matter for any dermatologic use.
 
----
+Although the TxGNN score is at its maximum, no trials or literature back it up. The score should be read as a hypothesis-generating signal only.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
-
----
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA210557 | Vyleesi (Cosette Pharmaceuticals, Inc.) | Injection | Not listed in source data |
-
----
+| NDA210557 (Cancelled) | Vyleesi (Cosette Pharmaceuticals, Inc.) | Injection | Not listed in the data compiled for this report |
 
 ## Safety Considerations
 
-- **Drug Interactions**: The interaction query returned no records.
-- **Skin effects**: Bremelanotide is known to cause skin hyperpigmentation, which matters for a dermatologic use.
-- **Blood pressure**: Bremelanotide is known to raise blood pressure.
+- **Drug Interactions**:
+  - **Naltrexone (Major)**: this is the only graded interaction identified.
+  - Pharmacology data also show that bremelanotide acts on the MC1R, MC3R, MC4R and MC5R receptors. These are target activities, not interactions in the clinical sense.
+- **Disease associations flagged in the knowledge graph** (not taken from label text): hypertensive disorder, hypertension, cardiovascular disease and heart disease are listed as contraindication-related conditions. This is consistent with the transient blood pressure increases known with this drug class.
+- **Dermatologic tolerability**: MC1R-mediated hyperpigmentation is a known adverse effect and is relevant to any acne use.
 
-Please refer to the package insert for warnings and contraindications.
-
----
+Please refer to the package insert for complete warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical, registry, or literature support (L5). The mechanistic link to acne is weak and indirect, and known skin pigmentation and blood pressure effects add concerns. The other nine predicted indications, including mitochondrial oxidative phosphorylation disorder, exocrine pancreatic insufficiency, and retinopathy of prematurity, are also L5 and Hold, with weaker mechanistic links.
+The acne prediction has the maximum TxGNN score but no clinical trials or literature (Evidence Level L5). The mechanistic link is only plausible, and the hyperpigmentation and cardiovascular considerations weigh against it. The only US NDA is cancelled, which further limits near-term development.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications (a blocking gap for safety screening)
-- The approved indication text and mechanism-of-action data from DrugBank
-- Preclinical evidence on melanocortin receptors (especially MC5R) in sebocytes and acne models
-- A literature and trial search for melanocortin agonists in acne
-- An assessment of injectable delivery against the needs of an acne treatment, including a comparison with topical options
-- A safety assessment of pigmentation and blood pressure effects in an acne population
+- Review of the FDA package insert for warnings and contraindications
+- Detailed mechanism of action data for bremelanotide
+- Preclinical evidence that melanocortin receptor agonism (for example MC1R or MC5R) affects sebaceous gland activity or skin inflammation in acne models
+- Assessment of whether the hyperpigmentation and blood pressure effects are acceptable for an acne population
+- Evaluation of route and formulation compatibility, since only an injectable form exists and a topical or other option may be needed for acne
+- Clarification of the regulatory and commercial status of the cancelled NDA
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

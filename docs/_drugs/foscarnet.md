@@ -29,87 +29,80 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Foscarnet: From Antiviral Therapy to Autosomal Dominant Familial Hematuria-Retinal Arteriolar Tortuosity-Contractures Syndrome
+# Foscarnet: From Cytomegalovirus Infection to Autosomal Dominant Familial Hematuria-Retinal Arteriolar Tortuosity-Contractures Syndrome
 
 ## One-Sentence Summary
 
-Foscarnet is an injectable antiviral that inhibits viral DNA polymerase, and it is marketed in the US.
-The TxGNN model predicts it may be effective for **autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome**, a rare inherited vascular disorder.
-This prediction has **0 clinical trials** and **0 publications** behind it, so it rests on the model score alone.
-
----
+Foscarnet is an injectable antiviral that inhibits viral DNA polymerase. The data compiled for this report do not list its original approved indication.
+The TxGNN model predicts it may be effective for **autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome**, but **no clinical trials and no publications** support this prediction, so it rests on a graph-based model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the US license records; the mechanism (viral DNA polymerase inhibitor) points to antiviral use |
+| Original Indication | Not stated in the available data (approved-indication text is blank in all authorizations) |
 | Predicted New Indication | Autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome |
-| TxGNN Prediction Score | 99.56% (model rank 10,857) |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 8 licenses (NDA and ANDA) |
+| TxGNN Prediction Score | 99.56% |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no currently valid authorizations) |
+| Number of NDAs | 6 (1 NDA, 5 ANDAs; all cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the source record. Foscarnet is a pyrophosphate analog that inhibits viral DNA polymerase, reverse transcriptase and herpesvirus DNA polymerases.
+Currently, detailed mechanism of action data is not available in the compiled data. From general pharmacology, foscarnet is a pyrophosphate analog that inhibits viral DNA polymerase and reverse transcriptase, so its activity is antiviral.
 
-The predicted disease is a heritable vascular and basement-membrane disorder with no viral cause. There is no plausible mechanistic link between foscarnet's antiviral action and this condition. The high score (0.996) comes from graph-based patterns in the TxGNN knowledge graph, not from biological or clinical evidence.
+The predicted condition is a rare inherited vascular and basement-membrane disorder (COL4A1-related) with no known viral cause. No mechanistic link between foscarnet and this syndrome was identified. The high TxGNN score (0.996) is a graph-based association with no supporting trials or literature, so the prediction should be treated as a hypothesis only.
 
-Foscarnet is known to be nephrotoxic, which is a further concern in a condition that involves hematuria. At present this prediction is a hypothesis with no support.
-
----
+Other top-ranked predictions are equally weak:
+- **Brain small vessel disease 1 with or without ocular anomalies**: a COL4A1-related genetic disorder with no viral component. Four retrieved papers concern CMV retinitis and appear only through ocular keyword overlap.
+- **Rheumatoid arthritis**: foscarnet has no known immunomodulatory effect. The literature concerns CMV/EBV infections, with RA appearing only incidentally.
+- **Diabetic nephropathy**: foscarnet is nephrotoxic, so this is a safety concern rather than a therapeutic rationale.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-Currently no related literature available.
-
----
+Currently no related literature available for the predicted indication.
 
 ## US Market Information
 
-The record lists 8 licenses; the 5 below are the main ones. The records give no approved indication text.
-
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA020068 | Foscavir (Clinigen Limited) | Injection, solution | Not stated |
-| ANDA216602 | Foscarnet Sodium (Amneal Pharmaceuticals LLC) | Injection | Not stated |
-| ANDA212483 | Foscarnet (Fresenius Kabi USA, LLC) | Injection, solution | Not stated |
-| ANDA213001 | Foscarnet Sodium (Gland Pharma Limited) | Injection, solution | Not stated |
-| ANDA213987 | Foscarnet Sodium (Hikma Pharmaceuticals USA Inc.) | Injection, solution | Not stated |
-
----
+| NDA020068 | Foscavir (Clinigen Limited) | Injection, solution | Not stated (cancelled) |
+| ANDA216602 | Foscarnet Sodium (Amneal) | Injection | Not stated (cancelled) |
+| ANDA212483 | Foscarnet (Fresenius Kabi USA) | Injection, solution | Not stated (cancelled) |
+| ANDA213001 | Foscarnet Sodium (Gland Pharma) | Injection, solution | Not stated (cancelled) |
+| ANDA213987 | Foscarnet Sodium (Hikma) | Injection, solution | Not stated (cancelled) |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No warnings, contraindications or drug interaction data were retrieved.
+Package insert warnings and contraindications were not available in the compiled data. Please refer to the package insert for these.
 
-The evidence pack's own assessment notes that foscarnet's nephrotoxicity is a concern for a condition involving hematuria.
+- **Knowledge-graph contraindication signals** (from drug-disease edges, not label text): long QT syndrome and torsades de pointes, epilepsy, kidney disease, neutropenia and related congenital neutropenias, anemia, and electrolyte or mineral disorders (potassium deficiency, hypercalcemia, nephrocalcinosis, hyperphosphatemia, hypophosphatemia, phosphorus metabolism disease).
+- **Drug Interactions**: 100 interactions were recorded. Major-level interactions include:
+  - Amphotericin B (including the lipid complex)
+  - Dolasetron
+  - Bupropion
 
----
+  Moderate-level examples include famotidine, omeprazole, rabeprazole, dexamethasone, hydrocortisone, clarithromycin, and loperamide.
+- **Nephrotoxicity and electrolyte disturbance**: the compiled assessment notes dose-limiting renal impairment and electrolyte disturbances (hypomagnesemia, hypocalcemia, hypokalemia). This is especially relevant for the kidney-related predicted indications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trials or publications behind it and no plausible mechanism, since the disease is a non-viral inherited vascular disorder and foscarnet is an antiviral. Its nephrotoxicity works against use in a disease with hematuria.
-
-The other top-ranked predictions in the pack (brain small vessel disease, rheumatoid arthritis, diabetic nephropathy) reached the same conclusion. Their retrieved trials and literature do not show foscarnet benefit, and the diabetic nephropathy prediction adds a kidney safety concern.
+The prediction has a high model score but no clinical trials, no relevant literature, and no plausible mechanism. Foscarnet is an antiviral, and the predicted condition is a non-viral genetic disorder. All US authorizations are cancelled, and the drug carries significant renal and electrolyte toxicity.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, which are currently missing and block safety screening
 - Mechanism of action data from DrugBank
-- Any preclinical or clinical evidence linking foscarnet to this disease. Without it, the prediction should not advance beyond model output.
+- FDA package insert warnings and contraindications, which block safety screening
+- Original approved indication text
+- A biological hypothesis linking foscarnet to COL4A1-related disease, supported by preclinical evidence
+- Review of the other top-ranked predictions, none of which currently has supporting evidence either
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

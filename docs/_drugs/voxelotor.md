@@ -29,32 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Voxelotor: From Sickle Cell Disease to Hereditary Thrombocytopenia with Normal Platelets
+# Voxelotor: From Sickle Cell Anemia to Hereditary Thrombocytopenia with Normal Platelets
 
 ## One-Sentence Summary
 
-Voxelotor (brand name OXBRYTA) is a hemoglobin S polymerization inhibitor that raises hemoglobin-oxygen affinity. It was developed for sickle cell disease, which is general knowledge, since the Evidence Pack lists no approved indication text.
-The TxGNN model predicts it may be effective for **hereditary thrombocytopenia with normal platelets**, but **0 clinical trials** and **0 publications** support this direction, so the prediction rests on the model score alone.
+Voxelotor was originally used to treat sickle cell anemia (and is linked to hereditary persistence of fetal hemoglobin in the knowledge graph).
+The TxGNN model predicts it may be effective for **hereditary thrombocytopenia with normal platelets**,
+but currently there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Sickle cell disease (general knowledge; not listed in the Evidence Pack's license records) |
+| Original Indication | Sickle cell anemia (the US license records contain no indication text; this comes from the knowledge graph) |
 | Predicted New Indication | Hereditary thrombocytopenia with normal platelets |
 | TxGNN Prediction Score | 99.58% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed (per the Evidence Pack; verify against current status, see Safety Considerations) |
-| Number of NDAs | 3 license records (2 distinct NDA numbers) |
+| US Market Status | Cancelled only (no active authorization) |
+| Number of NDAs | 2 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. From general knowledge, voxelotor binds hemoglobin, inhibits sickle hemoglobin polymerization, and increases hemoglobin-oxygen affinity. It acts on red blood cells.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Voxelotor is generally known as a hemoglobin S polymerization inhibitor that increases hemoglobin-oxygen affinity, which is the basis of its use in sickle cell anemia.
 
-**No established mechanistic link to the predicted indication was found.** Voxelotor has no known action on megakaryopoiesis or platelet production. The high score (0.996) most likely reflects graph proximity among hematologic disease nodes in the knowledge graph, not a biological rationale.
+That mechanism acts on red blood cells. There is no evident connection to platelet production or function, which is the area affected by the predicted indication. Because no mechanistic bridge can be verified, the high score (99.58%) most likely reflects similarity within the knowledge graph rather than a specific biological rationale.
 
-The other six predictions are also platelet or hematologic disorders. They are thrombocytopenia, dense granule disease, primary release disorder of platelets, transient neonatal thrombocytopenia, macrothrombocytopenia with mitral valve insufficiency, and light chain-associated Fanconi syndrome. All are L5, with no trials or literature and no plausible mechanism. This pattern supports the view that the predictions are an artifact of the graph.
+The same pattern appears across the other predictions: six more platelet-related or unrelated conditions (such as macrothrombocytopenia with mitral valve insufficiency, dense granule disease, transient neonatal thrombocytopenia, thrombocytopenia, primary release disorder of platelets, and light chain-associated Fanconi syndrome) have scores between 99.0% and 99.6%. None has any trial or publication support.
 
 ## Clinical Trial Evidence
 
@@ -66,31 +67,37 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form |
-|---------|------|------|
-| NDA216157 | OXBRYTA | Tablet, for suspension |
-| NDA213137 | OXBRYTA | Tablet, film coated (listed twice in the records) |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA216157 | OXBRYTA (Global Blood Therapeutics, a subsidiary of Pfizer) | Tablet, for suspension (oral) | Not listed; status: cancelled |
+| NDA213137 | OXBRYTA (Global Blood Therapeutics, a subsidiary of Pfizer) | Tablet, film coated (oral) | Not listed; status: cancelled |
 
-Manufacturer: Global Blood Therapeutics, Inc., a subsidiary of Pfizer Inc. All forms are oral. No approved indication text is provided in the records.
+Both authorizations are cancelled, so there is currently no actively marketed voxelotor product in the US. This limits the practical feasibility of any repurposing effort.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. The Evidence Pack contains no warnings, contraindications, or drug interaction data (the DDI query returned no results).
+- **Drug Interactions**: The interaction query returned 100 records. Among those listed, the following are **Major**:
+  - Dexamethasone
+  - Clarithromycin
+  - Eliglustat
+  - Naloxegol
 
-The "Marketed" status should be verified. To my knowledge, Pfizer withdrew OXBRYTA from the market in 2024 over safety concerns, and this is not reflected in the Evidence Pack.
+  Many others are **Moderate**, including hydrocortisone, prednisone, betamethasone, budesonide, triamcinolone, aprepitant, saxagliptin, naldemedine, nitisinone, repaglinide, simvastatin, and tinidazole. Corticosteroids are a prominent group among these interactions.
+
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a knowledge-graph score. There are no trials or publications, and no plausible mechanistic link between hemoglobin-oxygen affinity modulation and platelet production or function. The drug's own safety and market status also need verification.
+The prediction is supported only by a knowledge-graph score. There are no clinical trials or publications, no plausible mechanistic link between hemoglobin-oxygen affinity modulation and the predicted platelet disorder, and no currently active US authorization.
 
 **To proceed, the following is needed:**
-- Verify the current US regulatory and marketing status of voxelotor
-- Obtain the package insert (warnings and contraindications) and the approved indication text
-- Obtain mechanism of action data from DrugBank
-- Find preclinical or mechanistic evidence linking voxelotor to platelet biology, otherwise deprioritize this candidate
+- Mechanism of action data (for example from DrugBank) to test whether any biological bridge to platelet disorders exists
+- Package insert warnings and contraindications, which are required before any safety screening
+- Preclinical or literature evidence linking voxelotor to platelet production or function
+- Clarification of the reasons for the cancellation of the US authorizations and of the regulatory path to supply the drug for any new study
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

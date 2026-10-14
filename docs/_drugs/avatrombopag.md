@@ -29,88 +29,77 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Avatrombopag: From a Thrombopoietin Receptor Agonist to Marcothrombocytopenia with Mitral Valve Insufficiency
+# Avatrombopag: From Thrombocytopenia to Macrothrombocytopenia with Mitral Valve Insufficiency
 
 ## One-Sentence Summary
 
-Avatrombopag is a thrombopoietin (TPO) receptor agonist that stimulates platelet production, and it is currently marketed in the United States.
-The TxGNN model predicts it may be effective for **marcothrombocytopenia with mitral valve insufficiency**, with a top score of 99.995%.
-There are currently **0 clinical trials** and **0 publications** supporting this prediction, so it is a research question, not an evidence-backed candidate.
-
----
+Avatrombopag is a thrombopoietin receptor agonist, originally used to treat thrombocytopenia.
+The TxGNN model predicts it may be effective for **macrothrombocytopenia with mitral valve insufficiency**,
+but currently **0 clinical trials** and **0 publications** support this prediction, so it rests on model prediction alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Predicted New Indication | Marcothrombocytopenia with mitral valve insufficiency |
-| TxGNN Prediction Score | 99.995% (model rank 254) |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
+| Original Indication | Thrombocytopenia (from the knowledge graph; no approved-indication text is available in the license records) |
+| Predicted New Indication | Macrothrombocytopenia with mitral valve insufficiency |
+| TxGNN Prediction Score | 99.995% |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no currently valid licenses) |
 | Number of NDAs | 2 |
 | Recommended Decision | Hold |
 
-The evidence pack contains no approved-indication text for either NDA, so the original indication is not listed here.
-
----
-
 ## Why is This Prediction Reasonable?
 
-Avatrombopag is a TPO receptor agonist. It stimulates megakaryocyte proliferation and platelet production. Detailed DrugBank mechanism-of-action data are not available in the evidence pack, so this description comes from the mechanistic notes attached to the predictions.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, avatrombopag is a thrombopoietin receptor (TPO-R) agonist that stimulates megakaryocyte proliferation and platelet production. Its efficacy in thrombocytopenia is the basis of its original indication.
 
-Raising platelet count is a plausible strategy for a condition defined by low platelets. However, marcothrombocytopenia is likely genetic in origin, and the response to a TPO receptor agonist would depend on the specific defect. No supporting data were provided, so the mechanistic link is **not verified**.
+The predicted disease combines two components. Inherited macrothrombocytopenia could plausibly respond to a TPO-R agonist, but only if platelet production is impaired while the TPO-R pathway remains intact. The mitral valve insufficiency component has no relationship to the drug's mechanism. The high TxGNN score (99.995%, model rank 254) is not backed by any trial or publication.
 
-The other nine predictions are weaker:
-- **Thrombocytopenia-related (ranks 2–3):** "Hereditary thrombocytopenia with normal platelets" is plausible in principle, but the disease name is ambiguous and the mapping should be checked. "Transient neonatal thrombocytopenia" is self-limiting, and no neonatal safety data were provided, so the risk-benefit balance is unfavorable.
-- **Dense granule disease (rank 4):** This is a platelet function defect, not a low platelet count. A TPO receptor agonist would not be expected to correct it, and the score looks like a knowledge-graph proximity artifact.
-- **Motor neuron and cortical disorders (ranks 5–10):** These include ALS, its susceptibility entry, lower motor neuron syndrome, Mills syndrome, monomelic amyotrophy and polymicrogyria. No mechanistic link to TPO receptor agonism was found, and they likely reflect graph-structure artifacts. The ALS-related entries overlap and should not be counted as independent support.
-
----
+Other top-ranked predictions include:
+- **Hereditary thrombocytopenia with normal platelets** (99.995%): mechanistically coherent, but the disease label is ambiguous and the genetic basis is heterogeneous.
+- **Transient neonatal thrombocytopenia** (99.995%): the mechanism is plausible, but the condition is self-limiting and avatrombopag has no established safety or dosing data in neonates. The benefit-risk balance is unfavorable.
+- **Dense granule disease** (99.995%): mainly a platelet function defect rather than a count defect, so the mechanistic link is weak. Thrombotic risk would also need consideration.
+- **Amyotrophic lateral sclerosis and related motor neuron disorders** (ranks 5, 7–10, including Mills syndrome and monomelic amyotrophy): no mechanistic rationale exists. The high scores probably reflect proximity in the knowledge graph rather than biology.
+- **Bilateral parasagittal parieto-occipital polymicrogyria**: a developmental cortical malformation with no plausible drug effect.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA210238 | DOPTELET | Tablet, film coated (oral) | AkaRx, Inc. |
-| NDA219696 | Doptelet Sprinkle | Granule | AkaRx, Inc. |
-
----
+| NDA210238 | DOPTELET | Tablet, film coated | Not available (status: cancelled) |
+| NDA219696 | Doptelet Sprinkle | Granule | Not available (status: cancelled) |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+**Drug Interactions**: The data compiled for this report show 52 recorded interactions. The 20 listed in detail include the following.
 
----
+- **Major**: fosphenytoin, carbamazepine, carfilzomib, dabrafenib, enzalutamide, fluconazole, imatinib
+- **Moderate**: clarithromycin, nitisinone, cobicistat, fosamprenavir, gemfibrozil, fenofibrate, apalutamide, atazanavir, amprenavir, boceprevir, ceritinib, delavirdine, idelalisib
+
+For other safety information, please refer to the package insert.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trial or literature support (L5), and the mechanistic link to this ultra-rare, likely genetic condition is unverified. Blocking safety gaps also remain, because package insert warnings and contraindications have not been retrieved.
+The prediction has no supporting clinical trials or literature (Evidence Level L5). The mitral valve insufficiency component has no mechanistic link to the drug. The compiled data also lack package insert safety information, and both US licenses are cancelled.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap)
-- DrugBank mechanism-of-action data
-- Confirmation of the disease definition and ontology mapping for "marcothrombocytopenia with mitral valve insufficiency", and of the ambiguous "hereditary thrombocytopenia with normal platelets"
-- A targeted literature and trial search (PubMed, ClinicalTrials.gov, ICTRP) for TPO receptor agonists in inherited thrombocytopenias
-- Genetic-subtype analysis to decide whether a TPO receptor agonist could plausibly work
-- Route compatibility assessment, which is still pending
-- For the neonatal indication, neonatal safety data before any further consideration
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism of action data
+- Clarification of the predicted disease definition, or a better-defined candidate such as hereditary thrombocytopenia
+- Literature and trial searches, such as case reports in inherited thrombocytopenias
+- Confirmation of the current US regulatory status of avatrombopag
+- A dosing and safety assessment for any proposed special population
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

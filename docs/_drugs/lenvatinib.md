@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Lenvatinib
-parent: Model Prediction Only (L5)
+parent: High Evidence (L1-L2)
 nav_order: 846
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Lenvatinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,13 +29,15 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Lenvatinib: From a Marketed Multi-Kinase Inhibitor to Liposarcoma
+# Lenvatinib: From Renal Cell Carcinoma and Thyroid Cancer to Liposarcoma
 
 ## One-Sentence Summary
 
-Lenvatinib is an oral multi-kinase inhibitor marketed in the US as Lenvima, and the source data does not list its original indications.
-The TxGNN model predicts it may be effective for **liposarcoma**.
-Support is limited: **1 completed Phase Ib/II single-arm trial** (30 patients, lenvatinib plus eribulin) and **4 publications**, of which only one reports on that trial.
+Lenvatinib is an oral multi-kinase inhibitor, originally used to treat renal cell carcinoma and thyroid cancer.
+The TxGNN model predicts it may be effective for **Liposarcoma**,
+with **1 clinical trial** and **4 publications** currently supporting this direction (only 1 of the 4 publications is clinical).
+
+Of the ten predictions, the best-supported is **renal carcinoma**, which is an on-label confirmation rather than true repurposing (see "Other Predictions" below). This report centres on the top-ranked prediction, liposarcoma.
 
 ---
 
@@ -43,23 +45,23 @@ Support is limited: **1 completed Phase Ib/II single-arm trial** (30 patients, l
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the source data |
+| Original Indication | Renal cell carcinoma and thyroid cancer (the original indication list in the data compiled for this report) |
 | Predicted New Indication | Liposarcoma |
 | TxGNN Prediction Score | 99.51% |
-| Evidence Level | L2 (lower edge: the Phase Ib/II study is single-arm and small, with no randomized comparator) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 5 (all records under NDA206947) |
-| Recommended Decision | Hold |
+| Evidence Level | L2 |
+| US Market Status | Cancelled only (1 NDA, cancelled) |
+| Number of NDAs | 1 |
+| Recommended Decision | Hold (treat as a research question) |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Structured mechanism-of-action data is not available in the drug record. The evidence review describes lenvatinib as a multi-kinase inhibitor acting on VEGFR1-3, FGFR1-4, PDGFRα, RET and KIT. Its main action is against tumor angiogenesis, meaning the blood vessels that feed a tumor.
+Detailed mechanism of action data is not formally available in the data compiled for this report. Based on known pharmacology, lenvatinib inhibits VEGFR1-3, FGFR1-4, PDGFRα, RET and KIT. These kinases drive angiogenesis and tumour-stromal signalling, which may also matter in sarcoma.
 
-The tested regimen pairs lenvatinib with eribulin, a chemotherapy that blocks cell division (mitosis). The rationale is that one drug starves the tumor of blood supply while the other attacks dividing cancer cells directly.
+Its efficacy in renal cell carcinoma and thyroid cancer is established. Liposarcoma is a very different tumour type, so the link is mechanistic rather than based on shared tissue of origin. Eribulin, a microtubule inhibitor, is already established in liposarcoma, and preclinical data suggest it works synergistically with other anticancer agents. A single-arm Phase Ib/II study tested lenvatinib plus eribulin in advanced liposarcoma and leiomyosarcoma.
 
-The completed Phase Ib/II LEADER study gives a clinical signal in advanced adipocytic sarcoma (liposarcoma). It was single-arm and small (n=30), so it is not confirmatory. The other liposarcoma-related predictions (for example ovarian myxoid liposarcoma) have no entity-specific evidence. Myxoid liposarcoma also differs biologically from the dedifferentiated and well-differentiated subtypes, so extrapolation is uncertain.
+An important caveat is that there is no randomised comparison. Because lenvatinib was only tested together with eribulin, its own contribution cannot be separated out.
 
 ---
 
@@ -67,7 +69,7 @@ The completed Phase Ib/II LEADER study gives a clinical signal in advanced adipo
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT03526679](https://clinicaltrials.gov/study/NCT03526679) | Phase 1/2 | Completed | 30 | LEADER study: single-arm test of lenvatinib plus eribulin in inoperable or metastatic adipocytic sarcoma and leiomyosarcoma. Started July 2018 and completed October 2025. |
+| [NCT03526679](https://clinicaltrials.gov/study/NCT03526679) | Phase 1/2 | Completed | 30 | Single-arm LEADER study of lenvatinib plus eribulin in inoperable or metastatic adipocytic sarcoma and leiomyosarcoma; tests safety and efficacy. Non-randomised and combination-based. |
 
 ---
 
@@ -75,10 +77,10 @@ The completed Phase Ib/II LEADER study gives a clinical signal in advanced adipo
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [36129471](https://pubmed.ncbi.nlm.nih.gov/36129471/) | 2022 | Phase Ib/II single-arm trial | Clin Cancer Res | Publication of the LEADER study (NCT03526679) on lenvatinib plus eribulin in advanced liposarcoma and leiomyosarcoma. The retrieved abstract excerpt gives no efficacy or safety figures. |
-| [39103896](https://pubmed.ncbi.nlm.nih.gov/39103896/) | 2024 | Preclinical / biomarker study | Exp Hematol Oncol | CDK4 as a prognostic biomarker in soft tissue sarcoma, with synergy from CDK4 inhibition in sequential treatment of dedifferentiated liposarcoma. Does not test lenvatinib directly. |
-| [29848686](https://pubmed.ncbi.nlm.nih.gov/29848686/) | 2018 | Preclinical study | Anticancer Res | Eribulin shows broad anticancer activity in xenograft models when combined with mechanistically different agents. Supports the combination partner, not lenvatinib itself. |
-| [34326745](https://pubmed.ncbi.nlm.nih.gov/34326745/) | 2021 | Case report | Case Rep Oncol | Reduced tumor size in a patient with dedifferentiated liposarcoma and lung metastasis after individualized targeted, surgical and chemotherapy treatment. Anecdotal. |
+| [36129471](https://pubmed.ncbi.nlm.nih.gov/36129471/) | 2022 | Phase Ib/II single-arm trial | Clin Cancer Res | Lenvatinib plus eribulin in advanced liposarcoma and leiomyosarcoma (LEADER study); the abstract excerpt available describes the study aim, with no results quoted |
+| [39103896](https://pubmed.ncbi.nlm.nih.gov/39103896/) | 2024 | Preclinical/biomarker | Exp Hematol Oncol | CDK4 as a prognostic biomarker in soft tissue sarcoma; CDK4 inhibition in dedifferentiated liposarcoma (not lenvatinib-specific) |
+| [29848686](https://pubmed.ncbi.nlm.nih.gov/29848686/) | 2018 | Preclinical | Anticancer Res | Eribulin shows broad antitumour activity and combination potential with agents of different mechanisms |
+| [34326745](https://pubmed.ncbi.nlm.nih.gov/34326745/) | 2021 | Case report | Case Rep Oncol | Tumour shrinkage in dedifferentiated liposarcoma with lung metastasis under individualised treatment |
 
 ---
 
@@ -86,7 +88,7 @@ The completed Phase Ib/II LEADER study gives a clinical signal in advanced adipo
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA206947 (5 records) | Lenvima (Eisai Inc.) | Capsule (oral) | Indication text not provided in the source data |
+| NDA206947 | Lenvima (Eisai Inc.) | Capsule | Not listed in the data compiled; status: cancelled |
 
 ---
 
@@ -94,37 +96,46 @@ The completed Phase Ib/II LEADER study gives a clinical signal in advanced adipo
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (multi-kinase inhibitor). The eribulin partner in the tested regimen is a conventional cytotoxic agent. |
+| Cytotoxicity Classification | Targeted therapy (multi-kinase inhibitor), not a conventional cytotoxic |
 | Myelosuppression Risk | Please refer to the package insert warnings and precautions |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Blood pressure, urine protein, liver function and immune-related events (from the evidence review). Add blood counts when combined with eribulin. |
+| Monitoring Items | Blood pressure, urine protein, liver and renal function, thyroid function, CBC |
 | Handling Protection | Please refer to the package insert warnings and precautions |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: 100 interactions were recorded. Of those listed, the **Major** ones are **dolasetron** and **cisapride**, which are likely QT-related concerns. Moderate interactions include clarithromycin, levofloxacin, famotidine, loperamide, granisetron, palonosetron, naltrexone, and several laxatives and bowel-preparation agents (bisacodyl, picosulfuric acid, polyethylene glycol, sodium sulfate, magnesium citrate and hydroxide, lactulose, lactitol, castor oil, glycerin). Metronidazole is Minor.
+- **Known class toxicities** (not from the data compiled, noted for clinical attention): hypertension and proteinuria.
 
-The evidence review recommends monitoring for hypertension, proteinuria, hepatotoxicity and immune-related events.
+Please refer to the package insert for full warnings and contraindications.
+
+---
+
+## Other Predictions (Brief)
+
+| Predicted Indication | Score | Evidence Level | Note |
+|------|------|------|------|
+| Renal carcinoma | 99.37% | L1 | Supported by the Phase 3 CLEAR trial and a randomised Phase 2 trial. It matches the original indications, so it is an on-label confirmation, not repurposing. Recommendation: Proceed with Guardrails |
+| Unclassified renal cell carcinoma | 99.49% | L2 | Phase 2 single-arm trial in non-clear cell RCC plus case reports |
+| TFE3-rearranged RCC | 99.49% | L4 | Only a not-yet-recruiting Phase 2 triple-combination trial; no outcome data |
+| Ovarian myxoid liposarcoma, childhood kidney cell carcinoma, RCC associated with neuroblastoma, angiolipoma, familial spontaneous pneumothorax, endocrine-cerebro-osteodysplasia syndrome | 99.2%–99.5% | L5 | Computational prediction only; no trials or literature |
 
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Hold (research question)**
 
 **Rationale:**
-The only direct evidence is one small (n=30), single-arm Phase Ib/II study, with no randomized data in liposarcoma. Package insert warnings and contraindications are also missing, which blocks safety screening.
-
-The strongest evidence in this pack is for renal carcinoma, with Phase 3 CLEAR RCT support (L1). That is an established, marketed use, so it validates the model rather than counting as a new repurposing finding.
+The only direct evidence for liposarcoma is a single-arm Phase Ib/II study of lenvatinib combined with eribulin, so lenvatinib's own contribution is unproven. In addition, the US NDA is listed as cancelled and no package insert safety data are available. This is promising enough to justify further research, but not to proceed.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, downloaded and parsed from the FDA website (blocking gap)
-- Mechanism-of-action data from DrugBank
-- Efficacy and safety results of the LEADER study (PMID 36129471), and ideally a randomized or larger confirmatory study in liposarcoma
-- Confirmation of lenvatinib's labeled indications from the US NDA records
-- Subtype-specific data before extending to myxoid or other rare liposarcoma variants
+- Efficacy and safety results from the LEADER study, with comparison against eribulin alone (ideally a randomised trial)
+- Formal mechanism of action data
+- FDA package insert warnings and contraindications, and verification of the cancelled NDA status
+- A safety monitoring plan for hypertension, proteinuria and the Major drug interactions (dolasetron, cisapride)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

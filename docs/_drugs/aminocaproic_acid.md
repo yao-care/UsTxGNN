@@ -29,32 +29,31 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Aminocaproic Acid: From Antifibrinolytic Therapy to Severe Nonproliferative Diabetic Retinopathy
+# Aminocaproic Acid: From Bleeding Control (Antifibrinolytic Therapy) to Severe Nonproliferative Diabetic Retinopathy
 
 ## One-Sentence Summary
 
-Aminocaproic acid is generally known as an antifibrinolytic (a lysine analog that inhibits plasminogen activation). The provided data does not list an approved indication.
-The TxGNN model predicts it may be effective for **severe nonproliferative diabetic retinopathy**, but there are currently **0 clinical trials** and **0 publications** supporting this direction, so it rests on a model score alone.
+Aminocaproic acid is an antifibrinolytic drug, used to control bleeding caused by excessive breakdown of blood clots. The TxGNN model predicts it may be effective for **severe nonproliferative diabetic retinopathy**, but **no clinical trials and no publications** currently support this direction, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the provided data (all license records have empty indication text) |
+| Original Indication | Not stated in the compiled license data (the antifibrinolytic use is based on general knowledge of the drug class) |
 | Predicted New Indication | Severe nonproliferative diabetic retinopathy |
 | TxGNN Prediction Score | 99.27% |
 | Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (the records shown are ANDA generic approvals) |
+| US Market Status | Cancelled only (no active licenses) |
+| Number of NDAs | 13 (all cancelled; 1 NDA and 12 ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the input. Based on general knowledge, aminocaproic acid is an antifibrinolytic that blocks plasminogen activation. Any mechanistic link to diabetic retinopathy is therefore unverified and would need confirmation from primary sources.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, aminocaproic acid is a lysine analog that inhibits plasminogen activation and plasmin activity, which reduces the breakdown of fibrin clots.
 
-The only support is the TxGNN knowledge-graph score of 0.993. A plausible but unproven connection is to bleeding-related complications of proliferative disease, such as vitreous hemorrhage. That is a different problem from severe nonproliferative disease itself, which is the predicted indication. The relationship between the original and predicted indications is therefore not established.
+A possible link to diabetic retinopathy is that this action could limit bleeding from fragile new blood vessels in the retina. It might also influence fibrinolytic and extracellular-matrix remodeling pathways in the retina.
 
-Safety is also a concern. Antifibrinolytics carry thrombotic risk, and diabetic patients already have elevated vascular risk. A high model score alone is not evidence of efficacy.
+This link is hypothetical. It comes only from the high TxGNN score, with no supporting mechanistic or clinical data. There is also a safety concern: antifibrinolytic therapy carries a theoretical risk of thrombosis, and people with diabetes already have elevated vascular risk. Similarity to the original indication and route compatibility have not yet been assessed.
 
 ## Clinical Trial Evidence
 
@@ -66,38 +65,41 @@ Currently no related literature available.
 
 ## US Market Information
 
-The first five of the 20 authorizations are listed below. The provided data has no approved-indication text for any of them.
-
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA212492 | Aminocaproic acid | Tablet | Major Pharmaceuticals |
-| ANDA213928 | Aminocaproic acid | Tablet | Carnegie Pharmaceuticals, LLC |
-| ANDA212938 | Aminocaproic acid | Tablet | Novadoz Pharmaceuticals LLC |
-| ANDA071192 | Aminocaproic acid | Injection, solution | Medical Purchasing Solutions, LLC |
-| ANDA213928 | Aminocaproic acid | Tablet | Biocon Pharma Inc. |
+| NDA015197 (cancelled) | Aminocaproic Acid (Hikma Pharmaceuticals USA Inc.) | Tablet | Not stated |
+| ANDA212492 (cancelled) | Aminocaproic acid (Major Pharmaceuticals) | Tablet | Not stated |
+| ANDA213928 (cancelled) | Aminocaproic Acid (Carnegie Pharmaceuticals, LLC) | Tablet | Not stated |
+| ANDA071192 (cancelled) | Aminocaproic Acid (Medical Purchasing Solutions, LLC) | Injection, solution | Not stated |
+| ANDA216464 (cancelled) | Aminocaproic Acid (Camber Pharmaceuticals, Inc.) | Solution | Not stated |
 
-Available routes in the market data: oral (tablet) and injectable (injection, solution).
+All 13 licenses compiled for this drug are cancelled. Available dosage forms were oral tablets, injectable solutions, and other solutions.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No warnings, contraindications, or drug interaction records were available in the provided data.
+- **Disease associations from the knowledge graph (not label text):** The TxGNN knowledge graph links aminocaproic acid with contraindications in kidney disease, pyoureter, liver disease, gallbladder disease, disseminated intravascular coagulation, purpura fulminans (including acquired), and thrombotic disease. These come from model-derived data and should be verified against the official label.
+- **Drug interactions:** The interaction query returned 75 entries. Most have an unknown severity level. The ones with a **moderate** level are:
+  - Alteplase
+  - Anistreplase
 
-As a general class concern (not from label data), antifibrinolytics carry thrombotic risk, which matters for patients with diabetes.
+  This is expected, since thrombolytics and antifibrinolytics act in opposite directions. Other listed interacting drugs, with unknown severity, include morphine, omeprazole, lansoprazole, vancomycin, simvastatin, epinephrine, hydrocortisone, and acetylsalicylic acid.
+
+Please refer to the package insert for warnings and contraindications from the label, which were not available for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a knowledge-graph score, with no trials, literature, or mechanistic data behind it. Package insert safety data is also missing. The plausible link (vitreous hemorrhage) does not match the predicted indication (severe nonproliferative disease). The thrombotic risk in a high-vascular-risk population adds further caution.
+The prediction rests solely on a high model score (L5). No trials or publications support it, the mechanistic link is hypothetical, and the thrombotic risk is a particular concern in diabetic patients. In addition, all US licenses for this drug are cancelled.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data, for example from DrugBank
-- A systematic literature and trial search on antifibrinolytics in diabetic retinopathy and vitreous hemorrhage
-- Confirmation of the approved original indication
-- Route compatibility assessment, since systemic oral or injectable use is available but the target tissue is the retina
-- A thrombotic risk assessment in diabetic patients
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- A literature and trial search for antifibrinolytics in diabetic retinopathy or retinal and vitreous hemorrhage
+- Preclinical evidence of benefit in retinal models
+- Assessment of route compatibility (for example, whether a systemic or intravitreal route would be needed) and similarity to the original indication
+- A thrombotic risk assessment for diabetic patients
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

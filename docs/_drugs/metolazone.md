@@ -29,36 +29,37 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-# Metolazone: From Edema and Hypertension to Malignant Renovascular Hypertension
+# Metolazone: From Hypertension to Malignant Renovascular Hypertension
 
 ## One-Sentence Summary
 
-Metolazone is a thiazide-like diuretic, originally used for volume overload (edema) and hypertension.
-The TxGNN model predicts it may be effective for **malignant renovascular hypertension**, but this is a model prediction only, with **0 clinical trials** and **0 publications** supporting it.
+Metolazone is a thiazide-like diuretic originally used to treat hypertension.
+The TxGNN model predicts it may be effective for **malignant renovascular hypertension**, but **0 clinical trials** and **0 publications** currently support this prediction. The result is a computational prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Edema and hypertension (diuretic/antihypertensive use; the US license records provided contain no indication text) |
+| Original Indication | Hypertensive disorder / hypertension |
 | Predicted New Indication | Malignant renovascular hypertension |
 | TxGNN Prediction Score | 99.84% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (all listed entries are ANDA generics) |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 10 (all cancelled; listed as ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available in the record. Based on known pharmacology, metolazone inhibits the Na⁺/Cl⁻ cotransporter in the distal convoluted tubule. This reduces circulating volume and lowers blood pressure. It is also used with loop diuretics in volume-overloaded states, including reduced GFR.
+Currently, detailed mechanism of action data is not available. Based on known information, metolazone is a thiazide-like diuretic. Its efficacy in hypertension is established, and it may mechanistically be applicable to malignant renovascular hypertension.
 
-The link to the new indication is weak. Malignant renovascular hypertension is driven by the renin-angiotensin system. Volume depletion from a diuretic could stimulate renin release further. Diuretics are also not a standard therapy for hypertensive emergencies. The prediction is plausible only as an extension of the drug's general antihypertensive use.
+Malignant renovascular hypertension is driven largely by activation of the renin-angiotensin system and by volume and pressure dynamics. A thiazide-like diuretic could plausibly play an adjunctive role by reducing volume load. This indication is biologically adjacent to the original use, which likely contributes to the very high score.
 
-The other top TxGNN predictions are also unsupported:
+The score is a computational prediction only. No trials or publications support it, and overlap with the original indication (hypertension) may inflate it.
 
-- **Malignant hypertensive renal disease (99.84%):** the link is indirect, and aggressive volume depletion could worsen renal perfusion.
-- **Pulmonary hypertension (two entries, 99.83%):** at most, diuretics offer symptomatic relief of right-heart volume overload. The 20 retrieved publications concern hypoxia biology in general (brain aging, cancer, multiple sclerosis, altitude) and never mention metolazone. They reflect keyword matching, not relevant evidence.
-- **Braddock syndrome (99.78%):** no mechanistic rationale can be identified. This looks like a knowledge-graph artifact.
+Other predicted indications from the model are weaker still:
+- **Malignant hypertensive renal disease** (score 99.84%): a renal complication of severe hypertension. Metolazone is known to retain efficacy in reduced renal function, which offers a plausible rationale, but there is no clinical validation.
+- **Pulmonary hypertension owing to lung disease and/or hypoxia** (99.83%) and **pulmonary hypertension with unclear multifactorial mechanism** (99.83%): diuretics may relieve right-heart volume overload, but this is symptom management, not disease modification. Systemic and pulmonary hypertension are distinct conditions, so the shared name likely drives the prediction.
+- **Braddock syndrome** (99.78%): a rare genetic condition with no evident mechanistic link to thiazide-like action. The prediction is likely a knowledge-graph artifact.
 
 ## Clinical Trial Evidence
 
@@ -66,34 +67,55 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available.
+No literature was found for the top predicted indication. For the third-ranked indication (pulmonary hypertension owing to lung disease and/or hypoxia), one paper was retrieved:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [2916665](https://pubmed.ncbi.nlm.nih.gov/2916665/) | 1989 | Preclinical/Basic research | The American Journal of Physiology | In rats, thiazide diuretic receptors (labelled with [3H]metolazone) fell by about 90% after 10 minutes of acute renal ischemia, and the change was reversible. It does not address pulmonary hypertension and offers no clinical support. |
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA076466 | Metolazone | Tablet (oral) | Sandoz Inc; Bryant Ranch Prepack |
-| ANDA217563 | Metolazone | Tablet (oral) | Micro Labs Limited |
-| ANDA213827 | Metolazone | Tablet (oral) | American Health Packaging |
+| ANDA076466 | Metolazone (Sandoz Inc) | Tablet | Not available (cancelled) |
+| ANDA217563 | Metolazone (Micro Labs Limited) | Tablet | Not available (cancelled) |
+| ANDA213827 | Metolazone (American Health Packaging) | Tablet | Not available (cancelled) |
+| ANDA214799 | Metolazone (Unichem Pharmaceuticals (USA), Inc.) | Tablet | Not available (cancelled) |
+| ANDA076698 | Metolazone (Mylan Pharmaceuticals Inc.) | Tablet | Not available (cancelled) |
 
-Approved indication text is not included in the license records provided.
+All 10 authorizations on record are cancelled; the table shows the first 5. There are no valid single-ingredient or combination licenses.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindication-related conditions (from the knowledge graph, not label text)**: The model's knowledge graph links metolazone to contraindications in the following conditions:
+  - Circulatory: orthostatic hypotension, multiple system atrophy, postural orthostatic tachycardia syndrome
+  - Hepatic: liver failure, hepatic coma, hepatic encephalopathy
+  - Renal: anuria, nephrocalcinosis
+  - Metabolic: diabetes mellitus, diabetic ketoacidosis, gout, potassium deficiency disease, hypercalcemia, phosphorus metabolism disease
+  - Autoimmune: systemic lupus erythematosus (including the pediatric form)
+  - Other: pancreatitis, HELLP syndrome
+- **Drug Interactions**: 100 interactions were identified. Most of those listed are Moderate, including:
+  - Antidiabetics: acarbose, alogliptin, albiglutide
+  - Corticosteroids: hydrocortisone, dexamethasone, triamcinolone, betamethasone, beclomethasone
+  - Proton pump inhibitors: omeprazole, rabeprazole
+  - Amphotericin B (including the lipid complex), bupropion, morphine, cholecalciferol, bisacodyl, calcium phosphate
+  - Minor: doxycycline, hyoscyamine, atropine
+
+Please refer to the package insert for official warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on the model score alone, with no trials or relevant literature. The stated mechanism (volume depletion in a renin-driven condition) argues against benefit rather than for it. The pulmonary hypertension literature count is a keyword artifact.
+The high TxGNN score (99.84%) is a model prediction only. No clinical trials or publications support it (Evidence Level L5). Metolazone has no currently valid US licenses, and the shared hypertension terminology likely inflates the score.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data from DrugBank
-- A targeted search for metolazone in renovascular or malignant hypertension, or a supporting mechanistic study
-- Route compatibility and similarity-to-original assessments, both still pending
+- Official package insert warnings and contraindications (the current safety data comes only from the knowledge graph)
+- Mechanism of action data
+- A literature and trial search specific to renovascular and malignant hypertension
+- Review of the regulatory and market status, since all US licenses are cancelled
+- Route compatibility and similarity-to-original-indication assessments (currently pending)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

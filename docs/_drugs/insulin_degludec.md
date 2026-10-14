@@ -33,94 +33,111 @@ Evidence Level: **L1** | Predicted Indications: **6**
 
 ## One-Sentence Summary
 
-Insulin degludec is an ultra-long-acting basal insulin analogue marketed in the US as Tresiba for diabetes treatment.
-The TxGNN model predicts it is effective for **type 1 diabetes mellitus**. This is an established, on-label use rather than true repurposing.
-The prediction is supported by **47 registered clinical trials** and **20 publications**, including several Phase 3 randomized trials.
+Insulin degludec is an ultra-long-acting basal insulin analogue, originally used to treat diabetes mellitus and diabetic ketoacidosis.
+The TxGNN model predicts it may be effective for **type 1 diabetes mellitus**, with **40 clinical trials** and **19 publications** currently supporting this direction.
+This is essentially an on-label use rather than true repurposing, so the evidence is strong.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the source data (all license indication fields are blank); basal insulin therapy for diabetes mellitus |
+| Original Indication | Diabetes mellitus; diabetic ketoacidosis (from the knowledge graph, as no approved indication text is available for the US licence) |
 | Predicted New Indication | Type 1 diabetes mellitus |
 | TxGNN Prediction Score | 99.44% |
 | Evidence Level | L1 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 11 (all under BLA203314) |
+| US Market Status | Cancelled only |
+| Number of NDAs | 1 (BLA203314) |
 | Recommended Decision | Proceed with Guardrails |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the source record. Based on known pharmacology, insulin degludec is a basal insulin analogue that binds the insulin receptor. After subcutaneous injection it is absorbed slowly and continuously, giving an ultra-long, stable action profile.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, insulin degludec is an ultra-long-acting basal insulin analogue that binds the insulin receptor and lowers blood glucose. Published reviews describe a flat, stable glucose-lowering profile, a half-life of about 25 hours and a duration of action beyond 42 hours.
 
-In type 1 diabetes, endogenous insulin is missing, and basal insulin replacement is the core of therapy. The mechanism therefore fits the predicted indication directly. The high TxGNN score is consistent with this known drug-disease relationship.
+Type 1 diabetes is characterised by absolute insulin deficiency, so basal insulin replacement is the direct therapeutic mechanism. Type 1 diabetes falls within the drug's original diabetes mellitus indication, which explains the very high TxGNN score.
 
-The source record has empty original-indication and mechanism fields. These are missing data, not a novel finding. The labeled indication should be confirmed against current regulatory documents.
+The market status of the single US licence is listed as "Cancelled only". Availability and regulatory status of the specific product or formulation should therefore be confirmed before any use.
+
+---
 
 ## Clinical Trial Evidence
 
-The Evidence Pack lists 47 trials. The table shows the 10 most relevant to type 1 diabetes. In several of them, degludec is the background or comparator insulin rather than the main intervention.
+The data compiled for this report includes 40 registered trials. The most relevant are shown below.
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT02500706](https://clinicaltrials.gov/study/NCT02500706) | Phase 3 | Completed | 1108 | Faster-acting insulin aspart vs NovoRapid, both combined with degludec, in adults with T1D |
-| [NCT03214367](https://clinicaltrials.gov/study/NCT03214367) | Phase 3 | Completed | 1392 | PRONTO-T1D: LY900014 vs insulin lispro, combined with glargine or degludec, in adults with T1D |
-| [NCT05904743](https://clinicaltrials.gov/study/NCT05904743) | Phase 4 | Completed | 141 | INHALE-3: inhaled insulin (Afrezza) plus degludec vs usual care in adults with T1D |
-| [NCT03838783](https://clinicaltrials.gov/study/NCT03838783) | Phase 4 | Unknown | 30 | Degludec plus insulin pump in an untethered regimen in exercising T1D patients |
-| [NCT02536859](https://clinicaltrials.gov/study/NCT02536859) | Phase 1 | Completed | 60 | Steady-state PD/PK of degludec vs insulin glargine 300 U/mL in T1D (double-blind crossover) |
-| [NCT01868529](https://clinicaltrials.gov/study/NCT01868529) | Phase 1 | Completed | 63 | Pharmacodynamic response of insulin degludec vs insulin glargine at steady state in T1D |
-| [NCT05069545](https://clinicaltrials.gov/study/NCT05069545) | N/A (observational) | Completed | 411 | Glycaemic control in T1D using the NovoPen 6 smart pen with Tresiba and Fiasp |
-| [NCT02662114](https://clinicaltrials.gov/study/NCT02662114) | N/A (observational) | Completed | 2302 | EU-TREAT: retrospective effectiveness of Tresiba after basal insulin switch in T1D or T2D |
-| [NCT03557892](https://clinicaltrials.gov/study/NCT03557892) | N/A | Completed | 28 | Crossover of insulin pump plus CGM vs multi-injection therapy with degludec as basal insulin in T1D |
-| [NCT02360254](https://clinicaltrials.gov/study/NCT02360254) | N/A (observational) | Completed | 26 | Effects of switching from twice-daily glargine or detemir to once-daily degludec in T1D |
+| [NCT02034513](https://clinicaltrials.gov/study/NCT02034513) | Phase 3 | Completed | 501 | SWITCH 1: degludec vs glargine, both with insulin aspart, in type 1 diabetes (double-blind crossover) |
+| [NCT02500706](https://clinicaltrials.gov/study/NCT02500706) | Phase 3 | Completed | 1108 | Faster-acting insulin aspart vs NovoRapid, both with degludec, in adults with type 1 diabetes |
+| [NCT02670915](https://clinicaltrials.gov/study/NCT02670915) | Phase 3 | Completed | 834 | Faster-acting insulin aspart vs NovoRapid, both with degludec, in children and adolescents with type 1 diabetes |
+| [NCT05463744](https://clinicaltrials.gov/study/NCT05463744) | Phase 3 | Completed | 692 | Weekly efsitora alfa vs degludec in type 1 diabetes on multiple daily injections |
+| [NCT00978627](https://clinicaltrials.gov/study/NCT00978627) | Phase 3 | Completed | 548 | Degludec/aspart (NN5401) plus aspart vs detemir plus aspart in type 1 diabetes |
+| [NCT01835431](https://clinicaltrials.gov/study/NCT01835431) | Phase 3 | Completed | 362 | Degludec/aspart once daily vs detemir in children and adolescents with type 1 diabetes |
+| [NCT04075513](https://clinicaltrials.gov/study/NCT04075513) | Phase 4 | Completed | 343 | Glargine 300 U/ml (Toujeo) vs degludec (Tresiba): glucose in target range and variability on CGM |
+| [NCT01569841](https://clinicaltrials.gov/study/NCT01569841) | Phase 3 | Completed | 24 | Degludec vs glargine on glycaemic control using CGM in type 1 diabetes |
+| [NCT00612040](https://clinicaltrials.gov/study/NCT00612040) | Phase 2 | Completed | 178 | Two degludec formulations vs glargine, with insulin aspart, in a basal/bolus regimen |
+| [NCT03838783](https://clinicaltrials.gov/study/NCT03838783) | Phase 4 | Unknown | 30 | Degludec with continuous subcutaneous insulin infusion in exercising type 1 diabetes patients |
 
-One trial (NCT02030600, SWITCH 2, Phase 3, 721 participants) was graded "A" in the source data. It actually enrolled type 2 diabetes patients, so it does not count as direct T1D evidence.
+---
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [36623517](https://pubmed.ncbi.nlm.nih.gov/36623517/) | 2023 | RCT | Lancet Diabetes Endocrinol | EXPECT: non-inferiority trial of degludec vs detemir (both with aspart) in pregnant women with T1D |
-| [37863084](https://pubmed.ncbi.nlm.nih.gov/37863084/) | 2023 | RCT | Lancet | ONWARDS 6: once-weekly icodec vs once-daily degludec in adults with T1D (phase 3a) |
-| [39270686](https://pubmed.ncbi.nlm.nih.gov/39270686/) | 2024 | RCT | Lancet | QWINT-5: once-weekly efsitora alfa vs once-daily degludec in adults with T1D (phase 3) |
-| [34643020](https://pubmed.ncbi.nlm.nih.gov/34643020/) | 2022 | RCT | Diabetes Obes Metab | HypoDeg: crossover trial of degludec vs glargine U100 for nocturnal hypoglycaemia in T1D |
-| [36516429](https://pubmed.ncbi.nlm.nih.gov/36516429/) | 2023 | RCT | Diabetes Technol Ther | ULTRAFLEXI-1: glargine 300 U/mL vs degludec 100 U/mL around spontaneous exercise in T1D |
-| [34763071](https://pubmed.ncbi.nlm.nih.gov/34763071/) | 2022 | RCT | Endocr Pract | BIGLEAP: degludec vs pump-delivered aspart in well-controlled T1D (crossover) |
-| [36610544](https://pubmed.ncbi.nlm.nih.gov/36610544/) | 2023 | RCT | Diabetes Res Clin Pract | INEOX: efficacy and safety of degludec 100 IU/mL vs glargine 300 IU/mL in adults with T1D |
-| [36800034](https://pubmed.ncbi.nlm.nih.gov/36800034/) | 2023 | Randomized study | Eur J Pediatr | Degludec and glargine vs NPH insulin in toddlers and preschoolers with T1D (60 children) |
-| [36763996](https://pubmed.ncbi.nlm.nih.gov/36763996/) | 2022 | Meta-analysis | Clin Ther | Efficacy and tolerability of degludec vs other long-acting basal analogues in T1D and T2D |
-| [29477399](https://pubmed.ncbi.nlm.nih.gov/29477399/) | 2018 | Network meta-analysis | Value Health | Relative efficacy and safety of basal insulin regimens in adults with T1D |
+| [37863084](https://pubmed.ncbi.nlm.nih.gov/37863084/) | 2023 | RCT | Lancet | ONWARDS 6: once-weekly icodec vs once-daily degludec in type 1 diabetes (phase 3a, treat-to-target) |
+| [36623517](https://pubmed.ncbi.nlm.nih.gov/36623517/) | 2023 | RCT | Lancet Diabetes Endocrinol | EXPECT: degludec vs detemir, both with aspart, in pregnant women with type 1 diabetes (non-inferiority) |
+| [39270686](https://pubmed.ncbi.nlm.nih.gov/39270686/) | 2024 | RCT | Lancet | QWINT-5: once-weekly efsitora alfa vs once-daily degludec in adults with type 1 diabetes (non-inferiority) |
+| [36763996](https://pubmed.ncbi.nlm.nih.gov/36763996/) | 2022 | Meta-analysis | Clin Ther | Efficacy and tolerability of degludec vs other long-acting basal analogues in type 1 and type 2 diabetes |
+| [40627908](https://pubmed.ncbi.nlm.nih.gov/40627908/) | 2025 | Meta-analysis | J Diabetes Complications | Degludec vs efsitora in type 1 and type 2 diabetes |
+| [33662147](https://pubmed.ncbi.nlm.nih.gov/33662147/) | 2021 | Systematic review | Cochrane Database Syst Rev | (Ultra-)long-acting insulin analogues in type 1 diabetes |
+| [29477399](https://pubmed.ncbi.nlm.nih.gov/29477399/) | 2018 | Network meta-analysis | Value Health | Relative efficacy and safety of basal insulin regimens in adults with type 1 diabetes |
+| [35147781](https://pubmed.ncbi.nlm.nih.gov/35147781/) | 2022 | Real-world study | Acta Diabetol | Pregnancy outcomes in women with type 1 diabetes using degludec vs other long-acting analogues |
+| [23620200](https://pubmed.ncbi.nlm.nih.gov/23620200/) | 2013 | Review | Drugs | Review of degludec and degludec/aspart in diabetes management |
+| [25963320](https://pubmed.ncbi.nlm.nih.gov/25963320/) | 2015 | Review | Diabetes Res Clin Pract | Clinical use of degludec: long half-life (about 25 h) and duration of action beyond 42 h |
+
+---
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA203314 | Tresiba | Injection, solution | Novo Nordisk |
-| BLA203314 | Insulin Degludec | Injection, solution | Novo Nordisk Pharma, Inc. |
-| BLA203314 | Insulin Degludec | Injection, solution | A-S Medication Solutions |
-| BLA203314 | Tresiba | Injection, solution | Novo Nordisk |
-| BLA203314 | TRESIBA | Injection, solution | A-S Medication Solutions |
+| BLA203314 | Tresiba (Novo Nordisk) | Injection, solution | Not available; status: cancelled |
 
-The approved-indication text is blank in the source data.
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: 100 interactions were identified. The ones listed below are moderate unless marked otherwise.
+  - Beta-agonists and sympathomimetics: formoterol, salbutamol, epinephrine, phenylephrine, pseudoephedrine
+  - Beta-blocker: acebutolol
+  - Other antidiabetic agents: metformin, pioglitazone, alogliptin, albiglutide
+  - Hormones and corticosteroids: estradiol, levonorgestrel, norethisterone, hydrocortisone (topical forms are minor)
+  - Others: ethanol, hydrochlorothiazide, doxycycline, alpelisib
+
+Please refer to the package insert for warnings and contraindications.
+
+---
+
+## Other Predicted Indications (Brief Note)
+
+Five further predictions have no clinical trials or literature (evidence level L5) and are rated **Hold**: autoimmune oophoritis, opsismodysplasia, thiamine-responsive dysfunction syndrome, classic stiff person syndrome and focal stiff limb syndrome. Their high scores likely reflect network proximity to type 1 diabetes autoimmunity or insulin signalling. They do not reflect a direct mechanism of benefit.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Degludec is already marketed and has direct T1D randomized evidence, including EXPECT, HypoDeg, INEOX and the Phase 3 comparator trials ONWARDS 6 and QWINT-5. The evidence is strong, but the prediction is an on-label use rather than a novel repurposing. Safety and label data are missing from the record.
+Multiple completed Phase 3 trials, randomised controlled trials and meta-analyses support insulin degludec in type 1 diabetes. This is an on-label use rather than true repurposing, but the only US licence is listed as cancelled.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Confirmation of the labeled indication from current regulatory documents
-- Mechanism of action data, to fill the empty MOA field
-- Correction of the trial relevance grading (NCT02030600 is a T2D trial)
-
-The other five predicted indications (autoimmune oophoritis, opsismodysplasia, thiamine-responsive dysfunction syndrome, classic stiff person syndrome, focal stiff limb syndrome) have no trials or literature. They are L5 and should be on **Hold**.
+- Confirmation of the availability and regulatory status of the specific product or formulation in the US
+- Package insert warnings and contraindications
+- Detailed mechanism of action data
+- Review of the interaction profile, especially with beta-agonists, beta-blockers and other glucose-lowering agents
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

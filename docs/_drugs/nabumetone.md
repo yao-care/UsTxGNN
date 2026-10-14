@@ -29,38 +29,36 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Nabumetone: From NSAID Anti-Inflammatory Therapy to Acromesomelic Dysplasia, Hunter-Thompson Type
+# Nabumetone: From Rheumatoid Arthritis and Osteoarthritis to Acromesomelic Dysplasia, Hunter-Thompson Type
 
 ## One-Sentence Summary
 
-Nabumetone is an NSAID prodrug whose active metabolite (6-MNA) inhibits COX enzymes. The TxGNN model predicts it may be effective for **acromesomelic dysplasia, Hunter-Thompson type**, a rare genetic skeletal disorder. **No clinical trials and no publications** currently support this prediction, and no plausible mechanistic link has been identified.
+Nabumetone is a nonsteroidal anti-inflammatory drug (NSAID) originally used to treat rheumatoid arthritis, osteoarthritis and other arthropathies.
+The TxGNN model predicts it may be effective for **acromesomelic dysplasia, Hunter-Thompson type**, but there are currently **0 clinical trials** and **0 publications** supporting this prediction, so it rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the US licence data provided (NSAID, COX inhibitor) |
+| Original Indication | Rheumatoid arthritis, osteoarthritis, arthropathy (from the knowledge graph; no approved indication text is available in the US license records) |
 | Predicted New Indication | Acromesomelic dysplasia, Hunter-Thompson type |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (the listed licences are ANDA generics) |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 4 (all ANDA generic applications, all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Nabumetone is an NSAID prodrug, and its active metabolite 6-MNA inhibits COX enzymes and prostaglandin synthesis.
+Detailed mechanism of action data is not available in the data compiled for this report. Nabumetone is known to be an NSAID and a prodrug of 6-MNA, a preferential COX-2 inhibitor. Its efficacy in rheumatoid arthritis and osteoarthritis comes from reducing prostaglandin-mediated inflammation and pain.
 
-For this predicted indication, the mechanistic link is weak. Acromesomelic dysplasia, Hunter-Thompson type, is a genetic skeletal dysplasia related to CDMP1/GDF5 growth-factor signaling. COX inhibition does not address that defect. The high TxGNN score (0.9999) is a graph-based prediction with no clinical or literature support in the provided data, so it should not be read as evidence of efficacy.
+Acromesomelic dysplasia, Hunter-Thompson type, is a skeletal dysplasia caused by loss-of-function mutations in CDMP1/GDF5, which disrupt BMP signaling and cartilage formation. COX inhibition has no known corrective effect on this pathway. The high score most likely reflects proximity in the knowledge graph to skeletal and arthropathy phenotypes, not a biological rationale. At most, an NSAID might relieve secondary joint pain, and no data support even that.
 
-Among the top 10 predictions, only **spondyloarthropathy, susceptibility to** (rank 8, score 99.94%) has a biologically plausible rationale. NSAIDs are class-level first-line therapy for spondyloarthritis. This rationale comes from general pharmacology, not from supplied evidence, so it also remains L5. It is flagged as a research question.
+**Other predictions reviewed:** Among the top 10 predictions, the others are also weakly supported. Most are rare genetic or developmental disorders with no mechanistic link (brachyolmia, brachydactyly-syndactyly syndrome, WHIM syndrome and others). Two have class-level indirect support and are marked as research questions (evidence level L4):
+- **Spondyloarthropathy, susceptibility to**: NSAIDs are standard first-line symptomatic therapy for spondyloarthritis, but there is no nabumetone-specific evidence.
+- **Rheumatoid nodulosis**: related to rheumatoid arthritis, a labeled indication, so joint symptoms might be relieved, but the nodules themselves would not be treated.
 
-Other predictions with only a symptomatic or speculative link:
-- **Pseudoachondroplasia**: an NSAID may relieve joint pain but would not modify the underlying pathology.
-- **Rheumatoid nodulosis**: an NSAID may relieve joint symptoms but is not known to resolve nodules.
-- **Myosclerosis**: the link is speculative.
-
-The remaining predictions (brachyolmia, brachyolmia-amelogenesis imperfecta syndrome, colobomatous microphthalmia-rhizomelic dysplasia syndrome, brachydactyly-syndactyly syndrome, WHIM syndrome) have no plausible link.
+Pseudoachondroplasia (rank 7) could involve palliative pain relief for early-onset osteoarthritis, but this is not disease-modifying and is unsupported by data.
 
 ## Clinical Trial Evidence
 
@@ -72,34 +70,41 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA078420 | Nabumetone | Tablet | Proficient Rx LP |
-| ANDA078671 | Nabumetone | Tablet, film coated | Northwind Health Company, LLC |
-| ANDA078420 | Nabumetone | Tablet | Westminster Pharmaceuticals, LLC |
-| ANDA078671 | Nabumetone | Tablet, film coated | PD-Rx Pharmaceuticals, Inc. |
-| ANDA091083 | Nabumetone | Tablet, film coated | Proficient Rx LP |
+| ANDA078420 | Nabumetone (Proficient Rx LP) | Tablet | Not available (cancelled) |
+| ANDA078671 | Nabumetone (Northwind Health Company, LLC) | Film-coated tablet | Not available (cancelled) |
+| ANDA091083 | Nabumetone (Proficient Rx LP) | Film-coated tablet | Not available (cancelled) |
+| ANDA203166 | Nabumetone 500 mg (LGM Pharma Solutions, LLC) | Film-coated tablet | Not available (cancelled) |
 
-All listed forms are oral. In total, 20 licences are recorded and 5 are shown here.
+All four authorizations are for oral products and all are cancelled.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindications (from knowledge-graph associations, not label text):** hypertension and hypertensive disorders, kidney disease, liver disease, gallbladder disease, peptic ulcer disease (including active), substance abuse/dependence, blood coagulation disease, myocardial infarction, coronary thrombosis, hemoglobinopathy, cardiovascular disease and heart disease. These are consistent with the known risks of NSAIDs.
+- **Drug Interactions:** The interaction query returned 100 records. Most of those shown are Moderate, and a few are Minor. The main ones are:
+  - Corticosteroids: hydrocortisone, dexamethasone, betamethasone, triamcinolone, budesonide (Moderate)
+  - Antidiabetic drugs: metformin, glimepiride, chlorpropamide (Moderate)
+  - Aspirin (acetylsalicylic acid) (Moderate)
+  - Mesalazine and balsalazide (Moderate)
+  - Potassium citrate, potassium bicarbonate, sodium sulfate, picosulfuric acid, polyethylene glycol with electrolytes and vancomycin (Moderate)
+  - Ranitidine, cimetidine and linaclotide (Minor)
+
+Please refer to the package insert for the full warnings, as label warnings were not available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on the TxGNN score, with no trials, no literature and no plausible mechanistic link to a GDF5-related skeletal dysplasia. The evidence level is L5 and the decision stage is S0.
+The prediction for acromesomelic dysplasia, Hunter-Thompson type, has no clinical trials or literature, no plausible mechanism (a BMP/GDF5 signaling defect that COX inhibition does not address), and all US licenses for nabumetone are cancelled. Evidence is model prediction only (L5).
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- FDA package insert warnings and contraindications (currently a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
-- A targeted literature search for nabumetone in axial spondyloarthritis, the most plausible candidate in this set
-- Any preclinical or clinical evidence for the rank-1 indication before it is reconsidered
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Preclinical or mechanistic evidence for any link between COX-2 inhibition and GDF5/BMP signaling or chondrogenesis
+- If a symptom-focused route is pursued, shift attention to the L4 candidates (spondyloarthropathy, rheumatoid nodulosis) and look for nabumetone-specific studies
+- Route and formulation compatibility assessment and clarification of the cancelled market status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

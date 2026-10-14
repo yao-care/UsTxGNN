@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Trifluoperazine
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 1261
-evidence_level: L5
+evidence_level: L4
 indication_count: 1
 ---
 
 # Trifluoperazine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **1** 
+Evidence Level: **L4** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,32 +29,31 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Trifluoperazine: From Antipsychotic Use to Manic Bipolar Affective Disorder
+# Trifluoperazine: From Schizophrenia and Anxiety to Manic Bipolar Affective Disorder
 
 ## One-Sentence Summary
 
-Trifluoperazine is a high-potency phenothiazine antipsychotic and dopamine D2 receptor blocker, marketed in the US as oral tablets.
-The TxGNN model predicts it may be effective for **manic bipolar affective disorder**.
-Support is thin: **no registered clinical trials** and **20 publications**, none of which tests trifluoperazine in mania.
+Trifluoperazine is a phenothiazine antipsychotic, originally used to treat schizophrenia and anxiety.
+The TxGNN model predicts it may be effective for **manic bipolar affective disorder**,
+but currently there are **0 registered clinical trials** and only **a small set of loosely related publications** (mostly reviews, case reports, and older studies), so the evidence is mainly computational.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Schizophrenia, anxiety (from knowledge graph indication data; the US license records contain no indication text) |
 | Predicted New Indication | Manic bipolar affective disorder |
 | TxGNN Prediction Score | 99.51% |
-| Evidence Level | L4 (mechanism and class-level evidence only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 15 (all generic ANDA licenses) |
+| Evidence Level | L4 |
+| US Market Status | Cancelled only (all licenses cancelled) |
+| Number of NDAs | 5 (all ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for trifluoperazine is not available in the Evidence Pack. Based on known information, trifluoperazine is a high-potency phenothiazine and a dopamine D2 receptor antagonist. Antipsychotics that block D2 receptors are an established drug class for acute mania, so the prediction is biologically plausible as a class effect.
+Detailed mechanism of action data is not available for this drug. Based on its drug class, trifluoperazine is a phenothiazine antipsychotic whose main action is dopamine D2 receptor antagonism. Its efficacy in schizophrenia is established, and mechanistically it may be applicable to manic bipolar affective disorder.
 
-A 1976 case study, "A dopaminergic mechanism in mania," supports this view. Piribedil and d-amphetamine, which stimulate dopamine receptors, were associated with manic episodes. Pimozide, a dopamine blocker, had an antimanic effect. This suggests a dopamine-driven component in at least some manic patients.
-
-Two caveats apply. First, none of the retrieved evidence tests trifluoperazine itself in mania. Second, the original labeled indications are missing from the data, so the new indication could not be checked against the drug's approved uses. The very high TxGNN score is a computational prediction and not clinical evidence.
+D2 antagonism is a mechanism shared by antipsychotics used to control acute mania and psychotic features in bipolar disorder, so the link is biologically plausible. The high TxGNN score (0.995) is a computational prediction and most likely reflects this class-level similarity. The data compiled for this report contain no drug-specific clinical data for trifluoperazine in mania, so the prediction should be treated as a hypothesis rather than a confirmed finding.
 
 ## Clinical Trial Evidence
 
@@ -62,60 +61,61 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-None of the publications below is a controlled study of trifluoperazine in mania. They are ordered by relevance to the prediction, not by study quality.
+None of the publications below tests trifluoperazine in mania directly. They provide background on antipsychotics, adverse effects, and older psychiatric use.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [970489](https://pubmed.ncbi.nlm.nih.gov/970489/) | 1976 | Mechanistic case study | Am J Psychiatry | Dopamine agonists were linked to manic episodes. The dopamine blocker pimozide had an antimanic effect. |
-| [17017818](https://pubmed.ncbi.nlm.nih.gov/17017818/) | 2006 | Review | J Clin Psychiatry | Reviews typical and atypical antipsychotics for anxiety symptoms in primary and comorbid conditions, including bipolar disorder. |
-| [14309092](https://pubmed.ncbi.nlm.nih.gov/14309092/) | 1965 | Clinical study | Int J Neuropsychiatry | Studies haloperidol, a related antipsychotic, in schizophrenic and manic patients. No abstract available. |
-| [11279762](https://pubmed.ncbi.nlm.nih.gov/11279762/) | 2001 | Systematic review | Cochrane Database Syst Rev | Reviews clotiapine, a different neuroleptic, for acute psychotic illness with agitation. |
-| [14084030](https://pubmed.ncbi.nlm.nih.gov/14084030/) | 1963 | Double-blind study | Curr Ther Res | Withdrawal of trifluoperazine in patients maintained on tranylcypromine plus trifluoperazine. No abstract available. |
-| [13761179](https://pubmed.ncbi.nlm.nih.gov/13761179/) | 1961 | Clinical report | Am J Psychiatry | Tranylcypromine plus trifluoperazine in agitated depression, not mania. No abstract available. |
-| [40926568](https://pubmed.ncbi.nlm.nih.gov/40926568/) | 2026 | Review | J Appl Toxicol | Phenothiazine derivatives and apoptosis. Preclinical focus on cancer cells, with mania in bipolar disorder noted only as a background use. |
-| [39202628](https://pubmed.ncbi.nlm.nih.gov/39202628/) | 2024 | Systematic review | Medicina (Kaunas) | Drug-induced "rabbit" syndrome (oral vertical dyskinesia), an antipsychotic adverse effect. |
-| [2102674](https://pubmed.ncbi.nlm.nih.gov/2102674/) | 1990 | Case report | Br J Psychiatry | Atypical neuroleptic malignant syndrome after an overdose of trifluoperazine and carbamazepine. |
-| [19461391](https://pubmed.ncbi.nlm.nih.gov/19461391/) | 2009 | Review | J Psychiatr Pract | Safety of antipsychotic drugs during pregnancy. |
+| [17017818](https://pubmed.ncbi.nlm.nih.gov/17017818/) | 2006 | Review | J Clin Psychiatry | Reviews the efficacy of typical and atypical antipsychotics for primary and comorbid anxiety symptoms, including in bipolar disorder |
+| [11279762](https://pubmed.ncbi.nlm.nih.gov/11279762/) | 2001 | Review | Cochrane Database Syst Rev | Clotiapine for acute psychotic illness with agitation; background on neuroleptic tranquillisation |
+| [39202628](https://pubmed.ncbi.nlm.nih.gov/39202628/) | 2024 | Review | Medicina (Kaunas) | Systematic review of drug-induced "rabbit" syndrome, a movement disorder linked to antipsychotics |
+| [40926568](https://pubmed.ncbi.nlm.nih.gov/40926568/) | 2026 | Review | J Appl Toxicol | Phenothiazine derivatives and apoptosis; notes use in schizophrenia and mania in bipolar disorder |
+| [19461391](https://pubmed.ncbi.nlm.nih.gov/19461391/) | 2009 | Review | J Psychiatr Pract | Use and safety of antipsychotics during pregnancy |
+| [30601177](https://pubmed.ncbi.nlm.nih.gov/30601177/) | 2021 | Review | Am J Ther | Safety scoring system for psychotropic drugs during lactation |
+| [24943390](https://pubmed.ncbi.nlm.nih.gov/24943390/) | 2014 | Cohort | J Clin Psychopharmacol | Cross-sectional survey of psychotropic prescribing for psychosis in Ugandan hospitals |
+| [20851282](https://pubmed.ncbi.nlm.nih.gov/20851282/) | 2010 | Case report | Gen Hosp Psychiatry | Risperidone-induced stuttering; mentions trifluoperazine among antipsychotics with similar case reports |
+| [19164500](https://pubmed.ncbi.nlm.nih.gov/19164500/) | 2010 | Case report | J Psychopharmacol | Ziprasidone-induced spontaneous orgasm; mentions trifluoperazine among drugs with similar reports |
+| [14084030](https://pubmed.ncbi.nlm.nih.gov/14084030/) | 1963 | Double-blind study | Curr Ther Res | Withdrawal of trifluoperazine in patients maintained on tranylcypromine plus trifluoperazine |
 
 ## US Market Information
 
-The record lists 15 licenses in total. The five main ones are below. The approved-indication text is blank in the source records.
+All five US licenses are single-ingredient oral tablets and are cancelled. No approved indication text is recorded for them.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA085786 | Trifluoperazine Hydrochloride | Tablet, film coated | Sandoz Inc. |
-| ANDA085785 | Trifluoperazine Hydrochloride | Tablet, film coated | Sandoz Inc. |
-| ANDA040209 | Trifluoperazine Hydrochloride | Tablet, film coated | RemedyRepack Inc. |
-| ANDA040209 | Trifluoperazine Hydrochloride | Tablet, film coated | Mylan Pharmaceuticals Inc. |
-| ANDA040209 | Trifluoperazine Hydrochloride | Tablet, film coated | Mylan Pharmaceuticals Inc. |
-
-All listed products are oral tablets.
+| ANDA085786 | Trifluoperazine Hydrochloride (Sandoz Inc.) | Tablet, film coated | Not recorded |
+| ANDA085785 | Trifluoperazine Hydrochloride (Sandoz Inc.) | Tablet, film coated | Not recorded |
+| ANDA040209 | Trifluoperazine Hydrochloride (RemedyRepack Inc.) | Tablet, film coated | Not recorded |
+| ANDA085789 | Trifluoperazine Hydrochloride (Sandoz Inc.) | Tablet, film coated | Not recorded |
+| ANDA085788 | Trifluoperazine Hydrochloride (Sandoz Inc.) | Tablet, film coated | Not recorded |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. The package insert warnings and contraindications could not be retrieved, and no drug-interaction records were found.
+- **Disease-level contraindication signals (knowledge graph, not label text)**:
+  - Neurological and movement disorders: epilepsy, neuroleptic malignant syndrome, tardive dyskinesia, lingual-facial-buccal dyskinesia, multiple system atrophy, Alzheimer disease
+  - Blood disorders: agranulocytosis, neutropenia, thrombocytopenia, anemia (including macrocytic anemia)
+  - Liver and gallbladder disease: liver disease, cirrhosis, fatty liver disease, hepatitis, gallbladder disease
+  - Cardiovascular and blood pressure: orthostatic hypotension, hypotensive disorder, postural orthostatic tachycardia syndrome
+  - Eye disorders: glaucoma, vision disorder, blindness, retinal disease, retinitis
+  - Other: benign prostatic hyperplasia, female breast carcinoma
+- **Drug Interactions**: 100 interactions were identified in total. The main ones listed are:
+  - **Major**: bupropion, morphine
+  - **Moderate**: anticholinergics (atropine, hyoscyamine, glycopyrronium), antidiabetic drugs (acarbose, metformin, pioglitazone, alogliptin, albiglutide, canagliflozin, chlorpropamide), famotidine, epinephrine, hydrocortisone, amphotericin B, loperamide, lorcaserin, bisacodyl
 
-The retrieved literature mentions antipsychotic-class concerns that should be reviewed during any evaluation:
-- Neuroleptic malignant syndrome, including a case after a trifluoperazine overdose
-- Movement disorders such as "rabbit" syndrome
-- Seizures and EEG changes during phenothiazine therapy
-- Use during pregnancy and lactation
+Please refer to the package insert for official warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The D2-blockade mechanism makes mania a plausible target, but there are no clinical trials and no trifluoperazine-specific mania studies. The missing package insert safety data is a blocking gap for safety screening, so this stays at the research-question stage.
+The prediction is plausible because D2 antagonism is shared with antipsychotics used in mania, but it rests on a model score alone (L4). There are no registered trials and no drug-specific mania data, and all US licenses are cancelled. The knowledge-graph contraindication list is also broad.
 
 **To proceed, the following is needed:**
-- The package insert warnings and contraindications, obtained from the FDA label
-- The drug's original approved indications and detailed mechanism of action, from DrugBank
-- Trifluoperazine-specific evidence in mania, through a targeted literature search or a registered trial
-- A comparison against established antimanic antipsychotics
-- A drug-interaction and special-population review, covering pregnancy, lactation and neuroleptic malignant syndrome risk
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Official package insert warnings and contraindications (FDA)
+- Confirmed mechanism of action data (e.g., DrugBank receptor binding profile)
+- Drug-specific clinical evidence for trifluoperazine in mania (comparative trials or systematic reviews against established antipsychotics)
+- Review of market availability, since there is no active US license
+- A safety plan covering hematologic, hepatic, neurological (extrapyramidal and neuroleptic malignant syndrome), and cardiovascular risks
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

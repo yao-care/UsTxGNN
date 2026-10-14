@@ -29,38 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Povidone: From Ophthalmic Lubricant Use to Congenital Ichthyosiform Erythroderma
+# Povidone: From Dry Eye Syndrome to Congenital Ichthyosiform Erythroderma
 
 ## One-Sentence Summary
 
-Povidone (PVP) is a synthetic polymer, widely used as a pharmaceutical excipient. In the US it is marketed in eye-lubricant products such as iVIZIA Dry Eye and Rohto.
-The TxGNN model predicts it may be effective for **congenital ichthyosiform erythroderma**, a rare inherited skin-scaling disorder.
-Currently there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model score alone.
+Povidone is a hydrophilic polymer used as a lubricant in ocular formulations, originally for dry eye syndrome and xerophthalmia.
+The TxGNN model predicts it may be effective for **Congenital Ichthyosiform Erythroderma**,
+but currently **0 clinical trials** and **0 publications** support this direction. The prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | No approved indication text is recorded in the source data. The marketed products are eye-lubricant and dry-eye products. |
+| Original Indication | Dry eye syndrome, xerophthalmia |
 | Predicted New Indication | Congenital ichthyosiform erythroderma |
 | TxGNN Prediction Score | 99.11% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 4 |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Povidone is mainly used as a binder, film former and solubilizer in pharmaceutical products. Its iodine complex, povidone-iodine, is a topical antiseptic. In the marketed products listed here, povidone acts as a lubricant for the eye surface.
+Currently, detailed mechanism of action data is not available. Based on known information, povidone is a hydrophilic polymer used as a lubricant, humectant and film-forming agent in ocular formulations. Its efficacy in dry eye has been the basis of its use, and mechanistically it may be applicable to dry, scaly skin conditions.
 
-Congenital ichthyosiform erythroderma is a genetic keratinization disorder. It is typically linked to variants in genes such as *TGM1*, *ALOXE3* and *ALOX12B*, and causes impaired skin barrier function and scaling. Povidone has no known action on these pathways. The only speculative links are nonspecific:
+A plausible but unverified rationale is that its moisture-retaining and film-forming properties could act as an emollient or barrier-supporting agent for the hyperkeratotic, dry and scaly skin of congenital ichthyosiform erythroderma. This hypothesis is speculative.
 
-- a topical film-forming or humectant effect;
-- antiseptic control of secondary skin infection, if used as povidone-iodine.
-
-Neither would change the course of the disease, and no data in this record support either.
-
-The high score (0.991, model rank 19,302) comes from knowledge-graph topology, not from clinical or literature evidence. It may partly reflect a graph artifact, because povidone is a highly connected excipient node. The prediction should be treated as a hypothesis only.
+Congenital ichthyosiform erythroderma is a genetic keratinization disorder (for example, mutations in TGM1, ALOXE3 or ALOX12B). Moisturizers do not address the root cause, so any benefit would be symptomatic at best. A high prediction score alone is not evidence of efficacy.
 
 ## Clinical Trial Evidence
 
@@ -72,31 +67,33 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| M018 | iVIZIA Dry Eye | Solution/drops | Thea Pharma Inc. |
-| M018 | iVIZIA Lubricant Eye Gel | Gel | Thea Pharma Inc. |
-| M018 | Rohto | Liquid | The Mentholatum Company |
-| M018 | Rohto Dry-Aid | Liquid | The Mentholatum Company |
+| M018 (cancelled) | iVIZIA Dry Eye | Solution/drops | Not specified |
+
+Other dosage forms recorded for povidone include a topical gel and a liquid.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug-interaction records were found for this drug.
+- **Knowledge-graph contraindication signals** (from the TxGNN knowledge graph, not from label text): epilepsy, liver disease, gallbladder disease, respiratory failure, atrioventricular dissociation, atrioventricular block, and heart block. These should be verified against official labeling before any interpretation.
+
+No drug interaction records were found.
+
+Please refer to the package insert for further safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting clinical trials or publications (L5). Povidone has no known mechanism that would act on the biology of congenital ichthyosiform erythroderma. The high model score is likely inflated by povidone's position as a common excipient in the knowledge graph.
+The prediction is supported only by a model score, with no clinical trials or publications (Evidence Level L5). The only US authorization on record is cancelled, and the proposed mechanism is speculative and symptomatic at best for a genetic keratinization disorder.
 
 **To proceed, the following is needed:**
-- Mechanism of action data for povidone, and a plausible link to keratinization or skin-barrier pathways
-- A literature and trial search for povidone or PVP in ichthyosis or related genetic skin disorders
-- Package insert warnings and contraindications, which are required before any safety screening
-- Confirmation of whether a suitable topical formulation exists, since the current US products are ophthalmic
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
+- Official package insert warnings and contraindications (currently a blocking gap for safety screening)
+- Detailed mechanism of action data
+- Preclinical or clinical evidence of benefit in congenital ichthyosiform erythroderma
+- Assessment of topical route and formulation compatibility
+- Review of the knowledge-graph contraindication signals against labeling
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

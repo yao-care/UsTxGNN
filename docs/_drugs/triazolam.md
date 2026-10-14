@@ -29,29 +29,31 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Triazolam: From an Unrecorded Original Indication to Sleep Disorder (Initiating and Maintaining Sleep)
+# Triazolam: From Insomnia to Sleep Disorder (Initiating and Maintaining Sleep)
 
 ## One-Sentence Summary
 
-Triazolam is a short-acting benzodiazepine hypnotic that is already marketed in the United States as tablets. The TxGNN model predicts it for **sleep disorder, initiating and maintaining sleep** (score 99.72%), but **no clinical trials** are registered in this dataset. The **19 publications** are mostly guidelines and reviews, so the evidence is indirect. The prediction most likely reflects a known, on-label use rather than true repurposing.
+Triazolam is a short-acting benzodiazepine hypnotic, originally used to treat insomnia.
+The TxGNN model predicts it may be effective for **sleep disorder, initiating and maintaining sleep**, which is closely related to its original indication.
+Currently **0 clinical trials** and **20 publications** (mostly reviews and guidelines) are linked to this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in the source data (all US license records have empty indication text) |
+| Original Indication | Insomnia |
 | Predicted New Indication | Sleep disorder, initiating and maintaining sleep |
 | TxGNN Prediction Score | 99.72% |
-| Evidence Level | L3 (systematic reviews and a guideline exist, but no trials and no triazolam-specific direct evidence) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 14 license records |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no currently valid authorizations in the data compiled for this report) |
+| Number of NDAs | 3 authorizations in total (1 NDA, 2 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the Evidence Pack. Triazolam is a short-acting benzodiazepine hypnotic. Benzodiazepines act as positive allosteric modulators of the GABA-A receptor. This enhances inhibitory neurotransmission and shortens sleep latency, which is a direct and well-established link to insomnia.
+Currently, detailed mechanism of action data is not available. Based on known information, triazolam is a benzodiazepine-class hypnotic, and its use in insomnia is already established. The literature compiled for this report describes it as a short half-life benzodiazepine hypnotic.
 
-The source data leaves the original indication empty, so this looks like a gap in the source rather than a genuine repurposing signal. Insomnia is widely documented as a labeled use of triazolam, which would make this an on-label indication. The very high TxGNN score likely reflects this known drug-disease relationship already present in the knowledge graph. Before this candidate is treated as repurposing, the source fields should be corrected and the classification re-run.
+The predicted indication, a sleep disorder of initiating and maintaining sleep, is essentially a different label for insomnia. The high prediction score therefore mainly reflects the overlap with the original indication rather than a genuinely new therapeutic area. This is a re-labelling of the existing use, not a new repurposing opportunity.
 
 ## Clinical Trial Evidence
 
@@ -59,54 +61,53 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Summaries are based on the abstracts and titles supplied in the Evidence Pack.
+The publications below have not yet been formally classified by study type. The type shown reflects what the titles indicate.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [27998379](https://pubmed.ncbi.nlm.nih.gov/27998379/) | 2017 | Guideline | J Clin Sleep Med | AASM guideline on pharmacologic treatment of chronic insomnia in adults. It assesses individual drugs, including FDA-approved hypnotics |
-| [33249496](https://pubmed.ncbi.nlm.nih.gov/33249496/) | 2021 | Network meta-analysis | Sleep | Compares the efficacy and safety of hypnotics for insomnia in older adults |
-| [40110890](https://pubmed.ncbi.nlm.nih.gov/40110890/) | 2025 | Meta-analysis | Psychiatry Clin Neurosci | Meta-analysis of double-blind RCTs of sleep medication classes (including benzodiazepines) added to antidepressants for depression with insomnia |
-| [30058034](https://pubmed.ncbi.nlm.nih.gov/30058034/) | 2018 | Review | Drugs & Aging | Pharmacological management of insomnia in the elderly. Behavioral therapy is generally the first-line approach |
-| [27751669](https://pubmed.ncbi.nlm.nih.gov/27751669/) | 2016 | Review | Clin Ther | Safety and efficacy of sleep medicines in older adults, with pharmacokinetic considerations |
-| [2567741](https://pubmed.ncbi.nlm.nih.gov/2567741/) | 1989 | Review | J Clin Psychopharmacol | Sleep-lab studies suggest rebound insomnia is a distinct possibility after stopping triazolam |
-| [9161660](https://pubmed.ncbi.nlm.nih.gov/9161660/) | 1997 | Review/Commentary | Ann Pharmacother | Compares zolpidem with triazolam, emphasizing efficacy and safety in humans |
-| [19682231](https://pubmed.ncbi.nlm.nih.gov/19682231/) | 2010 | Experimental human study | J Sleep Res | Tests retrograde effects of triazolam and zolpidem on sleep-dependent motor learning |
-| [6120270](https://pubmed.ncbi.nlm.nih.gov/6120270/) | 1981 | Clinical sleep-lab study | Methods Find Exp Clin Pharmacol | Polysomnographic studies of triazolam, flunitrazepam and flurazepam in insomniac patients |
-| [1319429](https://pubmed.ncbi.nlm.nih.gov/1319429/) | 1992 | Review | J Clin Psychiatry | Pharmacology of benzodiazepine hypnotics, including the shift to shorter half-life agents such as triazolam |
+| [40110890](https://pubmed.ncbi.nlm.nih.gov/40110890/) | 2025 | Systematic review / meta-analysis of RCTs | Psychiatry Clin Neurosci | Efficacy and safety of sleep medication classes (including benzodiazepines) added to antidepressants for depression with insomnia |
+| [38401406](https://pubmed.ncbi.nlm.nih.gov/38401406/) | 2024 | Network meta-analysis of RCTs | Eur Neuropsychopharmacol | Residual effects of sleep medications on driving performance |
+| [27998379](https://pubmed.ncbi.nlm.nih.gov/27998379/) | 2017 | Clinical practice guideline | J Clin Sleep Med | AASM recommendations on pharmacologic treatment of chronic insomnia in adults |
+| [39932761](https://pubmed.ncbi.nlm.nih.gov/39932761/) | 2025 | Review | Minerva Med | Overview of insomnia disorder: prevalence, daytime symptoms and health risks |
+| [30058034](https://pubmed.ncbi.nlm.nih.gov/30058034/) | 2018 | Review | Drugs Aging | Pharmacological management recommendations for insomnia in elderly patients |
+| [27751669](https://pubmed.ncbi.nlm.nih.gov/27751669/) | 2016 | Review | Clin Ther | Safety and efficacy of sleep medicines in older adults |
+| [9161660](https://pubmed.ncbi.nlm.nih.gov/9161660/) | 1997 | Review | Ann Pharmacother | Comparison of zolpidem with triazolam on efficacy and safety |
+| [2567741](https://pubmed.ncbi.nlm.nih.gov/2567741/) | 1989 | Critical review | J Clin Psychopharmacol | Rebound insomnia is a distinct possibility after stopping triazolam |
+| [8573298](https://pubmed.ncbi.nlm.nih.gov/8573298/) | 1995 | Review | Drug Saf | Assessment of short-acting hypnotics |
+| [1319429](https://pubmed.ncbi.nlm.nih.gov/1319429/) | 1992 | Review | J Clin Psychiatry | Pharmacology of benzodiazepine hypnotics, including shorter half-life agents such as triazolam |
 
 ## US Market Information
 
-The same NDA number appears under several labelers. The source records contain no approved-indication text.
-
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA017892 | Halcion | Tablet | Pharmacia & Upjohn Company LLC |
-| NDA017892 | Triazolam | Tablet | Mylan Pharmaceuticals Inc. |
-| NDA017892 | Triazolam | Tablet | Aphena Pharma Solutions - Tennessee, LLC |
-| ANDA213003 | Triazolam | Tablet | Zydus Lifesciences Limited |
-| ANDA214219 | Triazolam | Tablet | PD-Rx Pharmaceuticals, Inc. |
+| NDA017892 | Triazolam (Aphena Pharma Solutions - Tennessee) | Tablet | Not available; status cancelled |
+| ANDA213003 | Triazolam (Zydus Lifesciences) | Tablet | Not available; status cancelled |
+| ANDA214219 | Triazolam (PD-Rx Pharmaceuticals) | Tablet | Not available; status cancelled |
 
 ## Safety Considerations
 
-Package insert warnings, contraindications and drug interaction data are not available in the Evidence Pack. Please refer to the package insert for safety information.
+- **Contraindication-related conditions (from the knowledge graph, not label text)**: anxiety disorder, neurotic disorder, dysthymic disorder, kidney disease, liver disease, gallbladder disease, psychotic disorders (including schizophreniform and schizoaffective disorders), mental disorder, sleep apnea syndromes (including obstructive sleep apnea and congenital central hypoventilation syndrome), myasthenia gravis and other neuromuscular junction diseases, and substance-related disorders and substance abuse/dependence.
+- **Drug Interactions**: 100 interactions were found in total; the 20 available for review include:
+  - **Major**: morphine (additive central nervous system and respiratory depression is a concern).
+  - **Moderate**: bupropion, aprepitant, ranitidine, omeprazole, cimetidine, clarithromycin, miconazole, clotrimazole, dronabinol, nabilone, metoclopramide, eluxadoline, teduglutide.
+  - **Minor**: dexamethasone, betamethasone, prednisone, magnesium oxide, aluminum hydroxide, calcium carbonate.
+- **Literature-noted concerns**: rebound insomnia after discontinuation, residual effects on driving, and abuse/dependence risk.
 
-The literature does point to some concerns:
-- Rebound insomnia after discontinuation (PMID 2567741).
-- Safety considerations in older adults (PMID 27751669, 33249496).
-- Possible effects on sleep-dependent motor learning (PMID 19682231).
+Please refer to the package insert for key warnings and formal contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-No clinical trial records are available, and the literature is mostly guidelines and reviews that support triazolam only indirectly. The prediction most likely reflects a known on-label use rather than a novel repurposing opportunity. Blocking safety data is also missing.
+The predicted indication is essentially the same as the original one (insomnia), so it adds no real repurposing value. There are no registered clinical trials, the literature is mostly general reviews and guidelines, and all three US authorizations are cancelled. Safety data from the package insert are also missing.
 
 **To proceed, the following is needed:**
-- Correct the original indication and MOA fields in the source data, then re-run the classification.
-- Obtain the package insert warnings and contraindications to complete safety screening.
-- Confirm whether sleep-onset and sleep-maintenance insomnia is already an approved indication, which would make this an on-label use.
-- Collect triazolam-specific trial evidence if the candidate is still considered a repurposing opportunity.
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- Confirmation of whether the predicted indication differs meaningfully from the existing insomnia indication
+- Classification and relevance screening of the retrieved literature
+- Clarification of why all US authorizations are cancelled, and of current marketing status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

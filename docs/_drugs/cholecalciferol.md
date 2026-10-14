@@ -29,13 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Cholecalciferol: From Vitamin D3 Supplementation to Familial Isolated Hypoparathyroidism
+# Cholecalciferol: From Osteoporosis and Vitamin D Deficiency to Renal Osteodystrophy
 
 ## One-Sentence Summary
 
-Cholecalciferol (vitamin D3) is marketed in the US in several products, including a combination tablet with alendronate. The record contains no approved-indication text.
-The TxGNN model predicts it may be effective for **familial isolated hypoparathyroidism due to impaired PTH secretion**,
-but there are currently **0 clinical trials** and **0 publications** supporting this specific prediction.
+Cholecalciferol (vitamin D3) is a vitamin D supplement originally used for conditions such as osteoporosis, vitamin D deficiency, rickets, osteomalacia and hypoparathyroidism.
+The TxGNN model's top-ranked prediction is **familial isolated hypoparathyroidism due to impaired PTH secretion**, but that prediction has no supporting studies. The best-supported prediction in the data compiled for this report is **renal osteodystrophy**, with **2 clinical trials** and **20 publications**.
+This report therefore covers the top-ranked prediction briefly and focuses on renal osteodystrophy.
 
 ---
 
@@ -43,71 +43,99 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (approved indication text is empty in all US license records) |
-| Predicted New Indication | Familial isolated hypoparathyroidism due to impaired PTH secretion |
-| TxGNN Prediction Score | 99.79% |
-| Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 6 licenses (only 1 carries an NDA number: NDA021762) |
-| Recommended Decision | Hold |
+| Original Indication | Osteoporosis, vitamin D deficiency, rickets, osteomalacia, hypoparathyroidism (from the knowledge graph; no approved indication text is available for the US licenses) |
+| Predicted New Indication | Renal osteodystrophy (the rank 1 prediction, familial isolated hypoparathyroidism due to impaired PTH secretion, is on Hold with no evidence) |
+| TxGNN Prediction Score | 99.11% (renal osteodystrophy); 99.79% (rank 1 prediction) |
+| Evidence Level | L2 (renal osteodystrophy); L5 (rank 1 prediction) |
+| US Market Status | Cancelled only |
+| Number of NDAs | 2 (both cancelled) |
+| Recommended Decision | Proceed with Guardrails (renal osteodystrophy); Hold (rank 1 prediction) |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Cholecalciferol is a vitamin D3 form, and its role in calcium and phosphate homeostasis is well known. It is mechanistically related to a disease defined by low PTH and hypocalcemia.
+Detailed mechanism of action data is not available. Based on known information, cholecalciferol is a pro-hormone. It is converted in the liver to 25-hydroxyvitamin D and then in the kidney to the active form, calcitriol. Calcitriol regulates calcium and phosphate absorption and parathyroid hormone (PTH) production.
 
-Vitamin D metabolites are used clinically to manage hypocalcemia in hypoparathyroidism. This is symptomatic calcium homeostasis support, not disease modification. Cholecalciferol has a specific limitation here. It must be activated by PTH-dependent renal 1-alpha-hydroxylation, which is impaired when PTH secretion is deficient. Active analogs are therefore usually preferred.
+In chronic kidney disease–mineral and bone disorder (CKD-MBD), 25-hydroxyvitamin D deficiency is common and contributes to secondary hyperparathyroidism. Renal osteodystrophy is the bone component of this disorder. Replenishing native vitamin D with cholecalciferol can raise 25(OH)D and lower PTH in some patients, which fits cholecalciferol's known role in calcium and bone homeostasis.
 
-The high TxGNN score reflects proximity in the knowledge graph. It is not evidence of benefit. No trials or literature were retrieved for this indication.
+The other predictions are weaker:
+- **Familial isolated hypoparathyroidism (rank 1):** Cholecalciferol is already associated with hypoparathyroidism in general, so the biology is plausible. However, no trial or publication addresses this subtype. The high score likely reflects its closeness to the known indication in the knowledge graph.
+- **Acromesomelic dysplasia, craniofacial conodysplasia, Dahlberg-Borer-Newcomer syndrome (ranks 2–4):** No mechanistic link was identified. The retrieved publications for rank 4 are general vitamin D papers unrelated to the syndrome.
+- **Hypophosphatemic rickets and renal tubular acidosis (ranks 5 and 7):** Vitamin D can only play a supportive role. Standard care relies on phosphate plus active vitamin D analogs or burosumab (hypophosphatemic rickets), or on alkali therapy (renal tubular acidosis).
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Trials for renal osteodystrophy:
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT00752401](https://clinicaltrials.gov/study/NCT00752401) | Phase 3 | Unknown | 200 | VITA-D: placebo-controlled trial of cholecalciferol in vitamin D-deficient kidney transplant recipients, assessing graft function, rejection, infections and CRP in the first year. The population is adjacent to, not the same as, renal osteodystrophy. |
+| [NCT00285467](https://clinicaltrials.gov/study/NCT00285467) | Not applicable | Completed | 55 | Cholecalciferol versus doxercalciferol for secondary hyperparathyroidism in CKD stages 3–4, a core component of renal osteodystrophy. Small sample. |
+
+No clinical trials are registered for the other predicted indications.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available.
+Publications for renal osteodystrophy (selected):
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [34747516](https://pubmed.ncbi.nlm.nih.gov/34747516/) | 2022 | RCT (secondary analysis) | J Bone Miner Res | Cholecalciferol supplementation attenuated bone loss in 193 incident kidney transplant recipients |
+| [35200136](https://pubmed.ncbi.nlm.nih.gov/35200136/) | 2022 | Prospective controlled study | Clin Nephrol | Effect of vitamin D sterols on bone histology in pre-dialysis CKD |
+| [38397979](https://pubmed.ncbi.nlm.nih.gov/38397979/) | 2024 | Observational study | Biomedicines | Efficacy and safety of high-dose cholecalciferol in hemodialysis patients with 25(OH)D deficiency |
+| [39597015](https://pubmed.ncbi.nlm.nih.gov/39597015/) | 2024 | Observational study | Medicina (Kaunas) | Hemodialysis patients may benefit from cholecalciferol targeting a high 25(OH)D level |
+| [30274806](https://pubmed.ncbi.nlm.nih.gov/30274806/) | 2019 | Review | Nefrologia | Role of native vitamin D in pre-dialysis CKD remains unclear |
+| [33922902](https://pubmed.ncbi.nlm.nih.gov/33922902/) | 2021 | Review | Nutrients | Vitamin D effects on bone and the cardiovascular system in CKD and transplant recipients |
+| [30297082](https://pubmed.ncbi.nlm.nih.gov/30297082/) | 2018 | Workshop report | Am J Kidney Dis | National Kidney Foundation report on vitamin D in CKD stages 3–4; management remains controversial |
+| [20671739](https://pubmed.ncbi.nlm.nih.gov/20671739/) | 2010 | Review | Kidney Int Suppl | Kidney bone disease and mortality in CKD: vitamin D, calcimimetics, alkaline phosphatase and minerals |
+| [21947120](https://pubmed.ncbi.nlm.nih.gov/21947120/) | 2011 | Review | Nat Rev Nephrol | Mineral and bone disorders in children with CKD |
+| [6264838](https://pubmed.ncbi.nlm.nih.gov/6264838/) | 1981 | Review | Ann Clin Lab Sci | Secondary hyperparathyroidism in chronic renal failure |
+
+Evidence for the other predictions is limited to reviews and case reports. For hypophosphatemic rickets, one case report describes premature cranial synostosis possibly linked to intoxication with 1-alpha-hydroxylated vitamin D. For renal tubular acidosis, one case report describes vitamin D3 overdose in a child with distal RTA after a hasty rickets diagnosis.
 
 ---
 
 ## US Market Information
 
-The Evidence Pack lists 6 licenses. One product (Fosamax Plus D, NDA021762) appears twice, so 4 distinct products are shown. Only NDA021762 has an authorization number.
-
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA021762 | FOSAMAX PLUS D (Organon LLC) | Tablet | Not provided |
-| Not listed | GROWTH SUPPORTPATCH, HAUTUKI (CUSTICS) | Patch | Not provided |
-| Not listed | Floriva (BonGeo Pharmaceuticals, Inc.) | Liquid | Not provided |
-| Not listed | Folvitra (Blue Heron Pharmaceuticals, LLC) | Tablet | Not provided |
+| NDA021762 | FOSAMAX PLUS D (Organon LLC) | Tablet | Not available (cancelled) |
+| Not available | GROWTH SUPPORTPATCH, HAUTUKI (CUSTICS) | Patch | Not available (cancelled) |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug interaction records were found.
+- **Disease-level cautions (from the knowledge graph, not label text):** Cholecalciferol is linked to contraindications or cautions in conditions including hypercalcemia, nephrocalcinosis, hyperparathyroidism, sarcoidosis, kidney disease, liver disease, hypertension, diabetes mellitus, atrial fibrillation, primary hyperoxaluria and Wilson disease. These are graph-derived and should be confirmed against the package insert.
+- **Drug Interactions:** 56 interactions are recorded. The main ones are:
+  - **Major:** calcifediol, calcitriol, dihydrotachysterol, doxercalciferol (additive vitamin D effects, risk of hypercalcemia).
+  - **Moderate:** thiazide diuretics (bendroflumethiazide, benzthiazide, chlorothiazide, chlorthalidone), barbiturates (amobarbital, butabarbital, butalbital), carbamazepine, bile acid sequestrants (cholestyramine, colesevelam, colestipol), digoxin and digitoxin, and topical calcipotriol and calcitriol.
+  - **Minor:** cimetidine.
+- **Indication-specific safety signals:** Vitamin D overdose or intoxication has been reported in children with renal tubular acidosis and X-linked hypophosphatemic rickets.
+
+Please refer to the package insert for label warnings and contraindications. These were not available in the data compiled for this report.
 
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Proceed with Guardrails (renal osteodystrophy); Hold (familial isolated hypoparathyroidism and the other predictions)**
 
 **Rationale:**
-The prediction rests on the model score alone (L5), with no trials or literature for this indication. Cholecalciferol also has a mechanistic limitation in PTH deficiency, where active vitamin D analogs are normally used. Safety data are missing, and the package insert gap is flagged as blocking.
+- Renal osteodystrophy has a coherent mechanism and supporting trials: a Phase 3 RCT in transplant recipients and a completed comparison with doxercalciferol in CKD secondary hyperparathyroidism. The Phase 3 trial's indirect population and unknown status cap the evidence at L2 rather than L1.
+- The rank 1 prediction and ranks 2–4 have no disease-specific evidence and rest on the model score alone, so they stay on Hold. Hypophosphatemic rickets and renal tubular acidosis (L4) are research questions only, with vitamin D in a supportive role.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications (blocking data gap)
-- Mechanism of action data (for example, from DrugBank)
-- A targeted literature search for cholecalciferol versus active vitamin D analogs in hypoparathyroidism
-- Approved-indication text for the US products, to confirm the original indication
-
-Other candidates in the same Evidence Pack have more supporting evidence. Renal osteodystrophy (L3) includes NCT00285467, a completed trial comparing cholecalciferol with doxercalciferol. Hypophosphatemic rickets is L4. These are worth evaluating separately.
+- FDA package insert warnings and contraindications (currently missing and a blocking gap for safety screening).
+- Mechanism of action data for cholecalciferol.
+- Disease-specific trials in renal osteodystrophy or CKD-MBD with bone outcomes (histology, fracture, bone density) rather than surrogate markers alone.
+- A monitoring plan for calcium, phosphate and PTH to avoid hypercalcemia and vascular calcification, with dosing individualized by CKD stage.
+- A review of interactions with active vitamin D analogs, thiazides and digoxin, which are common in CKD patients.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

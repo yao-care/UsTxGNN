@@ -29,78 +29,65 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Threonine: Predicted New Indication of Gastroparesis (No Established Original Indication on Record)
+# Threonine: From No Recorded Original Indication to Gastroparesis
 
 ## One-Sentence Summary
 
-Threonine (DrugBank DB00156) is an amino acid. The record lists one marketed US product, L-Threonine High (liquid), but no approved indication. The TxGNN model predicts it may be relevant to **Gastroparesis**, but there are **0 clinical trials** and **1 publication**. That publication is a rat study that does not mention threonine, so the prediction rests on model output alone.
-
----
+Threonine is an essential amino acid. In the data compiled for this report, no approved original indication is recorded for it.
+The TxGNN model predicts it may be relevant to **Gastroparesis**, but the support is the model score alone: **0 clinical trials** and **0 publications** were found.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Not recorded (the only US license has no indication text) |
 | Predicted New Indication | Gastroparesis |
 | TxGNN Prediction Score | 99.32% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 1 (license number not listed in the record) |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no active marketing) |
+| Number of NDAs | 1 (cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available, and no original indication is recorded for this drug. The score is high (99.32%), but it comes from knowledge-graph link prediction only. The graph provides no explicit drug-to-disease pathway.
+Currently, detailed mechanism of action data is not available. Threonine is an essential amino acid and a precursor of glycine and serine. It is also a major component of intestinal mucins. No original indication is recorded, so the relationship between an original and a new indication cannot be established.
 
-One speculative link exists. Amino acids such as threonine can influence mTOR signaling. The single retrieved paper (PMID 28627597) reports changes in gastric smooth muscle cell apoptosis and in PI3K-AKT-mTOR and AMPK-mTOR signaling in a diabetic gastroparesis rat model. This is a pathway overlap only. The paper's title does not mention threonine, and it is unknown whether any effect would be beneficial or harmful.
-
-Until direct evidence appears, this prediction should be treated as a hypothesis to test rather than a supported candidate.
-
----
+A link to gastric or intestinal mucosal function, or to enteric neurotransmission, is conceivable. However, it is speculative and has no supporting clinical or literature evidence in the data compiled for this report. The high score (0.993) may reflect proximity within the knowledge graph rather than a true therapeutic effect. The prediction should be treated as a hypothesis only.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [28627597](https://pubmed.ncbi.nlm.nih.gov/28627597/) | 2017 | Preclinical study (rat model) | Molecular Medicine Reports | Examined gastric smooth muscle cell apoptosis and PI3K-AKT-mTOR and AMPK-mTOR signaling changes in diabetic gastroparesis rats. Threonine is not mentioned, so this is indirect pathway context only. |
-
----
+Currently no related literature available.
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| Not listed | L-Threonine High (Professional Complementary Health Formulas) | Liquid | Not listed |
-
----
+| Not available | L-Threonine High (Professional Complementary Health Formulas) | Liquid | Not stated; status: cancelled |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. The package insert warnings and contraindications have not yet been obtained, and no drug interaction records were found.
+- **Knowledge-graph contraindication signals** (from the TxGNN knowledge graph, not label text): phenylketonuria and disorders of phenylalanine metabolism.
+- **Drug Interactions**: No interaction records were found.
 
----
+Please refer to the package insert for further safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high, but the evidence is model-only (L5). There are no clinical trials, and the one publication is a preclinical study that does not involve threonine. Safety data are also missing.
+The prediction rests only on a model score. There are no clinical trials, no literature, no verified mechanism, and no active US marketing authorization. This evidence is at L5, the lowest level.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, needed for safety screening
-- Original indication and mechanism of action data (e.g., via DrugBank)
-- Literature that directly studies threonine in gastroparesis or gastric motility
-- Route and formulation compatibility assessment for the predicted indication
-- Confirmation of the actual license or NDA number and regulatory status of the listed product
+- Package insert warnings and contraindications, which are currently missing and block safety screening
+- Mechanism of action data (for example, from DrugBank), to test a link between threonine and gastric motility or mucosal function
+- A literature and trial search specific to threonine and gastroparesis, including preclinical studies
+- Route and formulation compatibility assessment, since only one cancelled liquid product exists
+- A review of the knowledge-graph contraindication signals (phenylketonuria and phenylalanine metabolism disorders) for any target population
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

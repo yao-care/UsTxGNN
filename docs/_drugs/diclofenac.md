@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Diclofenac
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 602
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Diclofenac
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L3** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,13 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Diclofenac: From a Marketed NSAID to Hypotrichosis Simplex of the Scalp
+# Diclofenac: From Actinic Keratosis and Arthritis to Juvenile Idiopathic Arthritis
 
 ## One-Sentence Summary
 
-Diclofenac is a marketed nonsteroidal anti-inflammatory drug (NSAID) that inhibits COX-1 and COX-2.
-The TxGNN model ranks **hypotrichosis simplex of the scalp**, a rare hereditary hair-loss disorder, as its top prediction, but **0 clinical trials** and **0 publications** support it.
-The score most likely reflects knowledge-graph proximity, not a biological rationale.
+Diclofenac is a nonsteroidal anti-inflammatory drug (NSAID) originally used for skin conditions such as actinic keratosis and for joint diseases such as rheumatoid arthritis, ankylosing spondylitis and osteoarthritis.
+The TxGNN model predicts it may be effective for **Juvenile Idiopathic Arthritis (JIA)**, the only one of the top 10 predictions with any supporting literature.
+There are currently **0 clinical trials** and **14 publications** on this direction, mostly small, older, uncontrolled or comparative studies in children and reviews.
 
 ---
 
@@ -43,22 +43,23 @@ The score most likely reflects knowledge-graph proximity, not a biological ratio
 
 | Item | Content |
 |------|------|
-| Predicted New Indication | Hypotrichosis simplex of the scalp |
-| TxGNN Prediction Score | 99.69% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
-| Recommended Decision | Hold |
+| Original Indication | Actinic keratosis, rheumatoid arthritis, ankylosing spondylitis, osteoarthritis (from the knowledge graph; no approved-indication text is available from US licenses) |
+| Predicted New Indication | Juvenile idiopathic arthritis (the highest-ranked prediction, hypotrichosis simplex of the scalp, has no supporting evidence; JIA is the best-supported candidate) |
+| TxGNN Prediction Score | 99.25% (JIA); the top-ranked prediction scores 99.69% |
+| Evidence Level | L3 |
+| US Market Status | Cancelled only (all licenses cancelled) |
+| Number of NDAs | 16 (1 NDA and 15 ANDAs, all cancelled) |
+| Recommended Decision | Proceed with Guardrails |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Diclofenac is an NSAID, and its known pharmacology is COX inhibition, which reduces prostaglandin-mediated inflammation and pain.
+Detailed mechanism of action data is not currently available for this report. Diclofenac is a well-known NSAID that inhibits cyclooxygenase (COX) enzymes, which reduces prostaglandin production and thereby joint inflammation, pain and stiffness.
 
-The predicted disease is a rare hereditary hair-loss disorder, and COX inhibition has no established role in it. A link through prostaglandin D2 in hair-follicle inhibition has been proposed, but it is speculative and unsupported by any evidence here. The high score most likely comes from proximity in the knowledge graph, not from a biological rationale.
+JIA shares the same inflammatory joint pathology as diclofenac's established indications (rheumatoid arthritis, ankylosing spondylitis, osteoarthritis). COX inhibition addresses symptoms in JIA in the same way. This is symptomatic relief, not disease modification, and NSAIDs in JIA are typically used alongside disease-modifying drugs (DMARDs) and biologics.
 
-The same pattern appears in the other top-ranked predictions, such as skeletal dysplasias, other congenital hair disorders, and WHIM syndrome. None has a plausible mechanistic link or supporting evidence.
+By contrast, the other nine top predictions (e.g. hypotrichosis simplex, pseudoachondroplasia, brachyolmia, alopecia areata, WHIM syndrome) are mostly genetic or autoimmune disorders with no credible link to COX inhibition. Their high scores appear to reflect knowledge-graph proximity only, and they have no trials or literature. They are not recommended for further work.
 
 ---
 
@@ -70,45 +71,74 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available.
+Of the 14 publications retrieved, the table lists those most relevant to diclofenac in juvenile arthritis. Several other retrieved papers concern other NSAIDs or unrelated topics and are not listed.
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [3052965](https://pubmed.ncbi.nlm.nih.gov/3052965/) | 1988 | Single-blind crossover study | Clin Exp Rheumatol | Compared naproxen, tolmetin and diclofenac (2 mg/kg/day) in 28 children with seronegative juvenile chronic arthritis over 12 weeks |
+| [6361986](https://pubmed.ncbi.nlm.nih.gov/6361986/) | 1983 | Open-label clinical study | Scand J Rheumatol | Diclofenac sodium in juvenile rheumatoid arthritis, including pharmacokinetics in children aged 2-7 |
+| [2235663](https://pubmed.ncbi.nlm.nih.gov/2235663/) | 1990 | Open non-comparative study | Pediatr Med Chir | Diclofenac sodium in 26 patients aged 2-16 years with polyarticular juvenile chronic arthritis |
+| [10756785](https://pubmed.ncbi.nlm.nih.gov/10756785/) | 1997 | Comparative study | Rev Med Chir Soc Med Nat Iasi | Compared diclofenac, another NSAID and aspirin in 100 children with juvenile chronic arthritis |
+| [723822](https://pubmed.ncbi.nlm.nih.gov/723822/) | 1978 | Clinical report | Minerva Pediatr | Sodium diclofenac in infantile rheumatoid arthritis (no abstract available) |
+| [8422565](https://pubmed.ncbi.nlm.nih.gov/8422565/) | 1993 | Review | Br J Rheumatol | Diclofenac, ibuprofen, tolmetin and naproxen are comparable in efficacy and tolerance for joint symptoms in children |
+| [1884567](https://pubmed.ncbi.nlm.nih.gov/1884567/) | 1991 | Review | Clin Pharmacokinet | Pharmacokinetics of drugs used in juvenile arthritis, including NSAIDs |
+| [11735667](https://pubmed.ncbi.nlm.nih.gov/11735667/) | 2001 | Review | Paediatr Drugs | Risks and benefits of NSAIDs in children, with JIA as a common indication |
+| [17474954](https://pubmed.ncbi.nlm.nih.gov/17474954/) | 2007 | Survey | Paediatr Anaesth | Notes diclofenac is licensed for children over 1 year for juvenile rheumatoid arthritis (UK context) |
 
 ---
 
 ## US Market Information
 
-The table lists 5 of the 20 authorizations. The pack also shows oral, topical gel, extended-release and other forms across the full set.
+All 16 US licenses are cancelled, and no approved-indication text is available. The table lists 5 of them.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|------|
-| ANDA216275 | Diclofenac sodium | Film-coated tablet | Sportpharm LLC |
-| ANDA215375 | Diclofenac potassium | Powder for solution | Camber Pharmaceuticals, Inc. |
-| ANDA202769 | Diclofenac Sodium | Solution | Proficient Rx LP |
-| ANDA075185 | Diclofenac Sodium | Delayed-release tablet | AvKARE |
-| NDA022202 | ZIPSOR | Liquid-filled capsule | Assertio Therapeutics, Inc. |
+| Authorization Number | Product Name | Dosage Form | Status |
+|---------|------|------|-----------|
+| NDA022202 | ZIPSOR (Assertio Therapeutics) | Capsule, liquid filled | Cancelled |
+| ANDA075185 | Diclofenac Sodium (AvKARE) | Delayed-release tablet | Cancelled |
+| ANDA076201 | Diclofenac Sodium (Bryant Ranch Prepack) | Extended-release tablet | Cancelled |
+| ANDA215585 | Diclofenac Potassium (Preferred Pharmaceuticals) | Film-coated tablet | Cancelled |
+| ANDA211253 | Aspercreme Arthritis (Chattem) | Gel | Cancelled |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindications / disease cautions (knowledge graph, not label text)**: The knowledge graph links diclofenac with caution or contraindication in:
+  - Cardiovascular: hypertension, congestive heart failure, myocardial infarction, stroke and cerebrovascular disease
+  - Gastrointestinal: active peptic ulcer disease, inflammatory bowel disease
+  - Liver: liver failure, liver disease, drug-induced liver injury
+  - Respiratory: asthma
+  - Metabolic: diabetes mellitus, diabetic ketoacidosis
+  - Blood: blood coagulation disease, anemia, hemoglobinopathy
+  - Other: gallbladder disease, substance abuse/dependence, keratitis
+- **Drug Interactions**: The interaction check returned 100 entries. The most notable are Moderate-level interactions with:
+  - Corticosteroids: hydrocortisone, dexamethasone, betamethasone, budesonide, triamcinolone
+  - Aspirin
+  - Mesalazine and balsalazide
+  - Metformin and sulfonylureas (glimepiride, glipizide, chlorpropamide, acetohexamide)
+  - Aprepitant, exenatide, fenfluramine and dexfenfluramine
+  - Minor-level interactions with famotidine, ranitidine and cimetidine
+- Pediatric use needs monitoring of GI, renal, hepatic and cardiovascular effects.
+
+Please refer to the package insert for official warnings, as label text was not available for this report.
 
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Proceed with Guardrails** (for JIA only; the other nine predictions are Hold)
 
 **Rationale:**
-The prediction has no clinical trials, no literature and no plausible mechanism, so it is a computational signal only (L5).
-Among the top 10 predictions, only juvenile idiopathic arthritis has any evidence (L3). That evidence is two small studies from 1983 and 1988, and it may reflect established NSAID use rather than true repurposing. It is a better candidate for follow-up, though it is not the top-ranked one.
+- The JIA prediction has a clear mechanistic fit and a body of older pediatric studies on diclofenac. However, these are small and mostly uncontrolled or comparative, with no registered trials and no modern randomized evidence. Evidence is therefore L3, not L1 or L2.
+- All US licenses are cancelled, so product availability is a practical barrier.
+- The remaining predictions, including the highest-scoring one, rest on model scores alone (L5) and should be held.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, which are missing and block safety screening
+- The FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
-- Original indication data, which was empty in the Evidence Pack, to be verified against US labelling
-- Mechanistic or preclinical evidence linking COX or prostaglandin signalling to hair-follicle biology, before any further work on this indication
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
+- Verification of current US availability and a pediatric formulation or dosing route
+- A review of the original studies for efficacy and safety versus current standard JIA treatment (other NSAIDs, DMARDs, biologics)
+- A pediatric safety monitoring plan covering GI, renal, hepatic and cardiovascular risks
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

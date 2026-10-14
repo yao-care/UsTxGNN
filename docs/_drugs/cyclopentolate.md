@@ -29,70 +29,69 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Cyclopentolate: From Original Indication (Not Recorded) to Cauda Equina Syndrome
+# Cyclopentolate: From Cycloplegia to Cauda Equina Syndrome
 
 ## One-Sentence Summary
 
-Cyclopentolate is marketed in the US as topical solution/drops, but the regulatory data provided does not record an approved indication.
+Cyclopentolate is an ophthalmic anticholinergic agent, originally used to induce cycloplegia (paralysis of the eye's focusing muscle) for eye examinations.
 The TxGNN model predicts it may be effective for **Cauda Equina Syndrome**,
-but **0 clinical trials** and **0 publications** currently support this direction, so it is a computational prediction only.
+but **no clinical trials and no publications** currently support this direction, so the prediction rests on computation alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in the provided regulatory data |
+| Original Indication | Cycloplegia |
 | Predicted New Indication | Cauda equina syndrome |
 | TxGNN Prediction Score | 99.54% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 6 (all ANDAs) |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 5 (all cancelled; listed as ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on general pharmacology (not from the provided data), cyclopentolate is generally known as a muscarinic antagonist formulated for topical use. Any link to the predicted indication would therefore be indirect, for example through anticholinergic control of neurogenic bladder symptoms.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, cyclopentolate is a muscarinic antagonist (anticholinergic). Its efficacy in producing cycloplegia and pupil dilation when applied to the eye is well established.
 
-Cauda equina syndrome is caused by compression of the lower spinal nerve roots and needs urgent surgical decompression. An anticholinergic could at most relieve some symptoms and would not treat the cause. A topical eye-drop product is also a poor fit for a neurosurgical emergency. The rationale is weak, and the 0.995 score should be read as a model signal, not as evidence of efficacy.
+The possible link to cauda equina syndrome is bladder dysfunction. Nerve root compression can cause detrusor overactivity or other bladder problems, and antimuscarinic drugs are a recognised class for such symptoms. However, cauda equina syndrome is mainly a surgical emergency caused by nerve root compression, and an anticholinergic would at most address a downstream symptom, not the underlying condition. Cyclopentolate is formulated only as an eye drop, and systemic exposure at therapeutic anticholinergic levels would raise safety concerns. The high TxGNN score is a computational prediction with no clinical or mechanistic data behind it.
 
-The other two top TxGNN predictions are obsolete neurogenic bladder (99.40%) and irritable bowel syndrome (99.27%). Both are also L5 with no trials or literature, and both would depend on systemic anticholinergic exposure.
+Two other predictions were also generated, and both are likewise supported only at the drug-class level:
 
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-## Literature Evidence
-
-Currently no related literature available.
+- **Neurogenic bladder (obsolete ontology term, score 99.40%)**: Antimuscarinics are established for neurogenic detrusor overactivity, but nothing is specific to cyclopentolate. Better-characterised agents (oxybutynin, tolterodine, solifenacin, trospium) already exist. The term should be mapped to current neurogenic lower urinary tract dysfunction terminology before further assessment.
+- **Irritable bowel syndrome (score 99.27%)**: Antispasmodics such as dicyclomine and hyoscyamine are used for IBS abdominal pain. Cyclopentolate has no oral formulation, and systemic anticholinergic effects such as constipation could worsen constipation-predominant IBS.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA040075 | Cyclopentolate Hydrochloride (Bausch & Lomb) | Solution/Drops | Not listed |
-| ANDA084110 | Cyclogyl (Alcon) | Solution/Drops | Not listed |
-| ANDA084108 | Cyclogyl (Alcon) | Solution/Drops | Not listed |
-| ANDA084110 | Cyclopentolate Hydrochloride (Sandoz) | Solution | Not listed |
-| ANDA084109 | Cyclogyl (Alcon) | Solution/Drops | Not listed |
+| Authorization Number | Product Name | Dosage Form | Status | Manufacturer |
+|---------|------|------|-----------|------|
+| ANDA040075 | Cyclopentolate Hydrochloride | Solution/drops | Cancelled | Bausch & Lomb Incorporated |
+| ANDA084110 | Cyclogyl | Solution/drops | Cancelled | Alcon Laboratories, Inc. |
+| ANDA084108 | Cyclogyl | Solution/drops | Cancelled | Alcon Laboratories, Inc. |
+| ANDA084109 | Cyclogyl | Solution/drops | Cancelled | Alcon Laboratories, Inc. |
+| ANDA084300 | Cyclomydril | Solution/drops | Cancelled | Alcon Laboratories, Inc. |
+
+All five authorizations are cancelled, and no approved indication text is recorded for them.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Disease contraindications from the knowledge graph** (these come from a computational knowledge graph, not from label text): hypertension, diabetes mellitus, diabetic ketoacidosis, benign prostatic hyperplasia, heart disease and cardiovascular disease, coronary artery disease, sudden cardiac arrest, heart conduction disease, angle-closure glaucoma, hyperthyroidism (including Graves disease and thyrotoxicosis), arteriosclerosis and atherosclerosis, brain injury, brain disease, and Down syndrome.
+- Several of these conditions (for example benign prostatic hyperplasia and cardiovascular disease) are relevant to the urinary and gastrointestinal uses suggested above, since systemic anticholinergic exposure would be required.
+
+Please refer to the package insert for further warnings, contraindications, and drug interaction information. No interaction records were found in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting clinical trials or publications (L5), and the mechanism is not documented. The predicted indication is a surgical emergency that a topical anticholinergic would not address.
+The prediction is supported only by a model score and class-level plausibility. No clinical trials or literature exist for cyclopentolate in this indication. The drug has no valid US license and only an ophthalmic formulation, and systemic anticholinergic exposure carries safety concerns. Established alternatives already exist for the related bladder and bowel indications.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (blocking for safety screening)
-- Mechanism of action data, for example from DrugBank
-- The approved indication text, to establish the original indication
-- Route and formulation feasibility assessment (systemic or intravesical use is not covered by current data)
-- Mapping of "obsolete neurogenic bladder" to a current disease term before any follow-up
-- Preclinical or clinical evidence for any of the predicted indications, in order to move beyond L5
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism of action data
+- Mapping of the obsolete neurogenic bladder term to current terminology
+- Route-of-administration feasibility assessment, since only ophthalmic forms exist
+- Preclinical or mechanistic evidence specific to cyclopentolate in the predicted conditions
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

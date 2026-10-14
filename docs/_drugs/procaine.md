@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Procaine
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 1086
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Procaine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,33 +29,32 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Procaine: From Local Anesthesia to Methemoglobinemia
+# Procaine: From Local Anaesthesia to Methemoglobinemia
 
 ## One-Sentence Summary
 
-Procaine is an ester-type local anesthetic, and it is also a component of some combination penicillin products.
-The TxGNN model predicts it for **methemoglobinemia**, but the literature points the opposite way: the **8 publications** found mostly describe procaine as a *cause* of methemoglobinemia, and there are **no clinical trials**.
-The high score most likely reflects a drug-induces-disease link in the knowledge graph, not a therapeutic one.
+Procaine is a local anaesthetic (an ester-type "caine") that has been used for infiltration and nerve block, for example in dental surgery.
+The TxGNN model predicts it may be effective for **methemoglobinemia**, but there are **no registered clinical trials** and only **5 publications**, and these mostly describe procaine as a *cause* of methemoglobinemia rather than a treatment.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the available license records (procaine is a local anesthetic) |
+| Original Indication | Local anaesthesia (e.g., dental surgery); no approved indication text is listed in the US licence data |
 | Predicted New Indication | Methemoglobinemia |
 | TxGNN Prediction Score | 99.50% |
-| Evidence Level | L4 (case reports and small clinical observations only; no trials) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 7 |
+| Evidence Level | L4 |
+| US Market Status | Cancelled only (no currently valid licences) |
+| Number of NDAs | 2 (both cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available. Procaine is a local anesthetic that blocks nerve conduction, and its metabolism involves an aromatic amine (para-aminobenzoic acid, PABA) fragment.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on pharmacology records, procaine is a local anaesthetic that is thought to act on ryanodine receptors (RYR1 and RYR2), although no publicly available bioactivity data confirm a primary target. Its general anaesthetic effect is commonly attributed to sodium-channel blockade.
 
-This prediction is **not mechanistically supported**. Case reports describe methemoglobinemia after intravenous procaine (1970) and after subcutaneous novocaine infiltration in a newborn (1978). A related agent, lignocaine, has a similar report (1965). Aromatic-amine local anesthetics are known to promote methemoglobin formation, so a therapeutic role would run against the known pharmacology.
+The prediction itself is hard to justify mechanistically. The available literature shows that procaine and related local anaesthetics (such as lignocaine) are more likely to **induce** methemoglobinemia than to treat it. This includes a case report of methemoglobinemia after intravenous procaine (1970) and a case report following lignocaine (1965). The high TxGNN score most likely reflects a drug-disease association in the knowledge graph, not a therapeutic relationship. Using procaine for this condition could worsen it.
 
-A likely explanation for the high score is that the knowledge graph links drug and disease through an adverse-effect association. The model cannot distinguish "treats" from "causes" in that case. The 1987 Chinese clinical study on methemoglobin levels under intravenous procaine anesthesia has no abstract available, so its direction of effect could not be verified.
+Other predictions in the list point the same way. Alpha-type methemoglobinemia and methemoglobin reductase deficiency are closely related conditions in which the same safety concern applies. Predictions with some indirect supporting literature, such as fibromyalgia (trigger-point or intradermal injection) and tendinitis (a 2022 neural therapy study in supraspinatus tendinopathy), are mechanistically more plausible and could be considered research questions instead.
 
 ## Clinical Trial Evidence
 
@@ -65,48 +64,47 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [5529388](https://pubmed.ncbi.nlm.nih.gov/5529388/) | 1970 | Case report | Acta Physiol Latino Am | Methemoglobinemia caused by intravenous procaine |
-| [705003](https://pubmed.ncbi.nlm.nih.gov/705003/) | 1978 | Case report (neonate) | Rev Esp Anestesiol Reanim | Methemoglobinemia in a newborn after subcutaneous novocaine infiltration during general anesthesia |
-| [14246695](https://pubmed.ncbi.nlm.nih.gov/14246695/) | 1965 | Case report (related agent) | Lancet | Methemoglobinemia following lignocaine |
-| [3691245](https://pubmed.ncbi.nlm.nih.gov/3691245/) | 1987 | Clinical study | Zhonghua Wai Ke Za Zhi | Effect of intravenous procaine anesthesia on methemoglobin levels (no abstract; direction of effect not verifiable) |
-| [6705717](https://pubmed.ncbi.nlm.nih.gov/6705717/) | 1984 | Review | Drugs | General review of rational use of local anesthetics |
-| [5644303](https://pubmed.ncbi.nlm.nih.gov/5644303/) | 1968 | Pharmacokinetic study | Am J Obstet Gynecol | Passage of procaine and PABA across the human placenta |
-| [6745527](https://pubmed.ncbi.nlm.nih.gov/6745527/) | 1984 | Toxicology review | Fundam Appl Toxicol | Organophosphate interactions with ester-containing drugs (indirect relevance) |
-| [5118947](https://pubmed.ncbi.nlm.nih.gov/5118947/) | 1971 | Overview | Laval Med | Local anesthetics overview (no abstract) |
+| [5529388](https://pubmed.ncbi.nlm.nih.gov/5529388/) | 1970 | Case report | Acta physiologica latino americana | Methemoglobinemia due to intravenous procaine (an adverse event, not a treatment) |
+| [14246695](https://pubmed.ncbi.nlm.nih.gov/14246695/) | 1965 | Case report | Lancet | Methemoglobinemia following lignocaine, a related local anaesthetic |
+| [6705717](https://pubmed.ncbi.nlm.nih.gov/6705717/) | 1984 | Review | Drugs | General review of the rational use of local anaesthetics |
+| [3691245](https://pubmed.ncbi.nlm.nih.gov/3691245/) | 1987 | Other | Zhonghua Wai Ke Za Zhi | Clinical observation of methemoglobin levels during intravenous procaine anaesthesia |
+| [5644303](https://pubmed.ncbi.nlm.nih.gov/5644303/) | 1968 | Other | Am J Obstet Gynecol | Placental passage of procaine and para-aminobenzoic acid (not related to treatment) |
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA050138 | BICILLIN C-R 900/300 | Injection, suspension | Not stated in the record |
-| NDA050138 | BICILLIN CR | Injection, suspension | Not stated in the record |
-| M017 | TXTK NUMB | Ointment | Not stated in the record |
-| M017 | TKTX NUMB | Ointment | Not stated in the record |
+| M017 | TXTK NUMB | Ointment | Not specified (cancelled) |
+| NDA050138 | BICILLIN C-R 900/300 | Injection, suspension | Not specified (cancelled) |
 
 ## Safety Considerations
 
-The package insert warnings, contraindications and DDI data were not retrievable, so please refer to the package insert for safety information.
+- **Contraindications flagged by the knowledge graph (not label text):** These are drug-disease contraindication links, not package-insert wording. They include:
+  - Cardiac and conduction conditions: long QT syndrome (including familial), torsades de pointes, atrioventricular block, cardiovascular and heart disease.
+  - Haematological conditions: thrombocytopenia, agranulocytosis, neutropenia (including congenital and cyclic forms).
+  - Neuromuscular conditions: myasthenia gravis and neuromuscular junction disease, butyrylcholinesterase deficiency.
+  - Organ and other conditions: kidney disease, liver disease, gallbladder disease, systemic lupus erythematosus, potassium deficiency, hypotensive disorder, *Clostridium difficile* colitis, perinatal necrotizing enterocolitis.
+- **Drug Interactions (17 records in total):**
+  - Major: nitrous acid.
+  - Moderate: sulfasalazine and other topical or ophthalmic local anaesthetics (lidocaine, benzocaine, cocaine, tetracaine, oxybuprocaine, cinchocaine).
+  - Minor: laronidase, hyaluronidase, doxorubicin (including liposomal).
+- **Allergy and adverse reactions (from the literature):** Procaine and procaine penicillin are linked to allergic contact dermatitis, pseudo-anaphylactic reactions (Hoigné's syndrome) and, rarely, anaphylaxis.
+- **Methemoglobinemia:** Procaine has been linked to inducing methemoglobinemia, so it is a safety concern for this predicted indication.
 
-Literature on this prediction does report these signals:
-- **Methemoglobinemia**: case reports after intravenous and infiltration use, including in a newborn.
-- **Hypersensitivity**: contact dermatitis is mainly reported with ester-type anesthetics such as procaine. Hoigné's syndrome (a non-allergic reaction) is reported after procaine penicillin.
+Package insert warnings and contraindications were not available for this report. Please refer to the package insert for label-based safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The evidence points to procaine causing, not treating, methemoglobinemia, and there are no trials. This prediction should not be pursued as a therapeutic candidate.
-
-Other predicted indications in the same pack look more plausible and could be reviewed as research questions. Fibromyalgia and tendinitis are consistent with procaine's local anesthetic action, and both are marked "Research Question". For tendinitis, a 2022 study of 1% procaine neural therapy in supraspinatus tendinopathy (PMID 35480510) is the most recent report. The other supporting reports are historical and uncontrolled.
+The literature suggests procaine is more likely to cause methemoglobinemia than treat it. There are no clinical trials, the supporting publications are old case reports, and the US licences are all cancelled. The high TxGNN score is not supported by mechanistic or clinical evidence.
 
 **To proceed, the following is needed:**
-- Retrieve the FDA package insert warnings and contraindications (a blocking gap for safety screening)
-- Retrieve mechanism of action data from DrugBank
-- Confirm the direction of effect in the 1987 procaine and methemoglobin study (PMID 3691245)
-- For the fibromyalgia and tendinitis leads, review the full text of the 2022 study and design a modern controlled trial
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
+- A mechanistic rationale showing how procaine could reduce methemoglobin, which is currently implausible given the reports of induction
+- Package insert warnings and contraindications for formal safety screening
+- Mechanism of action data confirmed from DrugBank
+- A decision on whether to shift attention to better-supported predictions, such as tendinitis (the 2022 neural therapy study) and fibromyalgia, which are research questions and would need controlled studies
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

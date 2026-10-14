@@ -29,70 +29,126 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-# Dexmedetomidine: From Procedural and ICU Sedation to Nephrogenic Syndrome of Inappropriate Antidiuresis
+# Dexmedetomidine: From Sedation (Approved Indication Not Listed) to Headache Disorder
 
 ## One-Sentence Summary
 
-Dexmedetomidine is a central alpha-2 adrenergic agonist, used for sedation in ICU and procedural settings.
-The TxGNN model predicts it may be effective for **nephrogenic syndrome of inappropriate antidiuresis (NSIAD)**, but there are currently **0 clinical trials** and **0 publications** supporting this direction, so this is a model prediction only.
+Dexmedetomidine is an alpha-2 adrenergic agonist, supplied in the US as an injectable product. The data compiled for this report do not include approved indication text.
+The TxGNN model predicts it may be effective for **Headache Disorder** (the best-supported of five predictions), with **4 clinical trials** and **7 publications** currently supporting this direction. The evidence is mostly limited to post-dural puncture headache (PDPH), a secondary headache.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the license records (sedation in ICU and procedural settings, per trial descriptions in the evidence pack) |
-| Predicted New Indication | Nephrogenic syndrome of inappropriate antidiuresis |
-| TxGNN Prediction Score | 99.60% |
-| Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (total licenses, including ANDAs) |
-| Recommended Decision | Hold |
+| Original Indication | Not available in the data compiled for this report (the label text is empty) |
+| Predicted New Indication | Headache disorder (best-supported prediction). The top-ranked prediction by score is nephrogenic syndrome of inappropriate antidiuresis. |
+| TxGNN Prediction Score | 99.30% for headache disorder (99.60% for nephrogenic syndrome of inappropriate antidiuresis, which has no supporting evidence) |
+| Evidence Level | L2 (headache disorder). Other predictions are L5, except migraine disorder, which is L5 with one ongoing trial. |
+| US Market Status | Cancelled only (all 13 listings are cancelled) |
+| Number of NDAs | 13 (2 NDAs and 11 ANDAs) |
+| Recommended Decision | Hold (a focused research question on PDPH is reasonable) |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the source record. Based on the analysis, dexmedetomidine is a central alpha-2 adrenergic agonist with reported effects on vasopressin release and diuresis. This is the only rationale for linking it to an antidiuresis disorder.
+Detailed mechanism of action data is not available in the data compiled for this report. Dexmedetomidine is known to be a highly selective alpha-2 adrenergic agonist with sedative, analgesic and sympatholytic effects. It is approved for ICU and procedural sedation in adults, according to the trial descriptions.
 
-That link is weak. NSIAD is caused by gain-of-function variants in the *AVPR2* gene. These variants activate the vasopressin V2 receptor independently of circulating vasopressin. A drug acting upstream in the central nervous system is therefore unlikely to help.
+For headache, the proposed rationale is that alpha-2 agonism modulates nociception and sympathetic tone. It may also reduce cerebral blood flow through cerebrovascular vasoconstriction. Nebulized or intranasal delivery allows mucosal absorption. This is plausible for PDPH, where the trials focus. It also fits migraine, where dampened noradrenergic and trigeminovascular signalling and reduced central sensitization are plausible.
 
-The high score (0.996) reflects graph proximity in the knowledge graph. No clinical or literature evidence supports it.
+The rationale does not extend equally to all predictions:
+- **Nephrogenic SIAD:** The disease is caused by gain-of-function mutations in the vasopressin V2 receptor, which act downstream of vasopressin release. Alpha-2 agonism is unlikely to correct this receptor-level defect. The high score of 99.60% is a model prediction only.
+- **Migraine with brainstem aura and trigeminal autonomic cephalalgia:** Any rationale is extrapolated from general migraine or trigeminal pathophysiology and is speculative. No trials or literature exist.
+- **Headache disorder:** The evidence applies to PDPH only, not to primary headache disorders.
+
+---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Trials for headache disorder (the best-supported prediction):
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT04910477](https://clinicaltrials.gov/study/NCT04910477) | Phase 3 | Completed | 90 | Double-blind RCT comparing nebulized dexmedetomidine, neostigmine/atropine and saline placebo for PDPH after cesarean section |
+| [NCT04327726](https://clinicaltrials.gov/study/NCT04327726) | NA | Completed | 43 | Randomized controlled study of nebulized dexmedetomidine for PDPH in parturients under spinal anesthesia |
+| [NCT06470854](https://clinicaltrials.gov/study/NCT06470854) | NA | Completed | 50 | Case-control study of nebulized dexmedetomidine versus bilateral greater occipital nerve block for PDPH |
+| [NCT03513757](https://clinicaltrials.gov/study/NCT03513757) | Phase 4 | Completed | 40 | Propofol infusion versus bolus dexmedetomidine plus propofol for pediatric MRI sedation. Headache is at most a peripheral outcome, so relevance is indirect. |
+
+Trial for migraine disorder (second-ranked prediction):
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT07769255](https://clinicaltrials.gov/study/NCT07769255) | NA | Recruiting | 146 | Randomized trial of nebulized dexmedetomidine on central sensitization and chronification in migraine, using CGRP and trigeminal neurophysiological biomarkers. No results yet. |
+
+No clinical trials are registered for nephrogenic SIAD, migraine with brainstem aura, or trigeminal autonomic cephalalgia.
+
+---
 
 ## Literature Evidence
 
-Currently no related literature available.
+Literature for headache disorder:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [41120897](https://pubmed.ncbi.nlm.nih.gov/41120897/) | 2025 | Systematic Review | BMC Anesthesiology | Meta-analysis of the efficacy and safety of nebulized dexmedetomidine for PDPH after cesarean delivery |
+| [36651373](https://pubmed.ncbi.nlm.nih.gov/36651373/) | 2023 | RCT | Minerva Anestesiologica | Double-blind RCT of nebulized dexmedetomidine versus neostigmine/atropine for PDPH after cesarean section |
+| [33993346](https://pubmed.ncbi.nlm.nih.gov/33993346/) | 2021 | RCT | Journal of Anesthesia | Randomized study of adding dexmedetomidine to conservative PDPH management, with cerebral hemodynamics assessed by transcranial Doppler |
+| [31345663](https://pubmed.ncbi.nlm.nih.gov/31345663/) | 2019 | Editorial/Commentary | International Journal of Obstetric Anesthesia | Commentary asking whether dexmedetomidine nebulization is an answer to PDPH |
+| [39799300](https://pubmed.ncbi.nlm.nih.gov/39799300/) | 2025 | Case Report | BMC Anesthesiology | Two case reports of nebulized dexmedetomidine for obstetric PDPH, including refractory cases that might otherwise need an epidural blood patch |
+
+Two further retrieved items are only tangentially related (an ADHD drug overdose review, PMID 23757186, and a posterior reversible encephalopathy syndrome case report, PMID 41700262) and are not counted as supporting evidence.
+
+No literature is available for the other four predicted indications.
+
+---
 
 ## US Market Information
 
+All 13 listings are cancelled, and none has approved indication text in the compiled data. The five main listings are:
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA212791 | Dexmedetomidine Hydrochloride (Slayback Pharma LLC) | Injection | Not listed in source data |
-| NDA021038 | Precedex (Hospira, Inc.) | Injection, solution | Not listed in source data |
-| NDA021038 | Precedex (Henry Schein, Inc.) | Injection, solution, concentrate | Not listed in source data |
-| NDA021038 | Precedex (Hospira, Inc.) | Injection, solution | Not listed in source data |
-| ANDA204843 | Dexmedetomidine (ProPharma Distribution) | Injection, solution | Not listed in source data |
+| NDA021038 | Precedex (Hospira, Inc.) | Injection, solution | Not available (cancelled) |
+| NDA206628 | Dexmedetomidine in Dextrose (WG Critical Care, LLC) | Injection | Not available (cancelled) |
+| ANDA201072 | Dexmedetomidine Hydrochloride (Fresenius Kabi USA, LLC) | Injection, solution | Not available (cancelled) |
+| ANDA208532 | Dexmedetomidine HCl in 0.9% Sodium Chloride (Baxter Healthcare Company) | Injection | Not available (cancelled) |
+| ANDA209065 | Dexmedetomidine (Avenacy Inc.) | Injection, solution, concentrate | Not available (cancelled) |
 
-All listed products are injectables.
+All products are injectables (injection, injection solution, and injection solution concentrate). The nebulized route used in the headache trials is not an approved route in the compiled data.
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindication signals from the knowledge graph (not label text):** hypertensive disorder, hypertension, kidney disease, pyoureter, liver disease, gallbladder disease, diabetes mellitus, diabetic ketoacidosis, hypotensive disorder, and atrioventricular block. These come from drug-disease contraindication edges in the TxGNN knowledge graph and need confirmation against the label.
+- **Drug interactions:** 59 interactions were found. Those with moderate severity include:
+  - Opioids and related agents: morphine (including liposomal), opium, diphenoxylate
+  - Cannabinoids: dronabinol, nabilone
+  - Vasoactive agents: papaverine, amyl nitrite, diazoxide, phentolamine
+  - Others: sibutramine, ethanol
+
+  Interactions with unknown severity include pantoprazole, lansoprazole, vancomycin, atropine, amphotericin B, potassium chloride, famotidine, and ursodeoxycholic acid.
+
+Please refer to the package insert for key warnings and formal contraindications, because these were not available in the compiled data.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trials or literature behind it (L5). The proposed mechanism is also implausible: NSIAD is driven by V2 receptor gain-of-function, so central alpha-2 agonism is unlikely to help.
+The strongest signal is for PDPH, a secondary headache: one completed Phase 3 trial (n=90), two completed RCT-type studies, and a 2025 meta-analysis. The trials are small, mostly single-center, mostly labeled NA, and the Phase 3 trial used an active comparator, so evidence is rated L2. Migraine has only one ongoing trial without results. The highest-scoring prediction, nephrogenic SIAD, has no evidence and a mechanism that conflicts with its cause. All US listings are cancelled, and the label safety data are missing.
 
 **To proceed, the following is needed:**
-- Mechanism-of-action data (DrugBank) and a mechanistic analysis specific to the AVPR2 pathway
-- FDA package insert warnings and contraindications, which are currently missing and block safety screening
-- Any preclinical or clinical signal for NSIAD, since none currently exists
-
-**Note on other predictions for this drug:** the pack's evidence is concentrated in **headache disorder** (rank 4, score 99.30%, L1, "Research Question"). It includes a Phase 3 RCT of nebulized dexmedetomidine versus neostigmine/atropine, plus one systematic review and meta-analysis. That evidence covers post-dural puncture headache only, using an off-label nebulized route, and does not generalize to other headache types. It would be a better candidate to pursue than NSIAD.
+- Package insert warnings and contraindications (a blocking data gap), and the approved indications
+- Mechanism of action data from DrugBank
+- A larger multicenter, placebo-controlled trial of nebulized dexmedetomidine in PDPH, with route and formulation suitability confirmed because current products are injectables
+- Results from the ongoing migraine trial (NCT07769255) before considering migraine
+- Review of the knowledge-graph contraindication signals (hypotension, atrioventricular block, liver and kidney disease) against the label for the target populations, such as parturients
+- No further investment in nephrogenic SIAD, migraine with brainstem aura, or trigeminal autonomic cephalalgia unless new evidence emerges
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

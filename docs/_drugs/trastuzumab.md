@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Trastuzumab
-parent: Moderate Evidence (L3-L4)
+parent: High Evidence (L1-L2)
 nav_order: 1250
-evidence_level: L3
+evidence_level: L1
 indication_count: 10
 ---
 
 # Trastuzumab
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,95 +29,115 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Trastuzumab: From HER2-Positive Breast Cancer to Normal Breast-Like Subtype of Breast Carcinoma
+# Trastuzumab: From HER2-Positive Breast Carcinoma to Progesterone-Receptor Positive Breast Cancer
 
 ## One-Sentence Summary
 
-Trastuzumab is a HER2-targeted monoclonal antibody, established in HER2-positive breast cancer.
-The TxGNN model predicts it may be effective for the **normal breast-like subtype of breast carcinoma**,
-with **12 registered clinical trials** and **1 publication** returned. Most of that evidence concerns HER2-positive disease rather than this subtype, so support is indirect.
+Trastuzumab is a HER2-targeted monoclonal antibody, originally used to treat HER2-positive breast carcinoma.
+The TxGNN model predicts it may be effective for **progesterone-receptor positive breast cancer**, with **12 clinical trials** and **20 publications** currently supporting this direction.
+This is best understood as an extension within the already established HER2-positive breast cancer indication rather than a true repurposing, because benefit depends on HER2 status, not progesterone receptor (PR) status.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Predicted New Indication | Normal breast-like subtype of breast carcinoma |
+| Original Indication | HER2 positive breast carcinoma |
+| Predicted New Indication | Progesterone-receptor positive breast cancer |
 | TxGNN Prediction Score | 99.90% |
-| Evidence Level | L3 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 13 (all listed products are BLAs) |
-| Recommended Decision | Hold |
+| Evidence Level | L1 |
+| US Market Status | Cancelled only (all 9 listings are marked cancelled) |
+| Number of NDAs | 9 (all biologics licence applications, BLAs) |
+| Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the source record. Based on known information, trastuzumab binds the extracellular domain of HER2, mediates antibody-dependent cellular cytotoxicity (ADCC) and blocks HER2 signaling. This effect is well established in HER2-positive breast cancer.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on established knowledge, trastuzumab binds the extracellular domain of HER2. This inhibits downstream signaling and engages immune-mediated killing (antibody-dependent cellular cytotoxicity). Its efficacy in HER2-positive breast cancer is well proven.
 
-"Normal breast-like" is a PAM50 molecular-subtype label, not a distinct clinical indication. The model likely scores it highly because it sits close to approved breast cancer terms in the knowledge graph. The returned trials mostly enroll HER2-positive or HER2-targeted populations. They do not show that tumors of this subtype respond to trastuzumab, so the mechanistic link here is indirect.
+PR status does not change this mechanism. Tumours that are both HER2-positive and hormone receptor-positive are an established setting for trastuzumab-based therapy, usually with endocrine therapy added. The prediction therefore mostly reflects an overlap with the approved indication. Benefit applies only to HER2-positive tumours, so patients must be selected by HER2 status. Trastuzumab has no established role in PR-positive tumours that are HER2-negative.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT04759248](https://clinicaltrials.gov/study/NCT04759248) | Phase 2 | Active, not recruiting | 55 | Atezolizumab + trastuzumab + vinorelbine in HER2-positive advanced breast cancer; cohorts defined by ER-negative or PAM50 non-luminal disease. Closest subtype overlap, but small and uncontrolled |
-| [NCT05659056](https://clinicaltrials.gov/study/NCT05659056) | Phase 2 | Recruiting | 65 | Neoadjuvant pyrotinib + trastuzumab + nab-paclitaxel in HER2-enriched early or locally advanced breast cancer |
-| [NCT01796197](https://clinicaltrials.gov/study/NCT01796197) | Phase 2 | Completed | 23 | Paclitaxel + trastuzumab + pertuzumab pre-operative therapy in inflammatory breast cancer |
-| [NCT03168880](https://clinicaltrials.gov/study/NCT03168880) | Phase 3 | Active, not recruiting | 720 | Neoadjuvant weekly paclitaxel with or without carboplatin in triple-negative breast cancer; trastuzumab's role cannot be confirmed |
-| [NCT06585969](https://clinicaltrials.gov/study/NCT06585969) | Phase 3 | Withdrawn | 0 | Trastuzumab deruxtecan (a different agent) vs CDK4/6 inhibitors; withdrawn with no participants |
-| [NCT05900206](https://clinicaltrials.gov/study/NCT05900206) | Phase 2 | Recruiting | 370 | ARIADNE: trastuzumab deruxtecan vs standard preoperative treatment in HER2-positive breast cancer, with biomarker-driven selection |
-| [NCT04750122](https://clinicaltrials.gov/study/NCT04750122) | Phase 1/2 | Recruiting | 46 | Neoadjuvant therapy guided by in vitro drug screening on patient-derived tumor-like cell clusters in HER2-positive early breast cancer |
-| [NCT04329065](https://clinicaltrials.gov/study/NCT04329065) | Phase 2 | Recruiting | 25 | WOKVAC vaccine with neoadjuvant chemotherapy and HER2-targeted antibody therapy |
-| [NCT06348134](https://clinicaltrials.gov/study/NCT06348134) | Phase 2 | Recruiting | 74 | Neoadjuvant-to-adjuvant anti-HER2 therapy in Nigerian women with HER2-positive breast cancer |
-| [NCT01670877](https://clinicaltrials.gov/study/NCT01670877) | Phase 2 | Completed | 56 | Neratinib alone or with fulvestrant in HER2-mutant, non-amplified metastatic breast cancer |
-
-Two further registered trials (NCT05582499, NCT06328387) are not listed; both are unrelated to this subtype and add no direct evidence.
+| [NCT01275677](https://clinicaltrials.gov/study/NCT01275677) | Phase 3 | Completed | 3270 | Adjuvant chemotherapy with or without trastuzumab in node-positive or high-risk node-negative breast cancer; the most direct Phase 3 evidence |
+| [NCT04629846](https://clinicaltrials.gov/study/NCT04629846) | Phase 3 | Completed | 517 | Pertuzumab biosimilar QL1209 vs pertuzumab, each with trastuzumab and docetaxel, in HER2+/ER/PR-negative disease |
+| [NCT01750073](https://clinicaltrials.gov/study/NCT01750073) | Phase 2 | Completed | 92 | Neoadjuvant paclitaxel and cyclophosphamide with or without trastuzumab |
+| [NCT00194779](https://clinicaltrials.gov/study/NCT00194779) | Phase 2 | Completed | 50 | Neoadjuvant chemotherapy sequence in HER2-positive breast cancer; supportive only |
+| [NCT02260531](https://clinicaltrials.gov/study/NCT02260531) | Phase 2 | Completed | 36 | Cabozantinib alone or with trastuzumab in breast cancer with brain metastases; small, exploratory |
+| [NCT00134680](https://clinicaltrials.gov/study/NCT00134680) | Phase 2 | Completed | 33 | Letrozole plus trastuzumab in ErbB2+ and ER/PR+ metastatic breast cancer |
+| [NCT04334330](https://clinicaltrials.gov/study/NCT04334330) | Phase 2 | Unknown | 34 | Palbociclib, trastuzumab, pyrotinib and fulvestrant for brain metastases from ER/PR+ HER2+ disease |
+| [NCT04886531](https://clinicaltrials.gov/study/NCT04886531) | Phase 2 | Recruiting | 30 | Pre-operative neratinib, endocrine therapy and trastuzumab in ER+ HER2+ cancers |
+| [NCT02152943](https://clinicaltrials.gov/study/NCT02152943) | Phase 1 | Completed | 37 | Everolimus, letrozole and trastuzumab in HR+ HER2+ advanced cancers |
+| [NCT00053339](https://clinicaltrials.gov/study/NCT00053339) | Phase 3 | Withdrawn | 0 | Trastuzumab with or without tamoxifen in HR+ HER2+ stage IV disease; no patients enrolled, so no evidence |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [19466513](https://pubmed.ncbi.nlm.nih.gov/19466513/) | 2009 | Cohort | Breast Cancer (Tokyo) | Describes morphological and cytopathological features of the basal-like subtype. It mentions "normal breast-like" only as one of five expression-profiling subtypes and has no trastuzumab efficacy data |
+| [32353342](https://pubmed.ncbi.nlm.nih.gov/32353342/) | 2020 | RCT | Lancet Oncol | monarcHER: abemaciclib plus trastuzumab, with or without fulvestrant, vs trastuzumab plus chemotherapy in HR+ HER2+ advanced breast cancer |
+| [28945833](https://pubmed.ncbi.nlm.nih.gov/28945833/) | 2017 | RCT | Ann Oncol | WSG-ADAPT HER2+/HR-: de-escalation with 12 weeks of neoadjuvant trastuzumab and pertuzumab, with or without paclitaxel |
+| [41780642](https://pubmed.ncbi.nlm.nih.gov/41780642/) | 2026 | RCT | Ann Oncol | DESTINY-Breast06: trastuzumab deruxtecan in HR+ HER2-low/-ultralow metastatic breast cancer (a different agent) |
+| [15894097](https://pubmed.ncbi.nlm.nih.gov/15894097/) | 2005 | Meta-analysis | Lancet | Overview of randomised trials of chemotherapy and hormonal therapy in early breast cancer |
+| [27179402](https://pubmed.ncbi.nlm.nih.gov/27179402/) | 2016 | Cohort | Lancet Oncol | NeoSphere 5-year analysis of neoadjuvant pertuzumab and trastuzumab in HER2+ disease |
+| [31410192](https://pubmed.ncbi.nlm.nih.gov/31410192/) | 2019 | Observational | Theranostics | Molecular portraits and trastuzumab responsiveness of ER+/PR+/HER2+ (triple-positive) breast cancer |
+| [21151204](https://pubmed.ncbi.nlm.nih.gov/21151204/) | 2011 | Review | Nat Rev Clin Oncol | HER2+/HR+ breast cancer: aromatase inhibitors plus anti-HER2 therapy as a strategy |
+| [40339592](https://pubmed.ncbi.nlm.nih.gov/40339592/) | 2025 | Phase 2a | Lancet Oncol | Zanidatamab plus palbociclib and fulvestrant in HR+ HER2+ metastatic breast cancer (a different agent) |
+| [35640077](https://pubmed.ncbi.nlm.nih.gov/35640077/) | 2022 | Guideline | J Clin Oncol | ASCO guideline update on systemic therapy for advanced HER2-positive breast cancer |
+| [39631485](https://pubmed.ncbi.nlm.nih.gov/39631485/) | 2024 | Review | Pharmacol Res | Targeted and cytotoxic inhibitors in breast cancer, organized by HER2/HR status |
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| BLA761073 | Kanjinti | Lyophilized powder for injection | Amgen, Inc |
-| BLA761091 | HERZUMA | Lyophilized powder for injection | Cephalon, Inc. |
-| BLA103792 | Herceptin | Lyophilized powder for injection | Genentech, Inc. |
-| BLA761074 | OGIVRI | Lyophilized powder for injection | Biocon Biologics Inc. |
+All nine US listings for trastuzumab products are marked as cancelled. The data compiled for this report do not include approved indication text for any of them.
 
-The source data lists 13 licenses in total and includes no approved-indication text. Kanjinti appears twice in the extract and is shown once above.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| BLA103792 | Herceptin | Injection, powder, lyophilized, for solution | Not available |
+| BLA761106 | Herceptin Hylecta | Injection, solution | Not available |
+| BLA761170 | Phesgo | Injection, solution | Not available |
+| BLA761073 | Kanjinti | Injection, powder, lyophilized, for solution | Not available |
+| BLA761081 | Trazimera | Injection, powder, lyophilized, for solution | Not available |
+
+Four further listings are not shown: HERZUMA (BLA761091), OGIVRI (BLA761074), HERCESSI (BLA761346) and Ontruzant (BLA761100).
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
 | Cytotoxicity Classification | Targeted therapy (HER2-directed monoclonal antibody), not a conventional cytotoxic |
-| Myelosuppression Risk | Low as a single agent; neutropenia mainly reflects combined chemotherapy |
+| Myelosuppression Risk | Low as a single agent; may increase when combined with chemotherapy |
 | Emetogenicity Classification | Low |
-| Monitoring Items | Cardiac function (LVEF), CBC when combined with chemotherapy, infusion-related reactions |
+| Monitoring Items | Cardiac function (left ventricular ejection fraction) before and during treatment; CBC when combined with chemotherapy; liver and renal function |
 | Handling Protection | Please refer to the package insert warnings and precautions |
-
-These entries come from general drug-class knowledge, not from the Evidence Pack.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Cardiotoxicity**: The literature compiled for this report discusses trastuzumab-related cardiotoxicity and questions how reversible it is (PMID 17687157). Cardiac monitoring is therefore advisable.
+- **Drug Interactions**: 94 interactions were recorded. Examples at **Major** level include deferiprone, samarium (153Sm) lexidronam, adalimumab and baricitinib. Examples at **Moderate** level include paclitaxel, warfarin, azathioprine, alemtuzumab, anakinra and zidovudine.
+
+Warnings and contraindications from the package insert were not available. Please refer to the package insert for these.
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Proceed with Guardrails**
 
 **Rationale:**
-The predicted indication is a molecular-subtype label, not a distinct clinical indication. No trial or publication tests trastuzumab in normal-like tumors, and the evidence reaches only L3. Trastuzumab's benefit depends on HER2 status, and the model score alone does not show that this subtype is HER2-driven.
-
-The other breast cancer predictions are hormone-receptor subgroups of the already-approved HER2-positive indication, not new repurposing. Progesterone-receptor positive (L1) and progesterone-receptor negative (L1) can proceed with guardrails, conditional on confirmed HER2 positivity. Luminal A or B has literature support only (L2), and the remaining predictions are model-only (L5) or indirect (L4) and should be held.
+A completed Phase 3 adjuvant trial with 3,270 patients (NCT01275677), plus randomised Phase 2 and Phase 3 literature, supports trastuzumab in HER2-positive disease that includes hormone receptor-positive tumours. This is an extension of the approved HER2-positive indication, so the guardrail is strict HER2 selection. Evidence cannot be extended to HER2-negative PR-positive tumours.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications, which is a blocking gap for safety screening
-- Mechanism of action data, queried from DrugBank
-- Evidence on HER2 status in normal breast-like tumors, such as PAM50 subtype versus HER2 IHC/ISH concordance
-- Trial or cohort data in a PAM50 normal-like population receiving trastuzumab
+- Mechanism of action data
+- Package insert warnings and contraindications, which are a blocking gap for safety screening
+- Confirmation of current US marketing status, since all listings show as cancelled
+- A cardiac monitoring plan and a HER2 testing requirement for patient selection
+
+---
+
+### Other Predicted Indications (Brief)
+
+- **Progesterone-receptor negative breast cancer** (score 99.90%, L1, Proceed with Guardrails): same HER2-selection caveat. Trastuzumab has no established role in triple-negative disease unless HER2 is expressed.
+- **Breast tumor luminal A or B** (score 99.90%, L2, Research Question): no trials listed. Rationale is limited to the HER2-positive luminal B subset.
+- **Normal breast-like subtype of breast carcinoma** (score 99.90%, L4, Hold): weak mechanistic rationale. The only trial is a not-yet-recruiting study of a different agent.
+- **Rare tumours** (malignant cutaneous granular cell skin tumor, ectomesenchymoma, HHV-8-related tumor, middle ear neuroendocrine tumor; scores 99.4–99.5%, L5, Hold): model prediction only, with no trials or literature.
+- **Urothelial tumours** (kidney pelvis sarcomatoid transitional cell carcinoma, prostatic urethra urothelial carcinoma; scores about 99.0%, L5, Hold): model prediction only, with HER2 expression in a subset of urothelial cancers as a plausible but untested hypothesis requiring biomarker confirmation.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

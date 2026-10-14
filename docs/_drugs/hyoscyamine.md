@@ -29,87 +29,86 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Hyoscyamine: From Original Indication (Not Listed) to Gastroduodenitis
+# Hyoscyamine: From Peptic Ulcer Disease to Gastroduodenitis
 
 ## One-Sentence Summary
 
-Hyoscyamine is an anticholinergic (muscarinic antagonist) marketed in the US as tablets, extended-release tablets, orally disintegrating tablets, an elixir and an injection. The supplied data do not list its approved indications.
-The TxGNN model predicts it may be useful for **Gastroduodenitis**, but there are currently **0 clinical trials** and **1 publication**, and that publication is not about hyoscyamine.
-This is a computational prediction only.
-
----
+Hyoscyamine is an antimuscarinic (anticholinergic) drug, originally used to treat peptic ulcer disease.
+The TxGNN model predicts it may be effective for **Gastroduodenitis**,
+but currently there are **0 registered clinical trials** and only **1 publication** (a general review with little direct relevance), so the prediction rests almost entirely on computational inference.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the supplied data (approved indication text is empty for all listed products) |
+| Original Indication | Peptic ulcer disease |
 | Predicted New Indication | Gastroduodenitis |
 | TxGNN Prediction Score | 99.59% |
-| Evidence Level | L5 (model prediction only; the only publication is an unrelated endoscopy sedation review) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no currently valid authorization) |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the DrugBank record supplied. The following is inferred from general pharmacology, not from the supplied data. Hyoscyamine is a non-selective muscarinic antagonist. Blocking muscarinic receptors reduces gastrointestinal smooth-muscle spasm and motility, and it lowers gastric acid and secretory output.
+Currently, detailed mechanism of action data is not available. Based on known information, hyoscyamine is a non-selective antimuscarinic agent. Gastric acid secretion and gastrointestinal motility and spasm are both modulated by muscarinic receptors, which is the basis of its use in peptic ulcer disease.
 
-For gastroduodenitis (inflammation of the stomach and duodenum), this gives a plausible symptomatic rationale. The drug could act as an adjunct for cramping and hypersecretion. It would not treat the underlying inflammation or its causes, such as *H. pylori* infection or NSAID use.
-
-The high TxGNN score (0.996) reflects a model-based association. It is not clinical evidence. The supplied data also give no original indication to compare against, so the similarity between the original and new indication cannot be assessed.
-
----
+Gastroduodenitis is an inflammatory condition of the same anatomical region. Reduced secretion and reduced spasm could therefore plausibly relieve symptoms. However, this link is symptomatic only: antimuscarinics do not treat the underlying inflammation or causes such as *H. pylori* infection. The high TxGNN score (0.996) is a computational prediction, not clinical evidence.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [10696836](https://pubmed.ncbi.nlm.nih.gov/10696836/) | 2000 | Review | Endoscopy | Review of premedication, sedation (e.g., propofol) and surveillance practice around endoscopy and colonoscopy. It does not address hyoscyamine or gastroduodenitis treatment, so its relevance is low. |
-
----
+| [10696836](https://pubmed.ncbi.nlm.nih.gov/10696836/) | 2000 | Review | Endoscopy | A general review of premedication, sedation (e.g., propofol), and patient surveillance for endoscopy. It does not directly evaluate hyoscyamine for gastroduodenitis. |
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| Not listed | Hyoscyamine Sulfate (ANI Pharmaceuticals) | Tablet, extended release | Not listed |
-| Not listed | Hyoscyamine Sulfate (Bryant Ranch Prepack) | Tablet | Not listed |
-| Not listed | Hyoscyamine Sulfate (Westminster Pharmaceuticals) | Tablet | Not listed |
-| Not listed | Hyoscyamine Sulfate TAB (QPharma) | Tablet | Not listed |
-| Not listed | Hyoscyamine Sulfate (Bryant Ranch Prepack) | Tablet | Not listed |
+| Not available | Hyoscyamine Sulfate (ANI Pharmaceuticals, Inc.) | Tablet, extended release | Not available (status: cancelled) |
 
-There are 20 authorizations in total. The other dosage forms on the US market are orally disintegrating tablets, an elixir and an injectable solution.
-
----
+Other dosage forms recorded for hyoscyamine include oral tablets, orally disintegrating tablets, elixir, and injectable solution.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Disease associations flagged in the knowledge graph (not label text)**: The TxGNN knowledge graph links hyoscyamine to contraindications in several conditions, including:
+  - Cardiovascular: hypertension, congestive heart failure
+  - Respiratory: chronic obstructive pulmonary disease
+  - Hepatic and renal: liver failure, liver disease, cirrhosis, hepatic coma and encephalopathy, kidney disease
+  - Gastrointestinal: gastritis, gastric ulcer
+  - Genitourinary: benign prostatic hyperplasia
+  - Metabolic: diabetes mellitus, diabetic ketoacidosis, porphyria
+  - Haematological: thrombocytopenia, neutropenia, agranulocytosis, blood coagulation disorders, haemophilia
+  - Psychiatric: anxiety disorder, substance abuse or dependence
 
----
+  Notably, gastritis and gastric ulcer appear in this list, which warrants clarification before any use in gastroduodenitis.
+
+- **Drug Interactions**: 100 interactions were recorded; the 20 reviewed are mostly Moderate, with a few Minor.
+  - Opioids: fentanyl, alfentanil, codeine, dihydrocodeine, tramadol
+  - Other anticholinergic or antimuscarinic agents: aclidinium, amitriptyline, amoxapine, amantadine
+  - Antihistamines: chlorpheniramine, acrivastine, phenyltoloxamine
+  - Others: botulinum toxin type A, phenylephrine, acebutolol, acetylcholine, ambenonium, ethanol
+  - Minor: acetaminophen, hydrochlorothiazide
+
+Package insert warnings and contraindications were not available for this report; please refer to the package insert for authoritative safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score and general anticholinergic pharmacology. There are no clinical trials, and the single retrieved publication is unrelated to the drug. Safety data are also missing, so the candidate cannot yet pass safety screening.
+The prediction has no registered clinical trials and no directly relevant literature (L5, model prediction only). The mechanism is plausible but only symptomatic, the only US authorization on record is cancelled, and the knowledge graph lists gastritis and gastric ulcer among its contraindications.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications (currently blocking safety screening)
-- The approved indications and mechanism of action from DrugBank or the labels
-- Targeted literature and trial searches on hyoscyamine or anticholinergics in gastritis and duodenitis
-- A route and formulation compatibility assessment for the proposed use
-- A check of the clinical rationale, since symptom relief alone may not justify a new indication
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data
+- A targeted literature search on antimuscarinics in gastroduodenitis or gastritis, and review of whether any trials exist
+- Clarification of the knowledge-graph gastritis and gastric ulcer contraindication signals
+- Confirmation of the regulatory pathway, given the cancelled US status, and of route and formulation compatibility
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

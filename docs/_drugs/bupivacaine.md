@@ -29,31 +29,35 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Bupivacaine: From Local Anesthesia to Acrodermatitis Chronica Atrophicans
+# Bupivacaine: From Dermatitis to Acrodermatitis Chronica Atrophicans
 
 ## One-Sentence Summary
 
-Bupivacaine is an amide local anesthetic sold in the US as an injectable solution. The TxGNN model predicts it may be effective for **acrodermatitis chronica atrophicans** (score 99.23%), but **no clinical trials and no publications** support this prediction. It is a model-only signal, and we recommend holding.
+Bupivacaine is an amide local anesthetic. In the knowledge graph used for this analysis, its original indication is recorded as dermatitis.
+The TxGNN model predicts it may be effective for **Acrodermatitis Chronica Atrophicans**, but **no clinical trials and no publications** currently support this prediction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the provided license records. Bupivacaine is a local anesthetic by drug class. |
+| Original Indication | Dermatitis (from the knowledge graph; no approved indication text is available in the US license records) |
 | Predicted New Indication | Acrodermatitis chronica atrophicans |
 | TxGNN Prediction Score | 99.23% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (total licenses, including ANDAs) |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no currently valid authorizations) |
+| Number of NDAs | 13 (all cancelled; 2 NDAs and 11 ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Bupivacaine is an amide local anesthetic that is generally understood to block voltage-gated sodium channels, which stops nerve signal conduction and produces local numbness.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, bupivacaine is an amide local anesthetic that blocks voltage-gated sodium channels.
 
-Acrodermatitis chronica atrophicans is a late-stage skin manifestation of *Borrelia* infection (Lyme disease). It is driven by chronic infection and inflammation, not by nerve conduction. We found no plausible causal link between sodium channel blockade and this disease. The high score most likely reflects closeness in the knowledge graph, not pharmacology.
+Acrodermatitis chronica atrophicans is a late skin manifestation of *Borrelia* infection (Lyme disease) and is treated with antibiotics. A local anesthetic has no plausible antimicrobial or disease-modifying role. The high TxGNN score (0.992) is a model output only. It most likely reflects the drug's link to dermatitis in the knowledge graph rather than a biological rationale.
 
-The other three top predictions are neonatal dermatomyositis (99.15%), secondary childhood interstitial lung disease associated with a connective tissue disease (99.11%), and amyopathic dermatomyositis (99.03%). All cluster around dermatomyositis and connective tissue disease, and none has trials or literature. This pattern points to a shared graph artifact, not independent pharmacological signals. At best, a local anesthetic might relieve pain symptomatically, which would not modify the disease. Neonatal use would also raise a separate safety concern for a systemically toxic anesthetic.
+The other top predictions face the same problem:
+- **Neonatal dermatomyositis** (99.15%): an immune-mediated muscle and skin disease. Bupivacaine can at most give local pain relief and is myotoxic at high concentrations, which is a concern in muscle inflammation and in neonates.
+- **Secondary childhood interstitial lung disease associated with a connective tissue disease** (99.11%): driven by immune inflammation and fibrosis, which sodium channel blockade does not address.
+- **Amyopathic dermatomyositis** (99.03%): driven by immune dysregulation. Bupivacaine has no known immunomodulatory role.
 
 ## Clinical Trial Evidence
 
@@ -65,35 +69,35 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA204842 | Bupivacaine Hydrochloride (Asclemed USA, Inc.) | Injection, solution | Not listed |
-| NDA016964 | Marcaine (Hospira, Inc.) | Injection, solution | Not listed |
-| ANDA204842 | Bupivacaine Hydrochloride (Hikma Pharmaceuticals USA Inc.) | Injection, solution | Not listed |
-| ANDA091487 | Bupivacaine Hydrochloride (Fosun Pharma USA Inc.) | Injection, solution | Not listed |
-| ANDA070590 | 0.25% Bupivacaine HCl (HF Acquisition Co LLC, DBA HealthFirst) | Injection, solution | Not listed |
+All 13 US authorizations are cancelled. The first five are listed below. The data compiled for this report contain no approved indication text for any of them.
 
-All listed products are injectables. No topical or oral formulation appears in the provided data, so route compatibility with a skin-related indication has not been assessed.
+| Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
+|---------|------|------|------|------|
+| ANDA204842 | Bupivacaine Hydrochloride | Injection, solution | Asclemed USA, Inc. | Cancelled |
+| NDA016964 | Marcaine | Injection, solution | Hospira, Inc. | Cancelled |
+| ANDA091487 | Bupivacaine Hydrochloride | Injection, solution | Fosun Pharma USA Inc. | Cancelled |
+| ANDA070590 | 0.25% Bupivacaine HCl | Injection, solution | HF Acquisition Co LLC, DBA HealthFirst | Cancelled |
+| ANDA207183 | Bupivacaine Hydrochloride | Injection, solution | A-S Medication Solutions | Cancelled |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindication signals from the knowledge graph** (not label text): hypertension, liver failure and liver disease, kidney disease, epilepsy, COPD and respiratory failure, diabetes and diabetic ketoacidosis, hypothyroidism and myxedema, coronary artery disease, myocardial infarction, atrial fibrillation, heart conduction disease, sudden cardiac arrest, hypotensive disorder, inflammatory bowel disease, benign prostatic hyperplasia, angle-closure glaucoma, hemoglobinopathy, potassium deficiency, substance abuse/dependence, and others. These come from graph relationships and should be verified against the package insert.
+- **Drug interactions**: 56 interactions are recorded. Two are rated Moderate: **aprepitant** and **liposomal morphine**. Others, such as atropine, dexamethasone, prednisone, simvastatin, ondansetron, and vancomycin, have an unrated severity.
+- Please refer to the package insert for official warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on model score alone (L5), with no trials or publications. No credible mechanism links a sodium channel blocker to a *Borrelia*-related skin disease. Standard treatment for this disease is antibiotics, which bupivacaine does not replace.
+The prediction rests on model output alone (L5). There are no clinical trials or publications, and no plausible mechanism links a local anesthetic to *Borrelia*-related skin atrophy. The drug also has no valid US authorization, and the safety data are incomplete.
 
 **To proceed, the following is needed:**
-- The package insert warnings and contraindications, which are required before any safety screening
-- Mechanism of action data from DrugBank, to support a mechanistic-link analysis
-- The approved indication text from the US label
-- Any preclinical or clinical evidence linking bupivacaine to the predicted disease
-- A route and formulation assessment (all current products are injectables)
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data to evaluate any biological link
+- Preclinical or clinical evidence for the predicted indication (none exists in the compiled data)
+- Clarification of why the knowledge graph links bupivacaine to dermatitis, and whether the other predicted indications are better candidates
+- Review of route and formulation compatibility (not yet assessed; only injectable forms exist)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

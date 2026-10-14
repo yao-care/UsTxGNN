@@ -29,34 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-# Lumateperone: From Antipsychotic Therapy to Retinal Dystrophy with or without Extraocular Anomalies
+# Lumateperone: From Schizophrenia to Retinal Dystrophy (With or Without Extraocular Anomalies)
 
 ## One-Sentence Summary
 
-Lumateperone is an oral antipsychotic marketed in the US as CAPLYTA.
-The TxGNN model predicts it may be effective for **retinal dystrophy with or without extraocular anomalies**, but this rests on the model score alone: **0 clinical trials** are registered, and none of the **15 retrieved publications** studies lumateperone.
+Lumateperone was originally used to treat schizophrenia.
+The TxGNN model predicts it may be effective for **retinal dystrophy with or without extraocular anomalies**,
+but **no clinical trials and no publications** currently support this prediction. It rests on a computational score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the available label data (drug is classed as an antipsychotic) |
+| Original Indication | Schizophrenia |
 | Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
 | TxGNN Prediction Score | 99.97% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 3 (all listings under NDA209500) |
+| US Market Status | Cancelled only |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the record. Lumateperone is an antipsychotic. It acts mainly as a 5-HT2A antagonist, a D2 receptor modulator and a serotonin reuptake inhibitor.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Lumateperone is an atypical antipsychotic. Its known pharmacology includes serotonin 5-HT2A antagonism and dopamine D2 receptor modulation, with additional serotonin transporter inhibition and glutamatergic modulation. Its efficacy in schizophrenia is the basis of its original indication.
 
-**The mechanistic link is weak.** Inherited retinal dystrophy is driven by gene defects in photoreceptors and the retinal pigment epithelium. No known pathway connects lumateperone's targets to that biology. The 99.97% score is a graph-based prediction only and cannot be cross-checked against mechanism data.
+These actions are all aimed at the central nervous system. They have no established link to the genetic causes of retinal dystrophy, which is an inherited degeneration of retinal cells. The high TxGNN score (99.97%, rank 1345) is a knowledge-graph prediction only. It does not indicate biological plausibility, so this prediction should be treated as a hypothesis, not a supported direction.
 
-The 15 retrieved papers cover general ophthalmology and orbital topics, such as congenital extraocular muscle disorders, orbital infections and lens anomalies. Based on their titles and abstracts, none evaluates lumateperone or related agents, so they are not drug-specific evidence.
-
-The other eight predictions for this drug (polymicrogyria, hydranencephaly, CMT1G, three X-linked/syndromic myopia entries, a congenital glycosylation disorder and atypical glycine encephalopathy) show the same pattern. All are L5 with no trials or literature and no identified mechanistic link. The three myopia entries have near-identical scores, which suggests correlated predictions from shared graph neighbours rather than independent evidence.
+The other predicted indications show the same pattern. These include polymicrogyria, hydranencephaly, Charcot-Marie-Tooth type 1G, X-linked and syndromic myopia, a congenital disorder of glycosylation, and atypical glycine encephalopathy. All have no trials or literature and are at evidence level L5. Retinal-dopamine involvement in eye growth (myopia) and glycine's role as an NMDA co-agonist are only weak, indirect connections.
 
 ## Clinical Trial Evidence
 
@@ -64,48 +63,41 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-No randomized trials were found. The table below lists 10 of the 15 papers, with reviews given priority. All are general disease background, and none tests lumateperone.
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [38321238](https://pubmed.ncbi.nlm.nih.gov/38321238/) | 2024 | Review | Pediatric Radiology | Differential diagnosis and imaging features of pediatric ocular pathologies (e.g., coloboma, Coats disease) |
-| [38249493](https://pubmed.ncbi.nlm.nih.gov/38249493/) | 2023 | Review | Taiwan Journal of Ophthalmology | Congenital anomalies of lens shape and associated anterior segment findings |
-| [30196776](https://pubmed.ncbi.nlm.nih.gov/30196776/) | 2018 | Review | Journal of Binocular Vision and Ocular Motility | Congenital cranial dysinnervation disorders causing ophthalmoplegia |
-| [24932988](https://pubmed.ncbi.nlm.nih.gov/24932988/) | 2014 | Review | American Journal of Ophthalmology | Pathogenesis and treatment of maculopathy with cavitary optic disc anomalies |
-| [22241537](https://pubmed.ncbi.nlm.nih.gov/22241537/) | 2012 | Review | Klinische Monatsblätter für Augenheilkunde | Congenital ptosis and its association with refractive errors |
-| [20127583](https://pubmed.ncbi.nlm.nih.gov/20127583/) | 2010 | Review | Seminars in Neurology | Systematic approach to evaluating diplopia |
-| [9416661](https://pubmed.ncbi.nlm.nih.gov/9416661/) | 1997 | Review | Seminars in Ultrasound, CT, and MR | Orbital infections, mostly secondary to sinusitis |
-| [7035111](https://pubmed.ncbi.nlm.nih.gov/7035111/) | 1981 | Review | Documenta Ophthalmologica | Wagner-Stickler syndrome complex (vitreoretinal degeneration with extraocular features) |
-| [33806565](https://pubmed.ncbi.nlm.nih.gov/33806565/) | 2021 | Observational study | International Journal of Molecular Sciences | Optic nerve head and retinal abnormalities in congenital fibrosis of the extraocular muscles |
-| [109006](https://pubmed.ncbi.nlm.nih.gov/109006/) | 1979 | Case report | American Journal of Ophthalmology | Two cases of unilateral cryptophthalmia |
+Currently no related literature available.
 
 ## US Market Information
 
-The record contains three CAPLYTA listings under one NDA, with the same manufacturer and dosage form.
-
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA209500 | CAPLYTA (Intra-Cellular Therapies, Inc) | Capsule (oral) | Not provided in the available data |
+| NDA209500 | CAPLYTA (Intra-Cellular Therapies, Inc) | Capsule (oral) | Not listed in the data compiled; status: cancelled |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No warnings or contraindications were retrieved, and no drug-drug interaction records were found.
+- **Drug Interactions**: The interaction query returned 100 records, and 20 are shown in the data compiled for this report. Several are rated **Major**:
+  - Pioglitazone
+  - Bupropion
+  - Aprepitant
+  - Morphine
+  - Dexamethasone
+  - Clarithromycin
+
+  Many others are rated Moderate. These include antidiabetic agents (acarbose, metformin, alogliptin, canagliflozin, dapagliflozin, chlorpropamide, albiglutide), anticholinergics (atropine, hyoscyamine, glycopyrronium), epinephrine, cimetidine, and bowel-preparation agents (picosulfuric acid, polyethylene glycol with electrolytes).
+
+Please refer to the package insert for warnings and contraindications, which were not available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the TxGNN score. There are no trials, no drug-specific literature and no plausible mechanism linking lumateperone's targets to retinal dystrophy. Package insert safety data are also missing, so the candidate cannot pass the first safety screen.
+The prediction is supported only by a model score. There are no clinical trials or publications, and no plausible mechanistic link between lumateperone's central neuroreceptor actions and inherited retinal degeneration. Safety label data are also missing.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (blocking gap)
-- Mechanism of action data from DrugBank
-- Preclinical or mechanistic evidence connecting lumateperone's targets to retinal biology
-- Any drug-specific studies in retinal disease, and the label-approved indications for the original-indication baseline
-- Independent review of the correlated myopia predictions before treating them as separate signals
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Mechanism of action data confirmed from DrugBank
+- FDA package insert warnings and contraindications, which are required for safety screening
+- Preclinical evidence (for example, retinal disease models) showing a biological effect
+- A clear mechanistic hypothesis connecting dopaminergic, serotonergic or glutamatergic modulation to the retinal dystrophy mechanism
+- Assessment of route and delivery feasibility, since only an oral capsule exists and the product's US authorization is cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

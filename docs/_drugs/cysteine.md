@@ -29,117 +29,100 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Cysteine: From an Unspecified Original Indication to Dry Eye Syndrome
+# Cysteine: From Bronchitis and Mucus-Related Conditions to Dry Eye Syndrome
 
 ## One-Sentence Summary
 
-Cysteine is a marketed amino acid product in the US (injectable and liquid forms), but the available regulatory data does not state its approved indication.
-The TxGNN model predicts it may be effective for **dry eye syndrome**, with **6 registered trials** (only 2 of them related to dry symptoms or ocular disease) and **20 publications** retrieved.
-Most of the clinical evidence concerns **N-acetylcysteine (NAC)** or NAC-modified polymers, not free cysteine, so the support is indirect.
-
----
+Cysteine is an amino acid used in injectable and liquid products. Its original indications in the knowledge graph include bronchitis, paracetamol poisoning, cystic fibrosis, bronchiectasis and amyloidosis.
+The TxGNN model predicts it may be effective for **dry eye syndrome**, but there are **0 clinical trials** and only **preclinical literature** in which cysteine serves mainly as a component of a delivery system or prodrug.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the available data (all approved-indication fields are empty) |
+| Original Indication | Bronchitis, paracetamol poisoning, cystic fibrosis, bronchiectasis, amyloidosis (from the knowledge graph; no approved indication text is available for the US licenses) |
 | Predicted New Indication | Dry eye syndrome |
 | TxGNN Prediction Score | 99.98% |
-| Evidence Level | L3 (the source pack labelled L2, but no completed Phase 2/3 RCT in dry eye exists, so the L2 criterion is not met; see the note in Clinical Trial Evidence) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 4 listed licenses (2 distinct NDA numbers; ELCYS appears twice, and one entry has no NDA number) |
+| Evidence Level | L4 (preclinical and mechanism studies only) |
+| US Market Status | Cancelled only (all licenses cancelled) |
+| Number of NDAs | 3 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for the original use. Based on known information, cysteine is a thiol-containing amino acid and a precursor of glutathione, a major cellular antioxidant. Mechanistically it may be applicable to conditions driven by oxidative stress.
+Currently, detailed mechanism of action data is not available. Based on known information, cysteine is a thiol-containing amino acid. Its mucolytic and antioxidant properties are consistent with its original respiratory indications and may be applicable to dry eye.
 
-Oxidative stress and inflammation on the ocular surface are recognised contributors to dry eye. Reactive oxygen species can activate NLRP3 inflammasomes in corneal epithelial cells (PMID 25701684). NAC, the acetylated form of cysteine, scavenges reactive oxygen species and is a mucolytic. This gives a plausible link to dry eye, where tear-film and mucus abnormalities are common.
+The literature compiled for this report suggests two possible links:
 
-There are three important caveats:
-- Nearly all of the ocular evidence is for NAC, chitosan-NAC conjugates or thiolated polymers, not free cysteine.
-- The marketed cysteine products are injectable or liquid, whereas the evidence relates to topical eye drops. Route compatibility has not been assessed.
-- One 2018 study (PMID 30025127) used topical NAC as a mucolytic to create a mucin-deficient dry eye animal model. Its effect on the ocular surface therefore needs careful evaluation and is not clearly beneficial.
+- **Thiol chemistry for mucoadhesion.** Cysteine provides thiol groups used in thiolated polymers (thiomers), such as thiolated chitosan. These bind mucus and improve retention on the ocular surface.
+- **Antioxidant and persulfide activity.** Excess reactive oxygen species (ROS) and NLRP3 inflammasome activation drive inflammation in dry eye. Cysteine-derived persulfide/H2S donors may counter this.
 
----
+In the retrieved studies, cysteine is a building block of a delivery system or prodrug, not a stand-alone therapy. No study tested cysteine itself as a dry eye treatment.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT04793646](https://clinicaltrials.gov/study/NCT04793646) | N/A | Completed | 60 | Randomised, double-blind, controlled trial of NAC for dryness symptoms in primary Sjögren's syndrome. Results are not in the pack. |
-| [NCT04440280](https://clinicaltrials.gov/study/NCT04440280) | Phase 2 | Recruiting | 45 | Topical NAC eye drops to reduce oxidative stress in Fuchs endothelial corneal dystrophy. A different corneal disease. |
-| [NCT01424033](https://clinicaltrials.gov/study/NCT01424033) | Phase 2/3 | Terminated | 5 | Oral NAC for connective tissue disease-related interstitial lung disease. Not an ocular indication. |
-| [NCT01064830](https://clinicaltrials.gov/study/NCT01064830) | Phase 2 | Completed | 21 | Topical cyclosporine 0.05% under occlusion for brittle nail syndrome. Does not test cysteine. |
-
-Three further retrieved trials (NCT04162210, NCT03525678, NCT03544281) are belantamab mafodotin studies in multiple myeloma, unrelated to cysteine or dry eye, and are omitted.
-
-**Note on evidence level:** no completed Phase 2/3 RCT in dry eye is registered, so L2 is not supported. The only completed randomised trial is Phase "N/A" and tests NAC in Sjögren's-related dryness.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
+The most relevant publications are listed below. All are preclinical or review-level, and no RCTs were found. Many of the 20 retrieved papers concern Sjögren's syndrome biology or are only loosely related, so they are not listed.
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [28441068](https://pubmed.ncbi.nlm.nih.gov/28441068/) | 2017 | RCT | J Ocul Pharmacol Ther | Controlled, randomised, double-blind study of chitosan-NAC eye drops on tear film thickness in dry eye syndrome. The abstract excerpt does not report results. |
-| [39360368](https://pubmed.ncbi.nlm.nih.gov/39360368/) | 2024 | RCT | Clin Exp Rheumatol | Randomised, placebo-controlled, double-blind study of NAC for dryness symptoms in Sjögren's disease. The abstract excerpt does not report results. |
-| [16334742](https://pubmed.ncbi.nlm.nih.gov/16334742/) | 2005 | Clinical comparison | Acta Med Croat | Topical acetylcysteine compared with artificial tears in dry eye. It was proposed as a mucolytic that reduces mucus accumulation. |
-| [34339721](https://pubmed.ncbi.nlm.nih.gov/34339721/) | 2022 | Review | Surv Ophthalmol | Systematic search (106 references) on topical NAC in ocular disease, covering mechanisms (mucolysis, radical scavenging), applications and adverse effects. |
-| [30025127](https://pubmed.ncbi.nlm.nih.gov/30025127/) | 2018 | Animal study | Invest Ophthalmol Vis Sci | Topical NAC was used to build a mucin-deficient dry eye model, and its effects on tears and the ocular surface were studied. |
-| [40123221](https://pubmed.ncbi.nlm.nih.gov/40123221/) | 2025 | Preclinical | Adv Mater | Eye-drop nanoformulation of catalase with cysteine-modified chitosan, designed to reduce excess ROS in dry eye. |
-| [36581034](https://pubmed.ncbi.nlm.nih.gov/36581034/) | 2023 | Preclinical | Int J Biol Macromol | Chondroitin sulfate-L-cysteine conjugate on dexamethasone lipid carriers, aimed at better corneal retention and permeability. |
-| [39842600](https://pubmed.ncbi.nlm.nih.gov/39842600/) | 2025 | Preclinical | Int J Biol Macromol | NAC-chitosan conjugate on dexamethasone lipid carriers, aimed at better permeability and lower inflammation. |
-| [24993428](https://pubmed.ncbi.nlm.nih.gov/24993428/) | 2014 | Review | J Control Release | Thiolated polymers (thiomers) have improved mucoadhesion through disulfide bonds with mucus glycoproteins. |
-| [25701684](https://pubmed.ncbi.nlm.nih.gov/25701684/) | 2015 | Mechanistic | Exp Eye Res | ROS-activated NLRP3 inflammasomes drive inflammation in hyperosmolarity-stressed corneal epithelial cells and in dry eye patients. |
-
----
+| [40123221](https://pubmed.ncbi.nlm.nih.gov/40123221/) | 2025 | Preclinical | Advanced Materials | Eye-drop nanoformulation of catalase self-assembled with cysteine-modified chitosan, designed to remove excess ROS in dry eye disease |
+| [36581034](https://pubmed.ncbi.nlm.nih.gov/36581034/) | 2023 | Preclinical | Int J Biol Macromol | Chondroitin sulfate–L-cysteine conjugate on lipid carriers improved corneal retention and permeation of dexamethasone |
+| [41485487](https://pubmed.ncbi.nlm.nih.gov/41485487/) | 2026 | Preclinical | J Control Release | Superoxide-responsive persulfide prodrug designed to eliminate ROS in dry eye |
+| [26606856](https://pubmed.ncbi.nlm.nih.gov/26606856/) | 2015 | Preclinical | Ther Deliv | Hyaluronic acid modified with cysteine ethyl ester evaluated as a mucoadhesive lubricant |
+| [24993428](https://pubmed.ncbi.nlm.nih.gov/24993428/) | 2014 | Review | J Control Release | Review of thiolated polymers (thiomers) and their improved mucoadhesion |
+| [31028759](https://pubmed.ncbi.nlm.nih.gov/31028759/) | 2019 | Review | Adv Drug Deliv Rev | Review of thiolated polymers and their disulfide bonding with mucus and membrane proteins |
+| [36626177](https://pubmed.ncbi.nlm.nih.gov/36626177/) | 2023 | Preclinical | Invest Ophthalmol Vis Sci | Aquaporin 5 deficiency worsens ROS/NLRP3-mediated pyroptosis in lacrimal glands |
+| [25701684](https://pubmed.ncbi.nlm.nih.gov/25701684/) | 2015 | Preclinical/observational | Exp Eye Res | ROS-activated NLRP3 inflammasomes drive inflammation in hyperosmolarity-stressed corneal cells and dry eye patients |
+| [24836981](https://pubmed.ncbi.nlm.nih.gov/24836981/) | 2014 | Preclinical | Exp Eye Res | ROS-activated NLRP3 inflammasomes prime inflammation in a murine dry eye model |
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA212535 | Cysteine Hydrochloride (Baxter Healthcare) | Injection | Not stated in the available data |
-| NDA210660 | ELCYS (Exela Pharma Sciences), listed twice | Injection, solution | Not stated in the available data |
-| Not listed | L-Cysteine (Professional Complementary Health Formulas) | Liquid | Not stated in the available data |
+All three US licenses are cancelled, and the data compiled for this report contain no approved indication text.
 
----
+| Authorization Number | Product Name | Dosage Form | Status |
+|---------|------|------|-----------|
+| NDA212535 | Cysteine Hydrochloride (Baxter Healthcare) | Injection | Cancelled |
+| NDA210660 | ELCYS (Exela Pharma Sciences) | Injection, solution | Cancelled |
+| Not available | L-Cysteine (Professional Complementary Health Formulas) | Liquid | Cancelled |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Package insert warnings and contraindications were not available. Please refer to the package insert for safety information.
 
----
+The knowledge graph links cysteine to the following conditions as potential contraindications. These come from graph data, not label text, and should be verified:
+
+- Peptic ulcer disease (including active peptic ulcer disease)
+- Hypotensive disorder
+- Respiratory failure
+- Asthma and bronchial disease
+- Esophageal varices
+- Phenylketonuria and other disorders of phenylalanine metabolism
+
+No drug interaction data were found.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is very high (99.98%), but the supporting clinical evidence is for NAC and NAC-conjugates rather than free cysteine. There is no completed Phase 2/3 trial in dry eye. The marketed products are injectable or liquid, not ocular. The package insert warnings and contraindications are also missing.
+The TxGNN score for dry eye is very high, but supporting evidence is limited to preclinical formulation and mechanism studies, with no clinical trials. In these studies cysteine acts as a component of a delivery system or prodrug, not as a stand-alone treatment. All US licenses are cancelled, and no label safety data are available.
+
+Other predicted indications are weaker:
+
+- **Closed-angle glaucoma and angle-closure glaucoma** (duplicate entries): the literature concerns SPARC, a cysteine-rich protein, so the link is incidental. Evidence level L5.
+- **Nasal cavity disease and pharyngitis**: only indirect support from N-acetylcysteine, a derivative. These include a 1996 small nasal resistance study in healthy volunteers and an in vitro tonsil biofilm study. Evidence level L4.
+- **Acute laryngopharyngitis and exercise-induced malignant hyperthermia**: prediction only, with no relevant evidence. Evidence level L5.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications for the marketed cysteine products
-- Original mechanism of action and approved indication data, to assess the link between the original use and dry eye
-- Extraction of results from the NAC RCTs (PMID 28441068, PMID 39360368) and NCT04793646
-- A decision on whether the dry eye candidate should really be "NAC" (an ophthalmic formulation) rather than cysteine
-- A route and formulation feasibility assessment for topical ocular delivery
-
-**Other predicted indications (all Hold):**
-
-| Indication | TxGNN Score | Evidence Level | Note |
-|------|------|------|------|
-| Closed-angle glaucoma | 99.95% | L5 | Only SPARC protein literature, likely a keyword match |
-| Nasal cavity disease | 99.88% | L4 | Only indirect NAC data (an old combination-product study) |
-| Acute laryngopharyngitis | 99.79% | L5 | No trials or publications |
-| Pharyngitis | 99.78% | L4 | Only ex vivo NAC antibiofilm data |
-| Exercise-induced malignant hyperthermia | 99.26% | L5 | No established link |
-| Angle-closure glaucoma | 99.06% | L5 | Near-duplicate of closed-angle glaucoma; should be merged |
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
+- Mechanism of action data for cysteine
+- FDA package insert warnings and contraindications, to complete the safety screen
+- Direct evidence for cysteine itself in dry eye, such as animal efficacy studies of cysteine or N-acetylcysteine eye drops
+- A decision on whether a topical ocular formulation is feasible, since the former US products were injectable or liquid and route compatibility has not been assessed
+- Confirmation of the contraindications flagged in the knowledge graph
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

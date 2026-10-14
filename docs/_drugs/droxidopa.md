@@ -29,33 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Droxidopa: From Neurogenic Orthostatic Hypotension to Variably Protease-Sensitive Prionopathy
+# Droxidopa: From Parkinson Disease–Related Orthostatic Hypotension to Variably Protease-Sensitive Prionopathy
 
 ## One-Sentence Summary
 
-Droxidopa is an oral prodrug of norepinephrine, used for symptomatic neurogenic orthostatic hypotension.
-The TxGNN model predicts it may be effective for **variably protease-sensitive prionopathy (VPSPr)**, a rare prion disease.
-Currently there are **0 clinical trials** and **0 publications** supporting this direction, so it is a model prediction only.
+Droxidopa is an oral norepinephrine precursor, originally used for orthostatic hypotension and autonomic failure associated with Parkinson disease and multiple system atrophy.
+The TxGNN model predicts it may be effective for **variably protease-sensitive prionopathy (VPSPr)**,
+but there are currently **0 clinical trials** and **0 publications** supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Neurogenic orthostatic hypotension (US label indication text is not included in the data provided) |
+| Original Indication | Parkinson disease, multiple system atrophy, postural orthostatic tachycardia syndrome, orthostatic hypotension (no approved-indication text is available from the US license records; these come from knowledge graph indication links) |
 | Predicted New Indication | Variably protease-sensitive prionopathy |
 | TxGNN Prediction Score | 99.33% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (the five listed are ANDA generics) |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 10 (all ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Droxidopa is known to be converted by DOPA decarboxylase into norepinephrine. That supports its use in neurogenic orthostatic hypotension, where it raises blood pressure symptomatically.
+Currently, detailed mechanism of action data is not available from the data compiled for this report. Based on known pharmacology, droxidopa is a synthetic precursor of norepinephrine, converted by aromatic L-amino acid decarboxylase (DOPA decarboxylase). Its established role is in the noradrenergic system, where it helps treat neurogenic orthostatic hypotension in conditions such as Parkinson disease, multiple system atrophy and related autonomic failure.
 
-VPSPr is a rare sporadic prion disease driven by misfolded prion protein aggregation and neurodegeneration. Norepinephrine replacement does not address prion misfolding, propagation, or clearance. No credible mechanistic link between droxidopa and VPSPr has been identified.
+The link to VPSPr is weak. VPSPr is a rare sporadic prion disease involving misfolded, partially protease-sensitive prion protein. Noradrenergic replacement does not target prion protein misfolding, aggregation or clearance, and no plausible mechanistic connection is documented.
 
-The high score (0.993) most likely reflects proximity in the knowledge graph, such as shared neurological or neurodegenerative neighbours, rather than a validated biological rationale. At most, droxidopa might relieve autonomic symptoms in affected patients. It would not modify the disease. Similarity to the original indication and route compatibility have not been assessed.
+The very high TxGNN score is a computational prediction, most likely driven by network proximity between droxidopa's neurodegenerative and parkinsonian indications and VPSPr in the knowledge graph. No clinical or experimental data back it. At best, droxidopa could be considered for symptomatic management of autonomic dysfunction in a prion disease patient. That would not modify the disease and is unsupported by evidence.
 
 ## Clinical Trial Evidence
 
@@ -67,34 +67,37 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA211652 | Droxidopa | Capsule | Lupin Pharmaceuticals, Inc. |
-| ANDA214387 | Droxidopa | Capsule | Aurobindo Pharma Limited |
-| ANDA211818 | Droxidopa | Capsule | Zydus Lifesciences Limited |
-| ANDA214017 | Droxidopa | Capsule | ScieGen Pharmaceuticals Inc |
-| ANDA213911 | Droxidopa | Capsule | Ascend Laboratories, LLC |
+| ANDA211652 | DROXIDOPA (Lupin Pharmaceuticals) | Capsule | Not available; status cancelled |
+| ANDA214387 | Droxidopa (Aurobindo Pharma) | Capsule | Not available; status cancelled |
+| ANDA211818 | Droxidopa (Zydus Lifesciences) | Capsule | Not available; status cancelled |
+| ANDA214017 | Droxidopa (ScieGen Pharmaceuticals) | Capsule | Not available; status cancelled |
+| ANDA213911 | Droxidopa (Ascend Laboratories) | Capsule | Not available; status cancelled |
 
-The five authorizations above are the main ones of 20 in total. All are oral capsules. Approved indication text was not available for any of them.
+Ten authorizations are listed in total (all oral capsules, all cancelled); the five above are shown as the main ones.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug interaction records were found in the queried source.
+- **Drug Interactions**: 32 interactions were identified. Those listed in the compiled data are mostly Moderate, with two Major:
+  - **Major**: Cocaine (topical), Cocaine (nasal)
+  - **Moderate** (examples): Epinephrine (including ophthalmic and topical forms), Ephedrine, Pseudoephedrine, Phenylephrine, Isometheptene, Diethylpropion, Phentermine, Fenfluramine, Mazindol, Methylene blue, Formoterol, Salbutamol, Indacaterol, Isoprenaline. Most are sympathomimetic or adrenergic agents, so additive pressor and cardiovascular effects are the main concern.
+
+Please refer to the package insert for warnings and contraindications, which were not available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on the model score alone, with no trials, no literature, and no credible mechanistic link. Droxidopa's norepinephrine-based action does not target prion pathology, so the high score is unlikely to reflect a real therapeutic opportunity.
+The prediction is model-only (evidence level L5) with no clinical trials or publications, and no plausible mechanistic link between noradrenergic replacement and prion protein pathology. The high TxGNN score alone is not enough to justify further investment. All US licenses are also cancelled, and package insert safety data are missing.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data from DrugBank, to cross-check the mechanistic assessment
-- Any preclinical or clinical evidence linking noradrenergic therapy to prion disease outcomes
-- A clearly defined symptomatic-benefit hypothesis (for example, autonomic dysfunction in VPSPr) if the direction is pursued
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Mechanism of action data (MOA) and a credible hypothesis linking droxidopa to VPSPr pathology
+- Preclinical evidence (for example, prion-infected cell or animal models) showing a disease-relevant effect
+- FDA package insert warnings and contraindications, to complete the safety screening
+- Clarification of the current regulatory and supply status, since all ANDAs are cancelled
+- Route and formulation compatibility assessment for the target population
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

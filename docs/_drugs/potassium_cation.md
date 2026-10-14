@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Potassium Cation
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1068
-evidence_level: L3
+evidence_level: L5
 indication_count: 6
 ---
 
 # Potassium Cation
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,79 +33,72 @@ Evidence Level: **L3** | Predicted Indications: **6**
 
 ## One-Sentence Summary
 
-Potassium cation is an essential electrolyte. The only US product on record is a topical sore-throat lotion, and no approved indication text is listed for it.
-The TxGNN model predicts it may be useful for **hypertensive disorder**.
-Support is thin and mostly indirect: **3 clinical trials** (dietary or salt-substitute studies, not a potassium drug product) and **several reviews**.
+Potassium cation is a generic ion/nutrient entry rather than a defined drug product, and no original approved indication is recorded for it in the data compiled for this report.
+The TxGNN model predicts it may be effective for **hypertensive disorder**, with a very high score (99.2%).
+However, there are currently **0 clinical trials** and **0 publications** supporting this prediction, so it rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated (the only listed product has no approved indication text) |
+| Original Indication | Not recorded (the only US license has no approved indication text) |
 | Predicted New Indication | Hypertensive disorder |
 | TxGNN Prediction Score | 99.20% |
-| Evidence Level | L3 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 1 |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only |
+| Number of NDAs | 1 (cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for this record, and no original indication is documented. The biology of potassium is still well known. Higher potassium intake promotes sodium excretion (natriuresis) and vasodilation, and it blunts the blood-pressure rise driven by sodium. Reviews on potassium intake and on the sodium-potassium interaction in hypertension (PMIDs 27455317 and 1986994) describe this link.
+Currently, detailed mechanism of action data is not available. Potassium cation is not a defined drug product, and its original indication is not documented in the data compiled for this report, so a direct link between an original and a new indication cannot be drawn.
 
-The evidence fits nutritional potassium, such as diet or salt substitutes, better than a pharmaceutical product. The only US product here is a topical lotion, so the route does not match. The other five predictions are not supported by the retrieved data:
+Biologically, higher dietary potassium intake is associated with lower blood pressure through increased sodium excretion (natriuresis), vasodilation and reduced sympathetic tone. This makes the hypertension prediction plausible. However, this reasoning comes from general background knowledge, not from trials or literature in the compiled data. Any repurposing claim would need to be tested on specific potassium salt formulations.
 
-- **Pulmonary hypertension (two entries):** the retrieved literature covers hypoxia in general, not potassium.
-- **Malignant hypertensive renal disease, malignant renovascular hypertension and Braddock syndrome:** these have no supporting studies. The one indirect item is a 1979 study on red-cell cation flux.
+Other predicted indications are weaker still:
+
+| Rank | Predicted Indication | TxGNN Score | Comment |
+|---|---|---|---|
+| 2 | Pulmonary hypertension owing to lung disease and/or hypoxia | 99.15% | Potassium channel biology is involved in hypoxic pulmonary vasoconstriction, but that is not the same as potassium supplementation |
+| 3 | Pulmonary hypertension with unclear multifactorial mechanism | 99.15% | Identical score to rank 2, suggesting a shared graph neighborhood rather than independent evidence |
+| 4 | Malignant hypertensive renal disease | 99.11% | Hyperkalemia risk in renal impairment likely outweighs any speculative benefit |
+| 5 | Malignant renovascular hypertension | 99.11% | Potassium disturbances here are complications to correct, not a disease-modifying mechanism |
+| 6 | Braddock syndrome | 99.01% | Very rare condition; no plausible mechanistic link evident |
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT06683430](https://clinicaltrials.gov/study/NCT06683430) | N/A | Completed | 62 | 14-day randomized trial of a high-potassium, low-sodium diet with spices and herbs (salt substitution) to lower blood pressure in older adults. Directly relevant but small. |
-| [NCT06256991](https://clinicaltrials.gov/study/NCT06256991) | Phase 4 | Recruiting | 44 | Placebo-controlled crossover trial of whether patiromer (a potassium binder) allows higher irbesartan doses in stage 3b/4 CKD, with albuminuria and blood pressure as outcomes. Indirect relevance; no results yet. |
-| [NCT02910427](https://clinicaltrials.gov/study/NCT02910427) | N/A | Completed | 291 | Potassium and/or magnesium-enriched salt in stroke patients in Taiwan. The main outcome is neurological performance, so blood-pressure relevance is indirect. |
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [27455317](https://pubmed.ncbi.nlm.nih.gov/27455317/) | 2016 | Review | Nutrients | Potassium intake, bioavailability, hypertension and glucose control. |
-| [1986994](https://pubmed.ncbi.nlm.nih.gov/1986994/) | 1991 | Review | Hypertension | Low potassium intake is linked to hypertension and stroke. Extra potassium increases sodium excretion and can block some harmful effects of sodium. |
-| [34063969](https://pubmed.ncbi.nlm.nih.gov/34063969/) | 2021 | Review | Nutrients | Potassium has an antihypertensive effect by promoting sodium excretion; management in CKD requires care. |
-| [29492706](https://pubmed.ncbi.nlm.nih.gov/29492706/) | 2018 | Not classified | Curr Cardiol Rep | Hyperkalemia risk in hypertensive patients with CKD, diabetes, heart failure or RAAS inhibitor use. |
-| [32498812](https://pubmed.ncbi.nlm.nih.gov/32498812/) | 2020 | Review | J Am Coll Cardiol | Abnormal potassium levels (high or low) in heart failure carry prognostic importance. |
-| [39604607](https://pubmed.ncbi.nlm.nih.gov/39604607/) | 2025 | Expert opinion | Heart Fail Rev | Expert panel view on managing hyperkalemia with new potassium binders. |
-| [24721891](https://pubmed.ncbi.nlm.nih.gov/24721891/) | 2015 | Review | Clin J Am Soc Nephrol | How the body regulates potassium distribution and kidney excretion. |
-| [27194424](https://pubmed.ncbi.nlm.nih.gov/27194424/) | 2017 | Review | Pediatr Nephrol | Even small shifts in serum potassium can cause serious muscle and cardiac problems. |
+Currently no related literature available.
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| Not listed | Sore Throat 911 (DelCorean, LLC) | Lotion | Not stated |
+| Not available | Sore Throat 911 (DelCorean, LLC) | Lotion | Not stated (license cancelled) |
 
 ## Safety Considerations
 
-- **Hyperkalemia:** The literature above notes a risk of high potassium in patients with CKD, diabetes or heart failure, and in those taking RAAS inhibitors. This matters for the CKD-related trial and the renal-disease prediction.
+Please refer to the package insert for safety information.
 
-Please refer to the package insert for other safety information, including warnings, contraindications and drug interactions.
+No drug interaction records were found. In the renal-related predictions (ranks 4 and 5), hyperkalemia from potassium supplementation is a clinically important concern in patients with renal impairment.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The hypertension signal is biologically plausible, but the supporting trials and reviews concern dietary potassium, not a potassium drug product. The only US product is a topical lotion with no stated indication. Package-insert safety data are missing, which blocks the safety screening step. The other five predictions have no supporting evidence.
+The prediction score is high, but the evidence level is L5 (model prediction only), with no trials, no literature, no mechanism data and no active US license. Potassium cation is a generic entry rather than a specific product, so the prediction cannot yet be turned into a testable drug candidate.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, obtained from the FDA website
-- Mechanism of action data from DrugBank
-- A defined route and formulation (oral or dietary potassium, not a topical lotion) for hypertension
-- Hyperkalemia risk assessment for CKD and RAAS-inhibitor populations
-- Larger controlled trials of potassium supplementation or salt substitution with blood pressure as the main outcome
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
+- Selection of specific potassium salt formulations (e.g., potassium chloride, potassium citrate) to evaluate
+- Package insert warnings and contraindications, which are currently missing and block safety screening
+- Mechanism of action data
+- A systematic literature search on potassium intake or supplementation and blood pressure, including any existing trials and meta-analyses
+- A renal-safety and hyperkalemia risk assessment, especially before considering any renal-related hypertensive indication
+- Route-of-administration compatibility assessment, since the only past US product was a topical lotion
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

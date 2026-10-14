@@ -29,33 +29,38 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Calaspargase Pegol: From Acute Lymphoblastic Leukemia to Insomnia
+# Calaspargase Pegol: From an Unspecified Original Indication to Insomnia
 
 ## One-Sentence Summary
 
-Calaspargase pegol is a pegylated asparaginase that depletes circulating asparagine. It is an antileukemic enzyme, and its labeled use is acute lymphoblastic leukemia (ALL) per public labeling, since the source data gives no indication text.
-The TxGNN model predicts it may be effective for **insomnia** with a very high score, but **0 clinical trials** and **0 publications** support this prediction.
-The mechanism gives no plausible basis for it, so this is a model-only signal.
+Calaspargase pegol is a pegylated asparaginase product (marketed in the US as Asparlas), and the data compiled for this report do not list an approved indication for it.
+The TxGNN model predicts it may be effective for **insomnia**, but **no clinical trials** and **no publications** support this prediction, and the biological rationale is weak.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not provided in the source data (labeled use is ALL per public labeling; not confirmed in the Evidence Pack) |
-| Predicted New Indication | Insomnia |
+| Original Indication | Not listed in the available regulatory data |
+| Predicted New Indication | Insomnia (disease) |
 | TxGNN Prediction Score | 99.80% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 1 (BLA761102) |
+| US Market Status | Cancelled only |
+| Number of NDAs | 1 (BLA761102, cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the source data. Calaspargase pegol is a pegylated asparaginase that depletes circulating asparagine. Its effect in leukemia comes from starving malignant lymphoblasts of this amino acid.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, calaspargase pegol is a pegylated asparaginase that depletes circulating asparagine and is used in acute lymphoblastic leukemia. The original indication text is missing from the regulatory record, so this description comes from drug-class knowledge rather than the label data.
 
-This mechanism has no known action on sleep-wake regulation, so we found no plausible link between the original indication and insomnia. The high score (99.80%, rank 5683) comes from graph-based inference and is not backed by any trial or literature. Because the drug's mechanism is undocumented in the input, the prediction cannot be checked against a known pathway.
+The prediction for insomnia does not have a credible mechanistic link. The drug has no known action on sleep-wake regulation or on central nervous system targets. Insomnia appears in the literature mainly as an adverse effect of asparaginase-containing regimens, largely because of corticosteroid co-medication. The very high TxGNN score (0.998) is a knowledge-graph output without supporting biological rationale and is likely an artifact.
 
-The other three top predictions (factor 5 excess with spontaneous thrombosis, heparin cofactor 2 deficiency, antithrombin deficiency type 2) look like safety-signal artifacts, not therapeutic leads. Asparaginase-class drugs are associated with thrombosis and reduced synthesis of anticoagulant proteins. The graph is probably picking up an adverse-effect association, which points in the opposite direction from benefit.
+Three other predictions were also reviewed, and all share the same problem. Each has an L5 evidence level, no trials, and no literature:
+
+| Predicted Disease | TxGNN Score | Assessment |
+|------|------|------|
+| Factor 5 excess with spontaneous thrombosis | 99.25% | Wrong direction: asparaginase lowers coagulation and anticoagulant protein synthesis and is associated with thrombosis, so it would be expected to worsen thrombotic risk |
+| Heparin cofactor 2 deficiency | 99.24% | Asparaginase reduces serpin-family anticoagulants, so the effect would mimic or worsen the deficiency |
+| Antithrombin deficiency type 2 | 99.21% | Asparaginase causes acquired antithrombin deficiency, so it would aggravate the condition rather than treat it |
 
 ## Clinical Trial Evidence
 
@@ -69,38 +74,37 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA761102 | Asparlas (Servier Pharmaceuticals LLC) | Injection, solution | Not provided in source data |
+| BLA761102 | Asparlas (Servier Pharmaceuticals LLC) | Injection, solution | Not listed (status: cancelled) |
 
 ## Cytotoxicity
 
-Asparaginase is an antineoplastic enzyme therapy, so this section applies. The Evidence Pack has no toxicity or handling data.
-
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Enzyme-based antineoplastic (asparagine depletion), not a conventional DNA-damaging cytotoxic |
+| Cytotoxicity Classification | Enzyme-based antineoplastic (asparagine-depleting agent), not a conventional DNA-damaging cytotoxic |
 | Myelosuppression Risk | Please refer to the package insert warnings and precautions |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Coagulation-related parameters (antithrombin, fibrinogen), given the thrombosis association noted above; other items per package insert |
+| Monitoring Items | Please refer to the package insert warnings and precautions. Based on the known class effects described above, coagulation parameters (antithrombin, fibrinogen) and liver function are relevant |
 | Handling Protection | Please refer to the package insert warnings and precautions |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Package insert warnings and contraindications are not available in the data compiled for this report, so please refer to the package insert for safety information.
 
-The prediction analysis notes that asparaginase products are associated with thrombosis, thought to result from reduced hepatic synthesis of anticoagulant proteins and fibrinogen. Using this drug for a sleep disorder would expose patients to this risk with no known benefit.
+- **Class-related coagulation effects**: Asparaginase therapy is associated with reduced synthesis of antithrombin, fibrinogen, and protein C/S, which raises thrombosis risk. This is especially relevant for the predicted coagulation-related indications, where it argues against repurposing.
+- **Drug Interactions**: A query found 100 interacting drugs. The 20 reviewed are all rated Moderate. They include antidiabetic agents (acarbose, alogliptin, albiglutide, metformin, pioglitazone, canagliflozin, dapagliflozin, acetohexamide, chlorpropamide), corticosteroids (hydrocortisone, dexamethasone, betamethasone, budesonide, triamcinolone), and others such as doxycycline, clarithromycin, clotrimazole, bupropion, acetylsalicylic acid, and chenodeoxycholic acid.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone (Evidence Level L5), with no trials, no literature, and no plausible mechanistic link between asparagine depletion and sleep regulation. The exposure carries serious safety concerns, notably thrombosis.
+All four predictions rest on model scores alone (L5), with no trials or literature. The insomnia prediction has no plausible mechanism, and the three coagulation-related predictions point in the opposite direction from a therapeutic effect, because the drug is known to worsen these conditions. The only US license is cancelled, and the label safety data are missing.
 
 **To proceed, the following is needed:**
-- Mechanism of action (MOA) data from DrugBank, to check whether any biological pathway connects the drug to insomnia
-- Package insert warnings and contraindications from the FDA label, which are currently missing and block safety screening
-- The approved indication text for BLA761102, to confirm the original indication
-- Any preclinical or clinical signal for insomnia; without it, deprioritize this candidate
+- Obtain the FDA package insert (warnings, contraindications, and the approved indication)
+- Obtain mechanism of action data from DrugBank
+- Provide a biological rationale for any proposed new indication before further evaluation
+- Confirm the current regulatory and supply status, since the only license is cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

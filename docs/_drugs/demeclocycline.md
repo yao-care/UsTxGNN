@@ -29,87 +29,78 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Demeclocycline: From Tetracycline Antibiotic to Chronic Ethmoidal Sinusitis
+# Demeclocycline: From Bacterial Infections to Chronic Ethmoidal Sinusitis
 
 ## One-Sentence Summary
 
-Demeclocycline is a tetracycline-class antibiotic that is marketed in the US as oral tablets. The TxGNN model predicts it may be effective for **chronic ethmoidal sinusitis**, but there are **0 clinical trials** and only **1 publication** (a disease-pathology study that does not test the drug), so the prediction rests almost entirely on the model score.
-
----
+Demeclocycline is a tetracycline-class antibiotic, originally used to treat a range of bacterial infections such as urinary tract infection, bronchitis, gonorrhea and anthrax.
+The TxGNN model predicts it may be effective for **chronic ethmoidal sinusitis**,
+but there are currently **0 clinical trials** and **0 publications** supporting this prediction, so it rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the supplied label data (tetracycline-class antibacterial) |
+| Original Indication | Bacterial infections (urinary tract infection, bronchitis, anthrax, staphylococcal infection, gonorrhea, pharyngitis, among others). The US label indication text is not available. |
 | Predicted New Indication | Chronic ethmoidal sinusitis |
 | TxGNN Prediction Score | 99.14% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 10 (all listed licenses are ANDAs, i.e., generics) |
+| US Market Status | Cancelled only (no currently valid authorizations) |
+| Number of NDAs | 2 (both cancelled; listed as ANDAs) |
 | Recommended Decision | Hold |
 
----
+Two other predictions were also generated, both with L5 evidence and a Hold recommendation:
+- Chronic rhinosinusitis (score 99.09%)
+- Paranasal sinus neoplasm (score 99.05%)
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for demeclocycline. Based on general knowledge, demeclocycline is a tetracycline-class antibiotic. A plausible but unverified link is that its antibacterial activity, together with class-level anti-inflammatory and matrix metalloproteinase (MMP)-inhibiting effects, could matter in chronic sinus inflammation and bone remodeling. None of this has been tested for demeclocycline in the supplied evidence.
+Detailed mechanism of action data is not available for this report. Based on known information, demeclocycline is a tetracycline antibiotic whose efficacy in bacterial infections of the respiratory tract and other sites is established. Mechanistically, it may be applicable to chronic sinusitis, where bacterial involvement is possible.
 
-The only linked paper (PMID 9546260) describes changes in ethmoid bone in chronic rhinosinusitis. It suggests bone is involved in the disease, but it does not evaluate demeclocycline or any tetracycline. The high TxGNN score (0.991) is a model output, not clinical evidence.
+Tetracyclines have also been reported to have anti-inflammatory and matrix metalloproteinase-inhibiting effects, which could be relevant to chronic sinus inflammation. These are hypotheses and are not supported by data compiled for this report.
 
-Two other predictions were returned:
-- **Chronic rhinosinusitis** (score 99.09%) largely overlaps with the lead indication and shares the same single reference, so the two are not independent evidence.
-- **Paranasal sinus neoplasm** (score 99.05%) has no trials or literature. It is a higher-stakes indication, and a tetracycline antibiotic would need strong preclinical and clinical support first.
-
----
+The other two predictions are weaker. Chronic rhinosinusitis shares the same rationale as ethmoidal sinusitis. The paranasal sinus neoplasm prediction is very different from the drug's anti-infective uses and likely reflects network proximity to sinus-related terms rather than a true therapeutic effect. It should not be advanced without supporting data.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [9546260](https://pubmed.ncbi.nlm.nih.gov/9546260/) | 1998 | Histology / histomorphometry study | The Laryngoscope | Compared ethmoid bone from chronic sinusitis patients with controls, assessing bone synthesis, resorption and inflammatory cells. It suggests bone is involved in the disease, but it does not study demeclocycline. |
-
----
+Currently no related literature available.
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA065425 | Demeclocycline Hydrochloride (American Health Packaging) | Tablet | Not provided in supplied data |
-| ANDA065425 | Demeclocycline Hydrochloride (Amneal Pharmaceuticals) | Tablet | Not provided in supplied data |
-| ANDA065447 | Demeclocycline Hydrochloride (Epic Pharma) | Tablet, film coated | Not provided in supplied data |
+| ANDA065425 (cancelled) | Demeclocycline Hydrochloride (American Health Packaging) | Tablet | Not available |
+| ANDA065447 (cancelled) | Demeclocycline Hydrochloride (Epic Pharma, LLC) | Tablet, film coated | Not available |
 
-Only the oral route is available. Route compatibility with the predicted indication has not been assessed.
-
----
+Both authorizations are cancelled, which limits practical feasibility for any repurposing effort.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindications (from the knowledge graph, not label text)**: kidney disease, pyoureter, *Clostridium difficile* colitis, perinatal necrotizing enterocolitis, and diabetes insipidus (including neurohypophyseal and central forms).
+- **Drug Interactions**: 100 interactions were identified; the first 20 are listed in the data compiled for this report.
+  - **Major**: Vitamin A.
+  - **Moderate**: Amoxicillin, balsalazide, and polyvalent cation products (calcium phosphate, calcium acetate, magnesium oxide, magnesium sulfate, magnesium chloride, zinc sulfate, zinc acetate, potassium citrate). Several insulin products (aspart, degludec, detemir, glargine, glulisine, human isophane, human regular, and inhaled rapid-acting) are also Moderate.
+  - **Minor**: Mannitol.
 
----
+Please refer to the package insert for full warnings and precautions, as label text was not available.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a very high model score but no clinical trials, and the single publication does not test demeclocycline. The mechanism of action and the package insert safety data are also missing, so a safety screen cannot be started.
+The prediction score is high (99.14%), but there are no clinical trials or publications, so evidence is L5 (model prediction only). Demeclocycline has no valid US marketing authorization, and safety label data and mechanism of action are missing.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (blocking gap): download and parse the FDA label
-- Mechanism of action data from DrugBank
-- Approved indication text for the existing US licenses, to define the original indication
-- Evidence that demeclocycline or tetracyclines have activity in chronic rhinosinusitis, such as preclinical, observational or clinical studies
-- A route and dose compatibility assessment for sinus disease
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data (for example, from DrugBank)
+- A literature and trial search for tetracycline-class drugs in chronic sinusitis
+- Assessment of route compatibility and whether a marketed product is available
+- Clarification of why the predicted indication sits far from the original anti-infective profile, particularly for the paranasal sinus neoplasm prediction
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

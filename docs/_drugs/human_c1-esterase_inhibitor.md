@@ -29,66 +29,98 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# HUMAN C1-ESTERASE INHIBITOR: From a Marketed C1-INH Product to Severe Nonproliferative Diabetic Retinopathy
+# Human C1-Esterase Inhibitor: From Hereditary Angioedema Prophylaxis to Severe Nonproliferative Diabetic Retinopathy
 
 ## One-Sentence Summary
 
-Human C1-esterase inhibitor (C1-INH) is a plasma-derived protein marketed in the US as the injectable product Cinryze.
-The TxGNN model predicts it may be effective for **severe nonproliferative diabetic retinopathy**, but **no clinical trials and no publications** currently support this specific prediction.
-This is a model-only prediction (L5).
+Human C1-esterase inhibitor is a plasma-derived protease inhibitor. The data compiled for this report do not list an approved indication for it.
+The TxGNN model predicts it may be effective for **severe nonproliferative diabetic retinopathy**.
+So far there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model score alone.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the supplied record |
+| Original Indication | Not stated in the available license data |
 | Predicted New Indication | Severe nonproliferative diabetic retinopathy |
 | TxGNN Prediction Score | 99.61% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 1 (BLA125267) |
+| US Market Status | Cancelled only (the single license, BLA125267, is cancelled) |
+| Number of NDAs | 1 (a BLA, not an NDA) |
 | Recommended Decision | Hold |
+
+Other predicted indications, all L5 with no supporting studies:
+
+| Rank | Predicted Indication | TxGNN Score |
+|------|------|------|
+| 2 | Primary release disorder of platelets | 99.31% |
+| 3 | Diabetic retinopathy | 99.25% |
+| 4 | Pseudo-von Willebrand disease | 99.09% |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. C1-INH is a regulator of the complement system and the plasma kallikrein-kinin contact system. On that basis, a plausible but unverified link is that it could dampen complement activation and contact-system signalling. Both pathways are implicated in retinal vascular permeability and inflammation in diabetic retinopathy.
+Detailed mechanism of action data are not available. Based on general knowledge, C1-esterase inhibitor regulates the kallikrein-kinin system, the complement cascade, and vascular permeability. This is a hypothesis and was not validated with the data compiled for this report.
 
-This link is inferred and is not supported by the supplied data. The record lists no original indication and no MOA, so the relationship between the original and predicted indications cannot be assessed. The high TxGNN score reflects knowledge-graph patterns, not tested biology.
+Plasma kallikrein activity has been implicated in retinal vascular leakage and macular edema in diabetic eye disease. If C1-esterase inhibitor dampens kallikrein-kinin and complement-driven inflammation, it could in theory affect diabetic retinopathy. The generic "diabetic retinopathy" prediction (rank 3) overlaps with the severe nonproliferative subtype (rank 1) and shares the same evidence gap.
+
+The other two predictions are weaker:
+- **Primary release disorder of platelets:** the drug acts on contact, complement, and coagulation/fibrinolytic proteases, which could in theory influence platelets. No supporting data exist, and any hemostatic effect would need careful thrombotic-risk assessment.
+- **Pseudo-von Willebrand disease:** this is a platelet GP1BA gain-of-function defect. No clear mechanistic path from C1-esterase inhibition to correcting it was identified, so the prediction is likely a network-association artifact.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
-Currently no related literature available for severe nonproliferative diabetic retinopathy.
+Currently no related literature available.
 
-Note: one indirect item exists for the broader indication *diabetic retinopathy* (rank 3 prediction): [26989329](https://pubmed.ncbi.nlm.nih.gov/26989329/) (2016, *Mediators of Inflammation*), a genetic association study of complement pathway genes (SERPING1 and C5) in 570 patients with type 2 diabetes. It supports complement-mediated inflammation as a disease mechanism, but it did not test C1-INH and is indirect evidence only.
+---
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA125267 | Cinryze (Takeda Pharmaceuticals America, Inc.) | Injection, powder, lyophilized, for solution | Not listed in the supplied record |
+| BLA125267 (cancelled) | Cinryze (Takeda Pharmaceuticals America, Inc.) | Injection, powder, lyophilized, for solution | Not stated in the available data |
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+**Drug Interactions:** 41 interactions were recorded, including 1 Major and many Moderate. Examples:
+- **Major:** Carfilzomib
+- **Moderate (androgens):** Oxandrolone, Oxymetholone, Stanozolol, Testosterone, Danazol
+- **Moderate (estrogens and hormonal agents):** Ethinylestradiol, Estradiol, Conjugated estrogens, Esterified estrogens, Diethylstilbestrol, Drospirenone
+- **Moderate (thrombolytics):** Alteplase, Anistreplase
+- **Moderate (erythropoiesis-stimulating agents):** Erythropoietin, Darbepoetin alfa
+
+Only 20 of the 41 interactions were available for review. Many of these agents carry thrombotic risk, which is relevant for a protease inhibitor of the coagulation and fibrinolytic systems.
+
+Please refer to the package insert for warnings and contraindications.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone. There are no trials or publications for this indication, and the mechanism, original indication and safety data are all missing from the record.
+All four predictions are L5: high model scores with no clinical or literature support. The only US license is cancelled, and the label's warnings and mechanism data are missing. The platelet-related predictions in particular have no plausible mechanistic basis.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data from DrugBank, to test the complement and kallikrein-kinin hypothesis
-- Preclinical or biomarker work, such as complement activation in vitreous or serum of diabetic retinopathy patients, before any clinical consideration
-- Assessment of route compatibility: Cinryze is an intravenous injectable, and the route required for retinal disease is not yet defined
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Mechanism of action data
+- A literature and preclinical review of the kallikrein-kinin link to diabetic retinopathy, beginning with the retinal indications
+- A thrombotic-risk assessment before considering any platelet-related indication
+- Clarification of the drug's approved indication and current regulatory status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

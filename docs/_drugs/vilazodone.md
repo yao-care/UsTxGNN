@@ -29,13 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Vilazodone: From Major Depressive Disorder to Dysthymic Disorder
+# Vilazodone: From Depression to Dysthymic Disorder
 
 ## One-Sentence Summary
 
-Vilazodone is an antidepressant originally used to treat major depressive disorder.
-The TxGNN model predicts it may be effective for **dysthymic disorder (persistent depressive disorder)**,
-but there are currently **0 clinical trials** and **0 publications** specific to this indication, so the prediction rests on the model alone.
+Vilazodone is an antidepressant that combines serotonin reuptake inhibition with 5-HT1A partial agonism, originally used for major depressive disorder and related depressive and anxiety conditions.
+The TxGNN model predicts it may be effective for **Dysthymic Disorder** (persistent depressive disorder).
+However, **no clinical trials and no publications** were retrieved for this specific indication, so the support is a computational prediction only.
 
 ---
 
@@ -43,57 +43,74 @@ but there are currently **0 clinical trials** and **0 publications** specific to
 
 | Item | Content |
 |------|------|
-| Original Indication | Major depressive disorder (the US license records in the dataset carry no indication text; this is taken from the mechanistic notes) |
+| Original Indication | Major depressive disorder (also unipolar depression, endogenous depression, anxiety disorder, per the knowledge graph; the US license records contain no indication text) |
 | Predicted New Indication | Dysthymic disorder |
 | TxGNN Prediction Score | 99.79% |
-| Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (the listed licenses are generic ANDAs) |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | Cancelled only (all 6 licenses are cancelled) |
+| Number of NDAs | 6 licenses in total (1 NDA and 5 ANDAs) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Vilazodone is an SSRI and a 5-HT1A partial agonist. It is approved in the US for major depressive disorder. Detailed mechanism of action data is not available from DrugBank in this dataset. The description above comes from the rationale notes and the retrieved literature.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on the literature, vilazodone is a serotonin reuptake inhibitor and a 5-HT1A receptor partial agonist. It is approved in the US for major depressive disorder in adults.
 
-Dysthymic disorder, now called persistent depressive disorder, is a chronic, lower-grade form of depression. It is biologically adjacent to major depressive disorder, and serotonergic antidepressants are widely used across the depressive spectrum. This is why the model scores the link so highly.
+Dysthymic disorder is a chronic, milder form of depression and is biologically close to major depressive disorder. A drug that works through serotonergic pathways could plausibly help in chronic depressive states as well.
 
-This is a model prediction only. No trial or publication in the dataset tests vilazodone in dysthymic disorder, and the similarity to the original indication has not yet been assessed. The score therefore shows graph-level plausibility, not demonstrated efficacy.
+The very high TxGNN score (99.79%) is a computational prediction. It is not backed by trials or publications for dysthymic disorder, so it should be treated as a hypothesis rather than as evidence of efficacy.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials registered for dysthymic disorder.
+
+For context, other predicted indications had very little trial evidence. The only trial found across the top 10 predictions was NCT01916824 (Phase 4, completed, n=53), a decision-making study in major depression listed under melancholia. It is only indirectly relevant and was not shown to involve vilazodone.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for dysthymic disorder.
+
+General vilazodone literature exists for major depression. Examples include a 2022 review (PMID 35726313, "Vilazodone for Major Depression in Adults"), which describes four positive short-term (8–10 weeks) placebo-controlled trials in adults with major depressive disorder. This supports the original indication, not the predicted one.
 
 ---
 
 ## US Market Information
 
-The dataset lists 20 licenses in total. The five main ones are shown below. None of them carries approved-indication text in the dataset.
+All six licenses are cancelled, so no valid license is currently listed. Indication text is not available in the license records.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA208200 | Vilazodone hydrochloride (Cipla USA Inc.) | Film-coated tablet | — |
-| ANDA208212 | Vilazodone Hydrochloride (Teva Pharmaceuticals, Inc.) | Film-coated tablet | — |
-| ANDA208202 | Vilazodone Hydrochloride (Alembic Pharmaceuticals Limited) | Film-coated tablet | — |
-| ANDA208228 | Vilazodone hydrochloride (Northstar Rx LLC) | Tablet | — |
-| ANDA208228 | Vilazodone hydrochloride (Apotex Corp.) | Tablet | — |
+| NDA022567 | VIIBRYD (Allergan, Inc.) | Tablet | Not listed (cancelled) |
+| ANDA208200 | Vilazodone hydrochloride (Cipla USA Inc.) | Tablet, film coated | Not listed (cancelled) |
+| ANDA208212 | Vilazodone Hydrochloride (Teva Pharmaceuticals, Inc.) | Tablet, film coated | Not listed (cancelled) |
+| ANDA208202 | Vilazodone Hydrochloride (Alembic Pharmaceuticals Limited) | Tablet, film coated | Not listed (cancelled) |
+| ANDA208228 | Vilazodone hydrochloride (Northstar Rx LLC) | Tablet | Not listed (cancelled) |
 
-All listed products are oral formulations.
+One further license (ANDA208209, Accord Healthcare Inc., tablet) is also cancelled.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. The dataset has no warnings, contraindications, or drug interaction records for vilazodone.
+**Contraindications from the knowledge graph** (derived from drug-disease relationships, not from label text): epilepsy, bipolar disorder, major affective disorder, blood coagulation disease, neuroleptic malignant syndrome, inappropriate ADH syndrome (SIADH), nephrogenic syndrome of inappropriate antidiuresis, and serotonin syndrome.
+
+**Drug Interactions:** 100 interactions were recorded. The major-level ones among those listed include:
+- Bupropion
+- Lorcaserin
+- Clarithromycin
+- Diethylpropion
+- Dolasetron
+- Palonosetron
+- Phentermine
+
+Moderate-level interactions include pioglitazone, aprepitant, morphine, acetylsalicylic acid (aspirin), dexamethasone, glimepiride and several insulins. The aspirin signal is consistent with the bleeding-related contraindication flag.
+
+Please refer to the package insert for the full warnings and contraindications.
 
 ---
 
@@ -102,17 +119,16 @@ Please refer to the package insert for safety information. The dataset has no wa
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the model score (L5). There are no trials or publications for dysthymic disorder, and the safety data are missing. Among the other predicted indications, neurotic depression and melancholia have indirect literature, but these mostly overlap with the already-approved major depressive disorder. They are better treated as terminology or subtype questions than as distinct repurposing signals.
+The prediction is biologically plausible, since dysthymic disorder is close to the approved depressive indication. However, there are no trials or publications for it, and the evidence level is L5. The predicted indication also overlaps heavily with the existing one, which limits the repurposing value.
 
 **To proceed, the following is needed:**
-- Safety data: US package insert warnings and contraindications, which currently block the S1 safety screening
-- Mechanism of action data from DrugBank to support the mechanistic-link analysis
-- A targeted search for vilazodone studies in persistent depressive disorder or dysthymia, including trial registries and publications
-- A similarity assessment between dysthymic disorder and major depressive disorder, using diagnostic criteria and clinical endpoints
+- Retrieval of the FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- A targeted search for vilazodone studies in dysthymia or persistent depressive disorder
+- Confirmation of why all US licenses are cancelled and of the current regulatory status
+- If pursued, a pilot or Phase 2 trial in persistent depressive disorder
 
----
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
+**Other predictions in the top 10:** Obsessive-compulsive disorder is the only one rated as a research question (L4). Class-level evidence supports serotonergic antidepressants in OCD, but nothing is specific to vilazodone. Neurotic depression and melancholia (L4) are relabelings or subtypes of the existing indication. Several predictions (benign paroxysmal torticollis of infancy, Keppen-Lubinsky syndrome, Ohdo syndrome) have no plausible mechanistic link and are likely graph artifacts.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

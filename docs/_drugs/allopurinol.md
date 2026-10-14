@@ -33,91 +33,69 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Allopurinol is a xanthine oxidase inhibitor marketed in the US as an oral tablet. It is generally used for gout and hyperuricemia, although the retrieved US labeling data does not state an indication.
-The TxGNN model predicts it may be effective for **hepatic porphyria**, but there are **0 clinical trials** and only **2 loosely related publications**, neither of which tests allopurinol in porphyria patients.
-Preclinical literature also hints that allopurinol could worsen porphyria instead of treating it.
-
----
+Allopurinol was originally used to treat gout, hyperuricemia and acute urate nephropathy.
+The TxGNN model predicts it may be effective for **hepatic porphyria**, but there are currently **0 clinical trials** and only **2 indirect publications** (a hypothesis paper and a rat study), and neither shows that allopurinol treats the condition.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the retrieved US labeling data (generally used for gout and hyperuricemia) |
+| Original Indication | Gout (also hyperuricemia and acute urate nephropathy, per the knowledge graph) |
 | Predicted New Indication | Hepatic porphyria |
 | TxGNN Prediction Score | 99.95% |
 | Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (includes ANDA generics) |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 14 (all cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the source record. Allopurinol is known as a xanthine oxidase inhibitor, and it is a long-established oral product with many US authorizations. Its efficacy in its usual uric-acid-related uses is well established, but that does not by itself explain a benefit in porphyria.
+Detailed mechanism of action data is not available in the data compiled for this report. Allopurinol is generally known as a xanthine oxidase inhibitor that lowers uric acid, and its efficacy in gout is well established. That mechanism has no obvious link to porphyria.
 
-The proposed link to hepatic porphyria is speculative. It runs through heme metabolism and 5-aminolevulinate synthase (ALAS), the rate-limiting enzyme of heme biosynthesis. A 2019 hypothesis paper proposes that acute hepatic porphyrias could be treated by metabolically targeting ALAS, either through tryptophan or through inhibitors of heme utilisation by tryptophan 2,3-dioxygenase. That paper does not test allopurinol.
-
-The direction of effect is unresolved. Preclinical literature on allopurinol and hepatic heme or cytochrome P450 turnover suggests it could be porphyrinogenic (capable of provoking porphyria attacks) instead of therapeutic. This should be checked before any repurposing consideration.
-
-The score of 99.95% should be read with caution. The other nine predictions for this drug are mostly at L5 (prediction only), and several liver and portal-vascular diseases share tied scores. This pattern suggests a shared knowledge-graph neighborhood and not disease-specific signals.
-
----
+The only mechanistic connection comes from older preclinical work suggesting allopurinol can affect hepatic heme metabolism (degradation of cytochrome P450 heme and perturbation of ALA synthase regulation). This effect is generally associated with **precipitating or exacerbating** porphyria rather than treating it. The retrieved literature is a hypothesis paper on targeting 5-aminolevulinate synthase and a rat study of carbamazepine, so support is indirect. The high TxGNN score reflects a knowledge-graph association and is not clinical evidence. The direction of effect may even be harmful, which needs to be clarified before any further work.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [31443750](https://pubmed.ncbi.nlm.nih.gov/31443750/) | 2019 | Hypothesis/Review | Medical Hypotheses | Proposes targeting liver ALAS by blocking heme use by tryptophan 2,3-dioxygenase, or by giving tryptophan, as a therapy for acute hepatic porphyrias. Does not test allopurinol. |
-| [1567472](https://pubmed.ncbi.nlm.nih.gov/1567472/) | 1992 | Preclinical (rat) | Biochemical Pharmacology | Very low-dose carbamazepine acted as a porphyria exacerbator in rat liver by depleting heme. Only indirectly relevant, and does not test allopurinol. |
-
----
+| [31443750](https://pubmed.ncbi.nlm.nih.gov/31443750/) | 2019 | Hypothesis/Review | Medical Hypotheses | Proposes metabolic targeting of liver 5-ALAS (via tryptophan or inhibition of heme utilisation by tryptophan 2,3-dioxygenase) as a therapy for acute hepatic porphyrias; does not study allopurinol directly |
+| [1567472](https://pubmed.ncbi.nlm.nih.gov/1567472/) | 1992 | Preclinical (animal) | Biochemical Pharmacology | Acute carbamazepine administration altered haem metabolism in rat liver, relevant to how drugs exacerbate hepatic porphyrias; not about allopurinol |
 
 ## US Market Information
 
+All 14 US authorizations are listed as cancelled; none are currently valid. Approved indication text is not available. Main authorizations:
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA214443 | Allopurinol | Tablet | Not stated in source data |
-| ANDA210117 | Allopurinol | Tablet | Not stated in source data |
-| NDA016084 | Allopurinol | Tablet | Not stated in source data |
-| ANDA018659 | Allopurinol | Tablet | Not stated in source data |
-| NDA018877 | Allopurinol | Tablet | Not stated in source data |
-
-An injectable form (lyophilized powder for solution) is also listed in the source data. The oral tablet is the main marketed form.
-
----
+| NDA016084 | Allopurinol (Rising Pharma Holdings) | Tablet | Not available |
+| NDA018877 | Allopurinol (Bryant Ranch Prepack) | Tablet | Not available |
+| NDA020298 | Aloprim (Mylan Institutional) | Lyophilized powder for injection | Not available |
+| ANDA212363 | Allopurinol (Gland Pharma) | Lyophilized powder for injection | Not available |
+| ANDA210117 | Allopurinol (Zydus Lifesciences) | Tablet | Not available |
 
 ## Safety Considerations
 
-- **Possible porphyrinogenic effect**: Preclinical literature on allopurinol and hepatic heme turnover suggests it may provoke porphyria attacks instead of relieving them. This is unconfirmed and needs review before any repurposing.
-- **Drug Interactions**: No interaction records were found in the queried source.
+- **Knowledge-graph contraindication associations** (from drug-disease edges, not label text): liver disease, gallbladder disease, impaired renal function, hypersensitivity vasculitis, cutaneous leukocytoclastic angiitis, allergic cutaneous vasculitis, and anti-glomerular basement membrane disease. The liver disease association is particularly relevant to a hepatic indication.
+- **Drug Interactions**: 100 interactions were found in total. Moderate-level interactions include aluminum hydroxide, attapulgite, kaolin, magaldrate and sucralfate. Minor-level interactions include amoxicillin and chlorpropamide. Many others (e.g., metformin, omeprazole, pantoprazole, glimepiride, morphine) have an unclassified severity level.
 
-Please refer to the package insert for other safety information.
-
----
+Please refer to the package insert for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone. There are no registered trials, and no retrieved paper tests allopurinol in porphyria. The available preclinical hints point toward possible harm, so the direction of effect is unresolved.
+The prediction is supported only by a model score and indirect preclinical or hypothesis literature, with no clinical trials. Existing mechanistic evidence suggests allopurinol may worsen rather than treat porphyria, and the knowledge graph flags liver disease as a contraindication. The other nine predicted indications (e.g., hepatoportal sclerosis, hepatopulmonary syndrome, immune-mediated necrotizing myopathy) have no trials or literature, and the phenylalanine metabolism disorder literature is off-target.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications, which block safety screening
-- Mechanism of action data from DrugBank
-- A dedicated literature review on allopurinol's effect on heme biosynthesis, ALAS and porphyria attacks, including any case reports of porphyria exacerbation
-- Preclinical or in vitro evidence that allopurinol reduces ALAS induction or heme depletion, and does not worsen it
-- Confirmation of the original US labeled indication, since the source data lists none
-
-*This report is for research reference only and is not medical advice. Repurposing candidates require clinical validation before any use.*
+- Direct evidence on whether allopurinol exacerbates or improves hepatic porphyria (preclinical and case reports)
+- Mechanism of action data
+- FDA package insert warnings and contraindications, to complete safety screening
+- Confirmation of current US marketing status, since all listed licenses are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

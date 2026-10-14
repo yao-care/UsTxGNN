@@ -29,89 +29,71 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-# Rutin: From an Unspecified Original Indication to Breast Fibrocystic Disease
+# Rutin: From Ascorbic Acid Deficiency (Scurvy) to Breast Fibrocystic Disease
 
 ## One-Sentence Summary
 
-Rutin is a plant flavonoid, and the provided US regulatory data does not state an approved indication for it.
-The TxGNN model predicts it may be effective for **breast fibrocystic disease** (score 99.74%),
-but there are currently **0 clinical trials** and **0 publications** supporting this direction, so it is a model prediction only.
-
----
+Rutin is a flavonoid compound whose original indications in the knowledge graph are ascorbic acid deficiency and scurvy.
+The TxGNN model predicts it may be effective for **breast fibrocystic disease**,
+but currently there are **0 clinical trials** and **0 publications** supporting this prediction, so it remains a computational prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the provided regulatory data |
+| Original Indication | Ascorbic acid deficiency, scurvy (from the knowledge graph; no approved indication text is available in the US license records) |
 | Predicted New Indication | Breast fibrocystic disease |
 | TxGNN Prediction Score | 99.74% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 4 license records (see the note under US Market Information) |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only |
+| Number of NDAs | 3 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Rutin is a flavonoid with reported antioxidant, anti-inflammatory and vascular-protective properties. These properties could plausibly bear on inflammation in benign breast tissue, but this link is speculative.
+Currently, detailed mechanism of action data is not available. Based on known information, rutin is a flavonoid with reported antioxidant and vascular-protective (capillary fragility) properties. This could plausibly relate to inflammation or microvascular changes in breast tissue, but this link is speculative.
 
-No original indication is documented in the provided data, so the relationship between an established use and the predicted one cannot be assessed. The score likely reflects proximity in the TxGNN knowledge graph rather than independent evidence.
+The high TxGNN score is a computational prediction only. Several other benign breast conditions also appear among the top predictions (apocrine adenosis, blunt duct adenosis, benign mammary dysplasia, fat necrosis of breast), and their identical or near-identical scores suggest they share the same underlying graph signal rather than independent lines of evidence. No clinical trials or publications support any of them.
 
-Several other top predictions are closely related benign breast conditions:
-
-- Apocrine adenosis of breast (99.64%) and blunt duct adenosis of breast (99.64%) have identical scores, which suggests a shared knowledge-graph neighborhood.
-- Benign mammary dysplasia (99.42%) is essentially a synonym-level cluster with fibrocystic disease, so it does not add independent support.
-- Lower-ranked predictions are vulvovaginal candidiasis, breast abscess, fat necrosis of breast and vaginitis. None has trial or supporting literature evidence, and established treatments exist for several of them.
-
----
+Other predicted indications include vulvovaginal candidiasis, breast abscess and vaginitis. Flavonoids have some reported in vitro antifungal and anti-inflammatory activity, but nothing in the data compiled for this report supports this for rutin specifically. The two publications retrieved for vaginitis concern plant extracts in rat models of polycystic ovarian syndrome, not rutin and not vaginitis, so they offer no meaningful support.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-Currently no related literature available for breast fibrocystic disease.
-
----
+Currently no related literature available.
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| Not assigned in data | Rutin (Professional Complementary Health Formulas) | Liquid | Not stated |
-| NDA219685 | WAYRILZ (Genzyme Corporation) | Tablet, film coated | Not stated |
-| NDA216059 | JAYPIRCA (Eli Lilly and Company), listed twice | Tablet, coated | Not stated |
+| NDA219685 | WAYRILZ | Tablet, film coated | Not specified (status: cancelled) |
+| NDA216059 | JAYPIRCA | Tablet, coated | Not specified (status: cancelled) |
+| Not available | Rutin (Professional Complementary Health Formulas) | Liquid | Not specified (status: cancelled) |
 
-**Note:** WAYRILZ and JAYPIRCA are branded products of other drugs. They may be mapping artifacts and should be checked before the "Marketed" status is relied on. Only the liquid Rutin product is clearly a rutin product, and it has no NDA number in the data.
-
----
+All three authorizations are cancelled, and no approved indication text is recorded for any of them.
 
 ## Safety Considerations
 
-- **Drug Interactions**: No interaction records were found (query status: not found).
+- **Knowledge-graph contraindication signals** (these come from the TxGNN knowledge graph, not from label text): sickle cell anemia, hereditary persistence of fetal hemoglobin, primary hyperoxaluria, hereditary hemochromatosis, hemosiderosis, iron metabolism disease, Wilson disease.
 
-Please refer to the package insert for other safety information.
-
----
+Please refer to the package insert for further safety information, including warnings and drug interactions.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score, with no clinical, preclinical or literature support for breast fibrocystic disease. The mechanism of action and original indication are unavailable, and the US license records are unreliable for rutin.
+The prediction is supported only by the TxGNN model score (L5). There are no clinical trials or relevant publications, the mechanism of action is unavailable, and all US authorizations are cancelled. Label-based safety information is also missing, which blocks safety screening.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, currently a blocking gap for safety screening
-- Mechanism of action data, for example from DrugBank
-- Verification of which US products actually contain rutin, and their approved indications
-- A literature and trial search specific to rutin in benign breast disease, to move beyond L5
-- A route-of-administration compatibility check (currently pending)
+- FDA package insert warnings and contraindications (download and parse the label)
+- Mechanism of action data (for example, from DrugBank)
+- Targeted literature search on rutin or quercetin-glycoside use in benign breast disease
+- Preclinical or early clinical evidence for the predicted indication
+- Route and formulation compatibility assessment for the predicted indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

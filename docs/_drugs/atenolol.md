@@ -29,85 +29,75 @@ Evidence Level: **L4** | Predicted Indications: **9**
 
 </div>
 
-# Atenolol: From Beta-Blocker Therapy to Posteroinferior Myocardial Infarction
+# Atenolol: From Hypertension to Posteroinferior Myocardial Infarction
 
 ## One-Sentence Summary
 
-Atenolol is an oral beta-1 blocker marketed in the United States under one brand-name NDA and multiple generic ANDAs. The TxGNN model predicts it may be effective for **posteroinferior myocardial infarction**, but only **0 clinical trials** and **1 publication** (a 1985 crossover study) are linked to this indication. The current label may already cover myocardial infarction, so this may not be a true repurposing case.
-
----
+Atenolol is a beta-blocker originally used to treat hypertension and myocardial infarction.
+The TxGNN model predicts it may be effective for **posteroinferior myocardial infarction**,
+but there are currently **0 registered clinical trials** and only **1 relevant publication** (a small 1985 study), so the evidence is weak. This prediction is mainly a subtype of an indication atenolol already has, not true repurposing.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the available regulatory data (approved indication text is blank for all retrieved licenses) |
+| Original Indication | Hypertension, myocardial infarction (from the knowledge graph; no approved indication text is available in the US license records) |
 | Predicted New Indication | Posteroinferior myocardial infarction |
 | TxGNN Prediction Score | 99.87% |
 | Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (the 5 licenses shown are 1 NDA and 4 ANDAs) |
+| US Market Status | Cancelled only (all licenses cancelled) |
+| Number of NDAs | 8 (1 NDA and 7 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, atenolol is a beta-1 selective adrenergic blocker. Beta-1 blockade lowers heart rate, contractility and myocardial oxygen demand, and beta-blockers are established in the myocardial infarction (MI) setting. This makes an anti-ischemic effect after a posteroinferior MI mechanistically plausible.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, atenolol is a beta-1 selective blocker. It lowers heart rate, myocardial oxygen demand and arrhythmia risk, and its efficacy in myocardial infarction and hypertension is already established.
 
-The original indication field is empty, so the relationship between the original and new indication cannot be assessed. The current label should be checked first, because MI may already be covered.
+Posteroinferior myocardial infarction is a anatomical subtype of myocardial infarction, which is already one of atenolol's known indications. The high TxGNN score therefore mostly reflects how close this disease is to the approved indication in the knowledge graph. It does not reflect new subtype-specific evidence.
 
-The only supporting literature is a 1985 randomized crossover study of anti-ischemic activity. Its focus appears to be exercise-induced ischemia rather than MI outcomes, so it is indirect evidence. The TxGNN score is very high, but the same score was assigned to posterolateral MI, so it mainly reflects proximity in the knowledge graph.
-
----
+The only supporting publication is a small, old, single-blind crossover study that compared atenolol and diltiazem on anti-ischemic activity. It is not an outcome trial in posteroinferior infarction.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [3901170](https://pubmed.ncbi.nlm.nih.gov/3901170/) | 1985 | RCT (single-blind, crossover; inferred from title) | La Revue de medecine interne | Compared the anti-ischemic activity of atenolol 200 mg and diltiazem 240 mg in 23 patients 4 weeks after a limited postero-inferior or anterior MI. Each patient had a placebo exercise test and one test per randomized drug. The abstract is truncated, so results are not available. |
-
----
+| [3901170](https://pubmed.ncbi.nlm.nih.gov/3901170/) | 1985 | RCT (small, single-blind crossover) | La Revue de medecine interne | Atenolol 200 mg and diltiazem 240 mg were compared on anti-ischemic activity in 23 patients 4 weeks after a limited postero-inferior or anterior myocardial infarction, using computerized bicycle exercise tests. It is an ischemia-focused study, not a clinical outcome trial. |
 
 ## US Market Information
 
-Five of 20 authorizations are shown. Indication text is not provided in the source data.
-
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA018240 | TENORMIN | Tablet | Not provided in source data |
-| ANDA077443 | atenolol | Tablet | Not provided in source data |
-| ANDA074056 | Atenolol | Tablet | Not provided in source data |
-| ANDA078512 | Atenolol | Tablet | Not provided in source data |
-| ANDA076900 | Atenolol | Tablet | Not provided in source data |
+| NDA018240 | TENORMIN (Upsher-Smith Laboratories) | Tablet | Not available; status cancelled |
+| ANDA074056 | Atenolol (QPharma) | Tablet | Not available; status cancelled |
+| ANDA073457 | Atenolol (Mylan Pharmaceuticals) | Tablet | Not available; status cancelled |
+| ANDA076900 | Atenolol (A-S Medication Solutions) | Tablet | Not available; status cancelled |
+| ANDA077443 | Atenolol (Direct Rx) | Tablet | Not available; status cancelled |
 
----
+All 8 US licenses for atenolol are cancelled; the five main ones are shown above.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Disease-level contraindication signals (from the knowledge graph, not label text)**: Atenolol is linked to contraindications or cautions in asthma (including intrinsic and allergic asthma), atrioventricular block, Raynaud disease, anaphylaxis, diabetes mellitus (type 1, type 2, diabetic ketoacidosis), liver failure, pancreatitis, systemic lupus erythematosus, psoriasis, gout and hyperuricemia, anuria, hypercalcemia and nephrocalcinosis, potassium deficiency, anxiety and related neurotic disorders, and dysthymic disorder.
+- **Drug Interactions**: 100 interactions were found in total. The first 20 listed are mostly Moderate, including epinephrine, hydrocortisone and other corticosteroids (triamcinolone, betamethasone, budesonide), hyoscyamine, atropine, bupropion, morphine, acetohexamide, and calcium salts (acetate, carbonate, citrate, gluconate, lactate and others). Minor ones include acetylsalicylic acid, aluminum hydroxide and attapulgite.
 
----
+Please refer to the package insert for label warnings and contraindications, which were not available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The mechanism is plausible, but there are no registered trials for this indication. The only publication is a small 1985 study that appears to measure exercise-induced ischemia rather than MI outcomes. The current label is also unverified, so this may not be a genuine repurposing case. The seven other predictions (posterolateral MI, septal MI, malignant hypertension subtypes, pulmonary hypertension subtypes, Braddock syndrome, chronic pulmonary heart disease) also have no direct evidence. The pulmonary ones raise a beta-blockade safety concern.
+The prediction is a subtype of atenolol's existing myocardial infarction indication, so it adds little as a true repurposing opportunity. Evidence is limited to one small 1985 study without outcome data, there are no clinical trials, and all US licenses are cancelled.
 
 **To proceed, the following is needed:**
-- Confirm the current US label indications, especially whether MI is already covered
-- Retrieve the full text of PMID 3901170 and confirm its endpoints and results
-- Search for MI-specific evidence for atenolol (randomized trials, meta-analyses, guidelines)
-- Obtain the package insert warnings and contraindications
-- Obtain detailed mechanism of action data (MOA) from DrugBank
+- Package insert warnings and contraindications from the FDA (blocking for safety screening)
+- Mechanism of action data (e.g., from DrugBank)
+- Subtype-specific clinical outcome data for posteroinferior myocardial infarction
+- Clarification of the commercial path, given that no US license is currently active
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

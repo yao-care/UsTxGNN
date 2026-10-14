@@ -29,32 +29,35 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Tapentadol: From Pain Management to Migraine Disorder
+# Tapentadol: From an Unspecified Original Indication to Migraine Disorder
 
 ## One-Sentence Summary
 
-Tapentadol is an oral opioid analgesic marketed in the United States as immediate-release and extended-release tablets.
-The TxGNN model predicts it may be effective for **migraine disorder**, but this is a model prediction only, with **0 clinical trials** and **2 loosely related publications**, neither of which studies tapentadol.
+Tapentadol is an opioid analgesic. The data compiled for this report do not list a specific approved indication for it.
+The TxGNN model predicts it may be effective for **migraine disorder**, but there are currently **0 clinical trials** and **no directly supporting publications**.
+The prediction is model-based only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Pain management (opioid analgesic; the license records provide no indication text) |
+| Original Indication | Not available in the compiled data (the approval records contain no indication text) |
 | Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 99.67% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 11 |
+| US Market Status | Cancelled only (all 3 authorizations cancelled) |
+| Number of NDAs | 3 (1 ANDA and 2 NDAs, all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in DrugBank for this drug. Based on known pharmacology, tapentadol is a mu-opioid receptor agonist and norepinephrine reuptake inhibitor. Any link to migraine would rest on central pain modulation, and that link is speculative.
+Detailed mechanism of action data is not available in the compiled data. Based on general pharmacology, tapentadol is a mu-opioid receptor agonist that also inhibits norepinephrine reuptake. Both actions modulate central pain pathways, which gives a plausible but unverified link to migraine pain.
 
-The high TxGNN score (0.997) reflects proximity in the knowledge graph, not drug-specific evidence. The mechanism does not support a favorable hypothesis either. Opioids are generally discouraged for migraine because of medication-overuse headache, chronification and poor efficacy.
+The prediction should be interpreted cautiously. The high TxGNN score reflects network proximity in a knowledge graph, not clinical evidence. Opioids are generally not recommended for routine migraine treatment because of the risks of medication-overuse headache, chronification, and dependence. This link rests on general pharmacology, not on data supplied for this report.
 
-The model also ranked two related entities. "Migraine with brainstem aura" (99.57%) is a rare subtype with no trials or literature. "Migraine with or without aura, susceptibility to" (99.08%) is a genetic susceptibility entity rather than a treatable indication. Its retrieved literature concerns epilepsy and migraine genetics and does not mention tapentadol. Neither strengthens the case.
+The two other predictions are weaker still:
+- **Migraine with brainstem aura** (score 99.57%): no trials or literature. It likely reflects the same network proximity as the parent migraine term, and no subtype-specific rationale is supported.
+- **Migraine with or without aura, susceptibility to** (score 99.08%): this term describes genetic susceptibility, not a directly treatable condition, so the prediction is likely driven by network association.
 
 ## Clinical Trial Evidence
 
@@ -62,41 +65,54 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
+No literature is currently available for the top prediction (migraine disorder). Two publications were linked to the related term "migraine with or without aura, susceptibility to". Neither provides evidence of tapentadol efficacy.
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [27096438](https://pubmed.ncbi.nlm.nih.gov/27096438/) | 2016 | Review | Cochrane Database Syst Rev | Updated review of sumatriptan plus naproxen for acute migraine in adults. Does not involve tapentadol. |
-| [27096578](https://pubmed.ncbi.nlm.nih.gov/27096578/) | 2016 | Review | Cochrane Database Syst Rev | Review of single-dose dipyrone (metamizole) for acute postoperative pain. Migraine is only mentioned as one use of dipyrone, and tapentadol is not studied. |
-
-Both papers are general background on migraine or analgesic treatment, so they offer no direct support for tapentadol in migraine.
+| [33689517](https://pubmed.ncbi.nlm.nih.gov/33689517/) | 2021 | Review | Expert Opinion on Pharmacotherapy | Reviews whether NSAIDs and acetaminophen can replace opioids for acute pain, amid the opioid overdose crisis. Not specific to migraine or tapentadol. |
+| [29760569](https://pubmed.ncbi.nlm.nih.gov/29760569/) | 2018 | Cohort | Drug, Healthcare and Patient Safety | Opioids are not recommended for routine migraine treatment because of medication-overuse headache and dependence risks. Describes the FDA's 2016 warning on serotonin syndrome when opioids are combined with triptans or serotonergic antidepressants (SSRIs/SNRIs). |
 
 ## US Market Information
 
+All three US authorizations are cancelled, and no indication text is recorded for them.
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA022304 | Nucynta (Collegium) | Film-coated tablet | Not provided in the license records |
-| NDA200533 | Nucynta (Collegium) | Film-coated extended-release tablet | Not provided in the license records |
-| ANDA214378 | Tapentadol Hydrochloride (Epic Pharma) | Film-coated tablet | Not provided in the license records |
-
-All routes are oral. The Evidence Pack lists 11 licenses in total, but only 5 records were returned, and duplicate entries are merged above.
+| ANDA214378 | Tapentadol Hydrochloride (Epic Pharma) | Film-coated tablet | Not recorded (cancelled) |
+| NDA022304 | Nucynta (Collegium) | Film-coated tablet | Not recorded (cancelled) |
+| NDA200533 | Nucynta (Collegium) | Film-coated extended-release tablet | Not recorded (cancelled) |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+**Drug Interactions**: The interaction query returned 100 interacting drugs in total. Major-level interactions among those listed include:
+- Bupropion
+- Morphine
+- Lorcaserin
+- Diethylpropion
+- Dolasetron
+- Palonosetron
+- Phentermine
+
+Moderate-level interactions include epinephrine, hyoscyamine, atropine, glycopyrronium, dicyclomine, naloxone, eluxadoline, dronabinol, and nabilone.
+
+For migraine specifically, the literature highlights a serotonergic interaction risk when opioids are used with triptans or SSRIs/SNRIs. Tapentadol's norepinephrine reuptake inhibition adds to this consideration.
+
+Please refer to the package insert for warnings and contraindications, which were not available in the compiled data.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is model-only (L5), with no trials and no tapentadol-specific literature. The opioid mechanism and known migraine-treatment concerns (medication-overuse headache, chronification) argue against a favorable repurposing hypothesis.
+The prediction is model-based only (L5), with no clinical trials and no literature showing tapentadol efficacy in migraine. Opioids are not recommended for routine migraine care, and all US authorizations are cancelled. The serotonergic interaction signal adds further concern.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, which are required before any safety screening
-- Detailed mechanism of action data from DrugBank
-- Preclinical or clinical evidence that tapentadol has a role in migraine, and a rationale that addresses medication-overuse headache
-- Confirmation that the prediction is a real treatment hypothesis and not a graph-proximity artifact
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- FDA package insert warnings and contraindications (currently a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- Original approved indication, which is missing from the authorization records
+- Preclinical or clinical evidence of tapentadol efficacy in migraine
+- Assessment of medication-overuse headache and dependence risk against existing migraine therapies
+- Route and formulation compatibility assessment, since all current oral products are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

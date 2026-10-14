@@ -29,13 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Isavuconazonium: From Antifungal Therapy to Pneumocystosis
+# Isavuconazonium: From Invasive Fungal Infections (Aspergillosis and Related Mycoses) to Pneumocystosis
 
 ## One-Sentence Summary
 
-Isavuconazonium (marketed in the US as CRESEMBA) is an azole antifungal, but the approved indication text was not provided in the Evidence Pack.
-The TxGNN model predicts it may be effective for **pneumocystosis**, but there are **0 clinical trials** and **0 publications** supporting this prediction.
-It rests on the model score alone, and the biological link is weak, so this is a **Hold** candidate.
+Isavuconazonium is a triazole antifungal prodrug (of isavuconazole), originally used for invasive fungal infections such as aspergillosis and mucormycosis (zygomycosis).
+The TxGNN model predicts it may be effective for **pneumocystosis**, but the mechanistic rationale is weak, and **0 clinical trials** and **0 publications** currently support this prediction.
+The second-ranked prediction, **mycetoma**, is biologically more plausible, but its only support is **1 indirect review**.
 
 ---
 
@@ -43,52 +43,65 @@ It rests on the model score alone, and the biological link is weak, so this is a
 
 | Item | Content |
 |------|------|
-| Original Indication | Not provided (approved indication text is empty in all NDA records) |
+| Original Indication | Aspergillosis, white piedra, black piedra, coccidioidomycosis, sporotrichosis, histoplasmosis, zygomycosis (from the knowledge graph; US label text not available) |
 | Predicted New Indication | Pneumocystosis |
 | TxGNN Prediction Score | 99.56% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 3 records (2 distinct NDA numbers) |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no currently valid license) |
+| Number of NDAs | 2 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the input. The mechanistic notes state that isavuconazole inhibits fungal lanosterol 14-alpha-demethylase (CYP51), which blocks ergosterol synthesis. This is the standard mechanism of azole antifungals.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, isavuconazonium is a prodrug of isavuconazole, a triazole that inhibits fungal lanosterol 14-alpha-demethylase (CYP51) and blocks ergosterol synthesis. This mechanism is the basis of its activity in aspergillosis and other mold and yeast infections.
 
-For pneumocystosis, this mechanism is a poor fit. *Pneumocystis* membranes contain little ergosterol and mainly use cholesterol, so azole antifungals are generally considered poorly effective. Standard therapy is trimethoprim-sulfamethoxazole.
+For **pneumocystosis**, the mechanistic link is weak. *Pneumocystis jirovecii* has little or no ergosterol in its cell membrane and uses cholesterol and other sterols instead, so azoles are generally considered poorly active against it. The very high TxGNN score (99.56%) probably reflects a general antifungal class association rather than a validated mechanism.
 
-The high TxGNN score (99.56%, model rank 10,923) is a graph-based prediction only. Neither the mechanism nor any clinical data provided supports it.
+The second prediction, **mycetoma** (score 99.34%), is more plausible. Eumycetoma is caused by ergosterol-containing fungi such as *Madurella mycetomatis*, which are susceptible in principle to azole inhibition of CYP51, and other azoles (itraconazole, and fosravuconazole in recent trials) are used or studied for it. Actinomycetoma, however, is bacterial and would not respond to an antifungal. This is a research question, not a basis for recommendation.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials registered (for pneumocystosis or mycetoma).
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available for pneumocystosis.
+For pneumocystosis, currently no related literature available.
+
+For the second prediction, mycetoma, one indirect item was found:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [37907954](https://pubmed.ncbi.nlm.nih.gov/37907954/) | 2023 | Review | Parasites & Vectors | Review of the pipeline of oral anti-infective drugs for off-label use against neglected tropical diseases. It is indirect, pipeline-level information and not a study of isavuconazonium in mycetoma. |
 
 ---
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA207500 | CRESEMBA | Capsule | Astellas Pharma US, Inc. |
-| NDA207501 | CRESEMBA | Lyophilized powder for injection (solution) | Astellas Pharma US, Inc. |
+| NDA207500 | CRESEMBA (Astellas Pharma US, Inc.) | Capsule | Not available (status: cancelled) |
+| NDA207501 | CRESEMBA (Astellas Pharma US, Inc.) | Lyophilized powder for injection solution | Not available (status: cancelled) |
 
-Approved indication text is empty in all records. NDA207500 appears twice in the input and is listed once here. Routes available: oral (capsule) and injectable.
+Both authorizations are listed as cancelled, so no currently valid US license is recorded in the data compiled for this report.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. Warnings and contraindications were not available in the input, and no drug interaction data was found.
+**Drug Interactions**: The interaction screen returned 100 interacting drugs (the data compiled for this report lists 20 of them). Most are Moderate. Major interactions include:
+- Clarithromycin
+- Eliglustat
+- Cisapride
+
+Examples of Moderate interactions include corticosteroids (hydrocortisone, dexamethasone, betamethasone, budesonide, triamcinolone), metformin, pioglitazone, saxagliptin, linagliptin, empagliflozin, loperamide, bupropion, aprepitant, cimetidine, and clotrimazole. Fidaxomicin is a Minor interaction.
+
+Please refer to the package insert for warnings and contraindications, which are not available in the data compiled for this report.
 
 ---
 
@@ -97,16 +110,14 @@ Please refer to the package insert for safety information. Warnings and contrain
 **Decision: Hold**
 
 **Rationale:**
-The prediction is model-only (L5). No trials or publications exist, and the mechanism is weak for *Pneumocystis*, which has little ergosterol and is not expected to respond to azoles. Safety data is also missing.
+The pneumocystosis prediction rests on model score alone (L5). There are no clinical trials or literature, and the biology argues against it because *Pneumocystis* lacks ergosterol. The mycetoma prediction is mechanistically plausible but supported only by an indirect review (L4), so it is a research question rather than an actionable recommendation. No currently valid US license is recorded, and label safety data are missing.
 
 **To proceed, the following is needed:**
-- FDA package insert (approved indications, warnings, contraindications). This is a blocking gap for safety screening.
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
-- Preclinical or in vitro evidence of activity against *Pneumocystis*
-- Route compatibility assessment for pneumocystosis
-
-**Note on the second prediction (mycetoma, score 99.34%):**
-Eumycetoma is a fungal infection, and azoles such as itraconazole are already used against it, so an azole mechanism is plausible. It would not apply to bacterial actinomycetoma. The only evidence is one 2023 review of the neglected tropical disease drug pipeline ([PMID 37907954](https://pubmed.ncbi.nlm.nih.gov/37907954/), *Parasites & Vectors*). How it treats isavuconazole cannot be confirmed from the provided (truncated) data. It is classed as L4 and a research question, and it is a more plausible direction than pneumocystosis.
+- For mycetoma: in vitro susceptibility data for *Madurella mycetomatis* and other eumycetoma pathogens, and animal or clinical studies of isavuconazole
+- For pneumocystosis: independent evidence of activity against *Pneumocystis*, otherwise deprioritize
+- Confirmation of current US regulatory status and the approved indications of the cancelled NDAs
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

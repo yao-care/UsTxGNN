@@ -29,31 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Carisoprodol: From Muscle Relaxant Use to Insomnia
+# Carisoprodol: From Muscle Relaxation to Insomnia
 
 ## One-Sentence Summary
 
-Carisoprodol is a marketed oral tablet in the US, but the supplied record does not state its approved indication. The TxGNN model predicts it may be relevant to **insomnia**, but this is a model prediction only, with **0 clinical trials** and **1 publication** (a review that does not test carisoprodol for insomnia).
+Carisoprodol is a centrally acting skeletal muscle relaxant that was marketed in the US as tablets, including the brand product Soma.
+The TxGNN model predicts it may be effective for **insomnia**, but there are currently **0 clinical trials** and only **1 indirectly related publication** supporting this direction.
+This is a computational prediction without direct clinical evidence.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the record (all approved indication fields are empty) |
+| Original Indication | Not stated in the available US license records (carisoprodol is generally known as a muscle relaxant) |
 | Predicted New Indication | Insomnia |
 | TxGNN Prediction Score | 99.02% |
-| Evidence Level | L5 (the source record lists L4, but no mechanism or preclinical study is supplied, so L5 applies under the scoring rules) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (the listed licenses are ANDAs, i.e. generic applications) |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 6 authorizations in total (1 NDA, 5 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the record. Carisoprodol is a generic oral tablet, and its original indication is not recorded, so the link to insomnia cannot be drawn from the supplied data.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, carisoprodol is a centrally acting muscle relaxant. It is metabolized to meprobamate, which modulates GABA-A receptors and has barbiturate-like sedative and anxiolytic effects. This gives a plausible biological reason why the drug could promote sleep. Note that this link comes from general pharmacological knowledge, not from the supplied data.
 
-A plausible link comes from general pharmacology, not from the record. Carisoprodol is metabolized to meprobamate, and both are thought to modulate GABA-A receptors and cause sedation. That could explain why a knowledge graph associates the drug with sleep disturbance.
+The relationship between the original use and insomnia is indirect. Muscle spasm and pain can disrupt sleep, and sedation is a known effect of the drug. However, sedation as a side effect is not the same as proven efficacy and safety for treating insomnia.
 
-Sedation from a muscle relaxant is not the same as a proven treatment effect on insomnia. Carisoprodol is also known for dependence and abuse liability, CNS depression, and additive risk with other sedatives. Any move toward a sleep indication would have to weigh these risks heavily.
+The only linked publication is a review on nocturnal leg cramps, a sleep-disrupting muscle condition. It does not evaluate carisoprodol for insomnia. The very high TxGNN score therefore reflects a model-based association, not clinical confirmation.
 
 ## Clinical Trial Evidence
 
@@ -63,37 +65,44 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [22963024](https://pubmed.ncbi.nlm.nih.gov/22963024/) | 2012 | Review | American Family Physician | Review of nocturnal leg cramps, which are common in adults and can cause severe insomnia. The available abstract text does not show that carisoprodol was tested for insomnia, so this is indirect and weak support. |
+| [22963024](https://pubmed.ncbi.nlm.nih.gov/22963024/) | 2012 | Review | American Family Physician | Review of nocturnal leg cramps, which are common in adults and can cause severe insomnia. It does not directly evaluate carisoprodol for insomnia. |
 
 ## US Market Information
 
-The record lists 20 licenses in total; the 5 main ones are shown below. Approved indication text is empty for all of them.
-
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA040188 | Carisoprodol (Bryant Ranch Prepack) | Tablet | Not stated in record |
-| ANDA040792 | Carisoprodol (Bryant Ranch Prepack) | Tablet | Not stated in record |
-| ANDA040188 | Carisoprodol (Aphena Pharma Solutions - Tennessee, LLC) | Tablet | Not stated in record |
-| ANDA040188 | Carisoprodol (REMEDYREPACK INC.) | Tablet | Not stated in record |
-| ANDA040245 | Carisoprodol (Chartwell RX, LLC) | Tablet | Not stated in record |
+| NDA011792 | Soma (Viatris Specialty LLC) | Tablet | Not stated; status cancelled |
+| ANDA040188 | Carisoprodol (Bryant Ranch Prepack) | Tablet | Not stated; status cancelled |
+| ANDA040792 | Carisoprodol (Bryant Ranch Prepack) | Tablet | Not stated; status cancelled |
+| ANDA040245 | Carisoprodol (Chartwell RX, LLC) | Tablet | Not stated; status cancelled |
+| ANDA203374 | Carisoprodol (Asclemed USA, Inc.) | Tablet | Not stated; status cancelled |
+
+One further authorization (ANDA211789, Carisoprodol Tablets, USP, 350 mg, Bryant Ranch Prepack) is also cancelled.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. The record contains no warnings or contraindications, and the drug-interaction query returned no records. Neither should be read as evidence of safety.
+- **Contraindication signals from the knowledge graph** (drug-disease contraindication links in the TxGNN knowledge graph, not label text): epilepsy, kidney disease, liver disease, gallbladder disease, thrombocytopenia, hypothyroidism, peptic ulcer disease, inflammatory bowel disease, benign prostatic hyperplasia, hypotensive disorder, gout, substance abuse/dependence, hemophilia, anemia, respiratory failure, sudden cardiac arrest, heart conduction disease, and adrenal insufficiency (including Addison disease). Other related conditions are also listed in the graph.
+- **Drug Interactions**: 100 interactions were found. The main ones are:
+  - **Major**: Morphine, liposomal morphine (additive central nervous system and respiratory depression)
+  - **Moderate**: Dronabinol, Metoclopramide, Nabilone, Opium, Sibutramine, Difenoxin, Diphenoxylate
+  - Several others have unknown severity (e.g., Phentermine, Pantoprazole, Glimepiride, Metformin, Omeprazole).
+- **General pharmacological concerns**: abuse and dependence potential, withdrawal syndrome, and additive sedation with other sedatives and opioids. These are especially important for a drug considered for sleep use. They come from general pharmacology, not from the supplied label data.
+
+Package insert warnings and contraindications were not available in the data compiled for this report. Please refer to the package insert for the full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The high TxGNN score (99.02%) is a model output, not clinical evidence. There are no registered trials, and the only publication is an indirect review on leg cramps. Safety and mechanism data are also missing, and the dependence and CNS-depression risks make a sleep indication a serious concern.
+The prediction rests on a model score alone (Evidence Level L5), with no clinical trials and no literature directly testing carisoprodol for insomnia. Abuse and dependence potential, a large interaction burden, and the fact that all US licenses are cancelled further weaken the case for repurposing.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data, for example from DrugBank
-- The approved indication text, to define the original indication
-- Direct clinical or preclinical evidence of carisoprodol or meprobamate in insomnia
-- A dependence, abuse and sedative co-use risk assessment for any sleep-related use
+- Detailed mechanism of action data (for example from DrugBank)
+- Direct clinical or preclinical evidence of carisoprodol or meprobamate for insomnia
+- A benefit-risk comparison against approved insomnia treatments, including an abuse and dependence assessment
+- Clarification of the regulatory pathway, given that no US licenses are currently valid
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,70 +29,89 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Teprotumumab: From Thyroid Eye Disease to Monosomy X
+# Teprotumumab: From Endocrine Exophthalmos to Monosomy X
 
 ## One-Sentence Summary
 
-Teprotumumab is an IGF-1R inhibitory antibody marketed in the US as TEPEZZA. Its original indication is thyroid eye disease, taken from public labeling because the Evidence Pack has no indication text.
-The TxGNN model predicts it may be effective for **monosomy X (Turner syndrome)** with a score of 99.79%, but **0 clinical trials** and **0 publications** support this. The prediction is model-only and biologically questionable.
+Teprotumumab is an IGF-1R inhibitory monoclonal antibody, originally used to treat endocrine exophthalmos (thyroid eye disease).
+The TxGNN model predicts it may be effective for **monosomy X** (Turner syndrome), but **0 clinical trials** and **0 publications** currently support this direction. The prediction is computational only.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Thyroid eye disease (not in the Evidence Pack; the license record's indication text is empty) |
+| Original Indication | Endocrine exophthalmos |
 | Predicted New Indication | Monosomy X |
 | TxGNN Prediction Score | 99.79% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 1 (BLA761143) |
+| US Market Status | Cancelled only |
+| Number of NDAs | 1 (BLA761143, status: cancelled) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the Evidence Pack. Teprotumumab is characterized as an IGF-1R inhibitory antibody, and that is the only mechanistic information available.
+Teprotumumab is a monoclonal antibody that inhibits the insulin-like growth factor 1 receptor (IGF-1R). Detailed mechanism of action data is not available in the data compiled for this report, so this description relies on its known drug class.
 
-Monosomy X (Turner syndrome) causes short stature and gonadal dysgenesis, and the GH/IGF-1 axis is therapeutically relevant to it. Inhibiting IGF-1R would oppose growth-promoting therapy, so the biological direction is questionable. The high score most likely reflects graph proximity in the knowledge graph rather than a real mechanistic signal.
+The link to monosomy X (Turner syndrome) is weak. Turner syndrome involves growth impairment and gonadal dysgenesis, and the IGF-1 axis is relevant to growth. However, blocking IGF-1R would be expected to oppose, rather than support, growth. No direct mechanistic link is established.
 
-The other top predictions show the same pattern:
-- **Closely related Turner-spectrum and sex-development terms** (Turner syndrome due to structural X anomalies, mosaic monosomy X, mixed gonadal dysgenesis, sex chromosome disorder of sex development, X chromosome number anomaly). These appear to inherit their scores from the monosomy X node and add no independent evidence.
-- **Esophageal varices with and without bleeding**. These two entries have identical scores, which suggests duplicates in the knowledge graph. No link between IGF-1R blockade and portal hypertension is established, and standard care is well established.
-- **Varicose disease and mitochondrial oxidative phosphorylation disorder**. No plausible mechanism is identified for varicose disease. The mitochondrial link is only indirect preclinical biology, and the direction of effect for an inhibitor is unclear.
+The high TxGNN score (0.998) most likely reflects computational associations within the knowledge graph. The other top predictions are closely related entities (mosaic monosomy X, Turner syndrome due to structural X chromosome anomalies, X chromosome number anomaly, sex chromosome disorder of sex development, mixed gonadal dysgenesis). These appear to be correlated predictions from a single cluster rather than independent signals. The remaining predictions, such as esophageal varices and varicose disease, also lack any plausible mechanistic rationale.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
 Currently no related literature available.
+
+---
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA761143 | TEPEZZA (Horizon Therapeutics USA, Inc.) | Injection, powder, lyophilized, for solution | Not provided in the record |
+| BLA761143 | TEPEZZA | Injection, powder, lyophilized, for solution | Not listed (status: cancelled; manufacturer: Horizon Therapeutics USA, Inc.) |
+
+---
 
 ## Safety Considerations
 
-- **Drug Interactions**: The interaction query returned no records.
-- **Population-specific concerns** (from the prediction rationale): IGF-1R inhibition carries risks of hyperglycemia and hearing impairment. These would need careful assessment in a pediatric and young-adult Turner syndrome population.
+**Drug Interactions**: The interaction screen found 45 interactions in total. The 20 shown in the data are all **Moderate** severity and involve glucose-lowering agents:
+- Insulin human
+- Metformin, pioglitazone
+- Sulfonylureas and related agents (glimepiride, glipizide, glyburide, chlorpropamide, acetohexamide)
+- DPP-4 inhibitors (alogliptin, saxagliptin, linagliptin)
+- SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin)
+- GLP-1 receptor agonists (albiglutide, dulaglutide, exenatide, semaglutide)
+- Acarbose
 
-Please refer to the package insert for full warnings and contraindications.
+This pattern suggests a possible effect on blood glucose control, so close glucose monitoring would be needed in patients on antidiabetic therapy.
+
+Please refer to the package insert for warnings and contraindications.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on model score alone (L5), with no trials or publications. The mechanism is biologically questionable, since IGF-1R inhibition runs counter to growth-supportive management in Turner syndrome. The high score looks like a graph-proximity artifact.
+The prediction is supported only by a model score, with no clinical trials or literature (Evidence Level L5). No plausible mechanistic link exists, and IGF-1R blockade would be expected to work against growth in Turner syndrome. The US license is also listed as cancelled.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Detailed mechanism-of-action data from DrugBank
-- Preclinical or mechanistic evidence that IGF-1R inhibition could benefit monosomy X, or an explanation of why the score is high
-- A safety assessment for hyperglycemia and hearing impairment in pediatric and young-adult patients
-- Route compatibility and similarity-to-original analyses, both currently pending
+- Package insert warnings and contraindications (a blocking data gap for safety screening)
+- Detailed mechanism of action data
+- A credible mechanistic hypothesis connecting IGF-1R inhibition to monosomy X, supported by preclinical evidence
+- Clarification of the current US regulatory and marketing status
+- Review of whether any of the other predicted indications has a stronger rationale
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

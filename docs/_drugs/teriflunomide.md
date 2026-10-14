@@ -29,11 +29,13 @@ Evidence Level: **L1** | Predicted Indications: **1**
 
 </div>
 
-# Teriflunomide: Predicted Indication of Relapsing-Remitting Multiple Sclerosis
+# Teriflunomide: From Multiple Sclerosis to Relapsing-Remitting Multiple Sclerosis
 
 ## One-Sentence Summary
 
-Teriflunomide is an oral immunomodulator that limits lymphocyte proliferation. The TxGNN model predicts it may be effective for **relapsing-remitting multiple sclerosis (RRMS)**, with **28 clinical trials** and **19 publications** supporting this direction. The drug is already a marketed disease-modifying therapy for relapsing MS, so this result validates the model rather than revealing a new repurposing signal.
+Teriflunomide was originally used to treat multiple sclerosis (MS).
+The TxGNN model predicts it may be effective for **relapsing-remitting multiple sclerosis**, which is a subtype of its original indication rather than a truly new use.
+Currently **13 clinical trials** and **20 publications** support this direction, including multiple Phase 3 randomized trials.
 
 ---
 
@@ -41,83 +43,82 @@ Teriflunomide is an oral immunomodulator that limits lymphocyte proliferation. T
 
 | Item | Content |
 |------|------|
+| Original Indication | Multiple sclerosis |
 | Predicted New Indication | Relapsing-remitting multiple sclerosis |
 | TxGNN Prediction Score | 99.24% |
 | Evidence Level | L1 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 licenses (NDA and ANDA combined) |
+| US Market Status | Cancelled only (all 12 listings are cancelled) |
+| Number of NDAs | 12 (1 NDA and 11 ANDAs) |
 | Recommended Decision | Proceed with Guardrails |
-
-The US license records contain no approved-indication text, so the original indication could not be extracted from the local data.
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Teriflunomide is the active metabolite of leflunomide. It selectively and reversibly inhibits the mitochondrial enzyme dihydroorotate dehydrogenase (DHODH). This blocks de novo pyrimidine synthesis and reduces the proliferation of activated T and B lymphocytes.
+Teriflunomide is the active metabolite of leflunomide. It inhibits dihydroorotate dehydrogenase (DHODH), a mitochondrial enzyme required for de novo pyrimidine synthesis. This limits the proliferation of activated T and B lymphocytes, which drive autoimmune inflammation in relapsing-remitting MS. Resting cells use the salvage pathway and are largely spared. (The mechanism-of-action field was not available in the data compiled for this report, but this mechanism is well established in the literature.)
 
-RRMS is driven by autoimmune, lymphocyte-mediated inflammation of the central nervous system. Limiting the expansion of activated lymphocytes is therefore a plausible and well-established mechanistic fit. Trial NCT02833714, for example, studies B-cell effects of the drug in RRMS patients.
+Relapsing-remitting MS is the most common form of MS and is essentially the drug's original indication. The high TxGNN score therefore mostly validates the model's ability to recover known drug-disease links. It should not be read as a novel repurposing discovery.
 
-The Evidence Pack lists no original indications, and the mechanism-of-action field was empty. This looks like a data-completeness gap rather than a true absence. Multiple randomized phase 3 trials and reviews already treat teriflunomide as an established first-line oral therapy for relapsing MS.
+The US market status shows "Cancelled only" across all listings. This probably reflects how the product listings are recorded and should be checked against current regulatory data before drawing conclusions about availability.
 
 ---
 
 ## Clinical Trial Evidence
 
-The pack lists 28 trials. The 10 most relevant are shown below.
-
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00134563](https://clinicaltrials.gov/study/NCT00134563) | Phase 3 | Completed | 1088 | Double-blind, placebo-controlled pivotal trial of teriflunomide on relapse frequency and disability accumulation in relapsing MS |
-| [NCT00883337](https://clinicaltrials.gov/study/NCT00883337) | Phase 3 | Completed | 324 | Rater-blinded comparison of two teriflunomide doses versus interferon beta-1a, with long-term extension |
-| [NCT00803049](https://clinicaltrials.gov/study/NCT00803049) | Phase 3 | Completed | 742 | Long-term extension documenting safety of teriflunomide 7 mg and 14 mg in relapsing MS |
-| [NCT00228163](https://clinicaltrials.gov/study/NCT00228163) | Phase 2 | Completed | 147 | Long-term safety and efficacy extension of the phase 2 teriflunomide study |
-| [NCT04788615](https://clinicaltrials.gov/study/NCT04788615) | Phase 3 | Completed | 185 | Ofatumumab versus physician's-choice first-line DMT in newly diagnosed relapsing MS (teriflunomide is a possible comparator) |
-| [NCT01881191](https://clinicaltrials.gov/study/NCT01881191) | N/A | Completed | 50 | 12-month MRI study of teriflunomide effects on gray matter pathology |
-| [NCT06843382](https://clinicaltrials.gov/study/NCT06843382) | N/A | Not yet recruiting | 100 | Real-world comparison of teriflunomide and dimethyl fumarate on physical and cognitive fatigability |
-| [NCT02490982](https://clinicaltrials.gov/study/NCT02490982) | N/A | Completed | 106 | Observational study of teriflunomide effectiveness in RRMS over at least 2 years |
-| [NCT03302442](https://clinicaltrials.gov/study/NCT03302442) | N/A | Completed | 3000 | Observational comparison of dimethyl fumarate and teriflunomide on clinical and MRI outcomes in RRMS |
-| [NCT02776072](https://clinicaltrials.gov/study/NCT02776072) | N/A | Completed | 2978 | Retrospective real-world outcomes for RRMS patients on Tecfidera, Copaxone, Aubagio or Gilenya |
+| [NCT00134563](https://clinicaltrials.gov/study/NCT00134563) | Phase 3 | Completed | 1088 | Randomized, double-blind, placebo-controlled trial of teriflunomide on relapse frequency and disability accumulation in relapsing MS |
+| [NCT00883337](https://clinicaltrials.gov/study/NCT00883337) | Phase 3 | Completed | 324 | Rater-blinded comparison of two teriflunomide doses versus interferon beta-1a in relapsing MS |
+| [NCT00803049](https://clinicaltrials.gov/study/NCT00803049) | Phase 3 | Completed | 742 | Long-term extension documenting safety of teriflunomide 7 mg and 14 mg |
+| [NCT00228163](https://clinicaltrials.gov/study/NCT00228163) | Phase 2 | Completed | 147 | Extension study of long-term safety and efficacy of teriflunomide |
+| [NCT04788615](https://clinicaltrials.gov/study/NCT04788615) | Phase 3 | Completed | 185 | Ofatumumab versus first-line DMT (physician's choice) in newly diagnosed relapsing MS; open-label, rater-blind |
+| [NCT02490982](https://clinicaltrials.gov/study/NCT02490982) | N/A | Completed | 106 | Observational real-world effectiveness of teriflunomide in RRMS over at least two years |
+| [NCT03500328](https://clinicaltrials.gov/study/NCT03500328) | N/A | Completed | 900 | Pragmatic trial of early aggressive versus escalation therapy; indirect for teriflunomide |
+| [NCT03535298](https://clinicaltrials.gov/study/NCT03535298) | Phase 4 | Active, not recruiting | 800 | DELIVER-MS: early intensive versus escalation treatment strategies |
+| [NCT03464448](https://clinicaltrials.gov/study/NCT03464448) | N/A | Completed | 30 | Mechanistic study of regulatory B lymphocytes in teriflunomide-treated RRMS |
+| [NCT03561402](https://clinicaltrials.gov/study/NCT03561402) | N/A | Completed | 24 | Observational study of biomarkers associated with disease activity during teriflunomide treatment |
 
 ---
 
 ## Literature Evidence
 
-The pack lists 19 publications. The 10 most relevant are shown below, with randomized trials first.
-
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [32757523](https://pubmed.ncbi.nlm.nih.gov/32757523/) | 2020 | RCT | N Engl J Med | Ofatumumab versus teriflunomide in MS, with teriflunomide as the active oral comparator |
+| [32757523](https://pubmed.ncbi.nlm.nih.gov/32757523/) | 2020 | RCT | N Engl J Med | Ofatumumab versus teriflunomide in relapsing MS (teriflunomide as active comparator) |
 | [36001711](https://pubmed.ncbi.nlm.nih.gov/36001711/) | 2022 | RCT | N Engl J Med | Ublituximab versus teriflunomide in relapsing MS |
-| [33779698](https://pubmed.ncbi.nlm.nih.gov/33779698/) | 2021 | RCT | JAMA Neurol | OPTIMUM: first phase 3 head-to-head of two oral DMTs, ponesimod versus teriflunomide |
-| [39307151](https://pubmed.ncbi.nlm.nih.gov/39307151/) | 2024 | RCT | Lancet Neurol | Two phase 3 trials of evobrutinib against teriflunomide as active comparator |
 | [40202623](https://pubmed.ncbi.nlm.nih.gov/40202623/) | 2025 | RCT | N Engl J Med | Tolebrutinib versus teriflunomide in relapsing MS |
-| [38174776](https://pubmed.ncbi.nlm.nih.gov/38174776/) | 2024 | Network meta-analysis | Cochrane Database Syst Rev | Compares immunomodulators and immunosuppressants for RRMS; each reduces relapses and slows disability versus no treatment |
-| [31898276](https://pubmed.ncbi.nlm.nih.gov/31898276/) | 2020 | Meta-analysis | CNS Drugs | Narrative review of efficacy and safety of five oral RRMS therapies, including teriflunomide |
-| [37528262](https://pubmed.ncbi.nlm.nih.gov/37528262/) | 2023 | Meta-analysis | Neurotherapeutics | Real-world comparison of dimethyl fumarate and teriflunomide in RRMS |
-| [31098896](https://pubmed.ncbi.nlm.nih.gov/31098896/) | 2019 | Review | Drugs | Teriflunomide is an effective and generally well-tolerated treatment for relapsing MS, based on RCTs and real-world data |
-| [37382446](https://pubmed.ncbi.nlm.nih.gov/37382446/) | 2023 | Review | Expert Rev Neurother | Teriflunomide as first-line oral therapy in pediatric RRMS, recently approved in the EU |
-
-Most of the RCTs above use teriflunomide as the active comparator for newer agents. They show it is the established standard of care, but they are not evidence of its own efficacy versus placebo. That evidence comes from the pivotal trial NCT00134563.
+| [33779698](https://pubmed.ncbi.nlm.nih.gov/33779698/) | 2021 | RCT | JAMA Neurol | OPTIMUM: ponesimod versus teriflunomide, the first Phase 3 head-to-head of two oral DMTs |
+| [39307151](https://pubmed.ncbi.nlm.nih.gov/39307151/) | 2024 | RCT | Lancet Neurol | Evobrutinib versus teriflunomide in two Phase 3 trials |
+| [38174776](https://pubmed.ncbi.nlm.nih.gov/38174776/) | 2024 | Network meta-analysis | Cochrane Database Syst Rev | Relative benefit of immunomodulators and immunosuppressants in RRMS |
+| [38032059](https://pubmed.ncbi.nlm.nih.gov/38032059/) | 2023 | Network meta-analysis | Cochrane Database Syst Rev | Relative safety of MS immunotherapies |
+| [31098896](https://pubmed.ncbi.nlm.nih.gov/31098896/) | 2019 | Review | Drugs | Teriflunomide inhibits DHODH and is effective and generally well tolerated in relapsing MS based on RCT and real-world evidence |
+| [37578431](https://pubmed.ncbi.nlm.nih.gov/37578431/) | 2023 | Observational | Eur J Neurol | Real-world comparison of dimethyl fumarate and teriflunomide in RRMS |
+| [34046085](https://pubmed.ncbi.nlm.nih.gov/34046085/) | 2021 | Observational | Ther Adv Neurol Disord | Teriflunomide effectiveness and safety by age and pre-treatment status |
 
 ---
 
 ## US Market Information
 
+All listings below are currently recorded as cancelled. Approved indication text was not available for these listings.
+
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
-| NDA202992 | Aubagio | Tablet, film coated | Genzyme Corporation |
-| ANDA209700 | Teriflunomide | Tablet, film coated | AvKARE |
-| ANDA209702 | Teriflunomide | Tablet, film coated | Mylan Pharmaceuticals Inc. |
-| ANDA218663 | Teriflunomide | Tablet, film coated | Concord Biotech Limited |
-
-The pack reports 20 licenses in total, and only these four distinct authorizations are shown. The route of administration is oral.
+| NDA202992 | Aubagio | Film-coated tablet | Genzyme Corporation |
+| ANDA209700 | Teriflunomide | Film-coated tablet | AvKARE |
+| ANDA218663 | Teriflunomide | Film-coated tablet | Concord Biotech Limited |
+| ANDA209702 | Teriflunomide | Film-coated tablet | Mylan Pharmaceuticals Inc. |
+| ANDA209668 | Teriflunomide | Film-coated tablet | Zydus Pharmaceuticals USA Inc. |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+**Drug Interactions**: The interaction screen returned 100 interacting drugs. The ones reviewed include the following.
+- **Major**: acarbose, hydrocortisone, pioglitazone, bupropion, triamcinolone, acetylsalicylic acid, dexamethasone, betamethasone, budesonide, chenodeoxycholic acid, clarithromycin, minocycline, oxandrolone, oxymetholone
+- **Moderate**: alosetron, cimetidine, empagliflozin, sitagliptin
+- **Minor**: zinc sulfate, zinc acetate
+
+For other safety information, including warnings and contraindications, please refer to the package insert.
 
 ---
 
@@ -126,13 +127,14 @@ Please refer to the package insert for safety information.
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Two or more completed phase 3 RCTs (NCT00134563, NCT00883337), a phase 3 long-term extension, and many reviews and comparator trials support teriflunomide in relapsing MS. The drug is already marketed, so the prediction is a validation of the model. The package insert, warnings and mechanism-of-action data are still missing from the pack.
+Two completed Phase 3 RCTs (NCT00134563 and NCT00883337), plus several Phase 3 head-to-head trials with teriflunomide as comparator, strongly support efficacy in relapsing MS (Level L1). However, this is the drug's existing indication, not a new one. The package insert safety data could not be retrieved, and US market status needs verification.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, currently a blocking gap. Standard monitoring should cover hepatotoxicity, teratogenicity and use of the accelerated-elimination procedure.
-- Approved-indication text for the US licenses, to confirm the label status of relapsing MS.
-- Mechanism-of-action and original-indication fields from DrugBank, to complete the record.
-- Drug-interaction data, as the query returned no results.
+- Obtain and review the FDA package insert warnings and contraindications, which is a blocking gap for safety screening
+- Verify the current US marketing status, since all 12 listings are recorded as cancelled
+- Confirm the mechanism of action in DrugBank records
+- Clarify whether a genuinely new indication, rather than the existing MS indication, should be the repurposing target
+- Review the major drug interactions, particularly with corticosteroids, clarithromycin and antidiabetic agents
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

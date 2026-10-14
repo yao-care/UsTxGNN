@@ -29,107 +29,83 @@ Evidence Level: **L3** | Predicted Indications: **1**
 
 </div>
 
-# Beclomethasone Dipropionate: From Inhaled and Nasal Corticosteroid Products to Atopic Eczema
+# Beclomethasone Dipropionate: From Asthma and Allergic Rhinitis to Atopic Eczema
 
 ## One-Sentence Summary
 
-Beclomethasone dipropionate is a corticosteroid marketed in the US as metered aerosol products (for example QVAR REDIHALER and QNASL).
-The TxGNN model predicts it may be effective for **atopic eczema**.
-Support is limited: **0 registered clinical trials** and **18 publications**, of which only one is a small randomized trial (1984) and the rest are mostly older cohorts, reviews or preclinical studies.
-
----
+Beclomethasone dipropionate is a synthetic corticosteroid, originally used for asthma and allergic rhinitis.
+The TxGNN model predicts it may be effective for **atopic eczema**,
+but currently there are **0 registered clinical trials** and only **9 publications** (mostly reviews, small older clinical studies, and safety reports) supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Asthma, allergic rhinitis (approved indication text not available in the US license records; taken from the drug's known indication list) |
 | Predicted New Indication | Atopic eczema |
 | TxGNN Prediction Score | 99.41% |
 | Evidence Level | L3 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 10 |
+| US Market Status | Cancelled only (all 3 authorizations cancelled) |
+| Number of NDAs | 3 (2 NDAs and 1 ANDA) |
 | Recommended Decision | Hold |
-
-The approved-indication text is empty in the source record, so the original indication is not listed. The marketed product forms (inhaled and nasal aerosols) are the only basis for the title.
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the record. Based on known information, beclomethasone dipropionate is a glucocorticoid receptor agonist. Corticosteroids as a class suppress pro-inflammatory cytokines and T-cell and eosinophil activity. This mechanism is inferred from drug class and has not been confirmed from the source record.
+Currently, detailed mechanism of action data is not available. Based on known information, beclomethasone dipropionate is a synthetic glucocorticoid with potent anti-inflammatory and immunosuppressive activity. Its efficacy in asthma and allergic rhinitis is established, and mechanistically it may be applicable to atopic eczema.
 
-Atopic eczema is driven by type 2 inflammation, and corticosteroids are established therapy for it. The high TxGNN score fits this class-level logic.
+Glucocorticoid receptor activation suppresses pro-inflammatory cytokine and Th2-driven signaling. This is relevant to the inflammatory pathology of atopic dermatitis, which also commonly coexists with asthma and allergic rhinitis as part of the atopic spectrum. Topical beclomethasone also has historical use in dermatology.
 
-Three caveats limit how far this reasoning goes:
-- **Route mismatch:** The clinical literature covers oral or nasal beclomethasone, not the topical route normally used for eczema. The only US products in the record are metered aerosols.
-- **Weak study quality:** The older positive studies are small, and their design and outcomes could not be fully verified from the truncated abstracts.
-- **Systemic exposure:** Several papers report adrenal (HPA-axis) suppression and growth or bone-turnover concerns in children.
-
----
+However, this is more a re-examination of an established drug class than a genuinely new finding. Many approved topical corticosteroids already exist for atopic eczema, so any new development would need to show an advantage over them. One in vitro report (1996) also suggests topical steroids may enhance spontaneous IgE production in atopic dermatitis patients, which is a possible counter-signal.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [6434024](https://pubmed.ncbi.nlm.nih.gov/6434024/) | 1984 | RCT | Br Med J (Clin Res Ed) | Double-blind, placebo-controlled crossover trial in 26 children with severe atopic eczema. Four weeks of combined oral plus nasal beclomethasone improved eczema significantly more than placebo. 24-hour urinary cortisol excretion was slightly reduced. |
-| [1476023](https://pubmed.ncbi.nlm.nih.gov/1476023/) | 1992 | Cohort | Acta Derm Venereol Suppl | Oral beclomethasone in children with severe atopic dermatitis. Stable control in 10 of 14 patients at a mean dose of about 1000 µg/day. Growth and adrenal function were monitored, and the abstract reports evidence of slowed linear growth at this dose (text truncated). |
-| [14522624](https://pubmed.ncbi.nlm.nih.gov/14522624/) | 2003 | Cohort | J Dermatol Treat | Eight prepubertal children on steroid wet-wrap dressings. Short-term growth and bone turnover were assessed (results truncated in the record). |
-| [30911861](https://pubmed.ncbi.nlm.nih.gov/30911861/) | 2019 | Preclinical | AAPS PharmSciTech | Beclomethasone dipropionate mixed micelles in a hydrogel for dermal delivery, evaluated in a sub-chronic dermatitis animal model. Shows a possible route toward a topical formulation. |
-| [19571596](https://pubmed.ncbi.nlm.nih.gov/19571596/) | 2009 | Review | Neuroimmunomodulation | Review of intranasal corticosteroids and HPA-axis (adrenal) suppression in allergic disease, including patients with atopic dermatitis. |
-| [11488426](https://pubmed.ncbi.nlm.nih.gov/11488426/) | 2001 | Review | Jpn J Pharmacol | Glucocorticoids are described as the most efficacious drugs for allergic diseases. Beclomethasone dipropionate is used by inhalation. |
-| [19874229](https://pubmed.ncbi.nlm.nih.gov/19874229/) | 2009 | Preclinical (unclassified) | Immunopharmacol Immunotoxicol | In mice, mometasone furoate was more potent than beclomethasone dipropionate in an ear-edema model. Its oral systemic effects were lower than those of beclomethasone. |
-| [9463794](https://pubmed.ncbi.nlm.nih.gov/9463794/) | 1998 | Review (unclassified) | Drugs | Review of topical mometasone, a beclomethasone analogue. In atopic dermatitis its effects were similar to other potent steroids. Indirect evidence only. |
-| [8765824](https://pubmed.ncbi.nlm.nih.gov/8765824/) | 1996 | Not classified | J Allergy Clin Immunol | Topical steroids enhanced in vitro IgE production in atopic dermatitis patients. Suggests a possible drawback in severe disease. |
-| [374799](https://pubmed.ncbi.nlm.nih.gov/374799/) | 1979 | Not classified | Nihon Hifuka Gakkai Zasshi | Comparative study of systemic effects of topical beclomethasone dipropionate versus betamethasone valerate ointment and fluocinonide cream. No abstract available, so findings are not verified. |
-
----
+| [1476023](https://pubmed.ncbi.nlm.nih.gov/1476023/) | 1992 | Clinical study (likely small, open-label) | Acta Derm Venereol Suppl | Oral beclomethasone in children with difficult atopic dermatitis: stable control in 10/14 patients at about 1000 µg/day, but with evidence of slowed linear growth and adrenal effects |
+| [14522624](https://pubmed.ncbi.nlm.nih.gov/14522624/) | 2003 | Clinical study | J Dermatolog Treat | Short-term growth and bone turnover in 8 children using wet-wrap steroid dressings for atopic eczema |
+| [374799](https://pubmed.ncbi.nlm.nih.gov/374799/) | 1979 | Comparative clinical study | Nihon Hifuka Gakkai Zasshi | Systemic effects of topical beclomethasone dipropionate compared with betamethasone 17-valerate ointment and fluocinonide cream |
+| [19571596](https://pubmed.ncbi.nlm.nih.gov/19571596/) | 2009 | Review | Neuroimmunomodulation | Intranasal corticosteroids and adrenal suppression in allergic rhinitis, which often coexists with asthma and atopic dermatitis |
+| [14616123](https://pubmed.ncbi.nlm.nih.gov/14616123/) | 2003 | Review | Allergy | Corticosteroid allergy (delayed contact and occasionally immediate) in patients with asthma |
+| [11488426](https://pubmed.ncbi.nlm.nih.gov/11488426/) | 2001 | Review | Jpn J Pharmacol | Overview of drugs for allergic diseases; inhaled beclomethasone and fluticasone are established for asthma |
+| [7813169](https://pubmed.ncbi.nlm.nih.gov/7813169/) | 1994 | Review | Clin Ter | Allergy drug use in pregnancy (limited relevance to atopic eczema) |
+| [30911861](https://pubmed.ncbi.nlm.nih.gov/30911861/) | 2019 | Preclinical (animal model) | AAPS PharmSciTech | Beclomethasone micelles in a hydrogel for dermal delivery, tested in a sub-chronic dermatitis animal model |
+| [8765824](https://pubmed.ncbi.nlm.nih.gov/8765824/) | 1996 | In vitro | J Allergy Clin Immunol | Topical steroids enhanced in vitro spontaneous IgE production in atopic dermatitis patients (possible counter-signal) |
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA207921 | QVAR REDIHALER | Aerosol, metered | Teva Respiratory, LLC (also repackaged by A-S Medication Solutions) |
-| NDA202813 | QNASL | Aerosol, metered | Teva Respiratory, LLC |
-| ANDA213811 | Beclomethasone Dipropionate | Aerosol, metered | Amneal Pharmaceuticals NY LLC |
+| NDA207921 | QVAR REDIHALER (Teva Respiratory) | Metered aerosol | Not specified (cancelled) |
+| ANDA213811 | Beclomethasone Dipropionate (Amneal) | Metered aerosol | Not specified (cancelled) |
+| NDA202813 | QNASL (Teva Respiratory) | Metered aerosol | Not specified (cancelled) |
 
-Approved-indication text is not provided in the source record for any of these authorizations.
-
----
+All three authorizations are cancelled, and all are inhaled or intranasal aerosol products. No topical dermatological formulation is listed.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug-interaction data were found in the record.
+- **Contraindications flagged in the knowledge graph** (not label text): liver disease, gallbladder disease, adrenocortical insufficiency, Addison disease, ocular hypertension, glaucoma, herpes simplex virus keratitis, and a range of infections (measles, varicella zoster, fungal, dermatophytosis, parasitic, mycobacterial, leprosy, and infectious disease in general). Also flagged: lower and upper respiratory tract disease, paranasal sinus disease, and nasal cavity disease.
+- **Safety signals from the literature**: adrenal suppression, slowed growth and altered bone turnover in children, and corticosteroid contact or immediate allergy.
+- **Drug Interactions**: 49 interactions were identified in total. The most significant is **desmopressin (Major)**. Moderate interactions include loop and thiazide diuretics (furosemide, bumetanide, hydrochlorothiazide, chlorthalidone, among others), acetazolamide and diclofenamide, amphotericin B formulations, foscarnet, capreomycin, and cisplatin. Minor interactions include the beta-agonists formoterol, salbutamol, and arformoterol.
 
-Safety signals from the literature:
-- **Adrenal suppression:** Slightly reduced 24-hour urinary cortisol in the 1984 trial. A review also describes HPA-axis effects of intranasal corticosteroids.
-- **Growth and bone turnover in children:** Reported with oral beclomethasone at about 1000 µg/day and with occlusive steroid wet-wrap dressings.
-- **Corticosteroid hypersensitivity:** A report on corticosteroid allergy in asthma patients (PMID 14616123) notes that corticosteroids can cause delayed contact allergy and, occasionally, immediate allergy.
-
----
+Please refer to the package insert for label warnings, which were not available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is high and the class-level mechanism is plausible. However, there are no registered trials, and the only randomized evidence is a small 1984 crossover study using oral plus nasal dosing. Safety data are missing, and the marketed forms in the record are not topical.
+The high model score is not backed by modern clinical evidence: there are no registered trials, and the literature consists of small, older studies, reviews, and safety reports, some pointing to adrenal and growth concerns. Many approved topical corticosteroids already treat atopic eczema, and all US authorizations for this drug are cancelled and none is a dermatological product.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (blocking gap for safety screening)
-- Confirmed mechanism of action from DrugBank
-- Approved-indication text for the marketed products
-- A route-compatibility assessment, since no topical or dermatologic form appears among the US products
-- Full-text review of the older studies to verify design and outcomes
-- Pediatric safety review covering HPA-axis, growth and bone turnover
-- Prospective evidence, such as a controlled trial in atopic eczema, before any further advancement
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism of action data
+- A rationale for a differentiated advantage over existing topical corticosteroids
+- A suitable topical formulation and route, since the known products are inhaled or intranasal
+- Modern comparative clinical trials against approved topical corticosteroids, with pediatric safety monitoring (adrenal function, growth, bone turnover)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

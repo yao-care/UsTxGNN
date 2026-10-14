@@ -29,12 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Aluminum Chloride: From Antiperspirant Use to Seborrheic Keratosis
+# Aluminum Chloride: From Antiperspirant Use to Skin Disease
 
 ## One-Sentence Summary
 
-Aluminum chloride is a topical astringent and antiperspirant. The US-marketed products in this pack are antiperspirants, and the license records do not state an approved indication.
-The TxGNN model predicts it may be effective for **seborrheic keratosis**, but there are **0 clinical trials** and **0 publications** for this specific indication, so the prediction rests on the model score alone.
+Aluminum chloride is a topical astringent and antiperspirant ingredient, and its US products are currently all cancelled.
+The TxGNN model's top-ranked predictions lack supporting evidence, so this report focuses on the best-supported candidate, **skin disease** (essentially hyperhidrosis and related conditions), with **3 clinical trials** and **19 publications** retrieved.
+The evidence is mostly reviews and early-phase studies, and it does not demonstrate therapeutic benefit across skin disease in general.
 
 ---
 
@@ -42,35 +43,52 @@ The TxGNN model predicts it may be effective for **seborrheic keratosis**, but t
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the license records. Product names indicate antiperspirant use (excessive sweating). This is inferred, not documented. |
-| Predicted New Indication | Seborrheic keratosis |
-| TxGNN Prediction Score | 99.68% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 license records (most have no license number listed) |
-| Recommended Decision | Hold |
+| Original Indication | Not specified in the data compiled for this report (the license records list no approved indication text; products are antiperspirants) |
+| Predicted New Indication | Skin disease (best-supported candidate; the top TxGNN-ranked prediction is seborrheic keratosis, which has no supporting evidence) |
+| TxGNN Prediction Score | 99.35% (skin disease); 99.68% (seborrheic keratosis, rank 1) |
+| Evidence Level | L3 (skin disease); L5 for the other nine predictions, except as noted below |
+| US Market Status | Cancelled only |
+| Number of NDAs | 3 (all cancelled) |
+| Recommended Decision | Hold (research question: re-define the target as hyperhidrosis) |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, aluminum chloride is a topical aluminum salt with astringent, protein-precipitating action. It is used to reduce sweating by obstructing eccrine sweat ducts.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on the literature retrieved, aluminum chloride is the established first-line topical antiperspirant for primary focal hyperhidrosis. Aluminum salts form plugs in eccrine sweat ducts, and aluminum chloride has been linked to glandular epithelial atrophy and apoptosis.
 
-The only link to seborrheic keratosis is speculative. Aluminum salts act on the skin surface, and seborrheic keratosis is a benign keratotic skin lesion. Neither the pack nor the retrieved literature shows that aluminum chloride treats it. The high score likely reflects similarity between skin conditions in the knowledge graph rather than a demonstrated mechanism.
+"Skin disease" is a very broad category. The strongest evidence supports hyperhidrosis only, not skin disease in general. A better framing is to evaluate hyperhidrosis as a specific indication, along with adjacent uses such as hand-foot skin reactions caused by regorafenib (a single-arm trial) and Frey's syndrome (a single case report).
 
-One adjacent signal exists elsewhere in the pack. A not-yet-recruiting Phase 1 study (NCT07401277) tests 5-fluorouracil plus aluminum in **actinic keratoses**, a different lesion type. Its relevance has not been graded. It does not support seborrheic keratosis.
+Several other predictions are weak. Congenital prothrombin deficiency, von Hippel anomaly and chronic relapsing inflammatory optic neuropathy show no plausible mechanistic link and are likely graph artifacts. Seborrheic dermatitis and acne are speculative, and aluminum is a recognized contact allergen. Dry eye syndrome and eye disease are supported only by an unrelated formulation paper and toxicity studies.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Trials retrieved for skin disease:
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT03416348](https://clinicaltrials.gov/study/NCT03416348) | Phase 1 | Completed | 95 | Residual-limb hyperhidrosis in amputees; building a treatment algorithm. The specific role of aluminum chloride is not confirmed. |
+| [NCT07401277](https://clinicaltrials.gov/study/NCT07401277) | Phase 1 | Recruiting | 32 | Exploratory study of 5-fluorouracil plus aluminum chloride hexahydrate for actinic keratoses. Early-stage and indirect signal. |
+| [NCT02028208](https://clinicaltrials.gov/study/NCT02028208) | Phase 2 | Completed | 56 | Patch-test dose-response study of mercury, aluminum and palladium allergens. It addresses hypersensitivity (a safety signal), not therapeutic benefit. |
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available.
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [30710603](https://pubmed.ncbi.nlm.nih.gov/30710603/) | 2019 | Review | J Am Acad Dermatol | Antiperspirants are first-line therapy for primary focal hyperhidrosis |
+| [25152341](https://pubmed.ncbi.nlm.nih.gov/25152341/) | 2014 | Review | Dermatol Clin | Aluminum salts plug eccrine sweat ducts; topical therapies in hyperhidrosis |
+| [30215934](https://pubmed.ncbi.nlm.nih.gov/30215934/) | 2018 | Review | Am Fam Physician | Management options for hyperhidrosis |
+| [41839170](https://pubmed.ncbi.nlm.nih.gov/41839170/) | 2026 | Review | Skin Therapy Lett | Aluminum chloride hexahydrate is a conventional hyperhidrosis treatment; newer options reviewed |
+| [41572865](https://pubmed.ncbi.nlm.nih.gov/41572865/) | 2026 | Review | Dtsch Arztebl Int | Prevalence, diagnosis and stepwise treatment of hyperhidrosis |
+| [40396355](https://pubmed.ncbi.nlm.nih.gov/40396355/) | 2025 | Comparative study | J Cutan Med Surg | Aluminum chloride vs oxybutynin vs botulinum toxin in primary focal hyperhidrosis |
+| [37142953](https://pubmed.ncbi.nlm.nih.gov/37142953/) | 2023 | Single-arm trial | BMC Cancer | Topical aluminum chloride for severe regorafenib-associated hand-foot skin reactions |
+| [35029347](https://pubmed.ncbi.nlm.nih.gov/35029347/) | 2022 | Review | Dermatitis | Aluminum named Allergen of the Year 2022; pruritic nodules and eczematous dermatitis |
+| [31567135](https://pubmed.ncbi.nlm.nih.gov/31567135/) | 2020 | Mouse study | Am J Dermatopathol | 20% aluminum chloride induced apoptosis, keratinization arrest and granular parakeratosis |
+| [3771053](https://pubmed.ncbi.nlm.nih.gov/3771053/) | 1986 | Case report | Int J Dermatol | Frey's syndrome responded to 20% aluminum chloride in anhydrous ethyl alcohol |
 
 ---
 
@@ -78,24 +96,20 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| Not listed | ANTIPERSPIRANT ANTISUDORIFIQUE (Archifox GmbH & Co. KG) | Spray | Not stated |
-| M019 | Duradry Sweat Minimizing Gel (Novadore USA Inc) | Gel | Not stated |
-| Not listed | Antiperspirant ODABAN (Ryma-Pharm GmbH) | Spray | Not stated |
-| M017 | Certain Dri Clinical Strength Prescription Protection Rollon (Clarion Brands LLC) | Liquid | Not stated |
-| Not listed | ANTIPERSPIRANT ANTISUDORIFIQUE (Ryma-Pharm GmbH) | Spray | Not stated |
-
-Other listed dosage forms include lotion, solution, stick, for-solution, metered spray and cream.
+| M019 | Duradry Sweat Minimizing Gel | Gel | Not specified (cancelled) |
+| M017 | Certain Dri Clinical Strength Prescription Protection Rollon | Liquid | Not specified (cancelled) |
+| Not available | Antiperspirant Antisudorifique | Spray | Not specified (cancelled) |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No warnings, contraindications or drug interactions were found in the pack.
+- **Knowledge-graph contraindication signals**: exanthem and dermatitis.
+- **Contact allergy**: aluminum is a documented contact allergen, and the patch-test study (NCT02028208) addresses this.
+- **Skin effects**: one mouse study linked 20% aluminum chloride to keratinization arrest and granular parakeratosis.
+- **Mucosal and ocular use**: application to vulvar mucosa or the eye raises irritation and toxicity concerns. Toxicity studies of aluminum also show neurotoxic potential in cell and animal models.
 
-Some signals appear in the retrieved material and are relevant to any new skin indication:
-- **Keratinization changes:** In a mouse model, daily 20% aluminum chloride caused apoptosis, keratinization arrest and granular parakeratosis (PMID 31567135).
-- **Contact sensitization:** Aluminum is a recognized contact allergen (PMID 35029347).
-- **Irritation and occlusion:** Mucosal and vulvar skin irritation is a concern. Follicular occlusion could worsen comedonal disease.
+Please refer to the package insert for further warnings, contraindications and drug interaction information. No drug interaction records were found.
 
 ---
 
@@ -104,22 +118,15 @@ Some signals appear in the retrieved material and are relevant to any new skin i
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trials or literature behind it and no supported mechanism. Evidence level is L5, and the pack's own assessment calls the link speculative.
-
-**Other predictions in the pack:**
-- "Skin disease" (rank 6) has the strongest evidence, including a completed Phase 3 RCT (NCT03433859, n=54) comparing topical aluminium chloride with onabotulinumtoxinA in residual limb hyperhidrosis. It also has several hyperhidrosis RCTs and reviews, and a single-arm study in regorafenib-associated hand-foot skin reaction (PMID 37142953). This is mostly an established use rather than repurposing, the indication is too broad, and the Phase 3 comparator is truncated in the input and needs verification.
-- Dry eye syndrome and eye disease have no supportive evidence. The pack notes aluminum chloride is a known ocular and mucosal irritant.
-- Congenital prothrombin deficiency, von Hippel anomaly and chronic relapsing inflammatory optic neuropathy have no plausible mechanism and are likely knowledge-graph artifacts.
+Nine of the ten predictions have no supporting clinical evidence (L5). The only one with meaningful support, skin disease, rests on hyperhidrosis reviews and early-phase or exploratory studies (L3). The category is too broad to act on, and all three US products are cancelled.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications, which block safety screening
-- Mechanism of action data from DrugBank
-- Verified original indication text for the marketed products
-- Any preclinical or clinical evidence specific to seborrheic keratosis
-- Route compatibility assessment
-- Splitting the broad "skin disease" prediction into specific conditions (hyperhidrosis, hand-foot skin reaction) before any recommendation
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
+- Re-frame the target as a specific indication (hyperhidrosis), and assess it against existing OTC and prescription antiperspirant products
+- Obtain the FDA package insert warnings and contraindications
+- Obtain mechanism of action data from DrugBank
+- Review randomized trial data for hyperhidrosis and the regorafenib hand-foot skin reaction trial
+- Assess contact allergy and skin irritation risk for any new topical indication
+- Confirm the original approved indication, since no indication text is available in the license records
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

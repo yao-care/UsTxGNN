@@ -29,102 +29,101 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Conestat Alfa: From Hereditary Angioedema (Approved Use) to C1 Inhibitor Deficiency
+# Conestat Alfa: From Hereditary Angioedema to C1 Inhibitor Deficiency
 
 ## One-Sentence Summary
 
-Conestat alfa (Ruconest) is a recombinant human C1 esterase inhibitor, already marketed in the US for hereditary angioedema (HAE).
-The TxGNN model's top prediction is **C1 inhibitor deficiency**, the disease that underlies HAE types I/II, so this is effectively the approved use rather than true repurposing.
-It is supported by **41 clinical trials** and **20 publications**, but much of the trial evidence is class-level (other C1-INH products).
+Conestat alfa is a recombinant human C1 esterase inhibitor, originally used to treat acute attacks of hereditary angioedema.
+The TxGNN model's top prediction is **C1 inhibitor deficiency**, with **4 clinical trials** and **9 publications** supporting this direction.
+This is essentially a confirmation of the drug's original use rather than true repurposing, and the product's US market status is "Cancelled only."
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hereditary angioedema (acute attacks). The US license record has no indication text, so this comes from the pack's mechanistic rationale. |
+| Original Indication | Hereditary angioedema |
 | Predicted New Indication | C1 inhibitor deficiency |
-| TxGNN Prediction Score | 99.999% (model rank 101) |
+| TxGNN Prediction Score | 99.999% |
 | Evidence Level | L1 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 1 (BLA125495) |
+| US Market Status | Cancelled only |
+| Number of NDAs | 1 (BLA 125495) |
 | Recommended Decision | Proceed with Guardrails |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not recorded in the pack. Conestat alfa is a recombinant human C1 esterase inhibitor (a serpin) produced in transgenic rabbits. It replaces the missing or dysfunctional C1-INH and restores control of the classical complement, contact/kallikrein-kinin and fibrinolytic cascades. This limits bradykinin generation, which drives the swelling attacks.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known information, conestat alfa is a recombinant form of human C1 inhibitor (C1-INH), produced in transgenic rabbits. It directly replaces the deficient or dysfunctional C1-INH protein in patients.
 
-C1 inhibitor deficiency is the root cause of HAE types I/II, so the prediction is direct protein replacement in the deficient state. It is not a distant mechanistic leap. Its short half-life limits use for routine prophylaxis. Its established role is treating acute attacks.
+C1-INH regulates the complement, contact (kallikrein-kinin) and coagulation systems. When it is lacking, bradykinin-driven swelling attacks occur. Supplying functional C1-INH restores this control. Hereditary angioedema is caused by C1-INH deficiency or dysfunction, so the predicted indication is essentially the same disease as the original indication. The prediction therefore confirms the approved use and is not a true repurposing.
 
-The same knowledge-graph link also appears as the rank 3 prediction, "hereditary angioedema with C1Inh deficiency", with the same evidence base and the same decision.
+The other nine predictions are much weaker. Serpinopathy with toxic serpin polymerization likely scores high because C1-INH is a serpin. However, that disease arises from intracellular misfolding, which extracellular replacement is unlikely to correct. The remaining predictions are mostly platelet or bleeding disorders (for example Glanzmann thrombasthenia, Scott syndrome and pseudo-von Willebrand disease). They have no plausible mechanistic link, no trials and no literature, and appear to be model artifacts. All of these are rated **Hold** at evidence level L5.
 
-The other predictions (ranks 2 and 4-10) are weak. They include serpinopathy, Glanzmann thrombasthenia, Scott syndrome, pseudo-von Willebrand disease, and several platelet or thrombocytopenia disorders. They have no trials or literature and no plausible C1-INH mechanism, and they are likely graph-proximity artifacts. All are **Hold** (L5).
+---
 
 ## Clinical Trial Evidence
 
-The 10 most relevant of 41 registered trials are listed. Trials of plasma-derived C1-INH are class-level evidence, not conestat alfa itself. Product identity for trials not named in the pack was inferred from titles and should be verified.
-
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT06690047](https://clinicaltrials.gov/study/NCT06690047) | Phase 4 | Completed | 5 | Ruconest for the HAE prodrome, to prevent progression to acute attacks. Directly on-drug but very small. |
-| [NCT00261053](https://clinicaltrials.gov/study/NCT00261053) | Phase 2 | Completed | 14 | Open-label recombinant human C1-INH for acute HAE attacks, exploring efficacy, safety and PK/PD. |
-| [NCT00262301](https://clinicaltrials.gov/study/NCT00262301) | Phase 3 | Completed | 75 | Randomized, placebo-controlled, double-blind trial of recombinant C1-INH for acute HAE attacks. |
-| [NCT01188564](https://clinicaltrials.gov/study/NCT01188564) | Phase 3 | Completed | 75 | Placebo-controlled trial with open-label extension of rhC1INH 50 U/kg, confirming efficacy, safety and immunogenicity. |
-| [NCT00225147](https://clinicaltrials.gov/study/NCT00225147) | Phase 2/3 | Completed | 77 | Randomized, placebo-controlled study of recombinant C1-INH in acute HAE attacks. |
-| [NCT02247739](https://clinicaltrials.gov/study/NCT02247739) | Phase 2 | Completed | 32 | Placebo-controlled 3-period crossover of recombinant C1-INH for attack prophylaxis. |
-| [NCT01359969](https://clinicaltrials.gov/study/NCT01359969) | Phase 2 | Completed | 57 | Open-label Ruconest 50 U/kg in children aged 2-13 with acute HAE attacks. |
-| [NCT03697187](https://clinicaltrials.gov/study/NCT03697187) | N/A (registry) | Completed | 152 | Real-world safety registry of Ruconest in HAE. |
-| [NCT06679426](https://clinicaltrials.gov/study/NCT06679426) | Phase 3 | Not yet recruiting | 24 | Conestat alfa vs placebo for ACE-inhibitor-induced angioedema, a possible expansion beyond HAE. |
-| [NCT00289211](https://clinicaltrials.gov/study/NCT00289211) | Phase 3 | Completed | 83 | Placebo-controlled trial of plasma-derived C1-INH in acute HAE attacks (class-level). |
+| [NCT00262301](https://clinicaltrials.gov/study/NCT00262301) | Phase 3 | Completed | 75 | Randomized, double-blind, placebo-controlled trial of efficacy and safety in acute HAE attacks |
+| [NCT00225147](https://clinicaltrials.gov/study/NCT00225147) | Phase 2/3 | Completed | 77 | Randomized, double-blind, placebo-controlled trial of safety, efficacy and pharmacokinetics in acute HAE attacks |
+| [NCT02247739](https://clinicaltrials.gov/study/NCT02247739) | Phase 2 | Completed | 32 | Randomized, double-blind, placebo-controlled 3-period crossover trial of prophylaxis of HAE attacks |
+| [NCT04414631](https://clinicaltrials.gov/study/NCT04414631) | Phase 2 | Terminated | 80 | Open-label pilot of prevention of severe disease in hospitalized COVID-19 patients; only tangentially relevant |
+
+---
 
 ## Literature Evidence
 
-The 10 most relevant of 20 publications are listed. The Lancet 2017 paper is a Phase 2 RCT, so it is typed RCT on the basis of its title. The 2018 paper is typed RCT in the source classification, but its title and abstract read as an expert review.
-
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [28754491](https://pubmed.ncbi.nlm.nih.gov/28754491/) | 2017 | RCT (Phase 2, crossover) | Lancet | Recombinant human C1-INH evaluated for prophylaxis of HAE attacks. |
-| [30021471](https://pubmed.ncbi.nlm.nih.gov/30021471/) | 2018 | RCT (per source classification) | Expert Rev Clin Immunol | Conestat alfa for prophylaxis in adults and adolescents with HAE. |
-| [22946752](https://pubmed.ncbi.nlm.nih.gov/22946752/) | 2012 | Review | BioDrugs | Efficacy shown in two similar randomized, double-blind, placebo-controlled trials in HAE attacks. |
-| [23420425](https://pubmed.ncbi.nlm.nih.gov/23420425/) | 2013 | Systematic review | Pneumonol Alergol Pol | Compares conestat alfa, human C1-INH and icatibant for acute HAE attacks. |
-| [24801469](https://pubmed.ncbi.nlm.nih.gov/24801469/) | 2014 | Cohort | Allergy Asthma Proc | Home treatment of 65 edematous episodes in two patients, assessing real-life efficacy and safety. |
-| [31982824](https://pubmed.ncbi.nlm.nih.gov/31982824/) | 2020 | Cohort | Int Immunopharmacol | Home use of rhC1-INH for attacks and short-term prophylaxis, evaluating efficacy and safety. |
-| [22171564](https://pubmed.ncbi.nlm.nih.gov/22171564/) | 2012 | Cohort | BioDrugs | Effects of recombinant C1-INH on coagulation and fibrinolysis, addressing thromboembolic concern. |
-| [27940765](https://pubmed.ncbi.nlm.nih.gov/27940765/) | 2016 | Guideline | Pediatrics | Management of children with HAE due to C1-INH deficiency. |
-| [26250409](https://pubmed.ncbi.nlm.nih.gov/26250409/) | 2015 | Review | Immunotherapy | Recombinant replacement therapy for HAE due to C1-INH deficiency. |
-| [39675680](https://pubmed.ncbi.nlm.nih.gov/39675680/) | 2025 | Study | J Allergy Clin Immunol | Clinical response and blood transcriptome pathways before and after treatment of HAE prodromes vs active attacks. |
+| [30021471](https://pubmed.ncbi.nlm.nih.gov/30021471/) | 2018 | RCT | Expert Rev Clin Immunol | Conestat alfa for prophylaxis of attacks in adults and adolescents with HAE; registered for acute attacks in Europe and elsewhere |
+| [22946752](https://pubmed.ncbi.nlm.nih.gov/22946752/) | 2012 | Review | BioDrugs | Efficacy in angioedema attacks shown in two similar randomized, double-blind, placebo-controlled trials |
+| [23420425](https://pubmed.ncbi.nlm.nih.gov/23420425/) | 2013 | Review | Pneumonol Alergol Pol | Systematic-review comparison of conestat alfa, plasma-derived C1-INH and icatibant in acute HAE attacks |
+| [24801469](https://pubmed.ncbi.nlm.nih.gov/24801469/) | 2014 | Cohort | Allergy Asthma Proc | Real-life home treatment of 65 edematous episodes in two patients |
+| [24556385](https://pubmed.ncbi.nlm.nih.gov/24556385/) | 2014 | Cohort | Eur J Dermatol | Use in patients with resistant or frequent hereditary or acquired angioedema attacks |
+| [39675680](https://pubmed.ncbi.nlm.nih.gov/39675680/) | 2025 | Cohort | J Allergy Clin Immunol | Clinical response and blood transcriptome pathways before and after treatment of HAE prodromes versus active attacks |
+| [23776358](https://pubmed.ncbi.nlm.nih.gov/23776358/) | 2010 | Review | Appl Clin Genet | Recent developments in treating acute abdominal and facial HAE attacks, focusing on C1-INH |
+| [29357215](https://pubmed.ncbi.nlm.nih.gov/29357215/) | 2018 | Review | Skin Therapy Lett | New HAE treatments, including recombinant C1-INH and kallikrein-kinin pathway drugs |
+| [19093699](https://pubmed.ncbi.nlm.nih.gov/19093699/) | 2008 | Review | Drugs | Current and emerging HAE management options in the US |
+
+---
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA125495 | Ruconest | Injection, powder, for solution (injectable) | Pharming Healthcare Inc. |
+| BLA 125495 (cancelled) | Ruconest (Pharming Healthcare Inc.) | Injection, powder, for solution | Not listed in the data compiled for this report |
 
-The license record contains no approved-indication text.
+---
 
 ## Safety Considerations
 
-- **Drug Interactions**: The DDI query returned no records.
-- **Points flagged in the evidence review**:
-  - Hypersensitivity, because the product is derived from rabbit milk.
-  - Thromboembolic risk, which is a known concern with C1-INH products.
-  - Labeled patient-selection limits.
+- **Drug Interactions**: 41 interactions were recorded. One is rated Major (carfilzomib). The others shown are rated Moderate and include:
+  - Androgens and anabolic steroids: oxandrolone, oxymetholone, stanozolol, testosterone, danazol, prasterone enantate
+  - Estrogens and related agents: ethinylestradiol, estradiol, conjugated estrogens, esterified estrogens, diethylstilbestrol, dienestrol, drospirenone
+  - Thrombolytics: alteplase, anistreplase
+  - Erythropoiesis-stimulating agents: darbepoetin alfa, erythropoietin
 
-No formal warnings or contraindications were captured in the pack. Please refer to the package insert for full safety information.
+  These Moderate interactions are likely related to thrombotic risk, though the data compiled for this report do not describe the mechanism.
+
+For warnings and contraindications, please refer to the package insert.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-C1-INH replacement in C1-INH deficiency is mechanistically direct. There are several completed Phase 3 and Phase 2 trials of recombinant C1-INH, plus registry and real-world data. The drug is already marketed in the US. The evidence is strong, but much of the trial base is class-level, and the pack has no label text or safety data.
+For C1 inhibitor deficiency and hereditary angioedema, two completed Phase 3 or Phase 2/3 placebo-controlled RCTs and a Phase 2 crossover RCT support efficacy, so the evidence is strong (L1). However, this confirms the original indication rather than identifying a new use. The US product (Ruconest, BLA 125495) is listed as cancelled, so current availability is uncertain. The other nine predicted indications have no supporting evidence and should be held.
 
 **To proceed, the following is needed:**
-- The Ruconest package insert (indications, warnings, contraindications), to confirm the approved indication and complete the safety screen.
-- Verification of product identity for trials graded on class-level evidence (for example NCT02247739).
-- A monitoring plan for hypersensitivity and thromboembolic events.
-- A separate evaluation of ACE-inhibitor-induced angioedema (NCT06679426) if that expansion is pursued.
-
-*This report is for research reference only and does not constitute medical advice. Predicted indications require clinical validation before any application.*
+- Verify the current US regulatory status and availability of conestat alfa. Consider currently marketed C1-INH products if it is unavailable.
+- Obtain the FDA package insert to complete the warnings and contraindications review. This is currently a blocking gap for safety screening.
+- Obtain mechanism-of-action data (for example from DrugBank).
+- Review the Major interaction with carfilzomib and the Moderate interactions with estrogens, androgens and thrombolytics before use.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

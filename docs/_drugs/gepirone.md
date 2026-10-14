@@ -29,75 +29,81 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Gepirone: From Depressive Disorders to Benign Paroxysmal Torticollis of Infancy
+# Gepirone: From Depression to Benign Paroxysmal Torticollis of Infancy
 
 ## One-Sentence Summary
 
-Gepirone is a 5-HT1A receptor partial agonist developed for depressive disorders, and it is currently marketed in the US as an extended-release tablet (EXXUA).
-The TxGNN model predicts it may be effective for **benign paroxysmal torticollis of infancy**.
-There are **0 clinical trials** and **0 publications** supporting this direction, so it is a model prediction only.
+Gepirone was originally developed to treat depression and anxiety disorders.
+The TxGNN model predicts it may be effective for **benign paroxysmal torticollis of infancy**, but **0 clinical trials** and **0 publications** currently support this prediction.
+Two other predictions, agoraphobia and postpartum depression, have somewhat more supporting evidence and are described briefly below.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Depressive disorders (the licence records provided contain no indication text) |
+| Original Indication | Unipolar depression, endogenous depression, major depressive disorder, anxiety disorder (the U.S. license record contains no indication text; these indications come from the knowledge graph) |
 | Predicted New Indication | Benign paroxysmal torticollis of infancy |
 | TxGNN Prediction Score | 99.67% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 4 entries, all under NDA021164 |
+| US Market Status | Cancelled only (no valid licences) |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Gepirone is a 5-HT1A partial agonist, and this is the only mechanistic information available. Detailed mechanism-of-action data is not available in the Evidence Pack. Its established use is in adults.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacological knowledge, gepirone is a 5-HT1A receptor agonist (an azapirone, related to buspirone-type anxiolytics). Its efficacy in depression and anxiety is the basis of its original indications.
 
-Benign paroxysmal torticollis of infancy is considered a migraine equivalent and is often linked to CACNA1A channelopathy. The link to serotonergic modulation is therefore speculative. The high TxGNN score reflects a model pattern, not clinical evidence.
+Benign paroxysmal torticollis of infancy is regarded as a migraine-related channelopathy, associated with variants in CACNA1A. A serotonergic link is therefore plausible, but it is speculative. The condition is also self-limiting and occurs in infants, and no safety data exist for gepirone in this age group. The high TxGNN score is not backed by clinical or mechanistic evidence.
 
-The population is infants, which sets a much higher safety bar. No paediatric data for gepirone was found.
+**Other predictions in the data (for context):**
 
-Two other predictions for this drug have more support than this one:
+| Rank | Predicted Indication | TxGNN Score | Evidence Level | Decision |
+|------|------|------|------|------|
+| 2 | Agoraphobia | 99.66% | L3 | Research question |
+| 3 | Postpartum depression | 99.52% | L4 | Hold |
 
-- **Agoraphobia:** one 1993 open-label study in panic disorder.
-- **Postpartum depression:** only general depression reviews.
-
-Both are rated L4 and framed as research questions.
+- **Agoraphobia** lies within the anxiety-disorder spectrum, which overlaps with gepirone's original indication. One uncontrolled study supports it (see below).
+- **Postpartum depression** is a subtype of major depressive disorder, so there is an indirect link. The retrieved literature is general and contains no gepirone-specific postpartum data.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials registered for benign paroxysmal torticollis of infancy, nor for the other two predicted indications.
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature is available for benign paroxysmal torticollis of infancy.
+
+For the other predicted indications, the following publications were retrieved:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [8096526](https://pubmed.ncbi.nlm.nih.gov/8096526/) | 1993 | Open-label study | J Clin Psychopharmacol | Uncontrolled 6-week study in 21 patients with generalized anxiety disorder and panic disorder with agoraphobia; gepirone titrated from 2 to 12 mg/day. Not agoraphobia-specific and has no control arm. |
+| [40282849](https://pubmed.ncbi.nlm.nih.gov/40282849/) | 2025 | Narrative review | Medicina (Kaunas) | Review of current and future antidepressant monotherapies; no gepirone-specific postpartum data. |
+| [38993656](https://pubmed.ncbi.nlm.nih.gov/38993656/) | 2024 | Reference book / clinical guide | Psychopharmacol Bull | General guide to psychotropic dosing and monitoring; no gepirone-specific postpartum data. |
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA021164 | EXXUA (Aytu Therapeutics, LLC) | Tablet, extended release (oral) | Not provided in the source data |
-
-The source lists four identical entries under this NDA. They are shown here as one row.
+| NDA021164 | EXXUA (Aytu Therapeutics, LLC) | Tablet, extended release | Not listed in the data (status: cancelled) |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Please refer to the package insert for safety information. No drug interaction records were found, and the knowledge graph lists no contraindicated diseases. No safety data for gepirone in infants are available.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on the model score alone. There are no trials or literature, the mechanistic link is speculative, and the target population is infants, for whom the drug has no established use.
+The TxGNN score is very high, but there are no clinical trials, no literature, and only a speculative mechanistic link for benign paroxysmal torticollis of infancy. The condition is a self-limiting pediatric disorder, and the lack of infant safety data makes the case for further development weak. The U.S. licence is also cancelled.
 
 **To proceed, the following is needed:**
-- Any preclinical or clinical evidence linking 5-HT1A modulation to this condition.
-- Package insert warnings and contraindications, and detailed MOA data.
-- Paediatric safety and dosing data.
-- Consideration of the higher-evidence candidates (agoraphobia, postpartum depression) first.
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
+- Package insert warnings and contraindications (needed for safety screening)
+- Detailed mechanism of action data (MOA)
+- Evidence linking 5-HT1A signalling or CACNA1A-related pathways to this condition
+- Paediatric safety and pharmacokinetic data
+- If a more promising direction is wanted, consider agoraphobia (L3, a research question) as a better-supported alternative to evaluate first
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

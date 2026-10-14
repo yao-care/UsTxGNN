@@ -29,86 +29,78 @@ Evidence Level: **L4** | Predicted Indications: **6**
 
 </div>
 
-# Buprenorphine: From Opioid Therapy to Acute Intermittent Porphyria
+# Buprenorphine: From Opioid Dependence to Acute Intermittent Porphyria
 
 ## One-Sentence Summary
 
-Buprenorphine is a marketed opioid drug with 20 US authorizations, and the pack does not list its approved indication text.
-The TxGNN model predicts it may be effective for **acute intermittent porphyria**, but the evidence is very thin: **0 clinical trials** and **1 publication**, a 1993 anesthesia case report that does not test the drug as a treatment.
-
----
+Buprenorphine is a partial mu-opioid agonist originally used to treat opioid dependence and related substance dependence.
+The TxGNN model predicts it may be effective for **Acute Intermittent Porphyria**,
+but there are currently **0 clinical trials** and only **1 publication** (an anesthetic case report), so this prediction rests almost entirely on the model score.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Opioid dependence (also substance abuse/dependence and morphine dependence) |
 | Predicted New Indication | Acute intermittent porphyria |
 | TxGNN Prediction Score | 99.41% |
 | Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| US Market Status | Cancelled only (all 11 listed authorizations are cancelled) |
+| Number of NDAs | 11 authorizations in total (4 NDAs and ANDAs combined as listed; see table below) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, buprenorphine is an opioid, and the retrieved pharmacology literature describes it as a mu-opioid partial agonist with antagonist properties. No mechanistic pathway linking these properties to acute intermittent porphyria (AIP) has been established.
+Currently, detailed mechanism of action data is not available. Based on known information, buprenorphine is a mu-opioid partial agonist, its use in opioid dependence is established, and the data compiled for this report do not show a clear mechanistic route to acute intermittent porphyria.
 
-The relationship between the original use and AIP is also unclear. The only retrieved article is a case report on anesthetic management of a patient with suspected AIP. It concerns perioperative safety, not treatment of the disease. The high TxGNN score (0.994) is a computational prediction from the knowledge graph. It should not be read as clinical support.
+Acute intermittent porphyria is a disorder of heme biosynthesis, which has no evident connection to opioid receptor partial agonism. The only publication retrieved describes anesthetic management of a patient with the condition. This suggests opioids might be used for pain control during attacks, rather than as treatment of the underlying disease. The high TxGNN score (0.994) is therefore not supported by clinical data. In addition, whether buprenorphine is safe in porphyria (for example, whether it can trigger attacks) would need to be verified before any use.
 
----
+Other predicted indications (lingual-facial-buccal dyskinesia, chronic tic disorder, continuous spikes and waves during sleep, extrapyramidal and movement disease, benign shuddering attacks) have scores of 99.0–99.3% but are likewise supported by no clinical trials and no direct literature. For the epileptic encephalopathy (continuous spikes and waves during sleep), a safety concern is more plausible than a therapeutic rationale, since opioids may affect seizure threshold.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [8301837](https://pubmed.ncbi.nlm.nih.gov/8301837/) | 1993 | Case report | Masui (Japanese Journal of Anesthesiology) | Anesthetic management of a 40-year-old woman with suspected AIP who underwent surgery for a malignant ovarian tumor before her porphyria tests came back. It addresses perioperative safety, not disease treatment. |
-
----
+| [8301837](https://pubmed.ncbi.nlm.nih.gov/8301837/) | 1993 | Case report | Masui (Japanese Journal of Anesthesiology) | Anesthetic management of a 40-year-old woman with suspected acute intermittent porphyria undergoing surgery for ovarian tumor; addresses perioperative care, not treatment of the disease |
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form |
-|---------|------|------|
-| ANDA211586 | Buprenorphine (Amneal Pharmaceuticals NY LLC) | Extended-release patch |
-| ANDA090622 | Buprenorphine hydrochloride (RemedyRepack Inc.) | Tablet |
-| ANDA078633 | Buprenorphine (Major Pharmaceuticals) | Tablet |
-| NDA021306 | Butrans (Purdue Pharma LP) | Extended-release patch |
-| ANDA201760 | Buprenorphine (AvPAK) | Tablet |
+The product listing shows no approved indication text. All 11 authorizations are currently cancelled.
 
-Other available forms across all 20 authorizations include soluble film and injection.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA021306 | Butrans | Extended-release patch | Not listed |
+| NDA207932 | BELBUCA | Soluble film | Not listed |
+| NDA210136 | BRIXADI | Injection | Not listed |
+| ANDA211586 | Buprenorphine | Extended-release patch | Not listed |
+| ANDA090622 | Buprenorphine hydrochloride | Tablet | Not listed |
 
----
+Six further generic authorizations (tablets and patches) are also cancelled.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindication-related conditions (from the knowledge graph, not label text)**: Cardiovascular and rhythm conditions (long QT syndrome, familial long QT syndrome, torsades de pointes, orthostatic hypotension, postural orthostatic tachycardia syndrome, multiple system atrophy); respiratory conditions (COPD, respiratory failure); liver and biliary disease (liver disease, gallbladder disease, chronic hepatitis B and C); endocrine conditions (adrenocortical insufficiency, Addison disease, hypothyroidism, myxedema); gastrointestinal and urinary obstruction (paralytic ileus, intestinal obstruction, benign prostatic hyperplasia, urethral stricture); raised intracranial pressure (pseudotumor cerebri, intracranial hypertension); and drug dependence and substance-related disorders.
+- **Drug Interactions**: 100 interactions were identified; the first 20 reviewed include several rated **Major**: morphine, alvimopan, bupropion, cisapride and dolasetron. Many others are rated Moderate (for example famotidine, loperamide, hyoscyamine, atropine, dexamethasone, clarithromycin, cimetidine, aprepitant).
 
----
+Please refer to the package insert for label warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The AIP prediction has no registered trials and only one tangential case report, so it rests almost entirely on the model score. The pack also lacks basic drug-level data (mechanism of action, package insert warnings), so safety screening cannot start.
+The TxGNN score is high, but no clinical trials exist and the only publication is an anesthetic case report with no efficacy signal. There is no clear mechanistic link, and all US authorizations are cancelled. Safety in porphyria has not been established.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Detailed mechanism of action data, to test whether any plausible link to AIP exists
-- Literature reviewed for actual therapeutic evidence in AIP, such as pain management in acute attacks, and a check of opioid safety in porphyria
-- Confirmation of the approved indication text from the US labels
-
-**Other predictions:** The five lower-ranked predictions also stay at Hold. They are lingual-facial-buccal dyskinesia, chronic tic disorder, continuous spikes and waves during sleep, extrapyramidal and movement disease, and benign shuddering attacks. None has clinical trials or supportive therapeutic literature. Several appear to share the same knowledge-graph signal, so they are not independent evidence.
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Package insert warnings and contraindications (required for safety screening)
+- Mechanism of action data
+- Assessment of porphyrinogenic potential of buprenorphine
+- Evidence of efficacy beyond pain management in acute intermittent porphyria, or reconsideration of other predicted indications with stronger rationale
+- Clarification of the cancelled US regulatory status and the approved indication text
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

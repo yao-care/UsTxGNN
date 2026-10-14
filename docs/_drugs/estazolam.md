@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Estazolam
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 673
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Estazolam
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,13 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Estazolam: From Sedative-Hypnotic (Original Indication Not Recorded) to Insomnia
+# Estazolam: From Insomnia (On-Label Use) to Insomnia (Disease)
 
 ## One-Sentence Summary
 
-Estazolam is a benzodiazepine sedative-hypnotic sold in the US as generic tablets, but the US license records supplied here contain no indication text.
-The TxGNN model predicts it may be effective for **insomnia**, with **12 clinical trials** and **18 publications** retrieved for this direction.
-Insomnia is already a recognized use of estazolam, so this is closer to confirming an existing use than to true repurposing. Only one completed Phase 3 trial was found, and estazolam's role in it (test drug or comparator) is unconfirmed.
+Estazolam is a triazolo-benzodiazepine sedative-hypnotic. The original indication field for this drug was not populated in the data compiled for this report.
+The TxGNN model's top prediction is **insomnia**, which is in fact estazolam's established use, so this is not a true repurposing case.
+The prediction is supported by **7 clinical trials** and **19 publications** retrieved for this indication.
 
 ---
 
@@ -43,41 +43,37 @@ Insomnia is already a recognized use of estazolam, so this is closer to confirmi
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (no indication text in the US license records) |
-| Predicted New Indication | Insomnia |
+| Original Indication | Not available in the US license records (indication text is blank). Insomnia is the established use of the drug. |
+| Predicted New Indication | Insomnia (disease) |
 | TxGNN Prediction Score | 99.48% |
-| Evidence Level | L2 (see note below) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 6 licenses reported (all ANDA generics; only 3 unique ANDA numbers appear in the list) |
+| Evidence Level | L1 (as scored in the compiled data; see the note under Clinical Trial Evidence) |
+| US Market Status | Cancelled only (no active licenses) |
+| Number of NDAs | 3 (all ANDAs, all cancelled) |
 | Recommended Decision | Proceed with Guardrails |
-
-**Note on evidence level:** The pack's scoring section labels this L1. Under the L1–L5 rules, L1 needs at least 2 completed Phase 3 RCTs. Only one completed Phase 3 trial was found (NCT00347295), and its estazolam role is unconfirmed. I have therefore assigned L2 here.
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Estazolam is a triazolo-benzodiazepine. It acts as a positive allosteric modulator of GABA-A receptors, which produces sedative-hypnotic effects. This drug-mechanism-disease link is direct and well established. Detailed mechanism data were not supplied in the pack's MOA field; the mechanism described here comes from the pack's repurposing rationale.
+Estazolam is a triazolo-benzodiazepine. It acts as a positive allosteric modulator of GABA-A receptors, enhancing inhibitory neurotransmission and producing sedative-hypnotic effects. This mechanism directly matches the pathophysiology targeted in insomnia. Detailed mechanism-of-action data was not populated in the source record, so this description comes from the mechanistic rationale compiled for the prediction.
 
-Insomnia is an established use of the drug, and an older US clinical review (PMID 1968721) reports that estazolam 1 mg and 2 mg improved sleep latency, total sleep time and sleep quality in adults with chronic insomnia. The empty "original indication" field is a gap in the input data, not evidence against the prediction.
+Insomnia is the established, on-label use of estazolam, so the "new indication" here largely confirms the known use. The model's other predictions (visual epilepsy, alcohol withdrawal delirium, restless legs syndrome, myofascial pain syndrome, and several reflex seizure types) rest mainly on the general anticonvulsant and sedative effects of benzodiazepines. Their supporting evidence is preclinical or absent (see the table at the end of the report).
 
 ---
 
 ## Clinical Trial Evidence
 
-Only trials with a plausible estazolam link are listed. Several are trials of acupuncture or herbal products in which estazolam is only a comparator or background therapy.
-
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00347295](https://clinicaltrials.gov/study/NCT00347295) | Phase 3 | Completed | 253 | Randomized, double-blind, double-dummy, multicenter trial of brotizolam vs estazolam in insomnia outpatients. No results summary in the pack. |
-| [NCT00956319](https://clinicaltrials.gov/study/NCT00956319) | Phase 4 | Completed | 42 | Zolpidem modified release vs estazolam (Eurodin) as the comparator in primary insomnia. |
-| [NCT06859190](https://clinicaltrials.gov/study/NCT06859190) | Phase 3 | Recruiting | 60 | Auricular pressure beans plus electroacupuncture combined with estazolam for cancer-related insomnia. The test intervention is the non-drug therapy. |
-| [NCT03997058](https://clinicaltrials.gov/study/NCT03997058) | Phase 4 | Unknown | 120 | Auricular acupoint pressing vs oral estazolam for insomnia in maintenance hemodialysis patients. |
-| [NCT07306494](https://clinicaltrials.gov/study/NCT07306494) | Phase 4 | Not yet recruiting | 1200 | Compound Ciwujia Granules vs estazolam (double-dummy) in chronic insomnia. Estazolam is a comparator. |
-| [NCT06212934](https://clinicaltrials.gov/study/NCT06212934) | N/A | Unknown | 96 | Acupuncture at "Chou's Tiaoshen" acupoints, tested for non-inferiority to estazolam in short-term insomnia. |
-| [NCT06258226](https://clinicaltrials.gov/study/NCT06258226) | N/A | Unknown | 108 | Auricular acupressure to reduce estazolam use in drug-dependent insomnia. |
-| [NCT02648776](https://clinicaltrials.gov/study/NCT02648776) | N/A | Unknown | 1400 | Prospective cohort of hypnotic use, efficacy and safety in elderly patients at a Taiwanese medical center. |
-| [NCT03420105](https://clinicaltrials.gov/study/NCT03420105) | N/A | Completed | 75 | Prospective memory and sleep in breast cancer. No direct estazolam efficacy question. |
+| [NCT00347295](https://clinicaltrials.gov/study/NCT00347295) | Phase 3 | Completed | 253 | Randomized, double-blind, double-dummy, multicenter comparison of brotizolam vs. estazolam in insomnia outpatients (efficacy and safety). Strongest direct evidence. |
+| [NCT00956319](https://clinicaltrials.gov/study/NCT00956319) | Phase 4 | Completed | 42 | Zolpidem modified-release in primary insomnia, with estazolam (Eurodin) as the active comparator. |
+| [NCT06859190](https://clinicaltrials.gov/study/NCT06859190) | Phase 3 | Recruiting | 60 | Auricular pressure beans plus electroacupuncture combined with estazolam for cancer-related insomnia. No results yet. |
+| [NCT06258226](https://clinicaltrials.gov/study/NCT06258226) | NA | Unknown | 108 | Auricular acupressure to reduce estazolam use in drug-dependent insomnia. Informative about dependence and tapering, not efficacy. |
+| [NCT03997058](https://clinicaltrials.gov/study/NCT03997058) | Phase 4 | Unknown | 120 | Auricular acupoint pressing vs. oral estazolam for insomnia in maintenance hemodialysis patients. |
+| [NCT07306494](https://clinicaltrials.gov/study/NCT07306494) | Phase 4 | Not yet recruiting | 1200 | Compound Ciwujia Granules vs. estazolam (double-dummy) in chronic insomnia. No results. |
+| [NCT05452577](https://clinicaltrials.gov/study/NCT05452577) | NA | Completed | 187 | Traditional Chinese medicine (Yin-Yang theory) for chronic insomnia. Estazolam is not evidently the focus. |
+
+**Note on the evidence level:** Only one completed Phase 3 trial (NCT00347295) was found, and it is a comparator study. Strictly applying the level rules (L1 needs at least 2 completed Phase 3 RCTs), the trial evidence would sit closer to L2. The L1 label comes from the scoring in the compiled data and is reinforced by the long-established clinical use of estazolam.
 
 ---
 
@@ -85,39 +81,42 @@ Only trials with a plausible estazolam link are listed. Several are trials of ac
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [1968721](https://pubmed.ncbi.nlm.nih.gov/1968721/) | 1990 | Clinical review | Am J Med | US clinical experience: estazolam 1 mg and 2 mg improved sleep latency, total sleep time, awakenings and sleep quality in chronic insomnia. The 2 mg dose remained effective for at least 6 weeks of nightly use. |
-| [36571227](https://pubmed.ncbi.nlm.nih.gov/36571227/) | 2022 | RCT | Zhen Ci Yan Jiu | Shallow-needle therapy combined with estazolam in insomnia (liver stagnation transforming into fire pattern), with ACTH and cortisol measured. |
-| [37697875](https://pubmed.ncbi.nlm.nih.gov/37697875/) | 2023 | Clinical study | Zhongguo Zhen Jiu | Syndrome-differentiation acupuncture vs estazolam in chronic insomnia, including effects on cognitive function. |
-| [33798303](https://pubmed.ncbi.nlm.nih.gov/33798303/) | 2021 | Clinical observation | Zhongguo Zhen Jiu | Baduanjin plus auricular point sticking vs oral estazolam for COVID-19-related insomnia. |
-| [30625122](https://pubmed.ncbi.nlm.nih.gov/30625122/) | 2018 | Review | Med Lett Drugs Ther | "Drugs for chronic insomnia" (no abstract available). |
-| [31013432](https://pubmed.ncbi.nlm.nih.gov/31013432/) | 2019 | Systematic review | J Altern Complement Med | Updated systematic review of RCTs on acupuncture for primary insomnia. Not estazolam-specific. |
-| [40896345](https://pubmed.ncbi.nlm.nih.gov/40896345/) | 2025 | Scoping review | Integr Med Res | Chinese herbal medicine and acupuncture for insomnia comorbid with chronic pain. Not estazolam-specific. |
-| [25532388](https://pubmed.ncbi.nlm.nih.gov/25532388/) | 2014 | Real-world analysis | Zhongguo Zhong Yao Za Zhi | Concurrent diseases and medicine use among insomnia patients in 20 hospitals (1,067 cases). |
-| [40827342](https://pubmed.ncbi.nlm.nih.gov/40827342/) | 2025 | Cross-sectional | Psychiatry Clin Psychopharmacol | Drug use for insomnia in a Chinese medicine hospital in Shenzhen. |
-| [38007723](https://pubmed.ncbi.nlm.nih.gov/38007723/) | 2023 | Preclinical | Stud Health Technol Inform | Flos Daturae sedative-hypnotic effects in mice, with estazolam as the positive control. |
+| [42455420](https://pubmed.ncbi.nlm.nih.gov/42455420/) | 2026 | RCT | Chinese Journal of Integrative Medicine | Acupuncture combined with estazolam for insomnia in hemodialysis patients (single-center RCT). |
+| [36571227](https://pubmed.ncbi.nlm.nih.gov/36571227/) | 2022 | RCT | Zhen Ci Yan Jiu | Shallow-needle therapy plus estazolam for insomnia (liver stagnation transforming into fire pattern). |
+| [1968721](https://pubmed.ncbi.nlm.nih.gov/1968721/) | 1990 | Review | American Journal of Medicine | US clinical experience: estazolam 1 mg and 2 mg improved sleep latency, total sleep time, awakenings, and sleep quality in chronic insomnia. The 2 mg dose remained effective over at least 6 weeks of nightly use. |
+| [31013432](https://pubmed.ncbi.nlm.nih.gov/31013432/) | 2019 | Systematic Review | J Altern Complement Med | Updated systematic review of RCTs on acupuncture for primary insomnia. |
+| [30625122](https://pubmed.ncbi.nlm.nih.gov/30625122/) | 2018 | Review | Medical Letter on Drugs and Therapeutics | Overview of drugs for chronic insomnia. |
+| [30625124](https://pubmed.ncbi.nlm.nih.gov/30625124/) | 2018 | Review | Medical Letter on Drugs and Therapeutics | Expanded table of oral hypnotics for chronic insomnia. |
+| [42343684](https://pubmed.ncbi.nlm.nih.gov/42343684/) | 2026 | Clinical study | Zhen Ci Yan Jiu | Acupuncture combined with estazolam in chronic insomnia. |
+| [37697875](https://pubmed.ncbi.nlm.nih.gov/37697875/) | 2023 | Clinical study | Zhongguo Zhen Jiu | Syndrome-differentiation acupuncture vs. estazolam in chronic insomnia, including cognitive function. |
+| [33798303](https://pubmed.ncbi.nlm.nih.gov/33798303/) | 2021 | Clinical observation | Zhongguo Zhen Jiu | Baduanjin plus auricular point sticking vs. oral estazolam for COVID-19 patients with insomnia. |
+| [40827342](https://pubmed.ncbi.nlm.nih.gov/40827342/) | 2025 | Cross-sectional | Psychiatry and Clinical Psychopharmacology | Drug use for insomnia in a Chinese medicine hospital in Shenzhen. |
 
 ---
 
 ## US Market Information
 
-Three unique ANDA numbers appear in the license list, and two of them are listed twice. All products are oral tablets. No approved-indication text was provided for any license.
-
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA074818 | Estazolam | Tablet | Actavis Pharma, Inc. |
-| ANDA074921 | Estazolam | Tablet | Dr. Reddy's Laboratories Inc. |
-| ANDA074826 | Estazolam | Tablet | Novitium Pharma LLC |
+| ANDA074818 (Actavis Pharma, Inc.) | Estazolam | Tablet | Not listed (cancelled) |
+| ANDA074921 (Dr. Reddy's Laboratories Inc.) | Estazolam | Tablet | Not listed (cancelled) |
+| ANDA074826 (Novitium Pharma LLC) | Estazolam | Tablet | Not listed (cancelled) |
+
+All three authorizations are cancelled, so no estazolam product is currently active in the US market.
 
 ---
 
 ## Safety Considerations
 
-The package insert warnings and contraindications were not retrieved, so please refer to the package insert for safety information. No drug-interaction records were found.
+**Contraindication signals from the knowledge graph** (drug-disease contraindication links in the TxGNN knowledge graph, not package-insert text):
+anxiety disorder, neurotic disorder, dysthymic disorder, kidney disease, liver disease, gallbladder disease, psychotic disorder, schizophreniform disorder, schizoaffective disorder, mental disorder, obstructive sleep apnea syndrome, sleep apnea syndrome, congenital central hypoventilation syndrome, myasthenia gravis, neuromuscular junction disease, substance-related disorder, and substance abuse/dependence.
 
-The pack's repurposing rationale lists these guardrails:
-- Estazolam is a controlled substance.
-- Risks include dependence, tolerance, next-day impairment and falls, especially in elderly patients.
-- Short-term use is preferred.
+**Drug Interactions:** The interaction query returned 100 records. Examples from the first 20:
+- **Major:** morphine, morphine (liposomal). Additive central nervous system and respiratory depression is the main concern with opioids.
+- **Moderate:** bupropion, aprepitant, omeprazole, cimetidine, clarithromycin, dronabinol, nabilone, metoclopramide, opium, sibutramine, teduglutide.
+- **Minor:** antacids and magnesium or calcium salts (magnesium oxide, aluminum hydroxide, calcium carbonate, magaldrate, magnesium carbonate, magnesium hydroxide).
+
+For warnings and label contraindications, please refer to the package insert for safety information.
 
 ---
 
@@ -126,14 +125,26 @@ The pack's repurposing rationale lists these guardrails:
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-The mechanism is direct and the insomnia use is long established. However, the trial evidence is weaker than it looks. Only one Phase 3 trial is completed, and most other trials test acupuncture or herbal products with estazolam as a comparator. Controlled-substance risks also call for guardrails.
+Insomnia is estazolam's established use, and a completed Phase 3 randomized trial plus a body of supportive literature back it. Because this is not a true repurposing opportunity, all licenses are cancelled in the US, and the label safety data is missing, development should proceed only with guardrails. The other nine predictions are rated Hold: the evidence is preclinical or absent, as summarized below.
+
+| Predicted Indication | Evidence Level | Decision |
+|------|------|------|
+| Visual epilepsy | L4 | Hold |
+| Alcohol withdrawal delirium | L5 | Hold |
+| Restless legs syndrome | L5 | Hold |
+| Myofascial pain syndrome | L5 | Hold |
+| Thinking seizures | L5 | Hold |
+| Micturition-induced seizures | L5 | Hold |
+| Audiogenic seizures | L4 | Hold |
+| Eating seizures | L5 | Hold |
+| Orgasm-induced seizures | L5 | Hold |
 
 **To proceed, the following is needed:**
-- The US package insert (warnings, contraindications, labeled indication) to close the safety and indication gaps.
-- Confirmation of estazolam's role (test drug or comparator) in NCT00347295 and NCT00956319, and retrieval of their results.
-- A short-term-use and elderly-patient monitoring plan covering dependence, next-day impairment and fall risk.
-
-The other nine predicted indications (ranks 2–10) are all seizure, withdrawal, restless legs and pain conditions. They rest on class-level or preclinical evidence only and are not recommended for advancement at this stage.
+- The FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Confirmation of the original indication from the license records, and clarification of the regulatory status of the cancelled ANDAs
+- Confirmation that estazolam is an arm (and not only the comparator) in the key trials, such as NCT00347295 and NCT00956319
+- A risk plan for dependence, respiratory depression with opioids, and use in patients with sleep apnea, hepatic or renal disease, or a history of substance abuse
+- Confirmation of the mechanism of action from DrugBank
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

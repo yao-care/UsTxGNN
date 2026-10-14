@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Tocilizumab
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 1238
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Tocilizumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L3** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,9 +33,9 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Tocilizumab is an anti-IL-6 receptor antibody used mainly for rheumatoid arthritis and juvenile idiopathic arthritis, according to the retrieved literature.
-The TxGNN model predicts it may be effective for **ankylosing spondylitis** with a very high score (99.99%). However, the only two direct Phase 3 trials were **terminated** and are **not supportive of efficacy**.
-Of the **9 retrieved trials**, only 2 test tocilizumab in this disease. The **19 publications** include no completed positive trial.
+Tocilizumab is an IL-6 receptor antibody originally used for rheumatoid arthritis, juvenile idiopathic arthritis, giant cell arteritis and Castleman disease.
+The TxGNN model predicts it may be effective for **Ankylosing Spondylitis**, but the two main Phase 3 trials (**2 trials**) were **terminated**, and the **19 publications** are mostly reviews, with only one trial-result report (BUILDER-1/2) and one case report.
+The strongest-supported prediction among the top 10 is actually **polyarticular juvenile idiopathic arthritis**, which overlaps with an existing indication.
 
 ---
 
@@ -43,23 +43,23 @@ Of the **9 retrieved trials**, only 2 test tocilizumab in this disease. The **19
 
 | Item | Content |
 |------|------|
-| Original Indication | Rheumatoid arthritis (taken from the literature; the license records supplied contain no indication text) |
+| Original Indication | Rheumatoid arthritis, juvenile idiopathic arthritis, giant cell arteritis, Castleman disease and others (the US license indication text is not available in the data compiled for this report) |
 | Predicted New Indication | Ankylosing spondylitis |
-| TxGNN Prediction Score | 99.99% (rank 498) |
-| Evidence Level | L1 by trial design (two Phase 3 RCTs), but both were terminated and non-supportive, so it does not meet the "completed" criterion |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (the licenses are biologics licenses, BLA numbers) |
+| TxGNN Prediction Score | 99.99% |
+| Evidence Level | L3 |
+| US Market Status | Cancelled only (6 licenses, all cancelled) |
+| Number of NDAs | 6 (all BLAs) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Tocilizumab is a humanized monoclonal antibody that blocks the interleukin-6 receptor (IL-6R). IL-6 is a pro-inflammatory cytokine that has been implicated in axial inflammation in ankylosing spondylitis (AS). Detailed mechanism-of-action data from DrugBank were not supplied. The mechanistic reasoning here relies on the published literature.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known information, tocilizumab is a humanized monoclonal antibody that blocks the interleukin-6 (IL-6) receptor. Its efficacy in rheumatoid arthritis and juvenile idiopathic arthritis is established.
 
-Rheumatoid arthritis and AS are both chronic inflammatory rheumatic diseases in which cytokine signaling drives joint and spine inflammation. This is why the model links them. Reviews in the evidence set describe IL-6 blockade as a candidate strategy for AS patients who fail TNF inhibitors.
+IL-6 contributes to systemic inflammation and bone effects in spondyloarthritis, so blocking its receptor is biologically plausible. Ankylosing spondylitis also shares inflammatory pathways with the rheumatic diseases the drug already treats.
 
-The clinical evidence does not support this link. Both dedicated AS Phase 3 trials were terminated after about a year, and the reason for termination is not in the supplied data. The pack's own analysis notes that, from background knowledge, the program reported a lack of efficacy, and this should be checked against the primary publication. The very high TxGNN score is therefore not corroborated by clinical data.
+The clinical record is less supportive. Two randomized placebo-controlled trials in AS were terminated, and the published literature indicates that IL-6 blockade did not show benefit comparable to TNF or IL-17 inhibition. The prediction is therefore mechanistically plausible but not clinically confirmed.
 
 ---
 
@@ -67,14 +67,10 @@ The clinical evidence does not support this link. Both dedicated AS Phase 3 tria
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT01209689](https://clinicaltrials.gov/study/NCT01209689) | Phase 3 | Terminated | 113 | Placebo-controlled RCT of tocilizumab 8 mg/kg or 4 mg/kg vs placebo in AS patients with inadequate response to TNF antagonists. Efficacy results are not in the supplied data. |
-| [NCT01209702](https://clinicaltrials.gov/study/NCT01209702) | Phase 3 (Ph II/III seamless) | Terminated | 306 | Placebo-controlled RCT of tocilizumab 8 mg/kg in NSAID-failed, TNF-naïve AS patients. Efficacy results are not in the supplied data. |
-| [NCT01965132](https://clinicaltrials.gov/study/NCT01965132) | N/A | Recruiting | 10,000 | Korean biologics registry covering RA, AS and PsA. Observational, not tocilizumab-specific. |
-| [NCT05670301](https://clinicaltrials.gov/study/NCT05670301) | N/A | Recruiting | 2,500 | Cytokine and biomarker profiling cohort in systemic inflammatory diseases. No efficacy question. |
-| [NCT05696106](https://clinicaltrials.gov/study/NCT05696106) | N/A | Unknown | 750,000 | Registry of new immune-mediated inflammatory diseases after biologics. Epidemiologic only. |
-| [NCT02569736](https://clinicaltrials.gov/study/NCT02569736) | N/A | Completed | 60 | Mechanistic study of tocilizumab on T follicular helper cells, apparently in RA. Indirect. |
-
-The remaining retrieved trials concern an infliximab biosimilar observational study, perioperative immunosuppressant management, and Takayasu arteritis. They are not relevant to tocilizumab efficacy in AS.
+| [NCT01209689](https://clinicaltrials.gov/study/NCT01209689) | Phase 3 | Terminated | 113 | Placebo-controlled; tocilizumab 8 or 4 mg/kg IV vs placebo in AS with inadequate response to TNF antagonists. Terminated, so no efficacy conclusion can be drawn |
+| [NCT01209702](https://clinicaltrials.gov/study/NCT01209702) | Phase 2/3 | Terminated | 306 | Seamless placebo-controlled study in TNF-naïve AS patients who failed NSAIDs. Early termination weakens the evidence |
+| [NCT01965132](https://clinicaltrials.gov/study/NCT01965132) | N/A | Recruiting | 10,000 | Korean registry of biologics safety in RA, AS and PsA; no tocilizumab-specific AS efficacy data |
+| [NCT07138898](https://clinicaltrials.gov/study/NCT07138898) | Phase 2 | Recruiting | 80 | Perioperative immunosuppressant management in rheumatology patients undergoing shoulder arthroplasty; not an efficacy trial |
 
 ---
 
@@ -82,34 +78,43 @@ The remaining retrieved trials concern an infliximab biosimilar observational st
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [23765873](https://pubmed.ncbi.nlm.nih.gov/23765873/) | 2014 | RCT report (BUILDER-1/2) | Ann Rheum Dis | Assessed short-term symptomatic efficacy and safety of tocilizumab in AS. The supplied abstract does not include the results. |
-| [26986130](https://pubmed.ncbi.nlm.nih.gov/26986130/) | 2016 | Network meta-analysis | Medicine | Compares biologic regimens for AS across RCTs. Context for where tocilizumab stands against approved biologics. |
-| [22452603](https://pubmed.ncbi.nlm.nih.gov/22452603/) | 2012 | Review | Inflamm Allergy Drug Targets | Discusses IL-6 antagonism in AS and the role of IL-6 in its pathogenesis. |
-| [22450391](https://pubmed.ncbi.nlm.nih.gov/22450391/) | 2012 | Review | Curr Opin Rheumatol | Reviews alternatives for AS patients refractory to TNF inhibition. |
-| [21803631](https://pubmed.ncbi.nlm.nih.gov/21803631/) | 2011 | Review | Joint Bone Spine | Biologic agents for AS beyond TNFα antagonists. |
-| [29290076](https://pubmed.ncbi.nlm.nih.gov/29290076/) | 2018 | Meta-analysis | Clin Rheumatol | Serious-infection risk of biologics in AS and non-radiographic axSpA RCTs (safety context). |
-| [28413099](https://pubmed.ncbi.nlm.nih.gov/28413099/) | 2017 | Review | Semin Arthritis Rheum | Second-line biologic optimization in RA, PsA and AS. |
-| [33981717](https://pubmed.ncbi.nlm.nih.gov/33981717/) | 2021 | Case report | Front Med | Two AS patients with AA amyloidosis treated with tocilizumab. This is a complication-specific report, not evidence of efficacy against AS itself. |
+| [23765873](https://pubmed.ncbi.nlm.nih.gov/23765873/) | 2014 | RCT report (BUILDER-1/2) | Ann Rheum Dis | Short-term symptomatic efficacy and safety of tocilizumab in AS from the two randomized placebo-controlled trials |
+| [26986130](https://pubmed.ncbi.nlm.nih.gov/26986130/) | 2016 | Systematic review / network meta-analysis | Medicine | Comparative effectiveness of biologic regimens for AS |
+| [36260501](https://pubmed.ncbi.nlm.nih.gov/36260501/) | 2022 | Systematic review | RMD Open | Literature review informing consensus on IL-6 pathway inhibition in immune-mediated inflammatory diseases |
+| [31852268](https://pubmed.ncbi.nlm.nih.gov/31852268/) | 2020 | Systematic review / meta-analysis | Expert Rev Clin Immunol | Infection risk with biologics vs non-biologics in inflammatory arthritis |
+| [22452603](https://pubmed.ncbi.nlm.nih.gov/22452603/) | 2012 | Review | Inflamm Allergy Drug Targets | Short review of antagonizing IL-6 in AS |
+| [22450391](https://pubmed.ncbi.nlm.nih.gov/22450391/) | 2012 | Review | Curr Opin Rheumatol | Alternatives for AS patients refractory to TNF inhibition |
+| [25488787](https://pubmed.ncbi.nlm.nih.gov/25488787/) | 2014 | Review | Best Pract Res Clin Rheumatol | Treatment of spondyloarthritis beyond TNF-alpha blockade |
+| [33981717](https://pubmed.ncbi.nlm.nih.gov/33981717/) | 2021 | Case report | Front Med | Two cases of AA amyloidosis in AS successfully treated with tocilizumab |
+| [29290076](https://pubmed.ncbi.nlm.nih.gov/29290076/) | 2018 | Meta-analysis | Clin Rheumatol | Serious infection risk with biologics in AS and nr-axSpA |
+| [39963138](https://pubmed.ncbi.nlm.nih.gov/39963138/) | 2025 | Review/Guideline | Front Immunol | Tuberculosis risk, screening and preventive therapy in patients on biologics |
 
 ---
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA125472 | Actemra | Injection, solution | Genentech, Inc. |
-| BLA761420 | AVTOZMA | Injection, solution | CELLTRION USA, Inc. |
-| BLA761420 | Tocilizumab-anoh | Injection, solution, concentrate | CELLTRION USA, Inc. |
-| BLA761354 | TOFIDENCE | Injection | Organon LLC |
-| BLA761449 | TYENNE | Injection, solution | Fresenius Kabi USA, LLC |
+| BLA761420 | AVTOZMA (Celltrion USA) | Injection, solution | Not available (status: cancelled) |
+| BLA761354 | TOFIDENCE (Organon) | Injection | Not available (status: cancelled) |
+| BLA125472 | Actemra (Genentech) | Injection, solution | Not available (status: cancelled) |
+| BLA761449 | TYENNE (Fresenius Kabi) | Injection, solution | Not available (status: cancelled) |
+| BLA125276 | ACTEMRA (Genentech) | Injection, solution, concentrate | Not available (status: cancelled) |
 
-These are 5 of 20 licenses, all injectable. Approved-indication text is not included in the supplied records.
+A sixth license, BLA761275 (TYENNE, injection solution concentrate, Fresenius Kabi), is also listed as cancelled. All six licenses carry a cancelled status in the data compiled for this report, which conflicts with the fact that these products are widely marketed. This should be verified against current FDA records.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: 100 interactions were identified, of which the main ones listed are below.
+  - **Major**: Deferiprone
+  - **Moderate**: Warfarin, apixaban, rivaroxaban, dicoumarol (anticoagulants); simvastatin, rosuvastatin; chloroquine, hydroxychloroquine; metronidazole, tinidazole, secnidazole, benznidazole; disulfiram; naltrexone; lidocaine
+  - **Minor**: Zinc salts (sulfate, acetate, gluconate, chloride)
+
+For warnings and contraindications, please refer to the package insert; this information was not available in the data compiled for this report.
+
+Safety points noted in the literature for IL-6 blockade include infection risk (including tuberculosis, so screening is advised), liver injury, neutropenia and lipid changes. Case reports describe tocilizumab-associated vasculitis-like reactions.
 
 ---
 
@@ -118,14 +123,14 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-Both Phase 3 RCTs of tocilizumab in AS were terminated and are not supportive, and no other clinical data show benefit. The high TxGNN score is not backed by clinical evidence, so repurposing for AS is not justified at present.
+The IL-6 rationale for ankylosing spondylitis is plausible, but both dedicated Phase 3 trials were terminated and there is no confirmed efficacy; the evidence is limited to reviews and case reports (L3). Among the other top-10 predictions, only the JIA entries have strong support, and polyarticular JIA (Phase 3 randomized withdrawal trial NCT00988221, L1, Proceed with Guardrails) is an established use rather than true repurposing. Rheumatoid vasculitis has only case reports (L4, research question). The remaining predictions (coccyx hypermobility, Kummell disease, IL12B-deficiency mycobacterial susceptibility and others) are model predictions only or are safety concerns, and are likely false positives.
 
 **To proceed, the following is needed:**
-- The termination reasons and efficacy results for NCT01209689 and NCT01209702, from the primary publication (BUILDER-1/2, PMID 23765873) and the trial registry results.
-- Package insert warnings and contraindications, which are currently missing and block the safety screen.
-- Mechanism-of-action data from DrugBank.
-
-**Note on other predictions:** Polyarticular juvenile idiopathic arthritis (rank 7) has the strongest evidence in this pack, including a completed Phase 3 withdrawal trial (NCT00988221, n=188). It appears to be an on-label use, so label status should be verified before treating it as repurposing.
+- Review of the BUILDER-1/2 results and the reasons for termination to determine whether it reflected lack of efficacy or feasibility
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data (MOA)
+- Verification of the US license status, since all six BLAs show as cancelled
+- If pursuing a different direction, a dedicated plan for polyarticular JIA (guardrails: monitor infections, neutrophil counts, liver enzymes and lipids; screen for tuberculosis) or a prospective study in rheumatoid vasculitis
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

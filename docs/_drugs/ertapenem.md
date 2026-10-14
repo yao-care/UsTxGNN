@@ -29,33 +29,32 @@ Evidence Level: **L4** | Predicted Indications: **2**
 
 </div>
 
-# Ertapenem: From Bacterial Infections to Bacterial Arthritis
+# Ertapenem: From Bacterial Pneumonia to Bacterial Arthritis
 
 ## One-Sentence Summary
 
-Ertapenem is a broad-spectrum carbapenem antibiotic given by injection and marketed in the United States.
-The TxGNN model predicts it may be effective for **bacterial arthritis**, but **no clinical trials** are registered for this indication.
-The **10 retrieved publications** are mostly case reports and small cohorts, so the evidence is weak.
+Ertapenem is a broad-spectrum carbapenem antibiotic, originally used for bacterial infections such as bacterial pneumonia and streptococcal pneumonia.
+The TxGNN model predicts it may be effective for **bacterial arthritis**, but so far there are **0 registered clinical trials** and only a handful of case reports and small cohort studies. Several of the **10 publications** compiled are off-topic or only indirectly related.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not provided in the input data (ertapenem is a carbapenem antibacterial) |
+| Original Indication | Bacterial pneumonia, streptococcal pneumonia, Peptostreptococcus infection (from the TxGNN knowledge graph; no label indication text was available) |
 | Predicted New Indication | Bacterial arthritis |
 | TxGNN Prediction Score | 99.72% |
 | Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 17 |
+| US Market Status | ✗ Cancelled only (no currently valid licenses) |
+| Number of NDAs | 6 (1 NDA, 5 ANDAs; all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the input. Ertapenem is a carbapenem, and this class is generally active against many Enterobacterales, including ESBL producers, and against anaerobes. These are the organisms reported in the retrieved case reports of septic arthritis and bone/joint infection, such as *Klebsiella pneumoniae*, *Prevotella bivia* and *Clostridium paraputrificum*.
+Detailed mechanism of action data is not available in the data compiled for this report. Ertapenem is a carbapenem, and carbapenems generally act by binding penicillin-binding proteins and blocking bacterial cell wall synthesis. The reasoning below rests on that general class pharmacology.
 
-Bacterial arthritis is an infection, so an antibiotic that covers the causative organisms is a plausible fit. Once-daily dosing also suits outpatient parenteral antimicrobial therapy (OPAT), and one long-term OPAT safety cohort exists, in which bone and joint infections were among the indications.
+The drug covers many pathogens that cause septic arthritis and bone and joint infections. These include Enterobacterales (such as *Klebsiella pneumoniae* and *Citrobacter koseri*) and anaerobes (such as *Prevotella* and *Clostridium*). Its original indications are also bacterial infections, so extending it to a joint infection with similar organisms is mechanistically plausible, and the high TxGNN score is consistent with this.
 
-The high TxGNN score is a graph-based prediction. The retrieved literature contains no controlled comparison in bacterial arthritis.
+The supporting evidence is weak, though. It consists of case reports, a mixed-infection outpatient cohort, and general reviews. No trial has tested ertapenem specifically in bacterial arthritis.
 
 ## Clinical Trial Evidence
 
@@ -65,49 +64,50 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [24709258](https://pubmed.ncbi.nlm.nih.gov/24709258/) | 2014 | Cohort | Antimicrob Agents Chemother | Retrospective study of 306 patients on outpatient ertapenem. Indications included intra-abdominal infection, pneumonia and bone/joint infection. Provides long-term safety and efficacy data. |
-| [22233826](https://pubmed.ncbi.nlm.nih.gov/22233826/) | 2011 | Case report | J Chemother | *Klebsiella pneumoniae* septic wrist arthritis treated successfully with ertapenem plus levofloxacin. |
-| [31352398](https://pubmed.ncbi.nlm.nih.gov/31352398/) | 2019 | Case report | BMJ Case Rep | *Citrobacter koseri* osteomyelitis with septic arthritis in a diabetic foot, alongside gout, treated successfully with ertapenem. |
-| [31220276](https://pubmed.ncbi.nlm.nih.gov/31220276/) | 2019 | Cohort | J Antimicrob Chemother | Ten patients received off-label subcutaneous β-lactam suppressive therapy for bone and joint infections when optimal surgery was not feasible. |
-| [41878879](https://pubmed.ncbi.nlm.nih.gov/41878879/) | 2026 | Cohort | J Antimicrob Chemother | Temocillin was evaluated as an alternative to carbapenems for bone and joint infections caused by third-generation cephalosporin-resistant Enterobacterales. These infections are hard to treat, and treatment often relies on carbapenems. |
-| [39193962](https://pubmed.ncbi.nlm.nih.gov/39193962/) | 2024 | Cohort | Clin Lab | Pathogen distribution and antimicrobial resistance in bone and joint infections in children under four years old. |
-| [31585203](https://pubmed.ncbi.nlm.nih.gov/31585203/) | 2020 | Case report/Review | Anaerobe | First reported case of *Clostridium paraputrificum* septic arthritis and osteomyelitis of the shoulder, with a literature review. |
-| [37578166](https://pubmed.ncbi.nlm.nih.gov/37578166/) | 2023 | Case report/Review | J Investig Med High Impact Case Rep | *Prevotella bivia* septic arthritis in an immunocompetent adult, with a literature review. |
-| [38924836](https://pubmed.ncbi.nlm.nih.gov/38924836/) | 2024 | In vitro study | Diagn Microbiol Infect Dis | Auranofin restored ertapenem susceptibility in carbapenem-resistant *E. coli*. This is laboratory evidence only. |
-| [29183082](https://pubmed.ncbi.nlm.nih.gov/29183082/) | 2017 | Review | JAMA | Review of hidradenitis suppurativa. It has low relevance to bacterial arthritis. |
+| [24709258](https://pubmed.ncbi.nlm.nih.gov/24709258/) | 2014 | Retrospective cohort | Antimicrob Agents Chemother | Long-term outpatient ertapenem therapy in 306 adults; most common indications were intra-abdominal infection, pneumonia and bone/joint infection. Mixed infections, not specific to septic arthritis |
+| [31220276](https://pubmed.ncbi.nlm.nih.gov/31220276/) | 2019 | Cohort (n=10) | J Antimicrob Chemother | Subcutaneous suppressive β-lactam therapy in bone and joint infections; ertapenem is not necessarily the focus |
+| [22233826](https://pubmed.ncbi.nlm.nih.gov/22233826/) | 2011 | Case report | J Chemother | *Klebsiella pneumoniae* septic wrist arthritis successfully treated with ertapenem and levofloxacin |
+| [31352398](https://pubmed.ncbi.nlm.nih.gov/31352398/) | 2019 | Case report | BMJ Case Rep | *Citrobacter koseri* septic arthritis and osteomyelitis in a diabetic foot with concomitant gout, successfully treated with ertapenem |
+| [31585203](https://pubmed.ncbi.nlm.nih.gov/31585203/) | 2020 | Case report + review | Anaerobe | First reported *Clostridium paraputrificum* shoulder septic arthritis and osteomyelitis; relevant to anaerobic coverage (treatment details not shown in the available excerpt) |
+| [37578166](https://pubmed.ncbi.nlm.nih.gov/37578166/) | 2023 | Case report + review | J Investig Med High Impact Case Rep | *Prevotella bivia* septic arthritis in an immunocompetent adult (treatment details not shown in the available excerpt) |
+| [38924836](https://pubmed.ncbi.nlm.nih.gov/38924836/) | 2024 | In vitro | Diagn Microbiol Infect Dis | Auranofin restored ertapenem susceptibility in carbapenem-resistant *E. coli*; preclinical only |
+| [39193962](https://pubmed.ncbi.nlm.nih.gov/39193962/) | 2024 | Surveillance study | Clin Lab | Pathogen distribution and resistance in bone and joint infections in young children; background data, not ertapenem-specific |
+| [41878879](https://pubmed.ncbi.nlm.nih.gov/41878879/) | 2026 | Cohort/in vitro | J Antimicrob Chemother | Temocillin as an alternative to carbapenems for bone and joint infections caused by third-generation-cephalosporin-resistant Enterobacterales; shows carbapenems are the usual comparator |
+| [29183082](https://pubmed.ncbi.nlm.nih.gov/29183082/) | 2017 | Review | JAMA | Hidradenitis suppurativa review; off-topic for septic arthritis |
 
 ## US Market Information
 
-The input does not include approved-indication text for these authorizations, so that column is omitted. Only 5 of the 17 authorizations are listed. ANDA218067 appears three times with different manufacturers.
+All 6 authorizations are cancelled, and no label indication text was available. The first five are listed below.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| NDA021337 | INVANZ | Lyophilized powder for injection | Merck Sharp & Dohme LLC |
-| ANDA218067 | Ertapenem | Lyophilized powder for injection | Qilu Antibiotics Pharmaceutical Co., Ltd. |
-| ANDA218067 | Ertapenem | Lyophilized powder for injection | Hikma Pharmaceuticals USA Inc. |
-| ANDA208790 | Ertapenem | Lyophilized powder for injection | Fresenius Kabi USA, LLC |
-| ANDA218067 | Ertapenem | Lyophilized powder for injection | Sagent Pharmaceuticals |
+| Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
+|---------|------|------|-----------|------|
+| NDA021337 | INVANZ | Injection, powder, lyophilized, for solution | Merck Sharp & Dohme LLC | Cancelled |
+| ANDA218067 | Ertapenem | Injection, powder, lyophilized, for solution | Qilu Antibiotics Pharmaceutical Co., Ltd. | Cancelled |
+| ANDA208790 | Ertapenem | Injection, powder, lyophilized, for solution | Fresenius Kabi USA, LLC | Cancelled |
+| ANDA207647 | Ertapenem | Injection | Savior Lifetec Corporation | Cancelled |
+| ANDA212040 | Ertapenem | Injection, powder, lyophilized, for solution | Fosun Pharma USA Inc | Cancelled |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Knowledge-graph contraindication signals** (from drug-disease edges, not label text): epilepsy, kidney disease, pyoureter, *Clostridium difficile* colitis, perinatal necrotizing enterocolitis.
+- **Drug Interactions**: 38 interactions were recorded. The one rated Major is **bupropion**. Three are rated Moderate: **picosulfuric acid**, **polyethylene glycol (3350 with electrolytes)** and **sodium sulfate**. The remaining listed interactions have no severity rating, including vancomycin, metronidazole, metformin, morphine and omeprazole.
+
+Please refer to the package insert for warnings, contraindications and dosing information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high, but there are no registered trials and no controlled comparison in bacterial arthritis. The supporting evidence is limited to case reports and small cohorts. Ertapenem is already marketed, so the safety profile is established, but its benefit in this indication is unproven.
-
-For reference, the second prediction, *Staphylococcus aureus* infection, has a stronger signal (Evidence Level L3). It rests on cefazolin plus ertapenem for persistent MSSA bacteremia, and a Phase 2 RCT (NCT04886284) is recruiting. It is worth tracking separately.
+The mechanistic fit is reasonable and the TxGNN score is high. However, the evidence consists of case reports and mixed-infection cohorts, with no registered trials and no controlled data in bacterial arthritis. All US licenses are also listed as cancelled.
 
 **To proceed, the following is needed:**
-- Package insert warnings, contraindications and approved indications, which are currently missing and block the safety screening
-- Mechanism of action data from DrugBank
-- Comparative data or a prospective study of ertapenem in bacterial arthritis (septic arthritis), with a bone/joint penetration and PK/PD assessment
-- Pathogen-specific analysis, since ertapenem has limited coverage of *Pseudomonas* and enterococci
+- Prospective or well-designed comparative studies of ertapenem in septic arthritis and bone and joint infections, including pathogen-specific outcomes
+- Mechanism of action data and the official package insert warnings and contraindications
+- Confirmation of current US availability, since all listed licenses are cancelled
+- A review of the knowledge-graph contraindication signals (kidney disease, epilepsy, *C. difficile* colitis) against the label
 
-*This report is for research reference only and does not constitute medical advice. Predicted candidates require clinical validation before any use.*
+A separate direction may be worth considering. The second-ranked prediction, *Staphylococcus aureus* infection, has a Phase 2 trial (NCT04886284, cefazolin plus ertapenem in MSSA bacteremia) and supporting salvage-therapy case series. It has stronger evidence than bacterial arthritis, but it is a combination-regimen question, not ertapenem monotherapy.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

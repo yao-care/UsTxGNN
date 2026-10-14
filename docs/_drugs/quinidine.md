@@ -29,90 +29,74 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Quinidine: From Cardiac Arrhythmia to Nephrogenic Syndrome of Inappropriate Antidiuresis
+# Quinidine: From Atrial Fibrillation to Nephrogenic Syndrome of Inappropriate Antidiuresis
 
 ## One-Sentence Summary
 
-Quinidine is a class Ia antiarrhythmic that has long been marketed in the United States as oral tablets and capsules. The TxGNN model predicts it may be effective for **nephrogenic syndrome of inappropriate antidiuresis (NSIAD)**. Currently there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model score alone.
-
----
+Quinidine was originally used to treat atrial fibrillation and malaria.
+The TxGNN model predicts it may be effective for **Nephrogenic Syndrome of Inappropriate Antidiuresis (NSIAD)**,
+but currently there are **0 clinical trials** and **0 publications** supporting this direction. The prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Cardiac arrhythmia (class Ia antiarrhythmic; the supplied license records contain no indication text) |
+| Original Indication | Atrial fibrillation; malaria |
 | Predicted New Indication | Nephrogenic syndrome of inappropriate antidiuresis |
 | TxGNN Prediction Score | 99.27% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 9 (all are generic ANDA filings) |
+| US Market Status | Cancelled only (all listed authorizations are cancelled) |
+| Number of NDAs | 5 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the supplied record. Quinidine is known as a class Ia antiarrhythmic that blocks sodium and potassium channels and also inhibits CYP2D6. Its efficacy in arrhythmia is established, but nothing in the supplied data links these actions to the kidney's handling of water.
+Currently, detailed mechanism of action data is not available. Based on known information, quinidine is a class Ia antiarrhythmic (a sodium and potassium channel blocker) and also has antimalarial activity. Its efficacy in atrial fibrillation and malaria is established.
 
-NSIAD is caused by gain-of-function variants in the vasopressin V2 receptor gene (*AVPR2*), or in some cases by GNAS-related signaling changes. These drive water retention independent of vasopressin. Quinidine does not act at the V2 receptor or downstream of it, so a mechanistic link is not apparent.
-
-The high score (0.993) most likely reflects indirect proximity in the knowledge graph, such as shared ion-channel or cAMP/aquaporin-related neighbours, rather than a validated mechanism. Because NSIAD arises from constitutive receptor activation, an agent that does not act on this pathway is not expected to help.
-
----
+NSIAD is caused by gain-of-function variants in the vasopressin V2 receptor gene (AVPR2) or, in some cases, GNAS. These variants cause the kidney collecting duct to reabsorb water inappropriately even when vasopressin levels are low. A possible link is that quinidine's ion channel activity or off-target effects influence renal water handling or vasopressin signaling. This is speculative, and the data compiled for this report contain no evidence supporting it. The high score (0.993) reflects a graph-based model prediction only. The model's rank for this prediction is 16,214.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
-
-The supplied record lists 9 licenses in total. Five are shown below, and the same authorization number appears under several manufacturers.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA089338 | Quinidine Gluconate (Golden State Medical Supply) | Tablet, extended release | Not provided |
-| ANDA088072 | Quinidine Sulfate (Epic Pharma, LLC) | Tablet | Not provided |
-| ANDA089338 | Quinidine Gluconate (Richmond Pharmaceuticals, Inc.) | Tablet, extended release | Not provided |
-| ANDA212589 | Quinidine Gluconate (Eywa Pharma Inc) | Tablet, extended release | Not provided |
-| ANDA089338 | Quinidine Gluconate (Sun Pharmaceutical Industries, Inc.) | Tablet, extended release | Not provided |
+| ANDA089338 | Quinidine Gluconate | Extended-release tablet | Not available (cancelled) |
+| ANDA088072 | Quinidine Sulfate | Tablet | Not available (cancelled) |
+| ANDA212589 | Quinidine Gluconate | Extended-release tablet | Not available (cancelled) |
+| ANDA218426 | Dextromethorphan hydrobromide and quinidine sulfate | Capsule | Not available (cancelled) |
+| NDA021879 | Nuedexta | Gelatin-coated capsule | Not available (cancelled) |
 
-All listed products are oral: extended-release tablets, tablets, capsules and gelatin-coated capsules.
-
----
+All five authorizations are cancelled, and no valid single-ingredient or combination authorizations remain.
 
 ## Safety Considerations
 
-- **Cardiac risk**: Quinidine can prolong the QT interval, which would need to be weighed against any speculative benefit.
-- **Drug interactions**: Quinidine inhibits CYP2D6, so interactions with other CYP2D6 substrates are a concern. The interaction database query returned no records.
+- **Disease associations flagged as contraindications in the knowledge graph** (not label text): long QT syndrome (including familial), torsades de pointes, heart failure, atrioventricular block, progressive familial heart block, left bundle branch block, digitalis poisoning, hypotensive disorder, myasthenia gravis (including adult-onset) and other neuromuscular junction disease, kidney disease, liver disease, gallbladder disease, thrombocytopenia, potassium deficiency, psoriasis and parapsoriasis, pulmonary emphysema, and esophageal dyskinesia.
+- **Drug Interactions**: 100 interactions were identified; the 20 retrieved include the following.
+  - **Major**: loperamide, clarithromycin, picosulfuric acid, polyethylene glycol (3350 with electrolytes), dolasetron, eliglustat, palonosetron.
+  - **Moderate**: famotidine, ranitidine, cimetidine, metformin, aprepitant, acetylsalicylic acid, bisacodyl, glycopyrronium, chlorpropamide, potassium citrate, eluxadoline, glimepiride, trospium.
 
-Please refer to the package insert for full warnings and contraindications.
-
----
+Package insert warnings and contraindications were not available for this report. Please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The only support is a model score. There are no trials or publications, and no plausible link between quinidine's ion-channel activity and V2 receptor signaling in NSIAD. The safety cost (QT prolongation, CYP2D6 interactions) in a rare, often pediatric-onset disorder is not justified without evidence.
+The prediction score is very high, but no clinical trials, literature, or mechanistic data support it (Evidence Level L5). All US authorizations are cancelled. Quinidine also carries significant cardiac and interaction risks, and these matter for a condition like NSIAD, which is a rare disorder.
 
 **To proceed, the following is needed:**
-- Mechanism of action data for quinidine, and a documented pathway connecting it to V2 receptor or downstream cAMP/aquaporin signaling
-- Preclinical evidence (for example, cell-based assays with gain-of-function *AVPR2* variants)
-- Package insert warnings and contraindications for a formal safety screen
-- A literature and trial search for NSIAD treatments, to confirm no relevant precedent exists
-- Assessment of route compatibility and pediatric dosing feasibility
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
+- Mechanism of action data (MOA) and an evaluation of a plausible link to AVPR2/GNAS signaling or renal water handling
+- Preclinical or in vitro evidence showing quinidine's effect on vasopressin V2 receptor signaling or collecting duct water transport
+- FDA package insert warnings and contraindications, for formal safety screening
+- A literature and trial search for NSIAD treatments to confirm the absence of supporting evidence
+- A risk-benefit assessment of QT prolongation and the major drug interactions in the target population
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

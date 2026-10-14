@@ -29,13 +29,13 @@ Evidence Level: **L4** | Predicted Indications: **7**
 
 </div>
 
-# Methadone: From Opioid Dependence and Pain Treatment to Tourette Syndrome
+# Methadone: From Opioid Use Disorder and Pain to Tourette Syndrome
 
 ## One-Sentence Summary
 
-Methadone is a long-acting opioid agonist, generally used for opioid dependence and severe pain.
-The TxGNN model predicts it may be effective for **Tourette syndrome**, but there are **0 registered clinical trials** and only **1 small clinical report (1992)** directly on this use.
-Overall this is a hypothesis-generating prediction with very limited evidence.
+Methadone is a long-acting opioid agonist used for opioid dependence and pain management, though the US regulatory data compiled for this report contain no approved-indication text.
+The TxGNN model predicts it may be effective for **Tourette syndrome**, but there are currently **0 registered clinical trials** and only **4 publications**, of which only one is a directly relevant 1992 case report or small series.
+This direction rests mainly on a computational prediction, and the evidence is weak.
 
 ---
 
@@ -43,23 +43,23 @@ Overall this is a hypothesis-generating prediction with very limited evidence.
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the supplied label data (methadone is generally used for opioid dependence and severe pain) |
+| Original Indication | Not available in the data compiled for this report (approved-indication text is empty for all licenses) |
 | Predicted New Indication | Tourette syndrome |
 | TxGNN Prediction Score | 99.76% |
 | Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (the five shown are ANDAs) |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 16 licenses (1 NDA, 15 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, methadone is a mu-opioid receptor agonist with established use in opioid dependence and pain. Mechanistically it may be applicable to Tourette syndrome, but this is not confirmed by the supplied data.
+Methadone is a mu-opioid receptor agonist and also an NMDA receptor antagonist. Detailed mechanism-of-action data are not available in the data compiled for this report. Based on known pharmacology, opioid signalling can modulate dopaminergic and striatal circuits, which are thought to be involved in tic expression.
 
-The most plausible route is opioid-system modulation of dopaminergic and striatal circuits, which are involved in tics. A 1992 report describes methadone treatment of Tourette's disorder. A 2007 preclinical paper also notes that opioid drugs are effective in treatment-refractory OCD and Tourette syndrome, and links a 5-HT2A-related behavior to tics.
+The literature offers some indirect support. A 2007 preclinical review notes that opiate drugs have been reported to be effective in treatment-refractory obsessive-compulsive disorder and Tourette syndrome. A 1992 report in the *American Journal of Psychiatry* describes methadone treatment of Tourette's disorder. However, this is a very old, small observation with no modern replication.
 
-The rest of the retrieved literature is indirect. It covers heroin addiction in Tourette patients, chorea reviews and pain reviews. There are no controlled data, so the model score is not backed by clinical evidence.
+The very high TxGNN score (99.76%) is a computational prediction only. It should not be read as clinical evidence.
 
 ---
 
@@ -73,33 +73,34 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [1728167](https://pubmed.ncbi.nlm.nih.gov/1728167/) | 1992 | Case report / small clinical series | Am J Psychiatry | "Methadone treatment of Tourette's disorder." The only direct clinical report. No abstract was available, and it is old and uncontrolled. |
-| [30395551](https://pubmed.ncbi.nlm.nih.gov/30395551/) | 2018 | Observational / case series | J Psychiatr Pract | Heroin addiction in Serbian patients with Tourette syndrome. It shows comorbidity with addiction, not treatment benefit. |
-| [17102981](https://pubmed.ncbi.nlm.nih.gov/17102981/) | 2007 | Preclinical (indirect) | Psychopharmacology | Atypical opiates in OCD, studied through 5-HT2A/C receptor-mediated behavior. It notes that opiates are also effective in refractory OCD and Tourette syndrome. |
-| [15247538](https://pubmed.ncbi.nlm.nih.gov/15247538/) | 2004 | Review (indirect) | Curr Opin Neurol | Review of non-genetic causes of chorea. It is only loosely related to Tourette syndrome. |
-| [39086469](https://pubmed.ncbi.nlm.nih.gov/39086469/) | 2024 | Review (not relevant) | Palliat Care Soc Pract | Novel drugs for neuropathic pain in advanced cancer. It does not address Tourette syndrome. |
+| [1728167](https://pubmed.ncbi.nlm.nih.gov/1728167/) | 1992 | Case report / small clinical series | Am J Psychiatry | Reports methadone treatment of Tourette's disorder (no abstract available) |
+| [17102981](https://pubmed.ncbi.nlm.nih.gov/17102981/) | 2007 | Preclinical / experimental | Psychopharmacology | Atypical opiates in OCD via 5-HT2A/C receptor-mediated behaviour; notes opiates are effective in treatment-refractory OCD and Tourette syndrome |
+| [15247538](https://pubmed.ncbi.nlm.nih.gov/15247538/) | 2004 | Review | Curr Opin Neurol | Review of non-genetic causes of chorea; only indirectly related |
+| [39086469](https://pubmed.ncbi.nlm.nih.gov/39086469/) | 2024 | Review | Palliat Care Soc Pract | Novel drugs for neuropathic pain in advanced cancer; not disease-specific |
 
 ---
 
 ## US Market Information
 
-The supplied records do not include approved indication text. Five of the 20 licenses are shown below.
+All 16 licenses are cancelled, and no approved-indication text is recorded. Five representative licenses are listed below.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA212093 | Methadone Hydrocloride | Concentrate | Atlantic Biologicals Corp. |
-| ANDA203502 | Methadone Hydrochloride | Tablet | Aurolife Pharma, LLC |
-| ANDA212093 | Methadone Hydrocloride | Concentrate | Bryant Ranch Prepack |
-| ANDA077142 | Methadone Hydrochloride | Tablet | SpecGx LLC |
-| ANDA074184 | Methadose Dispersible | Tablet | SpecGx LLC |
-
-Dosage forms on the US market include oral tablets, concentrate, solution and injection.
+| NDA017058 | DISKETS (Hikma) | Tablet | Not available (cancelled) |
+| ANDA074184 | METHADOSE DISPERSIBLE (SpecGx) | Tablet | Not available (cancelled) |
+| ANDA218609 | Methadone Hydrochloride (Hikma) | Injection | Not available (cancelled) |
+| ANDA089897 | Methadone Hydrochloride (Hikma) | Concentrate | Not available (cancelled) |
+| ANDA087393 | Methadone Hydrochloride (Precision Dose) | Solution | Not available (cancelled) |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Package insert warnings and contraindications were not available in the data compiled for this report, so please refer to the package insert for label safety information.
+
+- **Knowledge-graph contraindication signals** (from drug-disease edges, not label text): long QT syndrome, familial long QT syndrome, torsades de pointes, sudden cardiac arrest, heart conduction disease, respiratory failure, epilepsy, asthma, kidney disease, liver disease, gallbladder disease, hypothyroidism, inflammatory bowel disease, paralytic ileus, intestinal obstruction, hypotensive disorder, intracranial hypertension, benign prostatic hyperplasia, substance-related disorder, and others.
+- **Drug Interactions**: 100 interactions were identified. Major interactions among those reviewed include alvimopan, bupropion, morphine, dexamethasone, clarithromycin, picosulfuric acid, polyethylene glycol (3350 with electrolytes), and cisapride. Moderate interactions include famotidine, hyoscyamine, loperamide, aprepitant, atropine, cimetidine, and several anticholinergics and laxatives.
+- **Literature signals**: methadone-induced bradycardia has been reported, and the cardiac (QT) risk is consistent with the knowledge-graph signals above.
 
 ---
 
@@ -108,14 +109,18 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The only direct support for methadone in Tourette syndrome is a single 1992 clinical report, with no registered trials and no controlled data. The high model score (99.76%) is not corroborated, so this stays a research question.
+The Tourette syndrome prediction has a high model score but little real-world support: no registered trials, and only a 1992 small report with no modern replication. Methadone also carries significant cardiac, respiratory, and interaction risks, and the drug currently has no valid US licenses.
 
 **To proceed, the following is needed:**
-- Mechanism of action data for methadone, to test the proposed opioid–dopaminergic link
-- The US package insert (warnings and contraindications), which is needed for any safety screening
-- A systematic literature review, including a search for later case series or trials in Tourette syndrome
-- A risk–benefit assessment against established Tourette therapies, given methadone's dependence and safety profile
-- Consideration of the other predicted indications in the same pack. Headache disorder has slightly more evidence (a 2021 prospective study of low-dose methadone in refractory chronic migraine), but it carries conflicting signals, including opioid-induced hyperalgesia and medication-overuse headache.
+- Complete FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism-of-action data
+- Confirmation of the original approved indications and current US marketing status
+- Review of the 1992 report and any newer clinical data in Tourette syndrome, then a feasibility assessment for a well-designed controlled study
+- A cardiac (QT) and respiratory safety plan, and an assessment of dependence and abuse risk in a young Tourette population
+
+---
+
+*Note on other predicted indications:* nephrogenic syndrome of inappropriate antidiuresis (score 99.73%) and trichotillomania (99.67%) have no supporting evidence. Headache disorder (99.35%) and trigeminal autonomic cephalalgia (99.05%) have literature suggesting that opioids are discouraged or may worsen headache. Manic bipolar affective disorder (99.32%) has only a small 1982 study and indirect literature. For common cold (99.02%), the literature matches came from the "cold pressor" pain test rather than the infection, so it has no real support. All of these remain at **Hold**.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

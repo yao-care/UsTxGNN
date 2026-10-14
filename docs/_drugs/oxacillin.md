@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Oxacillin
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 998
-evidence_level: L4
+evidence_level: L5
 indication_count: 4
 ---
 
 # Oxacillin
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **4** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,82 +33,86 @@ Evidence Level: **L4** | Predicted Indications: **4**
 
 ## One-Sentence Summary
 
-Oxacillin is a penicillinase-resistant beta-lactam antibiotic, mainly active against methicillin-susceptible *Staphylococcus aureus*. The TxGNN model predicts it may be effective for **epiglottitis**, but support is weak: **0 clinical trials** and only **3 old publications** (1971-1988), all case reports or case series that do not test oxacillin.
-
----
+Oxacillin is a penicillinase-resistant beta-lactam antibiotic, originally used to treat staphylococcal infections, including *Staphylococcus aureus* infection, pharyngitis, staphylococcal pneumonia and sinusitis.
+The TxGNN model predicts it may be effective for **Epiglottitis**, but this prediction rests on the model alone, with **0 clinical trials** and **0 publications** currently supporting it.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the US license data provided (oxacillin is generally used against staphylococcal infections) |
+| Original Indication | Staphylococcus aureus infection, staphylococcal infection, pharyngitis, staphylococcal pneumonia, sinusitis (from the knowledge graph; no approved indication text is available in US license records) |
 | Predicted New Indication | Epiglottitis |
 | TxGNN Prediction Score | 99.90% |
-| Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 13 (ANDA generic approvals) |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 8 (1 NDA and 7 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available. Based on known information, oxacillin is a penicillinase-resistant beta-lactam. Its activity is best established against methicillin-susceptible *S. aureus*, and it may be applicable to bacterial infections of the upper airway.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, oxacillin is a penicillinase-resistant beta-lactam. It inhibits bacterial cell wall synthesis and is active against methicillin-susceptible *Staphylococcus aureus* (MSSA).
 
-Epiglottitis is a bacterial infection of the airway, so an antibacterial link is plausible. The mismatch is in the pathogens: the usual causes (*H. influenzae*, streptococci) are not oxacillin's main targets. The very high TxGNN score (0.999) is a model output only. It does not show that oxacillin works in this disease.
+Epiglottitis is mainly caused by *Haemophilus influenzae* and *Streptococcus* species, and less often by *S. aureus*. A mechanistic rationale therefore exists only for staphylococcal cases. Oxacillin is also not a first-line choice, because empirical regimens target *H. influenzae* with third-generation cephalosporins.
 
----
+The high score (0.999) is a model prediction only. It may partly reflect network proximity to the existing upper respiratory indications (pharyngitis, sinusitis) rather than a distinct new therapeutic use.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [3380744](https://pubmed.ncbi.nlm.nih.gov/3380744/) | 1988 | Case report | Pediatric Emergency Care | Epiglottitis in a child with asthma who failed asthma therapy and was found to have epiglottitis after intubation. Discusses airway management, sedation and differential diagnosis. No oxacillin data. |
-| [990756](https://pubmed.ncbi.nlm.nih.gov/990756/) | 1976 | Case report | British Medical Journal | Adult acute epiglottitis requiring tracheostomy. No abstract available. |
-| [4999568](https://pubmed.ncbi.nlm.nih.gov/4999568/) | 1971 | Case series/Review | British Medical Journal | "Epiglottitis in adults". No abstract available. |
-
-None of these publications tests oxacillin.
-
----
+Currently no related literature available.
 
 ## US Market Information
 
+All 8 US authorizations are cancelled. No approved indication text is recorded for any of them.
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA206198 | Oxacillin (Fresenius Kabi USA) | Injection, powder, for solution | Not listed in provided data |
-| ANDA201539 | Oxacillin (Eugia US) | Injection, powder, for solution | Not listed in provided data |
-| ANDA091486 | Oxacillin (Onesource Specialty Pharma) | Injection, powder, for solution | Not listed in provided data |
-| ANDA201538 | Oxacillin (Eugia US) | Powder, for solution | Not listed in provided data |
-| ANDA207148 | Oxacillin (Wockhardt USA) | Injection, powder, for solution | Not listed in provided data |
+| ANDA206198 | Oxacillin (Fresenius Kabi USA) | Injection, powder, for solution | Not recorded |
+| ANDA201539 | Oxacillin (Eugia US) | Injection, powder, for solution | Not recorded |
+| ANDA091486 | Oxacillin (Onesource Specialty Pharma) | Injection, powder, for solution | Not recorded |
+| ANDA201538 | Oxacillin (Eugia US) | Powder, for solution | Not recorded |
+| ANDA207148 | Oxacillin (Wockhardt USA) | Injection, powder, for solution | Not recorded |
 
-There are 13 licenses in total; the 5 above are shown. Available forms are injectable, plus a powder for solution.
-
----
+Three more authorizations (ANDA207147, ANDA206199 and NDA050640, the Baxter injectable solution) are also cancelled.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Knowledge-graph contraindication signals** (not label text): kidney disease, pyoureter, *Clostridium difficile* colitis, perinatal necrotizing enterocolitis, infectious mononucleosis, chronic Epstein-Barr virus infection syndrome.
+- **Drug Interactions**: 41 interactions were identified. The moderate-level ones include:
+  - Doxycycline
+  - Tetracycline
+  - Minocycline
+  - Picosulfuric acid
+  - Iodide I-131
+  
+  Clarithromycin is minor. Many others have an unrated level, including vancomycin, metronidazole, omeprazole and prednisone.
+- **Literature safety signals** (from reports retrieved for other predicted indications): oxacillin-induced DRESS syndrome and leukopenia/granulocytopenia with high-dose therapy.
 
----
+The package insert's warnings and contraindications could not be retrieved, so please refer to it for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone. There are no clinical trials and no oxacillin-specific studies, and the typical epiglottitis pathogens are not oxacillin's main targets. Among the other TxGNN predictions for this drug, bacterial arthritis has the closest fit to oxacillin's established anti-staphylococcal use (L3, two relevant Phase 4 RCTs). It is more of an established antibiotic use than a true repurposing, so it is a better candidate to prioritize than epiglottitis.
+The prediction is supported only by the model score, with no trials or literature for epiglottitis. Staphylococcal involvement is uncommon, and standard empirical therapy targets other organisms. All US licenses are also cancelled.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data from DrugBank
-- Microbiological evidence that oxacillin covers the pathogens that actually cause epiglottitis
-- Any comparative or susceptibility data for oxacillin in epiglottitis, since the current literature is limited to case reports
+- Clinical or observational evidence of oxacillin use in staphylococcal epiglottitis
+- Package insert warnings and contraindications (currently a blocking gap)
+- Mechanism of action data
+- Confirmation of current US availability
+
+### Other Predicted Indications (for reference)
+
+| Indication | TxGNN Score | Evidence Level | Assessment |
+|------|------|------|------|
+| Laryngitis | 99.73% | L5 | Hold. Most cases are viral or non-infectious, and there are no trials or literature. |
+| Bacterial arthritis | 99.50% | L4 | Research question. Oxacillin is already standard care for MSSA bone and joint infection, supported by reviews (e.g., PMID 24119927). It is more a matter of labeling than true repurposing. |
+| Urinary tract infection | 99.03% | L4 | Hold. Oxacillin has no activity against the Gram-negative organisms that cause most UTIs, and the literature is mostly surveillance data. |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,12 +29,13 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Oxcarbazepine: From Focal Seizures to Visual Epilepsy
+# Oxcarbazepine: From Partial Epilepsy to Visual Epilepsy
 
 ## One-Sentence Summary
 
-Oxcarbazepine is an antiseizure medication. The supplied record lists no approved indication text, but the retrieved literature describes it for partial-onset (focal) seizures.
-The TxGNN model predicts it may be effective for **visual epilepsy** (seizures triggered by visual stimuli), with **1 clinical trial** and **19 publications** retrieved. All of that evidence is indirect: none of it studies visual epilepsy specifically.
+Oxcarbazepine is an antiseizure medication originally used to treat partial (focal) epilepsy.
+The TxGNN model predicts it may be effective for **visual epilepsy**, but there are currently **0 registered clinical trials** and only general epilepsy literature (**16 publications**, mostly reviews and guidelines) supporting this direction.
+The evidence is indirect, so this is a model-driven hypothesis at this stage.
 
 ---
 
@@ -42,80 +43,76 @@ The TxGNN model predicts it may be effective for **visual epilepsy** (seizures t
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the supplied license records (literature describes partial-onset seizures) |
+| Original Indication | Partial epilepsy; partial motor epilepsy |
 | Predicted New Indication | Visual epilepsy |
 | TxGNN Prediction Score | 99.95% |
 | Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (all generic ANDA records) |
+| US Market Status | Cancelled only (no currently valid licenses in the data compiled) |
+| Number of NDAs | 11 authorizations in total (1 NDA, 10 ANDAs; all cancelled) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the supplied record. From general pharmacology, oxcarbazepine acts mainly through its active metabolite, 10-hydroxycarbazepine (MHD). MHD blocks voltage-gated sodium channels and reduces repetitive neuronal firing. This mechanism is well suited to focal seizures.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Based on the literature, oxcarbazepine is a derivative of carbamazepine. Its active metabolite, the monohydroxy derivative (MHD), is responsible for its clinical efficacy. It is thought to act by blocking voltage-gated sodium channels, which reduces neuronal hyperexcitability and limits the spread of focal discharges.
 
-Visual epilepsy is a reflex epilepsy in which visual stimuli trigger seizures, and it often has a focal onset. Sodium-channel blockade is therefore a plausible fit. However, the prediction largely overlaps with oxcarbazepine's existing use in focal seizures. It is not a distinct repurposing signal, and no visual-trigger subgroup data were found.
+Visual epilepsy is a focal, visually triggered seizure type. Because oxcarbazepine's efficacy in focal seizures is well established, sodium channel blockade is a plausible mechanism for seizures triggered by visual stimuli.
 
-Other predicted indications in the pack are weaker or different in kind:
+However, the retrieved literature consists of general antiseizure medication reviews and guidelines on focal epilepsy. None specifically addresses visually induced or reflex seizures. The prediction therefore rests mainly on the model score and on the drug's known activity in focal epilepsy.
 
-- **Reflex-seizure types** (audiogenic, eating, thinking, startle, micturition, orgasm, reading): mostly prediction only.
-- **Restless legs syndrome:** three case reports, no controlled data.
-- **Status epilepticus:** one case series, and a case report of oxcarbazepine-induced myoclonic status epilepticus in juvenile myoclonic epilepsy.
+Other predicted indications follow a similar pattern. Most are rare reflex seizure types (audiogenic, eating, thinking, startle, micturition-induced, orgasm-induced, reading seizures) with scores of about 99.8–99.9%. Restless legs syndrome has case-report-level support, and status epilepticus has a small case-level report plus a safety signal. All have no registered clinical trials.
 
 ---
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT00855738](https://clinicaltrials.gov/study/NCT00855738) | Phase 4 | Completed | 111 | Observational study of new antiepileptic drugs, including oxcarbazepine, as first combination therapy in focal epilepsy. No visual-trigger subgroup or oxcarbazepine-specific result, so indirect support only (relevance grade B). |
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-None of these publications addresses visual epilepsy directly. Study types marked with an asterisk (*) were assigned by me from the abstract; the source record had not classified them.
+No publication addresses visual epilepsy directly. The table lists the most relevant general epilepsy publications retrieved.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [35429132](https://pubmed.ncbi.nlm.nih.gov/35429132/) | 2022 | RCT (open-label, multicenter)* | CNS Neurosci Ther | Oxcarbazepine vs levetiracetam monotherapy in newly diagnosed focal epilepsy in China, comparing efficacy, quality of life and mental health |
-| [32129501](https://pubmed.ncbi.nlm.nih.gov/32129501/) | 2020 | Systematic review* | Cochrane Database Syst Rev | Oxcarbazepine as add-on therapy for drug-resistant focal epilepsy |
+| [35380580](https://pubmed.ncbi.nlm.nih.gov/35380580/) | 2022 | Review | JAMA | Review of antiseizure medications for adults with epilepsy |
+| [29898971](https://pubmed.ncbi.nlm.nih.gov/29898971/) | 2018 | Guideline | Neurology | AAN/AES guideline update on newer antiepileptic drugs in new-onset epilepsy |
 | [33334546](https://pubmed.ncbi.nlm.nih.gov/33334546/) | 2020 | Review | Seizure | Current role of carbamazepine and oxcarbazepine in epilepsy management |
-| [35380580](https://pubmed.ncbi.nlm.nih.gov/35380580/) | 2022 | Review | JAMA | Overview of antiseizure medications for adults with epilepsy |
 | [39899099](https://pubmed.ncbi.nlm.nih.gov/39899099/) | 2025 | Review | Continuum | Update on antiseizure medications, covering pharmacokinetics, indications and modes of use |
-| [11772334](https://pubmed.ncbi.nlm.nih.gov/11772334/) | 2002 | Review* | Expert Opin Pharmacother | Efficacy in partial-onset seizures and trigeminal neuralgia; early signals in other neuropathic pain and bipolar disorders |
-| [37092337](https://pubmed.ncbi.nlm.nih.gov/37092337/) | 2023 | Review* | Pharmacogenomics | Genetic variants linked to differences in oxcarbazepine efficacy and safety across populations |
-| [22091603](https://pubmed.ncbi.nlm.nih.gov/22091603/) | 2012 | Clinical study* | Epilepsia | Efficacy, tolerability and pharmacokinetics of oral loading in 40 adults with epilepsy |
-| [12697143](https://pubmed.ncbi.nlm.nih.gov/12697143/) | 2003 | Safety analysis* | Epilepsy Behav | Tolerability in 52 patients aged 65 or older vs 1,574 adults aged 18–64, with no significant difference in discontinuation due to adverse events |
-| [39003967](https://pubmed.ncbi.nlm.nih.gov/39003967/) | 2024 | Case series | Epilepsy Res | Hot water epilepsy in children (a related reflex epilepsy, not visual) |
+| [35194860](https://pubmed.ncbi.nlm.nih.gov/35194860/) | 2022 | Systematic review/NMA | Addiction | Comparative efficacy of pharmacotherapies for alcohol withdrawal; not specific to visual epilepsy |
+| [17560495](https://pubmed.ncbi.nlm.nih.gov/17560495/) | 2007 | Review | Pediatric Neurology | Antiepileptic drugs and visual function; reviews visual adverse effects |
+| [11772334](https://pubmed.ncbi.nlm.nih.gov/11772334/) | 2002 | Review | Expert Opin Pharmacother | Oxcarbazepine efficacy in partial seizures; also in trigeminal neuralgia and bipolar disorder |
+| [1379159](https://pubmed.ncbi.nlm.nih.gov/1379159/) | 1992 | Review | Drugs | Pharmacology and therapeutic potential in epilepsy, trigeminal neuralgia and affective disorders |
+| [35431799](https://pubmed.ncbi.nlm.nih.gov/35431799/) | 2022 | Review | Front Mol Neurosci | Phenotypes, treatment and prognosis in 72 children with SCN2A-related epilepsy |
+| [26844734](https://pubmed.ncbi.nlm.nih.gov/26844734/) | 2016 | Review | Continuum | Individual antiepileptic drugs, key pharmacokinetics and use |
 
 ---
 
 ## US Market Information
 
-The supplied records give no approved indication text. Product names are as listed in the record.
+All authorizations below are listed as cancelled. Approved indication text was not available in the data compiled.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA078069 | OXCARBAZEPINE (RemedyRepack) | Film-coated tablet | Not listed in record |
-| ANDA215796 | Oxcarbazepine (Ingenus) | Extended-release tablet | Not listed in record |
-| ANDA078069 | OXCARBAZEPINE (Preferred Pharmaceuticals) | Film-coated tablet | Not listed in record |
-| ANDA209652 | Oxcarbazepine (Bionpharma) | Suspension | Not listed in record |
-| ANDA215939 | Oxcarbazepine (American Health Packaging) | Film-coated tablet | Not listed in record |
+| NDA021014 | Trileptal (Novartis) | Tablet, film coated | Not available |
+| ANDA077794 | Oxcarbazepine (Sun Pharmaceutical) | Tablet, film coated | Not available |
+| ANDA211747 | Oxcarbazepine (Zydus Lifesciences) | Tablet | Not available |
+| ANDA213369 | Oxcarbazepine (Apotex) | Tablet, extended release | Not available |
+| ANDA209652 | Oxcarbazepine (Bionpharma) | Suspension | Not available |
+
+The full set comprises 11 authorizations, including film-coated tablet, extended-release tablet, and suspension forms.
 
 ---
 
 ## Safety Considerations
 
-Package insert warnings and contraindications were not available in the supplied record, so please refer to the package insert. No drug interaction records were found.
+Package insert warnings and contraindications were not available in the data compiled. Please refer to the package insert for these.
 
-The retrieved literature raises these signals (not label data):
-
-- **Hyponatremia:** a common adverse effect, with risk factors including age, female sex, dose and treatment duration (PMID 35629976).
-- **Severe skin reactions:** HLA-A*31:01-associated DRESS has been reported (PMID 29610167).
-- **Seizure aggravation:** oxcarbazepine-induced myoclonic status epilepticus in juvenile myoclonic epilepsy (PMID 23774821), and induced absence seizures and ESES in individual patients. Epilepsy type must be identified before use.
+- **Contraindication-related conditions (knowledge graph, not label text)**: anxiety disorder, neurotic disorder, dysthymic disorder, impaired renal function, inappropriate ADH syndrome (SIADH), and nephrogenic syndrome of inappropriate antidiuresis. These are database associations and should be verified against the label.
+- **Drug Interactions**: 100 interactions were identified. The 20 listed in detail are all Moderate level, including hydrocortisone, dexamethasone, betamethasone, triamcinolone, cholecalciferol, calcifediol, calcitriol, pioglitazone, aprepitant, morphine, omeprazole, clarithromycin, saxagliptin, linagliptin and chlorpropamide.
+- **Class-related signal**: Sodium channel blockers can aggravate some generalized epilepsies. A case report describes oxcarbazepine-induced myoclonic status epilepticus in juvenile myoclonic epilepsy (PMID 23774821).
 
 ---
 
@@ -124,13 +121,15 @@ The retrieved literature raises these signals (not label data):
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high (99.95%). But the only trial is an indirect Phase 4 observational study, and no publication addresses visual epilepsy. The prediction also largely restates oxcarbazepine's existing focal-seizure use, so it adds little new signal. Safety data from the package insert are also missing.
+The 99.95% TxGNN score is a model prediction only. There are no clinical trials, and the literature is general epilepsy material that does not address visual epilepsy. Package insert safety data are also missing, which blocks safety screening. All US authorizations are currently cancelled.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings, contraindications and approved indication text (currently a blocking gap)
-- Mechanism-of-action data from DrugBank
-- Case series or trials in visual-trigger reflex epilepsy that report oxcarbazepine outcomes, stratified by epilepsy type
-- Manual review of the 19 retrieved publications, most of which are still marked relevance "pending"
+- FDA package insert warnings and contraindications (blocking data gap)
+- Detailed mechanism of action data (MOA)
+- Targeted literature search for oxcarbazepine in visually induced or photosensitive seizures, including case series
+- Clinical rationale for the diagnostic boundary between visual epilepsy and existing focal epilepsy indications
+- Review of the current US marketing status, since all licenses are listed as cancelled
+- Consideration of better-supported alternatives from the same prediction list, such as restless legs syndrome (case reports only, so still exploratory)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

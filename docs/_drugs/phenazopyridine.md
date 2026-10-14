@@ -33,28 +33,26 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 ## One-Sentence Summary
 
-Phenazopyridine is an oral urinary tract analgesic, sold over the counter in the US as "urinary pain relief" tablets.
-The TxGNN model predicts it may be effective for **bronchitis**, but this is a model prediction only, with **0 clinical trials** and **0 publications** supporting it.
+Phenazopyridine is an oral urinary tract analgesic. The only US product record compiled for this report is a cancelled tablet, and it carries no stated indication text.
+The TxGNN model predicts it may be effective for **bronchitis**, but this rests on a model score alone, with **0 clinical trials** and **0 publications** currently supporting the direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Urinary tract pain relief (inferred from product names; no approved indication text in the data) |
+| Original Indication | Not available in the data compiled for this report (the license record has no indication text) |
 | Predicted New Indication | Bronchitis |
 | TxGNN Prediction Score | 99.23% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| US Market Status | Cancelled only |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Phenazopyridine is a urinary tract analgesic azo dye that acts locally on the urinary mucosa, and its exact mechanism is not well characterized.
+Currently, detailed mechanism of action data is not available. Phenazopyridine is generally known as a urinary tract analgesic that acts locally on the urinary mucosa. The data compiled for this report documents no mechanism and no original indication.
 
-**No mechanistic link between phenazopyridine and bronchitis is supported by the data provided.** Nothing connects it to bronchial inflammation, infection or mucus pathology. The original indication (urinary pain) and the predicted indication (an airway disease) involve different organ systems and different disease processes.
-
-The high TxGNN score (0.992) should be read cautiously. It may reflect knowledge-graph neighborhood effects, such as shared symptom or analgesic-related nodes, rather than a real pharmacological relationship. It is not biological support for the prediction.
+Based on known pharmacology, there is no established link between a urinary mucosal analgesic and airway inflammation or infection in bronchitis. The high TxGNN score (0.992) may reflect artifacts of the knowledge-graph topology rather than biological plausibility. For context, the model ranked this prediction 16,929th, so the high score should be interpreted cautiously. No mechanistic hypothesis can be confirmed without further data.
 
 ## Clinical Trial Evidence
 
@@ -66,35 +64,43 @@ Currently no related literature available.
 
 ## US Market Information
 
-The source data lists 20 products, all oral tablets. Authorization numbers and approved indication text are not provided. The 5 main products are:
-
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| Not provided | Preferred Urinary Pain Relief (Reese Pharmaceutical Co) | Tablet | Not provided |
-| Not provided | Quality Choice Maximum Strength Urinary Pain Relief (Chain Drug Marketing Association) | Tablet | Not provided |
-| Not provided | Cheeky Bonsai UTI Pain Relief (IXXA, INC) | Tablet | Not provided |
-| Not provided | Phenazopyridine Hydrochloride (REMEDYREPACK INC.) | Tablet | Not provided |
-| Not provided | Dollar General Maximum Strength Urinary Pain Relief (Dolgencorp, Inc.) | Tablet | Not provided |
+| Not available | Preferred Urinary Pain Relief (Reese Pharmaceutical Co) | Tablet | Not available (status: cancelled) |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindications (knowledge-graph inferred, not label text)**: The TxGNN knowledge graph links phenazopyridine to contraindications in several disease areas. These are not drawn from a package insert and should be verified against the label:
+  - Kidney and liver: kidney disease, pyoureter, liver disease, liver failure, hepatic coma, hepatic encephalopathy, gallbladder disease
+  - Blood: hematologic disease, anemia (including macrocytic anemia), thrombocytopenia, neutropenia, agranulocytosis
+  - Metabolic: inherited porphyria, porphyria, porphyrin metabolism disease
+  - Cardiovascular and respiratory: hypertension, hypertensive disorder, coronary artery disease, COPD (including severe early onset), obstructive sleep apnea syndrome, sleep apnea syndrome, congenital central hypoventilation syndrome, Haddad syndrome
+  - Other: benign prostatic hyperplasia, anxiety disorder, neurotic disorder, dysthymic disorder, substance abuse/dependence
+
+  Several of these (COPD, sleep apnea, hypoventilation syndromes) are respiratory conditions, which warrants particular attention for a bronchitis indication.
+
+- **Drug Interactions**: 24 interactions were identified in total, and 20 are detailed in the data compiled for this report.
+  - **Major**: Nitrous acid, Leflunomide
+  - **Moderate**:
+    - Local anesthetics and cocaine: lidocaine (topical and ophthalmic), benzocaine, tetracaine (topical and ophthalmic), oxybuprocaine, cinchocaine, cocaine (nasal and topical)
+    - Oncology and immunology agents: asparaginase Escherichia coli, pegaspargase, brentuximab vedotin, clofarabine, idelalisib, methotrexate
+    - Others: naltrexone, interferon beta-1a, interferon beta-1b
+
+Package insert warnings and contraindications were not available, so please refer to the package insert for authoritative safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score, with no clinical trials, no literature and no plausible mechanistic link to bronchitis. The evidence level is L5 and the candidate is still at the initial screening stage (S0).
+The prediction rests only on a model score, with no clinical trials, no literature, and no documented mechanism linking the drug to bronchitis. The only US license on record is cancelled, and no label safety data were available.
 
 **To proceed, the following is needed:**
-- The US package insert (warnings and contraindications), which is required before any safety screening
-- Mechanism of action data for phenazopyridine (for example from DrugBank)
-- A targeted literature and trial search for phenazopyridine in respiratory conditions
-- A route compatibility assessment, since the current products are oral tablets for urinary use
-- A pharmacological review of why the model links this drug to bronchitis, to rule out a knowledge-graph artifact
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
+- Package insert warnings and contraindications from the FDA, which is a blocking gap for safety screening
+- Mechanism of action data (for example, from DrugBank) to test whether any biologically plausible link to bronchitis exists
+- The original approved indication, confirmed from a current label
+- A literature and trial search specific to phenazopyridine in respiratory conditions
+- Route compatibility and similarity assessment between the original and predicted indications, which are still pending
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

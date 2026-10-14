@@ -29,29 +29,31 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Diltiazem: From Cardiovascular Use to Obsolete Susceptibility to Ischemic Stroke
+# Diltiazem: From Hypertension and Arrhythmia to Obsolete Susceptibility to Ischemic Stroke
 
 ## One-Sentence Summary
 
-Diltiazem is a calcium channel blocker sold in the US in oral extended-release and injectable forms. The TxGNN model predicts it may be relevant to **obsolete susceptibility to ischemic stroke**, but there are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model score alone.
+Diltiazem is a calcium channel blocker originally used for hypertension, atrial fibrillation, Prinzmetal angina and ventricular tachycardia.
+The TxGNN model predicts it may be effective for **obsolete susceptibility to ischemic stroke**,
+but currently there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in the record (the approved indication text of the listed licenses is empty) |
-| Predicted New Indication | obsolete susceptibility to ischemic stroke |
+| Original Indication | Hypertension, atrial fibrillation, Prinzmetal angina, ventricular tachycardia (from the knowledge graph; no approved-indication text is available) |
+| Predicted New Indication | Obsolete susceptibility to ischemic stroke |
 | TxGNN Prediction Score | 99.08% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| US Market Status | Cancelled only (all listed authorizations are cancelled) |
+| Number of NDAs | 19 authorizations in total (3 NDAs and 16 ANDAs by number prefix, none currently valid) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on general knowledge (not from this dataset), diltiazem is an L-type calcium channel blocker. Its vasodilatory and blood-pressure-lowering effects could plausibly relate to stroke risk, but this dataset offers no evidence to verify that link.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, diltiazem is a non-dihydropyridine calcium channel blocker. It lowers blood pressure and reduces vascular smooth muscle tone, and it may also cause cerebral vasodilation. These effects could plausibly relate to stroke susceptibility, since hypertension is a major stroke risk factor. This reasoning was not verified against any study in the data provided.
 
-The predicted disease name is also an obsolete ontology term. "Susceptibility to ischemic stroke" is a vague concept rather than a defined clinical indication. Before any evidence search or review, it should be mapped to a current term, such as ischemic stroke prevention. The similarity between the original and new indications is still pending, because no original indications were recorded.
+There is an important caveat: the predicted disease term is flagged as "obsolete" in the ontology. It may be a deprecated or merged concept and may not map cleanly onto a current clinical indication such as secondary stroke prevention or a defined ischemic stroke risk phenotype. The high score of 99.08% is a model output, not clinical evidence.
 
 ## Clinical Trial Evidence
 
@@ -63,34 +65,44 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA216968 | Diltiazem Hydrochloride | Capsule, extended release | Not listed |
-| ANDA074617 | Diltiazem Hydrochloride | Injection, solution | Not listed |
-| ANDA075116 | Diltiazem Hydrochloride | Capsule, extended release | Not listed |
-| ANDA212317 | Diltiazem Hydrochloride | Capsule, extended release | Not listed |
-| ANDA208783 | Diltiazem Hydrochloride | Capsule, extended release | Not listed |
+All 19 authorizations are cancelled. The main ones are listed below (approved-indication text is not available in the data).
 
-Other US dosage forms include tablets (film-coated and extended-release), coated extended-release capsules, and lyophilized powder for injection.
+| Authorization Number | Product Name | Dosage Form | Status |
+|---------|------|------|-----------|
+| NDA020401 | TIAZAC | Capsule, extended release | Cancelled |
+| NDA020062 | Cardizem CD | Capsule, coated, extended release | Cancelled |
+| NDA021392 | Diltiazem Hydrochloride | Tablet, extended release | Cancelled |
+| ANDA077686 | Matzim LA | Tablet, extended release | Cancelled |
+| ANDA074752 | Cartia | Capsule, extended release | Cancelled |
+
+The other authorizations cover oral capsules and tablets, as well as injectable solution and lyophilized powder.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug interaction records were found for this drug in the dataset.
+Package insert warnings and contraindications were not available in the data compiled for this report, so please refer to the package insert for them.
+
+- **Knowledge-graph contraindication signals** (not label text): The knowledge graph links diltiazem to the following conditions, which need verification against the label:
+  - Cardiac conduction and rhythm: atrioventricular block, sick sinus syndrome, Wolff-Parkinson-White syndrome, Lown-Ganong-Levine syndrome, ventricular tachycardia
+  - Structural heart and blood pressure: aortic stenosis, hypertrophic cardiomyopathy, hypotensive disorder
+  - Hepatic and renal: liver disease, kidney disease, renal artery obstruction
+  - Haematological: neutropenia, agranulocytosis
+  - Angioedema (several types)
+  - Other: gallbladder disease, connective tissue, bone and cartilage disease
+- **Drug Interactions**: 100 interactions were recorded, and 20 are shown in the data. One is rated **Major**: loperamide. The rest are rated Moderate, including corticosteroids (hydrocortisone, dexamethasone, betamethasone, budesonide, triamcinolone), pioglitazone, canagliflozin, bupropion, aprepitant, morphine, acetylsalicylic acid, and calcium salts (carbonate, chloride, citrate, acetate and others).
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The only support is a model prediction score (L5). There are no trials or publications, and the predicted disease term is obsolete and ill-defined. The evidence is not enough to move forward.
+The prediction is supported only by a model score, with no clinical trials or publications (evidence level L5). The predicted disease term is obsolete, and the US market status is "cancelled only". Package insert safety data and mechanism of action data are also missing.
 
 **To proceed, the following is needed:**
-- Map the obsolete disease term to a current one (for example, ischemic stroke prevention)
-- Search trials and literature under the mapped term
-- Obtain mechanism of action data from DrugBank
-- Obtain the package insert warnings and contraindications (currently a blocking gap for safety screening)
-- Confirm the approved indications for the US licenses
-- Assess route compatibility (oral vs. injectable) once the indication is defined
+- Clarify the current disease concept that replaces the obsolete term, such as secondary stroke prevention or a specific risk phenotype
+- A literature and trial search on diltiazem and ischemic stroke
+- Detailed mechanism of action data
+- Package insert warnings and contraindications, to complete the safety screening
+- Confirmation of whether any diltiazem product is currently marketed in the US, and review of the route and dosage form for the new indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

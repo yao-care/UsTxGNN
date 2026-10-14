@@ -29,13 +29,13 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Flecainide: From Cardiac Arrhythmias to Stroke Disorder
+# Flecainide: From Atrial Fibrillation to Stroke Disorder
 
 ## One-Sentence Summary
 
-Flecainide is an oral class Ic sodium channel blocker, originally used to treat cardiac arrhythmias such as atrial fibrillation (AF) and supraventricular tachycardia.
-The TxGNN model predicts it may be useful for **Stroke Disorder**, but the link is indirect (stroke prevention through AF rhythm control, not stroke treatment).
-The search returned **19 clinical trials** and **20 publications**, but none tests flecainide against a stroke outcome.
+Flecainide is a class 1C sodium channel blocker, originally used to treat atrial fibrillation.
+The TxGNN model predicts it may be effective for **stroke disorder**,
+but the support is indirect: **1 clinical trial** (with an arrhythmia endpoint, not stroke) and **20 publications**, mostly reviews and cohort studies on atrial fibrillation management.
 
 ---
 
@@ -43,25 +43,23 @@ The search returned **19 clinical trials** and **20 publications**, but none tes
 
 | Item | Content |
 |------|------|
-| Original Indication | Cardiac arrhythmias such as AF and paroxysmal supraventricular tachycardia (taken from the literature; the license records carry no indication text) |
+| Original Indication | Atrial fibrillation (from the TxGNN knowledge graph; no approved indication text is available in the US license records) |
 | Predicted New Indication | Stroke disorder |
 | TxGNN Prediction Score | 99.91% |
 | Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (all listed entries are ANDA generics) |
+| US Market Status | Cancelled only (all 7 ANDAs cancelled) |
+| Number of NDAs | 7 (all ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the record. Based on the literature, flecainide is a class Ic antiarrhythmic that blocks sodium channels. Its efficacy in maintaining sinus rhythm in AF is established. It has no known action on the cerebral ischemia pathway itself.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, flecainide is a class 1C sodium channel blocker used for rhythm control in atrial fibrillation (AF).
 
-The link between the original and new indication is indirect. AF raises stroke risk about fivefold. Early rhythm control with antiarrhythmic drugs, including flecainide, may lower AF-related cardiovascular events. The strongest support is the EAST-AFNET 4 trial (n=2,789), and it is class-level evidence, not a flecainide-specific test. Any benefit would be stroke prevention in AF patients, not treatment of established stroke.
+The link between AF and stroke is indirect. Stroke is a major downstream consequence of AF, so reducing AF burden could in theory lower cardioembolic risk. However, no study shows that flecainide itself prevents stroke. The high TxGNN score most likely reflects the well-known AF-stroke association in the knowledge graph rather than a direct therapeutic effect.
 
-Safety is the main obstacle. Flecainide is contraindicated in structural heart disease and coronary artery disease (per the CAST findings), and many stroke patients have these conditions.
-
-The other predicted entries add little. "Cerebrovascular disorder" (rank 9) and "obsolete susceptibility to ischemic stroke" (rank 2) overlap with the stroke concept and are not independent evidence. The remaining predictions (for example ABri amyloidosis, sarcoglycanopathy, duodenal obstruction) have no trials, no literature and no plausible mechanism. Sick sinus syndrome 2 (rank 3) is an SCN5A sodium channel disorder, where flecainide may cause harm rather than benefit.
+There is also a practical limit. Flecainide is considered inappropriate in structural or ischemic heart disease, which describes many stroke patients.
 
 ---
 
@@ -69,57 +67,50 @@ The other predicted entries add little. "Cerebrovascular disorder" (rank 9) and 
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT01288352](https://clinicaltrials.gov/study/NCT01288352) | Phase 4 | Completed | 2789 | EAST-AFNET 4: early rhythm control (antiarrhythmic drugs or ablation) vs usual care to prevent AF-related complications. Strongest evidence, but class-level and preventive |
-| [NCT05293080](https://clinicaltrials.gov/study/NCT05293080) | Phase 3 | Not yet recruiting | 1746 | Early rhythm control in patients with acute ischemic stroke and AF. Directly stroke-related, but flecainide is not tested specifically and there are no results |
-| [NCT05213104](https://clinicaltrials.gov/study/NCT05213104) | Phase 3 | Active, not recruiting | 186 | Flecainide after patent foramen ovale closure in cryptogenic stroke patients. The endpoint is atrial arrhythmia, not stroke |
-| [NCT07405671](https://clinicaltrials.gov/study/NCT07405671) | Phase 4 | Not yet recruiting | 988 | Flecainide vs sotalol or amiodarone for safety in AF with stable coronary artery disease. Relevant to the safety guardrail |
-| [NCT06783868](https://clinicaltrials.gov/study/NCT06783868) | N/A | Not yet recruiting | 100 | Neurological outcomes after AF ablation vs medication in recent stroke. A procedure trial, not flecainide-specific |
-| [NCT00911508](https://clinicaltrials.gov/study/NCT00911508) | N/A | Completed | 2204 | CABANA: catheter ablation vs rate or rhythm control drugs in AF. Drugs are the comparator and it is not flecainide-specific |
-| [NCT01646281](https://clinicaltrials.gov/study/NCT01646281) | Phase 4 | Unknown | 70 | Vernakalant and flecainide effects on atrial contractility after cardioversion. Decreased contractility is linked to stroke risk |
-| [NCT00523978](https://clinicaltrials.gov/study/NCT00523978) | Phase 3 | Completed | 245 | STOP AF: cryoablation vs antiarrhythmic drugs (flecainide, propafenone or sotalol) in paroxysmal AF. Not a stroke endpoint |
-| [NCT02389218](https://clinicaltrials.gov/study/NCT02389218) | Phase 4 | Completed | 13 | Medical therapy vs cryoballoon ablation in persistent AF. Very small, no stroke endpoint |
-| [NCT06096337](https://clinicaltrials.gov/study/NCT06096337) | N/A | Active, not recruiting | 484 | Pulsed field ablation vs antiarrhythmic drugs as first-line treatment for persistent AF. Not flecainide-specific and not stroke-focused |
+| [NCT05213104](https://clinicaltrials.gov/study/NCT05213104) | Phase 3 | Active, not recruiting | 186 | Flecainide to lower atrial arrhythmia risk after patent foramen ovale (PFO) closure. The population is relevant to cryptogenic stroke, but the primary endpoint is arrhythmia, not stroke, so the evidence is indirect. Estimated completion: September 2026. |
 
 ---
 
 ## Literature Evidence
 
+No randomized trial of flecainide for stroke prevention was found. The literature below is the most relevant, and it is contextual rather than direct evidence.
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [38702961](https://pubmed.ncbi.nlm.nih.gov/38702961/) | 2024 | RCT (secondary analysis) | Europace | EAST-AFNET 4 analysis of flecainide and propafenone for early rhythm control, addressing concerns about proarrhythmic effects in patients with cardiovascular disease |
-| [25820938](https://pubmed.ncbi.nlm.nih.gov/25820938/) | 2015 | Systematic review (Cochrane) | Cochrane Database Syst Rev | Antiarrhythmics for maintaining sinus rhythm after AF cardioversion. Effect on mortality and other clinical outcomes was unclear |
-| [27159789](https://pubmed.ncbi.nlm.nih.gov/27159789/) | 2016 | Review | Nat Rev Dis Primers | AF is the most common sustained rhythm disorder, with increased stroke risk |
-| [8729366](https://pubmed.ncbi.nlm.nih.gov/8729366/) | 1995 | Electrophysiology study | Arch Mal Coeur Vaiss | 38 patients with unexplained ischemic cerebrovascular events: atrial vulnerability testing and effects of IV flecainide on atrial arrhythmia induction |
-| [23871349](https://pubmed.ncbi.nlm.nih.gov/23871349/) | 2013 | Trial analysis | Int J Cardiol | Flec-SL analysis of stroke risk after elective cardioversion of AF (low stroke risk reported in the title) |
-| [41152878](https://pubmed.ncbi.nlm.nih.gov/41152878/) | 2025 | Cohort | BMC Med | Multinational cohort of concomitant DOAC and interacting antiarrhythmic use in non-valvular AF, assessing stroke and bleeding |
-| [37000581](https://pubmed.ncbi.nlm.nih.gov/37000581/) | 2023 | Cohort | Europace | Cardiovascular outcomes in AF patients on antiarrhythmic drugs plus non-vitamin K oral anticoagulants |
-| [35114252](https://pubmed.ncbi.nlm.nih.gov/35114252/) | 2022 | Preclinical | J Mol Cell Cardiol | Atrial sodium channel properties explain flecainide's greater atrial effectiveness and relative ventricular safety in AF |
-| [40800559](https://pubmed.ncbi.nlm.nih.gov/40800559/) | 2025 | Case report | Eur Heart J Case Rep | Refractory ventricular tachycardia with flecainide. QRS widening raises proarrhythmia risk in structural heart disease or ischemia |
-| [27884575](https://pubmed.ncbi.nlm.nih.gov/27884575/) | 2017 | Case report | J Emerg Med | Brugada pattern unmasked by flecainide overdose |
+| [38702961](https://pubmed.ncbi.nlm.nih.gov/38702961/) | 2024 | Cohort | Europace | EAST-AFNET 4 analysis of the safety and efficacy of long-term sodium channel blocker (flecainide, propafenone) early rhythm control |
+| [41954064](https://pubmed.ncbi.nlm.nih.gov/41954064/) | 2026 | Cohort | J Am Heart Assoc | Long-term outcomes of class 1C antiarrhythmics in AF; cardiovascular benefit over rate control remains unclear |
+| [41152878](https://pubmed.ncbi.nlm.nih.gov/41152878/) | 2025 | Cohort | BMC Med | Concomitant use of direct oral anticoagulants and interacting antiarrhythmics and risk of stroke and bleeding in non-valvular AF |
+| [25820938](https://pubmed.ncbi.nlm.nih.gov/25820938/) | 2015 | Systematic review | Cochrane Database Syst Rev | Antiarrhythmics for maintaining sinus rhythm after cardioversion of AF |
+| [38551548](https://pubmed.ncbi.nlm.nih.gov/38551548/) | 2024 | Cohort | JACC Clin Electrophysiol | Class 1C antiarrhythmics for suppressing premature ventricular complexes in nonischemic cardiomyopathy with ICDs |
+| [37109225](https://pubmed.ncbi.nlm.nih.gov/37109225/) | 2023 | Randomized pilot | J Clin Med | Carvedilol vs flecainide for idiopathic outflow-tract PVCs (open-label pilot) |
+| [25430048](https://pubmed.ncbi.nlm.nih.gov/25430048/) | 2014 | Review | BMJ Clin Evid | Acute-onset AF; notes AF increases stroke risk |
+| [19265095](https://pubmed.ncbi.nlm.nih.gov/19265095/) | 2009 | Review | Chest | Acute management of AF, including thromboembolism risk |
+| [8729366](https://pubmed.ncbi.nlm.nih.gov/8729366/) | 1995 | Clinical study | Arch Mal Coeur Vaiss | Atrial electrophysiological study with intravenous flecainide in 38 patients with unexplained ischemic cerebrovascular events |
+| [40800559](https://pubmed.ncbi.nlm.nih.gov/40800559/) | 2025 | Case report | Eur Heart J Case Rep | Refractory ventricular tachycardia associated with flecainide (a pro-arrhythmia safety signal) |
 
 ---
 
 ## US Market Information
 
-The 20 US licenses are all generic flecainide acetate tablets (oral). Approved indication text is not recorded for any of them. Below are 4 of the 5 main entries shown; the fifth is a duplicate of ANDA075442.
+All seven authorizations are cancelled, and no approved indication text is available for them.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA075882 | Flecainide Acetate | Tablet | Golden State Medical Supply, Inc. |
-| ANDA202821 | Flecainide Acetate | Tablet | Aurobindo Pharma Limited |
-| ANDA075442 | Flecainide Acetate | Tablet | Amneal Pharmaceuticals LLC |
-| ANDA079164 | Flecainide Acetate | Tablet | Chartwell RX, LLC |
+| ANDA075882 | Flecainide Acetate (Golden State Medical Supply) | Tablet | Not available (cancelled) |
+| ANDA202821 | Flecainide Acetate (Aurobindo Pharma) | Tablet | Not available (cancelled) |
+| ANDA075442 | Flecainide Acetate (Amneal Pharmaceuticals) | Tablet | Not available (cancelled) |
+| ANDA079164 | Flecainide Acetate (Chartwell RX) | Tablet | Not available (cancelled) |
+| ANDA210683 | Flecainide Acetate (Unichem Pharmaceuticals USA) | Tablet | Not available (cancelled) |
 
 ---
 
 ## Safety Considerations
 
-Package insert warnings, contraindications and drug interaction data are not available in the record. Please refer to the package insert for safety information.
+- **Contraindication-related conditions (from the knowledge graph, not label text)**: kidney disease, liver disease, gallbladder disease, potassium deficiency, myocardial infarction, coronary thrombosis, hemoglobinopathy, atrioventricular block, sick sinus syndrome, familial sick sinus syndrome, pyoureter.
+- **Drug Interactions**: 100 interactions were found. Major-level ones include **dolasetron** and **eliglustat**. Moderate-level ones include famotidine, cimetidine, loperamide, bupropion, lorcaserin, clarithromycin, levofloxacin, palonosetron, trospium and several laxatives or bowel-preparation agents (bisacodyl, picosulfuric acid, polyethylene glycol, sodium sulfate, lactitol, lactulose). Minor-level ones include ascorbic acid, potassium citrate and metronidazole.
+- **Proarrhythmia concern**: the literature describes proarrhythmic risk (QRS widening, ventricular tachycardia, Brugada pattern unmasking), especially in structural or ischemic heart disease. Interaction data between antiarrhythmics and anticoagulants (relevant to stroke patients) also warrants attention.
 
-The prediction analysis flags these guardrails:
-- **Structural heart disease and coronary artery disease**: flecainide is contraindicated (CAST), and many stroke patients have these conditions. The pending trial NCT07405671 will test flecainide safety in AF with stable coronary artery disease.
-- **Sick sinus syndrome**: flecainide can worsen sinus node dysfunction and conduction, so it is generally contraindicated without pacing.
-- **Anticoagulant co-therapy**: patients who need anticoagulation for stroke prevention require interaction review.
+Please refer to the package insert for the full warnings and contraindications, which were not available for this report.
 
 ---
 
@@ -128,15 +119,16 @@ The prediction analysis flags these guardrails:
 **Decision: Hold**
 
 **Rationale:**
-The predicted link is indirect and class-level. The best evidence (EAST-AFNET 4) tests early rhythm control in general, not flecainide for stroke, and no flecainide-specific trial has a stroke endpoint. The main safety guardrails (structural heart disease, coronary artery disease) overlap heavily with the likely stroke population.
+The stroke prediction rests on the indirect AF-stroke association. The only trial measures arrhythmia after PFO closure, not stroke, and there is no direct evidence that flecainide prevents stroke. Safety concerns (ischemic and structural heart disease, conduction disease, many drug interactions) further limit use in stroke populations. All US licenses are cancelled, and blocking data gaps remain in label safety information. The evidence level is L4, which is a research question rather than a development candidate.
 
 **To proceed, the following is needed:**
-- Package insert warnings, contraindications and drug interaction data
-- A flecainide-specific analysis of stroke outcomes from EAST-AFNET 4 or similar cohorts
-- Results from NCT05293080 (early rhythm control in acute stroke with AF) and NCT07405671 (flecainide safety in AF with coronary artery disease)
-- Merge the duplicate stroke entries (stroke disorder, cerebrovascular disorder, obsolete susceptibility to ischemic stroke) and define the target population, likely AF patients without structural heart disease
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data
+- Results of NCT05213104 (expected completion September 2026), to see whether reducing atrial arrhythmia after PFO closure translates into fewer cerebrovascular events
+- Direct studies of flecainide with stroke or cerebrovascular outcomes as the endpoint, in patients without structural or ischemic heart disease
+- Clarification of current US commercial availability, since all listed ANDAs are cancelled
 
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
+**Other predicted indications (ranks 2–10):** The remaining predictions are weaker. "Cerebrovascular disorder" (99.22%, L4) rests on the same indirect AF-stroke logic and the same trial. The other eight (obsolete susceptibility to ischemic stroke, sick sinus syndrome 2, ABri amyloidosis, sarcoglycanopathy, Wildervanck syndrome, macrocephaly with dysmorphic facies and psychomotor retardation, duodenal obstruction, nephrogenic syndrome of inappropriate antidiuresis) are model predictions only (L5), with no trials or literature and no plausible mechanism. Sick sinus syndrome 2 is also a safety conflict, since flecainide can worsen sinus node dysfunction. All are on Hold.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

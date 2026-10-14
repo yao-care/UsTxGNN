@@ -29,38 +29,39 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Acetohydroxamic Acid: From Chronic Urea-Splitting Urinary Infection (Adjunct Therapy) to Ureaplasma Urethritis
+# Acetohydroxamic Acid: From Urinary Tract Infection to Ureaplasma Urethritis
 
 ## One-Sentence Summary
 
-Acetohydroxamic acid is an oral urease inhibitor marketed in the US as Lithostat tablets. The Evidence Pack describes its use as adjunct therapy in chronic urea-splitting urinary infections, although the FDA license record contains no indication text.
-The TxGNN model predicts it may be effective for **Ureaplasma urethritis**, but **0 clinical trials** and **0 publications** are currently linked, so this is a model-only hypothesis.
+Acetohydroxamic acid (AHA) was originally used as an adjunct treatment for urinary tract infection, where it inhibits bacterial urease.
+The TxGNN model predicts it may be effective for **Ureaplasma urethritis**,
+but **no clinical trials and no publications** currently support this direction, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the license record (the Evidence Pack's rationale describes adjunct use in chronic urea-splitting urinary infections) |
+| Original Indication | Urinary tract infection |
 | Predicted New Indication | Ureaplasma urethritis |
 | TxGNN Prediction Score | 99.63% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
+| US Market Status | Cancelled only |
 | Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the structured drug record. Based on the mechanistic rationale in the Evidence Pack, acetohydroxamic acid is a urease inhibitor. Blocking urease reduces the breakdown of urea into ammonia, which in turn limits local alkalinization of the urinary tract.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacological knowledge, AHA is an irreversible inhibitor of bacterial urease. It is not an antimicrobial in the usual sense. By blocking urease, it reduces ammonia production and urinary alkalinization, which is why it has been used in urinary infections involving urease-producing bacteria.
 
-*Ureaplasma urealyticum* expresses urease, so there is a plausible biological rationale: inhibiting the enzyme could reduce ammonia production and local alkalinization at the infection site. This is the same logic behind the drug's use in urea-splitting urinary infections.
+*Ureaplasma urealyticum* also produces urease, so the mechanism is biologically plausible. However, Ureaplasma urethritis is a mucosal infection of the lower genital tract. It is not an upper-tract struvite stone condition, so the benefit of urease inhibition is less clear. The high score (0.996) is a model prediction only, and this mechanistic reasoning is inferred rather than drawn from the supplied data.
 
-The reasoning stops there. The 99.63% TxGNN score is a graph-based prediction only. No trial or publication shows that urease inhibition improves outcomes in Ureaplasma urethritis. Standard antibiotic therapy is not replaced by this mechanism. Systemic exposure also carries known safety concerns, including teratogenicity and hemolytic anemia.
+### Other Predicted Indications (for context)
 
-For the other predictions, the Evidence Pack sees the following:
-
-- **Gonococcal urethritis (99.63%):** No clear mechanistic link, because *Neisseria gonorrhoeae* is not a recognized urease-producing pathogen. Recommendation: Hold.
-- **Uterine inflammatory disease (99.54%):** No established link, because the disease is polymicrobial. The drug's teratogenicity is also a problem for women of reproductive age. Recommendation: Hold.
-- **Xanthogranulomatous pyelonephritis (99.46%):** A plausible indirect link through urease-producing organisms (e.g., Proteus) and struvite stones. The link is inferred from shared pathophysiology only. The disease is usually managed surgically and antimicrobially. Recommendation: Research Question.
+| Rank | Predicted Indication | TxGNN Score | Mechanistic Assessment | Evidence Level |
+|------|------|------|------|------|
+| 2 | Gonococcal urethritis | 99.63% | *Neisseria gonorrhoeae* is not a recognized urease-producing pathogen, so there is no clear mechanistic link. The score likely reflects network proximity to the original indication. Effective antibiotics already exist. | L5 |
+| 3 | Uterine inflammatory disease | 99.54% | No clear link. The disease is usually polymicrobial and not urease-driven. | L5 |
+| 4 | Xanthogranulomatous pyelonephritis | 99.46% | The most plausible of the four, because it is associated with obstructing stones and urease-producing organisms such as *Proteus mirabilis*. It usually requires surgery plus antibiotics. | L5 |
 
 ## Clinical Trial Evidence
 
@@ -74,33 +75,39 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA018749 | Lithostat (Mission Pharmacal Company) | Tablet (oral) | Not provided in the license record |
+| NDA018749 (cancelled) | Lithostat | Tablet (oral) | Not stated |
+
+The only US authorization, held by Mission Pharmacal Company, has been cancelled, and there are no currently valid licenses.
 
 ## Safety Considerations
 
-Structured warning, contraindication and drug-interaction data are not available in the Evidence Pack. Please refer to the package insert for safety information.
+- **Contraindications and warnings from the knowledge graph** (these come from drug-disease relationship data, not package insert text): thrombocytopenia, substance abuse/dependence, anemia, macrocytic anemia, leukopenia, hemolytic anemia and phlebitis. Hematologic toxicity is the main theme. Blood-count monitoring would be essential in any further development.
+- **Drug Interactions** (5 recorded):
 
-The mechanistic rationale for this candidate flags these concerns for systemic exposure:
+| Interacting Drug | Severity |
+|------|------|
+| Cladribine | **Major** |
+| Alemtuzumab | Moderate |
+| Ocrelizumab | Moderate |
+| Omacetaxine mepesuccinate | Moderate |
+| Ustekinumab | Moderate |
 
-- **Teratogenicity:** This is a particular problem for uterine inflammatory disease, where the target population is women of reproductive age.
-- **Hemolytic anemia**
-- **Thromboembolic events**
+Please refer to the package insert for the official warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on model score and a plausible urease-based rationale alone. There are no linked trials or publications (Evidence Level L5, stage S0), and standard antibiotic therapy already exists. The drug's systemic toxicity profile adds further risk.
+The prediction has no clinical trial or literature support (evidence level L5), and the mechanistic link to a lower genital tract mucosal infection is weak. The only US product is cancelled, and the hematologic safety signals are notable. Effective antibiotic therapy also already exists for these conditions.
 
 **To proceed, the following is needed:**
-- The FDA package insert warnings and contraindications (a blocking gap for safety screening)
-- Detailed mechanism of action data from DrugBank
-- A literature review of urease inhibition in *Ureaplasma* infection, covering preclinical and case-based evidence
-- Route compatibility and similarity-to-original assessments, currently pending
-- For the xanthogranulomatous pyelonephritis hypothesis, a retrospective or case-based evidence review weighed against the drug's toxicity
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
+- Official package insert warnings and contraindications (a blocking gap for safety screening)
+- Confirmed mechanism of action data
+- Laboratory evidence that urease inhibition has an effect against *Ureaplasma*
+- Any clinical or observational data in the predicted indication
+- If any indication is pursued, xanthogranulomatous pyelonephritis is the most mechanistically plausible candidate, and a hematologic safety monitoring plan would be needed
+- Clarification of the regulatory and supply pathway, given that the only US product is cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,88 +29,72 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Dextroamphetamine: From ADHD to Faciodigitogenital Syndrome
+# Dextroamphetamine: From Attention Deficit Hyperactivity Disorder to Faciodigitogenital Syndrome
 
 ## One-Sentence Summary
 
-Dextroamphetamine is a central nervous system stimulant marketed in the US, and the literature in the Evidence Pack describes it as approved for attention deficit hyperactivity disorder (ADHD) and narcolepsy.
-The TxGNN model ranks **faciodigitogenital syndrome** as its top prediction, but there are **0 clinical trials** and **0 publications** for this pairing, so the score is a graph-model output with no supporting evidence.
-
----
+Dextroamphetamine is a central nervous system stimulant, originally used to treat attention deficit hyperactivity disorder (ADHD) and narcolepsy.
+The TxGNN model predicts it may be effective for **Faciodigitogenital Syndrome** (Aarskog-Scott syndrome), but there are currently **0 clinical trials** and **0 publications** supporting this specific prediction. It is a computational prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | ADHD and narcolepsy (taken from the literature in the pack; the US license records have no indication text) |
+| Original Indication | Attention deficit hyperactivity disorder (ADHD); narcolepsy (US label text is not available, so these come from the knowledge graph) |
 | Predicted New Indication | Faciodigitogenital syndrome |
 | TxGNN Prediction Score | 99.99% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (total US licenses, including ANDAs) |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (all 12 authorizations are cancelled) |
+| Number of NDAs | 12 (2 NDAs and 10 ANDAs) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the Evidence Pack. Dextroamphetamine is a CNS stimulant that increases synaptic dopamine and norepinephrine by promoting their release and blocking reuptake. This is how it improves attention and reduces hyperactivity in ADHD.
+Currently, detailed mechanism of action data is not available. Based on known information, dextroamphetamine is a stimulant whose efficacy in ADHD and narcolepsy is established, and it is generally understood to increase catecholamine (dopamine and norepinephrine) activity in the brain.
 
-Faciodigitogenital syndrome is a rare developmental disorder. **No plausible mechanistic link to dextroamphetamine was identified.** The score of 0.9999 comes from the graph model alone. It is not backed by any trial, publication or known pharmacology, so it should not be read as a therapeutic signal.
-
----
+Faciodigitogenital syndrome (Aarskog-Scott syndrome) is an X-linked developmental disorder caused by FGD1 variants. It often involves ADHD-like behavioral features. Dextroamphetamine might plausibly address those symptoms, but this link is inferred. The data compiled for this report contain no supporting studies, and the high score reflects a knowledge-graph prediction rather than clinical findings.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-The source data lists 20 US licenses. The five main ones are shown below.
-
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA090533 | Zenzedi | Tablet | Azurity Pharmaceuticals, Inc. |
-| ANDA210059 | Dextroamphetamine Sulfate | Tablet | Bryant Ranch Prepack |
-| ANDA203644 | Dextroamphetamine | Solution | Bryant Ranch Prepack |
-| ANDA212160 | Dextroamphetamine Sulfate | Tablet | Winder Laboratories LLC |
-| NDA215401 | XELSTRYM | Extended-release patch | Noven Therapeutics, LLC |
+| NDA215401 | XELSTRYM | Extended-release patch | Not available (cancelled) |
+| NDA017078 | DEXEDRINE | Extended-release capsule | Not available (cancelled) |
+| ANDA090533 | Zenzedi | Tablet | Not available (cancelled) |
+| ANDA040776 | PROCENTRA | Solution | Not available (cancelled) |
+| ANDA203901 | Dextroamphetamine Sulfate | Extended-release capsule | Not available (cancelled) |
 
-Other available forms include extended-release capsules.
-
----
+Of the 12 authorizations in total, all are cancelled and none are currently valid. Only the first 5 are listed here.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindications flagged in the knowledge graph (not label text):** hypertension and other cardiovascular disease (coronary artery disease, myocardial infarction, stroke, arteriosclerosis, heart conduction disease, sudden cardiac arrest), epilepsy, psychiatric disorders (bipolar disorder, psychotic disorders, schizophreniform and schizoaffective disorders), glaucoma, hyperthyroidism (including Graves disease), anorexia nervosa, hemoglobinopathy, and substance abuse or dependence.
+- **Drug Interactions:** 62 interactions are recorded. Examples of **Major** interactions include bupropion, fenfluramine, dexfenfluramine, and sibutramine. **Moderate** interactions include epinephrine, ephedrine, isometheptene, and several antacids and alkalinizing agents (such as magnesium hydroxide, aluminum hydroxide, calcium carbonate, and potassium citrate).
+- **Prediction-specific concerns:** Stimulant effects on heart rate and blood pressure are a concern for the lower-ranked predictions, such as postural orthostatic tachycardia syndrome and multiple system atrophy. A case report also describes new-onset trichotillomania during stimulant treatment.
 
----
+Please refer to the package insert for complete safety information, as label warnings were not available for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction has no trials, no literature and no plausible mechanism, so it rests entirely on the graph score. It should not advance.
-
-Other candidates in the pack, for context:
-- **Specific developmental disorder** (rank 2, L2, Proceed with Guardrails) appears to be a proxy label for ADHD and related neurodevelopmental conditions. Its evidence reflects existing ADHD use, not new repurposing. A Phase 4 trial in ADHD with autism (NCT05916339) is recruiting.
-- **Postural orthostatic tachycardia syndrome** (rank 6, L4, Hold) has only indirect literature and a possible cardiovascular safety concern.
-- **Trichotillomania** (rank 7, L4, Hold) shows an adverse-event signal, with new-onset cases reported during stimulant treatment. It does not support repurposing.
+The prediction for faciodigitogenital syndrome rests on a model score alone, with no clinical trials or literature. In the US, all dextroamphetamine authorizations are currently cancelled. The knowledge graph also lists many cardiovascular and psychiatric contraindications.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data from DrugBank
-- Any independent evidence linking dextroamphetamine to faciodigitogenital syndrome; without it, further work on this prediction is not justified
-- For the rank 2 label, confirmation of the exact target condition (for example ADHD, learning disorder, or ADHD with autism) before it is treated as a new indication
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data, for example from DrugBank
+- Evidence that dextroamphetamine helps ADHD-like symptoms in Aarskog-Scott syndrome, such as case series or small trials
+- A risk assessment of cardiovascular and psychiatric safety in this population
+- Confirmation of current US regulatory and marketing status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

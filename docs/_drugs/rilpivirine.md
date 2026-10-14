@@ -29,87 +29,101 @@ Evidence Level: **L4** | Predicted Indications: **5**
 
 </div>
 
-# Rilpivirine: From HIV-1 Infection to Feline Acquired Immunodeficiency Syndrome
+# Rilpivirine: From HIV Infection to Feline Acquired Immunodeficiency Syndrome
 
 ## One-Sentence Summary
 
-Rilpivirine is a non-nucleoside reverse transcriptase inhibitor (NNRTI) used to treat HIV-1 infection.
-The TxGNN model predicts it may be effective for **feline acquired immunodeficiency syndrome (FIV infection)**,
-but the only supporting evidence is **1 preclinical biochemical/structural study** and **no clinical trials**.
-
----
+Rilpivirine is a non-nucleoside reverse transcriptase inhibitor (NNRTI) originally used to treat HIV infection and AIDS.
+The TxGNN model predicts it may be effective for **feline acquired immunodeficiency syndrome**, a veterinary condition.
+Support is thin: **0 clinical trials** and **1 preclinical publication**. The other predictions in the ranked list are mostly indirect, within the existing HIV indication, or lack a biological rationale.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | HIV-1 infection (the license records provided contain no approved-indication text; inferred from the drug class and the mechanism described in the evidence pack) |
+| Original Indication | HIV infectious disease; AIDS |
 | Predicted New Indication | Feline acquired immunodeficiency syndrome |
 | TxGNN Prediction Score | 99.97% |
 | Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 4 (3 NDAs + 1 ANDA) |
+| US Market Status | Cancelled only (all licenses cancelled) |
+| Number of NDAs | 4 (all cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Rilpivirine is an NNRTI that binds allosterically to HIV-1 reverse transcriptase and blocks viral replication. Detailed mechanism-of-action data are not available in DrugBank for this evidence pack. However, the drug class and its target enzyme are well established.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, rilpivirine is an NNRTI that inhibits HIV-1 reverse transcriptase, and its efficacy in HIV infection is established.
 
-Feline immunodeficiency virus (FIV) causes an AIDS-like syndrome in cats, and it is a retrovirus that also depends on reverse transcriptase. This shared target class is the basis for the model's prediction. A 2023 study compared nevirapine, efavirenz and rilpivirine against FIV and HIV reverse transcriptase to assess whether NNRTIs could treat FIV infection.
+Feline immunodeficiency virus (FIV) is a lentivirus related to HIV and has its own reverse transcriptase, so a mechanistic rationale exists. However, the FIV enzyme is known to differ from HIV-1 reverse transcriptase in the residues lining the NNRTI binding pocket, so activity cannot be assumed. The only supporting item is a 2023 biochemical and structural comparison of NNRTIs (nevirapine, efavirenz, rilpivirine) against FIV and HIV reverse transcriptases. It is preclinical. This is a veterinary indication with no human clinical relevance, and the cancelled US market status further limits practical development.
 
-There is an important caveat. FIV reverse transcriptase is generally less susceptible to NNRTIs than HIV-1 reverse transcriptase. Whether rilpivirine is actually active against FIV, and whether that would matter in live animals, has not been confirmed. The high TxGNN score reflects a graph-based prediction, not experimental proof.
-
-Two other predicted labels for this drug relate to HIV in humans (congenital HIV and AIDS related complex). They mostly restate the existing HIV-1 use rather than a new indication, so they are not covered in this report.
-
----
+**Other predictions in the ranked list:**
+- **Simian immunodeficiency virus infection (99.97%):** Macaque studies of long-acting rilpivirine, alone or with cabotegravir, cover resistance selection, post-exposure prophylaxis, and virologic remission. These are animal models of HIV and support the existing HIV indication rather than a new human one. Several of the papers focus on cabotegravir or on combinations, so attribution to rilpivirine is partial.
+- **Neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.97%):** No mechanistic link, trials, or literature. This is likely a knowledge-graph artifact.
+- **Congenital HIV (99.56%):** The literature concerns long-acting cabotegravir/rilpivirine in pregnancy, which addresses maternal treatment and fetal safety, not treatment of infected infants.
+- **AIDS related complex (99.56%):** A historical term already covered by the existing HIV/AIDS indications, so it is not true repurposing.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials are registered for the top predicted indication (feline acquired immunodeficiency syndrome).
 
----
+For the lower-ranked prediction of congenital HIV, one trial was retrieved, but it is not relevant to rilpivirine:
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT04340388](https://clinicaltrials.gov/study/NCT04340388) | Phase 4 | Completed | 10 | Effect of switching to a dolutegravir-containing regimen on lipid and metabolic profiles, renal function, body composition and vascular function. It does not evaluate rilpivirine or congenital HIV treatment. |
 
 ## Literature Evidence
 
+**Top prediction (feline acquired immunodeficiency syndrome):**
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [38031646](https://pubmed.ncbi.nlm.nih.gov/38031646/) | 2023 | Preclinical biochemical/structural study | Journal of Veterinary Science | Compared the first- and second-generation NNRTIs nevirapine and efavirenz, plus rilpivirine, against feline and human immunodeficiency virus reverse transcriptase, to assess their potential for treating FIV infection. The abstract excerpt provided states the objective but not the quantitative results. |
+| [38031646](https://pubmed.ncbi.nlm.nih.gov/38031646/) | 2023 | Preclinical biochemical/structural study | Journal of Veterinary Science | Compared nevirapine, efavirenz and rilpivirine against FIV and HIV reverse transcriptases to assess NNRTI potential for FIV infection, for which no effective treatment exists. |
 
----
+**Supporting literature for related predictions (indirect):**
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [41225339](https://pubmed.ncbi.nlm.nih.gov/41225339/) | 2025 | Systematic review/meta-analysis | BMC Infectious Diseases | Safety of cabotegravir in pregnancy (cabotegravir-focused). |
+| [36411596](https://pubmed.ncbi.nlm.nih.gov/36411596/) | 2023 | Cohort/PK study | HIV Medicine | Pregnancy outcomes and pharmacokinetics in women exposed to long-acting cabotegravir + rilpivirine in clinical trials. |
+| [38864586](https://pubmed.ncbi.nlm.nih.gov/38864586/) | 2024 | Cohort | AIDS | First-trimester exposure to newer antiretrovirals and congenital anomalies in a US cohort. |
+| [26438501](https://pubmed.ncbi.nlm.nih.gov/26438501/) | 2015 | Preclinical (macaque) | Antimicrobial Agents and Chemotherapy | Low frequency of drug-resistant variants selected by long-acting rilpivirine in macaques infected with SIV containing HIV-1 reverse transcriptase. |
+| [41370971](https://pubmed.ncbi.nlm.nih.gov/41370971/) | 2026 | Preclinical (macaque) | EBioMedicine | Single-injection long-acting cabotegravir/rilpivirine evaluated as post-exposure prophylaxis. |
+| [39632836](https://pubmed.ncbi.nlm.nih.gov/39632836/) | 2024 | Preclinical (macaque) | Nature Communications | SHIV remission with early treatment and long-acting cabotegravir/rilpivirine. |
+| [38703388](https://pubmed.ncbi.nlm.nih.gov/38703388/) | 2024 | Case report | Clinical Infectious Diseases | Long-acting cabotegravir/rilpivirine in pregnancy: rilpivirine concentrations were 70%-75% lower, with no vertical transmission or malformations. |
+| [41268510](https://pubmed.ncbi.nlm.nih.gov/41268510/) | 2025 | Case report | Case Reports in Infectious Diseases | Viral suppression maintained on long-acting cabotegravir/rilpivirine throughout pregnancy. |
+| [37568163](https://pubmed.ncbi.nlm.nih.gov/37568163/) | 2023 | Case report | AIDS Research and Therapy | Managing drug-drug interactions between antiretrovirals and immunosuppressants in an HIV-positive heart transplant recipient. |
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|------|
-| NDA219016 | EDURANT PED | Tablet, for suspension | Janssen Products, LP |
-| NDA202022 | EDURANT | Tablet, film coated | Janssen Products, LP |
-| NDA210192 | Juluca | Tablet, film coated | ViiV Healthcare Company |
-| ANDA218798 | Rilpivirine | Tablet, film coated | Somerset Therapeutics, LLC |
+All four US authorizations are cancelled. Approved indication text was not available for any of them.
 
-All listed products are oral formulations.
-
----
+| Authorization Number | Product Name | Dosage Form | Status |
+|---------|------|------|-----------|
+| NDA219016 | EDURANT PED | Tablet, for suspension | Cancelled |
+| ANDA218798 | Rilpivirine (Somerset Therapeutics) | Tablet, film coated | Cancelled |
+| NDA202022 | EDURANT | Tablet, film coated | Cancelled |
+| NDA210192 | Juluca | Tablet, film coated | Cancelled |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Package insert warnings and contraindications were not available in the data compiled for this report. Please refer to the package insert for these.
 
----
+- **Disease contraindications from the knowledge graph (not label text):** Long QT syndrome (including familial), torsades de pointes, liver failure, liver disease, fatty liver disease, non-alcoholic steatohepatitis, kidney disease, chronic hepatitis B virus infection, gallbladder disease, lactic acidosis, Fanconi renotubular syndrome, hypophosphatemia, osteomalacia, rickets, obesity disorders, and others. Some of these may reflect other antiretrovirals in the same class or combination rather than rilpivirine itself, so they should be verified against the label.
+- **Drug Interactions:** 100 interactions were recorded. Major interactions include the acid suppressants famotidine, ranitidine, cimetidine, omeprazole, esomeprazole, rabeprazole and dexlansoprazole, as well as dexamethasone, cisapride and dolasetron. Moderate interactions include antacids and minerals (aluminum hydroxide, calcium carbonate, magnesium oxide), clarithromycin, aprepitant, loperamide, clotrimazole, and several laxatives (bisacodyl, castor oil, polyethylene glycol). Interaction management is an important consideration for any use.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The only support is a single preclinical biochemical/structural study, and FIV reverse transcriptase is generally less sensitive to NNRTIs. No clinical trials exist for this indication, so a high model score alone does not justify moving forward.
+The top-ranked prediction (feline acquired immunodeficiency syndrome) is a veterinary indication supported by a single preclinical study, with no registered trials. The remaining predictions are either indirect, fall within the existing HIV indication, or lack any biological rationale. All US licenses are cancelled, which further limits practical development.
 
 **To proceed, the following is needed:**
-- Cell-based antiviral assays showing rilpivirine inhibits FIV replication at achievable drug concentrations
-- Animal safety and pharmacokinetic data in cats, since all current US authorizations are for human use
-- Package insert safety data (warnings, contraindications) and detailed mechanism-of-action data
-- A veterinary regulatory pathway assessment, since this is an animal-health indication
+- Mechanism-of-action data and FDA package insert warnings and contraindications (both are currently missing, and the missing label safety data blocks safety screening)
+- Direct evidence of rilpivirine activity against FIV reverse transcriptase, given the known binding-pocket differences from HIV-1
+- A defined veterinary development pathway, since the indication has no human clinical relevance
+- For the congenital HIV question: pediatric efficacy and pharmacokinetic data, including the lower rilpivirine exposure seen in pregnancy
+- Independent biological rationale before pursuing the neurodevelopmental disorder prediction
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

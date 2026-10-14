@@ -3,14 +3,14 @@ layout: default
 title: Vinblastine
 parent: Moderate Evidence (L3-L4)
 nav_order: 1292
-evidence_level: L4
+evidence_level: L3
 indication_count: 10
 ---
 
 # Vinblastine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L3** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,110 +29,96 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Vinblastine: From Antineoplastic Use to Rhabdomyosarcoma
+# Vinblastine: From Hodgkin Lymphoma and Other Lymphomas to Rhabdomyosarcoma
 
 ## One-Sentence Summary
 
-Vinblastine is a vinca-alkaloid chemotherapy injection marketed in the US. The label data in this pack do not state its approved indication.
-The TxGNN model predicts it may be effective for **Rhabdomyosarcoma**.
-Support is thin: **no registered clinical trials** and **15 publications**, mostly case reports, preclinical work, and studies of related vinca drugs.
-
----
+Vinblastine is a vinca alkaloid chemotherapy drug, originally used for Hodgkin lymphoma, non-Hodgkin lymphoma, mycosis fungoides (cutaneous T-cell lymphoma), mantle cell lymphoma and Langerhans cell histiocytosis.
+The TxGNN model predicts it may be effective for **Rhabdomyosarcoma**,
+but there are currently **0 registered clinical trials** and only **7 publications** (mostly case reports, small series and preclinical studies), so the evidence remains limited.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the provided label data (the approved indication text is blank) |
+| Original Indication | Hodgkin lymphoma, non-Hodgkin lymphoma, mycosis fungoides and primary cutaneous T-cell lymphoma, mantle cell lymphoma, Langerhans cell histiocytosis (from the knowledge graph; the US label indication text is not available) |
 | Predicted New Indication | Rhabdomyosarcoma |
 | TxGNN Prediction Score | 99.86% |
-| Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 1 (ANDA) |
+| Evidence Level | L3 |
+| US Market Status | Cancelled only (the single ANDA is cancelled) |
+| Number of NDAs | 1 (ANDA; cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the source record. The supporting rationale in the evidence pack is that vinblastine binds tubulin, inhibits microtubule assembly, and causes mitotic arrest in dividing cells. This is the same class mechanism as vincristine and vinorelbine, which have established or reported activity in rhabdomyosarcoma.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, vinblastine is a vinca alkaloid that binds tubulin and inhibits microtubule assembly, causing mitotic arrest. Rapidly dividing tumour cells are therefore plausibly sensitive to it.
 
-Preclinical work supports the idea. Microtubule-destabilizing drugs showed activity in rhabdomyosarcoma models, including a synergy with PLK1 inhibitors (PMID 26024389). Older xenograft work also examined vinca alkaloid sensitivity in human rhabdomyosarcoma (PMID 3329524).
+Its established uses are in lymphomas and related haematological malignancies. Rhabdomyosarcoma is a fast-growing soft tissue sarcoma, mainly of childhood, so an antimitotic agent is mechanistically reasonable. Published reports include vinblastine in combination regimens (for example cisplatin, vinblastine and bleomycin) in children with refractory prostatic rhabdomyosarcoma, and a 2023 adult perianal case with a partial response on a combination containing vinblastine. Preclinical work in rhabdomyosarcoma models also describes synthetic lethality between PLK1 inhibitors and microtubule-destabilizing drugs.
 
-No vinblastine-specific clinical trial in rhabdomyosarcoma is provided. The clinical signals are indirect: vinblastine appears only as part of multi-drug regimens in case reports, and the Phase 2 studies used vinorelbine, a different vinca drug. The prediction is therefore best treated as a research question, not a treatment recommendation.
+These signals remain anecdotal. In the combination reports, vinblastine's individual contribution cannot be separated from the other agents.
 
-Among the model's other predictions, neuroblastoma has the strongest support (evidence level L2). It has a Phase 1 vinblastine-sirolimus pediatric study and a completed single-arm Phase 2 metronomic trial (NCT02641314, n=18). Several other rhabdomyosarcoma subtypes and sites have prediction only, with no supporting studies.
-
----
+Other predicted indications in the data are weaker or comparable:
+- **Monocytic leukemia** (L3): historical 1970s clinical series reported remissions in acute monocytic leukemia, but the evidence is uncontrolled and largely superseded by modern therapy.
+- **Neuroblastoma** (L3): preclinical synergy with rapamycin and a phase I study of vinblastine plus sirolimus in paediatric solid tumours.
+- **Several rhabdomyosarcoma subtypes, liver sarcoma, ganglioneuroblastoma**: little or no specific evidence, so these rest mainly on the model score.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for rhabdomyosarcoma.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [38050209](https://pubmed.ncbi.nlm.nih.gov/38050209/) | 2023 | Case report/Review | Medicine | Adult perineal rhabdomyosarcoma: a partial response was seen after nivolumab, dacarbazine, cisplatin, and vinblastine, followed by surgery. This is a combination regimen, so vinblastine's contribution is unclear. |
-| [22633624](https://pubmed.ncbi.nlm.nih.gov/22633624/) | 2012 | Phase 2 (vinorelbine, indirect) | Eur J Cancer | Vinorelbine plus low-dose oral cyclophosphamide in relapsed or refractory pediatric solid tumours. The title reports good tolerance and efficacy in rhabdomyosarcoma. |
-| [12115359](https://pubmed.ncbi.nlm.nih.gov/12115359/) | 2002 | Phase 2 (vinorelbine, indirect) | Cancer | Vinorelbine in previously treated advanced childhood sarcomas showed evidence of activity in rhabdomyosarcoma. |
-| [15378498](https://pubmed.ncbi.nlm.nih.gov/15378498/) | 2004 | Pilot study (vinorelbine, indirect) | Cancer | Dose-finding pilot of vinorelbine with low-dose cyclophosphamide in refractory or recurrent pediatric sarcoma. |
-| [3329524](https://pubmed.ncbi.nlm.nih.gov/3329524/) | 1987 | Preclinical/Review | Anti-Cancer Drug Des | Vinca alkaloid selectivity examined in human rhabdomyosarcoma xenografts in mice. |
-| [26024389](https://pubmed.ncbi.nlm.nih.gov/26024389/) | 2015 | Preclinical | Cell Death Differ | PLK1 inhibitors and microtubule-destabilizing drugs show synthetic lethality in rhabdomyosarcoma models. |
-| [2451411](https://pubmed.ncbi.nlm.nih.gov/2451411/) | 1987 | Case report/Review | Hinyokika Kiyo | Refractory prostatic rhabdomyosarcoma in a child, treated with cisplatin, vinblastine, and peplomycin (PVP) after standard therapy failed. The mass reduced rapidly, but this is a single case. |
-| [22156656](https://pubmed.ncbi.nlm.nih.gov/22156656/) | 2011 | Pilot study | Oncotarget | Pediatric metronomic 4-drug regimen. Vinblastine's role is unconfirmed. |
-| [41216926](https://pubmed.ncbi.nlm.nih.gov/41216926/) | 2026 | Prospective trials (reclassified data) | Pediatr Blood Cancer | CWS-96 and CWS-2002P trials in non-rhabdomyosarcoma soft tissue sarcoma. Related disease area, not rhabdomyosarcoma itself. |
-
-No randomized controlled trials were found for this indication.
-
----
+| [41216926](https://pubmed.ncbi.nlm.nih.gov/41216926/) | 2026 | Cohort (indirect) | Pediatric Blood & Cancer | CWS-96 and CWS-2002P prospective trials in localised non-rhabdomyosarcoma soft tissue sarcoma in children and adolescents; indirect relevance |
+| [22156656](https://pubmed.ncbi.nlm.nih.gov/22156656/) | 2011 | Pilot study | Oncotarget | Pilot study of a paediatric metronomic 4-drug regimen, evaluated as an option for resistant cancer |
+| [38050209](https://pubmed.ncbi.nlm.nih.gov/38050209/) | 2023 | Case report/Review | Medicine | Adult perianal rhabdomyosarcoma; partial response after nivolumab, dacarbazine, cisplatin and vinblastine, followed by surgery |
+| [26024389](https://pubmed.ncbi.nlm.nih.gov/26024389/) | 2015 | Preclinical | Cell Death & Differentiation | PLK1 inhibitors and microtubule-destabilizing drugs show synthetic lethality in rhabdomyosarcoma models |
+| [3329524](https://pubmed.ncbi.nlm.nih.gov/3329524/) | 1987 | Preclinical | Anti-Cancer Drug Design | Basis of therapeutic selectivity of vinca alkaloids examined in rhabdomyosarcoma xenografts in mice |
+| [2451411](https://pubmed.ncbi.nlm.nih.gov/2451411/) | 1987 | Case report/Review | Hinyokika Kiyo | Refractory prostatic rhabdomyosarcoma in a 3-year-old; bulky pelvic mass reduced rapidly on cisplatin, vinblastine and peplomycin |
+| [14328283](https://pubmed.ncbi.nlm.nih.gov/14328283/) | 1965 | Review (historical) | British Journal of Clinical Practice | Historical overview of tumour chemotherapy in children |
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA089515 | Vinblastine Sulfate (Fresenius Kabi USA, LLC) | Injection | Not stated in the provided data |
-
----
+| ANDA089515 (cancelled) | Vinblastine Sulfate (Fresenius Kabi USA, LLC) | Injection | Not available |
 
 ## Cytotoxicity
 
-Vinblastine is a conventional cytotoxic antineoplastic. The table below is based on general knowledge of the vinca-alkaloid class; the pack contains no toxicity data.
-
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (vinca alkaloid, antimicrotubule agent) |
-| Myelosuppression Risk | High (leukopenia is typical for this class) |
-| Emetogenicity Classification | Low |
-| Monitoring Items | CBC with differential, liver and renal function |
-| Handling Protection | Must follow cytotoxic drug handling regulations |
-
-Please refer to the package insert warnings and precautions for authoritative details.
-
----
+| Cytotoxicity Classification | Conventional cytotoxic (vinca alkaloid, antimitotic) |
+| Myelosuppression Risk | High. Neutropenia and thrombocytopenia are the main concerns (also flagged in the knowledge-graph contraindication list) |
+| Emetogenicity Classification | Low to moderate |
+| Monitoring Items | Complete blood count with differential, liver function (including bilirubin), renal function, neurological assessment for peripheral neuropathy |
+| Handling Protection | Must follow cytotoxic drug handling regulations. Please refer to the package insert warnings and precautions |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindication signals (from the knowledge graph, not label text)**: liver failure, thrombocytopenia, neutropenia, agranulocytosis, peripheral neuropathy and other peripheral nervous system disease, hyperbilirubinemia (including Gilbert syndrome), lung disease, myocardial ischemia and coronary artery disease, and infectious disease (including fungal infections and dermatophytosis). Anxiety and dysthymic disorders and hyperuricemia also appear in this list.
+- **Drug Interactions**: 100 interactions were identified. Examples include:
+  - **Major**: clarithromycin
+  - **Moderate**: aprepitant, dexamethasone, metronidazole, eliglustat, miconazole, rolapitant, rosuvastatin, simvastatin, tinidazole, glycerol phenylbutyrate, troglitazone
+  - **Minor**: levofloxacin
+- **Literature safety signals**: severe ileus with cisplatin-vinblastine infusion in neuroblastoma, and neurotoxicity concerns related to tubulin-targeting agents.
 
----
+Please refer to the package insert for the official warnings and contraindications, which are not available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The model score is very high (99.86%), but the support is indirect: case reports, preclinical studies, and trials of vinorelbine instead of vinblastine. There are no registered trials and no vinblastine-specific clinical data in rhabdomyosarcoma. Vinblastine is also not a standard component of established rhabdomyosarcoma regimens in this record.
+The TxGNN score is high (99.86%) and the antimitotic mechanism is plausible. However, there are no registered trials, the literature is limited to case reports, small series and preclinical work, and vinblastine's individual contribution in combination regimens cannot be isolated. The only US authorization is cancelled, and the official label safety data are missing.
 
 **To proceed, the following is needed:**
-- The package insert (warnings, contraindications, approved indication) to complete the safety screen
-- Mechanism-of-action data from DrugBank
-- A structured review of whether vinblastine adds benefit beyond vincristine or vinorelbine in rhabdomyosarcoma
-- Consideration of neuroblastoma, which has stronger evidence, as a higher-priority candidate from this drug's prediction list
-
-*These results are for research reference only and do not constitute medical advice. Repurposing candidates require clinical validation before any use.*
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism of action data from DrugBank
+- Comparison with the current standard rhabdomyosarcoma regimens (vincristine-based), including whether vinblastine adds value
+- Prospective or registry data on vinblastine in rhabdomyosarcoma
+- A plan to confirm injectable product availability in the US, since the only listed ANDA is cancelled
+- A safety monitoring plan covering myelosuppression, neurotoxicity, hepatic impairment and CYP3A4 interactions (e.g. clarithromycin)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

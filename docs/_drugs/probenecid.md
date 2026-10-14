@@ -29,33 +29,32 @@ Evidence Level: **L4** | Predicted Indications: **3**
 
 </div>
 
-# Probenecid: From Gout (Hyperuricemia) to Renal Hypouricemia
+# Probenecid: From Gout to Renal Hypouricemia
 
 ## One-Sentence Summary
 
-Probenecid is an oral uricosuric drug that lowers serum uric acid. It is best known for treating gout and hyperuricemia, although the license records provided do not list an indication.
-The TxGNN model predicts it may be effective for **Renal Hypouricemia**, but there are **0 clinical trials** and **19 publications**, and none of the publications tests probenecid as a treatment.
-This prediction is most likely a false positive driven by a shared urate-transport pathway.
+Probenecid is a uricosuric drug, originally used to treat gout and hyperuricemia.
+The TxGNN model predicts it may be effective for **renal hypouricemia**, but there are **0 clinical trials** and **20 publications** in the data compiled for this report. These publications only describe the disease or use probenecid as a diagnostic probe; none supports therapeutic use.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Gout / hyperuricemia (general drug knowledge; the US license records provided contain no indication text) |
-| Predicted New Indication | Hypouricemia, renal |
+| Original Indication | Gout; hyperuricemia (per knowledge-graph indication data; no label text available) |
+| Predicted New Indication | Renal hypouricemia |
 | TxGNN Prediction Score | 99.73% |
 | Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 10 (all listed licenses are ANDAs) |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 7 (all cancelled; 1 NDA and 6 ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the Evidence Pack. Probenecid is a uricosuric that inhibits the renal urate transporter URAT1 (SLC22A12) and organic anion transporters (OATs). This blocks urate reabsorption in the proximal tubule and lowers serum urate.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, probenecid inhibits the renal urate transporter URAT1 (SLC22A12) and the organic anion transporters OAT1/OAT3. This blocks urate reabsorption in the proximal tubule and increases uric acid excretion, which is why it lowers serum urate in gout.
 
-The high score most likely reflects a knowledge-graph link between probenecid and urate transport genes (URAT1/SLC22A12, GLUT9/SLC2A9). It is not a therapeutic rationale. Renal hypouricemia is a state of excess urate excretion, usually caused by loss-of-function variants in URAT1 or GLUT9. Giving a drug that further increases urate excretion would be expected to worsen the condition.
+The prediction is therefore **mechanistically doubtful**. Renal hypouricemia is mainly caused by loss-of-function mutations in URAT1 (SLC22A12), or in some cases GLUT9, which already produce excessive urinary urate excretion and low serum urate. A drug that further increases urate excretion would be expected to **worsen** the condition, not treat it. The high score (0.997) most likely reflects the drug's close network association with urate transport, not a therapeutic benefit.
 
-The literature is consistent with this reading. Probenecid appears in these papers as a diagnostic probe of tubular urate handling. Patients with a defective reabsorption pathway show a blunted or paradoxical response to it (for example PMID 854144, 8341392 and 7099326). Hypouricemia patients are also at risk of exercise-induced acute renal failure and urolithiasis, which further argues against adding a uricosuric.
+In the literature, probenecid appears only as a **pharmacological probe**. Several case reports use the response of uric acid clearance to probenecid and pyrazinamide to classify the type of tubular defect.
 
 ## Clinical Trial Evidence
 
@@ -63,51 +62,62 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-The 10 most relevant publications are listed below. Reviews and cohort studies come first, followed by case reports where probenecid was used as a diagnostic probe.
+The compiled literature consists of reviews, case reports and genetic or mechanistic studies. There are no RCTs, and none evaluates probenecid as a treatment.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [16678460](https://pubmed.ncbi.nlm.nih.gov/16678460/) | 2006 | Review | Mol Genet Metab | Hereditary renal hypouricemia is mostly caused by loss-of-function SLC22A12 (URAT1) mutations that impair urate reabsorption |
-| [31650389](https://pubmed.ncbi.nlm.nih.gov/31650389/) | 2020 | Review | Clin Rheumatol | Narrative review of the causes and clinical approach to hypouricemia (serum urate < 2 mg/dL) |
-| [14694169](https://pubmed.ncbi.nlm.nih.gov/14694169/) | 2004 | Cohort | J Am Soc Nephrol | 32 Japanese patients with renal hypouricemia; clinical features correlated with URAT1 gene variants |
-| [7771493](https://pubmed.ncbi.nlm.nih.gov/7771493/) | 1995 | Case report/Review | Am J Kidney Dis | Renal hypouricemia with recurrent exercise-induced acute renal failure; prevention discussed with a literature review |
-| [854144](https://pubmed.ncbi.nlm.nih.gov/854144/) | 1977 | Case report | Nephron | Familial hypouricemia with a proximal tubular defect; uric acid clearance responded only weakly to probenecid and pyrazinamide |
-| [8341392](https://pubmed.ncbi.nlm.nih.gov/8341392/) | 1993 | Case report | Nephron | Novel renal hypouricemia type with drug-insensitive secretion and defective reabsorption; no urate response to probenecid |
-| [7099326](https://pubmed.ncbi.nlm.nih.gov/7099326/) | 1982 | Case report | Nephron | Familial renal hypouricemia with idiopathic edema; urate excretion paradoxically decreased after probenecid |
-| [8302413](https://pubmed.ncbi.nlm.nih.gov/8302413/) | 1993 | Case report | Nephron | Hypouricemia from enhanced tubular urate secretion with urolithiasis; probenecid markedly raised urate clearance; stones were managed with urine alkalization |
-| [8533596](https://pubmed.ncbi.nlm.nih.gov/8533596/) | 1995 | Case report | Acta Paediatr Jpn | Adolescent with acute renal failure after exercise; probenecid and pyrazinamide tests showed a total defect of urate reabsorption |
-| [7933674](https://pubmed.ncbi.nlm.nih.gov/7933674/) | 1994 | Case report | Nihon Jinzo Gakkai Shi | Incomplete combined defect of urate reabsorption; urate excretion rose only minimally after probenecid |
+| [16678460](https://pubmed.ncbi.nlm.nih.gov/16678460/) | 2006 | Review | Molecular Genetics and Metabolism | Hereditary renal hypouricemia is mostly caused by loss-of-function SLC22A12 (URAT1) mutations |
+| [31650389](https://pubmed.ncbi.nlm.nih.gov/31650389/) | 2020 | Review | Clinical Rheumatology | Narrative review of hypouricemia causes, aimed at rheumatologists |
+| [14694169](https://pubmed.ncbi.nlm.nih.gov/14694169/) | 2004 | Cohort/Genetic study | J Am Soc Nephrol | SLC22A12 sequencing in 32 Japanese patients; links URAT1 variants to urate excretion |
+| [7771493](https://pubmed.ncbi.nlm.nih.gov/7771493/) | 1995 | Review/Case report | Am J Kidney Dis | Exercise-induced acute renal failure in renal hypouricemia; focus on prevention |
+| [854144](https://pubmed.ncbi.nlm.nih.gov/854144/) | 1977 | Case study | Nephron | Uric acid clearance responded only weakly to probenecid and pyrazinamide, suggesting a reabsorption defect |
+| [2709741](https://pubmed.ncbi.nlm.nih.gov/2709741/) | 1989 | Case report | Klin Wochenschr | Acute renal failure from uric acid nephropathy; probenecid enhanced urate excretion (diagnostic use) |
+| [8533596](https://pubmed.ncbi.nlm.nih.gov/8533596/) | 1995 | Case report | Acta Paediatr Jpn | Child with acute renal failure after exercise; probenecid and pyrazinamide tests showed a total defect of urate reabsorption |
+| [3808147](https://pubmed.ncbi.nlm.nih.gov/3808147/) | 1987 | Case report | Nephron | Familial renal hypouricemia with clear responses to probenecid or pyrazinamide (intact reabsorption) |
+| [8341392](https://pubmed.ncbi.nlm.nih.gov/8341392/) | 1993 | Case report | Nephron | New type with no urate response to probenecid or pyrazinamide |
+| [14747372](https://pubmed.ncbi.nlm.nih.gov/14747372/) | 2004 | Mechanistic study | J Am Soc Nephrol | Mouse URAT1 homologue localization and urate transport function |
 
 ## US Market Information
 
-The license records provided contain no approved-indication text. Five of the 10 licenses are shown.
+All seven authorizations are cancelled, and no approved-indication text is available.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA080966 | Probenecid | Tablet, film coated | Lannett Company, Inc. |
-| ANDA084442 | Probenecid | Tablet, film coated | Actavis Pharma, Inc. |
-| ANDA080966 | Probenecid | Tablet, film coated | Marlex Pharmaceuticals Inc |
-| ANDA080966 | Probenecid | Tablet, film coated | Bryant Ranch Prepack |
-| ANDA217020 | Probenecid | Tablet | Bryant Ranch Prepack |
+| ANDA080966 | Probenecid | Tablet, film coated | Not available |
+| ANDA084442 | Probenecid | Tablet, film coated | Not available |
+| ANDA217020 | Probenecid | Tablet | Not available |
+| NDA213972 | ORLYNVAH | Tablet, film coated | Not available |
+| ANDA084279 | Probenecid and Colchicine | Tablet | Not available |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindication-related conditions (knowledge graph, not label text)**: The knowledge graph links probenecid to contraindication with liver failure, kidney disease and impaired renal function, hematologic disease, thrombocytopenia, peptic ulcer disease, and muscle disorders (myopathy, rhabdomyolysis). It also lists leukopenia, agranulocytosis and several congenital neutropenias, as well as diarrheal disease and *Clostridium difficile* colitis. These associations need confirmation against the package insert.
+- **Drug Interactions**: 71 interactions were identified. Major interactions include:
+  - Phenylbutyric acid
+  - Glycerol phenylbutyrate
+
+  Moderate interactions include:
+  - Acetylsalicylic acid
+  - Sulfonylureas and related antidiabetics (chlorpropamide, glimepiride, glipizide, glyburide, tolbutamide, tolazamide, acetohexamide)
+  - Meglitinides (repaglinide, nateglinide)
+- **Disease-specific concern**: Renal hypouricemia carries a risk of exercise-induced acute renal failure and urolithiasis. Further increasing urinary urate excretion could aggravate both.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is very high (99.73%), but no clinical trials exist and no publication tests probenecid as a treatment for renal hypouricemia. The mechanism argues against benefit. Probenecid increases urinary urate excretion in a condition already defined by excess urate loss, which could raise the risk of exercise-induced acute renal failure and urolithiasis. The other two predictions, Lesch-Nyhan syndrome (99.39%) and partial HPRT deficiency (99.37%), have no supporting trials or literature. Both involve urate overproduction, where a uricosuric increases stone and nephropathy risk and xanthine oxidase inhibition is the appropriate approach.
+The prediction rests on a computational score alone. No clinical trials exist, and the literature never supports therapeutic use. The mechanism suggests probenecid would worsen a condition already marked by excessive urate excretion. All US licenses are also cancelled.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (currently a blocking gap for safety screening)
-- Detailed mechanism-of-action data from DrugBank
-- Evidence that probenecid could benefit patients with renal hypouricemia, for example a plausible therapeutic hypothesis beyond its use as a diagnostic probe
-- A review of whether these graph-based predictions reflect pathway association rather than treatment benefit
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism-of-action data from DrugBank
+- Mechanistic or preclinical evidence that probenecid could benefit URAT1-deficient renal hypouricemia, if any exists
+- Confirmation of a clear unmet therapeutic need, since renal hypouricemia is often asymptomatic
 
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
+**Other predictions (both Hold, L5):**
+- **Lesch-Nyhan syndrome** (score 99.39%): There is no clinical evidence. Probenecid would not address the neurobehavioral features, and it could raise the risk of urate stones in patients who already overexcrete urate. Xanthine oxidase inhibitors are the standard of care.
+- **Partial HPRT deficiency** (score 99.37%): There are no trials or literature. The mechanism overlaps with gout, but the risk of uric acid nephrolithiasis in overproducers makes xanthine oxidase inhibitors preferable.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

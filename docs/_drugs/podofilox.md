@@ -29,11 +29,12 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Podofilox: From Genital Warts to Vulvovaginal Candidiasis
+# Podofilox: From Anogenital HPV Infection and Common Warts to Vulvovaginal Candidiasis
 
 ## One-Sentence Summary
 
-Podofilox is a topical antimitotic agent, marketed in the US as a solution and a gel; its established use is external genital warts. The TxGNN model predicts it may be effective for **vulvovaginal candidiasis**, but there are **0 clinical trials** and only **1 publication**, a general review of sexually transmitted diseases. The prediction is not supported by any clinical or mechanistic evidence.
+Podofilox is a topical antimitotic agent, originally used for anogenital human papillomavirus (HPV) infection (genital warts) and common warts.
+The TxGNN model predicts it may be effective for **vulvovaginal candidiasis**, but there are **0 clinical trials** and only **1 publication** (a 1999 general review that does not address this use), so the prediction is **not supported by direct evidence**.
 
 ---
 
@@ -41,21 +42,23 @@ Podofilox is a topical antimitotic agent, marketed in the US as a solution and a
 
 | Item | Content |
 |------|------|
-| Original Indication | External genital warts (inferred from known topical use; the license records supplied contain no indication text) |
+| Original Indication | Anogenital human papillomavirus infection; common wart |
 | Predicted New Indication | Vulvovaginal candidiasis |
 | TxGNN Prediction Score | 99.47% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 2 (both ANDA generic approvals) |
+| US Market Status | Cancelled only (no active licenses) |
+| Number of NDAs | 2 (both are ANDA generic applications, both cancelled) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Podofilox is known to be an antimitotic agent that binds tubulin. Its efficacy in external genital warts is established, but this mechanism has no known antifungal activity.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Podofilox (podophyllotoxin) is generally known as an antimitotic agent that inhibits tubulin polymerization. It kills rapidly dividing HPV-infected skin cells and causes local necrosis of wart tissue. This is why it works for genital warts and common warts.
 
-The link to vulvovaginal candidiasis is weak. The only supporting paper is a 1999 review of sexually transmitted disease treatment (vaginal infections, pelvic inflammatory disease and genital warts). The drug and the disease most likely co-occur in that article by chance. The very high TxGNN score (0.995) therefore looks like a co-mention artifact, not a real pharmacological signal.
+Vulvovaginal candidiasis is a fungal infection, not a viral or proliferative skin lesion. An antimitotic wart treatment has no known antifungal activity, so **no credible mechanistic link was found**. The only related literature is a 1999 review of treatments for common sexually transmitted diseases. It discusses vaginal infections and genital warts side by side, but it does not suggest podofilox for candidiasis.
+
+The high TxGNN score most likely reflects the knowledge graph linking anogenital conditions that tend to occur together (genital warts and vaginal infections), not a pharmacological relationship. The score should be treated as a hypothesis-generating signal only.
 
 ---
 
@@ -69,16 +72,18 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [10537386](https://pubmed.ncbi.nlm.nih.gov/10537386/) | 1999 | Review | American Family Physician | Overview of the 1998 CDC treatment recommendations for vaginal infections, pelvic inflammatory disease and genital warts. It gives no podofilox-specific evidence for candidiasis. |
+| [10537386](https://pubmed.ncbi.nlm.nih.gov/10537386/) | 1999 | Review | American Family Physician | General review of CDC 1998 STD treatment guidelines covering vaginal infections, pelvic inflammatory disease, and genital warts. It does not support podofilox use for candidiasis. |
 
 ---
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| ANDA075600 | Podofilox | Solution | Padagis US LLC |
-| ANDA211871 | Podofilox | Gel (topical) | Padagis US LLC |
+| ANDA075600 | Podofilox | Solution | Cancelled |
+| ANDA211871 | Podofilox | Gel | Cancelled |
+
+Both authorizations are held by Padagis US LLC. No approved indication text was available for either one. Neither product is currently active, so availability would need to be verified.
 
 ---
 
@@ -93,13 +98,13 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trials, no plausible mechanism and only one non-specific review, so it is model output only (L5). Podofilox is an antimitotic agent, not an antifungal, and established antifungal therapies already exist for this condition.
+The prediction rests on model output alone, with no clinical trials and no supporting literature. There is also no plausible mechanism linking an antimitotic wart treatment to a fungal infection, and established antifungal therapies already exist. Both US licenses are cancelled.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data from DrugBank
-- Any primary evidence of antifungal activity, which is currently absent
-- Separate evaluation of the rank 3 prediction, **human papilloma virus infection** (L3, Proceed with Guardrails). It is most likely the established genital wart use rather than true repurposing. It is supported only by guidelines and reviews, so the underlying primary RCTs should be confirmed before the evidence grade is raised.
+- Any preclinical or clinical evidence of antifungal activity against *Candida* species (none identified so far)
+- Detailed mechanism of action data
+- Review of the FDA package insert for warnings and contraindications, especially for application to vaginal mucosa
+- Confirmation of current product availability, since both US licenses are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,83 +29,88 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Brodalumab: From Plaque Psoriasis to Strongyloidiasis
+# Brodalumab: From an Unspecified Original Indication to Strongyloidiasis
 
 ## One-Sentence Summary
 
-Brodalumab (Siliq) is an injectable IL-17 receptor A blocker. The Evidence Pack does not include its label indication text, so the original use here is taken from general knowledge: moderate-to-severe plaque psoriasis.
-The TxGNN model predicts it may be effective for **strongyloidiasis**, but there are **0 clinical trials** and **0 publications** supporting this direction.
-The prediction is most likely a knowledge-graph artifact, and the drug is more likely a safety concern than a treatment for this infection.
-
----
+Brodalumab is an injectable biologic that blocks the IL-17 receptor A (IL-17RA). The data compiled for this report do not list an approved indication for it.
+The TxGNN model predicts it may be effective for **strongyloidiasis**, but **0 clinical trials** and **0 publications** support this prediction, and the biological rationale points the other way.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the pack's license data; plaque psoriasis per general knowledge |
+| Original Indication | Not available in the data compiled for this report |
 | Predicted New Indication | Strongyloidiasis |
 | TxGNN Prediction Score | 99.84% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
+| US Market Status | Cancelled only |
 | Number of NDAs | 1 (BLA761032) |
 | Recommended Decision | Hold |
 
----
-
 ## Why is This Prediction Reasonable?
 
-Brodalumab blocks IL-17RA, the shared receptor for the IL-17 cytokine family. That is why it suits immune-mediated inflammatory diseases. The pack's detailed MOA field is empty, so this description comes from the mechanistic assessment in the pack.
+Currently, detailed mechanism of action data is not available in the compiled data. From the drug's known class, brodalumab is an IL-17 receptor A inhibitor, and this is the basis for the analysis below.
 
-**The prediction is not mechanistically reasonable.** IL-17 signaling contributes to mucosal and antimicrobial defense. Blocking it in a patient with *Strongyloides* infection carries a risk of immunosuppression-related hyperinfection. The high TxGNN score is likely a graph-proximity artifact rather than a therapeutic signal.
+The prediction is weakly supported at best. IL-17 signaling contributes to mucosal and anti-helminth immunity, so blocking it would be expected to impair host defence rather than help. Immunosuppressive biologics also raise concern about *Strongyloides* hyperinfection. The high TxGNN score (99.84%) therefore looks like a network-based artifact rather than a sign of true therapeutic potential. No clinical trials or literature back this indication.
 
-Other predicted indications look more plausible, though still weak. The pack lists "eye disease" (L4, research question only) and several immune-mediated optic nerve conditions (optic neuritis and related entities), where a Th17/IL-17 role is biologically plausible. None of them has clinical data for brodalumab.
+For context, the other top predictions are also unsupported:
 
----
+- **Eye disease (rank 2, 99.82%)**: the only prediction with any literature (3 papers, L4). It is too broad to act on, and the papers suggest possible safety signals rather than benefit.
+- **Vitamin deficiency disorder, von Hippel anomaly**: no identifiable mechanistic link.
+- **Optic neuritis-related conditions and episcleritis**: only a hypothetical link through Th17/IL-17 inflammation, with no supporting data.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for strongyloidiasis.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 Currently no related literature available for strongyloidiasis.
 
----
+For reference, the following papers were retrieved for the second-ranked prediction, eye disease. They are indirect and not evidence of efficacy:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [42576218](https://pubmed.ncbi.nlm.nih.gov/42576218/) | 2026 | Preclinical/Animal study | Journal of Translational Medicine | IL-17 receptor blockade with brodalumab limited experimental periodontitis |
+| [41770262](https://pubmed.ncbi.nlm.nih.gov/41770262/) | 2026 | Case report | Rheumatology International | Behçet's disease developed as a paradoxical reaction after brodalumab initiation in a patient with chronic non-bacterial osteitis |
+| [41916603](https://pubmed.ncbi.nlm.nih.gov/41916603/) | 2026 | Pharmacovigilance analysis | Canadian Journal of Ophthalmology | Real-world analysis of FDA-approved systemic drugs disproportionately associated with reported uveitis |
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA761032 | Siliq (Bausch Health US LLC) | Injection | — |
-
----
+| BLA761032 | Siliq (Bausch Health US LLC) | Injection | Not available (status: cancelled) |
 
 ## Safety Considerations
 
-- **Key Warnings (from the mechanistic assessment):**
-  - Immunosuppression in *Strongyloides* infection carries a hyperinfection risk.
-  - Brodalumab carries a boxed warning for suicidal ideation and behavior.
-- **Drug Interactions:** No interactions were found in the queried data.
+- **Disease contraindication signals (knowledge graph)**: Crohn disease, inflammatory bowel disease, and Crohn's colitis. These come from drug-disease contraindication links in the TxGNN knowledge graph, not from package insert text.
+- **Drug Interactions**: 68 interactions were identified. Major interactions include:
+  - Adalimumab
+  - Baricitinib
+  - Certolizumab pegol
+  - Bacillus Calmette-Guérin (live, Tice substrain)
 
-Please refer to the package insert for the full warnings and contraindications.
+  Moderate interactions include roflumilast, alefacept, alemtuzumab, anakinra, canakinumab, and several vaccines (tetanus toxoid, anthrax, adenovirus, cholera, *Candida albicans*). Zinc salts have Minor interactions. These mainly reflect additive immunosuppression and concerns about live vaccines.
+- **Paradoxical inflammation**: A case report describes Behçet's disease arising after brodalumab initiation. A pharmacovigilance study has also examined uveitis from systemic drugs.
+- **Infection risk**: Immunosuppression raises concern about *Strongyloides* hyperinfection, which is directly relevant to this predicted indication.
 
----
+Please refer to the package insert for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical, literature, or mechanistic support, and it conflicts with brodalumab's immunosuppressive effect on antimicrobial defense. The evidence level is L5 (model prediction only), and the safety signal argues against pursuing this indication.
+The prediction rests only on a model score. There are no clinical trials or literature, and the mechanism argues against benefit: IL-17 blockade could weaken anti-helminth defence and increase the risk of hyperinfection. The US license is cancelled, and the original indication and mechanism data are missing.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Confirmed label indication text and MOA data
-- Any preclinical or clinical rationale for IL-17RA blockade in strongyloidiasis, which is currently absent
-- If the team wants to pursue this drug, redirect effort to a specific immune-mediated ocular or optic indication rather than this prediction
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- Original approved indication text
+- A clear immunological rationale for IL-17RA blockade in strongyloidiasis, supported by preclinical data
+- A review of the paradoxical inflammatory and ocular safety signals
+- Consideration of other candidates from the prediction list that have a more plausible mechanism, such as immune-mediated ocular inflammation, once narrowed to a specific disease
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

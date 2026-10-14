@@ -29,37 +29,46 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Remdesivir: From COVID-19 to Multiple Endocrine Neoplasia
+# Remdesivir: From Antiviral Therapy to Multiple Endocrine Neoplasia
 
 ## One-Sentence Summary
 
-Remdesivir (marketed as Veklury) is an intravenous antiviral, and the Evidence Pack's trials and literature center on COVID-19. The TxGNN model predicts it may be effective for **multiple endocrine neoplasia**, but this is a graph-based prediction only, with **0 clinical trials** and **0 publications** supporting it. This is a model artifact rather than a credible repurposing lead.
+Remdesivir is a nucleotide analog antiviral, supplied in the US as an intravenous injection (Veklury), and the data compiled for this report do not list a specific approved indication text for it.
+The TxGNN model predicts it may be effective for **multiple endocrine neoplasia**, but there are **0 clinical trials** and **0 publications** supporting this prediction.
+This is a model-only prediction without supporting evidence, so it should be treated with caution.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the licensing data provided; COVID-19 is inferred from the trials and literature in the pack |
+| Original Indication | Not available in the data compiled for this report |
 | Predicted New Indication | Multiple endocrine neoplasia |
 | TxGNN Prediction Score | 99.50% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
+| US Market Status | Cancelled only |
 | Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Remdesivir is a nucleotide analog prodrug that inhibits viral RNA-dependent RNA polymerase (RdRp). Its known use is against RNA viruses such as SARS-CoV-2. It was also studied for Ebola virus persistence in the PREVAIL IV trial.
+Currently, detailed mechanism of action data is not available in the compiled data. From general pharmacology, remdesivir is a nucleotide analog prodrug that inhibits viral RNA-dependent RNA polymerase.
 
-Multiple endocrine neoplasia is a hereditary tumor syndrome (MEN1/RET). It has no viral driver and no RdRp target, so no plausible mechanistic link exists between the two. The high TxGNN score (0.995) most likely reflects knowledge-graph proximity rather than biology, and no trial or publication supports it. The prediction is therefore not considered mechanistically credible.
+Multiple endocrine neoplasia (MEN) is a hereditary tumor syndrome driven by genes such as MEN1 and RET, and has no viral cause. No mechanistic link between remdesivir and MEN could be identified. The high TxGNN score (99.50%) appears to be an artifact of the graph-based prediction rather than a reflection of biological rationale.
 
-Other predictions for this drug are also weak:
-- **HIV infection (rank 2):** 23 trials and 20 publications were matched, but they are COVID-19 or Ebola studies linked through HIV-related keywords or co-administered antiretrovirals. None test remdesivir as an HIV treatment, and HIV depends on reverse transcriptase rather than RdRp. This is indirect evidence only (L4).
-- **SIV infection, feline AIDS, a rare neurodevelopmental disorder and homozygous familial hypercholesterolemia (ranks 3–6):** No supporting evidence and no plausible mechanism.
+For context, the other top predictions are also weakly supported:
+- **HIV infectious disease** (score 99.32%, L4): Remdesivir targets viral RdRp, while HIV depends on reverse transcriptase, so mechanistic overlap is weak. The retrieved trial and literature concern COVID-19, not HIV.
+- **Simian immunodeficiency virus infection** and **feline acquired immunodeficiency syndrome** (both 99.07%, L5): These likely reflect similarity to HIV in the knowledge graph. They are non-human indications with no supporting studies.
+- **A rare neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter** (99.03%, L5) and **homozygous familial hypercholesterolemia** (99.03%, L5): No plausible mechanistic link and no supporting studies.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered for multiple endocrine neoplasia.
+
+For reference, the only trial retrieved among the top predictions was for the second-ranked prediction (HIV infectious disease). It is not direct evidence for that indication either:
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT04385719](https://clinicaltrials.gov/study/NCT04385719) | Phase 2 | Completed | 24 | Pharmacokinetic study in healthy Ugandan volunteers of how tenofovir/lamivudine or atazanavir/ritonavir affect remdesivir blood levels. It did not test remdesivir in HIV patients. |
 
 ## Literature Evidence
 
@@ -69,24 +78,30 @@ Currently no related literature available for multiple endocrine neoplasia.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA214787 | Veklury (Gilead Sciences, Inc.) | Injection, powder, lyophilized, for solution | Not listed in the data provided |
+| NDA214787 | Veklury (Gilead Sciences, Inc.) | Lyophilized powder for injection solution | Not listed in the data compiled for this report; status: cancelled |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: The DDI query returned 100 interactions in total; the first 20 returned are all rated Moderate. Examples include:
+  - Antibiotics: doxycycline, minocycline, tetracycline, clarithromycin, vancomycin, kanamycin, neomycin, levofloxacin
+  - Antifungals: amphotericin B (including the lipid complex)
+  - Other: acarbose, pioglitazone, bupropion, naltrexone, mesalazine, balsalazide, olsalazine, chenodeoxycholic acid, oxandrolone, oxymetholone
+
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical or literature support and no plausible mechanism, since remdesivir targets viral RdRp and multiple endocrine neoplasia is a hereditary tumor syndrome. The high TxGNN score is likely a graph artifact and does not justify further investment.
+The prediction for multiple endocrine neoplasia is supported only by the model score. There are no clinical trials, no literature, and no plausible mechanistic link between a viral RdRp inhibitor and a hereditary tumor syndrome. The US authorization is also listed as cancelled.
 
 **To proceed, the following is needed:**
-- Any direct preclinical or clinical evidence for remdesivir in multiple endocrine neoplasia; none currently exists
-- The FDA package insert warnings and contraindications, which are missing from the pack and block safety screening
-- Detailed mechanism of action data (for example, from DrugBank), to confirm the mechanistic assessment
-- Approved indication text for NDA214787, which is missing from the licensing data
+- Mechanism of action data and a documented biological rationale linking remdesivir to MEN1/RET-driven disease
+- Preclinical evidence (for example, cell or animal models of MEN) to move beyond L5
+- FDA package insert warnings and contraindications (blocking for safety screening)
+- Review of route compatibility, since remdesivir is available only as an injectable
+- Consideration of the other predictions only after dedicated evidence is generated, as none currently has direct supporting studies
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

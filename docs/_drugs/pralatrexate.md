@@ -29,110 +29,104 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Pralatrexate: From Peripheral T-Cell Lymphoma to Pleural Adenomatoid Tumor
+# Pralatrexate: From T-Cell Lymphoma to Pleural Mesothelioma
 
 ## One-Sentence Summary
 
-Pralatrexate is an injectable antifolate chemotherapy, marketed in the US and, per its public labeling, used for relapsed or refractory peripheral T-cell lymphoma. The TxGNN model's top-ranked prediction is **pleural adenomatoid tumor**, but it has **0 clinical trials** and **0 publications** behind it, and the model's own rationale suggests the score reflects graph proximity to mesothelioma rather than a real therapeutic signal. Among the model's other predictions, only **pleural mesothelioma** has meaningful support, with **1 Phase II trial** and **2 other publications**.
+Pralatrexate is an antifolate chemotherapy originally used for peripheral T-cell lymphoma and related non-Hodgkin lymphomas.
+The TxGNN model's top-ranked prediction is *pleural adenomatoid tumor*, which has no supporting evidence. The best-supported prediction is **pleural mesothelioma** (including the epithelioid subtype), backed by **0 registered clinical trials** and **2 publications** (one Phase II trial and one review).
+
+> Note: Because the top-ranked prediction has no supporting evidence, this report focuses on the best-supported prediction, pleural mesothelioma (rank 10, score 99.85%). The epithelioid subtype (rank 4) rests on the same Phase II study.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Peripheral T-cell lymphoma (from public labeling; the license records in the Evidence Pack have blank indication text) |
-| Predicted New Indication | Pleural adenomatoid tumor |
-| TxGNN Prediction Score | 99.91% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 6 license records (NDA022468 and ANDA206183) |
+| Original Indication | Mature T-cell and NK-cell non-Hodgkin lymphoma, including peripheral T-cell lymphoma (not otherwise specified) and primary cutaneous T-cell lymphoma subtypes |
+| Predicted New Indication | Pleural mesothelioma (rank 10, best evidence). The rank 1 prediction, pleural adenomatoid tumor, has no evidence. |
+| TxGNN Prediction Score | 99.85% (pleural mesothelioma); 99.91% (rank 1, pleural adenomatoid tumor) |
+| Evidence Level | L3 (one single-arm Phase II study and one review; details not verified) |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 2 (both cancelled) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Pralatrexate is a folate analog that inhibits dihydrofolate reductase (DHFR) and is preferentially taken up into cells through the reduced folate carrier RFC-1. It is more potent than methotrexate, and its main toxicities are mucositis and myelosuppression.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, pralatrexate is an antifolate that inhibits dihydrofolate reductase (DHFR). It enters cells efficiently through the reduced folate carrier (RFC-1) and is retained through polyglutamylation. Its efficacy in T-cell lymphoma is established.
 
-For the top prediction, the case is weak. Adenomatoid tumors are typically benign mesothelial lesions, so a cytotoxic antifolate is unlikely to offer a favorable risk-benefit balance. The high score most likely comes from the drug's proximity to mesothelioma nodes in the knowledge graph.
+Malignant pleural mesothelioma is known to respond to antifolates, and pemetrexed is a standard therapy. Pralatrexate shares the antifolate mechanism, so it is plausible that it could act similarly. The epithelioid subtype is the most common and the most antifolate-responsive, which makes it the most reasonable subtype target.
 
-The mesothelioma family is a different matter. Mesothelioma is a known antifolate-responsive cancer, since pemetrexed is standard therapy. This makes the mesothelioma-related predictions biologically plausible, and pleural mesothelioma is the strongest of them (see the section on other predictions below).
+The remaining predictions are much weaker:
+- Other mesothelioma subtypes (biphasic, sarcomatoid, lymphohistiocytoid, peritoneal, pericardial, well-differentiated papillary) have no subtype-specific evidence. Sarcomatoid disease is generally more chemoresistant, and well-differentiated papillary disease is indolent and usually managed without cytotoxic therapy.
+- Pleural adenomatoid tumor is a benign lesion usually treated by surgical excision, so there is no clear rationale for a cytotoxic drug.
+- Relapsing-remitting multiple sclerosis has only a loose conceptual link through methotrexate's immunosuppressive use. Pralatrexate's mucositis and myelosuppression risk, together with established disease-modifying therapies, makes the benefit-risk profile unfavorable.
+
+---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for pleural adenomatoid tumor.
+Currently no related clinical trials registered.
+
+---
 
 ## Literature Evidence
 
-Currently no related literature available for pleural adenomatoid tumor.
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [17409804](https://pubmed.ncbi.nlm.nih.gov/17409804/) | 2007 | Phase II trial (single-arm; details unverified) | J Thorac Oncol | Pralatrexate in unresectable malignant pleural mesothelioma. The background notes that mesothelioma responds to antifolates, that pralatrexate's toxicity is mainly stomatitis, and that it showed antitumor activity in mesothelioma cell lines and xenografts. Outcomes were not available in the compiled data. |
+| [21301589](https://pubmed.ncbi.nlm.nih.gov/21301589/) | 2010 | Review | Cancer Manag Res | Review of antifolates targeting folic acid synthesis, giving mechanistic context for DHFR inhibitors in cancer chemotherapy. |
+
+---
 
 ## US Market Information
 
-The Evidence Pack lists 6 license records. Repeated entries are merged below. None of them include indication text.
-
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA206183 | Pralatrexate (Dr. Reddy's Laboratories Inc.) | Injection | Not listed in source data |
-| NDA022468 | Pralatrexate (Fresenius Kabi USA, LLC) | Injection | Not listed in source data |
-| NDA022468 | Folotyn (Acrotech Biopharma Inc) | Injection | Not listed in source data |
+| ANDA206183 (Dr. Reddy's Laboratories; cancelled) | Pralatrexate | Injection | Not available |
+| NDA022468 (Fresenius Kabi USA; cancelled) | Pralatrexate | Injection | Not available |
+
+---
 
 ## Cytotoxicity
 
-The Evidence Pack has no toxicity data. The entries below come from general knowledge of the drug class and should be checked against the package insert.
-
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (antifolate, DHFR inhibitor) |
-| Myelosuppression Risk | Medium to high (thrombocytopenia, neutropenia and anemia are expected) |
-| Emetogenicity Classification | Low |
-| Monitoring Items | CBC with differential, mucositis assessment, liver and renal function |
-| Handling Protection | Yes. Follow cytotoxic drug handling regulations |
+| Cytotoxicity Classification | Conventional cytotoxic (antifolate class) |
+| Myelosuppression Risk | Medium to high. The knowledge graph links the drug to thrombocytopenia, neutropenia, agranulocytosis and anemia. |
+| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
+| Monitoring Items | CBC with differential, renal function, and oral mucosa assessment (stomatitis is the main toxicity noted in the literature) |
+| Handling Protection | Follow cytotoxic drug handling regulations |
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No warnings, contraindications or drug interaction records were retrieved, and the DDI query returned no results. The Evidence Pack's rationale notes significant mucositis and myelosuppression for this drug.
+- **Contraindication-related conditions (from knowledge graph, not label text)**: thrombocytopenia, neutropenia, agranulocytosis, anemia, macrocytic anemia, impaired renal function, and stomatitis.
+- **Drug Interactions**: 100 interactions were identified; the 20 shown in the compiled data include:
+  - **Major**: deferiprone, samarium (153Sm) lexidronam
+  - **Moderate**: NSAIDs (acetylsalicylic acid, ibuprofen, flurbiprofen, diclofenac, ketorolac), chloramphenicol, zidovudine, pyrimethamine, palifermin, glucarpidase, naltrexone, sapropterin, roflumilast, strontium-89 chloride, and a tetanus toxoid vaccine
 
-## Other Predicted Indications
+Label warnings and contraindications were not available in the compiled data. Please refer to the package insert for full safety information.
 
-The top 10 predictions are almost all mesothelioma-related. Only two have any supporting literature.
-
-| Rank | Predicted Indication | Score | Evidence Level | Assessment |
-|------|------|------|------|------|
-| 1 | Pleural adenomatoid tumor | 99.91% | L5 | Benign lesion. Cytotoxic therapy is unlikely to be justified |
-| 2 | Relapsing-remitting multiple sclerosis | 99.91% | L5 | Only a generic antifolate immunomodulation link. No MS data, and toxicity is significant |
-| 3 | Pleural biphasic mesothelioma | 99.90% | L5 | No subtype data. Sarcomatoid component tends to respond poorly |
-| 4 | Pleural epithelioid mesothelioma | 99.89% | L3 | Most plausible subtype, backed by 1 Phase II trial. Subtype-specific results not confirmed |
-| 5 | Lymphohistiocytoid mesothelioma | 99.89% | L5 | Rare variant with no specific evidence |
-| 6 | Pericardium cancer | 99.89% | L5 | Extrapolation from pleural data is speculative |
-| 7 | Pleural sarcomatoid mesothelioma | 99.89% | L5 | Typically chemoresistant |
-| 8 | Malignant peritoneal mesothelioma | 99.87% | L5 | Only weak indirect support |
-| 9 | Well differentiated papillary mesothelioma | 99.85% | L5 | Usually indolent, so systemic chemotherapy is rarely warranted |
-| 10 | Pleural mesothelioma | 99.85% | L2 (loosely) | Best-supported prediction. Recommendation: Research Question |
-
-### Best-Supported Candidate: Pleural Mesothelioma
-
-There are no registered clinical trials in the dataset. Literature:
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [17409804](https://pubmed.ncbi.nlm.nih.gov/17409804/) | 2007 | Phase II (single-arm) | J Thorac Oncol | Trial of pralatrexate in unresectable malignant pleural mesothelioma. The abstract describes stomatitis as the main toxicity. Efficacy outcomes were not in the provided data |
-| [11595715](https://pubmed.ncbi.nlm.nih.gov/11595715/) | 2001 | Preclinical | Clin Cancer Res | Pralatrexate was about 25-30-fold more cytotoxic than methotrexate in mesothelioma cell lines. Combination with platinums was also evaluated |
-| [21301589](https://pubmed.ncbi.nlm.nih.gov/21301589/) | 2010 | Review | Cancer Manag Res | Overview of antifolates that target folic acid synthesis in cancer chemotherapy |
-
-The L2 label from the Evidence Pack fits only loosely. The Phase II study was single-arm and not randomized, so it does not meet the strict L2 definition of a randomized trial.
+---
 
 ## Conclusion and Next Steps
 
-**Decision: Hold** (for pleural adenomatoid tumor; pleural mesothelioma is flagged as a Research Question)
+**Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction has no clinical or literature support, and it involves a benign lesion for which a toxic cytotoxic drug is a poor fit. The mesothelioma family is biologically plausible, and pleural mesothelioma is the only prediction with a Phase II study behind it.
+The only direct evidence is a 2007 single-arm Phase II study in pleural mesothelioma, which was assessed from limited information only, and there are no registered trials. The top-ranked prediction (pleural adenomatoid tumor) and most other predictions have no evidence. Pralatrexate has a significant toxicity profile, and all of its US licenses are cancelled, which limits practical development. Pleural mesothelioma, particularly the epithelioid subtype, is the only prediction worth a follow-up research question.
 
 **To proceed, the following is needed:**
-- The full package insert with warnings and contraindications. This is a blocking gap for safety screening.
-- Detailed mechanism of action data from DrugBank.
-- The efficacy and safety outcomes of the 2007 Phase II study (PMID 17409804), including any epithelioid-specific results.
-- A search of clinical trial registries for pralatrexate in mesothelioma, since none were found in the dataset.
-- A decision to shift the focus from the top-ranked prediction to pleural mesothelioma.
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
+- Full text of the Phase II study (PMID 17409804): response rate, survival, histology breakdown, and toxicity
+- Current mesothelioma standard-of-care comparison (e.g., pemetrexed-based regimens) to define a possible niche
+- Mechanism of action data and FDA package insert warnings and contraindications
+- Clarification of the regulatory and commercial status of the cancelled US licenses
+- Any later trials or preclinical data for pralatrexate in mesothelioma
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

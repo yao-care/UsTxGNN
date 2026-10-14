@@ -29,37 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Istradefylline: From Parkinson's Disease (Adjunctive Therapy) to Rasmussen Subacute Encephalitis
+# Istradefylline: From Parkinson Disease to Rasmussen Subacute Encephalitis
 
 ## One-Sentence Summary
 
-Istradefylline (brand name NOURIANZ) is marketed in the US as an oral tablet. From general pharmacology, its approved use is as add-on therapy for Parkinson's disease, though the supplied data does not record an indication.
-The TxGNN model predicts it may be effective for **Rasmussen subacute encephalitis**, but **0 clinical trials** and **0 publications** currently support this direction, so the prediction rests on the model score alone.
+Istradefylline was originally used to treat Parkinson disease and related parkinsonian syndromes.
+The TxGNN model predicts it may be effective for **Rasmussen subacute encephalitis**,
+but there are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Parkinson's disease, adjunctive therapy (from general knowledge; the license records list no indication text) |
+| Original Indication | Parkinson disease (and related parkinsonian syndromes) |
 | Predicted New Indication | Rasmussen subacute encephalitis |
 | TxGNN Prediction Score | 99.02% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 2 (both records carry the same number, NDA022075) |
+| US Market Status | Cancelled only |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not in the supplied record. From general pharmacology (not from the supplied data), istradefylline is a selective adenosine A2A receptor antagonist. It is used in Parkinson's disease to improve motor control, and the supplied data does not confirm any original indication.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, istradefylline is a selective adenosine A2A receptor antagonist. A2A receptors are found on neurons, astrocytes, microglia and lymphocytes, and A2A signaling influences neuroinflammation, glutamate release and T-cell responses.
 
-Rasmussen encephalitis is a rare, chronic, usually one-sided neuroinflammatory disease. It involves T-cell-mediated damage, activation of microglia and astrocytes, and drug-resistant focal seizures. A2A receptors are found on microglia, astrocytes and lymphocytes, so a role in neuroinflammation or seizure modulation is biologically conceivable.
+Rasmussen encephalitis is a unilateral, T-cell-mediated (CD8+) chronic inflammatory brain disease. It features astrocyte and microglial activation and intractable focal epilepsy. A plausible but purely theoretical link is that blocking A2A receptors could alter neuroinflammatory or excitotoxic pathways.
 
-This link is only a hypothesis:
-- Preclinical studies of A2A modulation in epilepsy give mixed results.
-- There is no evidence of istradefylline being used in autoimmune or epileptic encephalitis.
-- The approved Parkinson's use does not overlap with this indication.
-
-A high model score alone does not establish efficacy.
+This link is weak. A2A antagonism has not been shown to be anti-epileptic or immunosuppressive in this setting. A2A activation is anti-inflammatory in some contexts, so blocking it could even worsen immune-mediated injury. The high TxGNN score is a model-based prediction only and has no clinical or literature support in the available data.
 
 ## Clinical Trial Evidence
 
@@ -73,29 +69,33 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA022075 | NOURIANZ (Kyowa Kirin, Inc.) | Tablet, film coated (oral) | Not listed in the source data |
-
-The two license records are identical, so they appear once here.
+| NDA022075 (cancelled) | NOURIANZ (Kyowa Kirin, Inc.) | Film-coated tablet | Not specified in the available data |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: 76 interactions were identified in total. The first 20 listed in the data include:
+  - **Major**: Clarithromycin, Cobicistat, Lumacaftor
+  - **Moderate**: Loperamide, Aprepitant, Dexamethasone, Cimetidine, Miconazole, Naldemedine, Rifaximin, Apixaban, Betrixaban, Lusutrombopag, Ticagrelor, Artesunate, Fexofenadine
+  - **Minor**: Fidaxomicin, Naloxegol, Prucalopride, Indacaterol
+
+  Many of these are likely linked to CYP3A4 or transporter effects, but the mechanism is not specified in the data, so the interaction details should be verified.
+
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The only support is a TxGNN score of 99.02%. There are no clinical trials, no publications, and no recorded mechanism data (Evidence Level L5). The mechanistic link is plausible but unproven, and the approved use does not overlap with this indication.
+The prediction has the lowest evidence level (L5). It has no registered trials or publications, and the mechanistic link is theoretical and possibly contradictory. The only US NDA is cancelled, and package insert safety data is missing.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, which are needed for safety screening
-- Mechanism of action data from DrugBank, to test the A2A neuroinflammation hypothesis
-- Preclinical evidence of A2A antagonism in models of Rasmussen encephalitis or T-cell-mediated neuroinflammation
-- A literature and trial search, including case reports and rare-disease registries, to look for any prior signal
-- An assessment of the drug's brain penetration and dosing route for this rare pediatric-onset disease
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Preclinical evidence (for example, A2A modulation in neuroinflammation or epilepsy models relevant to Rasmussen encephalitis)
+- A literature and trial search for A2A antagonists in autoimmune or inflammatory encephalitis
+- FDA package insert warnings and contraindications
+- Confirmed mechanism of action data from DrugBank
+- Clarification of the NDA cancellation status and of the route and formulation needs for this patient population (an oral tablet is the only known form)
+- A review of the major drug interactions, particularly with strong CYP3A4 inhibitors, in patients likely to be on antiepileptic or immunotherapy regimens
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

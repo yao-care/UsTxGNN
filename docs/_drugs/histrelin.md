@@ -29,32 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Histrelin: From a GnRH Agonist Implant (Original Indication Not Recorded) to Ambras Type Hypertrichosis Universalis Congenita
+# Histrelin: From Precocious Puberty to Ambras Type Hypertrichosis Universalis Congenita
 
 ## One-Sentence Summary
 
-Histrelin is a GnRH agonist marketed in the US as the SUPPRELIN implant. The source data does not record its original indication.
-The TxGNN model predicts it may be effective for **Ambras type hypertrichosis universalis congenita**, but there are **0 clinical trials** and **0 publications** supporting this direction. The prediction appears to be a knowledge-graph artifact rather than a biological signal.
+Histrelin is a gonadotropin-releasing hormone (GnRH) agonist, originally used to treat precocious puberty.
+The TxGNN model predicts it may be effective for **Ambras type hypertrichosis universalis congenita**, but **no clinical trials and no publications** currently support this prediction.
+It is most likely a knowledge-graph artifact rather than a genuine repurposing opportunity.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the source data |
+| Original Indication | Precocious puberty (also aromatase excess syndrome and familial male-limited precocious puberty, based on knowledge-graph indication links) |
 | Predicted New Indication | Ambras type hypertrichosis universalis congenita |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
+| US Market Status | Cancelled only |
 | Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the record. Histrelin is a GnRH agonist. Sustained receptor stimulation desensitizes the pituitary and suppresses LH/FSH and downstream sex steroids.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, histrelin is a GnRH agonist. With continuous exposure it desensitizes pituitary GnRH receptors and suppresses LH and FSH, which lowers sex steroids. This is why it works in precocious puberty.
 
-That mechanism does not fit this indication well. Ambras syndrome is a congenital hair disorder linked to chromosome 8q22 rearrangements affecting TRPS1 regulation. It is not driven by the pituitary-gonadal axis, so GnRH suppression has no clear target.
+That mechanism does not connect credibly to Ambras syndrome. Ambras syndrome is a genetic hypertrichosis disorder associated with chromosome 8q rearrangements that affect regulation of the TRPS1 gene. It is not a hormone-driven condition, so suppressing the pituitary-gonadal axis would not be expected to change it. The very high TxGNN score most likely reflects proximity in the knowledge graph rather than real biology, and there is no clinical or published evidence to back it.
 
-The very high TxGNN score (0.9999) most likely reflects graph-neighbor effects, with hair-related diseases clustering near the drug in the knowledge graph. It does not reflect a real therapeutic link.
+A related note on the other top-ranked predictions: the only ones with a plausible mechanism are central precocious puberty entities, which are essentially the drug's existing approved use. Of these, idiopathic central precocious puberty has supporting literature, so it is a re-labeling of known use rather than new repurposing. The remaining top-ten predictions (for example other hypertrichosis or hair shaft disorders, Dandy-Walker syndromes, pelvic organ prolapse and female genital tuberculosis) have no credible mechanistic support.
 
 ## Clinical Trial Evidence
 
@@ -68,26 +69,31 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA022058 | SUPPRELIN | Implant | Not provided in the source data |
+| NDA022058 | SUPPRELIN (Endo USA, Inc.) | Implant | Not specified; status: cancelled |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Package-insert warnings and contraindications were not available in the data compiled for this report. Please refer to the package insert for that information.
+
+- **Knowledge-graph contraindication signals** (not label text): hypertension and hypertensive disorders, hyperglycemia, diabetes mellitus, diabetic ketoacidosis, obesity and monogenic obesity.
+- **Drug Interactions**: 100 interactions were recorded, and the 20 shown here are mostly moderate.
+  - **Major**: dolasetron.
+  - **Moderate, antidiabetic agents**: acarbose, metformin, pioglitazone, glimepiride, chlorpropamide, alogliptin, linagliptin, canagliflozin, dapagliflozin, empagliflozin, albiglutide and dulaglutide.
+  - **Moderate, other agents**: famotidine, loperamide, bisacodyl, picosulfuric acid, polyethylene glycol with electrolytes, clarithromycin and palonosetron.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction has no trials, no literature, and no plausible mechanism. It is a model-only signal (L5) and should not be pursued.
-
-Among the other predictions for this drug, only **idiopathic central precocious puberty** (rank 10, L3) has histrelin-specific literature. It consists of a pharmacology review, a single-surgeon implant series, and a reproductive axis follow-up study, with no RCTs. This is a well-established GnRH agonist use, so it may already be a labeled indication rather than true repurposing. **Central precocious puberty 1** (rank 6, L4) also has a strong mechanistic fit but no direct evidence of its own.
+The prediction for Ambras type hypertrichosis universalis congenita has no clinical trials, no literature and no credible mechanistic link (Evidence Level L5). The only US product is cancelled, so the high TxGNN score alone does not justify further investment.
 
 **To proceed, the following is needed:**
-- The approved indication text for NDA022058, to establish the original indication and check whether the precocious puberty entries are already on-label
-- Package insert warnings and contraindications, which are currently a blocking gap for safety screening
-- Detailed mechanism of action data from DrugBank
-- A recommendation to re-center this report on the idiopathic central precocious puberty prediction, since the rank 1 hypertrichosis prediction has no supporting evidence
+- Any credible biological rationale linking GnRH agonism to TRPS1-related or other genetic hypertrichosis, plus supporting preclinical data
+- Mechanism of action data for histrelin from DrugBank
+- FDA package insert warnings and contraindications, to allow safety screening
+- Confirmation of current regulatory and supply status, since the only NDA is cancelled
+- If the goal is a real use of the drug, a shift in focus to central precocious puberty, with monitoring of growth velocity, bone age and LH suppression, and follow-up for implant removal and recovery of the reproductive axis
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

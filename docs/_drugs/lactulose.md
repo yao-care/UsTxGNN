@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Lactulose
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 829
-evidence_level: L5
+evidence_level: L3
 indication_count: 8
 ---
 
 # Lactulose
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **8** 
+Evidence Level: **L3** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,29 +29,32 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-# Lactulose: From Hepatic Encephalopathy and Constipation to Acute Urate Nephropathy
+# Lactulose: From Hepatic Encephalopathy to Obstructive Jaundice
 
 ## One-Sentence Summary
 
-Lactulose is a non-absorbable disaccharide, used clinically for hepatic encephalopathy and as a laxative. The TxGNN model predicts it may be effective for **acute urate nephropathy**, but this is a **model prediction only**, with **0 clinical trials** and **0 publications** supporting it.
+Lactulose is a non-absorbed disaccharide, originally used to treat hepatic encephalopathy, hepatic coma and constipation.
+The TxGNN model predicts it may be useful for **obstructive jaundice** (the top-ranked prediction, acute urate nephropathy, has no supporting evidence, so the best-supported candidate is reported here), with **0 registered clinical trials** and **20 publications** currently supporting this direction, mostly older and small studies.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hepatic encephalopathy and constipation (from the literature; the license data lists no indication text) |
-| Predicted New Indication | Acute urate nephropathy |
-| TxGNN Prediction Score | 99.89% |
-| Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 licenses (the five listed are ANDAs) |
-| Recommended Decision | Hold |
+| Original Indication | Hepatic encephalopathy, hepatic coma, constipation (the US label text was not available) |
+| Predicted New Indication | Obstructive jaundice (best-supported; the TxGNN top-ranked prediction is acute urate nephropathy) |
+| TxGNN Prediction Score | 99.53% (obstructive jaundice); 99.89% (acute urate nephropathy, no evidence) |
+| Evidence Level | L3 |
+| US Market Status | Cancelled only (all 8 ANDAs are listed as cancelled) |
+| Number of NDAs | 8 (all are ANDAs, all cancelled) |
+| Recommended Decision | Hold (the indication is a research question, not ready for development) |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Lactulose is a non-absorbable disaccharide whose efficacy in hepatic encephalopathy and constipation is established, but nothing in the supplied data links it to urate handling or to uric acid-induced kidney injury.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, lactulose is a non-absorbed disaccharide that acts in the colon. It works as an osmotic laxative and traps ammonia by acidifying the gut, which is the basis for its use in hepatic encephalopathy.
 
-The high score (99.89%) comes only from the knowledge-graph model. No trial or paper supports it, and no plausible mechanism can be drawn from the supplied data. The prediction should be treated as a hypothesis, not as a lead with mechanistic backing.
+Obstructive jaundice reduces the amount of bile salts reaching the gut. This impairs the intestinal barrier and promotes bacterial translocation and endotoxaemia. Endotoxaemia contributes to postoperative renal dysfunction and liver injury. Oral lactulose may bind endotoxin, lower luminal pH, alter gut flora and help restore barrier function. This gut-focused mechanism is consistent with how lactulose is already used in liver disease.
+
+Note that the TxGNN top-ranked prediction, acute urate nephropathy (score 99.89%), has no trials or literature. Lactulose has no known effect on uric acid handling, so the score is a model output only. The same applies to nephrolithiasis and exercise-induced malignant hyperthermia, which have no data or plausible mechanism.
 
 ## Clinical Trial Evidence
 
@@ -59,40 +62,55 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available.
+The most relevant publications for obstructive jaundice are shown below. Study designs are taken from titles and abstracts and have not been fully verified.
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [2032107](https://pubmed.ncbi.nlm.nih.gov/2032107/) | 1991 | Multicentre prospective randomized study | Br J Surg | 102 patients randomized to preoperative lactulose, sodium deoxycholate or no treatment, to prevent postoperative renal dysfunction |
+| [3768644](https://pubmed.ncbi.nlm.nih.gov/3768644/) | 1986 | Experimental and clinical study | Br J Surg | In 24 surgical patients, preoperative lactulose reduced endotoxaemia versus controls |
+| [12957136](https://pubmed.ncbi.nlm.nih.gov/12957136/) | 2003 | Mechanistic study (rabbit) | J Surg Res | Lactulose and endotoxaemia/bacterial translocation after bile duct ligation |
+| [8944448](https://pubmed.ncbi.nlm.nih.gov/8944448/) | 1996 | Clinical and experimental study | Br J Surg | Intestinal barrier dysfunction in obstructive jaundice, reversed by internal biliary drainage |
+| [23297639](https://pubmed.ncbi.nlm.nih.gov/23297639/) | 2012 | Clinical study | Zh Mikrobiol Epidemiol Immunobiol | Bile duct decompression plus lactulose and effects on gut microecology |
+| [9145459](https://pubmed.ncbi.nlm.nih.gov/9145459/) | 1997 | Review | Scand J Gastroenterol Suppl | A renoprotective effect of lactulose has not been conclusively shown in clinical studies |
+| [15782993](https://pubmed.ncbi.nlm.nih.gov/15782993/) | 2005 | Review | Hepatogastroenterology | Argues for hydration and lactulose before surgery to prevent renal dysfunction |
+| [10576346](https://pubmed.ncbi.nlm.nih.gov/10576346/) | 1999 | Animal study (rat) | Hepatogastroenterology | Effects of lactulose, deoxycholate and glutamine on bacterial translocation |
+| [12598962](https://pubmed.ncbi.nlm.nih.gov/12598962/) | 2002 | Animal study (rat) | Pediatr Surg Int | Melatonin and lactulose effects on liver and kidneys |
+| [2614579](https://pubmed.ncbi.nlm.nih.gov/2614579/) | 1989 | Animal study (rat) | J Pathol | Lactulose did not prevent bile infarction or transaminase elevation (negative finding) |
+
+The evidence is mixed: some studies show reduced endotoxaemia, but one animal study and one review report no clear protective effect. Effect sizes could not be confirmed from the available abstracts.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|------|
-| ANDA074712 | KRISTALOSE | Powder, for solution | Cumberland Pharmaceuticals Inc. |
-| ANDA209517 | Lactulose | Solution | Chartwell RX, LLC |
-| ANDA076645 | Lactulose Solution | Solution | Kesin Pharma Corporation |
-| ANDA074712 | Lactulose | Solution | Foxland Pharmaceuticals, Inc. |
-| ANDA090502 | Enulose | Solution | Actavis Pharma, Inc. |
+All eight US authorizations are single-ingredient ANDAs and all are listed as cancelled. Approved indication text was not available.
 
-These are the 5 main products shown out of 20 licenses. All are oral-type forms (powder for solution and solution).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA074712 | KRISTALOSE | Powder, for solution | Not available |
+| ANDA209517 | Lactulose | Solution | Not available |
+| ANDA076645 | Lactulose Solution | Solution | Not available |
+| ANDA090502 | Enulose | Solution | Not available |
+| ANDA074623 | Lactulose | Solution | Not available |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Disease-related cautions (from the knowledge graph, not label text)**: Diabetes mellitus, diabetic ketoacidosis, appendicitis, galactosemia, glycogen storage disease, G6PD deficiency, cystinuria and glucose-galactose malabsorption are listed as contraindication-related conditions.
+- **Drug Interactions**: 100 interactions were identified. The sample reviewed was mostly Moderate, with one Minor (sodium citrate). Moderate examples include abiraterone, tramadol, acetazolamide, hydrocortisone, salbutamol, hydrochlorothiazide, amiloride, amiodarone, arsenic trioxide, propofol and triamcinolone.
+
+Please refer to the package insert for label warnings and contraindications, which were not available for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on the model score alone, with no trials, no literature, and no supported mechanism. Evidence level is L5 and the candidate stays at the screening stage (S0).
+The top TxGNN prediction (acute urate nephropathy) has no evidence and no plausible mechanism. The best-supported prediction, obstructive jaundice, rests on small, dated studies with mixed results, no registered trials, and a perioperative supportive rather than disease-treating role. All US licenses are cancelled, and label safety data are missing. This is a research question rather than a development candidate.
 
 **To proceed, the following is needed:**
-- A plausible mechanistic rationale linking lactulose to urate-related kidney injury
-- Preclinical or observational data for acute urate nephropathy
-- Detailed mechanism of action data (MOA)
-- Package insert warnings and contraindications, which are currently unavailable
-
-**Note on other predictions for this drug:** Obstructive jaundice (rank 3, score 99.53%) has more support. It has one completed Phase 4 trial (NCT01090193) that is a kidney histopathology study with no confirmed lactulose arm, plus about 20 publications, including a randomized study of preoperative lactulose for postoperative renal dysfunction (PMID 2032107). This is evidence level L3, framed as a research question. It is a more promising direction to follow up than the top-ranked prediction.
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- Full-text review of the 1991 multicentre study and the 1986 clinical study to confirm design and effect sizes
+- A modern, controlled trial of perioperative lactulose in obstructive jaundice with renal and infectious complication endpoints
+- Clarification of why all US licenses are cancelled, and route compatibility assessment
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

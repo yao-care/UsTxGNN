@@ -29,97 +29,82 @@ Evidence Level: **L4** | Predicted Indications: **1**
 
 </div>
 
-# Tiagabine: From Focal Epilepsy to Visual Epilepsy
+# Tiagabine: From Partial Epilepsy to Visual Epilepsy
 
 ## One-Sentence Summary
 
-Tiagabine is an oral antiseizure drug that, per the literature, is used as add-on therapy for focal (partial) seizures. The TxGNN model predicts it may be useful for **visual epilepsy**, with a very high score. Support for this specific indication is weak: **1 clinical trial** (general antiepileptic context only) and **17 publications**, none of which tests tiagabine in visual or occipital epilepsy.
-
----
+Tiagabine is an anticonvulsant originally used to treat partial epilepsy.
+The TxGNN model predicts it may be effective for **visual epilepsy**, but there are **no registered clinical trials** and the **17 publications** compiled are mostly general reviews of tiagabine or antiseizure drugs, not studies of visual epilepsy specifically.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Focal (partial) seizures, add-on therapy (from the literature; the license records contain no indication text) |
+| Original Indication | Partial epilepsy |
 | Predicted New Indication | Visual epilepsy |
 | TxGNN Prediction Score | 99.25% |
 | Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 10 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 3 (all cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-The mechanism of action field in the record is empty. The literature fills the gap: tiagabine selectively blocks the GABA transporter GAT-1, so GABA uptake into neurons and glia falls and extracellular GABA rises (PMID 10530690, 10030435). GABA is the brain's main inhibitory neurotransmitter, and impaired GABAergic inhibition is a recognised route to seizures (PMID 11520315, 32120063).
+Detailed mechanism of action data is not available in the data compiled for this report. From general pharmacological knowledge, tiagabine is a selective GABA reuptake inhibitor (GAT-1). It raises synaptic GABA levels and is established for partial seizures. The reviews on its mechanism (Schachter 1999; Treiman 2001 on GABAergic mechanisms in epilepsy) are consistent with this.
 
-Visual epilepsy is a focal epilepsy with visual-onset seizures, such as occipital-origin seizures. Tiagabine is already used for focal seizures, so a benefit here is mechanistically plausible.
+Visual (photosensitive or occipital) epilepsy is a focal epilepsy type, so it is closely related to the original indication of partial epilepsy. Boosting GABA inhibition could plausibly help in it as well.
 
-The 99.25% score most likely reflects tiagabine's existing link to epilepsy in the knowledge graph. It is not evidence of a distinct effect in visual epilepsy. There is also a safety concern specific to this indication. Tiagabine has been discussed alongside vigabatrin in relation to visual field effects (PMID 12588906), which would matter for patients whose condition already involves the visual system.
-
----
+However, the very high TxGNN score most likely reflects how close the two diseases are in the knowledge graph, not independent evidence for visual epilepsy. The visual-field literature (vigabatrin, tiagabine and visual fields; antiepileptic drugs and visual function) concerns adverse effects on vision, not efficacy. It is a possible safety consideration, not supporting evidence. One review on drug-induced status epilepticus also notes that GABAergic antiseizure drugs, tiagabine among them, can worsen seizures in some epilepsy types.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT00855738](https://clinicaltrials.gov/study/NCT00855738) | Phase 4 | Completed | 111 | Liceo study: observational study of newer antiepileptic drugs (gabapentin, lamotrigine, levetiracetam, oxcarbazepine, pregabalin, tiagabine, topiramate) as first-choice combination therapy in focal epilepsy. General context only; no tiagabine-specific or visual-epilepsy results are reported |
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [31608990](https://pubmed.ncbi.nlm.nih.gov/31608990/) | 2019 | Systematic review (Cochrane) | Cochrane Database Syst Rev | Tiagabine as add-on therapy for drug-resistant focal epilepsy. The retrieved abstract gives background only |
-| [22592677](https://pubmed.ncbi.nlm.nih.gov/22592677/) | 2012 | Systematic review (Cochrane) | Cochrane Database Syst Rev | Earlier version of the add-on review for drug-resistant partial epilepsy |
-| [29898971](https://pubmed.ncbi.nlm.nih.gov/29898971/) | 2018 | Guideline | Neurology | AAN/AES update on newer antiepileptic drugs for new-onset focal or generalized epilepsy |
-| [12588906](https://pubmed.ncbi.nlm.nih.gov/12588906/) | 2003 | Review/Commentary | J Neurol Neurosurg Psychiatry | Visual field safety of vigabatrin and tiagabine (no abstract available) |
-| [17560495](https://pubmed.ncbi.nlm.nih.gov/17560495/) | 2007 | Review | Pediatr Neurol | Antiepileptic drugs and visual disturbances, especially visual field and colour vision deficits |
-| [10530690](https://pubmed.ncbi.nlm.nih.gov/10530690/) | 1999 | Review (drug monograph) | Epilepsia | GAT-1 mechanism, predictable pharmacokinetics, few interactions, effective as add-on for partial seizures |
-| [32120063](https://pubmed.ncbi.nlm.nih.gov/32120063/) | 2020 | Review (mechanisms) | Neuropharmacology | Mechanisms of action of currently used antiseizure drugs |
-| [11520315](https://pubmed.ncbi.nlm.nih.gov/11520315/) | 2001 | Review (mechanisms) | Epilepsia | GABAergic inhibition and its role in epilepsy |
-| [26210064](https://pubmed.ncbi.nlm.nih.gov/26210064/) | 2015 | Review | Epilepsy Behav | Drug-induced status epilepticus. Sodium-channel and GABAergic antiseizure drugs can worsen seizures in some epilepsies, and tiagabine appears to be discussed (the abstract is truncated) |
-| [9097364](https://pubmed.ncbi.nlm.nih.gov/9097364/) | 1997 | Review (drug monograph) | Semin Pediatr Neurol | Pharmacokinetics, efficacy and safety of tiagabine; effective for partial seizures in adults and adolescents |
-
----
+| [29898971](https://pubmed.ncbi.nlm.nih.gov/29898971/) | 2018 | Guideline | Neurology | AAN/AES practice guideline update on newer antiepileptic drugs for new-onset epilepsy |
+| [32120063](https://pubmed.ncbi.nlm.nih.gov/32120063/) | 2020 | Review | Neuropharmacology | Mechanisms of action of currently used antiseizure drugs |
+| [10530690](https://pubmed.ncbi.nlm.nih.gov/10530690/) | 1999 | Review | Epilepsia | Tiagabine inhibits GABA reuptake; effective as add-on therapy for partial seizures; no clinically relevant effect on hepatic metabolism or other AED levels |
+| [9097364](https://pubmed.ncbi.nlm.nih.gov/9097364/) | 1997 | Review | Seminars in Pediatric Neurology | Effective against partial seizures in adults and adolescents; preliminary pediatric data encouraging |
+| [15094857](https://pubmed.ncbi.nlm.nih.gov/15094857/) | 1998 | Review | Drugs of Today | Unique GABA uptake mechanism; efficacious in animal seizure models; no evidence of teratogenicity, carcinogenicity or mutagenicity in animals |
+| [12588906](https://pubmed.ncbi.nlm.nih.gov/12588906/) | 2003 | Review | J Neurol Neurosurg Psychiatry | Vigabatrin, tiagabine and visual fields (adverse-effect topic; no abstract available) |
+| [17560495](https://pubmed.ncbi.nlm.nih.gov/17560495/) | 2007 | Review | Pediatric Neurology | Antiepileptic drugs and visual disturbances, particularly visual field and colour vision deficits |
+| [11520315](https://pubmed.ncbi.nlm.nih.gov/11520315/) | 2001 | Review | Epilepsia | GABAergic mechanisms in epilepsy |
+| [26210064](https://pubmed.ncbi.nlm.nih.gov/26210064/) | 2015 | Review | Epilepsy & Behavior | Drug-induced status epilepticus; GABAergic drugs including tiagabine may exacerbate seizures in some epilepsies |
+| [10915031](https://pubmed.ncbi.nlm.nih.gov/10915031/) | 2000 | Review | Drug Safety | Adverse reactions to newer anticonvulsants |
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA020646 | Tiagabine Hydrochloride (Teva Pharmaceuticals USA) | Film-coated tablet | — |
-| ANDA214816 (4 entries) | Tiagabine Hydrochloride (Novadoz Pharmaceuticals) | Tablet | — |
-
-The indication text is not populated in these license records.
-
----
+| NDA020646 (cancelled) | Tiagabine Hydrochloride (Teva) | Film-coated tablet | Not specified |
+| ANDA214816 (cancelled) | Tiagabine Hydrochloride (Novadoz) | Tablet | Not specified |
+| ANDA077555 (cancelled) | Tiagabine Hydrochloride (Sun Pharmaceutical) | Film-coated tablet | Not specified |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindications flagged in the knowledge graph** (not label text): anxiety disorder, neurotic disorder, dysthymic disorder, liver disease, gallbladder disease.
+- **Drug Interactions**: 97 interactions were identified. Those rated Moderate include aprepitant, morphine (including liposomal), dronabinol, nabilone, metoclopramide and opium. Others are of unknown severity, for example pantoprazole, omeprazole, metformin, simvastatin and ondansetron.
+- **Visual effects**: the literature on tiagabine and visual fields suggests visual function should be considered in any visual-epilepsy study.
+- **Seizure exacerbation**: GABAergic antiseizure drugs, including tiagabine, can worsen seizures in some epilepsy types.
 
-Two signals from the retrieved literature are relevant to this indication:
-- Visual field effects have been discussed for tiagabine alongside vigabatrin (PMID 12588906, 17560495).
-- GABAergic antiseizure drugs can aggravate seizures in some epilepsy types (PMID 26210064).
-
----
+Please refer to the package insert for full safety information, as label warnings and contraindications were not available.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a general link between tiagabine and epilepsy, plus a plausible GABAergic mechanism. No retrieved study tests tiagabine in visual or occipital epilepsy, and the only trial is general-context observational work (relevance grade C). Package insert warnings and contraindications are still missing, which blocks safety screening. The visual field concern adds to the need for caution.
+The prediction rests on a model score and general mechanistic plausibility. There are no clinical trials and no literature showing efficacy in visual epilepsy. In addition, all US licenses are cancelled and label safety data is missing.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, obtained and parsed
-- Confirmed mechanism of action data from DrugBank
-- Searches for tiagabine studies specific to visual or occipital-onset epilepsy
-- A visual field monitoring plan and a review of seizure-aggravation risk in this population
-- Confirmation of the approved indication from the label, since the license records are empty
+- FDA package insert warnings and contraindications
+- Mechanism of action data confirmed from DrugBank
+- Disease-specific evidence for visual (photosensitive or occipital) epilepsy, such as case series or preclinical models
+- Assessment of visual-field safety and seizure-exacerbation risk
+- Review of the cancelled US market status, including the practical availability of the drug
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

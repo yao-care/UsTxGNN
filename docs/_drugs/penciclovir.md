@@ -33,81 +33,66 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 ## One-Sentence Summary
 
-Penciclovir is a topical antiviral (cream) that is marketed in the US. The license records do not state the approved indication, but the drug is known for treating recurrent herpes labialis (cold sores).
-The TxGNN model predicts it may be effective for **fascioliasis** (a liver fluke infection), but there are currently **0 clinical trials** and **0 publications** supporting this direction.
-This is a model-only prediction with no biological or clinical backing.
-
----
+Penciclovir is a topical antiviral nucleoside analog, originally used to treat herpes labialis (cold sores).
+The TxGNN model predicts it may be effective for **fascioliasis**, but this rests on a model score alone, with **0 clinical trials** and **0 publications** supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the license records (penciclovir cream is generally used for recurrent herpes labialis) |
+| Original Indication | Herpes labialis |
 | Predicted New Indication | Fascioliasis |
 | TxGNN Prediction Score | 99.06% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 6 (records list 5 entries: NDA020629 appears twice, plus 3 ANDAs) |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 5 (1 NDA and 4 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the Evidence Pack. From general pharmacology, penciclovir is a guanosine nucleoside analogue antiviral. Viral thymidine kinase (HSV/VZV) phosphorylates it. Its triphosphate form then inhibits viral DNA polymerase.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, penciclovir is a guanosine nucleoside analog. After phosphorylation by viral thymidine kinase, it inhibits viral DNA polymerase in herpesviruses. This explains its effect in herpes labialis.
 
-**The mechanistic link to fascioliasis is not supported.** Fascioliasis is caused by the trematodes *Fasciola hepatica* or *F. gigantica*. These parasites have no viral thymidine kinase or comparable activation pathway. The standard treatment, triclabendazole, works through a different mechanism.
+The predicted link to fascioliasis is hard to justify mechanistically. Fascioliasis is caused by the trematode parasites *Fasciola hepatica* and *Fasciola gigantica*. These parasites have no known viral-type thymidine kinase activation pathway, so the antiviral mechanism of penciclovir has no clear counterpart. The high score (0.991) most likely reflects proximity in the knowledge-graph network rather than true biological relevance.
 
-The high score (99.06%) is probably driven by similarity in the knowledge-graph neighborhood, not by biological or clinical evidence. The prediction cannot be cross-checked against the drug's known pharmacology, because the original indications and mechanism data are missing from the input.
-
-Route compatibility is also unresolved. All US products are topical creams, while fascioliasis is a systemic hepatobiliary parasitic infection. A cream is unlikely to reach the site of infection.
-
----
+There is also little unmet need to justify prioritizing this candidate. Triclabendazole is a well-established standard therapy for fascioliasis. In addition, penciclovir is marketed only as a topical cream, which is a poor fit for a liver-dwelling parasitic infection. A route-compatibility assessment has not yet been done.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
-
----
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA020629 | Denavir (Mylan Pharmaceuticals Inc.) | Cream | Not listed in the record |
-| NDA020629 | Penciclovir (Mylan Pharmaceuticals Inc.) | Cream | Not listed in the record |
-| ANDA214100 | Penciclovir (Amneal Pharmaceuticals NY LLC) | Cream | Not listed in the record |
-| ANDA216981 | Penciclovir (Torrent Pharmaceuticals Limited) | Cream | Not listed in the record |
-| ANDA212710 | Penciclovir (Teva Pharmaceuticals USA, Inc.) | Cream | Not listed in the record |
+| NDA020629 | Denavir (Mylan Pharmaceuticals Inc.) | Cream | Not listed (cancelled) |
+| ANDA214100 | Penciclovir (Amneal Pharmaceuticals NY LLC) | Cream | Not listed (cancelled) |
+| ANDA216981 | Penciclovir (Torrent Pharmaceuticals Limited) | Cream | Not listed (cancelled) |
+| ANDA212710 | Penciclovir (Teva Pharmaceuticals USA, Inc.) | Cream | Not listed (cancelled) |
+| ANDA212368 | Penciclovir (Padagis Israel Pharmaceuticals Ltd) | Cream | Not listed (cancelled) |
 
----
+All five authorizations are cancelled, and all are topical creams.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug interactions were found in the queried data.
-
----
+Please refer to the package insert for safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone (L5). There are no trials or publications, and the known antiviral mechanism does not apply to a parasitic fluke. The topical-only formulation also makes systemic use unlikely.
+The prediction rests only on a knowledge-graph score, with no clinical or literature support (L5). No plausible mechanistic link exists between a herpesvirus-specific nucleoside analog and a trematode parasite. The only available formulation is a topical cream, and an effective standard therapy already exists.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, which are needed before any safety screening
-- Confirmed original indications and mechanism of action data
-- Preclinical evidence (for example, in vitro anti-*Fasciola* activity) that would support any biological link
-- A route and formulation assessment, since only topical creams are marketed
-- A literature and trial search that includes fascioliasis and related trematode infections
+- Mechanistic evidence that penciclovir or its metabolites act on *Fasciola* species (for example, in vitro activity assays)
+- Detailed mechanism of action data (MOA)
+- Package insert warnings and contraindications, to enable safety screening
+- Route-compatibility assessment, since systemic exposure would be needed for fascioliasis and only topical products have been marketed
+- Justification of unmet need relative to triclabendazole
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

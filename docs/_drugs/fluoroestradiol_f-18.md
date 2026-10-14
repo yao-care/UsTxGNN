@@ -29,64 +29,57 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Fluoroestradiol F-18: From ER-Positive Lesion PET Imaging to Amenorrhea
+# Fluoroestradiol F-18: From a Diagnostic Imaging Agent to Amenorrhea
 
 ## One-Sentence Summary
 
-Fluoroestradiol F-18 is a radiolabeled estradiol analog, marketed in the US as a PET diagnostic agent for estrogen receptor (ER)-positive lesions.
-The TxGNN model predicts it may be relevant to **amenorrhea**, but this is a model prediction only, with **0 clinical trials** and **0 publications** supporting it.
+Fluoroestradiol F-18 is an estrogen-analog PET radiotracer that binds estrogen receptors and is used as a diagnostic imaging agent, not a treatment.
+The TxGNN model predicts it may be relevant to **Amenorrhea**, but **no clinical trials** and **no publications** currently support this direction.
+The prediction most likely reflects the drug's similarity to estradiol rather than any real therapeutic potential.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | PET imaging of ER-positive lesions (diagnostic use; the license record has no indication text) |
+| Original Indication | Not available (no approved indication text in the data compiled for this report) |
 | Predicted New Indication | Amenorrhea |
 | TxGNN Prediction Score | 99.40% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
+| US Market Status | Cancelled only (the single NDA is cancelled) |
 | Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available. Based on known information, fluoroestradiol F-18 is an estradiol analog that binds estrogen receptors. It is used as a diagnostic tracer, not as a treatment.
+Detailed mechanism of action data is not available. Based on known information, fluoroestradiol F-18 is an estrogen analog that binds estrogen receptors and is used as a PET radiotracer to visualise receptor expression.
 
-Amenorrhea involves estrogen signaling in the hypothalamic-pituitary-ovarian axis. The model's high score (0.994) most likely reflects shared ER-related neighbors in the knowledge graph. This is a graph association, not evidence of a therapeutic effect.
+Amenorrhea involves disrupted estrogen and hypothalamic-pituitary-ovarian axis signalling. In principle, an estrogen-receptor-binding tracer could be used to image receptor expression in uterine or other target tissue. However, at tracer doses the compound has no pharmacologic effect and would not treat amenorrhea.
 
-There is an important caveat. The drug is given at tracer (microdose) levels to produce an image, not a pharmacological effect. A plausible use in this setting would therefore be diagnostic, for example imaging ER expression in uterine or pituitary tissue. A therapeutic use is not plausible. Neither use is supported by any trial or publication.
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-## Literature Evidence
-
-Currently no related literature available.
+The high TxGNN score (0.994) most likely reflects structural and target similarity to estradiol, which is used in estrogen-deficiency states. It should not be read as evidence that this compound has therapeutic potential for amenorrhea. If any link exists, it is a diagnostic or imaging one, not a therapeutic one.
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA212155 | CERIANNA (GE Healthcare Inc.) | Injection | Not listed in the record |
+| NDA212155 | CERIANNA (GE Healthcare Inc.) | Injection | Not available (status: cancelled) |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Please refer to the package insert for safety information. No drug interaction records were found, and no disease contraindication links were identified in the knowledge graph.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on model output alone (L5), with no trials or literature. The drug is a microdose diagnostic tracer, so a therapeutic role in amenorrhea is not credible. Any diagnostic role is untested.
+The prediction rests on model output alone (L5). There are no registered clinical trials and no literature. The compound is a diagnostic tracer with no pharmacologic effect at tracer doses, and its only US authorization is cancelled. Basic safety and mechanism data are also missing.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, which are currently missing and block safety screening
-- Mechanism of action data from DrugBank
-- A decision on whether the goal is diagnostic imaging or therapy
-- Literature and trial searches for ER imaging in amenorrhea and related endocrine conditions
-- A route and dosing compatibility assessment for the proposed use
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data
+- Confirmation of the original approved indication
+- A clear rationale for whether any use in amenorrhea would be diagnostic (imaging) or therapeutic
+- Supporting preclinical or clinical literature, if the direction is pursued
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

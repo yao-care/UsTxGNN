@@ -29,33 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tivozanib: From Advanced Renal Cell Carcinoma to Endocervical Carcinoma
+# Tivozanib: From Renal Cell Carcinoma to Endocervical Carcinoma
 
 ## One-Sentence Summary
 
-Tivozanib is an oral kinase inhibitor marketed in the US as FOTIVDA. The US license records in the Evidence Pack do not list an approved indication, so the original indication above comes from general pharmacology knowledge (VEGFR-targeted therapy for advanced renal cell carcinoma), not from the pack.
-The TxGNN model predicts it may be effective for **endocervical carcinoma**, but there are currently **0 clinical trials** and **0 publications** supporting this direction.
-This is a model-only prediction.
+Tivozanib is an oral VEGF receptor inhibitor originally used to treat advanced renal cell carcinoma.
+The TxGNN model predicts it may be effective for **endocervical carcinoma**,
+but currently there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in the US license data (general knowledge: advanced renal cell carcinoma) |
+| Original Indication | Renal cell carcinoma (nonpapillary renal cell carcinoma, renal cell adenocarcinoma, clear cell renal carcinoma) |
 | Predicted New Indication | Endocervical carcinoma |
 | TxGNN Prediction Score | 99.81% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 2 license records (both under NDA212904) |
+| US Market Status | Cancelled only (the single NDA is cancelled) |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. From general pharmacology, tivozanib is a VEGFR-1/2/3 tyrosine kinase inhibitor. It blocks VEGF signaling, which tumors use to build new blood vessels.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Based on pharmacology information, tivozanib is a tyrosine kinase inhibitor that blocks all three VEGF receptors (VEGFR-1/FLT1, VEGFR-2/KDR and VEGFR-3/FLT4) with equal potency. Its efficacy in renal cell carcinoma, a highly vascularised tumour, is the basis of its original use.
 
-Anti-angiogenic therapy is already clinically relevant in cervical cancer. The VEGF-targeted antibody bevacizumab is an established option. That makes a VEGFR-inhibiting small molecule a plausible candidate, but the link is indirect. No supplied data show that tivozanib itself works in cervical carcinoma.
+Cervical cancer also depends on VEGF-driven angiogenesis, and anti-VEGF therapy (bevacizumab) has shown benefit in this disease. This gives a plausible mechanistic bridge from renal cell carcinoma to endocervical carcinoma. However, this rationale is unverified: no disease-specific data was supplied, and the high TxGNN score is a computational prediction only.
 
-The TxGNN score is very high (99.81%). Its top 10 predictions are all rare cervical or uterine ligament carcinoma variants, such as adenoid cystic, mucinous, glassy cell and signet ring subtypes. This pattern suggests the model is propagating from parent "cervical cancer" nodes in the knowledge graph. It probably does not reflect histology-specific evidence. The score should be read as a hypothesis-generating signal, not as proof of efficacy.
+The other top-ranked predictions are also rare gynaecologic adenocarcinoma subtypes (e.g. uterine ligament adenocarcinomas, rare cervical adenocarcinoma variants), all at Evidence Level L5 with scores of about 99.8%. The high scores likely reflect disease-ontology proximity rather than subtype-specific biology.
 
 ## Clinical Trial Evidence
 
@@ -69,9 +69,9 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA212904 | FOTIVDA (AVEO Pharmaceuticals, Inc.) | Capsule (oral) | Not listed in the license record |
+| NDA212904 (cancelled) | FOTIVDA (AVEO Pharmaceuticals, Inc.) | Capsule | Indication text not available in the compiled data |
 
-The pack contains two identical license records for this NDA. They are shown here as one entry.
+Note: Other regulatory sources describe an FDA approval in March 2021 for advanced renal cell carcinoma that has relapsed or is refractory after two or more prior systemic therapies. The NDA is currently listed as cancelled in the compiled data, so its present marketing status should be confirmed.
 
 ## Cytotoxicity
 
@@ -81,30 +81,30 @@ The pack contains two identical license records for this NDA. They are shown her
 | Myelosuppression Risk | Please refer to the package insert warnings and precautions |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
 | Monitoring Items | Please refer to the package insert warnings and precautions |
-| Handling Protection | Please refer to the package insert and institutional handling policies for oral antineoplastic agents |
+| Handling Protection | Please refer to the package insert warnings and precautions |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions** (7 records found; the 4 below have severity ratings):
+  - **Major**: Phenobarbital, St. John's Wort
+  - **Moderate**: Riociguat, Medroxyprogesterone acetate
+- Target pharmacology: tivozanib inhibits FLT1 (VEGFR-1), KDR (VEGFR-2) and FLT4 (VEGFR-3).
 
-No drug-drug interaction records were found for this drug in the pack.
+No warnings or contraindications are available in the compiled data. Please refer to the package insert for further safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The only support is a TxGNN score, with no clinical trials and no literature (Evidence Level L5). The package insert safety data is also missing. This blocks progression to safety screening. The anti-angiogenic rationale is plausible for cervical cancer, but it is indirect and unverified for these rare histologic subtypes.
+The prediction has no supporting clinical trials or publications (Evidence Level L5). The anti-angiogenic rationale is plausible but unverified, the predicted diseases are mostly rare subtypes where evidence is unlikely to emerge soon, and the only US NDA is cancelled.
 
 **To proceed, the following is needed:**
-- Download and parse the FDA package insert to obtain warnings, contraindications and the approved indication
-- Obtain mechanism of action data from DrugBank (DB11800)
-- Search ClinicalTrials.gov and ICTRP for tivozanib or VEGFR-TKI studies in cervical and gynecologic carcinoma
-- Search PubMed for preclinical or clinical evidence in cervical cancer
-- Consider re-scoring against broader "cervical carcinoma" terms, since the rare-subtype predictions probably inherit from parent nodes
-- Assess route compatibility (oral capsule) against the requirements of the target indication
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism-of-action data from DrugBank
+- Preclinical or clinical evidence of VEGFR inhibition in cervical or endocervical carcinoma, including a literature and trial search
+- Confirmation of current US regulatory and marketing status
+- Review of the Major interactions (CYP3A4 inducers such as phenobarbital and St. John's Wort) for any future study design
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

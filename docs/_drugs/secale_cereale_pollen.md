@@ -29,81 +29,63 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Secale Cereale Pollen: From Allergenic Product (No Recorded Indication) to Alopecia
+# Secale Cereale Pollen: From an Unspecified Original Indication to Alopecia
 
 ## One-Sentence Summary
 
-Secale cereale (rye) pollen is marketed in the US as a pollen-derived allergenic solution (Cultivated Rye, Greer Laboratories), but no approved indication text is recorded in the source data.
-The TxGNN model predicts it may be effective for **alopecia**, but there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model score alone.
-
----
+Secale cereale pollen (rye pollen extract) was marketed in the US as an allergenic extract solution, but no approved indication is recorded in the data compiled for this report.
+The TxGNN model predicts it may be effective for **alopecia**,
+but currently there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in the source data |
+| Original Indication | Not recorded in the available data |
 | Predicted New Indication | Alopecia |
 | TxGNN Prediction Score | 99.01% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 6 (all listed entries are BLA101833) |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no active license) |
+| Number of NDAs | 1 (BLA101833, cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. The drug has no recorded original indications, and no drug-interaction data were found. No mechanistic link between rye pollen and alopecia can be established from the supplied data.
+Currently, detailed mechanism of action data is not available. Secale cereale pollen is a complex botanical extract (rye pollen), and no original indication is recorded for it in the compiled data. A mechanistic link to alopecia therefore cannot be established.
 
-The only support is the TxGNN knowledge-graph score of 0.99, which is a model output, not clinical or mechanistic evidence. A score this high for a drug with no recorded indications or MOA is unusual. It may reflect sparse graph connectivity rather than a real biological signal.
-
-Rye pollen is an allergenic product, and no plausible pathway to hair-follicle biology is documented. Similarity to the original indication and route compatibility have not been assessed. Overall, this prediction should be treated as a hypothesis-generating signal only.
-
----
+The high TxGNN score (99.01%) is a model-based prediction only. Any plausible link, for example a hypothetical anti-inflammatory effect or a 5-alpha-reductase-related effect from plant sterols, would be speculative and unverified. Treat the prediction as a hypothesis to test, not as supported evidence.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
-
----
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA101833 | Cultivated Rye (Greer Laboratories, Inc.) | Solution | Not stated in the source data |
-
-The Evidence Pack lists five identical entries under this authorization (six licenses in total). The product is a solution, and its route category is recorded only as "Other."
-
----
+| BLA101833 | Cultivated Rye (Greer Laboratories, Inc.) | Solution | Not recorded (license cancelled) |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
----
+Please refer to the package insert for safety information. No drug interaction records were found for this substance.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The recommendation rests only on a model score, with no clinical trials, no literature, no MOA, and no plausible biological link to alopecia. The candidate stays at stage S0 with evidence level L5.
+The prediction has no clinical, literature, or mechanistic support (Evidence Level L5). The only US license is cancelled, and safety and mechanism data are missing, so the project should not advance.
 
 **To proceed, the following is needed:**
-- The FDA package insert (warnings, contraindications, and approved indications), which currently blocks safety screening
-- Mechanism of action data from DrugBank, and a documented link between rye pollen components and hair-follicle biology
-- Any preclinical, observational, or clinical evidence for alopecia, plus a check of whether the high score comes from sparse graph connectivity
-- Route compatibility assessment, since the existing product is an allergen extract solution and no route suited to alopecia has been identified
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Mechanism of action data (e.g., from DrugBank) and a plausible biological link to alopecia
+- FDA package insert warnings and contraindications, to allow safety screening
+- Confirmation of the original indication and a review of the cancelled license's history
+- Preclinical or literature evidence for hair-loss effects
+- Assessment of route compatibility (the only known form is a solution, a non-topical allergenic extract) and of allergenicity risk for any new use
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

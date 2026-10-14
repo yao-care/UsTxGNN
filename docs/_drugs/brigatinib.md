@@ -29,46 +29,58 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Brigatinib: From ALK-Positive NSCLC to Gingival Fibromatosis
+# Brigatinib: From ALK-Positive Non-Small Cell Lung Cancer to Fibromatosis, Gingival
 
 ## One-Sentence Summary
 
-Brigatinib is an oral ALK/EGFR/ROS1 tyrosine kinase inhibitor marketed in the US, and the literature in the pack describes its use in ALK-positive non-small cell lung cancer (NSCLC).
-The TxGNN model predicts it may be effective for **gingival fibromatosis** (score 99.89%), but this is a **model prediction only**, with **0 clinical trials** and **0 publications** supporting it.
+Brigatinib is an oral kinase inhibitor, originally used to treat non-small cell lung cancer (ALK-positive disease).
+The TxGNN model predicts it may be effective for **Gingival Fibromatosis** (the top-ranked prediction), but **no clinical trials and no publications** currently support this specific indication.
+This is a purely computational prediction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | ALK-positive NSCLC (inferred from the literature in the pack; the US license records contain no indication text) |
+| Original Indication | Non-small cell lung cancer (from the knowledge graph; the US label text is not available in the data compiled for this report) |
 | Predicted New Indication | Fibromatosis, gingival |
 | TxGNN Prediction Score | 99.89% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 3 records (all under NDA208772) |
+| US Market Status | Cancelled only (the single NDA is recorded as cancelled) |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, brigatinib is a multi-target tyrosine kinase inhibitor (ALK, EGFR, ROS1). Its efficacy in ALK-positive NSCLC has been shown in Phase 3 trials, but no pathway linking it to gingival fibromatosis is supported by the data provided.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, brigatinib is a next-generation ALK inhibitor that also inhibits other tyrosine kinases (including EGFR and FAK). Its efficacy in ALK-positive non-small cell lung cancer has been established in the Phase 3 ALTA-1L trial.
 
-Gingival fibromatosis is a benign overgrowth of gum tissue, and the hereditary form has no known ALK-driven biology. The high TxGNN score reflects a knowledge-graph association only and is not backed by any trial, literature or mechanistic data. The prediction should be treated as a hypothesis, not a repurposing lead.
+For gingival fibromatosis, no plausible ALK-, EGFR- or FAK-driven mechanism has been established. The high TxGNN score (0.999) reflects a computational association only, and there is no trial or publication to support it. The prediction should be treated as a hypothesis, not a signal for development.
+
+**Other predictions of note (for context):**
+- **Lung-related labels** (fibroma of lung, hamartoma of lung, lung hilum carcinoma, pulmonary sulcus neoplasm, lung benign neoplasm): there is no distinct repurposing signal. ALK-positive carcinomas are already covered by the approved indication, and the benign-lesion labels have no supporting evidence. The literature matched to "lung benign neoplasm" concerns ALK-positive NSCLC and is likely a lexical artifact.
+- **NF2-related schwannomatosis** (retrieved under the label of rank 10, a rare syndrome): this is the most credible repurposing lead in the data. Brigatinib inhibits multiple tyrosine kinases, including FAK signaling in NF2-deficient cells. It shrank meningioma and schwannoma in preclinical models (PMID 34264955), and a clinical study in progressive tumors has been published (PMID 38904277). The disease label itself appears to be a mismatch and should be re-mapped before any decision.
+- **Lung germ cell tumor:** only indirect case-level and preclinical ALK-related findings (neuroblastoma, lung large cell neuroendocrine carcinoma, pheochromocytoma). There is no germ-cell-tumor-specific evidence.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials registered for gingival fibromatosis.
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for gingival fibromatosis.
+
+For reference, the highest-quality evidence for the closest alternative lead (NF2-related schwannomatosis) is shown below:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [38904277](https://pubmed.ncbi.nlm.nih.gov/38904277/) | 2024 | Clinical study | New England Journal of Medicine | Brigatinib in NF2-related schwannomatosis with progressive tumors |
+| [34264955](https://pubmed.ncbi.nlm.nih.gov/34264955/) | 2021 | Preclinical | PLoS One | Tumor shrinkage in NF2-deficient meningioma and schwannoma through inhibition of multiple tyrosine kinases, but not ALK |
+| [34987411](https://pubmed.ncbi.nlm.nih.gov/34987411/) | 2021 | Case report | Frontiers in Pharmacology | Fatal tumor lysis syndrome with brigatinib in a lung adenocarcinoma patient |
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA208772 | Alunbrig (Takeda Pharmaceuticals America, Inc.) | Tablet, film coated (oral) | Not listed in the source data |
-
-The pack contains three identical records for this NDA, shown here once.
+| NDA208772 | Alunbrig (Takeda Pharmaceuticals America, Inc.) | Tablet, film coated | Indication text not available; status: cancelled |
 
 ## Cytotoxicity
 
@@ -82,23 +94,23 @@ The pack contains three identical records for this NDA, shown here once.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No warnings, contraindications or drug interaction records were available in the pack.
+- **Drug Interactions:** The interaction screen returned 100 interacting drugs. Examples of **Major** interactions: aprepitant, dexamethasone and clarithromycin. Examples of **Moderate** interactions: acid-reducing agents (famotidine, ranitidine, rabeprazole, cimetidine), antidiabetic agents (metformin, pioglitazone, alogliptin, canagliflozin, dapagliflozin), loperamide, morphine, and cisapride.
+- **Literature safety signals:** A fatal tumor lysis syndrome case (PMID 34987411) and cardiovascular toxicity analyses in ALK-positive lung cancer are reported. A benign indication such as gingival fibromatosis would require a high risk-benefit bar for a kinase inhibitor with pulmonary toxicity.
 
-Literature attached to other predicted indications includes a case report of fatal tumour lysis syndrome with brigatinib (PMID 34987411), a safety signal worth noting in any repurposing plan.
+For label warnings and contraindications, please refer to the package insert.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no trial or literature support (L5) and no established mechanistic link, and gingival fibromatosis is a benign condition. A systemic kinase inhibitor would need a strong risk-benefit case that is absent here.
+The gingival fibromatosis prediction has a high model score but no trials, no literature and no plausible mechanism (Evidence Level L5). Brigatinib's US NDA is also recorded as cancelled. The benign nature of the condition makes the safety bar high for a kinase inhibitor.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking data gap for safety screening)
-- Mechanism of action data (from DrugBank) and any evidence linking kinase inhibition to gingival fibromatosis
-- Preclinical or case-level evidence in gingival fibromatosis
-
-Among the other predictions, brigatinib in NF2-related schwannomatosis (PMID 38904277, PMID 34264955) is a more credible lead, but it should be assessed as a separate indication.
+- Mechanism of action data and a mechanistic rationale linking brigatinib's targets to gingival fibromatosis
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Re-mapping of the rank 10 label to NF2-related schwannomatosis, and a separate evaluation of that indication, which has the strongest supporting evidence in the data
+- Clarification of the cancelled US market status and the original approved indication text
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

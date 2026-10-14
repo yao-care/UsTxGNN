@@ -29,101 +29,99 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Cyproheptadine: From First-Generation Antihistamine to Allergic Urticaria
+# Cyproheptadine: From Allergic Rhinitis to Allergic Urticaria
 
 ## One-Sentence Summary
 
-Cyproheptadine is a first-generation H1-antihistamine with serotonin-blocking activity, marketed in the US as generic tablets. The TxGNN model predicts it may be effective for **allergic urticaria**. This rests on the shared H1-blockade mechanism, with **0 clinical trials** and **0 publications** that directly study cyproheptadine in allergic urticaria; the supplied evidence covers other antihistamines.
-
----
+Cyproheptadine is a first-generation antihistamine, originally used for allergic conditions such as allergic rhinitis, urticaria and angioedema.
+The TxGNN model predicts it may be effective for **allergic urticaria** (and, as a closely related second prediction, **cold urticaria**).
+No clinical trials are registered for the top prediction, and **9 publications** were compiled for it, mostly old clinical studies from the 1960s to 1990s.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in the source data |
+| Original Indication | Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold, urticaria, angioedema and related allergic conditions (from the knowledge graph; no approved indication text is available in the US license records) |
 | Predicted New Indication | Allergic urticaria |
 | TxGNN Prediction Score | 99.96% |
-| Evidence Level | L4 (indirect class evidence only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 authorizations (generic ANDAs) |
-| Recommended Decision | Hold |
-
----
+| Evidence Level | L4 (for allergic urticaria); L3 for cold urticaria (rank 2) |
+| US Market Status | Cancelled only (no currently valid listings) |
+| Number of NDAs | 11 (all cancelled ANDA records) |
+| Recommended Decision | Hold for allergic urticaria; Proceed with Guardrails for cold urticaria |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the source record. Based on known information, cyproheptadine is a first-generation H1-receptor antagonist that also blocks serotonin. Histamine released from mast cells drives the wheals and itch of urticaria, and H1 blockade is the standard way to control them. The mechanistic link is therefore a class effect.
+Cyproheptadine is a first-generation H1 antihistamine that also blocks serotonin receptors, and it has anticholinergic activity. Detailed mechanism-of-action data is not available in the data compiled for this report, so this description relies on general knowledge of the drug class.
 
-The record lists no original indications for cyproheptadine, which may be why a plausible on-label use appears as a "prediction". Most of the supplied literature is about other antihistamines: loratadine, desloratadine, rupatadine, bilastine and acrivastine. These support the antihistamine class in urticaria but say nothing directly about cyproheptadine.
+Allergic urticaria is driven by histamine released from mast cells, so blocking H1 receptors is a direct mechanistic fit. Urticaria and angioedema are already among cyproheptadine's original indications, so this prediction is effectively an on-label or near-label use rather than true repurposing. The extra antiserotonergic activity may add benefit in some forms of urticaria.
 
-A related signal appears for **cold urticaria**, the model's second-ranked prediction. Older comparative studies there include cyproheptadine directly, such as PMID 334082, PMID 6480953 and PMID 7488341. That subtype is a better-supported lead than allergic urticaria in general.
+The second prediction, cold urticaria, is a physical urticaria that also involves mast cell degranulation and histamine release. Several double-blind studies have tested cyproheptadine in it. However, current practice generally favors up-titrated second-generation antihistamines, with omalizumab as a further option. Cyproheptadine is therefore best seen as a legacy or second-line choice.
 
----
+The remaining two predictions (nasal cavity disease and acute laryngopharyngitis) have no supporting studies. They most likely reflect overlap with the existing rhinitis, pharyngitis and common cold indications.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT00762983](https://clinicaltrials.gov/study/NCT00762983) | N/A (observational) | Completed | 1003 | Post-marketing safety survey of loratadine in children. Cyproheptadine not studied. |
-| [NCT07101445](https://clinicaltrials.gov/study/NCT07101445) | Phase 4 | Recruiting | 94 | Compares premedication with methylprednisolone vs dexamethasone to prevent allergic reactions to motixafortide in multiple myeloma. Different drug and setting. |
-
-Neither trial studies cyproheptadine, and both were graded low relevance (C).
-
----
+Currently no related clinical trials registered (for allergic urticaria or cold urticaria).
 
 ## Literature Evidence
 
+**Allergic urticaria (top prediction)**
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [7488341](https://pubmed.ncbi.nlm.nih.gov/7488341/) | 1995 | Double-blind crossover study | Asian Pac J Allergy Immunol | Cyproheptadine vs ketotifen in 6 Thai children with cold urticaria. The only item here that studies cyproheptadine, and in a related subtype. |
-| [22994340](https://pubmed.ncbi.nlm.nih.gov/22994340/) | 2012 | Review (by title) | Clin Exp Allergy | How to choose the best H1-antihistamine for urticaria, especially chronic spontaneous urticaria. |
-| [18339040](https://pubmed.ncbi.nlm.nih.gov/18339040/) | 2008 | Review | Allergy | Rupatadine in allergic rhinitis and chronic urticaria. Histamine is the primary mediator, so H1 antagonists are central. |
-| [21162645](https://pubmed.ncbi.nlm.nih.gov/21162645/) | 2011 | Review | Expert Rev Clin Immunol | Rupatadine for allergic rhinitis and urticaria. Antihistamines differ in effect and safety profile. |
-| [22686617](https://pubmed.ncbi.nlm.nih.gov/22686617/) | 2012 | Review | Drugs | Bilastine, a second-generation antihistamine, for allergic rhinitis and urticaria. |
-| [35396016](https://pubmed.ncbi.nlm.nih.gov/35396016/) | 2022 | Review | Profiles Drug Subst Excip Relat Methodol | Loratadine profile. Widely used for allergic diseases including chronic urticaria. |
-| [20067329](https://pubmed.ncbi.nlm.nih.gov/20067329/) | 2010 | Post-marketing surveillance | Clin Drug Investig | Desloratadine safety and efficacy in seasonal allergic rhinitis or chronic urticaria (four surveillance studies). |
-| [18336052](https://pubmed.ncbi.nlm.nih.gov/18336052/) | 2008 | Review | Clin Pharmacokinet | Pharmacokinetics and pharmacodynamics of desloratadine, fexofenadine and levocetirizine. Second-generation agents were developed to reduce adverse effects of first-generation ones. |
-| [1715267](https://pubmed.ncbi.nlm.nih.gov/1715267/) | 1991 | Review | Drugs | Acrivastine. Double-blind trials show efficacy in chronic urticaria. |
+| [7488341](https://pubmed.ncbi.nlm.nih.gov/7488341/) | 1995 | Double-blind crossover comparison | Asian Pac J Allergy Immunol | Cyproheptadine vs ketotifen in 6 Thai children with cold urticaria |
+| [812662](https://pubmed.ncbi.nlm.nih.gov/812662/) | 1976 | Comparative efficacy study | Curr Ther Res | Cyproheptadine vs hydroxyzine for pruritus in allergic dermatoses |
+| [1715267](https://pubmed.ncbi.nlm.nih.gov/1715267/) | 1991 | Review (acrivastine, indirect) | Drugs | Review of another antihistamine in urticaria and allergic rhinitis; indirect evidence only |
+| [13685954](https://pubmed.ncbi.nlm.nih.gov/13685954/) | 1961 | Clinical study | Br Med J | Cyproheptadine in the treatment of urticaria |
+| [14106555](https://pubmed.ncbi.nlm.nih.gov/14106555/) | 1964 | Clinical evaluation | J Assoc Physicians India | Early evaluation in allergic dermatosis |
+| [4382319](https://pubmed.ncbi.nlm.nih.gov/4382319/) | 1967 | Clinical study/review | Med Lett Drugs Ther | Cyproheptadine for allergic and pruritic dermatoses |
 
-Apart from PMID 7488341, none of these publications studies cyproheptadine. They support the antihistamine class only.
+**Cold urticaria (second prediction)**
 
----
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [334082](https://pubmed.ncbi.nlm.nih.gov/334082/) | 1977 | Double-blind RCT | Arch Dermatol | Cyproheptadine, chlorpheniramine and placebo compared in 8 patients with primary acquired cold urticaria |
+| [6102102](https://pubmed.ncbi.nlm.nih.gov/6102102/) | 1980 | Clinical study | J Allergy Clin Immunol | Patients were asymptomatic on cyproheptadine and ice cube tests reverted to normal; effect studied against histamine release |
+| [6480953](https://pubmed.ncbi.nlm.nih.gov/6480953/) | 1984 | Double-blind comparative trial | J Am Acad Dermatol | Cinnarizine, cyproheptadine, doxepin and hydroxyzine compared; doxepin was preferred |
+| [2901993](https://pubmed.ncbi.nlm.nih.gov/2901993/) | 1988 | Double-blind crossover trial | Dermatologica | Both acrivastine and cyproheptadine reduced wheals versus placebo; acrivastine was significantly more effective |
+
+Overall, the evidence is small, old and mostly comparative. Modern controlled data are limited.
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA212491 | Cyproheptadine Hydrochloride (Bryant Ranch Prepack) | Tablet | Not listed |
-| ANDA212491 | Cyproheptadine Hydrochloride (Quagen Pharmaceuticals) | Tablet | Not listed |
-| ANDA212491 | Cyproheptadine Hydrochloride (RemedyRepack) | Tablet | Not listed |
-| ANDA212491 | Cyproheptadine Hydrochloride (Bryant Ranch Prepack) | Tablet | Not listed |
-| ANDA206553 | Cyproheptadine Hydrochloride (TruPharma) | Tablet | Not listed |
+| ANDA212491 | Cyproheptadine Hydrochloride (Bryant Ranch Prepack) | Tablet | Not listed (cancelled) |
+| ANDA206553 | Cyproheptadine Hydrochloride (TruPharma) | Tablet | Not listed (cancelled) |
+| ANDA203191 | Cyproheptadine (Chartwell RX) | Syrup | Not listed (cancelled) |
+| ANDA205087 | Cyproheptadine Hydrochloride (Ingenus) | Tablet | Not listed (cancelled) |
+| ANDA212423 | Cyproheptadine Hydrochloride (Bryant Ranch Prepack) | Solution | Not listed (cancelled) |
 
-Other forms in the record include syrup and solution.
-
----
+Showing 5 of 11 authorizations; all 11 are cancelled and none is currently valid.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No warnings, contraindications or drug interaction data were retrieved.
+- **Contraindications suggested by the knowledge graph (not label text)**: hypertension, peptic ulcer disease, benign prostatic hyperplasia, ocular hypertension, angle-closure glaucoma, hyperthyroidism (including Graves disease and thyrotoxicosis), and bladder neck obstruction.
+- **Drug Interactions**: 100 interactions are recorded. Major interactions are with potassium chloride and potassium citrate. Many moderate interactions involve anticholinergic agents (atropine, hyoscyamine, scopolamine, glycopyrronium, dicyclomine, trospium) and CNS-active or opioid agents (morphine, opium, loperamide, dronabinol, nabilone). Fenfluramine is also listed.
+- **Practical cautions** (from the rationale for cold urticaria): sedation and anticholinergic effects; caution in children and the elderly; caution with CNS-depressant or serotonergic co-medication; and the risk of cold-induced systemic reactions in cold urticaria patients.
 
-The prediction notes suggest watching for sedation and anticholinergic effects, especially in children and older adults. These are known concerns with first-generation antihistamines, and are why second-generation agents are generally preferred today.
-
----
+Please refer to the package insert for official warnings and contraindications.
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Hold (allergic urticaria); Proceed with Guardrails (cold urticaria)**
 
 **Rationale:**
-The high model score is supported only by the class-level H1-blockade mechanism. No supplied trial or publication studies cyproheptadine in allergic urticaria, and the package insert safety data is missing. Second-generation antihistamines are the usual first choice for urticaria.
+- Allergic urticaria is essentially an existing indication. The supporting studies are decades old, and there are no registered trials, so this offers little real repurposing value.
+- Cold urticaria has several small double-blind studies, and the mechanism is plausible. It could proceed as a legacy or second-line option with safety guardrails.
+- The nasal cavity disease and acute laryngopharyngitis predictions rest on model scores alone (L5) and should stay on hold.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, to complete safety screening
-- Mechanism of action data for cyproheptadine
-- Full-text review of the older cyproheptadine studies in cold urticaria (PMID 334082, 6480953, 7488341), which may be a more promising direction
-- A comparison of cyproheptadine against second-generation antihistamines in urticaria, including the sedation and anticholinergic trade-off
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism-of-action data
+- Comparison with current guideline therapy (up-titrated second-generation antihistamines, omalizumab)
+- A safety plan for sedation and anticholinergic effects in children and the elderly, and for co-medication
+- Review of the US market status, since all listed licenses are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

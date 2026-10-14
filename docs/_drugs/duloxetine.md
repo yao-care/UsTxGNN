@@ -29,30 +29,30 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Duloxetine: From Approved Depression and Pain Indications to Benign Paroxysmal Torticollis of Infancy
+# Duloxetine: From Depression to Benign Paroxysmal Torticollis of Infancy
 
 ## One-Sentence Summary
 
-Duloxetine is a serotonin-norepinephrine reuptake inhibitor (SNRI) antidepressant. It is approved for conditions such as major depressive disorder, generalized anxiety disorder, diabetic peripheral neuropathic pain, and fibromyalgia.
+Duloxetine is a serotonin-norepinephrine reuptake inhibitor (SNRI), originally used for depression, anxiety, fibromyalgia and related conditions.
 The TxGNN model predicts it may be effective for **benign paroxysmal torticollis of infancy**, but **no clinical trials and no publications** currently support this prediction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the US license records. Published literature describes approval for major depressive disorder, generalized anxiety disorder, diabetic peripheral neuropathic pain, fibromyalgia, and chronic musculoskeletal pain |
+| Original Indication | Major depressive disorder, anxiety disorder, fibromyalgia, myofascial pain syndrome, female stress incontinence (from the knowledge graph; no approved-indication text is listed in the US licence records) |
 | Predicted New Indication | Benign paroxysmal torticollis of infancy |
 | TxGNN Prediction Score | 99.85% |
-| Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | Cancelled only (all licences cancelled) |
+| Number of NDAs | 7 authorizations (1 NDA, 6 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Duloxetine is known to inhibit serotonin and norepinephrine reuptake. This has proven benefit in depression, anxiety, and chronic pain, but it has no established role in this condition.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Duloxetine belongs to the SNRI class, and its efficacy in depression, anxiety and chronic pain conditions is established.
 
-Benign paroxysmal torticollis of infancy is a paroxysmal disorder of early childhood. It is related to migraine and to CACNA1A channelopathy. No plausible link between duloxetine's pharmacology and this condition was identified. The high score reflects a knowledge-graph prediction only, with no supporting clinical or mechanistic evidence. Use in infants would also raise additional safety concerns.
+For this specific prediction, no plausible mechanistic link has been identified. Benign paroxysmal torticollis of infancy is a pediatric disorder associated with channelopathy (CACNA1A-related), and nothing connects SNRI pharmacology to its pathophysiology. Duloxetine is also not approved for pediatric use in this setting. The very high score (99.85%) most likely reflects the structure of the knowledge graph rather than a real biological rationale.
 
 ## Clinical Trial Evidence
 
@@ -64,33 +64,35 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| ANDA203197 | Duloxetine | Capsule, delayed release | Ascend Laboratories, LLC |
-| ANDA090694 | Duloxetine | Capsule, delayed release | A-S Medication Solutions |
-| NDA212516 | DRIZALMA SPRINKLE | Capsule, delayed release | Sun Pharmaceutical Industries, Inc. |
-| ANDA090694 | Duloxetine | Capsule, delayed release | RemedyRepack Inc. |
-| ANDA090694 | Duloxetine | Capsule, delayed release | NCS HealthCare of KY, LLC dba Vangard Labs |
+All seven US authorizations are cancelled. No approved-indication text is recorded for any of them.
 
-All listed products are oral. The records contain no approved-indication text.
+| Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
+|---------|------|------|------|------|
+| ANDA203197 | Duloxetine | Delayed-release capsule | Ascend Laboratories, LLC | Cancelled |
+| ANDA090694 | Duloxetine | Delayed-release capsule | A-S Medication Solutions | Cancelled |
+| NDA212516 | Drizalma Sprinkle | Delayed-release capsule | Sun Pharmaceutical Industries, Inc. | Cancelled |
+| ANDA090776 | Duloxetine | Delayed-release capsule pellets | Preferred Pharmaceuticals Inc. | Cancelled |
+| ANDA090739 | Duloxetine | Delayed-release capsule | Zydus Lifesciences Limited | Cancelled |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. Any use in infants would need dedicated pediatric safety evaluation.
+- **Drug Interactions**: 100 interactions are recorded. Major-level interactions among those reviewed include **bupropion, lorcaserin, diethylpropion, dolasetron and dexfenfluramine**. Moderate-level examples include epinephrine, morphine, acetylsalicylic acid, cimetidine and dronabinol.
+- **Knowledge-graph contraindication associations** (not label text): hypertension, orthostatic hypotension, epilepsy, bipolar disorder, liver disease and cirrhosis, hepatitis, fatty liver disease, gallbladder disease, hyperglycemia, blood coagulation disease, angle-closure glaucoma, serotonin syndrome, neuroleptic malignant syndrome, SIADH, and substance abuse/dependence.
+
+Please refer to the package insert for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on the knowledge-graph score. There are no clinical trials or literature, no plausible mechanism, and infant use raises safety concerns.
+The prediction rests on the model score alone. There are no clinical trials, no literature, and no plausible mechanism linking an SNRI to this pediatric channelopathy-associated disorder. All US licences are also cancelled. Among the other predictions in the same analysis, obsessive-compulsive disorder has the strongest support (Level L2): a completed Phase 4 trial, a double-blind augmentation RCT and an open-label study, though all are small. It is a more promising direction to pursue instead.
 
 **To proceed, the following is needed:**
-- A credible mechanistic rationale linking SNRI pharmacology to this condition
-- Package insert warnings and contraindications, which are needed before any safety screening
-- Any preclinical or clinical signal specific to this condition
-
-**Other candidates in the same prediction set:** For obsessive-compulsive disorder (rank 3), the pack lists a Phase 4 duloxetine study (NCT00464698), a small double-blind augmentation RCT (PMID 27811556), and open-label studies. It is rated L2 and is a much better-supported direction than this one. It deserves its own evaluation report.
+- Mechanism of action data and a testable biological hypothesis linking duloxetine to this disorder
+- FDA package insert warnings and contraindications, particularly for pediatric use
+- Any preclinical or case-level evidence in this condition
+- Review of the other predicted indications, with OCD as the priority
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

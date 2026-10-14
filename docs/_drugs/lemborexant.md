@@ -29,85 +29,87 @@ Evidence Level: **L1** | Predicted Indications: **1**
 
 </div>
 
-# Lemborexant: From Insomnia to Sleep Disorder, Initiating and Maintaining Sleep
+# Lemborexant: From Insomnia to Sleep Disorder (Initiating and Maintaining Sleep)
 
 ## One-Sentence Summary
 
-Lemborexant (DAYVIGO) is a dual orexin receptor antagonist that was first approved in the US in December 2019 for adult insomnia.
-The TxGNN model predicts it is effective for **sleep disorder, initiating and maintaining sleep**, which is essentially the same condition as its approved use.
-The prediction is supported by **1 registered clinical trial** and **20 publications**, including several Phase 3 RCTs and network meta-analyses.
+Lemborexant is a dual orexin receptor antagonist, originally used to treat insomnia in adults.
+The TxGNN model predicts it may be effective for **sleep disorder, initiating and maintaining sleep**, but this is essentially the same condition as the approved indication under a different disease label, so it is not a true repurposing candidate.
+Currently **0 registered clinical trials** and **20 publications** are compiled for this direction, including several Phase 3 randomized trials and network meta-analyses.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Insomnia in adults (from published literature; the license records carry no indication text) |
+| Original Indication | Insomnia |
 | Predicted New Indication | Sleep disorder, initiating and maintaining sleep |
 | TxGNN Prediction Score | 99.75% |
 | Evidence Level | L1 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 2 license records (both NDA212028, so 1 unique NDA) |
+| US Market Status | Cancelled only (1 NDA, cancelled) |
+| Number of NDAs | 1 |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
 
-Lemborexant blocks both orexin receptors (OX1R and OX2R), with higher affinity for OX2R. Orexin is a key signal that promotes wakefulness and arousal. Blocking it lowers wake drive, which helps people fall asleep and stay asleep.
+Lemborexant is a dual orexin receptor antagonist that reversibly and competitively blocks OX1R and OX2R, with higher affinity for OX2R. Orexin is a key wake-promoting signal, so blocking it reduces sleep-onset latency and wake after sleep onset. Detailed mechanism data were not available in the data compiled for this report. The description here comes from published reviews on orexin receptor antagonists (PMIDs 35972717, 37086045, 32096020).
 
-The predicted indication, difficulty initiating and maintaining sleep, is the same problem the drug was approved to treat. The high TxGNN score most likely reflects this existing approved use rather than a genuinely new repurposing signal. This should be confirmed against the US label. The Evidence Pack has no structured mechanism-of-action field, so the mechanism above comes from the published literature, not from DrugBank.
+The predicted indication, difficulty initiating and maintaining sleep, is the core phenotype of insomnia, which is the drug's original indication. The prediction therefore mostly restates the approved use under a different disease-ontology label. It does not point to a new therapeutic area. The high score (99.75%) reflects this overlap rather than a novel finding.
 
-Related work points to possible extensions, not new indications. These include insomnia with mild obstructive sleep apnea, insomnia with psychiatric comorbidity, and use in older adults.
+The US market status in the supplied data is "Cancelled only." This should be verified before any decision is acted on, since the literature describes lemborexant (DAYVIGO) as approved in the US in December 2019.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT06928766](https://clinicaltrials.gov/study/NCT06928766) | Phase 2 | Not yet recruiting | 15 | Double-blind, placebo-controlled trial of eszopiclone and lemborexant in obstructive sleep apnoea with a low arousal threshold and difficulty falling or staying asleep. No results yet. It concerns a comorbid subgroup and adds no direct evidence for primary insomnia. |
+Currently no related clinical trials registered in the data compiled for this report. Phase 3 trials (such as SUNRISE-2) appear in the literature below.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
 | [31880796](https://pubmed.ncbi.nlm.nih.gov/31880796/) | 2019 | RCT (Phase 3) | JAMA Netw Open | Lemborexant vs placebo and zolpidem ER in older adults with insomnia disorder |
-| [32585700](https://pubmed.ncbi.nlm.nih.gov/32585700/) | 2020 | RCT (Phase 3, SUNRISE 2) | Sleep | Long-term efficacy and safety of lemborexant vs placebo in adults with insomnia disorder |
-| [33636648](https://pubmed.ncbi.nlm.nih.gov/33636648/) | 2021 | RCT (long-term extension) | Sleep Med | Effectiveness and safety of up to 12 months of continuous lemborexant treatment (SUNRISE-2) |
-| [35843245](https://pubmed.ncbi.nlm.nih.gov/35843245/) | 2022 | Systematic review / network meta-analysis | Lancet | Comparative effects of drug treatments for acute and long-term insomnia in adults |
-| [40555730](https://pubmed.ncbi.nlm.nih.gov/40555730/) | 2025 | Systematic review / network meta-analysis | Transl Psychiatry | Risk-benefit comparison of the three DORAs (daridorexant, lemborexant, suvorexant) |
-| [36701954](https://pubmed.ncbi.nlm.nih.gov/36701954/) | 2023 | Systematic review / network meta-analysis | Sleep Med Rev | Efficacy and tolerability ranking of 20 insomnia drugs in adults |
-| [32531478](https://pubmed.ncbi.nlm.nih.gov/32531478/) | 2020 | Network meta-analysis | J Psychiatr Res | Lemborexant vs suvorexant on efficacy and safety outcomes, based on 4 double-blind RCTs |
-| [39120786](https://pubmed.ncbi.nlm.nih.gov/39120786/) | 2024 | Pooled analysis of 3 trials | Drugs Aging | Efficacy and safety of lemborexant in older adults |
+| [32585700](https://pubmed.ncbi.nlm.nih.gov/32585700/) | 2020 | RCT (Phase 3, SUNRISE 2) | Sleep | Long-term efficacy and tolerability of lemborexant vs placebo in adults with insomnia |
+| [33636648](https://pubmed.ncbi.nlm.nih.gov/33636648/) | 2021 | RCT (Phase 3) | Sleep Med | Up to 12 months of continuous lemborexant treatment: effectiveness and safety outcomes |
+| [40555730](https://pubmed.ncbi.nlm.nih.gov/40555730/) | 2025 | Network meta-analysis | Transl Psychiatry | Risk-benefit comparison of daridorexant, lemborexant and suvorexant for insomnia |
+| [36947394](https://pubmed.ncbi.nlm.nih.gov/36947394/) | 2023 | Network meta-analysis | Drugs | Comparative effectiveness and safety of insomnia drugs across 153 randomized trials |
+| [36701954](https://pubmed.ncbi.nlm.nih.gov/36701954/) | 2023 | Network meta-analysis | Sleep Med Rev | Efficacy and tolerability ranking of 20 insomnia drugs in adults |
+| [35843245](https://pubmed.ncbi.nlm.nih.gov/35843245/) | 2022 | Network meta-analysis | Lancet | Comparative effects of drugs for acute and long-term management of insomnia disorder |
+| [34121443](https://pubmed.ncbi.nlm.nih.gov/34121443/) | 2021 | Network meta-analysis | J Manag Care Spec Pharm | Efficacy and safety of lemborexant vs other insomnia treatments |
+| [39277609](https://pubmed.ncbi.nlm.nih.gov/39277609/) | 2024 | Systematic review | Transl Psychiatry | Lemborexant and suvorexant for insomnia comorbid with psychiatric disorders |
 | [39879708](https://pubmed.ncbi.nlm.nih.gov/39879708/) | 2025 | Post-hoc analysis | Sleep Med | Effect of lemborexant on sleep architecture in insomnia with mild obstructive sleep apnea |
-| [32096020](https://pubmed.ncbi.nlm.nih.gov/32096020/) | 2020 | Drug profile | Drugs | "First Approval" article: dual OXR antagonist, approved in the USA in December 2019 for adult insomnia |
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA212028 | DAYVIGO (Eisai Inc.) | Tablet, film coated (oral) | Adult insomnia with sleep-onset and/or sleep-maintenance difficulty (from literature; label text not in the pack) |
-
-The two license records are duplicates of the same NDA, so only one row is shown.
+| NDA212028 (Cancelled) | DAYVIGO (Eisai Inc.) | Film-coated tablet | Not specified in the data compiled |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. The pack has no label warnings or contraindications, and the drug-interaction query returned no results. That should be read as missing data, not as evidence of no interactions.
+- **Contraindications (from knowledge graph, not label text)**: Narcolepsy, narcolepsy-cataplexy syndrome, central nervous system disease, Balo concentric sclerosis, X-linked adrenoleukodystrophy.
+- **Drug Interactions**: 100 interactions were found in the DDI database. Major-level interactions include:
+  - Ranitidine
+  - Aprepitant
+  - Morphine (including liposomal)
+  - Cimetidine
+  - Clarithromycin
+  - Clotrimazole
+
+  Moderate-level interactions include pioglitazone, bupropion, dexamethasone, saxagliptin, diphenoxylate, difenoxin, dronabinol, eliglustat, nabilone, naloxegol, glycerol phenylbutyrate, metoclopramide and metreleptin.
+
+Please refer to the package insert for official warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Multiple Phase 3 RCTs and several network meta-analyses support lemborexant for insomnia, and the drug is already marketed in the US. The prediction largely restates the approved use, so the main task is confirming the label and setting safety guardrails.
+Several Phase 3 randomized trials and multiple network meta-analyses support lemborexant for insomnia, so the evidence level is L1. However, the prediction restates the approved indication rather than identifying a new one, and the US market status ("Cancelled only") conflicts with the literature and needs checking.
 
 **To proceed, the following is needed:**
-- The US package insert (warnings, contraindications, approved indication text), which is currently a blocking data gap
-- Structured mechanism-of-action data from DrugBank
-- A complete drug-interaction check, especially for CNS depressants and CYP3A inhibitors or inducers
-- Safety guardrails to verify against the label:
-  - next-day somnolence and impaired driving
-  - complex sleep behaviors
-  - caution in older adults, narcolepsy, and respiratory impairment
-- Follow-up on NCT06928766 for any extension to insomnia with obstructive sleep apnea
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Confirm the current US regulatory status of NDA212028 and the reason for the "Cancelled" label
+- Obtain the package insert warnings and contraindications
+- Obtain detailed mechanism of action data from a primary source such as DrugBank
+- Decide whether a genuinely distinct indication (for example, insomnia comorbid with psychiatric disorders or sleep apnea) should be evaluated instead
+- Review the major drug interactions, especially with CYP3A inhibitors and opioids, in any use plan
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

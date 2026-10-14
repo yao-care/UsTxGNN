@@ -33,8 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 ## One-Sentence Summary
 
-Lifitegrast is a topical eye drug that blocks LFA-1/ICAM-1 T-cell adhesion. The Evidence Pack does not list an approved indication, but the marketed product Xiidra is known to be used for dry eye disease.
-The TxGNN model predicts it may be effective for **penile fibromatosis** with a very high score, but there are **0 clinical trials** and **0 publications** for this indication. The prediction is model-only and no mechanistic link is established.
+Lifitegrast is a topical eye-drop drug originally used to treat dry eye disease (keratoconjunctivitis sicca).
+The TxGNN model predicts it may be effective for **penile fibromatosis** (Peyronie's disease-type fibrosis), but **0 clinical trials** and **0 publications** currently support this specific prediction. It is a computational prediction only.
 
 ---
 
@@ -42,23 +42,27 @@ The TxGNN model predicts it may be effective for **penile fibromatosis** with a 
 
 | Item | Content |
 |------|------|
-| Original Indication | Not provided in the Evidence Pack (approved indication text is empty; Xiidra is known to be indicated for dry eye disease) |
+| Original Indication | Dry eye syndrome (xerophthalmia) |
 | Predicted New Indication | Penile fibromatosis |
 | TxGNN Prediction Score | 99.59% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 3 authorizations (1 ANDA and NDA208073 listed twice, for two manufacturers) |
+| US Market Status | Cancelled only (both licenses cancelled) |
+| Number of NDAs | 2 (1 NDA, 1 ANDA) |
 | Recommended Decision | Hold |
+
+Other predicted indications from the same analysis, all at evidence level L5 and Hold: palmar fibromatosis (99.59%), Ledderhose disease (99.57%), infantile digital fibromatosis (99.53%), severe nonproliferative diabetic retinopathy (99.24%), and diabetic retinopathy (99.03%).
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-The mechanism-of-action field is a data gap in the Evidence Pack. The analysis notes describe lifitegrast as an LFA-1/ICAM-1 antagonist that blocks T-cell adhesion. This fits an inflammatory eye condition such as dry eye disease.
+Detailed mechanism-of-action data for the original indication was not available in the data compiled for this report. Pharmacology data do show that lifitegrast is a topical integrin antagonist that targets LFA-1 (integrin alpha L, ITGAL). In laboratory assays it blocks T-cell adhesion to ICAM-1 (IC50 about 2.98 nM in Jurkat cells and 9 nM in HuT 78 cells) and reduces inflammatory mediator release. It was designed to have minimal systemic exposure.
 
-Penile fibromatosis (Peyronie-type fibrotic disease) is driven by fibroblast proliferation and collagen deposition. Lifitegrast has no documented role in either process. The high TxGNN score (0.996) appears to reflect a shared fibromatosis cluster in the knowledge graph, not drug-specific biology. The same pattern applies to the other fibromatosis predictions (palmar fibromatosis, Ledderhose disease, infantile digital fibromatosis), which have similar scores and no supporting evidence.
+Fibromatoses such as Peyronie's disease involve chronic inflammation and fibroblast activation. Blocking LFA-1/ICAM-1 interaction could in theory modulate the immune cells involved, so a link to dry eye (a T-cell-mediated inflammatory disease) is plausible but **speculative**. The same reasoning applies to palmar fibromatosis (Dupuytren's disease) and Ledderhose disease. For infantile digital fibromatosis, no data-supported mechanism exists, and the high score likely reflects network proximity to other fibromatoses rather than a biological signal.
 
-**This prediction is therefore best read as a graph-neighborhood artifact, not a credible repurposing lead.**
+A major translational barrier is delivery: lifitegrast is formulated for the ocular surface with minimal systemic absorption, and no obvious route exists to reach penile, palmar, or plantar tissue.
+
+For diabetic retinopathy, leukocyte adhesion through LFA-1/ICAM-1 is implicated in retinal inflammation, which is biologically plausible. However, an ocular-surface formulation does not reach the retina in meaningful concentrations.
 
 ---
 
@@ -70,7 +74,13 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available.
+For the top-ranked prediction (penile fibromatosis), no related literature is available.
+
+For the related prediction of diabetic retinopathy, one publication was retrieved:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [41158172](https://pubmed.ncbi.nlm.nih.gov/41158172/) | 2025 | Genetic/proteomic association study | International Journal of Ophthalmology | Mendelian randomization using plasma proteomics and GWAS data to identify protein and drug targets for retinal neurodegenerative diseases. Indirect and hypothesis-generating; its relevance to lifitegrast cannot be confirmed. |
 
 ---
 
@@ -78,17 +88,16 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA215063 | Lifitegrast (Aurobindo Pharma Limited) | For solution | Not listed in source data |
-| NDA208073 | Xiidra (Bausch & Lomb Incorporated) | Solution/drops | Not listed in source data |
-| NDA208073 | Xiidra (Novartis Pharmaceuticals Corporation) | Solution/drops | Not listed in source data |
-
-Both dosage forms are ophthalmic products. No topical or injectable form for penile or connective-tissue use exists.
+| NDA208073 (cancelled) | Xiidra (Bausch & Lomb Incorporated) | Solution/drops | Not listed in the data compiled; originally approved by the FDA in July 2016 for dry eye disease |
+| ANDA215063 (cancelled) | Lifitegrast (Aurobindo Pharma Limited) | For solution | Not listed in the data compiled |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug interaction records were found.
+Please refer to the package insert for safety information.
+
+One pharmacology record is available: lifitegrast acts on its target LFA-1 (ITGAL). No drug-drug interactions with other named drugs were identified, and no disease contraindications were found in the knowledge graph.
 
 ---
 
@@ -97,16 +106,14 @@ Please refer to the package insert for safety information. No drug interaction r
 **Decision: Hold**
 
 **Rationale:**
-The prediction for penile fibromatosis rests only on a model score. There are no trials or publications, and no plausible link between LFA-1 blockade and fibrotic disease. The ophthalmic-only formulations also do not fit this indication.
+All predicted indications rest on model scores alone, with no clinical trials and no supporting literature for the leading candidates. The topical ocular formulation has no clear delivery route to fibrotic tissue, and both US licenses are currently cancelled.
 
 **To proceed, the following is needed:**
-- Preclinical evidence that LFA-1/ICAM-1 blockade affects fibroblast proliferation or collagen deposition
-- Approved indication text and package insert warnings and contraindications (currently missing)
-- A route-of-administration assessment, since only ophthalmic forms exist
-
-**Alternative lead within this candidate:** Diabetic retinopathy (rank 6, score 99.03%, evidence level L4, "Research Question") is a more credible direction. LFA-1/ICAM-1-mediated leukostasis and inflammation contribute to retinal vascular damage, and a Phase 1b study of topical lifitegrast (SAR 1118; [PMID 22538219](https://pubmed.ncbi.nlm.nih.gov/22538219/)) cited its role in diabetic macular oedema. Two steps remain before that direction can be pursued:
-- Manually verify what [NCT04030962](https://clinicaltrials.gov/study/NCT04030962) studied, because its title is truncated and it appears to be a dry eye study.
-- Show that topical dosing can reach the retina.
+- FDA package insert warnings and contraindications (a blocking data gap for safety screening)
+- Detailed mechanism-of-action data from DrugBank
+- Preclinical evidence that LFA-1 antagonism affects fibroblast or myofibroblast activity in fibromatosis models
+- A feasibility assessment for a delivery route suitable for penile, palmar, or plantar tissue
+- Clarification of the reason for the license cancellations and the current US availability
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

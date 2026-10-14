@@ -33,75 +33,62 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 ## One-Sentence Summary
 
-Elafibranor is an oral dual PPAR-alpha/delta agonist marketed in the US as IQIRVO. The Evidence Pack does not record its original indication, but public labeling lists primary biliary cholangitis (PBC). The TxGNN model predicts it may be effective for **amenorrhea**, but this rests on a computational prediction alone, with **0 clinical trials** and **0 publications** currently supporting it.
-
----
+Elafibranor is a dual PPARα/δ agonist that was repositioned from nonalcoholic steatohepatitis (NASH) development to primary biliary cholangitis (PBC), for which it received FDA approval in June 2024.
+The TxGNN model predicts it may be effective for **amenorrhea**, but there are currently **0 clinical trials** and **0 publications** supporting this direction.
+The prediction rests on a model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in the Evidence Pack (public labeling lists primary biliary cholangitis) |
+| Original Indication | Primary biliary cholangitis (the approved indication text is not available in the data compiled for this report; this is taken from the drug's published clinical-use background) |
 | Predicted New Indication | Amenorrhea |
 | TxGNN Prediction Score | 99.86% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
+| US Market Status | Cancelled only (the single listed license is recorded as cancelled) |
 | Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
----
-
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the Evidence Pack. Elafibranor is a dual PPAR-alpha/delta agonist. PPAR signaling has been studied in ovarian steroidogenesis, folliculogenesis, and metabolic or insulin-related reproductive disorders such as PCOS. This may be the basis of the link in the knowledge graph.
+Elafibranor is a dual agonist of peroxisome proliferator-activated receptors α and δ (PPARA and PPARD). It is converted in the liver to its main active metabolite, GFT-1007. Preclinical work showed reduced hepatic fat accumulation, inflammation and fibrosis. A formal mechanism-of-action entry is not available in the data compiled for this report, so this description comes from pharmacology data on the drug's targets.
 
-This link is only a hypothesis. No mechanistic pathway from elafibranor to amenorrhea can be verified from the available data. Amenorrhea is a symptom with many distinct causes (hypothalamic, pituitary, ovarian, uterine), and the prediction does not say which one is targeted.
-
-A high model score is not clinical evidence. It may reflect graph topology or hub-node bias. No safety or reproductive-endocrine data are available to weigh risk against benefit in reproductive-age women.
-
----
+PPAR signaling affects lipid and glucose metabolism, insulin sensitivity and inflammation. These pathways could plausibly relate to metabolic causes of amenorrhea, such as PCOS-associated or hypothalamic dysfunction. However, this link is speculative. No trial or publication in the compiled data supports it, and the high score may simply reflect general connectivity in the knowledge graph rather than a specific biological rationale. The relationship between PBC (a liver disease) and amenorrhea (a reproductive-endocrine condition) has not been assessed.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
-
----
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA218860 | IQIRVO (Ipsen Biopharmaceuticals, Inc.) | Tablet, film coated (oral) | Not listed in the source record |
-
----
+| NDA218860 | IQIRVO (Ipsen Biopharmaceuticals, Inc.) | Tablet, film coated (oral) | Not listed in the compiled data; status recorded as cancelled |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug interaction records were found.
+- **Drug Interactions**: The interaction query completed, but it returned only pharmacological target relationships and no clinical drug-drug interactions. The targets are PPARα (PPARA) and PPARβ/δ (PPARD), which are the drug's intended mechanism.
+- During earlier clinical development, Phase 1/2 trials did not detect specific adverse safety signals. Phase 3 development for NASH was terminated in mid-2020 after an interim futility analysis showed no benefit over placebo.
 
----
+For warnings and contraindications, please refer to the package insert.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The only support is a computational prediction (L5), with no trials, no literature, and no verifiable mechanism linking the drug to amenorrhea. The prediction is also non-specific about the type of amenorrhea, and no safety data are available for reproductive-age women.
+The only support for amenorrhea is a model score, with no clinical trials, no literature and Evidence Level L5. The mechanistic link is speculative, and package-insert safety information is missing. The drug's US license record is also listed as cancelled.
 
 **To proceed, the following is needed:**
-- The FDA package insert (warnings, contraindications, approved indication), which currently blocks safety screening
-- Mechanism of action data, for example from DrugBank
-- Preclinical or mechanistic studies of PPAR-alpha/delta signaling in the reproductive axis
-- A defined amenorrhea subtype (for example hypothalamic vs. ovarian) to make the hypothesis testable
-- A reproductive-endocrine safety review, including pregnancy and contraception considerations
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Formal mechanism-of-action data
+- Verification of the current US license status and approved indication
+- A literature and preclinical search for PPARα/δ signaling in reproductive-endocrine conditions, with clarification of which amenorrhea subtype is relevant
+- Assessment of route compatibility and similarity to the original indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

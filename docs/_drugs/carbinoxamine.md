@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Carbinoxamine
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 496
-evidence_level: L5
+evidence_level: L4
 indication_count: 7
 ---
 
 # Carbinoxamine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **7** 
+Evidence Level: **L4** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,44 +29,40 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Carbinoxamine: From H1 Antihistamine to Allergic Urticaria
+# Carbinoxamine: From Allergic Rhinitis to Allergic Urticaria
 
 ## One-Sentence Summary
 
-Carbinoxamine is a first-generation H1 antihistamine that is currently marketed in the United States as oral tablets, solution, and extended-release suspension.
-The TxGNN model predicts it may be effective for **allergic urticaria** with a very high score, but this is a model prediction only.
-There are currently **0 clinical trials** and **0 publications** in the evidence pack supporting this direction.
+Carbinoxamine is a first-generation H1-antihistamine, originally used for allergic and vasomotor rhinitis, the common cold, allergic conjunctivitis, urticaria and angioedema.
+The TxGNN model predicts it may be effective for **Allergic Urticaria**, but there are currently **0 clinical trials** and **0 publications** supporting this prediction.
+It is largely a subtype of an existing indication rather than a true repurposing.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in the evidence pack (the approved indication text is empty for all listed licenses) |
+| Original Indication | Allergic rhinitis (other labeled uses: vasomotor rhinitis, common cold, conjunctivitis, urticaria, angioedema) |
 | Predicted New Indication | Allergic urticaria |
 | TxGNN Prediction Score | 99.99% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 10 licenses (NDA and ANDA combined) |
+| Evidence Level | L4 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 6 (all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, carbinoxamine is a first-generation H1 antihistamine. H1 receptor blockade is a biologically coherent mechanism for histamine-mediated wheal and itch, so the drug may be applicable to allergic urticaria.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, carbinoxamine is a first-generation H1-antihistamine. In allergic urticaria, histamine released from mast cells drives the wheal-and-flare reaction, so blocking the H1 receptor is mechanistically plausible.
 
-Allergic urticaria is driven by mast-cell histamine release, and H1 antihistamines are the standard symptomatic drug class. The link is plausible at the class level. However, no carbinoxamine-specific clinical evidence was supplied, and the score of 0.9999 is not backed by any trial or publication.
+Urticaria and angioedema are already among carbinoxamine's original indications. Allergic urticaria is therefore largely a subtype of an existing indication, not a new therapeutic area. The very high TxGNN score (99.99%) probably reflects this overlap.
 
-Urticaria may already be within carbinoxamine's approved labeling. If so, this would be an on-label use rather than true repurposing. This must be verified against the current label.
+Other predictions follow the same pattern:
 
-The model also produced six other predictions, all at L5 with no supporting studies:
-
-| Rank | Predicted Indication | TxGNN Score | Assessment |
-|------|------|------|------|
-| 2 | Cold urticaria | 99.96% | Plausible at the class level (histamine-driven physical urticaria); no drug-specific evidence |
-| 3 | Nasal cavity disease | 99.88% | Term too broad; likely reflects allergic or vasomotor rhinitis, which may already be labeled |
-| 4 | Pharyngitis | 99.87% | Mostly infectious; no disease-modifying mechanism, and the drying effect may worsen throat irritation |
-| 5 | Acute laryngopharyngitis | 99.87% | Weak rationale; likely driven by graph proximity to related airway conditions |
-| 6 | Recalcitrant atopic dermatitis | 99.73% | Limited itch relief at most; histamine is not the main driver |
-| 7 | IgE responsiveness, atopic | 99.68% | A trait rather than a treatable indication; not actionable |
+- **Cold urticaria** (99.96%): a physical urticaria that also involves mast cell histamine release. Antihistamines are standard therapy in general, but second-generation agents are preferred.
+- **Nasal cavity disease** (99.88%): a broad category that overlaps with the labeled rhinitis indications. It is too non-specific to support a distinct claim.
+- **Pharyngitis** (99.87%): nasopharyngitis and the common cold are already labeled. Any benefit would be symptomatic (drying of secretions).
+- **Acute laryngopharyngitis** (99.87%): supported only by a model prediction and a loose symptomatic analogy. It is typically infectious, and no specific H1-related pathway is known.
+- **Recalcitrant atopic dermatitis** (99.73%): driven mainly by type 2 inflammation, with histamine playing a minor role in itch. H1 antihistamines have weak evidence, and the anticholinergic burden makes benefit unlikely.
+- **IgE responsiveness, atopic** (99.68%): a trait rather than a treatable disease. Carbinoxamine does not change IgE production.
 
 ## Clinical Trial Evidence
 
@@ -78,35 +74,38 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form |
-|---------|------|------|
-| ANDA040458 | Carbinoxamine Maleate (Genus Lifesciences) | Solution |
-| ANDA207484 | Carbinoxamine Maleate (BluCrest Pharmaceuticals) | Tablet |
-| NDA022556 | Carbinoxamine Maleate Extended-Release Oral Suspension (Neos Therapeutics) | Extended-release suspension |
-| ANDA215476 | Carbinoxamine Maleate (Leading Pharma) | Tablet |
-| ANDA040458 | CARBZAH (IPG Pharmaceuticals) | Solution |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA040458 | Carbinoxamine Maleate (Genus Lifesciences) | Solution | Not available (cancelled) |
+| ANDA207484 | Carbinoxamine Maleate (BluCrest Pharmaceuticals) | Tablet | Not available (cancelled) |
+| NDA022556 | Carbinoxamine Maleate Extended-Release Oral Suspension (Neos Therapeutics) | Extended-release suspension | Not available (cancelled) |
+| ANDA215476 | Carbinoxamine Maleate (Leading Pharma) | Tablet | Not available (cancelled) |
+| ANDA090756 | Carbinoxamine Maleate (Biocomp Pharma) | Tablet | Not available (cancelled) |
 
-The approved indication text is empty for all listed licenses, so the label indications could not be compared with the predicted indications.
+One further cancelled authorization (ANDA040442, Genus Lifesciences, tablet) brings the total to 6. All six licenses are cancelled.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Disease contraindications (from the knowledge graph, not label text):** The drug-disease contraindication links include hypertension, epilepsy, peptic ulcer disease, kidney and liver disease, pancreatitis, hypothyroidism, diabetes mellitus, diabetic ketoacidosis, benign prostatic hyperplasia, coronary artery disease, myocardial infarction, heart conduction disease, ocular hypertension, inflammatory bowel disease, respiratory failure and others. These need to be checked against the package insert.
+- **Drug Interactions:** 100 interactions were found. The ones listed here are examples.
+  - **Major:** potassium chloride and potassium citrate.
+  - **Moderate:** anticholinergics (atropine, hyoscyamine, scopolamine, glycopyrronium, dicyclomine, clidinium, propantheline, methscopolamine, mepenzolate), opioids and related agents (morphine, loperamide, opium, eluxadoline), cannabinoids (dronabinol, nabilone) and metoclopramide. Additive anticholinergic and sedative effects are the main concern.
+
+Package insert warnings and contraindications were not available, so please refer to the package insert for them.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The evidence is model prediction only (L5), with no trials or literature. Original indications, mechanism data, and package insert safety information are all missing. The top prediction, allergic urticaria, may already be an on-label use. Until that is checked, the candidate stays at the research-question stage.
+The prediction rests on a model score and class-level mechanistic reasoning only, with no trials or publications for carbinoxamine. Allergic urticaria largely overlaps with an existing labeled indication, so it adds little as a repurposing opportunity. All six US licenses are cancelled, and the package insert safety data are missing.
 
 **To proceed, the following is needed:**
-- Retrieve the current US package insert to confirm approved indications, and check whether urticaria, rhinitis, or other predicted conditions are already on-label
-- Package insert warnings and contraindications, which currently block safety screening
-- Detailed mechanism of action data (MOA) from DrugBank
-- A literature and trial search for carbinoxamine in urticaria (allergic and cold), and for other H1 antihistamines in the same conditions as class-level support
-- Deprioritize the non-actionable predictions: IgE responsiveness, pharyngitis, and acute laryngopharyngitis
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data
+- Carbinoxamine-specific clinical or observational evidence in urticaria
+- Clarification of why the US licenses were cancelled and whether any marketed product remains
+- A comparison with second-generation antihistamines, which are preferred in urticaria
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

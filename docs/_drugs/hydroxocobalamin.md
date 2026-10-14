@@ -29,83 +29,77 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Hydroxocobalamin: From Vitamin B12 Deficiency and Cyanide Poisoning to Esophageal Varices with Bleeding
+# Hydroxocobalamin: From Vitamin B12 Deficiency to Esophageal Varices with Bleeding
 
 ## One-Sentence Summary
 
-Hydroxocobalamin is a form of vitamin B12, used for B12 deficiency and cyanide poisoning.
-The TxGNN model predicts it may be effective for **esophageal varices with bleeding** (and the non-bleeding variant), but there are currently **0 clinical trials** and **0 publications** supporting this direction. It is a model prediction only.
-
----
+Hydroxocobalamin is a form of vitamin B12, originally used to treat vitamin B12 deficiency, pernicious anemia, and cyanide poisoning.
+The TxGNN model predicts it may be effective for **esophageal varices with bleeding** (and the closely related **esophageal varices without bleeding**), but currently there are **0 clinical trials** and **0 publications** supporting this direction. The prediction rests on the knowledge-graph model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the US licence data (generally used for vitamin B12 deficiency and cyanide poisoning) |
+| Original Indication | Vitamin B12 deficiency, pernicious anemia, cyanide poisoning (the US license entries contain no approved indication text) |
 | Predicted New Indication | Esophageal varices with bleeding |
 | TxGNN Prediction Score | 99.23% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 2 (1 NDA, 1 ANDA) |
+| US Market Status | Cancelled only (no currently valid license) |
+| Number of NDAs | 2 (both cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Hydroxocobalamin is a vitamin B12 form used for B12 deficiency and cyanide poisoning. It has no known effect on portal hypertension or variceal hemorrhage, and no established mechanistic link to this indication was found.
+Currently, detailed mechanism of action data is not available. Based on known information, hydroxocobalamin is a vitamin B12 form. Its established actions are acting as a cofactor for methionine synthase and methylmalonyl-CoA mutase, and binding cyanide to form cyanocobalamin. Its efficacy in B12 deficiency and cyanide poisoning is well recognized.
 
-One purely speculative route is that hydroxocobalamin scavenges nitric oxide and hydrogen sulfide, both implicated in splanchnic vasodilation in portal hypertension. No supporting data were available for this hypothesis.
+These actions have no recognized role in portal hypertension, variceal formation, or hemostasis. The two predicted indications (with and without bleeding) have identical scores of 99.23%, which suggests they come from the same graph-based association rather than from independent evidence.
 
-The very high TxGNN score should be interpreted cautiously. The bleeding and non-bleeding varices indications received an identical score (99.23%), which suggests a knowledge-graph neighbourhood artifact rather than a drug-specific signal. Standard care for these conditions (non-selective beta-blockers, endoscopic band ligation) works through unrelated mechanisms. The prediction also cannot be cross-checked against known pharmacology, because original indication and mechanism data are missing from the input.
-
----
+One indirect route is possible in theory: hydroxocobalamin can scavenge nitric oxide, which might affect splanchnic vasodilation in portal hypertension. This hypothesis is speculative and untested, and no clinical data in this report support it. Standard care for esophageal varices (non-selective beta-blockers and endoscopic band ligation) is well established, so there is no evident unmet need that would justify prioritizing this candidate without supporting data.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
-
----
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA085998 | Hydroxocobalamin (Actavis Pharma, Inc.) | Injection, solution | Not listed in the source data |
-| NDA022041 | Cyanokit (BTG International Inc.) | Injection, powder, lyophilized, for solution | Not listed in the source data |
+| ANDA085998 | Hydroxocobalamin (Actavis Pharma, Inc.) | Injection, solution | Not listed; status: cancelled |
+| NDA022041 | Cyanokit (BTG International Inc.) | Injection, powder, lyophilized, for solution | Not listed; status: cancelled |
 
-Both products are injectable.
-
----
+Both products are injectables and both authorizations are cancelled, so no valid US license currently exists for this drug.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug interaction records were found in the queried source.
+- **Knowledge-graph contraindications**: The knowledge graph links hydroxocobalamin to a contraindication with hypertensive disorder / hypertension. This comes from graph edges, not from label text, and should be verified against the package insert. It is also relevant here because portal hypertension management often involves blood pressure and hemodynamic considerations.
+- **Drug Interactions**: 32 potential interactions were identified. Most are of unknown severity. The ones rated **Moderate** are:
+  - Arsenic trioxide
+  - Chloramphenicol
+  - Iodide I-131
+  - Iodide I-123
 
----
+  Other listed interacting drugs (severity unknown) include omeprazole, lansoprazole, simvastatin, prednisolone, ranitidine, acetylsalicylic acid, budesonide, folic acid, valsartan, ramipril, lorazepam, citalopram, acetaminophen, mirtazapine, and levothyroxine.
+
+Please refer to the package insert for key warnings and label-based contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone (Evidence Level L5). There are no clinical trials or publications, no established mechanistic link, and the identical scores for the two varices indications point to a likely knowledge-graph artifact.
+The prediction has a high model score (99.23%) but no clinical trials, no literature, and no plausible established mechanism. Evidence is at the lowest level (L5). In addition, there is no valid US license at present.
 
 **To proceed, the following is needed:**
-- Package insert warnings, contraindications and approved indication text (currently blocking safety screening)
-- Mechanism of action data (for example from DrugBank)
-- Preclinical or mechanistic evidence for the nitric oxide / hydrogen sulfide scavenging hypothesis in portal hypertension
-- A literature and trial search using variceal bleeding and portal hypertension terms
-- Route and formulation compatibility assessment (injectable products only)
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
+- Detailed mechanism of action data, and a mechanistic assessment of the nitric oxide scavenging hypothesis in portal hypertension
+- A literature and trial search specific to hydroxocobalamin in portal hypertension and esophageal varices, as well as preclinical studies
+- Package insert warnings and contraindications (including the hypertension-related signal)
+- Review of the regulatory pathway, given that both US authorizations are cancelled
+- Route compatibility assessment (currently only injectable forms exist)
+- Evidence of an unmet need relative to current standard care (beta-blockers, endoscopic band ligation)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

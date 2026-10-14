@@ -29,32 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Mometasone: From Nasal Corticosteroid Use to Primary Cutaneous T-Cell Lymphoma
+# Mometasone: From Allergic Rhinitis and Related Airway Conditions to Primary Cutaneous T-Cell Lymphoma
 
 ## One-Sentence Summary
 
-Mometasone is a corticosteroid marketed in the US as metered nasal sprays. The supplied records do not state its approved indication.
-The TxGNN model predicts it may be effective for **primary cutaneous T-cell lymphoma**, but **no clinical trials** and only **2 case reports** are on file, and neither shows mometasone working in this disease.
+Mometasone is a corticosteroid used intranasally for allergic rhinitis, nasal polyposis and asthma, and topically for allergic skin disorders.
+The TxGNN model predicts it may be effective for **primary cutaneous T-cell lymphoma**,
+but there are currently **0 registered clinical trials** and only **2 case reports** in the literature, so the evidence is very limited.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the records (all listed licenses have blank indication text) |
+| Original Indication | Not stated in the US license records; pharmacology data list intranasal use for allergic rhinitis, nasal polyposis and asthma, and topical use for allergic skin disorders |
 | Predicted New Indication | Primary cutaneous T-cell lymphoma |
 | TxGNN Prediction Score | 99.36% |
-| Evidence Level | L5 (model prediction only; the Evidence Pack assigned L4, but the two case reports do not support mometasone in this disease) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 14 |
+| Evidence Level | L5 (model prediction only; the only literature is two case reports, which does not meet L3 criteria) |
+| US Market Status | ✗ Cancelled only (all licenses cancelled) |
+| Number of NDAs | 4 (1 NDA and 3 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data for mometasone is not available in the supplied records. As a corticosteroid, mometasone plausibly acts through glucocorticoid receptor-mediated anti-inflammatory and pro-apoptotic effects on lymphocytes in the skin. This is general pharmacology, not something the records support directly.
+Detailed mechanism of action data are not available for mometasone in the data compiled for this report. Based on known pharmacology, mometasone is a synthetic corticosteroid that binds the glucocorticoid receptor (NR3C1). It is a medium-to-high potency agent and has been used for inflammatory conditions of the airways and skin.
 
-Corticosteroids are widely used against inflammatory skin disease, and topical steroids are a standard treatment in early cutaneous T-cell lymphoma. The very high graph score most likely reflects this drug-class association rather than evidence specific to mometasone.
+Topical corticosteroids are an established skin-directed therapy for early-stage mycosis fungoides, the most common form of primary cutaneous T-cell lymphoma. Through glucocorticoid receptor signalling, they exert anti-inflammatory and pro-apoptotic effects on both malignant and reactive T cells. This gives a plausible class-level mechanistic link between mometasone and the predicted indication.
 
-There is also a route gap. Every US product in the records is a metered nasal spray, and route compatibility with a skin-directed indication has not been assessed.
+However, no mometasone-specific data in cutaneous T-cell lymphoma were provided. The high TxGNN score is a computational prediction only, and it should be treated as a hypothesis rather than as evidence of efficacy.
 
 ## Clinical Trial Evidence
 
@@ -64,37 +65,39 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [40821495](https://pubmed.ncbi.nlm.nih.gov/40821495/) | 2025 | Case Report | Proc (Bayl Univ Med Cent) | A 62-year-old woman had cutaneous pseudolymphoma, a benign condition that mimics lymphoma. Mometasone and tacrolimus failed, and she was then treated with tapinarof. It does not show mometasone benefit in true lymphoma. |
-| [25442255](https://pubmed.ncbi.nlm.nih.gov/25442255/) | 2015 | Case Report | J Cutan Pathol | An 11-year-old boy had CD8+CD56+ cytotoxic-type mycosis fungoides, a form of cutaneous T-cell lymphoma, with delayed diagnosis. The available abstract excerpt does not mention mometasone. |
+| [25442255](https://pubmed.ncbi.nlm.nih.gov/25442255/) | 2015 | Case report | Journal of Cutaneous Pathology | An 11-year-old boy with a 7-year history of slowly progressive CD8+CD56+ mycosis fungoides (cytotoxic immunophenotype); the report concerns diagnosis and presentation of childhood disease, and the abstract provided does not show a mometasone-specific finding |
+| [40821495](https://pubmed.ncbi.nlm.nih.gov/40821495/) | 2025 | Case report | Proceedings (Baylor University Medical Center) | Cutaneous pseudolymphoma (a benign mimic of lymphoma, not a lymphoma) on the nose that did not respond to mometasone and tacrolimus, then was treated with tapinarof; it does not support mometasone efficacy |
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form |
-|---------|------|------|
-| NDA215712 | Nasonex (L. Perrigo Company) | Spray, metered |
-| NDA215712 | Rugby mometasone furoate nasal (Rugby Laboratories) | Spray, metered |
-| ANDA217498 | Mometasone Furoate (Aurohealth LLC) | Spray, metered |
-| NDA215712 | up and up allergy (Target Corporation) | Spray, metered |
-| NDA215712 | allergy nasal (Walgreen Company) | Spray, metered |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA215712 | Nasonex | Metered spray | Not listed (cancelled) |
+| ANDA217498 | Mometasone Furoate | Metered spray | Not listed (cancelled) |
+| ANDA215878 | Mometasone Furoate Monohydrate | Metered spray | Not listed (cancelled) |
+| ANDA091161 | Mometasone Furoate | Metered spray | Not listed (cancelled) |
 
-The records give no approved indication text for these licenses.
+All four US authorizations are cancelled, and all are metered nasal sprays. No topical formulation is represented in the data compiled for this report.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: The only interaction record is pharmacological, not drug-drug: mometasone acts on the glucocorticoid receptor (NR3C1). No specific interacting drugs were identified.
+
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The high TxGNN score is not backed by any trial, and the only literature is two case reports. One describes a mometasone failure in a benign look-alike condition, and the other does not mention mometasone. The marketed forms are nasal sprays, which do not match a skin-directed indication.
+The prediction rests on a computational score and a plausible class-level mechanism (topical corticosteroids in early mycosis fungoides). There are no clinical trials and no supportive mometasone-specific literature; one case report even describes treatment failure in a benign mimic. All US licenses are cancelled, and the available products are nasal sprays, which are not suited to skin-directed therapy.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, which are currently missing and block safety screening
-- Mechanism of action data for mometasone (e.g., from DrugBank)
-- Published evidence of topical mometasone in mycosis fungoides or other cutaneous T-cell lymphoma, such as retrospective series or trials
-- Route and formulation assessment: whether a topical mometasone product exists and how it fits this indication
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism of action data
+- Mometasone-specific clinical or observational data in mycosis fungoides or other cutaneous T-cell lymphoma
+- Comparison with established topical corticosteroids already used in this setting
+- Assessment of route and formulation compatibility (topical versus the nasal spray forms in the data) and of the regulatory and commercial implications of the cancelled status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

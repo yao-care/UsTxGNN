@@ -33,87 +33,68 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 ## One-Sentence Summary
 
-Galcanezumab is a monoclonal antibody that neutralizes CGRP (calcitonin gene-related peptide), a class used for migraine. The source data does not list its approved indications, so migraine is inferred from the CGRP mechanism.
-The TxGNN model predicts it may be effective for **heparin cofactor 2 deficiency**, but there are currently **0 clinical trials** and **0 publications** supporting this direction.
-This is a model-only prediction, and no plausible mechanistic link has been identified.
-
----
+Galcanezumab is a monoclonal antibody that targets CGRP and was originally used to prevent migraine.
+The TxGNN model predicts it may be effective for **heparin cofactor 2 deficiency**,
+but there are currently **0 clinical trials** and **0 publications** supporting this prediction, so it rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the US license records (migraine inferred from the CGRP mechanism) |
+| Original Indication | Migraine disorder (migraine with or without aura) |
 | Predicted New Indication | Heparin cofactor 2 deficiency |
 | TxGNN Prediction Score | 99.50% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 3 (all entries are BLA761063) |
+| US Market Status | Cancelled only (BLA761063, EMGALITY) |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the source record. Based on known pharmacology, galcanezumab is a monoclonal antibody that neutralizes CGRP, a neuropeptide involved in migraine and vasodilation.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, galcanezumab is a monoclonal antibody that neutralizes calcitonin gene-related peptide (CGRP), and its efficacy is established in migraine prevention.
 
-Heparin cofactor 2 is a serpin that inhibits thrombin, mainly through dermatan sulfate. CGRP signaling has no known role in this pathway, so **no plausible mechanistic link was identified**. The high score (0.995) is a graph-based prediction only. It cannot be checked against known pharmacology because the source lacks the drug's original indications and mechanism.
+Heparin cofactor 2 deficiency is a disorder of serpin-mediated thrombin inhibition (SERPIND1). CGRP signaling is not known to take part in this pathway, so **no credible mechanistic link was identified**. The high TxGNN score is a computational prediction only and should not be read as evidence of efficacy.
 
-The two other top-ranked predictions show the same pattern:
+Two other predictions share the same weakness:
 
-| Rank | Predicted Indication | TxGNN Score | Assessment |
-|------|------|------|------|
-| 2 | Antithrombin deficiency type 2 | 99.41% | No mechanistic link. Treatment is anticoagulation or antithrombin replacement, unrelated to CGRP blockade. |
-| 3 | Factor 5 excess with spontaneous thrombosis | 99.41% | No mechanistic link. CGRP-pathway inhibitors also raise a vascular-tone and cardiovascular safety question in a thrombosis-prone population. |
+| Rank | Predicted Indication | TxGNN Score | Trials | Publications | Evidence Level |
+|------|------|------|------|------|------|
+| 2 | Antithrombin deficiency type 2 | 99.41% | 0 | 0 | L5 |
+| 3 | Factor 5 excess with spontaneous thrombosis | 99.41% | 0 | 0 | L5 |
 
-All three predictions are likely knowledge-graph artifacts: they have no trials or literature, and all are graded L5 and Hold.
-
----
+Both are hereditary coagulation disorders with no known connection to CGRP neutralization. Because the third condition carries thrombotic risk, any use would need strong supporting evidence, which is absent. CGRP-pathway agents also have vascular-tone considerations that would need review.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
-
----
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA761063 | EMGALITY (Eli Lilly and Company) | Injection, solution | Not listed in source data |
-
-The record contains three entries under the same authorization number, with the same product and dosage form. The only route is injectable.
-
----
+| BLA761063 | EMGALITY (Eli Lilly and Company) | Injection, solution | Status: cancelled |
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
-
-No drug-interaction records were found for this drug.
-
----
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The three predictions rest only on a graph-model score, with no trials, no literature, and no plausible mechanistic link to coagulation-pathway deficiencies. The safety data is also incomplete, so no safety screening is possible.
+The prediction is supported only by a model score (L5), with no trials, no literature, and no plausible mechanistic link between CGRP neutralization and the coagulation pathways involved. The only US license listed is cancelled, and safety data are missing.
 
 **To proceed, the following is needed:**
-- The package insert (warnings, contraindications, approved indications), from the FDA website
-- Mechanism of action data, from DrugBank
-- Any preclinical or mechanistic evidence connecting CGRP blockade to the heparin cofactor 2 or antithrombin pathways
-- A cardiovascular and thrombosis safety assessment before considering any use in thrombosis-prone populations
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Mechanism of action data for galcanezumab, followed by a reassessment of any link to SERPIND1-related thrombin inhibition
+- FDA package insert warnings and contraindications, needed for safety screening
+- Preclinical or mechanistic studies showing a biological rationale for the predicted indication
+- Confirmation of current US market and licensing status
+- Route and formulation compatibility assessment (currently pending)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

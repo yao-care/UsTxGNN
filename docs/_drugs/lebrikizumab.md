@@ -33,30 +33,27 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Lebrikizumab is an anti-IL-13 monoclonal antibody marketed in the US as EBGLYSS, used for moderate-to-severe atopic dermatitis.
-The TxGNN model predicts it may be effective for **severe nonproliferative diabetic retinopathy**, but there are **0 clinical trials** and **0 publications** supporting this direction, so it is a model prediction only.
+Lebrikizumab is an injectable monoclonal antibody against interleukin-13 (IL-13). Published studies describe it as approved in the US for moderate-to-severe atopic dermatitis.
+The TxGNN model predicts it may be effective for **severe nonproliferative diabetic retinopathy**.
+This prediction currently has **0 clinical trials** and **0 publications** supporting it, so it is a model prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Moderate-to-severe atopic dermatitis (the license records have no indication text, so this comes from the pack's mechanistic notes) |
+| Original Indication | Atopic dermatitis (taken from the published literature; the regulatory record compiled for this report has no indication text) |
 | Predicted New Indication | Severe nonproliferative diabetic retinopathy |
 | TxGNN Prediction Score | 97.94% |
-| Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 2 records (both BLA761306) |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | Cancelled only (see the caution in the market section) |
+| Number of NDAs | 1 (BLA761306) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the DrugBank field. Lebrikizumab is a high-affinity antibody that binds IL-13. It blocks IL-4Rα/IL-13Rα1 heterodimer signaling, a core pathway in type 2 inflammation.
+Currently, detailed mechanism of action data is not available in the regulatory data compiled for this report. The published literature describes lebrikizumab as a high-affinity IgG4 monoclonal antibody that binds IL-13. This prevents formation of the IL-4Rα/IL-13Rα1 receptor signaling complex, a central type 2 inflammatory pathway in atopic dermatitis.
 
-This link is weak. Diabetic retinopathy is driven mainly by VEGF, hyperglycemia-induced vascular injury, and inflammation. IL-13 is not a recognized driver, and no known mechanism connects IL-13 blockade to retinal microvascular disease. The high TxGNN score reflects a graph-based association only.
-
-Two further points limit the prediction:
-- **Route:** Lebrikizumab is a subcutaneous injection. Route compatibility with a retinal indication has not been assessed.
-- **Same-disease prediction:** The plain "diabetic retinopathy" prediction (rank 3) has no trials or publications either.
+The link to diabetic retinopathy is speculative. The only argument is that IL-13-related inflammation might contribute to retinal inflammation or vascular permeability. Atopic dermatitis is a skin disease driven by type 2 immunity, while diabetic retinopathy is mainly a microvascular complication of diabetes. No trial, publication, or mechanistic study in the compiled data connects the two. The high score should be read as a computational association, not as evidence of efficacy.
 
 ## Clinical Trial Evidence
 
@@ -70,34 +67,29 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA761306 | EBGLYSS (Eli Lilly and Company) | Injection, solution | Not listed in the record |
+| BLA761306 | EBGLYSS (Eli Lilly and Company) | Injection, solution | Not listed in the compiled data |
 
-The record appears twice with identical content.
+**Caution:** The compiled regulatory data shows this license as "cancelled" and lists no indication text. Recent publications and trial records describe lebrikizumab as FDA-approved for atopic dermatitis. This discrepancy is probably a data issue and should be checked against current FDA records before any decision relies on it.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug interactions were found in the queried data.
-
-## Other Predicted Indications (for context)
-
-| Predicted Indication | Evidence Level | Decision | Note |
-|------|------|------|------|
-| Dermatitis | L1 | Proceed with Guardrails | Label confirmation, not new repurposing. Phase 3 RCTs (ADvocate1/2, ADhere) and long-term data exist for atopic dermatitis only. Do not extend to other dermatitis subtypes without separate evidence. |
-| Psoriasis | L4 | Hold | Retrieved trials and papers concern atopic dermatitis, matched by keyword only. A 2026 case report describes lebrikizumab-induced psoriasis. |
-| Drug-induced osteoporosis, HER2-positive breast carcinoma, and 5 others | L5 | Hold | Graph prediction only, no supporting studies. |
+Please refer to the package insert for safety information. No warnings, contraindications, or drug interaction data were available in the compiled data. This gap is blocking for any further safety screening.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction, severe nonproliferative diabetic retinopathy, has only a model score. It has no trials, no literature, and no plausible IL-13 mechanism. Diabetic retinopathy is a VEGF- and vascular-driven disease.
+The prediction rests on a model score alone, with no clinical trials, no publications, and no plausible mechanistic support for retinal disease. Safety label data are also missing.
 
 **To proceed, the following is needed:**
-- Preclinical or mechanistic evidence linking IL-13 signaling to diabetic retinopathy
-- Detailed mechanism of action data from DrugBank
-- Package insert warnings and contraindications (blocking data gap DG001)
-- Route and ocular safety assessment for a retinal indication
+- A literature review of IL-13 biology in the retina and in diabetic retinopathy, followed by preclinical evidence if a rationale emerges
+- Verification of the current FDA regulatory status and approved indication for EBGLYSS
+- FDA package insert warnings and contraindications
+- Mechanism of action data from DrugBank
+- Assessment of route compatibility: an ophthalmic indication may need intravitreal delivery, but only a subcutaneous injectable is on record
+
+**Note on other predictions:** Among the other top-10 predictions, "dermatitis" (rank 5) has substantial supporting evidence, including multiple completed Phase 3 trials. This is the drug's established atopic dermatitis indication, not a true repurposing opportunity. The remaining predictions have either no evidence or only indirect evidence, and none is recommended to proceed.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

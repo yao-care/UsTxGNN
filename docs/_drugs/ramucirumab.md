@@ -29,111 +29,81 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ramucirumab: From an Unrecorded Original Indication to Uterine Ligament Adenocarcinoma
+# Ramucirumab: From Non-Small Cell Lung Cancer and Gastric Adenocarcinoma to Uterine Ligament Adenocarcinoma
 
 ## One-Sentence Summary
 
-Ramucirumab is a marketed antibody product (CYRAMZA, Eli Lilly), but the Evidence Pack does not record its original approved indication.
-The TxGNN model predicts it may be effective for **uterine ligament adenocarcinoma**, along with several rare cervical and uterine ligament adenocarcinoma subtypes.
-Currently there are **0 clinical trials** and **0 publications** supporting this prediction, so it rests on the model score alone.
-
----
+Ramucirumab is a monoclonal antibody originally used to treat solid tumours such as non-small cell lung carcinoma, gastric adenocarcinoma and hepatocellular carcinoma.
+The TxGNN model predicts it may be effective for **uterine ligament adenocarcinoma**,
+but currently there are **0 clinical trials** and **0 publications** supporting this prediction, so it rests on model prediction alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Non-small cell lung carcinoma, gastric adenocarcinoma, hepatocellular carcinoma (the data compiled for this report contains no approved-indication text from the license record) |
 | Predicted New Indication | Uterine ligament adenocarcinoma |
 | TxGNN Prediction Score | 99.95% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 2 (both entries carry the same number, BLA125477) |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only |
+| Number of NDAs | 1 (BLA125477) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Ramucirumab is generally known as a VEGFR2-blocking antibody with anti-angiogenic activity. That is background knowledge, not something the supplied data verifies. Angiogenesis is plausibly relevant to adenocarcinoma biology, which gives the prediction a possible but unconfirmed mechanistic link.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on general drug knowledge, ramucirumab is a VEGFR-2 antagonist, and its established indications (gastric adenocarcinoma, non-small cell lung cancer, hepatocellular carcinoma) are tumours in which VEGF/VEGFR-2 signalling and angiogenesis play a role. This mechanistic description is an inference and is not drawn from the supplied data.
 
-The original indication is not recorded, so the relationship between the original and new indications cannot be assessed here. The high score most likely reflects knowledge-graph proximity to related cervical and uterine carcinoma nodes rather than disease-specific evidence. This is especially likely for the rare histologies among the predictions.
+Uterine ligament adenocarcinoma is a gynaecological adenocarcinoma, so an anti-angiogenic rationale is plausible. However, no direct data were available for this entity, and the link between the original and new indications remains theoretical.
 
-The nine other top-ranked predictions all have the same evidence profile: L5, no trials, no literature.
-
-| Rank | Predicted Indication | TxGNN Score |
-|------|------|------|
-| 2 | Endocervical carcinoma | 99.95% |
-| 3 | Adenoid cystic carcinoma of the cervix uteri | 99.95% |
-| 4 | Uterine ligament serous adenocarcinoma | 99.94% |
-| 5 | Signet ring cell variant cervical mucinous adenocarcinoma | 99.94% |
-| 6 | Cervical adenosquamous carcinoma, glassy cell variant | 99.94% |
-| 7 | Uterine ligament endometrioid adenocarcinoma | 99.94% |
-| 8 | Uterine ligament clear cell adenocarcinoma | 99.94% |
-| 9 | Uterine ligament mucinous adenocarcinoma | 99.94% |
-| 10 | Intestinal variant cervical mucinous adenocarcinoma | 99.94% |
-
-Of these, endocervical carcinoma is the only one with a commonly studied anti-VEGF class rationale. That rationale comes from background knowledge, not from evidence in the pack.
-
----
+Nine other gynaecological adenocarcinoma predictions (such as endocervical carcinoma and several rare cervical and uterine ligament subtypes) received similarly high scores (99.93%–99.95%). Some of these, such as the signet ring cell and intestinal variants, share histology with gastrointestinal adenocarcinoma, which may partly explain the high scores. Histologic overlap is not evidence of efficacy.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA125477 | CYRAMZA | Solution | Eli Lilly and Company |
-
-The two license entries are identical (same number, product, form and manufacturer), so only one is listed. The approved indication text is empty in the source data.
-
----
+| BLA125477 | CYRAMZA (Eli Lilly and Company) | Solution | Not available; status: cancelled |
 
 ## Cytotoxicity
 
-Ramucirumab is an anti-angiogenic antibody and is being evaluated here for cancer indications. It is treated as an antineoplastic.
-
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (VEGFR2-blocking antibody), not a conventional cytotoxic agent |
+| Cytotoxicity Classification | Targeted therapy (monoclonal antibody against VEGFR-2) |
 | Myelosuppression Risk | Please refer to the package insert warnings and precautions |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
 | Monitoring Items | Please refer to the package insert warnings and precautions |
 | Handling Protection | Please refer to the package insert warnings and precautions |
 
----
-
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: The interaction query identified 100 interacting drugs in total; 20 were returned in the compiled data. Most are rated **Major**, and many involve bleeding risk, including:
+  - Antiplatelet and antithrombotic agents: acetylsalicylic acid, clopidogrel, cilostazol, cangrelor, abciximab, caplacizumab, defibrotide
+  - Anticoagulants and thrombolytics: apixaban, betrixaban, bivalirudin, dalteparin, antithrombin III, alteplase
+  - Others rated Major: deferasirox, and the radiolabelled agents ibritumomab tiuxetan and tositumomab
+  - Rated Moderate: dexfenfluramine, fenfluramine, sibutramine
 
----
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score (99.95%). No clinical trials or publications were found, and the evidence level is L5. Safety data, mechanism of action and original indication are all missing, so the candidate cannot move past the initial stage.
+The prediction is supported only by the TxGNN score (Evidence Level L5), with no clinical trials or publications for uterine ligament adenocarcinoma. The only US licence on record is cancelled, and warnings and contraindications are not available, so safety screening cannot proceed.
 
 **To proceed, the following is needed:**
-- The FDA package insert (warnings and contraindications), which is currently a blocking gap
-- Mechanism of action data, for example from DrugBank
-- The original approved indication text
-- A literature and trial search for ramucirumab or anti-VEGF agents in cervical and uterine adenocarcinoma
-- Route compatibility assessment (currently pending)
-- Prioritization among the ten predictions. Endocervical carcinoma is the most tractable, and the rare histologies are likely model artefacts.
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism of action data
+- Preclinical or clinical evidence in uterine ligament or related gynaecological adenocarcinomas, such as a literature and trial registry search
+- Clarification of the cancelled US licence status and current availability
+- A bleeding-risk management plan given the many major interactions with anticoagulant and antiplatelet drugs
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

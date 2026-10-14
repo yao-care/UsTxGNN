@@ -33,27 +33,31 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 ## One-Sentence Summary
 
-Nimodipine is an L-type calcium channel blocker. The Evidence Pack lists no approved indication text, but the drug is generally known for use after subarachnoid hemorrhage. The TxGNN model predicts it may be effective for **homozygous familial hypercholesterolemia**, but **0 clinical trials** and **0 publications** support this, so the prediction rests on the model score alone.
+Nimodipine is a dihydropyridine calcium channel blocker, originally used for subarachnoid hemorrhage (including aneurysmal subarachnoid hemorrhage).
+The TxGNN model predicts it may be effective for **homozygous familial hypercholesterolemia**,
+but **no clinical trials and no publications** currently support this direction, so the prediction rests on computation alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the source data. Generally known use: subarachnoid hemorrhage. |
+| Original Indication | Subarachnoid hemorrhage (including acquired aneurysmal subarachnoid hemorrhage) |
 | Predicted New Indication | Homozygous familial hypercholesterolemia |
 | TxGNN Prediction Score | 99.29% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 5 license records (1 NDA listed twice, plus 3 ANDAs) |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 4 (all cancelled; 1 NDA and 3 ANDAs) |
 | Recommended Decision | Hold |
+
+A second prediction, **nephrogenic syndrome of inappropriate antidiuresis (NSIAD)**, scored 99.05% and is also at evidence level L5 with a Hold recommendation. It is discussed briefly below.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Nimodipine is a dihydropyridine L-type calcium channel blocker, and this class acts mainly on vascular smooth muscle.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, nimodipine is an L-type calcium channel blocker of the dihydropyridine class, used for its effects on cerebral blood vessels in subarachnoid hemorrhage.
 
-The link to the new indication is weak. Homozygous familial hypercholesterolemia is caused by loss of LDL receptor function, which leaves LDL cholesterol very high. Calcium channel blockade has no established effect on this defect. A vascular or anti-atherosclerotic effect seen in preclinical models is possible, but it is speculative and would not correct the LDL problem. Effective treatments (statins, PCSK9 inhibitors, lomitapide, evinacumab, LDL apheresis) act through different pathways.
+**Homozygous familial hypercholesterolemia (HoFH)** is caused by defects in the LDL receptor pathway (LDLR, APOB, PCSK9, LDLRAP1), which impair LDL clearance. No established mechanistic link to calcium channel blockade exists. Some calcium channel blockers have been reported in preclinical settings to have minor effects on vascular lipid deposition or atherosclerosis progression. This is indirect and does not address the primary defect. The high TxGNN score is a computational output only and should not be read as evidence of efficacy.
 
-The high score (0.993) most likely reflects graph-based associations in the knowledge network rather than a demonstrated biological mechanism. The model's second prediction, nephrogenic syndrome of inappropriate antidiuresis (score 99.05%), is similarly unsupported. It is driven by AVPR2 gain-of-function mutations, and nimodipine has no established action on that receptor.
+**Second prediction, NSIAD:** This condition arises from gain-of-function mutations in the vasopressin V2 receptor (AVPR2), causing water retention independent of vasopressin. Nimodipine's calcium channel blockade has no direct connection to the V2 receptor signaling pathway (Gs-cAMP-AQP2). Any link, such as calcium modulation affecting aquaporin-2 trafficking, would be speculative. Nimodipine's blood-pressure-lowering effect also raises additional safety questions in a renal/electrolyte disorder.
 
 ## Clinical Trial Evidence
 
@@ -67,30 +71,36 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA203340 | Nymalize (Azurity Pharmaceuticals) | Solution | Not listed in source data (two records) |
-| ANDA216937 | Nimodipine (Camber Pharmaceuticals) | Solution | Not listed in source data |
-| ANDA076740 | Nimodipine (Bionpharma) | Capsule, liquid filled | Not listed in source data |
-| ANDA077811 | Nimodipine (Heritage / Avet Pharmaceuticals) | Capsule, liquid filled | Not listed in source data |
+| ANDA216937 | Nimodipine (Camber Pharmaceuticals) | Solution | Not specified; status cancelled |
+| ANDA076740 | Nimodipine (Bionpharma) | Capsule, liquid filled | Not specified; status cancelled |
+| NDA203340 | Nymalize (Azurity Pharmaceuticals) | Solution | Not specified; status cancelled |
+| ANDA077811 | Nimodipine (Heritage/Avet Pharmaceuticals) | Capsule, liquid filled | Not specified; status cancelled |
+
+Available dosage forms are an oral liquid-filled capsule and a solution. Route compatibility with the predicted indications has not been assessed.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+**Contraindications / cautions from the knowledge graph** (drug-disease edges, not label text): liver disease, gallbladder disease, hypotensive disorder.
+
+**Drug Interactions:** 100 interactions were identified. Those listed below are from the first 20 records.
+- **Major:** clarithromycin, dolasetron
+- **Moderate (examples):** bupropion, aprepitant, morphine, acetylsalicylic acid, cimetidine, miconazole, magnesium sulfate, canagliflozin, dapagliflozin, empagliflozin, kanamycin, neomycin, and several calcium salts (carbonate, chloride, acetate, phosphate)
+
+Please refer to the package insert for key warnings and formal contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The only support is a model score. There are no trials or publications, and there is no plausible mechanistic link between L-type calcium channel blockade and the LDL receptor defect. Established therapies already target the disease pathway directly.
+Both predictions have only a computational basis (L5), with no clinical trials or literature. Neither has a plausible mechanistic link to nimodipine's calcium channel blockade. All US licenses are cancelled, and the safety profile (hypotension risk, liver disease caution, major interactions with CYP3A4 inhibitors such as clarithromycin) adds further caution.
 
 **To proceed, the following is needed:**
-- The approved indications and mechanism of action from the package insert and DrugBank
-- The FDA package insert warnings and contraindications, needed for safety screening
-- Preclinical or mechanistic evidence linking nimodipine to lipid metabolism or LDL receptor pathways
-- Literature and trial searches on nimodipine in familial hypercholesterolemia
-- Route compatibility and comparison against current standard therapies
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism of action data
+- Preclinical or mechanistic evidence linking calcium channel blockade to LDL metabolism (HoFH) or to V2 receptor/aquaporin-2 signaling (NSIAD)
+- A systematic literature and trial search for either indication
+- Route and formulation compatibility assessment
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

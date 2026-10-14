@@ -29,62 +29,88 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-# Telavancin: From Antibacterial Therapy to Hyperamylasemia
+# Telavancin: From Bacterial Pneumonia to Hyperamylasemia
 
 ## One-Sentence Summary
 
-Telavancin is a lipoglycopeptide antibiotic marketed in the US as VIBATIV, an injectable product. The TxGNN model predicts it may be effective for **hyperamylasemia**, but **no clinical trials and no publications** support this prediction. It rests on a graph-based score alone.
+Telavancin is a lipoglycopeptide antibiotic originally used to treat bacterial pneumonia, including *Staphylococcus aureus* pneumonia.
+The TxGNN model predicts it may be effective for **Hyperamylasemia**, but **no clinical trials and no publications** currently support this prediction.
+The high score appears to be a knowledge-graph artifact rather than a biologically grounded signal.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the record (telavancin is an antibacterial) |
+| Original Indication | Bacterial pneumonia; *Staphylococcus aureus* pneumonia |
 | Predicted New Indication | Hyperamylasemia |
 | TxGNN Prediction Score | 99.63% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
+| US Market Status | Cancelled only (no active license) |
 | Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
+---
+
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the record. Telavancin is a lipoglycopeptide antibiotic that inhibits bacterial cell wall synthesis and depolarizes the bacterial membrane. Nothing in the data connects this to amylase regulation.
+Currently, detailed mechanism of action data is not available. Based on known information, telavancin is a lipoglycopeptide antibiotic that inhibits bacterial cell wall synthesis and disrupts bacterial membrane integrity. Its efficacy is established for Gram-positive bacterial infections.
 
-Hyperamylasemia is elevated blood amylase, a laboratory finding usually tied to pancreatic or salivary gland conditions. It has no evident relationship to an antibacterial's original use. The high score most likely reflects a pattern in the knowledge graph, not established biology. For this reason, no plausible mechanistic link can be drawn.
+For hyperamylasemia, a credible mechanistic link is **not apparent**. Hyperamylasemia is a laboratory finding, usually tied to pancreatic or salivary gland pathology, and is not a condition an antibiotic would treat. The high TxGNN score (0.996) most likely reflects graph proximity in the knowledge graph rather than true biological relevance. Telavancin's known toxicity profile (nephrotoxicity, QT prolongation) also makes it a poor fit for this use.
 
-The same holds for the other eight predictions in this record, such as polyclonal hyperviscosity syndrome, congenital analbuminemia and monoclonal gammopathy. All are L5 with no trials or literature. The only one with a nominal anti-infective rationale is septicemic plague, but the fit is weak. *Yersinia pestis* is Gram-negative and its outer membrane is not readily penetrated by glycopeptides. Established plague therapies also already exist.
+Other predictions generated for this drug show the same pattern. Eight of nine have no plausible mechanism (e.g., polyclonal hyperviscosity syndrome, congenital analbuminemia, blood group incompatibility, monoclonal gammopathy). The one exception is **septicemic plague** (score 99.48%, evidence level L4), which has an anti-infective rationale. However, *Yersinia pestis* is Gram-negative, and glycopeptides penetrate the Gram-negative outer membrane poorly. Established agents (streptomycin, gentamicin, doxycycline, fluoroquinolones) remain the standard of care, and no data on *Y. pestis* were available.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
 Currently no related literature available.
+
+---
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA022110 | VIBATIV (Cumberland Pharmaceuticals Inc.) | Injection, powder, lyophilized, for solution | Not listed in the record |
+| NDA022110 | VIBATIV (Cumberland Pharmaceuticals Inc.) | Injection, powder, lyophilized, for solution | Not listed (license status: cancelled) |
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug interactions were found in the queried data.
+- **Disease-level contraindication signals (knowledge graph, not label text):** Hypertensive disorder, hypertension, long QT syndrome, familial long QT syndrome, torsades de pointes, kidney disease, impaired renal function disease, pyoureter, diabetes mellitus, diabetic ketoacidosis, *Clostridium difficile* colitis, and perinatal necrotizing enterocolitis.
+- **Drug Interactions:** 100 interactions were identified in total. The listed examples include:
+  - **Major:** Dolasetron
+  - **Moderate:** Ondansetron, Palonosetron, Clarithromycin, Levofloxacin, Famotidine, Loperamide
+  - **Moderate (laxatives and bowel preparations):** Bisacodyl, Picosulfuric acid, Lactulose, Lactitol, Polyethylene glycol, Sodium sulfate, Castor oil
+  - **Moderate (aminosalicylates):** Mesalazine, Balsalazide, Olsalazine, Sulfasalazine
+  - **Minor:** Metronidazole
+
+  Many of these interactions involve QT-prolonging or electrolyte-altering agents, which is consistent with the QT-related signals above.
+
+Please refer to the package insert for label warnings and contraindications.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is model-only (L5), with no trials, no literature and no plausible mechanistic link between a cell wall-targeting antibiotic and elevated amylase. Safety information is also missing, so the candidate cannot move past initial screening.
+- The prediction rests on model score alone (L5), with no clinical trials or literature. Hyperamylasemia is a laboratory finding rather than a treatable disease, and no mechanistic link to telavancin exists. The drug's nephrotoxicity and QT-prolongation risks add to the unfavorable risk-benefit picture. The US license is also cancelled.
 
 **To proceed, the following is needed:**
-- The FDA package insert (warnings and contraindications), which currently blocks safety screening
-- Mechanism of action data from DrugBank
-- Any preclinical or clinical signal linking telavancin to amylase changes
-- A route-compatibility check, which has not yet been done
+- Detailed mechanism of action data (MOA)
+- FDA package insert warnings and contraindications
+- Any preclinical or clinical evidence linking telavancin to hyperamylasemia (none currently exists)
+- If pursuing the only anti-infective candidate (septicemic plague): in vitro and in vivo activity data against *Yersinia pestis*, and a comparison against current standard-of-care agents
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

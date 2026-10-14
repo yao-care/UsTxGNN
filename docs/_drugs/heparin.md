@@ -29,30 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Heparin: From Anticoagulant Therapy to Thrombophilia due to Protein C Deficiency (Autosomal Recessive)
+# Heparin: From Pulmonary Embolism to Protein C Deficiency Thrombophilia
 
 ## One-Sentence Summary
 
-Heparin is an injectable anticoagulant that is widely marketed in the United States. The TxGNN model predicts it may be relevant for **thrombophilia due to protein C deficiency, autosomal recessive**, with a score of 99.29%. There are currently **0 clinical trials** and **0 publications** supporting this specific prediction, so it is a computational prediction only.
+Heparin is an injectable anticoagulant, originally used for pulmonary embolism, disseminated intravascular coagulation, and purpura fulminans.
+The TxGNN model predicts it may be effective for **thrombophilia due to protein C deficiency (autosomal recessive)**,
+but **no clinical trials and no publications** currently support this prediction, so it rests on computational prediction alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Pulmonary embolism, disseminated intravascular coagulation, purpura fulminans (the US label text was not available in the compiled data) |
 | Predicted New Indication | Thrombophilia due to protein C deficiency, autosomal recessive |
 | TxGNN Prediction Score | 99.29% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (NDA and ANDA licenses combined) |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 13 (all cancelled; includes both NDAs and ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the supplied record. Based on general pharmacology, heparin potentiates antithrombin and thereby inhibits thrombin and factor Xa. Its anticoagulant effect has been established in other thrombotic settings, and mechanistically it may be applicable to a hypercoagulable state.
+Currently, detailed mechanism of action data is not available in the compiled data. Based on general pharmacology, heparin potentiates antithrombin-mediated inhibition of thrombin and factor Xa. This could plausibly offset the hypercoagulable state caused by protein C deficiency.
 
-Protein C deficiency is an inherited thrombophilia in which the natural anticoagulant pathway is impaired. This is a plausible conceptual link to an anticoagulant. Heparin may already be used as standard anticoagulation for acute thrombosis in this condition. The supplied data does not show this, and it should be checked against clinical guidelines before any repurposing claim is made.
+The link to the original indications is biologically coherent. Heparin is already used in purpura fulminans, a severe manifestation of homozygous protein C deficiency, so the predicted indication is closely related to an existing use.
 
-The high TxGNN score is a computational signal. No trials, literature, or recorded original indication support it in this evidence pack.
+However, there are no clinical trials or publications for this specific indication. The high TxGNN score is a computational prediction only. Standard care for severe congenital protein C deficiency relies on protein C concentrate plus anticoagulation, and the available data do not allow an independent assessment of heparin's role.
 
 ## Clinical Trial Evidence
 
@@ -64,34 +67,39 @@ Currently no related literature available.
 
 ## US Market Information
 
-The following are 5 of the 20 listed authorizations. All are injectable products. The record does not include approved indication text.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA090808 | Heparin Sodium (Sagent Pharmaceuticals) | Injection, solution | Not available (cancelled) |
+| NDA018916 | Heparin Sodium (Hospira, Inc.) | Injection, solution | Not available (cancelled) |
+| NDA019953 | Heparin Sodium in Sodium Chloride (B. Braun Medical Inc.) | Injection | Not available (cancelled) |
+| NDA017037 | Heparin Sodium (Hikma Pharmaceuticals USA Inc.) | Injection | Not available (cancelled) |
+| NDA018609 | Heparin Sodium in Sodium Chloride (Baxter Healthcare Corporation) | Injection, solution | Not available (cancelled) |
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|------|
-| ANDA090808 | Heparin Sodium | Injection, solution | Sagent Pharmaceuticals |
-| NDA018916 | Heparin Sodium | Injection, solution | Hospira, Inc. |
-| ANDA214839 | Heparin Sodium | Injection, solution | BE Pharmaceuticals Inc. |
-| NDA019953 | Heparin Sodium in Sodium Chloride | Injection | B. Braun Medical Inc. |
-| NDA017029 | Heparin Sodium | Injection, solution | Henry Schein, Inc. |
+Of the 13 authorizations listed, all are cancelled and none is currently valid. Only 5 are shown here.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindications (from knowledge-graph drug-disease edges, not label text):** liver failure, hematologic disease, thrombocytopenia, heparin-induced thrombocytopenia, blood coagulation disease, hemophilia, antithrombin III deficiency, Glanzmann thrombasthenia, qualitative platelet defect, intracranial or intracerebral hemorrhage, placental abruption, active peptic ulcer disease, ulcerative colitis, inflammatory bowel disease, biliary tract disease, obstructive jaundice, infective endocarditis, diabetic and hypertensive retinopathy, retinal disease, osteoporosis, and arteriosclerosis obliterans.
+- **Drug Interactions:** 100 interactions were identified. Those listed as moderate include acetylsalicylic acid, the sulfonylureas (chlorpropamide, glimepiride, glipizide, glyburide, tolazamide, tolbutamide, acetohexamide), the meglitinides (repaglinide, nateglinide), and the weight-loss agents fenfluramine, dexfenfluramine, and sibutramine. Others (levocarnitine, mannitol, calcitriol, vitamin A, pantoprazole, mesalazine, doxycycline) have unknown severity.
+
+Official label warnings and contraindications were not available in the compiled data. Please refer to the package insert for authoritative safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a high model score and a plausible anticoagulant rationale. However, there are no clinical trials or publications for this indication, and no original indication or mechanism data is recorded. Evidence is at L5 and cannot support advancing.
+The prediction is mechanistically plausible and close to heparin's existing use in purpura fulminans. However, there are no trials or publications for this indication, the evidence level is L5, and all US heparin licenses are cancelled. The label safety review is also incomplete.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (blocking item for safety screening)
-- Mechanism of action data, for example from DrugBank
-- A guideline and literature check on current heparin use in protein C deficiency, to separate true repurposing from existing standard care
-- Route and dosing compatibility assessment for this indication
+- Download and review the FDA package insert for warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism of action data from DrugBank
+- A targeted literature search on heparin in congenital protein C deficiency and purpura fulminans, compared with protein C concentrate
+- Confirmation of the current US market and licensing status, since all listed licenses are cancelled
 
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+---
+
+**Note on the second predicted indication (primary release disorder of platelets, score 99.06%):** This is not recommended (Hold, L5). Heparin is an anticoagulant that increases bleeding risk and can cause heparin-induced thrombocytopenia. The 20 associated publications are indirect (cirrhosis coagulation, HIT, cancer-associated VTE) and none evaluates heparin as a treatment for this disorder. The high score is likely an artifact of shared coagulation and platelet terms in the knowledge graph.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

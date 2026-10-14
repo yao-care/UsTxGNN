@@ -29,36 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-# Ocrelizumab: From Multiple Sclerosis to HER2-Positive Breast Carcinoma
+# Ocrelizumab: From Progressive Multiple Sclerosis to HER2-Positive Breast Carcinoma
 
 ## One-Sentence Summary
 
-Ocrelizumab is an anti-CD20 monoclonal antibody that depletes B cells and is marketed in the US for multiple sclerosis.
-The TxGNN model predicts it may be effective for **HER2 positive breast carcinoma**,
-but there are currently **0 clinical trials** and **0 relevant publications** supporting this direction, so the prediction rests on the model alone.
+Ocrelizumab is an anti-CD20 antibody originally used to treat progressive multiple sclerosis.
+The TxGNN model predicts it may be effective for **HER2-positive breast carcinoma**,
+but there are currently **0 clinical trials** and **0 publications** that specifically support this indication.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Multiple sclerosis (the license records provide no indication text) |
-| Predicted New Indication | HER2 positive breast carcinoma |
+| Original Indication | Progressive multiple sclerosis |
+| Predicted New Indication | HER2-positive breast carcinoma |
 | TxGNN Prediction Score | 99.89% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 2 (both are BLAs) |
+| US Market Status | Cancelled only |
+| Number of NDAs | 2 (BLA records) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Ocrelizumab is a CD20-directed antibody that depletes B cells, and its efficacy in multiple sclerosis is established. Mechanistically, however, there is no clear reason for it to apply to breast cancer.
+Currently, detailed mechanism of action data is not available. Based on known information, ocrelizumab is a humanized anti-CD20 monoclonal antibody that depletes CD20-expressing B cells. Its efficacy in multiple sclerosis is well established. The publications compiled for this report describe B-cell depletion as the basis of its action in that disease.
 
-Breast carcinoma cells generally do not express CD20, so there is no direct target rationale. Any link would be indirect, for example through tumour-infiltrating B cells, and nothing in the provided evidence supports it.
+The data compiled for this report do not support a mechanistic link to HER2-positive breast carcinoma. HER2-driven tumour biology is not obviously connected to CD20-mediated B-cell depletion. The high TxGNN score (99.89%) is a computational prediction only, and no trials or publications back it.
 
-The high score (0.9989) is a graph-based signal only. The same pattern appears in the other four predicted breast cancer subtypes:
-
-- **Progesterone-receptor positive and normal breast-like subtypes:** both have an identical score (0.99813), which suggests one shared graph-neighbourhood signal rather than independent evidence.
-- **Luminal A/B and progesterone-receptor negative subtypes:** none has any supporting clinical trial, and the only literature retrieved (for luminal A/B) is irrelevant.
+The other top-ranked predictions are also breast cancer subtypes: progesterone-receptor positive (99.81%), normal breast-like subtype (99.81%), luminal A or B (99.81%) and progesterone-receptor negative (99.80%). The first two share an identical score, which suggests they come from the same knowledge-graph neighbourhood rather than independent evidence. Hormone-receptor signalling is not a known target of anti-CD20 therapy.
 
 ## Clinical Trial Evidence
 
@@ -66,38 +63,54 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available for the top prediction.
+Currently no related literature available for HER2-positive breast carcinoma.
 
-For the fourth-ranked prediction (breast tumor luminal A or B), 19 articles were retrieved. They appear to be keyword-matching noise on the letter "B" (B-cell biology, hepatitis B vaccines, HLA-B alleles, bacteriochlorophyll b). None concern ocrelizumab, anti-CD20 therapy or breast cancer, so they were not counted as evidence.
+For the fourth-ranked prediction (luminal A or B breast tumour), the search returned 18 publications (the 10 listed below are the most relevant to the drug). All concern multiple sclerosis or general B-cell and autoimmune topics, and none evaluates ocrelizumab in breast cancer. They appear to have been retrieved by drug name only and **should not be counted as supporting evidence** for any breast cancer indication.
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [28002688](https://pubmed.ncbi.nlm.nih.gov/28002688/) | 2017 | RCT (MS) | N Engl J Med | Ocrelizumab vs placebo in primary progressive MS (ORATORIO) |
+| [28002679](https://pubmed.ncbi.nlm.nih.gov/28002679/) | 2017 | RCT (MS) | N Engl J Med | Ocrelizumab vs interferon beta-1a in relapsing MS (OPERA I/II) |
+| [40245351](https://pubmed.ncbi.nlm.nih.gov/40245351/) | 2025 | RCT (MS) | Neurology | Phase 3 OCARINA II: subcutaneous vs IV ocrelizumab exposure in MS |
+| [22047971](https://pubmed.ncbi.nlm.nih.gov/22047971/) | 2011 | RCT (MS) | Lancet | Phase 2 placebo-controlled trial in relapsing-remitting MS |
+| [37307006](https://pubmed.ncbi.nlm.nih.gov/37307006/) | 2023 | Cohort | JAMA Neurol | Rituximab vs ocrelizumab in relapsing-remitting MS |
+| [35192158](https://pubmed.ncbi.nlm.nih.gov/35192158/) | 2022 | Review | Drugs | Review of ocrelizumab in MS |
+| [37033984](https://pubmed.ncbi.nlm.nih.gov/37033984/) | 2023 | Review | Front Immunol | Anti-CD20 therapies in MS, from pathology to clinic |
+| [35176351](https://pubmed.ncbi.nlm.nih.gov/35176351/) | 2022 | Review/Guidance | J Allergy Clin Immunol | Diagnosis and management of secondary hypogammaglobulinemia |
+| [38642912](https://pubmed.ncbi.nlm.nih.gov/38642912/) | 2024 | Review | Clin Exp Immunol | B- and T-cell collaboration in autoimmune disease: T-cell engagers vs CAR T |
+| [39339212](https://pubmed.ncbi.nlm.nih.gov/39339212/) | 2024 | Review | Pharmaceutics | Biologics in systemic lupus erythematosus |
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form |
-|---------|------|------|
-| BLA761053 | OCREVUS | Injection |
-| BLA761371 | Ocrevus Zunovo | Injection, solution |
-
-Both products are marketed by Genentech, Inc. The approved indication text was not provided in the records.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| BLA761053 | OCREVUS (Genentech, Inc.) | Injection | Status: cancelled |
+| BLA761371 | Ocrevus Zunovo (Genentech, Inc.) | Injection, solution | Status: cancelled |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: 100 interactions were identified. The ones listed are mostly Moderate.
+  - Corticosteroids (Moderate): hydrocortisone, triamcinolone (including ophthalmic), dexamethasone, betamethasone, budesonide, prednisolone, prednisone.
+  - Radiopharmaceuticals and radioimmunotherapies (Moderate): iobenguane (I-131), ibritumomab tiuxetan, tositumomab (including I-131), samarium (153Sm) lexidronam.
+  - Anti-infectives (Moderate): albendazole, pentamidine, levamisole.
+  - Zinc salts (Minor): sulfate, acetate, gluconate, chloride.
+- **Related literature note**: One review in the compiled literature covers secondary hypogammaglobulinemia, a known concern with B-cell-depleting immunosuppressive therapy.
+
+For key warnings and contraindications, please refer to the package insert.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical, literature or clear mechanistic support (Evidence Level L5, stage S0). Breast carcinoma generally lacks the CD20 target, so the high model score alone does not justify moving forward.
+The prediction rests on a model score alone (Evidence Level L5). There are no clinical trials or breast-cancer-specific publications, and no supported mechanistic link between CD20 B-cell depletion and HER2-positive breast carcinoma. All US licences for the drug are also listed as cancelled.
 
 **To proceed, the following is needed:**
-- Mechanism of action data (MOA) from DrugBank
-- The US package insert (warnings and contraindications), which is required before any safety screening
-- Evidence that CD20-positive B cells or tumour-infiltrating B cells play a role in HER2-positive breast cancer, such as preclinical or translational studies
-- A re-run of the literature search with drug-specific terms (ocrelizumab, anti-CD20 and breast cancer) to replace the noisy results
-- Route compatibility assessment, currently pending
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- A mechanistic rationale connecting CD20-targeted B-cell depletion to HER2-positive breast cancer, for example the role of tumour-infiltrating B cells
+- Preclinical or early-phase clinical evidence in breast cancer
+- Clarification of the current US marketing status, since both BLA records show as cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

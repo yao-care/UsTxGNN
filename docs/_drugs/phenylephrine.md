@@ -29,13 +29,13 @@ Evidence Level: **L3** | Predicted Indications: **3**
 
 </div>
 
-# Phenylephrine: From Marketed Use to Nasal Cavity Disease
+# Phenylephrine: From Allergic Rhinitis and Nasal Congestion to Nasal Cavity Disease
 
 ## One-Sentence Summary
 
-Phenylephrine is a marketed drug in the US, sold as injections, a nasal spray, and other forms.
-The TxGNN model predicts it may be relevant to **nasal cavity disease**, but the current evidence is mostly indirect: **8 clinical trials** (none testing phenylephrine alone as the studied intervention) and **8 publications**, of which only one RCT is directly relevant, and it tested a combination product.
-The prediction largely mirrors existing marketed use as a topical decongestant, so it is not a clear novel repurposing signal.
+Phenylephrine is an alpha-1 adrenergic agonist originally used for nasal and upper-airway conditions such as allergic rhinitis, vasomotor rhinitis, the common cold and pharyngitis, as well as for several eye and rectal conditions.
+The TxGNN model predicts it may be effective for **nasal cavity disease**, with **no registered clinical trials** and **5 publications** (mostly reviews, indirect or safety-related reports) currently supporting this direction.
+This is largely an extension of existing indications, and the evidence is still at the research-question stage.
 
 ---
 
@@ -43,39 +43,29 @@ The prediction largely mirrors existing marketed use as a topical decongestant, 
 
 | Item | Content |
 |------|------|
+| Original Indication | Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold, rhinitis, nasopharyngitis and others (the US license records contain no indication text, so this list comes from the knowledge graph) |
 | Predicted New Indication | Nasal cavity disease |
 | TxGNN Prediction Score | 99.97% |
 | Evidence Level | L3 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (the sample listed below consists of ANDAs and an OTC monograph product) |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 12 (all cancelled) |
 | Recommended Decision | Hold |
-
-The approved-indication text is not available in the input, so the original indication is not shown.
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available. Phenylephrine is generally understood as an alpha-1 adrenergic agonist. It constricts mucosal blood vessels, which reduces nasal congestion and bleeding and improves visualization of the surgical field. That is biologically coherent with nasal cavity disease.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, phenylephrine is an alpha-1 adrenergic agonist. It constricts the blood vessels of the nasal mucosa, which reduces swelling, congestion and bleeding.
 
-The prediction is closely tied to phenylephrine's existing use as a topical decongestant. It is also a component of combination sprays such as co-phenylcaine (lidocaine plus phenylephrine) and Polydexa with phenylephrine (dexamethasone, neomycin, polymyxin B, and phenylephrine). Because the original indications are missing from the input, novelty cannot be confirmed.
+This is consistent with its existing uses in rhinitis and nasopharyngitis. "Nasal cavity disease" is a broad category that largely overlaps with these indications, so the prediction is more of an extension than a new therapeutic area.
 
-No trial in the set tests phenylephrine alone with a disease-modifying endpoint. The only Phase 3 trial (NCT06443255) tests cocaine and lidocaine/xylometazoline, not phenylephrine.
+The literature points to two kinds of use: topical phenylephrine-containing nasal sprays (such as Polydexa with phenylephrine) in inflammatory nasal disease, and surgical-field control during endoscopic sinus surgery. Only abstracts or titles were available, so study designs and results cannot be fully confirmed.
 
 ---
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT03380715](https://clinicaltrials.gov/study/NCT03380715) | N/A | Completed | 106 | Co-phenylcaine (lidocaine + phenylephrine) nasal spray vs nebulization before rigid nasoendoscopy. This is the most relevant trial, but the endpoint is procedural comfort and the product is a combination. |
-| [NCT03228914](https://clinicaltrials.gov/study/NCT03228914) | Phase 4 | Completed | 20 | Topical 0.05% oxymetazoline vs 1:1000 epinephrine before endoscopic sinus surgery, measuring blood loss and visualization. Phenylephrine is not the stated comparator, so relevance is unverified. |
-| [NCT06443255](https://clinicaltrials.gov/study/NCT06443255) | Phase 3 | Completed | 16 | Cocaine vs lidocaine/xylometazoline vs saline for intranasal analgesia. No phenylephrine. |
-| [NCT00562120](https://clinicaltrials.gov/study/NCT00562120) | Phase 2 | Completed | 21 | Randomized, double-blind crossover study of an H3 antagonist on congestion after nasal allergen challenge. Phenylephrine involvement is not confirmed. |
-| [NCT06457100](https://clinicaltrials.gov/study/NCT06457100) | Phase 1/2 | Active, not recruiting | 60 | IV esmolol vs lidocaine infusion for recovery quality after functional endoscopic sinus surgery. Phenylephrine is not the tested agent. |
-| [NCT03962634](https://clinicaltrials.gov/study/NCT03962634) | Phase 2 | Terminated | 3 | Kovanaze (tetracaine + oxymetazoline) nasal mist vs articaine for maxillary dental anesthesia. No phenylephrine. |
-| [NCT04104789](https://clinicaltrials.gov/study/NCT04104789) | Phase 2 | Withdrawn | 0 | Duplicate Kovanaze vs articaine design. No participants enrolled. |
-| [NCT02993770](https://clinicaltrials.gov/study/NCT02993770) | N/A | Unknown | 120 | Endonasal vs external dacryocystorhinostomy. A surgical technique comparison; any topical vasoconstrictor use is incidental. |
+Currently no related clinical trials registered.
 
 ---
 
@@ -83,36 +73,37 @@ No trial in the set tests phenylephrine alone with a disease-modifying endpoint.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [15854186](https://pubmed.ncbi.nlm.nih.gov/15854186/) | 2005 | RCT | Int J Clin Pract | Co-phenylcaine spray vs placebo before flexible nasendoscopy in 98 patients. Pain and discomfort were minimal in both groups, with no significant difference. |
-| [25133491](https://pubmed.ncbi.nlm.nih.gov/25133491/) | 2014 | RCT | PLoS One | Topical tranexamic acid and bleeding during sinus surgery in chronic rhinosinusitis. Phenylephrine is not the tested agent. |
-| [40899890](https://pubmed.ncbi.nlm.nih.gov/40899890/) | 2025 | Experimental/clinical | Vestn Otorinolaringol | Experimental and clinical safety and efficacy of Polydexa spray with phenylephrine in acute rhinosinusitis. |
-| [37970776](https://pubmed.ncbi.nlm.nih.gov/37970776/) | 2023 | Review | Vestn Otorinolaringol | Pathogenetic approach to treating inflammatory diseases of the nose and paranasal sinuses. |
-| [37184554](https://pubmed.ncbi.nlm.nih.gov/37184554/) | 2023 | Cohort | Vestn Otorinolaringol | Endoscopic state of the nasal mucosa after Polydexa spray with phenylephrine, used for chronic nasal cavity disease and granulomatosis with polyangiitis. |
-| [9780066](https://pubmed.ncbi.nlm.nih.gov/9780066/) | 1998 | Cohort | Int J Pediatr Otorhinolaryngol | Acoustic rhinometry of the nasal cavity and nasopharynx after adenoidectomy and tonsillectomy. |
-| [7378007](https://pubmed.ncbi.nlm.nih.gov/7378007/) | 1980 | Case report | Arch Ophthalmol | Cocaine toxicity during dacryocystorhinostomy; one patient also had a reaction to intranasal phenylephrine. |
-| [1375136](https://pubmed.ncbi.nlm.nih.gov/1375136/) | 1992 | In vitro | Clin Otolaryngol | Effects of drugs used in nasal disease on ciliary beat frequency in vitro. |
+| [40899890](https://pubmed.ncbi.nlm.nih.gov/40899890/) | 2025 | Experimental and clinical evaluation (design unconfirmed) | Vestnik otorinolaringologii | Safety and efficacy of Polydexa spray with phenylephrine in acute rhinosinusitis; no toxic effects data previously reported |
+| [37970776](https://pubmed.ncbi.nlm.nih.gov/37970776/) | 2023 | Review | Vestnik otorinolaringologii | Pathogenesis-based treatment of inflammatory nose and sinus diseases; drugs should reduce hyperemia, swelling and mucus |
+| [37184554](https://pubmed.ncbi.nlm.nih.gov/37184554/) | 2023 | Review/Clinical (diagnostic) | Vestnik otorinolaringologii | Endoscopic assessment of the nasal mucosa after local anti-inflammatory and antibacterial therapy, including Polydexa with phenylephrine |
+| [25133491](https://pubmed.ncbi.nlm.nih.gov/25133491/) | 2014 | Randomized clinical trial (triple-blind) | PloS one | Topical tranexamic acid and bleeding during endoscopic sinus surgery; phenylephrine relevance is indirect |
+| [7378007](https://pubmed.ncbi.nlm.nih.gov/7378007/) | 1980 | Case report | Archives of ophthalmology | Toxicity after intranasal cocaine, with an additional reaction to intranasal phenylephrine; caution in hypertensive cardiovascular disease (safety-related, indirect) |
 
 ---
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| ANDA211078 | Phenylephrine hydrochloride | Injection | Amneal Pharmaceuticals LLC |
-| ANDA213318 | Phenylephrine hydrochloride | Injection | Armas Pharmaceuticals Inc. |
-| ANDA213318 | Phenylephrine hydrochloride | Injection | Somerset Therapeutics, LLC |
-| ANDA213318 | Phenylephrine hydrochloride | Injection | Somerset Therapeutics, LLC |
-| part341 | CVS Health Four Actions Nasal Decongestant | Spray | CVS Pharmacy, Inc. |
+All 12 US authorizations are cancelled. The records contain no approved-indication text. Main entries:
 
-Other dosage forms on the US market include solution/drops and film-coated tablets. Approved-indication text is not available in the input.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA207926 | Phenylephrine Hydrochloride (Alcon Laboratories) | Solution/drops | Not recorded |
+| ANDA218129 | Phenylephrine Hydrochloride (Dr. Reddy's) | Solution/drops | Not recorded |
+| part341 | CVS Health Four Actions Nasal Decongestant | Spray | Not recorded |
+| M012 | Sinus Pressure and Congestion Relief PE (Rite Aid) | Tablet, film coated | Not recorded |
+| ANDA211078 | Phenylephrine hydrochloride (Amneal) | Injection | Not recorded |
+
+The remaining authorizations are injectable generics.
 
 ---
 
 ## Safety Considerations
 
-- **Literature signal**: A 1980 case report (PMID 7378007) describes a reaction to intranasal phenylephrine in a patient who also received intranasal cocaine. The authors caution that sympathomimetic and alpha-modifying drugs are dangerous in patients with hypertensive cardiovascular disease.
+- **Contraindication signals from the knowledge graph (not label text)**: hypertension and hypertensive disorders, liver failure and liver disease, kidney disease, epilepsy, chronic obstructive pulmonary disease, peptic ulcer and gastric ulcer, pancreatitis, hypothyroidism, adrenocortical insufficiency, porphyria, thrombocytopenia, inflammatory bowel disease, and psychotic disorders, among others.
+- **Drug Interactions** (100 interactions found; the 20 listed are all Moderate): antidiabetic drugs (acarbose, glimepiride, glipizide, glyburide, chlorpropamide, acetohexamide, insulin human, insulin aspart), SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin), GLP-1 and DPP-4 agents (albiglutide, dulaglutide, exenatide, alogliptin), anticholinergics (atropine ophthalmic, clidinium, hyoscyamine), and diethylpropion.
+- **Literature signal**: a case report describes toxicity with intranasal use alongside cocaine, and cautions against use in hypertensive cardiovascular disease or together with other sympathomimetics.
 
-No drug interaction data were found for this drug. For other safety information, please refer to the package insert.
+Please refer to the package insert for label warnings and contraindications, which were not available in the compiled data.
 
 ---
 
@@ -121,17 +112,21 @@ No drug interaction data were found for this drug. For other safety information,
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is very high (99.97%), but the direct evidence is limited to one combination-product RCT and procedural or comparator use. No trial shows phenylephrine alone improving a disease-modifying endpoint in nasal cavity disease, and novelty over existing marketed use is unconfirmed. Safety screening cannot proceed without package insert data.
+The predicted indication largely overlaps with existing rhinitis and nasopharyngitis uses and is mechanistically plausible. However, there are no registered clinical trials, the literature is mostly reviews or indirect studies (L3), and all US licenses are cancelled. Label safety data are also missing.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (blocking for safety screening)
-- Mechanism of action data and the original approved indications, to assess novelty
-- Manual review of NCT00562120 and NCT03228914 to confirm whether phenylephrine is actually the tested or comparator agent
-- Trials with phenylephrine alone as the tested intervention and a disease-relevant endpoint in nasal cavity disease
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- Full texts of the key nasal-spray studies to confirm design, comparators and outcomes
+- A clearly defined nasal cavity disease subtype and a route and formulation plan (the US topical nasal products are currently cancelled)
+- A cardiovascular and drug interaction risk assessment, particularly for hypertensive patients and those taking antidiabetic drugs
 
-The other two predictions (acute laryngopharyngitis, with no evidence; trigeminal autonomic cephalalgia, with only diagnostic pupillometry literature) are not supported by therapeutic evidence and are also on Hold.
+---
 
-This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.
+## Additional Predicted Indications (for Reference)
+
+- **Acute laryngopharyngitis** (score 99.97%, L5, Hold): no clinical trials or literature. The prediction likely reflects similarity to existing pharyngitis indications.
+- **Trigeminal autonomic cephalalgia** (score 99.30%, L4, Hold): 13 publications, almost all observational pupillometry studies in cluster headache and related conditions. They use phenylephrine as a diagnostic probe of sympathetic function, not as a treatment, so they provide no therapeutic evidence. Systemic vasoconstriction and hypertension risks are a concern.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

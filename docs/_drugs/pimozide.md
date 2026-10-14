@@ -33,29 +33,26 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Pimozide is an antipsychotic (a dopamine D2 blocker). In the US it is approved only as a backup treatment for Gilles de la Tourette syndrome.
-The TxGNN model predicts it may be useful for **trichotillomania** (compulsive hair pulling).
-Support is limited: **0 registered clinical trials** and **9 publications**, mostly reviews plus one small uncontrolled study from 1992 (PMID 1532960).
+Pimozide is a dopamine D2-blocking antipsychotic, originally used as a backup treatment for Tourette syndrome.
+The TxGNN model predicts it may be effective for **trichotillomania** (a hair-pulling disorder), but **no clinical trials** are registered and only **8 publications** (mostly reviews and one small, dated clinical study) touch on this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Gilles de la Tourette syndrome (backup treatment; taken from a 2004 review, because the license record has no indication text) |
+| Original Indication | Tourette syndrome |
 | Predicted New Indication | Trichotillomania |
 | TxGNN Prediction Score | 99.996% |
 | Evidence Level | L3 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 2 (both listed under the same ANDA number, ANDA204521) |
+| US Market Status | Cancelled only (the single ANDA is cancelled) |
+| Number of NDAs | 1 (ANDA) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Pimozide blocks dopamine D2 receptors. It is one of the more selective drugs of this type and belongs to the diphenylbutylpiperidine class. One paper also describes it as a dopamine uptake inhibitor and an L-type calcium channel blocker (PMID 7976448). Detailed mechanism data from DrugBank are not available in this record, so the mechanism described here comes from the literature.
+Detailed mechanism of action data is not available in the data compiled for this report. Pimozide is known as a dopamine D2 receptor antagonist of the diphenylbutylpiperidine class, and its efficacy in Tourette syndrome has been established.
 
-Tourette syndrome, obsessive-compulsive disorder (OCD) and trichotillomania share overlapping features. All involve repetitive, hard-to-control behaviours, and dopamine pathways in habit and repetitive-behaviour circuits are thought to play a role. That overlap is the main reason the prediction is plausible.
-
-The most direct evidence is a 1992 report of low-dose pimozide added to serotonin reuptake inhibitors in trichotillomania (PMID 1532960). It appears to be small and uncontrolled, and its design is inferred from the title only. Reviews describe antipsychotic augmentation as a second-line, low-certainty option. Pimozide's heart-rhythm (QT prolongation) and drug-interaction risks limit its practical use.
+Tourette syndrome, obsessive-compulsive disorder and trichotillomania share overlapping phenomenology and treatment response, and are all characterized by repetitive, habitual behaviors. Dopaminergic hyperactivity is implicated in such behaviors, so D2 blockade may plausibly help. A 1992 study examined low-dose pimozide added to serotonin reuptake inhibitors in trichotillomania (PMID 1532960). The supporting evidence is small and dated, so it should be read as limited clinical data rather than proof of efficacy.
 
 ## Clinical Trial Evidence
 
@@ -65,45 +62,41 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [36802832](https://pubmed.ncbi.nlm.nih.gov/36802832/) | 2023 | Evidence mapping / systematic review | J Cutan Med Surg | Maps randomized trials of drug treatments for primary psychodermatologic disorders, a group that includes trichotillomania. The aim was to summarise safety and effectiveness. |
-| [15554735](https://pubmed.ncbi.nlm.nih.gov/15554735/) | 2004 | Review | Am J Clin Dermatol | Comprehensive review of pimozide in dermatology. It is FDA-approved only for Tourette syndrome as a backup treatment, but is used off-label for monosymptomatic hypochondriacal psychosis. |
-| [30446201](https://pubmed.ncbi.nlm.nih.gov/30446201/) | 2018 | Review | Clin Dermatol | Reviews antipsychotics in dermatology, including their D2 blockade and their histamine, cholinergic and α1-adrenergic effects. |
-| [27320510](https://pubmed.ncbi.nlm.nih.gov/27320510/) | 2016 | Review | Tijdschr Psychiatr | Treatment options for paediatric trichotillomania. Notes that pharmacological research in this area has been limited. |
-| [1532960](https://pubmed.ncbi.nlm.nih.gov/1532960/) | 1992 | Open-label / small clinical study | J Clin Psychiatry | Tested low-dose pimozide added to serotonin reuptake inhibitors in trichotillomania. It was prompted by overlap with Tourette syndrome and OCD. The design is inferred from the title. |
-| [10357517](https://pubmed.ncbi.nlm.nih.gov/10357517/) | 1999 | Case series | J Child Adolesc Psychopharmacol | Three patients with SRI-refractory trichotillomania were given risperidone, and all three had a robust decrease in symptoms. The paper notes that earlier open-label low-dose pimozide had helped some patients. This is risperidone data, not pimozide. |
-| [10497682](https://pubmed.ncbi.nlm.nih.gov/10497682/) | 1999 | Review | Ann Acad Med Singap | General review of trichotillomania as a chronic, under-diagnosed psychiatric condition. |
-| [28225970](https://pubmed.ncbi.nlm.nih.gov/28225970/) | 2017 | Case report | An Bras Dermatol | Case with dermatoscopic differential diagnosis from alopecia areata. The paper notes that treatment is not standardized and that N-acetylcysteine has shown efficacy. |
-| [11475941](https://pubmed.ncbi.nlm.nih.gov/11475941/) | 2001 | Review (indirect) | CNS Drugs | Review of psychogenic excoriation (compulsive skin picking), a related condition. |
+| [1532960](https://pubmed.ncbi.nlm.nih.gov/1532960/) | 1992 | Clinical study (small) | J Clin Psychiatry | Low-dose pimozide augmentation of serotonin reuptake blockers in trichotillomania; notes overlap with Tourette syndrome and OCD |
+| [15554735](https://pubmed.ncbi.nlm.nih.gov/15554735/) | 2004 | Review | Am J Clin Dermatol | Comprehensive review of pimozide in dermatologic practice; in the US it is FDA-approved only for Tourette syndrome, other uses are off-label |
+| [30446201](https://pubmed.ncbi.nlm.nih.gov/30446201/) | 2018 | Review | Clin Dermatol | Antipsychotics in dermatology; D2 blockade plus other receptor effects can be useful |
+| [36802832](https://pubmed.ncbi.nlm.nih.gov/36802832/) | 2023 | Evidence mapping/Review | J Cutan Med Surg | Maps randomized trial evidence for drug treatment of primary psychodermatologic disorders |
+| [27320510](https://pubmed.ncbi.nlm.nih.gov/27320510/) | 2016 | Review | Tijdschr Psychiatr | Treatment options for paediatric trichotillomania; pharmacological research is limited |
+| [10497682](https://pubmed.ncbi.nlm.nih.gov/10497682/) | 1999 | Review | Ann Acad Med Singapore | Overview of trichotillomania as an under-diagnosed chronic psychiatric condition |
+| [10357517](https://pubmed.ncbi.nlm.nih.gov/10357517/) | 1999 | Case series | J Child Adolesc Psychopharmacol | Risperidone (not pimozide) added in three SRI-resistant cases; all improved. Notes earlier benefit of pimozide |
+| [11475941](https://pubmed.ncbi.nlm.nih.gov/11475941/) | 2001 | Review | CNS Drugs | Psychogenic excoriation (indirect relevance) |
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA204521 | Pimozide (Endo USA, Inc.) | Tablet (oral) | Not listed in the license record |
-
-The record contains two identical entries under this authorization number, so it is shown once.
+| ANDA204521 (cancelled) | Pimozide (Endo USA, Inc.) | Tablet (oral) | Not listed |
 
 ## Safety Considerations
 
-- **Drug Interactions**: The interaction database returned no entries for this drug. The literature and the prediction record nonetheless flag QT-prolongation risk and CYP2D6/CYP3A4 interaction risk. A 1994 case report describes a paroxetine–pimozide interaction (PMID 7961347).
+No package insert warnings or contraindications were available in the data compiled for this report; please refer to the package insert for label safety information.
 
-Package insert warnings and contraindications are missing from the record. Please refer to the package insert for full safety information.
+- **Contraindications (from knowledge-graph drug–disease edges, not label text)**: long QT syndrome (including familial), torsades de pointes, sudden cardiac arrest, heart conduction disease, epilepsy, kidney disease, liver disease, gallbladder disease, potassium deficiency, benign prostatic hyperplasia, glaucoma, neuroleptic malignant syndrome, Alzheimer disease, female breast carcinoma, and neutropenia-related conditions (neutropenia, agranulocytosis, leukopenia, and several congenital neutropenia syndromes).
+- **Drug Interactions**: 100 interactions were recorded. Major-level examples among those reviewed include hydrocortisone, amphotericin B, bupropion, aprepitant, morphine, lorcaserin, cimetidine, potassium citrate, clarithromycin, picosulfuric acid and polyethylene glycol with electrolytes. Moderate-level examples include famotidine, epinephrine, hyoscyamine, loperamide, atropine, bisacodyl, glycopyrronium and dicyclomine. A published case report also describes a paroxetine–pimozide interaction (PMID 7961347).
+- The QT-prolongation and cardiac risk is a central concern for any new use.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The only direct evidence is a small, old, uncontrolled study and a set of reviews that describe antipsychotic augmentation as a low-certainty, second-line option. No trials are registered. Pimozide's QT and interaction risks further limit use, and the package insert warnings are missing, which blocks the safety screening step.
+The prediction is mechanistically plausible, but the only direct evidence is one small 1992 study and general reviews, with no registered trials. The US product is cancelled, and pimozide carries significant QT-related cardiac risk and a heavy interaction burden.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap)
-- Detailed mechanism of action data from DrugBank
-- A controlled trial in trichotillomania, or at least full-text review of PMID 1532960 to confirm its design and results
-- A QT/ECG and CYP interaction monitoring plan
-- A comparison against better-supported options such as N-acetylcysteine, and against other antipsychotics with safer profiles
-
-*This report is for research reference only and is not medical advice. The predicted indication requires clinical validation.*
+- Mechanism of action data and FDA package insert warnings and contraindications (currently missing; the missing label safety data is a blocking gap for safety screening)
+- Modern controlled evidence of pimozide in trichotillomania, compared with established treatments
+- A cardiac safety plan (ECG and QT monitoring, electrolyte control) and an interaction management strategy
+- Confirmation of a currently available US product, since the only listed authorization is cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,93 +29,83 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Ipilimumab: From Cutaneous Melanoma to Choroideremia
+# Ipilimumab: From Metastatic Melanoma to Choroideremia
 
 ## One-Sentence Summary
 
-Ipilimumab (Yervoy) is a CTLA-4 blocking antibody used in cutaneous melanoma. The TxGNN model predicts it may be effective for **choroideremia**, an inherited retinal degeneration. This prediction has **no clinical trials and no publications** behind it, so it is a model output only and is likely a knowledge-graph artifact.
-
----
+Ipilimumab was originally used to treat metastatic melanoma.
+The TxGNN model predicts it may be effective for **choroideremia**, an inherited retinal degeneration, but **no clinical trials and no publications** currently support this direction.
+The prediction rests on a computational score alone, and the biology does not support it.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Cutaneous melanoma (taken from the pack's mechanistic rationale; the license text fields are empty) |
+| Original Indication | Metastatic melanoma |
 | Predicted New Indication | Choroideremia |
 | TxGNN Prediction Score | 99.06% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 2 (both entries carry the same number, BLA125377) |
+| US Market Status | Cancelled only |
+| Number of NDAs | 1 (BLA125377) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the Evidence Pack. Ipilimumab is known to block CTLA-4, which releases a checkpoint on T-cell priming and increases T-cell activation. This is the mechanism behind its use in melanoma.
+Detailed mechanism of action data are not available in the data compiled for this report. Ipilimumab is an anti-CTLA-4 antibody. It releases the T-cell checkpoint brake and strengthens anti-tumour immunity, which is the basis of its efficacy in melanoma.
 
-The evidence review found **no plausible mechanistic link** to this indication. Choroideremia is an X-linked disease caused by loss of function of the CHM (REP1) gene, and it degenerates the retina and choroid. Nothing in the data connects CTLA-4 blockade to that process.
+Choroideremia is an X-linked inherited retinal disease caused by loss of function of the *CHM* (REP1) gene. The retinal pigment epithelium, choroid and photoreceptors degenerate progressively. The disease is not driven by tumour immune evasion or by an immune-mediated process, so there is no plausible way for checkpoint blockade to act on it.
 
-The high score (0.99) is probably a knowledge-graph artifact. One possible source is neighboring ocular or uveal melanoma nodes. Systemic immune activation also carries a risk of ocular immune-related adverse events, which argues against using ipilimumab in a degenerative retinal disease.
-
----
+The very high TxGNN score (0.99) is a model output. It most likely reflects knowledge-graph topology rather than real biology. Systemic immune activation also carries a risk of immune-related adverse events, including uveitis. That would be undesirable in an already degenerating retina.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
-
----
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA125377 | YERVOY (E.R. Squibb & Sons, L.L.C.) | Injection | Not listed in the license data |
-
-The pack lists two license entries. They are identical, so they are shown once. The only route is injectable.
-
----
+| BLA125377 | YERVOY (E.R. Squibb & Sons, L.L.C.) | Injection | Not specified; status: cancelled |
 
 ## Cytotoxicity
 
+Ipilimumab is an antineoplastic immunotherapy. The descriptions below are general class-level information, not taken from the compiled data.
+
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Immunotherapy (immune checkpoint inhibitor, anti-CTLA-4 antibody), not a conventional cytotoxic |
-| Myelosuppression Risk | Low in general, per drug class. Please refer to the package insert warnings and precautions. |
-| Emetogenicity Classification | Low, per drug class. Please refer to the package insert. |
-| Monitoring Items | Liver function, thyroid and adrenal function, blood glucose, and ocular and gastrointestinal symptoms, because of immune-related adverse events. Please refer to the package insert for the full schedule. |
-| Handling Protection | Standard biologic handling. The package insert governs any special measures. |
-
----
+| Cytotoxicity Classification | Immunotherapy (immune checkpoint inhibitor, anti-CTLA-4); not a conventional cytotoxic agent |
+| Myelosuppression Risk | Low as a direct effect; haematological immune-related events are possible |
+| Emetogenicity Classification | Low |
+| Monitoring Items | CBC, liver function, thyroid and other endocrine function, signs of colitis, skin and eye symptoms |
+| Handling Protection | Please refer to the package insert warnings and precautions |
 
 ## Safety Considerations
 
-- **Ocular risk**: Systemic immune activation carries a risk of ocular immune-related adverse events. This is a concern in any retinal degenerative disease.
+- **Drug Interactions**: The interaction screen returned 100 records. The first 20 reviewed include:
+  - **Major**: anticoagulants, including apixaban, betrixaban, bivalirudin, dalteparin, desirudin, edoxaban, argatroban and danaparoid.
+  - **Moderate**: corticosteroids (hydrocortisone, triamcinolone, dexamethasone, betamethasone, budesonide, prednisolone, prednisone), metronidazole, tinidazole, naltrexone, and statins (rosuvastatin, simvastatin).
+- **Disease-specific concern**: Immune-related adverse events, particularly uveitis, would be especially undesirable in choroideremia.
 
-Please refer to the package insert for other safety information. The Evidence Pack contains no drug interaction data, warnings or contraindications.
-
----
+Please refer to the package insert for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trial or literature support and no plausible mechanistic link. The model score alone is not enough, and the risk of ocular immune toxicity argues against pursuing it.
+The prediction has no clinical or published support (L5) and no credible mechanistic link. Choroideremia is a genetic, non-immune retinal degeneration, and ipilimumab's immune activation could harm the eye. The US licence is cancelled only.
 
 **To proceed, the following is needed:**
-- Any preclinical or mechanistic evidence linking CTLA-4 blockade to retinal degeneration
-- The full package insert warnings and contraindications
-- Original indication and mechanism of action data for the drug record
+- Any preclinical or mechanistic evidence linking CTLA-4 blockade to choroideremia pathology
+- Detailed mechanism of action data and the full package insert safety information
+- Assessment of ocular immune-related adverse event risk
+- Confirmation of current US availability
 
-**Note on the second prediction:** Non-cutaneous melanoma (rank 2, score 99.02%) has much stronger support. It has L3 evidence, many melanoma trials including a completed Phase 3 RCT, and a plausible mechanism. It is a better candidate for further review, but the melanoma subtypes enrolled in the trials still need to be confirmed.
+**Note on another predicted indication:** The same data include a lower-ranked prediction, **non-cutaneous melanoma** (TxGNN score 99.02%), which is an extension within the melanoma family. It is supported by a completed Phase 2 trial of nivolumab plus ipilimumab in uveal melanoma (NCT02626962) and a clinical series (PMID 24999899), and carries an L1 grade with a "Proceed with Guardrails" recommendation. It deserves a separate evaluation and is a much stronger candidate than choroideremia.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

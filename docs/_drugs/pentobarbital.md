@@ -29,84 +29,110 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Pentobarbital: From Sedative-Hypnotic to Obesity Disorder
+# Pentobarbital: From Epilepsy and Insomnia to Obesity Disorder
 
 ## One-Sentence Summary
 
-Pentobarbital is a barbiturate that enhances GABA-A receptor signaling and is marketed in the US as an injectable solution. The TxGNN model predicts it may be useful for **obesity disorder**, but this rests on a graph-based score alone: **1 clinical trial** was retrieved, and it is a pharmacokinetic study that does not test obesity. The **19 publications** retrieved mostly use pentobarbital as an anesthetic in animal obesity models rather than as a treatment.
+Pentobarbital is a barbiturate sedative-hypnotic, originally used for conditions such as epilepsy, insomnia, status epilepticus, and cerebral ischaemia.
+The TxGNN model predicts it may be effective for **obesity disorder**, but there are **0 clinical trials** and only **20 publications** that mention the drug, mostly as an anaesthetic in animal experiments, so the prediction is **not supported by clinical evidence**.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Epilepsy, insomnia, status epilepticus, brain ischaemia, transient ischaemic attack (from the knowledge graph; the US licence records contain no indication text) |
 | Predicted New Indication | Obesity disorder |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 2 (both ANDAs) |
+| US Market Status | Cancelled only (no active licences) |
+| Number of NDAs | 2 (both ANDAs, both cancelled) |
 | Recommended Decision | Hold |
 
-The source data does not include approved indication text for either license, so the original indication is not listed here.
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the DrugBank field. Pentobarbital is a GABA-A receptor positive modulator with sedative-hypnotic effects.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. From general pharmacology, pentobarbital is a barbiturate that enhances GABA-A receptor signalling, producing sedation, hypnosis, and anticonvulsant effects. This explains its original uses in epilepsy and insomnia.
 
-No credible mechanistic link to obesity was identified. The retrieved papers use pentobarbital as an anesthetic or sedative tool in rodent, rabbit and chicken obesity models, for example to anesthetize animals before surgery or perfusion. None tests pentobarbital as an obesity therapy. The high TxGNN score (0.9999) is a graph-based prediction only and should not be read as clinical support.
+For obesity, **no credible mechanistic link was identified**. The retrieved publications are animal or physiology studies on insulin kinetics, hypothalamic lesions, leptin mimetics, and gastric electrical stimulation. In these papers pentobarbital appears almost entirely as an **anaesthetic used during experiments**, not as a treatment. Barbiturates are not known to reduce body fat or appetite. The high TxGNN score therefore looks like a model signal rather than a pharmacologically grounded hypothesis.
 
-Barbiturate risks also weigh against pursuing this direction: dependence, respiratory depression and a narrow therapeutic index.
+Other top-ranked predictions are similarly weak. Sleep disorder (initiating and maintaining sleep) overlaps with the original insomnia indication and so is not true repurposing. Manic bipolar disorder and major affective disorder rest only on uncontrolled 1960s reports or indirect studies. The remaining predictions have no evidence at all.
+
+---
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT01431326](https://clinicaltrials.gov/study/NCT01431326) | N/A | Completed | 3,520 | Pharmacokinetics of understudied drugs given to children as standard of care. It is not an obesity efficacy trial, and pentobarbital's role and any obesity relevance are unclear (relevance grade C). |
+Currently no related clinical trials registered.
+
+---
 
 ## Literature Evidence
 
-No randomized controlled trials were found. The 10 most relevant of 19 retrieved publications are listed below; none evaluates pentobarbital as an obesity treatment.
+None of the publications tests pentobarbital as a treatment for obesity. The table lists the most relevant ones, all preclinical or physiological.
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|---------|---------|
-| [5694866](https://pubmed.ncbi.nlm.nih.gov/5694866/) | 1968 | Review | JAMA | Anesthesia considerations in obese patients (no abstract available). |
-| [4983481](https://pubmed.ncbi.nlm.nih.gov/4983481/) | 1970 | Clinical report | Curr Ther Res | Overweight relapse: effects of training and methamphetamine with pentobarbital (no abstract available). |
-| [34072024](https://pubmed.ncbi.nlm.nih.gov/34072024/) | 2021 | Preclinical | Molecules | Brazil nut seed extract reduced anxiety-like behavior, lipids and overweight in mice; pentobarbital was used only as a hypnosis test. |
-| [34445005](https://pubmed.ncbi.nlm.nih.gov/34445005/) | 2021 | Preclinical | Nutrients | Garcinia cambogia peel extract had an arousal effect in the pentobarbital sleep test. |
-| [19321699](https://pubmed.ncbi.nlm.nih.gov/19321699/) | 2009 | Preclinical | Am J Physiol Regul Integr Comp Physiol | Renal nerve responsiveness in fat-fed rabbits, studied under pentobarbital anesthesia. |
-| [28347670](https://pubmed.ncbi.nlm.nih.gov/28347670/) | 2017 | Preclinical | Brain Res | Oral leptin-mimetic peptides localized in the mouse hypothalamus; pentobarbital was used only for terminal perfusion. |
-| [30679938](https://pubmed.ncbi.nlm.nih.gov/30679938/) | 2019 | Preclinical | Nutr Metab | Smilax china extract reduced lipid accumulation in high-fat-diet mice via AMPK. |
-| [9145938](https://pubmed.ncbi.nlm.nih.gov/9145938/) | 1997 | Preclinical | Physiol Behav | Ventromedial hypothalamus lesions reduced post-meal thermogenesis in rats; pentobarbital was the surgical anesthetic. |
-| [15893702](https://pubmed.ncbi.nlm.nih.gov/15893702/) | 2005 | Preclinical | Auton Neurosci | Gastric electrical stimulation modulated neuronal activity in rats, in animals anesthetized with pentobarbital. |
-| [7649094](https://pubmed.ncbi.nlm.nih.gov/7649094/) | 1995 | Preclinical | Endocrinology | Insulin turnover in lean and obese Zucker rats under pentobarbital anesthesia. |
+|------|-----|------|------|---------|
+| [7649094](https://pubmed.ncbi.nlm.nih.gov/7649094/) | 1995 | Animal study | Endocrinology | Insulin turnover in Zucker lean and obese rats; pentobarbital used as anaesthesia |
+| [12424750](https://pubmed.ncbi.nlm.nih.gov/12424750/) | 2003 | Review / physiology methods | Medicinal Research Reviews | Methods for measuring insulin action and insulin resistance mechanisms |
+| [2674924](https://pubmed.ncbi.nlm.nih.gov/2674924/) | 1989 | Animal study | Poultry Science | Hypothalamic lesions causing obesity and hyperphagia in fowl |
+| [15893702](https://pubmed.ncbi.nlm.nih.gov/15893702/) | 2005 | Animal study | Autonomic Neuroscience | Gastric electrical stimulation changes brainstem neuronal activity in anaesthetised rats |
+| [9145938](https://pubmed.ncbi.nlm.nih.gov/9145938/) | 1997 | Animal study | Physiology & Behavior | Ventromedial hypothalamic lesions reduce post-meal thermogenesis in rats |
+| [19321699](https://pubmed.ncbi.nlm.nih.gov/19321699/) | 2009 | Animal study | Am J Physiol Regul Integr Comp Physiol | Altered kidney responses to renal nerve activation in fat-fed rabbits under pentobarbital anaesthesia |
+| [16914422](https://pubmed.ncbi.nlm.nih.gov/16914422/) | 2006 | Animal study | Am J Physiol Regul Integr Comp Physiol | Enhanced sympathetic reactivity linked to insulin resistance in young Zucker rats |
+| [34445005](https://pubmed.ncbi.nlm.nih.gov/34445005/) | 2021 | Animal study | Nutrients | Garcia cambogia peel extract shortens pentobarbital-induced sleep in mice (pentobarbital as an assay tool) |
+| [34072024](https://pubmed.ncbi.nlm.nih.gov/34072024/) | 2021 | Animal study | Molecules | Brazil nut extract reduces anxiety-like behaviour and lipids in mice; potentiates pentobarbital hypnosis |
+| [28347670](https://pubmed.ncbi.nlm.nih.gov/28347670/) | 2017 | Animal study | Brain Research | Oral leptin-mimetic peptides localise in the mouse hypothalamus |
+
+---
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA206404 | pentobarbital sodium | Injection, solution | Sagent Pharmaceuticals |
-| ANDA203619 | Pentobarbital Sodium | Injection, solution | Hikma Pharmaceuticals USA Inc. (dba Leucadia Pharmaceuticals) |
+| ANDA206404 (cancelled) | Pentobarbital sodium (Sagent Pharmaceuticals) | Injection, solution | Not listed |
+| ANDA203619 (cancelled) | Pentobarbital Sodium (Hikma Pharmaceuticals USA Inc., dba Leucadia Pharmaceuticals) | Injection, solution | Not listed |
 
-Approved indication text was not provided for either license. Both products are injectable only.
+Both authorizations are cancelled, so there is no currently valid US licence for a single-ingredient product.
+
+---
 
 ## Safety Considerations
 
-- **Drug Interactions**: No interaction records were found in the queried source (0 entries).
+Package insert warnings and contraindications were not available in the data compiled for this report, so please refer to the package insert for label safety information.
 
-Please refer to the package insert for warnings and contraindications. That information was not available in the source data.
+- **Knowledge-graph contraindications** (not from label text): the knowledge graph lists many conditions, including:
+  - Liver disease, liver failure, hepatic coma, and hepatic encephalopathy
+  - Kidney disease
+  - Chronic obstructive pulmonary disease, and sleep apnoea syndromes
+  - Heart disease, cardiovascular disease, hypertension, and hypotension
+  - Porphyria and other porphyrin metabolism disorders
+  - Substance abuse or dependence
+  - Blood disorders: thrombocytopenia, neutropenia, agranulocytosis, anaemia
+  - Anxiety and neurotic disorders
+- **Drug interactions**: 100 interactions were found. Examples:
+  - **Major**: morphine (additive central nervous system and respiratory depression)
+  - **Moderate**: corticosteroids (dexamethasone, hydrocortisone, betamethasone, triamcinolone), doxycycline, metronidazole, bupropion, aprepitant, vitamin D analogues (cholecalciferol, calcifediol, calcitriol), canagliflozin, saxagliptin, linagliptin, dronabinol, nabilone, and eliglustat
+  - **Minor**: pyridoxine and cimetidine
+
+Barbiturates in general also carry risks of dependence, respiratory depression, and a narrow therapeutic index.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The obesity prediction is supported only by a graph-model score. The single trial is a pediatric pharmacokinetic study unrelated to obesity, and the literature uses pentobarbital as a laboratory anesthetic rather than a therapy. Its dependence and respiratory-depression risks make a weight-management use unattractive.
+The obesity prediction has no clinical trials, no human studies, and no plausible mechanism. The literature uses pentobarbital only as an experimental anaesthetic. The drug also has no active US licence and a substantial safety burden. Other top predictions are either overlapping with original indications (insomnia), supported only by outdated uncontrolled reports (mood disorders), or have no evidence at all.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications, which block any safety screening.
-- Original indication text from the current labels.
-- Mechanistic data (DrugBank MOA) and any direct evidence of pentobarbital affecting body weight or energy balance.
-
-**Other predictions:** Among the other nine predicted indications, only *sleep disorder, initiating and maintaining sleep* (rank 5, L4) has a biologically coherent rationale. It may already be a labeled sedative-hypnotic use rather than a true repurposing, so check it against the current label. The literature retrieved for it consists of rodent screening studies of other compounds, not evidence about pentobarbital itself.
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data (for example from DrugBank)
+- Any credible pharmacological rationale linking GABA-A modulation to weight or appetite regulation
+- Evidence from controlled human or well-designed pharmacological studies that tests pentobarbital as the intervention, not as an anaesthetic
+- A risk-benefit comparison against existing obesity therapies, given pentobarbital's dependence and respiratory depression risks
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

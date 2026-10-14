@@ -29,66 +29,89 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Haloperidol: From Antipsychotic Use to Congenital Disorder of Glycosylation with Defective Fucosylation
+# Haloperidol: From Schizophrenia and Psychotic Disorders to Congenital Disorder of Glycosylation with Defective Fucosylation
 
 ## One-Sentence Summary
 
-Haloperidol is a dopamine D2 receptor antagonist antipsychotic with 20 US generic authorizations.
-The TxGNN model predicts it may be effective for **congenital disorder of glycosylation with defective fucosylation**, but this rests on a model score alone, with **0 clinical trials** and **0 publications** supporting it.
+Haloperidol is an antipsychotic originally used for psychotic disorders, schizophrenia, schizoaffective disorder and Tourette syndrome.
+The TxGNN model predicts it may be effective for **congenital disorder of glycosylation with defective fucosylation**, but **0 clinical trials** and **0 publications** currently support this prediction. It is a knowledge-graph signal only.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Psychotic disorder, schizophrenia, schizophreniform disorder, schizoaffective disorder, Tourette syndrome (the license records contain no indication text) |
 | Predicted New Indication | Congenital disorder of glycosylation with defective fucosylation |
 | TxGNN Prediction Score | 99.91% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (all listed entries are ANDAs) |
+| US Market Status | Cancelled only (no active licenses) |
+| Number of NDAs | 10 (all are ANDAs, all cancelled) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the record. Haloperidol is a dopamine D2 receptor antagonist, and its known use is in psychiatric conditions.
+Currently, detailed mechanism of action data is not available in the compiled data. Haloperidol is a typical (first-generation) antipsychotic that acts mainly as a dopamine D2 receptor antagonist. Its efficacy in psychotic disorders and schizophrenia is well established.
 
-Congenital disorder of glycosylation with defective fucosylation is an inherited defect in glycan synthesis. No plausible mechanistic link to D2 antagonism was identified. The high TxGNN score (99.91%, model rank 2958) reflects the model's prediction only, and nothing supports it in trials or literature. It should be treated as a low-confidence signal.
+No mechanistic link was identified between D2 antagonism and fucosylation pathways. This condition is a rare inherited disorder of protein glycosylation, which is biologically distant from the dopaminergic psychiatric conditions haloperidol treats. The very high score (99.91%, rank 2958 among scored predictions) reflects patterns in the knowledge graph, not biological or clinical support. It should not be read as evidence of efficacy.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
 Currently no related literature available.
 
+---
+
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| ANDA216004 | Haloperidol | Tablet | Novadoz Pharmaceuticals LLC |
-| ANDA070278 | Haloperidol | Tablet | Mylan Pharmaceuticals Inc. |
-| ANDA218789 | Haloperidol | Tablet | Coupler LLC |
-| ANDA074893 | Haloperidol Decanoate | Injection | Fresenius Kabi USA, LLC |
+All 10 US authorizations are generic applications (ANDAs) and are cancelled. No active license remains. The data compiled for this report contain no approved-indication text for these products. The five shown below are the first five of the 10.
 
-The record contains no approved-indication text for these products. Only the first five of the 20 authorizations were provided, and one of them (ANDA216004) appeared twice, so it is shown once here. Routes available are oral (tablet) and injectable.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA216004 | Haloperidol (Novadoz) | Tablet | Not specified |
+| ANDA070278 | Haloperidol (Mylan) | Tablet | Not specified |
+| ANDA218789 | Haloperidol (Coupler) | Tablet | Not specified |
+| ANDA074893 | Haloperidol Decanoate (Fresenius Kabi) | Injection | Not specified |
+| ANDA205241 | Haloperidol Decanoate (Gland Pharma) | Injection | Not specified |
+
+The products cover oral tablets and injectable (decanoate) forms.
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Package insert warnings and contraindications were not available in the data compiled for this report, so please refer to the current package insert.
+
+- **Knowledge-graph contraindication signals** (these come from graph relationships, not label text): long QT syndrome and torsades de pointes, epilepsy, basal ganglia disease, dystonia and blepharospasm, liver and gallbladder disease, hypothyroidism, potassium deficiency, hypotensive disorder, neuroleptic malignant syndrome, breast carcinoma, and neutropenia, leukopenia and agranulocytosis (including congenital neutropenia forms).
+- **Drug Interactions**: 100 interactions were recorded. Major-level examples include bupropion, morphine, clarithromycin and dolasetron. Many moderate-level interactions were also found, including famotidine, epinephrine, hydrocortisone, amphotericin B, atropine and loperamide.
+- **Context-specific concern**: Haloperidol can lower the seizure threshold, so extra caution is needed in conditions with neurological involvement.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting trials or literature and no plausible mechanistic link, so it is a model output only (L5, stage S0).
+The prediction rests only on a knowledge-graph score. There are no trials, no literature, and no plausible mechanistic link. The US licenses are all cancelled, and the drug has notable safety burdens (QT prolongation, seizure threshold, extrapyramidal effects, many interactions).
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data from DrugBank, plus a check of the record's original indication (empty in the record)
-- Any preclinical or mechanistic evidence linking haloperidol to fucosylation or glycosylation pathways
+- A biological rationale connecting haloperidol to fucosylation or glycosylation pathways, along with its mechanism of action data
+- Preclinical evidence (for example, cell or animal models of the disorder)
+- Package insert warnings and contraindications for a safety review
+- Confirmation of drug availability, since all US licenses are cancelled
 
-**Note on other candidates:** Among the lower-ranked predictions, *manic bipolar affective disorder* (rank 10) has L1 evidence, including several completed Phase 3 RCTs with haloperidol arms and a network meta-analysis. It appears to be an established or off-label use rather than a novel repurposing finding. Its label status should be confirmed first. If it proceeds, guardrails apply for extrapyramidal symptoms, QT prolongation and tardive dyskinesia.
+**Note on other predictions:** Among the other predictions for haloperidol, **manic bipolar affective disorder** (rank 10, score 99.83%) has the strongest support. It has Phase 3 trial evidence (including a placebo- and haloperidol-controlled trial of olanzapine, NCT00129220) and supportive systematic reviews and a Cochrane review. This is largely an established, guideline-supported use rather than a novel repurposing, and it would be rated L1 with a recommendation of Proceed with Guardrails. The guardrails are extrapyramidal symptoms, QT prolongation, tardive dyskinesia risk, and the large number of drug interactions.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

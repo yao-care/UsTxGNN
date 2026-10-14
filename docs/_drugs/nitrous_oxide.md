@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Nitrous Oxide
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 974
-evidence_level: L5
+evidence_level: L4
 indication_count: 1
 ---
 
 # Nitrous Oxide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **1** 
+Evidence Level: **L4** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,90 +29,74 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Nitrous Oxide: From Inhaled Anesthetic to Benign Prostatic Hyperplasia
+# Nitrous Oxide: From Anesthesia and Analgesia to Benign Prostatic Hyperplasia
 
 ## One-Sentence Summary
 
-Nitrous oxide is an inhaled gas known for anesthesia, analgesia and anxiety relief during procedures. The TxGNN model predicts it may be relevant to **benign prostatic hyperplasia (BPH)**, but the only related evidence is **1 clinical trial** (on biopsy anxiety, not BPH treatment) and **3 old case or device reports**. None of it shows that the drug treats BPH.
-
----
+Nitrous oxide is an inhaled gas widely used as an anesthetic and analgesic. The TxGNN model predicts it may be effective for **benign prostatic hyperplasia (BPH)**, but only **1 clinical trial** and **1 publication** are linked to this prediction, and neither tests BPH treatment. The evidence is weak and the prediction is not supported by a plausible mechanism.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the US label data provided (commonly known as an inhaled anesthetic/analgesic) |
+| Original Indication | Not specified in the US license records compiled for this report |
 | Predicted New Indication | Benign prostatic hyperplasia |
 | TxGNN Prediction Score | 99.52% |
-| Evidence Level | L5 (no study tests nitrous oxide as a BPH treatment; the input pack assigned L4) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 licenses |
+| Evidence Level | L4 |
+| US Market Status | Cancelled only |
+| Number of NDAs | 3 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the input. Nitrous oxide is generally described as an NMDA-receptor antagonist and inhaled anesthetic/analgesic. Its efficacy for procedural pain and anxiety is established.
+Detailed mechanism of action data is not available for this drug in the data compiled for this report. Nitrous oxide is generally understood as an inhaled anesthetic and analgesic with NMDA receptor antagonism and anxiolytic effects.
 
-The prediction is **not mechanistically convincing**. BPH is driven by androgen-dependent growth of prostate stromal and epithelial tissue, which causes lower urinary tract obstruction. Nothing in nitrous oxide's pharmacology addresses that process.
+The review found no credible mechanistic link between nitrous oxide and BPH. It has no known action on prostate growth, androgen signaling, or prostate smooth muscle tone. The very high TxGNN score (0.995) is a model output and is not backed by pharmacological rationale or clinical data showing disease modification.
 
-The high score (0.995) most likely reflects a knowledge-graph artifact, because nitrous oxide is often mentioned alongside urologic procedures. Its only links to the prostate are procedural:
-1. It is used as an analgesic or anxiolytic during prostate procedures such as biopsy or prostatectomy.
-2. It was historically used as a cryogen in prostate cryotherapy devices.
-
-Neither is a pharmacological treatment of BPH.
-
----
+The only clinical connection is procedural. Nitrous oxide has been used to reduce anxiety and pain during prostate-related procedures, which is not treatment of BPH itself. The prediction should be treated with caution.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT05803096](https://clinicaltrials.gov/study/NCT05803096) | Phase 4 | Completed | 143 | Self-administered nitrous oxide during transrectal prostate biopsy to reduce anxiety and pain. It targets procedural comfort in men undergoing biopsy for suspected prostate cancer, not BPH symptoms. |
-
----
+| [NCT05803096](https://clinicaltrials.gov/study/NCT05803096) | Phase 4 | Completed | 143 | Self-administered nitrous oxide during transrectal prostate biopsy to reduce anxiety and pain. It addresses procedural comfort, not BPH, and the population is not defined by BPH. It suggests feasibility of use in urologic procedures only. |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [9223887](https://pubmed.ncbi.nlm.nih.gov/9223887/) | 1997 | Case report | Masui (Jpn J Anesthesiol) | Anesthetic management of a patient with pure autonomic failure undergoing suprapubic prostatectomy. Nitrous oxide was part of the anesthetic, with no bearing on BPH treatment. |
-| [4108916](https://pubmed.ncbi.nlm.nih.gov/4108916/) | 1971 | Case series | Z Prakt Anasthesie Wiederbeleb | Combination anesthesia with methohexital in high-risk urologic patients. Anesthesia technique only. |
-| [4171323](https://pubmed.ncbi.nlm.nih.gov/4171323/) | 1968 | Device report | Int Surg | New apparatus for cryotherapy of prostate obstruction. Nitrous oxide appears as a cryogen, not as a drug effect. |
-
----
+| [9223887](https://pubmed.ncbi.nlm.nih.gov/9223887/) | 1997 | Case report | Masui (Japanese Journal of Anesthesiology) | Anesthetic management of a patient with pure autonomic failure undergoing suprapubic prostatectomy. It concerns anesthesia technique, not BPH treatment. |
 
 ## US Market Information
 
+All three listed authorizations are cancelled, and no approved indication text is recorded for them.
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA206009 | Nitrous Oxide (AGL Welding Supply Co., Inc.) | Gas | Not stated in the data provided |
-| NDA206009 | Nitrous Oxide (Nitrous Oxide of Canada) | Gas | Not stated in the data provided |
-| NDA206009 | Nitrous Oxide (NEXAIR, LLC) | Gas | Not stated in the data provided |
-| NDA206009 | Nitrous Oxide (Norco, Inc) | Gas | Not stated in the data provided |
-| NDA209989 | Nitrous Oxide (Badger Welding Supplies, Inc.) | Gas | Not stated in the data provided |
-
----
+| NDA206009 | Nitrous Oxide | Gas | Not recorded |
+| NDA209989 | Nitrous Oxide | Gas | Not recorded |
+| NDA205704 | Nitrous Oxide | Gas | Not recorded |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: Five interactions were identified.
+  - **Major**: Methotrexate
+  - **Moderate**: Morphine, Opium, Codeine, Hydrocodone
 
----
+Please refer to the package insert for other safety information, including warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The high TxGNN score is not backed by a plausible mechanism or by any study of nitrous oxide as a BPH treatment. The only trial concerns procedural anxiety during prostate biopsy, and the literature consists of decades-old anesthesia and device reports. Nitrous oxide's role around prostate procedures is that of a procedural analgesic or anxiolytic, which is a different question from repurposing it for BPH.
+The high TxGNN score is not supported by a plausible mechanism or by any study of BPH treatment. The one trial and one publication relate only to procedural anesthesia and anxiety. All US licenses are cancelled, and the key safety labeling information could not be obtained.
 
 **To proceed, the following is needed:**
-- The approved indication text and safety sections (warnings, contraindications) from the US package insert
-- Mechanism of action data, for example from DrugBank
-- A pharmacological rationale for BPH, or a decision to reframe the question as procedural sedation in urologic procedures, where the evidence is more relevant
-- Any prospective study that measures BPH outcomes such as symptom scores or urinary flow
+- Mechanism of action data and a plausible pharmacological rationale for an effect on BPH
+- Preclinical or clinical studies that test BPH outcomes directly
+- FDA package insert warnings and contraindications for a full safety review
+- Clarification of the original approved indications and current regulatory status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

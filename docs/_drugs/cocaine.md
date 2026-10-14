@@ -29,31 +29,31 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Cocaine: From Topical Local Anesthesia to Cauda Equina Syndrome
+# Cocaine: From Local Anesthesia to Cauda Equina Syndrome
 
 ## One-Sentence Summary
 
-Cocaine hydrochloride is marketed in the US as a nasal topical solution (Numbrino, Goprelto), which is a local anesthetic use.
-The TxGNN model predicts it may be effective for **cauda equina syndrome**, but this is a graph-based prediction only, with **0 clinical trials** and **1 publication** (a case report unrelated to cocaine).
+Cocaine is a local anesthetic and vasoconstrictor historically used in nasal, oral and laryngeal surgery. The TxGNN model predicts it may be effective for **Cauda Equina Syndrome**, but this is a model prediction only: there are **0 clinical trials** and **1 publication** (a case report that does not involve cocaine), so the evidence is very weak.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Not listed in the US license data (pharmacology data describes use as a local anesthetic in nasal, oral and laryngeal surgery) |
 | Predicted New Indication | Cauda equina syndrome |
 | TxGNN Prediction Score | 99.98% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 4 product listings under 2 unique NDAs (NDA209575, NDA209963) |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no active licenses) |
+| Number of NDAs | 2 (both cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available. Cocaine is known as a local anesthetic that blocks sodium channels, and it also inhibits monoamine reuptake. The US labeled indication text was not provided in the data. The marketed products are topical nasal solutions.
+Detailed mechanism of action data is not available for this report. Based on known information, cocaine is a local anesthetic that blocks sodium channels and also blocks reuptake of monoamines (including dopamine via DAT). Pharmacology records also list activity at 5-HT3 receptors.
 
-The predicted disease is different in kind. Cauda equina syndrome is a compressive neurological emergency, typically caused by lumbosacral disc pathology. It presents with urinary retention, fecal incontinence, saddle anesthesia and leg weakness. Treatment is urgent surgical decompression. Cocaine's local anesthetic and sodium-channel blocking activity does not address this compression.
+There is no credible mechanistic link between these actions and cauda equina syndrome, which is a compressive neuropathy of the lumbosacral nerve roots, usually from disc pathology, and is treated surgically. The high TxGNN score appears to be a statistical artifact of the knowledge graph rather than a biologically grounded signal. The only retrieved paper is a case report on lumbosacral disc pathology and does not address cocaine.
 
-**We found no plausible mechanistic link.** The high score (0.9998) reflects graph proximity in the knowledge graph, not pharmacological rationale. The prediction should not be treated as a therapeutic hypothesis without independent support.
+Other predictions in the list (for example rhinitis, anaphylaxis, pharyngitis) also lack supporting evidence. For rhinitis and pharyngitis, the literature mostly shows cocaine as a cause of mucosal injury, not a treatment. The next-ranked predictions are not strong alternatives either.
 
 ## Clinical Trial Evidence
 
@@ -63,35 +63,36 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [31528422](https://pubmed.ncbi.nlm.nih.gov/31528422/) | 2019 | Case report | Surgical Neurology International | Distal cauda equina syndrome from lumbosacral disc pathology, with a literature review. It describes the disease and its diagnostic difficulty, and does not evaluate cocaine as a treatment. |
+| [31528422](https://pubmed.ncbi.nlm.nih.gov/31528422/) | 2019 | Case report/Review | Surgical Neurology International | Case report of distal cauda equina syndrome from lumbosacral disc pathology, with literature review. Does not address cocaine as a treatment. |
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form |
-|---------|------|------|
-| NDA209575 | Cocaine hydrochloride nasal | Solution |
-| NDA209575 | Numbrino | Solution |
-| NDA209963 | Cocaine hydrochloride | Solution |
-| NDA209963 | Goprelto | Solution |
-
-All listed products are solutions. Manufacturers are Omnivium Pharmaceuticals LLC (NDA209575) and LXO US Inc. (NDA209963).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA209575 | Cocaine hydrochloride nasal (Omnivium Pharmaceuticals) | Solution | Not listed; license cancelled |
+| NDA209963 | Cocaine hydrochloride (LXO US Inc.) | Solution | Not listed; license cancelled |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Disease associations flagged in the knowledge graph (not label text)**: epilepsy, sudden cardiac arrest, heart conduction disease, thyrotoxicosis, hyperthyroidism, Graves disease.
+- **Pharmacological targets**: cocaine acts on 5-HT3A/5-HT3AB receptors and the dopamine transporter (DAT; rat data), which is consistent with its stimulant and cardiovascular effects.
+- **Related literature**: the retrieved publications describe cocaine-associated harms, including mucosal necrosis, septal and palatal perforation, bronchospasm, allergic reactions, and upper airway injury. Cocaine also has high abuse potential.
+
+Please refer to the package insert for full warnings, contraindications and drug interaction information, as this was not available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The evidence is model prediction only (L5). No trials exist, and the single retrieved article is an unrelated case report. There is no plausible mechanism for treating compressive cauda equina pathology. The other nine predicted indications are also rated Hold. For rhinitis and pharyngitis, the retrieved literature mostly documents cocaine-related tissue injury, which is a safety signal rather than therapeutic evidence.
+The prediction is supported only by the model score. There are no clinical trials, the single paper does not involve cocaine, no plausible mechanism links cocaine to cauda equina syndrome, and both US licenses are cancelled. The safety profile (cardiovascular risk, abuse potential, mucosal toxicity) is also unfavorable.
 
 **To proceed, the following is needed:**
-- Mechanistic evidence for any effect of cocaine on cauda equina syndrome or its symptoms (for example, preclinical or nerve-block studies)
-- FDA package insert warnings and contraindications (a blocking gap for safety screening), plus the approved indication text
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
-- A clinical rationale showing that any proposed use adds value over standard surgical management
+- A credible preclinical or mechanistic rationale for cauda equina syndrome
+- Evidence of benefit over existing treatments, with a risk-benefit assessment given cocaine's abuse potential and cardiovascular toxicity
+- Route and formulation compatibility assessment
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

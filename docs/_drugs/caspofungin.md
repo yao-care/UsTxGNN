@@ -29,33 +29,31 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Caspofungin: From Invasive Fungal Infections to Gastrin Secretion Abnormality
+# Caspofungin: From Esophageal Candidiasis and Candidemia to Gastrin Secretion Abnormality
 
 ## One-Sentence Summary
 
-Caspofungin is an echinocandin antifungal marketed in the US for invasive fungal infections.
-The TxGNN model predicts it may be relevant to **gastrin secretion abnormality**, but this rests on the model score alone, with **0 clinical trials** and **0 publications** supporting it.
-No credible mechanistic link has been identified, so this is a low-confidence prediction.
+Caspofungin is an echinocandin antifungal originally used to treat esophageal candidiasis and candidemia.
+The TxGNN model predicts it may be effective for **gastrin secretion abnormality**,
+but there are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Invasive fungal infections (not stated in the license records; taken from drug class knowledge) |
+| Original Indication | Esophageal candidiasis, candidemia |
 | Predicted New Indication | Gastrin secretion abnormality |
 | TxGNN Prediction Score | 99.44% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 14 (the listed records are ANDA generics) |
+| US Market Status | Cancelled only (no currently valid authorizations) |
+| Number of NDAs | 5 (all cancelled; includes 2 NDAs and 3 ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the source record. Caspofungin is an echinocandin antifungal that inhibits fungal beta-(1,3)-D-glucan synthase, an enzyme that mammalian cells do not have.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Caspofungin is generally known as an echinocandin antifungal that inhibits beta-(1,3)-D-glucan synthase in the fungal cell wall. Its efficacy in esophageal candidiasis and candidemia is established.
 
-No known pathway connects this mechanism to gastrin regulation, G-cell function, or gastric acid secretion. The original indication (fungal infection) and the predicted indication (a gastrin regulation disorder) also have no apparent biological relationship.
-
-The score of 99.44% (rank 12,995) comes from knowledge-graph patterns only. A high score alone should not be read as a sign of real efficacy. At this stage the prediction is a hypothesis to test, not a reasonable repurposing candidate.
+No known pathway connects glucan synthase inhibition to gastrin regulation or to G-cell and gastric acid physiology. The high TxGNN score (0.994) is a computational output only. Any link would be speculative, for example an indirect effect through changes in fungal or gut microbiota, or an artifact of the knowledge graph. At present, the prediction has no mechanistic support and would need independent validation.
 
 ## Clinical Trial Evidence
 
@@ -69,32 +67,37 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA207092 | Caspofungin Acetate (Fosun Pharma USA Inc.) | Lyophilized powder for injection | Not provided in the record |
-| ANDA207092 | Caspofungin Acetate (Sagent Pharmaceuticals) | Lyophilized powder for injection | Not provided in the record |
-| ANDA200833 | Caspofungin Acetate (Sandoz Inc) | Lyophilized powder for injection | Not provided in the record |
-| ANDA207092 | Caspofungin Acetate (Gland Pharma Limited) | Lyophilized powder for injection | Not provided in the record |
+| NDA021227 (Cancelled) | CANCIDAS (Merck Sharp & Dohme LLC) | Lyophilized powder for injection | Not listed |
+| NDA206110 (Cancelled) | Caspofungin Acetate (Fresenius Kabi USA, LLC) | Lyophilized powder for injection | Not listed |
+| ANDA200833 (Cancelled) | Caspofungin Acetate (Sandoz Inc) | Lyophilized powder for injection | Not listed |
+| ANDA207092 (Cancelled) | Caspofungin Acetate (Fosun Pharma USA Inc.) | Lyophilized powder for injection | Not listed |
+| ANDA216506 (Cancelled) | Caspofungin Acetate (Hangzhou Zhongmei Huadong Pharmaceutical Co., Ltd.) | Lyophilized powder for injection | Not listed |
+
+All five authorizations are listed as cancelled, and there are no valid single-ingredient or combination authorizations.
 
 ## Safety Considerations
 
-- **Drug Interactions**: No interaction records were found in the queried database.
+- **Contraindication signals from the knowledge graph (not label text)**: liver disease, gallbladder disease, potassium deficiency disease.
+- **Drug Interactions**: 81 interactions were identified. The two with a severity grade are:
+  - **Major**: Dexamethasone
+  - **Moderate**: Naltrexone
+  - Other interactions have unknown severity, including calcitriol, pantoprazole, omeprazole, lansoprazole, doxycycline, morphine, vancomycin, sucralfate, simvastatin, amphotericin B, nystatin, prednisone, prednisolone, hydrocortisone, and potassium chloride.
 
-Please refer to the package insert for other safety information, including warnings and contraindications.
+Please refer to the package insert for warnings and label contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical or literature support (L5), and the known antifungal mechanism has no plausible link to gastrin regulation. Nothing currently justifies moving forward.
+The prediction is supported only by a model score, with no clinical trials, no literature, and no plausible mechanistic link between glucan synthase inhibition and gastrin regulation. The product is also not currently marketed in the US, and label safety information has not been reviewed.
 
 **To proceed, the following is needed:**
-- The FDA package insert warnings and contraindications, which are needed before any safety screening
-- Confirmed mechanism of action data from DrugBank, and a written mechanistic hypothesis for gastrin regulation
-- A systematic literature and trial registry search (PubMed, ClinicalTrials.gov, ICTRP) for any signal in this indication
-- Route compatibility assessment (caspofungin is injectable only)
-- Preclinical evidence, if a mechanistic hypothesis emerges, before reconsidering the decision
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
+- Review of the FDA package insert for warnings and contraindications
+- Detailed mechanism-of-action data, followed by an assessment of any biological link to gastrin secretion
+- Independent preclinical or literature validation of the predicted association
+- Confirmation of the regulatory and supply status of caspofungin products
+- Assessment of route compatibility, since caspofungin is only available as an injectable
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

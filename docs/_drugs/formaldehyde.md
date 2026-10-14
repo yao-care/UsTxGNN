@@ -29,81 +29,79 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Formaldehyde: From No Labeled Indication to Diffuse Cutaneous Leishmaniasis
+# Formaldehyde: From Influenza to Diffuse Cutaneous Leishmaniasis
 
 ## One-Sentence Summary
 
-Formaldehyde is a reactive chemical widely used as a tissue fixative and disinfectant. In the US it appears in marketed homeopathic products (for example "Formalinum"), but the data provided lists no approved indication.
-The TxGNN model predicts it may be relevant to **diffuse cutaneous leishmaniasis**, but there are **0 clinical trials** and only **1 publication**, a laboratory diagnostic study in which formalin fixes tissue samples and is not a treatment.
+Formaldehyde is listed in the underlying knowledge graph with influenza-related original indications. It is mainly known as a protein cross-linking agent, used for vaccine inactivation and tissue fixation.
+The TxGNN model predicts it may be effective for **diffuse cutaneous leishmaniasis**, but **0 clinical trials** and **0 publications** support this prediction. The score is a computational output only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the available data |
+| Original Indication | Influenza (from the knowledge graph; no approved indication text on the US record) |
 | Predicted New Indication | Leishmaniasis, diffuse cutaneous |
 | TxGNN Prediction Score | 99.93% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 11 |
+| US Market Status | Cancelled only |
+| Number of NDAs | 1 (cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Formaldehyde is a reactive, cytotoxic electrophile that cross-links proteins and DNA. That is why it is used as a fixative, a disinfectant and a vaccine-inactivating agent.
+Currently, detailed mechanism of action data is not available. Based on known information, formaldehyde is a non-selective, reactive aldehyde that cross-links and denatures proteins. It is used as an inactivating agent in vaccine manufacturing and as a tissue fixative.
 
-The prediction does not look therapeutically grounded. The only supporting paper compares how well *Leishmania* DNA can be detected by PCR in formalin-fixed, ethanol-fixed and frozen skin biopsies. Formaldehyde appears there as a specimen preservative, not as a treatment. The high graph score most likely reflects the fixation and disinfection context rather than antileishmanial activity.
+The link between the original indication (influenza) and the predicted one (diffuse cutaneous leishmaniasis) is weak. Both are infectious diseases, which may explain the model's association, but no known mechanism makes formaldehyde therapeutic against Leishmania in patients. Any antiparasitic effect would come from non-specific cytotoxicity. Together with its systemic toxicity and carcinogenicity, this makes direct therapeutic use implausible. The high score should therefore be treated as a hypothesis-generating signal only.
 
-The other top predictions show the same pattern. Most are supported only by fixation-method papers, or by nothing at all.
-
-- **Pyelonephritis** is the only one with an indirect signal. Methenamine hippurate releases formaldehyde in acidic urine and is used to prevent recurrent urinary tract infection. Two Phase 4 trials tested methenamine, not formaldehyde itself.
-- **Streptococcal pneumonia and malaria** are supported only by papers where formaldehyde is a vaccine or laboratory reagent.
-- **X-linked lymphoproliferative syndrome** is supported mainly by occupational-exposure studies that point toward harm.
+Other top predictions show the same pattern. Mucocutaneous leishmaniasis, fatal infantile cardioencephalomyopathy due to cytochrome c oxidase deficiency, hemophagocytic syndromes, and X-linked lymphoproliferative syndrome all lack supporting trials or mechanistic rationale.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials registered for diffuse cutaneous leishmaniasis. No trials were found for any of the other top predicted indications either.
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [9830259](https://pubmed.ncbi.nlm.nih.gov/9830259/) | 1998 | Diagnostic methods comparison | J Dermatol | Compared detection of *Leishmania* by PCR and Southern blotting in formalin-fixed, ethanol-fixed and frozen skin biopsies from 19 leishmaniasis patients. Formalin is used only as a fixative; no treatment effect was assessed. |
+Currently no related literature available for diffuse cutaneous leishmaniasis.
+
+For other predicted indications, the retrieved papers do not show a therapeutic benefit of formaldehyde:
+
+| Predicted Indication | What the Literature Shows |
+|------|------|
+| Pyelonephritis | Papers cover nephrocalcinosis, a hamster oncogenic agent, a soil microbe turned uropathogen, and a rat vaccine study using a formaldehyde-inactivated antigen. [PMID 6385543](https://pubmed.ncbi.nlm.nih.gov/6385543/) (1984) found that the vaccine did not improve healing of an existing infection in the primarily infected kidney, though it may prevent spread to the other one. |
+| Streptococcal pneumonia | Papers concern vaccine manufacturing and animal vaccine studies, where formaldehyde acts as an inactivating or sterilizing agent. |
+| X-linked lymphoproliferative syndrome | Mostly occupational exposure studies linking formaldehyde to lymphohematopoietic malignancy, e.g. [PMID 31870335](https://pubmed.ncbi.nlm.nih.gov/31870335/) (2019 meta-analysis, non-Hodgkin lymphoma) and [PMID 41146278](https://pubmed.ncbi.nlm.nih.gov/41146278/) (2025 case-control study). This is a safety signal, not an efficacy signal. |
+| Trigonitis | Anatomical studies using formaldehyde as a tissue fixative. |
+| Plasmodium falciparum malaria | Laboratory methods using formaldehyde as a fixative, plus a Phase 1 vaccine trial ([PMID 27577237](https://pubmed.ncbi.nlm.nih.gov/27577237/), 2016) that used a formaldehyde-detoxified tetanus toxoid control. None shows an antimalarial effect. |
 
 ## US Market Information
 
-The data lists 11 authorizations, and 5 are shown here. None has a license number or approved indication in the source data. All appear to be homeopathic products.
-
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| Not listed | Formalinum (Hahnemann Laboratories) | Pellet | Not stated |
-| Not listed | Formalinum (Hahnemann Laboratories) | Pellet | Not stated |
-| Not listed | Formalinum (Hahnemann Laboratories) | Pellet | Not stated |
-| Not listed | Formaldehyde (Professional Complementary Health Formulas) | Liquid | Not stated |
-| Not listed | Formalinum (Boiron) | Pellet | Not stated |
+| Not available | Formalinum (Hahnemann Laboratories, Inc.) | Pellet | Not stated (status: cancelled) |
+
+## Cytotoxicity
+
+Formaldehyde is not an antineoplastic drug, so this section does not apply. It is classified as a human carcinogen. The literature compiled for this report links occupational exposure to lymphohematopoietic malignancy and to nasopharyngeal cancer.
 
 ## Safety Considerations
 
-No package insert warnings, contraindications or drug interaction records were available. Please refer to the package insert for safety information.
+Please refer to the package insert for safety information. The data compiled for this report include no label warnings, contraindications, or drug interaction records.
 
-The retrieved literature also raises these concerns:
-- **Carcinogenicity**: Formaldehyde is considered a human carcinogen. A meta-analysis (PMID 31870335) examined occupational exposure and non-Hodgkin lymphoma risk, and other epidemiology links exposure to lymphohematopoietic cancers.
-- **Local tissue toxicity**: A case report (PMID 3822522) describes ureteric stenosis, fibrotic contraction of the renal pelves and recurrent pyelonephritis after intravesical formalin instillation.
+The retrieved literature does raise a carcinogenicity concern. The International Agency for Research on Cancer classifies formaldehyde as a human carcinogen, with sufficient evidence for nasopharyngeal cancer and leukaemia ([PMID 41146278](https://pubmed.ncbi.nlm.nih.gov/41146278/)).
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction for diffuse cutaneous leishmaniasis is a model output with no clinical trials. Its only publication is a diagnostic study in which formaldehyde is a specimen fixative. There is no plausible therapeutic mechanism, and formaldehyde has documented toxicity and carcinogenicity concerns.
+The TxGNN score is very high (99.93%), but no clinical trials or supporting literature exist for any predicted indication. There is no plausible therapeutic mechanism. Formaldehyde's toxicity and carcinogenicity argue against systemic therapeutic use. The only US license has been cancelled.
 
 **To proceed, the following is needed:**
-- Package insert safety data (warnings, contraindications), which is currently missing and blocks safety screening
-- Mechanism of action data from DrugBank
-- Any future work on the pyelonephritis or recurrent UTI signal should focus on methenamine as a formaldehyde-releasing prodrug and should not test formaldehyde directly
-- Evidence of actual antileishmanial activity (in vitro or in vivo) before any further evaluation for leishmaniasis
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Package insert warnings and contraindications (blocking gap for safety screening)
+- Mechanism of action data
+- Preclinical evidence of selective activity against Leishmania, with an acceptable safety margin
+- A route-of-administration assessment (for example, topical or local use rather than systemic)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

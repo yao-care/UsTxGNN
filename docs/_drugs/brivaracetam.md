@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Brivaracetam
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 470
-evidence_level: L3
+evidence_level: L5
 indication_count: 10
 ---
 
 # Brivaracetam
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,87 +29,94 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Brivaracetam: From Focal Seizures to Visual Epilepsy
+# Brivaracetam: From Partial Epilepsy to Status Epilepticus
 
 ## One-Sentence Summary
 
-Brivaracetam is an antiseizure medication marketed in the US for focal-onset seizures. The TxGNN model predicts it may be effective for **visual (photosensitive) epilepsy**. There are **no registered clinical trials** for this indication, and the **18 linked publications** are mostly general epilepsy reviews. The closest human data are two photosensitivity-model studies (PMIDs 17785672 and 32949370), which use an EEG surrogate endpoint.
+Brivaracetam is an antiseizure medicine originally used to treat partial (focal) epilepsy.
+The TxGNN model predicts it may be effective for **Status Epilepticus** (the highest-ranked prediction with clinical evidence; the top-scoring prediction overall is visual epilepsy, which has no trials),
+with **1 clinical trial** and **19 publications** currently supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Focal-onset seizures (the license indication text in the pack is empty, so this comes from the pack's rationale text) |
-| Predicted New Indication | Visual epilepsy |
-| TxGNN Prediction Score | 99.51% |
-| Evidence Level | L3 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 licenses (NDA and ANDA) |
-| Recommended Decision | Hold |
+| Original Indication | Partial epilepsy / partial motor epilepsy (the US label text for the licenses was not available) |
+| Predicted New Indication | Status epilepticus (selected from the 10 predictions because it has the strongest evidence; the rank 1 prediction is visual epilepsy) |
+| TxGNN Prediction Score | 99.40% (visual epilepsy, rank 1: 99.51%) |
+| Evidence Level | L3 (systematic reviews and observational or registry data; no completed Phase 3 RCT) |
+| US Market Status | Cancelled only (all 10 licenses are listed as cancelled) |
+| Number of NDAs | 10 licenses in total (2 NDAs and 8 ANDAs) |
+| Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
 
-Brivaracetam is a high-affinity ligand of synaptic vesicle protein 2A (SV2A), the target of levetiracetam. It binds SV2A with roughly 15 to 30 times higher affinity than levetiracetam and enters the brain quickly. By modulating synaptic vesicle release, it dampens neuronal hyperexcitability.
+Detailed mechanism of action data is not available in the data compiled for this report. The literature does describe brivaracetam as a high-affinity ligand of synaptic vesicle protein 2A (SV2A), with 15- to 30-fold higher affinity than levetiracetam. Binding to SV2A is thought to reduce synaptic vesicle release and neuronal hyperexcitability.
 
-Visual epilepsy is a reflex epilepsy in which seizures are triggered by visual stimuli such as flickering light. Like focal epilepsy, it is a disorder of cortical hyperexcitability, so an SV2A ligand is mechanistically plausible. Brivaracetam has also been tested in the human photosensitivity model. In this model, patients receive intermittent photic stimulation, and the photoparoxysmal EEG response (PPR) serves as a biomarker of efficacy.
+Status epilepticus is a prolonged or repeated seizure emergency, and it is closely related to the focal seizures for which brivaracetam is already used. Brivaracetam crosses the blood-brain barrier quickly and has an intravenous formulation, which suits acute seizure termination. Systematic reviews of IV brivaracetam in status epilepticus report efficacy and tolerability, but they draw mainly on observational and case-series data.
 
-Two limits apply. First, the PPR studies are surrogate-endpoint work, and the pack lists them under "audiogenic seizures" rather than under this indication. Their design and sample size cannot be confirmed from the pack. Second, the literature actually attached to this indication is general epilepsy material. No study shows that brivaracetam reduces seizures in patients with visual epilepsy.
+Other predictions are weaker:
+- **Visual epilepsy** (highest score) has no trials. The link to brivaracetam is indirect and inferred from the shared seizure mechanism.
+- **Audiogenic seizures** are supported only by animal-model studies.
+- **Rare reflex epilepsies** (micturition-induced, thinking, eating, startle and orgasm-induced seizures) have no specific evidence.
+- **Beta-ketothiolase deficiency** is a metabolic disorder whose seizures are secondary to ketoacidosis. SV2A modulation does not address the enzyme defect, so this prediction is not plausible.
+- **Adolescent/adult onset autosomal dominant epilepsy with auditory features** is a genetic focal epilepsy, so a symptomatic benefit is plausible, but there are no specific studies.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for visual epilepsy.
-
-For context, the second-ranked prediction, status epilepticus, has one completed trial: [NCT07163572](https://clinicaltrials.gov/study/NCT07163572), IV brivaracetam vs levetiracetam in pediatric status epilepticus (n=152, phase not applicable, no results in the pack). It does not apply to visual epilepsy.
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT07163572](https://clinicaltrials.gov/study/NCT07163572) | NA | Completed | 152 | Compares IV brivaracetam with levetiracetam in children with status epilepticus. Results were not provided, and the design and outcomes need verification. |
 
 ## Literature Evidence
 
-The first two rows below are the photosensitivity studies most relevant to this indication. The pack lists them under a different predicted indication.
-
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [32949370](https://pubmed.ncbi.nlm.nih.gov/32949370/) | 2020 | RCT (double-blind crossover) | CNS Drugs | Brivaracetam vs levetiracetam on how quickly the PPR is suppressed in photosensitive epilepsy patients. Both drugs eliminate the PPR in this model. Detailed results are not in the pack. |
-| [17785672](https://pubmed.ncbi.nlm.nih.gov/17785672/) | 2007 | Human photosensitivity model study | Neurology | Proof-of-principle assessment of brivaracetam activity in the photosensitivity model. Abstract truncated in the pack. |
-| [38576178](https://pubmed.ncbi.nlm.nih.gov/38576178/) | 2024 | Phase III RCT | Epilepsia Open | Adjunctive brivaracetam in adult Asian patients with uncontrolled focal-onset seizures. Indirect evidence, not specific to visual epilepsy. |
-| [37483441](https://pubmed.ncbi.nlm.nih.gov/37483441/) | 2023 | Systematic review / meta-analysis | Front Neurol | Safety and efficacy of brivaracetam in childhood epilepsy in general. |
-| [38811492](https://pubmed.ncbi.nlm.nih.gov/38811492/) | 2024 | Review | Adv Ther | Preclinical profile and clinical benefits of brivaracetam. SV2A affinity is 15 to 30 times that of levetiracetam. |
-| [40568060](https://pubmed.ncbi.nlm.nih.gov/40568060/) | 2025 | Review | J Epilepsy Res | Pharmacology, efficacy, and safety. Approved as adjunctive and monotherapy for focal-onset seizures. |
-| [31195850](https://pubmed.ncbi.nlm.nih.gov/31195850/) | 2019 | Review | Expert Rev Neurother | Efficacy and tolerability in focal epilepsy. |
-| [32120063](https://pubmed.ncbi.nlm.nih.gov/32120063/) | 2020 | Review | Neuropharmacology | Mechanisms of action of currently used antiseizure drugs. |
-| [31937513](https://pubmed.ncbi.nlm.nih.gov/31937513/) | 2020 | Pooled analysis | Epilepsy Behav | Safety and tolerability of adjunctive brivaracetam in focal seizures. |
-| [26664121](https://pubmed.ncbi.nlm.nih.gov/26664121/) | 2015 | Review | Neuropsychiatr Dis Treat | Profile of brivaracetam. It does not share levetiracetam's inhibition of high-voltage Ca²⁺ channels and AMPA receptors. |
+| [41838218](https://pubmed.ncbi.nlm.nih.gov/41838218/) | 2026 | Systematic review | J Neurol | Brivaracetam as a potential treatment for status epilepticus. Its efficacy and safety profile remains inadequately characterized. |
+| [32278203](https://pubmed.ncbi.nlm.nih.gov/32278203/) | 2020 | Systematic review | J Neurol Sci | IV brivaracetam may be an alternative anticonvulsant in status epilepticus. Controlled studies are sparse, which limits recommendation. |
+| [31342405](https://pubmed.ncbi.nlm.nih.gov/31342405/) | 2019 | Systematic review | CNS Drugs | Reviews IV brivaracetam in status epilepticus. Its high brain permeability and rapid onset suit emergency use. |
+| [32822230](https://pubmed.ncbi.nlm.nih.gov/32822230/) | 2020 | Guideline/Review | Epilepsy Curr | American Epilepsy Society review of parenteral antiseizure drugs for refractory convulsive status epilepticus. |
+| [31260101](https://pubmed.ncbi.nlm.nih.gov/31260101/) | 2019 | Registry | Epilepsia | Multicenter registry on IV brivaracetam use in status epilepticus. |
+| [33561784](https://pubmed.ncbi.nlm.nih.gov/33561784/) | 2021 | Retrospective study | Seizure | Italian multicenter study of the use, effectiveness and adverse events of IV brivaracetam in status epilepticus. |
+| [41043236](https://pubmed.ncbi.nlm.nih.gov/41043236/) | 2025 | Real-world study | Epilepsy Behav | Efficacy of switching from IV to oral brivaracetam after status epilepticus and cluster seizures. |
+| [32480279](https://pubmed.ncbi.nlm.nih.gov/32480279/) | 2020 | Case report/series | Seizure | Brivaracetam in absence status epilepticus. |
+| [36528008](https://pubmed.ncbi.nlm.nih.gov/36528008/) | 2023 | Review | Epilepsy Behav | Compares brivaracetam and levetiracetam in status epilepticus using the photosensitivity model. |
+| [38576178](https://pubmed.ncbi.nlm.nih.gov/38576178/) | 2024 | RCT (Phase 3) | Epilepsia Open | Adjunctive brivaracetam in adult Asian patients with focal-onset seizures. This supports the original indication, not status epilepticus. |
 
 ## US Market Information
 
-The pack gives no approved-indication text for these licenses. Five of 20 licenses are shown.
+All 10 licenses are listed as cancelled, and the data compiled for this report do not include approved indication text. The five listed below are examples.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA205838 | Briviact | Solution | UCB, Inc. |
-| ANDA214921 | Brivaracetam | Tablet, film coated | Novadoz Pharmaceuticals LLC |
-| ANDA214875 | Brivaracetam | Tablet | Apotex Corp. |
-| ANDA218494 | Brivaracetam | Solution | PAI Holdings, LLC dba PAI Pharma |
-| ANDA214501 | Brivaracetam | Tablet, film coated | Zydus Lifesciences Limited |
-
-Available forms include oral tablets, oral solution, and injection.
+| NDA205836 | Briviact (UCB, Inc.) | Film-coated tablet | Not available |
+| NDA205838 | Briviact (UCB, Inc.) | Solution | Not available |
+| ANDA214921 | Brivaracetam (Novadoz) | Film-coated tablet | Not available |
+| ANDA218249 | Brivaracetam (Hainan Poly Pharm) | Injection | Not available |
+| ANDA214875 | Brivaracetam (Apotex) | Tablet | Not available |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: The interaction query returned 69 records. The 20 retrieved records are mostly moderate or minor in severity.
+  - Moderate: morphine (including liposomal), opium, ethanol, promethazine, metoclopramide, dronabinol, nabilone, difenoxin, diphenoxylate, sibutramine and clopidogrel. Many of these are central nervous system depressants, so additive sedation is a practical concern.
+  - Minor: proton pump inhibitors (omeprazole, esomeprazole, lansoprazole, dexlansoprazole, pantoprazole), chlorpropamide, tolbutamide and cilostazol.
+
+For warnings and contraindications, please refer to the package insert.
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Proceed with Guardrails**
 
 **Rationale:**
-The prediction score is very high (99.51%), but no trial has tested brivaracetam in visual epilepsy. The only related human data are PPR surrogate-endpoint studies, and safety labeling has not yet been reviewed. Among this drug's predictions, status epilepticus (rank 2) has more clinical support, including an IV formulation, a completed head-to-head trial, and systematic reviews. It would be a better candidate to prioritize.
+Status epilepticus is the best-supported prediction. Several systematic reviews, registry data and one completed pediatric trial point the same way, and brivaracetam has an IV formulation and rapid brain penetration. However, there is no completed Phase 3 RCT, so the evidence stays at L3. The other predictions are research questions (visual epilepsy and audiogenic seizures, L4) or should be held (the remaining reflex and genetic epilepsies, L5, and beta-ketothiolase deficiency, which is mechanistically implausible).
 
 **To proceed, the following is needed:**
-- Full-text review of the two PPR studies (PMIDs 17785672 and 32949370) to confirm design, sample size, and effect size
-- Evidence that PPR suppression translates into clinical seizure reduction in visual epilepsy
-- Parsing of the FDA package insert for warnings and contraindications (a blocking gap)
-- A review of the drug-interaction profile (the query returned no records)
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
+- Verify the design and results of NCT07163572 (the phase is listed as NA, and no results were provided).
+- A well-designed randomized controlled trial of IV brivaracetam in status epilepticus.
+- FDA package insert warnings and contraindications, which are currently missing and block formal safety screening.
+- Detailed mechanism of action data from DrugBank.
+- Clarify the regulatory position. All US licenses are currently cancelled, so product availability and regulatory pathway need to be confirmed.
+- A plan for monitoring additive sedation when brivaracetam is combined with central nervous system depressants in an acute-care setting.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

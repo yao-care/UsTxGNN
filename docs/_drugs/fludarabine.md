@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Fludarabine
-parent: Model Prediction Only (L5)
+parent: High Evidence (L1-L2)
 nav_order: 715
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Fludarabine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,137 +29,117 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Fludarabine: From Lymphoid Malignancy Chemotherapy to Plasma Cell Myeloma
+# Fludarabine: From Hematologic Malignancy Treatment to Plasma Cell Myeloma
 
 ## One-Sentence Summary
 
-Fludarabine is a purine nucleoside analog chemotherapy drug. The literature in the Evidence Pack describes its use in B-cell chronic lymphocytic leukemia, hairy cell leukemia and indolent lymphomas.
-The TxGNN model predicts it may be useful for **Plasma Cell Myeloma**, with **50 clinical trials** and **20 publications** retrieved.
-Almost all of that evidence has fludarabine as a conditioning or lymphodepletion component of a regimen, not as a stand-alone anti-myeloma treatment.
-
----
+Fludarabine is a purine nucleoside analog chemotherapy drug. The data compiled for this report do not list an approved indication for it, but it is known as a treatment for lymphoid cancers.
+The TxGNN model predicts it may be useful for **plasma cell myeloma**, with **31 registered clinical trials** and **19 publications** in the compiled data.
+In nearly all of these studies, fludarabine is a conditioning or lymphodepletion component of a transplant or CAR-T regimen, not a stand-alone anti-myeloma treatment.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in the US license data. Literature describes B-cell CLL, hairy cell leukemia and indolent lymphomas |
+| Original Indication | Not available in the data compiled for this report (the US license records contain no indication text) |
 | Predicted New Indication | Plasma cell myeloma |
 | TxGNN Prediction Score | 99.82% |
-| Evidence Level | L2 (per Evidence Pack scoring; no trial isolates fludarabine as the tested variable, so this is at the optimistic end) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 5 (all ANDA generics; see the note under US Market Information) |
-| Recommended Decision | Hold |
-
----
+| Evidence Level | L2 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 4 (all cancelled; these are generic ANDA records) |
+| Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in DrugBank for this record. Fludarabine is a purine nucleoside analog that inhibits DNA synthesis and is strongly lymphotoxic. Its efficacy in lymphoid malignancies is established.
+Detailed mechanism-of-action data from DrugBank are not available. From the compiled analysis, fludarabine is a purine nucleoside analog that inhibits DNA synthesis and is cytotoxic to lymphoid cells. Preclinical work has also reported anti-myeloma activity in vitro and in vivo (PMID 17976186).
 
-In myeloma it works as a **conditioning or lymphodepleting backbone**, not as a single-agent anti-myeloma drug. The main uses are:
-- Fludarabine/melphalan or fludarabine/busulfan conditioning before allogeneic transplant.
-- Fludarabine/cyclophosphamide lymphodepletion before CAR-T therapy.
+In myeloma, fludarabine is used mainly as a **lymphodepleting and conditioning agent**:
+- with cyclophosphamide before BCMA-directed CAR-T therapy;
+- with busulfan, melphalan, or treosulfan before allogeneic stem cell transplant.
 
-Preclinical work also reports anti-myeloma activity in vitro and in vivo (PMID 17976186), although a review of the field notes the drug's single-agent activity in myeloma has been controversial.
-
-The prediction is therefore best read as a regimen-level signal. The supporting evidence does not show that fludarabine alone treats myeloma.
-
----
+Myeloma and chronic lymphocytic leukemia are closely related B-cell cancers (PMID 1415309), which fits the idea that a lymphoid-active drug could be relevant. However, the Phase 3 CAR-T trials list fludarabine only as part of the lymphodepletion backbone. They therefore do not isolate its own efficacy against myeloma.
 
 ## Clinical Trial Evidence
 
-The Evidence Pack lists 50 trials. Below are the 10 most relevant. Many others are mixed hematologic-malignancy transplant studies.
+The data list 31 trials for this indication. The table shows the 10 most relevant, selected from those with a relevance grade of B or higher plus the largest additional trials.
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT04098393](https://clinicaltrials.gov/study/NCT04098393) | Phase 1 | Active, not recruiting | 39 | Condensed busulfan/melphalan/fludarabine plus ATG before CD34+ selected allogeneic transplant; tests whether severe side effects are equal or fewer |
-| [NCT01008462](https://clinicaltrials.gov/study/NCT01008462) | Phase 2 | Completed | 16 | Autologous transplant followed by nonmyeloablative haploidentical transplant (fludarabine in conditioning) for high-risk lymphoma, myeloma or CLL |
-| [NCT00054353](https://clinicaltrials.gov/study/NCT00054353) | Phase 1/2 | Completed | 16 | Reduced-intensity fludarabine + melphalan + TBI before donor stem cell transplant in multiple myeloma |
-| [NCT01231412](https://clinicaltrials.gov/study/NCT01231412) | Phase 3 | Completed | 174 | Randomized comparison of post-graft immunosuppression (GVHD prevention) after nonmyeloablative conditioning; fludarabine is background, not the tested variable |
-| [NCT00615589](https://clinicaltrials.gov/study/NCT00615589) | Phase 2 | Terminated | 22 | Allogeneic transplant with reduced-toxicity myeloablative conditioning in high-risk myeloma |
-| [NCT00723099](https://clinicaltrials.gov/study/NCT00723099) | Phase 2 | Completed | 73 | Cord blood transplant with reduced-intensity conditioning across hematologic cancers; myeloma is one of several diseases |
-| [NCT02447055](https://clinicaltrials.gov/study/NCT02447055) | Early Phase 1 | Withdrawn | 0 | Fludarabine/melphalan allo-transplant with post-transplant cyclophosphamide and tocilizumab in myeloma; no patients enrolled |
-| [NCT04579523](https://clinicaltrials.gov/study/NCT04579523) | Phase 1 | Not yet recruiting | 30 | ²¹¹At-labeled anti-CD38 antibody with fludarabine before donor transplant in high-risk myeloma |
-| [NCT06196255](https://clinicaltrials.gov/study/NCT06196255) | Phase 1/2 | Recruiting | 20 | Anti-FcRL5 CAR-T in relapsed/refractory myeloma after fludarabine + cyclophosphamide lymphodepletion |
-| [NCT07149857](https://clinicaltrials.gov/study/NCT07149857) | Phase 2 | Recruiting | 60 | Cilta-cel with a fludarabine-free lymphodepletion regimen, or after cyclophosphamide + fludarabine; this study examines whether fludarabine can be omitted |
-
----
+| [NCT01658319](https://clinicaltrials.gov/study/NCT01658319) | Phase 1 | Completed | 20 | Fludarabine plus methoxyamine (TRC102) in relapsed/refractory hematologic malignancies; fludarabine is a direct therapeutic component |
+| [NCT00309842](https://clinicaltrials.gov/study/NCT00309842) | Phase 2 | Completed | 213 | Cord blood transplant after cyclophosphamide/fludarabine/TBI conditioning; mixed hematologic diseases |
+| [NCT03303950](https://clinicaltrials.gov/study/NCT03303950) | Phase 2 | Terminated | 6 | Busulfan/fludarabine conditioning, donor transplant, and cyclophosphamide in myeloma or myelofibrosis; very limited data |
+| [NCT01008462](https://clinicaltrials.gov/study/NCT01008462) | Phase 2 | Completed | 16 | Autologous transplant followed by nonmyeloablative haploidentical transplant with fludarabine conditioning in lymphoma, myeloma, or CLL |
+| [NCT00056966](https://clinicaltrials.gov/study/NCT00056966) | Phase 1/2 | Completed | 24 | CD45 antibody and alemtuzumab conditioning regimen that includes fludarabine |
+| [NCT06045806](https://clinicaltrials.gov/study/NCT06045806) | Phase 3 | Active, not recruiting | 79 | Ide-cel plus lenalidomide maintenance vs lenalidomide alone (KarMMa-9); fludarabine only for lymphodepletion |
+| [NCT06413498](https://clinicaltrials.gov/study/NCT06413498) | Phase 3 | Active, not recruiting | 452 | Anitocabtagene autoleucel vs standard of care in relapsed/refractory myeloma; fludarabine is part of lymphodepletion |
+| [NCT07764978](https://clinicaltrials.gov/study/NCT07764978) | Phase 3 | Recruiting | 750 | AZD0120 BCMA/CD19 CAR-T consolidation (DURGA-5); fludarabine is supportive only |
+| [NCT00909948](https://clinicaltrials.gov/study/NCT00909948) | Phase 1 | Terminated | 7 | Intentional graft rejection after nonmyeloablative transplant; terminated early |
+| [NCT05577000](https://clinicaltrials.gov/study/NCT05577000) | Phase 1b | Active, not recruiting | 5 | Anti-BCMA CAR-T in relapsed/refractory myeloma; fludarabine for lymphodepletion only |
 
 ## Literature Evidence
 
-There is no RCT in the myeloma retrieval set. The evidence is phase 1 studies, retrospective series, real-world CAR-T data and preclinical work.
+The 19 publications are mostly cohort studies and CAR-T reports, with no RCT focused on fludarabine in myeloma. Representative items:
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [38483213](https://pubmed.ncbi.nlm.nih.gov/38483213/) | 2024 | Phase 1 | Am J Clin Oncol | Bortezomib + fludarabine + melphalan, with or without total marrow irradiation, as allo-transplant conditioning in high-risk/refractory myeloma |
-| [40972962](https://pubmed.ncbi.nlm.nih.gov/40972962/) | 2025 | Real-world cohort | Transplant Cell Ther | Fludarabine lymphodepletion exposure is associated with toxicities after ide-cel in relapsed/refractory myeloma |
-| [37833271](https://pubmed.ncbi.nlm.nih.gov/37833271/) | 2023 | Comparative study | Blood Cancer J | Bendamustine versus fludarabine/cyclophosphamide lymphodepletion before BCMA CAR-T in myeloma |
-| [37701906](https://pubmed.ncbi.nlm.nih.gov/37701906/) | 2023 | Phase 2 | Leuk Res Rep | Split-dose busulfan/fludarabine + post-transplant cyclophosphamide; only 2 myeloma patients, 1-year overall survival 50% across 6 patients |
-| [17310135](https://pubmed.ncbi.nlm.nih.gov/17310135/) | 2007 | Retrospective multicenter | Bone Marrow Transplant | Feasibility of fludarabine/treosulfan conditioning before allo-SCT in 34 myeloma patients |
-| [15389436](https://pubmed.ncbi.nlm.nih.gov/15389436/) | 2004 | Retrospective cohort | Biol Blood Marrow Transplant | 120 myeloma patients after melphalan/fludarabine allografts; 1-year treatment-related mortality 18%, relapse after prior autograft and chronic GVHD were the strongest adverse factors |
-| [17976186](https://pubmed.ncbi.nlm.nih.gov/17976186/) | 2007 | Preclinical | Eur J Haematol | Fludarabine inhibited the RPMI8226 myeloma cell line in vitro and in vivo, with reduced Akt phosphorylation |
-| [7781758](https://pubmed.ncbi.nlm.nih.gov/7781758/) | 1995 | Report | Eur J Haematol | Fludarabine in plasma cell leukemia (no abstract available) |
-
----
+| [38483213](https://pubmed.ncbi.nlm.nih.gov/38483213/) | 2024 | Phase 1 trial | Am J Clin Oncol | Bortezomib, fludarabine, and melphalan with or without total marrow irradiation as allogeneic transplant conditioning in high-risk myeloma |
+| [17310135](https://pubmed.ncbi.nlm.nih.gov/17310135/) | 2007 | Cohort | Bone Marrow Transplant | Fludarabine/treosulfan reduced-toxicity conditioning before allogeneic transplant in 34 myeloma patients |
+| [37701906](https://pubmed.ncbi.nlm.nih.gov/37701906/) | 2023 | Phase 2 | Leuk Res Rep | Split-dose busulfan, fludarabine, and post-transplant cyclophosphamide in 2 myeloma and 4 myelofibrosis patients; 1-year overall survival 50% |
+| [40972962](https://pubmed.ncbi.nlm.nih.gov/40972962/) | 2025 | Real-world study | Transplant Cell Ther | Fludarabine exposure during lymphodepletion associated with toxicities after ide-cel |
+| [39365257](https://pubmed.ncbi.nlm.nih.gov/39365257/) | 2025 | Retrospective cohort | Blood | Standard-of-care cilta-cel in relapsed/refractory myeloma (236 treated patients) |
+| [38659046](https://pubmed.ncbi.nlm.nih.gov/38659046/) | 2024 | Cohort | J Hematol Oncol | 5-year follow-up of LEGEND-2 with LCAR-B38M CAR-T |
+| [35333600](https://pubmed.ncbi.nlm.nih.gov/35333600/) | 2022 | Cohort | J Clin Oncol | Long-term follow-up of combined BCMA and CD19 CAR-T |
+| [7781758](https://pubmed.ncbi.nlm.nih.gov/7781758/) | 1995 | Report | Eur J Haematol | Fludarabine and plasma cell leukemia (no abstract available) |
+| [1415309](https://pubmed.ncbi.nlm.nih.gov/1415309/) | 1992 | Review | Am J Med | Parallels and contrasts between myeloma and CLL |
+| [38576761](https://pubmed.ncbi.nlm.nih.gov/38576761/) | 2024 | Review | World J Transplant | Autologous transplant conditioning regimens and CAR-T across diseases |
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+All four US records are generic (ANDA) injectables, and all have been cancelled. No indication text is recorded for them.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA090724 | Fludarabine Phosphate | Injection | Areva Pharmaceuticals |
-| ANDA090724 | Fludarabine Phosphate | Injection | Lannett Company, Inc. |
-| ANDA076661 | Fludarabine Phosphate | Injection, solution | Sagent Pharmaceuticals |
-| ANDA078393 | Fludarabine | Injection, solution | Fresenius Kabi USA, LLC |
-| ANDA078610 | Fludarabine phosphate | Injection, powder, lyophilized, for solution | Actavis Pharma, Inc. |
-
-All products are generic injectables. Approved indication text is not included in the source data. ANDA090724 appears twice under different manufacturers, so there are 4 distinct numbers against 5 license records.
-
----
+| ANDA090724 | Fludarabine Phosphate (Areva Pharmaceuticals) | Injection | Not recorded |
+| ANDA076661 | Fludarabine Phosphate (Sagent Pharmaceuticals) | Injection, solution | Not recorded |
+| ANDA078393 | Fludarabine (Fresenius Kabi USA) | Injection, solution | Not recorded |
+| ANDA078610 | Fludarabine phosphate (Actavis Pharma) | Injection, powder, lyophilized, for solution | Not recorded |
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (purine nucleoside analog antimetabolite) |
-| Myelosuppression Risk | High (myelosuppression is flagged as a guardrail in the evidence review) |
-| Emetogenicity Classification | Low (based on drug class) |
-| Monitoring Items | CBC with differential, renal function (renally cleared), neurological status, infection surveillance |
+| Cytotoxicity Classification | Conventional cytotoxic (purine nucleoside analog) |
+| Myelosuppression Risk | High; significant myelosuppression and other toxicities are described in the literature (PMID 23787174) |
+| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
+| Monitoring Items | Complete blood count with differential, liver and renal function; neurotoxicity at high doses (PMID 7525188) |
 | Handling Protection | Follow cytotoxic drug handling regulations |
 
-No DrugBank toxicity data was retrieved. These entries reflect drug class and the guardrails in the evidence review. Please refer to the package insert warnings and precautions.
-
----
+Related literature also reports therapy-related myelodysplastic syndrome and acute myeloid leukemia after fludarabine combination chemotherapy (PMID 20962860).
 
 ## Safety Considerations
 
-No package insert warnings, contraindications or drug-interaction records were retrieved; the DDI query returned no results. The evidence review raises these guardrails:
-- Dose adjustment is needed in renal impairment.
-- Neurotoxicity risk.
-- Myelosuppression.
-- Prolonged immunosuppression and opportunistic infection.
-- Fludarabine exposure was associated with toxicities after CAR-T therapy (PMID 40972962).
-- Therapy-related MDS/AML has been reported after fludarabine combination chemotherapy (PMID 20962860).
+- **Drug Interactions**: The interaction screen returned 100 records. Those shown include moderate-level interactions with metronidazole, rosuvastatin, simvastatin, and tinidazole, and a minor interaction with levofloxacin. Many others are of unknown severity, for example doxycycline, amphotericin B, morphine, metformin, and omeprazole.
 
-Please refer to the package insert for full safety information.
-
----
+Package insert warnings and contraindications were not available in the compiled data. Please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Proceed with Guardrails**
 
 **Rationale:**
-Fludarabine's role in myeloma is as a conditioning or lymphodepletion component, and no study isolates its independent effect. Package insert safety data is also missing, a blocking gap that prevents safety screening.
+Fludarabine is firmly embedded in conditioning and lymphodepletion regimens for myeloma, supported by multiple Phase 2 and 3 trials and preclinical anti-myeloma activity. These studies do not show that fludarabine itself treats myeloma, and no completed Phase 3 RCT isolates its effect. Evidence is therefore best read as supportive-role use, not stand-alone efficacy.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (blocking gap), plus DrugBank mechanism of action data.
-- Comparative data showing what fludarabine adds within myeloma conditioning or CAR-T lymphodepletion regimens, such as fludarabine-free arms (NCT07149857 is relevant).
-- A renal-dosing and neurotoxicity/infection monitoring plan for this population.
+- FDA package insert warnings and contraindications (currently missing and blocking safety screening)
+- Mechanism-of-action data from DrugBank
+- Studies that separate fludarabine's own contribution from the rest of the conditioning or CAR-T regimen
+- A hematologic and neurotoxicity monitoring plan, with attention to fludarabine exposure and CAR-T toxicity
+- Clarification of current US availability, since all four generic licenses are cancelled
 
-**Other predictions in the pack:** Myelodysplastic syndrome (rank 7) is better supported. Fludarabine-based conditioning is an established allogeneic transplant backbone there, with Phase 3 RCT evidence, though fludarabine is not the randomized variable. It is rated Proceed with Guardrails and merits its own evaluation. Indolent plasma cell myeloma (rank 4) and unclassified MDS (rank 8) have thin or mapping-limited evidence. Hyperthyroidism, diabetic nephropathy and the rare genetic disorders (ranks 2, 3, 5, 6, 9, 10) have no plausible mechanistic link or trial support and should be held.
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+**Other predicted indications (for reference):**
+- **Indolent plasma cell myeloma** and **myelodysplastic syndrome** also carry L2 evidence and Proceed with Guardrails, with fludarabine again as a transplant conditioning component. Their evidence includes a randomized Phase 3 comparison of treosulfan vs busulfan, each with fludarabine, in older AML/MDS patients (PMID 31606445).
+- **Unclassified myelodysplastic syndrome** is L3 and a research question only.
+- The remaining predictions (hyperthyroidism, three rare genetic disorders, del(5q), and diabetic nephropathy) have no clinical support and are on Hold; they look like prediction artifacts.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

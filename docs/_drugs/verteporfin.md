@@ -29,33 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Verteporfin: From Photodynamic Therapy Photosensitizer to Mitochondrial Oxidative Phosphorylation Disorder (Nuclear DNA Anomalies)
+# Verteporfin: From Macular Degeneration to Mitochondrial Oxidative Phosphorylation Disorder Due to Nuclear DNA Anomalies
 
 ## One-Sentence Summary
 
-Verteporfin is a photosensitizer used in photodynamic therapy (PDT), and it is marketed in the US as Visudyne.
-The TxGNN model predicts it may be useful for **mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies**.
-This is a computational prediction only: **0 clinical trials** and **0 publications** currently support it.
+Verteporfin is a light-activated photosensitizer, originally used to treat macular degeneration.
+The TxGNN model predicts it may be effective for **mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies**,
+but there are currently **0 clinical trials** and **0 publications** supporting this direction. The prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the supplied record (verteporfin is a photosensitizer used in photodynamic therapy) |
+| Original Indication | Macular degeneration |
 | Predicted New Indication | Mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies |
 | TxGNN Prediction Score | 99.49% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
+| US Market Status | Cancelled only (no currently valid licenses) |
 | Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the record. Verteporfin generates reactive oxygen species (ROS) when activated by light, which is the basis of its use in PDT. In preclinical work it has also been reported to inhibit YAP-TEAD signaling and to modulate autophagy, independent of light.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, verteporfin is a photosensitizer activated by non-thermal red light (about 689 nm). Activation generates reactive oxygen species and causes local vascular occlusion, which is the basis of its use in macular degeneration.
 
-No direct mechanistic evidence links verteporfin to nuclear-DNA-driven OXPHOS disorders. Any link would have to run through indirect pathways, such as autophagy/mitophagy or Hippo-YAP signaling, and is speculative.
+Preclinical work also reports that verteporfin inhibits YAP-TEAD signaling and may affect autophagy. If this holds, modulating YAP/Hippo signaling or autophagy/mitophagy could be a speculative route to mitochondrial disease. However, the photodynamic action produces oxidative stress, which could instead worsen oxidative phosphorylation dysfunction.
 
-There is also a countervailing concern. ROS generation and mitochondrial photodamage could worsen mitochondrial dysfunction rather than improve it. The very high TxGNN score (0.995; rank 12,092) should therefore be read as a hypothesis to test, not as support for efficacy.
+The link between the original indication (a retinal vascular condition) and the predicted one (an inherited mitochondrial disorder) is therefore weak. The prediction is unvalidated, and whether it would help or harm is unclear. The high TxGNN score (99.49%) reflects knowledge-graph patterns only, not clinical or experimental evidence.
 
 ## Clinical Trial Evidence
 
@@ -69,26 +69,33 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA021119 | Visudyne (Bausch & Lomb Incorporated) | Injection, powder, lyophilized, for solution | Not listed in the record |
+| NDA021119 | Visudyne (Bausch & Lomb Incorporated; status: cancelled) | Injection, powder, lyophilized, for solution | Not listed in the data compiled for this report |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug interactions were found in the queried data.
+- **Contraindications suggested by the knowledge graph** (from drug-disease relationship data, not from label text): inherited porphyria, porphyrin metabolism disease, porphyria, liver disease, gallbladder disease.
+- **Drug Interactions**: The interaction query returned 100 records, and 20 are shown in the data compiled for this report. Almost all are rated Moderate, with one Minor (polymyxin B). The main groups are:
+  - Tetracyclines: doxycycline, tetracycline and minocycline, including topical forms
+  - Sulfonylurea antidiabetics: chlorpropamide, glimepiride, glipizide, glyburide, tolazamide, tolbutamide and acetohexamide
+  - Others: acetylsalicylic acid, levofloxacin, mannitol, sulfasalazine, beta carotene and papaverine
+
+  Many of these (tetracyclines, sulfonylureas, fluoroquinolones) are known photosensitizing agents, which suggests an additive photosensitivity concern. This is an inference and not confirmed by the data.
+
+Package insert warnings and contraindications were not available. Please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone (Evidence Level L5), with no trials, no literature, and no direct mechanistic support. Verteporfin's ROS-generating photosensitizing action could plausibly be harmful in mitochondrial disease.
+The prediction is supported only by a model score, with no clinical trials or literature (Evidence Level L5). The drug's photodynamic oxidative stress could worsen mitochondrial dysfunction, so the direction of effect is uncertain. The only US NDA is cancelled, and the knowledge graph flags several relevant contraindications (porphyria, liver and gallbladder disease).
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism-of-action data from DrugBank, and the original approved indications
-- Preclinical evidence in OXPHOS-deficiency models, including a check that light-independent effects (autophagy/mitophagy, YAP-TEAD) are beneficial and ROS-related toxicity is not
-- Route and dosing compatibility assessment, since the available route is injectable and the required route for the new indication is unspecified
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
+- Mechanism of action data to test the mechanistic link
+- Preclinical studies in mitochondrial disease models, including mitochondrial function and oxidative stress readouts, to establish whether the effect is beneficial or harmful
+- Assessment of route and light-activation feasibility for a systemic or non-ocular mitochondrial disorder
+- A literature search to confirm whether any supporting studies exist
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

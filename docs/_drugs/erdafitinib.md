@@ -29,32 +29,35 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Erdafitinib: From Oncology Use (FGFR Kinase Inhibitor) to Pulmonary Hypertension
+# Erdafitinib: From an Unspecified Original Indication to Pulmonary Hypertension
 
 ## One-Sentence Summary
 
-Erdafitinib is an oral pan-FGFR kinase inhibitor marketed in the US as BALVERSA. The supplied data does not list its approved indication.
-The TxGNN model predicts it may be effective for **pulmonary hypertension**, but there are currently **0 clinical trials** and **0 publications** supporting this direction, so it remains a computational hypothesis.
+Erdafitinib is an oral pan-FGFR (FGFR1-4) tyrosine kinase inhibitor sold in the US as BALVERSA, and the data compiled for this report do not state its original approved indication.
+The TxGNN model predicts it may be effective for **pulmonary hypertension**, but there are **0 clinical trials** and **0 publications** supporting this direction.
+This is a computational prediction only, so the evidence is very weak.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the supplied data (the approved-indication text is empty) |
+| Original Indication | Not available in the data compiled for this report |
 | Predicted New Indication | Pulmonary hypertension |
 | TxGNN Prediction Score | 99.38% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 3 license records (all under NDA212018) |
+| US Market Status | Cancelled only (the single NDA is listed as cancelled) |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the supplied record. Erdafitinib is known as a pan-FGFR (FGFR1-4) tyrosine kinase inhibitor. That description comes from general drug-class knowledge, not from the supplied data.
+Detailed mechanism-of-action data are not available in the compiled data. Erdafitinib is known to be a pan-FGFR tyrosine kinase inhibitor. FGF/FGFR signaling has been implicated in pulmonary vascular remodeling and smooth muscle proliferation, so a biologically plausible link to pulmonary hypertension exists, but it has not been validated.
 
-FGF/FGFR signaling, especially FGFR1, has been linked in preclinical pulmonary arterial hypertension models to pulmonary vascular smooth muscle proliferation and remodeling. Blocking this pathway could therefore plausibly reduce vascular remodeling.
+The original indication text was empty in the compiled data, so the relationship between the original and the predicted indication cannot be assessed. The high TxGNN score (0.994) is a model output and not evidence of efficacy.
 
-This link is **plausible but unvalidated**. FGFR signaling also has protective roles in some vascular contexts, so the direction of effect is uncertain. The very high TxGNN score reflects a computational prediction only.
+There is also a safety concern. FGFR inhibition is associated with hyperphosphatemia and ocular toxicity, and these would need careful evaluation in a vascular disease setting.
+
+Other top-ranked predictions are even weaker: kyphoscoliotic heart disease, amenorrhea, amyotrophic lateral sclerosis and brachydactyly-syndactyly syndrome have no clear mechanistic rationale or supporting studies. Rheumatoid arthritis has a plausible but preclinical-level rationale, and its only retrieved publication is a general kinase inhibitor review with no RA-specific data on erdafitinib.
 
 ## Clinical Trial Evidence
 
@@ -62,50 +65,46 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for pulmonary hypertension.
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA212018 | BALVERSA (Janssen Products LP) | Tablet, film coated (oral) | Not provided in the supplied data |
-
-The record contains three identical entries for this NDA; they are shown once here.
+| NDA212018 (cancelled) | BALVERSA (Janssen Products LP) | Tablet, film coated (oral) | Not listed in the compiled data |
 
 ## Cytotoxicity
 
-Erdafitinib is an oncology kinase inhibitor, so it is covered here. This classification is based on general drug-class knowledge, since no DrugBank category data was supplied.
-
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (FGFR kinase inhibitor), not a conventional cytotoxic |
+| Cytotoxicity Classification | Targeted therapy (FGFR tyrosine kinase inhibitor) |
 | Myelosuppression Risk | Please refer to the package insert warnings and precautions |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Serum phosphate (hyperphosphatemia), ocular examinations and nail changes; see the package insert for the full list |
+| Monitoring Items | Please refer to the package insert warnings and precautions. Serum phosphate and eye examinations are relevant to the FGFR inhibitor class. |
 | Handling Protection | Please refer to the package insert warnings and precautions |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No warnings or contraindications were supplied, and no drug interactions were found in the queried data.
+- **Drug Interactions**: The interaction screening completed with 100 interactions recorded. The first 20 are shown in the compiled data, and these include the following.
+  - **Major**: cholecalciferol, calcifediol, calcitriol, dexamethasone, clarithromycin, calcium phosphate, calcium acetate, magnesium oxide, magnesium sulfate, magnesium chloride
+  - **Moderate**: metformin, loperamide, saxagliptin, linagliptin, empagliflozin, eliglustat, naldemedine, naloxegol, prucalopride, rifaximin
 
-For chronic non-oncology use, the expected class-related toxicities (hyperphosphatemia, ocular and nail toxicity) would need to be weighed against any benefit. This comes from the candidate's mechanistic review, not from label data.
+Label warnings and contraindications were not available in the compiled data. Please refer to the package insert for them.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a very high model score but no trials, no literature and an unvalidated mechanism. It is best treated as a research question, not a development candidate. The package insert has not been reviewed, so safety screening cannot start.
+The prediction rests only on a computational score, with no clinical trials or relevant literature, and the evidence level is L5. The only US license is cancelled, and the label warnings and original indication data are missing. Safety screening cannot proceed without the package insert.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications (blocking gap)
+- FDA package insert warnings and contraindications (a blocking gap)
 - Mechanism of action data from DrugBank
-- Preclinical evidence that FGFR inhibition improves pulmonary vascular remodeling, including the direction of effect
-- An assessment of long-term safety in a non-oncology setting
-
-**Other predictions (all L5, Hold):** kyphoscoliotic heart disease, amenorrhea, rheumatoid arthritis, amyotrophic lateral sclerosis and brachydactyly-syndactyly syndrome. Each has a weak or doubtful mechanistic rationale. The only retrieved paper, for rheumatoid arthritis, is a general review of kinase inhibitors with no disease-specific efficacy data.
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
+- The original approved indication text
+- Preclinical evidence for FGFR inhibition in pulmonary vascular remodeling
+- Assessment of the safety risks of FGFR inhibition (hyperphosphatemia, ocular toxicity) in a vascular disease setting
+- Clarification of the cancelled US market status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

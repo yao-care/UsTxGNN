@@ -29,91 +29,79 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Minocycline: From Tetracycline Antibiotic to Punctate Epithelial Keratoconjunctivitis
+# Minocycline: From Bacterial Infections and Acne to Punctate Epithelial Keratoconjunctivitis
 
 ## One-Sentence Summary
 
-Minocycline is a tetracycline-class antibiotic marketed in the US as oral capsules, tablets and extended-release tablets, plus a topical foam.
-The TxGNN model predicts it may be effective for **punctate epithelial keratoconjunctivitis**, but this rests on a computational prediction alone.
-There are currently **0 clinical trials** and **0 publications** supporting this direction.
-
----
+Minocycline is a tetracycline-class antibiotic, originally used for infections such as urinary tract infection, bronchitis, gonorrhea and periodontitis, as well as acne.
+The TxGNN model predicts it may be effective for **punctate epithelial keratoconjunctivitis**,
+but there are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the supplied US license records (minocycline is a tetracycline-class antibiotic) |
+| Original Indication | Urinary tract infection, bronchitis, acne, and other bacterial infections (the US label text was not available, so these come from the knowledge-graph indication list) |
 | Predicted New Indication | Punctate epithelial keratoconjunctivitis |
 | TxGNN Prediction Score | 99.63% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| US Market Status | Cancelled only (all licenses cancelled) |
+| Number of NDAs | 8 (7 ANDAs and 1 NDA) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the supplied record. Minocycline is a tetracycline-class drug. Tetracyclines are generally described as having anti-inflammatory and matrix metalloproteinase (anti-collagenase) effects. These could plausibly relate to inflammation on the eye surface, which is a feature of punctate epithelial keratoconjunctivitis.
+Currently, detailed mechanism of action data is not available. Based on known information, minocycline is a tetracycline-class antibiotic. Its efficacy in bacterial infections and acne is established, and mechanistically it may be applicable to inflammatory eye-surface disease.
 
-This is background reasoning, not evidence from the supplied dataset, and it needs independent verification. The only support in the record is the high TxGNN knowledge-graph score, which is a computational prediction without clinical validation.
+From general pharmacology knowledge (not from the data compiled for this report), minocycline has two properties that could be relevant to the ocular surface. It has anti-inflammatory activity and inhibits matrix metalloproteinases (MMPs), enzymes involved in tissue breakdown. It also acts against bacteria. Both could in principle help in a condition with inflammation and surface damage of the cornea and conjunctiva.
 
-The model also ranks a second ocular indication, **exposure keratitis** (score 99.20%), at the same evidence level (L5) with a Hold recommendation. This condition is driven mainly by incomplete lid closure and tear-film failure, so the chance of a drug-specific benefit is more uncertain.
-
----
+This link is hypothetical. Without mechanism data or any supporting studies, it needs independent validation. A second prediction, exposure keratitis (score 99.20%), follows a similar rationale and has the same lack of evidence.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-Minocycline has 20 US licenses. Five main authorizations are listed below. All are ANDAs (generic approvals), and the records do not include approved-indication text.
+All licenses listed are cancelled. No active US authorization was found.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA065062 | Minocycline Hydrochloride | Capsule | A-S Medication Solutions |
-| ANDA065470 | Minocycline Hydrochloride | Capsule | Advanced Rx Pharmacy of Tennessee, LLC |
-| ANDA203553 | Minocycline Hydrochloride | Tablet, extended release | Zydus Pharmaceuticals (USA) Inc. |
-| ANDA204453 | Minocycline Hydrochloride | Tablet, film coated, extended release | Bryant Ranch Prepack |
-| ANDA063065 | Minocycline Hydrochloride | Capsule | Actavis Pharma, Inc. |
+| ANDA065062 | Minocycline Hydrochloride (A-S Medication Solutions) | Capsule | Not available |
+| ANDA065470 | Minocycline Hydrochloride (Advanced Rx Pharmacy of Tennessee) | Capsule | Not available |
+| ANDA203553 | Minocycline Hydrochloride (Zydus) | Extended-release tablet | Not available |
+| ANDA204453 | Minocycline Hydrochloride (Bryant Ranch Prepack) | Film-coated extended-release tablet | Not available |
+| NDA213690 | ZILXI (Journey Medical) | Foam aerosol | Not available |
 
-Across all licenses, the marketed forms are oral (capsule, tablet, extended-release tablet) and a foam aerosol. No ophthalmic form appears in the record, so route compatibility with an eye-surface indication is unresolved.
-
----
+Three more cancelled ANDAs (ANDA063065, ANDA065436, ANDA091424) are not shown.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindications flagged in the knowledge graph** (these are model-graph associations, not package insert text): kidney disease, pyoureter, liver disease, gallbladder disease, *Clostridium difficile* colitis, perinatal necrotizing enterocolitis, pseudotumor cerebri, intracranial hypertension, and dyskinesia of esophagus.
+- **Drug Interactions**: 100 interactions were found in total. Examples among those listed:
+  - **Major**: isotretinoin, acitretin
+  - **Moderate**: ethinylestradiol, amoxicillin, ampicillin, aminolevulinic acid (topical), sodium citrate, calcium phosphate, calcium acetate, balsalazide, bismuth subcitrate potassium, cannabidiol, asparaginase products, brentuximab vedotin
+  - **Minor**: acetazolamide, hydrochlorothiazide, amiloride, bumetanide
 
----
+Package insert warnings and contraindications were not available. Please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a very high model score (99.63%) but no supporting clinical trials or literature (Evidence Level L5). The mechanism and safety data are also missing from the record, so the case cannot advance beyond initial screening.
+The prediction has a high model score but no clinical trials or literature behind it (Evidence Level L5). There is also no mechanism data, and all US licenses are cancelled. There is not enough basis to move forward.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data, for example from DrugBank
-- A literature and trial search for minocycline or tetracyclines in punctate epithelial keratoconjunctivitis, and in exposure keratitis as a second candidate
-- Route and formulation assessment, since only oral and foam forms are marketed and an ocular indication may need a different route
-- Confirmation of the original approved indications from the license labels
-
----
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
+- Package insert warnings and contraindications, to allow safety screening
+- Detailed mechanism of action data
+- Preclinical or clinical evidence in punctate epithelial keratoconjunctivitis
+- An assessment of route and formulation, since an ocular formulation would be needed and none of the listed products is for the eye
+- Clarification of the regulatory status, since all US licenses are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

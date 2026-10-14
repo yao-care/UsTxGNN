@@ -29,78 +29,75 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Secnidazole: From Antimicrobial Use (Anaerobic and Protozoal Infections) to Postmenopausal Atrophic Vaginitis
+# Secnidazole: From Bacterial Vaginosis and Trichomoniasis to Postmenopausal Atrophic Vaginitis
 
 ## One-Sentence Summary
 
-Secnidazole is a 5-nitroimidazole antimicrobial marketed in the US as Solosec oral granules.
-The TxGNN model predicts it may be effective for **postmenopausal atrophic vaginitis**, but there are **0 clinical trials** and **0 publications** supporting this direction. This is a model-only prediction, and no plausible mechanism has been identified.
-
----
+Secnidazole is a 5-nitroimidazole antimicrobial, originally used to treat bacterial vaginosis, trichomoniasis, giardiasis and related vaginal and vulvar infections.
+The TxGNN model predicts it may be effective for **postmenopausal atrophic vaginitis**, but **0 clinical trials** and **0 publications** currently support this specific prediction, so it rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Bacterial vaginosis, trichomoniasis, giardiasis, vaginitis, vulvitis, vulvovaginitis |
 | Predicted New Indication | Postmenopausal atrophic vaginitis |
 | TxGNN Prediction Score | 99.70% |
 | Evidence Level | L5 |
-| US Market Status | Marketed |
+| US Market Status | Cancelled only (no active license) |
 | Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
----
-
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the DrugBank extract. Secnidazole is a 5-nitroimidazole antimicrobial. Its nitro group is reduced under anaerobic conditions to radicals that damage microbial DNA, which gives it activity against anaerobic bacteria and protozoa.
+Currently, detailed mechanism of action data is not available in the compiled data. Secnidazole belongs to the 5-nitroimidazole class. In anaerobic bacteria and protozoa, its nitro group is reduced to radicals that damage DNA. Its efficacy in bacterial vaginosis and trichomoniasis is established.
 
-Atrophic vaginitis is driven by estrogen deficiency after menopause, not by anaerobic or protozoal infection. The two conditions therefore share no plausible mechanistic link. The very high TxGNN score (0.997) is a graph-based result. It probably reflects the drug's proximity to other vaginal conditions in the knowledge graph rather than a real therapeutic mechanism.
-
-Other predicted indications for secnidazole have far more support, especially bacterial vaginosis-related vaginal discharge and trichomonal vulvovaginitis. Both are infectious, mechanistically coherent, and supported by completed Phase 3 trials and RCTs. They are likely on-label uses rather than true repurposing, and their labels should be checked against the current Solosec label. They are outside the scope of this report, which covers the top-ranked prediction.
-
----
+The mechanistic link to the predicted indication is weak. Postmenopausal atrophic vaginitis is driven mainly by estrogen deficiency rather than infection. An antimicrobial would not be expected to address the underlying cause. The high score most likely reflects network proximity to the approved vaginitis and vulvovaginitis indications in the knowledge graph, not a true therapeutic relationship. This prediction should therefore be treated as a model artifact until shown otherwise.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|------|
-| NDA209363 | Solosec | Granule | Evofem Inc. |
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA209363 | Solosec (status: cancelled) | Granule | Not specified in the compiled data |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: 92 interactions were identified. All of those listed are rated Moderate. Main ones include:
+  - Other nitroimidazoles: metronidazole, tinidazole
+  - Statins: simvastatin, atorvastatin, rosuvastatin
+  - Cardiac and neurological drugs: amiodarone, levodopa
+  - Oncology agents: paclitaxel, cabazitaxel, carboplatin, bortezomib, carfilzomib, brentuximab vedotin, trastuzumab emtansine
+  - Others: adalimumab, certolizumab pegol, auranofin, picosulfuric acid, radioactive iodide (I-123, I-131)
 
----
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This prediction is supported only by the model score, with no trials, no literature, and no plausible mechanism. Atrophic vaginitis is an estrogen-deficiency condition that an antimicrobial is unlikely to treat.
+The prediction has no clinical or literature support and no plausible mechanism, since atrophic vaginitis is hormone-driven rather than infectious. The product's only US license is cancelled.
+
+Other predictions in the same data are better supported, though they largely extend existing indications rather than being true repurposing:
+- **Vaginal discharge** (score 99.41%, L1, Proceed with Guardrails): supported by a completed Phase 3 placebo-controlled trial in trichomoniasis (NCT03935217, n=147), a Phase 3 trial in bacterial vaginosis (PMID 28867602), and a meta-analysis of single-dose secnidazole in bacterial vaginosis (PMID 31129560).
+- **Trichomonal vulvovaginitis** (score 99.37%, L1, Proceed with Guardrails): supported by a Phase 3 randomized trial (PMID 33768237).
+- **Ulceration of vulva, vulvar neoplasm, leukoplakia of vagina** (all L5, Hold): no evidence and no plausible mechanism.
+- **Vulvovaginal candidiasis** (L3, Research Question): secnidazole has no direct antifungal activity, and the only clinical signal comes from a fluconazole combination trial.
 
 **To proceed, the following is needed:**
-- Any independent clinical or preclinical evidence for secnidazole in atrophic vaginitis (none found)
-- A mechanistic rationale that does not depend on the graph-based score alone
-- Package insert warnings and contraindications (a blocking data gap)
-- Mechanism of action data from DrugBank
-- Verification of the current US label indications
-- Consideration of the infection-related predictions (bacterial vaginosis-related discharge, trichomonal vulvovaginitis), which have much stronger evidence and could be evaluated separately, with the diagnosis confirmed first
+- Preclinical or clinical rationale for any non-infectious benefit in atrophic vaginitis, compared against standard estrogen-based therapy
+- Package insert warnings and contraindications
+- Detailed mechanism of action data
+- Confirmation of product availability, given the cancelled US license
+- A DDI screening plan, including the alcohol and disulfiram-type precautions common to nitroimidazoles
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

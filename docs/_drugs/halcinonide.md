@@ -29,76 +29,110 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Halcinonide: From Topical Corticosteroid Therapy to Annular Atrophic Lichen Planus
+# Halcinonide: From Inflammatory Skin Conditions to Annular Atrophic Lichen Planus
 
 ## One-Sentence Summary
 
-Halcinonide is a potent topical glucocorticoid, marketed in the US as creams and solutions.
-The TxGNN model predicts it may be useful for **annular atrophic lichen planus**,
-but there are currently **0 clinical trials** and **0 publications** for this specific indication, so this is a model prediction only.
+Halcinonide is a high-potency topical corticosteroid, originally used for inflammatory and eczematous skin conditions such as atopic dermatitis, contact dermatitis, seborrheic dermatitis, neurodermatitis, lichen disease and discoid lupus erythematosus.
+The TxGNN model predicts it may be effective for **annular atrophic lichen planus**, but there are currently **0 clinical trials** and **0 publications** for this specific indication, so the support is a model prediction only.
+Across the 10 predicted indications, the only published item is a 1977 title-only report on **alopecia areata**.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the supplied records (the approved indication text is empty for all listed licenses) |
+| Original Indication | Inflammatory skin conditions, including atopic dermatitis, contact dermatitis, seborrheic dermatitis, neurodermatitis, lichen disease and discoid lupus erythematosus (from the knowledge graph; no approved indication text was available in the US license records) |
 | Predicted New Indication | Annular atrophic lichen planus |
 | TxGNN Prediction Score | 99.93% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 7 |
+| US Market Status | Cancelled only (all licenses cancelled) |
+| Number of NDAs | 4 licenses in total (2 NDAs and 2 ANDAs) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the supplied record. Halcinonide is known as a potent topical glucocorticoid, and this comes from class knowledge rather than the supplied data. Glucocorticoids suppress local inflammation and T-cell activity, which is plausible for T-cell-mediated lichenoid skin diseases such as lichen planus.
+Currently, detailed mechanism of action data is not available. Based on known information, halcinonide is a high-potency topical corticosteroid. Its efficacy in inflammatory dermatoses is established, and mechanistically it may be applicable to lichen planus.
 
-Two caveats limit this prediction:
-- Topical corticosteroids are already established practice for lichen planus in general, so any added value of halcinonide specifically has not been assessed.
-- Annular atrophic lichen planus is a rare variant, and no trial or publication was supplied for it.
+Lichen planus and its variants are T-cell mediated inflammatory skin diseases, and topical corticosteroids are standard first-line therapy. This is why the prediction is biologically plausible, and it sits close to halcinonide's existing indications such as lichen disease and neurodermatitis.
 
-TxGNN gives near-identical scores (about 99.93%) to several lichen planus variants (pigmentosus, hypertrophic, pemphigoides). This suggests the model is picking up a class-level pattern rather than evidence specific to this variant.
+There is an important caution for this particular variant. Annular atrophic lichen planus involves atrophic (thinned) skin, and a potent steroid carries a theoretical risk of further skin thinning. The knowledge graph also lists skin atrophy as a contraindication for halcinonide. No trials or literature specific to this variant were found.
+
+### Other Predicted Indications
+
+The model produced 10 predictions in total. They differ widely in plausibility:
+
+| Rank | Predicted Indication | Score | Evidence Level | Assessment |
+|------|------|------|------|------|
+| 1 | Annular atrophic lichen planus | 99.93% | L5 | Plausible mechanism, but atrophy concern |
+| 2 | Lichen planus pigmentosus | 99.93% | L5 | Plausible anti-inflammatory rationale, no data |
+| 3 | Hypertrophic lichen planus | 99.93% | L5 | Most clinically plausible; high-potency steroids (including under occlusion) are commonly used |
+| 4 | Vulvar inverted follicular keratosis | 99.93% | L5 | Weak rationale; may reflect similarity to seborrheic keratosis |
+| 5 | Lichen planus pemphigoides | 99.92% | L5 | Anti-inflammatory rationale, but severe disease usually needs systemic therapy |
+| 6 | Alopecia areata | 99.91% | L4 | Plausible; one 1977 title-only publication |
+| 7 | Telogen effluvium | 99.89% | L5 | Weak rationale (non-inflammatory, self-limiting) |
+| 8 | Alopecia mucinosa | 99.89% | L5 | Modest rationale; possible lymphoma association needs careful diagnosis |
+| 9 | Hereditary hypotrichosis with recurrent skin vesicles | 99.89% | L5 | No clear mechanism; likely a network artifact |
+| 10 | Quinquaud's folliculitis decalvans | 99.88% | L5 | Antibiotics are the mainstay; steroid only adjunctive |
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
-Currently no related literature available.
+For the top-ranked indication (annular atrophic lichen planus), currently no related literature is available.
+
+The only publication found across the predicted indications relates to rank 6, alopecia areata:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [915049](https://pubmed.ncbi.nlm.nih.gov/915049/) | 1977 | Unclassified (likely clinical study or case series) | Journal of Cutaneous Pathology | "Topical halcinonide in alopecia areata and in alopecia totalis." Only the title was available, so design, size and outcomes cannot be verified |
+
+---
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA017556 | HALCINONIDE (Sun Pharmaceutical Industries, Inc.) | Cream | Not stated in supplied record |
-| NDA017556 | Halog (Sun Pharmaceutical Industries, Inc.) | Cream | Not stated in supplied record |
-| NDA017556 | Halog (Genus Lifesciences Inc.) | Cream | Not stated in supplied record |
-| ANDA217671 | Halcinonide Topical Solution (INA Pharmaceutics Inc) | Solution | Not stated in supplied record |
-| NDA017823 | HALOG (E.R. Squibb & Sons, L.L.C.) | Solution | Not stated in supplied record |
+| NDA017556 | Halcinonide (Sun Pharmaceutical Industries) | Cream | Not available; status cancelled |
+| ANDA217671 | Halcinonide Topical Solution (INA Pharmaceutics) | Solution | Not available; status cancelled |
+| NDA017823 | HALOG (E.R. Squibb & Sons) | Solution | Not available; status cancelled |
+| ANDA211027 | Halcinonide (Mylan Pharmaceuticals) | Cream | Not available; status cancelled |
 
-Seven licenses are recorded in total; five are shown above.
+All four US licenses are cancelled, so there is currently no actively marketed halcinonide product in the US.
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. The package insert warnings and contraindications were not included in the supplied record, and no drug interactions were found.
+- **Contraindications flagged in the knowledge graph (not label text):** type 1 and type 2 diabetes mellitus, diabetic ketoacidosis, glaucoma, skin atrophy, peripheral vascular disease (including intermittent claudication and peripheral arterial disease), and cutaneous tuberculosis. These should be verified against the official label.
+- **Relevance to the lead indication:** skin atrophy is directly relevant to annular atrophic lichen planus and warrants particular caution.
+
+Please refer to the package insert for further safety information, as no label warnings or drug interaction data were available.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a high model score but no supporting trials or literature (L5), and the class-level rationale overlaps with existing topical corticosteroid use in lichen planus. Incremental value for this rare variant is unassessed.
+The prediction score is very high (99.93%), and a topical corticosteroid for lichen planus is mechanistically reasonable. However, there are no trials or literature for annular atrophic lichen planus, all US licenses are cancelled, and skin atrophy is a listed contraindication. Of the candidates, hypertrophic lichen planus is the most clinically plausible, and alopecia areata is the only one with any published report (1977, title only).
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, which are needed for safety screening
-- Approved indication text and mechanism of action data for halcinonide
-- Any case reports or case series for annular atrophic lichen planus
-- Comparison against existing topical corticosteroid practice for lichen planus
-
-**Note on other predictions:** The rank 6 prediction, **alopecia areata**, has one publication: [PMID 915049](https://pubmed.ncbi.nlm.nih.gov/915049/) (Montes, J Cutan Pathol, 1977), "Topical halcinonide in alopecia areata and in alopecia totalis." Only the title was supplied, so the design and outcomes are unverified. It is provisionally L3 and could drop to L4 if it is an anecdotal report. It is the most evidence-supported of the ten predictions, but it remains a research question rather than a Go candidate.
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism of action data
+- Drug-specific clinical evidence, prioritising hypertrophic lichen planus, and a review of the full text of the 1977 alopecia areata publication
+- An assessment of the skin atrophy risk if the atrophic variant is pursued
+- Confirmation of the current regulatory and commercial availability of halcinonide products, given the cancelled licenses
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

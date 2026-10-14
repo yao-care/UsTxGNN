@@ -29,76 +29,91 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Nifurtimox: From Antiparasitic Therapy to Congenital Analbuminemia
+# Nifurtimox: From Chagas Disease to Congenital Analbuminemia
 
 ## One-Sentence Summary
 
-Nifurtimox is a nitrofuran antiparasitic drug, marketed in the US as LAMPIT film-coated tablets.
-The TxGNN model predicts it may be effective for **congenital analbuminemia**,
-but **0 clinical trials** and **0 publications** currently support this prediction, so it rests on the model score alone.
+Nifurtimox is a nitrofuran antiprotozoal, originally used to treat Chagas disease.
+The TxGNN model predicts it may be effective for **Congenital Analbuminemia**, but there are currently **0 clinical trials** and **0 publications** supporting this prediction. It is a model-only prediction with no mechanistic rationale.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Chagas disease |
 | Predicted New Indication | Congenital analbuminemia |
 | TxGNN Prediction Score | 99.58% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 2 records (both NDA213464) |
+| US Market Status | Cancelled only |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the source data. Based on known information, nifurtimox is a nitrofuran antiparasitic. Its activity is thought to come from nitroreductase-mediated generation of reactive oxygen species and nitro-radical metabolites in trypanosomes.
+Currently, detailed mechanism of action data is not available. Based on known information, nifurtimox is a nitrofuran antiprotozoal that generates reactive oxygen species and nitro-radical metabolites in *Trypanosoma cruzi*. Its efficacy in Chagas disease is the basis for its original use.
 
-No plausible mechanistic link to congenital analbuminemia was identified. This is a rare genetic disorder of albumin synthesis, and a drug that acts on parasite nitroreductase pathways has no evident way to correct it. The high score (0.996) is a graph-based prediction with no supporting biological rationale.
+This mechanism does not appear applicable to congenital analbuminemia. That disorder is a rare monogenic condition caused by loss-of-function variants in the *ALB* gene, and an antiparasitic prodrug has no plausible way to correct it. The high TxGNN score (99.58%) reflects a knowledge-graph association pattern rather than a biological rationale.
 
-The other six predictions show the same pattern. All are L5, with scores of 0.991–0.995 and no trials or literature:
-- polyclonal hyperviscosity syndrome
-- hyperamylasemia
-- blood group incompatibility
-- monoclonal gammopathy
-- premalignant hematological system disease
-- hematological disease associated with an acquired peripheral neuropathy
+Other predicted indications show the same pattern, with scores between 99.06% and 99.47%, and none has supporting trials or literature:
 
-The first two share the same score (0.9947), which suggests a shared graph-neighborhood artifact rather than disease-specific signal. Peripheral neuropathy is a known adverse effect of nifurtimox, so for the last of these the drug could worsen the condition rather than treat it.
+| Rank | Predicted Indication | Score | Assessment |
+|------|------|------|------|
+| 2 | Polyclonal hyperviscosity syndrome | 99.47% | Nifurtimox has no known immunomodulatory or protein-lowering activity |
+| 3 | Hyperamylasemia | 99.47% | A laboratory finding with many causes; for nifurtimox, gastrointestinal adverse effects are the more relevant question |
+| 4 | Blood group incompatibility | 99.24% | An alloimmune process that nitrofurans do not target |
+| 5 | Monoclonal gammopathy | 99.16% | Only preclinical oxidative-stress work in some malignancies; nothing links it to plasma cell disorders |
+| 6 | Premalignant hematological system disease | 99.11% | A broad category not tied to a specific target |
+| 7 | Hematological disease associated with an acquired peripheral neuropathy | 99.06% | Nifurtimox is known to cause peripheral neuropathy, which runs counter to any benefit |
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
 Currently no related literature available.
 
+---
+
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form |
-|---------|------|------|
-| NDA213464 | LAMPIT (Bayer Healthcare Pharmaceuticals Inc.) | Film-coated tablet (oral) |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA213464 (cancelled) | LAMPIT (Bayer Healthcare Pharmaceuticals Inc.) | Film-coated tablet (oral) | Not listed in the data compiled for this report |
 
-The source data lists NDA213464 twice with identical content, and no approved-indication text is included.
+---
 
 ## Safety Considerations
 
-- **Adverse effects**: Peripheral neuropathy is a known adverse effect of nifurtimox. This matters especially for the neuropathy-related prediction (rank 7).
-- **Drug Interactions**: No interaction records were found in the queried source.
+- **Drug Interactions** (5 interactions identified):
+  - **Major:** Ethanol
+  - **Moderate:** Ritonavir, Tipranavir, *Bifidobacterium longum infantis*, *Lactobacillus acidophilus*
+- **Additional safety signal:** Nifurtimox is known to cause peripheral neuropathy and gastrointestinal adverse effects. This matters especially for the neuropathy-associated and gastrointestinal-related predicted indications.
 
-Please refer to the package insert for other safety information (warnings and contraindications).
+Please refer to the package insert for warnings and contraindications.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is model-only (L5, no trials or literature), and no plausible mechanistic link to congenital analbuminemia exists. Safety data are also incomplete, with the package insert warnings still missing.
+The prediction rests only on a knowledge-graph score. No clinical trials or publications support it, and no plausible biological link exists between a nitrofuran antiprotozoal and a monogenic albumin deficiency. The only US authorization is cancelled. Evidence Level L5 does not justify advancing.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications (blocking gap for safety screening)
-- Mechanism of action data from DrugBank
-- A biological rationale connecting nitrofuran activity to albumin synthesis, or evidence from preclinical studies
-- A safety assessment of the peripheral neuropathy risk before evaluating any neuropathy-related indication
+- Mechanism of action data for nifurtimox
+- Package insert warnings and contraindications, needed for any safety screening
+- A clear biological rationale linking nifurtimox to the predicted indication, supported by preclinical evidence
+- A review of whether any of the predicted indications is better framed as a safety signal than as a therapeutic opportunity
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

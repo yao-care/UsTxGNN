@@ -29,101 +29,97 @@ Evidence Level: **L1** | Predicted Indications: **7**
 
 </div>
 
-# Icatibant: From Hereditary Angioedema Attacks to C1 Inhibitor Deficiency
+# Icatibant: From Hereditary Angioedema to C1 Inhibitor Deficiency
 
 ## One-Sentence Summary
 
-Icatibant is a bradykinin B2 receptor antagonist injection. It is marketed in the US, and the Evidence Pack lists no approved-indication text. Its known use is acute attacks of hereditary angioedema (HAE).
-The TxGNN model predicts it may be effective for **C1 inhibitor deficiency**, with **21 registered clinical trials** (several of them Phase 3) and **20 publications** supporting this direction.
-This prediction very likely overlaps with the drug's existing indication, so it should not be presented as a true repurposing discovery until the label is checked.
+Icatibant is a bradykinin B2 receptor antagonist, originally used to treat acute attacks of hereditary angioedema (HAE), including HAE with C1 inhibitor deficiency.
+The TxGNN model predicts it may be effective for **C1 inhibitor deficiency**, with **12 clinical trials** and **20 publications** currently supporting this direction.
+Note that this prediction largely overlaps with the drug's existing use, so it is an on-label confirmation rather than a true repurposing finding.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Acute HAE attacks (from known pharmacology; the Evidence Pack's indication text is empty) |
+| Original Indication | Hereditary angioedema (including HAE with C1 inhibitor deficiency) |
 | Predicted New Indication | C1 inhibitor deficiency |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L1 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 10 (the five listed are generic ANDAs) |
+| US Market Status | Cancelled only (all listed authorizations are cancelled) |
+| Number of NDAs | 8 authorizations (1 NDA, 7 ANDAs) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the Evidence Pack. Based on known pharmacology, icatibant selectively blocks the bradykinin B2 receptor.
+Detailed mechanism of action data is not available in the data compiled for this report. Even so, the pharmacology is well established: icatibant is a selective antagonist of the bradykinin B2 receptor (it also appears in the pharmacology data as a ligand of the B1 receptor).
 
-C1 inhibitor deficiency causes uncontrolled kallikrein activity and excess bradykinin, which drives the swelling attacks. Blocking the B2 receptor targets this pathway directly. Hereditary angioedema types I and II are the classic forms of C1 inhibitor deficiency, so the prediction fits the mechanism well.
+C1 inhibitor deficiency, whether hereditary or acquired, leads to unregulated kallikrein activity and excess bradykinin. Bradykinin is the mediator that drives the swelling attacks. By blocking its receptor, icatibant directly targets the pathway responsible for the symptoms.
 
-The original and predicted indications are therefore probably the same disease area. This is likely an on-label use rather than a new one. The only extension beyond HAE is acquired C1-inhibitor deficiency, which is supported by small retrospective studies, one real-world series of 8 patients, and guidelines.
+Most of the trial evidence concerns the hereditary form. The acquired form is mechanistically analogous. A small real-world observational study (PMID 22686628) reported icatibant treatment in eight patients with acquired C1 inhibitor deficiency, but no controlled trial in acquired disease was identified.
 
 ## Clinical Trial Evidence
 
-Most trials below are in HAE (C1 inhibitor deficiency types I/II). Other Phase 2/3 HAE trials in the pack (lanadelumab, C1-INH, BCX7353, KVD900, GNR-038) were left out because they do not test icatibant or their link to icatibant is unconfirmed.
-
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00097695](https://clinicaltrials.gov/study/NCT00097695) | Phase 3 | Completed | 84 | Randomized, double-blind, placebo-controlled trial of subcutaneous icatibant in acute cutaneous/abdominal HAE attacks |
-| [NCT00912093](https://clinicaltrials.gov/study/NCT00912093) | Phase 3 | Completed | 98 | Randomized, double-blind, placebo-controlled trial of icatibant efficacy and safety in acute HAE attacks |
-| [NCT00500656](https://clinicaltrials.gov/study/NCT00500656) | Phase 3 | Completed | 85 | Icatibant vs oral tranexamic acid; primary endpoint was time to onset of symptom relief |
-| [NCT00997204](https://clinicaltrials.gov/study/NCT00997204) | Phase 3 | Completed | 151 | Open-label study of safety, local tolerability and efficacy of self-administered icatibant |
-| [NCT03888755](https://clinicaltrials.gov/study/NCT03888755) | Phase 3 | Completed | 8 | Open-label study in Japanese patients with type I/II HAE (efficacy, PK, safety) |
-| [NCT01386658](https://clinicaltrials.gov/study/NCT01386658) | Phase 3 | Completed | 32 | Single-arm study of PK, tolerability and safety of one icatibant dose in children and adolescents with HAE |
-| [NCT04654351](https://clinicaltrials.gov/study/NCT04654351) | Phase 3 | Completed | 2 | Safety, efficacy and PK of icatibant in Japanese children and adolescents; very small sample |
-| [NCT01457430](https://clinicaltrials.gov/study/NCT01457430) | Phase 4 | Completed | 19 | Self-administered icatibant vs treatment in a medical facility; supports real-world usability |
-| [NCT07290855](https://clinicaltrials.gov/study/NCT07290855) | Phase 4 | Completed | 5 | Icatibant injection (Icanticure) in bradykinin-induced angioedema in Taiwan; very small sample |
-| [NCT01034969](https://clinicaltrials.gov/study/NCT01034969) | N/A | Completed | 1761 | Icatibant Outcome Survey (IOS) registry of routine clinical outcomes and long-term safety |
+| [NCT00097695](https://clinicaltrials.gov/study/NCT00097695) | Phase 3 | Completed | 84 | Randomized, double-blind, placebo-controlled study of subcutaneous icatibant for acute HAE attacks |
+| [NCT00500656](https://clinicaltrials.gov/study/NCT00500656) | Phase 3 | Completed | 85 | Randomized, double-blind comparison of icatibant vs oral tranexamic acid; primary endpoint was time to symptom relief |
+| [NCT00912093](https://clinicaltrials.gov/study/NCT00912093) | Phase 3 | Completed | 98 | Randomized, double-blind, placebo-controlled study of icatibant in acute HAE attacks |
+| [NCT00997204](https://clinicaltrials.gov/study/NCT00997204) | Phase 3 | Completed | 151 | Open-label study of self-administered icatibant: safety, local tolerability and efficacy |
+| [NCT01386658](https://clinicaltrials.gov/study/NCT01386658) | Phase 3 | Completed | 32 | Open-label pediatric study of pharmacokinetics, tolerability and safety |
+| [NCT03888755](https://clinicaltrials.gov/study/NCT03888755) | Phase 3 | Completed | 8 | Open-label study in Japanese patients with type I or II HAE |
+| [NCT04654351](https://clinicaltrials.gov/study/NCT04654351) | Phase 3 | Completed | 2 | Open-label safety study in Japanese children and adolescents (very small sample) |
+| [NCT01457430](https://clinicaltrials.gov/study/NCT01457430) | Phase 4 | Completed | 19 | Open-label study of self-administration vs treatment in a medical facility |
+| [NCT07290855](https://clinicaltrials.gov/study/NCT07290855) | Phase 4 | Completed | 5 | Taiwan study of icatibant (Icanticure) in bradykinin-induced angioedema |
+| [NCT04057131](https://clinicaltrials.gov/study/NCT04057131) | N/A | Completed | 179 | Japanese post-marketing survey of safety and efficacy |
 
 ## Literature Evidence
 
-The pack contains no RCT publications. The table lists reviews, registry data and observational studies.
-
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [22686628](https://pubmed.ncbi.nlm.nih.gov/22686628/) | 2012 | Real-world observational | Allergy | 8 patients with acquired C1-INH deficiency; 48 moderate-to-severe attacks treated with icatibant 30 mg SC |
-| [29757016](https://pubmed.ncbi.nlm.nih.gov/29757016/) | 2018 | Review | Expert Rev Clin Immunol | Icatibant in adolescents and children over 2 years with C1-INH-HAE, based on RCT, open-label and observational data |
-| [23420425](https://pubmed.ncbi.nlm.nih.gov/23420425/) | 2013 | Systematic review | Pneumonol Alergol Pol | Compared conestat alfa, human C1-INH and icatibant for acute HAE attacks in adults |
-| [33602658](https://pubmed.ncbi.nlm.nih.gov/33602658/) | 2021 | Review | J Investig Allergol Clin Immunol | Current C1-INH-HAE therapy, including kallikrein-kinin system inhibition |
-| [34965883](https://pubmed.ncbi.nlm.nih.gov/34965883/) | 2021 | Registry | Allergy Asthma Clin Immunol | Icatibant Outcome Survey data from Spain in HAE type 1/2 |
-| [35662289](https://pubmed.ncbi.nlm.nih.gov/35662289/) | 2022 | Registry cohort | Clin Exp Allergy | Icatibant and C1-inhibitor use in laryngeal HAE attacks |
-| [30280305](https://pubmed.ncbi.nlm.nih.gov/30280305/) | 2018 | Observational | J Clin Immunol | Icatibant and recombinant C1-INH for HAE attacks during pregnancy |
-| [37716525](https://pubmed.ncbi.nlm.nih.gov/37716525/) | 2023 | Retrospective cohort | J Allergy Clin Immunol Pract | Acquired C1-INH deficiency (AAE-C1-INH): diagnosis, course and therapy; no licensed therapy |
-| [32753245](https://pubmed.ncbi.nlm.nih.gov/32753245/) | 2020 | Guideline | Rev Med Interne | CREAK recommendations for diagnosis and treatment of acquired C1-INH deficiency |
-| [37898409](https://pubmed.ncbi.nlm.nih.gov/37898409/) | 2024 | Review | J Allergy Clin Immunol | Burden of C1-INH deficiency HAE in the Asia-Pacific region |
+| [29757016](https://pubmed.ncbi.nlm.nih.gov/29757016/) | 2018 | Clinical study review | Expert Rev Clin Immunol | Icatibant for C1-INH-HAE in adolescents and children over 2 years; safety and efficacy supported by randomized, open-label and observational studies |
+| [22686628](https://pubmed.ncbi.nlm.nih.gov/22686628/) | 2012 | Observational | Allergy | Real-world experience with icatibant in 8 patients with acquired C1-INH deficiency; 48 moderate-to-severe attacks treated |
+| [23420425](https://pubmed.ncbi.nlm.nih.gov/23420425/) | 2013 | Systematic review | Pneumonol Alergol Pol | Compared conestat alfa, human C1-INH and icatibant for acute attacks in adults with HAE |
+| [20030426](https://pubmed.ncbi.nlm.nih.gov/20030426/) | 2010 | Drug review | Drugs | Icatibant is a selective B2 antagonist; in FAST-1 the primary endpoint did not reach statistical significance vs placebo, but other endpoints showed benefit |
+| [33602658](https://pubmed.ncbi.nlm.nih.gov/33602658/) | 2021 | Review | J Investig Allergol Clin Immunol | Current and emerging therapies for C1-INH-HAE |
+| [37716525](https://pubmed.ncbi.nlm.nih.gov/37716525/) | 2023 | Retrospective study | J Allergy Clin Immunol Pract | Bicenter study of acquired C1-INH angioedema; notes no licensed therapy for this condition |
+| [26106828](https://pubmed.ncbi.nlm.nih.gov/26106828/) | 2015 | Guideline/Consensus | Curr Opin Allergy Clin Immunol | Diagnosis and management of C1-INH-HAE; bradykinin is the main mediator |
+| [32753245](https://pubmed.ncbi.nlm.nih.gov/32753245/) | 2020 | Recommendations | Rev Med Interne | French recommendations for diagnosis and treatment of acquired C1-INH angioedema |
+| [28687105](https://pubmed.ncbi.nlm.nih.gov/28687105/) | 2017 | Review | Immunol Allergy Clin North Am | Overview of acquired C1-INH deficiency, associated with autoimmunity and B-cell lymphoproliferative disorders |
+| [24925394](https://pubmed.ncbi.nlm.nih.gov/24925394/) | 2014 | Review | Chem Immunol Allergy | Bradykinin-mediated diseases, including angioedema from C1-INH deficiency and ACE inhibitors |
 
 ## US Market Information
 
-The source data gives no approved-indication text for these authorizations. All five are generic (ANDA) injectables.
+All eight authorizations are currently listed as cancelled. No approved-indication text is available in the data compiled for this report.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
-| ANDA212446 | SAJAZIR (Cycle Pharmaceuticals) | Injection | Not provided |
-| ANDA212081 | Icatibant (Bryant Ranch Prepack) | Injection, solution | Not provided |
-| ANDA213773 | Icatibant (Alembic Pharmaceuticals Inc.) | Injection | Not provided |
-| ANDA213773 | Icatibant (Alembic Pharmaceuticals Limited) | Injection | Not provided |
-| ANDA208317 | Icatibant (Fresenius Kabi USA) | Injection, solution | Not provided |
+| NDA022150 | Firazyr | Injection, solution | Takeda Pharmaceuticals America, Inc. |
+| ANDA212446 | Sajazir | Injection | Cycle Pharmaceuticals Ltd-UK |
+| ANDA208317 | Icatibant | Injection, solution | Fresenius Kabi USA, LLC |
+| ANDA210118 | Icatibant | Injection, solution | Teva Pharmaceuticals USA, Inc. |
+| ANDA213773 | Icatibant | Injection | Alembic Pharmaceuticals Inc. |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+**Drug Interactions** (12 records found; 10 are moderate-level):
+- **ACE inhibitors (moderate):** benazepril, captopril, enalapril, fosinopril, lisinopril, moexipril, perindopril, quinapril, ramipril and trandolapril are all flagged.
+- **Receptor pharmacology:** icatibant acts on the bradykinin B1 and B2 receptors.
+
+For warnings and contraindications, please refer to the package insert.
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Three completed Phase 3 randomized trials (NCT00097695, NCT00912093, NCT00500656) plus a large registry support icatibant in HAE, which is C1 inhibitor deficiency. This is probably an existing indication rather than a new one. The acquired form of C1-inhibitor deficiency has only observational and guideline support.
+Several completed Phase 3 trials, including randomized, double-blind studies, support icatibant in C1 inhibitor deficiency angioedema, and the mechanism (B2 receptor blockade) is well understood. However, this is largely an on-label confirmation rather than new repurposing, and evidence for acquired C1 inhibitor deficiency is limited to small observational data. Evidence for the other six predicted indications is model-only (L5, Hold).
 
 **To proceed, the following is needed:**
-- Check the US label to confirm whether HAE/C1 inhibitor deficiency is already an approved indication, and reclassify the finding as on-label if so.
-- Obtain the package insert warnings and contraindications, which are missing and block the safety screening.
-- Obtain formal MOA data from DrugBank.
-- Review the full records of the unclear trials (NCT02584959, NCT04208412, NCT02870972) to confirm whether icatibant is involved.
-- If acquired C1-inhibitor deficiency is the target, a prospective controlled study is needed.
-
-**Other predictions (ranks 2–7):** serpinopathy with toxic serpin polymerization, pseudo-von Willebrand disease, primary release disorder of platelets, immune-mediated necrotizing myopathy, antisynthetase syndrome and Glanzmann thrombasthenia have no trials or literature. No plausible B2-antagonist mechanism was identified for any of them. The recommendation for all six is **Hold**, and their scores are likely knowledge-graph artifacts.
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before use.*
+- Package insert warnings and contraindications, which are currently missing and block formal safety screening
+- Formal mechanism of action data from DrugBank
+- Clarification of the US market status, since all eight authorizations are listed as cancelled
+- Controlled evidence in acquired C1 inhibitor deficiency if that population is the target
+- A review of concomitant ACE inhibitor use
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

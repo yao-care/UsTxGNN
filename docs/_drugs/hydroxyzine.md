@@ -29,111 +29,101 @@ Evidence Level: **L4** | Predicted Indications: **5**
 
 </div>
 
-# Hydroxyzine: From First-Generation Antihistamine to Allergic Urticaria
+# Hydroxyzine: From Allergic and Atopic Skin and Eye Conditions to Allergic Urticaria
 
 ## One-Sentence Summary
 
-Hydroxyzine is a first-generation H1-receptor antihistamine that is marketed in the US in tablet, capsule and solution forms.
-The TxGNN model predicts it may be effective for **allergic urticaria**, but the evidence is only class-level: **1 clinical trial** (which does not study hydroxyzine) and **20 publications** (mostly reviews of other antihistamines).
-Hydroxyzine is already widely used for itch and urticaria, so this may be an existing use rather than true repurposing.
-
----
+Hydroxyzine is a first-generation antihistamine, originally used for allergic conditions such as atopic dermatitis, allergic rhinitis, allergic conjunctivitis, urticaria and angioedema.
+The TxGNN model predicts it may be effective for **Allergic Urticaria**, but there are **0 registered clinical trials** and **20 publications** for this prediction. Most of the publications concern cetirizine (hydroxyzine's active metabolite) and other antihistamines, so the support is indirect.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Atopic eczema, allergic rhinitis, urticaria, angioedema and related allergic conditions |
 | Predicted New Indication | Allergic urticaria |
 | TxGNN Prediction Score | 99.77% |
 | Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| US Market Status | Cancelled only |
+| Number of NDAs | 15 (all ANDA generic applications, all cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for hydroxyzine is not available in the source data. Based on known pharmacology, hydroxyzine is an H1-receptor inverse agonist. In urticaria, histamine released from mast cells causes the wheals, flare and itch. Blocking H1 receptors targets that pathway directly, which makes the prediction biologically plausible and fits the very high TxGNN score.
+Detailed mechanism-of-action data for hydroxyzine are not available in the data compiled for this report. From the known pharmacology, hydroxyzine is a first-generation histamine H1-receptor inverse agonist, and cetirizine is its active metabolite.
 
-Several points limit how much weight the prediction deserves:
+In allergic urticaria, histamine released from mast cells drives the wheal-and-flare reaction, so H1 blockade is mechanistically well supported. Urticaria and angioedema are already among hydroxyzine's recorded indications. This prediction is therefore close to an existing use rather than a true repurposing.
 
-- The retrieved evidence is about other antihistamines (cetirizine, levocetirizine, bilastine, desloratadine), not hydroxyzine itself.
-- Cetirizine is a metabolite of hydroxyzine (PMID 1981354), so cetirizine data gives only indirect support.
-- The source data lists no original indication for hydroxyzine, and the approved-indication text for the US products is empty. Whether allergic urticaria is already on the label needs to be checked before treating it as a new indication.
-
----
+The retrieved literature mostly covers cetirizine and other second-generation antihistamines, which supports the mechanism only indirectly. No hydroxyzine-specific trial data are available for allergic urticaria. Current guidance also favors newer-generation antihistamines because of hydroxyzine's sedative and anticholinergic burden.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT02023164](https://clinicaltrials.gov/study/NCT02023164) | Phase 3 | Completed | 36 | Small feasibility pilot comparing IV cetirizine 10 mg with IV diphenhydramine 50 mg in acute urticaria. It does not appear to study hydroxyzine (relevance grade C), so it gives only indirect class-level support. |
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
+The table lists the most relevant publications, with reviews prioritized. None is a randomized trial of hydroxyzine for allergic urticaria.
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [31582993](https://pubmed.ncbi.nlm.nih.gov/31582993/) | 2019 | Position statement | Allergy Asthma Clin Immunol | CSACI states that newer-generation H1-antihistamines should be first-line for allergic rhinitis and urticaria. First-generation agents such as hydroxyzine cause sedation, cognitive impairment, dry mouth, dizziness and orthostatic hypotension, and have been linked to accidents, overdoses and sudden cardiac death. |
-| [28913986](https://pubmed.ncbi.nlm.nih.gov/28913986/) | 2017 | Review | Allergy Asthma Immunol Res | Chronic spontaneous urticaria treatment starts with antihistamines, usually at doses above those used for rhinitis. Hydroxyzine and diphenhydramine were used this way in the past. Omalizumab is the option if high-dose antihistamines fail. |
-| [1981354](https://pubmed.ncbi.nlm.nih.gov/1981354/) | 1990 | Review | Drugs | Cetirizine, a carboxylated metabolite of hydroxyzine, is a potent peripheral H1 antagonist that lacks the CNS depressant effects of standard antihistamines. Reviews its clinical potential in chronic urticaria. |
-| [16278258](https://pubmed.ncbi.nlm.nih.gov/16278258/) | 2005 | Review | Ann Pharmacother | Reviews the efficacy and safety of first- and newer-generation antihistamines in allergic rhinitis and chronic idiopathic urticaria. |
-| [18336052](https://pubmed.ncbi.nlm.nih.gov/18336052/) | 2008 | Review | Clin Pharmacokinet | Comparative pharmacokinetic and pharmacodynamic review of desloratadine, fexofenadine and levocetirizine. Second-generation agents were developed to treat rhinitis and chronic idiopathic urticaria with fewer adverse effects. |
-| [22994340](https://pubmed.ncbi.nlm.nih.gov/22994340/) | 2012 | Review | Clin Exp Allergy | Discusses how to choose the best H1-antihistamine in urticaria and the difficulty of comparing drugs without head-to-head studies. |
-| [22686617](https://pubmed.ncbi.nlm.nih.gov/22686617/) | 2012 | Review | Drugs | Bilastine, a second-generation antihistamine, is used for allergic rhinoconjunctivitis and urticaria. |
-| [18201439](https://pubmed.ncbi.nlm.nih.gov/18201439/) | 2007 | Review | Allergy Asthma Proc | Reviews levocetirizine's pharmacology, safety and effectiveness in allergic rhinitis and chronic idiopathic urticaria. |
-| [19808127](https://pubmed.ncbi.nlm.nih.gov/19808127/) | 2009 | Review | Clin Ther | Levocetirizine is approved for allergic rhinitis and chronic idiopathic urticaria in adults and children aged 6 and over. |
-| [12113226](https://pubmed.ncbi.nlm.nih.gov/12113226/) | 2002 | Review | Clin Allergy Immunol | Reviews H1-antagonist use in children, with strong evidence for allergic rhinoconjunctivitis. |
-
----
+| [14680442](https://pubmed.ncbi.nlm.nih.gov/14680442/) | 2004 | Review | Expert Opin Pharmacother | Cetirizine, a hydroxyzine metabolite, is a selective peripheral H1 antagonist with documented antihistaminic activity |
+| [16278258](https://pubmed.ncbi.nlm.nih.gov/16278258/) | 2005 | Review | Ann Pharmacother | Efficacy and safety of first- and newer-generation antihistamines in allergic rhinitis and chronic idiopathic urticaria |
+| [31582993](https://pubmed.ncbi.nlm.nih.gov/31582993/) | 2019 | Review | Allergy Asthma Clin Immunol | Position statement: newer antihistamines are safer than first-generation ones (including hydroxyzine) and should be first-line for rhinitis and urticaria |
+| [10582734](https://pubmed.ncbi.nlm.nih.gov/10582734/) | 1999 | Review | Ann Allergy Asthma Immunol | Summary of cetirizine use, efficacy and safety in dermatologic disorders |
+| [1981354](https://pubmed.ncbi.nlm.nih.gov/1981354/) | 1990 | Review | Drugs | Cetirizine, the carboxylated metabolite of hydroxyzine, is a potent H1 antagonist lacking CNS depressant effects at 10 mg/day |
+| [28913986](https://pubmed.ncbi.nlm.nih.gov/28913986/) | 2017 | Article | Allergy Asthma Immunol Res | Chronic spontaneous urticaria treatment begins with antihistamines; hydroxyzine was used similarly in the past |
+| [7510611](https://pubmed.ncbi.nlm.nih.gov/7510611/) | 1993 | Review | Drugs | Cetirizine is effective and well tolerated in allergic rhinitis and chronic idiopathic urticaria |
+| [32127782](https://pubmed.ncbi.nlm.nih.gov/32127782/) | 2020 | Review | Clin Mol Allergy | Update on cetirizine use in children, derived from hydroxyzine metabolism |
+| [7528133](https://pubmed.ncbi.nlm.nih.gov/7528133/) | 1994 | Review | Drugs | Loratadine was as effective as several antihistamines, including hydroxyzine, in comparative studies |
+| [11034010](https://pubmed.ncbi.nlm.nih.gov/11034010/) | 2000 | Case report | J Clin Gastroenterol | Case of cetirizine-induced cholestasis, a safety signal for the metabolite |
 
 ## US Market Information
 
-The source data lists 20 US authorizations. The five main ones are below. Approved-indication text is empty for all of them.
+All 15 US authorizations are cancelled. The data compiled for this report do not include approved indication text, so none is shown. The table lists 5 of the 15.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA217652 | Hydroxyzine Hydrochloride | Tablet, film coated | Rising Pharma Holdings, Inc. |
-| ANDA087479 | Hydroxyzine Pamoate | Capsule | Bryant Ranch Prepack |
-| ANDA088487 | Hydroxyzine Pamoate | Capsule | Teva Pharmaceuticals USA, Inc. |
-| ANDA204279 | Hydroxyzine Hydrochloride | Tablet, film coated | Bryant Ranch Prepack |
-| ANDA087871 | Hydroxyzine Hydrochloride | Tablet, film coated | Bryant Ranch Prepack |
-
-Other forms on the US market include plain tablets and solution.
-
----
+| ANDA217652 | Hydroxyzine Hydrochloride | Film-coated tablet | Not available |
+| ANDA087479 | Hydroxyzine Pamoate | Capsule | Not available |
+| ANDA088487 | Hydroxyzine Pamoate | Capsule | Not available |
+| ANDA204279 | Hydroxyzine Hydrochloride | Film-coated tablet | Not available |
+| ANDA201674 | Hydroxyzine Hydrochloride | Solution | Not available |
 
 ## Safety Considerations
 
-Please refer to the package insert for warnings, contraindications and drug interactions. The source data has no label-derived safety information, and the drug-interaction query returned no results.
+- **Contraindication signals (knowledge graph, not label text)**: Disease associations flagged include cardiovascular conditions (hypertension, coronary artery disease, myocardial infarction, heart conduction disease, sudden cardiac arrest), glaucoma (open-angle and angle-closure), epilepsy, liver and gallbladder disease, thyroid disorders (hypothyroidism, hyperthyroidism), peptic ulcer disease, benign prostatic hyperplasia, diabetes and diabetic ketoacidosis, psychotic and other mental disorders, and substance abuse/dependence.
+- **Drug Interactions**: 100 interactions were found. The major ones among those reviewed are:
+  - Morphine
+  - Potassium citrate
+  - Dolasetron
 
-The literature does raise one guardrail. The CSACI 2019 position statement (PMID 31582993) cautions that first-generation antihistamines such as hydroxyzine cause:
+  Moderate interactions include anticholinergics (atropine, hyoscyamine, dicyclomine, trospium), clarithromycin, levofloxacin and several laxatives and antiemetics. Famotidine and cimetidine are also on the list, with cimetidine rated minor.
+- **Literature signal**: A 2019 position statement notes that first-generation antihistamines, including hydroxyzine, commonly cause sedation, cognitive impairment, dry mouth, dizziness and orthostatic hypotension, and have been linked to accidents, overdoses and sudden cardiac death.
 
-- Sedation and impaired cognition.
-- Anticholinergic effects such as dry mouth.
-- Orthostatic hypotension.
-- Reports of sudden cardiac death.
-
-The related QT-prolongation concern would need review against the label.
-
----
+Please also refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The mechanism is plausible and the TxGNN score is very high. However, the supplied trial and literature evidence is class-level and not specific to hydroxyzine. The safety data needed for screening is missing. Current guidance favors second-generation antihistamines first-line, and allergic urticaria may already be an established hydroxyzine use.
+The prediction is mechanistically sound but is essentially an existing use. There are no hydroxyzine-specific trials, the literature is mostly about cetirizine and other antihistamines, and all US licenses are cancelled. Guidelines now prefer second-generation antihistamines. The evidence is at level L4, which supports further research but not progression.
 
 **To proceed, the following is needed:**
-- The US package insert (indications, warnings, contraindications), to confirm whether urticaria is already labeled and to complete safety screening.
-- Detailed mechanism-of-action data from DrugBank.
-- Hydroxyzine-specific trials or studies in urticaria. The only registered trial retrieved does not study hydroxyzine.
-- A comparison against second-generation antihistamines, to define hydroxyzine's role, for example as an add-on or for nocturnal itch.
+- Confirmation of current US availability, since all licenses are cancelled
+- Hydroxyzine-specific clinical data in allergic urticaria, with a rationale for choosing it over second-generation antihistamines
+- Package insert warnings and contraindications for formal safety screening
+- Detailed mechanism-of-action data
+- A safety review of sedation, anticholinergic and cardiac risks (including QT-related concerns) for the target population
 
-**Side note:** the third-ranked prediction, cold urticaria, has better direct support. It includes a 1984 randomized double-blind comparison that included hydroxyzine (PMID 6480953) and a completed Phase 4 study of 5 antihistamines in urticaria (NCT01940393). It may be worth evaluating separately.
+### Other Predicted Indications (for reference)
+
+| Predicted Indication | TxGNN Score | Evidence Level | Assessment |
+|------|------|------|------|
+| Cold urticaria | 99.66% | L3 | Research question. A 1984 small comparative study (PMID 6480953) and a 1979 single-patient report (PMID 475987) give limited direct evidence for hydroxyzine. |
+| Rosacea conjunctivitis | 99.70% | L5 | Hold. Weak mechanistic link, since ocular rosacea is not mainly histamine-driven, and no trials or literature. |
+| Recalcitrant atopic dermatitis | 99.36% | L5 | Hold. Hydroxyzine only relieves itch, and the data contain no trials or literature for this subtype. |
+| IgE responsiveness, atopic | 99.27% | L5 | Hold. This is an immunological trait rather than a clinical indication, and no trials or literature were found. |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

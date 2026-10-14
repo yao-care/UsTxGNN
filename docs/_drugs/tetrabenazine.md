@@ -29,32 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tetrabenazine: From Huntington's Disease Chorea to Polycystic Kidney Disease 3 with or without Polycystic Liver Disease
+# Tetrabenazine: From Huntington Disease to Polycystic Kidney Disease 3 (With or Without Polycystic Liver Disease)
 
 ## One-Sentence Summary
 
-Tetrabenazine is a marketed oral drug, best known for reducing chorea in Huntington's disease (this comes from a retrieved trial, not from the license records).
-The TxGNN model predicts it may be effective for **polycystic kidney disease 3 with or without polycystic liver disease**, but this is a model prediction only, with **0 clinical trials** and **20 publications** that are disease background and do not mention tetrabenazine.
+Tetrabenazine was originally used to treat Huntington disease and related movement disorders.
+The TxGNN model predicts it may be effective for **polycystic kidney disease 3 with or without polycystic liver disease**,
+but currently **0 clinical trials** and **0 publications** support this prediction. It is a model-only prediction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Huntington's disease chorea (inferred from a retrieved trial; the license records list no indication text) |
+| Original Indication | Huntington disease (including juvenile Huntington disease, Huntington disease-like syndromes, and McLeod neuroacanthocytosis syndrome) |
 | Predicted New Indication | Polycystic kidney disease 3 with or without polycystic liver disease |
 | TxGNN Prediction Score | 99.90% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (total licenses, including generic ANDAs) |
+| US Market Status | Cancelled only (no currently valid authorizations) |
+| Number of NDAs | 9 (1 NDA and 8 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the source record. Tetrabenazine is generally described as a reversible VMAT2 inhibitor that depletes presynaptic monoamines, which explains its use in hyperkinetic movement disorders such as chorea.
+Currently, detailed mechanism of action data is not available from the data compiled for this report. Based on general pharmacological knowledge, tetrabenazine is a reversible VMAT2 (vesicular monoamine transporter 2) inhibitor that depletes presynaptic monoamines in the central nervous system. This explains its use in hyperkinetic movement disorders such as Huntington disease.
 
-The predicted disease is a genetic cystic disorder of the kidney and liver, linked to genes such as GANAB and PRKCSH. It has no known connection to VMAT2 or monoamine pathways, so the very high TxGNN score has no supporting mechanism. None of the 20 retrieved papers mention tetrabenazine.
+The predicted indication is a different kind of disease. Polycystic kidney and liver disease arises from ciliary and cystogenesis pathways (for example, glycoprotein processing defects related to GANAB). It is not a disorder of monoamine signalling. No clear mechanistic link between VMAT2 inhibition and this pathology has been identified.
 
-The other nine top predictions (renal-hepatic-pancreatic dysplasia, Joubert syndrome with renal defect, karyomegalic interstitial nephritis and others) are also model-only predictions at L5 with no plausible mechanism.
+The high TxGNN score reflects a network-based computational association only. It has no supporting biological rationale, clinical trials, or literature. The other top-ranked predictions show the same pattern: they are mostly ciliopathies, developmental malformations, and metabolic disorders, and none has clinical or literature support. The only retrieved article (for rank 5, thoracic malformation) is a case report on spasmodic torticollis and appears to be a keyword-level match.
 
 ## Clinical Trial Evidence
 
@@ -62,48 +63,46 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-None of these papers studies tetrabenazine. They describe the disease background, and no RCTs were found.
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [35728731](https://pubmed.ncbi.nlm.nih.gov/35728731/) | 2022 | Guideline | J Hepatol | EASL guidance on diagnosing and managing cystic liver diseases, including polycystic liver disease |
-| [38958301](https://pubmed.ncbi.nlm.nih.gov/38958301/) | 2024 | Guideline | Am J Gastroenterol | ACG guideline on focal liver lesions, including hepatic cystic lesions and polycystic liver disease |
-| [30819518](https://pubmed.ncbi.nlm.nih.gov/30819518/) | 2019 | Review | Lancet | ADPKD is a systemic disorder with liver cysts and other extrarenal complications |
-| [35487607](https://pubmed.ncbi.nlm.nih.gov/35487607/) | 2022 | Review | Clin Liver Dis | Polycystic liver disease in ADPKD; tolvaptan can slow renal decline |
-| [29038287](https://pubmed.ncbi.nlm.nih.gov/29038287/) | 2018 | Review | J Am Soc Nephrol | Genetic and phenotypic overlap between ADPKD and polycystic liver disease (PKD1, PKD2, GANAB, PRKCSH and others) |
-| [38097330](https://pubmed.ncbi.nlm.nih.gov/38097330/) | 2023 | Review | Adv Kidney Dis Health | Genetic spectrum of polycystic kidney and liver diseases; cilia defects are central to pathogenesis |
-| [29175241](https://pubmed.ncbi.nlm.nih.gov/29175241/) | 2018 | Clinical management | J Hepatol | Case-based approach to managing polycystic liver disease |
-| [34724412](https://pubmed.ncbi.nlm.nih.gov/34724412/) | 2022 | Review | Annu Rev Pathol | Mechanisms and treatment advances in polycystic liver disease |
-| [36200122](https://pubmed.ncbi.nlm.nih.gov/36200122/) | 2022 | Review | Hepat Med | Pathophysiology, diagnosis and treatment of polycystic liver disease |
-| [40296340](https://pubmed.ncbi.nlm.nih.gov/40296340/) | 2025 | Cohort | Ann Transplant | Retrospective outcomes of organ transplantation in 9 patients with polycystic liver disease |
+Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021894 | Xenazine (Lundbeck Pharmaceuticals LLC) | Tablet | Not listed in the source data |
-| ANDA206129 | Tetrabenazine (Sun Pharmaceutical Industries, Inc.) | Tablet | Not listed in the source data |
-| ANDA213316 | Tetrabenazine (Heritage / Avet Pharmaceuticals) | Tablet | Not listed in the source data |
-| ANDA207682 | Tetrabenazine (Precision Dose Inc.) | Tablet | Not listed in the source data |
+| Authorization Number | Product Name | Dosage Form | Approved Indication | Status |
+|---------|------|------|-----------|------|
+| NDA021894 | Xenazine (Lundbeck Pharmaceuticals LLC) | Tablet | Not available | Cancelled |
+| ANDA206129 | Tetrabenazine (Sun Pharmaceutical Industries) | Tablet | Not available | Cancelled |
+| ANDA213316 | Tetrabenazine (Heritage/Avet Pharmaceuticals) | Tablet | Not available | Cancelled |
+| ANDA207682 | Tetrabenazine (Precision Dose) | Tablet | Not available | Cancelled |
+| ANDA204574 | Tetrabenazine (Camber Pharmaceuticals) | Coated tablet | Not available | Cancelled |
 
-The route is oral. Tablet and coated tablet forms are registered.
+Nine authorizations are listed in total (1 NDA and 8 ANDAs); all are cancelled and none is currently valid. Only the first five are shown above.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug interaction records were found in the source data.
+- **Contraindication-related conditions (from the knowledge graph, not label text)**: The drug is associated with contraindications or cautions in the following conditions:
+  - Cardiovascular: long QT syndrome (including familial), torsades de pointes, orthostatic hypotension, hypotensive disorder, postural orthostatic tachycardia syndrome, multiple system atrophy
+  - Psychiatric: anxiety disorder, neurotic disorder, dysthymic disorder
+  - Hepatobiliary: liver disease, gallbladder disease
+  - Movement disorders: tardive dyskinesia, lingual-facial-buccal dyskinesia, parkinsonian disorder, Parkinson disease, drug-induced akathisia
+  - Endocrine: hyperprolactinemia (including familial and acquired forms), prolactin-producing pituitary tumor
+- **Drug Interactions**: 100 interactions were found. Examples of **major** interactions include bupropion, dolasetron, and metoclopramide. Examples of moderate interactions include clarithromycin, levofloxacin, morphine, famotidine, loperamide, and lorcaserin.
+- **Contextual concern**: For some of the predicted indications (for example, acute intermittent porphyria, which involves neuropsychiatric attacks), the depression and suicidality warnings associated with tetrabenazine would be a particular concern.
+
+Please refer to the package insert for the full warnings and contraindications, as label text was not available for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on the model score alone. There are no trials, none of the retrieved papers evaluate tetrabenazine, and no mechanism links VMAT2 inhibition to a genetic cystic kidney and liver disorder.
+The prediction is purely computational. It has no clinical trials, no literature, and no plausible mechanistic link between VMAT2 inhibition and polycystic kidney/liver disease. In addition, all U.S. authorizations for tetrabenazine are cancelled, and label safety data are missing.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, which are required for any safety screening
-- Detailed mechanism of action data from DrugBank
-- A credible biological hypothesis connecting monoamine depletion to cyst formation, backed by preclinical evidence
-- A review of the other top-ranked predictions, or a decision to deprioritize this drug for repurposing
+- Preclinical or mechanistic evidence connecting monoamine/VMAT2 pathways to ciliary or cystogenesis biology
+- Detailed mechanism of action data
+- FDA package insert warnings and contraindications for safety screening
+- Confirmation of current U.S. market and supply status
+- Re-evaluation of other candidate indications that may have a more plausible neurological link
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

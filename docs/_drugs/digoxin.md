@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Digoxin
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 608
-evidence_level: L4
+evidence_level: L5
 indication_count: 6
 ---
 
 # Digoxin
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,97 +29,79 @@ Evidence Level: **L4** | Predicted Indications: **6**
 
 </div>
 
-# Digoxin: From Cardiac Indications to Prinzmetal Angina
+# Digoxin: From Atrial Fibrillation to Prinzmetal Angina
 
 ## One-Sentence Summary
 
-Digoxin is a cardiac glycoside (Na+/K+-ATPase inhibitor) marketed in the US as tablets, injection, and oral solution. The US license records provided contain no indication text.
-The TxGNN model predicts it may be effective for **Prinzmetal angina** with a score of 99.81%. However, there are **0 clinical trials** and only **2 loosely related publications**, and the mechanism argues against benefit.
-
----
+Digoxin is a cardiac glycoside, originally used to treat atrial fibrillation and digitalis poisoning.
+The TxGNN model predicts it may be effective for **Prinzmetal angina**, but there are currently **0 clinical trials** and only **1 indirect publication** (a review on antihypertensive chronopharmacology) supporting this direction. This is a model prediction without clinical support.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the provided license records (digoxin is a cardiac glycoside used in cardiac conditions) |
+| Original Indication | Atrial fibrillation; digitalis poisoning |
 | Predicted New Indication | Prinzmetal angina |
 | TxGNN Prediction Score | 99.81% |
-| Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 11 authorizations in total (2 NDAs, 9 ANDAs), all cancelled |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism-of-action data is not available in the Evidence Pack. Digoxin is a cardiac glycoside that inhibits Na+/K+-ATPase and raises intracellular calcium.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. From general pharmacological knowledge, digoxin inhibits Na+/K+-ATPase, which raises intracellular calcium, increases myocardial contractility and slows atrioventricular conduction. This underlies its use in atrial fibrillation rate control.
 
-This mechanism does not plausibly treat Prinzmetal angina, which is caused by coronary vasospasm. Increased intracellular calcium and vascular tone could theoretically worsen vasospasm. The high graph score therefore looks like a knowledge-graph association rather than a mechanistic signal, and it should be read as a hypothesis-generating output only.
+The link to Prinzmetal (vasospastic) angina is weak. This condition is driven by coronary artery vasospasm. Higher intracellular calcium in vascular smooth muscle could, in theory, worsen rather than relieve vasospasm. The only retrieved publication is a review of chronopharmacology in antihypertensive treatment, which does not address digoxin in vasospastic angina.
 
-The other five predictions are also weak:
-- **Duodenal obstruction:** one unrelated case report.
-- **Duodenal ulcer:** the literature shows drug-interaction and toxicity signals, not efficacy.
-- **Duodenogastric reflux:** no evidence retrieved.
-- **Obsolete susceptibility to ischemic stroke:** an obsolete ontology term, so not actionable.
-- **Hypoalphalipoproteinemia:** no evidence retrieved.
-
----
+The high TxGNN score (0.998) most likely reflects proximity in the knowledge graph (shared cardiovascular context) rather than demonstrated biology. A potential safety concern cannot be excluded.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [9206110](https://pubmed.ncbi.nlm.nih.gov/9206110/) | 1996 | Review (as classified) | Chinese Medical Sciences Journal | Study of 30 hospitalized patients with angina decubitus. It found severe coronary obstruction and increased myocardial oxygen consumption before attacks. It does not evaluate digoxin for vasospastic angina. |
-| [10736610](https://pubmed.ncbi.nlm.nih.gov/10736610/) | 1999 | Review | Acta Physiologica et Pharmacologica Bulgarica | Overview of chronopharmacology and circadian rhythms in antihypertensive treatment. It has no direct evidence for digoxin in Prinzmetal angina. |
-
-Neither publication supports digoxin efficacy for Prinzmetal angina.
-
----
+| [10736610](https://pubmed.ncbi.nlm.nih.gov/10736610/) | 1999 | Review | Acta Physiol Pharmacol Bulg | Chronopharmacology and its impact on antihypertensive treatment. Indirect; does not address digoxin in vasospastic angina |
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form |
-|---------|------|------|
-| ANDA215307 | Digoxin (American Health Packaging) | Tablet |
-| ANDA215307 | Digoxin (Marlex Pharmaceuticals, Inc.) | Tablet |
-| ANDA215307 | Digoxin (ANI Pharmaceuticals, Inc.) | Tablet |
-| ANDA083391 | Digoxin (Hikma Pharmaceuticals USA Inc.) | Injection |
-| ANDA215209 | Digoxin (Amici Pharma, Inc) | Solution |
+All 11 authorizations are listed as cancelled; approved indication text was not available in the compiled data. The main authorizations are:
 
-The 20 licenses cover oral (tablet), injectable, and solution forms.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA020405 | LANOXIN (Advanz Pharma) | Tablet | Not available |
+| NDA009330 | LANOXIN (Covis Pharma) | Injection, solution | Not available |
+| ANDA083391 | Digoxin (Hikma) | Injection | Not available |
+| ANDA040481 | Digoxin (Sandoz) | Injection, solution | Not available |
+| ANDA215209 | Digoxin (Amici Pharma) | Solution | Not available |
 
 ## Safety Considerations
 
-- **Theoretical concern for this indication:** Digoxin's calcium-raising action and effect on vascular tone could aggravate coronary vasospasm. This is a potential harm rather than a benefit.
+- **Disease-related cautions (knowledge graph, not label text)**: Digoxin is linked to contraindication or caution signals in several conditions. Notable ones include:
+  - Cardiac: myocardial infarction, Wolff-Parkinson-White syndrome, sick sinus syndrome, atrioventricular block, ventricular fibrillation, hypertrophic and restrictive cardiomyopathy, myocarditis, constrictive pericarditis, cor pulmonale
+  - Metabolic and renal: kidney disease, potassium deficiency, hypercalcemia, nephrocalcinosis, phosphorus metabolism disease, hypothyroidism and myxedema
+- **Drug Interactions**: 100 interactions were identified (DDInter). Examples at Moderate level include acarbose, rabeprazole, doxycycline, tetracycline, epinephrine, metformin, bupropion, amphotericin B, acetylsalicylic acid, cholecalciferol, calcium phosphate and corticosteroids (hydrocortisone, dexamethasone, betamethasone, triamcinolone). Minor interactions include atropine, hyoscyamine, glycopyrronium and albiglutide.
 
-No package-insert warnings, contraindications, or drug-interaction records were retrieved. Please refer to the package insert for safety information.
-
----
+Please refer to the package insert for full warnings and contraindications, as label text was not available in the compiled data.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a graph score alone. There are no clinical trials, the two publications are not relevant to efficacy, and digoxin's known mechanism suggests possible harm in vasospastic angina.
+The prediction rests on a model score alone (L5), with no clinical trials and no relevant literature. The known pharmacology (raised intracellular calcium) may even be unfavorable in vasospastic angina. All US authorizations are cancelled, and label safety data is missing.
 
 **To proceed, the following is needed:**
-- Package-insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism-of-action data (DrugBank) to test whether any plausible link exists
-- Confirmation of the original approved indications from the labels
-- Any clinical or mechanistic evidence for digoxin in coronary vasospasm
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data confirmed from DrugBank
+- Preclinical or mechanistic evidence on digoxin in coronary vasospasm, including safety assessment
+- Systematic literature search specific to digoxin and vasospastic angina
+- Clarification of current US marketing status, given that all authorizations are listed as cancelled
 
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
+**Other predictions reviewed (all L5, Hold):** duodenal obstruction, duodenal ulcer, duodenogastric reflux, obsolete susceptibility to ischemic stroke and hypoalphalipoproteinemia. None has clinical trials or a plausible supporting mechanism, and the stroke entry is an obsolete ontology term that should be excluded.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

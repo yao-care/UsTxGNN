@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Misoprostol
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 935
-evidence_level: L5
+evidence_level: L4
 indication_count: 2
 ---
 
 # Misoprostol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **2** 
+Evidence Level: **L4** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,99 +29,95 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Misoprostol: From NSAID-Induced Gastric Ulcer Prevention to Amenorrhea
+# Misoprostol: From Gastric Ulcer Indication (Label Text Unavailable) to Amenorrhea
 
 ## One-Sentence Summary
 
-Misoprostol is an oral synthetic prostaglandin E1 analog. In the US it is generally labeled for reducing the risk of NSAID-induced gastric ulcers, although the Evidence Pack does not list an approved indication.
-The TxGNN model predicts it may be effective for **amenorrhea** (score 99.64%), but there are **0 registered clinical trials** and only **7 publications**, none of which studies misoprostol as a treatment for amenorrhea.
-The evidence is therefore indirect, and the recommendation is **Hold**.
-
----
+Misoprostol is a prostaglandin E1 analog; the approved-indication text for its US licenses was not available in the data compiled for this report.
+The TxGNN model predicts it may be effective for **amenorrhea**, but there are **0 registered clinical trials** and **7 publications** (mostly about pregnancy termination, not amenorrhea treatment) behind this prediction.
+The evidence is weak, so the recommendation is **Hold**.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the Evidence Pack (general US labeling: reducing the risk of NSAID-induced gastric ulcers) |
+| Original Indication | Not available (approved-indication text is empty in all license records) |
 | Predicted New Indication | Amenorrhea |
 | TxGNN Prediction Score | 99.64% |
-| Evidence Level | L4 (indirect literature only; no trials on amenorrhea treatment) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (all generic ANDA licenses) |
+| Evidence Level | L4 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 5 (all cancelled; 1 NDA and 4 ANDAs) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the Evidence Pack. Misoprostol is a synthetic prostaglandin E1 analog with uterotonic and cervical-ripening effects. These properties are why it is widely used in reproductive medicine, for example for uterine evacuation.
+Currently, detailed mechanism of action data is not available. Based on known information, misoprostol is a prostaglandin E1 analog that induces uterine contraction and cervical ripening, and it is used clinically in uterine evacuation.
 
-The link to amenorrhea is indirect. The retrieved literature is about medical abortion, mainly low-dose mifepristone plus misoprostol in very early pregnancy, and about missed abortion. In these studies "amenorrhea" only describes gestational age (for example, "amenorrhea ≤35 days"), so a missed period is where misoprostol is used to bring on uterine evacuation and menstrual-like bleeding. This does not show that misoprostol treats amenorrhea itself.
+The link to amenorrhea is indirect. Misoprostol is used where absent menses are caused by pregnancy-related conditions (for example, missed abortion or anembryonic pregnancy), helping to empty the uterus and restore the cycle. The retrieved literature, however, shows no evidence that misoprostol treats amenorrhea itself. Most of the papers describe mifepristone plus misoprostol regimens for ending early pregnancy, where "amenorrhea" appears only as an inclusion criterion (for example, amenorrhea ≤35 days).
 
-The very high TxGNN score is a model output only. It may reflect knowledge-graph proximity between misoprostol and reproductive-health terms rather than a real therapeutic relationship.
-
----
+The high TxGNN score (0.996) is a computational prediction only. It should not be read as proof of efficacy.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered (neither ClinicalTrials.gov nor ICTRP).
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-None of these publications tests misoprostol as a treatment for amenorrhea. The first six concern pregnancy termination or unrelated conditions. The Endometrial ablation review does not involve misoprostol.
-
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [27678099](https://pubmed.ncbi.nlm.nih.gov/27678099/) | 2017 | RCT | Reproductive Sciences | 744 women with ultra-early pregnancy (amenorrhea ≤35 days) compared hospital-administered with self-administered misoprostol after low-dose mifepristone for medical abortion. |
-| [25394644](https://pubmed.ncbi.nlm.nih.gov/25394644/) | 2015 | RCT (dose-ranging) | Reproductive Sciences | 2,500 women received mifepristone 50–150 mg followed by oral misoprostol 200 µg. The study evaluated complete abortion without surgery for ultra-early pregnancy. |
-| [26405260](https://pubmed.ncbi.nlm.nih.gov/26405260/) | 2015 | Clinical study | Human Reproduction | Low-dose mifepristone plus misoprostol before expected menstruation was evaluated for preventing unintended pregnancy. The design is not verified from the title. |
-| [29974571](https://pubmed.ncbi.nlm.nih.gov/29974571/) | 2018 | Cohort/clinical study | J Obstet Gynaecol Res | Safety and efficacy of self-administered misoprostol with low-dose mifepristone for early pregnancy termination. |
-| [1486304](https://pubmed.ncbi.nlm.nih.gov/1486304/) | 1992 | Review/clinical report | BMJ | Medical management of missed abortion and anembryonic pregnancy. No abstract available. |
-| [26001691](https://pubmed.ncbi.nlm.nih.gov/26001691/) | 2015 | Review | J Obstet Gynaecol Can | Endometrial ablation for abnormal uterine bleeding. Misoprostol is not the intervention. |
-| [37113350](https://pubmed.ncbi.nlm.nih.gov/37113350/) | 2023 | Case report | Cureus | Acute fatty liver of pregnancy in a woman who presented with amenorrhea. Unrelated to misoprostol treatment. |
+| [27678099](https://pubmed.ncbi.nlm.nih.gov/27678099/) | 2017 | RCT | Reprod Sci | 744 women with amenorrhea ≤35 days; low-dose mifepristone with self-administered misoprostol for ultra-early medical abortion |
+| [25394644](https://pubmed.ncbi.nlm.nih.gov/25394644/) | 2015 | RCT (dose-ranging) | Reprod Sci | 2,500 women; mifepristone 50–150 mg followed by 200 µg oral misoprostol for ultra-early pregnancy termination |
+| [29974571](https://pubmed.ncbi.nlm.nih.gov/29974571/) | 2018 | Prospective clinical study | J Obstet Gynaecol Res | Safety and efficacy of low-dose mifepristone with self-administered misoprostol for early pregnancy termination |
+| [26405260](https://pubmed.ncbi.nlm.nih.gov/26405260/) | 2015 | Cohort/clinical study | Hum Reprod | Low-dose mifepristone plus misoprostol before expected menstruation to prevent unintended pregnancy |
+| [1486304](https://pubmed.ncbi.nlm.nih.gov/1486304/) | 1992 | Review | BMJ | Medical management of missed abortion and anembryonic pregnancy |
+| [26001691](https://pubmed.ncbi.nlm.nih.gov/26001691/) | 2015 | Review | J Obstet Gynaecol Can | Endometrial ablation in the management of abnormal uterine bleeding (not specific to misoprostol) |
+| [37113350](https://pubmed.ncbi.nlm.nih.gov/37113350/) | 2023 | Case report | Cureus | Acute fatty liver of pregnancy; amenorrhea was a presenting symptom, unrelated to misoprostol treatment |
 
----
+None of these papers tests misoprostol as a treatment for amenorrhea.
 
 ## US Market Information
 
-The Evidence Pack contains no approved-indication text for these licenses, so the manufacturer is shown instead. Five of 20 licenses are listed. All are oral tablets.
-
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA076095 | Misoprostol | Tablet | GenBioPro, Inc. |
-| ANDA076095 | Misoprostol | Tablet | ANI Pharmaceuticals, Inc. |
-| ANDA210201 | Misoprostol | Tablet | AvPAK |
-| ANDA076095 | Misoprostol | Tablet | Cardinal Health 107, LLC |
-| ANDA091667 | Misoprostol | Tablet | Novel Laboratories, Inc. |
+| NDA019268 | Cytotec (Pfizer) | Tablet | Not available; license cancelled |
+| ANDA076095 | Misoprostol (GenBioPro) | Tablet | Not available; license cancelled |
+| ANDA091667 | Misoprostol (Novel Laboratories) | Tablet | Not available; license cancelled |
+| ANDA210201 | Misoprostol (AvPAK) | Tablet | Not available; license cancelled |
+| ANDA216872 | Misoprostol (Micro Labs) | Tablet | Not available; license cancelled |
 
----
+All five licenses are cancelled and the only dosage form is an oral tablet.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Disease-level cautions from the knowledge graph (not label text):** The TxGNN knowledge graph links misoprostol to contraindication-type relationships with several conditions, including:
+  - cardiovascular: hypertension, congestive heart failure, myocardial infarction, stroke and cerebrovascular disorders
+  - liver and gastrointestinal: liver failure or disease, drug-induced liver injury, gallbladder disease, inflammatory bowel disease, active peptic ulcer disease
+  - respiratory: asthma
+  - blood: blood coagulation disease, anemia, hemoglobinopathy
+  - other: substance abuse/dependence, non-infectious meningitis
+- **Drug interactions:** The data compiled for this report list 100 interactions in total. The main ones are:
+  - **Major:** dinoprostone (topical), another prostaglandin
+  - **Moderate:** magnesium-containing antacids (magnesium oxide, magnesium carbonate, magnesium hydroxide, magaldrate) and quinapril
+  - **Minor:** sodium citrate, aluminum hydroxide, calcium carbonate, sodium bicarbonate and naproxen
+- **Pregnancy-related risk:** Because misoprostol stimulates the uterus, pregnancy-related risks, including congenital anomalies after exposure, argue against repurposing it for a menstrual disorder without careful exclusion of pregnancy.
 
-One point is worth stating even though the Evidence Pack has no structured safety data. Misoprostol is contraindicated in pregnancy, which matters for any use in women of reproductive age where pregnancy has not been excluded. This is standard labeling knowledge and is also noted in the rationale text of the Evidence Pack.
-
----
+Please refer to the package insert for the official warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone. No trials exist, and the retrieved literature concerns abortion, not treatment of amenorrhea. Using misoprostol to induce uterine evacuation in early pregnancy is a different clinical purpose from treating amenorrhea. Safety data are also missing, which blocks progression past the initial screening stage.
+The prediction rests on a model score alone. No clinical trials exist, and the literature concerns pregnancy termination rather than treating amenorrhea. All US licenses are cancelled, and mechanism and label safety data are missing.
 
-The second predicted indication, atypical coarctation of aorta (score 99.30%), has no trials or literature. Its only rationale is theoretical (PGE1/alprostadil is given IV to keep the ductus arteriosus open). It is also on Hold.
+The second predicted indication, atypical coarctation of aorta, has no supporting trials or literature (Evidence Level L5). It is also not recommended.
 
 **To proceed, the following is needed:**
-- The package insert warnings and contraindications (a blocking gap for safety screening).
-- Mechanism of action data (for example from the DrugBank API) to check whether a mechanistic link to amenorrhea exists.
-- The original approved indications, to assess how the original use relates to the predicted one.
-- Targeted literature on misoprostol for amenorrhea or menstrual induction in non-pregnant women, to test whether the model's prediction reflects a real signal.
-- Confirmation that the target population and route (oral tablet) are clinically appropriate, including a pregnancy-exclusion plan.
+- Official package insert warnings, contraindications and approved indications. This is a blocking gap for safety screening.
+- Mechanism of action data (for example, from DrugBank) to support the mechanistic link.
+- A focused literature review for misoprostol in amenorrhea of non-pregnancy causes (for example, a cervical-stenosis or hysteroscopy-related setting).
+- A pregnancy-exclusion and teratogenicity risk assessment for any amenorrhea population.
+- Clarification of current US availability, since all five licenses are cancelled.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

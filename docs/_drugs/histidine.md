@@ -29,62 +29,93 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Histidine: From No Recorded Indication to Gastroparesis
+# Histidine: From an Unspecified Original Indication to Gastroparesis
 
 ## One-Sentence Summary
 
-Histidine is an amino acid product. The supplied data record no approved indication for it.
-The TxGNN model predicts it may be effective for **gastroparesis**, but **0 clinical trials** and **0 publications** currently support this prediction.
+Histidine is an essential amino acid. The only U.S. product record compiled for this report is a cancelled liquid product, and it lists no approved indication.
+The TxGNN model predicts it may be effective for **gastroparesis**, but **0 clinical trials** and only **1 loosely related publication** support this prediction. The evidence is model-prediction only.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded (the only license lists no indication text) |
+| Original Indication | Not available (the single U.S. record has no approved indication text) |
 | Predicted New Indication | Gastroparesis |
 | TxGNN Prediction Score | 99.55% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 1 |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only |
+| Number of NDAs | 1 (cancelled) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Histidine is a marketed amino acid product, but no original indication is on file. The prediction therefore cannot be checked against known pharmacology.
+Currently, detailed mechanism of action data is not available. Histidine is an amino acid and the precursor of histamine, but no approved original indication is recorded, so no mechanistic bridge to gastroparesis can be drawn from the compiled data.
 
-The TxGNN score is very high, but no trials or publications support it, and no mechanistic link to gastroparesis can be established from the supplied data. The score reflects a knowledge-graph association only. Until a plausible mechanism and human data are identified, this should be treated as a hypothesis, not a finding.
+The one publication retrieved (PMID 42668409) describes gastric amyloid pathology and mucosal denervation in hereditary ATTR amyloidosis. It did not test histidine and shows no histidine-related mechanism in gastric motility. The high TxGNN score reflects a graph-based association only. No direct or plausible link between histidine and gastroparesis has been established.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
-Currently no related literature available.
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [42668409](https://pubmed.ncbi.nlm.nih.gov/42668409/) | 2026 | Preclinical/clinical mixed (patients and mice) | Amyloid | Describes gastric amyloid pathology and mucosal denervation in ATTRv amyloidosis with gastrointestinal autonomic dysfunction. Histidine was not tested. |
+
+---
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| Not available in source data | L-Histidine High (Professional Complementary Health Formulas) | Liquid | Not stated |
+| Not available (cancelled) | L-Histidine High (Professional Complementary Health Formulas) | Liquid | Not listed |
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug interactions were found in the queried data.
+- **Disease contraindication signals (knowledge-graph based, not from label text):** The TxGNN knowledge graph links histidine to contraindication with several conditions:
+  - Kidney: kidney disease, chronic kidney disease, chronic renal failure, end-stage renal failure, nephrolithiasis (including the SLC26A1-related form), nephrocalcinosis, acute urate nephropathy, pyoureter
+  - Calcium and phosphorus: hypercalcemia, humoral hypercalcemia of malignancy, sarcoidosis, phosphorus metabolism disease
+  - Cardiac: heart disease, cardiovascular disease, digitalis poisoning, ventricular fibrillation
+  - Metabolic: phenylketonuria, disorders of phenylalanine metabolism
+
+Please refer to the package insert for further safety information. No drug interaction data were found.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a high model score (Evidence Level L5). No trials, no literature, no mechanism data and no original indication are available to support it.
+The prediction rests only on a graph-model score. There are no clinical trials, the single publication does not involve histidine, and no mechanistic link is evident. The only U.S. product record is cancelled and has no indication.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data (for example from DrugBank) and a defined original indication
-- A literature and trial search specific to histidine and gastroparesis, including any human evidence
-- A review of the mechanistic plausibility of the association
-- A verified license number and indication text for the marketed product
+- Mechanism of action data for histidine
+- Package insert warnings and contraindications
+- Evidence that histidine influences gastric motility, from preclinical or clinical studies
+- A review of the knowledge-graph contraindications (renal, cardiac, calcium-related) against the likely gastroparesis population
+
+---
+
+## Supplementary Note: Second-Ranked Prediction (Sclerosing Cholangitis)
+
+The second prediction, **sclerosing cholangitis** (TxGNN score 99.27%, evidence level L4), has 8 publications and no clinical trials.
+
+- **Mechanism:** Histidine is the precursor of histamine via L-histidine decarboxylase. Preclinical studies show that mast cell-derived histamine drives biliary proliferation and fibrosis in primary sclerosing cholangitis models (PMIDs 27351144, 35799467, 32054995, 29601088).
+- **Direction of effect:** Reducing histamine signaling was beneficial in these models. Supplemental histidine could therefore be neutral or potentially harmful, so the evidence does not support repurposing histidine for this condition.
+- **Status:** Treat it as a research question only.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

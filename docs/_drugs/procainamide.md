@@ -29,31 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Procainamide: From Antiarrhythmic Use to Tourette Syndrome
+# Procainamide: From Cardiac Arrhythmia to Tourette Syndrome
 
 ## One-Sentence Summary
 
-Procainamide is a class IA sodium channel blocker antiarrhythmic, marketed in the US as an injectable.
-The TxGNN model predicts it may be effective for **Tourette syndrome**, but **0 clinical trials** and **0 publications** support this direction.
-This is a model-only prediction with no mechanistic or clinical backing found.
+Procainamide is a class Ia sodium channel blocker antiarrhythmic, and no approved indication text is available in the data compiled for this report.
+The TxGNN model predicts it may be effective for **Tourette syndrome**, but there are **0 clinical trials** and **0 publications** supporting this prediction.
+This is a model-only prediction with no actual supporting studies.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Cardiac arrhythmia (class IA antiarrhythmic; the license records contain no indication text) |
+| Original Indication | Not stated in the available approval records (the drug is known as an antiarrhythmic) |
 | Predicted New Indication | Tourette syndrome |
 | TxGNN Prediction Score | 99.46% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 16 (the listed authorizations are generic ANDAs) |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 5 (all cancelled; listed as ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, procainamide is a class IA sodium channel blocker, and its efficacy in cardiac arrhythmia is established.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Based on general pharmacology, procainamide is a class Ia sodium channel blocker used for cardiac arrhythmias.
 
-A mechanistic link to Tourette syndrome is not apparent. The disorder is associated with dopaminergic and cortico-striatal circuitry, and procainamide has no established action on these pathways. The high score (rank 12,644 in the model's ranking) most likely reflects patterns in the knowledge graph rather than a pharmacological rationale. Without trials, literature, or a plausible mechanism, this prediction should be treated as a hypothesis only.
+Nothing in its known pharmacology connects to the dopaminergic or cortico-striato-thalamo-cortical circuitry implicated in Tourette syndrome. The high TxGNN score (99.46%) reflects a graph-based prediction only, and no credible mechanistic rationale supports it.
+
+Other top-ranked predictions show the same pattern. Most are also L5 predictions with no plausible mechanism (e.g., methemoglobinemia, trichotillomania, nephrogenic syndrome of inappropriate antidiuresis). Hyperthyroidism and Prinzmetal angina have only tangential literature. Rheumatoid arthritis has literature that points toward harm, as described in the safety section.
 
 ## Clinical Trial Evidence
 
@@ -61,38 +63,65 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for Tourette syndrome.
+
+For context, literature was retrieved for other lower-ranked predictions, but it does not support efficacy:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [2242063](https://pubmed.ncbi.nlm.nih.gov/2242063/) | 1990 | Cohort | Arthritis Rheum | Procainamide inhibits T cell DNA methylation and induces autoreactivity; impaired methylation also found in SLE and rheumatoid arthritis patients (rheumatoid arthritis prediction) |
+| [1734911](https://pubmed.ncbi.nlm.nih.gov/1734911/) | 1992 | Cohort | Arthritis Rheum | 83% of 52 asymptomatic patients on procainamide developed antinuclear antibodies (rheumatoid arthritis prediction) |
+| [15195196](https://pubmed.ncbi.nlm.nih.gov/15195196/) | 2004 | Review | Saudi Med J | Procainamide listed among drugs causing pulmonary fibrosis (rheumatoid arthritis prediction) |
+| [15336799](https://pubmed.ncbi.nlm.nih.gov/15336799/) | 2004 | Review | Int J Cardiol | Acute ventricular rate control in atrial fibrillation and flutter (hyperthyroidism prediction; symptomatic relevance only) |
+| [6977958](https://pubmed.ncbi.nlm.nih.gov/6977958/) | 1981 | Case report | Acta Cardiol | Torsades de pointes with variant angina was refractory to procainamide and responded to verapamil (Prinzmetal angina prediction) |
 
 ## US Market Information
 
-The license records contain no approved-indication text. The list below shows the main authorizations, with duplicate entries removed.
-
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA206332 | Procainamide Hydrochloride | Injection | Nexus Pharmaceuticals LLC |
-| ANDA218674 | Procainamide Hydrochloride | Injection, solution | Caplin Steriles Limited |
-| ANDA218135 | Procainamide Hydrochloride | Injection, solution | Sagent Pharmaceuticals |
-| ANDA218135 | Procainamide Hydrochloride | Injection, solution | Medical Purchasing Solutions, LLC. |
-
-All marketed forms are injectable. No oral or other route is listed.
+| ANDA206332 (cancelled) | Procainamide Hydrochloride (Nexus Pharmaceuticals) | Injection | Not available |
+| ANDA218674 (cancelled) | Procainamide Hydrochloride (Caplin Steriles) | Injection, solution | Not available |
+| ANDA218135 (cancelled) | Procainamide Hydrochloride (Sagent) | Injection, solution | Not available |
+| ANDA088636 (cancelled) | Procainamide Hydrochloride (ProPharma Distribution) | Injection | Not available |
+| ANDA089069 (cancelled) | Procainamide HCl (HF Acquisition Co, HealthFirst) | Injection, solution | Not available |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Package insert warnings and contraindications were not available in the data compiled for this report. Please refer to the package insert for authoritative safety information.
+
+- **Knowledge-graph contraindication signals** (from drug-disease contraindication edges, not label text):
+  - Cardiac: long QT syndrome (including familial), torsades de pointes, atrioventricular block, hypotensive disorder, digitalis poisoning
+  - Haematological: agranulocytosis, neutropenia (including multiple congenital forms), thrombocytopenia
+  - Organ function: kidney disease, liver disease, gallbladder disease
+  - Immune and neuromuscular: systemic lupus erythematosus (including pediatric), myasthenia gravis, neuromuscular junction disease
+  - Other: potassium deficiency disease, pyoureter
+- **Autoimmunity signal**: The retrieved literature consistently shows procainamide inducing antinuclear antibodies and drug-induced lupus. This argues against use in rheumatoid arthritis and other autoimmune conditions.
+- **Drug interactions**: The interaction search returned 100 records; 20 are shown in the data. Major interactions include:
+  - Clarithromycin
+  - Levofloxacin
+  - Dolasetron
+  - Palonosetron
+  - Eliglustat
+  - Picosulfuric acid
+  - Sodium sulfate
+  - Polyethylene glycol (3350 with electrolytes)
+
+  Moderate interactions include famotidine, ranitidine, cimetidine, metformin, loperamide, metoclopramide, and bisacodyl. Many of the major interactions likely relate to QT prolongation or electrolyte disturbance.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is model-only (L5). There are no registered trials or publications for Tourette syndrome, and no plausible link between sodium channel blockade and the underlying neurobiology. The drug is also available only as an injection, which is a poor fit for a chronic neurological condition.
+The Tourette syndrome prediction rests solely on a graph-based score. There are no clinical trials, no literature, and no plausible mechanism. Procainamide also carries significant safety signals (QT prolongation, blood dyscrasias, drug-induced lupus), and all of its US licenses are cancelled.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, which are needed for any safety screening
-- Detailed mechanism of action data (MOA)
-- A testable mechanistic hypothesis and supporting preclinical evidence
-- A route-compatibility assessment, since only injectable products are marketed
-- Note: other predicted indications (for example, thyrotoxicosis-associated tachyarrhythmia) have indirect literature tied to procainamide's antiarrhythmic role, so they may be better candidates to prioritize for further review
+- A documented mechanistic hypothesis linking sodium channel blockade to Tourette syndrome pathophysiology
+- Preclinical or exploratory data supporting any effect on tic disorders
+- Package insert warnings and contraindications, and approved indication text
+- Mechanism of action data from DrugBank
+- A risk-benefit analysis addressing proarrhythmic, haematological, and autoimmune risks, particularly in a younger Tourette population
+- A review of the commercial availability of the drug, since all US licenses are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

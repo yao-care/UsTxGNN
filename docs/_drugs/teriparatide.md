@@ -29,30 +29,30 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Teriparatide: From Osteoporosis to Duodenal Ulcer
+# Teriparatide: From Postmenopausal Osteoporosis to Duodenal Ulcer
 
 ## One-Sentence Summary
 
-Teriparatide is a parathyroid hormone (PTH 1-34) analog, used as a bone-building drug for osteoporosis.
-The TxGNN model ranks **duodenal ulcer** as its top prediction (score 99.86%), but there are **0 clinical trials** and **0 publications** supporting this direction, so it is a model prediction only.
+Teriparatide is a parathyroid hormone fragment (PTH 1-34) originally used to treat osteoporosis in patients at high risk of fracture.
+The TxGNN model predicts it may be effective for **duodenal ulcer**, but there are currently **0 clinical trials** and **0 publications** supporting this direction, so it is a computational prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Osteoporosis (the license records contain no indication text; this comes from the pack's mechanism notes) |
+| Original Indication | Postmenopausal osteoporosis / osteoporosis (from the knowledge graph; no approved-indication text is listed in the US license records) |
 | Predicted New Indication | Duodenal ulcer |
 | TxGNN Prediction Score | 99.86% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 10 |
+| US Market Status | Cancelled only (no active listings) |
+| Number of NDAs | 6 authorizations (3 NDAs and 3 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Teriparatide is a PTH(1-34) analog that acts on bone remodeling through the PTH1 receptor. Detailed mechanism of action data is not available from DrugBank. Its established role is as a bone anabolic agent for osteoporosis.
+Teriparatide is a synthetic peptide that mimics the first 34 amino acids of human parathyroid hormone. Pharmacology data show it binds the PTH1 receptor (and also the PTH2 receptor). Its established role is anabolic: it stimulates bone formation in osteoporosis. A detailed mechanism-of-action record is not available for this report, so the description above rests on the receptor data and its known clinical use.
 
-No mechanistic link between this action and duodenal ulcer has been established. Duodenal ulcer is a gastrointestinal mucosal disease, and PTH1 receptor signaling in bone offers no clear rationale for treating it. The high TxGNN score reflects a pattern in the knowledge graph, not supporting trial or literature evidence. The prediction should be treated as a hypothesis-generating signal only.
+The data compiled for this report do not show a plausible mechanistic link between PTH receptor signaling in bone and duodenal ulcer healing. The very high TxGNN score (99.86%, model rank 32) reflects network-based computational similarity, not biological or clinical validation. Neither trials nor literature were found to support it, and the similarity between the original and predicted indications has not been assessed. This prediction should be treated as a hypothesis only.
 
 ## Clinical Trial Evidence
 
@@ -64,33 +64,38 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA211097 | Teriparatide (Apotex Corp.) | Injection, solution | Not listed in the records |
-| NDA216490 | Yorvipath (Ascendis Pharma) | Injection, solution | Not listed in the records |
-| NDA021318 | Teriparatide (Prasco Laboratories) | Injection, solution | Not listed in the records |
-| NDA211939 | Teriparatide (Alvogen, Inc.) | Injection, solution | Not listed in the records |
-| ANDA213641 | Teriparatide (Amphastar Pharmaceuticals) | Injection | Not listed in the records |
+All six US authorizations are cancelled, and none is currently active.
 
-Ten authorizations exist in total; the five above are the main ones listed. All are injectable products.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA211097 | Teriparatide | Injection, solution | Apotex Corp. |
+| NDA216490 | Yorvipath | Injection, solution | Ascendis Pharma, Endocrinology, Inc. |
+| NDA021318 | Teriparatide | Injection, solution | Prasco Laboratories |
+| NDA211939 | Teriparatide | Injection, solution | Alvogen, Inc. |
+| ANDA213641 | Teriparatide | Injection | Amphastar Pharmaceuticals, Inc. |
+| ANDA208569 | Teriparatide | Injection, solution | Teva Pharmaceuticals USA, Inc. |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug interactions were found in the available data.
+Label-based warnings and contraindications were not available for this report; please refer to the package insert.
+
+- **Knowledge-graph contraindication signals** (from drug-disease contraindication links, not label text): hypotensive disorder, hypercalcemia, nephrocalcinosis, phosphorus metabolism disease, bone osteosarcoma, bone Paget disease, juvenile Paget disease, osteomalacia, rickets, urolithiasis, renal osteodystrophy, osteitis fibrosa, and hyperparathyroidism.
+- **Drug interactions** (8 records in total, 6 drug-drug and 2 receptor-target records):
+  - Moderate: topical calcitriol, topical calcipotriol, digoxin, digitoxin
+  - Minor: hydrochlorothiazide, furosemide
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The duodenal ulcer prediction rests on a graph-based score alone, with no clinical trials, no literature, and no plausible mechanistic link to PTH1 receptor signaling. It is not a candidate for further investment at this time.
+The duodenal ulcer prediction rests only on a model score, with no clinical trials, no literature, and no plausible mechanistic link. All US authorizations are also cancelled, which adds an access barrier.
 
 **To proceed, the following is needed:**
-- A plausible mechanistic hypothesis linking PTH signaling to duodenal ulcer, plus any preclinical evidence
-- The FDA package insert (warnings, contraindications) and detailed MOA data
-- Any registered clinical trials or peer-reviewed literature in this indication
-
-**Note on other predictions from the same pack:** The strongest candidate is not the top-ranked one. **Pregnancy-associated osteoporosis** (TxGNN score 99.55%) has L3 evidence and a "Proceed with Guardrails" recommendation. It is supported by a multicenter retrospective cohort of teriparatide in pregnancy- and lactation-associated osteoporosis (PMID 34132853), a 47-patient series (PMID 35903718), and several systematic reviews. However, the 2025 meta-analysis found the treatment-response data inconclusive (PMID 40205203), and no Phase 2/3 RCT exists. It would be the more productive direction to evaluate first.
+- A mechanistic rationale connecting PTH1R signaling to duodenal ulcer biology, and preclinical evidence to test it
+- A targeted literature and trial search specific to teriparatide and duodenal ulcer
+- Label-based warnings and contraindications from the FDA package insert, and detailed mechanism-of-action data
+- A review of whether other predictions for this drug deserve priority. Among the other predicted indications, **pregnancy-associated osteoporosis** (score 99.55%) has by far the strongest support: about 20 publications, including teriparatide-specific cohort studies, reviews and meta-analyses. It is an extension of the existing osteoporosis use (evidence level L3), though no randomized trial exists and use during pregnancy or lactation is limited. Bone density in functional hypothalamic amenorrhea has indirect support only.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

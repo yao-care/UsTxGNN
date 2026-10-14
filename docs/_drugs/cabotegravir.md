@@ -33,29 +33,27 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 ## One-Sentence Summary
 
-Cabotegravir is an HIV-1 integrase strand transfer inhibitor. It is marketed in the US as an oral film-coated tablet (Vocabria), and the provided data do not list its approved indication text.
-The TxGNN model predicts it may be effective for **rheumatoid arthritis**, but **0 clinical trials** and **0 publications** currently support this direction.
-The prediction is a model output only, so it should be treated as a hypothesis, not a lead.
+Cabotegravir is an HIV-1 integrase strand transfer inhibitor (INSTI). The TxGNN model predicts it may be effective for **Rheumatoid Arthritis**, but **0 clinical trials** and **0 publications** currently support this direction. The prediction is a model output only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the provided data (from general pharmacology: HIV-1 infection) |
+| Original Indication | Not stated in the available US license data (the one NDA has no indication text) |
 | Predicted New Indication | Rheumatoid arthritis |
 | TxGNN Prediction Score | 99.45% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
+| US Market Status | Cancelled only (no active license) |
 | Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the dataset. From general pharmacology, cabotegravir is an HIV-1 integrase strand transfer inhibitor, an antiviral that blocks viral DNA integration into the host genome. It has no known immunomodulatory activity relevant to rheumatoid arthritis.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, cabotegravir is an HIV-1 integrase strand transfer inhibitor, a class that blocks viral DNA integration into the host genome.
 
-No established link exists between the original use and the predicted one. Rheumatoid arthritis is a chronic autoimmune joint disease, and nothing in the data connects integrase inhibition to its inflammatory pathways. The high score (0.995) reflects a knowledge-graph pattern, not biological or clinical evidence, and should not be read as a sign of efficacy.
+Rheumatoid arthritis is an autoimmune and inflammatory disease driven by pathways such as TNF, IL-6 and JAK/STAT. Integrase inhibition does not target these pathways, so no established mechanistic link exists between the original use and the predicted indication. The high TxGNN score (0.995) is a knowledge-graph prediction and is not backed by any clinical or published evidence in the data compiled.
 
-The other top-ranked predictions have the same weakness. They are sclerosing cholangitis (99.22%), bronchitis (99.19%), colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.16%) and severe nonproliferative diabetic retinopathy (99.03%). All are L5 with no trials or literature and no plausible mechanistic link. The rare developmental disorder in particular is likely a knowledge-graph artifact.
+Other predictions in the list share the same weakness. These are sclerosing cholangitis (99.22%), bronchitis (99.19%), colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.16%) and severe nonproliferative diabetic retinopathy (99.03%). Each has no trials, no literature and no plausible mechanistic link. They are likely knowledge-graph artifacts.
 
 ## Clinical Trial Evidence
 
@@ -69,27 +67,34 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA 212887 | Vocabria (ViiV Healthcare Company) | Tablet, film coated (oral) | Not listed in the provided data |
+| NDA212887 (cancelled) | Vocabria (ViiV Healthcare Company) | Tablet, film coated (oral) | Not stated |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug interaction records were found in the queried data.
+- **Drug Interactions**: Seven interactions of Moderate severity were identified. All involve polyvalent cation-containing antacids or buffering agents:
+  - Calcium carbonate
+  - Aluminum hydroxide
+  - Magnesium carbonate
+  - Magnesium hydroxide
+  - Magnesium oxide
+  - Sodium bicarbonate
+  - Sodium citrate
+
+Warning and contraindication data from the package insert are not available. Please refer to the package insert for further safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a knowledge-graph score. There are no trials or publications, no plausible mechanistic link, and route compatibility has not been assessed. Blocking safety information is also missing.
+The prediction rests only on a knowledge-graph score. There are no trials or publications, and no plausible mechanistic link between integrase inhibition and rheumatoid arthritis. In addition, the only US license is cancelled, and package insert safety data are missing.
 
 **To proceed, the following is needed:**
-- The FDA package insert (warnings, contraindications, approved indication), which is required before any safety screening
-- Mechanism of action data from DrugBank
-- A mechanistic rationale connecting integrase inhibition to rheumatoid arthritis, or preclinical evidence supporting it
-- A literature and trial search for cabotegravir in rheumatoid arthritis, to confirm that no evidence exists
-- An assessment of route compatibility (oral and long-acting formulations against the needs of the predicted indication)
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data, to allow a proper mechanistic-link analysis
+- Confirmation of the original approved indication and current US regulatory status
+- Preclinical or mechanistic evidence that links cabotegravir to inflammatory or autoimmune pathways
+- Route and formulation compatibility assessment for the proposed indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

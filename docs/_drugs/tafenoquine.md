@@ -33,75 +33,73 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 ## One-Sentence Summary
 
-Tafenoquine is an 8-aminoquinoline antimalarial, marketed in the US as Krintafel and Arakoda.
+Tafenoquine is an antimalarial drug, originally used to treat and prevent malaria.
 The TxGNN model predicts it may be effective for **Smouldering Systemic Mastocytosis**,
-but currently there are **0 clinical trials** and **0 publications** supporting this direction. This is a model prediction only.
-
----
+but **no clinical trials and no publications** currently support this direction, so the prediction rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Malaria (based on drug class; the license records contain no indication text) |
+| Original Indication | Malaria |
 | Predicted New Indication | Smouldering systemic mastocytosis |
 | TxGNN Prediction Score | 99.05% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
+| US Market Status | Cancelled only (no currently valid licenses) |
 | Number of NDAs | 2 |
 | Recommended Decision | Hold |
 
----
-
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, tafenoquine is an 8-aminoquinoline antimalarial, and its efficacy in malaria is established. Whether it is mechanistically applicable to smouldering systemic mastocytosis is not supported by the current data.
+Currently, detailed mechanism of action data is not available. Based on known information, tafenoquine is an 8-aminoquinoline antimalarial, and its efficacy in malaria has been established. Any mechanistic link to smouldering systemic mastocytosis cannot be established from the data compiled for this report.
 
-Smouldering systemic mastocytosis is mainly driven by KIT D816V-mediated mast cell proliferation. Nothing in this dataset shows that tafenoquine acts on KIT or any related signalling pathway. The two conditions have no apparent pharmacological connection.
+The TxGNN score is very high (99.05%), but it is a graph-based computational prediction only. Possible links to mast cell disease, such as effects on KIT-driven mast cell proliferation, oxidative stress, or lysosomal pathways, are speculative and not supported by any evidence gathered here. Malaria and smouldering systemic mastocytosis are also biologically very different diseases (a parasitic infection versus a clonal mast cell neoplasm), so the relationship between the original and new indication is not apparent.
 
-The TxGNN score is high (0.990), but it reflects a model-derived association only. A biological rationale would need independent validation, for example in vitro mast cell or KIT signalling assays, before any clinical consideration.
-
----
+Mechanistic validation, such as in vitro mast cell assays and KIT D816V models, would be required before any further consideration.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA210795 | Krintafel | Film-coated tablet | GlaxoSmithKline LLC |
-| NDA210607 | Arakoda | Film-coated tablet | 60 Degrees Pharmaceuticals, INC. |
+| NDA210795 (Cancelled) | Krintafel (GlaxoSmithKline LLC) | Film-coated tablet | Not listed in the data compiled |
+| NDA210607 (Cancelled) | Arakoda (60 Degrees Pharmaceuticals, Inc.) | Film-coated tablet | Not listed in the data compiled |
 
----
+Both authorizations are oral tablets and both are marked as cancelled, so there is currently no valid US marketing license for single-ingredient tafenoquine in the data compiled.
+
+## Cytotoxicity
+
+Not applicable. Tafenoquine is not an antineoplastic drug, and the predicted indication is a neoplasm for which no supporting evidence exists. This section is therefore omitted from the assessment.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: 21 interacting drugs were identified (all from the DDInter database).
+  - **Major (5)**: Nitrous acid, Dofetilide, Prilocaine, Typhoid vaccine (live), and one further entry in the same category as listed in the interaction data.
+  - **Moderate (16)**: including Metformin, Clofarabine, Dalfampridine, Guanfacine, Dapsone (systemic and topical), and several local anaesthetics (lidocaine, benzocaine, tetracaine, cocaine, proparacaine, oxybuprocaine, cinchocaine in topical, ophthalmic, or nasal forms).
 
----
+Please refer to the package insert for warnings and contraindications, as these were not available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on the TxGNN model score, with no clinical trials, no literature and no supported mechanistic link to the KIT-driven biology of the disease. This does not justify further clinical investment at this stage.
+The prediction is supported only by a model score (Evidence Level L5), with no clinical trials, no literature, no mechanism of action data, and no clear biological connection between malaria and smouldering systemic mastocytosis. In addition, no US license for tafenoquine is currently valid, and label safety data are missing.
 
 **To proceed, the following is needed:**
-- Mechanism of action data for tafenoquine, and any evidence of activity on KIT or mast cell pathways
-- In vitro validation, such as mast cell proliferation or KIT D816V signalling assays
-- Package insert safety information (warnings, contraindications), which is required before any safety screening
-- Approved indication text for the two NDAs, to confirm the original indication
+- Mechanism of action data for tafenoquine, and an analysis of any plausible link to mast cell biology
+- Preclinical validation (in vitro mast cell assays, KIT D816V models)
+- FDA package insert warnings and contraindications for a formal safety screening
+- A literature and trial search specific to tafenoquine and mastocytosis
+- Clarification of the regulatory and commercial status of the cancelled NDAs
+- Review of the major drug interactions for relevance to the target patient population
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

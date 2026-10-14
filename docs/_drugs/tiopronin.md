@@ -33,77 +33,74 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Tiopronin is a thiol drug that binds cystine in the urine, and its established use is cystinuria (a kidney cystine-transporter defect). The TxGNN model predicts it may be effective for **Renal Tubular Acidosis** with a very high score, but **0 clinical trials** and **0 publications** support this direction. The prediction is likely a network-proximity artifact.
-
----
+Tiopronin is a thiol compound originally used for cystinuria (and listed with related inherited metabolic conditions in the knowledge graph).
+The TxGNN model predicts it may be effective for **Renal Tubular Acidosis**,
+but there are currently **0 clinical trials** and **0 publications** supporting this prediction, so it is a computational prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Cystinuria (not stated in the US license records; the approved indication text is empty) |
+| Original Indication | Cystinuria (the compiled US license records contain no indication text; the original indications come from the knowledge graph: cystinuria, glycogen storage disease, G6PD deficiency, galactosemia) |
 | Predicted New Indication | Renal tubular acidosis |
 | TxGNN Prediction Score | 99.63% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 15 authorizations in total (a mix of NDA and ANDA) |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 7 licenses in total (2 NDAs and 5 ANDAs), all cancelled |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the record. Tiopronin is a thiol that forms soluble mixed disulfides with cystine, which keeps cystine from crystallizing into stones. This is the basis of its established use in cystinuria.
+Detailed mechanism of action data is not currently available. Based on known chemistry, tiopronin is a thiol compound that forms soluble mixed disulfides with cysteine. This is the basis for its use in cystinuria, a renal tubular transport disorder.
 
-Renal tubular acidosis is a defect in how the kidney handles acid and bicarbonate. It is not a problem of cystine solubility. The two conditions both involve the kidney, but there is no clear mechanistic link. The high TxGNN score most likely reflects closeness in the knowledge graph rather than a real pharmacological rationale. No trials or literature were supplied to support the prediction.
+Renal tubular acidosis (RTA) also involves renal tubular dysfunction, so the model may be linking the two through a shared tubular-disease space. However, the thiol-exchange mechanism does not address the bicarbonate reabsorption or acid secretion defects that cause RTA. The high score (0.996) is a computational output only, with no supporting clinical or literature evidence, so the mechanistic link should be considered weak.
 
-The other nine top-ranked predictions have the same limitation. They include glycogen branching enzyme deficiency subtypes, tricarboxylic acid cycle disorder and pyruvate metabolism disorder, and none has a plausible mechanism for tiopronin.
-
----
+The other nine top predictions are mostly glycogen branching enzyme deficiency subtypes (including adult polyglucosan body disease), plus broad metabolic categories such as tricarboxylic acid cycle disorder, pyruvate metabolism disorder, and fatty acid oxidation disorders. These appear to be driven by proximity to "glycogen storage disease" and general inborn-error annotations in the knowledge graph. The "disease of transporter activity" prediction likely reflects the already established cystinuria association rather than a new indication. None has trial or literature support.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-Tiopronin is marketed in the US as oral delayed-release tablets. The record does not list an approved indication text for any of these authorizations. The table shows 5 distinct authorizations from the 15 on record.
-
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA216456 | Tiopronin | Tablet, delayed release | Teva Pharmaceuticals, Inc. |
-| ANDA217219 | Tiopronin | Tablet, delayed release | Endo USA, Inc. |
-| ANDA216990 | VENXXIVA | Tablet, delayed release | Cycle Pharmaceuticals Ltd. |
-| NDA211843 | Tiopronin | Tablet, delayed release | BioComp Pharma, Inc. |
+| NDA019569 | Thiola | Tablet, sugar coated | Not available (cancelled) |
+| NDA211843 | Tiopronin (BioComp Pharma) | Tablet, delayed release | Not available (cancelled) |
+| ANDA216990 | VENXXIVA | Tablet, delayed release | Not available (cancelled) |
+| ANDA216456 | Tiopronin (Teva Pharmaceuticals, Inc.) | Tablet, delayed release | Not available (cancelled) |
+| ANDA217219 | Tiopronin (Endo USA, Inc.) | Tablet, delayed release | Not available (cancelled) |
 
----
+Two further licenses are not shown: ANDA216278 (Amneal, delayed-release tablet) and ANDA214326 (Teva, sugar-coated tablet). All 7 licenses are cancelled.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+No label-based warnings or contraindications were available. The following comes from knowledge-graph drug-disease contraindication associations and is not label text:
 
----
+- **Kidney and urinary conditions:** kidney disease, pyoureter, nephrotic syndrome (including familial forms and lipoid nephrosis), proteinuria, anti-glomerular basement membrane disease, granulomatosis with polyangiitis
+- **Liver and gallbladder conditions:** liver disease, gallbladder disease
+- **Blood disorders:** thrombocytopenia, leukopenia, agranulocytosis, neutropenia (including cyclic and congenital forms), aplastic anemia
+- **Neuromuscular conditions:** myasthenia gravis, neuromuscular junction disease
+
+No drug interaction data were found. Please refer to the package insert for the full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the model score. There are no clinical trials or literature, and the mechanism does not connect a cystine-binding thiol to an acid-base transport defect.
+The prediction rests only on a computational score. There are no clinical trials or publications, the proposed mechanism does not match the pathophysiology of renal tubular acidosis, and the drug currently has no valid US licenses. The knowledge-graph contraindications (renal, hepatic, hematologic) are also a concern for patients with tubular or metabolic disease.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, which block any safety screening
-- Detailed mechanism of action data (MOA) from DrugBank
-- A literature and trial search specific to tiopronin in renal tubular acidosis
-- A mechanistic hypothesis that explains the link, if the search finds any signal
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism of action data
+- A literature and trial search for tiopronin in renal tubular acidosis, with preclinical evidence of a plausible mechanism
+- Clarification of why all US licenses are cancelled, and confirmation of current availability
+- Route and dosage-form compatibility assessment for the proposed indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

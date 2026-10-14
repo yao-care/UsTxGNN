@@ -29,87 +29,87 @@ Evidence Level: **L4** | Predicted Indications: **3**
 
 </div>
 
-# Abacavir: From HIV-1 Infection to Simian Immunodeficiency Virus Infection
+# Abacavir: From HIV Infection to Simian Immunodeficiency Virus Infection
 
 ## One-Sentence Summary
 
-Abacavir is a nucleoside reverse transcriptase inhibitor (NRTI) used in human HIV-1 therapy. The TxGNN model predicts it may be effective against **simian immunodeficiency virus (SIV) infection**, but the only supporting evidence is **1 in vitro publication** and **0 clinical trials**. SIV is a non-human primate infection, so this prediction is mainly relevant to HIV research models rather than human treatment.
-
----
+Abacavir is a nucleoside reverse transcriptase inhibitor originally used to treat HIV infection and AIDS.
+The TxGNN model predicts it may be effective for **simian immunodeficiency virus infection**, an animal-model disease.
+Currently there are **0 clinical trials** and **1 publication** (an in vitro susceptibility study) supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | HIV-1 infection (inferred from the abacavir/lamivudine HIV-1 trials in the evidence pack; the US license records carry no indication text) |
+| Original Indication | HIV infectious disease; AIDS |
 | Predicted New Indication | Simian immunodeficiency virus infection |
 | TxGNN Prediction Score | 99.79% |
 | Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 15 (the sampled listings are ANDA generics) |
+| US Market Status | Cancelled only (all licenses cancelled) |
+| Number of NDAs | 7 (1 NDA and 6 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, abacavir is an NRTI, and its efficacy in HIV-1 is well established. SIV is a lentivirus whose reverse transcriptase is closely related to that of HIV, so NRTI activity against it is mechanistically plausible.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, abacavir is a carbocyclic guanosine nucleoside reverse transcriptase inhibitor (NRTI). Its efficacy in HIV infection is established, and mechanistically it may be applicable to related lentiviruses.
 
-The prediction most likely reflects the close biological similarity between HIV and SIV rather than a genuinely new therapeutic signal. The only supporting study is an in vitro comparison of antiviral susceptibility, and it does not show clinical benefit. Because SIV infects non-human primates, it is mainly useful as an animal model for HIV research, not as a human repurposing target.
+Simian immunodeficiency virus (SIV) is a lentivirus closely related to HIV, and its reverse transcriptase can be inhibited by NRTIs. An in vitro study (PMID 15040537) tested the susceptibility of HIV-2, SIV and SHIV to anti-HIV-1 compounds, which provides indirect mechanistic support.
 
-The same model run also returned two other predictions. Feline acquired immunodeficiency syndrome (score 99.79%) is likewise an animal-model indication. The evidence for it consists of human HIV-1 trials and one preclinical FIV study, so it is indirect evidence at best. A rare neurodevelopmental disorder (score 99.78%) has no trials or literature and no evident mechanistic link to an NRTI, so it may be a knowledge-graph artifact.
+However, SIV infection is a disease of non-human primates and has no human clinical development path. It overlaps with the existing HIV indication rather than representing a genuinely new use for patients. Its value for repurposing is therefore limited.
 
----
+Two other predictions were also generated:
+- **Feline acquired immunodeficiency syndrome (FIV):** Score 99.79%. One animal study (PMID 11684314) tested zidovudine, lamivudine and abacavir in combination. It is indirect, veterinary evidence only, and abacavir's own contribution cannot be isolated. Evidence level L4, decision Hold.
+- **Neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter:** Score 99.78%. This is a model prediction only, with no trials or literature, and no plausible pathway linking an NRTI to this rare disorder is supported. Evidence level L5, decision Hold.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [15040537](https://pubmed.ncbi.nlm.nih.gov/15040537/) | 2004 | In vitro susceptibility study | Antiviral Therapy | Tested 16 approved anti-HIV drugs and the experimental compound AMD3100 against HIV-2, SIV (mac251, B670) and SHIV strains. The goal was to inform treatment and post-exposure prophylaxis. The available abstract is truncated, so the abacavir-specific result is not confirmed. |
+| [15040537](https://pubmed.ncbi.nlm.nih.gov/15040537/) | 2004 | In vitro susceptibility study | Antiviral Therapy | Tested 16 approved drugs and one experimental drug (AMD3100) against HIV-2, SIV and SHIV strains to guide treatment and post-exposure prophylaxis |
 
----
+Related literature for the feline prediction:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [11684314](https://pubmed.ncbi.nlm.nih.gov/11684314/) | 2002 | Animal study (combination therapy) | Antiviral Research | Zidovudine, lamivudine and abacavir combination suppressed FIV replication in vitro; FIV in cats is a model for HIV |
 
 ## US Market Information
 
-The source records contain no approved-indication text, so that column is omitted. Only 5 of the 15 licenses were supplied. Several generic ANDA applications are held by multiple labelers.
-
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA091560 | Abacavir | Tablet | Coupler LLC |
-| ANDA091294 | Abacavir Sulfate | Tablet, film coated | Mylan Pharmaceuticals Inc. |
-| ANDA077844 | Abacavir | Tablet, film coated | Aurobindo Pharma Limited |
-| ANDA091560 | Abacavir | Tablet | XLCare Pharmaceuticals Inc. |
-| ANDA091560 | Abacavir | Tablet | AvPAK |
+| NDA020978 | ZIAGEN (ViiV Healthcare) | Solution | Not listed (cancelled) |
+| ANDA091294 | Abacavir Sulfate (Mylan) | Tablet, film coated | Not listed (cancelled) |
+| ANDA077844 | Abacavir (Aurobindo) | Tablet, film coated | Not listed (cancelled) |
+| ANDA078119 | Abacavir (Cipla USA) | Tablet, film coated | Not listed (cancelled) |
+| ANDA091560 | Abacavir (Coupler) | Tablet | Not listed (cancelled) |
 
-Available dosage forms include oral tablets, film-coated tablets and a solution.
-
----
+All 7 licenses are cancelled; none is currently valid. Two further cancelled solution ANDAs (Camber ANDA201107, Rising ANDA077950) are not shown.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Disease associations flagged in the knowledge graph (not label text):** liver failure, liver disease, fatty liver disease, non-alcoholic steatohepatitis, kidney disease, pancreatitis, gallbladder disease, lactic acidosis, neutropenia, agranulocytosis, anemia (including macrocytic anemia), hypertriglyceridemia, obesity disorder, myopathy, myositis, dermatomyositis, and other muscle disorders.
+- **Drug Interactions:** 93 interactions are recorded. Those with a rated level are **Moderate** with naltrexone and orlistat. Others (for example metformin, morphine, omeprazole, pantoprazole, prednisone, vancomycin and amphotericin B) have no rated severity.
+- **Known class concern:** HLA-B*57:01-associated hypersensitivity reactions are a well-known toxicity of abacavir and should be considered in any future evaluation.
 
----
+Package insert warnings and contraindications were not available for this report. Please refer to the package insert for authoritative safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The only evidence is one 2004 in vitro susceptibility study (L4), and no clinical trials exist for this indication. SIV is a non-human primate infection with little relevance as a human repurposing target. The high TxGNN score most likely reflects the HIV/SIV similarity, not a new therapeutic opportunity.
+The only support for the top prediction is a single in vitro study. There are no clinical trials, and SIV is an animal-model disease with no human development path. All US licenses are cancelled, and the prediction largely overlaps with abacavir's existing HIV indication.
 
 **To proceed, the following is needed:**
-- The full text of PMID 15040537, to confirm the abacavir-specific susceptibility data
-- A decision on whether an animal-model use (SIV/SHIV research) counts as in scope, since no human indication is being pursued
-- Package insert warnings and contraindications, because safety data is missing and blocks safety screening
-- Detailed mechanism of action data (MOA) from DrugBank
-- A check of the underlying knowledge-graph path for the neurodevelopmental disorder prediction, to rule out an artifact
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- A clear human-relevant indication, since the current top predictions are animal-model diseases or have no mechanistic link
+- Independent target and pathophysiology review for the neurodevelopmental disorder prediction
+- Clarification of the US regulatory status, given that all licenses are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

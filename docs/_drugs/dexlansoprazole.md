@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Dexlansoprazole
-parent: Moderate Evidence (L3-L4)
+parent: High Evidence (L1-L2)
 nav_order: 593
-evidence_level: L4
+evidence_level: L1
 indication_count: 10
 ---
 
 # Dexlansoprazole
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,106 +29,97 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Dexlansoprazole: From Erosive Esophagitis and GERD to Active Peptic Ulcer Disease
+# Dexlansoprazole: From Peptic Ulcer Disease and GERD to Active Peptic Ulcer Disease
 
 ## One-Sentence Summary
 
-Dexlansoprazole is a proton pump inhibitor (the R-enantiomer of lansoprazole) whose marketed indications are erosive esophagitis and non-erosive GERD.
-The TxGNN model predicts it may be effective for **active peptic ulcer disease**. The evidence is thin: **20 clinical trials** and **4 publications** were retrieved, but none is a confirmed dexlansoprazole-specific ulcer efficacy study. Most of the support comes from other proton pump inhibitors, mainly lansoprazole.
-
----
+Dexlansoprazole is a proton pump inhibitor (PPI) originally used for peptic ulcer disease, gastroesophageal reflux disease (GERD) and esophagitis.
+The TxGNN model predicts it may be effective for **active peptic ulcer disease**, which sits very close to its existing indications.
+Currently **2 completed Phase 3 trials** (in erosive esophagitis, so indirect evidence for this indication) and **3 publications** support this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Erosive esophagitis and non-erosive GERD (taken from the pipeline's mechanistic notes; the license records contain no indication text) |
+| Original Indication | Peptic ulcer disease; gastroesophageal reflux disease; esophagitis (from the knowledge graph; no approved-indication text is available in the US license records) |
 | Predicted New Indication | Active peptic ulcer disease |
-| TxGNN Prediction Score | 99.999% |
-| Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
-| Recommended Decision | Hold |
-
----
+| TxGNN Prediction Score | 99.99% |
+| Evidence Level | L1 (based on the data compiled for this report; the Phase 3 trials enrolled erosive esophagitis patients, so applicability to ulcer healing is indirect) |
+| US Market Status | Cancelled only (all 4 authorizations are cancelled) |
+| Number of NDAs | 4 (1 NDA and 3 ANDAs, all cancelled) |
+| Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
 
-Dexlansoprazole irreversibly inhibits the gastric H+/K+ ATPase (the proton pump). This is the same mechanism that underlies ulcer healing across the PPI class, so the mechanistic link to peptic ulcer is strong.
+Detailed mechanism of action data is not available in the data compiled for this report. However, dexlansoprazole belongs to the well-established proton pump inhibitor class. These drugs irreversibly block the H+/K+ ATPase in gastric parietal cells and suppress gastric acid secretion. Raising gastric pH allows ulcerated mucosa to heal.
 
-The original indications (erosive esophagitis, non-erosive GERD) and peptic ulcer are both acid-related upper gastrointestinal diseases. Lansoprazole, the parent racemate, and other PPIs have well-established ulcer efficacy. Dexlansoprazole is not itself marketed for ulcer.
+Active peptic ulcer disease is already one of the drug's original indications in the knowledge graph. This prediction is therefore effectively an on-label or near-label indication rather than true repurposing. The high TxGNN score mainly reflects this close relationship.
 
-The very high TxGNN score most likely reflects class-level proximity in the knowledge graph rather than dexlansoprazole-specific ulcer data. The supplied data contain no confirmed dexlansoprazole ulcer trial. A detailed mechanism-of-action record is also not available in the source data.
-
----
+An important caveat: the large Phase 3 trials of dexlansoprazole enrolled patients with erosive esophagitis, not ulcer patients. They support acid-suppression efficacy and safety, but they are indirect evidence for ulcer healing specifically.
 
 ## Clinical Trial Evidence
 
-Of the 20 trials retrieved, only three studied dexlansoprazole itself, and all three were in erosive esophagitis or pharmacokinetics. The others test different drugs (often with lansoprazole as comparator) or are unrelated to a PPI.
-
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT05448001](https://clinicaltrials.gov/study/NCT05448001) | Phase 3 | Completed | 329 | JP-1366 vs active control in gastric ulcer. Dexlansoprazole involvement is unverified. |
-| [NCT05813561](https://clinicaltrials.gov/study/NCT05813561) | Phase 3 | Completed | 332 | DWP14012 vs esomeprazole in reflux esophagitis. Dexlansoprazole involvement is unverified. |
-| [NCT04840550](https://clinicaltrials.gov/study/NCT04840550) | Phase 3 | Unknown | 390 | Tegoprazan vs lansoprazole 15 mg for preventing NSAID-related ulcers. Lansoprazole is only the comparator. |
-| [NCT00251719](https://clinicaltrials.gov/study/NCT00251719) | Phase 3 | Completed | 2054 | Dexlansoprazole MR (60/90 mg) vs lansoprazole 30 mg in healing erosive esophagitis. Same drug, different disease. |
-| [NCT00251693](https://clinicaltrials.gov/study/NCT00251693) | Phase 3 | Completed | 2038 | Replicate dexlansoprazole MR vs lansoprazole trial in erosive esophagitis. Supports safety, not ulcer efficacy. |
-| [NCT03675672](https://clinicaltrials.gov/study/NCT03675672) | Phase 4 | Recruiting | 154 | Misoprostol plus lansoprazole vs lansoprazole alone for recurrent idiopathic ulcer bleeding. The study drug is lansoprazole. |
-| [NCT05010954](https://clinicaltrials.gov/study/NCT05010954) | Phase 3 | Completed | 400 | LXI-15028 vs lansoprazole 30 mg in duodenal ulcer over up to 6 weeks. Lansoprazole is the comparator. |
-| [NCT02761512](https://clinicaltrials.gov/study/NCT02761512) | Phase 3 | Completed | 306 | CJ-12420 vs lansoprazole 30 mg in gastric ulcer. Lansoprazole is the comparator. |
-| [NCT04784910](https://clinicaltrials.gov/study/NCT04784910) | Phase 3 | Completed | 423 | DWP14012 vs lansoprazole 15 mg for preventing NSAID-induced peptic ulcer. Lansoprazole is the comparator. |
-| [NCT00942175](https://clinicaltrials.gov/study/NCT00942175) | Phase 1 | Completed | 160 | Effect of dexlansoprazole, lansoprazole, omeprazole and esomeprazole on clopidogrel pharmacokinetics. Drug-interaction data only. |
-
----
+| [NCT00251719](https://clinicaltrials.gov/study/NCT00251719) | Phase 3 | Completed | 2054 | Dexlansoprazole MR 60/90 mg vs lansoprazole 30 mg for 8-week healing of erosive esophagitis (indirect for ulcer) |
+| [NCT00251693](https://clinicaltrials.gov/study/NCT00251693) | Phase 3 | Completed | 2038 | Companion trial to NCT00251719 with the same design and population |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [38345252](https://pubmed.ncbi.nlm.nih.gov/38345252/) | 2024 | Systematic review / network meta-analysis | Am J Gastroenterol | Compares P-CAB and PPI efficacy and safety for healing severe (LA grade C/D) esophagitis. This is esophagitis, not ulcer. |
-| [41809210](https://pubmed.ncbi.nlm.nih.gov/41809210/) | 2026 | Expert consensus | World J Gastrointest Pharmacol Ther | Indian consensus on managing acid-peptic disorders (GERD, peptic ulcer, functional dyspepsia). Warns about prolonged unsupervised acid-suppressant use. |
-| [18821474](https://pubmed.ncbi.nlm.nih.gov/18821474/) | 2008 | Review | Curr Opin Investig Drugs | Development overview of dexlansoprazole modified release for reflux esophagitis. |
-| [36150104](https://pubmed.ncbi.nlm.nih.gov/36150104/) | 2022 | Preclinical / mechanistic | J Chin Med Assoc | Studies vacuolar ATPase suppression and ER stress by PPIs, including dexlansoprazole, in relation to gastric cancer risk. |
-
----
+| [38345252](https://pubmed.ncbi.nlm.nih.gov/38345252/) | 2024 | Systematic review / network meta-analysis | Am J Gastroenterol | Compares P-CAB vs PPI for healing Los Angeles grade C/D esophagitis (indirect) |
+| [18821474](https://pubmed.ncbi.nlm.nih.gov/18821474/) | 2008 | Review | Curr Opin Investig Drugs | Development overview of dexlansoprazole, a modified-release enantiomer of lansoprazole, for reflux esophagitis |
+| [36150104](https://pubmed.ncbi.nlm.nih.gov/36150104/) | 2022 | Preclinical / mechanistic | J Chin Med Assoc | Studies how PPIs, including dexlansoprazole, suppress vacuolar-type ATPase and induce endoplasmic reticulum stress, in the context of long-term PPI use and gastric cancer risk |
 
 ## US Market Information
 
-The source data list 20 authorizations. The five main ones are below. Indication text was not supplied for any of them.
-
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA022287 | Dexlansoprazole (A-S Medication Solutions) | Capsule, delayed release | Not provided in source data |
-| ANDA202294 | Dexlansoprazole (A-S Medication Solutions) | Capsule, delayed release | Not provided in source data |
-| ANDA202294 | Dexlansoprazole (Bryant Ranch Prepack) | Capsule, delayed release | Not provided in source data |
-| ANDA202294 | Dexlansoprazole (ENDO USA, Inc.) | Capsule, delayed release | Not provided in source data |
-| ANDA202666 | Dexlansoprazole (Upsher-Smith Laboratories, LLC) | Capsule, delayed release | Not provided in source data |
-
----
+| NDA022287 | Dexlansoprazole (A-S Medication Solutions) | Delayed-release capsule | Not available (cancelled) |
+| ANDA202294 | Dexlansoprazole (A-S Medication Solutions) | Delayed-release capsule | Not available (cancelled) |
+| ANDA202666 | Dexlansoprazole (Upsher-Smith Laboratories, LLC) | Delayed-release capsule | Not available (cancelled) |
+| ANDA219115 | Dexlansoprazole (Alembic Pharmaceuticals Inc.) | Delayed-release capsule | Not available (cancelled) |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug-interaction records were found in the source data.
+- **Knowledge-graph contraindication signals** (these come from a knowledge graph, not from label text): liver disease, gallbladder disease, osteoporosis, postmenopausal osteoporosis, bone fracture.
+- **Drug Interactions**: The interaction query found 100 potential interactions. Examples:
+  - **Major**: acalabrutinib, atazanavir
+  - **Moderate**: fosamprenavir, foscarnet, fostamatinib, furosemide, gefitinib, hydrochlorothiazide, amphotericin B, amikacin, amphetamine, ampicillin, bosutinib, bumetanide
+  - **Minor**: acetylsalicylic acid, axitinib, brivaracetam, cyanocobalamin
 
----
+  Several of these (for example atazanavir, acalabrutinib and gefitinib) are probably related to acid-dependent absorption, which should be confirmed against the label.
+
+Please refer to the package insert for the official warnings and contraindications, which were not available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Proceed with Guardrails**
 
 **Rationale:**
-The mechanism is credible, but no dexlansoprazole-specific ulcer efficacy trial is confirmed. The only dexlansoprazole ulcer-adjacent trial in the data was withdrawn with 0 participants. The remaining support is class-level evidence from lansoprazole and other PPIs, which does not by itself justify pursuing a new ulcer indication. The lower-ranked predictions (ranks 2–10) are weaker still, and several are likely knowledge-graph artifacts.
+Acid suppression is a well-established mechanism for ulcer healing, and this indication is already close to the drug's original uses. Two large completed Phase 3 trials support efficacy and safety of the drug. However, those trials enrolled erosive esophagitis patients, and all US authorizations are currently cancelled.
 
 **To proceed, the following is needed:**
-- Verify the drug and indication in the truncated-title trials (NCT05448001, NCT05813561, NCT04840550) to see whether dexlansoprazole is involved
-- Search for dexlansoprazole-specific ulcer healing or prevention trials, or run one
-- Package insert warnings and contraindications, which are currently missing and block safety screening
-- Detailed mechanism-of-action data
-- Approved-indication text for the US licenses
+- Ulcer-specific efficacy data, for example results from the recruiting Phase 4 trial [NCT07344506](https://clinicaltrials.gov/study/NCT07344506) (n=942, comparing dexlansoprazole, lansoprazole and vonoprazan with H. pylori eradication therapy)
+- FDA package insert warnings and contraindications
+- Mechanism of action data confirmed from DrugBank
+- A review of the 100 known drug interactions, especially the Major ones
+- Clarification of the cancelled US market status and any re-licensing plan
 
 ---
 
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
+### Other Predicted Indications (Brief Notes)
+
+Other high-ranking predictions, summarized for reference:
+
+| Predicted Indication | Evidence Level | Recommendation | Note |
+|------|------|------|------|
+| Gastric ulcer | L1 | Proceed with Guardrails | Same indirect Phase 3 trials plus the recruiting Phase 4 trial NCT07344506 |
+| Duodenal ulcer | L1 | Proceed with Guardrails | Shared indirect Phase 3 evidence; no literature retrieved |
+| Gastrojejunal ulcer | L3 | Research Question | Only trial is a withdrawn Phase 4 absorption study (n=0); absorption after gastric bypass is unresolved |
+| Peptic ulcer perforation, gastroduodenitis, duodenal obstruction, duodenogastric reflux, leather-bottle stomach | L5 | Hold | Network-proximity predictions with no trials or literature |
+| Achlorhydria | L5 | Hold | Acid suppression is mechanistically contraindicated; the score likely reflects a graph artifact |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

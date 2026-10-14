@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Sucralfate
-parent: Model Prediction Only (L5)
+parent: High Evidence (L1-L2)
 nav_order: 1184
-evidence_level: L5
+evidence_level: L2
 indication_count: 2
 ---
 
 # Sucralfate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **2** 
+Evidence Level: **L2** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,83 +33,85 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 ## One-Sentence Summary
 
-Sucralfate is an oral mucosal-protective agent, generally used for duodenal ulcer. The TxGNN model predicts it may be effective for **duodenogastric reflux** (bile reflux into the stomach), but **0 clinical trials** and **0 publications** currently support this direction, so the prediction is model-only.
-
----
+Sucralfate is a mucosal-protective drug, originally used to treat duodenal ulcer.
+The TxGNN model predicts it may be effective for **Duodenogastric Reflux**,
+with **no registered clinical trials** but **10 publications** (including 2 randomized controlled trials in alkaline reflux gastritis) supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Duodenal ulcer (general labeling knowledge; the supplied US license records contain no indication text) |
+| Original Indication | Duodenal ulcer |
 | Predicted New Indication | Duodenogastric reflux |
 | TxGNN Prediction Score | 99.37% |
-| Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 licenses (NDA and ANDA combined) |
+| Evidence Level | L2 |
+| US Market Status | Cancelled only (all licenses cancelled) |
+| Number of NDAs | 9 (NDA and ANDA authorizations) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the supplied record. Based on general pharmacology, sucralfate is a non-absorbed aluminum-containing complex that forms a protective barrier over injured mucosa. It is also reported to bind bile acids and pepsin. Its use in ulcer disease is well established.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, sucralfate forms a protective, adherent barrier over damaged gastric and esophageal mucosa and binds bile acids and pepsin.
 
-Duodenogastric reflux exposes the gastric mucosa to bile and other duodenal contents. A barrier-forming agent that binds bile acids could plausibly protect the stomach lining in this setting. This is a hypothesis only. It rests on general pharmacology, not on the supplied data, and no trial or publication evidence has been retrieved to confirm it.
+In duodenogastric (bile) reflux, the stomach lining is injured by refluxed bile salts and pancreatic secretions. A drug that shields the mucosa and adsorbs bile acids could plausibly address this injury. This fits with sucralfate's established use in duodenal ulcer, peptic ulcer disease and gastritis, where mucosal protection is also the main therapeutic principle.
 
-The model also predicted a second indication, **duodenal obstruction** (score 99.30%), but it is much weaker. A mucosal protectant has no clear mechanism for relieving a mechanical or functional obstruction. The prediction may simply reflect graph proximity to duodenal ulcer, which can cause stricture. Bezoar formation has also been reported with sucralfate, so use in obstruction could carry a safety concern. This report does not recommend pursuing it without further verification.
-
----
+The very high TxGNN score is backed by published literature, including randomized comparisons in alkaline reflux gastritis. However, these studies are small and old, and no registered clinical trials were found.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-Currently no related literature available.
-
----
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [3839973](https://pubmed.ncbi.nlm.nih.gov/3839973/) | 1985 | RCT | Am J Med | Sucralfate (6 g/day) vs placebo for 6 weeks in 23 patients with alkaline reflux gastritis symptoms after gastric surgery, followed by open-label sucralfate |
+| [12923369](https://pubmed.ncbi.nlm.nih.gov/12923369/) | 2003 | RCT | Eur J Gastroenterol Hepatol | Sucralfate vs rabeprazole vs no treatment for post-cholecystectomy alkaline reactive gastritis, assessing dyspeptic symptoms and endoscopic/histological signs |
+| [1391144](https://pubmed.ncbi.nlm.nih.gov/1391144/) | 1992 | Clinical study | Minerva Gastroenterol Dietol | Cisapride (30 mg/day) vs sucralfate (4 g/day) for 2 months in 18 patients with dyspepsia from duodenogastric reflux gastritis |
+| [3616071](https://pubmed.ncbi.nlm.nih.gov/3616071/) | 1987 | Case series | Rev Esp Enferm Apar Dig | 50 cases of gastritis from post-surgical biliary reflux treated with sucralfate |
+| [3475771](https://pubmed.ncbi.nlm.nih.gov/3475771/) | 1987 | Randomized trial (reported as review) | Scand J Gastroenterol Suppl | Six-month sucralfate vs placebo trial in gastritis, contrasting gastroesophageal and duodenogastric reflux |
+| [3838414](https://pubmed.ncbi.nlm.nih.gov/3838414/) | 1985 | Committee review | Am J Gastroenterol | Sucralfate shows cytoprotective effects; use in gastritis and esophagitis is promising but not yet established |
+| [14723838](https://pubmed.ncbi.nlm.nih.gov/14723838/) | 2004 | Review | Curr Treat Options Gastroenterol | Duodenogastric reflux-induced esophagitis; proton-pump inhibitors are the best medical treatment, and management can be difficult |
+| [6372664](https://pubmed.ncbi.nlm.nih.gov/6372664/) | 1984 | Review | Annu Rev Med | Overview of alkaline reflux gastritis and esophagitis, including causes, diagnosis and pathophysiology |
+| [12836018](https://pubmed.ncbi.nlm.nih.gov/12836018/) | 2003 | Clinical study | Eur J Pediatr | Primary duodenogastric reflux in 6 children and adolescents (indirect; not a sucralfate study) |
+| [10228771](https://pubmed.ncbi.nlm.nih.gov/10228771/) | 1999 | Surgical series | Hepatogastroenterology | Duodenal switch operation for pathologic duodenogastric reflux (indirect; not a sucralfate study) |
 
 ## US Market Information
 
-Showing 5 of 20 authorizations. The supplied records contain no approved-indication text.
-
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA018333 | Sucralfate (Bryant Ranch Prepack) | Tablet | — |
-| NDA019183 | Carafate (Allergan, Inc.) | Suspension | — |
-| ANDA216726 | Sucralfate (Torrent Pharmaceuticals Limited) | Suspension | — |
-| ANDA074415 | Sucralfate (Bryant Ranch Prepack) | Tablet | — |
-| ANDA215705 | Sucralfate (Zydus Lifesciences Limited) | Tablet | — |
+| NDA018333 | Sucralfate (Bryant Ranch Prepack) | Tablet | Not available (cancelled) |
+| NDA019183 | Carafate (Allergan) | Suspension | Not available (cancelled) |
+| ANDA074415 | Sucralfate (Bryant Ranch Prepack) | Tablet | Not available (cancelled) |
+| ANDA215705 | Sucralfate (Zydus Lifesciences) | Tablet | Not available (cancelled) |
+| ANDA070848 | Sucralfate (Cardinal Health 107) | Tablet | Not available (cancelled) |
 
-Available forms are oral tablets and suspension.
-
----
+All 9 authorizations are currently listed as cancelled; only the first 5 are shown.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Disease-related cautions (from the knowledge graph, not label text)**: Sucralfate is linked to contraindication or caution in hyperglycemia, chronic kidney disease, chronic renal failure syndrome and end-stage renal failure.
+- **Drug Interactions**: 100 interactions were found. Major ones include:
+  - Dolutegravir (Major)
+  - Bictegravir (Major)
+- Moderate interactions include tetracycline, doxycycline, bisphosphonates (alendronic acid, risedronic acid, ibandronate), and the diabetes drugs acarbose, albiglutide, alogliptin and pioglitazone. Many of these likely reflect sucralfate binding other drugs in the gut and reducing their absorption.
+- Minor interactions include several beta-blockers (acebutolol, atenolol, betaxolol, bisoprolol) and anagrelide.
 
-The drug-interaction query returned no results for this drug.
-
----
+Please refer to the package insert for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting trials or publications (evidence level L5), and the mechanism of action and package-insert safety data are both missing. The bile-binding rationale for duodenogastric reflux is plausible but unverified. The duodenal obstruction prediction has no clear mechanism and a possible safety concern.
+Two small, older randomized trials in alkaline reflux gastritis support the idea, and the mechanism is plausible. However, there are no registered clinical trials, the evidence is dated, and all US licenses are currently cancelled. Package insert safety data were also not available, so safety screening cannot yet proceed.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data, for example from DrugBank
-- Systematic searches of ClinicalTrials.gov, ICTRP, and PubMed for sucralfate in bile reflux or duodenogastric reflux
-- Route and formulation compatibility assessment for the predicted indication
-- Approved-indication text for the US licenses, to confirm the original indication
+- Confirmed mechanism of action data from DrugBank
+- A critical appraisal of the two randomized trials, followed by a modern, adequately powered trial in duodenogastric reflux
+- A plan for managing absorption-related drug interactions (such as dose separation) and for patients with renal impairment or diabetes
+- Clarification of the regulatory and marketing status in the US, since all licenses are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

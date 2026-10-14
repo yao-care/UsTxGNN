@@ -33,27 +33,29 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 ## One-Sentence Summary
 
-Amifampridine is marketed in the US as Firdapse tablets. The Evidence Pack contains no approved indication text, but the drug is generally known for Lambert-Eaton myasthenic syndrome. The TxGNN model predicts it may be effective for **glaucoma**, but there are currently **0 clinical trials** and **0 publications** supporting this direction, so it remains a model prediction only.
+Amifampridine (3,4-diaminopyridine) was originally used to treat Lambert-Eaton myasthenic syndrome (LEMS).
+The TxGNN model predicts it may be effective for **glaucoma**,
+but currently there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on computation alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the Evidence Pack (approved indication text is empty; Lambert-Eaton myasthenic syndrome is from general knowledge, not verified against the pack) |
+| Original Indication | Lambert-Eaton myasthenic syndrome |
 | Predicted New Indication | Glaucoma |
 | TxGNN Prediction Score | 99.71% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
+| US Market Status | Cancelled only |
 | Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Amifampridine is generally described as a voltage-gated potassium channel blocker. It prolongs presynaptic depolarization and increases acetylcholine release, which improves neuromuscular transmission.
+Detailed mechanism of action data is not currently available in the data compiled for this report. Based on known pharmacology, amifampridine is a voltage-gated potassium channel blocker. It prolongs presynaptic depolarization, which increases calcium influx and acetylcholine release at the neuromuscular junction. This is how it relieves muscle weakness in LEMS.
 
-That mechanism has no established link to intraocular pressure control or to protecting retinal ganglion cells, the main therapeutic goals in glaucoma. Any connection would be speculative. The high TxGNN score is a knowledge-graph output, not evidence, and the supplied data cannot verify the reasoning behind it.
+A possible link to glaucoma is modulation of potassium channel activity or neuronal excitability in retinal ganglion cells. This link is **speculative**. Potassium channel blockade could also affect ocular tissues in unpredictable ways, including intraocular pressure, so even the direction of any effect is unknown. The high TxGNN score is a computational output only and is not backed by trials or publications.
 
-A second prediction, acute intermittent porphyria (score 99.32%), is also prediction-only. Potassium channel blockade might at most act symptomatically on neuropathic weakness and would not address the underlying heme biosynthesis defect. Potassium channel blockers can also lower the seizure threshold, and seizures are a recognized complication of acute porphyric attacks. That would need specific safety review.
+A second prediction, **acute intermittent porphyria** (score 99.32%, also L5, Hold), was also generated. Amifampridine might theoretically ease the weakness of neurovisceral attacks, but it does not address the underlying heme biosynthesis defect. It also lowers the seizure threshold, which is a significant concern because seizures can occur during porphyric attacks and many anticonvulsants are restricted in this condition.
 
 ## Clinical Trial Evidence
 
@@ -67,29 +69,28 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA208078 | Firdapse (Catalyst Pharmaceuticals, Inc.) | Tablet (oral) | Not listed in source data |
+| NDA208078 (Cancelled) | Firdapse (Catalyst Pharmaceuticals, Inc.) | Tablet (oral) | Not listed in the data compiled for this report |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
-Amifampridine may lower the seizure threshold. This comes from the mechanism-based caution in the Evidence Pack's rationale for the porphyria prediction, not from label data.
+- **Drug Interactions**: 68 interactions were identified. The most clinically relevant listed are:
+  - **Major**: Bupropion
+  - **Moderate** (examples): corticosteroids (hydrocortisone, betamethasone, dexamethasone, prednisolone, prednisone); stimulants and anorectics (phentermine, diethylpropion, mazindol, sibutramine, fenfluramine, dexfenfluramine, ephedrine); opioids (morphine, opium); others (levofloxacin, metoclopramide, dronabinol, polyethylene glycol 3350 with electrolytes)
+- For key warnings and contraindications, please refer to the package insert.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The glaucoma prediction is supported only by the model score, with no trials, no literature, and no plausible established mechanistic link. Evidence is at L5, and the package insert safety data has not been obtained.
+The glaucoma prediction has a high model score but no clinical trials, no literature, and only a speculative mechanism (Evidence Level L5). The effect of potassium channel blockade on ocular tissue is unclear. The only US authorization on record is also cancelled.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data from DrugBank, and the approved indication text
-- A literature and preclinical search for potassium channel blockers in glaucoma or retinal ganglion cell neuroprotection
-- Route compatibility assessment (oral tablet versus the routes glaucoma treatment would require)
-- Specific seizure-risk review before any consideration of the porphyria prediction
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Package insert warnings and contraindications, which are required for safety screening
+- Detailed mechanism of action data
+- Preclinical evidence (for example, effects on retinal ganglion cell excitability and intraocular pressure)
+- Assessment of route compatibility, since the drug is currently available only as an oral tablet, and of similarity to the original indication
+- A seizure-risk assessment if the porphyria prediction is pursued
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

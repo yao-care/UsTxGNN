@@ -29,67 +29,90 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tyrosine: From No Documented Indication to Cauda Equina Syndrome
+# Tyrosine: From an Unspecified Original Indication to Cauda Equina Syndrome
 
 ## One-Sentence Summary
 
-Tyrosine is an amino acid supplement. The U.S. records list two liquid L-Tyrosine products, but neither has an approved indication on file.
-The TxGNN model predicts it may be effective for **cauda equina syndrome**, but **0 clinical trials** and only **1 publication** (an unrelated tumor case report) exist for this prediction, so it rests on model output alone.
+Tyrosine is an amino acid and a precursor of catecholamines and thyroid hormones. No approved indication is recorded for it in the data compiled for this report.
+The TxGNN model ranks **Cauda Equina Syndrome** as its top prediction, but this is a model signal only, with **0 clinical trials** and **0 publications** behind it.
+Across all ten predicted indications, only **1 clinical trial** (for hyperthyroidism, testing a multi-ingredient supplement) was found. The literature is mostly background reviews and does not test tyrosine as a treatment.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (no approved indication text on record) |
+| Original Indication | Not available (the only license on record has no approved indication text) |
 | Predicted New Indication | Cauda equina syndrome |
 | TxGNN Prediction Score | 99.77% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 2 |
+| US Market Status | Cancelled only (no active license) |
+| Number of NDAs | 1 (cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Tyrosine is known as a biochemical precursor of catecholamines (dopamine, norepinephrine) and melanin. No original indication is on record, so the usual comparison between the original and the new indication cannot be made.
+Currently, detailed mechanism of action data is not available. Tyrosine is known as a precursor of dopamine and norepinephrine (catecholamines) and as a building block of thyroid hormones, but no original indication is documented for it here.
 
-On the evidence provided, there is no credible mechanistic link between tyrosine and cauda equina syndrome. The high score (99.77%) comes from knowledge-graph similarity alone. The only retrieved paper is a case report of clear cell sarcoma arising from a sacral nerve root. Tyrosine appears in it only as melanin-pathway context, not as a treatment.
+For cauda equina syndrome, no mechanistic link has been established. It is a compressive injury to the lumbosacral nerve roots, and there is no plausible pathway from tyrosine to its treatment. The high score (99.77%) is a prediction-only signal with no clinical or literature support.
+
+Other predictions look no stronger on mechanism:
+- **Hyperthyroidism and hyperthyroxinemia:** Tyrosine is a substrate for thyroid hormone synthesis, so supplementation is biologically implausible as a treatment and could theoretically be counterproductive.
+- **Resistance to thyroid hormone (THRB mutation):** This is a receptor defect that a hormone precursor would not correct.
+- **Postural orthostatic tachycardia syndrome (POTS):** This is the most biologically coherent link, since catecholamines are relevant to autonomic dysregulation. Its only evidence is a case report on alpha-methyl-p-tyrosine, which inhibits tyrosine hydroxylase and acts opposite to tyrosine. It is therefore classed as a research question, not a supported indication.
+- **Neurogenic bladder (obsolete term):** Catecholamine signaling could in theory affect bladder autonomic control. The disease term is flagged as obsolete and should be mapped to a current term.
+- **Glaucoma types and aqueous misdirection:** No tyrosine-specific evidence and no evident connection to tyrosine metabolism.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+For the top-ranked indication (cauda equina syndrome), currently no related clinical trials are registered.
+
+The only trial found across the predicted indications relates to rank 4, hyperthyroidism:
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT06264544](https://clinicaltrials.gov/study/NCT06264544) | Not applicable | Not yet recruiting | 150 | Randomized, double-blind, placebo-controlled trial of a zinc, selenium and L-tyrosine supplement to prevent thyrotoxicosis in adults with elevated TPOAb and the SEPP1 r25191G/A polymorphism. It does not isolate tyrosine, so it gives no direct evidence for it. |
 
 ## Literature Evidence
 
+For the top-ranked indication (cauda equina syndrome), currently no related literature is available.
+
+Selected publications retrieved for lower-ranked predictions, none testing tyrosine as an intervention:
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [17341045](https://pubmed.ncbi.nlm.nih.gov/17341045/) | 2006 | Case report | Neurosurgical Focus | Clear cell sarcoma originating in the S1 nerve root, previously diagnosed as psammomatous melanotic schwannoma. Tyrosine was not tested as therapy, so the paper does not support the prediction. |
+| [39063020](https://pubmed.ncbi.nlm.nih.gov/39063020/) | 2024 | Case report | Int J Mol Sci | Chronic fatigue syndrome patient responded to alpha-methyl-p-tyrosine, a tyrosine hydroxylase inhibitor (POTS prediction). This is indirect, anecdotal, and opposite in mechanism to tyrosine. |
+| [42812246](https://pubmed.ncbi.nlm.nih.gov/42812246/) | 2026 | Cohort | Front Med | Plasma amino acid alterations in early primary angle-closure glaucoma. This is an association study, not a treatment test. |
+| [36848916](https://pubmed.ncbi.nlm.nih.gov/36848916/) | 2023 | Review | Lancet Diabetes Endocrinol | General review of hyperthyroidism causes, diagnosis and management. |
+| [30886364](https://pubmed.ncbi.nlm.nih.gov/30886364/) | 2019 | Review | Nat Rev Endocrinol | Role of thyroglobulin tyrosine iodination in thyroid hormone synthesis (mechanistic background). |
+| [10579356](https://pubmed.ncbi.nlm.nih.gov/10579356/) | 1999 | Preclinical | Endocrinology | Serine 314 mutations in the thyroid hormone beta receptor impair ligand binding (resistance to thyroid hormone). |
+| [19169471](https://pubmed.ncbi.nlm.nih.gov/19169471/) | 2008 | Case report | Arq Bras Endocrinol Metabol | E449X THRB mutation with autoimmune thyroid disease and neuropsychomotor involvement. |
+| [35087972](https://pubmed.ncbi.nlm.nih.gov/35087972/) | 2021 | Review | Rom J Ophthalmol | Review of neovascular glaucoma etiopathogenesis and treatment. No tyrosine evidence. |
+| [22568104](https://pubmed.ncbi.nlm.nih.gov/22568104/) | 2012 | Review | Nippon Ganka Gakkai Zasshi | Review of glaucoma care and angle-closure screening. |
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| Not listed | L-Tyrosine | Liquid | Not listed |
-| Not listed | L-Tyrosine High | Liquid | Not listed |
-
-Both products are made by Professional Complementary Health Formulas.
+| Not available | L-Tyrosine (Professional Complementary Health Formulas) | Liquid | Not specified (status: cancelled) |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug interaction records were found.
+Please refer to the package insert for safety information. No warnings, contraindications, or drug interaction records were found in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is model-only (L5). No trials exist, and the single paper is an unrelated tumor case report with no mechanistic link to tyrosine. The product records have no approved indication, and the package insert safety data is missing. The remaining top-ranked predictions are also on Hold, with no tyrosine-specific trial evidence.
+The top prediction, cauda equina syndrome, is supported only by the model score, with no trials, no literature, and no plausible mechanism. The same is true of the other predictions, and several (hyperthyroidism, hyperthyroxinemia, THRB resistance) run against known biology. The only drug license on record is cancelled. POTS is the sole prediction that merits follow-up, as a research question rather than a candidate for development.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data, for example from DrugBank
-- Authorization numbers and approved indication text for the two marketed products
-- Any preclinical or clinical study that tests tyrosine in cauda equina syndrome or related nerve-root conditions
-- Before any thyroid-related candidate is pursued, a review of whether supplying a thyroid hormone precursor could worsen the condition
+- Safety information from the package insert (warnings and contraindications), which is currently missing and blocks safety screening
+- Mechanism of action data from DrugBank
+- A documented original indication and active regulatory status
+- A mechanistic rationale for cauda equina syndrome, or a decision to deprioritize it
+- Mapping of the obsolete neurogenic bladder term to a current disease term
+- For POTS, direct evidence on tyrosine itself (preclinical or small clinical studies) before any further investment
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

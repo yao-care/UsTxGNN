@@ -29,90 +29,80 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Phenoxybenzamine: From an Alpha-Blocker (Original Indication Not Recorded) to Primary Hereditary Glaucoma
+# Phenoxybenzamine: From Pheochromocytoma to Primary Hereditary Glaucoma
 
 ## One-Sentence Summary
 
-Phenoxybenzamine is an oral capsule marketed in the US and generally described as an irreversible, non-selective alpha-adrenergic antagonist. The record has no approved indication text for it.
-The TxGNN model predicts it may be useful for **primary hereditary glaucoma** (and, as a second prediction, **open-angle glaucoma**).
-There are currently **0 clinical trials** and **0 publications** supporting this direction, so this is a model prediction only.
-
----
+Phenoxybenzamine is an irreversible, non-selective alpha-adrenergic blocker, originally used for pheochromocytoma and related adrenal and paraganglioma tumours.
+The TxGNN model predicts it may be effective for **Primary Hereditary Glaucoma** (and, as a second prediction, open-angle glaucoma),
+but **no clinical trials and no publications** currently support this direction, so the prediction rests on the model output alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded (all US license entries have empty indication text) |
+| Original Indication | Pheochromocytoma (adrenal gland pheochromocytoma), sympathetic paraganglioma and related tumours (from the knowledge graph; no approved indication text is available in the US license records) |
 | Predicted New Indication | Primary hereditary glaucoma |
 | TxGNN Prediction Score | 99.55% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 5 (all listed as ANDA generic applications) |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 3 (all ANDAs, all cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the input. Phenoxybenzamine is generally described as an irreversible, non-selective alpha-adrenergic antagonist. Adrenergic modulation could plausibly affect aqueous humor dynamics (production or outflow), which is the link the model may be exploiting. This mechanistic link has not been verified against retrieved evidence.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, phenoxybenzamine is an irreversible, non-selective alpha-adrenergic antagonist. Its use in pheochromocytoma is consistent with blocking catecholamine-driven vasoconstriction and hypertension.
 
-For **primary hereditary glaucoma**, the fit is unclear. This form is often driven by developmental or structural defects of the outflow pathway (for example, genes such as *CYP1B1* or *MYOC*), and alpha-blockade would not obviously correct such defects. The high graph score (99.55%) alone is not evidence of efficacy.
+In principle, alpha blockade could affect aqueous humor dynamics, for example through changes in ocular vascular tone or uveoscleral outflow. This gives a theoretical link to intraocular pressure regulation. Adrenergic modulation is a recognised route in glaucoma care: alpha-2 agonists such as brimonidine lower intraocular pressure.
 
-The second prediction, **open-angle glaucoma** (score 99.48%), is a more coherent hypothesis. Alpha-adrenergic antagonism could lower intraocular pressure through effects on aqueous production or outflow. It is still unverified. A targeted literature search on alpha-blocker effects on intraocular pressure is needed before either prediction advances.
-
----
+However, the link is weak and speculative:
+- Primary hereditary glaucoma (congenital and juvenile forms) is driven mainly by developmental or genetic defects of the trabecular meshwork and anterior chamber angle (for example, CYP1B1 or MYOC variants). Alpha blockade is not expected to correct these structural defects.
+- For open-angle glaucoma, the second prediction (score 99.48%), the direction of effect is not established. Systemic alpha blockade may lower ocular perfusion pressure, which could be unfavourable for the optic nerve.
+- Many established topical glaucoma therapies already exist, which limits the need for a systemic oral agent with significant side effects.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
-
----
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA212568 | Phenoxybenzamine hydrochloride (Amneal Pharmaceuticals NY LLC) | Capsule | Not provided |
-| ANDA215042 | Phenoxybenzamine Hydrochloride (Novitium Pharma LLC) | Capsule | Not provided |
-| ANDA215600 | Phenoxybenzamine Hydrochloride (Aurobindo Pharma Limited) | Capsule | Not provided |
-| ANDA215600 | Phenoxybenzamine Hydrochloride (Burel Pharmaceuticals, LLC) | Capsule | Not provided |
-| ANDA215600 | Phenoxybenzamine Hydrochloride (NorthStar Rx LLC) | Capsule | Not provided |
+| ANDA212568 | Phenoxybenzamine hydrochloride (Amneal Pharmaceuticals NY LLC) | Capsule | Not listed (license cancelled) |
+| ANDA215042 | Phenoxybenzamine Hydrochloride (Novitium Pharma LLC) | Capsule | Not listed (license cancelled) |
+| ANDA215600 | Phenoxybenzamine Hydrochloride (Aurobindo Pharma Limited) | Capsule | Not listed (license cancelled) |
 
-All marketed products are oral capsules. No ophthalmic formulation is listed.
-
----
+All three licenses are for single-ingredient oral capsules, and all are cancelled. Availability of the drug in the US is therefore limited.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug-interaction records were found for this drug.
+- **Contraindications flagged in the knowledge graph** (model-derived, not from label text): kidney disease, pyoureter, hypotensive disorder, coronary artery disease.
+- **Drug Interactions**: 32 interactions were identified, all of those listed at Moderate level (DDInter). Main examples include:
+  - Opioids and related agents: morphine, codeine, hydrocodone, opium
+  - SGLT2 inhibitors: canagliflozin, dapagliflozin, empagliflozin, ertugliflozin
+  - Prostacyclin-pathway drugs: epoprostenol, iloprost, selexipag, treprostinil
+  - Others: bupropion, dronabinol, nabilone, amifostine, promethazine, mepyramine, iobenguane (I-123), nitrous acid
+- **Expected class effects** (general pharmacology, not from the compiled data): orthostatic hypotension, reflex tachycardia and nasal congestion are typical of systemic alpha blockade.
 
-Systemic hypotension is a known class concern for alpha-blockers. It would need review before any ocular use, especially since only an oral systemic form is marketed.
-
----
+Official warnings and contraindications from the package insert were not available. Please refer to the package insert for complete safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on model score alone (Evidence Level L5). There are no supporting trials or publications, and the mechanistic fit is weak for hereditary glaucoma and only plausible for open-angle glaucoma. Package-insert safety data are also missing, which blocks safety screening.
+The prediction is supported only by the TxGNN model score, with no clinical trials or publications (Evidence Level L5). The mechanistic link is speculative, especially for a genetically driven condition such as primary hereditary glaucoma. In addition, all US licenses are cancelled and systemic alpha blockade carries safety concerns.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications from the FDA label (currently blocking)
-- Detailed mechanism of action data (for example, from DrugBank)
-- Targeted literature search on alpha-blocker effects on intraocular pressure and aqueous humor dynamics
-- Review of systemic hypotension risk for an eye indication
-- Assessment of route compatibility, since only an oral capsule is available and no ophthalmic formulation exists
-- Prioritizing open-angle glaucoma over hereditary glaucoma for any follow-up evaluation
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism-of-action data
+- Preclinical or literature evidence on the effect of phenoxybenzamine on intraocular pressure and aqueous humor dynamics
+- Assessment of ocular perfusion risk and a feasibility review of the route of administration (for example, a topical ophthalmic formulation versus systemic oral use)
+- Clarification of drug supply, given that the US market status is cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

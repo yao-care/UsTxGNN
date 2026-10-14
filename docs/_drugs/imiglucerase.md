@@ -33,88 +33,70 @@ Evidence Level: **L4** | Predicted Indications: **5**
 
 ## One-Sentence Summary
 
-Imiglucerase is a recombinant glucocerebrosidase enzyme replacement therapy, marketed in the US as Cerezyme and used for Gaucher disease.
-The TxGNN model predicts it may be effective for **Hurler syndrome (MPS I)**, but **no clinical trials** and only **2 general enzyme replacement therapy (ERT) publications** exist, so the prediction has no direct clinical support.
-
----
+Imiglucerase is a recombinant enzyme replacement therapy, originally used to treat Gaucher disease.
+The TxGNN model predicts it may be effective for **Hurler syndrome**,
+but there are currently **0 clinical trials** and only **1 general review article** (class-level context, no drug-specific data) supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Gaucher disease (from known Cerezyme labeling; the approved indication text was empty in the Evidence Pack) |
+| Original Indication | Gaucher disease |
 | Predicted New Indication | Hurler syndrome |
 | TxGNN Prediction Score | 99.52% |
 | Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 1 (BLA020367) |
+| US Market Status | Cancelled only (no currently valid license) |
+| Number of NDAs | 1 (BLA020367, cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available. Imiglucerase is a recombinant form of glucocerebrosidase. It is taken up by macrophages through the mannose receptor and breaks down glucosylceramide, which accumulates in Gaucher disease.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, imiglucerase is a recombinant glucocerebrosidase (beta-glucosidase) that hydrolyzes glucosylceramide, and its efficacy in Gaucher disease is established.
 
-Hurler syndrome (MPS I) is a different disease. It is caused by alpha-L-iduronidase deficiency, which leads to accumulation of glycosaminoglycans (GAGs). Imiglucerase does not act on GAGs, so it has no plausible direct catalytic effect. The only link is the shared class of lysosomal storage disease treated by ERT, which most likely drives the high TxGNN score.
+Hurler syndrome (MPS I) is caused by alpha-L-iduronidase deficiency, which leads to accumulation of glycosaminoglycans (dermatan and heparan sulfate). Both Gaucher disease and Hurler syndrome are lysosomal storage disorders, and both are treated with the enzyme replacement therapy concept. However, the enzyme substrates are different, so imiglucerase would not be expected to correct the MPS I defect. The high TxGNN score most likely reflects network proximity within the lysosomal storage disease class rather than a direct mechanistic effect. A disease-specific approved therapy (laronidase) already exists.
 
-The other predictions in this pack are weaker or equally indirect:
-- **Scheie syndrome** is the attenuated form of MPS I, so the same reasoning applies.
-- **Cholesteryl ester storage disease** involves a different enzyme (lysosomal acid lipase), and a disease-specific ERT (sebelipase alfa) already exists.
-- **Benign neoplasm of adrenal gland** has no apparent mechanistic rationale and looks like a knowledge-graph artifact.
-- **Autosomal ichthyosis syndrome with fatal disease course** has only a speculative link through skin ceramide abnormalities in severe glucocerebrosidase deficiency. Imiglucerase does not cross the blood-brain barrier or address non-Gaucher ichthyosis genetics.
-
----
+The same reasoning applies to the second-ranked prediction, Scheie syndrome (an attenuated form of MPS I). Other lower-ranked predictions are discussed in the conclusion.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [21211680](https://pubmed.ncbi.nlm.nih.gov/21211680/) | 2010 | Review | La Revue de medecine interne | Overview of ERT for lysosomal storage diseases. It traces the path from placenta-derived alglucerase to recombinant imiglucerase (Cerezyme) in Gaucher disease. This is indirect evidence, with no Hurler-specific imiglucerase data. |
-| [20534487](https://pubmed.ncbi.nlm.nih.gov/20534487/) | 2010 | Other (imaging/ERT overview) | Proc Natl Acad Sci U S A | PET imaging of ERT. It notes that ERT is effective in Gaucher, Fabry, Hurler, Hunter, Maroteaux-Lamy and Pompe diseases, each with its own disease-specific enzyme. It does not show imiglucerase treating Hurler syndrome. |
-
-Both papers are general ERT overviews. Neither tests imiglucerase in Hurler syndrome.
-
----
+| [21211680](https://pubmed.ncbi.nlm.nih.gov/21211680/) | 2010 | Review | La Revue de medecine interne | General review of enzyme replacement therapy in lysosomal storage diseases; describes the progression from placenta-derived alglucerase to recombinant imiglucerase for Gaucher disease. Provides class-level context only, with no drug-specific evidence in Hurler syndrome. |
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form |
-|---------|------|------|
-| BLA020367 | Cerezyme (Genzyme Corporation) | Injection, powder, lyophilized, for solution |
-
-The approved indication text was not provided in the source data. The product is injectable only.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| BLA020367 (cancelled) | Cerezyme (Genzyme Corporation) | Injection, powder, lyophilized, for solution | Not specified in the data compiled |
 
 ## Safety Considerations
 
-- **Drug Interactions**: No interactions were found in the queried database.
+- **Drug Interactions**: Miglustat (Moderate, DDInter).
 
-Please refer to the package insert for warnings and contraindications.
-
----
+For other safety information, please refer to the package insert.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The high TxGNN score (99.52%) appears to come from the shared lysosomal storage disease/ERT class rather than a real mechanistic link. Imiglucerase targets glucosylceramide, while Hurler syndrome involves GAG accumulation from alpha-L-iduronidase deficiency. There are no trials and no direct literature. A disease-specific ERT (laronidase) already exists for MPS I, so there is little rationale to pursue this.
+No clinical trials exist, the only literature is a general class-level review, and the mechanism is not supported because imiglucerase targets glucosylceramide rather than the glycosaminoglycans accumulating in MPS I. An approved, disease-specific therapy (laronidase) already exists, and the US license for Cerezyme is listed as cancelled.
+
+Other predictions show the same picture, with no trials or literature:
+- **Scheie syndrome** (99.29%, L4): same reasoning as Hurler syndrome.
+- **Benign neoplasm of adrenal gland** (99.28%, L5): no clear mechanistic link; likely a graph-level association.
+- **Autosomal ichthyosis syndrome with fatal disease course** (99.24%, L5): plausible but unverified link through impaired glucosylceramide metabolism in the skin barrier; hard to study given the early onset and fatal course.
+- **Cholesteryl ester storage disease** (99.12%, L5): caused by lysosomal acid lipase deficiency, which imiglucerase does not address; sebelipase alfa is the approved specific therapy.
 
 **To proceed, the following is needed:**
-- Package insert warnings, contraindications and the approved indication text
-- Detailed mechanism of action data
-- Preclinical evidence that imiglucerase affects GAG accumulation, which is mechanistically unlikely
-- Any direct clinical or in vitro data for imiglucerase in MPS I or Scheie syndrome
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
+- FDA package insert warnings and contraindications (currently missing, which blocks safety screening)
+- Detailed mechanism of action data (MOA)
+- Experimental evidence (in vitro or preclinical) that imiglucerase has any activity against MPS I substrates, which is unlikely given the differing enzyme specificity
+- Clarification of the current US regulatory and supply status of Cerezyme
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

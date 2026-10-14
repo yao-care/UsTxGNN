@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Oxazepam
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 1001
-evidence_level: L5
+evidence_level: L3
 indication_count: 1
 ---
 
 # Oxazepam
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **1** 
+Evidence Level: **L3** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,33 +29,31 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Oxazepam: From an Unlisted Original Indication to Insomnia
+# Oxazepam: From Alcohol Withdrawal Delirium and Anxiety to Insomnia
 
 ## One-Sentence Summary
 
-Oxazepam is a benzodiazepine sold as generic oral capsules in the US, but the record lists no approved indication text.
-The TxGNN model predicts it may be effective for **insomnia**.
-Support is limited: **0 registered clinical trials** and **11 publications**, of which only **2 are RCTs**.
+Oxazepam is a short-acting benzodiazepine originally used for anxiety and alcohol withdrawal delirium.
+The TxGNN model predicts it may be effective for **insomnia**,
+but there are currently **0 registered clinical trials** and only **2 directly relevant publications** (small clinical studies) supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the source record (all license entries have empty indication text) |
+| Original Indication | Alcohol withdrawal delirium; anxiety (US label indication text is not available) |
 | Predicted New Indication | Insomnia |
 | TxGNN Prediction Score | 99.86% |
-| Evidence Level | L2 (as scored in the Evidence Pack; the phase of the two RCTs is not confirmed, so this is a generous reading) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 13 (all listed entries are ANDA072253 generics) |
+| Evidence Level | L3 |
+| US Market Status | Cancelled only (all 3 listed authorizations are cancelled) |
+| Number of NDAs | 3 (all are ANDAs, generic applications) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the record. Based on class pharmacology, oxazepam is a short-to-intermediate-acting benzodiazepine. It is a positive allosteric modulator of GABA-A receptors, which enhances inhibitory neurotransmission. Its sedative-hypnotic effect is biologically consistent with treating insomnia.
+Detailed mechanism-of-action data for oxazepam is not available in the data compiled for this report. Based on established class pharmacology, oxazepam is a short-acting benzodiazepine that enhances GABA-A receptor-mediated inhibitory neurotransmission, producing anxiolytic and sedative-hypnotic effects.
 
-The very high TxGNN score matches this class-level mechanism, but it is a model prediction, not clinical evidence. Because the drug record has no curated original indications or MOA, the mechanistic link rests on class knowledge rather than drug-level data.
-
-Oxazepam has no active metabolites and is cleared by glucuronidation. That is relevant to its safety in older adults and in liver disease, but it is not a reason in itself to recommend it for insomnia.
+Anxiety and insomnia frequently occur together, and other benzodiazepines are already used as hypnotics. Enhanced inhibitory signalling is plausibly linked to easier sleep onset and better sleep maintenance. The high TxGNN score is consistent with this class-level reasoning, but it is a computational prediction and not clinical evidence.
 
 ## Clinical Trial Evidence
 
@@ -63,51 +61,52 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
+Most of the retrieved literature is only loosely related to oxazepam in insomnia. The publications that bear directly on the question are listed first.
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [6691478](https://pubmed.ncbi.nlm.nih.gov/6691478/) | 1984 | RCT | Am J Psychiatry | In 14 chronic insomnia patients, oxazepam and flurazepam both improved some polysomnographic sleep measures. Flurazepam caused substantial daytime sleepiness and oxazepam did not. Oxazepam produced some rebound effects. |
-| [29749262](https://pubmed.ncbi.nlm.nih.gov/29749262/) | 2018 | RCT | Ann Pharmacother | Compared melatonin with oxazepam for anxiety and sleep quality in STEMI patients after primary PCI. Benzodiazepines are effective here but carry adverse effects and interaction risks. Results are not included in the available abstract. |
-| [17317444](https://pubmed.ncbi.nlm.nih.gov/17317444/) | 2007 | Review | Arch Gerontol Geriatr | Studied 60 elderly patients (over 70) with insomnia and comorbid depression, dementia or behavioral disturbances, looking at the effectiveness and safety of hypnotics. |
-| [6139491](https://pubmed.ncbi.nlm.nih.gov/6139491/) | 1983 | Cohort | JAMA | Two patients developed withdrawal syndrome after switching from a long-acting to a short-acting benzodiazepine (oxazepam replaced diazepam in one case). Symptoms lasted at least one month. |
-| [29844949](https://pubmed.ncbi.nlm.nih.gov/29844949/) | 2018 | Cohort | PeerJ | Analyzed factors linked to long-term benzodiazepine and z-drug use in older people. Older age, female sex and psychological or somatic burden are associated with long-term use. |
-| [23330992](https://pubmed.ncbi.nlm.nih.gov/23330992/) | 2013 | Review | Expert Opin Drug Metab Toxicol | Reviews the pharmacokinetics of anxiolytic drugs, the most prescribed psychoactive drugs in Western countries. |
-| [36340306](https://pubmed.ncbi.nlm.nih.gov/36340306/) | 2022 | Review | J Clin Exp Hepatol | Reviews alcohol withdrawal syndrome management in alcoholic liver disease. Insomnia appears as one of its symptoms, so this is only indirectly relevant. |
+| [6691478](https://pubmed.ncbi.nlm.nih.gov/6691478/) | 1984 | Clinical trial | Am J Psychiatry | In 14 patients with chronic insomnia, oxazepam and flurazepam both improved some polysomnographic sleep measures. Flurazepam caused substantial daytime sleepiness, whereas oxazepam did not. Some rebound effects were noted with oxazepam. |
+| [29749262](https://pubmed.ncbi.nlm.nih.gov/29749262/) | 2018 | Randomized clinical trial | Ann Pharmacother | Melatonin compared with oxazepam for anxiety and sleep quality in patients with STEMI after primary PCI. |
+| [17317444](https://pubmed.ncbi.nlm.nih.gov/17317444/) | 2007 | Study of hypnotics (labelled as review) | Arch Gerontol Geriatr | Effectiveness and safety of hypnotic drugs for insomnia in 60 people over 70 with comorbid conditions. |
+| [29844949](https://pubmed.ncbi.nlm.nih.gov/29844949/) | 2018 | Observational | PeerJ | Potentially inappropriate long-term use of benzodiazepines and z-drugs in older adults. |
+| [6139491](https://pubmed.ncbi.nlm.nih.gov/6139491/) | 1983 | Clinical study | JAMA | Withdrawal syndrome after switching from a long-acting to a short-acting benzodiazepine, including oxazepam. |
+| [23330992](https://pubmed.ncbi.nlm.nih.gov/23330992/) | 2013 | Review | Expert Opin Drug Metab Toxicol | Pharmacokinetics of anxiolytic drugs. |
+| [36340306](https://pubmed.ncbi.nlm.nih.gov/36340306/) | 2022 | Review | J Clin Exp Hepatol | Management of alcohol withdrawal syndrome in patients with alcoholic liver disease. |
 
-Four other retrieved papers (agomelatine case report, paroxetine in panic disorder, dementia behavioral symptoms, informed refusal) were judged not relevant to oxazepam for insomnia and are not listed.
+The remaining retrieved publications (a paroxetine review in panic disorder, an agomelatine case report, and a review of dementia behavioural symptoms) are not specific to oxazepam or insomnia and are not summarized here.
 
 ## US Market Information
 
-Five of the 13 licenses are shown, all under the same ANDA number. None includes indication text.
-
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA072253 (American Health Packaging) | Oxazepam | Capsule, gelatin coated | Not listed |
-| ANDA072253 (Actavis Pharma, Inc.) | Oxazepam | Capsule, gelatin coated | Not listed |
-| ANDA072253 (Actavis Pharma, Inc.) | Oxazepam | Capsule, gelatin coated | Not listed |
-| ANDA072253 (Actavis Pharma, Inc.) | Oxazepam | Capsule, gelatin coated | Not listed |
-| ANDA072253 (American Health Packaging) | Oxazepam | Capsule, gelatin coated | Not listed |
-
-The only route is oral (capsule).
+| ANDA072253 | Oxazepam (American Health Packaging) | Capsule, gelatin coated | Not available (cancelled) |
+| ANDA218261 | Oxazepam (Leading Pharma, LLC) | Capsule | Not available (cancelled) |
+| ANDA071026 | Oxazepam (TruPharma, LLC) | Capsule | Not available (cancelled) |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Package insert warnings and contraindications were not available in the data compiled for this report. Please refer to the package insert for safety information.
+
+- **Contraindication-related conditions (from the knowledge graph, not label text)**: anxiety disorder, neurotic disorder, dysthymic disorder, porphyria (including inherited forms), kidney disease, liver disease, gallbladder disease, psychotic and schizophrenia-spectrum disorders, mental disorder, hypotensive disorder, sleep apnea syndromes, congenital central hypoventilation syndrome, respiratory failure, lung disease, substance-related disorder and substance abuse/dependence, personality disorder, and intermittent explosive disorder. These should be verified against the official label.
+- **Drug Interactions**: 100 interactions were identified in total. The main ones listed here are:
+  - **Major**: morphine, including liposomal morphine (additive central nervous system and respiratory depression is a known concern with opioids).
+  - **Moderate**: bupropion, dronabinol, nabilone, metoclopramide, opium, sibutramine, teduglutide.
+  - **Minor**: antacids and minerals such as magnesium oxide, magnesium carbonate, magnesium hydroxide, calcium carbonate, aluminum hydroxide and magaldrate.
+- Several benzodiazepine-specific concerns also appear in the literature: daytime sleepiness and rebound effects, withdrawal symptoms after switching agents (PMID 6139491), and inappropriate long-term use in older adults (PMID 29844949).
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The only support is a high model score and a plausible class mechanism. There are no registered trials, and the two RCTs are small or do not clearly test insomnia. The package insert warnings and contraindications are missing, which blocks safety screening. The pack scores this as a research question, not a candidate for advancement.
+The prediction is mechanistically plausible, but direct evidence is limited to one small 1984 comparative study (14 patients) and one trial in a cardiac population where sleep was a secondary outcome. No clinical trials are registered. All US authorizations for oxazepam are cancelled, and safety label data are missing, so the evidence level is L3 and the candidate is best treated as a research question.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications (blocking), plus the approved indication text
-- Curated mechanism of action data from DrugBank
-- Phase and outcome details of the two RCTs, to confirm the evidence level
-- Safety review for older adults and patients with liver disease, and for withdrawal and dependence risk
-- Comparison against currently approved insomnia therapies, and a check of route compatibility
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- A systematic review of benzodiazepines, including oxazepam, for insomnia, and comparison against approved hypnotics
+- Clarification of the current US market status, since all listed authorizations are cancelled
+- A risk assessment for dependence, respiratory depression, and use in older adults
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

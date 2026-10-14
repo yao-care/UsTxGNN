@@ -29,33 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Fluphenazine: From Antipsychotic Use to Retinal Dystrophy (With or Without Extraocular Anomalies)
+# Fluphenazine: From Schizophrenia and Psychotic Disorders to Retinal Dystrophy
 
 ## One-Sentence Summary
 
-Fluphenazine is a phenothiazine antipsychotic that acts as a dopamine D2 antagonist and is marketed in the US in oral, injectable and elixir forms.
-The TxGNN model predicts it may be effective for **retinal dystrophy with or without extraocular anomalies**, but there are **0 clinical trials** and **no literature on fluphenazine for this condition**.
-This is a graph-based prediction only, and phenothiazines are known to cause retinal toxicity, which argues against this use.
+Fluphenazine is a phenothiazine antipsychotic, originally used to treat schizophrenia and related psychotic disorders.
+The TxGNN model predicts it may be effective for **retinal dystrophy with or without extraocular anomalies**,
+but **0 clinical trials** and **0 publications** currently support this direction. It is a network-based prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Antipsychotic use (indication text is not provided in the US license data) |
+| Original Indication | Schizophrenia, psychotic disorder, schizoaffective disorder, schizophreniform disorder, mental disorder |
 | Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
-| TxGNN Prediction Score | 99.99% (model rank 321) |
+| TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| US Market Status | ✗ Cancelled only (no active authorizations) |
+| Number of NDAs | 13 (all cancelled; ANDA generic applications) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the Evidence Pack. Fluphenazine is a high-potency phenothiazine and a D2 dopamine receptor antagonist.
+Detailed mechanism of action data is not available in the data compiled for this report. Fluphenazine is known as a phenothiazine dopamine D2 receptor antagonist, and its efficacy in schizophrenia and other psychotic disorders is well established.
 
-The review found **no plausible mechanistic link** between D2 antagonism and the genetic or structural pathology of retinal dystrophy. The high TxGNN score (0.9999) reflects only a pattern in the knowledge graph, not biological or clinical support.
+**The prediction is not mechanistically supported.** No known pathway connects D2 antagonism to inherited retinal dystrophies, which are genetically driven degenerative conditions. The high TxGNN score (99.99%) reflects network-based similarity in the knowledge graph, not biological or clinical evidence. Phenothiazines are also associated with retinal toxicity (pigmentary retinopathy) at high doses, which argues against this use.
 
-Phenothiazines are also known to cause retinal toxicity (pigmentary retinopathy). This is a reason for caution, not support for the prediction.
+The related predictions for syndromic myopia, X-linked myopia and several congenital neurological or metabolic disorders show the same pattern: no mechanism and no evidence. Of the ten predictions reviewed, only **manic bipolar affective disorder** (rank 10) is biologically plausible, because D2 antagonism underlies antipsychotic efficacy in mania.
 
 ## Clinical Trial Evidence
 
@@ -63,54 +63,49 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-The 15 retrieved publications were matched on disease keywords (orbital, extraocular and congenital eye disorders). **None of them studies fluphenazine or any phenothiazine in retinal dystrophy.** The 10 below are the closest in topic, and all are background reading only.
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [9416661](https://pubmed.ncbi.nlm.nih.gov/9416661/) | 1997 | Review | Semin Ultrasound CT MR | Orbital infections, mainly sinusitis-related; imaging and clinical signs |
-| [20127583](https://pubmed.ncbi.nlm.nih.gov/20127583/) | 2010 | Review | Semin Neurol | Systematic approach to evaluating diplopia |
-| [38321238](https://pubmed.ncbi.nlm.nih.gov/38321238/) | 2024 | Review | Pediatr Radiol | Differential diagnosis and imaging of pediatric ocular pathologies |
-| [38249493](https://pubmed.ncbi.nlm.nih.gov/38249493/) | 2023 | Review | Taiwan J Ophthalmol | Congenital anomalies of lens shape |
-| [22241537](https://pubmed.ncbi.nlm.nih.gov/22241537/) | 2012 | Review | Klin Monbl Augenheilkd | Congenital ptosis and its associated findings |
-| [7035111](https://pubmed.ncbi.nlm.nih.gov/7035111/) | 1981 | Review | Doc Ophthalmol | Wagner-Stickler syndrome complex (vitreoretinal degeneration) |
-| [30196776](https://pubmed.ncbi.nlm.nih.gov/30196776/) | 2018 | Review | J Binocul Vis Ocul Motil | Ophthalmoplegia and congenital cranial dysinnervation disorders |
-| [24932988](https://pubmed.ncbi.nlm.nih.gov/24932988/) | 2014 | Review | Am J Ophthalmol | Pathogenesis and treatment of maculopathy with cavitary optic disc anomalies |
-| [33806565](https://pubmed.ncbi.nlm.nih.gov/33806565/) | 2021 | Cohort | Int J Mol Sci | Optic nerve head and retinal abnormalities in congenital fibrosis of the extraocular muscles |
-| [109006](https://pubmed.ncbi.nlm.nih.gov/109006/) | 1979 | Case report | Am J Ophthalmol | Two cases of unilateral cryptophthalmia |
+Currently no related literature available.
 
 ## US Market Information
 
-Of 20 authorizations, the 5 listed in the Evidence Pack are shown below. All are generic (ANDA) tablets.
+All 13 authorizations are generic applications (ANDA) with cancelled status, and none is currently valid. Five examples:
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA218173 | Fluphenazine Hydrochloride (Alembic) | Film-coated tablet | — |
-| ANDA213647 | Fluphenazine Hydrochloride (Amneal) | Film-coated tablet | — |
-| ANDA218055 | Fluphenazine Hydrochloride (Aurobindo) | Tablet | — |
-| ANDA214534 | Fluphenazine Hydrochloride (American Health Packaging) | Film-coated tablet | — |
-| ANDA217410 | Fluphenazine Hydrochloride (Ajanta) | Tablet | — |
+| Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
+|---------|------|------|------|------|
+| ANDA218173 | Fluphenazine Hydrochloride | Film-coated tablet | Alembic Pharmaceuticals Inc. | Cancelled |
+| ANDA213647 | Fluphenazine Hydrochloride | Film-coated tablet | Amneal Pharmaceuticals NY LLC | Cancelled |
+| ANDA218055 | Fluphenazine Hydrochloride | Tablet | Aurobindo Pharma Limited | Cancelled |
+| ANDA089556 | Fluphenazine Hydrochloride | Solution for injection | Fresenius Kabi USA, LLC | Cancelled |
+| ANDA040146 | Fluphenazine Hydrochloride | Elixir | PAI Holdings, LLC dba PAI Pharma | Cancelled |
 
-Other US dosage forms for this drug are injection solution and elixir.
+Dosage forms across all authorizations: oral tablets (plain and film-coated), injectable solution and oral elixir.
 
 ## Safety Considerations
 
-- **Retinal toxicity**: Phenothiazines are known to cause pigmentary retinopathy. This directly conflicts with use in a retinal disease.
+Package insert warnings and contraindications were not available in the data compiled for this report. Please refer to the package insert for label safety information.
 
-Please refer to the package insert for other safety information.
+- **Contraindications from the knowledge graph (not label text):** The TxGNN knowledge graph links fluphenazine to contraindications in the following groups:
+  - Cardiovascular and conduction: long QT syndrome (including familial), torsades de pointes, sudden cardiac arrest, heart conduction disease, myocardial infarction, coronary thrombosis, orthostatic hypotension, postural orthostatic tachycardia syndrome.
+  - Blood disorders: neutropenia, agranulocytosis, leukopenia, thrombocytopenia, anemia (including macrocytic), hemoglobinopathy.
+  - Neurological: epilepsy, basal ganglia disease, multiple system atrophy, focal hand dystonia, blepharospasm.
+  - Other: liver disease, gallbladder disease, hyperglycemia, obesity disorder, benign prostatic hyperplasia, female breast carcinoma, substance abuse/dependence.
+- **Drug Interactions:** The query returned 100 interactions in total. The 20 shown include:
+  - **Major:** bupropion, morphine.
+  - **Moderate:** antidiabetic agents (acarbose, metformin, pioglitazone, alogliptin, albiglutide), corticosteroids (hydrocortisone, dexamethasone, betamethasone, triamcinolone), anticholinergics (atropine, hyoscyamine, loperamide), famotidine, epinephrine, amphotericin B and lorcaserin.
+  - **Minor:** ascorbic acid.
+- **Ocular safety:** Phenothiazines can cause pigmentary retinopathy, which is directly relevant to any retinal indication.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on the model score alone (L5). There are no trials, no fluphenazine-specific literature and no plausible mechanism. The known retinal toxicity of phenothiazines argues against this indication.
+The prediction rests only on a graph-based score. No clinical trials or literature support it, no mechanism links D2 antagonism to retinal dystrophy, and phenothiazine retinal toxicity argues against the use. All US authorizations are also cancelled.
 
 **To proceed, the following is needed:**
-- A defined mechanistic hypothesis that addresses the retinal toxicity concern, backed by preclinical data
-- Full package insert warnings and contraindications
-- Mechanism-of-action data from DrugBank
-
-**Note on other predictions:** Of the 10 predicted indications, only rank 10, **manic bipolar affective disorder** (score 99.98%), has a plausible mechanism. Dopamine antagonism underlies the antimanic effect of the antipsychotic class, and class-level reviews and retrospective data support long-acting injectable antipsychotics in bipolar disorder. Fluphenazine-specific evidence is limited to one two-patient case report, so this is a class-effect inference. It is rated L4 and best treated as a research question, and it would be the better candidate for a follow-up report.
+- Mechanistic evidence, or preclinical data, showing a plausible effect in retinal dystrophy models
+- Package insert warnings and contraindications, and detailed MOA data
+- An assessment of retinal toxicity risk at therapeutic doses
+- Consideration of redirecting effort to **manic bipolar affective disorder** (rank 10). It is the only prediction with a plausible mechanism and literature, namely long-acting injectable antipsychotic reviews. Its evidence is indirect (L4), no trials are registered, and the cancelled US market status limits practical development.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

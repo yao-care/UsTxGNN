@@ -33,25 +33,32 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Primidone is an antiseizure drug marketed in the US as oral tablets. The TxGNN model predicts it may be effective for **trigeminal nerve neoplasm**, but **no clinical trials and no publications** support this prediction. It is a model output only and most likely a knowledge-graph artifact.
+Primidone is an anticonvulsant originally used to treat epilepsy, including generalized tonic-clonic and partial seizures.
+The TxGNN model predicts it may be effective for **trigeminal nerve neoplasm**, but **0 clinical trials** and **0 publications** currently support this prediction.
+The score is a model output only, with no actual study behind it.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the US license data (primidone is a known antiseizure drug) |
+| Original Indication | Epilepsy (including generalized tonic-clonic seizures, partial epilepsy, Lennox-Gastaut syndrome) |
 | Predicted New Indication | Trigeminal nerve neoplasm |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (all listed licenses are generic ANDAs) |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 8 (1 NDA and 7 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Primidone is an established antiseizure drug, and its efficacy in seizure disorders is well known. However, it has no known antineoplastic mechanism, so nothing links it mechanistically to a tumour of the trigeminal nerve.
+Currently, detailed mechanism of action data is not available. Primidone is an anticonvulsant that is metabolized to phenobarbital and phenylethylmalonamide (PEMA), and its efficacy in epilepsy is well established.
 
-The very high TxGNN score is probably a propagation artifact. The graph likely connects primidone to this disease through shared neurological or cranial-nerve nodes, not through a real therapeutic relationship. No independent mechanistic evidence was found to support the prediction.
+For trigeminal nerve neoplasm, however, the data compiled for this report supports no mechanistic link. There is no rationale for antitumour activity from an antiseizure drug. The very high score (0.99994) likely reflects proximity in the knowledge graph to related nodes such as trigeminal neuralgia or epilepsy, not a biological effect on the tumour.
+
+**Other predictions in the same list.** Several other predicted indications are more plausible, though still weakly supported:
+- **Startle epilepsy** and other reflex seizures (orgasm-induced, micturition-induced, thinking, eating, audiogenic, reading seizures): a general antiseizure rationale applies. These are close to the existing epilepsy indications and are arguably extensions rather than true repurposing. Evidence consists only of old case reports, animal studies, and general antiepileptic reviews.
+- **Trigeminal neuralgia**: anticonvulsants such as carbamazepine are standard treatment, so a class-level rationale exists. No direct primidone trial evidence was found, and established first-line options are available.
+- **Beta-ketothiolase deficiency**: an inborn error of metabolism with no supported mechanistic link to primidone.
 
 ## Clinical Trial Evidence
 
@@ -59,42 +66,60 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for trigeminal nerve neoplasm.
+
+For reference, the strongest literature attached to the other predicted indications is limited to:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [15246950](https://pubmed.ncbi.nlm.nih.gov/15246950/) | 2004 | Review | Epileptic Disord | Antiepileptic drugs are used for non-epilepsy conditions, mostly based on case series and small trials that need confirmation (trigeminal neuralgia) |
+| [8548670](https://pubmed.ncbi.nlm.nih.gov/8548670/) | 1995 | Case report | Zhonghua Yi Xue Za Zhi | Startle epilepsy presenting as drop attacks in a 3.5-year-old boy; the available text does not confirm primidone use |
+| [8891399](https://pubmed.ncbi.nlm.nih.gov/8891399/) | 1995 | Review | Clin Neurosci | Primidone (500–1,000 mg/day) is among the useful drugs for cortical myoclonus (reading seizures context) |
+| [184518](https://pubmed.ncbi.nlm.nih.gov/184518/) | 1976 | Animal study | Neurol Psychiatr | Effects of phenobarbital, diphenylhydantoin and primidone on brain enzyme activity in mice with audiogenic epilepsy |
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA040862 | Primidone | Tablet | Dr. Reddy's Laboratories Limited |
-| ANDA040866 | Primidone | Tablet | Bryant Ranch Prepack |
-| ANDA214896 | Primidone | Tablet | Advagen Pharma Limited |
-| ANDA040866 | Primidone | Tablet | NCS HealthCare of KY, LLC dba Vangard Labs |
-| ANDA040866 | Primidone | Tablet | AvPAK |
+| NDA009170 | Mysoline (Bausch Health US, LLC) | Tablet | Cancelled |
+| ANDA040862 | Primidone (Dr. Reddy's Laboratories Limited) | Tablet | Cancelled |
+| ANDA040866 | Primidone (Bryant Ranch Prepack) | Tablet | Cancelled |
+| ANDA214896 | Primidone (Advagen Pharma Limited) | Tablet | Cancelled |
+| ANDA040586 | Primidone (Bryant Ranch Prepack) | Tablet | Cancelled |
 
-The approved indication text was not provided in the license data. Only oral tablets are marketed.
+Three more cancelled ANDAs (083551, 218366, 084903) are not shown. All 8 authorizations in the data compiled for this report are cancelled, and none contains approved indication text.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug interaction records were returned. Primidone is partly metabolized to phenobarbital and is an enzyme inducer, so interaction screening is needed before any further development.
+Package insert warnings and contraindications were not available. Please refer to the package insert for safety information.
+
+**Contraindications suggested by the knowledge graph** (not label text):
+- Porphyria and other porphyrin metabolism diseases
+- Liver disease, kidney disease, gallbladder disease
+- Blood disorders: thrombocytopenia, neutropenia, agranulocytosis, leukopenia, pancytopenia, anaemia (including macrocytic anaemia), and congenital neutropenia syndromes
+- Sleep apnoea and hypoventilation syndromes
+- Substance abuse/dependence
+- Anxiety, neurotic and dysthymic disorders
+
+**Drug Interactions** (100 interactions found; examples):
+- **Major**: morphine, eliglustat
+- **Moderate**: corticosteroids (hydrocortisone, dexamethasone, betamethasone, triamcinolone), doxycycline, metronidazole, bupropion, aprepitant, pioglitazone, canagliflozin, saxagliptin, vitamin D analogues (cholecalciferol, calcifediol, calcitriol), diphenoxylate, difenoxin, dronabinol
+- **Minor**: cimetidine
+
+Primidone is metabolized to phenobarbital, an enzyme inducer, which likely explains the many interactions.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no trials, no literature, and no plausible antineoplastic mechanism. It is Evidence Level L5, model prediction only, and the high score is most likely a graph artifact.
-
-**Other predicted indications in this pack:**
-- **Trigeminal neuralgia** (rank 9, L4, Research Question): A preclinical link exists through TRPM3, but no primidone trial was found.
-- **Micturition-induced seizures** and **audiogenic seizures** (ranks 4 and 7, L4, Research Question): Only indirect evidence exists, including general antiseizure reviews and animal screening studies.
-- **Startle epilepsy, orgasm-induced seizures, thinking seizures, eating seizures, reading seizures** (L4 to L5, Hold): The evidence is a single case report, tangential studies, or none.
-- **Beta-ketothiolase deficiency** (rank 10, L5, Hold): There is no evidence and no mechanistic basis.
+The TxGNN score for trigeminal nerve neoplasm is very high, but there are no clinical trials, no literature, and no plausible mechanism for antitumour activity. The prediction is model output only (L5). All US authorizations are cancelled, and label safety data is missing.
 
 **To proceed, the following is needed:**
-- Original indications and the mechanism of action (MOA) from the US package insert and DrugBank
-- Package insert warnings and contraindications, since the safety data are incomplete
-- Confirmation that the drug interaction count of 0 is a data gap, since primidone induces enzymes
-- For a more credible candidate such as trigeminal neuralgia, a targeted literature and trial search for primidone and TRPM3 evidence
+- Mechanism of action data (e.g., from DrugBank) and any biological rationale linking primidone to trigeminal nerve tumours
+- FDA package insert warnings and contraindications, which block safety screening
+- Preclinical evidence of antitumour activity, if the neoplasm indication is pursued
+- Consider redirecting effort to the more plausible predictions (startle epilepsy and other reflex seizures, trigeminal neuralgia), which need disease-specific clinical evidence and a comparison against established first-line therapies
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

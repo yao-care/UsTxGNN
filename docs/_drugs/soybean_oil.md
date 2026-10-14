@@ -29,82 +29,71 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Soybean Oil: From Parenteral Nutrition (Lipid Source) to Amenorrhea
+# Soybean Oil: From Parenteral Nutrition Lipid Source to Amenorrhea
 
 ## One-Sentence Summary
 
-Soybean oil is mainly used as a caloric and essential fatty acid source in parenteral nutrition lipid emulsions (such as Intralipid), and as a pharmaceutical excipient.
-The TxGNN model predicts it may be effective for **Amenorrhea**, but this rests on a model score alone: **0 clinical trials** and **0 publications** currently support it.
-
----
+Soybean oil is a lipid source used in intravenous fat emulsions (for example, Intralipid), but the data compiled for this report contain no approved indication text for it.
+The TxGNN model predicts it may be effective for **amenorrhea**,
+but there are currently **0 clinical trials** and **0 publications** supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the regulatory records (used as a lipid source in parenteral nutrition) |
+| Original Indication | Not listed in the available data (the product forms are intravenous lipid emulsions, but no indication text is recorded) |
 | Predicted New Indication | Amenorrhea |
 | TxGNN Prediction Score | 99.61% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 15 |
+| US Market Status | Cancelled only (no currently valid authorizations) |
+| Number of NDAs | 9 authorizations in total (all cancelled; includes 5 NDAs and 3 BLAs, as listed below) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, soybean oil is a nutritional lipid source and excipient rather than a drug with a defined pharmacological target. Its role in parenteral nutrition is to supply calories and essential fatty acids, so it has no proven efficacy in a reproductive condition.
+Currently, detailed mechanism of action data is not available. No original indications are recorded either, so the relationship between the original and new indications cannot be assessed from the data compiled for this report.
 
-One possible link is that soybean-derived phytoestrogens (isoflavones), or changes in lipid and energy status, could influence the hypothalamic-pituitary-ovarian axis, which controls menstruation. This link is weak. Refined soybean oil contains negligible isoflavones, so the phytoestrogen route is unlikely to apply.
-
-The high score may instead reflect knowledge-graph connectivity artifacts, such as soy-related nodes linked to reproductive endocrine phenotypes, rather than a real pharmacological effect. This prediction should be treated as a hypothesis only.
-
----
+The very high TxGNN score (99.61%) is a computational knowledge-graph prediction only. Soybean oil is mainly a lipid and calorie source (for example in parenteral nutrition emulsions) and provides omega-6 fatty acids and phytosterols. One could speculate that amenorrhea related to low energy availability, such as functional hypothalamic amenorrhea, might be indirectly influenced by lipid supplementation, or that phytoestrogens might play a role. This is a hypothesis only. It is not supported by any evidence in the data and should not be treated as a finding.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
+
+All 9 authorizations are cancelled. No approved indication text is recorded for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA020248 | Intralipid (Fresenius Kabi USA, LLC) | Emulsion | Not listed in the record |
-| NDA018449 | Intralipid (Fresenius Kabi USA, LLC) | Emulsion | Not listed in the record |
-| BLA103888 | Food - Plant Source, Soybean Glycine soja (Jubilant HollisterStier LLC) | Injection, solution | Not listed in the record |
-| NDA020248 | Intralipid (Baxter Healthcare Corporation) | Emulsion | Not listed in the record |
-| NDA018449 | Intralipid (ProPharma Distribution) | Emulsion | Not listed in the record |
+| NDA020248 | Intralipid (Fresenius Kabi USA) | Emulsion | Not recorded |
+| NDA018449 | Intralipid (Fresenius Kabi USA) | Emulsion | Not recorded |
+| NDA017643 | Intralipid (Baxter Healthcare) | Emulsion | Not recorded |
+| NDA019942 | Intralipid (Baxter Healthcare) | Emulsion | Not recorded |
+| NDA019531 | NutriLipid I.V. Fat Emulsion (B. Braun) | Injection, solution | Not recorded |
 
----
+Four further cancelled authorizations are not shown: NDA204508 (Clinolipid, Baxter) and three allergenic-extract BLAs (BLA103888, BLA103753, BLA101833; soybean food allergen products).
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
----
+Please refer to the package insert for safety information. No drug interaction records were found, and no knowledge-graph contraindications were identified.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score (Evidence Level L5). There are no registered trials or publications, no mechanism of action data, and no plausible pharmacological link, since refined soybean oil has negligible isoflavone content. The score may be a knowledge-graph artifact.
+The prediction rests only on a model score, with no registered clinical trials, no literature, no mechanism data and no recorded original indication. The drug has no currently valid US authorization, and the safety review cannot proceed because package insert information is missing.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data from DrugBank (DB09422)
-- A systematic literature search for soy-derived lipids or isoflavones and menstrual or ovarian function
-- A check of whether the TxGNN score comes from generic soy-related graph connectivity rather than drug-specific evidence
-- Route and formulation compatibility assessment (parenteral emulsion versus any oral or dietary use for amenorrhea)
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data (for example, from DrugBank)
+- Original approved indication information for the lipid emulsion products
+- A literature and trial search on lipid or nutritional supplementation in amenorrhea, particularly functional hypothalamic amenorrhea
+- Assessment of route compatibility (intravenous emulsion versus any route needed for the new indication)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,91 +29,98 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Orphenadrine: From Muscle Spasm to Retinal Dystrophy (Prediction Not Supported by Evidence)
+# Orphenadrine: From Parkinson Disease to Retinal Dystrophy
 
 ## One-Sentence Summary
 
-Orphenadrine is an anticholinergic muscle relaxant, used clinically for muscle spasm and for antipsychotic-induced extrapyramidal symptoms.
-The TxGNN model ranks **retinal dystrophy with or without extraocular anomalies** as its top prediction (99.29%), but there are **0 clinical trials** and **15 publications**, none of which mention orphenadrine.
-This is a graph-based prediction only, and the evidence supports **Hold**.
+Orphenadrine is an anticholinergic drug originally used for parkinsonian disorders and Parkinson disease.
+The TxGNN model's top-ranked prediction is **retinal dystrophy with or without extraocular anomalies**, but there are **0 clinical trials** and **0 publications** supporting it.
+Among the other predictions, only **schizophrenia** has a body of literature (**16 publications**), and these mostly concern managing antipsychotic side effects rather than treating the disease itself.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the US license records (clinically used for muscle spasm) |
+| Original Indication | Parkinsonian disorder / Parkinson disease |
 | Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
 | TxGNN Prediction Score | 99.29% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 17 (all listed as ANDA generics) |
+| US Market Status | Cancelled only (all 5 licences cancelled) |
+| Number of NDAs | 5 (all ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-It is not, based on current data. Detailed mechanism of action data is not available in the Evidence Pack. Orphenadrine is known as an anticholinergic (muscarinic and H1 antagonist) with NMDA-antagonist and sodium-channel-blocking activity. None of these actions is known to act on inherited retinal dystrophy pathways.
+Detailed mechanism-of-action data is not available in the data compiled for this report. From general pharmacology, orphenadrine is an anticholinergic agent with NMDA-channel-blocking and antihistamine activity. Its efficacy in parkinsonism comes from central muscarinic blockade.
 
-The 0.993 score reflects proximity in the knowledge graph, not a biological link. The 15 retrieved papers cover congenital orbital and ocular anomalies (for example orbital infection, ptosis, congenital fibrosis of the extraocular muscles). They appear to be keyword matches on the disease name rather than drug evidence.
+For the top-ranked prediction, **retinal dystrophy**, no mechanistic link can be identified. None of orphenadrine's known actions connects to inherited retinal degeneration. Despite the high score (0.993), the prediction is most likely a knowledge-graph artifact.
 
-Other predictions in the list are equally weak: congenital glycosylation disorder, polymicrogyria, CMT1G and two X-linked myopia forms. Only one of them, **schizophrenia** (rank 5, score 99.13%), has drug-specific literature.
+The other genetic or developmental predictions are also unsupported:
+- **Congenital disorder of glycosylation (defective fucosylation):** a glycan-synthesis defect that muscarinic, NMDA or H1 pharmacology does not address.
+- **Perisylvian polymicrogyria with cerebellar hypoplasia and arthrogryposis:** a genetic brain malformation that a symptomatic anticholinergic cannot be expected to alter.
+- **Charcot-Marie-Tooth disease type 1G:** a hereditary demyelinating neuropathy with no known disease-modifying effect from orphenadrine.
+- **X-linked myopia and myopia 26 (X-linked, female-limited):** antimuscarinic action is loosely relevant to myopia control (as with atropine), but orphenadrine is a systemic agent with no ophthalmic data, and these are genetic conditions.
 
-That literature is small clinical and naturalistic studies of orphenadrine in schizophrenia patients. It concerns adjunctive control of antipsychotic-induced extrapyramidal symptoms, not treatment of the core disease. The Cochrane reviews of anticholinergics for tardive dyskinesia show no clear benefit. Anticholinergic burden may also worsen cognition and tardive dyskinesia.
+**Schizophrenia** (rank 5, score 99.13%, evidence level L3) is the only prediction with literature support. Orphenadrine is used as an adjunct to manage antipsychotic-induced extrapyramidal symptoms. Its NMDA-blocking activity is pharmacologically interesting given the glutamatergic hypothesis of schizophrenia. However, NMDA antagonists tend to cause psychotomimetic effects, and anticholinergics can worsen cognition and tardive dyskinesia. The literature supports treating side effects, not the core disease.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials are registered for the top-ranked prediction (retinal dystrophy) or for any other predicted indication.
 
 ## Literature Evidence
 
-The 15 papers retrieved for retinal dystrophy are listed below (10 shown). None mentions orphenadrine, and all are general ophthalmology literature.
+Currently no related literature is available for retinal dystrophy. For reference, the literature below concerns the schizophrenia prediction (rank 5):
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [9416661](https://pubmed.ncbi.nlm.nih.gov/9416661/) | 1997 | Review | Semin Ultrasound CT MR | Overview of orbital infections, mostly sinusitis-related; no orphenadrine data |
-| [20127583](https://pubmed.ncbi.nlm.nih.gov/20127583/) | 2010 | Review | Semin Neurol | Approach to diagnosing double vision; no drug data |
-| [38321238](https://pubmed.ncbi.nlm.nih.gov/38321238/) | 2024 | Review | Pediatr Radiol | Imaging of pediatric ocular pathologies (microphthalmos, coloboma, Coats disease, etc.) |
-| [38249493](https://pubmed.ncbi.nlm.nih.gov/38249493/) | 2023 | Review | Taiwan J Ophthalmol | Congenital anomalies of lens shape and size |
-| [22241537](https://pubmed.ncbi.nlm.nih.gov/22241537/) | 2012 | Review | Klin Monbl Augenheilkd | Congenital ptosis forms and associated eye findings |
-| [7035111](https://pubmed.ncbi.nlm.nih.gov/7035111/) | 1981 | Review | Doc Ophthalmol | Wagner-Stickler syndrome complex with vitreoretinal degeneration |
-| [30196776](https://pubmed.ncbi.nlm.nih.gov/30196776/) | 2018 | Review | J Binocul Vis Ocul Motil | Congenital cranial dysinnervation disorders causing ophthalmoplegia |
-| [24932988](https://pubmed.ncbi.nlm.nih.gov/24932988/) | 2014 | Review | Am J Ophthalmol | Pathogenesis and treatment of maculopathy with cavitary optic disc anomalies |
-| [33806565](https://pubmed.ncbi.nlm.nih.gov/33806565/) | 2021 | Cohort | Int J Mol Sci | Optic nerve head and retinal abnormalities in congenital fibrosis of the extraocular muscles |
-| [109006](https://pubmed.ncbi.nlm.nih.gov/109006/) | 1979 | Case report | Am J Ophthalmol | Two patients with unilateral cryptophthalmia |
+| [29341071](https://pubmed.ncbi.nlm.nih.gov/29341071/) | 2018 | Review | Cochrane Database Syst Rev | Anticholinergic medication for antipsychotic-induced tardive dyskinesia; animal data suggest chronic anticholinergics might themselves cause tardive dyskinesia |
+| [10796321](https://pubmed.ncbi.nlm.nih.gov/10796321/) | 2000 | Review | Cochrane Database Syst Rev | Earlier review of anticholinergics for neuroleptic-induced tardive dyskinesia |
+| [4571143](https://pubmed.ncbi.nlm.nih.gov/4571143/) | 1972 | RCT | Psychol Med | Amantadine vs orphenadrine vs placebo for phenothiazine-induced parkinsonism |
+| [8369232](https://pubmed.ncbi.nlm.nih.gov/8369232/) | 1993 | RCT | Schizophr Res | Placebo, orphenadrine and rising chlorpromazine doses on an attention task in chronic schizophrenia (two-year study) |
+| [3698889](https://pubmed.ncbi.nlm.nih.gov/3698889/) | 1986 | Clinical study | L'Encephale | In 22 schizophrenic patients on haloperidol, orphenadrine significantly reduced extrapyramidal symptoms, and withdrawal led to marked deterioration |
+| [2616635](https://pubmed.ncbi.nlm.nih.gov/2616635/) | 1989 | Naturalistic study | Pharmacopsychiatry | 44 schizophrenic outpatients on haloperidol plus orphenadrine assessed for residual parkinsonian, depressive and anticholinergic symptoms |
+| [324238](https://pubmed.ncbi.nlm.nih.gov/324238/) | 1977 | Clinical study | Acta Psychiatr Scand | In 118 patients on long-term neuroleptics, need for antiparkinsonian drugs depended on neuroleptic potency |
+| [12459931](https://pubmed.ncbi.nlm.nih.gov/12459931/) | 2003 | Preclinical | Psychopharmacology | Low-affinity NMDA channel blockers and disruption of prepulse inhibition in rats |
 
-For reference, the most relevant orphenadrine literature sits under schizophrenia (adjunct use for extrapyramidal symptoms): [4571143](https://pubmed.ncbi.nlm.nih.gov/4571143/) (1972 RCT vs amantadine and placebo), [29341071](https://pubmed.ncbi.nlm.nih.gov/29341071/) (2018 Cochrane review on anticholinergics for tardive dyskinesia) and [3698889](https://pubmed.ncbi.nlm.nih.gov/3698889/) (1986 haloperidol plus orphenadrine study).
+All of these concern side-effect management or pharmacology, not treatment of schizophrenia itself.
 
 ## US Market Information
 
-17 authorizations are on record; 5 main ones are shown. The records do not include approved indication text.
+All five US authorisations are generic applications (ANDAs) and all are cancelled. No approved indication text is available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA090585 | Orphenadrine Citrate (Sagent Pharmaceuticals) | Injection, solution | Not listed in the record |
-| ANDA040284 | Orphenadrine Citrate (A-S Medication Solutions) | Tablet, extended release | Not listed in the record |
-| ANDA040327 | Orphenadrine Citrate (Proficient Rx LP) | Tablet, extended release | Not listed in the record |
-| ANDA040284 | Orphenadrine Citrate (NuCare Pharmaceuticals) | Tablet, extended release | Not listed in the record |
-| ANDA040284 | Orphenadrine Citrate (Bryant Ranch Prepack) | Tablet, extended release | Not listed in the record |
-
-Available routes are oral (extended-release tablet) and injectable.
+| ANDA090585 | Orphenadrine Citrate (Sagent Pharmaceuticals) | Injection, solution | Not available (cancelled) |
+| ANDA040284 | Orphenadrine Citrate (A-S Medication Solutions) | Tablet, extended release | Not available (cancelled) |
+| ANDA040327 | Orphenadrine Citrate (Proficient Rx LP) | Tablet, extended release | Not available (cancelled) |
+| ANDA040463 | Orphenadrine Citrate (Hikma Pharmaceuticals USA Inc.) | Injection | Not available (cancelled) |
+| ANDA084779 | Orphenadrine Citrate (Actavis Pharma, Inc.) | Injection | Not available (cancelled) |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug-interaction records were found in the queried source.
+Package insert warnings and contraindications were not available in the data compiled for this report. Please refer to the package insert.
+
+- **Contraindicated conditions (knowledge-graph data, not label text):** Associations are listed for hypertension, liver failure and liver disease, kidney disease and impaired renal function, epilepsy, insomnia, gallbladder disease, peptic ulcer disease, benign prostatic hyperplasia, gout, substance abuse/dependence, thrombocytopenia, hemophilia, anaemia (including macrocytic), sudden cardiac arrest, heart conduction disease, myasthenia gravis and other neuromuscular junction disease, paracetamol poisoning, achalasia and megaesophagus, glaucoma, pyloric stenosis, bladder neck obstruction and pyoureter.
+- **Drug interactions:** 100 interactions were found. The ones identified as **Major** are:
+  - Morphine (including liposomal morphine)
+  - Potassium citrate
+  - Potassium chloride
+
+  Many **Moderate** interactions involve other anticholinergic or antimuscarinic drugs, including hyoscyamine, atropine, glycopyrronium, dicyclomine, clidinium, mepenzolate, methscopolamine and propantheline. Others are loperamide, bupropion, dronabinol, nabilone, eluxadoline, metoclopramide and opium.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The retinal dystrophy prediction rests on a graph score alone. There are no trials, and the retrieved literature is unrelated to orphenadrine. No plausible mechanistic link exists, and the other top-ranked predictions are similarly unsupported. Schizophrenia is the only prediction with drug-specific literature, and that literature concerns side-effect management, not disease treatment. At most it could be a research question, not a repurposing candidate.
+The top-ranked prediction, retinal dystrophy, has a high model score but no clinical trials, no literature and no identifiable mechanistic link, so it is most likely a knowledge-graph artifact. The same is true of the other genetic and developmental predictions. Schizophrenia is the only prediction with literature, but that evidence covers side-effect management rather than disease treatment, and it warrants only a research question. In addition, all US licences are cancelled and safety label data are missing.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications (needed before any safety screening)
-- Detailed mechanism of action data (for example from DrugBank)
-- Any direct preclinical evidence linking orphenadrine to retinal degeneration pathways; without it, deprioritize this indication
-- For schizophrenia, a defined question that accounts for anticholinergic burden, cognition and tardive dyskinesia risk
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism-of-action data from DrugBank
+- A defined mechanistic hypothesis and preclinical evidence for any genetic or ocular indication before further investment
+- For schizophrenia, evidence that orphenadrine affects the core disease and not only extrapyramidal side effects, weighed against the risks of cognitive worsening and tardive dyskinesia
+- Clarification of the commercial and regulatory pathway, since no US licence is currently active
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

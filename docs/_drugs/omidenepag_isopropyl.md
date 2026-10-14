@@ -29,38 +29,41 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Omidenepag Isopropyl: From Glaucoma / Ocular Hypertension to Pancreatitis
+# Omidenepag Isopropyl: From Ocular Hypertension/Glaucoma to Pancreatitis
 
 ## One-Sentence Summary
 
-Omidenepag isopropyl is a topical ophthalmic prodrug of a selective EP2 receptor agonist, marketed in the US as Omlonti for glaucoma and ocular hypertension.
-The TxGNN model predicts it may be effective for **pancreatitis**, but this is a graph-based prediction only, with **0 clinical trials** and **0 publications** supporting it.
+Omidenepag isopropyl is a topical ophthalmic prodrug originally used to lower intraocular pressure in ocular hypertension and glaucoma.
+The TxGNN model predicts it may be effective for **pancreatitis**, but there are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the computational score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Glaucoma / ocular hypertension (drug-class knowledge; the license record has no indication text) |
+| Original Indication | Ocular hypertension; glaucoma |
 | Predicted New Indication | Pancreatitis |
 | TxGNN Prediction Score | 99.76% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
+| US Market Status | Cancelled only (no active marketing authorization) |
 | Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Omidenepag isopropyl is a prodrug of a selective EP2 receptor agonist. EP2 activation raises intracellular cAMP. The drug is approved as an eye drop to lower intraocular pressure.
+Omidenepag isopropyl is a prodrug. Its active metabolite, omidenepag, is a selective EP2 receptor agonist. EP2 signaling raises intracellular cAMP and has anti-inflammatory and smooth-muscle-relaxing effects, which could plausibly bear on pancreatic inflammation. Detailed mechanism-of-action data are not currently available in the compiled data, so this reasoning is based on the known pharmacology of the drug class.
 
-Prostanoid signaling has been discussed in inflammation, which is the only loose conceptual link to pancreatitis. The supplied data contains no direct evidence connecting EP2 agonism to pancreatitis. Because the drug is applied to the eye, systemic exposure is very low, so it is unlikely to reach the pancreas at meaningful levels. The high score (0.998) therefore reflects knowledge-graph topology rather than demonstrated biology.
+The link between the original and new indications is weak. Glaucoma treatment relies on increasing aqueous humour outflow in the eye, while pancreatitis is an inflammatory disease of an internal organ. The drug is a topical eye drop with minimal systemic exposure, and no pancreatic data exist. The high TxGNN score (99.76%, model rank 6,557) is a computational prediction only.
 
-The other six predictions are weaker still, and all are L5 with no trials or literature:
+Other predicted indications in the data have similarly high scores but also lack any supporting trials or literature:
 
-- **Hyperphosphatemia:** no plausible link to EP2 agonism.
-- **Esophageal varices (with and without bleeding):** identical scores, so likely a duplicate. Portal hypertension is not obviously modulated by EP2 agonism.
-- **Blepharospasm:** the only anatomically plausible one, but it is a centrally driven focal dystonia of skeletal muscle. EP2-mediated smooth muscle relaxation does not address it.
-- **Familial visceral myopathy:** smooth muscle relaxation could be counterproductive in a hypomotility disorder.
-- **Alcoholic cardiomyopathy:** EP2 has been studied in cardiac remodeling preclinically, but nothing links this drug to alcohol-induced injury.
+| Rank | Predicted Indication | TxGNN Score | Evidence Level | Comment |
+|------|------|------|------|------|
+| 2 | Hyperphosphatemia | 99.73% | L5 | No plausible mechanistic link to phosphate homeostasis identified |
+| 3 | Esophageal varices without bleeding | 99.31% | L5 | Vasodilation could be counterproductive in portal hypertension |
+| 4 | Esophageal varices with bleeding | 99.31% | L5 | Same score as rank 3, likely the same graph signal; acute bleeding needs systemic therapy |
+| 5 | Blepharospasm | 99.27% | L5 | Anatomically close, but EP2 agonism has no established role in dystonia; prostaglandin analogs have periocular adverse effects |
+| 6 | Familial visceral myopathy | 99.19% | L5 | Would not address the underlying genetic defect |
+| 7 | Alcoholic cardiomyopathy | 99.16% | L5 | Only indirect preclinical EP2 rationale; cardiac exposure unlikely |
 
 ## Clinical Trial Evidence
 
@@ -74,24 +77,25 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA215092 | Omlonti (Ocuvex Therapeutics, Inc.) | Solution / drops | Indication text not provided in the record |
+| NDA215092 (cancelled) | Omlonti (Ocuvex Therapeutics, Inc.) | Solution/drops | Not specified in the available data |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug interactions were found in the queried data.
+Please refer to the package insert for safety information. No drug interactions were found in the data compiled for this report, and no disease-level contraindications were recorded.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trials or literature behind it and no supported mechanistic link. The topical ocular route also gives very low systemic exposure, so the high TxGNN score is not enough to justify moving forward.
+The pancreatitis prediction is supported only by a model score, with no clinical trials or publications (Evidence Level L5). The drug is a topical ocular product with minimal systemic exposure, and its only US authorization is cancelled. Safety and mechanism data are also incomplete, so the evaluation cannot move beyond the earliest screening stage.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, which are required before any safety screening
-- Detailed mechanism of action data, to test whether EP2 signaling is relevant to pancreatic inflammation
-- Preclinical or observational evidence linking EP2 agonism to pancreatitis
-- An assessment of route compatibility, since a systemic formulation would be needed to reach a non-ocular target
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism-of-action data for the active metabolite
+- Preclinical evidence (in vitro or animal models) that EP2 agonism affects pancreatic inflammation
+- Assessment of route compatibility, since a systemic formulation would likely be needed and none exists
+- Clarification of the cancelled NDA status and the reasons for it
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

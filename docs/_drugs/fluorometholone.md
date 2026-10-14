@@ -29,72 +29,105 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Fluorometholone: From Topical Ophthalmic Corticosteroid to Postinfectious Vasculitis
+# Fluorometholone: From Uveitis and Ocular Inflammation to Postinfectious Vasculitis
 
 ## One-Sentence Summary
 
-Fluorometholone is a topical corticosteroid eye drop, marketed in the US as Flarex, FML and FML Forte.
-The TxGNN model predicts it may be effective for **postinfectious vasculitis**, but **no clinical trials and no publications** currently support this specific prediction.
+Fluorometholone is a topical ophthalmic corticosteroid, originally used to treat uveitis, iridocyclitis, conjunctivitis and related eye inflammation.
+The TxGNN model predicts it may be effective for **postinfectious vasculitis**,
+but **no clinical trials and no publications** currently support this prediction, so it rests on model output alone.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Uveitis and other ocular inflammatory conditions (iridocyclitis, atopic/vernal conjunctivitis, corneal ulcer, among others). The market-authorization records compiled for this report contain no approved-indication text. |
 | Predicted New Indication | Postinfectious vasculitis |
-| TxGNN Prediction Score | 99.91% (model rank 3011) |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 7 licenses (3 distinct NDA numbers) |
+| TxGNN Prediction Score | 99.91% |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (all authorizations cancelled) |
+| Number of NDAs | 4 (4 cancelled, 0 currently valid) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available. Fluorometholone is a topical ophthalmic corticosteroid. Corticosteroids as a class suppress immune-mediated inflammation, and vasculitis after an infection is often immune-mediated. That is the only basis for the prediction.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Fluorometholone is a synthetic corticosteroid that acts on the glucocorticoid receptor (NR3C1), giving it anti-inflammatory and immunosuppressive effects. Its recognized use is treating inflammatory conditions of the eye surface and anterior segment.
 
-The link is weak. Fluorometholone is formulated as eye drops with minimal systemic exposure, whereas vasculitis is a systemic disease that usually needs systemic immunosuppression. The high TxGNN score reflects a pattern in the knowledge graph, not clinical proof.
+Corticosteroids are generally relevant to immune-mediated vasculitis, which is the basis of the model's prediction. However, there is an important practical barrier: fluorometholone is formulated only as an eye-drop suspension with low systemic penetration. Postinfectious vasculitis is a systemic disease, so a topical ocular product is unlikely to reach relevant exposure. The link is a model prediction only, with no clinical or literature support, and route compatibility with the new indication has not been established.
+
+### Other Predicted Indications Worth Noting
+
+The top-ranked prediction is weakly supported. Some lower-ranked predictions are more biologically plausible because they sit closer to the drug's known ocular use:
+
+| Rank | Predicted Indication | TxGNN Score | Evidence Level | Comment |
+|------|------|------|------|------|
+| 6 | Punctate epithelial keratoconjunctivitis | 99.89% | L4 | The most plausible candidate. Two indirect papers were found, neither testing fluorometholone. Steroids may worsen some infections. |
+| 9 | Lens-induced iridocyclitis | 99.82% | L4 | Effectively a subtype of an existing indication. Definitive treatment is usually surgical. |
+| 10 | Glaucomatocyclitic crisis | 99.82% | L4 | Steroids are standard for the inflammation, and fluorometholone tends to raise eye pressure less than other steroids. IOP monitoring is essential. |
+| 3 | Otitis externa | 99.90% | L5 | Mechanism plausible, but ear-canal use of an ophthalmic suspension is unvalidated. |
+
+Ranks 2, 4, 5, 7 and 8 (post-bacterial disorder, infective urethral stricture, post-infectious syndrome, infection-related hemolytic uremic syndrome, Chagas cardiomyopathy) are systemic or non-specific conditions with no plausible exposure from a topical eye drop and no supporting evidence.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for postinfectious vasculitis.
+
+For reference, two indirect papers were retrieved for the rank-6 prediction (punctate epithelial keratoconjunctivitis). Neither tests fluorometholone efficacy:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [34011737](https://pubmed.ncbi.nlm.nih.gov/34011737/) | 2021 | Review | Indian Journal of Ophthalmology | Characterizes the sequelae of microsporidial keratoconjunctivitis and outlines its management |
+| [35128186](https://pubmed.ncbi.nlm.nih.gov/35128186/) | 2021 | Cohort | Journal of Current Ophthalmology | Uses anterior segment OCT to describe the phases of epidemic keratoconjunctivitis and the effect of topical steroid on its course |
+
+---
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA019079 | Flarex | Suspension / drops | Harrow Eye, LLC |
-| NDA019079 | Flarex | Suspension / drops | Eyevance Pharmaceuticals |
-| NDA019216 | FML Forte | Suspension / drops | Allergan, Inc. |
-| NDA016851 | FML | Suspension / drops | Allergan, Inc. |
-| NDA016851 | Fluorometholone | Solution / drops | Pacific Pharma, Inc. |
+| NDA019079 | Flarex (Harrow Eye, LLC) | Suspension/drops | Not available (cancelled) |
+| NDA019216 | FML Forte (Allergan, Inc.) | Suspension/drops | Not available (cancelled) |
+| NDA016851 | FML (Allergan, Inc.) | Suspension/drops | Not available (cancelled) |
+| ANDA216348 | Fluorometholone ophthalmic suspension (Amneal Pharmaceuticals NY LLC) | Suspension/drops | Not available (cancelled) |
 
-The source data lists no approved indication text for these licenses. All listed forms are ophthalmic drops.
+All four authorizations are listed as cancelled, so no currently valid US product was found in the compiled data.
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug interaction records were found. Steroid eye drops can raise intraocular pressure, which is relevant to any ocular repurposing.
+- **Disease-level cautions (from knowledge-graph contraindication links, not label text):** herpes simplex virus keratitis, viral/fungal/other eye infections, ocular tuberculosis, open-angle glaucoma, ocular hypertension, diabetes mellitus, diabetic ketoacidosis, porphyria and related porphyrin disorders, G6PD deficiency, glycogen storage disease, cystinuria, galactosemia, conjunctivitis (disease) and corneal pigmentation. These should be verified against the official label.
+- **Drug Interactions:** The interaction screen returned 11 drug-pair entries, all with an unclassified severity level: doxycycline, salbutamol, cyclosporine, acetaminophen, digoxin, brimonidine, cephalexin, alendronic acid, acyclovir, diazepam and fenofibrate. Their clinical significance has not been graded.
+- Steroid use in infection-related conditions (such as the infectious predictions above) needs caution, as steroids may worsen some infections.
+
+Please refer to the package insert for full warnings and contraindications.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top prediction is supported only by the model score, with no trials or literature, and the mechanistic fit is weak for a systemic disease treated with a topical eye drop.
-
-Other predictions for this drug have somewhat more support and may be better research questions:
-- **Post-bacterial disorder:** a Phase 2 trial of adjunctive fluorometholone in bacterial corneal ulcers (NCT07308938, not yet recruiting) and a completed trachoma surgery adjunct study (NCT01949454).
-- **Punctate epithelial keratoconjunctivitis:** two indirect publications (PMID 34011737, 35128186).
+The prediction for postinfectious vasculitis is supported only by a model score (L5), with no trials or publications. A topical eye drop is also unlikely to treat a systemic vasculitis, and all US authorizations are cancelled.
 
 **To proceed, the following is needed:**
-- The package insert warnings and contraindications, parsed from the FDA label
-- Mechanism of action data (DrugBank)
-- A route-compatibility assessment (topical ocular vs. systemic vasculitis)
-- Any published evidence of fluorometholone in postinfectious vasculitis; without it, prioritize the ocular predictions above
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before use.*
+- FDA package insert warnings and contraindications (currently missing and blocking safety screening)
+- Detailed mechanism-of-action data
+- Evidence that a route and formulation can reach the target tissue for a systemic indication
+- Consider redirecting the evaluation toward ocular-adjacent predictions (punctate epithelial keratoconjunctivitis, lens-induced iridocyclitis, glaucomatocyclitic crisis), which are better aligned with the drug's known use and could be framed as research questions
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

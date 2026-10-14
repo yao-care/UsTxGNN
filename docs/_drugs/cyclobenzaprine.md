@@ -33,98 +33,92 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 ## One-Sentence Summary
 
-Cyclobenzaprine is an oral skeletal muscle relaxant, used for muscle spasm associated with acute, painful musculoskeletal conditions.
-The TxGNN model predicts it may be effective for **myofascial pain syndrome**.
-Of the **16 clinical trials** listed, most test a sublingual cyclobenzaprine product in fibromyalgia, a related but different condition. Only 1 small trial directly studies myofascial pain, and **no publications** were retrieved for this indication.
-
----
+Cyclobenzaprine is a centrally acting skeletal muscle relaxant. The TxGNN model predicts it may be effective for **myofascial pain syndrome**. The 10 clinical trials found are mostly indirect (largely fibromyalgia studies of a sublingual formulation), and **5 publications** include a few small randomized studies that bear more directly on myofascial pain.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Muscle spasm associated with acute, painful musculoskeletal conditions (taken from a trial description, because the license records list no indication text) |
+| Original Indication | Not available in the compiled data (the license records list no indication text) |
 | Predicted New Indication | Myofascial pain syndrome |
 | TxGNN Prediction Score | 99.09% |
-| Evidence Level | L2 per the Evidence Pack. This is generous: the Phase 2/3 and Phase 3 RCTs are in fibromyalgia, not myofascial pain, so direct evidence is closer to L4. |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (all shown listings are generic ANDAs) |
+| Evidence Level | L2 (see note under "Clinical Trial Evidence") |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 9 licenses (1 NDA, 8 ANDAs), all cancelled |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available from DrugBank in this pack. Based on the pack's mechanistic notes, cyclobenzaprine is a centrally acting muscle relaxant structurally related to tricyclic antidepressants. It acts on brainstem descending pathways with 5-HT2 antagonism, plus H1 and anticholinergic activity.
+Detailed mechanism-of-action data is not available in the compiled data. Based on known pharmacology, cyclobenzaprine is a centrally acting muscle relaxant structurally related to tricyclic antidepressants. It acts mainly in the brainstem, reducing tonic somatic motor activity through 5-HT2 antagonism, with additional antihistaminic and anticholinergic effects.
 
-Myofascial pain syndrome is a regional muscle pain condition, so a drug already used for painful muscle spasm is a plausible fit. The sedative and serotonergic effects may also help with the sleep disturbance that often accompanies chronic muscle pain.
+Myofascial pain syndrome involves muscle tenderness, trigger points and spasm. A drug that reduces muscle hyperactivity and modulates serotonergic pain pathways could plausibly relieve these symptoms, which is the link behind the prediction.
 
-Note that a graph score is not clinical evidence. Most of the supporting trials come from a low-dose sublingual product (TNX-102 SL) developed for fibromyalgia. Fibromyalgia is related to myofascial pain but is not the same condition. That product has reportedly been approved by the US FDA for fibromyalgia under the brand name TONMYA, according to a trial record.
-
----
+The large Phase 3 programme (TNX-102 SL, a sublingual cyclobenzaprine) targets **fibromyalgia**, not myofascial pain syndrome. It supports cyclobenzaprine's pain-related activity only indirectly. The direct evidence is limited to small randomized studies of jaw pain and acute myofascial strain.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT05273749](https://clinicaltrials.gov/study/NCT05273749) | Phase 3 | Completed | 457 | 14-week placebo-controlled RCT of TNX-102 SL 5.6 mg at bedtime in fibromyalgia |
-| [NCT04172831](https://clinicaltrials.gov/study/NCT04172831) | Phase 3 | Completed | 503 | Same design and program, fibromyalgia |
-| [NCT04508621](https://clinicaltrials.gov/study/NCT04508621) | Phase 3 | Completed | 514 | Same design and program, fibromyalgia |
-| [NCT02436096](https://clinicaltrials.gov/study/NCT02436096) | Phase 3 | Completed | 519 | 12-week placebo-controlled RCT of TNX-102 SL 2.8 mg in fibromyalgia |
-| [NCT01903265](https://clinicaltrials.gov/study/NCT01903265) | Phase 2/3 | Completed | 205 | Phase 2b placebo-controlled RCT, 12 weeks, TNX-102 SL 2.8 mg in fibromyalgia |
-| [NCT02589275](https://clinicaltrials.gov/study/NCT02589275) | Phase 3 | Completed | 375 | 3-month open-label extension for long-term safety and efficacy in fibromyalgia (uncontrolled) |
-| [NCT00635037](https://clinicaltrials.gov/study/NCT00635037) | N/A | Completed | 30 | Acupuncture vs trigger point injection combined with dipyrone and cyclobenzaprine in myofascial pain. Small, and cyclobenzaprine is part of a combination. |
-| [NCT01041495](https://clinicaltrials.gov/study/NCT01041495) | Phase 4 | Terminated | 37 | Cyclobenzaprine ER augmentation for fibromyalgia fatigue and muscle pain. Underpowered. |
-| [NCT04704297](https://clinicaltrials.gov/study/NCT04704297) | Phase 4 | Recruiting | 180 | Trigger point injection for low-back myofascial pain. Cyclobenzaprine is not the studied drug. |
-| [NCT01921296](https://clinicaltrials.gov/study/NCT01921296) | Phase 2 | Terminated | 2 | Cyclobenzaprine for sleep disturbance, fatigue and musculoskeletal symptoms in breast cancer patients on aromatase inhibitors. Too small to inform efficacy. |
+| [NCT04704297](https://clinicaltrials.gov/study/NCT04704297) | Phase 4 | Recruiting | 180 | Trigger point injection for low back myofascial pain; cyclobenzaprine is probably not the studied drug |
+| [NCT02436096](https://clinicaltrials.gov/study/NCT02436096) | Phase 3 | Completed | 519 | Placebo-controlled trial of TNX-102 SL 2.8 mg at bedtime in fibromyalgia (12 weeks) |
+| [NCT04508621](https://clinicaltrials.gov/study/NCT04508621) | Phase 3 | Completed | 514 | Placebo-controlled trial of TNX-102 SL 5.6 mg in fibromyalgia (14 weeks) |
+| [NCT04172831](https://clinicaltrials.gov/study/NCT04172831) | Phase 3 | Completed | 503 | Placebo-controlled trial of TNX-102 SL 5.6 mg in fibromyalgia (14 weeks) |
+| [NCT05273749](https://clinicaltrials.gov/study/NCT05273749) | Phase 3 | Completed | 457 | Placebo-controlled trial of TNX-102 SL 5.6 mg in fibromyalgia (14 weeks) |
+| [NCT02589275](https://clinicaltrials.gov/study/NCT02589275) | Phase 3 | Completed | 375 | 3-month open-label extension of TNX-102 SL in fibromyalgia (safety and tolerability) |
+| [NCT01903265](https://clinicaltrials.gov/study/NCT01903265) | Phase 2/3 | Completed | 205 | Placebo-controlled trial of TNX-102 SL 2.8 mg in fibromyalgia (12 weeks) |
+| [NCT02015234](https://clinicaltrials.gov/study/NCT02015234) | Phase 3 | Completed | 158 | 12-month open-label extension of TNX-102 SL in fibromyalgia (long-term safety) |
+| [NCT02829814](https://clinicaltrials.gov/study/NCT02829814) | Phase 3 | Terminated | 51 | Placebo-controlled TNX-102 SL trial in fibromyalgia, terminated early |
+| [NCT01041495](https://clinicaltrials.gov/study/NCT01041495) | Phase 4 | Terminated | 37 | Cyclobenzaprine ER (Amrix) augmentation for fibromyalgia fatigue and muscle pain; small and terminated |
 
-The registered conditions of the TNX-102 SL trials should be verified. The pack flags that they appear to target fibromyalgia rather than myofascial pain.
-
----
+**Note on the evidence level:** The pipeline assigned L2. This rests on completed Phase 3 trials that are almost all in fibromyalgia, so the level overstates the support for myofascial pain syndrome specifically. None of the listed trials directly tests cyclobenzaprine in myofascial pain syndrome.
 
 ## Literature Evidence
 
-Currently no related literature available for myofascial pain syndrome.
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [12764337](https://pubmed.ncbi.nlm.nih.gov/12764337/) | 2003 | RCT | Annals of Emergency Medicine | Cyclobenzaprine added to ibuprofen vs ibuprofen alone in emergency department patients with acute myofascial strain |
+| [11889661](https://pubmed.ncbi.nlm.nih.gov/11889661/) | 2002 | RCT | Journal of Orofacial Pain | Clonazepam or cyclobenzaprine added to patient education and self-care for jaw pain on awakening |
+| [24822235](https://pubmed.ncbi.nlm.nih.gov/24822235/) | 2014 | RCT | Journal of Oral & Facial Pain and Headache | Cyclobenzaprine, tizanidine or placebo added to self-care in myofascial jaw pain |
+| [20673246](https://pubmed.ncbi.nlm.nih.gov/20673246/) | 2011 | RCT | Pain Practice | Acupuncture compared with trigger point injection combined with cyclobenzaprine and dipyrone for myofascial trigger point pain |
+| [3464212](https://pubmed.ncbi.nlm.nih.gov/3464212/) | 1986 | Review | American Journal of Medicine | Clinical overview of fibrositis, a musculoskeletal pain disorder with tender points |
 
----
+The abstracts available for this report state the study objectives but not the results, so efficacy outcomes are not summarized here.
 
 ## US Market Information
 
-The license records contain no approved-indication text. Five of the 20 listings are shown.
+All nine US licenses on record are cancelled. The records contain no approved-indication text.
 
-| Authorization Number | Product Name | Dosage Form |
-|---------|------|------|
-| ANDA091281 | Cyclobenzaprine Hydrochloride (Asclemed USA, Inc.) | Capsule, extended release |
-| ANDA078643 | Cyclobenzaprine Hydrochloride (Rising Pharma Holdings, Inc.) | Tablet, film coated |
-| ANDA077797 | Cyclobenzaprine Hydrochloride (Bryant Ranch Prepack) | Tablet, film coated |
-| ANDA213324 | Cyclobenzaprine Hydrochloride (Asclemed USA, Inc.) | Tablet, film coated |
-| ANDA077563 | Cyclobenzaprine Hydrochloride (Doc Rx) | Tablet, film coated |
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA021777 | AMRIX (Cephalon, LLC) | Capsule, extended release | Not listed |
+| ANDA091281 | Cyclobenzaprine Hydrochloride (Asclemed USA) | Capsule, extended release | Not listed |
+| ANDA207314 | Cyclobenzaprine Hydrochloride (Macleods) | Capsule, extended release | Not listed |
+| ANDA078643 | Cyclobenzaprine Hydrochloride (Rising Pharma) | Tablet, film coated | Not listed |
+| ANDA077797 | Cyclobenzaprine Hydrochloride (Bryant Ranch Prepack) | Tablet, film coated | Not listed |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Disease associations from the knowledge graph (not label text):** The TxGNN knowledge graph links cyclobenzaprine with contraindications in liver failure, glaucoma (including open-angle glaucoma), hyperthyroidism (Graves disease, thyrotoxicosis), sudden cardiac arrest, and heart conduction disease (atrioventricular block, heart block).
+- **Drug Interactions:** The data lists 100 interactions; the sample reviewed shows these main ones:
+  - **Major:** bupropion, morphine, potassium citrate, fenfluramine, dexfenfluramine
+  - **Moderate:** anticholinergic agents (atropine, hyoscyamine, glycopyrronium, dicyclomine, clidinium, mepenzolate, methscopolamine), loperamide, aprepitant, dronabinol, eluxadoline, picosulfuric acid, polyethylene glycol with electrolytes, glycerol phenylbutyrate
 
----
+Please refer to the package insert for official warnings and contraindications, which were not available for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The strongest trials (four completed Phase 3 RCTs and one Phase 2/3 RCT) are in fibromyalgia, not myofascial pain. The only trial that directly involves myofascial pain is small (n=30) and tests cyclobenzaprine only as part of a combination. No literature supports this indication, and the package insert safety data is missing, so safety screening cannot proceed.
+The TxGNN score is high (99.09%), and the mechanism is plausible. However, the large Phase 3 trials are in fibromyalgia, and the direct evidence in myofascial pain consists of a few small, older randomized studies. In addition, all US licenses are cancelled, and the label safety data is missing. The case for proceeding is therefore not yet established.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications from the FDA label
-- Formal mechanism-of-action data from DrugBank
-- Verification of the registered conditions for the TNX-102 SL trials
-- A myofascial-pain-specific RCT, or a literature review of cyclobenzaprine in myofascial pain
-- A route and formulation compatibility assessment (oral vs sublingual)
-
-**Other predictions:** Neuralgia (score 99.08%) has only indirect evidence from multi-ingredient topical products and reviews, so it stays on Hold at evidence level L4. Papillary conjunctivitis (score 99.08%) has no trials or literature at all (L5). Its anticholinergic effects may even worsen ocular symptoms, so it is also on Hold.
-
-*This report is for research reference only and does not constitute medical advice. Drug repurposing candidates require clinical validation before use.*
+- Obtain and review the FDA package insert for warnings, contraindications and the original indication
+- Obtain detailed mechanism-of-action data from DrugBank
+- Review the full text of the four randomized studies (PMIDs 12764337, 11889661, 24822235, 20673246) to assess efficacy and quality
+- Confirm whether any trial directly tests cyclobenzaprine in myofascial pain syndrome, rather than fibromyalgia
+- Clarify the current US regulatory and market status, since all listed licenses are cancelled
+- Assess the interaction and anticholinergic risks, especially for older patients and those with glaucoma, thyroid or cardiac conduction disease
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

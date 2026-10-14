@@ -29,13 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-# Elosulfase Alfa: From Morquio A Syndrome to Scheie Syndrome
+# Elosulfase Alfa: From Mucopolysaccharidosis to Scheie Syndrome
 
 ## One-Sentence Summary
 
-Elosulfase alfa (VIMIZIM) is an enzyme replacement therapy, recombinant GALNS, used for Morquio A syndrome (MPS IVA).
-The TxGNN model predicts it may be effective for **Scheie syndrome** (attenuated MPS I), but there are **0 clinical trials** and only **2 general MPS cohort publications**, and none of the evidence tests the drug in this disease.
-The high score most likely reflects the two diseases' shared MPS class in the knowledge graph rather than a real drug-disease link.
+Elosulfase alfa is an enzyme replacement therapy originally used to treat mucopolysaccharidosis (specifically Morquio A syndrome, MPS IVA).
+The TxGNN model predicts it may be effective for **Scheie syndrome**, but **no clinical trials and no publications** directly support this prediction.
+The prediction rests on model scoring alone and should be treated as a computational hypothesis.
 
 ---
 
@@ -43,11 +43,11 @@ The high score most likely reflects the two diseases' shared MPS class in the kn
 
 | Item | Content |
 |------|------|
-| Original Indication | Morquio A syndrome (MPS IVA); the US license text is blank in the source data, so this is taken from the literature and mechanism notes |
+| Original Indication | Mucopolysaccharidosis (Morquio A syndrome, MPS IVA) |
 | Predicted New Indication | Scheie syndrome |
-| TxGNN Prediction Score | 99.90% (model rank 3363) |
+| TxGNN Prediction Score | 99.90% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
+| US Market Status | Cancelled only |
 | Number of NDAs | 1 (BLA125460) |
 | Recommended Decision | Hold |
 
@@ -55,42 +55,65 @@ The high score most likely reflects the two diseases' shared MPS class in the kn
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the source record. Elosulfase alfa is a recombinant N-acetylgalactosamine-6-sulfatase (GALNS). It degrades **keratan sulfate** and **chondroitin-6-sulfate**, which build up in Morquio A syndrome.
+Currently, detailed mechanism of action data is not available. Based on known information, elosulfase alfa is a recombinant form of N-acetylgalactosamine-6-sulfatase (GALNS). This enzyme degrades keratan sulfate and chondroitin-6-sulfate, which accumulate in Morquio A syndrome.
 
-Scheie syndrome is a different disease. It is the attenuated form of MPS I, caused by IDUA (alpha-L-iduronidase) deficiency, and it accumulates **dermatan sulfate and heparan sulfate**. Elosulfase alfa does not act on these substrates, so **there is no substrate overlap** and no direct mechanistic rationale.
+Scheie syndrome is an attenuated form of MPS I. It is caused by a deficiency of a different enzyme, alpha-L-iduronidase, so dermatan sulfate and heparan sulfate accumulate. The missing enzyme and the stored substrates both differ from those elosulfase alfa acts on, so there is **no direct mechanistic rationale**. The high score most likely reflects shared network proximity among mucopolysaccharidoses and lysosomal storage diseases in the knowledge graph, not a biological link.
 
-The prediction therefore looks like a graph-proximity artifact: both diseases are mucopolysaccharidoses, and the model likely links them through that shared class. No clinical data support the prediction.
+### Other Predicted Indications Reviewed
+
+| Rank | Predicted Indication | Score | Evidence Level | Assessment |
+|------|------|------|------|------|
+| 2 | Lysosomal storage disease with skeletal involvement | 99.59% | L4 | Overlaps with the approved MPS IVA use; the publications support the original indication, not a new one |
+| 3 | Hurler syndrome | 99.43% | L4 | Different enzyme deficiency (MPS I); only an indirect Phase 1 prenatal ERT platform trial |
+| 4 | Sanfilippo syndrome | 99.42% | L4 | 13 publications, almost all on Morquio A; mainly central nervous system disease, and large enzymes do not cross the blood-brain barrier |
+| 5–9 | Rare ocular, neuromuscular and congenital syndromes | 99.0–99.1% | L5 | No plausible mechanism; likely knowledge-graph artifacts |
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+No clinical trials are registered for the top-ranked prediction, Scheie syndrome.
+
+For reference, the only trial linked to any of the predictions is listed below (under Hurler syndrome, rank 3). It was graded low relevance (C):
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT04532047](https://clinicaltrials.gov/study/NCT04532047) | Phase 1 | Recruiting | 10 | PEARL: prenatal enzyme replacement therapy platform for lysosomal storage disorders. It does not show that elosulfase alfa is tested in Hurler syndrome and provides no efficacy evidence for this drug. |
 
 ---
 
 ## Literature Evidence
 
+Currently no related literature is available for Scheie syndrome.
+
+The publications below were linked to other predictions. They concern Morquio A (the original indication) and therefore **do not support repurposing**. They are included for context on the drug's established profile:
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [35005816](https://pubmed.ncbi.nlm.nih.gov/35005816/) | 2022 | Cohort | Human Mutation | Molecular characterization of 302 Iranian MPS patients (289 families) using NGS panel and Sanger sequencing. A diagnostic and genetic study with no treatment data. |
-| [18584975](https://pubmed.ncbi.nlm.nih.gov/18584975/) | 2009 | Cohort | Pathologie-Biologie | Clinical features and consanguinity in MPS I and MPS IVA patients in Tunisia. Descriptive only, with no evaluation of elosulfase alfa. |
-
-Both papers are general MPS epidemiology or genetics studies. Neither tests elosulfase alfa in Scheie syndrome.
+| [24810369](https://pubmed.ncbi.nlm.nih.gov/24810369/) | 2014 | RCT | J Inherit Metab Dis | Phase 3 randomised placebo-controlled study of efficacy and safety in Morquio A |
+| [25284089](https://pubmed.ncbi.nlm.nih.gov/25284089/) | 2015 | RCT post-hoc analysis | Mol Genet Metab | Multi-domain impact in the pivotal 24-week phase 3 trial |
+| [27380995](https://pubmed.ncbi.nlm.nih.gov/27380995/) | 2016 | Long-term extension | Mol Genet Metab | Long-term endurance and safety over 96 weeks (120 weeks from baseline) |
+| [27553181](https://pubmed.ncbi.nlm.nih.gov/27553181/) | 2016 | Long-term extension | J Inherit Metab Dis | Long-term respiratory function outcomes |
+| [28535791](https://pubmed.ncbi.nlm.nih.gov/28535791/) | 2017 | Long-term extension | Orphanet J Rare Dis | Outcomes in adults with Morquio A compared with a natural history cohort |
+| [25487082](https://pubmed.ncbi.nlm.nih.gov/25487082/) | 2015 | Immunogenicity analysis | Clin Ther | Immunogenicity profile from the phase III MOR-004 trial |
+| [25234648](https://pubmed.ncbi.nlm.nih.gov/25234648/) | 2014 | Clinical pharmacology | Clin Pharmacokinet | Pharmacokinetics and pharmacodynamics in Morquio A patients |
+| [41088244](https://pubmed.ncbi.nlm.nih.gov/41088244/) | 2025 | Review | Orphanet J Rare Dis | Recent advances in MPS IVA treatment; ERT is currently the only approved therapy |
+| [42363262](https://pubmed.ncbi.nlm.nih.gov/42363262/) | 2026 | Cohort | Orphanet J Rare Dis | Long-term follow-up and response to elosulfase alfa in a Czech MPS IVA cohort |
+| [42279040](https://pubmed.ncbi.nlm.nih.gov/42279040/) | 2026 | Cohort | J Clin Med | Growth patterns in MPS IVA and MPS IIIA, including association with ERT |
 
 ---
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA125460 | VIMIZIM | Injection, solution, concentrate (injectable) | BioMarin Pharmaceutical Inc. |
+| BLA125460 | VIMIZIM (BioMarin Pharmaceutical Inc.) | Injection, solution, concentrate | Not specified in the compiled data (status: cancelled) |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Please refer to the package insert for safety information. No warnings, contraindications or drug interaction records were available in the data compiled for this report.
 
 ---
 
@@ -99,14 +122,14 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-Elosulfase alfa cleaves different substrates (keratan sulfate and chondroitin-6-sulfate) from those that accumulate in Scheie syndrome (dermatan and heparan sulfate). There are no trials and no supporting literature, so this is an L5 model-only prediction with a likely graph artifact behind the score.
+The top prediction, Scheie syndrome, has no clinical trial or literature support (evidence level L5). Its biology is also mismatched: the enzyme deficiency and stored substrates differ from those elosulfase alfa addresses. The literature linked to other predictions concerns the original Morquio A indication, so it does not constitute repurposing evidence. The US market status is also listed as cancelled only.
 
 **To proceed, the following is needed:**
-- Preclinical evidence, such as in vitro or animal data, that GALNS can affect dermatan or heparan sulfate turnover. Absent that, the mechanism argues against pursuing this indication.
-- Package insert safety data (warnings and contraindications), which are currently missing.
-- Detailed mechanism of action data from DrugBank.
-
-**Note on other predictions:** The rank 2 prediction, "lysosomal storage disease with skeletal involvement," includes Morquio A syndrome. That is elosulfase alfa's own approved use, so it is on-label rather than repurposing. Evidence there supports Morquio A only and should not be extended to other skeletal lysosomal storage diseases without disease-specific data.
+- Mechanism of action data, including any evidence of activity against dermatan or heparan sulfate substrates
+- Preclinical or in vitro evidence that elosulfase alfa has any effect in alpha-L-iduronidase deficiency models
+- FDA package insert warnings and contraindications to enable safety screening (currently a blocking gap)
+- Clarification of the US regulatory status, since the license is recorded as cancelled
+- Confirmation of the approved indication text for BLA125460
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

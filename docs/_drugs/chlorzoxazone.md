@@ -29,33 +29,41 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-# Chlorzoxazone: From Skeletal Muscle Relaxant Use to Migraine Disorder
+# Chlorzoxazone: From Muscle Relaxation (Original Indication Not Recorded) to Migraine Disorder
 
 ## One-Sentence Summary
 
-Chlorzoxazone is an oral, centrally acting skeletal muscle relaxant that is marketed in the US as generic tablets.
-The TxGNN model predicts it may be effective for **migraine disorder**, but there are **0 registered clinical trials** and only **3 indirect publications**, none of which studies chlorzoxazone in migraine.
-The prediction is best treated as a research question, not clinical evidence.
+Chlorzoxazone is a centrally acting skeletal muscle relaxant, but the data compiled for this report contain no recorded approved indication text.
+The TxGNN model predicts it may be effective for **migraine disorder**, with a very high score (99.73%).
+However, there are **0 clinical trials** and only **3 indirect publications** (none migraine-specific), so the prediction currently rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Skeletal muscle relaxant use (label indication text is not included in the provided US license records) |
+| Original Indication | Not available (no indication text in the compiled license records) |
 | Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 99.73% |
-| Evidence Level | L4 (preclinical/mechanistic signal only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 authorizations (all listed examples are generic ANDAs) |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 10 (all ANDA generic applications, all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the DrugBank record provided. Based on the available information, chlorzoxazone is a centrally acting muscle relaxant that is known to activate Ca²⁺-activated K⁺ channels (SK/IK). That is the only mechanistic link to migraine.
+Detailed mechanism of action data is not available in the data compiled for this report. Chlorzoxazone is known as a skeletal muscle relaxant, and it is also known to activate Ca²⁺-dependent K⁺ channels (SK/IK/BK).
 
-One preclinical study (PMID 23115190) found that activators of Ca²⁺-dependent K⁺ channels reduced ataxia caused by enhanced CaV2.1 calcium currents in mutant mice. CaV2.1 dysfunction (the *CACNA1A* gene) is also implicated in familial hemiplegic migraine. This suggests a plausible channelopathy-based hypothesis: modulating K⁺ channels might counterbalance CaV2.1 hyperactivity.
+The only mechanistic thread is indirect. A 2012 mouse study of a CaV2.1 (CACNA1A) mutation showed that Ca²⁺-dependent K⁺-channel activators alleviated cerebellar ataxia. CACNA1A mutations are also linked to familial hemiplegic migraine, so channelopathy biology could connect chlorzoxazone to migraine. This is preclinical-level reasoning only. The retrieved papers address cerebellar and vestibular pharmacotherapy, vertigo, and an ataxia animal model. None tests chlorzoxazone in migraine, and no migraine-specific clinical data exist.
 
-This is only a hypothesis. The study is in mice and does not involve chlorzoxazone or migraine patients. The two vertigo and ataxia reviews are background only. The 99.73% TxGNN score is a computational prediction from the knowledge graph, not proof of efficacy.
+Other high-scoring predictions have equally weak support:
+
+| Predicted Indication | TxGNN Score | Evidence Level | Note |
+|------|------|------|------|
+| Migraine with brainstem aura | 99.66% | L5 | No trials or literature; same speculative channel link |
+| Migraine with or without aura, susceptibility to | 99.38% | L5 | A genetic susceptibility phenotype, not a treatable indication |
+| Pulmonary hypertension | 99.31% | L5 | No trials or literature; speculative vascular K⁺ channel link |
+| Rheumatoid arthritis | 99.05% | L4 | Possible adjunctive symptom relief for spasm and pain only; historical and indirect literature |
+| Nephrogenic syndrome of inappropriate antidiuresis, atrophoderma vermiculata, ulerythema ophryogenesis, kyphoscoliotic heart disease | 99.07%–99.68% | L5 | Prediction only; no plausible mechanistic rationale |
 
 ## Clinical Trial Evidence
 
@@ -63,46 +71,53 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
+None of the papers below tests chlorzoxazone in migraine.
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [23115190](https://pubmed.ncbi.nlm.nih.gov/23115190/) | 2012 | Preclinical/Animal | J Neurosci | In *Cacna1a* S218L mutant mice, Ca²⁺-dependent K⁺-channel activators alleviated ataxia caused by enhanced CaV2.1 currents. CACNA1A mutations are linked to ataxia, hemiplegic migraine and epilepsy. |
-| [27083881](https://pubmed.ncbi.nlm.nih.gov/27083881/) | 2016 | Review | J Neurol | Overview of drug treatment for cerebellar and central vestibular disorders (e.g., 4-aminopyridine for downbeat nystagmus). Background only. |
-| [24000301](https://pubmed.ncbi.nlm.nih.gov/24000301/) | 2013 | Review | Dtsch Arztebl Int | Treatment and natural course of peripheral and central vertigo. Vestibular migraine accounts for about 11.4% of cases. Background only. |
+| [27083881](https://pubmed.ncbi.nlm.nih.gov/27083881/) | 2016 | Review | Journal of Neurology | Pharmacotherapy of cerebellar and central vestibular disorders (e.g., 4-aminopyridine for downbeat nystagmus); no migraine data on chlorzoxazone |
+| [24000301](https://pubmed.ncbi.nlm.nih.gov/24000301/) | 2013 | Review | Deutsches Ärzteblatt International | Treatment and natural course of vertigo; vestibular migraine accounts for 11.4% of cases |
+| [23115190](https://pubmed.ncbi.nlm.nih.gov/23115190/) | 2012 | Preclinical (mouse) | Journal of Neuroscience | Ca²⁺-dependent K⁺-channel activators alleviated ataxia in CaV2.1 mutant mice, an indirect link to migraine channelopathy |
 
-None of these papers evaluates chlorzoxazone in migraine.
+For the lower-ranked rheumatoid arthritis prediction, the compiled literature includes a 2012 Cochrane review of muscle relaxants for pain in RA ([22258993](https://pubmed.ncbi.nlm.nih.gov/22258993/)), which noted a paucity of supporting evidence. It also includes historical clinical reports from 1962 and 1970, and in vitro studies from 1976. There are no registered trials and no modern RCTs.
 
 ## US Market Information
 
-Five of the 20 authorizations are shown. All are oral tablets named Chlorzoxazone. The provided records do not include approved indication text.
+No approved indication text is recorded for any license. All 10 licenses are generic oral tablets with cancelled status.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA089859 | Chlorzoxazone | Tablet | Bryant Ranch Prepack |
-| ANDA089859 | Chlorzoxazone | Tablet | Actavis Pharma, Inc. |
-| ANDA212743 | Chlorzoxazone | Tablet | Endo USA, Inc. |
-| ANDA214702 | Chlorzoxazone | Tablet | Lifsa Drugs LLC |
-| ANDA089853 | Chlorzoxazone | Tablet | REMEDYREPACK INC. |
+| ANDA089859 | Chlorzoxazone (Bryant Ranch Prepack) | Tablet | Not recorded |
+| ANDA212743 | Chlorzoxazone (Endo USA, Inc.) | Tablet | Not recorded |
+| ANDA214702 | Chlorzoxazone (Lifsa Drugs LLC) | Tablet | Not recorded |
+| ANDA089853 | Chlorzoxazone (REMEDYREPACK INC.) | Tablet | Not recorded |
+| ANDA215158 | Chlorzoxazone (Happy Robin, LLC) | Tablet | Not recorded |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Disease-level contraindication signals (knowledge graph, not label text)**: liver failure, liver disease, gallbladder disease, substance abuse/dependence, drug-induced liver injury, and paracetamol poisoning.
+- **Drug Interactions**: 72 interactions were identified. The main ones are:
+  - **Major**: morphine, liposomal morphine
+  - **Moderate**: dronabinol, metoclopramide, nabilone, naltrexone, opium, sibutramine, ethanol, promethazine
+  - **Unknown severity**: doxycycline, metformin, omeprazole, lansoprazole, prednisone, simvastatin, ranitidine, bupropion, folic acid, warfarin
+
+  The major and moderate items are mostly additive central nervous system depressant combinations; this should be confirmed against the full interaction records.
+
+Please refer to the package insert for warnings and contraindications, as label-level data were not available.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-There are no clinical trials and no studies of chlorzoxazone in migraine. The only support is a preclinical K⁺-channel/CaV2.1 hypothesis plus the TxGNN score. This is a research question, not a candidate ready for clinical development.
+The prediction is supported only by the model score (L5). There are no clinical trials and no migraine-specific literature, and the mechanistic link through K⁺ channel activation is indirect and preclinical. All US licenses are cancelled, no original indication is recorded, and label-level safety data are missing.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Confirmed mechanism-of-action data from DrugBank, including SK/IK channel activity and its relevance to CaV2.1-related migraine
-- Preclinical or mechanistic studies testing chlorzoxazone directly in migraine models, especially familial hemiplegic migraine
-- Confirmed US label indication text
-
-Among the other predicted indications, rheumatoid arthritis has the most literature. It is limited to old, uncontrolled reports and a 2012 Cochrane review of muscle relaxants for RA pain, whose conclusions need manual review. Any role there would be symptomatic pain and spasm relief, not disease modification.
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism of action data, for example from DrugBank
+- Preclinical or early clinical evidence of chlorzoxazone in migraine models, or K⁺ channel modulator data relevant to migraine
+- Review of the hepatic safety signals, given the liver-related contraindications, and of the central nervous system depressant interactions
+- Clarification of the current regulatory and market situation, since all licenses are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

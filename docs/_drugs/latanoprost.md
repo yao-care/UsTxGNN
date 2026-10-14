@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Latanoprost
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 839
-evidence_level: L2
+evidence_level: L5
 indication_count: 10
 ---
 
 # Latanoprost
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,39 +29,39 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Latanoprost: From Open-Angle Glaucoma and Ocular Hypertension to Primary Hereditary Glaucoma
+# Latanoprost: From Open-Angle Glaucoma to Primary Hereditary Glaucoma
 
 ## One-Sentence Summary
 
-Latanoprost is a prostaglandin F2-alpha analogue eye drop, used to lower intraocular pressure in adult glaucoma.
+Latanoprost is a prostaglandin eye drop originally used to treat open-angle glaucoma and ocular hypertension.
 The TxGNN model predicts it may be effective for **primary hereditary glaucoma**,
-with **1 completed Phase 2 clinical trial** and **no publications** currently supporting this direction.
+but **0 clinical trials** and **0 publications** are currently available to support this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Adult open-angle glaucoma and ocular hypertension (inferred from the mechanistic rationale; the license records list no indication text, so confirm against the label) |
+| Original Indication | Open-angle glaucoma; ocular hypertension |
 | Predicted New Indication | Primary hereditary glaucoma |
 | TxGNN Prediction Score | 99.88% |
-| Evidence Level | L2 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 17 (the sampled licenses are generic ANDAs) |
-| Recommended Decision | Proceed with Guardrails |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 10 (all cancelled; includes 3 NDAs and 7 ANDAs) |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the record. Latanoprost is an FP-receptor agonist. It lowers intraocular pressure by increasing uveoscleral outflow of aqueous humour.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacological knowledge, latanoprost is a prostaglandin F2-alpha analog that lowers intraocular pressure (IOP) by increasing uveoscleral outflow of aqueous humour.
 
-Glaucoma of any subtype involves optic neuropathy driven by intraocular pressure, so lowering pressure is the shared treatment goal. Primary hereditary glaucoma is therefore an extension to a genetic or congenital subtype, not a new mechanism. The pediatric trial below tests this in children whose glaucoma did not respond to surgery.
+Hereditary glaucoma is also characterised by elevated IOP, so an IOP-lowering mechanism is plausible. The very high TxGNN score is probably driven largely by the drug's proximity to the approved glaucoma indications in the knowledge graph, rather than by independent evidence.
+
+Caution is needed. Primary congenital forms of glaucoma are typically managed surgically, and prostaglandin analogs are reported to have variable efficacy in paediatric patients. This is background knowledge, not part of the compiled evidence.
+
+Other predictions for this drug (ranked by score) are weaker. Hair-growth conditions (hypotrichosis simplex of the scalp, congenital hypotrichosis milia) have a biologically plausible link, since prostaglandin F2-alpha analogs stimulate hair growth. Vascular, thoracic outlet, gastric and lymphatic conditions (visceral calciphylaxis, thoracic outlet syndromes, angiodysplasia of stomach, blue toe syndrome, lymphangiectasis) have no credible mechanistic link and are likely knowledge-graph artifacts. None has any supporting trials or literature.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT01527682](https://clinicaltrials.gov/study/NCT01527682) | Phase 2 | Completed | 37 | Latanoprost and dorzolamide in primary pediatric glaucoma refractory to surgery. The study measured the ocular hypotensive effect and safety (2009-07 to 2016-11). No efficacy results were provided. |
-
-The trial is a small combination-regimen study, so the latanoprost-specific effect cannot be separated out. The population (for example, primary congenital or hereditary glaucoma) is also not fully confirmed.
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
@@ -69,36 +69,38 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|------|
-| ANDA091449 | Latanoprost | Solution | Sandoz Inc |
-| ANDA218257 | Latanoprost | Solution/Drops | Sagent Pharmaceuticals |
-| ANDA091449 | Latanoprost | Solution | A-S Medication Solutions |
-| ANDA202442 | Latanoprost | Solution | Rising Pharma Holdings, Inc. |
-| ANDA218257 | Latanoprost | Solution/Drops | Glenmark Pharmaceuticals Inc |
+All 10 listed authorizations are cancelled. No approved-indication text was available for any of them.
+
+| Authorization Number | Product Name | Dosage Form | Status |
+|---------|------|------|-----------|
+| ANDA091449 | Latanoprost (Sandoz Inc) | Solution | Cancelled |
+| ANDA218257 | Latanoprost (Sagent Pharmaceuticals) | Solution/drops | Cancelled |
+| ANDA202442 | Latanoprost (Rising Pharma Holdings) | Solution | Cancelled |
+| ANDA201786 | Latanoprost (Somerset Therapeutics) | Solution/drops | Cancelled |
+| NDA020597 | Latanoprost (Mylan Pharmaceuticals) | Solution | Cancelled |
+
+Other cancelled authorizations include NDA216472 (IYUZEH, Thea Pharma) and NDA206185 (XELPROS, Sun Pharmaceutical), plus three further ANDAs.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Disease associations flagged in the knowledge graph (not label text):** uveitis, iris disease, ciliary body disease, panuveitis, macular retinal edema, cystoid macular edema, iritis, conjunctivitis, and acute contagious conjunctivitis. These should be treated as potential cautions or contraindications for use in patients with such conditions.
+- **Drug Interactions:** The interaction screen returned 100 entries, but all reviewed entries have an unknown severity level. Examples include calcitriol, glimepiride, doxycycline, atropine, metformin, omeprazole, morphine, prednisone, triamcinolone, and simvastatin. Their clinical significance cannot be judged from the available data.
+
+Please refer to the package insert for warnings and contraindications, as label-based safety text was not available.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-One completed Phase 2 trial (n=37) in pediatric glaucoma, together with a clear pressure-lowering mechanism, supports this prediction. The evidence is small and gives no efficacy results, and safety data are missing, so it should advance only with safeguards.
+The prediction is supported only by the model score (L5), with no clinical trials or literature. The mechanism is plausible for hereditary glaucoma, but the score likely reflects proximity to the approved glaucoma indication. Label-based safety information is also missing.
 
 **To proceed, the following is needed:**
-- Trial results or publications for NCT01527682, plus a check of the population and the latanoprost-only effect
-- The US package insert (warnings, contraindications, pediatric use) and the on-label indication
-- Detailed mechanism of action data from DrugBank
-- A pediatric safety monitoring plan
-
-**Other predictions:**
-- Hypotrichosis simplex of the scalp is a plausible research question, based on the known hair-growth effect of FP agonists. It has no trials or literature.
-- The other eight predictions (visceral calciphylaxis, arterial, venous and neurogenic thoracic outlet syndromes, congenital hypotrichosis milia, gastric angiodysplasia, blue toe syndrome, lymphangiectasis) have no clear mechanistic link and no evidence. They should be held.
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before use.*
+- Package insert warnings and contraindications from the FDA label, which is a blocking gap for safety screening
+- Detailed mechanism of action data
+- Literature and trial searches specific to hereditary and congenital glaucoma, including paediatric efficacy and safety
+- Route compatibility and similarity-to-original assessments, which are still pending
+- Clarification of current US market status, since all licenses are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,31 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Levmetamfetamine: From a Marketed Vapor Inhaler to Nasal Cavity Disease
+# Levmetamfetamine: From Pharyngitis to Nasal Cavity Disease
 
 ## One-Sentence Summary
 
-Levmetamfetamine is marketed in the US as an inhalant in "Vapor Inhaler" products, but the record lists no approved indication text.
-The TxGNN model predicts it may be effective for **nasal cavity disease**, but there are currently **0 clinical trials** and **0 publications** behind this prediction, so it is a model prediction only.
+Levmetamfetamine (l-methamphetamine) was originally used for pharyngitis, mainly as a nasal decongestant in inhalers.
+The TxGNN model predicts it may be effective for **nasal cavity disease**, and a second prediction, **acute laryngopharyngitis**, also scored highly.
+At present, there are **0 clinical trials** and **0 publications** supporting either direction, so the evidence is limited to model prediction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Pharyngitis (from the knowledge graph; no approved indication text is available in the US license record) |
 | Predicted New Indication | Nasal cavity disease |
 | TxGNN Prediction Score | 99.88% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 7 |
+| US Market Status | Cancelled only |
+| Number of NDAs | 1 (cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available, and the record lists no original indication for levmetamfetamine. No mechanism can be verified from the supplied data.
+Currently, detailed mechanism of action data is not available. Based on known information, levmetamfetamine is a sympathomimetic amine that has been used as a topical nasal decongestant in inhalers. It likely works through adrenergic-mediated vasoconstriction of the nasal mucosa, which can relieve congestion.
 
-Background knowledge, which the supplied data does not support, suggests levmetamfetamine is a sympathomimetic (adrenergic) agent used in over-the-counter inhaled nasal decongestants. If so, the very high score (99.88%) may reflect an existing labeled use rather than a genuine repurposing signal. This should be checked against the drug label and DrugBank before any further use.
+This offers a plausible link between the original indication (pharyngitis, an upper respiratory tract mucosal condition) and nasal cavity conditions such as congestion. Both involve the same mucosal tract and overlapping congestive symptoms. This reasoning has not been verified by the data compiled for this report, and the prediction remains a model output only.
 
-The second-ranked prediction, **acute laryngopharyngitis** (score 99.85%), has no supporting trials or publications either. A vasoconstrictive or decongestant effect on upper-airway mucosa is plausible in principle but speculative. It is most likely a network-proximity effect from the nasal indication, and it does not establish efficacy for laryngopharyngeal inflammation or infection.
+A second prediction, **acute laryngopharyngitis** (score 99.85%), follows similar logic. It is anatomically and clinically close to pharyngitis. Any benefit from decongestion would likely be limited to symptoms and would not address an infectious or inflammatory cause.
 
 ## Clinical Trial Evidence
 
@@ -65,34 +67,29 @@ Currently no related literature available.
 
 ## US Market Information
 
-The record shows 7 authorizations in total. The 5 below are the ones listed. All share license number M012, and none has an approved indication text.
-
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| M012 | Vapor Inhaler | Inhalant | Topco Associates LLC |
-| M012 | Vapor Inhaler | Inhalant | Dolgencorp Inc. |
-| M012 | Vapor Inhaler | Inhalant | Valu Merchandisers Company |
-| M012 | Vapor Inhaler | Inhalant | Supervalu Inc. |
-| M012 | Vapor Inhaler | Inhalant | Walgreens |
+| M012 (cancelled) | Vapor Inhaler (Topco Associates LLC) | Inhalant | Not stated in the record |
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
+
+No drug interaction records were found in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The evidence is a model prediction only (L5), with no clinical trials or literature. The high score for nasal cavity disease may simply reflect an existing labeled use rather than a new one, and this cannot be confirmed from the current data.
+Both predictions (nasal cavity disease and acute laryngopharyngitis) rest on model scores alone, with no clinical trials or literature (Evidence Level L5). The only US license is cancelled, so there is no current regulatory support, and safety and mechanism data are missing.
 
 **To proceed, the following is needed:**
-- Check the current US label and DrugBank record to confirm the approved indication and whether nasal cavity disease is already a labeled use
-- Mechanism of action data (MOA)
-- Package insert warnings and contraindications for safety screening
-- Any clinical or preclinical evidence for acute laryngopharyngitis before pursuing it as a separate indication
-
-*These results are for research reference only and do not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data, for example from DrugBank
+- Clinical or observational evidence for the predicted indications
+- Assessment of route and formulation compatibility, since the only known product was an inhalant
+- Review of the regulatory and safety history behind the cancelled license
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

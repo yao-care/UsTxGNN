@@ -29,13 +29,13 @@ Evidence Level: **L2** | Predicted Indications: **5**
 
 </div>
 
-# Montelukast: From Asthma to Bronchitis
+# Montelukast: From Allergic Rhinitis and Asthma to Bronchitis
 
 ## One-Sentence Summary
 
-Montelukast is a cysteinyl leukotriene receptor antagonist, best known for treating asthma and allergic airway disease.
-The TxGNN model predicts it may be effective for **bronchitis**, and the search returned **23 clinical trials** and **20 publications**.
-Only **2 trials** (NCT04613180, NCT01121016) and **2 papers** (PMID 25563311, 22819521) address bronchitis directly, so the evidence is thin and the disease mapping is imprecise. Most of the signal concerns bronchiolitis and bronchiolitis obliterans syndrome.
+Montelukast was originally used to treat allergic rhinitis and asthma (allergic and intrinsic).
+The TxGNN model predicts it may be effective for **bronchitis**, mostly in the form of bronchiolitis and bronchiolitis obliterans.
+The data compiled for this report include **17 clinical trials** and **20 publications** on this direction, but the evidence is mixed and covers several different disease entities.
 
 ---
 
@@ -43,84 +43,87 @@ Only **2 trials** (NCT04613180, NCT01121016) and **2 papers** (PMID 25563311, 22
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the Evidence Pack (US license entries carry no indication text). Asthma is the well-established use of montelukast |
+| Original Indication | Allergic rhinitis, vasomotor rhinitis, intrinsic asthma, allergic asthma (the license records contain no indication text, so this comes from the knowledge-graph indication list) |
 | Predicted New Indication | Bronchitis |
 | TxGNN Prediction Score | 99.95% |
 | Evidence Level | L2 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (all listed products are generic ANDAs) |
+| US Market Status | Cancelled only (all 14 records are cancelled) |
+| Number of NDAs | 14 US authorizations (1 NDA and 13 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the DrugBank record supplied. The literature in the pack describes montelukast as a selective, orally active CysLT1 receptor antagonist. Blocking this receptor can reduce leukotriene-driven airway inflammation, bronchoconstriction, mucus production and eosinophil recruitment.
+Detailed mechanism-of-action data are not available in the compiled drug record. The literature, however, describes montelukast as a selective cysteinyl leukotriene receptor 1 (CysLT1) antagonist. It blocks leukotriene-driven airway inflammation, bronchoconstriction, mucus secretion and airway edema. This is the pathway behind its use in asthma and allergic rhinitis.
 
-Bronchitis is an inflammatory airway condition, so the mechanism is plausible. The best direct support comes from **nonasthmatic eosinophilic bronchitis (NAEB)**, where two studies tested montelukast as add-on to inhaled budesonide (PMID 25563311, 22819521; NCT01121016). A trial in children with recurrent obstructive bronchitis (NCT04613180) is also listed, but its status is Unknown and no results are provided.
+Cysteinyl leukotrienes are released during viral airway infections such as RSV bronchiolitis, and leukotriene-driven inflammation and fibrosis are plausible targets in bronchiolitis obliterans syndrome after stem cell or lung transplantation. This gives a mechanistic reason for testing montelukast in "bronchitis".
 
-Much of the remaining evidence is about neighbouring diseases: viral or RSV bronchiolitis in infants and bronchiolitis obliterans syndrome (BOS) after transplant. These are different conditions from bronchitis. One BOS regimen (fluticasone, azithromycin, montelukast) is a combination, so the effect of montelukast alone cannot be isolated. The high TxGNN score most likely reflects closeness to these related respiratory diseases, not proven efficacy in bronchitis.
+The predicted disease is heterogeneous. It covers acute viral bronchiolitis in infants, post-bronchiolitis wheeze, eosinophilic bronchitis with cough, and bronchiolitis obliterans after transplant. These conditions differ in biology and in how their trials were designed. The mechanistic link is plausible, but it should not be assumed to apply equally to all of them.
 
 ---
 
 ## Clinical Trial Evidence
 
-The pack contains no results or effect sizes. The findings below summarize each trial's stated objective.
+The 10 most relevant of the 17 trials are listed below.
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT04613180](https://clinicaltrials.gov/study/NCT04613180) | Phase 4 | Unknown | 100 | Montelukast to treat and prevent recurrent obstructive bronchitis in children aged 1–7 |
-| [NCT01121016](https://clinicaltrials.gov/study/NCT01121016) | Phase 4 | Unknown | 63 | Randomized, double-blind, placebo-controlled add-on montelukast to inhaled budesonide for nonasthmatic eosinophilic bronchitis (primary endpoint: cough VAS) |
-| [NCT00076973](https://clinicaltrials.gov/study/NCT00076973) | Phase 3 | Completed | 1125 | Two montelukast doses vs placebo for respiratory symptoms of RSV bronchiolitis in children aged 3–24 months |
-| [NCT00863317](https://clinicaltrials.gov/study/NCT00863317) | NA | Completed | 141 | Randomized, double-blind, placebo-controlled daily montelukast for viral bronchiolitis (bronchiolitis, not bronchitis) |
-| [NCT00524693](https://clinicaltrials.gov/study/NCT00524693) | NA | Completed | 51 | Placebo-controlled trial of montelukast in acute RSV bronchiolitis, with cytokine profiles |
-| [NCT01370187](https://clinicaltrials.gov/study/NCT01370187) | NA | Completed | 146 | Montelukast in acute bronchiolitis and post-bronchiolitis wheezing, infants 3–12 months |
-| [NCT01211509](https://clinicaltrials.gov/study/NCT01211509) | Phase 4 | Completed | 30 | Randomized, double-blind, placebo-controlled montelukast for BOS after lung transplant |
-| [NCT00656058](https://clinicaltrials.gov/study/NCT00656058) | Phase 2 | Completed | 25 | Montelukast for bronchiolitis obliterans after stem cell transplant |
-| [NCT01307462](https://clinicaltrials.gov/study/NCT01307462) | Phase 2 | Completed | 36 | Fluticasone + azithromycin + montelukast combination for post-transplant bronchiolitis obliterans (montelukast effect cannot be isolated) |
-| [NCT02479074](https://clinicaltrials.gov/study/NCT02479074) | Phase 4 | Completed | 49 | Cough response to montelukast or prednisolone in chronic cough with raised exhaled NO |
+| [NCT00076973](https://clinicaltrials.gov/study/NCT00076973) | Phase 3 | Completed | 1125 | Two doses of MK0476 (montelukast) vs placebo for respiratory symptoms of RSV bronchiolitis in children aged 3–24 months; no results are included in the compiled data |
+| [NCT00863317](https://clinicaltrials.gov/study/NCT00863317) | NA | Completed | 141 | Randomized, double-blind, placebo-controlled trial of daily montelukast on duration of acute illness in infants with first-time bronchiolitis |
+| [NCT01370187](https://clinicaltrials.gov/study/NCT01370187) | NA | Completed | 146 | Montelukast for acute bronchiolitis and post-bronchiolitis wheezing in infants aged 3–12 months |
+| [NCT00524693](https://clinicaltrials.gov/study/NCT00524693) | NA | Completed | 51 | Double-blind placebo-controlled trial of montelukast on clinical progress and cytokine profiles in acute RSV bronchiolitis (small) |
+| [NCT00656058](https://clinicaltrials.gov/study/NCT00656058) | Phase 2 | Completed | 25 | Single-arm study of montelukast for bronchiolitis obliterans after stem cell transplant (small) |
+| [NCT01211509](https://clinicaltrials.gov/study/NCT01211509) | Phase 4 | Completed | 30 | Randomized, double-blind, placebo-controlled trial of montelukast to slow chronic rejection (BOS) after lung transplant |
+| [NCT04613180](https://clinicaltrials.gov/study/NCT04613180) | Phase 4 | Unknown | 100 | Montelukast for treatment and prevention of recurrent obstructive bronchitis in children aged 1–7 years |
+| [NCT01121016](https://clinicaltrials.gov/study/NCT01121016) | Phase 4 | Unknown | 63 | Add-on montelukast to inhaled budesonide in nonasthmatic eosinophilic bronchitis with chronic cough (double-blind, placebo-controlled) |
+| [NCT01307462](https://clinicaltrials.gov/study/NCT01307462) | Phase 2 | Completed | 36 | Fluticasone, azithromycin and montelukast (FAM) combination for bronchiolitis obliterans after transplant; montelukast's own contribution cannot be isolated |
+| [NCT00394160](https://clinicaltrials.gov/study/NCT00394160) | Phase 2 | Completed | 12 | Safety and plasma concentration study of montelukast granules in infants aged 1–3 months with bronchiolitis (limited relevance to efficacy) |
 
 ---
 
 ## Literature Evidence
 
+The compiled literature contains no RCT reports for this indication. The list below favors systematic reviews and guidelines, followed by other reviews and small studies.
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [25563311](https://pubmed.ncbi.nlm.nih.gov/25563311/) | 2015 | RCT | Chin Med J | Montelukast plus budesonide vs budesonide alone in NAEB, assessing airway inflammation, cough and quality of life |
-| [22819521](https://pubmed.ncbi.nlm.nih.gov/22819521/) | 2012 | Pilot study | Respir Med | Add-on montelukast vs double-dose budesonide in NAEB |
-| [24118637](https://pubmed.ncbi.nlm.nih.gov/24118637/) | 2014 | Systematic review | Pediatr Allergy Immunol | Montelukast for preventing wheezing after bronchiolitis |
-| [38504551](https://pubmed.ncbi.nlm.nih.gov/38504551/) | 2024 | Review | Ther Adv Respir Dis | Therapeutic potential and mechanisms of montelukast in BOS after lung or stem cell transplant |
-| [35114411](https://pubmed.ncbi.nlm.nih.gov/35114411/) | 2022 | Phase II trial | Transplant Cell Ther | Single-arm, open-label trial of montelukast for BOS after hematopoietic cell transplant |
-| [26475726](https://pubmed.ncbi.nlm.nih.gov/26475726/) | 2016 | Phase II trial | Biol Blood Marrow Transplant | Fluticasone, azithromycin and montelukast (FAM) in 36 patients with new-onset BOS |
-| [25846070](https://pubmed.ncbi.nlm.nih.gov/25846070/) | 2016 | Clinical study | World J Pediatr | RSV bronchiolitis with Mycoplasma co-infection, with add-on montelukast |
-| [18296556](https://pubmed.ncbi.nlm.nih.gov/18296556/) | 2008 | PK/safety study | J Clin Pharmacol | Pharmacokinetics and tolerability of montelukast granules in 12 infants aged 1–3 months with bronchiolitis |
-| [20442434](https://pubmed.ncbi.nlm.nih.gov/20442434/) | 2010 | Preclinical (mouse) | Am J Respir Crit Care Med | Montelukast during primary RSV infection prevented airway hyperresponsiveness and inflammation on reinfection |
-| [28545478](https://pubmed.ncbi.nlm.nih.gov/28545478/) | 2017 | Preclinical (rat) | J Cardiothorac Surg | LTB4 and montelukast in transplant-related bronchiolitis obliterans |
+| [24118637](https://pubmed.ncbi.nlm.nih.gov/24118637/) | 2014 | Systematic Review | Pediatr Allergy Immunol | Reviews montelukast for preventing post-bronchiolitis wheezing; cysteinyl leukotrienes are released during RSV infection and may drive airway inflammation |
+| [25773054](https://pubmed.ncbi.nlm.nih.gov/25773054/) | 2015 | Cochrane Review | Cochrane Database Syst Rev | Leukotriene inhibitors such as montelukast in infants and young children with bronchiolitis, a setting with little evidence for any specific treatment |
+| [38485149](https://pubmed.ncbi.nlm.nih.gov/38485149/) | 2024 | Guideline | Eur Respir J | ERS/EBMT clinical practice guidelines on treating pulmonary chronic GVHD in adults |
+| [40926299](https://pubmed.ncbi.nlm.nih.gov/40926299/) | 2025 | Consensus Statement | Br J Haematol | Taiwan consensus on diagnosis, surveillance and management of pulmonary chronic GVHD, including bronchiolitis obliterans syndrome |
+| [38504551](https://pubmed.ncbi.nlm.nih.gov/38504551/) | 2024 | Review | Ther Adv Respir Dis | Reviews montelukast's therapeutic potential and possible mechanisms in bronchiolitis obliterans syndrome after lung and stem cell transplant |
+| [29704475](https://pubmed.ncbi.nlm.nih.gov/29704475/) | 2018 | Expert Panel Report | Chest | CHEST systematic reviews on interventions for chronic cough after acute viral bronchiolitis in children |
+| [42303000](https://pubmed.ncbi.nlm.nih.gov/42303000/) | 2026 | Cohort | Respir Med | Efficacy of standardized treatment in infants with post-infectious bronchiolitis obliterans, assessed by lung function and HRCT |
+| [25563311](https://pubmed.ncbi.nlm.nih.gov/25563311/) | 2015 | Clinical study | Chin Med J | Montelukast plus budesonide vs budesonide alone in nonasthmatic eosinophilic bronchitis, measuring airway inflammation, cough and quality of life |
+| [14766663](https://pubmed.ncbi.nlm.nih.gov/14766663/) | 2004 | Commentary | Am J Respir Crit Care Med | Commentary on montelukast in RSV bronchiolitis |
+| [28545478](https://pubmed.ncbi.nlm.nih.gov/28545478/) | 2017 | Animal study | J Cardiothorac Surg | Role of LTB4 and montelukast in transplant-related bronchiolitis obliterans in rats |
 
 ---
 
 ## US Market Information
 
-The license records contain no approved-indication text, so that column is omitted.
+All 14 US authorizations are cancelled and none is currently valid. The license records contain no approved-indication text. The five main authorizations are listed below.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA200405 | Montelukast Sodium | Chewable tablet | AvPAK |
-| ANDA202468 | Montelukast Sodium | Film-coated tablet | PD-Rx Pharmaceuticals, Inc. |
-| ANDA090984 | Montelukast Sodium | Chewable tablet | Proficient Rx LP |
-| ANDA202717 | Montelukast Sodium | Film-coated tablet | Accord Healthcare Inc. |
-| ANDA203037 | Montelukast | Chewable tablet | Proficient Rx LP |
+| NDA020830 | SINGULAIR (Organon LLC) | Chewable tablet | Not listed in the compiled records |
+| ANDA202717 | Montelukast Sodium (Accord Healthcare Inc.) | Film-coated tablet | Not listed in the compiled records |
+| ANDA200889 | Montelukast (Sandoz Inc) | Film-coated tablet | Not listed in the compiled records |
+| ANDA209012 | Montelukast Sodium (Rising Pharma Holdings, Inc.) | Tablet | Not listed in the compiled records |
+| ANDA205107 | Montelukast Sodium (Amneal Pharmaceuticals LLC) | Chewable tablet | Not listed in the compiled records |
 
-Only the first 5 of 20 licenses are shown. All listed forms are oral.
+All available forms are oral (chewable tablet, film-coated tablet, tablet). The cancelled-only status in this dataset should be checked against current FDA records before any development decision.
 
 ---
 
 ## Safety Considerations
 
-- **Neuropsychiatric events**: The literature in the pack states that the US FDA issued a boxed warning on neuropsychiatric adverse effects of montelukast in 2020 (PMID 37758273). Observational studies in children and adults report mixed findings (PMIDs 39836401, 35608857, 36948487, 39578088).
-- **Paediatric use**: The bronchitis and bronchiolitis evidence is largely in infants and young children, the population where neuropsychiatric monitoring matters most.
+- **Neuropsychiatric risk (boxed warning)**: The literature describes an FDA boxed warning, issued in 2020, on neuropsychiatric adverse events with montelukast. A systematic review (PMID 37758273), a nationwide cohort (PMID 36948487) and a pediatric cohort (PMID 39836401) address this risk. This matters for the infant and child populations in the bronchiolitis trials.
+- **Knowledge-graph contraindication signals** (not label text): anxiety disorder, neurotic disorder, dysthymic disorder, anxiety, hypereosinophilic syndrome and cutaneous vasculitis.
+- **Drug interactions**: The interaction screen returned 100 records. The moderate-level interactions shown include dexamethasone, metronidazole, miconazole, nateglinide, nitisinone and troglitazone. Others are of unknown severity, for example pantoprazole, omeprazole, lansoprazole, metformin, glimepiride, rosiglitazone, doxycycline and morphine.
 
-The package insert warnings, contraindications and drug interaction data were not retrieved. Please refer to the package insert for complete safety information.
+Please refer to the package insert for the full warnings and contraindications.
 
 ---
 
@@ -129,14 +132,14 @@ The package insert warnings, contraindications and drug interaction data were no
 **Decision: Hold**
 
 **Rationale:**
-The mechanism is plausible and there are small add-on studies in eosinophilic bronchitis. But there is no Phase 3 RCT in bronchitis, the strongest signals are in neighbouring conditions (bronchiolitis, BOS), and the safety data needed for screening are missing. It is best treated as a research question until these gaps are closed.
+The mechanism is plausible and several randomized trials exist, including one large Phase 3 trial in RSV bronchiolitis. The compiled data contain no results showing clear efficacy, and the predicted "bronchitis" covers distinct diseases. The neuropsychiatric boxed-warning risk is a particular concern for infants and children, and all US authorizations in this dataset are cancelled.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (blocking data gap)
-- Mechanism of action data from DrugBank
-- Extraction of outcomes and effect sizes from NCT04613180, NCT01121016 and PMID 25563311
-- A decision on whether "bronchitis" means NAEB, recurrent obstructive bronchitis in children or another subtype, followed by an adequately powered RCT in that population
-- A neuropsychiatric risk-monitoring plan, especially for paediatric use
+- Published results of the Phase 3 RSV bronchiolitis trial (NCT00076973) and the placebo-controlled bronchiolitis trials, with the Cochrane review conclusions
+- A decision on which disease entity to pursue (acute bronchiolitis, post-bronchiolitis wheeze, eosinophilic bronchitis or bronchiolitis obliterans), with an indication-specific trial design
+- Current FDA package insert warnings and contraindications, and confirmation of the actual US market and authorization status
+- Detailed mechanism-of-action data from DrugBank
+- A neuropsychiatric safety monitoring plan, especially for pediatric use
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

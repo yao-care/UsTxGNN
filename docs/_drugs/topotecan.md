@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Topotecan
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 1243
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Topotecan
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L3** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,118 +29,115 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Topotecan: From Solid-Tumor Chemotherapy to Female Breast Carcinoma
+# Topotecan: From Ovarian Cancer to Female Breast Carcinoma
 
 ## One-Sentence Summary
 
-Topotecan is a topoisomerase I-inhibiting chemotherapy drug that is already marketed in the US as injection and oral capsule products. The supplied license records do not state its approved indications.
-The TxGNN model predicts it may be effective for **female breast carcinoma**, with **5 registered clinical trials** and **20 publications** retrieved. Most of these are indirect, preclinical or early-phase, and no completed breast-specific randomised trial is confirmed.
-
----
+Topotecan is a topoisomerase I inhibitor chemotherapy, originally used for ovarian cancer and related ovarian tumours.
+The TxGNN model predicts it may be effective for **Female Breast Carcinoma**,
+with **3 clinical trials** (all early-phase or combination studies) and **20 publications** currently linked to this direction. Most of this evidence is indirect, so the prediction is best treated as a research question.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the US license records. A trial summary in the evidence pack describes topotecan as used for lung cancer. |
+| Original Indication | Ovarian cancer (including ovarian germ cell tumours, yolk sac tumour and related subtypes) |
 | Predicted New Indication | Female breast carcinoma |
 | TxGNN Prediction Score | 99.92% |
-| Evidence Level | L3 (the pack lists L2, but no completed Phase 2/3 RCT in breast cancer is confirmed, so L2 is not met) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 8 (NDAs and ANDAs combined) |
+| Evidence Level | L3 |
+| US Market Status | Cancelled only (no currently valid licences in the data compiled for this report) |
+| Number of NDAs | 7 (3 NDAs and 4 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in DrugBank for this record. Based on general pharmacology, topotecan is a topoisomerase I inhibitor. It causes DNA damage in rapidly dividing cells, which is the basis of its use in solid tumors.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on the known drug class, topotecan inhibits topoisomerase I, causing DNA damage and replication-dependent cell death in rapidly dividing tumour cells. Its efficacy in ovarian cancer is established, and mechanistically it may be applicable to breast cancer.
 
-Preclinical work supports activity in breast cancer models. A CRISPR screen found that topoisomerase 1 inhibition is synthetically lethal in MYC-driven breast cancer cells (PMID 37987734). A 2025 study identified TFDP1 as a therapeutic target for topotecan in triple-negative breast cancer (PMID 40300683). Metronomic topotecan plus pazopanib was also effective in triple-negative breast cancer models (PMID 26623560).
+Two lines of evidence support the link:
+- A 2023 preclinical study (PMID 37987734) suggests that topoisomerase 1 inhibition causes aberrant R-loop accumulation and synthetic lethality in MYC-driven cancer. This may be relevant to MYC-high breast cancer subtypes such as triple-negative disease.
+- Topotecan is a substrate of the BCRP/ABCG2 efflux transporter, which is expressed in breast cancer cells and may drive resistance. Several of the publications listed below address this.
 
-A known limitation is that topotecan is a BCRP (ABCG2) substrate, so efflux-mediated resistance is a recognised problem in breast cancer cells (PMID 31408695, 10930538). Human data are limited to older Phase 2 and pilot studies. One of these reported no evidence of increased efficacy with continuous infusion (PMID 9413954).
-
----
+This rationale rests on the class mechanism and preclinical data, not on direct clinical proof in breast cancer.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00006032](https://clinicaltrials.gov/study/NCT00006032) | Phase 2 | Terminated | Not reported | Intensive-dose topotecan, ifosfamide/mesna and etoposide (TIME) followed by autologous stem cell rescue in metastatic breast cancer. Most directly relevant trial, but terminated. |
-| [NCT02282020](https://clinicaltrials.gov/study/NCT02282020) | Phase 3 | Completed | 266 | Olaparib vs physician's-choice single-agent chemotherapy in gBRCA-mutated platinum-sensitive relapsed ovarian cancer. Topotecan's role is not confirmed, and it is not a breast cancer trial. |
-| [NCT04739800](https://clinicaltrials.gov/study/NCT04739800) | Phase 2 | Active, not recruiting | 120 | Durvalumab/olaparib/cediranib combinations vs standard chemotherapy in platinum-resistant ovarian cancer. Indirect. |
-| [NCT02419495](https://clinicaltrials.gov/study/NCT02419495) | Phase 1 | Terminated | 221 | Selinexor combined with standard chemotherapies in advanced malignancies. Safety data only. |
-| [NCT04279509](https://clinicaltrials.gov/study/NCT04279509) | N/A | Unknown | 35 | Organoid drug-screen-guided chemotherapy selection in refractory solid tumours. Does not test topotecan efficacy specifically. |
-
----
+| [NCT00006032](https://clinicaltrials.gov/study/NCT00006032) | Phase 2 | Terminated | Not reported | Intensive-dose topotecan, ifosfamide/mesna and etoposide (TIME) followed by autologous stem cell rescue in metastatic breast cancer. Topotecan's individual contribution cannot be isolated. |
+| [NCT02419495](https://clinicaltrials.gov/study/NCT02419495) | Phase 1 | Terminated | 221 | Selinexor combined with several standard chemotherapies (topotecan among them) in advanced malignancies. Combination safety data only; no topotecan-specific breast cancer efficacy signal. |
+| [NCT06840886](https://clinicaltrials.gov/study/NCT06840886) | Phase 1 | Recruiting | 426 | First-in-human dose escalation and expansion study of PHST001 in advanced solid tumours. Link to topotecan is indirect and no results are available. |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [10362325](https://pubmed.ncbi.nlm.nih.gov/10362325/) | 1999 | Phase 2 | Am J Clin Oncol | CALGB trial of topotecan in previously treated advanced breast cancer (47 eligible patients). The response result is not shown in the available excerpt. |
-| [9413954](https://pubmed.ncbi.nlm.nih.gov/9413954/) | 1997 | Phase 2 | Br J Cancer | Continuous-infusion topotecan in advanced breast cancer and NSCLC. No evidence of increased efficacy. |
-| [11455218](https://pubmed.ncbi.nlm.nih.gov/11455218/) | 2001 | Pilot study | Onkologie | Topotecan as primary chemotherapy for brain metastases in metastatic breast cancer. |
-| [9445630](https://pubmed.ncbi.nlm.nih.gov/9445630/) | 1997 | Review | Gynakol Geburtshilfliche Rundsch | Overview of new drugs for breast carcinoma. |
-| [7910993](https://pubmed.ncbi.nlm.nih.gov/7910993/) | 1994 | Review | World J Surg | Management of metastatic breast cancer. General background. |
-| [40300683](https://pubmed.ncbi.nlm.nih.gov/40300683/) | 2025 | Preclinical | Int J Biol Macromol | TFDP1 drives triple-negative breast cancer and is a therapeutic target for topotecan. |
-| [37987734](https://pubmed.ncbi.nlm.nih.gov/37987734/) | 2023 | Preclinical | Cancer Res | Topoisomerase 1 inhibition causes R-loop accumulation and synthetic lethality in MYC-driven breast cancer cells. |
-| [26623560](https://pubmed.ncbi.nlm.nih.gov/26623560/) | 2015 | Preclinical | Oncotarget | Metronomic topotecan plus pazopanib was potent in models of primary and metastatic triple-negative breast cancer. |
-| [31408695](https://pubmed.ncbi.nlm.nih.gov/31408695/) | 2019 | Preclinical | Pharmacol Res | Daidzein enhanced topotecan's anticancer effect and reversed BCRP-mediated resistance in breast cancer. |
-| [10472342](https://pubmed.ncbi.nlm.nih.gov/10472342/) | 1999 | Preclinical | Anticancer Res | Xenograft comparison of doxorubicin, cisplatin, irinotecan and topotecan in colon, lung and breast carcinoma. |
-
----
+| [9413954](https://pubmed.ncbi.nlm.nih.gov/9413954/) | 1997 | Phase 2 | Br J Cancer | Continuous infusional topotecan in advanced breast cancer and NSCLC showed no evidence of increased efficacy |
+| [11455218](https://pubmed.ncbi.nlm.nih.gov/11455218/) | 2001 | Pilot study | Onkologie | Topotecan as primary chemotherapy for breast cancer brain metastases |
+| [9425961](https://pubmed.ncbi.nlm.nih.gov/9425961/) | 1997 | Review | Semin Oncol | Potential role of topotecan in advanced breast cancer |
+| [37987734](https://pubmed.ncbi.nlm.nih.gov/37987734/) | 2023 | Preclinical | Cancer Res | Topoisomerase 1 inhibition promotes R-loop accumulation and synthetic lethality in MYC-driven breast cancer models |
+| [10472342](https://pubmed.ncbi.nlm.nih.gov/10472342/) | 1999 | Preclinical | Anticancer Res | Xenograft comparison; irinotecan and doxorubicin regressed breast lines, and topotecan was also tested |
+| [10930538](https://pubmed.ncbi.nlm.nih.gov/10930538/) | 2000 | Preclinical | Biochem Pharmacol | BCRP expression in topotecan-resistant MCF7 breast carcinoma cells |
+| [15836850](https://pubmed.ncbi.nlm.nih.gov/15836850/) | 2005 | Preclinical | J Surg Res | Effect of quercetin on topotecan cytotoxicity in MCF-7 and MDA-MB-231 cells |
+| [25236865](https://pubmed.ncbi.nlm.nih.gov/25236865/) | 2015 | Review | AAPS J | BCRP/ABCG2 drug transport; topotecan is a substrate |
+| [21514634](https://pubmed.ncbi.nlm.nih.gov/21514634/) | 2011 | Phase 2 | Gynecol Oncol | Lapatinib plus topotecan in platinum-resistant ovarian cancer, testing BCRP efflux blockade (indirect) |
+| [39013199](https://pubmed.ncbi.nlm.nih.gov/39013199/) | 2024 | Expert consensus | Rev Colomb Obstet Ginecol | Management of advanced epithelial ovarian cancer (indirect) |
 
 ## US Market Information
 
+All 7 US authorisations are currently cancelled. The approved indication text is not available in the data compiled for this report.
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA091089 | Topotecan Hydrochloride (Fresenius Kabi USA) | Injection, powder, lyophilized, for solution | Not listed in supplied data |
-| NDA020981 | HYCAMTIN (Sandoz) | Capsule | Not listed in supplied data |
-| ANDA204406 | Topotecan (Accord Healthcare) | Injection | Not listed in supplied data |
-| NDA200582 | Topotecan (Hospira) | Injection, solution, concentrate | Not listed in supplied data |
-| ANDA202351 | Topotecan hydrochloride (Accord Healthcare) | Injection, powder, lyophilized, for solution | Not listed in supplied data |
-
----
+| NDA020671 | HYCAMTIN (Novartis) | Injection, powder, lyophilized, for solution | Not available (cancelled) |
+| NDA020981 | HYCAMTIN (Sandoz) | Capsule | Not available (cancelled) |
+| NDA200582 | Topotecan (Hospira) | Injection, solution, concentrate | Not available (cancelled) |
+| ANDA091089 | Topotecan Hydrochloride (Fresenius Kabi) | Injection, powder, lyophilized, for solution | Not available (cancelled) |
+| ANDA204406 | Topotecan (Accord Healthcare) | Injection | Not available (cancelled) |
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
 | Cytotoxicity Classification | Conventional cytotoxic (topoisomerase I inhibitor, camptothecin derivative) |
-| Myelosuppression Risk | High. Myelosuppression was the major toxicity in a topotecan Phase 2 trial in germ cell tumors (PMID 8617580), with a median nadir neutrophil count of 1.55 cells/mm3 and platelet count of 20,500 cells/mm3. |
-| Emetogenicity Classification | Low to moderate (general drug-class knowledge, not from the evidence pack) |
-| Monitoring Items | CBC with differential, liver and renal function |
+| Myelosuppression Risk | High (myelosuppression is the main dose-limiting toxicity; the knowledge graph lists neutropenia, thrombocytopenia, anaemia and agranulocytosis as contraindication-related conditions) |
+| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
+| Monitoring Items | CBC with differential, liver and renal function; monitor for diarrhoea and respiratory symptoms |
 | Handling Protection | Must follow cytotoxic drug handling regulations |
-
-Please also refer to the package insert warnings and precautions.
-
----
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindication-related conditions (from the drug-disease knowledge graph, not label text)**: thrombocytopenia, neutropenia, agranulocytosis, anaemia (including macrocytic anaemia), interstitial lung disease, pulmonary fibrosis (including post-inflammatory), diarrhoeal disease, and impaired renal function.
+- **Drug Interactions**: 100 interactions were identified. Major-level interactions include:
+  - Deferiprone
+  - Samarium (153Sm) lexidronam
 
----
+  Moderate-level interactions include:
+  - Eliglustat
+  - Rolapitant
+  - Iobenguane (I-131)
+  - Palifermin
+  - Strontium chloride Sr-89
+  - Ibritumomab tiuxetan
+
+  Several are agents that also suppress bone marrow, so additive myelosuppression is a concern. Other listed interactions are minor or of unknown severity (for example levofloxacin, caffeine, ondansetron and proton pump inhibitors).
+
+Please refer to the package insert for full warnings and precautions, as label text was not available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is very high (99.92%), but the human evidence in breast cancer is thin. It consists of one terminated Phase 2 trial, older single-arm Phase 2 and pilot studies, and one study reporting no efficacy gain with continuous infusion. The rest is preclinical. The package-insert safety review is also still missing, and that gap blocks safety screening. The prediction is best treated as a research question, not a development candidate.
-
-The other predicted indications add little. Adult germ cell tumor has only indirect evidence, and a small Phase 2 trial found no responses in 14 evaluable patients with cisplatin-refractory disease (PMID 8617580). The eight testicular yolk sac tumor subtypes have no trials or literature and are likely artifacts of a shared parent term.
+The TxGNN score is very high (99.92%), but the supporting clinical data are weak: the only breast cancer trials are terminated, early-phase or combination studies, and the one relevant phase 2 publication found no evidence of increased efficacy. Evidence is mainly preclinical, review and indirect. With all US licences cancelled and label safety data missing, the prediction is best treated as a research question.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, to clear the blocking safety data gap
-- Detailed mechanism-of-action data from DrugBank
-- The approved-indication text for each US license, to establish the original indication
-- The full records of NCT00006032 and NCT02282020, to confirm whether topotecan was tested in breast cancer
-- The response results of the CALGB Phase 2 trial (PMID 10362325)
-- A comparison of topotecan against current standard breast cancer therapy, including a plan to address BCRP-mediated resistance
+- Dedicated, topotecan-specific clinical data in breast cancer, with attention to MYC-high and triple-negative subtypes
+- Detailed mechanism of action data to strengthen the mechanistic link
+- Full package insert warnings and contraindications
+- Clarification of current US regulatory status, since all licences are cancelled
+- Safety monitoring plan for myelosuppression, pulmonary toxicity and diarrhoea in breast cancer populations
 
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical application.*
+**Other predictions:** The next-ranked prediction, adult germ cell tumour (score 99.57%, evidence level L2), is clinically closer to topotecan's existing ovarian germ cell indication, but its trial and literature evidence mostly concerns neuroblastoma, glioma and retinoblastoma. The testicular yolk sac tumour pattern predictions (ranks 3–10, score 99.49%) have no trials or literature and are on Hold.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

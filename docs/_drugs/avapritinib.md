@@ -29,33 +29,31 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Avapritinib: From KIT/PDGFRA Inhibition to Axial Spondylometaphyseal Dysplasia
+# Avapritinib: From Gastrointestinal Stromal Tumor to Axial Spondylometaphyseal Dysplasia
 
 ## One-Sentence Summary
 
-Avapritinib is an oral KIT/PDGFRA kinase inhibitor marketed in the US as Ayvakit. The approved indication text is not included in the supplied data.
-The TxGNN model predicts it may be effective for **axial spondylometaphyseal dysplasia**, a rare skeletal dysplasia.
-There are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model score alone.
+Avapritinib was originally used to treat gastrointestinal stromal tumor (GIST). The TxGNN model predicts it may be effective for **axial spondylometaphyseal dysplasia**, but this is a computational prediction only, with **0 clinical trials** and **0 publications** supporting it at this time.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the supplied data |
+| Original Indication | Gastrointestinal stromal tumor |
 | Predicted New Indication | Axial spondylometaphyseal dysplasia |
 | TxGNN Prediction Score | 99.92% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 5 license records (all under NDA212608) |
+| US Market Status | Cancelled only (the single NDA is listed as cancelled) |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, avapritinib is a KIT/PDGFRA kinase inhibitor. Its approved indication text was not supplied, so the link between its original use and the predicted one cannot be assessed.
+Currently, detailed mechanism of action data is not available. Based on known information, avapritinib is a KIT/PDGFRA kinase inhibitor, and its efficacy in gastrointestinal stromal tumor is the basis of its original indication.
 
-**No identifiable mechanistic link.** Axial spondylometaphyseal dysplasia is a rare skeletal dysplasia, and KIT/PDGFRA inhibition has no known bearing on its pathogenesis. The 0.999 score is a model output only. It is not supported by biology, trials or literature.
+No mechanistic link to axial spondylometaphyseal dysplasia can be established from the data compiled for this report. This is a skeletal dysplasia with a genetic basis, and nothing supplied connects KIT/PDGFRA inhibition to its biology. The high score (99.92%) most likely reflects proximity in the knowledge-graph network rather than demonstrated biology, so the prediction should be treated as a hypothesis only.
 
-**Pattern across the top 10 predictions.** Seven of the ten predicted diseases are ALS or related motor neuron disorders. These include ALS, its genetic-susceptibility and type 22 labels, late-adult lower motor neuron syndrome, monomelic amyotrophy and Mills syndrome. The rest are ultra-rare developmental or congenital syndromes, and none has a documented KIT/PDGFRA rationale. The only weak, indirect hypothesis is for ALS, where another tyrosine kinase inhibitor, masitinib, has been studied through KIT/CSF1R-mediated mast cell and microglia modulation. It is not established that avapritinib shares this effect or reaches the CNS at relevant exposure. The multiple ALS-related entries are likely one signal repeated, not independent evidence.
+Other top-ranked predictions (all L5, no trials or literature) fall mostly into a motor neuron disease cluster (amyotrophic lateral sclerosis and related forms, monomelic amyotrophy, Mills syndrome, and others). These entries overlap with each other and are not independent signals. Also in the top 10 are bilateral parasagittal parieto-occipital polymicrogyria and trichomegaly-retina pigmentary degeneration-dwarfism syndrome. Avapritinib has known cognitive adverse effects and intracranial bleeding risk, which would be an important concern for any CNS-directed use.
 
 ## Clinical Trial Evidence
 
@@ -67,30 +65,53 @@ Currently no related literature available.
 
 ## US Market Information
 
-All five records are identical, so they are shown once.
-
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA212608 | Ayvakit | Tablet, film coated (oral) | Blueprint Medicines Corporation |
+| NDA212608 (cancelled) | Ayvakit (Blueprint Medicines Corporation) | Tablet, film coated | Not listed in the compiled data |
+
+## Cytotoxicity
+
+| Item | Content |
+|------|------|
+| Cytotoxicity Classification | Targeted therapy (kinase inhibitor) |
+| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
+| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
+| Monitoring Items | Please refer to the package insert warnings and precautions |
+| Handling Protection | Please refer to the package insert warnings and precautions |
 
 ## Safety Considerations
 
-- **CNS risks flagged in the prediction rationale**: labeled intracranial hemorrhage and cognitive effects. These are especially relevant because the predicted indications are neurological or developmental.
+- **Drug Interactions**: The interaction screen returned 100 interacting drugs; 20 are shown in the compiled data. Major-level interactions include:
+  - Aprepitant
+  - Acetylsalicylic acid (aspirin)
+  - Clarithromycin
+  - Dexamethasone
+  - Cobicistat
+  - Deferasirox
+  - Deferiprone
+  - Ibritumomab tiuxetan
+  - Tositumomab (I-131)
+  - Samarium (153Sm) lexidronam
 
-The package insert warnings and contraindications were not supplied. Please refer to the package insert for full safety information. No drug interaction records were found.
+  Moderate-level interactions include cimetidine, clotrimazole, miconazole, dexfenfluramine, fenfluramine, glycerol phenylbutyrate, metreleptin, sibutramine, troglitazone, and strontium chloride Sr-89.
+
+- **CNS considerations**: Avapritinib has known cognitive adverse effects and an intracranial bleeding risk. These would need careful assessment for any neurological indication.
+
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is L5 (model score only), with no trials, no literature and no identifiable mechanistic link to a KIT/PDGFRA inhibitor. The labeled CNS risks add to the concern for neurological targets.
+The prediction rests on a model score alone (Evidence Level L5), with no clinical trials, no literature, and no plausible mechanistic link to axial spondylometaphyseal dysplasia. The sole US NDA is also cancelled.
 
 **To proceed, the following is needed:**
-- The FDA package insert (warnings and contraindications). This blocks any safety screening.
-- Mechanism of action data, to test whether any biological link exists.
-- The approved indication text, to establish the original-to-new indication relationship.
-- Any preclinical or clinical evidence for axial spondylometaphyseal dysplasia or, secondarily, for ALS. Without it, this candidate should not advance.
+- Mechanism of action data for avapritinib
+- Package insert warnings and contraindications, needed before any safety screening
+- Biological evidence connecting KIT/PDGFRA signalling to the pathogenesis of the predicted disease
+- Preclinical or mechanistic studies in a relevant disease model
+- Confirmation of current US regulatory and supply status, given the cancelled NDA
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

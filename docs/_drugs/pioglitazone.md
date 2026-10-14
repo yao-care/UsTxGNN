@@ -29,66 +29,94 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-# Pioglitazone: From Type 2 Diabetes to Opsismodysplasia
+# Pioglitazone: From Type 2 Diabetes Mellitus to Opsismodysplasia
 
 ## One-Sentence Summary
 
-Pioglitazone is an oral insulin-sensitizing drug (a PPAR-gamma agonist) marketed in the US and widely used for type 2 diabetes. The TxGNN model predicts it may be effective for **opsismodysplasia**, a rare skeletal dysplasia. This prediction has **0 clinical trials** and **0 publications** behind it, so it rests on the model score alone.
+Pioglitazone is an oral insulin-sensitizing drug (a PPAR-gamma agonist) originally used to treat type 2 diabetes mellitus.
+The TxGNN model predicts it may be effective for **Opsismodysplasia** (score 99.59%), but there are **0 clinical trials** and **0 publications** directly supporting this prediction. It is a graph-based prediction only.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Type 2 diabetes (general drug knowledge; the US license records in the pack contain no indication text) |
+| Original Indication | Type 2 diabetes mellitus |
 | Predicted New Indication | Opsismodysplasia |
 | TxGNN Prediction Score | 99.59% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (the five listed are ANDA generic approvals) |
+| US Market Status | Cancelled only (no currently valid licenses in the data compiled) |
+| Number of NDAs | 6 authorizations in total (1 NDA, 5 ANDAs), all cancelled |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the source record. Pioglitazone is known to act through PPAR-gamma, improving insulin sensitivity. Its efficacy in type 2 diabetes is well established.
+Currently, detailed mechanism of action data is not available. Based on known information, pioglitazone is a PPAR-gamma agonist (thiazolidinedione class), its efficacy in type 2 diabetes is established, and its main effects are insulin sensitization and adipose tissue modulation.
 
-The link to the predicted indication is weak. Opsismodysplasia is a rare skeletal dysplasia (INPPL1-related). PPAR-gamma insulin sensitization has no known bearing on its pathophysiology. The high score most likely reflects proximity in the knowledge graph, not biological evidence, and no clinical or literature support was found. This prediction should be treated as a hypothesis only.
+Opsismodysplasia is a rare skeletal dysplasia caused by mutations in INPPL1 (SHIP2, a regulator of the PI3K pathway). Pioglitazone has no established mechanistic connection to this pathway, so any link is speculative. The high TxGNN score reflects graph-based association rather than independent biological or clinical evidence.
+
+Other top-ranked predictions show the same pattern:
+- **Stiff person syndrome (classic and focal variants, score 99.50%)**: a theoretical anti-inflammatory/immunomodulatory rationale, with identical scores suggesting a shared graph neighborhood rather than independent evidence.
+- **Localized lipodystrophies (scores 99.18%–99.30%)**: PPAR-gamma-driven adipogenesis makes a biological link plausible, but these are local tissue processes with no supporting data for systemic pioglitazone.
+- **Thiamine-responsive dysfunction syndrome (99.48%)** and **pancreatic agenesis (99.18%)**: no clear mechanistic link. In pancreatic agenesis, insulin sensitizers depend on endogenous insulin and would not address the core deficit.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for opsismodysplasia.
+
+(For the ninth-ranked prediction, pancreatic agenesis, seven publications were retrieved, but they concern PPAR agonists in type 2 diabetes or prediabetes and are indirect, not relevant to that disease.)
+
+---
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA200268 | Pioglitazone Hydrochloride (A-S Medication Solutions) | Tablet | Not listed in the record |
-| ANDA207806 | Pioglitazone (Solco Healthcare LLC) | Tablet | Not listed in the record |
-| ANDA200268 | Pioglitazone (Proficient Rx LP) | Tablet | Not listed in the record |
-| ANDA200268 | Pioglitazone (Rising Pharma Holdings, Inc.) | Tablet | Not listed in the record |
-| ANDA200268 | Pioglitazone (NuCare Pharmaceuticals, Inc.) | Tablet | Not listed in the record |
+| NDA021073 | Actos (Takeda Pharmaceuticals America, Inc.) | Tablet | Cancelled |
+| ANDA200268 | Pioglitazone Hydrochloride (A-S Medication Solutions) | Tablet | Cancelled |
+| ANDA207806 | Pioglitazone (Solco Healthcare LLC) | Tablet | Cancelled |
+| ANDA202467 | Pioglitazone (Macleods Pharmaceuticals Limited) | Tablet | Cancelled |
+| ANDA077210 | Pioglitazone (Bryant Ranch Prepack) | Tablet | Cancelled |
 
-Only the oral tablet form is recorded.
+All six authorizations in the data compiled are listed as cancelled. Indication text was not available.
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindications flagged in the knowledge graph** (not label text): kidney disease, liver disease, gallbladder disease, congestive heart failure, adrenocortical insufficiency/Addison disease, thymus gland disease, infectious disease, and a large group of pituitary and gonadal deficiency conditions (hypopituitarism, growth hormone deficiency, hypogonadotropic hypogonadism, Kallmann syndrome, Sheehan syndrome, among others).
+- **Drug Interactions**: 100 interactions were found. Examples among the entries reviewed:
+  - Moderate: abiraterone, acetazolamide, hydrochlorothiazide, hydrocortisone, epinephrine, phenylephrine, pseudoephedrine, salbutamol, formoterol, alpelisib, ethanol, abametapir (topical), aloe vera leaf
+  - Minor: nifedipine, ethinylestradiol, lipoic acid, topical corticosteroids (hydrocortisone, alclometasone, amcinonide), aminoglutethimide
+
+Please refer to the package insert for label warnings, as these were not available in the data compiled.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting trials or literature (L5), and the mechanistic link to opsismodysplasia is not credible. Package insert safety information is also still missing.
+The prediction is supported only by a graph-based score. There are no clinical trials or publications for opsismodysplasia, no plausible mechanistic link to INPPL1/SHIP2 biology, and all US licenses are cancelled. Evidence level is L5.
 
 **To proceed, the following is needed:**
-- Any disease-specific preclinical evidence (for example, models of INPPL1-related skeletal dysplasia) showing a plausible role for PPAR-gamma modulation
-- Detailed mechanism of action data (MOA)
-- Package insert warnings and contraindications
-- Consideration of the other ranked predictions. Only pancreatic agenesis (rank 9) has retrieved literature, and that is indirect (L4) and covers type 2 diabetes, not the predicted disease. Its mechanistic fit is also poor.
+- Mechanism of action data (MOA) and a clear mechanistic hypothesis linking PPAR-gamma agonism to the INPPL1/PI3K pathway
+- Preclinical evidence (cell or animal models of opsismodysplasia)
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Review of the cancelled licensure status and the current availability of the drug
+- Consideration of better-supported alternatives among the other predictions (for example, the lipodystrophy indications), which would still require supporting data
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

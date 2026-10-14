@@ -29,97 +29,94 @@ Evidence Level: **L3** | Predicted Indications: **3**
 
 </div>
 
-# Clonazepam: From Its Listed Uses to Restless Legs Syndrome
+# Clonazepam: From Epilepsy and Anxiety Disorders to Restless Legs Syndrome
 
 ## One-Sentence Summary
 
-Clonazepam is a benzodiazepine that is currently marketed in the US, but the supplied data does not record its original approved indication.
-The TxGNN model predicts it may be effective for **restless legs syndrome (RLS)**.
-There are **no registered clinical trials** and **20 publications** for this indication, including a 2025 AASM guideline, a Cochrane review, and two small randomized trials.
-
----
+Clonazepam is a benzodiazepine originally used for seizure disorders (such as absence epilepsy and Lennox-Gastaut syndrome) and anxiety disorder.
+The TxGNN model predicts it may be effective for **Restless Legs Syndrome (RLS)**,
+with **0 registered clinical trials** but **20 publications**, including a Cochrane review and an American Academy of Sleep Medicine guideline, discussing this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in the supplied data (all license entries have empty indication text) |
+| Original Indication | Epilepsy-related conditions (early myoclonic encephalopathy, absence epilepsy, Lennox-Gastaut syndrome) and anxiety disorder (per the knowledge graph; US label text is not available) |
 | Predicted New Indication | Restless legs syndrome |
 | TxGNN Prediction Score | 99.65% |
 | Evidence Level | L3 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (the five listed licenses are ANDAs, i.e., generics) |
+| US Market Status | Cancelled only (all 7 listed authorizations are cancelled) |
+| Number of NDAs | 7 (1 NDA and 6 ANDAs) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Clonazepam is a GABA-A positive allosteric modulator. Detailed mechanism-of-action data is not available in the supplied record. The mechanism below comes from the analysis of the prediction rather than from a drug-level record.
+Detailed mechanism-of-action data for clonazepam is not available in the data compiled for this report. Based on class-level pharmacology, clonazepam is a positive allosteric modulator of the GABA-A receptor. It enhances inhibitory signalling in the brain, which explains its anticonvulsant, anxiolytic and sedative effects.
 
-Clonazepam may reduce sleep fragmentation and arousals caused by periodic limb movements. RLS often disrupts sleep, so a sleep-related symptomatic benefit is plausible. This fits the literature, which describes benzodiazepines including clonazepam as long-used for RLS and periodic limb movements in sleep. One survey cited in the pack reports that about 25% of treated RLS patients receive benzodiazepines.
+In RLS, benzodiazepines are thought to reduce sensory-motor arousal and sleep fragmentation and to suppress periodic limb movements during sleep. The effect is symptomatic and sleep-related, not disease-modifying. Clonazepam has been used for RLS for decades, and a recent survey cited in the literature found about 25% of treated RLS patients received benzodiazepines. This long-standing, though low-quality, use is consistent with the very high TxGNN score.
 
-Clonazepam does not act on the dopaminergic or iron pathways thought to drive RLS. Any benefit is therefore likely to be symptomatic rather than disease-modifying. The very high TxGNN score cannot be checked against known original-indication pharmacology because that data is missing.
-
----
+Current guidelines favour other drug classes as first-line therapy (the literature mentions dopamine agonists as first-line). Clonazepam is better seen as an adjunct or alternative, particularly where sleep disturbance dominates.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [6380197](https://pubmed.ncbi.nlm.nih.gov/6380197/) | 1984 | RCT (double-blind crossover, n=6) | Acta Neurol Scand | Clonazepam significantly improved subjective sleep quality and leg dysaesthesia versus placebo. Long-term efficacy needs confirmation. |
-| [31942156](https://pubmed.ncbi.nlm.nih.gov/31942156/) | 2019 | RCT (open-label) | J Mid-life Health | Compared clonazepam with nortriptyline in women over 40 with RLS, looking at rate, frequency and severity. Results are not in the supplied abstract. |
-| [39324694](https://pubmed.ncbi.nlm.nih.gov/39324694/) | 2025 | Clinical practice guideline | J Clin Sleep Med | AASM guideline on treating RLS and periodic limb movement disorder in adults and children. The specific clonazepam recommendation is not in the supplied text. |
-| [28319266](https://pubmed.ncbi.nlm.nih.gov/28319266/) | 2017 | Systematic review | Cochrane Database Syst Rev | Reviews benzodiazepines for RLS. Notes that clonazepam is used for RLS symptoms. Conclusions are not in the supplied abstract. |
-| [36692194](https://pubmed.ncbi.nlm.nih.gov/36692194/) | 2023 | Systematic review and meta-analysis | J Clin Sleep Med | Assesses which drug classes suppress periodic limb movements in RLS. Design details are unclear from the supplied text. |
-| [38708125](https://pubmed.ncbi.nlm.nih.gov/38708125/) | 2024 | Review | Tremor Other Hyperkinet Mov | Historical overview of benzodiazepines in RLS and periodic limb movements in sleep. Found 17 articles on clonazepam in RLS. |
-| [18925578](https://pubmed.ncbi.nlm.nih.gov/18925578/) | 2008 | Evidence-based review | Mov Disord | Movement Disorder Society task force graded the efficacy of RLS treatments. Its grading of clonazepam is not in the supplied text. |
-| [24363103](https://pubmed.ncbi.nlm.nih.gov/24363103/) | 2014 | Review | Neurotherapeutics | Overview of RLS treatment, which has changed considerably in recent years. |
-| [9444111](https://pubmed.ncbi.nlm.nih.gov/9444111/) | 1997 | Review | ANNA J | Clonazepam is one of several agents used for RLS in end-stage renal disease. Its pharmacokinetics suggest safety with altered kidney function. |
-| [3510520](https://pubmed.ncbi.nlm.nih.gov/3510520/) | 1986 | Review | Am Fam Physician | Clinical overview of RLS. Clonazepam is mentioned as a treatment option. |
-
----
+| [28319266](https://pubmed.ncbi.nlm.nih.gov/28319266/) | 2017 | Cochrane systematic review | Cochrane Database Syst Rev | Reviews benzodiazepines (particularly clonazepam) for RLS, which are used clinically but have limited trial support |
+| [39324694](https://pubmed.ncbi.nlm.nih.gov/39324694/) | 2025 | Guideline | J Clin Sleep Med | AASM clinical practice guideline on treating RLS and periodic limb movement disorder in adults and children |
+| [38708125](https://pubmed.ncbi.nlm.nih.gov/38708125/) | 2024 | Review | Tremor Other Hyperkinet Mov | Historical overview of benzodiazepines in RLS/PLMS; found 17 articles on clonazepam use |
+| [18925578](https://pubmed.ncbi.nlm.nih.gov/18925578/) | 2008 | Evidence-based review | Mov Disord | Movement Disorder Society task force review of RLS treatments |
+| [36692194](https://pubmed.ncbi.nlm.nih.gov/36692194/) | 2023 | Systematic review and meta-analysis | J Clin Sleep Med | Which drug classes suppress periodic limb movements in RLS |
+| [6380197](https://pubmed.ncbi.nlm.nih.gov/6380197/) | 1984 | Randomized double-blind crossover (n=6) | Acta Neurol Scand | Clonazepam significantly improved subjective sleep quality and leg dysaesthesia versus placebo; long-term efficacy unconfirmed |
+| [11313161](https://pubmed.ncbi.nlm.nih.gov/11313161/) | 2001 | Placebo-controlled sleep lab study | Eur Neuropsychopharmacol | Acute effects of 1 mg clonazepam on sleep and awakening quality in RLS/PLMD |
+| [20156514](https://pubmed.ncbi.nlm.nih.gov/20156514/) | 2010 | Clinical study | Prog Neuropsychopharmacol Biol Psychiatry | Proposed dose equivalence between clonazepam and pramipexole in RLS |
+| [39787099](https://pubmed.ncbi.nlm.nih.gov/39787099/) | 2025 | Clinical study | Sleep | Compared effects of dopamine agonists and clonazepam on large muscle group movements in RLS |
+| [17876423](https://pubmed.ncbi.nlm.nih.gov/17876423/) | 2007 | Expert consensus | Arq Neuropsiquiatr | Brazilian expert opinion on RLS diagnosis and treatment |
 
 ## US Market Information
 
+All seven authorizations are listed as cancelled; no approved indication text is available for them.
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA077856 | Clonazepam (Aphena Pharma Solutions) | Tablet | Not stated in supplied data |
-| ANDA077194 | Clonazepam (Teva) | Orally disintegrating tablet | Not stated in supplied data |
-| ANDA074569 | Clonazepam (Clinical Solutions Wholesale) | Tablet | Not stated in supplied data |
-| ANDA077856 | Clonazepam (Bryant Ranch Prepack) | Tablet | Not stated in supplied data |
-| ANDA077856 | Clonazepam (PD-Rx Pharmaceuticals) | Tablet | Not stated in supplied data |
-
----
+| NDA017533 | Klonopin (H2-Pharma) | Tablet | Not available |
+| ANDA077194 | Clonazepam (Teva) | Orally disintegrating tablet | Not available |
+| ANDA211033 | Clonazepam (Alembic) | Orally disintegrating tablet | Not available |
+| ANDA077856 | Clonazepam (Aphena Pharma Solutions) | Tablet | Not available |
+| ANDA074569 | Clonazepam (Clinical Solutions Wholesale) | Tablet | Not available |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindication signals from the knowledge graph** (these are graph-derived, not label text): liver failure and liver disease, kidney disease, respiratory failure, sleep apnea syndromes (including obstructive sleep apnea and congenital central hypoventilation syndrome), open-angle and angle-closure glaucoma, porphyria, gallbladder disease, and substance-related disorders or substance abuse/dependence.
+- **Drug interactions** (100 interactions recorded; main ones shown):
+  - Major: morphine, including liposomal morphine (additive central nervous system and respiratory depression).
+  - Moderate: bupropion, aprepitant, omeprazole, cimetidine, clarithromycin, dronabinol, metoclopramide, nabilone, opium, sibutramine, teduglutide.
+  - Minor: antacids such as magnesium oxide, aluminum hydroxide and calcium carbonate.
+- **Additional literature signals**: long-term benzodiazepine use is a public health concern, and one case report describes mania associated with clonazepam.
 
-The pack's analysis also flags the general benzodiazepine risks of dependence, tolerance and cognitive effects. These risks weigh against long-term use in a chronic condition such as RLS.
-
----
+Package insert warnings and contraindications were not available for this report. Please refer to the package insert for complete safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The literature for RLS is substantial and includes a 2025 guideline, a Cochrane review, and two small randomized trials. However, there are no registered clinical trials, and the RCT evidence is small and dated. The mechanism suggests only symptomatic, sleep-related benefit. The original indication, package-insert warnings and contraindications are all missing, so safety screening cannot proceed.
-
-Two other predicted indications are weaker: insomnia (only indirect evidence) and trigeminal nerve neoplasm (no plausible mechanism). They are not recommended for advancement.
+Clonazepam's pharmacology and decades of clinical use make RLS a plausible indication, and guideline-level and Cochrane literature address it. However, there are no registered clinical trials, the controlled evidence is small and old (6 patients in 1984, plus a single-dose sleep lab study), and guidelines favour other drug classes first. Package insert safety data are missing, and all US authorizations in the data are cancelled. The evidence level is L3, and the data-gap review flags the missing label data as blocking for safety screening.
 
 **To proceed, the following is needed:**
-- The FDA package insert (warnings, contraindications, approved indications), which is a blocking gap for safety screening
-- Confirmed mechanism-of-action and original-indication data from DrugBank
-- Extraction of the specific clonazepam recommendations from the AASM 2025 guideline, the Cochrane review and the MDS review
-- A dependence, tolerance and long-term safety assessment for chronic RLS use, compared with first-line alternatives
+- Current FDA package insert warnings and contraindications (a blocking data gap)
+- Mechanism-of-action data from DrugBank
+- Review of the AASM 2025 guideline and the Cochrane review to establish where clonazepam sits relative to first-line therapies
+- A risk assessment of dependence, tolerance, respiratory depression and sleep apnea, given the contraindication signals and the chronic nature of RLS
+- Confirmation of current US marketing status, since all listed authorizations are cancelled
+- Ideally, a well-powered randomized controlled trial of clonazepam in RLS
+
+---
+
+*Other predictions, for reference:* **Insomnia** (score 99.32%) has only indirect literature and is rated L4 with a Hold decision. **Trigeminal nerve neoplasm** (score 99.30%) has no trials or literature and no plausible antitumour mechanism; it is rated L5 with a Hold decision.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

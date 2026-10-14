@@ -29,71 +29,95 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Lithium Carbonate: From Its Current US-Marketed Use to Pseudoachondroplasia
+# Lithium Carbonate: From Bipolar Disorder to Pseudoachondroplasia
 
 ## One-Sentence Summary
 
-Lithium carbonate is an established oral drug that is widely marketed in the United States. The TxGNN model predicts it may be effective for **pseudoachondroplasia**, a rare skeletal dysplasia. This prediction has **0 clinical trials** and **0 publications** behind it, so it is a model-only signal.
+Lithium carbonate is a mood stabiliser, originally used for bipolar disorder and related affective disorders, and the knowledge graph also links it to several arthropathies.
+The TxGNN model predicts it may be effective for **Pseudoachondroplasia**, a rare skeletal dysplasia, but **0 clinical trials** and **0 publications** currently support this direction.
+This is a model-only prediction with no direct supporting evidence.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Bipolar disorder (also major affective disorder, manic bipolar affective disorder, and several arthropathies in the knowledge graph) |
 | Predicted New Indication | Pseudoachondroplasia |
 | TxGNN Prediction Score | 99.98% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| US Market Status | Cancelled only (no currently valid licences in the data compiled for this report) |
+| Number of NDAs | 10 authorisation records (2 NDAs and 7 ANDAs, plus 1 record without a number) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. The approved indication text was also not provided in the source data. The link between lithium carbonate and this disease therefore cannot be verified from the input.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, lithium inhibits GSK-3β and modulates Wnt/β-catenin signalling. This pathway influences chondrocyte differentiation and skeletal cell stress responses.
 
-One speculative mechanism is worth noting. Lithium is known to inhibit GSK-3 and modulate Wnt signaling, and these pathways are involved in chondrocyte biology. That could make it relevant to skeletal dysplasias. This is a hypothesis only, and no supporting data was provided.
+Pseudoachondroplasia is caused by COMP mutations, which lead to endoplasmic reticulum stress in chondrocytes and defects in the extracellular matrix. The model's link likely comes from lithium's association with arthropathies (rheumatoid arthritis, osteoarthritis, juvenile idiopathic arthritis, spondyloarthropathy) in the knowledge graph. These share network neighbours with skeletal disorders.
 
-The high score (99.98%) may partly reflect knowledge-graph proximity among skeletal dysplasia nodes rather than a validated pharmacological relationship. It should be treated as a lead for investigation, not as evidence of efficacy.
+No direct evidence connects lithium to COMP-related pathology, so the mechanistic rationale is speculative.
+
+**Other predictions of note:** The other top-ranked predictions are also model-only, with scores from 99.29% to 99.96%. They include acromesomelic dysplasia (Hunter-Thompson type), brachyolmia, myosclerosis, Behr syndrome, WHIM syndrome and moesin-deficiency immunodeficiency. Only brachyolmia-amelogenesis imperfecta syndrome has an associated paper, and it is a general review with no lithium-specific data. Lithium's known teratogenicity concern argues for caution in the developmental skeletal conditions.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for pseudoachondroplasia.
+
+---
 
 ## US Market Information
 
-The source data lists no approved indication text for these products.
-
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA204779 | Lithium Carbonate | Tablet, extended release | RemedyRepack Inc. |
-| ANDA076832 | Lithium Carbonate | Tablet, extended release | Hikma Pharmaceuticals USA Inc. |
-| ANDA076691 | Lithium Carbonate | Tablet, extended release | Hikma Pharmaceuticals USA Inc. |
-| ANDA079139 | Lithium Carbonate | Capsule | NCS HealthCare of KY, LLC dba Vangard Labs |
-| ANDA079139 | Lithium Carbonate | Capsule | American Health Packaging |
+| NDA017812 | Lithium Carbonate (Cardinal Health 107) | Capsule, gelatin coated | Not stated; status cancelled |
+| NDA018558 | Lithium Carbonate (Hikma) | Tablet | Not stated; status cancelled |
+| ANDA204779 | Lithium Carbonate (RemedyRepack) | Tablet, extended release | Not stated; status cancelled |
+| ANDA076832 | Lithium Carbonate (Hikma) | Tablet, extended release | Not stated; status cancelled |
+| ANDA079159 | Lithium Carbonate (Alembic) | Capsule | Not stated; status cancelled |
 
-The other marketed forms are oral tablets, gelatin-coated capsules and pellets.
+All 10 authorisation records in the data are marked cancelled, with no currently valid single-ingredient or combination licences. Cancelled status in this dataset may not reflect actual marketing, so it should be verified against current FDA records.
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindications flagged in the knowledge graph** (graph-derived, not label text): kidney disease, pyoureter, cognitive disorder, hypothyroidism, myxedema, congenital hypothyroidism, psoriasis, parapsoriasis, sudden cardiac arrest, heart conduction disease, diabetes insipidus (including neurohypophyseal and central forms).
+- **Drug interactions:** 100 interactions were identified. Examples are listed below.
+  - **Major:** bupropion, lorcaserin.
+  - **Moderate:** acarbose, famotidine, albiglutide, alogliptin, metformin, pioglitazone, loperamide, mesalazine, morphine, balsalazide, metronidazole, canagliflozin, chlorpropamide, potassium citrate, clarithromycin.
+  - **Minor:** doxycycline, epinephrine, acetylsalicylic acid.
+- **Developmental concern:** Lithium is a known teratogenicity concern, which matters for the paediatric and developmental skeletal conditions among the predictions.
+
+Please refer to the package insert for the full warnings and contraindications, which are not available in the data compiled for this report.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the model score. There are no trials or publications, and the mechanism of action is unavailable. Among the other nine predicted indications, only brachyolmia-amelogenesis imperfecta syndrome has any literature: a general 2019 review of genetic skeletal disorders (PMID 31888683). Its content on lithium is unconfirmed.
+The prediction is model-only (L5), with no clinical trials and no supporting literature. The mechanistic link is speculative, and lithium has a narrow therapeutic index and teratogenicity concerns. The package insert safety data is also missing, which blocks safety screening.
 
 **To proceed, the following is needed:**
-- Mechanism of action data (e.g., from DrugBank)
-- Package insert warnings and contraindications for a safety screen
-- A targeted literature search on lithium, GSK-3/Wnt signaling and chondrocyte or skeletal dysplasia models
-- Preclinical evidence, such as cell or animal model data, before any clinical consideration
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- FDA package insert warnings and contraindications, to complete safety screening
+- Mechanism of action data, to support a mechanistic link analysis
+- Preclinical evidence (for example COMP-mutant chondrocyte or mouse models) testing the effect of lithium or GSK-3β inhibition on ER stress and matrix defects
+- A literature review for lithium in skeletal dysplasias and chondrocyte biology
+- Confirmation of current US marketing status
+- A risk-benefit assessment for a rare, largely paediatric population, given lithium's toxicity profile and teratogenic risk
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

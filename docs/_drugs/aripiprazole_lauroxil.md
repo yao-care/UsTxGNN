@@ -29,33 +29,43 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-# Aripiprazole Lauroxil: From Antipsychotic Therapy to Retinal Dystrophy with or without Extraocular Anomalies
+# Aripiprazole Lauroxil: From Schizophrenia to Retinal Dystrophy
 
 ## One-Sentence Summary
 
-Aripiprazole lauroxil is a long-acting injectable prodrug of aripiprazole, an antipsychotic that acts on dopamine and serotonin receptors.
-The TxGNN model predicts it may be effective for **retinal dystrophy with or without extraocular anomalies**, but **0 clinical trials** and **0 drug-specific publications** currently support this direction. It is a model prediction only.
+Aripiprazole lauroxil is a long-acting injectable form of aripiprazole, originally used to treat schizophrenia.
+The TxGNN model predicts it may be effective for **retinal dystrophy with or without extraocular anomalies**, but there are currently **0 clinical trials** and **0 publications** supporting this prediction. It rests on a model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Schizophrenia |
 | Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 5 (4 entries under NDA207533, 1 under NDA209830) |
+| US Market Status | Cancelled only |
+| Number of NDAs | 2 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Aripiprazole lauroxil is a prodrug of aripiprazole, a D2/5-HT1A partial agonist and 5-HT2A antagonist. The Evidence Pack does not list an original indication or a detailed mechanism of action, so the mechanism cannot be cross-checked against the original use.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, aripiprazole lauroxil is a prodrug of aripiprazole, a D2/5-HT1A partial agonist and 5-HT2A antagonist. Its efficacy in schizophrenia is established through dopaminergic and serotonergic modulation.
 
-No established link connects this mechanism to the predicted disease. Retinal dopamine signaling exists, but nothing ties it to inherited retinal dystrophy with extraocular anomalies, which is genetic and structural. The high score (99.99%) comes from graph-based prediction alone.
+For the predicted indication, no mechanistic link has been established. Inherited retinal dystrophies are driven by monogenic defects in photoreceptors or retinal pigment epithelium, and dopaminergic or serotonergic modulation is not known to address them. The very high TxGNN score (0.9999) is a knowledge-graph prediction and is not supported by any clinical or literature evidence. It should be treated as a hypothesis only.
 
-The drug is also an extended-release intramuscular injectable, and no ocular delivery route has been evaluated.
+### Other Predicted Indications (All Evidence Level L5, Hold)
 
-Eight other predicted indications share the same weakness: hydranencephaly, Charcot-Marie-Tooth disease type 1G, a congenital disorder of glycosylation, a polymicrogyria syndrome, syndromic myopia, two X-linked myopias, and atypical glycine encephalopathy. All have scores above 99.98%, no trials or literature, and no plausible mechanism. The myopia entries have only a speculative rationale, based on dopamine's role in eye-growth control in animal models.
+| Rank | Predicted Indication | TxGNN Score | Assessment |
+|------|------|------|------|
+| 2 | Hydranencephaly | 99.99% | No plausible link. A congenital structural brain malformation that an antipsychotic cannot reverse. |
+| 3 | Charcot-Marie-Tooth disease, demyelinating, type 1G | 99.99% | No established link. A myelin and Schwann cell disorder, not a dopaminergic or serotonergic one. |
+| 4 | Congenital disorder of glycosylation with defective fucosylation | 99.99% | No link. A glycan biosynthesis defect on pathways aripiprazole does not act on. |
+| 5 | Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis | 99.99% | No plausible link. A genetic cortical malformation that a postnatal antipsychotic would not alter. |
+| 6 | Syndromic myopia | 99.99% | Very speculative. Retinal dopamine signaling is implicated in eye growth, but aripiprazole's net retinal effect is unknown. Systemic antipsychotic exposure is a safety concern for a non-life-threatening condition. |
+| 7 | Myopia 26, X-linked, female-limited | 99.99% | No direct link. A monogenic form of myopia, and any dopamine link is speculative. |
+| 8 | Myopia, X-linked | 99.99% | No direct link. The dopamine link is hypothetical and unvalidated. |
+| 9 | Atypical glycine encephalopathy | 99.99% | Weak and speculative. Glycine and NMDA pathways are relevant to schizophrenia pharmacology, but aripiprazole does not correct the metabolic defect. |
 
 ## Clinical Trial Evidence
 
@@ -63,46 +73,33 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-The 14 retrieved publications were matched to the disease name, not to the drug. None studies aripiprazole lauroxil or aripiprazole, so they describe the disease area only and do not support efficacy. Ten are listed below.
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [9416661](https://pubmed.ncbi.nlm.nih.gov/9416661/) | 1997 | Review | Semin Ultrasound CT MR | Overview of orbital infections; sinusitis is the most common cause |
-| [20127583](https://pubmed.ncbi.nlm.nih.gov/20127583/) | 2010 | Review | Semin Neurol | Systematic approach to evaluating diplopia |
-| [38321238](https://pubmed.ncbi.nlm.nih.gov/38321238/) | 2024 | Review | Pediatr Radiol | Differential diagnosis and imaging of pediatric ocular pathologies |
-| [38249493](https://pubmed.ncbi.nlm.nih.gov/38249493/) | 2023 | Review | Taiwan J Ophthalmol | Congenital anomalies of lens shape, size and position |
-| [22241537](https://pubmed.ncbi.nlm.nih.gov/22241537/) | 2012 | Review | Klin Monbl Augenheilkd | Congenital ptosis and its associations with refractive errors |
-| [7035111](https://pubmed.ncbi.nlm.nih.gov/7035111/) | 1981 | Review | Doc Ophthalmol | Wagner-Stickler syndrome complex: vitreoretinal degeneration with extraocular manifestations |
-| [30196776](https://pubmed.ncbi.nlm.nih.gov/30196776/) | 2018 | Review | J Binocul Vis Ocul Motil | Congenital cranial dysinnervation disorders causing ophthalmoplegia |
-| [24932988](https://pubmed.ncbi.nlm.nih.gov/24932988/) | 2014 | Review | Am J Ophthalmol | Pathogenesis and treatment of maculopathy with cavitary optic disc anomalies |
-| [19826317](https://pubmed.ncbi.nlm.nih.gov/19826317/) | 2009 | Review | Optom Vis Sci | Single case of synergistic divergence in congenital fibrosis of extraocular muscles |
-| [109006](https://pubmed.ncbi.nlm.nih.gov/109006/) | 1979 | Case report | Am J Ophthalmol | Two patients with unilateral cryptophthalmia |
+Currently no related literature available.
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA207533 (4 entries) | ARISTADA | Injection, suspension, extended release | Not listed in the source data |
-| NDA209830 | ARISTADA INITIO | Injection, suspension, extended release | Not listed in the source data |
+| NDA207533 | ARISTADA | Injection, suspension, extended release | Not specified (status: cancelled) |
+| NDA209830 | ARISTADA INITIO | Injection, suspension, extended release | Not specified (status: cancelled) |
 
-The manufacturer for all entries is Alkermes, Inc.
+Both authorizations are listed as cancelled, so the drug currently has no valid US authorization in the data compiled for this report.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. The Evidence Pack has no warnings or contraindications, and the drug interaction query returned no results.
+Please refer to the package insert for safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a graph score alone, with no clinical trials, no drug-specific literature and no plausible mechanistic link to a genetic retinal disease. Package insert safety data are also missing, which blocks safety screening.
+The prediction rests only on a knowledge-graph score. There are no clinical trials or publications, no mechanistic link to retinal dystrophy, and both US authorizations are cancelled. Systemic antipsychotic exposure would also add safety concerns for these largely non-life-threatening or genetic conditions.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications (download and parse the label PDF)
-- Mechanism of action data from DrugBank, followed by a mechanism-level review of retinal dopamine and D2 signaling
-- Any preclinical evidence on aripiprazole in retinal degeneration models
-- An assessment of whether an extended-release intramuscular injectable is compatible with ocular delivery
+- Package insert warnings and contraindications from FDA, which are currently missing and block safety screening
+- Mechanism of action data for the drug (for example, from DrugBank)
+- Preclinical or mechanistic evidence linking dopaminergic or serotonergic modulation to retinal dystrophy, or to the retinal dopamine pathway in myopia, which is the only even speculative lead
+- Clarification of the cancelled US regulatory status and the available routes of administration for the predicted indications
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

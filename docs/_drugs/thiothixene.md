@@ -29,13 +29,12 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Thiothixene: From Antipsychotic Therapy to Retinal Dystrophy With or Without Extraocular Anomalies
+# Thiothixene: From Schizophrenia to Retinal Dystrophy with or without Extraocular Anomalies
 
 ## One-Sentence Summary
 
-Thiothixene is a typical (thioxanthene-class) antipsychotic that is currently marketed in the United States as an oral capsule.
-The TxGNN model predicts it may be effective for **retinal dystrophy with or without extraocular anomalies**, but there are currently **0 clinical trials** and **0 publications** supporting this specific prediction.
-The prediction rests on the model score alone.
+Thiothixene is a thioxanthene antipsychotic originally used to treat schizophrenia.
+The TxGNN model predicts it may be effective for **retinal dystrophy with or without extraocular anomalies**, but this is a graph-based prediction only, with **0 clinical trials** and **0 publications** supporting it.
 
 ---
 
@@ -43,23 +42,23 @@ The prediction rests on the model score alone.
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the provided US label data (thiothixene is a typical antipsychotic) |
+| Original Indication | Schizophrenia |
 | Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
-| TxGNN Prediction Score | 99.99% (model rank 397) |
+| TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 13 (all generic ANDA listings) |
+| US Market Status | Cancelled only (no active licenses) |
+| Number of NDAs | 2 (both ANDAs, both cancelled) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the source record. Thiothixene is known as a thioxanthene-class antipsychotic that blocks dopamine D2 receptors.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, thiothixene is a dopamine D2-receptor antagonist antipsychotic. Its efficacy in schizophrenia is established.
 
-No plausible mechanistic link has been identified between D2 receptor antagonism and retinal dystrophy. Retinal dystrophies are typically inherited degenerative conditions, and nothing in the available data suggests that dopamine receptor blockade would slow or reverse them. The high TxGNN score (99.99%) is a model output based on knowledge-graph patterns, and no trial or publication backs it.
+No mechanistic link to inherited retinal dystrophy has been identified. The score is very high (99.99%), but it comes only from the knowledge-graph model and does not reflect known biology. Nothing in thiothixene's pharmacology connects dopamine receptor antagonism to the course of a genetically driven retinal degeneration. This prediction should be treated as a computational hypothesis, not a supported repurposing direction.
 
-This prediction should therefore be treated as a computational hypothesis, not as a supported repurposing candidate.
+**Note on other predictions:** Of the ten predicted indications for this drug, only one has any published evidence: **manic bipolar affective disorder** (rank 10, score 99.95%). It is biologically plausible, since antipsychotics are an established class for acute mania. The support is limited to small, older comparative studies (for example, thiothixene vs. chlorpromazine in 29 manic patients on lithium, 1988; thiothixene vs. haloperidol for rapid tranquilization, 1984). That indication would be a more sensible research question than the top-ranked one, though it has no registered trials and lacks modern, well-powered evidence.
 
 ---
 
@@ -79,16 +78,22 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA211642 | Thiothixene (ANI Pharmaceuticals, Inc.) | Capsule | Not provided in source data |
-| ANDA215456 | Thiothixene (Amneal Pharmaceuticals NY LLC) | Capsule | Not provided in source data |
-| ANDA211642 | Thiothixene (Golden State Medical Supply, Inc.) | Capsule | Not provided in source data |
-| ANDA211642 | Thiothixene (Coupler LLC) | Capsule | Not provided in source data |
+| ANDA211642 (cancelled) | Thiothixene (ANI Pharmaceuticals, Inc.) | Capsule | Not listed |
+| ANDA215456 (cancelled) | Thiothixene (Amneal Pharmaceuticals NY LLC) | Capsule | Not listed |
+
+Both authorizations are for oral capsules and both are cancelled, so thiothixene is not currently marketed in the US under these licenses.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindication signals from the knowledge graph** (not taken from label text): epilepsy; blood disorders including neutropenia, agranulocytosis, leukopenia and congenital neutropenia syndromes; benign prostatic hyperplasia; angle-closure glaucoma; cardiovascular and heart disease; female breast carcinoma; neuroleptic malignant syndrome; tardive dyskinesia; Parkinson disease and parkinsonian disorders; Alzheimer disease; alcohol withdrawal; and Wernicke-Korsakoff syndrome.
+- **Drug Interactions** (100 interactions recorded; examples):
+  - **Major:** bupropion, morphine, potassium citrate, metoclopramide.
+  - **Moderate:** epinephrine, anticholinergics (atropine, hyoscyamine, glycopyrronium, dicyclomine, trospium), loperamide, dronabinol, nabilone, eluxadoline, and several bowel-preparation laxatives.
+- **Case-report safety signals:** priapism and black hairy tongue have been reported with thiothixene.
+
+Please refer to the package insert for official warnings and contraindications, which were not available in the data compiled for this report.
 
 ---
 
@@ -97,14 +102,13 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The predicted indication has no registered trials, no literature and no identifiable mechanistic link, so it is supported only by the model score (Evidence Level L5).
+The prediction rests on a model score alone (evidence level L5). There are no clinical trials, no literature, and no plausible mechanistic link to retinal dystrophy. The drug also has no active US licenses, and its safety profile (neutropenia, cardiovascular and movement-disorder risks) is a poor fit for a chronic genetic eye disease.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, to complete the safety screening
-- Detailed mechanism-of-action data from DrugBank, to test whether any biological link to retinal disease exists
-- A mechanistic or preclinical rationale showing why a D2 antagonist would affect retinal degeneration
-
-**Other predicted indications:** Of the 10 predictions in this pack, only rank 10, **manic bipolar affective disorder** (score 99.95%), has any supporting literature. It is graded L3 and recommended as a "Research Question". Its 20 reported publications include older head-to-head comparisons in mania or agitation (thiothixene vs chlorpromazine, loxapine and haloperidol, 1968–1988). Their design could not be verified, so they are not counted as Phase 3 RCT evidence. If the team wants to prioritize, this indication is the more evidence-supported direction. Other literature reports case-level safety signals (priapism, black hairy tongue).
+- Detailed mechanism of action data (MOA) and an explicit hypothesis linking it to retinal biology
+- FDA package insert warnings and contraindications for a formal safety screen
+- Preclinical evidence (for example, retinal degeneration models) before any clinical consideration
+- Consideration of redirecting effort to manic bipolar affective disorder, the only prediction with published studies, if a repurposing program is pursued, along with a review of whether the drug can still be sourced given the cancelled licenses
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

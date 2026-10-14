@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Desmopressin
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 586
-evidence_level: L4
+evidence_level: L5
 indication_count: 7
 ---
 
 # Desmopressin
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **7** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,89 +29,93 @@ Evidence Level: **L4** | Predicted Indications: **7**
 
 </div>
 
-# Desmopressin: From Its Marketed Uses to Congenital Prothrombin Deficiency
+# Desmopressin: From Von Willebrand Disease to Congenital Prothrombin Deficiency
 
 ## One-Sentence Summary
 
-Desmopressin is a synthetic vasopressin analogue (V2 receptor agonist) already marketed in the United States in several dosage forms.
-The TxGNN model predicts it may be effective for **congenital prothrombin deficiency**, but there is **0 directly relevant clinical trials** and **0 publications** on desmopressin for this disease.
-The only related items found concern other bleeding disorders, so the prediction rests on the model score alone.
-
----
+Desmopressin was originally used to treat von Willebrand disease, hemophilia A (mild forms), and nocturnal enuresis.
+The TxGNN model predicts it may be effective for **congenital prothrombin deficiency**, but **0 clinical trials** and only **1 publication (a 1993 review)** are available, and the mechanism does not support the prediction.
+This top-ranked prediction is most likely a network-proximity artefact, and the evidence is weak.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Hereditary von Willebrand disease; nocturnal enuresis; hemophilia (from the knowledge graph; no approved indication text was available in the US license records) |
 | Predicted New Indication | Congenital prothrombin deficiency |
 | TxGNN Prediction Score | 99.70% |
-| Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 11 (all cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the record. From general pharmacology, desmopressin activates the V2 receptor and triggers release of von Willebrand factor (VWF) and factor VIII from endothelial stores. This shortens bleeding time. It is used clinically in bleeding conditions such as mild hemophilia A and certain subtypes of von Willebrand disease.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, desmopressin is a synthetic vasopressin analogue. It acts through V2 receptor signalling to release von Willebrand factor (VWF) and factor VIII (FVIII) from endothelial stores. This explains its use in von Willebrand disease and mild hemophilia A.
 
-The link to congenital prothrombin deficiency is weak. Prothrombin (factor II) is a different clotting factor, and desmopressin has no known effect on prothrombin levels. The prediction seems to come from the general "bleeding disorder" context in the knowledge graph rather than from a shared mechanism. The high score (0.997) is therefore not backed by direct clinical evidence.
-
----
+Congenital prothrombin (factor II) deficiency is a different problem. Desmopressin has no known way to raise prothrombin levels. The high TxGNN score most likely reflects the disease's proximity to other bleeding disorders in the knowledge graph rather than a true biological effect. Prothrombin deficiency is normally managed with prothrombin complex concentrate. The prediction is therefore **not mechanistically supported**.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT04567511](https://clinicaltrials.gov/study/NCT04567511) | Phase 4 | Recruiting | 20 | Single-arm study of emicizumab (Hemlibra) in mild hemophilia A. It tests a different drug in a different disease, so it gives no direct evidence (relevance grade C). |
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [21115138](https://pubmed.ncbi.nlm.nih.gov/21115138/) | 2011 | Review | Autoimmunity Reviews | Acquired hemophilia A: diagnosis, causes, clinical spectrum and treatment options. It is a different disease and not specific to desmopressin. |
-| [7684674](https://pubmed.ncbi.nlm.nih.gov/7684674/) | 1993 | Review | Drugs | Treatment options for common inherited bleeding disorders such as hemophilia A and von Willebrand disease. It is not specific to prothrombin deficiency. |
-| [2607619](https://pubmed.ncbi.nlm.nih.gov/2607619/) | 1989 | Case report | Rinsho Ketsueki | DDAVP given to a patient with congenital combined factor V and factor VIII deficiency. This is not a prothrombin deficiency. |
-| [1942544](https://pubmed.ncbi.nlm.nih.gov/1942544/) | 1991 | Case report | Rinsho Ketsueki | Cesarean section managed with factor VIII concentrate in combined factor V and VIII deficiency. It is not desmopressin-specific. |
-
----
+| [7684674](https://pubmed.ncbi.nlm.nih.gov/7684674/) | 1993 | Review | Drugs | Overview of rational treatment options for common inherited bleeding disorders (haemophilia A, von Willebrand disease), with comparison of product safety, efficacy and cost. It does not show desmopressin benefit in prothrombin deficiency. |
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+All 11 US authorizations are cancelled. The records contain no approved indication text. Up to 5 are listed below.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA074830 | Desmopressin Acetate | Solution | Oceanside Pharmaceuticals |
-| NDA018938 | Desmopressin Acetate | Solution | Nordic Pharma, Inc. |
-| NDA019955 | DDAVP | Tablet | Ferring Pharmaceuticals Inc. |
-| ANDA201831 | Desmopressin Acetate | Tablet | Glenmark Pharmaceuticals Inc., USA |
-| NDA019955 | Desmopressin Acetate | Tablet | Nordic Pharma, Inc. |
+| NDA018938 | Desmopressin Acetate (Nordic Pharma) | Solution | Not available |
+| NDA019955 | DDAVP (Ferring) | Tablet | Not available |
+| ANDA074830 | Desmopressin Acetate (Oceanside) | Solution | Not available |
+| ANDA201831 | Desmopressin Acetate (Glenmark) | Tablet | Not available |
+| ANDA210223 | Desmopressin Acetate (XGen) | Injection, solution | Not available |
 
-Available routes: oral (tablet), injectable (injection, solution), and other (solution).
-
----
+Dosage forms across all authorizations include oral tablets, solutions and injectables.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindications / disease associations (knowledge graph, not label text)**: hypertension, coronary artery disease, impaired renal function, cystic fibrosis, allergic and vasomotor rhinitis, pharyngitis, common cold, respiratory tract infection, von Willebrand disease (certain subtypes), dipsogenic diabetes insipidus, polydipsia, and water intoxication.
+- **Drug Interactions** (100 interactions recorded; examples):
+  - **Major**: corticosteroids including hydrocortisone, dexamethasone, prednisone, prednisolone, triamcinolone, betamethasone, budesonide and beclomethasone.
+  - **Moderate**: epinephrine, loperamide, morphine, opium, chlorpropamide.
+  - **Minor**: acetylsalicylic acid.
+- **Class-related concerns from the literature**: hyponatremia and, rarely, arterial thrombotic events.
 
----
+Please also refer to the package insert, as the label warnings could not be retrieved for this report.
+
+## Other Predicted Indications (Context)
+
+Six further predictions were reviewed. None has a clinical trial, and none changes the overall decision.
+
+| Rank | Predicted Indication | Score | Evidence Level | Assessment |
+|------|------|------|------|------|
+| 2 | Inherited thrombophilia | 99.44% | L5 | Likely false positive. A pro-hemostatic agent in a prothrombotic state is counter-indicated, and the literature links desmopressin to a thrombotic signal. |
+| 3 | Glanzmann thrombasthenia | 99.30% | L4 | Desmopressin cannot restore the missing αIIbβ3 receptor. It is an adjunct with limited, variable efficacy, and case reports show failures. A research question only. |
+| 4 | Primary release disorder of platelets | 99.26% | L3 | The most plausible of the group. It can shorten bleeding time, supported by small observational studies and a 2023 review, but there are no randomized trials. |
+| 5 | Pseudo-von Willebrand disease | 99.16% | L4 | Likely harmful, because releasing more VWF may worsen platelet clumping and thrombocytopenia. |
+| 6 | Scott syndrome | 99.16% | L5 | There is no known effect on scramblase function and no direct evidence. |
+| 7 | "Flood factor deficiency" | 99.15% | L4 | The disease name appears to be garbled or mis-mapped. The evidence reflects the existing von Willebrand disease indication. The ontology entry should be checked. |
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-No study tests desmopressin in congenital prothrombin deficiency. The only trial found involves another drug, and the literature covers other bleeding disorders. The mechanism (VWF and factor VIII release) does not address prothrombin. The other six predicted indications are also not ready to advance: three are graded Hold and two Research Question, and the seventh, "flood factor deficiency," looks like a naming artifact. The exception is primary release disorder of platelets, which is graded L3 and Research Question.
+The top prediction, congenital prothrombin deficiency, has no clinical trials, one old general review, and no plausible mechanism. There are no currently valid US licenses, and key safety data are missing, which is a blocking data gap.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data from DrugBank
-- Direct evidence on desmopressin in prothrombin deficiency, such as case series or mechanistic data
-- A clear rationale for why desmopressin would raise or substitute for prothrombin activity
-- Route compatibility assessment for the intended use
+- FDA package insert warnings and contraindications (blocking gap for safety screening)
+- Mechanism-of-action data from DrugBank
+- Ontology check of the mis-mapped "flood factor deficiency" entry
+- If any indication is pursued, "primary release disorder of platelets" is the most credible candidate and would need a prospective study. The other candidates should be deprioritized.
+- Review of why the model ranks mechanistically implausible or harmful indications so highly
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

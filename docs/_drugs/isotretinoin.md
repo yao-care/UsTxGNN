@@ -29,12 +29,12 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Isotretinoin: From Severe Acne to Malignant Renovascular Hypertension
+# Isotretinoin: From Hypertension to Malignant Renovascular Hypertension
 
 ## One-Sentence Summary
 
-Isotretinoin is an oral retinoid marketed in the US as capsules. The supplied data does not state its approved indication, but it is generally known for severe recalcitrant nodular acne.
-The TxGNN model predicts it may be effective for **malignant renovascular hypertension** (and the closely related malignant hypertensive renal disease), but there are currently **0 clinical trials** and **0 publications** supporting this direction. This is a model-only signal.
+According to the data compiled for this report, isotretinoin is listed with hypertensive disorder and hypertension as its original indications. This listing most likely comes from the knowledge graph and is probably a data artifact, because isotretinoin is a systemic retinoid normally used for severe acne.
+The TxGNN model predicts it may be effective for **malignant renovascular hypertension** (and, with an identical score, malignant hypertensive renal disease). However, **0 clinical trials** and **0 publications** currently support this direction.
 
 ---
 
@@ -42,23 +42,25 @@ The TxGNN model predicts it may be effective for **malignant renovascular hypert
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the supplied data (all approved-indication fields are empty); generally known as severe recalcitrant nodular acne |
+| Original Indication | Hypertensive disorder / hypertension (from knowledge graph indication edges; no approved indication text is available in the US license records) |
 | Predicted New Indication | Malignant renovascular hypertension |
 | TxGNN Prediction Score | 99.01% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| US Market Status | Cancelled only (all licenses cancelled) |
+| Number of NDAs | 10 (1 NDA and 9 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Isotretinoin is a retinoid, and retinoids act through RAR/RXR nuclear receptor signaling. One speculative link is that this signaling may influence regulation of the renin-angiotensin system, which has some preclinical support. Nothing in the supplied data verifies it.
+Currently, detailed mechanism of action data is not available. The only support for this prediction is a high TxGNN score of 0.99, which is a computational prediction from a knowledge graph. No mechanistic rationale can be assessed from the data compiled for this report.
 
-The original and predicted indications are unrelated. Acne is a dermatological condition, and malignant renovascular hypertension is a severe cardiovascular and renal condition. Isotretinoin has no known antihypertensive use. The 0.990 score comes from knowledge-graph proximity alone, with no trial or literature support.
+Isotretinoin is a systemic retinoid, and the "hypertension" original indication is likely a data artifact rather than an established use. Retinoids have been studied preclinically for effects on renin-angiotensin signaling and vascular remodeling. These ideas are not supported by the data compiled here and are not a validated link to malignant renovascular hypertension.
 
-The second predicted indication, **malignant hypertensive renal disease**, has an identical score (0.990) and is closely related to the first. Both are probably driven by the same neighboring nodes in the knowledge graph, so they should be read as **one signal, not two independent lines of evidence**.
+The second predicted indication, **malignant hypertensive renal disease**, has the same score (99.01%). This suggests both predictions come from the same graph neighborhood and are not independent. Preclinical work on retinoid signaling in renal fibrosis and glomerular injury could in theory relate to hypertensive kidney damage, but it is unvalidated here.
+
+Isotretinoin is also teratogenic and can affect lipids and, in some patients, blood pressure. These properties raise safety concerns for a cardiovascular or renal indication.
 
 ---
 
@@ -76,23 +78,37 @@ Currently no related literature available.
 
 ## US Market Information
 
-The supplied licenses carry no approved-indication text, so that column is omitted. 5 of the 20 licenses are shown below.
+All 10 US authorizations are cancelled, and none is currently valid. The records contain no approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA218194 | Isotretinoin | Capsule | Aurobindo Pharma Limited |
-| ANDA211568 | Isotretinoin | Capsule | Zydus Pharmaceuticals USA Inc. |
-| ANDA216633 | Isotretinoin | Capsule | Zydus Lifesciences Limited |
-| NDA021951 | Isotretinoin | Capsule | Sun Pharmaceutical Industries, Inc. |
-| ANDA216633 | Isotretinoin | Capsule | Zydus Pharmaceuticals USA Inc. |
+| ANDA218194 | Isotretinoin (Aurobindo Pharma) | Capsule | Not available (cancelled) |
+| ANDA211568 | Isotretinoin (Zydus Pharmaceuticals USA) | Capsule | Not available (cancelled) |
+| ANDA216633 | Isotretinoin (Zydus Lifesciences) | Capsule | Not available (cancelled) |
+| NDA021951 | Isotretinoin (Sun Pharmaceutical) | Capsule | Not available (cancelled) |
+| ANDA076135 | Claravis (Teva) | Capsule, liquid filled | Not available (cancelled) |
 
-All products are oral. Listed forms are capsule, liquid-filled capsule, and gelatin-coated capsule.
+Five more cancelled authorizations are on record, including ZENATANE (Dr. Reddy's) and products from Amneal and Mayne Pharma.
+
+---
+
+## Cytotoxicity
+
+Isotretinoin is not an antineoplastic drug under the criteria used for this report, so this section is omitted.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No warnings or contraindications were supplied, and the drug-interaction query returned no results.
+- **Contraindications suggested by the knowledge graph** (computational associations, not label text): anxiety disorder, neurotic disorder, dysthymic disorder, psychotic disorder, schizophreniform disorder, schizoaffective disorder, mental disorder, kidney disease, liver disease, gallbladder disease, pancreatitis, inflammatory bowel disease, osteoporosis (including postmenopausal), systemic lupus erythematosus, diabetes mellitus, diabetic ketoacidosis, potassium deficiency, neutropenia, agranulocytosis, angioedema (several forms, including hereditary), hypotensive disorder, and others.
+  - Kidney disease is directly relevant to the predicted renal indication.
+- **Drug Interactions**: 98 interactions are recorded. Those with **Major** severity:
+  - Doxycycline, minocycline, tetracycline
+  - Vitamin A
+- Examples of **Moderate** severity interactions: corticosteroids (betamethasone, budesonide, dexamethasone, hydrocortisone, prednisolone, prednisone, triamcinolone), warfarin, dicoumarol, ethanol, naltrexone, nitisinone, fostamatinib, ivacaftor, lumacaftor.
+- **Other concerns noted in the evaluation**: teratogenicity, lipid effects, and possible blood pressure effects.
+
+Package insert warnings and contraindications were not available for this report. Please refer to the package insert for full safety information.
 
 ---
 
@@ -101,14 +117,15 @@ Please refer to the package insert for safety information. No warnings or contra
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a knowledge-graph score. There are no trials or literature, no documented mechanism, and no known antihypertensive use. The two predicted indications are effectively one signal.
+The prediction rests only on a knowledge-graph score, with no clinical trials, no literature and no mechanism data (L5). The "original indication" of hypertension is probably a data artifact. All US licenses are cancelled, and the safety profile (teratogenicity, lipid effects, and a long list of knowledge-graph contraindications including kidney disease) is unfavorable for a cardiovascular or renal indication.
 
 **To proceed, the following is needed:**
-- The FDA package insert (warnings, contraindications, and any risk-management requirements). This is a blocking gap for safety screening.
-- Mechanism of action data (for example from DrugBank) to test the speculative retinoid–renin-angiotensin link.
-- A systematic literature search for isotretinoin/retinoids and hypertension or renal vascular effects, plus a check of clinical trial registries.
-- A route and dosage-form compatibility assessment against the target indication.
-- A review of whether the target indication is clinically plausible for an oral retinoid.
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data, for example from DrugBank
+- Verification of the original indication, to confirm whether hypertension is an artifact
+- Preclinical or mechanistic evidence linking retinoid signaling to malignant renovascular hypertension or malignant hypertensive renal disease
+- A review of whether the two predictions are independent
+- An assessment of the teratogenicity risk management and the practical feasibility of development, given the cancelled market status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,67 +29,86 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Mebendazole: From Anthelmintic Use to Acne
+# Mebendazole: From Enterobiasis, Ascaridiasis and Trichuriasis to Acne
 
 ## One-Sentence Summary
 
-Mebendazole is a benzimidazole anthelmintic (anti-worm drug) marketed in the US as Vermox chewable tablets. The TxGNN model predicts it may be effective for **acne**, but the prediction has **0 clinical trials** and **1 publication** behind it, and that publication does not address acne treatment. This is a model-only prediction (evidence level L5).
+Mebendazole is a benzimidazole anthelmintic, originally used to treat intestinal worm infections such as pinworm (enterobiasis), roundworm (ascaridiasis) and whipworm (trichuriasis).
+The TxGNN model predicts it may be effective for **acne**, but there are currently **0 clinical trials** and only **1 publication** (an unrelated case report), so the evidence is essentially model prediction only.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in the source data (drug class: anthelmintic) |
+| Original Indication | Enterobiasis, ascaridiasis, trichuriasis (from the knowledge graph; the US license record has no indication text) |
 | Predicted New Indication | Acne (disease) |
 | TxGNN Prediction Score | 99.20% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
+| US Market Status | Cancelled only (no currently valid license) |
 | Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
+---
+
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the record. Based on known information, mebendazole is a benzimidazole anthelmintic that inhibits tubulin polymerization and impairs glucose uptake in parasites. No original indication text is recorded in the input, so the link between the original and new indication cannot be assessed from the data provided.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, mebendazole is a benzimidazole anthelmintic that binds parasite beta-tubulin and inhibits microtubule polymerization. Its efficacy in intestinal worm infections is established.
 
-Acne involves excess sebum production, follicular hyperkeratinization, *Cutibacterium acnes* colonization and inflammation. Any connection to mebendazole would rest on speculative anti-inflammatory or antiproliferative effects of tubulin inhibition. No preclinical or clinical data in this dataset support that idea.
+No credible mechanistic link to acne was identified. Acne is driven by excess sebum production, follicular hyperkeratinization, *Cutibacterium acnes* colonization and inflammation. No established pathway connects tubulin inhibition to these processes. Possible anti-proliferative or anti-inflammatory effects on keratinocytes or sebocytes are speculative and not supported by the available data.
 
-The high TxGNN score (0.992) is a model output only, and nothing in this dataset corroborates it.
+The high TxGNN score (0.992) reflects a knowledge-graph prediction only and should not be read as evidence of efficacy. The model's rank for this prediction was 17,535.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [7072899](https://pubmed.ncbi.nlm.nih.gov/7072899/) | 1982 | Case report | Am J Trop Med Hyg | Report of human proliferative sparganosis (a tapeworm larval infection) in Venezuela. The patient had acne-like skin lesions as one symptom. This is not a study of acne treatment and does not support the prediction. |
+| [7072899](https://pubmed.ncbi.nlm.nih.gov/7072899/) | 1982 | Case report | The American Journal of Tropical Medicine and Hygiene | Report of a human proliferative sparganosis case in Venezuela; the patient had acne-like skin lesions as a symptom of the parasitic infection. This does not test mebendazole for acne and offers no support for the prediction. |
+
+---
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA208398 | VERMOX | Chewable tablet (oral) | Janssen Pharmaceuticals, Inc. |
+| NDA208398 | VERMOX (Janssen Pharmaceuticals, Inc.) | Chewable tablet (oral) | Not recorded; license status: cancelled |
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindication-related conditions (from the knowledge graph, not label text)**: liver disease, gallbladder disease.
+- **Drug Interactions** (10 found; most are moderate):
+  - Moderate: metronidazole, iodide I-131, iodide I-123, phenobarbital, carbamazepine, ritonavir, fosphenytoin, phenytoin, primidone.
+  - Minor: cimetidine.
+  - Several of these are anticonvulsants that induce liver enzymes and may lower mebendazole exposure. Others carry their own clinical cautions.
+
+Please refer to the package insert for full warnings and contraindications.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score. There are no registered trials, the single publication is an unrelated case report, and no mechanistic link to acne is established. Basic safety and mechanism data are also missing from the record.
+The prediction rests only on a knowledge-graph score, with no clinical trials, no relevant literature and no plausible mechanistic link between tubulin inhibition and acne pathology. The only US license is cancelled, and label safety data is unavailable.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications (blocking item for safety screening)
-- Mechanism of action data from DrugBank
-- Preclinical evidence that tubulin inhibition or another mechanism affects acne pathways (sebum, keratinization, inflammation)
-- Assessment of route compatibility (the only US form is oral; a suitable route for acne is not yet defined)
-- Any clinical or observational data on mebendazole in acne
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
+- Mechanism of action data (e.g., from DrugBank) and a rigorous assessment of any biological link to acne
+- FDA package insert warnings and contraindications, to complete safety screening
+- Preclinical evidence (e.g., effects on sebocytes, keratinocytes or *C. acnes*) before any clinical consideration
+- Assessment of route compatibility, since the only known formulation is an oral chewable tablet and acne treatment often uses topical therapy
+- A review of the 1982 case report's relevance, and a literature search for better evidence
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -33,34 +33,28 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Mafenide is a topical sulfonamide antimicrobial, marketed in the US as a cream (Sulfamylon) for burn wound care.
-The TxGNN model predicts it may be effective for **irritable bowel syndrome**, but **0 clinical trials** and **0 publications** currently support this direction.
-The prediction rests on the model score alone.
+Mafenide is a topical sulfonamide antimicrobial, sold in the US as a cream under the brand name Sulfamylon.
+The TxGNN model predicts it may be effective for **irritable bowel syndrome**, but **no clinical trials and no publications** currently support this prediction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the US label data (mafenide is known as a topical burn wound antimicrobial) |
+| Original Indication | Not stated in the available regulatory data (the license record has no indication text) |
 | Predicted New Indication | Irritable bowel syndrome |
 | TxGNN Prediction Score | 99.97% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
+| US Market Status | Cancelled only (no active license) |
 | Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Mafenide is a topical sulfonamide antimicrobial and carbonic anhydrase inhibitor, used on the skin and not systemically. Its effect on burn wound infection is established, but that does not carry over to irritable bowel syndrome (IBS).
+Currently, detailed mechanism of action data is not available. Based on known information, mafenide is a topical sulfonamide antimicrobial and carbonic anhydrase inhibitor. It is a topical agent, and the data compiled for this report do not state its original indication.
 
-We found no credible mechanistic link between mafenide and IBS. IBS is a functional gut disorder, and a cream applied to burn wounds has no known action on gut motility, visceral sensitivity, or the gut microbiome. The score of 99.97% (model rank 1234) is a graph-based result and does not indicate clinical promise.
+No mechanistic link to irritable bowel syndrome has been established. The high TxGNN score reflects a graph-based computational prediction only. A topical antimicrobial has no plausible rationale for a functional gut disorder, and the route of administration is also incompatible. The prediction should be treated as a weak, unsupported signal.
 
-The route also does not fit. Mafenide is available only as a cream, and no evaluation of a route suitable for IBS has been done. Route compatibility is still pending.
-
-The other nine top predictions show the same pattern, with no trials or literature for any of them:
-- **Eye-related (uveitis, panuveitis, iris disease, iridoschisis, abnormal pupillary function, iris neoplasms):** These likely reflect clustering of iris and eye nodes in the knowledge graph. The only conceivable link is carbonic anhydrase inhibition, and mafenide has no evidence of ocular safety or efficacy.
-- **Cauda equina syndrome:** This is a surgical neurological emergency with no plausible role for a topical antimicrobial.
-- **Acne:** This is the most biologically plausible candidate, since mafenide is antibacterial and acne involves *Cutibacterium acnes*. Local irritation, pain on application, and established topical alternatives limit its practical value. It is flagged only as a research question.
+Other top-ranked predictions show the same pattern. These include cauda equina syndrome, panuveitis, iris disease, uveitis, acne and several iris-related conditions. Their scores are all between 99.92% and 99.97%. Acne is the most biologically plausible, since mafenide is a topical antibacterial. Even so, it is not established against *Cutibacterium acnes* and carries pain, burning and metabolic acidosis concerns. Many of the ocular predictions appear to reflect clustering of eye-disease nodes in the knowledge graph, not drug-specific biology.
 
 ## Clinical Trial Evidence
 
@@ -74,25 +68,28 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA016763 | SULFAMYLON (Rising Pharma Holdings, Inc.) | Cream (topical) | Not listed in the source data |
+| NDA016763 (cancelled) | SULFAMYLON (Rising Pharma Holdings, Inc.) | Cream | Not available |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug interaction records were found in the queried database.
+- **Knowledge-graph contraindication signals** (from the TxGNN knowledge graph, not label text): kidney disease, pyoureter, acidosis disorder, metabolic acidosis, G6PD deficiency, glycogen storage disease, cystinuria, galactosemia, lung disease, and an obsolete rare pulmonary disease category.
+- No drug interactions were found in the queried data.
+
+Please refer to the package insert for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting trials or literature (L5), and no credible mechanism links a topical burn antimicrobial to IBS. A high model score alone is not enough to justify further investment.
+The prediction rests only on a model score, with no trials, no literature and no mechanistic rationale. The only US license is cancelled, and mafenide is a topical product with notable tissue toxicity and metabolic acidosis risk. This makes it poorly suited to a gastrointestinal indication.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data from DrugBank, to allow a proper mechanistic analysis
-- A route-compatibility assessment, since only a topical cream exists
-- Any preclinical or clinical signal for IBS
-- If the project wants to pursue a candidate for this drug, the acne prediction (the only one flagged as a research question) is the better one to examine first
+- Mechanism of action data from DrugBank
+- Any preclinical or clinical evidence linking mafenide to irritable bowel syndrome
+- A route-of-administration assessment, since only a topical cream has been marketed
+- If the team wants to pursue a more plausible direction, a separate assessment of acne, where a topical antibacterial rationale exists, compared with established alternatives
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

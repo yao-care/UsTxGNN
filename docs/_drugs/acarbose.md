@@ -29,37 +29,32 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-# Acarbose: From Type 2 Diabetes to Classic Stiff Person Syndrome
+# Acarbose: From Type 2 Diabetes Mellitus to Classic Stiff Person Syndrome
 
 ## One-Sentence Summary
 
-Acarbose is an intestinal alpha-glucosidase inhibitor that lowers postprandial blood glucose, and it is marketed in the US as oral tablets.
-The TxGNN model predicts it may be effective for **classic stiff person syndrome**, but this is a model prediction only, with **0 clinical trials** and **0 publications** supporting it.
+Acarbose is an oral alpha-glucosidase inhibitor, originally used to treat type 2 diabetes mellitus.
+The TxGNN model predicts it may be effective for **classic stiff person syndrome**, but there are currently **0 clinical trials** and **0 publications** supporting this specific prediction. The score appears to reflect network proximity in the knowledge graph rather than a pharmacological rationale.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the supplied US license records; acarbose is an alpha-glucosidase inhibitor that lowers postprandial glucose (type 2 diabetes) |
+| Original Indication | Type 2 diabetes mellitus |
 | Predicted New Indication | Classic stiff person syndrome |
 | TxGNN Prediction Score | 99.65% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 17 (all listed licenses are ANDA generics) |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 3 (all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Acarbose is known to inhibit intestinal alpha-glucosidase, which slows carbohydrate digestion and blunts the rise in blood glucose after meals.
+Currently, detailed mechanism of action data is not available. Based on known information, acarbose is an alpha-glucosidase inhibitor that acts in the gut to slow carbohydrate digestion and lower postprandial blood glucose. Its efficacy in type 2 diabetes is established.
 
-Stiff person syndrome is an autoimmune neurological disorder, typically involving anti-GAD antibodies and disrupted GABAergic signalling. No plausible mechanistic link to alpha-glucosidase inhibition was found in the supplied data. The high score is most likely a knowledge-graph artifact, for example the known association between stiff person syndrome and diabetes.
+For stiff person syndrome, no clear mechanistic link exists. The condition is an autoimmune disorder of GABAergic neurotransmission, typically involving anti-GAD65 antibodies. The high score probably reflects network proximity through autoimmune diabetes and GAD autoimmunity, not a direct pharmacological rationale. Acarbose has no known action on the nervous system or on the autoimmune process.
 
-The same pattern applies to the other high-scoring predictions, which are also L5 with no trials or literature:
-- Focal stiff limb syndrome: a stiff person spectrum variant, same reasoning.
-- Thiamine-responsive dysfunction syndrome: at most indirect glycemic control, with no effect on the underlying transporter defect.
-- Opsismodysplasia: a rare skeletal dysplasia with no evident connection.
-- Localized lipodystrophies (drug-induced, centrifugal, pressure-induced, idiopathic): no known effect of acarbose on adipose tissue.
-- Pancreatic agenesis (rank 9): the only prediction with retrieved literature (L4), but the papers concern type 2 diabetes, insulin autoimmune syndrome and animal models rather than pancreatic agenesis itself. Insulin remains the required therapy.
+The second-ranked prediction, focal stiff limb syndrome (score 99.65%), is a focal variant of the same spectrum and likely shares the same graph-based artifact. Other lower-ranked predictions (thiamine-responsive dysfunction syndrome, opsismodysplasia, several localized lipodystrophies, and pancreatic agenesis) also have no clinical evidence, and their links to acarbose are at best indirect (a shared diabetes or metabolic phenotype).
 
 ## Clinical Trial Evidence
 
@@ -67,34 +62,37 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for classic stiff person syndrome.
+
+For reference, the literature retrieved for the lower-ranked prediction of pancreatic agenesis concerns type 2 diabetes, insulin autoimmune syndrome, and animal models, and does not address that condition directly. One animal study (PMID 10094112, 1999) showed that acarbose prevented and reversed metabolic abnormalities in a diabetic rat model, which supports its established antidiabetic use rather than any new indication.
 
 ## US Market Information
 
-17 licenses are recorded. All are tablets, and the main distinct ones are listed below. Approved indication text was not included in the supplied records.
-
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA090912 | Acarbose | Tablet | Strides Pharma Science Limited |
-| ANDA202271 | Acarbose | Tablet | Chartwell RX, LLC |
-| ANDA202271 | Acarbose | Tablet | Bryant Ranch Prepack |
+| ANDA090912 (cancelled) | Acarbose | Tablet | Not available |
+| ANDA202271 (cancelled) | Acarbose | Tablet | Not available |
+| ANDA078470 (cancelled) | Acarbose | Tablet | Not available |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug interaction records were found for acarbose in the supplied data.
+- **Contraindication-related conditions (from the knowledge graph, not label text)**: kidney disease, pyoureter, liver disease, gallbladder disease, cirrhosis of liver, inflammatory bowel disease, hypoglycemia, injury.
+- **Drug Interactions**: 100 interactions were identified. Examples of moderate-level interactions include acetazolamide, salbutamol, aloe vera leaf, alpelisib, amprenavir, aripiprazole, asenapine, asparaginase, atazanavir, bedaquiline, bendroflumethiazide, benzphetamine, benzthiazide, and betamethasone. Minor-level examples include albiglutide, alclometasone (topical), lipoic acid, amcinonide, and anisindione.
+
+Please refer to the package insert for label warnings and contraindications, as this information has not yet been compiled.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a very high model score but no trials, no literature and no plausible mechanism linking alpha-glucosidase inhibition to stiff person syndrome. It is most likely a knowledge-graph artifact, so it does not justify further investment.
+The prediction rests on model output alone (evidence level L5), with no clinical trials or literature. There is no plausible pharmacological link between an intestinal alpha-glucosidase inhibitor and an autoimmune neurological disorder. All three US licenses are cancelled.
 
 **To proceed, the following is needed:**
-- A credible mechanistic hypothesis connecting acarbose to anti-GAD autoimmunity or GABAergic pathways
-- Any preclinical or clinical signal specific to stiff person syndrome
-- Package insert warnings, contraindications and approved indication text (the safety screening stage cannot proceed without them)
-- Detailed mechanism of action data from DrugBank
+- Mechanism of action data, and a plausible mechanistic hypothesis for stiff person syndrome
+- FDA package insert warnings and contraindications, to enable safety screening
+- Any preclinical or clinical evidence in stiff person syndrome or related conditions
+- Clarification of current US market and supply status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

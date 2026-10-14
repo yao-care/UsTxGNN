@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Selumetinib
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 1154
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Selumetinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L3** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,12 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Selumetinib: From NF1 Plexiform Neurofibromas to Familial Generalized Lentiginosis
+# Selumetinib: From Neurofibromatosis to Peripheral Nerve Schwannoma
 
 ## One-Sentence Summary
 
-Selumetinib is a MEK1/2 inhibitor of the RAS-MAPK pathway, marketed in the US as KOSELUGO and used for NF1-related plexiform neurofibromas.
-The TxGNN model predicts it may be effective for **familial generalized lentiginosis**, but **no clinical trials and no publications** currently support this prediction. It rests on the model score alone.
+Selumetinib is a MEK inhibitor originally used to treat neurofibromatosis.
+The TxGNN model predicts it may be effective for **Peripheral Nerve Schwannoma**,
+with **3 clinical trials** and **6 publications** currently supporting this direction. These are mostly early-stage, small, or indirect.
 
 ---
 
@@ -42,59 +43,57 @@ The TxGNN model predicts it may be effective for **familial generalized lentigin
 
 | Item | Content |
 |------|------|
-| Original Indication | NF1-related plexiform neurofibromas (the license records carry no indication text, so this comes from the drug's known approved use) |
-| Predicted New Indication | Familial generalized lentiginosis |
-| TxGNN Prediction Score | 99.96% |
-| Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 4 license records (2 unique NDAs: NDA213756, NDA219943) |
+| Original Indication | Neurofibromatosis |
+| Predicted New Indication | Peripheral nerve schwannoma (the report's primary prediction, chosen as the best-supported of the top 10 predictions) |
+| TxGNN Prediction Score | 99.95% (the top-ranked prediction, familial generalized lentiginosis, scores 99.96%, but has no supporting evidence) |
+| Evidence Level | L3 |
+| US Market Status | Cancelled only (both NDAs are listed as cancelled in the data compiled for this report) |
+| Number of NDAs | 2 |
 | Recommended Decision | Hold |
+
+**Note on selection:** The top-ranked prediction (familial generalized lentiginosis) has no trials or literature. Peripheral nerve schwannoma (rank 9) is the best-supported prediction, so it is the focus here. Rhabdoid tumor (rank 3) has only indirect evidence. The other seven predictions are model output only (L5).
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Selumetinib inhibits MEK1/2 in the RAS-MAPK pathway. The Evidence Pack has no detailed mechanism-of-action entry, so this description comes from the mechanistic notes attached to the prediction.
+Detailed mechanism of action data is not available in the data compiled for this report. Selumetinib is known as a MEK1/2 inhibitor, which blocks the RAS/MAPK signaling pathway. It is established for neurofibromatosis type 1 plexiform neurofibromas, a closely related nerve sheath tumor.
 
-Lentiginosis phenotypes overlap with RASopathies. For example, café-au-lait macules are a hallmark of NF1. Selumetinib is already used in NF1, so a pathway-level link to pigmentary phenotypes is plausible.
+Loss of NF1 or NF2 in Schwann cells drives RAS/MAPK and related signaling, which gives a mechanistic reason to try MEK inhibition in schwannomas (PMID 38216572). Neurofibromatosis and schwannoma are both nerve sheath tumor conditions with overlapping pathway biology.
 
-This link is only a hypothesis. No disease-specific mechanism has been established for familial generalized lentiginosis, and no supporting studies were retrieved.
+Clinical support in NF2-related schwannoma is still thin. It consists of one small, terminated Phase 2 trial and a case report of partial response in an NF2-associated ependymoma. No completed randomized trial exists.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT03095248](https://clinicaltrials.gov/study/NCT03095248) | Phase 2 | Terminated | 10 | Selumetinib in NF2-related tumors with hearing decline or tumor growth. Directly relevant, but underpowered and no results retrieved. |
+| [NCT07707947](https://clinicaltrials.gov/study/NCT07707947) | Phase 2 | Not yet recruiting | 20 | Single-arm study of a MEK1/2 inhibitor (selumetinib per the title) in NF2-related schwannomatosis, adults and children. No results yet. |
+| [NCT07713745](https://clinicaltrials.gov/study/NCT07713745) | Phase 2 | Not yet recruiting | 200 | PRIME-NF2 platform-basket trial across vestibular and non-vestibular schwannomas, meningiomas and ependymomas. Selumetinib's inclusion is unconfirmed. |
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available.
-
----
-
-## Other Predicted Indications with Evidence
-
-The top-ranked prediction has no evidence. Two lower-ranked predictions for selumetinib do:
-
-| Rank | Predicted Indication | TxGNN Score | Evidence Level | Key Evidence |
-|------|------|------|------|------|
-| 9 | Peripheral nerve schwannoma | 99.95% | L3 | [NCT03095248](https://clinicaltrials.gov/study/NCT03095248): Phase 2 single-arm trial in NF2-related tumors, terminated early with 10 patients. Preclinical data ([PMID 19804833](https://pubmed.ncbi.nlm.nih.gov/19804833/)) show MEK1/2 inhibition reduces ERK activation and proliferation in primary human schwannoma cells. A case report ([PMID 38058737](https://pubmed.ncbi.nlm.nih.gov/38058737/)) describes a partial response in an NF2-associated ependymoma. |
-| 3 | Rhabdoid tumor | 99.96% | L4 | [NCT03155620](https://clinicaltrials.gov/study/NCT03155620): NCI-COG Pediatric MATCH screening protocol (Phase 2, n=1377) with a selumetinib subprotocol, not specific to rhabdoid tumor. Preclinical ATRT work ([PMID 25638158](https://pubmed.ncbi.nlm.nih.gov/25638158/)) suggests MAPK pathway dependence. |
-
-The other seven predictions (ranks 2, 4–8 and 10) are L5, model prediction only.
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [37906356](https://pubmed.ncbi.nlm.nih.gov/37906356/) | 2023 | Review | Current Oncology Reports | Management of nervous system tumors in neurofibromatosis, noting the role of MEK inhibitors. |
+| [37046591](https://pubmed.ncbi.nlm.nih.gov/37046591/) | 2023 | Review/Expert recommendations | Cancers | EURACAN recommendations on peripheral and cranial nerve tumors. Evidence is low because of rarity. |
+| [38058737](https://pubmed.ncbi.nlm.nih.gov/38058737/) | 2023 | Case report | Mol Ther Methods Clin Dev | Partial response to selumetinib in a patient with an NF2-associated ependymoma. |
+| [38216572](https://pubmed.ncbi.nlm.nih.gov/38216572/) | 2024 | Preclinical | Nature Communications | Functional interactions between NF1 and NF2 in Schwann cell tumors, with treatment resistance mechanisms. |
+| [33835000](https://pubmed.ncbi.nlm.nih.gov/33835000/) | 2020 | Case report | Acta Dermatovenerol Croat | Plexiform neurofibroma without NF1. Background only. |
+| [40861330](https://pubmed.ncbi.nlm.nih.gov/40861330/) | 2025 | Case report | Surgical Case Reports | Surgical management of a giant mediastinal schwannoma in NF1. Background only. |
 
 ---
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form |
-|---------|------|------|
-| NDA213756 | KOSELUGO (AstraZeneca Pharmaceuticals LP) | Capsule |
-| NDA219943 | KOSELUGO (AstraZeneca Pharmaceuticals LP) | Granule |
-
-The source data lists each NDA twice and gives no approved-indication text.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA213756 | KOSELUGO (AstraZeneca) | Capsule | Not available (status: cancelled) |
+| NDA219943 | KOSELUGO (AstraZeneca) | Granule | Not available (status: cancelled) |
 
 ---
 
@@ -102,7 +101,7 @@ The source data lists each NDA twice and gives no approved-indication text.
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (MEK inhibitor), not a conventional cytotoxic agent |
+| Cytotoxicity Classification | Targeted therapy (MEK inhibitor) |
 | Myelosuppression Risk | Please refer to the package insert warnings and precautions |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
 | Monitoring Items | Please refer to the package insert warnings and precautions |
@@ -112,7 +111,13 @@ The source data lists each NDA twice and gives no approved-indication text.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+**Drug Interactions:** The interaction screening returned 84 interacting drugs. Examples from the list reviewed:
+- **Major:** aprepitant, dexamethasone, clarithromycin, cobicistat
+- **Moderate:** acetylsalicylic acid, cimetidine, clotrimazole, deferasirox, apixaban, dipyridamole, cilostazol, and several other antithrombotic or antiplatelet agents
+
+The Major interactions include agents that affect drug metabolism (such as CYP3A inhibitors), so co-medications need careful review.
+
+Please refer to the package insert for warnings and contraindications.
 
 ---
 
@@ -121,15 +126,14 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction, familial generalized lentiginosis, is supported only by the model score (L5). It has no trials, no literature, and no established mechanism.
+The mechanistic basis is strong and selumetinib is established in the related NF1 plexiform neurofibroma setting. However, direct evidence in schwannoma is limited to one small terminated Phase 2 trial (10 patients), a case report, and two trials that have not started recruiting. The US NDAs are listed as cancelled, and the package insert safety data could not be retrieved. Evidence level is L3 at best, and the other nine predictions are L5 or indirect.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Detailed mechanism-of-action data from DrugBank
-- Any disease-specific biological evidence linking familial generalized lentiginosis to MAPK signaling
-- For the better-supported predictions, treat peripheral nerve schwannoma (L3) and rhabdoid tumor (L4) as separate research questions. Schwannoma has an early-terminated Phase 2 trial in NF2-related tumors and preclinical data. Rhabdoid tumor has preclinical MAPK evidence and indirect support from a pediatric umbrella trial.
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Results or publication from the terminated NCT03095248 trial
+- Early data from NCT07707947 and confirmation of selumetinib's role in PRIME-NF2
+- Mechanism of action data and FDA package insert warnings and contraindications
+- Clarification of the regulatory status of the cancelled NDAs
+- A review of the major drug interactions for the likely patient population
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

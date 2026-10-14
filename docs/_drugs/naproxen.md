@@ -29,13 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Naproxen: From Pain and Inflammation to Brachydactyly-Syndactyly Syndrome
+# Naproxen: From Musculoskeletal Pain and Inflammation to Brachydactyly-Syndactyly Syndrome
 
 ## One-Sentence Summary
 
-Naproxen is a widely marketed non-steroidal anti-inflammatory drug (NSAID) used for pain and inflammation.
-The TxGNN model predicts it may be effective for **brachydactyly-syndactyly syndrome**, a congenital limb malformation.
-This prediction currently has **0 clinical trials** and **0 publications** behind it, so it is a model output only.
+Naproxen is a non-steroidal anti-inflammatory drug (NSAID) originally used for inflammatory and painful musculoskeletal conditions such as rheumatoid arthritis, osteoarthritis, gout, tendinitis and bursitis, as well as migraine and headache.
+The TxGNN model predicts it may be effective for **Brachydactyly-Syndactyly Syndrome**, but there are currently **0 clinical trials** and **0 publications** supporting this direction.
+The prediction is a computational output only and has no supporting evidence.
 
 ---
 
@@ -43,28 +43,23 @@ This prediction currently has **0 clinical trials** and **0 publications** behin
 
 | Item | Content |
 |------|------|
-| Original Indication | Pain and inflammation (general drug knowledge; the US label text is not included in the supplied data) |
+| Original Indication | Rheumatoid arthritis, osteoarthritis, ankylosing spondylitis, gout, bursitis, tendinitis, migraine and headache (the approved-indication text in the US license records is empty, so these come from the knowledge-graph indication list) |
 | Predicted New Indication | Brachydactyly-syndactyly syndrome |
 | TxGNN Prediction Score | 99.35% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 14 (all cancelled; 12 ANDAs and 2 NDAs) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the supplied record. Naproxen is a non-selective COX-1/COX-2 inhibitor. Its efficacy in pain and inflammation is well established, and it works by reducing prostaglandin production.
+Detailed mechanism of action data is not available in the data compiled for this report. Naproxen is generally known as a non-selective COX-1/COX-2 inhibitor that provides symptomatic anti-inflammatory and analgesic effects. Its efficacy in inflammatory joint disease and pain is well established.
 
-Brachydactyly-syndactyly syndromes are congenital limb malformations with a developmental or genetic basis. Prostaglandin inhibition is not known to modify them, and NSAIDs would not be expected to correct a structural developmental defect. **No established mechanistic link was identified.**
+Brachydactyly-syndactyly syndromes are rare congenital limb malformations of genetic and developmental origin. A COX-inhibition mechanism has no plausible disease-modifying role in such conditions, and nothing in the available data supports a mechanistic link.
 
-The high score most likely reflects proximity in the knowledge graph, not a biological rationale. The other top-ranked predictions show the same pattern:
-- Colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.22%)
-- Acromesomelic dysplasia, Hunter-Thompson type (99.17%)
-- Brachyolmia-amelogenesis imperfecta syndrome (99.06%)
-
-All are rare congenital skeletal or developmental disorders with no trials or literature, and none has a plausible link to COX inhibition.
+The high TxGNN score (99.35%, model rank 14,678) most likely reflects graph proximity to skeletal and musculoskeletal terms shared with naproxen's original indications, not biological evidence. The other top predictions (colobomatous microphthalmia-rhizomelic dysplasia syndrome, Hunter-Thompson type acromesomelic dysplasia, and brachyolmia-amelogenesis imperfecta syndrome) are also rare congenital skeletal or developmental syndromes. Each has no trials or literature, and they follow the same pattern.
 
 ---
 
@@ -82,23 +77,32 @@ Currently no related literature available.
 
 ## US Market Information
 
-The supplied data lists no approved indication text for these authorizations. The table shows 5 of the 20 authorizations.
+All 14 licenses are listed as cancelled and none is currently valid. The approved-indication text is blank in the records. The five main authorizations are shown below.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
 | NDA020204 | Aleve | Tablet | Lil' Drug Store Products, Inc |
+| NDA021920 | Naproxen Sodium | Capsule, liquid filled | HEB |
 | ANDA208363 | Naproxen Sodium | Capsule, liquid filled | Care One (American Sales Company) |
-| ANDA091416 | Naproxen | Tablet | NuCare Pharmaceuticals, Inc. |
-| ANDA212517 | Naproxen | Tablet | Preferred Pharmaceuticals, Inc. |
 | ANDA200629 | Naproxen Sodium | Tablet, film coated | Aurobindo Pharma Limited |
+| ANDA074140 | Naproxen | Tablet | Granules India Ltd |
 
-All listed products are oral: tablets, film-coated or coated tablets, and liquid-filled capsules.
+All products are oral formulations.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Package insert warnings and contraindications were not available in the data compiled for this report. Please refer to the package insert for safety information.
+
+- **Contraindications flagged in the knowledge graph** (drug-disease edges, not label text): hypertension, heart failure, coronary artery disease, myocardial infarction, stroke and cerebrovascular disorders, kidney disease, liver disease and liver failure, blood coagulation disease, anemia, diabetes mellitus and diabetic ketoacidosis, osteoporosis, epilepsy, obesity, gallbladder disease, benign prostatic hyperplasia, and substance abuse/dependence.
+- **Drug Interactions**: 100 interactions were recorded; the first 20 are all Moderate-level (DDInter). Examples include:
+  - Acid suppressants: famotidine, ranitidine, cimetidine, rabeprazole, dexlansoprazole
+  - Corticosteroids: hydrocortisone, dexamethasone, betamethasone, triamcinolone, budesonide
+  - Other: metformin, chlorpropamide, acetylsalicylic acid, aprepitant, mesalazine, balsalazide, potassium citrate, potassium bicarbonate
+
+  Interactions beyond the first 20 were not detailed in the data.
+- Theoretical concerns about NSAID use in growing skeletal tissue would need review for the predicted population, which involves skeletal developmental disorders.
 
 ---
 
@@ -107,16 +111,14 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a knowledge-graph score, with no trials, no publications, and no plausible mechanism linking COX inhibition to a congenital limb malformation. The evidence level is L5, and the candidate remains at the initial screening stage (S0).
+The prediction rests only on a model score, with no clinical trials, no literature and no plausible mechanistic link between COX inhibition and a congenital limb malformation. In addition, all US licenses are cancelled, and the safety data are incomplete.
 
 **To proceed, the following is needed:**
-- The FDA package insert warnings and contraindications, which block safety screening
-- Mechanism of action data from DrugBank
-- A biological rationale connecting prostaglandin or COX pathways to the pathogenesis of the predicted disease
-- Any supporting preclinical, case-level, or clinical evidence
-- Route compatibility assessment, which is still pending
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
+- Detailed mechanism of action data (MOA) and a biologically plausible link to the disease pathway
+- Package insert warnings and contraindications, which are needed before any safety screening
+- Preclinical or case-level evidence of benefit in brachydactyly-syndactyly syndrome
+- A review of NSAID safety in growing skeletal tissue and in the affected population
+- Clarification of the current US regulatory status, given that all licenses are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

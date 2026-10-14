@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Dronabinol
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 628
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Dronabinol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L3** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,109 +29,79 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Dronabinol: From Its Approved Cannabinoid Uses to Migraine Disorder
+# Dronabinol: From an Unspecified Original Indication to Migraine Disorder
 
 ## One-Sentence Summary
 
-Dronabinol is synthetic delta-9-tetrahydrocannabinol (THC), a cannabinoid marketed in the US as oral capsules.
-The TxGNN model predicts it may be effective for **migraine disorder**, with **7 related clinical trials** and **14 publications** currently touching this direction.
-Most of that evidence concerns inhaled cannabis or CBD/THC mixtures rather than dronabinol itself, so support for dronabinol specifically is indirect.
-
----
+Dronabinol is a synthetic delta-9-tetrahydrocannabinol (THC). The data compiled for this report do not list its original approved indication.
+The TxGNN model predicts it may be effective for **migraine disorder**, with **1 completed Phase 2 clinical trial (no results available)** and **1 publication (a survey)** currently supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not captured in the source data (approved indication text is empty for all licenses); confirm against the current label |
+| Original Indication | Not available in the compiled data |
 | Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 99.92% |
-| Evidence Level | L2 (one completed Phase 2 RCT, but of inhaled cannabis, not dronabinol) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 authorizations on record |
+| Evidence Level | L3 |
+| US Market Status | Cancelled only (all 4 authorizations cancelled) |
+| Number of NDAs | 4 authorizations (2 NDAs, 2 ANDAs) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the source data. Dronabinol is known to be a partial agonist of the CB1 and CB2 cannabinoid receptors. Endocannabinoid signalling modulates trigeminovascular pain transmission and CGRP release, both central to migraine biology.
+Detailed mechanism of action data are not available in the compiled data. Based on known pharmacology, dronabinol is a CB1/CB2 cannabinoid receptor agonist.
 
-Mouse and rat studies support this link. THC alone, or combined with CBD, reduced migraine-like behaviours triggered by CGRP, and THC showed anti-migraine effects in the female rat (PMIDs 39988876, 41182862, 29111112). In humans, a 2026 randomized crossover trial of vaporized cannabis in acute migraine (PMID 41469488) was completed, and its registry record (NCT04360044) enrolled 92 participants.
+The endocannabinoid system is thought to modulate trigeminovascular pain signalling, serotonergic signalling and CGRP release. These are all pathways involved in migraine, which provides a plausible mechanistic basis for the prediction.
 
-There are important caveats:
-- The clinical signal comes from inhaled cannabis (THC/CBD mixtures), not isolated oral dronabinol.
-- The dosage form and pharmacokinetics differ from those of oral capsules.
-- Preclinical work in medication-overuse headache (PMID 31311288) suggests chronic cannabinoid exposure may cause latent sensitization. This is a safety concern for repeated use.
+The very high TxGNN score (0.999) is consistent with this reasoning, but it is a computational prediction only. The relationship between the original indication and migraine cannot be assessed because the original indication is missing from the data.
 
----
+Related predictions in the same area include headache disorder (99.87%), trigeminal autonomic cephalalgia (99.79%) and migraine with brainstem aura (99.89%). Some other top-ranked predictions, such as pulmonary hypertension, hypertrichosis and kyphoscoliotic heart disease, have no supporting evidence and no plausible mechanism. They are most likely network artifacts.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT04360044](https://clinicaltrials.gov/study/NCT04360044) | Phase 2 | Completed | 92 | Randomized, double-blind, placebo-controlled crossover of vaporized cannabis (THC, THC/CBD, CBD) for acute migraine; matches the 2026 publication (PMID 41469488). Product is cannabis, not dronabinol |
-| [NCT00123201](https://clinicaltrials.gov/study/NCT00123201) | Phase 2 | Completed | Not reported | Placebo-controlled study of dronabinol MDI (metered-dose inhaler) for acute migraine. The title names dronabinol, making it the only trial directly on the drug, though the pack graded it low; results are not in the pack and should be retrieved |
-| [NCT04989413](https://clinicaltrials.gov/study/NCT04989413) | Phase 2/3 | Terminated | 110 | CBD + CBG + low-dose THC (4 mg/day) as adjunct in chronic migraine. Weak support, and the reason for termination should be checked |
-| [NCT05427630](https://clinicaltrials.gov/study/NCT05427630) | Phase 2 | Suspended | 20 | Pilot, dose-ranging crossover of inhaled cannabis (2.5%, 5%, 10%) vs placebo for acute migraine |
-| [NCT05337033](https://clinicaltrials.gov/study/NCT05337033) | Phase 2 | Recruiting | 20 | Open-label tolerability study of CBD-enriched cannabis extract in adolescents with chronic headache; tolerability data only |
-| [NCT04091789](https://clinicaltrials.gov/study/NCT04091789) | Phase 2 | Unknown | 30 | Sublingual cannabinoid combination tablets in dysmenorrhea and associated pain; mechanistically relevant only |
-| [NCT07146945](https://clinicaltrials.gov/study/NCT07146945) | Phase 1 | Not yet recruiting | 84 | Safety, tolerability and PK of oral CBD/THC liquid (S1-221) in healthy adults; could inform future safety data |
-
----
+| [NCT00123201](https://clinicaltrials.gov/study/NCT00123201) | Phase 2 | Completed | Not reported | Multicenter, randomized, double-blind, placebo-controlled trial of dronabinol MDI (metered-dose inhaler) for acute treatment of moderate to severe migraine headache (2005-09 to 2007-03). No results are available. |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [41469488](https://pubmed.ncbi.nlm.nih.gov/41469488/) | 2026 | RCT | Headache | Vaporized cannabis vs placebo for acute migraine in a double-blind crossover design (abstract states the aim only) |
-| [31715263](https://pubmed.ncbi.nlm.nih.gov/31715263/) | 2020 | Cohort | J Pain | Archival app data on inhaled cannabis and headache/migraine ratings; examined effects of THC, CBD, dose and tolerance |
-| [32758396](https://pubmed.ncbi.nlm.nih.gov/32758396/) | 2020 | Cohort | J Integr Med | Real-time naturalistic use of cannabis flower for headache and migraine relief |
-| [29797104](https://pubmed.ncbi.nlm.nih.gov/29797104/) | 2018 | Cohort | J Headache Pain | Medicinal cannabis use patterns, strains and medication substitution in migraine, headache, arthritis and chronic pain |
-| [34370866](https://pubmed.ncbi.nlm.nih.gov/34370866/) | 2021 | Case-referent | Headache | Examined whether cannabis use predicts medication-overuse headache in chronic migraine |
-| [39988876](https://pubmed.ncbi.nlm.nih.gov/39988876/) | 2025 | Preclinical | Cephalalgia | CBD plus THC alleviated migraine-like behaviours in three mouse models (CGRP, SNP, cortical spreading depolarization) |
-| [41182862](https://pubmed.ncbi.nlm.nih.gov/41182862/) | 2025 | Preclinical | Cephalalgia | CBD:THC 100:1 rescued migraine-like symptoms caused by central CGRP in mice |
-| [29111112](https://pubmed.ncbi.nlm.nih.gov/29111112/) | 2018 | Preclinical | Eur J Pharmacol | THC produced anti-migraine effects in a female rat dural-stimulation model |
-| [29462111](https://pubmed.ncbi.nlm.nih.gov/29462111/) | 2018 | Preclinical | Behav Pharmacol | Repeated morphine, but not THC, caused medication-overuse headache in female rats |
-| [31311288](https://pubmed.ncbi.nlm.nih.gov/31311288/) | 2020 | Preclinical | Cephalalgia | Cannabinoid receptor agonists induced latent sensitization in a medication-overuse headache model |
+| [10575286](https://pubmed.ncbi.nlm.nih.gov/10575286/) | 1999 | Survey | Forschende Komplementarmedizin | Standardized survey on the medical use of cannabis products in German-speaking countries. It is a general survey, not migraine-specific efficacy evidence. |
 
----
+Additional literature relates to the broader headache prediction. These are a 2017 review on cannabis for pain and headaches ([28281107](https://pubmed.ncbi.nlm.nih.gov/28281107/)) and a 2009 case report of cluster headache responding to dronabinol ([19220500](https://pubmed.ncbi.nlm.nih.gov/19220500/)). Both are low-level evidence.
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA018651 | Dronabinol (Major Pharmaceuticals) | Capsule | Not captured in source data |
-| NDA018651 | MARINOL (ThePharmaNetwork, LLC) | Capsule | Not captured in source data |
-| ANDA078292 | Dronabinol (Rhodes Pharmaceuticals L.P.) | Capsule | Not captured in source data |
-
-The record also lists an oral solution form. In total, 20 authorizations are on file; only the main ones are shown.
-
----
+| NDA018651 | Dronabinol (Major Pharmaceuticals) | Capsule | Not available (cancelled) |
+| ANDA078292 | Dronabinol (Rhodes Pharmaceuticals) | Capsule | Not available (cancelled) |
+| NDA205525 | SYNDROS (Benuvia Operations) | Solution | Not available (cancelled) |
+| ANDA207421 | Dronabinol (Camber Pharmaceuticals) | Capsule | Not available (cancelled) |
 
 ## Safety Considerations
 
-- **Literature-derived signal**: Preclinical work suggests chronic cannabinoid exposure may induce latent sensitization in a medication-overuse headache model (PMID 31311288). A human case-referent study examined the link between cannabis use and medication-overuse headache in chronic migraine (PMID 34370866). This matters because migraine treatment often involves repeated dosing.
+- **Knowledge-graph contraindication signals** (from drug-disease edges, not label text): hypertension and hypertensive disorder, hypotensive disorder, epilepsy, anxiety disorder, neurotic disorder, dysthymic disorder, bipolar disorder, major affective disorder, schizophrenia, substance abuse/dependence and substance-related disorder.
+- **Drug Interactions**: 100 interactions were identified. Most are Moderate. The one Major interaction in the listed sample is **tramadol**. Other Moderate interactions include fentanyl, codeine, dihydrocodeine, alfentanil, ethanol, butalbital, chlorpheniramine, gabapentin, fluvoxamine, nifedipine, furosemide and fosphenytoin. Many of these involve additive central nervous system depression.
 
-Please refer to the package insert for warnings, contraindications and drug interactions. No drug-interaction records were found in the source data.
-
----
+Please refer to the package insert for label warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is biologically plausible and one completed Phase 2 RCT exists in migraine. However, that trial tested inhaled cannabis rather than dronabinol, and the label safety data needed for screening is missing. Hold, rather than Go, is warranted until the evidence is tied to dronabinol itself.
+The only trial is a completed Phase 2 study with no available results or enrollment data, and the literature consists of a survey, a review and a case report. The original indication and label safety data are missing, and all US authorizations are cancelled. The mechanistic rationale is plausible, but the evidence is too weak to advance beyond a research question.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Confirmed original approved indications and mechanism-of-action data
-- Results of the dronabinol MDI migraine trial (NCT00123201), and the reason NCT04989413 was terminated
-- The full results of the 2026 cannabis RCT (PMID 41469488) and an assessment of whether they translate to oral dronabinol
-- A plan to address medication-overuse and latent sensitization risk with repeated use
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
+- Results of NCT00123201 (efficacy, safety and enrollment), from the registry or publications
+- FDA package insert warnings and contraindications, and the original approved indication
+- Mechanism of action data confirmed from DrugBank
+- An assessment of the knowledge-graph contraindication signals (cardiovascular and psychiatric) in a migraine population
+- A review of the route of administration, since the trial used an inhaler while the US products were oral capsules and solution
+- Clarification of why the US authorizations were cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

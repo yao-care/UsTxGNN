@@ -29,81 +29,83 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-# Diethyltoluamide (DEET): From Insect Repellent to Insomnia
+# Diethyltoluamide: From an Insect Repellent (No Approved Indication on Record) to Insomnia
 
 ## One-Sentence Summary
 
-Diethyltoluamide (DEET) is a topical insect repellent and has no approved therapeutic indication in the data provided.
-The TxGNN model predicts it may be relevant to **insomnia**, but there are **0 clinical trials** and **0 publications** supporting this, so the prediction rests on the model alone.
-
----
+Diethyltoluamide (DEET) is widely known as an insect repellent, and its only U.S. record in the data compiled for this report is a cancelled liquid product with no approved indication text.
+The TxGNN model predicts it may be effective for **insomnia** (score 99.67%), but there are **0 clinical trials** and **0 publications** supporting this prediction.
+This is a model-only prediction with no supporting evidence.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | None listed (marketed as an insect repellent, topical liquid) |
-| Predicted New Indication | Insomnia (disease) |
+| Original Indication | Not available (the one U.S. license on record has no indication text) |
+| Predicted New Indication | Insomnia |
 | TxGNN Prediction Score | 99.67% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 1 |
+| US Market Status | Cancelled only |
+| Number of NDAs | 1 (cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. DEET is known as a topical insect repellent that acts on insect olfactory receptors. In vitro, it has shown weak cholinesterase inhibition.
+Currently, detailed mechanism of action data is not available. DEET is known as an insect repellent that acts on insect olfactory receptors, and it has been reported to inhibit acetylcholinesterase in insects. No documented link connects these actions to sleep regulation in humans.
 
-The evidence does not support a therapeutic link to insomnia. Neurotoxicity (seizures, encephalopathy) has been reported mainly after massive exposure or ingestion, and nothing suggests a hypnotic or sleep-promoting effect. The very high TxGNN score most likely reflects proximity in the knowledge graph rather than real pharmacology.
+The original indication is not specified in the available data, so no relationship between an original and a new indication can be drawn. The high TxGNN score (0.997) reflects a computational prediction only. A mechanistic link to insomnia is speculative.
 
-The other top predictions show the same pattern. None has clinical or literature support, and each is best read as a computational artifact:
+Other predictions follow the same pattern. All eight predicted indications are L5 with no trials or literature:
 
-- **Neuro-behavioural:** ADHD (inattentive type and combined), migraine disorder, and specific developmental disorder. DEET has no known dopaminergic, noradrenergic or CGRP/serotonergic activity. Headache is a reported adverse effect of exposure, and animal developmental toxicity at high doses argues against a developmental benefit.
-- **Coagulation-related:** factor 5 excess with spontaneous thrombosis, antithrombin deficiency type 2, and heparin cofactor 2 deficiency. There is no known effect of DEET on the coagulation cascade. These are hereditary protein defects that DEET would not correct, and topical use gives limited systemic exposure.
+| Rank | Predicted Indication | TxGNN Score | Mechanistic Support |
+|------|------|------|------|
+| 1 | Insomnia | 99.67% | None documented |
+| 2 | ADHD, inattentive type | 99.57% | None documented |
+| 3 | Specific developmental disorder | 99.44% | None documented |
+| 4 | Factor 5 excess with spontaneous thrombosis | 99.16% | None documented |
+| 5 | Antithrombin deficiency type 2 | 99.16% | None documented |
+| 6 | Heparin cofactor 2 deficiency | 99.12% | None documented |
+| 7 | Migraine disorder | 99.07% | None documented |
+| 8 | ADHD | 99.06% | None documented (overlaps with rank 2) |
 
----
+The coagulation-related predictions (ranks 4–6) appear to be graph-based artifacts, likely driven by network proximity rather than biology.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
-
----
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| Not recorded | MOSQUITO BUG OFF (Lydia Co., Ltd.) | Liquid | Not stated |
+| Not available | MOSQUITO BUG OFF (Lydia Co., Ltd.) | Liquid | Not specified (status: cancelled) |
 
----
+No valid single-ingredient or combination licenses are currently active.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Neurotoxicity**: DEET has known neurotoxicity signals at high exposure, which is a particular concern for neurological and developmental indications (insomnia, ADHD, developmental disorders).
+- **Irritant potential**: DEET is a known irritant and may provoke headache in sensitive individuals, which is relevant to the migraine prediction.
 
-No drug-drug interactions were found in the queried data. Neurotoxicity after massive exposure or ingestion is described in the prediction rationale (see above).
-
----
+No drug interaction records were found, and no contraindications from the knowledge graph were identified. Please refer to the package insert for further safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All eight predictions are Level L5, meaning model output only, with no trials, no literature and no plausible mechanism. The high scores appear to be knowledge-graph artifacts. Given DEET's neurotoxicity in overdose, there is no basis to advance any of these indications.
+All eight predictions are supported only by model scores, with no clinical trials, literature, or documented mechanism. DEET's neurotoxicity signals make neurological and developmental indications especially unfavorable without foundational data. The only U.S. license is cancelled, and no label-based safety information is available.
 
 **To proceed, the following is needed:**
-- Mechanism of action data (for example from DrugBank)
-- Package insert warnings and contraindications
-- Any preclinical or clinical signal for the predicted indication, followed by a route compatibility assessment (DEET is topical, and the indication would need to be reachable by that route)
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data (e.g., from DrugBank)
+- Preclinical evidence of a biological link to the predicted indication (e.g., sleep-related targets for insomnia)
+- A toxicology and exposure assessment for any systemic or therapeutic use, since DEET is used topically as a repellent
+- Route and formulation feasibility assessment, as route compatibility has not yet been evaluated
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

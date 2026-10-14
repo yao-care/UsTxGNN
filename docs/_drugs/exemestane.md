@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Exemestane
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 689
-evidence_level: L5
+evidence_level: L4
 indication_count: 7
 ---
 
 # Exemestane
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **7** 
+Evidence Level: **L4** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,33 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Exemestane: From Breast Cancer to Antithrombin Deficiency Type 2
+# Exemestane: From Breast Cancer to Amenorrhea
 
 ## One-Sentence Summary
 
-Exemestane is an irreversible steroidal aromatase inhibitor that lowers estrogen and is marketed in the US as Aromasin and several generics.
-The TxGNN model predicts it may be effective for **antithrombin deficiency type 2**, but this is a knowledge-graph prediction only.
-There are **0 clinical trials** and **0 publications** supporting it, and no plausible mechanistic link was found.
+Exemestane is a steroidal aromatase inhibitor that lowers estrogen levels. Its original approved indication is not listed in the data compiled for this report.
+The TxGNN model predicts it may be effective for **Amenorrhea**, the highest-ranked prediction that has any supporting literature.
+There are **0 clinical trials** and **5 publications** (1 cohort study, 4 reviews). These papers describe amenorrhea as a treatment-related state, not a condition that exemestane treats, so the evidence is indirect.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Breast cancer (the license records contain no indication text; this is inferred from the drug class and the retrieved literature) |
-| Predicted New Indication | Antithrombin deficiency type 2 |
-| TxGNN Prediction Score | 99.83% |
-| Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 11 (one NDA plus generic ANDAs) |
+| Original Indication | Not available in the compiled data |
+| Predicted New Indication | Amenorrhea (the top-ranked prediction is antithrombin deficiency type 2, which has no evidence at all) |
+| TxGNN Prediction Score | 99.82% |
+| Evidence Level | L4 |
+| US Market Status | Cancelled only (all listings cancelled) |
+| Number of NDAs | 7 (1 NDA and 6 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data are not available in the Evidence Pack. Based on known information, exemestane blocks the aromatase enzyme irreversibly, which reduces the conversion of androgens into estrogens and lowers circulating estrogen.
+Detailed mechanism of action data is not available in the compiled data. Based on general pharmacology, exemestane is a steroidal aromatase inhibitor that blocks the conversion of androgens to estrogens and so lowers circulating estradiol.
 
-That mechanism does not connect to the predicted disease. Antithrombin deficiency type 2 is an inherited defect in the antithrombin protein (SERPINC1), and lowering estrogen does not correct it. The high score (0.998) most likely reflects clustering of coagulation-related disease nodes in the knowledge graph, not drug-specific biology.
+This is where the prediction becomes questionable. Amenorrhea is a consequence of estrogen and ovarian function suppression, so it is a pharmacological effect of exemestane and not something it would treat. The retrieved papers discuss chemotherapy-induced amenorrhea, ovarian suppression and ovarian function recovery in premenopausal breast cancer patients. In these papers amenorrhea is an outcome or a treatment-related state. The direction of effect (induction rather than treatment) argues against repurposing for this indication.
 
-Three other high-scoring predictions for this drug (factor V excess, heparin cofactor 2 deficiency and thrombophilia) have similar scores. They appear to come from the same knowledge-graph neighborhood and should not be read as independent signals.
+The other predictions are weaker still. The thrombophilia cluster (antithrombin deficiency type 2, factor 5 excess, heparin cofactor 2 deficiency and thrombophilia) has no clinical or literature support and no plausible mechanism. These scores most likely come from graph propagation. Aromatase inhibitors also carry a thromboembolic risk signal in breast cancer, so the safety direction is a concern. The migraine predictions have only a speculative link through estrogen fluctuation, and estrogen depletion could plausibly worsen headaches.
 
 ## Clinical Trial Evidence
 
@@ -63,25 +63,31 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available.
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [23108951](https://pubmed.ncbi.nlm.nih.gov/23108951/) | 2013 | Cohort | Annals of Oncology | Incidence and predictors of ovarian function recovery in breast cancer patients with chemotherapy-induced amenorrhea who switched from tamoxifen to exemestane |
+| [26178334](https://pubmed.ncbi.nlm.nih.gov/26178334/) | 2015 | Review | Oncology (Williston Park) | Role of ovarian suppression in premenopausal women with hormone receptor-positive early breast cancer; chemotherapy-induced amenorrhea is linked to improved survival |
+| [26951320](https://pubmed.ncbi.nlm.nih.gov/26951320/) | 2016 | Review | Journal of Clinical Oncology | Oncology Grand Rounds on whether estradiol monitoring is needed in women receiving ovarian suppression for breast cancer |
+| [31379370](https://pubmed.ncbi.nlm.nih.gov/31379370/) | 2019 | Review | Recenti Progressi in Medicina | Current role of LHRH analogs in premenopausal breast cancer; ovarian suppression raises outcomes by lowering estrogen |
+| [28118723](https://pubmed.ncbi.nlm.nih.gov/28118723/) | 2016 | Review | Klinicka Onkologie | Aromatase inhibitor treatment in postmenopausal breast cancer and ways to manage side effects; contraindicated in women with functional ovaries |
 
 ## US Market Information
 
-The license records contain no approved-indication text, so that column is omitted.
-
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA209208 | Exemestane | Tablet | Upsher-Smith Laboratories, Inc. |
-| ANDA210323 | Exemestane | Tablet | Cipla USA Inc. |
-| NDA020753 | Aromasin | Tablet | Pharmacia & Upjohn Company LLC |
-| ANDA216454 | Exemestane | Film-coated tablet | NorthStar Rx LLC |
-| ANDA213547 | Exemestane | Film-coated tablet | Florida Pharmaceutical Products, LLC |
+| NDA020753 | Aromasin | Tablet | Not available |
+| ANDA209208 | Exemestane (Upsher-Smith) | Tablet | Not available |
+| ANDA210323 | Exemestane (Cipla USA) | Tablet | Not available |
+| ANDA216454 | Exemestane (NorthStar Rx) | Film-coated tablet | Not available |
+| ANDA213547 | Exemestane (Florida Pharmaceutical Products) | Film-coated tablet | Not available |
+
+All 7 listings are cancelled. Two further ANDAs (Zydus, Breckenridge) are not shown above.
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Hormonal (endocrine) therapy, a steroidal aromatase inhibitor. It is not a conventional cytotoxic chemotherapy. |
+| Cytotoxicity Classification | Targeted/hormonal therapy (steroidal aromatase inhibitor), not a conventional cytotoxic |
 | Myelosuppression Risk | Please refer to the package insert warnings and precautions |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
 | Monitoring Items | Please refer to the package insert warnings and precautions |
@@ -89,23 +95,24 @@ The license records contain no approved-indication text, so that column is omitt
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: The interaction screen returned 100 interacting drugs, and the 20 shown to us include two rated Moderate: **dexamethasone** and **troglitazone**. The rest are rated Unknown, including pantoprazole, morphine, metformin, omeprazole, simvastatin, aspirin and rosuvastatin.
+- **Other considerations**: Aromatase inhibitors carry a thromboembolic risk signal in breast cancer, which matters for the thrombophilia predictions. Estrogen depletion may also alter headache patterns, which matters for the migraine predictions.
 
-Antithrombin deficiency is a thrombotic disorder, so any use in that setting would need a dedicated thromboembolic safety review.
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a knowledge-graph score. There are no trials or literature, and the estrogen-lowering mechanism does not address an inherited antithrombin protein defect.
+The TxGNN scores are very high (99.8%), but there are no clinical trials and the only literature is indirect. Amenorrhea is an effect of exemestane, not a condition it treats, and the thrombophilia and migraine predictions have no plausible mechanism and raise safety concerns.
 
 **To proceed, the following is needed:**
-- A credible mechanistic hypothesis linking aromatase inhibition to antithrombin function. Without one, this candidate should be deprioritized.
-- Package insert warnings and contraindications (a blocking gap for safety screening) and detailed MOA data from DrugBank.
-- Any preclinical or clinical signal for this indication. None currently exists.
-
-Also on hold (all Hold): amenorrhea (literature is indirect, and amenorrhea is a treatment outcome in these studies, not something exemestane treats), factor V excess, heparin cofactor 2 deficiency, thrombophilia, migraine disorder and migraine with brainstem aura. None has trial evidence.
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- Original approved indication text, which is missing from the license records
+- Clarification of whether amenorrhea could have any therapeutic rationale, or whether this prediction should be discarded
+- Any direct clinical or mechanistic evidence for the other predicted indications before reconsidering them
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

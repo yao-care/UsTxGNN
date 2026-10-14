@@ -29,81 +29,81 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-# Methohexital: From Anesthesia Induction to Insomnia
+# Methohexital: From General Anesthesia to Insomnia
 
 ## One-Sentence Summary
 
-Methohexital is an ultra-short-acting intravenous barbiturate anesthetic, marketed in the US as Brevital Sodium and as generic injections.
-The TxGNN model predicts it may be effective for **insomnia**, but **0 clinical trials** and **0 publications** currently support this direction.
-The prediction rests on the model score alone.
-
----
+Methohexital is an ultra-short-acting barbiturate anesthetic, but the data compiled for this report contain no approved indication text for it.
+The TxGNN model predicts it may be effective for **insomnia**, but there are **0 clinical trials** and **0 publications** supporting this prediction.
+This is a model-only prediction with no direct clinical evidence.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Intravenous anesthesia (the US license records provide no indication text) |
+| Original Indication | Not stated in the available data (methohexital is generally known as an injectable anesthetic agent) |
 | Predicted New Indication | Insomnia |
 | TxGNN Prediction Score | 99.88% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 3 (1 NDA and 2 ANDA entries) |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 2 (both cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the record. Methohexital is a barbiturate, and this class enhances GABA-A receptor activity, which is biologically consistent with sedation. That gives the insomnia prediction a plausible pharmacological basis.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, methohexital is an ultra-short-acting barbiturate that enhances GABA-A receptor activity, producing sedation and hypnosis. This gives a plausible rationale for sleep induction.
 
-The practical fit is poor, though. Methohexital is an ultra-short-acting drug given only by injection. Its short duration and intravenous route make it impractical for chronic insomnia, which needs a convenient, sustained-effect treatment such as an oral drug. The very high model score (0.999) is a prediction only, and nothing in the retrieved evidence confirms it.
+There are strong practical reasons to doubt the prediction. Barbiturates are not used for chronic insomnia because of tolerance, dependence, a narrow therapeutic index, and respiratory depression. Methohexital also redistributes rapidly, so its duration of action is very short. The high score (0.9988) is a model output only, with no supporting trials or literature.
 
-Other predicted indications for this drug include migraine and headache disorders. The retrieved literature for those links anesthesia and electroconvulsive therapy (ECT) to headache, most likely as an adverse event, not as a treatment effect.
-
----
+The other top predictions fare no better:
+- **Nephrogenic syndrome of inappropriate antidiuresis (99.80%)**: no plausible mechanistic link. The condition stems from gain-of-function variants in AVPR2 or GNAS, which are unrelated to GABA-A modulation. This is likely a knowledge-graph artifact.
+- **Migraine disorder (99.54%)**, **migraine with brainstem aura (99.46%)** and **headache disorder (99.12%)**: only indirect literature, in which methohexital appears as an ECT anesthetic and headache appears as a peri-procedural or adverse outcome.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
-
----
+Currently no related clinical trials registered for insomnia.
 
 ## Literature Evidence
 
-Currently no related literature available.
+No literature is available for insomnia. The literature below relates to the lower-ranked migraine and headache predictions and is indirect only. None of it shows a therapeutic effect.
 
----
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [31425262](https://pubmed.ncbi.nlm.nih.gov/31425262/) | 2020 | Systematic review | Anesthesia and Analgesia | Anesthetic considerations for ECT in children; methohexital appears as an anesthetic agent |
+| [8528666](https://pubmed.ncbi.nlm.nih.gov/8528666/) | 1995 | Case report | Convulsive Therapy | Recurrent migraine after ECT; attacks stopped after switching from methohexital to propofol because of methohexital intolerance |
+| [8442962](https://pubmed.ncbi.nlm.nih.gov/8442962/) | 1993 | Clinical study | Journal of Clinical Anesthesia | Effect of two atracurium doses on convulsion modification in monitored ECT |
+| [14309941](https://pubmed.ncbi.nlm.nih.gov/14309941/) | 1965 | Historical clinical article | Wiener Klinische Wochenschrift | Article on vascular headache treatment (no abstract; relevance to methohexital unconfirmed) |
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA011559 | Brevital Sodium (Par Health USA, LLC) | Injection, powder, lyophilized, for solution | Not provided in the record |
-| ANDA215488 | Methohexital Sodium (OneSource Specialty Pharma Limited) | Injection | Not provided in the record |
-| ANDA215488 | Methohexital Sodium (Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.) | Injection | Not provided in the record |
-
----
+| ANDA215488 (cancelled) | Methohexital Sodium | Injection | Not stated |
+| NDA011559 (cancelled) | Brevital Sodium | Injection, powder, lyophilized, for solution | Not stated |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: 22 interactions were recorded. The major ones are:
+  - **Major**: ethanol, warfarin
+  - **Moderate** (examples): morphine, hydrocodone, codeine, theophylline, aminophylline, chloramphenicol, doxepin, doxycycline, cyclosporine, methylene blue, griseofulvin, aldesleukin, ozanimod
+  - **Minor**: pyridoxine, cimetidine, promethazine, mitotane
+- **Knowledge-graph contraindication signals** (from the model's knowledge graph, not label text): liver failure, epilepsy, chronic obstructive pulmonary disease, porphyria and other porphyrin metabolism disorders, kidney disease, asthma, hypotensive disorder, anemia, and morbid obesity.
 
----
+Please refer to the package insert for label warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The insomnia prediction is supported only by a model score, with no clinical trials or publications. The drug's ultra-short action and intravenous-only use also make it a poor fit for chronic insomnia.
+The insomnia prediction rests on model score alone, with no trials or literature. Barbiturates are poorly suited to chronic insomnia because of dependence, respiratory depression, and a very short duration of action. In addition, no US license for methohexital is currently valid, and label safety information is missing.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, which are required before any safety screening
-- Detailed mechanism of action data
-- Any clinical or preclinical evidence of benefit in insomnia
-- An assessment of whether an injectable, ultra-short-acting drug can meet the route and duration needs of insomnia treatment
-- Review of the migraine and headache signals, which so far appear to reflect adverse events around anesthesia
+- Package insert warnings and contraindications (required for safety screening)
+- Mechanism of action data
+- A mechanistic and clinical rationale for insomnia, including comparison with established hypnotics
+- Any clinical or preclinical studies of methohexital for sleep disorders
+- Clarification of the original approved indication and the cancelled license status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

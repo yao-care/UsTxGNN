@@ -29,97 +29,73 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Vitamin A: From Marketed Vitamin Products (No Indication Listed) to Congenital Prothrombin Deficiency
+# Vitamin A: From Vitamin A Deficiency to Congenital Prothrombin Deficiency
 
 ## One-Sentence Summary
 
-Vitamin A (DrugBank DB00162) is marketed in the US in injectable, oral and topical products, but the record lists no approved indication text.
-The TxGNN model predicts it may be effective for **congenital prothrombin deficiency**, but the prediction is not supported by any actual study: **5 retrieved clinical trials** were all graded unrelated, and **0 publications** were retrieved.
-
----
+Vitamin A is a fat-soluble vitamin, originally used to treat vitamin deficiency disorders, particularly vitamin A deficiency.
+The TxGNN model predicts it may be effective for **congenital prothrombin deficiency**, but **no clinical trials and no publications** currently support this prediction, so it rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Vitamin deficiency disorder / vitamin A deficiency |
 | Predicted New Indication | Congenital prothrombin deficiency |
-| TxGNN Prediction Score | 99.97% (model rank 1182) |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| TxGNN Prediction Score | 99.97% |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no currently valid authorizations) |
+| Number of NDAs | 4 (all cancelled) |
 | Recommended Decision | Hold |
 
----
+*Note: The original indication comes from the TxGNN knowledge graph. The US authorization records compiled for this report contain no approved-indication text.*
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for this record. Vitamin A is a fat-soluble vitamin that acts mainly through retinoid signaling. It is marketed as a nutritional and topical product, and no approved indication text is listed.
+Currently, detailed mechanism of action data is not available. Based on known information, vitamin A (retinol) is an essential nutrient. Its role in correcting vitamin A deficiency is well established, and its active metabolites act through retinoic acid signaling to support vision, epithelial differentiation, and immune function.
 
-The link to the predicted indication is weak. Prothrombin synthesis depends on vitamin K (gamma-carboxylation), and the congenital form is a genetic defect in the F2 gene. Vitamin A has no known role in this pathway.
-
-The very high TxGNN score is most likely a knowledge-graph artifact from shared vitamin or nutrient neighbors. It should not be read as evidence of efficacy.
-
----
+The mechanistic link to the predicted indication is weak. Prothrombin (factor II) synthesis depends on vitamin K, not vitamin A, and congenital prothrombin deficiency is an inherited disorder of the gene encoding prothrombin. No established role for vitamin A in this pathway was identified. The high model score most likely reflects the general "vitamin/nutritional disorder" neighborhood in the knowledge graph rather than a true therapeutic relationship.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT04384341](https://clinicaltrials.gov/study/NCT04384341) | N/A | Recruiting | 480 | Bone loss in haemophilia (factor VIII/IX deficiency). No vitamin A intervention. |
-| [NCT02392767](https://clinicaltrials.gov/study/NCT02392767) | N/A | Completed | 25 | Combination dietary supplement for endothelial function in hypertension. Unrelated disease. |
-| [NCT00168077](https://clinicaltrials.gov/study/NCT00168077) | Phase 3 | Completed | 40 | Prothrombin complex concentrate (Beriplex) for acquired factor II/VII/IX/X deficiency. Not vitamin A, so the Phase 3 label does not transfer. |
-| [NCT00562783](https://clinicaltrials.gov/study/NCT00562783) | Phase 2 | Completed | 90 | Double-blind RCT of "Vitalliver" in decompensated cirrhosis. The agent cannot be confirmed as vitamin A and is not tied to prothrombin deficiency. Manual check needed. |
-| [NCT03534752](https://clinicaltrials.gov/study/NCT03534752) | N/A | Completed | 220 | Retrospective descriptive cohort of adult inborn errors of metabolism. No vitamin A intervention. |
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+All four US authorizations on record are cancelled.
+
+| Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| NDA006823 | AQUASOL A | Injection, solution | Casper Pharma LLC |
-| M016 | SKINEEZ | Cloth | Cause for Change LLC |
-| M016 | Skineez | Cloth | Cause for Change LLC |
-| M016 | EvennessBrighteningBodyOil | Emulsion | Guangzhou Kadiya Biotechnology Co., Ltd. |
-| Not specified | Tri-Vite Drops with Fluoride | Solution | Method Pharmaceuticals, LLC |
-
-Other dosage forms in the 20 licenses include spray, cream, tablet, chewable tablet and liquid. Approved indication text is empty for all listed products.
-
----
+| NDA006823 | AQUASOL A | Injection, solution | Cancelled |
+| M016 | SKINEEZ | Cloth | Cancelled |
+| Not available | Tri-Vite Drops with Fluoride | Solution | Cancelled |
+| 505G(a)(3) | NOAVIA Retinol Moisturizer | Cream | Cancelled |
 
 ## Safety Considerations
 
-- **Drug Interactions**: The DDI query returned no records.
-- **Other signals in this evidence pack** (from other predicted indications, not from a package insert):
-  - A systematic review and meta-analysis links higher vitamin A intake to increased fracture risk.
-  - High-dose vitamin A is teratogenic, so maternal or periconceptional use needs strict dosing caution.
+Package insert warnings and contraindications were not available for this report. Please refer to the package insert for label safety information.
 
-Please refer to the package insert for warnings and contraindications.
-
----
+- **Disease associations flagged in the knowledge graph** (not label text): Kidney disease, liver disease, gallbladder disease, peptic ulcer disease, sarcoidosis, hypercalcemia, nephrocalcinosis, nephrolithiasis, primary hyperoxaluria, hereditary hemochromatosis and other iron metabolism disorders, Wilson disease, sickle cell anemia, hemolytic anemia, inflammatory bowel disease and ulcerative colitis, hypervitaminosis, and others.
+- **Drug Interactions** (68 interactions recorded; main ones):
+  - **Major:** Retinoids (isotretinoin, acitretin, tretinoin) and tetracycline-class antibiotics (doxycycline, tetracycline, minocycline, demeclocycline, oxytetracycline, omadacycline, eravacycline, sarecycline).
+  - **Moderate:** Bile acid sequestrants (cholestyramine, colesevelam, colestipol), sevelamer, bexarotene, and selpercatinib.
+  - **Minor:** Orlistat.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no mechanistic basis, since prothrombin depends on vitamin K, and no vitamin A study was found for this disease. It is a model prediction only (L5).
+The prediction for congenital prothrombin deficiency has no supporting trials or literature, and its biological rationale conflicts with known biology, since prothrombin synthesis is vitamin K-dependent. In addition, all US authorizations are cancelled.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data from DrugBank
-- Any direct evidence linking vitamin A to prothrombin deficiency, which would first have to be shown to exist
-
-**Note on other candidates in this pack:** "Perinatal disease" (rank 7) has the strongest support. It has a Phase 3 placebo-controlled RCT (NCT00211341, n=100,000, outcome not provided) and serial Cochrane reviews in very low birth weight infants, and it is rated L1 with "Proceed with Guardrails". Its evidence is strongest for the narrow VLBW/BPD use case rather than the broad label. If this drug is prioritized, evaluate that candidate rather than rank 1.
-
----
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Mechanistic evidence for any role of vitamin A in prothrombin expression or function.
+- Mechanism of action data and package insert safety information.
+- A review of the other predicted indications. In this dataset, **perinatal disease** (score 99.63%) has the most substantial support. Cochrane systematic reviews of RCTs suggest vitamin A supplementation in very-low-birth-weight infants may reduce death or bronchopulmonary dysplasia. Its benefit is modest and practicality is limited by the route and supply. It is a better candidate for further research than the top-ranked prediction.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

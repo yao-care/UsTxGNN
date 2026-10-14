@@ -29,33 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Olopatadine: From Allergic Conjunctivitis to Rosacea Conjunctivitis
+# Olopatadine: From Allergic Rhinitis to Rosacea Conjunctivitis
 
 ## One-Sentence Summary
 
-Olopatadine is an antihistamine marketed in the US mainly as an ophthalmic solution. Its indication text is not recorded in this Evidence Pack, but the prediction rationale describes it as an eye drop for allergic conjunctivitis.
-The TxGNN model predicts it may be effective for **rosacea conjunctivitis**.
-Currently **no clinical trials and no publications** support this direction, so it is a model prediction only.
+Olopatadine was originally used to treat allergic conditions of the nose and eyes, such as allergic rhinitis and allergic, atopic, vernal and papillary conjunctivitis.
+The TxGNN model predicts it may be effective for **rosacea conjunctivitis**,
+but currently there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the record (the rationale describes allergic conjunctivitis) |
+| Original Indication | Allergic rhinitis (also vasomotor rhinitis, atopic conjunctivitis, papillary conjunctivitis, vernal conjunctivitis) |
 | Predicted New Indication | Rosacea conjunctivitis |
 | TxGNN Prediction Score | 99.41% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (the five listed are ANDAs) |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 12 authorizations in total (1 NDA, 11 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the record. Based on the prediction rationale, olopatadine is a selective H1 receptor antagonist and mast cell stabilizer. Its efficacy in allergic conjunctivitis is established.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, olopatadine is a histamine H1 receptor antagonist and mast cell stabilizer, and its efficacy in allergic eye and nose conditions is established.
 
-Ocular rosacea is a chronic inflammatory disease of the ocular surface. It is driven mainly by meibomian gland dysfunction and innate immune activation, and possibly by mast cell activity. Olopatadine's anti-histamine and mast-cell-stabilizing effects could plausibly reduce ocular surface inflammation and itching.
+Rosacea-associated conjunctivitis is driven mainly by meibomian gland dysfunction, tear film instability, and inflammation (for example IL-1, matrix metalloproteinases, Demodex mites and microbial factors), rather than primarily by histamine-mediated mast cell activation. A plausible link is shared ocular surface inflammation and possible mast cell involvement, which might relieve itching or redness.
 
-This link is an inference, not evidence. The high score may partly reflect the disease's proximity to allergic and inflammatory conjunctivitis nodes in the knowledge graph rather than a rosacea-specific signal. The mechanism could not be checked against the source record.
+This link is hypothetical and is not supported by the data compiled for this report. The very high TxGNN score (99.41%) is a computational prediction only and is not evidence of clinical efficacy.
 
 ## Clinical Trial Evidence
 
@@ -67,35 +67,36 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA219557 | Olopatadine Hydrochloride (Glenmark Therapeutics) | Solution | Not listed in record |
-| ANDA209995 | Olopatadine Hydrochloride (Allwell Health) | Solution | Not listed in record |
-| ANDA213514 | Olopatadine HCl (Rugby Laboratories) | Solution/Drops | Not listed in record |
-| ANDA209420 | Olopatadine Hydrochloride (Alembic Pharmaceuticals) | Solution/Drops | Not listed in record |
-| ANDA204812 | Olopatadine Hydrochloride (Harris Teeter) | Solution | Not listed in record |
+All 12 authorizations are cancelled; none is currently valid. Approved indication text is not available for these records. Five of the 12 are listed below.
 
-Other dosage forms on record include a metered spray. Route compatibility with the predicted indication has not been assessed.
+| Authorization Number | Product Name | Dosage Form | Status |
+|---------|------|------|-----------|
+| NDA020688 | PATADAY TWICE A DAY RELIEF (Alcon Laboratories) | Solution | Cancelled |
+| ANDA219557 | Olopatadine Hydrochloride (Glenmark Therapeutics) | Solution | Cancelled |
+| ANDA209420 | Olopatadine Hydrochloride (Alembic Pharmaceuticals) | Solution/Drops | Cancelled |
+| ANDA091572 | Olopatadine Hydrochloride (Apotex) | Metered spray | Cancelled |
+| ANDA210901 | Olopatadine Hydrochloride (Amneal Pharmaceuticals) | Metered spray | Cancelled |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindications (from the knowledge graph, not label text)**: lower respiratory tract disease, paranasal sinus disease, nasal cavity disease, upper respiratory tract disease.
+- **Drug Interactions**: 100 potential interactions were identified, but all main entries have an unspecified severity level. Examples include pantoprazole, doxycycline, clotrimazole, metformin, omeprazole, lansoprazole, cimetidine, triamcinolone, prednisone and simvastatin. Clinical significance cannot be judged from the available data.
+
+Package insert warnings and contraindications were not available for this report; please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on the model score alone (Level L5). There are no registered trials or publications, and the record lacks original indications, mechanism data and safety information.
+The prediction is supported only by a model score, with no registered clinical trials or publications (Evidence Level L5). The proposed mechanism is hypothetical, because rosacea conjunctivitis is not primarily histamine-driven. All US authorizations are also cancelled, and package insert safety data are missing.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Confirmed original indications and mechanism of action from DrugBank
-- A literature and trial search specific to ocular rosacea and mast cell or histamine involvement
-- Route and formulation compatibility assessment (ophthalmic use for the new indication)
-- Similarity analysis between the original and predicted indications
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Package insert warnings and contraindications from FDA labelling (a blocking gap for safety screening)
+- Detailed mechanism of action data (MOA) from DrugBank
+- A literature and trial search for olopatadine in ocular rosacea or meibomian gland dysfunction
+- Confirmation of the current US market and route availability for ophthalmic products
+- Interaction severity levels for the key co-medications
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

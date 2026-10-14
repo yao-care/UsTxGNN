@@ -33,77 +33,73 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 ## One-Sentence Summary
 
-Obiltoxaximab (Anthim) is a monoclonal antibody marketed in the US for inhalational anthrax caused by *Bacillus anthracis*.
-The TxGNN model predicts it may be effective for **postinfectious vasculitis**, but **no clinical trials and no publications** currently support this prediction, so it rests on graph-based inference alone.
-
----
+Obiltoxaximab is a monoclonal antibody originally used to treat inhalational anthrax.
+The TxGNN model predicts it may be effective for **postinfectious vasculitis**,
+but **no clinical trials and no publications** currently support this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Inhalational anthrax (inferred from trial records; the license record has no indication text) |
+| Original Indication | Inhalational anthrax (anthrax infection) |
 | Predicted New Indication | Postinfectious vasculitis |
 | TxGNN Prediction Score | 99.74% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 1 (BLA125509) |
+| US Market Status | Cancelled only (no currently valid license) |
+| Number of NDAs | 1 (BLA, cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not recorded in DrugBank for this entry. The mechanism below comes from the candidate's repurposing analysis. Obiltoxaximab neutralizes the protective antigen (PA) of *B. anthracis*, which blocks anthrax toxin from entering host cells.
+Detailed mechanism-of-action data are not available in the data compiled for this report. Based on known information, obiltoxaximab is a monoclonal antibody that binds the *Bacillus anthracis* protective antigen (PA) and blocks entry of anthrax toxin into host cells. Its activity is therefore specific to anthrax toxin neutralization.
 
-The analysis found **no plausible link** between this mechanism and postinfectious vasculitis. That condition is an immune-complex or immune-mediated process that does not depend on PA. The high TxGNN score reflects proximity in the knowledge graph, not a biological or clinical rationale. Both conditions involve bacterial infection, but neutralizing an anthrax-specific toxin would not be expected to prevent or treat a post-infectious immune reaction.
+Postinfectious vasculitis is typically immune-complex mediated and is not driven by anthrax toxin. No plausible mechanistic link was identified. The high TxGNN score (99.74%) is a graph-based association only. It likely reflects the shared "infection" category in the knowledge graph rather than a biological rationale.
 
-The same picture holds for the other seven predictions for this drug, all at L4-L5 with a Hold recommendation. Only one of them, "post-bacterial disorder," has linked trials, and those are anthrax or healthy-volunteer studies rather than evidence for that condition.
+Other top-ranked predictions show the same pattern:
 
----
+| Rank | Predicted Indication | TxGNN Score | Assessment |
+|------|------|------|------|
+| 2 | Post-infectious syndrome | 99.74% | No toxin-neutralization target; computational association only |
+| 3 | Post-bacterial disorder | 99.74% | Only the shared bacterial-origin category; no clinical support |
+| 4 | Infective urethral stricture | 99.74% | Fibrosis and scarring process; PA neutralization has no known role |
+| 5 | Otitis externa | 99.71% | Caused by other organisms and managed topically; no biological basis |
+| 6 | Chagas cardiomyopathy | 99.71% | Parasitic disease; the target is absent |
+| 7 | Infection-related hemolytic uremic syndrome | 99.70% | Loose antitoxin analogy only; the drug does not cross-react with Shiga toxin |
+| 8 | Drug-induced osteoporosis | 99.13% | Unrelated to toxin neutralization; likely a graph artifact |
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
-
----
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA125509 | Anthim (Elusys Therapeutics, Inc.) | Solution | Not listed in the license record |
-
----
+| BLA125509 (cancelled) | Anthim | Solution | Not specified in the compiled data |
 
 ## Safety Considerations
 
-- **Drug Interactions**: No interaction records were found in the queried database.
+Please refer to the package insert for safety information.
 
-Please refer to the package insert for warnings, contraindications, and other safety information.
-
----
+No drug-interaction records were found for this drug.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has only a model score (99.74%), with no trial or literature support and no plausible mechanistic link between anthrax toxin neutralization and postinfectious vasculitis. Repurposing evidence is at L5, the weakest level.
+The prediction has no clinical trials or literature behind it (evidence level L5) and no plausible biological link. The only US license is cancelled. The prediction should not advance on the model score alone.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications (currently blocking safety screening)
-- Mechanism-of-action data from DrugBank
-- A biological hypothesis linking PA neutralization to vasculitis pathogenesis, plus preclinical evidence
-- Route compatibility assessment (not yet performed)
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- A credible mechanistic hypothesis connecting anthrax protective antigen neutralization to postinfectious vasculitis
+- Supporting preclinical or clinical evidence
+- Package insert warnings and contraindications, which are required before any safety screening
+- Detailed mechanism-of-action data
+- Clarification of the cancelled US regulatory status and the route of administration needed for the new indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

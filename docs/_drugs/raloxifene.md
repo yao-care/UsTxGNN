@@ -29,31 +29,38 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Raloxifene: From Its Marketed Use (Not Recorded in the Data) to Duodenal Ulcer
+# Raloxifene: From Postmenopausal Osteoporosis to Duodenal Ulcer
 
 ## One-Sentence Summary
 
-Raloxifene is a marketed oral tablet in the United States, but the input data does not record its approved indication.
-The TxGNN model predicts it may be effective for **duodenal ulcer**, but **0 clinical trials** and **0 publications** currently support this direction, so the prediction rests on the model alone.
+Raloxifene is a selective estrogen receptor modulator (SERM), originally used to treat postmenopausal osteoporosis.
+The TxGNN model predicts it may be effective for **duodenal ulcer**, but **0 clinical trials** and **0 publications** currently support this direction, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Postmenopausal osteoporosis / osteoporosis |
 | Predicted New Indication | Duodenal ulcer |
-| TxGNN Prediction Score | 99.72% (model rank 75) |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (the five listed below are ANDA generics) |
+| TxGNN Prediction Score | 99.72% |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 7 (1 NDA and 6 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available, and the original indication was not captured in the input. Raloxifene is generally known as a selective estrogen receptor modulator (SERM). This is background knowledge, not something verified in the Evidence Pack.
+Currently, detailed mechanism of action data is not available. Based on known information, raloxifene is a selective estrogen receptor modulator, and its efficacy in postmenopausal osteoporosis has been established. Whether it could apply to duodenal ulcer is unclear.
 
-A possible link is that estrogen-receptor modulation could influence gastric or duodenal mucosal defense. This is speculative. No trial, publication or mechanistic data supports it, and the high score (0.997) may reflect proximity to related gastrointestinal nodes in the knowledge graph rather than a drug-specific effect.
+No mechanistic link is supported by the data compiled for this report. One speculative idea is that estrogen receptor effects might influence gastric or duodenal mucosal protection, but no retrieved evidence backs this. The high TxGNN score (0.997) is a knowledge-graph prediction only and should not be read as evidence of efficacy.
 
-The same model run also ranked hypoalphalipoproteinemia (99.65%), duodenal obstruction (99.64%) and duodenogastric reflux (99.59%) as further candidates. All are L5 with no supporting studies and are also on Hold. Duodenal obstruction is typically a structural condition, so a drug indication for it is unlikely.
+Other predicted indications show the same pattern:
+
+| Rank | Predicted Indication | Score | Comment |
+|------|------|------|------|
+| 2 | Hypoalphalipoproteinemia | 99.65% | Raloxifene modestly lowers LDL-C and total cholesterol, but has little documented HDL-raising effect. The link is speculative. |
+| 3 | Duodenal obstruction | 99.64% | The condition is mostly structural or mechanical and unlikely to respond to a SERM. Probably a graph-proximity artifact. |
+| 4 | Duodenogastric reflux | 99.59% | A motility and pyloric-function disorder with no documented role for estrogen receptor modulation. |
 
 ## Clinical Trial Evidence
 
@@ -65,34 +72,37 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|------|
-| ANDA090842 | Raloxifene Hydrochloride | Tablet | Cipla USA Inc. |
-| ANDA211324 | Raloxifene hydrochloride | Tablet, coated | Cadila Pharmaceuticals Limited |
-| ANDA208206 | Raloxifene Hydrochloride | Tablet, film coated | AvPAK |
-| ANDA204310 | Raloxifene Hydrochloride | Tablet, film coated | Aurobindo Pharma Limited |
-| ANDA206384 | Raloxifene hydrochloride | Tablet, film coated | Bryant Ranch Prepack |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA020815 | Evista (Eli Lilly and Company) | Tablet | Not listed (cancelled) |
+| ANDA078193 | Raloxifene Hydrochloride (Teva) | Tablet, film coated | Not listed (cancelled) |
+| ANDA090842 | Raloxifene Hydrochloride (Cipla USA) | Tablet | Not listed (cancelled) |
+| ANDA204310 | Raloxifene Hydrochloride (Aurobindo) | Tablet, film coated | Not listed (cancelled) |
+| ANDA208206 | Raloxifene Hydrochloride (AvPAK) | Tablet, film coated | Not listed (cancelled) |
 
-All listed products are oral. Approved indication text was not available in the input.
+Two further cancelled ANDAs (ANDA211324 and ANDA206384) are not shown. All 7 records are oral dosage forms and all are cancelled.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindication signals from the knowledge graph** (these come from model graph edges, not package insert text): hypertension and hypertensive disorder, liver disease, gallbladder disease, atrial fibrillation, hypertriglyceridemia, thrombophlebitis, coronary artery disease, stroke and cerebrovascular disorders, cerebral infarction, transient ischemic attack, vertebrobasilar insufficiency, pulmonary embolism, retinal artery occlusion, thrombophilia, antiphospholipid syndrome, and impaired renal function. The theme is mainly thromboembolic and cardiovascular risk.
+- **Drug Interactions**: The interaction search returned 100 records. None carry a severity level. The first 20 listed include calcitriol, pantoprazole, glimepiride, mesalazine, doxycycline, clotrimazole, morphine, metformin, omeprazole, lansoprazole, sucralfate, rosiglitazone, vancomycin, lactulose, triamcinolone, simvastatin, nystatin, nateglinide, scopolamine, and tetracycline. Clinical significance cannot be judged without severity grading.
+
+Please refer to the package insert for full warnings and contraindications, as label text was not available for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The only support is a knowledge-graph score, with no clinical trials, no literature and no verified mechanism. Approved-indication and safety data are also missing, so the candidate cannot move past initial screening.
+The prediction has no supporting clinical trials, literature, or mechanistic rationale (Evidence Level L5). The drug has no currently valid US licenses, and the knowledge graph flags substantial thromboembolic and cardiovascular risk. The signals do not justify moving forward.
 
 **To proceed, the following is needed:**
-- Package insert warnings, contraindications and approved indications (from the FDA label)
-- Mechanism of action data (for example, from DrugBank)
-- A targeted search of ClinicalTrials.gov and PubMed for raloxifene in duodenal ulcer, to check whether any real evidence exists
-- A mechanistic rationale showing how SERM activity could plausibly affect duodenal mucosa, before any further investment
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
+- Mechanism of action data and a credible biological link between estrogen receptor modulation and duodenal ulcer pathophysiology
+- Preclinical or observational evidence in duodenal ulcer or related gastric mucosal models
+- Package insert warnings and contraindications to complete the safety screening
+- Severity grading for drug interactions, especially with agents commonly used in peptic ulcer disease (PPIs, sucralfate)
+- Clarification of regulatory status, since all US licenses are cancelled, and a review of the route and dosing needed for the new indication
+- A benefit-risk assessment in a population different from postmenopausal women, given the thromboembolic risk signals
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

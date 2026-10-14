@@ -29,69 +29,114 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Hyaluronidase: From Drug-Dispersion Adjuvant to Esotropia
+# Hyaluronidase: From an Injection Adjuvant to Diabetic Retinopathy
 
 ## One-Sentence Summary
 
-Hyaluronidase is an enzyme marketed in the US in several injectable products, and its approved indication text was not supplied in the data.
-The TxGNN model predicts it may be effective for **esotropia**, but there are **0 clinical trials** and only **1 publication** behind this prediction.
-That publication is a case series on strabismus as a complication after cataract surgery, so it suggests an adverse-event association rather than a treatment effect.
+Hyaluronidase is an enzyme that breaks down hyaluronan. It is used mainly to help other injected drugs spread through tissue, and it is part of several subcutaneous biologic formulations.
+The TxGNN model's top-ranked prediction is esotropia, but the best-supported direction is **Diabetic Retinopathy** (ranked 6th), where **3 clinical trials** (including 2 completed Phase 3 trials) and **18 publications** exist.
+Most of the other top-10 predictions have little or no supporting evidence.
 
 ---
 
 ## Quick Overview
 
+The top-ranked prediction (esotropia) has no supporting evidence. This report therefore also covers diabetic retinopathy, the best-supported candidate.
+
 | Item | Content |
 |------|------|
-| Predicted New Indication | Esotropia |
-| TxGNN Prediction Score | 99.89% |
-| Evidence Level | L4 (no therapeutic evidence; the only paper is a case series on a procedural complication) |
-| US Market Status | ✓ Marketed |
-| Number of Licenses | 16 (all listed as BLAs) |
-| Recommended Decision | Hold |
+| Original Indication | Not specified in the available US license records |
+| Predicted New Indication | Esotropia (rank 1, TxGNN); diabetic retinopathy (rank 6, best evidence) |
+| TxGNN Prediction Score | Esotropia 99.89%; diabetic retinopathy 99.71% |
+| Evidence Level | Esotropia L4 (adverse-event reports only); diabetic retinopathy L1 (nominal, outcomes unverified) |
+| US Market Status | Cancelled only (all licenses cancelled) |
+| Number of NDAs | 10 (all BLAs, all cancelled) |
+| Recommended Decision | Hold (esotropia); Hold, with a research question for diabetic retinopathy |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for this drug. Hyaluronidase is generally known as an enzyme that breaks down hyaluronan. It is used to help other injected drugs spread and be absorbed, for example in anesthetic blocks and in subcutaneous products such as Darzalex Faspro and Hylenex. No approved indication text was supplied to compare against esotropia.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known information, hyaluronidase degrades hyaluronan, a major component of the extracellular matrix and the vitreous gel. That property explains its use as a "spreading agent" in injections.
 
-On the evidence supplied, the prediction is **not well supported**. The only linked paper (PMID 16934027) reports persistent diplopia and strabismus after cataract surgery under local anesthesia. Hyaluronidase is commonly added to such anesthetic blocks. This points to a possible procedural or adverse-event association, not a therapeutic benefit. No plausible mechanism was identified by which hyaluronidase would treat esotropia. The high TxGNN score is most likely an artifact of the knowledge graph.
+**Diabetic retinopathy (best-supported direction).** Injected into the vitreous, hyaluronidase can liquefy the vitreous gel, promote posterior vitreous detachment, and help clear vitreous hemorrhage. This is called pharmacologic vitreolysis. Supporting work includes:
+- Animal studies in diabetic rats.
+- Enzyme-induced vitreolysis that appears to slow retinopathy progression through the HIF-1α pathway.
+- Recent work linking dysregulated hyaluronan metabolism to inflammation and angiogenesis in proliferative diabetic retinopathy.
+
+Caveats: the efficacy results of the two large Phase 3 trials are not in the data compiled for this report. Ovine hyaluronidase was never established as a standard therapy for this condition, and anti-VEGF drugs and laser treatment are now the standard of care.
+
+**Esotropia (top-ranked).** No mechanistic link to treatment was found. The only publication describes persistent diplopia and strabismus as a *complication* after cataract surgery under local anesthesia, where hyaluronidase is an adjuvant in the block. This is an adverse-event association, not a therapeutic one. The high model score is not supported by clinical evidence.
+
+**Other predictions.**
+- **Amenorrhea:** the only publication is a 1975 laboratory study of endogenous enzyme activity.
+- **Dermatitis:** mostly indirect literature, and inhibitors of hyaluronidase appear to improve experimental dermatitis. That is the opposite of the direction needed.
+- **Diabetic cataract:** indirect, with a 1978 study suggesting hyaluronidase may *increase* cystoid macular edema after surgery.
+- **Renal tubular acidosis, acrodermatitis chronica atrophicans, neonatal dermatomyositis, esophageal malformation:** no trials or literature, and no plausible mechanism.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+No clinical trials are registered for esotropia. The trials below are for diabetic retinopathy.
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT00198497](https://clinicaltrials.gov/study/NCT00198497) | Phase 3 | Completed | 510 | Vitrase (ovine hyaluronidase) intravitreal injection for clearance of severe vitreous hemorrhage; efficacy results not available in the data compiled |
+| [NCT00198510](https://clinicaltrials.gov/study/NCT00198510) | Phase 3 | Completed | 750 | Replicate Phase 3 study of Vitrase for severe vitreous hemorrhage; efficacy results not available in the data compiled |
+| [NCT00198471](https://clinicaltrials.gov/study/NCT00198471) | Phase 2 | Completed | 10 | Open-label study of intravitreal Vitrase to induce posterior vitreous detachment in moderate to severe non-proliferative diabetic retinopathy; small and uncontrolled, safety signal only |
 
 ---
 
 ## Literature Evidence
 
+Diabetic retinopathy (selected from 18 publications):
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [16934027](https://pubmed.ncbi.nlm.nih.gov/16934027/) | 2006 | Case report/series | Binocular Vision & Strabismus Quarterly | Describes persistent diplopia and strabismus as a rare complication of local (retrobulbar) anesthesia for cataract surgery, and the treatments used. It does not test hyaluronidase as a treatment. |
+| [20939804](https://pubmed.ncbi.nlm.nih.gov/20939804/) | 2011 | Review | Curr Pharm Biotechnol | Reviews pharmacologic vitreolysis; intravitreal ovine hyaluronidase was effective in clearing vitreous hemorrhage |
+| [17713597](https://pubmed.ncbi.nlm.nih.gov/17713597/) | 2007 | Review | Exp Diabetes Res | Current and future pharmacotherapies for diabetic retinopathy |
+| [19644368](https://pubmed.ncbi.nlm.nih.gov/19644368/) | 2009 | Review | Curr Opin Ophthalmol | Changing treatment paradigms in diabetic retinopathy |
+| [41789111](https://pubmed.ncbi.nlm.nih.gov/41789111/) | 2026 | Basic/translational | Front Immunol | Dysregulated hyaluronan metabolism drives inflammation and angiogenesis in proliferative diabetic retinopathy |
+| [23847321](https://pubmed.ncbi.nlm.nih.gov/23847321/) | 2013 | Animal study | Invest Ophthalmol Vis Sci | Enzyme-induced vitreolysis can slow retinopathy progression via the HIF-1α pathway |
+| [19050667](https://pubmed.ncbi.nlm.nih.gov/19050667/) | 2009 | Animal study | Retina | Plasmin and hyaluronidase vitreolysis is feasible in diabetic rats |
+| [30445048](https://pubmed.ncbi.nlm.nih.gov/30445048/) | 2019 | Animal study | Exp Eye Res | Effect of diabetes and hyaluronidase on the retinal endothelial glycocalyx in mice |
+| [12757408](https://pubmed.ncbi.nlm.nih.gov/12757408/) | 2003 | Drug profile | Drugs R D | Profile of ophthalmic ovine hyaluronidase (Vitrase) for vitreous hemorrhage and diabetic retinopathy |
+| [34293791](https://pubmed.ncbi.nlm.nih.gov/34293791/) | 2022 | Pharmacokinetic study | Ophthalmic Plast Reconstr Surg | Examines whether retrobulbar hyaluronidase reaches the vitreous cavity |
+
+Other predictions:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [16934027](https://pubmed.ncbi.nlm.nih.gov/16934027/) | 2006 | Case report | Binocul Vis Strabismus Q | Esotropia: persistent diplopia and strabismus after cataract surgery under local anesthesia (a complication, not a treatment) |
+| [37145319](https://pubmed.ncbi.nlm.nih.gov/37145319/) | 2024 | Review | Aesthetic Plast Surg | Dermatitis: allergic complications of hyaluronidase injection and management |
+| [367238](https://pubmed.ncbi.nlm.nih.gov/367238/) | 1978 | Clinical study | Ann Ophthalmol | Diabetic cataract: a 25% incidence of cystoid macular edema in patients receiving hyaluronidase with local anesthetic, none in controls |
 
 ---
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form |
-|---------|------|------|
-| BLA021665 | AMPHADASE (Amphastar Pharmaceuticals) | Injection |
-| BLA021640 | VITRASE (Bausch & Lomb) | Injection, solution |
-| BLA021859 | HYALURONIDASE (HF Acquisition Co, DBA HealthFirst) | Injection, solution |
-| BLA021859 | HYLENEX Recombinant (Antares Pharma) | Injection, solution |
-| BLA761145 | Darzalex Faspro (Janssen Biotech) | Injection |
+All 10 licenses are cancelled, and the indication text is not recorded for any of them. Most of the products are subcutaneous biologic formulations in which hyaluronidase is a component.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| BLA021665 | AMPHADASE | Injection | Not recorded |
+| BLA021640 | VITRASE | Injection, solution | Not recorded |
+| BLA021859 | HYALURONIDASE (HealthFirst) | Injection, solution | Not recorded |
+| BLA761145 | Darzalex Faspro | Injection | Not recorded |
+| BLA761467 | KEYTRUDA QLEX | Injection, solution | Not recorded |
+
+Five further cancelled BLAs are on record: Opdivo Qvantig, Rybrevant Faspro (two entries), Vyvgart Hytrulo, and Tecentriq Hybreza.
 
 ---
 
 ## Safety Considerations
 
-- **Drug Interactions**: No interactions were found in the queried database.
-- **Allergy**: A 2024 review (PMID 37145319) describes allergic complications of hyaluronidase injection, which is frequently misdiagnosed. It covers risk factors and management recommendations.
+- **Drug Interactions:** 63 interactions were identified; all those listed are rated Minor. They include corticosteroids (hydrocortisone, triamcinolone, dexamethasone, betamethasone, budesonide, prednisolone, prednisone), antihistamines (promethazine, chlorpheniramine, loratadine, cetirizine), local anesthetics (lidocaine, articaine), estrogens (estradiol, ethinylestradiol, conjugated estrogens), and aspirin.
+- **Hypersensitivity (from the literature):** a 2024 review describes allergic complications of hyaluronidase injection that are often misdiagnosed.
+- **Ocular signals (from the literature):** a 1978 study reported a higher incidence of cystoid macular edema with hyaluronidase added to anesthetic. Strabismus and diplopia have been reported after anesthetic blocks that used hyaluronidase.
 
-Please refer to the package insert for warnings and contraindications.
+Please refer to the package insert for the full warnings and contraindications.
 
 ---
 
@@ -100,16 +145,17 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on the model score and one case series describing a complication, with no trials and no therapeutic mechanism. The evidence does not support moving this indication forward.
+- The top-ranked prediction, esotropia, rests on a model score alone, and its only publication describes a complication rather than a treatment.
+- Diabetic retinopathy is the only direction with real clinical-trial history, two completed Phase 3 trials. However, their efficacy outcomes were not available, and the program is historical. Anti-VEGF drugs and laser are now standard care. This direction is best treated as a research question rather than a Go.
+- All US licenses are cancelled, and the package insert's warnings and contraindications are missing from the data.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications
-- Mechanism of action data
-- Any prospective clinical evidence of hyaluronidase treating esotropia (none is currently identified)
-
-**Note on other candidates:** In the same prediction list, **diabetic retinopathy** (rank 6) has much stronger support. It has two completed Phase 3 trials of intravitreal Vitrase (NCT00198510, n=750; NCT00198497, n=510), but their results were not supplied. The target condition is likely vitreous hemorrhage rather than retinopathy progression. This candidate should be evaluated separately once the outcomes and regulatory status are verified.
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
+- The efficacy and safety results of NCT00198497 and NCT00198510 (published papers or registry results).
+- The package insert warnings and contraindications, which are a blocking data gap.
+- Detailed mechanism-of-action data from DrugBank.
+- A comparison against current standards of care (anti-VEGF, laser, vitrectomy) to define any remaining unmet need.
+- A route and formulation assessment, since the intravitreal route would need a product with an active license.
+- Safety monitoring plans for hypersensitivity and ocular adverse events.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

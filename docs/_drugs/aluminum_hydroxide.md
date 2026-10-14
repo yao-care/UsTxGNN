@@ -3,14 +3,14 @@ layout: default
 title: Aluminum Hydroxide
 parent: Moderate Evidence (L3-L4)
 nav_order: 274
-evidence_level: L3
+evidence_level: L4
 indication_count: 4
 ---
 
 # Aluminum Hydroxide
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **4** 
+Evidence Level: **L4** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,98 +29,89 @@ Evidence Level: **L3** | Predicted Indications: **4**
 
 </div>
 
-# Aluminum Hydroxide: From Antacid Use to Active Peptic Ulcer Disease
+# Aluminum Hydroxide: From Peptic Ulcer Disease to Active Peptic Ulcer Disease
 
 ## One-Sentence Summary
 
-Aluminum hydroxide is a long-marketed antacid that neutralizes stomach acid.
-The TxGNN model predicts it may be effective for **active peptic ulcer disease**. This is close to established use rather than true repurposing.
-Support is **0 registered clinical trials** and **18 publications**, mostly from the 1970s to 1990s.
-
----
+Aluminum hydroxide is an antacid originally used for acid-related stomach conditions such as gastric ulcer, peptic ulcer disease, reflux disease, and dyspepsia.
+The TxGNN model predicts it may be effective for **active peptic ulcer disease**, but this largely overlaps with its existing use rather than being a true new indication.
+Currently **no clinical trials** are registered, and the **9 publications** retrieved provide only indirect support.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the license records (long-marketed antacid) |
+| Original Indication | Gastric ulcer, peptic ulcer disease, gastroesophageal reflux disease, esophagitis, dyspepsia, duodenal ulcer (the US license records contain no indication text) |
 | Predicted New Indication | Active peptic ulcer disease |
 | TxGNN Prediction Score | 99.64% |
-| Evidence Level | L3 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 3 |
-| Recommended Decision | Proceed with Guardrails |
-
----
+| Evidence Level | L4 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 3 (all cancelled) |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the DrugBank record. The literature describes aluminum hydroxide as neutralizing gastric hydrochloric acid, raising intragastric pH and reducing pepsin activity. Several studies also report mucosal cytoprotection, possibly through endogenous prostaglandins (PMID 1769429, 22950493).
+Detailed mechanism of action data is not available in the data compiled for this report. Based on the retrieved literature, aluminum hydroxide neutralizes gastric acid, raises intragastric pH, and adsorbs pepsin, thereby reducing peptic activity. Preclinical work also suggests it protects gastric epithelial cells from acid- and pepsin-induced damage.
 
-Peptic ulcers are driven by acid and pepsin injury to the mucosa. Acid neutralization and mucosal protection therefore match the disease pathophysiology directly. Older reviews report that intensive antacid therapy heals duodenal ulcers about as well as cimetidine, but with more side effects. Its effect on gastric ulcer healing is smaller and less certain.
+The predicted indication is essentially the same as the drug's original use. Active peptic ulcer disease is a subset of the acid-related conditions already linked to aluminum hydroxide. The high score is therefore consistent with the knowledge graph, but it does not represent a new therapeutic direction.
 
-The evidence predates proton pump inhibitors (PPIs) and *H. pylori* eradication therapy. The realistic role today is adjunct or symptomatic therapy, not first-line ulcer treatment.
-
----
+The other predictions are weaker. Gastroduodenitis rests on historical (1947-1962), mostly uncontrolled reports. Gastrojejunal ulcer is supported only by general peptic ulcer and antacid literature. Peptic ulcer perforation (a surgical emergency) is not clinically plausible as an antacid indication.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
+
+The literature below was retrieved for the top-ranked prediction. Much of it concerns sucralfate (an aluminum-containing compound) or comparator drugs, so support for aluminum hydroxide itself is indirect.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [7034155](https://pubmed.ncbi.nlm.nih.gov/7034155/) | 1981 | RCT | Scand J Gastroenterol | 12-week double-blind trial in 72 patients with duodenal or prepyloric ulcers. Antacid/anticholinergic was compared with cimetidine and placebo. Cimetidine healed 67% at 3 weeks (p<0.005 vs placebo). |
-| [1769429](https://pubmed.ncbi.nlm.nih.gov/1769429/) | 1991 | Mechanistic/Clinical pharmacology | Digestion | Aluminum-containing antacids, including Al(OH)3, protected against experimentally induced gastric mucosal lesions. The study examined the role of intragastric pH. |
-| [22950493](https://pubmed.ncbi.nlm.nih.gov/22950493/) | 2013 | Review | Curr Pharm Des | Reviews the mucosal protective and ulcer-healing actions of antacids at the cellular and molecular level. |
-| [37146](https://pubmed.ncbi.nlm.nih.gov/37146/) | 1979 | Review | Fortschr Med | Antacid use in peptic ulcer is based on neutralizing gastric acid and inhibiting pepsin. Adequate dosing after meals is needed. |
-| [6086186](https://pubmed.ncbi.nlm.nih.gov/6086186/) | 1984 | Review | Clin Gastroenterol | Reviews antacids and anticholinergics in duodenal ulcer treatment. |
-| [6927335](https://pubmed.ncbi.nlm.nih.gov/6927335/) | 1982 | Review | Pharmacotherapy | Reviews sucralfate, a polyaluminum hydroxide complex with a sulfated disaccharide. It is non-systemic and protects the ulcer crater. It is not an antacid, but it is a related aluminum-based agent. |
-| [2401189](https://pubmed.ncbi.nlm.nih.gov/2401189/) | 1990 | Cohort | Drugs Exp Clin Res | Retrospective study of 267 children with peptic symptoms. It examined treatment of the acute phase and of relapses. |
-| [3018068](https://pubmed.ncbi.nlm.nih.gov/3018068/) | 1986 | Clinical pharmacology | J Clin Gastroenterol | Compared postprandial gastric acid buffering of sodium bicarbonate and aluminum-magnesium hydroxide in duodenal ulcer patients. |
-| [2390927](https://pubmed.ncbi.nlm.nih.gov/2390927/) | 1990 | Preclinical | Dig Dis Sci | Al(OH)3 enhanced healing of chronic gastroduodenal ulcers in rats. Prostaglandins and epidermal growth factor were examined as mediators. |
-| [9334882](https://pubmed.ncbi.nlm.nih.gov/9334882/) | 1997 | Preclinical | Jpn J Pharmacol | Al(OH)3 prevented acid- and pepsin-induced damage in rat gastric epithelial cells. |
+| [1526089](https://pubmed.ncbi.nlm.nih.gov/1526089/) | 1992 | RCT (nizatidine vs placebo) | Clin Pharmacol Ther | 8-week trial in benign gastric ulcer; tests nizatidine, not aluminum hydroxide |
+| [3018068](https://pubmed.ncbi.nlm.nih.gov/3018068/) | 1986 | Clinical physiology study | J Clin Gastroenterol | Compared buffering of postprandial gastric acid by sodium bicarbonate vs aluminum-magnesium hydroxide in duodenal ulcer patients |
+| [3104655](https://pubmed.ncbi.nlm.nih.gov/3104655/) | 1986 | Review | Klin Wochenschr | Aluminum hydroxide antacids prevent gross mucosal necrosis and hemorrhage from aspirin or ethanol |
+| [6798099](https://pubmed.ncbi.nlm.nih.gov/6798099/) | 1981 | Review | J Clin Gastroenterol | Development of sucralfate, an aluminum salt designed to counter acid and pepsin |
+| [7190055](https://pubmed.ncbi.nlm.nih.gov/7190055/) | 1980 | Review | Brain Res Bull | Restraint ulcer models respond to known agents including cimetidine and aluminum hydroxide |
+| [3929601](https://pubmed.ncbi.nlm.nih.gov/3929601/) | 1985 | Preclinical / in vitro | Am J Med | Sucralfate inhibits peptic activity through the same mechanisms as aluminum hydroxide (pH rise, pepsin adsorption) |
+| [9334882](https://pubmed.ncbi.nlm.nih.gov/9334882/) | 1997 | Preclinical (rat cells) | Jpn J Pharmacol | Aluminum hydroxide prevented acid- and pepsin-induced damage to gastric epithelial cells |
+| [35720246](https://pubmed.ncbi.nlm.nih.gov/35720246/) | 2022 | In vitro product analysis | Med Pharm Rep | Evaluated acid-neutralizing capacity of antacids marketed in Morocco |
 
----
+One additional retrieved paper (PMID 432256, on oral contraceptive availability) is unrelated to this indication and is omitted.
+
+For the lower-ranked predictions, the most relevant item is a 1977 review of controlled trials of aluminum hydroxide gels for peptic ulcer ([324863](https://pubmed.ncbi.nlm.nih.gov/324863/), *Gastroenterology*). It reported that 15-ml doses relieved duodenal ulcer pain in 79% of episodes versus 45% for a dummy gel in one trial, but the difference was not significant in a replicate trial at another hospital.
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| M001 | Aluminum Hydroxide (Rugby Laboratories) | Liquid | Not stated in the record |
-| M | Aluminum Hydroxide (Atlantic Biologicals Corp.) | Liquid | Not stated in the record |
-| M016 | ProCure DryDrox (Twin Med LLC) | Ointment | Not stated in the record |
-
----
+| M001 (cancelled) | Aluminum Hydroxide (Rugby Laboratories) | Liquid | Not specified |
+| M (cancelled) | Aluminum Hydroxide (Atlantic Biologicals Corp.) | Liquid | Not specified |
+| M016 (cancelled) | ProCure DryDrox (Twin Med LLC) | Ointment | Not specified |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No warning, contraindication or interaction data are available in the record, and the drug-interaction query returned no results.
+- **Drug Interactions**: 100 interactions were identified in total. The main ones are:
+  - **Major**: Dolutegravir, sodium citrate
+  - **Moderate**: Acalabrutinib, doxycycline, alendronic acid, risedronic acid, allopurinol, amphetamine, ascorbic acid, acetylsalicylic acid, atazanavir, proguanil
+  - **Minor**: Famotidine, ranitidine, and others
 
-Guardrails from the evidence review:
-- **Renal impairment**: monitor for aluminum accumulation.
-- **Hypophosphatemia**: aluminum hydroxide can cause phosphate depletion, and long-term use may lead to bone demineralization (PMID 6293043).
-- **Drug-binding interactions**: check concomitant medicines that may bind to or be affected by antacids.
+- **Other literature-based safety signals**: Long-term or high-dose use may cause phosphate depletion and bone demineralization or osteomalacia (PMIDs 6293043, 2257522).
 
----
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-The mechanism directly matches ulcer pathophysiology, and randomized and pharmacology studies support the direction. Nearly all evidence is 1970s–1990s, has no registered trials, and predates PPIs and *H. pylori* eradication. It is therefore capped at L3.
+The top prediction largely restates the drug's existing acid-related use rather than a new indication. No clinical trials are registered, the literature is mostly old, indirect, or about sucralfate, and all US licenses are cancelled. Safety information from the package insert is also missing.
 
 **To proceed, the following is needed:**
-- Verify the design and phase of the 1981 RCT (PMID 7034155) and the 1977 controlled trials of aluminum hydroxide gels (PMID 324863). Confirming adequate randomized trials could raise the level to L2 or L1.
-- Package insert warnings and contraindications, which are currently missing and block safety screening.
-- Detailed mechanism-of-action data from DrugBank.
-- Positioning limited to adjunct or symptomatic use, not a replacement for PPIs or *H. pylori* eradication.
-
-Other predicted indications are weaker. Gastroduodenitis and gastrojejunal ulcer rest on indirect evidence only. Peptic ulcer perforation is not a plausible antacid indication.
+- Package insert warnings and contraindications (currently missing)
+- Detailed mechanism of action data
+- Clarification of whether a true new indication exists beyond the current acid-related uses
+- Current-era controlled trial evidence of aluminum hydroxide specifically
+- Review of the clinically implausible prediction (peptic ulcer perforation) and of the gastrojejunal ulcer and gastroduodenitis predictions, which rest on indirect or historical evidence
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

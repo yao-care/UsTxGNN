@@ -33,35 +33,29 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Olsalazine is a prodrug of 5-aminosalicylic acid (5-ASA) that acts locally in the colon, and it is generally used for ulcerative colitis.
-The TxGNN model predicts it may be effective for **myelodysplastic syndrome**, but this is a graph-based prediction only.
-There are currently **0 clinical trials** and **0 publications** supporting it.
+Olsalazine is a locally acting prodrug of 5-aminosalicylic acid (5-ASA, mesalamine), a drug class used for inflammatory bowel disease. The TxGNN model predicts it may be effective for **myelodysplastic syndrome (MDS)**, but **no clinical trials and no publications** currently support this direction. The prediction is a model output only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in the Evidence Pack (olsalazine is generally used for ulcerative colitis) |
+| Original Indication | Not stated in the available US label data |
 | Predicted New Indication | Myelodysplastic syndrome |
 | TxGNN Prediction Score | 99.91% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
+| US Market Status | Cancelled only (no currently valid license) |
 | Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Olsalazine is a dimer of 5-ASA that is poorly absorbed and acts mainly on the gut mucosa. Its anti-inflammatory effects are thought to involve NF-kB and COX/LOX modulation.
+Currently, detailed mechanism of action data is not available. Based on known information, olsalazine is a prodrug of 5-ASA that acts mainly locally in the colon, with minimal systemic exposure. Its original indication text is not recorded in the data compiled for this report.
 
-No established link connects this activity to myelodysplastic syndrome (MDS), a disorder of clonal hematopoiesis. The high score most likely reflects shared neighbors in the knowledge graph rather than biology. The same applies to the other top predictions, which fall into three groups:
+No mechanistic link to MDS is established. A speculative anti-inflammatory or NF-kB-modulating rationale could be proposed, but olsalazine's low systemic absorption argues against meaningful effects on bone marrow. The high TxGNN score (0.999) reflects network proximity in the knowledge graph rather than validated pharmacology.
 
-- **MDS cluster:** unclassified MDS, refractory cytopenia of childhood, partial deletion of 5q, aregenerative anemia, and congenital sideroblastic anemia.
-- **Hair disorders:** hypotrichosis simplex of the scalp, congenital hypotrichosis milia, alopecia, and diffuse alopecia areata.
-
-Two of these have a speculative anti-inflammatory rationale, and none has supporting evidence:
-
-- **Alopecia areata:** it is immune-mediated, but olsalazine is not known to act on the relevant pathways (JAK-STAT, IFN-gamma). Systemic exposure at the scalp is also unlikely.
-- **Aregenerative anemia:** aminosalicylates are occasionally linked to cytopenias as adverse effects, so the safety direction may be opposite to the predicted benefit.
+Other top predictions are related or unrelated conditions, all with the same lack of supporting data:
+- MDS-related terms: unclassified MDS, refractory cytopenia of childhood, partial deletion of the long arm of chromosome 5 (del(5q)), aregenerative anemia, and congenital sideroblastic anemia. These likely cluster with MDS in the graph.
+- Hair disorders: hypotrichosis simplex of the scalp, congenital hypotrichosis milia, alopecia and diffuse alopecia areata. Only alopecia areata has a theoretical immune-mediated rationale, and it is unsupported by data.
 
 ## Clinical Trial Evidence
 
@@ -73,28 +67,31 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA019715 | Dipentum | Capsule, gelatin coated (oral) | Viatris Specialty LLC |
+| NDA019715 (cancelled) | Dipentum (Viatris Specialty LLC) | Capsule, gelatin coated (oral) | Not available |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: 100 interactions were identified in the interaction database; the first 20 reviewed are mostly Moderate, and several are Major.
+  - **Major**: human immunoglobulin G (intravenous), human botulinum neurotoxin A/B immune globulin, cidofovir, iothalamic acid.
+  - **Moderate (examples)**: NSAIDs (ketorolac, ibuprofen, celecoxib, diclofenac), azathioprine, aminoglycosides and related nephrotoxic agents (amikacin, amphotericin B, bacitracin, capreomycin, colistimethate), acyclovir, cisplatin, clofarabine, ibandronate, chlorpropamide. Many of these involve potential additive kidney toxicity.
+
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone (L5), with no trials, no literature, and no plausible mechanistic link. Olsalazine's local colonic action does not fit MDS, and aminosalicylate-associated cytopenias raise a possible safety concern in this population.
+The prediction rests solely on a model score. There are no trials or publications, no mechanistic data, and olsalazine's minimal systemic absorption makes bone marrow or hair follicle effects implausible. The only US license is cancelled, and package insert safety data are missing.
 
 **To proceed, the following is needed:**
-- The FDA package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data (for example, from DrugBank) to test any link to MDS or immune-mediated hair loss
-- Any preclinical or clinical signal for MDS or alopecia areata before re-evaluation
-- Route and exposure assessment, since olsalazine is oral and colon-targeted, so systemic or scalp exposure is limited
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Mechanism of action data for olsalazine and a plausible biological link to MDS (or to alopecia areata)
+- Preclinical evidence (for example, in vitro or animal studies in MDS or hair follicle models)
+- Package insert warnings and contraindications from the FDA
+- Pharmacokinetic evidence on whether systemic exposure could reach relevant tissues
+- Renal safety and interaction review, given the many nephrotoxicity-related interactions
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

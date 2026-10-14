@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Ziprasidone
-parent: Model Prediction Only (L5)
+parent: High Evidence (L1-L2)
 nav_order: 1310
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Ziprasidone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,65 +29,94 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ziprasidone: From Schizophrenia and Bipolar Mania to Trichotillomania
+# Ziprasidone: From Schizophrenia and Bipolar Disorder to Major Affective Disorder
 
 ## One-Sentence Summary
 
-Ziprasidone is an atypical antipsychotic originally used for schizophrenia and bipolar mania.
-The TxGNN model predicts it may be effective for **Trichotillomania** (a hair-pulling disorder), but **0 clinical trials** and **0 publications** currently support this specific prediction, so it is a model prediction only.
+Ziprasidone is an atypical antipsychotic originally used to treat schizophrenia and bipolar disorder (manic and mixed episodes).
+The TxGNN model predicts it may be effective for **Major Affective Disorder**, with **7 clinical trials** and **19 publications** currently supporting this direction.
+The strongest evidence comes from several Phase 2 placebo-controlled trials, but no completed Phase 3 RCT confirms efficacy.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Schizophrenia and bipolar mania (general drug knowledge; the license entries in the pack contain no indication text) |
-| Predicted New Indication | Trichotillomania |
-| TxGNN Prediction Score | 99.83% |
-| Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| Original Indication | Schizophrenia; bipolar disorder (manic bipolar affective disorder) |
+| Predicted New Indication | Major affective disorder |
+| TxGNN Prediction Score | 99.66% |
+| Evidence Level | L2 |
+| US Market Status | Cancelled only (all licenses cancelled) |
+| Number of NDAs | 7 (1 NDA and 6 ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Based on known pharmacology, ziprasidone combines D2 and 5-HT2A receptor antagonism with 5-HT1A partial agonism. Its efficacy in psychotic and manic disorders is established.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on the supplied analysis, ziprasidone antagonizes 5-HT2A and D2 receptors, partially activates 5-HT1A, and inhibits serotonin and norepinephrine reuptake. This profile gives a plausible rationale for use in depression.
 
-Dopaminergic and serotonergic modulation is used in body-focused repetitive behaviors such as trichotillomania. This gives the prediction a plausible but speculative mechanistic basis.
+Ziprasidone is already used for bipolar disorder (mania and mixed states), which is closely related to major affective disorder. Several second-generation antipsychotics are approved as add-ons to antidepressants for major depression, and systematic reviews and network meta-analyses address this strategy in treatment-resistant depression.
 
-The model score is very high, but no trials or literature were retrieved for ziprasidone in this condition. The prediction should be treated as a hypothesis, not as supported evidence.
+This is partly an extension of an existing bipolar indication rather than a fully new repurposing. Evidence for add-on use in unipolar depression appears mixed, and tolerability concerns (somnolence, QTc prolongation) must be weighed.
+
+## Clinical Trial Evidence
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT00633399](https://clinicaltrials.gov/study/NCT00633399) | Phase 2 | Completed | 458 | Three-phase study of ziprasidone added to an SSRI in MDD patients with inadequate SSRI response |
+| [NCT00555997](https://clinicaltrials.gov/study/NCT00555997) | Phase 2 | Completed | 120 | 12-week randomized, double-blind, placebo-controlled trial of ziprasidone in MDD, primary outcome HAM-D-17 change |
+| [NCT00490542](https://clinicaltrials.gov/study/NCT00490542) | Phase 2 | Completed | 73 | Double-blind, placebo-controlled trial in depressive mixed state |
+| [NCT00340379](https://clinicaltrials.gov/study/NCT00340379) | Phase 2/3 | Completed | 72 | Ziprasidone monotherapy vs. sertraline plus haloperidol in psychotic major depression |
+| [NCT01168674](https://clinicaltrials.gov/study/NCT01168674) | Phase 4 | Completed | 49 | Predictors of response to ziprasidone augmentation in MDD (13-week cross-over) |
+| [NCT00237666](https://clinicaltrials.gov/study/NCT00237666) | Phase 4 | Completed | 30 | Open-label, flexible-dose study in bipolar II major depression |
+| [NCT00421954](https://clinicaltrials.gov/study/NCT00421954) | Phase 3 | Completed | 8 | Open-label feasibility study in adolescents with psychotic disorder; too small to judge efficacy |
+
+## Literature Evidence
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [34986373](https://pubmed.ncbi.nlm.nih.gov/34986373/) | 2022 | Systematic review/NMA | Journal of Affective Disorders | Compares augmentation agents for treatment-resistant depression (efficacy and discontinuation) |
+| [35510505](https://pubmed.ncbi.nlm.nih.gov/35510505/) | 2023 | Systematic review/Meta-analysis | Psychological Medicine | Efficacy and tolerability of antipsychotics as monotherapy and adjunct in adult MDD |
+| [34238049](https://pubmed.ncbi.nlm.nih.gov/34238049/) | 2021 | Systematic review/Meta-analysis | Journal of Psychopharmacology | Antidepressants plus second-generation antipsychotics vs. esketamine vs. lithium in major depression |
+| [40808264](https://pubmed.ncbi.nlm.nih.gov/40808264/) | 2025 | Systematic review | Bipolar Disorders | Pharmacological treatments for MDD and bipolar depression with mixed features |
+| [27835715](https://pubmed.ncbi.nlm.nih.gov/27835715/) | 2017 | Randomized controlled trial | Journal of Clinical Psychiatry | Cardiac, endocrine, metabolic and motor effects of ziprasidone added to escitalopram in MDD |
+| [27306192](https://pubmed.ncbi.nlm.nih.gov/27306192/) | 2016 | Post-hoc analysis of RCT | International Clinical Psychopharmacology | Ziprasidone augmentation in anxious vs. non-anxious depression |
+| [26619770](https://pubmed.ncbi.nlm.nih.gov/26619770/) | 2015 | Review | American Journal of Psychiatry | Adjunctive ziprasidone in major depression and the status of adjunctive atypical antipsychotics |
+| [19040553](https://pubmed.ncbi.nlm.nih.gov/19040553/) | 2008 | Review | CNS Neuroscience & Therapeutics | Ziprasidone in affective disorders; acts on serotonin and dopamine receptors and inhibits norepinephrine reuptake |
+| [25963405](https://pubmed.ncbi.nlm.nih.gov/25963405/) | 2016 | Review | Asia-Pacific Psychiatry | Antipsychotics as antidepressants; effective for depression only at subantipsychotic doses |
+| [32512768](https://pubmed.ncbi.nlm.nih.gov/32512768/) | 2020 | Review | Pharmaceuticals (Basel) | Pharmacological options for treatment-resistant depression |
 
 ## US Market Information
 
-The license entries carry no approved-indication text, so that column is omitted. The pack also lists an injectable lyophilized powder form in addition to oral capsules.
+All seven authorizations are listed as cancelled; none is currently valid.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA077561 | Ziprasidone Hydrochloride | Capsule | American Health Packaging |
-| ANDA090348 | Ziprasidone | Capsule | Chartwell RX, LLC |
-| ANDA077561 | ziprasidone hydrochloride | Capsule | AvPAK |
-| ANDA204375 | Ziprasidone Hydrochloride | Capsule | Macleods Pharmaceuticals Limited |
-| ANDA077565 | ziprasidone hydrochloride | Capsule | REMEDYREPACK INC. |
+| NDA020825 | Geodon (Roerig) | Capsule | Not listed |
+| ANDA077561 | Ziprasidone Hydrochloride (American Health Packaging) | Capsule | Not listed |
+| ANDA090348 | Ziprasidone (Chartwell RX) | Capsule | Not listed |
+| ANDA204375 | Ziprasidone Hydrochloride (Macleods) | Capsule | Not listed |
+| ANDA211908 | Ziprasidone mesylate (Dr. Reddy's) | Lyophilized powder for injection | Not listed |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindications suggested by the knowledge graph** (graph-derived associations, not label text): long QT syndrome, torsades de pointes, heart conduction disease, sudden cardiac arrest, myocardial infarction, orthostatic hypotension, liver failure, kidney disease, epilepsy, diabetes mellitus and diabetic ketoacidosis, hyperglycemia, neutropenia and agranulocytosis, hyperlipidemia, obesity, potassium deficiency and others.
+- **Drug Interactions**: 100 interactions were found. Major-level examples include hydrocortisone, amphotericin B (including the lipid complex), bupropion and morphine. Moderate-level examples include metformin, pioglitazone, famotidine, epinephrine, atropine and acarbose.
+- **Literature notes**: QTc prolongation and somnolence are tolerability issues raised in the supplied literature, along with pediatric cardiac safety.
+
+Package insert warnings and contraindications were not available for this report; please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is model-only (L5), with no registered trials and no literature for ziprasidone in trichotillomania. The mechanistic link is plausible but speculative.
+Several Phase 2 placebo-controlled trials and meta-analyses address ziprasidone in major depression, so the prediction has real support (evidence level L2). However, no completed Phase 3 RCT confirms efficacy, results for unipolar augmentation appear mixed, cardiac (QTc) risk is significant, and all US licenses are cancelled. The model's other top-ranked predictions (such as trichotillomania and Tourette syndrome) have little or no supporting evidence.
 
 **To proceed, the following is needed:**
-- A targeted literature search for ziprasidone, or atypical antipsychotics generally, in trichotillomania and body-focused repetitive behaviors
-- Mechanism of action data from DrugBank
-- FDA package insert warnings and contraindications, which block any safety screening
-- Route and dosage compatibility assessment, currently pending
-
-**Note on other candidates in this Evidence Pack:** Two lower-ranked predictions have far more support than the top-ranked one and are worth separate evaluation reports.
-- **Major affective disorder** (rank 3): L1 evidence, including several completed Phase 3 placebo-controlled trials in bipolar I depression, such as NCT00141271 (n=536), NCT00282464 (n=392) and NCT00483548 (n=298). It also has randomized trials of adjunctive ziprasidone in major depressive disorder, such as NCT00633399 (n=458), and several meta-analyses.
-- **Tourette syndrome** (rank 7): L3 evidence from a small pilot study in children and adolescents (PMID 10714048), case reports and guidelines, with no registered trials.
+- Outcome data from the Phase 2 trials (especially NCT00633399 and NCT00555997) and a review of their efficacy results
+- FDA package insert warnings and contraindications, to complete the safety screening
+- Detailed mechanism of action data
+- A cardiac risk assessment (QTc monitoring plan) and a review of the QT-related and other contraindications
+- Clarification of market and regulatory feasibility given the cancelled licenses
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

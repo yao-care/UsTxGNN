@@ -29,30 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-# Amphetamine: From ADHD and Narcolepsy to Faciodigitogenital Syndrome
+# Amphetamine: From Attention Deficit Hyperactivity Disorder to Faciodigitogenital Syndrome
 
 ## One-Sentence Summary
 
-Amphetamine is a central nervous system stimulant marketed in the US, and the published literature in the pack describes its use for ADHD and narcolepsy.
-The TxGNN model predicts it may be effective for **Faciodigitogenital Syndrome** (a rare X-linked developmental disorder) with a very high score.
-This prediction has **0 clinical trials** and **0 publications** supporting it, so it is a model output only.
+Amphetamine is a central nervous system stimulant, originally used to treat attention deficit hyperactivity disorder (ADHD), narcolepsy and obesity.
+The TxGNN model predicts it may be effective for **Faciodigitogenital Syndrome**, but there are currently **0 clinical trials** and **0 publications** supporting this prediction.
+The prediction is a computational signal only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Attention deficit hyperactivity disorder, narcolepsy and obesity (from the knowledge graph; no approved indication text is available in the US license records) |
 | Predicted New Indication | Faciodigitogenital syndrome |
 | TxGNN Prediction Score | 99.97% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| US Market Status | Cancelled only (all licenses cancelled) |
+| Number of NDAs | 10 (2 NDAs and 8 ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is currently not available in the Evidence Pack. Amphetamine acts as a monoamine-releasing stimulant, and its efficacy in attention and arousal disorders is established. The supplied license records do not include approved-indication text.
+Currently, detailed mechanism of action data is not available. Based on known information, amphetamine is a stimulant that promotes the release of dopamine and noradrenaline and blocks their reuptake. Its efficacy in ADHD and narcolepsy is established.
 
-No plausible link connects the two conditions. Faciodigitogenital syndrome is a rare developmental disorder linked to the FGD1 gene, and nothing in the supplied data suggests that dopamine or norepinephrine release would affect it. The score of 99.97% is best treated as a knowledge-graph artifact until independent evidence appears.
+Faciodigitogenital syndrome (Aarskog-Scott syndrome) is a rare X-linked developmental disorder caused by variants in the *FGD1* gene. Amphetamine's monoamine mechanism has no established connection to this underlying pathology. At most, it might have a speculative symptomatic effect on associated attention or behavioural features, and the data compiled for this report do not support even that.
+
+The very high TxGNN score therefore reflects a pattern in the knowledge graph rather than a demonstrated biological link. It should be treated as a hypothesis to be tested, not as evidence of efficacy.
 
 ## Clinical Trial Evidence
 
@@ -60,36 +63,57 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for faciodigitogenital syndrome.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form |
-|---------|------|------|
-| ANDA211861 | Amphetamine Sulfate (Solco Healthcare US, LLC) | Tablet |
-| NDA204326 | Amphetamine Extended-Release (Neos Therapeutics, LP) | Tablet, orally disintegrating |
-| ANDA200166 | Amphetamine Sulfate (Bryant Ranch Prepack) | Tablet |
-| ANDA212901 | Amphetamine Sulfate (Bryant Ranch Prepack) | Tablet |
-| ANDA211139 | Amphetamine Sulfate (Amneal Pharmaceuticals NY LLC) | Tablet |
+All 10 licenses are listed as cancelled, and no approved indication text is recorded for them.
 
-The 20 authorizations include both NDAs and ANDAs. All available forms are oral (tablet, orally disintegrating tablet, extended-release tablet).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA211861 | Amphetamine Sulfate (Solco Healthcare) | Tablet | Not recorded |
+| NDA204326 | Amphetamine Extended-Release (Neos Therapeutics) | Orally disintegrating tablet | Not recorded |
+| ANDA200166 | Amphetamine Sulfate (Bryant Ranch Prepack) | Tablet | Not recorded |
+| ANDA212901 | Amphetamine Sulfate (Bryant Ranch Prepack) | Tablet | Not recorded |
+| NDA210526 | Dyanavel XR (NextWave Pharmaceuticals) | Extended-release tablet | Not recorded |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindications (knowledge graph associations, not label text)**: The knowledge graph links amphetamine to contraindications in the following groups:
+  - Cardiovascular: hypertension.
+  - Neurological and psychiatric: epilepsy, anxiety disorders, bipolar disorder, psychotic disorders (including schizophrenia-spectrum disorders).
+  - Respiratory: chronic obstructive pulmonary disease.
+  - Hepatic and renal: liver disease or failure, hepatic encephalopathy and coma, kidney disease.
+  - Metabolic and blood-related: diabetes mellitus with diabetic ketoacidosis, porphyria, thrombocytopenia, neutropenia and agranulocytosis.
+  - Other: gallbladder disease, open-angle glaucoma.
+- **Drug Interactions**: 90 interactions are recorded. Examples:
+  - **Major**: bupropion, fenfluramine.
+  - **Moderate**: epinephrine, ephedrine, lorcaserin, isometheptene, eliglustat, and several proton pump inhibitors and antacids (such as omeprazole, esomeprazole, aluminum hydroxide and calcium carbonate).
+- **Other concerns**: Case reports describe stimulant-induced trichotillomania with amphetamine products. In postural orthostatic tachycardia syndrome, amphetamine could worsen tachycardia and palpitations.
+
+Please refer to the package insert for the full warnings, because label warnings and contraindications were not available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone. There are no trials or publications, and no mechanistic link to a rare FGD1-related developmental disorder.
+The prediction rests only on a model score, with no clinical trials or literature for this condition. No plausible mechanistic link to the *FGD1*-related pathology has been identified, and all US licenses are cancelled. The safety profile, with many knowledge-graph contraindications and major drug interactions, is demanding.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, which are currently missing and block safety screening
-- Detailed mechanism of action data
-- Any independent biological or clinical evidence connecting monoamine release to FGD1-related pathology
-- Review of the other TxGNN predictions for this drug. "Specific developmental disorder" (rank 3) likely overlaps with ADHD and neurodevelopmental conditions, so it may be a better research question. Trichotillomania and postural orthostatic tachycardia syndrome appear in the literature as stimulant adverse effects, not benefits.
+- Package insert warnings and contraindications from the FDA label, which block safety screening.
+- Mechanism of action data (for example, from DrugBank).
+- Evidence of a mechanistic link between amphetamine and the biology of faciodigitogenital syndrome, or clinical data in this population.
+- A check of whether the cancelled license status reflects actual market withdrawal.
+
+## Other Predicted Indications (for Reference)
+
+| Rank | Predicted Indication | TxGNN Score | Evidence Level | Decision | Note |
+|------|------|------|------|------|------|
+| 2 | Chondromyxoid fibroma | 99.91% | L5 | Hold | No plausible mechanism; likely a false-positive prediction |
+| 3 | Specific developmental disorder | 99.91% | L4 | Hold | Only preclinical, review and hypothesis papers; no trials in this population |
+| 4 | Trichotillomania | 99.47% | L4 | Hold | Case reports show amphetamine may cause the condition, a safety signal rather than an opportunity |
+| 5 | Postural orthostatic tachycardia syndrome | 99.27% | L5 | Hold | No evidence; risk of worsening tachycardia |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

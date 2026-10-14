@@ -29,83 +29,109 @@ Evidence Level: **L4** | Predicted Indications: **6**
 
 </div>
 
-# Zidovudine: From HIV Infection to Simian Immunodeficiency Virus Infection
+# Zidovudine: From HIV Infection / AIDS to Simian Immunodeficiency Virus Infection
 
 ## One-Sentence Summary
 
-Zidovudine is a nucleoside reverse transcriptase inhibitor (NRTI) that has long been used against HIV. The TxGNN model predicts it may be effective for **Simian Immunodeficiency Virus (SIV) Infection**. **No clinical trials** are registered for this indication, and the **20 publications** are almost entirely macaque and in vitro studies. This is a preclinical model, not a human indication.
+Zidovudine is a nucleoside reverse transcriptase inhibitor (NRTI) originally used to treat HIV infection and AIDS.
+The TxGNN model predicts it may be effective for **simian immunodeficiency virus (SIV) infection**, but support comes only from **animal studies (about 20 publications, 0 clinical trials)**, so this is a model prediction with preclinical evidence only.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | HIV infection (general drug knowledge; the US license data contains no indication text) |
+| Original Indication | HIV infectious disease, AIDS (the US licence records contain no indication text) |
 | Predicted New Indication | Simian immunodeficiency virus infection |
 | TxGNN Prediction Score | 99.96% |
 | Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 18 (NDA and ANDA licenses combined) |
+| US Market Status | Cancelled only (all licences cancelled) |
+| Number of NDAs | 13 (3 NDAs and 10 ANDAs) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Zidovudine is a nucleoside reverse transcriptase inhibitor. Its efficacy against HIV-1 is well established, and it is mechanistically plausible against SIV.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, zidovudine is an NRTI. After phosphorylation inside cells it blocks viral DNA synthesis by reverse transcriptase, and its efficacy in HIV infection is well established.
 
-SIV is a lentivirus closely related to HIV and depends on the same reverse transcriptase enzyme. This is why SIV-infected macaques are widely used to test antiretroviral prophylaxis and therapy. The published studies show that zidovudine lowers viral load, prolongs survival and, when started early, can prevent infection or delay disease in newborn macaques.
+SIV is a lentivirus closely related to HIV and uses the same reverse transcriptase target. Macaque studies show zidovudine can reduce viral load, protect newborn animals from rapid onset of AIDS, extend survival, and lower central nervous system virus burden. Post-exposure prophylaxis studies in macaques also used zidovudine in combination with other agents.
 
-SIV infects non-human primates only. The prediction therefore mainly confirms the HIV-1 mechanism in an animal model and is not a stand-alone repurposing opportunity for humans.
+However, SIV infection is an animal-model counterpart of the drug's original antiretroviral use, not a new human disease. Several studies also show zidovudine does not prevent infection itself, and a resistant SIV mutant (Q151M) has been described. The prediction is therefore mechanistically plausible but is not a true human repurposing opportunity.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [1489181](https://pubmed.ncbi.nlm.nih.gov/1489181/) | 1992 | Animal study | Antimicrob Agents Chemother | Oral AZT given to infant rhesus macaques prevented SIV infection in a prophylaxis and therapy model |
-| [7695293](https://pubmed.ncbi.nlm.nih.gov/7695293/) | 1995 | Animal study | Antimicrob Agents Chemother | Immediate oral AZT in SIV-inoculated newborn macaques either prevented infection or reduced viral load, and protected against rapid onset of AIDS |
-| [7797947](https://pubmed.ncbi.nlm.nih.gov/7797947/) | 1995 | Animal study | J Infect Dis | AZT did not prevent infection but significantly prolonged survival and lowered virus burden in cerebrospinal fluid (CSF) |
-| [7690823](https://pubmed.ncbi.nlm.nih.gov/7690823/) | 1993 | Animal study | J Infect Dis | Compared AZT started 1, 8, 24 or 72 hours after SIV inoculation in rhesus monkeys, to define the treatment window |
-| [19240457](https://pubmed.ncbi.nlm.nih.gov/19240457/) | 2009 | Animal study | AIDS | Post-exposure prophylaxis with zidovudine, lamivudine and indinavir was evaluated for preventing vaginal SIV transmission in macaques |
-| [7848683](https://pubmed.ncbi.nlm.nih.gov/7848683/) | 1994 | Animal study | AIDS Res Hum Retroviruses | In AZT-treated cynomolgus macaques, tracked virological and immunological events during acute infection as a model for antilentiviral therapy |
-| [2016686](https://pubmed.ncbi.nlm.nih.gov/2016686/) | 1991 | Animal study | J Acquir Immune Defic Syndr | Neither FLT nor ZDV prevented infection; FLT was about 10 times more potent at delaying antigen appearance |
-| [9021180](https://pubmed.ncbi.nlm.nih.gov/9021180/) | 1997 | Animal study | Antimicrob Agents Chemother | A zidovudine-resistant SIV mutant (Q151M) still caused AIDS in newborn macaques |
-| [7874391](https://pubmed.ncbi.nlm.nih.gov/7874391/) | 1994 | Animal study | Adv Neuroimmunol | Studied chronic AZT effects on CNS function and virus burden in perinatally infected rhesus infants |
-| [8452370](https://pubmed.ncbi.nlm.nih.gov/8452370/) | 1993 | In vitro | Antimicrob Agents Chemother | In SIV-infected macaque macrophages, 10 µM AZT blocked cell fusion with CD4+ cells and was compared with neutralizing antibodies |
+| [19240457](https://pubmed.ncbi.nlm.nih.gov/19240457/) | 2009 | Animal study | AIDS | Post-exposure prophylaxis with zidovudine, lamivudine and indinavir after vaginal SIV exposure in macaques |
+| [7695293](https://pubmed.ncbi.nlm.nih.gov/7695293/) | 1995 | Animal study | Antimicrob Agents Chemother | Immediate zidovudine protected SIV-infected newborn macaques from rapid onset of AIDS |
+| [7797947](https://pubmed.ncbi.nlm.nih.gov/7797947/) | 1995 | Animal study | J Infect Dis | Zidovudine prolonged survival and lowered CNS virus load in perinatally infected rhesus macaques |
+| [7690823](https://pubmed.ncbi.nlm.nih.gov/7690823/) | 1993 | Animal study | J Infect Dis | Effect of starting zidovudine 1 to 72 hours after SIV inoculation in rhesus monkeys |
+| [7848683](https://pubmed.ncbi.nlm.nih.gov/7848683/) | 1994 | Animal study | AIDS Res Hum Retroviruses | AZT-treated macaques as a model for antilentiviral therapy during acute infection |
+| [2016686](https://pubmed.ncbi.nlm.nih.gov/2016686/) | 1991 | Animal study | J Acquir Immune Defic Syndr | Neither FLT nor AZT prevented SIV infection in cynomolgus monkeys; FLT was about 10 times more potent in delaying antigen appearance |
+| [9021180](https://pubmed.ncbi.nlm.nih.gov/9021180/) | 1997 | In vitro/virology | Antimicrob Agents Chemother | Zidovudine-resistant SIV mutant (Q151M) caused AIDS in newborn macaques |
+| [11020686](https://pubmed.ncbi.nlm.nih.gov/11020686/) | 2000 | Review | Ann Emerg Med | Nonoccupational HIV post-exposure prophylaxis; animal data suggest antiretrovirals reduce SIV transmission |
+| [22713337](https://pubmed.ncbi.nlm.nih.gov/22713337/) | 2012 | In vitro/virology | Antimicrob Agents Chemother | Response of SIV to a novel NRTI compared with existing agents |
+| [16973590](https://pubmed.ncbi.nlm.nih.gov/16973590/) | 2006 | Animal study | J Virol | Rapid viral decay in SIV-infected macaques on quadruple antiretroviral therapy |
+
+---
 
 ## US Market Information
 
+All 13 US licences are cancelled; none are currently valid. The data compiled for this report contain no approved-indication text.
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA077268 | Zidovudine | Syrup | Not listed in the source data |
-| ANDA090092 | Zidovudine | Tablet | Not listed in the source data |
-| NDA019655 | RETROVIR | Capsule | Not listed in the source data |
-| ANDA077267 | Zidovudine | Tablet, film coated | Not listed in the source data |
-| ANDA078128 | Zidovudine | Capsule | Not listed in the source data |
+| NDA019655 | RETROVIR | Capsule | Not available |
+| NDA019951 | RETROVIR | Injection, solution | Not available |
+| NDA019910 | RETROVIR | Solution | Not available |
+| ANDA077267 | Zidovudine | Tablet, film coated | Not available |
+| ANDA077558 | Lamivudine and Zidovudine | Tablet, film coated | Not available |
 
-Other dosage forms on the US market include injection solution and oral solution.
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug-interaction records were found in the data.
+- **Contraindication-related conditions (from a knowledge graph, not label text)**: liver failure and liver disease, kidney disease, pancreatitis, gallbladder disease, myopathy and myositis, neutropenia, agranulocytosis, anemia, lactic acidosis, fatty liver disease, hypertriglyceridemia, and obesity-related disorders.
+- **Drug Interactions**: about 100 interactions were recorded. Those listed include moderate interactions with amphotericin B products, corticosteroids (betamethasone, budesonide, dexamethasone, hydrocortisone, prednisolone, prednisone, triamcinolone), naltrexone, rosuvastatin, simvastatin and orlistat, and minor interactions with cimetidine and clarithromycin.
+- **Animal data**: zidovudine toxicity in cats is documented, and hematologic toxicity (anemia, neutropenia) is the best-known concern in humans.
+
+Please refer to the package insert for official warnings and contraindications.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-SIV infection exists only in non-human primates, so the evidence is entirely preclinical (L4). It supports the HIV-1 mechanism but cannot lead to a human indication.
-
-Two other predictions in the same set have far stronger human evidence and are established uses, not novel repurposing:
-- **Congenital HIV** (Phase 3 perinatal-transmission trials; L1, Proceed with Guardrails)
-- **AIDS-related complex** (placebo-controlled trials; L1, Proceed with Guardrails)
+The prediction score is high, but support is limited to macaque and in vitro studies with no human trials, and the indication is an animal-model version of the drug's original HIV use. All US licences are also cancelled.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (blocking gap for safety screening)
-- Mechanism of action data from DrugBank
-- Original indication text for the US licenses
-- If pursuing the human indications: confirmation against current perinatal and ART guidelines, a neonatal hematologic toxicity monitoring plan, and review of pregnancy-exposure safety data
+- Clarification of whether SIV infection has any translational purpose beyond serving as a research model
+- Detailed mechanism of action data
+- Package insert warnings and contraindications for formal safety screening
+
+---
+
+### Other Predicted Indications Reviewed
+
+| Predicted Indication | Evidence Level | Decision | Comment |
+|------|------|------|------|
+| Feline acquired immunodeficiency syndrome | L4 | Hold | Veterinary and animal-model evidence only; not a human repurposing candidate |
+| Neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter | L5 | Hold | No trials, literature or plausible mechanism; likely a knowledge-graph artifact |
+| Obsolete familial combined hyperlipidemia | L5 | Hold | Obsolete term with no evidence; NRTIs tend to cause dyslipidemia, not treat it |
+| Congenital HIV | L1 | Proceed with Guardrails | Phase 3 trials (NCT00102960, NCT00001104) and public health guidance exist, but this is essentially the original HIV indication; monitor for anemia and neutropenia |
+| AIDS related complex | L1 | Proceed with Guardrails | Phase 3 trial NCT00001011 (n=538) supports use, but ARC is an outdated term and this is the historical original indication; many interactions and hematologic toxicity require guardrails |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,95 +29,77 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Treosulfan: From Pre-Transplant Conditioning to Diabetic Cataract
+# Treosulfan: From Hematopoietic Stem Cell Transplant Conditioning to Diabetic Cataract
 
 ## One-Sentence Summary
 
-Treosulfan is a cytotoxic alkylating agent, generally used as a conditioning treatment before hematopoietic stem cell transplantation. This is background knowledge, as the approved indication text is not in the source data.
-The TxGNN model predicts it may be effective for **diabetic cataract**, but there are currently **0 clinical trials** and **0 publications** supporting this direction.
-
----
+Treosulfan is an alkylating agent used in conditioning regimens before hematopoietic stem cell transplantation.
+The TxGNN model predicts it may be effective for **diabetic cataract**,
+but currently there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Not stated in the available license data (the drug is known as a conditioning agent before hematopoietic stem cell transplantation) |
 | Predicted New Indication | Diabetic cataract |
 | TxGNN Prediction Score | 99.01% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 2 listings (both under NDA214759) |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no currently valid license) |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Treosulfan is generally known as a bifunctional alkylating agent (a busulfan analog). Its cytotoxic action is used to clear the bone marrow before stem cell transplantation.
+Currently, detailed mechanism of action data is not available. Based on known information, treosulfan is a bifunctional alkylating agent. It is a prodrug that converts to epoxide intermediates, which cross-link DNA. It is used in conditioning before hematopoietic stem cell transplantation.
 
-Diabetic cataract is driven by polyol-pathway activity, oxidative stress, and osmotic damage to the lens. No plausible mechanistic link between an alkylating, myelosuppressive agent and these processes has been established. The high score (0.99) is a knowledge-graph output only. It is not backed by any trial or publication in the provided data.
+Diabetic cataract develops mainly through polyol pathway activation, oxidative stress, and aldose reductase-mediated lens opacification. From the data compiled for this report, no plausible mechanistic link can be established between DNA cross-linking by an alkylating agent and these lens pathways.
 
-Safety may point the opposite way. Related alkylating and conditioning regimens, such as busulfan and total body irradiation, are associated with cataract formation as an adverse effect. This is background knowledge not verified by the provided data. Treosulfan's myelosuppressive toxicity is also unfavorable for a chronic, non-life-threatening eye condition.
-
----
+The high score (0.990) most likely reflects network-level associations in the knowledge graph rather than a biological rationale. Without trials or literature to corroborate it, the prediction should be treated as a hypothesis only.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|------|
-| NDA214759 | GRAFAPEX | Injection, powder, lyophilized, for solution | Medexus Pharma, Inc. |
-
-The source data lists this NDA twice with identical details. Approved indication text is not included in the data.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA214759 (cancelled) | GRAFAPEX (Medexus Pharma, Inc.) | Injection, powder, lyophilized, for solution | Not listed in the available data |
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (alkylating agent, busulfan analog) |
-| Myelosuppression Risk | High (expected, given its use as a myeloablative conditioning agent) |
-| Emetogenicity Classification | Low to moderate (general classification; not in the source data) |
-| Monitoring Items | CBC with differential, liver and renal function |
+| Cytotoxicity Classification | Conventional cytotoxic (bifunctional alkylating agent) |
+| Myelosuppression Risk | High (profound myelosuppression is expected with conditioning-level dosing) |
+| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
+| Monitoring Items | CBC (with differential), liver and renal function; secondary malignancy surveillance |
 | Handling Protection | Must follow cytotoxic drug handling regulations |
-
-Please refer to the package insert warnings and precautions for detailed toxicity data.
-
----
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Systemic toxicity concern**: As a cytotoxic alkylating agent, treosulfan carries significant risks such as myelosuppression and secondary malignancy. These make use in a chronic metabolic eye complication hard to justify.
 
----
+Please refer to the package insert for other safety information, including warnings, contraindications, and drug interactions.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone (L5), with no trials, no literature, and no established mechanistic link. The drug's cytotoxic profile, and the cataract risk seen with related alkylating regimens, argue against advancing it for a chronic ocular condition.
+The prediction is supported only by a high model score, with no clinical trials, no literature, and no plausible mechanistic link to diabetic cataract (Evidence Level L5). The drug's cytotoxic profile adds a strong safety concern for this chronic indication, and its only US license is cancelled.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications, which are currently missing and block safety screening
-- Mechanism of action data (e.g., from DrugBank) to assess any link to diabetic cataract pathophysiology
-- Preclinical or literature evidence of an effect on lens pathology in diabetic models
-- A risk-benefit assessment of cataract as a possible adverse effect versus a possible benefit
-- Route compatibility assessment, since the only available form is an injectable for systemic use
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism of action data (MOA)
+- Preclinical or mechanistic evidence connecting alkylating-agent activity to lens or polyol-pathway biology
+- Assessment of route feasibility (for example, whether any ocular delivery route could avoid systemic toxicity)
+- Any supporting clinical or observational studies in diabetic cataract
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -33,72 +33,84 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Desvenlafaxine is a serotonin-norepinephrine reuptake inhibitor (SNRI) and the active metabolite of venlafaxine. It is used as an antidepressant.
-The TxGNN model predicts it may be effective for **obsessive-compulsive disorder (OCD)**, but no trial in the provided data tests desvenlafaxine in OCD. Support comes from **2 off-target clinical trials** and **4 publications**, of which only one, on the parent drug venlafaxine, is a controlled trial in OCD.
+Desvenlafaxine is a serotonin-norepinephrine reuptake inhibitor (SNRI), originally used to treat major depressive disorder and related depressive and anxiety conditions.
+The TxGNN model predicts it may be effective for **obsessive-compulsive disorder (OCD)**,
+but there are currently **0 registered clinical trials** and only **3 publications**, none of which studies desvenlafaxine in OCD, so the evidence is limited to a mechanistic rationale.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in the US license entries; trial descriptions indicate major depressive disorder |
+| Original Indication | Major depressive disorder (also unipolar and endogenous depression, anxiety disorder, per the knowledge graph) |
 | Predicted New Indication | Obsessive-compulsive disorder |
 | TxGNN Prediction Score | 99.91% |
 | Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 4 license entries (all under NDA204150) |
+| US Market Status | Cancelled only (no currently valid license) |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for desvenlafaxine is not available in the Evidence Pack. Desvenlafaxine is known to inhibit serotonin and norepinephrine reuptake. Serotonergic reuptake inhibition is the established pharmacological basis of OCD treatment (SSRIs and clomipramine).
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, desvenlafaxine belongs to the SNRI class. It inhibits the reuptake of serotonin and norepinephrine, and its efficacy in major depressive disorder is established.
 
-Depression and OCD are both treated with serotonergic drugs, which makes the prediction plausible at the class level. The direct support is indirect, however. A double-blind comparison of the parent compound venlafaxine against paroxetine in 150 OCD patients exists, but it had no placebo arm. Class-level reviews of serotonergic antidepressants in OCD add further context.
+Enhancing serotonergic signalling is the best-established pharmacological approach to OCD, through SSRIs and clomipramine. A 2014 review of double-blind studies of serotonergic antidepressants in OCD supports the central role of the serotonin system in this condition. This makes the prediction mechanistically plausible.
 
-The very high score (0.999) is a model output, not clinical confirmation. Its rank among all predictions is 3,094.
+However, no desvenlafaxine-specific OCD data were found. The other two papers retrieved concern postpartum depression and somatic symptom disorder, and mention OCD only in passing. The high score therefore reflects a class-level, graph-based association rather than direct evidence.
+
+---
 
 ## Clinical Trial Evidence
 
-Neither registered trial tests desvenlafaxine in OCD.
+Currently no related clinical trials registered.
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT01527786](https://clinicaltrials.gov/study/NCT01527786) | Phase 3 | Completed | 25 | Pilot of desvenlafaxine in postpartum depression. The drug matches but the disease does not, so it gives no OCD evidence. |
-| [NCT03299166](https://clinicaltrials.gov/study/NCT03299166) | Phase 2/3 | Completed | 426 | Placebo-controlled trial of adjunctive troriluzole in OCD patients with inadequate response to SSRI, clomipramine, venlafaxine, or desvenlafaxine. It shows a feasible OCD trial design but tests a different drug. |
+---
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [14624187](https://pubmed.ncbi.nlm.nih.gov/14624187/) | 2003 | RCT (parent compound) | J Clin Psychopharmacol | First double-blind comparison of an SNRI (venlafaxine) vs paroxetine in 150 OCD patients. There was no placebo arm. |
-| [24766145](https://pubmed.ncbi.nlm.nih.gov/24766145/) | 2014 | Review | Expert Opin Pharmacother | Review of double-blind studies of serotonergic antidepressants in OCD. |
-| [36686097](https://pubmed.ncbi.nlm.nih.gov/36686097/) | 2022 | Review | Cureus | Review of postpartum depression. It notes that OCD and anxiety can develop later in life, and is only indirectly relevant. |
-| [40224942](https://pubmed.ncbi.nlm.nih.gov/40224942/) | 2025 | Clinical study | Psychiatry Clin Psychopharmacol | Risperidone augmentation in antidepressant-resistant somatic symptom disorder. This is off-target for desvenlafaxine in OCD. |
+| [24766145](https://pubmed.ncbi.nlm.nih.gov/24766145/) | 2014 | Review | Expert Opinion on Pharmacotherapy | Reviews double-blind studies of serotonergic antidepressants in OCD, confirming the key role of the serotonin system. Does not address desvenlafaxine specifically. |
+| [36686097](https://pubmed.ncbi.nlm.nih.gov/36686097/) | 2022 | Review | Cureus | Comprehensive review of postpartum depression. Notes that untreated cases can later lead to OCD and anxiety. Not a treatment study of OCD. |
+| [40224942](https://pubmed.ncbi.nlm.nih.gov/40224942/) | 2025 | Other (risperidone augmentation) | Psychiatry and Clinical Psychopharmacology | Risperidone augmentation in antidepressant-resistant somatic symptom disorder. OCD is mentioned only as a condition where risperidone augmentation is effective. |
+
+---
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA204150 | Desvenlafaxine (Alembic Pharmaceuticals Limited) | Tablet, extended release | Not listed in the record |
-| NDA204150 | Desvenlafaxine (Sun Pharmaceutical Industries, Inc.) | Tablet, extended release | Not listed in the record |
-| NDA204150 | Desvenlafaxine (Sun Pharmaceutical Industries, Inc.) | Tablet, extended release | Not listed in the record |
-| NDA204150 | Desvenlafaxine (Alembic Pharmaceuticals Limited) | Tablet, extended release | Not listed in the record |
+| NDA204150 (Alembic Pharmaceuticals Limited, status: cancelled) | Desvenlafaxine | Extended-release tablet (oral) | Not listed in the compiled data |
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No warnings, contraindications, or drug interaction records were retrieved.
+- **Contraindication-related conditions (from the knowledge graph, not label text)**: hypertension, epilepsy, bipolar disorder, liver disease, impaired renal function, angle-closure glaucoma, cardiovascular disease, cerebrovascular disorder, blood coagulation disease, serotonin syndrome, neuroleptic malignant syndrome, and inappropriate ADH secretion, among others.
+- **Drug Interactions**: 100 interactions were identified. Major-level interactions include bupropion, lorcaserin, dexfenfluramine, fenfluramine, diethylpropion, mazindol, dolasetron, and granisetron. Several are serotonergic or sympathomimetic agents, so serotonin syndrome and blood pressure effects deserve attention. Moderate-level interactions include epinephrine, ephedrine, morphine, and acetylsalicylic acid.
+
+Official label warnings were not available. Please refer to the package insert for complete safety information.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-No trial tests desvenlafaxine in OCD. Support consists of one small venlafaxine comparison without placebo, class-level reviews, and a model score. The safety label data has also not been retrieved, which blocks safety screening.
+The OCD prediction rests on a plausible class-level serotonergic mechanism, but there are no clinical trials and no desvenlafaxine-specific studies in OCD. Established OCD pharmacotherapy already exists (SSRIs, clomipramine). The only US license is cancelled.
+
+For reference, **dysthymic disorder** (predicted rank 8, score 99.73%) has much stronger support in the compiled data, at evidence level L3. It has two completed desvenlafaxine trials: a Phase 4 placebo-controlled study (NCT01537068, n=59) and an open-label study (NCT01948895, n=30). It also has a meta-analysis of antidepressants in dysthymia. That indication may be a more productive research question than OCD.
 
 **To proceed, the following is needed:**
-- The current US package insert (warnings, contraindications, approved indications)
-- Detailed mechanism-of-action data from DrugBank
-- Desvenlafaxine-specific OCD data, such as a controlled trial or a review of SNRI evidence in OCD
-- Consideration of other predictions for this drug: dysthymic disorder and melancholia have far stronger evidence (L2), including direct desvenlafaxine trials. The personality disorder entries and other rare-disease entries (ranks 2–7) have no evidence (L5) and share tied scores, which suggests a knowledge-graph artifact.
+- Desvenlafaxine-specific OCD evidence, such as a pilot trial or a systematic review of SNRIs in OCD
+- Detailed mechanism of action data
+- FDA package insert warnings and contraindications to complete the safety screen
+- Clarification of the commercial and regulatory status of desvenlafaxine, given the cancelled license
+- A safety plan addressing the interaction and comorbidity risks listed above
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

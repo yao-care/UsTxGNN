@@ -33,31 +33,31 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 ## One-Sentence Summary
 
-Fentanyl is a potent opioid (mu-opioid receptor agonist) used for pain relief and anesthesia. This is general drug knowledge, because the approved indication text is blank in the provided data.
-The TxGNN model predicts it may be effective for **nephrogenic syndrome of inappropriate antidiuresis (NSIAD)**, with a very high score.
-However, there are **0 clinical trials** and **0 publications** behind this prediction, so it is a model signal only.
+Fentanyl is a potent mu-opioid receptor agonist, and the data compiled for this report do not list a specific approved indication for it.
+The TxGNN model predicts it may be effective for **Nephrogenic Syndrome of Inappropriate Antidiuresis (NSIAD)**,
+but there are currently **0 clinical trials** and **0 publications** supporting this prediction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Pain management and anesthesia (general drug knowledge; not stated in the provided license data) |
+| Original Indication | Not specified in the available data |
 | Predicted New Indication | Nephrogenic syndrome of inappropriate antidiuresis |
 | TxGNN Prediction Score | 99.46% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no active authorizations) |
+| Number of NDAs | 6 (all cancelled; 1 NDA and 5 ANDAs) |
 | Recommended Decision | Hold |
+
+A second prediction, Tourette syndrome (score 99.05%), was also evaluated. It likewise has no supporting trials or literature, and its recommendation is also Hold (see the conclusion).
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the provided record. Fentanyl is a mu-opioid receptor agonist, and it is marketed as an injection and as an extended-release patch.
+Detailed mechanism of action data are not available in the data compiled for this report. Fentanyl is generally known as a mu-opioid receptor agonist, but this report does not rely on any more detailed mechanistic data.
 
-The prediction is hard to support on biological grounds. NSIAD is caused by gain-of-function variants in the vasopressin V2 receptor gene (*AVPR2*). These variants make the kidney reabsorb water without vasopressin. Fentanyl has no known direct action on this receptor. Opioids are generally reported to promote antidiuresis or hyponatremia, so a therapeutic benefit is implausible and a possible worsening of the condition cannot be excluded.
+**The mechanistic link is weak.** Opioids can influence vasopressin (ADH) release and may cause antidiuresis through central mechanisms. NSIAD, however, is caused by gain-of-function variants in the vasopressin V2 receptor (AVPR2) or, in some cases, GNAS-related signaling. In this condition ADH is low or undetectable and the defect lies in the kidney. Modulating central ADH release with an opioid would not be expected to correct a constitutively active receptor. Opioid-induced antidiuresis would be an adverse effect, not a therapeutic benefit.
 
-The high TxGNN score (0.995) should not be read as efficacy. Nothing in the data links fentanyl's known pharmacology to NSIAD.
-
-**Second-ranked prediction:** Tourette syndrome (score 99.05%, also L5, also Hold). Any link would be indirect, through opioid signaling in cortico-striatal-thalamic circuits. No trials or literature were found. Fentanyl carries dependence, respiratory depression and abuse risks, and there is no evidence it is appropriate for a chronic tic disorder. A follow-up would start with other opioid-system modulators, not fentanyl.
+The high TxGNN score (0.995) is a computational prediction only. No trial or publication in the data supports it.
 
 ## Clinical Trial Evidence
 
@@ -71,32 +71,44 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA019101 | Fentanyl Citrate (Hikma Pharmaceuticals USA Inc.) | Injection | Not listed in source data |
-| ANDA077449 | Fentanyl (Ingenus Pharmaceuticals, LLC) | Patch, extended release | Not listed in source data |
-| ANDA077449 | Fentanyl (Aveva Drug Delivery Systems Inc.) | Patch, extended release | Not listed in source data |
-| ANDA210762 | Fentanyl Citrate (Fresenius Kabi USA, LLC) | Injection, solution | Not listed in source data |
+| NDA019101 (Hikma), cancelled | Fentanyl Citrate | Injection | Not listed |
+| ANDA077449 (Ingenus), cancelled | Fentanyl | Extended-release patch | Not listed |
+| ANDA210762 (Fresenius Kabi), cancelled | Fentanyl Citrate | Injection, solution | Not listed |
+| ANDA076258 (Mylan), cancelled | Fentanyl | Patch | Not listed |
+| ANDA077154 (SpecGx), cancelled | Fentanyl Transdermal | Extended-release patch | Not listed |
 
-Five of the 20 authorizations were provided. One of them, NDA019101, is repeated in the source with the same manufacturer, so it appears only once above.
+One further authorization (ANDA212086, Fresenius Kabi, injection solution) is also cancelled. All six authorizations are cancelled.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+**Contraindication signals from the knowledge graph (not label text).** The TxGNN knowledge graph links fentanyl to the following conditions through contraindication edges. These come from the graph, not from package insert text:
+- **Cardiovascular:** hypertension, hypotensive disorder, orthostatic hypotension, postural orthostatic tachycardia syndrome, multiple system atrophy, long QT syndrome (including familial), torsades de pointes
+- **Respiratory:** COPD (including severe early onset), asthma (intrinsic and allergic)
+- **Hepatic, renal and gastrointestinal:** liver failure, liver disease, kidney disease, pyoureter, pancreatitis, gallbladder disease, inflammatory bowel disease
+- **Neurological and psychiatric:** basal ganglia disease, focal hand dystonia, blepharospasm, anxiety disorder, neurotic disorder, dysthymic disorder, substance abuse/dependence
+- **Other:** potassium deficiency disease, benign prostatic hyperplasia
+
+**Drug interactions.** The interaction query returned 100 records, and 20 are shown in the data compiled for this report.
+- **Major:** alvimopan, aprepitant, bupropion, clarithromycin, clotrimazole, dexamethasone, dexfenfluramine, dolasetron, fenfluramine, granisetron, lorcaserin
+- **Moderate:** atropine, cimetidine, clidinium, dicyclomine, dronabinol, eluxadoline, glycerol phenylbutyrate, glycopyrronium, hyoscyamine
+
+Please refer to the package insert for formal warnings and contraindications. These were not available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The only support is a model score, with no trials or literature. The known pharmacology of opioids (antidiuresis, hyponatremia) argues against benefit in NSIAD, and fentanyl's abuse and respiratory-depression risks make it a poor candidate for repurposing.
+The prediction rests on a model score alone (Evidence Level L5). No clinical trials or literature support it, and the proposed mechanism is not plausible. NSIAD is a receptor-level defect in the kidney, and opioid-related antidiuresis would be an adverse effect. Fentanyl also carries high risks of respiratory depression, dependence and abuse, and all six US authorizations are cancelled.
+
+The second prediction, Tourette syndrome, is also held. The link there is speculative. Small studies have explored opioid antagonists or partial agonists, not full mu agonists like fentanyl, and no supporting trials or literature were provided.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, which are needed before any safety screening
-- Mechanism of action data (for example, from DrugBank)
-- Evidence that opioid receptor activity affects the V2 receptor or *AVPR2*-driven water reabsorption
-- Preclinical or mechanistic studies supporting any of the predicted indications
-- For Tourette syndrome, a literature review of other opioid-system modulators before considering fentanyl
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism of action data (for example, from DrugBank)
+- Any preclinical or clinical evidence linking fentanyl to NSIAD, such as AVPR2 or GNAS signaling studies
+- A clear original indication from the approval records
+- A risk-benefit assessment given the abuse liability and the cancelled market status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

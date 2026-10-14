@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Golimumab
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 758
-evidence_level: L5
+evidence_level: L4
 indication_count: 5
 ---
 
 # Golimumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **5** 
+Evidence Level: **L4** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,13 +29,12 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-# Golimumab: From Rheumatoid Arthritis to Rheumatoid Vasculitis
+# Golimumab: From Rheumatoid Arthritis and Other Inflammatory Arthritis to Rheumatoid Vasculitis
 
 ## One-Sentence Summary
 
-Golimumab is an anti-TNF-alpha monoclonal antibody marketed in the US for inflammatory arthritis (rheumatoid arthritis, psoriatic arthritis and ankylosing spondylitis).
-The TxGNN model predicts it may be useful for **rheumatoid vasculitis**, with a very high score.
-However, the **3 registered trials** and **6 publications** found only give RA-level context or a safety signal. **None directly tests golimumab in rheumatoid vasculitis.**
+Golimumab is an anti-TNF-alpha monoclonal antibody originally used for inflammatory rheumatic and bowel diseases, including rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis and ulcerative colitis.
+The TxGNN model predicts it may be effective for **rheumatoid vasculitis** with a very high score, but only **1 registered clinical trial (not relevant to this indication)** and **6 indirect publications (case reports and reviews)** exist, and none tests golimumab in this disease.
 
 ---
 
@@ -43,26 +42,23 @@ However, the **3 registered trials** and **6 publications** found only give RA-l
 
 | Item | Content |
 |------|------|
-| Original Indication | Rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis (from the literature; the US license records contain no indication text) |
+| Original Indication | Rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis, ulcerative colitis, inflammatory bowel disease (from the knowledge graph; the US license records contain no indication text) |
 | Predicted New Indication | Rheumatoid vasculitis |
 | TxGNN Prediction Score | 99.73% |
-| Evidence Level | L4 (mechanistic rationale only; no direct studies) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 3 records (2 unique BLAs: BLA125289, BLA125433) |
+| Evidence Level | L4 |
+| US Market Status | Cancelled only (no currently valid license) |
+| Number of NDAs | 2 (both listed as BLAs, both cancelled) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the record. Based on known information, golimumab is a fully human antibody that neutralizes TNF-alpha. TNF-alpha drives synovial inflammation in rheumatoid arthritis and may also contribute to its extra-articular vascular inflammation. Golimumab's efficacy in RA is established.
+Detailed mechanism of action data is not available in the compiled data. Golimumab is a fully human monoclonal antibody that neutralizes TNF-alpha. TNF-alpha is a central cytokine in rheumatoid arthritis, and it is also implicated in vasculitic inflammation.
 
-Rheumatoid vasculitis is a severe extra-articular complication of RA, mostly in seropositive patients. Because the two conditions share inflammatory pathways, the model's prediction is plausible in principle. The literature notes that the incidence of rheumatoid vasculitis has declined since anti-TNF biologics were introduced.
+Rheumatoid vasculitis is a severe extra-articular complication of rheumatoid arthritis, mostly seen in seropositive patients. Its incidence has fallen since biologic DMARDs, including anti-TNF agents, were introduced. This gives a biological rationale for the prediction.
 
-There are important caveats:
-- No cited source tests golimumab in rheumatoid vasculitis.
-- The very high score (0.997) probably reflects proximity to RA in the knowledge graph rather than direct evidence.
-- Case reports describe **vasculitis arising during anti-TNF therapy** (for example, Takayasu's arteritis). This suggests a paradoxical risk that must be weighed against any benefit.
+The supporting evidence is indirect, though. No trial or paper provided here tests golimumab in rheumatoid vasculitis. Reports of Takayasu arteritis arising during anti-TNF therapy also raise a possible paradoxical-reaction concern. The high TxGNN score is a model prediction and is not backed by direct clinical data.
 
 ---
 
@@ -70,11 +66,7 @@ There are important caveats:
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT07138898](https://clinicaltrials.gov/study/NCT07138898) | Phase 2 | Not yet recruiting | 80 | Perioperative immunosuppressant management in rheumatology patients undergoing shoulder arthroplasty; no vasculitis efficacy endpoint |
-| [NCT05696106](https://clinicaltrials.gov/study/NCT05696106) | N/A | Unknown | 750,000 | Observational study of new immune-mediated inflammatory diseases in patients on biologics; no efficacy data for rheumatoid vasculitis |
-| [NCT01579006](https://clinicaltrials.gov/study/NCT01579006) | N/A | Completed | 184 | Non-interventional tocilizumab study in RA; RA context only, no vasculitis endpoint |
-
-All three trials were graded C for relevance. None studies golimumab in rheumatoid vasculitis.
+| [NCT07138898](https://clinicaltrials.gov/study/NCT07138898) | Phase 2 | Recruiting | 80 | Compares stopping immunosuppressants for a longer versus shorter period before shoulder replacement in rheumatology patients. It does not evaluate golimumab in rheumatoid vasculitis and is not relevant to this indication. |
 
 ---
 
@@ -82,12 +74,12 @@ All three trials were graded C for relevance. None studies golimumab in rheumato
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [31491879](https://pubmed.ncbi.nlm.nih.gov/31491879/) | 2019 | Network meta-analysis (36 RCTs) | Int J Mol Sci | Original and biosimilar TNF inhibitors, including golimumab, similarly reduce joint destruction in RA; no vasculitis data |
-| [23557513](https://pubmed.ncbi.nlm.nih.gov/23557513/) | 2013 | Review | BMC Med | Update on biologic therapy for autoimmune diseases, including its drawbacks and adverse events |
-| [27591827](https://pubmed.ncbi.nlm.nih.gov/27591827/) | 2017 | Review | Semin Arthritis Rheum | Frequency, causes and treatment of end-stage renal disease in RA |
-| [29075910](https://pubmed.ncbi.nlm.nih.gov/29075910/) | 2018 | Case report | Rheumatol Int | Pyoderma gangrenosum and pyogenic arthritis presenting as severe sepsis in an RA patient on golimumab; mentions rheumatoid vasculitis as a known RA complication |
-| [22999907](https://pubmed.ncbi.nlm.nih.gov/22999907/) | 2013 | Case report | Joint Bone Spine | Two cases of Takayasu's arteritis arising under anti-TNF therapy (paradoxical vasculitis safety signal) |
-| [23252659](https://pubmed.ncbi.nlm.nih.gov/23252659/) | 2013 | Case report | Ocul Immunol Inflamm | Behçet disease-associated uveitis successfully treated with golimumab; shows activity in another inflammatory condition, not rheumatoid vasculitis |
+| [31491879](https://pubmed.ncbi.nlm.nih.gov/31491879/) | 2019 | Network meta-analysis (36 RCTs) | Int J Mol Sci | Compares TNF inhibitors, including golimumab, for reducing joint destruction in rheumatoid arthritis. It does not address vasculitis. |
+| [23557513](https://pubmed.ncbi.nlm.nih.gov/23557513/) | 2013 | Review | BMC Med | Overview of biologic therapies for autoimmune diseases, covering benefits and drawbacks such as cost and adverse events. |
+| [27591827](https://pubmed.ncbi.nlm.nih.gov/27591827/) | 2017 | Review | Semin Arthritis Rheum | Frequency, causes and treatment of end-stage renal disease in rheumatoid arthritis. Only background relevance. |
+| [29075910](https://pubmed.ncbi.nlm.nih.gov/29075910/) | 2018 | Case report | Rheumatol Int | Pyoderma gangrenosum and pyogenic arthritis presenting as severe sepsis in a rheumatoid arthritis patient on golimumab. Notes that rheumatoid vasculitis has become less frequent in the biologic era. |
+| [23252659](https://pubmed.ncbi.nlm.nih.gov/23252659/) | 2013 | Case report | Ocul Immunol Inflamm | Behçet disease-associated uveitis treated successfully with golimumab. An example of off-label use in another inflammatory condition. |
+| [22999907](https://pubmed.ncbi.nlm.nih.gov/22999907/) | 2013 | Case report | Joint Bone Spine | Two cases of Takayasu's arteritis arising during anti-TNF therapy. This is a paradoxical-reaction signal relevant to vasculitis. |
 
 ---
 
@@ -95,19 +87,23 @@ All three trials were graded C for relevance. None studies golimumab in rheumato
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA 125289 | Simponi (Janssen Biotech, Inc.) | Injection, solution | Not listed in the record |
-| BLA 125433 | SIMPONI ARIA (Janssen Biotech, Inc.) | Solution | Not listed in the record |
-
-BLA125289 appears twice in the source data, so only two unique authorizations are shown.
+| BLA125289 | Simponi (Janssen Biotech, Inc.) | Injection, solution | Not stated in the data; status cancelled |
+| BLA125433 | Simponi Aria (Janssen Biotech, Inc.) | Solution | Not stated in the data; status cancelled |
 
 ---
 
 ## Safety Considerations
 
-- **Drug Interactions**: No interaction records were found.
-- **Vasculitis signal**: Published case reports describe vasculitis (Takayasu's arteritis) arising during anti-TNF therapy. Any use in a vasculitic disease would need close monitoring.
+- **Drug Interactions**: 100 interactions were recorded. The first 20 returned are summarized below.
+  - **Major**:
+    - Corticosteroids: hydrocortisone, prednisone, prednisolone, dexamethasone, betamethasone, budesonide, triamcinolone (including ophthalmic).
+    - Deferiprone.
+    - Radiopharmaceuticals and radioimmunotherapies: iobenguane (I-131), ibritumomab tiuxetan, tositumomab, tositumomab (I-131).
+  - **Moderate**: metronidazole, tinidazole, rosuvastatin, simvastatin.
+  - **Minor**: zinc sulfate, zinc acetate, zinc gluconate.
+- **Paradoxical reactions**: Case reports describe vasculitis (Takayasu's arteritis) arising during anti-TNF therapy. This needs attention in any vasculitis setting.
 
-Please refer to the package insert for other safety information (warnings and contraindications).
+Please refer to the package insert for warnings and contraindications.
 
 ---
 
@@ -116,13 +112,14 @@ Please refer to the package insert for other safety information (warnings and co
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on mechanism and knowledge-graph proximity to RA. There is no trial or study of golimumab in rheumatoid vasculitis, and case reports raise a paradoxical vasculitis concern.
+The biological rationale (TNF-alpha blockade) is plausible, but there is no direct clinical evidence for golimumab in rheumatoid vasculitis. The only registered trial is unrelated, and the literature consists of reviews and case reports. Anti-TNF-associated vasculitis has also been reported. The market status is "Cancelled only".
 
 **To proceed, the following is needed:**
-- Direct clinical evidence in rheumatoid vasculitis (case series, cohorts or trials)
-- Package insert warnings and contraindications
-- Detailed mechanism of action data (for example, from DrugBank)
-- Note: The same pack's rank 3 (inflammatory spondylopathy) and rank 5 (polyarticular juvenile rheumatoid arthritis) have Phase 3 support. Both are likely on-label or near-label uses rather than true repurposing, so verify them against the US label.
+- Direct clinical data, such as case series, observational studies or trials of golimumab (or anti-TNF agents) in rheumatoid vasculitis
+- Mechanism of action data and a clearer account of the link to rheumatoid arthritis pathology
+- Package insert warnings and contraindications, to allow a safety screen
+- A safety assessment of paradoxical vasculitis under anti-TNF therapy
+- Confirmation of current US regulatory and product availability, given the cancelled licenses
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,33 +29,32 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Riluzole: From Amyotrophic Lateral Sclerosis (ALS) to Bilateral Parasagittal Parieto-Occipital Polymicrogyria
+# Riluzole: From Amyotrophic Lateral Sclerosis to Bilateral Parasagittal Parieto-Occipital Polymicrogyria
 
 ## One-Sentence Summary
 
-Riluzole is a marketed oral drug. The supplied literature identifies it as an established ALS therapy, although the US license records contain no indication text.
-The TxGNN model predicts it may be effective for **bilateral parasagittal parieto-occipital polymicrogyria**, a rare cortical malformation.
-This prediction has **0 clinical trials** and **0 publications** behind it, so it is a graph-based signal only.
+Riluzole is a drug originally used to treat amyotrophic lateral sclerosis (ALS).
+The TxGNN model predicts it may be effective for **bilateral parasagittal parieto-occipital polymicrogyria**, but there are currently **0 clinical trials** and **0 publications** supporting this specific prediction. It is a model-only prediction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the supplied US license data; the literature describes riluzole as an ALS treatment |
+| Original Indication | Amyotrophic lateral sclerosis |
 | Predicted New Indication | Bilateral parasagittal parieto-occipital polymicrogyria |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 8 |
+| US Market Status | Cancelled only (all listed authorizations are cancelled) |
+| Number of NDAs | 6 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Riluzole is generally understood to reduce glutamate release and excitotoxicity and to inhibit voltage-gated sodium channels. The supplied ALS literature supports glutamate excitotoxicity as a disease mechanism (e.g., PMID 9178165).
+Detailed mechanism-of-action data is not available in the data compiled for this report. From general knowledge, riluzole is thought to act by reducing glutamate release and modulating persistent sodium currents. This is the basis for its modest survival benefit in ALS.
 
-For this prediction, no clear mechanistic link was identified. Polymicrogyria is a developmental cortical malformation, and glutamate modulation and sodium-channel effects have no established relevance to it. The high TxGNN score reflects graph proximity in the knowledge graph, not biological or clinical support.
+Polymicrogyria is a cortical malformation, which is often associated with epilepsy and neurodevelopmental problems. A glutamate-modulating drug could plausibly relate to such conditions, but this link is speculative. No trial or publication in the data directly supports it. The high TxGNN score (99.99%) reflects a knowledge-graph association only and should not be read as clinical evidence.
 
-By contrast, several lower-ranked predictions are motor neuron disorders (lower motor neuron syndrome, monomelic amyotrophy, Mills syndrome, ALS subtypes). These are more plausible by analogy to ALS, but none has trials or disease-specific literature in the supplied data.
+Other top-ranked predictions are closer to riluzole's original use, such as lower motor neuron syndrome with late-adult onset, monomelic amyotrophy, Mills syndrome, and genetic ALS subtypes. They are more biologically plausible by analogy to ALS, but they also have no direct trials or literature in the data. Several others, such as axial spondylometaphyseal dysplasia and trichomegaly-retina pigmentary degeneration-dwarfism syndrome, show no identifiable mechanistic link.
 
 ## Clinical Trial Evidence
 
@@ -63,38 +62,56 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for the top-ranked prediction.
+
+For reference, the eighth-ranked prediction, "amyotrophic lateral sclerosis, susceptibility to", has literature. It overlaps with riluzole's original indication, so it is not a true repurposing case. Selected records:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [42161327](https://pubmed.ncbi.nlm.nih.gov/42161327/) | 2026 | Cohort/Association study | Brain | CYP2D6 variants studied in relation to ALS risk and survival. Notes that riluzole's survival benefit is modest and variable between patients |
+| [9178165](https://pubmed.ncbi.nlm.nih.gov/9178165/) | 1997 | Review | J Neurol | Glutamate excitotoxicity hypothesis in ALS, the mechanistic basis for riluzole |
+| [21128691](https://pubmed.ncbi.nlm.nih.gov/21128691/) | 2011 | Review | CNS Drugs | ALS pathophysiology and management. Riluzole is the only medication shown to modestly prolong survival |
+| [16723044](https://pubmed.ncbi.nlm.nih.gov/16723044/) | 2006 | Review | Expert Rev Mol Med | Proposed ALS mechanisms (oxidative stress, excitotoxicity, mitochondrial dysfunction) and routes to treatment |
+| [8061281](https://pubmed.ncbi.nlm.nih.gov/8061281/) | 1994 | Preclinical | Neuroreport | Neuroprotective effects of riluzole against ALS cerebrospinal fluid toxicity in cultured neurons |
+| [32040174](https://pubmed.ncbi.nlm.nih.gov/32040174/) | 2020 | Modelling study | Toxicol Sci | DILIsym modelling of liver effects of a sublingual riluzole formulation vs 50 mg oral tablets. About 50% of ALS patients on oral tablets have ALT above the upper limit of normal |
+
+These records are indirect evidence. They do not show efficacy for the predicted new indication.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA204048 | Riluzole (Ascend Laboratories) | Tablet | Not listed |
-| ANDA091417 | Riluzole (Sun Pharmaceutical Industries) | Tablet, film coated | Not listed |
-| Not available | Teglutik (EDW Pharma) | Liquid | Not listed |
-| ANDA091394 | Riluzole (Glenmark Pharmaceuticals) | Tablet, film coated | Not listed |
-| ANDA206045 | Riluzole (AvKARE) | Tablet, film coated | Not listed |
+All six authorizations are cancelled. No approved-indication text is available in the data.
 
-Eight authorizations are recorded in total; five are shown. Routes are oral (tablet, film-coated tablet) and a liquid formulation.
+| Authorization Number | Product Name | Dosage Form | Status |
+|---------|------|------|-----------|
+| ANDA204048 | Riluzole (Ascend Laboratories) | Tablet | Cancelled |
+| ANDA091417 | Riluzole (Sun Pharmaceutical) | Tablet, film coated | Cancelled |
+| ANDA091394 | Riluzole (Glenmark) | Tablet, film coated | Cancelled |
+| ANDA206045 | Riluzole (AvKARE) | Tablet, film coated | Cancelled |
+| NDA209080 | TIGLUTIK (EDW Pharma) | Liquid | Cancelled |
+
+A sixth entry, Teglutik (EDW Pharma, liquid), is also cancelled and has no valid authorization number.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindication-related conditions (from the knowledge graph, not label text):** neutropenia, agranulocytosis, substance abuse/dependence, hyperbilirubinemia, hereditary hyperbilirubinemia, Gilbert syndrome, interstitial lung disease, and drug-induced liver injury.
+- **Liver safety:** A modelling study reports that about 50% of ALS patients on oral riluzole have ALT above the upper limit of normal, 8% above 3× ULN, and 2% above 5× ULN.
+- **Drug Interactions:** 44 interactions were identified. Examples at Moderate level include obeticholic acid, naltrexone, deferasirox, osilodrostat, anagrelide, asparaginase, brentuximab vedotin, clofarabine, methotrexate, and epirubicin. Minor-level examples include omeprazole, caffeine, theophylline, and aminophylline.
+
+Please refer to the package insert for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction has no clinical trials or literature and no plausible mechanistic link to riluzole's pharmacology, so it stays at Evidence Level L5. The supplied data do not justify moving it forward.
+The prediction for bilateral parasagittal parieto-occipital polymicrogyria is supported only by a model score. There are no trials or literature, and the mechanistic link is speculative. All US authorizations are also cancelled. The more plausible candidates are the ALS-related motor neuron conditions, which could be framed as research questions.
 
 **To proceed, the following is needed:**
-- Any disease-specific mechanistic, preclinical, or clinical evidence for polymicrogyria. Absent that, this candidate should be deprioritized.
-- The FDA package insert (warnings, contraindications, approved indication), which is currently missing and blocks safety screening.
-- Mechanism of action data from DrugBank.
-- Route and formulation compatibility assessment, which is still pending.
-- A closer look at the ALS-related predictions instead. The ALS entry (rank 8) is not a true repurposing case, since riluzole is a known ALS therapy. It is graded L4 only because the supplied data contain reviews and no ALS approval or pivotal RCTs, and adding those would likely raise it to L1.
-- For the ALS type 22 entry (rank 10), rerun the literature search with the corrected disease name ("amyotrophic"), because the source spelling ("amyotrohpic") may have blocked matching.
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism-of-action data
+- Preclinical or case-level evidence of riluzole's effect in cortical malformation or epilepsy models
+- Review of the higher-plausibility ALS-spectrum candidates (lower motor neuron syndrome, monomelic amyotrophy, Mills syndrome) as separate research questions
+- Clarification of current US availability, since all listed authorizations are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

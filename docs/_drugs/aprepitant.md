@@ -29,88 +29,80 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Aprepitant: From Chemotherapy-Induced Nausea and Vomiting to Nephrogenic Syndrome of Inappropriate Antidiuresis
+# Aprepitant: From Chemotherapy-Related Nausea and Vomiting to Nephrogenic Syndrome of Inappropriate Antidiuresis
 
 ## One-Sentence Summary
 
-Aprepitant is an NK1-receptor antagonist antiemetic. The label indication text was not supplied in the Evidence Pack, so this comes from general drug knowledge, and it is marketed in oral and injectable forms (including fosaprepitant and CINVANTI).
-The TxGNN model predicts it may be effective for **nephrogenic syndrome of inappropriate antidiuresis (NSIAD)**, with a very high score of 99.97%.
-However, there are currently **0 clinical trials** and **0 publications** supporting this direction, so it is a model-only prediction.
-
----
+Aprepitant is a substance P/NK1 receptor antagonist. The data compiled for this report do not include its approved indication text, but its marketed forms (oral capsules, fosaprepitant injection and emulsion products) are antiemetic products.
+The TxGNN model predicts it may be effective for **nephrogenic syndrome of inappropriate antidiuresis (NSIAD)**, but there are currently **0 clinical trials** and **0 publications** supporting this direction.
+This is a model prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Prevention of chemotherapy-induced nausea and vomiting (general knowledge; not listed in the supplied licence data) |
+| Original Indication | Not available in the compiled data (US license records contain no indication text) |
 | Predicted New Indication | Nephrogenic syndrome of inappropriate antidiuresis |
-| TxGNN Prediction Score | 99.97% (rank 1,274 in the model's overall ranking) |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 licences (NDA and ANDA combined) |
+| TxGNN Prediction Score | 99.97% |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (all 14 listed licenses are marked cancelled) |
+| Number of NDAs | 14 (listed authorizations, including NDAs and ANDAs) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism-of-action data is not available in the Evidence Pack. Aprepitant is generally known as a substance P/neurokinin-1 (NK1) receptor antagonist. Its efficacy in nausea and vomiting is well established, but that does not by itself explain a link to a renal water-handling disorder.
+Currently, detailed mechanism of action data is not available in the compiled data. Based on general pharmacology, aprepitant is a substance P/NK1 receptor antagonist.
 
-NSIAD is caused by activating mutations in the vasopressin V2 receptor gene (*AVPR2*). This leads to inappropriate water retention and hyponatraemia despite low vasopressin levels. No pathway from NK1 antagonism to this disease is evident in the supplied data.
+NSIAD is caused by gain-of-function variants of the vasopressin V2 receptor, which lead to water retention and low blood sodium. No established link connects NK1 receptor antagonism to this mechanism. The very high TxGNN score (99.97%, rank 1274) most likely reflects proximity in the knowledge graph rather than demonstrated biology.
 
-The high score most likely reflects proximity in the knowledge graph rather than a drug-specific mechanism. **No mechanistic link is established at this stage.** The prediction should be treated as a hypothesis-generating signal only.
+This prediction should therefore be treated as a hypothesis only. The mechanistic rationale is weak, and there is no clinical or literature support in the compiled data.
 
----
+Other top-ranked predictions have no better support. They include hypertrichosis, pulmonary hypertension, leprosy, Ambras-type hypertrichosis, a malformation syndrome with a dental/periodontal component, kyphoscoliotic heart disease, a Dandy-Walker malformation syndrome, subarachnoid hemorrhage and isolated genetic hair shaft abnormality. Only pulmonary hypertension and subarachnoid hemorrhage have weak biological plausibility, through substance P signaling and neurogenic inflammation. None has direct clinical evidence.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for the lead prediction (NSIAD).
 
----
+For the third-ranked prediction, pulmonary hypertension, one publication was automatically matched (PMID [28261651](https://pubmed.ncbi.nlm.nih.gov/28261651/), 2016, *Oncology and Therapy*). It is a Phase I pazopanib plus cisplatin dose-escalation trial in advanced solid tumours. It does not involve aprepitant or pulmonary hypertension and is considered an irrelevant match.
 
 ## US Market Information
 
-Five of the 20 authorisations are shown. Approved indication text was not provided for any of them.
+The compiled data list 14 US authorizations, all with cancelled status and no indication text. The main ones are shown below.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA214616 | Fosaprepitant | Lyophilized powder for injection | NorthStar Rx LLC |
-| ANDA214616 | Fosaprepitant | Lyophilized powder for injection | Camber Pharmaceuticals, Inc. |
-| ANDA209965 | Fosaprepitant | Lyophilized powder for injection | Dr. Reddy's Laboratories Inc. |
-| ANDA207777 | Aprepitant | Capsule | Glenmark Pharmaceuticals Inc., USA |
-| NDA209296 | CINVANTI | Injectable emulsion | Heron Therapeutics, Inc. |
+| NDA021549 | EMEND | Capsule | Not available |
+| NDA207865 | EMEND | Powder, for suspension | Not available |
+| NDA209296 | CINVANTI | Injection, emulsion | Not available |
+| NDA216457 | APONVIE | Emulsion | Not available |
+| ANDA207777 | Aprepitant (Glenmark) | Capsule | Not available |
 
-Other dosage forms on the US market include powder for suspension and emulsion.
-
----
+The remaining authorizations are generic aprepitant capsules and generic fosaprepitant lyophilized injections.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Disease-level contraindication signal (knowledge graph)**: liver failure. This comes from the knowledge graph, not from label text.
+- **Drug Interactions**: 100 interactions were found. Examples of **Major** interactions include fentanyl, alfentanil and acalabrutinib. **Moderate** examples include paclitaxel, abemaciclib, nifedipine, ibuprofen, hydrocortisone, levonorgestrel, fluvoxamine, fosphenytoin, gefitinib, rabeprazole, lidocaine and albendazole. Dolutegravir is a **Minor** interaction.
 
----
+Package insert warnings and contraindications were not available in the compiled data. Please refer to the package insert for complete safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trials, no literature, and no documented mechanism, and the disease biology (activating *AVPR2* mutations) does not point to an NK1-antagonist pathway. Model score alone is not enough to justify further investment.
+The prediction is supported only by a model score. There are no trials or relevant literature, and no plausible mechanistic link between NK1 antagonism and the V2 receptor gain-of-function that causes NSIAD. The compiled US regulatory records also show only cancelled licenses.
 
 **To proceed, the following is needed:**
-- Mechanism-of-action data for aprepitant, plus preclinical evidence, if any, linking NK1 signalling to vasopressin V2 receptor activity or renal water handling
-- The US package insert (warnings, contraindications, drug interactions), since safety data are currently missing
-- A systematic literature and trial search using drug-specific terms (aprepitant or NK1 antagonist with NSIAD or hyponatraemia), because the current search returned nothing
-- Route and dosing feasibility assessment, since route compatibility is still pending
-
-For reference, two other candidates in the same pack are flagged as "Research Question" (pulmonary hypertension and subarachnoid haemorrhage). Both have a plausible NK1-related biological hypothesis but no supporting clinical evidence, and preclinical support would need to be verified first.
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank, to enable mechanistic-link analysis
+- Original approved indication text and current US marketing status confirmation
+- Targeted literature and trial searches for aprepitant or NK1 antagonists in NSIAD or hyponatraemia, and preclinical data if any exist
+- Review of the other top predictions, with subarachnoid hemorrhage and pulmonary hypertension the only ones with weak biological plausibility
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

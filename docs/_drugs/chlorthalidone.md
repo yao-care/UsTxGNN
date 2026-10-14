@@ -33,29 +33,32 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Chlorthalidone is a thiazide-like diuretic. It is generally used for hypertension and fluid retention, although the provided license records do not state an indication.
-The TxGNN model predicts it may be effective for **primary hereditary glaucoma**, but **0 clinical trials** and **0 publications** support this direction.
-The prediction rests on the model score alone.
+Chlorthalidone is a thiazide-like diuretic originally used to treat hypertension and congestive heart failure.
+The TxGNN model predicts it may be effective for **primary hereditary glaucoma**,
+but **0 clinical trials** and **0 publications** currently support this prediction, so it rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension and edema (general pharmacology; the license records list no indication text) |
+| Original Indication | Hypertensive disorder, hypertension, congestive heart failure |
 | Predicted New Indication | Primary hereditary glaucoma |
-| TxGNN Prediction Score | 99.92% (model rank 2719) |
+| TxGNN Prediction Score | 99.92% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (generic ANDA approvals) |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 9 (all ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Chlorthalidone is a thiazide-like diuretic, and its efficacy in blood pressure control and fluid removal is well established. Any link to glaucoma is therefore speculative.
+Currently, detailed mechanism of action data is not available. Based on known information, chlorthalidone is a thiazide-like diuretic. Its efficacy in hypertension and congestive heart failure is established, and it acts mainly through fluid and electrolyte balance.
 
-One possible connection is the weak carbonic anhydrase-related and fluid-shifting effects of thiazide-like diuretics, which might influence aqueous humor dynamics. However, primary hereditary glaucoma is largely developmental or genetic (for example, CYP1B1-related). A systemic diuretic is unlikely to address the underlying cause.
+A link to intraocular pressure (for example, through changes in aqueous humor dynamics) is speculative and not supported by the data compiled for this report. Primary hereditary glaucoma is genetically driven, so a diuretic is unlikely to address the underlying cause. Systemic antihypertensives can also lower ocular perfusion pressure, which may be a concern in glaucoma.
 
-The high score (0.999) most likely reflects patterns in the knowledge graph rather than a validated pharmacological rationale.
+The high TxGNN score (0.999) is a model output only. Among the other top-ranked predictions, the following are worth noting:
+
+- **Chronic pulmonary heart disease** (score 99.82%, Evidence Level L4) is the only prediction with directly relevant literature. It is a plausible extension of chlorthalidone's use for congestive heart failure through diuretic volume reduction. The benefit would be symptomatic relief rather than disease modification.
+- **Malignant hypertensive renal disease** and **malignant renovascular hypertension** largely overlap with the existing hypertension indication rather than representing a novel repurposing signal.
 
 ## Clinical Trial Evidence
 
@@ -63,40 +66,50 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for primary hereditary glaucoma.
+
+For reference, the literature linked to the related prediction of chronic pulmonary heart disease is:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [5597001](https://pubmed.ncbi.nlm.nih.gov/5597001/) | 1967 | Clinical report (historical, likely uncontrolled) | La Clinica terapeutica | Diuretic therapy with chlorthalidone in congestive heart failure caused by chronic cor pulmonale |
+| [28711447](https://pubmed.ncbi.nlm.nih.gov/28711447/) | 2017 | Review | JACC. Heart failure | Update on the transition from hypertension to heart failure (indirect relevance) |
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA211063 | Chlorthalidone (Chartwell RX, LLC) | Tablet | Not listed in the record |
-| ANDA213412 | Chlorthalidone (Preferred Pharmaceuticals Inc.) | Tablet | Not listed in the record |
-| ANDA212878 | Chlorthalidone (Bryant Ranch Prepack) | Tablet | Not listed in the record |
-| ANDA214129 | Chlorthalidone (Ajanta Pharma USA Inc.) | Tablet | Not listed in the record |
-| ANDA213412 | Chlorthalidone (Bryant Ranch Prepack) | Tablet | Not listed in the record |
+| ANDA211063 | Chlorthalidone (Chartwell RX, LLC) | Tablet | Not available (cancelled) |
+| ANDA213412 | Chlorthalidone (Preferred Pharmaceuticals Inc.) | Tablet | Not available (cancelled) |
+| ANDA212878 | Chlorthalidone (Bryant Ranch Prepack) | Tablet | Not available (cancelled) |
+| ANDA214129 | Chlorthalidone (Ajanta Pharma USA Inc.) | Tablet | Not available (cancelled) |
+| ANDA207813 | Chlorthalidone (Zydus Lifesciences Limited) | Tablet | Not available (cancelled) |
 
-All products are oral tablets. Five of the 20 licenses are shown.
+A total of 9 licenses are listed, and all are cancelled.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindications / conditions of concern (from a drug-disease knowledge graph, not label text)**: liver failure, kidney disease, anuria, gout and hyperuricemia, potassium deficiency, hypercalcemia, nephrocalcinosis, phosphorus metabolism disease, type 2 diabetes mellitus, systemic lupus erythematosus, asthma, pancreatitis, peptic ulcer disease, psoriasis, myocardial infarction, sudden cardiac arrest, epilepsy, anxiety and related disorders, and hemoglobinopathy.
+- **Drug Interactions**: 100 interactions were found in total; the 20 retrieved include the following.
+  - **Major**: cisapride, dolasetron.
+  - **Moderate**: acarbose, metformin, alogliptin, albiglutide (glucose-lowering agents); hydrocortisone, dexamethasone, triamcinolone, beclomethasone (corticosteroids); amphotericin B; omeprazole, rabeprazole; bupropion; morphine; cholecalciferol.
+  - **Minor**: doxycycline, hyoscyamine, atropine.
+
+Please also refer to the package insert for full safety information, since label warnings and contraindications were not available for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The only support for this indication is a model score. No trials or publications were found, the mechanism is speculative, and hereditary glaucoma is mainly a genetic or developmental condition that a diuretic is unlikely to treat.
+The prediction for primary hereditary glaucoma is supported only by a model score (Evidence Level L5). No trials or literature support it, and the mechanistic link is speculative. All US licenses are also cancelled.
 
 **To proceed, the following is needed:**
-- The package insert (warnings, contraindications, approved indications)
-- Mechanism of action data from DrugBank
-- A targeted literature search on thiazide-like diuretics and intraocular pressure or aqueous humor dynamics
-- Review by an ophthalmology expert on whether any plausible mechanism exists
-
-**Other candidates in this evidence pack:** Among the other predicted indications, chronic pulmonary heart disease (rank 8) has the strongest evidence, at L3. A 1967 report describes chlorthalidone in congestive heart failure due to chronic cor pulmonale. That report's design is unverified, and the one related registered trial does not test chlorthalidone. It may be a better candidate to prioritize than glaucoma.
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data
+- Preclinical or clinical evidence on intraocular pressure and aqueous humor effects
+- An assessment of the risk that lower ocular perfusion pressure worsens glaucoma
+- Consideration of chronic pulmonary heart disease as a better-supported research question, given its directly relevant (though dated) literature
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

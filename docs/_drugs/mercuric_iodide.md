@@ -29,89 +29,80 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Mercuric Iodide: From No Documented Approved Indication (Homeopathic Products) to Ventricular Tachycardia
+# Mercuric Iodide: From an Unspecified Original Indication to Ventricular Tachycardia
 
 ## One-Sentence Summary
 
-Mercuric iodide is a toxic inorganic mercury salt. In the US it appears only in homeopathic pellet products, and none of the listed products states an approved indication.
-The TxGNN model predicts it may be effective for **ventricular tachycardia**, but there are **0 clinical trials** and **0 publications** supporting this direction.
-The prediction is model output only and is not supported by pharmacological rationale.
-
----
+Mercuric iodide is an inorganic mercury salt. The only U.S. record is a cancelled homeopathic pellet product, and no approved indication is documented.
+The TxGNN model predicts it may be effective for **ventricular tachycardia**, but there are **0 clinical trials** and **0 publications** supporting this prediction.
+It is a purely computational result, and mercury compounds are known to be cardiotoxic.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | None documented (no approved indication text in the listed products) |
+| Original Indication | No approved indication text available |
 | Predicted New Indication | Ventricular tachycardia |
 | TxGNN Prediction Score | 99.99% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed (homeopathic pellet products) |
-| Number of NDAs | 18 listed licenses (license numbers not recorded) |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only |
+| Number of NDAs | 1 (cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available, and no original indication is documented. The marketed products are homeopathic pellets (Mercurius Iodatus Ruber, Mercurius Sulphuricus). No established therapeutic use of mercuric iodide could be used as a starting point for repurposing.
+Currently, detailed mechanism of action data is not available. Mercuric iodide is a toxic inorganic mercury salt with no known antiarrhythmic activity, and no approved indication is recorded for it, so its relationship to the predicted indication cannot be established.
 
-Mechanistically, the prediction is hard to justify. Mercury compounds are associated with cardiotoxicity, arrhythmia, oxidative myocardial injury and disrupted calcium homeostasis. An antiarrhythmic effect is therefore implausible, and a pro-arrhythmic risk is more likely. The high TxGNN score (99.99%) is a graph-based prediction and likely reflects network artifacts rather than real biology.
+The high TxGNN score most likely reflects network proximity among arrhythmia-related nodes in the knowledge graph, not a pharmacological rationale. Mercury compounds are generally associated with causing arrhythmia and cardiac toxicity rather than treating it. On the data compiled for this report, the prediction is not mechanistically supported.
 
-The other top-ranked predictions (ranks 2–10) are also cardiac rhythm or related disorders, including atrial fibrillation, arrhythmogenic right ventricular cardiomyopathy and catecholaminergic polymorphic ventricular tachycardia. None has any clinical or literature evidence. Their similar scores suggest a shared graph-proximity cluster rather than independent signals.
+Other top-ranked predictions are also cardiac rhythm or conduction disorders, and none has clinical or literature support:
 
----
+| Rank | Predicted Disease | TxGNN Score | Evidence Level |
+|-----|------|------|------|
+| 2 | Bundle branch block (obsolete term) | 99.99% | L5 |
+| 3 | Multifocal atrial tachycardia | 99.98% | L5 |
+| 4 | His bundle tachycardia | 99.98% | L5 |
+| 5 | Periodic paralysis with transient compartment-like syndrome | 99.98% | L5 |
+| 6 | Arrhythmogenic right ventricular cardiomyopathy | 99.98% | L5 |
+| 7 | Idiopathic neonatal atrial flutter | 99.97% | L5 |
+| 8 | Incessant infant ventricular tachycardia | 99.97% | L5 |
+| 9 | Catecholaminergic polymorphic ventricular tachycardia | 99.97% | L5 |
+| 10 | Atrial fibrillation | 99.96% | L5 |
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
-
-The 18 listed licenses include repeated entries for the same products. Five are shown below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| Not recorded | Mercurius Iodatus Ruber | Pellet | Not listed |
-| Not recorded | Mercurius Sulphuricus | Pellet | Not listed |
-| Not recorded | Mercurius Iodatus Ruber | Pellet | Not listed |
-| Not recorded | Mercurius Sulphuricus | Pellet | Not listed |
-| Not recorded | Mercurius Sulphuricus | Pellet | Not listed |
-
-All products are made by Hahnemann Laboratories, Inc.
-
----
+| Not available (cancelled) | Mercurius Iodatus Ruber (Hahnemann Laboratories, Inc.) | Pellet | Not specified |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: No interaction records were found.
+- **Toxicity context**: Mercury compounds are recognized cardiac and neurotoxicants. Use in neonates and infants (as in ranks 7 and 8) is not defensible without evidence.
 
-Mercuric iodide is a toxic mercury salt, and mercury exposure is linked to cardiovascular toxicity. Use in vulnerable groups such as neonates and infants is not supportable on safety grounds. Two of the predicted indications are neonatal or infant arrhythmias. No drug interaction records were found.
-
----
+Please refer to the package insert for other safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a TxGNN score, with no clinical trials, no literature, no known mechanism and no documented original indication. Mercury's known cardiotoxicity argues against a therapeutic role in arrhythmia.
+The prediction is computational only (L5), with no clinical trials or publications. There is no documented mechanism, the only U.S. license is cancelled, and mercury's known cardiotoxicity argues against use in arrhythmia. The risk-benefit profile is unfavorable.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (currently a blocking gap for safety screening)
-- Mechanism of action data (for example from DrugBank)
-- Toxicological assessment of any cardiac use, including mercury exposure limits
-- Preclinical evidence showing a beneficial, not adverse, effect on cardiac electrophysiology
-- Confirmation of the regulatory status and intended use of the homeopathic products
+- Mechanism of action data (for example, from DrugBank)
+- FDA package insert warnings and contraindications for a formal safety screen
+- Preclinical evidence that the compound has any antiarrhythmic effect at non-toxic exposure
+- Route and formulation compatibility assessment, which is currently pending
+- Independent literature review confirming a plausible biological link before any further investment
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

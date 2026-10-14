@@ -29,93 +29,84 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Trastuzumab Deruxtecan: From HER2-Directed Cancer Therapy to Drug-Induced Osteoporosis
+# Trastuzumab Deruxtecan: From Oncology (HER2-Directed Therapy) to Drug-Induced Osteoporosis
 
 ## One-Sentence Summary
 
-Trastuzumab deruxtecan (Enhertu) is a HER2-directed antibody-drug conjugate (ADC) used in oncology.
-The TxGNN model predicts it may be effective for **drug-induced osteoporosis**,
-but there are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model alone.
-
----
+Trastuzumab deruxtecan is a HER2-directed antibody-drug conjugate (ADC) carrying a topoisomerase I inhibitor payload (deruxtecan), marketed in the US as Enhertu.
+The TxGNN model predicts it may be effective for **drug-induced osteoporosis**, but **0 clinical trials** and **0 publications** currently support this direction.
+The prediction rests on a model score alone and should be treated as a low-confidence signal.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Not specified in the data compiled for this report |
 | Predicted New Indication | Drug-induced osteoporosis |
 | TxGNN Prediction Score | 99.31% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
+| US Market Status | Cancelled only (the single BLA is recorded as cancelled) |
 | Number of NDAs | 1 (BLA761139) |
 | Recommended Decision | Hold |
 
----
-
 ## Why is This Prediction Reasonable?
 
-Trastuzumab deruxtecan is an antibody-drug conjugate that targets HER2 and carries a topoisomerase I inhibitor payload (deruxtecan). It is a cytotoxic oncology agent with no known anti-resorptive or bone-anabolic activity. Detailed mechanism-of-action data are not available in the source record.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, trastuzumab deruxtecan is a HER2-directed antibody-drug conjugate whose payload, deruxtecan, is a topoisomerase I inhibitor. It is a cytotoxic oncology agent.
 
-**No credible direct mechanistic link to osteoporosis was identified.** The high score most likely reflects proximity in the knowledge graph. Patients with HER2-positive breast cancer often receive aromatase inhibitors, which cause drug-induced bone loss. The model has probably linked the drug to osteoporosis through this shared patient population, not through any therapeutic effect on bone.
+Its high TxGNN score (0.993) is the only support for this prediction, and no plausible mechanistic path to bone metabolism or to treating drug-induced osteoporosis is evident. The prediction may reflect knowledge-graph artifacts, such as shared links with other oncology drugs or with cancer treatments that cause osteoporosis, rather than a true therapeutic signal.
 
-The drug's own risks, including interstitial lung disease and myelosuppression, make benefit in a non-oncologic bone indication implausible. Treat this as an association artifact, not a repurposing rationale.
-
----
+A cytotoxic ADC is also an unlikely candidate for a chronic bone-protective indication. Its known toxicity profile (interstitial lung disease, myelosuppression, cardiac dysfunction) raises serious safety concerns for this use. The relationship between the original oncology use and the predicted indication therefore remains unvalidated.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA761139 | Enhertu | Lyophilized powder for injection solution | Daiichi Sankyo Inc. |
-
----
+| BLA761139 | Enhertu (Daiichi Sankyo Inc.) | Lyophilized powder for injection solution | Not listed (status: cancelled) |
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Antibody-drug conjugate with a cytotoxic topoisomerase I inhibitor payload (targeted therapy) |
-| Myelosuppression Risk | Present (myelosuppression is a recognized risk); please refer to the package insert warnings and precautions for severity details |
-| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | CBC (with differential); respiratory symptoms and imaging for interstitial lung disease; refer to the package insert for full monitoring requirements |
+| Cytotoxicity Classification | Antibody-drug conjugate with a cytotoxic topoisomerase I inhibitor payload (targeted therapy delivering a cytotoxic agent) |
+| Myelosuppression Risk | Medium to High (neutropenia and other cytopenias are a recognised concern; confirm with the package insert) |
+| Emetogenicity Classification | Moderate (based on drug class; confirm with the package insert) |
+| Monitoring Items | CBC with differential, liver and renal function, pulmonary status (interstitial lung disease), cardiac function (LVEF) |
 | Handling Protection | Follow cytotoxic drug handling regulations |
 
----
+Please refer to the package insert warnings and precautions for authoritative details.
 
 ## Safety Considerations
 
-- **Key Risks Noted in the Assessment**: Interstitial lung disease and myelosuppression.
-- **Drug Interactions**: No interaction records were found in the queried database.
+**Drug Interactions**: The interaction screening completed with 42 interactions found. Examples of the main ones include:
 
-Please refer to the package insert for complete warnings and contraindications.
+- **Major**: Deferiprone, Samarium (153Sm) lexidronam, Adalimumab, Baricitinib, Certolizumab pegol, Cladribine, Leflunomide, Natalizumab
+- **Moderate**: Palifermin, Strontium chloride Sr-89, Roflumilast, Chloramphenicol, Alemtuzumab, Anakinra, Azathioprine, Canakinumab, Dimethyl fumarate, Niraparib
 
----
+Many of these are immunosuppressive or myelosuppressive agents, so additive effects on blood counts and infection risk should be considered.
+
+For other safety information, please refer to the package insert.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical or literature support (Evidence Level L5), and no plausible mechanistic link to bone loss was identified. The cytotoxic payload and its known toxicities make benefit in a non-oncologic bone indication unlikely.
+The prediction rests only on a model score (evidence level L5), with no clinical trials or literature and no plausible mechanistic link to bone metabolism. The drug's cytotoxic profile and serious known toxicities make it an unfavourable candidate for a chronic bone-protective indication.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications for safety screening
-- Detailed mechanism-of-action data
-- Any preclinical or clinical evidence showing a direct effect on bone metabolism, which would be needed to move beyond the knowledge-graph association
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data (MOA) to evaluate any link to bone metabolism
+- Preclinical or mechanistic evidence supporting an effect on bone turnover
+- Confirmation of the original approved indications and the reason the US license is recorded as cancelled
+- A comparison with established treatments for drug-induced osteoporosis, and a risk-benefit assessment
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

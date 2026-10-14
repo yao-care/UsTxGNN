@@ -29,86 +29,80 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tamsulosin: From Lower Urinary Tract Symptoms to Ambras Type Hypertrichosis Universalis Congenita
+# Tamsulosin: From Benign Prostatic Hyperplasia to Ambras Type Hypertrichosis Universalis Congenita
 
 ## One-Sentence Summary
 
-Tamsulosin is an alpha-1A/1D adrenoceptor antagonist used for lower urinary tract symptoms.
-The TxGNN model predicts it may be effective for **Ambras type hypertrichosis universalis congenita**, but **no clinical trials and no publications** support this prediction. It is a model-only signal with no identified pharmacological rationale.
-
----
+Tamsulosin is an alpha-1 adrenoceptor antagonist originally used to treat benign prostatic hyperplasia (BPH).
+The TxGNN model predicts it may be effective for **Ambras type hypertrichosis universalis congenita**,
+but there are currently **0 clinical trials** and **0 publications** supporting this direction. The prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Lower urinary tract symptoms (taken from the prediction rationale; the US license records list no indication text) |
+| Original Indication | Benign prostatic hyperplasia |
 | Predicted New Indication | Ambras type hypertrichosis universalis congenita |
-| TxGNN Prediction Score | 99.996% (rank 246) |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (all listed licenses are generic ANDAs) |
+| TxGNN Prediction Score | 99.996% |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no currently valid licences) |
+| Number of NDAs | 6 (all cancelled; listed as ANDA generic applications) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the record. Tamsulosin is an alpha-1A/1D adrenoceptor antagonist, and its established use is symptomatic treatment of lower urinary tract symptoms.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, tamsulosin is an alpha-1A/1D adrenoceptor antagonist that relaxes smooth muscle in the prostate and bladder neck. Its efficacy in BPH is established.
 
-**No plausible link was identified between the two conditions.** Ambras syndrome is a rare congenital disorder tied to chromosome 8q22 rearrangements that affect regulation of *TRPS1*. Alpha-1 adrenergic blockade has no established role in this pathway or in hair-growth regulation.
+No established mechanism links this action to Ambras syndrome. Ambras syndrome is a rare congenital disorder associated with genomic rearrangements at 8q22 that affect regulation of the *TRPS1* gene. An alpha-1 blocker would not be expected to act on this pathway.
 
-The high score most likely reflects proximity in the knowledge graph to related hair phenotypes, not a pharmacological signal. The other top predictions follow the same pattern. They include hypertrichosis, hair shaft abnormalities, hypotrichosis, alopecia, and Dandy-Walker malformation syndromes, and none has a mechanistic rationale or supporting evidence. Hypotrichosis simplex of the scalp is the phenotypic opposite of hypertrichosis, yet it also ranks high, which suggests the graph signal is not specific.
+The very high score (0.99996, model rank 246) appears to reflect network proximity in the knowledge graph rather than a pharmacological rationale. Without trials or literature, this prediction should be treated as a computational hypothesis only.
 
----
+**Other predictions in the top 10** are similarly unsupported. They include hypertrichosis, dental and periodontal malformation syndromes, Dandy-Walker malformation syndromes, hair shaft abnormalities, hypotrichosis, alopecia areata, alopecia, and migraine with brainstem aura. All are at evidence level L5 with a Hold recommendation. Hypertrichosis in particular would normally be an adverse effect rather than a therapeutic goal.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for the top-ranked prediction.
 
----
+(For the rank 9 prediction, alopecia, two papers were retrieved. Neither supports tamsulosin: one is a finasteride pharmacovigilance study on suicidality and psychological adverse events, and the other is an observational study of meibomian gland changes in men with BPH. Both are only tangentially related.)
 
 ## US Market Information
 
-The license records do not include approved indication text, so that column is omitted. The first five of 20 listed licenses are shown.
+All six US authorisations are cancelled generic applications for oral capsules. No approved indication text is available for them.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| ANDA202433 | Tamsulosin Hydrochloride | Capsule | Cardinal Health 107, LLC |
-| ANDA207405 | Tamsulosin Hydrochloride | Capsule | Chartwell RX, LLC |
-| ANDA202433 | Tamsulosin Hydrochloride | Capsule | Northwind Health Company, LLC |
-| ANDA202433 | Tamsulosin Hydrochloride | Capsule | Aurobindo Pharma Limited |
-| ANDA090931 | Tamsulosin Hydrochloride | Capsule | Proficient Rx LP |
-
-The only route of administration listed is oral (capsule).
-
----
+| Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
+|---------|------|------|------|------|
+| ANDA202433 | Tamsulosin Hydrochloride | Capsule | Cardinal Health 107, LLC | Cancelled |
+| ANDA207405 | Tamsulosin Hydrochloride | Capsule | Chartwell RX, LLC | Cancelled |
+| ANDA090931 | Tamsulosin Hydrochloride | Capsule | Proficient Rx LP | Cancelled |
+| ANDA078225 | Tamsulosin Hydrochloride | Capsule | Zydus Pharmaceuticals USA Inc. | Cancelled |
+| ANDA214730 | Tamsulosin Hydrochloride | Capsule | XLCare Pharmaceuticals, Inc | Cancelled |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Conditions flagged as contraindications in the knowledge graph** (not label text): multiple system atrophy, postural orthostatic tachycardia syndrome, orthostatic hypotension, liver disease, gallbladder disease, priapism, and intraoperative floppy iris syndrome.
+- **Drug Interactions**: 100 interactions were identified. Of the 20 listed in the compiled data, one is rated Major and the rest Moderate.
+  - **Major**: Clarithromycin.
+  - **Moderate (examples)**: cimetidine, bupropion, aprepitant, morphine, canagliflozin, dapagliflozin, empagliflozin, ertugliflozin, clotrimazole, miconazole, and eliglustat.
 
----
+Please refer to the package insert for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the graph model score. There are no trials or publications, and no mechanistic link between alpha-1A/1D blockade and Ambras syndrome. The 20 publications retrieved for another predicted indication (periodontal malformation syndrome, rank 3) concern periodontitis in general and do not mention tamsulosin, so they do not raise the evidence level.
+The prediction has no clinical trials, no supporting literature, and no plausible mechanistic link to the predicted condition. Evidence is at level L5 (model prediction only). In addition, all US licences for tamsulosin are cancelled.
 
 **To proceed, the following is needed:**
-- Any tamsulosin-specific mechanistic or preclinical evidence for hair-follicle or *TRPS1*-related biology
-- Mechanism of action data from DrugBank
-- FDA package insert warnings and contraindications, which are currently missing and block safety screening
-- Pharmacoepidemiology data on hair outcomes in tamsulosin users, if the hair-related predictions are to be pursued
-- Route compatibility and similarity-to-original assessments, which are still pending
+- Mechanistic evidence connecting alpha-1A/1D blockade to the *TRPS1* or 8q22-related pathology of Ambras syndrome, or a rationale for choosing another prediction.
+- Detailed mechanism of action data (MOA).
+- Package insert warnings and contraindications, to allow safety screening.
+- Preclinical studies (for example in cell or animal models) before any clinical consideration.
+- Clarification of current US marketing status, since no valid licences are listed.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

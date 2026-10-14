@@ -33,77 +33,83 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Treprostinil is a prostacyclin analogue marketed in the US as an injection and an inhalant, and it is established in pulmonary arterial hypertension (PAH). The TxGNN model predicts it may be effective for **pulmonary arteriovenous malformation** with a score of 99.7%. **No clinical trials and no publications** currently support this specific prediction, so it rests on the model score alone.
-
----
+Treprostinil is a prostacyclin analogue originally used to treat pulmonary arterial hypertension (PAH).
+The TxGNN model's top-ranked prediction is **pulmonary arteriovenous malformation**, but it has **0 clinical trials** and **0 publications** behind it. The strongest evidence in the data compiled for this report is for the PAH subgroup **PAH associated with connective tissue disease** (1 placebo-controlled RCT in general PAH, plus a meta-analysis and reviews), which is largely an extension within the approved PAH indication.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the license data (treprostinil is an established PAH therapy; confirm against the label) |
-| Predicted New Indication | Pulmonary arteriovenous malformation |
+| Original Indication | Pulmonary arterial hypertension |
+| Predicted New Indication | Pulmonary arteriovenous malformation (top-ranked prediction) |
 | TxGNN Prediction Score | 99.70% |
-| Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| Evidence Level | L5 (top prediction); best among the top 10 predictions is L3 (PAH associated with connective tissue disease) |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 9 (all cancelled; includes both NDAs and ANDAs) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from DrugBank. Based on known information, treprostinil is a prostacyclin analogue with vasodilatory and antiplatelet effects. Its efficacy in PAH is established, and a model that links it to other pulmonary vascular diseases could plausibly rank a pulmonary vascular malformation highly.
+Detailed mechanism-of-action data are not available in the data compiled for this report. Based on known pharmacology, treprostinil is a prostacyclin (PGI2) analogue. It acts on IP receptors to cause vasodilation, inhibit platelet aggregation, and reduce vascular cell proliferation. Its efficacy in PAH is established.
 
-However, the mechanistic link here is weak and may even work against the drug. A pulmonary arteriovenous malformation is a structural vascular defect, and further vasodilation could worsen shunting rather than relieve it. The high score most likely reflects graph proximity to other pulmonary vascular diseases, not a real therapeutic rationale. The prediction should be treated as a hypothesis, not a candidate with supporting evidence.
+Most of the top-10 predictions are PAH subgroups (congenital heart disease, chronic hemolytic anemia, schistosomiasis, connective tissue disease, HIV infection). These share the same WHO Group 1 pathophysiology, so the mechanism plausibly carries over. These are better viewed as extensions within the approved indication than as true repurposing.
 
----
+The top-ranked prediction, pulmonary arteriovenous malformation, is different. Vasodilating a malformation could worsen shunting and hypoxemia, so the mechanistic rationale is weak and potentially harmful. The hair-disorder and developmental-syndrome predictions (ranks 7-10: hypotrichosis simplex of the scalp, congenital hypotrichosis milia, malformation syndrome with odontal/periodontal component, Ambras-type hypertrichosis) have no identified mechanistic link and likely reflect graph proximity only.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
-
----
+Currently no related clinical trials registered for the top-ranked prediction or any of the other top-10 predictions.
 
 ## Literature Evidence
 
-Currently no related literature available.
+The top-ranked prediction (pulmonary arteriovenous malformation) has no related literature. The table below covers the best-supported prediction, PAH associated with connective tissue disease (rank 5).
 
----
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [11897647](https://pubmed.ncbi.nlm.nih.gov/11897647/) | 2002 | RCT | Am J Respir Crit Care Med | 12-week double-blind, placebo-controlled trial of continuous subcutaneous treprostinil in PAH (not CTD-specific) |
+| [38378970](https://pubmed.ncbi.nlm.nih.gov/38378970/) | 2024 | Systematic review | Intern Emerg Med | Meta-analysis of RCT subgroup data on PAH treatment in connective tissue disease |
+| [15302727](https://pubmed.ncbi.nlm.nih.gov/15302727/) | 2004 | Clinical study | Chest | Efficacy and safety of continuous subcutaneous treprostinil in PAH with connective tissue disease |
+| [41594679](https://pubmed.ncbi.nlm.nih.gov/41594679/) | 2026 | Review | Biomolecules | Current therapeutic strategies and future prospects in CTD-PAH |
+| [37765060](https://pubmed.ncbi.nlm.nih.gov/37765060/) | 2023 | Review | Pharmaceuticals | Recent advances in treating PAH associated with connective tissue disease |
+| [22291467](https://pubmed.ncbi.nlm.nih.gov/22291467/) | 2012 | Review | Drug Des Devel Ther | Therapeutic review of inhaled treprostinil |
+| [34462153](https://pubmed.ncbi.nlm.nih.gov/34462153/) | 2021 | Retrospective study | Rev Med Interne | Characteristics and outcomes of CTD-PAH patients treated with prostanoids |
+
+For PAH associated with congenital heart disease (rank 2), supporting data are limited to observational work, for example subcutaneous treprostinil in adult CHD-PAH ([29436381](https://pubmed.ncbi.nlm.nih.gov/29436381/), 2018, Heart, cohort) and long-term continuous prostacyclin therapy ([23890862](https://pubmed.ncbi.nlm.nih.gov/23890862/), 2013, Int J Cardiol, cohort of 8 adults). For PAH associated with HIV infection (rank 6), only general prostanoid reviews are available, with no HIV-specific data.
 
 ## US Market Information
 
+All nine US authorizations are cancelled; none is currently valid. Approved indication text was not available in the data.
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA021272 | Remodulin | Injection, solution | Not provided in data |
-| NDA214324 | Tyvaso DPI | Inhalant | Not provided in data |
-| ANDA210214 | Treprostinil (Dr. Reddy's) | Injection, solution | Not provided in data |
-| ANDA211574 | Treprostinil (Alembic) | Injection, solution | Not provided in data |
+| NDA021272 | Remodulin | Injection, solution | Not available |
+| NDA022387 | Tyvaso | Inhalant | Not available |
+| NDA214324 | Tyvaso DPI | Inhalant | Not available |
+| NDA203496 | Orenitram | Tablet, extended release | Not available |
+| NDA213005 | Yutrepia | Capsule | Not available |
 
-Available routes across all 20 authorizations are injectable, inhaled, and oral (extended-release tablet and capsule forms).
-
----
+Four generic injection ANDAs (Dr. Reddy's, Alembic, Sandoz, Teva) are also listed as cancelled.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Disease associations flagged in the knowledge graph (not label text):** kidney disease, pyoureter, liver disease, gallbladder disease, hypotensive disorder, blood coagulation disease, lung disease, obsolete rare pulmonary disease.
+- **Drug Interactions:** 100 interactions were recorded. Those rated Moderate include epinephrine, acetylsalicylic acid, SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin), mannitol, glycerin, papaverine, ephedrine, fenfluramine, dexfenfluramine, and sibutramine. Several others (e.g., pantoprazole, omeprazole, lansoprazole, prednisone, simvastatin, potassium chloride) have an unknown severity level.
+- Given its antiplatelet effect and the blood coagulation disease flag, bleeding risk with concomitant antithrombotics warrants attention. Vasodilation of a pulmonary vascular malformation may also worsen shunting.
 
----
+Please refer to the package insert for label warnings and contraindications, which were not available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no trials or literature behind it (L5). The pharmacology also raises a concern that vasodilation could worsen shunting in a structural malformation. It should not advance on the model score alone.
+The top-ranked prediction, pulmonary arteriovenous malformation, has only a model score, no trials or literature, and a mechanistic concern (possible worsening of shunting). The better-supported predictions are PAH subgroups, which are largely covered by the existing PAH indication. All nine US authorizations are also cancelled.
 
 **To proceed, the following is needed:**
-- A mechanistic or preclinical rationale showing that prostacyclin-pathway activity would not worsen shunting in pulmonary arteriovenous malformation
-- FDA package insert warnings and contraindications (data gap DG001, blocking for safety screening)
-- Mechanism of action data from DrugBank (data gap DG002)
-- Confirmation of the labeled indications, since the license data contains no indication text
-
-**Note on other predictions for this drug:** Several other predicted indications have stronger support than rank 1. PAH associated with connective tissue disease is L2 with a "Proceed with Guardrails" recommendation, and PAH associated with congenital heart disease is L3 (research question). These are better candidates to evaluate first.
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism-of-action data
+- For PAH subgroups (CTD-PAH, CHD-PAH): dedicated trials or registry analyses, and confirmation of current US marketing status
+- For pulmonary arteriovenous malformation: preclinical or hemodynamic safety data on shunting and oxygenation before any clinical consideration
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

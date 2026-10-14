@@ -29,35 +29,35 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Fenbendazole: From Anthelmintic (No Human Indication on Record) to Urinary Bladder Carcinoma
+# Fenbendazole: From No Approved Human Indication to Urinary Bladder Carcinoma
 
 ## One-Sentence Summary
 
-Fenbendazole is a benzimidazole anthelmintic, mainly a veterinary drug, and no approved indication text is recorded for its one marketed capsule product.
-The TxGNN model predicts it may be effective for **urinary bladder carcinoma** (score 99.99%), but the exact term has **0 clinical trials** and **0 publications**.
-This is a model prediction only, with no actual studies behind it.
+Fenbendazole is a benzimidazole anthelmintic with no approved human indication on record in the data compiled for this report.
+The TxGNN model predicts it may be effective for **urinary bladder carcinoma**, but **0 clinical trials** and **0 publications** were found under this exact term.
+The closely related term "urinary bladder neoplasm" has **3 publications** (2 relevant preclinical studies), which cannot be counted as direct evidence for the top-ranked entry.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded (approved indication text is empty) |
+| Original Indication | No approved indication text available |
 | Predicted New Indication | Urinary bladder carcinoma |
 | TxGNN Prediction Score | 99.99% |
-| Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 1 |
+| Evidence Level | L5 (L4 for the related term "urinary bladder neoplasm") |
+| US Market Status | Cancelled only |
+| Number of NDAs | 1 (cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in DrugBank for this drug. Based on general pharmacology, fenbendazole is a benzimidazole that inhibits tubulin polymerization. In proliferating cells this can cause G2/M cell-cycle arrest and apoptosis, so it is a plausible antiproliferative mechanism in urothelial tumor cells.
+Detailed mechanism of action data is not available in the data compiled for this report. Fenbendazole is a benzimidazole anthelmintic. Drugs in this class bind tubulin and may disrupt microtubule polymerization. Preclinical work has also proposed effects on p53 signaling and glucose metabolism.
 
-The TxGNN prediction is not tied to a known original indication, because none is recorded. The mechanistic link is class-level reasoning and has not been validated for bladder carcinoma. Fenbendazole is a veterinary anthelmintic, so human dosing, bioavailability and toxicity are uncharacterized.
+These mechanisms are plausible for bladder cancer, since microtubule disruption and cell-stress pathways are established anticancer targets. However, no direct evidence supports this for the top-ranked entry. The high score likely reflects the model's learned associations, and it is not a substitute for experimental or clinical data.
 
-The related term "urinary bladder neoplasm" (rank 2) has one 2024 paper (PMID 39128990). It studies intravesical fenbendazole combined with CRISPR-Cas13a for bladder cancer, and the title suggests a preclinical study. That evidence is indirect and does not upgrade the level for the exact predicted term.
+For the related term "urinary bladder neoplasm," two recent preclinical studies (2024 and 2026) examine fenbendazole in bladder cancer models, using intravesical delivery with combination approaches. They are consistent with the proposed mechanisms but are indirect, non-clinical evidence.
 
-Other high-scoring predictions are bladder subtypes, including urothelial carcinoma variants, adenocarcinoma variants and squamous papilloma. Their scores likely reflect proximity in the knowledge graph, not subtype-specific evidence.
+Other predicted bladder entries (infiltrating urothelial carcinoma, non-invasive urothelial carcinoma, urachal carcinoma, squamous papilloma, and several adenocarcinoma subtypes) have scores of about 99.985–99.989%. They have no trials or literature, and their scores likely reflect closeness to bladder cancer terms in the ontology rather than independent signal.
 
 ## Clinical Trial Evidence
 
@@ -65,33 +65,38 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available for the exact predicted term. See the note above for the one indirect paper found under the parent term "urinary bladder neoplasm".
+No literature was found under "urinary bladder carcinoma." The following were retrieved under the related term "urinary bladder neoplasm." Study types are inferred from titles and abstracts and should be confirmed by reading the full texts.
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [41861111](https://pubmed.ncbi.nlm.nih.gov/41861111/) | 2026 | Preclinical (combination therapy) | Advanced Science | Intravesical nanoplatform (FBZ@BSA@PDA) combining fenbendazole-induced ferroptosis, immunogenic cell death activation, and photothermal therapy for bladder cancer |
+| [39128990](https://pubmed.ncbi.nlm.nih.gov/39128990/) | 2024 | Preclinical (intravesical combination) | J Exp Clin Cancer Res | Intravesical CRISPR-Cas13a plus fenbendazole combination therapy for bladder cancer |
+| [23208426](https://pubmed.ncbi.nlm.nih.gov/23208426/) | 2012 | Preclinical/mechanistic | J Toxicol Sci | Ubiquitin D activation and apoptosis with carcinogens in rats; relevance to fenbendazole is unclear |
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| Not recorded | Fenbendazole 222 MG (B & L Healthcare Products INC) | Capsule (oral) | Not recorded |
+| Not available | Fenbendazole 222 MG (B & L Healthcare Products INC) | Capsule | No indication text (status: cancelled) |
 
 ## Safety Considerations
 
-No warnings, contraindications, or drug interaction records were retrieved (the DDI query returned no results). The package insert has not been obtained, so safety information should be taken from the label once available. Human safety of fenbendazole is uncharacterized.
+Please refer to the package insert for safety information. No warnings, contraindications, or drug interaction records were found in the data compiled for this report. Fenbendazole has no active approved human use, so its human safety characterization is a gap in itself.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The evidence is L5, which means model prediction only. There are no trials for the exact term, and the only related paper is indirect and likely preclinical. The package insert and MOA data are also missing, and the missing label blocks safety screening.
+The top-ranked prediction rests on model score alone, with no clinical trials and no literature under the exact term (L5). The related term has only indirect preclinical evidence (L4), and fenbendazole has no active approved human use. Evidence is insufficient to advance. The related "urinary bladder neoplasm" entry is best treated as a research question rather than a development candidate.
 
 **To proceed, the following is needed:**
-- The package insert (warnings and contraindications), to clear the blocking safety data gap
-- Mechanism-of-action data from DrugBank
-- Full-text review of PMID 39128990 to confirm study type and fenbendazole's role
-- A search for preclinical and human data on benzimidazole antitubulin agents in bladder cancer
-- Human dosing, bioavailability and toxicity data, and an assessment of whether intravesical or oral routes are feasible
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- Full-text review of the 2024 and 2026 preclinical studies to confirm study design and findings
+- Human pharmacokinetic and toxicology data, since there is no approved human use
+- Assessment of route compatibility, particularly for intravesical delivery
+- Independent in vitro and in vivo confirmation in bladder cancer models before any clinical consideration
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

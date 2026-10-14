@@ -29,72 +29,84 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Selinexor: From Hematologic Malignancies to Drug-Induced Osteoporosis
+# Selinexor: From Oncology Use to Drug-Induced Osteoporosis
 
 ## One-Sentence Summary
 
-Selinexor (brand name XPOVIO) is an oral drug marketed in the US for hematologic malignancies.
-The TxGNN model predicts it may be effective for **drug-induced osteoporosis**, but the prediction rests on a computational score alone, with **0 clinical trials** and **0 publications** currently supporting it.
+Selinexor is an oral anticancer drug (an XPO1/exportin-1 inhibitor), but the data compiled for this report do not list a specific approved indication.
+The TxGNN model predicts it may be relevant for **drug-induced osteoporosis**, with **0 clinical trials** and **0 publications** currently supporting this direction.
+The prediction rests only on a computational score.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hematologic malignancies (the approved indication text was not supplied in the source data) |
+| Original Indication | Not available in the compiled data |
 | Predicted New Indication | Drug-induced osteoporosis |
 | TxGNN Prediction Score | 99.22% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 6 licence records (all listed records carry NDA212306) |
+| US Market Status | Cancelled only (the single NDA is cancelled) |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the supplied record. Selinexor is generally described as a selective inhibitor of nuclear export (XPO1/CRM1), and it is marketed for hematologic malignancies rather than for bone-loss conditions.
+Detailed mechanism of action data is not available in the data compiled for this report. Selinexor is generally known as an XPO1 (exportin-1) inhibitor, which blocks the nuclear export of regulatory proteins. A possible link to bone biology would run through nuclear export of regulators involved in osteoclast and osteoblast signaling. This is speculative and not supported by the supplied data.
 
-The only support for the new indication is the very high TxGNN knowledge-graph score (0.992, model rank 17,172). This is a computational prediction, not clinical evidence. Any effect on bone remodeling, for example through osteoclast or osteoblast signaling, would be a hypothesis from outside this dataset and has not been verified here.
+There is also a caution. Selinexor is associated with nausea, anorexia, weight loss, fatigue and cytopenias, which could plausibly worsen bone health in frail oncology patients. No evidence shows that it treats or prevents drug-induced osteoporosis. The high TxGNN score (0.992) is a computational prediction, not clinical evidence.
 
-The link between the original and predicted indications therefore cannot be checked against the supplied data. Oncology and bone-loss conditions differ substantially. Any bone effect would first need to be shown in preclinical or clinical studies.
+## Clinical Trial Evidence
+
+Currently no related clinical trials registered.
+
+## Literature Evidence
+
+Currently no related literature available.
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA212306 | XPOVIO (Karyopharm Therapeutics Inc.) | Film-coated tablet (oral) | Not listed in the source record |
-
-The source lists 5 identical records for NDA212306, shown here once. The reported total is 6 licence records.
+| NDA212306 (cancelled) | XPOVIO (Karyopharm Therapeutics Inc.) | Film-coated tablet (oral) | Not listed in the compiled data |
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (nuclear export inhibitor), used in hematologic malignancies |
-| Myelosuppression Risk | Cytopenias are associated with the drug; severity grading is not available. Please refer to the package insert. |
-| Emetogenicity Classification | Nausea is associated with the drug; classification is not available. Please refer to the package insert. |
-| Monitoring Items | CBC (with differential) is reasonable given the cytopenia risk; please refer to the package insert for the full schedule |
+| Cytotoxicity Classification | Targeted therapy (XPO1 inhibitor); this classification is inferred from the drug's known pharmacology, not from the compiled data |
+| Myelosuppression Risk | Cytopenias are reported as an associated adverse effect; please refer to the package insert warnings and precautions for severity |
+| Emetogenicity Classification | Nausea and anorexia are associated adverse effects; please refer to the package insert warnings and precautions |
+| Monitoring Items | CBC (with differential), body weight and nutritional status; please refer to the package insert for the full list |
 | Handling Protection | Please refer to the package insert warnings and precautions |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: 81 interactions were identified in the DDI screening. Examples of those rated Major:
+  - Deferiprone
+  - Samarium (153Sm) lexidronam
+  - Adalimumab
+  - Baricitinib
+  - Certolizumab pegol
+  - Cladribine
+  - Clozapine
 
-Systemic adverse effects such as fatigue, nausea, weight loss and cytopenias are associated with selinexor. No bone-safety data were provided, and a safety review would be needed before any repurposing in a population at risk of osteoporosis.
+  Moderate examples include strontium chloride Sr-89, roflumilast, chloramphenicol, zidovudine, azathioprine, alemtuzumab, anakinra, and several vaccines. Many of these involve myelosuppressive or immunosuppressive combinations.
+
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has only a model score and no registered trials or publications (Evidence Level L5). Neither the mechanism nor the package insert safety data were available to support it. Bone-safety data are also missing, and systemic toxicity is a concern in an osteoporosis-risk population.
+The prediction is supported only by a model score, with no clinical trials or publications. The only US NDA is cancelled. Package insert safety data and mechanism data are missing, and the drug's known adverse effects could plausibly worsen bone health.
 
 **To proceed, the following is needed:**
-- Retrieve the package insert warnings and contraindications (a blocking gap for safety screening)
-- Obtain verified mechanism of action data, for example from DrugBank
-- Search for preclinical or clinical evidence on selinexor and bone metabolism, such as osteoclast/osteoblast studies and bone-density findings in existing patients
-- Assess route and formulation compatibility with the target population (currently pending)
-- Confirm the approved indication text for NDA212306 so the original-to-new indication comparison can be made
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- FDA package insert warnings and contraindications (blocking for safety screening)
+- Mechanism of action data (for example from DrugBank) to assess any biological link to bone remodeling
+- Preclinical or observational evidence on selinexor's effect on bone
+- Confirmation of the original approved indication and the reason for the NDA cancellation
+- Route and formulation compatibility assessment for the proposed indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

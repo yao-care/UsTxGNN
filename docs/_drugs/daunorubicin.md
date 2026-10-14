@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Daunorubicin
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 574
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Daunorubicin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L3** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,11 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Daunorubicin: From Anthracycline Chemotherapy to Hodgkin Lymphoma
+# Daunorubicin: From Acute Leukemia to Hodgkin's Lymphoma
 
 ## One-Sentence Summary
 
-Daunorubicin is an anthracycline cytotoxic chemotherapy agent that is currently marketed in the United States as an injection. The TxGNN model predicts it may be effective for **Hodgkin Lymphoma**. The registry and literature searches returned **50 clinical trials** and **20 publications**, but none is a daunorubicin-specific Phase 3 study. The support comes mainly from doxorubicin-based regimens (ABVD, AVD), so it is class-level rather than direct evidence.
+Daunorubicin is an anthracycline chemotherapy drug, originally used to treat acute lymphoblastic and acute myeloid leukemia.
+The TxGNN model predicts it may be effective for **Hodgkin's lymphoma**,
+but support is limited to **2 Phase 2 combination-chemotherapy trials** and **literature that is mostly reviews and non-Hodgkin lymphoma studies**, so this is best treated as a research question.
 
 ---
 
@@ -41,44 +43,30 @@ Daunorubicin is an anthracycline cytotoxic chemotherapy agent that is currently 
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the provided license data |
-| Predicted New Indication | Hodgkin Lymphoma |
+| Original Indication | Acute lymphoblastic leukemia and acute myeloid leukemia (and related subtypes) |
+| Predicted New Indication | Hodgkin's lymphoma |
 | TxGNN Prediction Score | 99.81% |
-| Evidence Level | L3 (class-level evidence only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 5 license records (3 distinct application numbers) |
+| Evidence Level | L3 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 3 (all cancelled: 1 NDA, 2 ANDAs) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the dataset. Daunorubicin belongs to the anthracycline class, which acts by DNA intercalation and topoisomerase II inhibition. It is a core cytotoxic drug class in haematological cancers. A 2003 review notes that daunorubicin with cytarabine made cure of acute myeloid leukaemia possible.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Based on general pharmacology, daunorubicin is an anthracycline that intercalates into DNA and inhibits topoisomerase II, a mechanism active against rapidly proliferating blood cancers.
 
-Hodgkin lymphoma is a chemotherapy-sensitive haematological malignancy. Its standard regimens, ABVD and AVD, are built on an anthracycline backbone, and that anthracycline is doxorubicin, not daunorubicin. Mechanistically, the class-level link is plausible, which likely explains the high model score.
-
-Two caveats limit the strength of this link:
-- None of the Hodgkin Phase 3 trials found tests daunorubicin.
-- The only daunorubicin-specific lymphoma study is a small 1997 liposomal daunorubicin (DaunoXome) Phase 2 study in relapsed or refractory lymphoma. It did not report Hodgkin-specific results.
+Leukemia and Hodgkin's lymphoma are both hematologic malignancies. Anthracyclines, mainly doxorubicin, are already part of standard Hodgkin regimens such as ABVD, so the mechanistic plausibility is high. However, evidence specific to daunorubicin is limited to Phase 2 combination protocols and liposomal-formulation studies, mostly in non-Hodgkin lymphoma. The high TxGNN score therefore reflects a plausible class effect rather than demonstrated daunorubicin efficacy in Hodgkin's lymphoma.
 
 ---
 
 ## Clinical Trial Evidence
 
-All trials below use doxorubicin (Adriamycin), not daunorubicin, so they support the anthracycline class only. The list shows the 10 most relevant of 50 Hodgkin-related trials.
-
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT04685616](https://clinicaltrials.gov/study/NCT04685616) | Phase 3 | Recruiting | 1042 | RADAR: ABVD vs A2VD, with or without radiotherapy, in early-stage Hodgkin lymphoma (PET-adapted) |
-| [NCT01712490](https://clinicaltrials.gov/study/NCT01712490) | Phase 3 | Completed | 1334 | Brentuximab vedotin + AVD vs ABVD in advanced classical Hodgkin lymphoma |
-| [NCT00049595](https://clinicaltrials.gov/study/NCT00049595) | Phase 3 | Completed | 552 | BEACOPP vs ABVD in stage III/IV Hodgkin lymphoma |
-| [NCT06377566](https://clinicaltrials.gov/study/NCT06377566) | Phase 2 | Recruiting | 71 | BV-AVD, PET-adapted, in early-stage bulky Hodgkin lymphoma |
-| [NCT03755804](https://clinicaltrials.gov/study/NCT03755804) | Phase 2 | Active, not recruiting | 232 | Risk- and response-adapted therapy, including doxorubicin, in pediatric classical Hodgkin lymphoma |
-| [NCT03527628](https://clinicaltrials.gov/study/NCT03527628) | Phase 2 | Unknown | 220 | ACVD + brentuximab vedotin in PET-2-positive advanced Hodgkin lymphoma |
-| [NCT01534078](https://clinicaltrials.gov/study/NCT01534078) | Phase 2 | Completed | 34 | Brentuximab vedotin + AVD in non-bulky limited-stage Hodgkin lymphoma |
-| [NCT00352027](https://clinicaltrials.gov/study/NCT00352027) | Phase 2 | Completed | 81 | Stanford V with low-dose radiotherapy in intermediate-risk pediatric Hodgkin lymphoma |
-| [NCT00797472](https://clinicaltrials.gov/study/NCT00797472) | Phase 2 | Unknown | 120 | R-mabHD vs ABVD in Hodgkin's disease |
-| [NCT01390584](https://clinicaltrials.gov/study/NCT01390584) | Phase 2 | Terminated | 6 | PET-based response-adapted therapy in bulky stage I/II classical Hodgkin lymphoma |
+| [NCT00002471](https://clinicaltrials.gov/study/NCT00002471) | Phase 2 | Completed | Not reported | Intensive short-course combination chemotherapy for poor-risk non-lymphoblastic lymphoma, acute B-lymphoblastic leukemia and recurrent non-Hodgkin lymphoma (1990–2003). Daunorubicin's individual contribution is unclear. |
+| [NCT00002691](https://clinicaltrials.gov/study/NCT00002691) | Phase 2 | Completed | Not reported | LSA5 multi-agent protocol for advanced pediatric and adolescent non-Hodgkin lymphoma (1995–2000). Targets NHL, not Hodgkin lymphoma. |
 
 ---
 
@@ -86,50 +74,52 @@ All trials below use doxorubicin (Adriamycin), not daunorubicin, so they support
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [39413375](https://pubmed.ncbi.nlm.nih.gov/39413375/) | 2024 | RCT | N Engl J Med | Nivolumab + AVD in advanced-stage classic Hodgkin lymphoma (doxorubicin backbone) |
-| [35830649](https://pubmed.ncbi.nlm.nih.gov/35830649/) | 2022 | RCT follow-up | N Engl J Med | Overall survival with brentuximab vedotin + AVD vs ABVD in stage III/IV disease |
-| [9387047](https://pubmed.ncbi.nlm.nih.gov/9387047/) | 1997 | Phase 2 single-arm | Invest New Drugs | Liposomal daunorubicin in 19 relapsed/refractory lymphoma patients: 1 complete and 2 partial responses at the higher dose; no cardiac deterioration seen |
-| [28365830](https://pubmed.ncbi.nlm.nih.gov/28365830/) | 2017 | Review | Curr Oncol Rep | Risk-adapted and response-adapted therapy and the role of radiotherapy in early-stage Hodgkin lymphoma |
-| [14584273](https://pubmed.ncbi.nlm.nih.gov/14584273/) | 2003 | Review | Gan To Kagaku Ryoho | Haematologic tumour chemotherapy overview: daunorubicin and cytarabine in AML; ABVD as first-line therapy for advanced Hodgkin lymphoma |
-| [378369](https://pubmed.ncbi.nlm.nih.gov/378369/) | 1979 | Review | Cancer Treat Rep | Roles and limitations of daunorubicin and adriamycin in cancer treatment (no abstract available) |
-| [36271128](https://pubmed.ncbi.nlm.nih.gov/36271128/) | 2022 | Retrospective cohort | Sci Rep | Interim PET/CT predicts outcome in 245 Hodgkin lymphoma patients treated with ABVD |
-| [24220522](https://pubmed.ncbi.nlm.nih.gov/24220522/) | 2013 | Review | Br J Hosp Med | Classical Hodgkin lymphoma: past, present and future perspectives |
-| [21774715](https://pubmed.ncbi.nlm.nih.gov/21774715/) | 2011 | Commentary | N Engl J Med | Hodgkin's lymphoma as a model for progress in cancer treatment |
-| [32053083](https://pubmed.ncbi.nlm.nih.gov/32053083/) | 2020 | Preclinical | Anticancer Agents Med Chem | Benzisothiazolone derivatives inhibit NF-κB and are synergistic with doxorubicin and etoposide in Hodgkin lymphoma cells |
+| [30231396](https://pubmed.ncbi.nlm.nih.gov/30231396/) | 2018 | Review | ASCO Educational Book | Anthracyclines (including daunorubicin) are the backbone of regimens for childhood leukemia and Hodgkin lymphoma; cardiotoxicity limits their use. |
+| [17610809](https://pubmed.ncbi.nlm.nih.gov/17610809/) | 2007 | Systematic review | Health Technol Assess | Evaluates cardioprotection against anthracycline toxicity in children with cancer. |
+| [14584273](https://pubmed.ncbi.nlm.nih.gov/14584273/) | 2003 | Review | Gan To Kagaku Ryoho | Current first-line therapy for advanced Hodgkin's lymphoma is ABVD; also covers daunorubicin's role in AML. |
+| [10410671](https://pubmed.ncbi.nlm.nih.gov/10410671/) | 1999 | Review | Gan To Kagaku Ryoho | Overview of hematologic tumor chemotherapy, including standard Hodgkin regimens. |
+| [11699226](https://pubmed.ncbi.nlm.nih.gov/11699226/) | 2001 | Clinical study | Leuk Lymphoma | Liposomal daunorubicin in COP-X for poor-prognosis NHL: 81% response (26 of 32 evaluable patients). |
+| [11398876](https://pubmed.ncbi.nlm.nih.gov/11398876/) | 2001 | Clinical study | Ann Oncol | Liposomal daunorubicin in relapsed or refractory NHL. |
+| [9387047](https://pubmed.ncbi.nlm.nih.gov/9387047/) | 1997 | Clinical study | Invest New Drugs | Liposomal daunorubicin in 19 patients with relapsed or refractory lymphoma; mild non-hematologic toxicity, with 1 complete and 2 partial responses at the higher dose. |
+| [3855571](https://pubmed.ncbi.nlm.nih.gov/3855571/) | 1985 | Clinical study | Scand J Haematol | Intermediate/high-dose ARA-C with m-AMSA or daunorubicin in relapsed acute leukemia and lymphoblastic NHL: 18 of 27 patients reached complete remission. |
+| [378369](https://pubmed.ncbi.nlm.nih.gov/378369/) | 1979 | Review | Cancer Treat Rep | Analysis of the roles and limitations of daunorubicin and adriamycin in cancer treatment. |
+
+Note: none of the retrieved studies directly evaluates daunorubicin in Hodgkin's lymphoma. The clinical studies are in non-Hodgkin lymphoma or leukemia.
 
 ---
 
 ## US Market Information
 
-The license data does not include approved indication text for any record.
-
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA 050731 | Daunorubicin Hydrochloride (Hikma Pharmaceuticals USA Inc.) | Injection | Not listed |
-| ANDA 208759 | Daunorubicin Hydrochloride (Hisun Pharmaceuticals USA, Inc.) | Injection, solution | Not listed |
-| ANDA 065035 | Daunorubicin Hydrochloride (Meitheal Pharmaceuticals Inc.) | Injection, solution | Not listed |
+| NDA050731 | Daunorubicin Hydrochloride (Hikma) | Injection | Not available (cancelled) |
+| ANDA208759 | Daunorubicin Hydrochloride (Hisun) | Injection, solution | Not available (cancelled) |
+| ANDA065035 | Daunorubicin Hydrochloride (Meitheal) | Injection, solution | Not available (cancelled) |
 
-The Hikma and Hisun records each appear twice in the source data, so the five records cover three distinct applications.
+All three authorizations are cancelled, so no valid single-agent or combination license is currently listed.
 
 ---
 
 ## Cytotoxicity
 
-The entries below are based on general knowledge of the anthracycline class, not on data in the Evidence Pack. They must be confirmed against the package insert.
-
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (anthracycline; DNA intercalation and topoisomerase II inhibition) |
-| Myelosuppression Risk | High (dose-limiting toxicity for the class) |
+| Cytotoxicity Classification | Conventional cytotoxic (anthracycline; DNA intercalator and topoisomerase II inhibitor) |
+| Myelosuppression Risk | High (anthracyclines commonly cause severe myelosuppression; please refer to the package insert) |
 | Emetogenicity Classification | Moderate |
-| Monitoring Items | CBC with differential, cardiac function (e.g., LVEF), liver and renal function |
+| Monitoring Items | CBC with differential, liver and renal function, cardiac function (e.g., echocardiography/LVEF), cumulative anthracycline dose |
 | Handling Protection | Must follow cytotoxic drug handling regulations |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindication signals (from the knowledge graph, not label text)**: neutropenia and related congenital neutropenia syndromes, agranulocytosis, cardiomyopathy (including hypertrophic cardiomyopathy and endomyocardial fibrosis), ventricular tachycardia, heart conduction disease, sudden cardiac arrest, liver disease, kidney disease, and infectious disease (including fungal infections). These should be verified against the official label.
+- **Drug Interactions**: 100 interactions were recorded; those reviewed include:
+  - **Major**: cisapride, dolasetron, papaverine, deferiprone, macimorelin
+  - **Moderate**: famotidine, loperamide, clarithromycin, levofloxacin, ondansetron, granisetron, palonosetron, eliglustat, rolapitant
+  - **Minor**: metronidazole
+- Official package-insert warnings and contraindications were not available in the data compiled for this report. Please refer to the package insert for safety information.
 
 ---
 
@@ -138,16 +128,18 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is very high (99.81%). However, the supporting trials and papers involve doxorubicin-based regimens, and no daunorubicin-specific Hodgkin evidence was found. The package insert warnings and contraindications are also missing, which blocks the safety screening stage. At present this is a research question, not a development candidate.
+The evidence is only Phase 2 combination protocols and non-Hodgkin lymphoma or liposomal-formulation studies, with no direct daunorubicin data in Hodgkin's lymphoma. Doxorubicin already fills the anthracycline role in standard Hodgkin regimens. Safety data are incomplete, the drug's US licenses are all cancelled, and the cardiac and myelosuppression risks are significant.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings, contraindications, and approved indications (download and parse the label PDFs)
-- Mechanism of action data from DrugBank
-- A literature review of daunorubicin-specific use in Hodgkin lymphoma, including liposomal formulations
-- A comparison of cardiotoxicity and cumulative-dose considerations between daunorubicin and doxorubicin in Hodgkin regimens
-- Manual review of the 40 trials whose relevance grade is still pending
+- FDA package-insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism-of-action data
+- Direct clinical evidence for daunorubicin in Hodgkin's lymphoma, and a rationale for choosing it over doxorubicin
+- A cardiotoxicity and cumulative-dose risk assessment
+- Clarification of the regulatory and supply situation, given that all US licenses are cancelled
 
-This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.
+---
+
+*Other predicted indications (neuroblastoma, small cell lung carcinoma, pulmonary blastoma, ALK-positive large B-cell lymphoma, and others) currently have only indirect, preclinical, or no supporting evidence and are not evaluated in this report.*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

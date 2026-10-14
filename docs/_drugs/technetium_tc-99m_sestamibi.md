@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Technetium Tc-99M Sestamibi
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1203
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 ---
 
 # Technetium Tc-99M Sestamibi
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,64 +33,77 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Technetium Tc-99m Sestamibi is a radioactive diagnostic imaging agent, marketed in the US as a kit for injection. Its listed uses in the source material are perfusion and parathyroid imaging.
-The TxGNN model predicts it may be relevant to **homozygous familial hypercholesterolemia (HoFH)**, but only **1 publication** (a case report) and **0 clinical trials** support this, so the prediction is not backed by clinical evidence.
+Technetium Tc-99m sestamibi is a diagnostic radiopharmaceutical supplied as an injectable kit, and the data compiled for this report do not list a specific approved indication for it.
+The TxGNN model's top prediction is **homozygous familial hypercholesterolemia**, but **no clinical trials and no publications** support it.
+The only prediction with any literature is **multiple endocrine neoplasia** (rank 2, **2 publications**), and that is a diagnostic use, not a therapeutic one.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the US license records; diagnostic imaging agent (myocardial perfusion / parathyroid imaging) |
+| Original Indication | Not specified in the available license data |
 | Predicted New Indication | Homozygous familial hypercholesterolemia |
 | TxGNN Prediction Score | 99.93% |
-| Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 3 (all listed as ANDAs) |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 3 (all cancelled; listed as ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Sestamibi is a diagnostic radiopharmaceutical rather than a therapeutic drug. It is used to image tissue, not to treat disease.
+Detailed mechanism of action data is not currently available. Based on known information, Tc-99m sestamibi is a lipophilic cation that accumulates in tissue in proportion to mitochondrial content and blood flow. It is used as an imaging agent, not as a lipid-modifying or therapeutic drug.
 
-The only supporting record is a 2015 case report. In a patient whose HoFH diagnosis was delayed, Tc-99m MIBI myocardial perfusion imaging was used alongside 18F-FDG PET to assess cardiac involvement. This is incidental diagnostic use for cardiovascular complications of HoFH, not a disease-specific mechanism.
+For homozygous familial hypercholesterolemia, no mechanism links a diagnostic tracer to cholesterol metabolism. The high TxGNN score is most likely an artifact of the knowledge graph. At most, myocardial perfusion imaging could help assess coronary disease in these patients. That would be a diagnostic use, not therapeutic repurposing.
 
-The very high TxGNN score is therefore not supported by clinical evidence. Scores across all of this drug's predicted indications are saturated near 0.997–0.999, so they do not discriminate well between candidates.
+The other top-10 predictions follow a similar pattern:
+- **Lipid disorders** (hypoalphalipoproteinemia, obsolete familial combined hyperlipidemia): no plausible link to a diagnostic tracer. The "obsolete" disease term should be excluded from further review.
+- **Cerebrovascular conditions** (cerebral infarction, stroke disorder, cerebral arterial disease): the three overlap and appear to be the same graph-derived artifact. Sestamibi has no neuroprotective or thrombolytic action.
+- **Cytomegalovirus infection**: no antiviral mechanism. Its status as a P-glycoprotein substrate does not translate into antiviral activity.
+- **Prinzmetal angina**: perfusion imaging could in principle show transient ischemia, but this is diagnostic only and unsupported by retrieved evidence.
+- **Gastrin secretion abnormality**: only a loose association via gastrinoma in MEN1, and neuroendocrine imaging relies on other agents.
+- **Multiple endocrine neoplasia** (rank 2): the most biologically plausible. Sestamibi accumulates in mitochondria-rich, hyperfunctioning parathyroid tissue, which is relevant to the hyperparathyroidism seen in MEN1 and MEN2A. This is largely an extension of existing parathyroid imaging, and sensitivity is reduced in multiglandular disease, which is typical of MEN.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials registered for the top-ranked prediction or for any other prediction in the top 10.
 
 ## Literature Evidence
 
+The top-ranked prediction (homozygous familial hypercholesterolemia) has no related literature. The only literature in the data supports the rank 2 prediction, multiple endocrine neoplasia:
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [26298359](https://pubmed.ncbi.nlm.nih.gov/26298359/) | 2015 | Case report | Int J Cardiol | 18F-FDG PET and Tc-99m MIBI myocardial perfusion imaging used in a patient with delayed diagnosis of HoFH (summarized from the title; no abstract available) |
+| [10896380](https://pubmed.ncbi.nlm.nih.gov/10896380/) | 2000 | Cohort (presumed, retrospective surgical series) | Archives of Surgery | Preoperative sestamibi scanning in MEN1 patients with recurrent hyperparathyroidism. Little or no value when 4 or more hypertrophied glands are present. High sensitivity and specificity with SPECT once 3 or more glands have been removed, which supports limited re-exploration. |
+| [10807279](https://pubmed.ncbi.nlm.nih.gov/10807279/) | 2000 | Cohort (presumed, retrospective surgical series) | Archives of Surgery | Combined use of sestamibi scintigraphy, intraoperative gamma probe and rapid parathyroid hormone assay in hyperparathyroidism. Hypothesized to be particularly useful in patients needing reoperation. Not MEN-specific. |
+
+Both study designs are presumed from truncated titles, and MEN-specific cohort sizes cannot be confirmed.
 
 ## US Market Information
 
+All three authorizations are cancelled, and none is currently valid. No approved indication text was available for any of them.
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA079157 | Kit for the Preparation of Technetium Tc99m Sestamibi (Sun Pharmaceutical Industries) | Injection | Not specified in source data |
-| ANDA078809 | Kit for the Preparation of Technetium Tc99m Sestamibi (Cardinal Health 414) | Injection, powder, lyophilized, for solution | Not specified in source data |
-| ANDA078806 | Technetium Tc 99m Sestamibi (Jubilant Draximage) | Injection, powder, for solution | Not specified in source data |
+| ANDA079157 | Kit for the Preparation of Technetium Tc99m Sestamibi (Sun Pharmaceutical Industries) | Injection | Not available (cancelled) |
+| ANDA078809 | Kit for the Preparation of Technetium Tc99m Sestamibi (Cardinal Health 414) | Injection, powder, lyophilized, for solution | Not available (cancelled) |
+| ANDA078806 | Technetium Tc 99m Sestamibi (Jubilant Draximage) | Injection, powder, for solution | Not available (cancelled) |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Please refer to the package insert for safety information. No drug-drug interactions were found in the data compiled for this report, and no disease contraindications were identified from the knowledge graph.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The only evidence for HoFH is a single case report of incidental diagnostic use. There are no registered trials and no plausible disease-specific mechanism, so the high model score is not clinically supported.
+The top-ranked prediction has no clinical, literature or mechanistic support. The high score is most likely a knowledge-graph artifact, because a diagnostic tracer has no lipid-modifying action. The only prediction with literature, multiple endocrine neoplasia, concerns parathyroid localization, a diagnostic use that largely extends existing imaging practice rather than a new therapy. It is best treated as a research question (L3), not a repurposing candidate.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data and the approved indication text
-- Any prospective study showing a diagnostic role specific to HoFH
-
-For context, other predictions for this drug have more support. Multiple endocrine neoplasia (parathyroid localization) has cohort studies and case reports (L3) and is rated "Proceed with Guardrails". That use would be diagnostic only, as adjunctive pre-operative localization.
+- The FDA package insert (warnings, contraindications and approved indications), which is a blocking gap for safety screening
+- Mechanism of action data, for example from DrugBank
+- For MEN, full-text review of the two studies to confirm design and MEN-specific cohort sizes, and a decision on whether a diagnostic-use question is in scope
+- Confirmation of why all US licenses are cancelled, and whether other marketed sestamibi products exist
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

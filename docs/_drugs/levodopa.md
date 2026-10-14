@@ -29,32 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Levodopa: From Dopamine Replacement to Rasmussen Subacute Encephalitis
+# Levodopa: From Parkinson Disease to Rasmussen Subacute Encephalitis
 
 ## One-Sentence Summary
 
-Levodopa is a dopamine precursor that is marketed in the United States in several dosage forms.
-The TxGNN model predicts it may be effective for **Rasmussen subacute encephalitis**, but this rests only on a knowledge-graph score.
-There are **0 clinical trials** and **0 publications** supporting this direction.
+Levodopa is a dopamine precursor, originally used to treat Parkinson disease and related parkinsonian syndromes.
+The TxGNN model predicts it may be effective for **Rasmussen subacute encephalitis**,
+but there are currently **0 clinical trials** and **0 publications** supporting this direction. The prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Parkinson disease and related parkinsonian syndromes |
 | Predicted New Indication | Rasmussen subacute encephalitis |
 | TxGNN Prediction Score | 99.06% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (all listed authorizations are cancelled) |
+| Number of NDAs | 12 (listed authorizations, including NDAs and ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Levodopa is a dopamine precursor. Its approved indication text is also missing from the US licensing records supplied, so the original clinical use cannot be confirmed from this data.
+Currently, detailed mechanism of action data is not available. Based on known information, levodopa is a dopamine precursor that acts on dopaminergic signaling in the nigrostriatal pathway. Its efficacy in Parkinson disease and related parkinsonian syndromes is established.
 
-Rasmussen encephalitis is a chronic, usually unilateral, T-cell-mediated inflammatory brain disease. It causes intractable focal seizures, progressive hemiparesis and cognitive decline. No direct link between dopaminergic replacement and this immune-mediated pathology has been established, and levodopa has no known effect on the underlying inflammation.
+Rasmussen encephalitis is a rare, chronic, unilateral inflammatory brain disease. It is thought to be driven by T-cell-mediated (cytotoxic CD8+) neuroinflammation with astrocyte and neuronal loss. It presents with intractable focal seizures, progressive hemiparesis and cognitive decline. **No direct mechanistic link between the two has been established.**
 
-The high score most likely reflects shared neurological features or neighboring genes in the knowledge graph. This is a hypothesis-generating signal only, and it does not amount to a mechanistic rationale. Similarity to the original indication and route compatibility have not yet been assessed.
+Possible indirect overlap is limited to dopaminergic modulation of neuroinflammation, or to the treatment of secondary movement abnormalities such as hemiparkinsonism or dystonia. This is speculative and unsupported by data. The high score (0.99) is likely driven by network proximity to the parkinsonism-related original indications (for example, hemiparkinsonism-hemiatrophy syndrome). It should not be read as clinical evidence.
 
 ## Clinical Trial Evidence
 
@@ -66,37 +67,46 @@ Currently no related literature available.
 
 ## US Market Information
 
-The record lists 20 authorizations in total. The distinct main entries are shown below, and the indication text is empty in the source data.
+The data compiled for this report list 12 authorizations, all with cancelled status and no approved indication text. The main ones are shown below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| Not listed | L-Dopa (Deseret Biologicals, Inc.) | Liquid | Not stated in record |
-| Not listed | L-Dopa (Professional Complementary Health Formulas) | Liquid | Not stated in record |
-| Not listed | L DOPA (BioActive Nutritional, Inc.) | Liquid | Not stated in record |
-| NDA209184 | Inbrija (Merz Pharmaceuticals, LLC) | Capsule | Not stated in record |
-
-Other levodopa dosage forms in the record are oral capsule, tablet, extended-release tablet, orally disintegrating tablet and extended-release capsule.
+| NDA209184 | Inbrija | Capsule | Not stated |
+| NDA203312 | RYTARY | Capsule, extended release | Not stated |
+| ANDA077828 | Carbidopa and Levodopa | Tablet, extended release | Not stated |
+| ANDA078690 | Carbidopa and Levodopa | Tablet, orally disintegrating | Not stated |
+| ANDA214092 | Carbidopa and Levodopa | Tablet | Not stated |
 
 ## Safety Considerations
 
-- **Seizure-prone patients**: Rasmussen encephalitis presents with refractory seizures, so levodopa's safety in this population would need review before any further work.
+Package insert warnings and contraindications were not available for this report. Please refer to the package insert for label safety information.
 
-For all other safety information, please refer to the package insert. No drug interaction records were found.
+- **Disease-level contraindication signals (knowledge graph, not label text)**: The knowledge graph links levodopa to contraindications in several categories:
+  - Cardiovascular: myocardial infarction, coronary thrombosis, sudden cardiac arrest, heart conduction disease, orthostatic hypotension, postural orthostatic tachycardia syndrome, multiple system atrophy
+  - Psychiatric: psychotic disorder, schizophreniform disorder, schizoaffective disorder, mental disorder, anxiety disorder, neurotic disorder, dysthymic disorder
+  - Glaucoma: open-angle and angle-closure glaucoma
+  - Gastrointestinal and hepatic: peptic ulcer disease, gastric ulcer, liver disease, gallbladder disease, diarrheal disease
+  - Other: epilepsy, drug-induced dyskinesia, kidney disease, diabetes mellitus, diabetic ketoacidosis, melanoma, hemoglobinopathy
+
+  Epilepsy is particularly relevant here, because seizures are a core feature of Rasmussen encephalitis.
+- **Drug Interactions** (100 interactions found; examples from the first 20 records returned):
+  - Moderate: epinephrine, ephedrine, bupropion, metronidazole, pyridoxine, iron, metoclopramide, and anticholinergics (atropine, hyoscyamine, methscopolamine, glycopyrronium, dicyclomine, clidinium, mepenzolate)
+  - Minor: antacids (aluminum hydroxide, calcium carbonate, magaldrate, magnesium carbonate, magnesium hydroxide, magnesium oxide)
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a high TxGNN score. There are no clinical trials or publications, no mechanism links dopaminergic therapy to an immune-mediated encephalitis, and safety in a seizure-prone population is unreviewed.
+The prediction is supported only by the TxGNN model score (L5). There are no registered clinical trials or publications, no established mechanistic link, and no mechanism-of-action data. Levodopa also carries a knowledge-graph contraindication signal for epilepsy, the main manifestation of Rasmussen encephalitis. In addition, all 12 listed US authorizations are cancelled.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (currently blocking the safety screening)
-- Mechanism of action data, for example from DrugBank
-- A systematic literature search for any levodopa use in Rasmussen encephalitis or related epilepsy and neuroinflammation
-- Evidence of a plausible mechanistic link to T-cell-mediated brain inflammation
-- A seizure-risk safety review for this patient population
-- Assessment of similarity to the original indication and of route compatibility
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism-of-action data for levodopa
+- A literature and trial search on dopaminergic therapy in Rasmussen encephalitis, and on neuroinflammation more broadly
+- Preclinical or mechanistic studies supporting a link to T-cell-mediated neuroinflammation
+- Route and formulation compatibility assessment for the new indication
+- Clarification of the current US market and regulatory status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

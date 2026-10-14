@@ -29,39 +29,40 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-# Rufinamide: From Antiseizure Therapy to Febrile Infection-Related Epilepsy Syndrome
+# Rufinamide: From Lennox-Gastaut Syndrome to Febrile Infection-Related Epilepsy Syndrome
 
 ## One-Sentence Summary
 
-Rufinamide is a marketed antiseizure medication. The provided data does not list its approved indication text.
-The TxGNN model predicts it may be effective for **febrile infection-related epilepsy syndrome (FIRES)**, but **0 clinical trials** and **0 publications** currently support this prediction.
+Rufinamide is an anti-seizure medicine originally used to treat Lennox-Gastaut syndrome.
+The TxGNN model predicts it may be effective for **febrile infection-related epilepsy syndrome (FIRES)**,
+but the data compiled for this report contain **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the provided data (generally known as an antiseizure drug) |
+| Original Indication | Lennox-Gastaut syndrome (from the knowledge graph; no approved-indication text is available in the US license records) |
 | Predicted New Indication | Febrile infection-related epilepsy syndrome |
 | TxGNN Prediction Score | 99.57% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (the listed licenses are generic ANDAs) |
+| US Market Status | ✗ Cancelled only (all licenses cancelled) |
+| Number of NDAs | 12 (1 NDA and 11 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, rufinamide is an antiseizure sodium-channel modulator. Its use in seizure disorders is established, and mechanistically it may be applicable to FIRES. This link cannot be verified from the provided data.
+Detailed mechanism-of-action data are not available in the data compiled for this report. Based on general pharmacological knowledge, rufinamide is a sodium channel modulator that prolongs the inactive state of voltage-gated sodium channels. Its efficacy in Lennox-Gastaut syndrome has been established, so it may plausibly provide broad anti-seizure activity in other severe epilepsies.
 
-FIRES is a severe, refractory epilepsy syndrome. The high score likely reflects the drug's similarity to other antiseizure drugs in the knowledge graph, not disease-specific evidence.
+The link to FIRES is weak, however. FIRES is a refractory status epilepticus driven largely by neuroinflammation, and sodium channel blockers generally offer limited benefit in it. No trials or literature were found to support the prediction, so the high score (0.996) cannot yet be tied to a credible mechanism.
 
-The model also ranked four other epilepsy-related conditions highly. All have no trials or publications, and three share the identical score of 99.44%, which suggests a shared graph-neighborhood signal.
+Other top-ranked predictions are also epilepsy syndromes with equally high scores and no supporting evidence:
 
-| Rank | Predicted Indication | TxGNN Score | Evidence Level |
+| Rank | Predicted Indication | Score | Mechanistic Comment |
 |------|------|------|------|
-| 2 | Perioral myoclonia with absences | 99.51% | L5 |
-| 3 | Photosensitive occipital lobe epilepsy | 99.44% | L5 |
-| 4 | Cryptogenic late-onset epileptic spasms | 99.44% | L5 |
-| 5 | Atypical childhood epilepsy with centrotemporal spikes | 99.44% | L5 |
+| 2 | Perioral myoclonia with absences | 99.51% | Sodium channel blockers can aggravate absence-type seizures, so this is a safety concern |
+| 3 | Photosensitive occipital lobe epilepsy | 99.44% | Plausible, since focal seizures are commonly treated with sodium channel blockers; theoretical only |
+| 4 | Cryptogenic late-onset epileptic spasms | 99.44% | Some biological proximity to Lennox-Gastaut syndrome; inferential only |
+| 5 | Atypical childhood epilepsy with centrotemporal spikes | 99.44% | Some sodium channel blockers can worsen atypical forms, so the fit is uncertain |
 
 ## Clinical Trial Evidence
 
@@ -73,34 +74,44 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| ANDA216841 | Rufinamide | Suspension | NorthStar Rx LLC |
-| ANDA217230 | Rufinamide | Tablet, film coated | Aurobindo Pharma Limited |
-| ANDA204988 | Rufinamide | Tablet, film coated | Hikma Pharmaceuticals USA Inc. |
-| ANDA211388 | Rufinamide | Suspension | Bionpharma Inc. |
+All 12 US licenses are cancelled; none are currently valid. The data compiled for this report do not include approved-indication text. Up to 5 of the licenses are listed below.
 
-Approved indication text is not included in the provided data. Available forms are oral tablets and suspension.
+| Authorization Number | Product Name | Dosage Form | Status |
+|---------|------|------|-----------|
+| NDA021911 | Banzel (Tjoapack LLC) | Film-coated tablet | Cancelled |
+| ANDA204988 | Rufinamide (Hikma) | Film-coated tablet | Cancelled |
+| ANDA204993 | Rufinamide (Camber) | Film-coated tablet | Cancelled |
+| ANDA205075 | Rufinamide (Glenmark) | Film-coated tablet | Cancelled |
+| ANDA211388 | Rufinamide (Bionpharma) | Suspension | Cancelled |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug-interaction records were found in the queried source.
+- **Disease associations flagged in the knowledge graph (not label text):** liver failure, liver disease, gallbladder disease, leukopenia, anxiety disorder, neurotic disorder and dysthymic disorder. These come from knowledge-graph contraindication edges and should be verified against the package insert.
+- **Drug Interactions:** 100 interactions were found, and the 20 reviewed are all rated Moderate. Examples include:
+  - Corticosteroids (hydrocortisone, prednisone, betamethasone, triamcinolone)
+  - Vitamin D analogues (cholecalciferol, calcifediol, calcitriol)
+  - Bupropion
+  - Pioglitazone
+  - Morphine
+  - Ondansetron
+  - Metoclopramide
+- **Class-level concern:** For some of the predicted indications (perioral myoclonia with absences, atypical childhood epilepsy with centrotemporal spikes), sodium channel blockers may aggravate seizures. This needs review before any further consideration.
+
+Please refer to the package insert for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on model score alone, with no clinical trials, no literature, and no verified mechanism. FIRES is a severe, refractory condition, so an unsupported prediction should not be acted on.
+The prediction has only a model score (L5) behind it, with no clinical trials or publications. The mechanistic link to FIRES is weak, and all US licenses are currently cancelled.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data (for example from DrugBank) to assess the mechanistic link to FIRES
-- Approved indication text, to define the original indication
-- A search for case reports, case series, or registered trials of rufinamide in FIRES
-- A route and formulation compatibility assessment for FIRES treatment settings
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- A systematic search of clinical trials and literature for rufinamide in FIRES and the other predicted epilepsy syndromes
+- Detailed mechanism-of-action data, and an assessment of whether sodium channel modulation is relevant to neuroinflammatory epilepsy
+- The package insert warnings and contraindications, for a formal safety screen
+- Clarification of the cancelled US license status and the commercial availability of rufinamide
+- A seizure-aggravation risk review for the absence-type and atypical epilepsy predictions
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

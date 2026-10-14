@@ -29,85 +29,87 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Meclizine: From Motion Sickness to Allergic Urticaria
+# Meclizine: From Vertigo and Motion Sickness to Allergic Urticaria
 
 ## One-Sentence Summary
 
-Meclizine is an oral antihistamine-class drug marketed in the US, and its product labels (e.g., "Motion Sickness Relief", Dramamine) point to motion sickness use.
-The TxGNN model predicts it may be effective for **allergic urticaria**,
-but there are currently **0 clinical trials** and **0 publications** supporting this specific prediction, so it rests on model prediction alone.
-
----
+Meclizine is a first-generation antihistamine originally used to treat vertigo of central nervous system origin and motion sickness.
+The TxGNN model predicts it may be effective for **allergic urticaria**, but there are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model score and drug-class reasoning alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Motion sickness (inferred from product names; no approved indication text was supplied) |
+| Original Indication | Central nervous system origin vertigo; motion sickness |
 | Predicted New Indication | Allergic urticaria |
 | TxGNN Prediction Score | 99.67% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 licenses in total (mix of NDA, ANDA and OTC monograph products) |
+| US Market Status | Cancelled only (no currently valid authorizations) |
+| Number of NDAs | 7 licenses listed (all cancelled) |
 | Recommended Decision | Hold |
 
----
+Other predicted indications, all also at L5 with a Hold recommendation:
+
+| Rank | Predicted Indication | TxGNN Score |
+|------|------|------|
+| 2 | Common cold | 99.49% |
+| 3 | Nasal cavity disease | 99.48% |
+| 4 | Pharyngitis | 99.45% |
+| 5 | Acute laryngopharyngitis | 99.37% |
+| 6 | Cold urticaria | 99.22% |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Meclizine is generally known as a first-generation H1 antihistamine, and its efficacy in its original use is established. Mechanistically, it may be applicable to histamine-mediated conditions such as allergic urticaria. This link is inferred from drug class and is not supported by data in the Evidence Pack.
+Detailed mechanism of action data is not available for this report. Based on known information, meclizine is a first-generation H1-antihistamine with anticholinergic activity. Its efficacy in vertigo and motion sickness is established, and mechanistically, histamine-receptor blockade may be applicable to histamine-mediated conditions such as allergic urticaria.
 
-Allergic urticaria is driven by histamine release, and H1 antihistamines are the standard drug class for it. That makes the prediction biologically plausible. The very high TxGNN score (0.997) is a model output only. It is not confirmation of clinical benefit.
+The link between the original and new indications is indirect. Vertigo and motion sickness are treated mainly through central antihistaminic and anticholinergic effects, whereas urticaria is driven by histamine release in the skin. Both share the H1-receptor pathway, which is why the prediction is biologically plausible. However, this reasoning comes from drug class and the model prediction, not from drug-specific evidence.
 
-Better-characterized antihistamines are already available for urticaria. Any development case for meclizine would need to show a clear advantage over them.
-
----
+There are also practical concerns. Established H1-antihistamines already exist for urticaria, including newer non-sedating agents that are generally preferred, so the added value of meclizine is unclear. For respiratory-tract predictions (common cold, pharyngitis, laryngopharyngitis, nasal cavity disease), any benefit would be symptomatic only, such as drying of secretions, and would not address the underlying cause.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for allergic urticaria.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+All seven licenses in the data compiled for this report are cancelled. No approved indication text is recorded for any of them.
+
+| Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| M009 | Dramamine Less Drowsy Meclizine Hydrochloride | Tablet | — |
-| NDA010721 | Meclizine Hydrochloride | Tablet | — |
-| ANDA213957 | Meclizine Hydrochloride | Tablet | — |
-| part336 | Motion Sickness Relief | Tablet, chewable | — |
-| M009 | Meclizine Hydrochloride | Tablet, chewable | — |
+| M009 | Dramamine Less Drowsy Meclizine Hydrochloride | Tablet | Cancelled |
+| NDA010721 | Meclizine Hydrochloride | Tablet | Cancelled |
+| ANDA213957 | Meclizine Hydrochloride | Tablet | Cancelled |
+| part336 | Motion Sickness Relief | Chewable tablet | Cancelled |
+| ANDA201451 | Meclizine Hydrochloride | Tablet | Cancelled |
 
-Approved indication text was not included in the supplied records. All available forms are oral (tablet, chewable tablet, film-coated tablet).
-
----
+Two further cancelled licenses are not shown: M002 (Motion Sickness Relief, film-coated tablet) and ANDA040659 (Meclizine Hydrochloride, tablet). All available forms are oral.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug interaction records were found in the supplied data.
+- **Contraindication-related conditions (from the knowledge graph, not label text)**: benign prostatic hyperplasia, angle-closure glaucoma, pyloric stenosis, and bladder neck obstruction. These are consistent with the drug's anticholinergic activity.
+- **Drug Interactions**: 100 interactions were identified. The ones listed below are the most notable.
+  - **Major**: potassium citrate and potassium chloride.
+  - **Moderate**: anticholinergics (hyoscyamine, atropine, glycopyrronium, dicyclomine, trospium, clidinium, mepenzolate, methscopolamine), opioids (morphine, opium, loperamide), and others including metoclopramide, nabilone, eliglustat, eluxadoline, and glycerol phenylbutyrate. Additive anticholinergic and sedative effects are the main concern.
 
----
+Package insert warnings and contraindications were not available for this report. Please refer to the package insert for complete safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is mechanistically plausible but has no supporting trials or literature (L5, model prediction only). The next-ranked candidate, common cold, has one linked trial (NCT01537471), but it studies pre-pulse inhibition rather than the cold, so it gives no support either. Meclizine would also have to compete with established antihistamines for urticaria.
+The prediction (score 99.67%) is supported only by class-level reasoning, with no clinical trials or publications for meclizine in this indication. All US licenses are cancelled, and effective alternatives already exist for urticaria.
 
 **To proceed, the following is needed:**
-- Mechanism of action data (e.g., H1 receptor affinity and anticholinergic profile)
-- Package insert warnings and contraindications for safety screening
-- A literature and trial search specific to meclizine in urticaria
-- A comparison against standard antihistamines for urticaria to define any differentiated value
-- Approved indication text for the US labels, to confirm the original indication
+- Literature and trial searches specific to meclizine in urticaria (and the other predicted indications)
+- Mechanism of action data to support the mechanistic link
+- Package insert warnings and contraindications for formal safety screening
+- A comparison against established non-sedating antihistamines to show added value
+- Assessment of the current US market and regulatory pathway, given that all licenses are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

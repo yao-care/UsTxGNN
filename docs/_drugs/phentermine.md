@@ -33,88 +33,72 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 ## One-Sentence Summary
 
-Phentermine is an oral sympathomimetic appetite suppressant, generally used for weight management. The TxGNN model predicts it may be effective for **hypervitaminosis**, but there are currently **0 clinical trials** and **0 publications** supporting this direction. This is a model-only prediction.
-
----
+Phentermine is a sympathomimetic appetite suppressant, originally used for obesity and related conditions (hypotensive disorder, monogenic obesity).
+The TxGNN model predicts it may be effective for **Hypervitaminosis**,
+but **0 clinical trials** and **0 publications** currently support this prediction, and no plausible pharmacological rationale has been identified.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Obesity disorder (hypotensive disorder and monogenic obesity are also listed as original indications; no approved indication text is available in the US license data) |
 | Predicted New Indication | Hypervitaminosis |
 | TxGNN Prediction Score | 99.57% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (the listed licenses are generic ANDAs) |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 11 (all cancelled; listed as ANDAs) |
 | Recommended Decision | Hold |
-
-The original indication is not stated in the US license records supplied. The "obesity" framing in the title comes from the drug's known use as an appetite suppressant.
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the source record. Phentermine is known as a sympathomimetic amine that mainly releases norepinephrine, and it is used to suppress appetite. Nothing in this pharmacology relates to vitamin excess or vitamin clearance.
+Currently, detailed mechanism of action data is not available. Based on known information, phentermine is a sympathomimetic amine that promotes norepinephrine release and suppresses appetite. Its use in obesity is well established.
 
-**No plausible mechanistic link to hypervitaminosis was identified.** Vitamin toxicity is usually managed by stopping the offending vitamin and giving supportive care, so a drug-based indication is implausible. The high score (99.57%) reflects a knowledge-graph association only, with no clinical data behind it.
+However, hypervitaminosis results from excess vitamin intake or accumulation, and appetite suppression does not address it. No plausible mechanistic link was identified, and the high TxGNN score (99.57%) appears to be a graph-based prediction without pharmacological support. It should be treated as a hypothesis-generating signal only.
 
-The other three TxGNN predictions are also weak:
-
-- **Proximal 16p11.2 microdeletion syndrome (99.49%):** This has a loose thematic link, because the syndrome is associated with early-onset obesity and hyperphagia. It is speculative. The syndrome also involves neurodevelopmental features (autism spectrum, seizure susceptibility, ADHD-like symptoms), where a stimulant-like agent raises safety concerns.
-- **Obsolete hypertelorism (99.41%):** The ontology term is deprecated, so this is likely an artifact. It should be remapped or excluded.
-- **Frontorhiny (99.04%):** This is a congenital craniofacial malformation with no plausible link to an appetite suppressant.
-
----
+Other predictions from the model fall into two groups:
+- **Proximal 16p11.2 microdeletion syndrome** (99.49%): This is an indirect and speculative link. The syndrome is associated with severe early-onset obesity, so symptomatic weight management is conceptually plausible, and this likely reflects the original monogenic obesity indication. The drug would treat only the obesity phenotype, not the underlying genetic disorder. Neurodevelopmental, cardiovascular and psychiatric comorbidities raise safety concerns for a stimulant.
+- **Obsolete hypertelorism (disease)** (99.41%) and **frontorhiny** (99.04%): These are craniofacial structural anomalies with no mechanistic link. The first term is obsolete in the ontology, so its prediction may be an artifact.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|------|
-| ANDA205019 | Phentermine Hydrochloride | Capsule | Bryant Ranch Prepack |
-| ANDA205008 | Phentermine hydrochloride | Tablet | Proficient Rx LP |
-| ANDA202248 | Phentermine Hydrochloride | Capsule | Bryant Ranch Prepack |
-| ANDA040887 | Phentermine Hydrochloride | Capsule | PD-Rx Pharmaceuticals, Inc. |
-| ANDA203436 | Phentermine Hydrochloride | Tablet | KVK-TECH, Inc. |
+All 11 US authorizations for phentermine hydrochloride are cancelled, and no approved indication text is available for them. Five of them are listed below.
 
-These are 5 of 20 licenses. All are oral (capsule or tablet). The approved-indication text is empty in the supplied records.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA205019 | Phentermine Hydrochloride (Bryant Ranch Prepack) | Capsule | Not available |
+| ANDA205008 | Phentermine Hydrochloride (Proficient Rx LP) | Tablet | Not available |
+| ANDA202248 | Phentermine Hydrochloride (Bryant Ranch Prepack) | Capsule | Not available |
+| ANDA040887 | Phentermine Hydrochloride (PD-Rx Pharmaceuticals) | Capsule | Not available |
+| ANDA203436 | Phentermine Hydrochloride (KVK-TECH) | Tablet | Not available |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No warning, contraindication or drug interaction data were available in the source record.
+- **Contraindications (from the knowledge graph, not label text)**: Hypertension and hypertensive disorder, congestive heart failure, pulmonary hypertension, cardiovascular and heart disease, heart valve disease, heart conduction disease, sudden cardiac arrest, arteriosclerosis obliterans, psychotic and other mental disorders (schizophreniform and schizoaffective disorder), substance abuse/dependence, type 1 diabetes and diabetic ketoacidosis, glaucoma, hyperthyroidism (Graves disease, thyrotoxicosis), and preeclampsia.
+- **Drug Interactions**: 100 interactions were found. Major interactions include **tramadol**, **bupropion** and **methylene blue**. Moderate interactions include other sympathomimetics (phenylephrine, pseudoephedrine, epinephrine, isometheptene), beta-agonists (salbutamol, formoterol, arformoterol), opioids (fentanyl, alfentanil), antidiabetic agents (metformin, pioglitazone, acarbose, alogliptin, albiglutide), amitriptyline, amifampridine and ethanol.
 
----
+Please refer to the package insert for official warnings and contraindications, as label data was not available for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a knowledge-graph score, with no trials or literature. No plausible mechanistic link to hypervitaminosis exists, and vitamin toxicity is managed by stopping the vitamin. No further evaluation is justified at this stage.
+The prediction rests on a model score alone (L5), with no clinical trials or literature, and no plausible mechanism links appetite suppression to hypervitaminosis. All US licenses are cancelled, and the drug's cardiovascular and psychiatric safety profile adds further caution.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, which are a blocking gap for safety screening
-- Detailed mechanism of action data from DrugBank
-- Evidence of any biological rationale linking phentermine to vitamin excess, if one exists
-- Remapping of the obsolete hypertelorism term to a current ontology term before any review of that prediction
-- A dedicated pediatric and neurodevelopmental safety review before any work on the 16p11.2 microdeletion candidate
-
----
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
+- A documented mechanistic rationale for hypervitaminosis (or confirmation that the prediction is a graph artifact)
+- Mechanism of action data for phentermine
+- FDA package insert warnings and contraindications for safety screening
+- Any supporting preclinical or clinical evidence
+- If the 16p11.2 microdeletion syndrome direction is pursued instead, a dedicated cardiovascular and neuropsychiatric safety assessment for a stimulant in that population
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

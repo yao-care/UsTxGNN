@@ -29,33 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Flurbiprofen: From NSAID Anti-Inflammatory Therapy to Acromesomelic Dysplasia, Hunter-Thompson Type
+# Flurbiprofen: From Rheumatoid Arthritis and Osteoarthritis to Acromesomelic Dysplasia, Hunter-Thompson Type
 
 ## One-Sentence Summary
 
-Flurbiprofen is a non-steroidal anti-inflammatory drug (NSAID) used for pain and inflammation, and it is marketed in the US as tablets and ophthalmic drops.
-The TxGNN model predicts it may be effective for **acromesomelic dysplasia, Hunter-Thompson type**, a rare genetic skeletal disorder.
-This prediction has **0 clinical trials** and **0 publications** behind it, so it is a model output only.
+Flurbiprofen is a nonsteroidal anti-inflammatory drug (NSAID) originally used for rheumatoid arthritis, osteoarthritis and related joint disorders.
+The TxGNN model's top-ranked prediction is **acromesomelic dysplasia, Hunter-Thompson type**, a rare genetic skeletal disorder.
+This prediction has **no supporting clinical trials and no publications**, so it rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the supplied US license records |
+| Original Indication | Rheumatoid arthritis, osteoarthritis, arthropathy (from knowledge-graph indication data; the US authorization records contain no indication text) |
 | Predicted New Indication | Acromesomelic dysplasia, Hunter-Thompson type |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 10 (the five listed licenses are ANDAs) |
+| US Market Status | Cancelled only (no active authorizations) |
+| Number of NDAs | 3 (all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the supplied record. Flurbiprofen belongs to the NSAID class, which works by non-selective COX-1/COX-2 inhibition and so reduces prostaglandin-mediated inflammation and pain.
+Currently, detailed mechanism of action data is not available in the compiled data. Based on general pharmacology, flurbiprofen is a non-selective COX-1/COX-2 inhibitor. It reduces prostaglandin-mediated inflammation and pain, and its efficacy in inflammatory and degenerative joint disease is well established.
 
-Acromesomelic dysplasia, Hunter-Thompson type, is a rare genetic skeletal dysplasia in the CDMP1/GDF5 pathway. COX inhibition has no plausible disease-modifying link to this pathway.
+The predicted indication is a different kind of disease. Acromesomelic dysplasia, Hunter-Thompson type, is a genetic skeletal disorder linked to the CDMP1/GDF5 pathway. It is a developmental defect, not a COX-dependent inflammatory condition. There is no recognized mechanistic reason for an NSAID to alter its course.
 
-The very high score most likely reflects proximity to other skeletal phenotypes in the knowledge graph rather than real pharmacology. The prediction should be treated as a probable graph artifact until independent evidence appears.
+The high score most likely reflects proximity in the knowledge graph between this drug and skeletal or joint-related phenotypes, not a pharmacological rationale. The prediction should be treated as a computational signal, not as evidence of benefit.
 
 ## Clinical Trial Evidence
 
@@ -69,29 +69,37 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA074447 | Flurbiprofen Sodium (Proficient Rx LP) | Solution/drops | Not provided in the record |
-| ANDA074447 | Flurbiprofen Sodium (Bausch & Lomb Incorporated) | Solution/drops | Not provided in the record |
-| ANDA074447 | Flurbiprofen Sodium (Amici Pharmaceuticals LLC) | Solution/drops | Not provided in the record |
-| ANDA074431 | Flurbiprofen (Genus Lifesciences) | Tablet | Not provided in the record |
-| ANDA074431 | Flurbiprofen (Bryant Ranch Prepack) | Tablet, film coated | Not provided in the record |
+| ANDA074447 | Flurbiprofen Sodium | Solution/drops | Not listed (cancelled) |
+| ANDA074431 | Flurbiprofen | Tablet | Not listed (cancelled) |
+| Not available | Rinol-STroche | Troche | Not listed (cancelled) |
+
+All three authorizations are cancelled, so no active US product is currently on the market.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug interaction records were found in the supplied data.
+- **Contraindication signals (knowledge-graph associations, not label text):** hypertension and hypertensive disorders, kidney disease, liver disease, gallbladder disease, peptic ulcer disease (including active), blood coagulation disease, myocardial infarction, coronary thrombosis, cardiovascular and heart disease, hemoglobinopathy, pyoureter, and substance abuse/dependence.
+- **Drug Interactions:** The data compiled for this report records 100 interactions. The first 20 reviewed are mostly Moderate, with a few Minor.
+  - **Moderate:** acetylsalicylic acid, corticosteroids (hydrocortisone, dexamethasone, betamethasone, triamcinolone, budesonide), metformin, sulfonylureas (glimepiride, chlorpropamide), mesalazine, balsalazide, aprepitant, potassium citrate, potassium bicarbonate, picosulfuric acid, sodium sulfate, and polyethylene glycol with electrolytes.
+  - **Minor:** famotidine, cimetidine, linaclotide.
+
+Please refer to the package insert for official warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no trials or literature and no plausible mechanism. It is Level L5, a model prediction only, so it should not advance.
+The top prediction has only a model score behind it, with no trials, no literature and no plausible NSAID mechanism for a genetic skeletal developmental disorder. All US authorizations are also cancelled, which further limits practical development.
+
+**Other findings from the data:**
+The lower-ranked prediction **ankylosing spondylitis** (rank 8, score 99.97%) has about 20 publications. These are mostly 1974-1986 double-blind comparisons of flurbiprofen against indomethacin, phenylbutazone and naproxen, which found comparable pain relief. This is Evidence Level L3 pending verification of study design. However, it is a symptomatic use within the NSAID class and overlaps with the drug's original rheumatic indications, so it is an expansion within the same therapeutic area and not a novel repurposing.
 
 **To proceed, the following is needed:**
-- The package insert (warnings, contraindications and labeled indications), which is currently missing and blocks safety screening
-- Mechanism of action data from DrugBank
-- Any independent evidence, such as case reports or preclinical data, linking COX inhibition to this condition
-
-**Note on other predictions:** Among the ten predicted indications for this drug, only **ankylosing spondylitis** (rank 8, score 99.97%) has supporting evidence. It has 20 PMIDs, including several 1974–1986 double-blind comparative trials against indomethacin, phenylbutazone and naproxen. It is rated L2 and "Proceed with Guardrails". It is probably an established NSAID use rather than true repurposing, so check it against the label and the full texts. It would be the better candidate for a dedicated report.
+- Obtain the FDA package insert to verify warnings and contraindications. This is required before any safety screening.
+- Obtain mechanism of action data from DrugBank.
+- Confirm the study designs (randomization, blinding) of the ankylosing spondylitis comparisons if that indication is pursued instead.
+- Identify any preclinical rationale linking COX inhibition to the predicted skeletal dysplasia before further investment.
+- Reassess regulatory and commercial feasibility given the cancelled-only market status.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

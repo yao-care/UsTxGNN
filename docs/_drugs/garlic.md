@@ -29,13 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Garlic: From Marketed Garlic Products (No Stated Indication) to Gastrin Secretion Abnormality
+# Garlic: From an Unspecified Original Indication to Gastrin Secretion Abnormality
 
 ## One-Sentence Summary
 
-Garlic (*Allium sativum*, DrugBank DB10532) is marketed in the US, mainly as pellet products, but no approved indication text is listed in the supplied data.
-The TxGNN model predicts it may be relevant to **gastrin secretion abnormality**, with a very high score (99.96%).
-There are currently **0 clinical trials** and **0 publications** supporting this specific prediction, so it rests on the model alone.
+Garlic (DrugBank DB10532) is listed in the US only through three cancelled allergenic-extract and homeopathic product licenses, and no approved indication text is on record.
+The TxGNN model ranks **gastrin secretion abnormality** as its top prediction, but there are **0 clinical trials** and **0 publications** supporting it.
+The better-supported prediction for this drug is **cerebral infarction**, with 10 publications, mostly animal studies and reviews.
 
 ---
 
@@ -43,56 +43,79 @@ There are currently **0 clinical trials** and **0 publications** supporting this
 
 | Item | Content |
 |------|------|
+| Original Indication | Not available (no approved indication text on the US licenses) |
 | Predicted New Indication | Gastrin secretion abnormality |
-| TxGNN Prediction Score | 99.96% (model rank 1549) |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| TxGNN Prediction Score | 99.96% |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only |
+| Number of NDAs | 3 (all cancelled; listed as BLA or unnumbered licenses) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Garlic is a natural product with many marketed forms, but no approved indication is recorded in the supplied data. The link between garlic and gastrin secretion abnormality is therefore not supported by any mechanistic or clinical information here.
+Currently, detailed mechanism of action data is not available for garlic. The data compiled for this report contain no link between garlic and gastrin regulation. The TxGNN score is very high (99.96%), but there are no trials or publications behind it, so the prediction is purely computational. Garlic is a complex natural product rather than a single molecule, which makes a mechanistic argument even harder to build.
 
-The prediction comes from the TxGNN knowledge-graph model alone. No trials or publications were retrieved, and the supplied data documents no mechanism connecting garlic to gastrin regulation.
+Other predictions are better supported:
 
-Because the score is high but the evidence is empty, this should be treated as a hypothesis for further study, not a supported repurposing candidate.
+- **Cerebral infarction (L4):** Rodent ischemia/reperfusion models show that aged garlic extract, S-allyl cysteine, diallyl sulfide and allicin reduce infarct size, oxidative damage and apoptosis. Reviews also describe antiatherosclerotic and cardiovascular-protective effects. There are no human stroke outcome data, so this evidence is indirect.
+- **Endometriosis of uterus (L4):** One 2013 in vitro study of aged black garlic extract on human endometrial stromal cells showed reduced proliferation and lower ICAM-1/VCAM-1 expression.
+- **HIV infectious disease (L4):** There is some preclinical and review support for antiviral activity of garlic organosulfur compounds. However, the dominant signal is a safety concern: garlic supplements can lower antiretroviral exposure, notably saquinavir.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials are registered for gastrin secretion abnormality.
+
+For reference, the only trial found across the top 10 predictions was for HIV infectious disease:
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT00029250](https://clinicaltrials.gov/study/NCT00029250) | Phase 2 | Withdrawn | 0 | Randomized, placebo-controlled study of garlic pills for HAART-induced hyperlipidemia in HIV-positive people; withdrawn, so no results |
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature is available for gastrin secretion abnormality.
+
+For reference, the most relevant publications for the best-supported alternative, cerebral infarction:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [29557277](https://pubmed.ncbi.nlm.nih.gov/29557277/) | 2018 | Review | Neurological Research | Garlic extract favorably affects atherosclerosis, hypertension and diabetes, and may lower the risk of myocardial infarction and ischemic stroke |
+| [26598900](https://pubmed.ncbi.nlm.nih.gov/26598900/) | 2015 | Review | J Nutr Sci Vitaminol | Garlic-derived sulfur compounds and prevention of cardiovascular disease |
+| [26561055](https://pubmed.ncbi.nlm.nih.gov/26561055/) | 2016 | Clinical/intervention | Curr Pharm Des | Time-released garlic powder lowered blood pressure (about 4–5%) and showed antiatherosclerotic effects |
+| [21850441](https://pubmed.ncbi.nlm.nih.gov/21850441/) | 2011 | Animal | Plant Foods Hum Nutr | Aged garlic extract reduced cerebral damage and COX-2 induction after ischemia/reperfusion in rats |
+| [19577455](https://pubmed.ncbi.nlm.nih.gov/19577455/) | 2010 | Animal | Phytomedicine | Aged garlic extract delayed the appearance of infarct area in a rat cerebral ischemia model |
+| [26045182](https://pubmed.ncbi.nlm.nih.gov/26045182/) | 2015 | Animal | Mol Med Rep | Allicin protected against ischemic stroke in a rat MCAO model |
+| [25393425](https://pubmed.ncbi.nlm.nih.gov/25393425/) | 2015 | Preclinical | J Neurochem | S-allyl cysteine activated the Nrf2 antioxidant response and protected neurons from ischemic injury |
+| [22196859](https://pubmed.ncbi.nlm.nih.gov/22196859/) | 2012 | Animal | Neurological Research | Diallyl sulfide was neuroprotective via anti-apoptosis in rat focal cerebral ischemia |
+| [22348462](https://pubmed.ncbi.nlm.nih.gov/22348462/) | 2012 | Animal | Nutrition Research | S-allyl cysteine reduced oxidative damage and improved neurologic deficit in rats |
+| [19401183](https://pubmed.ncbi.nlm.nih.gov/19401183/) | 2009 | Animal | Brain Research | S-allyl L-cysteine diminished ischemia-induced mitochondrial dysfunction in the hippocampus |
 
 ---
 
 ## US Market Information
 
+All three US licenses are cancelled, and none carries approved indication text.
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| Not listed | Allium Sativum (Hahnemann Laboratories, INC.) | Pellet | Not stated |
-| Not listed | Allium sativum (Boiron) | Pellet | Not stated |
-| Not listed | Allium Sativum (Hahnemann Laboratories, INC.) | Pellet | Not stated |
-| Not listed | Allium Sativum (Hahnemann Laboratories, INC.) | Pellet | Not stated |
-| Not listed | Allium sativum (Boiron) | Pellet | Not stated |
-
-The 20 authorizations in total also include other forms: injection (solution), solution, liquid, ointment and solution/drops.
+| Not available | Allium Sativum (Hahnemann Laboratories) | Pellet | Not available |
+| BLA103753 | Garlic (ALK-Abello) | Injection, solution | Not available |
+| BLA101833 | Garlic (Greer Laboratories) | Solution | Not available |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions:** 71 interactions are recorded. Most are minor and involve antidiabetic agents (for example metformin, pioglitazone, glimepiride, repaglinide) and insulins. One moderate interaction is listed, with acetylsalicylic acid.
+- **Other signals from the literature:** Garlic may have antiplatelet effects and a bleeding risk, which matters with anticoagulants and in stroke care. Garlic supplements can also reduce antiretroviral exposure (for example saquinavir and darunavir).
 
-The supplied drug-interaction query returned no records. However, literature retrieved for other predicted indications (for example HIV) reports that garlic supplements can lower exposure to some antiretrovirals, such as saquinavir. Garlic may also affect platelet function. Any future study should assess interaction and bleeding risk.
+Please refer to the package insert for warnings and contraindications, which are not available in the data compiled for this report.
 
 ---
 
@@ -101,18 +124,13 @@ The supplied drug-interaction query returned no records. However, literature ret
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a high model score but no trials, no publications and no documented mechanism. The evidence level is L5, and package-insert safety information is missing.
+The top prediction, gastrin secretion abnormality, rests on a computational score alone, with no trials, no literature and no mechanistic link. The product has no active US license, and warning and contraindication data are missing.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (currently blocking safety screening)
-- Mechanism of action data (for example from DrugBank)
-- A literature and trial search specific to gastrin secretion abnormality
-- Identification of which garlic product and route would be studied
-
-**Note on other predicted indications for garlic:**
-- **Cerebral infarction** has the most preclinical support (L4), from rodent ischemia models and reviews, but no registered trials. It is better suited to a research question than to this indication.
-- **HIV infectious disease** has interaction-safety signals that outweigh any efficacy signal.
-- **Endometriosis** has only one in vitro study.
+- Mechanism of action data for garlic and its active compounds (for example allicin and S-allyl cysteine)
+- Package insert warnings and contraindications for a safety screen
+- A decision on whether to pursue cerebral infarction, the better-supported candidate (L4), as a research question instead, ideally with human outcome data
+- A bleeding and interaction risk assessment, including antiplatelet effects, anticoagulants and antiretrovirals
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,83 +29,78 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Rotigotine: From Parkinson's Disease and Restless Legs Syndrome to Attention Deficit-Hyperactivity Disorder
+# Rotigotine: From Restless Legs Syndrome and Parkinson Disease to Attention Deficit-Hyperactivity Disorder
 
 ## One-Sentence Summary
 
-Rotigotine is a dopamine agonist delivered as a skin patch, used for Parkinson's disease and restless legs syndrome.
-The TxGNN model predicts it may be effective for **attention deficit-hyperactivity disorder (ADHD)**, but there are currently **0 clinical trials** and only **3 indirect publications** (two RLS reviews and one preclinical study), so this is a hypothesis rather than a supported finding.
-
----
+Rotigotine is a dopamine agonist originally used to treat Parkinson disease and restless legs syndrome.
+The TxGNN model predicts it may be effective for **attention deficit-hyperactivity disorder (ADHD)**,
+but there are currently **0 clinical trials** and only **3 publications** (reviews and mechanistic studies) behind this prediction, so it remains a hypothesis-level finding.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Parkinson's disease and restless legs syndrome (per the literature record, PMID 37221270; the license records list no indication text) |
+| Original Indication | Restless legs syndrome, Parkinson disease (the US license record contains no approved indication text) |
 | Predicted New Indication | Attention deficit-hyperactivity disorder |
 | TxGNN Prediction Score | 99.997% |
 | Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 6 license records (all listed under NDA021829) |
+| US Market Status | Cancelled only (the single NDA is cancelled) |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Rotigotine is a non-ergot dopamine agonist. It acts on dopamine receptors D1 through D5, mainly D3, D2 and D1, and also has some serotonergic and alpha-2B activity. The structured mechanism field is empty, so this description comes from the repurposing analysis.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on the literature retrieved, rotigotine is a dopamine agonist that acts on D1 to D5 receptors, with notable activity at D3, D2 and D1. It also shows some activity at 5-HT1A and alpha-2B adrenergic receptors.
 
-ADHD is linked to dopaminergic and noradrenergic dysfunction, so a dopamine-acting drug is a plausible but indirect fit. The retrieved literature covers restless legs syndrome, including in children. RLS is a related comorbidity but not ADHD. One preclinical paper on α2A-adrenoceptor/D4 dopamine receptor heteromerization supports biological plausibility only.
+ADHD involves dysregulation of dopamine and noradrenaline signalling. The retrieved literature discusses heteromerization between the dopamine D4 receptor and the α2A adrenoceptor, both of which have been genetically linked to ADHD. In addition, restless legs syndrome (one of rotigotine's original indications) frequently co-occurs with ADHD, and the two conditions share dopaminergic involvement.
 
-Several points weigh against the prediction:
-- Rotigotine's approved profile contains no ADHD efficacy data.
-- Standard ADHD therapy works by blocking dopamine and norepinephrine reuptake, not by direct D2/D3 agonism.
-
----
+This is indirect, hypothesis-level support. No ADHD-specific rotigotine data are available, so the link remains a research question rather than an established finding.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [21476956](https://pubmed.ncbi.nlm.nih.gov/21476956/) | 2011 | Review | Current Pharmaceutical Design | Review of pharmacological options for restless legs syndrome in children. It concerns RLS, not ADHD. |
-| [18656214](https://pubmed.ncbi.nlm.nih.gov/18656214/) | 2008 | Review | Revue Neurologique | General review of restless legs syndrome (clinical features, prevalence 2–3% in Western countries). Not ADHD-specific. |
-| [34182128](https://pubmed.ncbi.nlm.nih.gov/34182128/) | 2021 | Preclinical (in vitro) | Pharmacological Research | Heteromerization of α2A adrenoceptors with dopamine D4 receptor variants alters pharmacology. It notes the D4.7 variant and α2A gene are associated with ADHD. Biological plausibility only. |
+| [18656214](https://pubmed.ncbi.nlm.nih.gov/18656214/) | 2008 | Review | Revue neurologique | Overview of restless legs syndrome, a sensorimotor disorder affecting 2–3% of people in Western countries |
+| [21476956](https://pubmed.ncbi.nlm.nih.gov/21476956/) | 2011 | Review | Current pharmaceutical design | Review of pharmacological options for restless legs syndrome in children |
+| [34182128](https://pubmed.ncbi.nlm.nih.gov/34182128/) | 2021 | Preclinical/Mechanistic | Pharmacological research | Heteromerization of α2A adrenoceptors with dopamine D4 receptor variants; relevant to ADHD and impulse-control disorders |
 
----
+None of these publications tests rotigotine in ADHD.
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA021829 (5 identical records listed; UCB, Inc.) | Neupro | Extended-release patch | Not stated in the record; see the package insert |
-
----
+| NDA021829 (cancelled) | Neupro (UCB, Inc.) | Patch, extended release | Not stated in the license record |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Disease-level contraindication signals (knowledge graph, not label text)**: hypertensive disorder, hypertension, multiple system atrophy, postural orthostatic tachycardia syndrome, orthostatic hypotension, drug-induced dyskinesia.
+- **Drug Interactions**: 51 interactions were identified, and the 20 listed are all rated Moderate. They include:
+  - Opioids and related drugs: morphine (including liposomal), codeine, opium, difenoxin, diphenoxylate
+  - Cannabinoids: dronabinol, nabilone
+  - Sedating antihistamines: promethazine, chlorpheniramine, cetirizine, brompheniramine, carbinoxamine, clemastine, azelastine (nasal)
+  - Others: metoclopramide, sibutramine, ethanol, dextromethorphan, ioflupane I-123
 
----
+Please refer to the package insert for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The high TxGNN score is not backed by any clinical trial or direct rotigotine evidence for ADHD, and the mechanism differs from standard ADHD therapy. The other top predictions are weaker still: schizophrenia (also L4) carries a risk that dopamine agonists worsen psychosis, and the rest have no supporting literature or trials (L5).
+The TxGNN score is very high (99.997%), but there are no clinical trials and the literature is indirect: two restless legs reviews and one receptor-level preclinical study. The evidence level is L4, with no rotigotine-specific ADHD data. Moreover, the only US NDA is cancelled.
 
 **To proceed, the following is needed:**
-- The FDA package insert warnings and contraindications, currently missing. This blocks safety screening.
-- Detailed mechanism-of-action data from DrugBank.
-- Preclinical or early clinical evidence that rotigotine has an effect in ADHD, such as animal models or a pilot study.
-- An assessment of whether a dopamine agonist patch is appropriate for the ADHD population, including pediatric safety and abuse or impulse-control risks.
+- Rotigotine-specific preclinical or clinical data in ADHD
+- Detailed mechanism of action data, especially for D4 and α2 receptor activity
+- FDA package insert warnings and contraindications
+- Review of the knowledge-graph contraindication signals (hypertension, orthostatic hypotension) and the moderate drug interactions, particularly for a paediatric ADHD population
+- Clarification of the regulatory and formulation situation, given the cancelled US license
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

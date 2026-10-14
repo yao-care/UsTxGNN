@@ -29,41 +29,42 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-# Fosinopril: From Its Marketed ACE-Inhibitor Use to Malignant Hypertensive Renal Disease
+# Fosinopril: From Hypertension to Malignant Hypertensive Renal Disease
 
 ## One-Sentence Summary
 
-Fosinopril is an oral ACE inhibitor marketed in the US as generic tablets, but the supplied data do not list its approved indication text.
-The TxGNN model predicts it may be useful for **malignant hypertensive renal disease**.
-This is a **model prediction only**: there are **0 clinical trials** and **0 publications** supporting it.
+Fosinopril is an ACE inhibitor originally used to treat hypertension.
+The TxGNN model predicts it may be effective for **malignant hypertensive renal disease**,
+but there are currently **0 clinical trials** and **0 publications** supporting this specific prediction, so it rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Hypertension (hypertensive disorder) |
 | Predicted New Indication | Malignant hypertensive renal disease |
-| TxGNN Prediction Score | 99.87% (rank 3983) |
+| TxGNN Prediction Score | 99.87% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (the sampled licenses are all ANDAs, i.e. generics) |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 4 (all cancelled; listed as ANDAs) |
 | Recommended Decision | Hold |
-
-The original indication is not shown because the input has no original indications and every license's approved-indication text is blank.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, fosinopril is an ACE inhibitor, so it blocks the renin-angiotensin-aldosterone system (RAAS). Malignant hypertension with renal injury is plausibly RAAS-driven, so the prediction is not implausible on its face. This link comes from the drug class, not from the supplied data.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, fosinopril is an ACE inhibitor, its efficacy in hypertension is established, and mechanistically it may be applicable to hypertension-driven renal disease.
 
-There are several reasons for caution:
-- Malignant hypertension is an acute emergency that usually needs parenteral therapy. An oral ACE inhibitor is unlikely to be a first-line option.
-- ACE inhibitors can precipitate acute renal failure in patients with bilateral renal artery stenosis or stenosis in a solitary kidney. This matters for renovascular forms of malignant hypertension and would need explicit review.
-- The TxGNN score is a knowledge-graph output with no clinical support behind it.
+Malignant hypertensive renal disease is a severe kidney complication of very high blood pressure, and activation of the renin-angiotensin-aldosterone system (RAAS) plays a central role. Blocking this pathway with an ACE inhibitor is therefore biologically plausible.
 
-The other four predictions also have no trial evidence, and they are weaker still:
-- **Malignant renovascular hypertension** (99.87%): plausible through RAAS, but with the same renal-safety concern.
-- **Pulmonary hypertension with unclear multifactorial mechanism** (99.87%): no clear mechanistic link. ACE inhibitors are not established therapy for pulmonary hypertension.
-- **Pulmonary hypertension owing to lung disease and/or hypoxia** (99.87%): 20 publications were retrieved, but they are general hypoxia biology papers (brain aging, HIF signaling, cancer, multiple sclerosis) and none studies fosinopril. They look like a keyword match and are not counted as evidence. Systemic vasodilation could also worsen ventilation-perfusion mismatch in hypoxic lung disease.
-- **Braddock syndrome** (99.81%): no identifiable mechanistic link. The score is likely a knowledge-graph artifact.
+However, this is better viewed as an extension of the original indication to a more severe form of the same disease than as true repurposing. The only support is the high model score; no trials or publications were found.
+
+Other predicted indications in the data (all L5, all Hold):
+
+| Rank | Predicted Indication | Score | Comment |
+|------|------|------|------|
+| 2 | Malignant renovascular hypertension | 99.87% | RAAS-driven, so plausible. In bilateral renal artery stenosis or a solitary kidney, ACE inhibitors can precipitate acute renal failure, a significant safety concern. |
+| 3 | Pulmonary hypertension, unclear multifactorial mechanism | 99.87% | Only an indirect link; ACE inhibitors have generally not shown clear benefit in pulmonary hypertension. |
+| 4 | Pulmonary hypertension owing to lung disease and/or hypoxia | 99.87% | Theoretical rationale only; the retrieved literature does not support efficacy and includes an adverse-event signal. |
+| 5 | Braddock syndrome | 99.81% | No plausible mechanistic link is evident; likely a knowledge-graph artifact. |
 
 ## Clinical Trial Evidence
 
@@ -71,44 +72,58 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available.
+No literature is available for the top-ranked indication. For the rank 4 indication (pulmonary hypertension owing to lung disease and/or hypoxia), two publications were retrieved, and neither supports efficacy:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [9923037](https://pubmed.ncbi.nlm.nih.gov/9923037/) | 1998 | Case report (adverse event) | Revue des maladies respiratoires | Two patients treated with enalapril and fosinopril for hypertension developed hypoxic eosinophilic pneumonia with sub-acute respiratory failure; improvement followed. This is a safety signal, not evidence of benefit. |
+| [31105790](https://pubmed.ncbi.nlm.nih.gov/31105790/) | 2019 | Preclinical (bioinformatics) | Experimental and therapeutic medicine | Gene-expression analysis of mouse mesangial cells in a diabetic nephropathy context; not relevant to pulmonary hypertension. |
 
 ## US Market Information
 
-The first five of 20 licenses are listed below. Approved-indication text is blank for all of them.
-
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA077222 | Fosinopril Sodium | Tablet | Cipla USA Inc. |
-| ANDA091163 | Fosinopril Sodium | Tablet | Aurobindo Pharma Limited |
-| ANDA077222 | Fosinopril Sodium | Tablet | A-S Medication Solutions |
-| ANDA205670 | Fosinopril sodium | Tablet | Bryant Ranch Prepack |
-| ANDA077222 | Fosinopril Sodium | Tablet | Bryant Ranch Prepack |
+| ANDA077222 (Cipla USA Inc.) | Fosinopril Sodium | Tablet | Not listed (cancelled) |
+| ANDA091163 (Aurobindo Pharma Limited) | Fosinopril Sodium | Tablet | Not listed (cancelled) |
+| ANDA205670 (Bryant Ranch Prepack) | Fosinopril sodium | Tablet | Not listed (cancelled) |
+| ANDA076483 (Chartwell RX, LLC) | Fosinopril Sodium | Tablet | Not listed (cancelled) |
 
-All listed products are oral tablets. ANDA077222 appears three times because of repackagers.
+All four authorizations are single-ingredient oral tablets and all are cancelled.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+**Contraindications / conditions of concern (from a knowledge graph, not label text):**
+- Kidney disease, liver disease, hepatic coma/encephalopathy
+- Pancreatitis, gallbladder disease
+- Angioedema (including hereditary, acquired, and RAAS-blocker-induced forms)
+- Systemic lupus erythematosus and other connective tissue disease
+- Diabetes mellitus, diabetic ketoacidosis, potassium deficiency
+- Neutropenia, agranulocytosis
+- Aortic stenosis and related aortic valve disease
+- Hypotensive disorder
+- Hyperparathyroidism, osteitis fibrosa, bone disease
 
-No drug-interaction records were found in the queried source.
+**Drug Interactions:** 100 interactions were found; the first 20 retrieved are summarized here.
+- **Major:** Potassium bicarbonate, potassium citrate (risk of hyperkalaemia).
+- **Moderate:** Corticosteroids (hydrocortisone, betamethasone, budesonide, triamcinolone, dexamethasone); antidiabetic agents (alogliptin, saxagliptin, metformin, chlorpropamide, canagliflozin, dapagliflozin, empagliflozin); acetylsalicylic acid; bupropion; morphine; dronabinol; bowel-preparation agents (picosulfuric acid, polyethylene glycol with electrolytes).
+
+**Additional concern:** Renovascular disease carries a risk of acute renal failure with ACE inhibition, and a case-report signal of hypoxic eosinophilic pneumonia exists.
+
+Package insert warnings and contraindications were not available. Please refer to the package insert for the official safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All five predictions are L5, with no trials, no drug-specific literature and no mechanism data. The class-based mechanistic link is plausible only for the two hypertension-related renal predictions. Even there, the acute setting, the likely need for parenteral therapy and the renal-artery-stenosis risk argue against advancing now.
+The prediction is supported only by a high model score (99.87%), with no clinical trials or literature. It is largely an extension of the existing hypertension indication, and there are no currently valid US licenses. Safety review cannot proceed without the package insert.
 
 **To proceed, the following is needed:**
-- The package insert warnings and contraindications (a blocking gap for safety screening)
+- FDA package insert warnings and contraindications (blocking gap for safety screening)
 - Mechanism of action data from DrugBank
-- A fosinopril-specific literature search (ACE inhibitors in malignant hypertension and hypertensive nephropathy)
-- A safety review for renal artery stenosis and acute renal failure
-- Confirmation of the original approved indications
-- A route-compatibility assessment (oral tablet versus the parenteral therapy typically needed for malignant hypertension)
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
+- Clinical or observational evidence for ACE inhibitors in malignant hypertensive nephropathy
+- Review of renal safety, especially in renovascular disease
+- Clarification of the regulatory status, since all US licenses are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,12 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Dyclonine: From Topical Anesthesia to Bronchitis
+# Dyclonine: From Dermatitis to Bronchitis
 
 ## One-Sentence Summary
 
-Dyclonine is a topical local anesthetic marketed in the US as oral and skin-surface products such as lozenges, liquids and dental solutions.
-The TxGNN model predicts it may be effective for **bronchitis**, but this is a model prediction only, with **0 clinical trials** and **0 publications** supporting it.
+Dyclonine is a local anesthetic, originally associated with dermatitis in the TxGNN knowledge graph.
+The TxGNN model predicts it may be effective for **Bronchitis** (top-ranked prediction), but **0 clinical trials** and **0 publications** currently support this specific prediction.
+The only indication with any supporting literature among the top 10 predictions is irritable bowel syndrome (1 mechanistic study).
 
 ---
 
@@ -42,37 +43,43 @@ The TxGNN model predicts it may be effective for **bronchitis**, but this is a m
 
 | Item | Content |
 |------|------|
-| Original Indication | Topical local anesthesia (the approved indication text is not listed in the licence records) |
+| Original Indication | Dermatitis (from the knowledge graph; no approved indication text is available in the US license records) |
 | Predicted New Indication | Bronchitis |
 | TxGNN Prediction Score | 99.99% |
-| Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | Cancelled only |
+| Number of NDAs | 3 (all cancelled) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the source record. Dyclonine is generally understood to be a topical local anesthetic that blocks voltage-gated sodium channels, and its use in topical products is established.
+Currently, detailed mechanism of action data is not available. Based on general pharmacology, dyclonine is a local anesthetic that is understood to block voltage-gated sodium channels. This could theoretically dampen the activity of airway sensory nerves and suppress cough.
 
-A theoretical link to bronchitis would be modulation of airway sensory nerves or the cough reflex. This link is speculative. There are no clinical or literature data showing that dyclonine affects cough or airway inflammation. The high TxGNN score most likely reflects proximity in the knowledge graph rather than a demonstrated drug effect.
+The link between dermatitis and bronchitis is weak. The high score most likely reflects proximity in the knowledge graph rather than a validated biological connection. Dyclonine would at most relieve symptoms (such as cough or irritation); there is no basis to expect it to treat the underlying airway inflammation or infection. This rationale is speculative and not supported by data.
 
-The available formulations (lozenge, liquid, dental solution) are for oral or skin-surface use, and no route-compatibility assessment has been done for delivery to the bronchial airways. Exposure at the target site is therefore unclear.
+Other top predictions show the same pattern. Most are skin diseases (dermatomyositis, acrodermatitis chronica atrophicans, acne keloid, hydroa vacciniforme) or other conditions for which no plausible disease-modifying mechanism exists. For these, symptomatic relief of pain or itch is the most that could be argued.
 
-Other predictions in the same candidate list, such as dermatomyositis variants, peptic ulcer disease and irritable bowel syndrome, also have no supporting evidence. The one exception is a single 1996 paper on IBS visceral hypersensitivity (PMID 8907258). It does not provide drug-specific evidence.
+The one prediction with some biological plausibility is **irritable bowel syndrome (IBS)**. Visceral hypersensitivity is a recognized IBS mechanism, and local anesthesia of sensory nerves could theoretically reduce visceral pain signaling.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials registered for bronchitis or for any of the other top 10 predicted indications.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available.
+No literature is available for bronchitis. For the tenth-ranked prediction, irritable bowel syndrome, one publication was found:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [8907258](https://pubmed.ncbi.nlm.nih.gov/8907258/) | 1996 | Mechanistic study | The Journal of the Oklahoma State Medical Association | Studied mucosal application of dyclonine (40 ml enema, versus saline) before rectosigmoid distension in IBS patients and volunteers (n = 10), investigating visceral hypersensitivity. Cutaneous pain thresholds did not differ between groups, whereas IBS patients had a lower pain threshold. The abstract is truncated, so the effect of dyclonine itself cannot be confirmed from the available text. |
+
+This study supports biological plausibility only and is not evidence of efficacy.
 
 ---
 
@@ -80,17 +87,20 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA200480 | DycloPro (Septodont Inc) | Solution | Not listed |
-| M022 | Sucrets Sore Throat Wild Cherry (Insight Pharmaceuticals LLC) | Lozenge | Not listed |
-| M003 | Leader Liquid Bandage (Cardinal Health 110, Inc.) | Liquid | Not listed |
-| M003 | Benzethonium chloride Plus Dyclonine hydrochloride (AmerisourceBergen Drug Corporation) | Liquid | Not listed |
-| M003 | Benzethonium chloride Plus Dyclonine hydrochloride (Kroger Co.) | Liquid | Not listed |
+| ANDA200480 | DycloPro (Septodont Inc) | Solution | Not available (cancelled) |
+| M022 | Sucrets Sore Throat Wild Cherry (Insight Pharmaceuticals LLC) | Lozenge | Not available (cancelled) |
+| M003 | Leader Liquid Bandage (LEADER / Cardinal Health 110, Inc.) | Liquid | Not available (cancelled) |
+
+All three authorizations are cancelled, and no valid single-ingredient or combination products remain on the US market.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug-interaction records were found for dyclonine.
+- **Contraindications (from the knowledge graph, not label text)**: The TxGNN knowledge graph links dyclonine with epilepsy, sudden cardiac arrest, heart conduction disease, and respiratory failure. These are graph-derived associations and should be verified against official labeling.
+- **Drug Interactions**: No interactions were found in the queried database.
+
+Please refer to the package insert for further safety information, including warnings and contraindications.
 
 ---
 
@@ -99,16 +109,15 @@ Please refer to the package insert for safety information. No drug-interaction r
 **Decision: Hold**
 
 **Rationale:**
-The bronchitis prediction rests on the model score alone (evidence level L5). There are no clinical trials or publications, no established mechanism, and no evidence that a topical formulation can reach the airways.
+The bronchitis prediction rests on a model score alone, with no clinical trials, no literature, and only a speculative mechanistic link. The drug's US licenses are all cancelled, and mechanism-of-action and label safety data are missing. Of the top 10 predictions, only irritable bowel syndrome has any supporting study, and it is a single 1996 mechanistic study that does not demonstrate efficacy.
 
 **To proceed, the following is needed:**
-- Mechanism of action data (MOA) and a plausible pathway to airway or cough-reflex modulation
-- Package insert warnings and contraindications, which are needed for safety screening
-- Preclinical or exploratory clinical evidence in bronchitis or cough
-- A route and formulation feasibility assessment for airway delivery
-- Approved indication text for the listed licences, to confirm the original indication
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- Preclinical evidence that dyclonine affects airway sensory nerve activity or cough, if bronchitis is to be pursued
+- A literature and trial search focused on IBS and visceral pain, as this is the most plausible secondary direction (a research question rather than a development candidate at this stage)
+- Assessment of route and formulation feasibility, since the available products were topical or oral-mucosal and none is designed for airway or gastrointestinal delivery
+- Review of the graph-derived contraindications (epilepsy, cardiac conduction disease, respiratory failure), especially relevant for any airway-targeted use
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

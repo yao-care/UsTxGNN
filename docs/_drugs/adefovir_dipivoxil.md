@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Adefovir Dipivoxil
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 214
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Adefovir Dipivoxil
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,8 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Adefovir dipivoxil is an oral nucleotide analog antiviral, established for chronic hepatitis B.
-The TxGNN model predicts it may be effective for **chronic hepatitis C virus infection**, but **0 of the 10 retrieved clinical trials and 0 of the retrieved publications test adefovir in HCV**. All are HBV studies or general viral hepatitis reviews, so the prediction is best viewed as a graph-embedding artifact.
+Adefovir dipivoxil is an oral antiviral originally used to treat chronic hepatitis B virus infection.
+The TxGNN model predicts it may be effective for **chronic hepatitis C virus infection**, but there are currently **0 registered clinical trials** and **10 publications** for this indication. None of the publications tests adefovir against hepatitis C, so the prediction rests on the model score alone.
 
 ---
 
@@ -42,61 +42,47 @@ The TxGNN model predicts it may be effective for **chronic hepatitis C virus inf
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the US license record. Other records in the pack describe chronic hepatitis B as the established marketed use |
+| Original Indication | Chronic hepatitis B virus infection |
 | Predicted New Indication | Chronic hepatitis C virus infection |
 | TxGNN Prediction Score | 99.97% |
-| Evidence Level | L4 (no HCV-specific study; only HBV-related and mechanism-adjacent material) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 1 (ANDA202051) |
+| Evidence Level | L4 |
+| US Market Status | ✗ Cancelled only |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the record. Adefovir is known as an acyclic nucleotide analog. Its active diphosphate metabolite inhibits DNA polymerase and reverse transcriptase and terminates the viral DNA chain. This underlies its activity against HBV, including lamivudine-resistant strains.
+Currently, detailed mechanism of action data is not available in the compiled data. From general pharmacology, adefovir dipivoxil is a prodrug of adefovir, an acyclic nucleotide analogue. Its active form inhibits the DNA polymerase/reverse transcriptase of hepatitis B virus (HBV) and terminates the growing DNA chain.
 
-HBV and HCV are both hepatotropic viruses that cause chronic viral hepatitis, and they sit close together in the knowledge graph. That proximity most likely explains the very high score. Mechanistically, however, HCV is an RNA virus that replicates through the NS5B RNA-dependent RNA polymerase, so there is no plausible direct target for adefovir.
+Hepatitis B and hepatitis C are both chronic viral liver diseases, so their treatments are discussed together in many reviews. The high TxGNN score probably reflects this closeness in the knowledge graph rather than a shared drug target.
 
-The retrieved evidence agrees with this. The trials are HBV, HIV/HBV or interferon-based studies, and the literature covers HBV or general viral hepatitis. Nothing shows adefovir efficacy against HCV.
+The mechanistic link is weak. Hepatitis C virus (HCV) is an RNA virus that replicates through its own RNA-dependent RNA polymerase (NS5B), which is a different target from the one adefovir acts on. The literature retrieved for this prediction concerns hepatitis B or general viral hepatitis and does not show adefovir working against HCV. The prediction should therefore be treated as a computational signal only.
 
 ---
 
 ## Clinical Trial Evidence
 
-None of these trials evaluates adefovir for HCV. They were retrieved through HBV or "chronic hepatitis" keyword matching.
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT00973219](https://clinicaltrials.gov/study/NCT00973219) | Not applicable | Completed | 151 | Peg-interferon plus adefovir or tenofovir vs no treatment in HBeAg-negative chronic hepatitis B with low viral load; no HCV endpoint |
-| [NCT02560649](https://clinicaltrials.gov/study/NCT02560649) | Phase 4 | Unknown | 324 | Response-guided add-on of PEG-IFN in nucleoside-analog-treated HBeAg-positive hepatitis B patients |
-| [NCT00013702](https://clinicaltrials.gov/study/NCT00013702) | Phase 2 | Completed | 30 | Adefovir added to lamivudine for HBV in HIV-infected patients with decompensated liver disease; not an HCV study |
-| [NCT00275938](https://clinicaltrials.gov/study/NCT00275938) | Phase 2/3 | Completed | 120 | Interferon alpha-2b plus ribavirin pilot in chronic hepatitis B; adefovir not tested |
-| [NCT00371761](https://clinicaltrials.gov/study/NCT00371761) | Phase 3 | Completed | 25 | PegIntron vs adefovir 10 mg in HBeAg-positive hepatitis B in Taiwan |
-| [NCT01925820](https://clinicaltrials.gov/study/NCT01925820) | Phase 4 | Unknown | 540 | Pegasys plus entecavir vs entecavir vs Pegasys in HBeAg-negative hepatitis B |
-| [NCT00645294](https://clinicaltrials.gov/study/NCT00645294) | Phase 1/2 | Completed | 47 | Single-dose pharmacokinetics and safety of adefovir in children and adolescents with hepatitis B |
-| [NCT01205165](https://clinicaltrials.gov/study/NCT01205165) | Phase 4 | Completed | 104 | Antiviral effect of adefovir over 12 and 52 weeks in Korean hepatitis B patients |
-| [NCT00810524](https://clinicaltrials.gov/study/NCT00810524) | Phase 4 | Unknown | 600 | Early vs conventional antiviral treatment and 10-year prognosis in chronic HBV |
-| [NCT00051077](https://clinicaltrials.gov/study/NCT00051077) | Phase 2 | Withdrawn | 0 | Adefovir, peginterferon and ribavirin in HBV/HCV/HIV triple infection; withdrawn with no participants and no data |
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
-None of these publications reports adefovir efficacy against HCV.
+None of the publications below evaluates adefovir for hepatitis C. They mainly cover hepatitis B treatment or general viral hepatitis.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [25027705](https://pubmed.ncbi.nlm.nih.gov/25027705/) | 2014 | Review | Minerva Gastroenterol Dietol | Antiviral drugs for hepatitis B and C and their kidney effects; adefovir is listed as an HBV nucleotide analog |
-| [16937041](https://pubmed.ncbi.nlm.nih.gov/16937041/) | 2006 | Review | Wien Med Wochenschr | Current treatment of chronic hepatitis B and C; peginterferon is preferred for HBV |
-| [19149648](https://pubmed.ncbi.nlm.nih.gov/19149648/) | 2009 | Review | Med Chem | Bicyclol as a novel drug for chronic hepatitis B and C; does not involve adefovir |
-| [16699274](https://pubmed.ncbi.nlm.nih.gov/16699274/) | 2006 | Review | Dig Dis | Established and emerging therapies for viral hepatitis; adefovir is licensed for HBV, while HCV is treated with interferon plus ribavirin |
-| [15588803](https://pubmed.ncbi.nlm.nih.gov/15588803/) | 2004 | Review | Best Pract Res Clin Gastroenterol | Treatment strategies for chronic viral hepatitis; adefovir listed among HBV nucleoside analogs |
-| [22370225](https://pubmed.ncbi.nlm.nih.gov/22370225/) | 2012 | Guideline | Orv Hetil | Hungarian consensus guideline on hepatitis B, C and D diagnosis and treatment |
-| [16880074](https://pubmed.ncbi.nlm.nih.gov/16880074/) | 2006 | Review | Gastroenterol Clin North Am | Treatment pathway in hepatitis B |
-| [18221137](https://pubmed.ncbi.nlm.nih.gov/18221137/) | 2006 | Review | Recent Pat Anti-Infect Drug Discov | Pegylated interferons for chronic hepatitis B; adefovir is one of five approved HBV drugs |
-| [16107195](https://pubmed.ncbi.nlm.nih.gov/16107195/) | 2005 | Review | Expert Rev Anti Infect Ther | Peginterferon alpha-2a for hepatitis B; adefovir monotherapy described as unsatisfactory |
-| [31572002](https://pubmed.ncbi.nlm.nih.gov/31572002/) | 2019 | Retrospective study | Cancer Manag Res | Nucleos(t)ide analog therapy and survival in HBV-related small hepatocellular carcinoma |
+| [18221137](https://pubmed.ncbi.nlm.nih.gov/18221137/) | 2006 | Review | Recent Patents on Anti-infective Drug Discovery | Pegylated interferons for chronic hepatitis B; lists adefovir dipivoxil among five approved hepatitis B drugs |
+| [15588803](https://pubmed.ncbi.nlm.nih.gov/15588803/) | 2004 | Review | Best Practice & Research Clinical Gastroenterology | Treatment strategies for chronic viral hepatitis; adefovir discussed as a hepatitis B nucleoside analogue |
+| [16107195](https://pubmed.ncbi.nlm.nih.gov/16107195/) | 2005 | Review | Expert Review of Anti-infective Therapy | Peginterferon-alpha2a for hepatitis B; notes that adefovir monotherapy remains unsatisfactory |
+| [16699274](https://pubmed.ncbi.nlm.nih.gov/16699274/) | 2006 | Review | Digestive Diseases | Established and emerging viral hepatitis therapies; adefovir licensed for hepatitis B, with interferon plus ribavirin used for hepatitis C |
+| [25027705](https://pubmed.ncbi.nlm.nih.gov/25027705/) | 2014 | Review | Minerva Gastroenterologica e Dietologica | Effects of hepatitis B and C antivirals on kidney function; adefovir is a hepatitis B nucleotide analogue |
+| [22370225](https://pubmed.ncbi.nlm.nih.gov/22370225/) | 2012 | Guideline | Orvosi Hetilap | Hungarian consensus guideline for hepatitis B, C and D diagnosis and treatment |
+| [24797262](https://pubmed.ncbi.nlm.nih.gov/24797262/) | 2014 | Cohort | Viral Immunology | Serum cytokine profiles linked to HBeAg seroconversion after stopping nucleos(t)ide analogue therapy in hepatitis B |
+| [31572002](https://pubmed.ncbi.nlm.nih.gov/31572002/) | 2019 | Cohort | Cancer Management and Research | Nucleos(t)ide analogue therapy and survival in patients with HBV-related small hepatocellular carcinoma |
+| [19149648](https://pubmed.ncbi.nlm.nih.gov/19149648/) | 2009 | Review | Medicinal Chemistry | Bicyclol, a different drug, for chronic hepatitis B and C; not about adefovir |
 
 ---
 
@@ -104,18 +90,19 @@ None of these publications reports adefovir efficacy against HCV.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA202051 | ADEFOVIR DIPIVOXIL (Sigmapharm Laboratories, LLC) | Tablet (oral) | Not stated in the license record |
+| ANDA202051 (cancelled) | ADEFOVIR DIPIVOXIL (Sigmapharm Laboratories, LLC) | Tablet | Not specified in the data compiled |
+
+The only US authorization found has been cancelled, and there are no currently valid single-agent or combination authorizations.
 
 ---
 
 ## Safety Considerations
 
-Package-insert warnings, contraindications and drug-interaction data are not available in the record. Please refer to the package insert for safety information.
+- **Kidney effects**: A knowledge-graph link flags kidney disease. This fits the published concern about adefovir nephrotoxicity (see PMID 25027705, a review of antiviral effects on kidney function).
+- **Other conditions flagged in the knowledge graph (not label text)**: Lactic acidosis, fatty liver disease, non-alcoholic steatohepatitis, obesity disorder, monogenic obesity and pyoureter.
+- **Drug Interactions**: 25 potential interactions are recorded, and none has a severity grade. Examples include pantoprazole, omeprazole, lansoprazole, rabeprazole, ranitidine, famotidine, morphine, warfarin, heparin, ibuprofen, kanamycin, metoclopramide, prednisolone and potassium chloride. Review the interaction details before any co-prescription.
 
-Other material in the pack points to these risks:
-- **Nephrotoxicity**: renal function monitoring is needed. Adefovir-induced Fanconi syndrome with hypophosphatemic osteomalacia has been reported (PMID 32289307).
-- **Resistance mutations**: rtN236T and rtA181V/T are associated with adefovir resistance in HBV.
-- **Withdrawal risk**: lactic acidosis or hepatitis flare after stopping treatment.
+For full warnings and contraindications, please refer to the package insert.
 
 ---
 
@@ -124,15 +111,14 @@ Other material in the pack points to these risks:
 **Decision: Hold**
 
 **Rationale:**
-The high TxGNN score is not supported by any HCV-specific clinical or mechanistic evidence, and there is no plausible adefovir target in HCV. Approved direct-acting antivirals already treat HCV well, so a repurposing case for adefovir is unlikely.
+The prediction has no clinical trials and no supporting literature, and the mechanism does not fit: adefovir targets the HBV DNA polymerase, while HCV replicates through an RNA polymerase. The only registered trial linked to this indication was withdrawn with zero participants. The product is also cancelled in the US market. Direct-acting antivirals are now available for HCV, so the need for adefovir in this setting is unclear.
 
 **To proceed, the following is needed:**
-- HCV-specific in vitro or clinical data showing adefovir activity, which does not currently exist in the pack
-- Package-insert warnings, contraindications and approved-indication text
-- Mechanism-of-action data from DrugBank
-- A renal safety monitoring plan, since nephrotoxicity is a known risk
+- Laboratory evidence (for example, HCV replicon assays) showing whether adefovir has any anti-HCV activity
+- The adefovir mechanism of action and the FDA package insert warnings and contraindications
+- A kidney safety assessment, given adefovir's nephrotoxicity and the knowledge-graph kidney disease flag
 
-**Related predictions in the pack:** HIV infection is the best-supported alternative (L2), with randomized placebo-controlled trials showing antiviral activity. However, the HIV-dose regimen caused dose-limiting nephrotoxicity and was not approved. The hepatitis B prediction (L1) is a confirmation of the established use rather than new repurposing.
+**Note on other predictions for this drug:** The evidence for the HIV infection prediction is stronger than for hepatitis C, with several Phase 2 trials and a placebo-controlled study in advanced HIV. However, development was limited by dose-related nephrotoxicity at the higher doses used for HIV, and tenofovir later replaced adefovir. The hepatitis B result reflects the original approved indication and is not a repurposing opportunity.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

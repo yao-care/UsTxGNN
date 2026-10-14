@@ -29,31 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Letermovir: From Cytomegalovirus (CMV) Infection to Vulvovaginal Candidiasis
+# Letermovir: From Cytomegalovirus Infection to Vulvovaginal Candidiasis
 
 ## One-Sentence Summary
 
-Letermovir is a CMV-specific antiviral marketed in the US as PREVYMIS. The TxGNN model predicts it may be effective for **vulvovaginal candidiasis**, but **0 clinical trials** and **0 publications** support this, and no credible mechanistic link has been identified. This is a model-only prediction.
+Letermovir is an antiviral originally used to treat **cytomegalovirus (CMV) infection**.
+The TxGNN model predicts it may be effective for **vulvovaginal candidiasis**,
+but **no clinical trials and no publications** currently support this direction. The prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | CMV infection (inferred from the drug's mechanism; the license records contain no indication text) |
+| Original Indication | Cytomegalovirus infection |
 | Predicted New Indication | Vulvovaginal candidiasis |
 | TxGNN Prediction Score | 99.88% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 6 license records (3 unique NDA numbers) |
+| US Market Status | Cancelled only (no currently valid authorizations) |
+| Number of NDAs | 3 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the DrugBank record. The mechanistic review notes that letermovir inhibits the CMV viral terminase complex (pUL56/UL89/UL51). This blocks cleavage and packaging of viral DNA.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. From general pharmacology, letermovir is a CMV-specific antiviral that inhibits the viral terminase complex (pUL56/pUL51/pUL89). This target has no known human or fungal counterpart.
 
-Candida species are fungi and have no homologous terminase target, so direct antifungal activity is not expected. The very high TxGNN score reflects a graph-based model output only. It cannot be verified against the available data, because the original MOA and indications are missing from the record.
+Cytomegalovirus infection is a viral disease, while vulvovaginal candidiasis is a fungal infection. There is no clear mechanistic path from a viral terminase inhibitor to antifungal activity against *Candida* species. Any link would have to be indirect, for example through changes in host immunity or the vaginal microbiome, and nothing in the compiled data supports this.
 
-Any plausible link would have to be indirect, for example through altered host immune or mucosal status. No data provided here supports such a link. At this stage the prediction is best treated as a hypothesis with weak biological grounding.
+The very high score (0.9988) is therefore best treated with caution. It may reflect a graph-based artifact, such as shared drug-interaction neighbours, or the co-occurrence of candidiasis with immunosuppressed transplant populations, which is the setting where letermovir is used.
 
 ## Clinical Trial Evidence
 
@@ -67,31 +69,35 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA 209939 | PREVYMIS (Merck Sharp & Dohme LLC) | Film-coated tablet | Not provided in record |
-| NDA 209940 | PREVYMIS (Merck Sharp & Dohme LLC) | Solution for injection | Not provided in record |
-| NDA 219104 | PREVYMIS (Merck Sharp & Dohme LLC) | Pellet | Not provided in record |
+| NDA209939 | PREVYMIS | Tablet, film coated | Indication text not available (status: cancelled) |
+| NDA219104 | PREVYMIS | Pellet | Indication text not available (status: cancelled) |
+| NDA209940 | PREVYMIS | Injection, solution | Indication text not available (status: cancelled) |
 
-Available routes are oral (tablet), injectable (solution) and other (pellet). Duplicate license entries have been merged.
+All three authorizations (manufacturer: Merck Sharp & Dohme LLC) are listed as cancelled in the compiled data. This status should be verified against current FDA records before any planning.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: An interaction query returned 100 records. The sample reviewed included mostly Moderate-level interactions, with several **Major** ones:
+  - Eliglustat (Major)
+  - Naloxegol (Major)
+  - Cisapride (Major)
+  - Moderate examples: corticosteroids (hydrocortisone, dexamethasone, betamethasone, budesonide, triamcinolone), omeprazole, lansoprazole, aprepitant, clarithromycin, and several antidiabetic drugs (pioglitazone, glimepiride, chlorpropamide, saxagliptin, acetohexamide).
+
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score. There are no supporting trials or publications, and the drug's known mechanism (CMV-specific terminase inhibition) does not apply to fungal pathogens. The evidence level is L5.
+The prediction has only a model score behind it. There are no clinical trials or publications, and the known mechanism (inhibition of a CMV-specific viral terminase) gives no plausible route to antifungal activity. The evidence level is L5.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, which are a blocking gap for safety screening
-- Mechanism-of-action data from DrugBank, and original indication text from the license records
-- Any in vitro evidence of anti-Candida activity or an indirect host-mediated mechanism
-- A route-compatibility assessment, since vulvovaginal candidiasis is typically treated topically or orally
-- A literature and trial search to confirm that no supporting evidence exists
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
+- Confirmation of the mechanism of action and any plausible link to *Candida* biology
+- In vitro antifungal activity data against *Candida* species
+- Package insert warnings and contraindications (not yet available), plus clarification of the cancelled US authorization status
+- Assessment of route compatibility for a vaginal or other local formulation, since current dosage forms are oral, injectable, and pellet
+- Review of the major drug interactions for the intended patient population
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

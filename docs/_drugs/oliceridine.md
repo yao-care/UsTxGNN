@@ -29,63 +29,74 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Oliceridine: From Acute Pain (Intravenous Opioid Analgesia) to Insomnia
+# Oliceridine: From Acute Pain Management to Insomnia
 
 ## One-Sentence Summary
 
-Oliceridine (brand name OLINVYK) is a G-protein-biased mu-opioid receptor agonist given by injection for acute pain.
-The TxGNN model predicts it may be effective for **insomnia**, but this is a model prediction only, supported by **1 clinical trial that is not relevant to insomnia** and **0 publications**.
+Oliceridine is a G protein-biased mu-opioid receptor agonist given by injection, and it was developed for acute pain. The TxGNN model predicts it may be effective for **insomnia**, but there are currently **0 clinical trials** and **0 publications** supporting this direction. The prediction is therefore based on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the license records; the evidence pack describes it as an IV analgesic for acute pain |
+| Original Indication | Not stated in the data compiled for this report (the US license record has no indication text) |
 | Predicted New Indication | Insomnia |
 | TxGNN Prediction Score | 99.79% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 2 license entries (both are the same NDA210730) |
+| US Market Status | Cancelled only |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the source record. Based on known information, oliceridine is a G-protein-biased mu-opioid receptor agonist, developed as an intravenous analgesic for acute pain.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, oliceridine is a G protein-biased mu-opioid receptor agonist, and its use is in acute pain. Opioids can cause sedation, so a link to sleep is conceivable.
 
-The link to insomnia is weak. Opioids cause sedation, but they generally fragment sleep and suppress REM and slow-wave sleep. They also carry respiratory-depression and dependence risks. No established mechanism supports treating insomnia with oliceridine.
+That link is weak. Opioids generally disrupt sleep architecture by reducing slow-wave and REM sleep. They also carry risks of tolerance, dependence, and respiratory depression. The high score (0.998) is a knowledge-graph prediction only. No clinical or mechanistic evidence supports it, and the link cannot be verified. The product's US market status is also "cancelled only".
 
-The very high TxGNN score (0.998) comes from the knowledge-graph model alone. No clinical or literature evidence backs it, so the score should be read as a hypothesis-generating signal, not as evidence of efficacy.
+**Other predicted indications (all L5, Hold):**
+
+| Rank | Predicted Indication | TxGNN Score | Assessment |
+|------|------|------|------|
+| 2 | Migraine disorder | 99.16% | Opioids are sometimes used as rescue therapy, but guidelines generally discourage them because of medication-overuse headache, limited efficacy, and dependence risk. Any advantage of a biased agonist is speculative. |
+| 3 | Irritable bowel syndrome | 99.07% | Some class-level plausibility exists, since eluxadoline, a mixed opioid receptor modulator, is approved for IBS-D. However, oliceridine is a systemic IV agent, and opioid-induced constipation and GI dysfunction argue against its use. |
+| 4 | Neurocirculatory asthenia | 99.05% | This is a poorly defined functional or anxiety-related condition with no established opioid therapy and no supported mechanistic pathway. |
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT07479446](https://clinicaltrials.gov/study/NCT07479446) | Not applicable | Not yet recruiting | 174 | Oliceridine vs sufentanil for patient-controlled IV analgesia, comparing postoperative nausea after cerebellopontine angle surgery. The endpoint is analgesia and opioid side effects, not insomnia. Relevance grade: C. No results yet. |
+Currently no related clinical trials registered.
+
+## Literature Evidence
+
+Currently no related literature available.
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA210730 | OLINVYK (Trevena, Inc.) | Injection, solution | Not listed in the source record |
-
-The source record lists this NDA twice with identical details, so it is shown once here.
+| NDA210730 (cancelled) | OLINVYK (Trevena, Inc.) | Injection, solution | Not stated in the available data |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+**Drug Interactions:** The interaction check returned 100 interacting drugs. The first 20 returned include the following.
+
+- **Major:** alvimopan, bupropion, aprepitant, morphine, dexamethasone, lorcaserin, clarithromycin, dolasetron, eliglustat
+- **Moderate:** famotidine, hyoscyamine, loperamide, atropine, bisacodyl, glycopyrronium, cimetidine, picosulfuric acid, polyethylene glycol (3350 with electrolytes), dicyclomine, dronabinol
+
+Interactions with other opioids (morphine) and with CYP-affecting drugs (clarithromycin, bupropion) deserve particular attention. For other safety information, please refer to the package insert.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The insomnia prediction has no supporting clinical trial or literature (L5, model prediction only). The mechanism argues against it, since opioids disrupt sleep architecture and carry respiratory-depression and dependence risks. The other three predictions (migraine, irritable bowel syndrome, neurocirculatory asthenia) are also L5 with no evidence and are also rated Hold.
+All four predictions rest on model scores alone, with no registered trials and no publications. The mechanistic rationale is weak or contradicted for each one, for example opioid disruption of sleep and opioid-induced GI dysfunction. The only US license is cancelled, and the safety and mechanism data are incomplete.
 
 **To proceed, the following is needed:**
-- The full package insert, including warnings and contraindications (a blocking gap for safety screening)
-- Detailed mechanism of action data from DrugBank
-- Any preclinical or clinical evidence that oliceridine improves sleep outcomes
-- Confirmation of the approved indication text for NDA210730
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism of action data (MOA)
+- Preclinical or observational evidence linking biased mu-opioid agonism to the predicted indication
+- Review of the cancelled status of NDA210730 and its implications for supply
+- An assessment of whether an IV-only product can fit chronic or outpatient conditions such as insomnia, migraine, and IBS
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

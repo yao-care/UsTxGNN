@@ -29,107 +29,90 @@ Evidence Level: **L2** | Predicted Indications: **1**
 
 </div>
 
-# Trabectedin: From Soft Tissue Sarcoma and Ovarian Cancer to Female Breast Carcinoma
+# Trabectedin: From Ovarian Cancer to Female Breast Carcinoma
 
 ## One-Sentence Summary
 
-Trabectedin is a marine-derived cytotoxic drug. The literature describes it as registered in Europe for soft tissue sarcoma and, combined with pegylated liposomal doxorubicin, for platinum-sensitive recurrent ovarian cancer.
-The TxGNN model predicts it may be effective for **female breast carcinoma**.
-This direction is supported by **2 registered clinical trials (neither in breast cancer)** and **19 publications**. Several of the publications are Phase 2 breast cancer studies, but the pack contains no efficacy results from them.
-
----
+Trabectedin is a marine-derived DNA-binding cytotoxic agent, originally used for ovarian cancer (together with soft tissue sarcoma in other regions).
+The TxGNN model predicts it may be effective for **female breast carcinoma**,
+with **1 clinical trial** (a QT-interval safety study, not an efficacy trial) and **20 publications** (including several Phase 2 breast cancer studies) currently supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | The US record lists no approved indication text. Literature describes soft tissue sarcoma and ovarian cancer (with PLD), based on EU registration. |
+| Original Indication | Ovarian cancer (the US approval text is not available in the data compiled for this report; the indication comes from the knowledge graph) |
 | Predicted New Indication | Female breast carcinoma |
 | TxGNN Prediction Score | 99.73% |
 | Evidence Level | L2 |
-| US Market Status | ✓ Marketed |
+| US Market Status | Cancelled only (1 NDA, cancelled) |
 | Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
----
-
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available from DrugBank. The following mechanism is taken from the literature, not from the source data. Trabectedin binds the DNA minor groove and interferes with transcription regulation and DNA repair, in particular transcription-coupled nucleotide excision repair. It also reduces tumor-associated macrophages, which changes the tumor microenvironment.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on the published literature, trabectedin binds the DNA minor groove, forms DNA adducts and interferes with transcription-coupled nucleotide excision repair. This leads to DNA double-strand breaks. It is especially active in cells with homologous recombination deficiency, such as BRCA1/2-mutated tumours.
 
-Tumors with homologous recombination deficiency, such as BRCA1/2-mutated breast cancer, appear more sensitive to trabectedin. That gives a plausible link to breast cancer, especially BRCA-deficient and triple-negative subtypes. Preclinical work also reports apoptosis in ER+/HER2- and HER2+ breast cancer cell lines, and a synergy signal with IL-12 in triple-negative breast cancer (TNBC) models.
+Ovarian cancer and a subset of breast cancers share BRCA-related DNA-repair biology. This overlap is the main reason the prediction is plausible. Preclinical work also suggests trabectedin reduces tumour-associated macrophages and may enhance immunotherapy. One example is its enhancement of IL-12 effects in triple-negative breast cancer (2025).
 
-The score of 0.997 is a computational prediction and does not count as clinical evidence. Whether trabectedin actually benefits breast cancer patients has to be judged from the clinical studies below.
-
----
+The very high TxGNN score is a model prediction only. The mechanistic link above is inferred from the literature, not from the supplied drug record.
 
 ## Clinical Trial Evidence
 
-Neither registered trial tests trabectedin for breast cancer efficacy, so both are rated low relevance (Grade C).
-
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT03470805](https://clinicaltrials.gov/study/NCT03470805) | Phase 2 | Completed | 9 | Olaparib maintenance after response to trabectedin plus pegylated liposomal doxorubicin in recurrent ovarian carcinoma. Only indirect support through the BRCA/HRD rationale. |
-| [NCT00786838](https://clinicaltrials.gov/study/NCT00786838) | Phase 2 | Completed | 76 | Placebo-controlled study of the effect of a single trabectedin dose on the QT interval in advanced solid tumors. Provides safety context only. |
-
----
+| [NCT00786838](https://clinicaltrials.gov/study/NCT00786838) | Phase 2 | Completed | 76 | Single-blind, placebo-controlled study of trabectedin's effect on QT/QTc intervals in advanced solid tumours. It is a cardiac safety study, not a breast cancer efficacy trial. |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|---------|---------|
-| [25239225](https://pubmed.ncbi.nlm.nih.gov/25239225/) | 2014 | Randomized Phase 2 | Clin Breast Cancer | Multicenter study of single-agent trabectedin in advanced breast cancer after anthracycline and taxane, comparing 2 administration regimens. |
-| [27266804](https://pubmed.ncbi.nlm.nih.gov/27266804/) | 2016 | Phase 2 | Clin Breast Cancer | Trabectedin 1.3 mg/m² every 3 weeks in HR+/HER2- advanced breast cancer, stratified by tumor XPG mRNA expression. |
-| [24692579](https://pubmed.ncbi.nlm.nih.gov/24692579/) | 2014 | Phase 2 | Ann Oncol | International first-in-class study of trabectedin in pretreated germline BRCA1/2-mutated metastatic breast cancer. |
-| [19114300](https://pubmed.ncbi.nlm.nih.gov/19114300/) | 2009 | Phase 1 | Eur J Cancer | Trabectedin plus doxorubicin in 38 untreated patients (29 sarcoma, 9 advanced breast cancer), assessing feasibility and activity. |
-| [26592307](https://pubmed.ncbi.nlm.nih.gov/26592307/) | 2016 | Review | Expert Opin Investig Drugs | Trabectedin for breast cancer, covering effects on transcription regulation and tumor-associated macrophages. |
-| [27710871](https://pubmed.ncbi.nlm.nih.gov/27710871/) | 2016 | Review | Cancer Treat Rev | Trabectedin as a chemotherapy option in BRCA-deficient patients. |
-| [25722380](https://pubmed.ncbi.nlm.nih.gov/25722380/) | 2015 | Exploratory analysis of Phase 3 | Ann Oncol | Effect of BRCA1 and XPG mutations on response to trabectedin plus PLD in ovarian cancer (OVA-301). Supports the BRCA-sensitivity rationale. |
-| [39777457](https://pubmed.ncbi.nlm.nih.gov/39777457/) | 2025 | Preclinical | Cancer Immunol Res | Trabectedin, a myeloid cell-depleting agent, was tested to enhance IL-12 antitumor effects in TNBC models. |
-| [23792433](https://pubmed.ncbi.nlm.nih.gov/23792433/) | 2013 | Preclinical | Toxicol Lett | Trabectedin induced cytotoxicity and apoptosis in MCF-7 and MDA-MB-453 breast cancer cells, with differences by genotype. |
-| [24941346](https://pubmed.ncbi.nlm.nih.gov/24941346/) | 2014 | Preclinical | Eur Cytokine Netw | Anti-angiogenic effects of trabectedin on endothelial and breast cancer cells. |
-
----
+|------|-----|------|------|---------|
+| [25239225](https://pubmed.ncbi.nlm.nih.gov/25239225/) | 2014 | Phase 2 (randomized, comparing 2 regimens) | Clin Breast Cancer | Efficacy and safety of single-agent trabectedin in advanced breast cancer after anthracycline and taxane treatment |
+| [24692579](https://pubmed.ncbi.nlm.nih.gov/24692579/) | 2014 | Phase 2 | Ann Oncol | Activity of trabectedin in germline BRCA1/2-mutated metastatic breast cancer |
+| [27266804](https://pubmed.ncbi.nlm.nih.gov/27266804/) | 2016 | Phase 2 | Clin Breast Cancer | Trabectedin in HR-positive, HER2-negative advanced breast cancer, stratified by XPG expression |
+| [19114300](https://pubmed.ncbi.nlm.nih.gov/19114300/) | 2009 | Phase 1 | Eur J Cancer | Trabectedin plus doxorubicin in advanced soft tissue sarcoma and breast cancer (9 breast patients) |
+| [26592307](https://pubmed.ncbi.nlm.nih.gov/26592307/) | 2016 | Review | Expert Opin Investig Drugs | Overview of trabectedin in breast cancer, including its effects on transcription and tumour-associated macrophages |
+| [27710871](https://pubmed.ncbi.nlm.nih.gov/27710871/) | 2016 | Review | Cancer Treat Rev | Trabectedin as a chemotherapy option in BRCA-deficient patients |
+| [39777457](https://pubmed.ncbi.nlm.nih.gov/39777457/) | 2025 | Preclinical | Cancer Immunol Res | Trabectedin enhances the antitumour effect of IL-12 in triple-negative breast cancer |
+| [24941346](https://pubmed.ncbi.nlm.nih.gov/24941346/) | 2014 | Preclinical | Eur Cytokine Netw | Anti-angiogenic effects of trabectedin on breast cancer cells |
+| [23792433](https://pubmed.ncbi.nlm.nih.gov/23792433/) | 2013 | Preclinical | Toxicol Lett | Different apoptosis responses in MCF-7 and MDA-MB-453 breast cancer cells |
+| [25722380](https://pubmed.ncbi.nlm.nih.gov/25722380/) | 2015 | Phase 3 exploratory analysis | Ann Oncol | Effect of BRCA1 and XPG mutations on response in ovarian cancer (OVA-301) |
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA207953 | YONDELIS | Injection, powder, lyophilized, for solution | Janssen Products, LP |
-
----
+| NDA207953 (cancelled) | YONDELIS (Janssen Products, LP) | Lyophilized powder for injection | Indication text not available |
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (marine-derived DNA minor groove binder) |
-| Myelosuppression Risk | High. Literature reports toxicities that are mainly hematological and hepatic, with grade 3-4 neutropenia in about 50% and thrombocytopenia in about 20% of patients (sarcoma setting). |
+| Cytotoxicity Classification | Conventional cytotoxic (DNA minor-groove binder, marine-derived alkaloid) |
+| Myelosuppression Risk | High. Literature reports grade 3-4 neutropenia in about 50% and thrombocytopenia in about 20% of patients. Hepatic toxicity is also common. |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | CBC with differential, liver function, and cardiac monitoring (a dedicated QT study exists) |
+| Monitoring Items | CBC with differential, liver function tests (and renal function); cardiac monitoring should be considered given the dedicated QT study |
 | Handling Protection | Must follow cytotoxic drug handling regulations |
-
----
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: The interaction query returned 100 records, and the first 20 are listed in the data compiled for this report. Most are Moderate. The one **Major** interaction is with **clarithromycin**, a strong CYP3A4 inhibitor. Moderate interactions include aprepitant, dexamethasone, cimetidine, metronidazole, miconazole, levofloxacin, rosuvastatin and simvastatin, among others. These should be reviewed for any combination regimen.
 
----
+For warnings and contraindications, please refer to the package insert. The FDA label text was not available for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The literature contains several Phase 2 breast cancer studies, including a BRCA-mutated population. The biological rationale is plausible, but this pack has no efficacy outcomes from them, and no registered trial tests breast cancer efficacy. The high TxGNN score is only a model prediction, and the package insert safety review is not complete.
+The mechanism is plausible, especially for BRCA-mutated breast cancer, and several Phase 2 breast cancer studies exist. However, the only registered trial in the data is a QT safety study, and the Phase 2 publications do not by themselves establish efficacy. The US NDA is cancelled, and the FDA label safety review is missing, which blocks safety screening. The data support the recommendation "Research Question" rather than advancing the drug.
 
 **To proceed, the following is needed:**
-- Full-text review of the Phase 2 breast cancer studies (PMIDs 25239225, 27266804, 24692579) to extract response rates, survival, and safety
-- The FDA package insert warnings and contraindications, which are required for safety screening
-- DrugBank mechanism of action data to replace the literature-inferred mechanism
-- Identification of the subtype most likely to benefit (BRCA-deficient or triple-negative) and any registered breast cancer trials
-- A safety monitoring plan for myelosuppression, hepatic toxicity, and cardiac effects
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- Full review of the Phase 2 breast cancer results (PMIDs 25239225, 24692579, 27266804) for response rates and survival outcomes
+- Identification of a target subgroup (for example BRCA1/2-mutated or triple-negative breast cancer) and any registered efficacy trials
+- Clarification of why the US NDA was cancelled, and of route and regulatory feasibility
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Hydroxyprogesterone Caproate
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 780
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 ---
 
 # Hydroxyprogesterone Caproate
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,64 +29,117 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Hydroxyprogesterone Caproate: From an Injectable Progestin to Endometriosis of Uterus
+# Hydroxyprogesterone Caproate: From an Unspecified Original Indication to Endometrial Cancer
 
 ## One-Sentence Summary
 
-Hydroxyprogesterone caproate is a marketed injectable progestin (hormone) product in the United States.
-The TxGNN model predicts it may be effective for **endometriosis of uterus**,
-but there are **0 clinical trials** and only **2 loosely related publications**, so the evidence is weak.
+Hydroxyprogesterone caproate is an injectable progestin. The US label data compiled for this report do not list an approved indication.
+The TxGNN model predicts it may be effective for **Endometrial Cancer** (the highest-ranked prediction, endometriosis of uterus, is supported only by a case report that does not show efficacy).
+There are **0 registered clinical trials** and **20 publications** for endometrial cancer, mostly historical (1971-1996) case series and cohort studies.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Predicted New Indication | Endometriosis of uterus |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 1 (ANDA211142) |
+| Original Indication | Not available (the one US authorization has no indication text) |
+| Predicted New Indication | Endometrial cancer (see the note on rank-1 prediction below) |
+| TxGNN Prediction Score | 99.96% (endometrial cancer); 99.98% (rank-1, endometriosis of uterus) |
+| Evidence Level | L3 (endometrial cancer); L4 for endometriosis of uterus; L5 for most other predictions |
+| US Market Status | Cancelled only (no currently valid authorization) |
+| Number of NDAs | 1 (an ANDA, cancelled) |
 | Recommended Decision | Hold |
+
+**Note on selection:** The top-ranked prediction by TxGNN score is endometriosis of uterus. Its only publication is a case report of a pregnancy complication, which is not evidence of efficacy. This report therefore features endometrial cancer, the prediction with the most substantial evidence. Other predictions are summarized at the end.
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, hydroxyprogesterone caproate is a progestin, and the pack's own rationale notes that progestins are used clinically to suppress endometriosis. Mechanistically, it may be applicable to endometriosis of the uterus.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, hydroxyprogesterone caproate is a progestin that acts on progesterone receptors in endometrial tissue.
 
-The plausibility rests on this class-level link only. Neither of the two retrieved papers tests hydroxyprogesterone caproate in endometriosis. One is a case report of spontaneous hemoperitoneum in pregnancy, in which endometriosis was a risk factor. The other is a 1985 histology study of uterine changes after sex hormone treatment. The very high model score is therefore not backed by clinical data.
+High-dose progestins counteract estrogen-driven proliferation, induce differentiation and apoptosis, and downregulate estrogen receptors. This is a biologically plausible mechanism for endometrial cancer. Progestogens have been used for decades in advanced or recurrent endometrial carcinoma, and in fertility-sparing treatment of hyperplasia and early-stage disease.
+
+The evidence is largely historical (1971-1995), uses older response criteria, and comes from uncontrolled or small series. One paper reports that a progestogen class (including this drug) produced objective responses in 11.2% of 155 patients with advanced disease, with higher response rates in well-differentiated tumors.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
+
+Selected from 20 retrieved publications for endometrial cancer, prioritizing systematic reviews and comparative or prospective studies.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [37488914](https://pubmed.ncbi.nlm.nih.gov/37488914/) | 2023 | Case report | The American Journal of Case Reports | A 41-year-old woman with adenomyosis developed hemoperitoneum due to endometriosis at 28 weeks of pregnancy. It shows endometriosis as a risk factor for spontaneous hemoperitoneum in pregnancy and does not test this drug. |
-| [3158227](https://pubmed.ncbi.nlm.nih.gov/3158227/) | 1985 | Histopathology study | Akusherstvo i Ginekologiia | Structural characteristics of the pathologically changed uterus after sex hormone treatment. No abstract is available, and the link to this drug is indirect. |
+| [22245711](https://pubmed.ncbi.nlm.nih.gov/22245711/) | 2012 | Systematic review | Gynecol Oncol | Oncologic and reproductive outcomes of progestin therapy in endometrial hyperplasia and grade 1 adenocarcinoma |
+| [6985833](https://pubmed.ncbi.nlm.nih.gov/6985833/) | 1980 | Prospective trial | Cancer | Depo-Provera vs hydroxyprogesterone caproate (Delalutin) in 114 women with metastatic endometrial adenocarcinoma; no significant difference in response or survival |
+| [4011061](https://pubmed.ncbi.nlm.nih.gov/4011061/) | 1985 | Clinical study | Obstet Gynecol | Progestational agents (including this drug) gave objective responses in 11.2% of 155 advanced or recurrent patients; response fell with decreasing differentiation |
+| [3972284](https://pubmed.ncbi.nlm.nih.gov/3972284/) | 1985 | Case series | Gynecol Oncol | 19 young patients with stage I disease treated without surgery or radiation; clinical recovery confirmed in 15 |
+| [8565696](https://pubmed.ncbi.nlm.nih.gov/8565696/) | 1995 | Comparative study | Zhonghua Fu Chan Ke Za Zhi | Aminoglutethimide vs hydroxyprogesterone caproate and their combination: effects on serum and tissue hormone receptor levels and histopathology |
+| [9208491](https://pubmed.ncbi.nlm.nih.gov/9208491/) | 1996 | Clinical study | Chin Med J | Therapeutic effect of hydroxyprogesterone caproate, tamoxifen and aminoglutethimide in endometrial carcinoma |
+| [3885671](https://pubmed.ncbi.nlm.nih.gov/3885671/) | 1985 | Cohort | Acta Obstet Gynecol Scand | Serum lipid changes in 57 stage I patients receiving adjuvant treatment in a clinical trial |
+| [2932883](https://pubmed.ncbi.nlm.nih.gov/2932883/) | 1985 | Cohort | Acta Obstet Gynecol Scand | Pharmacokinetics after intramuscular injection of 1000 mg and effects on adrenal function |
+| [4616884](https://pubmed.ncbi.nlm.nih.gov/4616884/) | 1974 | Case series | Gynecol Oncol | Treatment of advanced endometrial cancer |
+| [5549492](https://pubmed.ncbi.nlm.nih.gov/5549492/) | 1971 | Case series | Cancer | Therapy in advanced endometrial cancer |
+
+For the related uterine corpus cancer prediction, three older Russian-language cohort reports (PMIDs 6966107, 2815695, 3296435; 1980-1989) describe immune parameters, hormone receptors and adjuvant hormonotherapy with radiotherapy. One reports a 3-year survival of 84.1% vs 74.8% with and without hormonal therapy, but this was not a controlled efficacy comparison.
+
+---
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA211142 | Hydroxyprogesterone Caproate | Injection | AuroMedics Pharma LLC |
+| ANDA211142 (cancelled) | Hydroxyprogesterone Caproate (AuroMedics Pharma LLC) | Injection | Not stated |
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+The TxGNN knowledge graph links this drug to contraindications in the following conditions. These are graph-derived associations and not label text:
+
+- **Cardiovascular:** hypertension, preeclampsia
+- **Hepatic:** liver disease, liver neoplasm, hepatocellular carcinoma, gallbladder disease
+- **Metabolic:** diabetes mellitus, diabetic ketoacidosis, hyperglycemia, glucose intolerance, prediabetes
+- **Neurological and psychiatric:** epilepsy, migraine, anxiety disorder, neurotic disorder, dysthymic disorder
+- **Other:** kidney disease, asthma, female breast carcinoma, pyoureter
+
+No drug interaction data were found. Please refer to the package insert for label warnings and contraindications.
+
+---
+
+## Other Predictions
+
+| Predicted Indication | Score | Evidence Level | Comment |
+|------|------|------|------|
+| Endometriosis of uterus | 99.98% | L4 | Only a case report of a complication; no efficacy evidence |
+| Uterine corpus cancer | 99.96% | L3 | Overlaps with endometrial cancer; assess together |
+| Endometriosis (rectovaginal septum and vagina, cutaneous scar, cervix) | 99.96-99.97% | L5 | Progestin class rationale only; no drug-specific data |
+| Breast fibrocystic disease | 99.96% | L5 | Loose rationale; no data |
+| Renal hypoplasia (bilateral and unspecified) | 99.97% | L5 | No plausible mechanism; likely graph artifact |
+| Infantile cerebral and cerebellar atrophy with microcephaly | 99.94% | L5 | No plausible mechanism; likely graph artifact |
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-No clinical trial exists for this indication, and the two publications are only indirectly relevant (a pregnancy case report and a 1985 histology study). The prediction rests on the general progestin–endometriosis association, so it is not yet actionable.
+The mechanism is plausible and decades of historical literature support progestin use in endometrial cancer. However, no registered trials exist, the studies are old and uncontrolled, the one US authorization is cancelled, and label safety data are missing. A graded "Research Question" status applies to endometrial and uterine corpus cancer, but the data are not sufficient to move forward.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications. This is a blocking gap for safety screening.
-- Mechanism of action data (MOA), for example from DrugBank.
-- Direct clinical evidence of hydroxyprogesterone caproate in endometriosis, such as trials or controlled studies.
-- Review of the other predictions in this pack. Endometrial cancer (rank 8) and uterine corpus cancer (rank 6) have much more literature, at L3 and rated "Research Question", including a 2000 Cochrane review of progestagens. They should be merged and assessed separately, since they are essentially the same disease.
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- Original approved indication, as the cancelled authorization has no indication text
+- Review of the historical endometrial cancer studies against modern response criteria and current standards of care
+- Assessment of route compatibility and current availability, given that the only US authorization is cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

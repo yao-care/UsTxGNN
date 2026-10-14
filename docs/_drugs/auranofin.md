@@ -29,33 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Auranofin: From an Unrecorded Original Indication to Colobomatous Microphthalmia-Rhizomelic Dysplasia Syndrome
+# Auranofin: From Rheumatoid Arthritis to Colobomatous Microphthalmia-Rhizomelic Dysplasia Syndrome
 
 ## One-Sentence Summary
 
-Auranofin is an oral capsule marketed in the US under one NDA, but the Evidence Pack records no approved indication for it.
-The TxGNN model predicts it may be effective for **colobomatous microphthalmia-rhizomelic dysplasia syndrome**, a rare congenital malformation syndrome.
-This prediction has **0 clinical trials** and **0 publications** behind it, so it rests on the model score alone.
+Auranofin is an oral gold-based compound originally used to treat rheumatoid arthritis.
+The TxGNN model predicts it may be effective for **colobomatous microphthalmia-rhizomelic dysplasia syndrome**, an ultra-rare developmental disorder,
+but currently there are **0 clinical trials** and **0 publications** supporting this direction. The prediction rests on a computational score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in the available data |
+| Original Indication | Rheumatoid arthritis |
 | Predicted New Indication | Colobomatous microphthalmia-rhizomelic dysplasia syndrome |
 | TxGNN Prediction Score | 99.56% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no currently valid authorization) |
 | Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. The only support for this prediction is the high TxGNN score (99.56%). No mechanistic link to the predicted disease can be established from the provided data.
+Currently, detailed mechanism of action data is not available. Based on known information, auranofin is a gold-based compound with thiol-reactive and thioredoxin reductase-inhibiting activity. Its efficacy in rheumatoid arthritis rests on anti-inflammatory and immunomodulatory effects.
 
-Auranofin is generally known as a gold(I) compound with anti-inflammatory activity that inhibits thioredoxin reductase. This is background knowledge, not part of the Evidence Pack. The predicted disease is a rare congenital developmental malformation syndrome, and no plausible pathway connects this kind of drug to it.
+No plausible mechanistic link to the predicted disease has been established. Colobomatous microphthalmia-rhizomelic dysplasia syndrome is an ultra-rare developmental malformation syndrome, and no known pathway connects auranofin pharmacology to its pathogenesis. The high TxGNN score is a computational output, not clinical or experimental evidence, and may reflect network proximity artifacts in the knowledge graph.
 
-A second prediction, brachydactyly-syndactyly syndrome (score 99.24%), is in the same position. It is also a congenital limb malformation with no clinical trials or literature. A drug acting on redox or inflammatory pathways has no evident reason to change a structural developmental phenotype. Both predictions may reflect knowledge-graph connectivity artifacts rather than real biology.
+The second-ranked prediction, **brachydactyly-syndactyly syndrome** (score 99.24%), has the same limitations. It is a congenital limb malformation typically driven by developmental gene variants. Postnatal drug treatment is unlikely to reverse structural anomalies, so it should be treated as hypothesis-generating only.
 
 ## Clinical Trial Evidence
 
@@ -69,25 +69,34 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA018689 | Auranofin (Coral Way Pharma, LLC) | Capsule (oral) | Not listed in the available data |
+| NDA018689 (cancelled) | Auranofin (Coral Way Pharma, LLC) | Capsule (oral) | Not listed in the data compiled for this report |
+
+## Cytotoxicity
+
+Auranofin is not classified as a conventional antineoplastic drug in the data compiled for this report, so this section is omitted.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug-interaction records were found for this drug.
+- **Knowledge-graph contraindication signals** (from the TxGNN knowledge graph, not from label text): hypertensive disorder, kidney disease, liver disease, hepatitis, gallbladder disease, hematologic disease, thrombocytopenia, neutropenia, leukopenia, agranulocytosis, systemic lupus erythematosus, diabetes mellitus, diabetic ketoacidosis, colitis, necrotizing enterocolitis, pulmonary fibrosis, exfoliative dermatitis, exanthem, urticaria, angioedema, atopic eczema, dermatitis, Sjogren syndrome, dry eye syndrome, and others.
+- **Drug Interactions**: 86 interactions were identified in total. The main ones listed:
+  - **Major**: deferiprone, proguanil, chloroquine
+  - **Moderate**: metronidazole, tinidazole, rosuvastatin, simvastatin, benznidazole, disulfiram
+  - **Unknown severity**: warfarin, prednisone, prednisolone, proton pump inhibitors (omeprazole, pantoprazole, lansoprazole), ranitidine, misoprostol, clarithromycin, calcitriol, folic acid
+
+Official package insert warnings and contraindications were not available. Please refer to the package insert for complete safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a very high model score but no clinical trials, no literature and no mechanism data. The predicted disease is a congenital structural malformation with no apparent pharmacological rationale. The evidence is Level L5 (model prediction only), which is not enough to justify investment.
+The predicted indications are supported only by a computational score, with no clinical trials, no literature, and no plausible mechanism. The drug has no currently valid US authorization, and safety data from the package insert are missing.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (blocking gap for safety screening)
-- The approved indication text for NDA018689, to establish the original indication
-- Mechanism of action data, for example from DrugBank, to test for any link to the predicted disease
-- Any preclinical or case-level evidence connecting auranofin to the predicted disease
-- A route-compatibility assessment, which is still pending
+- Mechanism of action data (e.g., from DrugBank)
+- FDA package insert warnings and contraindications, to allow safety screening
+- A biologically plausible mechanistic hypothesis linking auranofin to the predicted disease, supported by preclinical or literature evidence
+- Evaluation of route compatibility and of the relevance of the predicted rare developmental disorders to postnatal drug treatment
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

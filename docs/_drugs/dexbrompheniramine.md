@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Dexbrompheniramine
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 591
-evidence_level: L5
+evidence_level: L4
 indication_count: 7
 ---
 
 # Dexbrompheniramine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **7** 
+Evidence Level: **L4** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,44 +29,42 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Dexbrompheniramine: From an Antihistamine (Original Indication Not Recorded) to Allergic Urticaria
+# Dexbrompheniramine: From Allergic Rhinitis to Allergic Urticaria
 
 ## One-Sentence Summary
 
-Dexbrompheniramine is a first-generation H1 antihistamine marketed in the US as a tablet, but the supplied record lists no approved indication text.
-The TxGNN model predicts it may be effective for **allergic urticaria**.
-There are currently **0 clinical trials** and **0 publications** supporting this prediction, so it is a model prediction only.
+Dexbrompheniramine is a first-generation H1-antihistamine, originally used for allergic and vasomotor rhinitis, allergic conjunctivitis, urticaria and angioedema.
+The TxGNN model predicts it may be effective for **Allergic Urticaria**, but there are currently **0 clinical trials** and **0 publications** supporting this direction.
+Allergic urticaria is a subtype of an already established indication (urticaria), so this is not a true repurposing target.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the supplied record |
+| Original Indication | Allergic rhinitis (other listed uses: vasomotor rhinitis, atopic/papillary/vernal conjunctivitis, familial dermatographia, urticaria, angioedema) |
 | Predicted New Indication | Allergic urticaria |
 | TxGNN Prediction Score | 99.99% |
-| Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 1 |
+| Evidence Level | L4 |
+| US Market Status | Cancelled only (no currently valid license) |
+| Number of NDAs | 1 (cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the record. Dexbrompheniramine is generally known as an alkylamine H1 antihistamine. This is general pharmacology and is not taken from the supplied data.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, dexbrompheniramine is a first-generation H1-antihistamine. Its efficacy in histamine-mediated allergic conditions is established, and mechanistically H1-receptor blockade may be applicable to allergic urticaria.
 
-Allergic urticaria is a histamine-mediated condition, with wheals and flare driven by mast-cell histamine release. H1 receptor blockade is therefore mechanistically consistent with symptom relief. The drug's own original indication is not recorded, so the link to its established use cannot be assessed here.
+Urticaria is already among the drug's original indications, so allergic urticaria largely overlaps with existing use. Blocking H1 receptors counters the histamine-driven wheal and flare that characterise the condition. The support is indirect (class effect plus overlap with the original indication), not drug-specific clinical data.
 
-The high score (0.9999) reflects the model's ranking only. Without trials or literature, the prediction is unverified.
+### Other Predicted Indications
 
-**Other predictions from the model** (all L5, all Hold):
-
-| Rank | Predicted Indication | Score | Comment |
-|------|------|------|------|
-| 2 | Cold urticaria | 99.97% | A histamine-mediated physical urticaria, so H1 blockade is plausible |
-| 3 | Recalcitrant atopic dermatitis | 99.64% | Possible itch relief only. The disease is driven by Th2 inflammation and barrier dysfunction, and "recalcitrant" disease implies poor response to standard therapy |
-| 4 | IgE responsiveness, atopic | 99.63% | A trait rather than a treatable indication |
-| 5 | Nasal cavity disease | 99.34% | Too broad to assess. It needs to be narrowed to a specific condition |
-| 6 | Acute laryngopharyngitis | 99.33% | Mostly infectious. Any benefit would be symptomatic and speculative |
-| 7 | Pharyngitis | 99.23% | Mostly infectious. Any benefit would be symptomatic and speculative |
+| Rank | Predicted Indication | TxGNN Score | Evidence Level | Assessment |
+|------|------|------|------|------|
+| 2 | Cold urticaria | 99.97% | L4 | Mast-cell histamine release makes H1 blockade plausible and antihistamines are usual first-line therapy, but no drug-specific data; newer non-sedating agents are preferred |
+| 3 | Recalcitrant atopic dermatitis | 99.64% | L5 | Benefit limited to sedation reducing night-time itch; disease is driven by IL-4/IL-13/IL-31 pathways that H1 blockade does not address |
+| 4 | IgE responsiveness, atopic | 99.63% | L5 | A trait rather than a treatable disease; symptomatic relief only |
+| 5 | Nasal cavity disease | 99.34% | L4 | Broad category; mostly overlaps with labeled rhinitis uses |
+| 6 | Acute laryngopharyngitis | 99.33% | L5 | Usually infectious; no clear mechanism, and anticholinergic drying could worsen throat irritation |
+| 7 | Pharyngitis | 99.23% | L5 | Mostly viral or bacterial; any benefit would be indirect |
 
 ## Clinical Trial Evidence
 
@@ -80,25 +78,32 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| M012 | ALA-HIST IR (Poly Pharmaceuticals, Inc.) | Tablet (oral) | Not stated in the record |
+| M012 (cancelled) | ALA-HIST IR (Poly Pharmaceuticals, Inc.) | Tablet (oral) | Not recorded |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No warnings, contraindications, or drug interaction records were available in the supplied data.
+- **Disease-level cautions (knowledge graph, not label text)**: The knowledge graph links the drug to contraindication or caution signals in many conditions, including:
+  - Cardiovascular: hypertension, hypotension, coronary artery disease, myocardial infarction, atherosclerosis, sudden cardiac arrest, heart conduction disease
+  - Hepatic, renal and digestive: liver failure/disease, kidney disease, pancreatitis, gallbladder disease, peptic ulcer disease, inflammatory bowel disease
+  - Endocrine: hypothyroidism/myxedema, diabetes mellitus, diabetic ketoacidosis
+  - Neurological and other: epilepsy, benign prostatic hyperplasia, ocular hypertension, hemoglobinopathy, substance abuse/dependence, pyoureter
+- **Drug Interactions**: 100 interactions were identified, and 20 are listed in the data. Two are **Major**: potassium citrate and potassium chloride. The rest are **Moderate**, mainly additive anticholinergic or CNS/GI effects with agents such as atropine, hyoscyamine, scopolamine, glycopyrronium, dicyclomine, trospium, propantheline, loperamide, diphenoxylate, eluxadoline, morphine, dronabinol, nabilone and metoclopramide.
+
+The package insert warnings and contraindications were not available. Please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on the model score alone (L5), with no trials or literature. Neither the original indication nor the mechanism of action is documented in the record, and no safety data are available. Allergic and cold urticaria are the most mechanistically plausible candidates. The others are weak or too non-specific to assess.
+The predicted indication is largely a subtype of an existing labeled use, so it offers little true repurposing value. There are no trials or publications, only the model score and class-level mechanistic reasoning. The only US license is cancelled, and label safety data is missing.
 
 **To proceed, the following is needed:**
-- The package insert with warnings and contraindications (a blocking gap for safety screening)
-- Approved indication text and mechanism of action data (for example from DrugBank)
-- Literature and trial searches for dexbrompheniramine in urticaria
-- Narrowing of non-specific predictions (nasal cavity disease, IgE responsiveness) to assessable conditions
-- Route compatibility assessment (currently pending)
+- Package insert warnings and contraindications (blocking for safety screening)
+- Mechanism of action data
+- Drug-specific clinical or literature evidence for allergic urticaria and cold urticaria
+- Comparison against newer non-sedating antihistamines, given the drug's cancelled US market status
+- Route compatibility assessment
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,91 +29,83 @@ Evidence Level: **L4** | Predicted Indications: **2**
 
 </div>
 
-# Potassium Iodide: From Its Marketed Uses to Nasal Cavity Disease
+# Potassium Iodide: From Allergic Rhinitis and Upper Respiratory Conditions to Nasal Cavity Disease
 
 ## One-Sentence Summary
 
-Potassium iodide is a marketed iodide salt sold in the US as solutions, tablets, and pellets, but the supplied regulatory data does not list its approved indications.
-The TxGNN model predicts it may be effective for **nasal cavity disease**, but there are **0 clinical trials** and only **4 case reports** (3 veterinary, 1 human).
-This is a computational prediction with very weak supporting evidence.
-
----
+Potassium iodide was originally used for upper respiratory conditions such as allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold and nasopharyngitis.
+The TxGNN model predicts it may be effective for **nasal cavity disease**,
+but there are **0 registered clinical trials** and only **4 publications** (all case reports, three of them veterinary) supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not specified in the supplied US regulatory data |
+| Original Indication | Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold, nasopharyngitis (from knowledge graph indication edges; no approved indication text on the US licenses) |
 | Predicted New Indication | Nasal cavity disease |
 | TxGNN Prediction Score | 99.95% |
 | Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 4 (all cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Potassium iodide has a long history of empirical use, and the retrieved literature links it to treating fungal and fungus-like infections of the nose and face. These include pythiosis, aspergillosis, *Pseudallescheria boydii* infection, and nasofacial zygomycosis. Its mechanism in these conditions is not well defined. It may involve immunomodulatory or anti-inflammatory effects, but this cannot be verified from the supplied data.
+Detailed mechanism of action data is not currently available. Based on known information, potassium iodide has a long history of use as an expectorant/mucolytic in upper respiratory conditions, and it is also a long-established treatment for certain fungal and fungus-like infections, such as sporotrichosis and, in veterinary medicine, conidiobolomycosis/zygomycosis and pythiosis.
 
-The prediction has an important limit. "Nasal cavity disease" is a very broad label, and the literature covers only mycotic or pythiosis-type infections. It does not cover nasal disease in general, such as allergic or chronic rhinosinusitis. The high TxGNN score is a model output, not proof of efficacy.
+The retrieved literature describes nasal and rhinofacial infections in which potassium iodide (or sodium iodide) was used: pythiosis in sheep, Aspergillus rhinitis and *Pseudallescheria boydii* infection in horses, and nasofacial zygomycosis in a human patient. This suggests a plausible antifungal/anti-inflammatory link to **infectious** nasal cavity disease.
 
-TxGNN also predicts **acute laryngopharyngitis** (score 99.95%) as a second indication. There are no trials or literature for it. Iodides have a historical role as expectorants, but nothing in the supplied data supports this, so it stays at L5 (model prediction only).
-
----
+However, this link is only partly related to the original indications. Rhinitis, pharyngitis and the common cold rely on the mucolytic/expectorant effect, which is not clearly connected to the fungal conditions above. The evidence also does not support a general "nasal cavity disease" indication. The very high TxGNN score is a computational prediction, not clinical evidence.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [7997795](https://pubmed.ncbi.nlm.nih.gov/7997795/) | 1994 | Case report (human) | Rev Inst Med Trop Sao Paulo | 64-year-old woman with nasofacial zygomycosis in Pará, Brazil; rapid response to potassium iodide therapy |
-| [34902797](https://pubmed.ncbi.nlm.nih.gov/34902797/) | 2022 | Case report (veterinary, sheep) | J Mycol Med | Rhinofacial pythiosis in sheep, with masses in the nasal cavity and hard palate; reported as successfully treated with potassium iodide |
-| [39576399](https://pubmed.ncbi.nlm.nih.gov/39576399/) | 2024 | Case report (veterinary, horse) | Vet Res Commun | Mare with *Aspergillus fumigatus* fungal rhinitis treated with topical clotrimazole plus oral potassium iodide |
-| [10976304](https://pubmed.ncbi.nlm.nih.gov/10976304/) | 2000 | Case report (veterinary, horse) | J Am Vet Med Assoc | Horse with *Pseudallescheria boydii* nasal infection treated with intranasal miconazole, IV sodium iodide, and other therapy |
-
----
+| [34902797](https://pubmed.ncbi.nlm.nih.gov/34902797/) | 2022 | Case report (veterinary, sheep) | Journal de mycologie medicale | Successful potassium iodide treatment of rhinofacial pythiosis (*Pythium insidiosum*) in sheep, a disease with necroproliferative masses in the nasal cavity and hard palate |
+| [39576399](https://pubmed.ncbi.nlm.nih.gov/39576399/) | 2024 | Case report (veterinary, horse) | Veterinary research communications | Mycotic rhinitis caused by *Aspergillus fumigatus* in a mare, treated with topical clotrimazole plus oral potassium iodide |
+| [10976304](https://pubmed.ncbi.nlm.nih.gov/10976304/) | 2000 | Case report (veterinary, horse) | Journal of the American Veterinary Medical Association | *Pseudallescheria boydii* infection of the nasal cavity in a gelding, treated with intranasal miconazole and intravenous sodium iodide, among other measures |
+| [7997795](https://pubmed.ncbi.nlm.nih.gov/7997795/) | 1994 | Case report (human) | Revista do Instituto de Medicina Tropical de Sao Paulo | Nasofacial zygomycosis in a 64-year-old woman in Pará, Brazil, with rapid response to potassium iodide therapy |
 
 ## US Market Information
 
-The five licenses shown are the main ones listed. The pack reports 20 in total. Authorization numbers and approved indication text are not provided in the supplied data. Several of these products (for example Kali Iodatum pellets and the "6X" tablet) appear to be homeopathic-type preparations.
+All four US authorizations are cancelled. No approved indication text is available for them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| Not listed | Kali Iodatum (Hahnemann Laboratories) | Pellet | Not specified |
-| Not listed | Kali Iodatum (Hahnemann Laboratories) | Pellet | Not specified |
-| Not listed | SSKI (Atlantic Biologicals) | Solution | Not specified |
-| Not listed | Kali iodatum (Boiron) | Pellet | Not specified |
-| Not listed | BM Potassium iodide (Kali Iod) 6X (BM Private Limited) | Tablet | Not specified |
-
----
+| NDA018664 | IOSAT (Anbex Inc.) | Tablet | Not available (cancelled) |
+| ANDA076350 | Thyrosafe (BTG International Inc) | Tablet | Not available (cancelled) |
+| ANDA206211 | Potassium Iodide (Mission Pharmacal Company) | Solution | Not available (cancelled) |
+| Not assigned | Kali Iodatum (Hahnemann Laboratories, Inc.) | Pellet | Not available (cancelled) |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindication signals from the knowledge graph** (these are computational associations, not label text): hypertension, liver failure and liver disease, epilepsy, COPD, anxiety and other mental disorders (including psychotic and schizoaffective disorders), porphyria, kidney disease, pancreatitis, gallbladder disease, thrombocytopenia, hypothyroidism (including myxedema and congenital hypothyroidism), peptic ulcer disease, inflammatory bowel disease, dermatitis herpetiformis, diabetes mellitus and diabetic ketoacidosis.
+- **Drug Interactions**: 45 known interactions were identified. The 20 examined include:
+  - **Major**: ACE inhibitors (benazepril, captopril, enalapril, lisinopril, moexipril, perindopril, quinapril), angiotensin receptor blockers (olmesartan, valsartan, azilsartan medoxomil, losartan, telmisartan) and trimethoprim.
+  - **Moderate**: NSAIDs (ketorolac, ibuprofen, diclofenac, oxaprozin, naproxen), aliskiren and tolvaptan.
 
----
+  These combinations are commonly associated with raised potassium, so monitoring would be needed.
+
+Please also refer to the package insert for official warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is very high, but no clinical trials exist, and the literature consists of four case reports, three of them in animals. The evidence is limited to fungal or fungus-like nasal infections, not nasal cavity disease broadly. Safety data and mechanism data are also missing, so the candidate cannot proceed to safety screening.
+The prediction rests on a high model score and four case reports, three of them in animals, all describing fungal or fungus-like nasal infections. This does not support a general nasal cavity disease indication. The drug also has no currently valid US license, and there are many significant drug interactions.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data (e.g., from the DrugBank API)
-- Approved indication text for the marketed products
-- A narrower, clinically defined target indication (e.g., specific fungal rhinosinusitis or nasofacial mycosis) instead of "nasal cavity disease"
-- Human clinical evidence, such as more human case series or a controlled study
-- Confirmation of route compatibility for the intended nasal use
+- Define a narrower, clinically meaningful target, such as fungal or fungus-like nasal infections, instead of "nasal cavity disease"
+- Human clinical data (controlled studies or larger case series) in that population
+- Mechanism of action data
+- FDA package insert warnings and contraindications
+- A review of the drug interaction profile, especially with ACE inhibitors, ARBs and NSAIDs, and a plan for potassium monitoring
+- A regulatory pathway given that all US licenses are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

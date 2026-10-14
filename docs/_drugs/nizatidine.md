@@ -29,31 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Nizatidine: From an Unlisted Original Indication to Active Peptic Ulcer Disease
+# Nizatidine: From Gastric Ulcer to Active Peptic Ulcer Disease
 
 ## One-Sentence Summary
 
-Nizatidine is a marketed H2-receptor antagonist (an acid-suppressing drug), but the supplied data do not state its original approved indication.
-The TxGNN model predicts it may be effective for **active peptic ulcer disease**, but the supplied Evidence Pack contains **0 clinical trials** and **0 publications** for this specific prediction.
-The prediction is model-only, and it may describe an existing labeled use rather than true repurposing. This has not been verified.
+Nizatidine is an H2-receptor antagonist originally used for gastric ulcer, duodenal ulcer, peptic ulcer disease, gastroesophageal reflux disease, esophagitis and dyspepsia.
+The TxGNN model's top prediction is **active peptic ulcer disease**, supported by **0 registered clinical trials** and **20 publications**, including several randomized trials.
+This prediction largely recovers an indication the drug already has, so it is not a true repurposing candidate.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (all approved-indication text fields are empty) |
+| Original Indication | Gastric ulcer, peptic ulcer disease, gastroesophageal reflux disease, esophagitis, dyspepsia, duodenal ulcer (the licence records contain no indication text, so this list comes from the knowledge-graph indication data) |
 | Predicted New Indication | Active peptic ulcer disease |
 | TxGNN Prediction Score | 99.96% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 7 (all listed as generic ANDA applications) |
+| Evidence Level | L1 (the data compiled for this report include several randomized, placebo-controlled trials published in journals; no trials are registered) |
+| US Market Status | Cancelled only (all licences cancelled) |
+| Number of NDAs | 4 (all ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Based on known information, nizatidine is an H2-receptor antagonist that suppresses gastric acid secretion. Because acid suppression is central to ulcer healing, the drug is mechanistically well suited to peptic ulcer disease.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known information, nizatidine is an H2-receptor antagonist that inhibits basal, nocturnal and stimulated gastric acid secretion. Its efficacy in ulcer disease has been established.
 
-Nizatidine's known use in duodenal and gastric ulcer suggests this prediction may reflect an existing indication rather than a new one. The Evidence Pack does not support or refute this. The original indication and label text are both missing, so the relationship between the original and predicted indications cannot be confirmed from the supplied data. This should be checked against the current US label.
+Active peptic ulcer disease (gastric and duodenal) already falls within the drug's original indications. The high TxGNN score therefore reflects recovery of a known indication rather than a new discovery. Placebo-controlled and active-comparator randomized trials support the efficacy, for example in benign gastric ulcer (PMID 1526089) and against ranitidine (PMID 1982108).
+
+Other lower-ranked predictions in the data (gastrojejunal ulcer, gastroduodenitis) are mechanistically plausible because they are acid-dependent, but the evidence is indirect. Predictions such as peptic ulcer perforation, duodenal obstruction, duodenogastric reflux and multiple endocrine neoplasia rest on model scores alone or have weak mechanistic links.
 
 ## Clinical Trial Evidence
 
@@ -61,39 +63,51 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available.
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [2570656](https://pubmed.ncbi.nlm.nih.gov/2570656/) | 1989 | RCT | Clin Pharmacol Ther | Two-phase, placebo-controlled trial of nizatidine 150 mg twice daily in active duodenal ulcer, covering healing and recurrence |
+| [1526089](https://pubmed.ncbi.nlm.nih.gov/1526089/) | 1992 | RCT | Clin Pharmacol Ther | Eight-week, double-blind comparison of nizatidine and placebo in benign gastric ulcer; twice-daily and bedtime dosing compared |
+| [2892259](https://pubmed.ncbi.nlm.nih.gov/2892259/) | 1987 | RCT | Scand J Gastroenterol Suppl | One-year maintenance in 513 patients with healed duodenal ulcer; 12-month recurrence 34% with nizatidine versus 64% with placebo |
+| [1982108](https://pubmed.ncbi.nlm.nih.gov/1982108/) | 1990 | RCT | Hepato-gastroenterology | Nizatidine (twice daily or bedtime) versus ranitidine in 101 patients with active gastric ulcer over 8 weeks |
+| [7960687](https://pubmed.ncbi.nlm.nih.gov/7960687/) | 1994 | Randomized, placebo-controlled trial | Isr J Med Sci | Nizatidine 300 mg at night versus placebo for 4 weeks in 55 patients with active duodenal ulcer, with mucosal inflammatory mediators measured |
+| [2905640](https://pubmed.ncbi.nlm.nih.gov/2905640/) | 1988 | Review | Drugs | Preliminary review of pharmacology and use of nizatidine in peptic ulcer disease; more potent than cimetidine in animal studies |
+| [2184124](https://pubmed.ncbi.nlm.nih.gov/2184124/) | 1990 | Review | Gastroenterol Clin North Am | Overview of medical therapy of peptic ulcer; nizatidine described as safe and effective |
+| [7863254](https://pubmed.ncbi.nlm.nih.gov/7863254/) | 1994 | Clinical study | Scand J Gastroenterol Suppl | Open 12-month maintenance therapy in healed duodenal ulcer, with quality of life assessed |
 
 ## US Market Information
 
-All five listed authorizations are generic (ANDA) applications. Two entries are identical duplicates (ANDA076178), so four unique authorizations are shown. Approved-indication text is empty in the supplied data, so that column is omitted.
+All four licences are cancelled and the data contain no approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA076178 | Nizatidine | Capsule | Epic Pharma, LLC |
-| ANDA090576 | Nizatidine | Solution | Amneal Pharmaceuticals LLC |
-| ANDA075616 | Nizatidine | Capsule | Actavis Pharma, Inc. |
-| ANDA077314 | Nizatidine | Capsule | Dr Reddy's Laboratories Limited |
+| ANDA076178 | Nizatidine (Epic Pharma) | Capsule | Not available (cancelled) |
+| ANDA090576 | Nizatidine (Amneal) | Solution | Not available (cancelled) |
+| ANDA075616 | Nizatidine (Actavis) | Capsule | Not available (cancelled) |
+| ANDA077314 | Nizatidine (Dr Reddy's) | Capsule | Not available (cancelled) |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Knowledge-graph contraindication signals** (not taken from label text): liver disease, gallbladder disease, impaired renal function, and gastric cancer and related gastric neoplasms (gastric neoplasm, diffuse gastric adenocarcinoma, linitis plastica, gastric carcinoma).
+- **Drug Interactions**: 100 interactions were found. Examples from the data reviewed:
+  - **Major**: atazanavir, dasatinib
+  - **Moderate**: acalabrutinib, bosutinib, brigatinib, ceritinib, dabrafenib, dacomitinib, cefditoren, cefpodoxime, cefuroxime, chlorpropamide
+  - **Minor**: ketorolac, ibuprofen, diclofenac, alendronic acid, axitinib, cyanocobalamin, magnesium oxide, oxaprozin
+- Many of the interacting kinase inhibitors and antiretrovirals probably involve acid-dependent absorption. The data do not state the mechanism.
+
+Please refer to the package insert for warnings and contraindications, as label text was not available.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high, but there are no trials or literature for this entry, and the original indication and mechanism data are missing. Nizatidine's ulcer use may already be labeled, so it cannot be treated as repurposing until verified.
-
-**Other predictions in this pack (for context):**
-- Gastrojejunal ulcer (score 99.94%) and gastroduodenitis (score 99.58%) are rated L4 and Research Question. Their evidence is indirect, drawn from duodenal and gastric ulcer studies and NSAID-related injury studies.
-- The remaining predictions (peptic ulcer perforation, duodenal obstruction, duodenogastric reflux, multiple endocrine neoplasia) have weak mechanistic links and stay at Hold.
+The top prediction, active peptic ulcer disease, is already an established indication of nizatidine. It is not a true repurposing opportunity, and no repurposing action is needed. All US licences are cancelled. The other predicted indications have indirect or no supporting evidence, and PPIs are generally preferred in those settings.
 
 **To proceed, the following is needed:**
-- The current US package insert, to confirm the approved indications and to fill the missing warnings and contraindications
-- Detailed mechanism of action data (MOA) from DrugBank
-- A targeted literature search for this indication, since the current results for this entry are empty
-- A drug-interaction query, which returned no results
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- Targeted evidence for any lower-ranked indication of interest. Gastrojejunal ulcer and gastroduodenitis have the most plausible mechanistic links.
+- Confirmation of whether any US product is still marketed, given that all licences are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,32 +29,32 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Elapegademase: From ADA-SCID to Diabetic Retinopathy
+# Elapegademase: From ADA-SCID Enzyme Replacement to Diabetic Retinopathy
 
 ## One-Sentence Summary
 
-Elapegademase (Revcovi) is a PEGylated adenosine deaminase enzyme replacement therapy. The Evidence Pack lists no approved-indication text, but public labeling identifies it for adenosine deaminase severe combined immunodeficiency (ADA-SCID).
-The TxGNN model predicts it may be effective for **diabetic retinopathy**, but this is a model output only, with **0 clinical trials** and **0 publications** supporting it.
+Elapegademase (brand name Revcovi) is a PEGylated adenosine deaminase (ADA) enzyme replacement therapy, originally used for ADA-deficient severe combined immunodeficiency (ADA-SCID).
+The TxGNN model predicts it may be effective for **diabetic retinopathy**, but there are currently **0 clinical trials** and **0 publications** supporting this direction. The prediction rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | ADA-SCID (from public labeling; the Evidence Pack's indication text is empty) |
+| Original Indication | Not stated in the US license data (the product is known as an ADA enzyme replacement therapy for ADA-SCID) |
 | Predicted New Indication | Diabetic retinopathy |
 | TxGNN Prediction Score | 99.45% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
+| US Market Status | Cancelled only |
 | Number of NDAs | 1 (BLA761092) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the Evidence Pack. Based on known information, elapegademase is a systemic PEGylated enzyme that converts adenosine to inosine.
+Currently, detailed mechanism of action data is not available. Based on known information, elapegademase is a PEGylated form of the ADA enzyme. It replaces the missing enzyme in ADA-SCID, so it works systemically on purine metabolism.
 
-A link to diabetic retinopathy is conceivable but speculative. Adenosine signaling through A2A/A2B receptors is implicated in retinal angiogenesis and VEGF regulation. However, the direction of effect is unclear, because lowering adenosine could be either pro- or anti-angiogenic. A large PEGylated protein is also unlikely to reach the retina in meaningful amounts.
+No clear mechanistic link to diabetic retinopathy has been established. The high TxGNN score may reflect network proximity through purine metabolism or adenosine signaling, which has been loosely studied in retinal vascular biology. This is speculation and cannot be checked against known pharmacology without MOA data.
 
-The other nine predictions are also eye conditions: severe nonproliferative diabetic retinopathy, diabetic cataract, and several cataract subtypes. They have near-identical scores (0.9937–0.9945), and several share exactly the same score. This points to knowledge-graph clustering around diabetic eye disease rather than independent signals. Severe nonproliferative diabetic retinopathy is a substage of the top prediction. The cataract predictions have no plausible mechanism.
+The other top-ranked predictions are also eye diseases: diabetic cataract, severe nonproliferative diabetic retinopathy, and several cataract types (cortical, nuclear senile, mature, immature, tetanic, craniostenosis, and type 2 diabetes-associated). These likely reflect disease-cluster signals in the knowledge graph rather than drug-specific biology. Cataract formation is driven mainly by polyol pathway activation and oxidative stress, and elapegademase has no known lens-targeted activity.
 
 ## Clinical Trial Evidence
 
@@ -68,27 +68,27 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA761092 | Revcovi (Chiesi USA, Inc.) | Injection | Not listed in the Evidence Pack |
+| BLA761092 | Revcovi (Chiesi USA, Inc.) | Injection | Not stated in the data compiled for this report (status: cancelled) |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug interaction records were found for this drug.
+Please refer to the package insert for safety information.
+
+No drug interaction records were found for this drug, and no contraindication edges linking it to specific diseases were found in the knowledge graph.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score, with no trials or publications. The mechanism is speculative, and ocular delivery of a large systemic enzyme is unaddressed.
+The prediction is supported only by a model score (Evidence Level L5). There are no clinical trials, no publications, and no verified mechanism linking ADA enzyme replacement to diabetic retinopathy or cataract. The US license is also listed as cancelled, and package insert safety data are missing, so the candidate cannot move to safety screening.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism-of-action data, for example from DrugBank
-- Preclinical evidence that adenosine deaminase replacement affects retinal angiogenesis or VEGF signaling
-- An assessment of whether a systemic PEGylated enzyme can reach the retina, or whether an ocular route would be needed
-- A literature and trial search for evidence linking adenosine metabolism to diabetic retinopathy
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- FDA package insert warnings and contraindications (blocking gap for safety screening)
+- Mechanism of action data, for example from DrugBank, to test any link to adenosine or purine signaling in retinal tissue
+- Preclinical evidence (for example retinal or diabetic models) showing a plausible effect of ADA replacement
+- Clarification of the current US regulatory status and original approved indication
+- Assessment of route compatibility, since the drug is a systemic injection and ocular delivery would need to be considered
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

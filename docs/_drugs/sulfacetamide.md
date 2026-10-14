@@ -29,115 +29,93 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Sulfacetamide: From Topical Antibacterial Use to Postinfectious Vasculitis
+# Sulfacetamide: From Acne and Seborrheic Dermatitis to Postinfectious Vasculitis
 
 ## One-Sentence Summary
 
-Sulfacetamide is a sulfonamide antibacterial sold in the US as topical, ophthalmic and dermatologic products such as shampoos, gels, lotions, creams and solutions.
-The TxGNN model ranks **postinfectious vasculitis** as its top predicted new indication, but **0 clinical trials** and **0 publications** support it. This is a model-only prediction.
-
----
+Sulfacetamide is a sulfonamide antibacterial, originally used for skin conditions (acne, seborrheic dermatitis) and eye conditions (conjunctivitis, uveitis).
+The TxGNN model predicts it may be effective for **postinfectious vasculitis**, but **0 clinical trials** and **0 publications** currently support this prediction.
+The prediction rests on graph-based modelling alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the license records (the products are topical, ophthalmic and dermatologic antibacterials) |
+| Original Indication | Acne, seborrheic dermatitis, conjunctivitis, uveitis and related conditions (from the knowledge graph; no approved indication text is available in the US license records) |
 | Predicted New Indication | Postinfectious vasculitis |
-| TxGNN Prediction Score | 99.99% (scores are saturated across all candidates and do not discriminate between them) |
+| TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 4 licenses in total (all cancelled; 1 NDA and 2 ANDAs, 1 without a listed number) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available from DrugBank for this record. Sulfacetamide is a bacteriostatic sulfonamide that inhibits dihydropteroate synthase, blocking bacterial folate synthesis.
+Currently, detailed mechanism of action data is not available. Based on known information, sulfacetamide is a sulfonamide antibacterial. Sulfonamides generally inhibit bacterial dihydropteroate synthase, blocking folate synthesis. Its use in acne, seborrheic dermatitis and bacterial conjunctivitis is consistent with this antibacterial role.
 
-The link to the predicted indication is weak. Postinfectious vasculitis is mainly an immune-complex-mediated inflammatory condition that develops after an infection. An antibacterial has no clear target in it, and the topical products would not reach affected vessels in any case.
+Postinfectious vasculitis, however, is an immune-mediated sequela that follows an infection rather than an active bacterial infection. A direct antibacterial mechanism is therefore unlikely to be relevant. The very high TxGNN score most likely reflects proximity to infectious-disease nodes in the knowledge graph rather than a testable biological link. This should be treated as a weak hypothesis.
 
-The TxGNN score of 0.99994 should not be read as strong support. Scores across all ten candidates fall between about 0.998 and 0.9999. A model-only prediction like this needs independent evidence before it can be considered credible.
+Other top-ranked predictions, none of which has clinical trials, include:
 
----
+| Predicted Indication | TxGNN Score | Assessment |
+|------|------|------|
+| Post-bacterial disorder | 99.99% | Too broad and non-specific to define a testable hypothesis |
+| **Otitis externa** | 99.99% | Most biologically plausible (topical antibacterial for an ear canal infection). However, sulfacetamide has limited activity against *Pseudomonas aeruginosa*, and established fluoroquinolone and aminoglycoside drops are available |
+| Post-infectious syndrome | 99.99% | No clear target; immune-mediated |
+| Infective urethral stricture | 99.99% | Fibrotic condition; no relevant urinary exposure from topical use |
+| Chagas cardiomyopathy | 99.99% | No evidence of activity against *T. cruzi*; topical use would not reach the heart |
+| Infection-related hemolytic uremic syndrome | 99.99% | Antibiotics may worsen toxin-mediated disease; potential safety concern |
+| Punctate epithelial keratoconjunctivitis | 99.98% | Ocular delivery is established, but the condition is often viral or inflammatory |
+| Exposure keratitis | 99.90% | Only literature is an adverse-event case report |
+| Parasitic eyelid infestation (Demodex) | 99.83% | Indirect plausibility only; sulfacetamide is not acaricidal |
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
-
----
+Currently no related clinical trials registered for postinfectious vasculitis or for any of the other top-ranked predicted indications.
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for postinfectious vasculitis.
 
----
-
-## Other Predicted Indications Worth Noting
-
-Only one other candidate has evidence that resembles the antibacterial mechanism. Because the top-ranked prediction has no support, the one candidate with literature is shown here for context.
-
-| Rank | Predicted Indication | Evidence Level | Evidence Summary | Decision Stage |
-|------|------|------|------|------|
-| 3 | Otitis externa | L3 | Four publications, two of them double-blind RCTs. Both tested a fixed combination (trimethoprim-sulphacetamide-polymyxin B), so sulfacetamide's own contribution cannot be isolated. | S1 (Research Question) |
-| 2 | Post-bacterial disorder | L4 | One early Phase 1 osteomyelitis trial, terminated with 11 patients. It gives no efficacy signal. | S0 (Hold) |
-| 10 | Parasitic eyelid infestation | L4 | One Demodex blepharitis paper, which does not test sulfacetamide. | S0 (Hold) |
-| 9 | Exposure keratitis | L5 | Only a 1985 case report of erythema multiforme after topical sulfacetamide. This is a safety signal, not evidence of benefit. | S0 (Hold) |
-
-Ranks 4-8 (post-infectious syndrome, infective urethral stricture, Chagas cardiomyopathy, infection-related hemolytic uremic syndrome, punctate epithelial keratoconjunctivitis) have no trials or literature.
-
-### Otitis externa (rank 3) evidence
+For other predicted indications, two papers were retrieved. Neither supports efficacy:
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [6269476](https://pubmed.ncbi.nlm.nih.gov/6269476/) | 1981 | RCT (double-blind, combination product) | Ann Otolaryngol Chir Cervicofac | 68 patients with otitis externa or otorrhoea. Satisfactory results in 88.6% with trimethoprim-sulphacetamide-polymyxin B, versus 60.6% with trimethoprim-polymyxin B. |
-| [207210](https://pubmed.ncbi.nlm.nih.gov/207210/) | 1978 | RCT (double-blind, combination product vs gentamicin) | Ann Otolaryngol Chir Cervicofac | 100 otorrhoea cases. The combination gave positive results in 42 of 50 patients, and both treatments were effective. |
-| [13095457](https://pubmed.ncbi.nlm.nih.gov/13095457/) | 1953 | Case series | Eye Ear Nose Throat Mon | Uncontrolled report of 30% sodium sulamyd solution in otitis externa and chronic otitis media. |
-| [14867160](https://pubmed.ncbi.nlm.nih.gov/14867160/) | 1951 | Case series | Vestn Otorinolaringol | Uncontrolled report of sulfacyl-sodium in chronic suppurative otitis media and external ear canal inflammation. |
-
-All of this evidence is 45-75 years old and has no phase designation.
-
----
+| [3157322](https://pubmed.ncbi.nlm.nih.gov/3157322/) | 1985 | Case report (adverse event) | American Journal of Ophthalmology | An 8-year-old boy developed erythema multiforme major after topical sulfacetamide for conjunctivitis. This is a hypersensitivity safety signal, not efficacy evidence (linked to exposure keratitis) |
+| [18561612](https://pubmed.ncbi.nlm.nih.gov/18561612/) | 2007 | Observational/Review | Annales Academiae Medicae Stetinensis | Describes Demodex as a cause of chronic marginal blepharitis. Sulfacetamide is not evaluated (linked to parasitic eyelid infestation) |
 
 ## US Market Information
 
-The record lists 20 authorizations. Five are shown below. The records do not include approved indication text.
+All four US licenses are cancelled, and none has approved indication text on record.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| Not listed | PLEXION NS (Eckson Labs, LLC) | Shampoo | Not stated in record |
-| Not listed | SULFACETAMIDE SODIUM (KMM Pharmaceuticals, LLC) | Shampoo | Not stated in record |
-| Not listed | SULFACETAMIDE SODIUM (Cintex Services, LLC) | Gel | Not stated in record |
-| Not listed | OVACE (Mission Pharmacal Company) | Liquid | Not stated in record |
-| ANDA089560 | Sulfacetamide Sodium (Asclemed USA, Inc.) | Solution | Not stated in record |
-
-Other marketed forms in the record include solution/drops, lotion and cream.
-
----
+| NDA019931 | Sodium sulfacetamide (Oceanside Pharmaceuticals) | Lotion | Not available |
+| ANDA089560 | Sulfacetamide Sodium (Asclemed USA, Inc.) | Solution | Not available |
+| ANDA040066 | Sulfacetamide Sodium (NuCare Pharmaceuticals, Inc.) | Solution/Drops | Not available |
+| Not listed | PLEXION NS (Eckson Labs, LLC) | Shampoo | Not available |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Hypersensitivity signal**: A published case report describes erythema multiforme major in a child after topical sulfacetamide (PMID 3157322).
+- **Knowledge-graph contraindication signals** (not label text, so they need verification against the package insert): the graph links sulfacetamide to contraindications in many conditions. Examples include kidney disease, liver disease, hematologic disease, porphyria, G6PD deficiency, diabetes mellitus, cardiovascular disease, hypertension, hyperthyroidism, open-angle and angle-closure glaucoma, herpes simplex virus keratitis, and dermatitis.
+- **Potential concern for the predicted indication**: In infection-related hemolytic uremic syndrome, antibiotics are often avoided.
 
-One safety signal appears in the retrieved literature. A 1985 case report ([PMID 3157322](https://pubmed.ncbi.nlm.nih.gov/3157322/)) describes erythema multiforme major in an 8-year-old boy after topical sodium sulfacetamide for conjunctivitis. Sulfonamide hypersensitivity should be considered in any further work.
-
-Two candidates carry additional cautions. In infection-related hemolytic uremic syndrome, antibiotic exposure is generally cautioned against, and sulfonamides carry renal and hematologic concerns. In otitis externa, irritation and ototoxicity risk with a perforated tympanic membrane needs review.
-
----
+Please refer to the package insert for complete warnings, contraindications and drug interaction information. No drug interaction data were found.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction, postinfectious vasculitis, has no trials or literature and no plausible mechanistic route for an antibacterial. Its TxGNN score is saturated and does not separate it from the other candidates. The package-insert safety review is also still outstanding, a blocking data gap.
+The prediction for postinfectious vasculitis has no clinical trials or literature (Evidence Level L5). Its mechanism is implausible, because an antibacterial would not be expected to treat an immune-mediated sequela. The drug has no currently valid US license, and package insert safety data are missing.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications (blocking data gap DG001)
-- Mechanism of action data from DrugBank (DG002)
-- If any candidate is pursued, start with otitis externa, the only one with controlled-trial literature. This requires evidence that isolates sulfacetamide from the fixed combinations, plus a safety review for ear use.
-- Route compatibility and similarity-to-original analysis, both still pending for every candidate
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- A more testable hypothesis. Of the predicted indications, otitis externa is the most plausible, though it would need comparison against existing topical agents.
+- Evidence that links sulfacetamide to vasculitis or other immune-mediated post-infectious conditions, or a decision to deprioritise this prediction
+- Review of the cancelled license status and available formulations if development is pursued
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

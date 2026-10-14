@@ -29,88 +29,87 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Tazarotene: From Marketed Topical Retinoid to Seborrheic Dermatitis
+# Tazarotene: From Psoriasis to Seborrheic Dermatitis
 
 ## One-Sentence Summary
 
-Tazarotene is a topical retinoid marketed in the US as creams and gels.
-The TxGNN model predicts it may be effective for **seborrheic dermatitis**, but this rests on the model prediction alone.
-There are **0 relevant clinical trials** and **0 publications** for this indication. The one trial retrieved studies acne vulgaris.
-
----
+Tazarotene is a topical retinoid, originally used to treat psoriasis, parapsoriasis, and acne.
+The TxGNN model predicts it may be effective for **Seborrheic Dermatitis**,
+but there are currently **0 clinical trials** and **0 publications** directly supporting this prediction, so it rests on model prediction alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Psoriasis, parapsoriasis, acne |
 | Predicted New Indication | Seborrheic dermatitis |
 | TxGNN Prediction Score | 99.79% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 authorizations (NDA and ANDA combined) |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 11 (all cancelled; includes both NDAs and ANDAs) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Tazarotene is a topical retinoid prodrug. Its active form, tazarotenic acid, selectively activates the retinoic acid receptors RAR-beta and RAR-gamma. This normalizes keratinocyte differentiation and has antiproliferative and anti-inflammatory effects. These actions could plausibly help the scaling and inflammation seen in seborrheic dermatitis.
+Currently, detailed mechanism of action data is not available. Based on known information, tazarotene is a topical retinoid (a RAR-beta/gamma agonist). Its efficacy in psoriasis and acne is established, and mechanistically it may be applicable to seborrheic dermatitis.
 
-The link is indirect and speculative, though. Seborrheic dermatitis is driven mainly by Malassezia-associated inflammation and skin barrier dysfunction, which retinoid activity does not directly address. The very high TxGNN score (0.998) is a model output, not clinical evidence.
+Retinoids normalize keratinocyte differentiation and reduce proliferation and inflammation. Psoriasis is a hyperproliferative, inflammatory skin disease. Seborrheic dermatitis also involves scaling and inflammation, so a shared mechanistic basis is plausible.
 
----
+This link is a hypothesis only. No trials or literature were found to support it. Topical retinoids can cause irritation, and seborrheic dermatitis commonly affects the face, so tolerability is a potential concern.
+
+Other predictions from the model include seborrheic keratosis (score 99.51%) and vulvar inverted follicular keratosis (score 99.38%). Seborrheic keratosis has two related publications, described below. Vulvar inverted follicular keratosis has no supporting evidence.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT06281782](https://clinicaltrials.gov/study/NCT06281782) | N/A | Unknown | 40 | Platelet-rich plasma plus topical retinoids vs topical retinoids alone in acne vulgaris. |
-
-This trial is graded **C (weak relevance)**. It studies acne vulgaris, not seborrheic dermatitis, and gives no efficacy or safety data for the predicted indication. It was likely matched through retinoid and dermatology keywords.
-
----
+Currently no related clinical trials registered for seborrheic dermatitis.
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for seborrheic dermatitis.
 
----
+For reference, the second-ranked prediction, seborrheic keratosis, has two indirect publications. Only titles and partial abstracts were available, so it is not confirmed whether tazarotene showed efficacy in them:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [36215682](https://pubmed.ncbi.nlm.nih.gov/36215682/) | 2023 | Systematic review | J Dermatolog Treat | Reviews efficacy and safety of topical treatments for seborrheic keratoses (26 reports included) |
+| [15090020](https://pubmed.ncbi.nlm.nih.gov/15090020/) | 2004 | Cohort | Int J Dermatol | Compares standard cryosurgery with topical calcipotriene, tazarotene, and imiquimod for seborrheic keratoses |
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+All 11 licenses are cancelled; none is currently valid. Approved indication text was not available. Five main authorizations:
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA021184 | TAZORAC | Cream | Almirall, LLC |
-| ANDA217075 | Tazarotene | Cream | Bryant Ranch Prepack |
-| ANDA217075 | Tazarotene | Cream | Padagis Israel Pharmaceuticals Ltd |
-| ANDA213079 | Tazarotene | Gel | Bryant Ranch Prepack |
-| ANDA213079 | Tazarotene | Gel | Padagis Israel Pharmaceuticals Ltd |
+| NDA021184 | TAZORAC | Cream | Not available (cancelled) |
+| NDA020600 | Tazorac | Gel | Not available (cancelled) |
+| NDA211882 | Arazlo | Lotion | Not available (cancelled) |
+| NDA202428 | tazarotene | Aerosol, foam | Not available (cancelled) |
+| ANDA217075 | TAZAROTENE | Cream | Not available (cancelled) |
 
-Lotion and foam forms are also listed among the marketed dosage forms.
+## Cytotoxicity
 
----
+Not applicable. Tazarotene is not an antineoplastic drug, so this section is omitted from the assessment.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
----
+- **Disease-related contraindications (knowledge graph, not label text)**: photoparoxysmal response, photosensitivity disease, sunburn.
+- **Drug Interactions**: 25 potential interactions were identified, none with a severity level assigned. Examples include doxycycline, minocycline, adapalene, tretinoin, clobetasol, tacrolimus, diclofenac, etodolac, citalopram, and duloxetine. The retinoids (adapalene, tretinoin) and the tetracyclines (doxycycline, minocycline) deserve particular attention for additive irritation or photosensitivity.
+- **Other considerations**: Tazarotene is contraindicated in pregnancy, which matters for women of reproductive age. Package insert warnings and contraindications were not available, so please refer to the package insert for complete safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting clinical evidence (L5). The only trial found concerns acne, and the mechanistic link to seborrheic dermatitis is indirect. A high model score alone does not justify moving forward.
+The prediction score is high (99.79%), but the evidence level is L5: there are no clinical trials and no literature for seborrheic dermatitis. In addition, all US licenses are cancelled, and package insert safety data and mechanism data are missing.
 
 **To proceed, the following is needed:**
-- Obtain the package insert warnings and contraindications, which are currently missing and block safety screening.
-- Search for direct clinical or preclinical studies of topical retinoids, including tazarotene, in seborrheic dermatitis.
-- Assess the tolerability of tazarotene on seborrheic dermatitis sites such as the face and scalp. Route and formulation compatibility is still pending.
-
-**Note on other predictions:** The rank 2 prediction, **seborrheic keratosis** (score 99.51%, L3), has more supporting material. It has one systematic review of topical treatments and one 2004 comparative study that includes tazarotene. However, neither has been confirmed to show that tazarotene works. The rank 3 prediction, vulvar inverted follicular keratosis (99.38%), has no trials or publications and is also L5 / Hold. Seborrheic keratosis may be the better candidate for a first research question.
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism of action data (MOA) from DrugBank
+- Literature and trial searches specific to tazarotene in seborrheic dermatitis
+- Review of the full text of the seborrheic keratosis publications to confirm whether tazarotene was evaluated
+- Clarification of the cancelled US market status and the current availability of the product
+- A tolerability assessment for topical retinoid use on facial seborrheic skin
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

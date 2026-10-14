@@ -29,29 +29,35 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Lurbinectedin: From Small Cell Lung Cancer to Multiple Endocrine Neoplasia
+# Lurbinectedin: From an Unspecified Original Indication to Multiple Endocrine Neoplasia
 
 ## One-Sentence Summary
 
-Lurbinectedin (ZEPZELCA) is a cytotoxic oncology drug marketed in the US for small cell lung cancer. The TxGNN model predicts it may be effective for **multiple endocrine neoplasia**, but there are currently **0 clinical trials** and **0 publications** supporting this direction. The prediction rests on the graph model alone.
+Lurbinectedin is an injectable anticancer drug marketed in the US as ZEPZELCA. The approved indication text is not available in the data compiled for this report.
+The TxGNN model predicts it may be effective for **multiple endocrine neoplasia**, but **no clinical trials and no publications** currently support this prediction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Small cell lung cancer (the approved indication text is blank in the US license record; this comes from the evidence pack's mechanism notes) |
+| Original Indication | Not available in the compiled data |
 | Predicted New Indication | Multiple endocrine neoplasia |
 | TxGNN Prediction Score | 99.44% |
-| Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
+| Evidence Level | L5 (model prediction only) |
+| US Market Status | Cancelled only (no currently valid license in the compiled data) |
 | Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Lurbinectedin is an alkylating agent that binds the DNA minor groove and inhibits RNA polymerase II-driven transcription. It is marketed for small cell lung cancer, which is a neuroendocrine-type tumor.
+Detailed mechanism of action data is not available in the compiled data. Based on general knowledge of the drug, lurbinectedin is an alkylating agent that binds guanines in the DNA minor groove and inhibits oncogenic transcription. It is known to be used in relapsed small cell lung cancer, which is a neuroendocrine tumour. This background is not drawn from the compiled data and should be verified.
 
-Because of that neuroendocrine link, activity in endocrine or neuroendocrine tumors is conceivable. The link is **indirect and speculative**. No trial or literature evidence was retrieved for multiple endocrine neoplasia syndromes, and the score is a graph prediction only.
+Multiple endocrine neoplasia (MEN) syndromes involve tumours of endocrine and neuroendocrine tissue. A link between a transcription-inhibiting cytotoxic agent used in a neuroendocrine cancer and MEN-associated neuroendocrine tumours is plausible. It remains a hypothesis, however, because the TxGNN score is high (0.994) but no trials or publications support it.
+
+Other predicted indications were also reviewed. None has any supporting trial or publication, and all are rated L5 with a Hold recommendation:
+
+- HIV infection, cytomegalovirus infection, rheumatoid arthritis and amyotrophic lateral sclerosis have no clear mechanistic rationale. A cytotoxic agent also carries immunosuppression and toxicity concerns in these populations.
+- Feline AIDS, simian immunodeficiency virus infection, malignant catarrh, infectious bovine rhinotracheitis and Mills syndrome are veterinary or very rare conditions. They are likely graph artifacts of the model and are not relevant to human development.
 
 ## Clinical Trial Evidence
 
@@ -65,34 +71,42 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA213702 | ZEPZELCA (Jazz Pharmaceuticals, Inc.) | Injection, powder, lyophilized, for solution | — |
+| NDA213702 (cancelled) | ZEPZELCA (Jazz Pharmaceuticals, Inc.) | Injection, powder, lyophilized, for solution | Not available |
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (alkylating agent, DNA minor groove binder) |
-| Myelosuppression Risk | High (marked myelosuppression noted in the evidence pack) |
+| Cytotoxicity Classification | Conventional cytotoxic (alkylating-type agent, based on general knowledge) |
+| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | CBC (with differential); please also refer to the package insert |
-| Handling Protection | Must follow cytotoxic drug handling regulations |
+| Monitoring Items | Please refer to the package insert warnings and precautions (typically CBC and liver function) |
+| Handling Protection | Follow cytotoxic drug handling regulations |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No warnings, contraindications, or drug interaction records were retrieved. The only safety signal in the evidence pack is marked myelosuppression, which is a particular concern in immunocompromised patients.
+- **Drug Interactions**: The interaction screening returned 100 interacting drugs. The first 20 reviewed include these main ones:
+  - **Major**: aprepitant, dexamethasone, clarithromycin, cobicistat, deferiprone, samarium (153Sm) lexidronam, lumacaftor
+  - **Moderate**: cimetidine, naltrexone, clotrimazole, glycerol phenylbutyrate, metreleptin, troglitazone, deferasirox, palifermin, strontium chloride Sr-89, ticagrelor, ivacaftor, mercaptopurine
+  - **Minor**: levofloxacin
+
+  Many of the major interactions involve CYP3A-modulating drugs. Concomitant use should be reviewed carefully.
+
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a knowledge-graph score (Evidence Level L5). The mechanistic link is speculative, no clinical trials or publications were found, and safety data have not been obtained. The other nine ranked predictions (HIV, rheumatoid arthritis, ALS, CMV and others) are also L5 and Hold. Four of them are veterinary or animal-model diseases, which suggests knowledge-graph artifacts.
+The prediction rests only on a model score. There are no clinical trials or publications, the original indication and mechanism data are missing, and the US license is cancelled. The evidence level is L5.
 
 **To proceed, the following is needed:**
-- The FDA package insert (warnings, contraindications, approved indication text), which is a blocking gap for safety screening
-- Detailed mechanism of action data from DrugBank
-- Preclinical or clinical evidence in multiple endocrine neoplasia or other neuroendocrine tumors
-- A review of the myelosuppression risk against the target population
+- The FDA package insert, including approved indication, warnings and contraindications
+- Detailed mechanism of action data (for example from DrugBank)
+- A literature and trial search for lurbinectedin in neuroendocrine tumours and MEN syndromes
+- Clarification of the cancelled license status
+- A risk-benefit assessment of cytotoxicity and the major drug interactions for the target population
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -33,102 +33,90 @@ Evidence Level: **L2** | Predicted Indications: **6**
 
 ## One-Sentence Summary
 
-Sodium oxybate (GHB) is a CNS depressant marketed in the US for narcolepsy (cataplexy and excessive daytime sleepiness).
-The TxGNN model predicts it may be effective for **insomnia**, but only **1 small completed Phase 2 randomized trial (n=48)** tests this directly.
-Beyond that trial, the 11 other mapped trials and 14 publications are indirect: other sleep disorders, narcolepsy, or safety reports.
+Sodium oxybate is a central nervous system depressant (gamma-hydroxybutyrate, GHB), originally used to treat narcolepsy and narcolepsy with cataplexy.
+The TxGNN model predicts it may be effective for **insomnia**,
+with **3 clinical trials** (only 1 directly relevant) and **12 publications** currently supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Narcolepsy (cataplexy and excessive daytime sleepiness). The US license records in the data contain no indication text, so this comes from the mechanistic rationale and trial descriptions. |
+| Original Indication | Narcolepsy and narcolepsy-cataplexy syndrome (the label indication text is not available, so this is taken from the knowledge-graph indication list) |
 | Predicted New Indication | Insomnia |
 | TxGNN Prediction Score | 99.997% |
 | Evidence Level | L2 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 9 |
+| US Market Status | Cancelled only (all 4 authorizations are cancelled) |
+| Number of NDAs | 4 (2 NDAs and 2 ANDAs; 0 currently valid) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in DrugBank for this record. Based on known pharmacology, sodium oxybate is a GABA-B and GHB-receptor agonist. It increases slow-wave (deep) sleep and consolidates nighttime sleep. The mechanistic link below is inferred from that pharmacology, not from DrugBank.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, sodium oxybate acts on GABA-B and GHB receptors. It increases slow-wave (N3) sleep and consolidates nighttime sleep. This is consistent with its established effect on disrupted nighttime sleep in narcolepsy.
 
-Narcolepsy involves fragmented nighttime sleep as well as daytime sleepiness. Insomnia, particularly sleep-maintenance insomnia, is a disorder of the same sleep-wake system. A drug that deepens and consolidates sleep is therefore biologically plausible for insomnia. Reviews describe GABA-B agonists as shortening sleep-onset latency and increasing sleep consolidation.
+Narcolepsy involves disrupted nighttime sleep and sleep instability. Insomnia, especially sleep-maintenance insomnia, shares this feature. That makes the prediction biologically plausible. A review of sodium oxybate and baclofen (PMID 21476957) notes that GABA-B agonists shorten sleep-onset latency, increase sleep consolidation and increase slow-wave sleep.
 
-This is a hypothesis, not established benefit. The drug's abuse potential, respiratory depression and CNS-depressant interactions are serious concerns for a condition as common as insomnia. The other TxGNN predictions for this drug (obsolete neurogenic bladder, cauda equina syndrome, Wernicke-Korsakoff syndrome, restless legs syndrome) have no credible support. Some of the literature behind them points to harm, including restless legs syndrome as a possible side effect and GHB abuse leading to Wernicke-Korsakoff syndrome.
+This mechanistic link is inferred and not documented in the source record. The mechanism of GHB is also described in the literature as controversial.
 
 ## Clinical Trial Evidence
 
-Of the 12 trials mapped to insomnia, the table lists the 10 most relevant. Two fibromyalgia trials (NCT01041495, NCT00678691) are omitted as likely spurious matches, and the healthy-volunteer PTSD-intrusion study (NCT04508166) is omitted as unrelated.
-
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00383643](https://clinicaltrials.gov/study/NCT00383643) | Phase 2 | Completed | 48 | Randomized, double-blind, placebo-controlled trial of sodium oxybate vs zolpidem in chronic insomnia. This is the most direct evidence; no results are summarized in the data. |
-| [NCT00330291](https://clinicaltrials.gov/study/NCT00330291) | Phase 2 | Withdrawn | 0 | Xyrem for treatment-refractory insomnia due to PTSD. Never enrolled, so no evidence. |
-| [NCT00641186](https://clinicaltrials.gov/study/NCT00641186) | Phase 2 | Completed | 30 | Open-label study for excessive daytime sleepiness and nocturnal sleep disturbance in Parkinson's disease. Supports safety and sleep effects, but not an insomnia trial. |
-| [NCT00594256](https://clinicaltrials.gov/study/NCT00594256) | Phase 2 | Completed | 8 | Open-label pilot of adjunctive Xyrem for schizophrenia and associated sleep disturbance. Very small and uncontrolled. |
-| [NCT06421532](https://clinicaltrials.gov/study/NCT06421532) | Phase 2 | Enrolling by invitation | 60 | Lower-sodium oxybate to deepen sleep and stimulate glymphatic clearance in cerebral amyloid angiopathy. Tests a sleep-deepening mechanism, not insomnia. |
-| [NCT02637648](https://clinicaltrials.gov/study/NCT02637648) | Phase 3 | Unknown | 60 | Placebo-controlled trial in cluster headache, assessing headache frequency, sleep quality and quality of life. |
-| [NCT07077278](https://clinicaltrials.gov/study/NCT07077278) | Phase 4 | Not yet recruiting | 25 | Low-sodium oxybate randomized withdrawal study in idiopathic hypersomnia with postural tachycardia syndrome. |
-| [NCT03626727](https://clinicaltrials.gov/study/NCT03626727) | Early Phase 1 | Withdrawn | 0 | Xyrem for post-traumatic narcolepsy and hypersomnia. Never enrolled. |
-| [NCT01584934](https://clinicaltrials.gov/study/NCT01584934) | Phase 4 | Withdrawn | 0 | Placebo-controlled crossover in chronic fatigue syndrome. Never enrolled. |
-| [NCT04803786](https://clinicaltrials.gov/study/NCT04803786) | N/A | Completed | 110 | Real-world observational study of narcolepsy patients switching from Xyrem to Xywav. Relevant to the approved indication, not insomnia. |
+| [NCT00383643](https://clinicaltrials.gov/study/NCT00383643) | Phase 2 | Completed | 48 | Randomized, double-blind, placebo-controlled comparison of sodium oxybate (Xyrem) and zolpidem in chronic insomnia. This is the most direct evidence, but results were not available in the data compiled for this report. |
+| [NCT00594256](https://clinicaltrials.gov/study/NCT00594256) | Phase 2 | Completed | 8 | Open-label pilot of add-on Xyrem for schizophrenia and associated sleep disturbances. Only indirectly relevant to insomnia. |
+| [NCT01584934](https://clinicaltrials.gov/study/NCT01584934) | Phase 4 | Withdrawn | 0 | Placebo-controlled crossover trial in chronic fatigue syndrome. No participants were enrolled, so there are no data. |
 
 ## Literature Evidence
 
-The 14 publications mapped to insomnia include no RCTs. The table lists the 10 most relevant.
-
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [40120323](https://pubmed.ncbi.nlm.nih.gov/40120323/) | 2025 | Cohort | J Clin Neurosci | Comorbidities and treatment patterns of narcolepsy patients treated with immediate-release sodium oxybate. |
-| [18852348](https://pubmed.ncbi.nlm.nih.gov/18852348/) | 2008 | Open-label polysomnographic study | Arch Neurol | Sodium oxybate for excessive daytime sleepiness and nocturnal sleep abnormalities in Parkinson's disease. |
-| [26171909](https://pubmed.ncbi.nlm.nih.gov/26171909/) | 2015 | Cochrane review | Cochrane Database Syst Rev | Effects of opioid, hypnotic and sedating medications on sleep-disordered breathing in obstructive sleep apnoea. Relevant to respiratory safety of sedatives. |
-| [37590830](https://pubmed.ncbi.nlm.nih.gov/37590830/) | 2023 | Review | Continuum | Overview of pediatric sleep disorders, including insomnia and narcolepsy. |
-| [18805301](https://pubmed.ncbi.nlm.nih.gov/18805301/) | 2008 | Review | Rev Neurol | Narcolepsy with cataplexy, including sleep-maintenance insomnia as a symptom. |
-| [20166851](https://pubmed.ncbi.nlm.nih.gov/20166851/) | 2010 | Review | Expert Opin Emerg Drugs | Emerging narcolepsy treatments, including nocturnal sleep disruption. |
-| [21815499](https://pubmed.ncbi.nlm.nih.gov/21815499/) | 2011 | Review | Rev Med Suisse | Relationship between sleep disorders and pain, and hypnotic choice. |
-| [20082966](https://pubmed.ncbi.nlm.nih.gov/20082966/) | 2009 | Review | Parkinsonism Relat Disord | Sleepiness and nocturnal sleep problems in Parkinson's disease. |
-| [31526967](https://pubmed.ncbi.nlm.nih.gov/31526967/) | 2019 | Case report | Sleep Med | Sodium oxybate used in a severely sleep-deprived child with EBV encephalitis and a lesion of the sleep-initiation system. |
-| [11174231](https://pubmed.ncbi.nlm.nih.gov/11174231/) | 2001 | Review | Ann Emerg Med | GHB withdrawal syndrome, a safety signal. |
+| [18852348](https://pubmed.ncbi.nlm.nih.gov/18852348/) | 2008 | Open-label polysomnographic study | Archives of Neurology | Sodium oxybate for excessive daytime sleepiness and nocturnal sleep abnormalities in Parkinson disease |
+| [40120323](https://pubmed.ncbi.nlm.nih.gov/40120323/) | 2025 | Retrospective cohort | Journal of Clinical Neuroscience | Treatment patterns of narcolepsy patients on immediate-release sodium oxybate |
+| [19698899](https://pubmed.ncbi.nlm.nih.gov/19698899/) | 2009 | Review | Clinical Therapeutics | Tolerability and abuse liability of GHB for insomnia in patients with schizophrenia |
+| [31526967](https://pubmed.ncbi.nlm.nih.gov/31526967/) | 2019 | Case report | Sleep Medicine | Sodium oxybate used in a severely sleep-deprived child with EBV encephalitis and a lesion of the sleep-wake regulation system |
+| [26171909](https://pubmed.ncbi.nlm.nih.gov/26171909/) | 2015 | Systematic review | Cochrane Database of Systematic Reviews | Effects of opioid, hypnotic and sedating medications on sleep-disordered breathing in obstructive sleep apnoea |
+| [18805301](https://pubmed.ncbi.nlm.nih.gov/18805301/) | 2008 | Review | Revue Neurologique | Overview of narcolepsy with cataplexy, including sleep-maintenance insomnia |
+| [37590830](https://pubmed.ncbi.nlm.nih.gov/37590830/) | 2023 | Review | Continuum | Pediatric sleep disorders, including insomnia and narcolepsy |
+| [42525367](https://pubmed.ncbi.nlm.nih.gov/42525367/) | 2026 | Review | Neurology and Therapy | Current and emerging therapies for pediatric sleep disorders |
+| [42710468](https://pubmed.ncbi.nlm.nih.gov/42710468/) | 2026 | Not classified | Sleep Medicine | Orexin pathway modulation in narcolepsy; mentions sodium oxybate among current treatments |
 
-A closely related entry, "sleep disorder, initiating and maintaining sleep", has two more directly relevant reviews: [21476957](https://pubmed.ncbi.nlm.nih.gov/21476957/) (2011, sodium oxybate and baclofen in sleep disorders) and [19698899](https://pubmed.ncbi.nlm.nih.gov/19698899/) (2009, tolerability and abuse liability of GHB for insomnia in schizophrenia).
+No randomized trial results for sodium oxybate in insomnia appear among the publications. Most are reviews or narcolepsy-focused studies, and some concern other drugs such as pitolisant.
 
 ## US Market Information
 
-The US license records contain no approved-indication text. Duplicate NDA214755 entries are shown once.
-
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA214755 | Lumryz | For suspension, extended release | Avadel CNS Pharmaceuticals, LLC |
-| NDA021196 | Xyrem | Solution | Jazz Pharmaceuticals, Inc. |
-| ANDA210523 | Sodium oxybate | Solution | XLCare Pharmaceuticals, Inc. |
-| ANDA210523 | Sodium oxybate | Solution | Camber Pharmaceuticals, Inc. |
+| NDA214755 | Lumryz (Avadel CNS Pharmaceuticals) | Extended-release suspension | Indication text not available; cancelled |
+| NDA021196 | Xyrem (Jazz Pharmaceuticals) | Solution | Indication text not available; cancelled |
+| ANDA210523 | Sodium oxybate (XLCare Pharmaceuticals) | Solution | Indication text not available; cancelled |
+| ANDA203631 | Sodium oxybate (Amneal Pharmaceuticals) | Solution | Indication text not available; cancelled |
 
 ## Safety Considerations
 
-- **Abuse potential and withdrawal**: GHB has known abuse liability, and a GHB withdrawal syndrome is described in the literature.
-- **Respiratory and CNS depression**: Respiratory depression and interactions with other CNS depressants require a strict safety review before any use in insomnia.
-- **Restless legs syndrome**: A case report and pharmacovigilance data suggest sodium oxybate may induce or worsen restless legs syndrome in narcolepsy patients.
-- **Wernicke-Korsakoff syndrome**: One case report links GHB abuse to Wernicke-Korsakoff syndrome.
-- **Intolerance**: One case report describes sodium oxybate intolerance (cervical dystonia or sleep-related eating disorder) associated with elevated acylcarnitines.
+- **Knowledge-graph contraindications** (from drug-disease edges, not label text): hypertension, epilepsy, anxiety disorder, neurotic disorder, dysthymic disorder, liver disease, gallbladder disease, substance abuse/dependence, obstructive sleep apnea, sleep apnea syndrome, congenital central hypoventilation syndrome, respiratory failure, succinic semialdehyde dehydrogenase deficiency, and parasomnia.
+- **Drug interactions:** 48 interactions were identified. The ones listed in the data compiled for this report include many classified as **Major**, mainly with other central nervous system depressants:
+  - Opioids: morphine, codeine, hydrocodone, opium
+  - Sedating antihistamines: promethazine, chlorpheniramine, brompheniramine, carbinoxamine, acrivastine
+  - Cannabinoids: dronabinol, nabilone
+  - Others: ethanol, bupropion, metoclopramide, fenfluramine, sibutramine
+  - Moderate interactions: diazoxide, amyl nitrite, phentolamine
+- **Literature signals:** case reports describe sleep-related eating disorder and restless legs syndrome emerging during sodium oxybate treatment. A review also discusses its abuse potential.
 
-No drug-interaction records were found. Please refer to the package insert for warnings and contraindications.
+Please refer to the package insert for full warnings and contraindications. The label text was not available for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The mechanism is plausible, and one completed Phase 2 randomized trial (n=48) tested sodium oxybate against zolpidem in chronic insomnia. However, no results are available in the pack, the trial is small, and the rest of the evidence is indirect. Package-insert safety data is missing (a blocking gap), and the drug carries serious abuse and respiratory-depression risks.
+The only directly relevant trial is a small Phase 2 study (n=48) with no available results, so evidence supports L2 at most. Sodium oxybate also carries serious respiratory-depression, misuse and drug-interaction risks. All U.S. authorizations are currently cancelled, and the drug-disease contraindication list includes sleep apnea and respiratory failure, which are common in patients with insomnia. The other predicted indications (neurogenic bladder, cauda equina syndrome, Wernicke-Korsakoff syndrome, restless legs syndrome) have no supporting evidence or point to potential harm. They are not recommended for further work.
 
 **To proceed, the following is needed:**
-- Results of NCT00383643 (efficacy and safety versus zolpidem and placebo)
-- The FDA package insert warnings and contraindications (blocking gap DG001)
-- DrugBank mechanism of action data (DG002)
-- A benefit-risk assessment of abuse liability, respiratory depression and CNS-depressant interactions in a broad insomnia population, including whether a narrower sleep-maintenance or comorbid subgroup is justified
-- Evidence from an adequately powered Phase 3 trial in insomnia
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
+- Results of NCT00383643 (sodium oxybate vs. zolpidem in chronic insomnia)
+- Package insert warnings and contraindications
+- Mechanism of action data
+- A risk-benefit analysis covering respiratory depression, misuse and CNS-depressant interactions
+- Clarification of the current U.S. regulatory status, since all licenses are cancelled
+- A larger Phase 2/3 randomized trial in insomnia with a safety plan that excludes sleep apnea and substance-use disorders
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

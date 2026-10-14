@@ -29,70 +29,89 @@ Evidence Level: **L4** | Predicted Indications: **9**
 
 </div>
 
-# Famciclovir: From Herpesvirus Infections to Post-Infectious Neuralgia
+# Famciclovir: From Herpes Zoster to Post-Infectious Neuralgia
 
 ## One-Sentence Summary
 
-Famciclovir is an oral antiviral prodrug of penciclovir, used against herpesvirus infections such as herpes zoster.
-The TxGNN model predicts it may be effective for **post-infectious neuralgia** (most plausibly postherpetic neuralgia, PHN), but the evidence is thin: **2 clinical trials** were retrieved, neither testing famciclovir, and **no publications** were found.
+Famciclovir is an oral antiviral prodrug of penciclovir, originally used to treat herpes zoster (shingles).
+The TxGNN model predicts it may be effective for **post-infectious neuralgia** (postherpetic neuralgia), but the only clinical trial found tests a different drug (oxycodone), and **no publications** directly support this prediction.
+Evidence is therefore limited to model prediction and indirect mechanistic reasoning.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Herpesvirus infections such as herpes zoster (the license records contain no indication text; this reflects the drug's known use) |
+| Original Indication | Herpes zoster |
 | Predicted New Indication | Post-infectious neuralgia |
 | TxGNN Prediction Score | 99.75% |
 | Evidence Level | L4 |
-| US Market Status | Marketed |
-| Number of NDAs | 20 |
+| US Market Status | Cancelled only (no active licenses) |
+| Number of NDAs | 4 (all cancelled; listed as ANDAs) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the record. Famciclovir is a prodrug of penciclovir. Penciclovir inhibits the DNA polymerase of varicella-zoster virus (VZV) and shortens active viral replication during acute herpes zoster.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, famciclovir is a prodrug of penciclovir, whose triphosphate form inhibits varicella-zoster virus (VZV) DNA polymerase.
 
-PHN is the most common complication of herpes zoster, and here "post-infectious neuralgia" most plausibly refers to it. If early antiviral therapy limits nerve damage during the acute phase, the risk of later chronic neuralgia could fall. This link is plausible but indirect.
+Postherpetic neuralgia is the most common complication of herpes zoster. Starting antiviral treatment early in acute shingles may limit viral replication and nerve damage, which could in turn reduce the risk or severity of subsequent neuralgia.
 
-Neither retrieved trial tests famciclovir for preventing or treating PHN. The prediction therefore rests mainly on the model score and mechanistic reasoning.
+This link is indirect. Famciclovir is already used for the acute zoster episode, and no study retrieved here shows that it prevents or treats postherpetic neuralgia once established.
+
+---
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT03120962](https://clinicaltrials.gov/study/NCT03120962) | Not applicable | Unknown | 140 | Early oxycodone during acute herpes zoster to prevent PHN. Famciclovir is not the studied drug (at most background antiviral therapy). |
-| [NCT06798662](https://clinicaltrials.gov/study/NCT06798662) | Not applicable | Not yet recruiting | 120 | Nerve block plus pulse radiofrequency for acute zoster pain. Not a famciclovir study, and there are no results yet. |
+| [NCT03120962](https://clinicaltrials.gov/study/NCT03120962) | Not applicable | Unknown | 140 | Tests early oxycodone during acute herpes zoster to prevent postherpetic neuralgia. Famciclovir is not the investigational agent, so this offers background context only. |
+
+---
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for this predicted indication.
+
+---
 
 ## US Market Information
 
+All four US authorizations for famciclovir are cancelled, and no approved indication text is recorded for them.
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA202438 | Famciclovir (Proficient Rx LP; also Camber Pharmaceuticals) | Film-coated tablet | Not provided in the record |
-| ANDA201022 | Famciclovir (Macleods Pharmaceuticals) | Film-coated tablet | Not provided in the record |
-| ANDA091114 | Famciclovir (Rising Pharma Holdings) | Film-coated tablet | Not provided in the record |
+| ANDA202438 | Famciclovir (Proficient Rx LP) | Film-coated tablet | Not recorded (cancelled) |
+| ANDA201022 | Famciclovir (Macleods Pharmaceuticals) | Film-coated tablet | Not recorded (cancelled) |
+| ANDA091114 | Famciclovir (Rising Pharma) | Film-coated tablet | Not recorded (cancelled) |
+| ANDA077487 | Famciclovir (Teva Pharmaceuticals USA) | Film-coated tablet | Not recorded (cancelled) |
 
-All listed products are generic (ANDA) oral tablets.
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindications (knowledge-graph associations, not label text)**: kidney disease and pyoureter are linked to famciclovir in the TxGNN knowledge graph.
+- **Drug Interactions**: 84 potential interactions were identified, but severity levels are unclassified. Examples include calcitriol, doxycycline, metformin, omeprazole, morphine, prednisone, simvastatin and vancomycin.
+
+For warnings and full safety information, please refer to the package insert.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The link between famciclovir and PHN is biologically plausible, but no retrieved study tests famciclovir for this use. The evidence is limited to model prediction and mechanistic reasoning, so this stays a research question.
+The prediction score is high, but the supporting evidence is only a model prediction plus an indirect mechanistic argument. The sole trial found studies oxycodone rather than famciclovir, and no literature was retrieved. In addition, all US licenses are cancelled, which limits practical availability.
 
 **To proceed, the following is needed:**
-- Trials or observational studies testing famciclovir for PHN prevention or treatment
-- Package insert warnings and contraindications, which are currently missing
-- Detailed mechanism of action data from DrugBank
-- A decision on whether to prioritize the same pack's **chickenpox** prediction, which has completed Phase 3 famciclovir studies in VZV disease (NCT01327144, NCT00098046). Its primary varicella efficacy is less direct, and pediatric dosing and safety need confirmation.
+- Clinical studies or systematic reviews testing whether famciclovir reduces the incidence or severity of postherpetic neuralgia
+- Detailed mechanism of action data
+- Package insert warnings and contraindications (not yet obtained, and required for safety screening)
+- Clarification of current US market and supply status
+- Renal safety assessment, given the knowledge-graph link to kidney disease
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

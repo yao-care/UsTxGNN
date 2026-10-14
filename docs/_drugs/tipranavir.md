@@ -29,31 +29,37 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tipranavir: From HIV-1 Infection to Simian Immunodeficiency Virus Infection
+# Tipranavir: From HIV Infection to Simian Immunodeficiency Virus Infection
 
 ## One-Sentence Summary
 
-Tipranavir is a non-peptidic HIV-1 protease inhibitor, marketed in the US as Aptivus for HIV-1 infection.
-The TxGNN model predicts it may be effective for **simian immunodeficiency virus (SIV) infection**, an animal-model lentiviral disease.
-This prediction has **0 clinical trials** and **0 publications** supporting it, so it rests on model output alone.
+Tipranavir is an HIV-1 protease inhibitor, originally used to treat HIV infection and AIDS.
+The TxGNN model predicts it may be effective for **simian immunodeficiency virus infection**,
+but there are currently **0 clinical trials** and **0 publications** supporting this prediction. It rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | HIV-1 infection (the license record contains no indication text) |
+| Original Indication | HIV infectious disease; AIDS |
 | Predicted New Indication | Simian immunodeficiency virus infection |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
+| US Market Status | Cancelled only (no active marketing authorization) |
 | Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the source record. Based on known information, tipranavir is an HIV-1 protease inhibitor. Its efficacy in HIV-1 infection is established, and mechanistically it may be applicable to SIV.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general drug knowledge, tipranavir is a non-peptidic HIV-1 protease inhibitor. Its efficacy in HIV infection is established, and mechanistically it may be applicable to simian immunodeficiency virus (SIV).
 
-SIV is a lentivirus closely related to HIV-1, so a protease-inhibitor rationale is plausible. The high score most likely reflects the drug's strong association with HIV-1 in the knowledge graph. However, SIV is a veterinary and animal-model disease with little direct human clinical relevance. No trials or literature were supplied to show that tipranavir actually works against SIV, so activity should not be assumed.
+SIV is a closely related lentivirus with a homologous protease, so activity is biologically plausible. However, SIV infection is a veterinary and preclinical model disease, not a human clinical indication. The very high TxGNN score most likely reflects proximity in the knowledge graph to the approved HIV indication rather than independent evidence. The mechanistic reasoning above is inferred from general knowledge only, since no trials or literature were available.
+
+Other top-ranked predictions are weaker still:
+- **Feline acquired immunodeficiency syndrome** (99.99%): the feline virus protease differs from HIV-1 protease, so cross-reactivity is uncertain.
+- **Congenital HIV** and **AIDS related complex** (99.83%): both fall within the existing HIV indication, so neither is a true repurposing opportunity.
+- **Familial combined hyperlipidemia (obsolete term)** (99.93%): tipranavir is associated with raised triglycerides and cholesterol, so this link reflects an adverse effect, not a therapeutic benefit.
+- **Rare neurodevelopmental disorder, prostate fibroma, Brenner tumor, benign reproductive neoplasm and benign prostate phyllodes tumor**: no plausible mechanistic rationale was identified. These appear to be model artifacts.
 
 ## Clinical Trial Evidence
 
@@ -67,30 +73,30 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA021814 | Aptivus (Boehringer Ingelheim Pharmaceuticals, Inc.) | Capsule, liquid filled (oral) | Not stated in the source record |
+| NDA021814 | Aptivus | Capsule, liquid filled (oral) | Not specified (status: cancelled) |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Package insert warnings and contraindications were not available in the data compiled for this report. Please refer to the package insert for full safety information.
+
+- **Disease-level contraindication signals (knowledge graph, not label text)**: liver failure, liver disease, hepatitis (including chronic hepatitis B and C), gallbladder disease, hyperglycemia, diabetes mellitus, diabetic ketoacidosis, hypertriglyceridemia, hyperbilirubinemia (including Gilbert syndrome), blood coagulation disease, hemophilia, intracranial hemorrhage, brain neoplasm, and injury.
+- **Drug Interactions**: 100 interactions were identified; 20 are listed in the data compiled for this report, mostly Moderate and two Major.
+  - **Major**: acetylsalicylic acid, eluxadoline.
+  - **Moderate (selected)**: antidiabetic agents (metformin, pioglitazone, acarbose, alogliptin, linagliptin, canagliflozin, dapagliflozin, empagliflozin, dulaglutide, albiglutide, chlorpropamide), dexamethasone, clarithromycin, loperamide, eliglustat, cholic acid, magnesium oxide, topical metronidazole.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting trials or literature, so the evidence level is L5. The target is an animal-model disease. The package insert warnings and the mechanism of action are also missing from the source data.
-
-**Other predicted indications:**
-- **Congenital HIV** (rank 5, score 99.83%) is the only candidate with any trial evidence. Nine HIV trials matched at the disease level, but none confirms tipranavir as an intervention, so the level is L4 (indirect evidence only). This is also a direct fit with the approved HIV-1 use rather than true repurposing.
-- **Feline AIDS** (rank 2) is also a veterinary indication. Its protease substrate specificity differs from HIV-1, so activity cannot be assumed.
-- **Familial combined hyperlipidemia** (rank 4) is mechanistically unfavorable, because protease inhibitors, tipranavir/ritonavir in particular, are known to raise triglycerides and cholesterol.
-- **The remaining candidates** (rare neurodevelopmental disorder, prostate fibroma, Brenner tumor, benign reproductive neoplasm, benign prostate phyllodes tumor) have no identified mechanistic link and are likely knowledge-graph artifacts.
+The prediction is supported only by the TxGNN model score, with no clinical trials or literature (Evidence Level L5). SIV is a veterinary and preclinical model, not a human indication. Tipranavir's only US authorization is cancelled, and the knowledge graph flags substantial hepatic, bleeding and metabolic safety signals.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, which are a blocking gap for safety screening
-- Detailed mechanism of action data, for example from the DrugBank API
-- Any in vitro or animal-model evidence of tipranavir activity against SIV or FIV
-- If pursuing the human HIV direction, verification of the intervention arms of the matched trials and of pediatric or perinatal tipranavir use
+- Preclinical in vitro or in vivo data on tipranavir activity against SIV protease
+- Mechanism of action data, which are currently missing
+- Package insert warnings and contraindications for a formal safety screening
+- Clarification of whether a human-relevant indication exists, since the top predictions are veterinary, within the existing HIV indication, or lack a plausible mechanism
+- A review of the regulatory and market situation, given that the only NDA is cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

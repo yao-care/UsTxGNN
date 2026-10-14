@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Nitroglycerin
-parent: High Evidence (L1-L2)
+parent: Moderate Evidence (L3-L4)
 nav_order: 973
-evidence_level: L2
+evidence_level: L3
 indication_count: 5
 ---
 
 # Nitroglycerin
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **5** 
+Evidence Level: **L3** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,106 +29,91 @@ Evidence Level: **L2** | Predicted Indications: **5**
 
 </div>
 
-# Nitroglycerin: From Angina to Pulmonary Hypertension
+# Nitroglycerin: From Angina Pectoris to Pulmonary Hypertension
 
 ## One-Sentence Summary
 
-Nitroglycerin is a nitric oxide (NO) donor vasodilator. It is long established in cardiovascular care, and the pack's cardiac indication text is not populated.
-The TxGNN model predicts it may be useful for **Pulmonary Hypertension**, mainly as an inhaled (nebulized) acute vasodilator.
-Support consists of **12 retrieved trials, 4 of them directly on target**, and **20 publications**. Most of this evidence is small, short-term and non-phase-3.
-
----
+Nitroglycerin is a nitric oxide (NO) donor and vasodilator, long used for angina (the US license data compiled for this report do not list an approved indication text).
+The TxGNN model predicts it may be effective for **pulmonary hypertension**,
+with **3 clinical trials** (1 completed, 1 of unknown status, 1 not yet recruiting) and **20 publications** currently supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Not available in the license data (nitroglycerin is a long-established vasodilator used for angina) |
 | Predicted New Indication | Pulmonary hypertension |
 | TxGNN Prediction Score | 99.61% |
-| Evidence Level | L2 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| Evidence Level | L3 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 9 (all cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the source record. Based on the pack's own assessment, nitroglycerin releases NO, which raises cGMP and relaxes vascular smooth muscle. Its vasodilating effect is already used in the systemic circulation.
+Currently, detailed mechanism of action data is not available in the compiled data. Based on general pharmacology, nitroglycerin is a nitric oxide donor. NO activates soluble guanylate cyclase, raises cGMP in vascular smooth muscle, and causes vasodilation.
 
-Pulmonary hypertension is driven partly by excessive pulmonary vascular tone. A vasodilator acting through the NO–cGMP pathway can therefore plausibly lower pulmonary pressure and resistance. Inhaled or nebulized delivery may act relatively selectively on the lung, with less systemic hypotension than intravenous dosing. Inhaled NO has long been the standard for acute pulmonary hypertension, but access is limited in some settings. Nebulized nitroglycerin has been studied as a lower-cost alternative.
+Pulmonary hypertension is driven in large part by pulmonary vasoconstriction and elevated pulmonary vascular resistance. Vasodilator pathways such as inhaled NO, PDE5 inhibitors and sGC stimulators are already used in this condition. Delivered by nebulization, nitroglycerin may act as a relatively selective pulmonary vasodilator with less systemic hypotension than intravenous use. This is mechanistically coherent with the high TxGNN score.
 
-Human data support acute pulmonary vasodilation in children with congenital heart disease, newborns with persistent pulmonary hypertension (PPHN) and perioperative patients. The evidence is mostly small, phase 1 or non-phased, and short-term. There is no phase 3 RCT and no long-term outcome data.
-
----
+An important caveat: the evidence is mostly hemodynamic, perioperative or small-scale. Systemic nitroglycerin is non-selective and can cause hypotension, and the supporting studies are not definitive trials of long-term efficacy.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT05741229](https://clinicaltrials.gov/study/NCT05741229) | Not phased | Completed | 80 | Nebulized nitroglycerin as an adjuvant in persistent pulmonary hypertension of the newborn, assessed by echocardiography and clinical parameters |
-| [NCT07214129](https://clinicaltrials.gov/study/NCT07214129) | Not phased | Completed | 20 | Nebulized nitroglycerin as a vasoreactive agent in pulmonary arterial hypertension |
-| [NCT04594629](https://clinicaltrials.gov/study/NCT04594629) | Phase 1 | Unknown | 120 | Nebulized nitroglycerin vs nebulized PGI2 (epoprostenol) for pulmonary hypertension after valve replacement surgery. No results confirmed |
-| [NCT01120964](https://clinicaltrials.gov/study/NCT01120964) | Phase 1/2 | Completed | 22 | Placebo-controlled pharmacokinetic and safety study of IV L-citrulline in children undergoing cardiopulmonary bypass. Nitroglycerin's role is unconfirmed, so this is weak support |
-| [NCT06107465](https://clinicaltrials.gov/study/NCT06107465) | Phase 2/3 | Unknown | 60 | High vs low dose nitroglycerin in acute pulmonary edema (SCAPE). Related condition, not pulmonary hypertension |
-| [NCT03259165](https://clinicaltrials.gov/study/NCT03259165) | Phase 2 | Terminated | 52 | Nitroglycerin vs furosemide in acute heart failure using lung ultrasound. Related condition, not pulmonary hypertension |
-
----
+| [NCT07214129](https://clinicaltrials.gov/study/NCT07214129) | N/A | Completed | 20 | Nebulized nitroglycerin as a vasoreactive agent in pulmonary arterial hypertension; directly relevant but small, no results summarized |
+| [NCT04594629](https://clinicaltrials.gov/study/NCT04594629) | Phase 1 | Unknown | 120 | Nebulized PGI2 (epoprostenol) vs nebulized nitroglycerin for pulmonary hypertension after valve replacement surgery; randomized, results unverified |
+| [NCT07603037](https://clinicaltrials.gov/study/NCT07603037) | N/A | Not yet recruiting | 12 | Nicardipine vs nitroglycerin effects on ventilation-perfusion ratio in acute respiratory failure; only tangentially related |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [40888971](https://pubmed.ncbi.nlm.nih.gov/40888971/) | 2025 | RCT | Eur J Pediatr | 80 term newborns with PPHN randomized to nebulized nitroglycerin or control. Outcomes were echocardiographic and clinical parameters |
-| [29880427](https://pubmed.ncbi.nlm.nih.gov/29880427/) | 2018 | RCT | J Cardiothorac Vasc Anesth | Dobutamine plus nitroglycerin vs milrinone in severe pulmonary hypertension during mitral valve replacement |
-| [14508317](https://pubmed.ncbi.nlm.nih.gov/14508317/) | 2003 | Clinical study | Anesthesiology | Postoperative hemodynamic effects of nitroglycerin inhalation in pulmonary hypertension patients undergoing mitral valve replacement |
-| [15947535](https://pubmed.ncbi.nlm.nih.gov/15947535/) | 2005 | Retrospective study | Congest Heart Fail | Acute hemodynamic effects of IV nitroglycerin, dipyridamole and epoprostenol in 59 pulmonary arterial hypertension patients |
-| [34082850](https://pubmed.ncbi.nlm.nih.gov/34082850/) | 2021 | Review | Cardiol Young | Nitroglycerin inhalation for acute pulmonary arterial hypertension in children with congenital heart disease |
-| [31250045](https://pubmed.ncbi.nlm.nih.gov/31250045/) | 2019 | Clinical study | Eur J Clin Pharmacol | Influence of the ALDH2 polymorphism on nitroglycerin's vasodilatory effect in infants with congenital heart disease and pulmonary arterial hypertension |
-| [10214095](https://pubmed.ncbi.nlm.nih.gov/10214095/) | 1999 | Case series | W V Med J | Nebulized nitroglycerin in 4 children with pulmonary hypertension secondary to congenital heart disease |
-| [6423015](https://pubmed.ncbi.nlm.nih.gov/6423015/) | 1984 | Clinical study | Bull Eur Physiopathol Respir | Sublingual nitroglycerin lowered pulmonary artery pressure in COPD-related pulmonary hypertension and was the only nitrate to reduce pulmonary vascular resistance |
-| [6407380](https://pubmed.ncbi.nlm.nih.gov/6407380/) | 1983 | Clinical study | Ann Intern Med | In 9 patients with chronic pulmonary hypertension, nitroglycerin lowered pulmonary vascular resistance by about 40% and raised cardiac index by about 40% |
-| [3096761](https://pubmed.ncbi.nlm.nih.gov/3096761/) | 1986 | Clinical study | Eur J Respir Dis Suppl | Transdermal nitroglycerin lowered pulmonary artery pressure within 24 hours, and the effect persisted after 4 weeks |
-
----
+| [40888971](https://pubmed.ncbi.nlm.nih.gov/40888971/) | 2025 | RCT | Eur J Pediatr | Nebulized nitroglycerin as an adjuvant in persistent pulmonary hypertension of the newborn (80 neonates); echocardiographic and clinical parameters assessed |
+| [29880427](https://pubmed.ncbi.nlm.nih.gov/29880427/) | 2018 | RCT | J Cardiothorac Vasc Anesth | Dobutamine plus nitroglycerin vs milrinone for perioperative pulmonary hypertension in mitral valve surgery |
+| [34082850](https://pubmed.ncbi.nlm.nih.gov/34082850/) | 2021 | Clinical study / review | Cardiol Young | Inhaled nitroglycerin for acute pulmonary arterial hypertension in children with congenital heart disease |
+| [16707530](https://pubmed.ncbi.nlm.nih.gov/16707530/) | 2006 | Clinical study | Br J Anaesth | Inhaled nitroglycerin acutely affects pulmonary and systemic haemodynamics in children with PAH and congenital heart disease |
+| [6407380](https://pubmed.ncbi.nlm.nih.gov/6407380/) | 1983 | Hemodynamic study | Ann Intern Med | In 9 patients with chronic pulmonary hypertension, nitroglycerin raised cardiac index about 40% and lowered pulmonary vascular resistance about 40% |
+| [6423015](https://pubmed.ncbi.nlm.nih.gov/6423015/) | 1984 | Hemodynamic study | Bull Eur Physiopathol Respir | In COPD-related pulmonary hypertension, nitroglycerin lowered pulmonary arterial pressure and, unlike isosorbide dinitrate, pulmonary vascular resistance |
+| [3096761](https://pubmed.ncbi.nlm.nih.gov/3096761/) | 1986 | Clinical study | Eur J Respir Dis Suppl | Transdermal nitroglycerin lowered pulmonary artery pressure, with the effect sustained over 4 weeks |
+| [8908227](https://pubmed.ncbi.nlm.nih.gov/8908227/) | 1996 | Hemodynamic study | Acta Anaesthesiol Scand | Pulmonary vascular effects of nitroglycerin vs isosorbide dinitrate in end-stage cardiomyopathy |
+| [42572609](https://pubmed.ncbi.nlm.nih.gov/42572609/) | 2026 | Review | JHLT Open | Inhaled pulmonary vasodilators in the perioperative setting; notes that nitroglycerin lacks pulmonary selectivity |
+| [26139748](https://pubmed.ncbi.nlm.nih.gov/26139748/) | 2015 | Review | Ann Card Anaesth | Inhaled therapy for perioperative pulmonary hypertension as an alternative to inhaled NO |
 
 ## US Market Information
 
-The record lists 20 authorizations; the 5 main ones are shown. Approved-indication text is not populated in the source data.
+All nine US authorizations are cancelled; none is currently valid. Indication text is not available for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA020145 | Nitroglycerin Transdermal Infusion System | Patch | Dr. Reddy's Laboratories, Inc. |
-| Not listed | Glonoinum | Pellet | Hahnemann Laboratories, Inc. |
-| NDA021134 | Nitroglycerin | Tablet | Mylan Pharmaceuticals Inc. |
-| ANDA217879 | Nitroglycerin | Tablet | Aurobindo Pharma Limited |
-| ANDA206391 | Nitroglycerin | Tablet | Glenmark Pharmaceuticals Inc., USA |
-
-Other forms on the US market include spray and injectable solution. A nebulized or inhaled formulation is not among the authorized forms listed, so the leading pulmonary hypertension use would be off-label.
-
----
+| NDA020145 | Nitroglycerin Transdermal Infusion System | Patch | Not available |
+| NDA021134 | Nitroglycerin | Tablet | Not available |
+| ANDA217879 | Nitroglycerin | Tablet | Not available |
+| ANDA091496 | Nitroglycerin lingual | Spray | Not available |
+| ANDA072034 | Nitroglycerin | Injection, solution | Not available |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindication signals (from a knowledge graph, not label text)**: hypotensive disorder, hypertrophic cardiomyopathy, methemoglobinemia, sulfhemoglobinemia, anemia, macrocytic anemia, intracerebral hemorrhage, constrictive pericarditis, restrictive cardiomyopathy, cardiac tamponade.
+- **Drug Interactions**: 100 interactions were identified in total. Moderate-level examples include morphine, bupropion, the SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin), dronabinol, nabilone, sapropterin and rosiglitazone. Minor-level examples include aspirin, omeprazole, and anticholinergics (atropine, hyoscyamine, scopolamine, glycopyrronium).
 
----
+For label-based warnings and contraindications, please refer to the package insert.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Several small human studies, including a completed 80-patient RCT in newborns, show acute pulmonary vasodilation with nebulized nitroglycerin. Evidence is limited to small, short-term, mostly non-phase-3 studies, with no long-term outcome data. The package-insert safety review is also incomplete, which blocks moving forward.
+The biological rationale is coherent and there are small randomized and hemodynamic studies, including a 2025 RCT in neonatal PPHN. However, there is no completed Phase 2/3 RCT, the main comparator trial is of unknown status, and all US licenses are cancelled. Label-based safety data are also missing. This is best treated as a research question rather than a candidate for advancement now.
 
 **To proceed, the following is needed:**
-- Package-insert warnings and contraindications, obtained from the FDA label
-- Confirmation of the mechanism of action from DrugBank
-- Results of the pending or unknown-status trials (NCT04594629 and others), plus a larger controlled trial with clinically meaningful endpoints, ideally phase 2/3
-- A dosing and formulation plan for inhaled delivery, since no such form is authorized
-- Safety guardrails: systemic hypotension, nitrate tolerance, avoiding co-administration with PDE5 inhibitors, and ventilation-perfusion mismatch in chronic lung disease
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- Results from the completed nebulized nitroglycerin PAH study (NCT07214129) and verification of the status of NCT04594629
+- Adequately powered controlled trials of the nebulized route, with a hypotension and gas-exchange monitoring plan
+- A formulation and route plan, since no inhaled product is currently authorized in the US
 
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before use.*
+**Other predicted indications (brief):** Prinzmetal angina (score 99.39%, L4) is supported by general reviews and long-standing nitrate use, but this is probably existing practice rather than true repurposing. Kyphoscoliotic heart disease, primary hereditary glaucoma and congenital hypotrichosis milia have no clinical or literature evidence and little plausible mechanism, so Hold is recommended.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

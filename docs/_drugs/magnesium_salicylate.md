@@ -29,87 +29,78 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Magnesium Salicylate: From Oral Analgesic Products (Indication Not Listed) to Spondyloarthropathy, Susceptibility To
+# Magnesium Salicylate: From Arthropathy and Pain Conditions to Spondyloarthropathy (Susceptibility)
 
 ## One-Sentence Summary
 
-Magnesium salicylate is a salicylate (NSAID-class) compound sold in the US in oral products, several named for back pain relief. The TxGNN model predicts it may be effective for **spondyloarthropathy, susceptibility to**, but **no clinical trials and no publications** currently support this prediction. It is a model-only signal (Evidence Level L5).
-
----
+Magnesium salicylate is a salicylate-class anti-inflammatory and analgesic, originally used for joint and musculoskeletal conditions such as rheumatoid arthritis, osteoarthritis, bursitis and headache disorders.
+The TxGNN model predicts it may be effective for **spondyloarthropathy, susceptibility to**, but **no clinical trials and no publications** currently support this prediction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the regulatory data (product names such as "Back Pain Relief" suggest pain relief) |
+| Original Indication | Bursitis, synovitis, tenosynovitis, rheumatoid arthritis, headache disorder, osteoarthritis, arthropathy (from the knowledge-graph indication list; no approved indication text on the US licenses) |
 | Predicted New Indication | Spondyloarthropathy, susceptibility to |
 | TxGNN Prediction Score | 99.98% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 8 licenses (5 shown below) |
+| US Market Status | Cancelled only (no active marketing) |
+| Number of NDAs | 3 (all cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, magnesium salicylate is a non-acetylated salicylate in the NSAID class. NSAIDs inhibit COX and prostaglandin synthesis and are used for pain and inflammation. Non-acetylated salicylates inhibit COX only weakly.
+Currently, detailed mechanism of action data is not available. Based on known information, magnesium salicylate is a non-selective COX-inhibiting salicylate (NSAID class) with anti-inflammatory activity. Its use in inflammatory joint conditions is established, and mechanistically it may be applicable to inflammatory spondyloarthropathies, where NSAIDs are first-line symptomatic therapy.
 
-"Spondyloarthropathy, susceptibility to" describes a genetic susceptibility phenotype, not a directly treatable clinical condition. Any link to the drug would be indirect, through the class effect of NSAIDs on the symptoms of inflammatory spondyloarthritis. The score of 99.98% therefore should not be read as evidence of efficacy.
-
-The other predicted indications do not clarify the picture:
-- **Ankylosing spondylitis** (rank 5, score 99.96%) is the most clinically meaningful candidate. NSAIDs are established symptomatic therapy, so it is classed as L4 (a research question). However, no drug-specific trial or publication was supplied, and efficacy relative to standard NSAIDs is unproven.
-- **Rare skeletal and developmental disorders** (for example brachyolmia, pseudoachondroplasia, acromesomelic dysplasia) show no plausible mechanism. These high scores most likely reflect knowledge-graph proximity between skeletal phenotypes, not pharmacology.
-
----
+Important caveats:
+- "Spondyloarthropathy, susceptibility to" is a genetic susceptibility category rather than a treatable clinical entity. The very high score most likely reflects proximity in the knowledge graph to the drug's existing arthropathy indications.
+- The link is inferred only from drug class and the model prediction. No drug-specific trial or literature evidence was compiled.
+- Of the other top-10 predictions, **ankylosing spondylitis** (score 99.96%) is biologically the most plausible. NSAIDs are guideline-recommended first-line therapy, but salicylates are generally considered less effective than other NSAIDs (e.g., naproxen, celecoxib) for axial spondyloarthritis, so any added value would be incremental. Most of the remaining predictions (rare skeletal dysplasias and malformation syndromes such as acromesomelic dysplasia, brachyolmia and brachydactyly-syndactyly syndrome) have no plausible mechanistic link and look like graph artifacts. Pseudoachondroplasia and hypermobility of coccyx offer only indirect, symptomatic pain-relief rationales.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| M013 | Percogesic | Tablet, coated | Not listed |
-| M013 | Maximum Strength Backache Relief | Capsule, coated | Not listed |
-| M013 | Medique Back Pain Relief | Tablet, film coated | Not listed |
-| part343 | Doans | Tablet | Not listed |
-| M013 | Medique at Home Back Pain Relief | Tablet, film coated | Not listed |
+| Authorization Number | Product Name | Dosage Form | Approved Indication | Status |
+|---------|------|------|-----------|------|
+| M013 | Percogesic | Coated tablet | Not specified | Cancelled |
+| part343 | Doans | Tablet | Not specified | Cancelled |
+| M027 | Diurex | Coated tablet | Not specified | Cancelled |
 
-All listed products are oral formulations.
-
----
+All three authorizations are single-ingredient products and have been cancelled, so there is currently no actively marketed US product.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+No label-based warnings, contraindications or drug-interaction data were available for this report. Please refer to the package insert for safety information.
 
----
+Knowledge-graph contraindication associations (not label text) flag the following disease areas for caution:
+- **Hepatic and renal:** liver failure, liver disease, kidney disease, impaired renal function
+- **Gastrointestinal:** peptic ulcer disease, gastritis, gallbladder disease
+- **Bleeding and blood:** thrombocytopenia, blood coagulation disease, hemophilia, anemia (including macrocytic anemia)
+- **Cardiovascular:** hypertension, hypertensive disorder, cardiovascular disease, heart disease, sudden cardiac arrest, heart conduction disease
+- **Metabolic:** diabetes mellitus, diabetic ketoacidosis, gout
+- **Eye:** angle-closure glaucoma, closed-angle glaucoma, ocular hypertension
+- **Other:** epilepsy, insomnia, benign prostatic hyperplasia, pyoureter, substance abuse/dependence, paracetamol poisoning
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on the model score alone, with no trials, no literature, and no confirmed mechanism. The top-ranked disease is a genetic susceptibility phenotype and cannot be treated directly. The only clinically plausible neighbour, ankylosing spondylitis, is supported only by the general NSAID class effect.
+The prediction is supported only by the model score and a class-based rationale (L5). The predicted indication is a genetic susceptibility category rather than a clinical disease, no trials or literature were found, other NSAIDs have much stronger evidence in spondyloarthritis, and all US licenses are cancelled. Ankylosing spondylitis could be kept as a research question, but it does not justify advancing development at this stage.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (blocking for safety screening)
-- Mechanism of action data for magnesium salicylate
-- The approved indication text for the US products
-- A focused literature and trial search on magnesium salicylate in ankylosing spondylitis or axial spondyloarthritis, including a comparison against standard NSAIDs
-- Route compatibility assessment (currently pending)
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- A systematic literature search for salicylates in ankylosing spondylitis and axial spondyloarthritis
+- A comparison against standard NSAIDs and a commercial-viability assessment given the cancelled market status
+- Route and formulation compatibility assessment (currently pending)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

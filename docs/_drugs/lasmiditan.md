@@ -29,95 +29,80 @@ Evidence Level: **L4** | Predicted Indications: **3**
 
 </div>
 
-# Lasmiditan: From Acute Migraine to Migraine with Brainstem Aura
+# Lasmiditan: From Migraine to Migraine with Brainstem Aura
 
 ## One-Sentence Summary
 
-Lasmiditan (US brand name Reyvow) is an oral 5-HT1F receptor agonist approved in the US for the acute treatment of migraine with or without aura in adults.
-The TxGNN model predicts it may also be useful for **migraine with brainstem aura**, a specific aura subtype.
-This prediction has **0 registered clinical trials** and **18 publications** behind it. The publications mostly cover migraine in general, and none tests lasmiditan directly in brainstem aura.
-
----
+Lasmiditan is a selective 5-HT1F receptor agonist, originally used for the acute treatment of migraine with or without aura.
+The TxGNN model predicts it may be effective for **migraine with brainstem aura**,
+but there are currently **0 registered clinical trials** and only indirect support from the literature (**17 publications**, none with brainstem aura-specific data for lasmiditan).
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Acute treatment of migraine with or without aura in adults (taken from the literature, because the US license records contain no indication text) |
+| Original Indication | Migraine (acute treatment of migraine with or without aura) |
 | Predicted New Indication | Migraine with brainstem aura |
 | TxGNN Prediction Score | 99.92% |
 | Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 2 records (both are NDA211280) |
+| US Market Status | Cancelled only |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the source record. Based on the literature, lasmiditan is a selective serotonin 5-HT1F receptor agonist and the first and only FDA-approved drug of this type. Unlike triptans, it acts on the trigeminovascular pathway without causing vasoconstriction. This mechanistic description comes from the cited publications and general knowledge, not from structured drug data.
+Lasmiditan is an orally available serotonin 5-HT1F receptor agonist. It acts centrally and, unlike triptans, does not cause vasoconstriction. The US FDA approved it in October 2019 for the acute treatment of migraine with or without aura in adults, based on two pivotal Phase 3 trials. The data compiled for this report do not include a formal mechanism-of-action entry, so this description comes from the published literature.
 
-The original indication (acute migraine with or without aura) already covers migraine with aura. Migraine with brainstem aura is a rare aura subtype whose pathophysiology is not fully understood. A recent review proposes that spreading depolarization probably causes aura and may also trigger trigeminal sensory activation, which underlies the headache. Vasodilation is considered only a secondary feature. Because lasmiditan works on the neuronal pain pathway and not through blood vessels, it is plausible that it could relieve the headache phase in this subtype.
+Migraine with brainstem aura is a subtype of migraine with aura, so it shares the trigeminovascular pathophysiology of the parent indication. The lack of vasoconstriction is of particular interest for aura subtypes, where vasoconstrictors such as triptans have traditionally been used with caution.
 
-This link is only a hypothesis. No study in the evidence set gives lasmiditan to patients with brainstem aura. The only brainstem aura paper is a case report that does not involve lasmiditan.
-
----
+The evidence is indirect, however. The Phase 3 trials enrolled general migraine populations, and none of the supplied literature reports brainstem aura-specific efficacy or safety data for lasmiditan. The only subtype-specific items are a general migraine review and a case report on brainstem aura with disorders of consciousness, and neither involves lasmiditan. The prediction is therefore an extrapolation from the parent indication.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
-The pivotal Phase 3 trials cited in the literature (see below) enrolled patients with migraine with or without aura in general. They were not designed to test brainstem aura.
-
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [32857291](https://pubmed.ncbi.nlm.nih.gov/32857291/) | 2020 | Systematic review / Meta-analysis of RCTs | CNS Drugs | Lasmiditan is the first and only FDA-approved 5-HT1F agonist for acute migraine with or without aura |
-| [31132795](https://pubmed.ncbi.nlm.nih.gov/31132795/) | 2019 | Phase 3 RCT | Brain | Randomized, placebo-controlled study of lasmiditan in migraine with and without aura, including patients with cardiovascular history |
-| [36138260](https://pubmed.ncbi.nlm.nih.gov/36138260/) | 2022 | RCT subgroup analysis | Adv Ther | Efficacy of lasmiditan across patient and migraine characteristics in Japanese patients (MONONOFU trial) |
-| [33990951](https://pubmed.ncbi.nlm.nih.gov/33990951/) | 2021 | Phase 2 RCT | Headache | Efficacy and safety of lasmiditan in Japanese adults with migraine |
-| [22459549](https://pubmed.ncbi.nlm.nih.gov/22459549/) | 2012 | Phase 2 RCT | Lancet Neurol | Oral lasmiditan, a 5-HT1F agonist without vasoconstrictor activity, was tested for acute migraine in a dose-ranging study |
-| [32783644](https://pubmed.ncbi.nlm.nih.gov/32783644/) | 2020 | Post hoc analysis of 2 Phase 3 RCTs | Curr Med Res Opin | Assessed whether common migraine comorbidities affect lasmiditan efficacy and safety |
-| [35790906](https://pubmed.ncbi.nlm.nih.gov/35790906/) | 2022 | Network meta-analysis | J Headache Pain | Indirect comparison of lasmiditan with rimegepant and ubrogepant for onset of efficacy in acute migraine |
-| [31749059](https://pubmed.ncbi.nlm.nih.gov/31749059/) | 2019 | Review (approval summary) | Drugs | FDA approval in October 2019 was based on two positive pivotal Phase 3 trials |
-| [33907459](https://pubmed.ncbi.nlm.nih.gov/33907459/) | 2021 | Case report / Review | J Pain Res | Describes migraine with brainstem aura accompanied by disorders of consciousness. Lasmiditan is not involved |
-| [35027572](https://pubmed.ncbi.nlm.nih.gov/35027572/) | 2022 | Review | Nat Rev Dis Primers | Migraine overview. Spreading depolarization is the probable cause of aura, and vasodilation is only secondary |
-
----
+| [32857291](https://pubmed.ncbi.nlm.nih.gov/32857291/) | 2020 | Meta-analysis of RCTs | CNS Drugs | Systematic review of RCTs of lasmiditan for acute migraine in adults; lasmiditan is the first and only FDA-approved 5-HT1F agonist |
+| [31132795](https://pubmed.ncbi.nlm.nih.gov/31132795/) | 2019 | Phase 3 RCT | Brain | Double-blind, placebo-controlled study in patients with migraine with and without aura, including those with a cardiovascular history |
+| [22459549](https://pubmed.ncbi.nlm.nih.gov/22459549/) | 2012 | Phase 2 RCT | Lancet Neurology | Dose-ranging study of oral lasmiditan, a centrally acting 5-HT1F agonist without vasoconstrictor activity, for acute migraine |
+| [33990951](https://pubmed.ncbi.nlm.nih.gov/33990951/) | 2021 | Phase 2 RCT | Headache | Placebo-controlled study of efficacy and safety in Japanese adults with migraine |
+| [32783644](https://pubmed.ncbi.nlm.nih.gov/32783644/) | 2020 | Post hoc analysis of RCTs | Curr Med Res Opin | Effect of common migraine comorbidities on lasmiditan efficacy and safety in two Phase 3 trials |
+| [36138260](https://pubmed.ncbi.nlm.nih.gov/36138260/) | 2022 | Post hoc analysis of RCT | Adv Ther | Efficacy across patient and migraine characteristics in Japanese patients (MONONOFU trial) |
+| [35790906](https://pubmed.ncbi.nlm.nih.gov/35790906/) | 2022 | Network meta-analysis | J Headache Pain | Indirect comparison of lasmiditan with rimegepant and ubrogepant for acute migraine |
+| [31749059](https://pubmed.ncbi.nlm.nih.gov/31749059/) | 2019 | Review | Drugs | FDA first-approval summary; approval based on two pivotal Phase 3 trials |
+| [35027572](https://pubmed.ncbi.nlm.nih.gov/35027572/) | 2022 | Review | Nat Rev Dis Primers | General migraine review; spreading depolarization is thought to cause aura |
+| [33907459](https://pubmed.ncbi.nlm.nih.gov/33907459/) | 2021 | Case report | J Pain Res | Migraine with brainstem aura accompanied by disorders of consciousness; does not involve lasmiditan |
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA211280 | Reyvow (Eli Lilly and Company) | Tablet (oral) | Acute treatment of migraine with or without aura in adults (per literature; the license record has no indication text) |
-
-The source lists two license entries, both identical (NDA211280, Reyvow, tablet), so they are shown once here.
-
----
+| NDA211280 (cancelled) | Reyvow | Tablet | Not specified in the data compiled for this report |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: 100 interactions were identified. Those listed include:
+  - **Major**: lorcaserin, dolasetron, palonosetron
+  - **Moderate**: famotidine, ranitidine, cimetidine, hyoscyamine, atropine, dicyclomine, loperamide, bupropion, morphine, saxagliptin, sitagliptin, linagliptin, empagliflozin, dronabinol, nabilone, eliglustat, naldemedine
 
----
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high, and lasmiditan is already marketed for migraine with or without aura. However, no trial or study tests it in migraine with brainstem aura, so the evidence for this specific subtype is at the mechanism-plausibility level (L4). Safety data and mechanism data are also missing from the record. This is best treated as a research question, not a development candidate. The other two predicted indications (atrophoderma vermiculata and ulerythema ophryogenes, both L5) have no plausible mechanistic link to lasmiditan and are not recommended for follow-up.
+The prediction is biologically plausible because migraine with brainstem aura is a subtype of migraine with aura, but no brainstem aura-specific data for lasmiditan exist (Evidence Level L4). The only US authorization is cancelled, so current availability is uncertain.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, which are currently missing and block safety screening
-- Structured mechanism of action data (for example from DrugBank)
-- Subgroup analyses from the existing Phase 3 trials, or new case series, showing lasmiditan's effect specifically in patients with brainstem aura
-- A safety review for this subtype, given the neurological symptoms of brainstem aura and lasmiditan's central nervous system effects
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
+- Confirm the current US market and availability status of lasmiditan
+- Review the package insert for warnings and contraindications
+- Obtain detailed mechanism of action data
+- Collect brainstem aura-specific evidence, such as subgroup analyses of the existing Phase 3 trials or a dedicated clinical study
+- Assess the safety of lasmiditan in brainstem aura patients, who may have neurological symptoms such as altered consciousness
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

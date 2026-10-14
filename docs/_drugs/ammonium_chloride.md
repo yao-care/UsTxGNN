@@ -29,62 +29,79 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Ammonium Chloride: From an Unlisted Original Indication to Acute Laryngopharyngitis
+# Ammonium Chloride: From Pharyngitis and Common Cold to Acute Laryngopharyngitis
 
 ## One-Sentence Summary
 
-Ammonium chloride is marketed in the US in smelling salts, homeopathic pellets and similar products, and is known in general pharmacology as an oral expectorant. No approved indication text is recorded in the Evidence Pack.
-The TxGNN model predicts it may be effective for **acute laryngopharyngitis**, but there are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model alone.
+Ammonium chloride was originally associated with upper respiratory conditions such as pharyngitis, the common cold and nasopharyngitis.
+The TxGNN model predicts it may be effective for **acute laryngopharyngitis**,
+but there are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded (no approved indication text in the US licence data) |
+| Original Indication | Pharyngitis, common cold, nasopharyngitis (from the knowledge graph; no approved indication text is available in the US licence records) |
 | Predicted New Indication | Acute laryngopharyngitis |
 | TxGNN Prediction Score | 99.94% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| US Market Status | Cancelled only |
+| Number of NDAs | 3 (all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, ammonium chloride is used as an expectorant in cough and cold preparations. It is thought to irritate the gastric mucosa and reflexively increase respiratory tract fluid secretion. Mechanistically, this may be relevant to upper airway conditions.
+Currently, detailed mechanism of action data is not available. Based on known information, ammonium chloride is traditionally used as an expectorant, which could loosen secretions in upper airway inflammation. Its mechanism has not been verified from the data compiled for this report.
 
-The link to acute laryngopharyngitis is plausible but unverified. Expectorant activity does not establish benefit for inflammation of the larynx and pharynx. The very high TxGNN score is a model output only and has no trial or literature evidence behind it. The connection should be treated as hypothesis-level.
+The original indications (pharyngitis, common cold, nasopharyngitis) are anatomically and clinically very close to acute laryngopharyngitis. The very high score therefore likely reflects overlap with the existing upper respiratory tract label rather than a genuinely new repurposing signal.
 
-A second prediction, **nasal cavity disease** (score 99.94%), has the same limitations. It is also evidence level L5 with a Hold recommendation. The term is too broad to frame a testable question, and would need to be narrowed (for example, to rhinitis or sinusitis) first.
+The second-ranked prediction, **nasal cavity disease** (score 99.94%), has the same limitations. It is a broad category overlapping with the common cold and nasopharyngitis, and it is too non-specific to define a trial endpoint or target population. Neither prediction has clinical trial or literature support.
+
+## Clinical Trial Evidence
+
+Currently no related clinical trials registered.
+
+## Literature Evidence
+
+Currently no related literature available.
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| Not listed | Bardown Smelling Salts | Liquid | Not listed |
-| Not listed | Ammonium Muriaticum | Pellet | Not listed |
-| 505G(a)(3) | LRNASH SMELLING SALTS | Granule | Not listed |
-| Not listed | Ammonium carbonicum | Pellet | Not listed |
-| Not listed | Ammonium Muriaticum | Pellet | Not listed |
+| 505G(a)(3) | LRNASH Smelling Salts | Granule | Not stated (cancelled) |
+| M011 | Smelling Salt | Inhalant | Not stated (cancelled) |
+| No number recorded | Bardown Smelling Salts | Liquid | Not stated (cancelled) |
 
-Other dosage forms in the data include an inhalant and a soluble oral tablet.
+All three authorizations are cancelled, and all are smelling-salt products rather than products for upper respiratory indications.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Disease contraindications (knowledge graph, not label text)**: The knowledge graph links ammonium chloride to contraindications in many conditions. Main groups include:
+  - Renal and hepatic: liver failure, impaired renal function, anuria
+  - Cardiovascular: hypertension, hypertensive disorder, myocardial ischemia, coronary artery disease, sudden cardiac arrest, heart conduction disease, pulmonary edema
+  - Endocrine and metabolic: adrenocortical insufficiency, Addison disease, hyperthyroidism, Graves disease, thyrotoxicosis, hypercalcemia, nephrocalcinosis, phosphorus metabolism disease
+  - Neurological and psychiatric: epilepsy, insomnia, anxiety disorder, agoraphobia, obsessive-compulsive disorder
+  - Other: peptic ulcer disease, benign prostatic hyperplasia, bladder neck obstruction, ocular hypertension, angle-closure glaucoma, necrotizing enterocolitis
+- **Drug Interactions**: 21 interactions were identified, none rated Major.
+  - Moderate (5): amphetamine, dextroamphetamine, lisdexamfetamine, metamfetamine, benzphetamine
+  - Minor (16): ephedrine (including nasal), pseudoephedrine, tricyclic antidepressants (amitriptyline, clomipramine, desipramine, doxepin including topical, imipramine, nortriptyline, protriptyline, trimipramine), methadone, mexiletine, flecainide
+
+Package insert warnings and contraindications were not available, so please refer to the package insert for label safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is model-only (L5). It has no registered trials or publications, no curated mechanism of action, and no recorded original indication. The expectorant rationale is plausible but does not support laryngopharyngeal benefit.
+The prediction score is very high, but it is model-derived only (evidence level L5), with no clinical trials or literature. The predicted indication largely overlaps with the existing upper respiratory label, and all US licences are cancelled, which weakens the practical case for development.
 
 **To proceed, the following is needed:**
-- The package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data, for example from DrugBank
-- A literature and trial search targeted at ammonium chloride in pharyngitis or laryngitis
-- Clarification of the original indication, given that the marketed products are mostly smelling salts and homeopathic items
-- Narrowing of the "nasal cavity disease" term before that prediction is pursued
+- Mechanism of action data, to allow assessment of the mechanistic link
+- FDA package insert warnings and contraindications, to complete safety screening
+- Literature and trial searches for ammonium chloride in laryngopharyngitis and upper airway disease
+- A clearer indication definition, particularly for the non-specific "nasal cavity disease" prediction
+- Route and formulation compatibility assessment (currently pending)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,32 +29,36 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Acebutolol: From Beta-Blocker Therapy to Malignant Hypertensive Renal Disease
+# Acebutolol: From Hypertension to Malignant Hypertensive Renal Disease
 
 ## One-Sentence Summary
 
-Acebutolol is an oral beta-blocker (a cardioselective beta-1 blocker with mild intrinsic sympathomimetic activity). The labelled indication text is not included in the source record.
-The TxGNN model predicts it may be effective for **malignant hypertensive renal disease**.
-This prediction has **0 clinical trials** and **0 publications** directly supporting it, so it rests on model output alone.
+Acebutolol is an oral beta-blocker originally used to treat hypertension.
+The TxGNN model predicts it may be effective for **malignant hypertensive renal disease**, but there are currently **0 clinical trials** and **0 publications** directly supporting this prediction. The evidence rests on model prediction alone.
+
+(For the second-ranked prediction, malignant renovascular hypertension, there are 0 clinical trials and 1 older, indirect publication from 1975.)
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Hypertension (hypertensive disorder) |
 | Predicted New Indication | Malignant hypertensive renal disease |
 | TxGNN Prediction Score | 99.10% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 10 (all listed licenses are generic ANDAs) |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no active marketing) |
+| Number of NDAs | 2 (both cancelled ANDA generic approvals) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the record. Based on known drug-class information, acebutolol is a cardioselective beta-1 blocker. Beta-1 blockade reduces renin release, which lowers blood pressure. Hypertension-driven kidney injury is plausibly relevant to that effect.
+Currently, detailed mechanism of action data is not available. Based on known information, acebutolol is a cardioselective beta-1 blocker with intrinsic sympathomimetic activity. Its efficacy in hypertension is established, and it lowers blood pressure by reducing heart rate, cardiac output, and renin release. Mechanistically, this could plausibly apply to hypertension with kidney involvement.
 
-Malignant hypertensive renal disease is a severe form of hypertension affecting the kidney. It is a subtype of a use already established for the drug class, not a new mechanism. The link is inferred from class pharmacology, not from data in the record.
+The high TxGNN score (99.10%) mainly reflects how closely the new indication sits to the approved hypertension indication in the knowledge graph. It is not disease-specific evidence.
 
-There is also a practical concern. Malignant hypertension is a hypertensive emergency and is usually managed with parenteral agents. An oral capsule beta-blocker is not an obvious fit. Route compatibility and similarity to the original indication have not yet been assessed.
+There are also practical limits. Malignant hypertension with renal injury is a hypertensive emergency, usually managed with intravenous agents (such as labetalol or nicardipine) and therapy targeting the renin-angiotensin system. An oral beta-blocker is unlikely to be first-line.
+
+The second prediction, **malignant renovascular hypertension** (score 99.10%), has a stronger mechanistic rationale because this condition is strongly renin-dependent and beta-1 blockade reduces renin release. However, the only available evidence is indirect (see below).
 
 ## Clinical Trial Evidence
 
@@ -62,39 +66,48 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available for this indication.
+No literature is available for the top-ranked prediction. For the second-ranked prediction (malignant renovascular hypertension), one record was found:
 
-For context, the second-ranked prediction, malignant renovascular hypertension (same score, 99.10%), has one indirect record. [PMID 768911](https://pubmed.ncbi.nlm.nih.gov/768911/) is a 1975 open clinical study in *La Nouvelle presse medicale*. In it, 50 hypertensive patients received acebutolol alone or with other agents for one year. Treatment was rated good or moderate in 74% of patients and failed in 26%. The abstract also mentions renovascular hypertension, but the record does not show that it addresses the malignant subtype.
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [768911](https://pubmed.ncbi.nlm.nih.gov/768911/) | 1975 | Clinical study (open-label) | La Nouvelle Presse Medicale | 50 hypertensive patients received acebutolol alone or with other antihypertensives for one year. Results were good or moderate in 74% and treatment failed in 26%. The drug was very well tolerated. The study covers arterial hypertension in general, so it is only indirect evidence for the renovascular subtype. |
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA074007 | Acebutolol Hydrochloride (Golden State Medical Supply, Inc.) | Capsule | Not provided in source data |
-| ANDA074007 | Acebutolol Hydrochloride (ANI Pharmaceuticals, Inc.) | Capsule | Not provided in source data |
-| ANDA075047 | Acebutolol Hydrochloride (AvKARE) | Capsule | Not provided in source data |
-| ANDA075047 | Acebutolol Hydrochloride (AvPAK) | Capsule | Not provided in source data |
-| ANDA075047 | Acebutolol Hydrochloride (Amneal Pharmaceuticals of New York LLC) | Capsule | Not provided in source data |
-
-Only the oral route (capsule) is available.
+| ANDA074007 | Acebutolol Hydrochloride (Golden State Medical Supply, Inc.) | Capsule | Not stated; status cancelled |
+| ANDA075047 | Acebutolol Hydrochloride (AvKARE) | Capsule | Not stated; status cancelled |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug interaction records were found in the source data.
+Package insert warnings and contraindications were not available in the data compiled for this report. Please refer to the package insert for these.
+
+- **Contraindication-related conditions (from a knowledge graph, not label text)**: The following conditions are linked to acebutolol as contraindications in the knowledge graph:
+  - Cardiac and vascular: atrioventricular block, sick sinus syndrome, peripheral vascular disease (including intermittent claudication and peripheral arterial disease), pheochromocytoma and related adrenal or sympathetic tumours
+  - Respiratory: asthma (intrinsic and allergic), pulmonary emphysema
+  - Metabolic and organ disease: diabetes mellitus, diabetic ketoacidosis, kidney disease, liver disease, gallbladder disease
+  - Neuromuscular: myasthenia gravis and neuromuscular junction disease
+  - Other: psoriasis, anxiety and related mood disorders, and several cancer-related entries
+
+  Kidney disease appearing on this list is particularly relevant to a renal indication and needs careful review.
+- **Drug Interactions**: 100 interactions were identified in the database. Examples from the first 20 returned entries:
+  - Moderate: acetohexamide, chlorpropamide, canagliflozin, dapagliflozin (antidiabetic agents); atropine, clidinium; betamethasone, budesonide; bupropion; cimetidine; and several calcium salts (acetate, carbonate, citrate, gluconate, lactate, phosphate)
+  - Minor: aluminum hydroxide, acetylsalicylic acid, attapulgite
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has only a high model score behind it, with no direct clinical trials or publications. Malignant hypertension is normally treated with parenteral agents, so an oral beta-blocker is a questionable fit. The lack of package insert safety data also blocks progression past the first screening stage.
+The prediction rests on model output alone, with no registered trials and no direct literature for malignant hypertensive renal disease. The only available record is a 1975 general hypertension study, and the product has no active US marketing status. Established parenteral therapies are also the standard for hypertensive emergencies.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (this blocks safety screening)
-- Detailed mechanism of action data (MOA)
-- Direct clinical evidence for acebutolol in malignant hypertension or hypertensive kidney injury
-- A route-compatibility assessment (oral capsule versus the emergency setting)
-- A review of how the prediction relates to the drug's labelled indications
+- FDA package insert warnings and contraindications (a blocking gap for safety screening), especially regarding use in kidney disease
+- Mechanism of action data from DrugBank
+- Controlled clinical data in malignant or renovascular hypertension
+- Comparison against current standard-of-care agents
+- Assessment of the regulatory pathway given the cancelled-only market status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

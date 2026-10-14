@@ -29,91 +29,89 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Dextromethorphan: From Cough Suppression to Nasal Cavity Disease
+# Dextromethorphan: From Allergic Rhinitis and Common Cold to Nasal Cavity Disease
 
 ## One-Sentence Summary
 
-Dextromethorphan is a widely marketed over-the-counter cough suppressant, and the US product names (for example "Cough Relief" and "Long Acting Cough Softgel") reflect that use.
-The TxGNN model predicts it may be effective for **nasal cavity disease**, but **no clinical trials or publications** currently support this direction.
-The only trial retrieved studies major depressive disorder, not a nasal condition.
-
----
+Dextromethorphan was originally used for upper respiratory conditions such as allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold and headache disorder.
+The TxGNN model predicts it may be effective for **nasal cavity disease**, but **no clinical trials and no publications** currently support this prediction, so it rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Cough (inferred from product names; the licence records contain no indication text) |
+| Original Indication | Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold, rhinitis, nasopharyngitis, headache disorder (from the knowledge graph; no approved indication text on the US licenses) |
 | Predicted New Indication | Nasal cavity disease |
 | TxGNN Prediction Score | 99.98% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (all licenses cancelled) |
+| Number of NDAs | 5 licenses in total (4 OTC monograph or ANDA entries and 1 NDA; all cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, dextromethorphan is a centrally acting cough suppressant that also has NMDA-receptor and sigma-1 activity. Its efficacy in cough is established in marketed products. Neither of these actions has an obvious link to nasal cavity pathology.
+Detailed mechanism of action data is not available for this report. From general pharmacology, dextromethorphan is an NMDA receptor antagonist and sigma-1 agonist with central antitussive (cough-suppressing) activity. It does not have an established direct effect on nasal mucosal disease.
 
-The prediction comes from the knowledge graph alone, and the very high score (rank 843 overall) does not replace mechanistic or clinical support. The link could at best be symptomatic, for example cough associated with upper-airway irritation. It is not a disease-modifying effect on the nasal cavity.
+The high score most likely reflects proximity in the knowledge graph. Dextromethorphan is already linked to allergic rhinitis, vasomotor rhinitis and rhinitis, all of which are nasal cavity conditions. The prediction therefore looks like an extension of existing rhinitis-related uses rather than a newly identified mechanism. Any benefit would probably be symptomatic (for example, cough relief), not disease-modifying.
 
-Among the other predictions, acute laryngopharyngitis is the most plausible (cough relief in upper respiratory tract inflammation). It also has no trials or literature. The remaining candidates are speculative or likely graph artifacts:
-- faucial diphtheria
-- trigeminal autonomic cephalalgia
-- cervical disc degenerative disorder
-- allergic urticaria
+Other predicted indications show a similar pattern:
 
----
+- **Acute laryngopharyngitis (99.98%)**: Likely driven by overlap with pharyngitis and common cold; at most symptomatic cough relief.
+- **Faucial diphtheria (99.36%)**: Implausible as a therapeutic target. It is a bacterial toxin-mediated infection, and dextromethorphan has no antibacterial or antitoxin activity.
+- **Trigeminal autonomic cephalalgia (99.32%)**: A plausible but unverified hypothesis via NMDA antagonism and central sensitization in trigeminal pain pathways.
+- **Cervical disc degenerative disorder (99.30%)**: Only an indirect link, through possible modulation of neuropathic pain.
+- **Allergic urticaria (99.25%)**: No established antihistaminic or mast-cell activity; likely proximity to allergic rhinitis in the graph.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT06958692](https://clinicaltrials.gov/study/NCT06958692) | Phase 3 | Recruiting | 388 | Randomized, double-blind, placebo-controlled trial of dextromethorphan and bupropion sustained-release tablets in Chinese adults with **major depressive disorder**. Expected completion is 2026-12-30. No results are reported, and the trial is not relevant to nasal cavity disease. |
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-Showing 5 of 20 authorizations. The records contain no approved indication text.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| M012 | Childrens Giltuss Honey DM Cough | Liquid | Not stated (cancelled) |
+| M010 | RoboCough | Liquid | Not stated (cancelled) |
+| ANDA091135 | cough dm | Suspension | Not stated (cancelled) |
+| M013 | Dextabs | Tablet | Not stated (cancelled) |
+| NDA018658 | DELSYM | Suspension, extended release | Not stated (cancelled) |
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|------|
-| M012 | Childrens Giltuss Honey DM Cough | Liquid | Dextrum Laboratories Inc |
-| M012 | RoboTablets | Tablet | DXM Pharmaceutical, Inc |
-| M012 | QUALITY CHOICE Long Acting Cough Softgel | Capsule, liquid filled | Chain Drug Marketing Association, Inc. |
-| M012 | Father Johns Medicine | Liquid | Humco Holding Group, Inc |
-| M012 | Cough Relief | Liquid | TOP CARE (Topco Associates LLC) |
-
----
+All five US authorizations are cancelled, so no single-ingredient or combination product is currently valid in this dataset.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Package insert warnings and contraindications were not available for this report. Please refer to the package insert for safety information.
 
----
+**Contraindication-related conditions (knowledge graph, not label text):** The knowledge graph links dextromethorphan to contraindications in several disease areas. These should be verified against the label before any development:
+- Cardiovascular: hypertension, hypotensive disorder, long QT syndrome (including familial), torsades de pointes
+- Hepatic, renal and digestive: liver failure, liver disease, kidney disease, pancreatitis, gallbladder disease, peptic and gastric ulcer, inflammatory bowel disease
+- Neurological and respiratory: epilepsy, COPD, bronchitis
+- Endocrine and metabolic: diabetes mellitus, diabetic ketoacidosis, hypothyroidism, adrenocortical insufficiency, potassium deficiency
+- Other: thrombocytopenia, benign prostatic hyperplasia, dermatitis herpetiformis
+
+**Drug Interactions:** 100 interactions were identified. The major ones are:
+- **Serotonergic agents** (serotonin syndrome and related concerns): dexfenfluramine, fenfluramine, lorcaserin, sibutramine
+- **5-HT3 antagonists** (listed as major): dolasetron, granisetron, ondansetron, palonosetron
+
+Notable moderate interactions include bupropion, cimetidine, morphine (including liposomal), opium, metoclopramide, dronabinol, nabilone, eliglustat, mazindol, phentermine and glycerol phenylbutyrate.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The only support for nasal cavity disease is the graph-based TxGNN score. The one trial found targets a different condition (major depressive disorder). There is no literature and no documented mechanism, so the evidence stays at L5.
+The prediction has the highest model score but no clinical trial or literature support (Evidence Level L5). It most likely reflects proximity to existing rhinitis indications rather than a new mechanism. Because all US licenses are cancelled and no label safety data were available, there is no basis to advance.
 
 **To proceed, the following is needed:**
-- Mechanism of action data (for example from DrugBank) and a plausible mechanistic link to nasal cavity disease
-- Package insert warnings and contraindications, to allow safety screening
-- Trials or publications that actually study dextromethorphan in nasal or upper-airway conditions
-- Clarification of the specific nasal cavity condition, and whether the target is symptomatic cough relief or a disease effect
-- A route and formulation compatibility assessment (currently pending)
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism of action data to assess a plausible link to nasal mucosal disease
+- A literature and trial search specific to nasal cavity disease, to determine whether any real-world evidence exists
+- Clarification of the cancelled regulatory status and of route compatibility for any intranasal or other new formulation
+- A safety assessment covering the knowledge-graph contraindications (cardiac QT risk in particular) and serotonergic interactions
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

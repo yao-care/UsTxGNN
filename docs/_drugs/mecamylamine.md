@@ -29,40 +29,35 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Mecamylamine: From an Unrecorded Original Indication to Malignant Renovascular Hypertension
+# Mecamylamine: From Hypertension to Malignant Renovascular Hypertension
 
 ## One-Sentence Summary
 
-Mecamylamine is an oral tablet marketed in the US as Vecamyl, but the supplied label data does not record its approved indication.
-The TxGNN model predicts it may be effective for **malignant renovascular hypertension**.
-There are currently **0 clinical trials** and **0 publications** supporting this specific prediction, so it is a model-only hypothesis.
+Mecamylamine is an oral ganglionic blocker, originally used to treat hypertension.
+The TxGNN model predicts it may be effective for **malignant renovascular hypertension**, but **no clinical trials** and **no related publications** currently support this prediction, so it rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Hypertension (hypertensive disorder) |
 | Predicted New Indication | Malignant renovascular hypertension |
 | TxGNN Prediction Score | 99.14% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 2 (both listed under ANDA204054) |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no active marketing authorization) |
+| Number of NDAs | 1 (an ANDA, cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the input. Based on general pharmacology, mecamylamine is a nicotinic ganglionic blocker. It lowers blood pressure by reducing autonomic vascular tone, so an antihypertensive effect is mechanistically plausible.
+Currently, detailed mechanism of action data is not available in the compiled data. Based on general pharmacology, mecamylamine is a non-competitive nicotinic acetylcholine receptor (ganglionic) antagonist. By blocking autonomic ganglia it lowers sympathetic tone and blood pressure, which is why it was used in hypertension.
 
-The fit with this particular indication is only partial. Renovascular malignant hypertension is driven largely by renin-angiotensin system activation, which ganglionic blockade does not directly target. It is also a hypertensive emergency, so any use would need to be compared against modern, better-characterized treatments.
+The new indication is also a form of severe hypertension, so the prediction is plausible on the surface. Ganglionic blockade was historically used in malignant hypertension. However, malignant renovascular hypertension is driven largely by activation of the renin-angiotensin system and renal artery stenosis, which ganglionic blockade does not address directly. The high TxGNN score most likely reflects similarity to the already-approved hypertension indication rather than independent evidence.
 
-The same model score (99.14%) was given to "malignant hypertensive renal disease", which suggests the two predictions share a graph neighborhood. The high score most likely reflects a generic "hypertension" association rather than disease-specific evidence.
-
-## Other Predicted Indications
-
-| Predicted Indication | TxGNN Score | Evidence Level | Assessment |
-|------|------|------|------|
-| Malignant hypertensive renal disease | 99.14% | L5 | Research question. Blood pressure lowering may reduce renal injury, but ganglionic blockers can cause orthostatic hypotension and reduced renal perfusion. |
-| Pulmonary hypertension with unclear multifactorial mechanism | 99.09% | L5 | Hold. There is no known selective pulmonary vasodilator action, and systemic hypotension could compromise right ventricular perfusion. |
-| Pulmonary hypertension owing to lung disease and/or hypoxia | 99.09% | L5 | Hold. The retrieved literature is not relevant (see below). |
+Other predictions for this drug are weaker still:
+- **Malignant hypertensive renal disease** (score 99.14%): same rationale as above, with no trials or literature. Modern agents (RAAS inhibitors, calcium channel blockers, IV vasodilators) are better characterized.
+- **Pulmonary hypertension with unclear multifactorial mechanism** (score 99.09%): no direct mechanistic link was identified, and systemic hypotension could be harmful in right-ventricle-dependent disease.
+- **Pulmonary hypertension owing to lung disease and/or hypoxia** (score 99.09%): only indirect preclinical literature on nicotinic signalling in hypoxia (see below).
 
 ## Clinical Trial Evidence
 
@@ -70,39 +65,55 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available for the top prediction.
+For the top-ranked prediction (malignant renovascular hypertension), currently no related literature is available.
 
-For the fourth-ranked prediction (pulmonary hypertension owing to lung disease and/or hypoxia), 20 records were retrieved, but only 10 were provided. Those 10 are general hypoxia papers on brain aging, tumor HIF signaling, altitude, and multiple sclerosis. None mentions mecamylamine or pulmonary hypertension treatment, so the retrieval appears to have matched on the keyword "hypoxia" alone. The other 10 records were not provided and could not be assessed. This material is not counted as supporting evidence.
+For the fourth prediction (pulmonary hypertension owing to lung disease and/or hypoxia), 20 publications were retrieved. All are preclinical or in vitro studies, and none evaluates mecamylamine in pulmonary hypertension. Representative examples:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [9074969](https://pubmed.ncbi.nlm.nih.gov/9074969/) | 1997 | Preclinical (cat) | J Appl Physiol | Tested mecamylamine and a muscarinic blocker on carotid body chemotransduction of hypoxia |
+| [16357082](https://pubmed.ncbi.nlm.nih.gov/16357082/) | 2006 | Preclinical (rat) | J Appl Physiol | After chronic hypoxia, mecamylamine no longer inhibited carotid sinus nerve activity evoked by acute hypoxia |
+| [10811733](https://pubmed.ncbi.nlm.nih.gov/10811733/) | 2000 | Preclinical (rat) | J Physiol | ATP and ACh co-release mediates hypoxic signalling; nicotinic blockade (mecamylamine) only partially inhibited responses |
+| [16444287](https://pubmed.ncbi.nlm.nih.gov/16444287/) | 2006 | Preclinical (rat) | Br J Pharmacol | Nicotinic receptors with alpha4 subunits induce adenosine release in the carotid body; mecamylamine among antagonists tested |
+| [15649879](https://pubmed.ncbi.nlm.nih.gov/15649879/) | 2005 | Preclinical (rat) | J Appl Physiol | Effect of chronic hypoxia on cholinergic chemotransmission in the carotid body |
+| [19762524](https://pubmed.ncbi.nlm.nih.gov/19762524/) | 2009 | Not classified | J Appl Physiol | Nicotinic receptors do not mediate excitatory transmission in young rat carotid body |
+| [12189247](https://pubmed.ncbi.nlm.nih.gov/12189247/) | 2002 | Not classified | J Clin Invest | Mecamylamine inhibited endothelial network formation, supporting a non-neuronal nicotinic angiogenic pathway |
+| [37169144](https://pubmed.ncbi.nlm.nih.gov/37169144/) | 2023 | Preclinical (in vitro) | Eur J Pharmacol | Nicotine activates HIF-1α via nicotinic receptors in lung cancer cells |
+| [26361040](https://pubmed.ncbi.nlm.nih.gov/26361040/) | 2015 | Not classified | PLoS One | HIF-1α and nicotinic receptors in smoke-induced bronchopulmonary dysplasia in mice |
+| [35581520](https://pubmed.ncbi.nlm.nih.gov/35581520/) | 2022 | Preclinical (rat) | Mol Neurobiol | Prenatal hypoxia affects nicotine consumption and withdrawal in adult rats |
+
+These studies offer plausible biology for nicotinic involvement in hypoxic responses but do not support mecamylamine as a treatment for pulmonary hypertension. Several other retrieved papers (e.g., huperzine A, physostigmine, vinpocetine) are tangential and appear to be keyword matches.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA204054 | Vecamyl | Tablet (oral) | TILDE Sciences LLC |
-| ANDA204054 | Vecamyl | Tablet (oral) | Vyera Pharmaceuticals, LLC |
-
-The approved indication text is not provided in the source data.
+| ANDA204054 (cancelled) | Vecamyl (TILDE Sciences LLC) | Tablet (oral) | Not listed in the compiled data |
 
 ## Safety Considerations
 
-- **Drug Interactions**: The interaction query returned no records (not found). This is not evidence of no interactions.
-- **Class-level concerns from the prediction analysis**: Ganglionic blockade can cause orthostatic hypotension and reduced renal perfusion, which are key open questions for the renal and pulmonary hypertension indications.
+- **Drug Interactions**: 42 interactions were recorded. The 20 listed in the compiled data are all rated Moderate, including:
+  - Sympathomimetics: epinephrine, ephedrine (including nasal), phenylephrine
+  - SGLT2 inhibitors: canagliflozin, dapagliflozin, empagliflozin, ertugliflozin
+  - Prostacyclin-pathway drugs: epoprostenol, iloprost, selexipag, treprostinil
+  - Alkalinizing agents: sodium bicarbonate, sodium citrate, sodium acetate, potassium citrate, tromethamine
+  - Others: amifostine, promethazine, nitrous acid
+- **Autonomic adverse effects**: the analysis of the predictions notes orthostatic hypotension, constipation and urinary retention as significant concerns with ganglionic blockade.
 
-Please refer to the package insert for warnings and contraindications.
+Please refer to the package insert for warnings and contraindications, as this information was not available in the compiled data.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone (L5), with no trials or drug-specific literature. The mechanistic link is inferred from general pharmacology, and it is weak for renovascular disease (renin-driven) and for pulmonary hypertension.
+The prediction is supported only by the model score (Evidence Level L5), with no clinical trials or direct literature. The drug's mechanism does not address the main drivers of renovascular hypertension, it is no longer marketed in the US, and better-characterized alternatives exist.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data and the approved indication
-- A targeted literature search on mecamylamine in malignant or renovascular hypertension
-- Comparison against current standard-of-care antihypertensives for hypertensive emergency
-- Assessment of renal perfusion and hypotension risk in the target populations
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- Any clinical or mechanistic evidence specific to mecamylamine in malignant or renovascular hypertension
+- Assessment of whether any demonstrated benefit would exceed that of current standard therapies
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

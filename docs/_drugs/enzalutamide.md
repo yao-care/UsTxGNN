@@ -33,9 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 ## One-Sentence Summary
 
-Enzalutamide is an oral androgen receptor (AR) inhibitor marketed in the US as Xtandi, and it is used in prostate cancer (the supplied data do not list an original indication).
-The TxGNN model predicts it may be effective for **prostate cancer/brain cancer susceptibility**, but **0 clinical trials** and **0 publications** support this specific prediction.
-This term describes a genetic predisposition phenotype rather than a treatable disease, so the prediction is best read as a model artifact.
+Enzalutamide is an androgen receptor inhibitor, originally used to treat prostate cancer.
+The TxGNN model predicts it may be relevant to **prostate cancer/brain cancer susceptibility**, but this is a **prediction only**, with **0 clinical trials** and **0 publications** supporting it.
 
 ---
 
@@ -43,31 +42,27 @@ This term describes a genetic predisposition phenotype rather than a treatable d
 
 | Item | Content |
 |------|------|
-| Original Indication | Prostate cancer (general knowledge; all approved-indication fields in the supplied data are empty) |
+| Original Indication | Prostate cancer |
 | Predicted New Indication | Prostate cancer/brain cancer susceptibility |
 | TxGNN Prediction Score | 99.71% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 5 license records (2 unique NDAs: NDA213674, NDA203415) |
+| US Market Status | Cancelled only |
+| Number of NDAs | 2 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Enzalutamide blocks AR signaling. It inhibits ligand binding, nuclear translocation and DNA binding of the receptor. Detailed mechanism-of-action data are not available in the supplied record, so this description relies on general pharmacology.
+Detailed mechanism of action data is not available in the data compiled for this report. Enzalutamide is known to be an androgen receptor inhibitor. It blocks ligand binding, nuclear translocation, and DNA binding of the receptor, which fits androgen-driven prostate malignancy.
 
-The link to the predicted term exists only through its "prostate cancer" component, where AR signaling drives tumor growth. The term itself describes an inherited predisposition, not an active disease. A drug can treat an established cancer, but it does not treat a susceptibility state. The high score (0.997) most likely reflects proximity in the knowledge graph rather than clinical support.
-
-The relationship to the original indication is therefore weak. The prediction overlaps with prostate cancer, where enzalutamide is already used. It adds nothing that can be tested as a new indication.
+The predicted indication is a germline susceptibility category that overlaps with prostate cancer, the approved indication. It is not a distinct, treatable disease. There is also no evidence that brain cancer depends on androgen receptor signaling. The high score (0.997) most likely reflects network proximity in the knowledge graph rather than a true mechanistic rationale, so the prediction should be treated with caution.
 
 ---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
-
-For context, the same evidence pack contains many enzalutamide trials under other predicted terms. The most relevant is a randomized Phase 2 study in localized prostate cancer on active surveillance ([NCT02799745](https://clinicaltrials.gov/study/NCT02799745), n=227, completed). It does not support this susceptibility term.
 
 ---
 
@@ -79,12 +74,10 @@ Currently no related literature available.
 
 ## US Market Information
 
-The five license records contain only two unique NDAs. The source data list no approved-indication text.
-
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA213674 | Xtandi (Astellas Pharma US, Inc.) | Tablet | Not listed in source data |
-| NDA203415 | Xtandi (Astellas Pharma US, Inc.) | Capsule | Not listed in source data |
+| NDA213674 | Xtandi (Astellas Pharma US, Inc.) | Tablet | Not listed (status: cancelled) |
+| NDA203415 | Xtandi (Astellas Pharma US, Inc.) | Capsule | Not listed (status: cancelled) |
 
 ---
 
@@ -92,7 +85,7 @@ The five license records contain only two unique NDAs. The source data list no a
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted hormonal therapy (AR inhibitor), not a conventional cytotoxic |
+| Cytotoxicity Classification | Targeted hormonal therapy (androgen receptor inhibitor), not a conventional cytotoxic agent |
 | Myelosuppression Risk | Please refer to the package insert warnings and precautions |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
 | Monitoring Items | Please refer to the package insert warnings and precautions |
@@ -102,9 +95,11 @@ The five license records contain only two unique NDAs. The source data list no a
 
 ## Safety Considerations
 
-The evidence pack rationale for related predictions notes seizure, fall and fracture risks. These are weighed against a benign or non-disease target. No warnings, contraindications or drug-interaction records were retrieved.
+- **Drug Interactions**: 100 interactions were recorded, and the first 20 are summarized here.
+  - **Major**: bupropion, dolasetron, eliglustat.
+  - **Moderate**: famotidine, rabeprazole, omeprazole, hydrocortisone, dexamethasone, clarithromycin, aprepitant, loperamide, alosetron, alvimopan, bisacodyl, picosulfuric acid, polyethylene glycol (3350 with electrolytes), chlorpropamide, saxagliptin, linagliptin, and empagliflozin.
 
-Please refer to the package insert for full safety information.
+For other safety information (warnings, contraindications), please refer to the package insert.
 
 ---
 
@@ -113,13 +108,15 @@ Please refer to the package insert for full safety information.
 **Decision: Hold**
 
 **Rationale:**
-The predicted term is a genetic susceptibility phenotype, not a treatable disease. It has no trials, no literature, and only model-based (L5) support. The high TxGNN score is not clinical evidence.
+The prediction has no supporting trials or publications (L5). It also overlaps with enzalutamide's existing prostate cancer indication, and there is no known androgen-receptor-driven mechanism in brain cancer. Both US NDAs are currently listed as cancelled.
+
+Among the other predictions, "male reproductive organ cancer" has the most data (L1, including Phase 3 trials such as ENZAMET). That evidence is almost entirely in prostate cancer, so it largely rediscovers the existing use rather than showing a new indication.
 
 **To proceed, the following is needed:**
-- Resolve the umbrella term to a specific, treatable disease. Otherwise drop this candidate.
-- Obtain the FDA package insert (warnings, contraindications, approved indications), which is currently missing and blocks safety screening.
-- Obtain detailed mechanism-of-action data from DrugBank.
-- Note that another prediction in this pack, "male reproductive organ cancer" (rank 6), has stronger support. It reaches L2 with a randomized Phase 2 trial, but this is mostly label confirmation for prostate cancer rather than true repurposing. It should be evaluated in its own report.
+- Clarification of whether the "prostate cancer/brain cancer susceptibility" category represents a distinct, treatable disease.
+- Any trial or mechanistic evidence of androgen receptor involvement in the predicted condition.
+- Detailed mechanism of action data and the full package insert warnings and contraindications.
+- Verification of the current US market status, since both NDAs are listed as cancelled.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

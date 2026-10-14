@@ -33,28 +33,37 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 ## One-Sentence Summary
 
-Silodosin is an oral alpha-1A adrenergic receptor antagonist, generally used for the urinary symptoms of benign prostatic hyperplasia (BPH).
-The TxGNN model predicts it may be effective for **Ambras type hypertrichosis universalis congenita**, but there are **0 clinical trials** and **0 publications** supporting this direction. It is a model prediction only.
+Silodosin is a drug originally used to treat benign prostatic hyperplasia (BPH).
+The TxGNN model predicts it may be effective for **Ambras type hypertrichosis universalis congenita**,
+but there are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the supplied US license records; BPH per general pharmacology knowledge |
+| Original Indication | Benign prostatic hyperplasia |
 | Predicted New Indication | Ambras type hypertrichosis universalis congenita |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (generic ANDA licenses) |
+| US Market Status | Cancelled only (all licenses cancelled) |
+| Number of NDAs | 9 (all ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. From general pharmacology, silodosin selectively blocks alpha-1A adrenergic receptors, which relaxes smooth muscle in the prostate and bladder neck.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on its known pharmacology, silodosin is a selective alpha-1A adrenergic receptor antagonist. It relaxes smooth muscle in the prostate and bladder neck, which is how it relieves urinary symptoms of BPH.
 
-No established mechanistic link connects this action to Ambras syndrome, a rare congenital disorder of hair growth. No alpha-1A pathway is known to drive the condition. The very high score (0.9999) most likely reflects proximity in the knowledge graph rather than a pharmacological rationale.
+The link to the predicted indication is weak. Ambras syndrome is a rare congenital disorder associated with genomic rearrangements affecting regulation of the *TRPS1* gene. This pathway is unrelated to alpha-1A adrenergic signaling. The very high TxGNN score (99.99%) reflects proximity in the knowledge graph, not pharmacological or clinical evidence.
 
-The other five predictions follow the same pattern. They are hypertrichosis, a malformation syndrome with a dental/periodontal component, a Dandy-Walker malformation syndrome, isolated genetic hair shaft abnormality, and familial isolated trichomegaly. All are rated L5 with no trials, and none has an established mechanistic link. The lowest score in the set is 99.2%.
+Other predictions for this drug follow the same pattern, and none has a credible mechanism:
+
+| Rank | Predicted Indication | TxGNN Score | Assessment |
+|------|------|------|------|
+| 2 | Hypertrichosis | 99.99% | Alpha-1A blockade is not known to stimulate hair growth. This likely reflects graph proximity to the rare congenital hypertrichosis entries. Hypertrichosis would be an adverse effect rather than a therapeutic goal. |
+| 3 | Malformation syndrome with odontal and/or periodontal component | 99.99% | Congenital structural defects are not expected to respond to an alpha-1A antagonist. |
+| 4 | Syndrome with a Dandy-Walker malformation as major feature | 99.98% | A congenital brain malformation is not expected to be reversed by silodosin. |
+| 5 | Isolated genetic hair shaft abnormality | 99.98% | The cause is structural gene defects, with no known role for alpha-1A antagonism. |
+| 6 | Familial isolated trichomegaly | 99.23% | A rare, mostly benign trait with no link to alpha-1A antagonists. |
 
 ## Clinical Trial Evidence
 
@@ -64,11 +73,9 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
-Note: the 20 publications retrieved for the third prediction (the periodontal malformation syndrome) are general periodontitis papers. None appears to involve silodosin, so they provide no drug-specific evidence.
-
 ## US Market Information
 
-Silodosin is marketed as oral capsules, and the Evidence Pack lists 20 generic licenses. The approved indication text is not provided in the records. The five main authorizations are:
+All nine US authorizations are generic (ANDA) silodosin oral capsules and all are listed as cancelled. The approved indication text is not available in the data compiled for this report.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
@@ -78,25 +85,38 @@ Silodosin is marketed as oral capsules, and the Evidence Pack lists 20 generic l
 | ANDA213230 | Silodosin | Capsule | Creekwood Pharmaceuticals LLC |
 | ANDA211166 | Silodosin | Capsule | Macleods Pharmaceuticals Limited |
 
+Four more cancelled ANDAs are also on record: Ajanta, Lupin, Camber and PD-Rx.
+
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+**Contraindication-related conditions (from knowledge graph associations, not label text):**
+- Multiple system atrophy
+- Postural orthostatic tachycardia syndrome
+- Orthostatic hypotension
+- Liver failure
+- Kidney disease
+- Pyoureter
+- Intraoperative floppy iris syndrome
+
+**Drug Interactions:** 99 interactions were identified. Examples:
+- **Major:** Clarithromycin
+- **Moderate:** Cimetidine, Bupropion, Aprepitant, Morphine, Dexamethasone, Miconazole, Clotrimazole, Rolapitant, Opium, and the SGLT2 inhibitors canagliflozin, dapagliflozin, empagliflozin and ertugliflozin
+
+Please refer to the package insert for label warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on the model score alone. There are no clinical trials or drug-specific literature, and no plausible mechanistic link between alpha-1A blockade and congenital hypertrichosis. The evidence level is L5 (model prediction only).
+The prediction has no clinical trial or literature support (Evidence Level L5) and no plausible mechanistic link between alpha-1A adrenergic antagonism and a congenital hair disorder. All US licenses are also cancelled, so there is no marketed product to build on.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data from DrugBank
-- A mechanistic hypothesis linking alpha-1A signaling to hair follicle biology or the Ambras phenotype
-- Any preclinical or case-level evidence supporting this indication
-- Route compatibility assessment (currently pending; only oral capsules are available)
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Complete mechanism of action data
+- FDA package insert warnings and contraindications, needed for safety screening
+- Preclinical or mechanistic evidence linking alpha-1A antagonism to hair follicle biology or *TRPS1* pathways
+- Clarification of whether the hypertrichosis signal reflects an adverse effect rather than a therapeutic opportunity
+- Confirmation of the regulatory pathway, given that all US licenses are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

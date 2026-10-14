@@ -29,31 +29,30 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Rivaroxaban: From Anticoagulation (Thromboembolic Disease) to Rheumatoid Arthritis
+# Rivaroxaban: From Thromboembolic Disorders to Rheumatoid Arthritis
 
 ## One-Sentence Summary
 
-Rivaroxaban is an oral anticoagulant (a direct factor Xa inhibitor) used to prevent and treat thrombosis. The TxGNN model predicts it may be effective for **rheumatoid arthritis**, but this rests on model prediction only, with **0 clinical trials** and **4 publications** that do not test rivaroxaban in rheumatoid arthritis.
+Rivaroxaban is an oral factor Xa inhibitor (anticoagulant). The data compiled for this report do not include an original indication text.
+The TxGNN model predicts it may be effective for **rheumatoid arthritis**, but there are **0 registered clinical trials** and **4 publications** for this indication, none of which shows that rivaroxaban modifies rheumatoid arthritis activity or outcomes.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Anticoagulation / thromboembolic disease (the US license records contain no indication text; inferred from the drug class and the retrieved literature) |
+| Original Indication | Not available in the compiled data (the approved-indication text is empty for all licenses) |
 | Predicted New Indication | Rheumatoid arthritis |
 | TxGNN Prediction Score | 99.57% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 9 licenses in total (2 NDAs and 7 ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the source record. Based on known information, rivaroxaban is a direct factor Xa inhibitor. Its efficacy in thromboembolic disease is established, and any link to rheumatoid arthritis is speculative.
+Currently, detailed mechanism of action data is not available. Based on general pharmacological knowledge, rivaroxaban is a direct factor Xa inhibitor used for anticoagulation. Its efficacy in venous thromboembolism and atrial fibrillation is established outside this dataset, but the compiled data do not state the original indication.
 
-Rheumatoid arthritis involves chronic inflammation, which is associated with a hypercoagulable state and a higher risk of venous thromboembolism. Anticoagulation could address this thrombotic comorbidity. It would not be expected to change disease activity, such as joint inflammation or progression. A review of thrombin generation in autoimmune disease (PMID 34175144) describes this hypercoagulability as background, but it does not test rivaroxaban.
-
-The very high TxGNN score is therefore not backed by any retrieved evidence that rivaroxaban treats rheumatoid arthritis. The prediction should be treated as a hypothesis only.
+The only mechanistic link is a loose one. Rheumatoid arthritis is associated with a prothrombotic state, and inflammation-driven coagulation activation (for example, increased thrombin generation) gives a rationale for factor Xa inhibition. At most, this supports thromboprophylaxis in patients who also have rheumatoid arthritis. It does not support disease-modifying activity, and no evidence shows that rivaroxaban changes rheumatoid arthritis activity or outcomes. The high TxGNN score is a network-based prediction and should be read with caution.
 
 ## Clinical Trial Evidence
 
@@ -63,42 +62,51 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [33141212](https://pubmed.ncbi.nlm.nih.gov/33141212/) | 2020 | Review | JAMA | Review of lower-extremity venous thromboembolism diagnosis and treatment; DVT incidence is 88–112 per 100,000 person-years and rises with age. Not specific to rheumatoid arthritis. |
-| [34175144](https://pubmed.ncbi.nlm.nih.gov/34175144/) | 2021 | Review | La Revue de médecine interne | Narrative review of thrombin generation assay in autoimmune disease and its use for assessing hypercoagulability. Background only; does not test rivaroxaban. |
-| [29621248](https://pubmed.ncbi.nlm.nih.gov/29621248/) | 2018 | Cohort | PLoS One | Adherence to rivaroxaban versus apixaban in non-valvular atrial fibrillation. Not about rheumatoid arthritis. |
-| [41918541](https://pubmed.ncbi.nlm.nih.gov/41918541/) | 2026 | Case report | Cureus | An 88-year-old woman on oral steroids for rheumatoid arthritis had recurrent embolic events despite anticoagulation for atrial fibrillation. Rheumatoid arthritis is only a comorbidity; it is not evidence of efficacy. |
+| [33141212](https://pubmed.ncbi.nlm.nih.gov/33141212/) | 2020 | Review | JAMA | Review of diagnosis and treatment of lower extremity venous thromboembolism. Reports DVT incidence of 88 to 112 per 100,000 person-years and recurrence of 20% to 36% over 10 years. Not specific to rheumatoid arthritis. |
+| [34175144](https://pubmed.ncbi.nlm.nih.gov/34175144/) | 2021 | Review | La Revue de médecine interne | Thrombin generation assay as a tool to assess hypercoagulability in autoimmune disease. Provides background on the prothrombotic state, with no rivaroxaban efficacy data. |
+| [29621248](https://pubmed.ncbi.nlm.nih.gov/29621248/) | 2018 | Cohort | PLoS One | Adherence to rivaroxaban versus apixaban in non-valvular atrial fibrillation. Not related to rheumatoid arthritis. |
+| [41918541](https://pubmed.ncbi.nlm.nih.gov/41918541/) | 2026 | Case report | Cureus | Recurrent embolic events despite anticoagulation in an 88-year-old woman with atrial fibrillation, chronic kidney disease, and rheumatoid arthritis on oral steroids. A comorbidity report only. |
 
 ## US Market Information
 
-The license records do not include approved-indication text, so the manufacturer is shown instead.
+All 9 licenses have a cancelled status, and the approved-indication text is not available for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA022406 | Xarelto | Tablet, film coated | Cardinal Health 107, LLC |
-| NDA022406 | Xarelto | Tablet, film coated | A-S Medication Solutions |
-| ANDA218445 | Rivaroxaban | Tablet, film coated | Indoco Remedies Limited |
-| ANDA218445 | Rivaroxaban | Tablet | Florida Pharmaceutical Products, LLC |
-
-Available forms include oral film-coated tablets, oral tablets, and granules for suspension.
+| NDA022406 | Xarelto (Cardinal Health 107, LLC) | Film-coated tablet | Not available |
+| NDA215859 | Xarelto (Janssen Pharmaceuticals, Inc.) | Granule for suspension | Not available |
+| ANDA218445 | Rivaroxaban (Indoco Remedies Limited) | Film-coated tablet | Not available |
+| ANDA210301 | Rivaroxaban (Alembic Pharmaceuticals Inc.) | Film-coated tablet | Not available |
+| ANDA217810 | Rivaroxaban (Apotex Corp.) | Film-coated tablet | Not available |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Package insert warnings and contraindications are not available in the compiled data. Please refer to the package insert for these.
+
+- **Disease associations from the knowledge graph** (network-derived contraindication edges, not label text): liver failure, kidney disease, pyoureter, liver disease, gallbladder disease, and blood coagulation disease.
+- **Drug Interactions**: 100 interactions were found in total. The first 20 returned include these main ones:
+  - **Major**: acetylsalicylic acid (aspirin), cobicistat, deferasirox, ibritumomab tiuxetan, tositumomab (I-131).
+  - **Moderate**: aprepitant, dexamethasone, cimetidine, clarithromycin, eliglustat, miconazole, clotrimazole, fenfluramine, dexfenfluramine, rolapitant, sibutramine, troglitazone, sugammadex, iodide I-131, iodide I-123.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high (99.57%), but the evidence level is L5. No clinical trial exists, and none of the four retrieved papers shows rivaroxaban improving rheumatoid arthritis. Anticoagulation would at most address thrombotic comorbidity, not the disease itself.
+The prediction score is very high, but it is a model output only. There are no clinical trials and no literature showing that rivaroxaban affects rheumatoid arthritis. In addition, all 9 US licenses are cancelled, and the package insert safety information is missing, which blocks progression to safety screening.
 
 **To proceed, the following is needed:**
-- Mechanism of action data (MOA), and a mechanistic rationale linking factor Xa inhibition to rheumatoid arthritis disease activity
-- Preclinical or clinical evidence of a disease-modifying effect, as opposed to thromboprophylaxis in patients who have rheumatoid arthritis
-- Package insert warnings and contraindications, which are needed before any safety screening
-- Approved-indication text for the US licenses, to confirm the original indication
+- FDA package insert warnings and contraindications (a blocking gap)
+- Mechanism of action data and the original approved indications
+- Preclinical or exploratory clinical evidence that factor Xa inhibition modifies rheumatoid arthritis activity
+- Clarification of the cancelled US licensing status
 
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
+---
+
+*Other predicted indications were also evaluated and all are on Hold:*
+- **Gout** (score 99.51%, L5): no clinical trials, and the retrieved literature does not show efficacy.
+- **HIV infectious disease** (score 99.17%, L4): the evidence concerns anticoagulant safety and drug interactions with boosted antiretrovirals, not treatment of HIV. The one Phase 2 trial (NCT00786422) is a venous thromboembolism study.
+- **Brachydactyly-syndactyly syndrome** (score 99.10%, L5): no trials or literature, and no plausible mechanism. This is likely a graph-based artifact.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

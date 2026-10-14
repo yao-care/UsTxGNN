@@ -29,88 +29,86 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Terazosin: From Alpha-1 Blocker Use (Hypertension/BPH) to Hypotrichosis Simplex of the Scalp
+# Terazosin: From Hypertension and Benign Prostatic Hyperplasia to Hypotrichosis Simplex of the Scalp
 
 ## One-Sentence Summary
 
-Terazosin is an oral alpha-1 adrenergic blocker, generally used for hypertension and benign prostatic hyperplasia.
-The TxGNN model predicts it may be effective for **hypotrichosis simplex of the scalp**, but this is a **model prediction only**, with **0 clinical trials** and **0 publications** supporting it.
-
----
+Terazosin is an alpha-1 adrenergic blocker originally used to treat hypertension and benign prostatic hyperplasia.
+The TxGNN model ranks **hypotrichosis simplex of the scalp** as its top prediction, but **no clinical trials and no publications** currently support it. The prediction rests on model score alone.
+Among the other predicted indications, **Raynaud disease** and **migraine** have the most (still limited and dated) supporting literature, and are better follow-up candidates.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the US license records; generally hypertension and benign prostatic hyperplasia (general pharmacological knowledge) |
+| Original Indication | Hypertension; benign prostatic hyperplasia |
 | Predicted New Indication | Hypotrichosis simplex of the scalp |
 | TxGNN Prediction Score | 99.97% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (the listed records are generic ANDAs) |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 5 (all cancelled; listed as ANDAs) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Based on general pharmacology, terazosin is an alpha-1 adrenergic antagonist that relaxes vascular and prostatic smooth muscle.
+Currently, detailed mechanism of action data is not available. Based on known information, terazosin is an alpha-1 adrenergic blocker. Its effect in hypertension and benign prostatic hyperplasia comes from relaxing vascular and prostatic smooth muscle.
 
-The link to the predicted indication is weak. Hypotrichosis simplex is a monogenic hair-follicle disorder, and a vasodilator or alpha-1 antagonist is unlikely to address the underlying defect. The high score most likely reflects knowledge-graph proximity to other hair-loss conditions rather than a validated biological effect.
+For hypotrichosis simplex of the scalp, the mechanistic rationale is weak. Hypotrichosis simplex is a genetic disorder of hair growth. A link to hair follicle biology, for example through the antihypertensive minoxidil, is only an analogy and not evidence. A vasodilatory effect on scalp microcirculation is speculative, and alpha-1 blockade is unlikely to correct an underlying genetic defect. The high score probably reflects proximity to other hair-related conditions in the knowledge graph rather than true biological relevance.
 
-The most an analyst could suggest is an indirect effect through improved scalp microcirculation, as discussed for some vasoactive drugs. Alpha-1 blockade has not been shown to promote hair growth.
+The same applies to the other hair-related predictions (congenital hypotrichosis milia, diffuse alopecia areata, Ambras-type hypertrichosis). Alopecia areata is autoimmune, and Ambras syndrome is an excess-hair condition, the opposite phenotype.
 
----
+Two other predictions are mechanistically more coherent:
+- **Raynaud disease (score 99.83%):** Alpha-1 blockade causes peripheral vasodilation, which plausibly reduces vasospastic attacks.
+- **Migraine disorder (score 99.92%):** Alpha-1 blockade may modulate vascular tone and sympathetic activity relevant to migraine.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
-
----
+Currently no related clinical trials registered for the top predicted indication (hypotrichosis simplex of the scalp), nor for any of the other nine predicted indications.
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for the top predicted indication (hypotrichosis simplex of the scalp).
 
----
+The literature below relates to other predicted indications from the same candidate list:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [9273472](https://pubmed.ncbi.nlm.nih.gov/9273472/) | 1997 | Clinical study (design not verifiable) | Minerva Cardioangiologica | Raynaud disease: terazosin was reported to reduce the number, intensity and duration of vasospastic attacks in idiopathic and secondary Raynaud's phenomenon, with improved thermographic and ultrasonographic findings |
+| [7911406](https://pubmed.ncbi.nlm.nih.gov/7911406/) | 1994 | Small open clinical study | La Clinica Terapeutica | Migraine: open trial in 46 patients with hemicrania without aura (10 on terazosin, 29 on buflomedil, 7 on both) testing prophylaxis of headache; also the only paper cited for migraine with brainstem aura, where the subtype does not match |
+| [9074296](https://pubmed.ncbi.nlm.nih.gov/9074296/) | 1997 | Review / case series | Headache | Migraine: 10 patients given terazosin or doxazosin; most had fewer or milder migraines, but 5 stopped because of side effects |
+| [34779371](https://pubmed.ncbi.nlm.nih.gov/34779371/) | 2022 | Review | Current Cardiology Reviews | Alopecia: general review of extracardiac effects of cardiovascular drugs (such as minoxidil). It is indirect and does not show terazosin efficacy |
 
 ## US Market Information
 
-The `approved_indication_text` field is empty for all listed records.
-
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA075317 | Terazosin (Jubilant Cadista) | Capsule | Not listed |
-| ANDA074823 | Terazosin Hydrochloride (Aphena Pharma Solutions) | Capsule | Not listed |
-| ANDA075317 | Terazosin (Aphena Pharma Solutions) | Capsule | Not listed |
-| ANDA075667 | Terazosin (Bionpharma) | Capsule | Not listed |
-| ANDA075614 | Terazosin (Chartwell RX) | Capsule | Not listed |
-
-Only the oral capsule route is available (5 of 20 authorizations shown).
-
----
+| ANDA075317 | Terazosin (Jubilant Cadista) | Capsule | Not listed (cancelled) |
+| ANDA074823 | Terazosin Hydrochloride (Aphena Pharma Solutions) | Capsule | Not listed (cancelled) |
+| ANDA075667 | Terazosin (Bionpharma) | Capsule | Not listed (cancelled) |
+| ANDA075614 | Terazosin (Chartwell RX) | Capsule | Not listed (cancelled) |
+| ANDA219482 | Terazosin (Ajanta Pharma USA) | Capsule | Not listed (cancelled) |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Package insert warnings and contraindications were not available in the data compiled for this report. Please refer to the package insert for safety information.
 
----
+- **Contraindication-related conditions (from the knowledge graph, not label text):** multiple system atrophy, postural orthostatic tachycardia syndrome, orthostatic hypotension, priapism, and intraoperative floppy iris syndrome.
+- **Drug Interactions:** 100 interactions were identified. The listed ones are mostly Moderate, including corticosteroids (hydrocortisone, triamcinolone, dexamethasone, betamethasone, budesonide, prednisone, prednisolone), SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin), opioids (morphine, liposomal morphine, opium), bupropion, and the cannabinoids dronabinol and nabilone. Several others (calcitriol, pantoprazole, glimepiride) have an unknown severity level.
+- **Practical note:** Terazosin's known hypotensive and orthostatic effects would need to be weighed carefully in migraine or Raynaud populations.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This is a pure model prediction (L5) with no trials, no literature, and no plausible mechanism for a monogenic hair-follicle disorder. Nothing supports moving forward on this indication.
+The top prediction, hypotrichosis simplex of the scalp, has a very high model score but no trials or literature, and a weak mechanistic basis for a genetic hair disorder. Every hair-related prediction is at L4 or L5 evidence. Terazosin currently has no valid US licenses.
 
 **To proceed, the following is needed:**
-- The US package insert warnings and contraindications, which are currently missing and block safety screening
-- Mechanism of action data (for example, from DrugBank)
-- Any preclinical evidence of a hair-follicle effect of alpha-1 blockade
-
-**Other predictions for this drug:** The pack's other predicted indications look more credible than this top-ranked one. **Raynaud disease** (a 1997 clinical study) and **migraine disorder** (a 1994 small open study and a 1997 review) are both rated L3 and flagged as "Research Question". Both are old, small, and uncontrolled, so a modern controlled trial would be needed, with attention to hypotension and dizziness. Consider prioritizing those two over the hair-related predictions.
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism of action data
+- If pursuing this candidate list, prioritize **Raynaud disease** and **migraine**: these have older, small studies and need controlled trials, with comparison to established agents such as calcium channel blockers for Raynaud disease
+- For the hair-related predictions, preclinical evidence on follicle biology before any clinical consideration
+- Clarification of the regulatory path, since all five US licenses are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

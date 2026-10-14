@@ -29,32 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Mupirocin: From Topical Antibacterial Ointment to Pleural Empyema
+# Mupirocin: From Impetigo to Pleural Empyema
 
 ## One-Sentence Summary
 
-Mupirocin is a topical antibacterial ointment marketed in the US.
-The TxGNN model predicts it may be effective for **Pleural Empyema**, but there are currently **0 clinical trials** and **0 publications** supporting this direction.
-The prediction is purely model-derived.
+Mupirocin is a topical antibiotic originally used to treat impetigo and bullous impetigo.
+The TxGNN model predicts it may be effective for **pleural empyema**,
+but currently **0 clinical trials** and **0 publications** support this direction, so this is a computational prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Impetigo, bullous impetigo |
 | Predicted New Indication | Pleural empyema |
 | TxGNN Prediction Score | 99.49% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 5 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the Evidence Pack. Based on known pharmacology, mupirocin inhibits bacterial isoleucyl-tRNA synthetase. It is active against *Staphylococcus aureus* (including MRSA) and streptococci, which are common causes of pleural empyema. In principle, an antibacterial with this spectrum could be relevant to a bacterial pleural infection.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, mupirocin inhibits bacterial isoleucyl-tRNA synthetase and is active against *Staphylococcus aureus* (including MRSA) and many streptococci. These organisms are common causes of pleural empyema, which gives a plausible antibacterial rationale linking the original skin infection indication to the predicted one.
 
-However, this link is theoretical. Mupirocin is approved only for topical use and is rapidly hydrolyzed to inactive monic acid in the body. There is no systemic or intrapleural formulation, and no data on pleural penetration or safety. The original indication is also not recorded in the Evidence Pack, so the prediction cannot be cross-checked against known indications.
+However, the practical link is weak. Mupirocin is a topical agent with negligible systemic bioavailability because it is rapidly metabolized to inactive monic acid. It cannot reach therapeutic concentrations in the pleural space by either topical or systemic routes. Standard care for empyema (drainage plus systemic antibiotics) is well established, so the prediction has no realistic translational pathway.
 
-A second prediction, **punctate epithelial keratoconjunctivitis** (score 99.10%), has the same problem. Mupirocin might act on a staphylococcal component, but it has no antiviral activity, and the ointment (polyethylene glycol base) is not formulated or approved for ocular use. No trials or literature support it either.
+The model's second-ranked prediction, punctate epithelial keratoconjunctivitis (score 99.10%), is also weak. That condition is often viral (e.g., adenovirus) or non-bacterial, and mupirocin has no antiviral activity. The commercial ointment is also not designed for ophthalmic use. Both predictions are at the L5 level and have been given a Hold recommendation.
 
 ## Clinical Trial Evidence
 
@@ -66,35 +67,36 @@ Currently no related literature available.
 
 ## US Market Information
 
-The Evidence Pack contains no approved indication text for these authorizations, so that column is omitted. The 5 entries below are the main ones of 20 total.
-
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA065170 | Mupirocin | Ointment | Proficient Rx LP |
-| ANDA065123 | Mupirocin | Ointment | Bryant Ranch Prepack |
-| ANDA065123 | Mupirocin | Ointment | Kesin Pharma Corporation |
-| ANDA065123 | Mupirocin | Ointment | Bryant Ranch Prepack |
-| ANDA065123 | Mupirocin | Ointment | A-S Medication Solutions |
+| ANDA065170 | Mupirocin (Proficient Rx LP) | Ointment | Not stated; license cancelled |
+| ANDA065123 | Mupirocin (Bryant Ranch Prepack) | Ointment | Not stated; license cancelled |
+| ANDA065085 | Mupirocin (Teva Pharmaceuticals USA, Inc.) | Ointment | Not stated; license cancelled |
+| ANDA090480 | Mupirocin (Preferred Pharmaceuticals Inc.) | Ointment | Not stated; license cancelled |
+| ANDA217943 | Mupirocin (Encube Ethicals, Inc.) | Ointment | Not stated; license cancelled |
+
+All five authorizations are single-ingredient ointments and all are cancelled.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Disease-level contraindication signal (knowledge graph, not label text)**: dermatitis.
+- **Drug Interactions**: The interaction screen returned 100 potential interacting drugs, but none has a severity grading (all "Unknown"). Examples include calcitriol, clotrimazole, morphine, metformin, pantoprazole, omeprazole, vancomycin, prednisone, simvastatin and rosuvastatin. These entries should not be read as confirmed clinically significant interactions. Given mupirocin's minimal systemic absorption, their relevance is likely limited, but this has not been verified.
+
+Please refer to the package insert for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a high model score but no supporting trials or literature (L5). Mupirocin has no systemic or intrapleural formulation, so the route of administration is a major barrier to use in pleural empyema.
+The prediction rests solely on a model score, with no clinical trials or literature behind it. Mupirocin's topical-only exposure and rapid inactivation make therapeutic levels in the pleural space implausible, and effective standard treatment already exists. All US licenses for the drug are also cancelled.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data from DrugBank
-- Route compatibility assessment (topical-only product versus the required intrapleural or systemic route)
-- Pleural penetration and stability data
-- Any preclinical or clinical evidence for pleural empyema or ocular use
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Detailed mechanism of action data from DrugBank
+- Evidence that a clinically relevant pleural or ocular exposure can be achieved, which would likely require a new formulation or route
+- Any preclinical or clinical data supporting activity in pleural empyema
+- For the ocular prediction, confirmation of a bacterial etiology and an ophthalmic-suitable formulation
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

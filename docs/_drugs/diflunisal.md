@@ -29,71 +29,100 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Diflunisal: From NSAID Pain and Arthritis Therapy to Acromesomelic Dysplasia, Hunter-Thompson Type
+# Diflunisal: From Rheumatoid Arthritis to Ankylosing Spondylitis
 
 ## One-Sentence Summary
 
-Diflunisal is a salicylate-derived NSAID (COX inhibitor) marketed in the US as generic tablets. The TxGNN model predicts it may be effective for **acromesomelic dysplasia, Hunter-Thompson type**, but **no clinical trials and no publications** support this prediction. The link most likely reflects knowledge-graph proximity rather than a real mechanism.
+Diflunisal is a salicylate-derived NSAID, originally used for rheumatoid arthritis and osteoarthritis.
+Among the top 10 TxGNN predictions, the best-supported new indication is **Ankylosing Spondylitis** (the top-ranked prediction, acromesomelic dysplasia, has no supporting evidence at all).
+For ankylosing spondylitis there are **0 registered clinical trials** and **7 publications**, of which only one 1986 comparative study is directly about diflunisal.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the pack (approved-indication text is empty); diflunisal is generally used as an NSAID for pain and arthritis |
-| Predicted New Indication | Acromesomelic dysplasia, Hunter-Thompson type |
-| TxGNN Prediction Score | 99.99% (model rank 548) |
-| Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 7 (the listed licenses are ANDAs) |
+| Original Indication | Rheumatoid arthritis, osteoarthritis, arthropathy (from the knowledge graph; no label text available) |
+| Predicted New Indication | Ankylosing spondylitis (the top-ranked TxGNN prediction, acromesomelic dysplasia Hunter-Thompson type, is not supported by any evidence and is not evaluated further) |
+| TxGNN Prediction Score | 99.98% for ankylosing spondylitis (rank 5); 99.99% for acromesomelic dysplasia (rank 1) |
+| Evidence Level | L3 (ankylosing spondylitis); L5 for the rank 1 prediction |
+| US Market Status | Cancelled only (all 3 authorizations cancelled) |
+| Number of NDAs | 3 (ANDA authorizations) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the pack. Diflunisal is an NSAID that inhibits COX-1 and COX-2 and reduces prostaglandin-mediated inflammation and pain.
+Detailed mechanism of action data for diflunisal is not available in the data compiled for this report. Based on known information, diflunisal is an NSAID that inhibits cyclooxygenase and thereby reduces prostaglandin synthesis. Its efficacy in rheumatoid arthritis and osteoarthritis symptoms is established.
 
-The predicted disease is a monogenic skeletal dysplasia driven by the CDMP1/GDF5 pathway, which controls chondrogenic signaling. COX inhibition has no known effect on this pathway. I found **no plausible mechanistic link**. The high score most likely comes from the drug sitting close to musculoskeletal nodes in the knowledge graph, not from a causal relationship. Because the disease is a structural genetic defect, an NSAID could at most relieve secondary pain and would not modify the disease.
+NSAIDs are a guideline-recognized first-line symptomatic therapy for ankylosing spondylitis, reducing pain, stiffness and inflammation through the same prostaglandin pathway. This makes the prediction mechanistically plausible, but it is essentially a class effect. Many established NSAIDs (such as naproxen and diclofenac) already fill this role, so the repurposing value of diflunisal is low.
+
+Most of the other top-ranked predictions are not credible. Rare genetic conditions (acromesomelic dysplasia, brachyolmia, brachyolmia-amelogenesis imperfecta syndrome, colobomatous microphthalmia-rhizomelic dysplasia syndrome) and myosclerosis have no plausible link to COX inhibition, and their high scores likely reflect knowledge-graph proximity to skeletal and arthropathy terms. Spondyloarthropathy susceptibility, hypermobility of coccyx and rheumatoid vasculitis have only weak indirect plausibility. Rheumatoid vasculitis needs immunosuppression, which NSAIDs cannot replace. Inflammatory spondylopathy overlaps with ankylosing spondylitis and relies on the same literature.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
-Currently no related literature available.
+The literature below is for ankylosing spondylitis. The same set was retrieved for inflammatory spondylopathy. Only the first three entries involve diflunisal directly.
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [3524970](https://pubmed.ncbi.nlm.nih.gov/3524970/) | 1986 | Double-blind randomized comparative trial | Clin Rheumatol | Diflunisal 500 mg twice daily vs phenylbutazone 200 mg twice daily in 38 men with ankylosing spondylitis. Both improved symptoms, and the benefit was maintained through a 36-week open extension. Diflunisal initially had a more pronounced and rapid analgesic effect. |
+| [3546687](https://pubmed.ncbi.nlm.nih.gov/3546687/) | 1986 | Cohort / observational | J Rheumatol | Lung function in 33 men with active ankylosing spondylitis treated with diflunisal or phenylbutazone for 12 weeks plus open extension. Not specific to diflunisal efficacy. |
+| [4062389](https://pubmed.ncbi.nlm.nih.gov/4062389/) | 1985 | Prospective cohort | Ann Rheum Dis | Serum IgA levels correlated with disease activity markers over 48 weeks in 38 patients on phenylbutazone or diflunisal. Not drug-specific. |
+| [6772422](https://pubmed.ncbi.nlm.nih.gov/6772422/) | 1980 | Review (diclofenac, indirect) | Drugs | Review of diclofenac in rheumatic diseases including ankylosing spondylitis. |
+| [387372](https://pubmed.ncbi.nlm.nih.gov/387372/) | 1979 | Review (naproxen, indirect) | Drugs | Review of naproxen efficacy in rheumatic diseases. |
+| [3539573](https://pubmed.ncbi.nlm.nih.gov/3539573/) | 1986 | Review (pirprofen, indirect) | Drugs | Review of pirprofen as an alternative to other NSAIDs in arthritis and ankylosing spondylitis. |
+| [2670397](https://pubmed.ncbi.nlm.nih.gov/2670397/) | 1989 | Review (diclofenac, indirect) | Clin Pharm | Pharmacology, efficacy and dosing review of diclofenac. |
+
+---
 
 ## US Market Information
 
-The pack lists 5 of the 7 licenses. Approved-indication text was not provided for any of them.
+All three authorizations are cancelled. No approved indication text is available.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| ANDA202845 | Dolobid (INA Pharmaceutics Inc) | Tablet, film coated | Not provided |
-| ANDA203547 | Diflunisal (Zydus Lifesciences Limited) | Tablet | Not provided |
-| ANDA202845 | Diflunisal (Heritage Pharmaceuticals / Avet Pharmaceuticals) | Tablet, film coated | Not provided |
-| ANDA073673 | Diflunisal (Teva Pharmaceuticals USA) | Tablet, film coated | Not provided |
-| ANDA203547 | Diflunisal (Zydus Pharmaceuticals USA) | Tablet | Not provided |
+| ANDA202845 | Dolobid (INA Pharmaceutics Inc) | Film-coated tablet | Cancelled |
+| ANDA203547 | Diflunisal (Zydus Lifesciences Limited) | Tablet | Cancelled |
+| ANDA073673 | Diflunisal (Teva Pharmaceuticals USA, Inc.) | Film-coated tablet | Cancelled |
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Package insert warnings and contraindications were not available in the data compiled for this report. Please refer to the package insert for safety information.
+
+- **Knowledge-graph contraindication signals** (not label text): hypertension, kidney disease, liver disease, gallbladder disease, peptic ulcer disease (including active), blood coagulation disease, myocardial infarction, coronary thrombosis, cardiovascular and heart disease, hemoglobinopathy, and pyoureter.
+- **Drug Interactions**: The interaction screen returned 100 interactions in total. The 20 shown are all moderate severity. Main groups:
+  - Corticosteroids: hydrocortisone, triamcinolone, dexamethasone, betamethasone, budesonide
+  - Antidiabetic agents: metformin, chlorpropamide, glimepiride, and several insulins (aspart, degludec, detemir, glargine)
+  - Other salicylates and aminosalicylates: acetylsalicylic acid, mesalazine, balsalazide
+  - Bowel preparations and potassium/alkalinizing agents: picosulfuric acid, polyethylene glycol with electrolytes, sodium sulfate, potassium citrate, potassium bicarbonate
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-There is no clinical or literature evidence (L5, model prediction only). The mechanism is implausible, since an NSAID does not act on GDF5/CDMP1 signaling. The score is most likely a graph-topology artifact.
-
-Among the other top-10 predictions, **ankylosing spondylitis** has the most support (L3). It rests mainly on a 1986 comparison of diflunisal and phenylbutazone (PMID 3524970). NSAIDs are already established therapy for that disease, so it is a label-status question rather than a new repurposing finding. It is a better candidate for follow-up than the rank 1 prediction.
+The only credible new indication is ankylosing spondylitis. It rests on a class effect of NSAIDs and one small 1986 comparative study of 38 patients. There are no registered trials, the drug has no active US authorization, and established NSAIDs already cover this use. The higher-scored predictions have no supporting evidence and are likely knowledge-graph artifacts.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, to complete safety screening
+- Package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
-- Approved-indication text for the US labels
-- For the ankylosing spondylitis lead: full-text review of PMID 3524970 to confirm randomization, blinding and sample size
-- For the rank 1 disease: no action until independent preclinical or clinical evidence appears
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
+- A confirmed design for the 1986 diflunisal vs phenylbutazone study, and a comparison against current first-line NSAIDs
+- A rationale for why diflunisal would be preferred over naproxen or diclofenac, and a plan for the cancelled market status
+- Review of the cardiovascular, renal, hepatic and gastrointestinal contraindication signals for the target population
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

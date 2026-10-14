@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Thiamine
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 1221
-evidence_level: L5
+evidence_level: L3
 indication_count: 4
 ---
 
 # Thiamine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **4** 
+Evidence Level: **L3** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,100 +33,91 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 ## One-Sentence Summary
 
-Thiamine (vitamin B1) is marketed in the US as an injectable product, and the Evidence Pack contains no approved-indication text for it.
-The TxGNN model predicts it may be relevant to **hyperthyroidism**, with **1 small clinical trial** and **20 publications** (mostly case reports) supporting this direction.
-The evidence points to correcting a thiamine deficiency that accompanies hyperthyroidism, not to treating the thyroid disease itself.
-
----
+Thiamine (vitamin B1) is a injectable vitamin product that has been marketed in the United States under multiple generic applications, although the approved indication text is not available in the data compiled for this report.
+The TxGNN model predicts it may be useful for **hyperthyroidism**, with **1 clinical trial** and **20 publications** currently on record.
+The clinical evidence supports only a supportive role, treating thiamine deficiency and its complications in thyrotoxicosis, and not a direct antithyroid effect.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Not available in the compiled data (approved indication text is empty for all authorizations) |
 | Predicted New Indication | Hyperthyroidism |
 | TxGNN Prediction Score | 99.44% |
-| Evidence Level | L3 (weak: one small pilot trial plus case reports) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (the licenses listed are ANDAs) |
+| Evidence Level | L3 |
+| US Market Status | Cancelled only (no currently valid authorizations) |
+| Number of NDAs | 11 (all cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Thiamine is a cofactor for pyruvate dehydrogenase and transketolase, so it supports energy metabolism. This comes from the literature, not from the Evidence Pack's MOA field.
+Currently, detailed mechanism of action data is not available. Based on known information, thiamine is an essential vitamin (B1) and a cofactor in energy metabolism, and its use in correcting thiamine deficiency is well established.
 
-Hyperthyroidism raises metabolic rate and thiamine turnover. Relative thiamine deficiency is documented in hyperthyroid patients. It appears as beriberi-like high-output heart failure and as Wernicke's encephalopathy, especially with vomiting, pregnancy or bariatric surgery. Thiamine could therefore help as adjunct therapy for a comorbid deficiency and for cardiovascular function.
+Hyperthyroidism raises metabolic rate and thiamine turnover, which can cause relative thiamine deficiency. This deficiency may contribute to high-output heart failure (beriberi-like physiology) and to Wernicke's encephalopathy, especially with hyperemesis gravidarum, bariatric surgery or poor intake.
 
-There is no evidence that thiamine treats the thyroid disease itself. The very high TxGNN score reflects proximity in the knowledge graph, not clinical proof.
-
----
+Thiamine therefore acts as adjunctive supportive repletion for the complications of thyrotoxicosis, **not as an antithyroid treatment**. The very high TxGNN score (0.994) should be read with this in mind: the clinical evidence supports a supportive or complication-prevention role only.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT02767245](https://clinicaltrials.gov/study/NCT02767245) | NA | Completed | 12 | Pilot study of thiamine supplementation in severe hyperthyroidism. It measures thiamine deficiency prevalence and cardiovascular function. No results are available in the pack. |
+| [NCT02767245](https://clinicaltrials.gov/study/NCT02767245) | Not applicable (no phase) | Completed | 12 | Pilot study of thiamine supplementation to evaluate thiamine deficiency prevalence and cardiovascular function improvement in severe hyperthyroidism |
 
-The trial tests thiamine directly in hyperthyroid patients. It is small, has no formal phase, and its endpoint is cardiovascular function rather than thyroid control. It cannot support a higher evidence level.
-
----
+This is a small, non-phased pilot study and cannot be counted as a Phase 2/3 RCT.
 
 ## Literature Evidence
 
-No randomized trials or systematic reviews were found. The most relevant publications are listed below.
+Most of the publications are case reports of Wernicke's encephalopathy occurring with thyrotoxicosis. No RCTs were identified. A selection of the most relevant items:
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [32983708](https://pubmed.ncbi.nlm.nih.gov/32983708/) | 2020 | Case report | Cureus | Wernicke's encephalopathy with transient gestational hyperthyroidism and hyperemesis |
-| [18026802](https://pubmed.ncbi.nlm.nih.gov/18026802/) | 2008 | Case report | J Gen Intern Med | Thyrotoxicosis-associated Wernicke's encephalopathy |
-| [36176825](https://pubmed.ncbi.nlm.nih.gov/36176825/) | 2022 | Case report | Cureus | Hyperthyroidism presenting as Wernicke's encephalopathy with severe neurological consequences |
-| [25148818](https://pubmed.ncbi.nlm.nih.gov/25148818/) | 2014 | Case report | Endocr Pract | Gestational thyrotoxicosis with Wernicke's encephalopathy |
-| [26567494](https://pubmed.ncbi.nlm.nih.gov/26567494/) | 2015 | Case report / clinical review | Crit Care Nurs Clin North Am | High-output heart failure caused by thyrotoxicosis and wet beriberi |
-| [34995426](https://pubmed.ncbi.nlm.nih.gov/34995426/) | 2021 | Case report | S D Med | Visual disturbances from Wernicke encephalopathy in a Graves' disease patient after sleeve gastrectomy |
-| [36593922](https://pubmed.ncbi.nlm.nih.gov/36593922/) | 2023 | Case report | Radiol Case Rep | Wernicke-Korsakoff syndrome in a pregnant woman with pre-gestational hyperthyroidism |
-| [32934066](https://pubmed.ncbi.nlm.nih.gov/32934066/) | 2020 | Case report | Clin Med (Lond) | Wernicke's encephalopathy at 17 weeks of pregnancy after hyperemesis and thyrotoxicosis |
-| [22436368](https://pubmed.ncbi.nlm.nih.gov/22436368/) | 2013 | Case report | Neurologia | Wernicke's encephalopathy secondary to hyperthyroidism and thiaminase-rich products |
-| [13305517](https://pubmed.ncbi.nlm.nih.gov/13305517/) | 1955 | Small physiological study | Endocrinol Sci Cost | Urinary thiamine after intravenous cocarboxylase load in hyperthyroid and normal subjects |
-
----
+| [26567494](https://pubmed.ncbi.nlm.nih.gov/26567494/) | 2015 | Case report / narrative review | Crit Care Nurs Clin North Am | High-output heart failure caused by thyrotoxicosis and wet beriberi (severe thiamine deficiency) |
+| [7919625](https://pubmed.ncbi.nlm.nih.gov/7919625/) | 1994 | Case report | Intern Med | Pulmonary hypertension from high-output heart failure; improved after antithyroid therapy in hyperthyroidism and after thiamine in cardiac beriberi |
+| [7416185](https://pubmed.ncbi.nlm.nih.gov/7416185/) | 1980 | Case series | Am J Med | 23 cases of beriberi heart disease in Japan, driven by relative thiamine deficiency |
+| [18026802](https://pubmed.ncbi.nlm.nih.gov/18026802/) | 2008 | Case report | J Gen Intern Med | Wernicke's encephalopathy associated with thyrotoxicosis |
+| [32983708](https://pubmed.ncbi.nlm.nih.gov/32983708/) | 2020 | Case report | Cureus | Wernicke's encephalopathy with transient gestational hyperthyroidism and hyperemesis gravidarum |
+| [32934066](https://pubmed.ncbi.nlm.nih.gov/32934066/) | 2020 | Case report | Clin Med (London) | Pregnant woman with hyperemesis and thyrotoxicosis who developed Wernicke's encephalopathy |
+| [34995426](https://pubmed.ncbi.nlm.nih.gov/34995426/) | 2021 | Case report | S D Med | Visual disturbances and Wernicke encephalopathy in a Graves' disease patient after sleeve gastrectomy |
+| [36176825](https://pubmed.ncbi.nlm.nih.gov/36176825/) | 2022 | Case report | Cureus | Wernicke's encephalopathy as an uncommon neurological consequence of hyperthyroidism |
+| [9704251](https://pubmed.ncbi.nlm.nih.gov/9704251/) | 1998 | Review | Drug Saf | Treatment of nausea and vomiting in pregnancy, including hyperemesis and its complications |
+| [21064291](https://pubmed.ncbi.nlm.nih.gov/21064291/) | 1946 | Preclinical | Fed Proc | Effects of thiamine deficiency and thyroid states on rat heart muscle ATP content |
 
 ## US Market Information
 
-The Evidence Pack has no approved-indication text for these products. The 5 main authorizations are listed below.
+All 11 authorizations on record are cancelled. The main ones are:
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA217181 | Thiamine Hydrochloride | Injection, solution | OneSource Specialty Pharma Limited |
-| ANDA215692 | Thiamine | Injection, solution | Caplin Steriles Limited |
-| ANDA080571 | Thiamine Hydrochloride injection, solution | Injection, solution | HF Acquisition Co LLC, DBA HealthFirst |
-| ANDA206106 | Thiamine Hydrochloride | Injection, solution | Sagent Pharmaceuticals |
-| ANDA215692 | Thiamine | Injection, solution | NorthStar Rx LLC |
-
-Only injectable and solution forms appear in the pack.
-
----
+| ANDA217181 | Thiamine Hydrochloride (OneSource Specialty Pharma) | Injection, solution | Not available |
+| ANDA215692 | Thiamine (Caplin Steriles) | Injection, solution | Not available |
+| ANDA080571 | Thiamine Hydrochloride (HealthFirst) | Injection, solution | Not available |
+| ANDA206106 | Thiamine Hydrochloride (Sagent) | Injection, solution | Not available |
+| ANDA217800 | Thiamine Hydrochloride (Gland Pharma) | Injection, solution | Not available |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Please refer to the package insert for safety information. No warnings, contraindications or drug interaction data were available in the data compiled for this report.
 
----
+## Other Predicted Indications
+
+| Predicted Indication | TxGNN Score | Evidence Level | Assessment |
+|------|------|------|------|
+| Resistance to thyroid hormone (THRB mutation) | 99.43% | L5 | No mechanistic link, trials or literature; likely a network-proximity artefact. Hold |
+| Primary hereditary glaucoma | 99.40% | L5 | Prediction only; a vitamin is unlikely to address developmental outflow defects. Hold |
+| Open-angle glaucoma | 99.36% | L4 | Only indirect observational data (e.g., lower blood thiamine in a small 1979 study); no trials. Hold |
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The only direct evidence is one small (n=12) pilot trial without available results, plus case reports linking hyperthyroidism to thiamine deficiency. The plausible role is correcting a comorbid deficiency, not treating hyperthyroidism. The other predicted indications (thyroid hormone resistance, hereditary glaucoma, open-angle glaucoma) have no or only indirect evidence and are not worth pursuing now. This remains a research question.
+The only direct trial is a small, non-phased pilot (n=12), and the literature consists mainly of case reports linking thyrotoxicosis to thiamine deficiency. The evidence supports a supportive role (preventing or treating deficiency complications), not treatment of hyperthyroidism itself. All US authorizations are cancelled and no safety data were available.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, which are currently missing and block safety screening
-- Mechanism of action data and the original approved indications (for example from DrugBank)
-- Results of NCT02767245, or a new randomized trial of thiamine in hyperthyroid patients with confirmed deficiency, with cardiovascular and neurological endpoints
-- A clear framing of the target: thiamine-deficiency comorbidity, not the thyroid disease itself
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Package insert warnings, contraindications and approved indications (the safety screening cannot proceed without them)
+- Mechanism of action data
+- Published results from NCT02767245 and, ideally, a controlled trial of thiamine for cardiovascular or neurological complications in thyrotoxicosis
+- A clear definition of the intended role (supportive repletion rather than antithyroid therapy) and confirmation of the current US market and route availability
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

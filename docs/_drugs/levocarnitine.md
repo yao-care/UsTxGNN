@@ -29,86 +29,74 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Levocarnitine: From an Established Marketed Drug to Autosomal Dominant Familial Hematuria-Retinal Arteriolar Tortuosity-Contractures Syndrome
+# Levocarnitine: Predicted New Indication, Autosomal Dominant Familial Hematuria-Retinal Arteriolar Tortuosity-Contractures Syndrome
 
 ## One-Sentence Summary
 
-Levocarnitine is a marketed US drug with 15 NDA/ANDA authorizations, but the source data do not list its approved indication.
-The TxGNN model predicts it may be effective for **autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome**.
+Levocarnitine is a carnitine product that supports fatty acid transport into mitochondria, and its US licenses are currently all in cancelled status.
+The TxGNN model predicts it may be effective for **autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome**, an ultra-rare vascular and basement-membrane disorder.
 This prediction has **0 clinical trials** and **0 publications** behind it, so it rests on the model score alone.
-
----
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the available data (all approved-indication fields are empty) |
 | Predicted New Indication | Autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome |
 | TxGNN Prediction Score | 99.94% |
 | Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 15 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 11 licenses in total (3 NDAs and 8 ANDAs), all cancelled |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Levocarnitine is a marketed drug with a long US regulatory history. However, its original indication could not be extracted from the data, so the relationship between the original and predicted indications cannot be assessed.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Levocarnitine is generally understood to carry long-chain fatty acids into mitochondria for energy production.
 
-The data support no mechanistic link for this prediction. The score comes from the knowledge graph alone, with no trials or literature. The disease is an ultra-rare genetic syndrome, so a high graph score should not be read as a clinical signal.
-
----
+The predicted disease is a rare vascular and basement-membrane disorder related to collagen IV. No clear mechanistic link between carnitine's role in fatty acid transport and mitochondrial metabolism and this disease can be established from the available data. The very high score (99.94%, rank 2220 among model predictions) most likely reflects network proximity in the knowledge graph rather than a demonstrated biological connection. The prediction should be treated as a hypothesis only.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+All licenses below are in cancelled status. No approved indication text was available for any of them.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
-| NDA019257 | Carnitor SF (Leadiant Biosciences) | Solution | Not listed in source data |
-| ANDA076851 | Levocarnitine (Rising Pharma) | Solution | Not listed in source data |
-| ANDA076858 | Levocarnitine (Rising Pharma) | Tablet | Not listed in source data |
-| ANDA211676 | Levocarnitine (ANI Pharmaceuticals) | Solution | Not listed in source data |
-| ANDA212533 | Levocarnitine (TRUPHARMA) | Solution | Not listed in source data |
+| NDA019257 | Carnitor SF | Solution | Leadiant Biosciences, Inc. |
+| NDA020182 | Carnitor | Injection, solution | Leadiant Biosciences, Inc. |
+| NDA018948 | Carnitor | Tablet | Leadiant Biosciences, Inc. |
+| ANDA076858 | Levocarnitine | Tablet | Rising Pharma Holdings, Inc. |
+| ANDA075861 | Levocarnitine | Injection, solution | American Regent, Inc. |
 
-Routes and forms across all 15 authorizations include oral tablet, oral/other solution, and injection.
-
----
+Available dosage forms across all licenses: oral tablet, injectable (injection and injection solution), and oral or other solution.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: 68 known interactions were identified. The two classified as Moderate are **warfarin** and **dicoumarol**, so anticoagulation monitoring would be needed. Many others (for example valproic acid, topiramate, digoxin, ramipril, and metoprolol) have no severity classification.
+- **Knowledge-graph contraindication signals** (these come from the TxGNN knowledge graph, not from label text): epilepsy, kidney disease, pyoureter, liver disease, gallbladder disease, hypotensive disorder, blood coagulation disease, cholestasis, benign recurrent intrahepatic cholestasis, and familial intrahepatic cholestasis.
 
----
+Please refer to the package insert for complete warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction has no clinical trials, no literature and no supported mechanism (Evidence Level L5). A graph score alone is not enough to justify further investment.
-
-Other predicted indications for levocarnitine have more support and may be better candidates:
-- **Congestive heart failure** (Evidence Level L2): includes a completed Phase 2/3 randomized, placebo-controlled trial (NCT01580553, n=268). No results are provided, so efficacy is unverified.
-- **Rheumatoid arthritis** (Evidence Level L2): three direct trials (NCT06753565, NCT05792527, NCT03953703). All are small, and NCT03953703 is a Sjögren's syndrome trial.
-- **Diabetic nephropathy** (Evidence Level L4): preclinical and observational support only.
+The prediction has no supporting trials or literature, no plausible mechanistic link to this ultra-rare collagen IV-related disorder, and no currently valid US licenses. It is a model output that cannot be acted on in its current form.
 
 **To proceed, the following is needed:**
-- Original approved indication text and package insert warnings and contraindications (blocking data gap for safety screening)
-- Mechanism of action data (from DrugBank)
-- For this specific prediction: any mechanistic or genetic evidence linking carnitine metabolism to the disease. If none exists, deprioritize it in favor of the higher-evidence candidates above.
+- Mechanistic evidence connecting carnitine metabolism to the pathology of this disease, such as preclinical or cell-model data
+- Detailed mechanism of action data for levocarnitine
+- Package insert warnings and contraindications, and a review of the interaction burden (especially anticoagulants)
+- Clarification of regulatory status, since all US licenses are cancelled
+
+**Note on other predicted indications:** The same prediction run produced candidates with far stronger support. **Congestive heart failure** (score 99.47%) has a completed Phase 2/3 randomized, placebo-controlled trial of L-carnitine injection (NCT01580553, 268 participants), a recruiting early-phase trial (NCT07201714), and supportive clinical literature. Its trial results still need to be verified. It would be a more productive candidate to evaluate first.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

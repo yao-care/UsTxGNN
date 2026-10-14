@@ -29,80 +29,73 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Polyethylene Glycol 3500: From Osmotic Laxative Use to Congenital Ichthyosiform Erythroderma
+# Polyethylene Glycol 3500: From Constipation to Congenital Ichthyosiform Erythroderma
 
 ## One-Sentence Summary
 
-Polyethylene glycol (PEG) 3500 is a non-absorbed osmotic laxative. The original indication is not recorded in the dataset.
-The TxGNN model predicts it may be effective for **Congenital Ichthyosiform Erythroderma**, but there are **0 clinical trials** and **0 publications** supporting this direction, so this is a model-only signal.
-
----
+Polyethylene glycol 3500 (PEG 3500) is an osmotic laxative, originally used to treat constipation and also listed for dry eye conditions.
+The TxGNN model predicts it may be effective for **congenital ichthyosiform erythroderma**,
+but **no clinical trials and no publications** currently support this prediction, so it is a computational signal only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not specified in the data (the US license record has no indication text) |
+| Original Indication | Constipation disorder (also dry eye syndrome and xerophthalmia in the knowledge graph); no approved indication text is available in the US license record |
 | Predicted New Indication | Congenital ichthyosiform erythroderma |
 | TxGNN Prediction Score | 99.73% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 1 (the record is an ANDA) |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no currently valid license) |
+| Number of NDAs | 1 (one cancelled ANDA, not an NDA) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. PEG 3500 is an osmotic laxative that is not absorbed from the gut. It acts by holding water in the intestinal lumen, and it has no known action on skin biology.
+Currently, detailed mechanism of action data is not available. Based on known information, PEG 3500 is a hydrophilic polymer used as an osmotic laxative. Its efficacy in constipation is established, but there is no data connecting it to inherited skin-scaling disorders.
 
-Congenital ichthyosiform erythroderma is a keratinization disorder with a defective epidermal barrier (for example, TGM1 or ALOX12B variants). No direct mechanistic link to an oral laxative is supported. The only plausible connection is indirect: PEGs are used as humectants and vehicles in topical emollients. That is a formulation role on a different route, not a repurposing signal for the oral drug.
+A speculative link is that a hydrophilic polymer could act as a humectant or emollient-like agent, helping hydrate the stratum corneum in ichthyosis. This idea is untested and unsupported by any evidence. Oral PEG 3500 is minimally absorbed, so it would be unlikely to reach the skin systemically.
 
-The high score (0.997) most likely reflects proximity in the knowledge graph rather than a validated pharmacological effect. The other two top predictions, self-healing collodion baby (99.60%) and lamellar ichthyosis (99.38%), are also ichthyosis-type skin disorders. They likewise have no trials or publications, and the same reasoning applies. In neonates with a compromised skin barrier, systemic absorption of PEG through impaired skin is an additional unaddressed safety concern.
-
-The data lists the ingredient as PEG 3500 while the US product is labeled PEG 3350. This naming difference should be confirmed.
-
----
+The very high TxGNN score (0.997) reflects a computational prediction only. Two other related skin conditions were also predicted: self-healing collodion baby (99.60%) and lamellar ichthyosis (99.38%). All three have the same lack of supporting evidence. Established treatments for ichthyosis (emollients, keratolytics, retinoids) already exist, and PEG 3500 has no demonstrated advantage.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
-
----
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA078915 | Polyethylene Glycol (3350) (Mylan Institutional Inc.) | Powder, for solution | Not specified in the data |
-
----
+| ANDA078915 (cancelled) | Polyethylene Glycol (3350), Mylan Institutional Inc. | Powder, for solution | Not specified |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+The knowledge graph links PEG 3500 to contraindication relationships with the following conditions. These come from graph data, not from package insert text, and should be confirmed against the label:
 
----
+- **Gastrointestinal:** ileus, paralytic ileus, intestinal obstruction, toxic megacolon, pyloric stenosis, appendicitis, familial visceral myopathy
+- **Cardiovascular and renal:** hypertension, congestive heart failure, cardiovascular and heart disease, kidney disease, anuria, pyoureter
+- **Metabolic and endocrine:** diabetes mellitus, hyperglycemia, diabetic ketoacidosis, hypercalcemia, nephrocalcinosis, potassium deficiency, phosphorus metabolism disease, hyperthyroidism, Graves disease, thyrotoxicosis
+- **Neurological:** epilepsy
+- **Eye:** angle-closure glaucoma, closed-angle glaucoma, conjunctivitis, eye infectious disease
+
+No drug interaction records were found. Please refer to the package insert for official warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical or literature support (evidence level L5), and no mechanistic link is established between an oral, non-absorbed laxative and a keratinization disorder. Safety and mechanism data are also missing, so the candidate cannot advance past the initial stage.
+The prediction rests only on a model score. There are no clinical trials or publications, the mechanism is unknown, oral PEG 3500 is minimally absorbed, and the only US license is cancelled. Effective ichthyosis treatments already exist.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (blocking gap)
-- Mechanism of action data and the original indication
-- A literature and trial search on PEG in ichthyosis, to determine whether any signal concerns the active drug or only topical vehicles
-- Route compatibility assessment, since the oral powder is not a topical formulation
-- Safety assessment of PEG exposure in neonates with impaired skin barrier
+- Mechanism of action data for PEG 3500 and a plausible biological link to ichthyosis
+- Route and formulation assessment, since a topical product would be needed and none is currently identified
+- Package insert warnings and contraindications to complete safety screening
+- Preclinical or early exploratory evidence (for example, skin hydration or barrier studies) showing benefit over existing emollients
+- A literature and trial search to confirm that no relevant studies exist
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

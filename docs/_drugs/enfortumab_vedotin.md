@@ -29,35 +29,36 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-# Enfortumab Vedotin: From Urothelial Cancer to Leprosy
+# Enfortumab Vedotin: From Urothelial Carcinoma to Leprosy
 
 ## One-Sentence Summary
 
-Enfortumab vedotin is a Nectin-4-directed antibody-drug conjugate (ADC) marketed in the US as PADCEV, and its known use is in urothelial (bladder) cancer.
-The TxGNN model predicts it may be effective for **leprosy**, but the prediction rests on the model score alone, with **0 clinical trials** and **0 publications** supporting this direction.
+Enfortumab vedotin is a Nectin-4-directed antibody-drug conjugate (with an MMAE payload) marketed as PADCEV for urothelial carcinoma.
+The TxGNN model predicts it may be effective for **leprosy**, but there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction is purely computational.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Urothelial (bladder) cancer. The license records in the Evidence Pack do not list an indication, so this is based on the drug's known use. |
+| Original Indication | Urothelial carcinoma (from general drug knowledge; the US license record in the compiled data has no indication text) |
 | Predicted New Indication | Leprosy |
 | TxGNN Prediction Score | 99.53% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 2 records, both under BLA761137 |
+| US Market Status | Cancelled only |
+| Number of NDAs | 1 (BLA761137) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Enfortumab vedotin is a Nectin-4-directed ADC. The antibody binds Nectin-4 on tumor cells, and the attached payload, MMAE, disrupts microtubules and kills the cell. It is a cytotoxic cancer drug and has no known antimycobacterial activity.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known information, enfortumab vedotin is an antibody-drug conjugate that targets Nectin-4 and delivers monomethyl auristatin E (MMAE), a microtubule-disrupting cytotoxic agent. Its efficacy has been established in urothelial carcinoma.
 
-This prediction is therefore not well supported. Leprosy is an infection caused by *Mycobacterium leprae*, and nothing in the drug's mechanism connects it to that pathogen. The high score most likely reflects patterns in the knowledge graph rather than biology. No clinical or literature evidence backs it.
+No plausible mechanistic link to leprosy was identified. Leprosy is a *Mycobacterium leprae* infection, and a cytotoxic payload aimed at Nectin-4-expressing tumour cells has no known antibacterial activity. The high TxGNN score is best read as a model output, not as biological support. Immunosuppression and cytotoxicity would also be a safety concern in this setting.
 
-The other eight predicted indications are also L5 and show the same weakness. They are multiple endocrine neoplasia, cytomegalovirus infection, candidiasis, cerebral infarction, HIV infection, homozygous familial hypercholesterolemia, malignant catarrh and infectious bovine rhinotracheitis.
-- For the infectious diseases, the cytotoxic payload and treatment-related immunosuppression would more plausibly raise infection risk than treat it.
-- The only literature found for any of them is a FAERS pharmacovigilance study of ADCs in bladder cancer (PMID 41341429), retrieved for candidiasis. It is a safety analysis, not evidence of benefit.
-- Malignant catarrh and infectious bovine rhinotracheitis are veterinary diseases, probably knowledge-graph artifacts, and should be excluded from human review.
+Other top-ranked predictions show the same pattern, with no supporting data or plausible mechanism:
+- Multiple endocrine neoplasia (99.43%): Nectin-4 expression in these tumours is not established.
+- Cytomegalovirus infection (99.36%): the only linked paper is a case report of an adverse event (esophagitis), not a therapeutic benefit.
+- Candidiasis (99.30%): the only linked paper is a pharmacovigilance study of ADC risk signals, not a therapeutic effect.
+- Cerebral infarction, HIV infection, homozygous familial hypercholesterolemia, malignant catarrh and infectious bovine rhinotracheitis: all prediction-only. The last two are veterinary diseases and likely ontology-mapping artifacts.
 
 ## Clinical Trial Evidence
 
@@ -65,44 +66,50 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for leprosy.
+
+For reference, the two papers linked to other predicted indications report safety signals, not benefit:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [42647281](https://pubmed.ncbi.nlm.nih.gov/42647281/) | 2026 | Case report | Reports (MDPI) | Severe diffuse ulcerative esophagitis after enfortumab vedotin plus pembrolizumab in metastatic urothelial carcinoma (linked to cytomegalovirus infection) |
+| [41341429](https://pubmed.ncbi.nlm.nih.gov/41341429/) | 2025 | Pharmacovigilance cohort | Clinical Epidemiology | Real-world FAERS analysis of ADC risk signals in bladder cancer (linked to candidiasis) |
 
 ## US Market Information
 
-Both license records are the same authorization, listed twice.
-
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA761137 | PADCEV | Injection, powder, lyophilized, for solution | Seagen Inc. |
+| BLA761137 | PADCEV (Seagen Inc.) | Lyophilized powder for injection solution | Not listed in the compiled data (status: cancelled) |
 
 ## Cytotoxicity
 
-This section reflects general knowledge of the ADC class. It was not drawn from the Evidence Pack, so please confirm each item against the package insert.
-
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (ADC with cytotoxic MMAE payload) |
-| Myelosuppression Risk | Medium (neutropenia is a recognized concern) |
-| Emetogenicity Classification | Low |
-| Monitoring Items | CBC with differential, liver and renal function, blood glucose, skin and peripheral nerve assessment |
+| Cytotoxicity Classification | Antibody-drug conjugate with a cytotoxic payload (MMAE, microtubule inhibitor) |
+| Myelosuppression Risk | Please refer to the package insert warnings and precautions (neutropenia is a concern per the payload class) |
+| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
+| Monitoring Items | CBC with differential, blood glucose (hyperglycemia is a known toxicity), liver and renal function |
 | Handling Protection | Follow cytotoxic drug handling regulations |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: 100 interactions were found in the DDI screen. The entries listed are mainly Moderate, and one is Major:
+  - **Major**: Clarithromycin
+  - **Moderate**: Many antidiabetic agents, including metformin, pioglitazone, acarbose, albiglutide, alogliptin, saxagliptin, linagliptin, dulaglutide, exenatide, canagliflozin, dapagliflozin, empagliflozin, ertugliflozin, and the sulfonylureas (chlorpropamide, acetohexamide, glimepiride, glipizide, glyburide), plus aprepitant.
+- Package insert warnings and contraindications were not available in the compiled data. Please refer to the package insert for these.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is model-only (L5), with no trials, no supporting literature and no plausible mechanism linking a Nectin-4-directed cytotoxic ADC to leprosy. The drug's toxicity and immunosuppressive effects also make it a poor fit for an infectious disease.
+The leprosy prediction rests only on a model score, with no clinical trials, no literature and no plausible mechanism. The cytotoxic payload also raises safety concerns for an infectious disease. The US license record is cancelled, and the package insert safety data is missing.
 
 **To proceed, the following is needed:**
-- Any mechanistic or preclinical evidence linking Nectin-4 or MMAE to *M. leprae* infection
-- The package insert warnings and contraindications, which were not available for this review
-- A review of the knowledge-graph terms, with veterinary entries (malignant catarrh, infectious bovine rhinotracheitis) excluded
-- Detailed mechanism of action data from DrugBank
+- Package insert warnings and contraindications (blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- Any preclinical or clinical evidence linking Nectin-4 or MMAE to *M. leprae* infection
+- Confirmation of the current US regulatory status and approved indication text for PADCEV
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

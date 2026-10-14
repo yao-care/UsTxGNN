@@ -29,103 +29,79 @@ Evidence Level: **L3** | Predicted Indications: **6**
 
 </div>
 
-# Magnesium Hydroxide: From Antacid/Laxative Use to Active Peptic Ulcer Disease
+# Magnesium Hydroxide: From Peptic Ulcer Disease to Active Peptic Ulcer Disease
 
 ## One-Sentence Summary
 
-Magnesium hydroxide is a long-established over-the-counter antacid and laxative, sold in the US mainly as Milk of Magnesia.
-The TxGNN model predicts it may be effective for **active peptic ulcer disease**, but there are **0 registered clinical trials** and **20 publications** behind this direction. Most of the publications are older studies of aluminum/magnesium combination antacids or preclinical work.
-
----
+Magnesium hydroxide is an antacid originally used for peptic ulcer disease, reflux disease, esophagitis, constipation and dyspepsia.
+The TxGNN model predicts it may be effective for **active peptic ulcer disease**, but this is essentially its original indication family rather than a true repurposing.
+Currently there are **0 registered clinical trials** and **9 publications** for this prediction, mostly old studies of aluminum/magnesium hydroxide combination products.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Antacid / laxative (inferred from product types; the label indication text is not provided in the data) |
+| Original Indication | Peptic ulcer disease, gastroesophageal reflux disease, esophagitis, constipation, dyspepsia (from the knowledge graph; no approved indication text is available in the US license records) |
 | Predicted New Indication | Active peptic ulcer disease |
 | TxGNN Prediction Score | 99.98% |
 | Evidence Level | L3 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (listed authorizations, mostly OTC monograph M007) |
+| US Market Status | Cancelled only (all licenses cancelled) |
+| Number of NDAs | 3 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the source record. Based on known pharmacology and the retrieved literature, magnesium hydroxide neutralizes gastric acid and raises intragastric pH. Preclinical studies of aluminum/magnesium antacids also point to mucosal protection through endogenous prostaglandins (PMID 2595273, 22950493) and to upregulation of EGF signaling in gastric mucosa (PMID 10791688).
+Currently, detailed mechanism of action data is not available. Based on known information, magnesium hydroxide is an antacid that neutralizes gastric acid. Reduced acid exposure supports ulcer pain relief and healing.
 
-The original use (acid neutralization) and the predicted use (ulcer healing) are closely related, because gastric acid and pepsin drive ulcer injury. This makes the prediction plausible, but it is **largely a rediscovery of the established antacid class use rather than a novel repurposing**.
+Peptic ulcer disease is already part of this drug's original indication family, so the prediction is reasonable but not novel. The supporting literature consists mainly of studies of aluminum hydroxide plus magnesium hydroxide combinations (for example Maalox), including gastric pH studies and comparator trials. Rat studies also suggest a gastroprotective effect involving endogenous prostaglandins.
 
-Three caveats apply:
-- Most human evidence involves Al/Mg combination antacids, not magnesium hydroxide alone.
-- The studies predate proton pump inhibitors (PPIs) and *H. pylori* eradication therapy, which are now the standard of care.
-- Any use should be adjunctive only.
-
----
+Evidence is mostly for combination products and is dated. Modern proton pump inhibitor and H. pylori eradication regimens have largely replaced antacids as ulcer therapy.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [7034155](https://pubmed.ncbi.nlm.nih.gov/7034155/) | 1981 | RCT | Scand J Gastroenterol | 12-week double-blind trial in 72 patients with duodenal or prepyloric ulcers. Cimetidine reached 67% healing at 3 weeks (p<0.005 vs placebo). The antacid/anticholinergic arm reached 50%; its comparison with placebo is cut off in the available abstract. |
-| [3018068](https://pubmed.ncbi.nlm.nih.gov/3018068/) | 1986 | RCT | J Clin Gastroenterol | In duodenal ulcer patients, compared the postprandial acid-buffering duration of sodium bicarbonate versus aluminum-magnesium hydroxide (Maalox). |
-| [2401189](https://pubmed.ncbi.nlm.nih.gov/2401189/) | 1990 | Cohort | Drugs Exp Clin Res | Retrospective study of 267 children with peptic symptoms, assessing peptic disease incidence and the efficacy of various drugs in acute phases and relapses. |
-| [37146](https://pubmed.ncbi.nlm.nih.gov/37146/) | 1979 | Review | Fortschr Med | Antacids help in peptic ulcer disease by neutralizing gastric acid and inhibiting pepsin. Adequate dosing is needed 1 and 3 hours after meals. |
-| [6086186](https://pubmed.ncbi.nlm.nih.gov/6086186/) | 1984 | Review | Clin Gastroenterol | Reviews antacids and anticholinergics in duodenal ulcer treatment. |
-| [22950493](https://pubmed.ncbi.nlm.nih.gov/22950493/) | 2013 | Review | Curr Pharm Des | Updates the cellular and molecular mechanisms of antacid-related mucosal protection and ulcer healing. |
-| [2595273](https://pubmed.ncbi.nlm.nih.gov/2595273/) | 1989 | Animal | Scand J Gastroenterol | In rats, an Al/Mg hydroxide antacid (Maalox 70) dose-dependently prevented gastric lesions from ethanol, aspirin and stress. The effect was similar to a PGE2 analog and involved endogenous prostanoids. |
-| [10791688](https://pubmed.ncbi.nlm.nih.gov/10791688/) | 2000 | Mechanistic | J Physiol Paris | The antacid talcid activated genes for EGF and its receptor in gastric mucosa, a proposed basis for ulcer healing. |
-| [9305482](https://pubmed.ncbi.nlm.nih.gov/9305482/) | 1997 | Clinical | Aliment Pharmacol Ther | Reports that H2-receptor antagonists and antacids (including Al/Mg hydroxide) have an aggravating effect on *H. pylori* gastritis in duodenal ulcer patients. This is a caution signal. |
-| [35720246](https://pubmed.ncbi.nlm.nih.gov/35720246/) | 2022 | In vitro | Med Pharm Rep | Evaluated the acid-neutralizing capacity of antacids marketed in Morocco. |
-
----
+| [3018068](https://pubmed.ncbi.nlm.nih.gov/3018068/) | 1986 | Clinical physiology study | J Clin Gastroenterol | Sodium bicarbonate vs aluminum/magnesium hydroxide (Maalox) on postprandial gastric acid buffering in duodenal ulcer patients |
+| [3903784](https://pubmed.ncbi.nlm.nih.gov/3903784/) | 1985 | Controlled clinical trial | Pharmatherapeutica | 30 outpatients with gastric or duodenal ulcer; Al/Mg hydroxide antacid alone vs antacid plus triletide over 8 weeks |
+| [4059297](https://pubmed.ncbi.nlm.nih.gov/4059297/) | 1985 | Clinical trial | Pharmatherapeutica | 30 duodenal ulcer outpatients randomized to antacid, triletide, or both for 8 weeks |
+| [1526089](https://pubmed.ncbi.nlm.nih.gov/1526089/) | 1992 | RCT | Clin Pharmacol Ther | Nizatidine vs placebo in benign gastric ulcer; the antacid was not the test drug |
+| [9305482](https://pubmed.ncbi.nlm.nih.gov/9305482/) | 1997 | Cohort/clinical study | Aliment Pharmacol Ther | Effect of H2 antagonists and antacids on H. pylori gastritis in duodenal ulcer patients; reported an aggravating effect |
+| [2228342](https://pubmed.ncbi.nlm.nih.gov/2228342/) | 1990 | Review | Int J Clin Pharmacol Res | Antacids and upper GI mucosal protection, including prostanoid changes with Al/Mg hydroxide in gastric ulcer patients |
+| [3660893](https://pubmed.ncbi.nlm.nih.gov/3660893/) | 1987 | Review | Z Gastroenterol | Al/Mg hydroxide antacid mixtures healed gastric and duodenal ulcers better than placebo and comparably to H2 blockers |
+| [2595273](https://pubmed.ncbi.nlm.nih.gov/2595273/) | 1989 | Animal study | Scand J Gastroenterol | In rats, an Al/Mg hydroxide antacid dose-dependently prevented gastric lesions |
+| [35720246](https://pubmed.ncbi.nlm.nih.gov/35720246/) | 2022 | In vitro study | Med Pharm Rep | Acid-neutralizing capacity of antacids marketed in Morocco |
 
 ## US Market Information
 
-The source data lists 20 authorizations in total; the 5 main ones are shown below. Approved indication text was not provided for any of them.
-
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| M007 | Milk of Magnesia Cherry | Liquid | CVS |
-| M007 | Milk of Magnesia Mint | Suspension | Cardinal Health |
-| M007 | Milk of Magnesia Mint | Liquid | Preferred Pharmaceuticals Inc. |
-| M007 | Milk of Magnesia Mint | Liquid | Geri-Care Pharmaceuticals, Corp |
-| 505G(a)(3) | Dulcolax | Liquid | Chattem, Inc. |
-
-Chewable tablets (oral) are also recorded among the dosage forms.
-
----
+| M007 | MILK OF MAGNESIA CHERRY (CVS) | Liquid | Not available (cancelled) |
+| 505G(a)(3) | Dulcolax (Chattem, Inc.) | Liquid | Not available (cancelled) |
+| M001 | Humco Milk of Magnesia (Humco Holding Group, Inc.) | Suspension | Not available (cancelled) |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
-- **Drug Interactions**: No interactions were found in the interaction database query. A Phase 1 study in healthy volunteers (NCT00446316) examined the effect of Mg-Al antacids on imatinib pharmacokinetics. It is a co-medication signal worth checking, but the results are not provided here.
-
----
+- **Disease contraindications (knowledge graph, not label text)**: kidney disease and impaired renal function, nephrolithiasis, nephrocalcinosis, liver disease, gallbladder disease, hypercalcemia, hyperparathyroidism, hypophosphatemia and phosphorus metabolism disease, diarrheal disease, intestinal impaction, appendicitis, hemorrhoid, sarcoidosis, and gastric cancer or neoplasm. Several of these relate to magnesium load or phosphate binding.
+- **Literature safety signals**: antacid use can bind phosphate and affect mineral metabolism. One case report describes osteomalacia and hip fracture after long-term magnesium hydroxide use.
+- **Drug Interactions**: 100 interactions were found in total. The one **Major** interaction is with **dolutegravir**. **Moderate** ones include doxycycline, alendronic acid, hydrocortisone, tramadol, acetazolamide, hydrochlorothiazide, amiodarone and amiloride. Minor ones include famotidine, ranitidine and ibuprofen.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is biologically sensible, but it mainly restates the established antacid class effect. There are no registered trials, and the human evidence is old, uses combination antacids, and predates PPIs and *H. pylori* eradication. Magnesium hydroxide alone is not shown to heal active ulcers, so at most it is an adjunct for symptom relief.
+The prediction mostly restates the drug's original indication, and the supporting evidence comes from old, mostly combination-product studies with no registered trials. All US licenses are cancelled, and ulcer treatment has moved to PPIs and H. pylori eradication. The other predicted indications (gastrojejunal ulcer, peptic ulcer perforation, gastroduodenitis, gastric ulcer, stomach disease) rest on weaker, indirect evidence.
 
 **To proceed, the following is needed:**
-- Mechanism of action data for magnesium hydroxide alone
-- Package insert warnings and contraindications
-- Evidence isolating magnesium hydroxide from aluminum-containing combinations
-- Comparison against current standard therapy (PPIs, *H. pylori* eradication), or a defined adjunct-only use case
-
-This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.
+- Package insert warnings and contraindications (not yet available for review)
+- Mechanism of action data
+- Modern controlled studies of magnesium hydroxide alone against current standard therapy
+- Clarification of the current US regulatory pathway, since all licenses are cancelled
+- A renal function and electrolyte monitoring plan, and a review of the dolutegravir interaction
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

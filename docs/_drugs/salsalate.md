@@ -29,33 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-# Salsalate: From Anti-inflammatory Salicylate Therapy to Acromesomelic Dysplasia, Hunter-Thompson Type
+# Salsalate: From Rheumatoid Arthritis to Acromesomelic Dysplasia, Hunter-Thompson Type
 
 ## One-Sentence Summary
 
-Salsalate is an oral salicylate prodrug marketed in the US as an anti-inflammatory drug, though the supplied data record no labeled indication text.
-The TxGNN model predicts it may be effective for **acromesomelic dysplasia, Hunter-Thompson type**.
-This prediction has **0 clinical trials** and **0 publications** behind it, so it rests on the model score alone.
+Salsalate is an oral salicylate anti-inflammatory drug, originally used for rheumatoid arthritis, osteoarthritis and other joint conditions.
+The TxGNN model predicts it may be effective for **Acromesomelic Dysplasia, Hunter-Thompson Type**,
+but there are currently **0 clinical trials** and **0 publications** supporting this prediction. It is a model-only prediction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in the supplied data (all license records have empty indication text) |
+| Original Indication | Rheumatoid arthritis, osteoarthritis, arthropathy (from the knowledge graph; no approved indication text is available in the US license record) |
 | Predicted New Indication | Acromesomelic dysplasia, Hunter-Thompson type |
 | TxGNN Prediction Score | 99.92% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 8 |
+| US Market Status | Cancelled only |
+| Number of NDAs | 1 (cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for salsalate is not available in the Evidence Pack. Salsalate is a salicylate prodrug. It is generally understood to act through COX inhibition and NF-kB modulation, which gives it anti-inflammatory activity.
+Detailed mechanism of action data is not available for this drug. Based on known information, salsalate is a salicylate prodrug with NF-κB inhibitory and AMPK-activating activity. Its efficacy in joint inflammation and pain is the basis of its original indications.
 
-Acromesomelic dysplasia, Hunter-Thompson type is a rare skeletal dysplasia. It is linked to defects in CDMP1/GDF5 signaling, and the pathology is structural and developmental. An anti-inflammatory drug is not expected to correct a defect in bone and limb patterning. No plausible mechanistic link was identified.
+Hunter-Thompson type acromesomelic dysplasia is a rare skeletal dysplasia caused by loss-of-function mutations in CDMP1/GDF5, which disrupt BMP signaling and cartilage formation. No plausible mechanistic link between salsalate and GDF5/BMP signaling has been established. The high score most likely reflects network proximity to the arthropathy and skeletal disease cluster in the knowledge graph, not a causal pathway. This prediction should be regarded as a hypothesis only.
 
-The high TxGNN score (99.92%) is a knowledge-graph prediction only. No trial, publication or preclinical data support it. The same pattern appears in the other top-ranked predictions, most of which are congenital skeletal or limb malformation syndromes.
+Other predictions for this drug were also reviewed. All are L5 and rated Hold. The most biologically plausible is **spondyloarthropathy, susceptibility to** (score 99.55%), because NSAID-type drugs are standard symptomatic therapy in spondyloarthritis. This would be class-based extrapolation from other NSAIDs and still needs a targeted literature search. The next closest is pseudoachondroplasia (99.78%), where salsalate might relieve secondary joint pain, though it would not address the underlying disease.
 
 ## Clinical Trial Evidence
 
@@ -67,34 +67,35 @@ Currently no related literature available.
 
 ## US Market Information
 
-The records below are 5 of the 8 licenses.
-
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| Not listed | Salsalate (Amneal Pharmaceuticals LLC) | Tablet (oral) | Not listed |
-| Not listed | Salsalate (Bryant Ranch Prepack) | Tablet (oral) | Not listed |
-| Not listed | Salsalate (Amneal Pharmaceuticals LLC) | Tablet (oral) | Not listed |
-| Not listed | Salsalate (Bryant Ranch Prepack) | Tablet (oral) | Not listed |
-| Not listed | Salsalate (Westminster Pharmaceuticals, LLC) | Tablet (oral) | Not listed |
+| Not available (cancelled) | Salsalate (Amneal Pharmaceuticals LLC) | Tablet (oral) | Not available |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. A drug interaction query returned no records.
+- **Contraindications flagged in the knowledge graph** (these come from drug-disease relationships in the graph, not from label text): liver failure, liver disease, kidney disease, gallbladder disease, active peptic ulcer disease, gastritis, gastroesophageal reflux disease, esophagitis, blood coagulation disorders (including hemophilia, congenital prothrombin deficiency, vitamin K deficiency hemorrhagic disease), thrombocytopenic purpura, anemia, cardiovascular and heart disease, diabetes mellitus and diabetic ketoacidosis, thyroid overactivity (hyperthyroidism, Graves disease, thyrotoxicosis), and nasal polyps.
+- **Drug Interactions**: The data compiled for this report show 100 recorded interactions, and 20 are listed. Most are Moderate:
+  - Corticosteroids: hydrocortisone, triamcinolone, dexamethasone, betamethasone, budesonide
+  - Other salicylate and aminosalicylate drugs: mesalazine, balsalazide
+  - Blood glucose-lowering drugs: chlorpropamide, glimepiride, repaglinide, insulin aspart, insulin degludec, insulin detemir
+  - Bowel preparations and alkalinizing agents: potassium citrate, picosulfuric acid, sodium sulfate, polyethylene glycol with electrolytes
+  - Minor interactions: proton pump inhibitors (rabeprazole, dexlansoprazole, omeprazole)
+
+Please refer to the package insert for official warnings and contraindications, because label data were not available for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical, literature or mechanistic support, and salsalate's anti-inflammatory action does not address a congenital skeletal patterning defect. Evidence remains at L5 (model prediction only).
+The prediction rests only on a knowledge-graph score, with no clinical trials or literature. It has no plausible mechanistic link to the underlying genetic defect. Salsalate is also cancelled-only in the US market, so there is no marketed product to build on.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening), plus the labeled indication text
-- Mechanism of action data from DrugBank
-- A targeted literature and trial search for any link between salsalate or salicylates and GDF5/CDMP1-related skeletal dysplasias
-- Consider redirecting effort to the rank 8 prediction, spondyloarthropathy susceptibility (score 99.55%). It is the most biologically coherent candidate, since NSAIDs are standard first-line therapy for spondyloarthritis. It is flagged as a research question and needs a targeted search on salsalate in axial or peripheral spondyloarthritis.
-
-*These results are for research reference only and do not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- A targeted literature and trial search for each predicted indication, especially spondyloarthropathy, where NSAID-class evidence could support an upgrade to L4
+- Detailed mechanism of action data
+- FDA package insert warnings and contraindications for safety screening
+- Confirmation of the regulatory and supply situation, given the cancelled US license
+- Route and formulation compatibility assessment for any candidate indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

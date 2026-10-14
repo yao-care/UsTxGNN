@@ -29,33 +29,32 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Sennosides: From Constipation to Hypotrichosis Simplex of the Scalp
+# Sennosides: From Constipation (Laxative Use) to Hypotrichosis Simplex of the Scalp
 
 ## One-Sentence Summary
 
-Sennosides are stimulant laxatives (anthraquinone glycosides) that are marketed in the US mainly as over-the-counter senna products.
-The TxGNN model predicts they may be effective for **hypotrichosis simplex of the scalp**,
-but **0 clinical trials** and **0 publications** currently support this direction, so it is a model prediction only.
+Sennosides are stimulant laxatives that act on the colon. The data compiled for this report lists no approved indication text, but the products are marketed as laxatives.
+The TxGNN model predicts they may be effective for **hypotrichosis simplex of the scalp**, but **0 clinical trials** and **0 publications** currently support this prediction. It is a model output only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the license records (sennosides are known as a laxative for constipation) |
+| Original Indication | Laxative (inferred from product names; no approved indication text available) |
 | Predicted New Indication | Hypotrichosis simplex of the scalp |
 | TxGNN Prediction Score | 99.29% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| US Market Status | Cancelled only (no currently valid licences) |
+| Number of NDAs | 2 (both cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Sennosides are a class of stimulant laxatives, and their efficacy for constipation is well established. Their active metabolite acts locally in the colon.
+Currently, detailed mechanism of action data is not available. Based on known information, sennosides are anthraquinone stimulant laxatives that act on the colonic mucosa through their active metabolite rheinanthrone. Their efficacy relates to bowel function, not to hair biology.
 
-This prediction is hard to support mechanistically. Systemic exposure to oral sennosides is minimal, and no known effect on hair follicle biology has been identified. Hypotrichosis simplex of the scalp is a rare hereditary hair disorder, and a colonic laxative has no plausible role in it.
+No mechanistic link to hair follicle biology or to the genetic causes of hypotrichosis simplex (for example CDSN, APCDD1 and RPL21 variants) has been established. The high score is a model prediction only.
 
-The score of 99.29% is a knowledge-graph output and most likely reflects network-proximity artifacts rather than real biology. The other top-ranked predictions (congenital hypotrichosis milia, diffuse alopecia areata, open-angle glaucoma, primary hereditary glaucoma, alopecia) show the same pattern. None has clinical or literature support.
+The other five predictions (congenital hypotrichosis milia, diffuse alopecia areata, open-angle glaucoma, primary hereditary glaucoma and alopecia) all score between 0.991 and 0.993 and also lack supporting evidence. This clustering suggests a graph-proximity artifact rather than a real signal.
 
 ## Clinical Trial Evidence
 
@@ -69,32 +68,28 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| M007 | SENNA LAXATIVE (Target Corporation) | Tablet | Not stated in record |
-| M007 | Senna (Reliable 1 Laboratories LLC) | Tablet | Not stated in record |
-| M007 | Senna Laxative (Care One) | Tablet | Not stated in record |
-| M007 | Senna (Patrin Pharma, Inc.) | Syrup | Not stated in record |
-| 505G(a)(3) | Laxative (Army and Air Force Exchange Service) | Film-coated tablet | Not stated in record |
-
-Other dosage forms on the US market include liquid and sugar-coated tablets.
+| M007 (cancelled) | Senna Laxative (Target Corporation) | Tablet | Not stated |
+| 505G(a)(3) (cancelled) | Laxative (Army and Air Force Exchange Service) | Tablet, film coated | Not stated |
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
+
+No drug-drug interaction records were found, and no contraindication edges were identified in the knowledge graph.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone (Evidence Level L5), with no clinical trials or publications and no credible mechanistic link. The two alopecia-related trials found under a broader search term do not study sennosides, so they do not support this drug.
+The prediction rests only on a model score. There are no clinical trials or publications, and no plausible mechanism links a stimulant laxative to hair loss. Neither of the two US licences is currently valid.
 
 **To proceed, the following is needed:**
-- A mechanistic rationale showing how sennosides could affect hair follicle biology, plus their MOA data
-- Preclinical evidence (for example, in vitro or animal hair-growth models)
-- Package insert safety information (warnings, contraindications)
-- A route-compatibility assessment, since oral colonic-acting products may not suit a scalp indication
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
+- Mechanism of action data, to test whether any biological link to hair follicle biology exists
+- Package insert warnings and contraindications, which are a blocking gap for safety screening
+- Preclinical or mechanistic studies, since none currently exist
+- Route compatibility assessment, since the available oral forms may not suit a scalp indication
+- Review of the other predicted indications for any with better support
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

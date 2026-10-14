@@ -29,11 +29,12 @@ Evidence Level: **L4** | Predicted Indications: **5**
 
 </div>
 
-# Zinc Oxide: From Topical Skin Protection to Acne
+# Zinc Oxide: From Skin Conditions (Tinea, Dermatitis, Burns) to Acne
 
 ## One-Sentence Summary
 
-Zinc oxide is a long-marketed topical ingredient in ointments, sunscreens and mineral cosmetics. The TxGNN model predicts it may be useful for **acne**, but **no clinical trials** are registered. Only **7 publications** were retrieved, and most are reviews or preclinical and formulation work rather than controlled human studies.
+Zinc oxide is a topical skin protectant and astringent, originally used for skin conditions such as tinea infections, dermatitis, burns and hemorrhoids.
+The TxGNN model predicts it may be effective for **Acne (disease)**, but there are **no registered clinical trials** and only **3 publications** (one general review, one preclinical study, one small clinical study), so the evidence is weak and this remains a research question.
 
 ---
 
@@ -41,25 +42,23 @@ Zinc oxide is a long-marketed topical ingredient in ointments, sunscreens and mi
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the license records (listed products are an ointment, sunscreens and a mineral foundation) |
+| Original Indication | Not stated in the US license records; the knowledge graph lists tinea pedis, tinea corporis, dermatitis, cutaneous candidiasis, pityriasis versicolor, hemorrhoid, proctitis, burn and injury |
 | Predicted New Indication | Acne (disease) |
 | TxGNN Prediction Score | 99.86% |
 | Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
-| Recommended Decision | Hold |
+| US Market Status | Cancelled only (no currently valid license) |
+| Number of NDAs | 2 (both cancelled) |
+| Recommended Decision | Hold (research question only) |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, zinc oxide is a marketed topical agent with a well-established dermal safety profile. Its use as a skin protectant makes a topical route credible for a skin disease such as acne.
+Detailed mechanism of action data is not available for zinc oxide. The reasoning below rests on general pharmacology, not on a defined drug mechanism.
 
-Zinc in general is reported to have anti-inflammatory activity, to inhibit *Cutibacterium acnes* growth, and possibly to reduce sebum production. Acne is a chronic inflammatory disease of the pilosebaceous unit driven largely by *C. acnes* and inflammation, so these properties fit it.
+Zinc ions have mild antibacterial activity, including against *Cutibacterium acnes*, along with anti-inflammatory effects, and they may reduce sebum-related inflammation. Zinc oxide is already used topically in dermatology as a skin protectant, so acne sits in the same therapeutic area as its existing indications (dermatitis, cutaneous infections).
 
-There is an important caveat. Most of the retrieved literature concerns zinc in general (oral or other salts) or zinc oxide nanomaterial and formulation research. It does not concern zinc oxide tested for acne in controlled human trials. The mechanistic link is therefore plausible but only partly supported.
-
-The other four TxGNN predictions (anorectal stricture, anal polyp, papillary conjunctivitis, postinfectious vasculitis) have no trials, no literature and no identified mechanistic link. They are computational predictions only and are not pursued here.
+The high TxGNN score (99.86%) is a computational prediction only. The supporting literature is limited: one nanoparticle review mentions nano-preparations under investigation for acne, one preclinical microneedle study involves zinc-related nanomaterials, and one small clinical study of mild catamenial acne does not clearly establish a role for zinc oxide.
 
 ---
 
@@ -73,13 +72,9 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [15536660](https://pubmed.ncbi.nlm.nih.gov/15536660/) | 2004 | Clinical split-face study (small, non-RCT) | Skin Res Technol | Clinical and bioinstrumental assessment in mild inflammatory catamenial acne. The role of zinc oxide specifically is unverified. |
-| [29193602](https://pubmed.ncbi.nlm.nih.gov/29193602/) | 2018 | Review | Dermatol Ther | Reviews the role of zinc in acne treatment. It positions zinc as an option given the adverse effects of standard antibiotic, retinoid and comedolytic therapies. |
-| [21342155](https://pubmed.ncbi.nlm.nih.gov/21342155/) | 2011 | Review | Int J Dermatol | Nanoparticles such as zinc oxide and titanium dioxide have unique properties. Nano-preparations are under investigation for acne vulgaris and other skin conditions. |
-| [36888703](https://pubmed.ncbi.nlm.nih.gov/36888703/) | 2023 | Preclinical | Sci Adv | Ultrasound-responsive nanoparticle microneedle patch against *P. acnes* infection. It is a zinc porphyrin-based metal-organic framework system, not zinc oxide itself. |
-| [29284390](https://pubmed.ncbi.nlm.nih.gov/29284390/) | 2018 | Preclinical review | Curr Med Chem | Antimicrobial nanoparticle coatings on textiles for wound and skin care, including acne. |
-| [41033952](https://pubmed.ncbi.nlm.nih.gov/41033952/) | 2025 | Preclinical | Sci Bull | A ZnO-based piezoelectric heterojunction that selectively modulates skin microbiota, responding to *C. acnes* respiration. Material and antibacterial study. |
-| [31322532](https://pubmed.ncbi.nlm.nih.gov/31322532/) | 2019 | Formulation development | Georgian Med News | Development of powder formulas for acne prevention and mild-stage use. |
+| [21342155](https://pubmed.ncbi.nlm.nih.gov/21342155/) | 2011 | Review | International Journal of Dermatology | Overview of engineered nanoparticles such as zinc oxide and titanium dioxide in skin care. Nano-preparations are under investigation for acne vulgaris, condyloma acuminata, atopic dermatitis and other conditions. |
+| [36888703](https://pubmed.ncbi.nlm.nih.gov/36888703/) | 2023 | Preclinical/Experimental | Science Advances | Ultrasound-responsive microneedle patch delivering nanoparticles for *P. acnes* infection, as an antibiotic-free acne approach. Zinc oxide's role is unclear (the nanoparticles are zinc porphyrin-based). |
+| [15536660](https://pubmed.ncbi.nlm.nih.gov/15536660/) | 2004 | Clinical study (split-face, small, likely non-RCT) | Skin Research and Technology | Assessment of mild inflammatory catamenial acne in young women. The design and the role of zinc oxide cannot be confirmed from the available information. |
 
 ---
 
@@ -87,19 +82,23 @@ Currently no related clinical trials registered.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| M016 | zinc oxide 20% (Bionpharma Inc) | Ointment | Not stated |
-| M020 | Mineral Sunscreen For Face and Body (Skin Philosophy by Kelly) | Cream | Not stated |
-| M020 | Duke Cannon Supply Co. Daily Defense Face Mineral Sunscreen Broad Spectrum SPF 32 | Lotion | Not stated |
-| M020 | bareMinerals Original Foundation Broad Spectrum SPF 15 (Orveon Global US LLC) | Powder | Not stated |
-| M020 | Healthy Mineral Sunscreen No Shine plus Tint (Zen Dermatology, Inc.) | Cream | Not stated |
+| M016 (cancelled) | zinc oxide 20% (Bionpharma Inc) | Ointment | Not stated |
+| M020 (cancelled) | Mineral Sunscreen For Face and Body (Skin Philosophy by Kelly) | Cream | Not stated |
 
-There are 20 licenses in total; the five above are shown. Other registered forms include stick, lipstick, liquid, emulsion, spray and oil.
+Both licenses are cancelled, so no valid US authorization currently exists in the data compiled for this report.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+The knowledge graph links zinc oxide to contraindication edges for several conditions. This comes from graph relationships, not from label text, and should be treated as a signal for review, not as confirmed contraindications:
+- **Cardiovascular:** hypertensive disorder, hypertension, coronary artery disease, sudden cardiac arrest, heart conduction disease
+- **Metal and iron metabolism:** hereditary hemochromatosis, hemosiderosis, iron metabolism disease, Wilson disease
+- **Haematological:** sickle cell anemia, hereditary persistence of fetal hemoglobin
+- **Endocrine:** hyperthyroidism, Graves disease, thyrotoxicosis
+- **Other:** benign prostatic hyperplasia, primary hyperoxaluria, anxiety
+
+No drug-interaction records were found. For package-insert warnings and contraindications, please refer to the product labeling.
 
 ---
 
@@ -108,14 +107,27 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The high TxGNN score is supported only by reviews and preclinical work, with no registered trials and no controlled human study of zinc oxide in acne. Package insert safety data and mechanism of action data are also missing, which blocks safety screening. The question is worth keeping as a research question, but it is not ready to advance.
+The prediction rests on a computational score and general zinc pharmacology. There are no registered trials, the literature is indirect (a review, a preclinical study and a small study of unclear design), and no US license is currently valid. This makes it a research question, not a candidate ready for development.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (download and parse the FDA label)
-- Detailed mechanism of action data (e.g., from the DrugBank API)
-- Controlled human studies of zinc oxide itself in acne, separate from other zinc salts, oral zinc or nanomaterials
-- Confirmation of route compatibility and an appropriate topical formulation for acne use
-- Clarification of the approved indications for the listed products
+- Mechanism of action data for zinc oxide, to support the link to acne
+- Package-insert warnings and contraindications, to allow safety screening
+- Controlled clinical evidence (for example, a randomized trial of topical zinc oxide in acne)
+- A route and formulation compatibility assessment for acne use
+- Review of the knowledge-graph contraindication signals against topical use
+
+---
+
+### Other Predictions (For Reference)
+
+The other four predictions have no clinical trials or literature and are all rated L5 (model prediction only) with a Hold recommendation:
+
+| Predicted Indication | TxGNN Score | Note |
+|------|------|------|
+| Anorectal stricture | 99.46% | Only a weak contextual link to existing anorectal uses; a topical protectant is unlikely to address fibrotic narrowing |
+| Anal polyp | 99.31% | Only anatomical proximity; no known effect on polyp growth |
+| Papillary conjunctivitis | 99.14% | Speculative; zinc oxide is not formulated for ocular use, so tolerability is a concern |
+| Postinfectious vasculitis | 99.02% | No plausible pathway from a topical agent to a systemic immune-mediated disease |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

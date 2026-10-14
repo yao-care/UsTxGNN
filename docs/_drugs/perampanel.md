@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Perampanel
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 1032
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Perampanel
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,90 +29,106 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Perampanel: From Focal-Onset Seizures to Visual Epilepsy
+# Perampanel: From Partial Epilepsy to Visual Epilepsy
 
 ## One-Sentence Summary
 
-Perampanel is an oral anti-seizure medication, marketed in the US for focal-onset seizures and generalized tonic-clonic seizures.
-The TxGNN model predicts it may be effective for **visual epilepsy** (a reflex, visually triggered seizure type), with a very high score of 99.92%.
-The evidence is indirect: **3 clinical trials** and **20 publications** are linked, but none tests a visually triggered epilepsy population.
+Perampanel is an antiseizure medication that blocks AMPA glutamate receptors. It was originally used for partial-onset (focal) epilepsy.
+The TxGNN model predicts it may be effective for **visual epilepsy** (seizures triggered by visual stimuli), but the supporting evidence is thin: **0 clinical trials** and **19 publications**, none of which studies visual epilepsy directly.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Partial epilepsy; partial motor epilepsy |
 | Predicted New Indication | Visual epilepsy |
 | TxGNN Prediction Score | 99.92% |
-| Evidence Level | L3 (indirect; no study in a visual or photosensitive epilepsy population) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| Evidence Level | L4 |
+| US Market Status | Cancelled only (no currently valid authorization) |
+| Number of NDAs | 5 authorizations in total (2 NDAs, 3 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
-The US approved-indication text is not in the provided data. The original indication above comes from the literature (PMID 36150304).
+---
 
 ## Why is This Prediction Reasonable?
 
-The Evidence Pack has no structured mechanism-of-action entry for perampanel. The literature describes it as a selective, non-competitive AMPA-type glutamate receptor antagonist. It is approved in the US for focal-onset seizures (adjunctive and monotherapy) and as adjunctive treatment of generalized tonic-clonic seizures.
+Detailed mechanism-of-action data was not available in the data compiled for this report. The literature does describe perampanel as a selective, noncompetitive AMPA-receptor antagonist. It reduces excitation at postsynaptic membranes, and its efficacy in focal-onset seizures is established.
 
-Visually triggered (reflex) seizures involve cortical hyperexcitability and excessive excitatory glutamate signalling. Blocking AMPA receptors is therefore mechanistically plausible. Preclinical work supports this in related reflex models, where perampanel suppressed audiogenic seizures in genetically epilepsy-prone rats (PMID 30092489).
+Visual epilepsy (photosensitive or visually triggered seizures) plausibly shares the glutamatergic hyperexcitability that perampanel dampens in focal epilepsy. Preclinical work in other reflex-seizure models supports this idea. For example, perampanel reduced audiogenic seizures in genetically epilepsy-prone rats.
 
-The plausibility is generic, however. The drug is already used for broad seizure types, and no linked trial or paper tests it in visual or photosensitive epilepsy. The high TxGNN score reflects graph proximity, not direct evidence.
+However, none of the retrieved studies addresses visual epilepsy. The literature consists of general epilepsy reviews, guidelines, and cohort studies, so the support is indirect. The high TxGNN score is a computational signal, not clinical proof.
+
+---
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT03780907](https://clinicaltrials.gov/study/NCT03780907) | Phase 2 | Completed | 18 | Randomized, double-blind, placebo-controlled study of tolerability, safety and pharmacokinetics (E2007 is perampanel's development code) in patients with partial and generalized seizures. It does not target visually triggered seizures. |
-| [NCT02900755](https://clinicaltrials.gov/study/NCT02900755) | Phase 4 | Completed | 30 | Effects of perampanel on cognition and EEG in general epilepsy. No visual-epilepsy efficacy data. |
-| [NCT03653741](https://clinicaltrials.gov/study/NCT03653741) | Phase 4 | Completed | 12 | Effects of perampanel on neurophysiology tests (EEG, SEP, BAEP, VEP). Not an efficacy study for visually triggered seizures. |
+Currently no related clinical trials registered for visual epilepsy.
+
+---
 
 ## Literature Evidence
 
+None of the publications below studies visual epilepsy specifically. They show perampanel's general antiseizure profile. No randomized controlled trials were found.
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [36206645](https://pubmed.ncbi.nlm.nih.gov/36206645/) | 2022 | Systematic review / meta-analysis of RCTs | Seizure | Efficacy and safety of perampanel in epilepsy, based on randomized trials. |
-| [37059702](https://pubmed.ncbi.nlm.nih.gov/37059702/) | 2023 | Cochrane review | Cochrane Database Syst Rev | Perampanel add-on for drug-resistant focal epilepsy. |
-| [35061214](https://pubmed.ncbi.nlm.nih.gov/35061214/) | 2022 | Network meta-analysis | Drugs | Indirect comparison of perampanel and other third-generation anti-seizure medications as adjunctive therapy for focal-onset seizures in adults. |
-| [37378757](https://pubmed.ncbi.nlm.nih.gov/37378757/) | 2023 | Network meta-analysis | J Neurol | Compares anti-seizure medications for idiopathic generalized epilepsies. |
-| [29898971](https://pubmed.ncbi.nlm.nih.gov/29898971/) | 2018 | Guideline | Neurology | AAN/AES guideline update on new anti-epileptic drugs for new-onset epilepsy. |
-| [36150304](https://pubmed.ncbi.nlm.nih.gov/36150304/) | 2022 | Clinical trial and real-world evidence | Epilepsy Behav | Perampanel monotherapy in focal-onset seizures. Confirms the US-approved uses. |
-| [37292124](https://pubmed.ncbi.nlm.nih.gov/37292124/) | 2023 | Cohort | Front Neurol | Effectiveness and tolerability of perampanel as first monotherapy in children with newly diagnosed focal epilepsy. |
-| [38602656](https://pubmed.ncbi.nlm.nih.gov/38602656/) | 2024 | Mechanistic study | Mol Neurobiol | Investigates perampanel's effects on autophagy-mediated regulation of GluA2 and PSD95 in epilepsy. |
-| [24559052](https://pubmed.ncbi.nlm.nih.gov/24559052/) | 2014 | Review | Expert Opin Drug Discov | Discovery and development of perampanel as an AMPA receptor antagonist. |
-| [36034267](https://pubmed.ncbi.nlm.nih.gov/36034267/) | 2022 | Real-life study | Front Neurol | Perampanel as add-on and second-line monotherapy in childhood absence epilepsy. |
+| [37059702](https://pubmed.ncbi.nlm.nih.gov/37059702/) | 2023 | Cochrane review | Cochrane Database Syst Rev | Perampanel as add-on therapy for drug-resistant focal epilepsy |
+| [35061214](https://pubmed.ncbi.nlm.nih.gov/35061214/) | 2022 | Systematic review / network meta-analysis | Drugs | Indirect comparison of perampanel and four other third-generation antiseizure drugs as adjunctive therapy for focal-onset seizures |
+| [37378757](https://pubmed.ncbi.nlm.nih.gov/37378757/) | 2023 | Systematic review / network meta-analysis | J Neurol | Efficacy and safety of antiseizure medications in idiopathic generalized epilepsies |
+| [29898971](https://pubmed.ncbi.nlm.nih.gov/29898971/) | 2018 | Guideline update | Neurology | AAN/AES guidance on newer antiepileptic drugs for new-onset epilepsy |
+| [36150304](https://pubmed.ncbi.nlm.nih.gov/36150304/) | 2022 | Review | Epilepsy Behav | Perampanel monotherapy: clinical trial and real-world evidence; US-approved for focal-onset seizures and adjunctive treatment of generalized tonic-clonic seizures |
+| [29953584](https://pubmed.ncbi.nlm.nih.gov/29953584/) | 2019 | Narrative review | Epilepsia | Evaluates perampanel's potential as a broad-spectrum antiseizure drug across preclinical and clinical data |
+| [36734057](https://pubmed.ncbi.nlm.nih.gov/36734057/) | 2023 | Review / cohort | Epilepsia | Perampanel as precision therapy in rare genetic epilepsies with glutamate-receptor overactivation |
+| [36034267](https://pubmed.ncbi.nlm.nih.gov/36034267/) | 2022 | Cohort | Front Neurol | Real-life effectiveness and tolerability of perampanel in childhood absence epilepsy |
+| [24559052](https://pubmed.ncbi.nlm.nih.gov/24559052/) | 2014 | Review | Expert Opin Drug Discov | Discovery and development of perampanel, the first approved drug to inhibit postsynaptic excitation via AMPA receptors |
+| [41043235](https://pubmed.ncbi.nlm.nih.gov/41043235/) | 2025 | Prospective multicenter study | Epilepsy Behav | Effects of perampanel on seizures and sleep quality in people with epilepsy |
 
-None of these papers addresses visual or photosensitive epilepsy. They support general epilepsy use only.
+---
 
 ## US Market Information
 
-The Evidence Pack lists 20 authorizations. The distinct main ones are below. Approved-indication text is not provided for any of them.
+All five US authorizations are cancelled. Indication text was not available for them.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| NDA 202834 | Fycompa | Tablet | Eisai Inc. |
-| ANDA 209801 | Perampanel | Tablet, film coated | Teva Pharmaceuticals, Inc. |
-| ANDA 209538 | Perampanel | Tablet, film coated | Sun Pharmaceutical Industries, Inc. |
+| Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
+|---------|------|------|------|------|
+| NDA202834 | Fycompa | Tablet | Eisai Inc. | Cancelled |
+| NDA208277 | Fycompa | Suspension | Eisai Inc. | Cancelled |
+| ANDA209801 | Perampanel | Film-coated tablet | Teva Pharmaceuticals, Inc. | Cancelled |
+| ANDA209538 | Perampanel | Film-coated tablet | Sun Pharmaceutical Industries, Inc. | Cancelled |
+| ANDA218178 | Perampanel | Film-coated tablet | Novadoz Pharmaceuticals LLC | Cancelled |
 
-Oral tablets and an oral suspension form are on the market.
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: 56 interactions were recorded. The 20 listed in the compiled data are mostly moderate and involve additive central nervous system depression or sedation. They include:
+  - Opioids: morphine (including liposomal), codeine, hydrocodone, opium, difenoxin, diphenoxylate.
+  - Cannabinoids: dronabinol, nabilone.
+  - Other sedating drugs: ethanol, promethazine, chlorpheniramine, azelastine (nasal), metoclopramide.
+  - Others: dexamethasone, chloroquine, hydroxychloroquine, sibutramine, dextromethorphan.
+  - Clarithromycin is the one minor interaction.
+- **Psychiatric and behavioral effects**: The literature describes a boxed warning for serious psychiatric and behavioral reactions (aggression, irritability), and rare psychosis has been reported. Irritability is a recognized adverse effect.
+
+Please refer to the package insert for full warnings and contraindications.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is mechanistically plausible, and perampanel's safety in general epilepsy is well characterized. However, no linked trial or publication tests it in visually triggered epilepsy, and the only completed randomized study (n=18) is an indirect tolerability study. The safety review is also blocked because package insert warnings and contraindications are missing.
+The prediction score is very high, but no clinical trials exist and no study addresses visual epilepsy directly. The mechanism (AMPA antagonism) is plausible, but the evidence is indirect (L4). The drug also has no currently valid US authorization.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications (blocking for safety screening)
-- Structured mechanism-of-action data from DrugBank
-- Case series, or a targeted trial, in photosensitive or visually triggered epilepsy
-- Systematic literature screening, since most linked papers have not yet been classified for relevance
+- Case reports, case series, or an EEG-based study of perampanel in photosensitive or visually triggered epilepsy, or a preclinical photosensitivity model.
+- Mechanism-of-action data and package insert warnings and contraindications.
+- A safety plan for the psychiatric and behavioral risks and for CNS-depressant interactions.
+- A decision on a regulatory pathway, given that all US authorizations are cancelled.
 
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
+**Note on other predictions:** Among the other top-ranked predictions, **status epilepticus** has the strongest support (L3). It has a recruiting Phase 2 trial (NCT06401707), a completed retrospective cohort, and several systematic reviews. It may be a better near-term repurposing candidate than visual epilepsy.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

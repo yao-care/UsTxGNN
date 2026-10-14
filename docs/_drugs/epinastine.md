@@ -33,60 +33,76 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 ## One-Sentence Summary
 
-Epinastine is an antihistamine eye drop, marketed in the US for allergic conjunctivitis.
-The TxGNN model predicts it may be effective for **rosacea conjunctivitis**, but **0 clinical trials** and **0 publications** currently support this specific prediction, so it rests on the model score alone.
+Epinastine is an antihistamine eye drop, originally used to treat allergic forms of conjunctivitis (atopic, papillary and vernal).
+The TxGNN model predicts it may be effective for **rosacea conjunctivitis**, but **0 clinical trials** and **0 publications** currently support this specific prediction, so it rests on model output alone.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Allergic conjunctivitis (ophthalmic use; the license record has no indication text) |
+| Original Indication | Atopic conjunctivitis, papillary conjunctivitis, vernal conjunctivitis |
 | Predicted New Indication | Rosacea conjunctivitis |
 | TxGNN Prediction Score | 99.57% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 1 (listed as ANDA090951) |
+| US Market Status | Cancelled only (no currently valid license) |
+| Number of NDAs | 1 (an ANDA, cancelled) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the database. Based on known information, epinastine is an H1 receptor antagonist with mast cell stabilizing activity. Its efficacy in allergic conjunctivitis is established, so it may relieve symptoms such as itching in other inflamed eye conditions.
+Epinastine is a histamine H1 receptor antagonist with mast-cell stabilizing activity. Detailed mechanism of action data are not available in the data compiled for this report, so this description reflects its known drug class.
 
-The link to rosacea conjunctivitis is weak. Ocular rosacea is driven mainly by meibomian gland dysfunction, eyelid inflammation, and microbial or *Demodex* factors, with little histamine involvement. An antihistamine could at most ease itch or irritation, and it would not treat the underlying disease. The very high model score therefore reflects a network-level association, not a supported biological rationale.
+Its efficacy is established in allergic conjunctival conditions, where histamine and mast-cell mediators drive itching and surface inflammation. Ocular rosacea involves meibomian gland dysfunction, inflammation and ocular surface irritation. It may also have an allergic or histamine-mediated component. That gives a plausible but only indirect link.
+
+The very high TxGNN score (99.57%) is a computational prediction. It most likely reflects network proximity to the existing conjunctivitis indications rather than direct evidence in rosacea. No trials or publications were found to confirm it.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
 Currently no related literature available.
 
+---
+
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| ANDA090951 | Epinastine Hydrochloride (Somerset Therapeutics, LLC) | Solution/drops | Not listed in the source record |
+| ANDA090951 | Epinastine Hydrochloride (Somerset Therapeutics, LLC) | Solution / drops | Cancelled |
+
+The only US license on record is cancelled, so the drug's practical availability would need verification.
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Please refer to the package insert for safety information. No warning, contraindication or drug-interaction data were available for this report.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a very high model score but no trials or literature, and the ocular rosacea mechanism has little histamine involvement. It is a prediction-only candidate at evidence level L5.
+The prediction for rosacea conjunctivitis rests only on a model score, with no registered trials or literature (evidence level L5). The drug's only US license is cancelled, and label-level safety and mechanism data are missing.
 
 **To proceed, the following is needed:**
-- Any preclinical or clinical evidence linking epinastine to ocular rosacea, such as symptom-relief studies (itch, irritation)
-- Detailed mechanism of action data (MOA)
-- The US package insert warnings and contraindications, to complete safety screening
-- Confirmation of the approved indication text for the marketed ophthalmic product
-- Consideration of the second-ranked prediction, **allergic urticaria**. It has 2 completed post-marketing surveillance studies (about 5,800 patients, observational) and supporting literature, reaching L3. Its status as true repurposing should be confirmed against regional labeling, since oral epinastine is already marketed for allergic conditions elsewhere.
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism of action data from DrugBank
+- Targeted literature and trial searches on antihistamines or mast-cell stabilizers in ocular rosacea
+- Confirmation of current US availability, since the only license is cancelled
+- Consideration of the second-ranked prediction, **allergic urticaria** (score 99.28%, evidence level L3). It is supported by reviews and histamine wheal-and-flare studies in healthy volunteers, including a double-blind crossover RCT (PMID 10442525). These are surrogate pharmacodynamic data, not trials in urticaria patients, so it is best treated as a research question rather than a development candidate.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,81 +29,68 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Cycloserine: From an Unrecorded Original Indication to Irritable Bowel Syndrome
+# Cycloserine: From Pulmonary Tuberculosis to Irritable Bowel Syndrome
 
 ## One-Sentence Summary
 
-Cycloserine is an oral capsule drug marketed in the United States, but the Evidence Pack does not record its original approved indication.
-The TxGNN model predicts it may be effective for **Irritable Bowel Syndrome**, with a very high score (99.95%).
-However, **0 clinical trials** and **0 publications** currently support this prediction, so it rests on the model alone.
-
----
+Cycloserine is a second-line antibiotic originally used to treat pulmonary tuberculosis.
+The TxGNN model predicts it may be effective for **Irritable Bowel Syndrome**, but **no clinical trials and no publications** currently support this prediction, so it rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Pulmonary tuberculosis |
 | Predicted New Indication | Irritable bowel syndrome |
 | TxGNN Prediction Score | 99.95% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
+| US Market Status | Cancelled only (no currently valid license) |
 | Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
----
-
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. The Evidence Pack contains no MOA entry for cycloserine, and its original indication text is empty. No established mechanism links cycloserine to irritable bowel syndrome.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, cycloserine is a D-alanine analog that inhibits bacterial cell-wall synthesis, and it also acts as a partial agonist at the NMDA receptor glycine site. Its efficacy in tuberculosis comes from the antibacterial action.
 
-The high score comes from the knowledge graph alone. Neither trials nor literature were retrieved to support it, so the score should be treated as a hypothesis-generating signal, not as evidence of efficacy.
-
----
+No established mechanism links cycloserine to the pathophysiology of irritable bowel syndrome. The antibacterial and NMDA-related actions have no demonstrated connection to gut motility, visceral hypersensitivity, or the gut-brain axis in the supplied data. The prediction should therefore be treated as a computational hypothesis, not as a mechanistically supported lead.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
-
----
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA060593 | Cycloserine (Dr. Reddy's Laboratories, Inc.) | Capsule (oral) | Not listed in the source data |
-
----
+| ANDA060593 (cancelled) | Cycloserine | Capsule (oral) | Not specified |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug-drug interaction records were found in the query.
+- **Knowledge-graph contraindication signals** (not from label text): epilepsy, anxiety disorder, neurotic disorder, dysthymic disorder, kidney disease, pyoureter, psychotic disorder, schizophreniform disorder, mental disorder, schizoaffective disorder, substance abuse/dependence, vitamin B12 deficiency, megaloblastic anemia, sideroblastic anemia.
+- **Drug Interactions** (11 recorded; the major ones are listed):
+  - **Major:** bupropion, ethanol, iohexol, iopamidol
+  - **Moderate:** picosulfuric acid, polyethylene glycol 3350 with electrolytes, sodium sulfate, caffeine, dicoumarol, warfarin, lindane
+- **Related literature observation:** a 2022 case report describes cycloserine-induced insomnia and psychosis in multidrug-resistant tuberculosis, consistent with the neuropsychiatric contraindication signals above.
 
----
+Please refer to the package insert for label warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The irritable bowel syndrome prediction is Evidence Level L5, meaning a model prediction only. It has no registered trials, no literature and no mechanistic rationale, and the safety data is incomplete.
-
-Other candidates on the list have somewhat more support, but all remain at Hold or "Research Question":
-- **Insomnia (L4):** three Phase 2/3 trials of D-cycloserine, all in neuropsychiatric settings (PTSD, fibromyalgia with brain stimulation, bipolar depression). None targets insomnia, and two did not complete. It is flagged as a "Research Question".
-- **Conjunctivitis (L4):** only three papers from 1963–1969 on antibiotic treatment of chlamydial infection and an animal model, so the evidence is indirect and dated.
+The prediction is supported only by the model score, with no clinical trials or literature for irritable bowel syndrome and no plausible mechanistic link. The neuropsychiatric toxicity profile and the cancelled US license further weaken the case for a non-life-threatening functional bowel disorder.
 
 **To proceed, the following is needed:**
-- The original approved indication of cycloserine and its mechanism of action (from DrugBank)
-- The package insert warnings and contraindications (from the FDA label), which block safety screening
-- A literature and trial search specific to irritable bowel syndrome, plus a mechanistic rationale
-- Route compatibility and similarity-to-original-indication assessments, both still pending
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Mechanism-of-action data and a plausible biological link to IBS
+- Preclinical or exploratory clinical evidence of benefit in IBS
+- The current FDA package insert warnings and contraindications
+- A risk-benefit assessment given the neuropsychiatric toxicity and the interactions listed above
+- Clarification of regulatory and supply status, since the only US license is cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

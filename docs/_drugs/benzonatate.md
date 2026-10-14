@@ -33,61 +33,73 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 ## One-Sentence Summary
 
-Benzonatate is an oral, ester-type local anesthetic marketed in the US as a cough suppressant. The Evidence Pack does not list an approved indication, so this is based on general knowledge.
-The TxGNN model predicts it may be effective for **Cauda Equina Syndrome**, but there are **0 clinical trials** and **0 publications** supporting this direction, so this is a model prediction only.
+Benzonatate is an oral antitussive (cough suppressant) with a local anesthetic-like action, but the data compiled for this report do not include an approved indication text.
+The TxGNN model predicts it may be effective for **Cauda Equina Syndrome**, with a very high score, but **0 clinical trials** and **0 publications** currently support this direction.
+This is a model-only prediction (evidence level L5).
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the Evidence Pack (general knowledge: symptomatic relief of cough) |
+| Original Indication | Not listed in the US license data (benzonatate is generally known as a cough suppressant) |
 | Predicted New Indication | Cauda equina syndrome |
 | TxGNN Prediction Score | 99.66% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (listed licenses are ANDAs, i.e., generics) |
+| US Market Status | Cancelled only (all licenses cancelled) |
+| Number of NDAs | 8 (all generic ANDA applications, none currently valid) |
 | Recommended Decision | Hold |
+
+A second prediction was also generated: **obsolete neurogenic bladder (disease)**, with a score of 99.39% and the same evidence level (L5) and decision (Hold). It is discussed below.
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Based on general knowledge, benzonatate blocks voltage-gated sodium channels in peripheral stretch receptors, which dampens the cough reflex.
-A sodium-channel effect on nerve root pain or neuropathic symptoms is one possible link to cauda equina syndrome. This link is speculative.
+Detailed mechanism of action data for benzonatate is not available in the data compiled for this report. Based on general pharmacological knowledge, benzonatate is a peripherally acting antitussive that numbs stretch receptors in the respiratory tract through local anesthetic-like sodium channel blockade. It is structurally related to tetracaine and procaine.
 
-Cauda equina syndrome is a compressive surgical emergency. A symptomatic sodium-channel blocker would not address the underlying pathology. The 99.66% score comes from graph-based prediction alone, with no trials or literature behind it. Mechanistic similarity to the original indication is still pending assessment.
+A plausible but unverified link to cauda equina syndrome is sodium channel modulation of neuropathic pain or of bladder and sensory dysfunction. However, cauda equina syndrome is primarily a surgical emergency caused by mechanical compression of the nerve roots, and treatment centers on decompression. A symptomatic local-anesthetic-type drug is unlikely to address the underlying pathology. The very high TxGNN score is a computational prediction only and has not been validated clinically.
 
-The second-ranked prediction is **obsolete neurogenic bladder (disease)**, with a score of 99.39%. Local anesthetics can in principle dampen bladder afferent signaling, which is loosely plausible. However, there is no clinical or literature evidence for oral benzonatate here. The disease term is obsolete in the ontology and should be mapped to a current term (e.g., neurogenic detrusor overactivity) before further evaluation.
+For the second prediction, neurogenic bladder, the theoretical rationale is that suppressing sensory afferent signaling might reduce bladder afferent hyperexcitability, similar to intravesical local anesthetics. This is speculative. The disease term is flagged as obsolete in the ontology and should be mapped to a current term (e.g., neurogenic lower urinary tract dysfunction) before any further evaluation. Established therapies (antimuscarinics, beta-3 agonists, intermittent catheterization, onabotulinumtoxinA) set a high bar for any new candidate.
+
+## Clinical Trial Evidence
+
+Currently no related clinical trials registered.
+
+## Literature Evidence
+
+Currently no related literature available.
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA040682 (Redpharm Drug) | Benzonatate | Capsule, liquid filled | Not provided |
-| ANDA202765 (RemedyRepack) | Benzonatate | Capsule | Not provided |
-| ANDA081297 (Golden State Medical Supply) | Benzonatate | Capsule | Not provided |
-| ANDA081297 (NuCare Pharmaceuticals) | Benzonatate | Capsule | Not provided |
-| ANDA040597 (A-S Medication Solutions) | Benzonatate | Capsule | Not provided |
+| ANDA040682 | Benzonatate (Redpharm Drug) | Capsule, liquid filled | Not specified (cancelled) |
+| ANDA202765 | Benzonatate (RemedyRepack Inc.) | Capsule | Not specified (cancelled) |
+| ANDA081297 | Benzonatate (Golden State Medical Supply) | Capsule | Not specified (cancelled) |
+| ANDA040597 | Benzonatate (A-S Medication Solutions) | Capsule | Not specified (cancelled) |
+| ANDA040749 | Benzonatate (Proficient Rx LP) | Capsule | Not specified (cancelled) |
 
-All listed products are oral. There are 20 licenses in total; the table shows the first 5.
+Eight licenses in total are on record, all cancelled and all for single-ingredient oral products. The table shows the first five.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: One interaction was identified, with **tizanidine** (Moderate severity).
+- **General caution**: Systemic benzonatate is associated with CNS effects and overdose toxicity, especially in children.
 
-One caution from the prediction rationale: benzonatate has known overdose risks (seizures, arrhythmia, CNS effects). These would need assessment in a neurologically impaired population.
+Please refer to the package insert for full warnings and contraindications, which were not available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a graph-based score. No clinical trials or publications support it, and the proposed mechanism does not fit a compressive surgical emergency.
+The predictions rest on a model score alone, with no clinical trials, no literature, and no mechanism data. The proposed targets (a mechanical compression syndrome and an obsolete disease term) have weak mechanistic fit. All US licenses are cancelled, which further limits practical feasibility.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (this blocks safety screening)
-- Mechanism of action data (e.g., from DrugBank)
-- The approved indication text from the label
+- FDA package insert warnings and contraindications (currently blocking for safety screening)
+- Mechanism of action data from DrugBank
 - Mapping of "obsolete neurogenic bladder" to a current disease term
-- Any preclinical, mechanistic, or clinical evidence that links oral benzonatate to nerve root or bladder-related symptoms
+- Preclinical or mechanistic evidence supporting sodium channel modulation in the proposed conditions
+- Route compatibility assessment (oral capsule versus the needs of the target conditions)
+- Assessment of whether any valid marketed product exists, given that all licenses are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

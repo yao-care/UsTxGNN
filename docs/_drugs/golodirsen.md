@@ -33,31 +33,33 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 ## One-Sentence Summary
 
-Golodirsen (Vyondys 53) is an antisense oligonucleotide that skips exon 53 of the DMD gene. The source record leaves the original indication blank, but this use is known for Duchenne muscular dystrophy.
-The TxGNN model predicts it may be effective for **distal myopathy, Welander type**, but **0 clinical trials** and **0 publications** currently support this direction, so it remains a model-only prediction.
+Golodirsen was originally used to treat Duchenne muscular dystrophy (DMD) in patients whose disease is amenable to exon 53 skipping.
+The TxGNN model predicts it may be effective for **distal myopathy, Welander type**,
+but currently there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Duchenne muscular dystrophy amenable to exon 53 skipping (the approved-indication text is blank in the source record; this is from general knowledge) |
+| Original Indication | Duchenne muscular dystrophy (the US license record has no approved indication text; this comes from the knowledge graph) |
 | Predicted New Indication | Distal myopathy, Welander type |
 | TxGNN Prediction Score | 99.11% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
+| US Market Status | Cancelled only |
 | Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the source record. From general knowledge, golodirsen is a phosphorodiamidate morpholino oligomer. Its sequence binds DMD exon 53 pre-mRNA and induces exon skipping, which allows a shortened dystrophin protein to be produced.
+Detailed mechanism of action data is not available in the compiled data. Based on known pharmacology, golodirsen is an antisense phosphorodiamidate morpholino oligomer that causes exon 53 skipping in DMD pre-mRNA, allowing production of a shortened but partly functional dystrophin protein.
 
-**The mechanistic link is weak.** Welander distal myopathy is linked to a recurrent TIA1 variant, a different gene with a different disease mechanism. Golodirsen's sequence is specific to DMD exon 53 and would not act on TIA1 transcripts. The high score (0.991) most likely reflects that both are muscle diseases and sit close together in the knowledge graph. It does not indicate a shared target or pathway.
+Welander distal myopathy is linked to a founder variant in TIA1, a gene involved in RNA binding and stress granule biology. This is not a dystrophin defect, and it is not an exon 53-skippable lesion. No mechanistic link beyond the high prediction score has been established. The score most likely reflects network proximity between muscle diseases rather than a shared pathogenic mechanism.
 
-The other three predictions show the same pattern: none has a direct mechanistic link.
-- **Nebulin-related early-onset distal myopathy (99.07%)**: This is an NEB-gene disease. Exon skipping is a class-level concept, but any NEB approach would need a newly designed, gene-specific oligonucleotide.
-- **Obsolete autosomal dominant limb-girdle muscular dystrophy type 1C (99.04%)**: This is a caveolinopathy caused by CAV3 variants. The disease term is obsolete, so its mapping to a current disease entity should be checked first.
-- **X-linked myopathy with postural muscle atrophy (99.02%)**: This is caused by VMA21 variants that impair V-ATPase assembly and autophagy, unrelated to dystrophin restoration.
+The other top predictions are also weak. Each lacks trials and literature:
+
+- **Nebulin-related early-onset distal myopathy** (score 99.07%): caused by NEB variants affecting thin filament function, with no exon 53 target.
+- **Obsolete autosomal dominant limb-girdle muscular dystrophy type 1C** (score 99.04%): linked to CAV3 variants. There is loose conceptual proximity to dystrophin-related membrane biology, but the disease is typically dominant-negative, and the disease term is obsolete, which lowers reliability.
+- **X-linked myopathy with postural muscle atrophy** (score 99.02%): linked to VMA21 and autophagy dysfunction, with no plausible basis for golodirsen.
 
 ## Clinical Trial Evidence
 
@@ -71,24 +73,24 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA211970 | Vyondys 53 (Sarepta Therapeutics, Inc.) | Injection | Not provided in the source record |
+| NDA211970 | Vyondys 53 | Injection | Not listed in the compiled data (status: cancelled; manufacturer: Sarepta Therapeutics, Inc.) |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug interaction records were found for this drug.
+Please refer to the package insert for safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a knowledge-graph score, with no clinical trials or publications. The mechanism is also incompatible: golodirsen's sequence is specific to DMD exon 53 and does not target TIA1.
+The prediction has no supporting clinical trials or literature (evidence level L5), and the mechanism of golodirsen, which is specific to dystrophin exon 53 skipping, does not apply to the TIA1-related Welander distal myopathy. In addition, the only US license is cancelled, and the package insert safety data has not been obtained.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data confirmed from DrugBank
-- Any preclinical evidence, or a gene-specific oligonucleotide design, showing a plausible link to the TIA1 variant
-- Confirmation of the current disease entity for the obsolete LGMD1C term, if that prediction is reviewed further
+- FDA package insert warnings and contraindications (currently a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- Any preclinical or mechanistic evidence showing that an exon 53-skipping oligomer could affect TIA1-related pathology
+- Confirmation of the current US marketing status of Vyondys 53
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

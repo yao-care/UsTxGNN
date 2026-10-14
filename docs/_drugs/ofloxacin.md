@@ -29,13 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ofloxacin: From Antibacterial Use to Hyperamylasemia
+# Ofloxacin: From Bacterial Infections to Hyperamylasemia
 
 ## One-Sentence Summary
 
-Ofloxacin is a fluoroquinolone antibacterial (DNA gyrase/topoisomerase IV inhibitor) that is marketed in the US in oral, ophthalmic and otic forms.
-The TxGNN model's top-ranked prediction is **hyperamylasemia** (score 99.91%), but there are **0 clinical trials** and **0 publications** behind it, and no plausible mechanism, so it is most likely a knowledge-graph artifact.
-Two lower-ranked predictions, **septicemic plague** and **monoclonal gammopathy**, have literature support and are covered below.
+Ofloxacin is a fluoroquinolone antibiotic, originally used to treat bacterial infections such as typhoid fever, urinary tract infection, bronchitis, and bacterial pneumonia.
+The TxGNN model gives its top prediction, **hyperamylasemia**, a very high score, but there are **0 clinical trials** and **0 publications** supporting it.
+The prediction rests on the model alone. The only predicted indication with meaningful supporting data is **septicemic plague** (preclinical studies only).
 
 ---
 
@@ -43,75 +43,74 @@ Two lower-ranked predictions, **septicemic plague** and **monoclonal gammopathy*
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in the license data (ofloxacin is a fluoroquinolone antibacterial) |
-| Predicted New Indication | Hyperamylasemia |
+| Original Indication | Bacterial infections (typhoid fever, salmonellosis, urinary tract infection, bronchitis, bacterial pneumonia, and others) |
+| Predicted New Indication | Hyperamylasemia (top-ranked prediction) |
 | TxGNN Prediction Score | 99.91% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (the five listed are ANDA generics) |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 12 (all cancelled) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the source record. Ofloxacin is known to inhibit bacterial DNA gyrase and topoisomerase IV, which is why it kills bacteria.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Ofloxacin is a fluoroquinolone antibacterial, and this class is generally known to inhibit bacterial DNA gyrase and topoisomerase IV. Its efficacy in bacterial infections is established.
 
-This mechanism has no known effect on serum amylase, so the link between the original antibacterial use and hyperamylasemia is not supported. The very high score alongside zero trials and zero literature suggests a knowledge-graph artifact. The prediction should not be treated as a real repurposing signal.
+For hyperamylasemia, **no plausible mechanistic link** was identified. An antibacterial mechanism has no obvious bearing on elevated serum amylase. The high score (99.91%) is a graph-based prediction only. Other top-ranked predictions (polyclonal hyperviscosity syndrome, congenital analbuminemia, blood group incompatibility, premalignant and congenital hematological conditions) show the same pattern: high scores, no trials, and no mechanistic rationale.
 
-Among the other top-10 predictions, two have a more credible basis:
-
-- **Septicemic plague (rank 8):** Ofloxacin is active against *Yersinia pestis*, and this is an extension within the antibacterial class rather than a novel repurposing.
-- **Monoclonal gammopathy (rank 6):** The evidence concerns infection prophylaxis in myeloma with levofloxacin (the L-isomer of ofloxacin), not treatment of the gammopathy itself.
-
-The remaining predictions (polyclonal hyperviscosity syndrome, congenital analbuminemia, blood group incompatibility, premalignant hematological disease, hematological disease with peripheral neuropathy, congenital hematological disorder, punctate epithelial keratoconjunctivitis) have no mechanistic rationale or only irrelevant literature. Fluoroquinolones are themselves associated with peripheral neuropathy, which argues against the rank 7 prediction.
+Among the ten predictions, the most biologically coherent is **septicemic plague** (rank 8). Ofloxacin is active in vitro against *Yersinia pestis* and has shown efficacy in mouse models of experimental plague. This extends its existing antibacterial use to a related pathogen rather than introducing a new mechanism. The evidence is preclinical, with no human trials.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for hyperamylasemia. None are registered for any of the other top-10 predictions either.
+Currently no related clinical trials registered for hyperamylasemia or for any of the other nine predicted indications.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available for hyperamylasemia.
+No literature was found for hyperamylasemia, the top-ranked prediction.
 
-For reference, the best-supported lower-ranked predictions (all indirect, mostly other fluoroquinolones or animal data):
+For reference, the best-supported prediction is septicemic plague. All of these studies are preclinical:
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [31668592](https://pubmed.ncbi.nlm.nih.gov/31668592/) | 2019 | RCT (Phase 3) | Lancet Oncol | Monoclonal gammopathy/myeloma: TEAMM, double-blind placebo-controlled trial of levofloxacin infection prophylaxis in newly diagnosed myeloma |
-| [31690402](https://pubmed.ncbi.nlm.nih.gov/31690402/) | 2019 | RCT report | Health Technol Assess | Monoclonal gammopathy/myeloma: full TEAMM report on levofloxacin prophylaxis and health-care-associated infections |
-| [32172361](https://pubmed.ncbi.nlm.nih.gov/32172361/) | 2020 | Review | Curr Hematol Malig Rep | Monoclonal gammopathy/myeloma: supportive care principles in myeloma, including infection management |
-| [37573150](https://pubmed.ncbi.nlm.nih.gov/37573150/) | 2023 | Cohort | Transpl Infect Dis | Monoclonal gammopathy/myeloma: infectious complications after autologous transplant, with or without levofloxacin prophylaxis |
-| [32435803](https://pubmed.ncbi.nlm.nih.gov/32435803/) | 2020 | Review | Clin Infect Dis | Septicemic plague: African green monkey model and FDA approval of antimicrobials under the Animal Rule |
-| [32435805](https://pubmed.ncbi.nlm.nih.gov/32435805/) | 2020 | Animal study | Clin Infect Dis | Septicemic plague: effect of delayed treatment on ciprofloxacin and levofloxacin efficacy in pneumonic plague |
-| [21347450](https://pubmed.ncbi.nlm.nih.gov/21347450/) | 2011 | Animal study | PLoS Negl Trop Dis | Septicemic plague: levofloxacin tested for pneumonic plague in a nonhuman primate model |
-| [16127904](https://pubmed.ncbi.nlm.nih.gov/16127904/) | 2002 | Animal study | Antibiot Khimioter | Septicemic plague: ofloxacin prophylaxis and treatment in experimental plague in mice |
-| [8203841](https://pubmed.ncbi.nlm.nih.gov/8203841/) | 1994 | Animal study | Antimicrob Agents Chemother | Septicemic plague: ofloxacin among antibiotics active in a murine *Y. pestis* infection model |
-| [8540736](https://pubmed.ncbi.nlm.nih.gov/8540736/) | 1995 | In vitro | Antimicrob Agents Chemother | Septicemic plague: ofloxacin among the most active agents against 78 *Y. pestis* strains |
+| [8540736](https://pubmed.ncbi.nlm.nih.gov/8540736/) | 1995 | In vitro | Antimicrob Agents Chemother | Among 78 *Y. pestis* strains, ofloxacin was among the most active agents, behind ceftriaxone and ciprofloxacin |
+| [8913481](https://pubmed.ncbi.nlm.nih.gov/8913481/) | 1996 | In vitro | Antimicrob Agents Chemother | Ofloxacin and levofloxacin were highly active against 100 human *Y. pestis* isolates (MIC90 < 0.03 µg/mL) |
+| [8203841](https://pubmed.ncbi.nlm.nih.gov/8203841/) | 1994 | Animal | Antimicrob Agents Chemother | Ofloxacin was active in a mouse model of systemic *Y. pestis* infection, compared with beta-lactams, aminoglycosides, and doxycycline |
+| [9517950](https://pubmed.ncbi.nlm.nih.gov/9517950/) | 1998 | Animal | Antimicrob Agents Chemother | Mouse model of pneumonic plague used to compare antibiotic treatments |
+| [16127904](https://pubmed.ncbi.nlm.nih.gov/16127904/) | 2002 | Animal | Antibiot Khimioter | Ofloxacin was effective for prophylaxis and treatment of experimental plague, with lower efficacy against strains lacking fraction I and mouse toxin |
+| [10987101](https://pubmed.ncbi.nlm.nih.gov/10987101/) | 2000 | Animal | Antibiot Khimioter | Fluoroquinolones, including ofloxacin, interfered with vaccine-induced immunity in mice, which supports combining emergency and specific prevention |
+| [11871319](https://pubmed.ncbi.nlm.nih.gov/11871319/) | 2001 | Animal | Antibiot Khimioter | Primate model of bubonic plague developed to evaluate antibacterial efficacy |
+
+Several other retrieved papers concern resistance mechanisms or other organisms and are only tangentially relevant.
 
 ---
 
 ## US Market Information
 
-The license records do not include approved-indication text.
+All 12 US licenses are cancelled. No approved-indication text is available. The first five are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
 | ANDA076622 | Ofloxacin | Solution/drops | A-S Medication Solutions |
 | ANDA217904 | Ofloxacin | Solution | Leading Pharma, LLC |
-| ANDA091656 | Ofloxacin | Tablet, coated (oral) | Nivagen Pharmaceuticals, Inc. |
-| ANDA091656 | Ofloxacin | Tablet, film coated (oral) | Modavar Pharmaceuticals LLC |
+| ANDA091656 | Ofloxacin | Coated tablet | Nivagen Pharmaceuticals, Inc. |
 | ANDA076527 | Ofloxacin Otic | Solution | Bryant Ranch Prepack |
+| ANDA211525 | Ofloxacin | Solution | A-S Medication Solutions |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+No label warnings or contraindications were available in the data compiled for this report. Please refer to the package insert for authoritative safety information.
+
+- **Contraindication signals from the knowledge graph (not label text)**: These include long QT syndrome, torsades de pointes, liver failure and liver disease, epilepsy, kidney disease and impaired renal function, myasthenia gravis, tendinitis, peripheral neuropathy, diabetes mellitus and diabetic ketoacidosis, rhabdomyolysis, thrombocytopenia, leukopenia, anemia, *Clostridium difficile* colitis, and drug-induced liver injury.
+- **Drug interactions**: The interaction search returned 100 entries. Major interactions in the displayed sample include corticosteroids (hydrocortisone, dexamethasone, betamethasone, triamcinolone), bupropion, and chlorpropamide. Moderate interactions include antidiabetic agents (metformin, pioglitazone, acarbose, alogliptin, canagliflozin, albiglutide), famotidine, loperamide, aspirin, and calcium and potassium salts.
+
+The knowledge-graph contraindication of peripheral neuropathy argues against the prediction for hematological disease associated with acquired peripheral neuropathy.
 
 ---
 
@@ -120,16 +119,14 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction, hyperamylasemia, has no mechanistic link, no trials and no literature, so the high TxGNN score is best treated as a knowledge-graph artifact. Septicemic plague (class-level, preclinical) and monoclonal gammopathy (indirect, levofloxacin-based) are the only predictions worth further review, both at the "Research Question" stage.
+The top prediction, hyperamylasemia, has no clinical trials, no literature, and no plausible mechanistic link. All US licenses are cancelled, and the label safety data are missing. Of the ten predictions, only septicemic plague has biologically coherent preclinical support (L4), and that remains a research question rather than a development-ready indication.
 
 **To proceed, the following is needed:**
-- The US package insert (warnings and contraindications), which is currently a blocking data gap for safety screening
-- Detailed mechanism-of-action data from DrugBank
-- For plague: human or Animal Rule-type evidence specific to ofloxacin, since the regulatory precedent is for levofloxacin and ciprofloxacin
-- For monoclonal gammopathy: evidence in MGUS specifically, and an ofloxacin-specific study rather than extrapolation from levofloxacin
-- Route-compatibility and similarity-to-original-indication assessments, which are still pending
-
-*For research reference only. Not medical advice. Predictions require clinical validation.*
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- For hyperamylasemia, a mechanistic hypothesis and any clinical or observational data. Without them, the prediction should not advance.
+- For septicemic plague, a review of current guideline-recommended therapies and of any human data
+- Clarification of current US regulatory and market status, since all licenses are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

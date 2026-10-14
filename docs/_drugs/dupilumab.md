@@ -3,14 +3,14 @@ layout: default
 title: Dupilumab
 parent: Moderate Evidence (L3-L4)
 nav_order: 634
-evidence_level: L4
+evidence_level: L3
 indication_count: 10
 ---
 
 # Dupilumab
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L3** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,76 +29,88 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Dupilumab: From an Unspecified Approved Indication to Bronchitis
+# Dupilumab: From Atopic Dermatitis to Bronchitis
 
 ## One-Sentence Summary
 
-Dupilumab is an IL-4 receptor alpha blocker marketed in the US as Dupixent. The supplied record does not list its approved indications.
-The TxGNN model predicts it may be effective for **bronchitis**, but the direct evidence is thin. There is **1 indirect clinical trial** (chronic rhinosinusitis, not bronchitis) and **6 publications** drawn mostly from asthma, COPD and a review of eosinophilic plastic bronchitis.
+Dupilumab is an IL-4Rα-blocking monoclonal antibody, originally used to treat atopic dermatitis (eczema).
+The TxGNN model predicts it may be effective for **bronchitis**, but this prediction is supported by **1 indirect clinical trial** (in chronic rhinosinusitis) and **11 publications** that are mostly about asthma and COPD, so the evidence is indirect.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not specified in the supplied record |
+| Original Indication | Atopic dermatitis (atopic eczema) |
 | Predicted New Indication | Bronchitis |
 | TxGNN Prediction Score | 99.92% |
-| Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 5 license records (all under one BLA, BLA761055) |
+| Evidence Level | L3 |
+| US Market Status | Cancelled only (1 BLA on record, status cancelled) |
+| Number of NDAs | 1 (BLA761055) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-The DrugBank mechanism-of-action field is empty in the supplied data. From the prediction rationale, dupilumab blocks IL-4Rα, which shuts down both IL-4 and IL-13 signaling and dampens type 2 inflammation. Type 2 inflammation drives eosinophilic airway disease such as asthma.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Based on the published literature, dupilumab blocks IL-4Rα and thereby the signaling of IL-4 and IL-13, two key drivers of type 2 inflammation. This is the mechanism behind its efficacy in atopic dermatitis.
 
-Bronchitis is an airway inflammatory condition, so the link is plausible for **eosinophilic or type 2-driven bronchial disease**. Examples are asthma-overlap phenotypes and eosinophilic plastic bronchitis. The evidence comes from asthma and COPD data and a review of eosinophilic plastic bronchitis, so it is indirect. No study tests dupilumab in bronchitis itself.
+The same type 2 pathway drives mucus hypersecretion and eosinophilic infiltration in the airways. A mechanistic link is therefore plausible for eosinophilic or type 2 bronchitis phenotypes, including type 2 COPD with chronic bronchitis features. Real-world COPD series, including one in older patients with a predominant chronic bronchitis phenotype, point in this direction.
 
-The rationale does not hold for **acute or infectious bronchitis**, which has no clear type 2 mechanism. The prediction should therefore not be read as applying to bronchitis in general.
+However, bronchitis as a defined indication has not been directly tested. The only trial listed concerns chronic rhinosinusitis, and the literature is mainly about asthma and COPD. Bronchitis itself appears only in a pediatric plastic bronchitis review. The prediction should therefore be treated as a research question rather than a confirmed finding.
+
+**Other predicted indications (for context):**
+- **Dermatitis (score 99.71%)**: This corresponds to atopic dermatitis, the drug's original indication, so it is not a true repurposing finding. Several completed Phase 3 RCTs and the SOLO 1/2 publication support it (evidence level L1).
+- **Acne keloid, exanthem**: Only case reports, small studies and systematic reviews exist (L4 and L3 respectively).
+- **Six other predictions** (neonatal dermatomyositis, acrodermatitis chronica atrophicans, amyopathic dermatomyositis, childhood connective-tissue-disease ILD, familial hydroa vacciniforme, severe nonproliferative diabetic retinopathy): there is no supporting evidence and the mechanistic rationale is weak, so these remain model predictions only (L5).
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT04362501](https://clinicaltrials.gov/study/NCT04362501) | Phase 2 | Completed | 33 | Randomized, double-blind, placebo-controlled study of dupilumab in chronic rhinosinusitis without nasal polyps. It is an upper-airway type 2 disease, not a bronchitis population, so it gives only indirect support. No results were included in the supplied data. |
-
-No registered trial in the supplied data enrolls patients with bronchitis.
+| [NCT04362501](https://clinicaltrials.gov/study/NCT04362501) | Phase 2 | Completed | 33 | Randomized, double-blind, placebo-controlled trial of dupilumab in chronic rhinosinusitis without nasal polyps. A different disease from bronchitis, so it supports type 2 upper-airway biology only (indirect evidence). |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [30273510](https://pubmed.ncbi.nlm.nih.gov/30273510/) | 2019 | Systematic review / meta-analysis of RCTs | J Asthma | Pooled efficacy and safety of dupilumab versus placebo in uncontrolled asthma. Asthma evidence, not bronchitis. |
-| [34597534](https://pubmed.ncbi.nlm.nih.gov/34597534/) | 2022 | Open-label extension (TRAVERSE) | Lancet Respir Med | Long-term safety and efficacy of dupilumab in moderate-to-severe asthma beyond 1 year. |
-| [32428511](https://pubmed.ncbi.nlm.nih.gov/32428511/) | 2020 | Cohort / imaging study | Chest | Anti-T2 biologics, including dupilumab, and lung ventilation on MRI in prednisone-dependent asthma. |
-| [39904363](https://pubmed.ncbi.nlm.nih.gov/39904363/) | 2025 | Review | Tuberc Respir Dis | Pharmacologic options for preventing COPD exacerbations, including newer biologic agents. |
-| [30196731](https://pubmed.ncbi.nlm.nih.gov/30196731/) | 2018 | Review | Expert Opin Pharmacother | Managing asthma with smoking-induced airway disease (chronic bronchitis, emphysema, asthma-COPD overlap). These patients are excluded from most trials. |
-| [38488768](https://pubmed.ncbi.nlm.nih.gov/38488768/) | 2024 | Review | Pediatr Pulmonol | Novel therapies for eosinophilic pediatric plastic bronchitis. No abstract was supplied, so the findings are unconfirmed. |
+| [30273510](https://pubmed.ncbi.nlm.nih.gov/30273510/) | 2019 | Systematic review / meta-analysis | J Asthma | Meta-analysis of RCTs evaluating dupilumab safety and efficacy against placebo in uncontrolled asthma |
+| [34597534](https://pubmed.ncbi.nlm.nih.gov/34597534/) | 2022 | RCT (long-term extension) | Lancet Respir Med | TRAVERSE open-label extension: long-term safety and efficacy of dupilumab in moderate-to-severe asthma beyond 1 year |
+| [42617837](https://pubmed.ncbi.nlm.nih.gov/42617837/) | 2026 | Comparative analysis | Chest | Matching-adjusted indirect comparison: mepolizumab and dupilumab showed no significant difference in reducing exacerbations in eosinophilic COPD |
+| [39904363](https://pubmed.ncbi.nlm.nih.gov/39904363/) | 2025 | Review | Tuberc Respir Dis | Review of pharmacologic therapies for preventing COPD exacerbations, including novel agents |
+| [42839285](https://pubmed.ncbi.nlm.nih.gov/42839285/) | 2026 | Real-world cohort | Respir Res | German multicenter analysis of dupilumab in COPD with type 2 inflammation |
+| [42511891](https://pubmed.ncbi.nlm.nih.gov/42511891/) | 2026 | Real-world case series | Biomedicines | 12 patients with type 2 COPD treated with dupilumab under compassionate use, including older patients with a chronic bronchitis phenotype |
+| [38488768](https://pubmed.ncbi.nlm.nih.gov/38488768/) | 2024 | Review | Pediatr Pulmonol | Novel therapies for eosinophilic pediatric plastic bronchitis (the only bronchitis-specific publication) |
+| [41672525](https://pubmed.ncbi.nlm.nih.gov/41672525/) | 2026 | Case report (2 cases) | Intern Med (Tokyo) | Eosinophilic bronchiolitis successfully treated with biologics including dupilumab |
+| [42773542](https://pubmed.ncbi.nlm.nih.gov/42773542/) | 2026 | Review | Eur J Clin Invest | Updates in COPD management, from inflammatory pathways to targeted therapies |
+| [30196731](https://pubmed.ncbi.nlm.nih.gov/30196731/) | 2018 | Review | Expert Opin Pharmacother | Management of asthma associated with smoking-induced airway diseases such as chronic bronchitis |
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA761055 | Dupixent (sanofi-aventis U.S. LLC) | Injection, solution | Not specified in the supplied record |
-
-The supplied record contains five identical license entries under BLA761055. They are shown here once.
+| BLA761055 | Dupixent (sanofi-aventis U.S. LLC) | Injection, solution | Not listed in the data compiled for this report (status: cancelled) |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: 53 interactions were identified in total. Those listed below are examples from the first 20 entries retrieved.
+  - **Major**: adalimumab, baricitinib, certolizumab pegol, cladribine
+  - **Moderate**: warfarin, roflumilast, alefacept, alemtuzumab, anakinra, azathioprine, canakinumab, cyclosporine, denosumab, dimethyl fumarate, diroximel fumarate, live cholera vaccine (CVD 103-HgR)
+  - **Minor**: zinc salts (acetate, gluconate, sulfate, chloride)
+- **Adverse events noted in the literature** (relevant to monitoring): conjunctivitis and ocular surface events, dupilumab-associated head and neck dermatitis, and paradoxical psoriasiform or pustular eruptions.
+
+Please refer to the package insert for warnings and contraindications, as these were not available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-No trial or publication studies dupilumab in bronchitis. The support is indirect and comes from asthma, COPD and a review of eosinophilic plastic bronchitis. The model score is very high, but it is not backed by bronchitis-specific evidence.
+The mechanistic rationale is plausible, but no trial has tested dupilumab in bronchitis. The only listed trial is in chronic rhinosinusitis, and the literature is largely asthma and COPD, so the evidence is indirect (L3). The US BLA is also recorded as cancelled, and package-insert safety data is missing.
 
 **To proceed, the following is needed:**
-- Define the target bronchitis subtype, such as an eosinophilic or type 2 phenotype, and exclude acute or infectious bronchitis
-- Bronchitis-specific clinical data, or a trial in that phenotype
-- The current US approved indications and the package insert warnings and contraindications
-- Detailed mechanism-of-action data from DrugBank
+- Bronchitis-specific evidence, such as a trial in eosinophilic or type 2 chronic bronchitis, or analyses of the chronic bronchitis subgroup in the COPD trials (BOREAS and NOTUS)
+- Detailed mechanism-of-action data (MOA)
+- Package insert warnings and contraindications, and clarification of the US regulatory status (cancelled BLA record)
+- A definition of the target bronchitis phenotype (eosinophilic or type 2) and a biomarker-based patient selection strategy
+- A monitoring plan for ocular and cutaneous adverse events and for interactions with other immunomodulators
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

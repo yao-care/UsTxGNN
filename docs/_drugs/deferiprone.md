@@ -29,75 +29,112 @@ Evidence Level: **L4** | Predicted Indications: **9**
 
 </div>
 
-# Deferiprone: From Iron Chelation to Hepatic Porphyria
+# Deferiprone: From Iron Overload in Thalassemia to Hepatic Porphyria
 
 ## One-Sentence Summary
 
-Deferiprone is an oral iron chelator marketed in the United States. The Evidence Pack does not list its approved indication text.
-The TxGNN model predicts it may be effective for **hepatic porphyria**, but the support is limited to **0 clinical trials** and **2 preclinical publications** (mouse models).
+Deferiprone is an oral iron chelator, originally used to treat iron overload (hemosiderosis) in thalassemia and related hemoglobin disorders.
+The TxGNN model predicts it may be effective for **hepatic porphyria**, but there are currently **0 registered clinical trials** and only **2 publications** (one case-level report in a related porphyria and one animal study) supporting this direction.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not provided in the Evidence Pack (indication fields are empty; deferiprone is generally recognized as an iron chelator for transfusional iron overload, to be verified against the label) |
+| Original Indication | Hemosiderosis / iron overload in beta-thalassemia and related hemoglobinopathies (from the knowledge-graph indication data; no approved-indication text is available in the US license records) |
 | Predicted New Indication | Hepatic porphyria |
 | TxGNN Prediction Score | 99.20% |
 | Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 9 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 6 authorizations in total (3 NDAs and 3 ANDAs), all cancelled |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, deferiprone is an oral iron chelator, and its iron-lowering effect is established. Mechanistically, it may be applicable to iron-driven porphyrias.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known information, deferiprone is an oral iron chelator, and its efficacy in iron overload from thalassemia is established. Mechanistically, it may be applicable to hepatic porphyria through iron depletion.
 
-In porphyria cutanea tarda, iron inhibits uroporphyrinogen decarboxylase, and reducing hepatic iron (for example by phlebotomy) is an effective treatment. Iron overload can also worsen other porphyrias. An oral chelator could therefore plausibly lower the iron burden and the accumulation of porphyrins.
+The rationale is that iron overload and iron-dependent oxidative stress worsen uroporphyria. In a mouse model of porphyria cutanea tarda, an oral iron chelator reduced uroporphyrin accumulation. In congenital erythropoietic porphyria, a 2020 report showed that iron chelation improved hemolytic anemia and skin photosensitivity. The biological link is plausible.
 
-The supporting data are preclinical. One mouse study of porphyria cutanea tarda compared deferiprone with iron-deficient diets. A second mouse study of congenital erythropoietic porphyria is only partially relevant, because that disease is erythropoietic rather than hepatic. No human clinical data were supplied.
+However, the evidence is preclinical or case-level. Congenital erythropoietic porphyria is not the same disease as hepatic porphyria, so the support is indirect. No clinical trials are registered.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [32678895](https://pubmed.ncbi.nlm.nih.gov/32678895/) | 2020 | Preclinical (animal model) | Blood | Iron chelation rescued hemolytic anemia and skin photosensitivity in congenital erythropoietic porphyria (abstract truncated; based on title) |
-| [17854053](https://pubmed.ncbi.nlm.nih.gov/17854053/) | 2007 | Preclinical (murine model) | Hepatology | In a porphyria cutanea tarda mouse model (Hfe-/- mice given ALA), deferiprone was compared with iron-deficient diets for reducing hepatic uroporphyrin accumulation |
+| [32678895](https://pubmed.ncbi.nlm.nih.gov/32678895/) | 2020 | Preclinical / case report | Blood | Iron chelation rescued hemolytic anemia and skin photosensitivity in congenital erythropoietic porphyria (a related, but different, porphyria) |
+| [17854053](https://pubmed.ncbi.nlm.nih.gov/17854053/) | 2007 | Animal study | Hepatology | In Hfe-/- mice with a porphyria cutanea tarda model, deferiprone and iron-deficient diets were compared for reducing hepatic uroporphyrin accumulation |
+
+---
 
 ## US Market Information
 
+All six US authorizations are listed as cancelled, and no approved-indication text is available in the records.
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA021825 | FERRIPROX (Chiesi USA) | Film-coated tablet | Not listed in the data |
-| NDA212269 | FERRIPROX (Chiesi USA) | Tablet | Not listed in the data |
-| ANDA213239 | Deferiprone (Hikma) | Coated tablet | Not listed in the data |
-| ANDA208800 | Deferiprone (Sun Pharmaceutical) | Tablet | Not listed in the data |
+| NDA021825 | FERRIPROX (Chiesi USA) | Tablet, film coated | Not available |
+| NDA212269 | FERRIPROX (Chiesi USA) | Tablet | Not available |
+| NDA208030 | FERRIPROX (Chiesi USA) | Solution | Not available |
+| ANDA213239 | Deferiprone (Hikma) | Tablet, coated | Not available |
+| ANDA208800 | Deferiprone (Sun Pharmaceutical) | Tablet | Not available |
+
+One further authorization, ANDA220132 (Dr. Reddy's, coated tablet), is also cancelled.
+
+---
 
 ## Safety Considerations
 
-- **Known Safety Issues**: Agranulocytosis and neutropenia are the main deferiprone risks. They need to be weighed against the benefit in a rare disease.
+**Drug Interactions**: The interaction screening returned 100 interactions in total. The 20 shown in the data compiled for this report are all rated Moderate. They fall mainly into these groups, consistent with metal-ion binding of the chelator:
+- **Calcium-containing products**: calcium phosphate, acetate, carbonate, citrate, gluconate, lactate, glubionate
+- **Magnesium-containing products**: oxide, carbonate, chloride, citrate, gluconate, hydroxide, sulfate
+- **Aluminum and clay antacids**: aluminum hydroxide, magaldrate, attapulgite, kaolin
+- **Other**: iron and sucralfate
 
-Please refer to the package insert for other safety information.
+For the full safety profile, please refer to the package insert.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The evidence is at L4: the only support is two mouse studies, and one of them concerns an erythropoietic rather than hepatic porphyria. There are no clinical trials. The package insert warnings and contraindications are also missing, which blocks safety screening.
-
-Among the other predictions, only beta-thalassemia (transfusional iron overload) and pyruvate kinase deficiency (secondary iron overload) have a plausible iron-chelation rationale. Beta-thalassemia is probably an on-label use rather than true repurposing. The remaining candidates have prediction scores only and no supporting mechanism.
+The prediction is biologically plausible, but the evidence is limited to one animal study and one report in a different porphyria. There are no registered trials, and all US authorizations are currently cancelled. The decision is Hold, as a research question rather than a development candidate.
 
 **To proceed, the following is needed:**
-- Package insert warnings, contraindications and approved indication text, to unblock safety screening
-- Mechanism of action data (MOA), for example from DrugBank
-- A targeted literature search for human data in porphyria cutanea tarda and other iron-sensitive porphyrias
-- A risk-benefit plan for agranulocytosis and neutropenia monitoring in a rare-disease population
+- Evidence in patients with hepatic porphyria itself (for example porphyria cutanea tarda), such as case series or a pilot trial
+- Mechanism-of-action data for deferiprone
+- Package insert warnings and contraindications, which are missing and block safety screening
+- Clarification of the current US regulatory and supply status, since all licenses are cancelled
+- A dosing and interaction management plan, given the many moderate interactions with metal-containing products
 
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before use.*
+---
+
+### Other Predicted Indications (for reference)
+
+Eight further predictions were generated, all with no registered clinical trials:
+
+| Predicted Indication | Score | Evidence Level | Note |
+|------|------|------|------|
+| Idiopathic copper-associated cirrhosis | 99.20% | L5 | No evidence; deferiprone chelates iron, not copper |
+| Primitive portal vein thrombosis | 99.20% | L5 | No identifiable mechanism |
+| Hepatoportal sclerosis | 99.20% | L5 | Likely network proximity only |
+| Early-onset familial noncirrhotic portal hypertension | 99.20% | L5 | Computational prediction only |
+| Hepatopulmonary syndrome | 99.20% | L5 | Speculative link only |
+| Pyruvate kinase deficiency of red cells | 99.15% | L5 | Chelation plausible for secondary iron overload; not supported by the supplied evidence |
+| Beta-thalassemia with other manifestations | 99.03% | L4 | Largely duplicates existing use; one indirect review (PMID 18456387) |
+| Hereditary pyropoikilocytosis | 99.02% | L5 | Chelation would only address secondary iron overload |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Progesterone
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1089
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 ---
 
 # Progesterone
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,13 +29,13 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Progesterone: From Hormone Therapy to Amenorrhea
+# Progesterone: From Endometriosis to Amenorrhea
 
 ## One-Sentence Summary
 
-Progesterone is a natural steroid hormone marketed in the US as oral capsules and an injectable solution, but the supplied records do not list its approved indications.
-The TxGNN model predicts it may be effective for **amenorrhea** (score 99.9996%).
-The evidence is thin: **no progesterone-specific RCT for amenorrhea** appears among the **50 listed clinical trials** or the **18 publications** (mostly reviews and case-level reports). The prediction is best read as a research question, and it may describe an already-established clinical use rather than a new one.
+Progesterone is a natural steroid hormone, originally used for gynecological and hormone-related conditions such as endometriosis, endometrial cancer, and postmenopausal osteoporosis.
+The TxGNN model predicts it may be effective for **amenorrhea**,
+with **4 clinical trials** and **19 publications** currently linked to this direction. However, the trials mainly test estrogen replacement, so direct evidence for progesterone itself is limited.
 
 ---
 
@@ -43,99 +43,95 @@ The evidence is thin: **no progesterone-specific RCT for amenorrhea** appears am
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the supplied records (approved-indication text is empty for all five listed authorizations) |
+| Original Indication | Endometriosis (the data compiled for this report contains no approved-indication text for the US licenses; the indications listed come from the knowledge graph) |
 | Predicted New Indication | Amenorrhea |
-| TxGNN Prediction Score | 99.9996% |
-| Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
-| Recommended Decision | Hold |
+| TxGNN Prediction Score | 99.99% |
+| Evidence Level | L2 (as rated in the compiled data; see the note below) |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 9 (all cancelled) |
+| Recommended Decision | Proceed with Guardrails |
+
+*Note on the evidence level:* The evidence level is L2 in the compiled data, but I would treat it as a cautious L2 at best. The Phase 3 and Phase 2/3 trials are completed, but the records do not show that progesterone was the tested arm. In these studies, estrogen replacement is the main intervention.
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data for this drug is not currently available. Progesterone is a natural steroid hormone. Reviews in the evidence set describe it as controlling luteinizing hormone and follicle-stimulating hormone pulsatility through hypothalamic neurons, and as working with estradiol to control cyclic proliferation and decidualization of the endometrium.
+Detailed mechanism of action data is not available for this report. Based on known pharmacology, progesterone acts through progesterone receptors on estrogen-primed endometrium, causing secretory transformation. When the hormone is withdrawn, bleeding follows. This is why progesterone is a standard tool for diagnosing and treating secondary amenorrhea (the "progestin challenge" test) and for cyclic endometrial protection.
 
-The link to amenorrhea is direct. Progesterone withdrawal is a standard diagnostic and therapeutic step in secondary amenorrhea: in an estrogen-primed endometrium it causes secretory transformation and then withdrawal bleeding. Several listed trials use progesterone in exactly this way, for example cyclic progesterone with estradiol in functional hypothalamic amenorrhea, and progesterone-induced withdrawal bleeding in oligo- or amenorrhea.
+The relationship to its original indications is hormonal. Endometriosis and endometrial conditions are driven by estrogen and progesterone signaling, and amenorrhea reflects disruption of the same hypothalamic-pituitary-ovarian axis. In hypoestrogenic forms of amenorrhea (athletes, anorexia nervosa), the trials mainly use estrogen replacement, with progestin given cyclically to protect the endometrium. This makes progesterone a plausible supporting therapy rather than the main driver of efficacy.
 
-This is probably not a true repurposing case. Because the original-indication field is empty, this looks like a data gap rather than proof the use is new. The labeled indication should be confirmed before treating this as repurposing.
-
-The supplied records also contain no progesterone-specific RCT for amenorrhea. The only Phase 3 RCT (NCT02449161) tested medroxyprogesterone acetate, a different progestin, in post-ablation endometrial amenorrhea, and it was terminated.
+The other predicted indications are weaker. Other predictions (benign breast conditions, additional endometriosis sites) are reported only as research questions. Two kidney-related predictions have no credible mechanistic link and look like knowledge-graph artifacts. These are not recommended for further development.
 
 ---
 
 ## Clinical Trial Evidence
 
-Ten of the most relevant trials are shown below. Only NCT02449161 has a completed relevance grading (B); most other trials are ungraded.
-
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT02449161](https://clinicaltrials.gov/study/NCT02449161) | Phase 3 | Terminated | 60 | RCT of medroxyprogesterone acetate (not progesterone) after endometrial ablation for amenorrhea rates; only an indirect class-level signal |
-| [NCT05312190](https://clinicaltrials.gov/study/NCT05312190) | N/A | Unknown | 330 | Zhenqi Buxue Oral Liquid vs progesterone capsules vs both in menstrual disorders |
-| [NCT03309176](https://clinicaltrials.gov/study/NCT03309176) | Phase 4 | Completed | 42 | Whether withholding progesterone-induced withdrawal bleeding before clomiphene ovulation induction affects pregnancy in oligo/amenorrhea |
-| [NCT06533865](https://clinicaltrials.gov/study/NCT06533865) | Phase 3 | Recruiting | 114 | Romosozumab for bone density in functional hypothalamic amenorrhea; all participants receive transdermal estradiol with cyclic progesterone |
-| [NCT03740204](https://clinicaltrials.gov/study/NCT03740204) | Phase 2 | Recruiting | 120 | Transdermal estradiol with cyclic progesterone vs placebo in hypoestrogenemic young women with eating disorders |
-| [NCT01942668](https://clinicaltrials.gov/study/NCT01942668) | Phase 3 | Completed | 1845 | Estradiol plus progesterone for vasomotor symptoms in postmenopausal women (not an amenorrhea indication) |
-| [NCT03309709](https://clinicaltrials.gov/study/NCT03309709) | Phase 3 | Unknown | 90 | Subcutaneous progesterone vs watchful waiting for endometrial polyps in premenopausal women |
-| [NCT01185782](https://clinicaltrials.gov/study/NCT01185782) | Phase 3 | Completed | 300 | SJ-0021 vs purified pituitary gonadotropin in amenorrhea I or anovulatory cycles (no progesterone arm) |
-| [NCT07235917](https://clinicaltrials.gov/study/NCT07235917) | Phase 2 | Recruiting | 34 | Mibavademab vs placebo in functional hypothalamic amenorrhea |
-| [NCT02858336](https://clinicaltrials.gov/study/NCT02858336) | N/A | Completed | 38 | CaREFREE study of diet, exercise and menstrual cycle effects in functional hypothalamic amenorrhea |
+| [NCT00946192](https://clinicaltrials.gov/study/NCT00946192) | Phase 3 | Completed | 121 | Young athletes with menstrual dysfunction; tests transdermal or oral estrogen vs. no estrogen for bone density. Progesterone's role is unclear. |
+| [NCT00088153](https://clinicaltrials.gov/study/NCT00088153) | Phase 2/3 | Completed | 110 | Anorexia nervosa with hypogonadal amenorrhea; estrogen replacement for bone development. Progesterone's contribution cannot be isolated. |
+| [NCT03740204](https://clinicaltrials.gov/study/NCT03740204) | Phase 2 | Active, not recruiting | 120 | Transdermal estradiol with cyclic progesterone vs. placebo in hypoestrogenemic young women with eating disorders; focus on cognition and reward. Only indirectly relevant. |
+| [NCT03018366](https://clinicaltrials.gov/study/NCT03018366) | Phase 2 | Completed | 29 | Cardiovascular and immune effects of hypoestrogenemia in functional hypothalamic amenorrhea. Indirect relevance. |
 
 ---
 
 ## Literature Evidence
 
-No RCTs were retrieved. The list below prioritizes reviews and clinical studies.
+The literature consists mainly of reviews and narrative articles. No randomized trial of progesterone for amenorrhea was found.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [38652231](https://pubmed.ncbi.nlm.nih.gov/38652231/) | 2024 | Review | Rev Endocr Metab Disord | Diagnostic and therapeutic use of oral micronized progesterone in endocrinology; progesterone's role in gonadotropin control and endometrial cycling |
-| [35525789](https://pubmed.ncbi.nlm.nih.gov/35525789/) | 2022 | Review | Curr Probl Pediatr Adolesc Health Care | Etiology and management of amenorrhea in adolescents and young women; most cases arise from hypothalamic-pituitary-ovarian axis dysfunction |
-| [33716979](https://pubmed.ncbi.nlm.nih.gov/33716979/) | 2021 | Review | Front Endocrinol | Etiology, symptoms and treatment options in premature ovarian insufficiency |
-| [8629565](https://pubmed.ncbi.nlm.nih.gov/8629565/) | 1996 | Review | Am Fam Physician | Diagnostic evaluation of amenorrhea; pregnancy must be excluded first, then prolactin and TSH checked |
-| [40474175](https://pubmed.ncbi.nlm.nih.gov/40474175/) | 2025 | Retrospective cohort | BMC Surg | High-dose sequential estrogen and progesterone plus hysteroscopic separation vs separation alone in severe intrauterine adhesions causing infertility or amenorrhea |
-| [18756412](https://pubmed.ncbi.nlm.nih.gov/18756412/) | 2008 | Review | Semin Reprod Med | Intrauterine adhesions (Asherman's syndrome), spanning amenorrhea to normal menses |
-| [36653588](https://pubmed.ncbi.nlm.nih.gov/36653588/) | 2023 | Review | Reprod Sci | Methods for repairing injured endometrium; endometrial injury can cause menstrual irregularity and amenorrhea |
-| [945033](https://pubmed.ncbi.nlm.nih.gov/945033/) | 1976 | Clinical study | Ann Intern Med | 15 patients with galactorrhea-amenorrhea syndromes treated with bromocriptine |
+| [38652231](https://pubmed.ncbi.nlm.nih.gov/38652231/) | 2024 | Review | Rev Endocr Metab Disord | Diagnostic and therapeutic use of oral micronized progesterone in endocrinology; progesterone's role in controlling the cycle and endometrium. |
+| [34405378](https://pubmed.ncbi.nlm.nih.gov/34405378/) | 2022 | Review | Rev Endocr Metab Disord | Hormonal treatments for endometriosis; estrogen dependency and progesterone resistance. |
+| [33716979](https://pubmed.ncbi.nlm.nih.gov/33716979/) | 2021 | Review | Front Endocrinol | Etiology and treatment of premature ovarian insufficiency. |
+| [32233689](https://pubmed.ncbi.nlm.nih.gov/32233689/) | 2020 | Review | Climacteric | Management of vaginal bleeding in postmenopausal women. |
+| [18756412](https://pubmed.ncbi.nlm.nih.gov/18756412/) | 2008 | Review | Semin Reprod Med | Intrauterine adhesions (Asherman's syndrome), which can present with amenorrhea. |
+| [8629565](https://pubmed.ncbi.nlm.nih.gov/8629565/) | 1996 | Review | Am Fam Physician | Stepwise evaluation of amenorrhea. |
+| [7457308](https://pubmed.ncbi.nlm.nih.gov/7457308/) | 1980 | Review | Am Fam Physician | Amenorrhea work-up, including withdrawal bleeding after a course of progesterone. |
+| [22283375](https://pubmed.ncbi.nlm.nih.gov/22283375/) | 2012 | Review | Gynecol Endocrinol | Neuroendocrine control of ovulation; hypothalamic vs. ovarian failure in amenorrhea. |
 
 ---
 
 ## US Market Information
 
-The supplied records list 5 of the 20 authorizations. Approved-indication text is not provided for any of them.
+All nine US authorizations are cancelled, and no approved-indication text is available for them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA211285 | Progesterone | Capsule | Not provided in records |
-| ANDA200456 | Progesterone | Capsule | Not provided in records |
-| ANDA205229 | Progesterone | Capsule | Not provided in records |
-| NDA019781 | Prometrium | Capsule | Not provided in records |
-| NDA017362 | Progesterone | Injection, solution | Not provided in records |
+| NDA019781 | Prometrium | Capsule | Not available |
+| NDA017362 | Progesterone | Injection, solution | Not available |
+| ANDA075906 | Progesterone | Injection, solution | Not available |
+| ANDA211285 | Progesterone | Capsule | Not available |
+| ANDA200456 | Progesterone | Capsule | Not available |
+
+Available dosage forms across all licenses: oral capsule, injectable solution, and liquid.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+The compiled data contains no package insert warnings or contraindications. Please refer to the package insert for these.
+
+- **Contraindication signals (knowledge graph, not label text):** Associations were found with hypertension, liver failure and liver disease, epilepsy, kidney disease, gallbladder disease, porphyria, diabetes mellitus and hyperglycemia, hypothyroidism, asthma, systemic lupus erythematosus, osteoporosis, anxiety and mood disorders, hypertriglyceridemia, and substance abuse or dependence. These are database associations and need confirmation against the label.
+- **Drug Interactions:** 100 interactions were found in total. The 20 reviewed are all moderate. Most involve glucose-lowering drugs, including metformin, pioglitazone, acarbose, sulfonylureas (glimepiride, chlorpropamide), DPP-4 inhibitors (alogliptin, saxagliptin), SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin), GLP-1 agonists (liraglutide, semaglutide, dulaglutide, albiglutide), and insulins. Other interactions include aprepitant and clarithromycin. Glycemic monitoring is advisable when co-prescribing.
+- **Other note:** Progestogen effects on breast tissue raise safety concerns for the breast-related predictions.
 
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Proceed with Guardrails**
 
 **Rationale:**
-The mechanistic rationale is sound and progesterone-withdrawal testing is standard in amenorrhea work-ups. However, the records contain no progesterone-specific controlled evidence, and the only Phase 3 RCT used a different progestin and was terminated. Package-insert safety data is also missing, which blocks safety screening. The prediction should be treated as a research question until the labeled indications are checked.
+Progesterone is already a standard agent for diagnosing and treating secondary amenorrhea, and the mechanism is well understood. However, the registered trials focus on estrogen replacement, and all US licenses are cancelled. The direct evidence base is therefore thin. The other nine predictions are not ready for development: breast and additional endometriosis predictions are research questions, and the kidney and breast adenosis predictions should be held.
 
 **To proceed, the following is needed:**
-- Confirm the FDA-labeled indications (the approved-indication text is empty) to determine whether amenorrhea is already labeled or is genuinely new
-- Download and parse the package insert for warnings and contraindications
-- Obtain mechanism-of-action data (for example from DrugBank)
-- Find or run progesterone-specific controlled studies in secondary amenorrhea, separating progesterone from other progestins
-- Determine which dosage forms and routes suit the intended use
-
-*This report is for research reference only and is not medical advice. Repurposing candidates require clinical validation before any application.*
+- Package insert warnings and contraindications (blocking data gap for safety screening)
+- Confirmed mechanism of action data from DrugBank
+- Trial data that isolates progesterone's contribution in amenorrhea, for example the arms and outcomes of the listed trials
+- Clarification of the US regulatory pathway, since all current licenses are cancelled
+- A safety monitoring plan covering glycemic interactions and the comorbidities flagged above
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

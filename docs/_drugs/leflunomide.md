@@ -33,29 +33,29 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 ## One-Sentence Summary
 
-Leflunomide is an oral immunomodulator, generally known for treating rheumatoid arthritis. The Evidence Pack does not record an approved indication.
-The TxGNN model predicts it may be effective for **brachydactyly-syndactyly syndrome**, with a very high score.
-There are **0 clinical trials** and **0 publications** supporting this prediction, and the signal is more likely a gene/phenotype association artifact than a treatment signal.
+Leflunomide was originally used to treat rheumatoid arthritis and psoriatic arthritis.
+The TxGNN model predicts it may be effective for **Brachydactyly-Syndactyly Syndrome**,
+but currently **0 clinical trials** and **0 publications** support this direction, so the prediction rests on the computational model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the input data (generally known: rheumatoid arthritis) |
-| Predicted New Indication | Brachydactyly-syndactyly syndrome |
+| Original Indication | Rheumatoid arthritis; psoriatic arthritis |
+| Predicted New Indication | Brachydactyly-Syndactyly Syndrome |
 | TxGNN Prediction Score | 99.93% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| US Market Status | Cancelled only (all 9 listed authorizations are cancelled) |
+| Number of NDAs | 9 (1 NDA and 8 ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the input. Leflunomide is generally known to act through its active metabolite teriflunomide, which inhibits DHODH (dihydroorotate dehydrogenase) and blocks de novo pyrimidine synthesis. This slows the proliferation of activated lymphocytes, which is the basis for its use in autoimmune disease.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Leflunomide is an immunomodulatory antimetabolite whose efficacy in rheumatoid arthritis and psoriatic arthritis is established. As general background (not drawn from the compiled data), it acts through its active metabolite teriflunomide, which inhibits dihydroorotate dehydrogenase (DHODH) and pyrimidine synthesis.
 
-The prediction is probably not a real therapeutic signal. The DHODH/pyrimidine pathway is linked to limb development: DHODH loss-of-function causes Miller syndrome, and leflunomide is teratogenic. The graph link may therefore reflect a shared gene or phenotype association rather than benefit. Brachydactyly-syndactyly syndrome is a structural congenital limb malformation, and an immunomodulator is unlikely to reverse it.
+No mechanistic link between leflunomide and the pathways underlying brachydactyly-syndactyly syndrome, a rare limb malformation disorder, has been established. The high TxGNN score (99.93%) is a computational prediction only and is not corroborated by any clinical or preclinical evidence. DHODH inhibition is also associated with teratogenic risk, which argues for particular caution in developmental disorders. This is general pharmacological background, not a finding from the compiled data.
 
-The second-ranked prediction, colobomatous microphthalmia-rhizomelic dysplasia syndrome (score 99.93%, L5), follows the same pattern. It is a rare congenital developmental syndrome, and ocular and skeletal malformations are part of the known teratogenic profile of DHODH inhibition. Neither prediction should be pursued without new evidence and verification of the underlying knowledge-graph edges.
+A second prediction, colobomatous microphthalmia-rhizomelic dysplasia syndrome (score 99.93%), is likewise a rare congenital developmental syndrome with no supporting trials or literature, and the same concerns apply.
 
 ## Clinical Trial Evidence
 
@@ -69,33 +69,46 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA211863 | Leflunomide (Lupin Pharmaceuticals, Inc.) | Tablet, film coated | Not listed in the input |
-| ANDA077090 | Leflunomide (AvPAK) | Tablet | Not listed in the input |
-| ANDA077086 | Leflunomide (Bryant Ranch Prepack) | Tablet | Not listed in the input |
-| ANDA212453 | Leflunomide (KVK-Tech, Inc.) | Tablet | Not listed in the input |
-| ANDA212308 | Leflunomide (Zydus Pharmaceuticals (USA) Inc.) | Tablet, film coated | Not listed in the input |
+| NDA020905 | Arava (sanofi-aventis U.S. LLC) | Tablet, film coated | Not specified; status cancelled |
+| ANDA211863 | Leflunomide (Lupin Pharmaceuticals) | Tablet, film coated | Not specified; status cancelled |
+| ANDA212308 | Leflunomide (Zydus Pharmaceuticals USA) | Tablet, film coated | Not specified; status cancelled |
+| ANDA213652 | Leflunomide (Aurobindo Pharma) | Tablet, film coated | Not specified; status cancelled |
+| ANDA077090 | Leflunomide (AvPAK) | Tablet | Not specified; status cancelled |
 
-All authorizations shown are oral products. The total number of authorizations is 20.
+Four additional ANDA authorizations (Bryant Ranch Prepack, KVK-Tech, Alembic, Burel Pharmaceuticals) are also listed as cancelled.
 
 ## Safety Considerations
 
-- **Key Warnings**: Leflunomide is teratogenic, and DHODH inhibition is associated with limb, ocular and skeletal malformations.
-- **Contraindications**: Leflunomide is contraindicated in pregnancy.
+- **Contraindication-related conditions (knowledge graph, not label text)**: The knowledge graph links leflunomide to contraindications in the following groups:
+  - Liver: liver failure, liver disease, gallbladder disease, chronic hepatitis B and C virus infection
+  - Kidney: kidney disease, pyoureter
+  - Blood: thrombocytopenia, neutropenia (including congenital forms), agranulocytosis, pancytopenia, anemia, macrocytic anemia
+  - Nerve: peripheral neuropathy, peripheral nervous system disease
+  - Lung and infection: interstitial lung disease, pneumocystosis, aspergillosis
+- **Drug Interactions**: 100 interactions were identified. Major-level examples include:
+  - Corticosteroids: hydrocortisone, dexamethasone, betamethasone, budesonide, triamcinolone
+  - Antidiabetics: acarbose, pioglitazone
+  - Antibiotics: clarithromycin, minocycline
+  - Others: bupropion, acetylsalicylic acid, naltrexone, chenodeoxycholic acid, oxandrolone, oxymetholone
 
-For other safety information, including drug interactions, please refer to the package insert.
+  Moderate-level examples include metronidazole, chlorpropamide, and acetohexamide. Minor-level examples include zinc sulfate and zinc acetate.
+- **Developmental risk**: Teratogenicity is a general pharmacological concern for this drug class, which is especially relevant for congenital developmental disorders.
+
+Please refer to the package insert for complete warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone (L5), with no trials or literature. The mechanistic link points to a teratogenicity-related association rather than treatment benefit, and pregnancy contraindication adds a safety concern.
+The prediction has only a computational basis (L5), with no clinical trials, literature, or established mechanistic link. Leflunomide's known teratogenic risk and the rare congenital nature of the predicted conditions further weaken the case. All US authorizations are also cancelled.
 
 **To proceed, the following is needed:**
-- Verification of the knowledge-graph edges behind the prediction (genes and pathways shared with brachydactyly-syndactyly syndrome)
-- Detailed mechanism of action data (MOA) from DrugBank
-- FDA package insert warnings and contraindications (a blocking gap for safety screening)
-- Any preclinical or clinical evidence that supports a therapeutic effect, as opposed to a phenotype association
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism of action data
+- Preclinical or mechanistic evidence connecting DHODH or pyrimidine synthesis inhibition to limb malformation pathways
+- A developmental and teratogenicity risk assessment for the proposed indication
+- Route compatibility and similarity-to-original-indication analyses (currently pending)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

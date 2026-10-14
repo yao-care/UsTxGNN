@@ -33,28 +33,34 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 ## One-Sentence Summary
 
-Abaloparatide is an injectable peptide marketed in the US as Tymlos, used for osteoporosis in postmenopausal women.
-The TxGNN model predicts it may be effective for **non-syndromic esophageal malformation**, but this is a model prediction only, with **0 clinical trials** and **0 publications** supporting it.
+Abaloparatide is an injectable PTH-related peptide analog marketed in the US as Tymlos, used for osteoporosis in postmenopausal women at high fracture risk.
+The TxGNN model predicts it may be effective for **non-syndromic esophageal malformation**, but this is a purely computational prediction with **0 clinical trials** and **0 publications** supporting it.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Osteoporosis in postmenopausal women (the license record in the source data lists no indication text) |
+| Original Indication | Postmenopausal osteoporosis at high risk for fracture (from pharmacology data; the license record has no indication text) |
 | Predicted New Indication | Non-syndromic esophageal malformation |
 | TxGNN Prediction Score | 99.84% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
+| US Market Status | Cancelled only (no active license) |
 | Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the source record. Based on known information, abaloparatide is a PTHrP-analog that acts as a PTH1R agonist, and it is used as a bone-anabolic agent in osteoporosis.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, abaloparatide is a PTHrP(1-34) analog that activates the PTH1 receptor (PTH1R) and has a bone anabolic effect. Its efficacy in osteoporosis was shown in a Phase 3 trial (NCT01343004), where it reduced new fractures versus placebo and showed less hypercalcemia than teriparatide.
 
-No mechanistic link to the predicted indication has been established. Non-syndromic esophageal malformation is a congenital structural defect, and it is unlikely that a bone-anabolic peptide given to adults could correct it. The high score (0.998) reflects a graph-based association in the TxGNN knowledge graph and is not backed by any trial or publication.
+No plausible mechanistic link to esophageal malformation can be established. This is a congenital, structural, developmental condition, and adult pharmacological therapy is unlikely to correct it. The high score (0.998) most likely reflects graph proximity in the model rather than a defined biological rationale.
 
-The model also ranked three related terms: esophageal disease (99.75%), amenorrhea (99.72%) and esophageal ulcer (99.02%). All have L5 evidence and no supporting studies. The esophageal disease score likely comes from neighboring esophageal terms. For amenorrhea, any link would be indirect (bone loss) and speculative, and the drug's target population differs. For esophageal ulcer, no evidence suggests that PTH1R agonism promotes mucosal healing.
+Other predictions for this drug are similarly weak:
+
+| Predicted Indication | TxGNN Score | Assessment |
+|------|------|------|
+| Esophageal disease | 99.75% | Broad, non-specific category. No data link PTH1R agonism to esophageal pathology. |
+| Amenorrhea | 99.72% | Driven by hypothalamic-pituitary-ovarian axis dysfunction, on which abaloparatide has no established action. At most, it might support bone health in hypoestrogenic amenorrhea, which is not treatment of the condition itself. |
+| Esophageal ulcer | 99.02% | No known gastroprotective or mucosal-repair mechanism. |
 
 ## Clinical Trial Evidence
 
@@ -68,24 +74,30 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA208743 | Tymlos (Radius Health, Inc.) | Injection, solution | Not listed in the source data |
+| NDA208743 (cancelled) | Tymlos (Radius Health, Inc.) | Injection, solution | Not listed in the license record |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug interaction records were found for this drug.
+- **Drug Interactions** (3 records found):
+  - Calcitriol (topical): Moderate
+  - Calcipotriol (topical): Moderate
+  - PTH1 receptor: pharmacological target record (not an interaction with a severity rating)
+
+Please refer to the package insert for warnings and contraindications. The knowledge graph lists no contraindicated diseases for this drug.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone (L5, stage S0), with no trials, no literature and no plausible mechanism linking a bone-anabolic PTH1R agonist to a congenital esophageal defect.
+All four predictions rest on model scores alone, with no trials or literature and no plausible biological link between PTH1R agonism and the predicted conditions. The only US license is cancelled, and warnings and contraindications are not available.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, which are currently missing and block safety screening
-- Detailed mechanism-of-action data and the approved indication text from DrugBank and the US label
-- Any preclinical or clinical evidence linking PTH1R signaling to esophageal development or repair
-- A route and population compatibility assessment for the predicted indication
+- FDA package insert warnings and contraindications (blocking for safety screening)
+- Detailed mechanism of action data
+- A mechanistic rationale connecting PTH1R signaling to the predicted esophageal or gynecologic conditions
+- Any preclinical or clinical evidence in the predicted indications
+- Route and formulation compatibility assessment (the drug is available only as an injection)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

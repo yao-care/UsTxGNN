@@ -33,80 +33,71 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Midodrine is an oral drug used to raise blood pressure in symptomatic orthostatic hypotension.
+Midodrine is an oral drug used to raise blood pressure in autonomic disorders such as orthostatic hypotension, postural orthostatic tachycardia syndrome (POTS) and multiple system atrophy.
 The TxGNN model predicts it may be effective for **variably protease-sensitive prionopathy**, a rare prion disease.
-Currently **0 clinical trials** and **0 publications** support this specific prediction, so it rests on the model score alone.
-
----
+This is a graph-based prediction only: **0 clinical trials** and **0 publications** currently support it.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Symptomatic orthostatic hypotension (the indication text is blank in the US license records) |
+| Original Indication | Orthostatic hypotension (also POTS and multiple system atrophy per the knowledge graph; no approved-indication text was available in the US license records) |
 | Predicted New Indication | Variably protease-sensitive prionopathy |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 10 (all are ANDAs, all cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the database. From the pharmacology review, midodrine is a prodrug. Its active metabolite, desglymidodrine, is a selective peripheral alpha-1 adrenergic agonist that raises vascular tone and blood pressure.
+Detailed mechanism-of-action data were not available in the compiled data. Midodrine is known to be a peripherally acting alpha-1 adrenergic agonist. Its active metabolite, desglymidodrine, constricts arterioles and veins and raises blood pressure. This explains its use in orthostatic hypotension, POTS and autonomic failure in multiple system atrophy.
 
-That mechanism does not plausibly connect to variably protease-sensitive prionopathy. This is a neurodegenerative prion disease driven by abnormal prion protein. Midodrine does not cross the blood-brain barrier significantly and has no known effect on prion biology. The high TxGNN score is a knowledge-graph association only. It has no clinical or literature support, and the prediction should be treated as a likely model artifact.
+The link to a prion disorder is weak. No plausible mechanism connects alpha-1 agonism to modifying the course of a prion disease. At most, midodrine could treat autonomic symptoms such as low blood pressure on standing, and that would not be a repurposing claim for the underlying disease. The very high TxGNN score most likely reflects network relationships in the knowledge graph, not biological or clinical support.
 
-For context, the same run also produced a prediction that does have evidence behind it: **hypotensive disorder** (rank 4). It has 9 linked clinical trials and 20 publications, and would be graded L1. However, it is essentially the drug's established use rather than true repurposing, and it is not the prediction evaluated in this report. Other top-ranked predictions (such as ADHD, sinoatrial node disease and sinoatrial block) also lack support. For the last two, midodrine's reflex bradycardia is a safety concern.
-
----
+Among the top 10 predictions, only **hypotensive disorder** (rank 4) has meaningful support: a completed Phase 2 trial, NCT02893553, and many guideline and review articles. That indication is essentially on-label, so it is not true repurposing. Most of the other predictions (for example ADHD, monogenic obesity and sinoatrial node disease) have no evidence or a doubtful mechanism.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
+
+All 10 midodrine hydrochloride tablet authorizations are cancelled. The records contain no approved-indication text. The first five are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA212774 | Midodrine Hydrochloride (Bryant Ranch Prepack) | Tablet | Not listed in license record |
-| ANDA217271 | Midodrine Hydrochloride (First Nation Group, LLC) | Tablet | Not listed in license record |
-| ANDA207169 | Midodrine Hydrochloride (Bryant Ranch Prepack) | Tablet | Not listed in license record |
-| ANDA214734 | Midodrine Hydrochloride (Alembic Pharmaceuticals Inc.) | Tablet | Not listed in license record |
-| ANDA212543 | Midodrine Hydrochloride (TruPharma, LLC) | Tablet | Not listed in license record |
-
-All 20 authorizations are oral tablets. The five above are the first five in the record.
-
----
+| ANDA212774 | Midodrine Hydrochloride (Bryant Ranch Prepack) | Tablet | Not specified |
+| ANDA217271 | Midodrine Hydrochloride (First Nation Group, LLC) | Tablet | Not specified |
+| ANDA207169 | Midodrine Hydrochloride (Bryant Ranch Prepack) | Tablet | Not specified |
+| ANDA214734 | Midodrine Hydrochloride (Alembic Pharmaceuticals Inc.) | Tablet | Not specified |
+| ANDA212543 | Midodrine Hydrochloride (TruPharma, LLC) | Tablet | Not specified |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Conditions flagged as contraindications in the knowledge graph** (not taken from label text): adrenal gland pheochromocytoma, phaeochromocytoma, sympathetic paraganglioma, adrenal gland cancer, duodenum cancer, small intestine cancer, heart cancer, thyrotoxicosis, hyperthyroidism and Graves disease. These should be verified against the current package insert.
+- **Drug Interactions**: 81 interactions are recorded. Most of those listed are Moderate, mainly with other sympathomimetics and appetite suppressants: epinephrine (including ophthalmic and topical forms), ephedrine (including nasal), isometheptene, phentermine, diethylpropion, mazindol and sibutramine. Other Moderate interactions include bupropion, lorcaserin, trospium, rolapitant and glycerol phenylbutyrate. Minor interactions include ranitidine, cimetidine and metformin.
+- **Theoretical concern**: the pressor effect can cause reflex bradycardia, so use in conduction disorders such as sinoatrial node disease or sinoatrial block needs caution.
 
----
+Please refer to the package insert for the full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting trials or literature (L5). There is also no plausible mechanism linking a peripheral alpha-1 agonist to a prion disease. Based on current evidence, this candidate should not advance.
+The prediction for variably protease-sensitive prionopathy rests only on a graph-based score. There are no trials or publications, and no plausible mechanism links an alpha-1 agonist to a prion disease. Midodrine is also currently listed as "Cancelled only" in the US.
 
 **To proceed, the following is needed:**
-- Any mechanistic or preclinical evidence linking alpha-1 adrenergic agonism to prion pathology
-- The FDA package insert warnings and contraindications, which are currently missing and block safety screening
-- Mechanism of action data from DrugBank
-- Redirecting effort to the hypotensive disorder prediction, after checking that midodrine is the actual intervention arm in each linked trial
+- A mechanistic hypothesis and preclinical data showing that midodrine affects prion disease biology, not just autonomic symptoms
+- Detailed mechanism-of-action data
+- Package insert warnings and contraindications, to complete safety screening
+- Verification of US availability and regulatory status
+- Consideration of the better-supported **hypotensive disorder** prediction (rank 4, L2, Proceed with Guardrails) as a separate, largely on-label track. Its guardrails are supine hypertension risk and the drug-interaction burden.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

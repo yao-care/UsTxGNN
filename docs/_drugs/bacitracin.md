@@ -29,32 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Bacitracin: From Topical Antibacterial Use to Punctate Epithelial Keratoconjunctivitis
+# Bacitracin: From Keratitis to Punctate Epithelial Keratoconjunctivitis
 
 ## One-Sentence Summary
 
-Bacitracin is a polypeptide antibiotic marketed in the US as a topical ointment. The TxGNN model predicts it may be effective for **punctate epithelial keratoconjunctivitis**, but **0 clinical trials** and **0 publications** currently support this direction. The prediction rests on the model score alone.
+Bacitracin is a topical polypeptide antibiotic, originally used for eye infections such as keratitis, keratoconjunctivitis and blepharoconjunctivitis.
+The TxGNN model predicts it may be effective for **Punctate Epithelial Keratoconjunctivitis**,
+but **no clinical trials and no publications** currently support this specific prediction, so it rests on the model prediction alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Keratitis, keratoconjunctivitis, blepharoconjunctivitis (from the knowledge graph; no approved indication text is available in the US license records) |
 | Predicted New Indication | Punctate epithelial keratoconjunctivitis |
-| TxGNN Prediction Score | 99.999% (rank 64 overall) |
+| TxGNN Prediction Score | 99.999% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 3 (all cancelled) |
 | Recommended Decision | Hold |
-
-The licence records contain no approved-indication text, so the original labelled indication could not be extracted. The original use above is inferred from the product type (an ointment).
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available from DrugBank. Bacitracin is known to inhibit bacterial cell-wall synthesis by blocking dephosphorylation of C55-isoprenyl pyrophosphate. It acts mainly against gram-positive organisms, which is why it is used topically.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, bacitracin inhibits bacterial cell wall synthesis by blocking dephosphorylation of C55-isoprenyl pyrophosphate. It is mainly active against Gram-positive bacteria and is used in ophthalmic ointments.
 
-The link to the new indication is weak. Punctate epithelial keratoconjunctivitis is often viral, toxic, or dry-eye related rather than bacterial, so an antibacterial has no clear target. The TxGNN score of about 0.99999 should not be over-read. The top-ranked candidates all score almost identically, so the score does not discriminate between them. It probably reflects proximity in the knowledge graph rather than a real therapeutic signal.
+The predicted indication lies very close to the original ones, since all are inflammatory conditions of the cornea and conjunctiva. This closeness likely explains the very high model score. However, punctate epithelial keratoconjunctivitis is often viral or non-infectious, in which case an antibacterial agent may offer little benefit. The mechanism would only be relevant if bacterial infection or secondary infection were present.
 
-The ophthalmic route is also unconfirmed. Route compatibility is still pending, and the only dosage form in the US records is an ointment.
+Other predictions for this drug are weaker or are model artifacts. For example, "non-human animal disease" is a non-specific category, and indications such as Chagas cardiomyopathy and infection-related hemolytic uremic syndrome have no plausible mechanistic basis. The only prediction with any literature support is otitis externa (rank 4, evidence level L4). That support is indirect, coming mostly from combination-product studies and a veterinary susceptibility study.
 
 ## Clinical Trial Evidence
 
@@ -62,41 +63,48 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for punctate epithelial keratoconjunctivitis.
 
 ## US Market Information
 
-The 5 main entries below are the main listings out of 20. The records give no approved-indication text.
-
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| M004 | Bacitracin | Ointment | A-S Medication Solutions |
-| M004 | Bacitracin | Ointment | BluePoint Laboratories |
-| M004 | Bacitracin | Ointment | Rugby Laboratories |
-| M004 | Bacitracin | Ointment | CVS Pharmacy |
-| M004 | Bacitracin | Ointment | H E B |
+| M004 | Bacitracin (A-S Medication Solutions) | Ointment | Not specified (cancelled) |
+| 333B | Bacitracin (Preferred Pharmaceuticals, Inc) | Ointment | Not specified (cancelled) |
+| ANDA061212 | Bacitracin (Padagis US LLC) | Ointment | Not specified (cancelled) |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Disease-related cautions (from the knowledge graph, not label text)**: The drug-disease contraindication data flag several conditions, including:
+  - eye conditions: herpes simplex virus keratitis, viral eye infection, fungal eye infection, conjunctivitis, open-angle glaucoma and ocular hypertension
+  - kidney disease and liver disease
+  - neuromuscular conditions: myasthenia gravis and neuromuscular junction disease
+  - cardiac conduction disorders: atrioventricular block
+  - metabolic and endocrine conditions: diabetes, diabetic ketoacidosis and adrenocortical insufficiency
+  
+  Some of these entries (for example glaucoma and skin atrophy) look like they may come from other drugs in the same knowledge graph, so they should be verified against the actual label. The listing of conjunctivitis and eye infection is notable because it overlaps with the proposed ophthalmic use.
+- **Drug Interactions**: 84 interactions were recorded. The major-level interactions include:
+  - aminoglycosides: kanamycin, neomycin and streptomycin
+  - deferasirox
+  - iodinated contrast agents: diatrizoate, iodipamide, iodixanol and iohexol
+  
+  Moderate-level interactions include mesalazine, balsalazide, olsalazine, sulfasalazine, vancomycin, exenatide and picosulfuric acid. Systemic bacitracin is nephrotoxic, which is likely why nephrotoxic and ototoxic agents appear on this list.
+
+Please refer to the package insert for label warnings and contraindications, since these were not available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting trials or literature (L5). The mechanistic link is weak, because an antibacterial has little reason to help a largely non-bacterial condition. Safety data are also missing, which blocks any safety screening.
+The prediction is supported only by the model score (evidence level L5), with no trials or publications. The condition is frequently viral or non-infectious, and all US licenses for the drug are cancelled.
 
 **To proceed, the following is needed:**
-- The package insert warnings and contraindications, which are currently a blocking gap
-- DrugBank mechanism of action data
-- The labelled indications, so it is clear what counts as new use
-- A check of whether an ophthalmic formulation exists or is feasible
-- Evidence that bacterial infection contributes to this condition, plus any trials or literature testing bacitracin
-
-Among the other top-ranked predictions, otitis externa (rank 4) is the only one with any literature. That includes one double-blind study of 151 patients using a polymyxin B plus bacitracin ointment. It is graded L4 and marked "Research Question", and it may be a better lead than the current top prediction.
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Retrieval and review of the FDA package insert (warnings and contraindications), which is currently a blocking data gap
+- Mechanism of action data from DrugBank
+- Clinical evidence that punctate epithelial keratoconjunctivitis in the target population has a bacterial component
+- Evaluation of whether any currently marketed ophthalmic bacitracin product exists, given that all three US licenses are cancelled
+- Verification of the knowledge-graph contraindication signals against the label, particularly the eye infection entries
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

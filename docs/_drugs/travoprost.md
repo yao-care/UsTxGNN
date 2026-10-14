@@ -29,71 +29,87 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Travoprost: From Open-Angle Glaucoma / Ocular Hypertension to Visceral Calciphylaxis
+# Travoprost: From Open-Angle Glaucoma to Visceral Calciphylaxis
 
 ## One-Sentence Summary
 
-Travoprost is a topical prostaglandin F2-alpha analog used as eye drops (and an intracameral implant) for open-angle glaucoma and ocular hypertension.
-The TxGNN model predicts it may be effective for **visceral calciphylaxis**, but **0 clinical trials** and **0 publications** currently support this prediction, so it rests on the model score alone.
+Travoprost is a prostaglandin F2-alpha analog (FP receptor agonist) originally used to lower eye pressure in open-angle glaucoma and ocular hypertension.
+The TxGNN model predicts it may be effective for **visceral calciphylaxis**, but **no clinical trials and no publications** support this specific prediction.
+The model's other top-ranked predictions are likewise unsupported, so this report treats the result as a computational signal only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Open-angle glaucoma / ocular hypertension (the US license records contain no indication text, so this is taken from the trial and rationale data) |
+| Original Indication | Open-angle glaucoma; ocular hypertension |
 | Predicted New Indication | Visceral calciphylaxis |
-| TxGNN Prediction Score | 99.9998% (saturated, so it does not discriminate between candidates) |
+| TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 18 (including generic ANDAs) |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 9 (all cancelled, including both NDAs and ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the record. Travoprost is known to be a selective FP receptor agonist. It lowers intraocular pressure by increasing aqueous humor outflow.
+Detailed mechanism-of-action data was not available in the data compiled for this report. Based on known pharmacology, travoprost is a prostaglandin F2-alpha analog that acts on the FP receptor. In glaucoma it lowers eye pressure mainly by increasing uveoscleral outflow. It also has vasoactive properties.
 
-Visceral calciphylaxis involves vascular calcification and microvascular occlusion with tissue ischemia. No plausible mechanistic link to FP receptor agonism was identified. Topical ocular dosing also gives very low systemic exposure, which makes a systemic vascular effect unlikely. The prediction is therefore best read as a model artifact rather than a mechanism-supported hypothesis.
+The link between the original and predicted indications is weak. Visceral calciphylaxis (calcific uremic arteriolopathy) is a disease of small-vessel calcification and clotting, usually seen in kidney failure. No plausible mechanistic connection to FP receptor agonism has been established. Topical eye drops also produce minimal systemic exposure, so meaningful effects on visceral blood vessels are unlikely.
 
-The other top-ranked predictions share this weakness: three forms of thoracic outlet syndrome, angiodysplasia of stomach, blue toe syndrome, lymphangiectasis and spontaneous coronary artery dissection. All have no trials or literature and no mechanistic rationale.
-
-Two further predictions have some indirect material, but none of it shows benefit:
-- **Vascular disease (rank 5):** 14 trials are listed, all in glaucoma or ocular hypertension. None has a vascular disease endpoint. They concern ocular tolerability, including conjunctival hyperemia, and in one case retinal and choroidal blood flow.
-- **Hemangioendothelioma (rank 10):** two publications concern glaucoma in Sturge-Weber syndrome. One is a case report of travoprost-induced uveal effusion, which is a possible safety signal rather than therapeutic evidence.
+The model's high score most likely reflects network-level similarity in a knowledge graph rather than a biological rationale. The same applies to the other top predictions: arterial, venous and neurogenic thoracic outlet syndromes, angiodysplasia of the stomach, blue toe syndrome, lymphangiectasis, spontaneous coronary artery dissection and hemangioendothelioma. None has any supporting clinical evidence.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for visceral calciphylaxis.
+Currently no related clinical trials are registered for visceral calciphylaxis.
+
+For reference, the broader prediction "vascular disease" (rank 5) was matched to 10 travoprost trials. These are nearly all studies in glaucoma or ocular hypertension, linked only through keywords such as hyperemia. None tests travoprost as a treatment for a vascular disease. The most relevant is shown below.
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT00308945](https://clinicaltrials.gov/study/NCT00308945) | Phase 4 | Completed | 20 | Compared travoprost and latanoprost effects on retinal vascular diameter and choroidal blood flow in glaucoma patients; an ocular blood-flow study, not a vascular disease treatment |
 
 ## Literature Evidence
 
-Currently no related literature available for visceral calciphylaxis.
+Currently no related literature is available for visceral calciphylaxis.
+
+For reference, the only publication linked to a specific vascular-type prediction (hemangioendothelioma, rank 10) is an adverse-event report:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [19107053](https://pubmed.ncbi.nlm.nih.gov/19107053/) | 2008 | Case report (adverse event) | Journal francais d'ophtalmologie | Uveal effusion with subtotal exudative retinal detachment induced by topical travoprost in a patient with Sturge-Weber-Krabbe syndrome. This is a safety signal, not evidence of benefit. |
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+All nine US authorizations are listed as cancelled, and the approved-indication text was not available for any of them. The five below are examples.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA218159 | Travoprost Ophthalmic Solution | Solution/drops | Glenmark Pharmaceuticals Inc |
-| ANDA214687 | Travoprost ophthalmic solution | Solution/drops | Alembic Pharmaceuticals Limited |
-| ANDA210458 | Travoprost Ophthalmic Solution USP, 0.004% | Solution/drops | Alembic Pharmaceuticals Inc. |
-| ANDA203767 | Travoprost Ophthalmic | Solution | Micro Labs Limited |
-| NDA218010 | iDose TR | Implant | Glaukos Corporation |
+| NDA021994 | Travatan Z (Sandoz) | Solution/drops | Not available |
+| NDA218010 | iDose TR (Glaukos) | Implant | Not available |
+| ANDA218159 | Travoprost Ophthalmic Solution (Glenmark) | Solution/drops | Not available |
+| ANDA214687 | Travoprost ophthalmic solution (Alembic) | Solution/drops | Not available |
+| ANDA203431 | Travoprost (Apotex) | Solution | Not available |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Package insert warnings and contraindications were not available in the data compiled for this report. Please refer to the package insert for safety information.
+
+- **Disease associations flagged in the knowledge graph (not label text):** uveitis, iris disease, ciliary body disease, panuveitis, iritis, cystoid macular edema and macular retinal edema. These are ocular inflammatory or macular conditions where prostaglandin analogs warrant caution.
+- **Drug interactions:** 49 potential interactions were recorded, all with an "Unknown" severity level. Examples include calcitriol, pantoprazole, sucralfate, morphine, metformin, omeprazole, prednisone, simvastatin, and acetylsalicylic acid. Severity has not been characterized.
+- **Safety signal in vascular pathology:** The case report of uveal effusion in a patient with Sturge-Weber-Krabbe syndrome suggests caution in patients with abnormal vasculature.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical or literature support and no plausible mechanism. The TxGNN score is saturated, so it adds little information, and topical ocular dosing is unlikely to reach affected tissue. The related trials in the pack all test the approved glaucoma indication.
+The prediction rests on model output alone (L5). There are no trials or publications for visceral calciphylaxis, and no plausible mechanism links an ocular FP receptor agonist to calcific small-vessel disease. All nine US licenses are cancelled, and topical ocular dosing gives little systemic exposure.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Confirmed mechanism of action from DrugBank
-- A literature search for any preclinical rationale linking FP receptor signaling to vascular calcification or calciphylaxis
-- A route and exposure assessment, since the available forms are ocular only
+- Mechanism-of-action data and a credible biological hypothesis linking FP receptor signaling to vascular calcification or calciphylaxis
+- Preclinical studies (for example, vascular calcification models) showing a benefit
+- Evaluation of a route and formulation that would achieve systemic exposure, since the current licenses cover ocular products only
+- FDA package insert warnings and contraindications, to complete safety screening
+- Characterization of the severity of the 49 listed drug interactions, especially in dialysis or kidney-failure patients, who are the main population with calciphylaxis
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

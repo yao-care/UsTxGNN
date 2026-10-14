@@ -29,86 +29,71 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Flunisolide: From Inhaled Corticosteroid to Atopic Eczema
+# Flunisolide: From Asthma and Allergic Rhinitis to Atopic Eczema
 
 ## One-Sentence Summary
 
-Flunisolide is a synthetic glucocorticoid marketed in the US as an inhaled or intranasal solution, and the supplied data do not include its approved indication text.
-The TxGNN model predicts it may be effective for **atopic eczema**, but there are **0 registered clinical trials** and only **1 publication**, a biomarker cohort study that does not test flunisolide as a treatment for the skin disease.
-The prediction is therefore best treated as a research question, not an evidence-backed candidate.
-
----
+Flunisolide is a corticosteroid originally used for asthma and allergic or vasomotor rhinitis.
+The TxGNN model predicts it may be effective for **atopic eczema**, but there are **0 clinical trials** and only **1 publication** (an observational study) behind this direction.
+The evidence is indirect and rests mainly on class-level corticosteroid pharmacology.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Predicted New Indication | Atopic eczema (also listed as "dermatitis, atopic", a duplicate entry) |
+| Original Indication | Asthma (including intrinsic and allergic asthma), allergic rhinitis, vasomotor rhinitis |
+| Predicted New Indication | Atopic eczema |
 | TxGNN Prediction Score | 99.98% |
 | Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 3 (all ANDA generic approvals) |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 2 (both ANDA, both cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Flunisolide is a synthetic glucocorticoid, and corticosteroids as a class suppress type 2 and other inflammatory cytokine signaling. Corticosteroids are an established drug class for atopic dermatitis, so the link is plausible at the class level.
+Detailed mechanism of action data is not available for this drug. Based on known information, flunisolide is a corticosteroid with anti-inflammatory activity. Its efficacy in asthma and allergic rhinitis is established, and mechanistically it may be applicable to atopic eczema.
 
-There is an important caveat. Flunisolide is marketed as an inhaled or intranasal formulation, whereas atopic eczema is normally treated with topical corticosteroids applied to the skin. The very high TxGNN score (99.98%) most likely reflects class-level proximity in the knowledge graph rather than flunisolide-specific data. Route compatibility has not yet been assessed.
+Asthma, allergic rhinitis and atopic dermatitis are closely related allergic (atopic) conditions that often occur together. Atopic dermatitis is also considered a risk factor for later asthma. Corticosteroids as a class are an established treatment for atopic dermatitis. This makes the prediction biologically plausible.
 
----
+However, the link is indirect. The only retrieved paper is an observational study of exhaled breath condensate cytokines and pH in children with asthma and atopic dermatitis. It does not test flunisolide as a treatment for eczema. The same prediction also appears under the synonym "dermatitis, atopic" (score 99.85%), with the same single paper.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [18926054](https://pubmed.ncbi.nlm.nih.gov/18926054/) | 2008 | Cohort | Allergy and Asthma Proceedings | Measured exhaled breath condensate pH and Th1/Th2/T-regulatory cytokines in asthmatic children with atopic dermatitis, and looked at the effect of a short course of inhaled corticosteroid. This is a biomarker study and does not test flunisolide as a treatment for atopic dermatitis. |
-
----
+| [18926054](https://pubmed.ncbi.nlm.nih.gov/18926054/) | 2008 | Cohort | Allergy and Asthma Proceedings | Measured exhaled breath condensate cytokines (Th1, Th2, regulatory T cells) and pH in children with asthma and atopic dermatitis, and looked at the effect of a short course of inhaled corticosteroid. It is a biomarker study, not an efficacy trial of flunisolide for eczema. |
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA074805 | Flunisolide | Solution | Oceanside Pharmaceuticals |
-| ANDA074805 | Flunisolide | Solution | Bausch & Lomb Incorporated |
-| ANDA207802 | Flunisolide | Solution | Ingenus Pharmaceuticals, LLC |
-
-Approved indication text was not provided for these authorizations.
-
----
+| ANDA074805 (cancelled) | Flunisolide (Oceanside Pharmaceuticals) | Solution | Not listed |
+| ANDA207802 (cancelled) | Flunisolide (Ingenus Pharmaceuticals, LLC) | Solution | Not listed |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindications flagged in the knowledge graph (not label text):** liver disease, gallbladder disease, measles, herpes simplex virus keratitis, adrenocortical insufficiency, Addison disease, varicella zoster infection, fungal infectious disease, dermatophytosis, glaucoma, parasitic infection, infectious disease, lower respiratory tract disease, paranasal sinus disease, nasal cavity disease, upper respiratory tract disease. These come from a knowledge graph and should be checked against the official label.
+- **Drug Interactions:** 100 interactions were found in the interaction database. Those graded Moderate are clarithromycin, inhaled rapid-acting human insulin and cobicistat. Others, including prednisone, dexamethasone, omeprazole, simvastatin, glyburide, glipizide and rosiglitazone, are of unknown severity. Systemic corticosteroids and CYP3A4 inhibitors (such as clarithromycin and cobicistat) merit particular attention.
 
----
+Package insert warnings and contraindications were not available. Please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on class-level plausibility only, with no registered trials and no flunisolide-specific evidence in atopic eczema. The route of administration (inhaled or intranasal) also differs from the standard topical approach for skin disease.
+The prediction score is very high, but there are no clinical trials, and the only paper is an observational study that does not test flunisolide in eczema. The evidence is L4 and rests on class-level corticosteroid pharmacology. Flunisolide is also no longer marketed in the US (both licenses cancelled), and the available formulation (solution) is not suited to skin use. Many established topical corticosteroids already exist for atopic dermatitis, so the added value of flunisolide is unclear.
 
 **To proceed, the following is needed:**
-- The package insert (warnings, contraindications and approved indications), which is a blocking gap for safety screening
-- Mechanism of action data from DrugBank
-- A route compatibility assessment, since no topical flunisolide formulation is listed among the US authorizations
-- Flunisolide-specific clinical evidence in atopic dermatitis
-- Merging the duplicate "atopic eczema" and "dermatitis, atopic" entries in downstream reporting
-
-Among the other predictions for this drug, bronchitis and polyp of frontal sinus fit the marketed inhaled or intranasal route better, though their evidence is also thin. A targeted search on nasal polyposis or chronic rhinosinusitis with nasal polyps could strengthen the latter.
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data
+- Direct evidence for flunisolide in atopic dermatitis, or a comparison against existing topical corticosteroids
+- A route and formulation assessment, since only a solution form is on record
+- A check of other predictions for stronger candidates. Bronchitis (L3) has a small, old 1981 clinical evaluation of flunisolide, which makes it the most directly supported of the ten predictions, although the evidence is dated and low-grade.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

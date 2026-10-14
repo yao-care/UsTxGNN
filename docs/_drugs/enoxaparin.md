@@ -29,33 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Enoxaparin: From Thromboprophylaxis to Protein C Deficiency Thrombophilia
+# Enoxaparin: From Pulmonary Embolism to Thrombophilia Due to Protein C Deficiency (Autosomal Recessive)
 
 ## One-Sentence Summary
 
-Enoxaparin is a low-molecular-weight heparin anticoagulant, and the supplied data do not list its approved indications.
-The TxGNN model predicts it may be effective for **thrombophilia due to protein C deficiency (autosomal recessive)**,
-but currently there are **0 clinical trials** and **0 publications** supporting this direction, so it rests on model prediction alone.
+Enoxaparin is a low-molecular-weight heparin anticoagulant, originally associated with pulmonary embolism, disseminated intravascular coagulation (DIC) and purpura fulminans.
+The TxGNN model predicts it may be useful for **autosomal recessive thrombophilia due to protein C deficiency**,
+but the data compiled for this report contain **no clinical trials and no publications** for this indication, so the prediction rests on model output and mechanistic reasoning alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the supplied data (the approved indication text is blank for all licenses). Enoxaparin is generally used for thromboprophylaxis and thrombosis treatment, and this should be confirmed against the label. |
+| Original Indication | Pulmonary embolism; disseminated intravascular coagulation; purpura fulminans; acquired purpura fulminans (from the knowledge graph; no approved indication text is available in the US license records) |
 | Predicted New Indication | Thrombophilia due to protein C deficiency, autosomal recessive |
 | TxGNN Prediction Score | 99.58% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| US Market Status | Cancelled only (all listed authorizations are cancelled) |
+| Number of NDAs | 7 (1 NDA and 6 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the source record. Based on general pharmacology, enoxaparin is a low-molecular-weight heparin that potentiates antithrombin and mainly inhibits factor Xa. This reduces thrombin generation and clot formation.
+Detailed mechanism-of-action data for enoxaparin are not available in the compiled data. Based on general pharmacology, enoxaparin is a low-molecular-weight heparin. It enhances antithrombin III activity and mainly inhibits factor Xa, and to a lesser degree thrombin. Its anticoagulant effect does not depend on the protein C pathway.
 
-Severe protein C deficiency impairs the protein C anticoagulant pathway, which normally inactivates factors Va and VIIIa. The result is a hypercoagulable state with a high risk of thrombosis. Anticoagulation is therefore biologically plausible for preventing or treating thrombosis in this condition. This reasoning comes from general pharmacology, not from the supplied dataset, and it could not be checked against source data.
+In autosomal recessive (severe or homozygous) protein C deficiency, the body loses a key natural brake on thrombin generation. This leads to thrombosis and purpura fulminans. Because enoxaparin acts on a different, parallel part of the coagulation cascade, anticoagulation could plausibly reduce thrombotic burden in these patients.
 
-There is also a caveat. Enoxaparin's existing thromboprophylaxis and thrombosis treatment indications are probably related to this prediction. The high score may therefore reflect an existing use rather than a new repurposing signal. The prediction should be checked against current labeling and clinical guidelines before further work.
+The original indications (pulmonary embolism, DIC, purpura fulminans) share the same underlying problem of dysregulated coagulation, which supports the link. However, the TxGNN score is a computational prediction only. Standard care for severe congenital protein C deficiency, such as protein C concentrate, anticoagulation and in some cases liver transplantation, was not evaluated in the supplied data, so enoxaparin's place relative to these options is unknown.
 
 ## Clinical Trial Evidence
 
@@ -67,30 +67,48 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| ANDA214646 | Enoxaparin sodium (BE Pharmaceuticals Inc.) | Injection | Not provided in source data |
-| ANDA076726 | Enoxaparin Sodium (Zydus Pharmaceuticals USA Inc.) | Injection, solution | Not provided in source data |
-| ANDA076726 | Enoxaparin Sodium (Italfarmaco SpA) | Injection, solution | Not provided in source data |
-| NDA020164 | Lovenox (Sanofi-Aventis U.S. LLC) | Injection | Not provided in source data |
-| ANDA206834 | Enoxaparin Sodium (BluePoint Laboratories) | Injection | Not provided in source data |
+| NDA020164 | Lovenox (Sanofi-Aventis U.S. LLC) | Injection | Cancelled |
+| ANDA076726 | Enoxaparin Sodium (Zydus Pharmaceuticals USA Inc.) | Injection, solution | Cancelled |
+| ANDA076684 | Enoxaparin Sodium (BluePoint Laboratories) | Injection | Cancelled |
+| ANDA077857 | Enoxaparin Sodium (Cardinal Health 107, LLC) | Injection | Cancelled |
+| ANDA205660 | Enoxaparin Sodium (Hepalink USA Inc.) | Injection, solution | Cancelled |
+
+Two further cancelled ANDAs (ANDA214646, ANDA206834) are also on record. Approved indication text is not available in the license records. All seven authorizations show as cancelled, so current product availability needs to be verified.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindications (from the knowledge graph, not label text):** The TxGNN knowledge graph links enoxaparin to contraindications in the following groups:
+  - Bleeding and coagulation disorders: hemophilia, blood coagulation disease, antithrombin III deficiency, Glanzmann thrombasthenia, qualitative platelet defect
+  - Thrombocytopenia, including heparin-induced thrombocytopenia
+  - Intracranial or intracerebral hemorrhage and placental abruption
+  - Liver failure, biliary tract disease and obstructive jaundice
+  - Gastrointestinal conditions: active peptic ulcer disease, ulcerative colitis, inflammatory bowel disease
+  - Retinal disease: diabetic or hypertensive retinopathy, retinitis, diabetic cataract
+  - Infective endocarditis (including subacute bacterial endocarditis)
+  - Osteoporosis (including postmenopausal) and arteriosclerosis obliterans
+- **Drug Interactions:** The query returned 100 interactions; 20 are shown in the compiled data. Major-level interactions include:
+  - Antiplatelet and NSAID agents: acetylsalicylic acid, abciximab, ketorolac, ibuprofen
+  - Thrombolytic: alteplase
+  - Others: deferasirox, acalabrutinib, trastuzumab emtansine, and the radiopharmaceuticals ibritumomab tiuxetan and tositumomab (including I-131)
+  - Moderate-level interactions include dexfenfluramine, fenfluramine, sibutramine, aliskiren and sodium iodide I-131/I-123.
+
+Package insert warnings and contraindications were not available in the compiled data. Please refer to the package insert for the full safety profile.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a high model score and a plausible anticoagulant rationale, but it has no supporting trials or publications (L5). The safety and mechanism data are also missing, so the case cannot advance to safety screening.
+The prediction score is very high, but it is the only support. There are no clinical trials or publications for this indication (evidence level L5), the mechanism-of-action data and label safety data are missing, and all US authorizations are cancelled.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Approved indications from the current US label, to check whether this prediction overlaps with existing thromboprophylaxis and treatment uses
-- Mechanism of action data from DrugBank, to verify the mechanistic link
-- A targeted literature and trial search on anticoagulation in severe (autosomal recessive) protein C deficiency, plus review of current clinical guidelines
+- Systematic literature search on heparin or enoxaparin use in severe congenital protein C deficiency (case reports, registries, guidelines)
+- Comparison with standard care (protein C concentrate, other anticoagulants, liver transplantation)
+- Mechanism-of-action data and the FDA package insert (warnings and contraindications)
+- Verification of current US product availability and regulatory status
+- Safety review for this population, especially bleeding risk and the thrombocytopenia and coagulation-disorder contraindications listed above
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

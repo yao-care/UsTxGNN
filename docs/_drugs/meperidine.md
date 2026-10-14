@@ -33,30 +33,29 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 ## One-Sentence Summary
 
-Meperidine is a mu-opioid agonist analgesic that is currently marketed in the US as injectable and other dosage forms.
-The TxGNN model predicts it may be effective for **Tourette syndrome**, but this is a model prediction only, with **0 clinical trials** and **0 publications** retrieved.
+Meperidine is a synthetic opioid analgesic whose original approved indication is not recorded in the data compiled for this report.
+The TxGNN model predicts it may be effective for **Tourette syndrome**, but there are currently **0 clinical trials** and **0 publications** supporting this direction.
+The prediction is a computational signal only and is not backed by any real-world evidence.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the US label data provided. Meperidine is known as an opioid analgesic for pain. |
+| Original Indication | Not available in the compiled data (the approved indication text of all licenses is empty) |
 | Predicted New Indication | Tourette syndrome |
 | TxGNN Prediction Score | 99.46% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 11 |
+| US Market Status | Cancelled only (no currently valid license) |
+| Number of NDAs | 5 (all cancelled; 1 NDA and 4 ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the source data. Meperidine is a mu-opioid receptor agonist with some serotonergic activity. Its efficacy as an analgesic is established, and opioid and monoaminergic signaling have been discussed in tic disorders. This is only a general hypothesis and is not evidence for meperidine itself.
+Currently, detailed mechanism of action data is not available. Based on general pharmacology, meperidine is a synthetic mu-opioid receptor agonist with weak serotonin reuptake inhibition and anticholinergic-like properties. This general description is not drawn from the compiled mechanism data, so it should be verified against DrugBank.
 
-The link between the original and predicted indications is weak. Pain relief and the control of motor and vocal tics are unrelated clinical goals. The 99.46% score comes from graph-based pattern matching, and no trial or publication supports this drug-disease pair.
+Tourette syndrome involves dysregulated cortico-striato-thalamo-cortical circuits, mainly dopaminergic, with GABAergic and glutamatergic contributions. A link through opioid-system modulation of dopaminergic tone is speculative. Some opioid-modulating agents have been explored in tic disorders, but nothing supports meperidine specifically.
 
-Safety concerns make a favorable benefit-risk profile unlikely for a chronic neurodevelopmental condition without direct data. These include serotonin syndrome risk, seizure risk from the neurotoxic metabolite normeperidine, and dependence liability.
-
-TxGNN also predicted **trichotillomania** (score 99.39%, L5, Hold). That link looks mechanistically contradictory. Opioid antagonists such as naltrexone have been studied in that condition, while meperidine is an agonist.
+The high TxGNN score (99.46%) is a computational prediction only. The mechanistic rationale is weak, and the safety profile (serotonin syndrome risk with serotonergic agents, which are common in Tourette and comorbid psychiatric treatment; seizure risk from the neurotoxic metabolite normeperidine) is unfavorable for a chronic neuropsychiatric indication.
 
 ## Clinical Trial Evidence
 
@@ -68,40 +67,65 @@ Currently no related literature available.
 
 ## US Market Information
 
-The source lists 11 authorizations. The table shows the 3 unique authorization numbers among the first 5 records, since NDA021171 appears several times.
-
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| NDA021171 | DEMEROL (Hospira, Inc.) | Injection, solution | Not provided in source data |
-| ANDA088744 | Meperidine Hydrochloride (Hikma Pharmaceuticals USA Inc.) | Solution | Not provided in source data |
-| ANDA080445 | Meperidine Hydrochloride (Hikma Pharmaceuticals USA Inc.) | Injection | Not provided in source data |
+| NDA021171 | DEMEROL (Hospira, Inc.) | Injection, solution | Cancelled |
+| ANDA088744 | Meperidine Hydrochloride (Hikma) | Solution | Cancelled |
+| ANDA080445 | Meperidine Hydrochloride (Hikma) | Injection | Cancelled |
+| ANDA040331 | Meperidine Hydrochloride (Epic Pharma) | Tablet | Cancelled |
+| ANDA040893 | Meperidine Hydrochloride (Genus Lifesciences) | Tablet | Cancelled |
 
-An oral tablet form is also listed among the available dosage forms.
+All five authorizations are cancelled, and no approved indication text is available for any of them.
+
+## Cytotoxicity
+
+Not applicable. Meperidine is not an antineoplastic drug, so this section is omitted.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No warnings, contraindications, or interaction data were retrieved. The lack of interaction data likely reflects a data gap rather than an absence of interactions.
+- **Disease-level contraindication signals (from the knowledge graph, not label text)**: The knowledge graph links meperidine to many conditions, including:
+  - Neurological: epilepsy, basal ganglia disease, focal hand dystonia, blepharospasm
+  - Respiratory: COPD, respiratory failure, obstructive sleep apnea syndrome, sleep apnea syndrome, congenital central hypoventilation syndrome
+  - Hepatic and biliary: liver failure, liver disease, gallbladder disease, hyperbilirubinemia, Gilbert syndrome
+  - Endocrine: hypothyroidism, myxedema, Addison disease
+  - Other: peptic ulcer disease, benign prostatic hyperplasia, hypotensive disorder, substance abuse/dependence, sickle cell anemia, thrombophlebitis, angle-closure glaucoma
+- **Drug Interactions**: 100 interactions were found. Major-level examples include:
+  - Alvimopan
+  - Bupropion
+  - Morphine
+  - Lorcaserin
+  - Dolasetron
+  - Palonosetron
 
-The following concerns come from the mechanistic assessment, not from label data:
-- **Serotonin syndrome**: risk is higher with serotonergic co-medications.
-- **Seizure threshold**: the metabolite normeperidine is neurotoxic and can lower it.
-- **Dependence**: opioids carry dependence liability, which matters for chronic use.
+  Moderate-level examples include:
+  - Hyoscyamine
+  - Loperamide
+  - Atropine
+  - Glycopyrronium
+  - Cimetidine
+  - Naloxone
+  - Phentermine
+- **Mechanism-related risks (from the repurposing assessment)**: Serotonin syndrome with serotonergic agents, seizures from the metabolite normeperidine, and abuse liability.
+
+Please refer to the package insert for warnings and contraindications, which are not available in the compiled data.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on the model score alone (L5), with no trials or literature. The safety profile is unfavorable for a chronic condition. The trichotillomania prediction looks mechanistically contradictory.
+The prediction rests on a model score alone (Evidence Level L5), with no clinical trials or publications. The mechanistic link is speculative, the safety profile (serotonin syndrome, normeperidine neurotoxicity, abuse liability, many contraindication signals) is unfavorable for a chronic indication, and all US licenses are cancelled. Tourette syndrome is a chronic condition, so these safety concerns weigh heavily.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications, which block safety screening
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
-- Any preclinical or clinical evidence linking meperidine to tic disorders
-- Comparison against existing Tourette syndrome treatments for benefit-risk
-- A full drug interaction check, especially for serotonergic drugs
+- Original approved indication text
+- Preclinical or mechanistic evidence for a role in tic disorders
+- A review of safer alternatives within the same predicted-indication space
 
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
+---
+
+*Additional predicted indication (for reference):* The second-ranked prediction, **trichotillomania** (TxGNN score 99.39%), is also Evidence Level L5 with no trials or literature, and is likewise on Hold. Its biological rationale is weak or even contradictory, because a mu-opioid agonist acts opposite to the opioid-antagonist approach (naltrexone) studied for this condition, and the same safety concerns apply.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

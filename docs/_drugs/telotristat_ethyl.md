@@ -29,80 +29,72 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Telotristat Ethyl: From Carcinoid Syndrome Diarrhea to Cauda Equina Syndrome
+# Telotristat Ethyl: From Diarrheal Disease to Cauda Equina Syndrome
 
 ## One-Sentence Summary
 
-Telotristat ethyl is a tryptophan hydroxylase inhibitor marketed in the US as Xermelo for carcinoid syndrome diarrhea. The TxGNN model predicts it may be effective for **cauda equina syndrome**. This prediction rests on the model score alone, with **0 clinical trials** and **0 publications** supporting it.
-
----
+Telotristat ethyl was originally used to treat diarrheal disease (in the US it was marketed as Xermelo).
+The TxGNN model predicts it may be effective for **Cauda Equina Syndrome**,
+but there are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the computational model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Carcinoid syndrome diarrhea (from general pharmacology knowledge; the license records provide no indication text) |
+| Original Indication | Diarrheal disease |
 | Predicted New Indication | Cauda equina syndrome |
 | TxGNN Prediction Score | 99.38% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 2 (both records share NDA208794) |
+| US Market Status | Cancelled only (no currently valid authorization) |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. From general pharmacology, telotristat ethyl inhibits tryptophan hydroxylase, which lowers peripheral serotonin synthesis. That is why it works for carcinoid syndrome diarrhea.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacological knowledge, telotristat ethyl is a tryptophan hydroxylase inhibitor that reduces peripheral serotonin synthesis, which is how it helps control diarrhoea.
 
-The link to cauda equina syndrome is weak. Cauda equina syndrome is mainly a compressive, surgical neurological problem affecting the lumbosacral nerve roots. Lowering peripheral serotonin is unlikely to relieve nerve root compression, and the drug has limited CNS penetration.
+No established biological link was identified between lowering peripheral serotonin and cauda equina syndrome. Cauda equina syndrome is a compressive injury of the lumbosacral nerve roots. The drug is not expected to cross the blood-brain barrier appreciably and would not be expected to relieve nerve root compression.
 
-The high score may reflect proximity in the knowledge graph. Cauda equina syndrome involves bowel and bladder dysfunction, and serotonin pathways touch gut and visceral function. That is a network association, not evidence of a disease-modifying effect. The prediction should be treated as a hypothesis only.
+The high score (0.994) is a computational prediction only. It may reflect graph proximity through shared bowel and bladder dysfunction features rather than a true therapeutic mechanism. The prediction should be treated as a hypothesis, not as evidence of efficacy.
 
----
+A second prediction, "obsolete neurogenic bladder (disease)" (score 99.15%), is also at the model-prediction-only stage. Serotonin signalling does play a role in bladder and bowel function, so a speculative link is conceivable, but no supporting data exist. The term is also obsolete in the ontology and should be mapped to a current term (e.g., neurogenic lower urinary tract dysfunction) before any further assessment.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
-
----
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA208794 | Xermelo (Lexicon Pharmaceuticals, Inc.) | Tablet | Not listed in the license record |
-| NDA208794 | Xermelo (TerSera Therapeutics LLC) | Tablet | Not listed in the license record |
-
-The only route of administration on record is oral.
-
----
+| NDA208794 (cancelled) | Xermelo (Lexicon Pharmaceuticals, Inc.) | Tablet (oral) | Not listed |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug-interaction records were found for this drug.
+- **Drug Interactions**: 100 interactions were found in the interaction database; the 19 below are the ones listed in the data compiled for this report, all rated Moderate:
+  - Corticosteroids: hydrocortisone, triamcinolone, dexamethasone, betamethasone, prednisone
+  - Antiemetics and related agents: aprepitant, rolapitant, ondansetron, granisetron
+  - Other: bupropion, clarithromycin, saxagliptin, linagliptin, eliglustat, naldemedine, naloxegol, nitisinone, repaglinide, simvastatin, cisapride
 
----
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is model-only (L5), with no trials or publications behind it. The proposed mechanism does not plausibly address nerve root compression. The second predicted indication, "obsolete neurogenic bladder (disease)", is also model-only and points to an outdated ontology term.
+The prediction has no supporting clinical trials or literature (evidence level L5), and no plausible mechanism links peripheral serotonin reduction to nerve root compression. The only US authorization is cancelled. The model score alone is not enough to justify moving forward.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data from DrugBank
-- A literature and trial search for telotristat ethyl in cauda equina syndrome and in neurogenic lower urinary tract dysfunction
-- Remapping of the obsolete neurogenic bladder term to a current concept, if that indication is pursued
-- A plausibility review of the mechanism, including CNS penetration, before any further investment
+- Mechanism of action data, and a mechanistic rationale connecting the drug to cauda equina syndrome
+- Package insert warnings and contraindications (currently missing, which blocks safety screening)
+- Any preclinical or clinical evidence in the predicted indication
+- For the neurogenic bladder prediction, remapping to a current disease term and a fresh evidence search
+- Clarification of the cancelled US market status and route compatibility for the new indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

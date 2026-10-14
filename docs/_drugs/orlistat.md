@@ -33,31 +33,33 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 ## One-Sentence Summary
 
-Orlistat is an oral lipase inhibitor sold as Xenical and alli, a drug for weight management. The indication text is not included in the supplied licence records.
-The TxGNN model predicts it may be effective for **hypervitaminosis**, but this is a model prediction only, with **0 clinical trials** and **0 publications** supporting it.
+Orlistat is a lipase inhibitor originally used to treat obesity, including monogenic obesity.
+The TxGNN model predicts it may be effective for **hypervitaminosis**,
+but there are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction is based on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Obesity / weight management (the licence records supplied contain no indication text) |
+| Original Indication | Obesity disorder; monogenic obesity |
 | Predicted New Indication | Hypervitaminosis |
 | TxGNN Prediction Score | 99.42% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 4 licence entries (2 distinct NDA numbers) |
+| US Market Status | Cancelled only (no currently valid authorizations) |
+| Number of NDAs | 2 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Orlistat is a reversible inhibitor of gastric and pancreatic lipases. It reduces intestinal absorption of dietary fat by about 30%. Fat-soluble vitamins (A, D, E, K) are absorbed together with dietary fat, so orlistat also lowers their absorption. This is a known adverse effect that can cause vitamin deficiency, and labeling recommends multivitamin supplementation.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacological knowledge, orlistat is a gastric and pancreatic lipase inhibitor that reduces dietary fat absorption by roughly 30%.
 
-In theory, less absorption could limit further accumulation in hypervitaminosis from fat-soluble vitamins, mainly A and D. This link is speculative, for three reasons:
-- Toxicity usually comes from excess supplementation, and the standard fix is to stop the source.
-- Vitamin already stored in liver and adipose tissue is not affected by blocking new absorption.
-- The mechanism does not apply to excess of water-soluble vitamins.
+Fat-soluble vitamins (A, D, E, K) are absorbed together with dietary fat, so reduced fat absorption could in theory lower their uptake. This gives a plausible but purely theoretical rationale for fat-soluble vitamin excess.
 
-The high TxGNN score is a knowledge-graph prediction only. Detailed mechanism-of-action data and original indications are not available in the DrugBank record, so the prediction cannot be cross-checked against a known mechanism. The score may reflect a graph association with vitamin absorption (an adverse effect) rather than a real therapeutic rationale.
+There are important limits to this reasoning:
+- Lowering vitamin absorption is generally regarded as an **adverse effect** of orlistat (risk of vitamin deficiency), not a therapeutic benefit.
+- It would not apply to excess of water-soluble vitamins.
+- It would not address excess from non-dietary sources, such as injected or supplemental vitamins.
+- The very high TxGNN score (99.42%) is a computational prediction only and is not backed by clinical or literature evidence.
 
 ## Clinical Trial Evidence
 
@@ -71,33 +73,32 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA020766 | ORLISTAT (H2-Pharma LLC) | Capsule | Not listed in supplied records |
-| NDA020766 | Xenical (H2-Pharma LLC) | Capsule | Not listed in supplied records |
-| NDA021887 | ALLI (Haleon US Holdings LLC) | Capsule | Not listed in supplied records |
-| NDA021887 | ALLI (Aphena Pharma Solutions - Tennessee, LLC) | Capsule | Not listed in supplied records |
-
-All products are oral capsules.
+| NDA020766 | ORLISTAT (H2-Pharma LLC) | Capsule | Not listed; status: cancelled |
+| NDA021887 | ALLI (Aphena Pharma Solutions - Tennessee, LLC) | Capsule | Not listed; status: cancelled |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindications flagged in the knowledge graph** (these come from drug-disease relationships in the TxGNN knowledge graph, not from label text): liver failure, primary hyperoxaluria, anorexia nervosa, bulimia nervosa, vitamin deficiency disorder, cholestasis, benign recurrent intrahepatic cholestasis, familial intrahepatic cholestasis, drug-induced liver injury.
+  - Vitamin deficiency disorder is especially relevant here, because the proposed use depends on lowering vitamin absorption.
+- **Drug Interactions**: 100 interactions were found in total. The first 20 returned are mostly Moderate, with a few Minor. Examples:
+  - Moderate: abacavir, lamivudine, emtricitabine, atazanavir, acarbose, albiglutide, alogliptin, canagliflozin, metformin, chlorpropamide, amiodarone, cannabidiol, asparaginase products, brentuximab vedotin, calaspargase pegol, clofarabine
+  - Minor: cholecalciferol, calcifediol, calcitriol
 
-One point does follow from the mechanism. Orlistat reduces absorption of fat-soluble vitamins (A, D, E, K), so the drug can itself cause vitamin deficiency. This runs against using it in patients who are otherwise at risk of deficiency.
+For package-insert warnings, please refer to the official label.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on the model score alone, with no registered trials or publications. The proposed mechanism is speculative. Stopping the vitamin source already addresses the cause, and orlistat does not clear vitamin already stored in the body.
+The prediction rests only on a model score, with no clinical trials or literature (Evidence Level L5). The proposed mechanism, reduced fat-soluble vitamin absorption, is a known adverse effect of orlistat rather than an established benefit. Both US authorizations are cancelled.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (currently a blocking gap for safety screening)
-- Mechanism-of-action data from DrugBank to allow proper mechanistic cross-checking
-- Preclinical or observational data showing that reduced fat-soluble vitamin absorption changes vitamin levels or outcomes in hypervitaminosis
-- Comparison against standard management (stopping supplementation, supportive care) to define any realistic added benefit
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Clinical or literature evidence for orlistat in fat-soluble vitamin excess
+- Detailed mechanism of action data
+- FDA package insert warnings and contraindications
+- Assessment of whether lowering vitamin absorption can be done safely, given the contraindication for vitamin deficiency disorder
+- Clarification of the regulatory pathway, since no US authorizations are currently valid
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -33,67 +33,82 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Fluorescein is a diagnostic dye used in ophthalmic and angiographic imaging, not a therapeutic drug.
-The TxGNN model predicts it may be effective for **Prinzmetal angina**, but this is a computational prediction only, with **0 clinical trials** and **0 publications** supporting it.
+Fluorescein is a diagnostic fluorescent dye used in ophthalmic angiography and ocular surface staining, not a treatment for disease.
+The TxGNN model predicts it may be effective for **Prinzmetal angina**, but **no clinical trials** and **no supporting publications** exist for this prediction.
+The prediction is graph-based only, and the evidence does not support a therapeutic role.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the license records (described as a diagnostic ophthalmic/angiographic dye) |
+| Original Indication | Diagnostic use (ophthalmic angiography and ocular surface staining); no approved indication text is available in the compiled data |
 | Predicted New Indication | Prinzmetal angina |
 | TxGNN Prediction Score | 99.81% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 13 |
+| US Market Status | Cancelled only (no currently valid authorizations) |
+| Number of NDAs | 6 (all cancelled) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Fluorescein is a diagnostic dye for ophthalmic and angiographic use. It works as a fluorescent marker, not as a treatment.
+Detailed mechanism of action data is not available for this drug. Fluorescein is a fluorescent dye used diagnostically, chiefly to visualize retinal and choroidal vasculature (angiography) and to reveal corneal and conjunctival surface damage (staining). It is not known to act on a therapeutic target.
 
-No mechanistic link to Prinzmetal angina was identified. Fluorescein has no known vasodilatory or anti-vasospastic activity, and Prinzmetal angina is driven by coronary artery vasospasm. The high score most likely reflects a knowledge-graph artifact rather than a real pharmacological relationship.
+For Prinzmetal angina, no mechanistic link could be identified. Prinzmetal angina is caused by coronary vasospasm, and fluorescein has no known vasodilatory or anti-vasospastic activity. The high TxGNN score most likely reflects network proximity in the knowledge graph rather than a real pharmacological relationship.
 
-The same pattern appears in the other top-10 predictions (for example, coagulation-factor deficiencies and thrombophilia). Where any evidence was retrieved, it describes fluorescein as a diagnostic imaging tool, not a treatment.
+The other top-ranked predictions show the same pattern. These include antithrombin deficiency type 2, factor 5 excess with spontaneous thrombosis, heparin cofactor 2 deficiency, and partial deletion of the short arm of chromosome 16. None has any trial or publication linking it to fluorescein. For rheumatoid arthritis, hemoglobinopathy, thrombophilia, and hyperthyroidism, the retrieved literature describes ocular complications of these diseases in which fluorescein is a diagnostic tool, so it does not support a therapeutic indication.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for Prinzmetal angina.
+
+Literature was retrieved for other lower-ranked predictions, but it concerns fluorescein as a diagnostic tool (for example, in sickle cell retinopathy or dry eye in rheumatoid arthritis), not as a treatment.
+
+---
 
 ## US Market Information
 
-The five main authorizations are listed below. The records provide no approved-indication text.
-
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA 021980 | FLUORESCITE | Injection, solution | Alcon, Inc. |
-| ANDA 215709 | Fluorescein | Injection | Nexus Pharmaceuticals LLC |
-| NDA 022186 | AK-FLUOR | Injection | Long Grove Pharmaceuticals, LLC |
-| N/A | Fluorescein Sodium Ophthalmic Strips | Strip | Vistamerica USA |
-| N/A | GloStrips | Strip | Nomax Inc. |
+| NDA021980 | FLUORESCITE (Alcon) | Injection, solution | Not available (cancelled) |
+| ANDA215709 | Fluorescein (Nexus Pharmaceuticals) | Injection | Not available (cancelled) |
+| NDA022186 | AK-FLUOR (Long Grove Pharmaceuticals) | Injection | Not available (cancelled) |
+| NDA211039 | Fluorescein Sodium and Benoxinate Hydrochloride (Bausch & Lomb) | Solution/drops | Not available (cancelled) |
+| NDA208582 | ALTAFLUOR (Altaire Pharmaceuticals) | Solution | Not available (cancelled) |
+
+A sixth authorization, for fluorescein sodium ophthalmic strips (Vistamerica USA), is also cancelled.
+
+---
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trials, no literature, and no plausible mechanism, so the evidence level is L5 (model prediction only). Fluorescein is a diagnostic dye with no known anti-vasospastic activity, and the high TxGNN score alone does not justify further investment.
+The prediction rests only on a graph-based score. There are no clinical trials, no supporting literature, and no plausible mechanism linking a diagnostic dye to coronary vasospasm. All US authorizations are cancelled, and package insert safety data are missing.
 
 **To proceed, the following is needed:**
-- Mechanism of action data (MOA) and a plausible pharmacological link to coronary vasospasm
-- Package insert warnings and contraindications, to allow a safety screen
-- Preclinical or clinical evidence showing therapeutic activity, not diagnostic use
-- Route compatibility assessment (current products are injectable or ophthalmic strips only)
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical application.*
+- Mechanism of action data (for example, from DrugBank)
+- Package insert warnings and contraindications from FDA
+- Any preclinical or clinical evidence of a therapeutic effect in Prinzmetal angina, which is currently absent
+- Confirmation of whether a therapeutic (rather than diagnostic) role is pharmacologically credible before further investment
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

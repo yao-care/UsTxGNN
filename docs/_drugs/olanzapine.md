@@ -29,33 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Olanzapine: From Antipsychotic Use to Benign Paroxysmal Torticollis of Infancy
+# Olanzapine: From Bipolar Disorder and Schizophrenia to Benign Paroxysmal Torticollis of Infancy
 
 ## One-Sentence Summary
 
-Olanzapine is an atypical antipsychotic that is widely marketed in the United States.
-The TxGNN model predicts it may be effective for **benign paroxysmal torticollis of infancy**, but **0 clinical trials** and **0 publications** currently support this direction, so the prediction rests on the model score alone.
+Olanzapine is an antipsychotic originally used for schizophrenia, bipolar disorder, depressive disorders and anxiety disorders.
+The TxGNN model predicts it may be effective for **benign paroxysmal torticollis of infancy**, but there are **0 clinical trials** and **0 publications** supporting this prediction, so it rests on the model score alone.
+Two other predictions, agoraphobia (6 publications) and dysthymic disorder (5 publications), have more supporting literature and are summarised in the closing section.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Schizophrenia, bipolar disorder, major depressive disorder and anxiety disorder (from the knowledge-graph indication list; no approved-indication text was available in the US licence records) |
 | Predicted New Indication | Benign paroxysmal torticollis of infancy |
 | TxGNN Prediction Score | 99.54% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 licenses (the five listed below are ANDAs) |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no currently valid licences) |
+| Number of NDAs | 10 (all cancelled; all are generic applications, ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the Evidence Pack. Olanzapine is known to antagonize dopamine D2 and serotonin 5-HT2A receptors.
+Currently, detailed mechanism of action data is not available. Olanzapine is known as a multi-receptor antagonist (dopamine D2, serotonin 5-HT2A, histamine H1 and muscarinic receptors), but this was not confirmed in the data compiled for this report, so no mechanistic validation is possible here.
 
-Benign paroxysmal torticollis of infancy is considered a migraine-equivalent, channelopathy-related disorder, often linked to CACNA1A. No direct mechanistic link between D2/5-HT2A antagonism and this condition has been established, so the connection is speculative.
+Benign paroxysmal torticollis of infancy is a rare, self-limiting childhood disorder. It is thought to belong to the migraine spectrum and has been linked to channelopathies (for example, CACNA1A). No established mechanistic link exists between olanzapine's receptor profile and this condition.
 
-Two further points argue against pursuing this prediction without a clearer rationale:
-- The disease affects only infants.
-- Olanzapine has known metabolic and sedative liabilities.
+There is also a safety concern in the opposite direction. Antipsychotics can cause dystonic reactions and extrapyramidal effects, which could mimic or worsen torticollis in infants. The very high score (0.995) is a graph-based prediction only and should be treated with caution.
 
 ## Clinical Trial Evidence
 
@@ -67,44 +67,46 @@ Currently no related literature available.
 
 ## US Market Information
 
-The listed licenses do not include approved indication text.
+All 10 US records are cancelled generic applications. No approved-indication text was available.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA203708 | Olanzapine | Orally disintegrating tablet | Aurobindo Pharma Limited |
-| ANDA204319 | Olanzapine | Tablet | Qilu Pharmaceutical Co., Ltd. |
-| ANDA091265 | Olanzapine | Orally disintegrating tablet | Golden State Medical Supply, Inc. |
-| ANDA076133 | Olanzapine | Film-coated tablet | American Health Packaging |
-| ANDA203044 | Olanzapine | Orally disintegrating tablet | Macleods Pharmaceuticals Limited |
-
-All available forms are oral.
+| ANDA203708 | Olanzapine (Aurobindo Pharma) | Orally disintegrating tablet | Not available |
+| ANDA204319 | Olanzapine (Qilu Pharmaceutical) | Tablet | Not available |
+| ANDA091265 | Olanzapine (Golden State Medical Supply) | Orally disintegrating tablet | Not available |
+| ANDA076133 | Olanzapine (American Health Packaging) | Film-coated tablet | Not available |
+| ANDA203044 | Olanzapine (Macleods Pharmaceuticals) | Orally disintegrating tablet | Not available |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Disease-related cautions (from the knowledge graph, not label text):** The knowledge graph links olanzapine to contraindication or caution signals in the following groups. This is not package-insert wording.
+  - Cardiovascular and circulatory: orthostatic hypotension, postural orthostatic tachycardia syndrome, hypotensive disorder, multiple system atrophy, stroke and cerebrovascular disorders, cerebral infarction, myocardial infarction, coronary thrombosis
+  - Metabolic: diabetes mellitus, hyperglycemia, diabetic ketoacidosis, hyperlipidemia, familial hyperlipidemia, hypertriglyceridemia, obesity disorders
+  - Liver and gallbladder: liver failure, liver disease, cirrhosis, gallbladder disease
+  - Blood: neutropenia, agranulocytosis, blood coagulation disease
+  - Other: epilepsy, benign prostatic hyperplasia, female breast carcinoma, bipolar disorder and major affective disorder
+- **Drug Interactions:** 100 interactions were found. The ones listed here are examples only.
+  - Major: bupropion, morphine, potassium citrate
+  - Moderate (examples): acarbose, famotidine, epinephrine, metformin, clarithromycin, atropine, loperamide
+- **Specific concern for this prediction:** Risk of dystonic and extrapyramidal reactions in infants.
+
+For package-insert warnings and contraindications, please refer to the current labelling, as these were not available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a high model score but no trials, no literature, and only a speculative mechanistic link. The infant-only population and olanzapine's metabolic and sedative liabilities make it unattractive without a clear rationale.
+The prediction has a very high model score but no clinical trials, no literature and no plausible mechanistic link. The condition affects infants, and the drug may cause dystonic reactions that could worsen the symptoms. All US licences are also cancelled.
 
 **To proceed, the following is needed:**
-- A credible mechanistic rationale linking olanzapine to this disorder
-- Any supporting clinical or preclinical evidence
-- The FDA package insert warnings and contraindications, which are currently missing and block safety screening
-- Mechanism of action data from DrugBank
-- Pediatric safety assessment for infants
+- Mechanism of action data for olanzapine, and any biological rationale linking it to this condition
+- FDA package-insert warnings and contraindications, especially for paediatric use
+- Any clinical or preclinical evidence in this condition (none was found)
 
-**Other candidates in the same prediction set:**
-Two other predicted indications have more evidence (L3, "Research Question"):
-- **Agoraphobia** (TxGNN score 99.47%): one small open-label olanzapine augmentation trial in treatment-resistant panic disorder, plus case reports and systematic reviews.
-- **Dysthymic disorder** (TxGNN score 99.28%): one small open-label study in borderline personality disorder with comorbid dysthymia, plus a class-level systematic review. No dysthymia-specific randomized evidence for olanzapine was found.
-
-Both would be better starting points for further evaluation than the top-ranked prediction.
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+**Note on the other predictions:**
+- **Agoraphobia (score 99.47%, evidence level L3):** The evidence includes a 12-week open-label trial of olanzapine augmentation in SSRI-resistant panic disorder (31 patients; PMID 16415705), two case reports and two systematic reviews. There is no randomised evidence, and agoraphobia outcomes are not separated from panic disorder. This is best treated as a research question.
+- **Dysthymic disorder (score 99.28%, evidence level L3):** The evidence is indirect: a Cochrane review of second-generation antipsychotics in major depression and dysthymia (PMID 21154393), a small open-label study in borderline personality disorder with dysthymia, and reviews of other drugs. There are no dysthymia-specific RCTs of olanzapine. Metabolic risk with long-term use is a concern. This is also best treated as a research question.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,92 +29,87 @@ Evidence Level: **L4** | Predicted Indications: **1**
 
 </div>
 
-# Apixaban: From Anticoagulation (Thromboembolism Prevention) to Migraine Disorder
+# Apixaban: From Anticoagulation to Migraine Disorder
 
 ## One-Sentence Summary
 
-Apixaban is an oral direct factor Xa inhibitor (anticoagulant) that is marketed in the US.
-The TxGNN model predicts it may be effective for **migraine disorder**, but the supporting evidence is weak: **1 indirectly related clinical trial** and **4 publications**, mostly case reports, with conflicting signals.
-
----
+Apixaban is an oral direct factor Xa inhibitor (anticoagulant). The TxGNN model predicts it may be effective for **migraine disorder**, but the supporting evidence is weak: **1 clinical trial** (indirect, in a stroke population) and **3 publications** (mostly case reports, two of which suggest apixaban did not help or made migraine worse).
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the source data; apixaban is an oral anticoagulant |
+| Original Indication | Not available in the data compiled for this report (approved indication text is empty in all US records) |
 | Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 99.02% |
 | Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| US Market Status | Cancelled only (no currently valid listings in the compiled data) |
+| Number of NDAs | 5 records (all cancelled; 2 NDAs and 3 ANDAs) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, apixaban is a direct factor Xa inhibitor used for anticoagulation. It has no known direct effect on migraine pathophysiology (CGRP signalling, cortical spreading depression, trigeminovascular activation).
+Detailed mechanism of action data is not available in the compiled data. Based on known pharmacology, apixaban is a direct factor Xa inhibitor that reduces thrombin generation and thrombus formation.
 
-The link between the original and predicted indications is speculative. One hypothesis is that migraine with aura may involve paradoxical microembolism (for example through a patent foramen ovale) or a prothrombotic state such as antiphospholipid antibodies. Anticoagulation could in theory modify either. The 99.02% TxGNN score is a knowledge-graph prediction only and is not confirmed by clinical data.
+The TxGNN score is very high (0.99), but it is a graph-based prediction and does not establish a mechanism. A plausible but unproven link is that migraine with aura has been associated with paradoxical embolism through patent foramen ovale (PFO), microthrombi, and a prothrombotic state, including antiphospholipid antibodies. In selected patients, anticoagulation might therefore reduce events.
 
-The available clinical signals are inconsistent. One case report describes aura worsening after starting apixaban. Another describes aura resolving on warfarin but not on apixaban. Together they argue against a class-wide anticoagulant benefit.
-
----
+The available case reports argue against a class-wide benefit. One describes migraine with aura worsening after starting apixaban. Another describes symptoms that did not respond to apixaban but resolved on warfarin. This points to, at best, a drug-specific or patient-specific effect. No established mechanism links factor Xa inhibition to core migraine pathophysiology (CGRP signaling, cortical spreading depression, trigeminovascular activation).
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00562289](https://clinicaltrials.gov/study/NCT00562289) | Phase 3 | Completed | 664 | Compares PFO closure vs anticoagulants vs antiplatelet therapy to prevent stroke recurrence. Migraine is not the primary condition or endpoint, and apixaban is not confirmed as the anticoagulant studied. Relevance grade C (indirect only). |
+| [NCT00562289](https://clinicaltrials.gov/study/NCT00562289) | Phase 3 | Completed | 664 | PFO closure or anticoagulants vs antiplatelet therapy to prevent stroke recurrence in patients with PFO and prior cryptogenic stroke. Migraine was not the primary condition or endpoint, and apixaban is not clearly the agent tested. It provides only indirect context for the PFO–migraine–stroke overlap. |
 
----
+No trial directly testing apixaban in migraine is included in the compiled data.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [33402037](https://pubmed.ncbi.nlm.nih.gov/33402037/) | 2021 | Retrospective study (75 patients) | Lupus | Antithrombotic therapy trials in refractory migraine with antiphospholipid antibodies. The abstract excerpt does not report results, and the specific drugs used (including apixaban) are not verified. |
-| [37582651](https://pubmed.ncbi.nlm.nih.gov/37582651/) | 2023 | Case report with literature review | The Neurologist | Migraine with aura worsened after starting apixaban. The review notes that literature on direct oral anticoagulants in migraine is scarce and controversial. |
-| [28960288](https://pubmed.ncbi.nlm.nih.gov/28960288/) | 2017 | Case report | Headache | A 55-year-old woman had 12 years of remission of migraine with aura on warfarin. Symptoms returned within 3 weeks of switching to apixaban and resolved again within days of resuming warfarin. |
-| [29611190](https://pubmed.ncbi.nlm.nih.gov/29611190/) | 2018 | Case report | Headache | Vestibular migraine resolved on warfarin and topiramate. Apixaban was not the effective agent. |
-
----
+| [33402037](https://pubmed.ncbi.nlm.nih.gov/33402037/) | 2021 | Retrospective study (75 patients) | Lupus | Antithrombotic therapy in refractory migraine with antiphospholipid antibodies. Whether apixaban was tested and the exact design need full-text verification. |
+| [28960288](https://pubmed.ncbi.nlm.nih.gov/28960288/) | 2017 | Case report | Headache | Migraine with aura was in remission for 12 years on warfarin, returned within 3 weeks of switching to apixaban, and resolved again after resuming warfarin. |
+| [37582651](https://pubmed.ncbi.nlm.nih.gov/37582651/) | 2023 | Case report with literature review | The Neurologist | Migraine with aura worsened after starting apixaban. The literature on direct oral anticoagulants and migraine is described as scarce and controversial. |
 
 ## US Market Information
 
+All five records in the compiled data are cancelled, and no approved indication text was available.
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA202155 | ELIQUIS (Cardinal Health 107, LLC) | Tablet, film coated | Not listed in source data |
-| NDA202155 | ELIQUIS (E.R. Squibb & Sons, L.L.C.) | Tablet, for suspension | Not listed in source data |
-| NDA202155 | ELIQUIS (A-S Medication Solutions) | Tablet, film coated | Not listed in source data |
-| NDA202155 | ELIQUIS (E.R. Squibb & Sons, L.L.C.) | Tablet, film coated | Not listed in source data |
-| NDA202155 | ELIQUIS (A-S Medication Solutions) | Tablet, film coated | Not listed in source data |
-
-The record lists 20 licenses in total, and the five above are the main ones shown. All are oral products.
-
----
+| NDA202155 | ELIQUIS (Cardinal Health 107) | Film-coated tablet | Not available |
+| ANDA210067 | Apixaban (Macleods) | Film-coated tablet | Not available |
+| ANDA209810 | Apixaban (Amneal) | Film-coated tablet | Not available |
+| NDA220073 | ELIQUIS SPRINKLE (E.R. Squibb & Sons) | Capsule | Not available |
+| ANDA209898 | Apixaban (Indoco Remedies) | Film-coated tablet | Not available |
 
 ## Safety Considerations
 
-- **Clinical signal in migraine:** One case report (PMID 37582651) describes migraine with aura worsening after starting apixaban. This is an isolated report and causality is not established.
+Package insert warnings and contraindications were not available in the compiled data, so please refer to the package insert for safety information.
 
-Please refer to the package insert for warnings, contraindications and drug interaction information.
+**Drug Interactions:** The interaction query returned 100 records; 20 were reviewed here. The main **Major** interactions are:
+- Acetylsalicylic acid (aspirin)
+- Cobicistat
+- Deferasirox
+- Ibritumomab tiuxetan
+- Tositumomab and Tositumomab (I-131)
 
----
+Several **Moderate** interactions were also listed, including clarithromycin, dexamethasone, aprepitant, rolapitant, clotrimazole, miconazole, eliglustat, fenfluramine, dexfenfluramine, sibutramine, troglitazone, sugammadex, and radioiodine (I-123 and I-131).
+
+Because apixaban is an anticoagulant, bleeding risk is the central concern with any co-medication. Migraine patients commonly use NSAIDs and aspirin, which makes the aspirin interaction directly relevant.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The high TxGNN score is not backed by clinical evidence. The only completed Phase 3 trial is indirect (stroke prevention in a PFO population), and the migraine literature consists of case reports with conflicting direction, including one report of worsening on apixaban. The mechanistic link is speculative.
+The high TxGNN score rests on model prediction alone. Direct clinical evidence is absent, and the only apixaban-specific reports are two case reports suggesting no benefit or possible worsening. There is also no plausible mechanistic link. The safety label data is missing, and the US listings are all cancelled.
 
 **To proceed, the following is needed:**
-- Apixaban mechanism of action and original indication data (DrugBank), to allow a proper mechanistic-link analysis
-- FDA package insert warnings and contraindications, which is a blocking gap for safety screening
-- Verification of which antithrombotic agents were used in the antiphospholipid antibody migraine study (PMID 33402037), and confirmation of the anticoagulant in NCT00562289
-- Any controlled or prospective data on apixaban in migraine, in particular migraine with aura in PFO or antiphospholipid antibody subgroups
+- FDA package insert warnings, contraindications, and approved indications
+- Mechanism of action data and a testable hypothesis linking factor Xa inhibition to migraine
+- Full-text review of the antiphospholipid antibody study (PMID 33402037) to confirm whether apixaban was used and what outcomes were seen
+- A defined target subgroup (e.g., migraine with aura plus PFO or antiphospholipid antibodies) and a bleeding-risk assessment before any prospective study
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

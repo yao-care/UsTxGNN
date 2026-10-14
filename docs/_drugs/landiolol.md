@@ -29,31 +29,41 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Landiolol: From Rapid Heart-Rate Control to Lingual-Facial-Buccal Dyskinesia
+# Landiolol: From Supraventricular Tachycardia to Lingual-Facial-Buccal Dyskinesia
 
 ## One-Sentence Summary
 
-Landiolol is an ultra-short-acting intravenous beta-1 selective blocker, marketed in the US as RAPIBLYK. The TxGNN model predicts it may be effective for **lingual-facial-buccal dyskinesia**, but **0 clinical trials** and **0 publications** support this, so the prediction rests on the model score alone.
+Landiolol is an ultra-short-acting, highly beta-1-selective adrenergic blocker given intravenously, used for supraventricular tachycardia (atrial fibrillation and atrial flutter).
+The TxGNN model predicts it may be effective for **lingual-facial-buccal dyskinesia**,
+but currently there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction is model-only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in the source data (the class is IV beta-blockers for rapid heart-rate control) |
+| Original Indication | Supraventricular tachycardia (atrial fibrillation and atrial flutter), based on pharmacology data; the approved indication text is not listed in the US license record |
 | Predicted New Indication | Lingual-facial-buccal dyskinesia |
 | TxGNN Prediction Score | 99.11% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 2 license entries (both under NDA217202, from two manufacturers) |
+| US Market Status | Cancelled only |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the source record. Based on known pharmacology, landiolol is a hydrophilic, beta-1 selective adrenergic blocker given intravenously. It has an ultra-short duration of action and limited CNS penetration.
+Landiolol selectively blocks the beta-1 adrenergic receptor (about 250-fold selectivity over beta-2) and has a very short half-life. Currently, detailed mechanism of action data is not available in the compiled data, so no mechanistic validation is possible.
 
-The prediction is weakly supported. Lipophilic, non-selective beta-blockers such as propranolol have been reported for tardive and orofacial dyskinesia, which may explain the high graph score. Landiolol differs from them in selectivity, lipophilicity and route. Because its mechanism is undocumented in the record, the score cannot be checked against a known mechanism.
+The link to orofacial dyskinesia comes purely from the knowledge-graph prediction. Other beta-blockers, such as propranolol, have been used for some drug-induced movement disorders (for example akathisia). However, propranolol is non-selective and enters the brain, whereas landiolol is beta-1 selective, acts mainly in the periphery, and has minimal CNS penetration. There is no evidence that it would affect orofacial dyskinesia, so the prediction is probably a class-level association rather than a true landiolol-specific mechanism.
 
-The other predictions (chronic tic disorder, psychogenic movement disorders, extrapyramidal and movement disease, benign shuddering attacks, primary orthostatic tremor) all score 0.990–0.991 and share the same weaknesses. All have L5 evidence, and none has trial or literature support. Several of these conditions are chronic, oral-treatment, non-drug-managed or self-limited, which fits poorly with an IV-only, short-acting agent.
+**Other predicted indications (all L5, all Hold):**
+
+| Rank | Predicted Indication | TxGNN Score | Comment |
+|------|------|------|------|
+| 2 | Chronic tic disorder | 99.08% | Tics involve cortico-striatal-thalamo-cortical and dopaminergic circuits; peripheral beta-1 blockade has no established rationale |
+| 3 | Psychogenic movement disorders | 99.05% | Managed mainly with physiotherapy and CBT; an IV-only drug is poorly suited to a chronic condition |
+| 4 | Extrapyramidal and movement disease | 99.04% | Broad category; score likely reflects beta-blocker class association |
+| 5 | Benign shuddering attacks | 99.04% | Rare, self-limiting pediatric condition; unfavorable benefit-risk for an IV beta-blocker |
+| 6 | Primary orthostatic tremor | 99.00% | Usually treated with clonazepam, gabapentin or primidone; beta-blockers are generally ineffective |
 
 ## Clinical Trial Evidence
 
@@ -67,27 +77,28 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA217202 | RAPIBLYK (AOP Orphan Pharmaceuticals GmbH) | Injection, powder, lyophilized, for solution | Not listed in the source record |
-| NDA217202 | RAPIBLYK (AOP Health US, LLC) | Injection, powder, lyophilized, for solution | Not listed in the source record |
+| NDA217202 | RAPIBLYK (AOP Orphan Pharmaceuticals GmbH) | Injection, powder, lyophilized, for solution | Not listed in the license record (status: cancelled) |
 
 ## Safety Considerations
 
-- **Drug Interactions**: The DDI query returned no records (0 interactions found). This is not evidence of no interactions.
+- **Drug Interactions**: No drug-drug interactions were identified. The interaction query returned only pharmacological target data: landiolol acts on the beta-1 adrenoceptor (ADRB1) and the beta-2 adrenoceptor (ADRB2), with about 250-fold selectivity for beta-1.
+- **Route of administration**: Landiolol is an intravenous drug used in critical care settings, which limits its suitability for chronic movement disorders.
 
-Please refer to the package insert for warnings and contraindications.
+Please refer to the package insert for warnings and contraindications, as these were not available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a high model score but no trial or literature evidence (L5). It has a weak mechanistic rationale, since landiolol is IV-only, short-acting, beta-1 selective and peripherally restricted. The proposed conditions are mostly chronic or non-pharmacologically managed.
+The prediction is supported only by the model score (L5). There are no clinical trials or publications, the mechanism is not validated, and landiolol's beta-1 selectivity, minimal CNS penetration, ultra-short half-life and IV-only use make it a poor fit for chronic movement disorders. The US license record also shows only a cancelled status.
 
 **To proceed, the following is needed:**
-- The US package insert (warnings, contraindications, approved indication), which is a blocking gap for safety screening
-- Mechanism of action data from DrugBank
-- A literature and trial search for beta-blockers in dyskinesia and tic disorders, to test the class-level link
-- An assessment of route compatibility (IV-only versus chronic or oral needs)
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism of action data (for example from DrugBank)
+- Preclinical or clinical evidence that beta-1-selective blockade affects orofacial dyskinesia or other movement disorders
+- Assessment of route compatibility, since only an IV formulation exists
+- Clarification of the current US marketing status of RAPIBLYK
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

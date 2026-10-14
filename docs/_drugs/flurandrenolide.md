@@ -29,30 +29,44 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Flurandrenolide: From Topical Corticosteroid-Responsive Skin Conditions to Vulvar Inverted Follicular Keratosis
+# Flurandrenolide: From Inflammatory Skin Conditions to Vulvar Inverted Follicular Keratosis
 
 ## One-Sentence Summary
 
-Flurandrenolide is a medium-potency topical corticosteroid marketed in the US as tape, cream, and lotion. The supplied data lists no approved-indication text.
-The TxGNN model predicts it may be effective for **vulvar inverted follicular keratosis**, but there are currently **0 clinical trials** and **0 publications** supporting this direction. The prediction is model-only (Evidence Level L5).
+Flurandrenolide is a topical corticosteroid, originally used for inflammatory and eczematous skin conditions such as atopic dermatitis, contact dermatitis, seborrheic dermatitis and lichen disease.
+The TxGNN model predicts it may be effective for **vulvar inverted follicular keratosis**, but currently there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the supplied US license data (topical corticosteroid class, generally used for inflammatory skin conditions) |
+| Original Indication | Inflammatory skin diseases, including atopic eczema, contact dermatitis, seborrheic dermatitis, granuloma annulare, neurodermatitis, lichen disease, lupus erythematosus (discoid/chronic cutaneous) and primary cutaneous T-cell lymphoma (the US approved-indication text was not available) |
 | Predicted New Indication | Vulvar inverted follicular keratosis |
 | TxGNN Prediction Score | 99.71% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 6 |
+| US Market Status | Cancelled only (no currently valid authorization) |
+| Number of NDAs | 3 (all cancelled; includes 1 ANDA) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, flurandrenolide is a topical corticosteroid. Its anti-inflammatory and immunosuppressive effects come from glucocorticoid receptor activity, which is a drug-class property rather than something confirmed in the supplied data.
+Currently, detailed mechanism of action data is not available. Based on known information, flurandrenolide is a topical corticosteroid. Its use in inflammatory and eczematous skin diseases is established, and mechanistically a glucocorticoid anti-inflammatory effect may be applicable to some inflammatory skin conditions.
 
-The mechanistic fit for the predicted indication is weak. Inverted follicular keratosis is a benign epithelial lesion, not primarily an inflammatory skin disease. A corticosteroid is therefore unlikely to act on its underlying cause. The very high TxGNN score (0.997) is a model output only. No trial, publication, or drug-specific mechanistic evidence backs it.
+The high score for vulvar inverted follicular keratosis most likely comes from graph proximity to seborrheic keratosis, a related benign keratinocytic lesion that appears among the drug's original indications. However, inverted follicular keratosis is typically treated by excision, and there is no evidence that a corticosteroid is effective. The link is a computational prediction only. The vulvar location also raises a concern about skin atrophy with potent topical steroids.
+
+**Other predicted indications (all L5, all Hold):**
+
+| Rank | Predicted Indication | Score | Comment |
+|---|---|---|---|
+| 2 | Lichen planus pigmentosus | 99.66% | Inflammatory lichenoid condition, but mainly pigmentary; steroid response is variable |
+| 3 | Hypertrophic lichen planus | 99.66% | Potent topical steroids are standard therapy for this class; most mechanistically credible candidate, but no drug-specific evidence |
+| 4 | Annular atrophic lichen planus | 99.66% | Plausible mechanism, but the atrophic phenotype makes prolonged potent steroid use a concern |
+| 5 | Alopecia areata | 99.62% | Autoimmune; steroids are used as a class, evidence for topical use is modest |
+| 6 | Primary cutaneous B-cell lymphoma | 99.61% | Based on proximity to T-cell lymphoma; any benefit would likely be symptomatic only |
+| 7 | Alopecia mucinosa | 99.60% | Must be distinguished from lymphoma-associated forms before any consideration |
+| 8 | Telogen effluvium | 99.60% | No clear mechanistic rationale; likely a graph artifact |
+| 9 | Lichen planus pemphigoides | 99.56% | Systemic steroids are the mainstay; topical may help localized disease |
+| 10 | Hereditary hypotrichosis with recurrent skin vesicles | 99.53% | Genetic disorder; no clear rationale |
 
 ## Clinical Trial Evidence
 
@@ -66,30 +80,34 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA016455 | CORDRAN (Almirall, LLC) | Tape | Not provided in source data |
-| NDA012806 | CORDRAN (INA Pharmaceutics, Inc) | Cream | Not provided in source data |
-| ANDA207133 | Flurandrenolide (Bryant Ranch Prepack) | Lotion | Not provided in source data |
-| ANDA207133 | Flurandrenolide (Padagis Israel Pharmaceuticals Ltd) | Lotion | Not provided in source data |
+| NDA016455 | CORDRAN (Almirall, LLC) | Tape | Not available (cancelled) |
+| NDA012806 | CORDRAN (INA Pharmaceutics, Inc) | Cream | Not available (cancelled) |
+| ANDA207133 | Flurandrenolide (Bryant Ranch Prepack) | Lotion | Not available (cancelled) |
 
-The source lists 6 licenses in total, but the records contain only 5 entries. One of them (NDA012806) appears twice, so the table shows it once.
+All three authorizations are cancelled, so there is currently no valid US-marketed product.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Knowledge-graph contraindication signals** (from drug-disease relationships, not label text): adrenocortical insufficiency, Addison disease, skin atrophy, telangiectasis, capillary disease, hereditary hemorrhagic telangiectasia, peripheral vascular disease, intermittent vascular claudication, and peripheral arterial disease.
+- **Site-specific concern**: potent topical steroids on vulvar skin and in atrophic lichenoid conditions raise the risk of skin atrophy.
+- **Drug interactions**: no interaction records were found.
+
+Please refer to the package insert for further safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score. There is no clinical or literature evidence, and a corticosteroid has a weak mechanistic rationale for a benign epithelial lesion. Safety and label information are also missing.
+The prediction for vulvar inverted follicular keratosis has no supporting clinical trials or literature (L5). The condition is normally managed by excision, and the vulvar site raises skin atrophy concerns. All US authorizations are cancelled, and label safety data are missing.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications (blocking gap)
-- Mechanism of action data (for example, from DrugBank)
-- Evidence for this specific indication, such as case reports, dermatology literature, or registered trials
-- Route and formulation compatibility assessment for vulvar use
-- Consider prioritizing other predictions with a more plausible class-level rationale, such as the lichen planus variants and alopecia areata. These also have no drug-specific evidence yet and remain research questions.
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data
+- A drug-specific literature and trial search for the top indication
+- A clinical rationale review against standard care (excision)
+- Consideration of hypertrophic lichen planus as the more mechanistically credible candidate, which still needs a drug-specific evidence review
+- Route and formulation compatibility assessment, since no currently valid US product exists
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

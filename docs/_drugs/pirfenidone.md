@@ -33,63 +33,107 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Pirfenidone is an oral anti-fibrotic drug. Published literature in the evidence pack notes it was approved in 2014 for idiopathic pulmonary fibrosis, and the label indication text itself was not available.
-The TxGNN model predicts it may be effective for **extracutaneous mastocytoma**, but there are **0 clinical trials** and **0 publications** supporting this specific prediction.
+Pirfenidone is an anti-fibrotic drug, originally used to treat idiopathic pulmonary fibrosis and related interstitial pneumonias.
+The TxGNN model predicts it may be effective for **extracutaneous mastocytoma**,
+but **no clinical trials** and **no publications** currently support this prediction, so it rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Idiopathic pulmonary fibrosis (per literature; not from label text) |
+| Original Indication | Idiopathic pulmonary fibrosis (also acute interstitial pneumonia and idiopathic interstitial pneumonia) |
 | Predicted New Indication | Extracutaneous mastocytoma |
 | TxGNN Prediction Score | 99.71% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (all five listed below are ANDA generics) |
+| US Market Status | Cancelled only (all 11 licenses cancelled) |
+| Number of NDAs | 11 (1 NDA and 10 ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the source database. Published literature describes pirfenidone as inhibiting TGF-β and PDGF, which reduces fibroblast proliferation and collagen synthesis. Its efficacy in pulmonary fibrosis has been established.
+Detailed mechanism of action data is not available in the data compiled for this report. Pirfenidone is generally described as an anti-fibrotic and anti-inflammatory agent that modulates TGF-beta signaling. Its efficacy in idiopathic pulmonary fibrosis is established.
 
-Extracutaneous mastocytoma is a mast cell neoplasm. No documented mechanistic bridge links pirfenidone's anti-fibrotic activity to mast cell tumors or KIT-driven mast cell proliferation. The high score most likely reflects patterns in the knowledge graph rather than a verified biological link, and the missing MOA data prevents a closer check. Treat this prediction as a hypothesis only.
+For extracutaneous mastocytoma, however, no direct mechanistic link is supported. Mast cell neoplasms are typically driven by KIT mutations, and pirfenidone's anti-fibrotic activity does not target that pathway. The high TxGNN score is a graph-based prediction only and should be treated as a hypothesis, not as evidence of efficacy.
+
+**Other top-ranked predictions** (all L5 or L4, none supported by trials):
+
+| Rank | Predicted Indication | Score | Evidence Level | Comment |
+|------|------|------|------|------|
+| 2 | Dermatofibrosarcoma protuberans | 99.41% | L5 | Plausible but unvalidated link via PDGF/TGF-beta signaling in fibroblasts |
+| 3 | Aggressive systemic mastocytosis | 99.33% | L5 | KIT-driven; no supported mechanism |
+| 4 | Heart fibrosarcoma | 99.29% | L5 | Nominal fibroblast-lineage association only |
+| 5 | Conventional fibrosarcoma | 99.26% | L5 | Anti-fibrotic effect does not imply anti-tumor activity |
+| 6 | Autosomal recessive familial Mediterranean fever | 99.25% | L5 | Conceivable link via anti-inflammatory effects (TNF-alpha, IL-1beta) |
+| 7 | Kidney fibrosarcoma | 99.24% | L5 | Same rationale as other fibrosarcomas |
+| 8 | Hepatic infarction | 99.24% | L5 | Ischemic event; only preclinical liver fibrosis data |
+| 9 | Fibroblastic neoplasm | 99.23% | L4 | Only indirect in vitro evidence, plus safety signals |
+| 10 | Low grade fibromyxoid sarcoma | 99.19% | L5 | Nominal fibroblastic-lineage association only |
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials registered for extracutaneous mastocytoma.
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for extracutaneous mastocytoma.
+
+For reference, the closest-ranked prediction with literature is *fibroblastic neoplasm* (rank 9). Its publications are shown below.
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [12907346](https://pubmed.ncbi.nlm.nih.gov/12907346/) | 2003 | Pilot clinical study | Am J Gastroenterol | Pilot project testing pirfenidone, a noncytotoxic oral anti-fibrotic, in desmoid tumors of familial adenomatous polyposis. No efficacy conclusion is evident from the available text |
+| [27835939](https://pubmed.ncbi.nlm.nih.gov/27835939/) | 2016 | In vitro study | BMC Musculoskelet Disord | Pirfenidone inhibited TGF-β1-mediated activity in Dupuytren's disease-derived fibroblasts |
+| [30927912](https://pubmed.ncbi.nlm.nih.gov/30927912/) | 2019 | In vitro study | BMC Musculoskelet Disord | Examined pirfenidone's effect on TGF-β1-stimulated non-SMAD signaling in Dupuytren's fibroblasts |
+| [35129055](https://pubmed.ncbi.nlm.nih.gov/35129055/) | 2022 | Preclinical/Review | Pharm Dev Technol | Explores pirfenidone as a locally injected anti-fibrotic for Dupuytren's disease |
+| [29702057](https://pubmed.ncbi.nlm.nih.gov/29702057/) | 2018 | Case report | Perm J | Undifferentiated pleomorphic sarcoma reported after pirfenidone use (safety signal) |
+| [32572469](https://pubmed.ncbi.nlm.nih.gov/32572469/) | 2020 | Case report | Rheumatology (Oxford) | Multiple eruptive dermatofibromas aggravated by mycophenolate mofetil and pirfenidone in a patient with systemic sclerosis (safety signal) |
 
 ## US Market Information
 
+All 11 US licenses are currently cancelled. Approved indication text is not available for these records.
+
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
+| NDA208780 | ESBRIET | Tablet, coated | Legacy Pharma USA Inc. |
 | ANDA212722 | Pirfenidone | Tablet, film coated | Laurus Labs Limited |
 | ANDA212709 | Pirfenidone | Tablet | Apotex Corp. |
 | ANDA212708 | Pirfenidone | Tablet, coated | Alembic Pharmaceuticals Inc. |
 | ANDA212570 | Pirfenidone | Tablet, film coated | Amneal Pharmaceuticals NY LLC |
-| ANDA212078 | Pirfenidone | Tablet, coated | Cipla USA Inc. |
+
+Other cancelled licenses include generic tablets and capsules from Cipla, ScieGen, Laurus, Sandoz, Teva and Amneal. All dosage forms are oral.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug interaction records were found.
+Label-based warnings and contraindications are not available in the data compiled for this report. Please refer to the package insert for safety information.
+
+- **Drug Interactions**: 100 interactions were identified, and the main ones listed are all of Moderate severity. Examples include:
+  - Bupropion
+  - Omeprazole
+  - Esomeprazole
+  - Lansoprazole
+  - Cimetidine
+  - Eliglustat
+  - Obeticholic acid
+  - Naltrexone
+  - Miconazole
+  - Disulfiram
+  - Ticlopidine
+  - Ivacaftor
+- **Literature safety signals**: Case reports describe undifferentiated pleomorphic sarcoma after pirfenidone use and aggravation of eruptive dermatofibromas. These are anecdotal but argue for caution in any fibroblast-lineage neoplasm setting.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on the model score alone. No trials, no literature, and no plausible mechanism link pirfenidone to extracutaneous mastocytoma.
-
-Among the other top-10 predictions, only fibroblastic neoplasm (rank 9) has any supporting material. That material is mostly in vitro work in Dupuytren's disease fibroblasts and one 2003 pilot study in desmoid tumors (PMID 12907346, only the title was available). Two case reports point the other way: a sarcoma after pirfenidone use (PMID 29702057) and dermatofibromas aggravated on pirfenidone (PMID 32572469). Causality is unproven in both, but they are safety signals to weigh if fibroblast-lineage tumors are pursued.
+The prediction for extracutaneous mastocytoma is supported only by a graph-based model score (L5). There are no clinical trials or publications, and no plausible mechanistic link: mast cell neoplasms are typically KIT-driven, which pirfenidone does not target. All US licenses are also cancelled.
 
 **To proceed, the following is needed:**
-- The package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data from DrugBank
-- A targeted literature search on pirfenidone in mast cell disease, including preclinical mast cell or KIT-pathway studies
-- Full-text review of the 2003 desmoid tumor pilot study if the fibroblastic neoplasm direction is prioritized
+- Mechanism of action data for pirfenidone, to allow a proper mechanistic-link analysis
+- Package insert warnings and contraindications, which are required before any safety screening
+- Preclinical evidence (for example, mast cell line or KIT-mutant model data) showing any activity in mast cell neoplasia
+- Review of alternative candidates among the top predictions (such as dermatofibrosarcoma protuberans or fibroblastic neoplasm), which have somewhat more plausible fibroblast-related rationale, while weighing the reported sarcoma and dermatofibroma safety signals
+- Clarification of the cancelled US license status if a US development path is considered
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

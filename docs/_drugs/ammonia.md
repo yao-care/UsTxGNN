@@ -29,38 +29,39 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Ammonia: From Marketed Ammonia Products (No Labeled Indication on Record) to Acrodermatitis Chronica Atrophicans
+# Ammonia: From Psoriasis and Other Skin Disorders to Acrodermatitis Chronica Atrophicans
 
 ## One-Sentence Summary
 
-Ammonia is marketed in the US mainly as smelling salts and inhalants, but no approved indication text is on record.
-The TxGNN model predicts it may be effective for **acrodermatitis chronica atrophicans**,
-with **0 clinical trials** and **0 publications** currently supporting this direction.
+Ammonia is listed in the knowledge graph for several dermatologic conditions, including psoriasis, acne and seborrheic dermatitis. The TxGNN model predicts it may be effective for **acrodermatitis chronica atrophicans**, but there are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded (all listed authorizations have empty indication text) |
+| Original Indication | Psoriasis, parapsoriasis, acne, seborrheic dermatitis, pityriasis simplex, seborrheic keratosis, keratinization disease (from the knowledge graph; no approved indication text is available in the US license records) |
 | Predicted New Indication | Acrodermatitis chronica atrophicans |
 | TxGNN Prediction Score | 99.70% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| US Market Status | Cancelled only |
+| Number of NDAs | 2 (both cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available, and no original indication is recorded. Ammonia is sold as smelling salts and inhalants, and it is an endogenous metabolite that is toxic at elevated levels. A mechanistic link to the predicted disease cannot be established from the available data.
+Currently, detailed mechanism of action data is not available. Ammonia is a topical/counterirritant agent that has been associated with dermatologic conditions, but no mechanism has been documented that would link it to the predicted disease.
 
-Acrodermatitis chronica atrophicans is a late-stage skin manifestation of Lyme borreliosis, which is an infection. No plausible role for ammonia is evident. The high score (0.997) most likely reflects the structure of the knowledge graph, not a drug-specific mechanism.
+Acrodermatitis chronica atrophicans is a late-stage skin infection caused by *Borrelia* and is treated with antibiotics. Nothing in the data compiled for this report suggests that ammonia has antibacterial or other relevant activity against it. The high score (99.70%) most likely reflects graph-based proximity to the drug's original skin-related indications rather than a real pharmacologic connection.
 
-Ammonia is a known irritant and caustic agent for skin and airways. That argues for caution rather than benefit in a skin disease. The same score-only pattern applies to the five other predicted indications, which have the same evidence level (L5) and recommendation (Hold):
-- neonatal dermatomyositis
-- acne keloid
-- secondary interstitial lung disease specific to childhood associated with a connective tissue disease
-- amyopathic dermatomyositis
-- familial hydroa vacciniforme
+The other top predictions show the same pattern. None has trial or literature support, and several raise safety concerns:
+
+| Rank | Predicted Disease | Score | Main Concern |
+|------|------|------|------|
+| 2 | Neonatal dermatomyositis | 99.64% | Immune-mediated disease; no immunomodulatory activity documented; neonatal safety concern |
+| 3 | Acne keloid | 99.63% | Closest to the original indications (acne), but no antifibrotic action is known |
+| 4 | Childhood secondary interstitial lung disease associated with a connective tissue disease | 99.61% | Ammonia is a respiratory irritant; clear safety concern |
+| 5 | Amyopathic dermatomyositis | 99.60% | Autoimmune disease requiring immunomodulation |
+| 6 | Familial hydroa vacciniforme | 99.56% | Photosensitive disorder; no relevant activity known |
 
 ## Clinical Trial Evidence
 
@@ -74,31 +75,32 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| M011 | UpSniff Smelling Salts | Powder | Not specified in record |
-| M011 | SERYNTH SMELLING SALTS | Inhalant | Not specified in record |
-| Not listed | Ammonium Causticum | Pellet | Not specified in record |
-| Not listed | VYV Smelling Salts | Inhalant | Not specified in record |
-| Not listed | Snap Labs Ammonia Inhalants | Inhalant | Not specified in record |
+| M011 | UpSniff Smelling Salts | Powder | Not stated (cancelled) |
+| Not available | Ammonium Causticum | Pellet | Not stated (cancelled) |
 
-The table shows 5 of 20 authorizations. Other dosage forms on record include granule and gas.
+Both authorizations are cancelled, and no valid single-ingredient or combination products remain on the market.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Disease associations flagged in the knowledge graph (not label text)**: The graph links ammonia to possible contraindications in anogenital human papillomavirus infection, common wart, diabetes mellitus, diabetic ketoacidosis, dermatitis, peripheral vascular disease, intermittent claudication and peripheral arterial disease.
+- **Respiratory concern**: Ammonia is a respiratory irritant, and inhalation exposure can injure the lungs. This is especially relevant to the predicted pediatric lung disease.
+- **Drug interactions**: No interaction records were found.
+
+Package insert warnings and contraindications were not retrieved, so please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The only support is a computational score. There are no trials, no publications, no mechanism data and no recorded original indication. Ammonia's irritant properties and the infectious nature of the predicted disease add to the doubt. The prediction is likely a knowledge-graph artifact.
+The prediction has no supporting trials or literature (Evidence Level L5), no documented mechanism, and no plausible pharmacologic link to a late-stage *Borrelia* skin infection that is treated with antibiotics. Both US authorizations are cancelled, and the knowledge graph flags several disease contraindications.
 
 **To proceed, the following is needed:**
-- Mechanism of action data (MOA), for example from DrugBank
-- FDA package insert warnings and contraindications, which are needed before any safety screening
-- Any independent preclinical, clinical or literature evidence linking ammonia to the predicted disease
-- Confirmation of the approved indication text for the listed products
-- Route compatibility assessment, since inhalant, powder and pellet forms may not suit a dermatologic indication
+- Package insert warnings and contraindications from the FDA website (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- Any preclinical or clinical evidence linking ammonia to the predicted disease
+- Route-of-administration compatibility assessment and similarity analysis against the original indications
+- A review of whether the model's top predictions are artifacts of graph proximity, given the lack of any mechanistic support
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,11 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Rifapentine: From Tuberculosis to Leprosy
+# Rifapentine: From Pulmonary Tuberculosis to Leprosy
 
 ## One-Sentence Summary
 
-Rifapentine (brand name Priftin) is a rifamycin antibiotic that is marketed in the US and used against tuberculosis. The supplied license record carries no indication text, so this original indication comes from the drug's known use and from the tuberculosis focus of the retrieved trials. The TxGNN model predicts it may be useful for **leprosy**, with **0 registered clinical trials** and **20 retrieved publications** (about half are leprosy-relevant), including a 2023 NEJM study of single-dose rifapentine in household contacts. The evidence concerns **prevention after exposure** rather than treatment, and its design has not been verified.
+Rifapentine is a rifamycin antibiotic, originally used to treat pulmonary tuberculosis.
+The TxGNN model predicts it may be effective for **leprosy** (the top-ranked prediction), but **no clinical trials are registered** for this indication, and the evidence consists of **20 publications**, only a few of which are clinical.
+A separate, much better-supported extension is **TB prevention and treatment in people with HIV** (rank 4), which has Phase 3 trial evidence.
 
 ---
 
@@ -41,48 +43,67 @@ Rifapentine (brand name Priftin) is a rifamycin antibiotic that is marketed in t
 
 | Item | Content |
 |------|------|
-| Original Indication | Tuberculosis (not stated in the supplied license record) |
+| Original Indication | Pulmonary tuberculosis |
 | Predicted New Indication | Leprosy |
 | TxGNN Prediction Score | 99.77% |
-| Evidence Level | L2 (provisional; upgrade to L1 only if the NEJM study is verified as a Phase 3 RCT) |
-| US Market Status | ✓ Marketed |
+| Evidence Level | L3 (leprosy); the HIV-related extension is graded L1, but that grade applies to TB in people with HIV, not to HIV infection itself |
+| US Market Status | Cancelled only (the only NDA on record is listed as cancelled) |
 | Number of NDAs | 1 |
-| Recommended Decision | Hold |
+| Recommended Decision | Hold (leprosy: research question; the HIV-associated TB extension may Proceed with Guardrails) |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the supplied record. Based on class knowledge, rifapentine is a rifamycin that inhibits bacterial DNA-dependent RNA polymerase (rpoB). Its efficacy in mycobacterial disease (tuberculosis) is established.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Based on what is known, rifapentine is a rifamycin that inhibits bacterial DNA-dependent RNA polymerase (rpoB). Its efficacy in tuberculosis is established.
 
-*Mycobacterium leprae* is susceptible to rifampicin, a close relative. In mouse footpad models, rifapentine showed stronger bactericidal activity than rifampicin. Rifapentine also has a longer half-life and lower minimum inhibitory concentrations. Together these make the leprosy prediction mechanistically coherent.
+*Mycobacterium leprae* is susceptible to rifamycins, and rifampicin is already a cornerstone of leprosy treatment and post-exposure prophylaxis. Mouse footpad studies suggest rifapentine has stronger bactericidal activity against *M. leprae* than rifampicin. A 2023 study in the New England Journal of Medicine evaluated single-dose rifapentine in household contacts of leprosy patients. The link is therefore biologically plausible, since it is an extension within the same drug class against a closely related mycobacterium.
 
-The strongest clinical signal is a randomized study of single-dose rifapentine as post-exposure prophylaxis in household contacts of leprosy patients (PMID 37195940). Only the title and background were supplied, so its design and results have not been checked. The other evidence is preclinical: post-exposure prophylaxis in mice, activity against rifampicin-resistant strains, and combination regimens.
+The design, phase and results of the household-contact publications cannot be confirmed from titles alone and need full-text verification before the evidence level can be raised.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for leprosy.
+Currently no related clinical trials are registered for leprosy.
+
+For reference, the second-best-supported prediction, HIV-associated tuberculosis (rank 4), has the following most relevant trials. These concern TB in people with HIV, not HIV treatment itself.
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT01404312](https://clinicaltrials.gov/study/NCT01404312) | Phase 3 | Completed | 3000 | 4-week rifapentine + isoniazid vs 9-month isoniazid for TB prevention in HIV-infected people |
+| [NCT00057122](https://clinicaltrials.gov/study/NCT00057122) | Phase 3 | Completed | 1148 | Three TB prevention regimens vs 6 months of isoniazid in HIV-positive adults in Soweto |
+| [NCT05118490](https://clinicaltrials.gov/study/NCT05118490) | Phase 4 | Active, not recruiting | 1000 | Treatment completion of daily 1-month (1HP) vs weekly 3-month (3HP) rifapentine + isoniazid |
+| [NCT05122026](https://clinicaltrials.gov/study/NCT05122026) | Phase 1/2 | Active, not recruiting | 252 | Safety and dolutegravir pharmacokinetics with 1HP/3HP in pregnant people with HIV |
+| [NCT04272242](https://clinicaltrials.gov/study/NCT04272242) | Phase 2 | Terminated | 37 | Rifapentine–dolutegravir interaction in HIV/LTBI co-infection |
+| [NCT03510468](https://clinicaltrials.gov/study/NCT03510468) | Phase 1 | Completed | 51 | Effect of weekly rifapentine + isoniazid on tenofovir alafenamide pharmacokinetics |
+| [NCT03886701](https://clinicaltrials.gov/study/NCT03886701) | Phase 1 | Completed | 11 | Effect of weekly rifapentine + isoniazid on doravirine pharmacokinetics |
+| [NCT00002192](https://clinicaltrials.gov/study/NCT00002192) | Phase 2 | Completed | Not reported | Rifapentine tolerance and activity in AIDS patients with *M. avium* complex bacteremia |
 
 ---
 
 ## Literature Evidence
 
-Study types marked "title-based" were inferred from titles only. Abstracts supplied were mostly background sections, so no efficacy results are claimed here.
+**Leprosy (rank 1)**
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [37195940](https://pubmed.ncbi.nlm.nih.gov/37195940/) | 2023 | RCT (title-based, design unverified) | N Engl J Med | Single-dose rifapentine in household contacts of leprosy patients. Background: rifapentine is more bactericidal than rifampin in mice, but data on preventing leprosy were lacking. |
-| [37585641](https://pubmed.ncbi.nlm.nih.gov/37585641/) | 2023 | Correspondence | N Engl J Med | Commentary on the household-contact study. No abstract supplied. |
-| [40278757](https://pubmed.ncbi.nlm.nih.gov/40278757/) | 2025 | Review | Trop Med Infect Dis | Reviews efficacy, safety and feasibility of rifamycin-based post-exposure chemoprophylaxis. Notes WHO's 2021 recommendation, based on the COLEP study's 57% reduction in leprosy incidence among contacts. |
-| [38440733](https://pubmed.ncbi.nlm.nih.gov/38440733/) | 2024 | Review | Front Immunol | Leprosy treatment, prevention and immunity. Notes that rifampicin-resistant strains threaten multidrug therapy. |
-| [37907954](https://pubmed.ncbi.nlm.nih.gov/37907954/) | 2023 | Review | Parasit Vectors | Pipeline review of oral anti-infectives for off-label use against neglected tropical diseases. |
-| [32936818](https://pubmed.ncbi.nlm.nih.gov/32936818/) | 2020 | Preclinical (mouse footpad) | PLoS Negl Trop Dis | Compared post-exposure prophylaxis efficacy of rifampin, rifapentine, moxifloxacin, minocycline and clarithromycin, to guide clinical trial choices. |
-| [30207440](https://pubmed.ncbi.nlm.nih.gov/30207440/) | 2016 | Preclinical (mouse) | Indian J Lepr | Antibacterial activity of rifapentine and combinations in a rifampicin-resistant leprosy model. |
-| [30207441](https://pubmed.ncbi.nlm.nih.gov/30207441/) | 2016 | Preclinical (mouse) | Indian J Lepr | Tested rifapentine and combinations as short-duration alternatives to WHO multidrug therapy. |
-| [10991891](https://pubmed.ncbi.nlm.nih.gov/10991891/) | 2000 | Preclinical (mouse) | Antimicrob Agents Chemother | Compared bactericidal activity of rifapentine, moxifloxacin and HMR 3647 against *M. leprae* with rifampin, ofloxacin and clarithromycin. |
-| [11201894](https://pubmed.ncbi.nlm.nih.gov/11201894/) | 2000 | Preclinical (mouse) | Lepr Rev | Rifapentine-moxifloxacin-minocycline combination, evaluated as a monthly, fully supervisable regimen. |
+| [37195940](https://pubmed.ncbi.nlm.nih.gov/37195940/) | 2023 | Prophylaxis study (design to be verified) | N Engl J Med | Single-dose rifapentine in household contacts of leprosy patients |
+| [37585641](https://pubmed.ncbi.nlm.nih.gov/37585641/) | 2023 | Commentary/companion (to be verified) | N Engl J Med | Related report on rifapentine in household contacts |
+| [40278757](https://pubmed.ncbi.nlm.nih.gov/40278757/) | 2025 | Review | Trop Med Infect Dis | Efficacy, safety and feasibility of rifamycin-based post-exposure chemoprophylaxis for leprosy |
+| [38440733](https://pubmed.ncbi.nlm.nih.gov/38440733/) | 2024 | Review | Front Immunol | Leprosy treatment, prevention and immune response; notes rifampicin resistance as a concern |
+| [32936818](https://pubmed.ncbi.nlm.nih.gov/32936818/) | 2020 | Preclinical | PLoS Negl Trop Dis | Post-exposure prophylaxis efficacy of rifampin, rifapentine and other drugs in a mouse footpad model |
+| [30207440](https://pubmed.ncbi.nlm.nih.gov/30207440/) | 2016 | Preclinical | Indian J Lepr | Antibacterial activity of rifapentine and combinations in a murine model of rifampicin-resistant leprosy |
+| [29071280](https://pubmed.ncbi.nlm.nih.gov/29071280/) | 2017 | Molecular simulation | Mol Biol Res Commun | Assessment of rifabutin and rifapentine as replacements for rifampicin in drug-resistant leprosy |
+| [11201894](https://pubmed.ncbi.nlm.nih.gov/11201894/) | 2000 | Preclinical | Lepr Rev | Rifapentine–moxifloxacin–minocycline combination for leprosy, suited to monthly dosing |
+
+**HIV-associated tuberculosis (rank 4), key RCTs**
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [30865794](https://pubmed.ncbi.nlm.nih.gov/30865794/) | 2019 | RCT | N Engl J Med | One month of rifapentine + isoniazid to prevent HIV-related TB |
+| [33951360](https://pubmed.ncbi.nlm.nih.gov/33951360/) | 2021 | RCT (Phase 3) | N Engl J Med | Four-month rifapentine regimens with or without moxifloxacin for TB |
+| [36041016](https://pubmed.ncbi.nlm.nih.gov/36041016/) | 2023 | Clinical trial subgroup | Clin Infect Dis | Rifapentine ± moxifloxacin for pulmonary TB in people with HIV (S31/A5349) |
 
 ---
 
@@ -90,31 +111,39 @@ Study types marked "title-based" were inferred from titles only. Abstracts suppl
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA 021024 | Priftin (sanofi-aventis U.S. LLC) | Tablet, film coated (oral) | Not stated in the supplied record |
+| NDA021024 (cancelled) | Priftin (sanofi-aventis U.S. LLC) | Film-coated tablet (oral) | Not listed in the data compiled for this report |
 
 ---
 
 ## Safety Considerations
 
-- **Drug Interactions**: The structured interaction query returned no records. This is a data gap, not evidence of no interactions. Rifapentine induces CYP3A4/UGT, so antiretroviral interactions are the main concern. Pharmacokinetic studies exist with dolutegravir, efavirenz, nevirapine and other agents.
+- **Contraindication-related conditions (from the knowledge graph, not label text)**: inherited porphyria, porphyrin metabolism disease, porphyria, liver disease, gallbladder disease, substance abuse/dependence, hyperbilirubinemia, hereditary hyperbilirubinemia, Gilbert syndrome, *Clostridium difficile* colitis, perinatal necrotizing enterocolitis.
+- **Drug Interactions**: 100 interactions were identified. Examples:
+  - **Major**: eliglustat, naldemedine.
+  - **Moderate**: rabeprazole, corticosteroids (hydrocortisone, dexamethasone, betamethasone, triamcinolone), vitamin D analogues (cholecalciferol, calcifediol, calcitriol), antidiabetics (pioglitazone, saxagliptin, linagliptin, glimepiride, chlorpropamide), aprepitant, metronidazole, clarithromycin, dronabinol.
+- **Antiretroviral interactions**: rifapentine is a CYP3A4 inducer, so interactions with dolutegravir, bictegravir, tenofovir alafenamide and other antiretrovirals are a central concern for the HIV-related extension. Dedicated pharmacokinetic studies are under way.
+- **Hepatotoxicity**: published work on rifapentine plus isoniazid in people with HIV examines drug-induced liver injury, but one such paper (PMID 33758553) has been retracted and should not be relied upon.
 
-Please refer to the package insert for warnings and contraindications.
+Package insert warnings and contraindications were not available. Please refer to the package insert for full safety information.
 
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Hold** (for leprosy as the primary prediction)
 
 **Rationale:**
-The mechanism is coherent and the NEJM prophylaxis study is a promising signal, but its design is unverified. It concerns prevention, not treatment, and no leprosy trial is registered. The package insert safety data is missing, which the evidence pack flags as blocking.
+- Leprosy is biologically plausible, but there are no registered trials. The key household-contact publications have not been verified as controlled studies, so the evidence level cannot be raised above L3 yet.
+- Lower-ranked predictions (breast carcinoma, Prinzmetal angina, neuroretinitis, vestibular neuronitis, neuritis types, dermatofibrosarcoma protuberans) have no meaningful supporting data, and rheumatoid arthritis evidence concerns TB prophylaxis in RA patients rather than RA treatment. All remain on Hold.
+- The HIV-associated TB extension has Phase 3 support and could Proceed with Guardrails. It is a population extension of the original TB indication, not a new disease target.
 
 **To proceed, the following is needed:**
-- Verify the design, phase and results of PMID 37195940, and locate its trial registration number. Upgrade to L1 only if it is confirmed as a Phase 3 RCT.
-- Clarify whether the target is post-exposure prophylaxis or treatment, since the evidence covers prophylaxis only.
-- Obtain the package insert warnings and contraindications (DG001).
-- Obtain mechanism of action data from DrugBank (DG002).
-- Build a dedicated interaction review for CYP3A4/UGT substrates.
+- Full-text review of PMIDs 37195940 and 37585641 to confirm design, phase and results for leprosy prophylaxis.
+- Clinical trials of rifapentine in leprosy treatment or prophylaxis.
+- Mechanism-of-action data from DrugBank.
+- Package insert warnings and contraindications from the FDA.
+- Clarification of US regulatory status, since the only NDA on record is cancelled.
+- A drug-interaction management plan, especially for antiretrovirals and the major-level interactions.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

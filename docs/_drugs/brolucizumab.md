@@ -29,32 +29,39 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Brolucizumab: From Intravitreal Anti-VEGF Therapy to Mitochondrial Oxidative Phosphorylation Disorder (Nuclear DNA Anomalies)
+# Brolucizumab: From Macular Degeneration to Mitochondrial Oxidative Phosphorylation Disorder Due to Nuclear DNA Anomalies
 
 ## One-Sentence Summary
 
-Brolucizumab is an anti-VEGF-A single-chain antibody fragment given by injection into the eye, marketed in the US as BEOVU.
-The TxGNN model predicts it may be effective for **mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies**.
-However, there are **0 clinical trials** and **0 publications** supporting this prediction, so it rests on the model score alone.
+Brolucizumab is an anti-VEGF-A antibody fragment, originally used to treat macular degeneration.
+The TxGNN model predicts it may be effective for **mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies**,
+but there are currently **0 clinical trials** and **0 publications** supporting this direction, so this is a model prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Macular degeneration (the US license record contains no indication text) |
 | Predicted New Indication | Mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies |
 | TxGNN Prediction Score | 99.67% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only |
 | Number of NDAs | 1 (BLA761125) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the input. Brolucizumab is known to block VEGF-A, a signal that drives new blood vessel growth and vascular leakage, and it is delivered directly into the eye. The approved indication text was also not included in the US regulatory record provided.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, brolucizumab is a single-chain antibody fragment (scFv) that targets VEGF-A. It is approved for neovascular age-related macular degeneration, where it is given by intravitreal injection.
 
-The review found **no plausible mechanistic link** between VEGF-A blockade and this predicted disease. Mitochondrial oxidative phosphorylation disorders caused by nuclear DNA anomalies are inherited defects in cellular energy production. Nothing in the available information connects them to VEGF-A signaling.
+No documented mechanistic link between VEGF-A inhibition and oxidative phosphorylation disorders caused by nuclear DNA anomalies was identified. The only conceivable connection is speculative, for example through VEGF-related retinal or vascular complications of mitochondrial disease. The very high TxGNN score is a model-derived output and is not supported by any trial or publication.
 
-The high score of 0.997 is a graph-based output only. A high score does not by itself indicate real therapeutic potential. Because the intravitreal route also limits whole-body exposure, the prediction is hard to justify without new supporting evidence.
+Three other predictions were also reviewed. All are L5 and Hold, with no trials or literature:
+
+| Rank | Predicted Indication | TxGNN Score | Assessment |
+|------|------|------|------|
+| 2 | Esophageal varices with bleeding | 99.12% | VEGF-driven angiogenesis in portal hypertension is biologically conceivable. However, intravitreal dosing gives low systemic exposure, and anti-VEGF agents carry hemorrhagic and thromboembolic concerns. Standard care is well established. |
+| 3 | Esophageal varices without bleeding | 99.12% | The same speculative rationale applies. Prophylaxis already exists (non-selective beta-blockers, band ligation). |
+| 4 | Exocrine pancreatic insufficiency | 99.07% | No plausible link to VEGF-A inhibition was found. The score may reflect graph-based artifacts. |
 
 ## Clinical Trial Evidence
 
@@ -68,26 +75,27 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA761125 | BEOVU (Novartis Pharmaceuticals Corporation) | Injection, solution | Not listed in the provided data |
+| BLA761125 (cancelled) | BEOVU (Novartis Pharmaceuticals Corporation) | Injection, solution | Not listed in the compiled data |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug interactions were found in the queried data.
+- **Knowledge-graph contraindication signals** (from a computational knowledge graph, not label text): uveitis, iris disease, ciliary body disease, panuveitis, eye infectious disease, and conjunctivitis.
+
+No drug interaction records were found. For other warnings and contraindications, please refer to the package insert.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trials, no literature, and no plausible mechanistic link, so the evidence level is L5. The intravitreal route further limits the drug's use for a systemic metabolic disease. The three other predictions for this drug (esophageal varices with and without bleeding, and exocrine pancreatic insufficiency) also have no supporting evidence and are on Hold.
+The prediction rests solely on a model score, with no clinical trials, no publications, and no identified mechanistic link. The US license is cancelled, and the product is an intravitreal agent with limited systemic exposure, which makes the predicted systemic indications doubtful.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, currently missing and blocking safety screening
-- Mechanism of action and approved indications from DrugBank or the label
-- Preclinical evidence linking VEGF-A blockade to mitochondrial oxidative phosphorylation defects
-- Route compatibility assessment, since a systemic disease would need more than intravitreal delivery
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data
+- A biological rationale linking VEGF-A inhibition to nuclear-DNA-driven oxidative phosphorylation disorders
+- Preclinical or clinical evidence in the predicted indication
+- An assessment of route and formulation compatibility, since the current product is intravitreal only
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

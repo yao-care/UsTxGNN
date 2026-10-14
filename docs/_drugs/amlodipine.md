@@ -33,67 +33,104 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Amlodipine is a dihydropyridine L-type calcium channel blocker, generally used to treat hypertension. The indication text in the source data is empty, so this is not confirmed from the labels provided.
-The TxGNN model predicts it may be effective for **brain stem infarction**, but **0 clinical trials** and **0 publications** currently support this specific prediction.
+Amlodipine is a calcium channel blocker originally used to treat hypertension and related cerebrovascular conditions, including stroke and cerebral infarction. The TxGNN model predicts it may be effective for **brain stem infarction**, but **no clinical trials and no publications** specific to this indication were found, so the prediction rests on model output alone.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the source data (licence indication text is empty); generally used as an antihypertensive |
+| Original Indication | Hypertension (also stroke, cerebral infarction, Prinzmetal angina) |
 | Predicted New Indication | Brain stem infarction |
 | TxGNN Prediction Score | 99.94% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (the listed licences are ANDAs) |
+| US Market Status | Cancelled only (all 11 listed authorizations are cancelled) |
+| Number of NDAs | 11 authorizations (2 NDAs, 9 ANDAs) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, amlodipine is a dihydropyridine calcium channel blocker whose vasodilating, blood-pressure-lowering effect is well established, and mechanistically it may be applicable to ischaemic cerebrovascular disease.
+Currently, detailed mechanism of action data is not available. Based on known information, amlodipine is a dihydropyridine L-type calcium channel blocker. Its efficacy in hypertension is established, and it is already linked to stroke and cerebral infarction through blood pressure control and a possible neuroprotective effect.
 
-Brain stem infarction is a vascular event. Blood pressure control and vascular protection are plausible links to it. However, no trials, literature or mechanistic data were retrieved for this exact indication. The high model score (99.94%) is therefore a hypothesis, not evidence.
+Brain stem infarction is an anatomical subtype of the cerebral infarction family. The high TxGNN score most likely reflects its closeness to these existing indications in the knowledge graph, not independent evidence for this subtype. Mechanistically, lowering blood pressure and blocking calcium channels could help in ischemic stroke generally, but nothing in the data compiled for this report addresses brain stem infarction specifically.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
 Currently no related literature available.
 
+---
+
+## Other Predicted Indications Worth Noting
+
+The data compiled for this report contain stronger evidence for other predictions than for the top-ranked one. These are shown for context only.
+
+| Predicted Indication | TxGNN Score | Evidence Level | Key Evidence | Recommendation |
+|------|------|------|------|------|
+| Intracerebral hemorrhage | 99.79% | L1 | TRIDENT (NCT02699645): completed Phase 3 RCT, n=1671, testing a triple low-dose antihypertensive pill that includes amlodipine; results published in 2026 ([PMID 42019018](https://pubmed.ncbi.nlm.nih.gov/42019018/)) | Proceed with Guardrails |
+| Cerebral artery occlusion | 99.89% | L3 | Rodent stroke models show reduced infarct size with amlodipine; the related clinical sub-studies were terminated with 1 to 4 participants | Research question |
+| Pulmonary hypertension owing to lung disease and/or hypoxia | 99.91% | L4 | Mostly indirect preclinical work and case reports. Vasodilation may worsen ventilation-perfusion matching, so there is a safety concern | Hold |
+
+The intracerebral hemorrhage result concerns amlodipine as one component of a combination pill. Its independent contribution cannot be separated from the other two drugs.
+
+---
+
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| ANDA206367 | Amlodipine besylate | Tablet | Exelan Pharmaceuticals, Inc. |
-| ANDA078021 | Amlodipine Besylate | Tablet | Aurobindo Pharma Limited |
-| ANDA078226 | Amlodipine Besylate | Tablet | Cardinal Health 107, LLC |
-| ANDA077955 | Amlodipine Besylate | Tablet | Cipla USA Inc. |
-| ANDA203245 | Amlodipine Besylate | Tablet | A-S Medication Solutions |
+All 11 listed authorizations are cancelled and none is currently valid. The five main ones are shown below. Approved indication text was not available for these entries.
 
-Amlodipine is also available as an oral solution. The approved indication text was not provided for these licences.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA019787 | Amlodipine besylate (Mylan Pharmaceuticals) | Tablet | Not listed |
+| NDA219531 | Sdamlo (Pangea Pharmaceuticals) | Solution | Not listed |
+| ANDA206367 | Amlodipine besylate (Exelan Pharmaceuticals) | Tablet | Not listed |
+| ANDA078021 | Amlodipine besylate (Aurobindo Pharma) | Tablet | Not listed |
+| ANDA078226 | Amlodipine besylate (Cardinal Health 107) | Tablet | Not listed |
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Label-based warnings and contraindications were not available. Please refer to the package insert for safety information.
+
+- **Conditions flagged in the knowledge graph (not label text)**: the TxGNN knowledge graph links amlodipine to the following contraindicated or caution-needed conditions, and these should be verified against the label:
+  - Liver failure and liver disease
+  - Kidney disease
+  - Angioedema (including hereditary and RAAS-blocker-induced forms)
+  - Hypotensive disorders
+  - Pancreatitis
+  - Diabetes mellitus and diabetic ketoacidosis
+  - Hypothyroidism
+  - Systemic lupus erythematosus
+  - Myopathy
+  - Neutropenia and agranulocytosis
+- **Drug interactions**: 100 interactions were found, and the 20 reviewed are all rated Moderate. Examples include corticosteroids (hydrocortisone, dexamethasone, betamethasone, budesonide), aspirin, aprepitant, bupropion, clarithromycin, clotrimazole, calcium salts, and the SGLT2 inhibitors canagliflozin and dapagliflozin.
+- **Literature signals**: case reports describe amlodipine overdose with non-cardiogenic pulmonary edema, amlodipine-associated angioedema, and hypoxia during one-lung ventilation.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on the model score alone (Evidence Level L5). No trials or publications support amlodipine in brain stem infarction, and the safety and mechanism data are incomplete.
-
-Two other predicted indications have more evidence and may deserve review first:
-- **Intracerebral hemorrhage** (L2): the completed Phase 3 TRIDENT trial ([NCT02699645](https://clinicaltrials.gov/study/NCT02699645), n=1671) tests a triple antihypertensive combination. Amlodipine's independent effect cannot be isolated, and results were not provided.
-- **Cerebral artery occlusion** (L4): rodent stroke studies report neuroprotective effects, with no human efficacy data.
+The prediction for brain stem infarction is supported only by the TxGNN score and its proximity to existing stroke and cerebral infarction indications. There are no trials or publications for this subtype, and all US authorizations are cancelled.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (currently a blocking gap)
-- Mechanism of action data from DrugBank
-- A targeted search for trials and literature on amlodipine in brain stem infarction
-- Human efficacy data, or a decision to prioritise the intracerebral hemorrhage direction instead
+- Clinical or observational evidence specific to brain stem infarction
+- Mechanism of action data and a clearer link between amlodipine and posterior circulation stroke
+- The FDA package insert warnings and contraindications, which are currently missing
+- Consideration of intracerebral hemorrhage as a more evidence-supported repurposing direction, noting that the TRIDENT evidence applies to a combination regimen and requires hypotension monitoring
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

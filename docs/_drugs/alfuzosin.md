@@ -33,28 +33,29 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Alfuzosin is a marketed alpha-1 adrenergic blocker. It acts on prostatic and bladder-neck smooth muscle and is generally used for benign prostatic hyperplasia (BPH) symptoms.
-The TxGNN model predicts it may be effective for **Ambras type hypertrichosis universalis congenita**, but there are **0 clinical trials** and **0 publications** supporting this direction. The high score looks like a graph-embedding artifact rather than clinical support.
+Alfuzosin is an alpha-1 adrenergic receptor antagonist originally used to treat benign prostatic hyperplasia (BPH).
+The TxGNN model predicts it may be effective for **Ambras type hypertrichosis universalis congenita**,
+but **no clinical trials and no publications** currently support this prediction, so it rests on a model-based graph prediction alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the Evidence Pack (BPH per general drug knowledge) |
+| Original Indication | Benign prostatic hyperplasia |
 | Predicted New Indication | Ambras type hypertrichosis universalis congenita |
-| TxGNN Prediction Score | 99.999% (model rank 47) |
+| TxGNN Prediction Score | 99.999% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 16 authorizations (the ones listed are generic ANDAs) |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 6 (all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Based on known information, alfuzosin is a selective (uroselective) alpha-1 adrenergic antagonist. It relaxes smooth muscle in the prostate and bladder neck.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, alfuzosin is a uroselective alpha-1 adrenergic receptor antagonist, and its efficacy in BPH rests on relaxing smooth muscle in the prostate and bladder neck.
 
-The original and predicted indications have little in common. Ambras syndrome is a rare congenital disorder of hair-follicle development. Alpha-1 signaling has no known role in it, and blockade is not expected to change hair growth.
+No established mechanistic link to the predicted indication was identified. Ambras syndrome is a rare genetic disorder caused by chromosomal rearrangements near 8q22 that affect regulation of the *TRPS1* gene. Alpha-1 blockade is not known to act on this pathway. The very high score most likely reflects network proximity to hair-related phenotypes in the knowledge graph. It may also reflect an adverse-effect-like association, since hypertrichosis is a known side effect of some vasodilators such as minoxidil, rather than a therapeutic effect.
 
-The near-1.0 score most likely reflects graph proximity to other hair-related disease nodes. The other hair-related predictions (hypertrichosis, hair shaft abnormality, trichomegaly, hypotrichosis) show the same pattern. This prediction is not mechanistically reasonable on current information.
+The other top-ranked predictions show the same pattern. They are mostly hair-related or rare congenital conditions (hypertrichosis, trichomegaly, hair shaft abnormalities, hypotrichosis), along with allergic urticaria and persistent fetal circulation syndrome. None has supporting clinical or literature evidence. Several have a safety concern or a mechanism pointing the wrong way. For example, alfuzosin has reported hypersensitivity and urticarial reactions, and systemic alpha-1 blockade in neonates risks hypotension.
 
 ## Clinical Trial Evidence
 
@@ -64,37 +65,51 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
-(The 20 publications retrieved for the rank 3 prediction, a periodontal malformation syndrome, are general periodontitis literature. None mention alfuzosin, so they do not support any indication.)
-
 ## US Market Information
 
-The Evidence Pack lists no approved-indication text for any of these products.
-
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA079060 | Alfuzosin Hydrochloride | Tablet, film coated, extended release | Rising Pharma Holdings, Inc. |
-| ANDA079057 | Alfuzosin Hydrochloride | Tablet, extended release | Northwind Health Company, LLC |
-| ANDA079060 | Alfuzosin Hydrochloride | Tablet, film coated, extended release | Aurobindo Pharma Limited |
-| ANDA090284 | Alfuzosin Hydrochloride | Tablet, extended release | Aphena Pharma Solutions - Tennessee, LLC |
-| ANDA079057 | Alfuzosin Hydrochloride | Tablet, extended release | Bryant Ranch Prepack |
+| NDA021287 | Uroxatral (Advanz Pharma (US) Corp.) | Extended-release tablet | Cancelled |
+| ANDA079013 | Alfuzosin Hydrochloride (Apotex Corp.) | Extended-release tablet | Cancelled |
+| ANDA079057 | Alfuzosin Hydrochloride (Northwind Health Company, LLC) | Extended-release tablet | Cancelled |
+| ANDA079060 | Alfuzosin Hydrochloride (Rising Pharma Holdings, Inc.) | Film-coated extended-release tablet | Cancelled |
+| ANDA090284 | Alfuzosin hydrochloride (Aphena Pharma Solutions - Tennessee, LLC) | Extended-release tablet | Cancelled |
+
+All 6 US authorizations are cancelled (one further generic, ANDA203192 from Unichem, is not shown). Approved indication text was not available for any of them.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug interaction records were found in the Evidence Pack.
+- **Contraindications flagged by the knowledge graph** (these come from drug-disease relationships in the graph, not from package insert text):
+  - Multiple system atrophy
+  - Postural orthostatic tachycardia syndrome
+  - Orthostatic hypotension
+  - Hypotensive disorder
+  - Long QT syndrome (including the familial form)
+  - Torsades de pointes
+  - Liver failure and liver disease
+  - Gallbladder disease
+  - Intraoperative floppy iris syndrome
+- **Drug Interactions**: 100 interactions were found. The 20 reviewed here include:
+  - **Major**: cisapride, clarithromycin, dolasetron
+  - **Moderate**: famotidine, aprepitant, bupropion, levofloxacin, granisetron, dronabinol, SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin), clotrimazole, and several laxatives (bisacodyl, castor oil, glycerin, lactitol, lactulose)
+  - **Minor**: cimetidine
+
+  The major interactions suggest additive QT-prolongation risk or CYP3A4 inhibition.
+
+Package insert warnings and contraindications were not available. Please refer to the package insert for the full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-There is no clinical or literature evidence, and no plausible mechanistic link between alpha-1 blockade and congenital hair-follicle development. The evidence level is L5, so the score reflects model prediction only.
+The prediction has no clinical trials and no literature behind it, so it sits at evidence level L5 despite the very high model score. No plausible mechanism links alpha-1 blockade to Ambras syndrome, and the signal may reflect an adverse-effect association instead of a therapeutic one. All US licenses are also cancelled.
 
 **To proceed, the following is needed:**
-- A credible mechanistic hypothesis linking alpha-1 adrenergic signaling to the disease, supported by preclinical data
-- Detailed mechanism of action data (MOA) and package insert warnings and contraindications
-- Review of the other top-10 predictions for this drug. All are also L5 and lack a plausible mechanism, so none is a strong repurposing candidate on current evidence
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Package insert warnings and contraindications for safety screening
+- Mechanism of action data to test whether any biological link to the *TRPS1* or hair-follicle pathway exists
+- Preclinical or mechanistic evidence, such as hair-follicle models, showing a therapeutic rather than adverse direction of effect
+- A review of whether any other predicted indication has more plausible support, since the other nine predictions are also at L5 and rated Hold
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

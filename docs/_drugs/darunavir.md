@@ -29,66 +29,107 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Darunavir: From HIV-1 Infection to Feline Acquired Immunodeficiency Syndrome
+# Darunavir: From HIV Infection to Simian Immunodeficiency Virus Infection
 
 ## One-Sentence Summary
 
-Darunavir is an HIV-1 protease inhibitor marketed in the US for HIV-1 infection. The TxGNN model predicts it may be effective for **feline acquired immunodeficiency syndrome (FIV)**, but the evidence is very weak: **1 clinical trial** and **0 publications**, and the trial studied HIV-1 in humans, not FIV.
+Darunavir is an HIV-1 protease inhibitor, originally used to treat HIV infection and AIDS.
+The TxGNN model's top predictions are veterinary or animal-model retroviral diseases, and the most evidence-supported one is **Simian Immunodeficiency Virus (SIV) Infection**, backed by **0 clinical trials** and **4 preclinical publications** in nonhuman primates. Overall evidence is weak and largely indirect.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | HIV-1 infection (the license records in the input carry no indication text, so this comes from darunavir's established use) |
-| Predicted New Indication | Feline acquired immunodeficiency syndrome |
-| TxGNN Prediction Score | 99.97% |
-| Evidence Level | L5 (the pack labels this L4, but it contains no FIV-specific preclinical or mechanism study) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (US authorizations, brand NDA and generic ANDAs combined) |
+| Original Indication | HIV infectious disease; AIDS (the data compiled for this report did not include the US label indication text, so this comes from the knowledge graph) |
+| Predicted New Indication | Simian immunodeficiency virus infection (the highest-scoring prediction, feline acquired immunodeficiency syndrome, is a veterinary indication with no supporting evidence) |
+| TxGNN Prediction Score | 99.97% (SIV infection) |
+| Evidence Level | L4 (SIV infection); L5 for the other three predictions |
+| US Market Status | Cancelled only (all licenses in the data are cancelled) |
+| Number of NDAs | 10 authorizations in total (2 NDAs, 8 ANDAs) |
 | Recommended Decision | Hold |
+
+Note: the four predictions are tied or nearly tied on score. The first two, feline AIDS and SIV infection, both score 0.99969. This report focuses on SIV infection because it is the only one with any literature.
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the input. Darunavir is an HIV-1 protease inhibitor, and its efficacy in HIV-1 infection is well established. FIV is a related lentivirus, so the prediction is understandable at a superficial level.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known information, darunavir is an HIV-1 protease inhibitor. It blocks cleavage of viral polyproteins and prevents the production of mature, infectious virus particles. Its efficacy in HIV/AIDS is established.
 
-However, FIV protease differs from HIV-1 protease in substrate specificity and inhibitor sensitivity, so activity against FIV cannot be assumed. The very high TxGNN score most likely reflects darunavir's HIV-1 antiviral annotation spreading to related lentiviral disease nodes in the knowledge graph. It is not independent evidence for a feline indication.
+SIV is a close lentiviral relative of HIV, and its protease is broadly sensitive to HIV protease inhibitors, so a mechanistic link is plausible. However, SIV is mainly a research model for HIV rather than a distinct human disease. The "new" indication therefore largely overlaps with the existing one and adds little repurposing value.
+
+The other predictions are weaker:
+- **Feline AIDS (FIV):** FIV is related to HIV-1, but its protease differs in substrate specificity and inhibitor sensitivity. Nothing in the data shows darunavir activity against it. It is also a veterinary indication, so human development does not apply.
+- **Neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter:** No plausible mechanistic link. This is a rare genetic disorder, and darunavir's CNS penetration is limited.
+- **Obsolete familial combined hyperlipidemia:** Protease inhibitors are associated with dyslipidemia as an adverse effect, so therapeutic benefit is unlikely. The term is also obsolete in the ontology.
+
+The high TxGNN scores reflect network proximity to the original HIV/AIDS indication and are not independent evidence.
+
+---
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT02770508](https://clinicaltrials.gov/study/NCT02770508) | Phase 4 | Completed | 145 | Randomized open-label study of boosted darunavir plus lamivudine vs. boosted darunavir plus tenofovir/emtricitabine or tenofovir/lamivudine in treatment-naïve HIV-1 patients. It does not study FIV and only supports darunavir's existing HIV-1 use (relevance grade C). |
+Currently no related clinical trials registered.
+
+---
 
 ## Literature Evidence
 
-Currently no related literature available.
+All four publications are nonhuman primate (SIV/rhesus macaque) studies of combination antiretroviral therapy (cART). Darunavir is likely part of these regimens, but the available information does not show its individual contribution.
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [22737073](https://pubmed.ncbi.nlm.nih.gov/22737073/) | 2012 | Preclinical (NHP) | PLoS Pathogens | A highly intensified multidrug ART regimen in SIVmac251-infected macaques induced long-term viral suppression and restricted the viral reservoir |
+| [26150024](https://pubmed.ncbi.nlm.nih.gov/26150024/) | 2016 | Preclinical (NHP) | AIDS Res Hum Retroviruses | Compared two coformulated injectable cART regimens (including a triple regimen with emtricitabine and tenofovir) for suppressing SIV replication in rhesus macaques |
+| [25033210](https://pubmed.ncbi.nlm.nih.gov/25033210/) | 2014 | Preclinical (NHP) | PLoS ONE | Intensive cART plus 3 weeks of the HDAC inhibitor SAHA in SIV-infected Chinese rhesus macaques, as a model for studying viral reservoirs |
+| [21505294](https://pubmed.ncbi.nlm.nih.gov/21505294/) | 2011 | Preclinical (NHP) | AIDS | The gold compound auranofin restricted the viral reservoir in the monkey AIDS model and helped contain viral load after ART suspension |
+
+---
 
 ## US Market Information
 
+All 10 authorizations listed below are in cancelled status. The data compiled for this report contains no approved-indication text for any of them.
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA021976 | PREZISTA (Janssen Products LP) | Film-coated tablet | Not listed in the input |
-| ANDA216168 | Darunavir (Camber Pharmaceuticals) | Film-coated tablet | Not listed in the input |
-| ANDA214085 | Darunavir (Viona Pharmaceuticals) | Film-coated tablet | Not listed in the input |
-| ANDA212493 | Darunavir (Amneal Pharmaceuticals NY) | Film-coated tablet | Not listed in the input |
+| NDA021976 | PREZISTA (Janssen Products LP) | Tablet, film coated | Not available in the data |
+| NDA202895 | PREZISTA (Janssen Products LP) | Suspension | Not available in the data |
+| ANDA216168 | Darunavir (Camber Pharmaceuticals) | Tablet, film coated | Not available in the data |
+| ANDA206288 | Darunavir 600 and 800 mg (Cipla USA) | Tablet | Not available in the data |
+| ANDA202073 | Darunavir (Lupin Pharmaceuticals) | Tablet, film coated | Not available in the data |
+
+Five further generic ANDAs (Viona, Amneal, Dr. Reddy's, a second Camber, and NuCare) are also cancelled.
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug interaction records were found for this drug in the input.
+No package-insert warnings or contraindications were available in the data compiled for this report. Please refer to the package insert for authoritative safety information.
+
+- **Disease-level contraindication signals (from the knowledge graph, not label text):** liver failure, liver disease, cirrhosis, chronic hepatitis B and C virus infection, gallbladder disease, hyperglycemia, diabetes mellitus, diabetic ketoacidosis, hypertriglyceridemia, and hemophilia.
+- **Drug Interactions:** 100 interactions were found in total. The 20 retrieved are mostly Moderate. They include:
+  - Antidiabetic agents: acarbose, metformin, pioglitazone, alogliptin, saxagliptin, canagliflozin, dapagliflozin, albiglutide, chlorpropamide, acetohexamide
+  - Corticosteroids: hydrocortisone, dexamethasone, betamethasone, budesonide, triamcinolone
+  - Others: aprepitant, clarithromycin
+  - **Major:** cisapride (avoid co-administration)
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on model output alone. No study tests darunavir against FIV, and the one trial found is a human HIV-1 study that only reflects the approved use. The other predicted indications are also weak. Simian immunodeficiency virus infection has only four non-human primate studies, where darunavir's role is unconfirmed and would at most be part of a background regimen. The remaining two (a rare neurodevelopmental disorder and an obsolete hyperlipidemia term) have no evidence and no plausible mechanism.
+The predictions rest on graph proximity to the original HIV indication. The only supporting literature is four indirect, regimen-level nonhuman primate studies, and there are no clinical trials. SIV infection is a research model rather than a distinct human disease, and the other predictions are veterinary, mechanistically implausible, or obsolete. All US licenses are also cancelled.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (currently blocking safety screening)
-- Mechanism of action data for darunavir
-- In vitro data on darunavir inhibition of FIV protease and FIV replication
-- Veterinary-specific evidence and regulatory pathway assessment, since this would be a human drug used in cats
-- Full-text check of whether darunavir was actually part of the regimens in the SIV studies
+- Package-insert warnings and contraindications (a blocking data gap for safety screening)
+- Detailed mechanism-of-action data
+- Evidence of darunavir's individual contribution in the SIV studies, and any direct data on activity against FIV protease
+- A clear definition of the target population and the added value beyond the existing HIV indication
+- Clarification of the cancelled US market status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,32 +29,38 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Flortaucipir F-18: From Diagnostic Tau PET Imaging to Anaphylaxis
+# Flortaucipir F-18: From Tau PET Imaging to Anaphylaxis (Prediction Not Supported)
 
 ## One-Sentence Summary
 
-Flortaucipir F-18 is a PET radiotracer that binds tau aggregates in the brain. It is marketed in the US as TAUVID for diagnostic imaging, not as a treatment.
-The TxGNN model predicts it may be effective for **anaphylaxis**, but **0 clinical trials** and **0 publications** support this, so the prediction is very likely a knowledge-graph artifact.
+Flortaucipir F-18 is a diagnostic PET radiotracer that binds tau protein aggregates in the brain; it is not a therapeutic drug.
+The TxGNN model predicts it may be effective for **Anaphylaxis**, but **0 clinical trials** and **0 publications** support this direction.
+The prediction appears to be a computational artifact, not a credible therapeutic signal.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Diagnostic tau PET imaging (no approved indication text in the record) |
+| Original Indication | Not listed in the available US license data (known use: tau PET imaging, per the drug's mechanism) |
 | Predicted New Indication | Anaphylaxis |
 | TxGNN Prediction Score | 98.20% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
+| US Market Status | Cancelled only (no currently valid license) |
 | Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-It is not, based on the available information. Detailed mechanism of action data is not available for this drug. Flortaucipir F-18 is a diagnostic radiotracer that binds tau aggregates. It has no known antiallergic, mast-cell-stabilizing or vasopressor activity.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, flortaucipir F-18 is a diagnostic PET radiotracer that binds tau aggregates (paired helical filaments) in the brain.
 
-The high score of 0.982 most likely comes from the structure of the knowledge graph. The drug has no curated mechanism and no original therapeutic indications, so the model may be relying on graph proximity rather than biology. A diagnostic tracer given in microdose amounts is also not a credible treatment for an acute emergency like anaphylaxis.
+The prediction is **not mechanistically reasonable**. Flortaucipir has no known immunomodulatory or mast-cell-stabilizing activity relevant to anaphylaxis. The high score (0.982) most likely reflects graph-based propagation in a sparsely annotated drug record rather than real biology. If anything, hypersensitivity is a potential adverse event of injected agents, not a therapeutic target.
 
-The other top predictions show the same pattern. Related allergy terms (food-dependent exercise-induced anaphylaxis, pseudoallergy) closely track the anaphylaxis signal. Hematologic malignancies (hairy cell leukemia and its variant, primary bone lymphoma, early T cell progenitor ALL) cluster together. Skin disease, hereditary neurocutaneous angioma and placental hemangioma make up the rest. All ten predictions are L5 (model prediction only), with no trials or publications, and none has a plausible therapeutic mechanism.
+The same applies to the other top-ranked predictions:
+
+- **Anaphylaxis cluster** (food-dependent exercise-induced anaphylaxis, pseudoallergy): no plausible mechanism, likely the same graph artifact.
+- **Hematologic malignancies** (hairy cell leukemia and its variant, primary bone lymphoma, early T cell progenitor ALL): the drug has no cytotoxic or targeted activity, and a microdose tracer is not a therapeutic agent.
+- **Vascular disorders** (hereditary neurocutaneous angioma, placental hemangioma): no antiangiogenic activity. Off-target PET binding is an imaging artifact, not a therapeutic effect.
+- **Skin disease**: too broad to assess, with no documented dermatologic activity.
 
 ## Clinical Trial Evidence
 
@@ -66,28 +72,29 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA212123 | TAUVID | Injection, solution | Eli Lilly and Company |
+| NDA212123 (Cancelled) | TAUVID (Eli Lilly and Company) | Injection, solution | Not available in the compiled data |
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
 
-For the placental hemangioma prediction, radiotracer exposure in pregnancy would raise safety concerns that would need separate assessment.
+No drug-drug interaction records were found in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The anaphylaxis prediction has no clinical, literature or mechanistic support, and the drug is a diagnostic imaging agent with no therapeutic pharmacology. The score reflects a probable graph artifact and does not justify further investment.
+The prediction has no clinical, literature, or mechanistic support (Evidence Level L5, all top-10 predictions on hold). Flortaucipir is a diagnostic tracer given at microdose levels, and the high TxGNN score appears to be an artifact of sparse drug annotation. The only US license is cancelled.
 
 **To proceed, the following is needed:**
-- Mechanism of action data for flortaucipir F-18
-- Package insert warnings and contraindications, currently a blocking gap for safety screening
-- Any independent clinical or preclinical evidence linking the drug to anaphylaxis
-- Route and dose compatibility assessment: a microdose injectable diagnostic versus the requirements of an acute anaphylaxis treatment
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data
+- A credible mechanistic hypothesis connecting tau binding to the predicted disease, plus any preclinical evidence
+- Confirmation of the regulatory status of the cancelled license and the original approved indication
+- A review of whether a diagnostic microdose tracer can reasonably be repurposed as a therapeutic at all
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

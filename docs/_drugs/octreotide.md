@@ -29,85 +29,78 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Octreotide: From an Established Somatostatin Analogue to Vulvar Inverted Follicular Keratosis
+# Octreotide: From Acromegaly to Vulvar Inverted Follicular Keratosis
 
 ## One-Sentence Summary
 
-Octreotide is a somatostatin analogue that is marketed in the United States, mainly as injectable products.
-The TxGNN model predicts it may be effective for **vulvar inverted follicular keratosis**, but there are currently **0 clinical trials** and **0 publications** supporting this direction.
-This is a model-only prediction, and the mechanistic rationale is weak.
-
----
+Octreotide is a somatostatin analogue originally used to treat acromegaly, hyperpituitarism, and carcinoid syndrome.
+The TxGNN model predicts it may be effective for **Vulvar Inverted Follicular Keratosis**, but there are currently **0 clinical trials** and **0 publications** supporting this direction. The prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Predicted New Indication | Vulvar inverted follicular keratosis |
+| Original Indication | Acromegaly (also hyperpituitarism and carcinoid syndrome) |
+| Predicted New Indication | Vulvar inverted follicular keratosis (a second prediction, seborrheic keratosis, scored 99.55%) |
 | TxGNN Prediction Score | 99.58% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only |
+| Number of NDAs | 14 (all cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Octreotide acts mainly on somatostatin receptors SSTR2 and SSTR5, producing antisecretory and antiproliferative effects. Detailed mechanism-of-action data and original indication text are not available in the supplied data.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, octreotide is a somatostatin analogue that acts on somatostatin receptors (mainly SSTR2 and SSTR5). Its efficacy in acromegaly and carcinoid syndrome is established, and it works by suppressing hormone secretion, including growth hormone and, through it, IGF-1.
 
-The data do not support a mechanism linking somatostatin receptor signaling to a benign follicular keratinocyte lesion. The high score (99.58%) may reflect knowledge-graph proximity to related skin-lesion nodes rather than a biological rationale. Inverted follicular keratosis is a benign lesion usually managed by excision, so the need for a systemic peptide is also questionable.
+A possible link to the predicted indication is that somatostatin receptors may be present in epidermal or follicular keratinocytes, and receptor agonism could slow keratinocyte proliferation or growth-factor signaling. This is speculation with no supporting data.
 
-The second-ranked prediction, **seborrheic keratosis** (score 99.55%), has the same weaknesses. It is typically driven by FGFR3/PIK3CA somatic mutations and has effective local treatments. Any link, such as SSTR expression in skin or IGF-1 axis suppression, would be speculative. It is likely a knowledge-graph artifact, and a systemic injectable peptide has an unfavorable benefit-risk profile for a common benign condition. It also has no clinical trials or literature.
-
----
+The second predicted indication, seborrheic keratosis, is a closely related benign keratinocytic lesion. The two high scores may reflect shared neighbors in the knowledge graph rather than a true pharmacological link. These lesions are usually managed with local procedures such as cryotherapy or curettage, so a systemic injectable peptide would have an unfavorable risk-benefit profile without strong supporting evidence.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-The 20 authorizations include generic (ANDA) and brand (NDA) products. The main ones are:
+All 14 US authorizations are listed as cancelled. The main ones are below; approved indication text was not available for them.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
-| ANDA076330 | Octreotide Acetate | Injection, solution | Hikma Pharmaceuticals USA Inc. |
-| ANDA090834 | Octreotide Acetate | Injection, solution | Sagent Pharmaceuticals |
+| NDA019667 | Sandostatin | Injection, solution | Novartis Pharmaceuticals Corporation |
+| NDA208232 | Mycapssa | Capsule, delayed release | Chiesi USA, Inc. |
 | NDA213224 | BYNFEZIA Pen | Injection | Sun Pharmaceutical Industries, Inc. |
-| ANDA216839 | Octreotide Acetate | Injection, solution | Glenmark Pharmaceuticals Inc., USA |
-| ANDA216807 | Octreotide Acetate | Injection, solution | Gland Pharma Limited |
-
-Available dosage forms are injection (solution) and a delayed-release oral capsule. Approved indication text is not included in the supplied data.
-
----
+| ANDA076330 | Octreotide Acetate | Injection, solution | Hikma Pharmaceuticals USA Inc. |
+| ANDA077450 | Octreotide | Injection, solution | Fresenius Kabi USA, LLC |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+**Contraindication-related conditions (from the drug-disease knowledge graph, not label text):** hyperglycemia, hypoglycemia, diabetes mellitus, diabetic ketoacidosis, hypothyroidism (including myxedema and congenital hypothyroidism), gallbladder disease and gallstones (cholelithiasis, cholecystolithiasis, choledocholithiasis), liver disease and cirrhosis, kidney failure and uremia, ileus and intestinal obstruction, sudden cardiac arrest, heart conduction disease, and vitamin B12 deficiency.
 
----
+**Drug Interactions:** 100 interactions were found in total, and all 20 shown in the data are rated Moderate. They are mainly glucose-lowering drugs, so blood glucose should be monitored when octreotide is combined with them. Examples include:
+- Insulins (aspart, degludec, detemir, glargine, glulisine, human insulins)
+- Metformin, acarbose, chlorpropamide, glimepiride
+- GLP-1 agonists (albiglutide, dulaglutide, semaglutide)
+- DPP-4 inhibitors (alogliptin, linagliptin)
+- SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin)
+
+Please refer to the package insert for label warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on the TxGNN score alone, with no clinical trials, no literature, and no supported mechanism. The target conditions are benign and have effective local treatments, so a systemic injectable peptide is hard to justify.
+The prediction has no clinical or literature support (evidence level L5) and only a speculative mechanistic link. The drug has no currently valid US authorization, and the indication is a benign skin lesion for which effective local treatments already exist.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism-of-action data (for example, from DrugBank) and the approved indication text
-- Preclinical or observational evidence of somatostatin receptor involvement in the target lesion
-- A route-compatibility assessment, since systemic injection versus topical or local delivery is unresolved
+- Mechanism of action data, including evidence of somatostatin receptor expression in keratinocytic lesions
+- Preclinical or early clinical evidence in vulvar inverted follicular keratosis or seborrheic keratosis
+- Official package insert warnings and contraindications for safety screening
+- Assessment of route compatibility (systemic injection versus topical or local treatment) and of regulatory status, since all US authorizations are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

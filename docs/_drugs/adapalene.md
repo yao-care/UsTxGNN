@@ -33,81 +33,69 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 ## One-Sentence Summary
 
-Adapalene is a topical retinoid, generally used for acne, and is marketed in the US as a gel, cream and swab.
-The TxGNN model predicts it may be effective for **elevated plasma zinc**, but there are **0 clinical trials** and **0 publications** supporting this direction.
-The prediction is model-only and has no mechanistic or clinical support.
-
----
+Adapalene is a topical retinoid originally used to treat acne.
+The TxGNN model predicts it may be effective for **elevated plasma zinc**, but there are currently **0 clinical trials** and **0 publications** supporting this direction. The prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the source record (adapalene is generally used topically for acne) |
-| Predicted New Indication | Zinc, elevated plasma |
+| Original Indication | Acne |
+| Predicted New Indication | Elevated plasma zinc |
 | TxGNN Prediction Score | 99.51% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (the listed licenses are ANDAs) |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 9 authorizations in total (1 NDA, 8 ANDAs), all cancelled |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the source record. Adapalene is a topical retinoid that selectively activates retinoic acid receptors (RAR-beta/gamma), and its use in acne is well established.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, adapalene is a topical retinoid that selectively acts on retinoic acid receptors RAR-beta and RAR-gamma. It regulates keratinocyte differentiation and inflammation, and this is the basis of its efficacy in acne.
 
-We found no credible link between this mechanism and the predicted indication. "Elevated plasma zinc" is a laboratory finding rather than a disease, and no known pathway connects retinoid receptor signaling to lowering plasma zinc. Topical use also means low systemic exposure, which weakens any plausible effect on plasma zinc.
+Elevated plasma zinc (hyperzincemia) is a biochemical state. It is typically caused by excess zinc intake, altered zinc homeostasis, or specific disorders such as calprotectin-related hyperzincemia. No recognized pathway links retinoid receptor signaling to this condition, and acne and hyperzincemia are unrelated in disease nature.
 
-The very high TxGNN score (0.995) is most likely a knowledge-graph association artifact rather than a therapeutic signal. This prediction should be treated as a low-plausibility hypothesis.
-
----
+The very high TxGNN score (99.51%) is a knowledge-graph prediction only. It may reflect indirect network connections, such as retinoid- and zinc-related gene or protein associations, rather than true biological or clinical relevance. This prediction should be treated as a hypothesis with a weak mechanistic rationale, not as supported evidence.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| ANDA204593 | Adapalene (CALL INC. dba Rochester Pharmaceuticals) | Swab | Not listed in source record |
-| ANDA090824 | Adapalene (Bryant Ranch Prepack) | Cream | Not listed in source record |
-| ANDA090962 | Adapalene (YYBA CORP) | Gel | Not listed in source record |
-| ANDA091314 | Adapalene (Glenmark Therapeutics Inc., USA) | Gel | Not listed in source record |
-| ANDA215940 | Adapalene (Rugby Laboratories, Inc.) | Gel | Not listed in source record |
+| NDA021753 | Adapalene (Mayne Pharma Commercial LLC.) | Gel | Cancelled |
+| ANDA204593 | Adapalene (CALL INC. dba Rochester Pharmaceuticals) | Swab | Cancelled |
+| ANDA090824 | Adapalene (Bryant Ranch Prepack) | Cream | Cancelled |
+| ANDA090962 | Adapalene (YYBA CORP) | Gel | Cancelled |
+| ANDA091314 | Adapalene (Glenmark Therapeutics Inc., USA) | Gel | Cancelled |
 
-The record contains 20 licenses in total; the 5 above are shown.
-
----
+Approved indication text is not available for these authorizations. There are 9 authorizations in total, and all are cancelled. Only the first 5 are listed here. All forms are topical or swab formulations.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Knowledge-graph contraindication signals** (not label text): photoparoxysmal response, photosensitivity disease, exfoliative dermatitis, and dermatitis.
+- **Drug Interactions**: The interaction query identified 58 potential interacting drugs, but none has a severity level assigned. Examples include doxycycline, tetracycline, minocycline, metronidazole, prednisone, triamcinolone, budesonide, omeprazole, pantoprazole, clopidogrel, bupropion, and fluconazole. The clinical significance of these interactions has not been established.
 
----
+For label-based warnings and contraindications, please refer to the package insert.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score (L5), with no trials, no literature and no plausible mechanism. Topical dosing and the nature of the "disease" (a lab value) make a therapeutic effect on plasma zinc unlikely.
+The prediction has no supporting clinical trials or literature (evidence level L5). There is also no recognized mechanistic link between a topical retinoid and plasma zinc levels. All US authorizations are cancelled, and the drug is topical, which makes a systemic biochemical target unlikely to be reachable.
 
 **To proceed, the following is needed:**
-- A plausible biological pathway linking retinoid receptor signaling to zinc homeostasis
-- Evidence that elevated plasma zinc is a clinically meaningful treatment target
-- Systemic exposure data for topical adapalene
-- The FDA package insert (warnings and contraindications) and the approved indication text
-- DrugBank mechanism-of-action data
+- Mechanism of action data and a plausible mechanistic link between retinoid receptor signaling and zinc homeostasis
+- Preclinical or observational evidence connecting adapalene to plasma zinc levels
+- Route compatibility assessment (topical use versus a systemic target)
+- FDA package insert warnings and contraindications, to allow safety screening
+- Clarification of the clinical need, since elevated plasma zinc is a biochemical state rather than a typical treatment target
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

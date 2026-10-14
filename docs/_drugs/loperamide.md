@@ -29,74 +29,102 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Loperamide: From Diarrhea to Acute Contagious Conjunctivitis
+# Loperamide: From Diarrheal Disease to Amebic Dysentery
 
 ## One-Sentence Summary
 
-Loperamide is an over-the-counter and prescription antidiarrheal, marketed in the US under 20 authorizations.
-The TxGNN model predicts it may be effective for **acute contagious conjunctivitis** with a very high score, but this prediction has **0 clinical trials** and **0 publications** behind it.
-It rests on model output alone and does not withstand a pharmacological check.
+Loperamide is a peripheral mu-opioid receptor agonist originally used to treat diarrheal disease and dysentery symptoms.
+The TxGNN model's top-ranked prediction is **acute contagious conjunctivitis**, but it has **0 clinical trials** and **0 publications**. The best-supported candidate in the top 10 is **amebic dysentery**, with **0 clinical trials** and **2 publications** (a review and a case report), and the case report points to a safety concern rather than a benefit.
+
+> Note: The title uses amebic dysentery, the top-10 prediction with the most relevant literature and a plausible link to the original indication. The detailed tables below follow the rank-1 prediction (acute contagious conjunctivitis), as specified by the report format, and the other predictions are summarized afterward.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Diarrhea (inferred from the "anti-diarrheal" product labeling; approved indication text is not provided in the source data) |
-| Predicted New Indication | Acute contagious conjunctivitis |
-| TxGNN Prediction Score | 99.97% |
-| Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| Original Indication | Diarrheal disease, dysentery (from the knowledge graph; no approved indication text is available in the US license records) |
+| Predicted New Indication | Acute contagious conjunctivitis (rank 1); amebic dysentery (rank 2, best-supported) |
+| TxGNN Prediction Score | 99.97% (acute contagious conjunctivitis); 99.95% (amebic dysentery) |
+| Evidence Level | L5 (acute contagious conjunctivitis); L4 (amebic dysentery) |
+| US Market Status | Cancelled only (all licenses cancelled) |
+| Number of NDAs | 10 |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the source record. Loperamide is a peripherally restricted mu-opioid receptor agonist that slows gut motility. Its use in diarrhea is well established.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. From general pharmacology, loperamide is a peripheral mu-opioid receptor agonist that slows gut motility. Its efficacy in diarrheal disease is established.
 
-The prediction does not hold up mechanistically. Loperamide acts on the gut, and nothing links a gut-restricted opioid agonist to inflammation or infection of the ocular surface. It has no antimicrobial or antiparasitic activity. The high TxGNN score most likely reflects a knowledge-graph neighborhood artifact. Several conjunctivitis subtypes appear together in the top 10 with near-identical scores, which points to the same artifact.
+**Acute contagious conjunctivitis (rank 1):** There is no credible mechanism. Loperamide acts on the gut, and opioid receptors in the cornea do not support an anti-infective or anti-inflammatory role in an infectious ocular surface disease. The high score (0.9997) most likely reflects network proximity in the knowledge graph rather than pharmacology. The same applies to conjunctivitis (rank 3), pseudomembranous conjunctivitis (rank 5), conjunctival folliculosis (rank 6), parasitic conjunctivitis (rank 7), chronic follicular conjunctivitis (rank 8), serous conjunctivitis except viral (rank 9) and Angelucci syndrome (rank 10). Ranks 6 to 9 share an identical score, which suggests ontology-propagated predictions rather than independent signals.
 
-The rest of the top 10 is weak too. Amebic dysentery (rank 2) conflicts with known risk, because slowing gut transit in invasive amebic colitis may worsen outcomes. Gastroduodenitis (rank 4) is the only candidate with a plausible symptomatic rationale. It is considered a research question, not an efficacy signal.
+**Amebic dysentery (rank 2):** This is conceptually close to the original indication, since loperamide relieves diarrhea. However, loperamide has no anti-amebic activity. In invasive amebic infection, slowing motility may impair parasite clearance and raise the risk of toxic megacolon. Any use would be at most adjunctive to amebicidal therapy.
+
+**Gastroduodenitis (rank 4):** Symptom control of diarrhea is anatomically plausible, but loperamide has no known anti-inflammatory effect on gastric or duodenal mucosa.
+
+---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials registered for any of the top 10 predicted indications.
+
+---
 
 ## Literature Evidence
 
-Currently no related literature available.
+No literature is available for acute contagious conjunctivitis (rank 1). The following publications relate to other top-10 predictions.
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [3893119](https://pubmed.ncbi.nlm.nih.gov/3893119/) | 1985 | Review | Am J Med | Nonfluid therapy of acute diarrhea. Oral fluids are the cornerstone, and nonspecific agents can reduce diarrhea and other symptoms of enteric infection (amebic dysentery prediction). |
+| [17241255](https://pubmed.ncbi.nlm.nih.gov/17241255/) | 2007 | Case report | J Travel Med | Fulminant amoebic colitis (toxic megacolon) in a patient with heavy loperamide use. The course may have been influenced by loperamide. This is a safety signal (amebic dysentery prediction). |
+| [41924411](https://pubmed.ncbi.nlm.nih.gov/41924411/) | 2026 | Case report | Cureus | Loperamide-induced respiratory depression in severe chemotherapy-related gastrointestinal inflammation. A damaged gut barrier may increase systemic absorption and central opioid effects (gastroduodenitis prediction). |
+
+---
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| NDA021855 | anti-diarrheal | Capsule, liquid filled | Albertsons Companies |
-| ANDA072741 | Loperamide Hydrochloride | Capsule | Bryant Ranch Prepack |
-| ANDA091292 | Equate Loperamide Hydrochloride | Suspension | Wal-Mart Stores Inc |
-| ANDA206548 | Loperamide Hydrochloride | Tablet | Amerisource Bergen |
-| ANDA076497 | Anti-Diarrheal | Tablet, coated | First Aid Direct |
+All 10 licenses are cancelled, and no approved indication text is recorded.
 
-Available forms are oral (capsule, tablet, film-coated tablet) plus suspension and solution. No ophthalmic formulation is listed.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA021855 | Anti-diarrheal (Albertsons Companies) | Capsule, liquid filled | Not recorded |
+| ANDA072741 | Loperamide Hydrochloride (Bryant Ranch Prepack) | Capsule | Not recorded |
+| ANDA091292 | Equate Loperamide Hydrochloride (Wal-Mart) | Suspension | Not recorded |
+| ANDA206548 | Loperamide Hydrochloride (Amerisource Bergen) | Tablet | Not recorded |
+| ANDA076497 | Anti-Diarrheal (First Aid Direct) | Tablet, coated | Not recorded |
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. Drug interaction data was not found in the source record.
+The package insert warnings and contraindications were not available in the data compiled for this report, so please refer to the package insert for label safety information. The following items come from other sources.
 
-Literature retrieved for the lower-ranked predictions points to safety signals worth knowing:
-- **Toxic megacolon and fulminant colitis:** A 2007 case report describes fulminant amoebic colitis after heavy loperamide use. Antimotility agents have been implicated in toxic megacolon in infectious gastroenteritis.
-- **Central opioid effects with a damaged gut lining:** A 2026 case report describes respiratory depression with therapeutic loperamide in severe gastrointestinal inflammation after chemotherapy. Mucosal injury may increase systemic absorption.
+- **Knowledge graph contraindications (not label text):** liver disease, gallbladder disease, paralytic ileus, intestinal obstruction, familial visceral myopathy, dysentery, diarrheal disease, infectious diarrheal disease, intestinal infectious disease.
+- **Case-report safety signals:** toxic megacolon or fulminant colitis in invasive amebic infection, and respiratory depression when the gut barrier is compromised by severe inflammation.
+- **Drug interactions:** 100 interactions were recorded, and the first 20 retrieved include several Major ones:
+  - Abiraterone
+  - Ranitidine
+  - Fosamprenavir
+  - Gemfibrozil
+  - Moderate interactions include other opioids and CNS depressants (codeine, dihydrocodeine, tramadol, ethanol) and several antihistamines (chlorpheniramine, cetirizine, acrivastine, phenyltoloxamine).
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (acute contagious conjunctivitis) has no trials, no literature, and no plausible mechanism. The score of 99.97% therefore carries no practical weight. There is also no ophthalmic formulation, and the source record lacks package insert safety data.
+The rank-1 prediction (acute contagious conjunctivitis) and the other ocular predictions are graph-based only (L5), with no trials, no literature and no plausible mechanism. The two predictions with literature (amebic dysentery and gastroduodenitis, L4) show safety signals rather than efficacy. Antimotility agents are generally avoided in invasive dysentery. Also, all US licenses are cancelled.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data from DrugBank
-- Any credible preclinical or clinical evidence for an ocular indication. Without it, this prediction should not advance.
-- Consider redirecting effort to gastroduodenitis (rank 4), the only prediction with a plausible symptomatic rationale. It would need a controlled study and a review of the mucosal-permeability safety concern.
+- Mechanism of action data for loperamide
+- Any preclinical or clinical evidence for the predicted indications, and a clear route and dosage form rationale for any ocular use
+- Review of whether the prediction reflects knowledge graph artifacts, given the identical scores among the conjunctivitis subtypes
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,35 +29,35 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Mirtazapine: From Antidepressant Use to Ohdo Syndrome and Variants
+# Mirtazapine: From Depression to Ohdo Syndrome and Variants
 
 ## One-Sentence Summary
 
-Mirtazapine is a marketed antidepressant. The evidence pack does not include its approved indication text.
-The TxGNN model predicts it may be effective for **Ohdo syndrome and variants** with a score of 99.42%, but **0 clinical trials** and **0 publications** support this prediction.
-This is a model-only signal with no supporting mechanism, so the recommendation is **Hold**.
+Mirtazapine is an antidepressant, originally used for depressive disorders and anxiety disorder.
+The TxGNN model predicts it may be effective for **Ohdo syndrome and variants**,
+but there are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the US license records (antidepressant per pharmacological class) |
+| Original Indication | Unipolar depression, endogenous depression, major depressive disorder, anxiety disorder (from the knowledge graph; no approved-indication text is available in the US license records) |
 | Predicted New Indication | Ohdo syndrome and variants |
 | TxGNN Prediction Score | 99.42% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (the listed licenses are generic ANDAs) |
+| US Market Status | Cancelled only (none of the licenses is currently valid) |
+| Number of NDAs | 7 (all are generic ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the source data. The pharmacology below comes from the analyst's rationale, not from DrugBank. Mirtazapine is a noradrenergic and specific serotonergic antidepressant. It antagonises alpha-2 adrenergic, 5-HT2, 5-HT3 and H1 receptors.
+Currently, detailed mechanism of action data is not available. Mirtazapine is generally described as a noradrenergic and serotonergic modulator, and its efficacy in depression and anxiety is established. However, the data compiled for this report contain no mechanistic link to the predicted indication.
 
-Ohdo syndrome is a rare congenital developmental disorder, typically linked to KAT6B, a chromatin-modifier gene. No plausible pathway connects monoaminergic modulation to this pathology. The high score is most likely a knowledge-graph artifact from sparse or shared-neighbour annotations rather than a real pharmacological signal.
+Ohdo syndrome (a KAT6B-related condition) is a rare genetic neurodevelopmental disorder. No known pathway connects mirtazapine's pharmacology to its underlying pathophysiology. Any connection would be speculative and possibly limited to symptom-level effects (for example, sleep or appetite), and nothing in the data supports even that.
 
-Two other predictions were reviewed:
-- **Blepharophimosis – intellectual disability syndrome, Ohdo type (99.11%)** is the same disease as the top prediction under a different name. It is not independent evidence. At most, symptom-level use (mood or sleep) could be speculated, but that is not disease-modifying and has no supporting data.
-- **Benign paroxysmal torticollis of infancy (99.11%)** is considered a migraine equivalent, often associated with CACNA1A variants. Some serotonergic antidepressants are used for migraine prophylaxis, but this is not established for mirtazapine or for infants. The condition is usually self-limiting, so the benefit-risk case for a systemic psychotropic in this age group is weak.
+The score is very high (0.994), but it is a model prediction only. Two other top predictions are also weak:
+- **Blepharophimosis - intellectual disability syndrome, Ohdo type** (score 99.11%): this appears to be a closely related or duplicate disease concept to the top prediction. It likely reflects knowledge-graph overlap and should not be counted as independent evidence.
+- **Benign paroxysmal torticollis of infancy** (score 99.11%): this is a paroxysmal movement disorder of infancy, often considered migraine-related. Mirtazapine has been discussed for migraine prophylaxis or nausea, which is a hypothetical connection at best. No trial or publication supports it, and using mirtazapine in infants would raise significant safety concerns.
 
 ## Clinical Trial Evidence
 
@@ -69,35 +69,48 @@ Currently no related literature available.
 
 ## US Market Information
 
-Approved indication text is not included in the records. The first five of 20 authorizations are shown.
-
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA076921 | Mirtazapine | Tablet, film coated | Aurobindo Pharma Limited |
-| ANDA076541 | Mirtazapine | Tablet | Bryant Ranch Prepack |
-| ANDA076122 | Mirtazapine | Tablet, film coated | Mylan Pharmaceuticals Inc. |
-| ANDA076921 | Mirtazapine | Tablet, film coated | Advanced Rx Pharmacy of Tennessee, LLC |
-| ANDA205798 | Mirtazapine | Tablet, orally disintegrating | Viona Pharmaceuticals Inc. |
+| ANDA076921 (cancelled) | Mirtazapine (Aurobindo Pharma Limited) | Tablet, film coated | Not specified |
+| ANDA076541 (cancelled) | Mirtazapine (Bryant Ranch Prepack) | Tablet | Not specified |
+| ANDA076122 (cancelled) | Mirtazapine (Mylan Pharmaceuticals Inc.) | Tablet, film coated | Not specified |
+| ANDA205798 (cancelled) | Mirtazapine (Viona Pharmaceuticals Inc.) | Tablet, orally disintegrating | Not specified |
+| ANDA216751 (cancelled) | Mirtazapine (Aphena Pharma Solutions - Tennessee, LLC) | Tablet, film coated | Not specified |
 
-All products are oral formulations.
+Seven licenses were found in total; the five above are shown. All are oral products, and all are cancelled.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Package insert warnings and contraindications were not available for this report, so please refer to the package insert for label-based safety information.
+
+**Contraindication signals from the knowledge graph (not label text):** The knowledge graph links mirtazapine to the following conditions as contraindications. They should be verified against the official label:
+- **Cardiovascular and cerebrovascular:** orthostatic hypotension, hypotensive disorder, postural orthostatic tachycardia syndrome, multiple system atrophy, stroke, cerebrovascular disorder, cerebral infarction, myocardial infarction, coronary thrombosis
+- **Neurological and psychiatric:** epilepsy, manic bipolar affective disorder, serotonin syndrome, drug-induced akathisia
+- **Haematological:** neutropenia, agranulocytosis, hemoglobinopathy
+- **Metabolic, hepatic and renal:** hypertriglyceridemia, obesity (including monogenic obesity), liver disease, gallbladder disease, impaired renal function
+
+**Drug interactions:** 100 interactions were recorded; 20 are listed in the data compiled for this report. Major-level interactions include:
+- Bupropion
+- Lorcaserin
+- Dolasetron
+- Palonosetron
+
+Moderate-level interactions include famotidine, loperamide, aprepitant, morphine, dexamethasone, cimetidine, clarithromycin, levofloxacin and others.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score, with no trials, no literature and no plausible mechanistic link to a genetic developmental disorder. The two Ohdo syndrome predictions are one entity, so they are not independent support.
+The prediction has a high model score but no clinical trials, no literature and no supported mechanistic link (Evidence Level L5). The second prediction is likely a duplicate of the first. The third would involve infant use with no pediatric data. In addition, all US licenses for mirtazapine are cancelled, and the safety data are incomplete.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Confirmed mechanism of action data (for example from DrugBank)
-- A credible biological link between mirtazapine's pharmacology and KAT6B-related pathology, or a defined symptom-level target
-- Any preclinical or clinical study in Ohdo syndrome or benign paroxysmal torticollis of infancy
-- Route and age-group compatibility assessment, especially for infants
+- Mechanism of action data for mirtazapine, to assess any plausible link to KAT6B-related or paroxysmal movement disorders
+- Package insert warnings and contraindications, to complete safety screening
+- Preclinical or case-level evidence supporting the predicted indication
+- Confirmation of whether the two Ohdo-related predictions are the same disease concept
+- Pediatric safety data, if benign paroxysmal torticollis of infancy is pursued
+- Clarification of the current US market status and available formulations
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

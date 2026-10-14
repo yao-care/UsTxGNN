@@ -29,86 +29,71 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Potassium Nitrate: From Marketed Topical Products (Original Indication Not Listed) to Meningococcal Infection
+# Potassium Nitrate: From an Unspecified Original Indication to Meningococcal Infection
 
 ## One-Sentence Summary
 
-Potassium nitrate is marketed in the US in products such as dentifrice pastes and gels and homeopathic pellets, but no approved indication text is on record.
-The TxGNN model predicts it may be effective for **meningococcal infection**, but there are currently **0 clinical trials** and **0 publications** supporting this direction, so it is a model prediction only.
-
----
+Potassium nitrate is a nitrate salt. In the US it appears only in cancelled products (a dentifrice paste and a homeopathic pellet), and no approved indication is recorded for it in the data compiled for this report.
+The TxGNN model predicts it may be effective for **meningococcal infection**, but **0 clinical trials** and **0 publications** currently support this direction.
+This is a model-only prediction, and the data compiled for this report do not support a plausible therapeutic role.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed (approved indication text is empty in all records) |
+| Original Indication | Not recorded in the available data |
 | Predicted New Indication | Meningococcal infection |
 | TxGNN Prediction Score | 99.61% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 12 |
+| US Market Status | Cancelled only |
+| Number of NDAs | 2 (both cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Potassium nitrate is a marketed ingredient, mainly in topical dental products, but its original indication is not recorded, so no mechanistic link to the original use can be drawn.
+Currently, detailed mechanism of action data is not available, and no original indication is recorded for potassium nitrate. Based on general chemistry, it is a nitrate salt that can be reduced to nitrite and nitric oxide. Nitric oxide has general antimicrobial properties in some contexts.
 
-One speculative link is the nitrate-nitrite-nitric oxide pathway. Acidified nitrite and nitric oxide show in vitro antimicrobial activity against some bacteria. There is no evidence that this applies to *Neisseria meningitidis*, that safe systemic doses would reach sufficient exposure, or that it could substitute for standard antibiotic therapy.
+That link is speculative. No trial or publication connects potassium nitrate to *Neisseria meningitidis* infection. Meningococcal infection is a severe invasive bacterial disease, treated with established antibiotics and prevented by vaccines, so a nitrate salt has no plausible therapeutic role without supporting data. The high TxGNN score is a computational prediction only and cannot replace clinical evidence.
 
-Meningococcal infection is life-threatening and already has effective antibiotics and vaccines. Any repurposing claim would need very strong evidence, and the score of 0.996 is a computational prediction with no supporting studies.
-
-TxGNN also predicted sclerosing cholangitis as a second candidate (score 99.21%, also L5, Hold). It has no supporting trials or literature either, and the nitric oxide and microcirculation rationale is hypothesis-level only.
-
----
+A second prediction, **sclerosing cholangitis** (score 99.21%), is also Level L5 with no trials or literature. It has only a theoretical rationale: nitrate-nitrite-nitric oxide signaling might affect vascular tone, inflammation and biliary epithelial function. It is likewise a **Hold**.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
-
----
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| M022 | SprinJene Natural | Paste, dentifrice | Not listed |
-| Not listed | Kali Nitricum | Pellet | Not listed |
-| M022 | Attitude Adult Fluoride-free - Sensitive - Spearmint | Gel, dentifrice | Not listed |
-| Not listed | Kali Nitricum | Pellet | Not listed |
-| Not listed | Kali Nitricum | Pellet | Not listed |
+| M022 | SprinJene Natural | Paste, dentifrice | Not recorded (cancelled) |
+| Not available | Kali Nitricum | Pellet | Not recorded (cancelled) |
 
-Showing 5 of 12 authorizations.
-
----
+Both authorizations are cancelled, so there is currently no valid US marketed product. Other dosage forms associated with this ingredient include dentifrice gel (topical) and paste.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Knowledge-graph contraindication signal**: The TxGNN knowledge graph lists **dental fluorosis** as a contraindicated disease. This comes from drug-disease graph edges, not from label text.
+- **Drug Interactions**: No interactions were found in the queried data.
 
----
+Please refer to the package insert for any further safety information. Label warnings and contraindications were not available for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on model output alone (L5), with no clinical trials or literature. The mechanism is unvalidated, and meningococcal infection is a life-threatening disease with effective standard-of-care treatment. Safety data for systemic use is also missing.
+The prediction rests only on a model score, with no clinical trials, no literature, no mechanism of action data and no recorded original indication. The biological rationale for treating meningococcal infection with a nitrate salt is implausible, and all US authorizations are cancelled.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data, for example from DrugBank
-- Preclinical evidence, such as in vitro activity against *N. meningitidis*
-- A systemic safety assessment, including methemoglobinemia risk
-- Confirmation of the original approved indications for the marketed products
+- Mechanism of action data (for example, from DrugBank)
+- Package insert warnings and contraindications (blocking for safety screening)
+- Any preclinical or clinical evidence of activity against *Neisseria meningitidis*, with comparison against established antibiotic therapy and vaccination
+- Route-of-administration compatibility assessment for any systemic use
+- Clarification of the original indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

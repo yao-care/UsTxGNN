@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Lurasidone
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 878
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Lurasidone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L3** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,96 +29,97 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Lurasidone: From Schizophrenia to Manic Bipolar Affective Disorder
+# Lurasidone: From Bipolar Disorder and Schizophrenia to Manic Bipolar Affective Disorder
 
 ## One-Sentence Summary
 
-Lurasidone is an atypical antipsychotic. The literature in the Evidence Pack describes its US uses as schizophrenia and bipolar I depression, but the license records supplied no indication text.
-The TxGNN model predicts it may be effective for **manic bipolar affective disorder**, with **14 clinical trials** and **18 publications** retrieved for this direction.
-Nearly all of this evidence concerns bipolar I *depression*, which is already a labeled use. No study directly shows efficacy in acute mania.
+Lurasidone is an atypical antipsychotic originally used to treat bipolar disorder (bipolar depression) and schizophrenia.
+The TxGNN model predicts it may be effective for **manic bipolar affective disorder**,
+but the evidence is thin: the only registered trial (**1 clinical trial**) was withdrawn with no participants, and the **20 publications** are mostly guidelines, reviews and meta-analyses that support the drug indirectly.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Schizophrenia (from literature; US license records carry no indication text) |
+| Original Indication | Bipolar disorder, schizophrenia (from the knowledge graph; no approved-indication text is available in the US license records) |
 | Predicted New Indication | Manic bipolar affective disorder |
 | TxGNN Prediction Score | 99.98% |
-| Evidence Level | L1 (multiple completed Phase 3 RCTs, but in bipolar depression rather than mania) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 licenses (the 5 listed are generic ANDAs) |
-| Recommended Decision | Proceed with Guardrails |
+| Evidence Level | L3 |
+| US Market Status | Cancelled only (all licenses are listed as cancelled) |
+| Number of NDAs | 12 (all generic ANDAs) |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the dataset. Based on general pharmacology, lurasidone is an atypical antipsychotic. It antagonizes D2, 5-HT2A and 5-HT7 receptors and is a partial agonist at 5-HT1A. This profile is consistent with mood-stabilizing and antidepressant effects in bipolar disorder.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, lurasidone is an atypical antipsychotic with D2 and 5-HT2A/5-HT7 antagonism and 5-HT1A partial agonism. Other atypical antipsychotics with this kind of receptor profile are used for acute mania, so an antimanic effect is plausible.
 
-Schizophrenia and bipolar disorder are both major psychiatric illnesses treated with overlapping antipsychotic drugs. The predicted "manic bipolar affective disorder" label sits in the same disease family as the bipolar I depression indication that lurasidone already carries in the US.
+Lurasidone is already used in bipolar disorder, mainly bipolar depression. The predicted indication is therefore closer to an extension within the same disease family than to true repurposing. Mania is the opposite mood pole from depression, and the supporting literature mainly addresses bipolar depression. For example, a 2024 dose-response meta-analysis covers lurasidone in bipolar depression, not mania. Evidence for the manic phase is therefore indirect and inferred from class effects.
 
-**Caveat:** The Phase 3 program covers bipolar I depression in adults and children, as monotherapy and adjunctive to lithium or valproate. A 2020 expert review (PMID 31957501) states that lurasidone has not been studied in patients with mania or bipolar psychosis. The prediction is therefore best read as supporting bipolar disorder broadly, not acute mania specifically. Confirm the target phenotype before treating this as a true repurposing signal.
+One caution: a case report (PMID 31298818) describes lurasidone-induced mania, which suggests the drug does not behave like a classic antimanic agent in every patient.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT01986101](https://clinicaltrials.gov/study/NCT01986101) | Phase 3 | Completed | 525 | Randomized, double-blind, placebo-controlled study of SM-13496 (lurasidone) in bipolar I depression |
-| [NCT02046369](https://clinicaltrials.gov/study/NCT02046369) | Phase 3 | Completed | 350 | 6-week placebo-controlled flexible-dose study in children and adolescents with bipolar I depression |
-| [NCT01358357](https://clinicaltrials.gov/study/NCT01358357) | Phase 3 | Completed | 965 | Lurasidone adjunctive to lithium or divalproex for preventing recurrence in bipolar I disorder |
-| [NCT01575561](https://clinicaltrials.gov/study/NCT01575561) | Phase 3 | Completed | 377 | 12-week open-label extension of lurasidone adjunctive to lithium or divalproex; long-term safety and tolerability |
-| [NCT01914393](https://clinicaltrials.gov/study/NCT01914393) | Phase 3 | Completed | 702 | 104-week open-label extension in pediatric patients; long-term safety and effectiveness |
-| [NCT01986114](https://clinicaltrials.gov/study/NCT01986114) | Phase 3 | Completed | 495 | Long-term efficacy and safety of SM-13496 in bipolar I disorder |
-| [NCT02731612](https://clinicaltrials.gov/study/NCT02731612) | Phase 3 | Completed | 100 | Placebo-controlled adjunctive lurasidone for cognition in euthymic bipolar I/II patients |
-| [NCT04383691](https://clinicaltrials.gov/study/NCT04383691) | Phase 3 | Terminated | 124 | 6-week placebo-controlled flexible-dose study in bipolar I depression; stopped early |
-| [NCT06433635](https://clinicaltrials.gov/study/NCT06433635) | Phase 4 | Active, not recruiting | 2726 | Pragmatic sequential trial comparing cariprazine, quetiapine, lurasidone and aripiprazole/escitalopram in bipolar depression |
-| [NCT01932541](https://clinicaltrials.gov/study/NCT01932541) | Phase 4 | Withdrawn | 0 | Planned open-label lurasidone study for mania in children and adolescents; never enrolled |
+| [NCT01932541](https://clinicaltrials.gov/study/NCT01932541) | Phase 4 | Withdrawn | 0 | An 8-week open-label study of lurasidone (Latuda) for mania in children and adolescents aged 6-17 with bipolar I, II or spectrum disorders. It was withdrawn with no participants, so it provides no efficacy or safety data. |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [39557452](https://pubmed.ncbi.nlm.nih.gov/39557452/) | 2024 | Systematic review / dose-response meta-analysis | BMJ Ment Health | Examines the lurasidone dose-response relationship for efficacy, acceptability and metabolic/endocrine profile in bipolar depression |
-| [37595997](https://pubmed.ncbi.nlm.nih.gov/37595997/) | 2023 | Network meta-analysis | Lancet Psychiatry | Compares efficacy and tolerability of drug treatments for acute bipolar depression in adults |
-| [33177610](https://pubmed.ncbi.nlm.nih.gov/33177610/) | 2021 | Systematic review / network meta-analysis | Mol Psychiatry | Compares antipsychotics and mood stabilizers in the maintenance phase of bipolar disorder |
-| [31957501](https://pubmed.ncbi.nlm.nih.gov/31957501/) | 2020 | Review | Expert Opin Pharmacother | Reviews lurasidone pharmacology and major RCTs; notes it is approved for bipolar I depression but has not been studied in mania |
-| [29536616](https://pubmed.ncbi.nlm.nih.gov/29536616/) | 2018 | Guideline | Bipolar Disord | CANMAT/ISBD 2018 guidelines for managing bipolar disorder |
-| [34599629](https://pubmed.ncbi.nlm.nih.gov/34599629/) | 2021 | Guideline | Bipolar Disord | CANMAT/ISBD recommendations for bipolar disorder with mixed presentations |
-| [37815563](https://pubmed.ncbi.nlm.nih.gov/37815563/) | 2023 | Review | JAMA | Overview of diagnosis and treatment of bipolar disorder |
+| [37815563](https://pubmed.ncbi.nlm.nih.gov/37815563/) | 2023 | Review | JAMA | Overview of the diagnosis and treatment of bipolar disorder |
+| [29536616](https://pubmed.ncbi.nlm.nih.gov/29536616/) | 2018 | Guideline | Bipolar Disorders | CANMAT/ISBD 2018 guidelines for managing bipolar disorder |
+| [34599629](https://pubmed.ncbi.nlm.nih.gov/34599629/) | 2021 | Guideline | Bipolar Disorders | CANMAT/ISBD recommendations for bipolar disorder with mixed presentations |
+| [39557452](https://pubmed.ncbi.nlm.nih.gov/39557452/) | 2024 | Meta-analysis | BMJ Mental Health | Dose-response analysis of lurasidone efficacy and acceptability in bipolar depression (not mania) |
+| [37595997](https://pubmed.ncbi.nlm.nih.gov/37595997/) | 2023 | Meta-analysis | Lancet Psychiatry | Network meta-analysis of drug treatments for acute bipolar depression |
+| [38487836](https://pubmed.ncbi.nlm.nih.gov/38487836/) | 2024 | Network meta-analysis | European Psychiatry | Efficacy and tolerability of FDA-approved atypical antipsychotics, including lurasidone, in bipolar depression (16 RCTs, 7,234 patients) |
+| [33177610](https://pubmed.ncbi.nlm.nih.gov/33177610/) | 2021 | Systematic review | Molecular Psychiatry | Network meta-analysis of mood stabilizers and antipsychotics in bipolar maintenance treatment |
 | [36472471](https://pubmed.ncbi.nlm.nih.gov/36472471/) | 2022 | Review | J Child Adolesc Psychopharmacol | Treatment algorithms for manic/mixed and depressed episodes in pediatric bipolar disorder |
-| [39243127](https://pubmed.ncbi.nlm.nih.gov/39243127/) | 2024 | Review | Med Sci Monit | Narrative review of newer antipsychotics and mood stabilizers, including lurasidone, in bipolar disorder and schizophrenia |
-| [24170243](https://pubmed.ncbi.nlm.nih.gov/24170243/) | 2014 | Commentary | Am J Psychiatry | "Lurasidone and bipolar disorder" (no abstract available) |
+| [38618207](https://pubmed.ncbi.nlm.nih.gov/38618207/) | 2024 | Network meta-analysis | EClinicalMedicine | Metabolic effects of antipsychotics and mood stabilizers in bipolar disorder |
+| [31298818](https://pubmed.ncbi.nlm.nih.gov/31298818/) | 2019 | Case report | Prim Care Companion CNS Disord | Report of lurasidone-induced mania |
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| ANDA212244 | lurasidone hydrochloride | Tablet, film coated | Ascend Laboratories, LLC |
-| ANDA213248 | Lurasidone Hydrochloride | Tablet, film coated | Alembic Pharmaceuticals Inc. |
-| ANDA208058 | Lurasidone Hydrochloride | Tablet, film coated | Heritage Pharma Labs Inc. d/b/a Avet Pharmaceuticals Inc. |
-| ANDA218174 | Lurasidone Hydrochloride | Tablet, film coated | Camber Pharmaceuticals, Inc. |
-| ANDA208028 | Lurasidone Hydrochloride | Tablet, film coated | Exelan Pharmaceuticals Inc. |
+The 12 licenses are all generic ANDAs, and all are listed as cancelled. No approved-indication text is recorded for any of them. The table shows 5 of the 12.
 
-The drug is marketed only as oral tablets (film coated, coated and plain). There are 20 licenses in total.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA212244 | Lurasidone hydrochloride (Ascend Laboratories) | Film-coated tablet | Not recorded |
+| ANDA213248 | Lurasidone hydrochloride (Alembic) | Film-coated tablet | Not recorded |
+| ANDA208058 | Lurasidone hydrochloride (Avet) | Film-coated tablet | Not recorded |
+| ANDA208045 | Lurasidone hydrochloride (Aurobindo) | Tablet | Not recorded |
+| ANDA208002 | Lurasidone hydrochloride (Amneal) | Coated tablet | Not recorded |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. The interaction query returned no records.
+**Contraindication-related conditions (from the knowledge graph, not label text):** The knowledge graph links lurasidone to caution in the following groups:
+- Cardiovascular and cerebrovascular: orthostatic hypotension, postural orthostatic tachycardia syndrome, multiple system atrophy, stroke, cerebrovascular disorder, cerebral infarction, transient ischemic attack, vertebrobasilar insufficiency
+- Metabolic: hyperglycemia, diabetes mellitus, diabetic ketoacidosis, hyperlipidemia
+- Hematologic: neutropenia, leukopenia, agranulocytosis
+- Neurologic and movement: epilepsy, neuroleptic malignant syndrome, tardive dyskinesia
+- Organ function: liver disease and liver failure, impaired renal function, gallbladder disease
+- Endocrine: hyperprolactinemia and prolactin-producing pituitary tumor
 
-Antipsychotic-induced weight gain and metabolic effects are a known class concern. A dose-response meta-analysis (PMID 39557452) evaluated lurasidone's metabolic and endocrine profile.
+**Drug Interactions:** 100 interactions were found. Examples of the 20 listed:
+- **Major:** bupropion, aprepitant, morphine, clarithromycin
+- **Moderate:** several antidiabetic agents (acarbose, alogliptin, metformin, pioglitazone, canagliflozin, chlorpropamide), epinephrine, dexamethasone, cimetidine, and anticholinergics (atropine, hyoscyamine, glycopyrronium)
+
+Package insert warnings were not available in the data compiled for this report. Please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-Several completed Phase 3 RCTs and extension studies support lurasidone in bipolar I disorder, and meta-analyses and guidelines back this. That evidence addresses bipolar depression, which is already a labeled use. It does not show efficacy in acute manic or mixed episodes, and the only mania-specific trial (NCT01932541) was withdrawn.
-
-The other nine predicted indications (ranks 2–10, such as retinal dystrophy, myopia and hydranencephaly) rest on the model score alone. They have no trials and no plausible mechanism, so they are rated L5 / Hold.
+- The only trial for the predicted indication was withdrawn with no participants, and the literature addresses bipolar depression or bipolar disorder in general rather than mania specifically. The antimanic rationale rests on class effects.
+- All 12 US licenses are cancelled, and the package insert warnings and the mechanism of action data are missing.
+- Nine other predicted indications (for example retinal dystrophy, hydranencephaly and several myopia subtypes) have high model scores but no trials or literature, and they have no plausible pharmacological rationale. They are all rated Hold.
 
 **To proceed, the following is needed:**
-- Decide whether the target is bipolar depression (already labeled) or acute mania (unsupported); if mania, a dedicated trial or mania-specific data is required
-- Package insert warnings and contraindications from the FDA label, needed for safety screening
-- Detailed mechanism-of-action data from DrugBank
-- Metabolic monitoring plan (weight, glucose, lipids) and review of pediatric and pregnancy exposure data
+- Mechanism of action data and the package insert's warnings and contraindications
+- Controlled trials of lurasidone in acute mania (adult and pediatric), or a review of existing data
+- Current US marketing status, since all licenses are listed as cancelled
+- A safety plan covering metabolic, cardiovascular and hematologic risks, along with the major drug interactions
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

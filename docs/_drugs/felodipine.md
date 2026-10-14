@@ -29,74 +29,96 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Felodipine: From Hypertension to Pulmonary Hypertension (Unclear Multifactorial Mechanism)
+# Felodipine: From Hypertension to Pulmonary Hypertension (Multifactorial Mechanism)
 
 ## One-Sentence Summary
 
-Felodipine is a dihydropyridine calcium channel blocker, a vasodilating drug that is marketed in the US as generic tablets. The licence records supplied do not state its indication, so hypertension is assumed here from its drug class.
-The TxGNN model predicts it may be effective for **pulmonary hypertension with unclear multifactorial mechanism**, with a very high graph score.
-However, there are **0 clinical trials** and **0 publications** supporting this specific prediction, so it remains a model-only signal.
+Felodipine is a dihydropyridine calcium channel blocker originally used to treat hypertension.
+The TxGNN model's top-ranked prediction is **pulmonary hypertension with unclear multifactorial mechanism**, but there are **0 clinical trials** and **0 publications** supporting this specific prediction.
+The best-supported alternative among the predictions is **Prinzmetal angina**, with **7 publications** (small clinical studies and reviews) and no registered trials.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the licence records (hypertension assumed from drug class) |
+| Original Indication | Hypertension (hypertensive disorder); no approved indication text is available in the US license records |
 | Predicted New Indication | Pulmonary hypertension with unclear multifactorial mechanism |
 | TxGNN Prediction Score | 99.91% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (all listed entries are ANDA generic authorizations) |
+| US Market Status | Cancelled only (all licenses cancelled) |
+| Number of NDAs | 6 (all ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, felodipine is a dihydropyridine L-type calcium channel blocker. It lowers vascular tone by relaxing arterial smooth muscle, and this mechanistically may be applicable to pulmonary hypertension.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, felodipine is a dihydropyridine L-type calcium channel blocker that relaxes vascular smooth muscle. Its efficacy in hypertension comes from lowering systemic vascular resistance.
 
-Pulmonary vasodilation is therefore theoretically plausible. The high TxGNN score reflects graph proximity between the drug and the disease, not experimental or clinical confirmation. Calcium channel blockers are generally reserved for the small group of pulmonary arterial hypertension patients who respond to vasodilator testing. A general-purpose vasodilator such as felodipine is not an established option for a broad or poorly defined pulmonary hypertension group.
+Mechanistically, similar vasodilation could reduce pulmonary vascular tone, which is why the model links felodipine to pulmonary hypertension. However, this is the only support. Pulmonary hypertension with a multifactorial cause is a heterogeneous condition, and a single vasodilator mechanism is unlikely to work across all of it.
+
+Other predictions fall into three groups:
+- **Close to the original indication:** malignant renovascular hypertension and malignant hypertensive renal disease. They are severe forms of hypertension, so they offer little novelty as repurposing and have no supporting studies.
+- **Related but indirect:** pulmonary hypertension owing to lung disease/hypoxia and chronic pulmonary heart disease. Supporting papers are preclinical or only loosely related. One 1988 hemodynamic study in severe COPD showed felodipine infusion reduced pulmonary vascular resistance by 18%.
+- **Best mechanistic fit:** Prinzmetal angina, which is driven by coronary vasospasm, where calcium channel blockers are a recognized treatment class.
+- **No clear rationale:** Braddock syndrome, a rare condition with no supporting data.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials registered for the top-ranked predicted indication, or for any of the other predicted indications.
 
 ## Literature Evidence
 
-Currently no related literature available.
+**Top-ranked prediction (pulmonary hypertension with unclear multifactorial mechanism):** Currently no related literature available.
+
+**Most relevant literature across the other predictions** (all are small or dated; none directly addresses felodipine in pulmonary arterial hypertension):
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [8013514](https://pubmed.ncbi.nlm.nih.gov/8013514/) | 1994 | Clinical study (14 patients) | Eur Heart J | Once-daily extended-release felodipine 20 mg tested against ergonovine-induced ischaemia in Prinzmetal's variant angina |
+| [1746458](https://pubmed.ncbi.nlm.nih.gov/1746458/) | 1991 | Clinical comparative study (30 patients) | Am J Cardiol | Once-daily felodipine (10 and 20 mg) compared with nifedipine 20 mg four times daily in Prinzmetal's angina using Holter monitoring |
+| [2909138](https://pubmed.ncbi.nlm.nih.gov/2909138/) | 1989 | Clinical study | Am J Cardiol | Effect of felodipine on hyperventilation-induced ischaemic attacks in variant angina (no abstract available) |
+| [7744087](https://pubmed.ncbi.nlm.nih.gov/7744087/) | 1995 | Double-blind randomized crossover (43 patients) | Eur Heart J | In stable exercise-induced angina, felodipine ER and nifedipine SR both improved exercise duration (by 66 s and 50 s) versus placebo |
+| [7728649](https://pubmed.ncbi.nlm.nih.gov/7728649/) | 1995 | Review | Can J Cardiol | Calcium channel blockers are first-choice drugs in Prinzmetal's angina because of their antivasospastic properties |
+| [2838319](https://pubmed.ncbi.nlm.nih.gov/2838319/) | 1988 | Clinical hemodynamic study (11 patients) | Eur Respir J | In severe COPD, felodipine infusion reduced pulmonary vascular resistance by 18% and systemic resistance by 33%, and increased cardiac output by 33% |
+| [2487551](https://pubmed.ncbi.nlm.nih.gov/2487551/) | 1989 | Clinical hemodynamic study (10 patients) | Cardiovasc Drugs Ther | Acute hemodynamic and regional blood flow effects of felodipine in severe chronic heart failure |
+| [14689111](https://pubmed.ncbi.nlm.nih.gov/14689111/) | 2003 | Review | Herz | Overview of differential therapy with calcium antagonists |
+| [3154329](https://pubmed.ncbi.nlm.nih.gov/3154329/) | 1988 | Review | Cardiovasc Drugs Ther | Use and comparative efficacy of calcium antagonists in hypertension and supraventricular arrhythmias |
+| [8584414](https://pubmed.ncbi.nlm.nih.gov/8584414/) | 1995 | Preclinical (rat proximal tubules) | Pflugers Arch | Felodipine protected against hypoxic injury via a calcium-independent mechanism |
+
+The preclinical papers on hypoxia (rat aorta, atrial muscle, cerebral arteries and others) are indirect and do not examine the pulmonary vasculature.
 
 ## US Market Information
 
+All six US authorizations are cancelled. No approved indication text is recorded for them.
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA210847 | Felopdipine (as listed; Westminster Pharmaceuticals) | Tablet, extended release | Not stated in record |
-| ANDA204800 | Felodipine (Bryant Ranch Prepack) | Tablet, film coated | Not stated in record |
-| ANDA210847 | Felodipine (Yiling Pharmaceutical) | Tablet, extended release | Not stated in record |
-| ANDA202170 | Felodipine (Bryant Ranch Prepack) | Tablet, extended release | Not stated in record |
-
-All listed products are oral formulations.
+| ANDA210847 | Felodipine (Westminster Pharmaceuticals) | Tablet, extended release | Not recorded |
+| ANDA204800 | Felodipine (Bryant Ranch Prepack) | Tablet, film coated | Not recorded |
+| ANDA202170 | Felodipine (Bryant Ranch Prepack) | Tablet, extended release | Not recorded |
+| ANDA200815 | Felodipine (Endo USA) | Tablet, extended release | Not recorded |
+| ANDA201964 | Felodipine (Avet Pharmaceuticals) | Tablet, extended release | Not recorded |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug-interaction records were found in the data provided.
+Package insert warnings and contraindications were not available in the data compiled for this report; please refer to the package insert for these.
+
+- **Disease associations flagged in the knowledge graph (not label text):** kidney disease, liver disease, gallbladder disease, angioedema (several forms), neutropenia and agranulocytosis, aortic stenosis and other aortic valve disease, hypotensive disorder, hypertrophic cardiomyopathy, renal artery obstruction, myocardial infarction, coronary artery disease and atherosclerosis, hemoglobinopathy, and connective tissue, bone and cartilage disease. These should be verified against the official label.
+- **Drug Interactions:** The interaction screen returned 100 interactions in total. Most listed ones are Moderate, including corticosteroids (hydrocortisone, dexamethasone, betamethasone, budesonide, triamcinolone), bupropion, aprepitant, morphine, aspirin, cimetidine, clarithromycin, SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin), and calcium salts. **Dolasetron** is the Major-level interaction among those shown.
+- **Additional concern for hypoxic lung disease:** Vasodilators can worsen ventilation-perfusion matching.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a graph-based score. No trials or drug-specific literature support it, and calcium channel blockers are only used in a narrow, vasoreactive subset of pulmonary hypertension. Systemic vasodilators can also worsen oxygenation in lung-disease-related forms.
+The top-ranked prediction, pulmonary hypertension with unclear multifactorial mechanism, is supported only by the model score (L5). There are no trials or literature, and the heterogeneous cause makes a single mechanism unlikely to apply broadly. All six US licenses are cancelled, which further limits availability. Prinzmetal angina has the strongest supporting literature (L3, small and dated studies), but calcium channel blockers are already established there, so it is better treated as a research question than a repurposing priority.
 
 **To proceed, the following is needed:**
-- Felodipine-specific preclinical or clinical data in pulmonary hypertension, ideally a defined subgroup such as vasoreactive PAH
-- Package insert warnings and contraindications (currently a blocking gap for safety screening)
-- Detailed mechanism of action data from DrugBank
-- Approved indication text for the licences, to confirm the original indication
-
-**Other predicted indications for this drug:**
-- **Prinzmetal angina** (rank 7, score 99.07%) has by far the strongest support. It has felodipine-specific studies, including a double-blind comparison with nifedipine and placebo in stable angina (PMID 7744087), a felodipine vs nifedipine comparison in Prinzmetal angina (PMID 1746458), and ergonovine-provocation studies (PMID 8013514). Its evidence level is L2, and its recommendation is Proceed with Guardrails. It is a better candidate to prioritize than the pulmonary hypertension prediction.
-- **Chronic pulmonary heart disease** (rank 6) has indirect, dated hemodynamic studies only. It is a research question, not a candidate for development.
-- The remaining predictions (ranks 2–5) have no meaningful drug-specific evidence and stay on Hold.
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
+- Obtain the FDA package insert to confirm warnings, contraindications and approved indications (a blocking gap for safety screening)
+- Obtain detailed mechanism of action data from DrugBank
+- Direct preclinical or clinical evidence of felodipine in pulmonary hypertension, particularly in pulmonary vascular models
+- Assessment of ventilation-perfusion risk in hypoxic lung disease
+- Confirmation of current product availability, since all US licenses are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

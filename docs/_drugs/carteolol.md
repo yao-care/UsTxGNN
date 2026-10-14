@@ -29,32 +29,35 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Carteolol: From Beta-Blocker Use (Original Indication Not Recorded) to Primary Hereditary Glaucoma
+# Carteolol: From Hypertension and Open-Angle Glaucoma to Primary Hereditary Glaucoma
 
 ## One-Sentence Summary
 
-Carteolol is a non-selective beta-blocker marketed in the US as a solution. The record does not list its original indication.
-The TxGNN model predicts it may be effective for **primary hereditary glaucoma**, but the only support is the model score, with **0 clinical trials** and **0 publications** supplied.
+Carteolol is a non-selective beta-blocker originally used for hypertension and for open-angle glaucoma and ocular hypertension.
+The TxGNN model predicts it may be effective for **Primary Hereditary Glaucoma**,
+but currently there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the record (the approved indication text is empty) |
+| Original Indication | Hypertension, open-angle glaucoma, ocular hypertension (the US label text is not available in the data compiled for this report; these indications come from the TxGNN knowledge graph) |
 | Predicted New Indication | Primary hereditary glaucoma |
 | TxGNN Prediction Score | 99.92% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 1 (ANDA075476) |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no currently valid license) |
+| Number of NDAs | 1 (ANDA075476, cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the record. Carteolol is a non-selective beta-adrenergic blocker. Beta-blockers lower intraocular pressure by reducing aqueous humor production, so a link to glaucoma is biologically plausible.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, carteolol is a non-selective beta-adrenergic antagonist with intrinsic sympathomimetic activity. In open-angle glaucoma and ocular hypertension, it lowers intraocular pressure (IOP) by reducing aqueous humor production at the ciliary body.
 
-Carteolol is already marketed as an ophthalmic agent for glaucoma and ocular hypertension in many jurisdictions. This record's empty original-indication field is therefore probably a gap in the data, not proof that this is a true repurposing case. The model score alone cannot separate a genuine repurposing signal from a use the label already covers.
+Primary hereditary glaucoma (for example, primary congenital glaucoma or juvenile open-angle glaucoma) is a genetically determined form of glaucoma. Its clinical hallmark is also elevated IOP. The shared IOP-lowering pharmacology is a plausible link, and it likely explains the very high TxGNN score.
 
-It is also unresolved whether "primary hereditary glaucoma" (for example congenital or juvenile forms) differs from the adult open-angle indication on the label. Beta-blocker use in infants carries systemic safety concerns, which makes this distinction important.
+This remains a prediction based on graph proximity to the approved glaucoma indications, not on independent clinical evidence. Two caveats apply:
+- Primary congenital glaucoma is mainly managed surgically.
+- Beta-blocker use in infants carries systemic safety concerns, including bronchospasm, bradycardia and apnea.
 
 ## Clinical Trial Evidence
 
@@ -68,25 +71,31 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA075476 | Carteolol Hydrochloride (Sandoz Inc) | Solution | Not stated in record |
+| ANDA075476 (Cancelled) | Carteolol Hydrochloride (Sandoz Inc) | Solution | Not available |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Disease-related cautions (from the knowledge graph, not label text)**: Carteolol is linked to contraindications in bronchitis, asthma (including intrinsic and allergic asthma), pulmonary emphysema, diabetes mellitus, diabetic ketoacidosis, myasthenia gravis and other neuromuscular junction diseases, atrioventricular block, congestive heart failure and heart failure, and anaphylaxis.
+- **Drug Interactions**: The interaction query returned 100 records. Those listed in the compiled data include:
+  - **Major**: epinephrine, dolasetron.
+  - **Moderate**: corticosteroids (hydrocortisone, triamcinolone, dexamethasone, betamethasone, budesonide), anticholinergics (atropine, hyoscyamine, methscopolamine, dicyclomine), bupropion, cimetidine, canagliflozin, dapagliflozin, chlorpropamide, calcium phosphate and calcium acetate.
+  - **Minor**: acetylsalicylic acid, magnesium oxide.
+
+Please refer to the package insert for official warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a very high TxGNN score, with no trials or literature. The record also lacks the original indication, mechanism data, and label safety information. A known label use cannot yet be ruled out.
+The prediction is supported only by the model score and a plausible IOP-lowering mechanism. There are no clinical trials or publications, and the only US license is cancelled. Surgery is the main treatment for primary congenital glaucoma, and beta-blockers pose systemic risks in infants.
 
 **To proceed, the following is needed:**
-- Label indications and package insert warnings and contraindications, confirmed from FDA sources
-- Mechanism of action data confirmed in DrugBank
-- A literature and trial search for pediatric or hereditary glaucoma studies
-- A review of systemic safety for beta-blocker use in infants and children
-- A check of whether the route of administration matches the intended use (the record lists the route only as "Other")
+- FDA package insert warnings and contraindications, to allow safety screening
+- Mechanism-of-action data from DrugBank
+- A literature and trial search for carteolol or topical beta-blockers in hereditary or congenital glaucoma
+- A pediatric safety assessment (bronchospasm, bradycardia, apnea)
+- Route and formulation compatibility analysis, and confirmation of an active regulatory pathway
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

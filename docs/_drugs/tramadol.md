@@ -29,86 +29,76 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tramadol: From Pain Management to Acromesomelic Dysplasia, Hunter-Thompson Type
+# Tramadol: From Osteoarthritis to Acromesomelic Dysplasia, Hunter-Thompson Type
 
 ## One-Sentence Summary
 
-Tramadol is an opioid analgesic (mu-opioid agonist with serotonin and norepinephrine reuptake inhibition) that is marketed in the US in several oral forms.
-The TxGNN model predicts it may be effective for **acromesomelic dysplasia, Hunter-Thompson type**, a rare genetic skeletal disorder.
-This prediction has **0 clinical trials** and **0 publications** behind it, so it is a graph-based signal only.
-
----
+Tramadol is an opioid-type analgesic, originally associated with osteoarthritis and related joint conditions.
+The TxGNN model predicts it may be effective for **acromesomelic dysplasia, Hunter-Thompson type**,
+but **no clinical trials** and **no publications** currently support this prediction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Pain (analgesic use; approved-indication text is not included in the US license records) |
+| Original Indication | Osteoarthritis (also osteoarthritis susceptibility and arthropathy) |
 | Predicted New Indication | Acromesomelic dysplasia, Hunter-Thompson type |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| US Market Status | Cancelled only |
+| Number of NDAs | 10 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the source record. Based on known pharmacology, tramadol acts as a mu-opioid receptor agonist and also inhibits serotonin and norepinephrine reuptake. Its established role is symptomatic pain relief.
+Currently, detailed mechanism of action data is not available from the data compiled for this report. Based on general pharmacology, tramadol is a mu-opioid receptor agonist that also inhibits serotonin and norepinephrine reuptake, which gives it symptomatic pain-relieving effects.
 
-Acromesomelic dysplasia, Hunter-Thompson type, is a genetic skeletal dysplasia linked to CDMP1/GDF5. Tramadol does not act on the pathways involved in this condition, and no disease-modifying link is known. The very high TxGNN score (99.99%) reflects a pattern in the knowledge graph, not a demonstrated biological or clinical connection.
+The predicted disease is a rare genetic skeletal dysplasia caused by a defect in the CDMP1/GDF5 pathway that affects bone growth. Tramadol does not address this underlying pathology. The very high TxGNN score most likely reflects proximity in the knowledge graph to musculoskeletal terms linked to the original indications, rather than a true biological link. At most, tramadol could offer symptomatic analgesia.
 
-The most that could be argued is adjunctive symptomatic analgesia. That is not a repurposing signal, and no retrieved evidence supports it.
-
----
+Other top-ranked predictions show the same pattern: rare skeletal dysplasias (brachyolmia, pseudoachondroplasia), juvenile arthritis subtypes and related connective-tissue conditions. None has a credible disease-modifying link to tramadol.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for the top-ranked prediction.
 
----
+For reference, the only publication found among the top 10 predictions (for juvenile idiopathic arthritis, rank 7) is a review of ketoprofen in children ([20799760](https://pubmed.ncbi.nlm.nih.gov/20799760/), 2010, *Paediatric Drugs*). It concerns a different drug and provides no direct evidence for tramadol.
 
 ## US Market Information
 
-Approved-indication text is not included in the license records. Five of the 20 authorizations are shown below.
-
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA022370 | ConZip | Capsule, extended release | Vertical Pharmaceuticals, LLC |
-| ANDA200503 | Tramadol Hydrochloride | Tablet, extended release | Lupin Pharmaceuticals, Inc. |
-| ANDA208708 | Tramadol Hydrochloride | Tablet, coated | Asclemed USA, Inc. |
-| ANDA208708 | Tramadol Hydrochloride | Tablet, coated | Advagen Pharma Limited |
-| NDA022370 | Tramadol Hydrochloride | Capsule | Trigen Laboratories, LLC |
+| NDA022370 | ConZip | Capsule, extended release | Not available |
+| ANDA200503 | Tramadol Hydrochloride | Tablet, extended release | Not available |
+| ANDA208708 | Tramadol Hydrochloride | Tablet, coated | Not available |
+| ANDA076003 | Tramadol Hydrochloride | Tablet, coated | Not available |
+| ANDA075968 | Tramadol Hydrochloride | Tablet | Not available |
 
-All listed forms are oral (capsule, tablet, coated tablet, and extended-release versions).
-
----
+All 10 authorizations are listed as cancelled; the five main ones are shown above. No currently valid single-ingredient or combination authorization was found.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindication-related conditions (from knowledge graph, not label text)**: hypertension, liver failure, liver disease, cirrhosis, epilepsy, anxiety disorder, diabetes mellitus, diabetic ketoacidosis, substance abuse/dependence, substance withdrawal syndrome, alcohol withdrawal, respiratory failure, paracetamol poisoning, serotonin syndrome, intracranial hypertension, pseudotumor cerebri, hyperlipidemia, gallbladder disease, Wernicke-Korsakoff syndrome and central nervous system infections.
+- **Drug Interactions**: The interaction screen returned 100 interacting drugs. Examples of **Major** interactions include alvimopan, bupropion, cisapride, dexfenfluramine, diethylpropion, dolasetron, dronabinol, ephedrine and fenfluramine. **Moderate** interactions include atropine, bisacodyl, cimetidine, clarithromycin, famotidine and eliglustat.
+- **Pediatric caution**: Pediatric opioid safety concerns and regulatory restrictions on tramadol in children are relevant to the juvenile arthritis predictions.
 
----
+Please refer to the package insert for the full warnings and contraindications, which were not available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone, with no clinical trials, no relevant literature, and no plausible mechanism. The other nine top predictions (mostly skeletal dysplasias and juvenile or rheumatoid arthritis conditions) are also L5 and on Hold. The only papers retrieved for any of them, two for juvenile idiopathic arthritis, do not study tramadol.
+The prediction is supported only by a model score, with no clinical trials, no literature and no credible mechanistic link. The high score appears to be an artifact of graph proximity. Tramadol would at best provide symptomatic pain relief, not treatment of the underlying genetic disorder. Its US authorizations are also all cancelled.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism-of-action data from DrugBank
-- A credible biological rationale linking tramadol to the target disease, or direct preclinical or clinical evidence
-- Approved-indication text for the US licenses, to confirm the original indication
+- Detailed mechanism of action data
+- Any clinical or preclinical evidence linking tramadol to the predicted disease
+- A reconsideration of the target: symptomatic pain management in conditions with a plausible analgesic need (e.g., pseudoachondroplasia-related joint pain) may be more realistic than disease modification
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

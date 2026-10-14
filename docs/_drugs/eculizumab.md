@@ -29,86 +29,69 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Eculizumab: From Complement-Mediated Diseases (PNH, aHUS) to Cyclic Hematopoiesis
+# Eculizumab: From Paroxysmal Nocturnal Hemoglobinuria to Cyclic Hematopoiesis
 
 ## One-Sentence Summary
 
-Eculizumab is a C5 complement inhibitor, used for complement-mediated diseases such as paroxysmal nocturnal hemoglobinuria (PNH), atypical hemolytic uremic syndrome (aHUS) and myasthenia gravis.
-The TxGNN model predicts it may be effective for **cyclic hematopoiesis** (cyclic neutropenia), but there are **0 clinical trials** and **0 publications** for this indication, so this is a model prediction only.
-
----
+Eculizumab is a complement C5 inhibitor, originally used to treat paroxysmal nocturnal hemoglobinuria and neuromyelitis optica.
+The TxGNN model predicts it may be effective for **cyclic hematopoiesis**, but **no clinical trials** and **no directly relevant publications** currently support this prediction. It is a model-only (L5) signal.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | PNH, aHUS and myasthenia gravis (inferred from the drug's literature, because the approved-indication text in the US license records is blank) |
-| Predicted New Indication | Cyclic hematopoiesis |
+| Original Indication | Paroxysmal nocturnal hemoglobinuria; neuromyelitis optica (the US license records contain no indication text) |
+| Predicted New Indication | Cyclic hematopoiesis (cyclic neutropenia) |
 | TxGNN Prediction Score | 99.97% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 3 (all BLAs) |
+| US Market Status | Cancelled only (all 3 licenses are listed as cancelled) |
+| Number of NDAs | 3 (all are BLAs) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in DrugBank for this record. Eculizumab is known to be a monoclonal antibody that inhibits complement component C5, blocking terminal complement activation. This is the basis of its use in PNH, aHUS and other complement-driven diseases.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known information, eculizumab is a monoclonal antibody against complement protein C5 that blocks terminal complement activation. Its efficacy in complement-mediated diseases such as paroxysmal nocturnal hemoglobinuria is established.
 
-The mechanistic link to the predicted indication is weak. Cyclic neutropenia is driven by ELANE mutations affecting neutrophil production and is not complement-mediated. The same problem applies to the other nine predictions, which are mostly neutropenia subtypes (JAGN1, WAS, CXCR2 and CSF3R defects, and idiopathic or severe congenital neutropenia). None has a known complement component. The cluster suggests the model is propagating from a disease-class neighborhood in the knowledge graph rather than from a drug-specific mechanism. The high score should therefore be read as a hypothesis-generation signal, not as support for efficacy.
+The predicted indication, however, has no established link to this mechanism. Cyclic neutropenia is caused by ELANE mutations that impair neutrophil production, and it is not a complement-mediated disease. The very high TxGNN score (0.9997) most likely reflects knowledge-graph proximity to other hematologic disorders rather than a biological rationale.
 
----
+Other highly ranked predictions show the same pattern. They are all neutropenia or immunodeficiency disorders (for example severe congenital neutropenia, JAGN1, CXCR2 and CSF3R deficiencies, and X-linked neutropenia). These arise from defects in granulopoiesis, neutrophil mobilization or signaling, not terminal complement activity. The ranking therefore looks like a cluster of related hematologic conditions rather than independent, mechanism-backed leads.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-Currently no related literature available.
-
-Some lower-ranked predictions (for example, congenital neutropenia-myelofibrosis-nephromegaly syndrome) returned literature hits. All of these papers concern eculizumab's established uses (PNH, aHUS/TMA, myasthenia gravis, CD59 deficiency). They do not address neutropenia, so they are drug-keyword matches and not disease evidence.
-
----
+No literature was retrieved for cyclic hematopoiesis, the top-ranked prediction. Currently no related literature available for this indication.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA125166 | SOLIRIS | Injection, solution, concentrate | Alexion Pharmaceuticals Inc. |
-| BLA761333 | BKEMV | Injection, solution, concentrate | Amgen Inc |
-| BLA761340 | EPYSQLI | Injection, solution | Teva Pharmaceuticals USA, Inc. |
-
-All three products are injectables. The source data does not include approved-indication text.
-
----
+| BLA125166 | SOLIRIS (Alexion Pharmaceuticals Inc.) | Injection, solution, concentrate | Not listed in the data (status: cancelled) |
+| BLA761333 | BKEMV (Amgen Inc) | Injection, solution, concentrate | Not listed in the data (status: cancelled) |
+| BLA761340 | EPYSQLI (Teva Pharmaceuticals USA, Inc.) | Injection, solution | Not listed in the data (status: cancelled) |
 
 ## Safety Considerations
 
-- **Infection risk**: Terminal complement blockade raises the risk of serious meningococcal infection. This is a particular concern in neutropenic or immunodeficient patients, which is the population targeted by all ten predicted indications.
-- **Drug interactions**: No interactions were found in the DDI query.
+- **Drug Interactions**: Four minor interactions were identified, all with human immunoglobulin G preparations (intravenous, subcutaneous, intramuscular, and intravenous plus subcutaneous).
+- **Infection risk (from the evaluation of the predicted indications)**: Eculizumab increases the risk of meningococcal infection, which is an unfavorable consideration in neutropenic patients. Complement C5 inhibition could also add infection risk in immunodeficient hosts.
 
-Please refer to the package insert for full warnings and contraindications.
-
----
+Label warnings and contraindications were not available in the data compiled for this report. Please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the model score (L5). There are no trials or disease-specific publications, and there is no plausible complement-mediated mechanism in cyclic neutropenia. Adding C5 blockade to neutropenic patients would also add serious infection risk.
+The prediction rests on model score alone. There are no clinical trials and no relevant literature, and cyclic neutropenia is not a complement-driven disease. The safety profile (meningococcal infection risk in neutropenic patients) is unfavorable. Standard care options such as G-CSF and HSCT are already established for related neutropenic conditions.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism-of-action data from DrugBank
-- Preclinical or genetic evidence that complement activation contributes to cyclic neutropenia
-- A benefit-risk assessment of meningococcal infection in neutropenic patients
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism of action data (MOA)
+- Preclinical or mechanistic evidence showing that terminal complement activity contributes to cyclic hematopoiesis or neutropenia pathology
+- Targeted literature and trial searches by disease rather than by drug name
+- Clarification of the cancelled status of all three US licenses and the current marketing situation
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

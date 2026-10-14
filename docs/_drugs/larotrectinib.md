@@ -3,14 +3,14 @@ layout: default
 title: Larotrectinib
 parent: Moderate Evidence (L3-L4)
 nav_order: 837
-evidence_level: L4
+evidence_level: L3
 indication_count: 2
 ---
 
 # Larotrectinib
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **2** 
+Evidence Level: **L3** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,67 +29,55 @@ Evidence Level: **L4** | Predicted Indications: **2**
 
 </div>
 
-# Larotrectinib: From NTRK Fusion-Positive Solid Tumors to Multiple Endocrine Neoplasia
+# Larotrectinib: From NTRK Fusion-Positive Solid Tumours to Multiple Endocrine Neoplasia
 
 ## One-Sentence Summary
 
-Larotrectinib (marketed as VITRAKVI) is a selective TRK inhibitor, an oncology drug for tumors driven by NTRK gene fusions. The supplied data lists no approved indication text, so this original indication comes from general knowledge.
-The TxGNN model predicts it may be effective for **multiple endocrine neoplasia**, but the support is thin: **1 broad precision-oncology trial** that does not show a larotrectinib arm for this disease, and **2 publications** that are only indirectly related.
-
----
+Larotrectinib (US brand name VITRAKVI) is a selective TRK kinase inhibitor, but the data compiled for this report contain no approved-indication text for it.
+The TxGNN model predicts it may be effective for **multiple endocrine neoplasia**,
+and so far this is supported by only **1 broad, non-specific clinical trial** and **2 publications** (a review and a resistance-mechanism report), none showing efficacy in this disease.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the supplied license records (generally known as NTRK fusion-positive solid tumors) |
+| Original Indication | Not available in the compiled data (US license records contain no indication text) |
 | Predicted New Indication | Multiple endocrine neoplasia |
 | TxGNN Prediction Score | 99.24% |
-| Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 7 |
+| Evidence Level | L3 |
+| US Market Status | Cancelled only (no currently valid license) |
+| Number of NDAs | 2 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Larotrectinib selectively inhibits the TRK kinases (NTRK1/2/3). Detailed mechanism-of-action data is not available in the supplied record, so this description relies on general knowledge of the drug class.
+Currently, detailed mechanism of action data is not available in the compiled data. From the available analysis, larotrectinib is a selective pan-TRK inhibitor (TRKA/B/C). Its original indication could not be confirmed from the license records.
 
-Multiple endocrine neoplasia, notably MEN2, is driven mainly by **RET** mutations, and larotrectinib is not known to inhibit RET. There is therefore no direct mechanistic rationale. The link is indirect. The supplied literature covers kinase inhibitors in RET-driven thyroid cancer and resistance to selective RET inhibitors. Any benefit would probably be limited to rare NTRK fusion-positive tumors, and the supplied data does not show this.
+Multiple endocrine neoplasia type 2 (MEN2) is driven by activating germline RET mutations, which underlie medullary thyroid carcinoma and pheochromocytoma. Larotrectinib has no established direct RET activity, so the link is indirect. It rests on shared receptor tyrosine kinase signalling (RAS/MAPK, PI3K/AKT) and on TRK fusions occurring in a small subset of thyroid cancers.
 
-The very high TxGNN score (99.24%) is a graph-based prediction, not clinical evidence. It should be treated as a hypothesis to test.
+A 2024 report on off-target resistance to selective RET inhibition suggests that bypass pathways could involve TRK signalling. This hypothesis has not been validated clinically. The high TxGNN score is a computational prediction and does not demonstrate efficacy in this disease.
 
----
+A second prediction, HER2-positive breast carcinoma (score 99.14%), has only preclinical evidence with a different TRK inhibitor (entrectinib) and a case report of secretory breast carcinoma. That carcinoma carries the ETV6-NTRK3 fusion and is typically HER2-negative. It is not evaluated further here.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT02465060](https://clinicaltrials.gov/study/NCT02465060) | Phase 2 | Active, not recruiting | 6,452 | NCI-MATCH: a genetically guided basket trial in advanced, refractory solid tumors, lymphomas and myeloma. The supplied data does not show that a larotrectinib arm treated multiple endocrine neoplasia patients, so it is general rather than disease-specific evidence (relevance grade C). |
-
----
+| [NCT02465060](https://clinicaltrials.gov/study/NCT02465060) | Phase 2 | Active, not recruiting | 6452 | NCI-MATCH: genetically directed treatment in advanced, refractory solid tumours, lymphomas and myelomas. It is a non-randomised, tumour-agnostic basket trial with no data specific to multiple endocrine neoplasia, so it is only weak, indirect support. |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [31322645](https://pubmed.ncbi.nlm.nih.gov/31322645/) | 2019 | Review | Endocrine Reviews | Kinase inhibitors for advanced thyroid cancer, including mutation-specific therapies. This gives background for RET-driven endocrine tumors but does not test larotrectinib. |
-| [38438731](https://pubmed.ncbi.nlm.nih.gov/38438731/) | 2024 | Preclinical/Mechanistic | NPJ Precision Oncology | Off-target resistance mechanisms to selective RET inhibitors (selpercatinib, pralsetinib) in RET-driven medullary thyroid carcinoma. It does not involve larotrectinib. |
-
----
+| [31322645](https://pubmed.ncbi.nlm.nih.gov/31322645/) | 2019 | Review | Endocrine Reviews | Kinase inhibitor therapy for advanced thyroid cancer. Approvals are mostly antiangiogenic multikinase inhibitors, plus mutation-specific indications. |
+| [38438731](https://pubmed.ncbi.nlm.nih.gov/38438731/) | 2024 | Preclinical/mechanistic | NPJ Precision Oncology | Off-target resistance mechanisms in a medullary thyroid carcinoma patient with a RET mutation treated with selpercatinib. |
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA210861 | VITRAKVI (Bayer HealthCare Pharmaceuticals Inc.) | Capsule | Not listed |
-| NDA211710 | VITRAKVI (Bayer HealthCare Pharmaceuticals Inc.) | Solution, concentrate | Not listed |
-| NDA210861 | VITRAKVI (Loxo Oncology, Inc.) | Capsule | Not listed |
-| NDA211710 | VITRAKVI (Bayer HealthCare Pharmaceuticals Inc.) | Solution, concentrate | Not listed |
-| NDA211710 | VITRAKVI (Loxo Oncology, Inc.) | Solution | Not listed |
-
----
+| NDA210861 | VITRAKVI | Capsule | Not available (status: cancelled) |
+| NDA211710 | VITRAKVI | Solution, concentrate | Not available (status: cancelled) |
 
 ## Cytotoxicity
 
@@ -101,31 +89,26 @@ The very high TxGNN score (99.24%) is a graph-based prediction, not clinical evi
 | Monitoring Items | Please refer to the package insert warnings and precautions |
 | Handling Protection | Please refer to the package insert warnings and precautions |
 
----
-
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: 100 interacting drugs were identified in the interaction screen (the 20 most prominent entries are in the compiled data). The one **Major** interaction is **clarithromycin**. Most others are **Moderate**, including corticosteroids (hydrocortisone, dexamethasone, betamethasone, triamcinolone, budesonide), omeprazole, cimetidine, aprepitant, pioglitazone, saxagliptin, cisapride, clotrimazole, dolasetron, dronabinol, eliglustat, naldemedine and naltrexone. Naloxegol is **Minor**.
 
----
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Larotrectinib does not target RET, the main driver of multiple endocrine neoplasia. The only trial is a broad basket study with no demonstrated larotrectinib arm for this disease, and the two publications concern other drugs or tumor types. Evidence is at the L4 level, and the high TxGNN score alone cannot justify moving forward.
+The only supporting trial is a non-specific basket study, and the literature is a review and a resistance-mechanism report, with no efficacy data in multiple endocrine neoplasia. The mechanistic link (TRK inhibitor in a RET-driven disease) is indirect, and the high TxGNN score is a prediction only. Both US licences are cancelled, and package-insert safety data are missing.
 
 **To proceed, the following is needed:**
-- Identify any NTRK fusion-positive cases within multiple endocrine neoplasia, and check whether the NCI-MATCH data include any relevant larotrectinib-treated patients
-- Preclinical or case-level evidence testing larotrectinib itself in multiple endocrine neoplasia models
-- Approved indication text and mechanism-of-action data, to allow a baseline comparison
-- Package insert warnings and contraindications, to complete the safety screening
-- Route and dosage form compatibility assessment
-
-**Note on the second prediction (HER2-positive breast carcinoma, score 99.14%):** it is supported only by a preclinical study of a different TRK inhibitor (entrectinib), with no clinical trials. This is L5-level evidence, so it also stays at Hold.
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- Confirmation of the original approved indications
+- Preclinical evidence of TRK-pathway involvement in RET-driven MEN2 tumours
+- Review of NCI-MATCH sub-protocol results for any MEN-relevant patients
+- Clinical interpretation of the clarithromycin interaction and other CYP-related interaction risks
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

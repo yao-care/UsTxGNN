@@ -29,13 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Felbamate: From Epilepsy to Trigeminal Nerve Neoplasm
+# Felbamate: From Epilepsy to Trigeminal Neuralgia
 
 ## One-Sentence Summary
 
-Felbamate is an antiepileptic drug. The provided data does not list an approved indication text, so this description comes from general pharmacology.
-The TxGNN model ranks **trigeminal nerve neoplasm** first (score 99.62%), but **no clinical trials and no publications** support it, and the score appears to reflect knowledge-graph proximity rather than antitumour activity.
-The second-ranked prediction, **trigeminal neuralgia**, is far more plausible, with **5 publications** including one case report of felbamate benefit.
+Felbamate is an antiepileptic drug originally used to treat epilepsy, including partial seizures and Lennox-Gastaut syndrome.
+The TxGNN model ranks **Trigeminal Neuralgia** as the most clinically meaningful new indication (the top-ranked prediction, trigeminal nerve neoplasm, has no supporting evidence and is not mechanistically credible).
+Support for trigeminal neuralgia is thin: **0 registered clinical trials** and **4 publications**, only one of which (a 1995 case report) directly addresses the drug in this condition.
 
 ---
 
@@ -43,68 +43,68 @@ The second-ranked prediction, **trigeminal neuralgia**, is far more plausible, w
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the provided data (felbamate is a known antiepileptic) |
-| Predicted New Indication | Trigeminal nerve neoplasm |
-| TxGNN Prediction Score | 99.62% |
-| Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (listed as ANDA generics) |
+| Original Indication | Epilepsy (partial epilepsy, Lennox-Gastaut syndrome) |
+| Predicted New Indication | Trigeminal neuralgia (the top-ranked prediction, trigeminal nerve neoplasm, is discussed below) |
+| TxGNN Prediction Score | 99.18% (trigeminal neuralgia); 99.62% (trigeminal nerve neoplasm) |
+| Evidence Level | L4 (trigeminal neuralgia); L5 (trigeminal nerve neoplasm) |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 8 (all cancelled) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the dataset. Based on general pharmacology, felbamate is an antiepileptic that acts through NMDA receptor (glycine site) antagonism, GABAergic potentiation and sodium channel modulation. It has no known antineoplastic mechanism.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Based on what is known about the drug, felbamate is an antiepileptic that modulates NMDA receptors (glycine-site antagonism) and potentiates GABA-A receptors. Sodium-channel modulation is also described in the available analysis.
 
-The evaluation found **no mechanistic link** between felbamate and trigeminal nerve neoplasm. The high score (0.996) is most likely driven by the drug's proximity in the knowledge graph to trigeminal nerve and neuralgia nodes, not by any effect on tumour biology. Treat this prediction as a likely model artefact.
+**Trigeminal neuralgia.** This condition causes sudden, severe, one-sided facial pain attacks that resemble seizures in their timing. This similarity led to the discovery that several anticonvulsants work against it. Carbamazepine is the drug of choice, and oxcarbazepine, lamotrigine, baclofen, phenytoin and valproate are also used. Felbamate's mechanisms are plausibly relevant to neuropathic pain, which makes the prediction reasonable on mechanistic grounds.
 
-The rank 2 prediction, **trigeminal neuralgia** (score 99.18%), is mechanistically plausible. Carbamazepine, the first-line drug for trigeminal neuralgia, is also an antiepileptic. Felbamate's sodium channel modulation and NMDA antagonism overlap with the mechanisms of other antiepileptics used for neuropathic pain.
+**Trigeminal nerve neoplasm.** This is the highest-scoring prediction (99.62%), but it is purely computational. No mechanism links felbamate to antitumour activity. The score likely reflects proximity to trigeminal-related nodes (such as trigeminal neuralgia) in the knowledge graph rather than a true therapeutic link. At most, felbamate might relieve tumour-associated facial pain, which is not tumour-directed treatment. It is not evaluated further here.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered (for trigeminal nerve neoplasm or trigeminal neuralgia).
+Currently no related clinical trials registered, for either trigeminal neuralgia or trigeminal nerve neoplasm.
 
 ---
 
 ## Literature Evidence
 
-For the top prediction, trigeminal nerve neoplasm: currently no related literature available.
-
-For the rank 2 prediction, trigeminal neuralgia:
+Publications identified for trigeminal neuralgia:
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [23338129](https://pubmed.ncbi.nlm.nih.gov/23338129/) | 1997 | Review | CNS Drugs | Drug-choice guide for trigeminal neuralgia. Carbamazepine is the drug of choice. Baclofen, phenytoin and valproate are also effective. |
-| [8877250](https://pubmed.ncbi.nlm.nih.gov/8877250/) | 1996 | Review | Clin Pharmacokinet | Carbamazepine drug-interaction update. It is used in trigeminal neuralgia, and felbamate is not its focus. |
-| [7549170](https://pubmed.ncbi.nlm.nih.gov/7549170/) | 1995 | Case report | Clin J Pain | Felbamate analgesic efficacy evaluated in trigeminal neuralgia. It reported relief. |
-| [7633024](https://pubmed.ncbi.nlm.nih.gov/7633024/) | 1995 | Case report (safety) | Ann Pharmacother | Felbamate-induced delayed anaphylaxis. |
-| [22022008](https://pubmed.ncbi.nlm.nih.gov/22022008/) | 2011 | Preclinical (rat) | Indian J Pharmacol | Compares carbamazepine, gabapentin and lamotrigine for neuropathic pain. It does not evaluate felbamate. |
+| [7549170](https://pubmed.ncbi.nlm.nih.gov/7549170/) | 1995 | Case report | Clin J Pain | Reports that felbamate relieved trigeminal neuralgia; the analgesic efficacy of this anticonvulsant was evaluated in the condition |
+| [23338129](https://pubmed.ncbi.nlm.nih.gov/23338129/) | 1997 | Review | CNS Drugs | Drug-choice guide for trigeminal neuralgia: carbamazepine is the drug of choice, with baclofen, phenytoin and valproate also effective |
+| [22022008](https://pubmed.ncbi.nlm.nih.gov/22022008/) | 2011 | Preclinical (animal study) | Indian J Pharmacol | Compared carbamazepine, gabapentin and lamotrigine for neuropathic pain in rats; notes felbamate among antiepileptics reported effective in neuropathic pain and trigeminal neuralgia |
+| [7633024](https://pubmed.ncbi.nlm.nih.gov/7633024/) | 1995 | Case report (safety) | Ann Pharmacother | Reports delayed anaphylaxis associated with felbamate |
+
+No publications were found for trigeminal nerve neoplasm.
 
 ---
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA208970 | Felbamate | Tablet | Zydus Lifesciences Limited |
-| ANDA211333 | Felbamate | Suspension | Novitium Pharma LLC |
-| ANDA201680 | Felbamate | Tablet | Amneal Pharmaceuticals LLC |
-| ANDA207093 | Felbamate | Tablet | Taro Pharmaceuticals U.S.A., Inc. |
-| ANDA206314 | Felbamate | Suspension | Taro Pharmaceuticals U.S.A., Inc. |
+| NDA020189 | Felbatol (Viatris Specialty LLC) | Tablet | Not listed (cancelled) |
+| ANDA208970 | Felbamate (Zydus Lifesciences) | Tablet | Not listed (cancelled) |
+| ANDA201680 | Felbamate (Amneal Pharmaceuticals) | Tablet | Not listed (cancelled) |
+| ANDA207093 | Felbamate (Taro Pharmaceuticals U.S.A.) | Tablet | Not listed (cancelled) |
+| ANDA211333 | Felbamate (Novitium Pharma) | Suspension | Not listed (cancelled) |
 
-Approved indication text is not provided for these listings. Routes: oral tablet and suspension.
+Eight authorizations are on record in total, and all are cancelled. The table shows five of them.
 
 ---
 
 ## Safety Considerations
 
-- **Key Warnings**: The dataset has no package insert warnings. The evaluation notes serious known concerns: aplastic anemia and hepatic failure. A delayed anaphylaxis case has also been reported (PMID 7633024).
-- **Drug Interactions**: No interaction records were found in the queried source.
+- **Key Warnings**: Felbamate carries serious boxed-warning risks, namely aplastic anemia and hepatic failure, according to the analysis compiled for this report. A published case report also describes delayed anaphylaxis.
+- **Contraindications (from the knowledge graph, not label text)**: long QT syndrome (including familial form), torsades de pointes, liver failure, liver disease, kidney disease, hematologic disease, aplastic anemia (including idiopathic), gallbladder disease, porphyria (inherited porphyria and porphyrin metabolism disease), anxiety disorder, neurotic disorder, dysthymic disorder, and pyoureter.
+- **Drug Interactions**: 100 interactions were identified; the 20 reviewed are all of Moderate severity. Examples include morphine (including liposomal), opium, naltrexone, naloxegol, aprepitant, rolapitant, metoclopramide, dronabinol, nabilone, repaglinide, saxagliptin, linagliptin, eliglustat, nitisinone, and vitamin D analogues (cholecalciferol, ergocalciferol, calcifediol, calcitriol, dihydrotachysterol).
 
-Please refer to the package insert for complete safety information.
+Package insert warnings and contraindications were not available for this report. Please refer to the current package insert for full safety information.
 
 ---
 
@@ -113,15 +113,15 @@ Please refer to the package insert for complete safety information.
 **Decision: Hold**
 
 **Rationale:**
-The top prediction, trigeminal nerve neoplasm, has no trials, no literature and no supported mechanism (L5), so it should not be pursued. Trigeminal neuralgia (L4, "Research Question") has only one case report supporting felbamate. Its serious safety risks and the availability of approved alternatives such as carbamazepine limit it to refractory cases at most.
+- Trigeminal neuralgia is mechanistically plausible, but the only direct clinical evidence is a single 1995 case report, and no trials are registered. Safer, established alternatives (carbamazepine, oxcarbazepine, lamotrigine) exist, while felbamate's risks of aplastic anemia and hepatic failure make its risk-benefit profile unfavorable. All US licenses are cancelled.
+- Trigeminal nerve neoplasm has a very high model score but no evidence and no plausible antitumour mechanism, so it should not be pursued.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, which currently block safety screening
-- Confirmed mechanism of action data from DrugBank
-- For trigeminal neuralgia, a formal risk-benefit assessment versus approved alternatives, plus controlled clinical evidence beyond a single case report
-- Route compatibility and similarity-to-original-indication analyses, both currently pending
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism-of-action data
+- Controlled clinical data in trigeminal neuralgia, ideally comparing felbamate with carbamazepine or oxcarbazepine
+- A risk-benefit justification, such as use only in patients refractory to standard therapy, with a hematologic and liver monitoring plan
+- Clarification of the regulatory and commercial status, since all US licenses are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

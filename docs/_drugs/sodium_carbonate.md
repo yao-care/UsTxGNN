@@ -29,83 +29,80 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Sodium Carbonate: From an Alkalinizing Agent (No Labeled Indication on Record) to Cauda Equina Syndrome
+# Sodium Carbonate: From an Unspecified Original Indication to Cauda Equina Syndrome
 
 ## One-Sentence Summary
 
-Sodium carbonate is an alkalinizing agent, antacid and pH adjuster. The US label data available here do not state an approved indication, and the products are marketed as homeopathic pellets and a soluble oral tablet.
-The TxGNN model predicts it may be effective for **Cauda Equina Syndrome**, but there are **0 clinical trials** and **0 publications** supporting this direction. The prediction is model-only.
-
----
+Sodium carbonate is an alkalinizing agent, and no approved indication is on record for it in the data compiled for this report. The TxGNN model's top-ranked prediction is **cauda equina syndrome**, but there are **0 clinical trials** and **0 publications** for this indication, so the prediction rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the available label data |
+| Original Indication | No approved indication text on record |
 | Predicted New Indication | Cauda equina syndrome |
 | TxGNN Prediction Score | 99.80% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 18 |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only |
+| Number of NDAs | 1 (cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Sodium carbonate is known as an alkalinizing agent and antacid/pH adjuster. The available label records do not state any approved indication, so no link between an original indication and the new one can be drawn.
+Currently, detailed mechanism of action data is not available. Sodium carbonate is an alkalinizing, antacid-type agent. Because no original indication is recorded, its relationship to the predicted indication cannot be assessed.
 
-The review found no plausible mechanistic link between sodium carbonate and cauda equina syndrome. This condition is a compressive neuropathy of the lumbosacral nerve roots, and alkalinization has no known role in it. The high TxGNN score (99.80%) reflects a pattern in the knowledge graph. It is not supported by any clinical or literature evidence.
+Cauda equina syndrome is a compressive injury to the lumbosacral nerve roots, and it is managed surgically. Sodium carbonate has no known action on this condition. The high TxGNN score is a graph-based prediction, and neither trials nor literature support it. On current information, no plausible mechanistic link can be identified.
 
-Because the mechanism is missing and no studies exist, this prediction should be treated as a low-confidence hypothesis.
+### Other Predicted Indications
 
----
+The model also ranked the following indications. None has enough support to change the decision.
+
+| Rank | Predicted Indication | TxGNN Score | Evidence Level | Assessment |
+|------|------|------|------|------|
+| 2 | Anaphylaxis | 99.72% | L5 | One paper on sublingual epinephrine formulation (PMID 34600046). It does not test sodium carbonate as a treatment, and the link is indirect at best (formulation or pH adjustment). |
+| 3 | Food-dependent exercise-induced anaphylaxis | 99.63% | L5 | No mechanistic link and no studies. |
+| 4 | Neurogenic bladder (obsolete ontology term) | 99.62% | L5 | No mechanistic link. The disease term is obsolete, which lowers its value as a target. |
+| 5 | Dry eye syndrome | 99.58% | L4 | Only indirect evidence from an oral hygiene study in Sjögren's syndrome (PMID 27813150). No dry eye trials were found. |
+| 6 | Ventricular tachycardia | 99.18% | L5 | Sodium bicarbonate, a related compound, is used in some toxicologic arrhythmias. Sodium carbonate has no documented antiarrhythmic use and is a stronger alkali with irritant properties. |
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-Currently no related literature available.
+No literature was found for the top-ranked indication, cauda equina syndrome. The table below lists the two papers retrieved for lower-ranked predictions.
 
----
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [27813150](https://pubmed.ncbi.nlm.nih.gov/27813150/) | 2017 | Clinical study (design unconfirmed) | Gerodontology | Explorative study of an alkaline spray (sodium bicarbonate and xylitol, Cariex®) combined with professional oral hygiene in patients with primary Sjögren's syndrome. The setting is oral, not ocular (dry eye syndrome, rank 5). |
+| [34600046](https://pubmed.ncbi.nlm.nih.gov/34600046/) | 2021 | Preclinical/formulation study | European Journal of Pharmaceutical Sciences | Sublingual epinephrine stability and permeability, including the effect of modifying the sublingual pH, for anaphylaxis (rank 2). Sodium carbonate is not tested as a treatment. |
 
 ## US Market Information
 
-The 18 authorizations are mostly homeopathic products, plus one oral soluble-tablet route. The 5 main entries are listed below.
-
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| Not listed | Natrum carbonicum (Boiron) | Pellet | Not stated |
-| Not listed | Natrum carbonicum (Boiron) | Pellet | Not stated |
-| Not listed | Natrum carbonicum (Boiron) | Pellet | Not stated |
-| Not listed | Natrum Carbonicum (Hahnemann Laboratories, Inc.) | Pellet | Not stated |
-| Not listed | Natrum Carbonicum (Hahnemann Laboratories, Inc.) | Pellet | Not stated |
-
----
+| Not available | Natrum carbonicum (Boiron) | Pellet | No indication text on record (status: cancelled) |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Related formulation note:** Sodium carbonate is a stronger alkali than sodium bicarbonate and has irritant and caustic properties, so systemic use raises safety concerns.
 
----
+No drug interaction records were found. Please refer to the package insert for other safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting trials or publications, and no plausible mechanistic link to cauda equina syndrome was identified. The available label records also lack indication and safety data, so the evidence stays at L5.
+All six predictions are supported only by the model score, with no clinical trials. The few papers retrieved are indirect, and no mechanistic link is identified for any indication. The only US license is cancelled and has no recorded indication, and package insert safety data are missing.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, which are required before any safety screening
-- Mechanism of action data from DrugBank
-- A documented mechanistic hypothesis linking alkalinization to compressive nerve-root injury, before any further investment
-- Review of the other predicted indications. Dry eye syndrome (L4) is the only one with any literature (PMID 27813150), but that study concerns an oral spray in Sjögren's syndrome. Its abstract describes a sodium bicarbonate and xylitol spray, so it does not directly support sodium carbonate or an ocular use. Any ocular use would first need ocular safety data, because sodium carbonate is strongly alkaline and potentially irritating to the eye.
+- Mechanism of action data for sodium carbonate
+- Package insert warnings and contraindications, to allow safety screening
+- A clearly documented original indication, to support similarity analysis
+- Route-of-administration compatibility assessment for any candidate indication
+- Direct clinical or preclinical evidence in a specific indication. Dry eye syndrome has the most indirect support so far, and the oral hygiene data would need to be confirmed and extended to the ocular setting.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

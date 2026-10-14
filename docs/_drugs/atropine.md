@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Atropine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 428
-evidence_level: L4
+evidence_level: L5
 indication_count: 2
 ---
 
 # Atropine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **2** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,110 +29,87 @@ Evidence Level: **L4** | Predicted Indications: **2**
 
 </div>
 
-# Atropine: From Marketed Muscarinic Antagonist to Migraine Disorder
+# Atropine: From Anticholinergic Use (Original Indication Not Specified) to Migraine Disorder
 
 ## One-Sentence Summary
 
-Atropine is a long-marketed non-selective muscarinic (anticholinergic) drug, with 20 US authorizations for injectable and solution forms.
-The TxGNN model predicts it may be effective for **migraine disorder**, but **no clinical trials** are registered and the literature is mostly **preclinical or mechanistic**.
-This is a research question rather than a ready candidate.
-
----
+Atropine is a non-selective muscarinic (anticholinergic) antagonist. The data compiled for this report do not list a specific original indication.
+The TxGNN model predicts it may be effective for **migraine disorder**, but there are **0 registered clinical trials** and the **10 retrieved publications** are mostly indirect (preclinical, unrelated, or adverse-event reports); none shows that atropine itself treats migraine.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Not available (approved indication text is blank in all US license records) |
 | Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 99.56% |
-| Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 13 (all cancelled) |
 | Recommended Decision | Hold |
 
----
+A second prediction, **migraine with brainstem aura** (score 99.42%, Evidence Level L5, Hold), is covered briefly in the sections below.
 
 ## Why is This Prediction Reasonable?
 
-Atropine is a non-selective muscarinic antagonist. Detailed mechanism-of-action data is not available in the source record, and the approved indication text for the listed authorizations is also empty. This analysis therefore relies on the known pharmacology of the drug class and the retrieved literature.
+Currently, detailed mechanism of action data is not available. Based on general pharmacology, atropine is a non-selective muscarinic cholinergic antagonist, and the link to migraine is mechanistically plausible but unproven.
 
-Several lines of preclinical work link cholinergic signaling to migraine biology:
-- In rats, stimulating the parasympathetic sphenopalatine ganglion causes plasma protein extravasation in the dura mater, a model of neurogenic inflammation.
-- A 2024 rat study implicates meningeal mast cell-mediated cholinergic modulation in neurogenic inflammation in the nitroglycerin-induced migraine model.
-- Central cholinergic pathways are involved in sumatriptan-induced antinociception in rodents.
-- In four patients with chronic paroxysmal hemicrania (a related headache disorder), systemic atropine markedly reduced attack-related sweating, tearing and nasal secretion.
+Preclinical studies suggest that the parasympathetic and cholinergic systems are involved in migraine biology. Cholinergic modulation affects meningeal mast cell-mediated neurogenic inflammation in a rat migraine model. Stimulating the parasympathetic sphenopalatine ganglion causes plasma protein extravasation in rat dura mater. A cholinergic role in antinociception has also been reported in rodents. Blocking muscarinic receptors could therefore, in theory, dampen these pathways in the trigeminovascular system.
 
-This supports a biologically plausible role for cholinergic pathways, but it does not show that blocking muscarinic receptors with atropine relieves or prevents migraine. No human study of atropine as a migraine treatment was found. Systemic anticholinergic effects (tachycardia, dry mouth, blurred vision, urinary retention, CNS effects) would also limit chronic use.
-
-A second predicted indication, **migraine with brainstem aura** (score 99.42%, evidence level L5), rests on a single mouse study of cortical spreading depression. That study describes cholinergic *activation* inhibiting spreading depression, so the direction of effect for an antagonist like atropine is unclear. It is held.
-
----
+The evidence stops there. No study shows that atropine treats or prevents migraine. For the brainstem aura subtype, the only supporting paper is a mouse study in which muscarinic receptor *activation* inhibited cortical spreading depression. A muscarinic antagonist such as atropine could therefore act in the opposite direction, so the direction of effect is unresolved.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-Thirteen items were reported for migraine disorder, and 10 were provided for review. No RCTs were found. The table lists the items relevant to the cholinergic-migraine question.
+Of the 10 publications retrieved for migraine disorder, only the first four rows are relevant to atropine or cholinergic mechanisms; the remainder are unrelated and are omitted from the table.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [36485173](https://pubmed.ncbi.nlm.nih.gov/36485173/) | 2024 | Preclinical/Mechanistic | Eur J Neurosci | Cholinergic modulation and a mast cell stabilizer studied in the nitroglycerin migraine model in rats, supporting a meningeal mast cell–cholinergic mechanism in neurogenic inflammation |
-| [9344563](https://pubmed.ncbi.nlm.nih.gov/9344563/) | 1997 | Preclinical (animal) | Exp Neurol | Stimulating the parasympathetic sphenopalatine ganglion induced plasma protein extravasation in rat dura mater, consistent with a parasympathetic role in dural inflammation |
-| [2943405](https://pubmed.ncbi.nlm.nih.gov/2943405/) | 1986 | Clinical observational | Cephalalgia | In 4 patients with chronic paroxysmal hemicrania, systemic atropine markedly reduced attack-related sweating, tearing and nasal secretion (autonomic features, not pain) |
-| [8930196](https://pubmed.ncbi.nlm.nih.gov/8930196/) | 1996 | Preclinical (animal) | J Pharmacol Exp Ther | Central cholinergic system is involved in the antinociception induced by sumatriptan in rodents and guinea pigs |
-| [15882801](https://pubmed.ncbi.nlm.nih.gov/15882801/) | 2005 | Not classified | Neurosci Lett | Examines the role of CGRP and nicotinic receptors in centrally evoked facial blood flow changes; CGRP is linked to migraine headache |
-| [10193781](https://pubmed.ncbi.nlm.nih.gov/10193781/) | 1999 | Preclinical (ex vivo) | Br J Pharmacol | Studied nicotine-evoked relaxation of guinea-pig basilar artery; atropine was only a background agent, not the tested treatment |
-| [17186568](https://pubmed.ncbi.nlm.nih.gov/17186568/) | 2007 | Review | J Appl Toxicol | Pharmacology of anisodamine, an atropine derivative; not migraine-specific, so indirect support at most |
-
-The following retrieved papers are not about atropine as an antimigraine treatment and were not counted as supporting evidence: PMIDs 40590589 (botulinum-induced dropped head syndrome), 27179636 (stunned myocardium after anesthesia), 18091300 and 18604026 (topiramate ocular adverse effects), 1786517 (ergotamine at 5-HT1C receptors), and 21252 (beta-phenethylamine).
-
-For migraine with brainstem aura, the only item is [31945385](https://pubmed.ncbi.nlm.nih.gov/31945385/) (2020, Neuropharmacology). This mouse study shows cholinergic modulation inhibits cortical spreading depression through muscarinic receptor activation.
-
----
+| [36485173](https://pubmed.ncbi.nlm.nih.gov/36485173/) | 2024 | Preclinical (rat) | Eur J Neurosci | Cholinergic modulation and meningeal mast cells contribute to neurogenic inflammation in a nitroglycerin-induced migraine model |
+| [9344563](https://pubmed.ncbi.nlm.nih.gov/9344563/) | 1997 | Preclinical (rat) | Exp Neurol | Parasympathetic sphenopalatine ganglion stimulation induces dural plasma protein extravasation |
+| [2943405](https://pubmed.ncbi.nlm.nih.gov/2943405/) | 1986 | Clinical observation (4 patients) | Cephalalgia | In chronic paroxysmal hemicrania (not migraine), systemic atropine markedly reduced attack-related sweating, tearing and nasal secretion |
+| [17186568](https://pubmed.ncbi.nlm.nih.gov/17186568/) | 2007 | Review | J Appl Toxicol | Pharmacology of anisodamine, an atropine derivative and non-specific cholinergic antagonist; no migraine efficacy data for atropine |
+| [31945385](https://pubmed.ncbi.nlm.nih.gov/31945385/) | 2020 | Preclinical (mouse) | Neuropharmacology | For migraine with brainstem aura: muscarinic receptor activation inhibits cortical spreading depression, a hypothesis-generating finding with an uncertain direction for atropine |
 
 ## US Market Information
 
-Showing 5 of 20 authorizations. Approved indication text is not provided for these records.
+All 13 US licenses are cancelled and none has approved indication text on record. Five examples:
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA215342 | atropine sulfate | Injection, solution | Amneal Pharmaceuticals LLC |
-| ANDA213561 | Atropine Sulfate | Injection | Medical Purchasing Solutions, LLC |
-| NDA208151 | Isopto Atropine | Solution | Alcon Laboratories, Inc. |
-| NDA021146 | Atropine Sulfate | Injection, solution | Hospira, Inc. |
-| ANDA215969 | Atropine Sulfate | Solution | Medical Purchasing Solutions, LLC |
-
-Available forms are injectable solutions and other solutions/drops. No oral or other chronic-use form appears in these records, and route compatibility with a migraine indication has not been assessed.
-
----
+| NDA208151 | Isopto Atropine | Solution | Not available |
+| NDA021146 | Atropine Sulfate (Hospira) | Injection, solution | Not available |
+| ANDA215342 | Atropine sulfate (Amneal) | Injection, solution | Not available |
+| ANDA218148 | Atropine Sulfate (Redpharm) | Solution/drops | Not available |
+| ANDA214752 | Atropine (Amneal NY) | Solution/drops | Not available |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: 100 interactions are recorded. The sample reviewed includes mostly Moderate-level interactions, with a few Minor. Main ones include:
+  - Other anticholinergics and antimuscarinics: aclidinium, hyoscyamine, amitriptyline, chlorpheniramine, acrivastine, phenyltoloxamine (additive anticholinergic effects)
+  - Opioids and CNS depressants: fentanyl, alfentanil, codeine, dihydrocodeine, tramadol, ethanol
+  - Cholinergic agents (opposing effects): acetylcholine, galantamine
+  - Others: botulinum toxin type A, acebutolol, amantadine, loperamide
+- **Class effects to consider for any chronic use**: antimuscarinic adverse effects such as dry mouth, blurred vision, tachycardia and cognitive effects.
 
-No drug-drug interaction records were found. As a class, systemic anticholinergic effects (tachycardia, dry mouth, blurred vision, urinary retention, CNS effects) would limit chronic use for a condition like migraine.
-
----
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is very high (99.56%), but there are no registered clinical trials and no human evidence for atropine in migraine. The literature is mostly rodent and ex vivo work on cholinergic mechanisms, plus one small observational report in a related headache disorder. This is a research question, not a candidate ready for development.
+The TxGNN score is very high, but the evidence is model prediction plus indirect preclinical findings, with no clinical trials and no human data for atropine in migraine. All US licenses are cancelled, and the mechanistic direction is uncertain for the aura subtype.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism-of-action data from DrugBank to support the mechanistic-link analysis
-- Preclinical evidence that muscarinic antagonism (not activation) is beneficial in migraine models
-- Assessment of route and formulation fit, since current US forms are injectable or ophthalmic and chronic systemic anticholinergic effects are limiting
-- Review of the 3 migraine literature items not provided in this pack
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
+- Mechanism of action data from DrugBank
+- Original approved indication information
+- Preclinical or early clinical studies testing atropine (or a muscarinic antagonist) directly in migraine models
+- Assessment of route and formulation feasibility, and of the tolerability of chronic antimuscarinic exposure
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

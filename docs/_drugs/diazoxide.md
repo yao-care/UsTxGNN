@@ -29,76 +29,110 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Diazoxide: From Hyperinsulinemic Hypoglycemia to Hypotrichosis Simplex of the Scalp
+# Diazoxide: From Hyperinsulinemic Hypoglycemia to Alopecia
 
 ## One-Sentence Summary
 
-Diazoxide is an oral KATP channel opener marketed in the US, and it is best known for treating hypoglycemia caused by excess insulin. The TxGNN model predicts it may help with **hypotrichosis simplex of the scalp**, a rare genetic hair-loss disorder. **No clinical trials and no publications** support this specific prediction, so it is a model output only.
+Diazoxide is a KATP channel opener, originally used to treat hyperinsulinemic hypoglycemia and insulin-producing pancreatic tumours (insulinoma).
+The TxGNN model predicts it may be effective for **Alopecia** (the highest-ranked prediction that has any supporting literature), with **0 registered clinical trials** and **5 publications** currently supporting this direction. All of these are reviews, case reports or preclinical work, and none tests efficacy in human alopecia.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hyperinsulinemic hypoglycemia (from general drug knowledge; the US license records supplied contain no indication text) |
-| Predicted New Indication | Hypotrichosis simplex of the scalp |
-| TxGNN Prediction Score | 99.96% |
-| Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 3 (1 NDA and 2 ANDAs) |
-| Recommended Decision | Hold |
+| Original Indication | Hyperinsulinemic hypoglycemia, insulinoma and related pancreatic conditions |
+| Predicted New Indication | Alopecia (rank 4 of the model's top 10). The top three predictions, hypotrichosis simplex of the scalp, congenital hypotrichosis milia and diffuse alopecia areata, have no supporting evidence. |
+| TxGNN Prediction Score | 99.92% (alopecia). The top-ranked prediction, hypotrichosis simplex of the scalp, scores 99.96%. |
+| Evidence Level | L4 (preclinical evidence only) |
+| US Market Status | Cancelled only (no currently valid listings) |
+| Number of NDAs | 3 (all cancelled) |
+| Recommended Decision | Hold (treat as a research question) |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the supplied record. Diazoxide is known to open ATP-sensitive potassium (KATP) channels. This suppresses insulin release, which explains its use in hyperinsulinism. Hypertrichosis (excess hair growth) is a well-recognized effect of the drug, and minoxidil, another KATP opener, is used for hair loss.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, diazoxide opens ATP-sensitive potassium (KATP) channels. In the pancreas this suppresses insulin release, which explains its use in hyperinsulinemic hypoglycemia.
 
-On this basis, promoting hair growth in a hair-deficiency disorder is biologically plausible. There are two important caveats:
+The link to hair is an adverse-effect signal. Hypertrichosis is a well-documented side effect of diazoxide. Minoxidil, an established hair-growth drug, is also a KATP opener (through its sulfate metabolite). Researchers have therefore asked whether diazoxide's hair-growth effect could be used on purpose. In a stumptailed macaque model of baldness, topical diazoxide induced hair regrowth on the bald scalp (PMID 2085505, PMID 8326148).
 
-- Hypotrichosis simplex is genetic, and its cause is not related to KATP signaling. A hair-growth stimulant would at best act symptomatically.
-- The high score is likely driven by shared hair-related phenotype labels in the knowledge graph, not by direct evidence.
+The original and new indications are unrelated diseases. The connection rests only on a shared mechanism and a side effect, with no human efficacy data. Several other top predictions are weaker still:
+
+- **Diffuse alopecia areata:** this is autoimmune, and stimulating follicle growth does not address the immune attack.
+- **Hypertrichosis and Ambras syndrome:** diazoxide causes excess hair, so using it for these conditions makes no sense and could worsen them. These are adverse-effect signals, not therapeutic ones.
+- **Autosomal dominant hyperinsulinism due to Kir6.2 deficiency:** this is close to an existing use rather than a new one, and dominant Kir6.2 mutations are often diazoxide-unresponsive.
+- **Malformation syndromes (odontal/periodontal, Dandy-Walker):** there is no plausible mechanism, and these are likely knowledge-graph artifacts.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
-Currently no related literature available.
+Publications retrieved for the alopecia prediction:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [2085505](https://pubmed.ncbi.nlm.nih.gov/2085505/) | 1990 | Preclinical (macaque) | Journal of Dermatological Science | Topical diazoxide (5% solution) was tested on the bald frontal scalp of stumptailed macaques, with systemic side effects monitored. |
+| [8326148](https://pubmed.ncbi.nlm.nih.gov/8326148/) | 1993 | Review | Journal of Investigative Dermatology | Topical minoxidil and diazoxide, both with a hypertrichotic side effect, induced significant hair regrowth in bald macaque scalps. |
+| [8018303](https://pubmed.ncbi.nlm.nih.gov/8018303/) | 1994 | Review | Drug Safety | Reviews drug-induced hair loss and growth. It does not test diazoxide as an alopecia treatment. |
+| [37042338](https://pubmed.ncbi.nlm.nih.gov/37042338/) | 2023 | Case report | Pediatric Dermatology | Generalized hypertrichosis in a child after secondary topical minoxidil exposure. Diazoxide is mentioned only as a known cause of hypertrichosis. |
+| [20682429](https://pubmed.ncbi.nlm.nih.gov/20682429/) | 2010 | Review | Vet Clin North Am Exotic Anim Pract | Medical management of insulinoma and adrenal disease in ferrets, with diazoxide as one option. Indirect relevance. |
+| [4340017](https://pubmed.ncbi.nlm.nih.gov/4340017/) | 1972 | Observational | Archives of Disease in Childhood | Fetal exposure to diazoxide in four infants. Indirect relevance. |
+
+The macaque study is the only direct efficacy evidence, and it is preclinical.
+
+---
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Holder |
-|---------|------|------|------|
-| NDA017453 | Proglycem | Suspension | Teva Pharmaceuticals USA, Inc. |
-| ANDA210799 | Diazoxide | Suspension | Par Health USA, LLC |
-| ANDA211050 | Diazoxide | Suspension | e5 Pharma, LLC |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA211050 | Diazoxide (e5 Pharma, LLC) | Suspension | Not listed; status cancelled |
+| ANDA210799 | Diazoxide (Par Health USA, LLC) | Suspension | Not listed; status cancelled |
+| NDA017453 | Proglycem (Teva Pharmaceuticals USA, Inc.) | Suspension | Not listed; status cancelled |
 
-All three products are oral suspensions. No topical product is listed.
+All three listings are cancelled, so no currently valid US listing was found in the compiled data. Only an oral suspension is on record. No topical formulation is listed.
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug interaction records were found in the supplied data.
+- **Contraindications (from the knowledge graph, not label text):** The TxGNN knowledge graph links diazoxide to the following contraindicated conditions:
+  - Metabolic: diabetes mellitus, diabetic ketoacidosis, hyperglycemia, potassium deficiency, gout and hyperuricemia.
+  - Cardiovascular: congestive heart failure, coronary artery disease, cerebrovascular disorder, orthostatic hypotension, postural orthostatic tachycardia syndrome and multiple system atrophy.
+  - Organ disease: kidney disease, kidney failure, uremia, liver disease, gallbladder disease and pyoureter.
+- **Drug Interactions:** 100 interactions were recorded, and all those shown are rated Moderate. Examples include:
+  - Antidiabetic drugs: acarbose, metformin, pioglitazone, alogliptin, albiglutide, dulaglutide, canagliflozin, dapagliflozin, empagliflozin, ertugliflozin, chlorpropamide and acetohexamide.
+  - Corticosteroids: hydrocortisone, dexamethasone, betamethasone, budesonide and triamcinolone.
+  - Others: bupropion, morphine and dronabinol.
+- **Adverse effects reported in the literature:**
+  - Hypertrichosis, the most common adverse reaction in a Japanese post-marketing survey (8.6%).
+  - Water retention (8.3%) and cardiac failure (3.4%) in the same survey of 384 children.
+  - Necrotizing enterocolitis in neonates (PMID 33483452).
 
-Published reports in the supplied literature describe hypertrichosis, fluid retention, cardiac failure-related events and, in neonates, necrotizing enterocolitis during diazoxide treatment. These come from studies in other indications and are not a full safety profile.
+Package insert warnings were not available in the compiled data. Please refer to the package insert for label warnings and contraindications.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a very high model score but no trials, no literature and no direct mechanistic link to the genetic cause of this disorder. It stays at L5, model prediction only.
-
-**Other predictions in the same set (context only):**
-- **Alopecia (rank 4)** is the closest to a testable idea, at L4 as a research question. Topical diazoxide stimulated hair regrowth in bald stumptailed macaques (PMID 2085505). There is no human efficacy data, and only a topical route would be sensible to explore because systemic exposure carries cardiovascular and metabolic risks.
-- **Hypertrichosis (rank 7)** is an inverted association. Diazoxide causes hypertrichosis, so this should not be pursued as a treatment.
-- **Autosomal dominant hyperinsulinism due to Kir6.2 deficiency (rank 10)** has the strongest mechanistic fit, but it may overlap with existing labeled use. Response depends on the variant and needs checking against variant-level literature.
+The high TxGNN scores are model predictions only. For alopecia the sole direct evidence is a 1990 macaque study of topical diazoxide, and no human trials exist. The systemic form has a substantial safety burden (fluid retention, heart failure, hyperglycemia) that is hard to justify for a cosmetic or dermatologic indication. Several top predictions (hypertrichosis, Ambras syndrome) point in the adverse-effect direction and should not be pursued. The Kir6.2 hyperinsulinism prediction is an existing-use variant, not new repurposing.
 
 **To proceed, the following is needed:**
-- Package insert warnings, contraindications and approved indication text (currently a blocking gap for safety screening)
-- Detailed mechanism of action data
-- Any human evidence for topical diazoxide in hair disorders, or a decision to prioritize the alopecia indication instead
-- Route compatibility assessment, since the only marketed forms are oral suspensions
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
+- Mechanism of action data and FDA package insert warnings and contraindications (currently missing).
+- A topical formulation and route strategy, since systemic dosing is unlikely to be acceptable for alopecia. No topical product currently exists in the US data.
+- Preclinical and early human data on topical diazoxide in androgenetic alopecia, including systemic absorption and a comparison with minoxidil.
+- For the Kir6.2 hyperinsulinism prediction, genotype-specific evidence of diazoxide responsiveness.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,37 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Enalaprilat: From an Injectable ACE Inhibitor to Primary Hereditary Glaucoma
+# Enalaprilat: From Hypertension and Heart Failure to Primary Hereditary Glaucoma
 
 ## One-Sentence Summary
 
-Enalaprilat is an injectable ACE inhibitor marketed in the United States as generic injection products.
-The TxGNN model predicts it may be effective for **primary hereditary glaucoma**, but **no clinical trials and no publications** currently support this direction.
-The prediction rests on the model score alone.
+Enalaprilat is an injectable ACE inhibitor, originally used to treat hypertension and heart failure.
+The TxGNN model predicts it may be effective for **primary hereditary glaucoma**,
+but currently there are **0 clinical trials** and **0 publications** supporting this direction. The prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the available US license records (the approved indication text is blank) |
+| Original Indication | Hypertension and heart failure (hypertensive disorder, congestive heart failure) |
 | Predicted New Indication | Primary hereditary glaucoma |
 | TxGNN Prediction Score | 99.09% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 3 license records (ANDAs, two unique numbers) |
+| US Market Status | Cancelled only (no currently valid authorizations) |
+| Number of NDAs | 2 (both ANDAs, both cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the record. Enalaprilat is an ACE inhibitor, so it acts on the renin-angiotensin system (RAS). A local RAS exists in ocular tissues (ciliary body, aqueous humor). Experimental work suggests that modulating it may affect aqueous humor dynamics and intraocular pressure. This is a plausible but unverified link.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, enalaprilat is the active diacid metabolite of enalapril and inhibits angiotensin-converting enzyme (ACE). Its efficacy in hypertension and heart failure is established through this mechanism.
 
-Three factors weaken it:
+A speculative link is that a local renin-angiotensin system (RAS) exists in ocular tissue. ACE inhibition might lower intraocular pressure by altering aqueous humor dynamics or uveoscleral outflow.
 
-- **Disease biology:** Primary hereditary (congenital) glaucoma is mainly a developmental anomaly of the trabecular meshwork and anterior chamber angle, often linked to genes such as CYP1B1 and LTBP2. It is usually treated surgically, not by drug-based pressure lowering.
-- **Formulation:** Enalaprilat is available only as an intravenous injection. Its ocular penetration and suitability for chronic use are unknown.
-- **Data gaps:** The mechanism-of-action record is incomplete, and no drug-interaction data was found.
-
-The high score is most likely a knowledge-graph association. It should not be read as clinical support.
+However, primary hereditary glaucoma is usually driven by developmental or genetic abnormalities of the trabecular meshwork and anterior chamber angle (for example CYP1B1 or MYOC variants). A RAS-mediated mechanism is therefore uncertain and is not established by the data compiled for this report. The high model score (0.991) should be treated as a hypothesis-generating signal, not as confirmation.
 
 ## Clinical Trial Evidence
 
@@ -71,32 +67,31 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA075578 | Enalaprilat | Injection | Dr. Reddys Laboratories Inc |
-| ANDA078687 | Enalaprilat | Injection | HF Acquisition Co LLC, DBA HealthFirst |
-
-ANDA075578 appears twice in the source records and is shown once here. The approved indication text is blank in all records. All products are injectables.
+| ANDA075578 (cancelled) | Enalaprilat (Dr. Reddys Laboratories Inc) | Injection | Not specified |
+| ANDA078687 (cancelled) | Enalaprilat (HF Acquisition Co LLC, DBA HealthFirst) | Injection | Not specified |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindications (from the knowledge graph, not label text)**: The knowledge graph links enalaprilat to angioedema, including acquired angioedema, renin-angiotensin-aldosterone system-blocker-induced angioedema, non-histaminic angioedema, hereditary angioedema, and hereditary angioedema with C1 inhibitor deficiency.
+- **Drug Interactions**: The interaction query returned one pharmacology entry, which is the drug's own target, angiotensin-converting enzyme (ACE). It is not a drug-drug interaction with a graded severity level.
+
+Please refer to the package insert for further safety information, including warnings.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a very high model score but no trials, no literature, and a weak biological fit. Congenital glaucoma is developmental and mainly surgical, and enalaprilat exists only as an IV product. There is not enough evidence to justify further investment.
+The prediction is supported only by a model score, with no clinical trials or literature (evidence level L5). The proposed mechanism is speculative and conflicts with the largely genetic and developmental cause of primary hereditary glaucoma. All US authorizations for enalaprilat are cancelled. Safety review also cannot proceed without the package insert.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism-of-action data from DrugBank
-- Preclinical evidence that ACE inhibition changes aqueous outflow or intraocular pressure in relevant glaucoma models
-- An assessment of ocular penetration and of whether a non-IV route (topical or oral ACE inhibitor) is realistic
-- A literature review of RAS and ACE-inhibitor effects in glaucoma, particularly developmental forms
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism of action data
+- Preclinical or literature evidence that ACE inhibition lowers intraocular pressure or affects the pathways involved in hereditary glaucoma
+- Assessment of route compatibility, since enalaprilat is injection-only and glaucoma treatment would typically need ocular or oral delivery
+- Clarification of current US marketing status, since both authorizations are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

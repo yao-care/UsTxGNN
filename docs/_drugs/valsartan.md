@@ -29,82 +29,93 @@ Evidence Level: **L4** | Predicted Indications: **7**
 
 </div>
 
-# Valsartan: From an Angiotensin Receptor Blocker to Malignant Renovascular Hypertension
+# Valsartan: From Hypertension to Malignant Renovascular Hypertension
 
 ## One-Sentence Summary
 
-Valsartan is a marketed angiotensin II type 1 (AT1) receptor blocker. The input data does not list its original approved indication.
+Valsartan is an angiotensin II receptor blocker originally used to treat hypertension.
 The TxGNN model predicts it may be effective for **malignant renovascular hypertension**,
-but the evidence is thin: **0 clinical trials** and **1 preclinical publication** support this direction.
+but there are **0 clinical trials** and only **1 publication** (a preclinical animal study) supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the available data (US license records contain no indication text) |
+| Original Indication | Hypertensive disorder / hypertension |
 | Predicted New Indication | Malignant renovascular hypertension |
 | TxGNN Prediction Score | 99.97% |
 | Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 licenses (NDA and ANDA combined) |
+| US Market Status | Cancelled only (all licenses cancelled) |
+| Number of NDAs | 12 (1 NDA and 11 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Valsartan is an AT1 receptor blocker, a class that acts on the renin-angiotensin system (RAS).
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, valsartan is an angiotensin II type 1 (AT1) receptor blocker. Its efficacy in hypertension is established, and mechanistically it may be applicable to malignant renovascular hypertension, in which the renin-angiotensin system plays a central role.
 
-Malignant renovascular hypertension is strongly driven by RAS activation, with elevated angiotensin II. Blocking the AT1 receptor is therefore biologically plausible. The only supporting article is an animal study. It reports that AT1 receptor blockade prevented lethal malignant hypertension and was linked to reduced kidney inflammation. That finding applies to the drug class, not to valsartan specifically or to human patients.
+The predicted indication is very close to the approved one. Malignant renovascular hypertension is a severe, renin-driven form of hypertension. The one supporting paper (PMID 11560862, 2001) reports that AT1 receptor blockade prevented lethal malignant hypertension in an animal model, partly independent of blood pressure lowering. This evidence is indirect, because the study was not specific to valsartan and was not conducted in humans. Because the indication is so close to hypertension, it offers little repurposing novelty.
 
-The original indication and mechanism fields in the input are empty, so the link between the old and new indications cannot be assessed directly. The prediction is mechanistically reasonable but clinically unproven.
+Other predictions in the same list are weaker. Malignant hypertensive renal disease has only an avosentan paper (a different drug). The pulmonary hypertension predictions rest mostly on animal and cell studies, or on sacubitril/valsartan, a combination product. Braddock syndrome and pulmonary hypertension with unclear multifactorial mechanism have no supporting evidence beyond the model score.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials are registered for the lead predicted indication, malignant renovascular hypertension.
+
+For the sixth-ranked prediction, chronic pulmonary heart disease, one trial matched, but it is not relevant:
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT02966665](https://clinicaltrials.gov/study/NCT02966665) | Phase 1 | Recruiting | 420 | Exercise rehabilitation and vascular function in hypertension; does not test valsartan for this indication |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [11560862](https://pubmed.ncbi.nlm.nih.gov/11560862/) | 2001 | Preclinical (animal model) | Circulation | AT1 receptor blockade prevented lethal malignant hypertension, linked to reduced kidney inflammation. The effect was tested even without a blood pressure-lowering effect. |
+| [11560862](https://pubmed.ncbi.nlm.nih.gov/11560862/) | 2001 | Preclinical (animal) | Circulation | AT1 receptor blockade prevented lethal malignant hypertension, related to reduced kidney inflammation |
+
+Literature for other predicted indications is mostly indirect (examples):
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [24368192](https://pubmed.ncbi.nlm.nih.gov/24368192/) | 2014 | Preclinical (avosentan, a different drug) | Pharmacological Research | Endothelin antagonist protective in hypertensive nephropathy (malignant hypertensive renal disease) |
+| [32552157](https://pubmed.ncbi.nlm.nih.gov/32552157/) | 2020 | Preclinical (animal) | J Am Heart Assoc | Sacubitril/valsartan attenuated right ventricular remodeling in pulmonary hypertension |
+| [22377232](https://pubmed.ncbi.nlm.nih.gov/22377232/) | 2012 | Preclinical (animal) | Diabetes Res Clin Pract | Valsartan inhibited the HIF-1α pathway and reduced renal fibrosis in diabetic rats |
+| [39210725](https://pubmed.ncbi.nlm.nih.gov/39210725/) | 2024 | Post hoc analysis of RCTs | JAMA Cardiology | Sacubitril/valsartan and all-cause hospitalizations in heart failure (not cor pulmonale) |
 
 ## US Market Information
 
-The US license records contain no approved indication text.
+All 12 US authorizations are listed as cancelled, and none carries approved indication text in the data compiled for this report. Five examples:
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA203311 | Valsartan | Tablet, film coated | Proficient Rx LP |
-| ANDA203311 | Valsartan | Tablet, film coated | AvPAK |
-| ANDA204821 | Valsartan | Tablet | A-S Medication Solutions |
-| NDA021283 | Diovan | Tablet | Novartis Pharmaceuticals Corporation |
-| ANDA203311 | Valsartan | Tablet, film coated | Bryant Ranch Prepack |
-
-Records show 20 licenses in total; the five above are shown. Forms on record are oral tablets and a solution.
+| NDA021283 | Diovan (Novartis) | Tablet | Not available |
+| ANDA203311 | Valsartan (Proficient Rx) | Film-coated tablet | Not available |
+| ANDA204821 | Valsartan (A-S Medication Solutions) | Tablet | Not available |
+| ANDA214102 | Valsartan (ANI Pharmaceuticals) | Solution | Not available |
+| ANDA090866 | Valsartan (Mylan) | Film-coated tablet | Not available |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No interaction records were found for this drug in the data retrieved.
+Package insert warnings and contraindications were not available in the data compiled for this report. Please refer to the package insert for safety information.
+
+- **Knowledge-graph contraindication signals** (not label text): liver failure, liver disease, pancreatitis, gallbladder disease, angioedema (including hereditary and ACE/RAAS-blocker-induced forms), systemic lupus erythematosus, diabetes mellitus and diabetic ketoacidosis, neutropenia/agranulocytosis, hypotensive disorder, anuria, impaired renal function, renal artery obstruction, gout, hyperparathyroidism, hypercalcemia, and potassium deficiency. These come from a network database and must be confirmed against the label.
+- **Drug Interactions** (100 recorded; examples):
+  - **Major**: potassium chloride and potassium bicarbonate (risk of hyperkalemia).
+  - **Moderate**: hydrocortisone, eluxadoline, exenatide, polyethylene glycol with electrolytes, and many insulin products.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The model score is very high, but the only supporting evidence is one preclinical study of the drug class, with no clinical trials. The package insert safety data and mechanism data are also missing, so the candidate stays a research question.
-
-Six other candidates were also predicted:
-- Malignant hypertensive renal disease: its only article studies avosentan, a different drug.
-- Chronic pulmonary heart disease: indirect evidence from heart failure trials, mostly of sacubitril/valsartan.
-- Pulmonary hypertension (two entries), Braddock syndrome and Prinzmetal angina: no meaningful supporting evidence.
+The prediction score is high (99.97%), but the evidence is only one preclinical animal paper and no clinical trials (Evidence Level L4). The new indication is also nearly identical to the original hypertension indication, so it adds little novelty. All US licenses are cancelled, and safety label data is missing.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, parsed from the FDA label, to allow safety screening
-- Mechanism of action data from DrugBank
-- Approved indication text, to define the original indication
-- Human clinical evidence for valsartan in malignant renovascular hypertension, such as case series or trials
-- Review of relevance for the retrieved article, which is still marked pending
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- The FDA package insert (warnings and contraindications), which is a blocking gap for safety screening
+- Detailed mechanism of action data from DrugBank
+- Clinical data specific to valsartan in malignant or renovascular hypertension
+- Clarification of why all US licenses are marked cancelled, and of the current market status
+- A decision on whether this near-duplicate indication is worth pursuing, or whether to prioritize a more distinct candidate
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

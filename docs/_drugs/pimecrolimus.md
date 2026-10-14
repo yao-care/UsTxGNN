@@ -33,87 +33,111 @@ Evidence Level: **L2** | Predicted Indications: **4**
 
 ## One-Sentence Summary
 
-Pimecrolimus is a topical calcineurin inhibitor cream, marketed in the US and labeled for mild-to-moderate atopic dermatitis.
+Pimecrolimus is a topical calcineurin inhibitor cream, originally used to treat atopic dermatitis (eczema).
 The TxGNN model predicts it may be effective for **seborrheic dermatitis**,
-supported by **1 completed Phase 2 clinical trial** and **18 retrieved publications**, including several randomized comparisons and systematic reviews of RCTs.
+with **1 clinical trial** (a completed Phase 2 randomized study) and **18 publications** (including two systematic reviews of randomized trials) currently supporting this direction.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Atopic dermatitis (from the literature; the license records provided contain no indication text) |
+| Original Indication | Atopic dermatitis (atopic eczema) |
 | Predicted New Indication | Seborrheic dermatitis |
 | TxGNN Prediction Score | 99.73% |
 | Evidence Level | L2 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 6 licenses (NDA and ANDA) |
+| US Market Status | Cancelled only (all 3 authorizations cancelled) |
+| Number of NDAs | 3 (1 NDA and 2 ANDAs) |
 | Recommended Decision | Proceed with Guardrails |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in DrugBank for this record. Published pharmacology, however, describes pimecrolimus as a topical calcineurin inhibitor. It blocks T-cell activation and proliferation, reduces release of IL-2, IL-4, interferon-gamma and TNF-alpha, and inhibits mast cell degranulation (PMID 16033622).
+Detailed mechanism-of-action data for pimecrolimus are not available in the data compiled for this report. The literature does describe it as a calcineurin inhibitor that selectively targets T cells and mast cells. It inhibits T-cell proliferation and the production of IL-2, IL-4, interferon-gamma and TNF-alpha, and it also inhibits mast cell degranulation.
 
-Atopic dermatitis and seborrheic dermatitis are both chronic, relapsing inflammatory skin diseases. Seborrheic dermatitis has an inflammatory component driven by the host response to *Malassezia* yeast, so a non-steroidal anti-inflammatory agent is a plausible fit. It may also help where long-term topical corticosteroid use is a concern. This link rests on general pharmacology rather than DrugBank MOA data.
+Atopic dermatitis is a T-cell-driven inflammatory skin disease, and pimecrolimus is established as a non-steroidal treatment for it. Seborrheic dermatitis is a chronic, relapsing inflammatory skin condition affecting sebum-rich areas, and it is linked to an inflammatory response to *Malassezia* yeast. Topical anti-inflammatory immunomodulation is therefore mechanistically plausible, and the two diseases share an inflammatory pathway. Reviews note that corticosteroids have limited long-term use in seborrheic dermatitis because of adverse effects, and that topical calcineurin inhibitors are a proposed alternative.
 
-The high TxGNN score is consistent with the clinical record. Several randomized studies compare pimecrolimus 1% cream with sertaconazole and ketoconazole in facial seborrheic dermatitis. Two systematic reviews of randomized trials have also been published.
+This mechanistic link is inferred from the known drug class rather than from drug-specific mechanism data.
+
+---
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00403559](https://clinicaltrials.gov/study/NCT00403559) | Phase 2 | Completed | 113 | 4-week randomized, double-blind, active-comparator study of Elidel (pimecrolimus) in seborrheic dermatitis; exploratory effectiveness study (2007–2009) |
+| [NCT00403559](https://clinicaltrials.gov/study/NCT00403559) | Phase 2 | Completed | 113 | 4-week randomized, double-blind, parallel-group, active-comparator study of Elidel (pimecrolimus) in seborrheic dermatitis. It was designed as an exploratory study of effectiveness, and no results are summarized in the data compiled. |
 
-This is the only registered trial for this indication. It is short and exploratory, and there is no Phase 3 confirmation.
+This is the only registered trial directly in seborrheic dermatitis. It is Phase 2 rather than Phase 3, so it supports Evidence Level L2 rather than L1.
+
+---
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [34910320](https://pubmed.ncbi.nlm.nih.gov/34910320/) | 2022 | RCT | Clin Exp Dermatol | Randomized blinded trial of pimecrolimus 1% vs sertaconazole 2% cream in facial seborrheic dermatitis |
-| [22142161](https://pubmed.ncbi.nlm.nih.gov/22142161/) | 2012 | Systematic review of RCTs | Expert Rev Clin Pharmacol | Pimecrolimus 1% cream appears well tolerated and effective for seborrheic dermatitis versus corticosteroids, antimycotics, placebo or no treatment |
-| [36072203](https://pubmed.ncbi.nlm.nih.gov/36072203/) | 2022 | Systematic review of RCTs | Cureus | Reviews efficacy and safety of pimecrolimus in facial seborrheic dermatitis |
-| [18677657](https://pubmed.ncbi.nlm.nih.gov/18677657/) | 2009 | Open randomized comparative study | J Dermatol Treat | Pimecrolimus 1% vs ketoconazole 2% cream in seborrheic dermatitis |
-| [23715821](https://pubmed.ncbi.nlm.nih.gov/23715821/) | 2013 | Comparative study | Ir J Med Sci | Sertaconazole 2% vs pimecrolimus 1% cream in seborrheic dermatitis |
-| [28589618](https://pubmed.ncbi.nlm.nih.gov/28589618/) | 2018 | Comparative study | J Cosmet Dermatol | Compares different dosing regimens of pimecrolimus 1% in facial seborrheic dermatitis |
-| [20000875](https://pubmed.ncbi.nlm.nih.gov/20000875/) | 2010 | Open-label study | Am J Clin Dermatol | Pimecrolimus 1% in resistant facial seborrheic dermatitis |
-| [19391059](https://pubmed.ncbi.nlm.nih.gov/19391059/) | 2010 | Clinical study | J Dermatol Treat | Repetitive use of pimecrolimus in relapsing seborrheic dermatitis |
-| [15700745](https://pubmed.ncbi.nlm.nih.gov/15700745/) | 2004 | Clinical study | Drugs Exp Clin Res | Pimecrolimus 1% for seborrheic dermatitis of the face and trunk; efficacy, tolerability and safety |
-| [31053034](https://pubmed.ncbi.nlm.nih.gov/31053034/) | 2019 | Review | J Cutan Med Surg | Review of off-label uses of topical pimecrolimus, focused on published RCTs |
+| [22142161](https://pubmed.ncbi.nlm.nih.gov/22142161/) | 2012 | Systematic review of RCTs | Expert Rev Clin Pharmacol | Evaluated pimecrolimus 1% cream against corticosteroids, antimycotics, placebo or no intervention. It appears well tolerated and effective, with efficacy comparable to the comparators. |
+| [36072203](https://pubmed.ncbi.nlm.nih.gov/36072203/) | 2022 | Systematic review of RCTs | Cureus | Critical review of the efficacy and safety of pimecrolimus in facial seborrheic dermatitis. |
+| [27804089](https://pubmed.ncbi.nlm.nih.gov/27804089/) | 2017 | Systematic review | Am J Clin Dermatol | Reviews topical treatments for facial seborrheic dermatitis. Calcineurin inhibitors are not among the three agent categories named in the abstract (antifungals, keratolytics, corticosteroids). |
+| [19222250](https://pubmed.ncbi.nlm.nih.gov/19222250/) | 2009 | Review | Am J Clin Dermatol | Reviews topical calcineurin inhibitors in seborrheic dermatitis. They are presented as a safer alternative to corticosteroids, which have limited use because of long-term adverse effects. |
+| [31053034](https://pubmed.ncbi.nlm.nih.gov/31053034/) | 2019 | Review (off-label uses) | J Cutan Med Surg | Reviews off-label uses of topical pimecrolimus, focusing on published RCTs. |
+| [20000875](https://pubmed.ncbi.nlm.nih.gov/20000875/) | 2010 | Open-label study | Am J Clin Dermatol | Pimecrolimus 1% cream for resistant facial seborrheic dermatitis. It was reported as effective and well tolerated. |
+| [17982237](https://pubmed.ncbi.nlm.nih.gov/17982237/) | 2007 | Open-label study | J Korean Med Sci | 20 Korean patients applied pimecrolimus 1% cream for 4 weeks for facial seborrheic dermatitis, to assess efficacy and tolerability. |
+| [16033622](https://pubmed.ncbi.nlm.nih.gov/16033622/) | 2005 | Review | Int J Clin Pract | Describes pimecrolimus as targeting T cells and mast cells, and discusses uses beyond atopic dermatitis. |
+| [17020422](https://pubmed.ncbi.nlm.nih.gov/17020422/) | 2006 | Review | Expert Opin Pharmacother | Pimecrolimus is approved for atopic dermatitis and is described as having great potential in other inflammatory skin diseases. |
+| [20347654](https://pubmed.ncbi.nlm.nih.gov/20347654/) | 2010 | Review (safety signal) | Clin Dermatol | Tinea incognito can arise after topical corticosteroids or immunomodulators such as pimecrolimus. It can mimic seborrheic dermatitis, so diagnosis is often missed or delayed. |
+
+Several other retrieved publications were only tangentially related and are not listed.
+
+---
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA021302 | Pimecrolimus | Cream | Oceanside Pharmaceuticals |
-| ANDA209345 | Pimecrolimus | Cream | Actavis Pharma, Inc. |
-| ANDA211769 | Pimecrolimus | Cream | Glenmark Pharmaceuticals Inc., USA |
+| NDA021302 | Pimecrolimus (Oceanside Pharmaceuticals) | Cream | Not listed (status: cancelled) |
+| ANDA209345 | Pimecrolimus (Actavis Pharma, Inc.) | Cream | Not listed (status: cancelled) |
+| ANDA211769 | Pimecrolimus (Glenmark Pharmaceuticals Inc., USA) | Cream | Not listed (status: cancelled) |
 
-The source records list six licenses in total; NDA021302 appears several times and is shown once here. The records contain no approved-indication text, and the only route of administration is topical.
+All three authorizations are single-ingredient topical creams and all are cancelled, so no currently valid US authorization appears in the data compiled.
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Boxed warning (from the evaluation of this candidate):** The label carries a boxed warning on long-term use because of a theoretical malignancy risk. The text of the package insert itself was not available, so this should be verified against the current label.
+- **Contraindication signals from the knowledge graph (not label text):** The graph links pimecrolimus with the following conditions. Most are viral infections or related skin conditions, which fits an immunomodulating agent that could worsen infections.
+  - Common wart
+  - Epidermodysplasia verruciformis
+  - Anogenital human papillomavirus infection
+  - Herpes simplex infectious disease
+  - Herpes simplex dermatitis
+  - Herpes zoster
+  - Chickenpox
+  - Infectious mononucleosis
+  - Chronic Epstein-Barr virus infection syndrome
+  - Lymphatic system disease
+  - Netherton syndrome
+  - Ichthyosis linearis circumflexa
+- **Drug interactions:** The interaction screen returned 100 potential interacting drugs, none with a severity level assigned. Examples include prednisone, hydrocortisone, triamcinolone, budesonide, omeprazole, pantoprazole, metformin, simvastatin, doxycycline and metronidazole. Systemic exposure from topical use is low, so the practical relevance is likely limited.
+- **Diagnostic caution:** Immunomodulator use can mask or worsen dermatophyte infection (tinea incognito), which can resemble seborrheic dermatitis.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-One completed Phase 2 randomized, double-blind trial and several randomized comparisons and systematic reviews support pimecrolimus in seborrheic dermatitis, and the mechanism is plausible. Confirmatory Phase 3 evidence is missing, and the use would be off-label. Long-term use also carries the class boxed-warning concern about malignancy, and the labeled age restrictions apply.
+A completed, randomized Phase 2 trial in seborrheic dermatitis plus two systematic reviews of RCTs and several open-label studies support effectiveness and tolerability. The evidence is below Phase 3 level, the boxed warning on long-term use applies, and all US authorizations are currently cancelled, so this is not a straightforward Go.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications (currently missing and blocking for safety screening)
-- Mechanism of action data from DrugBank
-- Confirmation of the labeled indication text
-- A Phase 3 study or an expert review of the randomized comparator data
-- A long-term safety and relapse-management plan for repeated facial use
-
-The other predictions are:
-- **Dermatitis:** atopic dermatitis is the labeled use, so this is not true repurposing.
-- **Exanthem:** this is only a research question, with indirect and small trials.
-- **Acrodermatitis chronica atrophicans:** hold, with no supporting evidence.
-
-*These results are for research reference only and do not constitute medical advice. Repurposing candidates require clinical validation before use.*
+- Review of the current package insert (warnings, contraindications, boxed warning text), as label safety data are not available in the data compiled
+- Results from NCT00403559 and, ideally, a Phase 3 randomized trial in seborrheic dermatitis
+- Drug-specific mechanism of action data to replace the class-based inference
+- A regulatory and availability plan, since no US authorization is currently valid
+- A safety plan covering limits on duration of use, infection screening (viral and fungal), and avoidance in infants under 2 years
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

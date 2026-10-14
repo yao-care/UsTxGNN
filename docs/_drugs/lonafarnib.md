@@ -29,84 +29,74 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Lonafarnib: From Hutchinson-Gilford Progeria Syndrome to Leprosy
+# Lonafarnib: From Progeria (Original Approval) to Leprosy
 
 ## One-Sentence Summary
 
-Lonafarnib is an oral farnesyltransferase inhibitor marketed in the US as Zokinvy, used for Hutchinson-Gilford progeria syndrome and processing-deficient progeroid laminopathies.
-The TxGNN model predicts it may be effective for **leprosy**, but there are currently **0 clinical trials** and **0 publications** supporting this direction, so this is a model-only prediction.
-
----
+Lonafarnib is an oral farnesyltransferase inhibitor, marketed in the US as Zokinvy (NDA213969).
+The TxGNN model predicts it may be effective for **leprosy**, but there are currently **0 clinical trials** and **0 publications** supporting this direction. The prediction rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hutchinson-Gilford progeria syndrome and processing-deficient progeroid laminopathies (from general drug knowledge; the supplied license data lists no indication text) |
+| Original Indication | Not stated in the data compiled for this report (the license record has no indication text) |
 | Predicted New Indication | Leprosy |
 | TxGNN Prediction Score | 99.14% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 2 (both records carry the same number, NDA213969) |
+| US Market Status | Cancelled only |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the supplied data. From general knowledge, lonafarnib is a farnesyltransferase inhibitor (FTI). It blocks prenylation, the lipid modification that lets certain proteins, such as Ras and Rho GTPases, attach to cell membranes. This is how it helps in progeria, where an abnormal, permanently farnesylated protein accumulates.
+Lonafarnib is a farnesyltransferase inhibitor (FTI). It blocks farnesylation, a protein modification that anchors certain proteins to cell membranes. Detailed mechanism of action data is not available in the compiled record. This description is general pharmacological knowledge, not drawn from the supplied data.
 
-No direct link between lonafarnib and *Mycobacterium leprae* biology or leprosy pathogenesis is documented in the supplied data. One plausible but unverified hypothesis is that blocking host prenylation-dependent signaling could modulate how macrophages and Schwann cells respond to infection, or dampen inflammation. This is speculation, not established evidence.
+The data compiled for this report does not establish a direct mechanistic link between lonafarnib and *Mycobacterium leprae* infection. One speculative hypothesis is that host prenylated small GTPases (Ras/Rho family), which are involved in macrophage function, phagocytosis and inflammatory signaling, could be modulated. No evidence in the record supports this. The high TxGNN score (0.991) is a model-based prediction only and should not be read as clinical evidence. The model's rank for this prediction is 18,762, which further suggests treating it with caution.
 
-The score of 0.991 comes from a graph-based model. The drug's original indication (a rare genetic aging disorder) and leprosy (a chronic bacterial infection) are biologically very different, and no clinical or experimental data corroborate the prediction. Treat it as a hypothesis-generating signal only.
-
----
+The original indication is not recorded in the data, so the relationship between the original and predicted indications cannot be assessed.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form |
-|---------|------|------|
-| NDA213969 | Zokinvy (Sentynl Therapeutics, Inc.) | Capsule (oral) |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA213969 (Cancelled) | Zokinvy (Sentynl Therapeutics, Inc.) | Capsule (oral) | Not listed in the compiled record |
 
-The source data lists NDA213969 twice with identical details, so it is shown once here. No approved indication text is provided in the source data.
+## Cytotoxicity
 
----
+Lonafarnib has been studied in oncology, but it is not classified here as a conventional cytotoxic drug, and the compiled record contains no antineoplastic classification or toxicity data. Please refer to the package insert warnings and precautions.
 
 ## Safety Considerations
 
-- **Drug Interactions**: No interaction records were found in the queried database.
+- **Drug Interactions**: The interaction query returned 100 interacting drugs. The 20 entries shown include many Major-level interactions:
+  - Major: loperamide, aprepitant, triamcinolone, dexamethasone, budesonide, cimetidine, clarithromycin, eliglustat, naloxegol.
+  - Moderate: hydrocortisone, omeprazole, betamethasone, chlorpropamide, saxagliptin, empagliflozin, oxandrolone, naldemedine, and the ophthalmic forms of hydrocortisone, dexamethasone and prednisolone.
+  - Many of the Major interactions involve corticosteroids or drugs metabolized through common pathways, so concomitant medications need careful review.
 
-Please refer to the package insert for warnings, contraindications, and other safety information.
-
----
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone (Evidence Level L5). There are no clinical trials, no literature, and no documented mechanistic link between farnesyltransferase inhibition and leprosy. The safety package is also incomplete.
+The leprosy prediction has no supporting clinical trials or literature (evidence level L5), and no mechanistic link to *M. leprae* is established. The US license is also cancelled, and the package insert safety data is missing, which blocks safety screening.
 
 **To proceed, the following is needed:**
-- Mechanism of action data from DrugBank, to assess any biological link to leprosy
-- Preclinical evidence, such as in vitro or animal studies of lonafarnib in *M. leprae* infection or host-cell response models
-- Targeted literature review for prenylation or farnesyltransferase involvement in mycobacterial disease
-- The FDA package insert (warnings, contraindications, interactions) to complete a safety screen
-- Comparison against current leprosy standard of care to judge whether a new agent is worth pursuing
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Package insert warnings and contraindications (download from the FDA website)
+- Mechanism of action data (for example, from DrugBank)
+- Preclinical or mechanistic studies testing whether farnesyltransferase inhibition affects *M. leprae* infection or host macrophage response
+- A literature and trial search specific to leprosy
+- Route compatibility assessment against the oral capsule form
+- A review of the high number of major drug interactions for the likely leprosy treatment setting
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

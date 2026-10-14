@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Docetaxel
-parent: Model Prediction Only (L5)
+parent: High Evidence (L1-L2)
 nav_order: 617
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Docetaxel
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,132 +29,119 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Docetaxel: From Cytotoxic Chemotherapy to Female Breast Carcinoma
+# Docetaxel: From Lung, Prostate, Gastric, Head and Neck, and Breast Cancer to Female Breast Carcinoma
 
 ## One-Sentence Summary
 
-Docetaxel is a taxane-class chemotherapy injection. The retrieved US license records do not list its approved indications.
-The TxGNN model predicts it may be effective for **female breast carcinoma**, with **50 clinical trials** and **20 publications** retrieved for this direction, including 3 completed Phase 3 trials.
-Docetaxel is widely known to be used in breast cancer already, so this may be an existing indication rather than a true repurposing. This should be confirmed against the current US label.
-
----
+Docetaxel is a taxane chemotherapy originally used for non-small cell lung, prostate, gastric, head and neck, and breast cancers.
+The TxGNN model predicts it may be effective for **Female Breast Carcinoma**, with **50 clinical trials** and **20 publications** compiled for this prediction.
+Breast carcinoma is already among docetaxel's original indications, so this is an on-label use rather than true repurposing.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not captured in the retrieved license records |
+| Original Indication | Non-small cell lung cancer, prostate cancer, head and neck cancer, gastric cancer, breast carcinoma (the US license records contain no indication text, so these come from the knowledge-graph indication list) |
 | Predicted New Indication | Female breast carcinoma |
 | TxGNN Prediction Score | 99.90% |
-| Evidence Level | L2 (see note below) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| Evidence Level | L1 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 15 (all cancelled) |
 | Recommended Decision | Proceed with Guardrails |
-
-Note: at least two completed Phase 3 trials involve docetaxel-containing regimens (NCT00003519, NCT00017095), and a randomized adjuvant series (PMID 28398846) is also present. A manual review could justify upgrading the level to L1.
-
----
 
 ## Why is This Prediction Reasonable?
 
-Docetaxel stabilizes microtubules. This causes mitotic arrest and apoptosis in rapidly dividing tumor cells. Detailed mechanism-of-action data is not available in the record. However, this microtubule-stabilizing mechanism is well established in breast cancer.
+Detailed mechanism of action data is not available in the compiled data. From general pharmacology, docetaxel is a taxane that stabilizes microtubules and blocks cell division (mitosis), which damages rapidly proliferating tumor cells.
 
-The clinical literature is extensive, and the model's very high score is consistent with it. Docetaxel has been studied in neoadjuvant, adjuvant and metastatic breast cancer. It has been tested alone and in combination with anthracyclines, cyclophosphamide, carboplatin, gemcitabine, capecitabine and HER2-targeted agents.
-
-Because the original indication text is empty in the pack, the "new" indication status cannot be verified from the pack alone. The label status should be checked against the FDA record.
-
----
+Breast carcinoma and breast neoplasm are already listed among docetaxel's original indications, so the prediction agrees with established use. The trial and literature record supports this, including large adjuvant trials in which docetaxel was part of the regimen.
 
 ## Clinical Trial Evidence
 
-50 trials were retrieved. The 10 most relevant are listed below.
+Fifty trials were compiled. The 10 most relevant are listed below (several Phase 3 trials had no relevance grading, so selection favored size and design).
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00003519](https://clinicaltrials.gov/study/NCT00003519) | Phase 3 | Completed | 2778 | Adjuvant doxorubicin/docetaxel vs doxorubicin/cyclophosphamide in node-positive or high-risk node-negative breast cancer |
-| [NCT00017095](https://clinicaltrials.gov/study/NCT00017095) | Phase 3 | Completed | 1856 | Taxane vs non-taxane regimen in locally advanced or large operable breast cancer, with p53 as a predictive marker |
-| [NCT00408408](https://clinicaltrials.gov/study/NCT00408408) | Phase 3 | Unknown | 1206 | Neoadjuvant trial adding capecitabine or gemcitabine to docetaxel before AC, with or without bevacizumab |
-| [NCT00629278](https://clinicaltrials.gov/study/NCT00629278) | Phase 3 | Unknown | 2500 | SHORT-HER: two adjuvant chemotherapy regimens plus 3 vs 12 months of trastuzumab in HER2-positive disease |
-| [NCT00841828](https://clinicaltrials.gov/study/NCT00841828) | Phase 2 | Completed | 102 | Epirubicin/cyclophosphamide then docetaxel with trastuzumab vs lapatinib in HER2+ breast cancer |
-| [NCT02413320](https://clinicaltrials.gov/study/NCT02413320) | Phase 2 | Completed | 101 | Neoadjuvant carboplatin plus docetaxel vs carboplatin plus paclitaxel, then AC, in triple-negative breast cancer |
-| [NCT00545688](https://clinicaltrials.gov/study/NCT00545688) | Phase 2 | Completed | 417 | Four neoadjuvant combinations of trastuzumab, docetaxel and pertuzumab in HER2+ disease, measuring pathologic complete response |
-| [NCT00941330](https://clinicaltrials.gov/study/NCT00941330) | Phase 2 | Completed | 31 | Pre-operative docetaxel-cyclophosphamide vs exemestane in HR+ disease. Small sample |
-| [NCT05189067](https://clinicaltrials.gov/study/NCT05189067) | Phase 2/3 | Unknown | 190 | Adjuvant docetaxel plus trastuzumab vs paclitaxel plus trastuzumab in stage I HER2+ disease |
-| [NCT00343512](https://clinicaltrials.gov/study/NCT00343512) | Phase 2 | Terminated | 34 | Pilot of neoadjuvant dose-dense docetaxel with molecular correlates. Exploratory and underpowered |
+| [NCT00003782](https://clinicaltrials.gov/study/NCT00003782) | Phase 3 | Completed | 5351 | Adjuvant AC→docetaxel vs AT vs ATC in node-positive breast cancer |
+| [NCT00021255](https://clinicaltrials.gov/study/NCT00021255) | Phase 3 | Completed | 3222 | AC-T vs AC-TH vs TCH in adjuvant HER2-positive breast cancer |
+| [NCT00003519](https://clinicaltrials.gov/study/NCT00003519) | Phase 3 | Completed | 2778 | Adriamycin/Taxotere vs Adriamycin/Cytoxan adjuvant therapy |
+| [NCT00002707](https://clinicaltrials.gov/study/NCT00002707) | Phase 3 | Completed | 2411 | Preoperative AC with or without docetaxel (before or after surgery) |
+| [NCT00887536](https://clinicaltrials.gov/study/NCT00887536) | Phase 3 | Completed | 1613 | TC plus bevacizumab vs TC alone vs TAC in HER2-negative breast cancer |
+| [NCT00333775](https://clinicaltrials.gov/study/NCT00333775) | Phase 3 | Completed | 736 | Bevacizumab plus docetaxel vs docetaxel plus placebo, first-line metastatic HER2-negative |
+| [NCT00667251](https://clinicaltrials.gov/study/NCT00667251) | Phase 3 | Completed | 652 | Taxane plus lapatinib vs taxane plus trastuzumab in HER2-positive metastatic disease |
+| [NCT00431080](https://clinicaltrials.gov/study/NCT00431080) | Phase 3 | Completed | 478 | Dose-dense FE75C followed by docetaxel vs paclitaxel, adjuvant |
+| [NCT00321633](https://clinicaltrials.gov/study/NCT00321633) | Phase 2 | Completed | 148 | Randomized carboplatin vs docetaxel in metastatic BRCA-related breast cancer |
+| [NCT00025493](https://clinicaltrials.gov/study/NCT00025493) | Phase 2 | Terminated | 27 | Single-agent docetaxel in women aged 70+ with metastatic disease; small enrollment |
 
-Several other retrieved trials are supportive-care studies rather than docetaxel efficacy studies. Examples are NCT03252431 (pegfilgrastim) and NCT01298193 (chemotherapy-induced nausea and vomiting).
-
----
+Most Phase 3 trials test docetaxel as part of combination regimens, so docetaxel's individual contribution is not isolated in every study.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [28398846](https://pubmed.ncbi.nlm.nih.gov/28398846/) | 2017 | RCT (series of 3 adjuvant trials) | J Clin Oncol | Compared docetaxel-cyclophosphamide (TC) with taxane-anthracycline regimens in early breast cancer (ABC trials) |
-| [11481357](https://pubmed.ncbi.nlm.nih.gov/11481357/) | 2001 | Randomized phase IIb | J Clin Oncol | Dose-dense doxorubicin/docetaxel with or without tamoxifen as pre-operative therapy in operable breast cancer |
-| [15161988](https://pubmed.ncbi.nlm.nih.gov/15161988/) | 2004 | Review | Oncologist | Docetaxel and paclitaxel are fundamental drugs in metastatic, adjuvant and neoadjuvant breast cancer therapy |
-| [9282422](https://pubmed.ncbi.nlm.nih.gov/9282422/) | 1997 | Review | Drug Ther Bull | Review of paclitaxel and docetaxel in breast and ovarian cancer |
-| [7595719](https://pubmed.ncbi.nlm.nih.gov/7595719/) | 1995 | Review | J Clin Oncol | Preclinical and clinical profile of docetaxel |
-| [26874836](https://pubmed.ncbi.nlm.nih.gov/26874836/) | 2017 | Single-arm study | Breast Cancer | Neoadjuvant docetaxel, cyclophosphamide and trastuzumab in HER2-positive primary breast cancer |
-| [15858439](https://pubmed.ncbi.nlm.nih.gov/15858439/) | 2005 | Phase II interim analysis | Breast Cancer | CEF followed by docetaxel as preoperative chemotherapy in early breast cancer (79 patients) |
-| [12599222](https://pubmed.ncbi.nlm.nih.gov/12599222/) | 2003 | Phase II | Cancer | Capecitabine plus docetaxel and epirubicin as first-line therapy for advanced breast cancer |
-| [15585076](https://pubmed.ncbi.nlm.nih.gov/15585076/) | 2004 | Phase II | Clin Breast Cancer | Docetaxel/cisplatin as primary chemotherapy for locally advanced breast cancer |
-| [27997437](https://pubmed.ncbi.nlm.nih.gov/27997437/) | 2017 | Retrospective cohort | Anti-Cancer Drugs | Association between adjuvant docetaxel-based chemotherapy and breast cancer-related lymphedema |
-
----
+| [28398846](https://pubmed.ncbi.nlm.nih.gov/28398846/) | 2017 | RCT | J Clin Oncol | ABC trials: docetaxel-cyclophosphamide (TC) vs taxane-anthracycline regimens in early breast cancer |
+| [10791395](https://pubmed.ncbi.nlm.nih.gov/10791395/) | 2000 | Review | Lancet | Taxanes are evidence-based components of therapy for advanced breast, lung, and ovarian cancers |
+| [12868800](https://pubmed.ncbi.nlm.nih.gov/12868800/) | 2003 | Review | Breast Cancer Res Treat | Docetaxel-anthracycline combinations in metastatic breast cancer |
+| [12868802](https://pubmed.ncbi.nlm.nih.gov/12868802/) | 2003 | Review | Breast Cancer Res Treat | Neoadjuvant docetaxel in locally advanced breast cancer |
+| [9775340](https://pubmed.ncbi.nlm.nih.gov/9775340/) | 1998 | Review | Am J Health Syst Pharm | Pharmacology, trials, and adverse effects of docetaxel in metastatic breast cancer |
+| [9282422](https://pubmed.ncbi.nlm.nih.gov/9282422/) | 1997 | Review | Drug Ther Bull | Paclitaxel and docetaxel in breast and ovarian cancer |
+| [16020974](https://pubmed.ncbi.nlm.nih.gov/16020974/) | 2005 | Phase 2 | Oncology | Weekly docetaxel plus gemcitabine as first-line therapy in metastatic breast cancer |
+| [12599222](https://pubmed.ncbi.nlm.nih.gov/12599222/) | 2003 | Phase 2 | Cancer | Capecitabine with docetaxel and epirubicin in untreated advanced breast carcinoma |
+| [19856651](https://pubmed.ncbi.nlm.nih.gov/19856651/) | 2009 | Dose-finding | Tumori | Docetaxel plus gemcitabine in metastatic breast carcinoma |
+| [27997437](https://pubmed.ncbi.nlm.nih.gov/27997437/) | 2017 | Retrospective | Anti-Cancer Drugs | Adjuvant docetaxel-based chemotherapy and breast cancer-related lymphedema (safety signal) |
 
 ## US Market Information
 
-The record shows 20 licenses. The 5 main ones are listed below. Approved-indication text was not captured for any of them.
+All 15 US licenses for docetaxel are recorded as cancelled, and none is currently valid. The records contain no approved-indication text. Five representative entries:
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA022234 | Docetaxel | Injection, solution | Hospira, Inc. |
-| NDA022534 | Docetaxel | Injection, solution | Sun Pharmaceutical Industries, Inc. |
-| ANDA213510 | Docetaxel | Injection | Sagent Pharmaceuticals |
-| ANDA207252 | Docetaxel | Injection, solution, concentrate | Jiangsu Hengrui Pharmaceuticals Co., Ltd. |
-| ANDA210072 | Docetaxel | Injection, solution | Mylan Institutional LLC |
+| NDA020449 | Docetaxel (Sanofi-Aventis U.S. LLC) | Injection, solution, concentrate | Not recorded |
+| NDA022234 | Docetaxel (Hospira, Inc.) | Injection, solution | Not recorded |
+| NDA022534 | Docetaxel (Sun Pharmaceutical Industries, Inc.) | Injection, solution | Not recorded |
+| NDA203551 | Docetaxel (Actavis Pharma, Inc.) | Injection, solution, concentrate | Not recorded |
+| NDA201525 | Docetaxel (Baxter Healthcare Corporation) | Injection, solution | Not recorded |
 
 All forms are injectable.
-
----
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
 | Cytotoxicity Classification | Conventional cytotoxic (taxane, microtubule stabilizer) |
-| Myelosuppression Risk | High. Neutropenia is the expected dose-limiting toxicity. Several retrieved trials use G-CSF support alongside docetaxel |
-| Emetogenicity Classification | Low to moderate. Antiemetic prophylaxis is studied in docetaxel-cyclophosphamide regimens (NCT01298193) |
-| Monitoring Items | CBC with differential, liver function, signs of fluid retention and peripheral neuropathy |
-| Handling Protection | Must follow cytotoxic drug handling regulations |
-
-These entries reflect the taxane class and the retrieved trials, not label data. Please refer to the package insert warnings and precautions.
-
----
+| Myelosuppression Risk | High. Neutropenia and anemia are listed among the drug's knowledge-graph contraindications; CBC monitoring is essential |
+| Emetogenicity Classification | Low to moderate (general drug-class knowledge; not in the compiled data) |
+| Monitoring Items | CBC with differential, liver function (bilirubin), neuropathy assessment, fluid retention |
+| Handling Protection | Follow cytotoxic drug handling regulations. Please also refer to the package insert warnings and precautions |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindications / conditions of concern** (from knowledge-graph drug-disease links, not label text): liver disease, gallbladder disease, thrombocytopenia, neutropenia, agranulocytosis, anemia, hyperbilirubinemia (including Gilbert syndrome), peripheral neuropathy and neuritis, diarrheal disease, pulmonary edema, stomatitis, cardiac tamponade.
+- **Drug Interactions** (100 interactions recorded; selected):
+  - Major: clarithromycin
+  - Moderate: aprepitant, cimetidine, metronidazole, miconazole, rolapitant, rosuvastatin, simvastatin, tinidazole, eliglustat, troglitazone
+  - Minor: dexamethasone, prednisone, prednisolone, levofloxacin
 
----
+Package insert warnings and contraindications were not available in the compiled data. Please refer to the package insert for authoritative safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Breast carcinoma has by far the strongest evidence of the ten predictions. It has multiple completed Phase 2 and Phase 3 trials, plus randomized adjuvant data and reviews. The main uncertainty is administrative: the pack shows no recorded original indication, so it is unclear whether this is a new indication or an existing labeled one.
+Many completed Phase 3 trials and Phase 2 studies, plus major adjuvant trials in the literature, support docetaxel in breast cancer, and the indication is already among its established uses. The guardrails reflect the cancelled US license status, the missing label safety text, and the significant hematologic and organ toxicity profile.
 
 **To proceed, the following is needed:**
-- Confirm the approved indications from the current US package insert or Drugs@FDA. This is also the blocking gap for safety screening.
-- Obtain the package insert's warnings and contraindications. The safety fields in the pack are empty.
-- Obtain mechanism-of-action data from DrugBank to complete the mechanistic analysis.
-- Manually review the Phase 3 trials to decide whether the evidence level should be upgraded from L2 to L1.
+- Current FDA package insert warnings and contraindications (a blocking data gap)
+- Confirmation of current US marketing status, since all 15 records show as cancelled
+- Mechanism of action data from DrugBank
+- A hematologic, hepatic, and neuropathy monitoring plan, and review of major interactions such as strong CYP3A4 inhibitors (e.g., clarithromycin)
 
-Only the top-ranked prediction (breast carcinoma) is evaluated here. The lung and sarcoma-related predictions show weaker or purely computational support (Hold or Research Question in the pack). Several of the lung-related trials are NSCLC studies, and the other predictions have no direct trials or literature.
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before application.*
+**Other predictions (brief notes):**
+- **Ewing sarcoma** (L2, Research Question): Phase 2 data exist, mainly with gemcitabine, so docetaxel's own contribution is unclear.
+- **Rhabdomyosarcoma** (L2, Research Question): limited signal, with low single-agent response in pediatric testing.
+- **Small cell lung carcinoma** (L1, Research Question): the evidence is mostly in non-small cell lung cancer, so it is indirect.
+- **Pulmonary blastoma, well-differentiated fetal adenocarcinoma of the lung, and primary pulmonary lymphoma** (L4, Hold): case reports or no disease-specific evidence.
+- **Botryoid-type vaginal, extrahepatic bile duct, and parameningeal embryonal rhabdomyosarcoma** (L5, Hold): model prediction only, with no trials or literature.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

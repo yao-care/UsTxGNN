@@ -29,87 +29,85 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Lincomycin: From Bacterial Infections to Polyclonal Hyperviscosity Syndrome
+# Lincomycin: From Bacterial Infections (Pneumococcal, Staphylococcal, Streptococcal) to Polyclonal Hyperviscosity Syndrome
 
 ## One-Sentence Summary
 
-Lincomycin is a lincosamide antibiotic marketed in the US as an injectable.
-The TxGNN model predicts it may be effective for **polyclonal hyperviscosity syndrome**, but there are currently **0 clinical trials** and **0 publications** supporting this direction. This is a model prediction only.
-
----
+Lincomycin is a lincosamide antibiotic, originally used to treat pneumococcal, staphylococcal and streptococcal infections.
+The TxGNN model predicts it may be effective for **polyclonal hyperviscosity syndrome**,
+but there are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the US regulatory record (lincomycin is a lincosamide antibiotic used for bacterial infections) |
+| Original Indication | Pneumococcal, staphylococcal and streptococcal infections (knowledge-graph indications; no approved-indication text is available from the US licence records) |
 | Predicted New Indication | Polyclonal hyperviscosity syndrome |
 | TxGNN Prediction Score | 99.14% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 14 |
+| US Market Status | Cancelled only (no currently valid licences) |
+| Number of NDAs | 6 (all cancelled; 1 NDA and 5 ANDAs) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the source record. Lincomycin is known to be a lincosamide antibiotic. It inhibits bacterial protein synthesis by binding the 50S ribosomal subunit. The record lists no original indications.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, lincomycin is a lincosamide antibiotic that inhibits bacterial protein synthesis by binding the 50S ribosomal subunit. Its efficacy in gram-positive bacterial infections is established.
 
-Polyclonal hyperviscosity syndrome arises from excess serum immunoglobulins, usually in chronic inflammatory or autoimmune states. It is not a bacterial disease, and no credible mechanistic link to lincomycin was identified. The high score cannot be checked against known pharmacology and may reflect knowledge-graph topology rather than biology.
+For the predicted indication, **no established mechanistic link was identified**. Polyclonal hyperviscosity syndrome arises from elevated serum immunoglobulins, for example in autoimmune disease or chronic infection. An antibacterial would not directly address this. Any benefit would at most be indirect, through treating an underlying infection.
 
-The other two top predictions show the same pattern:
+The high TxGNN score (99.14%) is a knowledge-graph prediction only. It is not supported by any trial or publication, and it should be treated as a hypothesis, not as evidence.
 
-- **Hyperamylasemia** (score 99.14%, the same as the first prediction): this is a laboratory finding with many causes, not a disease a drug treats directly. Lincomycin has no known amylase-modulating or pancreatic mechanism. The identical score suggests a shared graph-neighborhood artifact.
-- **Congenital analbuminemia** (score 99.06%): this is a rare genetic disorder of albumin synthesis. An antibiotic acting on bacterial ribosomes is not expected to correct it.
-
-All three predictions have no supporting trials or literature.
-
----
+Two other predictions had the same pattern of no supporting evidence and no plausible mechanism:
+- **Hyperamylasemia** (score 99.14%): lincomycin has no known action on amylase regulation, and antibiotics are occasionally associated with pancreatitis-related enzyme elevations, so the safety direction may be opposite to a benefit.
+- **Congenital analbuminemia** (score 99.06%): this is a genetic disorder of albumin synthesis (ALB mutations) that a bacterial ribosome inhibitor would not correct.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-The record shows 14 authorizations in total. The main injectable authorizations are listed below. Approved-indication text is not included in the source record.
-
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA050317 | Lincocin | Injection, solution | Pharmacia & Upjohn Company LLC |
-| ANDA212770 | Lincomycin | Injection | PAI Holdings, LLC dba PAI Pharma |
-| ANDA215657 | Lincomycin | Injection, solution | Sagent Pharmaceuticals |
-| ANDA215657 | Lincomycin hydrochloride | Injection, solution | Gland Pharma Limited |
+| NDA050317 | Lincocin (Pharmacia & Upjohn) | Injection, solution | Cancelled |
+| ANDA212770 | Lincomycin (PAI Pharma) | Injection | Cancelled |
+| ANDA215657 | Lincomycin (Sagent) | Injection, solution | Cancelled |
+| ANDA216662 | Lincomycin (Slate Run) | Injection, solution | Cancelled |
+| ANDA201746 | Lincomycin (Henry Schein) | Injection, solution | Cancelled |
 
----
+One further licence (ANDA215082, Armas Pharmaceuticals, injection solution) is also cancelled. All six licences are injectable products, and none is currently valid.
 
 ## Safety Considerations
 
-No drug-interaction records were found. Please refer to the package insert for safety information.
+- **Contraindication-related conditions (knowledge-graph data, not label text)**: liver failure, *Clostridium difficile* colitis, perinatal necrotizing enterocolitis, colitis, digestive system disease, and intestinal disease. This suggests caution in patients with gastrointestinal or hepatic disease.
+- **Drug Interactions**: 21 interactions were recorded. Those rated Moderate:
+  - Balsalazide
+  - Picosulfuric acid
+  - Attapulgite
+  - Kaolin
+  - Erythromycin
+  - Ethinylestradiol
 
----
+  Others have an unclassified severity, including warfarin, metformin, morphine, simvastatin, omeprazole, cimetidine, ranitidine, lidocaine and clotrimazole.
+
+Please refer to the package insert for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a TxGNN score, with no clinical trials, no literature, and no plausible mechanistic link. Polyclonal hyperviscosity syndrome, hyperamylasemia, and congenital analbuminemia are all poorly matched to an antibacterial mechanism. Safety data is also missing, so the candidate cannot move to safety screening.
+The prediction is supported only by a model score, with no clinical trials, no literature and no plausible mechanistic link to the antibacterial action of lincomycin. In addition, all US licences are cancelled, and the gastrointestinal contraindication signals (especially *C. difficile* colitis) add safety concerns.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action and original indication data from DrugBank
-- A literature and trial search that identifies any biological basis for the predicted link
-- A check of whether the high scores are a knowledge-graph artifact, for example by reviewing neighboring drugs and diseases in the graph
+- Official package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data for lincomycin
+- A biological hypothesis connecting lincosamide pharmacology to immunoglobulin-driven hyperviscosity, followed by preclinical or observational evidence
+- Clarification of the current regulatory and supply status, since all US licences are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

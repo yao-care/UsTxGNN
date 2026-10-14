@@ -29,29 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Cidofovir: From Antiviral Therapy to Sclerosing Cholangitis
+# Cidofovir: From an Antiviral Indication to Sclerosing Cholangitis
 
 ## One-Sentence Summary
 
-Cidofovir is an injectable antiviral nucleotide analog that inhibits viral DNA polymerase, and it is currently marketed in the US as generic injection products.
-The TxGNN model predicts it may be effective for **sclerosing cholangitis**, but **0 clinical trials** and **0 publications** support this direction, so it is a model prediction only.
+Cidofovir is an injectable antiviral nucleotide analog. The US licence records compiled for this report do not state its approved indication text.
+The TxGNN model predicts it may be effective for **sclerosing cholangitis**, but there are **0 clinical trials** and **0 publications** supporting this prediction.
+The prediction is a model output only, and the recommendation is **Hold**.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Not stated in the available US licence records |
 | Predicted New Indication | Sclerosing cholangitis |
 | TxGNN Prediction Score | 99.94% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 2 (both ANDAs) |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no currently valid licences) |
+| Number of NDAs | 2 (both ANDA, both cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in this record. Based on known information, cidofovir is a nucleotide analog that inhibits viral DNA polymerase, so its established role is antiviral. Mechanistically, it could only be applicable to sclerosing cholangitis through a speculative hypothesis of a viral or CMV-associated cholangiopathy.
+Detailed mechanism of action data is not available in the data compiled for this report. Cidofovir is known as a nucleotide analog with activity against DNA viruses, but this report cannot verify the mechanism from the compiled data.
 
-No published or registered evidence supports this hypothesis. Sclerosing cholangitis is generally considered a chronic, immune-mediated or fibro-inflammatory bile duct disease, and nothing supplied here links viral DNA polymerase inhibition to its pathophysiology. The very high TxGNN score (0.999) should therefore be read as a knowledge-graph association, not as clinical or mechanistic validation.
+No direct link between cidofovir and sclerosing cholangitis is evident. Sclerosing cholangitis is an immune-mediated or cholestatic disease. A possible indirect link is secondary sclerosing cholangitis associated with infection, such as CMV or other viral cholangiopathy in immunocompromised patients, but this is speculative.
+
+The very high TxGNN score (99.94%) is a model prediction only. It likely reflects knowledge-graph relationships rather than demonstrated biology or clinical benefit. Cidofovir's known nephrotoxicity is also a concern in this population.
 
 ## Clinical Trial Evidence
 
@@ -61,34 +65,46 @@ Currently no related clinical trials registered.
 
 Currently no related literature available.
 
+Other predictions for this drug were also reviewed:
+- **Rheumatoid arthritis** (score 99.82%): the five retrieved publications do not show cidofovir efficacy. They concern leflunomide for CMV infection after transplant (cidofovir appears only as a comparator or background therapy), retinal drug toxicity, and warts. The match comes from leflunomide being an RA drug, not from evidence for cidofovir.
+- **Colobomatous microphthalmia-rhizomelic dysplasia syndrome** (99.62%) and **brachydactyly-syndactyly syndrome** (99.49%): both are rare congenital genetic conditions with no trials, no literature, and no plausible mechanistic rationale.
+
+All four predictions are at evidence level L5 with a Hold recommendation.
+
 ## US Market Information
 
-Two generic injection products are authorized. Approved indication text was not provided for either.
-
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA202501 | Cidofovir Dihydrate | Injection, solution | Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc. |
-| ANDA201276 | Cidofovir | Injection, solution | Mylan Institutional LLC |
+| ANDA202501 | Cidofovir Dihydrate (Heritage Pharmaceuticals / Avet Pharmaceuticals) | Injection, solution | Not stated (licence cancelled) |
+| ANDA201276 | Cidofovir (Mylan Institutional) | Injection, solution | Not stated (licence cancelled) |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Predicted disease contraindications (knowledge graph, not label text)**: kidney disease, pyoureter, acidosis disorder, acquired lactic acidosis.
+- **Drug Interactions**: 55 interactions were identified. Most of those listed are Major, and many involve other nephrotoxic or renally cleared agents:
+  - Amphotericin B (including lipid complex, cholesteryl sulfate and liposomal forms)
+  - Aminoglycosides: kanamycin, neomycin, streptomycin
+  - Polymyxin B and vancomycin
+  - Aminosalicylates: mesalazine, balsalazide, olsalazine, sulfasalazine
+  - Deferasirox and deferoxamine
+  - Iodinated contrast and radiopharmaceuticals: diatrizoate, iodipamide, iobenguane (I-131)
+  - Moderate interactions: exenatide and trospium
+
+Package insert warnings and contraindications were not available in the data compiled for this report. Please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a TxGNN model score. There are no clinical trials, no supporting literature, and no identifiable mechanistic link between an antiviral DNA polymerase inhibitor and sclerosing cholangitis. The other top predictions (rheumatoid arthritis, colobomatous microphthalmia-rhizomelic dysplasia syndrome, brachydactyly-syndactyly syndrome) are also L5 and unsupported. The literature retrieved for rheumatoid arthritis concerned leflunomide for CMV, not cidofovir for RA.
+The prediction rests only on a model score, with no clinical trials, no supporting literature, and no clear mechanistic link. Cidofovir's nephrotoxicity and the many major interactions with nephrotoxic drugs add further concern, and no US licences are currently valid.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (blocking for safety screening), obtained from the FDA label
-- Mechanism of action data from DrugBank
-- A defined biological hypothesis, such as a viral etiology in a specific sclerosing cholangitis subtype, supported by preclinical or mechanistic evidence
-- A route and dosing feasibility assessment. Cidofovir is available only as an injection, and its suitability for a chronic biliary indication is unassessed.
-- A literature search targeted at cidofovir and cholangiopathy to test whether any evidence exists
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- FDA package insert warnings and contraindications, which are currently a blocking gap for safety screening
+- Mechanism of action data
+- Any preclinical or clinical evidence linking cidofovir to sclerosing cholangitis, for example viral cholangiopathy in immunocompromised patients
+- A renal safety assessment for the target population
+- Confirmation of the original approved indication and the current availability of the product
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

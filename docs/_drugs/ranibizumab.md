@@ -29,109 +29,84 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ranibizumab: From Anti-VEGF Retinal Therapy to Severe Nonproliferative Diabetic Retinopathy
+# Ranibizumab: From Diabetic Retinopathy and Macular Degeneration to Severe Nonproliferative Diabetic Retinopathy
 
 ## One-Sentence Summary
 
-Ranibizumab is an intravitreal anti-VEGF antibody fragment marketed in the US. The source record does not list its original indications.
-The TxGNN model predicts it may be effective for **severe nonproliferative diabetic retinopathy (NPDR)**.
-This direction is supported by **6 related clinical trials** (including 1 completed Phase 3 randomized trial that directly tests ranibizumab in NPDR) and **20 publications**.
-
----
+Ranibizumab is an anti-VEGF antibody fragment, originally used for retinal diseases such as macular degeneration and diabetic macular edema.
+The TxGNN model predicts it may be effective for **severe nonproliferative diabetic retinopathy**,
+with **0 registered clinical trials** and **19 publications** currently supporting this direction. The prediction is largely adjacent to an existing indication (diabetic retinopathy is already among the original indications), so it is closer to an indication extension than a true repurposing.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in the source data |
+| Original Indication | Diabetic retinopathy, macular degeneration, diabetic macular edema, retinopathy of prematurity and related retinal diseases (approved indication text is not available in the US license records) |
 | Predicted New Indication | Severe nonproliferative diabetic retinopathy |
 | TxGNN Prediction Score | 99.99% |
-| Evidence Level | L1 (as scored in the Evidence Pack; see the caveat in the conclusion) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 6 (all are BLAs) |
+| Evidence Level | L1 (based on literature only; see note below) |
+| US Market Status | Cancelled only (all 4 licenses listed as cancelled) |
+| Number of NDAs | 4 (BLA licenses) |
 | Recommended Decision | Proceed with Guardrails |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the record. Based on known information, ranibizumab is an anti-VEGF Fab fragment that neutralizes VEGF-A.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, ranibizumab is an anti-VEGF antibody fragment. VEGF drives retinal vascular permeability and neovascularization in diabetic retinopathy, and VEGF levels are elevated in the vitreous and serum of affected eyes. This is a direct mechanistic match.
 
-VEGF drives retinal vascular permeability and neovascularization in diabetic retinopathy (DR). Blocking it can reduce DR severity and the risk of progression to vision-threatening complications. Anti-VEGF therapy is already established in diabetic eye disease, including diabetic macular edema (DME). Extending it to severe NPDR means treating earlier in the same disease process.
+Diabetic retinopathy is already among the drug's original indications, so severe nonproliferative disease is a more specific stage of a condition the drug is already linked to. Post hoc analyses of the RIDE/RISE Phase 3 trials report regression of retinopathy severity with ranibizumab. The ranibizumab Port Delivery System has also been studied in nonproliferative diabetic retinopathy without macular edema (the PAVILION randomized trial, published 2025).
 
-Two findings support the link:
-- Serum and vitreous VEGF data in DR (PMID 36580154) support the rationale.
-- The Phase 3 Pavilion trial (NCT04503551) tests ranibizumab directly in NPDR without macular edema.
-
----
+**Evidence-level caveat:** The clinical trial registry data compiled for this report contain no trials for this indication. The L1 grading therefore relies on literature titles only, and the primary trial reports should be verified before the grade is relied upon.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT04503551](https://clinicaltrials.gov/study/NCT04503551) | Phase 3 | Completed | 174 | Ranibizumab via Port Delivery System vs. monitoring in DR without center-involved DME. Most direct evidence; results published (PMID 40048178). |
-| [NCT02634333](https://clinicaltrials.gov/study/NCT02634333) | Phase 3 | Completed | 399 | Anti-VEGF to prevent vision-threatening complications in high-risk eyes. Supports the class effect, but the agent may not be ranibizumab. |
-| [NCT03452657](https://clinicaltrials.gov/study/NCT03452657) | Phase 3 | Unknown | 118 | Intravitreal ranibizumab vs. sham injections for preventing high-risk DR. Status unknown. |
-| [NCT00444600](https://clinicaltrials.gov/study/NCT00444600) | Phase 3 | Completed | 691 | DRCR Protocol I: ranibizumab or triamcinolone plus laser in DME. Strong ranibizumab safety and efficacy data in diabetic eye disease, but the population is DME. |
-| [NCT02834663](https://clinicaltrials.gov/study/NCT02834663) | Phase 4 | Completed | 25 | Six-month pilot of intravitreal ranibizumab for macular edema with NPDR. Looked at microaneurysm turnover and non-perfused retinal area. |
-| [NCT05222633](https://clinicaltrials.gov/study/NCT05222633) | N/A | Unknown | 1000 | Real-world observation of anti-VEGF therapy across retinal diseases. Only weak supportive relevance. |
-
----
+Currently no related clinical trials registered in the data compiled for this report. The evidence comes from published literature, including reports of RIDE/RISE, DRCR.net Protocol I and PAVILION.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [40048178](https://pubmed.ncbi.nlm.nih.gov/40048178/) | 2025 | RCT | JAMA Ophthalmol | Pavilion trial: Port Delivery System with ranibizumab vs. monitoring in NPDR without macular edema. Tests continuous ranibizumab release as a less frequent regimen. |
-| [39673354](https://pubmed.ncbi.nlm.nih.gov/39673354/) | 2024 | Systematic review / meta-analysis | Health Technol Assess | Anti-VEGF drugs vs. laser photocoagulation for DR. |
-| [40347224](https://pubmed.ncbi.nlm.nih.gov/40347224/) | 2025 | Systematic review and economic analysis | Health Technol Assess | Economic follow-up of anti-VEGF vs. laser in proliferative and non-proliferative DR. |
-| [32606578](https://pubmed.ncbi.nlm.nih.gov/32606578/) | 2020 | Post hoc analysis of RCT | Clin Ophthalmol | Predictors of early DR regression with ranibizumab in RIDE/RISE. |
-| [36774994](https://pubmed.ncbi.nlm.nih.gov/36774994/) | 2023 | Post hoc analysis of RCT (meta-analysis) | Ophthalmol Retina | Effect of baseline DR severity on time to DME resolution with ranibizumab in phase III trials. |
-| [36161830](https://pubmed.ncbi.nlm.nih.gov/36161830/) | 2022 | Post hoc analysis of RCT | BMJ Open Ophthalmol | Factors linked to DRSS changes with less frequent ranibizumab in the RIDE/RISE extension. |
-| [35417296](https://pubmed.ncbi.nlm.nih.gov/35417296/) | 2022 | Post hoc analysis of RCT | Ophthalmic Surg Lasers Imaging Retina | Course of DR in untreated fellow eyes in RIDE/RISE. |
-| [30234859](https://pubmed.ncbi.nlm.nih.gov/30234859/) | 2018 | Secondary analysis of RCT | Retina | DRCR.net Protocol I 5-year report on DR severity changes in eyes treated with ranibizumab for DME. |
-| [37278412](https://pubmed.ncbi.nlm.nih.gov/37278412/) | 2023 | Simulation model | BMJ Open Ophthalmol | Long-term impact of proactive anti-VEGF treatment of severe NPDR vs. waiting for PDR. |
-| [33966556](https://pubmed.ncbi.nlm.nih.gov/33966556/) | 2021 | Review | Expert Opin Biol Ther | Review of ranibizumab for DR. |
-
----
+| [40048178](https://pubmed.ncbi.nlm.nih.gov/40048178/) | 2025 | RCT (Phase 3) | JAMA Ophthalmology | PAVILION: Port Delivery System with ranibizumab vs monitoring in nonproliferative diabetic retinopathy without macular edema |
+| [32606578](https://pubmed.ncbi.nlm.nih.gov/32606578/) | 2020 | Post hoc analysis of RCT | Clinical Ophthalmology | Predictors of early diabetic retinopathy regression with ranibizumab in RIDE/RISE |
+| [36774994](https://pubmed.ncbi.nlm.nih.gov/36774994/) | 2023 | Post hoc analysis / meta-analysis | Ophthalmology Retina | Baseline retinopathy severity and time to macular edema resolution with ranibizumab in Phase 3 trials |
+| [28427069](https://pubmed.ncbi.nlm.nih.gov/28427069/) | 2017 | Review of RCT | Developments in Ophthalmology | Lessons from DRCR.net Protocol I (ranibizumab with prompt or deferred laser vs triamcinolone vs sham) |
+| [33966556](https://pubmed.ncbi.nlm.nih.gov/33966556/) | 2021 | Review | Expert Opinion on Biological Therapy | Ranibizumab is effective in diabetic retinopathy, including diabetic macular edema |
+| [42219053](https://pubmed.ncbi.nlm.nih.gov/42219053/) | 2026 | Systematic review / meta-analysis | European Journal of Pharmacology | Sustained ranibizumab port delivery in diabetic retinopathy and diabetic macular edema |
+| [40347224](https://pubmed.ncbi.nlm.nih.gov/40347224/) | 2025 | Systematic review and economic analysis | Health Technology Assessment | Anti-VEGF drugs compared with laser photocoagulation for diabetic retinopathy |
+| [39673354](https://pubmed.ncbi.nlm.nih.gov/39673354/) | 2025 | Systematic review / meta-analysis | Health Technology Assessment | Anti-VEGF drugs compared with laser photocoagulation for diabetic retinopathy |
+| [36161830](https://pubmed.ncbi.nlm.nih.gov/36161830/) | 2022 | Open-label extension analysis | BMJ Open Ophthalmology | Effect of less frequent ranibizumab on retinopathy severity scale scores in RIDE/RISE |
+| [28448655](https://pubmed.ncbi.nlm.nih.gov/28448655/) | 2017 | Secondary analysis of RCT | JAMA Ophthalmology | Change in diabetic retinopathy through 2 years with aflibercept, bevacizumab and ranibizumab |
 
 ## US Market Information
 
-The record lists 6 licenses, but only 3 distinct authorizations (two are duplicated). Approved indication text is not recorded for any of them.
-
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA125156 | LUCENTIS | Injection, solution | Genentech, Inc. |
-| BLA761165 | CIMERLI | Injection, solution | Sandoz Inc |
-| BLA761202 | Byooviz | Injection, solution | Harrow Eye, LLC |
-
----
+| BLA125156 | LUCENTIS (Genentech) | Injection, solution | Not available (status: cancelled) |
+| BLA761197 | Susvimo (Genentech) | Injection, solution | Not available (status: cancelled) |
+| BLA761165 | CIMERLI (Sandoz) | Injection, solution | Not available (status: cancelled) |
+| BLA761202 | Byooviz (Harrow Eye) | Injection, solution | Not available (status: cancelled) |
 
 ## Safety Considerations
 
-Package insert warnings and contraindications are not available in the record, and no drug-drug interaction data were found. Please refer to the package insert for safety information.
+- **Contraindications (from the knowledge graph, not label text):** eye infectious disease and conjunctivitis.
+- **Related safety signal in the literature:** a case report describes capsular block syndrome after an intravitreal ranibizumab injection (PMID 38476863).
 
-Points to watch, drawn from the evidence:
-- Endophthalmitis and intraocular pressure changes after intravitreal injection.
-- The burden of repeated intravitreal injections and follow-up visits.
-- A possible lens-related signal: a small lens-opacity study (NCT01330797) and one case report of capsular block syndrome after ranibizumab injection (PMID 38476863). Neither is conclusive.
-
----
+Package insert warnings and drug interaction data were not available in the data compiled for this report. Please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Anti-VEGF biology fits DR well, and a completed Phase 3 randomized trial (Pavilion) tests ranibizumab directly in NPDR. The Evidence Pack scores this L1. Strictly, though, only one completed Phase 3 trial directly tests ranibizumab in NPDR. The other Phase 3 trials are in DME, or in NPDR with an agent that is unconfirmed or not ranibizumab, so the evidence may be closer to L2.
+Ranibizumab has a direct mechanistic fit for diabetic retinopathy, and the literature includes a Phase 3 randomized trial (PAVILION) plus RIDE/RISE and DRCR.net analyses. However, no registered trials were found in the compiled data, the indication is already close to the original one, and package insert safety data and US market status (all licenses cancelled) are unresolved.
 
 **To proceed, the following is needed:**
-- Confirm the current US label status for DR and the original approved indications, since the record contains no indication text.
-- Obtain the package insert warnings and contraindications, and detailed mechanism of action data.
-- Review the full Pavilion results (efficacy and safety) and a patient-selection plan based on DR severity.
-- Plan for injection burden and monitoring of endophthalmitis and intraocular pressure.
+- Verify the primary reports of PAVILION and RIDE/RISE and confirm the L1 grading, since no registry trials were captured
+- Obtain the FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Obtain mechanism of action data from DrugBank
+- Clarify the current US regulatory status, since all four BLA licenses are listed as cancelled
+- Define a monitoring plan for intravitreal injection risks, including infection, given the knowledge-graph contraindications
 
-The other nine predicted indications (cataract subtypes and hemorrhagic disease of newborn) have no plausible therapeutic rationale. They are recommended as **Hold**.
+**Other predicted indications:** The remaining predictions (diabetic and other cataract types, craniostenosis cataract, tetanic cataract, hemorrhagic disease of newborn) lack a plausible anti-VEGF mechanism and have only indirect or no evidence. The suggested decision for all of them is **Hold**.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

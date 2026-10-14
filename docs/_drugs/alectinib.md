@@ -29,99 +29,77 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Alectinib: From ALK-Positive Non-Small-Cell Lung Cancer to Gingival Fibromatosis
+# Alectinib: From Non-Small Cell Lung Cancer to Fibromatosis, Gingival
 
 ## One-Sentence Summary
 
-Alectinib is an oral ALK/RET tyrosine kinase inhibitor, approved for ALK-positive non-small-cell lung cancer (NSCLC).
-The TxGNN model predicts it may be effective for **gingival fibromatosis**, a rare benign gum overgrowth disorder.
-There are **0 clinical trials** and **0 publications** supporting this prediction, so it rests on the model score alone.
-
----
+Alectinib is an oral ALK inhibitor originally used to treat non-small cell lung cancer (NSCLC).
+The TxGNN model predicts it may be effective for **gingival fibromatosis**, but **no clinical trials and no publications** currently support this prediction.
+This is a model-only signal and is not backed by any real-world evidence.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | ALK-positive NSCLC (taken from the evidence pack's rationale text; the license record has no indication text) |
+| Original Indication | Non-small cell lung carcinoma (lung cancer) |
 | Predicted New Indication | Fibromatosis, gingival |
-| TxGNN Prediction Score | 99.97% (model rank 1477) |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
+| TxGNN Prediction Score | 99.97% |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (the single NDA is cancelled) |
 | Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
----
-
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the database. From the pack's rationale text, alectinib is an ALK/RET tyrosine kinase inhibitor. Its proven benefit is in ALK-rearranged lung cancer, where ALK is the driver of tumor growth.
+Detailed mechanism-of-action data is not available in the data compiled for this report. From general knowledge, alectinib is a selective inhibitor of anaplastic lymphoma kinase (ALK), with activity against RET as well. Its efficacy in ALK-positive NSCLC is well established.
 
-This prediction has no supporting mechanism. The supplied data documents no ALK or RET involvement in gingival fibromatosis. That disease is a benign, non-malignant tissue overgrowth, and it is biologically distant from ALK-driven lung cancer.
-
-The score of about 0.9997 comes from graph-based prediction only. The other top candidates for this drug score almost identically, so the score does not help rank them. It should be read as a hypothesis-generation signal, not as evidence of efficacy.
-
----
+For gingival fibromatosis, the link is weak. Hereditary gingival fibromatosis is not known to be driven by ALK or RET signalling, and no mechanistic rationale has been established. The very high TxGNN score reflects a pattern in the knowledge graph rather than a biological or clinical finding. The other top-ranked predictions show the same pattern: none has a plausible ALK-dependent mechanism, apart from tumour types that overlap with the existing lung cancer use.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
+For context, the only trial found among the top 10 predictions is NCT04644315, a Phase 2 study of alectinib in ALK-positive solid tumours, linked to the lung germ cell tumour prediction. It was terminated after enrolling 1 participant and gives no usable efficacy data. It is not related to gingival fibromatosis.
 
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA208434 | ALECENSA | Capsule (oral) | Genentech, Inc. |
-
----
+| NDA208434 | ALECENSA (Genentech, Inc.) | Capsule (oral) | Not listed; status: cancelled |
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (ALK/RET kinase inhibitor), not a conventional cytotoxic agent |
-| Myelosuppression Risk | Low to moderate. Anemia is a known effect, and a published case report describes alectinib-induced hemolytic anemia (PMID 36604860) |
-| Emetogenicity Classification | Low (typical for oral kinase inhibitors; not from the supplied data) |
-| Monitoring Items | CBC, liver function. Please refer to the package insert for the full list |
+| Cytotoxicity Classification | Targeted therapy (ALK/RET tyrosine kinase inhibitor), not a conventional cytotoxic |
+| Myelosuppression Risk | Please refer to the package insert warnings and precautions (published reports note anaemia, including a case of haemolytic anaemia) |
+| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
+| Monitoring Items | Please refer to the package insert; published reports suggest attention to blood counts, liver function, triglycerides/pancreatitis, weight and cardiac conduction |
 | Handling Protection | Please refer to the package insert warnings and precautions |
-
----
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: 92 interactions were recorded in the interaction database. Most of those listed are Moderate. One is Major: **aminolevulinic acid** (a photosensitising agent). Moderate examples include dolasetron, naltrexone, mefloquine, quinine, atazanavir, bedaquiline, methoxsalen, and several beta-blockers (acebutolol, atenolol, betaxolol, bisoprolol). The full list should be reviewed before any clinical use.
+- **Safety signals from published case reports**: hypertriglyceridaemia-induced pancreatitis, haemolytic anaemia, DRESS syndrome, erythema multiforme, and weight gain.
 
----
+Package insert warnings and contraindications were not available for this report; please refer to the package insert for them.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no trials, no literature and no mechanistic link (Evidence Level L5). A benign gum disorder is a poor fit for a drug developed for ALK-driven cancer. A weak benefit would also have to be weighed against the safety profile of a systemic oncology drug.
+The prediction is model-only (L5), with no trials, no literature, and no plausible ALK/RET-related mechanism in gingival fibromatosis. The only NDA on record is cancelled, and the interaction burden is substantial. None of the other top-10 predictions offers a stronger signal. Those with abundant literature (such as lung benign neoplasm) are driven by existing NSCLC studies and do not transfer to the predicted indication.
 
 **To proceed, the following is needed:**
-- A plausible biological link between ALK/RET signaling and gingival fibromatosis, for example from preclinical or expression data
-- Package insert warnings and contraindications (currently a blocking gap for safety screening)
-- Detailed MOA data from DrugBank
-- A benefit-risk assessment for a benign, non-life-threatening condition
-
-**Other candidates for this drug:**
-- **Lung germ cell tumor (rank 7)** is the only candidate with trial and case-report evidence, at Evidence Level L4. The literature is case reports of ALK-fusion-positive lung neuroendocrine tumors that responded to alectinib, none of it on germ cell tumors. Two trials are registered:
-  - NCT04644315 was terminated after 1 participant.
-  - NCT05770037 (DETERMINE, n=30) is still recruiting.
-  - This candidate is better suited to a molecularly stratified research question, with ALK testing required, than to a repurposing decision.
-- **Lung benign neoplasm (rank 5)** has 20 papers, but all concern ALK-positive NSCLC, which is malignant. This looks like a disease-term mapping artifact and is not evidence for the predicted indication.
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
+- A mechanistic rationale showing ALK or RET involvement in gingival fibromatosis, or a related fibroproliferative pathway
+- Mechanism of action data (MOA) and FDA package insert warnings and contraindications
+- Preclinical evidence in a relevant model
+- Clarification of the cancelled US regulatory status and of available formulations
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,83 +29,101 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Meloxicam: From Arthritis Treatment to Acromesomelic Dysplasia, Hunter-Thompson Type
+# Meloxicam: From Rheumatoid Arthritis to Acromesomelic Dysplasia, Hunter-Thompson Type
 
 ## One-Sentence Summary
 
-Meloxicam is a preferential COX-2 inhibitor (NSAID) that is widely marketed in the US as an oral tablet, and it is generally used for arthritis pain and inflammation.
-The TxGNN model ranks **acromesomelic dysplasia, Hunter-Thompson type** as its top new-indication prediction.
-There are **0 clinical trials** and **0 publications** supporting it, and the mechanism does not fit, so this is a graph-based prediction only.
+Meloxicam is a COX-2-preferential NSAID originally used for rheumatoid arthritis, osteoarthritis, juvenile idiopathic arthritis and related joint conditions.
+The TxGNN model predicts it may be effective for **acromesomelic dysplasia, Hunter-Thompson type**, but there are currently **0 clinical trials** and **0 publications** supporting this prediction, so it rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Rheumatoid arthritis, osteoarthritis, juvenile idiopathic arthritis, spondyloarthropathy (the US license records contain no indication text; these come from the knowledge graph) |
 | Predicted New Indication | Acromesomelic dysplasia, Hunter-Thompson type |
 | TxGNN Prediction Score | 99.92% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (all listed licenses are ANDA generics) |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 8 (all cancelled; all are ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-It is not, on current evidence. Detailed mechanism of action data for meloxicam is not in the Evidence Pack. From general pharmacology, meloxicam preferentially inhibits COX-2 and reduces prostaglandin-driven pain and inflammation.
+Detailed mechanism of action data is not available. Based on known information, meloxicam is a COX-2-preferential NSAID that reduces inflammation and pain. Its efficacy in arthritis conditions is established.
 
-Acromesomelic dysplasia, Hunter-Thompson type is a genetic skeletal dysplasia caused by loss of function in the CDMP1/GDF5 pathway. A COX-2 inhibitor cannot correct that defect. The high TxGNN score reflects graph proximity only, not a plausible biological link.
+For this prediction, however, no mechanistic link is established. Acromesomelic dysplasia, Hunter-Thompson type, is a rare skeletal dysplasia caused by loss-of-function variants in CDMP1/GDF5, a developmental bone-growth defect. Meloxicam would not be expected to correct this genetic defect. The very high TxGNN score most likely reflects a knowledge-graph artifact, in which a shared musculoskeletal phenotype with arthropathy places the two close together, rather than real biological plausibility.
 
-The other top-10 predictions show the same pattern. Most are rare genetic syndromes with no plausible link to COX-2 inhibition (brachyolmia, WHIM syndrome, and others). Three are more plausible than the top-ranked prediction:
+**Other top-ranked predictions** were also reviewed:
 
-| Rank | Predicted Indication | Score | Assessment |
-|------|------|------|------|
-| 6 | Spondyloarthropathy, susceptibility to | 99.52% | Biologically plausible (NSAIDs are standard symptomatic therapy). It is a genetic susceptibility term, not a treatable clinical entity, so evidence should be re-collected for axial spondyloarthritis. |
-| 8 | RF-positive polyarticular juvenile idiopathic arthritis | 99.44% | Plausible, with L4 evidence. The only candidate with any literature, and it is class-level and indirect. |
-| 5 | Pseudoachondroplasia | 99.81% | Weak and indirect. At most symptomatic joint pain relief. |
+| Rank | Predicted Indication | Score | Evidence Level | Assessment |
+|------|------|------|------|------|
+| 2 | Brachyolmia-amelogenesis imperfecta syndrome | 99.92% | L5 | No credible mechanistic link; likely graph-proximity artifact |
+| 3 | Myosclerosis | 99.90% | L5 | Weak and speculative; possible symptomatic relief only, no evidence on fibrosis |
+| 4 | Brachyolmia | 99.89% | L5 | No credible mechanistic link |
+| 5 | Pseudoachondroplasia | 99.81% | L5 | Indirect; NSAIDs are generic supportive care for joint pain |
+| 6 | Spondyloarthropathy, susceptibility to | 99.52% | L4 | Plausible but redundant with an existing indication |
+| 7 | Rheumatoid nodulosis | 99.51% | L4 | Indirect; possible joint-pain benefit, no evidence on nodules |
+| 8 | RF-positive polyarticular juvenile idiopathic arthritis | 99.44% | L4 | Closest to existing use; one indirect safety publication |
+| 9 | WHIM syndrome | 99.38% | L5 | No mechanistic link (CXCR4 gain-of-function disease) |
+| 10 | Colobomatous microphthalmia-rhizomelic dysplasia syndrome | 99.36% | L5 | No credible mechanistic link; likely artifact |
+
+Rank 8 (RF-positive polyarticular juvenile idiopathic arthritis) is the only prediction with a plausible link and any supporting publication. It is also closely related to meloxicam's existing use in juvenile arthritis, so it is not a distinct repurposing opportunity.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials registered for the top-ranked prediction.
 
 ## Literature Evidence
 
-Currently no related literature available for the top-ranked indication.
+Currently no related literature available for the top-ranked prediction.
 
-For reference, the only publication in the pack is attached to rank 8 (JIA):
+For the rank 8 prediction, one publication was found:
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [25057265](https://pubmed.ncbi.nlm.nih.gov/25057265/) | 2014 | Cohort (inferred from title) | Pediatric rheumatology online journal | Phase 4 registry on the long-term safety of celecoxib versus nonselective NSAIDs in JIA. Class-level data with no meloxicam-specific efficacy. |
+| [25057265](https://pubmed.ncbi.nlm.nih.gov/25057265/) | 2014 | Cohort/safety study (inferred from title) | Pediatric Rheumatology Online Journal | Phase 4 registry on the long-term safety and development of children with juvenile idiopathic arthritis treated with celecoxib or nonselective NSAIDs; indirect for meloxicam and supports safety rather than efficacy |
 
 ## US Market Information
 
-The pack lists 20 licenses, all tablets. The five main ones are below. Approved indication text is not provided in the pack.
+All 8 US authorizations are generic tablets and are currently cancelled. The records contain no approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA077920 | Meloxicam | Tablet | AiPing Pharmaceutical, Inc |
-| ANDA077927 | Meloxicam | Tablet | REMEDYREPACK INC. |
-| ANDA077918 | Meloxicam | Tablet | Aphena Pharma Solutions - Tennessee, LLC |
-| ANDA217579 | Meloxicam | Tablet | XLCare Pharmaceuticals, Inc. |
-| ANDA077929 | Meloxicam | Tablet | Northwind Health Company, LLC |
+| ANDA077920 | Meloxicam (AiPing Pharmaceutical) | Tablet | Not available (cancelled) |
+| ANDA077927 | Meloxicam (RemedyRepack) | Tablet | Not available (cancelled) |
+| ANDA077918 | Meloxicam (Aphena Pharma Solutions) | Tablet | Not available (cancelled) |
+| ANDA217579 | Meloxicam (XLCare Pharmaceuticals) | Tablet | Not available (cancelled) |
+| ANDA077929 | Meloxicam (Northwind Health) | Tablet | Not available (cancelled) |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Package insert warnings and contraindications were not available in the data compiled for this report. Please refer to the package insert for safety information.
+
+- **Disease-level contraindication signals (knowledge graph, not label text)**: hypertension, congestive heart failure, myocardial infarction and other cardiovascular disease, stroke and cerebrovascular disorders, kidney disease and impaired renal function, active peptic ulcer disease, gastritis, blood coagulation disease, anaemia, diabetes mellitus and diabetic ketoacidosis, hyperlipidaemia, and substance abuse/dependence. These are consistent with the known cardiovascular, gastrointestinal and renal risks of NSAIDs but should be confirmed against the label.
+- **Drug Interactions**: 100 interactions were identified. The sample reviewed was mostly Moderate, with one Minor (linaclotide). Examples of Moderate interactions include:
+  - Corticosteroids (hydrocortisone, dexamethasone, betamethasone, triamcinolone, budesonide)
+  - Acetylsalicylic acid
+  - Mesalazine and balsalazide
+  - Metformin, glimepiride and chlorpropamide
+  - Aprepitant
+  - Vancomycin and kanamycin
+  - Potassium citrate and potassium bicarbonate
+  - Bowel-preparation agents (picosulfuric acid, polyethylene glycol with electrolytes, sodium sulfate)
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top prediction has no clinical or literature support and no plausible mechanistic link, because meloxicam cannot correct a CDMP1/GDF5 genetic defect. The score is a graph artifact, and the evidence level is L5.
+The top-ranked prediction has no clinical trials or literature and no plausible mechanism. Its high score appears to be a knowledge-graph artifact. All nine other top predictions are also at L4-L5, and the most plausible ones largely overlap with meloxicam's existing indications. The cancelled US license status and missing label safety data further limit progress.
 
 **To proceed, the following is needed:**
-- Obtain the FDA package insert (warnings, contraindications, approved indications) to unblock safety screening
-- Retrieve mechanism of action data from DrugBank
-- Re-target evidence collection to the more plausible candidates: axial spondyloarthritis (rank 6) and JIA (rank 8, including meloxicam-specific pediatric data)
-- Do not advance the top-ranked genetic skeletal dysplasia without new mechanistic or clinical evidence
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
+- Mechanism-of-action data for meloxicam, to support any mechanistic-link analysis
+- FDA package insert warnings and contraindications, to allow safety screening
+- A biological rationale connecting COX inhibition to GDF5-related skeletal development, or reprioritization toward predictions with real support (for example, rank 8, RF-positive polyarticular JIA)
+- Meloxicam-specific efficacy data for any selected indication
+- Clarification of the cancelled US market status and the current availability of the drug
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

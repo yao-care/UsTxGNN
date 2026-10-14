@@ -29,88 +29,69 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Stannous Fluoride: From Topical Oral Care to Meningococcal Infection
+# Stannous Fluoride: From Dental Care Products to Meningococcal Infection
 
 ## One-Sentence Summary
 
-Stannous fluoride is a topical oral-care ingredient used in dentifrices (toothpastes), gels and rinses.
-The TxGNN model predicts it may be effective for **meningococcal infection**, but **no clinical trials and no publications** currently support this direction.
-The prediction rests on the model score alone and should be treated as a hypothesis, not a finding.
-
----
+Stannous fluoride is a fluoride compound used topically in dental products such as toothpaste.
+The TxGNN model predicts it may be effective for **meningococcal infection**,
+but there are currently **0 clinical trials** and **0 publications** supporting this direction, so it is a computational hypothesis only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the regulatory data (marketed as topical oral-care and dental products) |
+| Original Indication | No approved indication text is available (marketed as dentifrice/toothpaste products) |
 | Predicted New Indication | Meningococcal infection |
 | TxGNN Prediction Score | 99.66% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only |
+| Number of NDAs | 2 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available, and DrugBank lists no original indications for this drug.
-Stannous fluoride is a topical oral-care agent. Its antibacterial activity is attributed to tin and fluoride ions, which affect bacterial metabolism and plaque formation.
+Currently, detailed mechanism of action data is not available. Based on known information, stannous fluoride is used topically in dental products, where it has antibacterial and anti-plaque activity. Its mechanistic applicability to meningococcal infection has not been established.
 
-Meningococcal infection is an invasive systemic disease caused by *Neisseria meningitidis*. Topical dental use gives no meaningful systemic exposure, so any antimicrobial rationale is speculative.
-The very high score (0.997) more likely reflects knowledge-graph neighborhood effects, such as shared fluoride/tin or antibacterial-class associations, than a real therapeutic signal.
-The link cannot be checked against a known pharmacology.
+Meningococcal infection is caused by *Neisseria meningitidis*, an invasive systemic pathogen. The antibacterial action of stannous fluoride in the mouth occurs at high local concentrations on the teeth and gums. No data compiled for this report show that comparable concentrations can be reached in the blood or cerebrospinal fluid, or that the compound acts against this organism.
 
----
+The only support for this prediction is the high knowledge-graph score (0.997). It should be treated as a hypothesis to be tested, not as a finding.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
-
-The regulatory data lists 20 authorizations in total. The 5 main ones are shown below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| M021 | Crest Pro Health | Paste, dentifrice | Not stated |
-| M021 | Crest | Paste, dentifrice | Not stated |
-| M021 | KIDS Crest | Paste, dentifrice | Not stated |
-| M021 | Crest Pro-Health | Paste, dentifrice | Not stated |
-| M022 | parodontax | Paste | Not stated |
-
-Other dosage forms on the market include gel (topical), mouthwash and rinse.
-
----
+| M021 | Crest Pro Health | Paste, dentifrice | Not stated (status: cancelled) |
+| M022 | parodontax | Paste | Not stated (status: cancelled) |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Knowledge-graph contraindication signal**: The knowledge graph links stannous fluoride to **dental fluorosis**. This comes from graph relationships, not from product label text.
+- **Drug Interactions**: No interactions were found in the queried data.
 
----
+Please refer to the package insert for other safety information, including warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The only support is a model score, with no clinical trials or literature (evidence level L5). The proposed use is an invasive systemic infection, while stannous fluoride is a topical product with no meaningful systemic exposure, so there is no plausible route to efficacy.
+The prediction rests only on a model score, with no clinical trials, no literature and no mechanistic rationale. Stannous fluoride is a topical dental agent, and systemic activity against *Neisseria meningitidis* is not supported by any available data. Both US products are also cancelled.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, which are needed for any safety screening
-- Mechanism of action data (for example, from DrugBank)
-- Any *in vitro* evidence of activity against *Neisseria meningitidis*
-- An assessment of route compatibility, since a systemic formulation would be needed and none is marketed
-- Published or registered studies supporting this indication, before the candidate is reconsidered
+- Mechanism of action data for stannous fluoride
+- In vitro evidence of activity against *Neisseria meningitidis* at achievable concentrations
+- Evidence on whether systemic or otherwise relevant exposure is feasible, since current products are topical or oral-care only
+- Package insert warnings and contraindications for safety screening
+- A review of the dental fluorosis signal, especially if any non-topical use were considered
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

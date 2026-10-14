@@ -29,75 +29,103 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-# Tetracaine: From Local Anesthesia to Acrodermatitis Chronica Atrophicans
+# Tetracaine: From Dermatitis to Acrodermatitis Chronica Atrophicans
 
 ## One-Sentence Summary
 
-Tetracaine is a sodium-channel-blocking local anesthetic, marketed in the US as eye drops, topical gel or cream, and injection.
-The TxGNN model predicts it may be effective for **acrodermatitis chronica atrophicans** (a late-stage, Borrelia-driven skin atrophy), but there are **0 clinical trials** and **0 publications** supporting this. It is a model prediction only.
+Tetracaine is a local ester anesthetic, and the knowledge graph links it to dermatitis as its original indication.
+The TxGNN model predicts it may be effective for **acrodermatitis chronica atrophicans**, but **no clinical trials and no publications** support this prediction.
+The high score appears to be a graph-based artifact, so this prediction should be treated as unsupported.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Local anesthesia (the approved indication text is blank in the US label data) |
+| Original Indication | Dermatitis (from the knowledge graph; no approved indication text is available in the US license records) |
 | Predicted New Indication | Acrodermatitis chronica atrophicans |
 | TxGNN Prediction Score | 99.93% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 14 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 5 (all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Tetracaine is a local anesthetic that blocks sodium channels, and its efficacy for numbing the eye, skin and spinal region is well established.
+Detailed mechanism of action data is not available in the data compiled for this report. Tetracaine is generally known as a local ester anesthetic that blocks voltage-gated sodium channels.
 
-Acrodermatitis chronica atrophicans is a chronic skin atrophy caused by Borrelia infection. No plausible link between sodium-channel blockade and this disease was identified. The very high score (99.93%) most likely reflects patterns in the knowledge graph rather than a real therapeutic relationship.
+Acrodermatitis chronica atrophicans is a late-stage skin infection caused by Borrelia. Tetracaine has no known antimicrobial or anti-inflammatory activity relevant to this disease. The high TxGNN score most likely reflects the shared dermatologic context of the original dermatitis indication in the knowledge graph, not a real mechanistic link.
 
-Route compatibility and similarity to the original indication have not yet been assessed.
+**This prediction is not considered mechanistically plausible.**
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials registered for acrodermatitis chronica atrophicans.
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for acrodermatitis chronica atrophicans.
+
+## Other Predictions Reviewed
+
+Eight other predictions were generated for tetracaine. None has therapeutic evidence, and all are rated **Hold**.
+
+| Rank | Predicted Indication | Score | Evidence Level | Assessment |
+|------|------|------|------|------|
+| 2 | Neonatal dermatomyositis | 99.92% | L5 | No plausible mechanism for an autoimmune disease. Neonatal use also raises systemic absorption and methemoglobinemia concerns. |
+| 3 | Bronchitis | 99.92% | L5 | Tetracaine is used as airway mucosal anesthesia (e.g., bronchoscopy), which is procedural and not treatment of bronchitis. |
+| 4 | Secondary childhood interstitial lung disease (connective tissue disease) | 99.92% | L5 | No mechanistic link. Pediatric use adds safety concerns. |
+| 5 | Acne keloid | 99.91% | L4 | Indirect evidence only (see below). |
+| 6 | Hydroa vacciniforme, familial | 99.91% | L5 | No mechanistic rationale. |
+| 7 | Amyopathic dermatomyositis | 99.90% | L5 | No plausible mechanism. |
+| 8 | Cauda equina syndrome | 99.55% | L4 | Safety signal, not a therapeutic one (see below). |
+| 9 | Irritable bowel syndrome | 99.41% | L5 | Speculative. No established route or formulation for this use. |
+
+**Acne keloid (rank 5).** The only trial is [NCT02372786](https://clinicaltrials.gov/study/NCT02372786), a completed Phase 4 randomized, double-blind study (n=30). It compared 7% lidocaine/7% tetracaine cream with 2.5% lidocaine/2.5% prilocaine cream for pain control during laser treatment of acne keloidalis nuchae and tattoo removal. The related RCT report is [PMID 27377616](https://pubmed.ncbi.nlm.nih.gov/27377616/) (Br J Dermatol, 2017). Both evaluate procedural anesthesia, not treatment of the disease itself.
+
+**Cauda equina syndrome (rank 8).** The literature, made up of case reports, reviews and preclinical studies, describes this condition as an adverse effect of intrathecal tetracaine and other local anesthetics. Examples are [PMID 30625770](https://pubmed.ncbi.nlm.nih.gov/30625770/), [PMID 11685003](https://pubmed.ncbi.nlm.nih.gov/11685003/) and [PMID 8982894](https://pubmed.ncbi.nlm.nih.gov/8982894/). This is a safety flag, not a repurposing opportunity.
 
 ## US Market Information
 
-The approved indication text is blank for all listed authorizations. Five of the 14 are shown below.
+All five licenses are cancelled, and the data contain no approved indication text.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA208135 | Tetracaine Hydrochloride | Solution | Alcon Laboratories, Inc. |
-| ANDA217227 | Tetracaine Hydrochloride | Solution | Somerset Therapeutics, LLC |
-| M017 | BLT 3 | Ointment | Centura Pharmaceuticals Inc |
-| M017 | Tetracaine | Gel | Bellus Medical, LLC |
-| NDA210821 | Tetracaine Hydrochloride | Solution/Drops | Bausch & Lomb Americas Inc. |
+| NDA208135 | Tetracaine Hydrochloride (Alcon Laboratories) | Solution | Not available |
+| ANDA217227 | Tetracaine Hydrochloride (Somerset Therapeutics) | Solution | Not available |
+| M017 | BLT 3 (Centura Pharmaceuticals) | Ointment | Not available |
+| NDA210821 | Tetracaine Hydrochloride (Bausch & Lomb) | Solution/Drops | Not available |
+| Not available | Tetracaine HCL (BPI Labs) | Injection | Not available |
 
 ## Safety Considerations
 
-- **Neurotoxicity with intrathecal use**: The literature retrieved for other predicted indications includes several case reports of cauda equina syndrome after spinal tetracaine. The proposed mechanisms are high local concentration and maldistribution in the subarachnoid space.
+Package insert warnings and contraindications were not available in the data compiled for this report. Please refer to the package insert for safety information.
 
-Please refer to the package insert for all other safety information (warnings, contraindications, interactions).
+- **Knowledge-graph contraindication associations** (not label text) include:
+  - Neurologic: epilepsy, myasthenia gravis, neuromuscular junction disease, butyrylcholinesterase deficiency
+  - Cardiac and respiratory: heart disease, cardiovascular disease, sudden cardiac arrest, heart conduction disease, respiratory failure
+  - Organ disease: kidney, liver and gallbladder disease
+  - Thyroid: hyperthyroidism, Graves disease, thyrotoxicosis
+  - Eye: uveitis, iris disease, ciliary body disease, panuveitis, eye infectious disease, conjunctivitis
+- **Drug interactions**: 32 interactions were identified, and 20 are listed in the data compiled for this report.
+  - **Major**: nitrous acid, liposomal bupivacaine
+  - **Moderate**: other local anesthetics (lidocaine, benzocaine, cocaine, proparacaine, oxybuprocaine, cinchocaine), benzodiazepines (alprazolam, chlordiazepoxide, clobazam, clonazepam, clorazepic acid, diazepam, estazolam), and sulfonamides (sulfasalazine, sulfamethoxazole)
+  - **Minor**: hyaluronidase
+- **Safety signal**: intrathecal tetracaine has been associated with cauda equina syndrome and neurotoxicity in case reports and preclinical studies.
+- Neonatal or pediatric use raises concerns about systemic absorption and methemoglobinemia.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score, with no trials, no literature and no plausible mechanism. Standard treatment of this Borrelia-driven condition is not related to local anesthesia.
-
-Other predicted indications were also reviewed. None supports advancing:
-- **Acne keloid**: The one completed Phase 4 RCT (NCT02372786, n=30) tested lidocaine/tetracaine cream for pain control during laser treatment. That is procedural analgesia, not disease treatment.
-- **Cauda equina syndrome**: All 9 publications describe it as an adverse outcome of local anesthetics, so it is a harm signal, not a therapeutic one.
+The top prediction has no clinical trials and no literature. Tetracaine has no plausible mechanism against a Borrelia skin infection, and the high score likely reflects graph association only. None of the other eight predictions has therapeutic evidence. All US licenses are cancelled.
 
 **To proceed, the following is needed:**
-- The US package insert (warnings and contraindications), which is currently missing and blocks safety screening
-- Mechanism of action data from DrugBank
-- Any experimental or clinical evidence connecting tetracaine to Borrelia-related skin atrophy, without which the candidate should not advance
-- Route compatibility assessment
+- Detailed mechanism of action data
+- Package insert warnings and contraindications
+- Any preclinical or clinical evidence linking tetracaine to the predicted indication
+- Confirmation of a viable route and formulation for the predicted indication
+- Review of whether the knowledge-graph prediction reflects a true therapeutic association
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

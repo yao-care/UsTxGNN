@@ -29,71 +29,92 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tromethamine: From Buffer/Alkalinizing Agent to Allergic Urticaria
+# Tromethamine: From Allergic Conjunctivitis to Allergic Urticaria
 
 ## One-Sentence Summary
 
-Tromethamine is a buffer/alkalinizing agent. It is also widely used as the salt counterion in other drugs, such as fosfomycin tromethamine and ketorolac tromethamine.
-The TxGNN model predicts it may be effective for **allergic urticaria**, but **0 clinical trials** and **1 publication** are linked to this prediction. That publication is an adverse-event case report, not evidence of benefit.
+Tromethamine was originally linked to allergic eye conditions (atopic, papillary and vernal conjunctivitis) in the knowledge graph used by the model, and in the US it is also marketed as an injectable alkalinizing agent and as the salt form of fosfomycin.
+The TxGNN model predicts it may be effective for **Allergic Urticaria**, but there are **0 clinical trials** and only **1 publication** (a case report of an adverse reaction to a different drug), so the evidence is essentially model prediction only.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the US label data provided |
+| Original Indication | Atopic conjunctivitis, papillary conjunctivitis, vernal conjunctivitis (from the knowledge graph; no approved-indication text is available in the US license records) |
 | Predicted New Indication | Allergic urticaria |
 | TxGNN Prediction Score | 99.91% |
-| Evidence Level | L5 (model prediction only; the evidence pack labels it L4, but the only literature is an adverse-event case report) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 12 |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 9 (all cancelled) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, tromethamine is a buffer/alkalinizing agent and a common excipient or counterion. It is marketed alone (THAM injection) and as the salt form of fosfomycin.
+Currently, detailed mechanism of action data is not available. Tromethamine is known as a buffer and alkalinizing agent, and it is also used as a salt-forming partner in other drugs such as ketorolac tromethamine and fosfomycin tromethamine.
 
-No therapeutic mechanism links tromethamine to allergic urticaria. The only literature is a case report of a biphasic anaphylactic reaction to **ketorolac tromethamine**, where tromethamine is only the counterion of an NSAID. That is an adverse-event signal, not a benefit signal.
+The high prediction score is most likely driven by the drug's association with allergic conjunctivitis in the knowledge graph. Allergic conjunctivitis and allergic urticaria are both allergic or atopic conditions, so the model links them. There is no direct evidence that tromethamine itself acts on the allergic pathway.
 
-The very high TxGNN score (0.999) is most likely a graph-proximity artifact. The model may be picking up the many drugs that share the tromethamine name or salt form. The prediction should be treated as a hypothesis with no supporting rationale.
+The only publication retrieved describes a biphasic anaphylactic reaction to ketorolac tromethamine. This is an adverse-event report about the NSAID, with tromethamine only as the salt form. It is not evidence of benefit, and the high score should not be read as a signal of efficacy.
+
+---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for allergic urticaria.
+Currently no related clinical trials registered.
 
-Trials linked to other predicted indications, such as "post-bacterial disorder", are mostly fosfomycin trometamol studies in urinary tract infection. Their antibacterial effect comes from fosfomycin, not from tromethamine. Several others are vaccine or unrelated studies matched by name. None supports the allergic urticaria prediction.
+---
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [16831313](https://pubmed.ncbi.nlm.nih.gov/16831313/) | 2006 | Case report | Int J Immunopathol Pharmacol | Biphasic anaphylactic reaction to injectable ketorolac tromethamine (an NSAID). This is a harm signal and does not show therapeutic benefit. |
+| [16831313](https://pubmed.ncbi.nlm.nih.gov/16831313/) | 2006 | Case report | Int J Immunopathol Pharmacol | Biphasic anaphylactic reaction to ketorolac tromethamine, an adverse event caused by the NSAID, not a treatment benefit |
+
+---
 
 ## US Market Information
 
+All nine US licenses are cancelled. No approved-indication text is available in the data compiled for this report.
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA217608 | Fosfomycin tromethamine (Aurobindo Pharma) | Granule, for solution | Not stated in the data |
-| ANDA214554 | Fosfomycin Tromethamine (A-S Medication Solutions) | Granule, for solution | Not stated in the data |
-| NDA013025 | THAM (Hospira) | Injection, solution | Not stated in the data |
-| ANDA211881 | Fosfomycin Tromethamine (Cipla USA) | Granule, for solution | Not stated in the data |
-| ANDA212548 | Fosfomycin Tromethamine (Xiromed) | Powder | Not stated in the data |
+| NDA013025 | THAM | Injection, solution | Not available |
+| ANDA211558 | Tromethamine | Injection, solution | Not available |
+| ANDA213116 | Tromethamine | Injection, solution | Not available |
+| ANDA217608 | Fosfomycin tromethamine | Granule, for solution | Not available |
+| ANDA214554 | Fosfomycin tromethamine | Granule, for solution | Not available |
+
+Four further licenses (all fosfomycin tromethamine, also cancelled) are not shown.
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Disease-level contraindication signals (knowledge graph, not label text):** The graph lists many conditions, including hypertension, kidney disease and impaired renal function, anuria, liver disease, diabetes and diabetic ketoacidosis, respiratory failure, asthma, peptic and gastric ulcer, inflammatory bowel disease, rheumatoid arthritis, bleeding disorders (hemophilia, blood coagulation disease), stroke and cerebrovascular disorders, myocardial infarction, and anemia or hemoglobinopathy. These likely partly reflect the ketorolac tromethamine salt form (NSAID) and should be verified against actual labels.
+- **Drug Interactions:** 30 interactions were identified, and 20 are listed in the data compiled for this report. Moderate-level interactions include doxycycline, tetracycline, minocycline, acetylsalicylic acid, choline salicylate, ephedrine, pseudoephedrine, amphetamine, dextroamphetamine, benzphetamine and methenamine. Minor-level interactions include sulfonylureas (chlorpropamide, acetohexamide, glipizide, glyburide, tolazamide, tolbutamide), memantine and methotrexate.
+
+Package insert warnings and contraindications were not available, so please refer to the package insert for full safety information.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a very high model score alone, with no trials and no mechanism. The single linked publication describes an allergic-type adverse reaction, which points the opposite way from a therapeutic effect.
+The prediction rests on model output alone (L5). There are no clinical trials, and the single publication is an adverse-event report about a different drug, so it does not support efficacy. All US licenses are cancelled, and the mechanism and package insert safety data are missing.
 
 **To proceed, the following is needed:**
-- US package insert data: approved indications, warnings and contraindications
-- Mechanism of action data, and a plausible biological link between tromethamine and allergic urticaria
-- Evidence that any effect comes from tromethamine itself rather than from a partner active ingredient (for example fosfomycin)
-- Any preclinical or clinical signal for allergic urticaria. Without one, the candidate should not advance beyond the screening stage (S0).
+- Mechanism of action data for tromethamine, and a plausible link to allergic urticaria
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Evidence that tromethamine itself, not a partner drug, has activity in allergic or urticarial models
+- Clarification of which formulation and route would be relevant to the new indication
+
+**Other predictions worth noting:** Among the other predictions, only **otitis externa** has indirect support, at L4 (research question). It is based on in vitro and canine studies of Tris-EDTA, in which tromethamine acts as a buffer or adjuvant alongside EDTA to permeabilize Gram-negative bacteria and potentiate antibiotics. This evidence is veterinary, and human validation would be required.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,36 +29,38 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Atrasentan: From an Unrecorded Original Indication to Amenorrhea
+# Atrasentan: From IgA Nephropathy to Amenorrhea
 
 ## One-Sentence Summary
 
-Atrasentan is marketed in the US as VANRAFIA (a film-coated tablet), but the Evidence Pack does not record its approved indication.
-The TxGNN model predicts it may be effective for **amenorrhea**, but **0 clinical trials** and **0 publications** currently support this direction.
-The prediction rests on the model score alone and is best treated as a hypothesis.
+Atrasentan is a selective endothelin A (ETA) receptor antagonist, first approved in the US in 2025 (Vanrafia®) to reduce proteinuria in adults with primary IgA nephropathy.
+The TxGNN model predicts it may be effective for **amenorrhea**, but there are currently **0 clinical trials** and **0 publications** supporting this direction.
+The prediction rests on a computational score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the Evidence Pack |
+| Original Indication | IgA nephropathy (reduction of proteinuria in adults with primary disease) |
 | Predicted New Indication | Amenorrhea |
 | TxGNN Prediction Score | 99.64% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only |
 | Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
+Note: the license record compiled for this report has no indication text. The original indication above comes from the drug's pharmacology and clinical-use information.
+
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. From general pharmacology (not verified against the supplied data), atrasentan is a selective endothelin A receptor antagonist. Endothelin signaling has been implicated in ovarian and uterine vascular and smooth-muscle physiology, so a mechanistic link is conceivable. This link is speculative.
+Detailed mechanism-of-action data is not available in the data compiled for this report. From general pharmacological knowledge, atrasentan is a selective ETA receptor antagonist. Binding studies indicate that its activity resides in one enantiomer, and it showed little non-specific antagonism across a panel of 29 receptor assays. Endothelin signaling affects vascular tone, and in the kidney it contributes to proteinuria, which explains the IgA nephropathy indication.
 
-Several factors weaken the prediction:
-- **No supporting path:** The only support is the TxGNN score of 0.996, and no score-derived path was provided for review.
-- **Heterogeneous condition:** Amenorrhea is a symptom with many distinct causes (hypothalamic, pituitary, ovarian, uterine, pregnancy). A single drug–disease link is biologically implausible without a defined subtype.
-- **Pregnancy risk:** Endothelin receptor antagonists carry embryo-fetal toxicity warnings and require pregnancy exclusion in people of reproductive potential. This complicates any use in amenorrhea.
+Endothelin signaling is also involved in ovarian and uterine vascular tone, follicular function and endometrial physiology, so a link to menstrual function is biologically conceivable. However, the link is speculative. The only support is the TxGNN knowledge-graph score, which is a computational prediction and not clinical evidence.
 
-A high score with no corroborating evidence is more likely a knowledge-graph artifact than a real signal.
+There are further reasons for caution:
+- Amenorrhea is a symptom of many different causes (hypothalamic, pituitary, ovarian, uterine or pregnancy-related), and no specific pathway connecting ETA antagonism to a treatable cause has been established.
+- ETA blockade is associated with fluid retention, and the wider endothelin antagonist class carries reproductive and teratogenic concerns. The direction of any effect on menstrual function is therefore unclear.
+- Earlier development in cancer (non-small cell lung cancer and prostate cancer) did not show benefit, so the drug's history does not add supporting evidence for this prediction.
 
 ## Clinical Trial Evidence
 
@@ -72,27 +74,30 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA219208 | VANRAFIA (Novartis Pharmaceuticals Corporation) | Tablet, film coated (oral) | Not provided in source data |
+| NDA219208 | VANRAFIA (Novartis Pharmaceuticals Corporation) | Film-coated tablet | Not listed in the compiled record; status: cancelled |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug targets (pharmacology interactions):** Atrasentan acts on the ETA receptor (EDNRA) and the ETB receptor (EDNRB). No drug-drug interaction data is available beyond these target entries.
+- **Class-related concerns (general knowledge, not from the compiled data):** Fluid retention and reproductive or teratogenic risk are known concerns for endothelin receptor antagonists. These are especially relevant when the target population is women of reproductive age.
 
-One caution comes from general knowledge of the endothelin receptor antagonist class, not from the Evidence Pack. These drugs carry embryo-fetal toxicity warnings and require pregnancy exclusion before use. This is directly relevant to a condition where pregnancy is one of the causes.
+Please refer to the package insert for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has only a model score, with no clinical trials, no literature and no mechanistic path. The drug class's embryo-fetal toxicity warnings also make an amenorrhea indication hard to justify without stronger evidence.
+The prediction is supported only by a high model score. There are no clinical trials or publications, the mechanism link to amenorrhea is speculative, and the drug's US license is listed as cancelled. Safety label data is also missing, and the class-level reproductive concerns make the direction of effect uncertain.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (currently a blocking gap for safety screening)
-- Approved indication and mechanism of action data (via DrugBank)
-- The TxGNN score-derived path, to check whether the prediction has any biological basis
-- A literature and trial registry search for endothelin antagonists in amenorrhea or related reproductive conditions
-- A defined amenorrhea subtype and a plan for pregnancy exclusion and embryo-fetal risk management
+- Package insert warnings and contraindications (FDA label), which are required before safety screening
+- Detailed mechanism-of-action data from DrugBank
+- A defined amenorrhea subtype and a plausible endothelin-related pathway for it
+- Preclinical or mechanistic studies linking ETA antagonism to menstrual or ovarian function
+- A literature and trial search for endothelin antagonists in reproductive disorders
+- Route and formulation compatibility assessment (currently oral tablet only)
+- Clarification of the current US marketing status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

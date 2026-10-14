@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Methazolamide
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 907
-evidence_level: L5
+evidence_level: L4
 indication_count: 3
 ---
 
 # Methazolamide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **3** 
+Evidence Level: **L4** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,31 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Methazolamide: From Carbonic Anhydrase Inhibition to Primary Hereditary Glaucoma
+# Methazolamide: From Glaucoma to Primary Hereditary Glaucoma
 
 ## One-Sentence Summary
 
-Methazolamide is an oral carbonic anhydrase inhibitor. The supplied record lists no original indication.
+Methazolamide is a carbonic anhydrase inhibitor originally used to treat open-angle and angle-closure glaucoma.
 The TxGNN model predicts it may be effective for **primary hereditary glaucoma**,
-but currently **0 clinical trials** and **0 publications** support this specific prediction, so it rests on model output alone.
+but currently there are **0 clinical trials** and **0 publications** specific to this indication. The prediction rests on model score and mechanistic similarity alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the supplied record (approved indication text is blank in all licenses) |
+| Original Indication | Open-angle glaucoma, angle-closure glaucoma (from the knowledge graph; no approved indication text is available in the US license records) |
 | Predicted New Indication | Primary hereditary glaucoma |
 | TxGNN Prediction Score | 99.83% |
-| Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (generic ANDA authorizations) |
+| Evidence Level | L4 |
+| US Market Status | Cancelled only (all licenses cancelled) |
+| Number of NDAs | 4 (all are ANDA generic approvals, all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the record. Methazolamide is a carbonic anhydrase inhibitor. Blocking carbonic anhydrase in the ciliary epithelium reduces aqueous humor secretion and lowers intraocular pressure, which is biologically plausible for glaucoma.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, methazolamide is a carbonic anhydrase inhibitor. It lowers intraocular pressure by reducing aqueous humor secretion, and its efficacy in open-angle and angle-closure glaucoma is established.
 
-Because the record lists no original indication, it is unclear whether this is true repurposing. Carbonic anhydrase inhibitors are already widely used in glaucoma, so this may simply reflect the drug's existing use. That should be checked against the US label. The high score (0.998) is a computational prediction, and no trial or publication in the dataset supports it.
+Primary hereditary glaucoma (for example congenital or juvenile forms) shares the same final pathway of elevated intraocular pressure, so the predicted link is mechanistically plausible. However, this is an extension within the same drug class and disease family rather than a true repurposing. The high score (0.998) most likely reflects similarity to the approved glaucoma indications.
+
+Pediatric and congenital glaucoma generally depend on surgery. Systemic carbonic anhydrase inhibitors are mostly a bridging therapy in these cases.
 
 ## Clinical Trial Evidence
 
@@ -61,40 +63,52 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for primary hereditary glaucoma.
+
+For context, the second-ranked prediction (congestive heart failure, score 99.43%) has some literature. It is preclinical or review-level only:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [38450431](https://pubmed.ncbi.nlm.nih.gov/38450431/) | 2024 | Review | Expert Opin Drug Metab Toxicol | Review of drug interactions of carbonic anhydrase inhibitors and activators |
+| [35043173](https://pubmed.ncbi.nlm.nih.gov/35043173/) | 2022 | Preclinical | Diabetes | Methazolamide attenuated diabetic cardiomyopathy in type 1 diabetic mice via β-catenin degradation |
+| [17124262](https://pubmed.ncbi.nlm.nih.gov/17124262/) | 2007 | Preclinical | J Physiol | Carbonic anhydrase inhibition prevented and reversed cardiomyocyte hypertrophy |
+| [16634001](https://pubmed.ncbi.nlm.nih.gov/16634001/) | 2006 | Review | G Ital Nefrol | Diuretic therapy in heart failure, including carbonic anhydrase inhibitors |
+| [14172002](https://pubmed.ncbi.nlm.nih.gov/14172002/) | 1964 | Review | Am Heart J | Historical review of diuretic therapy |
+
+There are no clinical trials for heart failure. The third prediction (acute pulmonary heart disease, 99.28%) has no trials or literature.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA207438 | Methazolamide | Tablet | Bausch & Lomb Incorporated |
-| ANDA207438 | Methazolamide | Tablet | Micro Labs Limited |
-| ANDA040001 | Methazolamide | Tablet | Bryant Ranch Prepack |
-| ANDA217408 | Methazolamide | Tablet | Ajanta Pharma USA Inc. |
-| ANDA040001 | Methazolamide | Tablet | NorthStar Rx LLC |
-
-Only oral tablets are authorized. The approved indication text is blank in the supplied records.
+| ANDA207438 (Bausch & Lomb) | Methazolamide | Tablet | Not available; status: cancelled |
+| ANDA040001 (Bryant Ranch Prepack) | Methazolamide | Tablet | Not available; status: cancelled |
+| ANDA217408 (Ajanta Pharma USA) | Methazolamide | Tablet | Not available; status: cancelled |
+| ANDA215615 (Precision Dose) | Methazolamide | Tablet | Not available; status: cancelled |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindications (knowledge graph associations, not label text)**: liver failure, liver disease, kidney disease, pyoureter, hematologic disease, gallbladder disease, gout, type 1 and type 2 diabetes mellitus, diabetic ketoacidosis, respiratory failure, renal tubular acidosis, and adrenal insufficiency conditions (Addison disease, congenital adrenal hyperplasia, adrenocortical insufficiency, familial glucocorticoid deficiency, and related forms).
+- **Drug Interactions**: 100 interactions were recorded; the first 20 retrieved include:
+  - **Major**: metformin, acetylsalicylic acid (aspirin)
+  - **Moderate**: corticosteroids (hydrocortisone, dexamethasone, betamethasone, triamcinolone, beclomethasone), diabetes drugs (acarbose, albiglutide, alogliptin, canagliflozin, chlorpropamide, dapagliflozin, saxagliptin), amphotericin B (including lipid complex), and laxatives or bowel preparations (bisacodyl, picosulfuric acid, polyethylene glycol)
+  - **Minor**: doxycycline
+
+Package insert warnings and contraindications could not be retrieved. Please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting trials or literature (L5), and the record has no original indication or mechanism data. Glaucoma is already a plausible use for this drug class, so it is unclear whether this counts as repurposing at all.
-
-Two other predictions exist. Congestive heart failure (score 99.43%) reaches L4, supported by class-level reviews and preclinical studies (PMID 17124262, 35043173), but has no human trials, so it is a research question only. Acute pulmonary heart disease (score 99.28%) has no evidence at all (L5).
+The predicted indication is a mechanistic extension of methazolamide's existing glaucoma use. No trials or literature support it specifically, and the evidence level is L4. Hereditary and congenital glaucoma are mainly managed surgically, and all four US licenses are cancelled, which limits practical availability. The heart failure and acute pulmonary heart disease predictions are research questions only, supported by preclinical or no data.
 
 **To proceed, the following is needed:**
-- Retrieve the US package insert, covering approved indications, warnings and contraindications. This is currently a blocking data gap.
-- Fill in the original indication and mechanism of action (DrugBank).
-- Confirm whether glaucoma is already a labeled use. If so, reclassify the prediction as existing use rather than repurposing.
-- For heart failure, check for human clinical data before any further evaluation.
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before application.*
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- Clinical or observational data on carbonic anhydrase inhibitors in hereditary or congenital glaucoma
+- Review of the knowledge-graph contraindications (for example renal, hepatic, diabetic and adrenal conditions) against the target population
+- Confirmation of whether any methazolamide product remains available in the US market
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,104 +29,95 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Bevacizumab: From Anti-VEGF Cancer Therapy to Epiglottis Neoplasm
+# Bevacizumab: From Ovarian, Breast and Other Solid Cancers to Epiglottis Neoplasm
 
 ## One-Sentence Summary
 
-Bevacizumab is a monoclonal antibody that neutralizes VEGF-A and blocks tumor angiogenesis. It is marketed in the US under multiple biologics licenses.
-The TxGNN model predicts it may be effective for **epiglottis neoplasm**, but currently there are **0 clinical trials** and **0 publications** supporting this specific prediction. It is a model-only prediction.
+Bevacizumab is an anti-VEGF monoclonal antibody originally used for solid tumours such as ovarian, peritoneal, breast, colorectal and brain cancers.
+The TxGNN model predicts it may be effective for **epiglottis neoplasm**, but the data compiled for this report contain **0 clinical trials** and **0 publications** for this specific indication, so the prediction rests on the model alone.
 
----
+Note: Ten predicted indications were compiled. The top-ranked one (epiglottis neoplasm) is the focus of the main sections below. Other candidates with more supporting evidence are summarised in the Conclusion.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Not stated in the US license data; the knowledge graph lists peritoneal, ovarian, breast, colorectal and glioblastoma-related cancers |
 | Predicted New Indication | Epiglottis neoplasm |
 | TxGNN Prediction Score | 99.90% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs/BLAs | 16 |
+| US Market Status | Cancelled only (7 authorizations, all listed as cancelled) |
+| Number of NDAs | 7 (all BLAs) |
 | Recommended Decision | Hold |
-
-The approved indication text is empty in the supplied US license records, so the original indication is not listed here.
-
----
 
 ## Why is This Prediction Reasonable?
 
-Bevacizumab binds and neutralizes VEGF-A, which inhibits tumor angiogenesis. The original MOA field in the Evidence Pack is a data gap, so this description comes from the mechanistic note attached to the prediction.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, bevacizumab is a monoclonal antibody that binds VEGF-A and inhibits tumour angiogenesis. Its efficacy has been established in several solid tumours, and mechanistically it may be applicable to other vascularised tumours, including those of the head and neck.
 
-Epiglottis neoplasm is a head and neck tumor. Vascularized head and neck tumors depend on VEGF-driven blood supply, so anti-VEGF therapy is mechanistically plausible.
-
-This is a generic anti-angiogenic argument only. No trial or publication has tested bevacizumab in this disease. The similarity to the original indication has not been assessed.
-
----
+The original indications (ovarian, peritoneal, breast, colorectal and glioblastoma) are mostly vascular, VEGF-dependent solid tumours. Epiglottis neoplasm is a head and neck tumour, so the anti-angiogenic rationale is plausible. However, no trial or publication in the data directly addresses this site. The link is a model prediction plus general mechanistic reasoning, not demonstrated efficacy.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
-
----
+Currently no related clinical trials registered for epiglottis neoplasm.
 
 ## Literature Evidence
 
-Currently no related literature available.
-
----
+Currently no related literature available for epiglottis neoplasm.
 
 ## US Market Information
 
-The Evidence Pack lists 16 licenses in total. The table shows the unique products among the first five records; Avastin appears twice with the same license number.
-
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA761175 | JOBEVNE (Biocon Biologics Inc.) | Injection | Not listed in the data |
-| BLA125085 | Avastin (Genentech, Inc.) | Injection, solution | Not listed in the data |
-| BLA761268 | Vegzelma (CELLTRION USA, Inc.) | Injection, solution | Not listed in the data |
-| BLA761198 | Avzivi (Bio-Thera Solutions, Ltd.) | Injection, solution | Not listed in the data |
+| BLA125085 | Avastin (Genentech) | Injection, solution | Not provided; status cancelled |
+| BLA761028 | MVASI (Amgen) | Injection, solution | Not provided; status cancelled |
+| BLA761099 | Zirabev (Pfizer) | Injection, solution | Not provided; status cancelled |
+| BLA761268 | Vegzelma (Celltrion) | Injection, solution | Not provided; status cancelled |
+| BLA761175 | JOBEVNE (Biocon Biologics) | Injection | Not provided; status cancelled |
 
-All listed products are injectables.
-
----
+Two further biosimilar authorizations (Avzivi, Alymsys) are also listed as cancelled. The regulatory status in the source data should be verified against current FDA records, since originator and biosimilar bevacizumab products are widely marketed.
 
 ## Cytotoxicity
 
-Bevacizumab is an antineoplastic agent. It is a targeted antibody, not a conventional cytotoxic chemotherapy.
-
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (anti-VEGF-A monoclonal antibody) |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
-| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Please refer to the package insert warnings and precautions |
+| Cytotoxicity Classification | Targeted therapy (anti-VEGF monoclonal antibody), not a conventional cytotoxic |
+| Myelosuppression Risk | Low as monotherapy; may rise in combination with chemotherapy |
+| Emetogenicity Classification | Low |
+| Monitoring Items | Blood pressure, urine protein, CBC when combined with chemotherapy, signs of bleeding, wound healing |
 | Handling Protection | Please refer to the package insert warnings and precautions |
-
----
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: 22 interactions were recorded in the DDI database (the 20 entries returned are the basis for the points below). Major-level interactions include:
+  - Deferiprone
+  - Panitumumab
+  - Samarium (153Sm) lexidronam
+  - Sunitinib
+  - Thalidomide
+- Moderate-level interactions include bisphosphonates (alendronic, risedronic, etidronic, pamidronic, tiludronic acid, ibandronate), growth factors (filgrastim, pegfilgrastim, sargramostim, palifermin), idelalisib, romosozumab, and several radiopharmaceuticals (radium Ra 223, strontium-89, sodium phosphate P32).
 
----
+For warnings and contraindications, please refer to the package insert.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a very high model score (99.90%) and a generic anti-angiogenic rationale. There are no trials or publications for epiglottis neoplasm, so the evidence level is L5. The package insert warnings and contraindications are also missing, which the Evidence Pack flags as a blocking gap for safety screening.
+Epiglottis neoplasm has only a model prediction (score 99.90%) and no trials or literature, so the evidence level is L5. Package insert safety data are also missing, which blocks safety screening.
 
-Other candidates in the same pack have more evidence and are better places to start:
-- **Cystic neoplasm** reaches L2, driven by a Phase 3 ovarian cancer trial (NCT00565851). Ovarian cancer is probably already a labeled use, so this may not be true repurposing, and the disease term should be clarified first.
-- **Benign neoplasm of floor of mouth** is provisionally L3, but its only trial is a Phase 1 study in advanced cancers.
+**Other candidates in the ranked list:**
+- **Cystic neoplasm (ovarian-type tumours)** has the strongest evidence (L1): the Phase 3 trial [NCT00565851](https://clinicaltrials.gov/study/NCT00565851) (n=1052, active, not recruiting) and a systematic review of bevacizumab in low-grade serous ovarian cancer ([PMID 37754507](https://pubmed.ncbi.nlm.nih.gov/37754507/)). However, ovarian cancer is already an original indication, so this is not a novel repurposing signal.
+- **Cervical neuroblastoma** has Phase 1/2 data from indirect settings and a case report of durable palliation in olfactory neuroblastoma ([PMID 22826790](https://pubmed.ncbi.nlm.nih.gov/22826790/)). It is a research question only.
+- **Benign neoplasm of the tongue and floor of mouth** have only indirect preclinical or review literature.
+- **Testicular tumour, hypopharynx benign neoplasm, mesenchymoma, jugular foramen schwannoma** have no trials or literature (L5).
+- **Nasal cavity inverting papilloma** is linked only to non-specific head and neck trials, likely annotation overlap.
 
 **To proceed, the following is needed:**
-- Package insert warnings, contraindications and approved indication text (blocking gap)
+- FDA package insert warnings and contraindications (a blocking gap)
 - Mechanism of action data from DrugBank
-- A targeted search of ClinicalTrials.gov and PubMed for bevacizumab in laryngeal, epiglottic and head and neck tumors
-- An assessment of similarity to the original indication and of route compatibility
-- Clarification of whether this benign or malignant disease entity fits the intended repurposing question
+- Verification of current US market status, since all 7 licenses are listed as cancelled
+- Disease-specific preclinical or clinical evidence for epiglottis neoplasm, or a focused review of existing head and neck anti-VEGF data
+- A decision on whether to prioritise a candidate with stronger direct evidence, such as a non-ovarian indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Ticagrelor
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1227
-evidence_level: L3
+evidence_level: L5
 indication_count: 10
 ---
 
 # Ticagrelor
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,96 +29,93 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Ticagrelor: From Antiplatelet Therapy to Intracranial Arteriosclerosis
+# Ticagrelor: From Acute Coronary Syndrome to Intracranial Arteriosclerosis
 
 ## One-Sentence Summary
 
-Ticagrelor is an oral P2Y12 platelet inhibitor, marketed in the US as BRILINTA and several generics. The TxGNN model predicts it may be useful for **intracranial arteriosclerosis**. The supporting evidence is mostly indirect: **10 related trials** and **3 publications**, none of which is a completed ticagrelor-specific randomized trial in this disease.
-
----
+Ticagrelor is an oral antiplatelet drug (a reversible P2Y12 inhibitor), originally used for acute coronary syndrome and peripheral arterial disease.
+The TxGNN model predicts it may be effective for **intracranial arteriosclerosis**,
+with **2 clinical trials** (one Phase 3) and **2 publications** currently supporting this direction. Neither trial has reported results yet, so the evidence is by design rather than demonstrated efficacy.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Acute coronary syndrome (other listed uses: peripheral vascular disease, intermittent claudication, peripheral arterial disease) |
 | Predicted New Indication | Intracranial arteriosclerosis |
 | TxGNN Prediction Score | 99.97% |
-| Evidence Level | L3 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
-| Recommended Decision | Hold |
-
----
+| Evidence Level | L1 (by trial design; the Phase 3 trial has no results yet) |
+| US Market Status | Cancelled only (all licenses listed as cancelled) |
+| Number of NDAs | 13 (1 NDA and 12 ANDAs, all cancelled) |
+| Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
 
-A formal mechanism-of-action record is not currently available. Ticagrelor is a P2Y12 receptor antagonist, so it reduces platelet-driven thrombosis on atherosclerotic plaque. Symptomatic intracranial atherosclerotic stenosis (ICAS) carries a high risk of recurrent stroke, and platelet activation on the plaque is a plausible driver.
+Detailed mechanism-of-action data was not available in the data compiled for this report. Based on known pharmacology, ticagrelor is a reversible P2Y12 receptor antagonist that inhibits platelet aggregation. Its efficacy in acute coronary syndrome, a platelet-driven thrombotic condition, is established.
 
-Ticagrelor is not a prodrug, so it avoids the CYP2C19 loss-of-function problem that weakens clopidogrel. This matters in East Asian populations, where ICAS burden and CYP2C19 variants are both common. Ticagrelor also inhibits adenosine reuptake (ENT1), which may add vasoprotective effects.
+Intracranial atherosclerotic stenosis causes stroke through platelet-rich thrombus formation and artery-to-artery embolism, so antiplatelet therapy is mechanistically plausible. Ticagrelor is already used in dual antiplatelet regimens for neurointerventional procedures such as intracranial stenting.
 
-There is no confirmed ICAS-specific ticagrelor RCT in the supplied records. Several ICAS-related Phase 3 and Phase 4 trials exist, but the record does not show what role ticagrelor plays in them. The supporting data come from coronary DAPT trials, stroke/TIA trials, and observational neurointerventional experience.
-
----
+The evidence is still pending. The Phase 3 CAPTIVA trial is active but not recruiting, and no results have been confirmed. The lower-dose regimen paper is a cohort report, not a pivotal efficacy study.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT05047172](https://clinicaltrials.gov/study/NCT05047172) | Phase 3 | Active, not recruiting | 1683 | CAPTIVA: rivaroxaban, ticagrelor, or both vs clopidogrel in intracranial atherostenosis. Primary outcome is 1-year ischemic stroke, intracerebral hemorrhage, or vascular death. Ticagrelor's arm should be confirmed against the protocol. |
-| [NCT06714526](https://clinicaltrials.gov/study/NCT06714526) | N/A | Recruiting | 100 | Genotype-guided oral P2Y12 inhibitor selection vs conventional clopidogrel in symptomatic ICAD. Small pilot. |
-| [NCT07164859](https://clinicaltrials.gov/study/NCT07164859) | Phase 3 | Not yet recruiting | 1700 | SOLOPCI: very short DAPT followed by P2Y12 inhibitor monotherapy in older PCI patients. Coronary population, no results yet. |
-| [NCT04948749](https://clinicaltrials.gov/study/NCT04948749) | N/A | Recruiting | 792 | DREAM-PRIDE: drug-eluting stent plus aggressive medical treatment vs medical treatment alone in symptomatic ICAD. Ticagrelor is likely background therapy. |
-| [NCT06058130](https://clinicaltrials.gov/study/NCT06058130) | N/A | Unknown | 2171 | Anticoagulation with or without antiplatelet therapy in acute ischemic stroke with atrial fibrillation and artery stenosis. Ticagrelor's role is unconfirmed. |
-| [NCT01813435](https://clinicaltrials.gov/study/NCT01813435) | Phase 3 | Completed | 15991 | GLOBAL LEADERS: 1 month of ticagrelor plus aspirin, then ticagrelor alone, vs standard DAPT after coronary stenting. Indirect safety and efficacy context. |
-| [NCT01732822](https://clinicaltrials.gov/study/NCT01732822) | Phase 3 | Completed | 13885 | EUCLID: ticagrelor vs clopidogrel in peripheral artery disease. Supports the cardiovascular safety profile only. |
-| [NCT02605447](https://clinicaltrials.gov/study/NCT02605447) | Phase 4 | Completed | 2009 | Single-arm safety study of 3-month DAPT in high-bleeding-risk PCI patients. Indirect safety data. |
-| [NCT03620760](https://clinicaltrials.gov/study/NCT03620760) | Phase 4 | Unknown | 2036 | Low-dose vs standard-dose ticagrelor in unstable angina after stenting. Relevance to ICAS cannot be confirmed. |
-| [NCT06857045](https://clinicaltrials.gov/study/NCT06857045) | N/A | Withdrawn | 0 | 3-month vs 6-month DAPT after an intracranial sirolimus-eluting stent. No participants enrolled, so no evidentiary value. |
-
----
+| [NCT05047172](https://clinicaltrials.gov/study/NCT05047172) | Phase 3 | Active, not recruiting | 1683 | CAPTIVA: tests whether rivaroxaban, ticagrelor, or both beat clopidogrel for 1-year ischemic stroke, intracerebral hemorrhage, or vascular death in intracranial atherostenosis. Ticagrelor is not the sole experimental arm. |
+| [NCT06714526](https://clinicaltrials.gov/study/NCT06714526) | N/A | Recruiting | 100 | Pilot study of genotype-guided P2Y12 inhibitor selection (including ticagrelor) vs clopidogrel in symptomatic intracranial atherosclerotic disease. Low-powered. |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [39862061](https://pubmed.ncbi.nlm.nih.gov/39862061/) | 2025 | Trial design paper | Int J Stroke | CAPTIVA design. Standard ICAS therapy (clopidogrel plus aspirin for 90 days, then aspirin) still leaves a high recurrent stroke risk at 12 months. The trial tests other antithrombotic combinations. |
-| [39658130](https://pubmed.ncbi.nlm.nih.gov/39658130/) | 2025 | Cohort | J Neurointerv Surg | Ticagrelor 60 mg twice daily plus aspirin 81 mg vs the aspirin and clopidogrel regimen for intracranial stenting. |
-| [38252758](https://pubmed.ncbi.nlm.nih.gov/38252758/) | 2024 | Review | Stroke | Focused update on intracranial atherosclerosis, with highlights and knowledge gaps. |
-
----
+| [39658130](https://pubmed.ncbi.nlm.nih.gov/39658130/) | 2025 | Cohort | Journal of NeuroInterventional Surgery | Ticagrelor 60 mg twice daily plus aspirin 81 mg compared with standard aspirin and clopidogrel for intracranial stenting |
+| [39862061](https://pubmed.ncbi.nlm.nih.gov/39862061/) | 2025 | Review (trial design) | International Journal of Stroke | Design and early progress of CAPTIVA; standard treatment for symptomatic intracranial stenosis carries a high recurrent stroke risk up to 12 months |
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+All 13 licenses are listed as cancelled, and none has approved-indication text on file.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA022433 | BRILINTA | Tablet | AstraZeneca Pharmaceuticals LP |
-| ANDA208597 | Ticagrelor | Tablet, film coated | Mylan Pharmaceuticals Inc. |
-| ANDA217679 | Ticagrelor | Tablet, film coated | Lifestar Pharma LLC |
-| ANDA208596 | Ticagrelor | Tablet | Novadoz Pharmaceuticals LLC |
-| ANDA208390 | Ticagrelor | Tablet, film coated | Teva Pharmaceuticals, Inc. |
+| NDA022433 | BRILINTA (AstraZeneca) | Tablet | Not listed |
+| ANDA208597 | Ticagrelor (Mylan) | Tablet, film coated | Not listed |
+| ANDA217679 | Ticagrelor (Lifestar Pharma) | Tablet, film coated | Not listed |
+| ANDA208596 | Ticagrelor (Novadoz) | Tablet | Not listed |
+| ANDA208390 | Ticagrelor (Teva) | Tablet, film coated | Not listed |
 
-There are 20 US authorizations in total (NDA and ANDA); the five above are shown. All forms are oral.
-
----
+Eight further ANDAs are on file, all cancelled.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug-interaction records were found in the supplied data.
+- **Contraindication-related conditions** (from knowledge-graph drug-disease links, not label text): liver failure, liver disease, gallbladder disease, intracranial hemorrhage. Intracranial hemorrhage is especially relevant to an intracranial vascular indication.
+- **Drug Interactions**: 100 interactions were found. Examples from the first 20 reviewed:
+  - **Major**: clarithromycin
+  - **Moderate**: acetylsalicylic acid (aspirin), simvastatin, morphine, dexamethasone, budesonide, aprepitant, miconazole, saxagliptin, among others
+  - **Minor**: naloxegol, prucalopride
 
----
+Please refer to the package insert for key warnings and contraindications.
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Proceed with Guardrails**
 
 **Rationale:**
-The mechanism is plausible, but the evidence is indirect and none of it is ICAS-specific ticagrelor efficacy data. The best on-target trial, CAPTIVA, is still ongoing. Package insert safety data are also missing, so this stays a research question rather than a candidate for advancement.
+The mechanism is plausible, and a large Phase 3 trial (CAPTIVA, n=1683) directly addresses this indication. No results are available, and ticagrelor is not the only experimental arm, so the support is by design rather than proven efficacy. Bleeding risk, particularly intracranial hemorrhage, is the central safety concern.
 
 **To proceed, the following is needed:**
-- The package insert warnings and contraindications (a blocking gap for safety screening)
-- Confirmation of ticagrelor's role in CAPTIVA (NCT05047172) and its results when available
-- A DrugBank mechanism-of-action record
-- A bleeding-risk assessment for intracranial disease populations
+- CAPTIVA results (expected completion January 2027) and the ticagrelor-specific arm outcomes
+- FDA package insert warnings and contraindications (currently unavailable and blocking for safety screening)
+- Detailed mechanism-of-action data
+- Clarification of US regulatory status, since all 13 licenses are listed as cancelled
+- A bleeding-risk management plan, including patient selection and treatment duration
+
+## Other Predicted Indications (Brief)
+
+| Rank | Predicted Indication | Score | Evidence Level | Decision | Note |
+|------|------|------|------|------|------|
+| 4 | Ischemic disease | 99.64% | L1 | Proceed with Guardrails | Largely overlaps the existing acute coronary syndrome use (e.g., TWILIGHT, PEGASUS, and 2021 stroke/TIA RCTs), so it confirms an existing use rather than novel repurposing |
+| 8 | Vascular ectasia | 99.47% | L4 | Research Question | Only an indirect review on coronary ectasia; bleeding concern |
+| 2, 3, 5, 6, 7, 9, 10 | Monckeberg arteriosclerosis, priapism, May-Thurner syndrome, livedo reticularis, mesenteric vascular occlusion, angiodysplasia, fibrocartilaginous embolism | 99.27%–99.94% | L5 | Hold | Little or no supporting evidence. Angiodysplasia is a bleeding source and likely a false-positive association. Priapism raises a possible adverse-event concern. |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,32 +29,37 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Linaclotide: From Its Approved Use to Cauda Equina Syndrome
+# Linaclotide: From Irritable Bowel Syndrome to Cauda Equina Syndrome
 
 ## One-Sentence Summary
 
-Linaclotide is an orally administered, gut-acting drug marketed in the US as Linzess. The TxGNN model predicts it may be effective for **cauda equina syndrome**, but this is a model prediction only: **0 clinical trials** and **0 publications** support it so far.
+Linaclotide is a drug originally associated with irritable bowel syndrome, and its marketed form (Linzess) is an oral capsule.
+The TxGNN model predicts it may be effective for **Cauda Equina Syndrome**,
+but there are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Irritable bowel syndrome (other knowledge-graph indications: Clostridium difficile colitis, neurocirculatory asthenia) |
 | Predicted New Indication | Cauda equina syndrome |
 | TxGNN Prediction Score | 99.96% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 3 (all under NDA202811) |
+| US Market Status | Cancelled only |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack, and no original indication text was recorded. From general pharmacology, linaclotide is a locally acting guanylate cyclase-C agonist. It raises cGMP in the intestine and speeds transit, and very little of it is absorbed into the body.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, linaclotide is a guanylate cyclase-C (GC-C) agonist that acts locally on the intestinal epithelium with minimal systemic absorption. Activating GC-C raises intracellular cGMP, which increases intestinal fluid secretion, accelerates transit, and may reduce visceral pain signalling. This explains its use in bowel disorders such as irritable bowel syndrome.
 
-The only plausible link to cauda equina syndrome is indirect. The syndrome can cause neurogenic bowel dysfunction, including constipation, and linaclotide could relieve that symptom. It would not treat the underlying nerve compression or nerve injury. The very high TxGNN score is therefore best read as a graph-based signal, not as evidence of efficacy.
+Cauda equina syndrome is a compressive neurological emergency, typically caused by disc herniation, and it requires surgical decompression. No direct mechanistic link to linaclotide has been established. The only plausible connection is indirect: symptomatic relief of neurogenic bowel dysfunction (constipation) that can accompany the condition. That would not treat the underlying disease.
 
-Two other predictions ranked lower, and both look even weaker:
-- **Obsolete neurogenic bladder (99.89%)**: No direct mechanistic link is evident. The disease term is marked obsolete in the ontology, so the prediction may be an artifact shared with the cauda equina prediction.
-- **Insomnia (99.51%)**: No plausible mechanistic link is identified. Linaclotide has negligible systemic exposure and no known central sleep-regulating activity, so this is likely a false positive.
+The very high TxGNN score (99.96%) is a graph-based computational prediction. With no supporting clinical or literature evidence, it should not be read as evidence of efficacy.
+
+Two other predictions were also generated, both at evidence level L5 with a recommendation of Hold:
+- **Obsolete neurogenic bladder (score 99.89%)**: No direct mechanism is evident. Any link would be indirect, through co-existing neurogenic bowel dysfunction. The disease term is also flagged as obsolete in the ontology, which lowers the reliability of this prediction.
+- **Insomnia (score 99.51%)**: Linaclotide has negligible systemic exposure and no known action on sleep pathways. Any benefit would be a secondary effect of relieving abdominal symptoms.
 
 ## Clinical Trial Evidence
 
@@ -66,31 +71,35 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA202811 | Linzess | Capsule, gelatin coated (oral) | Allergan, Inc. |
-
-The pack lists three license entries with the same number, product, and form, shown here once. No approved indication text was provided.
+| NDA202811 (cancelled) | Linzess (Allergan, Inc.) | Capsule, gelatin coated (oral) | Not listed |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+**Drug Interactions:** The interaction screen identified 56 interacting drugs. Most are minor. The moderate-level interactions among those listed are:
+- Levonorgestrel
+- Ethinylestradiol
+- Norethisterone
+- Levothyroxine
+- Thyroid, porcine
+
+Minor interactions include proton pump inhibitors (rabeprazole, esomeprazole, dexlansoprazole), NSAIDs (ibuprofen, diclofenac, ketorolac, oxaprozin, bromfenac), and other laxatives (bisacodyl, docusate, castor oil, polyethylene glycol).
+
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a very high model score but no trials, no publications, and only an indirect, symptom-level mechanistic link. Linaclotide is not expected to act on the nervous system, so the evidence does not yet justify moving forward (Evidence Level L5, stage S0).
+The prediction has no clinical trials or publications behind it, and no credible mechanistic link to cauda equina syndrome. The marketed US product is also listed as cancelled. A high model score alone is not enough to justify moving forward.
 
 **To proceed, the following is needed:**
-- The package insert's warnings and contraindications, which are required before any safety screening
-- Mechanism of action data and the original approved indications from DrugBank and the US label
-- A literature and trial search for linaclotide in neurogenic bowel dysfunction related to cauda equina syndrome or spinal cord conditions
-- A check on whether the obsolete neurogenic bladder term is an ontology artifact
-- Route compatibility and similarity-to-original-indication analysis, both still pending
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Package insert warnings and contraindications, which are required before any safety screening
+- Detailed mechanism of action data
+- Preclinical or clinical evidence supporting any benefit in cauda equina syndrome, or in neurogenic bowel dysfunction as a symptom-level target
+- Clarification of the current US regulatory status of linaclotide, since the listed NDA is cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

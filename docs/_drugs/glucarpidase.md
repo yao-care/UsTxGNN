@@ -33,92 +33,64 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Glucarpidase is a recombinant enzyme that breaks down methotrexate in plasma. It is marketed in the US as Voraxaze for rescue from methotrexate toxicity.
-The TxGNN model predicts it may be effective for **diabetic cataract**, along with nine other cataract and retinopathy variants.
-Currently there are **0 clinical trials** and **0 publications** supporting any of these predictions, so this is a model-only signal.
-
----
+Glucarpidase is a recombinant enzyme (marketed as Voraxaze) that breaks down methotrexate in the blood. The TxGNN model predicts it may be useful for **diabetic cataract** and several other eye conditions. There are currently **0 clinical trials** and **0 publications** supporting this prediction, and the mechanistic review found no biological rationale for it.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Methotrexate toxicity rescue (taken from the pack's rationale text; the license record has no indication text) |
+| Original Indication | Not listed in the data compiled for this report (the drug's established use is reducing toxic plasma methotrexate levels in patients with delayed methotrexate clearance due to impaired kidney function) |
 | Predicted New Indication | Diabetic cataract |
 | TxGNN Prediction Score | 99.85% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
+| US Market Status | Cancelled only |
 | Number of NDAs | 1 (BLA125327) |
 | Recommended Decision | Hold |
 
----
-
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the record. Based on known information, glucarpidase is a recombinant bacterial carboxypeptidase G2. It hydrolyzes methotrexate into DAMPA and glutamate in plasma.
+Currently, detailed mechanism of action data is not available in the compiled data. Based on general knowledge, glucarpidase is a recombinant bacterial carboxypeptidase G2. It hydrolyzes extracellular methotrexate and other folates into inactive metabolites, which is why it is used to clear toxic methotrexate levels.
 
-The review did not find a plausible link between this action and diabetic cataract. Diabetic cataract involves polyol-pathway and oxidative damage to the lens. Glucarpidase acts extracellularly on methotrexate and other folate-like substrates and has no known role in lens biology. At about 83 kDa, it is also unlikely to reach the lens.
+The review found no plausible link between this mechanism and diabetic cataract. Diabetic cataract involves the polyol pathway, aldose reductase activity, and oxidative stress in the lens, and glucarpidase acts on none of these. As a large protein given intravenously, it is also unlikely to reach the avascular lens in meaningful amounts.
 
-The ten predictions look like a systematic graph artifact, not independent signals:
-
-- All ten are cataract or retinopathy variants.
-- They sit in a narrow score band of 0.9982–0.9985.
-- Seven cataract subtypes share nearly identical scores. Three of them (tetanic, mature and immature cataract) have exactly the same score of 0.99833.
-
-| Rank | Predicted Indication | Score |
-|------|------|------|
-| 1 | Diabetic cataract | 99.85% |
-| 2 | Diabetic retinopathy | 99.84% |
-| 3–7 | Tetanic, mature, immature, craniostenosis, and type 2 diabetes-associated cataract | 99.83% |
-| 8–9 | Cortical cataract, nuclear senile cataract | 99.83% |
-| 10 | Senile cataract | 99.82% |
-
-Diabetic retinopathy has no supporting VEGF or retinal vascular link, and an intravitreal route has no supporting data.
-
----
+The prediction should be treated with caution:
+- The score (0.9985) appears to be a graph-based artifact rather than a drug-specific signal.
+- All ten predicted indications are eye diseases (diabetic cataract, diabetic retinopathy, tetanic, mature, immature, craniostenosis, type 2 diabetes-associated, cortical, nuclear senile, and senile cataract).
+- Their scores cluster at nearly identical values (0.998 to 0.9985). Several cataract subtypes share exactly the same score, which suggests a generic disease-class association rather than a specific mechanistic one.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
-
----
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA125327 | Voraxaze (BTG International Inc.) | Injection, powder, for solution | Not stated in the license record |
-
-The only registered route is injectable.
-
----
+| BLA125327 | Voraxaze (BTG International Inc.) | Injection, powder, for solution | Not listed in the compiled data (status: cancelled) |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: Eight moderate-level interactions were identified, all involving folate-pathway drugs: proguanil, trimethoprim, levoleucovorin, pemetrexed, pralatrexate, pyrimethamine, leucovorin, and trimetrexate.
 
----
+Please refer to the package insert for warnings and contraindications, as this information was not available in the compiled data.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The 99.85% score is not backed by any trial, publication or plausible mechanism, and it is most likely a knowledge-graph artifact. A large injectable enzyme also has no route to the lens or retina.
+The prediction rests only on a computational score, with no clinical trials, no publications, and no plausible mechanism. The drug is also an intravenously given enzyme unlikely to reach the lens or retina, and its only US license is cancelled. The repeated near-identical scores across eye diseases point to a model artifact.
 
 **To proceed, the following is needed:**
-- The US package insert (warnings, contraindications and approved indication text), which is missing and blocks safety screening
-- Mechanism of action data from DrugBank, to test any biological link to lens or retinal disease
-- Any preclinical or clinical evidence for the predicted indications. Without it, there is no basis for advancing beyond a model-only hypothesis.
-- A route-compatibility assessment for ocular delivery, which is still pending
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Complete mechanism of action data and the FDA package insert warnings and contraindications
+- A credible mechanistic hypothesis connecting folate or methotrexate hydrolysis to lens or retinal disease
+- Preclinical evidence (for example, lens or retinal models) showing relevant activity
+- Assessment of whether ocular delivery is feasible for a large enzyme protein
+- Independent confirmation that the prediction is not a graph-embedding artifact, for example by checking whether other drugs show the same cluster of eye-disease scores
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

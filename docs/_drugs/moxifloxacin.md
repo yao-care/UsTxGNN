@@ -29,29 +29,30 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Moxifloxacin: From Antibacterial Use to Polyclonal Hyperviscosity Syndrome
+# Moxifloxacin: From Bacterial Infections to Polyclonal Hyperviscosity Syndrome
 
 ## One-Sentence Summary
 
-Moxifloxacin is a fluoroquinolone antibiotic that is marketed in the United States in oral and injectable forms.
-The TxGNN model predicts it may be effective for **polyclonal hyperviscosity syndrome**, but there are currently **0 clinical trials** and **0 publications** supporting this prediction. It is a model output only.
+Moxifloxacin is a fluoroquinolone antibiotic originally used for bacterial infections such as pneumonia, conjunctivitis, peritonitis and plague.
+The TxGNN model predicts it may be effective for **polyclonal hyperviscosity syndrome**, but there are currently **0 clinical trials** and **0 publications** supporting this prediction, so it rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Bacterial infections (pneumonia, conjunctivitis, peritonitis, plague and others) |
 | Predicted New Indication | Polyclonal hyperviscosity syndrome |
 | TxGNN Prediction Score | 99.98% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 10 (all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the source record. Moxifloxacin is a fluoroquinolone that inhibits bacterial DNA gyrase and topoisomerase IV. Its established use is against bacterial infections.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Moxifloxacin belongs to the fluoroquinolone class, which is generally understood to act by inhibiting bacterial DNA gyrase and topoisomerase IV. Its efficacy in bacterial infections is established.
 
-Polyclonal hyperviscosity syndrome is a protein-driven rheological problem, not a bacterial infection. No plausible mechanistic link between the two was identified. The very high TxGNN score (99.98%) reflects a graph-based association only. No clinical or literature evidence supports it, so the prediction should be treated as a hypothesis with no mechanistic backing.
+On this basis, **no plausible mechanistic link** to polyclonal hyperviscosity syndrome can be identified. The condition involves raised serum viscosity from excess polyclonal immunoglobulins. An antibacterial has no known effect on serum viscosity or immunoglobulin levels. The very high TxGNN score is a computational association only. It should not be read as evidence of benefit, and no trial or publication backs it.
 
 ## Clinical Trial Evidence
 
@@ -63,31 +64,37 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|------|
-| ANDA202632 | Moxifloxacin Hydrochloride | Tablet, film coated | Bryant Ranch Prepack |
-| ANDA212616 | Moxifloxacin Hydrochloride | Solution | Upsher-Smith Laboratories, LLC |
-| ANDA202632 | Moxifloxacin Hydrochloride | Tablet, film coated | A-S Medication Solutions |
-| NDA205572 | Moxifloxacin | Injection, solution | Hp Halden Pharma AS |
+All 10 US authorizations are cancelled. The five main ones are listed below. Approved indication text was not available for these entries.
 
-Routes of administration on the market: oral, injectable, and other (solution/drops).
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA202632 | Moxifloxacin Hydrochloride (Bryant Ranch Prepack) | Tablet, film coated | Not specified |
+| ANDA212616 | Moxifloxacin Hydrochloride (Upsher-Smith) | Solution | Not specified |
+| NDA205572 | Moxifloxacin (Hp Halden Pharma AS) | Injection, solution | Not specified |
+| NDA021598 | Moxifloxacin Ophthalmic Solution (Sandoz) | Solution/drops | Not specified |
+| ANDA208682 | Moxifloxacin Hydrochloride Tablets, 400 mg (Novadoz) | Tablet, film coated | Not specified |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindication-related conditions (from the knowledge graph, not package insert text)**: long QT syndrome (including familial), torsades de pointes, sudden cardiac arrest, heart conduction disease, myocardial ischemia, coronary artery disease, epilepsy, cirrhosis of the liver, drug-induced liver injury, potassium deficiency, tendinitis, peripheral neuropathy and other peripheral nervous system disease, myasthenia gravis and other neuromuscular junction disease, *Clostridium difficile* colitis, and perinatal necrotizing enterocolitis.
+- **Drug Interactions**: 100 interactions were identified, and the first 20 retrieved are summarized here.
+  - **Major**: hydrocortisone, dexamethasone, betamethasone, triamcinolone (corticosteroids), bupropion, chlorpropamide.
+  - **Moderate**: antidiabetic agents (acarbose, alogliptin, albiglutide, canagliflozin, metformin, pioglitazone), famotidine, loperamide, aspirin, balsalazide, bisacodyl, and calcium and potassium salts (calcium phosphate, calcium acetate, potassium citrate).
+- Please refer to the package insert for the full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a graph-based score. It has no clinical trials, no literature, and no plausible mechanism linking an antibacterial to a hyperviscosity condition. The evidence level is L5.
+The prediction has no supporting trials or literature and no plausible mechanism (L5). The drug has no currently valid US license, and its safety profile (QT prolongation, neuropathy, tendon and liver risks) is a concern. In this case, repurposing is not justified without new evidence.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data from DrugBank, and a testable mechanistic hypothesis for hyperviscosity
-- Any clinical or preclinical study on moxifloxacin in this condition; none was retrieved
-- The same evidence pack ranks bubonic plague as the only prediction with a research-question status (S1, L4, preclinical evidence only). It would be a more productive candidate for follow-up, and its label status should be checked first.
+- Preclinical or mechanistic data showing any effect on serum viscosity or immunoglobulin-related pathology
+- Mechanism of action data and package insert warnings and contraindications to complete the safety screening
+- Confirmation of current US availability, since all licenses are cancelled
+
+**Note:** Among the other predictions for this drug, **bubonic plague** (TxGNN score 99.41%) has the most coherent rationale. It has preclinical support (animal and in vitro studies against *Yersinia pestis*) and is an extension of the drug's existing plague indications rather than true repurposing. It is a more sensible direction for follow-up than the top-ranked prediction, though no human trial data exist for it.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

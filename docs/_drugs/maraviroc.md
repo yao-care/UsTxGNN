@@ -33,27 +33,29 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Maraviroc is a CCR5 antagonist. The Evidence Pack lists no approved-indication text, but the drug is known as an HIV antiviral.
-The TxGNN model predicts it may be effective for **multiple endocrine neoplasia (MEN)**,
-but **0 clinical trials** and **0 publications** currently support this direction, so it is a model prediction only.
+Maraviroc is a CCR5 antagonist that was developed as an antiretroviral for HIV-1 infection. The TxGNN model predicts it may be effective for **multiple endocrine neoplasia**, with a very high score but **no clinical trials and no supporting publications** at present. The prediction is a computational signal only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the Evidence Pack (general knowledge: CCR5-tropic HIV-1 infection) |
+| Original Indication | Not listed in the data compiled for this report (the drug is known as an HIV-1 CCR5 antagonist) |
 | Predicted New Indication | Multiple endocrine neoplasia |
 | TxGNN Prediction Score | 99.82% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 17 |
+| US Market Status | Cancelled only (all listed authorizations are cancelled) |
+| Number of NDAs | 4 authorizations (1 NDA, 3 ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Maraviroc is a CCR5 antagonist. Currently, detailed mechanism of action data is not available in the Evidence Pack, so this description comes from the candidate's rationale notes and general knowledge.
+Maraviroc blocks the chemokine receptor CCR5. Detailed mechanism of action data is not available in the data compiled for this report, so the statement above reflects general knowledge of the drug class. Its efficacy in its original indication rests on this CCR5 blockade, which stops HIV from entering immune cells.
 
-The provided data supports **no mechanistic link** between CCR5 and MEN syndromes (MEN1 or RET-driven disease). MEN syndromes are genetic tumour-predisposition disorders and are not obviously driven by chemokine signalling. The high TxGNN score (0.998) reflects a pattern found by the knowledge-graph model, not an established biological rationale. The score should not be read as evidence of efficacy.
+For multiple endocrine neoplasia (MEN), the main disease drivers are genes such as MEN1 and RET. The data compiled for this report establishes no direct link between CCR5 signalling and these pathways. The high TxGNN score therefore reflects a computational pattern in the knowledge graph rather than a demonstrated biological rationale, and the relationship between the original and new indications remains unassessed.
+
+Other predictions for this drug have somewhat more plausible rationales, though none has clinical support:
+- **HER2-positive breast carcinoma** (score 99.22%, evidence level L4): a 2020 preclinical study (PMID 32404410) reported that autocrine CCL5 drives trastuzumab resistance through ERK pathway activation. Because CCL5 signals through CCR5, blocking CCR5 with maraviroc is a biologically plausible way to overcome resistance. This is the most mechanistically grounded candidate, but it is indirect and preclinical.
+- **Primary cutaneous T-cell lymphoma** and **acne**: chemokine-mediated cell trafficking to the skin gives a speculative hypothesis, with no maraviroc-specific data.
 
 ## Clinical Trial Evidence
 
@@ -61,40 +63,43 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for multiple endocrine neoplasia.
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA022128 | SELZENTRY (A-S Medication Solutions) | Film-coated tablet | Not listed |
-| ANDA217880 | Maraviroc (Zydus Pharmaceuticals USA) | Film-coated tablet | Not listed |
-| ANDA217114 | Maraviroc (i3 Pharmaceuticals) | Film-coated tablet | Not listed |
-| ANDA217114 | Maraviroc (A2A Integrated Pharmaceuticals) | Film-coated tablet | Not listed |
-| ANDA203347 | Maraviroc (Hetero Labs) | Film-coated tablet | Not listed |
+| NDA022128 | SELZENTRY (A-S Medication Solutions) | Film-coated tablet | Not listed (cancelled) |
+| ANDA217880 | Maraviroc (Zydus Pharmaceuticals USA Inc.) | Film-coated tablet | Not listed (cancelled) |
+| ANDA217114 | Maraviroc (i3 Pharmaceuticals, LLC) | Film-coated tablet | Not listed (cancelled) |
+| ANDA203347 | Maraviroc (Hetero Labs Limited) | Film-coated tablet | Not listed (cancelled) |
 
-The only listed route is oral.
+All four authorizations are marked as cancelled, and none is currently valid.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No warnings, contraindications, or drug-interaction records were available in the Evidence Pack.
+- **Disease contraindication signals (knowledge graph, not label text)**: The TxGNN knowledge graph links maraviroc with contraindications in several conditions. These include:
+  - Cardiovascular: coronary artery disease, myocardial infarction, myocardial ischemia, coronary thrombosis, orthostatic hypotension, postural orthostatic tachycardia syndrome, multiple system atrophy
+  - Liver: liver disease, drug-induced liver injury, chronic hepatitis B virus infection, hepatitis C virus infection
+  - Kidney: kidney disease, chronic kidney disease, chronic renal failure syndrome, end-stage renal failure
+  - Other: gallbladder disease, hemoglobinopathy, pyoureter, infectious disease
+- **Drug Interactions**: 93 interactions were identified, and 20 are listed in the data compiled for this report. The major-level interaction is **clarithromycin**. The moderate-level interactions include aprepitant, dexamethasone, cimetidine, eliglustat, naltrexone, cobicistat, deferasirox, diazoxide, phentolamine, promethazine, clotrimazole, miconazole and rolapitant, among others.
+
+Please refer to the package insert for the official warnings and contraindications, which were not available for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on the model score alone, with no trials, no literature, and no supported CCR5–MEN mechanism. Maraviroc is already marketed, so supply is not a barrier, but there is nothing yet to justify further investment for this indication.
+The TxGNN score for multiple endocrine neoplasia is very high, but there are no clinical trials or publications, and no mechanistic link to MEN pathways has been established. The drug's US authorizations are all cancelled, and the official safety information was not available.
 
 **To proceed, the following is needed:**
-- A literature search for a biological link between CCR5/chemokine signalling and MEN pathology (MEN1 or RET), including preclinical data
-- Mechanism of action data from DrugBank
-- Package insert warnings and contraindications, which are currently a blocking gap for safety screening
-- A route and formulation compatibility assessment (currently oral tablets only)
-
-Among the other top-10 predictions, **HER2-positive breast carcinoma** is the most biologically coherent. A preclinical study links autocrine CCL5 to trastuzumab resistance, and CCL5 signals through CCR5. It is still preclinical (L4) and does not test maraviroc directly. It may be a better candidate to pursue first.
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
+- Retrieve the FDA package insert warnings and contraindications, which is a blocking gap for safety screening
+- Obtain mechanism of action data from DrugBank to support the mechanistic-link analysis
+- Conduct a targeted literature and trial search on CCR5/chemokine signalling in MEN
+- Consider prioritising the HER2-positive breast carcinoma hypothesis (CCL5–CCR5 axis in trastuzumab resistance), which has preclinical support, for further research
+- Review the cardiovascular, hepatic and renal contraindication signals before any new-indication study design
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

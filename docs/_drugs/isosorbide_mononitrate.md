@@ -29,85 +29,86 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Isosorbide Mononitrate: From Angina Prevention to Hypertrichosis
+# Isosorbide Mononitrate: From Angina Pectoris to Hypertrichosis
 
 ## One-Sentence Summary
 
-Isosorbide mononitrate is an oral organic nitrate vasodilator. The Evidence Pack contains no indication text for it, so its use in angina prevention comes from general drug knowledge.
-The TxGNN model predicts it may be effective for **hypertrichosis (excessive hair growth)**, but this is a model prediction only, with **0 clinical trials** and **0 publications** supporting it.
-The mechanistic link is not credible: excessive hair growth would more plausibly be an adverse-effect signal than a treatment target.
-
----
+Isosorbide mononitrate is an oral nitrate vasodilator. In the US it is sold as immediate-release and extended-release tablets, but the data compiled for this report contain no approved-indication text.
+The TxGNN model's top-ranked prediction is **hypertrichosis**, with a score of 99.995%. There are **0 clinical trials** and **0 publications** supporting it, so this is a model prediction only.
+The only prediction with any literature is **pulmonary arterial hypertension** (rank 10, 2 indirect publications), which is a better-grounded research question.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the Evidence Pack (generally used for angina prevention) |
+| Original Indication | Not stated in the compiled data (the drug is known as a nitrate vasodilator; the label text was not captured) |
 | Predicted New Indication | Hypertrichosis (disease) |
-| TxGNN Prediction Score | 99.995% (rank 269) |
+| TxGNN Prediction Score | 99.995% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (NDA and ANDA authorizations combined) |
+| US Market Status | Cancelled only (no currently valid licences among the 7 on record) |
+| Number of NDAs | 7 licences (1 NDA, 6 ANDAs) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Isosorbide mononitrate is an organic nitrate. Drugs in this class act as nitric oxide (NO) donors, activating soluble guanylate cyclase (sGC) to relax vascular smooth muscle. This vasodilation is the basis of its established cardiovascular use.
+Detailed mechanism-of-action data is not available in the compiled data. Based on general knowledge, isosorbide mononitrate is a nitric oxide (NO) donor. NO activates soluble guanylate cyclase, raises cGMP, and relaxes vascular smooth muscle.
 
-The predicted indication is a hair-growth excess phenotype. No mechanistic link can be established from the provided data. Nothing connects nitrate vasodilation or NO signaling to the biology of hypertrichosis. If anything, the prediction looks more like a potential adverse-effect signal than a therapeutic opportunity.
+For the top prediction, hypertrichosis, the link is weak. The only plausible argument is that increased skin blood flow could influence hair growth, as with minoxidil. But hypertrichosis is a disorder of *excess* hair growth, so a vasodilator-like effect would be expected to worsen it rather than treat it. The high score appears to be a graph-based artefact, not a biological rationale.
 
-The score is high, but it comes from knowledge-graph patterns alone. It is not backed by trials, literature, or a known mechanism, so it should be treated as a hypothesis-generating signal at best.
+The other top-ranked predictions are similarly unsupported:
+- **Alopecia and diffuse alopecia areata:** a speculative perfusion argument for alopecia, and an autoimmune (JAK/IFN-γ-driven) disease for alopecia areata, with no supporting data.
+- **Genetic and congenital conditions** (Ambras syndrome, hair shaft abnormalities, hypotrichosis simplex, congenital hypotrichosis milia, Dandy-Walker and odontal malformation syndromes): no known pathway links NO donation to these genetic causes.
 
----
+The exception is **pulmonary arterial hypertension (PAH)**. Here the mechanism is biologically plausible, because the NO-sGC-cGMP pathway is the same one targeted by sildenafil and riociguat. Caveats include nitrate tolerance, possible V/Q mismatch, and a dangerous interaction with PDE5 inhibitors (severe hypotension).
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-Currently no related literature available.
+No literature is available for the top-ranked prediction (hypertrichosis). The only literature retrieved is for the rank-10 prediction, pulmonary arterial hypertension:
 
----
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [16422873](https://pubmed.ncbi.nlm.nih.gov/16422873/) | 2005 | Clinical hemodynamic study | J Sex Med | Hemodynamic effects of sildenafil and isosorbide mononitrate in men with coronary artery disease and erectile dysfunction (not a PAH population) |
+| [29705351](https://pubmed.ncbi.nlm.nih.gov/29705351/) | 2018 | Preclinical animal study | Life Sci | sGC stimulation in monocrotaline-induced pulmonary hypertensive rats; examined NO-enhancing drugs (not isosorbide mononitrate itself) |
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+All seven licences are listed as cancelled. Approved-indication text was not available.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA210822 | Isosorbide Mononitrate | Tablet, extended release | Chartwell RX, LLC |
-| ANDA210918 | Isosorbide Mononitrate | Tablet, extended release | Ingenus Pharmaceuticals, LLC |
-| NDA020215 | Isosorbide mononitrate | Tablet | Proficient Rx LP |
-| ANDA075522 | Isosorbide Mononitrate | Tablet, extended release | NuCare Pharmaceuticals, Inc. |
-| ANDA210918 | Isosorbide Mononitrate | Tablet, extended release | Aphena Pharma Solutions - Tennessee, LLC |
-
-Both listed forms are oral. The Evidence Pack does not include approved indication text for these authorizations.
-
----
+| ANDA210822 | Isosorbide Mononitrate (Chartwell RX) | Tablet, extended release | Not available |
+| ANDA210918 | Isosorbide Mononitrate (Ingenus) | Tablet, extended release | Not available |
+| NDA020215 | Isosorbide Mononitrate (Proficient Rx) | Tablet | Not available |
+| ANDA075522 | Isosorbide Mononitrate (NuCare) | Tablet, extended release | Not available |
+| ANDA200270 | Isosorbide Mononitrate (American Health Packaging) | Tablet, extended release | Not available |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindications suggested by the knowledge graph** (drug-disease links, not label text): hypotensive disorder, hypertrophic cardiomyopathy, myocardial infarction, coronary thrombosis, hemoglobinopathy, anaemia (including macrocytic anaemia), hyperthyroidism, Graves disease, thyrotoxicosis, and intracerebral haemorrhage.
+- **Drug interactions:** 100 interactions were found in total. Examples of the 20 reviewed:
+  - *Moderate:* bupropion, morphine, canagliflozin, dapagliflozin, empagliflozin, ertugliflozin, dronabinol, nabilone, opium, sapropterin, rosiglitazone
+  - *Minor:* omeprazole
+  - *Unknown severity:* calcitriol, pantoprazole, glimepiride, mesalazine, doxycycline, clotrimazole, metformin, lansoprazole
+- **Important class interaction:** nitrates combined with PDE5 inhibitors (e.g., sildenafil) can cause severe hypotension. This is highly relevant to the PAH hypothesis.
 
----
+Please refer to the package insert for the full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trials, no literature, and no plausible mechanism, so it stays at evidence level L5. The predicted disease is also more consistent with a side-effect signal than a treatment target. Related predictions for this drug (Ambras syndrome, alopecia, hypotrichosis and others) are equally unsupported. The only candidate with indirect biological support is **pulmonary arterial hypertension**, ranked 10th at evidence level L4. Its support is preclinical and hemodynamic studies in other populations, with no PAH patient data. It is better treated as a separate research question than as support for this hypertrichosis prediction.
+The top-ranked prediction (hypertrichosis) and the other hair and genetic-disorder predictions rest only on graph-based scores. No trials or literature support them, and the vasodilator mechanism argues against benefit in hypertrichosis. Pulmonary arterial hypertension (L4) is biologically plausible, but its evidence is indirect and the nitrate-PDE5 inhibitor safety problem is significant. It should be treated as a research question only, not a go decision.
 
 **To proceed, the following is needed:**
-- Mechanism of action data from DrugBank, to allow a proper mechanistic-link analysis
-- Package insert warnings and contraindications, which are needed before any safety screening
-- Approved indication text for the US authorizations, to confirm the original indication
-- A pharmacovigilance check of whether hair-growth changes are reported with isosorbide mononitrate, to test the adverse-effect-signal interpretation
-- Any human or preclinical study linking nitrate or NO-sGC signaling to hair follicle biology. Without one, this prediction should not advance.
+- FDA package insert data (warnings, contraindications, approved indications), the blocking data gap for safety screening
+- Mechanism-of-action data from DrugBank
+- For PAH: direct clinical or preclinical studies of isosorbide mononitrate in PAH models, and a review of nitrate tolerance and PDE5 inhibitor co-use risks
+- Clarification of current US market status, since all licences are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

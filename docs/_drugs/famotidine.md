@@ -3,14 +3,14 @@ layout: default
 title: Famotidine
 parent: Moderate Evidence (L3-L4)
 nav_order: 692
-evidence_level: L3
+evidence_level: L4
 indication_count: 10
 ---
 
 # Famotidine
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,89 +29,76 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Famotidine: From Acid Suppression (H2-Receptor Antagonist) to Duodenogastric Reflux
+# Famotidine: From Gastric Ulcer to Duodenogastric Reflux
 
 ## One-Sentence Summary
 
-Famotidine is a histamine H2-receptor antagonist that lowers gastric acid output. The TxGNN model predicts it may help with **duodenogastric reflux**, but there are **0 registered clinical trials** and only **2 publications**, both small clinical studies that do not report outcomes in the material provided. Evidence for this specific indication is weak.
-
----
+Famotidine is a histamine H2-receptor blocker that reduces stomach acid. It is used for gastric and duodenal ulcers, reflux disease and related acid disorders.
+The TxGNN model predicts it may help with **duodenogastric reflux**, but there are currently **0 registered clinical trials** and only **2 small or older publications** supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (the US approval records provided contain no indication text) |
+| Original Indication | Gastric ulcer, gastroesophageal reflux disease, esophagitis, dyspepsia, duodenal ulcer, Zollinger-Ellison syndrome (the licence records compiled contain no indication text, so these come from the knowledge-graph indication list) |
 | Predicted New Indication | Duodenogastric reflux |
 | TxGNN Prediction Score | 99.99% |
-| Evidence Level | L3 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| Evidence Level | L4 |
+| US Market Status | Cancelled only (14 listings, none currently valid in the data compiled) |
+| Number of NDAs | 14 (all are generic ANDA listings) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available from DrugBank. The rationale below therefore rests on the known pharmacology of famotidine, which blocks H2 receptors on gastric parietal cells and reduces acid secretion.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, famotidine is an H2-receptor antagonist. It blocks histamine on stomach acid-producing cells and lowers acid output. Its efficacy in acid-related conditions such as ulcers and reflux disease is well established.
 
-Duodenogastric reflux is the backflow of duodenal contents into the stomach. Lowering acid could reduce mucosal injury caused by the refluxed material. This benefit is plausible only for the acid component. Bile and alkaline reflux are not acid-driven, so famotidine would not be expected to address them directly.
-
-The prediction is therefore mechanistically credible but partial. At best, famotidine would ease acid-related damage and symptoms rather than stop the reflux itself.
-
----
+In duodenogastric reflux, bile and duodenal contents flow back into the stomach. Lowering acid may reduce mucosal injury and symptoms, so the prediction is plausible. However, famotidine does not correct the bile reflux itself. The link is therefore indirect, and the high score probably reflects its closeness to known acid-related diseases in the knowledge graph.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [12532466](https://pubmed.ncbi.nlm.nih.gov/12532466/) | 2003 | Clinical study | World J Gastroenterol | Examined the effect of famotidine on gastroesophageal and duodeno-gastro-esophageal reflux in critically ill patients and explored possible mechanisms and related factors. Only the study aim is available, with no results. |
-| [16259441](https://pubmed.ncbi.nlm.nih.gov/16259441/) | 2004 | Clinical study / Review | Eksp Klin Gastroenterol | Assessed famotidine 20 mg twice daily in early-stage gastroduodenal reflux disease (Savary-Miller grades 0–1) using clinical and endoscopic evaluation. Only the study aim is available, with no results. |
-
-Neither publication is confirmed as a randomized controlled trial, and neither abstract states an efficacy result.
-
----
+| [12532466](https://pubmed.ncbi.nlm.nih.gov/12532466/) | 2003 | Clinical study (critically ill patients) | World J Gastroenterol | Investigated the effect of famotidine on gastroesophageal and duodeno-gastro-esophageal reflux in critically ill patients, and the possible mechanisms and related factors. The abstract available here states the aims but not the results. |
+| [16259441](https://pubmed.ncbi.nlm.nih.gov/16259441/) | 2004 | Clinical report (non-English) | Eksp Klin Gastroenterol | Evaluated famotidine 20 mg twice daily in early-stage gastroduodenal reflux disease using clinical and endoscopic assessment. The abstract available here states the aims but not the results. |
 
 ## US Market Information
 
-The 20 listed authorizations are all generic (ANDA) products. The first 5 are shown below. No approved indication text is available in the source records.
+All 14 listings are generic (ANDA) and are marked as cancelled. No approved-indication text was recorded. The first five are shown.
 
-| Authorization Number | Product Name | Dosage Form |
-|---------|------|------|
-| ANDA075786 | famotidine (Chartwell RX, LLC) | Film-coated tablet |
-| ANDA078916 | Famotidine (NCS HealthCare of KY, dba Vangard Labs) | Tablet |
-| ANDA075511 | Famotidine (Northwind Health Company, LLC) | Film-coated tablet |
-| ANDA201995 | Famotidine (Akorn) | Powder for solution |
-| ANDA206531 | Zantac 360, Travel BASIX (Lil' Drug Store Products, Inc) | Film-coated tablet |
-
----
+| Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
+|---------|------|------|------|------|
+| ANDA075786 | famotidine | Tablet, film coated | Chartwell RX, LLC | Cancelled |
+| ANDA078916 | Famotidine | Tablet | NCS HealthCare of KY (Vangard Labs) | Cancelled |
+| ANDA075511 | Famotidine | Tablet, film coated | Northwind Health Company, LLC | Cancelled |
+| ANDA201995 | Famotidine | Powder, for solution | Akorn | Cancelled |
+| ANDA206531 | Zantac 360, Travel BASIX | Tablet, film coated | Lil' Drug Store Products, Inc | Cancelled |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindication signals from the knowledge graph (not label text):** kidney disease and impaired renal function, liver disease, gallbladder disease, nephrolithiasis, hypercalcemia, hyperparathyroidism, sarcoidosis, diarrheal disease, constipation, and gastric neoplasms (including gastric cancer and gastric carcinoma). These are network associations, not confirmed warnings. The gastric cancer signal matters in practice, because acid suppression can relieve symptoms and delay diagnosis.
+- **Drug interactions:** 100 interactions were found. Most of those reviewed are rated Moderate, for example abiraterone, acalabrutinib, tramadol, amiodarone, amitriptyline, aripiprazole, aminophylline, salbutamol and alfuzosin. Alendronic acid and aluminum hydroxide are rated Minor.
 
----
+Please refer to the package insert for official warnings and contraindications, which were not available for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is very high, but the evidence for duodenogastric reflux is thin. There are no registered trials and only two small clinical studies with no reported outcomes. The plausible mechanism covers only the acid component of the reflux. This is a research question rather than an actionable candidate.
+The prediction is mechanistically plausible but has no registered trials and only two small or older reports. Famotidine also does not address bile reflux itself. Evidence is insufficient to justify development for this indication.
 
 **To proceed, the following is needed:**
-- Full-text review of PMID 12532466 and 16259441 to confirm study design, endpoints and results
-- A controlled study with defined endpoints such as symptom relief and mucosal injury, separating acid from bile or alkaline reflux
-- DrugBank mechanism of action data and the package insert warnings and contraindications
-- Original indication text for the US approvals, to complete the baseline comparison
+- The full text of the two reflux publications, to confirm actual outcomes
+- A controlled trial in duodenogastric reflux with clear endpoints
+- Official package insert warnings and contraindications, and detailed mechanism-of-action data
+- Clarification of current US marketing status, since all listings in the data compiled are cancelled
+- Renal function and gastric cancer considerations in trial design
 
-Other predictions for famotidine, such as peptic ulcer disease, are established uses of the drug and are not treated as novel repurposing here.
+**Note:** Among the other predicted indications, peptic ulcer disease has the strongest evidence (L1, with several randomized trials). It largely overlaps famotidine's existing uses, and famotidine was inferior to pantoprazole for preventing recurrent aspirin-related ulcers.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

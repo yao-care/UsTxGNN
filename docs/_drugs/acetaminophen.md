@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Acetaminophen
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 92
-evidence_level: L5
+evidence_level: L4
 indication_count: 1
 ---
 
 # Acetaminophen
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **1** 
+Evidence Level: **L4** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,87 +29,104 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Acetaminophen: From Pain Relief to Migraine with Brainstem Aura
+# Acetaminophen: From Allergic Rhinitis, Migraine and Headache Disorders to Migraine with Brainstem Aura
 
 ## One-Sentence Summary
 
-Acetaminophen is a widely marketed pain-relief medicine. The data lists no approved indication text, but its US product names, such as "Pain Relief Extra Strength", point to that use.
-The TxGNN model predicts it may be useful for **migraine with brainstem aura**.
-No clinical trials are registered for this specific subtype, and the 20 publications retrieved are about migraine in general, so support is **indirect**.
+Acetaminophen is a widely used analgesic and antipyretic. In the data compiled for this report, its original indications include allergic rhinitis, vasomotor rhinitis, migraine, common cold and headache disorders.
+The TxGNN model predicts it may be effective for **migraine with brainstem aura**, but there are **0 registered clinical trials** and **20 publications** (mostly reviews and general migraine literature, none specific to brainstem aura). This is better regarded as an extension within the migraine family than as true repurposing.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Pain relief (inferred from product names; no approved indication text in the data) |
+| Original Indication | Allergic rhinitis, vasomotor rhinitis, migraine disorder, common cold, nasopharyngitis, headache disorder (from the knowledge graph; no approved-indication text is available from the US licences) |
 | Predicted New Indication | Migraine with brainstem aura |
 | TxGNN Prediction Score | 99.15% |
-| Evidence Level | L4 (indirect only: general migraine literature, nothing specific to brainstem aura) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| Evidence Level | L4 |
+| US Market Status | Cancelled only (all 5 listed licences are cancelled) |
+| Number of NDAs | 5 (all are ANDA or other licences, all cancelled) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, acetaminophen is a long-established analgesic, and it is used for acute migraine attacks in general. Mechanistically it may be applicable to migraine with brainstem aura, but this link has not been verified.
+Detailed mechanism of action data is not available for this drug in the compiled data. Based on general knowledge, acetaminophen acts mainly in the central nervous system, probably through COX inhibition and modulation of serotonergic and endocannabinoid pathways. This offers a plausible link to symptomatic relief of migraine attacks.
 
-The high TxGNN score most likely reflects the general association between acetaminophen and migraine, not the brainstem aura subtype. Acetaminophen is generally described as a centrally acting analgesic, but that mechanism was not provided in the input and was not verified here. Nothing in the data connects it to the pathophysiology of brainstem aura.
+Migraine with brainstem aura is a subtype of migraine with aura, and acetaminophen is already listed for migraine and headache disorders. The very high TxGNN score (0.99) most likely reflects proximity to these existing migraine indications in the knowledge graph rather than independent evidence. No evidence specific to brainstem aura was found, so the prediction should be treated as a hypothesis.
 
-The literature supports acetaminophen as part of acute migraine care. One review of headache in pregnancy describes it as first-line symptomatic treatment. Randomized trials of acetaminophen combined with aspirin and caffeine show benefit in migraine overall. None of these studies address the brainstem aura subtype, so the prediction is best read as a general migraine signal.
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
-None of the publications below study brainstem aura specifically. All were still marked "relevance: pending" in the Evidence Pack.
+The publications below were retrieved for the predicted indication. None is a trial specific to brainstem aura. Study types are as classified in the compiled data. The two randomized studies come from the unclassified group.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [25600718](https://pubmed.ncbi.nlm.nih.gov/25600718/) | 2015 | Evidence assessment (guideline-type review of RCTs) | Headache | American Headache Society update on the evidence for pharmacological acute migraine treatments |
-| [9482363](https://pubmed.ncbi.nlm.nih.gov/9482363/) | 1998 | RCT (3 double-blind, placebo-controlled trials) | Archives of Neurology | Tested the acetaminophen + aspirin + caffeine combination for relieving migraine headache pain |
-| [10321417](https://pubmed.ncbi.nlm.nih.gov/10321417/) | 1999 | Retrospective analysis of 3 RCTs | Clinical Therapeutics | Acetaminophen + aspirin + caffeine for menstruation-associated migraine vs migraine not linked to menses |
-| [11318886](https://pubmed.ncbi.nlm.nih.gov/11318886/) | 2001 | Comparative study | Headache | Isometheptene/dichloralphenazone/acetaminophen vs sumatriptan for mild-to-moderate migraine, with or without aura |
-| [30470274](https://pubmed.ncbi.nlm.nih.gov/30470274/) | 2019 | Review | Neurologic Clinics | Migraine is the most common headache in pregnancy; acetaminophen is first-line symptomatic treatment |
-| [38307660](https://pubmed.ncbi.nlm.nih.gov/38307660/) | 2024 | Review | Handbook of Clinical Neurology | Status migrainosus, a prolonged (>72 h) complication of migraine with or without aura |
-| [39493026](https://pubmed.ncbi.nlm.nih.gov/39493026/) | 2024 | Review | Cureus | Abortive and preventive migraine therapies in pregnancy |
-| [37123778](https://pubmed.ncbi.nlm.nih.gov/37123778/) | 2023 | Review | Cureus | Migraine in pregnancy and breastfeeding, and treatment approach |
-| [33525313](https://pubmed.ncbi.nlm.nih.gov/33525313/) | 2021 | Review | Neurology International | Ubrogepant review; notes acetaminophen among non-prescription options for mild-to-moderate migraine |
-| [16018227](https://pubmed.ncbi.nlm.nih.gov/16018227/) | 2005 | Review | Pediatric Annals | Acute and preventive treatment of pediatric migraine |
+| [10321417](https://pubmed.ncbi.nlm.nih.gov/10321417/) | 1999 | Randomized, placebo-controlled trials (retrospective analysis) | Clinical Therapeutics | Acetaminophen + aspirin + caffeine combination for menstruation-associated vs non-menstrual migraine; data from 3 double-masked trials |
+| [11318886](https://pubmed.ncbi.nlm.nih.gov/11318886/) | 2001 | Comparative study | Headache | Isometheptene/dichloralphenazone/acetaminophen vs sumatriptan in mild-to-moderate migraine with or without aura |
+| [25600718](https://pubmed.ncbi.nlm.nih.gov/25600718/) | 2015 | Review | Headache | American Headache Society evidence assessment of pharmacotherapies for acute migraine in adults |
+| [38307660](https://pubmed.ncbi.nlm.nih.gov/38307660/) | 2024 | Review | Handbook of Clinical Neurology | Status migrainosus, a complication of migraine with or without aura |
+| [30470274](https://pubmed.ncbi.nlm.nih.gov/30470274/) | 2019 | Review | Neurologic Clinics | Headache in pregnancy; acetaminophen is first-line symptomatic treatment |
+| [39493026](https://pubmed.ncbi.nlm.nih.gov/39493026/) | 2024 | Review | Cureus | Abortive and prophylactic migraine therapies in pregnancy |
+| [16018227](https://pubmed.ncbi.nlm.nih.gov/16018227/) | 2005 | Review | Pediatric Annals | Treatment of pediatric migraine |
+| [33525313](https://pubmed.ncbi.nlm.nih.gov/33525313/) | 2021 | Review | Neurology International | Ubrogepant for acute migraine; notes acetaminophen among mild-to-moderate options |
+| [23203776](https://pubmed.ncbi.nlm.nih.gov/23203776/) | 2013 | Review | Current Treatment Options in Neurology | Familial and sporadic hemiplegic migraine: diagnosis and treatment |
+| [10534294](https://pubmed.ncbi.nlm.nih.gov/10534294/) | 1999 | Review | Journal of Women's Health & Gender-Based Medicine | Menstrual migraine |
+
+---
 
 ## US Market Information
 
-The data lists no approved indication text for these products.
+All five licences in the compiled data are cancelled, and no approved-indication text is available for them.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA211544 | 8 Hour Pain Relief | Tablet, extended release | Chain Drug Marketing Association, Inc. |
-| M013 | CareOne Infants Acetaminophen | Suspension | American Sales Company |
-| M013 | Acetaminophen | Tablet | CVS Pharmacy, Inc. |
-| M013 | Pain Relief Extra Strength | Capsule, liquid filled | Humanwell PuraCap Pharmaceutical (Wuhan), Ltd. |
-| M013 | Acetaminophen (Red) | Capsule, liquid filled | Humanwell PuraCap Pharmaceutical (Wuhan), Ltd. |
+| ANDA211544 | 8 Hour Pain Relief | Tablet, extended release | Not available |
+| M013 | CareOne Infants Acetaminophen | Suspension | Not available |
+| ANDA215486 | Acetaminophen Extended-Release Tablets, 650 mg | Tablet, extended release | Not available |
+| ANDA070607 | Pain reliever fever reducer | Suppository | Not available |
+| ANDA075077 | Topcare 8 hr arthritis pain relief | Tablet, film coated, extended release | Not available |
 
-Other marketed forms include chewable, film-coated and coated tablets, liquid, and suppository.
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Disease-related cautions from the knowledge graph** (not label text): liver failure, liver disease, cirrhosis of the liver, hepatic encephalopathy, hepatic coma and gallbladder disease are flagged as contraindication-related conditions.
+- **Drug Interactions**: 100 interactions were found in total; the 20 shown in the compiled data are mostly Minor. Moderate interactions are:
+  - Activated charcoal
+  - Glycerol phenylbutyrate
+  - Naltrexone
+
+  Minor interactions include anticholinergics and antispasmodics (atropine, scopolamine, hyoscyamine, glycopyrronium, dicyclomine, trospium and others), H2 blockers (cimetidine, ranitidine), metoclopramide and liraglutide. Interactions with vitamin A and calcitriol are of unknown severity.
+
+Please refer to the package insert for full warnings and contraindications.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is high, but there are no registered trials and no evidence specific to brainstem aura. The literature is general migraine evidence, and none of it has been screened for relevance. The safety data is also missing entirely, which blocks safety screening. The candidate currently stands as a research question, not an actionable repurposing lead.
+The prediction rests on model proximity to existing migraine indications. There are no clinical trials and no literature specific to brainstem aura, and the evidence level is L4. The data compiled for this report lack label warnings and mechanism data, and all US licences are cancelled. It is best treated as a research question rather than a repurposing candidate.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap)
-- Mechanism of action data, for example from DrugBank
-- Relevance screening of the retrieved literature, plus a targeted search for studies in migraine with brainstem aura
-- Assessment of route compatibility and the similarity between pain relief and the predicted indication (both still pending)
-
-*This report is for research reference only and is not medical advice. Repurposing candidates require clinical validation before any clinical use.*
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism of action data
+- Literature or trials specific to migraine with brainstem aura
+- Evidence on how clinically distinct this subtype is from the already-covered migraine indications
+- Confirmation of current US marketed products, since all listed licences are cancelled
+- Evaluation of hepatic risk, given the liver-related contraindication signals
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

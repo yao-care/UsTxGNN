@@ -29,100 +29,68 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Sincalide: From Diagnostic Gallbladder and Pancreatic Testing to Malignant Catarrh
+# Sincalide: From Gallbladder Diagnostic Use to Malignant Catarrh (Model Prediction Only)
 
 ## One-Sentence Summary
 
-Sincalide is a synthetic cholecystokinin (CCK-8) analog used as a diagnostic agent to stimulate gallbladder contraction and pancreatic secretion.
-The TxGNN model predicts it may be effective for **malignant catarrh**, a veterinary viral disease of cattle, with **0 clinical trials** and **0 publications** supporting this direction.
-This looks like a knowledge-graph artifact rather than a real repurposing signal.
-
----
+Sincalide is a synthetic C-terminal octapeptide of cholecystokinin (CCK-8) that stimulates gallbladder contraction and pancreatic secretion, and it is used as a gastrointestinal diagnostic agent.
+The TxGNN model predicts it may be effective for **malignant catarrh**, but there are currently **0 clinical trials** and **0 publications** supporting this direction.
+The prediction rests on the model score alone and has no identified biological rationale.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the US licence data (diagnostic use for gallbladder contraction and pancreatic secretion, per the mechanistic assessment) |
-| Predicted New Indication | Malignant catarrh |
+| Original Indication | Not stated in the US license records compiled for this report (gallbladder and pancreatic diagnostic use is inferred from the drug's pharmacology) |
+| Predicted New Indication | Malignant catarrh (malignant catarrhal fever, a viral disease of ruminants) |
 | TxGNN Prediction Score | 99.96% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 4 licence entries (2 distinct NDA numbers: NDA017697, NDA210850) |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 2 (both cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the source record. Based on known information, sincalide is a CCK-8 analog. It acts on CCK receptors to stimulate gallbladder smooth-muscle contraction and pancreatic secretion, and it is used diagnostically rather than therapeutically.
+Currently, detailed mechanism of action data is not available. Based on known information, sincalide is a synthetic CCK-8 peptide that stimulates gallbladder contraction and pancreatic secretion.
 
-**The prediction is not reasonable on current evidence.**
-- Malignant catarrh is a veterinary viral disease with no known connection to CCK receptor pharmacology.
-- No trials or publications support the link.
-- The high score most likely reflects the graph structure, not biology.
+The predicted indication, malignant catarrhal fever, is a viral disease of ruminants, and no mechanistic link to sincalide has been identified. The score is a model prediction only and has no supporting biological rationale. The prediction is therefore not considered reasonable on current evidence.
 
-The same pattern appears across the other nine top predictions:
-
-| Predicted indication | Score | Evidence | Assessment |
-|------|------|------|------|
-| Infectious bovine rhinotracheitis | 99.96% | L5 | Bovine herpesvirus disease, no mechanistic link |
-| Cytomegalovirus infection | 99.96% | L5 | The only retrieved paper (PMID 11484914) is a rat pancreatic acinar study, a keyword mismatch |
-| Thrombotic disease | 99.94% | L5 | No known antithrombotic mechanism |
-| Hyperthyroidism | 99.93% | L4 | Indirect rodent studies only; no therapeutic effect shown |
-| Resistance to thyroid hormone (THR-beta mutation) | 99.92% | L5 | No known connection |
-| Hyperthyroxinemia | 99.88% | L5 | Speculative |
-| Homozygous familial hypercholesterolemia | 99.85% | L5 | No effect on LDL receptor function |
-| Prinzmetal angina | 99.84% | L5 | No established mechanism |
-| Amenorrhea | 99.83% | L5 | No link to the reproductive axis |
-
----
+The same pattern applies to the other top-ranked predictions. Malignant catarrh and infectious bovine rhinotracheitis have identical scores (99.96%), which suggests a shared graph artifact rather than independent evidence. The thyroid-related predictions (hyperthyroidism, resistance to thyroid hormone due to a THRB mutation, hyperthyroxinemia) form a cluster that points to systematic model bias. Other predicted conditions include cytomegalovirus infection, thrombotic disease, homozygous familial hypercholesterolemia, Prinzmetal angina and amenorrhea. None has a known mechanism or supporting studies.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
-
----
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA017697 | KINEVAC (Bracco Diagnostics) | Lyophilized powder for injection | Not provided in source data |
-| NDA017697 | SINCALIDE (Fresenius Kabi USA) | Lyophilized powder for injection | Not provided in source data |
-| NDA210850 | Sincalide (Fosun Pharma USA) | Lyophilized powder for injection | Not provided in source data |
-| NDA210850 | Sincalide (MAIA Pharmaceuticals) | Lyophilized powder for injection | Not provided in source data |
-
-All products are injectable only.
-
----
+| NDA017697 (cancelled) | KINEVAC (Bracco Diagnostics Inc.) | Lyophilized powder for injection | Not available |
+| NDA210850 (cancelled) | Sincalide (Fosun Pharma USA Inc.) | Lyophilized powder for injection | Not available |
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
 
----
+No drug-drug interaction records were found, and no disease contraindications were identified from the knowledge graph.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trials and no supporting literature, and no plausible mechanism links a CCK-8 analog to a bovine viral disease. It should not be pursued as a human repurposing candidate.
+The prediction is supported only by a model score. There are no clinical trials or publications, no plausible mechanism, and the predicted condition is a veterinary viral disease. Both US licenses are cancelled, and safety and mechanism data are incomplete.
 
 **To proceed, the following is needed:**
-- Confirm whether the target disease mapping is valid for humans, since malignant catarrh is a veterinary condition.
-- Retrieve the FDA package insert (warnings and contraindications), which currently blocks safety screening.
-- Obtain mechanism of action data from DrugBank.
-- Consider re-screening the other top predictions (for example hyperthyroidism, the only one with any indirect literature) only if new human data emerge.
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Package insert warnings and contraindications (a blocking gap that prevents safety screening)
+- Mechanism of action data from DrugBank
+- A biologically plausible link between CCK receptor agonism and the predicted disease
+- A review of whether the shared-score and thyroid-cluster patterns reflect model artifacts
+- Consideration of other candidates in the list or of drug-related indications with human relevance, since none of the top 10 predictions has supporting evidence
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

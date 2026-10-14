@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Toremifene
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1244
-evidence_level: L4
+evidence_level: L5
 indication_count: 1
 ---
 
 # Toremifene
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **1** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,74 +33,102 @@ Evidence Level: **L4** | Predicted Indications: **1**
 
 ## One-Sentence Summary
 
-Toremifene is an estrogen receptor antagonist, a class related to tamoxifen, and is known as a breast cancer drug.
-The TxGNN model predicts it may be effective for **HIV infectious disease**, but the only supporting evidence is **1 preclinical publication** on an antifungal effect, with **0 clinical trials** registered.
+Toremifene is an oral selective estrogen receptor modulator that has been marketed in the United States as a breast cancer drug (this is general knowledge, since the compiled data holds no indication text).
+The TxGNN model predicts it may be effective for **HIV infectious disease**, but the support is thin: **0 clinical trials** and **1 publication**, and that publication is a preclinical antifungal study.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Breast cancer (inferred from the literature in the pack; the US label text is not included) |
+| Original Indication | Not stated in the compiled data (all license records have empty indication text) |
 | Predicted New Indication | HIV infectious disease |
 | TxGNN Prediction Score | 99.41% |
-| Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 3 (1 NDA, 2 ANDAs) |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (all licenses cancelled) |
+| Number of NDAs | 3 (1 NDA and 2 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Toremifene is an estrogen receptor antagonist related to tamoxifen. Its efficacy in breast cancer is established, but that is a separate pathway from HIV disease.
+Currently, detailed mechanism of action data is not available. Toremifene is a known estrogen receptor antagonist related to tamoxifen, and its use in hormone-driven cancer is established. Any mechanistic link to HIV infectious disease therefore has to be inferred from indirect evidence.
 
-The only link in the supplied data is indirect. A 2014 preclinical study (PMID 24520056) found that tamoxifen and toremifene are fungicidal against *Cryptococcus*. They appear to bind EF-hand calcium-binding proteins and synergize with fluconazole and amphotericin B in vitro. Cryptococcal meningitis is a common opportunistic infection in advanced HIV, so a possible hypothesis is adjunctive therapy for HIV-associated cryptococcosis.
+The only linked publication (PMID 24520056, 2014) shows that estrogen receptor antagonists related to tamoxifen and toremifene have antifungal activity against *Cryptococcus*. They appear to act by binding EF-hand proteins such as calmodulin, and they synergize with fluconazole and amphotericin B in vitro. Cryptococcal meningitis is a major opportunistic infection in people with HIV/AIDS.
 
-This is **not** evidence of anti-HIV activity or benefit in HIV disease. The very high TxGNN score is a computational prediction with no clinical support in the data provided.
+This evidence does **not** show activity against HIV itself. At most, it suggests a possible adjunctive role against an opportunistic infection in people living with HIV. The very high TxGNN score (99.41%) is a computational prediction only and should not be read as clinical support.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [24520056](https://pubmed.ncbi.nlm.nih.gov/24520056/) | 2014 | Preclinical (non-HIV pathogen) | mBio | Estrogen receptor antagonists related to tamoxifen and toremifene are fungicidal against *Cryptococcus*. They bind EF-hand proteins and synergize with fluconazole and amphotericin B. No HIV data. |
+| [24520056](https://pubmed.ncbi.nlm.nih.gov/24520056/) | 2014 | Preclinical / in vitro | mBio | Tamoxifen- and toremifene-related estrogen receptor antagonists are fungicidal against *Cryptococcus*, bind EF-hand proteins, and synergize with fluconazole and amphotericin B. |
+
+---
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA020497 | Fareston | Tablet (oral) | Kyowa Kirin, Inc. |
-| ANDA208813 | toremifene citrate | Tablet (oral) | Rising Pharma Holdings, Inc. |
-| ANDA212818 | toremifene citrate | Tablet (oral) | Novadoz Pharmaceuticals LLC |
+| NDA020497 | Fareston (Kyowa Kirin, Inc.) | Tablet | Not available; status cancelled |
+| ANDA208813 | Toremifene citrate (Rising Pharma Holdings, Inc.) | Tablet | Not available; status cancelled |
+| ANDA212818 | Toremifene citrate (Novadoz Pharmaceuticals LLC) | Tablet | Not available; status cancelled |
+
+---
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Hormonal (endocrine) anticancer agent, an estrogen receptor antagonist. It is not a conventional cytotoxic chemotherapy agent. |
+| Cytotoxicity Classification | Hormonal therapy (selective estrogen receptor modulator), not a conventional cytotoxic agent |
 | Myelosuppression Risk | Please refer to the package insert warnings and precautions |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Please refer to the package insert warnings and precautions |
+| Monitoring Items | Please refer to the package insert; the knowledge-graph contraindications below suggest monitoring of ECG/QT interval, electrolytes (potassium, calcium), and blood counts |
 | Handling Protection | Please refer to the package insert warnings and precautions |
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindications flagged by the knowledge graph** (derived from drug-disease relationships in the TxGNN knowledge graph, not from label text): long QT syndrome, familial long QT syndrome, torsades de pointes, thrombocytopenia, potassium deficiency disease, hypercalcemia, nephrocalcinosis, phosphorus metabolism disease, leukopenia, and endometrial hyperplasia.
+- **Drug Interactions**: The interaction query returned 100 records. The list below includes only the **Major** interactions among the 20 records shown, which are largely QT-related combinations:
+  - Dexamethasone
+  - Clarithromycin
+  - Levofloxacin
+  - Dolasetron
+  - Palonosetron
+  - Picosulfuric acid
+  - Sodium sulfate
+  - Polyethylene glycol (3350 with electrolytes)
+
+  Moderate interactions include famotidine, pioglitazone, loperamide, aprepitant, bisacodyl, cimetidine, metreleptin, miconazole, nateglinide, lactitol, and lactulose. Metronidazole is a Minor interaction.
+
+For label-based warnings and contraindications, please refer to the package insert.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score and one preclinical antifungal study. There are no clinical trials and no anti-HIV data, so the evidence is only L4.
+The prediction rests only on a computational score and a single preclinical antifungal paper that does not show anti-HIV activity. There are no clinical trials, the evidence level is L5, and all US licenses are cancelled.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data from DrugBank
-- In vitro and in vivo evidence of anti-HIV activity, or of benefit in HIV-associated cryptococcosis
-- Drug interaction assessment, since none was found in the supplied data, particularly with antiretrovirals and antifungals
-- Review of the original indication text from the US labels
+- Direct evidence of anti-HIV activity, or a clearly defined adjunctive role in cryptococcal infection among people with HIV (in vitro, animal, then clinical studies)
+- Mechanism of action data
+- FDA package insert warnings and contraindications for formal safety screening, with particular attention to QT prolongation and its interactions with antiretroviral and antifungal drugs
+- Clarification of the original approved indication and of the commercial availability of toremifene, since all US licenses are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

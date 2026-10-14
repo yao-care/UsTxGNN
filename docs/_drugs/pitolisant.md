@@ -33,9 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **3**
 
 ## One-Sentence Summary
 
-Pitolisant is a histamine H3 receptor inverse agonist, marketed in the US as Wakix and used to treat excessive daytime sleepiness in narcolepsy.
-The TxGNN model predicts it may be effective for **insomnia**, but only **1 clinical trial** (withdrawn, 0 participants, and not in insomnia) and **7 publications** (none showing benefit in insomnia) are linked to this prediction.
-The mechanism points the opposite way, so this prediction is most likely a knowledge-graph artifact.
+Pitolisant is a histamine H3 receptor inverse agonist, originally used to treat narcolepsy (with or without cataplexy).
+The TxGNN model predicts it may be effective for **Insomnia**, but there are **0 registered clinical trials** and **no publications that directly address insomnia treatment**. The prediction rests on model scoring alone, and the mechanism points the opposite way (see below).
 
 ---
 
@@ -43,45 +42,48 @@ The mechanism points the opposite way, so this prediction is most likely a knowl
 
 | Item | Content |
 |------|------|
-| Original Indication | Excessive daytime sleepiness in narcolepsy (per the literature; the US label text was not provided) |
+| Original Indication | Narcolepsy (the US licence record lists no indication text; this is taken from the knowledge-graph indications) |
 | Predicted New Indication | Insomnia |
 | TxGNN Prediction Score | 99.71% |
 | Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 2 (both entries are the same NDA211150) |
+| US Market Status | Cancelled only |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Pitolisant is a selective histamine H3 receptor inverse agonist. Blocking H3 autoreceptors increases histamine release in the brain and promotes wakefulness. The provided data do not include a formal mechanism-of-action entry, but the literature consistently describes this mechanism.
+Detailed mechanism-of-action data was not available in the data compiled for this report. From the literature, pitolisant is a selective histamine H3 receptor antagonist/inverse agonist. It increases histaminergic neurotransmission in the brain and promotes wakefulness, which is why it is used for excessive daytime sleepiness in narcolepsy.
 
-The original use is to reduce excessive sleepiness in narcolepsy. Insomnia is the reverse problem: too little sleep, not too much. A wake-promoting drug should not be expected to treat it, and insomnia is a known adverse effect of pitolisant. The high TxGNN score most likely reflects a knowledge-graph link between sleep-wake disorders in general, not a therapeutic relationship.
+This is where the prediction becomes doubtful. Insomnia treatment aims to promote sleep, whereas pitolisant promotes wakefulness. Blocking H3 receptors could plausibly worsen insomnia, and insomnia is a known adverse effect of the drug. The high TxGNN score (0.997) most likely reflects a graph-based association between pitolisant and sleep-wake disorders in general, rather than a true therapeutic signal.
 
-All supporting literature concerns excessive daytime sleepiness (narcolepsy, obstructive sleep apnea), not insomnia. The one listed clinical trial was withdrawn and targets alcohol use disorder. The evidence is indirect and mechanistically contradictory.
+The available literature concerns narcolepsy and residual daytime sleepiness in obstructive sleep apnoea, not insomnia treatment. The prediction should therefore be regarded as a likely false positive until shown otherwise.
 
 ---
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT02800083](https://clinicaltrials.gov/study/NCT02800083) | Phase 2 | Withdrawn | 0 | Placebo-controlled trial of pitolisant in alcohol use disorder (primary endpoint: heavy drinking days). Withdrawn with no participants, so no efficacy or safety data exist. Not an insomnia trial. |
+Currently no related clinical trials registered.
 
 ---
 
 ## Literature Evidence
 
+None of these publications studies pitolisant as a treatment for insomnia. They are listed because they are the closest available sleep-medicine evidence.
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [36931805](https://pubmed.ncbi.nlm.nih.gov/36931805/) | 2023 | RCT | Lancet Neurol | Phase 3 trial of pitolisant in children aged 6 or older with narcolepsy, with or without cataplexy. Indirect to insomnia. |
-| [33121980](https://pubmed.ncbi.nlm.nih.gov/33121980/) | 2021 | RCT | Chest | Pitolisant for residual excessive daytime sleepiness in OSA patients adhering to CPAP. Indirect to insomnia. |
-| [31917607](https://pubmed.ncbi.nlm.nih.gov/31917607/) | 2020 | RCT | Am J Respir Crit Care Med | Pitolisant for daytime sleepiness in OSA patients who refuse CPAP. Indirect to insomnia. |
-| [36169322](https://pubmed.ncbi.nlm.nih.gov/36169322/) | 2022 | Cohort | Rev Neurol | Real-life study of pitolisant in type 1 narcolepsy patients unresponsive to prior treatments. Indirect to insomnia. |
-| [34521328](https://pubmed.ncbi.nlm.nih.gov/34521328/) | 2022 | Review | Curr Neuropharmacol | Histaminergic changes in neuropsychiatric disorders. Notes pitolisant for sleepiness in narcolepsy and the H1 antagonist doxepin for insomnia. |
-| [34225942](https://pubmed.ncbi.nlm.nih.gov/34225942/) | 2021 | Review | Handb Clin Neurol | Overview of histamine receptors, agonists and antagonists in health and disease. |
-| [30214155](https://pubmed.ncbi.nlm.nih.gov/30214155/) | 2018 | Review | Drug Des Devel Ther | Profile of pitolisant in narcolepsy: design, development and place in therapy. |
+| [36931805](https://pubmed.ncbi.nlm.nih.gov/36931805/) | 2023 | RCT (Phase 3) | The Lancet. Neurology | Double-blind, placebo-controlled trial of safety and efficacy in children aged 6 years or older with narcolepsy, with or without cataplexy |
+| [33121980](https://pubmed.ncbi.nlm.nih.gov/33121980/) | 2021 | RCT | Chest | Residual excessive daytime sleepiness in OSA patients adhering to CPAP (not insomnia) |
+| [31917607](https://pubmed.ncbi.nlm.nih.gov/31917607/) | 2020 | RCT | Am J Respir Crit Care Med | Daytime sleepiness in OSA patients who refuse CPAP (not insomnia) |
+| [36169322](https://pubmed.ncbi.nlm.nih.gov/36169322/) | 2022 | Real-world study | Revista de Neurologia | Effectiveness and safety in type 1 narcolepsy patients unresponsive to or intolerant of previous treatments |
+| [41588264](https://pubmed.ncbi.nlm.nih.gov/41588264/) | 2026 | Real-world study | Neurological Sciences | Retrospective study of 40 Chinese paediatric narcolepsy patients treated with pitolisant |
+| [30214155](https://pubmed.ncbi.nlm.nih.gov/30214155/) | 2018 | Review | Drug Des Devel Ther | Profile of pitolisant in narcolepsy: design, development and place in therapy |
+| [34521328](https://pubmed.ncbi.nlm.nih.gov/34521328/) | 2022 | Review | Current Neuropharmacology | Histaminergic changes in neuropsychiatric disorders; mentions pitolisant for narcolepsy sleepiness and doxepin (an H1 antagonist) for insomnia |
+| [34225942](https://pubmed.ncbi.nlm.nih.gov/34225942/) | 2021 | Review | Handbook of Clinical Neurology | Histamine receptors, agonists and antagonists in health and disease |
+| [42525367](https://pubmed.ncbi.nlm.nih.gov/42525367/) | 2026 | Review | Neurology and Therapy | Current and emerging therapies for paediatric sleep disorders |
+| [22356925](https://pubmed.ncbi.nlm.nih.gov/22356925/) | 2012 | Review | Clinical Neuropharmacology | Pitolisant as an alternative stimulant for narcolepsy-cataplexy in teenagers with refractory sleepiness |
 
 ---
 
@@ -89,18 +91,16 @@ All supporting literature concerns excessive daytime sleepiness (narcolepsy, obs
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA211150 | Wakix (Harmony Biosciences, LLC) | Film-coated tablet (oral) | Indication text not provided in the data |
-
-The data list this NDA twice with identical details; it is shown once here.
+| NDA211150 (cancelled) | Wakix (Harmony Biosciences, LLC) | Film-coated tablet (oral) | Not listed in the licence record |
 
 ---
 
 ## Safety Considerations
 
-- **Known adverse effect relevant to this prediction**: Insomnia is a recognized adverse effect of pitolisant, so treating insomnia with it would work against its own safety profile.
-- **Drug Interactions**: No interaction records were found in the queried data.
+- **Drug Interactions**: 100 interactions were identified in total. Two of the 20 shown are rated **Major**: **bupropion** and **dolasetron**. The others shown are rated Moderate, including famotidine, hydrocortisone, metformin, loperamide, triamcinolone, morphine, acetylsalicylic acid, dexamethasone, betamethasone, bisacodyl, budesonide, cimetidine, clarithromycin, picosulfuric acid, polyethylene glycol (3350 with electrolytes), eliglustat, empagliflozin and methylnaltrexone.
+- **Adverse effect relevant to this prediction**: insomnia is a known adverse effect of pitolisant (noted in the literature review).
 
-Please refer to the package insert for full safety information, including warnings and contraindications.
+Please refer to the package insert for warnings and contraindications.
 
 ---
 
@@ -109,20 +109,23 @@ Please refer to the package insert for full safety information, including warnin
 **Decision: Hold**
 
 **Rationale:**
-The predicted benefit in insomnia contradicts pitolisant's wake-promoting mechanism, and insomnia is a known adverse effect. The only linked trial was withdrawn and was not in insomnia, and the supporting literature addresses daytime sleepiness rather than insomnia.
-
-**Other predictions in this pack (for context):**
-- **Attention deficit-hyperactivity disorder** (score 99.36%, L4): plausible through H3-mediated increases in dopamine, acetylcholine and norepinephrine, but supported only by reviews and preclinical discussion, with no clinical trial or human efficacy data. This is a research question, not a clinical recommendation.
-- **Faciodigitogenital syndrome** (score 99.29%, L5): no mechanistic rationale, trials or literature. Hold.
+The prediction is supported only by a model score. There are no clinical trials and no insomnia-specific literature. The wake-promoting mechanism runs opposite to what insomnia treatment requires, and insomnia is a recognised side effect of the drug. The evidence level is L4.
 
 **To proceed, the following is needed:**
-- The US package insert (warnings, contraindications and approved indication text) to complete safety screening
-- A formal mechanism-of-action entry (e.g., from DrugBank)
-- Any direct clinical evidence of pitolisant in insomnia. If none exists, deprioritize this indication.
+- A clear mechanistic rationale showing why H3 inverse agonism could help insomnia, or confirmation that the prediction is an artefact of the knowledge graph
+- Any preclinical or clinical data on pitolisant in insomnia populations
+- The FDA package insert warnings and contraindications, to complete safety screening
+- Detailed mechanism-of-action data from DrugBank
+- Clarification of why the US Wakix licence (NDA211150) is recorded as cancelled
 
 ---
 
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+## Other Predicted Indications (for reference)
+
+| Rank | Indication | TxGNN Score | Evidence Level | Decision | Comment |
+|------|------|------|------|------|------|
+| 2 | Attention deficit-hyperactivity disorder | 99.36% | L4 | Research Question | H3 antagonism increases histamine, acetylcholine, dopamine and norepinephrine release in cortical circuits, which gives a plausible basis for effects on attention. No ADHD-specific trials exist, and the literature is review-level. A dedicated proof-of-concept trial would be needed, with attention to insomnia, anxiety and QT considerations. |
+| 3 | Faciodigitogenital syndrome (Aarskog-Scott syndrome) | 99.29% | L5 | Hold | No plausible mechanistic link, no trials and no literature. This is a computational prediction only. |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

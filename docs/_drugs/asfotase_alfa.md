@@ -29,87 +29,67 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Asfotase Alfa: From Hypophosphatasia to Mitochondrial Oxidative Phosphorylation Disorder due to Nuclear DNA Anomalies
+# Asfotase Alfa: From Hypophosphatasia to Mitochondrial Oxidative Phosphorylation Disorder Due to Nuclear DNA Anomalies
 
 ## One-Sentence Summary
 
-Asfotase alfa is a bone-targeted recombinant enzyme, marketed in the US as STRENSIQ, and used for hypophosphatasia (the Evidence Pack lists no indication text, so this comes from general knowledge).
-The TxGNN model predicts it may be effective for **mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies**, but there are **0 clinical trials** and **0 publications** supporting this direction.
-The high score is a graph-based prediction only, and no plausible mechanism has been identified.
-
----
+Asfotase alfa is a recombinant enzyme replacement therapy, originally used to treat hypophosphatasia.
+The TxGNN model predicts it may be effective for **mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies**,
+but currently **0 clinical trials** and **0 publications** support this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypophosphatasia (not listed in the Evidence Pack; based on general knowledge) |
+| Original Indication | Hypophosphatasia |
 | Predicted New Indication | Mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies |
 | TxGNN Prediction Score | 99.95% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 4 records (all under BLA125513) |
+| US Market Status | Cancelled only (the only listed authorization is cancelled) |
+| Number of NDAs | 1 (BLA 125513) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the input. Asfotase alfa is a recombinant tissue-nonspecific alkaline phosphatase with a bone-targeting domain. It hydrolyzes inorganic pyrophosphate and pyridoxal-5'-phosphate, which supports bone mineralization in hypophosphatasia.
+Detailed mechanism of action data is not currently available in the data compiled for this report. From general knowledge, asfotase alfa is a recombinant tissue-nonspecific alkaline phosphatase (TNSALP). It hydrolyzes extracellular substrates such as inorganic pyrophosphate and pyridoxal 5'-phosphate, which is how it supports bone mineralization in hypophosphatasia.
 
-The predicted indication is a disorder of nuclear-encoded respiratory chain components and OXPHOS assembly. Asfotase alfa does not act on these pathways, so **no plausible mechanistic link was identified**. The score of 0.9995 most likely reflects knowledge-graph topology, not biology.
+A mechanistic link to the predicted indication is not apparent. Mitochondrial oxidative phosphorylation disorders arise from defects in intracellular energy metabolism, whereas asfotase alfa acts on extracellular substrates. The very high TxGNN score (99.95%) is a graph-based prediction only and is not supported by trial or literature evidence.
 
-The other nine predictions in the top 10 are also weak, and all are L5 with a Hold recommendation:
-- **Steel syndrome:** a collagen matrix defect, unrelated to pyrophosphate-mediated mineralization.
-- **Exocrine pancreatic insufficiency:** requires digestive enzymes delivered to the gut lumen, whereas asfotase alfa is given systemically.
-- **Scheie syndrome, Hurler syndrome, lysosomal storage disease with skeletal involvement:** the overlap is limited to the enzyme-replacement modality and skeletal involvement, and asfotase alfa does not supply the missing lysosomal enzymes.
-- **Familial apolipoprotein C-II deficiency:** no role in lipid metabolism; likely a graph artifact.
-- **Esophageal varices with and without bleeding:** identical scores suggest a duplicate signal, and there is no vascular mechanism.
-- **Cystinosis:** no effect on cystine transport or clearance.
-
----
+The other top-ranked predictions show the same pattern. Steel syndrome, exocrine pancreatic insufficiency, Scheie syndrome, Hurler syndrome, lysosomal storage disease with skeletal involvement, familial apolipoprotein C-II deficiency, esophageal varices (with and without bleeding) and cystinosis all lack clinical or literature support. Their links to asfotase alfa are at most generic, such as a shared enzyme-replacement modality or a skeletal phenotype. Steel syndrome has a loose conceptual connection to skeletal biology, but its underlying defect (collagen type XXVII) is unrelated to the TNSALP pathway. For several of these conditions, established therapies already exist, such as laronidase for MPS I and cysteamine for cystinosis.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA125513 | STRENSIQ | Solution | Alexion Pharmaceuticals, Inc. |
-
-The Evidence Pack contains four identical records for this authorization, shown here once. Approved indication text was not supplied.
-
----
+| BLA 125513 (cancelled) | STRENSIQ (Alexion Pharmaceuticals, Inc.) | Solution | Not listed in the compiled data |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug-interaction records were found for this drug.
+Please refer to the package insert for safety information.
 
----
+No drug-drug interaction records were found, and no disease contraindications were identified from the knowledge graph.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trials, no literature, and no plausible mechanistic link, so it rests on the model score alone (evidence level L5). Asfotase alfa's mechanism (pyrophosphate and PLP hydrolysis for bone mineralization) does not intersect with mitochondrial OXPHOS pathways.
+The prediction has no supporting clinical trials or literature (evidence level L5), and no plausible mechanistic link between TNSALP replacement and mitochondrial oxidative phosphorylation defects. In addition, the only US authorization is listed as cancelled, and safety label data is missing.
 
 **To proceed, the following is needed:**
-- Mechanistic or preclinical data (for example, cell or animal models) showing any effect on mitochondrial function
-- Package insert warnings and contraindications, which are needed before any safety screening
-- Detailed mechanism of action data from DrugBank
-- Approved indication text for the US licenses
-- Route and dosing compatibility assessment, currently pending
+- Package insert warnings and contraindications, which are required before any safety screening
+- Mechanism of action data to allow a proper mechanistic-link analysis
+- Preclinical or mechanistic studies testing whether TNSALP activity is relevant to mitochondrial disease
+- Confirmation of the current US regulatory and supply status for STRENSIQ
+- Evaluation of route and formulation compatibility for the new indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

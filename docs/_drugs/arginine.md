@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Arginine
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 396
-evidence_level: L5
+evidence_level: L4
 indication_count: 1
 ---
 
 # Arginine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **1** 
+Evidence Level: **L4** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,90 +29,95 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Arginine: Repurposing Prediction for Gastroparesis
+# Arginine: From Unspecified Original Indication to Gastroparesis
 
 ## One-Sentence Summary
 
-Arginine is a marketed amino-acid drug, and the Evidence Pack does not list an approved original indication for it.
-The TxGNN model predicts it may be effective for **gastroparesis**, but the support is so far only **1 registered trial (not relevant to arginine)** and **9 publications, all preclinical or a single case report**.
+Arginine is an amino acid that has been marketed in the US in injectable, liquid and other forms, but the data compiled for this report do not list a specific approved indication.
+The TxGNN model predicts it may be effective for **gastroparesis**,
+but there are currently **0 clinical trials** and only **9 publications**, all preclinical studies or a case report, supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Not specified in the available data |
 | Predicted New Indication | Gastroparesis |
 | TxGNN Prediction Score | 99.42% |
-| Evidence Level | L4 (preclinical and mechanistic studies only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 8 |
+| Evidence Level | L4 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 3 (all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the Evidence Pack. The rationale below comes from the mechanistic link in the prediction record.
+Detailed mechanism of action data for arginine are not currently available in the data compiled for this report. The following reasoning is based on the mechanistic link identified for this prediction.
 
-Arginine is the substrate of neuronal nitric oxide synthase (nNOS), which makes nitric oxide. Nitrergic signaling helps the stomach relax to accept food (gastric accommodation) and helps the pyloric sphincter open. Loss or dysfunction of nitrergic neurons is a recognized feature of diabetic gastroparesis. If the nitrergic pathway is short of substrate, giving arginine could in principle support it.
+Arginine is the substrate of nitric oxide synthase (nNOS) in enteric nitrergic neurons. Nitric oxide helps the stomach relax to accommodate food (gastric accommodation) and relaxes the pyloric sphincter so that food can pass out of the stomach. Impaired nitrergic signaling is a recognized contributor to gastroparesis.
 
-Preclinical papers point in this direction:
-- Glucocorticoid-induced gastroparesis in mice was linked to depletion of L-arginine (PMID 25057793).
-- Deficiency of BH4, the nNOS cofactor, caused gastroparesis in newborn mice (PMID 23639814).
-- Impaired nitrergic pyloric relaxation was reported in a rat Parkinson's model (PMID 35380456).
+Preclinical work supports this idea. In mice, glucocorticoid-induced gastroparesis was linked to depletion of L-arginine (PMID 25057793). Rodent studies of the pylorus in a Parkinson's disease model (PMID 35380456) and of myenteric neuropathy in diabetic rats (PMID 18312542) also point to the importance of the nitric oxide pathway in gastric motility disorders.
 
-All of this evidence comes from animals and is indirect. No human interventional data for arginine in gastroparesis were provided. The high TxGNN score therefore rests on knowledge-graph prediction plus mechanistic plausibility, not on clinical confirmation.
+However, no human clinical trial data exist. The high TxGNN score is a computational prediction that has not been validated clinically.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT01702051](https://clinicaltrials.gov/study/NCT01702051) | N/A | Unknown | 150 | Observational study of autologous pancreatic islet transplantation for glycaemic control after pancreatectomy. It does not test arginine or target gastroparesis, so it gives no direct or supportive evidence (relevance grade C). |
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-No randomized trials or reviews were found. All entries are preclinical studies unless noted.
+All publications below are preclinical studies or a case report; none is a human clinical trial. Several focus on gastric motility in general rather than on arginine itself.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [25057793](https://pubmed.ncbi.nlm.nih.gov/25057793/) | 2014 | Preclinical (mouse) | Endocrinology | Oral dexamethasone caused gastroparesis and stomach enlargement in mice. The effect was tied to depletion of L-arginine and depended on the glucocorticoid receptor. |
-| [23639814](https://pubmed.ncbi.nlm.nih.gov/23639814/) | 2013 | Preclinical (mouse) | Am J Physiol Gastrointest Liver Physiol | BH4 (nNOS cofactor) deficiency in newborn mice was associated with gastroparesis and abnormal gastric emptying. |
-| [35380456](https://pubmed.ncbi.nlm.nih.gov/35380456/) | 2022 | Preclinical (rat) | Am J Physiol Gastrointest Liver Physiol | In a 6-OHDA Parkinson's rat model with gastroparesis, nitrergic relaxation of the pyloric sphincter was impaired. |
-| [18312542](https://pubmed.ncbi.nlm.nih.gov/18312542/) | 2008 | Preclinical (rat) | Neurogastroenterol Motil | Decreased nNOS expression and function is proposed as a mechanism of diabetic gastroparesis. Studied in the jejunum of diabetic BB-rats. |
-| [19023028](https://pubmed.ncbi.nlm.nih.gov/19023028/) | 2009 | Preclinical (dog) | Am J Physiol Gastrointest Liver Physiol | Synchronized gastric electrical stimulation improved vagotomy-induced impaired gastric accommodation via the nitrergic pathway. |
-| [21193530](https://pubmed.ncbi.nlm.nih.gov/21193530/) | 2011 | Preclinical (rodent) | Am J Physiol Gastrointest Liver Physiol | Hyperglycemia inhibits gastric motility through KATP channels in vagal nodose ganglia. |
-| [18322959](https://pubmed.ncbi.nlm.nih.gov/18322959/) | 2008 | Preclinical (mouse) | World J Gastroenterol | Studied ghrelin and GHRP-6 as gastric motility therapies in diabetic mice with gastroparesis. Arginine was not tested. |
-| [31984783](https://pubmed.ncbi.nlm.nih.gov/31984783/) | 2020 | Preclinical (rat) | Am J Physiol Gastrointest Liver Physiol | Sacral nerve stimulation increased gastric accommodation through spinal afferent and vagal efferent pathways. Arginine was not tested. |
-| [33867519](https://pubmed.ncbi.nlm.nih.gov/33867519/) | 2021 | Case report | Am J Case Rep | Lifestyle changes normalized serum lactate in an m.3243A>G (MELAS) carrier. Little direct relevance to arginine in gastroparesis. |
+| [25057793](https://pubmed.ncbi.nlm.nih.gov/25057793/) | 2014 | Preclinical (mouse) | Endocrinology | Dexamethasone caused stomach enlargement and gastroparesis in mice; the effect was linked to depletion of L-arginine and absent in mice with a mutated glucocorticoid receptor |
+| [35380456](https://pubmed.ncbi.nlm.nih.gov/35380456/) | 2022 | Preclinical (rat) | Am J Physiol Gastrointest Liver Physiol | Impaired nitrergic relaxation of the pyloric sphincter in a Parkinson's disease rat model with gastroparesis |
+| [18312542](https://pubmed.ncbi.nlm.nih.gov/18312542/) | 2008 | Preclinical (rat) | Neurogastroenterol Motil | Myenteric neuropathy and nNOS changes in the jejunum of diabetic BB-rats; decreased nNOS proposed as a mechanism of diabetic gastroparesis |
+| [19023028](https://pubmed.ncbi.nlm.nih.gov/19023028/) | 2009 | Preclinical (animal) | Am J Physiol Gastrointest Liver Physiol | Synchronized gastric electrical stimulation improved vagotomy-induced impairment of gastric accommodation via the nitrergic pathway in dogs |
+| [31984783](https://pubmed.ncbi.nlm.nih.gov/31984783/) | 2020 | Preclinical (rat) | Am J Physiol Gastrointest Liver Physiol | Sacral nerve stimulation increased gastric accommodation in rats |
+| [21193530](https://pubmed.ncbi.nlm.nih.gov/21193530/) | 2011 | Preclinical (rat) | Am J Physiol Gastrointest Liver Physiol | Hyperglycemia inhibited gastric motility through nodose ganglia KATP channels |
+| [18322959](https://pubmed.ncbi.nlm.nih.gov/18322959/) | 2008 | Preclinical (mouse) | World J Gastroenterol | Gastric motor effects of ghrelin and GHRP-6 in diabetic mice with gastroparesis |
+| [8194696](https://pubmed.ncbi.nlm.nih.gov/8194696/) | 1994 | Preclinical (rat) | Gastroenterology | Food protein-induced anaphylaxis delayed gastric emptying in sensitized rats |
+| [33867519](https://pubmed.ncbi.nlm.nih.gov/33867519/) | 2021 | Case report | Am J Case Rep | Lifestyle changes normalized serum lactate in an m.3243A>G mitochondrial variant carrier; indirect relevance to gastroparesis |
 
 ## US Market Information
 
-The Evidence Pack contains no approved-indication text for any of these products. Two entries list the product Velsipity (NDA216956), and two list no NDA number.
+All three US authorizations are cancelled, and no approved indication text is available for them.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA216956 | Velsipity | Film-coated tablet | U.S. Pharmaceuticals |
-| NDA216956 | Velsipity | Film-coated tablet | Pfizer Laboratories Div Pfizer Inc |
-| NDA016931 | R-Gene | Solution for injection | Pharmacia & Upjohn Company LLC |
-| No NDA number listed | L-Arginine High | Liquid | Professional Complementary Health Formulas |
-| No NDA number listed | L-Arginine | Liquid | Professional Complementary Health Formulas |
+| NDA016931 | R-Gene | Injection, solution | Not specified |
+| NDA216956 | Velsipity | Tablet, film coated | Not specified |
+| Not available | L-Arginine High | Liquid | Not specified |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Package insert warnings and contraindications are not available in the data compiled for this report, and no drug interaction records were found. Please refer to the package insert for safety information.
+
+The TxGNN knowledge graph (not label text) links arginine to the following conditions as potential contraindications, which should be verified against the official label:
+
+- **Kidney conditions**: kidney disease, chronic kidney disease, chronic renal failure, end stage renal failure, nephrolithiasis, nephrocalcinosis, acute urate nephropathy
+- **Calcium and parathyroid disorders**: hypercalcemia, humoral hypercalcemia of malignancy, hyperparathyroidism, osteitis fibrosa, sarcoidosis, lytic metastatic bone lesions
+- **Acid-base and metabolic disorders**: metabolic acidosis, renal tubular acidosis, acidosis disorder, phosphorus metabolism disease, phenylketonuria and other disorders of phenylalanine metabolism
+- **Cardiovascular conditions**: heart disease, cardiovascular disease, digitalis poisoning, ventricular fibrillation
+- **Blood disorders**: sickle cell anemia, hereditary persistence of fetal hemoglobin
+- **Gastrointestinal**: constipation disorder
+
+Several of these are relevant to the target population, since gastroparesis is often accompanied by diabetes, which may be associated with kidney and cardiovascular disease.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high (99.42%), but the evidence is preclinical only (L4, stage S0). The one registered trial does not test arginine, and no human data exist for gastroparesis. Package-insert safety data are also missing, which blocks safety screening.
+The prediction is mechanistically plausible, because arginine is the substrate for nitric oxide production involved in gastric motility. However, the evidence is limited to animal studies and a case report (Evidence Level L4), there are no registered clinical trials, no approved indication is on record, all US licenses are cancelled, and package insert safety data are missing.
 
 **To proceed, the following is needed:**
-- Package-insert warnings and contraindications, to complete safety screening.
-- Mechanism-of-action data for arginine from DrugBank.
-- Approved-indication information for the listed US products.
-- Human evidence, such as pilot or exploratory clinical studies of arginine or nitric-oxide pathway modulation in gastroparesis.
-- A route-compatibility assessment (oral, injectable or other), which is still pending.
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism of action data (for example from DrugBank)
+- Evidence that arginine supplementation, not just arginine depletion, improves gastric emptying in animal models and humans
+- Assessment of the knowledge-graph contraindications, particularly kidney and cardiovascular disease, in the gastroparesis population
+- Evaluation of route compatibility (oral versus injectable) and the dose needed for the new indication
+- A proof-of-concept clinical study design if preclinical evidence is strengthened
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

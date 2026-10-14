@@ -29,13 +29,12 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ruxolitinib: From Myeloproliferative Neoplasms to Uterine Corpus Perivascular Epithelioid Cell Tumor (PEComa)
+# Ruxolitinib: From Myelofibrosis to Uterine Corpus Perivascular Epithelioid Cell Tumor
 
 ## One-Sentence Summary
 
-Ruxolitinib is an oral JAK1/2 inhibitor marketed in the US as Jakafi (tablet) and Opzelura (topical cream).
-The TxGNN model predicts it may be effective for **uterine corpus perivascular epithelioid cell tumor**, with a very high score (99.73%).
-However, this prediction has **0 clinical trials** and **0 publications** behind it, so it is a model prediction only.
+Ruxolitinib is a JAK inhibitor originally used for myeloproliferative neoplasms such as myelofibrosis and polycythemia vera.
+The TxGNN model predicts it may be effective for **uterine corpus perivascular epithelioid cell tumor (PEComa)**, but there are currently **0 clinical trials** and **0 publications** supporting this prediction. It is a model-only signal.
 
 ---
 
@@ -43,21 +42,21 @@ However, this prediction has **0 clinical trials** and **0 publications** behind
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the Evidence Pack (all approved-indication fields are empty) |
+| Original Indication | Myelofibrosis / polycythemia vera / myeloproliferative neoplasm (from the knowledge-graph indication list; the US license records contain no indication text) |
 | Predicted New Indication | Uterine corpus perivascular epithelioid cell tumor |
 | TxGNN Prediction Score | 99.73% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 7 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 3 |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the Evidence Pack. Based on general knowledge, ruxolitinib inhibits JAK1 and JAK2 and thereby blocks JAK-STAT signaling downstream of cytokines such as IFN-γ and IL-6. It is marketed as both an oral tablet and a topical cream.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Ruxolitinib is a Janus kinase (JAK) inhibitor. Its efficacy in myeloproliferative neoplasms is established, and mechanistically it may be applicable to diseases driven by JAK/STAT signaling.
 
-The link to the predicted indication is weak. PEComa is driven mainly by loss of TSC1/TSC2 and hyperactivation of mTOR, not by JAK-STAT signaling. No direct JAK1/2 rationale is documented in the provided data. The high TxGNN score probably reflects proximity in the knowledge graph to related diseases rather than a validated mechanism.
+For this specific prediction, the supporting rationale is weak. JAK/STAT signaling is a plausible link, but nothing in the compiled data supports it for this tumor. PEComa biology is mainly driven by dysregulation of the mTOR pathway (TSC1/TSC2), which differs from the JAK/STAT axis targeted by ruxolitinib. The high TxGNN score therefore reflects a network-level association rather than a demonstrated biological or clinical link.
 
 ---
 
@@ -75,32 +74,34 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form |
-|---------|------|------|
-| NDA215309 | OPZELURA (Incyte Corporation) | Cream (topical) |
-| NDA202192 | JAKAFI (Incyte Corporation) | Tablet (oral) |
-
-NDA202192 appears in 4 of the 5 records provided. Approved-indication text is empty for all of them.
+| Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
+|---------|------|------|------|------|
+| NDA215309 | OPZELURA | Cream | Incyte Corporation | Cancelled |
+| NDA202192 | JAKAFI | Tablet | Incyte Corporation | Cancelled |
+| NDA217900 | LEQSELVI | Tablet, film coated | Sun Pharmaceutical Industries, Inc. | Cancelled |
 
 ---
 
 ## Cytotoxicity
 
-Ruxolitinib is a targeted kinase inhibitor, not a conventional cytotoxic chemotherapy. The Evidence Pack has no toxicity data, so only general points are given here.
-
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (JAK1/2 inhibitor) |
-| Myelosuppression Risk | Cytopenias (thrombocytopenia, anemia, neutropenia) are a recognized class of effect; please refer to the package insert warnings and precautions |
+| Cytotoxicity Classification | Targeted therapy (JAK inhibitor), not a conventional cytotoxic agent |
+| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | CBC with differential; other items per package insert |
+| Monitoring Items | Please refer to the package insert warnings and precautions |
 | Handling Protection | Please refer to the package insert warnings and precautions |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+No warning or contraindication data (label-based or knowledge-graph-based) were available for this report. Please refer to the package insert for these.
+
+- **Drug Interactions**: The interaction query returned 100 interactions in total, and 20 were available for review. Among those 20:
+  - **Major**: clarithromycin, cobicistat, deferasirox, deferiprone, ibritumomab tiuxetan, tositumomab (including I-131), samarium (153Sm) lexidronam
+  - **Moderate**: dexamethasone, rosuvastatin, dexfenfluramine, fenfluramine, sibutramine, troglitazone, palifermin, strontium chloride Sr-89
+  - **Minor**: aprepitant, cimetidine, miconazole, clotrimazole
 
 ---
 
@@ -109,18 +110,16 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no trials or literature behind it (L5). The disease is mTOR/TSC-driven and no JAK-STAT rationale is documented, so the high model score should not be read as clinical support.
+The prediction for uterine corpus PEComa rests on the model score alone (L5). There are no trials or publications, and the known biology of this tumor points to mTOR rather than JAK/STAT signaling. All three US licenses are also cancelled.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism-of-action data from DrugBank
-- Any preclinical evidence that JAK-STAT inhibition matters in PEComa
+- Any preclinical or clinical evidence linking JAK/STAT signaling to PEComa
+- Detailed mechanism of action data
+- The package insert warnings and contraindications, which were not available
+- A review of the full interaction list (only 20 of 100 interactions were available)
+- Confirmation of route and formulation compatibility with the target disease
 
-**Other predictions in the pack:** two candidates are much better supported than this one.
-- **Hemophagocytic syndrome associated with an infection** (rank 10, L3). It has multiple ruxolitinib clinical reports, mainly in EBV-associated HLH. There is also a Phase 1 trial (NCT07424222, not yet recruiting) of ruxolitinib for immune effector cell-associated HLH-like syndrome, and a Phase 3 trial that includes a ruxolitinib arm (NCT04424056, COVID-19-associated hyperinflammation). Most of the evidence is retrospective or case-level, and no completed randomized trial was found.
-- **Liposarcoma** (rank 5, L4). It has preclinical evidence that JAK-STAT signaling controls cancer stem cell properties and chemotherapy resistance in myxoid liposarcoma. It is still a research question only.
-
-If the goal is to advance a candidate, the infection-associated hemophagocytic syndrome prediction is the more promising one to pursue.
+**Note on other predictions:** Among the other predicted indications, hemophagocytic syndrome associated with an infection has far more support. It is graded L3 and has about 20 publications, including a pediatric stratified-treatment study, case series, and murine mechanism work. No registered trials were provided, and study designs were inferred from titles only, so they need verification. If the goal is to prioritize repurposing candidates, that indication is a better starting point than this one.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

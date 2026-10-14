@@ -33,62 +33,82 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Cysteamine is a cystine-depleting drug marketed in the US for cystinosis, sold as Cystagon, Procysbi and Cystaran.
+Cysteamine was originally used to treat cystinosis, including nephropathic cystinosis, by depleting cystine that builds up inside cells.
 The TxGNN model predicts it may be effective for **mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies**.
-There are currently **0 clinical trials** and **0 publications** supporting this specific prediction, so it rests on the model score alone.
+This prediction currently has **0 clinical trials** and **0 publications** behind it, so it rests on the model score alone.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Cystinosis (inferred from the marketed products, since the license records supplied no indication text) |
+| Original Indication | Cystinosis / nephropathic cystinosis (the approved-indication text in the data is blank, so this comes from the knowledge-graph indication records) |
 | Predicted New Indication | Mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies |
 | TxGNN Prediction Score | 99.93% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 9 |
+| US Market Status | Cancelled only (all listed NDAs are cancelled) |
+| Number of NDAs | 5 |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the record. Cysteamine is known to lower cystine inside lysosomes. Its efficacy in cystinosis is established, and mechanistically it may be applicable to mitochondrial disease.
+Detailed mechanism-of-action data are not available in the data compiled for this report. Based on known information, cysteamine is a thiol-containing, cystine-depleting agent. Its efficacy in cystinosis, a lysosomal cystine-storage disease, is established. Mechanistically, its thiol and antioxidant activity could relate to mitochondrial oxidative stress, which may be why the model links it to this indication.
 
-The only mechanistic link proposed is cysteamine's antioxidant and glutathione-supporting activity, which could matter in mitochondrial dysfunction. This is plausible but unverified. The supplied record contains no trials, papers or preclinical data testing it. The high score probably reflects shared network neighbors in the knowledge graph rather than direct evidence.
+This link is theoretical only. No trials, literature or other supporting data were found for cysteamine in mitochondrial oxidative phosphorylation disorders. The high score reflects the model's pattern matching in the knowledge graph, not demonstrated benefit. The relationship between the original and new indication has not been assessed.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
 Currently no related literature available.
 
+---
+
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA200740 | CYSTARAN | Solution | Leadiant Biosciences, Inc. |
-| NDA213491 | PROCYSBI | Delayed-release granule | Horizon Therapeutics USA, Inc. |
-| NDA020392 | Cystagon | Capsule | Mylan Pharmaceuticals Inc. |
+| NDA200740 | CYSTARAN | Solution | Not specified in the data (cancelled) |
+| NDA213491 | PROCYSBI | Granule, delayed release | Not specified in the data (cancelled) |
+| NDA020392 | Cystagon | Capsule | Not specified in the data (cancelled) |
+| NDA203389 | PROCYSBI | Capsule, delayed release pellets | Not specified in the data (cancelled) |
+| NDA211302 | CYSTADROPS | Solution | Not specified in the data (cancelled) |
+
+All five authorizations are single-ingredient products and all are recorded as cancelled. No valid authorization appears in the data compiled for this report.
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindications suggested by the knowledge graph (not label text):** epilepsy, anxiety disorder, neurotic disorder, dysthymic disorder, liver disease, gallbladder disease, leukopenia, skin disease, actinic keratosis, seborrheic keratosis, active peptic ulcer disease, bone fracture, pseudotumor cerebri, intracranial hypertension, and brain disease. These come from model-derived drug–disease edges and have not been verified against the package insert.
+
+Please refer to the package insert for authoritative safety information.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This prediction is supported only by the model score, with no trials, literature or established mechanism for mitochondrial disease. It does not justify further investment yet.
+The prediction has a very high model score but no clinical trials, no literature and no established mechanistic link (Evidence Level L5). All US authorizations are also cancelled. There is not enough support to advance this indication.
 
 **To proceed, the following is needed:**
-- A targeted literature search and preclinical evidence for cysteamine (or glutathione-related mechanisms) in nuclear-DNA-related mitochondrial disorders
-- Detailed mechanism of action data
-- Package insert warnings and contraindications, which are currently missing and block safety screening
-- Route and formulation compatibility assessment, which is still pending
+- Detailed mechanism-of-action data (MOA) from DrugBank
+- FDA package insert warnings and contraindications, which are needed before any safety screening
+- Preclinical or mechanistic studies of cysteamine in mitochondrial oxidative phosphorylation disorders
+- Confirmation of current US formulation availability
 
-**Note on other predictions for this drug:** The pack's stronger signals lie elsewhere. Ocular cystinosis (rank 3) has L1 evidence, including Phase 3 topical cysteamine data. However, it is effectively an established use rather than a new repurposing finding. Lysosomal amino acid transport disorders (rank 2) have only indirect support. Both are better evaluated as separate reports.
+**Note on other predictions:** Among the other predictions compiled for this drug, **ocular cystinosis** (score 99.84%) has the strongest support. It has three completed trials, including a Phase 2 trial with 328 participants, plus more than a dozen publications, giving Evidence Level L2. However, it is largely an extension of the original cystinosis indication to a topical eye formulation rather than true repurposing. If the goal is to find an actionable direction, that candidate deserves a separate evaluation.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

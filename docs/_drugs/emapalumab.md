@@ -29,32 +29,30 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Emapalumab: From Primary Hemophagocytic Lymphohistiocytosis to Autosomal Recessive Familial Mediterranean Fever
+# Emapalumab: From Hemophagocytic Lymphohistiocytosis to Autosomal Recessive Familial Mediterranean Fever
 
 ## One-Sentence Summary
 
-Emapalumab is an anti-interferon-γ (IFN-γ) monoclonal antibody, marketed in the US as GAMIFANT and established for primary hemophagocytic lymphohistiocytosis (HLH).
-The TxGNN model predicts it may be effective for **autosomal recessive familial Mediterranean fever (FMF)**, but this prediction has **0 clinical trials** and **0 publications** behind it, so it is a model output only.
+Emapalumab is an interferon-gamma (IFN-γ)-neutralizing antibody, originally used for hemophagocytic lymphohistiocytosis (HLH).
+The TxGNN model predicts it may be effective for **autosomal recessive familial Mediterranean fever (FMF)**, but **no clinical trials and no publications** currently support this specific prediction, so it rests on the computational score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Primary HLH (inferred from the mechanistic notes; the license records contain no indication text) |
+| Original Indication | Hemophagocytic lymphohistiocytosis / hemophagocytic syndrome |
 | Predicted New Indication | Autosomal recessive familial Mediterranean fever |
 | TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 7 (all under BLA761107) |
+| US Market Status | Cancelled only (per the data compiled for this report) |
+| Number of NDAs | 1 (a BLA, BLA761107) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the structured record. Emapalumab is a fully human antibody that neutralizes IFN-γ, the central cytokine driving the hyperinflammation in HLH.
+Emapalumab is a monoclonal antibody that neutralizes IFN-γ. Detailed mechanism-of-action data were not available in the compiled drug record, but this role is the basis of its use in HLH, a hyperinflammatory syndrome driven by excess IFN-γ.
 
-FMF is a different kind of disease. It is mainly driven by pyrin inflammasome activation and IL-1β, and it is treated with colchicine and IL-1 inhibitors. The mechanistic link to emapalumab is therefore weak. IFN-γ blockade could plausibly matter only in the rare FMF patients who develop macrophage activation syndrome (MAS) or HLH.
-
-The high TxGNN score most likely reflects proximity in the knowledge graph (both are autoinflammatory conditions). It does not reflect any observed clinical benefit.
+The link to FMF is weak. FMF is driven mainly by pyrin inflammasome activation and overproduction of IL-1β. Its established treatments (colchicine and IL-1 inhibitors) act on that pathway rather than on IFN-γ. One possible niche is macrophage activation syndrome complicating FMF, which does involve IFN-γ, but nothing in the data supports it. The high TxGNN score is therefore a computational signal, not a mechanistically or clinically validated one.
 
 ## Clinical Trial Evidence
 
@@ -66,29 +64,37 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA761107 | GAMIFANT | Injection | Swedish Orphan Biovitrum AB (publ) |
+| BLA761107 | GAMIFANT (Swedish Orphan Biovitrum AB) | Injection | — (no indication text in the data; the drug's original indication is HLH) |
 
-The record contains 7 license entries, all under this same BLA and product. It lists no approved-indication text.
+The only authorization is listed with a **cancelled** status. This should be verified against the current FDA record before any decision relies on it.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: 76 interactions were identified. The 20 reviewed are all rated Moderate. Notable groups include:
+  - Anticoagulants: warfarin, dicoumarol, apixaban, rivaroxaban
+  - Statins: simvastatin, atorvastatin
+  - Opioids: fentanyl, hydrocodone, benzhydrocodone
+  - Xanthines: theophylline, aminophylline, oxtriphylline
+  - Cardiovascular drugs: amiodarone, amlodipine, nifedipine
+  - Others: lidocaine, alprazolam, fosphenytoin, ethinylestradiol, norethisterone
+
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on the model score alone. FMF is driven by IL-1, not IFN-γ, and no trials or literature support it. There is no basis to advance it beyond the model output.
+The prediction has no supporting trials or literature, and IFN-γ blockade has only a loose connection to the IL-1-driven biology of FMF. Evidence is limited to a model score (L5), and the label safety data are not available for review.
 
 **To proceed, the following is needed:**
-- Evidence that IFN-γ blockade helps in FMF, restricted to FMF complicated by MAS/HLH (case reports or a registry review would be a start)
-- Mechanism-of-action data and package insert safety information
-- A comparison against standard FMF therapy (colchicine and IL-1 inhibitors)
+- Mechanistic or preclinical evidence linking IFN-γ to FMF, for example in macrophage activation syndrome complicating FMF
+- Detailed mechanism-of-action data and the FDA package insert warnings and contraindications
+- Confirmation of the current US regulatory and marketing status of GAMIFANT
 
-**Note on other predictions for this drug:** Among the 10 predicted indications, the best-supported is **hemophagocytic syndrome associated with an infection** (rank 3, L3, S2). It has one terminated Phase 2/3 trial (NCT03985423, 7 enrolled) and multiple case reports and small series, mostly in Epstein-Barr virus-associated HLH. Malignancy-associated HLH (rank 2) and X-linked lymphoproliferative disease (rank 6) are also mechanistically coherent, at L4. These are better candidates to evaluate first. Efficacy in infection-associated HLH is still not established.
+**Note on other predictions:** Among the other TxGNN predictions for this drug, **hemophagocytic syndrome associated with an infection** has the most supporting material (score 99.99%, L4, "Research Question"). It has about 20 publications, including case series on EBV-associated HLH, reviews, and the pivotal primary HLH study (PMID 32374962), but no registered trials. **Malignancy-associated HLH** is also supported indirectly by a 2026 real-world study (PMID 41337692, REAL-HLH). Both are biologically closer to the original HLH indication, and either would be a stronger candidate than FMF for further evaluation.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

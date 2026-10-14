@@ -29,99 +29,88 @@ Evidence Level: **L4** | Predicted Indications: **1**
 
 </div>
 
-# Nilotinib: From Chronic Myeloid Leukemia to Dermatofibrosarcoma Protuberans
+# Nilotinib: From BCR-ABL1-Positive Chronic Myelogenous Leukemia to Dermatofibrosarcoma Protuberans
 
 ## One-Sentence Summary
 
-Nilotinib is an oral tyrosine kinase inhibitor that targets BCR-ABL, KIT and PDGFR. It is generally known as a treatment for chronic myeloid leukemia, although the license records in this Evidence Pack do not list an indication.
-The TxGNN model predicts it may be effective for **dermatofibrosarcoma protuberans (DFSP)**, with **0 clinical trials** and **1 publication** (a review) currently supporting this direction.
-This is a mechanism-based model prediction, not clinical proof.
-
----
+Nilotinib is a tyrosine kinase inhibitor originally used to treat BCR-ABL1-positive chronic myelogenous leukemia.
+The TxGNN model predicts it may be effective for **dermatofibrosarcoma protuberans (DFSP)**,
+but currently there are **0 registered clinical trials** and **1 publication** (a review) supporting this direction, so the evidence is still at the hypothesis stage.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the license records; generally known as chronic myeloid leukemia (background knowledge, not from the Evidence Pack) |
+| Original Indication | Chronic myelogenous leukemia, BCR-ABL1 positive |
 | Predicted New Indication | Dermatofibrosarcoma protuberans |
 | TxGNN Prediction Score | 99.31% |
 | Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (total license records, including generic ANDAs) |
+| US Market Status | Cancelled only (all listed authorizations are cancelled) |
+| Number of NDAs | 8 (authorizations of all types, including NDAs and ANDAs) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data for nilotinib is not available in the input data. Based on known information, nilotinib is a kinase inhibitor that acts on PDGFR, BCR-ABL and KIT, so it may be mechanistically applicable to DFSP.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge of nilotinib's kinase profile, it is a BCR-ABL tyrosine kinase inhibitor that also inhibits PDGFR and KIT.
 
-Most DFSP tumors carry a COL1A1-PDGFB fusion, which drives constitutive PDGFRB signaling. Because nilotinib inhibits PDGFR, blocking this pathway is a plausible strategy. Imatinib is a related tyrosine kinase inhibitor and an established PDGFR-directed therapy for this disease, which supports a class-level rationale.
+DFSP is typically driven by the COL1A1-PDGFB fusion, which causes constitutive autocrine activation of PDGFRB. Because nilotinib inhibits PDGFR, it plausibly blocks this driver pathway. This is the same class rationale that supports imatinib, which is established in unresectable or metastatic DFSP. The high TxGNN score (0.993) is consistent with this shared-target logic.
 
-The high TxGNN score (99.31%) is consistent with this link. Drug-specific mechanistic detail could not be checked because the input data lacks the mechanism of action and original indications.
-
----
+Note that this link rests on general pharmacological knowledge rather than on mechanism data supplied for this report, and no clinical studies of nilotinib in DFSP were identified.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [29408302](https://pubmed.ncbi.nlm.nih.gov/29408302/) | 2018 | Review | Pharmacological Research | Reviews the role of small molecule PDGFR inhibitors in neoplastic disorders. It covers the PDGF growth factor family and receptor signaling as a therapeutic target. The abstract was truncated in the input, so DFSP- or nilotinib-specific findings could not be confirmed. |
-
----
+| [29408302](https://pubmed.ncbi.nlm.nih.gov/29408302/) | 2018 | Review | Pharmacological Research | Reviews small-molecule PDGFR inhibitors in neoplastic disorders, providing a general rationale for targeting the PDGFR pathway; it does not report nilotinib-specific DFSP data |
 
 ## US Market Information
 
-The license records contain no approved indication text. Dosage forms reported are oral capsule and oral tablet. The list below shows 4 unique authorizations; ANDA209651 appears twice in the data.
+All eight authorizations are listed as cancelled. Approved indication text was not available for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA218922 | Nilotinib | Capsule | Cipla USA Inc. |
-| ANDA209651 | Nilotinib | Capsule | Camber Pharmaceuticals, Inc. |
-| ANDA218544 | Nilotinib | Capsule | Novadoz Pharmaceuticals LLC |
-| ANDA218532 | Nilotinib | Capsule | Torrent Pharmaceuticals Limited |
-
----
+| NDA022068 | Tasigna (Novartis) | Capsule | Not available |
+| NDA219293 | DANZITEN (Azurity) | Tablet | Not available |
+| NDA218922 | Nilotinib (Cipla USA) | Capsule | Not available |
+| ANDA209651 | Nilotinib (Camber) | Capsule | Not available |
+| ANDA218544 | Nilotinib (Novadoz) | Capsule | Not available |
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
 | Cytotoxicity Classification | Targeted therapy (tyrosine kinase inhibitor) |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
+| Myelosuppression Risk | Please refer to the package insert warnings and precautions (thrombocytopenia and neutropenia appear among the knowledge-graph contraindication-linked conditions) |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Please refer to the package insert warnings and precautions |
+| Monitoring Items | CBC, liver function, electrolytes (potassium, magnesium), blood glucose, ECG/QT interval |
 | Handling Protection | Please refer to the package insert warnings and precautions |
-
----
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindication-related conditions (from the knowledge graph, not label text)**: long QT syndrome (including familial), torsades de pointes, hypertension, liver disease, gallbladder disease, pancreatitis, thrombocytopenia, neutropenia, agranulocytosis, anemia, hyperglycemia, diabetes mellitus, diabetic ketoacidosis, potassium deficiency, hypercalcemia, nephrocalcinosis, phosphorus metabolism disorders, hypophosphatemia, hyperbilirubinemia, and Gilbert syndrome.
+- **Drug Interactions**: 100 interactions were identified; the 20 reviewed here include:
+  - **Major**: dexamethasone, clarithromycin, picosulfuric acid, polyethylene glycol (3350 with electrolytes)
+  - **Moderate**: acid-reducing agents (famotidine, ranitidine, cimetidine, omeprazole, rabeprazole), other corticosteroids (hydrocortisone, betamethasone, budesonide, triamcinolone), pioglitazone, loperamide, bupropion, aprepitant, bisacodyl, and saxagliptin
 
----
+Package insert warnings and contraindications were not available in the data compiled for this report. Please refer to the package insert for complete safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is mechanistically plausible (PDGFR inhibition in COL1A1-PDGFB-driven DFSP, with imatinib as a class precedent). However, the only support is a high model score and one general review, with no registered clinical trials. Package insert safety data is also missing, which blocks safety screening.
+The mechanistic rationale (PDGFR inhibition, analogous to imatinib in DFSP) is plausible and the TxGNN score is high. However, there are no registered clinical trials, only one general review, no nilotinib-specific DFSP data, and no available label safety data. The evidence is L4, and all US authorizations are currently listed as cancelled.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap), obtained from the FDA website
-- Mechanism of action data, obtained from DrugBank
-- Original approved indication text from the license records
-- Clinical evidence specific to nilotinib in DFSP (case series, trials, and comparison with imatinib)
-- A literature search for nilotinib-specific DFSP studies, since the current review's abstract does not confirm any
-- Confirmation of route compatibility (currently pending)
+- Obtain and review the FDA package insert (warnings, contraindications, indications), which is a blocking gap for safety screening
+- Obtain detailed mechanism of action data from DrugBank
+- Search for nilotinib-specific DFSP evidence (case series, preclinical PDGFRB-fusion models, imatinib-resistant DFSP)
+- Clarify the US regulatory status, since all listed authorizations are marked cancelled
+- Assess the QT-prolongation, hepatic, and metabolic risks, and the major DDIs, for the target DFSP population
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

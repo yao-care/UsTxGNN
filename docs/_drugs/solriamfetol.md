@@ -29,84 +29,84 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Solriamfetol: From Excessive Daytime Sleepiness (Narcolepsy/OSA) to Attention Deficit-Hyperactivity Disorder
+# Solriamfetol: From Narcolepsy to Attention Deficit Hyperactivity Disorder
 
 ## One-Sentence Summary
 
-Solriamfetol is a wake-promoting dopamine and norepinephrine reuptake inhibitor. It is marketed in the US as SUNOSI, and the supplied literature describes it as approved for excessive daytime sleepiness in narcolepsy and obstructive sleep apnea.
-The TxGNN model predicts it may be effective for **attention deficit-hyperactivity disorder (ADHD)**, with **2 completed clinical trials** (one Phase 3, one Phase 2/3) and **5 relevant publications** supporting this direction.
-No trial results were supplied, so efficacy is not yet confirmed.
+Solriamfetol is a wake-promoting drug, originally used to treat excessive daytime sleepiness in narcolepsy and obstructive sleep apnea.
+The TxGNN model predicts it may be effective for **attention deficit-hyperactivity disorder (ADHD)**,
+with **5 clinical trials** (including 3 Phase 3 trials) and **6 publications** currently supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Excessive daytime sleepiness in narcolepsy or OSA (from PMID 34606437; the US license records supplied contain no indication text) |
+| Original Indication | Narcolepsy (other listed indications: narcolepsy-cataplexy syndrome, obstructive sleep apnea syndrome, and several central nervous system disorders) |
 | Predicted New Indication | Attention deficit-hyperactivity disorder |
 | TxGNN Prediction Score | 99.99% |
-| Evidence Level | L2 (see note below) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 2 license records (both NDA211230) |
+| Evidence Level | L1 (see note below) |
+| US Market Status | Cancelled only (the single NDA is listed as cancelled) |
+| Number of NDAs | 1 |
 | Recommended Decision | Proceed with Guardrails |
 
-*Evidence level note:* The Evidence Pack labels this indication L1. Under the stated rules, L1 needs two completed Phase 3 RCTs. Only one completed Phase 3 trial (NCT05972044) and one completed Phase 2/3 pilot (NCT04839562) are listed, and neither has supplied results. L2 is therefore the more defensible level until the Phase 3 outcome is confirmed.
+*Note on evidence level:* Under the strict rule (≥2 completed Phase 3 RCTs), only one completed Phase 3 RCT (NCT05972044) is registered, and its results have not been verified. The other completed trial is a small Phase 2/3 pilot, which has a published report. The L1 level assigned in the compiled data should therefore be read cautiously; a conservative reading would be L2.
 
 ## Why is This Prediction Reasonable?
 
-Solriamfetol is a dopamine and norepinephrine reuptake inhibitor. Detailed mechanism-of-action data from DrugBank is not available in the supplied record, so this description comes from the Pack's rationale and the published literature. Catecholaminergic modulation of attention and executive function is the basis of established ADHD pharmacology, including stimulants and norepinephrine-acting non-stimulants.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on the drug's known pharmacology, solriamfetol is a dopamine and norepinephrine reuptake inhibitor (DNRI). Its efficacy in excessive daytime sleepiness is established, and mechanistically it may be applicable to ADHD.
 
-The original indication is daytime sleepiness, and ADHD is an attention and executive-function disorder, so the two are different conditions. They share a plausible pharmacological route: enhancing dopamine and norepinephrine signalling to improve wakefulness and attention. A published review (PMID 40986064) also lists new ADHD strategies aimed at alternative neurobiological mechanisms beyond classic stimulants. This is the setting in which solriamfetol has been studied.
+Enhancing dopamine and norepinephrine signaling in prefrontal circuits is the established basis of ADHD drug treatment (for example methylphenidate and atomoxetine). Narcolepsy and ADHD also share attention and arousal problems, which makes the link biologically plausible. This mechanistic link comes from general pharmacology, not from the supplied data.
 
-The biological link is plausible, but it remains a hypothesis until the Phase 3 results are reviewed. Because solriamfetol is stimulant-like, cardiovascular effects and abuse potential must be assessed before any further progression.
+Other predicted indications are much weaker. Insomnia is only indirectly related (the drug is wake-promoting, so any benefit would be on daytime symptoms). The ADHD inattentive subtype is covered by the ADHD evidence. The remaining predictions, such as faciodigitogenital syndrome, chondromyxoid fibroma, and variably protease-sensitive prionopathy, have no supporting evidence and no plausible mechanism.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT05972044](https://clinicaltrials.gov/study/NCT05972044) | Phase 3 | Completed (2023-07 to 2025-03) | 516 | FOCUS: multi-center, randomized, double-blind, placebo-controlled trial of solriamfetol in adults with ADHD. Results were not supplied. |
-| [NCT04839562](https://clinicaltrials.gov/study/NCT04839562) | Phase 2/3 | Completed (2021-08 to 2023-01) | 66 | Double-blind, placebo-controlled pilot in adults aged 18-65 with ADHD. Results were not supplied. The related publication (PMID 37819836) reports 60 participants. |
+| [NCT05972044](https://clinicaltrials.gov/study/NCT05972044) | Phase 3 | Completed | 516 | FOCUS: randomized, double-blind, placebo-controlled trial in adults with ADHD; results should be verified |
+| [NCT04839562](https://clinicaltrials.gov/study/NCT04839562) | Phase 2/3 | Completed | 66 | Double-blind placebo-controlled pilot in adults aged 18-65 with ADHD |
+| [NCT07717892](https://clinicaltrials.gov/study/NCT07717892) | Phase 3 | Recruiting | 468 | 6-week placebo-controlled trial in adolescents aged 12 to <18; no results yet |
+| [NCT07717879](https://clinicaltrials.gov/study/NCT07717879) | Phase 3 | Recruiting | 468 | 6-week placebo-controlled trial in children aged 6 to <12; no results yet |
+| [NCT07773883](https://clinicaltrials.gov/study/NCT07773883) | Phase 3 | Enrolling by invitation | 300 | Open-label long-term safety study in children and adolescents |
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|---------|---------|
-| [37819836](https://pubmed.ncbi.nlm.nih.gov/37819836/) | 2023 | RCT | J Clin Psychiatry | Remote, randomized, double-blind, placebo-controlled 6-week dose-optimization trial (75 mg or 150 mg) in 60 adults with DSM-5 ADHD. It tested whether solriamfetol has a favorable effect and tolerability pattern. The supplied abstract is truncated, so outcomes are not available. |
-| [38771653](https://pubmed.ncbi.nlm.nih.gov/38771653/) | 2024 | Review | Expert Opin Pharmacother | Reviews ADHD drug advances beyond stimulants. Stimulants share similar adverse effects and carry misuse and dependence risk, which motivates non-stimulant options. |
-| [40986064](https://pubmed.ncbi.nlm.nih.gov/40986064/) | 2025 | Review | Expert Opin Pharmacother | Reviews Phase III ADHD pipeline drugs. Many patients respond only partially to current treatments or worry about side effects, which drives interest in new mechanisms. |
-| [41621729](https://pubmed.ncbi.nlm.nih.gov/41621729/) | 2026 | Review | Pharmacol Ther | Synthesizes pharmacological, neuromodulatory and psychotherapeutic options for adult ADHD. Adult ADHD is common and has high comorbidity and functional impact. |
-| [33870884](https://pubmed.ncbi.nlm.nih.gov/33870884/) | 2022 | Review | CNS Spectrums | Review titled "Solriamfetol for attention deficit hyperactivity disorder." No abstract was supplied. |
+|------|-----|------|------|---------|
+| [37819836](https://pubmed.ncbi.nlm.nih.gov/37819836/) | 2023 | RCT | J Clin Psychiatry | Remote, randomized, double-blind, placebo-controlled 6-week dose-optimization pilot (75 or 150 mg) in adults with ADHD, examining effects and tolerability |
+| [33870884](https://pubmed.ncbi.nlm.nih.gov/33870884/) | 2022 | Review | CNS Spectrums | Review of solriamfetol for ADHD (no abstract available) |
+| [40986064](https://pubmed.ncbi.nlm.nih.gov/40986064/) | 2025 | Review | Expert Opin Pharmacother | Phase III pipeline for ADHD, noting need for alternatives to stimulants and non-stimulants |
+| [38771653](https://pubmed.ncbi.nlm.nih.gov/38771653/) | 2024 | Review | Expert Opin Pharmacother | Recent advances in ADHD drug treatment beyond stimulants |
+| [41621729](https://pubmed.ncbi.nlm.nih.gov/41621729/) | 2026 | Review | Pharmacol Ther | Pharmacological, neuromodulatory, and psychotherapeutic options for adult ADHD |
+| [34534876](https://pubmed.ncbi.nlm.nih.gov/34534876/) | 2021 | Review | Epilepsy Behav | Drugs for epilepsy patients with excessive daytime sleepiness, noting ADHD as a comorbid cause |
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA211230 | SUNOSI (Axsome Therapeutics, Inc.) | Film-coated tablet (oral) | Not listed in the supplied record. Published literature describes excessive daytime sleepiness in narcolepsy or OSA. |
-
-The supplied data contains two license records with the same NDA number and details, so only one row is shown.
+| NDA211230 | SUNOSI (Axsome Therapeutics, Inc.) | Film-coated tablet (oral) | Not specified in the compiled data; status: cancelled |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions:** 35 interactions were identified. The one rated Major is **methylene blue**. The others shown are rated Moderate and are mainly sympathomimetic or adrenergic agents, including epinephrine, ephedrine, pseudoephedrine, phenylephrine, isoprenaline, mazindol, isometheptene, and beta-agonists such as salbutamol, formoterol, olodaterol, vilanterol, pirbuterol, and orciprenaline, plus ophthalmic naphazoline and oxymetazoline. Additive effects on blood pressure and heart rate are the likely concern.
+- **Other considerations:** Because of its noradrenergic action, cardiovascular effects (heart rate and blood pressure) need monitoring, especially in younger patients and anyone with a history of heart disease.
 
-Based on the Pack's mechanistic assessment, the following points need attention:
-- **Cardiovascular:** Blood pressure and heart rate monitoring is required because of noradrenergic reuptake inhibition.
-- **Abuse potential:** A stimulant-related abuse-potential review is needed for use in ADHD.
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-A completed 516-patient Phase 3 placebo-controlled trial and a completed Phase 2/3 pilot directly test solriamfetol in adult ADHD, and the mechanism fits established ADHD pharmacology. However, no efficacy or safety results were supplied, so the decision cannot move beyond guarded progression yet.
+A completed Phase 3 trial and a completed Phase 2/3 pilot in adults, along with a published placebo-controlled pilot, support the ADHD direction. Three further Phase 3 trials in children and adolescents are under way. However, efficacy results from the Phase 3 trial have not been verified, and the US NDA is cancelled.
 
 **To proceed, the following is needed:**
-- Primary and secondary outcome results from NCT05972044 (FOCUS) and NCT04839562, and the full results of the published pilot (PMID 37819836)
-- The FDA package insert warnings and contraindications, which are currently blocking the safety screening
-- Detailed mechanism-of-action data from DrugBank
-- A cardiovascular monitoring plan and an abuse-potential and misuse-risk review for the ADHD population
-- Confirmation of the US approved indication text for NDA211230
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
+- Verified results from the Phase 3 adult trial (NCT05972044)
+- Results from the pediatric and adolescent Phase 3 trials (NCT07717892, NCT07717879) and the long-term safety study (NCT07773883)
+- Package insert warnings and contraindications, which are currently missing and are a blocking gap for safety screening
+- Detailed mechanism of action data from DrugBank
+- A cardiovascular monitoring plan, plus a review of the abuse and misuse potential relevant to ADHD populations
+- Clarification of the cancelled US market status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

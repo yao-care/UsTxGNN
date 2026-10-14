@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Fulvestrant
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 742
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Fulvestrant
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,58 +33,60 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Fulvestrant is an injectable estrogen receptor antagonist and degrader, used for hormone receptor-positive breast cancer.
-The TxGNN model predicts it may be effective for **HIV infectious disease**, but there are currently **0 registered clinical trials** and **no directly relevant publications** supporting this direction. The prediction rests on the model alone.
+Fulvestrant is an estrogen receptor antagonist and degrader, used as an endocrine therapy in hormone receptor-positive breast cancer.
+The TxGNN model predicts it may be effective for **HIV infectious disease**,
+but the supporting evidence is thin: **0 clinical trials** and **2 publications** (one preclinical study and one study of a related retrovirus).
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hormone receptor-positive breast cancer (the US licence records contain no indication text; this comes from the drug's known use and the related trial context) |
+| Original Indication | Not listed in the data compiled for this report (fulvestrant is widely known as an endocrine therapy for HR+ breast cancer) |
 | Predicted New Indication | HIV infectious disease |
 | TxGNN Prediction Score | 99.91% |
-| Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| Evidence Level | L4 |
+| US Market Status | Cancelled only (all licenses cancelled) |
+| Number of NDAs | 12 (2 NDAs and 10 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the input. Based on known information, fulvestrant is an estrogen receptor antagonist and degrader. Its efficacy in hormone receptor-positive breast cancer is established, but that mechanism has no known link to HIV.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, fulvestrant is an estrogen receptor (ER) antagonist and degrader. Its efficacy in hormone receptor-positive breast cancer is well established, and it may be mechanistically relevant to HIV if ER signaling affects viral latency.
 
-The prediction is best read as a graph-based signal from the TxGNN knowledge graph, not a mechanistic hypothesis. Two other predictions support this reading. Simian immunodeficiency virus infection and feline acquired immunodeficiency syndrome received near-identical scores of 99.83%, which suggests they are correlated with the HIV prediction through disease-node similarity. Estrogen receptor antagonism has no established role in HIV pathogenesis, so the prediction needs independent mechanistic and experimental support before it can be treated as credible.
+A 2026 preclinical study (PMID 42430506) examined how estrogen, fulvestrant and HIV latency-reversing agents affect ERα in CD4+ T cells. This suggests a plausible link between ER signaling and HIV transcription and latency. However, the evidence is in vitro and indirect, and no clinical data exist for fulvestrant in HIV. The other publication concerns HTLV-1, a related but different retrovirus, and does not directly support fulvestrant use in HIV.
+
+Several other predicted indications scored highly but are not well supported. These include multiple endocrine neoplasia, rheumatoid arthritis, and veterinary or animal-model immunodeficiency conditions. The multiple endocrine neoplasia hits are breast cancer trials and likely reflect a label or ontology artifact rather than real evidence. In the rheumatoid arthritis rat model, estrogen blockade worsened inflammation, which argues against benefit.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials registered for HIV infectious disease.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [40343334](https://pubmed.ncbi.nlm.nih.gov/40343334/) | 2025 | Multi-cohort cross-omics analysis | Research Square | Systems biology study of HTLV-1-associated myelopathy, a neuroinflammatory disease caused by a different retrovirus. It is not an HIV study, and no fulvestrant data are evident from the title or abstract. |
-
-This is the only retrieved item, and it does not support the predicted indication.
+| [42430506](https://pubmed.ncbi.nlm.nih.gov/42430506/) | 2026 | Preclinical / in vitro | JCI Insight | Evaluated the effect of estrogen on ERα nuclear translocation in CD4+ T cells, and the effect of fulvestrant and HIV latency-reversing agents on the ER pathway |
+| [40343334](https://pubmed.ncbi.nlm.nih.gov/40343334/) | 2025 | Cross-omics cohort analysis (HTLV-1) | Research Square | Systems biology study of HTLV-1-associated myelopathy, a related retrovirus; no direct support for fulvestrant |
 
 ## US Market Information
 
-The licence records contain no approved indication text. Of the 20 licences, the 5 main ones are listed below.
+The data compiled for this report list 12 US authorizations, all cancelled. Approved indication text was not available.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
+| NDA021344 | FASLODEX | Injection | AstraZeneca Pharmaceuticals LP |
 | NDA210326 | Fulvestrant | Injection, solution | Fresenius Kabi USA, LLC |
 | ANDA215077 | Fulvestrant | Injection | Alembic Pharmaceuticals Inc. |
 | ANDA211422 | Fulvestrant | Injection, solution | Avenacy, Inc. |
 | ANDA205935 | Fulvestrant | Injection | Sandoz Inc |
-| ANDA215077 | Fulvestrant | Injection | BluePoint Laboratories. |
-
-All listed forms are injectables.
 
 ## Cytotoxicity
 
+Fulvestrant is an antineoplastic drug, but it is an endocrine therapy rather than a conventional cytotoxic chemotherapy.
+
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Endocrine therapy (estrogen receptor antagonist and degrader), not a conventional cytotoxic agent |
+| Cytotoxicity Classification | Targeted/endocrine therapy (estrogen receptor antagonist and degrader) |
 | Myelosuppression Risk | Please refer to the package insert warnings and precautions |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
 | Monitoring Items | Please refer to the package insert warnings and precautions |
@@ -92,24 +94,23 @@ All listed forms are injectables.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug-drug interaction records were found for this drug.
+- **Contraindications suggested by the knowledge graph** (not label text): liver disease, gallbladder disease, thrombocytopenia, blood coagulation disease.
+- **Drug Interactions**: 92 potential interactions were identified, but the severity level is unclassified for all of those listed. Examples include warfarin, acetylsalicylic acid, dexamethasone, prednisone, simvastatin, metformin, omeprazole, pantoprazole, ondansetron and morphine. The warfarin interaction deserves particular attention given the knowledge-graph coagulation signal.
+
+Please refer to the package insert for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The HIV prediction has a high model score, but it has no clinical trials, no relevant literature and no plausible mechanism linking estrogen receptor antagonism to HIV. Evidence is at L5 (model prediction only), so the prediction is not ready for development.
+The HIV prediction has a high model score but rests only on one preclinical study and one study of a related retrovirus. There are no clinical trials, and all US licenses are cancelled.
 
 **To proceed, the following is needed:**
-- Fulvestrant's mechanism of action data, plus a mechanistic hypothesis for the HIV link.
-- Package insert warnings and contraindications, which are needed before any safety screening.
-- Supporting preclinical evidence, such as in vitro or animal data on fulvestrant in HIV or related lentiviral models.
-- A curated literature search, since the one retrieved paper concerns HTLV-1 rather than HIV.
-
-Among the other predictions, rheumatoid arthritis (score 99.58%) reached L4. Its preclinical estrogen-signaling data point in ambiguous directions, and it is best treated as a research question.
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
+- FDA package insert warnings and contraindications
+- Mechanism of action data from DrugBank
+- Further preclinical validation of ER antagonism or degradation on HIV latency and transcription in CD4+ T cells
+- Clarification of whether a new HIV-related formulation or development path is feasible, given that all US licenses are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

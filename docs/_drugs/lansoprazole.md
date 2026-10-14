@@ -29,33 +29,33 @@ Evidence Level: **L4** | Predicted Indications: **2**
 
 </div>
 
-# Lansoprazole: From Acid-Related Upper GI Disease to Duodenogastric Reflux
+# Lansoprazole: From Gastric Ulcer and Reflux Disease to Duodenogastric Reflux
 
 ## One-Sentence Summary
 
-Lansoprazole is a proton pump inhibitor, a drug class used mainly for acid-related upper gastrointestinal conditions such as peptic ulcer and gastro-oesophageal reflux disease.
-The TxGNN model predicts it may be effective for **duodenogastric reflux**, but there are **0 clinical trials** and only **2 publications** (one rat study, one general review) for this direction.
-The only disease-specific study is an animal study that raises a safety concern rather than supporting efficacy.
+Lansoprazole is a proton pump inhibitor originally used for acid-related upper gastrointestinal conditions such as gastric ulcer, duodenal ulcer, gastroesophageal reflux disease and Zollinger-Ellison syndrome.
+The TxGNN model predicts it may be effective for **duodenogastric reflux**,
+but currently there are **0 clinical trials** and only **1 general review article** supporting this direction, so this is a computational prediction and a research question rather than a validated use.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Acid-related upper GI disease (general PPI class use; the US license records supplied contain no indication text) |
+| Original Indication | Gastric ulcer, peptic ulcer disease, gastroesophageal reflux disease, esophagitis, duodenal ulcer, Zollinger-Ellison syndrome (from the knowledge graph; no label text available) |
 | Predicted New Indication | Duodenogastric reflux |
 | TxGNN Prediction Score | 99.69% |
 | Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| US Market Status | Cancelled only (no currently valid authorizations in the compiled data) |
+| Number of NDAs | 10 (all cancelled; 1 NDA and 9 ANDAs) |
 | Recommended Decision | Hold |
+
+A second prediction, **duodenal obstruction** (score 99.68%), was also generated. It has no trials or literature (Evidence Level L5) and no clear mechanistic link, so it is not pursued further here.
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data was not supplied with this record. Lansoprazole is generally known as a proton pump inhibitor (H+/K+ ATPase inhibitor) that suppresses gastric acid secretion. The general review in the evidence (Shi & Klotz, 2008) describes PPIs as first-choice drugs for peptic ulcer, *Helicobacter pylori* infection, gastro-oesophageal reflux disease, NSAID-related GI injury and Zollinger-Ellison syndrome.
+Detailed mechanism of action data for lansoprazole is not available in the compiled data. Based on general knowledge, lansoprazole is a proton pump inhibitor that suppresses gastric acid secretion. Its established uses (GERD, esophagitis, peptic and duodenal ulcer) overlap with the clinical consequences of reflux.
 
-Duodenogastric reflux is the backflow of duodenal contents (bile and pancreatic juice) into the stomach. Acid suppression could plausibly reduce the acid part of the mucosal injury. It does not treat the reflux itself, because it has no effect on pyloric function or gastric motility. The very high TxGNN score most likely reflects proximity to acid-related diseases in the knowledge graph, not proof of a treatment effect.
-
-The only disease-specific study is a 2004 rat study reporting that lansoprazole promoted gastric carcinogenesis in the setting of duodenogastric reflux. This is a preclinical safety signal that would need to be resolved before any repurposing effort.
+Duodenogastric (bile) reflux is driven mainly by pyloric incompetence and altered motility, not by acid hypersecretion. Acid suppression would therefore be expected to ease symptoms and mucosal injury from mixed acid and bile exposure, but it would not correct the underlying reflux. The very high TxGNN score likely reflects network proximity to the approved gastric and esophageal indications and is a computational prediction only. The mechanistic link here is inferred from general PPI pharmacology.
 
 ## Clinical Trial Evidence
 
@@ -65,43 +65,40 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [18679668](https://pubmed.ncbi.nlm.nih.gov/18679668/) | 2008 | Review | Eur J Clin Pharmacol | Update on PPI clinical use and pharmacokinetics; PPIs are first-choice drugs for peptic ulcer, *H. pylori* infection, GERD, NSAID-related GI lesions and Zollinger-Ellison syndrome. It does not address duodenogastric reflux specifically. |
-| [15052437](https://pubmed.ncbi.nlm.nih.gov/15052437/) | 2004 | Animal study (rat) | Gastric Cancer | Examined the combined effect of duodenogastric reflux and acid inhibition on gastric cancer development; the title reports that lansoprazole promoted gastric carcinogenesis in rats with reflux. |
+| [18679668](https://pubmed.ncbi.nlm.nih.gov/18679668/) | 2008 | Review | European Journal of Clinical Pharmacology | Update on PPI clinical use and pharmacokinetics; PPIs are first-choice drugs for peptic ulcer, H. pylori infection, GERD, NSAID-induced GI lesions and Zollinger-Ellison syndrome. It does not address duodenogastric reflux directly. |
 
 ## US Market Information
 
-The license records supplied contain no approved-indication text. The table below lists 5 of the 20 authorizations.
-
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA021428 | Prevacid SoluTab | Tablet, orally disintegrating, delayed release | Takeda Pharmaceuticals America, Inc. |
-| ANDA202366 | Lansoprazole | Capsule, delayed release pellets | Bryant Ranch Prepack |
-| ANDA200816 | Lansoprazole | Tablet, orally disintegrating | Zydus Pharmaceuticals USA Inc. |
-| ANDA205868 | Lansoprazole | Capsule, delayed release | Preferred Pharmaceuticals, Inc. |
-| ANDA205868 | Lansoprazole | Capsule, delayed release | NuCare Pharmaceuticals, Inc. |
+| NDA021428 | Prevacid SoluTab (Takeda) | Orally disintegrating delayed-release tablet | Not available (status: cancelled) |
+| ANDA202366 | Lansoprazole (Bryant Ranch Prepack) | Delayed-release pellet capsule | Not available (status: cancelled) |
+| ANDA200816 | Lansoprazole (Zydus) | Orally disintegrating tablet | Not available (status: cancelled) |
+| ANDA205868 | Lansoprazole (Preferred Pharmaceuticals) | Delayed-release capsule | Not available (status: cancelled) |
+| ANDA207394 | Lansoprazole (Medcore) | Delayed-release capsule | Not available (status: cancelled) |
+
+Five more authorizations (all cancelled, 10 in total) are on record and not listed here.
 
 ## Safety Considerations
 
-- **Preclinical signal**: A rat study (PMID 15052437) reported that lansoprazole promoted gastric carcinogenesis in the presence of duodenogastric reflux. Its relevance to humans is unknown.
-- **Drug interactions**: The interaction query returned no records, which does not confirm the absence of interactions.
+- **Contraindications flagged in the knowledge graph (not label text):** The graph links lansoprazole to conditions including long QT syndrome, torsades de pointes, liver failure and liver disease, kidney disease, porphyria, congestive heart failure, osteoporosis, myocardial infarction, stroke and cerebrovascular disorders, blood coagulation disease, anemia, *Clostridium difficile* colitis, and myasthenia gravis. These come from a computational graph and need to be verified against the official label.
+- **Drug Interactions:** 100 interactions were found. Examples of **Major** interactions include acalabrutinib and atazanavir. **Moderate** examples include hydrochlorothiazide, amphotericin B, amikacin, amphetamine, fenofibrate, apalutamide, aprepitant, atorvastatin, bosutinib, brigatinib and bromocriptine. **Minor** examples include acetylsalicylic acid, axitinib, brivaracetam and cyanocobalamin.
 
-Please refer to the package insert for other safety information, including warnings and contraindications.
+Please refer to the package insert for full warnings, as label warnings were not available in the compiled data.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-Evidence is at the model-prediction and preclinical level (L4), with no registered clinical trials for this indication. Acid suppression does not address the underlying reflux, and the only disease-specific study is an animal safety signal.
+The prediction has a very high model score but no clinical trials and only one general review that does not address duodenogastric reflux. Mechanistically, acid suppression would at best relieve symptoms rather than treat the reflux itself. The drug also has no currently valid US authorizations in the compiled data, and the label safety data is missing.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, to allow safety screening
-- Mechanism-of-action data from DrugBank to support a mechanistic-link analysis
-- Review of the rat study's full text and its relevance to human risk
-- Full-record review of NCT00175032, whose target condition is unconfirmed, before any weight is placed on it
-- A clinical rationale showing a benefit of PPIs in duodenogastric reflux (for example, symptom or mucosal injury endpoints) beyond general acid suppression
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data (for example, from DrugBank)
+- A targeted literature search on PPIs in bile or duodenogastric reflux, and a check of trial registries
+- Confirmation of the current US marketing status of lansoprazole products, since all 10 records are marked cancelled
+- Assessment of route and formulation compatibility, which is still pending
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

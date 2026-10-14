@@ -33,68 +33,71 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 ## One-Sentence Summary
 
-Amoxicillin is a beta-lactam antibacterial widely marketed in the United States for bacterial infections.
-The TxGNN model predicts it may be effective for **polyclonal hyperviscosity syndrome**, with a very high score (99.63%).
-However, there are **0 clinical trials** and **0 publications** supporting this specific prediction, so it rests on the model alone.
+Amoxicillin is a beta-lactam antibiotic originally used to treat bacterial infections such as urinary tract infection, otitis media, pneumonia, and pharyngitis.
+The TxGNN model predicts it may be effective for **Polyclonal Hyperviscosity Syndrome**, but **no clinical trials and no publications** currently support this prediction. The high score appears to be a knowledge-graph artifact rather than a real therapeutic signal.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Bacterial infections (general use of the antibacterial class; approved indication text was not supplied in the data) |
+| Original Indication | Urinary tract infection, infectious otitis media, streptococcal infection, bacterial pneumonia, pharyngitis and other bacterial infections |
 | Predicted New Indication | Polyclonal hyperviscosity syndrome |
 | TxGNN Prediction Score | 99.63% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| US Market Status | Cancelled only (all licenses cancelled) |
+| Number of NDAs | 11 (all are ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, amoxicillin is a beta-lactam antibacterial, its efficacy in bacterial infections is well established, but no mechanistic route to polyclonal hyperviscosity syndrome has been identified.
+Currently, detailed mechanism of action data is not available from the data compiled for this report. Amoxicillin is a member of the beta-lactam antibacterial class, which acts by inhibiting bacterial cell wall synthesis. Its efficacy in bacterial infections is well established.
 
-Polyclonal hyperviscosity syndrome is a non-infectious protein and hematologic disorder. Antibacterial cell-wall inhibition has no obvious connection to it. The high TxGNN score (0.996) is a model output only and should not be read as evidence of efficacy.
+For the predicted indication, however, no plausible mechanistic link was identified. Polyclonal hyperviscosity syndrome arises from elevated polyclonal immunoglobulins, which is not an infectious process, so an antibacterial would have no clear target. The high TxGNN score (99.63%) appears to be an artifact of the knowledge graph, and the same score was assigned to several other unrelated predictions (for example hyperamylasemia and congenital analbuminemia).
 
-The same pattern appears in the other top predictions (hyperamylasemia, congenital analbuminemia, premalignant hematological disease). They share nearly identical scores and lack supporting studies, which suggests a general model tendency rather than a drug-specific signal.
+For context, the highest-ranked prediction with a biologically plausible antibacterial rationale is **septicemic plague** (score 99.13%), caused by *Yersinia pestis*. Evidence there is limited to animal-model and in vitro studies. Beta-lactams are not first-line for plague, and the intracellular localization of the organism may limit their efficacy. It is flagged as a research question only.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials registered for polyclonal hyperviscosity syndrome.
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for polyclonal hyperviscosity syndrome.
 
 ## US Market Information
+
+All 11 US authorizations are generic applications (ANDAs) with cancelled status. The data compiled for this report do not include approved indication text. The first five are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
 | ANDA065271 | Amoxicillin | Capsule | American Health Packaging |
 | ANDA064076 | Amoxicillin | Capsule | REMEDYREPACK INC. |
-| ANDA065334 | Amoxicillin | Powder, for suspension | Proficient Rx LP |
-| ANDA065387 | Amoxicillin | Powder, for suspension | NuCare Pharmaceuticals, Inc. |
-| ANDA065325 | Amoxil | Powder, for suspension | DirectRx |
-
-Approved indication text was not provided for these authorizations. All five are generic (ANDA) approvals, and 20 authorizations exist in total. Available forms include oral capsules, film-coated tablets, and powder for suspension.
+| ANDA065334 | Amoxicillin | Powder for suspension | Proficient Rx LP |
+| ANDA065387 | Amoxicillin | Powder for suspension | NuCare Pharmaceuticals, Inc. |
+| ANDA065325 | Amoxil | Powder for suspension | DirectRx |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindications flagged in the knowledge graph** (not label text): long QT syndrome, torsades de pointes, ventricular tachycardia, liver failure and liver disease, cholestasis, porphyria, kidney disease, gallbladder disease, osteoporosis, bone fracture, *Clostridium difficile* colitis, necrotizing enterocolitis, myasthenia gravis, and infectious mononucleosis. These come from the knowledge graph and should be verified against the official package insert.
+- **Drug Interactions** (100 interactions recorded; main examples):
+  - **Major**: Methotrexate; live cholera vaccine (*Vibrio cholerae* CVD 103-HgR)
+  - **Moderate**: Doxycycline, minocycline, demeclocycline, ethinylestradiol, estradiol, anisindione, dicoumarol, balsalazide, entecavir, mycophenolate mofetil, live probiotics (*Lactobacillus acidophilus*, *Bifidobacterium longum infantis*), indium In-111 oxyquinoline
+  - **Minor**: Allopurinol, amiloride, azithromycin, clarithromycin, erythromycin
+
+Please refer to the package insert for warnings and label contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trials, no literature, and no plausible mechanism. The target is a non-infectious hematologic condition unrelated to amoxicillin's antibacterial action. Amoxicillin is safe to obtain and widely available, but that does not justify pursuing this indication.
+The prediction rests on a model score alone (L5), with no clinical trials, no literature, and no plausible mechanistic link between an antibacterial and a non-infectious immunoglobulin disorder. In addition, all US authorizations for amoxicillin are currently cancelled.
 
 **To proceed, the following is needed:**
-- Mechanism of action data (MOA) and an explicit hypothesis linking it to polyclonal hyperviscosity syndrome
-- FDA package insert warnings and contraindications (a blocking gap for safety screening)
-- Any preclinical or clinical signal for this indication
-- Route and dosage-form compatibility assessment
-
-Among the other predictions, rank 6 (monoclonal gammopathy) and rank 8 (septicemic plague) have some literature. Neither is amoxicillin-specific efficacy evidence. The monoclonal gammopathy papers show indirect antibiotic-responsive lymphoproliferative disease. The plague papers are mostly in vitro or animal work, and standard plague treatment uses other antibiotic classes. Both would need expert review before any follow-up.
+- Mechanism of action data and a credible biological rationale linking amoxicillin to hyperviscosity
+- FDA package insert warnings and contraindications for a full safety review
+- Any preclinical or clinical data for the predicted indication
+- Consideration of alternative candidates, such as septicemic plague, as a research question, noting that animal and in vitro data suggest beta-lactams are not first-line
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

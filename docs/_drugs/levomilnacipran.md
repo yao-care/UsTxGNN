@@ -29,30 +29,44 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Levomilnacipran: From Major Depressive Disorder to Benign Paroxysmal Torticollis of Infancy
+# Levomilnacipran: From Depression to Benign Paroxysmal Torticollis of Infancy
 
 ## One-Sentence Summary
 
-Levomilnacipran is a serotonin-norepinephrine reuptake inhibitor (SNRI) marketed in the US as Fetzima for adult major depressive disorder.
-The TxGNN model predicts it may be effective for **benign paroxysmal torticollis of infancy**, but this rests on the model score alone: **0 clinical trials** and **0 publications** were found for this indication.
+Levomilnacipran is a serotonin-norepinephrine reuptake inhibitor (SNRI), originally used to treat major depressive disorder and related depressive and anxiety conditions.
+The TxGNN model predicts it may be effective for **benign paroxysmal torticollis of infancy**, but currently there are **0 clinical trials** and **0 publications** supporting this specific prediction. It rests on model prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Major depressive disorder in adults (from published literature; the license records contain no indication text) |
+| Original Indication | Major depressive disorder (the license record has no indication text; this comes from the knowledge graph's indication list, which also includes unipolar depression, endogenous depression and anxiety disorder) |
 | Predicted New Indication | Benign paroxysmal torticollis of infancy |
 | TxGNN Prediction Score | 99.53% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 4 license records, all under a single NDA (NDA204168) |
+| US Market Status | Cancelled only |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the Evidence Pack. The literature describes levomilnacipran as an SNRI, the more active enantiomer of milnacipran. Its efficacy in adult major depressive disorder is established.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known information, levomilnacipran is an SNRI. Its efficacy in major depressive disorder has been established, and it is the more active enantiomer of milnacipran.
 
-The predicted condition is a self-limiting movement disorder of infancy, related to the migraine spectrum. We found no plausible link between serotonin-norepinephrine reuptake inhibition and this condition in the data provided. No infant safety data exist for levomilnacipran. The high graph score (0.995) is best read as a likely artifact of the knowledge graph, not a mechanistic signal.
+Benign paroxysmal torticollis of infancy is an episodic pediatric disorder related to the migraine spectrum and possibly to channelopathies (e.g., CACNA1A). A link to serotonin and norepinephrine reuptake inhibition is speculative. The very high score most likely reflects proximity in the knowledge graph rather than a true pharmacological rationale.
+
+There is also a population mismatch. The condition occurs in infants, while levomilnacipran has no pediatric approval for this use, which is a major safety barrier.
+
+**Other predictions in the same run (for context):**
+
+| Rank | Predicted Indication | Score | Evidence Level | Comment |
+|---|---|---|---|---|
+| 2 | Agoraphobia | 99.53% | L5 | Plausible class-level link (SNRIs/SSRIs in anxiety and panic disorders), but no levomilnacipran-specific data |
+| 3 | Dysthymic disorder | 99.24% | L5 | Closely related to major depressive disorder; no specific studies |
+| 4 | Melancholia | 99.20% | L4 | Falls within the existing depression indication; only general MDD literature |
+| 5 | Neurotic depression | 99.20% | L4 | Within the depression spectrum; one preclinical study (PMID 37413934) |
+| 6 | Neurotic disorder | 99.19% | L5 | Outdated, nonspecific category; prediction only |
+
+Of these, agoraphobia and dysthymic disorder have a more credible mechanistic rationale than the top-ranked prediction. Melancholia and neurotic depression largely overlap with the existing indication rather than representing true repurposing.
 
 ## Clinical Trial Evidence
 
@@ -60,31 +74,45 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for benign paroxysmal torticollis of infancy.
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA204168 (4 records) | Fetzima (Allergan, Inc.) | Capsule, extended release (oral) | Not stated in the license records |
+| NDA204168 | Fetzima | Capsule, extended release (oral) | Status: cancelled (Allergan, Inc.) |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindications (knowledge-graph edges, not label text)**: angle-closure glaucoma (also listed as closed-angle glaucoma).
+- **Drug Interactions**: 100 interactions were found. Major-level examples include:
+  - Bupropion
+  - Clarithromycin
+  - Lorcaserin
+  - Phentermine
+  - Diethylpropion
+  - Fenfluramine
+  - Dexfenfluramine
+  - Dolasetron
+  - Palonosetron
+
+  Moderate-level examples include epinephrine, ephedrine, morphine, acetylsalicylic acid and isometheptene. Many of the major interactions involve other serotonergic or sympathomimetic agents, so serotonin-related and cardiovascular risks deserve attention.
+
+Please refer to the package insert for warnings and contraindications, which were not available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has only a model score behind it: no trials, no literature, no plausible mechanism, and no infant safety data. It should not advance to safety screening in its current form.
+The prediction has a very high model score, but there are no clinical trials or literature, and the mechanistic link is speculative. The target population (infants) adds a major safety barrier, and the only US license on record is cancelled.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications, which are currently missing and block safety screening
-- Mechanism-of-action data from DrugBank
-- A drug-specific mechanistic rationale for this indication, plus any case reports or trials
-- Pediatric and infant safety data, since the target population is infants
-- Consider prioritising other predictions for this drug. Melancholia and neurotic depression (both L4, Research Question) have indirect depression-level literature. Agoraphobia and dysthymic disorder have class-level plausibility but no drug-specific evidence.
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism-of-action data (e.g., from DrugBank)
+- Any clinical or preclinical evidence linking SNRIs to benign paroxysmal torticollis of infancy
+- Consideration of a better-supported alternative, such as agoraphobia or dysthymic disorder, for class-extrapolation research
+- Pediatric safety assessment if infant use is ever considered
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

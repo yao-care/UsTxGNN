@@ -33,9 +33,8 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Risankizumab (Skyrizi) is an IL-23 p19 antibody marketed for psoriasis and inflammatory bowel disease.
-The TxGNN model predicts it may be effective for **dermatitis** (atopic dermatitis is the only form with direct trial evidence), but only **1 of 6 listed clinical trials** tests it directly in that disease, and **17 publications** are mostly psoriasis-focused or case reports.
-The mechanistic fit is weak, and the evidence supports a Hold.
+Risankizumab is an IL-23 p19 inhibitor (a humanised IgG monoclonal antibody) originally used to treat psoriasis.
+The TxGNN model predicts it may be effective for **dermatitis** (mainly atopic dermatitis in the available evidence), with **2 clinical trials** and **20 publications** compiled. However, the one directly relevant controlled trial did not show a clear efficacy advantage, so this should be treated as a **research question**, not a treatment recommendation.
 
 ---
 
@@ -43,23 +42,23 @@ The mechanistic fit is weak, and the evidence supports a Hold.
 
 | Item | Content |
 |------|------|
-| Original Indication | Psoriasis (the US license records have no indication text; this comes from the literature, PMID 31098898) |
+| Original Indication | Psoriasis, parapsoriasis (from the TxGNN knowledge graph; no approved-indication text is available from the licence records) |
 | Predicted New Indication | Dermatitis |
 | TxGNN Prediction Score | 99.98% |
 | Evidence Level | L2 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 5 license records (4 are BLA761105, 1 is BLA761262) |
+| US Market Status | Cancelled only (both BLA records are listed as cancelled) |
+| Number of NDAs | 2 (BLA records) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Risankizumab is a humanised IgG monoclonal antibody that targets the p19 subunit of IL-23 (PMID 31098898). It blocks the IL-23/Th17 axis, which is central to psoriasis. The DrugBank record has no mechanism-of-action entry, so this description comes from the literature.
+Risankizumab blocks the p19 subunit of IL-23. Its use in psoriasis rests on the IL-23/Th17 axis, which is also involved in some other inflammatory skin diseases. This is the link behind the model's prediction. Detailed mechanism-of-action data were not available in the data compiled for this report, so the description above is based on the drug class and published literature.
 
-Psoriasis and atopic dermatitis are both chronic inflammatory skin diseases, and some data suggest Th17/Th22 involvement in atopic dermatitis. That is the basis for the prediction. However, atopic dermatitis is driven mainly by Th2 signaling (IL-4, IL-13, IL-31), so the mechanistic fit is weak. The very high TxGNN score reflects graph-based proximity, not clinical support.
+The overlap is only partial. Atopic dermatitis is driven mainly by Th2 signalling (IL-4/IL-13), with possible contributions from Th22 and Th17. A Phase 2 trial tested IL-23 blockade directly in moderate-to-severe atopic dermatitis, and the published results (PMID 36588137) did not show a clear efficacy advantage.
 
-Clinical reports also raise a caution: several case reports describe eczematous eruptions or "paradoxical eczema" in psoriasis patients during risankizumab treatment. Other reports describe patients switched to risankizumab after eczematous reactions to other biologics, so the picture is mixed.
+Case-level reports describe combined dupilumab and risankizumab in patients who have both atopic dermatitis and psoriasis. This suggests a possible niche in mixed phenotypes rather than a standalone indication. In addition, eczematous eruptions have been reported during IL-23 and IL-17 inhibitor therapy, which adds a safety signal.
 
 ---
 
@@ -67,13 +66,8 @@ Clinical reports also raise a caution: several case reports describe eczematous 
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT03706040](https://clinicaltrials.gov/study/NCT03706040) | Phase 2 | Completed | 172 | Randomized, double-blind, placebo-controlled study of risankizumab in adults and adolescents with moderate-to-severe atopic dermatitis. This is the only direct RCT, and its efficacy result is not in the registry summary. |
-| [NCT05969223](https://clinicaltrials.gov/study/NCT05969223) | Phase 4 | Completed | 214 | Risankizumab in genital or scalp psoriasis. It is a psoriasis study, not dermatitis. |
-| [NCT04908475](https://clinicaltrials.gov/study/NCT04908475) | Phase 4 | Completed | 352 | Risankizumab vs apremilast in moderate plaque psoriasis. It is a psoriasis study, not dermatitis. |
-| [NCT04818385](https://clinicaltrials.gov/study/NCT04818385) | N/A | Completed | 240 | Observational cohort in Taiwan comparing durability of PASI 90 response with risankizumab vs other biologics in plaque psoriasis. |
-| [NCT07021495](https://clinicaltrials.gov/study/NCT07021495) | N/A | Recruiting | 840 | Real-world biomarker profiling of six immune-mediated skin diseases (including atopic dermatitis and psoriasis). It is observational and not a treatment trial of risankizumab. |
-| [NCT07041112](https://clinicaltrials.gov/study/NCT07041112) | N/A | Completed | 1000 | Retrospective pharmacogenetic study of 10-year biologic drug survival in psoriasis. It is not relevant to dermatitis efficacy. |
-| [NCT07352566](https://clinicaltrials.gov/study/NCT07352566) | Phase 4 | Not yet recruiting | 10 | Microdevice that releases small drug doses into skin in atopic dermatitis and psoriasis. It is exploratory and has no efficacy data. |
+| [NCT03706040](https://clinicaltrials.gov/study/NCT03706040) | Phase 2 | Completed | 172 | Randomised, placebo-controlled, double-blind study of risankizumab in adults and adolescents with moderate-to-severe atopic dermatitis. Direct controlled evidence, but the publication does not support a strong efficacy claim. |
+| [NCT07352566](https://clinicaltrials.gov/study/NCT07352566) | Phase 4 | Not yet recruiting | 10 | Exploratory study of a rice-grain-sized microdevice that releases small amounts of approved drugs into the skin of people with atopic dermatitis and psoriasis. It does not provide efficacy evidence for risankizumab. |
 
 ---
 
@@ -81,16 +75,16 @@ Clinical reports also raise a caution: several case reports describe eczematous 
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [36588137](https://pubmed.ncbi.nlm.nih.gov/36588137/) | 2023 | RCT | Dermatol Ther | Phase 2, randomized, double-blind, placebo-controlled study of risankizumab in moderate-to-severe atopic dermatitis. The abstract in the pack covers only the rationale (IL-23 and IL-22 blockade), so the outcome must be confirmed from the full paper. |
-| [39668419](https://pubmed.ncbi.nlm.nih.gov/39668419/) | 2025 | Cohort | Int J Dermatol | Combined dupilumab and risankizumab in patients with both atopic dermatitis and psoriasis. No abstract is available. |
-| [40856907](https://pubmed.ncbi.nlm.nih.gov/40856907/) | 2025 | Systematic Review | Am J Clin Dermatol | Systemic therapies for erythrodermic psoriasis. Atopic dermatitis appears only as a differential diagnosis. |
-| [40794374](https://pubmed.ncbi.nlm.nih.gov/40794374/) | 2025 | Systematic Review | Inflammopharmacology | Interleukin inhibitors in lichen planus, covering therapeutic and paradoxical effects. |
-| [31098898](https://pubmed.ncbi.nlm.nih.gov/31098898/) | 2019 | Review | Drugs | First global approval of risankizumab (Japan, March 2019) for psoriasis vulgaris, psoriatic arthritis, generalized pustular psoriasis and erythrodermic psoriasis. |
-| [39201826](https://pubmed.ncbi.nlm.nih.gov/39201826/) | 2024 | Review | Children (Basel) | Narrative review of biologics and small-molecule therapies for pediatric alopecia areata, psoriasis, atopic dermatitis and hidradenitis suppurativa. |
-| [33078990](https://pubmed.ncbi.nlm.nih.gov/33078990/) | 2020 | Review | Expert Opin Biol Ther | Current and emerging biologics for pediatric atopic dermatitis. |
-| [36939506](https://pubmed.ncbi.nlm.nih.gov/36939506/) | 2023 | Case report | Ital J Dermatol Venereol | Eczematous eruption during risankizumab treatment. No abstract is available. |
-| [33185530](https://pubmed.ncbi.nlm.nih.gov/33185530/) | 2020 | Case series | Eur J Dermatol | Eczematous eruption in psoriasis patients during risankizumab treatment. No abstract is available. |
-| [41645692](https://pubmed.ncbi.nlm.nih.gov/41645692/) | 2026 | Case report | Dermatol Rep | Upadacitinib used for paradoxical eczema induced by IL-23 inhibitors (risankizumab, tildrakizumab, guselkumab). Estimated incidence is 1-3% in psoriasis patients on biologics. |
+| [36588137](https://pubmed.ncbi.nlm.nih.gov/36588137/) | 2023 | RCT | Dermatology and Therapy | Phase 2 randomised, double-blind, placebo-controlled study of risankizumab in moderate-to-severe atopic dermatitis, based on the rationale of IL-23 and IL-22 blockade |
+| [40856907](https://pubmed.ncbi.nlm.nih.gov/40856907/) | 2025 | Systematic Review | American Journal of Clinical Dermatology | Systemic therapies for erythrodermic psoriasis, a severe variant that overlaps with dermatitis in the differential diagnosis |
+| [40794374](https://pubmed.ncbi.nlm.nih.gov/40794374/) | 2025 | Systematic Review | Inflammopharmacology | Therapeutic and paradoxical effects of interleukin inhibitors in lichen planus |
+| [41822639](https://pubmed.ncbi.nlm.nih.gov/41822639/) | 2026 | Systematic Review | Cureus | Cardiovascular outcomes with biologic therapy in inflammatory skin diseases |
+| [39668419](https://pubmed.ncbi.nlm.nih.gov/39668419/) | 2025 | Cohort/Case series | International Journal of Dermatology | Combined dupilumab and risankizumab in patients with concomitant atopic dermatitis and psoriasis |
+| [39201826](https://pubmed.ncbi.nlm.nih.gov/39201826/) | 2024 | Review | Children | Biologics and small-molecule therapies for pediatric alopecia areata, psoriasis, atopic dermatitis and hidradenitis suppurativa |
+| [33078990](https://pubmed.ncbi.nlm.nih.gov/33078990/) | 2020 | Review | Expert Opinion on Biological Therapy | Current and emerging biologics for pediatric atopic dermatitis |
+| [31098898](https://pubmed.ncbi.nlm.nih.gov/31098898/) | 2019 | Review | Drugs | Risankizumab first global approval, covering psoriasis vulgaris, psoriatic arthritis, generalised pustular psoriasis and erythrodermic psoriasis |
+| [41645692](https://pubmed.ncbi.nlm.nih.gov/41645692/) | 2026 | Case report | Dermatology Reports | Paradoxical eczema during IL-23 inhibitor therapy, managed successfully with upadacitinib |
+| [33185530](https://pubmed.ncbi.nlm.nih.gov/33185530/) | 2020 | Case report | European Journal of Dermatology | Eczematous eruption in psoriasis patients during risankizumab treatment |
 
 ---
 
@@ -98,16 +92,17 @@ Clinical reports also raise a caution: several case reports describe eczematous 
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA761105 | Skyrizi (AbbVie Inc.) | Injection | Not listed in the record (4 duplicate entries) |
-| BLA761262 | Skyrizi (AbbVie Inc.) | Injection | Not listed in the record |
+| BLA761105 | Skyrizi (AbbVie Inc.) | Injection | Not available (status: cancelled) |
+| BLA761262 | Skyrizi (AbbVie Inc.) | Injection | Not available (status: cancelled) |
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No interaction records were found for this drug.
+- **Drug Interactions**: 78 interactions were identified. Major-level interactions include adalimumab, baricitinib, certolizumab pegol and cladribine, which is consistent with additive immunosuppression. Moderate-level interactions include tacrolimus, cyclosporine, azathioprine, roflumilast, anakinra, alemtuzumab, denosumab and several vaccines, including live vaccines. Zinc salts are minor.
+- **Other signal**: Paradoxical eczema and eczematous eruptions have been reported under IL-23 inhibitor therapy, including risankizumab (see the literature table above).
 
-The literature does report a signal worth noting: eczematous or paradoxical eczema reactions during IL-23 inhibitor treatment (about 1-3% in psoriasis patients, per PMID 41645692). This matters when considering the drug for a dermatitis population.
+Please refer to the package insert for warnings and contraindications, as these were not available in the data compiled for this report.
 
 ---
 
@@ -116,15 +111,14 @@ The literature does report a signal worth noting: eczematous or paradoxical ecze
 **Decision: Hold**
 
 **Rationale:**
-Evidence is L2, resting on a single completed Phase 2 RCT in atopic dermatitis whose efficacy result is not confirmed in the data provided. The mechanism (IL-23/Th17) is a poor match for Th2-driven atopic dermatitis, and there are reports of eczematous reactions during risankizumab treatment. The other nine predicted indications (for example dermatomyositis, pityriasis lichenoides, and diabetic retinopathy) are L5 with no trials or literature, and several have no plausible mechanistic link.
+The only directly relevant controlled trial (Phase 2, n=172) did not show a clear benefit in atopic dermatitis, and the mechanistic overlap is partial because Th2 signalling dominates. Paradoxical eczema reports add a safety concern, and the current US licence records show only cancelled entries. This supports an L2 research question, not a development recommendation.
 
 **To proceed, the following is needed:**
-- Verify the primary efficacy outcome of NCT03706040 / PMID 36588137 (for example EASI response versus placebo). Advance only if it shows clear benefit.
-- Obtain the package insert warnings and contraindications (currently unavailable).
-- Obtain the DrugBank mechanism-of-action entry and the approved indication text for the US licenses.
-- Review the paradoxical eczema signal before considering any dermatitis population.
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Full efficacy data from NCT03706040, including dose-response and subgroup results
+- Identification of any dermatitis subtype (for example, mixed atopic dermatitis and psoriasis phenotypes) where IL-23 blockade could be useful
+- Mechanism-of-action data
+- Package insert warnings and contraindications, to complete safety screening
+- Clarification of the current US regulatory status of the Skyrizi BLA records
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

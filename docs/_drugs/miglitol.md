@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Miglitol
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 928
-evidence_level: L3
+evidence_level: L5
 indication_count: 10
 ---
 
 # Miglitol
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,87 +29,103 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Miglitol: From Type 2 Diabetes to Type 1 Diabetes
-
-*Note: The five highest-scoring predictions (for example focal stiff limb syndrome and classic stiff person syndrome) have no trials or literature and no plausible mechanism. This report therefore covers type 1 diabetes mellitus, the only predicted indication with real supporting evidence.*
+# Miglitol: From Type 2 Diabetes Mellitus to Focal Stiff Limb Syndrome
 
 ## One-Sentence Summary
 
-Miglitol is an oral alpha-glucosidase inhibitor marketed for type 2 diabetes.
-The TxGNN model predicts it may be useful as an add-on to insulin in **type 1 diabetes mellitus** (score 99.60%). Support is **1 completed Phase 3 open trial** (no results posted) and **about 15 publications**, mostly small and dated studies from 1986 to 2011.
+Miglitol is an oral alpha-glucosidase inhibitor, originally used to control blood sugar in type 2 diabetes mellitus.
+The TxGNN model predicts it may be effective for **focal stiff limb syndrome**, but **0 clinical trials** and **0 publications** support this prediction, and no plausible mechanism has been identified.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Type 2 diabetes (inferred from the pack's rationale text, since the US license records list no indication text) |
-| Predicted New Indication | Type 1 diabetes mellitus (rank 10 of 10 predictions) |
-| TxGNN Prediction Score | 99.60% |
-| Evidence Level | L3 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 6 (all under ANDA203965) |
-| Recommended Decision | Proceed with Guardrails |
+| Original Indication | Type 2 diabetes mellitus |
+| Predicted New Indication | Focal stiff limb syndrome |
+| TxGNN Prediction Score | 99.87% |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no active marketing authorization) |
+| Number of NDAs | 1 (one ANDA, cancelled) |
+| Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the record. Miglitol is known to be an intestinal alpha-glucosidase inhibitor. It delays carbohydrate digestion and absorption, which flattens the rise in blood glucose after meals.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Miglitol is known to inhibit intestinal alpha-glucosidases, which delays carbohydrate digestion and lowers the rise in blood glucose after meals. It acts mainly in the gut.
 
-Even with intensive insulin therapy, many people with type 1 diabetes have sharp postprandial glucose spikes. Slowing carbohydrate absorption can reduce these spikes and the insulin needed at meals. This is the same mechanism that makes miglitol useful in type 2 diabetes, so the prediction is biologically coherent.
+**The prediction is not mechanistically convincing.** Focal stiff limb syndrome is a variant of stiff person syndrome spectrum disorders. These are autoimmune or neurological disorders of the central nervous system, often linked to anti-GAD antibodies. Miglitol's local action on carbohydrate digestion has no known effect on this pathology.
 
-The evidence supports miglitol only as an **adjunct to insulin**, not as a standalone therapy. Because miglitol is already marketed, its safety profile is known. The other high-scoring predictions (stiff person syndromes, lipodystrophies, opsismodysplasia, pancreatic agenesis, thiamine-responsive dysfunction syndrome) show no plausible mechanism and are likely graph-neighborhood artifacts.
+The high score most likely reflects network proximity in the knowledge graph. Diabetes and GAD-related autoimmunity are closely connected there, and this is not a true therapeutic signal. The same pattern appears for the neighbouring prediction, classic stiff person syndrome, which has an identical score.
+
+---
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT00213109](https://clinicaltrials.gov/study/NCT00213109) | Phase 3 | Completed | Not reported | Open (non-randomized) trial of miglitol in insulin-treated type 1 diabetes. It targets the exact drug and indication, but no results are provided. |
+Currently no related clinical trials registered for focal stiff limb syndrome.
 
-Five other trials returned by the search (NCT02475499, NCT02476760, NCT02456428, NCT06449235, NCT03492580) are observational or other-drug studies in type 2 diabetes. NCT01697592, a Phase 3 study of omarigliptin, was also returned, and its population could not be confirmed. None involves miglitol in type 1 diabetes, so none is counted as evidence.
+---
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [24843410](https://pubmed.ncbi.nlm.nih.gov/24843410/) | 2010 | Clinical study | J Diabetes Investig | Miglitol plus insulin in type 1 diabetes, where postprandial spikes persist despite intensive insulin. |
-| [21869539](https://pubmed.ncbi.nlm.nih.gov/21869539/) | 2011 | Clinical study | Endocr J | 11 type 1 patients on intensive insulin took miglitol 25 mg, then 50 mg, three times daily. Outcomes were insulin dose, body weight, hypoglycemia and incretin responses. |
-| [2060451](https://pubmed.ncbi.nlm.nih.gov/2060451/) | 1991 | Clinical study | Diabetes Care | Alpha-glucosidase inhibition as an insulin adjunct: effect on meal glucose tolerance and insulin timing. |
-| [2180090](https://pubmed.ncbi.nlm.nih.gov/2180090/) | 1990 | Clinical study | S Afr Med J | 11 patients. Miglitol 50 mg significantly lowered post-meal glucose increments at 30 and 60 minutes versus placebo. |
-| [2663321](https://pubmed.ncbi.nlm.nih.gov/2663321/) | 1989 | Clinical study | Diabetes Res | Single-blind crossover in 13 patients. Miglitol significantly reduced glucose area under the curve, with no change in fasting glucose. |
-| [3653827](https://pubmed.ncbi.nlm.nih.gov/3653827/) | 1987 | Clinical study | Fortschr Med | Miglitol in insulin-dependent diabetes, reported as giving improved metabolic control and good tolerance. |
-| [8261749](https://pubmed.ncbi.nlm.nih.gov/8261749/) | 1993 | Review | Diabet Med | Review of alpha-glucosidase inhibition as an adjunct in type 1 diabetes. |
-| [12073790](https://pubmed.ncbi.nlm.nih.gov/12073790/) | 2002 | Review | Rev Med Liege | Pharmacological approaches to postprandial hyperglycemia, including acarbose and miglitol. |
+Currently no related literature available for focal stiff limb syndrome.
 
-Several 1986–1988 studies (for example PMIDs 3520133, 3130257 and 3311550) tested earlier alpha-glucosidase inhibitors (Bay compounds) in insulin-dependent diabetes, and they are consistent with this direction. A 2020 case report (PMID 33268615) describes SGLT2 inhibitors added to patients already on miglitol and does not test miglitol itself.
+---
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA203965 | Miglitol | Tablet, coated (oral) | Westminster Pharmaceuticals, LLC |
-| ANDA203965 | Miglitol | Tablet, coated (oral) | Proficient Rx LP |
+| ANDA203965 (Westminster Pharmaceuticals, LLC; cancelled) | Miglitol | Tablet, coated (oral) | Not listed in the record |
 
-The pack lists six licenses in total but returns five records. All five are under ANDA203965 from these two labelers, so the table shows each labeler once.
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindication associations (knowledge graph, not label text):** kidney disease, pyoureter, inflammatory bowel disease, infectious disease, ulcerative colitis, hypoglycemia, injury.
+- **Drug Interactions:** 100 interactions were found. The main moderate-level ones include:
+  - Sympathomimetics and bronchodilators: phenylephrine, pseudoephedrine, epinephrine, formoterol, salbutamol.
+  - Corticosteroids: hydrocortisone, triamcinolone.
+  - Hormones: ethinylestradiol, estradiol.
+  - Other drugs: acetazolamide, hydrochlorothiazide, ethanol, alpelisib, aripiprazole, asenapine, asparaginase (E. coli and Erwinia).
+- Minor-level interactions include ranitidine and topical corticosteroids (hydrocortisone, alclometasone).
 
-One point from the pack's assessment applies to type 1 diabetes specifically. Hypoglycemia in patients taking an alpha-glucosidase inhibitor should be treated with oral glucose rather than sucrose, because sucrose absorption is delayed.
+Please refer to the package insert for full warnings and contraindications.
+
+---
+
+## Additional Note: Other Predictions for Miglitol
+
+Of the 10 predicted indications, only **type 1 diabetes mellitus** (TxGNN score 99.60%) has any supporting evidence. The other eight, including lipodystrophy variants, pancreatic agenesis, opsismodysplasia and thiamine-responsive dysfunction syndrome, have no trials or literature and no credible mechanism.
+
+For type 1 diabetes, miglitol acts as an adjunct to insulin to blunt after-meal glucose peaks.
+
+| Source | Type | Key Findings |
+|---------|------|---------|
+| [NCT00213109](https://clinicaltrials.gov/study/NCT00213109) | Phase 3, Completed, open-label, enrollment not reported | Efficacy and safety of miglitol in type 1 diabetes patients treated with insulin |
+| [24843410](https://pubmed.ncbi.nlm.nih.gov/24843410/) (2010) | Clinical study | Miglitol plus insulin combination in type 1 diabetes |
+| [21869539](https://pubmed.ncbi.nlm.nih.gov/21869539/) (2011) | Clinical study, 11 patients | Miglitol with intensive insulin therapy; assessed glycemic control, hypoglycemia and incretin responses |
+| [2060451](https://pubmed.ncbi.nlm.nih.gov/2060451/) (1991) | Clinical study | Effects on meal glucose tolerance and insulin timing |
+| [2663321](https://pubmed.ncbi.nlm.nih.gov/2663321/) (1989) | Single-blind crossover, 13 patients | Reduced post-meal glucose area under the curve versus placebo |
+
+The evidence is small and mostly dated. With only one open-label Phase 3 trial, it does not strictly meet the L1 criterion of at least two completed Phase 3 RCTs. If this drug is pursued, type 1 diabetes is the only realistic direction.
+
+---
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-The mechanism fits, and many small studies show that miglitol lowers postprandial glucose and insulin needs in insulin-treated type 1 diabetes. However, the evidence is old and small-scale, and the only Phase 3 trial is an open-label study with no posted results. It is best treated as a research question for adjunctive use, not a ready-to-adopt indication.
+The predicted indication, focal stiff limb syndrome, has no clinical trials or publications, and no plausible mechanistic link to an intestinal alpha-glucosidase inhibitor. The prediction appears to be a knowledge-graph artifact. The only US authorization is cancelled, so the drug has no active US marketing authorization.
 
 **To proceed, the following is needed:**
-- Results or publication from NCT00213109, or a modern randomized, controlled trial in type 1 diabetes, ideally with continuous glucose monitoring outcomes
-- Package insert warnings and contraindications, which are needed before any safety screening
-- Formal mechanism of action data
-- A hypoglycemia management plan for type 1 patients, including use of oral glucose rather than sucrose
-
-*This report is for research reference only and is not medical advice. Repurposing candidates require clinical validation before use.*
+- Any clinical or preclinical evidence linking miglitol to stiff person spectrum disorders (none currently exists)
+- Detailed mechanism of action data
+- Full package insert warnings and contraindications
+- If pursuing the better-supported type 1 diabetes direction, a re-evaluation with a controlled trial design and a plan for hypoglycemia and gastrointestinal monitoring
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

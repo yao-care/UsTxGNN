@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Cholic Acid
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 527
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Cholic Acid
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,92 +29,83 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Cholic Acid: From Bile Acid Synthesis Disorders to HIV Infectious Disease
+# Cholic Acid: From Bile Acid Synthesis and Biliary Disorders to HIV Infectious Disease
 
 ## One-Sentence Summary
 
-Cholic acid is a primary bile acid, marketed in the US as CHOLBAM capsules. The TxGNN model predicts it may be effective for **HIV infectious disease**, but there are **0 clinical trials** and **9 publications**, none showing therapeutic benefit. One in vitro study points toward harm, so this high-scoring prediction is not supported by the evidence.
-
----
+Cholic acid is a bile acid, originally used for bile acid synthesis disorders and biliary-tract-related conditions.
+The TxGNN model predicts it may be effective for **HIV infectious disease**, but there are **0 clinical trials** and only **5 publications** (mostly in vitro or reviews), one of which suggests a possible adverse effect on viral replication.
+This prediction is not supported by clinical data.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the license data (approved indication text is empty). Registry and literature in the pack indicate bile acid synthesis disorders. |
+| Original Indication | Bile acid synthesis disorders and biliary conditions (constipation disorder, cholelithiasis, choledocholithiasis, biliary tract disease, obstructive jaundice, cerebrotendinous xanthomatosis) |
 | Predicted New Indication | HIV infectious disease |
 | TxGNN Prediction Score | 99.79% |
-| Evidence Level | L4 (preclinical and in vitro only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 2 license records (both NDA205750) |
+| Evidence Level | L4 |
+| US Market Status | Cancelled only |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available for cholic acid in this Evidence Pack. It is a primary bile acid. Replacing it in bile acid synthesis disorders reduces toxic bile acid intermediates and restores fat and vitamin absorption. This physiology has no established link to HIV.
+Detailed mechanism of action data is not available in the data compiled for this report. Pharmacology data show that cholic acid binds the bile acid receptor GPBAR1 (TGR5) and the farnesoid X receptor (FXR). It is approved by the FDA and EMA for rare bile acid synthesis disorders.
 
-The only mechanistic signals in the literature are indirect. In a 1993 study, sodium cholate showed detergent-like spermicidal and antiviral activity, including in vitro inhibition of HIV-1 reverse transcriptase. This was in a topical vaginal sponge combined with nonoxynol-9 and benzalkonium chloride. That is membrane-disrupting, non-systemic activity and does not support oral use for HIV treatment.
+The link to HIV is weak and indirect. A 1993 in vitro study found that sodium cholate had spermicidal activity and inhibited HIV-1 reverse transcriptase, and it was tested in a vaginal sponge together with nonoxynol-9 and benzalkonium chloride. In contrast, a 2006 study found that amino-functionalized cholic acid derivatives **induced** HIV-1 replication and syncytia formation in T cells, which argues against benefit. A 2010 cohort paper only describes plasma bile acid levels in HIV patients on protease inhibitors, which is an association rather than a treatment effect.
 
-A 2006 study found the opposite direction. Synthetic cholic acid derivatives **increased** HIV-1 replication and syncytia formation in T cells. The other retrieved papers are reviews on barrier contraception, HIV-related liver disease, viral sterilisation of blood products, and an assay methodology paper. The very high TxGNN score is not backed by any therapeutic evidence.
-
----
+The very high model score (99.79%) is therefore not backed by clinical evidence.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [16610808](https://pubmed.ncbi.nlm.nih.gov/16610808/) | 2006 | In vitro | J Med Chem | Cholic acid derivatives induced syncytia and enhanced HIV-1 replication in T cells (a signal of harm) |
-| [7688380](https://pubmed.ncbi.nlm.nih.gov/7688380/) | 1993 | Preclinical / contraceptive study | Hum Reprod | Sodium cholate showed spermicidal and in vitro anti-HIV-1 activity, including reverse transcriptase inhibition, in a vaginal sponge with nonoxynol-9 |
-| [2870224](https://pubmed.ncbi.nlm.nih.gov/2870224/) | 1986 | In vitro | Lancet | Tri(n-butyl)phosphate plus sodium cholate sterilised hepatitis and HTLV-III viruses in blood products (a virus-inactivation use, not a treatment) |
-| [20030469](https://pubmed.ncbi.nlm.nih.gov/20030469/) | 2010 | Cohort | Pharmacotherapy | Plasma bile acids in HIV patients on protease inhibitors, examined as possible hepatotoxicity predictors |
-| [32052857](https://pubmed.ncbi.nlm.nih.gov/32052857/) | 2020 | Review | Hepatology | NASH drugs in people living with HIV and drug interaction concerns |
-| [9238301](https://pubmed.ncbi.nlm.nih.gov/9238301/) | 1997 | Review | Ann N Y Acad Sci | Anti-STD vaginal contraceptive sponges |
-| [7848210](https://pubmed.ncbi.nlm.nih.gov/7848210/) | 1994 | Review | Aust N Z J Obstet Gynaecol | Future contraceptives and STD/HIV protection |
-| [8849197](https://pubmed.ncbi.nlm.nih.gov/8849197/) | 1995 | Review | Ann Acad Med Singapore | Barrier methods and protection against STDs including HIV |
-| [28745428](https://pubmed.ncbi.nlm.nih.gov/28745428/) | 2017 | In vitro (assay methodology) | ChemMedChem | Triton X-100 detergent affects HIV-1 protease inhibitor assay results; not related to cholic acid therapy |
-
----
+| [7688380](https://pubmed.ncbi.nlm.nih.gov/7688380/) | 1993 | Preclinical / in vitro | Hum Reprod | Sodium cholate showed spermicidal and anti-HIV-1 activity in vitro; tested in a contraceptive sponge with nonoxynol-9 and benzalkonium chloride |
+| [16610808](https://pubmed.ncbi.nlm.nih.gov/16610808/) | 2006 | In vitro | J Med Chem | Amino-functionalized cholic acid derivatives induced syncytia and enhanced HIV-1 replication in T cells |
+| [20030469](https://pubmed.ncbi.nlm.nih.gov/20030469/) | 2010 | Cohort / observational | Pharmacotherapy | Plasma bile acid concentrations in HIV patients on protease inhibitors, with possible relevance to hepatotoxicity |
+| [7848210](https://pubmed.ncbi.nlm.nih.gov/7848210/) | 1994 | Review | Aust N Z J Obstet Gynaecol | Contraceptives and protection against STD/HIV transmission; not specific to cholic acid treatment |
+| [8849197](https://pubmed.ncbi.nlm.nih.gov/8849197/) | 1995 | Review | Ann Acad Med Singapore | Barrier methods for conception and disease prevention; not specific to cholic acid treatment |
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA205750 | CHOLBAM (Mirum Pharmaceuticals Inc.) | Capsule (oral) | Not stated in the license data |
-
-The pack lists two identical records for this NDA, shown once here.
-
----
+| NDA205750 (cancelled) | CHOLBAM (Mirum Pharmaceuticals Inc.) | Capsule | Not listed in the compiled data |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug interaction records were found.
+- **Disease-level contraindication signals (knowledge graph, not label text)**: liver disease, gallbladder disease, diarrheal disease, cholestasis, benign recurrent intrahepatic cholestasis, familial intrahepatic cholestasis, appendicitis, sclerosing cholangitis, primary biliary cholangitis, Reynolds syndrome.
+- **Drug Interactions**: 10 moderate-level interactions were identified:
+  - Bile acid sequestrants (cholestyramine, colesevelam, colestipol)
+  - Aluminum hydroxide and sucralfate
+  - Cyclosporine
+  - Phenobarbital
+  - Ribociclib
+  - Sorafenib
+  - Tipranavir (an HIV protease inhibitor, directly relevant to the predicted indication)
 
-One signal from the literature is relevant here: cholic acid derivatives enhanced HIV-1 replication in vitro (PMID 16610808). This has not been tested in patients, but it must be resolved before any HIV use is considered.
+  Pharmacology data also list GPBAR1 and FXR as targets.
 
----
+For label-based warnings and contraindications, please refer to the package insert.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trials and no therapeutic literature, and one in vitro study suggests possible harm. The model score alone is not enough to justify further investment.
+The prediction rests on a high model score alone. There are no clinical trials, the only direct antiviral data are old in vitro results, and a cholic acid derivative study showed enhanced HIV-1 replication. The product's only US NDA is cancelled.
 
 **To proceed, the following is needed:**
-- Package insert warnings, contraindications, and approved indication text (not yet retrieved)
-- Mechanism of action data from DrugBank
-- Direct in vitro evidence that cholic acid itself, not derivatives or detergent formulations, has antiviral activity without enhancing HIV replication
-- Any support for a plausible systemic HIV mechanism; otherwise, deprioritise this prediction
-
-**Other predictions:** "Vitamin deficiency disorder" (rank 5, L3) is the best supported of the ten, but it is a downstream consequence of the labeled bile acid synthesis disorder use, not an independent repurposing target. The other predictions are prediction-only, negative, or unrelated.
+- Mechanism of action data, to assess whether any plausible antiviral pathway exists
+- Label-based warnings and contraindications from the FDA package insert
+- Modern in vitro antiviral studies on cholic acid itself (not derivatives), including its effect on viral replication
+- Review of the tipranavir interaction and other antiretroviral co-medication concerns
+- If pursuing a different direction, note that the better-supported lead in the compiled predictions is **vitamin deficiency disorder** (L3), where cholic acid treats the underlying bile acid synthesis disorder. This is evidence of an indirect benefit, based on case series and retrospective cohorts rather than RCTs.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

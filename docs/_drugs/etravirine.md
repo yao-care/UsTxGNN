@@ -29,71 +29,85 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Etravirine: From HIV-1 Infection to Feline Acquired Immunodeficiency Syndrome
+# Etravirine: From HIV Infection to Feline Acquired Immunodeficiency Syndrome
 
 ## One-Sentence Summary
 
-Etravirine is an oral non-nucleoside reverse transcriptase inhibitor (NNRTI) used to treat HIV-1 infection.
-The TxGNN model predicts it may be effective for **feline acquired immunodeficiency syndrome (FIV)**, a veterinary disease.
-This prediction has **0 clinical trials** and **0 publications** behind it, so it rests on model output alone.
+Etravirine is a non-nucleoside reverse transcriptase inhibitor (NNRTI) originally used to treat HIV infection and AIDS.
+The TxGNN model predicts it may be effective for **feline acquired immunodeficiency syndrome**, but there are currently **0 clinical trials** and **0 publications** supporting this specific prediction. The evidence rests on model prediction alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | HIV-1 infection (the US label text is not included in the Evidence Pack) |
+| Original Indication | HIV infectious disease; AIDS |
 | Predicted New Indication | Feline acquired immunodeficiency syndrome |
 | TxGNN Prediction Score | 99.98% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 16 licenses (NDA and ANDA generics combined) |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 4 (1 NDA and 3 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not currently available. Etravirine is an HIV-1 NNRTI, and its efficacy against human HIV-1 is established. The model links it to feline AIDS because both diseases sit close together in the knowledge graph, under the "immunodeficiency virus" node.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known information, etravirine is an NNRTI that acts on HIV-1 reverse transcriptase, and its efficacy in HIV infection is established.
 
-The mechanistic basis is weak. Feline immunodeficiency virus (FIV) reverse transcriptase is generally not susceptible to NNRTIs, so a direct antiviral effect is unlikely. The high score (99.98%) most likely reflects the shared graph neighborhood rather than real pharmacology.
+The predicted indication is feline immunodeficiency virus (FIV) disease. FIV is a lentivirus related to HIV, which is the likely source of the prediction. However, FIV reverse transcriptase is generally considered intrinsically resistant to NNRTIs, so the mechanistic basis is weak. The high score most likely reflects closeness to HIV/AIDS in the knowledge graph rather than demonstrated antiviral activity against FIV.
 
-The indication is also veterinary, so it falls outside the human drug-development pathway.
+**Other predictions in the top 10**
+
+- **Simian immunodeficiency virus infection (99.98%):** SIV, like HIV-2, is typically not susceptible to NNRTIs, so activity is mechanistically uncertain. There is one preclinical publication on nanoparticle antiretroviral combinations against HIV, which is only indirect evidence.
+- **Congenital HIV (99.79%) and AIDS-related complex (99.79%):** These are essentially the original indication in other settings, so the mechanism applies directly. They are extensions of the existing indication rather than true repurposing. Their literature is indirect (see below).
+- **Neurodevelopmental disorder with ataxic gait, fibroma of prostate, Brenner tumor, benign reproductive system neoplasm, benign prostate phyllodes tumor, and obsolete familial combined hyperlipidemia:** No plausible mechanistic link was identified, and no trials or literature exist. These look like computational artifacts.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials registered for the top predicted indication or for any of the other nine predictions.
 
 ## Literature Evidence
 
-Currently no related literature available.
+No publications are available for the top predicted indication (feline AIDS). The publications below relate to lower-ranked predictions and provide only indirect support.
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [20587860](https://pubmed.ncbi.nlm.nih.gov/20587860/) | 2010 | Case series | Antiviral Therapy | Two cases of darunavir and etravirine, with or without raltegravir, used in pregnant, highly treatment-experienced women with HIV (congenital HIV) |
+| [19290032](https://pubmed.ncbi.nlm.nih.gov/19290032/) | 2009 | Cohort | AIDS Reviews | Risk factors for gastrointestinal adverse events in treated and untreated HIV patients (AIDS-related complex) |
+| [27067022](https://pubmed.ncbi.nlm.nih.gov/27067022/) | 2016 | Preclinical / in vitro | AIDS Research and Human Retroviruses | Novel L228I and Y232H reverse transcriptase mutations cause NNRTI resistance in combination (AIDS-related complex) |
+| [26529558](https://pubmed.ncbi.nlm.nih.gov/26529558/) | 2015 | Preclinical / in vitro | Molecular Pharmaceutics | Nanoparticle-based antiretroviral combinations show synergistic inhibition of cell-free and cell-cell HIV transmission (SIV infection) |
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA022187 | Intelence (Janssen Products LP) | Tablet | — |
-| ANDA219152 | Etravirine (Bionpharma Inc.) | Tablet | — |
-| ANDA215402 | Etravirine (Carnegie Pharmaceuticals LLC) | Tablet | — |
-| ANDA215402 | Etravirine (Leading Pharma, LLC) | Tablet | — |
-
-Only oral tablets are listed. The source data does not include approved indication text.
+| NDA022187 | Intelence (Janssen Products LP) | Tablet | Not stated; license cancelled |
+| ANDA219152 | Etravirine (Bionpharma Inc.) | Tablet | Not stated; license cancelled |
+| ANDA215402 | Etravirine (Carnegie Pharmaceuticals LLC) | Tablet | Not stated; license cancelled |
+| ANDA214196 | Etravirine (Amneal Pharmaceuticals NY LLC) | Tablet | Not stated; license cancelled |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Knowledge-graph contraindication signals** (from the TxGNN graph, not label text): chronic hepatitis C virus infection, hepatitis C virus infection, chronic hepatitis B virus infection, peripheral nervous system disease, and peripheral neuropathy.
+- **Drug Interactions:** 100 interactions were found. Most of those listed are Moderate. The main ones include:
+  - Acid suppressants: rabeprazole, omeprazole, cimetidine (ranitidine is Minor).
+  - Corticosteroids: hydrocortisone, dexamethasone, betamethasone, triamcinolone.
+  - Antidiabetics: pioglitazone, saxagliptin, linagliptin, glimepiride, chlorpropamide.
+  - Others: clarithromycin, aprepitant, metronidazole, dronabinol, eliglustat, naldemedine, naloxegol.
+
+Please refer to the package insert for warnings and contraindications, as label data was not available for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This prediction is model output only, with no trials or literature. Its mechanistic basis is weak because FIV reverse transcriptase is generally not NNRTI-susceptible, and the indication is veterinary.
-
-Two other predictions for this drug have somewhat more support (both L3). They are congenital HIV (rank 4) and AIDS-related complex (rank 5). Both largely overlap with etravirine's existing HIV indication, so they are not true repurposing. The Friedreich ataxia Phase 2 trial (NCT04273165) is a separate repurposing signal and does not support any of the predictions here.
+The top prediction (feline AIDS) has no clinical or literature support, and its mechanistic basis is weak because FIV reverse transcriptase is generally NNRTI-resistant. The strongest-scoring alternatives (congenital HIV, AIDS-related complex) are extensions of the existing HIV indication rather than new uses. All four US licenses are cancelled.
 
 **To proceed, the following is needed:**
-- Any in vitro evidence of etravirine activity against FIV reverse transcriptase, before further investment
-- The US package insert (indications, warnings, contraindications, drug interactions)
-- Mechanism of action data from DrugBank (DB06414)
-- Confirmation that the prediction has a human-medicine development path, given the veterinary indication
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data
+- In vitro activity data of etravirine against FIV reverse transcriptase before any further consideration
+- Confirmation of why the US licenses were cancelled (commercial or safety reasons)
+- If an HIV-related extension is of interest, controlled efficacy data for the perinatal and pediatric setting
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

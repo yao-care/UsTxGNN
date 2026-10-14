@@ -33,29 +33,28 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 ## One-Sentence Summary
 
-Mepivacaine is an amide local anesthetic sold as an injectable (infiltration, nerve block and dental use).
-The TxGNN model predicts it may be useful for **gastroduodenitis**, with a second prediction for **peptic ulcer disease**.
-There are currently **0 clinical trials** and **0 publications** supporting either prediction, so both rest on the model score alone.
+Mepivacaine is an amide-type local anesthetic, administered by injection.
+The TxGNN model predicts it may be effective for **gastroduodenitis**, but **no clinical trials** and **no relevant publications** currently support this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Local anesthesia (inferred from the injectable formulations; the license records list no indication text) |
+| Original Indication | Not specified in the available US license data (the approved indication text is empty) |
 | Predicted New Indication | Gastroduodenitis |
 | TxGNN Prediction Score | 99.49% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 18 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 6 (all ANDA, all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the input. Mepivacaine is an amide local anesthetic that blocks voltage-gated sodium channels. A plausible link is a temporary reduction of pain signaling from nerves in the stomach and duodenal lining. Local anesthetics such as lidocaine appear in symptomatic "GI cocktail" practice. This link is indirect and has not been established for mepivacaine.
+Currently, detailed mechanism of action data is not available. Based on general pharmacological knowledge, mepivacaine is an amide-type local anesthetic that blocks voltage-gated sodium channels. This information is not confirmed by the data compiled for this report.
 
-Any benefit would be symptom relief, not treatment of the underlying disease. The TxGNN score (0.995) is a knowledge-graph prediction only. The input has no recorded original indications and no drug-interaction data, so the mechanism cannot be checked against the source record.
+The relationship between its anesthetic use and gastroduodenitis is not established. One plausible but unverified idea is an anti-nociceptive effect on visceral afferent nerves, or an effect on mucosal inflammation. Neither is supported by evidence here. The TxGNN score is a computational prediction only and should not be read as proof of efficacy.
 
-For the second prediction, **peptic ulcer disease** (score 99.41%), no direct mechanism links sodium channel blockade to ulcer healing, acid suppression or *H. pylori* eradication. At most, ulcer pain might be relieved. Standard therapies (proton pump inhibitors, *H. pylori* eradication) are well established, so a candidate with no efficacy evidence has no clear unmet need to justify further work.
+A second predicted indication, peptic ulcer disease (score 99.41%), also has no supporting evidence. Sodium channel blockade has no established role in ulcer healing or acid suppression.
 
 ## Clinical Trial Evidence
 
@@ -63,42 +62,44 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for gastroduodenitis.
+
+For the second predicted indication, peptic ulcer disease, one publication was retrieved ([PMID 6890367](https://pubmed.ncbi.nlm.nih.gov/6890367/), 1982, *Arzneimittel-Forschung*). It is an animal safety pharmacology study of lofexidine, a different drug, and does not address mepivacaine. It is most likely a spurious match and is not counted as supporting evidence.
 
 ## US Market Information
 
-The five main authorizations are listed below. The records contain no approved-indication text.
-
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA089406 | POLOCAINE(R)-MPF (Mepivacaine HCl) | Injection, solution | HF Acquisition Co LLC, DBA HealthFirst |
-| ANDA088387 | Mepivacaine | Injection, solution | Benco Dental |
-| ANDA089410 | Polocaine | Injection, solution | Fresenius Kabi USA, LLC |
-| ANDA088387 | IQ Dental Mepivacaine | Injection, solution | IQ Dental |
-| ANDA088387 | Mepivacaine Hydrochloride | Injection, solution | Safco Dental Supply Co. |
+| ANDA089406 | Polocaine-MPF (Mepivacaine HCl), HF Acquisition Co (HealthFirst) | Injection, solution | Not listed (cancelled) |
+| ANDA088387 | Mepivacaine, Benco Dental | Injection, solution | Not listed (cancelled) |
+| ANDA089410 | Polocaine, Fresenius Kabi USA | Injection, solution | Not listed (cancelled) |
+| ANDA089409 | Polocaine-MPF, Fresenius Kabi USA | Injection, solution | Not listed (cancelled) |
+| ANDA089407 | Polocaine, Fresenius Kabi USA | Injection, solution | Not listed (cancelled) |
 
-All available products are injectables. No oral or topical gastrointestinal formulation is listed, so route compatibility with the predicted indications is unresolved.
+One further license (ANDA089408, Polocaine-MPF, Fresenius Kabi USA) is also cancelled. All six licenses are cancelled, so there is no currently valid US authorization in these records.
 
 ## Safety Considerations
 
-- **Systemic or oral exposure:** Mepivacaine is formulated for injection. Systemic or oral use raises concerns about methemoglobinemia and cardiac and CNS toxicity.
-- **Drug Interactions:** No interaction records were found in the query.
+- **Drug Interactions**: 11 interactions were identified. Ten are Moderate and one is Minor. Most involve other local anesthetics, which suggests additive effects.
+  - Moderate: liposomal morphine, topical lidocaine, topical benzocaine, ophthalmic lidocaine, topical and nasal cocaine, ophthalmic tetracaine, ophthalmic oxybuprocaine, topical cinchocaine, topical tetracaine.
+  - Minor: hyaluronidase.
+- **Knowledge-graph contraindication signals** (from the TxGNN knowledge graph, not label text): kidney disease, pyoureter, liver disease, gallbladder disease, myasthenia gravis (including adult-onset), neuromuscular junction disease, butyrylcholinesterase deficiency, cardiovascular disease, and heart disease. These need to be checked against the official package insert.
 
-Please refer to the package insert for full warnings and contraindications.
+Package insert warnings and contraindications were not available. Please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The predictions are supported only by a knowledge-graph score, with no clinical trials or publications (evidence level L5). The mechanism is indirect and limited to possible symptom relief. Only injectable products exist, and systemic exposure carries safety risks.
+The prediction rests only on a computational score, with no clinical trials and no relevant literature (Evidence Level L5). The drug also has no currently valid US license, and its mechanism and label safety data are missing.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data (e.g., from DrugBank)
-- Any preclinical or clinical evidence for gastroduodenitis or peptic ulcer disease
-- Assessment of route feasibility, since no oral or topical gastrointestinal formulation exists
-- For peptic ulcer disease, a clear unmet need beyond current standard therapy
+- Mechanism of action data, for example from DrugBank
+- A literature and trial search specific to mepivacaine in gastroduodenitis and peptic ulcer disease
+- A clear mechanistic rationale and route compatibility assessment (injectable form versus the GI target)
+- Review of the regulatory status, given that all licenses are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

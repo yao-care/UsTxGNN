@@ -29,80 +29,77 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-# Besifloxacin: From Bacterial Conjunctivitis to Bronchitis
+# Besifloxacin: From Conjunctivitis to Bronchitis
 
 ## One-Sentence Summary
 
-Besifloxacin is a fluoroquinolone antibacterial marketed as an ophthalmic suspension (Besivance) for eye infections. The TxGNN model predicts it may be effective for **bronchitis**, but there are currently **0 clinical trials** and **0 publications** supporting this direction. This is a model prediction only, and the route of administration is a major obstacle.
-
----
+Besifloxacin is a fluoroquinolone antibiotic, originally used as an ophthalmic suspension for bacterial conjunctivitis.
+The TxGNN model predicts it may be effective for **bronchitis**, but this is a computational prediction only, with **0 clinical trials** and **0 publications** supporting this specific direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Ocular bacterial infection (bacterial conjunctivitis). The license record has no indication text, so this is inferred from the Besivance trials |
+| Original Indication | Conjunctivitis; acute contagious conjunctivitis |
 | Predicted New Indication | Bronchitis |
 | TxGNN Prediction Score | 99.84% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 2 license entries (both under NDA022308, listed under two Bausch & Lomb entities) |
+| US Market Status | Cancelled only (no currently valid license) |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, besifloxacin belongs to the fluoroquinolone class of broad-spectrum antibacterials. Its efficacy in ocular bacterial infection is established, and other fluoroquinolones are used systemically for respiratory infections. That class-level link may explain the high TxGNN score.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, besifloxacin is a fluoroquinolone that inhibits bacterial DNA gyrase and topoisomerase IV. Activity against respiratory bacterial pathogens is therefore biologically plausible.
 
-The link is weak in practice. Besifloxacin is marketed only as an ophthalmic suspension with minimal systemic absorption, so it is unlikely to reach bronchial tissue at useful concentrations. The score most likely reflects graph similarity within the fluoroquinolone class rather than a plausible route of exposure.
+There are important limits on this rationale. Besifloxacin exists only as an ophthalmic suspension with minimal systemic exposure, and no systemic or inhaled formulation is available. Most bronchitis cases are viral, which further weakens the case for an antibacterial. The very high TxGNN score reflects model output, not clinical evidence.
 
-Route compatibility has not been assessed, and no besifloxacin trials or literature exist for bronchitis.
-
----
+Other predictions were also reviewed. Most are mechanistically weak, because they are immune-mediated or toxin-mediated conditions (postinfectious vasculitis, post-infectious syndrome, infection-related hemolytic uremic syndrome), anatomical or fibrotic (infective urethral stricture), or parasitic (Chagas cardiomyopathy). **Otitis externa** (score 99.03%) is the most mechanistically plausible, because topical fluoroquinolones are established treatments for it. However, no otic formulation or trial exists for besifloxacin.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no clinical trials are registered for bronchitis, the top predicted indication.
 
----
+For reference, one trial is linked to a lower-ranked prediction ("post-bacterial disorder"). It is a safety and exposure study in the original conjunctivitis context, not an efficacy test of the predicted indication:
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT00407589](https://clinicaltrials.gov/study/NCT00407589) | Phase 1 | Completed | 24 | Systemic pharmacokinetics after single and multiple ocular instillations in suspected bacterial conjunctivitis; shows low systemic exposure, which argues against systemic repurposing |
 
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA022308 | Besivance (Bausch & Lomb Americas Inc.) | Suspension | Not specified in the license record |
-| NDA022308 | Besivance (Bausch & Lomb Incorporated) | Suspension | Not specified in the license record |
+| NDA022308 | Besivance (Bausch & Lomb Americas Inc.) | Suspension | Not specified in the compiled data (license status: cancelled) |
 
----
+## Cytotoxicity
+
+Not applicable. Besifloxacin is an antibacterial, not an antineoplastic drug, so this section is omitted.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Knowledge-graph contraindication signal**: The TxGNN knowledge graph lists "superimposed infection" (an obsolete term) as a contraindication. This comes from graph edges, not label text.
+- **Predicted-indication concern**: For infection-related hemolytic uremic syndrome, antibiotics including fluoroquinolones may increase toxin release and risk. This is a safety concern, not a therapeutic rationale.
 
-A Phase 1 pharmacokinetic study in bacterial conjunctivitis (NCT00407589) supports low systemic exposure after ophthalmic use. This also limits any relevance to a respiratory indication.
-
----
+No drug interaction records were found. For full warnings and contraindications, please refer to the package insert.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on class-level model similarity only (L5). No trials or literature support bronchitis, and the ophthalmic-only formulation makes therapeutic exposure in the bronchi implausible.
+The bronchitis prediction rests only on a model score, with no trials or literature. The drug is available only as an ophthalmic suspension with minimal systemic exposure, and its only US license is cancelled. Most bronchitis is viral. All eight predicted indications remain at evidence level L5.
 
 **To proceed, the following is needed:**
-- The FDA package insert (warnings and contraindications), which blocks the safety screen
-- Mechanism of action data (DrugBank)
-- A route and formulation feasibility assessment. This would require a non-ophthalmic formulation, which does not currently exist
-- A targeted literature search on besifloxacin in respiratory infection
-- Note: among the other predictions, the rank 3 "post-bacterial disorder" has six besifloxacin trials, but all are ocular and indirect. Rank 8 "otitis externa" has a class-level rationale (topical fluoroquinolones), but no besifloxacin data.
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism-of-action data from DrugBank
+- In vitro susceptibility data against bronchitis-relevant bacterial pathogens
+- A feasible systemic or inhaled formulation, with a route compatibility assessment
+- If a lead indication is pursued, consider otitis externa instead, which would require otic formulation feasibility work and susceptibility data against *Pseudomonas aeruginosa* and *Staphylococcus aureus*
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

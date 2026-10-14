@@ -29,33 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Nitrogen: From Unspecified Approved Use to 16q24.1 Microdeletion Syndrome
+# Nitrogen: From Congenital Alveolar Capillary Dysplasia to 16q24.1 Microdeletion Syndrome
 
 ## One-Sentence Summary
 
-Nitrogen is a marketed gas (gas and liquid forms) with no approved indication text listed in the US records.
-The TxGNN model predicts it may be effective for **16q24.1 microdeletion syndrome**, but there are **0 clinical trials** and **0 publications** supporting this direction.
-The high score appears to be a knowledge-graph artifact rather than a pharmacological signal.
+Nitrogen is a medical gas that, according to the knowledge graph, is associated with congenital alveolar capillary dysplasia and persistent fetal circulation syndrome.
+The TxGNN model predicts it may be effective for **16q24.1 microdeletion syndrome**,
+but there are currently **0 clinical trials** and **0 publications** supporting this prediction, so it rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not specified in the available records |
+| Original Indication | Congenital alveolar capillary dysplasia; persistent fetal circulation syndrome (from the knowledge graph; no approved indication text is available in US licence records) |
 | Predicted New Indication | 16q24.1 microdeletion syndrome |
 | TxGNN Prediction Score | 99.73% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| US Market Status | Cancelled only |
+| Number of NDAs | 9 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Nitrogen is an inert gas with no known pharmacological target, and no original indication is recorded in the US license data.
+Currently, detailed mechanism of action data is not available. Nitrogen is an inert gas used in medical gas mixtures, for example to dilute oxygen or to adjust inspired oxygen levels. No disease-modifying pharmacology is established for it.
 
-16q24.1 microdeletion syndrome is a chromosomal deletion disorder involving the FOXF1 region, which is linked to alveolar capillary dysplasia. It is a genetic developmental condition, and a drug with no receptor or enzyme activity has no plausible route to correct it.
+The predicted disease, 16q24.1 microdeletion syndrome, involves the FOXF1 gene and its regulatory region. It is the genetic cause of alveolar capillary dysplasia with misalignment of pulmonary veins (ACDMPV), which is the same disease spectrum as nitrogen's original knowledge-graph indication. The high score therefore most likely reflects closeness in the disease ontology rather than a new mechanism.
 
-The other top predictions show the same pattern: primary interstitial lung disease specific to childhood, isolated pulmonary capillaritis and congenital pulmonary lymphangiectasia. All are rare lung or vascular disorders, and none has a plausible mechanism for nitrogen. The score of 99.73% (model rank 7,331) therefore should not be read as evidence of efficacy.
+Nitrogen could at most play a supportive role in respiratory management, such as modulating pulmonary vascular resistance through hypoxic gas mixtures. It does not correct the underlying genetic defect.
 
 ## Clinical Trial Evidence
 
@@ -67,32 +67,46 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| Not specified | Nitrogen | Gas | Messer Gas Puerto Rico, Inc |
-| NDA205766 | NITROGEN | Gas | Keen Compressed Gas Co. Inc. |
-| NDA205766 | Nitrogen | Liquid | Haun Welding Supply, Inc. |
-| NDA205866 | NITROGEN | Gas | Air Source Industries Inc |
-| NDA205766 | Nitrogen | Gas | Quality Air Products Inc |
+All nine US authorizations are cancelled, and none carries approved indication text.
 
-No approved indication text is listed for any of these authorizations. The table shows 5 of 20 total authorizations.
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA205766 | NITROGEN (Keen Compressed Gas Co. Inc.) | Gas | Not stated; cancelled |
+| NDA205866 | NITROGEN (Air Source Industries Inc) | Gas | Not stated; cancelled |
+| NDA205850 | Nitrogen (NexAir, LLC) | Gas | Not stated; cancelled |
+| NDA205713 | Nitrogen (Arcet Equipment Company dba Arc3 Gases North) | Gas | Not stated; cancelled |
+| NDA205891 | Nitrogen (TIMS SOUTH TEXAS LLC) | Gas | Not stated; cancelled |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Knowledge-graph contraindications** (from drug-disease contraindication edges, not label text): methemoglobinemia, sulfhemoglobinemia, heart failure.
+- **Drug Interactions**: No interactions were found in the data compiled for this report.
+
+Please refer to the package insert for further safety information.
+
+## Other Predicted Indications
+
+The model also ranked three further predictions. All have Evidence Level L5, no trials, no publications, and a Hold recommendation.
+
+| Predicted Indication | TxGNN Score | Assessment |
+|------|------|------|
+| Primary interstitial lung disease specific to childhood | 99.72% | No direct mechanistic link. Nitrogen is inert, and any role would be limited to gas-mixture supportive care. |
+| Isolated pulmonary capillaritis | 99.72% | This is an immune-mediated vasculopathy treated with immunosuppression. Nitrogen has no anti-inflammatory or immunomodulatory mechanism. |
+| Congenital pulmonary lymphangiectasia | 99.68% | This is a developmental lymphatic disorder. Overlap is limited to neonatal respiratory support, which does not treat the underlying abnormality. |
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score, with no clinical trials, no literature and no plausible mechanism for an inert gas acting on a chromosomal deletion disorder. There is no basis to advance this candidate.
+The prediction rests only on model output and disease-network proximity. There are no clinical trials or publications, no mechanism of action data, and all US authorizations are cancelled. Nitrogen is an inert gas and cannot correct the FOXF1-related genetic defect.
 
 **To proceed, the following is needed:**
-- Mechanism of action data (MOA) that could link nitrogen to the disease biology
-- Package insert warnings and contraindications for safety screening
-- Any preclinical or clinical study directly testing nitrogen in the predicted disease
-- Route and dosage-form compatibility assessment (gas and liquid forms only, no therapeutic route defined)
+- Package insert warnings and contraindications, which are required before any safety screening
+- Mechanism of action data
+- A literature and trial search on nitrogen or hypoxic gas mixtures in ACDMPV and related neonatal pulmonary conditions
+- Clarification of whether the original indications come from labelled use or only from the knowledge graph
+- A route and formulation compatibility assessment
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

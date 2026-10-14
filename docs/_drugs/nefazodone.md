@@ -33,29 +33,29 @@ Evidence Level: **L4** | Predicted Indications: **2**
 
 ## One-Sentence Summary
 
-Nefazodone is an oral antidepressant. The Evidence Pack does not state its original indication, so "depression" here comes from general pharmacology.
-The TxGNN model predicts it may be effective for **migraine disorder**, but there are currently **0 registered clinical trials** and only **3 narrative reviews** behind this direction. The evidence is preliminary, and the drug carries a serious liver-safety concern.
+Nefazodone is an antidepressant originally used to treat depression (including major depressive disorder) and anxiety disorder.
+The TxGNN model predicts it may be effective for **Migraine Disorder**,
+but currently only **0 clinical trials** and **1 publication** (a 2004 review) touch on this direction, so the evidence is weak.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Unipolar depression, endogenous depression, major depressive disorder, anxiety disorder (from the knowledge graph; no approved indication text in the US license record) |
 | Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 99.60% |
 | Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 6 (all under ANDA076037, a generic application) |
+| US Market Status | Cancelled only (no active license) |
+| Number of NDAs | 1 (ANDA, cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Based on general pharmacology, nefazodone is a potent 5-HT2A antagonist with weak serotonin and norepinephrine reuptake inhibition. This link therefore rests on general knowledge and not on data supplied here.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, nefazodone is an antidepressant with serotonergic activity (5-HT2A antagonism and serotonin reuptake inhibition). Its efficacy in depression and anxiety has been established, and serotonergic modulation is plausibly relevant to migraine prophylaxis. This link is inferred, not documented in the available data.
 
-Blocking 5-HT2A/2C receptors is a recognized rationale for migraine prevention. Other antidepressants, such as amitriptyline and venlafaxine, are already used for prophylaxis. This makes the prediction mechanistically plausible but unconfirmed. A 2004 review lists nefazodone among the emerging preventive options for migraine.
+The only supporting literature is a 2004 review of emerging migraine preventive therapies, which lists nefazodone among several candidates. This is indirect, non-trial evidence. The high TxGNN score (0.996) reflects a model-based signal and should not be read as clinical validation.
 
-The model also gave a similar score (99.60%) to **migraine with brainstem aura**, a rare subtype. There are no trials or publications for it. The score most likely reflects its proximity to the parent migraine node in the knowledge graph and is not an independent signal, so it is not evaluated further here.
-
-The TxGNN score is a model prediction, not clinical evidence.
+A second predicted indication, **migraine with brainstem aura** (score 99.60%), has no trials and no literature. It likely stems from its close ontology relationship to migraine disorder and is not independently supported.
 
 ## Clinical Trial Evidence
 
@@ -65,44 +65,35 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [15115635](https://pubmed.ncbi.nlm.nih.gov/15115635/) | 2004 | Review | Current Pain and Headache Reports | Reviews emerging migraine preventive options. Nefazodone is among the agents discussed, alongside topiramate, levetiracetam, zonisamide, botulinum toxin, tizanidine, lisinopril and candesartan. |
-| [15549532](https://pubmed.ncbi.nlm.nih.gov/15549532/) | 2004 | Review | Neurological Sciences | Reviews new migraine prevention drugs. Some data come from double-blind controlled studies and some only from open, uncontrolled trials. |
-| [15926007](https://pubmed.ncbi.nlm.nih.gov/15926007/) | 2005 | Review | Neurological Sciences | Overview of current and emerging migraine preventive treatments. The abstract does not name nefazodone specifically. |
-
-All three are narrative reviews from 2004–2005. None is a controlled trial of nefazodone in migraine.
+| [15115635](https://pubmed.ncbi.nlm.nih.gov/15115635/) | 2004 | Review | Current Pain and Headache Reports | Reviews emerging migraine preventive options (topiramate, levetiracetam, zonisamide, botulinum toxin, tizanidine, nefazodone, lisinopril, candesartan, and others) alongside an overview of migraine pathophysiology |
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA076037 | Nefazodone Hydrochloride | Tablet (oral) | Teva Pharmaceuticals USA, Inc. |
-| ANDA076037 | Nefazodone Hydrochloride | Tablet (oral) | Bryant Ranch Prepack |
-
-The Evidence Pack lists 5 entries under the same authorization number (4 Teva, 1 Bryant Ranch Prepack), with no approved-indication text.
+| ANDA076037 | Nefazodone Hydrochloride (Teva Pharmaceuticals USA, Inc.) | Tablet (oral) | Not listed; license cancelled |
 
 ## Safety Considerations
 
-- **Key Warnings**: Nefazodone carries a boxed warning for hepatotoxicity (liver failure). This comes from the Pack's rationale notes, not from parsed label data.
-- **Drug Interactions**: Nefazodone is a strong CYP3A4 inhibitor, so clinically significant interactions are likely. The DDI query returned no results, which is probably a data gap and not evidence of no interactions.
-- Migraine is a chronic condition treated long-term and has many safer alternatives, so this risk weighs heavily against use.
+- **Knowledge-graph contraindication signals** (from drug-disease relationships, not label text): epilepsy, liver disease, gallbladder disease, hypotensive disorder, stroke and cerebrovascular disorders, cerebral infarction, myocardial infarction, coronary thrombosis, cardiovascular and heart disease, hemoglobinopathy, and substance-related disorder/substance abuse or dependence.
+- **Drug Interactions**: The query returned 100 interacting drugs. Examples of **Major** interactions include loperamide, bupropion, triamcinolone, lorcaserin, budesonide, and dolasetron. **Moderate** interactions include hydrocortisone, pioglitazone, alosetron, aprepitant, morphine, dexamethasone, betamethasone, clarithromycin, and saxagliptin.
+- **Other considerations**: Hepatotoxicity concerns are associated with this drug's market withdrawal, and the large interaction burden is consistent with strong CYP3A4 inhibition. These points come from general knowledge and the repurposing assessment, not from label data in this report.
 
-Please refer to the package insert for complete warnings and contraindications.
+Please refer to the package insert for full warnings and contraindications, which were not available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The only support is a model prediction and three older narrative reviews, with no registered trials. The hepatotoxicity boxed warning and strong CYP3A4 inhibition make the risk-benefit balance unfavorable for a chronic, preventive use with many safer alternatives.
+The prediction rests on a model score and a single 2004 review, with no clinical trials. The drug has no active US license, a hepatotoxicity history, a heavy interaction burden, and several cardiovascular and hepatic contraindication signals, all of which weigh against pursuing it for migraine prophylaxis now.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data from DrugBank
-- A full DDI profile
-- Controlled clinical data of nefazodone in migraine prevention
-- A risk-benefit comparison against existing prophylactic agents (e.g., amitriptyline, venlafaxine)
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism of action data
+- Primary clinical evidence in migraine (controlled trials or at least well-designed observational studies)
+- A hepatotoxicity risk-benefit analysis versus existing migraine preventives
+- Assessment of route and formulation compatibility, and of regulatory feasibility given the cancelled license
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

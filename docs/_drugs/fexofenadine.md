@@ -29,31 +29,31 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Fexofenadine: From Allergy Relief to Rosacea Conjunctivitis
+# Fexofenadine: From Allergic Rhinitis to Rosacea Conjunctivitis
 
 ## One-Sentence Summary
 
-Fexofenadine is marketed in the US in oral tablet products labeled for allergy relief. The TxGNN model predicts it may be effective for **rosacea conjunctivitis**, but there are currently **0 clinical trials** and **0 publications** supporting this direction. The prediction rests on the knowledge-graph score alone.
+Fexofenadine is an antihistamine originally used to treat allergic rhinitis, allergic and other forms of conjunctivitis, and idiopathic urticaria.
+The TxGNN model predicts it may be effective for **rosacea conjunctivitis**,
+but there are currently **0 clinical trials** and **0 publications** supporting this direction, so it is a model prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in the source data (product names indicate allergy relief) |
+| Original Indication | Allergic rhinitis (also vasomotor rhinitis, atopic, papillary and vernal conjunctivitis, idiopathic urticaria) |
 | Predicted New Indication | Rosacea conjunctivitis |
 | TxGNN Prediction Score | 99.85% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (all listed authorizations are ANDAs) |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 5 (all cancelled; listed as ANDAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the supplied data. Fexofenadine is a second-generation, peripherally acting H1-receptor antagonist (general pharmacological knowledge, not taken from the Evidence Pack). A plausible but unverified hypothesis is that it could relieve histamine-mediated ocular surface symptoms such as itching and redness.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on established pharmacology, fexofenadine is a selective peripheral histamine H1-receptor antagonist. Its efficacy in allergic, atopic, papillary and vernal conjunctivitis suggests a possible, indirect link to histamine-mediated inflammation of the ocular surface.
 
-The relationship between the original and predicted indications is weak. Ocular rosacea is driven mainly by meibomian gland dysfunction, innate-immune and inflammatory dysregulation, and ocular surface microbiome changes. An antihistamine is unlikely to address this core pathology. At most it might ease allergic-type symptoms that coexist with the condition.
-
-The score of 0.998 (graph rank 4573) is a hypothesis-generating signal, not evidence of efficacy. No mechanism could be verified from the supplied data.
+However, the mechanistic rationale for rosacea conjunctivitis is weak. Ocular rosacea is driven mainly by meibomian gland dysfunction, Demodex colonization, innate immune activation and neurovascular dysregulation, with limited histamine involvement. The very high TxGNN score (99.85%) is a computational result that likely reflects network proximity to the approved conjunctivitis indications. It is not backed by clinical or literature evidence. Route compatibility and similarity to the original indications have not yet been assessed.
 
 ## Clinical Trial Evidence
 
@@ -67,33 +67,37 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA204507 | Fexofenadine HCl | Tablet, film coated | Not listed in source data |
-| ANDA211075 | allergy relief | Tablet | Not listed in source data |
-| ANDA204097 | Fexofenadine HCL | Tablet | Not listed in source data |
-| ANDA211075 | Allergy Relief | Tablet | Not listed in source data |
-| ANDA204097 | 24HR Allergy Relief | Tablet | Not listed in source data |
+| ANDA204507 (cancelled) | Fexofenadine HCl | Tablet, film coated | Not listed |
+| ANDA211075 (cancelled) | Allergy relief | Tablet | Not listed |
+| ANDA204097 (cancelled) | Fexofenadine HCL | Tablet | Not listed |
+| ANDA212971 (cancelled) | Fexofenadine Hydrochloride | Tablet, film coated | Not listed |
+| ANDA076502 (cancelled) | Allergy Relief | Tablet | Not listed |
 
-All listed products are oral tablets. No ocular or topical formulation appears in the data. Route compatibility with an ocular indication has not been assessed.
+All five authorizations are cancelled, and no valid single-ingredient or combination licenses remain in the compiled data.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Disease associations flagged as contraindications in the knowledge graph (not label text)**: hypertension/hypertensive disorder, kidney disease, pyoureter, diabetes mellitus, diabetic ketoacidosis, benign prostatic hyperplasia, coronary artery disease, coronary atherosclerosis, arteriosclerosis/atherosclerosis, angle-closure glaucoma, hyperthyroidism, Graves disease and thyrotoxicosis. These come from a computational knowledge graph and should be verified against the package insert.
+- **Drug Interactions** (100 interactions recorded; examples shown):
+  - Moderate: eliglustat, eluxadoline, rolapitant, magnesium hydroxide, aluminum hydroxide, magaldrate, magnesium carbonate. The antacids are notable because aluminum- and magnesium-containing products may reduce fexofenadine absorption.
+  - Minor: clarithromycin, miconazole, clotrimazole.
+  - Severity not classified: calcitriol, doxycycline, cimetidine, levocarnitine, epinephrine, dolasetron, dicyclomine, chlorhexidine, famotidine, acetylsalicylic acid.
+
+Please refer to the package insert for official warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The only support is a model prediction (Evidence Level L5), with no trials, no literature and no verified mechanism. The plausible mechanism, symptomatic antihistamine effect, does not address the main drivers of ocular rosacea. The prediction is a hypothesis only and does not justify advancing.
+The prediction rests only on a model score. There are no clinical trials or publications, the mechanistic link to rosacea-associated conjunctivitis is weak, and all US licenses in the data are cancelled.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, which are needed for safety screening
-- Mechanism of action data (e.g., from DrugBank) and an analysis of its link to ocular rosacea pathology
-- Original approved indication text
-- A systematic literature and trial search for antihistamines in ocular rosacea or blepharoconjunctivitis
-- A route and formulation assessment, since the marketed products are oral tablets and an ocular indication may need a different route
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Retrieval and review of the FDA package insert warnings and contraindications
+- Confirmed mechanism of action data (DrugBank)
+- A literature and trial search specific to ocular rosacea and antihistamines
+- Assessment of route compatibility (oral drug versus the ocular surface target) and similarity to the original indications
+- Preclinical or mechanistic evidence for any histamine role in ocular rosacea
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

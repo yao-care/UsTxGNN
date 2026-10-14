@@ -29,105 +29,87 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-# Tadalafil: From a Marketed PDE5 Inhibitor to Ambras Type Hypertrichosis Universalis Congenita
+# Tadalafil: From Erectile Dysfunction and Pulmonary Hypertension to Ambras Type Hypertrichosis Universalis Congenita
 
 ## One-Sentence Summary
 
-Tadalafil is a marketed oral PDE5 inhibitor with 20 U.S. authorizations, but the Evidence Pack does not record its original indication.
-The TxGNN model predicts it may be effective for **Ambras type hypertrichosis universalis congenita**.
-There are **0 clinical trials** and **0 publications** for this pair, so the prediction rests on the model score alone.
-
----
+Tadalafil is a PDE5 inhibitor originally used for erectile dysfunction, benign prostatic hyperplasia, and pulmonary hypertension.
+The TxGNN model predicts it may be effective for **Ambras type hypertrichosis universalis congenita**, but **0 clinical trials** and **0 publications** currently support this direction. The prediction is a model output only, and it may reflect an adverse-effect association rather than a therapeutic one.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in the provided data (approved indication text is empty for all listed licenses) |
+| Original Indication | Erectile dysfunction, benign prostatic hyperplasia, pulmonary hypertension, psychologic dyspareunia, premature ejaculation (from the knowledge graph; no approved-indication text is available in the US license records) |
 | Predicted New Indication | Ambras type hypertrichosis universalis congenita |
 | TxGNN Prediction Score | 99.98% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (the five listed are ANDAs, i.e., generics) |
+| US Market Status | Cancelled only (all 11 licenses cancelled) |
+| Number of NDAs | 11 (all generic ANDAs; no NDA among them) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Tadalafil is a PDE5 inhibitor, which raises cGMP. No established link exists between this pathway and hair-follicle development.
+Currently, detailed mechanism of action data is not available in the compiled data. Tadalafil is generally known as a PDE5 inhibitor that raises cGMP and causes vasodilation. Its efficacy in erectile dysfunction and pulmonary hypertension is established.
 
-Ambras syndrome is a rare genetic condition caused by a chromosomal rearrangement, not by a cGMP-related disorder. The very high score (0.9998) most likely reflects the shared hypertrichosis and hair-phenotype cluster in the knowledge graph, not a causal pathway.
+The predicted disease is a congenital condition driven by genetic (chromosomal or regulatory) abnormalities, and a biological link to PDE5 inhibition is not evident. The high score likely comes from knowledge-graph proximity to hypertrichosis-related phenotypes. Hypertrichosis is a known adverse effect of vasodilators such as minoxidil, so the association may point in the wrong direction (inducing rather than treating). The therapeutic rationale is unsupported.
 
-The prediction is therefore a statistical association only. Other predicted entries show the same pattern: hypertrichosis, isolated genetic hair shaft abnormality and familial isolated trichomegaly. For hypertrichosis, the graph may encode an adverse-effect neighborhood rather than a treatment target. Vasodilator-associated hypertrichosis is known (e.g., minoxidil), but it works through a different mechanism (K-ATP channel opening).
-
----
+The other top-ranked predictions show the same pattern, and the compiled data provides no evidence for any of them:
+- Hypertrichosis (99.98%): likely a shared vasodilatory or cGMP-pathway signal, with an unclear direction of effect.
+- Malformation syndrome with odontal and/or periodontal component (99.97%): no plausible mechanism.
+- Syndrome with a Dandy-Walker malformation as major feature (99.97%): a structural brain anomaly that a PDE5 inhibitor would not be expected to reverse.
+- Isolated genetic hair shaft abnormality (99.96%): no established rationale.
+- Familial isolated trichomegaly (99.65%): a genetic trait with no plausible therapeutic mechanism.
+- Kyphoscoliotic heart disease (99.43%): the most biologically plausible, because kyphoscoliosis can cause chronic hypoxia and secondary pulmonary hypertension. This is a hypothesis only and has not been tested.
+- Migraine with brainstem aura (99.08%): the only evidence is a case report suggesting tadalafil may trigger aura (an adverse-event signal).
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for the top-ranked prediction.
 
-For reference, one lower-ranked prediction (malformation syndrome with odontal and/or periodontal component) returned 20 publications. They are general periodontitis literature, and none of the titles mention tadalafil or PDE5 inhibition. They are not evidence for this drug.
+For reference, the only publication found among the top predictions relates to migraine with brainstem aura (rank 8):
 
----
-
-## Other Predicted Indications (All Prediction-Only)
-
-| Rank | Predicted Indication | TxGNN Score | Trials / Publications | Note |
-|------|------|------|------|------|
-| 2 | Hypertrichosis (disease) | 99.98% | 0 / 0 | Direction unclear; may reflect adverse-effect association |
-| 3 | Malformation syndrome with odontal and/or periodontal component | 99.97% | 0 / 20 (not drug-specific) | Retrieved literature is a poor fit |
-| 4 | Syndrome with a Dandy-Walker malformation as major feature | 99.97% | 0 / 0 | Structural defect; no mechanistic rationale |
-| 5 | Isolated genetic hair shaft abnormality | 99.96% | 0 / 0 | Gene-driven structural defect |
-| 6 | Familial isolated trichomegaly | 99.65% | 0 / 0 | Hair-phenotype cluster |
-| 7 | Kyphoscoliotic heart disease | 99.43% | 0 / 0 | Only conceivable rationale (pulmonary hypertension and right heart strain) |
-| 8 | Migraine with brainstem aura | 99.08% | 0 / 0 | Caution: headache and migraine are known PDE5 inhibitor adverse effects |
-
----
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [17059442](https://pubmed.ncbi.nlm.nih.gov/17059442/) | 2006 | Case report | Cephalalgia | Tadalafil associated with typical migraine aura without headache, an adverse-event signal rather than evidence of benefit |
 
 ## US Market Information
 
-Five of the 20 authorizations are shown. The approved indication text is empty in the provided data.
+All 11 US licenses are listed as cancelled, and none has approved-indication text on record. Five of them are shown below.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA205885 | Tadalafil | Tablet, film coated | Teva Pharmaceuticals, Inc. |
-| ANDA209654 | Tadalafil | Tablet | Preferred Pharmaceuticals Inc. |
-| ANDA209654 | Tadalafil | Tablet | NuCare Pharmaceuticals, Inc. |
-| ANDA210609 | Tadalafil | Tablet | Preferred Pharmaceuticals Inc. |
-| ANDA210609 | Tadalafil | Tablet | NuCare Pharmaceuticals, Inc. |
-
-All listed products are oral tablets.
-
----
+| ANDA205885 | Tadalafil (Teva Pharmaceuticals) | Tablet, film coated | Not available |
+| ANDA209654 | Tadalafil (Preferred Pharmaceuticals) | Tablet | Not available |
+| ANDA210609 | Tadalafil (Preferred Pharmaceuticals) | Tablet | Not available |
+| ANDA211298 | Tadalafil (Proficient Rx) | Tablet, film coated | Not available |
+| ANDA209908 | Tadalafil (Camber Pharmaceuticals) | Tablet, film coated | Not available |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindications flagged in the knowledge graph (not label text):** liver failure, epilepsy, aortic stenosis and other aortic valve disease, hypotensive disorder, blood coagulation disease, acute coronary syndrome, myocardial infarction, stroke and other cerebrovascular disorders, sickle cell anemia and other hemoglobinopathies, plasma cell myeloma, leukemia, priapism, Peyronie disease, hearing loss disorders, and hypertrophic cardiomyopathy.
+- **Drug Interactions:** 100 interactions were found in total. The main moderate-level ones include aprepitant, dexamethasone, clarithromycin, cimetidine, miconazole, clotrimazole, lorcaserin, sapropterin, troglitazone, and the SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin). Papaverine is a minor interaction.
+- **Additional signal:** A case report linked tadalafil to migraine aura, which should be noted in any neurological indication work.
 
----
+Please refer to the package insert for official warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All eight predictions are at Evidence Level L5 (model prediction only), with no trials and no drug-specific publications. The top-ranked predictions have no plausible link to PDE5/cGMP signaling. Two entries also raise concerns: hypertrichosis may be an adverse-effect association, and migraine is a known adverse effect of this drug class.
+The prediction has no trials or publications (Evidence Level L5). The biological rationale is weak, and the signal may reflect an adverse-effect association (hypertrichosis from vasodilation) rather than a therapeutic one. All US licenses are also cancelled, and the official safety label data is missing.
 
 **To proceed, the following is needed:**
-- Original indication and mechanism of action data for tadalafil (DrugBank query)
-- Package insert warnings and contraindications (blocking for S1 safety screening)
-- A drug-specific literature and trial search (tadalafil or PDE5 inhibitor plus each target disease), since the current search returned only disease-term literature
-- For kyphoscoliotic heart disease, a dedicated evidence search on the pulmonary hypertension pathway, as the only mechanistically conceivable candidate
-- A check of prediction direction (therapeutic vs. adverse-effect association) for the hypertrichosis and migraine entries
-
-*This report is for research reference only and does not constitute medical advice. Drug repurposing candidates require clinical validation before any clinical use.*
+- Detailed mechanism of action data (MOA)
+- FDA package insert warnings and contraindications, needed for safety screening
+- A literature review to clarify the direction of effect for hypertrichosis (therapeutic vs. adverse)
+- Consider a targeted review of PDE5 inhibitors in secondary pulmonary hypertension, which could assess kyphoscoliotic heart disease, the most plausible of the predictions
+- Confirmation of current US market and licensing status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,13 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Levobunolol: From Ocular Hypertension/Open-Angle Glaucoma (Inferred) to Primary Hereditary Glaucoma
+# Levobunolol: From Open-Angle Glaucoma to Primary Hereditary Glaucoma
 
 ## One-Sentence Summary
 
-Levobunolol is a non-selective beta-blocker eye drop. The published literature shows it is used to lower intraocular pressure in open-angle glaucoma and ocular hypertension.
-The TxGNN model predicts it may be effective for **primary hereditary glaucoma** (score 99.98%), but **no trials or publications** were found for that exact term.
-The related entries "glaucoma 1, open angle" and "open angle glaucoma" have about **20 publications each** and no registered trials. These look like an existing approved use rather than true repurposing.
+Levobunolol is a topical beta-blocker, originally used to treat open-angle glaucoma and ocular hypertension.
+The TxGNN model predicts it may be effective for **primary hereditary glaucoma**, but **no clinical trials and no publications** specific to this indication were found.
+The evidence reviewed mainly confirms the existing glaucoma use, which is not a true repurposing signal.
 
 ---
 
@@ -43,48 +43,49 @@ The related entries "glaucoma 1, open angle" and "open angle glaucoma" have abou
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the US license record; the literature indicates ocular hypertension and chronic open-angle glaucoma |
+| Original Indication | Open-angle glaucoma; ocular hypertension |
 | Predicted New Indication | Primary hereditary glaucoma |
 | TxGNN Prediction Score | 99.98% |
-| Evidence Level | L5 for the predicted term (no direct studies); provisional L1 for the open-angle glaucoma entries (published randomized trials, no registry records, full-text confirmation needed) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 1 (ANDA074326) |
-| Recommended Decision | Hold (for the headline term); Proceed with Guardrails for the open-angle glaucoma entries |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no active license) |
+| Number of NDAs | 1 (an ANDA, cancelled) |
+| Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the database record. From the literature, levobunolol is a potent non-selective beta-adrenoceptor blocker. It lowers intraocular pressure by reducing aqueous humor production, probably through beta-receptors on the ciliary epithelium.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, levobunolol is a non-selective beta-adrenergic blocker. It lowers intraocular pressure by reducing aqueous humor production. Its efficacy in open-angle glaucoma and ocular hypertension is well documented.
 
-Primary hereditary glaucoma is a broad label for glaucoma that runs in families. Lowering intraocular pressure is the shared treatment goal across glaucoma types, so the mechanism is plausible. However, the very high TxGNN score most likely reflects the term's closeness to the open-angle glaucoma nodes in the knowledge graph. It is not independent evidence. The term is also a broad or parent-level label, and no studies were retrieved under it.
+Primary hereditary glaucoma is also a disease of raised intraocular pressure, so the same pressure-lowering mechanism could plausibly apply. However, the high TxGNN score most likely reflects how closely the disease terms sit together in the knowledge graph, not independent evidence. It is also unclear whether "primary hereditary glaucoma" differs meaningfully from the already-approved open-angle glaucoma indication.
 
-The open-angle glaucoma literature (mostly head-to-head comparisons with timolol and studies of up to 4 years) points to an established use, not a new one. The license record has no indication text, so this should be confirmed against the current US label.
+The other two predictions, "glaucoma 1, open angle" and "open angle glaucoma", essentially restate the original indication. They have extensive literature, but they are confirmations of existing use and not new repurposing.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials registered for primary hereditary glaucoma. No registered trials were found for the related open-angle glaucoma predictions either.
 
 ---
 
 ## Literature Evidence
 
-No literature was retrieved for "primary hereditary glaucoma" itself. The table below lists the most relevant publications retrieved under the closely related "glaucoma 1, open angle" and "open angle glaucoma" entries. Study types are taken from the retrieved titles and abstracts and need full-text confirmation.
+No literature is available for primary hereditary glaucoma. The table below lists selected publications for open-angle glaucoma, the original indication, as supporting context only. Study types are partly inferred from titles.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [3881032](https://pubmed.ncbi.nlm.nih.gov/3881032/) | 1985 | RCT (levobunolol vs timolol) | Am J Ophthalmol | 162 patients; 0.5% and 1% levobunolol lowered IOP by about 8 mm Hg, with no significant difference from 0.5% timolol |
-| [2664628](https://pubmed.ncbi.nlm.nih.gov/2664628/) | 1989 | 4-year randomized, double-masked study | Ophthalmology | 391 patients; IOP fell by 7.1-7.2 mmHg with levobunolol and 7.0 mmHg with timolol, with little loss of effect over 4 years |
-| [2865710](https://pubmed.ncbi.nlm.nih.gov/2865710/) | 1985 | Long-term double-masked study | Ophthalmology | 391 patients for up to 2 years; both levobunolol concentrations reduced mean IOP by about 27%, and the effect was sustained |
-| [3912600](https://pubmed.ncbi.nlm.nih.gov/3912600/) | 1985 | Comparative trial | Klin Monbl Augenheilkd | 50 patients for 1 year; levobunolol was as effective as timolol, and heart rate fell similarly in both, suggesting systemic absorption |
-| [8145982](https://pubmed.ncbi.nlm.nih.gov/8145982/) | 1994 | Randomized, double-masked trial | Ophthalmologica | 59 patients; 0.5% levobunolol lowered IOP by 7.3 mm Hg vs 4.1 mm Hg with 2% carteolol (p = 0.0004) |
-| [8123096](https://pubmed.ncbi.nlm.nih.gov/8123096/) | 1993 | RCT (levobunolol vs dipivefrin) | J Ocul Pharmacol | Compared levobunolol with dipivefrin in 38 African American patients with open-angle glaucoma |
-| [2883990](https://pubmed.ncbi.nlm.nih.gov/2883990/) | 1987 | Randomized, double-masked trial | Br J Ophthalmol | 46 patients; levobunolol 0.5% and metipranolol 0.6% both lowered IOP by about 7 mmHg |
 | [26526633](https://pubmed.ncbi.nlm.nih.gov/26526633/) | 2016 | Systematic review / network meta-analysis | Ophthalmology | Compares first-line medical treatments for primary open-angle glaucoma and ocular hypertension |
-| [2892662](https://pubmed.ncbi.nlm.nih.gov/2892662/) | 1987 | Review | Drugs | Levobunolol 0.5-1% reduced IOP by about 30%, controlled 50-85% of patients, and was superior to placebo and comparable to timolol |
-| [40261315](https://pubmed.ncbi.nlm.nih.gov/40261315/) | 2025 | Review | Med Lett Drugs Ther | Recent overview of drugs for open-angle glaucoma (no abstract available) |
+| [3881032](https://pubmed.ncbi.nlm.nih.gov/3881032/) | 1985 | RCT (inferred from title) | Am J Ophthalmol | 162 patients; 0.5% and 1% levobunolol lowered IOP by about 8 mmHg, similar to 0.5% timolol |
+| [2664628](https://pubmed.ncbi.nlm.nih.gov/2664628/) | 1989 | Long-term clinical study | Ophthalmology | 4-year double-masked study of 391 patients; IOP fell about 7 mmHg with levobunolol, similar to timolol, with little loss of effect |
+| [2865710](https://pubmed.ncbi.nlm.nih.gov/2865710/) | 1985 | Clinical study | Ophthalmology | Up to 2 years in 391 patients; levobunolol reduced mean IOP by 27% |
+| [3912600](https://pubmed.ncbi.nlm.nih.gov/3912600/) | 1985 | Comparative clinical study | Klin Monbl Augenheilkd | 50 patients over one year; levobunolol was as effective as timolol, and heart rate fell similarly, suggesting systemic absorption |
+| [8123096](https://pubmed.ncbi.nlm.nih.gov/8123096/) | 1993 | Comparative clinical study | J Ocul Pharmacol | Levobunolol vs dipivefrin in 38 African American patients with open-angle glaucoma |
+| [2892662](https://pubmed.ncbi.nlm.nih.gov/2892662/) | 1987 | Review | Drugs | Levobunolol 0.5–1% reduced IOP by about 30%, superior to placebo and comparable to timolol |
+| [8773166](https://pubmed.ncbi.nlm.nih.gov/8773166/) | 1996 | Review | Ann Pharmacother | Compares ocular beta-blockers on systemic adverse effects, tolerability and cost |
+| [40261315](https://pubmed.ncbi.nlm.nih.gov/40261315/) | 2025 | Review | Med Lett Drugs Ther | Recent overview of drugs for open-angle glaucoma |
+
+Most of this evidence dates from 1985–1996.
 
 ---
 
@@ -92,34 +93,33 @@ No literature was retrieved for "primary hereditary glaucoma" itself. The table 
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA074326 | Levobunolol Hydrochloride (Bausch & Lomb Incorporated) | Solution/drops (ophthalmic) | Not stated in the available record |
+| ANDA074326 (cancelled) | Levobunolol Hydrochloride (Bausch & Lomb Incorporated) | Solution / drops | Indication text not available |
 
 ---
 
 ## Safety Considerations
 
-Package insert warnings, contraindications and drug interaction data are not available in the record. Please refer to the package insert for safety information.
+- **Contraindications suggested by the knowledge graph** (not label text): asthma (including intrinsic and allergic asthma), pulmonary emphysema, diabetes mellitus, diabetic ketoacidosis, myasthenia gravis and other neuromuscular junction disease, atrioventricular block, and anaphylaxis. These are consistent with the known risks of non-selective beta-blockade, but must be confirmed against the official label.
+- **Drug interactions**: 24 potential interactions were identified, with the interaction level unclassified. Those listed include lansoprazole, pantoprazole, omeprazole, prednisone, warfarin, clopidogrel, ibuprofen, fluconazole, tacrolimus and metronidazole. Clinical significance cannot be judged from the available data.
+- Systemic absorption after eye-drop use is suggested by observed heart rate reduction in one study, so systemic beta-blocker precautions are relevant.
 
-Observations from the retrieved literature:
-- **Systemic absorption**: A one-year study found that topical levobunolol and timolol decreased heart rate to a similar extent, which suggests absorption after eye-drop use (PMID 3912600). This is a known concern for non-selective beta-blockers.
-- **Ocular surface**: One study examined conjunctival changes induced by preserved and unpreserved levobunolol (PMID 18465723).
+Please refer to the package insert for full warnings and precautions, which were not available for this report.
 
 ---
 
 ## Conclusion and Next Steps
 
-**Decision: Hold** (for "primary hereditary glaucoma"). For the open-angle glaucoma entries, **Proceed with Guardrails** applies.
+**Decision: Hold**
 
 **Rationale:**
-- There are no trials or publications for primary hereditary glaucoma, and the TxGNN score likely reflects graph proximity to open-angle glaucoma.
-- The open-angle glaucoma evidence is extensive, with multiple randomized comparisons against timolol and follow-up of up to 4 years. It most likely describes an existing use, not a repurposing opportunity.
+The prediction for primary hereditary glaucoma has a very high model score but no trials or publications behind it, so the evidence level is L5. The strongly supported glaucoma findings concern the already-labeled open-angle glaucoma use. In addition, the only US license is cancelled, which limits practical availability.
 
 **To proceed, the following is needed:**
-- The US package insert (indications, warnings, contraindications), since the license record has no indication text
-- Confirmation of on-label status for open-angle glaucoma and ocular hypertension
-- Full-text review to confirm randomization and design for the studies graded L1
-- Evidence specific to primary hereditary glaucoma (for example, familial or juvenile forms), if that is the intended target
-- Detailed mechanism of action data and a drug interaction assessment
+- Clarification of whether primary hereditary glaucoma is distinct from the existing open-angle glaucoma indication
+- Disease-specific literature or trials in hereditary glaucoma
+- The FDA package insert (warnings and contraindications), which is a blocking gap for safety screening
+- Mechanism of action data from DrugBank
+- A review of current market availability and formulation options, given the cancelled license
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

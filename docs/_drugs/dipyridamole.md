@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Dipyridamole
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 613
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 ---
 
 # Dipyridamole
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,95 +29,117 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Dipyridamole: From Antiplatelet Use to Prinzmetal Angina
+# Dipyridamole: From Atrial Fibrillation to Prinzmetal Angina
 
 ## One-Sentence Summary
 
-Dipyridamole is an established antiplatelet and vasodilator agent that is marketed in the United States as tablets and injection.
-The TxGNN model predicts it may be effective for **Prinzmetal angina** (coronary vasospasm), with a very high score of 99.99%.
-However, there are **0 clinical trials** and only **14 publications**, and none of these publications shows a therapeutic benefit. Most describe dipyridamole as a cardiac stress-test agent, and one raises a possible safety concern.
-
----
+Dipyridamole is an antiplatelet and vasodilator drug, listed in the knowledge graph for atrial fibrillation.
+The TxGNN model predicts it may be effective for **Prinzmetal angina**, but **no clinical trials** and only **10 publications** are available for this indication, and none of them show therapeutic benefit.
+By contrast, the next-ranked predictions of **stroke** and **transient ischemic attack** are already supported by large trials and meta-analyses, although these are established uses rather than new repurposing opportunities.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Atrial fibrillation (from the knowledge graph; the US licence records contain no indication text) |
 | Predicted New Indication | Prinzmetal angina |
 | TxGNN Prediction Score | 99.99% |
-| Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
-| Recommended Decision | Hold |
-
----
+| Evidence Level | L4 (for Prinzmetal angina; stroke and TIA reach L1 but are established uses) |
+| US Market Status | Cancelled only (all licences cancelled) |
+| Number of NDAs | 8 (all are ANDA generic applications) |
+| Recommended Decision | Hold (for Prinzmetal angina); Proceed with Guardrails (for stroke and TIA) |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the source record. Based on known information, dipyridamole is an antiplatelet and vasodilating agent. It is thought to raise extracellular adenosine by blocking its reuptake (ENT1) and to inhibit phosphodiesterase.
+Detailed mechanism of action data is not available in the data compiled for this report. From the literature, dipyridamole inhibits adenosine reuptake and phosphodiesterase activity. This raises adenosine and cAMP/cGMP levels, which inhibits platelet aggregation and causes coronary vasodilation.
 
-On paper, a vasodilator might seem relevant to a vasospastic angina disorder. In practice, this is not a recognized anti-vasospastic mechanism, and the very high TxGNN score is not backed by clinical data. Most of the retrieved papers concern dipyridamole as a diagnostic stress agent. One report (PMID 3421166) links dipyridamole stress testing, and the sudden withdrawal of its effect with aminophylline, to coronary vasospasm in variant angina. That is a potential **safety signal**, not evidence of benefit.
+For Prinzmetal angina, the mechanistic link is weak. The literature mostly describes dipyridamole as a stress-testing agent rather than a treatment. One report (PMID 3421166) describes coronary vasospasm triggered when aminophylline ended dipyridamole stress in variant angina patients. That is a provocative context, not a therapeutic one. Adenosine-mediated vasodilation could also cause coronary steal, so a therapeutic role is uncertain and possibly unfavorable.
 
----
+The predictions with real support are in cerebrovascular disease. The antiplatelet mechanism is coherent with stroke and TIA secondary prevention, and the combination of aspirin and extended-release dipyridamole is a recognised option. Thrombotic disease in general is mechanistically plausible but supported only by indirect, mostly general-review literature. The other top-10 predictions (sick sinus syndrome, sarcoglycanopathy, Wildervanck syndrome, a macrocephaly syndrome, and cavernous and lateral sinus thrombosis) have no trials or literature, and for several there is no plausible mechanistic rationale.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+**Prinzmetal angina (top prediction):** Currently no related clinical trials registered.
 
----
+**Stroke disorder (rank 2, the best-supported prediction):**
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT00161070](https://clinicaltrials.gov/study/NCT00161070) | Phase 4 | Completed | 4500 | ESPRIT: aspirin plus dipyridamole or mild anticoagulation vs aspirin alone after cerebral ischaemia of arterial origin |
+| [NCT00562588](https://clinicaltrials.gov/study/NCT00562588) | Phase 4 | Completed | 551 | EARLY: Aggrenox started within 24 hours of stroke vs after 7 days of aspirin in ischaemic stroke |
+| [NCT00238667](https://clinicaltrials.gov/study/NCT00238667) | Phase 3 | Completed | 250 | Feasibility of anticoagulants vs antiplatelets in cervical artery dissection (indirect relevance) |
+| [NCT00562289](https://clinicaltrials.gov/study/NCT00562289) | Phase 3 | Completed | 664 | PFO closure or anticoagulants vs antiplatelet therapy to prevent stroke recurrence (indirect) |
+| [NCT00738894](https://clinicaltrials.gov/study/NCT00738894) | N/A | Completed | 664 | Gore REDUCE: PFO closure plus antiplatelets vs antiplatelets alone (device trial, indirect) |
+| [NCT02630862](https://clinicaltrials.gov/study/NCT02630862) | N/A | Completed | 240 | Oxidative stress and oxysterol profiling with aspirin plus dipyridamole after carotid revascularization (biomarker study) |
+| [NCT06053021](https://clinicaltrials.gov/study/NCT06053021) | N/A | Unknown | 1200 | Antiplatelet therapy in acute ischaemic stroke with thrombocytopenia (indirect) |
+| [NCT06983795](https://clinicaltrials.gov/study/NCT06983795) | N/A | Not yet recruiting | 1000 | Asia-Pacific registry of PFO and ischaemic stroke (indirect) |
+
+Transient ischemic attack is supported by the same ESPRIT trial (NCT00161070) and the Gore REDUCE study (NCT00738894).
 
 ## Literature Evidence
 
+**Prinzmetal angina:**
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [633593](https://pubmed.ncbi.nlm.nih.gov/633593/) | 1978 | Clinical review | Japanese Circulation Journal | 26 patients with rest angina (13 with Prinzmetal's variant) were given several drugs, including dipyridamole 50 mg. Propranolol did not suppress attacks and tended to aggravate them. The abstract is truncated, so the dipyridamole result is not visible. |
-| [3421166](https://pubmed.ncbi.nlm.nih.gov/3421166/) | 1988 | Case report | Am J Cardiol | Tested whether aminophylline, given to end dipyridamole stress, can trigger coronary vasospasm in variant angina. Points to a possible spasm-provoking safety signal. |
-| [3190956](https://pubmed.ncbi.nlm.nih.gov/3190956/) | 1988 | Cohort | Br Heart J | 25 patients with exercise-induced ST elevation were tested for reproducibility, and their responses to the dipyridamole echo test were compared. Diagnostic focus. |
-| [6779029](https://pubmed.ncbi.nlm.nih.gov/6779029/) | 1981 | Diagnostic study | Jpn Circ J | Dipyridamole-loading thallium-201 imaging had 66% diagnostic accuracy for coronary artery disease. Combined with exercise, sensitivity rose from 71% to 87%. |
-| [16630456](https://pubmed.ncbi.nlm.nih.gov/16630456/) | 2006 | Cohort | Zhonghua Xin Xue Guan Bing Za Zhi | Compared clinical features of typical vs atypical coronary artery spasm. The abstract states only the aim, with no results. |
-| [8634169](https://pubmed.ncbi.nlm.nih.gov/8634169/) | 1996 | Cohort | Rev Port Cardiol | Assessed the 3-year prognosis of patients with a normal thallium-dipyridamole scan. Diagnostic and prognostic use. |
-| [8417062](https://pubmed.ncbi.nlm.nih.gov/8417062/) | 1993 | Diagnostic study | J Am Coll Cardiol | Studied increased echodensity of transiently asynergic myocardium as an echocardiographic sign of ischemia, including ischemia induced by different mechanisms. |
-| [2022043](https://pubmed.ncbi.nlm.nih.gov/2022043/) | 1991 | Review | Circulation | Reviews the pathophysiology behind noninvasive functional tests of coronary stenosis, including the dipyridamole stress test. |
-| [6125623](https://pubmed.ncbi.nlm.nih.gov/6125623/) | 1982 | Review | Kardiologiia | Review of diagnostic and treatment problems in angina. No abstract available. |
-| [7628141](https://pubmed.ncbi.nlm.nih.gov/7628141/) | 1995 | Case report | Clin Nucl Med | Single patient with migraine, asthma and variant angina who showed scintigraphic ischemia during stress testing. Discusses "cardiac migraine". |
+| [633593](https://pubmed.ncbi.nlm.nih.gov/633593/) | 1978 | Review | Jpn Circ J | Drug responses in 26 patients with rest angina, including dipyridamole 50 mg; propranolol tended to aggravate attacks |
+| [3421166](https://pubmed.ncbi.nlm.nih.gov/3421166/) | 1988 | Small clinical study | Am J Cardiol | Aminophylline termination of dipyridamole stress triggered vasospasm in variant angina |
+| [3190956](https://pubmed.ncbi.nlm.nih.gov/3190956/) | 1988 | Diagnostic study | Br Heart J | Reproducibility of exercise testing in patients with ST elevation and varying dipyridamole test responses |
+| [6779029](https://pubmed.ncbi.nlm.nih.gov/6779029/) | 1981 | Diagnostic study | Jpn Circ J | Dipyridamole-loading thallium imaging for detecting coronary artery disease |
 
----
+These papers are diagnostic or descriptive and do not show therapeutic benefit.
+
+**Stroke and TIA (the best-supported predictions):**
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [15569877](https://pubmed.ncbi.nlm.nih.gov/15569877/) | 2005 | Meta-analysis | Stroke | Individual patient data meta-analysis of dipyridamole, with or without aspirin, for secondary prevention after stroke or TIA |
+| [17636684](https://pubmed.ncbi.nlm.nih.gov/17636684/) | 2007 | Cochrane review | Cochrane Database Syst Rev | Adding dipyridamole to aspirin was associated with a 22% risk reduction vs aspirin alone in one trial |
+| [11786451](https://pubmed.ncbi.nlm.nih.gov/11786451/) | 2002 | Meta-analysis | BMJ | Collaborative meta-analysis of antiplatelet therapy in high-risk patients |
+| [23871093](https://pubmed.ncbi.nlm.nih.gov/23871093/) | 2013 | Meta-analysis | J Neurol Sci | Aspirin plus dipyridamole vs aspirin in secondary prevention after TIA or stroke |
+| [31177983](https://pubmed.ncbi.nlm.nih.gov/31177983/) | 2019 | Network meta-analysis | Stroke | Efficacy and safety of antiplatelet agents after noncardioembolic stroke or TIA |
+| [26304937](https://pubmed.ncbi.nlm.nih.gov/26304937/) | 2015 | Network meta-analysis | J Am Heart Assoc | Long-term antiplatelet mono- and dual therapies after ischaemic stroke or TIA |
+| [34211246](https://pubmed.ncbi.nlm.nih.gov/34211246/) | 2021 | Review | Aust Prescr | Aspirin, clopidogrel, or aspirin plus dipyridamole are first-line options in the absence of atrial fibrillation |
+| [20955428](https://pubmed.ncbi.nlm.nih.gov/20955428/) | 2010 | Review | Ann N Y Acad Sci | Possible neuroprotective and anti-inflammatory effects of dipyridamole during acute stroke |
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+All eight US licences are generic applications and all are cancelled. The records contain no approved-indication text.
+
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA040874 | Dipyridamole | Tablet, film coated | Zydus Pharmaceuticals USA Inc. |
-| ANDA040542 | Dipyridamole | Tablet, film coated | Oxford Pharmaceuticals, LLC |
-| ANDA074521 | Dipyridamole | Injection | Henry Schein, Inc. |
-| ANDA074521 | Dipyridamole | Injection | HF Acquisition Co LLC, DBA HealthFirst |
+| ANDA040874 | Dipyridamole (Zydus) | Film-coated tablet | Not available |
+| ANDA040542 | Dipyridamole (Oxford) | Film-coated tablet | Not available |
+| ANDA074521 | Dipyridamole (Henry Schein) | Injection | Not available |
+| ANDA040782 | Dipyridamole (Amneal) | Tablet | Not available |
+| ANDA207944 | Aspirin and Extended-Release Dipyridamole (Major) | Capsule | Not available |
 
-Across all 20 authorizations, the listed dosage forms are film-coated tablet, tablet, capsule, extended-release capsule, and injection. The source data does not give approved indication text for these products.
-
----
+Three further aspirin/extended-release dipyridamole applications (ANDA209048, ANDA209929, ANDA206392) are also cancelled.
 
 ## Safety Considerations
 
-- **Literature signal (not a labeled warning)**: PMID 3421166 links dipyridamole stress testing, and its reversal with aminophylline, to coronary vasospasm in variant angina. Because dipyridamole raises adenosine, coronary steal and slowed sinus or AV node conduction are also theoretical concerns.
+Package insert warnings and contraindications were not available in the data compiled for this report, so please refer to the package insert for them.
 
-Please refer to the package insert for warnings, contraindications and drug interaction information. None is available in the source record.
-
----
+- **Disease associations from the knowledge graph** (these are graph edges, not label text): kidney disease, liver disease, gallbladder disease, thrombocytopenia, peptic ulcer disease, gout, hypotensive disorder, acute coronary syndrome, myocardial infarction, hemophilia, anemia, and others. Many of these appear to come from the aspirin component of the combination products and need verification against the label.
+- **Drug interactions:** 100 interactions were found. Moderate-level ones are dexfenfluramine, sibutramine and fenfluramine. Others, including acetylsalicylic acid, cimetidine, omeprazole, pantoprazole, lansoprazole, metformin, glimepiride, rosiglitazone, simvastatin, prednisone and morphine, are listed at an unknown severity level.
+- **Prinzmetal angina specific concern:** adenosine-mediated vasodilation may cause coronary steal, and vasospasm has been reported after dipyridamole stress testing.
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Hold** (Prinzmetal angina, the top TxGNN prediction)
+
+For stroke and TIA: **Proceed with Guardrails**, but only as an established indication.
 
 **Rationale:**
-The prediction rests on a computational score alone. There are no registered trials, and none of the retrieved literature shows therapeutic benefit in Prinzmetal angina. The only spasm-related finding points to a possible safety concern.
+- The top prediction, Prinzmetal angina, has no registered trials, only diagnostic or descriptive literature, and a mechanistic argument that is uncertain and possibly unfavorable. The high TxGNN score alone is not enough.
+- Stroke and TIA have strong evidence (ESPRIT, meta-analyses), but this is existing use, not new repurposing. All US licences are cancelled, so market availability must be checked before any recommendation.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, which are currently missing and block safety screening
-- Mechanism of action data (for example, from DrugBank), plus a clear rationale for a benefit in vasospasm
-- Original approved indication text for the US products
-- Controlled clinical evidence in Prinzmetal angina, with attention to the vasospasm safety signal
-
-The same evidence pack shows stronger support for dipyridamole in stroke and TIA secondary prevention (large Phase 4 trials such as ESPRIT and PRoFESS, and Cochrane reviews). That is likely an already-established use rather than true repurposing, and should be checked against local labeling.
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism-of-action data from DrugBank
+- For Prinzmetal angina, controlled clinical data on therapeutic benefit and the coronary steal and vasospasm risk
+- Confirmation of current US market availability, since all eight licences are cancelled
+- Review of the knowledge-graph contraindications, especially thrombocytopenia, bleeding disorders, peptic ulcer, and cardiovascular conditions
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

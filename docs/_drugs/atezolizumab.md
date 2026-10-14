@@ -29,94 +29,89 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Atezolizumab: From Its Approved PD-L1 Oncology Uses to Prostatic Urethra Urothelial Carcinoma
+# Atezolizumab: From Transitional Cell Carcinoma to Prostatic Urethra Urothelial Carcinoma
 
 ## One-Sentence Summary
 
-Atezolizumab (brand name TECENTRIQ) is a PD-L1-blocking antibody marketed in the US as an injectable biologic. The TxGNN model predicts it may be effective for **prostatic urethra urothelial carcinoma**. The supporting evidence is thin: **2 clinical trials** (one Phase 1b multi-tumor study and one Phase 2 study in bladder cancer) and **no publications**.
-
----
+Atezolizumab is an anti-PD-L1 antibody originally used to treat transitional cell (urothelial) carcinoma.
+The TxGNN model predicts it may be effective for **prostatic urethra urothelial carcinoma**,
+but only **1 early-phase clinical trial (Phase 1b)** and **no publications** currently support this specific indication.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the supplied record |
+| Original Indication | Transitional cell carcinoma (urothelial carcinoma) |
 | Predicted New Indication | Prostatic urethra urothelial carcinoma |
 | TxGNN Prediction Score | 99.98% |
-| Evidence Level | L2 as scored, provisional (the only completed Phase 2 trial is single-arm and in bladder cancer, so it does not strictly meet the RCT criterion) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 2 (both entries are BLA761034, a biologics license) |
+| Evidence Level | L3 (as assigned in the compiled data; by the strict rubric this is closer to L5, since no observational study or systematic review is listed for this indication) |
+| US Market Status | Cancelled only |
+| Number of NDAs | 1 (BLA761034, cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the supplied record. Based on known drug-class information, atezolizumab blocks PD-L1 and restores T-cell activity against tumors. The mechanistic link below is inferred from class knowledge, not from the supplied data.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, atezolizumab is a PD-L1 immune checkpoint inhibitor, its efficacy in urothelial carcinoma has been established, and mechanistically it may be applicable to related urothelial tumours.
 
-Prostatic urethra urothelial carcinoma has the same histologic lineage as bladder urothelial carcinoma. The PD-1/PD-L1 rationale therefore plausibly carries over from bladder disease to this site.
+Prostatic urethra urothelial carcinoma arises from the same urothelial lineage as bladder and upper tract urothelial carcinoma. The PD-L1 checkpoint rationale therefore carries over naturally. The high TxGNN score likely reflects this close proximity to the approved indication in the knowledge graph.
 
-The clinical link is indirect. The bladder-cancer trial does not address prostatic urethral involvement, and the multi-tumor study only includes a urothelial cohort. The model's high score is a hypothesis, not proof.
-
----
+No evidence specific to the prostatic urethra subsite is available. The only linked trial is a combination study that enrolls several genitourinary tumour types.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT02844816](https://clinicaltrials.gov/study/NCT02844816) | Phase 2 | Completed | 172 | Atezolizumab in BCG-unresponsive non-muscle-invasive bladder cancer. Same urothelial lineage but a bladder-specific population, and it appears single-arm. Relevance grade B. |
-| [NCT03170960](https://clinicaltrials.gov/study/NCT03170960) | Phase 1 (1b) | Active, not recruiting | 914 | Dose-escalation of cabozantinib alone or with atezolizumab in multiple advanced solid tumors, including urothelial carcinoma (bladder, renal pelvis, ureter, urethra). Linked only through the urothelial cohort. Relevance grade C. |
-
----
+| [NCT03170960](https://clinicaltrials.gov/study/NCT03170960) | Phase 1 | Active, not recruiting | 914 | Phase 1b dose-escalation and expansion study of cabozantinib alone or with atezolizumab in advanced solid tumours, including urothelial carcinoma (bladder, renal pelvis, ureter, urethra), renal cell carcinoma and prostate cancer. It assesses safety, tolerability, preliminary efficacy and PK. It is not specific to prostatic urethra disease. |
 
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA761034 | TECENTRIQ (Genentech, Inc.) | Injection, solution | Not stated in the supplied record |
-
-The record lists this authorization twice with identical content. Only injectable forms are on file.
-
----
+| BLA761034 (cancelled) | TECENTRIQ (Genentech, Inc.) | Injection, solution | Not stated in the compiled data |
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Immunotherapy (PD-L1 checkpoint inhibitor), not a conventional cytotoxic |
-| Myelosuppression Risk | Not characterized in the supplied record. Class knowledge suggests low, but please refer to the package insert. |
-| Emetogenicity Classification | Not characterized in the supplied record. Class knowledge suggests low. |
+| Cytotoxicity Classification | Immunotherapy (anti-PD-L1 monoclonal antibody) |
+| Myelosuppression Risk | Low; please refer to the package insert warnings and precautions |
+| Emetogenicity Classification | Low |
 | Monitoring Items | Please refer to the package insert warnings and precautions |
-| Handling Protection | Not classified in the supplied record. Class knowledge suggests standard biologic handling rather than cytotoxic-drug precautions, but please confirm against the label. |
-
----
+| Handling Protection | Please refer to the package insert warnings and precautions |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: 75 interactions were identified. The 20 shown in the compiled data are mostly Moderate, with four rated Major:
+  - Adalimumab (Major)
+  - Baricitinib (Major)
+  - Bacillus Calmette-Guérin live antigen (Major)
+  - One further Major-level entry in the list
+  - Moderate-level interactions include corticosteroids (hydrocortisone, prednisone, dexamethasone, methylprednisolone and others), roflumilast, azathioprine, alemtuzumab, anakinra, and several vaccines.
+  - Immunosuppressants and live vaccines deserve particular attention.
 
----
+Please refer to the package insert for warnings and contraindications, which are not available in the compiled data.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is biologically plausible, but no evidence addresses prostatic urethral disease specifically. The available trials are bladder-only, early-phase or multi-tumor. The safety data (warnings and contraindications) are also missing and were flagged as a blocking gap, so the candidate cannot pass safety screening yet.
+The biological rationale is strong because the tumour shares the urothelial lineage with the approved indication. However, the evidence is limited to one Phase 1b multi-tumour combination trial with no subsite-specific data and no literature. Package insert safety data are also missing, and the US licence is listed as cancelled.
 
 **To proceed, the following is needed:**
-- The FDA package insert (warnings, contraindications, approved indications) to clear the blocking safety gap and confirm the original indications
-- Mechanism of action data from DrugBank
-- Cohort-level data from NCT03170960 confirming whether prostatic urethra or other non-bladder urothelial patients were enrolled
-- Published results from NCT02844816 (completed, n=172) and a review of relevant urothelial-carcinoma literature
-- A comparison with other predictions in this pack. Endocervical carcinoma (rank 6) currently has more clinical evidence, with two trials and one review, and may be a stronger candidate to prioritize.
+- FDA package insert warnings and contraindications
+- Mechanism of action data (for example from DrugBank)
+- Subsite-specific efficacy data or published reports in prostatic urethra urothelial carcinoma
+- Confirmation of current US regulatory status
+- A safety monitoring plan that accounts for immunosuppressant and live-vaccine interactions
+
+**Other predicted indications (for reference):**
+- Endocervical carcinoma (score 99.92%) has a stronger evidence base, with a completed Phase 2 trial (NCT02921269, n=11, atezolizumab plus bevacizumab) and a completed Phase 1 trial (NCT03738228, n=40). It is still small and early-phase, so it warrants further research rather than a Go decision.
+- The remaining predictions, including other urothelial variants and rare cervical or uterine ligament carcinomas, are supported by model prediction only and should be held.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

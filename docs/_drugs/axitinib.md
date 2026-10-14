@@ -29,74 +29,103 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Axitinib: Predicted Repurposing to Renal Cell Carcinoma Associated with Neuroblastoma
+# Axitinib: From Renal Cell Carcinoma to Renal Cell Carcinoma Associated with Neuroblastoma
 
 ## One-Sentence Summary
 
-Axitinib is an oral VEGFR1-3 inhibitor marketed in the US as INLYTA, with a known role in renal cell carcinoma (RCC).
-The TxGNN model predicts it may be effective for **renal cell carcinoma associated with neuroblastoma**, a very rare entity.
-Currently **0 clinical trials** and **0 publications** support this specific prediction, so it rests on the model score alone.
+Axitinib is an oral kinase inhibitor originally used to treat renal cell carcinoma (RCC).
+The TxGNN model predicts it may be effective for **renal cell carcinoma associated with neuroblastoma**, a very rare subtype.
+Currently **0 clinical trials** and **0 publications** support this specific prediction, so it rests on model output alone.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Renal cell carcinoma (including clear cell and non-papillary subtypes) |
 | Predicted New Indication | Renal cell carcinoma associated with neuroblastoma |
 | TxGNN Prediction Score | 99.90% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 4 (all listed under NDA202324) |
+| US Market Status | Cancelled only (no active authorization) |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the source record. Based on the available rationale, axitinib is a VEGFR1-3 inhibitor with established activity in renal cell carcinoma. Blocking VEGF signaling limits tumor angiogenesis, which is a central driver of many kidney cancers.
+Detailed mechanism of action data is not available in the data compiled for this report. Axitinib is known as a selective inhibitor of vascular endothelial growth factor receptors 1, 2 and 3 (VEGFR1-3). It blocks the formation of new tumor blood vessels. Its efficacy in RCC, especially clear cell RCC, is well established.
 
-The predicted disease is also a renal cell carcinoma, so the biological link is plausible. However, no trial or publication addresses this rare neuroblastoma-associated entity. The prediction is therefore a model-based hypothesis, not a finding supported by clinical data.
+The predicted indication is an RCC subtype, so it sits close to the original indication. Angiogenesis-driven biology may be shared between the two. This is the only reasoning available: no trials, publications or subtype-specific data support it.
 
-Other axitinib predictions in the same output have stronger support. These include TFE3-translocation RCC (one small randomized Phase 2 trial) and collecting duct carcinoma (one ongoing Phase 2 trial). They are outside the scope of this report.
+The high score (99.90%) should be read with caution. Several unrelated or weakly supported predictions received nearly identical scores, so the score alone does not show real clinical promise.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
+---
+
 ## Literature Evidence
 
 Currently no related literature available.
 
+---
+
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|------|
-| NDA202324 | INLYTA | Tablet, film coated (oral) | Pfizer Laboratories Div Pfizer Inc |
-| NDA202324 | INLYTA | Tablet, film coated (oral) | U.S. Pharmaceuticals |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA202324 | INLYTA | Tablet, film coated (oral) | Not specified in the data compiled |
 
-The source data lists four INLYTA entries, two per manufacturer, all under the same NDA number. No approved-indication text was provided.
+The only US authorization on record (single-agent product, manufacturer listed as U.S. Pharmaceuticals) has a **cancelled** status. No currently valid authorization was found.
+
+---
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
 | Cytotoxicity Classification | Targeted therapy (VEGFR tyrosine kinase inhibitor) |
+| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
+| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
+| Monitoring Items | Please refer to the package insert warnings and precautions |
+| Handling Protection | Please refer to the package insert warnings and precautions |
 
-Please refer to the package insert warnings and precautions for myelosuppression risk, emetogenicity, monitoring items, and handling requirements.
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Label warnings and contraindications were not available in the data compiled. Please refer to the package insert for these.
+
+**Drug Interactions**: A total of 100 interactions were identified; the 20 reviewed include:
+- **Major**: Clarithromycin, Dexamethasone
+- **Moderate**: Aprepitant, Clotrimazole, Miconazole, Naltrexone
+- **Minor**: Acid-reducing agents and antacids (famotidine, ranitidine, cimetidine, nizatidine, rabeprazole, esomeprazole, lansoprazole, dexlansoprazole, aluminum hydroxide, calcium carbonate, magaldrate, magnesium carbonate/hydroxide/oxide)
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-This prediction has a very high model score but no supporting trials or publications (L5). The disease is extremely rare, so evidence is unlikely to accumulate soon. It should not advance beyond the model-prediction stage without at least some clinical or case-level data.
+The prediction for this subtype has no supporting trials or literature (Evidence Level L5). The only US authorization is cancelled, and label safety information is missing. A recommendation to advance cannot be justified at this stage.
+
+Other predicted indications in the same analysis have more support:
+- **TFE3/Xp11.2 translocation RCC**: one small randomized Phase 2 trial (NCT03595124, n=15, axitinib plus nivolumab versus nivolumab alone), still active with no results (Evidence Level L2).
+- **Collecting duct carcinoma**: one recruiting Phase 2 trial (NCT06211114, n=30) plus case reports (Evidence Level L2).
+- **Renal carcinoma (clear cell RCC)**: Phase 3 evidence exists (AXIS, KEYNOTE-426, JAVELIN Renal 101), but this is the drug's original indication, so it is not true repurposing.
 
 **To proceed, the following is needed:**
-- Any case reports, registries, or trials for neuroblastoma-associated RCC.
-- Molecular characterization of this entity to test whether it is VEGF-dependent.
-- Detailed mechanism of action data (MOA).
-- The US package insert (warnings, contraindications, approved indications) for safety screening.
+- Any clinical or preclinical evidence specific to RCC associated with neuroblastoma
+- FDA package insert warnings and contraindications
+- Detailed mechanism of action data
+- Confirmation of current US labeling and market status, given the cancelled authorization
+- Reassessment of the other candidate indications above if a more evidence-based direction is wanted
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

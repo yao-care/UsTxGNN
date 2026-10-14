@@ -29,96 +29,94 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-# Acetic Acid: From No Documented Indication to Post-Bacterial Disorder
+# Acetic Acid: From Otitis Externa to Tinea Corporis
 
 ## One-Sentence Summary
 
-Acetic acid is marketed in the US in several forms (solution, irrigant, cream, spray, and a homeopathic pellet), but the license records give no approved indication text.
-The TxGNN model predicts it may be effective for **post-bacterial disorder**, but **none of the 18 matched clinical trials tests acetic acid as a treatment** and **no publications** were found, so this remains a model prediction only.
-
----
+Acetic acid is a simple topical antiseptic and irrigant, originally used for ear conditions such as otitis externa.
+The TxGNN model predicts several new indications. The most evidence-supported one is **Tinea Corporis** (score 99.25%), which has **0 clinical trials** and **10 publications** (mostly historical reports or in vitro studies).
+The top-scoring predictions (e.g., post-bacterial disorder) have no supporting studies at all.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the US license records |
-| Predicted New Indication | Post-bacterial disorder |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 14 licenses (NDA and ANDA combined) |
-| Recommended Decision | Hold |
-
----
+| Original Indication | Otitis externa; external ear disease |
+| Predicted New Indication | Tinea corporis (highest-ranked prediction by TxGNN is post-bacterial disorder, but it has no evidence, so tinea corporis is the focus here) |
+| TxGNN Prediction Score | 99.25% (tinea corporis); 99.98% (post-bacterial disorder, rank 1, no evidence) |
+| Evidence Level | L4 (tinea corporis); L5 for all other predictions |
+| US Market Status | Cancelled only |
+| Number of NDAs | 6 (all cancelled; includes ANDA and one unapproved homeopathic entry) |
+| Recommended Decision | Hold (tinea corporis may be treated as a research question) |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. The US license records give no approved indication, so the relationship between an original use and the predicted one cannot be established from this record.
+Detailed mechanism of action data is not currently available. Based on known information, acetic acid acts as a topical acidifier with antibacterial and antifungal properties. Its efficacy in external ear infections is thought to come from lowering local pH, which inhibits bacterial and fungal growth.
 
-The only plausible link is indirect. Acetic acid (acetate) is a short-chain fatty acid produced by gut bacteria. Several matched trials measure it as a metabolite outcome in microbiome studies. That is a biomarker role, not a therapeutic one. No matched trial gives acetic acid to patients with a post-bacterial condition. The prediction therefore has no mechanistic or clinical support in the current evidence.
+Tinea corporis is a superficial dermatophyte infection of the skin. Lowering skin pH may inhibit dermatophyte growth, so the idea is mechanistically plausible. Historical reports from 1946 to 1958 describe dilute acetic acid (with iodine) for tinea capitis and acetic acid for foot epidermophytosis, which are related dermatophyte infections. An in vitro onychomycosis model and a chemical peeling report offer indirect support. However, no modern controlled studies have been done in tinea corporis itself.
 
----
+The higher-scoring predictions (post-bacterial disorder, postinfectious vasculitis, Chagas cardiomyopathy, infective urethral stricture, infection-related hemolytic uremic syndrome, drug-induced osteoporosis) have no clinical or literature evidence and no plausible mechanism. They should be regarded as computational predictions only. For post-infectious syndrome, the only publication is a review of animal models of post-infectious irritable bowel syndrome, where acetic acid is likely used as an experimental irritant, which suggests a causative rather than a therapeutic relationship.
 
 ## Clinical Trial Evidence
 
-Currently 18 trials matched by keyword. None tests acetic acid as an intervention for a post-bacterial condition. The 10 most relevant are listed below.
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT05710094](https://clinicaltrials.gov/study/NCT05710094) | Phase 1 | Completed | 28 | Safety of topical SoftOx Biofilm Eradicator in chronic leg wounds. Composition not verified as acetic acid. |
-| [NCT04120259](https://clinicaltrials.gov/study/NCT04120259) | N/A | Completed | 126 | Apple cider vinegar plus metformin vs metformin alone in type 2 diabetes. Not a bacterial condition. |
-| [NCT04036318](https://clinicaltrials.gov/study/NCT04036318) | N/A | Completed | 3022 | Presumptive periodic treatment of sexually transmitted infections in high-risk groups in Tanzania. Acetic acid is not the intervention. |
-| [NCT03212729](https://clinicaltrials.gov/study/NCT03212729) | N/A | Completed | 10 | Antimicrobial photodynamic therapy added to endodontic treatment. Bacterial context only. |
-| [NCT07048028](https://clinicaltrials.gov/study/NCT07048028) | N/A | Recruiting | 90 | Chitosan vs sodium hypochlorite combinations as root-canal irrigants. |
-| [NCT04824261](https://clinicaltrials.gov/study/NCT04824261) | N/A | Unknown | 100 | 4% boric acid vs clotrimazole in otomycosis. |
-| [NCT03619161](https://clinicaltrials.gov/study/NCT03619161) | N/A | Completed | 58 | Bathroom cleaning and eczema severity. Not about acetic acid. |
-| [NCT06135116](https://clinicaltrials.gov/study/NCT06135116) | N/A | Completed | 60 | Regulatory T cells and cytokines in periodontal disease. Immunology study. |
-| [NCT02872675](https://clinicaltrials.gov/study/NCT02872675) | N/A | Completed | 17 | Prebiotic supplementation in adults with and without exercise-induced bronchoconstriction. Bacterial metabolites are outcomes. |
-| [NCT06612164](https://clinicaltrials.gov/study/NCT06612164) | N/A | Completed | 65 | Kefir consumption in healthy adults. Acetate is at most a fermentation product. |
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available.
+The table covers tinea corporis, the best-supported prediction.
 
----
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [20256868](https://pubmed.ncbi.nlm.nih.gov/20256868/) | 1947 | Historical case series | Urologic and Cutaneous Review | Results of treating tinea capitis with special iodine and dilute acetic acid in a larger patient series |
+| [20996178](https://pubmed.ncbi.nlm.nih.gov/20996178/) | 1946 | Historical clinical report | JAMA | Tinea capitis treated with special iodine and dilute acetic acid |
+| [20983383](https://pubmed.ncbi.nlm.nih.gov/20983383/) | 1946 | Historical clinical report | Archives of Dermatology and Syphilology | Treatment of tinea capitis with special iodine and dilute acetic acid |
+| [13616002](https://pubmed.ncbi.nlm.nih.gov/13616002/) | 1958 | Historical clinical report | Vestnik Dermatologii i Venerologii | Treatment of foot epidermophytosis with increasing concentrations of acetic acid |
+| [31049344](https://pubmed.ncbi.nlm.nih.gov/31049344/) | 2019 | Case report/series | Skin Appendage Disorders | Chemical peeling as an alternative to oral antifungals for onychomycosis in elderly and diabetic patients |
+| [26857689](https://pubmed.ncbi.nlm.nih.gov/26857689/) | 2016 | In vitro study | Mycoses | Topical antifungal products compared in an in vitro onychomycosis model against *Trichophyton mentagrophytes* |
+| [37256034](https://pubmed.ncbi.nlm.nih.gov/37256034/) | 2023 | Case series | Archives of Plastic Surgery | Etiology report of burns caused by Korean folk remedies; signals a safety concern with unsupervised acid-based home treatments |
+| [33625606](https://pubmed.ncbi.nlm.nih.gov/33625606/) | 2021 | In vitro study (not acetic acid specific) | World J Microbiol Biotechnol | A *Lactobacillus plantarum* strain inhibited *Trichophyton rubrum* growth |
+| [16233325](https://pubmed.ncbi.nlm.nih.gov/16233325/) | 2002 | In vitro study (not acetic acid specific) | J Biosci Bioeng | Fermented herb product showed antifungal activity against tinea under low-pH conditions |
+
+Note: One additional retrieved publication (PMID 30941788, an analytical chemistry method paper on tolnaftate) is not relevant and is omitted. Several of the above (the lactic acid bacteria studies) are not specific to acetic acid and give only indirect support.
+
+For post-infectious syndrome, the only publication is [20848144](https://pubmed.ncbi.nlm.nih.gov/20848144/) (2011, *J Gastroenterol*), a review of animal models of post-infectious IBS. It does not study acetic acid as a treatment.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA040166 | Acetic Acid (Chartwell RX, LLC) | Solution | Not stated |
-| NDA012179 | Acetic Acid (NuCare Pharmaceuticals, Inc.) | Solution | Not stated |
-| ANDA040607 | Acetic Acid (A-S Medication Solutions) | Solution | Not stated |
-| ANDA040607 | Acetic Acid (TruPharma, LLC) | Solution | Not stated |
-| Not listed | Aceticum acidum (Boiron) | Pellet | Not stated |
+All six authorizations are cancelled; no product is currently marketed. The data compiled for this report contains no approved indication text for any of them.
 
-Other forms on the market include irrigant, cream, and spray.
+| Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
+|---------|------|------|------|------|
+| ANDA040166 | Acetic Acid | Solution | Chartwell RX, LLC | Cancelled |
+| NDA012179 | Acetic Acid | Solution | NuCare Pharmaceuticals, Inc. | Cancelled |
+| ANDA040607 | Acetic Acid | Solution | A-S Medication Solutions | Cancelled |
+| NDA018161 | Acetic Acid | Irrigant | B. Braun Medical Inc. | Cancelled |
+| NDA018523 | Acetic Acid | Irrigant | Baxter Healthcare Corporation | Cancelled |
 
----
+A sixth entry (Aceticum acidum, pellet, Boiron) has no authorization number and is also cancelled.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug interaction records were found for this drug.
+- **Contraindications (from the knowledge graph, not label text)**: inherited porphyria, porphyrin metabolism disease, porphyria, herpes simplex infectious disease, geniculate herpes zoster.
+- **Practical safety signal**: a 2023 report documented burns from Korean folk remedies, which indicates a risk with unsupervised use of acid-based home treatments.
+- **Drug Interactions**: No interactions were found in the queried database.
 
----
+Please refer to the package insert for warnings and other safety information, as label text was not available.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction for post-bacterial disorder rests on the model score alone (Evidence Level L5). No matched trial or publication tests acetic acid for this condition, and no original indication or mechanism is documented.
-
-Among the other predicted indications, **tinea corporis** (rank 9, score 99.25%) has the most supportive material, rated L4. It includes historical reports of dilute acetic acid for tinea, and vinegar-based studies in tinea pedis and onychomycosis. Even there, no study tests acetic acid alone for tinea corporis. A 2023 case series also documents chemical burns from folk remedies (PMID 37256034), so concentration and exposure control matter. It would be a better candidate to investigate first.
+All predictions are supported only by model scores. Tinea corporis has the best indirect support (L4: historical reports and in vitro data, with plausible acidification-based antifungal activity), but it has no registered trials and no modern controlled studies. All US authorizations are cancelled, and label-based safety data are missing. Tinea corporis may be pursued as a research question; the other predictions should not be pursued without new evidence.
 
 **To proceed, the following is needed:**
-- Package insert warnings, contraindications, and approved indications, obtained from the FDA labeling
-- Mechanism of action data, e.g. from DrugBank
-- A clear clinical definition of "post-bacterial disorder", then a targeted search for studies testing acetic acid itself
-- If the tinea corporis direction is pursued: a comparative study of acetic acid alone, with a concentration and skin-safety plan
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- Modern controlled studies, or at least in vitro MIC data, of acetic acid against dermatophytes such as *Trichophyton rubrum*
+- Formulation, concentration and skin-tolerability data, given the burn risk with acid-based remedies
+- Route and formulation compatibility assessment (currently pending)
+- Comparison with existing standard topical antifungals to determine whether any unmet need exists
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

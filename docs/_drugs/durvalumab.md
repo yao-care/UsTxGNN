@@ -29,96 +29,85 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Durvalumab: From PD-L1 Blockade Therapy to Prostatic Urethra Urothelial Carcinoma
+# Durvalumab: From Transitional Cell Carcinoma to Prostatic Urethra Urothelial Carcinoma
 
 ## One-Sentence Summary
 
-Durvalumab (brand name IMFINZI) is a PD-L1 blocking antibody marketed in the US as an injectable cancer immunotherapy.
-The TxGNN model predicts it may be effective for **prostatic urethra urothelial carcinoma** (score 99.98%).
-However, **no clinical trials and no publications** are currently linked to this specific site, so the prediction rests on model output and class-level reasoning alone.
-
----
+Durvalumab is an anti-PD-L1 antibody, originally associated with the treatment of transitional cell carcinoma (urothelial carcinoma).
+The TxGNN model ranks **prostatic urethra urothelial carcinoma** as its top prediction, but **no clinical trials or publications** were found for this specific indication.
+Related urothelial and variant-histology cancers have limited supporting evidence: a few small early-phase or terminated trials.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Transitional cell carcinoma (urothelial carcinoma) |
 | Predicted New Indication | Prostatic urethra urothelial carcinoma |
 | TxGNN Prediction Score | 99.98% |
 | Evidence Level | L5 (model prediction only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 2 listings (both under BLA761069) |
+| US Market Status | Cancelled only (the single BLA is listed as cancelled) |
+| Number of NDAs | 1 (BLA761069) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Durvalumab is a monoclonal antibody that blocks PD-L1. This releases the brake that tumour cells place on T cells. Detailed mechanism data from DrugBank is not currently available, so this description relies on the drug's known class behaviour.
+Currently, detailed mechanism of action data is not available. Based on known information, durvalumab is an anti-PD-L1 monoclonal antibody. Blocking PD-L1 can release the immune system's suppression of tumour cells. Its association with urothelial carcinoma has been established, and mechanistically it may be applicable to urothelial cancers arising at other sites.
 
-Urothelial carcinoma is a tumour type in which PD-1/PD-L1 blockade is known to be active as a class. The prostatic urethra is a urothelium-lined site, so extending the same logic to it is biologically plausible. The high score probably reflects the graph proximity of this disease to other urothelial cancers.
+The prostatic urethra is lined by urothelium, so urothelial carcinoma at this site shares its histology with bladder cancer, the original indication. PD-L1 blockade is therefore biologically plausible. However, no trials or publications were found for this specific site, so the prediction rests on model output and biological reasoning alone.
 
-This reasoning is indirect. No trial or publication is specific to the prostatic urethra, so the prediction is a hypothesis, not a finding.
-
----
+The other top-ranked predictions are also urothelial or gynecologic cancers. Notable examples:
+- **Kidney pelvis sarcomatoid transitional cell carcinoma** and **infiltrating bladder urothelial carcinoma, sarcomatoid variant** (L3): supported by small early-phase or terminated trials.
+- **Endocervical carcinoma** (L3): supported by one completed Phase 1 trial and limited literature.
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for this indication.
+No trials are registered for the top-ranked indication (prostatic urethra urothelial carcinoma). The table below lists trials found for closely related predicted indications (ranks 2, 3 and 6).
 
----
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT03912818](https://clinicaltrials.gov/study/NCT03912818) | Phase 2 | Terminated | 7 | Durvalumab with neoadjuvant chemotherapy in variant-histology bladder cancer. Directly matches the sarcomatoid variant, but only 7 patients were enrolled, so it cannot support efficacy conclusions. |
+| [NCT02812420](https://clinicaltrials.gov/study/NCT02812420) | Early Phase 1 | Active, not recruiting | 54 | Pre-surgical pilot of durvalumab plus tremelimumab in cisplatin-ineligible, muscle-invasive, high-risk urothelial carcinoma. Evaluates safety and immune effects. Not specific to sarcomatoid disease. |
+| [NCT03452332](https://clinicaltrials.gov/study/NCT03452332) | Phase 1 | Completed | 20 | Hypofractionated radiotherapy plus durvalumab and tremelimumab in recurrent or metastatic cervical, vaginal or vulvar cancer. Early safety and feasibility data only. |
 
 ## Literature Evidence
 
-Currently no related literature available.
+No publications were found for the top-ranked indication. The table below lists publications found for the related endocervical carcinoma prediction.
 
----
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [42518016](https://pubmed.ncbi.nlm.nih.gov/42518016/) | 2026 | Nonrandomized clinical trial | Oncology and Therapy | Phase 1 study of ceralasertib (an ATR inhibitor) plus durvalumab in Chinese patients with advanced solid tumours that were resistant to prior anti-PD-(L)1 therapy or had no standard of care. Assesses safety, pharmacokinetics and antitumour activity. Not specific to cervical cancer. |
+| [37467967](https://pubmed.ncbi.nlm.nih.gov/37467967/) | 2023 | Review | Biomedical Journal | Review of small cell neuroendocrine carcinoma of the cervix, covering molecular basis and therapeutic advances. Notes that evidence is limited to case series and case reports. |
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA761069 | IMFINZI | Injection, solution | AstraZeneca Pharmaceuticals LP |
-
-The data lists this authorization twice with identical details, so it is shown once here. Approved indication text was not provided.
-
----
-
-## Cytotoxicity
-
-| Item | Content |
-|------|------|
-| Cytotoxicity Classification | Immunotherapy (immune checkpoint inhibitor); not a conventional cytotoxic agent |
-| Myelosuppression Risk | Low, based on general class knowledge; not confirmed from the package insert |
-| Emetogenicity Classification | Low, based on general class knowledge |
-| Monitoring Items | Immune-related adverse events: liver function, thyroid function, renal function, blood glucose, and pulmonary and gastrointestinal symptoms |
-| Handling Protection | Please refer to the package insert warnings and precautions |
-
----
+| BLA761069 (cancelled) | IMFINZI | Injection, solution | Not listed in the data compiled for this report |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: 81 interactions were recorded. The most notable are:
+  - **Major**: adalimumab.
+  - **Moderate**: corticosteroids (hydrocortisone, triamcinolone, dexamethasone, betamethasone, budesonide, prednisolone, prednisone, methylprednisolone, deflazacort), roflumilast, alefacept, alemtuzumab, anakinra, tetanus toxoid vaccine and anthrax vaccine.
+  - **Minor**: zinc salts (acetate, gluconate, sulfate, chloride).
 
----
+  Interactions with corticosteroids and other immunomodulators are likely relevant because these agents may counteract immune-checkpoint activity.
+
+For warnings and contraindications, please refer to the package insert.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high, but there is no trial or literature evidence for prostatic urethra urothelial carcinoma. The evidence level is L5, and the rationale is class-level only.
-
-Two other TxGNN predictions for this drug have more supporting evidence and may be better starting points:
-- **Infiltrating bladder urothelial carcinoma, sarcomatoid variant** (rank 3): a Phase 2 trial of durvalumab with neoadjuvant chemotherapy (NCT03912818) is directly relevant, but it was terminated after only 7 patients.
-- **Endocervical carcinoma** (rank 6): a completed Phase 1 trial (NCT03452332) and an ongoing Phase 2 trial (NCT04065269) exist, but both involve combination regimens.
+The top prediction has a very high model score (99.98%) and a plausible mechanism, since the prostatic urethra is lined by urothelium. However, there are no clinical trials or publications for this site (L5). Evidence for neighbouring predictions is limited to small, early-phase or terminated studies (L3). The US market status is also "cancelled only," which further limits the near-term case.
 
 **To proceed, the following is needed:**
-- A search for trials or case series in urothelial carcinoma involving the prostatic urethra, or in upper-tract or non-bladder urothelial cancers that could include this site
-- Package insert warnings and contraindications (a blocking data gap for safety screening)
-- Mechanism of action data from DrugBank
-- Approved indication text for BLA761069, to confirm the original indication and its relationship to the predicted one
-- Route compatibility assessment
+- Clinical or real-world data on durvalumab in prostatic urethral or other upper-tract urothelial carcinoma
+- Detailed mechanism of action data
+- Package insert warnings and contraindications
+- Confirmation of the current US regulatory status of IMFINZI, since the data show the BLA as cancelled
+- A literature review of related variant-histology cohorts, such as sarcomatoid urothelial carcinoma, to inform trial design
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

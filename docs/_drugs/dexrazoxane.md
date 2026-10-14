@@ -29,31 +29,32 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Dexrazoxane: From Chemotherapy Cardioprotection to Sclerosing Cholangitis
+# Dexrazoxane: From Cardioprotection in Anthracycline Chemotherapy to Sclerosing Cholangitis
 
 ## One-Sentence Summary
 
-Dexrazoxane is a marketed injectable, generally known as a chemoprotectant used alongside anthracycline chemotherapy. The TxGNN model predicts it may be effective for **sclerosing cholangitis**, but **no clinical trials and no publications** currently support this prediction, so it is a model output only.
+Dexrazoxane is an injectable drug, widely known as a cardioprotectant used alongside anthracycline chemotherapy. The data compiled for this report do not list an approved indication for it.
+The TxGNN model predicts it may be effective for **Sclerosing Cholangitis**, but there are currently **0 clinical trials** and **0 publications** supporting this direction. The prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the Evidence Pack (approved indication text is empty in all listed licenses). The title uses the drug's general known role as a chemoprotectant. |
+| Original Indication | Not listed in the compiled regulatory data (the approved-indication text is empty) |
 | Predicted New Indication | Sclerosing cholangitis |
-| TxGNN Prediction Score | 99.99% (model rank 482) |
+| TxGNN Prediction Score | 99.99% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 9 licenses (the five listed are generic ANDAs) |
+| US Market Status | Cancelled only (no currently valid authorizations) |
+| Number of NDAs | 3 (all ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data from DrugBank is not available in the Evidence Pack. The analysis notes describe dexrazoxane as an iron chelator (through its metabolite ADR-925) and a topoisomerase II catalytic inhibitor.
+Detailed mechanism of action data is not available in the compiled data. Based on general pharmacological knowledge, dexrazoxane is an iron chelator and a catalytic inhibitor of topoisomerase II, and it is known for protecting the heart from anthracycline toxicity.
 
-A link to sclerosing cholangitis is conceivable but speculative. Iron-related and oxidative injury could play a role in cholestatic liver disease, and dexrazoxane's iron chelation might counter that. The Evidence Pack contains no data supporting this idea, and no similarity assessment between the original and predicted indications has been done.
+One speculative link to sclerosing cholangitis is that iron-dependent oxidative injury could contribute to bile duct damage, and an iron chelator might theoretically dampen it. No clinical or literature evidence was found to support this idea. The high score (99.99%) is a model prediction only and should not be read as evidence of efficacy.
 
-The score of 0.9999 comes from the knowledge graph alone. Many other predictions for this drug have similarly high scores but no plausible rationale (for example bronchitis, conjunctivitis and urinary tract infection). The score should therefore not be read as evidence of efficacy.
+The original indication and the predicted indication are also not obviously related, and their similarity has not yet been assessed.
 
 ## Clinical Trial Evidence
 
@@ -65,38 +66,38 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form |
-|---------|------|------|
-| ANDA207321 | Dexrazoxane (Fosun Pharma USA Inc.) | Lyophilized powder for injection |
-| ANDA076068 | Dexrazoxane (Hikma Pharmaceuticals USA Inc.) | Lyophilized powder for injection |
-| ANDA207321 | Dexrazoxane (Almaject, Inc.) | Lyophilized powder for injection |
-| ANDA207321 | Dexrazoxane (Gland Pharma Limited) | Lyophilized powder for injection |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA207321 (Fosun Pharma USA Inc.) | Dexrazoxane | Lyophilized powder for injection | Not available (cancelled) |
+| ANDA076068 (Hikma Pharmaceuticals USA Inc.) | Dexrazoxane | Lyophilized powder for injection | Not available (cancelled) |
+| ANDA216748 (Novadoz Pharmaceuticals LLC) | Dexrazoxane | Lyophilized powder for injection | Not available (cancelled) |
 
-Only the injectable route is listed, and approved indication text is not provided for any license. Some authorization numbers appear more than once because different manufacturers share them.
+## Cytotoxicity
+
+Dexrazoxane is used in cancer care as a chemoprotectant rather than as a primary antitumour agent. It is not itself a conventional cytotoxic anticancer drug. Compiled toxicity data are not available, so please refer to the package insert warnings and precautions.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindications (from knowledge-graph disease associations, not label text)**: impaired renal function disease; non-infectious meningitis.
+- **Drug Interactions**: 19 interactions were identified.
+  - **Major (11)**: live vaccines and live-virus products, including Bacillus Calmette-Guérin (BCG), measles, mumps, rubella, rotavirus, smallpox (vaccinia), typhoid (live), yellow fever and varicella zoster vaccines, and talimogene laherparepvec.
+  - **Moderate (8)**: doxorubicin (conventional and liposomal), dimethyl fumarate, diroximel fumarate, monomethyl fumarate, a live adenovirus type 4 antigen, live *Vibrio cholerae* vaccine, *Bifidobacterium longum infantis*, and *Lactobacillus acidophilus*.
 
-The Evidence Pack's rationale notes also flag the drug's myelosuppressive profile as a concern. FDA package insert warnings and contraindications have not been retrieved, and this is a blocking gap for safety screening.
+Package insert warnings and contraindications were not available for this report, so please refer to the package insert for complete safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a knowledge-graph score, with no trials or literature. Original MOA and package insert safety data are also missing, so the candidate cannot advance past the initial stage.
+The prediction for sclerosing cholangitis has no supporting clinical trials or literature (evidence level L5). It has no established mechanistic link, and no valid US authorization currently exists. The other top-ranked predictions are also unsupported. Among them, only cystitis has indirect preclinical support (L4), through a ferroptosis hypothesis, and it is best treated as a research question rather than a development candidate.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications (blocking)
-- Mechanism of action data from DrugBank
-- A targeted literature search on dexrazoxane, iron chelation and cholestatic or sclerosing cholangitis disease
-- Approved indication text for the US licenses, to confirm the original indication
-- Evidence on route compatibility with the target indication (currently pending)
-
-Among the other predicted indications, only **cystitis** has indirect supporting material (preclinical ferroptosis studies and chemoprotectant reviews, evidence level L4). It is worth a separate hypothesis-level look, such as a chemotherapy-induced hemorrhagic cystitis model. It is not evidence for sclerosing cholangitis.
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
+- Package insert warnings and contraindications, which are currently a blocking gap for safety screening
+- Detailed mechanism of action data
+- Preclinical evidence, such as cholestasis or bile duct injury models, testing whether iron chelation or ferroptosis inhibition is protective
+- Confirmation of the original approved indication and a review of why all US authorizations are cancelled
+- Assessment of route compatibility (the available form is injectable only) and of renal-function-related safety
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

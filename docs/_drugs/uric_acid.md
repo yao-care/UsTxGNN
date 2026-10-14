@@ -29,109 +29,78 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Uric Acid: From an Endogenous Metabolite (No Labeled Indication) to Rheumatoid Arthritis
+# Uric Acid: From an Unspecified Original Indication to Rheumatoid Arthritis
 
 ## One-Sentence Summary
 
-Uric acid is the end product of human purine metabolism. No original therapeutic indication is recorded for it in the US regulatory data.
-The TxGNN model predicts it may be relevant to **rheumatoid arthritis** with a very high score, but the supporting literature treats uric acid only as a **biomarker**, never as a treatment, and **none of the retrieved clinical trials test uric acid as an intervention**.
-
----
+Uric acid is an endogenous purine metabolite. The data compiled for this report contain no approved indication for it.
+The TxGNN model predicts it may be relevant to **Rheumatoid Arthritis**, but the support is weak: **1 registered clinical trial** (which does not test uric acid) and **19 publications**, nearly all of which describe uric acid as a disease biomarker rather than as a treatment.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded (no approved indication text in the US licenses) |
+| Original Indication | No approved indication recorded |
 | Predicted New Indication | Rheumatoid arthritis |
 | TxGNN Prediction Score | 99.68% |
-| Evidence Level | L4 (association and biomarker studies only; no therapeutic study) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 5 |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for this record. Uric acid is an endogenous purine metabolite with both antioxidant and pro-inflammatory properties. The direction of any effect in rheumatoid arthritis (RA) is unclear.
+Currently, detailed mechanism of action data is not available. Uric acid is an endogenous end product of purine metabolism. The only US authorization on record is a cancelled liquid product, and it lists no approved indication.
 
-The literature links uric acid and its oxidation product allantoin to RA through oxidative stress, disease activity, RA-associated interstitial lung disease, cardiovascular risk and kidney stones. In every case uric acid is a marker or comorbidity signal, not an intervention. RA and gout also co-occur more often than once assumed, which may explain why the two diseases sit close together in the knowledge graph.
+The literature links uric acid to rheumatoid arthritis (RA) as a marker or comorbidity factor, not as a therapy. Reported associations include cardiovascular risk, prognosis of RA-associated interstitial lung disease, skeletal muscle status, and allantoin levels. Oxidized urate can also form reactive electrophiles during inflammation. Elevated uric acid is generally regarded as pro-inflammatory, which argues against a therapeutic role.
 
-The high TxGNN score reflects graph proximity, not clinical support. Uric acid is not a plausible therapeutic agent for RA based on current data.
-
----
+The high TxGNN score most likely reflects network proximity between purine metabolism and inflammation pathways, not a plausible treatment mechanism. The prediction should therefore be treated as a computational hypothesis only.
 
 ## Clinical Trial Evidence
 
-None of the trials below test uric acid as an intervention. They matched on the disease term only. Most are RA studies of other agents (biologics, DMARDs, diet) or gout studies of other drugs.
-
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT03856190](https://clinicaltrials.gov/study/NCT03856190) | N/A | Terminated | 53 | Therapeutic fasting and specific diet in RA; uric acid is not the intervention |
-| [NCT01258712](https://clinicaltrials.gov/study/NCT01258712) | Phase 3 | Completed | 86 | Tocilizumab plus methotrexate in moderate to severe RA |
-| [NCT00048568](https://clinicaltrials.gov/study/NCT00048568) | Phase 3 | Completed | 1250 | Abatacept plus methotrexate vs methotrexate alone in RA |
-| [NCT00461448](https://clinicaltrials.gov/study/NCT00461448) | Phase 1 | Completed | 36 | Potassium supplementation pilot in RA |
-| [NCT05911880](https://clinicaltrials.gov/study/NCT05911880) | N/A | Unknown | 28 | Plant-based diet and RA activity |
-| [NCT04033809](https://clinicaltrials.gov/study/NCT04033809) | N/A | Completed | 54 | High-fiber multigrain supplementation in RA |
-| [NCT04953533](https://clinicaltrials.gov/study/NCT04953533) | N/A | Unknown | 800 | Gut microbiota and SNP study of intestinal uric acid excretion in gout and hyperuricemia (observational, not RA) |
-| [NCT01078389](https://clinicaltrials.gov/study/NCT01078389) | Phase 2 | Completed | 314 | Febuxostat vs placebo on joint damage in hyperuricemic early gout (urate-lowering, not RA) |
-| [NCT06186219](https://clinicaltrials.gov/study/NCT06186219) | Phase 1 | Completed | 2 | Rituximab pretreatment before methotrexate-pegloticase in tophaceous gout (not RA) |
-| [NCT02332590](https://clinicaltrials.gov/study/NCT02332590) | Phase 3 | Completed | 369 | Sarilumab vs adalimumab monotherapy in RA |
-
----
+| [NCT03194204](https://clinicaltrials.gov/study/NCT03194204) | NA | Completed | 160 | Doxycycline as combination therapy in RA. Uric acid is not an intervention, so this gives no direct evidence for the drug-indication pair. |
 
 ## Literature Evidence
 
-No randomized controlled trials were found. The papers are meta-analyses, reviews and observational cohorts of uric acid as a biomarker in RA.
-
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [37627564](https://pubmed.ncbi.nlm.nih.gov/37627564/) | 2023 | Meta-analysis | Antioxidants (Basel) | Systematic review of plasma/serum uric acid and allantoin levels in RA |
-| [38699124](https://pubmed.ncbi.nlm.nih.gov/38699124/) | 2024 | Review | Cureus | Compares adenosine deaminase, CRP and uric acid biomarkers in RA vs non-arthritis patients |
-| [39968300](https://pubmed.ncbi.nlm.nih.gov/39968300/) | 2025 | Review | Front Endocrinol | Links between serum urate and musculoskeletal disorders including RA, and the mechanisms behind them |
-| [40710524](https://pubmed.ncbi.nlm.nih.gov/40710524/) | 2025 | Review | Metabolites | Uric acid, colchicine and cardiovascular risk in gout and RA |
-| [21115462](https://pubmed.ncbi.nlm.nih.gov/21115462/) | 2011 | Review | Rheumatology (Oxford) | Uric acid and cardiovascular risk in RA (no abstract available) |
-| [37650291](https://pubmed.ncbi.nlm.nih.gov/37650291/) | 2024 | Cohort | Clin Exp Rheumatol | Association of serum uric acid with all-cause and cardiovascular mortality in RA adults |
-| [38026718](https://pubmed.ncbi.nlm.nih.gov/38026718/) | 2023 | Cohort | Open Access Rheumatol | Examines whether serum uric acid is associated with RA disease activity |
+| [37627564](https://pubmed.ncbi.nlm.nih.gov/37627564/) | 2023 | Systematic review / meta-analysis | Antioxidants (Basel) | Examines the association of circulating uric acid and allantoin with RA (biomarker association, not treatment) |
+| [35110331](https://pubmed.ncbi.nlm.nih.gov/35110331/) | 2022 | Review (recommendations) | Ann Rheum Dis | EULAR cardiovascular risk management recommendations in rheumatic diseases, including gout |
+| [21115462](https://pubmed.ncbi.nlm.nih.gov/21115462/) | 2011 | Review | Rheumatology (Oxford) | Uric acid and cardiovascular risk in RA |
+| [39968300](https://pubmed.ncbi.nlm.nih.gov/39968300/) | 2025 | Review | Front Endocrinol | Mechanisms linking serum urate to musculoskeletal disorders, including RA |
+| [40710524](https://pubmed.ncbi.nlm.nih.gov/40710524/) | 2025 | Review | Metabolites | Uric acid, colchicine, and cardiovascular risk in chronic inflammatory diseases such as gout and RA |
+| [38699124](https://pubmed.ncbi.nlm.nih.gov/38699124/) | 2024 | Review | Cureus | Compares adenosine deaminase, CRP, and uric acid levels in RA patients versus those without arthritis |
+| [37650291](https://pubmed.ncbi.nlm.nih.gov/37650291/) | 2024 | Cohort | Clin Exp Rheumatol | Association of serum uric acid with all-cause and cardiovascular mortality in RA |
 | [40837562](https://pubmed.ncbi.nlm.nih.gov/40837562/) | 2025 | Cohort | Front Med | Serum uric acid as a predictor of prognosis in RA-associated interstitial lung disease |
-| [35314903](https://pubmed.ncbi.nlm.nih.gov/35314903/) | 2022 | Cohort | Inflammation | Serum uric acid as a diagnostic biomarker for RA-associated interstitial lung disease |
-| [41582139](https://pubmed.ncbi.nlm.nih.gov/41582139/) | 2026 | Epidemiology/genetics | Arthritis Res Ther | RA and gout may coexist more often than assumed; epidemiological, genetic and molecular overlap |
-
----
+| [35314903](https://pubmed.ncbi.nlm.nih.gov/35314903/) | 2022 | Observational | Inflammation | Serum uric acid as a diagnostic biomarker for RA-associated interstitial lung disease |
+| [38026718](https://pubmed.ncbi.nlm.nih.gov/38026718/) | 2023 | Observational | Open Access Rheumatol | Association between serum uric acid and RA disease activity |
 
 ## US Market Information
 
-The five licenses are all liquid products, and none carries an approved indication text. License numbers are not listed.
-
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| Not listed | Uric Acid (Professional Complementary Health Formulas) | Liquid | Not listed |
-| Not listed | Bestmade Natural Products BM191 (Bestmade Natural Products) | Liquid | Not listed |
-| Not listed | Bruise (Remedies Cure, LLC) | Liquid | Not listed |
-| Not listed | Mycobacter/Mycoplasma Nosode (Professional Complementary Health Formulas) | Liquid | Not listed |
-| Not listed | Large Joint Pain Drops (Professional Complementary Health Formulas) | Liquid | Not listed |
+| Not available (cancelled) | Uric Acid | Liquid | No approved indication recorded |
 
----
+The only authorization on record is cancelled, so no valid US product is currently marketed.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
-
----
+Please refer to the package insert for safety information. No drug interaction records were found, and no knowledge-graph contraindications were identified.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on knowledge-graph proximity alone. The literature shows uric acid as an RA biomarker or comorbidity marker, with no interventional evidence and no plausible therapeutic mechanism. The other top predictions are weaker still. Colobomatous microphthalmia-rhizomelic dysplasia syndrome and brachydactyly-syndactyly syndrome have no trials or literature (L5), and bronchitis has only a keyword-driven match (L5).
+The prediction rests on a computational score alone. The only trial does not test uric acid, and the literature treats uric acid as a biomarker or risk factor in RA, often a pro-inflammatory one, not as a therapy. The only US authorization is cancelled and has no recorded indication.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, which block any safety screening
-- Mechanism of action data and the original indication for this record
-- Evidence that raising or supplementing uric acid, rather than lowering it, has a therapeutic effect in RA
-- Interventional studies of uric acid or urate modulation in RA, to replace the current association-only data
+- Mechanism of action data, plus a plausible hypothesis for how administering uric acid could benefit RA
+- Package insert warnings and contraindications
+- Preclinical evidence of a therapeutic, not merely associative, effect in RA models
+- Clarification of whether the prediction reflects a true therapeutic direction or an artifact of purine-metabolism network proximity
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

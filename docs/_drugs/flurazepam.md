@@ -3,14 +3,14 @@ layout: default
 title: Flurazepam
 parent: Moderate Evidence (L3-L4)
 nav_order: 727
-evidence_level: L3
+evidence_level: L4
 indication_count: 1
 ---
 
 # Flurazepam
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **1** 
+Evidence Level: **L4** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,29 +29,31 @@ Evidence Level: **L3** | Predicted Indications: **1**
 
 </div>
 
-# Flurazepam: From Insomnia (Known Labeled Use) to Sleep Disorder, Initiating and Maintaining Sleep
+# Flurazepam: From Insomnia to Sleep Disorder (Initiating and Maintaining Sleep)
 
 ## One-Sentence Summary
 
-Flurazepam is a benzodiazepine hypnotic, marketed in the US as capsules. The TxGNN model predicts it may be effective for **sleep disorder, initiating and maintaining sleep**. This is essentially a re-confirmation of a long-established use rather than a new repurposing finding. Currently **no clinical trials are registered** in the evidence pack, but **20 publications** (mostly reviews plus a few controlled studies) support this direction.
+Flurazepam is a benzodiazepine hypnotic originally used to treat insomnia.
+The TxGNN model predicts it may be effective for **sleep disorder, initiating and maintaining sleep**, which is essentially the same condition as its original indication.
+Currently there are **0 registered clinical trials** and **20 publications** (mostly reviews) on this topic, so this is not a true repurposing signal.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the US license records (insomnia is its long-established labeled use) |
+| Original Indication | Insomnia |
 | Predicted New Indication | Sleep disorder, initiating and maintaining sleep |
 | TxGNN Prediction Score | 99.42% |
-| Evidence Level | L3 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 2 (both ANDAs) |
-| Recommended Decision | Proceed with Guardrails |
+| Evidence Level | L4 |
+| US Market Status | Cancelled only (no active authorizations) |
+| Number of NDAs | 2 (both cancelled ANDAs) |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Flurazepam is a benzodiazepine that acts as a positive allosteric modulator of GABA-A receptors. It enhances inhibitory GABAergic signaling, which produces sedative-hypnotic effects and reduces sleep latency and night-time awakenings. A 2023 cryo-EM study of native GABA-A receptor assemblies (PMID 37730991) supports this mechanism at the structural level. The drug's original indication and mechanism fields are empty in the evidence pack, so the mechanism above comes from the repurposing rationale and the literature.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on the literature, flurazepam is a benzodiazepine hypnotic that acts as a positive allosteric modulator of the GABA-A receptor. It enhances inhibitory chloride currents and produces sedative-hypnotic effects. This mechanism matches the pathophysiology of difficulty falling and staying asleep.
 
-The predicted "insomnia (initiating and maintaining sleep)" indication matches how flurazepam has been used since 1970, when it became the first benzodiazepine hypnotic. A 1987 review notes it is effective for both sleep induction and maintenance, and retains most of its efficacy over 4 weeks of nightly use. The high score (0.994) is therefore consistent with a known indication, not a novel one.
+The predicted indication is essentially identical to the drug's original indication (insomnia). The high TxGNN score (0.994) most likely reflects this overlap with a known use rather than a novel signal. In other words, this is not a true repurposing case.
 
 ## Clinical Trial Evidence
 
@@ -59,44 +61,54 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
+The publications are mainly reviews and pharmacology papers. No randomized controlled trial is included in the compiled data.
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [38401406](https://pubmed.ncbi.nlm.nih.gov/38401406/) | 2024 | Systematic review / network meta-analysis of RCTs | Eur Neuropsychopharmacol | Assesses residual effects of sleep medications on driving performance (SDLP and first-morning impairment) |
-| [7792498](https://pubmed.ncbi.nlm.nih.gov/7792498/) | 1995 | Controlled study (design inferred from title) | Sleep | In 10 insomniacs, placebo vs flurazepam 30 mg vs zolpidem 10 mg, testing how the drugs alter perception of being asleep or awake |
-| [7792497](https://pubmed.ncbi.nlm.nih.gov/7792497/) | 1995 | Controlled study (design inferred from title) | Sleep | Same comparison in 15 normal sleepers |
-| [2671059](https://pubmed.ncbi.nlm.nih.gov/2671059/) | 1989 | Comparative study | J Clin Psychopharmacol | Brotizolam 0.25 mg vs flurazepam 15 mg vs placebo for 2 weeks in 36 elderly subjects (60-72 years) with chronic insomnia; results not in the available abstract |
-| [27751669](https://pubmed.ncbi.nlm.nih.gov/27751669/) | 2016 | Review | Clin Ther | Safety and efficacy of insomnia medications in older adults |
-| [3332464](https://pubmed.ncbi.nlm.nih.gov/3332464/) | 1987 | Review | Semin Neurol | Flurazepam is effective for both sleep induction and maintenance and keeps most of its efficacy over 4 weeks of nightly use |
-| [2567741](https://pubmed.ncbi.nlm.nih.gov/2567741/) | 1989 | Review | J Clin Psychopharmacol | Reviews rebound insomnia after discontinuation of triazolam, temazepam and flurazepam |
-| [1319429](https://pubmed.ncbi.nlm.nih.gov/1319429/) | 1992 | Review | J Clin Psychiatry | Flurazepam was the first benzodiazepine hypnotic (1970) and was later partly replaced by shorter half-life agents |
-| [36630579](https://pubmed.ncbi.nlm.nih.gov/36630579/) | 2023 | Review | Med Lett Drugs Ther | Overview of drugs for chronic insomnia |
-| [37730991](https://pubmed.ncbi.nlm.nih.gov/37730991/) | 2023 | Structural mechanism study | Nature | Cryo-EM structures of native GABA-A receptor assemblies, a target of hypnotics |
+| [38401406](https://pubmed.ncbi.nlm.nih.gov/38401406/) | 2024 | Systematic review / network meta-analysis of RCTs | Eur Neuropsychopharmacol | Residual effects of sleep medications on driving performance |
+| [32544795](https://pubmed.ncbi.nlm.nih.gov/32544795/) | 2020 | Quantitative comparison (modelling) | Sleep Med | Comparative efficacy of drugs for insomnia |
+| [27751669](https://pubmed.ncbi.nlm.nih.gov/27751669/) | 2016 | Review | Clin Ther | Safety and efficacy of sleep medicines in older adults |
+| [15089115](https://pubmed.ncbi.nlm.nih.gov/15089115/) | 2004 | Review | CNS Drugs | Residual "hangover" effects of hypnotics and accident risk |
+| [3332464](https://pubmed.ncbi.nlm.nih.gov/3332464/) | 1987 | Review | Semin Neurol | Flurazepam effective for both sleep induction and maintenance, retaining most efficacy over 4 weeks of nightly use |
+| [6132933](https://pubmed.ncbi.nlm.nih.gov/6132933/) | 1983 | Sleep laboratory review | J Clin Psychopharmacol | Compares flurazepam, temazepam and triazolam for efficacy and withdrawal effects |
+| [2567741](https://pubmed.ncbi.nlm.nih.gov/2567741/) | 1989 | Critical review | J Clin Psychopharmacol | Rebound insomnia after stopping short half-life benzodiazepines |
+| [1319429](https://pubmed.ncbi.nlm.nih.gov/1319429/) | 1992 | Review | J Clin Psychiatry | Flurazepam was the first benzodiazepine hypnotic (1970), later partly replaced by shorter half-life agents |
+| [1680120](https://pubmed.ncbi.nlm.nih.gov/1680120/) | 1991 | Pharmacology | J Clin Psychiatry | Pharmacokinetic and pharmacodynamic comparison of quazepam and flurazepam |
+| [37730991](https://pubmed.ncbi.nlm.nih.gov/37730991/) | 2023 | Preclinical / structural (cryo-EM) | Nature | Native GABA-A receptor structures and pharmacology of hypnotic targets |
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA072368 | Flurazepam Hydrochloride | Capsule (oral) | Chartwell RX, LLC |
-| ANDA072369 | Flurazepam Hydrochloride | Capsule (oral) | Chartwell RX, LLC |
+| ANDA072368 | Flurazepam Hydrochloride (Chartwell RX, LLC) | Capsule | Not listed (cancelled) |
+| ANDA072369 | Flurazepam Hydrochloride (Chartwell RX, LLC) | Capsule | Not listed (cancelled) |
 
 ## Safety Considerations
 
-- **Key Warnings, Contraindications and Drug Interactions**: The evidence pack has no package-insert warnings or contraindications, and the DDI query returned no results. Please refer to the package insert for safety information.
-- **From the literature**: Residual next-day effects on driving (PMID 38401406), rebound insomnia after discontinuation (PMID 2567741) and safety in older adults (PMID 27751669) are recurring themes.
+- **Disease-level cautions from the knowledge graph** (not label text): The drug is linked to contraindication or caution in the following conditions:
+  - Respiratory: obstructive sleep apnea, sleep apnea syndrome, congenital central hypoventilation syndrome, respiratory failure, lung disease
+  - Hepatic and renal: liver disease, kidney disease, gallbladder disease
+  - Metabolic: porphyria (including inherited porphyria)
+  - Psychiatric: psychotic disorder, schizophreniform disorder, schizoaffective disorder, personality disorder, substance-related disorder and dependence, among others
+- **Drug Interactions** (100 interactions found; main ones shown):
+  - Major: morphine, liposomal morphine (additive CNS and respiratory depression is a known concern with opioids)
+  - Moderate: bupropion, omeprazole, cimetidine, clarithromycin, dronabinol, nabilone, metoclopramide, opium, sibutramine, teduglutide
+  - Minor: antacids and magnesium or calcium salts
+
+Literature also highlights residual next-day effects (impaired driving and psychomotor performance), rebound insomnia on discontinuation, and extra risk in older adults. Please refer to the package insert for official warnings.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-Insomnia is a long-established use of flurazepam, and the literature supports it. However, the evidence is mostly reviews and older small controlled studies, with no registered trials. The package-insert safety data are also missing.
+The predicted indication is essentially the same as the original one, so the high model score does not indicate a new use. There are no registered trials, the evidence is limited to reviews and pharmacology (L4), and all US authorizations have been cancelled.
 
 **To proceed, the following is needed:**
-- Package-insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data from DrugBank
-- Confirmation of the original indication text from the label
-- Verification of the study design of PMIDs 7792498 and 7792497, which was inferred from titles
-- A safety plan for older adults, covering residual sedation and driving, dependence and rebound insomnia
+- Official package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data confirmed from DrugBank
+- Confirmation of whether any genuinely new indication, rather than insomnia, is being pursued
+- Reason for the US market withdrawal and current availability of the drug
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

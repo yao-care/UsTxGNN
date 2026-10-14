@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Levofloxacin
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 855
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 ---
 
 # Levofloxacin
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,71 +29,117 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Levofloxacin: From Antibacterial Use to Punctate Epithelial Keratoconjunctivitis
+# Levofloxacin: From Bacterial Infections to Punctate Epithelial Keratoconjunctivitis
 
 ## One-Sentence Summary
 
-Levofloxacin is a fluoroquinolone antibacterial that is widely marketed in the United States. The TxGNN model predicts it may be effective for **punctate epithelial keratoconjunctivitis**, but the evidence is weak: **0 clinical trials** and **1 publication**, an outbreak report that does not show levofloxacin efficacy.
+Levofloxacin is a fluoroquinolone antibiotic, originally used for bacterial infections such as pneumonia, sinusitis, pyelonephritis, anthrax and bacterial conjunctivitis.
+The TxGNN model ranks **punctate epithelial keratoconjunctivitis** as its top prediction (score 99.92%), but there are **0 clinical trials** and only **1 publication** (an outbreak report that does not support efficacy), so the prediction rests almost entirely on the model.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Bacterial infections (streptococcal and staphylococcal infections, bacterial pneumonia, anthrax, maxillary sinusitis, conjunctivitis, pyelonephritis, and others) |
 | Predicted New Indication | Punctate epithelial keratoconjunctivitis |
 | TxGNN Prediction Score | 99.92% |
-| Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 licenses (the five listed are ANDAs) |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (all 11 listed authorizations are cancelled) |
+| Number of NDAs | 11 (all ANDA generic applications) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Levofloxacin belongs to the fluoroquinolone class, which inhibits bacterial DNA gyrase and topoisomerase IV. Its efficacy against bacterial infections is established, so a benefit in an eye surface disease would depend on a bacterial component.
+Detailed mechanism of action data is not available in the data compiled for this report. Levofloxacin is known to be a fluoroquinolone that inhibits bacterial DNA gyrase and topoisomerase IV. Its efficacy in bacterial conjunctivitis is already established, so activity on the ocular surface is plausible.
 
-The prediction is weakly supported. The only linked paper describes an outbreak of **microsporidial** keratoconjunctivitis traced to swimming pool water in Taiwan. Microsporidia are fungi-related intracellular parasites, and fluoroquinolones are not established as active against them. If levofloxacin was used in that setting, it was probably to cover bacterial co-infection or as a non-specific anti-infective. No efficacy signal can be inferred. The very high score (0.999) most likely reflects proximity in the knowledge graph rather than a demonstrated therapeutic link.
+However, the connection is weak. The only retrieved paper describes an outbreak of microsporidial keratoconjunctivitis linked to swimming pool water in Taiwan. Microsporidia are not susceptible to fluoroquinolones, so this paper does not support efficacy. The very high TxGNN score is a model output only and has no clinical backing.
+
+## Other Predictions Reviewed
+
+Ten predictions were screened. Most have no usable evidence. The ones with some literature are summarized below.
+
+| Rank | Predicted Indication | Score | Evidence Level | Assessment |
+|------|------|------|------|------|
+| 7 | Monoclonal gammopathy | 99.81% | L4 | Strongest literature, but it concerns infection prophylaxis in myeloma, not the gammopathy itself. Research question. |
+| 9 | Septicemic plague | 99.80% | L4 | Strong mechanism and animal data, but already label-adjacent rather than true repurposing. Research question. |
+| 5 | Blood group incompatibility | 99.85% | L4 | One case report on an infectious complication. Indirect. |
+| 2, 3, 4, 6, 8, 10 | Polyclonal hyperviscosity syndrome, hyperamylasemia, congenital analbuminemia, premalignant hematological disease, hematological disease with acquired peripheral neuropathy, congenital hematological disorder | 99.72–99.90% | L5 | No plausible mechanism and no evidence. Rank 8 conflicts with the known fluoroquinolone neuropathy warning, and rank 3 conflicts with the rare link to pancreatitis. |
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials are registered for the top predicted indication.
+
+For monoclonal gammopathy, the multicentre, double-blind, placebo-controlled Phase 3 TEAMM trial ([PMID 31668592](https://pubmed.ncbi.nlm.nih.gov/31668592/)) tested levofloxacin prophylaxis in newly diagnosed myeloma. It addressed myeloma infection prevention, not monoclonal gammopathy as a disease, so it is treated as indirect evidence.
 
 ## Literature Evidence
 
+**Punctate epithelial keratoconjunctivitis (top prediction)**
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [30055152](https://pubmed.ncbi.nlm.nih.gov/30055152/) | 2018 | Outbreak report | Am J Ophthalmol | Outbreak of microsporidial keratoconjunctivitis linked to contaminated swimming pool water in Taiwan. It does not show levofloxacin efficacy. |
+| [30055152](https://pubmed.ncbi.nlm.nih.gov/30055152/) | 2018 | Outbreak report | Am J Ophthalmol | Microsporidial keratoconjunctivitis outbreak from swimming pool water in Taiwan. Does not support levofloxacin efficacy. |
+
+**Selected indirect evidence (monoclonal gammopathy / myeloma)**
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [31668592](https://pubmed.ncbi.nlm.nih.gov/31668592/) | 2019 | RCT | Lancet Oncol | TEAMM: levofloxacin prophylaxis in newly diagnosed myeloma, reporting fewer febrile episodes and deaths in the first 12 weeks. |
+| [31690402](https://pubmed.ncbi.nlm.nih.gov/31690402/) | 2019 | RCT summary | Health Technol Assess | Health technology assessment report of the TEAMM trial. |
+| [32172361](https://pubmed.ncbi.nlm.nih.gov/32172361/) | 2020 | Review | Curr Hematol Malig Rep | Supportive care in myeloma, including infection management. |
+| [37573150](https://pubmed.ncbi.nlm.nih.gov/37573150/) | 2023 | Cohort | Transpl Infect Dis | Infectious complications after autologous transplant in myeloma, with or without levofloxacin prophylaxis. |
+| [29080369](https://pubmed.ncbi.nlm.nih.gov/29080369/) | 2018 | Cohort | Clin Transplant | Ciprofloxacin vs levofloxacin prophylaxis in transplant patients with myeloma (297 patients). |
+| [26150022](https://pubmed.ncbi.nlm.nih.gov/26150022/) | 2015 | Cohort | Biol Blood Marrow Transplant | Levofloxacin prophylaxis and bloodstream infection or fever in neutropenic myeloma patients. |
+
+**Selected indirect evidence (septicemic plague)**
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [21347450](https://pubmed.ncbi.nlm.nih.gov/21347450/) | 2011 | Animal (primate) | PLoS Negl Trop Dis | Levofloxacin cured experimental pneumonic plague in African green monkeys. |
+| [32435805](https://pubmed.ncbi.nlm.nih.gov/32435805/) | 2020 | Animal (primate) | Clin Infect Dis | Effect of delaying treatment on ciprofloxacin and levofloxacin efficacy in pneumonic plague. |
+| [32435803](https://pubmed.ncbi.nlm.nih.gov/32435803/) | 2020 | Review | Clin Infect Dis | African green monkey model and FDA approval of antimicrobials under the Animal Rule. |
+| [21574421](https://pubmed.ncbi.nlm.nih.gov/21574421/) | 2010 | Animal (mouse) | Antibiot Khimioter | Lack of efficacy against nalidixic acid-resistant Y. pestis mutants. |
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| ANDA077652 | levofloxacin | Tablet, film coated | Coupler LLC |
-| ANDA202801 | Levofloxacin | Tablet, film coated | A-S Medication Solutions |
-| ANDA076710 | Levofloxacin | Tablet, film coated | Northwind Health Company, LLC |
-| ANDA076710 | Levofloxacin | Tablet, film coated | REMEDYREPACK INC. |
-| ANDA076710 | Levofloxacin | Tablet, film coated | Dr. Reddy's Laboratories Limited |
+All 11 listed authorizations are generic applications with a cancelled status. Approved indication text was not available in the compiled data.
 
-Available forms across all licenses: oral tablets, injection solution, and solution.
+| Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
+|---------|------|------|------|------|
+| ANDA077652 | Levofloxacin | Film-coated tablet | Coupler LLC | Cancelled |
+| ANDA202801 | Levofloxacin | Film-coated tablet | A-S Medication Solutions | Cancelled |
+| ANDA076710 | Levofloxacin | Film-coated tablet | Northwind Health Company, LLC | Cancelled |
+| ANDA076890 | Levofloxacin | Tablet | Chartwell RX, LLC | Cancelled |
+| ANDA090343 | Levofloxacin | Injection, solution | WG Critical Care, LLC | Cancelled |
+
+Six further authorizations (oral solution, tablets and injections from Hikma, Macleods, Lannett, Gland, Eugia and PD-Rx) are also cancelled.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+**Contraindication-related conditions (from the knowledge graph, not label text):**
+Long QT syndrome, torsades de pointes, epilepsy, liver disease, tendinitis, peripheral neuropathy, myasthenia gravis, diabetes mellitus, rhabdomyolysis, Clostridium difficile colitis, impaired renal function, thrombocytopenia, leukopenia, pancytopenia, and coronary artery disease, among others.
+
+**Drug Interactions:** 100 interactions were found. Major-level examples are:
+- Tramadol
+- Hydrocortisone
+
+Moderate-level examples include abiraterone, acarbose, famotidine, formoterol, ketorolac, ibuprofen, metformin, pioglitazone and alfuzosin.
+
+Please refer to the package insert for official warnings and contraindications, as label text was not available.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high, but there are no clinical trials. The single paper is an outbreak report of a microsporidial infection, which is not a setting where fluoroquinolones are known to work. This supports a model-only prediction at the L4 level.
+The top prediction has no clinical trials, and its only paper concerns a microsporidial outbreak against which fluoroquinolones are not active. The high TxGNN score has no clinical support. Of the other predictions, monoclonal gammopathy (via myeloma infection prophylaxis) and septicemic plague are worth follow-up as research questions at L4. The plague indication is already label-adjacent rather than true repurposing.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications (a blocking data gap)
-- Mechanism of action data from DrugBank
-- Studies showing levofloxacin activity or benefit in punctate epithelial keratoconjunctivitis, including the causative pathogens and any ophthalmic formulation or route
-- Confirmation of the original approved indication, since all listed licenses have empty indication text
-
-**Other candidates in the same Evidence Pack with stronger support:**
-- **Monoclonal gammopathy (rank 7, L1, Proceed with Guardrails):** the double-blind, placebo-controlled Phase 3 TEAMM trial ([PMID 31668592](https://pubmed.ncbi.nlm.nih.gov/31668592/)) tested levofloxacin prophylaxis in newly diagnosed symptomatic myeloma. The benefit is infection prevention, not treatment of the plasma-cell disease, and it does not extend directly to MGUS.
-- **Septicemic plague (rank 9, L4, Proceed with Guardrails):** African green monkey studies ([PMID 21347450](https://pubmed.ncbi.nlm.nih.gov/21347450/)) support activity against *Yersinia pestis*. This is probably already an on-label indication, so the label status should be verified.
+- FDA package insert warnings and contraindications (currently blocking for safety screening)
+- Mechanism of action data
+- For keratoconjunctivitis: evidence of activity against the relevant pathogens, or a clearly defined bacterial subtype, before any further work
+- For monoclonal gammopathy: studies in MGUS or smoldering disease, with benefit-risk analysis covering resistance, C. difficile, tendinopathy and QT risk
+- Route compatibility assessment (for ocular use, an ophthalmic formulation would be needed; none is in the data compiled)
+- Clarification of the cancelled market status of all listed authorizations
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

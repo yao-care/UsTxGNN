@@ -29,31 +29,33 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Sotagliflozin: From an Unlisted Original Indication to Opsismodysplasia
+# Sotagliflozin: From Type 1 Diabetes Mellitus to Opsismodysplasia
 
 ## One-Sentence Summary
 
-Sotagliflozin is an oral dual SGLT1/SGLT2 inhibitor marketed in the US as INPEFA, but the Evidence Pack lists no original indication for it.
+Sotagliflozin is an oral dual SGLT1/SGLT2 inhibitor, originally used to improve blood sugar control in type 1 diabetes mellitus.
 The TxGNN model predicts it may be effective for **opsismodysplasia**, a rare skeletal dysplasia.
-This prediction has **0 clinical trials** and **0 publications** behind it, so it rests on the model score alone.
+**No clinical trials** and **no publications** currently support this prediction, so it rests on the graph-based model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not specified in the Evidence Pack |
+| Original Indication | Type 1 diabetes mellitus (including diabetic ketoacidosis-related conditions) |
 | Predicted New Indication | Opsismodysplasia |
 | TxGNN Prediction Score | 99.61% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 3 (all entries carry the same number, NDA216203) |
+| US Market Status | Cancelled only |
+| Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Sotagliflozin is a dual SGLT1/SGLT2 inhibitor. It lowers blood glucose without insulin by increasing urinary glucose excretion through renal SGLT2 inhibition and by delaying glucose absorption through intestinal SGLT1 inhibition.
+Detailed mechanism-of-action data for sotagliflozin is not available in the data compiled for this report. Its known drug targets are sodium/glucose cotransporter 1 (SGLT1, intestine) and sodium/glucose cotransporter 2 (SGLT2, kidney). Blocking these two transporters delays intestinal glucose absorption and increases urinary glucose excretion, which lowers blood sugar independently of insulin.
 
-Opsismodysplasia is a rare skeletal dysplasia linked to INPPL1. No plausible mechanistic link between SGLT inhibition and this condition was identified. The high score (99.61%) is a graph-based prediction and should not be read as evidence of efficacy.
+Opsismodysplasia is a rare skeletal dysplasia caused by mutations in *INPPL1* (SHIP2 deficiency). We found no plausible mechanistic link between SGLT1/SGLT2 inhibition and this pathway. The two conditions are biologically unrelated: one is a metabolic disease of glucose control, the other a genetic disorder of bone development.
+
+The very high TxGNN score (99.61%) is a graph-based prediction only. It most likely reflects network proximity in the knowledge graph rather than a true biological relationship. Without supporting trials or literature, this prediction should be treated as a computational hypothesis, not as evidence of efficacy.
 
 ## Clinical Trial Evidence
 
@@ -67,9 +69,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA216203 | INPEFA (Lexicon Pharmaceuticals, Inc.) | Tablet (oral) | Not provided in the Evidence Pack |
-
-The three license entries are identical, so they are shown once.
+| NDA216203 | INPEFA (Lexicon Pharmaceuticals, Inc.) | Tablet | Not listed (status: cancelled) |
 
 ## Safety Considerations
 
@@ -80,15 +80,15 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is a model output only (Evidence Level L5), with no trials, no literature and no plausible mechanistic link to an INPPL1-related skeletal dysplasia.
+The prediction has no clinical, literature, or mechanistic support (Evidence Level L5). The biology of opsismodysplasia (*INPPL1*/SHIP2 deficiency) has no known connection to SGLT1/SGLT2 inhibition. The only US authorization is also listed as cancelled.
 
 **To proceed, the following is needed:**
-- A biological hypothesis connecting SGLT1/SGLT2 inhibition to INPPL1 or skeletal dysplasia pathways, with supporting preclinical data
-- Package insert warnings and contraindications, which are currently missing
-- The approved indication text and the original indication for INPEFA, which are currently missing
-- Detailed mechanism of action data
+- Preclinical evidence, such as cell or animal models, showing that SGLT inhibition affects the SHIP2/INPPL1 pathway or skeletal development
+- Detailed mechanism-of-action data for sotagliflozin
+- FDA package insert warnings and contraindications, which are currently missing
+- Confirmation of the drug's current US marketing and authorization status
 
-**Note:** The second-ranked prediction, diabetes mellitus (score 99.58%), has many completed Phase 3 trials and RCTs in the pack (Evidence Level L1). Because sotagliflozin's original indication is not recorded here, this looks like a data gap rather than true repurposing. That prediction warrants its own report, with guardrails for diabetic ketoacidosis, genital mycotic infections, volume depletion and renal function thresholds.
+**Note on other predictions:** Among the other predictions for this drug, only "diabetes mellitus" (rank 2) has substantial support: multiple completed Phase 3 trials in type 1 and type 2 diabetes. It sits very close to the drug's original indication, so it is better seen as confirmation within that indication than as true repurposing. Its main safety guardrail would be ketone monitoring to reduce the risk of diabetic ketoacidosis in type 1 diabetes. The remaining predictions have no supporting evidence and no plausible mechanistic link.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

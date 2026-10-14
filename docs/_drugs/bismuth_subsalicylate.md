@@ -29,31 +29,39 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Bismuth Subsalicylate: From Digestive Symptom Relief to Paratyphoid Fever
+# Bismuth Subsalicylate: From Diarrheal Disease and Dyspepsia to Paratyphoid Fever
 
 ## One-Sentence Summary
 
-Bismuth subsalicylate is marketed in the US in products labelled for stomach and digestive relief, such as Pepto-Bismol. The TxGNN model predicts it may be effective for **paratyphoid fever**, but the prediction is model-only, with **0 clinical trials** and **0 publications** for this indication. The related prediction of salmonellosis has only indirect, dated supporting literature.
+Bismuth subsalicylate was originally used to treat diarrheal disease and dyspepsia.
+The TxGNN model predicts it may be effective for **paratyphoid fever**, but **no clinical trials and no publications** currently support this specific prediction.
+The data compiled for this report show the strongest (still only indirect) support for two lower-ranked predictions, **salmonellosis** and **gingivitis**, which are discussed below.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the supplied label data (product names indicate stomach and digestive relief) |
+| Original Indication | Diarrheal disease, dyspepsia (the license records contain no approved indication text) |
 | Predicted New Indication | Paratyphoid fever |
 | TxGNN Prediction Score | 99.98% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| US Market Status | Cancelled only |
+| Number of NDAs | 3 (all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Bismuth subsalicylate is a poorly soluble compound widely used for gastrointestinal complaints. Its efficacy for digestive symptoms is established by long use. Mechanistically, it has antimicrobial and anti-secretory activity against enteric pathogens, so a link to *Salmonella paratyphi* is plausible.
+Currently, detailed mechanism of action data is not available. Based on known information, bismuth subsalicylate is a poorly soluble compound widely used for gastrointestinal disorders. A laboratory study found that it binds diverse bacteria and subsequently kills them, and reviews describe it as an antisecretory agent that reduces stool number by about 50% in acute diarrhea.
 
-The link is weak, however. Paratyphoid fever is a systemic infection, while bismuth subsalicylate acts locally in the gut and is known for relieving diarrhea symptoms. Symptom relief would not treat systemic enteric fever. No trial or publication was supplied for this indication.
+A plausible link to paratyphoid fever is its antibacterial and anti-secretory action against enteric *Salmonella*. However, this reasoning is inferred from its use in diarrheal disease and is not supported by any data on paratyphoid fever. Paratyphoid fever is a systemic infection, and a gut-acting, minimally absorbed agent would not be expected to treat it adequately. The very high score is therefore best read as a model signal, not as evidence of efficacy.
 
-The nearby prediction of **salmonellosis** (rank 3) has indirect support. An in vitro study (PMID 2694949) shows the drug binds and kills bacteria. Older reviews from 1984–1991 describe its use in traveler's diarrhea and acute diarrhea. This evidence covers symptomatic diarrhea and prophylaxis, not treatment of Salmonella infection, and it may be a more realistic direction than paratyphoid fever itself.
+Other predictions fall into three groups:
+
+| Predicted Indication | Score | Evidence Level | Comment |
+|------|------|------|------|
+| Salmonellosis | 99.95% | L4 | In vitro bacterial killing plus older reviews and a veterinary study; no human trials |
+| Gingivitis | 99.75% | L4 | Preclinical dental antibacterial work and two 1946 historical reports; no modern trials |
+| Diffuse scleroderma, typhoid fever, conjunctivitis, relapsing fever, acute contagious conjunctivitis, punctate epithelial keratoconjunctivitis, otitis externa | 99.68%–99.96% | L5 | Prediction only; no supporting data and weak or speculative mechanistic links |
 
 ## Clinical Trial Evidence
 
@@ -61,39 +69,58 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available.
+No literature was found for paratyphoid fever. The table below lists the most relevant publications for the closest supported prediction, **salmonellosis**. These are indirect and none is a trial in salmonellosis patients.
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [2694949](https://pubmed.ncbi.nlm.nih.gov/2694949/) | 1989 | In vitro | Antimicrob Agents Chemother | Bismuth subsalicylate bound diverse bacteria and killed them; a 4-log10 reduction of *E. coli* occurred within 4 hours |
+| [3893119](https://pubmed.ncbi.nlm.nih.gov/3893119/) | 1985 | Review | Am J Med | Describes bismuth subsalicylate as an antisecretory agent that reduces stool number by about 50% in acute diarrhea |
+| [2655632](https://pubmed.ncbi.nlm.nih.gov/2655632/) | 1989 | Review | Annu Rev Public Health | General review of diarrheal disease control |
+| [1760758](https://pubmed.ncbi.nlm.nih.gov/1760758/) | 1991 | Veterinary review | Vet Clin North Am Food Anim Pract | Treatment of neonatal calf diarrhea; antisecretory agents including bismuth subsalicylate are discussed |
+
+For **gingivitis** (second supported prediction), the literature is preclinical or historical:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [28837052](https://pubmed.ncbi.nlm.nih.gov/28837052/) | 2017 | Preclinical (in vitro) | Nanotechnology | Bismuth subsalicylate nanoparticles showed antibacterial activity against oral anaerobic bacteria |
+| [34038883](https://pubmed.ncbi.nlm.nih.gov/34038883/) | 2021 | Preclinical (biomaterial) | Biomed Mater | Bismuth subsalicylate incorporated into electrospun membranes to prevent bacterial colonization in periodontal therapy |
+| [20994674](https://pubmed.ncbi.nlm.nih.gov/20994674/) | 1946 | Historical report | Eye Ear Nose Throat Mon | Bismuth subsalicylate in oil described as the treatment of choice in Vincent's angina |
+| [21012833](https://pubmed.ncbi.nlm.nih.gov/21012833/) | 1946 | Historical report | Illinois Med J | Same author and topic as above |
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| M001 | Stomach | Liquid | Lil' Drug Store Products, Inc |
-| M008 | Stomach Relief | Liquid | Harris Teeter, LLC |
-| M008 | 5-Symptom Digestive Relief | Tablet | Target Corporation |
-| M008 | Pepto Bismol | Capsule, liquid filled | The Procter & Gamble Manufacturing Company |
-| M008 | Pepto-Bismol Chewable, TRAVEL BASIX | Tablet, chewable | Lil' Drug Store Products, Inc. |
+| M001 | Stomach | Liquid | Not specified (cancelled) |
+| M008 | Stomach Relief | Liquid | Not specified (cancelled) |
+| M002 | GNP Pink Bismuth | Chewable tablet | Not specified (cancelled) |
 
-The record lists 20 authorizations in total; the 5 above are shown. Approved indication text was not provided for any of them. Other listed forms include film-coated tablets and suspensions.
+All three authorizations are cancelled, and no valid single-ingredient or combination authorization remains.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Contraindications (from knowledge-graph associations, not label text)**: The graph links the drug to liver failure, liver disease, kidney disease, gallbladder disease, epilepsy, diabetes mellitus, diabetic ketoacidosis, neutropenia, agranulocytosis, gout, peripheral neuropathy and other peripheral nervous system disease, blood coagulation disease, brain disease, non-infectious meningitis, substance abuse/dependence, *Clostridium difficile* colitis, perinatal necrotizing enterocolitis, and pyoureter. These should be verified against official labeling.
+- **Drug Interactions**: 64 interactions were identified, all in the moderate category among those listed. The main groups are:
+  - Tetracycline antibiotics (doxycycline, tetracycline, minocycline)
+  - Antidiabetic agents, including sulfonylureas (chlorpropamide, glimepiride, glipizide, glyburide, tolazamide), meglitinides (repaglinide, nateglinide) and many insulins (aspart, degludec, detemir, glargine, glulisine, human isophane/regular/inhaled)
+  - Morphine and fenfluramine
+
+Label-based warnings were not available for this report. Please refer to the package insert for complete safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The paratyphoid fever prediction has a very high model score but no supporting trials or literature (L5). The mechanism is unlikely to fit a systemic infection. The adjacent salmonellosis prediction has only indirect, dated in vitro and review evidence (L4), which suggests a research question rather than a development candidate.
+The top-ranked prediction, paratyphoid fever, rests on model score alone (L5) with no trials or literature, and a non-absorbed gut-acting agent is unlikely to treat a systemic infection. All US authorizations are cancelled, and label safety data are missing. Salmonellosis and gingivitis are worth treating as research questions (L4), but their support is limited to in vitro, veterinary, and historical sources.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, which are currently missing and block safety screening
-- Detailed mechanism of action data
-- Approved indication text for the marketed products, to confirm the original indication
-- Preclinical or clinical evidence for *Salmonella* enteric fever, such as in vitro activity against *S. paratyphi* and typhi and any systemic exposure data
-- A focused evidence search on salmonellosis and enteric infection, which is a more plausible framing than paratyphoid fever alone
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data
+- Human clinical data for enteric infections such as salmonellosis, and for any systemic enteric fever, before further investment
+- For gingivitis, modern controlled studies and a suitable topical or oral-care formulation
+- Confirmation of the contraindication signals listed above against official labeling
+- Clarification of current US regulatory status, given that all three authorizations are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

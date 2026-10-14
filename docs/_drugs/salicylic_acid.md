@@ -29,11 +29,12 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Salicylic Acid: From Topical Skin Care (Acne and Wart Products) to Papillary Conjunctivitis
+# Salicylic Acid: From Topical Dermatologic and Inflammatory Conditions to Papillary Conjunctivitis
 
 ## One-Sentence Summary
 
-Salicylic acid is marketed in the US mainly as a topical skin-care ingredient, judging by product names such as acne pads, a wart remover patch, and a blemish-clearing foundation. The TxGNN model predicts it may be effective for **papillary conjunctivitis**, but **0 clinical trials** and **0 publications** currently support this prediction. It is a model-only signal.
+Salicylic acid is a long-established agent used for skin conditions such as acne, seborrheic dermatitis, warts, and fungal skin infections, and it is also listed for inflammatory conditions such as rheumatoid arthritis and allergic rhinitis.
+The TxGNN model predicts it may be effective for **papillary conjunctivitis**, but **no clinical trials and no publications** currently support this prediction, so it remains a computational hypothesis only.
 
 ---
 
@@ -41,23 +42,35 @@ Salicylic acid is marketed in the US mainly as a topical skin-care ingredient, j
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the regulatory data. Product names suggest acne and wart use |
+| Original Indication | Acne, seborrheic dermatitis, tinea infections, rheumatoid arthritis, allergic rhinitis, and others (from the knowledge graph; no approved indication text is available in the US license records) |
 | Predicted New Indication | Papillary conjunctivitis |
 | TxGNN Prediction Score | 99.88% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 5 (all cancelled) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, salicylic acid is a topical keratolytic and anti-inflammatory agent, and salicylates as a class inhibit COX enzymes. Mechanistically, this could relate to an inflammatory ocular surface condition such as papillary conjunctivitis. This link is speculative and is not backed by any supplied study.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, salicylic acid is thought to act through inhibition of COX enzymes, which reduces prostaglandin synthesis and produces anti-inflammatory effects. However, public bioactivity data confirming this at a specific molecular target are lacking. Its keratolytic action is also well known in skin products.
 
-The route of use is also a concern. All 20 US products in the data are skin-care or topical forms (powder, patch, liquid, cream, gel, emulsion), and none is ophthalmic. The input contains no ocular safety data for salicylic acid, so its use near or in the eye cannot be supported.
+Its listed indications include allergic and inflammatory conditions (allergic rhinitis, vasomotor rhinitis, rheumatoid arthritis). Papillary conjunctivitis is an allergic or inflammatory disease of the ocular surface, so a loose link through anti-inflammatory activity is plausible.
 
-The model's other top predictions are mostly rare genetic skeletal or developmental syndromes, such as brachyolmia, pseudoachondroplasia, and acromesomelic dysplasia. They have no plausible mechanistic link to salicylic acid and are likely knowledge-graph artifacts. Rosacea conjunctivitis (rank 5) and spondyloarthropathy susceptibility (rank 10) have only indirect conceptual plausibility. Papillary conjunctivitis is the most biologically plausible of the top 10 predictions, but it is still unsupported by evidence.
+This link is weak. No clinical evidence supports the use of salicylic acid for this eye condition, and the high TxGNN score is a computational prediction only. Ocular safety of topical or systemic salicylic acid has not been established for this use, and the compound may be irritating to the eye.
+
+### Other Predicted Candidates
+
+The model produced nine other predictions, all with no trials or literature. Most are rare congenital or genetic skeletal syndromes with no plausible mechanistic link and are likely knowledge-graph artifacts.
+
+| Predicted Indication | TxGNN Score | Assessment |
+|------|------|------|
+| Spondyloarthropathy, susceptibility to | 99.34% | Most biologically plausible; NSAIDs are first-line in spondyloarthritis, but the entry concerns genetic susceptibility rather than active disease. Classified as a research question |
+| Rosacea conjunctivitis | 99.53% | Weak indirect link via acne and seborrheic dermatitis; may be irritating to the ocular surface |
+| Pseudoachondroplasia | 99.51% | Speculative anti-inflammatory link only |
+| Myosclerosis | 99.49% | Speculative link to muscle fibrosis |
+| Colobomatous microphthalmia-rhizomelic dysplasia syndrome, brachydactyly-syndactyly syndrome, brachyolmia-amelogenesis imperfecta syndrome, acromesomelic dysplasia (Hunter-Thompson type), brachyolmia | 99.44%–99.78% | No plausible mechanism |
 
 ---
 
@@ -75,23 +88,23 @@ Currently no related literature available.
 
 ## US Market Information
 
-The regulatory data lists no approved indication text for these products. The table shows 5 of the 20 authorizations.
-
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| M006 | bareMinerals Blemish Rescue Skin-Clearing Loose Foundation | Powder | Orveon Global US LLC |
-| M030 | Salicylic acid | Patch | Wal-Mart Stores Inc |
-| M028 | REINREDE TAG WART REMOVER | Patch | Jiangxi Yudexi Pharmaceutical Co., LTD |
-| M006 | Dermatouch Acnecare Pads | Liquid | Spa de Soleil |
-| M030 | Salicylic Acid | Cream | SANSAR, LLC |
+| M006 | bareMinerals Blemish Rescue Skin-Clearing Loose Foundation | Powder | Not specified (cancelled) |
+| M030 | Salicylic acid (Wal-Mart Stores Inc) | Patch | Not specified (cancelled) |
+| M028 | REINREUDE Tag Wart Remover | Patch | Not specified (cancelled) |
+| M032 | Gold Bond Psoriasis Relief Medicated Multi-Symptom | Cream | Not specified (cancelled) |
+| nan | Acne Healing Dots | Patch | Not specified (cancelled) |
+
+All five records are cancelled, and no valid single-ingredient or combination license is currently on record.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: One pharmacology-based record was found. Salicylic acid is associated with the acid-sensing ion channel ASIC3 (human). No interaction severity level is given. Public data supporting a primary molecular target for the proposed COX-inhibition mechanism could not be found.
 
-No drug interactions were found in the queried data. The input also contains no ocular safety information for topical or systemic salicylate.
+Please refer to the package insert for further safety information, including warnings and contraindications.
 
 ---
 
@@ -100,13 +113,14 @@ No drug interactions were found in the queried data. The input also contains no 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is model-only (L5), with no registered trials and no literature. The mechanistic link is speculative, and all marketed forms are non-ophthalmic skin products with no ocular safety data.
+The prediction rests on a computational score alone, with no clinical trials, no literature, and only a loose mechanistic link to papillary conjunctivitis. Ocular safety is not established, and there are no currently valid US licenses. Among the other candidates, spondyloarthropathy is the most biologically plausible and could be pursued as a research question.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data, for example from DrugBank
-- Literature and trial searches specific to salicylates and conjunctivitis
-- Ocular safety and route-compatibility assessment, since no ophthalmic formulation is currently marketed
+- Package insert warnings and contraindications from the FDA (a blocking gap for safety screening)
+- Detailed mechanism of action data (for example from DrugBank)
+- A literature and trial search specific to salicylic acid or salicylates in ocular allergic or inflammatory disease
+- Ocular tolerability and safety data for any proposed route of administration
+- Assessment of route compatibility, since available dosage forms are topical or skin-directed and none are ophthalmic
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

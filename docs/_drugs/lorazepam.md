@@ -29,12 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Lorazepam: From Its Approved Use to Trigeminal Nerve Neoplasm
+# Lorazepam: From Anxiety and Seizure Disorders to Trigeminal Nerve Neoplasm
 
 ## One-Sentence Summary
 
-Lorazepam is a benzodiazepine that is currently marketed in the United States. The source data does not list its original approved indication.
-The TxGNN model predicts it may be effective for **trigeminal nerve neoplasm**, but **0 clinical trials** and **0 publications** support this prediction, so it rests on the graph-based score alone.
+Lorazepam is a benzodiazepine, originally used for anxiety disorders and seizure conditions such as status epilepticus.
+The TxGNN model predicts it may be effective for **trigeminal nerve neoplasm** (top-ranked prediction), but there are **0 clinical trials** and **0 publications** supporting this direction, so it rests on the model score alone.
+Among the other predictions, **insomnia** has the most supporting literature (17 publications, including older clinical studies of lorazepam as a hypnotic), though this is closer to an already-recognized use than a novel repurposing.
 
 ---
 
@@ -42,55 +43,81 @@ The TxGNN model predicts it may be effective for **trigeminal nerve neoplasm**, 
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the source data |
+| Original Indication | Anxiety disorder, status epilepticus, Lennox-Gastaut syndrome, absence epilepsy (from the knowledge graph; no approved-indication text is available in the US license records) |
 | Predicted New Indication | Trigeminal nerve neoplasm |
 | TxGNN Prediction Score | 99.87% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 7 authorizations in total (2 NDAs, 5 ANDAs; all cancelled) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the source data. Lorazepam is known as a positive allosteric modulator of the GABA-A receptor. It enhances inhibitory neurotransmission and produces sedative, anxiolytic and anticonvulsant effects.
+Detailed mechanism-of-action data was not available in the data compiled for this report. Lorazepam is generally known as a positive allosteric modulator of the GABA-A receptor, which gives it anxiolytic, sedative and anticonvulsant effects. These effects are established in anxiety and seizure emergencies.
 
-Trigeminal nerve neoplasm is a nerve-sheath tumour. The prediction is difficult to justify mechanistically. Lorazepam has no known antitumour activity, and no trial or publication links it to this condition.
+For trigeminal nerve neoplasm, the data supports **no mechanistic link**. Lorazepam has no known antineoplastic activity. Any realistic use would be symptom control (for example anxiety or seizures in a patient with a tumour), not treating the tumour itself. The very high model score (99.87%) is not backed by any trial or publication, so it should be read as a statistical artefact of the knowledge graph, not as a biological signal.
 
-The high score (99.87%, model rank 4026) therefore reflects a pattern in the knowledge graph, not biological or clinical support. This candidate should be treated as a model artifact until independent evidence appears.
+Several lower-ranked predictions are mostly extensions of lorazepam's known anticonvulsant role:
+
+- **Insomnia (rank 2, L3):** GABA-A enhancement produces sedative-hypnotic effects, which is biologically plausible. However, benzodiazepine concerns (dependence, tolerance, cognitive effects, falls) argue against long-term use.
+- **Reflex seizure types (ranks 3-9):** Reading, thinking, orgasm-induced, audiogenic, startle, eating and micturition-induced seizures. Support is indirect: general seizure reviews, animal withdrawal studies, and a few case-type reports. Most of this likely reflects a generic seizure-treatment association rather than a distinct repurposing signal.
+- **Acute encephalopathy with biphasic seizures (rank 10):** Model score only.
 
 ---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials registered for trigeminal nerve neoplasm. No registered trials were found for any of the other top-10 predicted indications either.
 
 ---
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for trigeminal nerve neoplasm.
+
+For reference, the most relevant literature for the next-ranked prediction, **insomnia**, is shown below. It supports a hypnotic use, not the top-ranked prediction.
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [3280615](https://pubmed.ncbi.nlm.nih.gov/3280615/) | 1988 | Comparative clinical study | J Clin Pharmacol | Double-blind crossover in 8 chronic insomniacs: 2 mg lorazepam performed better than 30 mg flurazepam on most sleep parameters |
+| [10220122](https://pubmed.ncbi.nlm.nih.gov/10220122/) | 1999 | Clinical study | Int Clin Psychopharmacol | Tested lorazepam 0.5 mg TID (24-hour) versus 1.5 mg at bedtime in primary insomnia |
+| [36692463](https://pubmed.ncbi.nlm.nih.gov/36692463/) | 2023 | Meta-analysis | Acta Pharm | Reviewed tranquilizer use, doses and adverse effects in elderly patients with chronic non-communicable diseases |
+| [30625122](https://pubmed.ncbi.nlm.nih.gov/30625122/) | 2018 | Review | Med Lett Drugs Ther | Overview of drugs for chronic insomnia |
+| [25453732](https://pubmed.ncbi.nlm.nih.gov/25453732/) | 2014 | Observational | Clin Ther | Benzodiazepine and sedative-hypnotic use among older seriously ill veterans, in the context of Choosing Wisely cautions |
 
 ---
 
 ## US Market Information
 
+All seven US authorizations are cancelled. Approved-indication text is not available in the records.
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA072926 | Lorazepam (PD-Rx Pharmaceuticals) | Tablet | Not listed |
-| ANDA078203 | Lorazepam (Proficient Rx) | Tablet | Not listed |
-| ANDA078203 | Lorazepam (RemedyRepack) | Tablet | Not listed |
-| ANDA072928 | Lorazepam (Golden State Medical Supply) | Tablet | Not listed |
-| NDA214826 | LOREEV XR (Almatica Pharma) | Extended-release capsule | Not listed |
+| NDA018140 | Lorazepam (Hikma) | Injection | Not available |
+| NDA214826 | LOREEV XR (Almatica) | Extended-release capsule | Not available |
+| ANDA072926 | Lorazepam (PD-Rx) | Tablet | Not available |
+| ANDA078203 | Lorazepam (Proficient Rx) | Tablet | Not available |
+| ANDA072928 | Lorazepam (Golden State Medical Supply) | Tablet | Not available |
 
-The 20 authorizations include ANDAs (generics) as well as NDAs. Oral tablets, extended-release capsules and injections are all marketed.
+Two further cancelled ANDAs (ANDA203572, Preferred Pharmaceuticals; ANDA076045, PD-Rx) are not shown.
 
 ---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+No package-insert warnings or contraindications were available in the data compiled for this report. Please refer to the package insert for label safety information.
+
+The following comes from the knowledge graph and is not label text.
+
+- **Disease contraindications (knowledge graph):** liver failure, liver disease, hepatic encephalopathy/coma, kidney disease, gallbladder disease, porphyria (inherited porphyria, porphyrin metabolism disease), angle-closure and open-angle glaucoma, respiratory failure, sleep apnea (obstructive sleep apnea, congenital central hypoventilation syndrome), substance-related disorder/substance abuse and dependence, and several psychiatric conditions (neurotic disorder, dysthymic disorder, anxiety disorder).
+- **Drug interactions:** 100 interactions were found in total. Notable ones:
+  - **Major:** Morphine, liposomal morphine (additive CNS and respiratory depression is the expected concern).
+  - **Moderate:** Bupropion, dronabinol, nabilone, metoclopramide, opium, sibutramine, teduglutide.
+  - **Minor:** Antacids (aluminum hydroxide, calcium carbonate, magaldrate, magnesium carbonate, magnesium hydroxide, magnesium oxide).
+  - Only the first 20 entries were returned in detail.
+- **Class concerns noted in the literature:** dependence, tolerance, cognitive effects and falls, especially in older adults; propylene glycol toxicity has been reported with intravenous lorazepam infusion.
 
 ---
 
@@ -99,16 +126,14 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no trials or literature behind it, and lorazepam has no plausible antitumour mechanism. The evidence level is L5 (model prediction only).
+The top prediction, trigeminal nerve neoplasm, has a very high model score but no trials, no literature and no plausible antitumour mechanism for lorazepam, so the evidence level is L5. All US authorizations are cancelled, and label safety data is missing.
 
 **To proceed, the following is needed:**
-- Any preclinical or clinical signal linking GABA-A modulation to trigeminal nerve tumours
-- The label's approved indications and mechanism of action, to define the baseline for repurposing
-- Package insert warnings and contraindications (dependence, respiratory depression with opioids or alcohol, falls in the elderly)
-
-**Note:** The second-ranked prediction, **insomnia**, has much more support. It has L3 evidence, including two older clinical studies of lorazepam in chronic insomnia (PMID 10220122 and 3280615). Whether it counts as repurposing or an established use should be checked against the label. It may be a better candidate to evaluate first.
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Package-insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism-of-action data from DrugBank
+- Any preclinical or clinical evidence of a tumour-related effect (none exists in the current data); without it, the prediction should be de-prioritised
+- If a different direction is of interest, treat insomnia (L3) as a separate research question. It is already a recognized sedative-hypnotic use, so it is better framed as an existing use than a novel repurposing, and it requires weighing dependence and fall risk.
+- Clarification of why all US authorizations are cancelled, and whether any route or formulation is available for a new indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

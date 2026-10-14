@@ -29,101 +29,98 @@ Evidence Level: **L3** | Predicted Indications: **9**
 
 </div>
 
-# Dantrolene: From Muscle Relaxant to Malignant Hyperthermia (Probably an Already-Labeled Use)
+# Dantrolene: From Malignant Hyperthermia to Malignant Hyperthermia Susceptibility
 
 ## One-Sentence Summary
 
-Dantrolene is a skeletal muscle relaxant. The submitted data do not list its original indications.
-The TxGNN model predicts it may be effective for **malignant hyperthermia, susceptibility to**, with **0 registered clinical trials** and **18 publications** (guidelines, reviews and mechanistic papers). This is probably a use dantrolene already has on its label, not true repurposing.
-
----
+Dantrolene was originally used to treat malignant hyperthermia during anaesthesia, including the exercise-induced form.
+The TxGNN model predicts it may be effective for **malignant hyperthermia, susceptibility to**, with **0 registered clinical trials** and **18 publications** (mostly guidelines and reviews) currently supporting this direction.
+This is essentially an on-label use rather than a true repurposing; the other predicted diseases (RYR1-related myopathies, periodic paralyses) have much weaker support.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Malignant hyperthermia of anesthesia; exercise-induced malignant hyperthermia |
 | Predicted New Indication | Malignant hyperthermia, susceptibility to |
 | TxGNN Prediction Score | 99.93% |
 | Evidence Level | L3 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| US Market Status | Cancelled only (all 7 authorizations are listed as cancelled) |
+| Number of NDAs | 7 (NDA and ANDA authorizations combined) |
 | Recommended Decision | Proceed with Guardrails |
-
-The US license records provided contain no approved-indication text, so the original indication cannot be confirmed from this data.
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the submitted record. The mechanistic link comes from the analysis of the prediction and the literature. Dantrolene inhibits RyR1-mediated calcium release from the sarcoplasmic reticulum. This counters the uncontrolled Ca²⁺ release that drives a malignant hyperthermia (MH) crisis. A 2017 PNAS study (PMID 28373535) reports that dantrolene is given to relieve MH symptoms and that it needs Mg²⁺ to arrest MH.
+Detailed mechanism-of-action data was not available in the compiled data. Based on the literature supplied, dantrolene inhibits RyR1-mediated calcium release from the sarcoplasmic reticulum in skeletal muscle. A 2017 PNAS study (PMID 28373535) further reports that dantrolene requires Mg2+ to arrest malignant hyperthermia.
 
-The 2020 Association of Anaesthetists guideline lists dantrolene as first-line treatment for MH. The prediction therefore matches established standard of care. MH is a rare, life-threatening pharmacogenetic skeletal muscle disorder. It is triggered by volatile anesthetics or succinylcholine, mainly through RYR1 mutations.
+Malignant hyperthermia susceptibility is caused mainly by gain-of-function variants in the RYR1 gene, which lead to uncontrolled calcium release in muscle after exposure to volatile anaesthetics or succinylcholine. Dantrolene therefore acts directly on the underlying pathophysiology. Consensus guidelines (Association of Anaesthetists 2020; European Malignant Hyperthermia Group 2021) support its role.
 
-No trials are registered and no RCTs exist, and none are expected. A placebo-controlled trial of a life-saving treatment would be unethical. The evidence is guidelines, reviews and historical clinical experience, so it is graded L3 rather than L1. Because the original indication is missing from the data, this may be a labeled use that should be checked against the current label before it is reported as a repurposing candidate.
+The predicted indication is closely related to the original indication, and the evidence base is guidelines, reviews and long-standing clinical practice rather than registered trials. The prediction is therefore reasonable, but it largely restates the existing use.
 
----
+**Other predicted diseases (summary):**
+
+| Predicted Disease | TxGNN Score | Evidence Level | Assessment |
+|------|------|------|------|
+| Moderate multiminicore disease with hand involvement | 99.90% | L5 | RYR1 link plausible; no trials or literature. Hold |
+| King-Denborough syndrome | 99.87% | L4 | Case-level evidence; benefit would be for MH risk, not the myopathy. Research question |
+| Congenital multicore myopathy with external ophthalmoplegia | 99.87% | L4 | Only a genetic study; no efficacy evidence. Hold |
+| Central core myopathy | 99.86% | L4 | Mechanistic and review-level evidence; relates to MH prophylaxis. Research question |
+| Hypokalemic periodic paralysis | 99.78% | L5 | Indirect link; no evidence. Hold |
+| Thyrotoxic periodic paralysis (susceptibility) | 99.74% | L5 | Speculative; no evidence. Hold |
+| Thyrotoxic periodic paralysis | 99.67% | L5 | Speculative; no evidence. Hold |
+| Centronuclear myopathy | 99.66% | L4 | Indirect evidence incl. a prophylactic-use case report in central core disease. Research question |
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
-
----
+Currently no related clinical trials registered. The published guidelines note that, because of the rarity of the condition and ethical limits, there is no interventional trial evidence to guide perioperative management.
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [33399225](https://pubmed.ncbi.nlm.nih.gov/33399225/) | 2021 | Guideline | Anaesthesia | Association of Anaesthetists 2020 MH guideline. Defines MH as a life-threatening hypermetabolic reaction in genetically susceptible people exposed to inhalational anaesthetics or suxamethonium. |
-| [33131754](https://pubmed.ncbi.nlm.nih.gov/33131754/) | 2021 | Consensus guideline | Br J Anaesth | European MH Group consensus on perioperative management of suspected or susceptible patients. It notes that no interventional trial evidence exists because MH is rare and trials raise ethical limits. |
-| [28373535](https://pubmed.ncbi.nlm.nih.gov/28373535/) | 2017 | Mechanistic | PNAS | Dantrolene is given to relieve MH symptoms. The study examines its mechanism and finds it requires Mg²⁺ to arrest MH. |
-| [39171998](https://pubmed.ncbi.nlm.nih.gov/39171998/) | 2024 | Review | Crit Care Med | Narrative expert review of the epidemiology and management of critically ill MH patients. |
-| [26238698](https://pubmed.ncbi.nlm.nih.gov/26238698/) | 2015 | Review | Orphanet J Rare Dis | MH incidence is 1:10,000 to 1:250,000 anesthetics. Prevalence of the genetic abnormalities may be far higher. |
-| [32008650](https://pubmed.ncbi.nlm.nih.gov/32008650/) | 2020 | Review | Anesthesiol Clin | Update on MH as a skeletal muscle calcium-release channel disorder. Late diagnosis leads to multi-organ failure and death. |
-| [9538480](https://pubmed.ncbi.nlm.nih.gov/9538480/) | 1998 | Review | Postgrad Med J | Describes dantrolene sodium as the ultimate treatment for MH and lists precautions for susceptible patients. |
-| [33863282](https://pubmed.ncbi.nlm.nih.gov/33863282/) | 2021 | Clinical study | BMC Anesthesiol | Looks at MH characteristics where dantrolene is not readily available, for example in China. |
-| [17456235](https://pubmed.ncbi.nlm.nih.gov/17456235/) | 2007 | Review | Orphanet J Rare Dis | Earlier overview of MH as a pharmacogenetic skeletal muscle disorder. |
-| [40597248](https://pubmed.ncbi.nlm.nih.gov/40597248/) | 2025 | Bibliometric analysis | Orphanet J Rare Dis | Maps MH research trends from 1975 to 2024 and gives recommendations for reducing mortality. |
-
----
+| [33399225](https://pubmed.ncbi.nlm.nih.gov/33399225/) | 2021 | Guideline | Anaesthesia | Association of Anaesthetists guideline on malignant hyperthermia (2020) |
+| [33131754](https://pubmed.ncbi.nlm.nih.gov/33131754/) | 2021 | Guideline | Br J Anaesth | European consensus on perioperative management of MH-suspected or susceptible patients; notes no interventional trial evidence |
+| [26238698](https://pubmed.ncbi.nlm.nih.gov/26238698/) | 2015 | Review | Orphanet J Rare Dis | MH is a pharmacogenetic skeletal muscle disorder; incidence 1:10,000 to 1:250,000 anaesthetics |
+| [39171998](https://pubmed.ncbi.nlm.nih.gov/39171998/) | 2024 | Review | Crit Care Med | Narrative review of epidemiology and management of critically ill MH patients |
+| [32008650](https://pubmed.ncbi.nlm.nih.gov/32008650/) | 2020 | Review | Anesthesiol Clin | MH update; mortality has improved |
+| [23198031](https://pubmed.ncbi.nlm.nih.gov/23198031/) | 2012 | Review | Korean J Anesthesiol | Autosomal dominant inheritance with variable expression and incomplete penetrance |
+| [9538480](https://pubmed.ncbi.nlm.nih.gov/9538480/) | 1998 | Review | Postgrad Med J | Dantrolene sodium described as the ultimate treatment for MH |
+| [28373535](https://pubmed.ncbi.nlm.nih.gov/28373535/) | 2017 | Mechanistic study | PNAS | Dantrolene requires Mg2+ to arrest MH |
+| [31166228](https://pubmed.ncbi.nlm.nih.gov/31166228/) | 2019 | Position statement | Anesth Analg | MH-susceptible adults can be safely treated in ambulatory surgery centres with proper precautions |
+| [25989378](https://pubmed.ncbi.nlm.nih.gov/25989378/) | 2015 | Review | Acta Anaesthesiol Scand | Scandinavian update; RYR1 mutations in most cases |
 
 ## US Market Information
 
-The 5 main authorizations are listed below. None of the records include approved-indication text.
+All authorizations below are listed as cancelled; approved-indication text was not available.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA204762 | Dantrolene | Injection, powder, for solution | Hikma Pharmaceuticals USA Inc. |
-| NDA017443 | Dantrolene sodium | Capsule | Bryant Ranch Prepack |
-| ANDA076686 | Dantrolene Sodium | Capsule | Elite Laboratories, Inc. |
-| ANDA076856 | Dantrolene Sodium | Capsule | Amneal Pharmaceuticals of New York LLC |
-| ANDA078378 | Revonto | Injection, powder, lyophilized, for solution | ProPharma Distribution |
-
-Both injectable and oral (capsule) forms are marketed.
-
----
+| NDA018264 | Dantrium | Injection | Not available |
+| NDA205579 | RYANODEX | Injection, suspension | Not available |
+| NDA017443 | Dantrolene sodium | Capsule | Not available |
+| ANDA078378 | Revonto | Injection, powder, lyophilized, for solution | Not available |
+| ANDA204762 | Dantrolene | Injection, powder, for solution | Not available |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. A search of the drug-interaction database returned no entries for dantrolene.
+- **Disease-level cautions (from the knowledge graph, not label text)**: Liver disease, gallbladder disease, myopathy, muscular disease, skeletal muscle disease, familial periodic paralysis, lung disease and an obsolete rare pulmonary disease are flagged as contraindication-related conditions. These need confirmation against the package insert.
+- **Drug Interactions**: 72 interactions were identified in total. Major interactions include **morphine** and **liposomal morphine**. Moderate interactions include dronabinol, metoclopramide, nabilone, naltrexone, opium, sibutramine, ethanol and promethazine. Several others (e.g. omeprazole, metformin, simvastatin, clopidogrel) have an unclassified severity.
 
----
+Please refer to the package insert for the official warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Dantrolene's RyR1-blocking mechanism directly matches the cause of MH, and guidelines list it as first-line treatment. The evidence is guidelines, reviews and clinical experience with no registered trials, so it is L3. It is probably a labeled use and not a true new indication.
+For malignant hyperthermia susceptibility, dantrolene directly targets the disease mechanism and is recommended in consensus guidelines. The L3 level reflects the absence of registered Phase 3 RCTs, not weak clinical support. However, this is an on-label use, and all US authorizations are listed as cancelled. The remaining predictions (RYR1 myopathies and periodic paralyses) rest on indirect or no clinical evidence and should be treated as research questions or held.
 
 **To proceed, the following is needed:**
-- Confirm the current US label and approved indications, since original indications are missing from the data. This settles whether MH is repurposing or an existing use.
-- Obtain the package insert warnings and contraindications. This is a blocking gap for safety screening.
-- Obtain detailed mechanism-of-action data from DrugBank.
-
-**Other predictions (not recommended for action):**
-The other predicted indications are RYR1-related or muscle ion-channel conditions. These include King-Denborough syndrome, central core myopathy, centronuclear myopathy, multiminicore disease, hypokalemic periodic paralysis and thyrotoxic periodic paralysis. None has trial data or evidence that dantrolene treats the underlying disease. The literature only supports its relevance to MH risk in RYR1-related patients. King-Denborough syndrome and central core myopathy are worth investigating as research questions. The rest stay on hold.
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before use.*
+- Verify current US product availability, since all authorizations are listed as cancelled
+- Obtain the package insert warnings and contraindications (a blocking gap for safety screening)
+- Obtain detailed mechanism-of-action data from DrugBank
+- Review the major morphine interaction and the liver, muscle and lung cautions
+- For RYR1 myopathies, define whether the goal is MH prophylaxis or disease treatment before any further study
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Icosapent Ethyl
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 786
-evidence_level: L4
+evidence_level: L5
 indication_count: 1
 ---
 
 # Icosapent Ethyl
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **1** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,91 +29,75 @@ Evidence Level: **L4** | Predicted Indications: **1**
 
 </div>
 
-# Icosapent Ethyl: From an Unrecorded Original Indication to Hemoglobinopathy
+# Icosapent Ethyl: From Hypertriglyceridemia to Hemoglobinopathy
 
 ## One-Sentence Summary
 
-Icosapent ethyl is a purified omega-3 fatty acid (EPA ethyl ester) that is marketed in the United States, but the Evidence Pack does not record its original indication.
-The TxGNN model predicts it may be useful for **hemoglobinopathy**, with **0 clinical trials** and **1 publication** currently supporting this direction.
-That publication is a mouse study of a different omega-3 compound, so the evidence is weak.
-
----
+Icosapent ethyl is a purified EPA (omega-3) ethyl ester, originally used to treat hypertriglyceridemia.
+The TxGNN model predicts it may be effective for **hemoglobinopathy**,
+but currently there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in the Evidence Pack |
+| Original Indication | Hypertriglyceridemia |
 | Predicted New Indication | Hemoglobinopathy |
 | TxGNN Prediction Score | 99.09% |
-| Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (the licenses listed are ANDAs) |
+| Evidence Level | L5 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 10 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Icosapent ethyl is a purified EPA ethyl ester, an omega-3 fatty acid. Its original indication is not recorded in this dataset, so the link between the original and new indication cannot be assessed directly.
+Currently, detailed mechanism of action data is not available. Based on known information, icosapent ethyl is a purified form of eicosapentaenoic acid (EPA) that lowers triglycerides, and its efficacy in hypertriglyceridemia is the basis of its original indication. Mechanistically, it may be applicable to hemoglobinopathy.
 
-The only support is indirect. Omega-3 fatty acids may reduce inflammation, oxidative stress and vaso-occlusive injury, which are relevant to hemoglobinopathies such as sickle cell disease. In the one retrieved paper, epeleuton, a different synthetic omega-3 fatty acid, reduced hypoxia/reperfusion stress in a mouse model. The title is truncated, so the model is presumably sickle cell disease, but the data do not confirm this.
+A plausible but unverified link is that EPA has anti-inflammatory, anti-oxidative, and triglyceride-lowering effects. These could in principle act on the chronic inflammation, oxidative stress, endothelial dysfunction, and vaso-occlusion seen in sickle cell disease and related hemoglobinopathies. Omega-3 fatty acids have been studied in sickle cell disease, but no such literature was included in the data compiled for this report, so it is not cited here. It would need to be retrieved and verified before it could support any recommendation.
 
-This has not been shown for icosapent ethyl, and the epeleuton results cannot be assumed to transfer to it. The TxGNN score is a knowledge-graph prediction, not clinical evidence.
-
----
+The relationship between the original indication (a lipid metabolism disorder) and the predicted one (an inherited disorder of hemoglobin) is indirect. The TxGNN score of 99.09% is a computational prediction, not evidence of efficacy.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [38105727](https://pubmed.ncbi.nlm.nih.gov/38105727/) | 2024 | Preclinical animal study | Haematologica | Epeleuton, a different synthetic omega-3 fatty acid, reduced hypoxia/reperfusion stress in a mouse model. It was proposed as a way to target inflammatory vasculopathy. The abstract in the pack is truncated. |
-
----
+Currently no related literature available.
 
 ## US Market Information
 
-The Evidence Pack lists no approved indication text for these products.
+All 10 authorizations below are listed as cancelled. No approved indication text was available for any of them.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| ANDA209525 | Icosapent Ethyl | Capsule, liquid filled | AvKARE |
-| ANDA209457 | Icosapent Ethyl | Capsule | Hikma Pharmaceuticals USA Inc. |
-| ANDA209437 | Icosapent Ethyl | Capsule | Apotex Corp |
-| ANDA209499 | Icosapent Ethyl | Capsule | Dr. Reddy's Laboratories, Inc. |
+| Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
+|---------|------|------|------|------|
+| NDA202057 | Vascepa | Capsule | Bryant Ranch Prepack | Cancelled |
+| ANDA209525 | Icosapent Ethyl | Capsule, liquid filled | AvKARE | Cancelled |
+| ANDA209457 | Icosapent Ethyl | Capsule | Hikma Pharmaceuticals USA Inc. | Cancelled |
+| ANDA209437 | Icosapent Ethyl | Capsule | Apotex Corp | Cancelled |
+| ANDA209499 | Icosapent Ethyl | Capsule | Dr. Reddy's Laboratories, Inc. | Cancelled |
 
-All listed forms are oral. Of the 20 authorizations in total, the pack shows only these four distinct ones.
-
----
+Five further authorizations (ANDA216811, ANDA217656, ANDA217844, ANDA218899, ANDA217919) are also cancelled.
 
 ## Safety Considerations
 
 Please refer to the package insert for safety information.
 
----
+No drug-interaction records were found in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a high model score and one preclinical paper about a different compound. There are no clinical trials, no mechanism data and no recorded original indication. This is a research question, not yet a development candidate.
+The only support for this indication is a high TxGNN score, with no clinical trials or literature (evidence level L5). Mechanism of action and package-insert safety data are also missing, and all US authorizations are currently cancelled.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, which are required for safety screening
-- Mechanism of action data for icosapent ethyl (for example, from DrugBank)
-- The original approved indication, to define the relationship to the new indication
-- Drug-specific evidence, such as preclinical studies of EPA or icosapent ethyl in sickle cell disease or other hemoglobinopathies
-- Confirmation of which hemoglobinopathy the paper studied, since the title is truncated
-- A search for related trials in other registries, since none were found
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
+- Retrieval and verification of the literature on omega-3 fatty acids / EPA in sickle cell disease and other hemoglobinopathies
+- Mechanism of action data (e.g., from DrugBank)
+- FDA package insert warnings and contraindications, to allow safety screening
+- Clarification of the current US market status, given that all 10 authorizations are cancelled
+- Assessment of which hemoglobinopathy subtypes are relevant, and of route and dosage-form compatibility
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

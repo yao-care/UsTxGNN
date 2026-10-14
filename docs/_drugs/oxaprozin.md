@@ -29,90 +29,79 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Oxaprozin: From an NSAID to Acromesomelic Dysplasia, Hunter-Thompson Type
+# Oxaprozin: From Rheumatoid Arthritis to Acromesomelic Dysplasia, Hunter-Thompson Type
 
 ## One-Sentence Summary
 
-Oxaprozin is a nonsteroidal anti-inflammatory drug (NSAID) that inhibits COX-1 and COX-2, and it is currently marketed in the United States.
-The TxGNN model predicts it may be effective for **acromesomelic dysplasia, Hunter-Thompson type**, but **0 clinical trials** and **0 publications** support this prediction.
-The result rests on a knowledge-graph score alone and is not credible as a repurposing lead.
-
----
+Oxaprozin is a non-steroidal anti-inflammatory drug (NSAID) originally used for joint diseases such as rheumatoid arthritis and osteoarthritis.
+The TxGNN model predicts it may be effective for **acromesomelic dysplasia, Hunter-Thompson type**, a rare skeletal disorder,
+but there are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Rheumatoid arthritis, osteoarthritis, juvenile idiopathic arthritis, spondyloarthropathy (from the knowledge graph; no approved-indication text is available in the US license records) |
 | Predicted New Indication | Acromesomelic dysplasia, Hunter-Thompson type |
 | TxGNN Prediction Score | 99.98% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 14 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 5 (all cancelled; 4 ANDAs and 1 NDA) |
 | Recommended Decision | Hold |
-
-The supplied records do not include an approved indication for oxaprozin, so the original indication is omitted from this table.
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the record. Based on known information, oxaprozin is an NSAID that inhibits COX-1 and COX-2, so its effects are anti-inflammatory and analgesic.
+Currently, detailed mechanism of action data is not available. Based on known information, oxaprozin is an NSAID that inhibits cyclooxygenase (COX), reducing prostaglandin-mediated inflammation and pain. Its efficacy in arthritic conditions is established.
 
-The predicted disease is a rare genetic skeletal dysplasia caused by defects in the CDMP1/GDF5 pathway. COX inhibition does not address this underlying defect, and no plausible mechanistic link was identified. The score of 0.9998 (model rank 1140) is a knowledge-graph output with no trial or literature evidence behind it.
+Hunter-Thompson type acromesomelic dysplasia is a rare skeletal disorder caused by loss-of-function variants in the CDMP1/GDF5 gene, which disrupt cartilage and bone development. No plausible mechanism links COX inhibition to correcting GDF5 signaling defects. The high score most likely reflects the disease's closeness to arthritis and joint-disorder nodes in the knowledge graph rather than a true biological relationship.
 
-The other nine top predictions show the same pattern. Most are rare genetic or developmental disorders with no plausible link to COX inhibition, such as brachyolmia, pseudoachondroplasia and brachydactyly-syndactyly syndrome. Three are inflammatory-joint conditions where NSAIDs are a standard symptomatic class:
-
-- **Rheumatoid factor-positive polyarticular juvenile idiopathic arthritis** (score 99.67%) is the most mechanistically coherent candidate. Oxaprozin may already carry labeling for juvenile arthritis, which would make it an existing use rather than repurposing. This must be checked against the label.
-- **Spondyloarthropathy, susceptibility to** (99.93%) and **rheumatoid nodulosis** (99.73%) are supported only by class-level reasoning, not oxaprozin-specific data.
-
----
+Other top-ranked predictions are also mostly rare skeletal or developmental syndromes (for example brachyolmia, pseudoachondroplasia and brachydactyly-syndactyly syndrome) and share the same weakness. The most biologically plausible candidates are the following, though they largely overlap with existing indications and are not true repurposing:
+- **Spondyloarthropathy, susceptibility to** (score 99.93%): NSAIDs are first-line symptomatic therapy.
+- **Rheumatoid factor-positive polyarticular juvenile idiopathic arthritis** (score 99.67%): NSAIDs are used for symptom control in juvenile arthritis.
+- **Rheumatoid nodulosis** (score 99.73%): related to rheumatoid arthritis, but NSAIDs are not known to treat nodules.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-The record lists 14 authorizations. The main ones are below; approved indication text was not provided for any of them.
-
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA208633 | Oxaprozin | Tablet | Bryant Ranch Prepack |
-| ANDA075845 | Oxaprozin | Tablet | St. Mary's Medical Park Pharmacy |
-| ANDA075855 | Oxaprozin | Tablet, film coated | Bryant Ranch Prepack |
-| ANDA075855 | Oxaprozin | Tablet, film coated | Proficient Rx LP |
-| NDA217927 | Oxaprozin | Capsule | Ayurax, LLC |
+| ANDA208633 | Oxaprozin (Bryant Ranch Prepack) | Tablet | Not available (cancelled) |
+| ANDA075845 | Oxaprozin (St. Mary's Medical Park Pharmacy) | Tablet | Not available (cancelled) |
+| ANDA075855 | Oxaprozin (Bryant Ranch Prepack) | Tablet, film coated | Not available (cancelled) |
+| NDA217927 | Oxaprozin (Ayurax, LLC) | Capsule | Not available (cancelled) |
+| ANDA075987 | Oxaprozin (Chartwell RX, LLC) | Tablet | Not available (cancelled) |
 
-All listed forms are oral.
-
----
+All listed products are oral formulations and all five authorizations are cancelled.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Disease-related cautions (from knowledge graph contraindication links, not label text)**: hypertension and hypertensive disorders, liver failure, kidney disease, peptic ulcer disease (including active ulcer), blood coagulation disorders, myocardial infarction and coronary thrombosis, cardiovascular and heart disease, hemoglobinopathy, and pyoureter. These are consistent with the known cardiovascular, gastrointestinal, renal and bleeding risks of NSAIDs.
+- **Drug Interactions**: The interaction screen returned 100 entries in total; the 20 reviewed here include the following.
+  - Moderate: corticosteroids (hydrocortisone, dexamethasone, betamethasone, triamcinolone, budesonide), acetylsalicylic acid, mesalazine and balsalazide, metformin and sulfonylureas (chlorpropamide, acetohexamide), exenatide, potassium citrate, bowel-preparation agents (picosulfuric acid, polyethylene glycol with electrolytes), and fenfluramine and dexfenfluramine.
+  - Minor: H2 blockers (famotidine, ranitidine, cimetidine).
 
----
+Official label warnings and contraindications were not available for this report; please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score, with no trials, no literature and no plausible mechanistic link to a genetic skeletal dysplasia. The evidence level is L5, and the pipeline is still at stage S0.
+The prediction for acromesomelic dysplasia, Hunter-Thompson type has no supporting trials or literature, and no biological mechanism links COX inhibition to the GDF5 defect that causes the disease. In addition, none of oxaprozin's US licenses is currently valid, and NSAID safety concerns (cardiovascular, gastrointestinal, renal) would need careful weighing in any new population.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, which are a blocking gap for safety screening
-- Detailed mechanism of action data (MOA) from DrugBank
-- Confirmation of oxaprozin's approved indications, including whether juvenile arthritis is already labeled
-- If the team wants to pursue this drug at all, re-evaluating the inflammatory-joint predictions (juvenile idiopathic arthritis, spondyloarthropathy) in place of the top-ranked skeletal dysplasia, along with a targeted literature and trial search for those conditions
+- Detailed mechanism of action data (MOA)
+- Official package insert warnings and contraindications
+- Preclinical or mechanistic evidence connecting oxaprozin to GDF5/CDMP1 signalling or cartilage biology
+- A literature and trial search specific to the predicted disease
+- Consideration of the more plausible candidates (spondyloarthropathy, polyarticular juvenile idiopathic arthritis), after checking them against labeled uses to determine whether they are genuinely new indications
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -29,29 +29,31 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-# Insulin Lispro: From Diabetes Mellitus to Autoimmune Oophoritis
+# Insulin Lispro: From Type 2 Diabetes Mellitus to Autoimmune Oophoritis
 
 ## One-Sentence Summary
 
-Insulin lispro is a rapid-acting insulin analog, marketed in the US as Humalog for glycemic control in diabetes. The TxGNN model predicts it may be relevant to **autoimmune oophoritis**, but **no clinical trials and no publications** currently support this prediction, and the supplied data show no mechanistic link.
+Insulin lispro is a rapid-acting insulin analog, originally used to control blood glucose in type 1 and type 2 diabetes mellitus.
+The TxGNN model predicts it may be effective for **autoimmune oophoritis**, but **no clinical trials and no publications** currently support this prediction.
+The high score most likely reflects shared autoimmune comorbidity with type 1 diabetes in the knowledge graph rather than a true therapeutic mechanism.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Diabetes mellitus (general knowledge; the supplied license records contain no indication text) |
+| Original Indication | Type 2 diabetes mellitus (also type 1 diabetes mellitus, diabetic ketoacidosis) |
 | Predicted New Indication | Autoimmune oophoritis |
-| TxGNN Prediction Score | 99.78% (model rank 45) |
+| TxGNN Prediction Score | 99.78% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (BLA-licensed biologic) |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 6 (all cancelled; listed as BLAs) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Insulin lispro is a rapid-acting insulin analog, and its use in diabetes is well established. However, nothing in the supplied data supports its use in autoimmune oophoritis.
+Detailed mechanism of action data is not available. Based on general knowledge, insulin lispro is a rapid-acting insulin analog that acts on the insulin receptor to promote cellular glucose uptake. Its efficacy in diabetes mellitus is well established.
 
-Insulin has no established role in ovarian autoimmunity. The high score is a knowledge-graph prediction only. It probably reflects autoimmune-disease co-annotation in the graph, not a real therapeutic relationship. Similarity to the original indication has not been assessed, and route compatibility is also pending.
+Autoimmune oophoritis is an immune-mediated ovarian disorder, often seen in autoimmune polyglandular syndromes that include type 1 diabetes. The high score likely arises from this shared autoimmune comorbidity in the knowledge graph. No direct mechanistic link is established: insulin would at most treat a coexisting diabetes, not the oophoritis itself. The prediction should therefore be read as an association signal, not as evidence of therapeutic benefit.
 
 ## Clinical Trial Evidence
 
@@ -59,36 +61,51 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature available for autoimmune oophoritis.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| BLA020563 | HUMALOG | Injection, solution | A-S Medication Solutions |
-| BLA021018 | Humalog | Injection, suspension | Eli Lilly and Company |
-| BLA021017 | Humalog | Injection, suspension | Eli Lilly and Company |
-| BLA020563 | Humalog | Injection, solution | Eli Lilly and Company |
-| BLA020563 | Humalog | Injection, solution | Eli Lilly and Company |
+| Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
+|---------|------|------|------|-----------|
+| BLA020563 | HUMALOG | Injection, solution | A-S Medication Solutions | Cancelled |
+| BLA021018 | Humalog | Injection, suspension | Eli Lilly and Company | Cancelled |
+| BLA021017 | Humalog | Injection, suspension | Eli Lilly and Company | Cancelled |
+| BLA209196 | ADMELOG | Injection, solution | Sanofi-Aventis U.S. LLC | Cancelled |
+| BLA205747 | Humalog | Injection, solution | Eli Lilly and Company | Cancelled |
 
-Approved indication text is not included in the supplied license records.
+One additional cancelled license (BLA761109, LYUMJEV, injection solution, A-S Medication Solutions) is also on record. Approved indication text was not available for these entries.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug-interaction records were found for this drug.
+- **Drug Interactions**: 100 interactions were identified in total. Most of those reviewed are of moderate severity, and a few are minor. Examples include:
+  - Beta-agonists and sympathomimetics (formoterol, salbutamol, epinephrine, phenylephrine, pseudoephedrine), which may alter glycaemic control
+  - Corticosteroids (hydrocortisone)
+  - Other antidiabetic agents (metformin, alogliptin, albiglutide)
+  - Beta-blockers (acebutolol)
+  - Hydrochlorothiazide, acetazolamide, estrogens/hormonal contraceptives (estradiol, ethinylestradiol, levonorgestrel), alpelisib, doxycycline and ethanol
+
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the model score (L5). There are no trials or publications, and no plausible mechanism links insulin lispro to autoimmune oophoritis. It is most likely a graph artifact, so the candidate should not advance.
+The prediction rests on model output alone (evidence level L5), with no trials or literature for autoimmune oophoritis and no plausible direct mechanism. The high score likely reflects comorbidity with autoimmune diabetes. All US licenses on record are also cancelled.
 
 **To proceed, the following is needed:**
-- Any disease-specific clinical or preclinical evidence for insulin in autoimmune oophoritis
-- A mechanism of action (MOA) dataset from DrugBank to support mechanistic analysis
-- FDA package insert warnings and contraindications for safety screening
-- If the goal is a more actionable candidate, review the lower-ranked predictions. Pancreatic agenesis (score 99.09%, L4) is mechanistically direct, but it is likely already standard care and the supplied literature does not address it.
+- Mechanistic evidence showing insulin lispro could affect ovarian autoimmune pathology
+- Clinical or observational data in autoimmune oophoritis
+- Package insert warnings and contraindications, and mechanism of action data
+- Confirmation of current US marketing status
+
+**Other predictions reviewed (all Hold):** The remaining predictions are also unsupported or reflect existing diabetes care or adverse effects rather than new indications.
+- Thiamine-responsive dysfunction syndrome (99.37%): insulin would only treat the diabetic component.
+- Classic stiff person syndrome (99.36%) and focal stiff limb syndrome (99.36%): anti-GAD autoimmune comorbidity with type 1 diabetes.
+- Opsismodysplasia (99.34%): only a hypothetical link through INPPL1/SHIP2 insulin signaling.
+- Drug-induced localized lipodystrophy (99.09%): insulin injection is a known cause, not a treatment.
+- Pancreatic agenesis (99.09%): insulin replacement is standard care but falls within the existing diabetes indication. The single review found (PMID 12150359, 2002) covers type 2 diabetes in general and is not specific to this condition.
+- Centrifugal lipodystrophy (99.04%) and pressure-induced localized lipoatrophy (99.03%): no supporting evidence, and insulin injections are themselves associated with lipoatrophy.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

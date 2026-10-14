@@ -3,14 +3,14 @@ layout: default
 title: Minoxidil
 parent: Moderate Evidence (L3-L4)
 nav_order: 933
-evidence_level: L4
+evidence_level: L3
 indication_count: 10
 ---
 
 # Minoxidil
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L3** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,92 +29,87 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Minoxidil: From Androgenetic Alopecia to Hypotrichosis Simplex of the Scalp
+# Minoxidil: From Hypertension and Alopecia to Hypotrichosis Simplex of the Scalp
 
 ## One-Sentence Summary
 
-Minoxidil is a vasodilator that was first used as an oral antihypertensive and is now widely used topically for androgenetic alopecia (hair loss).
-The TxGNN model predicts it may be effective for **hypotrichosis simplex of the scalp**, a rare hereditary hair-thinning disorder.
-Evidence is thin: **0 registered clinical trials** and **3 publications**, all case reports in which minoxidil was combined with other treatments.
-
----
+Minoxidil was originally used to treat hypertension (oral) and hair loss (topical).
+The TxGNN model predicts it may be effective for **hypotrichosis simplex of the scalp**, a rare hereditary hair disorder.
+Currently **0 registered clinical trials** and **3 publications** (case series and case reports) support this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Androgenetic alopecia (topical use), based on the literature. The US licence records list no indication text. |
+| Original Indication | Hypertension; alopecia (from the knowledge graph; no approved indication text is available in the license records) |
 | Predicted New Indication | Hypotrichosis simplex of the scalp |
-| TxGNN Prediction Score | 99.9999% |
-| Evidence Level | L4 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 authorization records (mix of NDA, ANDA and OTC monograph entries) |
+| TxGNN Prediction Score | 99.99% |
+| Evidence Level | L3 |
+| US Market Status | Cancelled only (no currently valid licenses in the data compiled) |
+| Number of NDAs | 10 license records (all cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the DrugBank record. The mechanism below is drawn from the retrieved literature and the evidence review.
+Detailed mechanism-of-action data for minoxidil is not available in the data compiled for this report. Based on the literature, minoxidil is a potassium channel opener. Its active metabolite, minoxidil sulfate, is thought to prolong the anagen (growth) phase of the hair cycle and promote follicular vasodilation and proliferation. This is the same basis for its established use in alopecia.
 
-Minoxidil is a prodrug. Its sulfate metabolite opens ATP-sensitive potassium (K-ATP) channels. This prolongs the anagen (growth) phase of the hair cycle and increases blood flow around the follicle. Reviews also describe additional pathways, including Wnt/β-catenin signaling and anti-inflammatory effects.
+Hereditary hypotrichosis simplex of the scalp is a rare genetic disorder (linked to variants such as *CDSN*) in which hair density and length are reduced. Because the problem is reduced hair growth rather than an immune or scarring process, a hair-growth stimulant is mechanistically reasonable.
 
-Hypotrichosis simplex of the scalp is a rare, autosomal dominant disorder. Cases have been linked to variants in the *CDSN* gene, which encodes corneodesmosin. The hair follicles are present but produce sparse hair. A follicle-stimulating drug like minoxidil could plausibly help, and topical minoxidil is already established for the common hair-thinning disorder androgenetic alopecia.
-
-The three case reports do not isolate minoxidil's own effect. Each one combined it with another therapy: oral minoxidil with growth factors, minoxidil with botanic extracts, or topical minoxidil with platelet-rich plasma (PRP) injections. The high TxGNN score reflects the model's graph proximity to other hair-loss diseases and is not clinical proof.
-
----
+The main limitation is that the three available reports combine minoxidil with other treatments (growth factors, botanical extracts, platelet-rich plasma). This makes it impossible to isolate minoxidil's own contribution.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|---------|---------|
-| [35761391](https://pubmed.ncbi.nlm.nih.gov/35761391/) | 2022 | Case report/series | Dermatologic Therapy | Hereditary hypotrichosis simplex of the scalp treated with oral minoxidil plus growth factors. No abstract is available, so outcome details could not be extracted. |
-| [39902296](https://pubmed.ncbi.nlm.nih.gov/39902296/) | 2024 | Case report | Frontiers in Genetics | An 8-year-old boy with *CDSN*-mutation hypotrichosis simplex of the scalp was treated with botanic extracts plus minoxidil. The paper notes that no definitive, effective treatment exists for this disease. |
-| [36651821](https://pubmed.ncbi.nlm.nih.gov/36651821/) | 2023 | Case report | Journal of Dermatological Treatment | A 14-year-old with hereditary hypotrichosis simplex was treated with PRP injections plus topical 2% minoxidil. The title reports successful treatment, but this is a single patient on combination therapy. |
-
----
+|------|-----|------|------|---------|
+| [35761391](https://pubmed.ncbi.nlm.nih.gov/35761391/) | 2022 | Case series | Dermatologic Therapy | Oral minoxidil combined with growth factors in hereditary hypotrichosis simplex of the scalp |
+| [36651821](https://pubmed.ncbi.nlm.nih.gov/36651821/) | 2023 | Case report | J Dermatol Treat | A 14-year-old patient treated with platelet-rich plasma injection plus topical minoxidil 2%; reported as successful |
+| [39902296](https://pubmed.ncbi.nlm.nih.gov/39902296/) | 2024 | Case report | Frontiers in Genetics | An 8-year-old boy with *CDSN*-related disease treated with botanical extracts plus minoxidil |
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form |
-|---------|------|------|
-| Not listed | 5% Minoxidil Topical Solution | Solution |
-| 505G(a)(3) | Hair Growth Foam | Aerosol, foam |
-| 505G(a)(3) | Hair Serum | Solution |
-| M032 | Psalmonica Hair Growth Serum | Liquid |
-| ANDA209074 | Hair Regrowth Treatment | Liquid |
+All 10 license records in the data compiled are cancelled. No approved indication text is recorded. Up to 5 are shown:
 
-The licence records contain no approved-indication text. The full set of 20 records also includes shampoo and oral tablet forms.
-
----
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| ANDA071839 | Minoxidil (A-S Medication Solutions) | Tablet | Not recorded |
+| ANDA075598 | Equate hair regrowth treatment (Walmart) | Solution | Not recorded |
+| ANDA076239 | Remixdil Extra Strength hair regrowth treatment for Men | Solution | Not recorded |
+| ANDA091344 | Basic care hair regrowth treatment | Aerosol, foam | Not recorded |
+| ANDA208092 | Minoxidil for Women (BosleyMD) | Aerosol, foam | Not recorded |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+Package insert warnings and contraindications were not available in the data compiled. Please refer to the package insert for safety information. The following items come from other sources:
 
-Oral minoxidil is a potent systemic vasodilator. It carries known risks of fluid retention, reflex tachycardia and pericardial effusion. This matters here because two of the three case reports used oral minoxidil or involved children.
-
----
+- **Contraindication signals (knowledge graph, not label text)**: Cardiovascular and circulatory conditions (myocardial infarction, heart disease, stroke and cerebrovascular disorders, orthostatic hypotension, pericardial effusion and cardiac tamponade), kidney disease, and pheochromocytoma and related tumours. Scalp dermatosis is also listed.
+- **Drug interactions**: 100 interactions were found. The 17 shown in the data are moderate and include corticosteroids (hydrocortisone, prednisone, prednisolone, dexamethasone, betamethasone, budesonide, triamcinolone), SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin), bupropion, morphine, opium, dronabinol, nabilone and sapropterin. Calcitriol, clotrimazole and metformin are listed with unknown severity.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The mechanism is plausible and the drug is already marketed for hair loss. However, the only support is three case reports on combination therapy, with no registered trials, so minoxidil's own contribution cannot be separated out. This is best treated as a research question for now.
+The TxGNN score is very high and the mechanism is plausible, but the evidence is limited to three combination-therapy case reports with no registered trials. Minoxidil's own effect cannot be separated out. Oral use also carries cardiovascular safety concerns, and all US licenses in the data are cancelled.
 
 **To proceed, the following is needed:**
-- Full-text review of the three case reports to extract dose, route, duration and outcomes
-- A small controlled study or case series comparing minoxidil alone with a comparator, in confirmed *CDSN*-related patients
-- The package insert warnings and contraindications, especially for oral use in children
-- The mechanism-of-action record from DrugBank
+- FDA package insert warnings and contraindications, which are currently a blocking gap for safety screening
+- Mechanism-of-action data from DrugBank
+- Minoxidil-only data (for example, a controlled study or a larger case series) in genetically confirmed patients
+- A decision on route and dose (topical versus low-dose oral), given the cardiovascular signals above
+- Confirmation of current US marketing status
+
+### Other Predictions (Brief Note)
+
+The lower-ranked predictions are not supported strongly enough to pursue:
+
+- **Diffuse alopecia areata** (L3, Hold): Minoxidil does not address the autoimmune cause and would at best be an adjunct. Guidelines favor systemic immunomodulators.
+- **Pseudopelade of Brocq** (L4, Hold): This is a scarring alopecia, and the retrieved literature concerns androgenetic alopecia only.
+- **Pulmonary arterial hypertension** (L4, Hold): The data are old and indirect, and the safety concerns (tachycardia, fluid retention, pericardial effusion) are significant.
+- **Congenital hypotrichosis milia, pulmonary arteriovenous malformation, PAH with congenital heart disease, primary hereditary glaucoma, PAH with schistosomiasis, PAH with chronic hemolytic anemia** (L5, Hold): No trials or literature, and in several cases a safety rationale against use.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

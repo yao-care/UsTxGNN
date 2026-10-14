@@ -29,61 +29,87 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-# Vestronidase Alfa: From Mucopolysaccharidosis VII to Scheie Syndrome
+# Vestronidase Alfa: From Mucopolysaccharidosis to Scheie Syndrome
 
 ## One-Sentence Summary
 
-Vestronidase alfa (Mepsevii) is a recombinant human beta-glucuronidase enzyme replacement therapy, originally used for mucopolysaccharidosis VII (MPS VII, Sly syndrome).
-The TxGNN model predicts it may be effective for **Scheie syndrome** (attenuated MPS I), but **0 clinical trials** and **0 publications** currently support this direction, and the mechanistic link is weak.
+Vestronidase alfa is a recombinant human beta-glucuronidase enzyme replacement therapy, originally used to treat mucopolysaccharidosis (MPS VII).
+The TxGNN model predicts it may be effective for **Scheie syndrome**, but **no clinical trials and no publications** currently support this specific prediction (evidence level L5, model prediction only).
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Mucopolysaccharidosis VII (Sly syndrome). The license record's indication text is blank, so this comes from the literature and the model's rationale notes. |
+| Original Indication | Mucopolysaccharidosis (MPS VII) |
 | Predicted New Indication | Scheie syndrome |
 | TxGNN Prediction Score | 99.90% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
+| US Market Status | Cancelled only |
 | Number of NDAs | 1 (BLA761047) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the record. Vestronidase alfa is a recombinant human beta-glucuronidase (GUS). It replaces the enzyme missing in MPS VII, so that glycosaminoglycans (GAGs) can be broken down.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known information, vestronidase alfa is a recombinant beta-glucuronidase (GUSB) that replaces the enzyme deficient in MPS VII, helping break down glycosaminoglycans (GAGs).
 
-Scheie syndrome is caused by a different enzyme deficiency, alpha-L-iduronidase (IDUA). The block sits at a different step of the GAG degradation pathway, and GUS cannot replace IDUA. The high score most likely reflects network proximity within the MPS/GAG pathway in the knowledge graph, not a shared enzymatic target. The prediction should therefore be treated as a hypothesis with limited biological support.
+Scheie syndrome is the attenuated form of MPS I and is caused by alpha-L-iduronidase deficiency. Both conditions are lysosomal GAG storage disorders, so the high TxGNN score probably reflects shared pathway and disease-class similarity.
+
+However, the enzymes differ. Beta-glucuronidase does not replace iduronidase, so direct efficacy is mechanistically doubtful. The prediction should be treated as a hypothesis-generating signal, not as evidence of benefit.
+
+**Other predictions in the list (for context):**
+
+| Rank | Predicted Indication | Score | Evidence Level | Assessment |
+|---|---|---|---|---|
+| 2 | Lysosomal storage disease with skeletal involvement | 99.59% | L5 | Broad category that includes MPS VII itself; likely overlap with the original indication, not a new signal |
+| 3 | Hurler syndrome | 99.43% | L3 | Same GAGs are involved, but the missing enzyme is not replaced; only an early prenatal ERT platform trial exists |
+| 4 | Sanfilippo syndrome | 99.42% | L4 | Only MPS VII publications are available; intravenous ERT is unlikely to cross the blood-brain barrier |
+| 5–9 | Rare congenital ocular, craniofacial and neuromuscular syndromes (e.g., congenital Horner syndrome) | 99.02–99.09% | L5 | No plausible mechanism; likely graph-based artifacts |
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered.
+Currently no related clinical trials are registered for Scheie syndrome.
+
+For reference, one trial is linked to a related predicted indication (Hurler syndrome):
+
+| Trial Number | Phase | Status | Enrollment | Key Findings |
+|---------|------|------|------|---------|
+| [NCT04532047](https://clinicaltrials.gov/study/NCT04532047) | Phase 1 | Recruiting | 10 | PEARL: prenatal enzyme replacement therapy for lysosomal storage disorders, testing maternal and fetal safety and feasibility. The specific enzyme for each condition is not stated, and no efficacy results exist. |
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no related literature is available for Scheie syndrome.
+
+For reference, three publications are linked to Sanfilippo syndrome, but all concern vestronidase alfa in MPS VII and are therefore indirect evidence only:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [32063397](https://pubmed.ncbi.nlm.nih.gov/32063397/) | 2020 | Clinical study (Phase 3, randomized, placebo-controlled, blind-start) | Mol Genet Metab | Long-term safety and efficacy in 12 MPS VII subjects (ages 8–25) receiving 4 mg/kg IV for 24–48 weeks; urinary GAG was significantly reduced |
+| [30467742](https://pubmed.ncbi.nlm.nih.gov/30467742/) | 2019 | PK/PD modeling | Clin Pharmacokinet | Pharmacokinetic and pharmacodynamic modeling to optimize vestronidase alfa dosing in MPS VII, based on three trials |
+| [29478819](https://pubmed.ncbi.nlm.nih.gov/29478819/) | 2018 | Trial design report | Mol Genet Metab | Describes the novel Blind Start design used to study vestronidase alfa in ultra-rare MPS VII |
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA761047 | MEPSEVII (Ultragenyx Pharmaceutical Inc.) | Injection | Not provided in the license record |
+| BLA761047 | MEPSEVII (Ultragenyx Pharmaceutical Inc.) | Injection | Not listed (status: cancelled) |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug interaction records were found in the queried data.
+Please refer to the package insert for safety information. No drug interaction records were found in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on model score alone. Scheie syndrome is an IDUA deficiency that GUS replacement cannot correct, and no trials or publications link vestronidase alfa to it. The other predicted indications (Hurler syndrome, Sanfilippo syndrome and several rare ocular or neuromuscular syndromes) are also unsupported. The only related trial is a multi-disorder prenatal ERT study, and the published papers all concern MPS VII.
+The Scheie syndrome prediction rests on model output alone (L5). The enzyme deficiency differs from that treated by vestronidase alfa, and no trials or publications address this use. The US biologics license is also listed as cancelled.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data from DrugBank
-- A disease-specific enzyme-substrate rationale, or preclinical data, showing GUS could affect GAG accumulation in Scheie syndrome
-- Confirmation of which enzyme each arm receives in the PEARL trial (NCT04532047) before treating it as relevant evidence for any MPS I-type disease
+- Preclinical data (e.g., cell or animal models) testing whether beta-glucuronidase can reduce GAG accumulation in alpha-L-iduronidase deficiency
+- Detailed mechanism-of-action data
+- FDA package insert warnings and contraindications to enable safety screening
+- Clarification of the current regulatory and supply status, given that the license is cancelled
+- Route and dosing compatibility assessment for the proposed indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

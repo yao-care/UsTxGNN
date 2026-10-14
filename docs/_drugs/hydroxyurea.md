@@ -29,100 +29,113 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Hydroxyurea: From Approved Antineoplastic Use to Female Breast Carcinoma
+# Hydroxyurea: From Melanoma and Sickle Cell Anemia to Female Breast Carcinoma
 
 ## One-Sentence Summary
 
-Hydroxyurea is an oral antineoplastic drug that inhibits ribonucleotide reductase. It is marketed in the US as capsules, and the pack lists no approved-indication text.
-The TxGNN model predicts it may be effective for **female breast carcinoma**, but **0 clinical trials** are registered for this indication.
-The **20 retrieved publications** are mostly preclinical or indirect. Only two older, small clinical regimen reports include hydroxyurea in breast cancer patients.
+Hydroxyurea is an oral antimetabolite chemotherapy originally used for melanoma, ovarian cancer, and sickle cell anemia.
+The TxGNN model predicts it may be effective for **female breast carcinoma**, but there are currently **0 registered clinical trials** and **20 publications** for this indication. Most of those publications are preclinical or only tangentially related, and the clinical ones are old Phase 1 combination studies.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
+| Original Indication | Melanoma, sickle cell anemia, ovarian cancer (from the knowledge graph; no approved-indication text is available from the US labels) |
 | Predicted New Indication | Female breast carcinoma |
-| TxGNN Prediction Score | 99.97% (model rank 1406) |
-| Evidence Level | L4 (preclinical and mechanism studies only) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (NDA and ANDA authorizations) |
+| TxGNN Prediction Score | 99.97% |
+| Evidence Level | L4 (preclinical and mechanistic studies only) |
+| US Market Status | Cancelled only (no currently valid authorizations) |
+| Number of NDAs | 7 authorizations in total (3 NDAs, 4 ANDAs), all cancelled |
 | Recommended Decision | Hold |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the DrugBank record. The reasoning below is inferred from known pharmacology.
+Detailed mechanism-of-action data is not available in the compiled data. Hydroxyurea is a ribonucleotide reductase inhibitor. It depletes the cell's pool of DNA building blocks (dNTPs) and causes replication stress. This is the basis of its use in cancers and, through a different effect (raising fetal hemoglobin), in sickle cell anemia.
 
-Hydroxyurea inhibits ribonucleotide reductase (RNR). This depletes the dNTP pool needed for DNA synthesis and causes S-phase arrest and replication stress. That is plausible for rapidly proliferating tumors such as breast cancer.
+Rapidly dividing tumours such as breast cancer are plausible targets for this mechanism. Preclinical studies link hydroxyurea to replication-stress and DNA-repair pathways in breast cancer cells. Examples include work on RPA2 hyperphosphorylation, in which valproic acid sensitized breast cancer cells to hydroxyurea, and work on replication-stress avoidance. The original oncology indications (melanoma, ovarian cancer) are also solid or gynaecological tumours treated with DNA-synthesis-targeting agents.
 
-Preclinical work supports the link. Valproic acid sensitizes breast cancer cells to hydroxyurea by blocking RPA2-mediated DNA repair. The RNR inhibitor COH29 inhibits DNA repair in BRCA1-defective breast cancer cells. EYA4 helps breast cancer cells avoid replication stress.
+No dedicated breast cancer trial of hydroxyurea is listed. The link is therefore biologically reasonable but clinically unproven.
 
-The prediction score is high, but it is a model output and not clinical proof.
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
-## Literature Evidence
+---
 
-No RCTs were retrieved. The table shows the most relevant items, ordered clinical first and then preclinical.
+## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [7914447](https://pubmed.ncbi.nlm.nih.gov/7914447/) | 1994 | Single-arm clinical study | Bone Marrow Transplant | 26 women with responding metastatic breast cancer received hydroxyurea (18 g/m²) added to cyclophosphamide and thiotepa with autologous stem cell rescue as consolidation |
-| [1957839](https://pubmed.ncbi.nlm.nih.gov/1957839/) | 1991 | Phase I | Am J Clin Oncol | 20 patients with advanced GI and breast cancers received allopurinol, 5-FU and leucovorin followed by hydroxyurea. The tumor types are mixed, so breast-specific results are unclear |
-| [38211596](https://pubmed.ncbi.nlm.nih.gov/38211596/) | 2024 | In-silico design | Drug Res | Hydroxyurea–lipid conjugates designed to overcome poor lipophilicity, targeting the PI3K/AKT/mTOR pathway in breast cancer |
+| [1733549](https://pubmed.ncbi.nlm.nih.gov/1733549/) | 1992 | Phase 1 combination study | Cancer Chemother Pharmacol | Escalating-dose cisplatin added to 5-FU, leucovorin, hydroxyurea and radiotherapy in advanced solid tumours, to find the maximum tolerated cisplatin dose |
+| [1957839](https://pubmed.ncbi.nlm.nih.gov/1957839/) | 1991 | Phase 1 combination study | Am J Clin Oncol | Sequential 5-FU/leucovorin followed by hydroxyurea with allopurinol in 20 patients with advanced colorectal, pancreatic, gastric and breast cancer |
+| [38211596](https://pubmed.ncbi.nlm.nih.gov/38211596/) | 2024 | In-silico/Preclinical | Drug Research | Designed hydroxyurea-lipid conjugates to improve cellular uptake in breast cancer, targeting the PI3K/AKT/mTOR pathway |
 | [28837865](https://pubmed.ncbi.nlm.nih.gov/28837865/) | 2017 | Preclinical | DNA Repair | Valproic acid sensitized breast cancer cells to hydroxyurea by inhibiting RPA2 hyperphosphorylation-mediated DNA repair |
-| [32795962](https://pubmed.ncbi.nlm.nih.gov/32795962/) | 2020 | Preclinical | DNA Repair | 2-hexyl-4-pentynoic acid proposed as a valproic acid alternative that influences RPA2-mediated DNA repair, following the hydroxyurea sensitization work |
-| [25814515](https://pubmed.ncbi.nlm.nih.gov/25814515/) | 2015 | Preclinical | Mol Pharmacol | The RNR inhibitor COH29 inhibited DNA repair in BRCA1-defective breast cancer cells. It targets the same enzyme as hydroxyurea |
-| [37777742](https://pubmed.ncbi.nlm.nih.gov/37777742/) | 2023 | Preclinical | Mol Cancer | EYA4 promotes breast cancer progression and metastasis through replication stress avoidance |
-| [34661718](https://pubmed.ncbi.nlm.nih.gov/34661718/) | 2022 | Preclinical | Naunyn Schmiedebergs Arch Pharmacol | Hydroxyurea-loaded Fe3O4/SiO2/chitosan nanoparticles showed pH-dependent release, cell cycle arrest and altered p53 and lincRNA-p21 expression |
-| [30159181](https://pubmed.ncbi.nlm.nih.gov/30159181/) | 2018 | Case report | Case Rep Hematol | Management of coexisting breast cancer and essential thrombocythemia. It is a treatment-challenge report, not evidence of breast cancer efficacy |
-| [28585003](https://pubmed.ncbi.nlm.nih.gov/28585003/) | 2017 | Case report | Breast Cancer | Secondary breast carcinoma in a patient previously treated with hydroxyurea and imatinib for CML. It is not efficacy evidence |
+| [32795962](https://pubmed.ncbi.nlm.nih.gov/32795962/) | 2020 | Preclinical | DNA Repair | A valproic acid analogue acts on the same RPA2-mediated DNA repair pathway, building on the hydroxyurea sensitization findings in breast carcinoma |
+| [25814515](https://pubmed.ncbi.nlm.nih.gov/25814515/) | 2015 | Preclinical | Mol Pharmacol | A newer ribonucleotide reductase inhibitor (COH29, same target class as hydroxyurea) inhibited DNA repair in BRCA1-defective breast cancer cells |
+| [30159181](https://pubmed.ncbi.nlm.nih.gov/30159181/) | 2018 | Case report | Case Rep Hematol | Management of coexisting hormone-positive breast cancer and essential thrombocythemia; a therapeutic-challenge report, not a test of hydroxyurea efficacy in breast cancer |
+| [27504932](https://pubmed.ncbi.nlm.nih.gov/27504932/) | 2017 | Preclinical | J Cell Physiol | Chemoresistance of lung and breast cancer cells under prolonged serum starvation |
+| [27634334](https://pubmed.ncbi.nlm.nih.gov/27634334/) | 2016 | Preclinical | Genome Biol | DNA replication stress mediates APOBEC3 mutagenesis in breast cancer (mechanistic context only) |
+
+Several other retrieved papers are only loosely related, such as cervical cancer chemoradiation, a meningioma case report, and a lncRNA review. They are not listed here.
+
+---
 
 ## US Market Information
 
-Approved indication text is not listed in the supplied data.
+| Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
+|---------|------|------|------|------|
+| NDA016295 | HYDREA | Capsule | H2-Pharma LLC | Cancelled |
+| NDA208843 | Siklos | Film-coated tablet | Medunik | Cancelled |
+| NDA216593 | XROMI | Solution | Nova Laboratories, Ltd. | Cancelled |
+| ANDA075340 | Hydroxyurea | Capsule | Endo USA, Inc. | Cancelled |
+| ANDA075143 | Hydroxyurea | Capsule | AvKARE | Cancelled |
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
-|---------|------|------|-----------|
-| NDA016295 | HYDREA | Capsule | H2-Pharma LLC |
-| ANDA075340 | Hydroxyurea | Capsule | Endo USA, Inc. |
-| ANDA075340 | Hydroxyurea | Capsule | Major Pharmaceuticals |
-| ANDA075143 | Hydroxyurea | Capsule | AvKARE |
-| ANDA218021 | Hydroxyurea | Capsule | Qilu Pharmaceutical Co., Ltd. |
+Two further generic capsule authorizations (ANDA218021, ANDA213438) are also cancelled. Approved-indication text is not available for these entries.
 
-Other dosage forms in the market data are oral solution and film-coated tablet.
+---
 
 ## Cytotoxicity
-
-The pack contains no toxicity data. The entries below reflect general knowledge of this drug class and should be checked against the package insert.
 
 | Item | Content |
 |------|------|
 | Cytotoxicity Classification | Conventional cytotoxic (antimetabolite, ribonucleotide reductase inhibitor) |
-| Myelosuppression Risk | High (dose-limiting toxicity; cytopenias expected) |
-| Emetogenicity Classification | Low |
-| Monitoring Items | CBC with differential, renal and liver function |
-| Handling Protection | Follow cytotoxic drug handling regulations (e.g., gloves when handling capsules) |
+| Myelosuppression Risk | High. The knowledge graph lists leukopenia, thrombocytopenia and anemia as contraindication-related conditions, consistent with marrow suppression being the main concern |
+| Emetogenicity Classification | Low (general class expectation; please verify against the package insert) |
+| Monitoring Items | CBC with differential, platelet count, renal function, liver function |
+| Handling Protection | Follow cytotoxic drug handling regulations |
+
+---
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Conditions flagged in the knowledge graph (not label text):** kidney disease, pyoureter, thrombocytopenia, anemia, macrocytic anemia, leukopenia, cutaneous vasculitis.
+- **Drug Interactions:** 100 interacting drugs were identified. The one with a specified severity is levofloxacin (Minor). Others, such as doxycycline, amphotericin B, hydrocortisone, acetylsalicylic acid, metformin, omeprazole, and vancomycin, have no severity grading.
+
+Package insert warnings and contraindications were not available. Please refer to the package insert for complete safety information.
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The mechanism is plausible, but there are no registered trials in breast cancer. Clinical data are limited to two older, small studies that include hydroxyurea inside multi-drug regimens. The remaining literature is preclinical or indirect. The high TxGNN score alone does not justify advancing.
+The prediction score is very high (99.97%), but breast cancer support is limited to preclinical work and two Phase 1 combination studies from 1991-1992. No breast cancer trial is registered, so the evidence level is L4.
 
-**To proceed, the following is needed:**
-- Package insert warnings and contraindications, which are a blocking gap for safety screening
-- Mechanism of action data from DrugBank
-- Breast cancer-specific efficacy data, such as a hydroxyurea combination study (e.g., with a DNA repair inhibitor) or a clinical review of prior regimens
-- A comparison against current standard breast cancer therapy to define where hydroxyurea would fit
+Among the other candidates evaluated for hydroxyurea, **sickle cell-hemoglobin C disease** is much better supported. It has a Phase 2 trial (NCT00532883, terminated), a 2025 NEJM Evidence publication, Cochrane reviews, and an L2 rating. It carries a "Proceed with Guardrails" recommendation and may be a stronger repurposing direction.
 
-**Note:** Within this pack, hydroxyurea for sickle cell–hemoglobin C disease has much stronger support. It is rated L2, with Phase 2 trials and a 2025 publication. Two of the three dedicated Phase 2 trials were terminated early, and one enrolled a single participant. It merits a separate evaluation.
+**To proceed with breast cancer, the following is needed:**
+- Package insert warnings and contraindications, which are currently missing and block safety screening
+- Detailed mechanism-of-action data
+- Modern preclinical data on hydroxyurea alone or in combination in breast cancer models, such as subtype-specific or BRCA-deficient models
+- A clinical rationale and trial design, since no registered breast cancer trial exists
+- Clarification of the US regulatory position, since all authorizations are currently cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

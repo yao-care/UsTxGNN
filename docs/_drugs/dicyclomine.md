@@ -29,35 +29,35 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Dicyclomine: From Functional Bowel/Irritable Bowel Syndrome to Cauda Equina Syndrome
+# Dicyclomine: From Irritable Bowel Syndrome to Cauda Equina Syndrome
 
 ## One-Sentence Summary
 
-Dicyclomine is an antispasmodic used for gastrointestinal smooth-muscle spasm, commonly functional bowel/irritable bowel syndrome.
-The TxGNN model predicts it may be effective for **cauda equina syndrome**, but this rests on the model score alone, with **0 clinical trials** and **0 publications** supporting it.
-Cauda equina syndrome is a surgical emergency, so any symptomatic use of an anticholinergic carries a safety concern.
+Dicyclomine is an antispasmodic/anticholinergic drug, originally used for irritable bowel syndrome and related conditions.
+The TxGNN model predicts it may be effective for **cauda equina syndrome**,
+but currently there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Functional bowel/irritable bowel syndrome (general drug knowledge; the approved-indication text is blank in all provided US license records) |
+| Original Indication | Irritable bowel syndrome (also Clostridium difficile colitis and neurocirculatory asthenia, per the knowledge graph) |
 | Predicted New Indication | Cauda equina syndrome |
 | TxGNN Prediction Score | 99.66% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (the listed licenses are ANDAs, i.e. generics) |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 13 (all cancelled; listed under ANDA numbers) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the source record. Dicyclomine is generally described as an antimuscarinic (anticholinergic) antispasmodic with a direct smooth-muscle relaxant effect, but the provided data does not confirm this.
+Currently, detailed mechanism of action data is not available. Based on known information, dicyclomine is an antimuscarinic and smooth-muscle relaxant. Its use in irritable bowel syndrome is based on reducing gut spasm, and mechanistically it may be applicable to bladder and bowel dysfunction.
 
-Cauda equina syndrome is caused by compression of the lumbosacral nerve roots and often causes bladder and bowel dysfunction. In principle, anticholinergic drugs could relieve some of these symptoms. This link is only theoretical.
+A plausible link is symptomatic control of detrusor overactivity and spasm that can accompany cauda equina syndrome. However, the drug would not treat the underlying cause, which is compression of the lumbosacral nerve roots and requires urgent surgical decompression.
 
-The drug would not treat the underlying cause, which is nerve root compression that needs urgent surgical decompression. Anticholinergics can also worsen urinary retention, which is common in this condition. That could mask or delay recognition of a surgical emergency.
+There is also a safety concern. Anticholinergics can worsen urinary retention, which is common in cauda equina syndrome with an areflexic bladder. The high score is a graph-based prediction only.
 
-The model's second-ranked prediction, "obsolete neurogenic bladder (disease)" (score 99.50%), also has no trials or literature. Its mechanistic rationale is somewhat more plausible, because antimuscarinics are established for neurogenic detrusor overactivity. However, the disease term is flagged as obsolete in the ontology and would need to be re-mapped to a current concept before further assessment.
+A second prediction, **neurogenic bladder** (an obsolete ontology term, score 99.50%), is mechanistically more conventional, since antimuscarinics such as oxybutynin are used for detrusor overactivity. It also has no trials or literature, and the term would need to be mapped to current terminology (e.g., neurogenic detrusor overactivity).
 
 ## Clinical Trial Evidence
 
@@ -69,37 +69,42 @@ Currently no related literature available.
 
 ## US Market Information
 
-The approved-indication text is blank in all license records, so the manufacturer is listed instead.
+All 13 licenses are cancelled; no valid license remains. Approved indication text was not available for these entries. The main ones are:
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA084285 | Dicyclomine Hydrochloride | Capsule | NuCare Pharmaceuticals, Inc. |
-| ANDA216736 | Dicyclomine hydrochloride | Tablet | Northwind Health Company, LLC |
-| ANDA040319 | Dicyclomine Hydrochloride | Capsule | REMEDYREPACK INC. |
-| ANDA084285 | Dicyclomine Hydrochloride | Capsule | A-S Medication Solutions |
-| ANDA040319 | Dicyclomine Hydrochloride | Capsule | Preferred Pharmaceuticals Inc. |
-
-Dosage forms on record include oral capsules and tablets, and injectable solutions.
+| ANDA084285 | Dicyclomine Hydrochloride (NuCare Pharmaceuticals) | Capsule | Not available |
+| ANDA216736 | Dicyclomine hydrochloride (Northwind Health) | Tablet | Not available |
+| ANDA040319 | Dicyclomine Hydrochloride (RemedyRepack) | Capsule | Not available |
+| ANDA208353 | Dicyclomine hydrochloride (American Regent) | Injection, solution | Not available |
+| ANDA040465 | Dicyclomine Hydrochloride (Hikma) | Injection | Not available |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Disease-level contraindications (from the knowledge graph, not label text):** hypertension, liver failure and liver disease, hepatic encephalopathy, gastric ulcer, kidney disease, gallbladder disease, benign prostatic hyperplasia, angle-closure glaucoma, coronary artery disease, sleep apnea syndromes, porphyria, anxiety and related neurotic disorders, substance abuse/dependence, and blood disorders (thrombocytopenia, neutropenia, agranulocytosis, anemia).
+- **Drug Interactions:** 100 interactions were identified. Most of those listed are Moderate, including:
+  - Opioids: fentanyl, alfentanil, codeine, dihydrocodeine, tramadol
+  - Other anticholinergics and antihistamines: hyoscyamine, aclidinium, chlorpheniramine, acrivastine, phenyltoloxamine, amitriptyline
+  - Others: botulinum toxin type A, loperamide, galantamine, amantadine, acebutolol, ethanol
+
+  Acetaminophen and hydrochlorothiazide are Minor.
+- **Relevance to the predicted indication:** anticholinergic burden and urinary retention risk need specific evaluation.
+
+Please refer to the package insert for label warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The only support is a model score (99.66%), with no clinical trials or literature (Evidence Level L5). Cauda equina syndrome is a surgical emergency, and an anticholinergic could worsen urinary retention and delay diagnosis.
+The prediction has a high model score but no clinical trials or literature (Evidence Level L5). The drug would only address symptoms, not the cause of cauda equina syndrome, and its anticholinergic effect may worsen urinary retention. All US licenses are cancelled.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data from DrugBank
-- A review of the urinary retention risk in patients with nerve root compression
-- Any clinical or preclinical evidence linking dicyclomine to cauda equina syndrome or neurogenic bladder
-- Re-mapping of the obsolete neurogenic bladder term to a current disease concept before assessing that indication
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any application.*
+- Package insert warnings and contraindications
+- Mechanism of action data
+- A literature and trial search, including for neurogenic detrusor overactivity as the better-supported alternative
+- Assessment of urinary retention risk and anticholinergic burden in the target population
+- Clarification of current US availability and route compatibility
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

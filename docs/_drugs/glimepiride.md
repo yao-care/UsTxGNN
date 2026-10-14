@@ -29,33 +29,38 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-# Glimepiride: From Type 2 Diabetes to Classic Stiff Person Syndrome
+# Glimepiride: From Type 2 Diabetes Mellitus to Classic Stiff Person Syndrome
 
 ## One-Sentence Summary
 
-Glimepiride is a sulfonylurea oral antidiabetic drug. The pack does not give its original indication text, so this comes from general drug knowledge.
-The TxGNN model predicts it may be effective for **classic stiff person syndrome**, but **0 clinical trials** and **0 publications** currently support this direction.
-The prediction rests on the model score alone.
+Glimepiride is a sulfonylurea originally used to lower blood glucose in type 2 diabetes mellitus.
+The TxGNN model predicts it may be effective for **classic stiff person syndrome**,
+but currently there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Type 2 diabetes mellitus (general knowledge; the license records contain no indication text) |
+| Original Indication | Type 2 diabetes mellitus |
 | Predicted New Indication | Classic stiff person syndrome |
 | TxGNN Prediction Score | 99.75% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 6 (all ANDA, all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, glimepiride is a sulfonylurea that closes pancreatic beta-cell KATP channels and stimulates insulin release. Its efficacy in diabetes is established, but no mechanism has been shown to apply to stiff person syndrome.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, glimepiride is a sulfonylurea that closes KATP channels in pancreatic beta cells to stimulate insulin secretion. Its efficacy in type 2 diabetes is established.
 
-Stiff person syndrome is an autoimmune disorder of GABAergic neurotransmission, typically involving anti-GAD65 antibodies. Glimepiride has no known action on that pathway. The high score most likely reflects knowledge-graph proximity: GAD autoimmunity frequently co-occurs with diabetes, so the two sit close together in the graph. It probably does not reflect a therapeutic effect.
+Stiff person syndrome is an autoimmune neurological disorder, typically with anti-GAD65 antibodies that impair GABAergic signaling. No mechanistic link to glimepiride is established, and the drug has no known benefit for the neurological symptoms. The high score is more likely explained by diabetes-related graph proximity: stiff person syndrome is commonly comorbid with type 1 diabetes, and the knowledge graph may be picking up that association rather than a therapeutic rationale.
 
-The same caution applies to the other predictions in this pack, such as focal stiff limb syndrome, the lipodystrophy cluster and pancreatic agenesis. Their scores are nearly identical, which suggests a shared graph-neighborhood artifact rather than an indication-specific signal.
+The same caution applies to the other predictions. Focal stiff limb syndrome received an identical score (99.75%), which suggests a shared graph neighborhood rather than independent evidence. The remaining candidates are:
+
+- **Opsismodysplasia**: possible link to insulin signaling, but speculative.
+- **Thiamine-responsive dysfunction syndrome**: sulfonylureas may treat its diabetic component only, not the underlying disorder.
+- **Localized lipodystrophies** (drug-induced, centrifugal, pressure-induced, idiopathic): no supporting evidence.
+- **Pancreatic agenesis**: biologically implausible, since glimepiride needs residual beta cells to work.
 
 ## Clinical Trial Evidence
 
@@ -63,34 +68,51 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available.
+Currently no relevant literature is available for the top prediction. The only publication retrieved across the candidate list was for pancreatic agenesis, and it is not relevant evidence:
+
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [12720536](https://pubmed.ncbi.nlm.nih.gov/12720536/) | 2003 | Review / diagnostic imaging | European Journal of Endocrinology | Pitfalls in endosonographic imaging of suspected insulinomas; does not address glimepiride or pancreatic agenesis therapy |
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA202112 | Glimepiride | Tablet | A-S Medication Solutions |
-| ANDA077091 | Glimepiride | Tablet | Dr. Reddy's Laboratories Limited; NuCare Pharmaceuticals, Inc. |
-| ANDA202759 | Glimepiride | Tablet | Aurobindo Pharma Limited |
+| ANDA202112 | Glimepiride (A-S Medication Solutions) | Tablet | Not available; status cancelled |
+| ANDA077091 | Glimepiride (Dr. Reddy's Laboratories) | Tablet | Not available; status cancelled |
+| ANDA202759 | Glimepiride (Aurobindo Pharma) | Tablet | Not available; status cancelled |
+| ANDA077911 | Glimepiride (Carlsbad Technology) | Tablet | Not available; status cancelled |
+| ANDA078181 | Glimepiride (Proficient Rx) | Tablet | Not available; status cancelled |
 
-The pack lists 20 licenses in total, and the table shows only the 5 records provided (one duplicate merged). All products are oral tablets.
+A sixth license (ANDA091220, Micro Labs Limited) is also cancelled. All six licenses are single-ingredient oral tablets, and none is currently valid.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Drug Interactions**: 100 interactions were identified. Most listed ones are Moderate, including:
+  - Beta-agonists and sympathomimetics: phenylephrine, pseudoephedrine, epinephrine, salbutamol, formoterol
+  - Beta-blocker: acebutolol
+  - Acid reducers: famotidine, ranitidine
+  - NSAIDs: ibuprofen, ketorolac
+  - Corticosteroid: hydrocortisone
+  - Others: acetazolamide, acitretin, ethinylestradiol, albiglutide, hydrochlorothiazide, nitazoxanide, ethanol
+
+  Topical hydrocortisone and topical alclometasone are Minor.
+- **Disease associations flagged in the knowledge graph (not label text)**: kidney disease, liver disease, gallbladder disease, congestive heart failure, pituitary hormone deficiencies, hypogonadotropic hypogonadism, osteoporosis, and infectious disease, among others. These come from graph edges and should be verified against the package insert.
+
+Please refer to the package insert for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trials, no literature and no plausible mechanism. It appears to come from graph proximity through diabetes and GAD autoimmunity. Evidence is at the model-prediction-only level (L5).
+The prediction is computational only (L5), with no clinical trials or relevant literature. No plausible mechanism links glimepiride to stiff person syndrome, and the high score likely reflects diabetes-related graph proximity. In addition, all US licenses for glimepiride are cancelled.
 
 **To proceed, the following is needed:**
-- Mechanism of action data from DrugBank, and an assessment of any link to GABAergic or GAD65-mediated pathology
-- The FDA package insert (warnings and contraindications), which is required for safety screening
-- A targeted literature search for glimepiride or sulfonylureas in stiff person syndrome
-- A check of the model output for an artifact caused by the diabetes and GAD-autoimmunity association
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism of action data
+- Evidence from preclinical or clinical studies on glimepiride in stiff person syndrome, or a clear mechanistic hypothesis connecting KATP channel inhibition or insulin signaling to GABAergic dysfunction
+- Confirmation of current US market and licensing status
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

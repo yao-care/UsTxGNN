@@ -29,81 +29,72 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Sorbitol: From Osmotic Laxative and Irrigant Use to Exercise-Induced Malignant Hyperthermia
+# Sorbitol: From an Osmotic Agent and Excipient to Exercise-Induced Malignant Hyperthermia
 
 ## One-Sentence Summary
 
-Sorbitol is a sugar alcohol (polyol) marketed in the US as a bladder irrigation solution, an oral solution and a dental product ingredient. The TxGNN model predicts it may be effective for **exercise-induced malignant hyperthermia**, but there are currently **0 clinical trials** and **0 publications** supporting this direction. The high score most likely reflects knowledge-graph proximity, not a therapeutic effect.
-
----
+Sorbitol is a sugar alcohol used as an osmotic agent, sweetener and excipient, and no approved indication is recorded in the US regulatory data compiled for this report.
+The TxGNN model predicts it may be relevant to **exercise-induced malignant hyperthermia**, but **0 clinical trials** and **0 publications** currently support this direction.
+The prediction is a computational hypothesis only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not specified in the US license records (all approved indication text is blank) |
+| Original Indication | Not recorded (approved indication text is empty in all licenses) |
 | Predicted New Indication | Exercise-induced malignant hyperthermia |
-| TxGNN Prediction Score | 99.40% (model rank 13,663) |
+| TxGNN Prediction Score | 99.40% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 3 license records (only one has an NDA number) |
+| US Market Status | Cancelled only |
+| Number of NDAs | 3 (all cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for sorbitol. It is a polyol used as an osmotic laxative, sweetener and pharmaceutical excipient. Its use in a bladder irrigant is consistent with an osmotic, non-metabolized solute role. No efficacy in any disease resembling the predicted indication has been documented in the data provided.
+Currently, detailed mechanism of action data is not available. Sorbitol is known as a sugar alcohol used as an osmotic agent, sweetener and excipient. No therapeutic mechanism relevant to the predicted indication is documented in the data compiled for this report.
 
-Malignant hyperthermia is a pharmacogenetic disorder of skeletal muscle calcium handling, typically involving RYR1 or CACNA1S variants. The standard treatment is dantrolene. Nothing in sorbitol's known pharmacology connects it to this pathway.
+Malignant hyperthermia and exertional heat illness involve dysregulated calcium release in skeletal muscle (for example through RYR1) and hypermetabolism. No plausible pharmacological connection between sorbitol and these pathways is evident from the available information.
 
-**No credible mechanistic link is established.** The score of 0.994 most likely reflects proximity in the knowledge graph, such as shared carbohydrate-metabolism neighbors or excipient-related associations. It is not evidence of benefit. Any hypothesis, such as an osmotic or metabolic effect on muscle, would be speculative and unsupported by the provided data.
-
----
+The high score (0.994) most likely reflects network proximity or shared neighbors in the knowledge graph rather than a biological rationale. The prediction should be treated as a hypothesis to examine, not as supporting evidence.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
-
----
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA017863 | Sorbitol (Baxter Healthcare Corporation) | Irrigant | Not specified in record |
-| M007 | GeriCare Sorbitol Solution (Geri-Care Pharmaceuticals, Corp) | Liquid | Not specified in record |
-| Not available | Plaque identifying (Shenzhen Yagao Technology Co., Ltd.) | Powder, dentifrice | Not specified in record |
-
----
+| NDA017863 | Sorbitol (Baxter Healthcare Corporation) | Irrigant | Not recorded (status: cancelled) |
+| M007 | GeriCare Sorbitol Solution (GERI-CARE Pharmaceuticals) | Liquid | Not recorded (status: cancelled) |
+| nan | Plaque identifying (Shenzhen Yagao Technology Co., Ltd.) | Powder, dentifrice | Not recorded (status: cancelled) |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug-interaction records were found for sorbitol in the queried data.
+- **Disease-level contraindication signal (knowledge graph, not label text)**: active peptic ulcer disease.
+- **Drug Interactions** (2 found):
+  - Tolevamer: **Major**
+  - Lamivudine: Moderate
 
----
+Package insert warnings and contraindications were not available for this report. Please refer to the package insert for complete safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score, with no clinical trials, no literature and no plausible mechanism. Sorbitol is not known to act on muscle calcium regulation, and an established treatment (dantrolene) already exists. This is most likely a knowledge-graph artifact.
+The prediction rests only on a knowledge-graph score, with no clinical trials, no literature, no documented mechanism, and no plausible pharmacological link to the proposed indication. All US authorizations are cancelled, and package insert safety data are missing.
 
 **To proceed, the following is needed:**
-- Mechanism of action data for sorbitol, and a testable hypothesis linking it to malignant hyperthermia pathophysiology
-- Preclinical evidence (for example, a muscle contracture test or RYR1 model) showing any effect
-- FDA package insert warnings and contraindications, which are required before any safety screening
-- Approved indication text for the listed products, to confirm the original indication
-- A route-compatibility assessment, since the marketed forms (irrigant, oral liquid, dentifrice) do not match a plausible treatment route for this condition
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
+- Mechanism of action data for sorbitol, and a justification of any link to calcium-release dysregulation in skeletal muscle
+- Preclinical or mechanistic studies supporting the prediction
+- FDA package insert warnings and contraindications
+- Route and formulation compatibility assessment for the proposed indication
+- Review of the Major interaction with tolevamer and the peptic ulcer contraindication signal
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

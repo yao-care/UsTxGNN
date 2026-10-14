@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Oxaliplatin
-parent: Model Prediction Only (L5)
+parent: High Evidence (L1-L2)
 nav_order: 999
-evidence_level: L5
+evidence_level: L2
 indication_count: 4
 ---
 
 # Oxaliplatin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **4** 
+Evidence Level: **L2** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,123 +29,99 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Oxaliplatin: From Colorectal Cancer to Malignant Pleural Mesothelioma
+# Oxaliplatin: From Metastatic Colon Cancer to Malignant Pleural Mesothelioma
 
 ## One-Sentence Summary
 
-Oxaliplatin is a platinum-based chemotherapy drug, best known for treating colorectal cancer. The source label data did not include an indication text, so that original use comes from the literature (PMID 10936465) and general knowledge. The TxGNN model predicts it may be effective for **malignant pleural mesothelioma**. Support is **2 directly relevant clinical trials** (Phase 2, small, single-arm or unknown status) and about **20 publications**, which include several Phase 2 studies with mixed results.
-
----
+Oxaliplatin is a platinum-based chemotherapy drug, originally used to treat metastatic colon cancer.
+The TxGNN model predicts it may be effective for **Malignant Pleural Mesothelioma**,
+with **3 clinical trials** (2 directly relevant Phase 2 studies) and **20 publications** currently supporting this direction. The evidence is limited to small, non-randomized Phase 2 studies.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Colorectal cancer (not stated in the U.S. license data, which has no indication text; taken from PMID 10936465) |
+| Original Indication | Metastasis from malignant tumor of colon (from the knowledge graph; no approved indication text is available in the US license records) |
 | Predicted New Indication | Malignant pleural mesothelioma |
 | TxGNN Prediction Score | 99.68% |
-| Evidence Level | L2 (as assigned in the pack; the Phase 2 studies are single-arm, not randomized, so this is at the low end) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (the listed licenses are ANDAs, i.e. generics) |
-| Recommended Decision | Hold |
-
----
+| Evidence Level | L2 |
+| US Market Status | Cancelled only (all 9 licenses cancelled) |
+| Number of NDAs | 9 (all are ANDA generic applications) |
+| Recommended Decision | Hold (research question) |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the source data. Oxaliplatin is a DNA-crosslinking platinum agent (a third-generation cisplatin analogue, per PMID 10936465). Platinum cytotoxicity is already the backbone of mesothelioma chemotherapy. The current standard first-line regimen is pemetrexed plus a platinum compound, as described in PMID 26526504.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, oxaliplatin is a third-generation platinum compound that forms DNA crosslinks (adducts), which block DNA replication and trigger apoptosis. It has proven efficacy in colorectal cancer, particularly with 5-FU.
 
-Colorectal cancer and pleural mesothelioma are different diseases. The link is the drug class rather than shared biology. Phase 2 studies combined oxaliplatin with gemcitabine, raltitrexed or vinorelbine in mesothelioma, and an in vitro study (PMID 25028262) suggests platinum agents can be potentiated in pleural mesothelioma cells.
+Platinum compounds such as cisplatin and carboplatin are already the backbone of mesothelioma chemotherapy, so activity through DNA damage is mechanistically plausible. Oxaliplatin has a different toxicity profile from cisplatin (less nephrotoxicity, but more neurotoxicity), so it could be an alternative where cisplatin is unsuitable. Phase 2 studies have tested it with gemcitabine, raltitrexed, vinorelbine and bortezomib. However, no Phase 3 randomized trial shows it is better than the standard cisplatin/pemetrexed regimen.
 
-The evidence is not uniformly positive. A second-line raltitrexed-oxaliplatin study was closed for lack of objective responses (PMID 15893013). Review articles note that response rates above 30% have rarely been achieved in this disease. The high TxGNN score therefore points to a plausible research question, not proven benefit.
-
----
+Two related predictions (epithelioid and sarcomatoid mesothelioma) and a visceral pleura tumor prediction are supported only by indirect evidence, so they are not the focus of this report.
 
 ## Clinical Trial Evidence
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT00859469](https://clinicaltrials.gov/study/NCT00859469) | Phase 2 | Completed | 29 | Oxaliplatin + gemcitabine as first- or second-line chemotherapy in pleural or peritoneal mesothelioma. Primary question is response rate. Single-arm and small; no results in the pack. |
-| [NCT00996385](https://clinicaltrials.gov/study/NCT00996385) | Phase 2 | Unknown | 29 | Bortezomib (Velcade) + oxaliplatin (Eloxatin) in previously treated pleural or peritoneal mesothelioma. The combination confounds attribution to oxaliplatin. |
-| [NCT03210298](https://clinicaltrials.gov/study/NCT03210298) | N/A | Unknown | 1000 | International PIPAC/PITAC registry for peritoneal and pleural malignancies. Not specific to mesothelioma or oxaliplatin. |
-
-The search also returned three trials that do not evaluate oxaliplatin in mesothelioma: NCT06310473 (esophagogastric cancer), NCT05107674 and NCT07532902 (Phase 1 basket trials). They are omitted from the table.
-
----
+| [NCT00996385](https://clinicaltrials.gov/study/NCT00996385) | Phase 2 | Unknown | 29 | Bortezomib (Velcade) plus oxaliplatin (Eloxatin) in previously treated pleural or peritoneal mesothelioma; open-label, single-arm, up to 6 cycles; results not available |
+| [NCT00859469](https://clinicaltrials.gov/study/NCT00859469) | Phase 2 | Completed | 29 | Oxaliplatin plus gemcitabine as first- or second-line chemotherapy in pleural or peritoneal mesothelioma; primary question is response rate; non-randomized |
+| [NCT07532902](https://clinicaltrials.gov/study/NCT07532902) | Phase 1 | Recruiting | 60 | Basket trial of BMS-986504 with standard-of-care therapy in MTAP-deleted solid tumors; oxaliplatin is only part of the background regimen, so it is indirectly relevant |
 
 ## Literature Evidence
 
-No randomized controlled trials were found. The table lists Phase 2 clinical studies first, then reviews and preclinical work.
-
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [12525529](https://pubmed.ncbi.nlm.nih.gov/12525529/) | 2003 | Phase 2 | J Clin Oncol | Raltitrexed + oxaliplatin in 70 patients (15 pretreated, 55 chemo-naive); the authors describe it as an active regimen. |
-| [14609447](https://pubmed.ncbi.nlm.nih.gov/14609447/) | 2003 | Phase 2 (multicenter) | Clin Lung Cancer | Gemcitabine + oxaliplatin in 25 patients, up to 6 cycles. |
-| [15893013](https://pubmed.ncbi.nlm.nih.gov/15893013/) | 2005 | Phase 2 | Lung Cancer | Second-line raltitrexed-oxaliplatin in 14 patients: no objective responses, stable disease in 4 (28.6%); trial closed. |
-| [15639727](https://pubmed.ncbi.nlm.nih.gov/15639727/) | 2005 | Phase 2 | Lung Cancer | Vinorelbine + oxaliplatin as first-line therapy in untreated patients. |
-| [11989592](https://pubmed.ncbi.nlm.nih.gov/11989592/) | 2001 | Phase 2 pilot | Tumori | Oxaliplatin + raltitrexed in inoperable disease, following an earlier Phase 1 signal of activity. |
-| [19091133](https://pubmed.ncbi.nlm.nih.gov/19091133/) | 2008 | Observational | J Occup Med Toxicol | Oxaliplatin ± gemcitabine in patients pretreated with pemetrexed. |
-| [10930799](https://pubmed.ncbi.nlm.nih.gov/10930799/) | 2000 | Institutional review | Eur J Cancer | Gustave Roussy experience in 163 patients across seven trials, including raltitrexed-oxaliplatin. |
-| [12610498](https://pubmed.ncbi.nlm.nih.gov/12610498/) | 2003 | Review | Br J Cancer | Chemotherapy for mesothelioma; response rates above 30% rarely achieved with established drugs. |
-| [31455014](https://pubmed.ncbi.nlm.nih.gov/31455014/) | 2019 | Review / lab study | Int J Mol Sci | Effect of cisplatin, oxaliplatin and pemetrexed on immune checkpoint expression, relevant to chemo-immunotherapy design. |
-| [25028262](https://pubmed.ncbi.nlm.nih.gov/25028262/) | 2015 | Preclinical (in vitro) | Hum Exp Toxicol | EF24 and RAD001 potentiated platinum agents in MSTO-211H mesothelioma cells. |
-
-Note: PMID 15261443 appears to be a duplicate record of the 2003 review (12610498) and is not counted separately.
-
----
+| [14609447](https://pubmed.ncbi.nlm.nih.gov/14609447/) | 2003 | Phase II trial | Clin Lung Cancer | Multicenter study of gemcitabine plus oxaliplatin in 25 patients with malignant pleural mesothelioma |
+| [12525529](https://pubmed.ncbi.nlm.nih.gov/12525529/) | 2003 | Phase II trial | J Clin Oncol | Raltitrexed plus oxaliplatin in 70 patients (15 pretreated, 55 chemotherapy-naive); described as an active regimen |
+| [15639727](https://pubmed.ncbi.nlm.nih.gov/15639727/) | 2005 | Phase II trial | Lung Cancer | Vinorelbine plus oxaliplatin as first-line therapy in untreated mesothelioma |
+| [11989592](https://pubmed.ncbi.nlm.nih.gov/11989592/) | 2001 | Phase II pilot | Tumori | Oxaliplatin plus raltitrexed in inoperable mesothelioma |
+| [19091133](https://pubmed.ncbi.nlm.nih.gov/19091133/) | 2008 | Observational study | J Occup Med Toxicol | Oxaliplatin with or without gemcitabine in patients pretreated with pemetrexed |
+| [15893013](https://pubmed.ncbi.nlm.nih.gov/15893013/) | 2005 | Phase II trial | Lung Cancer | Raltitrexed plus oxaliplatin as second-line therapy was inactive: no objective responses in 14 patients, and the trial was closed |
+| [12610498](https://pubmed.ncbi.nlm.nih.gov/12610498/) | 2003 | Review | Br J Cancer | Review of chemotherapy for malignant pleural mesothelioma; response rates above 30% rarely achieved with older cytotoxic drugs |
+| [11836672](https://pubmed.ncbi.nlm.nih.gov/11836672/) | 2002 | Review | Semin Oncol | Antifolate-based regimens, including raltitrexed/oxaliplatin, in mesothelioma |
+| [10930799](https://pubmed.ncbi.nlm.nih.gov/10930799/) | 2000 | Review of trials | Eur J Cancer | Institut Gustave Roussy experience in 163 mesothelioma patients, including raltitrexed-oxaliplatin |
+| [31455014](https://pubmed.ncbi.nlm.nih.gov/31455014/) | 2019 | Review/preclinical | Int J Mol Sci | Effect of cisplatin, oxaliplatin and pemetrexed on immune checkpoint expression in mesothelioma; supports combination with immunotherapy |
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+All 9 US licenses are ANDA generic applications, and all are cancelled. Approved indication text is not available in the license records.
+
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
-| ANDA207325 | Oxaliplatin (Gland Pharma Limited) | Injection, solution | — |
-| ANDA078817 | Oxaliplatin (Sandoz Inc) | Injection, solution | — |
-| ANDA204368 | Oxaliplatin (BluePoint Laboratories) | Injection, solution | — |
-| ANDA091358 | Oxaliplatin (Mylan Institutional LLC) | Injection, solution | — |
-
-All 20 licenses are injectables (solution, lyophilized powder, and concentrate). The source data contains no approved indication text.
-
----
+| ANDA207325 | Oxaliplatin | Injection, solution | Gland Pharma Limited |
+| ANDA078817 | Oxaliplatin | Injection, solution | Sandoz Inc |
+| ANDA204368 | Oxaliplatin | Injection, solution | BluePoint Laboratories |
+| ANDA091358 | Oxaliplatin | Injection, solution | Mylan Institutional LLC |
+| ANDA217348 | Oxaliplatin | Injection, solution | Meitheal Pharmaceuticals Inc. |
 
 ## Cytotoxicity
 
-This section is based on general knowledge of the platinum class, not on data in the pack.
-
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (platinum, DNA-crosslinking) |
-| Myelosuppression Risk | Medium (neutropenia and thrombocytopenia are expected with platinum combinations) |
-| Emetogenicity Classification | Medium |
-| Monitoring Items | CBC with differential, liver and renal function, electrolytes, and neurological assessment (peripheral neuropathy is a recognized class concern) |
-| Handling Protection | Follow cytotoxic drug handling regulations |
-
-Please refer to the package insert warnings and precautions for authoritative details.
-
----
+| Cytotoxicity Classification | Conventional cytotoxic (platinum class) |
+| Myelosuppression Risk | Please refer to the package insert warnings and precautions |
+| Emetogenicity Classification | Please refer to the package insert warnings and precautions |
+| Monitoring Items | CBC with differential, liver and renal function; neurological assessment for peripheral neuropathy |
+| Handling Protection | Must follow cytotoxic drug handling regulations |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Disease-related cautions (from the knowledge graph, not label text)**: kidney disease, liver disease, gallbladder disease, peripheral nervous system disease and peripheral neuropathy, interstitial lung disease, and pulmonary fibrosis. Peripheral neuropathy is consistent with the known neurotoxicity noted above.
+- **Drug Interactions**: 100 interactions were identified. Among the listed examples, **dolasetron** is rated Major. Moderate interactions include famotidine, amphotericin B, loperamide, mesalazine, balsalazide, bisacodyl, metronidazole, clarithromycin, vancomycin, kanamycin, levofloxacin, palonosetron, naltrexone, and several laxatives or bowel-preparation agents (lactulose, lactitol, sodium sulfate, polyethylene glycol, picosulfuric acid).
 
----
+Please refer to the package insert for official warnings and contraindications.
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Hold (research question)**
 
 **Rationale:**
-Phase 2 studies show some activity for oxaliplatin combinations in mesothelioma, but they are small and single-arm. At least one second-line study was negative, and there is no randomized comparison against the standard pemetrexed-platinum regimen. Package insert safety data is missing, which blocks safety screening.
+Several Phase 2 studies show oxaliplatin-based combinations have some activity in pleural mesothelioma, but they are small and non-randomized. One second-line study found no objective responses. No Phase 3 trial shows an advantage over standard cisplatin/pemetrexed. Also, all US oxaliplatin licenses are cancelled, which complicates any near-term development path.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (download and parse the FDA label)
-- Mechanism-of-action data from DrugBank
-- Confirmation of the approved indication text, which is empty in the current license records
-- Full-text review of the Phase 2 studies (response rate, survival, toxicity) and results from NCT00859469
-- Comparison against the pemetrexed-platinum standard, ideally in a randomized design
-
-Other predicted indications are weaker. Malignant epithelioid mesothelioma (score 99.49%) rests mainly on peritoneal HIPEC/PIPAC data. Sarcomatoid mesothelioma and malignant visceral pleura tumor are both on Hold with L4 evidence.
-
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any use.*
+- Package insert warnings and contraindications, which are currently missing and block safety screening
+- Detailed mechanism of action data
+- Results from the completed Phase 2 trial (NCT00859469) and a comparison against cisplatin/pemetrexed, ideally in a randomized trial
+- Clarification of current US regulatory status and the availability of marketed oxaliplatin products
+- Subtype-specific data (epithelioid vs. sarcomatoid) before pursuing the related predictions
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

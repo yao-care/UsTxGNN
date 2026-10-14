@@ -29,30 +29,35 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Vancomycin: From Gram-Positive Bacterial Infections to Diffuse Scleroderma
+# Vancomycin: From Clostridium difficile Colitis to Diffuse Scleroderma
 
 ## One-Sentence Summary
 
-Vancomycin is a glycopeptide antibiotic used against serious Gram-positive bacterial infections. The Evidence Pack does not list its approved indication text, so this is based on the drug class.
-The TxGNN model predicts it may be effective for **diffuse scleroderma**, but there are **0 clinical trials** and **1 unrelated case report** behind this prediction. It is most likely a knowledge-graph artifact.
+Vancomycin is a glycopeptide antibiotic originally used for Gram-positive infections such as *Clostridium difficile* colitis, staphylococcal infections and endocarditis.
+The TxGNN model predicts it may be effective for **Diffuse Scleroderma**, but there are **0 clinical trials** and only **1 publication** (an unrelated case report), so the prediction is **not supported by any direct evidence**.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the source data (vancomycin is a Gram-positive antibacterial) |
-| Predicted New Indication | Diffuse scleroderma |
+| Original Indication | Clostridium difficile colitis (other listed uses: staphylococcal infection, endocarditis, bacterial arthritis, staphylococcal pneumonia) |
+| Predicted New Indication | Diffuse Scleroderma |
 | TxGNN Prediction Score | 99.92% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 |
+| US Market Status | Cancelled only (all 13 authorizations cancelled) |
+| Number of NDAs | 13 (all single-ingredient, 0 currently valid) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-It probably is not. Detailed mechanism of action data is not available in the source data. Vancomycin is known to inhibit bacterial cell wall synthesis. It has no known anti-fibrotic or immunomodulatory action relevant to systemic sclerosis (diffuse scleroderma), which is a fibrotic autoimmune disease.
+Currently, detailed mechanism of action data is not available. Vancomycin is known to be a glycopeptide antibiotic that inhibits cell wall synthesis in Gram-positive bacteria, and its efficacy in Gram-positive infections is well established.
 
-The source data lists no original indication, so the relationship between the original and new indication could not be cross-checked. The score of 0.999 is high, but the single retrieved paper is a case report of sepsis with erythroderma, not a scleroderma study. The score is therefore most likely a graph-topology artifact, not a biological signal.
+That mechanism does not plausibly link to diffuse scleroderma, which is an autoimmune fibrotic disease and not a bacterial infection. The high TxGNN score is most likely an artifact of the knowledge graph rather than a real biological signal. The single retrieved paper is a case report on erythroderma with sepsis and eosinophilia, and it does not show any benefit in scleroderma.
+
+**Other predictions worth noting.** Most of the other top-ranked predictions also lack a mechanistic basis:
+- **Paratyphoid fever, salmonellosis and typhoid fever:** these are caused by Gram-negative *Salmonella*, which vancomycin cannot penetrate because of the outer membrane, so it is intrinsically inactive.
+- **Congenital analbuminemia, hyperamylasemia, polyclonal hyperviscosity syndrome, blood group incompatibility and premalignant hematological system disease:** no mechanistic rationale and little or no literature.
+- **Streptococcal pneumonia (rank 9)** is the only biologically plausible prediction. Vancomycin is active against *Streptococcus pneumoniae*, including penicillin-resistant strains. It was rated L4 and flagged as a research question. However, this is closer to label or guideline positioning than to novel repurposing, and the supporting literature consists of indirect reviews and resistance surveillance.
 
 ## Clinical Trial Evidence
 
@@ -62,37 +67,54 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [31541072](https://pubmed.ncbi.nlm.nih.gov/31541072/) | 2019 | Case report | The American Journal of Case Reports | A 56-year-old man with a diffuse exfoliative rash, sepsis and eosinophilia, evaluated for erythroderma. It is not a scleroderma study and shows no vancomycin benefit for scleroderma. |
+| [31541072](https://pubmed.ncbi.nlm.nih.gov/31541072/) | 2019 | Case report | The American Journal of Case Reports | Diffuse exfoliative rash with sepsis and eosinophilia in a 56-year-old man, a possible erythroderma. It does not address vancomycin efficacy in scleroderma. |
 
 ## US Market Information
 
-The source data gives no approved-indication text for these products.
+All 13 authorizations are listed as cancelled, and none has approved indication text on record. The five below are representative.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA204360 | Vancomycin Hydrochloride | Injection, powder, for solution | Hikma Pharmaceuticals USA Inc. |
-| ANDA204125 | Vancomycin Hydrochloride | Injection, powder, lyophilized, for solution | BluePoint Laboratories |
-| ANDA206616 | Vancomycin Hydrochloride | Injection, powder, lyophilized, for solution | Hikma Pharmaceuticals USA Inc. |
-| NDA050606 | Vancomycin Hydrochloride | Capsule | ANI Pharmaceuticals, Inc. |
-| NDA211962 | Vancomycin | Injection, solution | Xellia Pharmaceuticals USA LLC |
+| NDA050606 | Vancomycin hydrochloride (ANI Pharmaceuticals) | Capsule | Not available (cancelled) |
+| NDA211962 | Vancomycin (Xellia) | Injection, solution | Not available (cancelled) |
+| NDA210274 | Vancomycin hydrochloride (Hikma) | Injection, powder, for solution | Not available (cancelled) |
+| NDA209481 | Vancomycin hydrochloride (Mylan Institutional) | Injection, powder, lyophilized, for solution | Not available (cancelled) |
+| NDA050671 | Vancomycin hydrochloride (Baxter) | Injection, solution | Not available (cancelled) |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information.
+- **Disease-level contraindication signals (knowledge graph, not label text):** kidney disease, pyoureter, neutropenia, agranulocytosis, hearing disorder and auditory system disease.
+- **Drug interactions:** 100 interactions were found. The listed Major-level interactions are:
+  - Human immunoglobulin G (intravenous)
+  - Human botulinum neurotoxin A/B immune globulin
+  - Vibrio cholerae CVD 103-HgR live vaccine
+
+  Moderate-level interactions include:
+  - NSAIDs (ketorolac, ibuprofen, celecoxib, diclofenac)
+  - Nephrotoxic or ototoxic agents (amphotericin B, amikacin, capreomycin, carboplatin, bacitracin)
+  - Metformin
+  - Estrogens (estradiol, ethinylestradiol)
+  - Mesalazine
+  - Balsalazide
+  - Ibandronate
+  - Cholestyramine
+
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-There is no plausible mechanism, no trials and no relevant literature for diffuse scleroderma. The prediction is model-only (L5) and likely an artifact.
-
-Among the other predictions in the pack, only streptococcal pneumonia (L4, S1) has a biologically plausible rationale. It is probably an existing use of vancomycin, not true repurposing, so it needs a label and guideline cross-check.
+There is no mechanistic link, no clinical trial and no relevant literature supporting vancomycin in diffuse scleroderma, so the prediction is probably a knowledge-graph artifact. All 13 US authorizations are cancelled, so product availability would also need to be checked.
 
 **To proceed, the following is needed:**
-- The FDA package insert warnings and contraindications (blocking gap for safety screening)
-- Mechanism of action data and the original indication list from DrugBank
-- Any preclinical or clinical signal for vancomycin in scleroderma, otherwise deprioritize this candidate
+- Do not pursue diffuse scleroderma without new mechanistic or preclinical evidence.
+- If a repurposing question is worth pursuing, evaluate streptococcal pneumonia (rank 9) as a label or guideline-positioning question rather than as a new indication.
+- Obtain the FDA package insert warnings and contraindications, which are currently missing and block safety screening.
+- Obtain detailed mechanism of action data from DrugBank.
+- Confirm the current US availability and labeling of vancomycin products.
+- Review renal, auditory and hematologic safety for any planned use, given the knowledge-graph contraindication signals.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

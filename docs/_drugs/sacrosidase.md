@@ -33,75 +33,64 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 ## One-Sentence Summary
 
-Sacrosidase is an oral enzyme replacement (marketed in the US as Sucraid) that replaces the sucrase-isomaltase enzyme missing in the gut. The TxGNN model predicts it may be effective for **cystinosis**, with a very high score. However, **0 clinical trials** and **0 publications** currently support this prediction, so it rests on the model output alone.
-
----
+Sacrosidase is an orally administered yeast-derived sucrase enzyme, originally used to treat congenital sucrase-isomaltase deficiency.
+The TxGNN model predicts it may be effective for **Cystinosis**,
+but currently there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on computation alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the Evidence Pack's license record (Sucraid is generally known for congenital sucrase-isomaltase deficiency, which should be confirmed against the label) |
+| Original Indication | Congenital sucrase-isomaltase deficiency |
 | Predicted New Indication | Cystinosis |
 | TxGNN Prediction Score | 99.44% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 1 (BLA020772) |
+| US Market Status | Cancelled only |
+| Number of NDAs | 1 (BLA 020772, cancelled) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the Evidence Pack. Sacrosidase is an orally administered sucrase-isomaltase replacement. It acts in the intestinal lumen to break down dietary sucrose and is not meaningfully absorbed into the bloodstream.
+Currently, detailed mechanism of action data is not available. Based on known information, sacrosidase is an oral enzyme replacement that hydrolyzes dietary sucrose in the gastrointestinal lumen and is not systemically absorbed. Its efficacy in congenital sucrase-isomaltase deficiency rests on this local digestive action.
 
-The review found **no credible mechanistic link** to cystinosis. Cystinosis is a lysosomal storage disorder caused by a deficiency of the cystinosin (CTNS) transporter, which leads to cystine build-up inside cells. Sacrosidase has no known effect on cystine transport or lysosomal function. It also does not reach the tissues where the disease occurs.
+Cystinosis is a lysosomal storage disorder caused by CTNS mutations. These impair the cystinosin transporter and lead to cystine accumulation inside lysosomes. The standard of care is cysteamine, which depletes cystine. A luminal digestive enzyme has no plausible effect on lysosomal cystine transport, so **no credible mechanistic link was identified**.
 
-The high score (0.994) is a graph-based prediction only. Both predicted indications are rare inherited metabolic diseases, so the score may reflect a shared "enzyme/metabolic" pattern in the knowledge graph rather than a real biological connection.
+The high score (0.994) is most likely explained by both conditions sitting in a similar "inherited metabolic disorder" neighborhood of the knowledge graph, not by a true biological relationship. It should be treated as a computational hypothesis only.
 
-The second-ranked prediction, familial apolipoprotein C-II deficiency (score 99.05%), has the same problem. That disease is a cause of severe hypertriglyceridemia, caused by loss of the lipoprotein lipase cofactor apoC-II. Sacrosidase has no known interaction with lipoprotein metabolism. It also has no trials or literature.
-
----
+*Another prediction from the same analysis:* familial apolipoprotein C-II deficiency (score 99.05%) also lacks any mechanistic link, clinical trials or literature. It involves a defect in lipoprotein lipase activation, which a gut-luminal sucrase does not influence.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
-
----
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA020772 | Sucraid (QOL Medical, LLC) | Solution | Not stated in the record |
-
----
+| BLA 020772 | Sucraid (QOL Medical, LLC) | Solution | Status: cancelled |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No drug interaction records were found.
+Please refer to the package insert for safety information.
 
----
+No drug-drug interaction records were found in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical or literature support (L5). Sacrosidase acts only in the gut and has no plausible connection to cystine transport or lysosomal function. The high TxGNN score is likely a knowledge-graph artifact, and there is no basis to advance this candidate.
+The prediction has no clinical trial or literature support (L5), and no plausible mechanism links a non-absorbed gut enzyme to lysosomal cystine transport. The only US license is cancelled, so there is also no commercial basis for development.
 
 **To proceed, the following is needed:**
-- The FDA package insert (warnings, contraindications, approved indication), which is a blocking gap for safety screening
-- Mechanism of action data from DrugBank
-- Any preclinical or mechanistic evidence that sacrosidase affects cystine handling or lysosomal function
-- Evidence that an oral, gut-restricted enzyme could reach the relevant tissues, or a different route of administration
-- Any published or registered studies in cystinosis
+- Mechanism of action data (e.g., from DrugBank) to allow a proper mechanistic assessment
+- Package insert warnings and contraindications from the FDA, which are required before any safety screening
+- Preclinical evidence of any systemic or lysosomal effect of sacrosidase relevant to cystinosis
+- Clarification of the regulatory and supply status, given that the only US license is cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

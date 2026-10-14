@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Iloprost
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 790
-evidence_level: L5
+evidence_level: L3
 indication_count: 9
 ---
 
 # Iloprost
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **9** 
+Evidence Level: **L3** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,31 +29,35 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-# Iloprost: From an Unspecified Original Indication to Hypotrichosis Simplex of the Scalp
+# Iloprost: From Pulmonary Arterial Hypertension to PAH Associated with Congenital Heart Disease
 
 ## One-Sentence Summary
 
-Iloprost is a prostacyclin (IP receptor) agonist marketed in the US as an injection (AURLUMYN), but the record lists no approved indication text.
-The TxGNN model predicts it may be effective for **hypotrichosis simplex of the scalp**, a monogenic hair disorder.
-This prediction has **no clinical trials and no publications** behind it, so it rests on the model score alone.
+Iloprost is a prostacyclin analog originally used to treat pulmonary arterial hypertension (PAH).
+The TxGNN model predicts it may be effective for **pulmonary arterial hypertension associated with congenital heart disease**,
+with **no registered clinical trials** but **20 publications** (mostly observational studies, case series, and reviews) currently supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the record |
-| Predicted New Indication | Hypotrichosis simplex of the scalp |
-| TxGNN Prediction Score | 99.45% |
-| Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
+| Original Indication | Pulmonary arterial hypertension |
+| Predicted New Indication | Pulmonary arterial hypertension associated with congenital heart disease |
+| TxGNN Prediction Score | 99.32% |
+| Evidence Level | L3 |
+| US Market Status | Cancelled only |
 | Number of NDAs | 1 |
-| Recommended Decision | Hold |
+| Recommended Decision | Proceed with Guardrails |
+
+*Note: The top-ranked TxGNN predictions (hypotrichosis simplex of the scalp, 99.45%, and congenital hypotrichosis milia, 99.33%) have no supporting clinical or literature evidence and are likely graph-proximity artifacts. This report focuses on the highest-ranked prediction with meaningful supporting evidence (rank 3).*
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the record. Iloprost is a prostacyclin analog that acts as an IP receptor agonist. Prostacyclin analogs cause vasodilation and inhibit platelet aggregation. Other prostaglandin analogs are known to affect hair growth, which is the only plausible link to a hair indication.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, iloprost is a prostacyclin (IP receptor) analog that causes pulmonary vasodilation and inhibits platelet aggregation and vascular smooth muscle proliferation. Its efficacy in PAH is established, which is the original indication.
 
-Hypotrichosis simplex of the scalp is a monogenic hair disorder. A vasodilator mechanism is unlikely to correct a genetic defect, and no data support a hair-growth benefit from iloprost. The high score (99.45%) probably reflects shared hair-phenotype neighbors in the knowledge graph rather than a real pharmacological relationship.
+PAH associated with congenital heart disease (CHD-PAH) is a recognized subgroup of PAH. It shares the same pulmonary vascular pathology (vasoconstriction, remodeling, and proliferation), so the mechanistic link to the original indication is direct. Published studies have examined inhaled iloprost in children and adults with CHD-PAH, including patients with Eisenmenger syndrome.
+
+The evidence is mostly observational or small-scale, so the extrapolation is plausible but not confirmed by randomized trials. Shunt physiology in congenital heart disease needs particular attention.
 
 ## Clinical Trial Evidence
 
@@ -61,39 +65,59 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available.
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [31371115](https://pubmed.ncbi.nlm.nih.gov/31371115/) | 2020 | Randomized, placebo-controlled, double-blind cross-over pilot | Int J Cardiol | Nebulised iloprost in Eisenmenger syndrome (the most severe form of CHD-PAH); single-centre pilot study |
+| [28608969](https://pubmed.ncbi.nlm.nih.gov/28608969/) | 2017 | Cohort | Clin Exp Pharmacol Physiol | Effect of iloprost on endothelial-dysfunction biomarkers (NO, ET-1, ADMA, Gal-3, BNP, UA) in CHD-PAH |
+| [29426959](https://pubmed.ncbi.nlm.nih.gov/29426959/) | 2018 | Cohort | Pediatr Cardiol | Safety and acute haemodynamic effects of inhaled iloprost in children with PAH and simple congenital heart defects |
+| [27492657](https://pubmed.ncbi.nlm.nih.gov/27492657/) | 2017 | Cohort | J Cardiol | Effect of long-term inhaled iloprost on right ventricular function in Eisenmenger syndrome |
+| [24729548](https://pubmed.ncbi.nlm.nih.gov/24729548/) | 2015 | Cohort (retrospective) | Pediatr Pulmonol | Long-term effects of inhaled iloprost in children with pulmonary hypertension |
+| [36010107](https://pubmed.ncbi.nlm.nih.gov/36010107/) | 2022 | Case series | Children (Basel) | Add-on combination of sildenafil, bosentan, and iloprost in 5 patients with Eisenmenger syndrome |
+| [30719004](https://pubmed.ncbi.nlm.nih.gov/30719004/) | 2018 | Prospective study | Front Pharmacol | Acute inhaled iloprost improved right ventricle function in 69 PAH patients (cardiac MRI) |
+| [19436672](https://pubmed.ncbi.nlm.nih.gov/19436672/) | 2009 | Review | Vasc Health Risk Manag | Review of inhaled iloprost for PAH in children |
+| [18260882](https://pubmed.ncbi.nlm.nih.gov/18260882/) | 2007 | Review | Kardiologiia | Controlled trials of prostacyclin and analogues in PAH, including PAH associated with congenital heart disease |
+| [22621693](https://pubmed.ncbi.nlm.nih.gov/22621693/) | 2012 | Review | Drugs | Treatment of PAH in connective tissue disease, including discussion of associated PAH subgroups |
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA217933 | AURLUMYN (BTG International Inc) | Injection, solution | Not stated in the record |
+| NDA217933 (cancelled) | AURLUMYN | Injection, solution | Not available |
 
 ## Safety Considerations
 
-- **Drug Interactions**: The interaction query returned no records.
+- **Disease associations flagged in the knowledge graph (not label text)**: liver failure, chronic obstructive pulmonary disease, severe early-onset COPD, hypotensive disorder, pulmonary edema, and bronchial disease.
+- **Drug Interactions**: 100 interactions were identified in total. The main moderate-level ones include:
+  - Epinephrine, ephedrine, and ephedrine (nasal)
+  - Acetylsalicylic acid
+  - SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin)
+  - Inhaled rapid-acting insulin
+  - Mannitol and glycerin
+  - Papaverine
+  - Fenfluramine, dexfenfluramine, and sibutramine
 
-Please refer to the package insert for other safety information.
+For label-based warnings and contraindications, please refer to the package insert.
 
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Proceed with Guardrails**
 
 **Rationale:**
-This prediction is model output only (L5), with no trials or literature. The mechanism is implausible for a monogenic hair disorder, and the FDA label warnings and contraindications are missing from the record.
-
-Lower-ranked predictions in the same pack have more support, so they may be better candidates to pursue:
-- **PAH associated with congenital heart disease** (L3, Proceed with Guardrails): one N/A-phase trial (NCT01383083, n=42) plus adult and pediatric cohort studies.
-- **PAH associated with connective tissue disease** (L3, Proceed with Guardrails): observational data, including long-term domiciliary IV iloprost outcomes (PMID 27651181).
-- **PAH associated with HIV infection** (L3, Research Question): NCT00709956 is a completed Phase 3 randomized placebo-controlled trial, but its drug and population are not verifiable from the truncated title.
-
-Because the record lists no original indications, PAH may already be a labeled use. If so, these would not be true repurposing.
+The mechanism is the same as in the approved PAH indication, and several cohort studies, a small randomized cross-over pilot, and case series support use in CHD-PAH. However, there are no registered trials and no Phase 3 RCT evidence, so the evidence level is L3. The only US authorization is cancelled.
 
 **To proceed, the following is needed:**
-- The FDA package insert (approved indication, warnings, contraindications), which currently blocks safety screening
-- Mechanism of action data from DrugBank
-- Verification of the intervention and population in NCT00709956
-- Any genetic or preclinical rationale for iloprost in hypotrichosis, before further work on this indication
+- FDA package insert warnings and contraindications (a blocking gap for safety screening)
+- Detailed mechanism of action data (MOA) from DrugBank
+- Confirmation of a currently marketed US iloprost product, since the only NDA listed is cancelled
+- Patient selection criteria, hemodynamic monitoring, and attention to shunt physiology
+- A prospective controlled study in CHD-PAH, ideally in specialist centers
+
+**Other predictions (not recommended at this stage):**
+- **Connective tissue disease-associated PAH (rank 6, 99.21%)**: L3, Proceed with Guardrails. Supported by long-term intravenous iloprost outcomes (PMID 27651181) and reviews.
+- **PAH associated with schistosomiasis (rank 7) and HIV infection (rank 8)**: L4, Research Question. Only indirect evidence.
+- **PAH associated with chronic hemolytic anemia (rank 5)**: L5, Hold. No direct evidence, and the disease drivers differ.
+- **Pulmonary arteriovenous malformation (rank 4)**: L5, Hold. There is a theoretical safety concern, because vasodilators could worsen right-to-left shunting.
+- **Hair disorders (ranks 1, 2, and 9)**: L5, Hold. Computational prediction only, with no plausible mechanism.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

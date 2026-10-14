@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Mycophenolic Acid
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 947
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Mycophenolic Acid
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,13 +29,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Mycophenolic Acid: From Immunosuppressant Therapy to Hemoglobinopathy
+# Mycophenolic Acid: From Transplant Immunosuppression to Hemoglobinopathy
 
 ## One-Sentence Summary
 
-Mycophenolic acid is an oral immunosuppressant, marketed in the US as a delayed-release tablet.
-The TxGNN model predicts it may be useful for **hemoglobinopathy** (sickle cell disease and thalassemia).
-The evidence is **27 registered clinical trials** and **9 publications**, but these are transplant studies in which mycophenolate is a supporting part of the regimen. They do not show that it treats the disease itself.
+Mycophenolic acid is an immunosuppressant that inhibits inosine monophosphate dehydrogenase (IMPDH), a key enzyme in lymphocyte purine synthesis.
+The TxGNN model predicts it may be effective for **hemoglobinopathy**, but the supporting evidence is thin: **1 clinical trial** (indirect relevance) and **1 publication** (dosing guidance, not efficacy data).
+The prediction is best treated as a research question rather than an actionable repurposing candidate.
 
 ---
 
@@ -43,22 +43,21 @@ The evidence is **27 registered clinical trials** and **9 publications**, but th
 
 | Item | Content |
 |------|------|
+| Original Indication | Not specified in the available US license data |
 | Predicted New Indication | Hemoglobinopathy |
 | TxGNN Prediction Score | 99.60% |
-| Evidence Level | L2 (as scored in the Evidence Pack; effectively weaker, see below) |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 2 listed entries (both under ANDA091248) |
+| Evidence Level | L4 |
+| US Market Status | Cancelled only (no active marketing) |
+| Number of NDAs | 1 (ANDA091248, cancelled) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Mycophenolic acid blocks IMPDH, an enzyme that lymphocytes need to make guanosine nucleotides. Without those nucleotides, T and B cells cannot proliferate, which is why the drug works as an immunosuppressant.
+Detailed mechanism of action data is not available in the compiled data. From the literature, mycophenolic acid (the active form of mycophenolate mofetil) is a selective, reversible inhibitor of IMPDH. This blocks de novo guanosine nucleotide synthesis, which T and B lymphocytes depend on, so it suppresses lymphocyte proliferation.
 
-In hemoglobinopathies such as thalassemia and sickle cell disease, the only curative option is usually allogeneic stem cell transplantation. Mycophenolate is commonly used in these transplants to prevent graft-versus-host disease (GVHD) and to help donor cells engraft. That is the link the model appears to have found.
-
-This is supportive immunosuppression. Mycophenolic acid does not correct the globin or red-cell defect. Most of the 27 trials are transplant regimen studies, and their titles do not show that mycophenolate is the variable being tested. The Phase 1/2 and Phase 2 data therefore suggest the drug can feasibly be used within transplant regimens. They do not show it is effective against the disease. Only 10 of the 27 trials were reviewed here.
+The link to hemoglobinopathy is **indirect**. The drug does not correct the underlying hemoglobin disorder. Its plausible role is in managing transplant-related complications, such as graft-versus-host disease (GVHD) after allogeneic stem cell transplantation for thalassemia or sickle cell disease. A 2025 publication on off-label mycophenolate mofetil dosing in pediatric thalassemia transplant patients suggests this use exists in practice, but it provides dosing guidance rather than evidence of efficacy.
 
 ---
 
@@ -66,53 +65,34 @@ This is supportive immunosuppression. Mycophenolic acid does not correct the glo
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT01279616](https://clinicaltrials.gov/study/NCT01279616) | Phase 2 | Terminated | 8 | Immunosuppressive and myeloablative conditioning for unrelated-donor transplant in severe sickle cell disease |
-| [NCT00489281](https://clinicaltrials.gov/study/NCT00489281) | Phase 2 | Terminated | 43 | Non-myeloablative conditioning with partially HLA-mismatched or matched bone marrow in sickle cell anemia and other hemoglobinopathies |
-| [NCT01810588](https://clinicaltrials.gov/study/NCT01810588) | Phase 2 | Active, not recruiting | 270 | Optimal cord blood selection for haplo-cord transplantation (mixed disease population) |
-| [NCT03249831](https://clinicaltrials.gov/study/NCT03249831) | Phase 1 | Active, not recruiting | 3 | Mixed chimerism induction in sickle cell disease with non-myeloablative conditioning and haploidentical transplant |
-| [NCT03171831](https://clinicaltrials.gov/study/NCT03171831) | Phase 4 | Unknown | 30 | Haploidentical stem cell transplant in thalassemia major |
-| [NCT06872333](https://clinicaltrials.gov/study/NCT06872333) | Phase 2 | Recruiting | 62 | Allogeneic transplant for high-risk hemoglobinopathies and other transfusion-dependent red-cell disorders |
-| [NCT02435901](https://clinicaltrials.gov/study/NCT02435901) | Phase 1/2 | Completed | 29 | Reduced-intensity conditioning plus standard immunosuppression in sickle cell and β-thalassemia major |
-| [NCT01917708](https://clinicaltrials.gov/study/NCT01917708) | Phase 1 | Completed | 10 | Abatacept added to cyclosporine and mycophenolate mofetil as GVHD prophylaxis in children with non-malignant diseases |
-| [NCT03924401](https://clinicaltrials.gov/study/NCT03924401) | Phase 2 | Active, not recruiting | 30 | Extended abatacept with tacrolimus and mycophenolate mofetil to prevent GVHD in pediatric non-malignant blood diseases |
-| [NCT02678143](https://clinicaltrials.gov/study/NCT02678143) | Phase 1 | Terminated | 1 | Non-myeloablative mismatched transplant for severe sickle cell disease, with post-transplant cyclophosphamide-based GVHD prophylaxis |
-
-Several trials were terminated with very few patients, and no trial tests mycophenolic acid against a control.
+| [NCT02342145](https://clinicaltrials.gov/study/NCT02342145) | Phase 4 | Completed | 205 | Basiliximab for preventing acute GVHD in unrelated allogeneic stem cell transplantation for thalassemia major. Basiliximab is the tested drug; mycophenolate may be background prophylaxis. Indirect relevance only. |
 
 ---
 
 ## Literature Evidence
 
-No randomized controlled trials were found. The list is ordered by relevance to mycophenolate in hemoglobinopathy.
-
 | PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|---------|---------|
-| [36372358](https://pubmed.ncbi.nlm.nih.gov/36372358/) | 2023 | Retrospective cohort | Transplant Cell Ther | Boosting immunosuppression with mycophenolate mofetil for mixed chimerism after thalassemia transplant |
-| [39891881](https://pubmed.ncbi.nlm.nih.gov/39891881/) | 2025 | PK / dosing study | Eur J Drug Metab Pharmacokinet | Population pharmacokinetic model and dosing recommendations for mycophenolate mofetil in children with thalassemia undergoing transplant |
-| [29061531](https://pubmed.ncbi.nlm.nih.gov/29061531/) | 2018 | Cohort | Biol Blood Marrow Transplant | Unrelated donor transplant in 4 patients with severe sickle cell disease, using post-transplant cyclophosphamide, tacrolimus and mycophenolate |
-| [28578010](https://pubmed.ncbi.nlm.nih.gov/28578010/) | 2017 | Phase I trial | Biol Blood Marrow Transplant | Unrelated cord blood transplant after reduced-intensity conditioning in sickle cell disease |
-| [26860634](https://pubmed.ncbi.nlm.nih.gov/26860634/) | 2016 | Cohort | Biol Blood Marrow Transplant | Alternative-donor transplant with post-transplant cyclophosphamide for non-malignant disorders |
-| [18940682](https://pubmed.ncbi.nlm.nih.gov/18940682/) | 2008 | Cohort | Biol Blood Marrow Transplant | Stable long-term donor engraftment in 7 patients with sickle cell disease after reduced-intensity transplant |
-| [17454192](https://pubmed.ncbi.nlm.nih.gov/17454192/) | 2007 | Cohort | Hematology | Pure red cell aplasia after major ABO-incompatible transplant (11 of 42 patients) |
-| [17180133](https://pubmed.ncbi.nlm.nih.gov/17180133/) | 2007 | Case report | J Perinatol | Neonatal anemia and hydrops fetalis after maternal mycophenolate mofetil use |
+|------|-----|------|------|---------|
+| [39891881](https://pubmed.ncbi.nlm.nih.gov/39891881/) | 2025 | Dosing recommendation | Eur J Drug Metab Pharmacokinet | Population pharmacokinetic model and simulated dosing regimens for mycophenolate mofetil to prevent GVHD in pediatric thalassemia patients undergoing stem cell transplantation |
 
 ---
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA091248 | Mycophenolic Acid | Delayed-release tablet (oral) | Archis Pharma LLC |
-
-The Evidence Pack lists this authorization twice, with identical details, so it is shown once here. The approved-indication text was not captured for this product.
+| ANDA091248 (cancelled) | Mycophenolic Acid (Archis Pharma LLC) | Delayed-release tablet (oral) | Not listed |
 
 ---
 
 ## Safety Considerations
 
-- **Pregnancy**: One case report links maternal mycophenolate mofetil use to neonatal anemia and hydrops fetalis ([PMID 17180133](https://pubmed.ncbi.nlm.nih.gov/17180133/)).
+**Drug Interactions** (100 interactions recorded; selected examples):
+- **Major**: Activated charcoal
+- **Moderate**: Antacids and mineral products (aluminum hydroxide, magnesium oxide, magnesium hydroxide, magnesium carbonate, magaldrate, calcium carbonate), and antibiotics (doxycycline, minocycline, tetracycline, amoxicillin, clarithromycin, levofloxacin, metronidazole, vancomycin, kanamycin, paromomycin)
+- **Minor**: Zinc sulfate, zinc acetate, iron
 
-Please refer to the package insert for other safety information, including warnings, contraindications and drug interactions.
+Please refer to the package insert for warnings and contraindications.
 
 ---
 
@@ -121,16 +101,20 @@ Please refer to the package insert for other safety information, including warni
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is high, but the supporting trials are transplant regimen studies in which mycophenolate's contribution is inferred rather than tested. The drug supports transplant engraftment and GVHD prevention but does not treat hemoglobinopathy. Package insert safety data are also missing, which is a blocking gap for safety screening. The other nine predictions have no or weaker evidence. Rheumatoid arthritis has one terminated Phase 3 mycophenolate trial (NCT00451867), but the target disease and outcome are unconfirmed.
+The 99.60% TxGNN score is a computational prediction. The only supporting material is indirect: a trial of a different drug (basiliximab) and a pharmacokinetic dosing paper. No efficacy data show that mycophenolic acid treats hemoglobinopathy itself. The US product is also cancelled.
 
 **To proceed, the following is needed:**
-- The US package insert, so warnings and contraindications can be parsed for safety screening
-- Confirmation of which of the 27 hemoglobinopathy trials list mycophenolate in the regimen, and whether any compare regimens with and without it
-- Outcome data (engraftment, GVHD, graft failure) from the completed trials, and published results for the terminated ones
-- A decision on whether the goal is a new indication or only documentation of its established supportive role in transplant, given the drug does not address the underlying disease
-- Mechanism of action data confirmed from DrugBank
+- Package insert warnings and contraindications (a blocking gap for safety screening)
+- Mechanism of action data from DrugBank
+- Clinical studies evaluating mycophenolate as GVHD prophylaxis in thalassemia or sickle cell transplantation, with efficacy outcomes
+- A clear definition of whether the goal is treating the hemoglobin disorder or managing transplant complications
 
-*This report is for research reference only and does not constitute medical advice. Repurposing candidates require clinical validation before any clinical use.*
+---
+
+## Other Predicted Indications (Brief Note)
+
+- **Rheumatoid arthritis** (score 99.18%, evidence level L3): The IMPDH mechanism gives a rational basis for autoimmune disease, and early investigational literature (1993–1999) exists. However, no confirmatory randomized efficacy data are present, and the single trial found is a terminated vaccine-response study. It is a more mechanistically plausible candidate than hemoglobinopathy, but still a research question.
+- **Migraine, partial deletion of chromosome 16p, pyropoikilocytosis, glycolytic enzyme deficiencies, antithrombin deficiency type 2, and other entries**: Prediction only, with no clinical or literature support and no plausible link to IMPDH inhibition. Hold.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

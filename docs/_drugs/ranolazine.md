@@ -29,32 +29,31 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Ranolazine: From Chronic Angina to Nephrogenic Syndrome of Inappropriate Antidiuresis
+# Ranolazine: From Antianginal Therapy to Nephrogenic Syndrome of Inappropriate Antidiuresis
 
 ## One-Sentence Summary
 
-Ranolazine is an extended-release oral drug marketed in the US. It is generally known as a late sodium current inhibitor for chronic angina, though the supplied dataset lists no original indication.
-The TxGNN model predicts it may be effective for **nephrogenic syndrome of inappropriate antidiuresis (NSIAD)**, but there are currently **0 clinical trials** and **0 publications** supporting this direction.
+Ranolazine is an antianginal drug that inhibits the late sodium current. The TxGNN model predicts it may be effective for **nephrogenic syndrome of inappropriate antidiuresis (NSIAD)**, but **no clinical trials and no publications** currently support this direction. The prediction is based on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the supplied label data (chronic angina per general pharmacology) |
+| Original Indication | Not stated in the compiled US license records (the drug is generally known as an antianginal agent) |
 | Predicted New Indication | Nephrogenic syndrome of inappropriate antidiuresis |
 | TxGNN Prediction Score | 99.65% |
 | Evidence Level | L5 |
-| US Market Status | ✓ Marketed |
-| Number of NDAs | 20 (the listed licenses are generic ANDAs) |
+| US Market Status | Cancelled only (no currently valid licenses) |
+| Number of NDAs | 9 (all cancelled; these are ANDA generic applications) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Ranolazine is generally known as a late sodium current inhibitor used for chronic angina. That comes from general pharmacology, not from the supplied dataset.
+Detailed mechanism of action data is not available in the data compiled for this report. Ranolazine is generally described as an antianginal agent that inhibits the late sodium current (INa) and, to a lesser extent, the rapid delayed rectifier potassium current (IKr).
 
-NSIAD is an ultra-rare genetic disorder. It is caused by gain-of-function variants in *AVPR2* (the vasopressin V2 receptor), which lead to water retention and hyponatremia. No established pathway links ranolazine to V2 receptor signaling, aquaporin-2 regulation, or renal water handling. No mechanistic link can be established from the supplied data.
+NSIAD is caused by gain-of-function mutations in the vasopressin V2 receptor (AVPR2). These mutations cause constitutive receptor activation and unsuppressed water reabsorption, which leads to hyponatremia.
 
-The TxGNN score is very high, but it is a knowledge-graph prediction only and not clinical evidence. The graph path behind the score was not provided. A score this high for an ultra-rare disease with no supporting data suggests a possible graph-topology artifact, and the prediction should be reviewed before further investment.
+No established mechanistic link has been identified between ranolazine and this condition. No published data show that ranolazine acts on V2 receptor signaling, cAMP production, or aquaporin-2 trafficking. The very high TxGNN score is most likely driven by network-level associations in the knowledge graph (for example, ion transport or renal-related pathways). It has not been supported by any clinical or experimental evidence, so it should be read as a hypothesis only.
 
 ## Clinical Trial Evidence
 
@@ -66,33 +65,36 @@ Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA201046 | Ranolazine (Lupin Pharmaceuticals) | Tablet, film coated, extended release | — |
-| ANDA210054 | Ranolazine (Ajanta Pharma USA) | Tablet, extended release | — |
-| ANDA210188 | Ranolazine (NCS HealthCare of KY / Vangard Labs) | Tablet, extended release | — |
-| ANDA211829 | Ranolazine (ScieGen Pharmaceuticals) | Tablet, film coated, extended release | — |
+| Authorization Number | Product Name | Dosage Form | Approved Indication | Status |
+|---------|------|------|-----------|------|
+| ANDA201046 | Ranolazine (Lupin Pharmaceuticals) | Film-coated extended-release tablet | Not provided | Cancelled |
+| ANDA210054 | Ranolazine (Ajanta Pharma USA) | Extended-release tablet | Not provided | Cancelled |
+| ANDA210188 | Ranolazine (Vangard Labs) | Extended-release tablet | Not provided | Cancelled |
+| ANDA211829 | Ranolazine (ScieGen Pharmaceuticals) | Film-coated extended-release tablet | Not provided | Cancelled |
+| ANDA209953 | Ranolazine (Ascend Laboratories) | Film-coated extended-release tablet | Not provided | Cancelled |
 
-Only 4 of the 20 licenses were supplied, and none included approved indication text. The only route listed is oral.
+Nine licenses are recorded in total, all cancelled. Only the first five are listed here.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. Drug interaction queries returned no results.
+- **Disease contraindications from the knowledge graph** (these come from the TxGNN knowledge graph, not from label text): long QT syndrome, familial long QT syndrome, torsades de pointes, kidney disease, pyoureter, and cirrhosis of liver.
+- **Drug Interactions**: 100 interactions were found in total. Examples at the **Major** level include aprepitant, dexamethasone, clarithromycin, dolasetron, and eliglustat. Moderate-level examples include famotidine, metformin, loperamide, budesonide, canagliflozin, dapagliflozin, and empagliflozin. Minor-level examples include bupropion, lorcaserin, and cimetidine.
+
+Both the QT-related contraindications and the kidney disease contraindication deserve attention for a possible renal indication such as NSIAD. Please refer to the package insert for the full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone. There are no clinical trials or publications, and no plausible mechanistic link between ranolazine and V2 receptor-mediated water retention. The high score for an ultra-rare disease may be a graph artifact. Safety data are also missing, which blocks safety screening.
+The prediction rests only on a model score, with no clinical trials, no literature, and no plausible mechanistic link to the V2 receptor pathway. In addition, the drug has no currently valid US licenses, and its knowledge-graph contraindications include kidney disease and QT-related conditions.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data from DrugBank
-- The TxGNN graph path and neighbors behind the NSIAD prediction, to check for a topology artifact
-- Any preclinical or mechanistic evidence connecting ranolazine to AVPR2, aquaporin-2, or renal water handling
-- The approved indication text for the US licenses, to document the original indication
-- Route compatibility assessment (the predicted-indication route requirements are pending)
+- Mechanism of action data for ranolazine, and any experimental evidence of an effect on V2 receptor signaling, cAMP production, or aquaporin-2 trafficking
+- Preclinical studies (for example, cell-based AVPR2 gain-of-function models) to test the hypothesis
+- Package insert warnings and contraindications, to allow a proper safety screening, particularly for renal impairment and QT prolongation
+- Clarification of the original approved indication and of the regulatory status (all licenses are currently cancelled)
+- Assessment of route and formulation compatibility, which is still pending
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

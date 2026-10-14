@@ -3,7 +3,7 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 3 articles, 2 related drugs."
+description: "Health news about flu (influenza). 4 articles, 2 related drugs."
 permalink: /news/influenza/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/influenza/
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>3 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>4 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,21 +30,21 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (3)
+## Related News (4)
 
-### [Want to dodge the flu this year? Eat these secret-weapon immunity-boosting foods - Fox News](https://news.google.com/rss/articles/CBMinAFBVV95cUxNOVNqUDhLNVk3QVotQzZfbEl0SU41a21XYlVrZnBNUHNyZUYycnlmYjdBbTY4OThtbWhBM0owSnllQ2Y1dkxkVGNQdEJTcEZUMjdDWXo4YjcyalNhM3JSUEtFcHFHN2d4S1g2RlVyR25lM3FWdjhxOFA4UEgyQmtmN09DS213MXQ1RG1teHVRVEk3c2hRdFF6Tnl1SFnSAaIBQVVfeXFMTUhHbGhMeDdBU0dpWjRCS182b2wxSERLeHg5UXY0cVlQMC1ZOVBBaTNLejl5RHpUa09LR1FVLWltbFBNS0E5QUE2YklWM0FIX0tRMmVJM25RekdyY0VVWVZ5Z3UxaFZfX0hneWREMGY3VVIxVDBtc0JublJpMUE4ejNiODRVaDZhX25XdzBhQ3dOYnY5M1Y3cTlwZHh5dVJnV05R?oc=5)
+### [Flu season is arriving months early. Here's where it's spreading - USA Today](https://news.google.com/rss/articles/CBMipgFBVV95cUxQMk1GUE9Gb3JaU3BYRW5JZ3piTUJocDh4bnk5YThSNE00WUJtYVhVS1Jpc1NDZXdqOHZwNlFMZ1ZsYW53cHF2VjNOWVNhbmE5ZnlENmVOLXI4WVM1M2FyUkI4M0RrdHZBX2ZPc1dVM2doQzVIdDJhSHZjX0xYRnkwTFV3ZTRZSFE3Y2hzZnVyMHNRT0RCeFVESThyeXNkRk1jZS13eFBB?oc=5)
 
-2026-10-13
+2026-10-14
 
-Source: [Fox News](https://news.google.com/rss/articles/CBMinAFBVV95cUxNOVNqUDhLNVk3QVotQzZfbEl0SU41a21XYlVrZnBNUHNyZUYycnlmYjdBbTY4OThtbWhBM0owSnllQ2Y1dkxkVGNQdEJTcEZUMjdDWXo4YjcyalNhM3JSUEtFcHFHN2d4S1g2RlVyR25lM3FWdjhxOFA4UEgyQmtmN09DS213MXQ1RG1teHVRVEk3c2hRdFF6Tnl1SFnSAaIBQVVfeXFMTUhHbGhMeDdBU0dpWjRCS182b2wxSERLeHg5UXY0cVlQMC1ZOVBBaTNLejl5RHpUa09LR1FVLWltbFBNS0E5QUE2YklWM0FIX0tRMmVJM25RekdyY0VVWVZ5Z3UxaFZfX0hneWREMGY3VVIxVDBtc0JublJpMUE4ejNiODRVaDZhX25XdzBhQ3dOYnY5M1Y3cTlwZHh5dVJnV05R?oc=5)
+Source: [USA Today](https://news.google.com/rss/articles/CBMipgFBVV95cUxQMk1GUE9Gb3JaU3BYRW5JZ3piTUJocDh4bnk5YThSNE00WUJtYVhVS1Jpc1NDZXdqOHZwNlFMZ1ZsYW53cHF2VjNOWVNhbmE5ZnlENmVOLXI4WVM1M2FyUkI4M0RrdHZBX2ZPc1dVM2doQzVIdDJhSHZjX0xYRnkwTFV3ZTRZSFE3Y2hzZnVyMHNRT0RCeFVESThyeXNkRk1jZS13eFBB?oc=5)
 
 ---
 
-### [Here’s how much a flu vaccine may lower your dementia risk - The Washington Post](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQazJMeUhabVFtYlg4bWFtQ204bl9qY3hMN0xUYkh5QkhFNS1lNldpbFdOcFk1OUZFZ1FQZXZuUmxFX2stVHFDUXJqeHREWjZpdkNwTnh5aFlMdDBWMU5NbXdxMHRfTU1NUDM4NWhwdHc5a2pqTzdmcEt1QlpuOWUtdWhQOFZGbURka2tFeWV5bUxZbjlrNlpyVW5vM2ZGcFZiellZcGJVcXF0UXc?oc=5)
+### [Top expert-recommended foods and drinks to strengthen your immunity this flu season - New York Post](https://news.google.com/rss/articles/CBMivgFBVV95cUxNU0ZQNmJTaGEweGpsbGRaSFpmejhhT2thMDB5Qldfb3pCRUk4OE9Mb1hjVVN4MWFpdXh0UlA3ZDZIV2N1cFJIaEJ2ZTlUMWN1NldiaFBUbXZyeXZ0SUE0YzRqMmdOU3RETGhOSE9VTVNrcHZVa1JIeHpVVDBXR1ZZTHRaNV9xZU5KRndLdXZDVk5RQ0RNYmZqN3MwenFBb09RWXRDeWh1dWNqeWRwWlZGZ3hjRFVrMU5xVjJrOVZn?oc=5)
 
-2026-10-12
+2026-10-13
 
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQazJMeUhabVFtYlg4bWFtQ204bl9qY3hMN0xUYkh5QkhFNS1lNldpbFdOcFk1OUZFZ1FQZXZuUmxFX2stVHFDUXJqeHREWjZpdkNwTnh5aFlMdDBWMU5NbXdxMHRfTU1NUDM4NWhwdHc5a2pqTzdmcEt1QlpuOWUtdWhQOFZGbURka2tFeWV5bUxZbjlrNlpyVW5vM2ZGcFZiellZcGJVcXF0UXc?oc=5)
+Source: [New York Post](https://news.google.com/rss/articles/CBMivgFBVV95cUxNU0ZQNmJTaGEweGpsbGRaSFpmejhhT2thMDB5Qldfb3pCRUk4OE9Mb1hjVVN4MWFpdXh0UlA3ZDZIV2N1cFJIaEJ2ZTlUMWN1NldiaFBUbXZyeXZ0SUE0YzRqMmdOU3RETGhOSE9VTVNrcHZVa1JIeHpVVDBXR1ZZTHRaNV9xZU5KRndLdXZDVk5RQ0RNYmZqN3MwenFBb09RWXRDeWh1dWNqeWRwWlZGZ3hjRFVrMU5xVjJrOVZn?oc=5)
 
 ---
 
@@ -53,6 +53,14 @@ Source: [The Washington Post](https://news.google.com/rss/articles/CBMiqwFBVV95c
 2026-10-12
 
 Source: [Bored Panda](https://news.google.com/rss/articles/CBMilAFBVV95cUxQSDZJMjhpZG1QNHZTMDFiUjZhN2FOV3pFV2NRejBtLWh3dVhSdEl5NmNMNThUVlI4VE9xcEs4RkpFZk5pSV9uYlA4eHdjbXpzLUJmSmxrZ2tiOXNYaWx3aFgyTmZmUjVGM21fYlNmV2V3dFNNS0J5ejhjWkxvSlVyX2tsYWRSdUdEbVp1QXktaHNaaTJS?oc=5)
+
+---
+
+### [‘I want to do everything I can to head off dementia’: why demand for the shingles vaccine is soaring - The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxORlBldlA1RTdhYTExcGRJak5mRGhUTWRqNW52WVYxZy1VbXN4VXJCQW9mM0lCa1AzOEVldlVUWDZYWElQSTRicC1PQ0p6WWh2dEpNREYxLWRsOEpLZ0pMamxWLUd0d2dPblBLMUtKQU1yQ3RNNm1adk9DbDU4dlhfY1VUTUlKUGl3WTFhMmFubkFTVURKRnhGdFc1dw?oc=5)
+
+2026-10-12
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMimwFBVV95cUxORlBldlA1RTdhYTExcGRJak5mRGhUTWRqNW52WVYxZy1VbXN4VXJCQW9mM0lCa1AzOEVldlVUWDZYWElQSTRicC1PQ0p6WWh2dEpNREYxLWRsOEpLZ0pMamxWLUd0d2dPblBLMUtKQU1yQ3RNNm1adk9DbDU4dlhfY1VUTUlKUGl3WTFhMmFubkFTVURKRnhGdFc1dw?oc=5)
 
 ---
 

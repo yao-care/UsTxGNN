@@ -3,7 +3,7 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 10 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 14 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/inflammatory-bowel-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>10 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>14 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,13 +34,45 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (10)
+## Related News (14)
+
+### [How exactly do microplastics damage the body? New research offers an answer - NBC News](https://news.google.com/rss/articles/CBMikwFBVV95cUxPdFl1bFVxb2VySFBEQXJWOFJraTNJRFNBbkFTN2w5TTFuR0lSREltUUZ6VjAtNUN5bVU3TEl5R1BUV0t1QXpCWmx0YjIwckJsZ2gtMERqV1BPanhMNm1zeE1MU002OC1zazFiM2d3V3hPOTNqY3NyZTJEeEwzOU5MZWhYYTc3SFBxdmc5YjNuVU1yQmM?oc=5)
+
+2026-10-14
+
+Source: [NBC News](https://news.google.com/rss/articles/CBMikwFBVV95cUxPdFl1bFVxb2VySFBEQXJWOFJraTNJRFNBbkFTN2w5TTFuR0lSREltUUZ6VjAtNUN5bVU3TEl5R1BUV0t1QXpCWmx0YjIwckJsZ2gtMERqV1BPanhMNm1zeE1MU002OC1zazFiM2d3V3hPOTNqY3NyZTJEeEwzOU5MZWhYYTc3SFBxdmc5YjNuVU1yQmM?oc=5)
+
+---
+
+### [Bleached Coral Rebounded After Touching Healthy Coral, Study Finds - The New York Times](https://news.google.com/rss/articles/CBMigwFBVV95cUxPWUU1eGpWdFVNbFVLQlAzQTROZHZycnptd2NheHBtYjFyZVU5SWV3WWNMeWw4Q2RJZ0wyU1RmaEtxUWhkaml1U0lyMkwzblA2cXdRTVhrMnNIN0RoWjZTTXhtNUpYOWFzWkF4QjNoMF9XM2l1WUhuSy15VEV3SGxFOVd4NA?oc=5)
+
+2026-10-14
+
+Source: [The New York Times](https://news.google.com/rss/articles/CBMigwFBVV95cUxPWUU1eGpWdFVNbFVLQlAzQTROZHZycnptd2NheHBtYjFyZVU5SWV3WWNMeWw4Q2RJZ0wyU1RmaEtxUWhkaml1U0lyMkwzblA2cXdRTVhrMnNIN0RoWjZTTXhtNUpYOWFzWkF4QjNoMF9XM2l1WUhuSy15VEV3SGxFOVd4NA?oc=5)
+
+---
 
 ### [Alpha-Gal Syndrome Spikes On Nantucket Over Summer As Lone Star Ticks Spread - Nantucket Current](https://news.google.com/rss/articles/CBMirwFBVV95cUxOS0FpbzVTSnR5OUoxWUZzWVZlaGdDOFZFNXVfSUF1VTRhLXF1cmlwMVJHS0U1RXlJbEYxcGJoWEZndW9iREtBck5nbWZuclR6cnR6bXpybFg1cG1LaUZuclphUGJxengyWTgxN2d0NlpqSDZkUTE5MUF6THduaVhOSVdhZ0I3N0NlRUtMUnNsTGs5dnlQRTdVazBMdlZmT0lWbjkzUVBYY0tsdlQ5S3E0?oc=5)
 
 2026-10-14
 
 Source: [Nantucket Current](https://news.google.com/rss/articles/CBMirwFBVV95cUxOS0FpbzVTSnR5OUoxWUZzWVZlaGdDOFZFNXVfSUF1VTRhLXF1cmlwMVJHS0U1RXlJbEYxcGJoWEZndW9iREtBck5nbWZuclR6cnR6bXpybFg1cG1LaUZuclphUGJxengyWTgxN2d0NlpqSDZkUTE5MUF6THduaVhOSVdhZ0I3N0NlRUtMUnNsTGs5dnlQRTdVazBMdlZmT0lWbjkzUVBYY0tsdlQ5S3E0?oc=5)
+
+---
+
+### [Laurel County Health Department investigation reveals over 50 reported cases of measles](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVV8zeGtzMDdtNWFKeVREODFTOHRxTlZSM2x5LXZCTUtyV05HYzVRb09CeUkxLTctbFNMb3k4bm1kY3VVNXg4SE5Tb2h4dkV4YVYyb1B3SUV3aEc0NU93Umd5SmxWYjhPN0tCd19PcHZKRVBlLXpSQnpXUlJmYjhFM0NUSGVwQXFtNnR4OXJoWnlHUko2V1Jsbm9pR0FlOVFEMGhFaUZNbWpIQ0hHQzFPcGRDVFQ1LTlf0gHMAUFVX3lxTE1xTFZ6VmhFbVpVX3VXUWQ0N3ZrUU93cF9hLTRBTWpuTEVCYVdpc0pPYXFVanBjT0hsaERZSk4tb0NQX3Rad1pSQnRvWmdVSlBRNERDWUJkVDFTb2pjVWFrQVBjbTN1YmRFcGc3R20wVlh0a3p4aFYwV3M1LWg0SUZYVlVkQVkwSjhOLUtsR0w1ZDB3dzRJQm5aVlBRZjVaNVk0S2VyNS03YjlfQUtoeU5GdmgxRkVROUh4cHF4RHZ1UmR5WjI5cEpxTkxsOQ?oc=5)
+
+2026-10-13
+
+Source: [WYMT](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVV8zeGtzMDdtNWFKeVREODFTOHRxTlZSM2x5LXZCTUtyV05HYzVRb09CeUkxLTctbFNMb3k4bm1kY3VVNXg4SE5Tb2h4dkV4YVYyb1B3SUV3aEc0NU93Umd5SmxWYjhPN0tCd19PcHZKRVBlLXpSQnpXUlJmYjhFM0NUSGVwQXFtNnR4OXJoWnlHUko2V1Jsbm9pR0FlOVFEMGhFaUZNbWpIQ0hHQzFPcGRDVFQ1LTlf0gHMAUFVX3lxTE1xTFZ6VmhFbVpVX3VXUWQ0N3ZrUU93cF9hLTRBTWpuTEVCYVdpc0pPYXFVanBjT0hsaERZSk4tb0NQX3Rad1pSQnRvWmdVSlBRNERDWUJkVDFTb2pjVWFrQVBjbTN1YmRFcGc3R20wVlh0a3p4aFYwV3M1LWg0SUZYVlVkQVkwSjhOLUtsR0w1ZDB3dzRJQm5aVlBRZjVaNVk0S2VyNS03YjlfQUtoeU5GdmgxRkVROUh4cHF4RHZ1UmR5WjI5cEpxTkxsOQ?oc=5)
+
+---
+
+### [People say these peptides hurt them. Their stories are muffled in MAHA’s push for medical freedom](https://news.google.com/rss/articles/CBMiakFVX3lxTE5fN012T0pfd3NZYkozclA1aWxJRU93OGpyUTFmUWZaVFJkdXlNbTJXNUxhX2NVMktSdmdBY1BRV2dOY3JfX0RhcFNXdVZIUTUtd2NFV1lDaGVUQXNmUUpFemFmbjctaXJsQVE?oc=5)
+
+2026-10-13
+
+Source: [CNN](https://news.google.com/rss/articles/CBMiakFVX3lxTE5fN012T0pfd3NZYkozclA1aWxJRU93OGpyUTFmUWZaVFJkdXlNbTJXNUxhX2NVMktSdmdBY1BRV2dOY3JfX0RhcFNXdVZIUTUtd2NFV1lDaGVUQXNmUUpFemFmbjctaXJsQVE?oc=5)
 
 ---
 
@@ -57,6 +89,14 @@ Source: [Yahoo Health](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeEpF
 2026-10-13
 
 Source: [New York Post](https://news.google.com/rss/articles/CBMingFBVV95cUxPcmlvUnRxSU8tR0xQM0RkajFDMHBHYkd1ZzhwR0xjaG5CRkszZ2pOcUhLR05wWE5VM2tMYzhRWGtSeTRHUDBOWjdnVjFoRVlteHAyMGdjMmxUYVdVeFk1M0tLOExONThTY2FieXQ1SE5DWTN3NkhsYUxJWjd6anlnT3lTWGp4OEhIRUtNSkRObEIxNnkwYm91NGdDcmkwQQ?oc=5)
+
+---
+
+### [Clonal heterogeneity in human pancreatic ductal adenocarcinoma and its impact on tumor progression](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EVGxXeGVFZjUyaGxsNHhiTnFBUGRlTFFUQ0dlV2NOVlVZYzJQZWpkQVZZMzJsOWE3RlVXUWpITW9VX3gyRzFSTHRTUjBvelNDZllET1h6RW5kRE5mS01V?oc=5)
+
+2026-10-13
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EVGxXeGVFZjUyaGxsNHhiTnFBUGRlTFFUQ0dlV2NOVlVZYzJQZWpkQVZZMzJsOWE3RlVXUWpITW9VX3gyRzFSTHRTUjBvelNDZllET1h6RW5kRE5mS01V?oc=5)
 
 ---
 
@@ -105,14 +145,6 @@ Source: [NewsNation](https://news.google.com/rss/articles/CBMikAFBVV95cUxOdDczdE
 2026-10-09
 
 Source: [The Economist](https://news.google.com/rss/articles/CBMingFBVV95cUxOSURybldtMmxJbEpGMDlNdGZXT29pS2t3RE1BMU83UEJVOHk0OUY0T3ZMaDlYVXA0WGxEblh3Y3Rmek5BUEpJZXIzMUMzT29vOEU4MDNLbmFuc0RvNGdVbjE4MzFldm5XekhCcTR3ak5YcUowaWZpcmsteVpjQ0VNN3NiOEJPbXdDM2hKZG1BUlAwNXRKMTNlQmZNb0VUZw?oc=5)
-
----
-
-### [Over 15M people take GLP-1 drugs in America and 54% agree on same issue - The Mirror US](https://news.google.com/rss/articles/CBMiekFVX3lxTFBBdVhjOHREUUhDX05BV1pzei04U0Vuckp0NU05ck84Z3BHTkU0VlVmWjBLcUpQcjUtd3U1UE9BYlNuV2ZnVjAxbVNMM1hnRlB6OUNpSEU0ZElsWEtOQjdiSmJYVF83UEtaekMxeW9JUGlRT2xfTl9TbTRB0gF_QVVfeXFMTWFwUm50OW1XeHdlc3hMQVBmb3A5eGJTVnNxOHFYSVhYREVzRThzNnpNNExkTVJNTHRpVVlLcnVBS0ZvUHNWcnBNTnViWkxPQU5hRnpRc1F1bHRadzdDN1BCcERXbHpwZnpMbW5BeEtVaFllZTJRNnl1OHVzQ3BzMA?oc=5)
-
-2026-10-07
-
-Source: [The Mirror US](https://news.google.com/rss/articles/CBMiekFVX3lxTFBBdVhjOHREUUhDX05BV1pzei04U0Vuckp0NU05ck84Z3BHTkU0VlVmWjBLcUpQcjUtd3U1UE9BYlNuV2ZnVjAxbVNMM1hnRlB6OUNpSEU0ZElsWEtOQjdiSmJYVF83UEtaekMxeW9JUGlRT2xfTl9TbTRB0gF_QVVfeXFMTWFwUm50OW1XeHdlc3hMQVBmb3A5eGJTVnNxOHFYSVhYREVzRThzNnpNNExkTVJNTHRpVVlLcnVBS0ZvUHNWcnBNTnViWkxPQU5hRnpRc1F1bHRadzdDN1BCcERXbHpwZnpMbW5BeEtVaFllZTJRNnl1OHVzQ3BzMA?oc=5)
 
 ---
 

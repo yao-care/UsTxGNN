@@ -42,19 +42,19 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 
 ## Related News (9)
 
-### [These common infections can cause cancer. Here’s what can lower your risk. - The Washington Post](https://news.google.com/rss/articles/CBMitwFBVV95cUxPVS1uWEVvQS0tQkU5dG43X2JNV2szU3E5LVBpV1IzRTdfNVI1N2VKdklwYXBEX0RkdUxyZlBqU2JpbTN1alZLQkhTYlB6cEZOZTZ6XzNybktldjNqTmlYeW9uaUFUWk1XMkRhOTR5UncyenFDcmZ5OS1Dd2FCTnZpZVdUWEdwYXpWckZlTnF3STMwWkJnanR6Rm82OHJOem15NDcybl94dlhLbmZPdngtSXZiZVpQX2c?oc=5)
-
-2026-10-14 <span class="news-indication-tag">cancer</span>
-
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMitwFBVV95cUxPVS1uWEVvQS0tQkU5dG43X2JNV2szU3E5LVBpV1IzRTdfNVI1N2VKdklwYXBEX0RkdUxyZlBqU2JpbTN1alZLQkhTYlB6cEZOZTZ6XzNybktldjNqTmlYeW9uaUFUWk1XMkRhOTR5UncyenFDcmZ5OS1Dd2FCTnZpZVdUWEdwYXpWckZlTnF3STMwWkJnanR6Rm82OHJOem15NDcybl94dlhLbmZPdngtSXZiZVpQX2c?oc=5)
-
----
-
 ### [Leading Cancer Researcher, 47, Dies of the Disease She Was Trying to Cure. This Was Her 1st Symptom](https://news.google.com/rss/articles/CBMikgFBVV95cUxNUWJGeWpwSV94ZmZaYnotTFBvN3I3X05IT3ZXZWpjNXlxdXZHWHBOZ3czSU01Njg3enJJVjdsUkkycW9xTERFTU44WUtjRmNfZ21GZmJkMEc3bzNPMUE0bWNkN181bWRtMkNQLWE1OWc4SWxKdEFqRE55aGJBeGVSbm5PRjE2UDFOR3hkZElxNW5hQQ?oc=5)
 
 2026-10-14 <span class="news-drug-tag">Tadalafil</span> <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
 
 Source: [TODAY.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxNUWJGeWpwSV94ZmZaYnotTFBvN3I3X05IT3ZXZWpjNXlxdXZHWHBOZ3czSU01Njg3enJJVjdsUkkycW9xTERFTU44WUtjRmNfZ21GZmJkMEc3bzNPMUE0bWNkN181bWRtMkNQLWE1OWc4SWxKdEFqRE55aGJBeGVSbm5PRjE2UDFOR3hkZElxNW5hQQ?oc=5)
+
+---
+
+### [These common infections can cause cancer. Here’s what can lower your risk. - The Washington Post](https://news.google.com/rss/articles/CBMitwFBVV95cUxPVS1uWEVvQS0tQkU5dG43X2JNV2szU3E5LVBpV1IzRTdfNVI1N2VKdklwYXBEX0RkdUxyZlBqU2JpbTN1alZLQkhTYlB6cEZOZTZ6XzNybktldjNqTmlYeW9uaUFUWk1XMkRhOTR5UncyenFDcmZ5OS1Dd2FCTnZpZVdUWEdwYXpWckZlTnF3STMwWkJnanR6Rm82OHJOem15NDcybl94dlhLbmZPdngtSXZiZVpQX2c?oc=5)
+
+2026-10-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMitwFBVV95cUxPVS1uWEVvQS0tQkU5dG43X2JNV2szU3E5LVBpV1IzRTdfNVI1N2VKdklwYXBEX0RkdUxyZlBqU2JpbTN1alZLQkhTYlB6cEZOZTZ6XzNybktldjNqTmlYeW9uaUFUWk1XMkRhOTR5UncyenFDcmZ5OS1Dd2FCTnZpZVdUWEdwYXpWckZlTnF3STMwWkJnanR6Rm82OHJOem15NDcybl94dlhLbmZPdngtSXZiZVpQX2c?oc=5)
 
 ---
 
@@ -66,6 +66,14 @@ Source: [CBS News](https://news.google.com/rss/articles/CBMidkFVX3lxTE5VeWs4UGhZ
 
 ---
 
+### [Ovaries remain active decades after menopause, study reveals - Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxOeHdVa3NOczVYTVhDeHE5ZTM1akpNWkZUUmVZX29jcFluTVZkOEdkQnpvX0M0UUhybElkN3o5S29iRzBjR0ZRX1dmSXN5ZExad2FKUUhtbElmUS0tWEtralEyYm9QZ1VGc0NTNGxtbDBxVDZLQ25rcjJDMHZqZHd4ZHJSaw?oc=5)
+
+2026-10-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">CAD</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxOeHdVa3NOczVYTVhDeHE5ZTM1akpNWkZUUmVZX29jcFluTVZkOEdkQnpvX0M0UUhybElkN3o5S29iRzBjR0ZRX1dmSXN5ZExad2FKUUhtbElmUS0tWEtralEyYm9QZ1VGc0NTNGxtbDBxVDZLQ25rcjJDMHZqZHd4ZHJSaw?oc=5)
+
+---
+
 ### [Got your BRCA test more than 13 years ago? It may have missed a cancer-linked mutation - New York Post](https://news.google.com/rss/articles/CBMimAFBVV95cUxPYTZUOExGXzhOR0FSUzloeU5EOFZDcWhMWFEwaTVJS3Izd1dQMEhadHVqbm1MTk5zakN2YW1zNlhSRzFldVp1UHh5NnB6Z2l0RmhWaFJzbXBCN2wxa2dYUXUyaW96MUJqV0ZkS3lMcGJXNUxKX2Q5aU9NN0lFdDFPSlBoWmtMZUdVM211VS1TNDV1bWh2LXhlNA?oc=5)
 
 2026-10-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
@@ -74,11 +82,19 @@ Source: [New York Post](https://news.google.com/rss/articles/CBMimAFBVV95cUxPYTZ
 
 ---
 
-### [Woman Who Survived Colon Cancer 3 Times Reveals the First Symptom She Noticed at 14: ‘I Hid It From Everyone’](https://news.google.com/rss/articles/CBMijgFBVV95cUxON01CY2dmUy1IdHBwV0diS0dnS2VVcUNzYmt3WF9pSUVoeHY5dHJmX05nTmtWR1B0OFl5VjU1WnJxZGxRZXVyampzZHJscTYyLXdLV1NkdjFId1gxSGdtdnFVR2JvUGlBZnlCNG1tOUVSSnBxVFNXSVJ3RW5CRFJMd0ltOW5pMXRyZ19aTkpR?oc=5)
+### [Woman Who Survived Colon Cancer 3 Times Reveals the First Symptom She Noticed at 14: ‘I Hid It From Everyone’](https://news.google.com/rss/articles/CBMifkFVX3lxTFBJMVZPVGR0c2dualFLM2VFNklmTUpJeUY3NWViajg1bXhTM0pZamFKb01tcWw5dFgza25wRHNxNTlmQXA1VWlScHBrOFQ2R0RuZnhIQXdvb1VBZEhRY0wxZjUxai04TVA4UkhySG8wZmtvWkJ1Y1hDZnN1aW5OUQ?oc=5)
 
 2026-10-13 <span class="news-indication-tag">cancer</span>
 
-Source: [Yahoo](https://news.google.com/rss/articles/CBMijgFBVV95cUxON01CY2dmUy1IdHBwV0diS0dnS2VVcUNzYmt3WF9pSUVoeHY5dHJmX05nTmtWR1B0OFl5VjU1WnJxZGxRZXVyampzZHJscTYyLXdLV1NkdjFId1gxSGdtdnFVR2JvUGlBZnlCNG1tOUVSSnBxVFNXSVJ3RW5CRFJMd0ltOW5pMXRyZ19aTkpR?oc=5)
+Source: [AOL.com](https://news.google.com/rss/articles/CBMifkFVX3lxTFBJMVZPVGR0c2dualFLM2VFNklmTUpJeUY3NWViajg1bXhTM0pZamFKb01tcWw5dFgza25wRHNxNTlmQXA1VWlScHBrOFQ2R0RuZnhIQXdvb1VBZEhRY0wxZjUxai04TVA4UkhySG8wZmtvWkJ1Y1hDZnN1aW5OUQ?oc=5)
+
+---
+
+### [Clonal heterogeneity in human pancreatic ductal adenocarcinoma and its impact on tumor progression](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EVGxXeGVFZjUyaGxsNHhiTnFBUGRlTFFUQ0dlV2NOVlVZYzJQZWpkQVZZMzJsOWE3RlVXUWpITW9VX3gyRzFSTHRTUjBvelNDZllET1h6RW5kRE5mS01V?oc=5)
+
+2026-10-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">UC</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EVGxXeGVFZjUyaGxsNHhiTnFBUGRlTFFUQ0dlV2NOVlVZYzJQZWpkQVZZMzJsOWE3RlVXUWpITW9VX3gyRzFSTHRTUjBvelNDZllET1h6RW5kRE5mS01V?oc=5)
 
 ---
 
@@ -90,27 +106,11 @@ Source: [The Boston Globe](https://news.google.com/rss/articles/CBMiggFBVV95cUxP
 
 ---
 
-### [Column | I’m an oncologist. Here’s what to know about DCIS or Stage 0 breast cancer. - The Washington Post](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVHVCWW82S2x0N1A4X2ZKdUdHOEZoU1JsY0dMYmdTcFRZanh4NDNuay1mR0pnNUdNQi1nUGc3UlpZMEhyclpGRmEweEE4SVFqTzhhU3I2c3RUdjZaRDQyY1dQNDBOMGd6N2RSOXQtRVNaTmxkekstcktOYjd3MjFQcHh0cXNjM3pReUpoUDBzN0RiSnF6b2xwbGY4UnY4ekFEcVVUQkZEb1RrdkZYQ0pyNi1Pa24?oc=5)
-
-2026-10-12 <span class="news-indication-tag">cancer</span>
-
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVHVCWW82S2x0N1A4X2ZKdUdHOEZoU1JsY0dMYmdTcFRZanh4NDNuay1mR0pnNUdNQi1nUGc3UlpZMEhyclpGRmEweEE4SVFqTzhhU3I2c3RUdjZaRDQyY1dQNDBOMGd6N2RSOXQtRVNaTmxkekstcktOYjd3MjFQcHh0cXNjM3pReUpoUDBzN0RiSnF6b2xwbGY4UnY4ekFEcVVUQkZEb1RrdkZYQ0pyNi1Pa24?oc=5)
-
----
-
 ### [Do Sugary Drinks Increase Cancer Risk? It’s Complicated](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUXdvWXF4NENJX3ZWcVRESzN1ZGk1S1F0Q2YwbXFPOEZOWG9HSTZWVG1CRnhoNktQVzVUUWk0d1A5T0RMTVh2YklrRFhuTmtDdkpudzlkTlU5Q0pkLVAzRXFPZzJYNXRsRFZ2TmlvMlNsOTY0SjM1dEpxNzVuQUhTSDEtaHFXcXByLXhreVVCcnpoSDYzVXV3S0VDWmJ6TTZObkVlZHd3?oc=5)
 
 2026-10-12 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">OA</span>
 
 Source: [Medscape](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUXdvWXF4NENJX3ZWcVRESzN1ZGk1S1F0Q2YwbXFPOEZOWG9HSTZWVG1CRnhoNktQVzVUUWk0d1A5T0RMTVh2YklrRFhuTmtDdkpudzlkTlU5Q0pkLVAzRXFPZzJYNXRsRFZ2TmlvMlNsOTY0SjM1dEpxNzVuQUhTSDEtaHFXcXByLXhreVVCcnpoSDYzVXV3S0VDWmJ6TTZObkVlZHd3?oc=5)
-
----
-
-### [Cancer Vaccines Are the N.I.H.’s Next ‘Big Bet’ - The New York Times](https://news.google.com/rss/articles/CBMigAFBVV95cUxQcDZ3bklCUkxsQmVZd0hqWUJsRFFZU0NaZEp5WndCTWFhMW92MGszZTV5LUFSVF9LamlDSTNOcnl4SHNWemZxMkdmZjRCbTRNRHJfYmhXNUMzN0U3SDJUSXhraEVaRldKN2Nidnc4LWtuLVN2dmpudVJDc3h5YkVrcA?oc=5)
-
-2026-10-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
-
-Source: [The New York Times](https://news.google.com/rss/articles/CBMigAFBVV95cUxQcDZ3bklCUkxsQmVZd0hqWUJsRFFZU0NaZEp5WndCTWFhMW92MGszZTV5LUFSVF9LamlDSTNOcnl4SHNWemZxMkdmZjRCbTRNRHJfYmhXNUMzN0U3SDJUSXhraEVaRldKN2Nidnc4LWtuLVN2dmpudVJDc3h5YkVrcA?oc=5)
 
 ---
 

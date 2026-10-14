@@ -3,7 +3,7 @@ layout: default
 title: "CAD (heart disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about CAD (heart disease). 4 articles, 1 related drugs."
+description: "Health news about CAD (heart disease). 3 articles, 1 related drugs."
 permalink: /news/heart-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/heart-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about CAD (heart disease)?">
-<strong>CAD (heart disease)</strong> currently has <strong>4 news articles</strong> and 1 related drugs.
+<strong>CAD (heart disease)</strong> currently has <strong>3 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -29,15 +29,7 @@ This page brings together the latest health news about “CAD” and lists the d
 </ul>
 </div>
 
-## Related News (4)
-
-### [Scientists may have overlooked a hidden Alzheimer's culprit for decades - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wTEx3dGtES0V1TlZZVnBsR3B2UW1hMldyZVZyckgzajZfcm9rQk5PLXFKa1duY3FNRmZoaU9VUEQ4NE5ITHc1NTdDa2VRV25mejFWS2pOd3FrVWFIN1JXQWJwS0xaSmQyRnN3enZ3aw?oc=5)
-
-2026-10-14
-
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wTEx3dGtES0V1TlZZVnBsR3B2UW1hMldyZVZyckgzajZfcm9rQk5PLXFKa1duY3FNRmZoaU9VUEQ4NE5ITHc1NTdDa2VRV25mejFWS2pOd3FrVWFIN1JXQWJwS0xaSmQyRnN3enZ3aw?oc=5)
-
----
+## Related News (3)
 
 ### [Ovaries remain active decades after menopause, study reveals - Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxOeHdVa3NOczVYTVhDeHE5ZTM1akpNWkZUUmVZX29jcFluTVZkOEdkQnpvX0M0UUhybElkN3o5S29iRzBjR0ZRX1dmSXN5ZExad2FKUUhtbElmUS0tWEtralEyYm9QZ1VGc0NTNGxtbDBxVDZLQ25rcjJDMHZqZHd4ZHJSaw?oc=5)
 

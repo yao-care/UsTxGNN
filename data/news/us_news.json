@@ -1,15 +1,111 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-10-14T16:46:43.076177+00:00",
+  "fetched_at": "2026-10-14T21:22:25.624079+00:00",
   "total_fetched": 140,
   "unique_count": 140,
-  "health_related_count": 70,
+  "health_related_count": 76,
   "news": [
+    {
+      "id": "05d643c36700",
+      "title": "How exactly do microplastics damage the body? New research offers an answer - NBC News",
+      "published": "2026-10-14T19:19:50+00:00",
+      "summary": "How exactly do microplastics damage the body? New research offers an answer&nbsp;&nbsp;NBC NewsIntrinsic physicochemical activity at microplastic–water interfaces&nbsp;&nbsp;NatureMicroplastics are linked to inflammation—scientists might have finally worked out why&nbsp;&nbsp;Scientific AmericanMicroplastics are chemically active and could cause biological harm&nbsp;&nbsp;Phys.orgMicroplastics may produce harmful molecules if they enter our blood&nbsp;&nbsp;New Scientist",
+      "sources": [
+        {
+          "name": "NBC News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdFl1bFVxb2VySFBEQXJWOFJraTNJRFNBbkFTN2w5TTFuR0lSREltUUZ6VjAtNUN5bVU3TEl5R1BUV0t1QXpCWmx0YjIwckJsZ2gtMERqV1BPanhMNm1zeE1MU002OC1zazFiM2d3V3hPOTNqY3NyZTJEeEwzOU5MZWhYYTc3SFBxdmc5YjNuVU1yQmM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b2f076048ee8",
+      "title": "Overlooked brown fat in our bodies linked to wide range of health benefits - Nature",
+      "published": "2026-10-14T19:07:30+00:00",
+      "summary": "Overlooked brown fat in our bodies linked to wide range of health benefits&nbsp;&nbsp;NatureResearchers discover a commonly prescribed blood-pressure drug may stimulate “healthy” brown fat&nbsp;&nbsp;The Rockefeller UniversityBlood Pressure Drug May Activate Health-Promoting Brown Fat&nbsp;&nbsp;Mirage News",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lYUxXdnd6c3FfSVk5NjBLdTlTb0dlZUVOUVE0T3Q2NlhidzFTV1J3Ry1wRzdlYjk2bWtrNG41MXFZY2tzTmlMR0V2cjZhM0s2bUd4QjNKc3NGdGgzQW1n?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3190893b8660",
+      "title": "10 health conditions may be linked to Alzheimer's years before diagnosis - Fox News",
+      "published": "2026-10-14T18:35:40+00:00",
+      "summary": "10 health conditions may be linked to Alzheimer's years before diagnosis&nbsp;&nbsp;Fox NewsThese Surprising Warning Signs of Early Alzheimer’s May Show Up Years Before a Diagnosis&nbsp;&nbsp;PreventionEarly-onset Alzheimer's disease looks very different to late-onset version: Study&nbsp;&nbsp;ET HealthWorldFinnish scientists have discovered possible early signs of Alzheimer's disease&nbsp;&nbsp;open.kgMore pre-diagnosis health issues found in early-onset Alzheimer’s patients&nbsp;&nbsp;UA.NEWS",
+      "sources": [
+        {
+          "name": "Fox News",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb29wTC1kRERMRjVmV3JpbWdoc2ZubFlIcjlhNXM3clgzUHVqNndNUDQtOGZrTk4wSy1KZVJFTUpxWHF0UVI0MHFRUjVXSjBScWxJalhndEpWZ2JRMFlvZGJTMVJLeF9fazFEamhPV0ZVOTlKOTUtSElMak1DMWNWOWMzUXRGS0lBb05qWGwtYXd5clBfM2FF0gGcAUFVX3lxTE5tWHhFSGp5NUNHOFMyeGlROW1Gc3NZRUk1VDFqTFRSQ2s1U3VmOURRWE1tNVMtUXdNakpOVXVUMkNHb2lvOXBLWkh0Z29HOWVIczZhd0JCcHdsdGtnc0dmVjI4UTFlQmZyTS0teklSN201Mmh0SlhpRE5EUnFvRDgzaWw2aVBrc28tMThoYnd5RXV0RlgtSE4wUV9nSQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "160ec3ddd4e2",
+      "title": "Bleached Coral Rebounded After Touching Healthy Coral, Study Finds - The New York Times",
+      "published": "2026-10-14T18:00:08+00:00",
+      "summary": "Bleached Coral Rebounded After Touching Healthy Coral, Study Finds&nbsp;&nbsp;The New York TimesSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWUU1eGpWdFVNbFVLQlAzQTROZHZycnptd2NheHBtYjFyZVU5SWV3WWNMeWw4Q2RJZ0wyU1RmaEtxUWhkaml1U0lyMkwzblA2cXdRTVhrMnNIN0RoWjZTTXhtNUpYOWFzWkF4QjNoMF9XM2l1WUhuSy15VEV3SGxFOVd4NA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a38b3ff1235a",
+      "title": "Leading Cancer Researcher, 47, Dies of the Disease She Was Trying to Cure. This Was Her 1st Symptom - TODAY.com",
+      "published": "2026-10-14T17:17:59+00:00",
+      "summary": "Leading Cancer Researcher, 47, Dies of the Disease She Was Trying to Cure. This Was Her 1st Symptom&nbsp;&nbsp;TODAY.comIn Memoriam: Rachna Shroff, MD, MS&nbsp;&nbsp;The University of ArizonaIndian American oncologist Rachna Shroff passes away&nbsp;&nbsp;New India AbroadASCO Remembers Dr. Rachna T. Shroff, Expert in Gastrointestinal Cancers and Dedicated ASCO Volunteer&nbsp;&nbsp;The ASCO PostWho was Rachna Shroff? Indian-American cancer specialist who continued working while living with life-li",
+      "sources": [
+        {
+          "name": "TODAY.com",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUWJGeWpwSV94ZmZaYnotTFBvN3I3X05IT3ZXZWpjNXlxdXZHWHBOZ3czSU01Njg3enJJVjdsUkkycW9xTERFTU44WUtjRmNfZ21GZmJkMEc3bzNPMUE0bWNkN181bWRtMkNQLWE1OWc4SWxKdEFqRE55aGJBeGVSbm5PRjE2UDFOR3hkZElxNW5hQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3eed45b699f3",
+      "title": "NY measles outbreak more widespread than official count, health officials say - Gothamist",
+      "published": "2026-10-14T16:52:00+00:00",
+      "summary": "NY measles outbreak more widespread than official count, health officials say&nbsp;&nbsp;GothamistNew York Declares Measles Emergency as U.S. Cases Grow Over 4,000&nbsp;&nbsp;Discover MagazineMeasles is surging in the US. These graphics show how bad it has gotten&nbsp;&nbsp;AP NewsNew York and Pennsylvania's split screen approach to measles&nbsp;&nbsp;PoliticoLewis County measles cases rise to 15; all involve unvaccinated residents&nbsp;&nbsp;nny360.com",
+      "sources": [
+        {
+          "name": "Gothamist",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZEEwNlJkd3c0SXVMeUNMZy13dUFhSTc1SFdrUUl3SlFBVUlmakNacWxtdVNHREl5eUJOYjNyeHpqRmxzV3lVR3hDUUJiOTRaLTRwZ096V3NpeWZyWVduejdsRlZaQzk2djN4WHotNzFQNU12aVkwOVpNTlJlX3c3NEtoUTRQVkNRVHdVLS1NUWtNTk1kd1BGSFR5RjVfc1hjakxIZ0pR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3f1a6cf3c1ee",
+      "title": "Bryan Johnson’s girlfriend is tracking her own ‘nighttime erections’ — with a special ‘techno tampon’ - New York Post",
+      "published": "2026-10-14T16:43:00+00:00",
+      "summary": "Bryan Johnson’s girlfriend is tracking her own ‘nighttime erections’ — with a special ‘techno tampon’&nbsp;&nbsp;New York PostExploring the Mysteries of the Female Erection With Bryan Johnson’s Girlfriend&nbsp;&nbsp;VICEBryan Johnson Tracks Girlfriend’s Clitoral Blood Flow: What Can It Reveal About Her Cardiovascular & Sexual Health&nbsp;&nbsp;Health and MeBiohacker Bryan Johnson spends £12k tracking girlfriend's 'nocturnal erections'&nbsp;&nbsp;Daily StarBiohacker Kate Tolo tests techno tampon ",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbU4xWkE4WDVNcGN1bUxYclhrdVZieVQ3LVMtSFNzek9FMjVHUENRZ28yUllBTjRJeFVQZUZQUGNraE8zbGZtZnZVYUx4VExPWm53TmV3XzdnM1liOFdnalNGSmF6S1hqUzRYUG01QWRyeTh1ZVVhajVpbTlUQVB2R0pSMDhsWHdVUHhSUm55aV9oTS1UcUxQS3Q5OWJuRGZMVV9tWVNONXR1OHl3WEJJSHd4SQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ed837637fb8a",
+      "title": "Senate Republican knocks Trump administration on measles surge: ‘Get vaccinated, you don’t die’ - The Hill",
+      "published": "2026-10-14T16:40:00+00:00",
+      "summary": "Senate Republican knocks Trump administration on measles surge: ‘Get vaccinated, you don’t die’&nbsp;&nbsp;The HillCassidy Urges Measles Vaccination: 'You Don't Die'&nbsp;&nbsp;YahooLawmakers want answers from CDC director on childhood vaccine recommendations, measles response&nbsp;&nbsp;CIDRAP‘It’s almost personal’: GOP senator delivers stark warning in apparent swipe at RFK Jr.&nbsp;&nbsp;Raw StoryGOP Senator Knocks Trump Admin Over Measles Surge: ‘Get Vaccinated, You Don’t Die’&nbsp;&nbsp;AOL",
+      "sources": [
+        {
+          "name": "The Hill",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT3I0bHV4emk0aWNQVlRXTHljU2pNcVN5VGZqcl9RU01YSFhncTJSeUV3NHNyeVNCVk9xUlpzSHJlLVpXZ3VYdVpoRUlXZkF5aHRIcU0tQnFwangyVExyVTVVNFNRaldRNXBuRVIyLWFtQVFXdkVVSFVmbHRROEZYZDdDUkpjeDR5RjE5dWRFOEhmVW1ELWVuX3VEbjVUOUNh0gGmAUFVX3lxTE5PLXQ5OFhuWTMzNVFJX3JIRkQ4OTg2R3FkMWNHeHVndTlwMFU3UEpRenBPS0FXUzJJejBuczJweExGU3YwR0lFN0YxaDZkQlhOUC1XRHJhLXZQamRvcWhZT1Y0eEhsY01sZ3ZWV3piZ0MtVklmS05mZWhLcWdDT21NdXdzQmZvRmw3aFFJbElESmdyVVFuMUJUQ3c0aUlZeGpWMVRSYVE?oc=5"
+        }
+      ]
+    },
     {
       "id": "951a6122c5fd",
       "title": "6 Things Longevity Experts Wish People Would Stop Saying - The New York Times",
-      "published": "2026-10-14T16:10:10+00:00",
-      "summary": "6 Things Longevity Experts Wish People Would Stop Saying&nbsp;&nbsp;The New York TimesWhy Our Obsession With Extending Lifespans Is a Distraction&nbsp;&nbsp;YahooI’ve been a doctor for 30 years – our obsession with living longer has gone too far&nbsp;&nbsp;The TelegraphApparent death of lively belief in a long-lived swath of research about long-lived people&nbsp;&nbsp;Improbable ResearchI’m a longevity expert. These four anti-ageing myths are junk science&nbsp;&nbsp;The i Paper",
+      "published": "2026-10-14T16:13:00+00:00",
+      "summary": "6 Things Longevity Experts Wish People Would Stop Saying&nbsp;&nbsp;The New York TimesWhy Our Obsession With Extending Lifespans Is a Distraction&nbsp;&nbsp;JacobinApparent death of lively belief in a long-lived swath of research about long-lived people&nbsp;&nbsp;Improbable ResearchI’m a longevity expert. These four anti-ageing myths are junk science&nbsp;&nbsp;The i Paper",
       "sources": [
         {
           "name": "The New York Times",
@@ -21,7 +117,7 @@
       "id": "5c1de3301734",
       "title": "These common infections can cause cancer. Here’s what can lower your risk. - The Washington Post",
       "published": "2026-10-14T16:00:00+00:00",
-      "summary": "These common infections can cause cancer. Here’s what can lower your risk.&nbsp;&nbsp;The Washington PostThese Infections Are Linked to 12% of New Cancer Cases&nbsp;&nbsp;Time MagazineNew Lancet study links 12% of global cancer cases to 12 infections: Key pathogens and how to lower risk&nbsp;&nbsp;Clarin.comThese are the common infections that can cause cancer - and how to protect yourself&nbsp;&nbsp;The IndependentAmanda Pullinger։ Highlighting H. pylori Testing as an Opportunity for Stomach Ca",
+      "summary": "These common infections can cause cancer. Here’s what can lower your risk.&nbsp;&nbsp;The Washington PostThese Infections Are Linked to 12% of New Cancer Cases&nbsp;&nbsp;Time MagazineThese common infections are linked to 12% of new cancer cases, study says&nbsp;&nbsp;KCRAThese are the common infections that can cause cancer - and how to protect yourself&nbsp;&nbsp;The IndependentAmanda Pullinger։ Highlighting H. pylori Testing as an Opportunity for Stomach Cancer Prevention&nbsp;&nbsp;Oncodaily",
       "sources": [
         {
           "name": "The Washington Post",
@@ -30,22 +126,10 @@
       ]
     },
     {
-      "id": "a38b3ff1235a",
-      "title": "Leading Cancer Researcher, 47, Dies of the Disease She Was Trying to Cure. This Was Her 1st Symptom - TODAY.com",
-      "published": "2026-10-14T12:30:41+00:00",
-      "summary": "Leading Cancer Researcher, 47, Dies of the Disease She Was Trying to Cure. This Was Her 1st Symptom&nbsp;&nbsp;TODAY.comIn Memoriam: Rachna Shroff, MD, MS&nbsp;&nbsp;The University of ArizonaIndian American oncologist Rachna Shroff passes away&nbsp;&nbsp;New India AbroadASCO Remembers Dr. Rachna T. Shroff, Expert in Gastrointestinal Cancers and Dedicated ASCO Volunteer&nbsp;&nbsp;The ASCO PostWho was Rachna Shroff? Indian-American cancer specialist who continued working while living with life-li",
-      "sources": [
-        {
-          "name": "TODAY.com",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUWJGeWpwSV94ZmZaYnotTFBvN3I3X05IT3ZXZWpjNXlxdXZHWHBOZ3czSU01Njg3enJJVjdsUkkycW9xTERFTU44WUtjRmNfZ21GZmJkMEc3bzNPMUE0bWNkN181bWRtMkNQLWE1OWc4SWxKdEFqRE55aGJBeGVSbm5PRjE2UDFOR3hkZElxNW5hQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f932858fe0cf",
       "title": "Flu season is arriving months early. Here's where it's spreading - USA Today",
       "published": "2026-10-14T12:23:00+00:00",
-      "summary": "Flu season is arriving months early. Here's where it's spreading&nbsp;&nbsp;USA TodayFlu season gets an early start&nbsp;&nbsp;WBURDoctors recommend vaccination as seasonal viruses make an early appearance&nbsp;&nbsp;WJARFlu season hits Salt Lake early&nbsp;&nbsp;AxiosWhat you need to know about the flu shot as flu season picks up in Maine&nbsp;&nbsp;WMTW",
+      "summary": "Flu season is arriving months early. Here's where it's spreading&nbsp;&nbsp;USA TodayYour flu shot can’t wait&nbsp;&nbsp;VoxFlu season is kicking off early — are you getting a vaccine?&nbsp;&nbsp;Live ScienceMaine should expect an early flu season, experts say&nbsp;&nbsp;The Portland Press HeraldDoctors recommend vaccination as seasonal viruses make an early appearance&nbsp;&nbsp;WJAR",
       "sources": [
         {
           "name": "USA Today",
@@ -57,7 +141,7 @@
       "id": "fd7f61db2ad1",
       "title": "Guinea-Bissau denies it has approved controversial vaccine trial in newborns - The Guardian",
       "published": "2026-10-14T12:21:00+00:00",
-      "summary": "Guinea-Bissau denies it has approved controversial vaccine trial in newborns&nbsp;&nbsp;The GuardianOutrage grows as CDC reportedly poised to fund \"unethical\" vaccine trial&nbsp;&nbsp;Ars TechnicaCDC Is Moving Forward With a Previously Shelved Controversial Hepatitis B Vaccine Study&nbsp;&nbsp;Rolling StoneStand Up for Science Condemns CDC’s Attempts to Restart Controversial Vaccine Study in Guinea-Bissau&nbsp;&nbsp;EIN NewsHepatitis B vaccine study condemned as unethical wins approval from Dani",
+      "summary": "Guinea-Bissau denies it has approved controversial vaccine trial in newborns&nbsp;&nbsp;The GuardianHow a Controversial Hepatitis B Study Was Funded by the CDC Amid a Global Swirl of Criticism&nbsp;&nbsp;Rolling StoneOutrage grows as CDC reportedly poised to fund \"unethical\" vaccine trial&nbsp;&nbsp;Ars TechnicaHepatitis B vaccine study condemned as unethical wins approval from Danish university&nbsp;&nbsp;CIDRAPNIAID Nominee Nixed; CDC Funds Hep B Vax Study; 'Earth-Shaking' Vax Battle&nbsp;&nbs",
       "sources": [
         {
           "name": "The Guardian",
@@ -78,18 +162,6 @@
       ]
     },
     {
-      "id": "3eed45b699f3",
-      "title": "NY measles outbreak more widespread than official count, health officials say - Gothamist",
-      "published": "2026-10-14T12:00:00+00:00",
-      "summary": "NY measles outbreak more widespread than official count, health officials say&nbsp;&nbsp;GothamistNew York Declares Measles Emergency as U.S. Cases Grow Over 4,000&nbsp;&nbsp;Discover MagazineNew York governor plans to seek federal help to tackle measles outbreak&nbsp;&nbsp;ReutersNew York and Pennsylvania's split screen approach to measles&nbsp;&nbsp;PoliticoMeasles is surging in the US. These graphics show how bad it has gotten&nbsp;&nbsp;AP News",
-      "sources": [
-        {
-          "name": "Gothamist",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZEEwNlJkd3c0SXVMeUNMZy13dUFhSTc1SFdrUUl3SlFBVUlmakNacWxtdVNHREl5eUJOYjNyeHpqRmxzV3lVR3hDUUJiOTRaLTRwZ096V3NpeWZyWVduejdsRlZaQzk2djN4WHotNzFQNU12aVkwOVpNTlJlX3c3NEtoUTRQVkNRVHdVLS1NUWtNTk1kd1BGSFR5RjVfc1hjakxIZ0pR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a299420c8cfb",
       "title": "How to make thin hair look thicker and fuller in under 15 minutes - The Telegraph",
       "published": "2026-10-14T11:55:00+00:00",
@@ -102,22 +174,22 @@
       ]
     },
     {
-      "id": "51c87caf265d",
-      "title": "Scientists may have overlooked a hidden Alzheimer's culprit for decades - Science Daily",
-      "published": "2026-10-14T11:07:58+00:00",
-      "summary": "Scientists may have overlooked a hidden Alzheimer's culprit for decades&nbsp;&nbsp;Science Daily",
+      "id": "ac4bd37e40e0",
+      "title": "These Are The Most Common GLP-1 Side Effects — And What Doctors Say You Need For Relief - HuffPost",
+      "published": "2026-10-14T11:00:19+00:00",
+      "summary": "These Are The Most Common GLP-1 Side Effects — And What Doctors Say You Need For Relief&nbsp;&nbsp;HuffPostOngoing lawsuits allege GLP-1s can cause serious harm. But we don't know how often&nbsp;&nbsp;NPRWe’re still figuring out the side effects of GLP-1 weight-loss drugs&nbsp;&nbsp;MIT Technology ReviewRising Gallbladder Complications With GLP-1 Receptor Agonists Call for Closer Pharmacist Monitoring&nbsp;&nbsp;Pharmacy TimesBoerhaave Syndrome: Case Report on a Rare Complication of Semaglutide ",
       "sources": [
         {
-          "name": "Science Daily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wTEx3dGtES0V1TlZZVnBsR3B2UW1hMldyZVZyckgzajZfcm9rQk5PLXFKa1duY3FNRmZoaU9VUEQ4NE5ITHc1NTdDa2VRV25mejFWS2pOd3FrVWFIN1JXQWJwS0xaSmQyRnN3enZ3aw?oc=5"
+          "name": "HuffPost",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaTMwSHhSVTZEcHNCS1lFNnVuMXVPb1VmdllZb2NnN0k4UDZzVHJOYlRZd1UyaVJFMlVnaFp6QUlhZjhYTFRMbUw0Z3JsSHl3SDJZLUpWeWtncmtsOWk5em4xTmRqNFg0R1hmczZ2SWwzNEVOay00SUJDVV9PNWh5bktBN1dzcEtrcHFSNXdfbzk4SzBYUmowUmtPYlhmbVNtQnVPc1NlTnl3ODjSAbABQVVfeXFMTm5OWll5akdlUTd6NERLVXJ1a3lIaE8ybmcyTkNUQ2pjOGl5cDJ4Z0pKUDZRQXhjX2JJYjFyZUdyTy1sMmtGQjBEcG1sMVlQWnltd0dER1JYcnd0RzNCaGR0THFfeWhzYk1UaElSbEZnR3ZyZWJJR0VsWHJXNjVXSVo1ZFZPVmF2LXlxeEswbnVGb09KZ3BUc0E5RUNJMGZBbE5vbTRmdDYwWmh3NFVhNkI?oc=5"
         }
       ]
     },
     {
       "id": "5cd63e177024",
       "title": "How technology is changing the detection of breast cancer - CBS News",
-      "published": "2026-10-14T11:00:05+00:00",
-      "summary": "How technology is changing the detection of breast cancer&nbsp;&nbsp;CBS NewsAI tools for predicting breast cancer risk are heading straight to consumers&nbsp;&nbsp;WBURHidden clues could help predict a woman’s breast cancer risk years in advance&nbsp;&nbsp;Fox NewsWhy this startup is taking its AI to predict breast cancer risk directly to patients&nbsp;&nbsp;STATNH Medical: Advanced imaging sharpens breast cancer care at Elliot Hospital&nbsp;&nbsp;New Hampshire Union Leader",
+      "published": "2026-10-14T11:00:00+00:00",
+      "summary": "How technology is changing the detection of breast cancer&nbsp;&nbsp;CBS NewsAI tools for predicting breast cancer risk are heading straight to consumers&nbsp;&nbsp;WBURNorthwestern Medicine using AI to advance breast cancer screenings&nbsp;&nbsp;ABC7 ChicagoWhy this startup is taking its AI to predict breast cancer risk directly to patients&nbsp;&nbsp;STATAI-Enhanced Breast Cancer Screening Helped a Patient Take Action Early&nbsp;&nbsp;Mount Sinai",
       "sources": [
         {
           "name": "CBS News",
@@ -126,10 +198,22 @@
       ]
     },
     {
+      "id": "a9b237145b45",
+      "title": "GLP-1s may help boost fertility outcomes for hopeful mothers, some women find - ABC News - Breaking News, Latest News and Videos",
+      "published": "2026-10-14T10:18:49+00:00",
+      "summary": "GLP-1s may help boost fertility outcomes for hopeful mothers, some women find&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosInternational Consensus Addresses GLP-1 RA Use in Pregnancy&nbsp;&nbsp;Medscape'Ozempic babies' are real — here's what doctors want you to know about fertility and GLP-1 drugs&nbsp;&nbsp;Yahoo HealthOzempic baby boom? Weight-loss drug leading to pregnancies, new hope for couples&nbsp;&nbsp;KABBSharp Rise in Postpartum GLP-1 Receptor Agonist Use From 2018 to 202",
+      "sources": [
+        {
+          "name": "ABC News - Breaking News, Latest News and Videos",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSGdwclNSRTlHX25NaFpyeEhaeDlDbEp0WUswcE5vc1Fxd3FvcG1XMHhXTi1rYUgwX3JsNTJiVzNQSkk0WTZZTEpwQVhNOHVGeVNzMWI1QmFnaG1vMU1WZUZwNWlCT3BmVmVTX0ZMVTdUZGZJc0Q5OTJEOFMxR0RkM1AxTUhCcXJMMnQ1eFhnUDhpRmxIbExnNlNUOTg3cms30gGmAUFVX3lxTE5ZSjRmWXZoaXBMcDZfUnJHUE5rZVIzVmVnVjhrRE9XTDBOR0Z1aUJCV042a085VHY3ZUtSeEdmZjBhUU1OMmlaNWdPR1IwdWtEc3hZUXR3R3lET2pLSmoxRHBCaFhjRzVKU2xjTjU3UVNONTdZdFZYLWRhRy0zR2FWN1pxRmp1UDl4Q0F0dTlpWlo4RnlKRkFLQzlwUkR2VDRPV2lkYUE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "64e6e941d305",
       "title": "Weight loss with GLP-1s: What are the best ways to maintain results? - Medical News Today",
       "published": "2026-10-14T10:15:46+00:00",
-      "summary": "Weight loss with GLP-1s: What are the best ways to maintain results?&nbsp;&nbsp;Medical News TodayResearchers aim to mitigate weight gain after stopping GLP-1 use&nbsp;&nbsp;YahooStopping GLP-1s? This May Help You Maintain a Healthy Weight&nbsp;&nbsp;HealthlineStopping GLP-1 drugs often brings weight back. A small trial suggests ways to slow it&nbsp;&nbsp;News-Medical",
+      "summary": "Weight loss with GLP-1s: What are the best ways to maintain results?&nbsp;&nbsp;Medical News TodayA dietitian says GLP-1s aren't 'a free lunch' — you need a plan when you stop taking them. Here are her 3 best tips.&nbsp;&nbsp;Business InsiderResearchers aim to mitigate weight gain after stopping GLP-1 use&nbsp;&nbsp;WFLAA Gut-Level Pivot from Diabetes to a GLP-1 Off-Ramp｜The Bio Report&nbsp;&nbsp;finance.biggo.comStopping GLP-1s? This May Help You Maintain a Healthy Weight&nbsp;&nbsp;Healthline",
       "sources": [
         {
           "name": "Medical News Today",
@@ -141,7 +225,7 @@
       "id": "79e9c3381499",
       "title": "The genetic technique that finds (almost) every infection - BBC",
       "published": "2026-10-14T10:00:00+00:00",
-      "summary": "The genetic technique that finds (almost) every infection&nbsp;&nbsp;BBC",
+      "summary": "The genetic technique that finds (almost) every infection&nbsp;&nbsp;BBCGenetic breakthrough that identified COVID-19 now unearths elusive infections&nbsp;&nbsp;The Financial Express",
       "sources": [
         {
           "name": "BBC",
@@ -174,10 +258,34 @@
       ]
     },
     {
+      "id": "14a220ee09aa",
+      "title": "Popular erectile dysfunction pill may deliver additional boost to aging men - New York Post",
+      "published": "2026-10-14T08:43:00+00:00",
+      "summary": "Popular erectile dysfunction pill may deliver additional boost to aging men&nbsp;&nbsp;New York Post",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTlpXTHJaVGhocDJ0cjNTUHBLeXJiUkxOYUdxV3RmcUZnVEdjX1VGQUg4dHYtS1E3U1JaWVgwejc2T2V4dWxnYUpmNm9fb05tb2hVX0JUVFVvUW0tYmd0cU1ocmpab1JYdFZUYlJNY0Q1Qjh0eTl6eUtyc05iUEJmdk5WQnJ5S0hhMC1sNmo1ZS02VW91RkNjcXJWWFBCVGVFSHV2UG96NDZlXzVhTDN2RmRSTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "52492ef86b39",
+      "title": "\"Unrelated thoughts and ideas flow together, inanimate objects become loaded with emotional meaning and senses blend into one another\" - BBC Wildlife Magazine",
+      "published": "2026-10-14T07:30:22+00:00",
+      "summary": "\"Unrelated thoughts and ideas flow together, inanimate objects become loaded with emotional meaning and senses blend into one another\"&nbsp;&nbsp;BBC Wildlife MagazinePsilocybin, LSD, and 2C-B leave different fingerprints on the brain, new study suggests&nbsp;&nbsp;PsyPost",
+      "sources": [
+        {
+          "name": "BBC Wildlife Magazine",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pVWNqZEJiWW0yNUtfMkJDamJqM3VSUTdHZnBYM0lDNDRvTnc4SWRfU1VCNjlxckhQem11c0JlNTFhdEFpdTEtV0FzWFB2Yk1yZXJKaG42NlFSenU1NG9yMkM0Rmk2c2RhZGEzb3l4OEFVaWxoWGZF?oc=5"
+        }
+      ]
+    },
+    {
       "id": "922fe9c05a81",
       "title": "Ovaries remain active decades after menopause, study reveals - Medical Xpress",
       "published": "2026-10-14T05:00:01+00:00",
-      "summary": "Ovaries remain active decades after menopause, study reveals&nbsp;&nbsp;Medical XpressSee more headlines & perspectives on Google News",
+      "summary": "Ovaries remain active decades after menopause, study reveals&nbsp;&nbsp;Medical XpressWhy the ovary still matters well beyond menopause&nbsp;&nbsp;The Washington PostOvaries Develop an Intriguing Second Role After Menopause&nbsp;&nbsp;ScienceAlertOMRF Scientist said ovaries stay active after menopause&nbsp;&nbsp;YahooPostmenopausal ovaries keep changing and may foster ovarian cancer&nbsp;&nbsp;DongA Science",
       "sources": [
         {
           "name": "Medical Xpress",
@@ -186,10 +294,46 @@
       ]
     },
     {
+      "id": "624526d65b0e",
+      "title": "New knee arthritis treatment delivers lasting pain relief without surgery - Science Daily",
+      "published": "2026-10-14T04:42:27+00:00",
+      "summary": "New knee arthritis treatment delivers lasting pain relief without surgery&nbsp;&nbsp;Science DailySee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZjhoU1BNT2w2eWNfNy1KSVFmQXBkT0xDeFFRMURTOXFBdkVkZnBVa0hsREE4YXFDNE9fcXlROWwzUXpZM1BuY0pzX0pIWHlKbTZuRml5NnVtNDRlSDZXZllzTjBfWEhRMnFTU09Idw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b6a7fa16a185",
+      "title": "Can GLP-1s heal the brain? Obesity drugs get a makeover for addiction and depression - Nature",
+      "published": "2026-10-14T03:15:44+00:00",
+      "summary": "Can GLP-1s heal the brain? Obesity drugs get a makeover for addiction and depression&nbsp;&nbsp;NatureCould weight-loss drugs change how you spend money?&nbsp;&nbsp;TMJ4 NewsCan GLP-1 drugs help stop compulsive shopping, gambling and other ways people throw away their money?&nbsp;&nbsp;CBS NewsMarketing GLP-1 Drugs for Addiction: Why Critics Are Skeptical&nbsp;&nbsp;Mad In AmericaThe evidence suggesting GLP-1s can curb drug and alcohol cravings&nbsp;&nbsp;PBS",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uMWpBcVUzQVByaERXcVh4YUR1UFhPTnN2VkctalJmUFFzVjF4R3lJSjM3Y1JPQ3BxRHBiZUlQM3d4U0k3a3E4VW90NFo4LUxadUs1c3phVVp2cHI5U1FF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1267efbf955b",
+      "title": "This Simple 10-Second Balance Test May Reveal a Surprising Clue About Your Health - AOL.com",
+      "published": "2026-10-14T02:55:00+00:00",
+      "summary": "This Simple 10-Second Balance Test May Reveal a Surprising Clue About Your Health&nbsp;&nbsp;AOL.com",
+      "sources": [
+        {
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1rRGZvUFJlemlTMjYyZHBkS2MtNkRNNC1SN29vZkJXT3luV1JOMTVkNXRxc2V5c1lzZ2lWMmdfcER3UmE3OEZCT29FUFdtb3REa2VIQmFXUEYzaGJsRl9VSFhhV0NRRWNUSFc3MlFVTkkxZWtjMk1RcDdJTzJFdw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "fd6898e4c99c",
       "title": "Alpha-Gal Syndrome Spikes On Nantucket Over Summer As Lone Star Ticks Spread - Nantucket Current",
       "published": "2026-10-14T01:56:00+00:00",
-      "summary": "Alpha-Gal Syndrome Spikes On Nantucket Over Summer As Lone Star Ticks Spread&nbsp;&nbsp;Nantucket CurrentWarding Off Ticks Is Big Business. Inside the Alpha-gal Economy&nbsp;&nbsp;Inc.comCT has a new way to study an emerging tick borne disease. It involves an unusual and serious allergic reaction&nbsp;&nbsp;Hartford CourantDefending against the bite: Combating the rise of Alpha-Gal Syndrome&nbsp;&nbsp;TRICARE Newsroom (.mil)Western Pa. woman reportedly diagnosed with alpha-gal syndrome, a tick-b",
+      "summary": "Alpha-Gal Syndrome Spikes On Nantucket Over Summer As Lone Star Ticks Spread&nbsp;&nbsp;Nantucket CurrentWarding Off Ticks Is Big Business. Inside the Alpha-gal Economy&nbsp;&nbsp;Inc.comCT has a new way to study an emerging tick borne disease. It involves an unusual and serious allergic reaction&nbsp;&nbsp;Hartford CourantSurveillance, tick testing help combat rise of Alpha-Gal syndrome&nbsp;&nbsp;Army.milWestern Pa. woman reportedly diagnosed with alpha-gal syndrome, a tick-borne illness&nbsp;",
       "sources": [
         {
           "name": "Nantucket Current",
@@ -210,10 +354,22 @@
       ]
     },
     {
+      "id": "aff0b5e05d61",
+      "title": "Ultrashort laser pulses offer a new way to probe electrons' quantum geometry - Phys.org",
+      "published": "2026-10-13T23:40:02+00:00",
+      "summary": "Ultrashort laser pulses offer a new way to probe electrons' quantum geometry&nbsp;&nbsp;Phys.orgCircular Dichroism in Harmonic Light Reveals a Crystal’s Hidden Quantum Geometry&nbsp;&nbsp;Bioengineer.orgQuantum Geometry Of Materials Mapped With Light, Researchers Say&nbsp;&nbsp;Quantum Zeitgeist",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHTDdLZFhtTTBqcFRYM3ZjNExOZkc3cmlvRmhFYzgyYXJUeDlnb0xYbDZxTmhiSFFUcm9FWE5fdVBJd1N3TUxndWtvdWFkcWQzUDBtY0ZBNDBMY3lucXlDR1gxV0c2OUZfSEs4T01kS1VKN2hzRHhnSmxMcnNnVkU?oc=5"
+        }
+      ]
+    },
+    {
       "id": "4442b85b298d",
       "title": "Measles case reported in north Alabama, officials advise to be wary of symptoms - AL.com",
       "published": "2026-10-13T23:34:00+00:00",
-      "summary": "Measles case reported in north Alabama, officials advise to be wary of symptoms&nbsp;&nbsp;AL.comTraveler with measles visited Huntsville businesses, ADPH advises vaccination checks&nbsp;&nbsp;rocketcitynow.comADPH reports measles case in Huntsville, warns of symptoms&nbsp;&nbsp;WHNT.comMeasles case reported in Huntsville&nbsp;&nbsp;WAFFADPH Reports Measles Case in Huntsville | Oct. 13, 2026 | News 19 at 4 p.m.&nbsp;&nbsp;Yahoo",
+      "summary": "Measles case reported in north Alabama, officials advise to be wary of symptoms&nbsp;&nbsp;AL.comADPH reports measles case in Huntsville, warns of symptoms&nbsp;&nbsp;WHNT.comTraveler with measles visited Huntsville businesses, ADPH advises vaccination checks&nbsp;&nbsp;rocketcitynow.comMeasles case reported in Huntsville&nbsp;&nbsp;WAFFADPH Reports Measles Case in Huntsville | Oct. 13, 2026 | News 19 at 4 p.m.&nbsp;&nbsp;Yahoo",
       "sources": [
         {
           "name": "AL.com",
@@ -222,10 +378,22 @@
       ]
     },
     {
+      "id": "80b39f760097",
+      "title": "Laurel County Health Department investigation reveals over 50 reported cases of measles - WYMT",
+      "published": "2026-10-13T22:54:00+00:00",
+      "summary": "Laurel County Health Department investigation reveals over 50 reported cases of measles&nbsp;&nbsp;WYMTLaurel County reports over 50 measles cases identified from late summer outbreak&nbsp;&nbsp;YahooMore than 150 measles cases now confirmed in Kentucky outbreak&nbsp;&nbsp;WKYTMeasles cases surge past 150 in Kentucky; big outbreak identified in one county&nbsp;&nbsp;WLKYKentucky measles outbreak grows to more than 150 reported cases&nbsp;&nbsp;WKRC",
+      "sources": [
+        {
+          "name": "WYMT",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVV8zeGtzMDdtNWFKeVREODFTOHRxTlZSM2x5LXZCTUtyV05HYzVRb09CeUkxLTctbFNMb3k4bm1kY3VVNXg4SE5Tb2h4dkV4YVYyb1B3SUV3aEc0NU93Umd5SmxWYjhPN0tCd19PcHZKRVBlLXpSQnpXUlJmYjhFM0NUSGVwQXFtNnR4OXJoWnlHUko2V1Jsbm9pR0FlOVFEMGhFaUZNbWpIQ0hHQzFPcGRDVFQ1LTlf0gHMAUFVX3lxTE1xTFZ6VmhFbVpVX3VXUWQ0N3ZrUU93cF9hLTRBTWpuTEVCYVdpc0pPYXFVanBjT0hsaERZSk4tb0NQX3Rad1pSQnRvWmdVSlBRNERDWUJkVDFTb2pjVWFrQVBjbTN1YmRFcGc3R20wVlh0a3p4aFYwV3M1LWg0SUZYVlVkQVkwSjhOLUtsR0w1ZDB3dzRJQm5aVlBRZjVaNVk0S2VyNS03YjlfQUtoeU5GdmgxRkVROUh4cHF4RHZ1UmR5WjI5cEpxTkxsOQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "094bdba12c0e",
       "title": "Pennsylvania at the center of US measles outbreaks - The Hill",
       "published": "2026-10-13T22:50:00+00:00",
-      "summary": "Pennsylvania at the center of US measles outbreaks&nbsp;&nbsp;The HillSixth person who had measles has died in Pennsylvania, local coroner says&nbsp;&nbsp;The Washington PostPennsylvania announces sixth death in measles outbreak as case numbers rise&nbsp;&nbsp;The GuardianAs measles continues to spread, health officials are seeing vaccine interest rise&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosCDC to deploy additional support to Pennsylvania to probe measles outbreak&nbsp;&nbsp;",
+      "summary": "Pennsylvania at the center of US measles outbreaks&nbsp;&nbsp;The HillPennsylvania doctors are seeing what measles can do to previously healthy, unvaccinated kids&nbsp;&nbsp;NBC NewsPennsylvania announces sixth death in measles outbreak as case numbers rise&nbsp;&nbsp;The GuardianAs measles continues to spread, health officials are seeing vaccine interest rise&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos39-year-old unvaccinated woman becomes 6th measles death in Pennsylvania&nbsp;",
       "sources": [
         {
           "name": "The Hill",
@@ -234,10 +402,22 @@
       ]
     },
     {
+      "id": "e0d419c30ddb",
+      "title": "2 dead in North Carolina from West Nile virus as central NC seeing high transmission due to ongoing warm fall weather - ABC11 News",
+      "published": "2026-10-13T21:52:12+00:00",
+      "summary": "2 dead in North Carolina from West Nile virus as central NC seeing high transmission due to ongoing warm fall weather&nbsp;&nbsp;ABC11 News2 West Nile virus deaths reported in North Carolina: Officials&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosTwo North Carolinians dead from West Nile Virus&nbsp;&nbsp;WRALTwo NC adults die after contracting West Nile virus, state health department says&nbsp;&nbsp;Raleigh News & ObserverWest Nile virus linked to 2 deaths in NC&nbsp;&nbsp;USA Toda",
+      "sources": [
+        {
+          "name": "ABC11 News",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcjBJVDhzYVotS2pocWRHc0hnNzFQVFR3R3JDMWRtRTJ0Z083SXFyVVhBN0psbTkxSDhiQzFFMnhzcXZaX2hLVzAycnlkTUxNMXZrRlVrRS1RUVRteVVDcXpKZ09ERVJJMGFHQ0lwQ0NXNUZaY0QxRUpCdV90a2phSVFiLXh1U0NjUmFnSUk0SWlZUEhHWmVEXzI1Tlg2WHU5R3VZUzRJajJSUjcxa0dxQldkRGRUa25hWGNFZXBQMG80YWZmelRSRWxjenQ2VVFzeXfSAdcBQVVfeXFMTW5sWUxLTTdEVEh5TmNBNDBkR1czVEVHNTFnOXh2VXlFWHEybkt5ZVFDTFo1TVdQaDE3NHZ6YXNhWVBQVS0td19UY0ZMekdmeERIaExkM21rZ2VtTnFvM0JKY3NjVFRqaXpKbEZmSjJBRmRqWXAxS2xhamkyVG5abTU4Qmx6VFNYRENfWDlTYmdUYThUaWpSQ1hDY0hzOTlsX0NrQldJdi01T09VZzZWbFowYVVwSFpmeDcxOTVWcmpCaDhGNklzeDJ0S1MwOUdDN1BMaC1KWk0?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7c937310a59e",
       "title": "Cannabis for Insomnia? The Verdict Is Shaky, Review Finds - Gizmodo",
       "published": "2026-10-13T20:50:27+00:00",
-      "summary": "Cannabis for Insomnia? The Verdict Is Shaky, Review Finds&nbsp;&nbsp;GizmodoMedical Cannabis Shows Little Benefit for Insomnia in Adults&nbsp;&nbsp;MedscapeThink cannabis helps you sleep better? Think again&nbsp;&nbsp;Medical XpressCannabis Destroys Sleep Quality&nbsp;&nbsp;Neuroscience NewsCannabis no good for sleep&nbsp;&nbsp;Pharmacy Daily",
+      "summary": "Cannabis for Insomnia? The Verdict Is Shaky, Review Finds&nbsp;&nbsp;GizmodoThink cannabis helps you sleep better? Think again.&nbsp;&nbsp;Northwestern Now NewsMedical Cannabis Shows Little Benefit for Insomnia in Adults&nbsp;&nbsp;MedscapeCannabis Destroys Sleep Quality&nbsp;&nbsp;Neuroscience NewsCannabis no good for sleep&nbsp;&nbsp;Pharmacy Daily",
       "sources": [
         {
           "name": "Gizmodo",
@@ -249,7 +429,7 @@
       "id": "f3f209531827",
       "title": "Measles cases continue to grow in northeast Indiana - WANE 15",
       "published": "2026-10-13T20:08:48+00:00",
-      "summary": "Measles cases continue to grow in northeast Indiana&nbsp;&nbsp;WANE 15Additional measles case reported in Allen, DeKalb counties&nbsp;&nbsp;WPTA | 21Alive | Fort Wayne, INMeasles concerns prompt guidance for Delaware County residents&nbsp;&nbsp;The Star PressIndy hospital screening patients for measles as cases, concerns continue to rise&nbsp;&nbsp;News at IUIndiana confirms 28 measles cases statewide as health officials warn of continued spread&nbsp;&nbsp;am1050.com",
+      "summary": "Measles cases continue to grow in northeast Indiana&nbsp;&nbsp;WANE 15Measles on the rise, officials urge MMR vaccine to prevent infection&nbsp;&nbsp;WSBTAdditional measles case reported in Allen, DeKalb counties&nbsp;&nbsp;WPTA | 21Alive | Fort Wayne, INMeasles concerns prompt guidance for Delaware County residents&nbsp;&nbsp;The Star PressIndiana confirms 28 measles cases statewide as health officials warn of continued spread&nbsp;&nbsp;am1050.com",
       "sources": [
         {
           "name": "WANE 15",
@@ -270,18 +450,6 @@
       ]
     },
     {
-      "id": "fef32fd6335f",
-      "title": "Popular erectile dysfunction pill may deliver additional boost to aging men - Fox News",
-      "published": "2026-10-13T19:54:48+00:00",
-      "summary": "Popular erectile dysfunction pill may deliver additional boost to aging men&nbsp;&nbsp;Fox News",
-      "sources": [
-        {
-          "name": "Fox News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOakdLSVJnODVNcDAzTWlRSUtYNENGbmVFYXJRd0dvZ3JCSFVHMFRhNEhTaV9PWVVINVc5aWdoWFBDamhGVG5TQ3pwLWE4TldmdjJQQzJveThjRmhFLVpHUXZyLWVKOTdiaUU4TlZJNDRBMHQzZDM5NHF1YkJJN2FmREJvWGlNM2lyOWRRZE9BV3R3NDdfM0NkTkJkRFpRR0pDdXNMbUxR0gGrAUFVX3lxTE1WVWVWZmotdC1INVljd3NSWEdiLXhxTTBvSlE4dHM0bWFET2F2Nl93V2VDWVZ2UkwwVlJUVlZUbThsa3FfRDg4SjJ6d25hbmtxUy1JbkRmUnJZSUNxM2tSZDRJZ2JzMG01VDBvVlJCMVN2Q0NiVlZRclY4RFg5NWNIVE0xUHg2eVRXUVdNWVRJNXlJaXFsNGhWVWlDRFZoMDV1V0RvTEhnZTJlNA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "451b5ca0be68",
       "title": "A new way to replace carbon with nitrogen atoms could lead to better medicines - Phys.org",
       "published": "2026-10-13T19:50:07+00:00",
@@ -297,7 +465,7 @@
       "id": "570cdc2c0360",
       "title": "Protein clues may help explain heart disease risk that persists despite lower LDL cholesterol - Medical Xpress",
       "published": "2026-10-13T19:40:25+00:00",
-      "summary": "Protein clues may help explain heart disease risk that persists despite lower LDL cholesterol&nbsp;&nbsp;Medical XpressSee more headlines & perspectives on Google News",
+      "summary": "Protein clues may help explain heart disease risk that persists despite lower LDL cholesterol&nbsp;&nbsp;Medical XpressBeyond ‘bad’ cholesterol: new clues to the risk of heart disease&nbsp;&nbsp;News-MedicalA graphic showing three types of fat-carrying particles (lipoproteins) which can deposit cholesterol in the blood vessel walls. Their common feature is apolipoprotein B particle on their surface.&nbsp;&nbsp;Cision NewsDr. Wilhelms: Taking Heart Health Screenings Into Your Hands&nbsp;&nbsp;Ari",
       "sources": [
         {
           "name": "Medical Xpress",
@@ -318,14 +486,14 @@
       ]
     },
     {
-      "id": "7b6ced297f5e",
-      "title": "Helen Branswell, whose reporting on infectious diseases and public health drew acclaim, dies at 69 - STAT",
-      "published": "2026-10-13T18:13:54+00:00",
-      "summary": "Helen Branswell, whose reporting on infectious diseases and public health drew acclaim, dies at 69&nbsp;&nbsp;STATCanadian health reporter Helen Branswell dead at 69, remembered as 'pretty kickass' journalist&nbsp;&nbsp;CBCFormer CP health reporter Helen Branswell remembered as excellent journalist and loving person&nbsp;&nbsp;Toronto StarSaying Goodbye to An Infectious Disease Reporting Legend&nbsp;&nbsp;Avian Flu Diary",
+      "id": "ce8d3ba27da8",
+      "title": "People say these peptides hurt them. Their stories are muffled in MAHA’s push for medical freedom - CNN",
+      "published": "2026-10-13T19:18:49+00:00",
+      "summary": "People say these peptides hurt them. Their stories are muffled in MAHA’s push for medical freedom&nbsp;&nbsp;CNNInjectable Peptides Are All Over Social Media, But How Much Do We Really Know?&nbsp;&nbsp;Her CampusPeople Taking Gray Market Peptides Say They’re Causing Bizarre Medical Issues&nbsp;&nbsp;Futurism",
       "sources": [
         {
-          "name": "STAT",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeGsyWE9sWU5pMEpBM3gxdjhpTkZsZUl5TUN4cGhBdFVHeDhMRWx1S1Q5c2FYbW9pdmlhdnRqVXREMnVBSjU4M3RCMnpVV0VCTGI1NnVTYjVjWTVpalpQOVU1V2UzWWoySDcySUllM1FPRG1mLVluWERHWWZHMnp4Sw?oc=5"
+          "name": "CNN",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fN012T0pfd3NZYkozclA1aWxJRU93OGpyUTFmUWZaVFJkdXlNbTJXNUxhX2NVMktSdmdBY1BRV2dOY3JfX0RhcFNXdVZIUTUtd2NFV1lDaGVUQXNmUUpFemFmbjctaXJsQVE?oc=5"
         }
       ]
     },
@@ -357,7 +525,7 @@
       "id": "141fed893db3",
       "title": "Top expert-recommended foods and drinks to strengthen your immunity this flu season - New York Post",
       "published": "2026-10-13T16:30:00+00:00",
-      "summary": "Top expert-recommended foods and drinks to strengthen your immunity this flu season&nbsp;&nbsp;New York PostWant to dodge the flu this year? Eat these secret-weapon immunity-boosting foods&nbsp;&nbsp;Fox News5 ways to support your immune system during cold and flu season&nbsp;&nbsp;health enewsHow to stay healthy during respiratory illness season&nbsp;&nbsp;Farm ProgressFall Foods & Healthy Habits for Flu Season&nbsp;&nbsp;Chautauqua County (.gov)",
+      "summary": "Top expert-recommended foods and drinks to strengthen your immunity this flu season&nbsp;&nbsp;New York PostWant to dodge the flu this year? Eat these secret-weapon immunity-boosting foods&nbsp;&nbsp;Fox News5 ways to support your immune system during cold and flu season&nbsp;&nbsp;health enewsHow to stay healthy during respiratory illness season&nbsp;&nbsp;Farm ProgressForget expensive immunity pills — a doctor has revealed the golden rules for protecting yourself from a cold&nbsp;&nbsp;Слободе",
       "sources": [
         {
           "name": "New York Post",
@@ -366,22 +534,10 @@
       ]
     },
     {
-      "id": "71fe6f39359d",
-      "title": "Two North Carolinians dead from West Nile Virus - WRAL",
-      "published": "2026-10-13T16:04:37+00:00",
-      "summary": "Two North Carolinians dead from West Nile Virus&nbsp;&nbsp;WRAL2 dead in North Carolina from West Nile virus as central NC seeing high transmission due to ongoing warm fall weather&nbsp;&nbsp;ABC11 NewsWest Nile virus linked to 2 deaths in NC&nbsp;&nbsp;USA TodayTwo NC adults die after contracting West Nile virus, state health department says&nbsp;&nbsp;Raleigh News & ObserverWest Nile Virus Claims Two Lives In North Carolina: Why The Mosquito-Borne Infection Can Turn Severe&nbsp;&nbsp;Health an",
-      "sources": [
-        {
-          "name": "WRAL",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeV9zQkZpWnV1Wng3LXNoTEctdUNzZFRfcnEweGVCeUlTUWh4cXBUX2hHbzRnbWNDR2g4ZGp6SEF6VEdGSjlEYW9RaDVybjhpUUo1dUhXVGJNOVR2a2JYLUUzWVBfc1V5Z21qeTlvNGM2TDBvcmdYNDBxZ2Q0em5reEpNdXVGaEM0Ry1iWURGNGRndw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0adc46cd7ca9",
       "title": "When an elephant dies, its body marks the landscape for a decade - The Washington Post",
       "published": "2026-10-13T16:00:00+00:00",
-      "summary": "When an elephant dies, its body marks the landscape for a decade&nbsp;&nbsp;The Washington PostWhere Elephants Fall, Their Impact Echoes for Years&nbsp;&nbsp;NewserElephants continue to shape the savanna even after death&nbsp;&nbsp;Phys.org“That's just insane.” Elephant dies in South Africa – and scientists are stunned at what happens next&nbsp;&nbsp;BBC Wildlife MagazineElephant Fall: Researchers Returned To The Site Of An Elephant's Death After A Decade, And Describe What They Found As \"Insane",
+      "summary": "When an elephant dies, its body marks the landscape for a decade&nbsp;&nbsp;The Washington PostElephants continue to shape the savanna even after death&nbsp;&nbsp;Phys.org“That's just insane.” Elephant dies in South Africa – and scientists are stunned at what happens next&nbsp;&nbsp;BBC Wildlife MagazineWhere Elephants Fall, Their Impact Echoes for Years&nbsp;&nbsp;NewserElephant Fall: Researchers Returned To The Site Of An Elephant's Death After A Decade, And Describe What They Found As \"Insane",
       "sources": [
         {
           "name": "The Washington Post",
@@ -402,14 +558,38 @@
       ]
     },
     {
-      "id": "8e49d18b09b9",
-      "title": "Woman Who Survived Colon Cancer 3 Times Reveals the First Symptom She Noticed at 14: ‘I Hid It From Everyone’ - Yahoo",
+      "id": "3706e98f3564",
+      "title": "Woman Who Survived Colon Cancer 3 Times Reveals the First Symptom She Noticed at 14: ‘I Hid It From Everyone’ - AOL.com",
       "published": "2026-10-13T15:55:27+00:00",
-      "summary": "Woman Who Survived Colon Cancer 3 Times Reveals the First Symptom She Noticed at 14: ‘I Hid It From Everyone’&nbsp;&nbsp;YahooSee more headlines & perspectives on Google News",
+      "summary": "Woman Who Survived Colon Cancer 3 Times Reveals the First Symptom She Noticed at 14: ‘I Hid It From Everyone’&nbsp;&nbsp;AOL.com",
       "sources": [
         {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON01CY2dmUy1IdHBwV0diS0dnS2VVcUNzYmt3WF9pSUVoeHY5dHJmX05nTmtWR1B0OFl5VjU1WnJxZGxRZXVyampzZHJscTYyLXdLV1NkdjFId1gxSGdtdnFVR2JvUGlBZnlCNG1tOUVSSnBxVFNXSVJ3RW5CRFJMd0ltOW5pMXRyZ19aTkpR?oc=5"
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJMVZPVGR0c2dualFLM2VFNklmTUpJeUY3NWViajg1bXhTM0pZamFKb01tcWw5dFgza25wRHNxNTlmQXA1VWlScHBrOFQ2R0RuZnhIQXdvb1VBZEhRY0wxZjUxai04TVA4UkhySG8wZmtvWkJ1Y1hDZnN1aW5OUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dd4d8790e9d1",
+      "title": "Clonal heterogeneity in human pancreatic ductal adenocarcinoma and its impact on tumor progression - Nature",
+      "published": "2026-10-13T15:15:17+00:00",
+      "summary": "Clonal heterogeneity in human pancreatic ductal adenocarcinoma and its impact on tumor progression&nbsp;&nbsp;NatureContinuously evolving cells help pancreatic cancer evade treatment and spread&nbsp;&nbsp;Medical XpressSingle-Cell Profiling Exposes Hidden Diversity Within Pancreatic Tumors&nbsp;&nbsp;Inside Precision MedicineUCSD-led study finds how pancreatic cancer cells can change genetic makeup&nbsp;&nbsp;KPBSNelson Dusetti Highlights New Insights Into Pancreatic Cancer Treatment Resistance&",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EVGxXeGVFZjUyaGxsNHhiTnFBUGRlTFFUQ0dlV2NOVlVZYzJQZWpkQVZZMzJsOWE3RlVXUWpITW9VX3gyRzFSTHRTUjBvelNDZllET1h6RW5kRE5mS01V?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "11f80262ca9c",
+      "title": "Helen Branswell, whose reporting on infectious diseases and public health drew acclaim, dies at 69 - The Boston Globe",
+      "published": "2026-10-13T15:14:00+00:00",
+      "summary": "Helen Branswell, whose reporting on infectious diseases and public health drew acclaim, dies at 69&nbsp;&nbsp;The Boston GlobeSee more headlines & perspectives on Google News",
+      "sources": [
+        {
+          "name": "The Boston Globe",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8zQk4wY1hpSXZBZWFERl9MbFRHcVFpMG1fZHhxWG1kNEdWMWRaYmJMTzc2U2dzcFpwSWNYazMtMTRrMmNTRk43WEhUVmRyUlZaMkE3TTFRM0kwdXVybVlVZ1ZhMV9CZXo5TWVwanFxdUM2dWhKcGJXVkVR?oc=5"
         }
       ]
     },
@@ -486,14 +666,14 @@
       ]
     },
     {
-      "id": "21599c961f48",
+      "id": "698dea0b1eac",
       "title": "Mini organs launching to space may help future astronauts and humans on Earth stay healthy - ABC News - Breaking News, Latest News and Videos",
       "published": "2026-10-13T10:32:12+00:00",
-      "summary": "Mini organs launching to space may help future astronauts and humans on Earth stay healthy&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosMount Sinai Scientists to Send Human Tissue Models Into Space to Study Brain, Heart Health, and Aging in Microgravity&nbsp;&nbsp;Mount SinaiNASA’s SpaceX CRS-35 Mission to Launch Health Research&nbsp;&nbsp;NASA Science (.gov)KAUST-developed experiments head to space to advance neurodegenerative disease research&nbsp;&nbsp;Satellite EvolutionFirst C",
+      "summary": "Mini organs launching to space may help future astronauts and humans on Earth stay healthy&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosNASA’s SpaceX CRS-35 Mission to Launch Health Research&nbsp;&nbsp;NASA Science (.gov)Mount Sinai Scientists to Send Human Tissue Models Into Space to Study Brain, Heart Health, and Aging in Microgravity&nbsp;&nbsp;Mount SinaiTiny Beating Hearts Orbiting The Earth Could Reveal How Bodies Age&nbsp;&nbsp;Gadget ReviewSaudi Arabia Launches First Biolog",
       "sources": [
         {
           "name": "ABC News - Breaking News, Latest News and Videos",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMnQ3ekZCVXl1eFMzWkZseVRrMENHUWFWRUtEZGxicmRGMkk2NlBKTzdwRVJhN1ZJRExLRk01blJuM3J5YlE2cE9DNzcwVWtFQjFHMkIwUUxJa3d3dE9ZNS1hQ2JUd19QSGxaeVJKbXVwaFRyenZZNzdSNm5sLW5HU0pjUjFoYVgzbHBxZHdCZ3QxZ3pVVGJZWWtlS0wtXy1kVkJzUDFyNA?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMnQ3ekZCVXl1eFMzWkZseVRrMENHUWFWRUtEZGxicmRGMkk2NlBKTzdwRVJhN1ZJRExLRk01blJuM3J5YlE2cE9DNzcwVWtFQjFHMkIwUUxJa3d3dE9ZNS1hQ2JUd19QSGxaeVJKbXVwaFRyenZZNzdSNm5sLW5HU0pjUjFoYVgzbHBxZHdCZ3QxZ3pVVGJZWWtlS0wtXy1kVkJzUDFyNNIBrAFBVV95cUxPVGd0ZDl4TmhxMmxSZXlXZUVQbjByTmFJcTJfOVNGQjNSdHJNWFdCYjRRLUpPRG5qNl9iU3J1bTRNNEFucGlBYW53MXM3Q3ZhYkhiWTlJZEVlblhwWUIwUGg3ckdsbTd4S3FNdHloNkhXQW1zNlkwLTc1VTBsb3hVaC0tTHQyT0RDSklNVFV1Uk1acXV6aXJlUVVhTmJYdDVSSlhscTN6RnRrdWt2?oc=5"
         }
       ]
     },
@@ -513,7 +693,7 @@
       "id": "dda1517938c3",
       "title": "Could GLP-1 drugs be anti-aging medications? - CNN",
       "published": "2026-10-13T10:00:45+00:00",
-      "summary": "Could GLP-1 drugs be anti-aging medications?&nbsp;&nbsp;CNNSee more headlines & perspectives on Google News",
+      "summary": "Could GLP-1 drugs be anti-aging medications?&nbsp;&nbsp;CNNGLP-1 weight-loss drugs slow biological aging, recent studies show&nbsp;&nbsp;NewsNationCan GLP-1s Slow Aging?&nbsp;&nbsp;Nautilus | Science ConnectedGLP-1 Drugs May Slow Aging By Upto Four Years, Early Research Suggest&nbsp;&nbsp;RTTNewsGLP-1 drugs can ‘reverse biologic aging’ by two to three years, say drug companies&nbsp;&nbsp;New York Post",
       "sources": [
         {
           "name": "CNN",
@@ -537,23 +717,11 @@
       "id": "65035670889e",
       "title": "Divergent trial results on cancer vaccines have the field grappling with hard questions - The Boston Globe",
       "published": "2026-10-13T09:06:00+00:00",
-      "summary": "Divergent trial results on cancer vaccines have the field grappling with hard questions&nbsp;&nbsp;The Boston GlobePersonalized mRNA vaccines are poised to revolutionize cancer treatments. Here are the barriers.&nbsp;&nbsp;Genetic Literacy ProjectPersonalised cancer vaccines take a leap forward – can Swiss pharma catch up?&nbsp;&nbsp;SWI swissinfo.chCT doctors provide insight on experimental vaccines, drugs providing cancer patients with hope&nbsp;&nbsp;CT InsiderWhat Is a Personalized Cancer Va",
+      "summary": "Divergent trial results on cancer vaccines have the field grappling with hard questions&nbsp;&nbsp;The Boston Globe",
       "sources": [
         {
           "name": "The Boston Globe",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPS1lGVnhrMlNkeXZSdnJBRE9NSDBoc0VOaDFYRF82MDczSFJCa3hPZVg0WEhyUHQ1YUJMMkNPdDBCYXRJdUxsaS10cHI0ZEtOcnpYd2dfSGZqUFFEakRLdUNxd0ZaeU5HSmRSajBtR0JmS2trTElpR3kzc3FBU3VzYmdB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c289e63144c6",
-      "title": "Chronic UTIs made MP 'feel like a drug user' - BBC",
-      "published": "2026-10-13T05:38:00+00:00",
-      "summary": "Chronic UTIs made MP 'feel like a drug user'&nbsp;&nbsp;BBCHow chronic UTI sufferers could finally have official medical condition by 2027&nbsp;&nbsp;The i Paper",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wZUdSVUdfOTNWaWk2REgwcTQtZ0dKbUJmQUxxMWViMEtjUkZfYUxpRnRSaWRzQVJYWE4tQW5ZVVhmdXRrR0ZWdzM3TUNrVm1sVUlibHZzUzRFeFk?oc=5"
         }
       ]
     },
@@ -570,30 +738,6 @@
       ]
     },
     {
-      "id": "60f9426de502",
-      "title": "Gravity and quantum information linked through a derivation of Einstein's equations - Phys.org",
-      "published": "2026-10-12T23:20:01+00:00",
-      "summary": "Gravity and quantum information linked through a derivation of Einstein's equations&nbsp;&nbsp;Phys.orgNew study links the fabric of spacetime to quantum information&nbsp;&nbsp;Sharjah24",
-      "sources": [
-        {
-          "name": "Phys.org",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMk05c0ZybWszN3pSLTFKejJYbTdKT1BHdVliY0VRaXByZjQ2LU1BNmdsRk1xWC1ocXAxX09wRmZWbDF2dWN1Z0N1Z0NfSWZzYlo5YmE3eTRSOUpOcEMzZ3BBZHlfOVU1YU5VY1NaOUlxUVlsY2x4blRvS3BGMUVueloyQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "706bc1ca7cc7",
-      "title": "One-Third of Older Adults With Cognitive Disorders Take Drugs That Could Harm Them - SciTechDaily",
-      "published": "2026-10-12T23:07:07+00:00",
-      "summary": "One-Third of Older Adults With Cognitive Disorders Take Drugs That Could Harm Them&nbsp;&nbsp;SciTechDaily",
-      "sources": [
-        {
-          "name": "SciTechDaily",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ1VzS1NuLTI2SlJPQ0h6emhGdXN5ckR6QkNiNkI2YWROOENJcnRpWVRYWGMxNmJjYzBkSE1hVXI4YUUwbFcxYjBBcVBSNGlDNHhra1FkaWpjODIySFdvTlhxZl9wSHNPcVlBQTFHTFFoNmtScFFESTAtNGVyM3dMS1hZTmhDRWhEc0VkbF92Q1d6czEyR0V3U2JEYXFYOUNlVGxET1BGb0FYeWZ6?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6321ead20a50",
       "title": "Cholesterol-linked drug boosts gene-targeting potency in early findings - Phys.org",
       "published": "2026-10-12T21:00:18+00:00",
@@ -602,18 +746,6 @@
         {
           "name": "Phys.org",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBlVzlHUzhmbFdvTTB3aTVuMEc2NURONHdFSklfQ1kxWFkxV0kxVTlDNm9ObVA4T2VENko2TGZsYUpVLUZLU3dBd1ZobmZLczBwRWlDa3d2Q3d6R2dKY2VpcmMxbEJTVHFlZmFqS1JLbGFXekttbHZiam93?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1a082a9eea7a",
-      "title": "Scientists find a surprising genetic twist behind octopus intelligence - Science Daily",
-      "published": "2026-10-12T20:46:53+00:00",
-      "summary": "Scientists find a surprising genetic twist behind octopus intelligence&nbsp;&nbsp;Science Daily3D genome 'entanglement' may explain how cephalopods evolved complex brains&nbsp;&nbsp;Phys.orgNew DNA findings may explain how octopuses evolved complex brains&nbsp;&nbsp;YahooWorld Octopus Day: new discoveries about the world’s smartest invertebrates&nbsp;&nbsp;Mongabay NewsEight Arms, Two Questions: Jerry's Octopus Pop Quiz Is Here to Test Your Smarts&nbsp;&nbsp;NBC Palm Springs",
-      "sources": [
-        {
-          "name": "Science Daily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zQTZXMmNCSlhLMGhWaXd6dWJIaUtEa1dUaElOVnZ1aEYxQ1l6bHFtR1dNLU5tTkJkdVUxajJmMTFNRmJTS0JNdm1vVVNLNU0wMV96aVZUY25FVVF1WkIxQl9fcnl0WEJPY212ZGJoOA?oc=5"
         }
       ]
     },
@@ -642,30 +774,6 @@
       ]
     },
     {
-      "id": "b28f927a8908",
-      "title": "Young Influencer Left With Facial Paralysis After 23-Day Period In ICU Over Eating Sushi, Doctors Explain The Risks - AOL.com",
-      "published": "2026-10-12T17:41:43+00:00",
-      "summary": "Young Influencer Left With Facial Paralysis After 23-Day Period In ICU Over Eating Sushi, Doctors Explain The Risks&nbsp;&nbsp;AOL.com",
-      "sources": [
-        {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNT29YaTBHT192QnVmeEpZSmNGbFZiN2kyZ3hBbmFLN3poMWNxdXlWSUo3a1dXWC1wNzI4NWhoaFRrbG5sLWVYTTNDQVpKZW0yZ0xjRzhFMENXU3dicXlRNTJaYi1qX2NPMVRBWlI4WHpDTUN2TWpWc1dQeWNka2VfSWdNMHBjdllQSVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ca956b850910",
-      "title": "Column | I’m an oncologist. Here’s what to know about DCIS or Stage 0 breast cancer. - The Washington Post",
-      "published": "2026-10-12T17:00:00+00:00",
-      "summary": "Column | I’m an oncologist. Here’s what to know about DCIS or Stage 0 breast cancer.&nbsp;&nbsp;The Washington PostJennifer Douglas: DCIS Is Breast Cancer and Deserves to Be Taken Seriously&nbsp;&nbsp;OncodailyI’ve Treated Breast Cancer for 25 Years. Here’s What I Learned From My Own Diagnosis&nbsp;&nbsp;TODAY.com",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVHVCWW82S2x0N1A4X2ZKdUdHOEZoU1JsY0dMYmdTcFRZanh4NDNuay1mR0pnNUdNQi1nUGc3UlpZMEhyclpGRmEweEE4SVFqTzhhU3I2c3RUdjZaRDQyY1dQNDBOMGd6N2RSOXQtRVNaTmxkekstcktOYjd3MjFQcHh0cXNjM3pReUpoUDBzN0RiSnF6b2xwbGY4UnY4ekFEcVVUQkZEb1RrdkZYQ0pyNi1Pa24?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7f462bbc66ee",
       "title": "NASA Investigating Large Hole on Moon That May Open Into Enormous Cave - Futurism",
       "published": "2026-10-12T14:01:00+00:00",
@@ -678,10 +786,22 @@
       ]
     },
     {
+      "id": "bd8ec612335c",
+      "title": "Young Influencer Left With Facial Paralysis After 23-Day Period In ICU Over Eating Sushi, Doctors Explain The Risks - Bored Panda",
+      "published": "2026-10-12T13:51:55+00:00",
+      "summary": "Young Influencer Left With Facial Paralysis After 23-Day Period In ICU Over Eating Sushi, Doctors Explain The Risks&nbsp;&nbsp;Bored PandaWoman Spends 23 Days in Hospital After Sushi-Associated Infection, Later Suffers Stroke and Paralysis&nbsp;&nbsp;헬스조선",
+      "sources": [
+        {
+          "name": "Bored Panda",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSDZJMjhpZG1QNHZTMDFiUjZhN2FOV3pFV2NRejBtLWh3dVhSdEl5NmNMNThUVlI4VE9xcEs4RkpFZk5pSV9uYlA4eHdjbXpzLUJmSmxrZ2tiOXNYaWx3aFgyTmZmUjVGM21fYlNmV2V3dFNNS0J5ejhjWkxvSlVyX2tsYWRSdUdEbVp1QXktaHNaaTJS?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a9b4c4668440",
       "title": "Do Sugary Drinks Increase Cancer Risk? It’s Complicated - Medscape",
       "published": "2026-10-12T13:44:20+00:00",
-      "summary": "Do Sugary Drinks Increase Cancer Risk? It’s Complicated&nbsp;&nbsp;MedscapeArturo LoAIza-Bonilla: Clarifying the Link Between Sugar Intake and Cancer Progression&nbsp;&nbsp;OncodailyResearch adds nuance to the 'sugar feeds cancer' myth. Here's how to approach it in the clinic&nbsp;&nbsp;MDLinx",
+      "summary": "Do Sugary Drinks Increase Cancer Risk? It’s Complicated&nbsp;&nbsp;MedscapeArturo LoAIza-Bonilla: Clarifying the Link Between Sugar Intake and Cancer Progression&nbsp;&nbsp;Oncodaily",
       "sources": [
         {
           "name": "Medscape",
@@ -693,7 +813,7 @@
       "id": "f42d1ca3f4f8",
       "title": "Researchers followed glucose monitor users for three years and found a possible kidney benefit - News-Medical",
       "published": "2026-10-12T06:03:00+00:00",
-      "summary": "Researchers followed glucose monitor users for three years and found a possible kidney benefit&nbsp;&nbsp;News-MedicalCGM For Diabetes: Is It Worth It?&nbsp;&nbsp;BW Healthcare WorldDr. Anila Bindal discusses CGM misconceptions and benefits on Living Oklahoma, by Abbott&nbsp;&nbsp;KOKHThousands of Kiwis could live longer with continuous glucose monitoring - study&nbsp;&nbsp;Waikato TimesOpinion: Expand access for Continuous Glucose Monitoring&nbsp;&nbsp;Concord Monitor",
+      "summary": "Researchers followed glucose monitor users for three years and found a possible kidney benefit&nbsp;&nbsp;News-MedicalContinuous Glucose Monitoring Beneficial in Type 2 Diabetes Not Treated With Insulin&nbsp;&nbsp;MedPage TodayLandmark Dexcom CONNECT Study Published in The New England Journal of Medicine, Redefining the Standard of Care for People with Type 2 Diabetes Not on Insulin&nbsp;&nbsp;Business WireCGMs Help Type 2 Patients Spend 5 More Hours in Healthy Range&nbsp;&nbsp;Mirage NewsDr. An",
       "sources": [
         {
           "name": "News-Medical",
@@ -714,22 +834,10 @@
       ]
     },
     {
-      "id": "787af840a29f",
-      "title": "Can You Trust ChatGPT With Your Best Ideas? NYU Professor Says Think Twice - Yahoo",
-      "published": "2026-10-12T00:25:00+00:00",
-      "summary": "Can You Trust ChatGPT With Your Best Ideas? NYU Professor Says Think Twice&nbsp;&nbsp;YahooOpenAI’s blockbuster Navier-Stokes proof isn’t what we thought it was&nbsp;&nbsp;Scientific AmericanScientists worry AI is stealing their ideas&nbsp;&nbsp;Scientific AmericanResearchers Suspect OpenAI and Anthropic of Stealing Their Discoveries&nbsp;&nbsp;www.trendingtopics.euScientists Concerned About AI Use in Their Research Work&nbsp;&nbsp;Nacionale News",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeXhFQlJHRkRNRmxhbXY0ZFdnSmw5T04yRjVuRXlkcG1ZMndwd3BFUDhUSUpOZFVOZFNYT2xGejEweHI4c3hpOWxfa1JXX2hOY1R6NTZxZnFiU0Q2WkJYOTdFZUJCd3BOcUhfQlFxU3ljT1NwOWpLakxodlJTaGZwekZPMy1MSmpGMTFkeTVFeU0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b3d1a146be5b",
       "title": "Scientists Gave People 2 Nearly Identical Meals. One Triggered Much More Insulin. - ScienceAlert",
       "published": "2026-10-11T10:04:25+00:00",
-      "summary": "Scientists Gave People 2 Nearly Identical Meals. One Triggered Much More Insulin.&nbsp;&nbsp;ScienceAlertUltra-processed vs whole foods: What's the metabolic impact?&nbsp;&nbsp;Medical News TodayPeople Ate 2 Meals With The Same Calories And Macros. Scientists Watched As 1 Spiked Their Insulin Much More&nbsp;&nbsp;IFLScienceMatching nutrition labels doesn’t mean matching responses from the body and brain&nbsp;&nbsp;AOL.comUltraprocessed Meals Trigger Bigger Insulin And Brain Responses In Adults&n",
+      "summary": "Scientists Gave People 2 Nearly Identical Meals. One Triggered Much More Insulin.&nbsp;&nbsp;ScienceAlertPeople Ate 2 Meals With The Same Calories And Macros. Scientists Watched As 1 Spiked Their Insulin Much More&nbsp;&nbsp;IFLScienceMatching nutrition labels doesn’t mean matching responses from the body and brain&nbsp;&nbsp;Earth.comUltra-processed vs whole foods: What's the metabolic impact?&nbsp;&nbsp;Medical News Today",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -753,23 +861,11 @@
       "id": "094f83f22895",
       "title": "Scientists examined a 165-million-year-old fossil from China and found a broad swimming tail plus bony th - The Times of India",
       "published": "2026-10-10T16:28:00+00:00",
-      "summary": "Scientists examined a 165-million-year-old fossil from China and found a broad swimming tail plus bony th&nbsp;&nbsp;The Times of IndiaThis surprising mammal fossil is giving scientists something to chew on&nbsp;&nbsp;NPRA Jurassic mammaliaform swimmer and transformation of the mammalian pharynx&nbsp;&nbsp;NatureOtter-like critter swam lakes and rivers in the age of dinosaurs&nbsp;&nbsp;ReutersThis tiny jurassic predator helped pave the way for the human brain&nbsp;&nbsp;Science Daily",
+      "summary": "Scientists examined a 165-million-year-old fossil from China and found a broad swimming tail plus bony th&nbsp;&nbsp;The Times of IndiaOtter-like critter swam lakes and rivers in the age of dinosaurs&nbsp;&nbsp;ReutersThis tiny jurassic predator helped pave the way for the human brain&nbsp;&nbsp;Science DailyJurassic Fossil Shows Mammal-Like Throat Evolved Far Earlier Than Thought&nbsp;&nbsp;Sci.NewsJurassic fossil reveals ancient origins of how mammals drink milk&nbsp;&nbsp;Phys.org",
       "sources": [
         {
           "name": "The Times of India",
           "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxQYXN3UEMxWHkxcEl4VGxSVmVNY3RVa21JakFLb0FPRkM2VG1lM040N1locUNPeVNvSnFHLUVoSkdMMFBBZ1BmWDY5MUJHU2xzQ0l1RjA0SlNmQkNJMWhQb3lIZlNkQ2NMWGJPLWZpWk9qTDR0cFZYOHZsYWpmOEpMWlhKaGwtajJFSU5kdFlVS1FkVUl6am5HODJRX1p3ckRDa1VLOHp2MXVfSGlncC13WUthdjVMaE1PWHNUc09tSW9VeUpvUGctUF9Va1p3c3NnZkN1VWxBaVpvbnRoTWc2Z3dFWHkwOVpTRW9oTGRDY01lRmpSWmZmcHJKNEdTd2VTVnhhejZrM1BZVHBHUTExWW9XOVI5aVNPZXVFcFhGY0lpalpIVlEwMW1tVUhfYmdsdTRvTGhYemRuWUxBQ3I5ZW9ERDZtUFFvckhoQUJ3R3ZfYk9kSXI0bEFPU3lIb1JyVFNiWFRpeVZZeXZfMzVqazFhRnV0elJ0eE1yb2RtbmNnY3BUX0JvOXplOTZFcElOZUg4ODFUWlFqYXlx0gGiA0FVX3lxTE1GejVJZFA1SUU5OUFWNktRcjc4b1RYa0xTc0d3NFNYTkRHd3owenloUHJvZXpIZEVuTGh1dUUwcU9EVmhjUEt3WWRnb2RRNnRjN0NjRmNscTVaSmE0SzdiaHNFcTV1T1JSNjZzVWFnNGFTckVxUUFQVkxWVktRN2JxTmxUaUJUMTd1M29UZVZTdXhqRGFNRmFrbFBtV0l4SU11Y04zYllqSUM5QjBRSXdxSEhJTHZtQ0Q3OHJZX0o2eVpsbWk2WlYtMjdydlpWeUxKZjlSdzRQR0oyUHJUVExONUtlQ3pzc0F6QXhpNmhKNExUUG9fOVRWbF9kLWI2djJZclN5RTRpdUM5Y3pDMmtQRTIwcFdLSENKZVM4UW1iX3kwd0g3dEgzWTVuYTFUV0psLVE4ZHJqMG14YXFWM3A1T1JYcTE5SVRrSzdSUXktdW9HRmlKczcxbHlqajJzZU12QWNTOUxrSWZWaVBORnM4Z2hzV0JBcjlDUVYxdXY3RHlFcDNJZjFFYlhiaGVMbVQ4WjEtYVpxVjhxV2F0ZXhpc3c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7dccca793f8d",
-      "title": "Ongoing lawsuits allege GLP-1s can cause serious harm. But we don't know how often - NPR",
-      "published": "2026-10-10T11:00:00+00:00",
-      "summary": "Ongoing lawsuits allege GLP-1s can cause serious harm. But we don't know how often&nbsp;&nbsp;NPRWe’re still figuring out the side effects of GLP-1 weight-loss drugs&nbsp;&nbsp;MIT Technology ReviewBoerhaave Syndrome: Case Report on a Rare Complication of Semaglutide Use&nbsp;&nbsp;CureusWeight loss medications can lead to rare, life-threatening complication, case study finds&nbsp;&nbsp;NewsNationThese Are The Most Common GLP-1 Side Effects — And What Doctors Say You Need For Relief&nbsp;&nbsp;Y",
-      "sources": [
-        {
-          "name": "NPR",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWVlnVmhrQk9wQTY5dUpCbXdTQWYxeXF3Rzc1Q2FRX3lnZzFhalRGU1l5bndIVU84TlJpZUxWQWZJNXhHMG9KeU94YkJ3QmI5NFpSd3JYSlNiYXN5XzNYaHRkZ1FFNjVrenVxY2hUZFJQaVhmY0o4S0l4ZS11UWtoeGJBTDFNTVZn?oc=5"
         }
       ]
     },
@@ -789,23 +885,11 @@
       "id": "74764152e59b",
       "title": "Do you need to walk 10,000 steps a day? - The Economist",
       "published": "2026-10-09T15:21:53+00:00",
-      "summary": "Do you need to walk 10,000 steps a day?&nbsp;&nbsp;The EconomistHow Many Daily Steps Do You Need to Lose Weight?&nbsp;&nbsp;U.S. News & World ReportAccording to Cardiologists, This Is the Exact Distance to Walk Every Day After 50 to Get Back in Shape, and Jane Fonda, 88, Swears by It&nbsp;&nbsp;GraziaI Finally Started Walking 10,000 Steps a Day—These 6 Tricks Made It So Much Easier&nbsp;&nbsp;Health.comTurn your everyday walk into a workout with this 20-minute speed-walking plan&nbsp;&nbsp;Yahoo",
+      "summary": "Do you need to walk 10,000 steps a day?&nbsp;&nbsp;The EconomistAccording to Cardiologists, This Is the Exact Distance to Walk Every Day After 50 to Get Back in Shape, and Jane Fonda, 88, Swears by It&nbsp;&nbsp;GraziaHow Many Daily Steps Do You Need to Lose Weight?&nbsp;&nbsp;U.S. News & World ReportI Finally Started Walking 10,000 Steps a Day—These 6 Tricks Made It So Much Easier&nbsp;&nbsp;Health.comTurn your everyday walk into a workout with this 20-minute speed-walking plan&nbsp;&nbsp;Yahoo",
       "sources": [
         {
           "name": "The Economist",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSURybldtMmxJbEpGMDlNdGZXT29pS2t3RE1BMU83UEJVOHk0OUY0T3ZMaDlYVXA0WGxEblh3Y3Rmek5BUEpJZXIzMUMzT29vOEU4MDNLbmFuc0RvNGdVbjE4MzFldm5XekhCcTR3ak5YcUowaWZpcmsteVpjQ0VNN3NiOEJPbXdDM2hKZG1BUlAwNXRKMTNlQmZNb0VUZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1077c4b2a768",
-      "title": "Cancer Vaccines Are the N.I.H.’s Next ‘Big Bet’ - The New York Times",
-      "published": "2026-10-09T09:03:33+00:00",
-      "summary": "Cancer Vaccines Are the N.I.H.’s Next ‘Big Bet’&nbsp;&nbsp;The New York TimesBernard A. Fox: Dark Proteome Cancer Vaccines Expanding the Horizon of Immunotherapy&nbsp;&nbsp;OncodailyA partnership to develop cancer vaccines&nbsp;&nbsp;Chief Healthcare ExecutiveNIH's $200 Million Cancer Vaccine Push: Under Trump–Kennedy, mRNA Gets a Second Act&nbsp;&nbsp;TrialSite NewsNIH makes big bet on public-private partnership over cancer vaccines, NYT says&nbsp;&nbsp;TipRanks",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcDZ3bklCUkxsQmVZd0hqWUJsRFFZU0NaZEp5WndCTWFhMW92MGszZTV5LUFSVF9LamlDSTNOcnl4SHNWemZxMkdmZjRCbTRNRHJfYmhXNUMzN0U3SDJUSXhraEVaRldKN2Nidnc4LWtuLVN2dmpudVJDc3h5YkVrcA?oc=5"
         }
       ]
     },
@@ -830,18 +914,6 @@
         {
           "name": "HuffPost",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUTRlNXRvWFkyYUVxdU05eHlGX0dJa1lQZm4zZlVyTVZwMEk4SnAycE54alVIdjROdjcxSzBHeXN0OGRENk5nVHVUZ3l5WFFKVkpxcGd0MUJ6YWxTc09FQ3Vmdk9qZ2FyUS13TkdqWWpEVEZUazdZV1J0Q2NyVlpaN9IBhgFBVV95cUxORnVUOXozU1VCNFBwQlNfMFFDSWtBUjU5WVh6NWE1eXFoSWNJeTNBQzd1X3hVRUZPN0tEa0p4MXRyOXp2c0lqX3Q0ZEd6SWRUQUpfNHdBUjlmWlVydUFuSGRUQXRmUE1wcTNlS0VtMTdOUV9ocGEwMVZZdUkwMlFxZFNqeTNsZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9f8a0e849c56",
-      "title": "Over 15M people take GLP-1 drugs in America and 54% agree on same issue - The Mirror US",
-      "published": "2026-10-07T18:20:00+00:00",
-      "summary": "Over 15M people take GLP-1 drugs in America and 54% agree on same issue&nbsp;&nbsp;The Mirror USAs GLP-1 Drugs Change How People Eat, Drugmakers Collect and Snack Makers Feel the Squeeze&nbsp;&nbsp;The Motley Fool5 surprising lessons about GLP-1s, from the scientists who study them&nbsp;&nbsp;BBC Science Focus MagazineGLP-1 users reshape nutrition product development, say ADM, Cargill & Synergy Flavours&nbsp;&nbsp;Nutrition InsightBeyond the Scale: 4 Proven Health Benefits of GLP-1s&nbsp;&nbsp;H",
-      "sources": [
-        {
-          "name": "The Mirror US",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBdVhjOHREUUhDX05BV1pzei04U0Vuckp0NU05ck84Z3BHTkU0VlVmWjBLcUpQcjUtd3U1UE9BYlNuV2ZnVjAxbVNMM1hnRlB6OUNpSEU0ZElsWEtOQjdiSmJYVF83UEtaekMxeW9JUGlRT2xfTl9TbTRB0gF_QVVfeXFMTWFwUm50OW1XeHdlc3hMQVBmb3A5eGJTVnNxOHFYSVhYREVzRThzNnpNNExkTVJNTHRpVVlLcnVBS0ZvUHNWcnBNTnViWkxPQU5hRnpRc1F1bHRadzdDN1BCcERXbHpwZnpMbW5BeEtVaFllZTJRNnl1OHVzQ3BzMA?oc=5"
         }
       ]
     }

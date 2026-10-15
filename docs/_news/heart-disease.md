@@ -31,11 +31,19 @@ This page brings together the latest health news about “CAD” and lists the d
 
 ## Related News (3)
 
-### [Researchers use AI to design proteins that cut up other proteins - Ars Technica](https://news.google.com/rss/articles/CBMiqAFBVV95cUxORVlhd0RBV3NhdWhVZGFFa2dpa3h4d1ZDX3lGYkVSMThYQzhidktweGdPVy1qdkF3NXhpYTQzZ1pzZjJmSlNKYnBydVJjM0hRR0RRcko4NTFlVmJXbm1RVVJ6aXVXWElGdHRyV3o0TXhPQndVWmROYlFIc19PY2tEYmJNZ1NKXzliNkNYYUYxSDFfV3p3SllOZWhzQ1BoYzVPSTczbjdZa3I?oc=5)
+### [Where Elephants Fall, Their Impact Echoes for Years](https://news.google.com/rss/articles/CBMilgFBVV95cUxPU1ZhaUFYcHZNMFUzUVl2bVFHeHQ2UjljSHBwQ2RfMkZpbGRzdXhCZ0RGNXFRNS1HeEUtY1BVbllsZ3U2RXpKTmZvNVZJczNuR0gtZDZuWVlhOXVBTVRsbE5WNnNxSGRmaW5jU3J1dE1zNERGQlF4bExKQ0hOV1R1R0lFMG9hNldPbkxPd0swUkkxTzhWcGc?oc=5)
 
 2026-10-14
 
-Source: [Ars Technica](https://news.google.com/rss/articles/CBMiqAFBVV95cUxORVlhd0RBV3NhdWhVZGFFa2dpa3h4d1ZDX3lGYkVSMThYQzhidktweGdPVy1qdkF3NXhpYTQzZ1pzZjJmSlNKYnBydVJjM0hRR0RRcko4NTFlVmJXbm1RVVJ6aXVXWElGdHRyV3o0TXhPQndVWmROYlFIc19PY2tEYmJNZ1NKXzliNkNYYUYxSDFfV3p3SllOZWhzQ1BoYzVPSTczbjdZa3I?oc=5)
+Source: [Newser](https://news.google.com/rss/articles/CBMilgFBVV95cUxPU1ZhaUFYcHZNMFUzUVl2bVFHeHQ2UjljSHBwQ2RfMkZpbGRzdXhCZ0RGNXFRNS1HeEUtY1BVbllsZ3U2RXpKTmZvNVZJczNuR0gtZDZuWVlhOXVBTVRsbE5WNnNxSGRmaW5jU3J1dE1zNERGQlF4bExKQ0hOV1R1R0lFMG9hNldPbkxPd0swUkkxTzhWcGc?oc=5)
+
+---
+
+### [FDA approves once-daily Parkinson’s pill (Juvmo) built on decades of work by husband-and-wife team - The Brighter Side of News](https://news.google.com/rss/articles/CBMizwFBVV95cUxNUkxiaFNxVzJyeWptRnNfcy1qUi0zcEIxYzlIT3hxbkdjMkF1aG03RlhqYU9TZVYwRFYzWWktcW42V3hyLTRxRENzS1lvUjRHRmcyT21zSFp6SU1ialV4V2VvMnREcEY5UFIxbTliREJrbzVhZUxVUklYbzhmdVpGVzJLV1Z3LWlCYXNBbExqYm10OThXZFRZcEhDeGdkaU5oLXZ3ZVVCQTREa0FIQ0JNNGstSFk4VUlzNnEzdzBwMldaeDkyTWxMam5JRnRsd00?oc=5)
+
+2026-10-14
+
+Source: [The Brighter Side of News](https://news.google.com/rss/articles/CBMizwFBVV95cUxNUkxiaFNxVzJyeWptRnNfcy1qUi0zcEIxYzlIT3hxbkdjMkF1aG03RlhqYU9TZVYwRFYzWWktcW42V3hyLTRxRENzS1lvUjRHRmcyT21zSFp6SU1ialV4V2VvMnREcEY5UFIxbTliREJrbzVhZUxVUklYbzhmdVpGVzJLV1Z3LWlCYXNBbExqYm10OThXZFRZcEhDeGdkaU5oLXZ3ZVVCQTREa0FIQ0JNNGstSFk4VUlzNnEzdzBwMldaeDkyTWxMam5JRnRsd00?oc=5)
 
 ---
 
@@ -44,14 +52,6 @@ Source: [Ars Technica](https://news.google.com/rss/articles/CBMiqAFBVV95cUxORVlh
 2026-10-14
 
 Source: [Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxOeHdVa3NOczVYTVhDeHE5ZTM1akpNWkZUUmVZX29jcFluTVZkOEdkQnpvX0M0UUhybElkN3o5S29iRzBjR0ZRX1dmSXN5ZExad2FKUUhtbElmUS0tWEtralEyYm9QZ1VGc0NTNGxtbDBxVDZLQ25rcjJDMHZqZHd4ZHJSaw?oc=5)
-
----
-
-### [When an elephant dies, its body marks the landscape for a decade - The Washington Post](https://news.google.com/rss/articles/CBMitwFBVV95cUxQcndOQUdNdDl0ZWhmWHdRN2dJZ1JMbnozUjY0SldmWmI1RVQxbjI2bDE3NkhVa2JDd3l5NHVkdFFwS1hUV1pkb1BZb1AzUTM5dnp0S0lDX2xDODJTUHAwbkhYemhMVFJFekx1am1FMDZyT0FUY0ZWcXo1Qm1UVXNlbEJNX1RzQkx3aVVOSlM5TTBlelVQWEFFN2pQR0ZJbWlrRk1qbVJrbU80U3lFMHk0X0R1cmR4S2M?oc=5)
-
-2026-10-13
-
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMitwFBVV95cUxQcndOQUdNdDl0ZWhmWHdRN2dJZ1JMbnozUjY0SldmWmI1RVQxbjI2bDE3NkhVa2JDd3l5NHVkdFFwS1hUV1pkb1BZb1AzUTM5dnp0S0lDX2xDODJTUHAwbkhYemhMVFJFekx1am1FMDZyT0FUY0ZWcXo1Qm1UVXNlbEJNX1RzQkx3aVVOSlM5TTBlelVQWEFFN2pQR0ZJbWlrRk1qbVJrbU80U3lFMHk0X0R1cmR4S2M?oc=5)
 
 ---
 

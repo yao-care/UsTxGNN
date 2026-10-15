@@ -32,11 +32,19 @@ This page brings together the latest health news about “flu” and lists the d
 
 ## Related News (4)
 
-### [Flu season is arriving months early. Here's where it's spreading - USA Today](https://news.google.com/rss/articles/CBMipgFBVV95cUxQMk1GUE9Gb3JaU3BYRW5JZ3piTUJocDh4bnk5YThSNE00WUJtYVhVS1Jpc1NDZXdqOHZwNlFMZ1ZsYW53cHF2VjNOWVNhbmE5ZnlENmVOLXI4WVM1M2FyUkI4M0RrdHZBX2ZPc1dVM2doQzVIdDJhSHZjX0xYRnkwTFV3ZTRZSFE3Y2hzZnVyMHNRT0RCeFVESThyeXNkRk1jZS13eFBB?oc=5)
+### [Your flu shot can’t wait](https://news.google.com/rss/articles/CBMigAFBVV95cUxPeDk5N1V0c3dFU3c5SW5XTTJKaTRZVmJHdi1qa2dHTDR4QXNIa3RTdloxbWVxWTR0dmQ1ckRiYkpuaHJ2dV9ONUdTdERIRlZYMmJISGw5cTZ6U19uenNld3o1Z2hERkE0Z1hWVU8tTHhzaElJajdwNEhIOWZfMWlidA?oc=5)
 
 2026-10-14
 
-Source: [USA Today](https://news.google.com/rss/articles/CBMipgFBVV95cUxQMk1GUE9Gb3JaU3BYRW5JZ3piTUJocDh4bnk5YThSNE00WUJtYVhVS1Jpc1NDZXdqOHZwNlFMZ1ZsYW53cHF2VjNOWVNhbmE5ZnlENmVOLXI4WVM1M2FyUkI4M0RrdHZBX2ZPc1dVM2doQzVIdDJhSHZjX0xYRnkwTFV3ZTRZSFE3Y2hzZnVyMHNRT0RCeFVESThyeXNkRk1jZS13eFBB?oc=5)
+Source: [Vox](https://news.google.com/rss/articles/CBMigAFBVV95cUxPeDk5N1V0c3dFU3c5SW5XTTJKaTRZVmJHdi1qa2dHTDR4QXNIa3RTdloxbWVxWTR0dmQ1ckRiYkpuaHJ2dV9ONUdTdERIRlZYMmJISGw5cTZ6U19uenNld3o1Z2hERkE0Z1hWVU8tTHhzaElJajdwNEhIOWZfMWlidA?oc=5)
+
+---
+
+### [Flu season started earlier than expected — what to know about the brand new vaccine - New York Post](https://news.google.com/rss/articles/CBMimAFBVV95cUxQeGVaV1dtRUtockl3cV9HVU0zbDN5aDljZnRIdm8wWHp3UFlOMlNJQVJpUk5nYmNSNlIzdW9YQ2JRcjZfYmlsTkhhd3pyNW53STBVWDlMM3hsZThVWVd2OUlWWEVaZmpFVmhxeHdjcDhiOV8zaXIyWVVZcXA4S1lOMUU4bzhYaEc0Mm1wa2Z6dHNFdmFpdmQ1bQ?oc=5)
+
+2026-10-14
+
+Source: [New York Post](https://news.google.com/rss/articles/CBMimAFBVV95cUxQeGVaV1dtRUtockl3cV9HVU0zbDN5aDljZnRIdm8wWHp3UFlOMlNJQVJpUk5nYmNSNlIzdW9YQ2JRcjZfYmlsTkhhd3pyNW53STBVWDlMM3hsZThVWVd2OUlWWEVaZmpFVmhxeHdjcDhiOV8zaXIyWVVZcXA4S1lOMUU4bzhYaEc0Mm1wa2Z6dHNFdmFpdmQ1bQ?oc=5)
 
 ---
 
@@ -53,14 +61,6 @@ Source: [New York Post](https://news.google.com/rss/articles/CBMivgFBVV95cUxNU0Z
 2026-10-12
 
 Source: [The Washington Post](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQazJMeUhabVFtYlg4bWFtQ204bl9qY3hMN0xUYkh5QkhFNS1lNldpbFdOcFk1OUZFZ1FQZXZuUmxFX2stVHFDUXJqeHREWjZpdkNwTnh5aFlMdDBWMU5NbXdxMHRfTU1NUDM4NWhwdHc5a2pqTzdmcEt1QlpuOWUtdWhQOFZGbURka2tFeWV5bUxZbjlrNlpyVW5vM2ZGcFZiellZcGJVcXF0UXc?oc=5)
-
----
-
-### [Young Influencer Left With Facial Paralysis After 23-Day Period In ICU Over Eating Sushi, Doctors Explain The Risks - Bored Panda](https://news.google.com/rss/articles/CBMilAFBVV95cUxQSDZJMjhpZG1QNHZTMDFiUjZhN2FOV3pFV2NRejBtLWh3dVhSdEl5NmNMNThUVlI4VE9xcEs4RkpFZk5pSV9uYlA4eHdjbXpzLUJmSmxrZ2tiOXNYaWx3aFgyTmZmUjVGM21fYlNmV2V3dFNNS0J5ejhjWkxvSlVyX2tsYWRSdUdEbVp1QXktaHNaaTJS?oc=5)
-
-2026-10-12
-
-Source: [Bored Panda](https://news.google.com/rss/articles/CBMilAFBVV95cUxQSDZJMjhpZG1QNHZTMDFiUjZhN2FOV3pFV2NRejBtLWh3dVhSdEl5NmNMNThUVlI4VE9xcEs4RkpFZk5pSV9uYlA4eHdjbXpzLUJmSmxrZ2tiOXNYaWx3aFgyTmZmUjVGM21fYlNmV2V3dFNNS0J5ejhjWkxvSlVyX2tsYWRSdUdEbVp1QXktaHNaaTJS?oc=5)
 
 ---
 

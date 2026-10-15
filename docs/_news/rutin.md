@@ -14,7 +14,7 @@ permalink: /news/rutin/
 ---
 
 <p class="key-answer" data-question="What news is there about Rutin?">
-<strong>Rutin</strong> currently has <strong>14 news articles</strong>, with 8 predicted indications.
+<strong>Rutin</strong> currently has <strong>12 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,21 +38,29 @@ This page combines the AI-predicted indications for Rutin with the latest health
 <p><a href="{{ '/drugs/rutin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (14)
+## Related News (12)
 
-### [How exactly do microplastics damage the body? New research offers an answer - NBC News](https://news.google.com/rss/articles/CBMikwFBVV95cUxPdFl1bFVxb2VySFBEQXJWOFJraTNJRFNBbkFTN2w5TTFuR0lSREltUUZ6VjAtNUN5bVU3TEl5R1BUV0t1QXpCWmx0YjIwckJsZ2gtMERqV1BPanhMNm1zeE1MU002OC1zazFiM2d3V3hPOTNqY3NyZTJEeEwzOU5MZWhYYTc3SFBxdmc5YjNuVU1yQmM?oc=5)
+### [Targeted stimulation of motor cortex ensembles drives learned movements](https://news.google.com/rss/articles/CBMiX0FVX3lxTE82ZUd1dmxHdFJYY1dSWTRkdlBVa2JJZzNzcl90cmNQLVdTOWo2SVVGSHNGYjNjUzU4NG1LUWhzdWwzck9CZ21PeXNFb1FxamNxaUZfZ25XRXY1M0swX21r?oc=5)
 
-2026-10-14 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+2026-10-14 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
-Source: [NBC News](https://news.google.com/rss/articles/CBMikwFBVV95cUxPdFl1bFVxb2VySFBEQXJWOFJraTNJRFNBbkFTN2w5TTFuR0lSREltUUZ6VjAtNUN5bVU3TEl5R1BUV0t1QXpCWmx0YjIwckJsZ2gtMERqV1BPanhMNm1zeE1MU002OC1zazFiM2d3V3hPOTNqY3NyZTJEeEwzOU5MZWhYYTc3SFBxdmc5YjNuVU1yQmM?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE82ZUd1dmxHdFJYY1dSWTRkdlBVa2JJZzNzcl90cmNQLVdTOWo2SVVGSHNGYjNjUzU4NG1LUWhzdWwzck9CZ21PeXNFb1FxamNxaUZfZ25XRXY1M0swX21r?oc=5)
 
 ---
 
-### [Bleached Coral Rebounded After Touching Healthy Coral, Study Finds - The New York Times](https://news.google.com/rss/articles/CBMigwFBVV95cUxPWUU1eGpWdFVNbFVLQlAzQTROZHZycnptd2NheHBtYjFyZVU5SWV3WWNMeWw4Q2RJZ0wyU1RmaEtxUWhkaml1U0lyMkwzblA2cXdRTVhrMnNIN0RoWjZTTXhtNUpYOWFzWkF4QjNoMF9XM2l1WUhuSy15VEV3SGxFOVd4NA?oc=5)
+### [Measles cases surge past 150 in Kentucky; big outbreak identified in one county](https://news.google.com/rss/articles/CBMihAFBVV95cUxQQUZxWHF0UnU3TGtPeXFUMk9nZ2lhVUxjNV9vNXpOTU9PdXRSckhmNjhWVEt1UnJncFZPal92S25vRkU4Z1ZDb3hMZWxyY3NHcklJSlpnSm5LLUM2Tll6OTRBVDF4QlByWmRPa3pHaHZVYWoxTnJFUU1SenNjUjdSZjBmTHA?oc=5)
 
-2026-10-14 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-10-14 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
 
-Source: [The New York Times](https://news.google.com/rss/articles/CBMigwFBVV95cUxPWUU1eGpWdFVNbFVLQlAzQTROZHZycnptd2NheHBtYjFyZVU5SWV3WWNMeWw4Q2RJZ0wyU1RmaEtxUWhkaml1U0lyMkwzblA2cXdRTVhrMnNIN0RoWjZTTXhtNUpYOWFzWkF4QjNoMF9XM2l1WUhuSy15VEV3SGxFOVd4NA?oc=5)
+Source: [WLKY](https://news.google.com/rss/articles/CBMihAFBVV95cUxQQUZxWHF0UnU3TGtPeXFUMk9nZ2lhVUxjNV9vNXpOTU9PdXRSckhmNjhWVEt1UnJncFZPal92S25vRkU4Z1ZDb3hMZWxyY3NHcklJSlpnSm5LLUM2Tll6OTRBVDF4QlByWmRPa3pHaHZVYWoxTnJFUU1SenNjUjdSZjBmTHA?oc=5)
+
+---
+
+### [Menopause triggers sudden changes throughout the body, Israeli study finds](https://news.google.com/rss/articles/CBMiakFVX3lxTFBnNThwQmRKd0ladkwtb2pVcVBzZGFTN3BIQUFQRU5VcWd4VDVHOFExV0JkaG1qSXAtbUZoQnBYX0JzOGtjcDJ3c0hpYVhNRE5wQzI5d3F1VDhGLXNsRDVTVXdKeENpTzcwbkE?oc=5)
+
+2026-10-14 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [Ynetnews](https://news.google.com/rss/articles/CBMiakFVX3lxTFBnNThwQmRKd0ladkwtb2pVcVBzZGFTN3BIQUFQRU5VcWd4VDVHOFExV0JkaG1qSXAtbUZoQnBYX0JzOGtjcDJ3c0hpYVhNRE5wQzI5d3F1VDhGLXNsRDVTVXdKeENpTzcwbkE?oc=5)
 
 ---
 
@@ -64,38 +72,6 @@ Source: [Nantucket Current](https://news.google.com/rss/articles/CBMirwFBVV95cUx
 
 ---
 
-### [Laurel County Health Department investigation reveals over 50 reported cases of measles](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVV8zeGtzMDdtNWFKeVREODFTOHRxTlZSM2x5LXZCTUtyV05HYzVRb09CeUkxLTctbFNMb3k4bm1kY3VVNXg4SE5Tb2h4dkV4YVYyb1B3SUV3aEc0NU93Umd5SmxWYjhPN0tCd19PcHZKRVBlLXpSQnpXUlJmYjhFM0NUSGVwQXFtNnR4OXJoWnlHUko2V1Jsbm9pR0FlOVFEMGhFaUZNbWpIQ0hHQzFPcGRDVFQ1LTlf0gHMAUFVX3lxTE1xTFZ6VmhFbVpVX3VXUWQ0N3ZrUU93cF9hLTRBTWpuTEVCYVdpc0pPYXFVanBjT0hsaERZSk4tb0NQX3Rad1pSQnRvWmdVSlBRNERDWUJkVDFTb2pjVWFrQVBjbTN1YmRFcGc3R20wVlh0a3p4aFYwV3M1LWg0SUZYVlVkQVkwSjhOLUtsR0w1ZDB3dzRJQm5aVlBRZjVaNVk0S2VyNS03YjlfQUtoeU5GdmgxRkVROUh4cHF4RHZ1UmR5WjI5cEpxTkxsOQ?oc=5)
-
-2026-10-13 <span class="news-indication-tag">UC</span>
-
-Source: [WYMT](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVV8zeGtzMDdtNWFKeVREODFTOHRxTlZSM2x5LXZCTUtyV05HYzVRb09CeUkxLTctbFNMb3k4bm1kY3VVNXg4SE5Tb2h4dkV4YVYyb1B3SUV3aEc0NU93Umd5SmxWYjhPN0tCd19PcHZKRVBlLXpSQnpXUlJmYjhFM0NUSGVwQXFtNnR4OXJoWnlHUko2V1Jsbm9pR0FlOVFEMGhFaUZNbWpIQ0hHQzFPcGRDVFQ1LTlf0gHMAUFVX3lxTE1xTFZ6VmhFbVpVX3VXUWQ0N3ZrUU93cF9hLTRBTWpuTEVCYVdpc0pPYXFVanBjT0hsaERZSk4tb0NQX3Rad1pSQnRvWmdVSlBRNERDWUJkVDFTb2pjVWFrQVBjbTN1YmRFcGc3R20wVlh0a3p4aFYwV3M1LWg0SUZYVlVkQVkwSjhOLUtsR0w1ZDB3dzRJQm5aVlBRZjVaNVk0S2VyNS03YjlfQUtoeU5GdmgxRkVROUh4cHF4RHZ1UmR5WjI5cEpxTkxsOQ?oc=5)
-
----
-
-### [People say these peptides hurt them. Their stories are muffled in MAHA’s push for medical freedom](https://news.google.com/rss/articles/CBMiakFVX3lxTE5fN012T0pfd3NZYkozclA1aWxJRU93OGpyUTFmUWZaVFJkdXlNbTJXNUxhX2NVMktSdmdBY1BRV2dOY3JfX0RhcFNXdVZIUTUtd2NFV1lDaGVUQXNmUUpFemFmbjctaXJsQVE?oc=5)
-
-2026-10-13 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [CNN](https://news.google.com/rss/articles/CBMiakFVX3lxTE5fN012T0pfd3NZYkozclA1aWxJRU93OGpyUTFmUWZaVFJkdXlNbTJXNUxhX2NVMktSdmdBY1BRV2dOY3JfX0RhcFNXdVZIUTUtd2NFV1lDaGVUQXNmUUpFemFmbjctaXJsQVE?oc=5)
-
----
-
-### [Scientists studied 1 million women before menopause—one pattern stood out - Yahoo Health](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeEpFYi1IRF90Vjh6LUpXY0hvTlVMeEk1U2lvZGU1d1ByUzBza1lGSlFTY2lxVTZtM3Q0UjNjOFhFMlZNcnZIbVpzSGhRS05obW1ENFltSGdoeWVTUG1VTWJRTDZIUjZHNE1TYy14VVdRNEl0VUE4cjYxOUlLRHpZNHg5SEUwcWh1N05UZnpDa3lxSFl3MGIzRjhsUS0wNUZfVGZiNmJjVlo1WlNCX1AxbE1DWEg1Q0xj?oc=5)
-
-2026-10-13 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
-
-Source: [Yahoo Health](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeEpFYi1IRF90Vjh6LUpXY0hvTlVMeEk1U2lvZGU1d1ByUzBza1lGSlFTY2lxVTZtM3Q0UjNjOFhFMlZNcnZIbVpzSGhRS05obW1ENFltSGdoeWVTUG1VTWJRTDZIUjZHNE1TYy14VVdRNEl0VUE4cjYxOUlLRHpZNHg5SEUwcWh1N05UZnpDa3lxSFl3MGIzRjhsUS0wNUZfVGZiNmJjVlo1WlNCX1AxbE1DWEg1Q0xj?oc=5)
-
----
-
-### [Too much penguin poop in Antarctica is accelerating snow melt and rising sea levels: study - New York Post](https://news.google.com/rss/articles/CBMingFBVV95cUxPcmlvUnRxSU8tR0xQM0RkajFDMHBHYkd1ZzhwR0xjaG5CRkszZ2pOcUhLR05wWE5VM2tMYzhRWGtSeTRHUDBOWjdnVjFoRVlteHAyMGdjMmxUYVdVeFk1M0tLOExONThTY2FieXQ1SE5DWTN3NkhsYUxJWjd6anlnT3lTWGp4OEhIRUtNSkRObEIxNnkwYm91NGdDcmkwQQ?oc=5)
-
-2026-10-13 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [New York Post](https://news.google.com/rss/articles/CBMingFBVV95cUxPcmlvUnRxSU8tR0xQM0RkajFDMHBHYkd1ZzhwR0xjaG5CRkszZ2pOcUhLR05wWE5VM2tMYzhRWGtSeTRHUDBOWjdnVjFoRVlteHAyMGdjMmxUYVdVeFk1M0tLOExONThTY2FieXQ1SE5DWTN3NkhsYUxJWjd6anlnT3lTWGp4OEhIRUtNSkRObEIxNnkwYm91NGdDcmkwQQ?oc=5)
-
----
-
 ### [Clonal heterogeneity in human pancreatic ductal adenocarcinoma and its impact on tumor progression](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EVGxXeGVFZjUyaGxsNHhiTnFBUGRlTFFUQ0dlV2NOVlVZYzJQZWpkQVZZMzJsOWE3RlVXUWpITW9VX3gyRzFSTHRTUjBvelNDZllET1h6RW5kRE5mS01V?oc=5)
 
 2026-10-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">UC</span>
@@ -104,11 +80,27 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EVGxXeGVFZj
 
 ---
 
+### [Why a debate on declining sperm counts can spur conversations about overall health](https://news.google.com/rss/articles/CBMieEFVX3lxTE1UVnYtc3E1dTFsOTViZWxCNVlodmlzd1RwT2lfY0hFdk93Ml8yV3UwU2htWTVIcF8yZ09FY29VOU4xbC1SYllVa1RuLTdwWXI1eGZvcHFINHkxM2NaOHB1NHZ3WTg2Y1hUbEJLU0RKaGxReWR3OThvVw?oc=5)
+
+2026-10-13 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [CNN](https://news.google.com/rss/articles/CBMieEFVX3lxTE1UVnYtc3E1dTFsOTViZWxCNVlodmlzd1RwT2lfY0hFdk93Ml8yV3UwU2htWTVIcF8yZ09FY29VOU4xbC1SYllVa1RuLTdwWXI1eGZvcHFINHkxM2NaOHB1NHZ3WTg2Y1hUbEJLU0RKaGxReWR3OThvVw?oc=5)
+
+---
+
 ### [Here’s how much a flu vaccine may lower your dementia risk - The Washington Post](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQazJMeUhabVFtYlg4bWFtQ204bl9qY3hMN0xUYkh5QkhFNS1lNldpbFdOcFk1OUZFZ1FQZXZuUmxFX2stVHFDUXJqeHREWjZpdkNwTnh5aFlMdDBWMU5NbXdxMHRfTU1NUDM4NWhwdHc5a2pqTzdmcEt1QlpuOWUtdWhQOFZGbURka2tFeWV5bUxZbjlrNlpyVW5vM2ZGcFZiellZcGJVcXF0UXc?oc=5)
 
-2026-10-12 <span class="news-indication-tag">flu</span> <span class="news-indication-tag">UC</span>
+2026-10-12 <span class="news-indication-tag">OA</span> <span class="news-indication-tag">flu</span> <span class="news-indication-tag">UC</span>
 
 Source: [The Washington Post](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQazJMeUhabVFtYlg4bWFtQ204bl9qY3hMN0xUYkh5QkhFNS1lNldpbFdOcFk1OUZFZ1FQZXZuUmxFX2stVHFDUXJqeHREWjZpdkNwTnh5aFlMdDBWMU5NbXdxMHRfTU1NUDM4NWhwdHc5a2pqTzdmcEt1QlpuOWUtdWhQOFZGbURka2tFeWV5bUxZbjlrNlpyVW5vM2ZGcFZiellZcGJVcXF0UXc?oc=5)
+
+---
+
+### [Can I get too much protein? Experts answer your questions on the popular supplement - The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxQNGl4NDdaM3RaWF8zRjFMamRxWFVrMVdHWGFrTUFZeU16cUhNYWtieFNWNXg4Tl9CX3BpNUoyZlk4S2c0MkJhNVFpT3E5NXFaNkFfRnVnT081azRTdkE5WngxN21tTGlZUnU2ZkMwb0RDSm5mUnhKaWt1RHhOc0FJaElGc0pfTWw5UVE?oc=5)
+
+2026-10-12 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [The Guardian](https://news.google.com/rss/articles/CBMiigFBVV95cUxQNGl4NDdaM3RaWF8zRjFMamRxWFVrMVdHWGFrTUFZeU16cUhNYWtieFNWNXg4Tl9CX3BpNUoyZlk4S2c0MkJhNVFpT3E5NXFaNkFfRnVnT081azRTdkE5WngxN21tTGlZUnU2ZkMwb0RDSm5mUnhKaWt1RHhOc0FJaElGc0pfTWw5UVE?oc=5)
 
 ---
 
@@ -133,14 +125,6 @@ Source: [The Independent](https://news.google.com/rss/articles/CBMilAFBVV95cUxNS
 2026-10-11 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMirAFBVV95cUxNN0dXY0tXZ0FwbUtvSUNpRENCS2pxd2tydWVKNjc0RDF2N1RlaFc2X0dWdFY1X3pIMURBaTdmQ2Q2ZUxWSkRvdGNINnhDbFJzX2M3bGhCNC1NX0YtNHc0QVpvd2Y3T0hYcDVPcnJTWGQ5UDE0YjJkaWhhdS15R2tSVE93djAzVF9ZWVg3Tlp3ZDUwbmVIYU5oeE1SeEt6bHpETXEtbVFsSlZfa2JW?oc=5)
-
----
-
-### [Diet soda drinkers lost just as much weight as water drinkers, study finds](https://news.google.com/rss/articles/CBMikAFBVV95cUxOdDczdEtHWUQ3QWxkTm9HQjJZR0p3WUVxR2FONHYtZWVXM3ppaE1OV256RFV3SWhleW1LVUF5YUw4RERYWWdRTzRuYjJ1VXVWRm1lMTFiQlhvZHF1NWtrWHJMOVhIaWk0QXhOSW56V0pkdEcyOEVPVWt5ekJiNkl0blFuSU5JWHdwWExPQXoxVFDSAZYBQVVfeXFMUG5wVU9UM2JpenNyUElTa2tjZFVWcWtzQ3NFdWJ4WTFndTZNWDRtTUQ3MWJRcXRHQkFMcHRTWndCemNQU2R2MWdXTEhnZ3BmVzNiSVVwVDZxaVFQS3dDTGViQ2k2c1dpbHlHdHF1QTJWd3ppdGVfaEtGX2tmcDE1eHFqV1M4c1NtZFFhaGZaVkcza2RTMHRn?oc=5)
-
-2026-10-10 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [NewsNation](https://news.google.com/rss/articles/CBMikAFBVV95cUxOdDczdEtHWUQ3QWxkTm9HQjJZR0p3WUVxR2FONHYtZWVXM3ppaE1OV256RFV3SWhleW1LVUF5YUw4RERYWWdRTzRuYjJ1VXVWRm1lMTFiQlhvZHF1NWtrWHJMOVhIaWk0QXhOSW56V0pkdEcyOEVPVWt5ekJiNkl0blFuSU5JWHdwWExPQXoxVFDSAZYBQVVfeXFMUG5wVU9UM2JpenNyUElTa2tjZFVWcWtzQ3NFdWJ4WTFndTZNWDRtTUQ3MWJRcXRHQkFMcHRTWndCemNQU2R2MWdXTEhnZ3BmVzNiSVVwVDZxaVFQS3dDTGViQ2k2c1dpbHlHdHF1QTJWd3ppdGVfaEtGX2tmcDE1eHFqV1M4c1NtZFFhaGZaVkcza2RTMHRn?oc=5)
 
 ---
 

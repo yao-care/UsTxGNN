@@ -31,19 +31,19 @@ This page brings together the latest health news about “CAD” and lists the d
 
 ## Related News (3)
 
+### [Researchers use AI to design proteins that cut up other proteins - Ars Technica](https://news.google.com/rss/articles/CBMiqAFBVV95cUxORVlhd0RBV3NhdWhVZGFFa2dpa3h4d1ZDX3lGYkVSMThYQzhidktweGdPVy1qdkF3NXhpYTQzZ1pzZjJmSlNKYnBydVJjM0hRR0RRcko4NTFlVmJXbm1RVVJ6aXVXWElGdHRyV3o0TXhPQndVWmROYlFIc19PY2tEYmJNZ1NKXzliNkNYYUYxSDFfV3p3SllOZWhzQ1BoYzVPSTczbjdZa3I?oc=5)
+
+2026-10-14
+
+Source: [Ars Technica](https://news.google.com/rss/articles/CBMiqAFBVV95cUxORVlhd0RBV3NhdWhVZGFFa2dpa3h4d1ZDX3lGYkVSMThYQzhidktweGdPVy1qdkF3NXhpYTQzZ1pzZjJmSlNKYnBydVJjM0hRR0RRcko4NTFlVmJXbm1RVVJ6aXVXWElGdHRyV3o0TXhPQndVWmROYlFIc19PY2tEYmJNZ1NKXzliNkNYYUYxSDFfV3p3SllOZWhzQ1BoYzVPSTczbjdZa3I?oc=5)
+
+---
+
 ### [Ovaries remain active decades after menopause, study reveals - Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxOeHdVa3NOczVYTVhDeHE5ZTM1akpNWkZUUmVZX29jcFluTVZkOEdkQnpvX0M0UUhybElkN3o5S29iRzBjR0ZRX1dmSXN5ZExad2FKUUhtbElmUS0tWEtralEyYm9QZ1VGc0NTNGxtbDBxVDZLQ25rcjJDMHZqZHd4ZHJSaw?oc=5)
 
 2026-10-14
 
 Source: [Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxOeHdVa3NOczVYTVhDeHE5ZTM1akpNWkZUUmVZX29jcFluTVZkOEdkQnpvX0M0UUhybElkN3o5S29iRzBjR0ZRX1dmSXN5ZExad2FKUUhtbElmUS0tWEtralEyYm9QZ1VGc0NTNGxtbDBxVDZLQ25rcjJDMHZqZHd4ZHJSaw?oc=5)
-
----
-
-### [Protein clues may help explain heart disease risk that persists despite lower LDL cholesterol - Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMFZ1SHgxdzFtb3hxVWNVNnpfT29heGJrY3dtZ2ZwZk1IRjk2Z2MzSXJXVXI4S3hSLWNCdlBwVVdfMlpJZ2w3YUZtOWRqTmlvYmxfcnlSM1NPdG5EVkVXZmFidUxQRV9zY2hJYl92RW04SUplOUEycjJmTkwxSjMxdjFRMm14bGs?oc=5)
-
-2026-10-13
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMihwFBVV95cUxQMFZ1SHgxdzFtb3hxVWNVNnpfT29heGJrY3dtZ2ZwZk1IRjk2Z2MzSXJXVXI4S3hSLWNCdlBwVVdfMlpJZ2w3YUZtOWRqTmlvYmxfcnlSM1NPdG5EVkVXZmFidUxQRV9zY2hJYl92RW04SUplOUEycjJmTkwxSjMxdjFRMm14bGs?oc=5)
 
 ---
 

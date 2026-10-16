@@ -130,6 +130,9 @@ def load_drug_mapping() -> pd.DataFrame:
     return mapping
 
 
+MAX_DL_ONLY_ROWS = 50_000_000
+
+
 def integrate_predictions(
     kg: pd.DataFrame,
     dl: pd.DataFrame,
@@ -197,11 +200,16 @@ def integrate_predictions(
         })
 
         # Map to local products
-        dl_mapped = dl_only_keys.merge(
-            mapping_norm[["license_id", "brand_name", "drug_ingredient", "drugbank_id"]],
-            on="drugbank_id",
-            how="inner"
-        )
+        prod = mapping_norm[["license_id", "brand_name", "drug_ingredient", "drugbank_id"]]
+        per_drug = prod.groupby("drugbank_id").size()
+        est = int(dl_only_keys["drugbank_id"].map(per_drug).fillna(0).sum())
+        if est > MAX_DL_ONLY_ROWS:
+            # 2026-10-16：DL-only 預測 × 本地產品的笛卡兒積會爆（In 4.24 億列被 OOM 砍掉）。
+            # 下游（藥品頁、FHIR）只用藥物層級，DL-only 列改成每個藥一個代表產品（字號最小者）。
+            print(f"    DL-only × products would be {est:,} rows (> {MAX_DL_ONLY_ROWS:,}); "
+                  "using one representative product per drug")
+            prod = prod.sort_values("license_id").drop_duplicates("drugbank_id")
+        dl_mapped = dl_only_keys.merge(prod, on="drugbank_id", how="inner")
         dl_mapped["kg_prediction"] = False
         dl_mapped["dl_prediction"] = True
         dl_mapped["source"] = "TxGNN Deep Learning Model"

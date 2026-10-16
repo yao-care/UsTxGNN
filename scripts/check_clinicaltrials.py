@@ -201,7 +201,9 @@ def create_github_issue(drug_name: str, new_trials: list, indications: list = No
     """Create a GitHub Issue for new trials found."""
     indications = indications or []
     ind_label = "; ".join(indications[:2]) + (" …" if len(indications) > 2 else "")
-    title = f"🔬 New Clinical Trials: {drug_name} → {ind_label} ({len(new_trials)} trials)" if ind_label else f"🔬 New Clinical Trials: {drug_name} ({len(new_trials)} trials)"
+    title = f"🔬 New Clinical Trials: {drug_name} ({len(new_trials)} trials)"
+    if ind_label:
+        title += f" → {ind_label}"  # 接在數量後面，github_utils 以「：…(」擷取藥名才對得上
 
     if not GITHUB_TOKEN:
         print(f"[DRY RUN] Would create issue for {drug_name} with {len(new_trials)} new trials")

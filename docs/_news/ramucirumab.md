@@ -14,7 +14,7 @@ permalink: /news/ramucirumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Ramucirumab?">
-<strong>Ramucirumab</strong> currently has <strong>11 news articles</strong>, with 10 predicted indications.
+<strong>Ramucirumab</strong> currently has <strong>9 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (9)
+
+### [Cancer strikes twice: husband and wife diagnosed in same month, undergo chemo together](https://news.google.com/rss/articles/CBMiakFVX3lxTE9qamNoNml0X1U5UG54U0VKRGZjaE1xWnp0bC15cVJiaE5KUndkU0RSTmx2Rk02c0ZETVRpclNjdlhzWWo4cmZfZ2RoNWZXc0tWMkJFMlI5c21qVktzbEdVZzhqOVdGMllFRmc?oc=5)
+
+2026-10-16 <span class="news-indication-tag">cancer</span>
+
+Source: [Ynetnews](https://news.google.com/rss/articles/CBMiakFVX3lxTE9qamNoNml0X1U5UG54U0VKRGZjaE1xWnp0bC15cVJiaE5KUndkU0RSTmx2Rk02c0ZETVRpclNjdlhzWWo4cmZfZ2RoNWZXc0tWMkJFMlI5c21qVktzbEdVZzhqOVdGMllFRmc?oc=5)
+
+---
 
 ### [Large study finds no link between ultra-processed food and colorectal cancer - NBC News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUm5MenREWXJHdGtsRFVUN0RRb1J2dFFCalNYeTRRNEhCTkc3SzBxLTlxbG9OdXI5NjFpV1MwdGlfZkM4RU01ZC1fblJKV2tQTlg1ejJSa3JzWUhzZW8yR2luZ2Y4QlVDejBuNmMwTGRlWk1fbTFiS05ENVNiVEI0akVfWjRlVXl1dDZIYWNZam43VzYzN0ctQnlMX0VmYm5odHlXaGhpUldFQQ?oc=5)
 
@@ -66,11 +74,11 @@ Source: [The Boston Globe](https://news.google.com/rss/articles/CBMif0FVX3lxTE5D
 
 ---
 
-### [My contraceptive coil saved my life after it revealed I had cancer](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LOS11NUxKVU5HRHAwZzNoRUVpdnFhOGIzc3hXcG5NbzZJWk91b3NWX3loUlpxbnhrd19QYk1SbFlibENHTTJfWDV6MDZiTlJFZTlRSjd2R1QyRk0?oc=5)
+### [Divergent genomic evolution in astrocytomas and oligodendrogliomas](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EaVdsVFVIdEQydFhLdDR4U3RmcEJMV2JvcE12bWF4b1ROX0k3TzRFcW9DMFM2VU9qd0FsWUZxdGFVV2cwZ2VqeFZmTEMzNXVzV2hGWmFiMDFrVS15VFYw?oc=5)
 
-2026-10-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+2026-10-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
 
-Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LOS11NUxKVU5HRHAwZzNoRUVpdnFhOGIzc3hXcG5NbzZJWk91b3NWX3loUlpxbnhrd19QYk1SbFlibENHTTJfWDV6MDZiTlJFZTlRSjd2R1QyRk0?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EaVdsVFVIdEQydFhLdDR4U3RmcEJMV2JvcE12bWF4b1ROX0k3TzRFcW9DMFM2VU9qd0FsWUZxdGFVV2cwZ2VqeFZmTEMzNXVzV2hGWmFiMDFrVS15VFYw?oc=5)
 
 ---
 
@@ -90,14 +98,6 @@ Source: [The Independent](https://news.google.com/rss/articles/CBMinAFBVV95cUxOV
 
 ---
 
-### [AI scans and ABCDEs: Modern skin cancer screening with a dermatologist - Medical News Today](https://news.google.com/rss/articles/CBMirwFBVV95cUxPNXJOdGFtbkxoR0JNYVpMZS1JcURFbW8wSzZFWUdpT01kSXpNcmxLVXNLVC13alBTVlBnOXZkZmczNEZ1bmYyYVlYYlV0OXJSYXRXalpKSm15VTZkOWcyV3ptYlZya3dmMFZLVnZnZHcwdjJjcVhZQjJqMlptS0JuT1B6OHZjb2dXRm1FaWdlaFpUMFJHRXdFeEs4OE12eVk3akJMZ2djaTR5NmZEZkFn?oc=5)
-
-2026-10-14 <span class="news-indication-tag">cancer</span>
-
-Source: [Medical News Today](https://news.google.com/rss/articles/CBMirwFBVV95cUxPNXJOdGFtbkxoR0JNYVpMZS1JcURFbW8wSzZFWUdpT01kSXpNcmxLVXNLVC13alBTVlBnOXZkZmczNEZ1bmYyYVlYYlV0OXJSYXRXalpKSm15VTZkOWcyV3ptYlZya3dmMFZLVnZnZHcwdjJjcVhZQjJqMlptS0JuT1B6OHZjb2dXRm1FaWdlaFpUMFJHRXdFeEs4OE12eVk3akJMZ2djaTR5NmZEZkFn?oc=5)
-
----
-
 ### [Woman Who Survived Colon Cancer 3 Times Reveals the First Symptom She Noticed at 14: ‘I Hid It From Everyone’ - Yahoo News UK](https://news.google.com/rss/articles/CBMiekFVX3lxTFBPcVUyRl9KOWNFdUlIV3hZMy1rMGhDeTVGRDV5R0hYQ05kUWgtTThuanN3TFpkVmdJRy1zaU5MYnBKTjRpM0NkcjI5T19saGlpTlA3dFY5bjh6ZWZMRTJyY2dFWmxadDFmOFBjUkFJV2dDUXVSbzZ6QVFB?oc=5)
 
 2026-10-13 <span class="news-indication-tag">cancer</span>
@@ -111,22 +111,6 @@ Source: [Yahoo News UK](https://news.google.com/rss/articles/CBMiekFVX3lxTFBPcVU
 2026-10-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">UC</span>
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EVGxXeGVFZjUyaGxsNHhiTnFBUGRlTFFUQ0dlV2NOVlVZYzJQZWpkQVZZMzJsOWE3RlVXUWpITW9VX3gyRzFSTHRTUjBvelNDZllET1h6RW5kRE5mS01V?oc=5)
-
----
-
-### [Do Sugary Drinks Increase Cancer Risk? It’s Complicated](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUXdvWXF4NENJX3ZWcVRESzN1ZGk1S1F0Q2YwbXFPOEZOWG9HSTZWVG1CRnhoNktQVzVUUWk0d1A5T0RMTVh2YklrRFhuTmtDdkpudzlkTlU5Q0pkLVAzRXFPZzJYNXRsRFZ2TmlvMlNsOTY0SjM1dEpxNzVuQUhTSDEtaHFXcXByLXhreVVCcnpoSDYzVXV3S0VDWmJ6TTZObkVlZHd3?oc=5)
-
-2026-10-12 <span class="news-indication-tag">cancer</span>
-
-Source: [Medscape](https://news.google.com/rss/articles/CBMipgFBVV95cUxQUXdvWXF4NENJX3ZWcVRESzN1ZGk1S1F0Q2YwbXFPOEZOWG9HSTZWVG1CRnhoNktQVzVUUWk0d1A5T0RMTVh2YklrRFhuTmtDdkpudzlkTlU5Q0pkLVAzRXFPZzJYNXRsRFZ2TmlvMlNsOTY0SjM1dEpxNzVuQUhTSDEtaHFXcXByLXhreVVCcnpoSDYzVXV3S0VDWmJ6TTZObkVlZHd3?oc=5)
-
----
-
-### [Cancer Vaccines Are the N.I.H.’s Next ‘Big Bet’ - The New York Times](https://news.google.com/rss/articles/CBMigAFBVV95cUxQcDZ3bklCUkxsQmVZd0hqWUJsRFFZU0NaZEp5WndCTWFhMW92MGszZTV5LUFSVF9LamlDSTNOcnl4SHNWemZxMkdmZjRCbTRNRHJfYmhXNUMzN0U3SDJUSXhraEVaRldKN2Nidnc4LWtuLVN2dmpudVJDc3h5YkVrcA?oc=5)
-
-2026-10-09 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
-
-Source: [The New York Times](https://news.google.com/rss/articles/CBMigAFBVV95cUxQcDZ3bklCUkxsQmVZd0hqWUJsRFFZU0NaZEp5WndCTWFhMW92MGszZTV5LUFSVF9LamlDSTNOcnl4SHNWemZxMkdmZjRCbTRNRHJfYmhXNUMzN0U3SDJUSXhraEVaRldKN2Nidnc4LWtuLVN2dmpudVJDc3h5YkVrcA?oc=5)
 
 ---
 

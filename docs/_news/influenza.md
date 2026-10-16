@@ -40,19 +40,19 @@ Source: [KSL News](https://news.google.com/rss/articles/CBMitwFBVV95cUxNcWVON2RM
 
 ---
 
-### [Opinion | I moved up my flu shot appointment. You should, too. - The Washington Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxOSnpDemdzQklkTlNyOGREVndZb3Exc1pLWkhtcDYtbWY4dndOMFBPc2UxWkh4d1M5bHI3NXZrdDdYSnRnNHotV3FXeVVmY1dxR0VnYm1HdlFkb0hpRVUyNThXT0JCQVNmM290U1o1UmNtcm9EUGMyaEoyZkpHWEljTUxLUjl2RHRuRFlfZnVOeWsxYTlSNTFxTkpsOUlZR1FXSS1mY2gzdFdleGhG?oc=5)
-
-2026-10-15
-
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxOSnpDemdzQklkTlNyOGREVndZb3Exc1pLWkhtcDYtbWY4dndOMFBPc2UxWkh4d1M5bHI3NXZrdDdYSnRnNHotV3FXeVVmY1dxR0VnYm1HdlFkb0hpRVUyNThXT0JCQVNmM290U1o1UmNtcm9EUGMyaEoyZkpHWEljTUxLUjl2RHRuRFlfZnVOeWsxYTlSNTFxTkpsOUlZR1FXSS1mY2gzdFdleGhG?oc=5)
-
----
-
 ### [Flu season started earlier than expected — what to know about the brand new vaccine - New York Post](https://news.google.com/rss/articles/CBMimAFBVV95cUxQeGVaV1dtRUtockl3cV9HVU0zbDN5aDljZnRIdm8wWHp3UFlOMlNJQVJpUk5nYmNSNlIzdW9YQ2JRcjZfYmlsTkhhd3pyNW53STBVWDlMM3hsZThVWVd2OUlWWEVaZmpFVmhxeHdjcDhiOV8zaXIyWVVZcXA4S1lOMUU4bzhYaEc0Mm1wa2Z6dHNFdmFpdmQ1bQ?oc=5)
 
 2026-10-14
 
 Source: [New York Post](https://news.google.com/rss/articles/CBMimAFBVV95cUxQeGVaV1dtRUtockl3cV9HVU0zbDN5aDljZnRIdm8wWHp3UFlOMlNJQVJpUk5nYmNSNlIzdW9YQ2JRcjZfYmlsTkhhd3pyNW53STBVWDlMM3hsZThVWVd2OUlWWEVaZmpFVmhxeHdjcDhiOV8zaXIyWVVZcXA4S1lOMUU4bzhYaEc0Mm1wa2Z6dHNFdmFpdmQ1bQ?oc=5)
+
+---
+
+### [Want to dodge the flu this year? Eat these secret-weapon immunity-boosting foods - Fox News](https://news.google.com/rss/articles/CBMinAFBVV95cUxNOVNqUDhLNVk3QVotQzZfbEl0SU41a21XYlVrZnBNUHNyZUYycnlmYjdBbTY4OThtbWhBM0owSnllQ2Y1dkxkVGNQdEJTcEZUMjdDWXo4YjcyalNhM3JSUEtFcHFHN2d4S1g2RlVyR25lM3FWdjhxOFA4UEgyQmtmN09DS213MXQ1RG1teHVRVEk3c2hRdFF6Tnl1SFnSAaIBQVVfeXFMTUhHbGhMeDdBU0dpWjRCS182b2wxSERLeHg5UXY0cVlQMC1ZOVBBaTNLejl5RHpUa09LR1FVLWltbFBNS0E5QUE2YklWM0FIX0tRMmVJM25RekdyY0VVWVZ5Z3UxaFZfX0hneWREMGY3VVIxVDBtc0JublJpMUE4ejNiODRVaDZhX25XdzBhQ3dOYnY5M1Y3cTlwZHh5dVJnV05R?oc=5)
+
+2026-10-13
+
+Source: [Fox News](https://news.google.com/rss/articles/CBMinAFBVV95cUxNOVNqUDhLNVk3QVotQzZfbEl0SU41a21XYlVrZnBNUHNyZUYycnlmYjdBbTY4OThtbWhBM0owSnllQ2Y1dkxkVGNQdEJTcEZUMjdDWXo4YjcyalNhM3JSUEtFcHFHN2d4S1g2RlVyR25lM3FWdjhxOFA4UEgyQmtmN09DS213MXQ1RG1teHVRVEk3c2hRdFF6Tnl1SFnSAaIBQVVfeXFMTUhHbGhMeDdBU0dpWjRCS182b2wxSERLeHg5UXY0cVlQMC1ZOVBBaTNLejl5RHpUa09LR1FVLWltbFBNS0E5QUE2YklWM0FIX0tRMmVJM25RekdyY0VVWVZ5Z3UxaFZfX0hneWREMGY3VVIxVDBtc0JublJpMUE4ejNiODRVaDZhX25XdzBhQ3dOYnY5M1Y3cTlwZHh5dVJnV05R?oc=5)
 
 ---
 

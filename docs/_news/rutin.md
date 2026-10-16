@@ -14,7 +14,7 @@ permalink: /news/rutin/
 ---
 
 <p class="key-answer" data-question="What news is there about Rutin?">
-<strong>Rutin</strong> currently has <strong>11 news articles</strong>, with 8 predicted indications.
+<strong>Rutin</strong> currently has <strong>10 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ This page combines the AI-predicted indications for Rutin with the latest health
 <p><a href="{{ '/drugs/rutin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (10)
 
 ### [One Common Eating Habit Is Linked to Higher Risk of 2 Liver Diseases](https://news.google.com/rss/articles/CBMingFBVV95cUxPb0lQWi1KNmV1cjJpVFlQWXB3cDJjU3ZEZnNMYTZaeUhrYTJDS2VHUHVwTlRMOVZFZlUxOFR6V0R0QTUtSF9zZmY3T19tNzItSU1pLWVfeE5jd2RFWXd2VUdjN2Z2UU1NczFQUTI5c0VsRkNOdDlyTzh6Q3hQRlVET1QwMFhsUnU0UHRmNDZhekhJYkE2YzFqLWRIblFXUQ?oc=5)
 
@@ -48,17 +48,25 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMingFBVV95cUxPb0lQ
 
 ---
 
-### [BBC expert gives major statins update about impact on health condition - The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxNYVNINUI0MUMycGtIVFRZUk9VRXF2ZmFZS3pUano2Vm9kM2NsaWVtZFFnUE10ZjBEUlFUUlZzZ19Zb0R5NU5ObXk2Wld1RTZqazJPXzVvTHNDRjYtYW5Pck42TjRqdlJrSXJham5NMkJRNDFnSjhZRThfX2NVU25NdjBn0gGHAUFVX3lxTE9jNGNrcmJ0Sk4xd1AxOVFTVElDVVlWbmlCeENQcXdSRnJfQUhSVTJVNVZaNjJmZENzTk1RY0JnOFpCZ1FLOWQzX3ljRkpDczZhN0JMd1FUVmxBQzBFZHhpdGh6WVY0MThTTWUxd09TdV94bUFhNVluRktIaDgxOXFXWTdmS1FjQQ?oc=5)
+### [NASA Images Reveal 10,000 Young Faults on the Moon. That’s a Problem](https://news.google.com/rss/articles/CBMinAFBVV95cUxNOVY3bm5iUXpZTVdYREJjWC1aT2lyNU5qdDBoWlpDZjlDMnpoUzF0ZFdvT0s3WkZ1aDhDTHRhb09BZWNFZVlwd0hCX2U2TGxqM2pBV0tOMEdzd2htTmZMeEJNamcwQk5rZHpTUjlpOEphUkotYUFsaFFhUzVHMndPZUlQdzYyeG1Lbl9pc09CWnNIU0VwQ1lDaVNGYkw?oc=5)
 
 2026-10-15 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
 
-Source: [The Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxNYVNINUI0MUMycGtIVFRZUk9VRXF2ZmFZS3pUano2Vm9kM2NsaWVtZFFnUE10ZjBEUlFUUlZzZ19Zb0R5NU5ObXk2Wld1RTZqazJPXzVvTHNDRjYtYW5Pck42TjRqdlJrSXJham5NMkJRNDFnSjhZRThfX2NVU25NdjBn0gGHAUFVX3lxTE9jNGNrcmJ0Sk4xd1AxOVFTVElDVVlWbmlCeENQcXdSRnJfQUhSVTJVNVZaNjJmZENzTk1RY0JnOFpCZ1FLOWQzX3ljRkpDczZhN0JMd1FUVmxBQzBFZHhpdGh6WVY0MThTTWUxd09TdV94bUFhNVluRktIaDgxOXFXWTdmS1FjQQ?oc=5)
+Source: [Gizmodo](https://news.google.com/rss/articles/CBMinAFBVV95cUxNOVY3bm5iUXpZTVdYREJjWC1aT2lyNU5qdDBoWlpDZjlDMnpoUzF0ZFdvT0s3WkZ1aDhDTHRhb09BZWNFZVlwd0hCX2U2TGxqM2pBV0tOMEdzd2htTmZMeEJNamcwQk5rZHpTUjlpOEphUkotYUFsaFFhUzVHMndPZUlQdzYyeG1Lbl9pc09CWnNIU0VwQ1lDaVNGYkw?oc=5)
+
+---
+
+### [BBC expert gives major statins update about impact on health condition - Daily Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxNYVNINUI0MUMycGtIVFRZUk9VRXF2ZmFZS3pUano2Vm9kM2NsaWVtZFFnUE10ZjBEUlFUUlZzZ19Zb0R5NU5ObXk2Wld1RTZqazJPXzVvTHNDRjYtYW5Pck42TjRqdlJrSXJham5NMkJRNDFnSjhZRThfX2NVU25NdjBn0gGHAUFVX3lxTE9jNGNrcmJ0Sk4xd1AxOVFTVElDVVlWbmlCeENQcXdSRnJfQUhSVTJVNVZaNjJmZENzTk1RY0JnOFpCZ1FLOWQzX3ljRkpDczZhN0JMd1FUVmxBQzBFZHhpdGh6WVY0MThTTWUxd09TdV94bUFhNVluRktIaDgxOXFXWTdmS1FjQQ?oc=5)
+
+2026-10-15 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+
+Source: [Daily Mirror](https://news.google.com/rss/articles/CBMiggFBVV95cUxNYVNINUI0MUMycGtIVFRZUk9VRXF2ZmFZS3pUano2Vm9kM2NsaWVtZFFnUE10ZjBEUlFUUlZzZ19Zb0R5NU5ObXk2Wld1RTZqazJPXzVvTHNDRjYtYW5Pck42TjRqdlJrSXJham5NMkJRNDFnSjhZRThfX2NVU25NdjBn0gGHAUFVX3lxTE9jNGNrcmJ0Sk4xd1AxOVFTVElDVVlWbmlCeENQcXdSRnJfQUhSVTJVNVZaNjJmZENzTk1RY0JnOFpCZ1FLOWQzX3ljRkpDczZhN0JMd1FUVmxBQzBFZHhpdGh6WVY0MThTTWUxd09TdV94bUFhNVluRktIaDgxOXFXWTdmS1FjQQ?oc=5)
 
 ---
 
 ### [Best foods for reducing dangerous belly fat and protecting heart health - Fox News](https://news.google.com/rss/articles/CBMinwFBVV95cUxOUjN6QU9jWVo3bUNiX0RKZmhIbzFXTmhQNVcxektTVGl3aW5VR29qaHB6NnpoWnl6MC1mZGNsam9FXzY4RWZmYXZyMkVibkFxaDFuUXFYV0dfOGhuSUplSlpqejk0NkJsY01Zc2VmYTFfenpfNnUxZWV1cmlNOXpZRDlMb0tvaDYtZVJZSnRjaTBqMUVyazlaZ2JtT3VJZ0XSAaQBQVVfeXFMTUFEckp5MEdfekxFVTY3bXVLeS0zZGFKMTdvTmR1clpJOE1TNGlGdXJNY053QjB6LXdLZFZ3QTU4WEpEblM0UW9mZmpvM0Y4SllZS3pVT0JzRE96S1piVlJKelk1XzNsdFpTNGcyUndCdzM3S2tsN1plNlpGLTBid3NqbVB2Nm1SUmM3SkZoLTNFUWEtRG5PX241ODI4aUhpaGlzQWo?oc=5)
 
-2026-10-15 <span class="news-indication-tag">UC</span>
+2026-10-15 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
 
 Source: [Fox News](https://news.google.com/rss/articles/CBMinwFBVV95cUxOUjN6QU9jWVo3bUNiX0RKZmhIbzFXTmhQNVcxektTVGl3aW5VR29qaHB6NnpoWnl6MC1mZGNsam9FXzY4RWZmYXZyMkVibkFxaDFuUXFYV0dfOGhuSUplSlpqejk0NkJsY01Zc2VmYTFfenpfNnUxZWV1cmlNOXpZRDlMb0tvaDYtZVJZSnRjaTBqMUVyazlaZ2JtT3VJZ0XSAaQBQVVfeXFMTUFEckp5MEdfekxFVTY3bXVLeS0zZGFKMTdvTmR1clpJOE1TNGlGdXJNY053QjB6LXdLZFZ3QTU4WEpEblM0UW9mZmpvM0Y4SllZS3pVT0JzRE96S1piVlJKelk1XzNsdFpTNGcyUndCdzM3S2tsN1plNlpGLTBid3NqbVB2Nm1SUmM3SkZoLTNFUWEtRG5PX241ODI4aUhpaGlzQWo?oc=5)
 
@@ -80,11 +88,11 @@ Source: [Food & Wine](https://news.google.com/rss/articles/CBMikgFBVV95cUxNWVdpU
 
 ---
 
-### [New knee arthritis treatment delivers lasting pain relief without surgery - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZjhoU1BNT2w2eWNfNy1KSVFmQXBkT0xDeFFRMURTOXFBdkVkZnBVa0hsREE4YXFDNE9fcXlROWwzUXpZM1BuY0pzX0pIWHlKbTZuRml5NnVtNDRlSDZXZllzTjBfWEhRMnFTU09Idw?oc=5)
+### [Scientists studied 1 million women before menopause—one pattern stood out - Yahoo Health](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeEpFYi1IRF90Vjh6LUpXY0hvTlVMeEk1U2lvZGU1d1ByUzBza1lGSlFTY2lxVTZtM3Q0UjNjOFhFMlZNcnZIbVpzSGhRS05obW1ENFltSGdoeWVTUG1VTWJRTDZIUjZHNE1TYy14VVdRNEl0VUE4cjYxOUlLRHpZNHg5SEUwcWh1N05UZnpDa3lxSFl3MGIzRjhsUS0wNUZfVGZiNmJjVlo1WlNCX1AxbE1DWEg1Q0xj?oc=5)
 
-2026-10-14 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">arthritis</span> <span class="news-indication-tag">UC</span>
+2026-10-13 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
 
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZjhoU1BNT2w2eWNfNy1KSVFmQXBkT0xDeFFRMURTOXFBdkVkZnBVa0hsREE4YXFDNE9fcXlROWwzUXpZM1BuY0pzX0pIWHlKbTZuRml5NnVtNDRlSDZXZllzTjBfWEhRMnFTU09Idw?oc=5)
+Source: [Yahoo Health](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeEpFYi1IRF90Vjh6LUpXY0hvTlVMeEk1U2lvZGU1d1ByUzBza1lGSlFTY2lxVTZtM3Q0UjNjOFhFMlZNcnZIbVpzSGhRS05obW1ENFltSGdoeWVTUG1VTWJRTDZIUjZHNE1TYy14VVdRNEl0VUE4cjYxOUlLRHpZNHg5SEUwcWh1N05UZnpDa3lxSFl3MGIzRjhsUS0wNUZfVGZiNmJjVlo1WlNCX1AxbE1DWEg1Q0xj?oc=5)
 
 ---
 
@@ -96,19 +104,11 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EVGxXeGVFZj
 
 ---
 
-### [High-fibre Diet Reduces Weight in Newly Diagnosed Type II Diabetes](https://news.google.com/rss/articles/CBMirAFBVV95cUxPYWRxUU9VVDdlaUdfQzFRWTBIbVR2dEdhSEZMaEw2NFdoUmxXcFB4WGN6RGZ4NGRYRXRFS0ZjMmdub3JVSWlENUxNaTVEemNLaVZUM3N0d091WEJlREpMQ3dFM01iRnFVUzhYWS1nOHltYThpbmYwOHBVTlBVSmVBRUp2bDZXbnpsN01OOGk3Mi1CUVdiWl9DbUp0Wk43eW9JZEhfM2tOcE1kZ0xD?oc=5)
+### [Blood clots can affect women of any age – 4 warning signs you should never ignore - Women's Health](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWXVqeTJRc3I3RmQybjBvM1E2VEtlRW1UU3FneGZlMXVNdy1pRC12VndwODYxNFhTWVUwaEoxLVZqbUJRWE9HcmhHMi1zNEZZZldGTHZnenRUenYyWkdUNk8tRm9Rc3ducm5KdXpmMVpmYjhpR1hsWDBMV0gxaWwwX01vNkk5ZDQwRFBR?oc=5)
 
-2026-10-13 <span class="news-indication-tag">UC</span>
+2026-10-13 <span class="news-indication-tag">heart attack</span> <span class="news-indication-tag">UC</span>
 
-Source: [EMJ](https://news.google.com/rss/articles/CBMirAFBVV95cUxPYWRxUU9VVDdlaUdfQzFRWTBIbVR2dEdhSEZMaEw2NFdoUmxXcFB4WGN6RGZ4NGRYRXRFS0ZjMmdub3JVSWlENUxNaTVEemNLaVZUM3N0d091WEJlREpMQ3dFM01iRnFVUzhYWS1nOHltYThpbmYwOHBVTlBVSmVBRUp2bDZXbnpsN01OOGk3Mi1CUVdiWl9DbUp0Wk43eW9JZEhfM2tOcE1kZ0xD?oc=5)
-
----
-
-### [Why a debate on declining sperm counts can spur conversations about overall health](https://news.google.com/rss/articles/CBMieEFVX3lxTE1UVnYtc3E1dTFsOTViZWxCNVlodmlzd1RwT2lfY0hFdk93Ml8yV3UwU2htWTVIcF8yZ09FY29VOU4xbC1SYllVa1RuLTdwWXI1eGZvcHFINHkxM2NaOHB1NHZ3WTg2Y1hUbEJLU0RKaGxReWR3OThvVw?oc=5)
-
-2026-10-13 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [CNN](https://news.google.com/rss/articles/CBMieEFVX3lxTE1UVnYtc3E1dTFsOTViZWxCNVlodmlzd1RwT2lfY0hFdk93Ml8yV3UwU2htWTVIcF8yZ09FY29VOU4xbC1SYllVa1RuLTdwWXI1eGZvcHFINHkxM2NaOHB1NHZ3WTg2Y1hUbEJLU0RKaGxReWR3OThvVw?oc=5)
+Source: [Women's Health](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWXVqeTJRc3I3RmQybjBvM1E2VEtlRW1UU3FneGZlMXVNdy1pRC12VndwODYxNFhTWVUwaEoxLVZqbUJRWE9HcmhHMi1zNEZZZldGTHZnenRUenYyWkdUNk8tRm9Rc3ducm5KdXpmMVpmYjhpR1hsWDBMV0gxaWwwX01vNkk5ZDQwRFBR?oc=5)
 
 ---
 
@@ -117,14 +117,6 @@ Source: [CNN](https://news.google.com/rss/articles/CBMieEFVX3lxTE1UVnYtc3E1dTFsO
 2026-10-12 <span class="news-indication-tag">UC</span>
 
 Source: [Phys.org](https://news.google.com/rss/articles/CBMic0FVX3lxTE5qZmlQN3V6dG5uUEVpX1JFbnF0OERoWnA3NDN1eDlydnJVWmV6TjVvSGJ4NnEyWUp1eFNoR1RLX2JvWlV3Nl9nb2xtVnpoMktHZGgtYVVaNW8yWlQ0LUJwSkEwdFlxWHZiSDEzVUJZYlVpVGM?oc=5)
-
----
-
-### [Scientists examined a 165-million-year-old fossil from China and found a broad swimming tail plus bony th - The Times of India](https://news.google.com/rss/articles/CBMinANBVV95cUxQYXN3UEMxWHkxcEl4VGxSVmVNY3RVa21JakFLb0FPRkM2VG1lM040N1locUNPeVNvSnFHLUVoSkdMMFBBZ1BmWDY5MUJHU2xzQ0l1RjA0SlNmQkNJMWhQb3lIZlNkQ2NMWGJPLWZpWk9qTDR0cFZYOHZsYWpmOEpMWlhKaGwtajJFSU5kdFlVS1FkVUl6am5HODJRX1p3ckRDa1VLOHp2MXVfSGlncC13WUthdjVMaE1PWHNUc09tSW9VeUpvUGctUF9Va1p3c3NnZkN1VWxBaVpvbnRoTWc2Z3dFWHkwOVpTRW9oTGRDY01lRmpSWmZmcHJKNEdTd2VTVnhhejZrM1BZVHBHUTExWW9XOVI5aVNPZXVFcFhGY0lpalpIVlEwMW1tVUhfYmdsdTRvTGhYemRuWUxBQ3I5ZW9ERDZtUFFvckhoQUJ3R3ZfYk9kSXI0bEFPU3lIb1JyVFNiWFRpeVZZeXZfMzVqazFhRnV0elJ0eE1yb2RtbmNnY3BUX0JvOXplOTZFcElOZUg4ODFUWlFqYXlx0gGiA0FVX3lxTE1GejVJZFA1SUU5OUFWNktRcjc4b1RYa0xTc0d3NFNYTkRHd3owenloUHJvZXpIZEVuTGh1dUUwcU9EVmhjUEt3WWRnb2RRNnRjN0NjRmNscTVaSmE0SzdiaHNFcTV1T1JSNjZzVWFnNGFTckVxUUFQVkxWVktRN2JxTmxUaUJUMTd1M29UZVZTdXhqRGFNRmFrbFBtV0l4SU11Y04zYllqSUM5QjBRSXdxSEhJTHZtQ0Q3OHJZX0o2eVpsbWk2WlYtMjdydlpWeUxKZjlSdzRQR0oyUHJUVExONUtlQ3pzc0F6QXhpNmhKNExUUG9fOVRWbF9kLWI2djJZclN5RTRpdUM5Y3pDMmtQRTIwcFdLSENKZVM4UW1iX3kwd0g3dEgzWTVuYTFUV0psLVE4ZHJqMG14YXFWM3A1T1JYcTE5SVRrSzdSUXktdW9HRmlKczcxbHlqajJzZU12QWNTOUxrSWZWaVBORnM4Z2hzV0JBcjlDUVYxdXY3RHlFcDNJZjFFYlhiaGVMbVQ4WjEtYVpxVjhxV2F0ZXhpc3c?oc=5)
-
-2026-10-10 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [The Times of India](https://news.google.com/rss/articles/CBMinANBVV95cUxQYXN3UEMxWHkxcEl4VGxSVmVNY3RVa21JakFLb0FPRkM2VG1lM040N1locUNPeVNvSnFHLUVoSkdMMFBBZ1BmWDY5MUJHU2xzQ0l1RjA0SlNmQkNJMWhQb3lIZlNkQ2NMWGJPLWZpWk9qTDR0cFZYOHZsYWpmOEpMWlhKaGwtajJFSU5kdFlVS1FkVUl6am5HODJRX1p3ckRDa1VLOHp2MXVfSGlncC13WUthdjVMaE1PWHNUc09tSW9VeUpvUGctUF9Va1p3c3NnZkN1VWxBaVpvbnRoTWc2Z3dFWHkwOVpTRW9oTGRDY01lRmpSWmZmcHJKNEdTd2VTVnhhejZrM1BZVHBHUTExWW9XOVI5aVNPZXVFcFhGY0lpalpIVlEwMW1tVUhfYmdsdTRvTGhYemRuWUxBQ3I5ZW9ERDZtUFFvckhoQUJ3R3ZfYk9kSXI0bEFPU3lIb1JyVFNiWFRpeVZZeXZfMzVqazFhRnV0elJ0eE1yb2RtbmNnY3BUX0JvOXplOTZFcElOZUg4ODFUWlFqYXlx0gGiA0FVX3lxTE1GejVJZFA1SUU5OUFWNktRcjc4b1RYa0xTc0d3NFNYTkRHd3owenloUHJvZXpIZEVuTGh1dUUwcU9EVmhjUEt3WWRnb2RRNnRjN0NjRmNscTVaSmE0SzdiaHNFcTV1T1JSNjZzVWFnNGFTckVxUUFQVkxWVktRN2JxTmxUaUJUMTd1M29UZVZTdXhqRGFNRmFrbFBtV0l4SU11Y04zYllqSUM5QjBRSXdxSEhJTHZtQ0Q3OHJZX0o2eVpsbWk2WlYtMjdydlpWeUxKZjlSdzRQR0oyUHJUVExONUtlQ3pzc0F6QXhpNmhKNExUUG9fOVRWbF9kLWI2djJZclN5RTRpdUM5Y3pDMmtQRTIwcFdLSENKZVM4UW1iX3kwd0g3dEgzWTVuYTFUV0psLVE4ZHJqMG14YXFWM3A1T1JYcTE5SVRrSzdSUXktdW9HRmlKczcxbHlqajJzZU12QWNTOUxrSWZWaVBORnM4Z2hzV0JBcjlDUVYxdXY3RHlFcDNJZjFFYlhiaGVMbVQ4WjEtYVpxVjhxV2F0ZXhpc3c?oc=5)
 
 ---
 

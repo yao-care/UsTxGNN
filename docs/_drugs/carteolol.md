@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "CARTEOLOL"
 predicted_indications: ["primary hereditary glaucoma"]
+last_modified_at: 2026-10-14
+description: "Carteolol: predicted new indication Primary hereditary glaucoma (evidence level L5). Approved use: Hypertension, open-angle glaucoma, ocular hypertension"
 ---
 
 # Carteolol

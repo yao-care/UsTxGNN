@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "CALCITRIOL"
 predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis", "familial isolated hypoparathyroidism due to impaired PTH secretion", "acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "Dahlberg-Borer-Newcomer syndrome", "hereditary hypophosphatemic rickets"]
+last_modified_at: 2026-10-14
+description: "Calcitriol: predicted new indication Hereditary hypophosphatemic rickets (evidence level L5). Approved use: Hypercalcemia disease, nephrocalcinosis…"
 ---
 
 # Calcitriol

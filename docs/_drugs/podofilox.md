@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "PODOFILOX"
 predicted_indications: ["vulvovaginal candidiasis", "photosensitivity disease", "human papilloma virus infection", "herpes zoster", "benign neoplasm of tongue", "benign neoplasm of hypopharynx", "cystic neoplasm", "mesenchymoma", "nasal cavity inverting papilloma", "tumor of testis and paratestis"]
+last_modified_at: 2026-10-14
+description: "Podofilox: predicted new indication Vulvovaginal candidiasis (evidence level L5). Approved use: Anogenital human papillomavirus infection"
 ---
 
 # Podofilox

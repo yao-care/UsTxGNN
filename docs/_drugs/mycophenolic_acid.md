@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "MYCOPHENOLIC ACID"
 predicted_indications: ["hemoglobinopathy", "migraine disorder", "migraine with brainstem aura", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations", "pyropoikilocytosis, hereditary", "hemolytic anemia due to glucophosphate isomerase deficiency", "pyruvate kinase deficiency of red cells", "rheumatoid arthritis", "antithrombin deficiency type 2"]
+last_modified_at: 2026-10-14
+description: "Mycophenolic Acid: predicted new indication Hemoglobinopathy (evidence level L4). Approved use: Not specified in the available US license data"
 ---
 
 # Mycophenolic Acid

@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 3
 monitor_inn: "GOSERELIN"
 predicted_indications: ["amenorrhea (disease)", "renal hypoplasia (disease)", "renal hypoplasia, bilateral"]
+last_modified_at: 2026-10-14
+description: "Goserelin: predicted new indication Amenorrhea (evidence level L2). Approved use: Endometriosis"
 ---
 
 # Goserelin

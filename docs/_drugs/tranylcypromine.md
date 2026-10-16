@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "TRANYLCYPROMINE"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "Ohdo syndrome and variants", "dysthymic disorder", "agoraphobia", "melancholia", "neurotic depression", "blepharophimosis - intellectual disability syndrome, Ohdo type", "neurotic disorder", "ligneous conjunctivitis", "Keppen-Lubinsky syndrome"]
+last_modified_at: 2026-10-14
+description: "Tranylcypromine: predicted new indication Dysthymic disorder (evidence level L4). Approved use: Unipolar depression, endogenous depression, major depressive disorder…"
 ---
 
 # Tranylcypromine

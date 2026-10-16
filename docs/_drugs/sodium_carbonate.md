@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "SODIUM CARBONATE"
 predicted_indications: ["cauda equina syndrome", "anaphylaxis", "food-dependent exercise-induced anaphylaxis", "obsolete neurogenic bladder (disease)", "dry eye syndrome", "ventricular tachycardia"]
+last_modified_at: 2026-10-14
+description: "Sodium Carbonate: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: No approved indication text on record"
 ---
 
 # Sodium Carbonate

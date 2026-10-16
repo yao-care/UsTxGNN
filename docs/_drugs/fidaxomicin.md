@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "FIDAXOMICIN"
 predicted_indications: ["staphylococcal scalded skin syndrome", "bullous impetigo", "inhalational botulism", "impetigo", "toxin-mediated infectious botulism", "vulvovaginal candidiasis", "hordeolum", "staphylococcus aureus pneumonia", "punctate epithelial keratoconjunctivitis"]
+last_modified_at: 2026-10-14
+description: "Fidaxomicin: predicted new indication Staphylococcal scalded skin syndrome (evidence level L5). Approved use: Clostridium difficile colitis"
 ---
 
 # Fidaxomicin

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "BELINOSTAT"
 predicted_indications: ["myeloid leukemia", "plasma cell myeloma", "indolent plasma cell myeloma"]
+last_modified_at: 2026-10-14
+description: "Belinostat: predicted new indication Myeloid leukemia (evidence level L5). Approved use: Not listed in the US license record (the literature describes belinos…"
 ---
 
 # Belinostat

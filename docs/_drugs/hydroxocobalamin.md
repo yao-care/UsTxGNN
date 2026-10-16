@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "HYDROXOCOBALAMIN"
 predicted_indications: ["esophageal varices with bleeding", "esophageal varices without bleeding"]
+last_modified_at: 2026-10-14
+description: "Hydroxocobalamin: predicted new indication Esophageal varices with bleeding (evidence level L5). Approved use: Vitamin B12 deficiency, pernicious anemia, cyanide poisoning"
 ---
 
 # Hydroxocobalamin

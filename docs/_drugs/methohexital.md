@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "METHOHEXITAL"
 predicted_indications: ["insomnia (disease)", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "migraine with brainstem aura", "headache disorder"]
+last_modified_at: 2026-10-14
+description: "Methohexital: predicted new indication Insomnia (evidence level L5). Approved use: Not stated in the available data (methohexital is generally known as…"
 ---
 
 # Methohexital

@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "PEPPERMINT OIL"
 predicted_indications: ["leprosy", "pneumocystosis", "coronary artery disease", "myocardial ischemia", "echinococcus granulosus infectious disease", "polyp of vocal cord", "uterine polyp", "polyp of middle ear", "cardiovascular disease", "polyp of frontal sinus"]
+last_modified_at: 2026-10-14
+description: "Peppermint Oil: predicted new indication Cardiovascular Disease (evidence level L4). Approved use: Not available (no approved indication text in any authorization)"
 ---
 
 # Peppermint Oil

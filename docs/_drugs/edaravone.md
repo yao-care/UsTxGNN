@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "EDARAVONE"
 predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis"]
+last_modified_at: 2026-10-14
+description: "Edaravone: predicted new indication Heparin cofactor 2 deficiency (evidence level L5). Approved use: Amyotrophic lateral sclerosis"
 ---
 
 # Edaravone

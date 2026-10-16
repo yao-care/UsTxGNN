@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "POLYVINYL ALCOHOL"
 predicted_indications: ["congenital ichthyosiform erythroderma", "self-healing collodion baby", "lamellar ichthyosis", "bathing suit ichthyosis"]
+last_modified_at: 2026-10-14
+description: "Polyvinyl Alcohol: predicted new indication Congenital ichthyosiform erythroderma (evidence level L5). Approved use: Dry eye syndrome, xerophthalmia"
 ---
 
 # Polyvinyl Alcohol

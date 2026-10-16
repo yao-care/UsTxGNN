@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "LEVODOPA"
 predicted_indications: ["Rasmussen subacute encephalitis"]
+last_modified_at: 2026-10-14
+description: "Levodopa: predicted new indication Rasmussen subacute encephalitis (evidence level L5). Approved use: Parkinson disease and related parkinsonian syndromes"
 ---
 
 # Levodopa

@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 1
 monitor_inn: "BECLOMETHASONE DIPROPIONATE"
 predicted_indications: ["atopic eczema"]
+last_modified_at: 2026-10-14
+description: "Beclomethasone Dipropionate: predicted new indication Atopic eczema (evidence level L3). Approved use: Asthma, allergic rhinitis"
 ---
 
 # Beclomethasone Dipropionate

@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "ABATACEPT"
 predicted_indications: ["rheumatoid vasculitis", "ankylosing spondylitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "polyarticular juvenile rheumatoid arthritis", "vertebral disease", "spondyloarthropathy, susceptibility to", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
+last_modified_at: 2026-10-14
+description: "Abatacept: predicted new indication Rheumatoid vasculitis (evidence level L4). Approved use: Rheumatoid arthritis, juvenile idiopathic arthritis…"
 ---
 
 # Abatacept

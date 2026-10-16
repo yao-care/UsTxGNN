@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "CAFFEINE"
 predicted_indications: ["nasal cavity disease", "thrombotic disease", "acute laryngopharyngitis", "papillary conjunctivitis", "neuralgia", "glossodynia", "coccygodynia", "trigeminal autonomic cephalalgia", "hypnic headache (disease)", "vein disease"]
+last_modified_at: 2026-10-14
+description: "Caffeine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Allergic rhinitis, vasomotor rhinitis, migraine, pharyngitis…"
 ---
 
 # Caffeine

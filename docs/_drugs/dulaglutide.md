@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Dulaglutide"
 predicted_indications: ["opsismodysplasia", "classic stiff person syndrome", "focal stiff limb syndrome", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "pancreatic agenesis", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "autoimmune oophoritis"]
+last_modified_at: 2026-10-14
+description: "Dulaglutide: predicted new indication Opsismodysplasia (evidence level L5). Approved use: Type 2 diabetes mellitus"
 ---
 
 # Dulaglutide

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "TRANEXAMIC ACID"
 predicted_indications: ["amenorrhea (disease)"]
+last_modified_at: 2026-10-14
+description: "Tranexamic Acid: predicted new indication Amenorrhea (evidence level L5). Approved use: Endometriosis (endometriosis of uterus), per the knowledge graph"
 ---
 
 # Tranexamic Acid

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "METHOCARBAMOL"
 predicted_indications: ["cauda equina syndrome", "irritable bowel syndrome", "panuveitis (disease)", "anaphylaxis", "iris disease", "uveitis", "ventricular tachycardia", "food-dependent exercise-induced anaphylaxis", "conjunctivitis", "obsolete bundle branch block"]
+last_modified_at: 2026-10-14
+description: "Methocarbamol: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not listed in the data compiled for this report (methocarbamol is gen…"
 ---
 
 # Methocarbamol

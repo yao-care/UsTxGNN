@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "CABOTEGRAVIR"
 predicted_indications: ["rheumatoid arthritis", "sclerosing cholangitis", "bronchitis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "severe nonproliferative diabetic retinopathy"]
+last_modified_at: 2026-10-14
+description: "Cabotegravir: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: Not stated in the available US license data (the one NDA has no indic…"
 ---
 
 # Cabotegravir

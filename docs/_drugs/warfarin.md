@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "WARFARIN"
 predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "rheumatoid arthritis", "breast fibrocystic disease", "benign mammary dysplasia"]
+last_modified_at: 2026-10-14
+description: "Warfarin: predicted new indication Thrombophilia (evidence level L5). Approved use: Pulmonary embolism, thrombotic disease, intracranial embolism"
 ---
 
 # Warfarin

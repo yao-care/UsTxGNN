@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 10
 monitor_inn: "PRILOCAINE"
 predicted_indications: ["papillary conjunctivitis", "manic bipolar affective disorder", "bronchitis", "migraine disorder", "neuralgia", "migraine with brainstem aura", "atopic eczema", "allergic asthma", "rhinitis", "rosacea conjunctivitis"]
+last_modified_at: 2026-10-14
+description: "Prilocaine: predicted new indication Neuralgia (evidence level L3). Approved use: Premature ejaculation"
 ---
 
 # Prilocaine

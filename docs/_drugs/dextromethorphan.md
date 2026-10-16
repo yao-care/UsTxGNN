@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "DEXTROMETHORPHAN"
 predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "faucial diphtheria", "trigeminal autonomic cephalalgia", "cervical disc degenerative disorder", "allergic urticaria"]
+last_modified_at: 2026-10-14
+description: "Dextromethorphan: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold…"
 ---
 
 # Dextromethorphan

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Flortaucipir F-18"
 predicted_indications: ["anaphylaxis", "food-dependent exercise-induced anaphylaxis", "hairy cell leukemia", "hairy cell leukemia variant", "hereditary neurocutaneous angioma", "placental hemangioma", "pseudoallergy", "skin disease", "primary bone lymphoma", "early T cell progenitor acute lymphoblastic leukemia"]
+last_modified_at: 2026-10-14
+description: "Flortaucipir F-18: predicted new indication Anaphylaxis (evidence level L5). Approved use: Not listed in the available US license data (known use: tau PET imagi…"
 ---
 
 # Flortaucipir F-18

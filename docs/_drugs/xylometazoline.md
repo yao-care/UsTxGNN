@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 2
 monitor_inn: "XYLOMETAZOLINE"
 predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis"]
+last_modified_at: 2026-10-14
+description: "Xylometazoline: predicted new indication Nasal cavity disease (evidence level L3). Approved use: Pharyngitis, common cold"
 ---
 
 # Xylometazoline

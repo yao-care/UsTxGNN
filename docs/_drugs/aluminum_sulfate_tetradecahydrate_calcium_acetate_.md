@@ -7,6 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
+last_modified_at: 2026-09-17
 ---
 
 # Aluminum Sulfate Tetradecahydrate Calcium Acetate 

@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "CEFPROZIL"
 predicted_indications: ["urinary tract infection (disease)", "epiglottitis", "gonococcal urethritis", "Ureaplasma urethritis", "xanthogranulomatous pyelonephritis", "uterine inflammatory disease", "pneumonia", "laryngitis", "urogenital tuberculosis", "abdominal tuberculosis"]
+last_modified_at: 2026-10-14
+description: "Cefprozil: predicted new indication Urinary tract infection (evidence level L2). Approved use: Bronchitis, tonsillitis, infectious otitis media…"
 ---
 
 # Cefprozil

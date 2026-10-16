@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "FEXOFENADINE"
 predicted_indications: ["rosacea conjunctivitis"]
+last_modified_at: 2026-10-14
+description: "Fexofenadine: predicted new indication Rosacea conjunctivitis (evidence level L5). Approved use: Allergic rhinitis (also vasomotor rhinitis, atopic…"
 ---
 
 # Fexofenadine

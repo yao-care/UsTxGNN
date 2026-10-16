@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "OXAPROZIN"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "spondyloarthropathy, susceptibility to", "pseudoachondroplasia", "rheumatoid nodulosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "brachydactyly-syndactyly syndrome"]
+last_modified_at: 2026-10-14
+description: "Oxaprozin: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). Approved use: Rheumatoid arthritis, osteoarthritis, juvenile idiopathic arthritis…"
 ---
 
 # Oxaprozin

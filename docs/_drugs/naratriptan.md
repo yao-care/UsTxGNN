@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 3
 monitor_inn: "NARATRIPTAN"
 predicted_indications: ["migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
+last_modified_at: 2026-10-14
+description: "Naratriptan: predicted new indication Migraine with brainstem aura (evidence level L3). Approved use: Migraine disorder (migraine with or without aura)"
 ---
 
 # Naratriptan

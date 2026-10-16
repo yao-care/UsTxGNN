@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 6
 monitor_inn: "ECALLANTIDE"
 predicted_indications: ["C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "Peyronie disease", "pancreatitis", "esophageal varices without bleeding", "esophageal varices with bleeding"]
+last_modified_at: 2026-10-14
+description: "Ecallantide: predicted new indication C1 inhibitor deficiency (evidence level L1). Approved use: Hereditary angioedema"
 ---
 
 # Ecallantide

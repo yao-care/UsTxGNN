@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "BREMELANOTIDE"
 predicted_indications: ["acne (disease)", "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "exocrine pancreatic insufficiency", "cauda equina syndrome", "pituitary dwarfism", "zinc, elevated plasma", "retinopathy of prematurity", "esotropia", "Beare-Stevenson cutis gyrata syndrome", "combined small cell lung carcinoma"]
+last_modified_at: 2026-10-14
+description: "Bremelanotide: predicted new indication Acne (evidence level L5). Approved use: Hypoactive sexual desire disorder (HSDD)"
 ---
 
 # Bremelanotide

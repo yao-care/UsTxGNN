@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "TAMOXIFEN"
 predicted_indications: ["mammary Paget disease", "intraductal cribriform breast adenocarcinoma", "basal-like breast carcinoma", "breast carcinoma in situ", "sebaceous breast carcinoma", "invasive tubular breast carcinoma", "estrogen-receptor positive breast cancer", "hormone-resistant breast carcinoma", "Ehrlich tumor carcinoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
+last_modified_at: 2026-10-14
+description: "Tamoxifen: predicted new indication Breast carcinoma in situ (evidence level L1). Approved use: Female breast carcinoma"
 ---
 
 # Tamoxifen

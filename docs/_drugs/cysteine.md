@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "CYSTEINE"
 predicted_indications: ["dry eye syndrome", "closed-angle glaucoma", "nasal cavity disease", "acute laryngopharyngitis", "pharyngitis", "exercise-induced malignant hyperthermia", "angle-closure glaucoma"]
+last_modified_at: 2026-10-14
+description: "Cysteine: predicted new indication Dry eye syndrome (evidence level L5). Approved use: Bronchitis, paracetamol poisoning, cystic fibrosis, bronchiectasis…"
 ---
 
 # Cysteine

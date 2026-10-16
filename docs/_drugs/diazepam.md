@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "DIAZEPAM"
 predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "sleep disorder, initiating and maintaining sleep", "attention deficit hyperactivity disorder, inattentive type", "antidepressant type abuse", "hallucinogen abuse", "barbiturate abuse", "specific developmental disorder", "attention deficit-hyperactivity disorder", "obsolete neurogenic bladder (disease)"]
+last_modified_at: 2026-10-14
+description: "Diazepam: predicted new indication Insomnia (evidence level L4). Approved use: Epilepsy, status epilepticus, alcohol withdrawal (including delirium)…"
 ---
 
 # Diazepam

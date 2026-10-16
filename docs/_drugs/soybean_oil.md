@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "SOYBEAN OIL"
 predicted_indications: ["amenorrhea (disease)"]
+last_modified_at: 2026-10-14
+description: "Soybean Oil: predicted new indication Amenorrhea (evidence level L5). Approved use: Not listed in the available data"
 ---
 
 # Soybean Oil

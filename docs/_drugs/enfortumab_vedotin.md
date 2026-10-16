@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "ENFORTUMAB VEDOTIN"
 predicted_indications: ["leprosy", "multiple endocrine neoplasia", "cytomegalovirus infection", "candidiasis", "cerebral infarction", "HIV infectious disease", "homozygous familial hypercholesterolemia", "malignant catarrh", "infectious bovine rhinotracheitis"]
+last_modified_at: 2026-10-14
+description: "Enfortumab Vedotin: predicted new indication Leprosy (evidence level L5). Approved use: Urothelial carcinoma"
 ---
 
 # Enfortumab Vedotin

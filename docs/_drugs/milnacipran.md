@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 10
 monitor_inn: "MILNACIPRAN"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "tendinitis", "papillary conjunctivitis", "idiopathic granulomatous myositis", "myositis fibrosa", "inclusion body myositis", "atrophoderma vermiculata", "migraine with or without aura, susceptibility to", "cauda equina syndrome"]
+last_modified_at: 2026-10-14
+description: "Milnacipran: predicted new indication Migraine disorder (evidence level L3). Approved use: Fibromyalgia"
 ---
 
 # Milnacipran

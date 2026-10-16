@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ADENINE"
 predicted_indications: ["drug-induced osteoporosis"]
+last_modified_at: 2026-10-14
+description: "Adenine: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Not available"
 ---
 
 # Adenine

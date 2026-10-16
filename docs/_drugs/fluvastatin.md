@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "FLUVASTATIN"
 predicted_indications: ["hyperlipoproteinemia", "homozygous familial hypercholesterolemia", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "familial hypercholesterolemia", "HIV infectious disease", "cholesterol-ester transfer protein deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "fibroma of prostate"]
+last_modified_at: 2026-10-14
+description: "Fluvastatin: predicted new indication Hyperlipoproteinemia (evidence level L5). Approved use: Atherosclerosis, arteriosclerosis disorder…"
 ---
 
 # Fluvastatin

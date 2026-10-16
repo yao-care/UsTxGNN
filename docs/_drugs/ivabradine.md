@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "IVABRADINE"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "nephrogenic syndrome of inappropriate antidiuresis"]
+last_modified_at: 2026-10-14
+description: "Ivabradine: predicted new indication Hypertrichosis (disease) (evidence level L5). Approved use: Not available in the data compiled for this report"
 ---
 
 # Ivabradine

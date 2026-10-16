@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 5
 monitor_inn: "TRIPELENNAMINE"
 predicted_indications: ["allergic urticaria", "cold urticaria", "nasal cavity disease", "acute laryngopharyngitis", "recalcitrant atopic dermatitis"]
+last_modified_at: 2026-10-14
+description: "Tripelennamine: predicted new indication Allergic urticaria (evidence level L4). Approved use: Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold…"
 ---
 
 # Tripelennamine

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "SEBELIPASE ALFA"
 predicted_indications: ["Scheie syndrome", "Hurler syndrome", "growth hormone insensitivity syndrome with immune dysregulation 2, autosomal dominant", "cholesteryl ester storage disease", "Wolman disease with hypolipoproteinemia and acanthocytosis", "Gaucher disease", "lysosomal storage disease with skeletal involvement", "autosomal ichthyosis syndrome with fatal disease course", "Tay-Sachs disease", "benign neoplasm of adrenal gland"]
+last_modified_at: 2026-10-14
+description: "Sebelipase Alfa: predicted new indication Scheie syndrome (evidence level L5). Approved use: Wolman disease, lysosomal acid lipase deficiency…"
 ---
 
 # Sebelipase Alfa

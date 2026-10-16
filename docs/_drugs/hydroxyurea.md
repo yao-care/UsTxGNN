@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "HYDROXYUREA"
 predicted_indications: ["female breast carcinoma", "sickle cell-hemoglobin E disease syndrome", "sickle cell-beta-thalassemia disease syndrome", "sickle cell-hemoglobin d disease syndrome", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome", "sickle cell-hemoglobin c disease syndrome", "cervical adenosarcoma", "colon mucinous adenocarcinoma", "rectum mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma"]
+last_modified_at: 2026-10-14
+description: "Hydroxyurea: predicted new indication Female breast carcinoma (evidence level L5). Approved use: Melanoma, sickle cell anemia, ovarian cancer"
 ---
 
 # Hydroxyurea

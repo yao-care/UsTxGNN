@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "SONIDEGIB"
 predicted_indications: ["medulloblastoma with extensive nodularity", "xeroderma pigmentosum", "annular epidermolytic ichthyosis", "epidermolysis bullosa simplex with mottled pigmentation", "trichothiodystrophy photosensitive", "skin cancer", "cutaneous adenocystic carcinoma", "benign neoplasm of sweat gland", "eccrine carcinoma", "obsolete cataract, microcephaly, failure to thrive, kyphoscoliosis syndrome"]
+last_modified_at: 2026-10-14
+description: "Sonidegib: predicted new indication Medulloblastoma with extensive nodularity (evidence level L5). Approved use: Basal cell carcinoma (skin carcinoma)"
 ---
 
 # Sonidegib

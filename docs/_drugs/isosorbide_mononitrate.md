@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ISOSORBIDE MONONITRATE"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "alopecia", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "pulmonary arterial hypertension"]
+last_modified_at: 2026-10-14
+description: "Isosorbide Mononitrate: predicted new indication Hypertrichosis (disease) (evidence level L5). Approved use: Not stated in the compiled data (the drug is known as a nitrate vasod…"
 ---
 
 # Isosorbide Mononitrate

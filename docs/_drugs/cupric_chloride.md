@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "CUPRIC CHLORIDE"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "thrombocytopenia due to immune destruction"]
+last_modified_at: 2026-10-14
+description: "Cupric Chloride: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Not listed in the data compiled for this report"
 ---
 
 # Cupric Chloride

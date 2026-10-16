@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "CENTELLA ASIATICA"
 predicted_indications: ["insomnia (disease)", "anxiety", "sleep disorder, initiating and maintaining sleep"]
+last_modified_at: 2026-10-14
+description: "Centella Asiatica: predicted new indication Insomnia (evidence level L5). Approved use: Not specified (no approved indication text on any of the listed produ…"
 ---
 
 # Centella Asiatica

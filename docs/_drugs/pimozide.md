@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 10
 monitor_inn: "PIMOZIDE"
 predicted_indications: ["trichotillomania", "manic bipolar affective disorder", "insomnia (disease)", "major affective disorder", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "Malan overgrowth syndrome", "attention deficit hyperactivity disorder, inattentive type", "agoraphobia", "benign paroxysmal torticollis of infancy"]
+last_modified_at: 2026-10-14
+description: "Pimozide: predicted new indication Trichotillomania (evidence level L3). Approved use: Tourette syndrome"
 ---
 
 # Pimozide

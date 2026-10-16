@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "PRETOMANID"
 predicted_indications: ["candidiasis", "leprosy", "coronary artery disease", "myocardial ischemia", "anomalous left coronary artery from the pulmonary artery"]
+last_modified_at: 2026-10-14
+description: "Pretomanid: predicted new indication Candidiasis (evidence level L5). Approved use: Not available in the license record (known use: drug-resistant pulmon…"
 ---
 
 # Pretomanid

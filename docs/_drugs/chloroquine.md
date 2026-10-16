@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "CHLOROQUINE"
 predicted_indications: ["rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "rheumatoid nodulosis", "juvenile chronic polyarthritis", "juvenile idiopathic arthritis"]
+last_modified_at: 2026-10-14
+description: "Chloroquine: predicted new indication Rheumatoid factor-positive polyarticular juvenile idiopathic arthritis (evidence level L5). Approved use: Rheumatoid arthritis, systemic lupus erythematosus, mal…"
 ---
 
 # Chloroquine

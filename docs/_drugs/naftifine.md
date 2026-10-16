@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 8
 monitor_inn: "NAFTIFINE"
 predicted_indications: ["cutaneous candidiasis", "ectothrix infectious disease", "Majocchi granuloma", "pityriasis versicolor", "endothrix infectious disease", "dermatophytosis of scalp or beard", "superficial mycosis", "tinea profunda"]
+last_modified_at: 2026-10-14
+description: "Naftifine: predicted new indication Cutaneous candidiasis (evidence level L3). Approved use: Tinea pedis, tinea corporis, tinea infection…"
 ---
 
 # Naftifine

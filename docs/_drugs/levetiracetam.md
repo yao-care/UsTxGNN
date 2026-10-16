@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "LEVETIRACETAM"
 predicted_indications: ["visual epilepsy", "orgasm-induced seizures", "startle epilepsy", "micturation-induced seizures", "audiogenic seizures", "eating seizures", "thinking seizures", "reading seizures", "status epilepticus", "beta-ketothiolase deficiency"]
+last_modified_at: 2026-10-14
+description: "Levetiracetam: predicted new indication Visual epilepsy (evidence level L4). Approved use: Partial epilepsy"
 ---
 
 # Levetiracetam

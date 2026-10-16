@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 8
 monitor_inn: "PROPAFENONE"
 predicted_indications: ["manic bipolar affective disorder", "catecholaminergic polymorphic ventricular tachycardia", "periodic paralysis with transient compartment-like syndrome", "Prinzmetal angina", "incessant infant ventricular tachycardia", "arrhythmogenic right ventricular cardiomyopathy", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania"]
+last_modified_at: 2026-10-14
+description: "Propafenone: predicted new indication Catecholaminergic polymorphic ventricular tachycardia (evidence level L3). Approved use: Atrial fibrillation"
 ---
 
 # Propafenone

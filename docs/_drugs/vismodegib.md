@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "VISMODEGIB"
 predicted_indications: ["medulloblastoma with extensive nodularity", "xeroderma pigmentosum", "annular epidermolytic ichthyosis", "epidermolysis bullosa simplex with mottled pigmentation", "prostate cancer/brain cancer susceptibility", "Brenner tumor", "cutaneous adenocystic carcinoma", "prostate leiomyoma", "skin cancer", "benign neoplasm of sweat gland"]
+last_modified_at: 2026-10-14
+description: "Vismodegib: predicted new indication Medulloblastoma with extensive nodularity (evidence level L5). Approved use: Basal cell carcinoma and skin carcinoma"
 ---
 
 # Vismodegib

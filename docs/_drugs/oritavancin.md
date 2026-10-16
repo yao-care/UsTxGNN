@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "ORITAVANCIN"
 predicted_indications: ["Bacteroidaceae infectious disease", "ophthalmic herpes zoster", "Mycoplasma pneumoniae pneumonia"]
+last_modified_at: 2026-10-14
+description: "Oritavancin: predicted new indication Bacteroidaceae infectious disease (evidence level L5). Approved use: Skin disease caused by infection"
 ---
 
 # Oritavancin

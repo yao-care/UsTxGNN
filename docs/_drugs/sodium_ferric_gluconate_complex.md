@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "SODIUM FERRIC GLUCONATE COMPLEX"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "anaphylaxis", "bronchitis", "food-dependent exercise-induced anaphylaxis", "diabetic cataract"]
+last_modified_at: 2026-10-14
+description: "Sodium Ferric Gluconate Complex: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Iron deficiency anemia in chronic kidney disease"
 ---
 
 # Sodium Ferric Gluconate Complex

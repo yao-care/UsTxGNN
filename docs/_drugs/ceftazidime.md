@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "CEFTAZIDIME"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "urinary tract infection (disease)", "epiglottitis", "Ureaplasma urethritis", "gonococcal urethritis", "blood group incompatibility", "infectious otitis media", "Peptostreptococcus infectious disease"]
+last_modified_at: 2026-10-14
+description: "Ceftazidime: predicted new indication Urinary tract infection (disease) (evidence level L2). Approved use: Bacterial infections"
 ---
 
 # Ceftazidime

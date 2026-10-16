@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "CAMPHOR"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "erectile dysfunction (disease)", "pulmonary hypertension", "migraine with or without aura, susceptibility to", "kyphoscoliotic heart disease", "ulerythema ophryogenesis", "Raynaud disease", "atrophoderma vermiculata", "Tourette syndrome"]
+last_modified_at: 2026-10-14
+description: "Camphor: predicted new indication Migraine disorder (evidence level L5). Approved use: Not specified in the available regulatory data"
 ---
 
 # Camphor

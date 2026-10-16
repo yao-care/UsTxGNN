@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "DROPERIDOL"
 predicted_indications: ["Tourette syndrome", "trichotillomania", "manic bipolar affective disorder", "attention deficit hyperactivity disorder, inattentive type", "nephrogenic syndrome of inappropriate antidiuresis", "attention deficit-hyperactivity disorder", "headache disorder", "common cold", "hypertrichosis (disease)", "specific developmental disorder"]
+last_modified_at: 2026-10-14
+description: "Droperidol: predicted new indication Tourette syndrome (evidence level L5). Approved use: Not listed in the license data compiled for this report"
 ---
 
 # Droperidol

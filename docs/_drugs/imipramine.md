@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 7
 monitor_inn: "IMIPRAMINE"
 predicted_indications: ["attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "benign paroxysmal torticollis of infancy", "obsessive-compulsive disorder"]
+last_modified_at: 2026-10-14
+description: "Imipramine: predicted new indication Attention deficit-hyperactivity disorder (evidence level L3). Approved use: Anxiety disorder, neurotic disorder, dysthymic disorder…"
 ---
 
 # Imipramine

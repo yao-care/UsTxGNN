@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "RIFAPENTINE"
 predicted_indications: ["leprosy", "female breast carcinoma", "Prinzmetal angina", "HIV infectious disease", "neuroretinitis", "vestibular neuronitis", "motor nerve neuritis", "brachial plexus neuritis", "dermatofibrosarcoma protuberans", "rheumatoid arthritis"]
+last_modified_at: 2026-10-14
+description: "Rifapentine: predicted new indication Leprosy (evidence level L5). Approved use: Pulmonary tuberculosis"
 ---
 
 # Rifapentine

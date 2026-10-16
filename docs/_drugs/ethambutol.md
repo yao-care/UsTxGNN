@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 5
 monitor_inn: "ETHAMBUTOL"
 predicted_indications: ["epiglottitis", "laryngitis", "meningococcal infection", "peritonitis", "infectious otitis media"]
+last_modified_at: 2026-10-14
+description: "Ethambutol: predicted new indication Epiglottitis (evidence level L4). Approved use: Pulmonary tuberculosis"
 ---
 
 # Ethambutol

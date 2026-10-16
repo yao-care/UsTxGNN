@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ACYCLOVIR"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "common wart", "post-infectious neuralgia", "hepatitis C induced liver cirrhosis", "eosinophilic pustular folliculitis", "sequela of COVID-19", "vulvovaginal candidiasis", "papular urticaria", "disease of orbital region", "epidemic keratoconjunctivitis"]
+last_modified_at: 2026-10-14
+description: "Acyclovir: predicted new indication Common wart (evidence level L5). Approved use: Herpes simplex infection, herpes zoster, chickenpox, herpes labialis…"
 ---
 
 # Acyclovir

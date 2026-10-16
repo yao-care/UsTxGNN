@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "ADENOSINE"
 predicted_indications: ["obsolete bundle branch block", "catecholaminergic polymorphic ventricular tachycardia"]
+last_modified_at: 2026-10-14
+description: "Adenosine: predicted new indication Catecholaminergic polymorphic ventricular tachycardia . The rank 1 pr… (evidence level L5). Approved use: Ventricular tachycardia"
 ---
 
 # Adenosine

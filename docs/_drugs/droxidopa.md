@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "DROXIDOPA"
 predicted_indications: ["variably protease-sensitive prionopathy"]
+last_modified_at: 2026-10-14
+description: "Droxidopa: predicted new indication Variably protease-sensitive prionopathy (evidence level L5). Approved use: Parkinson disease, multiple system atrophy…"
 ---
 
 # Droxidopa

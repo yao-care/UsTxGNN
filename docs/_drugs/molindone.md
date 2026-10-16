@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "MOLINDONE"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "hydranencephaly (disease)", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia X-linked", "syndromic myopia", "atypical glycine encephalopathy", "manic bipolar affective disorder"]
+last_modified_at: 2026-10-14
+description: "Molindone: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Schizophrenia"
 ---
 
 # Molindone

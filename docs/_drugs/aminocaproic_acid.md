@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "AMINOCAPROIC ACID"
 predicted_indications: ["severe nonproliferative diabetic retinopathy"]
+last_modified_at: 2026-10-14
+description: "Aminocaproic Acid: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Not stated in the compiled license data"
 ---
 
 # Aminocaproic Acid

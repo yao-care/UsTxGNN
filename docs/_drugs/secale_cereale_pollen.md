@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "SECALE CEREALE POLLEN"
 predicted_indications: ["alopecia"]
+last_modified_at: 2026-10-14
+description: "Secale Cereale Pollen: predicted new indication Alopecia (evidence level L5). Approved use: Not recorded in the available data"
 ---
 
 # Secale Cereale Pollen

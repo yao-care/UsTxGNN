@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 5
 monitor_inn: "BENRALIZUMAB"
 predicted_indications: ["thrombocytopenia due to immune destruction", "dermatitis", "acne keloid", "neonatal dermatomyositis", "amyopathic dermatomyositis"]
+last_modified_at: 2026-10-14
+description: "Benralizumab: predicted new indication Dermatitis (evidence level L2). Approved use: Eosinophilic pneumonia"
 ---
 
 # Benralizumab

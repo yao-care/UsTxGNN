@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "CAPMATINIB"
 predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndrome"]
+last_modified_at: 2026-10-14
+description: "Capmatinib: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: Not available in the data compiled for this report"
 ---
 
 # Capmatinib

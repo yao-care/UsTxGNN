@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "DEXLANSOPRAZOLE"
 predicted_indications: ["active peptic ulcer disease", "gastrojejunal ulcer", "peptic ulcer perforation", "gastric ulcer (disease)", "gastroduodenitis", "duodenal obstruction", "duodenogastric reflux", "duodenal ulcer (disease)", "achlorhydria", "leather-bottle stomach"]
+last_modified_at: 2026-10-14
+description: "Dexlansoprazole: predicted new indication Active peptic ulcer disease (evidence level L1). Approved use: Peptic ulcer disease"
 ---
 
 # Dexlansoprazole

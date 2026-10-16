@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 5
 monitor_inn: "PROTRIPTYLINE"
 predicted_indications: ["attention deficit hyperactivity disorder, inattentive type", "specific developmental disorder", "attention deficit-hyperactivity disorder", "chondromyxoid fibroma", "faciodigitogenital syndrome"]
+last_modified_at: 2026-10-14
+description: "Protriptyline: predicted new indication Attention deficit-hyperactivity disorder (evidence level L3). Approved use: Anxiety disorder, neurotic disorder, dysthymic disorder"
 ---
 
 # Protriptyline

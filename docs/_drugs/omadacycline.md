@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 10
 monitor_inn: "OMADACYCLINE"
 predicted_indications: ["Mycoplasma pneumoniae pneumonia", "drug-induced osteoporosis", "orbital cellulitis", "post-infectious syndrome", "postinfectious vasculitis", "post-bacterial disorder", "ophthalmic herpes zoster", "otitis externa", "infective urethral stricture", "infection-related hemolytic uremic syndrome"]
+last_modified_at: 2026-10-14
+description: "Omadacycline: predicted new indication Mycoplasma pneumoniae pneumonia (evidence level L3). Approved use: Bacterial pneumonia"
 ---
 
 # Omadacycline

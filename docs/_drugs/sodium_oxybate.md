@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 6
 monitor_inn: "SODIUM OXYBATE"
 predicted_indications: ["insomnia (disease)", "obsolete neurogenic bladder (disease)", "sleep disorder, initiating and maintaining sleep", "cauda equina syndrome", "Wernicke-Korsakoff syndrome", "restless legs syndrome"]
+last_modified_at: 2026-10-14
+description: "Sodium Oxybate: predicted new indication Insomnia (evidence level L2). Approved use: Narcolepsy and narcolepsy-cataplexy syndrome"
 ---
 
 # Sodium Oxybate

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "PEXIDARTINIB"
 predicted_indications: ["HER2 positive breast carcinoma", "progesterone-receptor positive breast cancer", "normal breast-like subtype of breast carcinoma", "progesterone-receptor negative breast cancer", "breast tumor luminal A or B", "synovium cancer", "synovium disease", "dermatofibrosarcoma protuberans", "multifocal choroiditis", "malignant giant cell tumor"]
+last_modified_at: 2026-10-14
+description: "Pexidartinib: predicted new indication HER2 positive breast carcinoma (evidence level L5). Approved use: Tenosynovial giant cell tumor (including the localized type and pigme…"
 ---
 
 # Pexidartinib

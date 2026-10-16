@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "MEROPENEM"
 predicted_indications: ["bacterial arthritis", "epiglottitis", "staphylococcus aureus infection", "laryngitis", "paratyphoid fever", "urinary tract infection (disease)", "Lyme disease", "Peptostreptococcus infectious disease", "Ureaplasma urethritis", "gonococcal urethritis"]
+last_modified_at: 2026-10-14
+description: "Meropenem: predicted new indication Bacterial arthritis (evidence level L5). Approved use: Bacterial meningitis, peritonitis…"
 ---
 
 # Meropenem

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "ESTRONE"
 predicted_indications: ["zinc, elevated plasma", "pyogenic arthritis-pyoderma gangrenosum-acne syndrome"]
+last_modified_at: 2026-10-14
+description: "Estrone: predicted new indication Zinc, elevated plasma (evidence level L5). Approved use: Acne"
 ---
 
 # Estrone

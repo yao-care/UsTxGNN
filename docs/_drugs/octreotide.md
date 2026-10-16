@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "OCTREOTIDE"
 predicted_indications: ["vulvar inverted follicular keratosis", "seborrheic keratosis"]
+last_modified_at: 2026-10-14
+description: "Octreotide: predicted new indication Vulvar inverted follicular keratosis (a second prediction… (evidence level L5). Approved use: Acromegaly (also hyperpituitarism and carcinoid syndrome)"
 ---
 
 # Octreotide

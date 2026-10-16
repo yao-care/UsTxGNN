@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 1
 monitor_inn: "TRABECTEDIN"
 predicted_indications: ["female breast carcinoma"]
+last_modified_at: 2026-10-14
+description: "Trabectedin: predicted new indication Female breast carcinoma (evidence level L2). Approved use: Ovarian cancer"
 ---
 
 # Trabectedin

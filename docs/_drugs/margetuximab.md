@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "MARGETUXIMAB"
 predicted_indications: ["drug-induced osteoporosis", "HER2 positive breast carcinoma"]
+last_modified_at: 2026-10-14
+description: "Margetuximab: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Not stated in the license data compiled for this report (literature i…"
 ---
 
 # Margetuximab

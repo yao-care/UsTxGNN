@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "AMMONIA"
 predicted_indications: ["acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "acne keloid", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis", "hydroa vacciniforme, familial"]
+last_modified_at: 2026-10-14
+description: "Ammonia: predicted new indication Acrodermatitis chronica atrophicans (evidence level L5). Approved use: Psoriasis, parapsoriasis, acne, seborrheic dermatitis…"
 ---
 
 # Ammonia

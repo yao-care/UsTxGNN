@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "SACROSIDASE"
 predicted_indications: ["cystinosis", "familial apolipoprotein C-II deficiency"]
+last_modified_at: 2026-10-14
+description: "Sacrosidase: predicted new indication Cystinosis (evidence level L5). Approved use: Congenital sucrase-isomaltase deficiency"
 ---
 
 # Sacrosidase

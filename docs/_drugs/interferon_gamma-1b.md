@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "INTERFERON GAMMA-1B"
 predicted_indications: ["heart disease", "Jeune syndrome situs inversus", "orofacial clefting syndrome", "Pierre Robin syndrome associated with a chromosomal anomaly", "disorder of fucoglycosan synthesis", "genetic syndromic Pierre Robin syndrome", "partial deletion of the long arm of chromosome 7", "Laubry-Pezzi syndrome", "partial deletion of the long arm of chromosome 22", "interventricular septum aneurysm"]
+last_modified_at: 2026-10-14
+description: "Interferon Gamma-1B: predicted new indication Heart disease (evidence level L4). Approved use: Not available in the compiled data"
 ---
 
 # Interferon Gamma-1B

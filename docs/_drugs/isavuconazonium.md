@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "ISAVUCONAZONIUM"
 predicted_indications: ["pneumocystosis", "mycetoma"]
+last_modified_at: 2026-10-14
+description: "Isavuconazonium: predicted new indication Pneumocystosis (evidence level L5). Approved use: Aspergillosis, white piedra, black piedra, coccidioidomycosis…"
 ---
 
 # Isavuconazonium

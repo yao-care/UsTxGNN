@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 3
 monitor_inn: "POLYMYXIN B"
 predicted_indications: ["bronchitis", "laryngotracheitis", "conjunctivitis"]
+last_modified_at: 2026-10-14
+description: "Polymyxin B: predicted new indication Bronchitis (evidence level L4). Approved use: Not available in the data compiled for this report"
 ---
 
 # Polymyxin B

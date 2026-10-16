@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 2
 monitor_inn: "NEFAZODONE"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
+last_modified_at: 2026-10-14
+description: "Nefazodone: predicted new indication Migraine disorder (evidence level L4). Approved use: Unipolar depression, endogenous depression, major depressive disorder…"
 ---
 
 # Nefazodone

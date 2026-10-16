@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "BENZYL ALCOHOL"
 predicted_indications: ["bronchitis"]
+last_modified_at: 2026-10-14
+description: "Benzyl Alcohol: predicted new indication Bronchitis (evidence level L5). Approved use: Dermatitis"
 ---
 
 # Benzyl Alcohol

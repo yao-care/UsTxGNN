@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 2
 monitor_inn: "ANAGRELIDE"
 predicted_indications: ["reactive thrombocytosis", "inverse Klippel-Trenaunay syndrome"]
+last_modified_at: 2026-10-14
+description: "Anagrelide: predicted new indication Reactive thrombocytosis (evidence level L4). Approved use: Thrombocythemia"
 ---
 
 # Anagrelide

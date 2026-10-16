@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 1
 monitor_inn: "MICAFUNGIN"
 predicted_indications: ["urinary tract infection (disease)"]
+last_modified_at: 2026-10-14
+description: "Micafungin: predicted new indication Urinary tract infection (evidence level L3). Approved use: Esophageal candidiasis, candidemia, disseminated candidiasis"
 ---
 
 # Micafungin

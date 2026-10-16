@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "PRASUGREL"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura", "kyphoscoliotic heart disease", "rheumatoid arthritis", "homozygous familial hypercholesterolemia", "hypoalphalipoproteinemia", "migraine with or without aura, susceptibility to", "brachydactyly-syndactyly syndrome", "leprosy"]
+last_modified_at: 2026-10-14
+description: "Prasugrel: predicted new indication Migraine disorder (evidence level L5). Approved use: Acute coronary syndrome"
 ---
 
 # Prasugrel

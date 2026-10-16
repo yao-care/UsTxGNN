@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "FLUCYTOSINE"
 predicted_indications: ["bone Paget disease"]
+last_modified_at: 2026-10-14
+description: "Flucytosine: predicted new indication Bone Paget disease (evidence level L5). Approved use: Not listed in the compiled US license data"
 ---
 
 # Flucytosine

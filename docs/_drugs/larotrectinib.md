@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 2
 monitor_inn: "LAROTRECTINIB"
 predicted_indications: ["multiple endocrine neoplasia", "HER2 positive breast carcinoma"]
+last_modified_at: 2026-10-14
+description: "Larotrectinib: predicted new indication Multiple endocrine neoplasia (evidence level L3). Approved use: Not available in the compiled data"
 ---
 
 # Larotrectinib

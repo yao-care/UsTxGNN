@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ZILEUTON"
 predicted_indications: ["bronchitis", "obstructive lung disease", "asthma", "asthma-related traits, susceptibility to", "atopic eczema", "bronchial neoplasm (disease)", "Laubry-Pezzi syndrome", "heart disease", "interventricular septum aneurysm", "genetic syndromic Pierre Robin syndrome"]
+last_modified_at: 2026-10-14
+description: "Zileuton: predicted new indication Bronchitis (evidence level L5). Approved use: Intrinsic asthma, allergic asthma"
 ---
 
 # Zileuton

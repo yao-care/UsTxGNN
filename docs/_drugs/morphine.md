@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 10
 monitor_inn: "MORPHINE"
 predicted_indications: ["myofascial pain syndrome", "manic bipolar affective disorder", "Tourette syndrome", "restless legs syndrome", "attention deficit hyperactivity disorder, inattentive type", "migraine disorder", "trichotillomania", "methemoglobinemia", "migraine with brainstem aura", "specific developmental disorder"]
+last_modified_at: 2026-10-14
+description: "Morphine: predicted new indication Restless legs syndrome (evidence level L3). Approved use: Diarrheal disease"
 ---
 
 # Morphine

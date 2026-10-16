@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "FORMALDEHYDE"
 predicted_indications: ["leishmaniasis, diffuse cutaneous", "cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency", "mucocutaneous leishmaniasis", "pyelonephritis", "streptococcal pneumonia", "X-linked lymphoproliferative syndrome", "trigonitis", "acquired hemophagocytic lymphohistiocytosis associated with malignant disease", "hemophagocytic syndrome associated with an infection", "Plasmodium falciparum malaria"]
+last_modified_at: 2026-10-14
+description: "Formaldehyde: predicted new indication Leishmaniasis, diffuse cutaneous (evidence level L5). Approved use: Influenza"
 ---
 
 # Formaldehyde

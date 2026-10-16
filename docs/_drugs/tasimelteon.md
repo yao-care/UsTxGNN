@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "TASIMELTEON"
 predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria", "insomnia (disease)", "amyotrophic lateral sclerosis", "endogenous depression", "axial spondylometaphyseal dysplasia", "monomelic amyotrophy", "amyotrophic lateral sclerosis, susceptibility to", "lower motor neuron syndrome with late-adult onset", "Mills syndrome", "amyotrohpic lateral sclerosis type 22"]
+last_modified_at: 2026-10-14
+description: "Tasimelteon: predicted new indication Bilateral parasagittal parieto-occipital polymicrogyria (evidence level L5). Approved use: Non-24-hour sleep-wake syndrome"
 ---
 
 # Tasimelteon

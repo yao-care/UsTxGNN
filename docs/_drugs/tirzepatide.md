@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "Tirzepatide"
 predicted_indications: ["gout", "osteoarthritis", "pseudoachondroplasia", "osteoarthritis susceptibility", "benign prostatic hyperplasia (disease)", "rheumatoid arthritis", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis"]
+last_modified_at: 2026-10-14
+description: "Tirzepatide: predicted new indication Osteoarthritis (knee osteoarthritis in patients with obesity is the t… (evidence level L2). Approved use: Type 2 diabetes (glycaemic control) and weight manageme…"
 ---
 
 # Tirzepatide

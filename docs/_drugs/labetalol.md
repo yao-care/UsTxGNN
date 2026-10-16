@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 4
 monitor_inn: "LABETALOL"
 predicted_indications: ["malignant renovascular hypertension", "malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
+last_modified_at: 2026-10-14
+description: "Labetalol: predicted new indication Malignant renovascular hypertension (evidence level L4). Approved use: Hypertensive disorder / hypertension"
 ---
 
 # Labetalol

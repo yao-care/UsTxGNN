@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "RACEPINEPHRINE"
 predicted_indications: ["primary hereditary glaucoma", "hypotrichosis simplex of the scalp", "open-angle glaucoma", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "headache disorder"]
+last_modified_at: 2026-10-14
+description: "Racepinephrine: predicted new indication Primary hereditary glaucoma (evidence level L5). Approved use: Not available"
 ---
 
 # Racepinephrine

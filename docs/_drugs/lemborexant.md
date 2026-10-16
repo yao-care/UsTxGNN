@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 1
 monitor_inn: "LEMBOREXANT"
 predicted_indications: ["sleep disorder, initiating and maintaining sleep"]
+last_modified_at: 2026-10-14
+description: "Lemborexant: predicted new indication Sleep disorder, initiating and maintaining sleep (evidence level L1). Approved use: Insomnia"
 ---
 
 # Lemborexant

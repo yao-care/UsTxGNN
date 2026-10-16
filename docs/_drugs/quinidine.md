@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "QUINIDINE"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
+last_modified_at: 2026-10-14
+description: "Quinidine: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Atrial fibrillation"
 ---
 
 # Quinidine

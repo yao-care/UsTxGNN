@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "BRIVARACETAM"
 predicted_indications: ["visual epilepsy", "status epilepticus", "audiogenic seizures", "micturation-induced seizures", "thinking seizures", "eating seizures", "startle epilepsy", "orgasm-induced seizures", "beta-ketothiolase deficiency", "adolescent/adult onset autosomal dominant epilepsy with auditory features"]
+last_modified_at: 2026-10-14
+description: "Brivaracetam: predicted new indication Status epilepticus (evidence level L5). Approved use: Partial epilepsy / partial motor epilepsy"
 ---
 
 # Brivaracetam

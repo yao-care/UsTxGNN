@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "SILICON DIOXIDE"
 predicted_indications: ["active peptic ulcer disease", "peptic ulcer perforation", "gastrojejunal ulcer", "gastric ulcer (disease)"]
+last_modified_at: 2026-10-14
+description: "Silicon Dioxide: predicted new indication Active peptic ulcer disease (evidence level L5). Approved use: Peptic ulcer disease, GERD, esophagitis, dyspepsia"
 ---
 
 # Silicon Dioxide

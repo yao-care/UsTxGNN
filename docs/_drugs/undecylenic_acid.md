@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "UNDECYLENIC ACID"
 predicted_indications: ["dermatophytosis of groin and perianal area", "Majocchi granuloma", "ectothrix infectious disease", "endothrix infectious disease", "dermatophytosis of scalp or beard", "pityriasis versicolor", "superficial mycosis"]
+last_modified_at: 2026-10-14
+description: "Undecylenic Acid: predicted new indication Dermatophytosis of the groin and perianal area (evidence level L5). Approved use: Tinea pedis, tinea corporis, tinea infection"
 ---
 
 # Undecylenic Acid

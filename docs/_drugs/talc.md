@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "TALC"
 predicted_indications: ["thrombotic disease", "exostosis", "rheumatoid arthritis", "bronchitis", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "vein disease", "fibromyalgia", "myositis fibrosa"]
+last_modified_at: 2026-10-14
+description: "Talc: predicted new indication Thrombotic disease (evidence level L5). Approved use: Not available"
 ---
 
 # Talc

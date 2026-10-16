@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "CORTISONE"
 predicted_indications: ["primary cutaneous T-cell lymphoma", "adrenocortical insufficiency", "myelodysplastic syndrome", "lymphosarcoma", "candidiasis", "Crohn's colitis", "refractory cytopenia of childhood", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5"]
+last_modified_at: 2026-10-14
+description: "Cortisone: predicted new indication Primary cutaneous T-cell lymphoma (evidence level L5). Approved use: Not available in the compiled data"
 ---
 
 # Cortisone

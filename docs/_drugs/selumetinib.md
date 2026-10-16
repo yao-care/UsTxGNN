@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 10
 monitor_inn: "SELUMETINIB"
 predicted_indications: ["familial generalized lentiginosis", "gastrocutaneous syndrome", "rhabdoid tumor", "acromelanosis", "congenital multiple café-au-lait macules-increased sister chromatid exchange syndrome", "Moynahan syndrome", "leukonychia totalis-acanthosis-nigricans-like lesions-abnormal hair syndrome", "osteopathia striata-pigmentary dermopathy-white forelock syndrome", "peripheral nerve schwannoma", "microcystic/reticular schwannoma"]
+last_modified_at: 2026-10-14
+description: "Selumetinib: predicted new indication Peripheral nerve schwannoma (evidence level L3). Approved use: Neurofibromatosis"
 ---
 
 # Selumetinib

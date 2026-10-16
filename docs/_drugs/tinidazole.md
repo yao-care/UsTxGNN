@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "TINIDAZOLE"
 predicted_indications: ["postmenopausal atrophic vaginitis", "ulceration of vulva", "vulvar neoplasm", "breast fibrocystic disease", "AIDS", "apocrine adenosis of breast", "blunt duct adenosis of breast", "congenital human immunodeficiency virus", "AIDS related complex", "benign mammary dysplasia"]
+last_modified_at: 2026-10-14
+description: "Tinidazole: predicted new indication Postmenopausal atrophic vaginitis (evidence level L5). Approved use: Giardiasis, bacterial vaginosis, vaginitis, vulvitis, vulvovaginitis…"
 ---
 
 # Tinidazole

@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "DOCETAXEL"
 predicted_indications: ["female breast carcinoma", "Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "small cell lung carcinoma", "primary pulmonary lymphoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "pulmonary blastoma", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma"]
+last_modified_at: 2026-10-14
+description: "Docetaxel: predicted new indication Female breast carcinoma (evidence level L1). Approved use: Non-small cell lung cancer, prostate cancer, head and neck cancer…"
 ---
 
 # Docetaxel

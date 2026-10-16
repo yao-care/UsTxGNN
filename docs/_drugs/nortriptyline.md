@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "NORTRIPTYLINE"
 predicted_indications: ["attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type"]
+last_modified_at: 2026-10-14
+description: "Nortriptyline: predicted new indication Attention deficit-hyperactivity disorder (evidence level L5). Approved use: Anxiety disorder"
 ---
 
 # Nortriptyline

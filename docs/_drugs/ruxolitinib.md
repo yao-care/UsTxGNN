@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "RUXOLITINIB"
 predicted_indications: ["uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lymphangiomyoma", "lymphangioleiomyomatosis", "liposarcoma", "familial rhabdoid tumor", "lung PEComa", "ovarian myxoid liposarcoma", "acquired hemophagocytic lymphohistiocytosis associated with malignant disease", "hemophagocytic syndrome associated with an infection"]
+last_modified_at: 2026-10-14
+description: "Ruxolitinib: predicted new indication Uterine corpus perivascular epithelioid cell tumor (evidence level L5). Approved use: Myelofibrosis / polycythemia vera / myeloproliferative neoplasm"
 ---
 
 # Ruxolitinib

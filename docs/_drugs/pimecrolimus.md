@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 4
 monitor_inn: "PIMECROLIMUS"
 predicted_indications: ["seborrheic dermatitis", "dermatitis", "exanthem (disease)", "acrodermatitis chronica atrophicans"]
+last_modified_at: 2026-10-14
+description: "Pimecrolimus: predicted new indication Seborrheic dermatitis (evidence level L2). Approved use: Atopic dermatitis (atopic eczema)"
 ---
 
 # Pimecrolimus

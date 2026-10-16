@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ATRASENTAN"
 predicted_indications: ["amenorrhea (disease)"]
+last_modified_at: 2026-10-14
+description: "Atrasentan: predicted new indication Amenorrhea (evidence level L5). Approved use: IgA nephropathy (reduction of proteinuria in adults with primary dise…"
 ---
 
 # Atrasentan

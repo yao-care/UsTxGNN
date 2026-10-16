@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "BENZNIDAZOLE"
 predicted_indications: ["congenital analbuminemia", "polyclonal hyperviscosity syndrome", "hyperamylasemia"]
+last_modified_at: 2026-10-14
+description: "Benznidazole: predicted new indication Congenital analbuminemia (evidence level L5). Approved use: Chagas disease"
 ---
 
 # Benznidazole

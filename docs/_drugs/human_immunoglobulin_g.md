@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "HUMAN IMMUNOGLOBULIN G"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "drug-induced osteoporosis"]
+last_modified_at: 2026-10-14
+description: "Human Immunoglobulin G: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Not available in the compiled data"
 ---
 
 # Human Immunoglobulin G

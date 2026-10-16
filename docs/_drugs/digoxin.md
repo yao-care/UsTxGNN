@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "DIGOXIN"
 predicted_indications: ["Prinzmetal angina", "duodenal obstruction", "duodenal ulcer (disease)", "duodenogastric reflux", "obsolete susceptibility to ischemic stroke", "hypoalphalipoproteinemia"]
+last_modified_at: 2026-10-14
+description: "Digoxin: predicted new indication Prinzmetal angina (evidence level L5). Approved use: Atrial fibrillation"
 ---
 
 # Digoxin

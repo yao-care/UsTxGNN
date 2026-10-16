@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 2
 monitor_inn: "PHENYLALANINE"
 predicted_indications: ["sclerosing cholangitis", "congenital prothrombin deficiency"]
+last_modified_at: 2026-10-14
+description: "Phenylalanine: predicted new indication Sclerosing cholangitis (evidence level L4). Approved use: Not available (the approved indication text is empty)"
 ---
 
 # Phenylalanine

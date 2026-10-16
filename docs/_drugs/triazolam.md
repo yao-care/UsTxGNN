@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "TRIAZOLAM"
 predicted_indications: ["sleep disorder, initiating and maintaining sleep"]
+last_modified_at: 2026-10-14
+description: "Triazolam: predicted new indication Sleep disorder, initiating and maintaining sleep (evidence level L5). Approved use: Insomnia"
 ---
 
 # Triazolam

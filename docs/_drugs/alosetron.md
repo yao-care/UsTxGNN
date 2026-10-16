@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "ALOSETRON"
 predicted_indications: ["migraine disorder", "leprosy", "migraine with brainstem aura", "nephrogenic syndrome of inappropriate antidiuresis", "headache disorder", "migraine with or without aura, susceptibility to"]
+last_modified_at: 2026-10-14
+description: "Alosetron: predicted new indication Migraine disorder (evidence level L5). Approved use: Not available in the data compiled for this report"
 ---
 
 # Alosetron

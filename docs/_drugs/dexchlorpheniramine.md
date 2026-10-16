@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 2
 monitor_inn: "DEXCHLORPHENIRAMINE"
 predicted_indications: ["allergic urticaria", "cold urticaria"]
+last_modified_at: 2026-10-14
+description: "Dexchlorpheniramine: predicted new indication Allergic urticaria (evidence level L3). Approved use: Allergic rhinitis, vasomotor rhinitis…"
 ---
 
 # Dexchlorpheniramine

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "ACEBUTOLOL"
 predicted_indications: ["malignant hypertensive renal disease", "malignant renovascular hypertension"]
+last_modified_at: 2026-10-14
+description: "Acebutolol: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Hypertension (hypertensive disorder)"
 ---
 
 # Acebutolol

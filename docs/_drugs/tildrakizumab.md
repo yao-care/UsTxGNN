@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "TILDRAKIZUMAB"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract", "drug-induced osteoporosis"]
+last_modified_at: 2026-10-14
+description: "Tildrakizumab: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Not listed in the compiled data (known clinical use: moderate-to-seve…"
 ---
 
 # Tildrakizumab

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "TREOSULFAN"
 predicted_indications: ["diabetic cataract"]
+last_modified_at: 2026-10-14
+description: "Treosulfan: predicted new indication Diabetic cataract (evidence level L5). Approved use: Not stated in the available license data (the drug is known as a cond…"
 ---
 
 # Treosulfan

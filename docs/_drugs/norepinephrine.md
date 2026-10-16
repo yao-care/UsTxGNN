@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 3
 monitor_inn: "NOREPINEPHRINE"
 predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome"]
+last_modified_at: 2026-10-14
+description: "Norepinephrine: predicted new indication Obstructive lung disease (evidence level L4). Approved use: Asthma, bronchitis, pulmonary emphysema, bronchiectasis…"
 ---
 
 # Norepinephrine

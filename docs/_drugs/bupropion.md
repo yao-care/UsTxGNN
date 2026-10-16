@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "BUPROPION"
 predicted_indications: ["attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "proximal 16p11.2 microdeletion syndrome", "hypervitaminosis", "benign paroxysmal torticollis of infancy", "trigeminal nerve neoplasm", "obsolete hypertelorism (disease)"]
+last_modified_at: 2026-10-14
+description: "Bupropion: predicted new indication Attention deficit-hyperactivity disorder (evidence level L1). Approved use: Major depressive disorder, anxiety disorder…"
 ---
 
 # Bupropion

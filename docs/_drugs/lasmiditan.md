@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 3
 monitor_inn: "Lasmiditan"
 predicted_indications: ["migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
+last_modified_at: 2026-10-14
+description: "Lasmiditan: predicted new indication Migraine with brainstem aura (evidence level L4). Approved use: Migraine (acute treatment of migraine with or without aura)"
 ---
 
 # Lasmiditan

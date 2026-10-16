@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "PIPERINE"
 predicted_indications: ["acne (disease)", "amenorrhea (disease)"]
+last_modified_at: 2026-10-14
+description: "Piperine: predicted new indication Acne (evidence level L5). Approved use: Not documented"
 ---
 
 # Piperine

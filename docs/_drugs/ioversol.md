@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "IOVERSOL"
 predicted_indications: ["osteoarthritis susceptibility", "osteoarthritis", "rheumatoid arthritis", "brachyolmia", "hemoglobinopathy", "brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "alopecia"]
+last_modified_at: 2026-10-14
+description: "Ioversol: predicted new indication Osteoarthritis susceptibility (evidence level L5). Approved use: Not stated in the data compiled for this report (ioversol is an iodin…"
 ---
 
 # Ioversol

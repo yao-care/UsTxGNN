@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "HISTRELIN"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "centra precocious puberty 1", "pelvic organ prolapse", "female genital tuberculosis", "physiological sexual disorder", "idiopathic central precocious puberty"]
+last_modified_at: 2026-10-14
+description: "Histrelin: predicted new indication Ambras type hypertrichosis universalis congenita (evidence level L5). Approved use: Precocious puberty"
 ---
 
 # Histrelin

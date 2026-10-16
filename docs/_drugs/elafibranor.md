@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "ELAFIBRANOR"
 predicted_indications: ["amenorrhea (disease)"]
+last_modified_at: 2026-10-14
+description: "Elafibranor: predicted new indication Amenorrhea (evidence level L5). Approved use: Primary biliary cholangitis"
 ---
 
 # Elafibranor

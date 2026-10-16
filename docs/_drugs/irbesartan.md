@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "IRBESARTAN"
 predicted_indications: ["malignant renovascular hypertension", "malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
+last_modified_at: 2026-10-14
+description: "Irbesartan: predicted new indication Malignant renovascular hypertension (evidence level L5). Approved use: Hypertension, hypertensive disorder, diabetic nephropathy"
 ---
 
 # Irbesartan

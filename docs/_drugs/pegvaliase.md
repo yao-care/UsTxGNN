@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "PEGVALIASE"
 predicted_indications: ["diabetic retinopathy", "severe nonproliferative diabetic retinopathy", "diabetic cataract"]
+last_modified_at: 2026-10-14
+description: "Pegvaliase: predicted new indication Diabetic retinopathy (evidence level L5). Approved use: Not available in the compiled data (the label text is blank"
 ---
 
 # Pegvaliase

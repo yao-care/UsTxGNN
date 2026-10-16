@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "AMMONIA N-13"
 predicted_indications: ["non-syndromic esophageal malformation", "esophageal disease"]
+last_modified_at: 2026-10-14
+description: "Ammonia N-13: predicted new indication Non-syndromic esophageal malformation (evidence level L5). Approved use: Not stated in the compiled data (the drug is generally known as a PET…"
 ---
 
 # Ammonia N-13

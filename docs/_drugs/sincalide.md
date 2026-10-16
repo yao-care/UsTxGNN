@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "SINCALIDE"
 predicted_indications: ["malignant catarrh", "infectious bovine rhinotracheitis", "cytomegalovirus infection", "thrombotic disease", "hyperthyroidism", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "hyperthyroxinemia", "homozygous familial hypercholesterolemia", "Prinzmetal angina", "amenorrhea (disease)"]
+last_modified_at: 2026-10-14
+description: "Sincalide: predicted new indication Malignant catarrh (malignant catarrhal fever… (evidence level L5). Approved use: Not stated in the US license records compiled for this report (gallbl…"
 ---
 
 # Sincalide

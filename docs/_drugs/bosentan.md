@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 9
 monitor_inn: "BOSENTAN"
 predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "limited systemic sclerosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "pseudoxanthoma elasticum, forme fruste", "kyphoscoliotic heart disease", "elastoma", "gout", "hypertrichosis (disease)"]
+last_modified_at: 2026-10-14
+description: "Bosentan: predicted new indication Rheumatoid arthritis (evidence level L4). Approved use: Pulmonary arterial hypertension (including pulmonary hypertension and…"
 ---
 
 # Bosentan

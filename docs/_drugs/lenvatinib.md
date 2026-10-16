@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "LENVATINIB"
 predicted_indications: ["liposarcoma", "unclassified renal cell carcinoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "renal cell carcinoma associated with neuroblastoma", "ovarian myxoid liposarcoma", "childhood kidney cell carcinoma", "renal carcinoma", "angiolipoma", "familial spontaneous pneumothorax", "endocrine-cerebro-osteodysplasia syndrome"]
+last_modified_at: 2026-10-14
+description: "Lenvatinib: predicted new indication Liposarcoma (evidence level L2). Approved use: Renal cell carcinoma and thyroid cancer"
 ---
 
 # Lenvatinib

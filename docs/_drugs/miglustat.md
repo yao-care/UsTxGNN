@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "MIGLUSTAT"
 predicted_indications: ["autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease", "Krabbe disease", "metachromatic leukodystrophy", "Wolman disease with hypolipoproteinemia and acanthocytosis", "encephalopathy due to prosaposin deficiency", "Tay-Sachs disease", "benign neoplasm of adrenal gland", "recessive X-linked ichthyosis", "fatty acid hydroxylase-associated neurodegeneration"]
+last_modified_at: 2026-10-14
+description: "Miglustat: predicted new indication Tay-Sachs disease (evidence level L5). Approved use: Gaucher disease"
 ---
 
 # Miglustat

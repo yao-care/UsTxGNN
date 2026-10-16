@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "DALTEPARIN"
 predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive", "primary release disorder of platelets", "pseudo-von Willebrand disease", "atypical hemolytic-uremic syndrome with thrombomodulin anomaly", "neuropathy, painful"]
+last_modified_at: 2026-10-14
+description: "Dalteparin: predicted new indication Thrombophilia due to protein C deficiency, autosomal recessive (evidence level L5). Approved use: Pulmonary embolism, disseminated intravascular coagulation…"
 ---
 
 # Dalteparin

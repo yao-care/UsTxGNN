@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "IOPROMIDE"
 predicted_indications: ["osteoarthritis susceptibility", "osteoarthritis", "rheumatoid arthritis", "brachyolmia", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "alopecia", "myosclerosis", "hemoglobinopathy", "pseudoachondroplasia"]
+last_modified_at: 2026-10-14
+description: "Iopromide: predicted new indication Osteoarthritis susceptibility (evidence level L5). Approved use: Not stated in the data compiled for this report (diagnostic contrast…"
 ---
 
 # Iopromide

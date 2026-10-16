@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 5
 monitor_inn: "MEPOLIZUMAB"
 predicted_indications: ["thrombocytopenia due to immune destruction", "primary release disorder of platelets", "pseudo-von Willebrand disease", "autoimmune thrombocytopenic", "Glanzmann thrombasthenia"]
+last_modified_at: 2026-10-14
+description: "Mepolizumab: predicted new indication Thrombocytopenia due to immune destruction (evidence level L4). Approved use: Eosinophilic pneumonia"
 ---
 
 # Mepolizumab

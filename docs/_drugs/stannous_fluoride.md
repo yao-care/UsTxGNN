@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "STANNOUS FLUORIDE"
 predicted_indications: ["meningococcal infection"]
+last_modified_at: 2026-10-14
+description: "Stannous Fluoride: predicted new indication Meningococcal infection (evidence level L5). Approved use: No approved indication text is available (marketed as dentifrice/toot…"
 ---
 
 # Stannous Fluoride

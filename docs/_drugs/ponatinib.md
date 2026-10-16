@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "PONATINIB"
 predicted_indications: ["fibromatosis, gingival", "liposarcoma"]
+last_modified_at: 2026-10-14
+description: "Ponatinib: predicted new indication Fibromatosis, gingival (evidence level L5). Approved use: Chronic myelogenous leukemia, BCR-ABL1 positive"
 ---
 
 # Ponatinib

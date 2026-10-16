@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "PENTOSTATIN"
 predicted_indications: ["botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "liver sarcoma"]
+last_modified_at: 2026-10-14
+description: "Pentostatin: predicted new indication Botryoid-type embryonal rhabdomyosarcoma of the vagina (evidence level L5). Approved use: Hairy cell leukemia"
 ---
 
 # Pentostatin

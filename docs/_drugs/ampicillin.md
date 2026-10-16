@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "AMPICILLIN"
 predicted_indications: ["laryngitis", "Ureaplasma urethritis", "gonococcal urethritis", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "gingivitis", "paranasal sinus neoplasm (disease)", "bacterial arthritis", "conjunctivitis", "pericoronitis"]
+last_modified_at: 2026-10-14
+description: "Ampicillin: predicted new indication Laryngitis (evidence level L4). Approved use: Urinary tract infection, infectious otitis media, bacterial pneumonia…"
 ---
 
 # Ampicillin

@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 4
 monitor_inn: "ETELCALCETIDE"
 predicted_indications: ["hyperphosphatemia (disease)", "esophageal varices with bleeding", "esophageal varices without bleeding", "varicose disease"]
+last_modified_at: 2026-10-14
+description: "Etelcalcetide: predicted new indication Hyperphosphatemia (evidence level L3). Approved use: Hyperparathyroidism (secondary hyperparathyroidism in hemodialysis)"
 ---
 
 # Etelcalcetide

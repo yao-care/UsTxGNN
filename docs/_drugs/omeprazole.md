@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 2
 monitor_inn: "OMEPRAZOLE"
 predicted_indications: ["duodenogastric reflux", "duodenal obstruction"]
+last_modified_at: 2026-10-14
+description: "Omeprazole: predicted new indication Duodenogastric reflux (evidence level L4). Approved use: Gastric ulcer, peptic ulcer disease, GERD, esophagitis…"
 ---
 
 # Omeprazole

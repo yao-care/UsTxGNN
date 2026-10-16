@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "ZAFIRLUKAST"
 predicted_indications: ["bronchitis", "obstructive lung disease"]
+last_modified_at: 2026-10-14
+description: "Zafirlukast: predicted new indication Bronchitis (evidence level L5). Approved use: Asthma (including intrinsic asthma and allergic asthma)"
 ---
 
 # Zafirlukast

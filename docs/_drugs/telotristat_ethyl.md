@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "TELOTRISTAT ETHYL"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)"]
+last_modified_at: 2026-10-14
+description: "Telotristat Ethyl: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Diarrheal disease"
 ---
 
 # Telotristat Ethyl

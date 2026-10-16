@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "CLOZAPINE"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "schizophreniform disorder", "bipolar disorder", "major affective disorder", "attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "psychotic disorder", "Malan overgrowth syndrome"]
+last_modified_at: 2026-10-14
+description: "Clozapine: predicted new indication Manic bipolar affective disorder (evidence level L2). Approved use: Not listed in the compiled data (literature describes treatment-resis…"
 ---
 
 # Clozapine

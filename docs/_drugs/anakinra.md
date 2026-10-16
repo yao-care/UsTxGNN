@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ANAKINRA"
 predicted_indications: ["extracutaneous mastocytoma", "hepatic infarction", "autosomal recessive familial Mediterranean fever", "aggressive systemic mastocytosis", "hepatic veno-occlusive disease", "peliosis hepatis", "oligoarticular juvenile idiopathic arthritis without anti-nuclear antibodies", "oligoarticular juvenile idiopathic arthritis with anti-nuclear antibodies", "pyogenic autoinflammatory syndrome", "unclassified autoinflammatory syndrome"]
+last_modified_at: 2026-10-14
+description: "Anakinra: predicted new indication Extracutaneous mastocytoma (evidence level L5). Approved use: Rheumatoid arthritis, cryopyrin-associated periodic syndrome…"
 ---
 
 # Anakinra

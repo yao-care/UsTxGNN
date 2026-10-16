@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 4
 monitor_inn: "SELEGILINE"
 predicted_indications: ["polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "schizophrenia", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies"]
+last_modified_at: 2026-10-14
+description: "Selegiline: predicted new indication Schizophrenia (evidence level L3). Approved use: Parkinson disease"
 ---
 
 # Selegiline

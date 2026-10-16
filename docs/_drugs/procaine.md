@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "PROCAINE"
 predicted_indications: ["methemoglobinemia", "methemoglobinemia, alpha type", "Tourette syndrome", "anaphylaxis", "methemoglobin reductase deficiency", "hyperthyroidism", "fibromyalgia", "tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa"]
+last_modified_at: 2026-10-14
+description: "Procaine: predicted new indication Methemoglobinemia (evidence level L4). Approved use: Local anaesthesia (e.g., dental surgery)"
 ---
 
 # Procaine

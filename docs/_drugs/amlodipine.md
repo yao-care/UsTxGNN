@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "AMLODIPINE"
 predicted_indications: ["brain stem infarction", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "malignant renovascular hypertension", "cerebral artery occlusion", "Braddock syndrome", "MRI defined brain infarct", "ABri amyloidosis", "intracerebral hemorrhage"]
+last_modified_at: 2026-10-14
+description: "Amlodipine: predicted new indication Brain stem infarction (evidence level L5). Approved use: Hypertension (also stroke, cerebral infarction, Prinzmetal angina)"
 ---
 
 # Amlodipine

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "MEMANTINE"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
+last_modified_at: 2026-10-14
+description: "Memantine: predicted new indication Migraine disorder (evidence level L5). Approved use: Not available in the data"
 ---
 
 # Memantine

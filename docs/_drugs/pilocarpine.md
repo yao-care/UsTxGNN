@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "PILOCARPINE"
 predicted_indications: ["primary hereditary glaucoma"]
+last_modified_at: 2026-10-14
+description: "Pilocarpine: predicted new indication Primary hereditary glaucoma (evidence level L5). Approved use: Open-angle glaucoma, ocular hypertension"
 ---
 
 # Pilocarpine

@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 1
 monitor_inn: "NIACIN"
 predicted_indications: ["homozygous familial hypercholesterolemia"]
+last_modified_at: 2026-10-14
+description: "Niacin: predicted new indication Homozygous familial hypercholesterolemia (evidence level L4). Approved use: Hyperlipidemia (including familial hyperlipidemia and hypertriglyceri…"
 ---
 
 # Niacin

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "GLYCERIN"
 predicted_indications: ["cauda equina syndrome", "open-angle glaucoma", "primary hereditary glaucoma", "alopecia", "congenital hypotrichosis milia", "irritable bowel syndrome", "hypotrichosis simplex of the scalp", "diffuse alopecia areata", "migraine disorder", "migraine with brainstem aura"]
+last_modified_at: 2026-10-14
+description: "Glycerin: predicted new indication Cauda equina syndrome . Open-angle glaucoma has the most relevant mec… (evidence level L5). Approved use: Constipation disorder"
 ---
 
 # Glycerin

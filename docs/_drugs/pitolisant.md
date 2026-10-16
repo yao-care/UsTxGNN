@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 3
 monitor_inn: "PITOLISANT"
 predicted_indications: ["insomnia (disease)", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome"]
+last_modified_at: 2026-10-14
+description: "Pitolisant: predicted new indication Insomnia (evidence level L4). Approved use: Narcolepsy"
 ---
 
 # Pitolisant

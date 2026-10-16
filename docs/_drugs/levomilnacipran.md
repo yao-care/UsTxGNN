@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "LEVOMILNACIPRAN"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "dysthymic disorder", "melancholia", "neurotic depression", "neurotic disorder"]
+last_modified_at: 2026-10-14
+description: "Levomilnacipran: predicted new indication Benign paroxysmal torticollis of infancy (evidence level L5). Approved use: Major depressive disorder"
 ---
 
 # Levomilnacipran

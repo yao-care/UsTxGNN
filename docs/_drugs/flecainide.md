@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "FLECAINIDE"
 predicted_indications: ["stroke disorder", "obsolete susceptibility to ischemic stroke", "sick sinus syndrome 2, autosomal dominant", "ABri amyloidosis", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "duodenal obstruction", "cerebrovascular disorder", "nephrogenic syndrome of inappropriate antidiuresis"]
+last_modified_at: 2026-10-14
+description: "Flecainide: predicted new indication Stroke disorder (evidence level L4). Approved use: Atrial fibrillation"
 ---
 
 # Flecainide

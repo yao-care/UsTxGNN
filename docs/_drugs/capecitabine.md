@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "CAPECITABINE"
 predicted_indications: ["gastric adenocarcinoma and proximal polyposis of the stomach", "signet ring cell gastric adenocarcinoma", "microinvasive gastric cancer", "gastric tubular adenocarcinoma", "gastric cardia adenocarcinoma", "carcinoma of stomach, salivary gland type", "gastric pylorus carcinoma", "gastric body carcinoma", "Epstein-Barr virus-associated gastric carcinoma", "malignant gastric granular cell tumor"]
+last_modified_at: 2026-10-14
+description: "Capecitabine: predicted new indication Top-ranked: gastric adenocarcinoma and proximal polyposis of the stom… (evidence level L5). Approved use: Metastasis from malignant tumor of colon"
 ---
 
 # Capecitabine

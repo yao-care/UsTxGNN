@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "IOHEXOL"
 predicted_indications: ["insomnia (disease)", "anxiety"]
+last_modified_at: 2026-10-14
+description: "Iohexol: predicted new indication Insomnia (evidence level L5). Approved use: Not stated in the available U.S. license records"
 ---
 
 # Iohexol

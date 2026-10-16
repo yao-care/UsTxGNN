@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 6
 monitor_inn: "HYDROMORPHONE"
 predicted_indications: ["pharyngitis", "allergic urticaria", "nasal cavity disease", "acute laryngopharyngitis", "headache disorder", "trigeminal autonomic cephalalgia"]
+last_modified_at: 2026-10-14
+description: "Hydromorphone: predicted new indication Pharyngitis (evidence level L4). Approved use: Common cold, nasopharyngitis"
 ---
 
 # Hydromorphone

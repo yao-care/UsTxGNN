@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "CYCLOSERINE"
 predicted_indications: ["irritable bowel syndrome", "acne (disease)", "gastroparesis (disease)", "conjunctivitis", "insomnia (disease)", "pharyngitis", "nasal cavity disease"]
+last_modified_at: 2026-10-14
+description: "Cycloserine: predicted new indication Irritable bowel syndrome (evidence level L5). Approved use: Pulmonary tuberculosis"
 ---
 
 # Cycloserine

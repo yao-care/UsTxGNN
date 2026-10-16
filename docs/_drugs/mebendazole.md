@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "MEBENDAZOLE"
 predicted_indications: ["acne (disease)"]
+last_modified_at: 2026-10-14
+description: "Mebendazole: predicted new indication Acne (disease) (evidence level L5). Approved use: Enterobiasis, ascaridiasis, trichuriasis"
 ---
 
 # Mebendazole

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "LOPERAMIDE"
 predicted_indications: ["acute contagious conjunctivitis", "amebic dysentery", "conjunctivitis", "gastroduodenitis", "pseudomembranous conjunctivitis", "conjunctival folliculosis", "parasitic conjunctivitis", "chronic follicular conjunctivitis", "serous conjunctivitis except viral", "Angelucci syndrome"]
+last_modified_at: 2026-10-14
+description: "Loperamide: predicted new indication Acute contagious conjunctivitis (evidence level L5). Approved use: Diarrheal disease, dysentery"
 ---
 
 # Loperamide

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "CEFOXITIN"
 predicted_indications: ["infectious otitis media", "urinary tract infection (disease)", "chronic otitis media", "suppurative otitis media", "middle ear disease", "gonococcal urethritis", "Ureaplasma urethritis", "toxocariasis", "otosalpingitis", "non-suppurative otitis media"]
+last_modified_at: 2026-10-14
+description: "Cefoxitin: predicted new indication Urinary tract infection (evidence level L5). Approved use: Bacterial infections (streptococcal and staphylococcal infections…"
 ---
 
 # Cefoxitin

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Sodium acetate"
 predicted_indications: ["congenital prothrombin deficiency", "epiglottitis", "urinary tract infection (disease)", "sclerosing cholangitis", "Ureaplasma urethritis", "gonococcal urethritis", "dyspepsia", "uterine inflammatory disease", "gastroparesis (disease)", "xanthogranulomatous pyelonephritis"]
+last_modified_at: 2026-10-14
+description: "Sodium Acetate: predicted new indication Congenital prothrombin deficiency (evidence level L5). Approved use: No approved indication text is available in the US licence records"
 ---
 
 # Sodium Acetate

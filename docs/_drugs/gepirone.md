@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "GEPIRONE"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "postpartum depression"]
+last_modified_at: 2026-10-14
+description: "Gepirone: predicted new indication Benign paroxysmal torticollis of infancy (evidence level L5). Approved use: Unipolar depression, endogenous depression, major depressive disorder…"
 ---
 
 # Gepirone

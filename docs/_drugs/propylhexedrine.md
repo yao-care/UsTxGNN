@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "PROPYLHEXEDRINE"
 predicted_indications: ["attention deficit-hyperactivity disorder", "migraine disorder", "faciodigitogenital syndrome", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "erectile dysfunction (disease)", "atrophoderma vermiculata", "ulerythema ophryogenesis", "trichotillomania", "Tourette syndrome"]
+last_modified_at: 2026-10-14
+description: "Propylhexedrine: predicted new indication Attention deficit-hyperactivity disorder (evidence level L5). Approved use: Not available"
 ---
 
 # Propylhexedrine

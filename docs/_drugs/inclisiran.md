@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "INCLISIRAN"
 predicted_indications: ["potassium deficiency disease", "esophageal disease", "atypical coarctation of aorta", "migraine disorder", "non-syndromic esophageal malformation", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "aortic malformation", "esophageal ulcer", "Raynaud disease"]
+last_modified_at: 2026-10-14
+description: "Inclisiran: predicted new indication Potassium deficiency disease (evidence level L5). Approved use: Not recorded in the data compiled for this report"
 ---
 
 # Inclisiran

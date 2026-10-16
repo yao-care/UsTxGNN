@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "ADEFOVIR DIPIVOXIL"
 predicted_indications: ["chronic hepatitis C virus infection", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "hepatitis B virus infection", "hepatitis C virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection"]
+last_modified_at: 2026-10-14
+description: "Adefovir Dipivoxil: predicted new indication Chronic hepatitis C virus infection (evidence level L4). Approved use: Chronic hepatitis B virus infection"
 ---
 
 # Adefovir Dipivoxil

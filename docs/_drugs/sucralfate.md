@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 2
 monitor_inn: "SUCRALFATE"
 predicted_indications: ["duodenogastric reflux", "duodenal obstruction"]
+last_modified_at: 2026-10-14
+description: "Sucralfate: predicted new indication Duodenogastric reflux (evidence level L2). Approved use: Duodenal ulcer"
 ---
 
 # Sucralfate

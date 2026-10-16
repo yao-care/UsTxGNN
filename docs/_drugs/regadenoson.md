@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "REGADENOSON"
 predicted_indications: ["anaphylaxis", "food-dependent exercise-induced anaphylaxis", "esotropia", "pseudoallergy"]
+last_modified_at: 2026-10-14
+description: "Regadenoson: predicted new indication Anaphylaxis (evidence level L5). Approved use: Diagnostic agent for radionuclide myocardial perfusion imaging (MPI)"
 ---
 
 # Regadenoson

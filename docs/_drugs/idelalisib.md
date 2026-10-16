@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "IDELALISIB"
 predicted_indications: ["mantle cell lymphoma", "Hodgkins lymphoma", "B-cell neoplasm", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "lymphoma, non-Hodgkin, familial", "myeloid leukemia", "chronic myelogenous leukemia, BCR-ABL1 positive", "small intestinal Burkitt lymphoma", "colon adenocarcinoma"]
+last_modified_at: 2026-10-14
+description: "Idelalisib: predicted new indication Mantle cell lymphoma (evidence level L5). Approved use: Follicular lymphoma, B-cell neoplasms, acute lymphoblastic leukemia…"
 ---
 
 # Idelalisib

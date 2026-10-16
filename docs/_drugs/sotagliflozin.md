@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "SOTAGLIFLOZIN"
 predicted_indications: ["opsismodysplasia", "diabetes mellitus (disease)", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome", "autoimmune oophoritis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
+last_modified_at: 2026-10-14
+description: "Sotagliflozin: predicted new indication Opsismodysplasia (evidence level L5). Approved use: Type 1 diabetes mellitus (including diabetic ketoacidosis-related con…"
 ---
 
 # Sotagliflozin

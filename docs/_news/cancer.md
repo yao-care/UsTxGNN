@@ -3,7 +3,7 @@ layout: default
 title: "cancer News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer. 9 articles, 1 related drugs."
+description: "Health news about cancer. 11 articles, 1 related drugs."
 permalink: /news/cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cancer/
 ---
 
 <p class="key-answer" data-question="What news is there about cancer?">
-<strong>cancer</strong> currently has <strong>9 news articles</strong> and 1 related drugs.
+<strong>cancer</strong> currently has <strong>11 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,23 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (9)
+## Related News (11)
+
+### [U of A cancer researcher dies of same disease she fought to cure - Arizona Daily Star](https://news.google.com/rss/articles/CBMingFBVV95cUxOZlhqWUZTUnBlUVUwV1JmMVZiZDA2YnNQNHdEd01telp3N2RZREwxZUJLT2VJdGN1NnYzbWVSbmJKSTVuNk0wdXUzdFJubDhHRDhNRHdIeGJ6REFleUo1cHZHemhqYUxYdHkxTHVSdFNaV1MyRFVQbXVxZUxPdTVQcVBxSnRRRE53b0FkU0V0Q3VZdDRfMlRySWpOakQ3QQ?oc=5)
+
+2026-10-16
+
+Source: [Arizona Daily Star](https://news.google.com/rss/articles/CBMingFBVV95cUxOZlhqWUZTUnBlUVUwV1JmMVZiZDA2YnNQNHdEd01telp3N2RZREwxZUJLT2VJdGN1NnYzbWVSbmJKSTVuNk0wdXUzdFJubDhHRDhNRHdIeGJ6REFleUo1cHZHemhqYUxYdHkxTHVSdFNaV1MyRFVQbXVxZUxPdTVQcVBxSnRRRE53b0FkU0V0Q3VZdDRfMlRySWpOakQ3QQ?oc=5)
+
+---
+
+### [USC scientists discover how to create a never-ending supply of cancer-fighting cells - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9RNFFzMGx2MC1HLWFmNDA3bVltY0t0VVhZRHd3cHVGRWZ1SmxQbjRMM2NMNUZWNTRzYWwxZTBWOVNpYTNSMDNzOGVGX1l0clVlN2RCSHhZUmN5S2hWdUpPcEVLQ0ZuTC0tQzA3Y1U0dw?oc=5)
+
+2026-10-16
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9RNFFzMGx2MC1HLWFmNDA3bVltY0t0VVhZRHd3cHVGRWZ1SmxQbjRMM2NMNUZWNTRzYWwxZTBWOVNpYTNSMDNzOGVGX1l0clVlN2RCSHhZUmN5S2hWdUpPcEVLQ0ZuTC0tQzA3Y1U0dw?oc=5)
+
+---
 
 ### [Cancer strikes twice: husband and wife diagnosed in same month, undergo chemo together](https://news.google.com/rss/articles/CBMiakFVX3lxTE9qamNoNml0X1U5UG54U0VKRGZjaE1xWnp0bC15cVJiaE5KUndkU0RSTmx2Rk02c0ZETVRpclNjdlhzWWo4cmZfZ2RoNWZXc0tWMkJFMlI5c21qVktzbEdVZzhqOVdGMllFRmc?oc=5)
 
@@ -47,11 +63,11 @@ Source: [NBC News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUm5MenRE
 
 ---
 
-### [Cancer researcher dies at 47 of disease she was trying to cure - USA Today](https://news.google.com/rss/articles/CBMitwFBVV95cUxNTHFuSG5ic1ZkWDB2dFBmUzVXYUstR21qMjRqdEthZkNOSnYxUGVRb0tGY1IxZGxpQTdOQ3pUVU1lTlFkMzJKVGFTRnFXMXYzeDBleW1pbktRUGZlSkFFcjd6RmU0RkxGRldESVhMMnJmMFR3UmRwdk8tclF2RmgxRXJQRlFQeUp5Q1JuczJwbHZRd3ZjRDl1d3hoSm9fbjVyWEI5WnRQZkh5dHhKNVhIU0Jvd2FBQmM?oc=5)
+### [Cancer Spread From One Identical Twin to the Other in the Womb, Scientists Find](https://news.google.com/rss/articles/CBMirgFBVV95cUxNRjlyUjY1RXNWRzdNWnRheXpOWWRXVFAxc1QzaU9kc1QtWW5zRTc3aWdVdUtDdTlZQTBwRjIzM1RxeEx0dll0ZUFVYjZMLU9mZTUyMmwyeG5FVTQwZ1BjTnQ5SVFDV2VlNWNkdUNGUjVEZzFibmNCNmpobUFITDUxb3BQVEFyWHp4SGJsemMxX1JtcHlpYTZ3TzctTjJUc0lEazJzYjd1dl9qemREOFE?oc=5)
 
 2026-10-15
 
-Source: [USA Today](https://news.google.com/rss/articles/CBMitwFBVV95cUxNTHFuSG5ic1ZkWDB2dFBmUzVXYUstR21qMjRqdEthZkNOSnYxUGVRb0tGY1IxZGxpQTdOQ3pUVU1lTlFkMzJKVGFTRnFXMXYzeDBleW1pbktRUGZlSkFFcjd6RmU0RkxGRldESVhMMnJmMFR3UmRwdk8tclF2RmgxRXJQRlFQeUp5Q1JuczJwbHZRd3ZjRDl1d3hoSm9fbjVyWEI5WnRQZkh5dHhKNVhIU0Jvd2FBQmM?oc=5)
+Source: [Gizmodo](https://news.google.com/rss/articles/CBMirgFBVV95cUxNRjlyUjY1RXNWRzdNWnRheXpOWWRXVFAxc1QzaU9kc1QtWW5zRTc3aWdVdUtDdTlZQTBwRjIzM1RxeEx0dll0ZUFVYjZMLU9mZTUyMmwyeG5FVTQwZ1BjTnQ5SVFDV2VlNWNkdUNGUjVEZzFibmNCNmpobUFITDUxb3BQVEFyWHp4SGJsemMxX1JtcHlpYTZ3TzctTjJUc0lEazJzYjd1dl9qemREOFE?oc=5)
 
 ---
 
@@ -63,14 +79,6 @@ Source: [The Boston Globe](https://news.google.com/rss/articles/CBMif0FVX3lxTE5D
 
 ---
 
-### [Divergent genomic evolution in astrocytomas and oligodendrogliomas](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EaVdsVFVIdEQydFhLdDR4U3RmcEJMV2JvcE12bWF4b1ROX0k3TzRFcW9DMFM2VU9qd0FsWUZxdGFVV2cwZ2VqeFZmTEMzNXVzV2hGWmFiMDFrVS15VFYw?oc=5)
-
-2026-10-14
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EaVdsVFVIdEQydFhLdDR4U3RmcEJMV2JvcE12bWF4b1ROX0k3TzRFcW9DMFM2VU9qd0FsWUZxdGFVV2cwZ2VqeFZmTEMzNXVzV2hGWmFiMDFrVS15VFYw?oc=5)
-
----
-
 ### [Why So Many People Still Are Not Screened for Lung Cancer - The New York Times](https://news.google.com/rss/articles/CBMie0FVX3lxTE5YMzFhangxQ0pJY2h3QTFCc21jYVZZOGpyOUtvZWQ4Y3lSUmJ0V0xiS3A4UF81RTU0amJXUVNLMVBxcXd6cng4TTYyY3JaQUVjZUtEdU1vQks4cVFXenN4dlVMUmpZel82aVdtb3F4bXhkSWp6SGlYeUwzNA?oc=5)
 
 2026-10-14
@@ -79,11 +87,11 @@ Source: [The New York Times](https://news.google.com/rss/articles/CBMie0FVX3lxTE
 
 ---
 
-### [These are the common infections that can cause cancer - and how to protect yourself - The Independent](https://news.google.com/rss/articles/CBMinAFBVV95cUxOVXUzMjU5UVFzNHBNbGRqNzZlMWVBZUkwMDJ5aGhBbUlTYS16c2VnbGpoX2VYOFlRaDRtS19hQzU3eE51SW5EZWtJWFVZNEdITEZoRGRKcFB2Y1hibFpjWXJnYWpaZVNKdm9fOUdOR1Q1akdqNUp4WWZyRUxwNk1ucHBpZUc0UE4tOWs1SmJRaFpQSzhTdHE1U3U4NXQ?oc=5)
+### [These Infections Are Linked to 12% of New Cancer Cases](https://news.google.com/rss/articles/CBMigwFBVV95cUxNUlZ5WE44S3o3MXdwdFNLOXFmcjdHZ2xrWlhDR05zMmYwdXlCa194QThMNkVEQ3Y0VUNyWGl5RERqSHhCN3ItdlhLVTBKMUR1MHJXQ3NINFB6YjZ6UGxBTktMQ3lmVFZUMEZYbnJwS2NGVEs0alRablVmTW9LRnFodFdTaw?oc=5)
 
-2026-10-14
+2026-10-13
 
-Source: [The Independent](https://news.google.com/rss/articles/CBMinAFBVV95cUxOVXUzMjU5UVFzNHBNbGRqNzZlMWVBZUkwMDJ5aGhBbUlTYS16c2VnbGpoX2VYOFlRaDRtS19hQzU3eE51SW5EZWtJWFVZNEdITEZoRGRKcFB2Y1hibFpjWXJnYWpaZVNKdm9fOUdOR1Q1akdqNUp4WWZyRUxwNk1ucHBpZUc0UE4tOWs1SmJRaFpQSzhTdHE1U3U4NXQ?oc=5)
+Source: [AOL.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxNUlZ5WE44S3o3MXdwdFNLOXFmcjdHZ2xrWlhDR05zMmYwdXlCa194QThMNkVEQ3Y0VUNyWGl5RERqSHhCN3ItdlhLVTBKMUR1MHJXQ3NINFB6YjZ6UGxBTktMQ3lmVFZUMEZYbnJwS2NGVEs0alRablVmTW9LRnFodFdTaw?oc=5)
 
 ---
 
@@ -100,6 +108,14 @@ Source: [Yahoo News UK](https://news.google.com/rss/articles/CBMiekFVX3lxTFBPcVU
 2026-10-13
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EVGxXeGVFZjUyaGxsNHhiTnFBUGRlTFFUQ0dlV2NOVlVZYzJQZWpkQVZZMzJsOWE3RlVXUWpITW9VX3gyRzFSTHRTUjBvelNDZllET1h6RW5kRE5mS01V?oc=5)
+
+---
+
+### [9 Best Fruits to Help Reduce Cancer Risk with Fiber and ‘Potent’ Antioxidants](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTjI3N19Qd0RZeS1fTjJ6Y3RRSnZZeHdMQnpjREljTVJQWEFEeVkxX1BwZC1NUUphUkFiRWMzZElwd05ZOVl0LU5QQ19wbmw1WVpVcHVqRXMtUkhlMDl0eFJvVWVfRGp5Nmc4UXNDakkxcVVRMDAwTGhLcVMxa3V4ZE84QnJLQjdESEVZalBnNkRaeFBrenpNcDN4UQ?oc=5)
+
+2026-10-13
+
+Source: [TODAY.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTjI3N19Qd0RZeS1fTjJ6Y3RRSnZZeHdMQnpjREljTVJQWEFEeVkxX1BwZC1NUUphUkFiRWMzZElwd05ZOVl0LU5QQ19wbmw1WVpVcHVqRXMtUkhlMDl0eFJvVWVfRGp5Nmc4UXNDakkxcVVRMDAwTGhLcVMxa3V4ZE84QnJLQjdESEVZalBnNkRaeFBrenpNcDN4UQ?oc=5)
 
 ---
 

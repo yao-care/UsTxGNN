@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1147
 evidence_level: L5
 indication_count: 1
+monitor_inn: "SECALE CEREALE POLLEN"
+predicted_indications: ["alopecia"]
 ---
 
 # Secale Cereale Pollen

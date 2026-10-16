@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 330
 evidence_level: L5
 indication_count: 6
+monitor_inn: "AMMONIA"
+predicted_indications: ["acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "acne keloid", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis", "hydroa vacciniforme, familial"]
 ---
 
 # Ammonia

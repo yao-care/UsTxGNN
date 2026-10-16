@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Abutilon Theophrasti Seed Aconitum Carmichaeli Lat
 parent: Model Prediction Only (L5)
 nav_order: 52
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Abutilon Theophrasti Seed Aconitum Carmichaeli Lat

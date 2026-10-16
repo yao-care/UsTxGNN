@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Abacavir Sulfate Dolutegravir Sodium Lamivudine
 parent: Model Prediction Only (L5)
 nav_order: 37
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Abacavir Sulfate Dolutegravir Sodium Lamivudine

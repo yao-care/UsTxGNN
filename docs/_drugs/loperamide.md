@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 869
 evidence_level: L5
 indication_count: 10
+monitor_inn: "LOPERAMIDE"
+predicted_indications: ["acute contagious conjunctivitis", "amebic dysentery", "conjunctivitis", "gastroduodenitis", "pseudomembranous conjunctivitis", "conjunctival folliculosis", "parasitic conjunctivitis", "chronic follicular conjunctivitis", "serous conjunctivitis except viral", "Angelucci syndrome"]
 ---
 
 # Loperamide

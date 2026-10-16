@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1187
 evidence_level: L5
 indication_count: 10
+monitor_inn: "SULFASALAZINE"
+predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "osteoarthritis susceptibility", "congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "WHIM syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "spondyloarthropathy, susceptibility to", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis"]
 ---
 
 # Sulfasalazine

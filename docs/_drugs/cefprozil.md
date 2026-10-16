@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 506
 evidence_level: L2
 indication_count: 10
+monitor_inn: "CEFPROZIL"
+predicted_indications: ["urinary tract infection (disease)", "epiglottitis", "gonococcal urethritis", "Ureaplasma urethritis", "xanthogranulomatous pyelonephritis", "uterine inflammatory disease", "pneumonia", "laryngitis", "urogenital tuberculosis", "abdominal tuberculosis"]
 ---
 
 # Cefprozil

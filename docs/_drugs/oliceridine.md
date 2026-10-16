@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 987
 evidence_level: L5
 indication_count: 4
+monitor_inn: "OLICERIDINE"
+predicted_indications: ["insomnia (disease)", "migraine disorder", "irritable bowel syndrome", "neurocirculatory asthenia"]
 ---
 
 # Oliceridine

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1164
 evidence_level: L5
 indication_count: 10
+monitor_inn: "SINCALIDE"
+predicted_indications: ["malignant catarrh", "infectious bovine rhinotracheitis", "cytomegalovirus infection", "thrombotic disease", "hyperthyroidism", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "hyperthyroxinemia", "homozygous familial hypercholesterolemia", "Prinzmetal angina", "amenorrhea (disease)"]
 ---
 
 # Sincalide

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 839
 evidence_level: L5
 indication_count: 10
+monitor_inn: "LATANOPROST"
+predicted_indications: ["primary hereditary glaucoma", "visceral calciphylaxis", "hypotrichosis simplex of the scalp", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "congenital hypotrichosis milia", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis"]
 ---
 
 # Latanoprost

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1170
 evidence_level: L5
 indication_count: 7
+monitor_inn: "SODIUM FLUORIDE"
+predicted_indications: ["epiglottitis", "urinary tract infection (disease)", "Ureaplasma urethritis", "gonococcal urethritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "laryngitis"]
 ---
 
 # Sodium Fluoride

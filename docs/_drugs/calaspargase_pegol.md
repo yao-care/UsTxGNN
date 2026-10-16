@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 485
 evidence_level: L5
 indication_count: 4
+monitor_inn: "CALASPARGASE PEGOL"
+predicted_indications: ["insomnia (disease)", "factor 5 excess with spontaneous thrombosis", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2"]
 ---
 
 # Calaspargase Pegol

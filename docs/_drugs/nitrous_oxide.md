@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 974
 evidence_level: L4
 indication_count: 1
+monitor_inn: "NITROUS OXIDE"
+predicted_indications: ["benign prostatic hyperplasia (disease)"]
 ---
 
 # Nitrous Oxide

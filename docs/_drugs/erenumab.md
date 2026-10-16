@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 666
 evidence_level: L4
 indication_count: 1
+monitor_inn: "ERENUMAB"
+predicted_indications: ["migraine with brainstem aura"]
 ---
 
 # Erenumab

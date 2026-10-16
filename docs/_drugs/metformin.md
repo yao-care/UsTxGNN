@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 905
 evidence_level: L5
 indication_count: 5
+monitor_inn: "METFORMIN"
+predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy"]
 ---
 
 # Metformin

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 706
 evidence_level: L5
 indication_count: 9
+monitor_inn: "FIDAXOMICIN"
+predicted_indications: ["staphylococcal scalded skin syndrome", "bullous impetigo", "inhalational botulism", "impetigo", "toxin-mediated infectious botulism", "vulvovaginal candidiasis", "hordeolum", "staphylococcus aureus pneumonia", "punctate epithelial keratoconjunctivitis"]
 ---
 
 # Fidaxomicin

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1298
 evidence_level: L5
 indication_count: 7
+monitor_inn: "WARFARIN"
+predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "rheumatoid arthritis", "breast fibrocystic disease", "benign mammary dysplasia"]
 ---
 
 # Warfarin

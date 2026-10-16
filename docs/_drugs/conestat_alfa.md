@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 549
 evidence_level: L1
 indication_count: 10
+monitor_inn: "CONESTAT ALFA"
+predicted_indications: ["C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "hereditary angioedema with C1Inh deficiency", "primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "hemorrhagic disorder due to a constitutional thrombocytopenia", "bleeding diathesis due to a collagen receptor defect", "fetal and neonatal alloimmune thrombocytopenia"]
 ---
 
 # Conestat Alfa

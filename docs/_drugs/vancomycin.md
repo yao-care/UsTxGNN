@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1283
 evidence_level: L5
 indication_count: 10
+monitor_inn: "VANCOMYCIN"
+predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "congenital analbuminemia", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "typhoid fever", "blood group incompatibility", "streptococcal pneumonia", "premalignant hematological system disease"]
 ---
 
 # Vancomycin

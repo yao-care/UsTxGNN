@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1159
 evidence_level: L5
 indication_count: 4
+monitor_inn: "SILICON DIOXIDE"
+predicted_indications: ["active peptic ulcer disease", "peptic ulcer perforation", "gastrojejunal ulcer", "gastric ulcer (disease)"]
 ---
 
 # Silicon Dioxide

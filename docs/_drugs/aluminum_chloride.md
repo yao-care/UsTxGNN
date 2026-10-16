@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 271
 evidence_level: L5
 indication_count: 10
+monitor_inn: "ALUMINUM CHLORIDE"
+predicted_indications: ["seborrheic keratosis", "congenital prothrombin deficiency", "seborrheic dermatitis", "acne (disease)", "vulvar inverted follicular keratosis", "skin disease", "dry eye syndrome", "eye disease", "von Hippel anomaly", "chronic relapsing inflammatory optic neuropathy"]
 ---
 
 # Aluminum Chloride

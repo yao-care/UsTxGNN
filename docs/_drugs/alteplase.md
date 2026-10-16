@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 270
 evidence_level: L4
 indication_count: 9
+monitor_inn: "ALTEPLASE"
+predicted_indications: ["posterolateral myocardial infarction", "posteroinferior myocardial infarction", "septal myocardial infarction", "heparin cofactor 2 deficiency", "congenital coronary artery anomaly", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "coronary stenosis"]
 ---
 
 # Alteplase

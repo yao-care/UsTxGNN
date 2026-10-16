@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1080
 evidence_level: L5
 indication_count: 5
+monitor_inn: "PRETOMANID"
+predicted_indications: ["candidiasis", "leprosy", "coronary artery disease", "myocardial ischemia", "anomalous left coronary artery from the pulmonary artery"]
 ---
 
 # Pretomanid

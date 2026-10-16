@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 1163
 evidence_level: L1
 indication_count: 8
+monitor_inn: "SIMVASTATIN"
+predicted_indications: ["familial hypercholesterolemia", "brain stem infarction", "cholesterol-ester transfer protein deficiency", "hypercholesterolemia, autosomal dominant", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 ---
 
 # Simvastatin

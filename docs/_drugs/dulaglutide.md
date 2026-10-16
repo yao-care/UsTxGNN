@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 632
 evidence_level: L5
 indication_count: 10
+monitor_inn: "Dulaglutide"
+predicted_indications: ["opsismodysplasia", "classic stiff person syndrome", "focal stiff limb syndrome", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "pancreatic agenesis", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "autoimmune oophoritis"]
 ---
 
 # Dulaglutide

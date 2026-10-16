@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 613
 evidence_level: L5
 indication_count: 10
+monitor_inn: "DIPYRIDAMOLE"
+predicted_indications: ["Prinzmetal angina", "stroke disorder", "thrombotic disease", "sick sinus syndrome 2, autosomal dominant", "transient ischemic attack (disease)", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "cavernous sinus thrombosis", "lateral sinus thrombosis"]
 ---
 
 # Dipyridamole

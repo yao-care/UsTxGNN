@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 557
 evidence_level: L5
 indication_count: 7
+monitor_inn: "CYCLOSERINE"
+predicted_indications: ["irritable bowel syndrome", "acne (disease)", "gastroparesis (disease)", "conjunctivitis", "insomnia (disease)", "pharyngitis", "nasal cavity disease"]
 ---
 
 # Cycloserine

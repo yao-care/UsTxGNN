@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 569
 evidence_level: L1
 indication_count: 1
+monitor_inn: "DAPSONE"
+predicted_indications: ["pneumocystosis"]
 ---
 
 # Dapsone

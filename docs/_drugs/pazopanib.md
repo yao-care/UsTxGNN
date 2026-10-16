@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1018
 evidence_level: L5
 indication_count: 10
+monitor_inn: "PAZOPANIB"
+predicted_indications: ["renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "renal cell carcinoma associated with neuroblastoma", "unclassified renal cell carcinoma", "liposarcoma", "childhood kidney cell carcinoma", "ovarian myxoid liposarcoma", "heart fibrosarcoma", "fibroblastic neoplasm", "kidney fibrosarcoma", "dermatofibrosarcoma protuberans"]
 ---
 
 # Pazopanib

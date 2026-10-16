@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 994
 evidence_level: L5
 indication_count: 7
+monitor_inn: "OMIDENEPAG ISOPROPYL"
+predicted_indications: ["pancreatitis", "hyperphosphatemia (disease)", "esophageal varices without bleeding", "esophageal varices with bleeding", "blepharospasm", "familial visceral myopathy", "alcoholic cardiomyopathy"]
 ---
 
 # Omidenepag Isopropyl

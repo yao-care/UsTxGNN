@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 954
 evidence_level: L5
 indication_count: 4
+monitor_inn: "NAPROXEN"
+predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome"]
 ---
 
 # Naproxen

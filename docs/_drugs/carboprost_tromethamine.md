@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 498
 evidence_level: L5
 indication_count: 10
+monitor_inn: "CARBOPROST TROMETHAMINE"
+predicted_indications: ["atypical coarctation of aorta", "aortic malformation", "migraine with brainstem aura", "migraine disorder", "pulmonary hypertension", "non-syndromic esophageal malformation", "kyphoscoliotic heart disease", "amenorrhea (disease)", "esophageal disease", "primary hereditary glaucoma"]
 ---
 
 # Carboprost Tromethamine

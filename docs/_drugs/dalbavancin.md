@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 565
 evidence_level: L5
 indication_count: 10
+monitor_inn: "DALBAVANCIN"
+predicted_indications: ["postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "otitis externa", "ophthalmic herpes zoster", "infectious mononucleosis", "orbital cellulitis"]
 ---
 
 # Dalbavancin

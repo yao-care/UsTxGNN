@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 392
 evidence_level: L4
 indication_count: 1
+monitor_inn: "APIXABAN"
+predicted_indications: ["migraine disorder"]
 ---
 
 # Apixaban

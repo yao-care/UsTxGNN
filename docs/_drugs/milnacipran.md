@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 930
 evidence_level: L3
 indication_count: 10
+monitor_inn: "MILNACIPRAN"
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "tendinitis", "papillary conjunctivitis", "idiopathic granulomatous myositis", "myositis fibrosa", "inclusion body myositis", "atrophoderma vermiculata", "migraine with or without aura, susceptibility to", "cauda equina syndrome"]
 ---
 
 # Milnacipran

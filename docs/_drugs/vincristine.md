@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1293
 evidence_level: L3
 indication_count: 3
+monitor_inn: "VINCRISTINE"
+predicted_indications: ["ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
 ---
 
 # Vincristine

@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Alpha -Tocopherol Acetate Dl- Ascorbic Acid Biotin
 parent: Model Prediction Only (L5)
 nav_order: 233
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Alpha -Tocopherol Acetate Dl- Ascorbic Acid Biotin

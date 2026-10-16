@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 961
 evidence_level: L1
 indication_count: 10
+monitor_inn: "NEPAFENAC"
+predicted_indications: ["eye disease", "optic papillitis", "hypotrichosis simplex of the scalp", "seborrheic keratosis", "von Hippel anomaly", "congenital hypotrichosis milia", "mcpherson robertson cammarano syndrome", "lagophthalmos", "vulvar inverted follicular keratosis", "vitreous detachment"]
 ---
 
 # Nepafenac

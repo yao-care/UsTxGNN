@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 755
 evidence_level: L5
 indication_count: 10
+monitor_inn: "GLUCARPIDASE"
+predicted_indications: ["diabetic cataract", "diabetic retinopathy", "tetanic cataract", "mature cataract", "immature cataract", "craniostenosis cataract", "diabetes mellitus type 2 associated cataract", "cortical cataract", "nuclear senile cataract", "senile cataract"]
 ---
 
 # Glucarpidase

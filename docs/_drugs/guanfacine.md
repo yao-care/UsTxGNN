@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 764
 evidence_level: L5
 indication_count: 7
+monitor_inn: "GUANFACINE"
+predicted_indications: ["faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "trichotillomania", "manic bipolar affective disorder", "restless legs syndrome", "Tourette syndrome"]
 ---
 
 # Guanfacine

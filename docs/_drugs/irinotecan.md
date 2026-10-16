@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 810
 evidence_level: L3
 indication_count: 1
+monitor_inn: "IRINOTECAN"
+predicted_indications: ["female breast carcinoma"]
 ---
 
 # Irinotecan

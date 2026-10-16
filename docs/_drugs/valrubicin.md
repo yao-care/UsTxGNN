@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1281
 evidence_level: L5
 indication_count: 10
+monitor_inn: "VALRUBICIN"
+predicted_indications: ["colonic neoplasm", "rectosigmoid junction neoplasm", "colonic lymphangioma", "lipoma of colon", "cecum villous adenoma", "cecum neuroendocrine tumor G1", "cecal disease", "benign neoplasm of cecum", "colon leiomyoma", "cavernous hemangioma of colon"]
 ---
 
 # Valrubicin

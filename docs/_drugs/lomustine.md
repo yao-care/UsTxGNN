@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 867
 evidence_level: L2
 indication_count: 10
+monitor_inn: "LOMUSTINE"
+predicted_indications: ["lymphosarcoma", "malignant tumor of meninges", "spinal cord cancer", "cerebral neuroblastoma", "pediatric cerebral ependymoblastoma", "pediatric infratentorial ependymoblastoma", "childhood brain germinoma", "cerebellopontine angle embryonal tumor", "lymph node cancer", "cerebral sarcoma"]
 ---
 
 # Lomustine

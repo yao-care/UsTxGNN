@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 794
 evidence_level: L5
 indication_count: 10
+monitor_inn: "INCLISIRAN"
+predicted_indications: ["potassium deficiency disease", "esophageal disease", "atypical coarctation of aorta", "migraine disorder", "non-syndromic esophageal malformation", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "aortic malformation", "esophageal ulcer", "Raynaud disease"]
 ---
 
 # Inclisiran

@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 906
 evidence_level: L4
 indication_count: 7
+monitor_inn: "METHADONE"
+predicted_indications: ["Tourette syndrome", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "headache disorder", "manic bipolar affective disorder", "trigeminal autonomic cephalalgia", "common cold"]
 ---
 
 # Methadone

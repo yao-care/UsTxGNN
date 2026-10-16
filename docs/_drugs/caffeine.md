@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 484
 evidence_level: L5
 indication_count: 10
+monitor_inn: "CAFFEINE"
+predicted_indications: ["nasal cavity disease", "thrombotic disease", "acute laryngopharyngitis", "papillary conjunctivitis", "neuralgia", "glossodynia", "coccygodynia", "trigeminal autonomic cephalalgia", "hypnic headache (disease)", "vein disease"]
 ---
 
 # Caffeine

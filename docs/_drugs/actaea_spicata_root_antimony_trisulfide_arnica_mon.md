@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Actaea Spicata Root Antimony Trisulfide Arnica Mon
 parent: Model Prediction Only (L5)
 nav_order: 152
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Actaea Spicata Root Antimony Trisulfide Arnica Mon

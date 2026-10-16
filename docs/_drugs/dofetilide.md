@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 619
 evidence_level: L4
 indication_count: 10
+monitor_inn: "DOFETILIDE"
+predicted_indications: ["stroke disorder", "obsolete susceptibility to ischemic stroke", "ABri amyloidosis", "sick sinus syndrome 2, autosomal dominant", "Wildervanck syndrome", "sarcoglycanopathy", "duodenal obstruction", "brain stem infarction", "macrocephaly, dysmorphic facies, and psychomotor retardation", "cerebrovascular disorder"]
 ---
 
 # Dofetilide

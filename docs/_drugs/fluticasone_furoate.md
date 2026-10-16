@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 730
 evidence_level: L4
 indication_count: 8
+monitor_inn: "FLUTICASONE FUROATE"
+predicted_indications: ["atopic eczema", "bronchitis", "2-hydroxyethyl methacrylate sensitization", "dermatitis, atopic", "contact dermatitis", "asthma-related traits, susceptibility to", "occupational dermatitis", "phototoxic dermatitis"]
 ---
 
 # Fluticasone Furoate

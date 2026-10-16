@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 791
 evidence_level: L4
 indication_count: 5
+monitor_inn: "IMIGLUCERASE"
+predicted_indications: ["Hurler syndrome", "Scheie syndrome", "benign neoplasm of adrenal gland", "autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease"]
 ---
 
 # Imiglucerase

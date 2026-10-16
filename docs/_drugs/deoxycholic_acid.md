@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 583
 evidence_level: L5
 indication_count: 3
+monitor_inn: "DEOXYCHOLIC ACID"
+predicted_indications: ["autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy"]
 ---
 
 # Deoxycholic Acid

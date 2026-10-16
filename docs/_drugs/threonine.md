@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1224
 evidence_level: L5
 indication_count: 1
+monitor_inn: "THREONINE"
+predicted_indications: ["gastroparesis (disease)"]
 ---
 
 # Threonine

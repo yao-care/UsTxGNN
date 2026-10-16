@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1153
 evidence_level: L5
 indication_count: 3
+monitor_inn: "Selpercatinib"
+predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura"]
 ---
 
 # Selpercatinib

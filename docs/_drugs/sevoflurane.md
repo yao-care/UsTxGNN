@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1158
 evidence_level: L5
 indication_count: 10
+monitor_inn: "SEVOFLURANE"
+predicted_indications: ["Prinzmetal angina", "Tourette syndrome", "fibromyalgia", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "migraine disorder", "inclusion body myositis"]
 ---
 
 # Sevoflurane

@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 593
 evidence_level: L1
 indication_count: 10
+monitor_inn: "DEXLANSOPRAZOLE"
+predicted_indications: ["active peptic ulcer disease", "gastrojejunal ulcer", "peptic ulcer perforation", "gastric ulcer (disease)", "gastroduodenitis", "duodenal obstruction", "duodenogastric reflux", "duodenal ulcer (disease)", "achlorhydria", "leather-bottle stomach"]
 ---
 
 # Dexlansoprazole

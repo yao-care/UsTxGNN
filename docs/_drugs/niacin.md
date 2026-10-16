@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 963
 evidence_level: L4
 indication_count: 1
+monitor_inn: "NIACIN"
+predicted_indications: ["homozygous familial hypercholesterolemia"]
 ---
 
 # Niacin

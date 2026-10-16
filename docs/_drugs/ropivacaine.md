@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1135
 evidence_level: L3
 indication_count: 4
+monitor_inn: "ROPIVACAINE"
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "nephrogenic syndrome of inappropriate antidiuresis", "dysthymic disorder"]
 ---
 
 # Ropivacaine

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 709
 evidence_level: L5
 indication_count: 8
+monitor_inn: "FLAVOXATE"
+predicted_indications: ["attention deficit hyperactivity disorder, inattentive type", "irritable bowel syndrome", "specific developmental disorder", "attention deficit-hyperactivity disorder", "cauda equina syndrome", "obsolete neurogenic bladder (disease)", "gastroduodenitis", "peptic ulcer disease"]
 ---
 
 # Flavoxate

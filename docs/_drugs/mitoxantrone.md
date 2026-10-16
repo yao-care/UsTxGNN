@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 937
 evidence_level: L3
 indication_count: 8
+monitor_inn: "MITOXANTRONE"
+predicted_indications: ["upper aerodigestive tract neoplasm", "small cell lung carcinoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "chronic myelogenous leukemia, BCR-ABL1 positive", "head and neck cancer", "bladder exstrophy-epispadias-cloacal exstrophy complex"]
 ---
 
 # Mitoxantrone

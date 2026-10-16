@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 589
 evidence_level: L4
 indication_count: 10
+monitor_inn: "DESVENLAFAXINE"
+predicted_indications: ["obsessive-compulsive disorder", "paranoid personality disorder", "schizoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "Ohdo syndrome and variants", "benign paroxysmal torticollis of infancy", "dysthymic disorder", "agoraphobia", "melancholia"]
 ---
 
 # Desvenlafaxine

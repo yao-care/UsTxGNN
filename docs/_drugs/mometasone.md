@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 941
 evidence_level: L5
 indication_count: 1
+monitor_inn: "MOMETASONE"
+predicted_indications: ["primary cutaneous T-cell lymphoma"]
 ---
 
 # Mometasone

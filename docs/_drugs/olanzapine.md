@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 985
 evidence_level: L5
 indication_count: 3
+monitor_inn: "OLANZAPINE"
+predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "dysthymic disorder"]
 ---
 
 # Olanzapine

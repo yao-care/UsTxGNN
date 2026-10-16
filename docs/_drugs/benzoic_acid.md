@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 448
 evidence_level: L5
 indication_count: 10
+monitor_inn: "BENZOIC ACID"
+predicted_indications: ["bronchitis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "dry eye syndrome", "palmar fibromatosis", "Ledderhose disease", "infantile digital fibromatosis", "hereditary angioedema with C1Inh deficiency", "posterior leukoencephalopathy syndrome", "C1 inhibitor deficiency"]
 ---
 
 # Benzoic Acid

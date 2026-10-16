@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 702
 evidence_level: L5
 indication_count: 3
+monitor_inn: "FERRIC MALTOL"
+predicted_indications: ["Plummer-Vinson syndrome", "vitamin B12- and folate-independent constitutional megaloblastic anemia", "IRIDA syndrome"]
 ---
 
 # Ferric Maltol

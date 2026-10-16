@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 510
 evidence_level: L5
 indication_count: 10
+monitor_inn: "CELECOXIB"
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "rheumatoid vasculitis", "myosclerosis", "hypermobility of coccyx", "brachyolmia", "rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "inflammatory spondylopathy", "WHIM syndrome"]
 ---
 
 # Celecoxib

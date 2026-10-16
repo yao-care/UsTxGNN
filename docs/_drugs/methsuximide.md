@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 914
 evidence_level: L5
 indication_count: 10
+monitor_inn: "METHSUXIMIDE"
+predicted_indications: ["insomnia (disease)", "nephrogenic syndrome of inappropriate antidiuresis", "sleep disorder, initiating and maintaining sleep", "nephrogenic diabetes insipidus", "acute encephalopathy with biphasic seizures and late reduced diffusion", "epilepsy, childhood absence, susceptibility to", "restless legs syndrome", "trichotillomania", "familial mesial temporal lobe epilepsy with febrile seizures", "Wernicke-Korsakoff syndrome"]
 ---
 
 # Methsuximide

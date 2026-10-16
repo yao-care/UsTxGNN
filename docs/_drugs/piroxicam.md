@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1050
 evidence_level: L5
 indication_count: 10
+monitor_inn: "PIROXICAM"
+predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "WHIM syndrome", "rheumatoid nodulosis", "juvenile idiopathic arthritis"]
 ---
 
 # Piroxicam

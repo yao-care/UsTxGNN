@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 1013
 evidence_level: L1
 indication_count: 6
+monitor_inn: "PANTOPRAZOLE"
+predicted_indications: ["active peptic ulcer disease", "peptic ulcer perforation", "gastrojejunal ulcer", "duodenogastric reflux", "duodenal obstruction", "duodenal ulcer (disease)"]
 ---
 
 # Pantoprazole

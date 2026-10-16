@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 226
 evidence_level: L5
 indication_count: 6
+monitor_inn: "ALOSETRON"
+predicted_indications: ["migraine disorder", "leprosy", "migraine with brainstem aura", "nephrogenic syndrome of inappropriate antidiuresis", "headache disorder", "migraine with or without aura, susceptibility to"]
 ---
 
 # Alosetron

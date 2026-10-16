@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1092
 evidence_level: L5
 indication_count: 6
+monitor_inn: "PROPRANOLOL"
+predicted_indications: ["distal myopathy, Tateyama type", "congenital myopathy with excess of thin filaments", "hypertrophic cardiomyopathy due to intensive athletic training", "chondroma", "cirrhotic cardiomyopathy", "cardiomyopathy"]
 ---
 
 # Propranolol

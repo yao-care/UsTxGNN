@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 778
 evidence_level: L4
 indication_count: 4
+monitor_inn: "HYDROQUINONE"
+predicted_indications: ["seborrheic keratosis", "vulvar inverted follicular keratosis", "exanthem (disease)", "lichen disease"]
 ---
 
 # Hydroquinone

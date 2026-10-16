@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 781
 evidence_level: L5
 indication_count: 10
+monitor_inn: "HYDROXYUREA"
+predicted_indications: ["female breast carcinoma", "sickle cell-hemoglobin E disease syndrome", "sickle cell-beta-thalassemia disease syndrome", "sickle cell-hemoglobin d disease syndrome", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome", "sickle cell-hemoglobin c disease syndrome", "cervical adenosarcoma", "colon mucinous adenocarcinoma", "rectum mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma"]
 ---
 
 # Hydroxyurea

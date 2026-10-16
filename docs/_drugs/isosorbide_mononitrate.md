@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 816
 evidence_level: L5
 indication_count: 10
+monitor_inn: "ISOSORBIDE MONONITRATE"
+predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "alopecia", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "pulmonary arterial hypertension"]
 ---
 
 # Isosorbide Mononitrate

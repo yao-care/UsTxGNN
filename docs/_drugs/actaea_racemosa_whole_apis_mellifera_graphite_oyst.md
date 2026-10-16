@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Actaea Racemosa Whole Apis Mellifera Graphite Oyst
 parent: Model Prediction Only (L5)
 nav_order: 147
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Actaea Racemosa Whole Apis Mellifera Graphite Oyst

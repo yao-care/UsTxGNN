@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Acetaldehyde Agathosma Betulina Leaf Apis Mellifer
 parent: Model Prediction Only (L5)
 nav_order: 88
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Acetaldehyde Agathosma Betulina Leaf Apis Mellifer

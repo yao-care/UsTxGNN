@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 533
 evidence_level: L5
 indication_count: 7
+monitor_inn: "CLADRIBINE"
+predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "liver sarcoma"]
 ---
 
 # Cladribine

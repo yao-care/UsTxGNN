@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 422
 evidence_level: L4
 indication_count: 9
+monitor_inn: "ATENOLOL"
+predicted_indications: ["posteroinferior myocardial infarction", "posterolateral myocardial infarction", "malignant hypertensive renal disease", "malignant renovascular hypertension", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "septal myocardial infarction", "Braddock syndrome", "chronic pulmonary heart disease"]
 ---
 
 # Atenolol

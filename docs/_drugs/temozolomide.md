@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 1209
 evidence_level: L1
 indication_count: 2
+monitor_inn: "TEMOZOLOMIDE"
+predicted_indications: ["adult astrocytic tumour", "cauda equina neoplasm"]
 ---
 
 # Temozolomide

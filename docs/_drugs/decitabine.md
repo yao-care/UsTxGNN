@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 576
 evidence_level: L4
 indication_count: 1
+monitor_inn: "DECITABINE"
+predicted_indications: ["refractory cytopenia of childhood"]
 ---
 
 # Decitabine

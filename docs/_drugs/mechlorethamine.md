@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 892
 evidence_level: L3
 indication_count: 3
+monitor_inn: "MECHLORETHAMINE"
+predicted_indications: ["lymph node cancer", "relapsing-remitting multiple sclerosis", "follicular lymphoma"]
 ---
 
 # Mechlorethamine

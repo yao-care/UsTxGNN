@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 797
 evidence_level: L1
 indication_count: 6
+monitor_inn: "INSULIN DEGLUDEC"
+predicted_indications: ["type 1 diabetes mellitus", "autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome"]
 ---
 
 # Insulin Degludec

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1139
 evidence_level: L5
 indication_count: 8
+monitor_inn: "Rutin"
+predicted_indications: ["breast fibrocystic disease", "apocrine adenosis of breast", "blunt duct adenosis of breast", "benign mammary dysplasia", "vulvovaginal candidiasis", "breast abscess", "fat necrosis of breast", "vaginitis (disease)"]
 ---
 
 # Rutin

@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 476
 evidence_level: L4
 indication_count: 1
+monitor_inn: "BUMETANIDE"
+predicted_indications: ["acute pulmonary heart disease"]
 ---
 
 # Bumetanide

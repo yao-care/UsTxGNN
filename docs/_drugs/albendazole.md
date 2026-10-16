@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 218
 evidence_level: L2
 indication_count: 3
+monitor_inn: "ALBENDAZOLE"
+predicted_indications: ["alveolar echinococcosis", "coenurosis", "Cestode infectious disease"]
 ---
 
 # Albendazole

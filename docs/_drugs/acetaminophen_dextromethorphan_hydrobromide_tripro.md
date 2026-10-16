@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Acetaminophen Dextromethorphan Hydrobromide Tripro
 parent: Model Prediction Only (L5)
 nav_order: 118
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Acetaminophen Dextromethorphan Hydrobromide Tripro

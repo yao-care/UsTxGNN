@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 809
 evidence_level: L5
 indication_count: 4
+monitor_inn: "IRBESARTAN"
+predicted_indications: ["malignant renovascular hypertension", "malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
 ---
 
 # Irbesartan

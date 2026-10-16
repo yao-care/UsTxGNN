@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 464
 evidence_level: L1
 indication_count: 6
+monitor_inn: "BLEOMYCIN"
+predicted_indications: ["cauda equina neoplasm", "adult astrocytic tumour", "reticulum cell sarcoma", "primary pulmonary lymphoma", "pulmonary blastoma", "well-differentiated fetal adenocarcinoma of the lung"]
 ---
 
 # Bleomycin

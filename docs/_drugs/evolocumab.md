@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 688
 evidence_level: L5
 indication_count: 6
+monitor_inn: "EVOLOCUMAB"
+predicted_indications: ["symptomatic form of hemophilia in female carriers", "familial apolipoprotein C-II deficiency", "thrombocytopenic purpura", "factor XI deficiency", "hemophilia A with vascular abnormality", "disease of catalytic activity"]
 ---
 
 # Evolocumab

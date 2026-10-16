@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 897
 evidence_level: L5
 indication_count: 4
+monitor_inn: "MEMANTINE"
+predicted_indications: ["pulmonary hypertension", "migraine disorder", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
 ---
 
 # Memantine

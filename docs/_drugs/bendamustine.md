@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 444
 evidence_level: L1
 indication_count: 10
+monitor_inn: "BENDAMUSTINE"
+predicted_indications: ["mantle cell lymphoma", "chronic myelogenous leukemia, BCR-ABL1 positive", "Hodgkins lymphoma", "small intestinal Burkitt lymphoma", "small intestinal mucosa-associated lymphoid tissue lymphoma", "thyroid gland mucosa-associated lymphoid tissue lymphoma", "breast mucosa-associated lymphoid tissue lymphoma", "tonsillar lymphoma", "MALT lymphoma", "relapsing-remitting multiple sclerosis"]
 ---
 
 # Bendamustine

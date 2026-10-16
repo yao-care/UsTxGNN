@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 648
 evidence_level: L5
 indication_count: 10
+monitor_inn: "EMAPALUMAB"
+predicted_indications: ["autosomal recessive familial Mediterranean fever", "acquired hemophagocytic lymphohistiocytosis associated with malignant disease", "hemophagocytic syndrome associated with an infection", "hepatic infarction", "hepatic veno-occlusive disease", "X-linked lymphoproliferative disease due to SH2D1A deficiency", "familial Mediterranean fever", "A20 haploinsufficiency", "immune dysregulation with inflammatory bowel disease", "peliosis hepatis"]
 ---
 
 # Emapalumab

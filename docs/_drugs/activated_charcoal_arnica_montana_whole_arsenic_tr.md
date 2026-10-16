@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Activated Charcoal Arnica Montana Whole Arsenic Tr
 parent: Model Prediction Only (L5)
 nav_order: 204
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Activated Charcoal Arnica Montana Whole Arsenic Tr

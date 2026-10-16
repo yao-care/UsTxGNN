@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 823
 evidence_level: L1
 indication_count: 10
+monitor_inn: "Ixekizumab"
+predicted_indications: ["rheumatoid vasculitis", "acute lymphoblastic/lymphocytic leukemia", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "polyarticular juvenile rheumatoid arthritis", "vertebral disease", "fibromatosis, gingival"]
 ---
 
 # Ixekizumab

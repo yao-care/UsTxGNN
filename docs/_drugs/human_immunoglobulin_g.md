@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 773
 evidence_level: L5
 indication_count: 3
+monitor_inn: "HUMAN IMMUNOGLOBULIN G"
+predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "drug-induced osteoporosis"]
 ---
 
 # Human Immunoglobulin G

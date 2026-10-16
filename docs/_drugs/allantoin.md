@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 224
 evidence_level: L5
 indication_count: 8
+monitor_inn: "ALLANTOIN"
+predicted_indications: ["severe nonproliferative diabetic retinopathy", "acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "acne keloid", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis", "hydroa vacciniforme, familial", "exanthem (disease)"]
 ---
 
 # Allantoin

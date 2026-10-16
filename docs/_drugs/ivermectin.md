@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 821
 evidence_level: L5
 indication_count: 9
+monitor_inn: "IVERMECTIN"
+predicted_indications: ["vulvovaginal candidiasis", "esophageal candidiasis", "anogenital human papillomavirus infection", "vulvovaginitis", "neonatal candidiasis", "candida glabrata", "congenital candidiasis", "postmenopausal atrophic vaginitis", "candidiasis, invasive"]
 ---
 
 # Ivermectin

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1030
 evidence_level: L5
 indication_count: 7
+monitor_inn: "PENTOSTATIN"
+predicted_indications: ["botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "liver sarcoma"]
 ---
 
 # Pentostatin

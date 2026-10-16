@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 591
 evidence_level: L4
 indication_count: 7
+monitor_inn: "DEXBROMPHENIRAMINE"
+predicted_indications: ["allergic urticaria", "cold urticaria", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "nasal cavity disease", "acute laryngopharyngitis", "pharyngitis"]
 ---
 
 # Dexbrompheniramine

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 665
 evidence_level: L5
 indication_count: 6
+monitor_inn: "ERDAFITINIB"
+predicted_indications: ["pulmonary hypertension", "kyphoscoliotic heart disease", "amenorrhea (disease)", "rheumatoid arthritis", "amyotrophic lateral sclerosis", "brachydactyly-syndactyly syndrome"]
 ---
 
 # Erdafitinib

@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Androctonus Australis Whole Calcium Fluoride Viscu
 parent: Model Prediction Only (L5)
 nav_order: 350
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Androctonus Australis Whole Calcium Fluoride Viscu

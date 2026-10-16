@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1073
 evidence_level: L5
 indication_count: 10
+monitor_inn: "PRALATREXATE"
+predicted_indications: ["pleural adenomatoid tumor", "relapsing-remitting multiple sclerosis", "pleural biphasic mesothelioma", "pleural epithelioid mesothelioma", "lymphohistiocytoid mesothelioma", "pericardium cancer", "pleural sarcomatoid mesothelioma", "malignant peritoneal mesothelioma", "well differentiated papillary mesothelioma", "pleural mesothelioma"]
 ---
 
 # Pralatrexate

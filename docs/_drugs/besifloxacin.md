@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 453
 evidence_level: L5
 indication_count: 8
+monitor_inn: "BESIFLOXACIN"
+predicted_indications: ["bronchitis", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "otitis externa"]
 ---
 
 # Besifloxacin

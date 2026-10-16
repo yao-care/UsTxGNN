@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1102
 evidence_level: L5
 indication_count: 1
+monitor_inn: "QUINIDINE"
+predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
 ---
 
 # Quinidine

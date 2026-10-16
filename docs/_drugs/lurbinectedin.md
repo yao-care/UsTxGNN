@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 879
 evidence_level: L5
 indication_count: 10
+monitor_inn: "LURBINECTEDIN"
+predicted_indications: ["multiple endocrine neoplasia", "HIV infectious disease", "rheumatoid arthritis", "amyotrophic lateral sclerosis", "cytomegalovirus infection", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "malignant catarrh", "infectious bovine rhinotracheitis", "Mills syndrome"]
 ---
 
 # Lurbinectedin

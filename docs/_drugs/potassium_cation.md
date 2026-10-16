@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1068
 evidence_level: L5
 indication_count: 6
+monitor_inn: "POTASSIUM CATION"
+predicted_indications: ["hypertensive disorder", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "malignant renovascular hypertension", "Braddock syndrome"]
 ---
 
 # Potassium Cation

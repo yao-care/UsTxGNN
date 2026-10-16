@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: 2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aluminum Oxide
 parent: Model Prediction Only (L5)
 nav_order: 22
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # 2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aluminum Oxide

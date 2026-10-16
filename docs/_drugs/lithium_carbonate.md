@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 865
 evidence_level: L5
 indication_count: 10
+monitor_inn: "LITHIUM CARBONATE"
+predicted_indications: ["pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia", "myosclerosis", "brachyolmia-amelogenesis imperfecta syndrome", "brachydactyly-syndactyly syndrome", "Behr syndrome", "WHIM syndrome", "combined immunodeficiency due to moesin deficiency"]
 ---
 
 # Lithium Carbonate

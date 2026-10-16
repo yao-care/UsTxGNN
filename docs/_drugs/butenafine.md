@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 481
 evidence_level: L4
 indication_count: 5
+monitor_inn: "BUTENAFINE"
+predicted_indications: ["cutaneous candidiasis", "superficial mycosis", "endothrix infectious disease", "ectothrix infectious disease", "Majocchi granuloma"]
 ---
 
 # Butenafine

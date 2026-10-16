@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 876
 evidence_level: L4
 indication_count: 7
+monitor_inn: "LULICONAZOLE"
+predicted_indications: ["pityriasis versicolor", "superficial mycosis", "cutaneous candidiasis", "endothrix infectious disease", "dermatophytosis of scalp or beard", "Majocchi granuloma", "ectothrix infectious disease"]
 ---
 
 # Luliconazole

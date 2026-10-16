@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 991
 evidence_level: L3
 indication_count: 10
+monitor_inn: "OMADACYCLINE"
+predicted_indications: ["Mycoplasma pneumoniae pneumonia", "drug-induced osteoporosis", "orbital cellulitis", "post-infectious syndrome", "postinfectious vasculitis", "post-bacterial disorder", "ophthalmic herpes zoster", "otitis externa", "infective urethral stricture", "infection-related hemolytic uremic syndrome"]
 ---
 
 # Omadacycline

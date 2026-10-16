@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Acer Negundo Pollen Acer Rubrum Pollen Acer Saccha
 parent: Model Prediction Only (L5)
 nav_order: 67
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Acer Negundo Pollen Acer Rubrum Pollen Acer Saccha

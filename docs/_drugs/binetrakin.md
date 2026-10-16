@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 460
 evidence_level: L5
 indication_count: 9
+monitor_inn: "BINETRAKIN"
+predicted_indications: ["craniostenosis cataract", "mature cataract", "diabetes mellitus type 2 associated cataract", "immature cataract", "tetanic cataract", "nuclear senile cataract", "cortical cataract", "diabetic cataract", "senile cataract"]
 ---
 
 # Binetrakin

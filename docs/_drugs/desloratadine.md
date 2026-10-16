@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 585
 evidence_level: L5
 indication_count: 6
+monitor_inn: "DESLORATADINE"
+predicted_indications: ["cold urticaria", "nasal cavity disease", "acute laryngopharyngitis", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "rosacea conjunctivitis"]
 ---
 
 # Desloratadine

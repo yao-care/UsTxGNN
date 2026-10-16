@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1136
 evidence_level: L5
 indication_count: 10
+monitor_inn: "ROSUVASTATIN"
+predicted_indications: ["cholesterol-ester transfer protein deficiency", "familial hypercholesterolemia", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "brain stem infarction", "HIV infectious disease", "hypoalphalipoproteinemia", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hyperlipidemia due to hepatic triglyceride lipase deficiency", "ABri amyloidosis", "hyperlipidemia"]
 ---
 
 # Rosuvastatin

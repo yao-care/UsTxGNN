@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 932
 evidence_level: L5
 indication_count: 2
+monitor_inn: "MINOCYCLINE"
+predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis"]
 ---
 
 # Minocycline

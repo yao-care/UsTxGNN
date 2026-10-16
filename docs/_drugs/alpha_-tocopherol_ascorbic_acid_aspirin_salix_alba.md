@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Alpha -Tocopherol Ascorbic Acid Aspirin Salix Alba
 parent: Model Prediction Only (L5)
 nav_order: 245
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Alpha -Tocopherol Ascorbic Acid Aspirin Salix Alba

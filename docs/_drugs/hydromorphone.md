@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 777
 evidence_level: L4
 indication_count: 6
+monitor_inn: "HYDROMORPHONE"
+predicted_indications: ["pharyngitis", "allergic urticaria", "nasal cavity disease", "acute laryngopharyngitis", "headache disorder", "trigeminal autonomic cephalalgia"]
 ---
 
 # Hydromorphone

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 929
 evidence_level: L5
 indication_count: 10
+monitor_inn: "MIGLUSTAT"
+predicted_indications: ["autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease", "Krabbe disease", "metachromatic leukodystrophy", "Wolman disease with hypolipoproteinemia and acanthocytosis", "encephalopathy due to prosaposin deficiency", "Tay-Sachs disease", "benign neoplasm of adrenal gland", "recessive X-linked ichthyosis", "fatty acid hydroxylase-associated neurodegeneration"]
 ---
 
 # Miglustat

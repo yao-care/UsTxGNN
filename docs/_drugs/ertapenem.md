@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 668
 evidence_level: L4
 indication_count: 2
+monitor_inn: "ERTAPENEM"
+predicted_indications: ["bacterial arthritis", "staphylococcus aureus infection"]
 ---
 
 # Ertapenem

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 746
 evidence_level: L5
 indication_count: 10
+monitor_inn: "GARLIC"
+predicted_indications: ["gastrin secretion abnormality", "endometriosis of uterus", "cerebral infarction", "renal hypoplasia, bilateral", "multiple endocrine neoplasia", "renal hypoplasia (disease)", "gelatinous drop-like corneal dystrophy", "HIV infectious disease", "cervix endometriosis", "endometriosis of rectovaginal septum and vagina"]
 ---
 
 # Garlic

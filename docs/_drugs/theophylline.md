@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1220
 evidence_level: L5
 indication_count: 7
+monitor_inn: "THEOPHYLLINE"
+predicted_indications: ["thrombotic disease", "nasal cavity disease", "laryngotracheitis", "tracheal disease", "obstructive lung disease", "pharyngitis", "acute laryngopharyngitis"]
 ---
 
 # Theophylline

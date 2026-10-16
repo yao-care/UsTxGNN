@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 978
 evidence_level: L4
 indication_count: 10
+monitor_inn: "NYSTATIN"
+predicted_indications: ["vulvovaginitis", "disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
 ---
 
 # Nystatin

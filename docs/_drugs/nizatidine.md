@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 975
 evidence_level: L5
 indication_count: 7
+monitor_inn: "NIZATIDINE"
+predicted_indications: ["active peptic ulcer disease", "gastrojejunal ulcer", "peptic ulcer perforation", "duodenal obstruction", "duodenogastric reflux", "gastroduodenitis", "multiple endocrine neoplasia"]
 ---
 
 # Nizatidine

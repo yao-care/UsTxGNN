@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 437
 evidence_level: L5
 indication_count: 2
+monitor_inn: "BACLOFEN"
+predicted_indications: ["attention deficit-hyperactivity disorder", "nicotine dependence"]
 ---
 
 # Baclofen

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 630
 evidence_level: L5
 indication_count: 10
+monitor_inn: "DROPERIDOL"
+predicted_indications: ["Tourette syndrome", "trichotillomania", "manic bipolar affective disorder", "attention deficit hyperactivity disorder, inattentive type", "nephrogenic syndrome of inappropriate antidiuresis", "attention deficit-hyperactivity disorder", "headache disorder", "common cold", "hypertrichosis (disease)", "specific developmental disorder"]
 ---
 
 # Droperidol

@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 465
 evidence_level: L4
 indication_count: 9
+monitor_inn: "BOSENTAN"
+predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "limited systemic sclerosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "pseudoxanthoma elasticum, forme fruste", "kyphoscoliotic heart disease", "elastoma", "gout", "hypertrichosis (disease)"]
 ---
 
 # Bosentan

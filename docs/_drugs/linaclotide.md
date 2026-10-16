@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 861
 evidence_level: L5
 indication_count: 3
+monitor_inn: "LINACLOTIDE"
+predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "insomnia (disease)"]
 ---
 
 # Linaclotide

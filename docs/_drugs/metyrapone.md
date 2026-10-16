@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 922
 evidence_level: L5
 indication_count: 10
+monitor_inn: "METYRAPONE"
+predicted_indications: ["exercise-induced malignant hyperthermia", "malignant hyperthermia, susceptibility to", "King-Denborough syndrome", "central core myopathy", "moderate multiminicore disease with hand involvement", "congenital multicore myopathy with external ophthalmoplegia", "myopathy, centronuclear", "familial periodic paralysis", "renal tubular acidosis", "malignant hyperthermia of anesthesia"]
 ---
 
 # Metyrapone

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1286
 evidence_level: L5
 indication_count: 10
+monitor_inn: "VENETOCLAX"
+predicted_indications: ["chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "Hodgkins lymphoma", "myeloid leukemia", "chronic myelogenous leukemia, BCR-ABL1 positive", "Ewing sarcoma", "follicular lymphoma", "metastatic neoplasm", "malignant spiradenoma", "acute myeloid leukemia with t(8;21)(q22;q22) translocation"]
 ---
 
 # Venetoclax

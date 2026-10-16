@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Acerola Amanita Muscaria Fruiting Body Ascorbic Ac
 parent: Model Prediction Only (L5)
 nav_order: 81
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Acerola Amanita Muscaria Fruiting Body Ascorbic Ac

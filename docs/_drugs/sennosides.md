@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1155
 evidence_level: L5
 indication_count: 6
+monitor_inn: "SENNOSIDES"
+predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "open-angle glaucoma", "primary hereditary glaucoma", "alopecia"]
 ---
 
 # Sennosides

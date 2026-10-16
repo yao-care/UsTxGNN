@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1290
 evidence_level: L5
 indication_count: 10
+monitor_inn: "VILAZODONE"
+predicted_indications: ["dysthymic disorder", "neurotic disorder", "neurotic depression", "melancholia", "obsessive-compulsive disorder", "agoraphobia", "benign paroxysmal torticollis of infancy", "Keppen-Lubinsky syndrome", "Ohdo syndrome and variants", "schizoid personality disorder"]
 ---
 
 # Vilazodone

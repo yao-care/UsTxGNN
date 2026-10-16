@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1146
 evidence_level: L5
 indication_count: 10
+monitor_inn: "SEBELIPASE ALFA"
+predicted_indications: ["Scheie syndrome", "Hurler syndrome", "growth hormone insensitivity syndrome with immune dysregulation 2, autosomal dominant", "cholesteryl ester storage disease", "Wolman disease with hypolipoproteinemia and acanthocytosis", "Gaucher disease", "lysosomal storage disease with skeletal involvement", "autosomal ichthyosis syndrome with fatal disease course", "Tay-Sachs disease", "benign neoplasm of adrenal gland"]
 ---
 
 # Sebelipase Alfa

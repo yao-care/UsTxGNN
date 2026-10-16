@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 940
 evidence_level: L5
 indication_count: 10
+monitor_inn: "MOLINDONE"
+predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "hydranencephaly (disease)", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia X-linked", "syndromic myopia", "atypical glycine encephalopathy", "manic bipolar affective disorder"]
 ---
 
 # Molindone

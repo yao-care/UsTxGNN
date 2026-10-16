@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Apis Mellifera Arabica Coffee Bean Arsenic Trioxid
 parent: Model Prediction Only (L5)
 nav_order: 374
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Apis Mellifera Arabica Coffee Bean Arsenic Trioxid

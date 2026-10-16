@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1162
 evidence_level: L5
 indication_count: 1
+monitor_inn: "SILVER"
+predicted_indications: ["bone Paget disease"]
 ---
 
 # Silver

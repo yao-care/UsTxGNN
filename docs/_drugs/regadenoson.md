@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1114
 evidence_level: L5
 indication_count: 4
+monitor_inn: "REGADENOSON"
+predicted_indications: ["anaphylaxis", "food-dependent exercise-induced anaphylaxis", "esotropia", "pseudoallergy"]
 ---
 
 # Regadenoson

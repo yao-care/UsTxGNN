@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 394
 evidence_level: L5
 indication_count: 1
+monitor_inn: "APRACLONIDINE"
+predicted_indications: ["primary hereditary glaucoma"]
 ---
 
 # Apraclonidine

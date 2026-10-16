@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 848
 evidence_level: L1
 indication_count: 10
+monitor_inn: "LETROZOLE"
+predicted_indications: ["female breast carcinoma", "nipple carcinoma", "estrogen-receptor negative breast cancer", "estrogen-receptor positive breast cancer", "hormone-resistant breast carcinoma", "Ehrlich tumor carcinoma", "bilateral breast carcinoma", "breast carcinoma by gene expression profile", "breast fibrocystic disease", "benign mammary dysplasia"]
 ---
 
 # Letrozole

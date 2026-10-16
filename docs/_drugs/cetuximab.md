@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 516
 evidence_level: L5
 indication_count: 10
+monitor_inn: "CETUXIMAB"
+predicted_indications: ["chondroid hamartoma", "bronchial adenomas/carcinoids childhood", "ductal or ductular proliferation", "non-seminomatous lesion", "tumor of testis and paratestis", "odontogenic cyst", "thyroglossal duct cyst", "cystic neoplasm", "epiglottis neoplasm", "pre-malignant neoplasm"]
 ---
 
 # Cetuximab

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 521
 evidence_level: L5
 indication_count: 4
+monitor_inn: "CHLOROQUINE"
+predicted_indications: ["rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "rheumatoid nodulosis", "juvenile chronic polyarthritis", "juvenile idiopathic arthritis"]
 ---
 
 # Chloroquine

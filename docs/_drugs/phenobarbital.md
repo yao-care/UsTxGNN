@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1037
 evidence_level: L5
 indication_count: 10
+monitor_inn: "PHENOBARBITAL"
+predicted_indications: ["trigeminal nerve neoplasm", "orgasm-induced seizures", "micturation-induced seizures", "eating seizures", "thinking seizures", "audiogenic seizures", "startle epilepsy", "reading seizures", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
 ---
 
 # Phenobarbital

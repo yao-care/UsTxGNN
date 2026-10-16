@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 614
 evidence_level: L5
 indication_count: 10
+monitor_inn: "DIROXIMEL FUMARATE"
+predicted_indications: ["diabetic cataract", "diabetic retinopathy", "severe nonproliferative diabetic retinopathy", "tetanic cataract", "immature cataract", "craniostenosis cataract", "nuclear senile cataract", "cortical cataract", "diabetes mellitus type 2 associated cataract", "mature cataract"]
 ---
 
 # Diroximel Fumarate

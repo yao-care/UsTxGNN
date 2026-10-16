@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 624
 evidence_level: L4
 indication_count: 10
+monitor_inn: "DOXAPRAM"
+predicted_indications: ["vascular disease", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "angiodysplasia of stomach", "blue toe syndrome", "hemangioendothelioma", "atheroembolism of kidney", "neurogenic thoracic outlet syndrome", "visceral calciphylaxis", "lymphangiectasis"]
 ---
 
 # Doxapram

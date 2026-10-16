@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1299
 evidence_level: L3
 indication_count: 2
+monitor_inn: "XYLOMETAZOLINE"
+predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis"]
 ---
 
 # Xylometazoline

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1109
 evidence_level: L5
 indication_count: 10
+monitor_inn: "RANIBIZUMAB"
+predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetes mellitus type 2 associated cataract", "immature cataract", "mature cataract", "craniostenosis cataract", "tetanic cataract", "nuclear senile cataract", "cortical cataract", "senile cataract", "hemorrhagic disease of newborn"]
 ---
 
 # Ranibizumab

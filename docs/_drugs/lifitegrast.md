@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 860
 evidence_level: L5
 indication_count: 6
+monitor_inn: "LIFITEGRAST"
+predicted_indications: ["penile fibromatosis", "palmar fibromatosis", "Ledderhose disease", "infantile digital fibromatosis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy"]
 ---
 
 # Lifitegrast

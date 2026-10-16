@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 474
 evidence_level: L5
 indication_count: 2
+monitor_inn: "BROMPHENIRAMINE"
+predicted_indications: ["allergic urticaria", "cold urticaria"]
 ---
 
 # Brompheniramine

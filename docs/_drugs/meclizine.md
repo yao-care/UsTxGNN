@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 893
 evidence_level: L5
 indication_count: 6
+monitor_inn: "MECLIZINE"
+predicted_indications: ["allergic urticaria", "common cold", "nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "cold urticaria"]
 ---
 
 # Meclizine

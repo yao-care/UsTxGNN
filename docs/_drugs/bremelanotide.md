@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 466
 evidence_level: L5
 indication_count: 10
+monitor_inn: "BREMELANOTIDE"
+predicted_indications: ["acne (disease)", "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "exocrine pancreatic insufficiency", "cauda equina syndrome", "pituitary dwarfism", "zinc, elevated plasma", "retinopathy of prematurity", "esotropia", "Beare-Stevenson cutis gyrata syndrome", "combined small cell lung carcinoma"]
 ---
 
 # Bremelanotide

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 762
 evidence_level: L5
 indication_count: 5
+monitor_inn: "GRISEOFULVIN"
+predicted_indications: ["myiasis", "wound myiasis", "creeping myiasis", "furuncular myiasis", "echinococcus granulosus infectious disease"]
 ---
 
 # Griseofulvin

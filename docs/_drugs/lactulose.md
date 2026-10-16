@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 829
 evidence_level: L3
 indication_count: 8
+monitor_inn: "LACTULOSE"
+predicted_indications: ["acute urate nephropathy", "nephrolithiasis", "obstructive jaundice", "bile duct disease", "biliary tract disease", "hyperphosphatemia (disease)", "exercise-induced malignant hyperthermia", "bile duct neoplasm"]
 ---
 
 # Lactulose

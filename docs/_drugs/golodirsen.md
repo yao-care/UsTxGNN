@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 759
 evidence_level: L5
 indication_count: 4
+monitor_inn: "GOLODIRSEN"
+predicted_indications: ["distal myopathy, Welander type", "nebulin-related early-onset distal myopathy", "obsolete autosomal dominant limb-girdle muscular dystrophy type 1C", "X-linked myopathy with postural muscle atrophy"]
 ---
 
 # Golodirsen

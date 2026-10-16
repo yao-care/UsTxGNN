@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Amanita Muscaria Fruiting Body Anamirta Cocculus S
 parent: Model Prediction Only (L5)
 nav_order: 318
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Amanita Muscaria Fruiting Body Anamirta Cocculus S

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 321
 evidence_level: L5
 indication_count: 4
+monitor_inn: "AMANTADINE"
+predicted_indications: ["Rasmussen subacute encephalitis", "transaldolase deficiency", "myelitis", "PLA2G6-associated neurodegeneration"]
 ---
 
 # Amantadine

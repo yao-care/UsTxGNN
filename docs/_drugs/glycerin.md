@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 756
 evidence_level: L5
 indication_count: 10
+monitor_inn: "GLYCERIN"
+predicted_indications: ["cauda equina syndrome", "open-angle glaucoma", "primary hereditary glaucoma", "alopecia", "congenital hypotrichosis milia", "irritable bowel syndrome", "hypotrichosis simplex of the scalp", "diffuse alopecia areata", "migraine disorder", "migraine with brainstem aura"]
 ---
 
 # Glycerin

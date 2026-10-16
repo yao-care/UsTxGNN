@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 772
 evidence_level: L5
 indication_count: 4
+monitor_inn: "HUMAN C1-ESTERASE INHIBITOR"
+predicted_indications: ["severe nonproliferative diabetic retinopathy", "primary release disorder of platelets", "diabetic retinopathy", "pseudo-von Willebrand disease"]
 ---
 
 # Human C1-Esterase Inhibitor

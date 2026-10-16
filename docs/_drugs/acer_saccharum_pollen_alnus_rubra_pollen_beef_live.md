@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Acer Saccharum Pollen Alnus Rubra Pollen Beef Live
 parent: Model Prediction Only (L5)
 nav_order: 79
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Acer Saccharum Pollen Alnus Rubra Pollen Beef Live

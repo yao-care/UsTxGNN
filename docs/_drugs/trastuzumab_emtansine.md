@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1252
 evidence_level: L4
 indication_count: 4
+monitor_inn: "TRASTUZUMAB EMTANSINE"
+predicted_indications: ["progesterone-receptor positive breast cancer", "normal breast-like subtype of breast carcinoma", "progesterone-receptor negative breast cancer", "breast tumor luminal A or B"]
 ---
 
 # Trastuzumab Emtansine

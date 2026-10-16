@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 733
 evidence_level: L5
 indication_count: 1
+monitor_inn: "FOLIC ACID"
+predicted_indications: ["biotin metabolic disease"]
 ---
 
 # Folic Acid

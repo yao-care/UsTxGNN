@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Apis Cerana Whole Beef Liver Bombyx Mori Whole Bor
 parent: Model Prediction Only (L5)
 nav_order: 370
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Apis Cerana Whole Beef Liver Bombyx Mori Whole Bor

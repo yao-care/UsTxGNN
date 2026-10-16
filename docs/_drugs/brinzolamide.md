@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 469
 evidence_level: L5
 indication_count: 1
+monitor_inn: "BRINZOLAMIDE"
+predicted_indications: ["primary hereditary glaucoma"]
 ---
 
 # Brinzolamide

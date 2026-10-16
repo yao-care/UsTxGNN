@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1075
 evidence_level: L5
 indication_count: 10
+monitor_inn: "PRASUGREL"
+predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura", "kyphoscoliotic heart disease", "rheumatoid arthritis", "homozygous familial hypercholesterolemia", "hypoalphalipoproteinemia", "migraine with or without aura, susceptibility to", "brachydactyly-syndactyly syndrome", "leprosy"]
 ---
 
 # Prasugrel

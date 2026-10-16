@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 874
 evidence_level: L3
 indication_count: 6
+monitor_inn: "LOVASTATIN"
+predicted_indications: ["homozygous familial hypercholesterolemia", "hyperlipoproteinemia", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "familial hypercholesterolemia", "cholesterol-ester transfer protein deficiency", "hyperlipidemia due to hepatic triglyceride lipase deficiency"]
 ---
 
 # Lovastatin

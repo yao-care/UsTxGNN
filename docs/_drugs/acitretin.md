@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 123
 evidence_level: L3
 indication_count: 4
+monitor_inn: "ACITRETIN"
+predicted_indications: ["acne (disease)", "pediatric systemic lupus erythematosus", "fetal erythroblastosis", "familial cutaneous telangiectasia and oropharyngeal predisposition cancer syndrome"]
 ---
 
 # Acitretin

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 831
 evidence_level: L5
 indication_count: 9
+monitor_inn: "LAMOTRIGINE"
+predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "thinking seizures", "audiogenic seizures", "orgasm-induced seizures", "eating seizures", "startle epilepsy", "micturation-induced seizures", "reading seizures"]
 ---
 
 # Lamotrigine

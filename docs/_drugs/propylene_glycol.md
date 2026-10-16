@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1093
 evidence_level: L5
 indication_count: 10
+monitor_inn: "PROPYLENE GLYCOL"
+predicted_indications: ["bronchitis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "nuclear senile cataract", "cortical cataract", "senile cataract", "diabetic cataract", "diabetes mellitus type 2 associated cataract", "tetanic cataract", "immature cataract"]
 ---
 
 # Propylene Glycol

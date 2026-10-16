@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1172
 evidence_level: L5
 indication_count: 8
+monitor_inn: "SOFOSBUVIR"
+predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "chronic hepatitis B virus infection", "Kyasanur forest disease", "HIV infectious disease"]
 ---
 
 # Sofosbuvir

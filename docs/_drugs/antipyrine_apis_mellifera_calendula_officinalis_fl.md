@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Antipyrine Apis Mellifera Calendula Officinalis Fl
 parent: Model Prediction Only (L5)
 nav_order: 366
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Antipyrine Apis Mellifera Calendula Officinalis Fl

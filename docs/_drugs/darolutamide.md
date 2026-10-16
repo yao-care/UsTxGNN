@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 571
 evidence_level: L5
 indication_count: 3
+monitor_inn: "DAROLUTAMIDE"
+predicted_indications: ["homozygous familial hypercholesterolemia", "multiple endocrine neoplasia", "HIV infectious disease"]
 ---
 
 # Darolutamide

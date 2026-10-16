@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 742
 evidence_level: L4
 indication_count: 10
+monitor_inn: "FULVESTRANT"
+predicted_indications: ["HIV infectious disease", "multiple endocrine neoplasia", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "rheumatoid arthritis", "acne (disease)", "brachydactyly-syndactyly syndrome", "hemoglobinopathy", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
 ---
 
 # Fulvestrant

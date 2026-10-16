@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1240
 evidence_level: L5
 indication_count: 10
+monitor_inn: "TOLMETIN"
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "spondyloarthropathy, susceptibility to", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "WHIM syndrome"]
 ---
 
 # Tolmetin

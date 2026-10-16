@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1262
 evidence_level: L5
 indication_count: 10
+monitor_inn: "TRIHEPTANOIN"
+predicted_indications: ["tetanic cataract", "diabetes mellitus type 2 associated cataract", "mature cataract", "craniostenosis cataract", "immature cataract", "diabetic cataract", "cortical cataract", "nuclear senile cataract", "senile cataract", "antithrombin deficiency type 2"]
 ---
 
 # Triheptanoin

@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 514
 evidence_level: L4
 indication_count: 6
+monitor_inn: "CERTOLIZUMAB PEGOL"
+predicted_indications: ["rheumatoid vasculitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "polyarticular juvenile rheumatoid arthritis", "vertebral disease"]
 ---
 
 # Certolizumab Pegol

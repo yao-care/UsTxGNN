@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 1115
 evidence_level: L2
 indication_count: 8
+monitor_inn: "REGORAFENIB"
+predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "clear cell renal carcinoma", "unclassified renal cell carcinoma", "renal cell carcinoma associated with neuroblastoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "childhood kidney cell carcinoma", "vulva sarcoma"]
 ---
 
 # Regorafenib

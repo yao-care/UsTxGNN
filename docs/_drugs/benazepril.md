@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 443
 evidence_level: L5
 indication_count: 5
+monitor_inn: "BENAZEPRIL"
+predicted_indications: ["malignant renovascular hypertension", "malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
 ---
 
 # Benazepril

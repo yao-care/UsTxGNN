@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1008
 evidence_level: L5
 indication_count: 4
+monitor_inn: "PALBOCICLIB"
+predicted_indications: ["hyperthyroidism", "rheumatoid arthritis", "thrombotic disease", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta"]
 ---
 
 # Palbociclib

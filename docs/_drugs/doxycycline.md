@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 627
 evidence_level: L5
 indication_count: 10
+monitor_inn: "DOXYCYCLINE"
+predicted_indications: ["punctate epithelial keratoconjunctivitis", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "exposure keratitis", "chronic gingivitis"]
 ---
 
 # Doxycycline

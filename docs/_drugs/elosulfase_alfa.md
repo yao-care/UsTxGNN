@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 647
 evidence_level: L5
 indication_count: 9
+monitor_inn: "ELOSULFASE ALFA"
+predicted_indications: ["Scheie syndrome", "lysosomal storage disease with skeletal involvement", "Hurler syndrome", "Sanfilippo syndrome", "camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye", "ptosis-vocal cord paralysis syndrome", "ptosis-strabismus-ectopic pupils syndrome", "ptosis-upper ocular movement limitation-absence of lacrimal punctum syndrome", "congenital Horner syndrome (disease)"]
 ---
 
 # Elosulfase Alfa

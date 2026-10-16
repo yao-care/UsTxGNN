@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1005
 evidence_level: L4
 indication_count: 3
+monitor_inn: "OXYMETAZOLINE"
+predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "headache disorder"]
 ---
 
 # Oxymetazoline

@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 857
 evidence_level: L3
 indication_count: 6
+monitor_inn: "LEVONORGESTREL"
+predicted_indications: ["acne (disease)", "Worth syndrome", "pregnancy associated osteoporosis", "autosomal dominant neovascular inflammatory vitreoretinopathy", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
 ---
 
 # Levonorgestrel

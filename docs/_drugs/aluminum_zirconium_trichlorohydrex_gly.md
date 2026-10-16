@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Aluminum Zirconium Trichlorohydrex Gly
 parent: Model Prediction Only (L5)
 nav_order: 313
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Aluminum Zirconium Trichlorohydrex Gly

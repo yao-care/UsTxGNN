@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 763
 evidence_level: L4
 indication_count: 5
+monitor_inn: "GUAIFENESIN"
+predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "faucial diphtheria", "cervical disc degenerative disorder", "papillary conjunctivitis"]
 ---
 
 # Guaifenesin

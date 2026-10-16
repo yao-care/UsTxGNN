@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 602
 evidence_level: L3
 indication_count: 10
+monitor_inn: "DICLOFENAC"
+predicted_indications: ["hypotrichosis simplex of the scalp", "acromesomelic dysplasia, Hunter-Thompson type", "pseudoachondroplasia", "brachyolmia", "brachyolmia-amelogenesis imperfecta syndrome", "congenital hypotrichosis milia", "myosclerosis", "diffuse alopecia areata", "juvenile idiopathic arthritis", "WHIM syndrome"]
 ---
 
 # Diclofenac

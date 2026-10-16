@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 508
 evidence_level: L5
 indication_count: 7
+monitor_inn: "CEFTRIAXONE"
+predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "infectious otitis media", "blood group incompatibility", "suppurative otitis media", "chronic otitis media"]
 ---
 
 # Ceftriaxone

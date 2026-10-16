@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Apis Mellifera Aralia Racemosa Root Blatta Orienta
 parent: Model Prediction Only (L5)
 nav_order: 377
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Apis Mellifera Aralia Racemosa Root Blatta Orienta

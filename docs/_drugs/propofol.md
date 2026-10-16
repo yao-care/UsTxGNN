@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 1091
 evidence_level: L2
 indication_count: 5
+monitor_inn: "PROPOFOL"
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
 ---
 
 # Propofol

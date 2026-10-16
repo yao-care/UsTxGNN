@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 536
 evidence_level: L3
 indication_count: 10
+monitor_inn: "CLOBAZAM"
+predicted_indications: ["febrile infection-related epilepsy syndrome", "perioral myoclonia with absences", "cryptogenic late-onset epileptic spasms", "photosensitive occipital lobe epilepsy", "atypical childhood epilepsy with centrotemporal spikes", "childhood onset epileptic encephalopathy", "benign occipital epilepsy", "early-onset epileptic encephalopathy and intellectual disability due to GRIN2A mutation", "restless legs syndrome", "polymicrogyria with optic nerve hypoplasia"]
 ---
 
 # Clobazam

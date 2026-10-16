@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 629
 evidence_level: L4
 indication_count: 10
+monitor_inn: "DRONEDARONE"
+predicted_indications: ["stroke disorder", "obsolete susceptibility to ischemic stroke", "ABri amyloidosis", "cerebrovascular disorder", "brain stem infarction", "sick sinus syndrome 2, autosomal dominant", "duodenal obstruction", "cerebral artery occlusion", "sarcoglycanopathy", "Wildervanck syndrome"]
 ---
 
 # Dronedarone

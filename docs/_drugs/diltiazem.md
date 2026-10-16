@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 609
 evidence_level: L5
 indication_count: 1
+monitor_inn: "DILTIAZEM"
+predicted_indications: ["obsolete susceptibility to ischemic stroke"]
 ---
 
 # Diltiazem

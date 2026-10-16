@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 349
 evidence_level: L5
 indication_count: 4
+monitor_inn: "ANDEXANET ALFA"
+predicted_indications: ["Glanzmann thrombasthenia", "primary release disorder of platelets", "pseudo-von Willebrand disease", "hemophilia"]
 ---
 
 # Andexanet Alfa

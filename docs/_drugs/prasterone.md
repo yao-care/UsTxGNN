@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1074
 evidence_level: L5
 indication_count: 10
+monitor_inn: "PRASTERONE"
+predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "severe nonproliferative diabetic retinopathy", "thrombophilia due to protein S deficiency, autosomal recessive", "scleroderma (disease)", "complement component 4a deficiency", "pseudo-von Willebrand disease", "primary release disorder of platelets"]
 ---
 
 # Prasterone

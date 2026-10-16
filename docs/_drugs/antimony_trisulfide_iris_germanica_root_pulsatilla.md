@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Antimony Trisulfide Iris Germanica Root Pulsatilla
 parent: Model Prediction Only (L5)
 nav_order: 364
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Antimony Trisulfide Iris Germanica Root Pulsatilla

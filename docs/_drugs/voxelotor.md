@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1297
 evidence_level: L5
 indication_count: 7
+monitor_inn: "VOXELOTOR"
+predicted_indications: ["hereditary thrombocytopenia with normal platelets", "marcothrombocytopenia with mitral valve insufficiency", "dense granule disease", "transient neonatal thrombocytopenia", "thrombocytopenia", "acquired monoclonal Ig light chain-associated Fanconi syndrome", "primary release disorder of platelets"]
 ---
 
 # Voxelotor

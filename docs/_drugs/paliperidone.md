@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1010
 evidence_level: L5
 indication_count: 10
+monitor_inn: "PALIPERIDONE"
+predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "myopia X-linked", "syndromic myopia", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "atypical glycine encephalopathy", "treatment-refractory schizophrenia"]
 ---
 
 # Paliperidone

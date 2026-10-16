@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 970
 evidence_level: L5
 indication_count: 10
+monitor_inn: "NITRIC OXIDE"
+predicted_indications: ["malformation syndrome with odontal and/or periodontal component", "hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension", "pulmonary arterial hypertension associated with congenital heart disease", "pulmonary arterial hypertension associated with connective tissue disease", "pulmonary arterial hypertension associated with schistosomiasis"]
 ---
 
 # Nitric Oxide

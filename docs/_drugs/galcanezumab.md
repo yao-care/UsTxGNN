@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 744
 evidence_level: L5
 indication_count: 3
+monitor_inn: "Galcanezumab"
+predicted_indications: ["heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
 ---
 
 # Galcanezumab

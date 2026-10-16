@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1274
 evidence_level: L3
 indication_count: 3
+monitor_inn: "UBROGEPANT"
+predicted_indications: ["migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
 ---
 
 # Ubrogepant

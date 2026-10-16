@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1041
 evidence_level: L4
 indication_count: 2
+monitor_inn: "PHENYLALANINE"
+predicted_indications: ["sclerosing cholangitis", "congenital prothrombin deficiency"]
 ---
 
 # Phenylalanine

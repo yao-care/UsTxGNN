@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1069
 evidence_level: L4
 indication_count: 1
+monitor_inn: "POTASSIUM CHLORIDE"
+predicted_indications: ["renal tubular acidosis"]
 ---
 
 # Potassium Chloride

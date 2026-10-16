@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1149
 evidence_level: L5
 indication_count: 10
+monitor_inn: "SECRETIN HUMAN"
+predicted_indications: ["open-angle glaucoma", "primary hereditary glaucoma", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
 ---
 
 # Secretin Human

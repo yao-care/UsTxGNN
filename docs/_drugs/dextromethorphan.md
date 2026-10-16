@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 599
 evidence_level: L5
 indication_count: 6
+monitor_inn: "DEXTROMETHORPHAN"
+predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "faucial diphtheria", "trigeminal autonomic cephalalgia", "cervical disc degenerative disorder", "allergic urticaria"]
 ---
 
 # Dextromethorphan

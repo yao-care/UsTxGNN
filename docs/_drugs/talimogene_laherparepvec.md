@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1197
 evidence_level: L5
 indication_count: 7
+monitor_inn: "TALIMOGENE LAHERPAREPVEC"
+predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "glottis squamous cell carcinoma", "lung occult squamous cell carcinoma", "rectal cloacogenic carcinoma", "gallbladder adenosquamous carcinoma"]
 ---
 
 # Talimogene Laherparepvec

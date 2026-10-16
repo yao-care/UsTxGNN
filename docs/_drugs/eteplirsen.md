@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 680
 evidence_level: L5
 indication_count: 10
+monitor_inn: "ETEPLIRSEN"
+predicted_indications: ["Duchenne and Becker muscular dystrophy", "Bethlem myopathy", "autosomal dominant limb-girdle muscular dystrophy type 1D (DNAJB6)", "nebulin-related early-onset distal myopathy", "X-linked myopathy with postural muscle atrophy", "X-linked Emery-Dreifuss muscular dystrophy", "Emery-Dreifuss muscular dystrophy", "intellectual disability-hyperkinetic movement-truncal ataxia syndrome", "limb-girdle muscular dystrophy due to POMK deficiency", "autosomal recessive Emery-Dreifuss muscular dystrophy"]
 ---
 
 # Eteplirsen

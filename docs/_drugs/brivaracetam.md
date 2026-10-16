@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 470
 evidence_level: L5
 indication_count: 10
+monitor_inn: "BRIVARACETAM"
+predicted_indications: ["visual epilepsy", "status epilepticus", "audiogenic seizures", "micturation-induced seizures", "thinking seizures", "eating seizures", "startle epilepsy", "orgasm-induced seizures", "beta-ketothiolase deficiency", "adolescent/adult onset autosomal dominant epilepsy with auditory features"]
 ---
 
 # Brivaracetam

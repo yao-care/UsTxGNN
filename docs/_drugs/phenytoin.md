@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1043
 evidence_level: L5
 indication_count: 10
+monitor_inn: "PHENYTOIN"
+predicted_indications: ["trigeminal nerve neoplasm", "audiogenic seizures", "startle epilepsy", "micturation-induced seizures", "eating seizures", "orgasm-induced seizures", "thinking seizures", "reading seizures", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
 ---
 
 # Phenytoin

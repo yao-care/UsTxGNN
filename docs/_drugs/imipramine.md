@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 792
 evidence_level: L3
 indication_count: 7
+monitor_inn: "IMIPRAMINE"
+predicted_indications: ["attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "benign paroxysmal torticollis of infancy", "obsessive-compulsive disorder"]
 ---
 
 # Imipramine

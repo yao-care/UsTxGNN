@@ -122,6 +122,29 @@ def extract_indication_count(content: str, bundle_path: Path) -> int:
     return 0
 
 
+def extra_front_matter(bundle_path: Path, evidence_level: str, indication_count: int) -> str:
+    """2026-10-16：新文獻監測欄位（monitor_inn／predicted_indications，與 .claude/add_monitor_fields.py 同口徑），
+    以及無新預測（證據包空且 L5）頁的 noindex／sitemap: false（與 .claude/url_cleanup_20261016.py 同口徑）。"""
+    lines = []
+    bundle = None
+    if bundle_path.exists():
+        try:
+            with open(bundle_path, encoding="utf-8") as f:
+                bundle = json.load(f)
+        except Exception:
+            bundle = None
+    drug = (bundle or {}).get("drug") or {}
+    names = [p.get("disease_name", "").strip() for p in (drug.get("predicted_indications") or [])]
+    names = [n for n in names if n][:10]
+    inn = (drug.get("inn") or "").strip()
+    if names and inn:
+        lines.append(f"monitor_inn: {json.dumps(inn, ensure_ascii=False)}")
+        lines.append(f"predicted_indications: {json.dumps(names, ensure_ascii=False)}")
+    if bundle is not None and not names and evidence_level == "L5":
+        lines += ["noindex: true", "sitemap: false"]
+    return "".join(l + "\n" for l in lines)
+
+
 def get_parent_titles(base_dir: Path) -> dict:
     """Map evidence level -> Jekyll parent page title, read from the site's own pages.
 
@@ -210,7 +233,7 @@ parent: {parent}
 nav_order: {i + 10}
 evidence_level: {evidence_level}
 indication_count: {indication_count}
----
+{extra_front_matter(bundle_path, evidence_level, indication_count)}---
 
 # {title}
 {{: .fs-9 }}

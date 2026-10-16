@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 334
 evidence_level: L5
 indication_count: 5
+monitor_inn: "AMPHETAMINE"
+predicted_indications: ["faciodigitogenital syndrome", "chondromyxoid fibroma", "specific developmental disorder", "trichotillomania", "postural orthostatic tachycardia syndrome"]
 ---
 
 # Amphetamine

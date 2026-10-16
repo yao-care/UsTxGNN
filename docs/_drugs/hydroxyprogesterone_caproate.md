@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 780
 evidence_level: L5
 indication_count: 10
+monitor_inn: "HYDROXYPROGESTERONE CAPROATE"
+predicted_indications: ["endometriosis of uterus", "renal hypoplasia, bilateral", "endometriosis of rectovaginal septum and vagina", "endometriosis in cutaneous scar", "renal hypoplasia (disease)", "uterine corpus cancer", "cervix endometriosis", "endometrial cancer", "breast fibrocystic disease", "infantile cerebral and cerebellar atrophy with postnatal progressive microcephaly"]
 ---
 
 # Hydroxyprogesterone Caproate

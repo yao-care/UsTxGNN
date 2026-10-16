@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 691
 evidence_level: L4
 indication_count: 9
+monitor_inn: "FAMCICLOVIR"
+predicted_indications: ["post-infectious neuralgia", "sequela of COVID-19", "hepatitis C induced liver cirrhosis", "malignant pleural mesothelioma", "AIDS-related disorder", "malignant epithelioid mesothelioma", "chickenpox", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
 ---
 
 # Famciclovir

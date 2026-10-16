@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 952
 evidence_level: L3
 indication_count: 8
+monitor_inn: "NAFTIFINE"
+predicted_indications: ["cutaneous candidiasis", "ectothrix infectious disease", "Majocchi granuloma", "pityriasis versicolor", "endothrix infectious disease", "dermatophytosis of scalp or beard", "superficial mycosis", "tinea profunda"]
 ---
 
 # Naftifine

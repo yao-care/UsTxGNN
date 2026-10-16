@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1116
 evidence_level: L5
 indication_count: 6
+monitor_inn: "REMDESIVIR"
+predicted_indications: ["multiple endocrine neoplasia", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "homozygous familial hypercholesterolemia"]
 ---
 
 # Remdesivir

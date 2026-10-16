@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Aluminum Sulfate Tetradecahydrate Calcium Acetate 
 parent: Model Prediction Only (L5)
 nav_order: 307
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Aluminum Sulfate Tetradecahydrate Calcium Acetate 

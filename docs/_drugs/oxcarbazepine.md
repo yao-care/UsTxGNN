@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1002
 evidence_level: L4
 indication_count: 10
+monitor_inn: "OXCARBAZEPINE"
+predicted_indications: ["visual epilepsy", "restless legs syndrome", "audiogenic seizures", "eating seizures", "thinking seizures", "startle epilepsy", "micturation-induced seizures", "orgasm-induced seizures", "status epilepticus", "reading seizures"]
 ---
 
 # Oxcarbazepine

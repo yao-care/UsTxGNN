@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 336
 evidence_level: L4
 indication_count: 2
+monitor_inn: "ANAGRELIDE"
+predicted_indications: ["reactive thrombocytosis", "inverse Klippel-Trenaunay syndrome"]
 ---
 
 # Anagrelide

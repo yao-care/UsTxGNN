@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 517
 evidence_level: L5
 indication_count: 4
+monitor_inn: "CEVIMELINE"
+predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
 ---
 
 # Cevimeline

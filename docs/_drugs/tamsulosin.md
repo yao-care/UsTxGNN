@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1199
 evidence_level: L5
 indication_count: 10
+monitor_inn: "TAMSULOSIN"
+predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "migraine with brainstem aura"]
 ---
 
 # Tamsulosin

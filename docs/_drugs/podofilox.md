@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1057
 evidence_level: L5
 indication_count: 10
+monitor_inn: "PODOFILOX"
+predicted_indications: ["vulvovaginal candidiasis", "photosensitivity disease", "human papilloma virus infection", "herpes zoster", "benign neoplasm of tongue", "benign neoplasm of hypopharynx", "cystic neoplasm", "mesenchymoma", "nasal cavity inverting papilloma", "tumor of testis and paratestis"]
 ---
 
 # Podofilox

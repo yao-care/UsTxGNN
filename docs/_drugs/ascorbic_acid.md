@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 418
 evidence_level: L5
 indication_count: 10
+monitor_inn: "ASCORBIC ACID"
+predicted_indications: ["non-syndromic esophageal malformation", "esophageal disease", "congenital prothrombin deficiency", "injury", "biotin metabolic disease", "florid cemento-osseous dysplasia", "perinatal disease", "segmental odontomaxillary dysplasia", "disease by subcellular system affected", "vitamin deficiency disorder"]
 ---
 
 # Ascorbic Acid

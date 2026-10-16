@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Activated Charcoal Antimony Trisulfide Bismuth Sub
 parent: Model Prediction Only (L5)
 nav_order: 188
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Activated Charcoal Antimony Trisulfide Bismuth Sub

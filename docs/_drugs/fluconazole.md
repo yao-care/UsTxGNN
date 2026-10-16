@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 713
 evidence_level: L5
 indication_count: 1
+monitor_inn: "FLUCONAZOLE"
+predicted_indications: ["punctate epithelial keratoconjunctivitis"]
 ---
 
 # Fluconazole

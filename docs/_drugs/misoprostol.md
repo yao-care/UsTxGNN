@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 935
 evidence_level: L4
 indication_count: 2
+monitor_inn: "MISOPROSTOL"
+predicted_indications: ["amenorrhea (disease)", "atypical coarctation of aorta"]
 ---
 
 # Misoprostol

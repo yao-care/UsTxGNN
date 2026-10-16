@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 802
 evidence_level: L5
 indication_count: 9
+monitor_inn: "Insulin lispro"
+predicted_indications: ["autoimmune oophoritis", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "pancreatic agenesis", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
 ---
 
 # Insulin Lispro

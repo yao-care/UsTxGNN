@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 681
 evidence_level: L4
 indication_count: 5
+monitor_inn: "ETHAMBUTOL"
+predicted_indications: ["epiglottitis", "laryngitis", "meningococcal infection", "peritonitis", "infectious otitis media"]
 ---
 
 # Ethambutol

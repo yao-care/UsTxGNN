@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 63
 evidence_level: L5
 indication_count: 9
+monitor_inn: "ACARBOSE"
+predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
 ---
 
 # Acarbose

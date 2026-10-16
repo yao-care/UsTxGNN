@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1032
 evidence_level: L4
 indication_count: 10
+monitor_inn: "PERAMPANEL"
+predicted_indications: ["visual epilepsy", "startle epilepsy", "eating seizures", "audiogenic seizures", "orgasm-induced seizures", "thinking seizures", "micturation-induced seizures", "reading seizures", "beta-ketothiolase deficiency", "status epilepticus"]
 ---
 
 # Perampanel

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 813
 evidence_level: L5
 indication_count: 7
+monitor_inn: "ISOFLURANE"
+predicted_indications: ["Prinzmetal angina", "Tourette syndrome", "manic bipolar affective disorder", "trichotillomania", "dysthymic disorder", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder"]
 ---
 
 # Isoflurane

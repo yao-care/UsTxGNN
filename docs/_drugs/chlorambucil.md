@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 518
 evidence_level: L5
 indication_count: 8
+monitor_inn: "CHLORAMBUCIL"
+predicted_indications: ["chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "ALK-positive large B-cell lymphoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "acute lymphoblastic leukemia (disease)", "small cell lung carcinoma"]
 ---
 
 # Chlorambucil

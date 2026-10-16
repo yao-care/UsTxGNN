@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 504
 evidence_level: L5
 indication_count: 8
+monitor_inn: "CEFAZOLIN"
+predicted_indications: ["infectious otitis media", "bronchitis", "middle ear disease", "chronic otitis media", "suppurative otitis media", "otosalpingitis", "non-suppurative otitis media", "allergic otitis media"]
 ---
 
 # Cefazolin

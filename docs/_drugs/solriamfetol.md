@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1173
 evidence_level: L5
 indication_count: 10
+monitor_inn: "SOLRIAMFETOL"
+predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "insomnia (disease)", "attention deficit hyperactivity disorder, inattentive type", "chondromyxoid fibroma", "specific developmental disorder", "variably protease-sensitive prionopathy", "multiple system atrophy", "postural orthostatic tachycardia syndrome", "disorder of peroxisomal alpha-, beta- and omega-oxidation"]
 ---
 
 # Solriamfetol

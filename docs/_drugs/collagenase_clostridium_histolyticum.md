@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 548
 evidence_level: L5
 indication_count: 10
+monitor_inn: "COLLAGENASE CLOSTRIDIUM HISTOLYTICUM"
+predicted_indications: ["primary release disorder of platelets", "Glanzmann thrombasthenia", "pseudo-von Willebrand disease", "Ledderhose disease", "infantile digital fibromatosis", "palmar fibromatosis", "hemorrhagic disorder due to a constitutional thrombocytopenia", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "posterior leukoencephalopathy syndrome"]
 ---
 
 # Collagenase Clostridium Histolyticum

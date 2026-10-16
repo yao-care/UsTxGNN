@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 856
 evidence_level: L5
 indication_count: 6
+monitor_inn: "LEVOMILNACIPRAN"
+predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "dysthymic disorder", "melancholia", "neurotic depression", "neurotic disorder"]
 ---
 
 # Levomilnacipran

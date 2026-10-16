@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 687
 evidence_level: L5
 indication_count: 10
+monitor_inn: "EVEROLIMUS"
+predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "prostate embryonal rhabdomyosarcoma", "renal cell carcinoma associated with neuroblastoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions"]
 ---
 
 # Everolimus

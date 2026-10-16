@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1272
 evidence_level: L5
 indication_count: 1
+monitor_inn: "TURPENTINE"
+predicted_indications: ["multiple endocrine neoplasia"]
 ---
 
 # Turpentine

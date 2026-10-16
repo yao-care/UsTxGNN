@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1107
 evidence_level: L4
 indication_count: 10
+monitor_inn: "RAMIPRIL"
+predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "malignant renovascular hypertension", "Braddock syndrome", "brain stem infarction", "Prinzmetal angina", "intracerebral hemorrhage", "ABri amyloidosis", "cerebral artery occlusion"]
 ---
 
 # Ramipril

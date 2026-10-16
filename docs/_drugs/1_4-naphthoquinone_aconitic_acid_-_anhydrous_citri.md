@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: 1 4-Naphthoquinone Aconitic Acid - Anhydrous Citri
 parent: Model Prediction Only (L5)
 nav_order: 17
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # 1 4-Naphthoquinone Aconitic Acid - Anhydrous Citri

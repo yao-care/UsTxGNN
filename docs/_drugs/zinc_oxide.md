@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1308
 evidence_level: L4
 indication_count: 5
+monitor_inn: "ZINC OXIDE"
+predicted_indications: ["acne (disease)", "anorectal stricture", "anal polyp", "papillary conjunctivitis", "postinfectious vasculitis"]
 ---
 
 # Zinc Oxide

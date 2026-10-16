@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 913
 evidence_level: L5
 indication_count: 7
+monitor_inn: "METHOXY POLYETHYLENE GLYCOL-EPOETIN BETA"
+predicted_indications: ["primary release disorder of platelets", "Glanzmann thrombasthenia", "pseudo-von Willebrand disease", "severe nonproliferative diabetic retinopathy", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
 ---
 
 # Methoxy Polyethylene Glycol-Epoetin Beta

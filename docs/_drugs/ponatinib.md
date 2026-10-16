@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1064
 evidence_level: L5
 indication_count: 2
+monitor_inn: "PONATINIB"
+predicted_indications: ["fibromatosis, gingival", "liposarcoma"]
 ---
 
 # Ponatinib

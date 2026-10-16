@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1161
 evidence_level: L5
 indication_count: 8
+monitor_inn: "SILTUXIMAB"
+predicted_indications: ["extracutaneous mastocytoma", "hepatic infarction", "hepatic veno-occlusive disease", "peliosis hepatis", "Kaposi's sarcoma (disease)", "autosomal recessive familial Mediterranean fever", "aggressive systemic mastocytosis", "autosomal dominant familial periodic fever"]
 ---
 
 # Siltuximab

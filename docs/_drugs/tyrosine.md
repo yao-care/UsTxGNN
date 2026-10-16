@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1273
 evidence_level: L5
 indication_count: 10
+monitor_inn: "TYROSINE"
+predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "angle-closure glaucoma", "hyperthyroidism", "postural orthostatic tachycardia syndrome", "hyperthyroxinemia", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "aqueous misdirection", "traumatic glaucoma", "neovascular glaucoma"]
 ---
 
 # Tyrosine

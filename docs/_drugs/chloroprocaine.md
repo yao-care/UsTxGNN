@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 520
 evidence_level: L5
 indication_count: 1
+monitor_inn: "CHLOROPROCAINE"
+predicted_indications: ["cauda equina syndrome"]
 ---
 
 # Chloroprocaine

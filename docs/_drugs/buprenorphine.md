@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 478
 evidence_level: L4
 indication_count: 6
+monitor_inn: "BUPRENORPHINE"
+predicted_indications: ["acute intermittent porphyria", "lingual-facial-buccal dyskinesia", "chronic tic disorder", "continuous spikes and waves during sleep", "extrapyramidal and movement disease", "benign shuddering attacks"]
 ---
 
 # Buprenorphine

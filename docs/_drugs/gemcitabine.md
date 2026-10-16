@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 748
 evidence_level: L1
 indication_count: 10
+monitor_inn: "GEMCITABINE"
+predicted_indications: ["female breast carcinoma", "rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mixed adenocarcinoma", "endometrial mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "rete ovarii adenocarcinoma", "secretory uterine corpus endometrioid adenocarcinoma"]
 ---
 
 # Gemcitabine

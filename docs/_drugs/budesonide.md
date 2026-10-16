@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 475
 evidence_level: L4
 indication_count: 10
+monitor_inn: "BUDESONIDE"
+predicted_indications: ["atopic eczema", "bronchitis", "dermatitis, atopic", "polyp of vocal cord", "polyp of middle ear", "epulis", "fibroepithelial polyp", "uterine polyp", "polyp of frontal sinus", "polyp of external auditory canal"]
 ---
 
 # Budesonide

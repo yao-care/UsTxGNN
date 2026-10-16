@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Acetaminophen Aspirin Caffeine
 parent: Model Prediction Only (L5)
 nav_order: 94
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Acetaminophen Aspirin Caffeine

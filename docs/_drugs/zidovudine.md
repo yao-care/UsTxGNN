@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1304
 evidence_level: L4
 indication_count: 6
+monitor_inn: "ZIDOVUDINE"
+predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "congenital human immunodeficiency virus", "AIDS related complex"]
 ---
 
 # Zidovudine

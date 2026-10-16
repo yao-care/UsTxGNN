@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1231
 evidence_level: L5
 indication_count: 10
+monitor_inn: "TIOPRONIN"
+predicted_indications: ["renal tubular acidosis", "adult polyglucosan body disease", "glycogen storage disease due to glycogen branching enzyme deficiency, congenital neuromuscular form", "glycogen storage disease due to glycogen branching enzyme deficiency, fatal perinatal neuromuscular form", "tricarboxylic acid cycle disorder", "disease of transporter activity", "pyruvate metabolism disorder", "inborn disorder of fatty acid oxidation and ketone body metabolism", "glycogen storage disease due to glycogen branching enzyme deficiency, progressive hepatic form", "glycogen storage disease due to glycogen branching enzyme deficiency, childhood combined hepatic and myopathic form"]
 ---
 
 # Tiopronin

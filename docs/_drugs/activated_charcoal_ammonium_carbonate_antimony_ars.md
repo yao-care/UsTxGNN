@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Activated Charcoal Ammonium Carbonate Antimony Ars
 parent: Model Prediction Only (L5)
 nav_order: 174
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Activated Charcoal Ammonium Carbonate Antimony Ars

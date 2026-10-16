@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1182
 evidence_level: L4
 indication_count: 10
+monitor_inn: "STREPTOMYCIN"
+predicted_indications: ["conjunctivitis", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "otitis externa", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "Lyme disease", "infectious otitis interna"]
 ---
 
 # Streptomycin

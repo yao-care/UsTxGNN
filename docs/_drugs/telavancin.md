@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1205
 evidence_level: L5
 indication_count: 9
+monitor_inn: "TELAVANCIN"
+predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "septicemic plague", "premalignant hematological system disease", "hematological disease associated with an acquired peripheral neuropathy", "monoclonal gammopathy", "congenital hematological disorder"]
 ---
 
 # Telavancin

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1277
 evidence_level: L5
 indication_count: 4
+monitor_inn: "URIC ACID"
+predicted_indications: ["rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "bronchitis"]
 ---
 
 # Uric Acid

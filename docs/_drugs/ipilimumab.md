@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 808
 evidence_level: L5
 indication_count: 2
+monitor_inn: "IPILIMUMAB"
+predicted_indications: ["choroideremia", "non-cutaneous melanoma"]
 ---
 
 # Ipilimumab

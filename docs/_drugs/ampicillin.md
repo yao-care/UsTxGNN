@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 335
 evidence_level: L4
 indication_count: 10
+monitor_inn: "AMPICILLIN"
+predicted_indications: ["laryngitis", "Ureaplasma urethritis", "gonococcal urethritis", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "gingivitis", "paranasal sinus neoplasm (disease)", "bacterial arthritis", "conjunctivitis", "pericoronitis"]
 ---
 
 # Ampicillin

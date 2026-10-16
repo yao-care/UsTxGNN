@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1110
 evidence_level: L4
 indication_count: 10
+monitor_inn: "RANITIDINE"
+predicted_indications: ["active peptic ulcer disease", "peptic ulcer perforation", "gastrojejunal ulcer", "duodenogastric reflux", "duodenal obstruction", "gastroduodenitis", "peptic ulcer disease", "Smouldering systemic mastocytosis", "abnormality of glucagon secretion", "lymphoadenopathic mastocytosis with eosinophilia"]
 ---
 
 # Ranitidine

@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1081
 evidence_level: L3
 indication_count: 10
+monitor_inn: "PRILOCAINE"
+predicted_indications: ["papillary conjunctivitis", "manic bipolar affective disorder", "bronchitis", "migraine disorder", "neuralgia", "migraine with brainstem aura", "atopic eczema", "allergic asthma", "rhinitis", "rosacea conjunctivitis"]
 ---
 
 # Prilocaine

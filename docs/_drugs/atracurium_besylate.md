@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 426
 evidence_level: L5
 indication_count: 10
+monitor_inn: "ATRACURIUM BESYLATE"
+predicted_indications: ["preeclampsia", "cauda equina syndrome", "blepharospasm", "migraine disorder", "obsolete neurogenic bladder (disease)", "thrombotic disease", "migraine with brainstem aura", "severe pre-eclampsia", "mild pre-eclampsia", "irritable bowel syndrome"]
 ---
 
 # Atracurium Besylate

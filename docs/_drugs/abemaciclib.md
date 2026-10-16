@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 43
 evidence_level: L4
 indication_count: 10
+monitor_inn: "Abemaciclib"
+predicted_indications: ["rheumatoid arthritis", "hyperthyroidism", "multiple endocrine neoplasia", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "homozygous familial hypercholesterolemia", "heart disease", "Laubry-Pezzi syndrome", "Pierre Robin syndrome associated with a chromosomal anomaly", "Jeune syndrome situs inversus", "amyotrophic lateral sclerosis"]
 ---
 
 # Abemaciclib

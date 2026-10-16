@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 586
 evidence_level: L5
 indication_count: 7
+monitor_inn: "DESMOPRESSIN"
+predicted_indications: ["congenital prothrombin deficiency", "inherited thrombophilia", "Glanzmann thrombasthenia", "primary release disorder of platelets", "pseudo-von Willebrand disease", "Scott syndrome", "flood factor deficiency"]
 ---
 
 # Desmopressin

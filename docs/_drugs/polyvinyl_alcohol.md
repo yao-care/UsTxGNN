@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1063
 evidence_level: L5
 indication_count: 4
+monitor_inn: "POLYVINYL ALCOHOL"
+predicted_indications: ["congenital ichthyosiform erythroderma", "self-healing collodion baby", "lamellar ichthyosis", "bathing suit ichthyosis"]
 ---
 
 # Polyvinyl Alcohol

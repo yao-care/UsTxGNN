@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Alpha -Tocopherol Ascorbic Acid Banana Beta Carote
 parent: Model Prediction Only (L5)
 nav_order: 246
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Alpha -Tocopherol Ascorbic Acid Banana Beta Carote

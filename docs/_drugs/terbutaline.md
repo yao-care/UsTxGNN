@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 1212
 evidence_level: L1
 indication_count: 3
+monitor_inn: "TERBUTALINE"
+predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome"]
 ---
 
 # Terbutaline

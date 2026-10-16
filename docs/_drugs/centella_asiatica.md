@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 512
 evidence_level: L5
 indication_count: 3
+monitor_inn: "CENTELLA ASIATICA"
+predicted_indications: ["insomnia (disease)", "anxiety", "sleep disorder, initiating and maintaining sleep"]
 ---
 
 # Centella Asiatica

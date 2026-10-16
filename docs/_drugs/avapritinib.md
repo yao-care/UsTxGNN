@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 430
 evidence_level: L5
 indication_count: 10
+monitor_inn: "AVAPRITINIB"
+predicted_indications: ["axial spondylometaphyseal dysplasia", "bilateral parasagittal parieto-occipital polymicrogyria", "amyotrophic lateral sclerosis", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "amyotrophic lateral sclerosis, susceptibility to", "amyotrohpic lateral sclerosis type 22", "lower motor neuron syndrome with late-adult onset", "lethal arthrogryposis-anterior horn cell disease syndrome", "monomelic amyotrophy", "Mills syndrome"]
 ---
 
 # Avapritinib

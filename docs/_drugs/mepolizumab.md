@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 900
 evidence_level: L4
 indication_count: 5
+monitor_inn: "MEPOLIZUMAB"
+predicted_indications: ["thrombocytopenia due to immune destruction", "primary release disorder of platelets", "pseudo-von Willebrand disease", "autoimmune thrombocytopenic", "Glanzmann thrombasthenia"]
 ---
 
 # Mepolizumab

@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Anas Platyrhynchos Feather Anemone Pulsatilla Anse
 parent: Model Prediction Only (L5)
 nav_order: 345
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Anas Platyrhynchos Feather Anemone Pulsatilla Anse

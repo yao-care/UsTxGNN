@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 832
 evidence_level: L1
 indication_count: 10
+monitor_inn: "LANADELUMAB"
+predicted_indications: ["C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "pancreatitis", "pseudo-von Willebrand disease", "primary release disorder of platelets", "immune-mediated necrotizing myopathy", "Glanzmann thrombasthenia", "antisynthetase syndrome", "focal myositis", "Scott syndrome"]
 ---
 
 # Lanadelumab

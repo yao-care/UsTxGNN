@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 844
 evidence_level: L2
 indication_count: 6
+monitor_inn: "LENALIDOMIDE"
+predicted_indications: ["myeloid leukemia", "unclassified myelodysplastic syndrome", "refractory cytopenia of childhood", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts", "partial deletion of the long arm of chromosome 5"]
 ---
 
 # Lenalidomide

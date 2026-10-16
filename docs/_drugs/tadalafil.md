@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1192
 evidence_level: L5
 indication_count: 8
+monitor_inn: "Tadalafil"
+predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
 ---
 
 # Tadalafil

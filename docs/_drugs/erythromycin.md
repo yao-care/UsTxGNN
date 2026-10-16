@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 669
 evidence_level: L4
 indication_count: 5
+monitor_inn: "ERYTHROMYCIN"
+predicted_indications: ["punctate epithelial keratoconjunctivitis", "acute contagious conjunctivitis", "exposure keratitis", "lymphogranuloma venereum", "necrotizing ulcerative gingivitis"]
 ---
 
 # Erythromycin

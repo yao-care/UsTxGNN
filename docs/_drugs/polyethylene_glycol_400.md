@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1061
 evidence_level: L5
 indication_count: 2
+monitor_inn: "POLYETHYLENE GLYCOL 400"
+predicted_indications: ["bronchitis", "congenital ichthyosiform erythroderma"]
 ---
 
 # Polyethylene Glycol 400

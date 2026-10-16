@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 881
 evidence_level: L5
 indication_count: 10
+monitor_inn: "MAFENIDE"
+predicted_indications: ["irritable bowel syndrome", "cauda equina syndrome", "panuveitis (disease)", "iris disease", "uveitis", "acne (disease)", "isolated iridoschisis", "abnormal pupillary function (disease)", "benign neoplasm of iris", "iris cancer"]
 ---
 
 # Mafenide

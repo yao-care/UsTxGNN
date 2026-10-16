@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1311
 evidence_level: L4
 indication_count: 3
+monitor_inn: "ZOLMITRIPTAN"
+predicted_indications: ["migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
 ---
 
 # Zolmitriptan

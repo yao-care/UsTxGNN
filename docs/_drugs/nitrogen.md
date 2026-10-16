@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 972
 evidence_level: L5
 indication_count: 4
+monitor_inn: "NITROGEN"
+predicted_indications: ["16q24.1 microdeletion syndrome", "primary interstitial lung disease specific to childhood", "isolated pulmonary capillaritis", "congenital pulmonary lymphangiectasia"]
 ---
 
 # Nitrogen

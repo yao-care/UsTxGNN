@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 703
 evidence_level: L5
 indication_count: 6
+monitor_inn: "FERUMOXYTOL"
+predicted_indications: ["Plummer-Vinson syndrome", "non-syndromic esophageal malformation", "vitamin B12- and folate-independent constitutional megaloblastic anemia", "severe nonproliferative diabetic retinopathy", "esophageal ulcer", "esophageal disease"]
 ---
 
 # Ferumoxytol

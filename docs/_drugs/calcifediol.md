@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 486
 evidence_level: L5
 indication_count: 4
+monitor_inn: "CALCIFEDIOL"
+predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis", "hereditary hypophosphatemic rickets", "vitamin D-dependent rickets"]
 ---
 
 # Calcifediol

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 564
 evidence_level: L5
 indication_count: 9
+monitor_inn: "DACTINOMYCIN"
+predicted_indications: ["relapsing-remitting multiple sclerosis", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "extrahepatic bile duct rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "liver sarcoma", "upper aerodigestive tract neoplasm", "head and neck cancer"]
 ---
 
 # Dactinomycin

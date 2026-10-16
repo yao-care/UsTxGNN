@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 450
 evidence_level: L5
 indication_count: 4
+monitor_inn: "BENZOYL PEROXIDE"
+predicted_indications: ["vulvar inverted follicular keratosis", "2-hydroxyethyl methacrylate sensitization", "acrodermatitis chronica atrophicans", "acne keloid"]
 ---
 
 # Benzoyl Peroxide

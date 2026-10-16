@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1178
 evidence_level: L5
 indication_count: 7
+monitor_inn: "SOTALOL"
+predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "Wildervanck syndrome", "sarcoglycanopathy", "stroke disorder", "manic bipolar affective disorder", "macrocephaly, dysmorphic facies, and psychomotor retardation", "obsolete susceptibility to ischemic stroke"]
 ---
 
 # Sotalol

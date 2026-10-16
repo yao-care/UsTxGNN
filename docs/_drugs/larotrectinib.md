@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 837
 evidence_level: L3
 indication_count: 2
+monitor_inn: "LAROTRECTINIB"
+predicted_indications: ["multiple endocrine neoplasia", "HER2 positive breast carcinoma"]
 ---
 
 # Larotrectinib

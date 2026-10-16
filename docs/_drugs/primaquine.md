@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1082
 evidence_level: L5
 indication_count: 8
+monitor_inn: "PRIMAQUINE"
+predicted_indications: ["myiasis", "creeping myiasis", "furuncular myiasis", "wound myiasis", "toxoplasmosis", "nocardiosis", "malaria", "pneumocystosis"]
 ---
 
 # Primaquine

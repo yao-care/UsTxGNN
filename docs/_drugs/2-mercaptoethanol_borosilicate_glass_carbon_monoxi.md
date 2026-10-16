@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: 2-Mercaptoethanol Borosilicate Glass Carbon Monoxi
 parent: Model Prediction Only (L5)
 nav_order: 19
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # 2-Mercaptoethanol Borosilicate Glass Carbon Monoxi

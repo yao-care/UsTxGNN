@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Antipyrine Arnica Montana Barium Carbonate Bismuth
 parent: Model Prediction Only (L5)
 nav_order: 367
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Antipyrine Arnica Montana Barium Carbonate Bismuth

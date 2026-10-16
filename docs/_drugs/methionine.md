@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 908
 evidence_level: L5
 indication_count: 10
+monitor_inn: "METHIONINE"
+predicted_indications: ["acne (disease)", "severe nonproliferative diabetic retinopathy", "nuclear senile cataract", "mature cataract", "immature cataract", "diabetes mellitus type 2 associated cataract", "cortical cataract", "tetanic cataract", "craniostenosis cataract", "diabetic cataract"]
 ---
 
 # Methionine

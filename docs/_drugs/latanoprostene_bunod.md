@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 840
 evidence_level: L5
 indication_count: 10
+monitor_inn: "LATANOPROSTENE BUNOD"
+predicted_indications: ["visceral calciphylaxis", "primary hereditary glaucoma", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "idiopathic spontaneous coronary artery dissection", "angiodysplasia of stomach", "lymphangiectasis", "hemangioendothelioma"]
 ---
 
 # Latanoprostene Bunod

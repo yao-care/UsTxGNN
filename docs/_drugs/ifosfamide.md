@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 788
 evidence_level: L5
 indication_count: 10
+monitor_inn: "IFOSFAMIDE"
+predicted_indications: ["female breast carcinoma", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5", "refractory cytopenia of childhood", "severe congenital hypochromic anemia with ringed sideroblasts", "aregenerative anemia", "rhabdomyosarcoma (disease)", "myelodysplastic syndrome", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 ---
 
 # Ifosfamide

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1234
 evidence_level: L5
 indication_count: 10
+monitor_inn: "TITANIUM DIOXIDE"
+predicted_indications: ["drug-induced osteoporosis", "diabetic retinopathy", "diabetic cataract", "severe nonproliferative diabetic retinopathy", "craniostenosis cataract", "mature cataract", "tetanic cataract", "immature cataract", "diabetes mellitus type 2 associated cataract", "cortical cataract"]
 ---
 
 # Titanium Dioxide

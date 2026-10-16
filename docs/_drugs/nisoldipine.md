@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 968
 evidence_level: L4
 indication_count: 5
+monitor_inn: "NISOLDIPINE"
+predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant renovascular hypertension", "malignant hypertensive renal disease", "Braddock syndrome"]
 ---
 
 # Nisoldipine

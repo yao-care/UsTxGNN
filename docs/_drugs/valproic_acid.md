@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1280
 evidence_level: L5
 indication_count: 10
+monitor_inn: "VALPROIC ACID"
+predicted_indications: ["trigeminal nerve neoplasm", "visual epilepsy", "trigeminal neuralgia", "eating seizures", "audiogenic seizures", "orgasm-induced seizures", "micturation-induced seizures", "startle epilepsy", "thinking seizures", "reading seizures"]
 ---
 
 # Valproic Acid

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 990
 evidence_level: L5
 indication_count: 10
+monitor_inn: "OLSALAZINE"
+predicted_indications: ["myelodysplastic syndrome", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "alopecia", "diffuse alopecia areata", "partial deletion of the long arm of chromosome 5", "unclassified myelodysplastic syndrome", "refractory cytopenia of childhood", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts"]
 ---
 
 # Olsalazine

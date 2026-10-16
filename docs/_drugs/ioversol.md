@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 807
 evidence_level: L5
 indication_count: 10
+monitor_inn: "IOVERSOL"
+predicted_indications: ["osteoarthritis susceptibility", "osteoarthritis", "rheumatoid arthritis", "brachyolmia", "hemoglobinopathy", "brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "alopecia"]
 ---
 
 # Ioversol

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1195
 evidence_level: L5
 indication_count: 10
+monitor_inn: "TALC"
+predicted_indications: ["thrombotic disease", "exostosis", "rheumatoid arthritis", "bronchitis", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "vein disease", "fibromyalgia", "myositis fibrosa"]
 ---
 
 # Talc

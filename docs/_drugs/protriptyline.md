@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1096
 evidence_level: L3
 indication_count: 5
+monitor_inn: "PROTRIPTYLINE"
+predicted_indications: ["attention deficit hyperactivity disorder, inattentive type", "specific developmental disorder", "attention deficit-hyperactivity disorder", "chondromyxoid fibroma", "faciodigitogenital syndrome"]
 ---
 
 # Protriptyline

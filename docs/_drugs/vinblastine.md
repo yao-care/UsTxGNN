@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1292
 evidence_level: L3
 indication_count: 10
+monitor_inn: "VINBLASTINE"
+predicted_indications: ["rhabdomyosarcoma (disease)", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "liver sarcoma", "monocytic leukemia", "neuroblastoma", "ganglioneuroblastoma (disease)"]
 ---
 
 # Vinblastine

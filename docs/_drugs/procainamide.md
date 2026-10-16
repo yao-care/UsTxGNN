@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1085
 evidence_level: L5
 indication_count: 10
+monitor_inn: "PROCAINAMIDE"
+predicted_indications: ["Tourette syndrome", "hyperthyroidism", "Prinzmetal angina", "methemoglobinemia, alpha type", "methemoglobinemia", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "methemoglobin reductase deficiency", "rheumatoid arthritis"]
 ---
 
 # Procainamide

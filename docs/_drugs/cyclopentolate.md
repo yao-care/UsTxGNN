@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 555
 evidence_level: L5
 indication_count: 3
+monitor_inn: "CYCLOPENTOLATE"
+predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome"]
 ---
 
 # Cyclopentolate

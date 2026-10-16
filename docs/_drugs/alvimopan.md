@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Alvimopan
 parent: Model Prediction Only (L5)
 nav_order: 314
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Alvimopan

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 694
 evidence_level: L5
 indication_count: 10
+monitor_inn: "FEDRATINIB"
+predicted_indications: ["benign PEComa", "lymphangiomyoma", "uterine corpus perivascular epithelioid cell tumor", "dermatofibrosarcoma protuberans", "rhabdoid tumor", "familial rhabdoid tumor", "autosomal recessive familial Mediterranean fever", "hemophagocytic syndrome associated with an infection", "acquired hemophagocytic lymphohistiocytosis associated with malignant disease", "lymphangioleiomyomatosis"]
 ---
 
 # Fedratinib

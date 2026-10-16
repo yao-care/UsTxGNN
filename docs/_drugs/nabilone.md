@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 948
 evidence_level: L4
 indication_count: 10
+monitor_inn: "NABILONE"
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "headache disorder", "migraine with or without aura, susceptibility to", "trigeminal autonomic cephalalgia", "atrophoderma vermiculata", "nephrogenic syndrome of inappropriate antidiuresis", "ulerythema ophryogenesis", "manic bipolar affective disorder", "Tourette syndrome"]
 ---
 
 # Nabilone

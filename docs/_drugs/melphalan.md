@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 896
 evidence_level: L2
 indication_count: 10
+monitor_inn: "MELPHALAN"
+predicted_indications: ["gonadal germ cell tumor", "ovarian primitive germ cell tumor", "choriocarcinoma of ovary", "female breast carcinoma", "malignant non-epithelial tumor of ovary", "rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "endometrial mucinous adenocarcinoma"]
 ---
 
 # Melphalan

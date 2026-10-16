@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1031
 evidence_level: L4
 indication_count: 10
+monitor_inn: "PEPPERMINT OIL"
+predicted_indications: ["leprosy", "pneumocystosis", "coronary artery disease", "myocardial ischemia", "echinococcus granulosus infectious disease", "polyp of vocal cord", "uterine polyp", "polyp of middle ear", "cardiovascular disease", "polyp of frontal sinus"]
 ---
 
 # Peppermint Oil

@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Activated Charcoal Antimony Trisulfide Arctium Lap
 parent: Model Prediction Only (L5)
 nav_order: 185
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Activated Charcoal Antimony Trisulfide Arctium Lap

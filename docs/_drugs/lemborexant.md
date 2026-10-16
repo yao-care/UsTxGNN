@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 843
 evidence_level: L1
 indication_count: 1
+monitor_inn: "LEMBOREXANT"
+predicted_indications: ["sleep disorder, initiating and maintaining sleep"]
 ---
 
 # Lemborexant

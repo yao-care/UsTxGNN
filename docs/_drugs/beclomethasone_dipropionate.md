@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 439
 evidence_level: L3
 indication_count: 1
+monitor_inn: "BECLOMETHASONE DIPROPIONATE"
+predicted_indications: ["atopic eczema"]
 ---
 
 # Beclomethasone Dipropionate

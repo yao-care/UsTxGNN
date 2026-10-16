@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 489
 evidence_level: L5
 indication_count: 10
+monitor_inn: "CANAKINUMAB"
+predicted_indications: ["hepatic infarction", "hepatic veno-occlusive disease", "peliosis hepatis", "syndrome with combined immunodeficiency", "periodic fever-infantile enterocolitis-autoinflammatory syndrome", "familial Mediterranean fever, autosomal dominant", "extracutaneous mastocytoma", "Blau syndrome", "monosomy X", "liver angiosarcoma"]
 ---
 
 # Canakinumab

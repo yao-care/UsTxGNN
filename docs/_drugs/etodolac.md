@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 683
 evidence_level: L5
 indication_count: 10
+monitor_inn: "ETODOLAC"
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "spondyloarthropathy, susceptibility to", "brachyolmia", "ankylosing spondylitis", "pseudoachondroplasia", "rheumatoid vasculitis", "hypermobility of coccyx", "inflammatory spondylopathy"]
 ---
 
 # Etodolac

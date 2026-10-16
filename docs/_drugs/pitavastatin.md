@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1051
 evidence_level: L5
 indication_count: 10
+monitor_inn: "PITAVASTATIN"
+predicted_indications: ["homozygous familial hypercholesterolemia", "hyperlipoproteinemia", "familial hypercholesterolemia", "cholesterol-ester transfer protein deficiency", "hypercholesterolemia, autosomal dominant", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hyperlipidemia due to hepatic triglyceride lipase deficiency", "feline acquired immunodeficiency syndrome"]
 ---
 
 # Pitavastatin

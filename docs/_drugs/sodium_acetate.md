@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1167
 evidence_level: L5
 indication_count: 10
+monitor_inn: "Sodium acetate"
+predicted_indications: ["congenital prothrombin deficiency", "epiglottitis", "urinary tract infection (disease)", "sclerosing cholangitis", "Ureaplasma urethritis", "gonococcal urethritis", "dyspepsia", "uterine inflammatory disease", "gastroparesis (disease)", "xanthogranulomatous pyelonephritis"]
 ---
 
 # Sodium Acetate

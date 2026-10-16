@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: 3-Methylcholanthrene Anthracene Benzopyrene Black 
 parent: Model Prediction Only (L5)
 nav_order: 26
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # 3-Methylcholanthrene Anthracene Benzopyrene Black 

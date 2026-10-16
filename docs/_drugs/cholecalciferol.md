@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 526
 evidence_level: L5
 indication_count: 7
+monitor_inn: "CHOLECALCIFEROL"
+predicted_indications: ["familial isolated hypoparathyroidism due to impaired PTH secretion", "acromesomelic dysplasia, Campailla Martinelli type", "craniofacial conodysplasia", "Dahlberg-Borer-Newcomer syndrome", "hypophosphatemic rickets", "renal osteodystrophy", "renal tubular acidosis"]
 ---
 
 # Cholecalciferol

@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 574
 evidence_level: L3
 indication_count: 10
+monitor_inn: "DAUNORUBICIN"
+predicted_indications: ["Hodgkins lymphoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "neuroblastoma", "ALK-positive large B-cell lymphoma", "adenosarcoma", "retroperitoneal neoplasm", "small cell lung carcinoma", "primary pulmonary lymphoma", "pulmonary blastoma"]
 ---
 
 # Daunorubicin

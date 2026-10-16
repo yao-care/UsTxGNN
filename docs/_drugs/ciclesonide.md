@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 528
 evidence_level: L5
 indication_count: 6
+monitor_inn: "CICLESONIDE"
+predicted_indications: ["atopic eczema", "2-hydroxyethyl methacrylate sensitization", "dermatitis, atopic", "bronchitis", "contact dermatitis", "asthma-related traits, susceptibility to"]
 ---
 
 # Ciclesonide

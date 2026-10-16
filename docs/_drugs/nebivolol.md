@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 958
 evidence_level: L5
 indication_count: 5
+monitor_inn: "NEBIVOLOL"
+predicted_indications: ["malignant hypertensive renal disease", "malignant renovascular hypertension", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
 ---
 
 # Nebivolol

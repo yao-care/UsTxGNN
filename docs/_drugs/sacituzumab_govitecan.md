@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1141
 evidence_level: L5
 indication_count: 4
+monitor_inn: "SACITUZUMAB GOVITECAN"
+predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "diabetic cataract"]
 ---
 
 # Sacituzumab Govitecan

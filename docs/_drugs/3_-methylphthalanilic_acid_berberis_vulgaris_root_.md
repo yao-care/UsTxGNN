@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: 3 -Methylphthalanilic Acid Berberis Vulgaris Root 
 parent: Model Prediction Only (L5)
 nav_order: 28
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # 3 -Methylphthalanilic Acid Berberis Vulgaris Root 

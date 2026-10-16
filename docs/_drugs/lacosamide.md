@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 828
 evidence_level: L1
 indication_count: 10
+monitor_inn: "LACOSAMIDE"
+predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "insomnia (disease)", "migraine with brainstem aura", "myofascial pain syndrome", "obsessive-compulsive disorder", "papillary conjunctivitis"]
 ---
 
 # Lacosamide

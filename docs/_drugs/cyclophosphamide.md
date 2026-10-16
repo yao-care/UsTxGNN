@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 556
 evidence_level: L5
 indication_count: 5
+monitor_inn: "CYCLOPHOSPHAMIDE"
+predicted_indications: ["myeloid leukemia", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "lymph node cancer"]
 ---
 
 # Cyclophosphamide

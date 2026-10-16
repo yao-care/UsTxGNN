@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 120
 evidence_level: L5
 indication_count: 9
+monitor_inn: "ACETIC ACID"
+predicted_indications: ["post-bacterial disorder", "postinfectious vasculitis", "post-infectious syndrome", "Chagas cardiomyopathy", "infective urethral stricture", "infection-related hemolytic uremic syndrome", "drug-induced osteoporosis", "pityriasis simplex", "tinea corporis"]
 ---
 
 # Acetic Acid

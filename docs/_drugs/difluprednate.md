@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 607
 evidence_level: L5
 indication_count: 10
+monitor_inn: "DIFLUPREDNATE"
+predicted_indications: ["familial adrenal hypoplasia with absent pituitary luteinizing hormone", "seborrheic keratosis", "PAGOD syndrome", "vulvar inverted follicular keratosis", "adrenocortical insufficiency", "seborrheic dermatitis", "46,XY disorder of sex development", "necrobiosis lipoidica", "nephrotic syndrome", "iris disease"]
 ---
 
 # Difluprednate

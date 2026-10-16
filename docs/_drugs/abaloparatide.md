@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 40
 evidence_level: L5
 indication_count: 4
+monitor_inn: "ABALOPARATIDE"
+predicted_indications: ["non-syndromic esophageal malformation", "esophageal disease", "amenorrhea (disease)", "esophageal ulcer"]
 ---
 
 # Abaloparatide

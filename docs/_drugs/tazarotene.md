@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1202
 evidence_level: L5
 indication_count: 3
+monitor_inn: "TAZAROTENE"
+predicted_indications: ["seborrheic dermatitis", "seborrheic keratosis", "vulvar inverted follicular keratosis"]
 ---
 
 # Tazarotene

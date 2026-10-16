@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 215
 evidence_level: L5
 indication_count: 1
+monitor_inn: "ADENINE"
+predicted_indications: ["drug-induced osteoporosis"]
 ---
 
 # Adenine

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1300
 evidence_level: L5
 indication_count: 2
+monitor_inn: "ZAFIRLUKAST"
+predicted_indications: ["bronchitis", "obstructive lung disease"]
 ---
 
 # Zafirlukast

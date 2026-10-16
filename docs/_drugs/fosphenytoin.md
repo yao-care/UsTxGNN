@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 739
 evidence_level: L5
 indication_count: 7
+monitor_inn: "FOSPHENYTOIN"
+predicted_indications: ["conjunctivitis", "nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome", "manic bipolar affective disorder", "idiopathic granulomatous myositis", "myositis fibrosa", "fibromyalgia"]
 ---
 
 # Fosphenytoin

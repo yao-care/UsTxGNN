@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Apis Mellifera Arctium Lappa Root Arctostaphylos U
 parent: Model Prediction Only (L5)
 nav_order: 382
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Apis Mellifera Arctium Lappa Root Arctostaphylos U

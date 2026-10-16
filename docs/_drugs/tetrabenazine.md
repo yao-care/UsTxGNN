@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1217
 evidence_level: L5
 indication_count: 10
+monitor_inn: "TETRABENAZINE"
+predicted_indications: ["polycystic kidney disease 3 with or without polycystic liver disease", "renal-hepatic-pancreatic dysplasia", "Joubert syndrome with renal defect", "karyomegalic interstitial nephritis", "thoracic malformation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "acute intermittent porphyria", "adult familial nephronophthisis-spastic quadriparesia syndrome", "atypical glycine encephalopathy", "congenital disorder of glycosylation with defective fucosylation"]
 ---
 
 # Tetrabenazine

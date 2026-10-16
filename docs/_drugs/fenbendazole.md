@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 697
 evidence_level: L5
 indication_count: 10
+monitor_inn: "FENBENDAZOLE"
+predicted_indications: ["urinary bladder carcinoma", "urinary bladder neoplasm", "infiltrating bladder urothelial carcinoma", "non-invasive bladder urothelial carcinoma", "bladder urachal urothelial carcinoma", "bladder squamous papilloma", "bladder signet ring cell adenocarcinoma", "bladder mixed adenocarcinoma", "bladder colonic type adenocarcinoma", "bladder colloid adenocarcinoma"]
 ---
 
 # Fenbendazole

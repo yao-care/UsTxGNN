@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 540
 evidence_level: L3
 indication_count: 3
+monitor_inn: "CLONAZEPAM"
+predicted_indications: ["restless legs syndrome", "insomnia (disease)", "trigeminal nerve neoplasm"]
 ---
 
 # Clonazepam

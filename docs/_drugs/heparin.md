@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 769
 evidence_level: L5
 indication_count: 2
+monitor_inn: "HEPARIN"
+predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive", "primary release disorder of platelets"]
 ---
 
 # Heparin

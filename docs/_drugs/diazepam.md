@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 600
 evidence_level: L4
 indication_count: 10
+monitor_inn: "DIAZEPAM"
+predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "sleep disorder, initiating and maintaining sleep", "attention deficit hyperactivity disorder, inattentive type", "antidepressant type abuse", "hallucinogen abuse", "barbiturate abuse", "specific developmental disorder", "attention deficit-hyperactivity disorder", "obsolete neurogenic bladder (disease)"]
 ---
 
 # Diazepam

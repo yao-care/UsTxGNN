@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 915
 evidence_level: L5
 indication_count: 3
+monitor_inn: "METHYLENE BLUE"
+predicted_indications: ["bronchitis", "methemoglobinemia, alpha type", "methemoglobinemia due to deficiency of methemoglobin reductase"]
 ---
 
 # Methylene Blue

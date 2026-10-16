@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 604
 evidence_level: L5
 indication_count: 4
+monitor_inn: "DIETHYLPROPION"
+predicted_indications: ["hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "obsolete hypertelorism (disease)", "frontorhiny"]
 ---
 
 # Diethylpropion

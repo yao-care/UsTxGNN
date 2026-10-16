@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 649
 evidence_level: L5
 indication_count: 10
+monitor_inn: "EMICIZUMAB"
+predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "Scott syndrome", "acquired coagulation factor deficiency", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "thrombotic thrombocytopenic purpura", "fetal and neonatal alloimmune thrombocytopenia", "flood factor deficiency"]
 ---
 
 # Emicizumab

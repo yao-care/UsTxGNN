@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 766
 evidence_level: L5
 indication_count: 10
+monitor_inn: "HALCINONIDE"
+predicted_indications: ["annular atrophic lichen planus", "lichen planus pigmentosus", "hypertrophic lichen planus", "vulvar inverted follicular keratosis", "lichen planus pemphigoides", "alopecia areata", "telogen effluvium", "alopecia mucinosa", "hereditary hypotrichosis with recurrent skin vesicles", "Quinquaud's folliculitis decalvans"]
 ---
 
 # Halcinonide

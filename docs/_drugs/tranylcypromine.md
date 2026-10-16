@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1249
 evidence_level: L4
 indication_count: 10
+monitor_inn: "TRANYLCYPROMINE"
+predicted_indications: ["benign paroxysmal torticollis of infancy", "Ohdo syndrome and variants", "dysthymic disorder", "agoraphobia", "melancholia", "neurotic depression", "blepharophimosis - intellectual disability syndrome, Ohdo type", "neurotic disorder", "ligneous conjunctivitis", "Keppen-Lubinsky syndrome"]
 ---
 
 # Tranylcypromine

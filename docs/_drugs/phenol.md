@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1038
 evidence_level: L5
 indication_count: 8
+monitor_inn: "PHENOL"
+predicted_indications: ["acrodermatitis chronica atrophicans", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "neonatal dermatomyositis", "amyopathic dermatomyositis", "acne keloid", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "dry eye syndrome"]
 ---
 
 # Phenol

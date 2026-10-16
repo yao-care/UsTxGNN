@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 673
 evidence_level: L4
 indication_count: 10
+monitor_inn: "ESTAZOLAM"
+predicted_indications: ["insomnia (disease)", "visual epilepsy", "alcohol withdrawal delirium", "restless legs syndrome", "myofascial pain syndrome", "thinking seizures", "micturation-induced seizures", "audiogenic seizures", "eating seizures", "orgasm-induced seizures"]
 ---
 
 # Estazolam

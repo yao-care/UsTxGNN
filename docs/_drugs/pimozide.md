@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1046
 evidence_level: L3
 indication_count: 10
+monitor_inn: "PIMOZIDE"
+predicted_indications: ["trichotillomania", "manic bipolar affective disorder", "insomnia (disease)", "major affective disorder", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "Malan overgrowth syndrome", "attention deficit hyperactivity disorder, inattentive type", "agoraphobia", "benign paroxysmal torticollis of infancy"]
 ---
 
 # Pimozide

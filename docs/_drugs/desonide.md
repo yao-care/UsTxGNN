@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 587
 evidence_level: L5
 indication_count: 10
+monitor_inn: "DESONIDE"
+predicted_indications: ["polyp of vocal cord", "polyp of middle ear", "polyp of external auditory canal", "polyp of frontal sinus", "polyp of ureter", "polyp of vulva", "fibroepithelial polyp", "neoplastic polyp", "epulis", "uterine polyp"]
 ---
 
 # Desonide

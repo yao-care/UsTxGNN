@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 542
 evidence_level: L2
 indication_count: 8
+monitor_inn: "CLOPIDOGREL"
+predicted_indications: ["migraine with brainstem aura", "migraine disorder", "osteoarthritis", "tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "rheumatoid arthritis", "osteoarthritis susceptibility"]
 ---
 
 # Clopidogrel

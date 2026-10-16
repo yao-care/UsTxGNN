@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 701
 evidence_level: L5
 indication_count: 1
+monitor_inn: "FERRIC CARBOXYMALTOSE"
+predicted_indications: ["bronchitis"]
 ---
 
 # Ferric Carboxymaltose

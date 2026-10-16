@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 765
 evidence_level: L5
 indication_count: 10
+monitor_inn: "GUSELKUMAB"
+predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "psoriasis", "diabetic retinopathy", "renal osteodystrophy", "ulcerative colitis (disease)", "congenital hypotrichosis with juvenile macular dystrophy", "primary release disorder of platelets", "Glanzmann thrombasthenia", "non-renal secondary hyperparathyroidism"]
 ---
 
 # Guselkumab

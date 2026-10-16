@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1047
 evidence_level: L5
 indication_count: 9
+monitor_inn: "PIOGLITAZONE"
+predicted_indications: ["opsismodysplasia", "classic stiff person syndrome", "focal stiff limb syndrome", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
 ---
 
 # Pioglitazone

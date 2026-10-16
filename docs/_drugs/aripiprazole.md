@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 397
 evidence_level: L1
 indication_count: 10
+monitor_inn: "ARIPIPRAZOLE"
+predicted_indications: ["major affective disorder", "gaze palsy, familial horizontal, with progressive scoliosis", "asperger syndrome, susceptibility to", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
 ---
 
 # Aripiprazole

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 488
 evidence_level: L5
 indication_count: 10
+monitor_inn: "CAMPHOR"
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "erectile dysfunction (disease)", "pulmonary hypertension", "migraine with or without aura, susceptibility to", "kyphoscoliotic heart disease", "ulerythema ophryogenesis", "Raynaud disease", "atrophoderma vermiculata", "Tourette syndrome"]
 ---
 
 # Camphor

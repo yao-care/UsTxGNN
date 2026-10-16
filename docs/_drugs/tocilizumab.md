@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1238
 evidence_level: L3
 indication_count: 10
+monitor_inn: "TOCILIZUMAB"
+predicted_indications: ["ankylosing spondylitis", "rheumatoid vasculitis", "hypermobility of coccyx", "spondyloarthropathy, susceptibility to", "inflammatory spondylopathy", "Kummell disease", "polyarticular juvenile rheumatoid arthritis", "vertebral disease", "mendelian susceptibility to mycobacterial diseases due to complete IL12B deficiency", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"]
 ---
 
 # Tocilizumab

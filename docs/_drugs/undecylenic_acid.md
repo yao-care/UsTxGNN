@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1275
 evidence_level: L5
 indication_count: 7
+monitor_inn: "UNDECYLENIC ACID"
+predicted_indications: ["dermatophytosis of groin and perianal area", "Majocchi granuloma", "ectothrix infectious disease", "endothrix infectious disease", "dermatophytosis of scalp or beard", "pityriasis versicolor", "superficial mycosis"]
 ---
 
 # Undecylenic Acid

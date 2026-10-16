@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 939
 evidence_level: L5
 indication_count: 7
+monitor_inn: "MOGAMULIZUMAB"
+predicted_indications: ["prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma", "infiltrating bladder urothelial carcinoma sarcomatoid variant", "renal pelvis papillary urothelial carcinoma", "human herpesvirus 8-related tumor", "ectomesenchymoma", "malignant cutaneous granular cell skin tumor"]
 ---
 
 # Mogamulizumab

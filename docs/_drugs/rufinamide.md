@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1138
 evidence_level: L5
 indication_count: 5
+monitor_inn: "RUFINAMIDE"
+predicted_indications: ["febrile infection-related epilepsy syndrome", "perioral myoclonia with absences", "photosensitive occipital lobe epilepsy", "cryptogenic late-onset epileptic spasms", "atypical childhood epilepsy with centrotemporal spikes"]
 ---
 
 # Rufinamide

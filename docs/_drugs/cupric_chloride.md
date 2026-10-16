@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 552
 evidence_level: L5
 indication_count: 3
+monitor_inn: "CUPRIC CHLORIDE"
+predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "thrombocytopenia due to immune destruction"]
 ---
 
 # Cupric Chloride

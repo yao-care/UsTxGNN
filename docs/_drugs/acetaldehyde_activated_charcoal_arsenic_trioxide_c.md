@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Acetaldehyde Activated Charcoal Arsenic Trioxide C
 parent: Model Prediction Only (L5)
 nav_order: 86
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Acetaldehyde Activated Charcoal Arsenic Trioxide C

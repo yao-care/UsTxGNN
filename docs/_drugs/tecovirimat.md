@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1204
 evidence_level: L5
 indication_count: 10
+monitor_inn: "TECOVIRIMAT"
+predicted_indications: ["hordeolum", "vibrio infectious disease", "Klebsiella infectious disease", "noma", "lumpy skin disease", "human infection by orthopoxvirus", "idiopathic severe pneumococcemia", "vaccinia", "coinfection", "phlebotomus fever"]
 ---
 
 # Tecovirimat

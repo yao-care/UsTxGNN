@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Acamprosate Calcium
 parent: Model Prediction Only (L5)
 nav_order: 62
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Acamprosate Calcium

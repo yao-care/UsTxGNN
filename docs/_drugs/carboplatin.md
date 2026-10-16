@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 497
 evidence_level: L2
 indication_count: 10
+monitor_inn: "CARBOPLATIN"
+predicted_indications: ["female breast carcinoma", "rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "adult germ cell tumor", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "endometrial mucinous adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mixed adenocarcinoma", "extrahepatic bile duct mucinous adenocarcinoma"]
 ---
 
 # Carboplatin

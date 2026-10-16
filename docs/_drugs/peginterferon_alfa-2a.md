@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 1021
 evidence_level: L1
 indication_count: 10
+monitor_inn: "PEGINTERFERON ALFA-2A"
+predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis A virus infection", "hepatitis, viral, animal", "Omsk hemorrhagic fever", "Kyasanur forest disease", "heart conduction disease", "heart neoplasm", "heart valve disease", "congenital anomaly of ventricular septum"]
 ---
 
 # Peginterferon Alfa-2A

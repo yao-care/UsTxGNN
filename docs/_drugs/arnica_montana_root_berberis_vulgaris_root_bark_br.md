@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Arnica Montana Root Berberis Vulgaris Root Bark Br
 parent: Model Prediction Only (L5)
 nav_order: 402
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Arnica Montana Root Berberis Vulgaris Root Bark Br

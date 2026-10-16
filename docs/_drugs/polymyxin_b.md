@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1062
 evidence_level: L4
 indication_count: 3
+monitor_inn: "POLYMYXIN B"
+predicted_indications: ["bronchitis", "laryngotracheitis", "conjunctivitis"]
 ---
 
 # Polymyxin B

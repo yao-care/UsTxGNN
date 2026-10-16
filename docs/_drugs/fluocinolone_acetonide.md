@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 718
 evidence_level: L5
 indication_count: 4
+monitor_inn: "FLUOCINOLONE ACETONIDE"
+predicted_indications: ["hypertrophic lichen planus", "annular atrophic lichen planus", "lichen planus pigmentosus", "lichen planus pemphigoides"]
 ---
 
 # Fluocinolone Acetonide

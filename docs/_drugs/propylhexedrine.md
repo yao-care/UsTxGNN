@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1094
 evidence_level: L5
 indication_count: 10
+monitor_inn: "PROPYLHEXEDRINE"
+predicted_indications: ["attention deficit-hyperactivity disorder", "migraine disorder", "faciodigitogenital syndrome", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "erectile dysfunction (disease)", "atrophoderma vermiculata", "ulerythema ophryogenesis", "trichotillomania", "Tourette syndrome"]
 ---
 
 # Propylhexedrine

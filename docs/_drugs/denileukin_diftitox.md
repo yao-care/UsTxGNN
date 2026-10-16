@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 581
 evidence_level: L2
 indication_count: 4
+monitor_inn: "DENILEUKIN DIFTITOX"
+predicted_indications: ["plasmacytoma", "neurolymphomatosis", "Richter syndrome", "metastatic neoplasm"]
 ---
 
 # Denileukin Diftitox

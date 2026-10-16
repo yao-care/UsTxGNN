@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1263
 evidence_level: L4
 indication_count: 10
+monitor_inn: "TRIHEXYPHENIDYL"
+predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "attention deficit hyperactivity disorder, inattentive type", "Rasmussen subacute encephalitis", "PLA2G6-associated neurodegeneration", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "myelitis", "Charcot-Marie-Tooth disease, demyelinating, type 1G"]
 ---
 
 # Trihexyphenidyl

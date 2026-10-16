@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 601
 evidence_level: L5
 indication_count: 10
+monitor_inn: "DIAZOXIDE"
+predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "hypertrichosis (disease)", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "autosomal dominant hyperinsulinism due to Kir6.2 deficiency"]
 ---
 
 # Diazoxide

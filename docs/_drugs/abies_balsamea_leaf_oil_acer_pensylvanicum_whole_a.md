@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Abies Balsamea Leaf Oil Acer Pensylvanicum Whole A
 parent: Model Prediction Only (L5)
 nav_order: 46
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Abies Balsamea Leaf Oil Acer Pensylvanicum Whole A

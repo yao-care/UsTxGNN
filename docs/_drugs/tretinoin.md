@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1257
 evidence_level: L5
 indication_count: 10
+monitor_inn: "TRETINOIN"
+predicted_indications: ["rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "juvenile idiopathic arthritis", "juvenile chronic polyarthritis", "spondyloarthropathy, susceptibility to", "juvenile arthritis due to defect in LACC1", "osteoarthritis", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "Quinquaud's folliculitis decalvans"]
 ---
 
 # Tretinoin

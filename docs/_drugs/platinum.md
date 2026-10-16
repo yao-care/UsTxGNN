@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1053
 evidence_level: L5
 indication_count: 10
+monitor_inn: "PLATINUM"
+predicted_indications: ["urinary bladder carcinoma", "infiltrating bladder urothelial carcinoma", "non-invasive bladder urothelial carcinoma", "bladder urachal urothelial carcinoma", "bladder signet ring cell adenocarcinoma", "bladder colonic type adenocarcinoma", "bladder colloid adenocarcinoma", "bladder mixed adenocarcinoma", "bladder clear cell adenocarcinoma", "urinary bladder neoplasm"]
 ---
 
 # Platinum

@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Activated Charcoal Apis Mellifera Arsenic Trioxide
 parent: Model Prediction Only (L5)
 nav_order: 192
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Activated Charcoal Apis Mellifera Arsenic Trioxide

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 598
 evidence_level: L5
 indication_count: 7
+monitor_inn: "DEXTROAMPHETAMINE"
+predicted_indications: ["faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "multiple system atrophy", "variably protease-sensitive prionopathy", "postural orthostatic tachycardia syndrome", "trichotillomania"]
 ---
 
 # Dextroamphetamine

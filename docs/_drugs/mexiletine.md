@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 923
 evidence_level: L5
 indication_count: 10
+monitor_inn: "MEXILETINE"
+predicted_indications: ["hypertrichosis (disease)", "nephrogenic syndrome of inappropriate antidiuresis", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "migraine disorder", "isolated genetic hair shaft abnormality", "pulmonary hypertension", "migraine with brainstem aura", "headache disorder"]
 ---
 
 # Mexiletine

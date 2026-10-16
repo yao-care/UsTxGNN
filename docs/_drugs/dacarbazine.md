@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 563
 evidence_level: L4
 indication_count: 1
+monitor_inn: "DACARBAZINE"
+predicted_indications: ["upper aerodigestive tract neoplasm"]
 ---
 
 # Dacarbazine

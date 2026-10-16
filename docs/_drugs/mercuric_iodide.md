@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 902
 evidence_level: L5
 indication_count: 10
+monitor_inn: "MERCURIC IODIDE"
+predicted_indications: ["ventricular tachycardia", "obsolete bundle branch block", "multifocal atrial tachycardia (disease)", "His bundle tachycardia", "periodic paralysis with transient compartment-like syndrome", "arrhythmogenic right ventricular cardiomyopathy", "idiopathic neonatal atrial flutter", "incessant infant ventricular tachycardia", "catecholaminergic polymorphic ventricular tachycardia", "atrial fibrillation (disease)"]
 ---
 
 # Mercuric Iodide

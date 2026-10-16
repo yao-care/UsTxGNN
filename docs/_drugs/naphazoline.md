@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 953
 evidence_level: L5
 indication_count: 10
+monitor_inn: "NAPHAZOLINE"
+predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "primary hereditary glaucoma", "hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "open-angle glaucoma", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
 ---
 
 # Naphazoline

@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 463
 evidence_level: L4
 indication_count: 10
+monitor_inn: "BLACK COHOSH"
+predicted_indications: ["heart disease", "Laubry-Pezzi syndrome", "Pierre Robin syndrome associated with a chromosomal anomaly", "genetic syndromic Pierre Robin syndrome", "partial deletion of the long arm of chromosome 7", "Jeune syndrome situs inversus", "orofacial clefting syndrome", "disorder of fucoglycosan synthesis", "pulmonary valve disease", "interventricular septum aneurysm"]
 ---
 
 # Black Cohosh

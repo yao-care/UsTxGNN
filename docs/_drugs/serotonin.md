@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1156
 evidence_level: L4
 indication_count: 10
+monitor_inn: "SEROTONIN"
+predicted_indications: ["insomnia (disease)", "anxiety disorder", "migraine disorder", "anxiety", "agoraphobia", "migraine with brainstem aura", "benign paroxysmal torticollis of infancy", "migraine with or without aura, susceptibility to", "manic bipolar affective disorder", "atrophoderma vermiculata"]
 ---
 
 # Serotonin

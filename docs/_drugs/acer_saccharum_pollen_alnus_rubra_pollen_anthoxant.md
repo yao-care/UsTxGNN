@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Acer Saccharum Pollen Alnus Rubra Pollen Anthoxant
 parent: Model Prediction Only (L5)
 nav_order: 78
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Acer Saccharum Pollen Alnus Rubra Pollen Anthoxant

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 842
 evidence_level: L5
 indication_count: 2
+monitor_inn: "LEFLUNOMIDE"
+predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
 ---
 
 # Leflunomide

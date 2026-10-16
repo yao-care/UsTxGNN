@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 268
 evidence_level: L4
 indication_count: 3
+monitor_inn: "ALPRAZOLAM"
+predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of infancy", "agoraphobia"]
 ---
 
 # Alprazolam

@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1230
 evidence_level: L3
 indication_count: 3
+monitor_inn: "TIOCONAZOLE"
+predicted_indications: ["vulvovaginitis", "vulvitis", "postmenopausal atrophic vaginitis"]
 ---
 
 # Tioconazole

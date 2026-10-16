@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 719
 evidence_level: L5
 indication_count: 7
+monitor_inn: "FLUOCINONIDE"
+predicted_indications: ["alopecia mucinosa", "telogen effluvium", "alopecia areata", "Quinquaud's folliculitis decalvans", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome"]
 ---
 
 # Fluocinonide

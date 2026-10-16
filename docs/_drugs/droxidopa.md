@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 631
 evidence_level: L5
 indication_count: 1
+monitor_inn: "DROXIDOPA"
+predicted_indications: ["variably protease-sensitive prionopathy"]
 ---
 
 # Droxidopa

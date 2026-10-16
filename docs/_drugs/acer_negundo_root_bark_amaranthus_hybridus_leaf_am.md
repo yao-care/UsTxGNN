@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Acer Negundo Root Bark Amaranthus Hybridus Leaf Am
 parent: Model Prediction Only (L5)
 nav_order: 71
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Acer Negundo Root Bark Amaranthus Hybridus Leaf Am

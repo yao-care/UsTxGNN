@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 535
 evidence_level: L5
 indication_count: 6
+monitor_inn: "CLINDAMYCIN"
+predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "non-human animal disease", "neurotrophic keratopathy", "epidemic keratoconjunctivitis", "postmenopausal atrophic vaginitis"]
 ---
 
 # Clindamycin

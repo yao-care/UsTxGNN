@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 1007
 evidence_level: L2
 indication_count: 10
+monitor_inn: "PACLITAXEL"
+predicted_indications: ["female breast carcinoma", "estrogen-receptor negative breast cancer", "Ehrlich tumor carcinoma", "estrogen-receptor positive breast cancer", "hormone-resistant breast carcinoma", "bilateral breast carcinoma", "breast carcinoma by gene expression profile", "nipple carcinoma", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 ---
 
 # Paclitaxel

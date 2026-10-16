@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1270
 evidence_level: L5
 indication_count: 10
+monitor_inn: "Trospium"
+predicted_indications: ["irritable bowel syndrome", "cauda equina syndrome", "obsolete neurogenic bladder (disease)", "common cold", "dysthymic disorder", "neurocirculatory asthenia", "open-angle glaucoma", "autonomic nervous system disease", "insomnia (disease)", "primary hereditary glaucoma"]
 ---
 
 # Trospium

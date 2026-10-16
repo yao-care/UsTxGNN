@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Abrus Precatorius Seed Aconitum Napellus Aethusa C
 parent: Model Prediction Only (L5)
 nav_order: 50
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Abrus Precatorius Seed Aconitum Napellus Aethusa C

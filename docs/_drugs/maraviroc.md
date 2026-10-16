@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 887
 evidence_level: L5
 indication_count: 10
+monitor_inn: "MARAVIROC"
+predicted_indications: ["multiple endocrine neoplasia", "acne (disease)", "primary cutaneous T-cell lymphoma", "pediatric systemic lupus erythematosus", "primary cutaneous T-cell non-Hodgkin lymphoma", "primary cutaneous B-cell lymphoma", "candidiasis", "complement component 4a deficiency", "cytomegalovirus infection", "HER2 positive breast carcinoma"]
 ---
 
 # Maraviroc

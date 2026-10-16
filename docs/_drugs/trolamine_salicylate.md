@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1267
 evidence_level: L5
 indication_count: 10
+monitor_inn: "TROLAMINE SALICYLATE"
+predicted_indications: ["exostosis", "tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "fibromyalgia", "inclusion body myositis", "exostoses, multiple,", "rheumatoid arthritis", "headache disorder", "gout"]
 ---
 
 # Trolamine Salicylate

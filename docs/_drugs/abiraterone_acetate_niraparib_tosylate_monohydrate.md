@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Abiraterone Acetate Niraparib Tosylate Monohydrate
 parent: Model Prediction Only (L5)
 nav_order: 49
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Abiraterone Acetate Niraparib Tosylate Monohydrate

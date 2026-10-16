@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 1198
 evidence_level: L1
 indication_count: 10
+monitor_inn: "TAMOXIFEN"
+predicted_indications: ["mammary Paget disease", "intraductal cribriform breast adenocarcinoma", "basal-like breast carcinoma", "breast carcinoma in situ", "sebaceous breast carcinoma", "invasive tubular breast carcinoma", "estrogen-receptor positive breast cancer", "hormone-resistant breast carcinoma", "Ehrlich tumor carcinoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 ---
 
 # Tamoxifen

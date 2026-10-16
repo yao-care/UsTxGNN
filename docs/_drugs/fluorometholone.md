@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 722
 evidence_level: L5
 indication_count: 10
+monitor_inn: "FLUOROMETHOLONE"
+predicted_indications: ["postinfectious vasculitis", "post-bacterial disorder", "otitis externa", "infective urethral stricture", "post-infectious syndrome", "punctate epithelial keratoconjunctivitis", "infection-related hemolytic uremic syndrome", "Chagas cardiomyopathy", "lens-induced iridocyclitis", "glaucomatocyclitic crisis"]
 ---
 
 # Fluorometholone

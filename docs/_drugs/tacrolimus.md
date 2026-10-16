@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 1191
 evidence_level: L1
 indication_count: 3
+monitor_inn: "TACROLIMUS"
+predicted_indications: ["seborrheic dermatitis", "parapsoriasis", "dermatitis"]
 ---
 
 # Tacrolimus

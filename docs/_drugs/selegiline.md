@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1150
 evidence_level: L3
 indication_count: 4
+monitor_inn: "SELEGILINE"
+predicted_indications: ["polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "schizophrenia", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies"]
 ---
 
 # Selegiline

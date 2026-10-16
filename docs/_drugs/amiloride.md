@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 326
 evidence_level: L5
 indication_count: 6
+monitor_inn: "AMILORIDE"
+predicted_indications: ["malignant hypertensive renal disease", "malignant renovascular hypertension", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease"]
 ---
 
 # Amiloride

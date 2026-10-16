@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1307
 evidence_level: L5
 indication_count: 10
+monitor_inn: "ZINC GLUCONATE"
+predicted_indications: ["anemia of prematurity", "injury", "cell proliferation disorder", "perinatal disease", "florid cemento-osseous dysplasia", "segmental odontomaxillary dysplasia", "radiation or chemically induced disorder", "disease by subcellular system affected", "iatrogenic disease", "regional odontodysplasia"]
 ---
 
 # Zinc Gluconate

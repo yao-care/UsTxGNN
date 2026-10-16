@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 957
 evidence_level: L5
 indication_count: 10
+monitor_inn: "NATAMYCIN"
+predicted_indications: ["vulvovaginal candidiasis", "candidiasis", "vulvitis", "vulvovaginitis", "trichomonal vulvovaginitis", "postmenopausal atrophic vaginitis", "ulceration of vulva", "vulvar neoplasm", "vaginitis (disease)", "tinea nigra"]
 ---
 
 # Natamycin

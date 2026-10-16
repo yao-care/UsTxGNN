@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: 3-O-Ethyl Ascorbic Acid Allantoin Hippophae Rhamno
 parent: Model Prediction Only (L5)
 nav_order: 27
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # 3-O-Ethyl Ascorbic Acid Allantoin Hippophae Rhamno

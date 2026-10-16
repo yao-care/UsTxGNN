@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1039
 evidence_level: L5
 indication_count: 2
+monitor_inn: "PHENOXYBENZAMINE"
+predicted_indications: ["primary hereditary glaucoma", "open-angle glaucoma"]
 ---
 
 # Phenoxybenzamine

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 984
 evidence_level: L5
 indication_count: 10
+monitor_inn: "OFLOXACIN"
+predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder", "punctate epithelial keratoconjunctivitis"]
 ---
 
 # Ofloxacin

@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Acacia Amaranthus Hybridus Leaf Amaranthus Tubercu
 parent: Model Prediction Only (L5)
 nav_order: 53
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Acacia Amaranthus Hybridus Leaf Amaranthus Tubercu

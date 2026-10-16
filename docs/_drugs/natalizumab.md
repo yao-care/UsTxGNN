@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 956
 evidence_level: L5
 indication_count: 5
+monitor_inn: "NATALIZUMAB"
+predicted_indications: ["bronchitis", "parapsoriasis", "psoriasis", "severe nonproliferative diabetic retinopathy", "acute lichenoid pityriasis"]
 ---
 
 # Natalizumab

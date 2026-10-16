@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1103
 evidence_level: L5
 indication_count: 2
+monitor_inn: "RABEPRAZOLE"
+predicted_indications: ["Smouldering systemic mastocytosis", "lymphoadenopathic mastocytosis with eosinophilia"]
 ---
 
 # Rabeprazole

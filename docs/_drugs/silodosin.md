@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1160
 evidence_level: L5
 indication_count: 6
+monitor_inn: "SILODOSIN"
+predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
 ---
 
 # Silodosin

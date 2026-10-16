@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1001
 evidence_level: L3
 indication_count: 1
+monitor_inn: "OXAZEPAM"
+predicted_indications: ["insomnia (disease)"]
 ---
 
 # Oxazepam

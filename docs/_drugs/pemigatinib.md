@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1026
 evidence_level: L5
 indication_count: 10
+monitor_inn: "PEMIGATINIB"
+predicted_indications: ["multiple endocrine neoplasia", "amenorrhea (disease)", "HER2 positive breast carcinoma", "cytomegalovirus infection", "infectious bovine rhinotracheitis", "malignant catarrh", "amyotrophic lateral sclerosis", "amyotrohpic lateral sclerosis type 22", "amyotrophic lateral sclerosis, susceptibility to", "axial spondylometaphyseal dysplasia"]
 ---
 
 # Pemigatinib

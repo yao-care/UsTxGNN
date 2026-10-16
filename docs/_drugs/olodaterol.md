@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 988
 evidence_level: L4
 indication_count: 2
+monitor_inn: "OLODATEROL"
+predicted_indications: ["bronchitis", "obstructive lung disease"]
 ---
 
 # Olodaterol

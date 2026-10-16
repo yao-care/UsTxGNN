@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 679
 evidence_level: L3
 indication_count: 4
+monitor_inn: "ETELCALCETIDE"
+predicted_indications: ["hyperphosphatemia (disease)", "esophageal varices with bleeding", "esophageal varices without bleeding", "varicose disease"]
 ---
 
 # Etelcalcetide

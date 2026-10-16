@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 628
 evidence_level: L3
 indication_count: 10
+monitor_inn: "DRONABINOL"
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "headache disorder", "trigeminal autonomic cephalalgia", "pulmonary hypertension", "hypertrichosis (disease)", "migraine with or without aura, susceptibility to", "kyphoscoliotic heart disease", "Ambras type hypertrichosis universalis congenita", "atrophoderma vermiculata"]
 ---
 
 # Dronabinol

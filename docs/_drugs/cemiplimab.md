@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 511
 evidence_level: L5
 indication_count: 10
+monitor_inn: "CEMIPLIMAB"
+predicted_indications: ["gallbladder adenosquamous carcinoma", "glottis squamous cell carcinoma", "rectal cloacogenic carcinoma", "external ear basal cell carcinoma", "adenosquamous prostate carcinoma", "urethral verrucous carcinoma", "lung occult squamous cell carcinoma", "pancreatic adenosquamous carcinoma", "non-keratinizing sinonasal squamous cell carcinoma", "supraglottis squamous cell carcinoma"]
 ---
 
 # Cemiplimab

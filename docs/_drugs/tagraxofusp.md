@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1194
 evidence_level: L5
 indication_count: 10
+monitor_inn: "TAGRAXOFUSP"
+predicted_indications: ["esotropia", "pre-malignant neoplasm", "inner ear neoplasm", "benign neoplasm of tongue", "bronchial adenomas/carcinoids childhood", "chondroid hamartoma", "non-seminomatous lesion", "ductal or ductular proliferation", "cystic neoplasm", "thyroglossal duct cyst"]
 ---
 
 # Tagraxofusp

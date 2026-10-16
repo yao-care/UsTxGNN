@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Antimony Trisulfide Berberis Vulgaris Root Bark Br
 parent: Model Prediction Only (L5)
 nav_order: 358
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Antimony Trisulfide Berberis Vulgaris Root Bark Br

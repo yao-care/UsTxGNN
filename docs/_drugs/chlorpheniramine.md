@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 522
 evidence_level: L4
 indication_count: 4
+monitor_inn: "CHLORPHENIRAMINE"
+predicted_indications: ["allergic urticaria", "nasal cavity disease", "acute laryngopharyngitis", "cold urticaria"]
 ---
 
 # Chlorpheniramine

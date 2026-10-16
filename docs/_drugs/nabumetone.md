@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 949
 evidence_level: L5
 indication_count: 10
+monitor_inn: "NABUMETONE"
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "spondyloarthropathy, susceptibility to", "WHIM syndrome", "rheumatoid nodulosis"]
 ---
 
 # Nabumetone

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1140
 evidence_level: L5
 indication_count: 10
+monitor_inn: "RUXOLITINIB"
+predicted_indications: ["uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lymphangiomyoma", "lymphangioleiomyomatosis", "liposarcoma", "familial rhabdoid tumor", "lung PEComa", "ovarian myxoid liposarcoma", "acquired hemophagocytic lymphohistiocytosis associated with malignant disease", "hemophagocytic syndrome associated with an infection"]
 ---
 
 # Ruxolitinib

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 875
 evidence_level: L5
 indication_count: 10
+monitor_inn: "LUBIPROSTONE"
+predicted_indications: ["alopecia", "congenital hypotrichosis milia", "hypotrichosis simplex of the scalp", "diffuse alopecia areata", "pulmonary hypertension", "kyphoscoliotic heart disease", "Raynaud disease", "pulmonary hypertension, primary, autosomal recessive", "phaeochromocytoma", "peripheral vascular disease"]
 ---
 
 # Lubiprostone

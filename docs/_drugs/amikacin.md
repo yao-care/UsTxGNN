@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 325
 evidence_level: L4
 indication_count: 10
+monitor_inn: "AMIKACIN"
+predicted_indications: ["paratyphoid fever", "diffuse scleroderma", "punctate epithelial keratoconjunctivitis", "typhoid fever", "epiglottitis", "salmonellosis", "congenital analbuminemia", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "meningococcemia"]
 ---
 
 # Amikacin

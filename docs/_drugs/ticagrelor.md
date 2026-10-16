@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1227
 evidence_level: L5
 indication_count: 10
+monitor_inn: "TICAGRELOR"
+predicted_indications: ["intracranial arteriosclerosis", "Monckeberg arteriosclerosis", "priapism", "ischemic disease", "May-Thurner syndrome", "livedo reticularis", "mesenteric vascular occlusion", "vascular ectasia", "angiodysplasia", "fibrocartilaginous embolism"]
 ---
 
 # Ticagrelor

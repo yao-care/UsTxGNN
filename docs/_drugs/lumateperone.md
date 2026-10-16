@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 877
 evidence_level: L5
 indication_count: 9
+monitor_inn: "LUMATEPERONE"
+predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "hydranencephaly (disease)", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "myopia X-linked", "congenital disorder of glycosylation with defective fucosylation", "syndromic myopia", "atypical glycine encephalopathy"]
 ---
 
 # Lumateperone

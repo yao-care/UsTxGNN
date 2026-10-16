@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 727
 evidence_level: L4
 indication_count: 1
+monitor_inn: "FLURAZEPAM"
+predicted_indications: ["sleep disorder, initiating and maintaining sleep"]
 ---
 
 # Flurazepam

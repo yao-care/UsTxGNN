@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 36
 evidence_level: L4
 indication_count: 3
+monitor_inn: "ABACAVIR"
+predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 ---
 
 # Abacavir

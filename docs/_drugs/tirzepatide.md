@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 1233
 evidence_level: L2
 indication_count: 10
+monitor_inn: "Tirzepatide"
+predicted_indications: ["gout", "osteoarthritis", "pseudoachondroplasia", "osteoarthritis susceptibility", "benign prostatic hyperplasia (disease)", "rheumatoid arthritis", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis"]
 ---
 
 # Tirzepatide

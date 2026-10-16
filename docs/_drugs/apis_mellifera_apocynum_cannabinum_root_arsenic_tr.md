@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Apis Mellifera Apocynum Cannabinum Root Arsenic Tr
 parent: Model Prediction Only (L5)
 nav_order: 373
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Apis Mellifera Apocynum Cannabinum Root Arsenic Tr

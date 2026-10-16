@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1211
 evidence_level: L5
 indication_count: 10
+monitor_inn: "TERAZOSIN"
+predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "migraine disorder", "migraine with brainstem aura", "Raynaud disease", "Ambras type hypertrichosis universalis congenita", "manic bipolar affective disorder", "kyphoscoliotic heart disease"]
 ---
 
 # Terazosin

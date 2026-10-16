@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1015
 evidence_level: L4
 indication_count: 10
+monitor_inn: "PARATHYROID HORMONE"
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "amenorrhea (disease)", "Raynaud disease", "non-syndromic esophageal malformation", "migraine with or without aura, susceptibility to", "esophageal disease", "atrophoderma vermiculata", "ulerythema ophryogenesis", "erectile dysfunction (disease)"]
 ---
 
 # Parathyroid Hormone

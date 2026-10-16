@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 918
 evidence_level: L5
 indication_count: 5
+monitor_inn: "METOCLOPRAMIDE"
+predicted_indications: ["gastric ulcer (disease)", "gastroduodenitis", "peptic ulcer disease", "peptic ulcer perforation", "gastrojejunal ulcer"]
 ---
 
 # Metoclopramide

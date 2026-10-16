@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 943
 evidence_level: L3
 indication_count: 10
+monitor_inn: "MORPHINE"
+predicted_indications: ["myofascial pain syndrome", "manic bipolar affective disorder", "Tourette syndrome", "restless legs syndrome", "attention deficit hyperactivity disorder, inattentive type", "migraine disorder", "trichotillomania", "methemoglobinemia", "migraine with brainstem aura", "specific developmental disorder"]
 ---
 
 # Morphine

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1145
 evidence_level: L5
 indication_count: 6
+monitor_inn: "SCOPOLAMINE"
+predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "papillary conjunctivitis", "atopic conjunctivitis", "rosacea conjunctivitis", "vernal conjunctivitis"]
 ---
 
 # Scopolamine

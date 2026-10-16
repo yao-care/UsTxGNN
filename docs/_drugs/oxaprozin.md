@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1000
 evidence_level: L5
 indication_count: 10
+monitor_inn: "OXAPROZIN"
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "spondyloarthropathy, susceptibility to", "pseudoachondroplasia", "rheumatoid nodulosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "brachydactyly-syndactyly syndrome"]
 ---
 
 # Oxaprozin

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 223
 evidence_level: L5
 indication_count: 10
+monitor_inn: "ALITRETINOIN"
+predicted_indications: ["amenorrhea (disease)", "acne (disease)", "atypical coarctation of aorta", "pregnancy associated osteoporosis", "aortic malformation", "postmenopausal osteoporosis", "autosomal dominant neovascular inflammatory vitreoretinopathy", "breast fibrocystic disease", "benign mammary dysplasia", "Worth syndrome"]
 ---
 
 # Alitretinoin

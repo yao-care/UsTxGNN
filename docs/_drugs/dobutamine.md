@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 616
 evidence_level: L5
 indication_count: 10
+monitor_inn: "DOBUTAMINE"
+predicted_indications: ["alopecia", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "open-angle glaucoma", "Raynaud disease", "primary hereditary glaucoma", "headache disorder", "hypertrichosis (disease)", "migraine disorder"]
 ---
 
 # Dobutamine

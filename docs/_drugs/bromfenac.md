@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 473
 evidence_level: L1
 indication_count: 10
+monitor_inn: "BROMFENAC"
+predicted_indications: ["eye disease", "optic papillitis", "von Hippel anomaly", "mcpherson robertson cammarano syndrome", "vulvar inverted follicular keratosis", "lagophthalmos", "microblepharon-ablephara syndrome", "seborrheic keratosis", "conjunctival degeneration", "luxation of globe"]
 ---
 
 # Bromfenac

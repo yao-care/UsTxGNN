@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 803
 evidence_level: L4
 indication_count: 10
+monitor_inn: "INTERFERON GAMMA-1B"
+predicted_indications: ["heart disease", "Jeune syndrome situs inversus", "orofacial clefting syndrome", "Pierre Robin syndrome associated with a chromosomal anomaly", "disorder of fucoglycosan synthesis", "genetic syndromic Pierre Robin syndrome", "partial deletion of the long arm of chromosome 7", "Laubry-Pezzi syndrome", "partial deletion of the long arm of chromosome 22", "interventricular septum aneurysm"]
 ---
 
 # Interferon Gamma-1B

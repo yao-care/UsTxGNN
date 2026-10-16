@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 561
 evidence_level: L5
 indication_count: 7
+monitor_inn: "CYSTEINE"
+predicted_indications: ["dry eye syndrome", "closed-angle glaucoma", "nasal cavity disease", "acute laryngopharyngitis", "pharyngitis", "exercise-induced malignant hyperthermia", "angle-closure glaucoma"]
 ---
 
 # Cysteine

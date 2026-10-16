@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 741
 evidence_level: L4
 indication_count: 2
+monitor_inn: "FREMANEZUMAB"
+predicted_indications: ["migraine with brainstem aura", "atrophoderma vermiculata"]
 ---
 
 # Fremanezumab

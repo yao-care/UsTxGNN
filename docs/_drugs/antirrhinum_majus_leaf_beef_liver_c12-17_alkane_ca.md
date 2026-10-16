@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Antirrhinum Majus Leaf Beef Liver C12-17 Alkane Ca
 parent: Model Prediction Only (L5)
 nav_order: 368
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Antirrhinum Majus Leaf Beef Liver C12-17 Alkane Ca

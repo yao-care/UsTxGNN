@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 122
 evidence_level: L2
 indication_count: 10
+monitor_inn: "ACETYLCYSTEINE"
+predicted_indications: ["thrombotic disease", "closed-angle glaucoma", "nasal cavity disease", "dry eye syndrome", "pharyngitis", "acute laryngopharyngitis", "tracheal disease", "transient ischemic attack (disease)", "laryngotracheitis", "angle-closure glaucoma"]
 ---
 
 # Acetylcysteine

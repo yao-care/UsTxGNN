@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1261
 evidence_level: L4
 indication_count: 1
+monitor_inn: "TRIFLUOPERAZINE"
+predicted_indications: ["manic bipolar affective disorder"]
 ---
 
 # Trifluoperazine

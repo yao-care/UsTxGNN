@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Acetaminophen Dextromethorphan Hydrobromide Pseudo
 parent: Model Prediction Only (L5)
 nav_order: 116
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Acetaminophen Dextromethorphan Hydrobromide Pseudo

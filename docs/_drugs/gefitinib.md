@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 747
 evidence_level: L5
 indication_count: 10
+monitor_inn: "GEFITINIB"
+predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "lung hilum carcinoma", "lung benign neoplasm", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "pulmonary sulcus neoplasm", "lung germ cell tumor", "junctional epidermolysis bullosa"]
 ---
 
 # Gefitinib

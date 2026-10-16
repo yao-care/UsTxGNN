@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1168
 evidence_level: L5
 indication_count: 6
+monitor_inn: "SODIUM CARBONATE"
+predicted_indications: ["cauda equina syndrome", "anaphylaxis", "food-dependent exercise-induced anaphylaxis", "obsolete neurogenic bladder (disease)", "dry eye syndrome", "ventricular tachycardia"]
 ---
 
 # Sodium Carbonate

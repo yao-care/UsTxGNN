@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1276
 evidence_level: L5
 indication_count: 2
+monitor_inn: "UPADACITINIB"
+predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
 ---
 
 # Upadacitinib

@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 348
 evidence_level: L1
 indication_count: 6
+monitor_inn: "ANASTROZOLE"
+predicted_indications: ["female breast carcinoma", "neuroblastoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "monocytic leukemia"]
 ---
 
 # Anastrozole

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1169
 evidence_level: L5
 indication_count: 6
+monitor_inn: "SODIUM FERRIC GLUCONATE COMPLEX"
+predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "anaphylaxis", "bronchitis", "food-dependent exercise-induced anaphylaxis", "diabetic cataract"]
 ---
 
 # Sodium Ferric Gluconate Complex

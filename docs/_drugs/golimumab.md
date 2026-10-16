@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 758
 evidence_level: L4
 indication_count: 5
+monitor_inn: "GOLIMUMAB"
+predicted_indications: ["rheumatoid vasculitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "polyarticular juvenile rheumatoid arthritis"]
 ---
 
 # Golimumab

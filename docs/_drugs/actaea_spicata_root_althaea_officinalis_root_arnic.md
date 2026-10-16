@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Actaea Spicata Root Althaea Officinalis Root Arnic
 parent: Model Prediction Only (L5)
 nav_order: 149
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Actaea Spicata Root Althaea Officinalis Root Arnic

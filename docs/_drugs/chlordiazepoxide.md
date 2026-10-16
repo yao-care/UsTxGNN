@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 519
 evidence_level: L4
 indication_count: 10
+monitor_inn: "CHLORDIAZEPOXIDE"
+predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "obsolete neurogenic bladder (disease)", "attention deficit hyperactivity disorder, inattentive type", "specific developmental disorder", "sleep disorder, initiating and maintaining sleep", "barbiturate abuse", "antidepressant type abuse", "hallucinogen abuse", "myofascial pain syndrome"]
 ---
 
 # Chlordiazepoxide

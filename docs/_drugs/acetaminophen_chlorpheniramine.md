@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Acetaminophen Chlorpheniramine
 parent: Model Prediction Only (L5)
 nav_order: 103
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Acetaminophen Chlorpheniramine

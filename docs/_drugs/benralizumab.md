@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 445
 evidence_level: L2
 indication_count: 5
+monitor_inn: "BENRALIZUMAB"
+predicted_indications: ["thrombocytopenia due to immune destruction", "dermatitis", "acne keloid", "neonatal dermatomyositis", "amyopathic dermatomyositis"]
 ---
 
 # Benralizumab

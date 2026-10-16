@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1183
 evidence_level: L5
 indication_count: 10
+monitor_inn: "STREPTOZOCIN"
+predicted_indications: ["relapsing-remitting multiple sclerosis", "small cell lung carcinoma", "pulmonary blastoma", "well-differentiated fetal adenocarcinoma of the lung", "hereditary breast ovarian cancer syndrome", "primary pulmonary lymphoma", "lymphosarcoma", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma"]
 ---
 
 # Streptozocin

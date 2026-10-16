@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1268
 evidence_level: L5
 indication_count: 10
+monitor_inn: "TROMETHAMINE"
+predicted_indications: ["allergic urticaria", "rosacea conjunctivitis", "recalcitrant atopic dermatitis", "post-bacterial disorder", "otitis externa", "postinfectious vasculitis", "infective urethral stricture", "post-infectious syndrome", "Chagas cardiomyopathy", "IgE responsiveness, atopic"]
 ---
 
 # Tromethamine

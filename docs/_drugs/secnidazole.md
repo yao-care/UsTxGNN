@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1148
 evidence_level: L5
 indication_count: 7
+monitor_inn: "SECNIDAZOLE"
+predicted_indications: ["postmenopausal atrophic vaginitis", "ulceration of vulva", "vaginal discharge", "vulvar neoplasm", "trichomonal vulvovaginitis", "leukoplakia of vagina", "vulvovaginal candidiasis"]
 ---
 
 # Secnidazole

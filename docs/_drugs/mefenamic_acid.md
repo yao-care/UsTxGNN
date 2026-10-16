@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 894
 evidence_level: L2
 indication_count: 8
+monitor_inn: "MEFENAMIC ACID"
+predicted_indications: ["rheumatoid arthritis", "osteoarthritis susceptibility", "headache disorder", "trigeminal autonomic cephalalgia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "migraine disorder", "migraine with brainstem aura"]
 ---
 
 # Mefenamic Acid

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1083
 evidence_level: L5
 indication_count: 10
+monitor_inn: "PRIMIDONE"
+predicted_indications: ["trigeminal nerve neoplasm", "startle epilepsy", "orgasm-induced seizures", "micturation-induced seizures", "thinking seizures", "eating seizures", "audiogenic seizures", "reading seizures", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
 ---
 
 # Primidone

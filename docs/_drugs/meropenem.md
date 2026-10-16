@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 903
 evidence_level: L5
 indication_count: 10
+monitor_inn: "MEROPENEM"
+predicted_indications: ["bacterial arthritis", "epiglottitis", "staphylococcus aureus infection", "laryngitis", "paratyphoid fever", "urinary tract infection (disease)", "Lyme disease", "Peptostreptococcus infectious disease", "Ureaplasma urethritis", "gonococcal urethritis"]
 ---
 
 # Meropenem

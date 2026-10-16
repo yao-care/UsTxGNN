@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 907
 evidence_level: L4
 indication_count: 3
+monitor_inn: "METHAZOLAMIDE"
+predicted_indications: ["primary hereditary glaucoma", "congestive heart failure", "acute pulmonary heart disease"]
 ---
 
 # Methazolamide

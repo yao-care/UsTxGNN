@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 1034
 evidence_level: L1
 indication_count: 10
+monitor_inn: "PERTUZUMAB"
+predicted_indications: ["progesterone-receptor positive breast cancer", "normal breast-like subtype of breast carcinoma", "progesterone-receptor negative breast cancer", "breast tumor luminal A or B", "ectomesenchymoma", "malignant cutaneous granular cell skin tumor", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma"]
 ---
 
 # Pertuzumab

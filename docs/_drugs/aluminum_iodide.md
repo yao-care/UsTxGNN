@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Aluminum Iodide
 parent: Model Prediction Only (L5)
 nav_order: 277
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Aluminum Iodide

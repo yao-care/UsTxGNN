@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 682
 evidence_level: L5
 indication_count: 1
+monitor_inn: "ETHOSUXIMIDE"
+predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
 ---
 
 # Ethosuximide

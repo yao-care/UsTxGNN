@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Acacia Pollen Acer Negundo Pollen Agrostis Gigante
 parent: Model Prediction Only (L5)
 nav_order: 58
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Acacia Pollen Acer Negundo Pollen Agrostis Gigante

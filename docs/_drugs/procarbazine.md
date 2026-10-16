@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1087
 evidence_level: L3
 indication_count: 5
+monitor_inn: "PROCARBAZINE"
+predicted_indications: ["follicular lymphoma", "neuroblastoma", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "vertebral anomalies and variable endocrine and T-cell dysfunction"]
 ---
 
 # Procarbazine

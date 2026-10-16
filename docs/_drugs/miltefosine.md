@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 931
 evidence_level: L3
 indication_count: 4
+monitor_inn: "MILTEFOSINE"
+predicted_indications: ["leishmaniasis, diffuse cutaneous", "echinococcus granulosus infectious disease", "alveolar echinococcosis", "Smouldering systemic mastocytosis"]
 ---
 
 # Miltefosine

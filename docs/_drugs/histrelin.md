@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 771
 evidence_level: L5
 indication_count: 10
+monitor_inn: "HISTRELIN"
+predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "centra precocious puberty 1", "pelvic organ prolapse", "female genital tuberculosis", "physiological sexual disorder", "idiopathic central precocious puberty"]
 ---
 
 # Histrelin

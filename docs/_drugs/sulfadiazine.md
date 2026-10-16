@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1186
 evidence_level: L4
 indication_count: 2
+monitor_inn: "SULFADIAZINE"
+predicted_indications: ["pneumocystosis", "punctate epithelial keratoconjunctivitis"]
 ---
 
 # Sulfadiazine

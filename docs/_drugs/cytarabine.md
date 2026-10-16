@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 562
 evidence_level: L4
 indication_count: 9
+monitor_inn: "CYTARABINE"
+predicted_indications: ["small cell lung carcinoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "upper aerodigestive tract neoplasm", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "neuroblastoma"]
 ---
 
 # Cytarabine

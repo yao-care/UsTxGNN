@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Anamirta Cocculus Whole Ascorbic Acid Chamaelirium
 parent: Model Prediction Only (L5)
 nav_order: 343
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Anamirta Cocculus Whole Ascorbic Acid Chamaelirium

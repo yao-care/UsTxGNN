@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 424
 evidence_level: L4
 indication_count: 10
+monitor_inn: "ATOMOXETINE"
+predicted_indications: ["specific developmental disorder", "faciodigitogenital syndrome", "chondromyxoid fibroma", "trichotillomania", "restless legs syndrome", "manic bipolar affective disorder", "Tourette syndrome", "transient tic disorder", "cerebellar ataxia", "autosomal dominant cerebellar ataxia"]
 ---
 
 # Atomoxetine

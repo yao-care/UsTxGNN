@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1244
 evidence_level: L5
 indication_count: 1
+monitor_inn: "TOREMIFENE"
+predicted_indications: ["HIV infectious disease"]
 ---
 
 # Toremifene

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 724
 evidence_level: L5
 indication_count: 10
+monitor_inn: "FLUOXETINE"
+predicted_indications: ["histrionic personality disorder (disease)", "schizotypal personality disorder", "schizoid personality disorder", "paranoid personality disorder", "benign paroxysmal torticollis of infancy", "agoraphobia", "manic bipolar affective disorder", "phobic disorder", "Ohdo syndrome and variants", "melancholia"]
 ---
 
 # Fluoxetine

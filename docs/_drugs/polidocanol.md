@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1059
 evidence_level: L5
 indication_count: 10
+monitor_inn: "POLIDOCANOL"
+predicted_indications: ["esophageal varices with bleeding", "esophageal varices without bleeding", "Immunoerythromyeloid hypoplasia", "pigmented paravenous retinochoroidal atrophy", "progressive bifocal chorioretinal atrophy", "X-linked retinal dysplasia", "monosomy X", "cone dystrophy", "oligocone trichromacy", "retinoschisis of fovea"]
 ---
 
 # Polidocanol

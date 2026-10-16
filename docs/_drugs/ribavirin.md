@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1119
 evidence_level: L5
 indication_count: 10
+monitor_inn: "RIBAVIRIN"
+predicted_indications: ["chronic hepatitis B virus infection", "primitive portal vein thrombosis", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "hepatopulmonary syndrome", "hepatoportal sclerosis", "hepatic porphyria", "IgG4-related pachymeningitis", "IgG4-related aortitis", "IgG4-related mesenteritis"]
 ---
 
 # Ribavirin

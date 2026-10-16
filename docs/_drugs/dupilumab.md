@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 634
 evidence_level: L3
 indication_count: 10
+monitor_inn: "DUPILUMAB"
+predicted_indications: ["bronchitis", "dermatitis", "acne keloid", "exanthem (disease)", "neonatal dermatomyositis", "acrodermatitis chronica atrophicans", "amyopathic dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy"]
 ---
 
 # Dupilumab

@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1084
 evidence_level: L4
 indication_count: 3
+monitor_inn: "PROBENECID"
+predicted_indications: ["hypouricemia, renal", "Lesch-Nyhan syndrome", "hypoxanthine guanine phosphoribosyltransferase partial deficiency"]
 ---
 
 # Probenecid

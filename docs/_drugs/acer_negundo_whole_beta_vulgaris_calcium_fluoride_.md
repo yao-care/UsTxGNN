@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Acer Negundo Whole Beta Vulgaris Calcium Fluoride 
 parent: Model Prediction Only (L5)
 nav_order: 72
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Acer Negundo Whole Beta Vulgaris Calcium Fluoride 

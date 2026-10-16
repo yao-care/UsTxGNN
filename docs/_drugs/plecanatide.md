@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1055
 evidence_level: L5
 indication_count: 10
+monitor_inn: "PLECANATIDE"
+predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "isolated genetic hair shaft abnormality", "syndrome with a Dandy-Walker malformation as major feature", "idiopathic spontaneous coronary artery dissection", "vascular disease", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "phaeochromocytoma"]
 ---
 
 # Plecanatide

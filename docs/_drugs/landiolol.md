@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 833
 evidence_level: L5
 indication_count: 6
+monitor_inn: "LANDIOLOL"
+predicted_indications: ["lingual-facial-buccal dyskinesia", "chronic tic disorder", "psychogenic movement disorders", "extrapyramidal and movement disease", "benign shuddering attacks", "primary orthostatic tremor"]
 ---
 
 # Landiolol

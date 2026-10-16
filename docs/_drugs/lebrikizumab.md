@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 841
 evidence_level: L5
 indication_count: 10
+monitor_inn: "Lebrikizumab"
+predicted_indications: ["severe nonproliferative diabetic retinopathy", "drug-induced osteoporosis", "diabetic retinopathy", "primary release disorder of platelets", "dermatitis", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "neonatal dermatomyositis", "psoriasis", "HER2 positive breast carcinoma"]
 ---
 
 # Lebrikizumab

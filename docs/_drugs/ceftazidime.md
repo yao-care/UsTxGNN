@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 507
 evidence_level: L2
 indication_count: 10
+monitor_inn: "CEFTAZIDIME"
+predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "urinary tract infection (disease)", "epiglottitis", "Ureaplasma urethritis", "gonococcal urethritis", "blood group incompatibility", "infectious otitis media", "Peptostreptococcus infectious disease"]
 ---
 
 # Ceftazidime

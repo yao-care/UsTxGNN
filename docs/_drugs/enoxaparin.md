@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 654
 evidence_level: L5
 indication_count: 1
+monitor_inn: "ENOXAPARIN"
+predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive"]
 ---
 
 # Enoxaparin

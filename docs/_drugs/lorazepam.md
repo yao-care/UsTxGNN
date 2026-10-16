@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 870
 evidence_level: L5
 indication_count: 10
+monitor_inn: "LORAZEPAM"
+predicted_indications: ["trigeminal nerve neoplasm", "insomnia (disease)", "reading seizures", "thinking seizures", "orgasm-induced seizures", "audiogenic seizures", "startle epilepsy", "eating seizures", "micturation-induced seizures", "acute encephalopathy with biphasic seizures and late reduced diffusion"]
 ---
 
 # Lorazepam

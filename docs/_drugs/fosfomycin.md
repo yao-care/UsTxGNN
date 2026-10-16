@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 737
 evidence_level: L5
 indication_count: 10
+monitor_inn: "FOSFOMYCIN"
+predicted_indications: ["Ureaplasma urethritis", "gonococcal urethritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "epiglottitis", "urogenital tuberculosis", "laryngitis", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "pyelitis"]
 ---
 
 # Fosfomycin

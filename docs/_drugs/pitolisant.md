@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1052
 evidence_level: L4
 indication_count: 3
+monitor_inn: "PITOLISANT"
+predicted_indications: ["insomnia (disease)", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome"]
 ---
 
 # Pitolisant

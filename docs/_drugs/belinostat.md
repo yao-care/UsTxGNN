@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 441
 evidence_level: L5
 indication_count: 3
+monitor_inn: "BELINOSTAT"
+predicted_indications: ["myeloid leukemia", "plasma cell myeloma", "indolent plasma cell myeloma"]
 ---
 
 # Belinostat

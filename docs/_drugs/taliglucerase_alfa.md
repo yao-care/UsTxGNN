@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1196
 evidence_level: L5
 indication_count: 5
+monitor_inn: "TALIGLUCERASE ALFA"
+predicted_indications: ["Hurler syndrome", "Scheie syndrome", "benign neoplasm of adrenal gland", "autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease"]
 ---
 
 # Taliglucerase Alfa

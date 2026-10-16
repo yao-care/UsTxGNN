@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 872
 evidence_level: L4
 indication_count: 8
+monitor_inn: "LOSARTAN"
+predicted_indications: ["malignant hypertensive renal disease", "malignant renovascular hypertension", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "Prinzmetal angina", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies"]
 ---
 
 # Losartan

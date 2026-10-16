@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 726
 evidence_level: L5
 indication_count: 10
+monitor_inn: "FLURANDRENOLIDE"
+predicted_indications: ["vulvar inverted follicular keratosis", "lichen planus pigmentosus", "hypertrophic lichen planus", "annular atrophic lichen planus", "alopecia areata", "primary cutaneous B-cell lymphoma", "alopecia mucinosa", "telogen effluvium", "lichen planus pemphigoides", "hereditary hypotrichosis with recurrent skin vesicles"]
 ---
 
 # Flurandrenolide

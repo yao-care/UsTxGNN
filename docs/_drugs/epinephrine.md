@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 660
 evidence_level: L1
 indication_count: 4
+monitor_inn: "EPINEPHRINE"
+predicted_indications: ["obstructive lung disease", "food-dependent exercise-induced anaphylaxis", "Rienhoff syndrome", "respiratory malformation"]
 ---
 
 # Epinephrine

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1028
 evidence_level: L5
 indication_count: 10
+monitor_inn: "PENTOBARBITAL"
+predicted_indications: ["obesity disorder", "manic bipolar affective disorder", "hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "sleep disorder, initiating and maintaining sleep", "obsolete hypertelorism (disease)", "major affective disorder", "frontorhiny", "monogenic obesity", "trichotillomania"]
 ---
 
 # Pentobarbital

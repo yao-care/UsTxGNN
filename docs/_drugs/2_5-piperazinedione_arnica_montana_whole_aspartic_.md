@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: 2 5-Piperazinedione Arnica Montana Whole Aspartic 
 parent: Model Prediction Only (L5)
 nav_order: 24
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # 2 5-Piperazinedione Arnica Montana Whole Aspartic 

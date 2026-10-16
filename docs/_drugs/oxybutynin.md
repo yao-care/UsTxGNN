@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1004
 evidence_level: L5
 indication_count: 3
+monitor_inn: "OXYBUTYNIN"
+predicted_indications: ["restless legs syndrome", "gastroduodenitis", "peptic ulcer disease"]
 ---
 
 # Oxybutynin

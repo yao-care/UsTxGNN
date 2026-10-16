@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1216
 evidence_level: L3
 indication_count: 7
+monitor_inn: "TERLIPRESSIN"
+predicted_indications: ["open-angle glaucoma", "primary hereditary glaucoma", "pulmonary hypertension", "kyphoscoliotic heart disease", "esotropia", "glaucoma 1, open angle", "headache disorder"]
 ---
 
 # Terlipressin

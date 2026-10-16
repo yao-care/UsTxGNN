@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 558
 evidence_level: L4
 indication_count: 7
+monitor_inn: "CYCLOSPORINE"
+predicted_indications: ["granulomatous disease, chronic, autosomal recessive", "brain aneurysm", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital ichthyosiform erythroderma", "fetal erythroblastosis", "brachydactyly-syndactyly syndrome", "prolapse of lacrimal gland"]
 ---
 
 # Cyclosporine

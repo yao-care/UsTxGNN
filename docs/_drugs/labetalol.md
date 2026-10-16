@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 827
 evidence_level: L4
 indication_count: 4
+monitor_inn: "LABETALOL"
+predicted_indications: ["malignant renovascular hypertension", "malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
 ---
 
 # Labetalol

@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 639
 evidence_level: L1
 indication_count: 6
+monitor_inn: "ECALLANTIDE"
+predicted_indications: ["C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "Peyronie disease", "pancreatitis", "esophageal varices without bleeding", "esophageal varices with bleeding"]
 ---
 
 # Ecallantide

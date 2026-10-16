@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 119
 evidence_level: L5
 indication_count: 10
+monitor_inn: "ACETAZOLAMIDE"
+predicted_indications: ["exercise-induced malignant hyperthermia", "hypertrophic cardiomyopathy", "congenital myopathy with excess of thin filaments", "hypertrophic cardiomyopathy due to intensive athletic training", "distal myopathy, Tateyama type", "cirrhotic cardiomyopathy", "cardiomyopathy", "intestinal obstruction", "glycogen storage disease due to acid maltase deficiency, late-onset", "myopathic intestinal pseudoobstruction"]
 ---
 
 # Acetazolamide

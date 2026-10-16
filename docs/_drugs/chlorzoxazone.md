@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 525
 evidence_level: L5
 indication_count: 9
+monitor_inn: "CHLORZOXAZONE"
+predicted_indications: ["migraine disorder", "nephrogenic syndrome of inappropriate antidiuresis", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "pulmonary hypertension", "atrophoderma vermiculata", "ulerythema ophryogenesis", "kyphoscoliotic heart disease", "rheumatoid arthritis"]
 ---
 
 # Chlorzoxazone

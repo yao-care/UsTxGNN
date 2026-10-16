@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 588
 evidence_level: L3
 indication_count: 10
+monitor_inn: "DESOXIMETASONE"
+predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "hereditary hypotrichosis with recurrent skin vesicles", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "primary cutaneous B-cell lymphoma", "atrichia with papular lesions", "vulvar inverted follicular keratosis"]
 ---
 
 # Desoximetasone

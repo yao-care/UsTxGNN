@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Acetaldehyde Berberis Vulgaris Root Bark Caffeine 
 parent: Model Prediction Only (L5)
 nav_order: 91
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Acetaldehyde Berberis Vulgaris Root Bark Caffeine 

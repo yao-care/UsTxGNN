@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 584
 evidence_level: L5
 indication_count: 8
+monitor_inn: "DESIPRAMINE"
+predicted_indications: ["attention deficit hyperactivity disorder, inattentive type", "attention deficit-hyperactivity disorder", "specific developmental disorder", "chondromyxoid fibroma", "faciodigitogenital syndrome", "benign paroxysmal torticollis of infancy", "agoraphobia", "obsessive-compulsive disorder"]
 ---
 
 # Desipramine

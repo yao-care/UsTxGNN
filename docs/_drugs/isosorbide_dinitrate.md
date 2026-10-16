@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 815
 evidence_level: L5
 indication_count: 10
+monitor_inn: "ISOSORBIDE DINITRATE"
+predicted_indications: ["alopecia", "congenital hypotrichosis milia", "hypotrichosis simplex of the scalp", "pulmonary hypertension", "diffuse alopecia areata", "vascular disease", "hypertrichosis (disease)", "kyphoscoliotic heart disease", "visceral calciphylaxis", "venous thoracic outlet syndrome"]
 ---
 
 # Isosorbide Dinitrate

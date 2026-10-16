@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 910
 evidence_level: L5
 indication_count: 5
+monitor_inn: "METHOHEXITAL"
+predicted_indications: ["insomnia (disease)", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "migraine with brainstem aura", "headache disorder"]
 ---
 
 # Methohexital

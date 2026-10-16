@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 592
 evidence_level: L3
 indication_count: 2
+monitor_inn: "DEXCHLORPHENIRAMINE"
+predicted_indications: ["allergic urticaria", "cold urticaria"]
 ---
 
 # Dexchlorpheniramine

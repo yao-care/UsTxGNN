@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 641
 evidence_level: L5
 indication_count: 2
+monitor_inn: "EDARAVONE"
+predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis"]
 ---
 
 # Edaravone

@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1222
 evidence_level: L4
 indication_count: 10
+monitor_inn: "THIORIDAZINE"
+predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "nephrogenic syndrome of inappropriate antidiuresis", "major affective disorder", "bipolar disorder", "obsessive-compulsive disorder", "attention deficit-hyperactivity disorder", "paranoid personality disorder", "schizoid personality disorder"]
 ---
 
 # Thioridazine

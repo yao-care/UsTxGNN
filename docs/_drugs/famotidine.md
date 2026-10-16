@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 692
 evidence_level: L4
 indication_count: 10
+monitor_inn: "FAMOTIDINE"
+predicted_indications: ["duodenogastric reflux", "duodenal obstruction", "active peptic ulcer disease", "gastrojejunal ulcer", "peptic ulcer perforation", "abnormality of glucagon secretion", "gastroduodenitis", "peptic ulcer disease", "multiple endocrine neoplasia", "acne (disease)"]
 ---
 
 # Famotidine

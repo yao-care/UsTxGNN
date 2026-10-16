@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1229
 evidence_level: L5
 indication_count: 10
+monitor_inn: "TINIDAZOLE"
+predicted_indications: ["postmenopausal atrophic vaginitis", "ulceration of vulva", "vulvar neoplasm", "breast fibrocystic disease", "AIDS", "apocrine adenosis of breast", "blunt duct adenosis of breast", "congenital human immunodeficiency virus", "AIDS related complex", "benign mammary dysplasia"]
 ---
 
 # Tinidazole

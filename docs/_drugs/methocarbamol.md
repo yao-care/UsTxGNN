@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 909
 evidence_level: L5
 indication_count: 10
+monitor_inn: "METHOCARBAMOL"
+predicted_indications: ["cauda equina syndrome", "irritable bowel syndrome", "panuveitis (disease)", "anaphylaxis", "iris disease", "uveitis", "ventricular tachycardia", "food-dependent exercise-induced anaphylaxis", "conjunctivitis", "obsolete bundle branch block"]
 ---
 
 # Methocarbamol

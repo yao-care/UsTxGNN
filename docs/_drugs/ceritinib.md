@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 513
 evidence_level: L5
 indication_count: 10
+monitor_inn: "CERITINIB"
+predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung hilum carcinoma", "lung benign neoplasm", "lung germ cell tumor", "pulmonary sulcus neoplasm", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "junctional epidermolysis bullosa"]
 ---
 
 # Ceritinib

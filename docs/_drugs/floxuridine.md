@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 712
 evidence_level: L5
 indication_count: 10
+monitor_inn: "FLOXURIDINE"
+predicted_indications: ["hereditary breast ovarian cancer syndrome", "neutrophil immunodeficiency syndrome", "myeloid leukemia", "CMM7", "pediatric leptomeningeal melanoma", "melanoma", "epithelioid cell uveal melanoma", "ovarian clear cell adenocarcinoma", "central nervous system melanocytic neoplasm", "female breast carcinoma"]
 ---
 
 # Floxuridine

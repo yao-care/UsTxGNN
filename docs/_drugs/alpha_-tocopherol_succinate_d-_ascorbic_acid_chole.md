@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Alpha -Tocopherol Succinate D- Ascorbic Acid Chole
 parent: Model Prediction Only (L5)
 nav_order: 259
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Alpha -Tocopherol Succinate D- Ascorbic Acid Chole

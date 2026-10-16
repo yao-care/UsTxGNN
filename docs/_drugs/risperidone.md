@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1128
 evidence_level: L5
 indication_count: 6
+monitor_inn: "RISPERIDONE"
+predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "asperger syndrome, susceptibility to", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania", "major affective disorder"]
 ---
 
 # Risperidone

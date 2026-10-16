@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 1278
 evidence_level: L2
 indication_count: 10
+monitor_inn: "USTEKINUMAB"
+predicted_indications: ["dermatitis", "neonatal dermatomyositis", "acne keloid", "acrodermatitis chronica atrophicans", "amyopathic dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "pityriasis lichenoides", "acute lichenoid pityriasis"]
 ---
 
 # Ustekinumab

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 786
 evidence_level: L5
 indication_count: 1
+monitor_inn: "ICOSAPENT ETHYL"
+predicted_indications: ["hemoglobinopathy"]
 ---
 
 # Icosapent Ethyl

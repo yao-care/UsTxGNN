@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 749
 evidence_level: L4
 indication_count: 10
+monitor_inn: "GEMFIBROZIL"
+predicted_indications: ["rheumatoid arthritis", "multiple endocrine neoplasia", "HIV infectious disease", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "methemoglobinemia, alpha type", "obsolete familial combined hyperlipidemia", "sclerosing cholangitis", "methemoglobin reductase deficiency"]
 ---
 
 # Gemfibrozil

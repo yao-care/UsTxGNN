@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 725
 evidence_level: L5
 indication_count: 10
+monitor_inn: "FLUPHENAZINE"
+predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "syndromic myopia", "myopia X-linked", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "atypical glycine encephalopathy", "manic bipolar affective disorder"]
 ---
 
 # Fluphenazine

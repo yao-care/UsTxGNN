@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 999
 evidence_level: L2
 indication_count: 4
+monitor_inn: "OXALIPLATIN"
+predicted_indications: ["malignant pleural mesothelioma", "malignant epithelioid mesothelioma", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
 ---
 
 # Oxaliplatin

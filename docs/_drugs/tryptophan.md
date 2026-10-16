@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1271
 evidence_level: L5
 indication_count: 8
+monitor_inn: "TRYPTOPHAN"
+predicted_indications: ["restless legs syndrome", "primary hereditary glaucoma", "open-angle glaucoma", "insomnia (disease)", "methemoglobinemia", "methemoglobinemia, alpha type", "methemoglobin reductase deficiency", "congenital prothrombin deficiency"]
 ---
 
 # Tryptophan

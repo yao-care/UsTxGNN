@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 495
 evidence_level: L5
 indication_count: 10
+monitor_inn: "CARBAMAZEPINE"
+predicted_indications: ["trigeminal nerve neoplasm", "thinking seizures", "eating seizures", "orgasm-induced seizures", "micturation-induced seizures", "startle epilepsy", "audiogenic seizures", "reading seizures", "beta-ketothiolase deficiency", "Rett syndrome, congenital variant"]
 ---
 
 # Carbamazepine

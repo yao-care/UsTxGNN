@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1203
 evidence_level: L5
 indication_count: 10
+monitor_inn: "TECHNETIUM TC-99M SESTAMIBI"
+predicted_indications: ["homozygous familial hypercholesterolemia", "multiple endocrine neoplasia", "cerebral infarction", "hypoalphalipoproteinemia", "cytomegalovirus infection", "Prinzmetal angina", "stroke disorder", "gastrin secretion abnormality", "cerebral arterial disease", "obsolete familial combined hyperlipidemia"]
 ---
 
 # Technetium Tc-99M Sestamibi

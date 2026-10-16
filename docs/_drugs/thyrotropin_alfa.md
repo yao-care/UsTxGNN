@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1225
 evidence_level: L5
 indication_count: 10
+monitor_inn: "THYROTROPIN ALFA"
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Raynaud disease", "migraine with or without aura, susceptibility to", "atrophoderma vermiculata", "ulerythema ophryogenesis", "pulmonary hypertension", "kyphoscoliotic heart disease", "postural orthostatic tachycardia syndrome", "hyperthyroidism"]
 ---
 
 # Thyrotropin Alfa

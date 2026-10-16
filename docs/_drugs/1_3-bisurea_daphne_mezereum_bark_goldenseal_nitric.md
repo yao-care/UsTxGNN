@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: 1 3-Bisurea Daphne Mezereum Bark Goldenseal Nitric
 parent: Model Prediction Only (L5)
 nav_order: 16
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # 1 3-Bisurea Daphne Mezereum Bark Goldenseal Nitric

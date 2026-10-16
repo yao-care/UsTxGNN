@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 801
 evidence_level: L5
 indication_count: 10
+monitor_inn: "Insulin human"
+predicted_indications: ["autoimmune oophoritis", "classic stiff person syndrome", "focal stiff limb syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "pancreatic agenesis", "idiopathic localized lipodystrophy"]
 ---
 
 # Insulin Human

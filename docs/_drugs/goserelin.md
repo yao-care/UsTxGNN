@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 760
 evidence_level: L2
 indication_count: 3
+monitor_inn: "GOSERELIN"
+predicted_indications: ["amenorrhea (disease)", "renal hypoplasia (disease)", "renal hypoplasia, bilateral"]
 ---
 
 # Goserelin

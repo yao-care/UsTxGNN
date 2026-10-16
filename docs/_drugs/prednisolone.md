@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 1077
 evidence_level: L2
 indication_count: 10
+monitor_inn: "PREDNISOLONE"
+predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "prolapse of lacrimal gland", "idiopathic steroid-sensitive nephrotic syndrome"]
 ---
 
 # Prednisolone

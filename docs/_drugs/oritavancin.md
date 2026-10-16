@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 995
 evidence_level: L5
 indication_count: 3
+monitor_inn: "ORITAVANCIN"
+predicted_indications: ["Bacteroidaceae infectious disease", "ophthalmic herpes zoster", "Mycoplasma pneumoniae pneumonia"]
 ---
 
 # Oritavancin

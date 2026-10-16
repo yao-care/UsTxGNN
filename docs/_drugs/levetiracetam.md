@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 850
 evidence_level: L4
 indication_count: 10
+monitor_inn: "LEVETIRACETAM"
+predicted_indications: ["visual epilepsy", "orgasm-induced seizures", "startle epilepsy", "micturation-induced seizures", "audiogenic seizures", "eating seizures", "thinking seizures", "reading seizures", "status epilepticus", "beta-ketothiolase deficiency"]
 ---
 
 # Levetiracetam

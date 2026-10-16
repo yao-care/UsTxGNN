@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 882
 evidence_level: L4
 indication_count: 10
+monitor_inn: "MAGNESIUM CARBONATE"
+predicted_indications: ["active peptic ulcer disease", "gastrojejunal ulcer", "peptic ulcer perforation", "gastroduodenitis", "gastric ulcer (disease)", "gastroparesis (disease)", "stomach disease", "duodenal obstruction", "duodenogastric reflux", "duodenal ulcer (disease)"]
 ---
 
 # Magnesium Carbonate

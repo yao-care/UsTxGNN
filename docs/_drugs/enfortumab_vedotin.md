@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 653
 evidence_level: L5
 indication_count: 9
+monitor_inn: "ENFORTUMAB VEDOTIN"
+predicted_indications: ["leprosy", "multiple endocrine neoplasia", "cytomegalovirus infection", "candidiasis", "cerebral infarction", "HIV infectious disease", "homozygous familial hypercholesterolemia", "malignant catarrh", "infectious bovine rhinotracheitis"]
 ---
 
 # Enfortumab Vedotin

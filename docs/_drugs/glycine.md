@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 757
 evidence_level: L5
 indication_count: 2
+monitor_inn: "GLYCINE"
+predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis"]
 ---
 
 # Glycine

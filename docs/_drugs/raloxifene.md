@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1105
 evidence_level: L5
 indication_count: 4
+monitor_inn: "Raloxifene"
+predicted_indications: ["duodenal ulcer (disease)", "hypoalphalipoproteinemia", "duodenal obstruction", "duodenogastric reflux"]
 ---
 
 # Raloxifene

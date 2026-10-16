@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 806
 evidence_level: L5
 indication_count: 10
+monitor_inn: "IOPROMIDE"
+predicted_indications: ["osteoarthritis susceptibility", "osteoarthritis", "rheumatoid arthritis", "brachyolmia", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "alopecia", "myosclerosis", "hemoglobinopathy", "pseudoachondroplasia"]
 ---
 
 # Iopromide

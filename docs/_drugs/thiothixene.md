@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1223
 evidence_level: L5
 indication_count: 10
+monitor_inn: "THIOTHIXENE"
+predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "hydranencephaly (disease)", "syndromic myopia", "myopia X-linked", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy", "manic bipolar affective disorder"]
 ---
 
 # Thiothixene

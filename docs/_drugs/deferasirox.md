@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 577
 evidence_level: L4
 indication_count: 5
+monitor_inn: "DEFERASIROX"
+predicted_indications: ["HIV infectious disease", "chronic hepatitis C virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "dermatofibrosarcoma protuberans"]
 ---
 
 # Deferasirox

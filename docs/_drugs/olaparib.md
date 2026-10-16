@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 986
 evidence_level: L1
 indication_count: 1
+monitor_inn: "OLAPARIB"
+predicted_indications: ["female breast carcinoma"]
 ---
 
 # Olaparib

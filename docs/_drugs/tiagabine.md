@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1226
 evidence_level: L4
 indication_count: 1
+monitor_inn: "TIAGABINE"
+predicted_indications: ["visual epilepsy"]
 ---
 
 # Tiagabine

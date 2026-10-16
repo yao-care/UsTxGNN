@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 904
 evidence_level: L5
 indication_count: 3
+monitor_inn: "METAXALONE"
+predicted_indications: ["infectious otitis media", "endocarditis", "endocardial fibroelastosis"]
 ---
 
 # Metaxalone

@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1302
 evidence_level: L4
 indication_count: 6
+monitor_inn: "ZANUBRUTINIB"
+predicted_indications: ["myeloid leukemia", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "Ewing sarcoma", "neuroblastoma"]
 ---
 
 # Zanubrutinib

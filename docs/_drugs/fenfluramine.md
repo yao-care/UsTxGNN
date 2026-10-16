@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 698
 evidence_level: L5
 indication_count: 4
+monitor_inn: "FENFLURAMINE"
+predicted_indications: ["proximal 16p11.2 microdeletion syndrome", "hypervitaminosis", "obsolete hypertelorism (disease)", "frontorhiny"]
 ---
 
 # Fenfluramine

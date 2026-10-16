@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 327
 evidence_level: L5
 indication_count: 1
+monitor_inn: "AMINOCAPROIC ACID"
+predicted_indications: ["severe nonproliferative diabetic retinopathy"]
 ---
 
 # Aminocaproic Acid

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1287
 evidence_level: L5
 indication_count: 7
+monitor_inn: "VERAPAMIL"
+predicted_indications: ["obsolete bundle branch block", "malignant hypertensive renal disease", "malignant renovascular hypertension", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "periodic paralysis with transient compartment-like syndrome"]
 ---
 
 # Verapamil

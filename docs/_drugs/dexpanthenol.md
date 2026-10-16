@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 596
 evidence_level: L5
 indication_count: 7
+monitor_inn: "DEXPANTHENOL"
+predicted_indications: ["anorectal stricture", "imperforate anus", "anal polyp", "vulvar inverted follicular keratosis", "proctitis", "exanthem (disease)", "punctate epithelial keratoconjunctivitis"]
 ---
 
 # Dexpanthenol

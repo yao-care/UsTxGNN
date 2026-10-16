@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 951
 evidence_level: L5
 indication_count: 10
+monitor_inn: "NAFARELIN"
+predicted_indications: ["Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "hypertrichosis (disease)", "pelvic organ prolapse", "syndrome with a Dandy-Walker malformation as major feature", "female genital tuberculosis", "physiological sexual disorder", "isolated genetic hair shaft abnormality", "centra precocious puberty 1", "dysplasia of cervix"]
 ---
 
 # Nafarelin

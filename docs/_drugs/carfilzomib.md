@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 499
 evidence_level: L5
 indication_count: 5
+monitor_inn: "CARFILZOMIB"
+predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "vulvar melanoma (disease)", "melanoma"]
 ---
 
 # Carfilzomib

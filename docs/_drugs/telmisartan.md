@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1206
 evidence_level: L5
 indication_count: 10
+monitor_inn: "TELMISARTAN"
+predicted_indications: ["Prinzmetal angina", "brain stem infarction", "ABri amyloidosis", "cerebral artery occlusion", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant renovascular hypertension", "malignant hypertensive renal disease", "intracerebral hemorrhage", "Braddock syndrome"]
 ---
 
 # Telmisartan

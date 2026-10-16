@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1143
 evidence_level: L5
 indication_count: 10
+monitor_inn: "SALICYLIC ACID"
+predicted_indications: ["papillary conjunctivitis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "rosacea conjunctivitis", "acromesomelic dysplasia, Hunter-Thompson type", "pseudoachondroplasia", "myosclerosis", "brachyolmia", "spondyloarthropathy, susceptibility to"]
 ---
 
 # Salicylic Acid

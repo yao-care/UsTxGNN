@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 998
 evidence_level: L5
 indication_count: 4
+monitor_inn: "OXACILLIN"
+predicted_indications: ["epiglottitis", "laryngitis", "bacterial arthritis", "urinary tract infection (disease)"]
 ---
 
 # Oxacillin

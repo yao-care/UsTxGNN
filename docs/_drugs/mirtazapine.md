@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 934
 evidence_level: L5
 indication_count: 3
+monitor_inn: "MIRTAZAPINE"
+predicted_indications: ["Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type", "benign paroxysmal torticollis of infancy"]
 ---
 
 # Mirtazapine

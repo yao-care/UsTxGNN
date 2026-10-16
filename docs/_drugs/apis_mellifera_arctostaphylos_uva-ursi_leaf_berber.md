@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Apis Mellifera Arctostaphylos Uva-Ursi Leaf Berber
 parent: Model Prediction Only (L5)
 nav_order: 387
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Apis Mellifera Arctostaphylos Uva-Ursi Leaf Berber

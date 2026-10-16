@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 214
 evidence_level: L4
 indication_count: 10
+monitor_inn: "ADEFOVIR DIPIVOXIL"
+predicted_indications: ["chronic hepatitis C virus infection", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "hepatitis B virus infection", "hepatitis C virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection"]
 ---
 
 # Adefovir Dipivoxil

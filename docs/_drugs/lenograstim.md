@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 845
 evidence_level: L5
 indication_count: 4
+monitor_inn: "LENOGRASTIM"
+predicted_indications: ["primary release disorder of platelets", "Glanzmann thrombasthenia", "pseudo-von Willebrand disease", "severe nonproliferative diabetic retinopathy"]
 ---
 
 # Lenograstim

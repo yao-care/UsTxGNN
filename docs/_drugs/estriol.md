@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 676
 evidence_level: L3
 indication_count: 1
+monitor_inn: "ESTRIOL"
+predicted_indications: ["amenorrhea (disease)"]
 ---
 
 # Estriol

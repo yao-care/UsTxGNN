@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1011
 evidence_level: L5
 indication_count: 5
+monitor_inn: "PALONOSETRON"
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
 ---
 
 # Palonosetron

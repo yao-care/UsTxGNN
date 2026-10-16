@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 965
 evidence_level: L5
 indication_count: 7
+monitor_inn: "NIFURTIMOX"
+predicted_indications: ["congenital analbuminemia", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "blood group incompatibility", "monoclonal gammopathy", "premalignant hematological system disease", "hematological disease associated with an acquired peripheral neuropathy"]
 ---
 
 # Nifurtimox

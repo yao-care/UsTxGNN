@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 323
 evidence_level: L5
 indication_count: 8
+monitor_inn: "AMCINONIDE"
+predicted_indications: ["vulvar inverted follicular keratosis", "hypertrophic lichen planus", "lichen planus pigmentosus", "annular atrophic lichen planus", "lichen planus pemphigoides", "primary cutaneous B-cell lymphoma", "dermatitis", "2-hydroxyethyl methacrylate sensitization"]
 ---
 
 # Amcinonide

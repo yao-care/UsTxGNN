@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 567
 evidence_level: L3
 indication_count: 10
+monitor_inn: "DANAZOL"
+predicted_indications: ["amenorrhea (disease)", "benign mammary dysplasia", "apocrine adenosis of breast", "blunt duct adenosis of breast", "breast abscess", "fat necrosis of breast", "lactation disease", "breast adenosis", "vulvovaginitis", "vulvitis"]
 ---
 
 # Danazol

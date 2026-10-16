@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 873
 evidence_level: L5
 indication_count: 10
+monitor_inn: "LOTEPREDNOL ETABONATE"
+predicted_indications: ["conjunctival folliculosis", "serous conjunctivitis except viral", "chronic follicular conjunctivitis", "parasitic conjunctivitis", "pseudomembranous conjunctivitis", "Angelucci syndrome", "acute hemorrhagic conjunctivitis", "rosacea conjunctivitis", "acute contagious conjunctivitis", "otitis externa"]
 ---
 
 # Loteprednol Etabonate

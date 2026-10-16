@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 736
 evidence_level: L5
 indication_count: 4
+monitor_inn: "FOSCARNET"
+predicted_indications: ["autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "rheumatoid arthritis", "diabetic nephropathy"]
 ---
 
 # Foscarnet

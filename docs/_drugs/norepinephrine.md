@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 976
 evidence_level: L4
 indication_count: 3
+monitor_inn: "NOREPINEPHRINE"
+predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome"]
 ---
 
 # Norepinephrine

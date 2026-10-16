@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 566
 evidence_level: L5
 indication_count: 5
+monitor_inn: "DALTEPARIN"
+predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive", "primary release disorder of platelets", "pseudo-von Willebrand disease", "atypical hemolytic-uremic syndrome with thrombomodulin anomaly", "neuropathy, painful"]
 ---
 
 # Dalteparin

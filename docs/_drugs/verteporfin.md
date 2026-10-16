@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1288
 evidence_level: L5
 indication_count: 1
+monitor_inn: "VERTEPORFIN"
+predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies"]
 ---
 
 # Verteporfin

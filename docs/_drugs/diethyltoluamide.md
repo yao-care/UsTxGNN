@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 605
 evidence_level: L5
 indication_count: 8
+monitor_inn: "DIETHYLTOLUAMIDE"
+predicted_indications: ["insomnia (disease)", "attention deficit hyperactivity disorder, inattentive type", "specific developmental disorder", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "heparin cofactor 2 deficiency", "migraine disorder", "attention deficit-hyperactivity disorder"]
 ---
 
 # Diethyltoluamide

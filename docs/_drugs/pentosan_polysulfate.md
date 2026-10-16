@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1029
 evidence_level: L5
 indication_count: 3
+monitor_inn: "PENTOSAN POLYSULFATE"
+predicted_indications: ["primary release disorder of platelets", "Glanzmann thrombasthenia", "pseudo-von Willebrand disease"]
 ---
 
 # Pentosan Polysulfate

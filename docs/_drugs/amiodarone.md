@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 328
 evidence_level: L5
 indication_count: 10
+monitor_inn: "AMIODARONE"
+predicted_indications: ["catecholaminergic polymorphic ventricular tachycardia", "incessant infant ventricular tachycardia", "ventricular tachycardia", "obsolete bundle branch block", "rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "heparin cofactor 2 deficiency", "trichotillomania", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "gout"]
 ---
 
 # Amiodarone

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 916
 evidence_level: L5
 indication_count: 4
+monitor_inn: "METHYLPHENIDATE"
+predicted_indications: ["faciodigitogenital syndrome", "chondromyxoid fibroma", "specific developmental disorder", "dysthymic disorder"]
 ---
 
 # Methylphenidate

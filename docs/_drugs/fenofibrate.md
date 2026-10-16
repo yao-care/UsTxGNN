@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 699
 evidence_level: L5
 indication_count: 7
+monitor_inn: "FENOFIBRATE"
+predicted_indications: ["homozygous familial hypercholesterolemia", "hyperlipoproteinemia", "familial hypercholesterolemia", "cholesterol-ester transfer protein deficiency", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "hyperlipidemia due to hepatic triglyceride lipase deficiency", "hypercholesterolemia, autosomal dominant"]
 ---
 
 # Fenofibrate

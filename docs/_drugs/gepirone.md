@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 750
 evidence_level: L5
 indication_count: 3
+monitor_inn: "GEPIRONE"
+predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "postpartum depression"]
 ---
 
 # Gepirone

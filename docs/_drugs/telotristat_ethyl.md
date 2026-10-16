@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1207
 evidence_level: L5
 indication_count: 2
+monitor_inn: "TELOTRISTAT ETHYL"
+predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)"]
 ---
 
 # Telotristat Ethyl

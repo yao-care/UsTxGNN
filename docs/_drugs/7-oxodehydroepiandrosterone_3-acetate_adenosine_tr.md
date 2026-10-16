@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: 7-Oxodehydroepiandrosterone 3-Acetate Adenosine Tr
 parent: Model Prediction Only (L5)
 nav_order: 34
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # 7-Oxodehydroepiandrosterone 3-Acetate Adenosine Tr

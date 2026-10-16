@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 329
 evidence_level: L5
 indication_count: 10
+monitor_inn: "AMLODIPINE"
+predicted_indications: ["brain stem infarction", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "malignant renovascular hypertension", "cerebral artery occlusion", "Braddock syndrome", "MRI defined brain infarct", "ABri amyloidosis", "intracerebral hemorrhage"]
 ---
 
 # Amlodipine

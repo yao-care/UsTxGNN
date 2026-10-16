@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 761
 evidence_level: L5
 indication_count: 10
+monitor_inn: "GRANISETRON"
+predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "acute contagious conjunctivitis", "angioedema", "allergic urticaria", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "bronchitis", "cold urticaria", "conjunctivitis"]
 ---
 
 # Granisetron

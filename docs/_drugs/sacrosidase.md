@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1142
 evidence_level: L5
 indication_count: 2
+monitor_inn: "SACROSIDASE"
+predicted_indications: ["cystinosis", "familial apolipoprotein C-II deficiency"]
 ---
 
 # Sacrosidase

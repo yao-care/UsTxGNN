@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1099
 evidence_level: L5
 indication_count: 10
+monitor_inn: "PYRAZINAMIDE"
+predicted_indications: ["infectious otitis media", "middle ear disease", "otosalpingitis", "chronic otitis media", "suppurative otitis media", "non-suppurative otitis media", "middle ear cholesterol granuloma", "allergic otitis media", "Lyme disease", "infectious otitis interna"]
 ---
 
 # Pyrazinamide

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 637
 evidence_level: L5
 indication_count: 10
+monitor_inn: "DUVELISIB"
+predicted_indications: ["Hodgkins lymphoma", "myeloid leukemia", "chronic myelogenous leukemia, BCR-ABL1 positive", "Ewing sarcoma", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "mantle cell lymphoma", "ganglioneuroblastoma (disease)", "B-cell neoplasm", "vertebral anomalies and variable endocrine and T-cell dysfunction"]
 ---
 
 # Duvelisib

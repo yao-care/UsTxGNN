@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 768
 evidence_level: L5
 indication_count: 10
+monitor_inn: "HEMIN"
+predicted_indications: ["thrombocytopenic purpura", "hemophilia", "C1 inhibitor deficiency", "acquired coagulation factor deficiency", "serpinopathy with toxic serpin polymerization", "hereditary angioedema with C1Inh deficiency", "inherited thrombophilia", "symptomatic form of hemophilia in female carriers", "hereditary von Willebrand disease", "congenital factor XI deficiency"]
 ---
 
 # Hemin

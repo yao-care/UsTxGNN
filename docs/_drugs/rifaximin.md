@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1122
 evidence_level: L4
 indication_count: 6
+monitor_inn: "RIFAXIMIN"
+predicted_indications: ["oral candidiasis", "commissural lip fistula", "osteoradionecrosis of the mandible", "oral leukoedema", "burning mouth syndrome", "candidiasis"]
 ---
 
 # Rifaximin

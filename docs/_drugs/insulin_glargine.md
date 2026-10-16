@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 799
 evidence_level: L5
 indication_count: 10
+monitor_inn: "Insulin glargine"
+predicted_indications: ["autoimmune oophoritis", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
 ---
 
 # Insulin Glargine

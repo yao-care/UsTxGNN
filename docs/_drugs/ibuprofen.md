@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 784
 evidence_level: L5
 indication_count: 7
+monitor_inn: "IBUPROFEN"
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
 ---
 
 # Ibuprofen

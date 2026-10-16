@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 674
 evidence_level: L5
 indication_count: 10
+monitor_inn: "ESTRADIOL CYPIONATE"
+predicted_indications: ["symptomatic form of fragile X syndrome in female carrier", "partial trisomy/tetrasomy of the short arm of chromosome 12", "partial trisomy/tetrasomy of the short arm of chromosome 5", "partial trisomy/tetrasomy of the short arm of chromosome 18", "ovarian remnant syndrome", "anovulation", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "blepharophimosis-epicanthus inversus-ptosis", "partial autosomal trisomy/tetrasomy", "luteoma of pregnancy"]
 ---
 
 # Estradiol Cypionate

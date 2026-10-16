@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 550
 evidence_level: L5
 indication_count: 9
+monitor_inn: "CORTISONE"
+predicted_indications: ["primary cutaneous T-cell lymphoma", "adrenocortical insufficiency", "myelodysplastic syndrome", "lymphosarcoma", "candidiasis", "Crohn's colitis", "refractory cytopenia of childhood", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5"]
 ---
 
 # Cortisone

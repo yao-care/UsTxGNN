@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 992
 evidence_level: L3
 indication_count: 10
+monitor_inn: "OMALIZUMAB"
+predicted_indications: ["bronchitis", "atopic eczema", "obstructive lung disease", "dermatitis", "bronchial neoplasm (disease)", "acne keloid", "acrodermatitis chronica atrophicans", "hydroa vacciniforme, familial", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease"]
 ---
 
 # Omalizumab

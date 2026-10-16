@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1121
 evidence_level: L5
 indication_count: 10
+monitor_inn: "RIFAPENTINE"
+predicted_indications: ["leprosy", "female breast carcinoma", "Prinzmetal angina", "HIV infectious disease", "neuroretinitis", "vestibular neuronitis", "motor nerve neuritis", "brachial plexus neuritis", "dermatofibrosarcoma protuberans", "rheumatoid arthritis"]
 ---
 
 # Rifapentine

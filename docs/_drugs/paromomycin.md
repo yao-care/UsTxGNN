@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1016
 evidence_level: L5
 indication_count: 8
+monitor_inn: "PAROMOMYCIN"
+predicted_indications: ["idiopathic copper-associated cirrhosis", "hepatoportal sclerosis", "hepatopulmonary syndrome", "early-onset familial noncirrhotic portal hypertension", "primitive portal vein thrombosis", "hepatic porphyria", "acute urate nephropathy", "peritonitis"]
 ---
 
 # Paromomycin

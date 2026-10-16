@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Anas Platyrhynchos Feather Anser Anser Feather Bos
 parent: Model Prediction Only (L5)
 nav_order: 347
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Anas Platyrhynchos Feather Anser Anser Feather Bos

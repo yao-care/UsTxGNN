@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1137
 evidence_level: L4
 indication_count: 10
+monitor_inn: "ROTIGOTINE"
+predicted_indications: ["attention deficit-hyperactivity disorder", "schizophrenia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "faciodigitogenital syndrome", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "myopia X-linked", "atypical glycine encephalopathy", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited"]
 ---
 
 # Rotigotine

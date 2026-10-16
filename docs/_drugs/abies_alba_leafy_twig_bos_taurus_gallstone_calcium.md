@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Abies Alba Leafy Twig Bos Taurus Gallstone Calcium
 parent: Model Prediction Only (L5)
 nav_order: 45
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Abies Alba Leafy Twig Bos Taurus Gallstone Calcium

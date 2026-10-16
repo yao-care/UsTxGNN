@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 979
 evidence_level: L5
 indication_count: 8
+monitor_inn: "OBILTOXAXIMAB"
+predicted_indications: ["postinfectious vasculitis", "post-infectious syndrome", "post-bacterial disorder", "infective urethral stricture", "otitis externa", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "drug-induced osteoporosis"]
 ---
 
 # Obiltoxaximab

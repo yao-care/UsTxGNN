@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1295
 evidence_level: L5
 indication_count: 10
+monitor_inn: "VITAMIN A"
+predicted_indications: ["congenital prothrombin deficiency", "biotin metabolic disease", "non-syndromic esophageal malformation", "injury", "cell proliferation disorder", "florid cemento-osseous dysplasia", "perinatal disease", "segmental odontomaxillary dysplasia", "disease by subcellular system affected", "radiation or chemically induced disorder"]
 ---
 
 # Vitamin A

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 623
 evidence_level: L5
 indication_count: 10
+monitor_inn: "DORZOLAMIDE"
+predicted_indications: ["primary hereditary glaucoma", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "alopecia", "diffuse alopecia areata", "glaucoma 1, open angle", "open angle glaucoma", "congestive heart failure", "acute pulmonary heart disease", "respiratory failure"]
 ---
 
 # Dorzolamide

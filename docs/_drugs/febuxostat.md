@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 693
 evidence_level: L4
 indication_count: 3
+monitor_inn: "FEBUXOSTAT"
+predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "Lesch-Nyhan syndrome"]
 ---
 
 # Febuxostat

@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Aluminum Oxide Bryonia Alba Root Graphite Silicon 
 parent: Model Prediction Only (L5)
 nav_order: 297
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # Aluminum Oxide Bryonia Alba Root Graphite Silicon 

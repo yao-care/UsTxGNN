@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 863
 evidence_level: L5
 indication_count: 10
+monitor_inn: "LIOTHYRONINE"
+predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "nodular goiter (disease)", "Carney complex", "peripheral dysostosis", "Potter sequence", "acrodysostosis with or without hormone resistance", "myxoma", "angiomyxoma", "hypotrichosis simplex of the scalp"]
 ---
 
 # Liothyronine

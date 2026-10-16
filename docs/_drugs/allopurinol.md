@@ -5,6 +5,8 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 225
 evidence_level: L4
 indication_count: 10
+monitor_inn: "ALLOPURINOL"
+predicted_indications: ["hepatic porphyria", "hepatoportal sclerosis", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "hepatopulmonary syndrome", "primitive portal vein thrombosis", "disorder of phenylalanine metabolism", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "inflammatory myopathy with abundant macrophages"]
 ---
 
 # Allopurinol

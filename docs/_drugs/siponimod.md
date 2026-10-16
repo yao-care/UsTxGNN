@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 1165
 evidence_level: L5
 indication_count: 8
+monitor_inn: "SIPONIMOD"
+predicted_indications: ["pulmonary hypertension", "migraine disorder", "kyphoscoliotic heart disease", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "Prinzmetal angina", "rheumatoid arthritis", "atrophoderma vermiculata"]
 ---
 
 # Siponimod

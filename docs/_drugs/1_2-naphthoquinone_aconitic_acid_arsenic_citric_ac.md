@@ -1,12 +1,12 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: 1 2-Naphthoquinone Aconitic Acid Arsenic Citric Ac
 parent: Model Prediction Only (L5)
 nav_order: 14
 evidence_level: L5
 indication_count: 0
+noindex: true
+sitemap: false
 ---
 
 # 1 2-Naphthoquinone Aconitic Acid Arsenic Citric Ac

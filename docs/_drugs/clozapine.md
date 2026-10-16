@@ -5,6 +5,8 @@ parent: High Evidence (L1-L2)
 nav_order: 544
 evidence_level: L2
 indication_count: 10
+monitor_inn: "CLOZAPINE"
+predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "schizophreniform disorder", "bipolar disorder", "major affective disorder", "attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "psychotic disorder", "Malan overgrowth syndrome"]
 ---
 
 # Clozapine

@@ -5,6 +5,8 @@ parent: Model Prediction Only (L5)
 nav_order: 711
 evidence_level: L5
 indication_count: 10
+monitor_inn: "Flortaucipir F-18"
+predicted_indications: ["anaphylaxis", "food-dependent exercise-induced anaphylaxis", "hairy cell leukemia", "hairy cell leukemia variant", "hereditary neurocutaneous angioma", "placental hemangioma", "pseudoallergy", "skin disease", "primary bone lymphoma", "early T cell progenitor acute lymphoblastic leukemia"]
 ---
 
 # Flortaucipir F-18

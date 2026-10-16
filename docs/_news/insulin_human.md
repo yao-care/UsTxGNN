@@ -37,7 +37,7 @@ This page combines the AI-predicted indications for Insulin human with the lates
 <li>idiopathic localized lipodystrophy (99.7%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/insulin_human/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/insulin-human/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (50)

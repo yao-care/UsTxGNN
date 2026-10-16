@@ -64,14 +64,14 @@
       "url": "/drugs/1-3-bisurea-daphne-mezereum-bark-goldenseal-nitric/"
     },
     {
-      "slug": "1-4-naphthoquinone-aconitic-acid---anhydrous-citri",
+      "slug": "1-4-naphthoquinone-aconitic-acid-anhydrous-citri",
       "name": "1 4-Naphthoquinone Aconitic Acid - Anhydrous Citri",
       "evidence_level": "L5",
       "indication_count": 0,
       "original_indication": "he TxGNN model returned **no predicted indications** for this candidate, and the US/Taiwan regulatory database shows **no approved licenses**.",
       "predicted_indication": "",
       "txgnn_score": "",
-      "url": "/drugs/1-4-naphthoquinone-aconitic-acid---anhydrous-citri/"
+      "url": "/drugs/1-4-naphthoquinone-aconitic-acid-anhydrous-citri/"
     },
     {
       "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aconitum-napel",
@@ -144,24 +144,14 @@
       "url": "/drugs/2-mercaptoethanol-borosilicate-glass-carbon-monoxi/"
     },
     {
-      "slug": "3--methylphthalanilic-acid-berberis-vulgaris-root",
-      "name": "3 -Methylphthalanilic Acid Berberis Vulgaris Root",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "he TxGNN model returned **no predicted indications** for this combination, and the substance has **no regulatory approval** in the United States, leaving this candidate without a viable repurposing...",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/3--methylphthalanilic-acid-berberis-vulgaris-root/"
-    },
-    {
-      "slug": "3-3--diindolylmethane-adenosine-triphosphate-disod",
+      "slug": "3-3-diindolylmethane-adenosine-triphosphate-disod",
       "name": "3 3 -Diindolylmethane Adenosine Triphosphate Disod",
       "evidence_level": "L5",
       "indication_count": 0,
       "original_indication": "",
       "predicted_indication": "",
       "txgnn_score": "",
-      "url": "/drugs/3-3--diindolylmethane-adenosine-triphosphate-disod/"
+      "url": "/drugs/3-3-diindolylmethane-adenosine-triphosphate-disod/"
     },
     {
       "slug": "3-hydroxy-1-methylguanine-calcium-sulfide-creatine",
@@ -184,6 +174,16 @@
       "url": "/drugs/3-methylcholanthrene-anthracene-benzopyrene-black/"
     },
     {
+      "slug": "3-methylphthalanilic-acid-berberis-vulgaris-root",
+      "name": "3 -Methylphthalanilic Acid Berberis Vulgaris Root",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "original_indication": "he TxGNN model returned **no predicted indications** for this combination, and the substance has **no regulatory approval** in the United States, leaving this candidate without a viable repurposing...",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/3-methylphthalanilic-acid-berberis-vulgaris-root/"
+    },
+    {
       "slug": "3-o-ethyl-ascorbic-acid-allantoin-hippophae-rhamno",
       "name": "3-O-Ethyl Ascorbic Acid Allantoin Hippophae Rhamno",
       "evidence_level": "L5",
@@ -204,14 +204,14 @@
       "url": "/drugs/4-methylbenzylidene-camphor-ethylhexyl-methoxycinn/"
     },
     {
-      "slug": "5-hydroxytryptophan-dl--alfalfa-avena-sativa-flowe",
+      "slug": "5-hydroxytryptophan-dl-alfalfa-avena-sativa-flowe",
       "name": "5-Hydroxytryptophan Dl- Alfalfa Avena Sativa Flowe",
       "evidence_level": "L5",
       "indication_count": 0,
       "original_indication": "",
       "predicted_indication": "",
       "txgnn_score": "",
-      "url": "/drugs/5-hydroxytryptophan-dl--alfalfa-avena-sativa-flowe/"
+      "url": "/drugs/5-hydroxytryptophan-dl-alfalfa-avena-sativa-flowe/"
     },
     {
       "slug": "7-keto-dehydroepiandrosterone-acetaldehyde-aldoste",
@@ -2144,336 +2144,6 @@
       "url": "/drugs/alpelisib/"
     },
     {
-      "slug": "alpha--tocopherol-acetate-d--ascorbic-acid-choleca",
-      "name": "Alpha -Tocopherol Acetate D- Ascorbic Acid Choleca",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "D-Alpha-Tocopherol Acetate",
-      "txgnn_score": "",
-      "url": "/drugs/alpha--tocopherol-acetate-d--ascorbic-acid-choleca/"
-    },
-    {
-      "slug": "alpha--tocopherol-acetate-d--calcium-carbonate-cal",
-      "name": "Alpha -Tocopherol Acetate D- Calcium Carbonate Cal",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/alpha--tocopherol-acetate-d--calcium-carbonate-cal/"
-    },
-    {
-      "slug": "alpha--tocopherol-acetate-dl--5-methyltetrahydrofo",
-      "name": "Alpha -Tocopherol Acetate Dl- 5-Methyltetrahydrofo",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "The composition itself is clinically recognizable: DHA + EPA (omega-3 for fetal neurodevelopment), 5-MTHF + Folic Acid (neural tube protection), Ferrous Asparto Glycinate (pregnancy anaemia...",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/alpha--tocopherol-acetate-dl--5-methyltetrahydrofo/"
-    },
-    {
-      "slug": "alpha--tocopherol-acetate-dl--arginine-hydrochlori",
-      "name": "Alpha -Tocopherol Acetate Dl- Arginine Hydrochlori",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/alpha--tocopherol-acetate-dl--arginine-hydrochlori/"
-    },
-    {
-      "slug": "alpha--tocopherol-acetate-dl--ascorbic-acid-beta-c",
-      "name": "Alpha -Tocopherol Acetate Dl- Ascorbic Acid Beta C",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/alpha--tocopherol-acetate-dl--ascorbic-acid-beta-c/"
-    },
-    {
-      "slug": "alpha--tocopherol-acetate-dl--ascorbic-acid-biotin",
-      "name": "Alpha -Tocopherol Acetate Dl- Ascorbic Acid Biotin",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/alpha--tocopherol-acetate-dl--ascorbic-acid-biotin/"
-    },
-    {
-      "slug": "alpha--tocopherol-acetate-dl--ascorbic-acid-calciu",
-      "name": "Alpha -Tocopherol Acetate Dl- Ascorbic Acid Calciu",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/alpha--tocopherol-acetate-dl--ascorbic-acid-calciu/"
-    },
-    {
-      "slug": "alpha--tocopherol-acetate-dl--ascorbic-acid-cholec",
-      "name": "Alpha -Tocopherol Acetate Dl- Ascorbic Acid Cholec",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/alpha--tocopherol-acetate-dl--ascorbic-acid-cholec/"
-    },
-    {
-      "slug": "alpha--tocopherol-acetate-dl--ascorbic-acid-cyanoc",
-      "name": "Alpha -Tocopherol Acetate Dl- Ascorbic Acid Cyanoc",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/alpha--tocopherol-acetate-dl--ascorbic-acid-cyanoc/"
-    },
-    {
-      "slug": "alpha--tocopherol-acetate-dl--beta--carotene-5-met",
-      "name": "Alpha -Tocopherol Acetate Dl- Beta -Carotene 5-Met",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/alpha--tocopherol-acetate-dl--beta--carotene-5-met/"
-    },
-    {
-      "slug": "alpha--tocopherol-acetate-dl--beta--carotene-ascor",
-      "name": "Alpha -Tocopherol Acetate Dl- Beta -Carotene Ascor",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/alpha--tocopherol-acetate-dl--beta--carotene-ascor/"
-    },
-    {
-      "slug": "alpha--tocopherol-acetate-dl--beta--carotene-calci",
-      "name": "Alpha -Tocopherol Acetate Dl- Beta -Carotene Calci",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/alpha--tocopherol-acetate-dl--beta--carotene-calci/"
-    },
-    {
-      "slug": "alpha--tocopherol-acetate-hydrogen-peroxide-silico",
-      "name": "Alpha -Tocopherol Acetate Hydrogen Peroxide Silico",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/alpha--tocopherol-acetate-hydrogen-peroxide-silico/"
-    },
-    {
-      "slug": "alpha--tocopherol-acetate-silicon-dioxide-sodium-f",
-      "name": "Alpha -Tocopherol Acetate Silicon Dioxide Sodium F",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/alpha--tocopherol-acetate-silicon-dioxide-sodium-f/"
-    },
-    {
-      "slug": "alpha--tocopherol-acetate-silicon-dioxide-sodium-p",
-      "name": "Alpha -Tocopherol Acetate Silicon Dioxide Sodium P",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/alpha--tocopherol-acetate-silicon-dioxide-sodium-p/"
-    },
-    {
-      "slug": "alpha--tocopherol-aloe-witch-hazel-zinc-oxide",
-      "name": "Alpha -Tocopherol Aloe Witch Hazel Zinc Oxide",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/alpha--tocopherol-aloe-witch-hazel-zinc-oxide/"
-    },
-    {
-      "slug": "alpha--tocopherol-apple-cider-vinegar-arsenic-trio",
-      "name": "Alpha -Tocopherol Apple Cider Vinegar Arsenic Trio",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/alpha--tocopherol-apple-cider-vinegar-arsenic-trio/"
-    },
-    {
-      "slug": "alpha--tocopherol-ascorbic-acid-aspirin-salix-alba",
-      "name": "Alpha -Tocopherol Ascorbic Acid Aspirin Salix Alba",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "he TxGNN model did not generate any repurposing predictions for this combination, as the product lacks a DrugBank ID required for knowledge-graph mapping.",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/alpha--tocopherol-ascorbic-acid-aspirin-salix-alba/"
-    },
-    {
-      "slug": "alpha--tocopherol-ascorbic-acid-banana-beta-carote",
-      "name": "Alpha -Tocopherol Ascorbic Acid Banana Beta Carote",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/alpha--tocopherol-ascorbic-acid-banana-beta-carote/"
-    },
-    {
-      "slug": "alpha--tocopherol-ascorbic-acid-beta-carotene-biot",
-      "name": "Alpha -Tocopherol Ascorbic Acid Beta Carotene Biot",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "he TxGNN model did not generate any predicted new indications for this combination — most likely because the multi-ingredient formula could not be mapped to a single DrugBank entity, which is a...",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/alpha--tocopherol-ascorbic-acid-beta-carotene-biot/"
-    },
-    {
-      "slug": "alpha--tocopherol-ascorbic-acid-beta-carotene-chol",
-      "name": "Alpha -Tocopherol Ascorbic Acid Beta Carotene Chol",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/alpha--tocopherol-ascorbic-acid-beta-carotene-chol/"
-    },
-    {
-      "slug": "alpha--tocopherol-ascorbic-acid-biotin-calcium-car",
-      "name": "Alpha -Tocopherol Ascorbic Acid Biotin Calcium Car",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "he TxGNN model returned **no predicted indications** for this submission, as multi-component combinations cannot be mapped to a single DrugBank identifier required for graph-based prediction.",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/alpha--tocopherol-ascorbic-acid-biotin-calcium-car/"
-    },
-    {
-      "slug": "alpha--tocopherol-ascorbic-acid-copper-cyanocobala",
-      "name": "Alpha -Tocopherol Ascorbic Acid Copper Cyanocobala",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/alpha--tocopherol-ascorbic-acid-copper-cyanocobala/"
-    },
-    {
-      "slug": "alpha--tocopherol-beta--carotene-american-ginseng",
-      "name": "Alpha -Tocopherol Beta -Carotene American Ginseng",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/alpha--tocopherol-beta--carotene-american-ginseng/"
-    },
-    {
-      "slug": "alpha--tocopherol-beta--sitosterol-ascorbic-acid-b",
-      "name": "Alpha -Tocopherol Beta -Sitosterol Ascorbic Acid B",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/alpha--tocopherol-beta--sitosterol-ascorbic-acid-b/"
-    },
-    {
-      "slug": "alpha--tocopherol-d--cholecalciferol-cyanocobalami",
-      "name": "Alpha -Tocopherol D- Cholecalciferol Cyanocobalami",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/alpha--tocopherol-d--cholecalciferol-cyanocobalami/"
-    },
-    {
-      "slug": "alpha--tocopherol-dl--ascorbic-acid-calcium-format",
-      "name": "Alpha -Tocopherol Dl- Ascorbic Acid Calcium Format",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/alpha--tocopherol-dl--ascorbic-acid-calcium-format/"
-    },
-    {
-      "slug": "alpha--tocopherol-dl--ascorbic-acid-cholecalcifero",
-      "name": "Alpha -Tocopherol Dl- Ascorbic Acid Cholecalcifero",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "he TxGNN model returned **no predicted new indications** for this combination, and no supporting clinical trials or publications were identified.",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/alpha--tocopherol-dl--ascorbic-acid-cholecalcifero/"
-    },
-    {
-      "slug": "alpha--tocopherol-dl--ergocalciferol-phytonadione",
-      "name": "Alpha -Tocopherol Dl- Ergocalciferol Phytonadione",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/alpha--tocopherol-dl--ergocalciferol-phytonadione/"
-    },
-    {
-      "slug": "alpha--tocopherol-hyaluronic-acid",
-      "name": "Alpha -Tocopherol Hyaluronic Acid",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/alpha--tocopherol-hyaluronic-acid/"
-    },
-    {
-      "slug": "alpha--tocopherol-succinate-d--alpha-lipoic-acid-a",
-      "name": "Alpha -Tocopherol Succinate D- Alpha Lipoic Acid A",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/alpha--tocopherol-succinate-d--alpha-lipoic-acid-a/"
-    },
-    {
-      "slug": "alpha--tocopherol-succinate-d--ascorbic-acid-chole",
-      "name": "Alpha -Tocopherol Succinate D- Ascorbic Acid Chole",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/alpha--tocopherol-succinate-d--ascorbic-acid-chole/"
-    },
-    {
-      "slug": "alpha--tocopherol-tea-tree-oil",
-      "name": "Alpha -Tocopherol Tea Tree Oil",
-      "evidence_level": "L5",
-      "indication_count": 0,
-      "original_indication": "he TxGNN model was unable to generate repurposing predictions for this candidate — no predicted new indications, clinical trial linkages, or supporting literature were returned.",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/alpha--tocopherol-tea-tree-oil/"
-    },
-    {
       "slug": "alpha-lipoic-acid-ammonium-bromide-ammonium-carbon",
       "name": "Alpha Lipoic Acid Ammonium Bromide Ammonium Carbon",
       "evidence_level": "L5",
@@ -2532,6 +2202,336 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/alpha-lipoic-acid-cholesterol-cortisone-acetate-co/"
+    },
+    {
+      "slug": "alpha-tocopherol-acetate-d-ascorbic-acid-choleca",
+      "name": "Alpha -Tocopherol Acetate D- Ascorbic Acid Choleca",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "original_indication": "",
+      "predicted_indication": "D-Alpha-Tocopherol Acetate",
+      "txgnn_score": "",
+      "url": "/drugs/alpha-tocopherol-acetate-d-ascorbic-acid-choleca/"
+    },
+    {
+      "slug": "alpha-tocopherol-acetate-d-calcium-carbonate-cal",
+      "name": "Alpha -Tocopherol Acetate D- Calcium Carbonate Cal",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/alpha-tocopherol-acetate-d-calcium-carbonate-cal/"
+    },
+    {
+      "slug": "alpha-tocopherol-acetate-dl-5-methyltetrahydrofo",
+      "name": "Alpha -Tocopherol Acetate Dl- 5-Methyltetrahydrofo",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "original_indication": "The composition itself is clinically recognizable: DHA + EPA (omega-3 for fetal neurodevelopment), 5-MTHF + Folic Acid (neural tube protection), Ferrous Asparto Glycinate (pregnancy anaemia...",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/alpha-tocopherol-acetate-dl-5-methyltetrahydrofo/"
+    },
+    {
+      "slug": "alpha-tocopherol-acetate-dl-arginine-hydrochlori",
+      "name": "Alpha -Tocopherol Acetate Dl- Arginine Hydrochlori",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/alpha-tocopherol-acetate-dl-arginine-hydrochlori/"
+    },
+    {
+      "slug": "alpha-tocopherol-acetate-dl-ascorbic-acid-beta-c",
+      "name": "Alpha -Tocopherol Acetate Dl- Ascorbic Acid Beta C",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/alpha-tocopherol-acetate-dl-ascorbic-acid-beta-c/"
+    },
+    {
+      "slug": "alpha-tocopherol-acetate-dl-ascorbic-acid-biotin",
+      "name": "Alpha -Tocopherol Acetate Dl- Ascorbic Acid Biotin",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/alpha-tocopherol-acetate-dl-ascorbic-acid-biotin/"
+    },
+    {
+      "slug": "alpha-tocopherol-acetate-dl-ascorbic-acid-calciu",
+      "name": "Alpha -Tocopherol Acetate Dl- Ascorbic Acid Calciu",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/alpha-tocopherol-acetate-dl-ascorbic-acid-calciu/"
+    },
+    {
+      "slug": "alpha-tocopherol-acetate-dl-ascorbic-acid-cholec",
+      "name": "Alpha -Tocopherol Acetate Dl- Ascorbic Acid Cholec",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/alpha-tocopherol-acetate-dl-ascorbic-acid-cholec/"
+    },
+    {
+      "slug": "alpha-tocopherol-acetate-dl-ascorbic-acid-cyanoc",
+      "name": "Alpha -Tocopherol Acetate Dl- Ascorbic Acid Cyanoc",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/alpha-tocopherol-acetate-dl-ascorbic-acid-cyanoc/"
+    },
+    {
+      "slug": "alpha-tocopherol-acetate-dl-beta-carotene-5-met",
+      "name": "Alpha -Tocopherol Acetate Dl- Beta -Carotene 5-Met",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/alpha-tocopherol-acetate-dl-beta-carotene-5-met/"
+    },
+    {
+      "slug": "alpha-tocopherol-acetate-dl-beta-carotene-ascor",
+      "name": "Alpha -Tocopherol Acetate Dl- Beta -Carotene Ascor",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/alpha-tocopherol-acetate-dl-beta-carotene-ascor/"
+    },
+    {
+      "slug": "alpha-tocopherol-acetate-dl-beta-carotene-calci",
+      "name": "Alpha -Tocopherol Acetate Dl- Beta -Carotene Calci",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/alpha-tocopherol-acetate-dl-beta-carotene-calci/"
+    },
+    {
+      "slug": "alpha-tocopherol-acetate-hydrogen-peroxide-silico",
+      "name": "Alpha -Tocopherol Acetate Hydrogen Peroxide Silico",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/alpha-tocopherol-acetate-hydrogen-peroxide-silico/"
+    },
+    {
+      "slug": "alpha-tocopherol-acetate-silicon-dioxide-sodium-f",
+      "name": "Alpha -Tocopherol Acetate Silicon Dioxide Sodium F",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/alpha-tocopherol-acetate-silicon-dioxide-sodium-f/"
+    },
+    {
+      "slug": "alpha-tocopherol-acetate-silicon-dioxide-sodium-p",
+      "name": "Alpha -Tocopherol Acetate Silicon Dioxide Sodium P",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/alpha-tocopherol-acetate-silicon-dioxide-sodium-p/"
+    },
+    {
+      "slug": "alpha-tocopherol-aloe-witch-hazel-zinc-oxide",
+      "name": "Alpha -Tocopherol Aloe Witch Hazel Zinc Oxide",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/alpha-tocopherol-aloe-witch-hazel-zinc-oxide/"
+    },
+    {
+      "slug": "alpha-tocopherol-apple-cider-vinegar-arsenic-trio",
+      "name": "Alpha -Tocopherol Apple Cider Vinegar Arsenic Trio",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/alpha-tocopherol-apple-cider-vinegar-arsenic-trio/"
+    },
+    {
+      "slug": "alpha-tocopherol-ascorbic-acid-aspirin-salix-alba",
+      "name": "Alpha -Tocopherol Ascorbic Acid Aspirin Salix Alba",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "original_indication": "he TxGNN model did not generate any repurposing predictions for this combination, as the product lacks a DrugBank ID required for knowledge-graph mapping.",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/alpha-tocopherol-ascorbic-acid-aspirin-salix-alba/"
+    },
+    {
+      "slug": "alpha-tocopherol-ascorbic-acid-banana-beta-carote",
+      "name": "Alpha -Tocopherol Ascorbic Acid Banana Beta Carote",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/alpha-tocopherol-ascorbic-acid-banana-beta-carote/"
+    },
+    {
+      "slug": "alpha-tocopherol-ascorbic-acid-beta-carotene-biot",
+      "name": "Alpha -Tocopherol Ascorbic Acid Beta Carotene Biot",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "original_indication": "he TxGNN model did not generate any predicted new indications for this combination — most likely because the multi-ingredient formula could not be mapped to a single DrugBank entity, which is a...",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/alpha-tocopherol-ascorbic-acid-beta-carotene-biot/"
+    },
+    {
+      "slug": "alpha-tocopherol-ascorbic-acid-beta-carotene-chol",
+      "name": "Alpha -Tocopherol Ascorbic Acid Beta Carotene Chol",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/alpha-tocopherol-ascorbic-acid-beta-carotene-chol/"
+    },
+    {
+      "slug": "alpha-tocopherol-ascorbic-acid-biotin-calcium-car",
+      "name": "Alpha -Tocopherol Ascorbic Acid Biotin Calcium Car",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "original_indication": "he TxGNN model returned **no predicted indications** for this submission, as multi-component combinations cannot be mapped to a single DrugBank identifier required for graph-based prediction.",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/alpha-tocopherol-ascorbic-acid-biotin-calcium-car/"
+    },
+    {
+      "slug": "alpha-tocopherol-ascorbic-acid-copper-cyanocobala",
+      "name": "Alpha -Tocopherol Ascorbic Acid Copper Cyanocobala",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/alpha-tocopherol-ascorbic-acid-copper-cyanocobala/"
+    },
+    {
+      "slug": "alpha-tocopherol-beta-carotene-american-ginseng",
+      "name": "Alpha -Tocopherol Beta -Carotene American Ginseng",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/alpha-tocopherol-beta-carotene-american-ginseng/"
+    },
+    {
+      "slug": "alpha-tocopherol-beta-sitosterol-ascorbic-acid-b",
+      "name": "Alpha -Tocopherol Beta -Sitosterol Ascorbic Acid B",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/alpha-tocopherol-beta-sitosterol-ascorbic-acid-b/"
+    },
+    {
+      "slug": "alpha-tocopherol-d-cholecalciferol-cyanocobalami",
+      "name": "Alpha -Tocopherol D- Cholecalciferol Cyanocobalami",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/alpha-tocopherol-d-cholecalciferol-cyanocobalami/"
+    },
+    {
+      "slug": "alpha-tocopherol-dl-ascorbic-acid-calcium-format",
+      "name": "Alpha -Tocopherol Dl- Ascorbic Acid Calcium Format",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/alpha-tocopherol-dl-ascorbic-acid-calcium-format/"
+    },
+    {
+      "slug": "alpha-tocopherol-dl-ascorbic-acid-cholecalcifero",
+      "name": "Alpha -Tocopherol Dl- Ascorbic Acid Cholecalcifero",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "original_indication": "he TxGNN model returned **no predicted new indications** for this combination, and no supporting clinical trials or publications were identified.",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/alpha-tocopherol-dl-ascorbic-acid-cholecalcifero/"
+    },
+    {
+      "slug": "alpha-tocopherol-dl-ergocalciferol-phytonadione",
+      "name": "Alpha -Tocopherol Dl- Ergocalciferol Phytonadione",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/alpha-tocopherol-dl-ergocalciferol-phytonadione/"
+    },
+    {
+      "slug": "alpha-tocopherol-hyaluronic-acid",
+      "name": "Alpha -Tocopherol Hyaluronic Acid",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/alpha-tocopherol-hyaluronic-acid/"
+    },
+    {
+      "slug": "alpha-tocopherol-succinate-d-alpha-lipoic-acid-a",
+      "name": "Alpha -Tocopherol Succinate D- Alpha Lipoic Acid A",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/alpha-tocopherol-succinate-d-alpha-lipoic-acid-a/"
+    },
+    {
+      "slug": "alpha-tocopherol-succinate-d-ascorbic-acid-chole",
+      "name": "Alpha -Tocopherol Succinate D- Ascorbic Acid Chole",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "original_indication": "",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/alpha-tocopherol-succinate-d-ascorbic-acid-chole/"
+    },
+    {
+      "slug": "alpha-tocopherol-tea-tree-oil",
+      "name": "Alpha -Tocopherol Tea Tree Oil",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "original_indication": "he TxGNN model was unable to generate repurposing predictions for this candidate — no predicted new indications, clinical trial linkages, or supporting literature were returned.",
+      "predicted_indication": "",
+      "txgnn_score": "",
+      "url": "/drugs/alpha-tocopherol-tea-tree-oil/"
     },
     {
       "slug": "alpine-strawberry-arsenic-trioxide-atropa-belladon",

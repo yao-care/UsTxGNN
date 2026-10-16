@@ -36,7 +36,7 @@ This page combines the AI-predicted indications for Insulin lispro with the late
 <li>pressure-induced localized lipoatrophy (99.0%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/insulin_lispro/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/insulin-lispro/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (50)

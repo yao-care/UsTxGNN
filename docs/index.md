@@ -79,7 +79,7 @@ If you use UsTxGNN in your research, please cite:
   title={A foundation model for clinician-centered drug repurposing},
   author={Huang, Kexin and others},
   journal={Nature Medicine},
-  year={2023},
+  year={2024},
   publisher={Nature Publishing Group}
 }
 ```

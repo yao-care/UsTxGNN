@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Drug Repurposing Predictions — United States
 nav_order: 1
 description: "UsTxGNN - US FDA Drug Repurposing Predictions using TxGNN Knowledge Graph"
 permalink: /
@@ -22,7 +22,7 @@ AI-powered drug repurposing predictions for US FDA approved drugs using the TxGN
 
 ## Overview
 
-UsTxGNN leverages the [TxGNN](https://www.nature.com/articles/s41591-023-02233-x) knowledge graph to identify potential new therapeutic uses for existing FDA-approved drugs. This approach, known as drug repurposing or drug repositioning, can accelerate the discovery of new treatments by building on established safety profiles.
+UsTxGNN leverages the [TxGNN](https://www.nature.com/articles/s41591-024-03233-x) knowledge graph to identify potential new therapeutic uses for existing FDA-approved drugs. This approach, known as drug repurposing or drug repositioning, can accelerate the discovery of new treatments by building on established safety profiles.
 
 ### Key Features
 

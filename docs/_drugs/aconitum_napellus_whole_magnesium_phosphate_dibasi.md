@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Aconitum Napellus Whole Magnesium Phosphate Dibasi
 parent: Model Prediction Only (L5)

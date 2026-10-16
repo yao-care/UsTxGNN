@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Aluminum Jateorhiza Calumba Root Onion Peumus Bold
 parent: Model Prediction Only (L5)

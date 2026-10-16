@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Alpha -Tocopherol Acetate Dl- 5-Methyltetrahydrofo
 parent: Model Prediction Only (L5)

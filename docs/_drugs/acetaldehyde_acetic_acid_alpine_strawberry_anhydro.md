@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Acetaldehyde Acetic Acid Alpine Strawberry Anhydro
 parent: Model Prediction Only (L5)

@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Arnica Montana Root Calcium Phosphate Dibasic Anhy
 parent: Model Prediction Only (L5)

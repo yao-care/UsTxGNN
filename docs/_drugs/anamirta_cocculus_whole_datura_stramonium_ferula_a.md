@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Anamirta Cocculus Whole Datura Stramonium Ferula A
 parent: Model Prediction Only (L5)

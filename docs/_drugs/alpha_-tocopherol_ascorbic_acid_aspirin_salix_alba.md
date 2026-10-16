@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Alpha -Tocopherol Ascorbic Acid Aspirin Salix Alba
 parent: Model Prediction Only (L5)

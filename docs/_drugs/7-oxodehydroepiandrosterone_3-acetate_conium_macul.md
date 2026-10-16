@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: 7-Oxodehydroepiandrosterone 3-Acetate Conium Macul
 parent: Model Prediction Only (L5)

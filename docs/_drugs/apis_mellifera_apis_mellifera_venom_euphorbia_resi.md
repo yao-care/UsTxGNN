@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Apis Mellifera Apis Mellifera Venom Euphorbia Resi
 parent: Model Prediction Only (L5)

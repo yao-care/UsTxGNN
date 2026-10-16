@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Activated Charcoal Aloe Aluminum Oxide Bryonia Alb
 parent: Model Prediction Only (L5)

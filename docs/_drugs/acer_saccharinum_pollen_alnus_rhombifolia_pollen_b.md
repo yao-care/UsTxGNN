@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Acer Saccharinum Pollen Alnus Rhombifolia Pollen B
 parent: Model Prediction Only (L5)

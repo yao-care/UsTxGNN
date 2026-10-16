@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: 3-Methylcholanthrene Anthracene Benzopyrene Black 
 parent: Model Prediction Only (L5)

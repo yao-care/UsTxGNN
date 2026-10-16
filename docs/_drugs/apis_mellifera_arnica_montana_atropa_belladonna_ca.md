@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Apis Mellifera Arnica Montana Atropa Belladonna Ca
 parent: Model Prediction Only (L5)

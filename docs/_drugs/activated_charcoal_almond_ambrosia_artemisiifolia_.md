@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Activated Charcoal Almond Ambrosia Artemisiifolia 
 parent: Model Prediction Only (L5)

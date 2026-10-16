@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Activated Charcoal Ammonium Carbonate Antimony Ars
 parent: Model Prediction Only (L5)

@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Aconitum Napellus Whole Arabica Coffee Bean Arseni
 parent: Model Prediction Only (L5)

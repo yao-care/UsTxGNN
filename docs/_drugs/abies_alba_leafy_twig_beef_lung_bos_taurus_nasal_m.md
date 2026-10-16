@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Abies Alba Leafy Twig Beef Lung Bos Taurus Nasal M
 parent: Model Prediction Only (L5)

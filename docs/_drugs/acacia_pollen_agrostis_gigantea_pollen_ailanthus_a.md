@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Acacia Pollen Agrostis Gigantea Pollen Ailanthus A
 parent: Model Prediction Only (L5)

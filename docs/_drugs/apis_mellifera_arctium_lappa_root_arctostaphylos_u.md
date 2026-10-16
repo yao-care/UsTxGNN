@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Apis Mellifera Arctium Lappa Root Arctostaphylos U
 parent: Model Prediction Only (L5)

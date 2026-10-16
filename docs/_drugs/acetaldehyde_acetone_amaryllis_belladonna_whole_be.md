@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Acetaldehyde Acetone Amaryllis Belladonna Whole Be
 parent: Model Prediction Only (L5)

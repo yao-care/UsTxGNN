@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Andrographis Paniculata Whole Baptisia Tinctoria R
 parent: Model Prediction Only (L5)

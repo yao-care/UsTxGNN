@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Aluminum Zirconium Trichlorohydrate
 parent: Model Prediction Only (L5)

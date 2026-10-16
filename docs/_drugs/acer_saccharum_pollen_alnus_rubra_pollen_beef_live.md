@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Acer Saccharum Pollen Alnus Rubra Pollen Beef Live
 parent: Model Prediction Only (L5)

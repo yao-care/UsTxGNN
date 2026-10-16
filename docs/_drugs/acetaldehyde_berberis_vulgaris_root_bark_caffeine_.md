@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Acetaldehyde Berberis Vulgaris Root Bark Caffeine 
 parent: Model Prediction Only (L5)

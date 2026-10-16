@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: 3 3 -Diindolylmethane Adenosine Triphosphate Disod
 parent: Model Prediction Only (L5)

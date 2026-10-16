@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Aconitum Napellus Whole Arsenic Trioxide Datura St
 parent: Model Prediction Only (L5)

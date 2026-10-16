@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Apis Mellifera Arnica Montana Bellis Perennis Bryo
 parent: Model Prediction Only (L5)

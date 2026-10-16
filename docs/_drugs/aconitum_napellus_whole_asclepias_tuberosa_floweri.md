@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Aconitum Napellus Whole Asclepias Tuberosa Floweri
 parent: Model Prediction Only (L5)

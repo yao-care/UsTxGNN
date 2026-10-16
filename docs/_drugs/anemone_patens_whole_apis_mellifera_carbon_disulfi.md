@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Anemone Patens Whole Apis Mellifera Carbon Disulfi
 parent: Model Prediction Only (L5)

@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Acetaminophen Chlorpheniramine Maleate Jujube Frui
 parent: Model Prediction Only (L5)

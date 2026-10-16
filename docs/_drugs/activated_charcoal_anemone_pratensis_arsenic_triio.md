@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Activated Charcoal Anemone Pratensis Arsenic Triio
 parent: Model Prediction Only (L5)

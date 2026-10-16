@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Antimony Trisulfide Bordetella Pertussis Clostridi
 parent: Model Prediction Only (L5)

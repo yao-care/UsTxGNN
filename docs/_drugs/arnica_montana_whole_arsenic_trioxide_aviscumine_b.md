@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Arnica Montana Whole Arsenic Trioxide Aviscumine B
 parent: Model Prediction Only (L5)

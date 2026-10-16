@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Alpha -Tocopherol Aloe Witch Hazel Zinc Oxide
 parent: Model Prediction Only (L5)

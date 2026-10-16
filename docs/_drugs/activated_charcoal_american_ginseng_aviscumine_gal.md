@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Activated Charcoal American Ginseng Aviscumine Gal
 parent: Model Prediction Only (L5)

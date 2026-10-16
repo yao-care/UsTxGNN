@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Arnica Montana Root Matricaria Recutita Tribasic C
 parent: Model Prediction Only (L5)

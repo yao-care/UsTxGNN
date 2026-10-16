@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Activated Charcoal Aesculus Hippocastanum Bark Ant
 parent: Model Prediction Only (L5)

@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Aconitum Napellus Whole Atropa Belladonna Bryonia 
 parent: Model Prediction Only (L5)

@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Anamirta Cocculus Whole Ascorbic Acid Chamaelirium
 parent: Model Prediction Only (L5)

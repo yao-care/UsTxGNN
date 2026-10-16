@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Activated Charcoal Alfalfa Antimony Trisulfide Ave
 parent: Model Prediction Only (L5)

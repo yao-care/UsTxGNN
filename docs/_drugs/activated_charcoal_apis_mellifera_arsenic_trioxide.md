@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Activated Charcoal Apis Mellifera Arsenic Trioxide
 parent: Model Prediction Only (L5)

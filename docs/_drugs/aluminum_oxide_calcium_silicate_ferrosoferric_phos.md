@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Aluminum Oxide Calcium Silicate Ferrosoferric Phos
 parent: Model Prediction Only (L5)

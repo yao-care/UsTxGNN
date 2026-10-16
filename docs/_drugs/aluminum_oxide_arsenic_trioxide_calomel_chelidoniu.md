@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Aluminum Oxide Arsenic Trioxide Calomel Chelidoniu
 parent: Model Prediction Only (L5)

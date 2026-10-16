@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Acetaminophen Dextromethorphan Hydrobromide Tripro
 parent: Model Prediction Only (L5)

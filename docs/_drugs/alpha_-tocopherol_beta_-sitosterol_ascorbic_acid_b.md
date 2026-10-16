@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Alpha -Tocopherol Beta -Sitosterol Ascorbic Acid B
 parent: Model Prediction Only (L5)

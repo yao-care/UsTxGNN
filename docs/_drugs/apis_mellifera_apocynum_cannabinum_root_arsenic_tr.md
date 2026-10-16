@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Apis Mellifera Apocynum Cannabinum Root Arsenic Tr
 parent: Model Prediction Only (L5)

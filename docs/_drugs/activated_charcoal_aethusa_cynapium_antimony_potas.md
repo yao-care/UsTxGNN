@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Activated Charcoal Aethusa Cynapium Antimony Potas
 parent: Model Prediction Only (L5)

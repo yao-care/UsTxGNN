@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Activated Charcoal Arsenic Triiodide Causticum Cup
 parent: Model Prediction Only (L5)

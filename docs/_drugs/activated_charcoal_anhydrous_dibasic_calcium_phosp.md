@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Activated Charcoal Anhydrous Dibasic Calcium Phosp
 parent: Model Prediction Only (L5)

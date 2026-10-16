@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Aconitum Napellus Whole Black Cohosh Camphor Datur
 parent: Model Prediction Only (L5)

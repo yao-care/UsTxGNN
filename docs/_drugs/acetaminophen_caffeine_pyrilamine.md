@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Acetaminophen Caffeine Pyrilamine
 parent: Model Prediction Only (L5)

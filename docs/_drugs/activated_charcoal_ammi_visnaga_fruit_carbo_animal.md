@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Activated Charcoal Ammi Visnaga Fruit Carbo Animal
 parent: Model Prediction Only (L5)

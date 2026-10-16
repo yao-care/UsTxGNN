@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Aluminum Oxide Causticum Claviceps Purpurea Sclero
 parent: Model Prediction Only (L5)

@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Alpha Lipoic Acid Cholesterol Cortisone Acetate Co
 parent: Model Prediction Only (L5)

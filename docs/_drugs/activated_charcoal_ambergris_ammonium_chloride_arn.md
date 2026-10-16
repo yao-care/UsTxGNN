@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Activated Charcoal Ambergris Ammonium Chloride Arn
 parent: Model Prediction Only (L5)

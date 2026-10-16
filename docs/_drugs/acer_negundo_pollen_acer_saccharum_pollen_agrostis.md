@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Acer Negundo Pollen Acer Saccharum Pollen Agrostis
 parent: Model Prediction Only (L5)

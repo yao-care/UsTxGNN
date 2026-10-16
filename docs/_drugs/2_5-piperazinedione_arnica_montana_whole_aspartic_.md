@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: 2 5-Piperazinedione Arnica Montana Whole Aspartic 
 parent: Model Prediction Only (L5)

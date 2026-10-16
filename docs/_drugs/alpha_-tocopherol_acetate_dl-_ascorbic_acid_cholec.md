@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Alpha -Tocopherol Acetate Dl- Ascorbic Acid Cholec
 parent: Model Prediction Only (L5)

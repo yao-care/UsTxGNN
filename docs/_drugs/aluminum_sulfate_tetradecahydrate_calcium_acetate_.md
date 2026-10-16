@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Aluminum Sulfate Tetradecahydrate Calcium Acetate 
 parent: Model Prediction Only (L5)

@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: 1 2-Distearoyl-Sn-Glycero-3-Phosphocholine Berberi
 parent: Model Prediction Only (L5)

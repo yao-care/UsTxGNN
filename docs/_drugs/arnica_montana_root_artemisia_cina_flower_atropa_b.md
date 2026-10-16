@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Arnica Montana Root Artemisia Cina Flower Atropa B
 parent: Model Prediction Only (L5)

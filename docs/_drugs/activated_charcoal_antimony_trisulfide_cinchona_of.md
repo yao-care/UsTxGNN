@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Activated Charcoal Antimony Trisulfide Cinchona Of
 parent: Model Prediction Only (L5)

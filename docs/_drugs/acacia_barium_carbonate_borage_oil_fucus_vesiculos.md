@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Acacia Barium Carbonate Borage Oil Fucus Vesiculos
 parent: Model Prediction Only (L5)

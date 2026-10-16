@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Abies Balsamea Leaf Oil Alnus Rhombifolia Bark Ama
 parent: Model Prediction Only (L5)

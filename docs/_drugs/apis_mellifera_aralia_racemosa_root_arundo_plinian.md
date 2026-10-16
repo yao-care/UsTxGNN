@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Apis Mellifera Aralia Racemosa Root Arundo Plinian
 parent: Model Prediction Only (L5)

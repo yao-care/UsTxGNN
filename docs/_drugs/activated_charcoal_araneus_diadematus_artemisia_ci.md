@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Activated Charcoal Araneus Diadematus Artemisia Ci
 parent: Model Prediction Only (L5)

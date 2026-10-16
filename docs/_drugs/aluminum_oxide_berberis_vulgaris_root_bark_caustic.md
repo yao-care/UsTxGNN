@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Aluminum Oxide Berberis Vulgaris Root Bark Caustic
 parent: Model Prediction Only (L5)

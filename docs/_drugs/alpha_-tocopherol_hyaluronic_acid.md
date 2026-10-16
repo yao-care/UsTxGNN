@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Alpha -Tocopherol Hyaluronic Acid
 parent: Model Prediction Only (L5)

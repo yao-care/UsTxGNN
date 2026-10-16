@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Apis Mellifera Araneus Diadematus Berberis Vulgari
 parent: Model Prediction Only (L5)

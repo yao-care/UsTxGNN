@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Activated Charcoal Aloe Carbo Animalis Hamamelis V
 parent: Model Prediction Only (L5)

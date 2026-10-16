@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Activated Charcoal Apis Mellifera Bos Taurus Pitui
 parent: Model Prediction Only (L5)

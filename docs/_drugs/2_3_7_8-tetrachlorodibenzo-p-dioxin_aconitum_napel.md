@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: 2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aconitum Napel
 parent: Model Prediction Only (L5)

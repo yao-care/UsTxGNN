@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Aconitum Napellus Whole Fagopyrum Esculentum Whole
 parent: Model Prediction Only (L5)

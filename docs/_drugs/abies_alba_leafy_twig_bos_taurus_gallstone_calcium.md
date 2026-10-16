@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Abies Alba Leafy Twig Bos Taurus Gallstone Calcium
 parent: Model Prediction Only (L5)

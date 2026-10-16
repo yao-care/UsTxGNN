@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Aluminum Oxide Cassava Dioscorea Villosa Tuber Fra
 parent: Model Prediction Only (L5)

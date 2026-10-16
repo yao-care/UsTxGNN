@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Alpha -Tocopherol Ascorbic Acid Beta Carotene Chol
 parent: Model Prediction Only (L5)

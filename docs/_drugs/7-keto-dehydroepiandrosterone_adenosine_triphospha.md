@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: 7-Keto-Dehydroepiandrosterone Adenosine Triphospha
 parent: Model Prediction Only (L5)

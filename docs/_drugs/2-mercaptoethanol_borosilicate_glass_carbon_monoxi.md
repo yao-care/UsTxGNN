@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: 2-Mercaptoethanol Borosilicate Glass Carbon Monoxi
 parent: Model Prediction Only (L5)

@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Aconitum Napellus Whole Arsenic Trioxide Baptisia 
 parent: Model Prediction Only (L5)

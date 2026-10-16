@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Acer Saccharum Pollen Alnus Rubra Pollen Anthoxant
 parent: Model Prediction Only (L5)

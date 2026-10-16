@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Activated Charcoal Arabica Coffee Bean Causticum E
 parent: Model Prediction Only (L5)

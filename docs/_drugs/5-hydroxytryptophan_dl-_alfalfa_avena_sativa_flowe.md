@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: 5-Hydroxytryptophan Dl- Alfalfa Avena Sativa Flowe
 parent: Model Prediction Only (L5)

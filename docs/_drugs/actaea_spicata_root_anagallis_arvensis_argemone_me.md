@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Actaea Spicata Root Anagallis Arvensis Argemone Me
 parent: Model Prediction Only (L5)

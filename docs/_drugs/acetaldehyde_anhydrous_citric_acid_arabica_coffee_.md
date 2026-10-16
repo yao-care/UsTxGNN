@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Acetaldehyde Anhydrous Citric Acid Arabica Coffee 
 parent: Model Prediction Only (L5)

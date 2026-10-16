@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Activated Charcoal Aethusa Cynapium Althaea Offici
 parent: Model Prediction Only (L5)

@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Apis Mellifera Arctostaphylos Uva-Ursi Leaf Berber
 parent: Model Prediction Only (L5)

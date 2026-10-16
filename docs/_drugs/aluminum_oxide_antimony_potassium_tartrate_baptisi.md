@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Aluminum Oxide Antimony Potassium Tartrate Baptisi
 parent: Model Prediction Only (L5)

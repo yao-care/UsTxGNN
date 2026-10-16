@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Actaea Spicata Root Arnica Montana Caulophyllum Th
 parent: Model Prediction Only (L5)

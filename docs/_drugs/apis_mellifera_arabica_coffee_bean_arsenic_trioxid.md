@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Apis Mellifera Arabica Coffee Bean Arsenic Trioxid
 parent: Model Prediction Only (L5)

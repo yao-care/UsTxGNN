@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Alpha -Tocopherol Ascorbic Acid Banana Beta Carote
 parent: Model Prediction Only (L5)

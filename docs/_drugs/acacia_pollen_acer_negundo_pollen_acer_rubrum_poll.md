@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Acacia Pollen Acer Negundo Pollen Acer Rubrum Poll
 parent: Model Prediction Only (L5)

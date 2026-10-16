@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: 7-Keto-Dehydroepiandrosterone Acetaldehyde Aldoste
 parent: Model Prediction Only (L5)

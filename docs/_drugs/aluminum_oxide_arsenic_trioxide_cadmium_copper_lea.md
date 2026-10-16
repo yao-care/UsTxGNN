@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Aluminum Oxide Arsenic Trioxide Cadmium Copper Lea
 parent: Model Prediction Only (L5)

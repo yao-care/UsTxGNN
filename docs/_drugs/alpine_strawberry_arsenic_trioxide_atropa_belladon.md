@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Alpine Strawberry Arsenic Trioxide Atropa Belladon
 parent: Model Prediction Only (L5)

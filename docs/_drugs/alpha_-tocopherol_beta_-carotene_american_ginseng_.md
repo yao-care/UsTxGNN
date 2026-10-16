@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Alpha -Tocopherol Beta -Carotene American Ginseng 
 parent: Model Prediction Only (L5)

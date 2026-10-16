@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Activated Charcoal Araneus Diadematus Arsenic Trii
 parent: Model Prediction Only (L5)

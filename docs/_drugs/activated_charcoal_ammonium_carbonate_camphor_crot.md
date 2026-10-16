@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Activated Charcoal Ammonium Carbonate Camphor Crot
 parent: Model Prediction Only (L5)

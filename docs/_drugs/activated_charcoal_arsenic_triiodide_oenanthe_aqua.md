@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Activated Charcoal Arsenic Triiodide Oenanthe Aqua
 parent: Model Prediction Only (L5)

@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Arnica Montana Whole Arsenic Tribromide Arsenic Tr
 parent: Model Prediction Only (L5)

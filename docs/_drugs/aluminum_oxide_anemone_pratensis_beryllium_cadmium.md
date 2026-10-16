@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Aluminum Oxide Anemone Pratensis Beryllium Cadmium
 parent: Model Prediction Only (L5)

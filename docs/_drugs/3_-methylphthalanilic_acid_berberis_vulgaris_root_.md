@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: 3 -Methylphthalanilic Acid Berberis Vulgaris Root 
 parent: Model Prediction Only (L5)

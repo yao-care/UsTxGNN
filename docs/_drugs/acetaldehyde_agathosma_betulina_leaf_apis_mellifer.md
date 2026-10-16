@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Acetaldehyde Agathosma Betulina Leaf Apis Mellifer
 parent: Model Prediction Only (L5)

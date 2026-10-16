@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Aconitum Napellus Whole Causticum Coffea Arabica S
 parent: Model Prediction Only (L5)

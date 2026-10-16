@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Actaea Cimicifuga Root Atropa Belladonna Bryonia A
 parent: Model Prediction Only (L5)

@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Acetaldehyde Adenosine Triphosphate Disodium Allox
 parent: Model Prediction Only (L5)

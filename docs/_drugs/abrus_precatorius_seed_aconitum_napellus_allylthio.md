@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Abrus Precatorius Seed Aconitum Napellus Allylthio
 parent: Model Prediction Only (L5)

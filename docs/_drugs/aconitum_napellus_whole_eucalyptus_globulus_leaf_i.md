@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Aconitum Napellus Whole Eucalyptus Globulus Leaf I
 parent: Model Prediction Only (L5)

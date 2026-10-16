@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: 4-Methylbenzylidene Camphor Ethylhexyl Methoxycinn
 parent: Model Prediction Only (L5)

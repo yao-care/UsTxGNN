@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Anamirta Cocculus Whole Asafetida Datura Stramoniu
 parent: Model Prediction Only (L5)

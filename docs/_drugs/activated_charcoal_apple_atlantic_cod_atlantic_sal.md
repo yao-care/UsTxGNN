@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Activated Charcoal Apple Atlantic Cod Atlantic Sal
 parent: Model Prediction Only (L5)

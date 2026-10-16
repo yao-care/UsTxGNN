@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Alpha Lipoic Acid Apis Mellifera Arnica Montana Wh
 parent: Model Prediction Only (L5)

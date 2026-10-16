@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Actaea Racemosa Whole Apis Mellifera Graphite Oyst
 parent: Model Prediction Only (L5)

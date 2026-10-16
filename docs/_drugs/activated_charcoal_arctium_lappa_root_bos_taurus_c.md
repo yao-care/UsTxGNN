@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Activated Charcoal Arctium Lappa Root Bos Taurus C
 parent: Model Prediction Only (L5)

@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Acetaldehyde Aconitum Napellus Whole Arnica Montan
 parent: Model Prediction Only (L5)

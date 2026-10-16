@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Acer Rubrum Pollen Acer Saccharinum Pollen Acer Sa
 parent: Model Prediction Only (L5)

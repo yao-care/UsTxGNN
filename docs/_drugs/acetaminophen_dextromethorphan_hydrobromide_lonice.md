@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Acetaminophen Dextromethorphan Hydrobromide Lonice
 parent: Model Prediction Only (L5)

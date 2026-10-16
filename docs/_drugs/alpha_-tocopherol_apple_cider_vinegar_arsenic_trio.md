@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Alpha -Tocopherol Apple Cider Vinegar Arsenic Trio
 parent: Model Prediction Only (L5)

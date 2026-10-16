@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Alpha Lipoic Acid Ammonium Bromide Ammonium Carbon
 parent: Model Prediction Only (L5)

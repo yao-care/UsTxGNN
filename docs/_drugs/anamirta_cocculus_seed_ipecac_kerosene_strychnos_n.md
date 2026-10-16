@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Anamirta Cocculus Seed Ipecac Kerosene Strychnos N
 parent: Model Prediction Only (L5)

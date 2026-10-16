@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Aluminum Oxide Barium Carbonate Carbon Disulfide C
 parent: Model Prediction Only (L5)

@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Aluminum Oxide Bryonia Alba Root Citrullus Colocyn
 parent: Model Prediction Only (L5)

@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Alpha -Tocopherol Acetate Silicon Dioxide Sodium F
 parent: Model Prediction Only (L5)

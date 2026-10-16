@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Acer Negundo Pollen Acer Rubrum Pollen Arsenic Tri
 parent: Model Prediction Only (L5)

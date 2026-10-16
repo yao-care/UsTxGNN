@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Apis Mellifera Araneus Diadematus Barium Carbonate
 parent: Model Prediction Only (L5)

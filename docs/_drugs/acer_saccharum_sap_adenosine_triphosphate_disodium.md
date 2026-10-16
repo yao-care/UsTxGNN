@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Acer Saccharum Sap Adenosine Triphosphate Disodium
 parent: Model Prediction Only (L5)

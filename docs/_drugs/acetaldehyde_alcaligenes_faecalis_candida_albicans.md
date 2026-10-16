@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Acetaldehyde Alcaligenes Faecalis Candida Albicans
 parent: Model Prediction Only (L5)

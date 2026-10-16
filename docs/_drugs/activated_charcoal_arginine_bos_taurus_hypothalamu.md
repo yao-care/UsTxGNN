@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Activated Charcoal Arginine Bos Taurus Hypothalamu
 parent: Model Prediction Only (L5)

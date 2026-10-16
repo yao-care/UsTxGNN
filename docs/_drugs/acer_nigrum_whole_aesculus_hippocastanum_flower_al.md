@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Acer Nigrum Whole Aesculus Hippocastanum Flower Al
 parent: Model Prediction Only (L5)

@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Apis Mellifera Arctium Lappa Root Arsenic Trioxide
 parent: Model Prediction Only (L5)

@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Activated Charcoal Alfalfa American Ginseng Aspara
 parent: Model Prediction Only (L5)

@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Actaea Spicata Root Ammonium Benzoate Arnica Monta
 parent: Model Prediction Only (L5)

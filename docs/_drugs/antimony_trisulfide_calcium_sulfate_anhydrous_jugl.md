@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Antimony Trisulfide Calcium Sulfate Anhydrous Jugl
 parent: Model Prediction Only (L5)

@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Aluminum Oxide Lead Mercuric Chloride Nickel Radiu
 parent: Model Prediction Only (L5)

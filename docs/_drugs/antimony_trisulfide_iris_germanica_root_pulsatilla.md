@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Antimony Trisulfide Iris Germanica Root Pulsatilla
 parent: Model Prediction Only (L5)

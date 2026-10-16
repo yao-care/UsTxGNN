@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Aluminum Oxide Berberis Vulgaris Root Bark Bos Tau
 parent: Model Prediction Only (L5)

@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Alpha Lipoic Acid Apiole Arnica Montana Whole Cinn
 parent: Model Prediction Only (L5)

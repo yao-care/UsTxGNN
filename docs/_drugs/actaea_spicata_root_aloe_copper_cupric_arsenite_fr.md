@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Actaea Spicata Root Aloe Copper Cupric Arsenite Fr
 parent: Model Prediction Only (L5)

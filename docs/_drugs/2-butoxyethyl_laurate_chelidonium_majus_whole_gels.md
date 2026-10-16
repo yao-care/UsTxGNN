@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: 2-Butoxyethyl Laurate Chelidonium Majus Whole Gels
 parent: Model Prediction Only (L5)

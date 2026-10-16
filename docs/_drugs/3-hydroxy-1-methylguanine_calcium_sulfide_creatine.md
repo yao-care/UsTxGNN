@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: 3-Hydroxy-1-Methylguanine Calcium Sulfide Creatine
 parent: Model Prediction Only (L5)

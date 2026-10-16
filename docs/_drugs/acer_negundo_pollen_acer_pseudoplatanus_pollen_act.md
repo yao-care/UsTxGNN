@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Acer Negundo Pollen Acer Pseudoplatanus Pollen Act
 parent: Model Prediction Only (L5)

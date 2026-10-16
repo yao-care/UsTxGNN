@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Anamirta Cocculus Seed Gelsemium Sempervirens Root
 parent: Model Prediction Only (L5)

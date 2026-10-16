@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Activated Charcoal Arnica Montana Root Lachesis Mu
 parent: Model Prediction Only (L5)

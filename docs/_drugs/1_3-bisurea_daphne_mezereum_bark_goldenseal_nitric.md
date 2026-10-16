@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: 1 3-Bisurea Daphne Mezereum Bark Goldenseal Nitric
 parent: Model Prediction Only (L5)

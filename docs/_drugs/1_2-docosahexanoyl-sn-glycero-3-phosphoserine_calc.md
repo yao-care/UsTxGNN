@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: 1 2-Docosahexanoyl-Sn-Glycero-3-Phosphoserine Calc
 parent: Model Prediction Only (L5)

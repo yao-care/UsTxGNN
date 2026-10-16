@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Aluminum Oxide American Ginseng Anemone Pulsatilla
 parent: Model Prediction Only (L5)

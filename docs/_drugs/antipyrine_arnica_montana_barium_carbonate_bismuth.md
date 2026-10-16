@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Antipyrine Arnica Montana Barium Carbonate Bismuth
 parent: Model Prediction Only (L5)

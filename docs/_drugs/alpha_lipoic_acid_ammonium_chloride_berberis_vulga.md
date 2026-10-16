@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Alpha Lipoic Acid Ammonium Chloride Berberis Vulga
 parent: Model Prediction Only (L5)

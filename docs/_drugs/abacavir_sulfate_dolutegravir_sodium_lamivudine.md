@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Abacavir Sulfate Dolutegravir Sodium Lamivudine
 parent: Model Prediction Only (L5)

@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Alpha -Tocopherol D- Cholecalciferol Cyanocobalami
 parent: Model Prediction Only (L5)

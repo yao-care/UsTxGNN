@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Activated Charcoal Alcohol X-Ray Exposed Aluminum 
 parent: Model Prediction Only (L5)

@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Aluminum Oxide Ammonium Carbonate Anacardium Occid
 parent: Model Prediction Only (L5)

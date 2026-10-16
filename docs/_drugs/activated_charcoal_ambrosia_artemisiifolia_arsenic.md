@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Activated Charcoal Ambrosia Artemisiifolia Arsenic
 parent: Model Prediction Only (L5)

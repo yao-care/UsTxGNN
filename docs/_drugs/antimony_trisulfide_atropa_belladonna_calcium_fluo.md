@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Antimony Trisulfide Atropa Belladonna Calcium Fluo
 parent: Model Prediction Only (L5)

@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Aconitum Napellus Whole Bryonia Alba Root Ferrosof
 parent: Model Prediction Only (L5)

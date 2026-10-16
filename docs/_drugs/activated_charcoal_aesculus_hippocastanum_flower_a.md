@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Activated Charcoal Aesculus Hippocastanum Flower A
 parent: Model Prediction Only (L5)

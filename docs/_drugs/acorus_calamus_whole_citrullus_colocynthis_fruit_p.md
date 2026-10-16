@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Acorus Calamus Whole Citrullus Colocynthis Fruit P
 parent: Model Prediction Only (L5)

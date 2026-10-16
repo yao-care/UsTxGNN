@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Actaea Cimicifuga Root Arnica Angustifolia Flower 
 parent: Model Prediction Only (L5)

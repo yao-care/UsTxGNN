@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Arnica Montana Root Graphite Hypericum Perforatum 
 parent: Model Prediction Only (L5)

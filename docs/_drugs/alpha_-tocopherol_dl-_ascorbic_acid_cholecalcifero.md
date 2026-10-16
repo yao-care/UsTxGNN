@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Alpha -Tocopherol Dl- Ascorbic Acid Cholecalcifero
 parent: Model Prediction Only (L5)

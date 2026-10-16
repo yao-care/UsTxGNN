@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Arnica Montana Whole Artemisia Abrotanum Flowering
 parent: Model Prediction Only (L5)

@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Anas Platyrhynchos Feather Anser Anser Feather Bos
 parent: Model Prediction Only (L5)

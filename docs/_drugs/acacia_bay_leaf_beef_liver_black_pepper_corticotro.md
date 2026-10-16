@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Acacia Bay Leaf Beef Liver Black Pepper Corticotro
 parent: Model Prediction Only (L5)

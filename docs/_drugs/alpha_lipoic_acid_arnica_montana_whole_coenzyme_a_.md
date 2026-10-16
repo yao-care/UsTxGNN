@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Alpha Lipoic Acid Arnica Montana Whole Coenzyme A 
 parent: Model Prediction Only (L5)

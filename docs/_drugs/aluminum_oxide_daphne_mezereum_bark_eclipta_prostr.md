@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Aluminum Oxide Daphne Mezereum Bark Eclipta Prostr
 parent: Model Prediction Only (L5)

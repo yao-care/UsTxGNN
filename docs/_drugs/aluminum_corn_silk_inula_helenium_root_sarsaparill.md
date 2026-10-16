@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Aluminum Corn Silk Inula Helenium Root Sarsaparill
 parent: Model Prediction Only (L5)

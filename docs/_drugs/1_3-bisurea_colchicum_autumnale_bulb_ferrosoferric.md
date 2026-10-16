@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: 1 3-Bisurea Colchicum Autumnale Bulb Ferrosoferric
 parent: Model Prediction Only (L5)

@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Actaea Spicata Root Antimony Trisulfide Arnica Mon
 parent: Model Prediction Only (L5)

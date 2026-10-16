@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Activated Charcoal Antimony Arsenate Bryonia Alba 
 parent: Model Prediction Only (L5)

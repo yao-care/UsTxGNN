@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Apis Mellifera Apis Mellifera Venom Arsenic Trioxi
 parent: Model Prediction Only (L5)

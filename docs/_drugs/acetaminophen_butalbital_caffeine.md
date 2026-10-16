@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Acetaminophen Butalbital Caffeine
 parent: Model Prediction Only (L5)

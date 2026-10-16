@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Activated Charcoal Arnica Montana Whole Arsenic Tr
 parent: Model Prediction Only (L5)

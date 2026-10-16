@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Abelmoschus Moschatus Flower Aesculus Hippocastanu
 parent: Model Prediction Only (L5)

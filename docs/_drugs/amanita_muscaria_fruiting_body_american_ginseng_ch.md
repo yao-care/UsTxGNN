@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Amanita Muscaria Fruiting Body American Ginseng Ch
 parent: Model Prediction Only (L5)

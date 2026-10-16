@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Activated Charcoal Ammonium Phosphate Dibasic Amoe
 parent: Model Prediction Only (L5)

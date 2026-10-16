@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Acacia Dealbata Pollen Acer Negundo Pollen Acer Sa
 parent: Model Prediction Only (L5)

@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Antimony Trisulfide Bay Leaf Frangula Alnus Bark J
 parent: Model Prediction Only (L5)

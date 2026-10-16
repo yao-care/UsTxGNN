@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Antimony Trisulfide Bryonia Alba Root Causticum De
 parent: Model Prediction Only (L5)

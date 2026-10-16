@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Abacavir Sulfate Lamivudine Zidovudine
 parent: Model Prediction Only (L5)

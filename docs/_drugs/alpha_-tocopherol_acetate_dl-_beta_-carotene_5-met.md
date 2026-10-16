@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Alpha -Tocopherol Acetate Dl- Beta -Carotene 5-Met
 parent: Model Prediction Only (L5)

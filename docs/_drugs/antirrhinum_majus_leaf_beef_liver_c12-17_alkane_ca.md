@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Antirrhinum Majus Leaf Beef Liver C12-17 Alkane Ca
 parent: Model Prediction Only (L5)

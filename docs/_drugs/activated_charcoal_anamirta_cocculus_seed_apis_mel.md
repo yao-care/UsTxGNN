@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Activated Charcoal Anamirta Cocculus Seed Apis Mel
 parent: Model Prediction Only (L5)

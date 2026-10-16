@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Activated Charcoal Aloe Citrullus Colocynthis Frui
 parent: Model Prediction Only (L5)

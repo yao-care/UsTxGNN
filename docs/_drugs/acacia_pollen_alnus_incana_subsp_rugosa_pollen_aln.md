@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Acacia Pollen Alnus Incana Subsp Rugosa Pollen Aln
 parent: Model Prediction Only (L5)

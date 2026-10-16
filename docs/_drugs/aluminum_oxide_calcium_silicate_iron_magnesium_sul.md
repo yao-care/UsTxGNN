@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Aluminum Oxide Calcium Silicate Iron Magnesium Sul
 parent: Model Prediction Only (L5)

@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Antimony Trisulfide Benzoic Acid Ledum Palustre Tw
 parent: Model Prediction Only (L5)

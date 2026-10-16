@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Alpha -Tocopherol Dl- Ascorbic Acid Calcium Format
 parent: Model Prediction Only (L5)

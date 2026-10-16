@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Activated Charcoal Aloe Antimony Trisulfide Astacu
 parent: Model Prediction Only (L5)

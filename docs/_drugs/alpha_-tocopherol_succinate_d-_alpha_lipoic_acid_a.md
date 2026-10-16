@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Alpha -Tocopherol Succinate D- Alpha Lipoic Acid A
 parent: Model Prediction Only (L5)

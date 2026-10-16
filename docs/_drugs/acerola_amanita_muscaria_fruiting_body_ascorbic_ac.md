@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Acerola Amanita Muscaria Fruiting Body Ascorbic Ac
 parent: Model Prediction Only (L5)

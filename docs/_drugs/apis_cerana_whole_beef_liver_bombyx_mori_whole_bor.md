@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Apis Cerana Whole Beef Liver Bombyx Mori Whole Bor
 parent: Model Prediction Only (L5)

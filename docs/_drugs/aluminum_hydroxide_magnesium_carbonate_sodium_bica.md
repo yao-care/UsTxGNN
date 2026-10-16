@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Aluminum Hydroxide Magnesium Carbonate Sodium Bica
 parent: Model Prediction Only (L5)

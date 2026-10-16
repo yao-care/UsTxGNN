@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Antimony Trisulfide Bos Taurus Pancreas Corallium 
 parent: Model Prediction Only (L5)

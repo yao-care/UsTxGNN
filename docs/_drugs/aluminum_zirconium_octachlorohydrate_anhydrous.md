@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Aluminum Zirconium Octachlorohydrate Anhydrous
 parent: Model Prediction Only (L5)

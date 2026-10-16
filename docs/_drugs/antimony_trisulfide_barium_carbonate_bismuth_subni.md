@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Antimony Trisulfide Barium Carbonate Bismuth Subni
 parent: Model Prediction Only (L5)

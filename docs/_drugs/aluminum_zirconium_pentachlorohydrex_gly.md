@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Aluminum Zirconium Pentachlorohydrex Gly
 parent: Model Prediction Only (L5)

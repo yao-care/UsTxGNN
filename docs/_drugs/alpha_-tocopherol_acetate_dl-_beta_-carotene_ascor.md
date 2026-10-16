@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Alpha -Tocopherol Acetate Dl- Beta -Carotene Ascor
 parent: Model Prediction Only (L5)

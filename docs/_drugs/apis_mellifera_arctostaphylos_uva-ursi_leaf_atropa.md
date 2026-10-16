@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Apis Mellifera Arctostaphylos Uva-Ursi Leaf Atropa
 parent: Model Prediction Only (L5)

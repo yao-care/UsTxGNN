@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Activated Charcoal Antimony Trisulfide Arctium Lap
 parent: Model Prediction Only (L5)

@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Anemone Hepatica Var Obtusa Antimony Potassium Tar
 parent: Model Prediction Only (L5)

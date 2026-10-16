@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Acer Saccharinum Pollen
 parent: Model Prediction Only (L5)

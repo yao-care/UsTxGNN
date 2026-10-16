@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Arnica Montana Magnesium Sulfate Unspecified Witch
 parent: Model Prediction Only (L5)

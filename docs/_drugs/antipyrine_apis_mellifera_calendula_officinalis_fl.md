@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Antipyrine Apis Mellifera Calendula Officinalis Fl
 parent: Model Prediction Only (L5)

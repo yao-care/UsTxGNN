@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Abutilon Theophrasti Seed Aconitum Carmichaeli Lat
 parent: Model Prediction Only (L5)

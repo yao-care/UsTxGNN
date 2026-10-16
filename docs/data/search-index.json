@@ -1,557 +1,8 @@
 {
   "generated": "2026-10-16",
-  "drug_count": 1295,
-  "indication_count": 2174,
+  "drug_count": 958,
+  "indication_count": 2003,
   "drugs": [
-    {
-      "name": "1 2-Distearoyl-Sn-Glycero-3-Phosphocholine Activat",
-      "slug": "1-2-distearoyl-sn-glycero-3-phosphocholine-activat",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "1 2-Distearoyl-Sn-Glycero-3-Phosphocholine Berberi",
-      "slug": "1-2-distearoyl-sn-glycero-3-phosphocholine-berberi",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "1 2-Docosahexanoyl-Sn-Glycero-3-Phosphoserine Calc",
-      "slug": "1-2-docosahexanoyl-sn-glycero-3-phosphoserine-calc",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "1 2-Naphthoquinone Aconitic Acid Arsenic Citric Ac",
-      "slug": "1-2-naphthoquinone-aconitic-acid-arsenic-citric-ac",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "1 3-Bisurea Colchicum Autumnale Bulb Ferrosoferric",
-      "slug": "1-3-bisurea-colchicum-autumnale-bulb-ferrosoferric",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "1 3-Bisurea Daphne Mezereum Bark Goldenseal Nitric",
-      "slug": "1-3-bisurea-daphne-mezereum-bark-goldenseal-nitric",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "1 4-Naphthoquinone Aconitic Acid - Anhydrous Citri",
-      "slug": "1-4-naphthoquinone-aconitic-acid-anhydrous-citri",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "2-Butoxyethyl Laurate Chelidonium Majus Whole Gels",
-      "slug": "2-butoxyethyl-laurate-chelidonium-majus-whole-gels",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "2-Mercaptoethanol Borosilicate Glass Carbon Monoxi",
-      "slug": "2-mercaptoethanol-borosilicate-glass-carbon-monoxi",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "2-Mercaptoethanol | Reducing agent / industrial solvent",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Borosilicate Glass | Inert material / container",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Carbon Monoxide | Industrial gas",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Ethyl Butylacetylaminopropionate | Insect repellent (IR3535)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Hops Oil | Plant extract / flavouring",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Liquid Petroleum | Mineral oil / excipient",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "MCPA | Herbicide (phenoxy acetic acid class)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Polyvinyl Alcohol, Unspecified | Polymer excipient",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Titanium Dioxide | Pigment / coating excipient",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Tralomethrin | Pyrethroid insecticide",
-          "score": 99.0,
-          "level": "L5"
-        }
-      ]
-    },
-    {
-      "name": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aconitum Napel",
-      "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aconitum-napel",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "2,3,7,8-Tetrachlorodibenzo-p-dioxin (TCDD) | Industrial toxin / Environmental contaminant",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Aconitum napellus whole | Toxic botanical / Homeopathic ingredient",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Ammonium cation | Inorganic ion",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Apis mellifera | Homeopathic ingredient (bee venom)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Arnica montana whole | Homeopathic botanical",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Arsenic trioxide | Approved anticancer agent (AML)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Benzene | Industrial carcinogen",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Calendula officinalis flowering top | Homeopathic botanical",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Chlorine | Industrial chemical / Toxin",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Chloroform | Industrial solvent / Hepatotoxin",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Dieffenbachia seguine whole | Toxic plant",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Fenson | Obsolete acaricide / Pesticide",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Fluorine | Reactive element",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Hydrogen cyanide | Highly toxic gas",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Methane | Combustible gas",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Nitric acid | Strong acid",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Onion | Food / Homeopathic ingredient",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Phosfolan | Organophosphate pesticide",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Potassium cyanide | Highly toxic salt",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Propane | Combustible gas",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Sulfur | Mineral / Homeopathic ingredient",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Sulfuric acid | Strong acid",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Veratrum album root | Toxic botanical",
-          "score": 99.0,
-          "level": "L5"
-        }
-      ]
-    },
-    {
-      "name": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aluminum Arcti",
-      "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aluminum-arcti",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aluminum Oxide",
-      "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aluminum-oxide",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "2,3,7,8-Tetrachlorodibenzo-p-dioxin (TCDD) | Persistent organic pollutant / known carcinogen",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Aluminum oxide | Industrial abrasive / excipient",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Antipyrine | Analgesic / diagnostic agent",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Benzene | Industrial solvent / known carcinogen (IARC Group 1)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Bisphenol A | Endocrine disruptor / plasticizer",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Carbon disulfide | Industrial chemical / neurotoxin",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Carboxymethylcellulose sodium | Pharmaceutical excipient",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Diethylstilbestrol | Synthetic estrogen (withdrawn from most markets)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Estrone | Endogenous estrogen",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Formaldehyde solution | Fixative / known carcinogen (IARC Group 1)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Garlic | Food substance / herbal supplement",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Glyphosate | Herbicide",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Kerosene | Petroleum distillate",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Methylparaben | Preservative / excipient",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Naphthalene | Industrial chemical / possible carcinogen",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Paraffin | Wax / excipient",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Phenacetin | Withdrawn analgesic (nephrotoxic)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Phenol | Antiseptic / industrial chemical",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Polytetrafluoroethylene (PTFE) | Polymer / coating material",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Ptelea trifoliata bark | Herbal botanical",
-          "score": 99.0,
-          "level": "L5"
-        }
-      ]
-    },
-    {
-      "name": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Bromine Chlori",
-      "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-bromine-chlori",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "2 5-Piperazinedione Arnica Montana Whole Aspartic",
-      "slug": "2-5-piperazinedione-arnica-montana-whole-aspartic",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "3-Hydroxy-1-Methylguanine Calcium Sulfide Creatine",
-      "slug": "3-hydroxy-1-methylguanine-calcium-sulfide-creatine",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "3-Methylcholanthrene Anthracene Benzopyrene Black",
-      "slug": "3-methylcholanthrene-anthracene-benzopyrene-black",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "3-O-Ethyl Ascorbic Acid Allantoin Hippophae Rhamno",
-      "slug": "3-o-ethyl-ascorbic-acid-allantoin-hippophae-rhamno",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "3 -Methylphthalanilic Acid Berberis Vulgaris Root",
-      "slug": "3-methylphthalanilic-acid-berberis-vulgaris-root",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "3 3 -Diindolylmethane Adenosine Triphosphate Disod",
-      "slug": "3-3-diindolylmethane-adenosine-triphosphate-disod",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "4-Methylbenzylidene Camphor Ethylhexyl Methoxycinn",
-      "slug": "4-methylbenzylidene-camphor-ethylhexyl-methoxycinn",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "5-Hydroxytryptophan Dl- Alfalfa Avena Sativa Flowe",
-      "slug": "5-hydroxytryptophan-dl-alfalfa-avena-sativa-flowe",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "7-Keto-Dehydroepiandrosterone Acetaldehyde Aldoste",
-      "slug": "7-keto-dehydroepiandrosterone-acetaldehyde-aldoste",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "7-Keto-Dehydroepiandrosterone Adenosine Triphospha",
-      "slug": "7-keto-dehydroepiandrosterone-adenosine-triphospha",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "7-Keto-Dehydroepiandrosterone | Endogenous steroid metabolite",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Adenosine Triphosphate Disodium | Nucleotide / energy substrate",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Echinacea, unspecified | Botanical immunomodulator",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Gamboge | Resin / traditional cathartic",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Graphite | Homeopathic mineral",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Insulin Human | Peptide hormone",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Lactic Acid, L- | Organic acid",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Methylcobalamin | Vitamin B12 analogue",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Phytolacca americana Root | Homeopathic botanical",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Pork Kidney | Animal organ extract",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Pork Liver | Animal organ extract",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Proteus vulgaris | Homeopathic nosode (bacteria)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Strychnos nux-vomica Seed | Homeopathic botanical (alkaloid source)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Sus scrofa Hypothalamus | Porcine organ extract",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Sus scrofa Pancreas | Porcine organ extract",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Vincetoxicum hirundinaria Root | Homeopathic botanical",
-          "score": 99.0,
-          "level": "L5"
-        }
-      ]
-    },
-    {
-      "name": "7-Oxodehydroepiandrosterone 3-Acetate Adenosine Tr",
-      "slug": "7-oxodehydroepiandrosterone-3-acetate-adenosine-tr",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "7-Oxodehydroepiandrosterone 3-Acetate Conium Macul",
-      "slug": "7-oxodehydroepiandrosterone-3-acetate-conium-macul",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
     {
       "name": "Abacavir",
       "slug": "abacavir",
@@ -575,30 +26,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Abacavir Sulfate Dolutegravir Sodium Lamivudine",
-      "slug": "abacavir-sulfate-dolutegravir-sodium-lamivudine",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Abacavir Sulfate Lamivudine",
-      "slug": "abacavir-sulfate-lamivudine",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Abacavir Sulfate Lamivudine Zidovudine",
-      "slug": "abacavir-sulfate-lamivudine-zidovudine",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Abaloparatide",
@@ -689,14 +116,6 @@
       ]
     },
     {
-      "name": "Abelmoschus Moschatus Flower Aesculus Hippocastanu",
-      "slug": "abelmoschus-moschatus-flower-aesculus-hippocastanu",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Abemaciclib",
       "slug": "abemaciclib",
       "brands": [],
@@ -756,152 +175,8 @@
       ]
     },
     {
-      "name": "Abies Alba Leafy Twig Beef Lung Bos Taurus Nasal M",
-      "slug": "abies-alba-leafy-twig-beef-lung-bos-taurus-nasal-m",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Abies Alba Leafy Twig Bos Taurus Gallstone Calcium",
-      "slug": "abies-alba-leafy-twig-bos-taurus-gallstone-calcium",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Abies Balsamea Leaf Oil Acer Pensylvanicum Whole A",
-      "slug": "abies-balsamea-leaf-oil-acer-pensylvanicum-whole-a",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Abies Balsamea Leaf Oil Alnus Rhombifolia Bark Ama",
-      "slug": "abies-balsamea-leaf-oil-alnus-rhombifolia-bark-ama",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Abiraterone",
-      "slug": "abiraterone",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Abiraterone Acetate Niraparib Tosylate Monohydrate",
       "slug": "abiraterone-acetate-niraparib-tosylate-monohydrate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Abrus Precatorius Seed Aconitum Napellus Aethusa C",
-      "slug": "abrus-precatorius-seed-aconitum-napellus-aethusa-c",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Abrus Precatorius Seed Aconitum Napellus Allylthio",
-      "slug": "abrus-precatorius-seed-aconitum-napellus-allylthio",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Abutilon Theophrasti Seed Aconitum Carmichaeli Lat",
-      "slug": "abutilon-theophrasti-seed-aconitum-carmichaeli-lat",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acacia Amaranthus Hybridus Leaf Amaranthus Tubercu",
-      "slug": "acacia-amaranthus-hybridus-leaf-amaranthus-tubercu",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acacia Barium Carbonate Borage Oil Fucus Vesiculos",
-      "slug": "acacia-barium-carbonate-borage-oil-fucus-vesiculos",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acacia Bay Leaf Beef Liver Black Pepper Corticotro",
-      "slug": "acacia-bay-leaf-beef-liver-black-pepper-corticotro",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acacia Dealbata Pollen Acer Negundo Pollen Acer Sa",
-      "slug": "acacia-dealbata-pollen-acer-negundo-pollen-acer-sa",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acacia Pollen Acer Negundo Pollen Acer Rubrum Poll",
-      "slug": "acacia-pollen-acer-negundo-pollen-acer-rubrum-poll",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acacia Pollen Acer Negundo Pollen Agrostis Gigante",
-      "slug": "acacia-pollen-acer-negundo-pollen-agrostis-gigante",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acacia Pollen Agrostis Gigantea Pollen Ailanthus A",
-      "slug": "acacia-pollen-agrostis-gigantea-pollen-ailanthus-a",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acacia Pollen Alnus Incana Subsp Rugosa Pollen Aln",
-      "slug": "acacia-pollen-alnus-incana-subsp-rugosa-pollen-aln",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acalabrutinib",
-      "slug": "acalabrutinib",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acamprosate Calcium",
-      "slug": "acamprosate-calcium",
       "brands": [],
       "original": "",
       "level": "L5",
@@ -981,222 +256,6 @@
       ]
     },
     {
-      "name": "Aceclidine",
-      "slug": "aceclidine",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acer Negundo Pollen Acer Pseudoplatanus Pollen Act",
-      "slug": "acer-negundo-pollen-acer-pseudoplatanus-pollen-act",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acer Negundo Pollen Acer Rubrum Pollen Acer Saccha",
-      "slug": "acer-negundo-pollen-acer-rubrum-pollen-acer-saccha",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acer Negundo Pollen Acer Rubrum Pollen Arsenic Tri",
-      "slug": "acer-negundo-pollen-acer-rubrum-pollen-arsenic-tri",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acer Negundo Pollen Acer Saccharum Pollen Agrostis",
-      "slug": "acer-negundo-pollen-acer-saccharum-pollen-agrostis",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acer Negundo Pollen Acer Saccharum Pollen Ailanthu",
-      "slug": "acer-negundo-pollen-acer-saccharum-pollen-ailanthu",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acer Negundo Root Bark Amaranthus Hybridus Leaf Am",
-      "slug": "acer-negundo-root-bark-amaranthus-hybridus-leaf-am",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acer Negundo Whole Beta Vulgaris Calcium Fluoride",
-      "slug": "acer-negundo-whole-beta-vulgaris-calcium-fluoride",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acer Nigrum Whole Aesculus Hippocastanum Flower Al",
-      "slug": "acer-nigrum-whole-aesculus-hippocastanum-flower-al",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acer Rubrum Pollen Acer Saccharinum Pollen Acer Sa",
-      "slug": "acer-rubrum-pollen-acer-saccharinum-pollen-acer-sa",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acer Rubrum Pollen Acer Saccharum Pollen Agrostis",
-      "slug": "acer-rubrum-pollen-acer-saccharum-pollen-agrostis",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acer Saccharinum Pollen",
-      "slug": "acer-saccharinum-pollen",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acer Saccharinum Pollen Alnus Rhombifolia Pollen B",
-      "slug": "acer-saccharinum-pollen-alnus-rhombifolia-pollen-b",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acer Saccharum Pollen Alnus Rubra Pollen Anthoxant",
-      "slug": "acer-saccharum-pollen-alnus-rubra-pollen-anthoxant",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acer Saccharum Pollen Alnus Rubra Pollen Beef Live",
-      "slug": "acer-saccharum-pollen-alnus-rubra-pollen-beef-live",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acer Saccharum Sap Adenosine Triphosphate Disodium",
-      "slug": "acer-saccharum-sap-adenosine-triphosphate-disodium",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acerola Amanita Muscaria Fruiting Body Ascorbic Ac",
-      "slug": "acerola-amanita-muscaria-fruiting-body-ascorbic-ac",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acetaldehyde",
-      "slug": "acetaldehyde",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acetaldehyde Acetic Acid Alpine Strawberry Anhydro",
-      "slug": "acetaldehyde-acetic-acid-alpine-strawberry-anhydro",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acetaldehyde Acetone Amaryllis Belladonna Whole Be",
-      "slug": "acetaldehyde-acetone-amaryllis-belladonna-whole-be",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acetaldehyde Aconitum Napellus Whole Arnica Montan",
-      "slug": "acetaldehyde-aconitum-napellus-whole-arnica-montan",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acetaldehyde Activated Charcoal Arsenic Trioxide C",
-      "slug": "acetaldehyde-activated-charcoal-arsenic-trioxide-c",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acetaldehyde Adenosine Triphosphate Disodium Allox",
-      "slug": "acetaldehyde-adenosine-triphosphate-disodium-allox",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acetaldehyde Agathosma Betulina Leaf Apis Mellifer",
-      "slug": "acetaldehyde-agathosma-betulina-leaf-apis-mellifer",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acetaldehyde Alcaligenes Faecalis Candida Albicans",
-      "slug": "acetaldehyde-alcaligenes-faecalis-candida-albicans",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acetaldehyde Anhydrous Citric Acid Arabica Coffee",
-      "slug": "acetaldehyde-anhydrous-citric-acid-arabica-coffee",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acetaldehyde Berberis Vulgaris Root Bark Caffeine",
-      "slug": "acetaldehyde-berberis-vulgaris-root-bark-caffeine",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Acetaminophen",
       "slug": "acetaminophen",
       "brands": [],
@@ -1209,214 +268,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Acetaminophen Aspirin",
-      "slug": "acetaminophen-aspirin",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acetaminophen Aspirin Caffeine",
-      "slug": "acetaminophen-aspirin-caffeine",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acetaminophen Aspirin Diphenhydramine",
-      "slug": "acetaminophen-aspirin-diphenhydramine",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acetaminophen Benzhydrocodone",
-      "slug": "acetaminophen-benzhydrocodone",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acetaminophen Butalbital",
-      "slug": "acetaminophen-butalbital",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acetaminophen Butalbital Caffeine",
-      "slug": "acetaminophen-butalbital-caffeine",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acetaminophen Butalbital Caffeine Codeine",
-      "slug": "acetaminophen-butalbital-caffeine-codeine",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acetaminophen Caffeine",
-      "slug": "acetaminophen-caffeine",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acetaminophen Caffeine Dihydrocodeine Bitartrate",
-      "slug": "acetaminophen-caffeine-dihydrocodeine-bitartrate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acetaminophen Caffeine Pyrilamine",
-      "slug": "acetaminophen-caffeine-pyrilamine",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acetaminophen Chlorpheniramine",
-      "slug": "acetaminophen-chlorpheniramine",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acetaminophen Chlorpheniramine Maleate Dextrometho",
-      "slug": "acetaminophen-chlorpheniramine-maleate-dextrometho",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acetaminophen Chlorpheniramine Maleate Jujube Frui",
-      "slug": "acetaminophen-chlorpheniramine-maleate-jujube-frui",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acetaminophen Chlorpheniramine Maleate Phenylephri",
-      "slug": "acetaminophen-chlorpheniramine-maleate-phenylephri",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acetaminophen Cinnamon",
-      "slug": "acetaminophen-cinnamon",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acetaminophen Codeine",
-      "slug": "acetaminophen-codeine",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acetaminophen Dexbrompheniramine",
-      "slug": "acetaminophen-dexbrompheniramine",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acetaminophen Dextromethorphan Hydrobromide",
-      "slug": "acetaminophen-dextromethorphan-hydrobromide",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acetaminophen Dextromethorphan Hydrobromide Diphen",
-      "slug": "acetaminophen-dextromethorphan-hydrobromide-diphen",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acetaminophen Dextromethorphan Hydrobromide Doxyla",
-      "slug": "acetaminophen-dextromethorphan-hydrobromide-doxyla",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acetaminophen Dextromethorphan Hydrobromide Guaife",
-      "slug": "acetaminophen-dextromethorphan-hydrobromide-guaife",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acetaminophen Dextromethorphan Hydrobromide Lonice",
-      "slug": "acetaminophen-dextromethorphan-hydrobromide-lonice",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acetaminophen Dextromethorphan Hydrobromide Phenyl",
-      "slug": "acetaminophen-dextromethorphan-hydrobromide-phenyl",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acetaminophen Dextromethorphan Hydrobromide Pseudo",
-      "slug": "acetaminophen-dextromethorphan-hydrobromide-pseudo",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acetaminophen Dextromethorphan Hydrobromide Saposh",
-      "slug": "acetaminophen-dextromethorphan-hydrobromide-saposh",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acetaminophen Dextromethorphan Hydrobromide Tripro",
-      "slug": "acetaminophen-dextromethorphan-hydrobromide-tripro",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Acetazolamide",
@@ -1596,902 +447,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Aconitum Napellus Whole Arabica Coffee Bean Arseni",
-      "slug": "aconitum-napellus-whole-arabica-coffee-bean-arseni",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aconitum Napellus Whole Arsenic Trioxide Baptisia",
-      "slug": "aconitum-napellus-whole-arsenic-trioxide-baptisia",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aconitum Napellus Whole Arsenic Trioxide Datura St",
-      "slug": "aconitum-napellus-whole-arsenic-trioxide-datura-st",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aconitum Napellus Whole Asclepias Tuberosa Floweri",
-      "slug": "aconitum-napellus-whole-asclepias-tuberosa-floweri",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aconitum Napellus Whole Atropa Belladonna Bryonia",
-      "slug": "aconitum-napellus-whole-atropa-belladonna-bryonia",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aconitum Napellus Whole Atropa Belladonna Dibasic",
-      "slug": "aconitum-napellus-whole-atropa-belladonna-dibasic",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aconitum Napellus Whole Black Cohosh Camphor Datur",
-      "slug": "aconitum-napellus-whole-black-cohosh-camphor-datur",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aconitum Napellus Whole Bryonia Alba Root Cairina",
-      "slug": "aconitum-napellus-whole-bryonia-alba-root-cairina",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aconitum Napellus Whole Bryonia Alba Root Eucalypt",
-      "slug": "aconitum-napellus-whole-bryonia-alba-root-eucalypt",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aconitum Napellus Whole Bryonia Alba Root Ferrosof",
-      "slug": "aconitum-napellus-whole-bryonia-alba-root-ferrosof",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aconitum Napellus Whole Bryonia Alba Root Gelsemiu",
-      "slug": "aconitum-napellus-whole-bryonia-alba-root-gelsemiu",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aconitum Napellus Whole Causticum Coffea Arabica S",
-      "slug": "aconitum-napellus-whole-causticum-coffea-arabica-s",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aconitum Napellus Whole Eucalyptus Globulus Leaf I",
-      "slug": "aconitum-napellus-whole-eucalyptus-globulus-leaf-i",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aconitum Napellus Whole Eupatorium Perfoliatum Flo",
-      "slug": "aconitum-napellus-whole-eupatorium-perfoliatum-flo",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aconitum Napellus Whole Fagopyrum Esculentum Whole",
-      "slug": "aconitum-napellus-whole-fagopyrum-esculentum-whole",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aconitum Napellus Whole Magnesium Phosphate Dibasi",
-      "slug": "aconitum-napellus-whole-magnesium-phosphate-dibasi",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Acorus Calamus Whole Citrullus Colocynthis Fruit P",
-      "slug": "acorus-calamus-whole-citrullus-colocynthis-fruit-p",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Actaea Cimicifuga Root Arnica Angustifolia Flower",
-      "slug": "actaea-cimicifuga-root-arnica-angustifolia-flower",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Actaea Cimicifuga Root Atropa Belladonna Bryonia A",
-      "slug": "actaea-cimicifuga-root-atropa-belladonna-bryonia-a",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Actaea Cimicifuga Whole Calcium Hexafluorosilicate",
-      "slug": "actaea-cimicifuga-whole-calcium-hexafluorosilicate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Actaea Racemosa Whole Apis Mellifera Graphite Oyst",
-      "slug": "actaea-racemosa-whole-apis-mellifera-graphite-oyst",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Actaea Spicata Root Aloe Copper Cupric Arsenite Fr",
-      "slug": "actaea-spicata-root-aloe-copper-cupric-arsenite-fr",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Actaea Spicata Root Althaea Officinalis Root Arnic",
-      "slug": "actaea-spicata-root-althaea-officinalis-root-arnic",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Actaea Spicata Root Ammonium Benzoate Arnica Monta",
-      "slug": "actaea-spicata-root-ammonium-benzoate-arnica-monta",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Actaea Spicata Root Anagallis Arvensis Argemone Me",
-      "slug": "actaea-spicata-root-anagallis-arvensis-argemone-me",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Actaea Spicata Root Antimony Trisulfide Arnica Mon",
-      "slug": "actaea-spicata-root-antimony-trisulfide-arnica-mon",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Actaea Spicata Root Arnica Montana Caulophyllum Th",
-      "slug": "actaea-spicata-root-arnica-montana-caulophyllum-th",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal",
-      "slug": "activated-charcoal",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Aesculus Hippocastanum Bark Ant",
-      "slug": "activated-charcoal-aesculus-hippocastanum-bark-ant",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Aesculus Hippocastanum Flower A",
-      "slug": "activated-charcoal-aesculus-hippocastanum-flower-a",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Aethusa Cynapium Althaea Offici",
-      "slug": "activated-charcoal-aethusa-cynapium-althaea-offici",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Aethusa Cynapium Antimony Potas",
-      "slug": "activated-charcoal-aethusa-cynapium-antimony-potas",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Aethusa Cynapium Apomorphine Hy",
-      "slug": "activated-charcoal-aethusa-cynapium-apomorphine-hy",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Alcohol X-Ray Exposed Aluminum",
-      "slug": "activated-charcoal-alcohol-x-ray-exposed-aluminum",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Alfalfa American Ginseng Aspara",
-      "slug": "activated-charcoal-alfalfa-american-ginseng-aspara",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Alfalfa Antimony Trisulfide Ave",
-      "slug": "activated-charcoal-alfalfa-antimony-trisulfide-ave",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Almond Ambrosia Artemisiifolia",
-      "slug": "activated-charcoal-almond-ambrosia-artemisiifolia",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Aloe Aluminum Oxide Bryonia Alb",
-      "slug": "activated-charcoal-aloe-aluminum-oxide-bryonia-alb",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Aloe Antimony Trisulfide Astacu",
-      "slug": "activated-charcoal-aloe-antimony-trisulfide-astacu",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Aloe Carbo Animalis Hamamelis V",
-      "slug": "activated-charcoal-aloe-carbo-animalis-hamamelis-v",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Aloe Causticum Chelidonium Maju",
-      "slug": "activated-charcoal-aloe-causticum-chelidonium-maju",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Aloe Citrullus Colocynthis Frui",
-      "slug": "activated-charcoal-aloe-citrullus-colocynthis-frui",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Ambergris Ammonium Chloride Arn",
-      "slug": "activated-charcoal-ambergris-ammonium-chloride-arn",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Ambrosia Artemisiifolia Arsenic",
-      "slug": "activated-charcoal-ambrosia-artemisiifolia-arsenic",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Ambrosia Artemisiifolia Whole E",
-      "slug": "activated-charcoal-ambrosia-artemisiifolia-whole-e",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal American Ginseng Aviscumine Gal",
-      "slug": "activated-charcoal-american-ginseng-aviscumine-gal",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Ammi Visnaga Fruit Carbo Animal",
-      "slug": "activated-charcoal-ammi-visnaga-fruit-carbo-animal",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Ammonium Carbonate Antimony Ars",
-      "slug": "activated-charcoal-ammonium-carbonate-antimony-ars",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Ammonium Carbonate Camphor Crot",
-      "slug": "activated-charcoal-ammonium-carbonate-camphor-crot",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Ammonium Phosphate Dibasic Amoe",
-      "slug": "activated-charcoal-ammonium-phosphate-dibasic-amoe",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Anamirta Cocculus Seed Apis Mel",
-      "slug": "activated-charcoal-anamirta-cocculus-seed-apis-mel",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "Activated Charcoal | Mineral / Adsorbent",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Anamirta cocculus seed | Botanical (contains picrotoxin)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Apis mellifera | Animal-derived (honeybee)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Passiflora incarnata top | Botanical (passionflower)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Phosphoric acid | Mineral / Acid",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Potassium phosphate, dibasic | Mineral / Salt",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Semecarpus anacardium juice | Botanical (marking nut, toxic resin)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Silybum marianum seed | Botanical (milk thistle)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Strychnos nux-vomica seed | Botanical (contains strychnine)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Tobacco leaf | Botanical (contains nicotine)",
-          "score": 99.0,
-          "level": "L5"
-        }
-      ]
-    },
-    {
-      "name": "Activated Charcoal Anamirta Cocculus Seed Arbutus",
-      "slug": "activated-charcoal-anamirta-cocculus-seed-arbutus",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Anemone Pratensis Arsenic Triio",
-      "slug": "activated-charcoal-anemone-pratensis-arsenic-triio",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Anemone Pulsatilla Antimony Tri",
-      "slug": "activated-charcoal-anemone-pulsatilla-antimony-tri",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Anemone Pulsatilla Calcium Fluo",
-      "slug": "activated-charcoal-anemone-pulsatilla-calcium-fluo",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Anhydrous Dibasic Calcium Phosp",
-      "slug": "activated-charcoal-anhydrous-dibasic-calcium-phosp",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "Activated Charcoal | Adsorbent / Excipient",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Anhydrous Dibasic Calcium Phosphate | Excipient",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Arsenic Triiodide (AsI₃) | Homeopathic mineral",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Beef Lung | Biological ingredient",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Equisetum Arvense Top (Horsetail) | Herbal",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Oenanthe Aquatica Fruit (Water Dropwort) | Herbal ⚠️",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Silicon Dioxide | Excipient",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Sulfur | Homeopathic mineral",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Teucrium Scorodonia Flowering Top (Wood Sage) | Herbal",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Tin (Stannum) | Homeopathic mineral",
-          "score": 99.0,
-          "level": "L5"
-        }
-      ]
-    },
-    {
-      "name": "Activated Charcoal Antimony Arsenate Bryonia Alba",
-      "slug": "activated-charcoal-antimony-arsenate-bryonia-alba",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Antimony Trisulfide Apis Mellif",
-      "slug": "activated-charcoal-antimony-trisulfide-apis-mellif",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Antimony Trisulfide Arctium Lap",
-      "slug": "activated-charcoal-antimony-trisulfide-arctium-lap",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Antimony Trisulfide Arsenic Tri",
-      "slug": "activated-charcoal-antimony-trisulfide-arsenic-tri",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Antimony Trisulfide Asafetida C",
-      "slug": "activated-charcoal-antimony-trisulfide-asafetida-c",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Antimony Trisulfide Bismuth Sub",
-      "slug": "activated-charcoal-antimony-trisulfide-bismuth-sub",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Antimony Trisulfide Cajuput Oil",
-      "slug": "activated-charcoal-antimony-trisulfide-cajuput-oil",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Antimony Trisulfide Calcium Sul",
-      "slug": "activated-charcoal-antimony-trisulfide-calcium-sul",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Antimony Trisulfide Cinchona Of",
-      "slug": "activated-charcoal-antimony-trisulfide-cinchona-of",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Apis Mellifera Arsenic Trioxide",
-      "slug": "activated-charcoal-apis-mellifera-arsenic-trioxide",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "Activated Charcoal | Adsorbent",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Apis Mellifera (honeybee) | Homeopathic",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Arsenic Trioxide | Metalloid / Homeopathic (Arsenicum album)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Atropa Belladonna | Anticholinergic alkaloid / Homeopathic",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Bacillus Anthracis Immunoserum Rabbit | Nosode (homeopathic preparation)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Baptisia Tinctoria Root | Herbal / Homeopathic",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Crotalus Horridus Horridus Venom | Snake venom / Homeopathic",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Echinacea Angustifolia Whole | Herbal immunostimulant",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Hyoscyamus Niger | Anticholinergic alkaloid / Homeopathic",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Lachesis Muta Venom | Snake venom / Homeopathic",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Rancid Beef | Nosode (homeopathic preparation)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Rhododendron Tomentosum Leafy Twig | Herbal / Homeopathic",
-          "score": 99.0,
-          "level": "L5"
-        }
-      ]
-    },
-    {
-      "name": "Activated Charcoal Apis Mellifera Artemisia Cina P",
-      "slug": "activated-charcoal-apis-mellifera-artemisia-cina-p",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Apis Mellifera Bos Taurus Pitui",
-      "slug": "activated-charcoal-apis-mellifera-bos-taurus-pitui",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Apple Atlantic Cod Atlantic Sal",
-      "slug": "activated-charcoal-apple-atlantic-cod-atlantic-sal",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Arabica Coffee Bean Causticum E",
-      "slug": "activated-charcoal-arabica-coffee-bean-causticum-e",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Araneus Diadematus Arsenic Trii",
-      "slug": "activated-charcoal-araneus-diadematus-arsenic-trii",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Araneus Diadematus Artemisia Ci",
-      "slug": "activated-charcoal-araneus-diadematus-artemisia-ci",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Arctium Lappa Root Bos Taurus C",
-      "slug": "activated-charcoal-arctium-lappa-root-bos-taurus-c",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Arginine Bos Taurus Hypothalamu",
-      "slug": "activated-charcoal-arginine-bos-taurus-hypothalamu",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Arnica Montana Cicuta Virosa Ro",
-      "slug": "activated-charcoal-arnica-montana-cicuta-virosa-ro",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Arnica Montana Root Gold Trichl",
-      "slug": "activated-charcoal-arnica-montana-root-gold-trichl",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Arnica Montana Root Lachesis Mu",
-      "slug": "activated-charcoal-arnica-montana-root-lachesis-mu",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Arnica Montana Whole Arsenic Tr",
-      "slug": "activated-charcoal-arnica-montana-whole-arsenic-tr",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Arnica Montana Whole Collinsoni",
-      "slug": "activated-charcoal-arnica-montana-whole-collinsoni",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Arsenic Triiodide Arsenic Triox",
-      "slug": "activated-charcoal-arsenic-triiodide-arsenic-triox",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "Activated Charcoal | Adsorbent / Detoxifying agent",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Arsenic Triiodide | Inorganic arsenic salt",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Arsenic Trioxide | Inorganic arsenic compound (known antineoplastic at therapeutic doses)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Artemisia Vulgaris Root | Botanical (mugwort)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Chionanthus Virginicus Bark | Botanical (fringe tree)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Corallium Rubrum Exoskeleton | Marine-origin material (red coral)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Egg Phospholipids | Lipid excipient / nutritional component",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Gold | Heavy metal element",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Morella Cerifera Root Bark | Botanical (bayberry)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Ornithogalum Umbellatum | Botanical (star of Bethlehem)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Petroselinum Crispum | Botanical (parsley)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Sanguinaria Canadensis Root | Botanical (bloodroot)",
-          "score": 99.0,
-          "level": "L5"
-        }
-      ]
-    },
-    {
-      "name": "Activated Charcoal Arsenic Triiodide Beef Lung Oen",
-      "slug": "activated-charcoal-arsenic-triiodide-beef-lung-oen",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Arsenic Triiodide Causticum Cup",
-      "slug": "activated-charcoal-arsenic-triiodide-causticum-cup",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Arsenic Triiodide Oenanthe Aqua",
-      "slug": "activated-charcoal-arsenic-triiodide-oenanthe-aqua",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Activated Charcoal Arsenic Trioxide Atropa Bellado",
-      "slug": "activated-charcoal-arsenic-trioxide-atropa-bellado",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Acyclovir",
@@ -3040,402 +995,6 @@
       ]
     },
     {
-      "name": "Alpha -Tocopherol Acetate D- Ascorbic Acid Choleca",
-      "slug": "alpha-tocopherol-acetate-d-ascorbic-acid-choleca",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "D-Alpha-Tocopherol Acetate | Vitamin E",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Ascorbic Acid | Vitamin C",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Cholecalciferol | Vitamin D3",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Cyanocobalamin | Vitamin B12",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Doconexent (DHA) | Omega-3 fatty acid",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Folic Acid | B9 (inactive form)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Icosapent (EPA) | Omega-3 fatty acid",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Iron Pentacarbonyl | Mineral — Iron",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Levomefolate Magnesium | B9 (active form)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Magnesium Oxide | Mineral — Magnesium",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Niacin | Vitamin B3",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Potassium Iodide | Mineral — Iodine",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Pyridoxine Hydrochloride | Vitamin B6",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Riboflavin | Vitamin B2",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Thiamine | Vitamin B1",
-          "score": 99.0,
-          "level": "L5"
-        }
-      ]
-    },
-    {
-      "name": "Alpha -Tocopherol Acetate D- Calcium Carbonate Cal",
-      "slug": "alpha-tocopherol-acetate-d-calcium-carbonate-cal",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Alpha -Tocopherol Acetate Dl- 5-Methyltetrahydrofo",
-      "slug": "alpha-tocopherol-acetate-dl-5-methyltetrahydrofo",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Alpha -Tocopherol Acetate Dl- Arginine Hydrochlori",
-      "slug": "alpha-tocopherol-acetate-dl-arginine-hydrochlori",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Alpha -Tocopherol Acetate Dl- Ascorbic Acid Beta C",
-      "slug": "alpha-tocopherol-acetate-dl-ascorbic-acid-beta-c",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Alpha -Tocopherol Acetate Dl- Ascorbic Acid Biotin",
-      "slug": "alpha-tocopherol-acetate-dl-ascorbic-acid-biotin",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Alpha -Tocopherol Acetate Dl- Ascorbic Acid Calciu",
-      "slug": "alpha-tocopherol-acetate-dl-ascorbic-acid-calciu",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Alpha -Tocopherol Acetate Dl- Ascorbic Acid Cholec",
-      "slug": "alpha-tocopherol-acetate-dl-ascorbic-acid-cholec",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Alpha -Tocopherol Acetate Dl- Ascorbic Acid Cyanoc",
-      "slug": "alpha-tocopherol-acetate-dl-ascorbic-acid-cyanoc",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Alpha -Tocopherol Acetate Dl- Beta -Carotene 5-Met",
-      "slug": "alpha-tocopherol-acetate-dl-beta-carotene-5-met",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Alpha -Tocopherol Acetate Dl- Beta -Carotene Ascor",
-      "slug": "alpha-tocopherol-acetate-dl-beta-carotene-ascor",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Alpha -Tocopherol Acetate Dl- Beta -Carotene Calci",
-      "slug": "alpha-tocopherol-acetate-dl-beta-carotene-calci",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Alpha -Tocopherol Acetate Hydrogen Peroxide Silico",
-      "slug": "alpha-tocopherol-acetate-hydrogen-peroxide-silico",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Alpha -Tocopherol Acetate Silicon Dioxide Sodium F",
-      "slug": "alpha-tocopherol-acetate-silicon-dioxide-sodium-f",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Alpha -Tocopherol Acetate Silicon Dioxide Sodium P",
-      "slug": "alpha-tocopherol-acetate-silicon-dioxide-sodium-p",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Alpha -Tocopherol Aloe Witch Hazel Zinc Oxide",
-      "slug": "alpha-tocopherol-aloe-witch-hazel-zinc-oxide",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Alpha -Tocopherol Apple Cider Vinegar Arsenic Trio",
-      "slug": "alpha-tocopherol-apple-cider-vinegar-arsenic-trio",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Alpha -Tocopherol Ascorbic Acid Aspirin Salix Alba",
-      "slug": "alpha-tocopherol-ascorbic-acid-aspirin-salix-alba",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Alpha -Tocopherol Ascorbic Acid Banana Beta Carote",
-      "slug": "alpha-tocopherol-ascorbic-acid-banana-beta-carote",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Alpha -Tocopherol Ascorbic Acid Beta Carotene Biot",
-      "slug": "alpha-tocopherol-ascorbic-acid-beta-carotene-biot",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Alpha -Tocopherol Ascorbic Acid Beta Carotene Chol",
-      "slug": "alpha-tocopherol-ascorbic-acid-beta-carotene-chol",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Alpha -Tocopherol Ascorbic Acid Biotin Calcium Car",
-      "slug": "alpha-tocopherol-ascorbic-acid-biotin-calcium-car",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Alpha -Tocopherol Ascorbic Acid Copper Cyanocobala",
-      "slug": "alpha-tocopherol-ascorbic-acid-copper-cyanocobala",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Alpha -Tocopherol Beta -Carotene American Ginseng",
-      "slug": "alpha-tocopherol-beta-carotene-american-ginseng",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Alpha -Tocopherol Beta -Sitosterol Ascorbic Acid B",
-      "slug": "alpha-tocopherol-beta-sitosterol-ascorbic-acid-b",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Alpha -Tocopherol D- Cholecalciferol Cyanocobalami",
-      "slug": "alpha-tocopherol-d-cholecalciferol-cyanocobalami",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Alpha -Tocopherol Dl- Ascorbic Acid Calcium Format",
-      "slug": "alpha-tocopherol-dl-ascorbic-acid-calcium-format",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Alpha -Tocopherol Dl- Ascorbic Acid Cholecalcifero",
-      "slug": "alpha-tocopherol-dl-ascorbic-acid-cholecalcifero",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Alpha -Tocopherol Dl- Ergocalciferol Phytonadione",
-      "slug": "alpha-tocopherol-dl-ergocalciferol-phytonadione",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Alpha -Tocopherol Hyaluronic Acid",
-      "slug": "alpha-tocopherol-hyaluronic-acid",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Alpha -Tocopherol Succinate D- Alpha Lipoic Acid A",
-      "slug": "alpha-tocopherol-succinate-d-alpha-lipoic-acid-a",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Alpha -Tocopherol Succinate D- Ascorbic Acid Chole",
-      "slug": "alpha-tocopherol-succinate-d-ascorbic-acid-chole",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Alpha -Tocopherol Tea Tree Oil",
-      "slug": "alpha-tocopherol-tea-tree-oil",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Alpha Lipoic Acid Ammonium Bromide Ammonium Carbon",
-      "slug": "alpha-lipoic-acid-ammonium-bromide-ammonium-carbon",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Alpha Lipoic Acid Ammonium Chloride Berberis Vulga",
-      "slug": "alpha-lipoic-acid-ammonium-chloride-berberis-vulga",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Alpha Lipoic Acid Apiole Arnica Montana Whole Cinn",
-      "slug": "alpha-lipoic-acid-apiole-arnica-montana-whole-cinn",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Alpha Lipoic Acid Apis Mellifera Arnica Montana Wh",
-      "slug": "alpha-lipoic-acid-apis-mellifera-arnica-montana-wh",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Alpha Lipoic Acid Arnica Montana Whole Coenzyme A",
-      "slug": "alpha-lipoic-acid-arnica-montana-whole-coenzyme-a",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Alpha Lipoic Acid Cholesterol Cortisone Acetate Co",
-      "slug": "alpha-lipoic-acid-cholesterol-cortisone-acetate-co",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Alpine Strawberry Arsenic Trioxide Atropa Belladon",
-      "slug": "alpine-strawberry-arsenic-trioxide-atropa-belladon",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Alprazolam",
       "slug": "alprazolam",
       "brands": [],
@@ -3581,59 +1140,11 @@
       "indications": []
     },
     {
-      "name": "Aluminum Corn Silk Inula Helenium Root Sarsaparill",
-      "slug": "aluminum-corn-silk-inula-helenium-root-sarsaparill",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Aluminum Hydroxide",
       "slug": "aluminum-hydroxide",
       "brands": [],
       "original": "",
       "level": "L4",
-      "indications": []
-    },
-    {
-      "name": "Aluminum Hydroxide Magnesium Carbonate Sodium Bica",
-      "slug": "aluminum-hydroxide-magnesium-carbonate-sodium-bica",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aluminum Hydroxide Magnesium Hydroxide",
-      "slug": "aluminum-hydroxide-magnesium-hydroxide",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aluminum Iodide",
-      "slug": "aluminum-iodide",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aluminum Jateorhiza Calumba Root Onion Peumus Bold",
-      "slug": "aluminum-jateorhiza-calumba-root-onion-peumus-bold",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aluminum Nitrate",
-      "slug": "aluminum-nitrate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
       "indications": []
     },
     {
@@ -3689,318 +1200,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Aluminum Oxide Ambergris Barium Carbonate Chaste T",
-      "slug": "aluminum-oxide-ambergris-barium-carbonate-chaste-t",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aluminum Oxide American Ginseng Anemone Pulsatilla",
-      "slug": "aluminum-oxide-american-ginseng-anemone-pulsatilla",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aluminum Oxide Ammonium Carbonate Anacardium Occid",
-      "slug": "aluminum-oxide-ammonium-carbonate-anacardium-occid",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aluminum Oxide Anemone Pratensis Beryllium Cadmium",
-      "slug": "aluminum-oxide-anemone-pratensis-beryllium-cadmium",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aluminum Oxide Antimony Potassium Tartrate Baptisi",
-      "slug": "aluminum-oxide-antimony-potassium-tartrate-baptisi",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aluminum Oxide Antimony Trisulfide Barium Carbonat",
-      "slug": "aluminum-oxide-antimony-trisulfide-barium-carbonat",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aluminum Oxide Arctium Lappa Root Arsenic Trioxide",
-      "slug": "aluminum-oxide-arctium-lappa-root-arsenic-trioxide",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aluminum Oxide Arsenic Trioxide Atropa Belladonna",
-      "slug": "aluminum-oxide-arsenic-trioxide-atropa-belladonna",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aluminum Oxide Arsenic Trioxide Cadmium Copper Lea",
-      "slug": "aluminum-oxide-arsenic-trioxide-cadmium-copper-lea",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aluminum Oxide Arsenic Trioxide Calomel Chelidoniu",
-      "slug": "aluminum-oxide-arsenic-trioxide-calomel-chelidoniu",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aluminum Oxide Barium Carbonate Carbon Disulfide C",
-      "slug": "aluminum-oxide-barium-carbonate-carbon-disulfide-c",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aluminum Oxide Berberis Vulgaris Root Bark Bos Tau",
-      "slug": "aluminum-oxide-berberis-vulgaris-root-bark-bos-tau",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aluminum Oxide Berberis Vulgaris Root Bark Caustic",
-      "slug": "aluminum-oxide-berberis-vulgaris-root-bark-caustic",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aluminum Oxide Bryonia Alba Root Casanthranol Citr",
-      "slug": "aluminum-oxide-bryonia-alba-root-casanthranol-citr",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aluminum Oxide Bryonia Alba Root Citrullus Colocyn",
-      "slug": "aluminum-oxide-bryonia-alba-root-citrullus-colocyn",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aluminum Oxide Bryonia Alba Root Graphite Lead Lyc",
-      "slug": "aluminum-oxide-bryonia-alba-root-graphite-lead-lyc",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aluminum Oxide Bryonia Alba Root Graphite Silicon",
-      "slug": "aluminum-oxide-bryonia-alba-root-graphite-silicon",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aluminum Oxide Bryonia Alba Root Horse Chestnut Ma",
-      "slug": "aluminum-oxide-bryonia-alba-root-horse-chestnut-ma",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aluminum Oxide Calcium Silicate Ferrosoferric Phos",
-      "slug": "aluminum-oxide-calcium-silicate-ferrosoferric-phos",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aluminum Oxide Calcium Silicate Iron Magnesium Sul",
-      "slug": "aluminum-oxide-calcium-silicate-iron-magnesium-sul",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aluminum Oxide Calcium Silicate Magnesium Sulfate",
-      "slug": "aluminum-oxide-calcium-silicate-magnesium-sulfate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aluminum Oxide Cassava Dioscorea Villosa Tuber Fra",
-      "slug": "aluminum-oxide-cassava-dioscorea-villosa-tuber-fra",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aluminum Oxide Causticum Claviceps Purpurea Sclero",
-      "slug": "aluminum-oxide-causticum-claviceps-purpurea-sclero",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aluminum Oxide Daphne Mezereum Bark Eclipta Prostr",
-      "slug": "aluminum-oxide-daphne-mezereum-bark-eclipta-prostr",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aluminum Oxide Lead Mercuric Chloride Nickel Radiu",
-      "slug": "aluminum-oxide-lead-mercuric-chloride-nickel-radiu",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aluminum Sesquichlorohydrate",
-      "slug": "aluminum-sesquichlorohydrate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aluminum Sulfate Tetradecahydrate Calcium Acetate",
-      "slug": "aluminum-sulfate-tetradecahydrate-calcium-acetate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aluminum Zirconium Octachlorohydrate Anhydrous",
-      "slug": "aluminum-zirconium-octachlorohydrate-anhydrous",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aluminum Zirconium Octachlorohydrex Gly",
-      "slug": "aluminum-zirconium-octachlorohydrex-gly",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aluminum Zirconium Pentachlorohydrex Gly",
-      "slug": "aluminum-zirconium-pentachlorohydrex-gly",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aluminum Zirconium Tetrachlorohydrex Gly",
-      "slug": "aluminum-zirconium-tetrachlorohydrex-gly",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aluminum Zirconium Trichlorohydrate",
-      "slug": "aluminum-zirconium-trichlorohydrate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Aluminum Zirconium Trichlorohydrex Gly",
-      "slug": "aluminum-zirconium-trichlorohydrex-gly",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Alvimopan",
-      "slug": "alvimopan",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Amanita Muscaria Fruiting Body Ambergris Barium Ca",
-      "slug": "amanita-muscaria-fruiting-body-ambergris-barium-ca",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Amanita Muscaria Fruiting Body American Ginseng Ch",
-      "slug": "amanita-muscaria-fruiting-body-american-ginseng-ch",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Amanita Muscaria Fruiting Body Ammonium Carbonate",
-      "slug": "amanita-muscaria-fruiting-body-ammonium-carbonate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Amanita Muscaria Fruiting Body Anamirta Cocculus S",
-      "slug": "amanita-muscaria-fruiting-body-anamirta-cocculus-s",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Amanita Muscaria Fruiting Body Anemone Pulsatilla",
-      "slug": "amanita-muscaria-fruiting-body-anemone-pulsatilla",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Amantadine",
@@ -4578,132 +1777,6 @@
       ]
     },
     {
-      "name": "Anamirta Cocculus Seed Chenopodium Ambrosioides Co",
-      "slug": "anamirta-cocculus-seed-chenopodium-ambrosioides-co",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Anamirta Cocculus Seed Conium Maculatum Flowering",
-      "slug": "anamirta-cocculus-seed-conium-maculatum-flowering",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Anamirta Cocculus Seed Gelsemium Sempervirens Root",
-      "slug": "anamirta-cocculus-seed-gelsemium-sempervirens-root",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Anamirta Cocculus Seed Ipecac Kerosene Strychnos N",
-      "slug": "anamirta-cocculus-seed-ipecac-kerosene-strychnos-n",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Anamirta Cocculus Whole Asafetida Datura Stramoniu",
-      "slug": "anamirta-cocculus-whole-asafetida-datura-stramoniu",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "*Anamirta cocculus* whole | Picrotoxin source (GABA antagonist)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Asafetida | Antispasmodic resin (traditional)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "*Datura stramonium* | Tropane alkaloids (anticholinergic)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "*Hyoscyamus niger* | Tropane alkaloids (anticholinergic)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Oat bran | Dietary fibre",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "*Paeonia officinalis* root | Anti-inflammatory phytochemical",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Silver nitrate | Antiseptic/caustic mineral",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "*Strychnos ignatii* seed | Strychnine source (CNS stimulant)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "*Valeriana officinalis* whole | Sedative/anxiolytic",
-          "score": 99.0,
-          "level": "L5"
-        }
-      ]
-    },
-    {
-      "name": "Anamirta Cocculus Whole Ascorbic Acid Chamaelirium",
-      "slug": "anamirta-cocculus-whole-ascorbic-acid-chamaelirium",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Anamirta Cocculus Whole Datura Stramonium Ferula A",
-      "slug": "anamirta-cocculus-whole-datura-stramonium-ferula-a",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Anas Platyrhynchos Feather Anemone Pulsatilla Anse",
-      "slug": "anas-platyrhynchos-feather-anemone-pulsatilla-anse",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Anas Platyrhynchos Feather Anser Anser Feather Ars",
-      "slug": "anas-platyrhynchos-feather-anser-anser-feather-ars",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Anas Platyrhynchos Feather Anser Anser Feather Bos",
-      "slug": "anas-platyrhynchos-feather-anser-anser-feather-bos",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Anastrozole",
       "slug": "anastrozole",
       "brands": [],
@@ -4770,514 +1843,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Androctonus Australis Whole Calcium Fluoride Viscu",
-      "slug": "androctonus-australis-whole-calcium-fluoride-viscu",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Andrographis Paniculata Whole Baptisia Tinctoria R",
-      "slug": "andrographis-paniculata-whole-baptisia-tinctoria-r",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Anemone Hepatica Var Obtusa Antimony Potassium Tar",
-      "slug": "anemone-hepatica-var-obtusa-antimony-potassium-tar",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Anemone Patens Whole Apis Mellifera Carbon Disulfi",
-      "slug": "anemone-patens-whole-apis-mellifera-carbon-disulfi",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Antimony Trisulfide Atropa Belladonna Calcium Fluo",
-      "slug": "antimony-trisulfide-atropa-belladonna-calcium-fluo",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Antimony Trisulfide Barium Carbonate Bismuth Subni",
-      "slug": "antimony-trisulfide-barium-carbonate-bismuth-subni",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Antimony Trisulfide Bay Leaf Frangula Alnus Bark J",
-      "slug": "antimony-trisulfide-bay-leaf-frangula-alnus-bark-j",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Antimony Trisulfide Benzoic Acid Ledum Palustre Tw",
-      "slug": "antimony-trisulfide-benzoic-acid-ledum-palustre-tw",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Antimony Trisulfide Berberis Vulgaris Root Bark Br",
-      "slug": "antimony-trisulfide-berberis-vulgaris-root-bark-br",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Antimony Trisulfide Bordetella Pertussis Clostridi",
-      "slug": "antimony-trisulfide-bordetella-pertussis-clostridi",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Antimony Trisulfide Bos Taurus Hypothalamus Fucus",
-      "slug": "antimony-trisulfide-bos-taurus-hypothalamus-fucus",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Antimony Trisulfide Bos Taurus Pancreas Corallium",
-      "slug": "antimony-trisulfide-bos-taurus-pancreas-corallium",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Antimony Trisulfide Bryonia Alba Root Causticum De",
-      "slug": "antimony-trisulfide-bryonia-alba-root-causticum-de",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Antimony Trisulfide Calcium Sulfate Anhydrous Jugl",
-      "slug": "antimony-trisulfide-calcium-sulfate-anhydrous-jugl",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Antimony Trisulfide Iris Germanica Root Pulsatilla",
-      "slug": "antimony-trisulfide-iris-germanica-root-pulsatilla",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Antimony Trisulfide Iron Phosphorus Sulfur Theridi",
-      "slug": "antimony-trisulfide-iron-phosphorus-sulfur-theridi",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Antipyrine Apis Mellifera Calendula Officinalis Fl",
-      "slug": "antipyrine-apis-mellifera-calendula-officinalis-fl",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Antipyrine Arnica Montana Barium Carbonate Bismuth",
-      "slug": "antipyrine-arnica-montana-barium-carbonate-bismuth",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Antirrhinum Majus Leaf Beef Liver C12-17 Alkane Ca",
-      "slug": "antirrhinum-majus-leaf-beef-liver-c12-17-alkane-ca",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Apalutamide",
-      "slug": "apalutamide",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Apis Cerana Whole Beef Liver Bombyx Mori Whole Bor",
-      "slug": "apis-cerana-whole-beef-liver-bombyx-mori-whole-bor",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Apis Mellifera Apis Mellifera Venom Arsenic Trioxi",
-      "slug": "apis-mellifera-apis-mellifera-venom-arsenic-trioxi",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Apis Mellifera Apis Mellifera Venom Euphorbia Resi",
-      "slug": "apis-mellifera-apis-mellifera-venom-euphorbia-resi",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Apis Mellifera Apocynum Cannabinum Root Arsenic Tr",
-      "slug": "apis-mellifera-apocynum-cannabinum-root-arsenic-tr",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Apis Mellifera Arabica Coffee Bean Arsenic Trioxid",
-      "slug": "apis-mellifera-arabica-coffee-bean-arsenic-trioxid",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Apis Mellifera Aralia Racemosa Root Arundo Plinian",
-      "slug": "apis-mellifera-aralia-racemosa-root-arundo-plinian",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "Apis mellifera (bee venom) | Inflammatory swelling, urticaria",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Aralia racemosa root | Upper respiratory, asthma",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Arundo pliniana root | Allergic rhinitis, hay fever",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Baptisia tinctoria root | Systemic infection, flu",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Echinacea (unspecified) | Immune stimulation, cold/flu",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Euphrasia stricta | Eye irritation, hay fever",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Gelsemium sempervirens root | Flu-like states, anxiety",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Histamine dihydrochloride | Isopathic allergy desensitisation",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Lycopodium clavatum spore | Respiratory, digestive complaints",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Onion (Allium cepa) | Hay fever, coryza",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Sanguinaria canadensis root | Rhinitis, sinusitis",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Schoenocaulon officinale seed (Sabadilla) | Allergic rhinitis, sneezing",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Toxicodendron pubescens leaf (Rhus tox) | Joint pain, skin eruptions",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Urtica urens whole | Urticaria, allergic pruritus",
-          "score": 99.0,
-          "level": "L5"
-        }
-      ]
-    },
-    {
-      "name": "Apis Mellifera Aralia Racemosa Root Ascorbic Acid",
-      "slug": "apis-mellifera-aralia-racemosa-root-ascorbic-acid",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Apis Mellifera Aralia Racemosa Root Blatta Orienta",
-      "slug": "apis-mellifera-aralia-racemosa-root-blatta-orienta",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Apis Mellifera Araneus Diadematus Arnica Montana A",
-      "slug": "apis-mellifera-araneus-diadematus-arnica-montana-a",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Apis Mellifera Araneus Diadematus Atropa Belladonn",
-      "slug": "apis-mellifera-araneus-diadematus-atropa-belladonn",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Apis Mellifera Araneus Diadematus Barium Carbonate",
-      "slug": "apis-mellifera-araneus-diadematus-barium-carbonate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Apis Mellifera Araneus Diadematus Berberis Vulgari",
-      "slug": "apis-mellifera-araneus-diadematus-berberis-vulgari",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Apis Mellifera Arctium Lappa Root Arctostaphylos U",
-      "slug": "apis-mellifera-arctium-lappa-root-arctostaphylos-u",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "Apis Mellifera (honeybee) | Edema, urinary tract inflammation (homeopathic)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Arctium Lappa Root (burdock root) | Diuretic, lymphatic, skin",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Arctostaphylos Uva-Ursi Leaf (bearberry leaf) | Urinary tract infection (UTI), diuretic",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Berberis Vulgaris Root Bark (barberry root bark) | Kidney stones, urinary tract (homeopathic)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Bryonia Alba Root (white bryony root) | Joints, respiratory tract (homeopathic)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Chondrodendron Tomentosum Root (curare plant) | Contains tubocurarine precursor, muscle relaxant",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Cinchona Officinalis Bark (cinchona bark) | Malaria, fever reduction (quinine source)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Echinacea (purple coneflower) | Immune support",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Equisetum Hyemale (horsetail) | Diuretic, urinary tract",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Ferrosoferric Phosphate (ferric phosphate) | Early inflammation (Ferrum phos., homeopathic)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Gelsemium Sempervirens Root (Carolina jasmine root) | Neuralgia, fever (homeopathic; toxic)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Goldenseal | Antimicrobial, gastrointestinal, mucosal",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Juniper Berry | Diuretic, urinary tract antiseptic",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Lytta Vesicatoria (Spanish fly, Cantharis) | Cystitis, urethritis (homeopathic); raw substance is toxic",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Phosphorus | Liver, nervous system (homeopathic)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Plantago Major (plantain) | Anti-inflammatory, urinary tract",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Pulsatilla Vulgaris (pasque flower) | Urinary tract, gynecological (homeopathic)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Saw Palmetto | Benign prostatic hyperplasia (BPH)",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Solidago Virgaurea Flowering Top (goldenrod) | Urinary tract anti-inflammatory, diuretic",
-          "score": 99.0,
-          "level": "L5"
-        },
-        {
-          "name": "Turpentine (pine oil) | Urinary tract (historical use); irritant",
-          "score": 99.0,
-          "level": "L5"
-        }
-      ]
-    },
-    {
-      "name": "Apis Mellifera Arctium Lappa Root Arsenic Trioxide",
-      "slug": "apis-mellifera-arctium-lappa-root-arsenic-trioxide",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Apis Mellifera Arctostaphylos Uva-Ursi Leaf Arseni",
-      "slug": "apis-mellifera-arctostaphylos-uva-ursi-leaf-arseni",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Apis Mellifera Arctostaphylos Uva-Ursi Leaf Aspara",
-      "slug": "apis-mellifera-arctostaphylos-uva-ursi-leaf-aspara",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Apis Mellifera Arctostaphylos Uva-Ursi Leaf Atropa",
-      "slug": "apis-mellifera-arctostaphylos-uva-ursi-leaf-atropa",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Apis Mellifera Arctostaphylos Uva-Ursi Leaf Berber",
-      "slug": "apis-mellifera-arctostaphylos-uva-ursi-leaf-berber",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Apis Mellifera Arnica Montana Atropa Belladonna Be",
-      "slug": "apis-mellifera-arnica-montana-atropa-belladonna-be",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Apis Mellifera Arnica Montana Atropa Belladonna Ca",
-      "slug": "apis-mellifera-arnica-montana-atropa-belladonna-ca",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Apis Mellifera Arnica Montana Bellis Perennis Bryo",
-      "slug": "apis-mellifera-arnica-montana-bellis-perennis-bryo",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Apis Mellifera Arnica Montana Benzoic Acid Caustic",
-      "slug": "apis-mellifera-arnica-montana-benzoic-acid-caustic",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Apixaban",
@@ -5560,134 +2125,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Arnica Montana Magnesium Sulfate Unspecified Witch",
-      "slug": "arnica-montana-magnesium-sulfate-unspecified-witch",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Arnica Montana Root Artemisia Cina Flower Atropa B",
-      "slug": "arnica-montana-root-artemisia-cina-flower-atropa-b",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Arnica Montana Root Berberis Vulgaris Root Bark Br",
-      "slug": "arnica-montana-root-berberis-vulgaris-root-bark-br",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Arnica Montana Root Calcium Fluoride Calcium Iodid",
-      "slug": "arnica-montana-root-calcium-fluoride-calcium-iodid",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Arnica Montana Root Calcium Fluoride Calcium Phosp",
-      "slug": "arnica-montana-root-calcium-fluoride-calcium-phosp",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Arnica Montana Root Calcium Phosphate Dibasic Anhy",
-      "slug": "arnica-montana-root-calcium-phosphate-dibasic-anhy",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Arnica Montana Root Crataegus Fruit Ether Lilium L",
-      "slug": "arnica-montana-root-crataegus-fruit-ether-lilium-l",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Arnica Montana Root Graphite Hypericum Perforatum",
-      "slug": "arnica-montana-root-graphite-hypericum-perforatum",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Arnica Montana Root Matricaria Recutita Tribasic C",
-      "slug": "arnica-montana-root-matricaria-recutita-tribasic-c",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Arnica Montana Whole Arsenic Tribromide Arsenic Tr",
-      "slug": "arnica-montana-whole-arsenic-tribromide-arsenic-tr",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Arnica Montana Whole Arsenic Trioxide Atropa Bella",
-      "slug": "arnica-montana-whole-arsenic-trioxide-atropa-bella",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Arnica Montana Whole Arsenic Trioxide Avena Sativa",
-      "slug": "arnica-montana-whole-arsenic-trioxide-avena-sativa",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Arnica Montana Whole Arsenic Trioxide Aviscumine B",
-      "slug": "arnica-montana-whole-arsenic-trioxide-aviscumine-b",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Arnica Montana Whole Arsenic Trioxide Bos Taurus P",
-      "slug": "arnica-montana-whole-arsenic-trioxide-bos-taurus-p",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Arnica Montana Whole Arsenic Trioxide Digitalis Dr",
-      "slug": "arnica-montana-whole-arsenic-trioxide-digitalis-dr",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Arnica Montana Whole Artemisia Abrotanum Flowering",
-      "slug": "arnica-montana-whole-artemisia-abrotanum-flowering",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Arsenic Trioxide",
@@ -39147,72 +35584,6 @@
       ]
     },
     {
-      "name": "*Anamirta cocculus* whole | Picrotoxin source (GABA antagonist)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Anamirta Cocculus Whole Asafetida Datura Stramoniu",
-          "slug": "anamirta-cocculus-whole-asafetida-datura-stramoniu",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "*Datura stramonium* | Tropane alkaloids (anticholinergic)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Anamirta Cocculus Whole Asafetida Datura Stramoniu",
-          "slug": "anamirta-cocculus-whole-asafetida-datura-stramoniu",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "*Hyoscyamus niger* | Tropane alkaloids (anticholinergic)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Anamirta Cocculus Whole Asafetida Datura Stramoniu",
-          "slug": "anamirta-cocculus-whole-asafetida-datura-stramoniu",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "*Paeonia officinalis* root | Anti-inflammatory phytochemical",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Anamirta Cocculus Whole Asafetida Datura Stramoniu",
-          "slug": "anamirta-cocculus-whole-asafetida-datura-stramoniu",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "*Strychnos ignatii* seed | Strychnine source (CNS stimulant)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Anamirta Cocculus Whole Asafetida Datura Stramoniu",
-          "slug": "anamirta-cocculus-whole-asafetida-datura-stramoniu",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "*Valeriana officinalis* whole | Sedative/anxiolytic",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Anamirta Cocculus Whole Asafetida Datura Stramoniu",
-          "slug": "anamirta-cocculus-whole-asafetida-datura-stramoniu",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "16q24.1 microdeletion syndrome",
       "drug_count": 1,
       "drugs": [
@@ -39224,45 +35595,12 @@
       ]
     },
     {
-      "name": "2,3,7,8-Tetrachlorodibenzo-p-dioxin (TCDD) | Industrial toxin / Environmental contaminant",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aconitum Napel",
-          "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aconitum-napel",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "2,3,7,8-Tetrachlorodibenzo-p-dioxin (TCDD) | Persistent organic pollutant / known carcinogen",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aluminum Oxide",
-          "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aluminum-oxide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "2-Hydroxyethyl methacrylate sensitization | 99.43% | L5 | Likely a false positive or safety signal. Benzoyl peroxide is a known contact sensitizer and a radical initiator in methacrylate resins, so treating this allergy with it is implausible and could worsen it.",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Benzoyl Peroxide",
           "slug": "benzoyl-peroxide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "2-Mercaptoethanol | Reducing agent / industrial solvent",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2-Mercaptoethanol Borosilicate Glass Carbon Monoxi",
-          "slug": "2-mercaptoethanol-borosilicate-glass-carbon-monoxi",
           "score": 99.0
         }
       ]
@@ -39296,17 +35634,6 @@
           "drug": "Difluprednate",
           "slug": "difluprednate",
           "score": 99.47
-        }
-      ]
-    },
-    {
-      "name": "7-Keto-Dehydroepiandrosterone | Endogenous steroid metabolite",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "7-Keto-Dehydroepiandrosterone Adenosine Triphospha",
-          "slug": "7-keto-dehydroepiandrosterone-adenosine-triphospha",
-          "score": 99.0
         }
       ]
     },
@@ -39558,17 +35885,6 @@
       ]
     },
     {
-      "name": "Aconitum napellus whole | Toxic botanical / Homeopathic ingredient",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aconitum Napel",
-          "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aconitum-napel",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Acrodermatitis chronica atrophicans | 99.17% | L5 | Weak rationale. This is a late Lyme disease manifestation treated with systemic antibiotics, and topical benzoyl peroxide is not expected to reach Borrelia in deeper tissue.",
       "drug_count": 1,
       "drugs": [
@@ -39586,50 +35902,6 @@
         {
           "drug": "Allantoin",
           "slug": "allantoin",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Activated Charcoal | Adsorbent",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Activated Charcoal Apis Mellifera Arsenic Trioxide",
-          "slug": "activated-charcoal-apis-mellifera-arsenic-trioxide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Activated Charcoal | Adsorbent / Detoxifying agent",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Activated Charcoal Arsenic Triiodide Arsenic Triox",
-          "slug": "activated-charcoal-arsenic-triiodide-arsenic-triox",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Activated Charcoal | Adsorbent / Excipient",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Activated Charcoal Anhydrous Dibasic Calcium Phosp",
-          "slug": "activated-charcoal-anhydrous-dibasic-calcium-phosp",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Activated Charcoal | Mineral / Adsorbent",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Activated Charcoal Anamirta Cocculus Seed Apis Mel",
-          "slug": "activated-charcoal-anamirta-cocculus-seed-apis-mel",
           "score": 99.0
         }
       ]
@@ -39729,17 +36001,6 @@
           "drug": "Ramucirumab",
           "slug": "ramucirumab",
           "score": 99.95
-        }
-      ]
-    },
-    {
-      "name": "Adenosine Triphosphate Disodium | Nucleotide / energy substrate",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "7-Keto-Dehydroepiandrosterone Adenosine Triphospha",
-          "slug": "7-keto-dehydroepiandrosterone-adenosine-triphospha",
-          "score": 99.0
         }
       ]
     },
@@ -39898,17 +36159,6 @@
       ]
     },
     {
-      "name": "Aluminum oxide | Industrial abrasive / excipient",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aluminum Oxide",
-          "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aluminum-oxide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Ambras type hypertrichosis universalis congenita",
       "drug_count": 20,
       "drugs": [
@@ -39998,17 +36248,6 @@
       ]
     },
     {
-      "name": "Ammonium cation | Inorganic ion",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aconitum Napel",
-          "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aconitum-napel",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Amyopathic dermatomyositis | 99.43% | Skin-limited presentation overlaps with allantoin's dermatologic scope, but the underlying autoimmune process would not be addressed.",
       "drug_count": 1,
       "drugs": [
@@ -40086,17 +36325,6 @@
       ]
     },
     {
-      "name": "Anamirta cocculus seed | Botanical (contains picrotoxin)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Activated Charcoal Anamirta Cocculus Seed Apis Mel",
-          "slug": "activated-charcoal-anamirta-cocculus-seed-apis-mel",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Anaphylaxis | 99.72% | L5 | One paper on sublingual epinephrine formulation (PMID 34600046). It does not test sodium carbonate as a treatment, and the link is indirect at best (formulation or pH adjustment).",
       "drug_count": 1,
       "drugs": [
@@ -40141,17 +36369,6 @@
       ]
     },
     {
-      "name": "Anhydrous Dibasic Calcium Phosphate | Excipient",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Activated Charcoal Anhydrous Dibasic Calcium Phosp",
-          "slug": "activated-charcoal-anhydrous-dibasic-calcium-phosp",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Annular atrophic lichen planus | 99.66% | Plausible mechanism, but the atrophic phenotype makes prolonged potent steroid use a concern",
       "drug_count": 1,
       "drugs": [
@@ -40180,17 +36397,6 @@
         {
           "drug": "Pretomanid",
           "slug": "pretomanid",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Antipyrine | Analgesic / diagnostic agent",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aluminum Oxide",
-          "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aluminum-oxide",
           "score": 99.0
         }
       ]
@@ -40251,111 +36457,12 @@
       ]
     },
     {
-      "name": "Apis Mellifera (honeybee) | Edema, urinary tract inflammation (homeopathic)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Apis Mellifera Arctium Lappa Root Arctostaphylos U",
-          "slug": "apis-mellifera-arctium-lappa-root-arctostaphylos-u",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Apis Mellifera (honeybee) | Homeopathic",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Activated Charcoal Apis Mellifera Arsenic Trioxide",
-          "slug": "activated-charcoal-apis-mellifera-arsenic-trioxide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Apis mellifera (bee venom) | Inflammatory swelling, urticaria",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Apis Mellifera Aralia Racemosa Root Arundo Plinian",
-          "slug": "apis-mellifera-aralia-racemosa-root-arundo-plinian",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Apis mellifera | Animal-derived (honeybee)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Activated Charcoal Anamirta Cocculus Seed Apis Mel",
-          "slug": "activated-charcoal-anamirta-cocculus-seed-apis-mel",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Apis mellifera | Homeopathic ingredient (bee venom)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aconitum Napel",
-          "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aconitum-napel",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Apocrine adenosis of breast | L4 | Research Question",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Danazol",
           "slug": "danazol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Aralia racemosa root | Upper respiratory, asthma",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Apis Mellifera Aralia Racemosa Root Arundo Plinian",
-          "slug": "apis-mellifera-aralia-racemosa-root-arundo-plinian",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Arctium Lappa Root (burdock root) | Diuretic, lymphatic, skin",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Apis Mellifera Arctium Lappa Root Arctostaphylos U",
-          "slug": "apis-mellifera-arctium-lappa-root-arctostaphylos-u",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Arctostaphylos Uva-Ursi Leaf (bearberry leaf) | Urinary tract infection (UTI), diuretic",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Apis Mellifera Arctium Lappa Root Arctostaphylos U",
-          "slug": "apis-mellifera-arctium-lappa-root-arctostaphylos-u",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Arnica montana whole | Homeopathic botanical",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aconitum Napel",
-          "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aconitum-napel",
           "score": 99.0
         }
       ]
@@ -40372,111 +36479,12 @@
       ]
     },
     {
-      "name": "Arsenic Triiodide (AsI₃) | Homeopathic mineral",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Activated Charcoal Anhydrous Dibasic Calcium Phosp",
-          "slug": "activated-charcoal-anhydrous-dibasic-calcium-phosp",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Arsenic Triiodide | Inorganic arsenic salt",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Activated Charcoal Arsenic Triiodide Arsenic Triox",
-          "slug": "activated-charcoal-arsenic-triiodide-arsenic-triox",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Arsenic Trioxide | Inorganic arsenic compound (known antineoplastic at therapeutic doses)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Activated Charcoal Arsenic Triiodide Arsenic Triox",
-          "slug": "activated-charcoal-arsenic-triiodide-arsenic-triox",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Arsenic Trioxide | Metalloid / Homeopathic (Arsenicum album)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Activated Charcoal Apis Mellifera Arsenic Trioxide",
-          "slug": "activated-charcoal-apis-mellifera-arsenic-trioxide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Arsenic trioxide | Approved anticancer agent (AML)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aconitum Napel",
-          "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aconitum-napel",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Artemisia Vulgaris Root | Botanical (mugwort)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Activated Charcoal Arsenic Triiodide Arsenic Triox",
-          "slug": "activated-charcoal-arsenic-triiodide-arsenic-triox",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Arterial thoracic outlet syndrome | 99.995% | Mechanical compression disorder",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Plecanatide",
           "slug": "plecanatide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Arundo pliniana root | Allergic rhinitis, hay fever",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Apis Mellifera Aralia Racemosa Root Arundo Plinian",
-          "slug": "apis-mellifera-aralia-racemosa-root-arundo-plinian",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Asafetida | Antispasmodic resin (traditional)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Anamirta Cocculus Whole Asafetida Datura Stramoniu",
-          "slug": "anamirta-cocculus-whole-asafetida-datura-stramoniu",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Ascorbic Acid | Vitamin C",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Alpha -Tocopherol Acetate D- Ascorbic Acid Choleca",
-          "slug": "alpha-tocopherol-acetate-d-ascorbic-acid-choleca",
           "score": 99.0
         }
       ]
@@ -40499,17 +36507,6 @@
         {
           "drug": "Mercuric Iodide",
           "slug": "mercuric-iodide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Atropa Belladonna | Anticholinergic alkaloid / Homeopathic",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Activated Charcoal Apis Mellifera Arsenic Trioxide",
-          "slug": "activated-charcoal-apis-mellifera-arsenic-trioxide",
           "score": 99.0
         }
       ]
@@ -40740,17 +36737,6 @@
       ]
     },
     {
-      "name": "Bacillus Anthracis Immunoserum Rabbit | Nosode (homeopathic preparation)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Activated Charcoal Apis Mellifera Arsenic Trioxide",
-          "slug": "activated-charcoal-apis-mellifera-arsenic-trioxide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Bacterial arthritis",
       "drug_count": 1,
       "drugs": [
@@ -40773,28 +36759,6 @@
       ]
     },
     {
-      "name": "Baptisia Tinctoria Root | Herbal / Homeopathic",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Activated Charcoal Apis Mellifera Arsenic Trioxide",
-          "slug": "activated-charcoal-apis-mellifera-arsenic-trioxide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Baptisia tinctoria root | Systemic infection, flu",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Apis Mellifera Aralia Racemosa Root Arundo Plinian",
-          "slug": "apis-mellifera-aralia-racemosa-root-arundo-plinian",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Bathing suit ichthyosis",
       "drug_count": 1,
       "drugs": [
@@ -40813,17 +36777,6 @@
           "drug": "Bremelanotide",
           "slug": "bremelanotide",
           "score": 99.98
-        }
-      ]
-    },
-    {
-      "name": "Beef Lung | Biological ingredient",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Activated Charcoal Anhydrous Dibasic Calcium Phosp",
-          "slug": "activated-charcoal-anhydrous-dibasic-calcium-phosp",
-          "score": 99.0
         }
       ]
     },
@@ -40867,39 +36820,6 @@
         {
           "drug": "Landiolol",
           "slug": "landiolol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Benzene | Industrial carcinogen",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aconitum Napel",
-          "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aconitum-napel",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Benzene | Industrial solvent / known carcinogen (IARC Group 1)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aluminum Oxide",
-          "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aluminum-oxide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Berberis Vulgaris Root Bark (barberry root bark) | Kidney stones, urinary tract (homeopathic)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Apis Mellifera Arctium Lappa Root Arctostaphylos U",
-          "slug": "apis-mellifera-arctium-lappa-root-arctostaphylos-u",
           "score": 99.0
         }
       ]
@@ -40993,17 +36913,6 @@
         {
           "drug": "Thioridazine",
           "slug": "thioridazine",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Bisphenol A | Endocrine disruptor / plasticizer",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aluminum Oxide",
-          "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aluminum-oxide",
           "score": 99.0
         }
       ]
@@ -41114,17 +37023,6 @@
         {
           "drug": "Danazol",
           "slug": "danazol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Borosilicate Glass | Inert material / container",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2-Mercaptoethanol Borosilicate Glass Carbon Monoxi",
-          "slug": "2-mercaptoethanol-borosilicate-glass-carbon-monoxi",
           "score": 99.0
         }
       ]
@@ -41431,17 +37329,6 @@
       ]
     },
     {
-      "name": "Bryonia Alba Root (white bryony root) | Joints, respiratory tract (homeopathic)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Apis Mellifera Arctium Lappa Root Arctostaphylos U",
-          "slug": "apis-mellifera-arctium-lappa-root-arctostaphylos-u",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Bundle branch block (obsolete term) | 99.99% | L5",
       "drug_count": 1,
       "drugs": [
@@ -41506,50 +37393,6 @@
           "drug": "Plerixafor",
           "slug": "plerixafor",
           "score": 99.34
-        }
-      ]
-    },
-    {
-      "name": "Calendula officinalis flowering top | Homeopathic botanical",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aconitum Napel",
-          "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aconitum-napel",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Carbon Monoxide | Industrial gas",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2-Mercaptoethanol Borosilicate Glass Carbon Monoxi",
-          "slug": "2-mercaptoethanol-borosilicate-glass-carbon-monoxi",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Carbon disulfide | Industrial chemical / neurotoxin",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aluminum Oxide",
-          "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aluminum-oxide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Carboxymethylcellulose sodium | Pharmaceutical excipient",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aluminum Oxide",
-          "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aluminum-oxide",
-          "score": 99.0
         }
       ]
     },
@@ -41854,50 +37697,6 @@
       ]
     },
     {
-      "name": "Chionanthus Virginicus Bark | Botanical (fringe tree)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Activated Charcoal Arsenic Triiodide Arsenic Triox",
-          "slug": "activated-charcoal-arsenic-triiodide-arsenic-triox",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Chlorine | Industrial chemical / Toxin",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aconitum Napel",
-          "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aconitum-napel",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Chloroform | Industrial solvent / Hepatotoxin",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aconitum Napel",
-          "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aconitum-napel",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Cholecalciferol | Vitamin D3",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Alpha -Tocopherol Acetate D- Ascorbic Acid Choleca",
-          "slug": "alpha-tocopherol-acetate-d-ascorbic-acid-choleca",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Cholesterol catabolic process disease (rank 5)",
       "drug_count": 1,
       "drugs": [
@@ -41915,17 +37714,6 @@
         {
           "drug": "Taliglucerase Alfa",
           "slug": "taliglucerase-alfa",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Chondrodendron Tomentosum Root (curare plant) | Contains tubocurarine precursor, muscle relaxant",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Apis Mellifera Arctium Lappa Root Arctostaphylos U",
-          "slug": "apis-mellifera-arctium-lappa-root-arctostaphylos-u",
           "score": 99.0
         }
       ]
@@ -42014,17 +37802,6 @@
         {
           "drug": "Landiolol",
           "slug": "landiolol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Cinchona Officinalis Bark (cinchona bark) | Malaria, fever reduction (quinine source)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Apis Mellifera Arctium Lappa Root Arctostaphylos U",
-          "slug": "apis-mellifera-arctium-lappa-root-arctostaphylos-u",
           "score": 99.0
         }
       ]
@@ -42255,17 +38032,6 @@
       ]
     },
     {
-      "name": "Corallium Rubrum Exoskeleton | Marine-origin material (red coral)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Activated Charcoal Arsenic Triiodide Arsenic Triox",
-          "slug": "activated-charcoal-arsenic-triiodide-arsenic-triox",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Coronary artery disease | 99.25% | L5 | No identifiable mechanistic rationale.",
       "drug_count": 1,
       "drugs": [
@@ -42310,17 +38076,6 @@
       ]
     },
     {
-      "name": "Crotalus Horridus Horridus Venom | Snake venom / Homeopathic",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Activated Charcoal Apis Mellifera Arsenic Trioxide",
-          "slug": "activated-charcoal-apis-mellifera-arsenic-trioxide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Cryptococcal meningitis",
       "drug_count": 1,
       "drugs": [
@@ -42343,17 +38098,6 @@
       ]
     },
     {
-      "name": "Cyanocobalamin | Vitamin B12",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Alpha -Tocopherol Acetate D- Ascorbic Acid Choleca",
-          "slug": "alpha-tocopherol-acetate-d-ascorbic-acid-choleca",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Cytomegalovirus infection",
       "drug_count": 1,
       "drugs": [
@@ -42361,17 +38105,6 @@
           "drug": "Sincalide",
           "slug": "sincalide",
           "score": 99.96
-        }
-      ]
-    },
-    {
-      "name": "D-Alpha-Tocopherol Acetate | Vitamin E",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Alpha -Tocopherol Acetate D- Ascorbic Acid Choleca",
-          "slug": "alpha-tocopherol-acetate-d-ascorbic-acid-choleca",
-          "score": 99.0
         }
       ]
     },
@@ -42498,28 +38231,6 @@
       ]
     },
     {
-      "name": "Dieffenbachia seguine whole | Toxic plant",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aconitum Napel",
-          "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aconitum-napel",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Diethylstilbestrol | Synthetic estrogen (withdrawn from most markets)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aluminum Oxide",
-          "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aluminum-oxide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Disease by subcellular system affected | L5 | Non-specific ontology grouping, not a clinical indication. Hold",
       "drug_count": 1,
       "drugs": [
@@ -42549,17 +38260,6 @@
           "drug": "Acyclovir",
           "slug": "acyclovir",
           "score": 99.08
-        }
-      ]
-    },
-    {
-      "name": "Doconexent (DHA) | Omega-3 fatty acid",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Alpha -Tocopherol Acetate D- Ascorbic Acid Choleca",
-          "slug": "alpha-tocopherol-acetate-d-ascorbic-acid-choleca",
-          "score": 99.0
         }
       ]
     },
@@ -42729,50 +38429,6 @@
       ]
     },
     {
-      "name": "Echinacea (purple coneflower) | Immune support",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Apis Mellifera Arctium Lappa Root Arctostaphylos U",
-          "slug": "apis-mellifera-arctium-lappa-root-arctostaphylos-u",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Echinacea (unspecified) | Immune stimulation, cold/flu",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Apis Mellifera Aralia Racemosa Root Arundo Plinian",
-          "slug": "apis-mellifera-aralia-racemosa-root-arundo-plinian",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Echinacea Angustifolia Whole | Herbal immunostimulant",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Activated Charcoal Apis Mellifera Arsenic Trioxide",
-          "slug": "activated-charcoal-apis-mellifera-arsenic-trioxide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Echinacea, unspecified | Botanical immunomodulator",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "7-Keto-Dehydroepiandrosterone Adenosine Triphospha",
-          "slug": "7-keto-dehydroepiandrosterone-adenosine-triphospha",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Echinococcus granulosus infection | 99.32% | The most conceivable mechanistically (tubulin targeting, as with benzimidazoles), but no demonstrated anthelmintic activity",
       "drug_count": 1,
       "drugs": [
@@ -42812,17 +38468,6 @@
         {
           "drug": "Undecylenic Acid",
           "slug": "undecylenic-acid",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Egg Phospholipids | Lipid excipient / nutritional component",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Activated Charcoal Arsenic Triiodide Arsenic Triox",
-          "slug": "activated-charcoal-arsenic-triiodide-arsenic-triox",
           "score": 99.0
         }
       ]
@@ -42986,28 +38631,6 @@
       ]
     },
     {
-      "name": "Equisetum Arvense Top (Horsetail) | Herbal",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Activated Charcoal Anhydrous Dibasic Calcium Phosp",
-          "slug": "activated-charcoal-anhydrous-dibasic-calcium-phosp",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Equisetum Hyemale (horsetail) | Diuretic, urinary tract",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Apis Mellifera Arctium Lappa Root Arctostaphylos U",
-          "slug": "apis-mellifera-arctium-lappa-root-arctostaphylos-u",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Erectile dysfunction | 99.93% | Sympathomimetics typically oppose erection through alpha-adrenergic vasoconstriction, so the pharmacology argues against benefit.",
       "drug_count": 1,
       "drugs": [
@@ -43091,39 +38714,6 @@
         {
           "drug": "Regadenoson",
           "slug": "regadenoson",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Estrone | Endogenous estrogen",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aluminum Oxide",
-          "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aluminum-oxide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Ethyl Butylacetylaminopropionate | Insect repellent (IR3535)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2-Mercaptoethanol Borosilicate Glass Carbon Monoxi",
-          "slug": "2-mercaptoethanol-borosilicate-glass-carbon-monoxi",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Euphrasia stricta | Eye irritation, hay fever",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Apis Mellifera Aralia Racemosa Root Arundo Plinian",
-          "slug": "apis-mellifera-aralia-racemosa-root-arundo-plinian",
           "score": 99.0
         }
       ]
@@ -43473,28 +39063,6 @@
       ]
     },
     {
-      "name": "Fenson | Obsolete acaricide / Pesticide",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aconitum Napel",
-          "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aconitum-napel",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Ferrosoferric Phosphate (ferric phosphate) | Early inflammation (Ferrum phos., homeopathic)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Apis Mellifera Arctium Lappa Root Arctostaphylos U",
-          "slug": "apis-mellifera-arctium-lappa-root-arctostaphylos-u",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Fetal and neonatal alloimmune thrombocytopenia | 99.59% | Most mechanistically plausible: maternal alloantibodies destroy fetal platelets, so B-cell and BAFF-driven antibody production is relevant in principle. Use in pregnancy is limited by safety and placental transfer concerns, and current care relies on IVIG with or without corticosteroids.",
       "drug_count": 1,
       "drugs": [
@@ -43583,17 +39151,6 @@
       ]
     },
     {
-      "name": "Fluorine | Reactive element",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aconitum Napel",
-          "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aconitum-napel",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Focal stiff limb syndrome | 97.05% | Same weak rationale and identical score, suggesting an ontology-driven prediction",
       "drug_count": 1,
       "drugs": [
@@ -43622,17 +39179,6 @@
         {
           "drug": "Insulin Glargine",
           "slug": "insulin-glargine",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Folic Acid | B9 (inactive form)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Alpha -Tocopherol Acetate D- Ascorbic Acid Choleca",
-          "slug": "alpha-tocopherol-acetate-d-ascorbic-acid-choleca",
           "score": 99.0
         }
       ]
@@ -43671,17 +39217,6 @@
       ]
     },
     {
-      "name": "Formaldehyde solution | Fixative / known carcinogen (IARC Group 1)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aluminum Oxide",
-          "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aluminum-oxide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Frontorhiny | 99.93% | A rare congenital craniofacial malformation. No mechanistic rationale; the link is graph-based inference only.",
       "drug_count": 1,
       "drugs": [
@@ -43710,17 +39245,6 @@
         {
           "drug": "Talimogene Laherparepvec",
           "slug": "talimogene-laherparepvec",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Gamboge | Resin / traditional cathartic",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "7-Keto-Dehydroepiandrosterone Adenosine Triphospha",
-          "slug": "7-keto-dehydroepiandrosterone-adenosine-triphospha",
           "score": 99.0
         }
       ]
@@ -43759,17 +39283,6 @@
         {
           "drug": "Cyclophosphamide",
           "slug": "cyclophosphamide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Garlic | Food substance / herbal supplement",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aluminum Oxide",
-          "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aluminum-oxide",
           "score": 99.0
         }
       ]
@@ -43826,28 +39339,6 @@
           "drug": "Cysteamine",
           "slug": "cysteamine",
           "score": 99.57
-        }
-      ]
-    },
-    {
-      "name": "Gelsemium Sempervirens Root (Carolina jasmine root) | Neuralgia, fever (homeopathic; toxic)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Apis Mellifera Arctium Lappa Root Arctostaphylos U",
-          "slug": "apis-mellifera-arctium-lappa-root-arctostaphylos-u",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Gelsemium sempervirens root | Flu-like states, anxiety",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Apis Mellifera Aralia Racemosa Root Arundo Plinian",
-          "slug": "apis-mellifera-aralia-racemosa-root-arundo-plinian",
-          "score": 99.0
         }
       ]
     },
@@ -44019,39 +39510,6 @@
       ]
     },
     {
-      "name": "Glyphosate | Herbicide",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aluminum Oxide",
-          "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aluminum-oxide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Gold | Heavy metal element",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Activated Charcoal Arsenic Triiodide Arsenic Triox",
-          "slug": "activated-charcoal-arsenic-triiodide-arsenic-triox",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Goldenseal | Antimicrobial, gastrointestinal, mucosal",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Apis Mellifera Arctium Lappa Root Arctostaphylos U",
-          "slug": "apis-mellifera-arctium-lappa-root-arctostaphylos-u",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Gonococcal urethritis | 99.63% | *Neisseria gonorrhoeae* is not a recognized urease-producing pathogen, so there is no clear mechanistic link. The score likely reflects network proximity to the original indication. Effective antibiotics already exist. | L5",
       "drug_count": 1,
       "drugs": [
@@ -44069,17 +39527,6 @@
         {
           "drug": "Trolamine Salicylate",
           "slug": "trolamine-salicylate",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Graphite | Homeopathic mineral",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "7-Keto-Dehydroepiandrosterone Adenosine Triphospha",
-          "slug": "7-keto-dehydroepiandrosterone-adenosine-triphospha",
           "score": 99.0
         }
       ]
@@ -44424,17 +39871,6 @@
       ]
     },
     {
-      "name": "Histamine dihydrochloride | Isopathic allergy desensitisation",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Apis Mellifera Aralia Racemosa Root Arundo Plinian",
-          "slug": "apis-mellifera-aralia-racemosa-root-arundo-plinian",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Hodgkins lymphoma",
       "drug_count": 8,
       "drugs": [
@@ -44488,17 +39924,6 @@
           "drug": "Sincalide",
           "slug": "sincalide",
           "score": 99.85
-        }
-      ]
-    },
-    {
-      "name": "Hops Oil | Plant extract / flavouring",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2-Mercaptoethanol Borosilicate Glass Carbon Monoxi",
-          "slug": "2-mercaptoethanol-borosilicate-glass-carbon-monoxi",
-          "score": 99.0
         }
       ]
     },
@@ -44580,28 +40005,6 @@
         {
           "drug": "Tetracaine",
           "slug": "tetracaine",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Hydrogen cyanide | Highly toxic gas",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aconitum Napel",
-          "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aconitum-napel",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Hyoscyamus Niger | Anticholinergic alkaloid / Homeopathic",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Activated Charcoal Apis Mellifera Arsenic Trioxide",
-          "slug": "activated-charcoal-apis-mellifera-arsenic-trioxide",
           "score": 99.0
         }
       ]
@@ -44746,17 +40149,6 @@
           "drug": "Ferric Maltol",
           "slug": "ferric-maltol",
           "score": 99.33
-        }
-      ]
-    },
-    {
-      "name": "Icosapent (EPA) | Omega-3 fatty acid",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Alpha -Tocopherol Acetate D- Ascorbic Acid Choleca",
-          "slug": "alpha-tocopherol-acetate-d-ascorbic-acid-choleca",
-          "score": 99.0
         }
       ]
     },
@@ -45105,17 +40497,6 @@
       ]
     },
     {
-      "name": "Insulin Human | Peptide hormone",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "7-Keto-Dehydroepiandrosterone Adenosine Triphospha",
-          "slug": "7-keto-dehydroepiandrosterone-adenosine-triphospha",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Intestinal variant cervical mucinous adenocarcinoma",
       "drug_count": 1,
       "drugs": [
@@ -45134,17 +40515,6 @@
           "drug": "Amlodipine",
           "slug": "amlodipine",
           "score": 99.79
-        }
-      ]
-    },
-    {
-      "name": "Iron Pentacarbonyl | Mineral — Iron",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Alpha -Tocopherol Acetate D- Ascorbic Acid Choleca",
-          "slug": "alpha-tocopherol-acetate-d-ascorbic-acid-choleca",
-          "score": 99.0
         }
       ]
     },
@@ -45259,17 +40629,6 @@
       ]
     },
     {
-      "name": "Juniper Berry | Diuretic, urinary tract antiseptic",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Apis Mellifera Arctium Lappa Root Arctostaphylos U",
-          "slug": "apis-mellifera-arctium-lappa-root-arctostaphylos-u",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Kaposi's sarcoma (disease)",
       "drug_count": 1,
       "drugs": [
@@ -45304,17 +40663,6 @@
           "drug": "Tranylcypromine",
           "slug": "tranylcypromine",
           "score": 99.38
-        }
-      ]
-    },
-    {
-      "name": "Kerosene | Petroleum distillate",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aluminum Oxide",
-          "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aluminum-oxide",
-          "score": 99.0
         }
       ]
     },
@@ -45448,34 +40796,12 @@
       ]
     },
     {
-      "name": "Lachesis Muta Venom | Snake venom / Homeopathic",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Activated Charcoal Apis Mellifera Arsenic Trioxide",
-          "slug": "activated-charcoal-apis-mellifera-arsenic-trioxide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Lactation disease | L4 | Hold (danazol is generally contraindicated in pregnancy and breastfeeding)",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Danazol",
           "slug": "danazol",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Lactic Acid, L- | Organic acid",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "7-Keto-Dehydroepiandrosterone Adenosine Triphospha",
-          "slug": "7-keto-dehydroepiandrosterone-adenosine-triphospha",
           "score": 99.0
         }
       ]
@@ -45637,17 +40963,6 @@
       ]
     },
     {
-      "name": "Levomefolate Magnesium | B9 (active form)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Alpha -Tocopherol Acetate D- Ascorbic Acid Choleca",
-          "slug": "alpha-tocopherol-acetate-d-ascorbic-acid-choleca",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Lewy body dementia",
       "drug_count": 2,
       "drugs": [
@@ -45703,17 +41018,6 @@
         {
           "drug": "Halcinonide",
           "slug": "halcinonide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Liquid Petroleum | Mineral oil / excipient",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2-Mercaptoethanol Borosilicate Glass Carbon Monoxi",
-          "slug": "2-mercaptoethanol-borosilicate-glass-carbon-monoxi",
           "score": 99.0
         }
       ]
@@ -45829,17 +41133,6 @@
       ]
     },
     {
-      "name": "Lycopodium clavatum spore | Respiratory, digestive complaints",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Apis Mellifera Aralia Racemosa Root Arundo Plinian",
-          "slug": "apis-mellifera-aralia-racemosa-root-arundo-plinian",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Lyme disease",
       "drug_count": 2,
       "drugs": [
@@ -45922,17 +41215,6 @@
       ]
     },
     {
-      "name": "Lytta Vesicatoria (Spanish fly, Cantharis) | Cystitis, urethritis (homeopathic); raw substance is toxic",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Apis Mellifera Arctium Lappa Root Arctostaphylos U",
-          "slug": "apis-mellifera-arctium-lappa-root-arctostaphylos-u",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "MALT lymphoma",
       "drug_count": 1,
       "drugs": [
@@ -45944,34 +41226,12 @@
       ]
     },
     {
-      "name": "MCPA | Herbicide (phenoxy acetic acid class)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2-Mercaptoethanol Borosilicate Glass Carbon Monoxi",
-          "slug": "2-mercaptoethanol-borosilicate-glass-carbon-monoxi",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Macrothrombocytopenia with mitral valve insufficiency | 99.995% | Link is only the shared low-platelet feature. The drug would not address the valve component, and the entry may be an ontology artifact.",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Lusutrombopag",
           "slug": "lusutrombopag",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Magnesium Oxide | Mineral — Magnesium",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Alpha -Tocopherol Acetate D- Ascorbic Acid Choleca",
-          "slug": "alpha-tocopherol-acetate-d-ascorbic-acid-choleca",
           "score": 99.0
         }
       ]
@@ -46288,17 +41548,6 @@
       ]
     },
     {
-      "name": "Methane | Combustible gas",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aconitum Napel",
-          "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aconitum-napel",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Methemoglobin reductase deficiency | 99.53% | L5 | Genetic enzyme deficiency; no mechanism",
       "drug_count": 1,
       "drugs": [
@@ -46360,28 +41609,6 @@
         {
           "drug": "Tryptophan",
           "slug": "tryptophan",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Methylcobalamin | Vitamin B12 analogue",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "7-Keto-Dehydroepiandrosterone Adenosine Triphospha",
-          "slug": "7-keto-dehydroepiandrosterone-adenosine-triphospha",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Methylparaben | Preservative / excipient",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aluminum Oxide",
-          "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aluminum-oxide",
           "score": 99.0
         }
       ]
@@ -46647,17 +41874,6 @@
       ]
     },
     {
-      "name": "Morella Cerifera Root Bark | Botanical (bayberry)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Activated Charcoal Arsenic Triiodide Arsenic Triox",
-          "slug": "activated-charcoal-arsenic-triiodide-arsenic-triox",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Moynahan syndrome",
       "drug_count": 2,
       "drugs": [
@@ -46812,17 +42028,6 @@
           "drug": "Fosphenytoin",
           "slug": "fosphenytoin",
           "score": 99.02
-        }
-      ]
-    },
-    {
-      "name": "Naphthalene | Industrial chemical / possible carcinogen",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aluminum Oxide",
-          "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aluminum-oxide",
-          "score": 99.0
         }
       ]
     },
@@ -47062,28 +42267,6 @@
       ]
     },
     {
-      "name": "Niacin | Vitamin B3",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Alpha -Tocopherol Acetate D- Ascorbic Acid Choleca",
-          "slug": "alpha-tocopherol-acetate-d-ascorbic-acid-choleca",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Nitric acid | Strong acid",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aconitum Napel",
-          "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aconitum-napel",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Nocardiosis",
       "drug_count": 1,
       "drugs": [
@@ -47150,17 +42333,6 @@
       ]
     },
     {
-      "name": "Oat bran | Dietary fibre",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Anamirta Cocculus Whole Asafetida Datura Stramoniu",
-          "slug": "anamirta-cocculus-whole-asafetida-datura-stramoniu",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Obesity disorder | 99.910% | L3 | Research Question",
       "drug_count": 1,
       "drugs": [
@@ -47178,17 +42350,6 @@
         {
           "drug": "Thioridazine",
           "slug": "thioridazine",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Oenanthe Aquatica Fruit (Water Dropwort) | Herbal ⚠️",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Activated Charcoal Anhydrous Dibasic Calcium Phosp",
-          "slug": "activated-charcoal-anhydrous-dibasic-calcium-phosp",
           "score": 99.0
         }
       ]
@@ -47242,28 +42403,6 @@
           "drug": "Sofosbuvir",
           "slug": "sofosbuvir",
           "score": 99.47
-        }
-      ]
-    },
-    {
-      "name": "Onion (Allium cepa) | Hay fever, coryza",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Apis Mellifera Aralia Racemosa Root Arundo Plinian",
-          "slug": "apis-mellifera-aralia-racemosa-root-arundo-plinian",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Onion | Food / Homeopathic ingredient",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aconitum Napel",
-          "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aconitum-napel",
-          "score": 99.0
         }
       ]
     },
@@ -47341,17 +42480,6 @@
           "drug": "Topiramate",
           "slug": "topiramate",
           "score": 99.21
-        }
-      ]
-    },
-    {
-      "name": "Ornithogalum Umbellatum | Botanical (star of Bethlehem)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Activated Charcoal Arsenic Triiodide Arsenic Triox",
-          "slug": "activated-charcoal-arsenic-triiodide-arsenic-triox",
-          "score": 99.0
         }
       ]
     },
@@ -47536,17 +42664,6 @@
       ]
     },
     {
-      "name": "Paraffin | Wax / excipient",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aluminum Oxide",
-          "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aluminum-oxide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Parameningeal embryonal rhabdomyosarcoma",
       "drug_count": 2,
       "drugs": [
@@ -47614,17 +42731,6 @@
           "drug": "Eptifibatide",
           "slug": "eptifibatide",
           "score": 99.96
-        }
-      ]
-    },
-    {
-      "name": "Passiflora incarnata top | Botanical (passionflower)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Activated Charcoal Anamirta Cocculus Seed Apis Mel",
-          "slug": "activated-charcoal-anamirta-cocculus-seed-apis-mel",
-          "score": 99.0
         }
       ]
     },
@@ -47749,17 +42855,6 @@
       ]
     },
     {
-      "name": "Petroselinum Crispum | Botanical (parsley)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Activated Charcoal Arsenic Triiodide Arsenic Triox",
-          "slug": "activated-charcoal-arsenic-triiodide-arsenic-triox",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Peyronie disease",
       "drug_count": 1,
       "drugs": [
@@ -47836,28 +42931,6 @@
       ]
     },
     {
-      "name": "Phenacetin | Withdrawn analgesic (nephrotoxic)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aluminum Oxide",
-          "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aluminum-oxide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Phenol | Antiseptic / industrial chemical",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aluminum Oxide",
-          "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aluminum-oxide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Phobic disorder",
       "drug_count": 1,
       "drugs": [
@@ -47869,56 +42942,12 @@
       ]
     },
     {
-      "name": "Phosfolan | Organophosphate pesticide",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aconitum Napel",
-          "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aconitum-napel",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Phosphoric acid | Mineral / Acid",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Activated Charcoal Anamirta Cocculus Seed Apis Mel",
-          "slug": "activated-charcoal-anamirta-cocculus-seed-apis-mel",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Phosphorus | Liver, nervous system (homeopathic)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Apis Mellifera Arctium Lappa Root Arctostaphylos U",
-          "slug": "apis-mellifera-arctium-lappa-root-arctostaphylos-u",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Photosensitive occipital lobe epilepsy | 99.44% | Plausible, since focal seizures are commonly treated with sodium channel blockers; theoretical only",
       "drug_count": 1,
       "drugs": [
         {
           "drug": "Rufinamide",
           "slug": "rufinamide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Phytolacca americana Root | Homeopathic botanical",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "7-Keto-Dehydroepiandrosterone Adenosine Triphospha",
-          "slug": "7-keto-dehydroepiandrosterone-adenosine-triphospha",
           "score": 99.0
         }
       ]
@@ -47941,17 +42970,6 @@
         {
           "drug": "Undecylenic Acid",
           "slug": "undecylenic-acid",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Plantago Major (plantain) | Anti-inflammatory, urinary tract",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Apis Mellifera Arctium Lappa Root Arctostaphylos U",
-          "slug": "apis-mellifera-arctium-lappa-root-arctostaphylos-u",
           "score": 99.0
         }
       ]
@@ -48115,50 +43133,6 @@
       ]
     },
     {
-      "name": "Polytetrafluoroethylene (PTFE) | Polymer / coating material",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aluminum Oxide",
-          "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aluminum-oxide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Polyvinyl Alcohol, Unspecified | Polymer excipient",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2-Mercaptoethanol Borosilicate Glass Carbon Monoxi",
-          "slug": "2-mercaptoethanol-borosilicate-glass-carbon-monoxi",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Pork Kidney | Animal organ extract",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "7-Keto-Dehydroepiandrosterone Adenosine Triphospha",
-          "slug": "7-keto-dehydroepiandrosterone-adenosine-triphospha",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Pork Liver | Animal organ extract",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "7-Keto-Dehydroepiandrosterone Adenosine Triphospha",
-          "slug": "7-keto-dehydroepiandrosterone-adenosine-triphospha",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Post-bacterial disorder | 99.74% | Only the shared bacterial-origin category; no clinical support",
       "drug_count": 1,
       "drugs": [
@@ -48275,39 +43249,6 @@
         {
           "drug": "Amphetamine",
           "slug": "amphetamine",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Potassium Iodide | Mineral — Iodine",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Alpha -Tocopherol Acetate D- Ascorbic Acid Choleca",
-          "slug": "alpha-tocopherol-acetate-d-ascorbic-acid-choleca",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Potassium cyanide | Highly toxic salt",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aconitum Napel",
-          "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aconitum-napel",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Potassium phosphate, dibasic | Mineral / Salt",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Activated Charcoal Anamirta Cocculus Seed Apis Mel",
-          "slug": "activated-charcoal-anamirta-cocculus-seed-apis-mel",
           "score": 99.0
         }
       ]
@@ -48577,17 +43518,6 @@
       ]
     },
     {
-      "name": "Propane | Combustible gas",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aconitum Napel",
-          "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aconitum-napel",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Prostate embryonal rhabdomyosarcoma",
       "drug_count": 1,
       "drugs": [
@@ -48606,17 +43536,6 @@
           "drug": "Avelumab",
           "slug": "avelumab",
           "score": 99.92
-        }
-      ]
-    },
-    {
-      "name": "Proteus vulgaris | Homeopathic nosode (bacteria)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "7-Keto-Dehydroepiandrosterone Adenosine Triphospha",
-          "slug": "7-keto-dehydroepiandrosterone-adenosine-triphospha",
-          "score": 99.0
         }
       ]
     },
@@ -48804,17 +43723,6 @@
           "drug": "Clozapine",
           "slug": "clozapine",
           "score": 99.12
-        }
-      ]
-    },
-    {
-      "name": "Ptelea trifoliata bark | Herbal botanical",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aluminum Oxide",
-          "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aluminum-oxide",
-          "score": 99.0
         }
       ]
     },
@@ -49070,17 +43978,6 @@
       ]
     },
     {
-      "name": "Pulsatilla Vulgaris (pasque flower) | Urinary tract, gynecological (homeopathic)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Apis Mellifera Arctium Lappa Root Arctostaphylos U",
-          "slug": "apis-mellifera-arctium-lappa-root-arctostaphylos-u",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Punctate epithelial keratoconjunctivitis",
       "drug_count": 1,
       "drugs": [
@@ -49120,17 +44017,6 @@
         {
           "drug": "Anakinra",
           "slug": "anakinra",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Pyridoxine Hydrochloride | Vitamin B6",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Alpha -Tocopherol Acetate D- Ascorbic Acid Choleca",
-          "slug": "alpha-tocopherol-acetate-d-ascorbic-acid-choleca",
           "score": 99.0
         }
       ]
@@ -49221,17 +44107,6 @@
         {
           "drug": "Tolmetin",
           "slug": "tolmetin",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Rancid Beef | Nosode (homeopathic preparation)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Activated Charcoal Apis Mellifera Arsenic Trioxide",
-          "slug": "activated-charcoal-apis-mellifera-arsenic-trioxide",
           "score": 99.0
         }
       ]
@@ -49560,28 +44435,6 @@
       ]
     },
     {
-      "name": "Rhododendron Tomentosum Leafy Twig | Herbal / Homeopathic",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Activated Charcoal Apis Mellifera Arsenic Trioxide",
-          "slug": "activated-charcoal-apis-mellifera-arsenic-trioxide",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Riboflavin | Vitamin B2",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Alpha -Tocopherol Acetate D- Ascorbic Acid Choleca",
-          "slug": "alpha-tocopherol-acetate-d-ascorbic-acid-choleca",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Rienhoff syndrome",
       "drug_count": 3,
       "drugs": [
@@ -49674,39 +44527,6 @@
       ]
     },
     {
-      "name": "Sanguinaria Canadensis Root | Botanical (bloodroot)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Activated Charcoal Arsenic Triiodide Arsenic Triox",
-          "slug": "activated-charcoal-arsenic-triiodide-arsenic-triox",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Sanguinaria canadensis root | Rhinitis, sinusitis",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Apis Mellifera Aralia Racemosa Root Arundo Plinian",
-          "slug": "apis-mellifera-aralia-racemosa-root-arundo-plinian",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Saw Palmetto | Benign prostatic hyperplasia (BPH)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Apis Mellifera Arctium Lappa Root Arctostaphylos U",
-          "slug": "apis-mellifera-arctium-lappa-root-arctostaphylos-u",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Scheie syndrome",
       "drug_count": 1,
       "drugs": [
@@ -49747,17 +44567,6 @@
           "drug": "Clozapine",
           "slug": "clozapine",
           "score": 99.69
-        }
-      ]
-    },
-    {
-      "name": "Schoenocaulon officinale seed (Sabadilla) | Allergic rhinitis, sneezing",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Apis Mellifera Aralia Racemosa Root Arundo Plinian",
-          "slug": "apis-mellifera-aralia-racemosa-root-arundo-plinian",
-          "score": 99.0
         }
       ]
     },
@@ -49872,17 +44681,6 @@
           "drug": "Polyvinyl Alcohol",
           "slug": "polyvinyl-alcohol",
           "score": 99.83
-        }
-      ]
-    },
-    {
-      "name": "Semecarpus anacardium juice | Botanical (marking nut, toxic resin)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Activated Charcoal Anamirta Cocculus Seed Apis Mel",
-          "slug": "activated-charcoal-anamirta-cocculus-seed-apis-mel",
-          "score": 99.0
         }
       ]
     },
@@ -50002,39 +44800,6 @@
       ]
     },
     {
-      "name": "Silicon Dioxide | Excipient",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Activated Charcoal Anhydrous Dibasic Calcium Phosp",
-          "slug": "activated-charcoal-anhydrous-dibasic-calcium-phosp",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Silver nitrate | Antiseptic/caustic mineral",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Anamirta Cocculus Whole Asafetida Datura Stramoniu",
-          "slug": "anamirta-cocculus-whole-asafetida-datura-stramoniu",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Silybum marianum seed | Botanical (milk thistle)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Activated Charcoal Anamirta Cocculus Seed Apis Mel",
-          "slug": "activated-charcoal-anamirta-cocculus-seed-apis-mel",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Small cell lung carcinoma | 99.69% | L1 | Phase 3 trials and Phase 2 studies exist; not adopted in current standard of care (platinum-etoposide plus immunotherapy)",
       "drug_count": 1,
       "drugs": [
@@ -50068,17 +44833,6 @@
           "drug": "Tafenoquine",
           "slug": "tafenoquine",
           "score": 99.05
-        }
-      ]
-    },
-    {
-      "name": "Solidago Virgaurea Flowering Top (goldenrod) | Urinary tract anti-inflammatory, diuretic",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Apis Mellifera Arctium Lappa Root Arctostaphylos U",
-          "slug": "apis-mellifera-arctium-lappa-root-arctostaphylos-u",
-          "score": 99.0
         }
       ]
     },
@@ -50182,61 +44936,6 @@
       ]
     },
     {
-      "name": "Strychnos nux-vomica Seed | Homeopathic botanical (alkaloid source)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "7-Keto-Dehydroepiandrosterone Adenosine Triphospha",
-          "slug": "7-keto-dehydroepiandrosterone-adenosine-triphospha",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Strychnos nux-vomica seed | Botanical (contains strychnine)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Activated Charcoal Anamirta Cocculus Seed Apis Mel",
-          "slug": "activated-charcoal-anamirta-cocculus-seed-apis-mel",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Sulfur | Homeopathic mineral",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Activated Charcoal Anhydrous Dibasic Calcium Phosp",
-          "slug": "activated-charcoal-anhydrous-dibasic-calcium-phosp",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Sulfur | Mineral / Homeopathic ingredient",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aconitum Napel",
-          "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aconitum-napel",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Sulfuric acid | Strong acid",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aconitum Napel",
-          "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aconitum-napel",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Superficial mycosis",
       "drug_count": 1,
       "drugs": [
@@ -50265,28 +44964,6 @@
         {
           "drug": "Cemiplimab",
           "slug": "cemiplimab",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Sus scrofa Hypothalamus | Porcine organ extract",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "7-Keto-Dehydroepiandrosterone Adenosine Triphospha",
-          "slug": "7-keto-dehydroepiandrosterone-adenosine-triphospha",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Sus scrofa Pancreas | Porcine organ extract",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "7-Keto-Dehydroepiandrosterone Adenosine Triphospha",
-          "slug": "7-keto-dehydroepiandrosterone-adenosine-triphospha",
           "score": 99.0
         }
       ]
@@ -50386,28 +45063,6 @@
         {
           "drug": "Trolamine Salicylate",
           "slug": "trolamine-salicylate",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Teucrium Scorodonia Flowering Top (Wood Sage) | Herbal",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Activated Charcoal Anhydrous Dibasic Calcium Phosp",
-          "slug": "activated-charcoal-anhydrous-dibasic-calcium-phosp",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Thiamine | Vitamin B1",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Alpha -Tocopherol Acetate D- Ascorbic Acid Choleca",
-          "slug": "alpha-tocopherol-acetate-d-ascorbic-acid-choleca",
           "score": 99.0
         }
       ]
@@ -50523,39 +45178,6 @@
       ]
     },
     {
-      "name": "Tin (Stannum) | Homeopathic mineral",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Activated Charcoal Anhydrous Dibasic Calcium Phosp",
-          "slug": "activated-charcoal-anhydrous-dibasic-calcium-phosp",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Titanium Dioxide | Pigment / coating excipient",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2-Mercaptoethanol Borosilicate Glass Carbon Monoxi",
-          "slug": "2-mercaptoethanol-borosilicate-glass-carbon-monoxi",
-          "score": 99.0
-        }
-      ]
-    },
-    {
-      "name": "Tobacco leaf | Botanical (contains nicotine)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Activated Charcoal Anamirta Cocculus Seed Apis Mel",
-          "slug": "activated-charcoal-anamirta-cocculus-seed-apis-mel",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Tourette syndrome",
       "drug_count": 20,
       "drugs": [
@@ -50667,17 +45289,6 @@
       ]
     },
     {
-      "name": "Toxicodendron pubescens leaf (Rhus tox) | Joint pain, skin eruptions",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Apis Mellifera Aralia Racemosa Root Arundo Plinian",
-          "slug": "apis-mellifera-aralia-racemosa-root-arundo-plinian",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Toxoplasmosis",
       "drug_count": 1,
       "drugs": [
@@ -50685,17 +45296,6 @@
           "drug": "Primaquine",
           "slug": "primaquine",
           "score": 99.64
-        }
-      ]
-    },
-    {
-      "name": "Tralomethrin | Pyrethroid insecticide",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2-Mercaptoethanol Borosilicate Glass Carbon Monoxi",
-          "slug": "2-mercaptoethanol-borosilicate-glass-carbon-monoxi",
-          "score": 99.0
         }
       ]
     },
@@ -50817,17 +45417,6 @@
           "drug": "Teprotumumab",
           "slug": "teprotumumab",
           "score": 99.37
-        }
-      ]
-    },
-    {
-      "name": "Turpentine (pine oil) | Urinary tract (historical use); irritant",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Apis Mellifera Arctium Lappa Root Arctostaphylos U",
-          "slug": "apis-mellifera-arctium-lappa-root-arctostaphylos-u",
-          "score": 99.0
         }
       ]
     },
@@ -50966,17 +45555,6 @@
       ]
     },
     {
-      "name": "Urtica urens whole | Urticaria, allergic pruritus",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Apis Mellifera Aralia Racemosa Root Arundo Plinian",
-          "slug": "apis-mellifera-aralia-racemosa-root-arundo-plinian",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Uterine corpus cancer",
       "drug_count": 1,
       "drugs": [
@@ -51109,17 +45687,6 @@
       ]
     },
     {
-      "name": "Veratrum album root | Toxic botanical",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aconitum Napel",
-          "slug": "2-3-7-8-tetrachlorodibenzo-p-dioxin-aconitum-napel",
-          "score": 99.0
-        }
-      ]
-    },
-    {
       "name": "Vertebral anomalies and variable endocrine and T-cell dysfunction",
       "drug_count": 1,
       "drugs": [
@@ -51149,17 +45716,6 @@
           "drug": "Certolizumab Pegol",
           "slug": "certolizumab-pegol",
           "score": 99.26
-        }
-      ]
-    },
-    {
-      "name": "Vincetoxicum hirundinaria Root | Homeopathic botanical",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "7-Keto-Dehydroepiandrosterone Adenosine Triphospha",
-          "slug": "7-keto-dehydroepiandrosterone-adenosine-triphospha",
-          "score": 99.0
         }
       ]
     },

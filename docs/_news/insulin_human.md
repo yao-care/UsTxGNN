@@ -25,7 +25,7 @@ This page combines the AI-predicted indications for Insulin human with the lates
 <strong>Drug Information</strong>
 <ul>
 </ul>
-<p><a href="{{ '/drugs/insulin_human/' | relative_url }}">View full drug report →</a></p>
+<p><a href="{{ '/drugs/insulin-human/' | relative_url }}">View full drug report →</a></p>
 </div>
 
 ## Related News (55)

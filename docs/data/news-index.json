@@ -20,7 +20,8 @@
           "related_drugs": [
             {
               "slug": "ramucirumab",
-              "name": "Ramucirumab"
+              "name": "Ramucirumab",
+              "url": "/drugs/ramucirumab/"
             }
           ]
         },
@@ -31,31 +32,38 @@
           "related_drugs": [
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "sodium_acetate",
-              "name": "Sodium acetate"
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -79,39 +87,48 @@
           "related_drugs": [
             {
               "slug": "lasmiditan",
-              "name": "Lasmiditan"
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
             },
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "selpercatinib",
-              "name": "Selpercatinib"
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         },
@@ -122,31 +139,38 @@
           "related_drugs": [
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "sodium_acetate",
-              "name": "Sodium acetate"
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -170,31 +194,38 @@
           "related_drugs": [
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "sodium_acetate",
-              "name": "Sodium acetate"
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         },
@@ -205,27 +236,33 @@
           "related_drugs": [
             {
               "slug": "rutin",
-              "name": "Rutin"
+              "name": "Rutin",
+              "url": "/drugs/rutin/"
             },
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -249,31 +286,38 @@
           "related_drugs": [
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "sodium_acetate",
-              "name": "Sodium acetate"
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -297,31 +341,38 @@
           "related_drugs": [
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "sodium_acetate",
-              "name": "Sodium acetate"
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -345,7 +396,8 @@
           "related_drugs": [
             {
               "slug": "ramucirumab",
-              "name": "Ramucirumab"
+              "name": "Ramucirumab",
+              "url": "/drugs/ramucirumab/"
             }
           ]
         }
@@ -369,31 +421,38 @@
           "related_drugs": [
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "sodium_acetate",
-              "name": "Sodium acetate"
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -417,31 +476,38 @@
           "related_drugs": [
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "sodium_acetate",
-              "name": "Sodium acetate"
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -465,39 +531,48 @@
           "related_drugs": [
             {
               "slug": "lasmiditan",
-              "name": "Lasmiditan"
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
             },
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "selpercatinib",
-              "name": "Selpercatinib"
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         },
@@ -508,31 +583,38 @@
           "related_drugs": [
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "sodium_acetate",
-              "name": "Sodium acetate"
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         },
@@ -543,11 +625,13 @@
           "related_drugs": [
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             }
           ]
         }
@@ -571,31 +655,38 @@
           "related_drugs": [
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "sodium_acetate",
-              "name": "Sodium acetate"
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -619,7 +710,8 @@
           "related_drugs": [
             {
               "slug": "ramucirumab",
-              "name": "Ramucirumab"
+              "name": "Ramucirumab",
+              "url": "/drugs/ramucirumab/"
             }
           ]
         }
@@ -643,7 +735,8 @@
           "related_drugs": [
             {
               "slug": "ramucirumab",
-              "name": "Ramucirumab"
+              "name": "Ramucirumab",
+              "url": "/drugs/ramucirumab/"
             }
           ]
         }
@@ -667,39 +760,48 @@
           "related_drugs": [
             {
               "slug": "lasmiditan",
-              "name": "Lasmiditan"
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
             },
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "selpercatinib",
-              "name": "Selpercatinib"
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         },
@@ -710,31 +812,38 @@
           "related_drugs": [
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "sodium_acetate",
-              "name": "Sodium acetate"
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         },
@@ -745,27 +854,33 @@
           "related_drugs": [
             {
               "slug": "rutin",
-              "name": "Rutin"
+              "name": "Rutin",
+              "url": "/drugs/rutin/"
             },
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -789,7 +904,8 @@
           "related_drugs": [
             {
               "slug": "selpercatinib",
-              "name": "Selpercatinib"
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
             }
           ]
         },
@@ -800,7 +916,8 @@
           "related_drugs": [
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             }
           ]
         },
@@ -811,39 +928,48 @@
           "related_drugs": [
             {
               "slug": "lasmiditan",
-              "name": "Lasmiditan"
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
             },
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "selpercatinib",
-              "name": "Selpercatinib"
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         },
@@ -854,27 +980,33 @@
           "related_drugs": [
             {
               "slug": "rutin",
-              "name": "Rutin"
+              "name": "Rutin",
+              "url": "/drugs/rutin/"
             },
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -898,39 +1030,48 @@
           "related_drugs": [
             {
               "slug": "lasmiditan",
-              "name": "Lasmiditan"
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
             },
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "selpercatinib",
-              "name": "Selpercatinib"
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -954,31 +1095,38 @@
           "related_drugs": [
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "sodium_acetate",
-              "name": "Sodium acetate"
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -1002,7 +1150,8 @@
           "related_drugs": [
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             }
           ]
         },
@@ -1013,39 +1162,48 @@
           "related_drugs": [
             {
               "slug": "lasmiditan",
-              "name": "Lasmiditan"
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
             },
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "selpercatinib",
-              "name": "Selpercatinib"
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -1069,31 +1227,38 @@
           "related_drugs": [
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "sodium_acetate",
-              "name": "Sodium acetate"
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -1117,39 +1282,48 @@
           "related_drugs": [
             {
               "slug": "lasmiditan",
-              "name": "Lasmiditan"
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
             },
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "selpercatinib",
-              "name": "Selpercatinib"
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         },
@@ -1160,27 +1334,33 @@
           "related_drugs": [
             {
               "slug": "rutin",
-              "name": "Rutin"
+              "name": "Rutin",
+              "url": "/drugs/rutin/"
             },
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -1204,11 +1384,13 @@
           "related_drugs": [
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             }
           ]
         }
@@ -1232,39 +1414,48 @@
           "related_drugs": [
             {
               "slug": "lasmiditan",
-              "name": "Lasmiditan"
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
             },
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "selpercatinib",
-              "name": "Selpercatinib"
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -1288,39 +1479,48 @@
           "related_drugs": [
             {
               "slug": "lasmiditan",
-              "name": "Lasmiditan"
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
             },
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "selpercatinib",
-              "name": "Selpercatinib"
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         },
@@ -1331,31 +1531,38 @@
           "related_drugs": [
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "sodium_acetate",
-              "name": "Sodium acetate"
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -1379,39 +1586,48 @@
           "related_drugs": [
             {
               "slug": "lasmiditan",
-              "name": "Lasmiditan"
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
             },
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "selpercatinib",
-              "name": "Selpercatinib"
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         },
@@ -1422,27 +1638,33 @@
           "related_drugs": [
             {
               "slug": "rutin",
-              "name": "Rutin"
+              "name": "Rutin",
+              "url": "/drugs/rutin/"
             },
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -1466,31 +1688,38 @@
           "related_drugs": [
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "sodium_acetate",
-              "name": "Sodium acetate"
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -1514,7 +1743,8 @@
           "related_drugs": [
             {
               "slug": "ramucirumab",
-              "name": "Ramucirumab"
+              "name": "Ramucirumab",
+              "url": "/drugs/ramucirumab/"
             }
           ]
         },
@@ -1525,31 +1755,38 @@
           "related_drugs": [
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "sodium_acetate",
-              "name": "Sodium acetate"
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -1573,31 +1810,38 @@
           "related_drugs": [
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "sodium_acetate",
-              "name": "Sodium acetate"
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         },
@@ -1608,11 +1852,13 @@
           "related_drugs": [
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             }
           ]
         }
@@ -1636,31 +1882,38 @@
           "related_drugs": [
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "sodium_acetate",
-              "name": "Sodium acetate"
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -1684,31 +1937,38 @@
           "related_drugs": [
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "sodium_acetate",
-              "name": "Sodium acetate"
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         },
@@ -1719,11 +1979,13 @@
           "related_drugs": [
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             }
           ]
         }
@@ -1747,31 +2009,38 @@
           "related_drugs": [
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "sodium_acetate",
-              "name": "Sodium acetate"
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -1795,39 +2064,48 @@
           "related_drugs": [
             {
               "slug": "lasmiditan",
-              "name": "Lasmiditan"
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
             },
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "selpercatinib",
-              "name": "Selpercatinib"
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         },
@@ -1838,31 +2116,38 @@
           "related_drugs": [
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "sodium_acetate",
-              "name": "Sodium acetate"
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -1886,39 +2171,48 @@
           "related_drugs": [
             {
               "slug": "lasmiditan",
-              "name": "Lasmiditan"
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
             },
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "selpercatinib",
-              "name": "Selpercatinib"
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         },
@@ -1929,31 +2223,38 @@
           "related_drugs": [
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "sodium_acetate",
-              "name": "Sodium acetate"
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -1977,31 +2278,38 @@
           "related_drugs": [
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "sodium_acetate",
-              "name": "Sodium acetate"
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -2025,7 +2333,8 @@
           "related_drugs": [
             {
               "slug": "ramucirumab",
-              "name": "Ramucirumab"
+              "name": "Ramucirumab",
+              "url": "/drugs/ramucirumab/"
             }
           ]
         },
@@ -2036,31 +2345,38 @@
           "related_drugs": [
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "sodium_acetate",
-              "name": "Sodium acetate"
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -2084,7 +2400,8 @@
           "related_drugs": [
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             }
           ]
         }
@@ -2108,31 +2425,38 @@
           "related_drugs": [
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "sodium_acetate",
-              "name": "Sodium acetate"
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -2156,7 +2480,8 @@
           "related_drugs": [
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             }
           ]
         },
@@ -2167,39 +2492,48 @@
           "related_drugs": [
             {
               "slug": "lasmiditan",
-              "name": "Lasmiditan"
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
             },
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "selpercatinib",
-              "name": "Selpercatinib"
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -2223,39 +2557,48 @@
           "related_drugs": [
             {
               "slug": "lasmiditan",
-              "name": "Lasmiditan"
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
             },
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "selpercatinib",
-              "name": "Selpercatinib"
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -2279,31 +2622,38 @@
           "related_drugs": [
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "sodium_acetate",
-              "name": "Sodium acetate"
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -2327,39 +2677,48 @@
           "related_drugs": [
             {
               "slug": "lasmiditan",
-              "name": "Lasmiditan"
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
             },
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "selpercatinib",
-              "name": "Selpercatinib"
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -2383,39 +2742,48 @@
           "related_drugs": [
             {
               "slug": "lasmiditan",
-              "name": "Lasmiditan"
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
             },
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "selpercatinib",
-              "name": "Selpercatinib"
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         },
@@ -2426,27 +2794,33 @@
           "related_drugs": [
             {
               "slug": "rutin",
-              "name": "Rutin"
+              "name": "Rutin",
+              "url": "/drugs/rutin/"
             },
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -2470,39 +2844,48 @@
           "related_drugs": [
             {
               "slug": "lasmiditan",
-              "name": "Lasmiditan"
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
             },
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "selpercatinib",
-              "name": "Selpercatinib"
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         },
@@ -2513,11 +2896,13 @@
           "related_drugs": [
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             }
           ]
         }
@@ -2541,39 +2926,48 @@
           "related_drugs": [
             {
               "slug": "lasmiditan",
-              "name": "Lasmiditan"
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
             },
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "selpercatinib",
-              "name": "Selpercatinib"
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         },
@@ -2584,31 +2978,38 @@
           "related_drugs": [
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "sodium_acetate",
-              "name": "Sodium acetate"
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -2632,39 +3033,48 @@
           "related_drugs": [
             {
               "slug": "lasmiditan",
-              "name": "Lasmiditan"
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
             },
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "selpercatinib",
-              "name": "Selpercatinib"
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         },
@@ -2675,31 +3085,38 @@
           "related_drugs": [
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "sodium_acetate",
-              "name": "Sodium acetate"
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -2723,7 +3140,8 @@
           "related_drugs": [
             {
               "slug": "ramucirumab",
-              "name": "Ramucirumab"
+              "name": "Ramucirumab",
+              "url": "/drugs/ramucirumab/"
             }
           ]
         }
@@ -2747,27 +3165,33 @@
           "related_drugs": [
             {
               "slug": "rutin",
-              "name": "Rutin"
+              "name": "Rutin",
+              "url": "/drugs/rutin/"
             },
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -2791,39 +3215,48 @@
           "related_drugs": [
             {
               "slug": "lasmiditan",
-              "name": "Lasmiditan"
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
             },
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "selpercatinib",
-              "name": "Selpercatinib"
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -2847,7 +3280,8 @@
           "related_drugs": [
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             }
           ]
         }
@@ -2871,7 +3305,8 @@
           "related_drugs": [
             {
               "slug": "ramucirumab",
-              "name": "Ramucirumab"
+              "name": "Ramucirumab",
+              "url": "/drugs/ramucirumab/"
             }
           ]
         },
@@ -2882,39 +3317,48 @@
           "related_drugs": [
             {
               "slug": "lasmiditan",
-              "name": "Lasmiditan"
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
             },
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "selpercatinib",
-              "name": "Selpercatinib"
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -2938,39 +3382,48 @@
           "related_drugs": [
             {
               "slug": "lasmiditan",
-              "name": "Lasmiditan"
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
             },
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "selpercatinib",
-              "name": "Selpercatinib"
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         },
@@ -2981,31 +3434,38 @@
           "related_drugs": [
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "sodium_acetate",
-              "name": "Sodium acetate"
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -3029,39 +3489,48 @@
           "related_drugs": [
             {
               "slug": "lasmiditan",
-              "name": "Lasmiditan"
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
             },
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "selpercatinib",
-              "name": "Selpercatinib"
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -3085,39 +3554,48 @@
           "related_drugs": [
             {
               "slug": "lasmiditan",
-              "name": "Lasmiditan"
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
             },
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "selpercatinib",
-              "name": "Selpercatinib"
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         },
@@ -3128,31 +3606,38 @@
           "related_drugs": [
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "sodium_acetate",
-              "name": "Sodium acetate"
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         },
@@ -3163,27 +3648,33 @@
           "related_drugs": [
             {
               "slug": "rutin",
-              "name": "Rutin"
+              "name": "Rutin",
+              "url": "/drugs/rutin/"
             },
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -3207,39 +3698,48 @@
           "related_drugs": [
             {
               "slug": "lasmiditan",
-              "name": "Lasmiditan"
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
             },
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "selpercatinib",
-              "name": "Selpercatinib"
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         },
@@ -3250,31 +3750,38 @@
           "related_drugs": [
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "sodium_acetate",
-              "name": "Sodium acetate"
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -3298,31 +3805,38 @@
           "related_drugs": [
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "sodium_acetate",
-              "name": "Sodium acetate"
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         },
@@ -3333,27 +3847,33 @@
           "related_drugs": [
             {
               "slug": "rutin",
-              "name": "Rutin"
+              "name": "Rutin",
+              "url": "/drugs/rutin/"
             },
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -3377,7 +3897,8 @@
           "related_drugs": [
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             }
           ]
         },
@@ -3388,39 +3909,48 @@
           "related_drugs": [
             {
               "slug": "lasmiditan",
-              "name": "Lasmiditan"
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
             },
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "selpercatinib",
-              "name": "Selpercatinib"
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -3444,39 +3974,48 @@
           "related_drugs": [
             {
               "slug": "lasmiditan",
-              "name": "Lasmiditan"
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
             },
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "selpercatinib",
-              "name": "Selpercatinib"
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         },
@@ -3487,27 +4026,33 @@
           "related_drugs": [
             {
               "slug": "rutin",
-              "name": "Rutin"
+              "name": "Rutin",
+              "url": "/drugs/rutin/"
             },
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -3531,39 +4076,48 @@
           "related_drugs": [
             {
               "slug": "lasmiditan",
-              "name": "Lasmiditan"
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
             },
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "selpercatinib",
-              "name": "Selpercatinib"
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         },
@@ -3574,31 +4128,38 @@
           "related_drugs": [
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "sodium_acetate",
-              "name": "Sodium acetate"
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -3622,7 +4183,8 @@
           "related_drugs": [
             {
               "slug": "ramucirumab",
-              "name": "Ramucirumab"
+              "name": "Ramucirumab",
+              "url": "/drugs/ramucirumab/"
             }
           ]
         }
@@ -3646,39 +4208,48 @@
           "related_drugs": [
             {
               "slug": "lasmiditan",
-              "name": "Lasmiditan"
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
             },
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "selpercatinib",
-              "name": "Selpercatinib"
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -3702,31 +4273,38 @@
           "related_drugs": [
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "sodium_acetate",
-              "name": "Sodium acetate"
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         },
@@ -3737,11 +4315,13 @@
           "related_drugs": [
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             }
           ]
         }
@@ -3765,27 +4345,33 @@
           "related_drugs": [
             {
               "slug": "rutin",
-              "name": "Rutin"
+              "name": "Rutin",
+              "url": "/drugs/rutin/"
             },
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -3809,39 +4395,48 @@
           "related_drugs": [
             {
               "slug": "lasmiditan",
-              "name": "Lasmiditan"
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
             },
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "selpercatinib",
-              "name": "Selpercatinib"
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -3865,31 +4460,38 @@
           "related_drugs": [
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "sodium_acetate",
-              "name": "Sodium acetate"
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }
@@ -3913,39 +4515,48 @@
           "related_drugs": [
             {
               "slug": "lasmiditan",
-              "name": "Lasmiditan"
+              "name": "Lasmiditan",
+              "url": "/drugs/lasmiditan/"
             },
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "raloxifene",
-              "name": "Raloxifene"
+              "name": "Raloxifene",
+              "url": "/drugs/raloxifene/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "selpercatinib",
-              "name": "Selpercatinib"
+              "name": "Selpercatinib",
+              "url": "/drugs/selpercatinib/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         },
@@ -3956,31 +4567,38 @@
           "related_drugs": [
             {
               "slug": "insulin_lispro",
-              "name": "Insulin lispro"
+              "name": "Insulin lispro",
+              "url": "/drugs/insulin-lispro/"
             },
             {
               "slug": "baricitinib",
-              "name": "Baricitinib"
+              "name": "Baricitinib",
+              "url": "/drugs/baricitinib/"
             },
             {
               "slug": "teriparatide",
-              "name": "Teriparatide"
+              "name": "Teriparatide",
+              "url": "/drugs/teriparatide/"
             },
             {
               "slug": "sodium_acetate",
-              "name": "Sodium acetate"
+              "name": "Sodium acetate",
+              "url": "/drugs/sodium-acetate/"
             },
             {
               "slug": "tadalafil",
-              "name": "Tadalafil"
+              "name": "Tadalafil",
+              "url": "/drugs/tadalafil/"
             },
             {
               "slug": "insulin_glargine",
-              "name": "Insulin glargine"
+              "name": "Insulin glargine",
+              "url": "/drugs/insulin-glargine/"
             },
             {
               "slug": "insulin_human",
-              "name": "Insulin human"
+              "name": "Insulin human",
+              "url": "/drugs/insulin-human/"
             }
           ]
         }

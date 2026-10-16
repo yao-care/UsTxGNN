@@ -25,9 +25,9 @@ This page brings together the latest health news about “UC” and lists the dr
 <strong>Related drug reports</strong>
 <p>The predicted indications of the following drugs may be related to this disease:</p>
 <ul>
-<li><a href="{{ '/drugs/insulin_glargine/' | relative_url }}">Insulin glargine</a></li>
-<li><a href="{{ '/drugs/insulin_human/' | relative_url }}">Insulin human</a></li>
-<li><a href="{{ '/drugs/insulin_lispro/' | relative_url }}">Insulin lispro</a></li>
+<li><a href="{{ '/drugs/insulin-glargine/' | relative_url }}">Insulin glargine</a></li>
+<li><a href="{{ '/drugs/insulin-human/' | relative_url }}">Insulin human</a></li>
+<li><a href="{{ '/drugs/insulin-lispro/' | relative_url }}">Insulin lispro</a></li>
 <li><a href="{{ '/drugs/raloxifene/' | relative_url }}">Raloxifene</a></li>
 <li><a href="{{ '/drugs/rutin/' | relative_url }}">Rutin</a></li>
 <li><a href="{{ '/drugs/teriparatide/' | relative_url }}">Teriparatide</a></li>

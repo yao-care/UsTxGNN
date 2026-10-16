@@ -26,10 +26,10 @@ This page brings together the latest health news about “RA” and lists the dr
 <p>The predicted indications of the following drugs may be related to this disease:</p>
 <ul>
 <li><a href="{{ '/drugs/baricitinib/' | relative_url }}">Baricitinib</a></li>
-<li><a href="{{ '/drugs/insulin_glargine/' | relative_url }}">Insulin glargine</a></li>
-<li><a href="{{ '/drugs/insulin_human/' | relative_url }}">Insulin human</a></li>
-<li><a href="{{ '/drugs/insulin_lispro/' | relative_url }}">Insulin lispro</a></li>
-<li><a href="{{ '/drugs/sodium_acetate/' | relative_url }}">Sodium acetate</a></li>
+<li><a href="{{ '/drugs/insulin-glargine/' | relative_url }}">Insulin glargine</a></li>
+<li><a href="{{ '/drugs/insulin-human/' | relative_url }}">Insulin human</a></li>
+<li><a href="{{ '/drugs/insulin-lispro/' | relative_url }}">Insulin lispro</a></li>
+<li><a href="{{ '/drugs/sodium-acetate/' | relative_url }}">Sodium acetate</a></li>
 <li><a href="{{ '/drugs/tadalafil/' | relative_url }}">Tadalafil</a></li>
 <li><a href="{{ '/drugs/teriparatide/' | relative_url }}">Teriparatide</a></li>
 </ul>

@@ -41,11 +41,27 @@ This page combines the AI-predicted indications for Rutin with the latest health
 
 ## Related News (11)
 
-### [Hypertension treatment could avert over 500,000 heart disease deaths - Medical News Today](https://news.google.com/rss/articles/CBMiswFBVV95cUxPa2FXSzd0WENlT2hKRk1JSTY2Z0FPSzl0ZlI3MVBpemJ4TW83ZFlSQVJoZDdVdU92NVRKV1pBWlZ5Q0VsTmFpMFpCcDVHSHEtVWhJZmRCeURPSjhneHA3S2g2LTEzRzJ5dVBuVVhCWWVmaXE1ZEF5OTh3dU14MkNfa2YzWUxtd0ZUUHJ1NVpsNU51d0NTaGFXZVMxUXFrblYwS2VySWxER01RSTZZUnlxNUdQZw?oc=5)
+### [Stanford Just Figured Out How to Lead Dying Coral Reefs to a ‘Fast and Full Recovery’](https://news.google.com/rss/articles/CBMitAFBVV95cUxOZHVQWkVhUDVWT21tU01VWHFVMkp6UldqRmltMTZ6RHRVcFdFa0RfVF9DLTFwVkhXaWRMLWdOZWNNdzNfbHM4dkkyclByRXFsTFRWUkFScUNKOWhCdDN2RjlsMWMzR2VOamZIYUk3bUI0S2NBb2RHTjNJN1pSTldkMG9ia25xLWhQdnZFdkJJOGd0VFI3eGlCOGw2R3doY0hRNWV6Q0dWUDNCWE1mQVp0VVJtN2Q?oc=5)
 
-2026-10-16 <span class="news-indication-tag">hypertension</span> <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+2026-10-16 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
-Source: [Medical News Today](https://news.google.com/rss/articles/CBMiswFBVV95cUxPa2FXSzd0WENlT2hKRk1JSTY2Z0FPSzl0ZlI3MVBpemJ4TW83ZFlSQVJoZDdVdU92NVRKV1pBWlZ5Q0VsTmFpMFpCcDVHSHEtVWhJZmRCeURPSjhneHA3S2g2LTEzRzJ5dVBuVVhCWWVmaXE1ZEF5OTh3dU14MkNfa2YzWUxtd0ZUUHJ1NVpsNU51d0NTaGFXZVMxUXFrblYwS2VySWxER01RSTZZUnlxNUdQZw?oc=5)
+Source: [Gizmodo](https://news.google.com/rss/articles/CBMitAFBVV95cUxOZHVQWkVhUDVWT21tU01VWHFVMkp6UldqRmltMTZ6RHRVcFdFa0RfVF9DLTFwVkhXaWRMLWdOZWNNdzNfbHM4dkkyclByRXFsTFRWUkFScUNKOWhCdDN2RjlsMWMzR2VOamZIYUk3bUI0S2NBb2RHTjNJN1pSTldkMG9ia25xLWhQdnZFdkJJOGd0VFI3eGlCOGw2R3doY0hRNWV6Q0dWUDNCWE1mQVp0VVJtN2Q?oc=5)
+
+---
+
+### [Ahead of the U.S., UK, and China, WHO confirms African nation as world-first to retain gold status for hepatitis C elimination using locally made drugs - Business Insider Africa](https://news.google.com/rss/articles/CBMi2AFBVV95cUxORDVZR0F4bnc2cHlxV1NyckVkR3pJVVBNR3dQT3RMbjRMaDN1YVVsRDg1NGtOV3FSUVpUT3FhdjZIU3hGeVpzUGVqNzJ1TldMMEdJOHpRTjRFclppYjZzS0M5T1VVQU1zR3d6THJwbThZeEtNbVlMZGpidXYtb284dG5DWVJmaXhHV1FLdG1mV3hfSVhVcXdqTUc2Q19ybFA5d2Z0bnFYdjJLLVd3eGQ1aWxKRXFaaHpYNm11Q2w5aDgtcFdPRDBaakxPLTNHUG9KTER4NXByMGs?oc=5)
+
+2026-10-16 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [Business Insider Africa](https://news.google.com/rss/articles/CBMi2AFBVV95cUxORDVZR0F4bnc2cHlxV1NyckVkR3pJVVBNR3dQT3RMbjRMaDN1YVVsRDg1NGtOV3FSUVpUT3FhdjZIU3hGeVpzUGVqNzJ1TldMMEdJOHpRTjRFclppYjZzS0M5T1VVQU1zR3d6THJwbThZeEtNbVlMZGpidXYtb284dG5DWVJmaXhHV1FLdG1mV3hfSVhVcXdqTUc2Q19ybFA5d2Z0bnFYdjJLLVd3eGQ1aWxKRXFaaHpYNm11Q2w5aDgtcFdPRDBaakxPLTNHUG9KTER4NXByMGs?oc=5)
+
+---
+
+### [Over 500,000 deaths a year could be prevented by managing blood pressure](https://news.google.com/rss/articles/CBMieEFVX3lxTE5tOEhIUHF6ZThBRGRZRWtkVzNwbDhMQ3h3RE56bTE5U2d5ajF1V2FOZlpOaDlUdDk3WkF3cF85RkowdldaTV9TVzZZSGctLUJGMllyN0VaUHh0TzJKdzNKelFxUENJbVJGSTVYeVphREJrVVhxN1dSbg?oc=5)
+
+2026-10-16 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">CVD</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+
+Source: [AOL.com](https://news.google.com/rss/articles/CBMieEFVX3lxTE5tOEhIUHF6ZThBRGRZRWtkVzNwbDhMQ3h3RE56bTE5U2d5ajF1V2FOZlpOaDlUdDk3WkF3cF85RkowdldaTV9TVzZZSGctLUJGMllyN0VaUHh0TzJKdzNKelFxUENJbVJGSTVYeVphREJrVVhxN1dSbg?oc=5)
 
 ---
 
@@ -54,14 +70,6 @@ Source: [Medical News Today](https://news.google.com/rss/articles/CBMiswFBVV95cU
 2026-10-16 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
 
 Source: [ABC13 Houston](https://news.google.com/rss/articles/CBMinAFBVV95cUxQakp5ZGIwNFVsVzh5OWZxaURxVjZXb2VoTHJjSENUd0dBRGNlcTE4NG9LQTBoNGFVQW5SVWxlR0hYSU5Yb3AwU3l0dGxOSzlhQ2FZVE5IMFctWm9jMlI4ZTFwNEJDLVc1c0pXZ20yODE3Mzd3SmQtRHE1dEFBS19JUnNrcDRnNF81allmM0R2ODh1Nm9LenNpSnJyZ07SAaIBQVVfeXFMT0dUVkp2cVBuNERKb1JEZ0MwbzNtYXZ0NUxsbjZ0QldsdDU2c1ZlUy1jRmtpb25vYlNLeFk4V0REdWpLVzlBbWRtYTVYVEtKZkxzMEF4OTNCV2ZBUEFyclRKUW9FQlhKMGxEazdLeEdLMzFCb2ktU3RSU0NIb0xLeThGMEZscWdBS19wdkF5WUhTdTBGR1NyN3JXVWJBa2lUWWhR?oc=5)
-
----
-
-### [Millions of Americans Use Cannabis to Help Them Sleep. It Could Be Doing The Opposite.](https://news.google.com/rss/articles/CBMiswFBVV95cUxPczRYMGYtTUVQOFMtQ0dIdWpLOXo4d0ZDVm5QY05ZYTBnQTlOVTFsdGQwc2FMU0I3UVJKVlZIQzR6Z21yT01nRnZWTTlud1FHOEZfQ0Jza3ZLVXF5Q1ZQNnUzVEpaYXl6anBUbjZReWVFUDhxYi1FQWd6YTFxV3RHMUJqUEJwbVhKMFlrMFBfNTNfa2NNSnA5Z1ZFb0JxOS1zSVVzVGJMM3lfMVZjXzBuRTlYQQ?oc=5)
-
-2026-10-16 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
-
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiswFBVV95cUxPczRYMGYtTUVQOFMtQ0dIdWpLOXo4d0ZDVm5QY05ZYTBnQTlOVTFsdGQwc2FMU0I3UVJKVlZIQzR6Z21yT01nRnZWTTlud1FHOEZfQ0Jza3ZLVXF5Q1ZQNnUzVEpaYXl6anBUbjZReWVFUDhxYi1FQWd6YTFxV3RHMUJqUEJwbVhKMFlrMFBfNTNfa2NNSnA5Z1ZFb0JxOS1zSVVzVGJMM3lfMVZjXzBuRTlYQQ?oc=5)
 
 ---
 
@@ -81,11 +89,19 @@ Source: [Fox News](https://news.google.com/rss/articles/CBMinwFBVV95cUxOUjN6QU9j
 
 ---
 
-### [How a laboratory accident revealed a new way to rescue dying corals](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaWlqR05hNGpKajF3X1ltZ1JTMTVmUWdfRmN6MWw0Z2tnVWo3eE5YLUtwMVJLTVFKcUZCbGo0RXpPcXpVV05PWVo4Rm5aRW5XaWJuc3M4Z1N4QmpSZ0dDMklBTWFxckhUR3Z6NGw2ZmstN2Y5SFRwOGVST2U2VFBMZVZnbERSZ2pQWDZERS1YdWREbndmbzZRY3RyQzBrdkxQeFFUNjd3aTVhNUhiV2I0TW1tN2xjU2N4eHJQTXY0THVoQQ?oc=5)
+### [Institute led by UW Nobel winner uses AI to build molecular scissors targeting disease proteins](https://news.google.com/rss/articles/CBMixAFBVV95cUxNbmRkTlBzYUhYLXFEWlRVak1NU3I3UlVMWEo5eGNLeENCQXc1dUN4WldteTJTZk9WX0llUUgyZXExdTBwaF85NnZqSTMzV3lZaFNUbUFwNDExZmhZUGxMdm5ya1RIdS1faTFjRVB6SHFUTlRiVXliM3pMX1RJX2RobVRqdkV3UEF1N3d4c2NEMVJkak02dnoycVRSWGJHQzhaYldkVnBKRVJxOS1zbHFqWEZNV2lJNklsSUo1T2lIOUhGMFll?oc=5)
 
-2026-10-15 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-10-14 <span class="news-indication-tag">UC</span>
 
-Source: [Euronews.com](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaWlqR05hNGpKajF3X1ltZ1JTMTVmUWdfRmN6MWw0Z2tnVWo3eE5YLUtwMVJLTVFKcUZCbGo0RXpPcXpVV05PWVo4Rm5aRW5XaWJuc3M4Z1N4QmpSZ0dDMklBTWFxckhUR3Z6NGw2ZmstN2Y5SFRwOGVST2U2VFBMZVZnbERSZ2pQWDZERS1YdWREbndmbzZRY3RyQzBrdkxQeFFUNjd3aTVhNUhiV2I0TW1tN2xjU2N4eHJQTXY0THVoQQ?oc=5)
+Source: [GeekWire](https://news.google.com/rss/articles/CBMixAFBVV95cUxNbmRkTlBzYUhYLXFEWlRVak1NU3I3UlVMWEo5eGNLeENCQXc1dUN4WldteTJTZk9WX0llUUgyZXExdTBwaF85NnZqSTMzV3lZaFNUbUFwNDExZmhZUGxMdm5ya1RIdS1faTFjRVB6SHFUTlRiVXliM3pMX1RJX2RobVRqdkV3UEF1N3d4c2NEMVJkak02dnoycVRSWGJHQzhaYldkVnBKRVJxOS1zbHFqWEZNV2lJNklsSUo1T2lIOUhGMFll?oc=5)
+
+---
+
+### [Weight loss with GLP-1s: What are the best ways to maintain results? - Medical News Today](https://news.google.com/rss/articles/CBMisAFBVV95cUxPOTBwalZMY0hiZk9CSHJTbGNlWHoyTlJiUW9pMUp1ZkEwYjVZSEtScEh6d2poUXN4ZkZEOWVKSlk5OGt4ZmRyY3dNTnB6RktMV2UtXzgzR0MtV2pMekxuekpxUDQxd1pDUXk2N0tWbTFqb3hOVk1rYVFYZHBRY2I3UnBkWkVFTTNDdFJzMFFBTjdUTFVUNDIzNy1KZ2oweGFaZjFkeXZxRkZ6aGNneWVSYQ?oc=5)
+
+2026-10-14 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [Medical News Today](https://news.google.com/rss/articles/CBMisAFBVV95cUxPOTBwalZMY0hiZk9CSHJTbGNlWHoyTlJiUW9pMUp1ZkEwYjVZSEtScEh6d2poUXN4ZkZEOWVKSlk5OGt4ZmRyY3dNTnB6RktMV2UtXzgzR0MtV2pMekxuekpxUDQxd1pDUXk2N0tWbTFqb3hOVk1rYVFYZHBRY2I3UnBkWkVFTTNDdFJzMFFBTjdUTFVUNDIzNy1KZ2oweGFaZjFkeXZxRkZ6aGNneWVSYQ?oc=5)
 
 ---
 
@@ -102,22 +118,6 @@ Source: [Food & Wine](https://news.google.com/rss/articles/CBMikgFBVV95cUxNWVdpU
 2026-10-13 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
 
 Source: [Yahoo Health](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeEpFYi1IRF90Vjh6LUpXY0hvTlVMeEk1U2lvZGU1d1ByUzBza1lGSlFTY2lxVTZtM3Q0UjNjOFhFMlZNcnZIbVpzSGhRS05obW1ENFltSGdoeWVTUG1VTWJRTDZIUjZHNE1TYy14VVdRNEl0VUE4cjYxOUlLRHpZNHg5SEUwcWh1N05UZnpDa3lxSFl3MGIzRjhsUS0wNUZfVGZiNmJjVlo1WlNCX1AxbE1DWEg1Q0xj?oc=5)
-
----
-
-### [Clonal heterogeneity in human pancreatic ductal adenocarcinoma and its impact on tumor progression](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EVGxXeGVFZjUyaGxsNHhiTnFBUGRlTFFUQ0dlV2NOVlVZYzJQZWpkQVZZMzJsOWE3RlVXUWpITW9VX3gyRzFSTHRTUjBvelNDZllET1h6RW5kRE5mS01V?oc=5)
-
-2026-10-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">UC</span>
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9EVGxXeGVFZjUyaGxsNHhiTnFBUGRlTFFUQ0dlV2NOVlVZYzJQZWpkQVZZMzJsOWE3RlVXUWpITW9VX3gyRzFSTHRTUjBvelNDZllET1h6RW5kRE5mS01V?oc=5)
-
----
-
-### [9 Best Fruits to Help Reduce Cancer Risk with Fiber and ‘Potent’ Antioxidants](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTjI3N19Qd0RZeS1fTjJ6Y3RRSnZZeHdMQnpjREljTVJQWEFEeVkxX1BwZC1NUUphUkFiRWMzZElwd05ZOVl0LU5QQ19wbmw1WVpVcHVqRXMtUkhlMDl0eFJvVWVfRGp5Nmc4UXNDakkxcVVRMDAwTGhLcVMxa3V4ZE84QnJLQjdESEVZalBnNkRaeFBrenpNcDN4UQ?oc=5)
-
-2026-10-13 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">UC</span>
-
-Source: [TODAY.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTjI3N19Qd0RZeS1fTjJ6Y3RRSnZZeHdMQnpjREljTVJQWEFEeVkxX1BwZC1NUUphUkFiRWMzZElwd05ZOVl0LU5QQ19wbmw1WVpVcHVqRXMtUkhlMDl0eFJvVWVfRGp5Nmc4UXNDakkxcVVRMDAwTGhLcVMxa3V4ZE84QnJLQjdESEVZalBnNkRaeFBrenpNcDN4UQ?oc=5)
 
 ---
 

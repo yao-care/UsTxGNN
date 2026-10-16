@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "CAD (heart disease) News"
+title: "CVD (heart disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about CAD (heart disease). 5 articles, 1 related drugs."
+description: "Health news about CVD (heart disease). 6 articles, 1 related drugs."
 permalink: /news/heart-disease/
 ---
 
-# CAD (heart disease) News
+# CVD (heart disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about CAD (heart disease)?">
-<strong>CAD (heart disease)</strong> currently has <strong>5 news articles</strong> and 1 related drugs.
+<p class="key-answer" data-question="What news is there about CVD (heart disease)?">
+<strong>CVD (heart disease)</strong> currently has <strong>6 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “CAD” and lists the drugs in the UsTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “CVD” and lists the drugs in the UsTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -29,13 +29,21 @@ This page brings together the latest health news about “CAD” and lists the d
 </ul>
 </div>
 
-## Related News (5)
+## Related News (6)
 
-### [Hypertension treatment could avert over 500,000 heart disease deaths - Medical News Today](https://news.google.com/rss/articles/CBMiswFBVV95cUxPa2FXSzd0WENlT2hKRk1JSTY2Z0FPSzl0ZlI3MVBpemJ4TW83ZFlSQVJoZDdVdU92NVRKV1pBWlZ5Q0VsTmFpMFpCcDVHSHEtVWhJZmRCeURPSjhneHA3S2g2LTEzRzJ5dVBuVVhCWWVmaXE1ZEF5OTh3dU14MkNfa2YzWUxtd0ZUUHJ1NVpsNU51d0NTaGFXZVMxUXFrblYwS2VySWxER01RSTZZUnlxNUdQZw?oc=5)
+### [Over 500,000 deaths a year could be prevented by managing blood pressure](https://news.google.com/rss/articles/CBMieEFVX3lxTE5tOEhIUHF6ZThBRGRZRWtkVzNwbDhMQ3h3RE56bTE5U2d5ajF1V2FOZlpOaDlUdDk3WkF3cF85RkowdldaTV9TVzZZSGctLUJGMllyN0VaUHh0TzJKdzNKelFxUENJbVJGSTVYeVphREJrVVhxN1dSbg?oc=5)
 
 2026-10-16
 
-Source: [Medical News Today](https://news.google.com/rss/articles/CBMiswFBVV95cUxPa2FXSzd0WENlT2hKRk1JSTY2Z0FPSzl0ZlI3MVBpemJ4TW83ZFlSQVJoZDdVdU92NVRKV1pBWlZ5Q0VsTmFpMFpCcDVHSHEtVWhJZmRCeURPSjhneHA3S2g2LTEzRzJ5dVBuVVhCWWVmaXE1ZEF5OTh3dU14MkNfa2YzWUxtd0ZUUHJ1NVpsNU51d0NTaGFXZVMxUXFrblYwS2VySWxER01RSTZZUnlxNUdQZw?oc=5)
+Source: [AOL.com](https://news.google.com/rss/articles/CBMieEFVX3lxTE5tOEhIUHF6ZThBRGRZRWtkVzNwbDhMQ3h3RE56bTE5U2d5ajF1V2FOZlpOaDlUdDk3WkF3cF85RkowdldaTV9TVzZZSGctLUJGMllyN0VaUHh0TzJKdzNKelFxUENJbVJGSTVYeVphREJrVVhxN1dSbg?oc=5)
+
+---
+
+### [CDC lags in hiring behind other health agencies after DOGE cuts, union says - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMimwFBVV95cUxQeDZDNHcxSldQVG1FU1cxeEJZdE8zNnBRMVREck15eHpTb2hhYTBpYmZSakJpUVNEcS1Qc1ZWWGdQNThSWndkbzFRSDBTR181LThySjZEcFN0YXVPbWJ5QzhQN0hjdEp1ZU5WUk1PaGZJdmFqYUQ1djBtenZXeVloX0RfMGVRZUh5azBiNmd4Znd6Sk5lcnpSc1k4RdIBoAFBVV95cUxNcE11SUhhQzVGUWw2UVBOa1RkRFBxUEFBYnhyTktESnFNUXNGMEtGSkJDTWJEMFBOZ0JDc1dNc3FGZnY1NWtld0VjNWhpYVdzMXVMQUxMUV9jYk1pTEtQV2dwRDgzNTRNdjg5Z1pKdFU0bTlVbmxWYW12V2N6OVhWdGpoXzh5OE9GUFFfNVpHeDNZQzNEc1Jibk9SV2N1XzhG?oc=5)
+
+2026-10-16
+
+Source: [ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMimwFBVV95cUxQeDZDNHcxSldQVG1FU1cxeEJZdE8zNnBRMVREck15eHpTb2hhYTBpYmZSakJpUVNEcS1Qc1ZWWGdQNThSWndkbzFRSDBTR181LThySjZEcFN0YXVPbWJ5QzhQN0hjdEp1ZU5WUk1PaGZJdmFqYUQ1djBtenZXeVloX0RfMGVRZUh5azBiNmd4Znd6Sk5lcnpSc1k4RdIBoAFBVV95cUxNcE11SUhhQzVGUWw2UVBOa1RkRFBxUEFBYnhyTktESnFNUXNGMEtGSkJDTWJEMFBOZ0JDc1dNc3FGZnY1NWtld0VjNWhpYVdzMXVMQUxMUV9jYk1pTEtQV2dwRDgzNTRNdjg5Z1pKdFU0bTlVbmxWYW12V2N6OVhWdGpoXzh5OE9GUFFfNVpHeDNZQzNEc1Jibk9SV2N1XzhG?oc=5)
 
 ---
 

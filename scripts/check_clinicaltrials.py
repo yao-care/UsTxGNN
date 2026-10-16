@@ -176,12 +176,19 @@ def search_trials(drug_name: str, days_back: int = 7, conditions: list = None) -
         "pageSize": 50,
         "fields": "NCTId,BriefTitle,OverallStatus,Phase,EnrollmentCount,Condition,LastUpdatePostDate,InterventionName,InterventionType,InterventionOtherName"
     }
-    conds = [f'"{_clean_condition(c)}"' for c in (conditions or []) if len(_clean_condition(c)) > 3]
+    # ClinicalTrials.gov 對過長片語回 400「Too complicated query」：略過超過 6 個字的疾病名
+    conds = [f'"{_clean_condition(c)}"' for c in (conditions or [])
+             if len(_clean_condition(c)) > 3 and len(_clean_condition(c).split()) <= 6]
+    if conditions and not conds:
+        return []
     if conds:
         params["query.cond"] = " OR ".join(conds)
 
     try:
         response = requests.get(API_BASE, params=params, timeout=30)
+        if response.status_code == 400 and len(conds) > 3:
+            params["query.cond"] = " OR ".join(conds[:3])
+            response = requests.get(API_BASE, params=params, timeout=30)
         response.raise_for_status()
         data = response.json()
         return [s for s in data.get("studies", []) if _role_bound(s, drug_name)]

@@ -3,7 +3,7 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 10 articles, 2 related drugs."
+description: "Health news about flu (influenza). 9 articles, 2 related drugs."
 permalink: /news/influenza/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/influenza/
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>10 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>9 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,13 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (10)
+## Related News (9)
 
-### [Opinion: Influencers and biohackers swear by fasting. Here’s what the science says.](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVlpaNHR3YkJRQkVMa2xqcTMxY2hNNEwtQW04eG5RNXJlazBpdWxUZFJrWGY1RGxldkYzQUhfWlZQUnU4d0ZjOWQwdVRRS3FoNG9vLTdzb2d2dUhXZWEwSnF0eDFVbkszcHFBSEFZWmlyN215VlFZRjcxaVBkTHZraFUtVjl3V3VlMEd2VFE0QUpBYWt3UGdnaFZwRFNHeG5hNVh4VXZKQlNhS1VZLWplcEg1Ukw?oc=5)
+### [A Reporter Who Saw Covid Coming Has Died - The New York Times](https://news.google.com/rss/articles/CBMidkFVX3lxTE1jRnFPdUJrbnVoNzJDTkc1UU1ta2JDTVdmX29ad1lzd2s1ZkNySkFHZVZZRjR1bEZMdTd1UVI0dGtaRW1vcldramJmVDlBZHlOX2dFU19NVThYcDVJSFgzbEtwR3RXUnFZdjF5NFphQm5laHdTYXc?oc=5)
 
 2026-10-17
 
-Source: [MarketWatch](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVlpaNHR3YkJRQkVMa2xqcTMxY2hNNEwtQW04eG5RNXJlazBpdWxUZFJrWGY1RGxldkYzQUhfWlZQUnU4d0ZjOWQwdVRRS3FoNG9vLTdzb2d2dUhXZWEwSnF0eDFVbkszcHFBSEFZWmlyN215VlFZRjcxaVBkTHZraFUtVjl3V3VlMEd2VFE0QUpBYWt3UGdnaFZwRFNHeG5hNVh4VXZKQlNhS1VZLWplcEg1Ukw?oc=5)
+Source: [The New York Times](https://news.google.com/rss/articles/CBMidkFVX3lxTE1jRnFPdUJrbnVoNzJDTkc1UU1ta2JDTVdmX29ad1lzd2s1ZkNySkFHZVZZRjR1bEZMdTd1UVI0dGtaRW1vcldramJmVDlBZHlOX2dFU19NVThYcDVJSFgzbEtwR3RXUnFZdjF5NFphQm5laHdTYXc?oc=5)
 
 ---
 
@@ -77,14 +77,6 @@ Source: [Prevention](https://news.google.com/rss/articles/CBMijAFBVV95cUxQZy1rRF
 2026-10-16
 
 Source: [The Washington Post](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLWxvZHJHYjlyT0puRTlFQ21qRWY3aXFhd0VnS2RxbDk5REhUS0kzdHN4aklMc1Y5a3J1cXZRMXg4OURZUzFQZ3NRVzd6SjNUT2wzbVRMUU1iV1lrZTc0LVZxenA1RXVEcTZxYmhweHdtUzdLR0JuTnR0Ulh1Zl9TTnBRY2FNR21sVlNMQ3d6LUxyT0F6NjhELVNwTjM3WnVpN09PUnUxaEdjdHNwRnFJTWl3RGNsNVg1?oc=5)
-
----
-
-### [A Colorado child died from flu, the first pediatric death of the viral respiratory season - Colorado Public Radio](https://news.google.com/rss/articles/CBMihwFBVV95cUxQN3hHQTJIdzJleXpTRVVPX25UNksyQ1ZSVkhMWkZSaHlEc2pOM1hMdW1kYTNlNkR2YmQ3dG5pSGlENVFicVQtSzJmMFBJdFVuNHNpa2MtR0hINm9iOFFqamNKZ3RDMUd2V0ZIcTl2LVBTSm5iQ3pJYkxzUUdSWE9BTDVpamtucDg?oc=5)
-
-2026-10-15
-
-Source: [Colorado Public Radio](https://news.google.com/rss/articles/CBMihwFBVV95cUxQN3hHQTJIdzJleXpTRVVPX25UNksyQ1ZSVkhMWkZSaHlEc2pOM1hMdW1kYTNlNkR2YmQ3dG5pSGlENVFicVQtSzJmMFBJdFVuNHNpa2MtR0hINm9iOFFqamNKZ3RDMUd2V0ZIcTl2LVBTSm5iQ3pJYkxzUUdSWE9BTDVpamtucDg?oc=5)
 
 ---
 

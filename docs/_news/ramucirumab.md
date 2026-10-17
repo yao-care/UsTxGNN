@@ -14,7 +14,7 @@ permalink: /news/ramucirumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Ramucirumab?">
-<strong>Ramucirumab</strong> currently has <strong>8 news articles</strong>, with 10 predicted indications.
+<strong>Ramucirumab</strong> currently has <strong>7 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (7)
 
 ### [A 26-year-old felt her concerns were being dismissed. Then she was diagnosed with breast cancer. - CBS News](https://news.google.com/rss/articles/CBMijAFBVV95cUxQMWY4d0pSQlp0bV8wc2I1TVd0NTRWay1tTUpqNlQ2bFdGcVpKX3BXcHFRXzBnSEUzajRDdlpBUEN1NktLS3NIeURGNDE2WE1VYzhTZnRCS3YwV3dPdlFLNWc3NkEyZGw3UTU1Q3lyVUVObFFkU2p3TFZENnB3UnUzOGsxbExUREF0QXpqbQ?oc=5)
 
@@ -51,19 +51,19 @@ Source: [CBS News](https://news.google.com/rss/articles/CBMijAFBVV95cUxQMWY4d0pS
 
 ---
 
-### [U of A cancer researcher dies of same disease she fought to cure - Arizona Daily Star](https://news.google.com/rss/articles/CBMingFBVV95cUxOZlhqWUZTUnBlUVUwV1JmMVZiZDA2YnNQNHdEd01telp3N2RZREwxZUJLT2VJdGN1NnYzbWVSbmJKSTVuNk0wdXUzdFJubDhHRDhNRHdIeGJ6REFleUo1cHZHemhqYUxYdHkxTHVSdFNaV1MyRFVQbXVxZUxPdTVQcVBxSnRRRE53b0FkU0V0Q3VZdDRfMlRySWpOakQ3QQ?oc=5)
-
-2026-10-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
-
-Source: [Arizona Daily Star](https://news.google.com/rss/articles/CBMingFBVV95cUxOZlhqWUZTUnBlUVUwV1JmMVZiZDA2YnNQNHdEd01telp3N2RZREwxZUJLT2VJdGN1NnYzbWVSbmJKSTVuNk0wdXUzdFJubDhHRDhNRHdIeGJ6REFleUo1cHZHemhqYUxYdHkxTHVSdFNaV1MyRFVQbXVxZUxPdTVQcVBxSnRRRE53b0FkU0V0Q3VZdDRfMlRySWpOakQ3QQ?oc=5)
-
----
-
 ### [Vaping Strongly Linked to Lung Cancer](https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZbzV6TDYtSG42bEhpcU1KbExPNkZvWXNRZFZHNVpUaG5jWm1HNmRYeTJFMHktR0I0cGNZdktZY2JZWTBLUHNkcTRmdExndnZ3RDRFOTlaelJhVFRHR0FuT1lmSkhPVnUyRVZQVHljT0lUVVNvMzRqTzg4LUQ5QQ?oc=5)
 
 2026-10-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
 
 Source: [Futurism](https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZbzV6TDYtSG42bEhpcU1KbExPNkZvWXNRZFZHNVpUaG5jWm1HNmRYeTJFMHktR0I0cGNZdktZY2JZWTBLUHNkcTRmdExndnZ3RDRFOTlaelJhVFRHR0FuT1lmSkhPVnUyRVZQVHljT0lUVVNvMzRqTzg4LUQ5QQ?oc=5)
+
+---
+
+### [Dedicated Arizona doctor and cancer researcher remembered for her impact - ABC15 Arizona](https://news.google.com/rss/articles/CBMirwFBVV95cUxOWFlRRmEyemQwNnFfcWZLRHVtRzJsbkxYZ2Y2MVpiNjBESnJ4WUtQRmVGQjltZDlaVEpwb0dLSWpleXkwMDNtRGFPNGRiQUdrRGpScC1WaVpDWjhPNG44dC01QTdnUFNUVjE1U1hNUV9lRVZ6X19jVzJvTWhyM1lhWHRVeTJTMngzLVJ1dzJ6LWZVRl9TSFc5c2ZZSnh0WGdrMWlUUVVPejB5aDgzWXNR?oc=5)
+
+2026-10-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+
+Source: [ABC15 Arizona](https://news.google.com/rss/articles/CBMirwFBVV95cUxOWFlRRmEyemQwNnFfcWZLRHVtRzJsbkxYZ2Y2MVpiNjBESnJ4WUtQRmVGQjltZDlaVEpwb0dLSWpleXkwMDNtRGFPNGRiQUdrRGpScC1WaVpDWjhPNG44dC01QTdnUFNUVjE1U1hNUV9lRVZ6X19jVzJvTWhyM1lhWHRVeTJTMngzLVJ1dzJ6LWZVRl9TSFc5c2ZZSnh0WGdrMWlUUVVPejB5aDgzWXNR?oc=5)
 
 ---
 
@@ -83,11 +83,11 @@ Source: [KPTV](https://news.google.com/rss/articles/CBMiswFBVV95cUxQbURPQ2JUMjlM
 
 ---
 
-### [Large study finds no link between ultra-processed food and colorectal cancer - NBC News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUm5MenREWXJHdGtsRFVUN0RRb1J2dFFCalNYeTRRNEhCTkc3SzBxLTlxbG9OdXI5NjFpV1MwdGlfZkM4RU01ZC1fblJKV2tQTlg1ejJSa3JzWUhzZW8yR2luZ2Y4QlVDejBuNmMwTGRlWk1fbTFiS05ENVNiVEI0akVfWjRlVXl1dDZIYWNZam43VzYzN0ctQnlMX0VmYm5odHlXaGhpUldFQQ?oc=5)
+### [Associations of food processing and dietary risk factors with colorectal cancer incidence in the NIH-AARP Diet and Health Study: A cohort study](https://news.google.com/rss/articles/CBMihAFBVV95cUxPMDVkUllwWlNTS3dEZE8yQmk3Wlc1MmcySzQyM0RBYm9BejltTHRYV0NvY3NqWmlDbFFiSVdYZThYOGRRUVkxdGdwQmRrc2Vfek1GU2lWMTU0VFBVUVp0OVp0OWJGWDl3X1prQzAxZ045QWRUckxCUTdXQm1McDJVQW1ydkw?oc=5)
 
 2026-10-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
-Source: [NBC News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUm5MenREWXJHdGtsRFVUN0RRb1J2dFFCalNYeTRRNEhCTkc3SzBxLTlxbG9OdXI5NjFpV1MwdGlfZkM4RU01ZC1fblJKV2tQTlg1ejJSa3JzWUhzZW8yR2luZ2Y4QlVDejBuNmMwTGRlWk1fbTFiS05ENVNiVEI0akVfWjRlVXl1dDZIYWNZam43VzYzN0ctQnlMX0VmYm5odHlXaGhpUldFQQ?oc=5)
+Source: [PLOS](https://news.google.com/rss/articles/CBMihAFBVV95cUxPMDVkUllwWlNTS3dEZE8yQmk3Wlc1MmcySzQyM0RBYm9BejltTHRYV0NvY3NqWmlDbFFiSVdYZThYOGRRUVkxdGdwQmRrc2Vfek1GU2lWMTU0VFBVUVp0OVp0OWJGWDl3X1prQzAxZ045QWRUckxCUTdXQm1McDJVQW1ydkw?oc=5)
 
 ---
 
@@ -96,14 +96,6 @@ Source: [NBC News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUm5MenRE
 2026-10-14 <span class="news-indication-tag">cancer</span>
 
 Source: [The New York Times](https://news.google.com/rss/articles/CBMie0FVX3lxTE5YMzFhangxQ0pJY2h3QTFCc21jYVZZOGpyOUtvZWQ4Y3lSUmJ0V0xiS3A4UF81RTU0amJXUVNLMVBxcXd6cng4TTYyY3JaQUVjZUtEdU1vQks4cVFXenN4dlVMUmpZel82aVdtb3F4bXhkSWp6SGlYeUwzNA?oc=5)
-
----
-
-### [Personalized neoantigen-targeting cancer vaccines in ovarian cancer: a phase 1 trial](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qYkRuRHpMMUNMSXNUbmZkbmtNRUdtampSclVLc051UHI4Ym5SNWhsWDVvQkx0RHRFaHBOdklvZ0FNTnVSekNZNGhGQlItUnJkNDFfcnR4amRxWHJsaFAw?oc=5)
-
-2026-10-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">OA</span>
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qYkRuRHpMMUNMSXNUbmZkbmtNRUdtampSclVLc051UHI4Ym5SNWhsWDVvQkx0RHRFaHBOdklvZ0FNTnVSekNZNGhGQlItUnJkNDFfcnR4amRxWHJsaFAw?oc=5)
 
 ---
 

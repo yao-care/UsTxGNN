@@ -3,7 +3,7 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 14 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 10 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/inflammatory-bowel-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>14 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>10 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,13 +34,21 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (14)
+## Related News (10)
 
-### [Opinion: Influencers and biohackers swear by fasting. Here’s what the science says.](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVlpaNHR3YkJRQkVMa2xqcTMxY2hNNEwtQW04eG5RNXJlazBpdWxUZFJrWGY1RGxldkYzQUhfWlZQUnU4d0ZjOWQwdVRRS3FoNG9vLTdzb2d2dUhXZWEwSnF0eDFVbkszcHFBSEFZWmlyN215VlFZRjcxaVBkTHZraFUtVjl3V3VlMEd2VFE0QUpBYWt3UGdnaFZwRFNHeG5hNVh4VXZKQlNhS1VZLWplcEg1Ukw?oc=5)
+### [A Reporter Who Saw Covid Coming Has Died - The New York Times](https://news.google.com/rss/articles/CBMidkFVX3lxTE1jRnFPdUJrbnVoNzJDTkc1UU1ta2JDTVdmX29ad1lzd2s1ZkNySkFHZVZZRjR1bEZMdTd1UVI0dGtaRW1vcldramJmVDlBZHlOX2dFU19NVThYcDVJSFgzbEtwR3RXUnFZdjF5NFphQm5laHdTYXc?oc=5)
 
 2026-10-17
 
-Source: [MarketWatch](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVlpaNHR3YkJRQkVMa2xqcTMxY2hNNEwtQW04eG5RNXJlazBpdWxUZFJrWGY1RGxldkYzQUhfWlZQUnU4d0ZjOWQwdVRRS3FoNG9vLTdzb2d2dUhXZWEwSnF0eDFVbkszcHFBSEFZWmlyN215VlFZRjcxaVBkTHZraFUtVjl3V3VlMEd2VFE0QUpBYWt3UGdnaFZwRFNHeG5hNVh4VXZKQlNhS1VZLWplcEg1Ukw?oc=5)
+Source: [The New York Times](https://news.google.com/rss/articles/CBMidkFVX3lxTE1jRnFPdUJrbnVoNzJDTkc1UU1ta2JDTVdmX29ad1lzd2s1ZkNySkFHZVZZRjR1bEZMdTd1UVI0dGtaRW1vcldramJmVDlBZHlOX2dFU19NVThYcDVJSFgzbEtwR3RXUnFZdjF5NFphQm5laHdTYXc?oc=5)
+
+---
+
+### [Alcohol Doesn't Just Affect Neurons – It Triggers Immune Cells to Destroy The Brain's Structural Matrix, Mouse Study Shows](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUXVJU29SN3ZxdTM3eHRlUFB3NW9aM3d6SjR6X2dxRXVOXzM0SGFUQXZZdG1rdzhScTJ2U0R4MHZ5UHEzWkxfdFlHbktPenowRFliZjlWNzM4Q3J2S001a1ZyNldUS3Q5WklDa215NTVpZ2tmTUt4V1ZCSHpDRjhLMnFPSTFHM0JNTkhKSTJxOWNTaDM0YkREc3YtcUlzekV2LTRYcTRIcE9xUkJ6dHBiSW1ZOXU0UVBhTFVveUxYUDVzdnF2YjZoRzhCOFcxa1B6eWlJblE2T1ozekV1Mm9j?oc=5)
+
+2026-10-17
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUXVJU29SN3ZxdTM3eHRlUFB3NW9aM3d6SjR6X2dxRXVOXzM0SGFUQXZZdG1rdzhScTJ2U0R4MHZ5UHEzWkxfdFlHbktPenowRFliZjlWNzM4Q3J2S001a1ZyNldUS3Q5WklDa215NTVpZ2tmTUt4V1ZCSHpDRjhLMnFPSTFHM0JNTkhKSTJxOWNTaDM0YkREc3YtcUlzekV2LTRYcTRIcE9xUkJ6dHBiSW1ZOXU0UVBhTFVveUxYUDVzdnF2YjZoRzhCOFcxa1B6eWlJblE2T1ozekV1Mm9j?oc=5)
 
 ---
 
@@ -49,22 +57,6 @@ Source: [MarketWatch](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVlpaN
 2026-10-17
 
 Source: [AOL.com](https://news.google.com/rss/articles/CBMifEFVX3lxTE16a2N1QXRSbG10NzlMVWdXM192VWQxSkpxVFZDQjF3RFVOcEZaeXE0VWZCZkdjUTlHc25sVDVickI2ckFXMWN4NHhtODJab3Bod2JfOWtiSklKaTN5RE9yUFJNZTBNdTk2UVN1VXhVTUszQWhTeEY4c3g5MVA?oc=5)
-
----
-
-### [This Diet And Exercise Combination Put Early-Onset Diabetes Into Remission in Half of Participants](https://news.google.com/rss/articles/CBMixgFBVV95cUxQamFKTWt6YzJNd0VaWlpzSDVyZWp6OFFmYzVJdHdBakM2MG9mQUVvSjVVWGIta2wxTTNyNXloTFRTeWlJbXZtMGQ3eUY3cGdnUUFXRldMV0hWd1FCeVdObkhfSE5ZSDNTV2JZRDczNzE0ZGhfVUQzbTJacnU2bk96bHo2ODM4QVhHcDcwS21Yc0lEb1lNdmRyc1VObmtjdDhlNUEwY240ZDNLU0hJSWZDTzFkbkFxOW5PQU5peTV5TVpfSlNPY1E?oc=5)
-
-2026-10-16
-
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMixgFBVV95cUxQamFKTWt6YzJNd0VaWlpzSDVyZWp6OFFmYzVJdHdBakM2MG9mQUVvSjVVWGIta2wxTTNyNXloTFRTeWlJbXZtMGQ3eUY3cGdnUUFXRldMV0hWd1FCeVdObkhfSE5ZSDNTV2JZRDczNzE0ZGhfVUQzbTJacnU2bk96bHo2ODM4QVhHcDcwS21Yc0lEb1lNdmRyc1VObmtjdDhlNUEwY240ZDNLU0hJSWZDTzFkbkFxOW5PQU5peTV5TVpfSlNPY1E?oc=5)
-
----
-
-### [Stanford Just Figured Out How to Lead Dying Coral Reefs to a ‘Fast and Full Recovery’](https://news.google.com/rss/articles/CBMitAFBVV95cUxOZHVQWkVhUDVWT21tU01VWHFVMkp6UldqRmltMTZ6RHRVcFdFa0RfVF9DLTFwVkhXaWRMLWdOZWNNdzNfbHM4dkkyclByRXFsTFRWUkFScUNKOWhCdDN2RjlsMWMzR2VOamZIYUk3bUI0S2NBb2RHTjNJN1pSTldkMG9ia25xLWhQdnZFdkJJOGd0VFI3eGlCOGw2R3doY0hRNWV6Q0dWUDNCWE1mQVp0VVJtN2Q?oc=5)
-
-2026-10-16
-
-Source: [Gizmodo](https://news.google.com/rss/articles/CBMitAFBVV95cUxOZHVQWkVhUDVWT21tU01VWHFVMkp6UldqRmltMTZ6RHRVcFdFa0RfVF9DLTFwVkhXaWRMLWdOZWNNdzNfbHM4dkkyclByRXFsTFRWUkFScUNKOWhCdDN2RjlsMWMzR2VOamZIYUk3bUI0S2NBb2RHTjNJN1pSTldkMG9ia25xLWhQdnZFdkJJOGd0VFI3eGlCOGw2R3doY0hRNWV6Q0dWUDNCWE1mQVp0VVJtN2Q?oc=5)
 
 ---
 
@@ -100,27 +92,11 @@ Source: [Reuters](https://news.google.com/rss/articles/CBMi3gFBVV95cUxORlYtUXplR
 
 ---
 
-### [Grieving Texas mom fights to ban drug feds call 'gas station heroin' - ABC13 Houston](https://news.google.com/rss/articles/CBMinAFBVV95cUxQakp5ZGIwNFVsVzh5OWZxaURxVjZXb2VoTHJjSENUd0dBRGNlcTE4NG9LQTBoNGFVQW5SVWxlR0hYSU5Yb3AwU3l0dGxOSzlhQ2FZVE5IMFctWm9jMlI4ZTFwNEJDLVc1c0pXZ20yODE3Mzd3SmQtRHE1dEFBS19JUnNrcDRnNF81allmM0R2ODh1Nm9LenNpSnJyZ07SAaIBQVVfeXFMT0dUVkp2cVBuNERKb1JEZ0MwbzNtYXZ0NUxsbjZ0QldsdDU2c1ZlUy1jRmtpb25vYlNLeFk4V0REdWpLVzlBbWRtYTVYVEtKZkxzMEF4OTNCV2ZBUEFyclRKUW9FQlhKMGxEazdLeEdLMzFCb2ktU3RSU0NIb0xLeThGMEZscWdBS19wdkF5WUhTdTBGR1NyN3JXVWJBa2lUWWhR?oc=5)
-
-2026-10-16
-
-Source: [ABC13 Houston](https://news.google.com/rss/articles/CBMinAFBVV95cUxQakp5ZGIwNFVsVzh5OWZxaURxVjZXb2VoTHJjSENUd0dBRGNlcTE4NG9LQTBoNGFVQW5SVWxlR0hYSU5Yb3AwU3l0dGxOSzlhQ2FZVE5IMFctWm9jMlI4ZTFwNEJDLVc1c0pXZ20yODE3Mzd3SmQtRHE1dEFBS19JUnNrcDRnNF81allmM0R2ODh1Nm9LenNpSnJyZ07SAaIBQVVfeXFMT0dUVkp2cVBuNERKb1JEZ0MwbzNtYXZ0NUxsbjZ0QldsdDU2c1ZlUy1jRmtpb25vYlNLeFk4V0REdWpLVzlBbWRtYTVYVEtKZkxzMEF4OTNCV2ZBUEFyclRKUW9FQlhKMGxEazdLeEdLMzFCb2ktU3RSU0NIb0xLeThGMEZscWdBS19wdkF5WUhTdTBGR1NyN3JXVWJBa2lUWWhR?oc=5)
-
----
-
-### [One Common Eating Habit Is Linked to Higher Risk of 2 Liver Diseases](https://news.google.com/rss/articles/CBMingFBVV95cUxPb0lQWi1KNmV1cjJpVFlQWXB3cDJjU3ZEZnNMYTZaeUhrYTJDS2VHUHVwTlRMOVZFZlUxOFR6V0R0QTUtSF9zZmY3T19tNzItSU1pLWVfeE5jd2RFWXd2VUdjN2Z2UU1NczFQUTI5c0VsRkNOdDlyTzh6Q3hQRlVET1QwMFhsUnU0UHRmNDZhekhJYkE2YzFqLWRIblFXUQ?oc=5)
+### [Best foods for reducing dangerous belly fat and protecting heart health - Fox News](https://news.google.com/rss/articles/CBMinwFBVV95cUxOUjN6QU9jWVo3bUNiX0RKZmhIbzFXTmhQNVcxektTVGl3aW5VR29qaHB6NnpoWnl6MC1mZGNsam9FXzY4RWZmYXZyMkVibkFxaDFuUXFYV0dfOGhuSUplSlpqejk0NkJsY01Zc2VmYTFfenpfNnUxZWV1cmlNOXpZRDlMb0tvaDYtZVJZSnRjaTBqMUVyazlaZ2JtT3VJZ0XSAaQBQVVfeXFMTUFEckp5MEdfekxFVTY3bXVLeS0zZGFKMTdvTmR1clpJOE1TNGlGdXJNY053QjB6LXdLZFZ3QTU4WEpEblM0UW9mZmpvM0Y4SllZS3pVT0JzRE96S1piVlJKelk1XzNsdFpTNGcyUndCdzM3S2tsN1plNlpGLTBid3NqbVB2Nm1SUmM3SkZoLTNFUWEtRG5PX241ODI4aUhpaGlzQWo?oc=5)
 
 2026-10-15
 
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMingFBVV95cUxPb0lQWi1KNmV1cjJpVFlQWXB3cDJjU3ZEZnNMYTZaeUhrYTJDS2VHUHVwTlRMOVZFZlUxOFR6V0R0QTUtSF9zZmY3T19tNzItSU1pLWVfeE5jd2RFWXd2VUdjN2Z2UU1NczFQUTI5c0VsRkNOdDlyTzh6Q3hQRlVET1QwMFhsUnU0UHRmNDZhekhJYkE2YzFqLWRIblFXUQ?oc=5)
-
----
-
-### [NASA Images Reveal 10,000 Young Faults on the Moon. That’s a Problem](https://news.google.com/rss/articles/CBMinAFBVV95cUxNOVY3bm5iUXpZTVdYREJjWC1aT2lyNU5qdDBoWlpDZjlDMnpoUzF0ZFdvT0s3WkZ1aDhDTHRhb09BZWNFZVlwd0hCX2U2TGxqM2pBV0tOMEdzd2htTmZMeEJNamcwQk5rZHpTUjlpOEphUkotYUFsaFFhUzVHMndPZUlQdzYyeG1Lbl9pc09CWnNIU0VwQ1lDaVNGYkw?oc=5)
-
-2026-10-15
-
-Source: [Gizmodo](https://news.google.com/rss/articles/CBMinAFBVV95cUxNOVY3bm5iUXpZTVdYREJjWC1aT2lyNU5qdDBoWlpDZjlDMnpoUzF0ZFdvT0s3WkZ1aDhDTHRhb09BZWNFZVlwd0hCX2U2TGxqM2pBV0tOMEdzd2htTmZMeEJNamcwQk5rZHpTUjlpOEphUkotYUFsaFFhUzVHMndPZUlQdzYyeG1Lbl9pc09CWnNIU0VwQ1lDaVNGYkw?oc=5)
+Source: [Fox News](https://news.google.com/rss/articles/CBMinwFBVV95cUxOUjN6QU9jWVo3bUNiX0RKZmhIbzFXTmhQNVcxektTVGl3aW5VR29qaHB6NnpoWnl6MC1mZGNsam9FXzY4RWZmYXZyMkVibkFxaDFuUXFYV0dfOGhuSUplSlpqejk0NkJsY01Zc2VmYTFfenpfNnUxZWV1cmlNOXpZRDlMb0tvaDYtZVJZSnRjaTBqMUVyazlaZ2JtT3VJZ0XSAaQBQVVfeXFMTUFEckp5MEdfekxFVTY3bXVLeS0zZGFKMTdvTmR1clpJOE1TNGlGdXJNY053QjB6LXdLZFZ3QTU4WEpEblM0UW9mZmpvM0Y4SllZS3pVT0JzRE96S1piVlJKelk1XzNsdFpTNGcyUndCdzM3S2tsN1plNlpGLTBid3NqbVB2Nm1SUmM3SkZoLTNFUWEtRG5PX241ODI4aUhpaGlzQWo?oc=5)
 
 ---
 
@@ -137,14 +113,6 @@ Source: [Medical News Today](https://news.google.com/rss/articles/CBMisAFBVV95cU
 2026-10-14
 
 Source: [Food & Wine](https://news.google.com/rss/articles/CBMikgFBVV95cUxNWVdpUkNxRDhscFU0ZWZyUHdZdHp0RDdRa1JtQVVCVXh6SEgtV0wwcHRpNmw3VmR0eXFVLUdaNjNIUnBvdkJ6dXlFNm9qaXVZVkIzelNSQWd5Z2RmdlRJZVFoVk1rMWVjZVNFODlWamRzcF81WV8zajltWWhuNjFXMlF2RnZTYkMySWZ6SXl0WUpJdw?oc=5)
-
----
-
-### [Ancient gut microbes link hunter-gatherers in Africa and forager-farmers in South America - Archaeology News Online Magazine](https://news.google.com/rss/articles/CBMihAFBVV95cUxQcnh0TVY1a1QtY0t4V3dfcDFpWU1abk81d1g2OFFpb3JtTjJuQzBObzBhV0VwODExc203cmREUExJUXRHZFBEMjhGekpzVGtaUUdqcXc3ZWpGRGlQRGM5SUVLV1EtSWxlTGJ3SlVmN3dDLVlzajNzUFgtYjlIWFJFYmtYQ1A?oc=5)
-
-2026-10-13
-
-Source: [Archaeology News Online Magazine](https://news.google.com/rss/articles/CBMihAFBVV95cUxQcnh0TVY1a1QtY0t4V3dfcDFpWU1abk81d1g2OFFpb3JtTjJuQzBObzBhV0VwODExc203cmREUExJUXRHZFBEMjhGekpzVGtaUUdqcXc3ZWpGRGlQRGM5SUVLV1EtSWxlTGJ3SlVmN3dDLVlzajNzUFgtYjlIWFJFYmtYQ1A?oc=5)
 
 ---
 

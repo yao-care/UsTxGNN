@@ -3,7 +3,7 @@ layout: default
 title: "CAD (heart disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about CAD (heart disease). 2 articles, 1 related drugs."
+description: "Health news about CAD (heart disease). 1 articles, 1 related drugs."
 permalink: /news/heart-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/heart-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about CAD (heart disease)?">
-<strong>CAD (heart disease)</strong> currently has <strong>2 news articles</strong> and 1 related drugs.
+<strong>CAD (heart disease)</strong> currently has <strong>1 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -29,21 +29,13 @@ This page brings together the latest health news about “CAD” and lists the d
 </ul>
 </div>
 
-## Related News (2)
+## Related News (1)
 
-### [3 Napping Habits May Be Linked To Dementia Years Before Diagnosis - HuffPost UK](https://news.google.com/rss/articles/CBMimwFBVV95cUxNRV9SOFdrTm95dTVrRjRad2JHS09JYy1JcXNVZ2lFcnVmWDY2UnkycGFkSU1XYnlZQzJHV1Jpb1plSjdEVm1MYURnZlhHaEFVdFM1WENxcXhFa0o4T0Fsak5ucUhGNFlwcTdpT3RYSU9CMWFMV0NZTkJNdF9rTC1FcmRnT2xYR0hMMllTeHI3b05YYVBDVEtfZHczcw?oc=5)
-
-2026-10-15
-
-Source: [HuffPost UK](https://news.google.com/rss/articles/CBMimwFBVV95cUxNRV9SOFdrTm95dTVrRjRad2JHS09JYy1JcXNVZ2lFcnVmWDY2UnkycGFkSU1XYnlZQzJHV1Jpb1plSjdEVm1MYURnZlhHaEFVdFM1WENxcXhFa0o4T0Fsak5ucUhGNFlwcTdpT3RYSU9CMWFMV0NZTkJNdF9rTC1FcmRnT2xYR0hMMllTeHI3b05YYVBDVEtfZHczcw?oc=5)
-
----
-
-### [Ovaries remain active decades after menopause, study reveals - Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxOeHdVa3NOczVYTVhDeHE5ZTM1akpNWkZUUmVZX29jcFluTVZkOEdkQnpvX0M0UUhybElkN3o5S29iRzBjR0ZRX1dmSXN5ZExad2FKUUhtbElmUS0tWEtralEyYm9QZ1VGc0NTNGxtbDBxVDZLQ25rcjJDMHZqZHd4ZHJSaw?oc=5)
+### [Ovaries Develop an Intriguing Second Role After Menopause](https://news.google.com/rss/articles/CBMijwFBVV95cUxPRVZocG1WaWtTQUxiNnVtTVZwZmlwdWJZLXRKWGhrY1RSNERHM19SUW5NVjVsVDlWSGU1aVAzbVlzZjFJbF9fR2luQ2RZSkJXcFhQRi1EQm1IS1Mwenh3NnZ4bEFLbFRfVlctVFdJZ2V0d1ZxdHJoWDQxbE15dUFzOG8xdlFVMkU5RHUtemJucw?oc=5)
 
 2026-10-14
 
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxOeHdVa3NOczVYTVhDeHE5ZTM1akpNWkZUUmVZX29jcFluTVZkOEdkQnpvX0M0UUhybElkN3o5S29iRzBjR0ZRX1dmSXN5ZExad2FKUUhtbElmUS0tWEtralEyYm9QZ1VGc0NTNGxtbDBxVDZLQ25rcjJDMHZqZHd4ZHJSaw?oc=5)
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMijwFBVV95cUxPRVZocG1WaWtTQUxiNnVtTVZwZmlwdWJZLXRKWGhrY1RSNERHM19SUW5NVjVsVDlWSGU1aVAzbVlzZjFJbF9fR2luQ2RZSkJXcFhQRi1EQm1IS1Mwenh3NnZ4bEFLbFRfVlctVFdJZ2V0d1ZxdHJoWDQxbE15dUFzOG8xdlFVMkU5RHUtemJucw?oc=5)
 
 ---
 

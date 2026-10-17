@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 482
 evidence_level: L5
 indication_count: 5
-monitor_inn: "CABERGOLINE"
-predicted_indications: ["pituitary adenocarcinoma (disease)", "progeria-short stature-pigmented nevi syndrome", "pituitary cancer", "cerebral palsy, spastic quadriplegic", "glaucoma"]
 last_modified_at: 2026-10-14
 description: "Cabergoline: predicted new indication Pituitary cancer (evidence level L5). Approved use: Hyperprolactinemia"
+monitor_inn: "CABERGOLINE"
+predicted_indications: ["progeria-short stature-pigmented nevi syndrome", "pituitary cancer", "cerebral palsy, spastic quadriplegic", "glaucoma"]
 ---
 
 # Cabergoline

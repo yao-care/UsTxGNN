@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 914
 evidence_level: L5
 indication_count: 10
-monitor_inn: "METHSUXIMIDE"
-predicted_indications: ["insomnia (disease)", "nephrogenic syndrome of inappropriate antidiuresis", "sleep disorder, initiating and maintaining sleep", "nephrogenic diabetes insipidus", "acute encephalopathy with biphasic seizures and late reduced diffusion", "epilepsy, childhood absence, susceptibility to", "restless legs syndrome", "trichotillomania", "familial mesial temporal lobe epilepsy with febrile seizures", "Wernicke-Korsakoff syndrome"]
 last_modified_at: 2026-10-14
 description: "Methsuximide: predicted new indication Insomnia (evidence level L5). Approved use: Epilepsy, absence epilepsy"
+monitor_inn: "METHSUXIMIDE"
+predicted_indications: ["insomnia (disease)", "nephrogenic syndrome of inappropriate antidiuresis", "sleep disorder, initiating and maintaining sleep", "nephrogenic diabetes insipidus", "acute encephalopathy with biphasic seizures and late reduced diffusion", "restless legs syndrome", "trichotillomania", "Wernicke-Korsakoff syndrome"]
 ---
 
 # Methsuximide

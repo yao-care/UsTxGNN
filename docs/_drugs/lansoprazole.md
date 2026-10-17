@@ -5,10 +5,10 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 835
 evidence_level: L4
 indication_count: 2
-monitor_inn: "LANSOPRAZOLE"
-predicted_indications: ["duodenogastric reflux", "duodenal obstruction"]
 last_modified_at: 2026-10-14
 description: "Lansoprazole: predicted new indication Duodenogastric reflux (evidence level L4). Approved use: Gastric ulcer, peptic ulcer disease, gastroesophageal reflux disease…"
+monitor_inn: "LANSOPRAZOLE"
+predicted_indications: ["duodenal obstruction"]
 ---
 
 # Lansoprazole

@@ -5,10 +5,10 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 931
 evidence_level: L3
 indication_count: 4
-monitor_inn: "MILTEFOSINE"
-predicted_indications: ["leishmaniasis, diffuse cutaneous", "echinococcus granulosus infectious disease", "alveolar echinococcosis", "Smouldering systemic mastocytosis"]
 last_modified_at: 2026-10-14
 description: "Miltefosine: predicted new indication Leishmaniasis, diffuse cutaneous (evidence level L3). Approved use: Leishmaniasis (including mucocutaneous and visceral leishmaniasis)"
+monitor_inn: "MILTEFOSINE"
+predicted_indications: ["echinococcus granulosus infectious disease", "alveolar echinococcosis", "Smouldering systemic mastocytosis"]
 ---
 
 # Miltefosine

@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 1232
 evidence_level: L5
 indication_count: 10
-monitor_inn: "TIPRANAVIR"
-predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "congenital human immunodeficiency virus", "AIDS related complex", "fibroma of prostate", "Brenner tumor", "benign reproductive system neoplasm", "benign prostate phyllodes tumor"]
 last_modified_at: 2026-10-14
 description: "Tipranavir: predicted new indication Simian immunodeficiency virus infection (evidence level L5). Approved use: HIV infectious disease"
+monitor_inn: "TIPRANAVIR"
+predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "fibroma of prostate", "Brenner tumor", "benign reproductive system neoplasm", "benign prostate phyllodes tumor"]
 ---
 
 # Tipranavir

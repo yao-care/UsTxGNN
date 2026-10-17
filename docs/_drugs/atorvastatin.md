@@ -5,10 +5,10 @@ parent: High Evidence (L1-L2)
 nav_order: 425
 evidence_level: L1
 indication_count: 6
-monitor_inn: "ATORVASTATIN"
-predicted_indications: ["familial hypercholesterolemia", "HIV infectious disease", "brain stem infarction", "cholesterol-ester transfer protein deficiency", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 last_modified_at: 2026-10-14
 description: "Atorvastatin: predicted new indication Familial hypercholesterolemia (evidence level L1). Approved use: Hypertriglyceridemia, stroke and cerebrovascular disorders…"
+monitor_inn: "ATORVASTATIN"
+predicted_indications: ["HIV infectious disease", "brain stem infarction", "cholesterol-ester transfer protein deficiency", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 ---
 
 # Atorvastatin

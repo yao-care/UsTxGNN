@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 556
 evidence_level: L5
 indication_count: 5
-monitor_inn: "CYCLOPHOSPHAMIDE"
-predicted_indications: ["myeloid leukemia", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "lymph node cancer"]
 last_modified_at: 2026-10-14
 description: "Cyclophosphamide: predicted new indication Myeloid leukemia (evidence level L5). Approved use: Mycosis fungoides and cutaneous T-cell lymphoma, plasma cell myeloma…"
+monitor_inn: "CYCLOPHOSPHAMIDE"
+predicted_indications: ["myeloid leukemia", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "lymph node cancer"]
 ---
 
 # Cyclophosphamide

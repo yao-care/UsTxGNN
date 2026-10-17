@@ -5,10 +5,10 @@ parent: High Evidence (L1-L2)
 nav_order: 1291
 evidence_level: L1
 indication_count: 10
-monitor_inn: "VILOXAZINE"
-predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "insomnia (disease)", "Creutzfeldt-Jakob disease", "narcolepsy, susceptibility to", "hypersomnia (disease)", "circadian rhythm sleep disorder", "chondromyxoid fibroma", "X-linked adrenoleukodystrophy", "attention deficit hyperactivity disorder, inattentive type"]
 last_modified_at: 2026-10-14
 description: "Viloxazine: predicted new indication Attention deficit-hyperactivity disorder (evidence level L1). Approved use: Narcolepsy, narcolepsy-cataplexy syndrome…"
+monitor_inn: "VILOXAZINE"
+predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "insomnia (disease)", "Creutzfeldt-Jakob disease", "hypersomnia (disease)", "circadian rhythm sleep disorder", "chondromyxoid fibroma", "X-linked adrenoleukodystrophy", "attention deficit hyperactivity disorder, inattentive type"]
 ---
 
 # Viloxazine

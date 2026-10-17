@@ -5,10 +5,10 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 717
 evidence_level: L4
 indication_count: 10
-monitor_inn: "FLUNISOLIDE"
-predicted_indications: ["atopic eczema", "bronchitis", "dermatitis, atopic", "2-hydroxyethyl methacrylate sensitization", "asthma-related traits, susceptibility to", "polyp of vocal cord", "polyp of middle ear", "fibroepithelial polyp", "polyp of frontal sinus", "polyp of external auditory canal"]
 last_modified_at: 2026-10-14
 description: "Flunisolide: predicted new indication Atopic eczema (evidence level L4). Approved use: Asthma (including intrinsic and allergic asthma), allergic rhinitis…"
+monitor_inn: "FLUNISOLIDE"
+predicted_indications: ["atopic eczema", "bronchitis", "dermatitis, atopic", "2-hydroxyethyl methacrylate sensitization", "polyp of vocal cord", "polyp of middle ear", "fibroepithelial polyp", "polyp of frontal sinus", "polyp of external auditory canal"]
 ---
 
 # Flunisolide

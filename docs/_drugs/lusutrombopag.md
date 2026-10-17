@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 880
 evidence_level: L5
 indication_count: 10
-monitor_inn: "LUSUTROMBOPAG"
-predicted_indications: ["hereditary thrombocytopenia with normal platelets", "marcothrombocytopenia with mitral valve insufficiency", "transient neonatal thrombocytopenia", "dense granule disease", "platelet storage pool deficiency", "amyotrophic lateral sclerosis", "lower motor neuron syndrome with late-adult onset", "amyotrophic lateral sclerosis, susceptibility to", "bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia"]
 last_modified_at: 2026-10-14
 description: "Lusutrombopag: predicted new indication Hereditary thrombocytopenia with normal platelets (evidence level L5). Approved use: Thrombocytopenia"
+monitor_inn: "LUSUTROMBOPAG"
+predicted_indications: ["dense granule disease", "platelet storage pool deficiency", "amyotrophic lateral sclerosis", "lower motor neuron syndrome with late-adult onset", "amyotrophic lateral sclerosis, susceptibility to", "bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia"]
 ---
 
 # Lusutrombopag

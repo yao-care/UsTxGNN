@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 546
 evidence_level: L5
 indication_count: 4
-monitor_inn: "CODEINE"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "trigeminal autonomic cephalalgia", "allergic urticaria"]
 last_modified_at: 2026-10-14
 description: "Codeine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold…"
+monitor_inn: "CODEINE"
+predicted_indications: ["trigeminal autonomic cephalalgia", "allergic urticaria"]
 ---
 
 # Codeine

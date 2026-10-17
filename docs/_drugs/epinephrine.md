@@ -5,10 +5,10 @@ parent: High Evidence (L1-L2)
 nav_order: 660
 evidence_level: L1
 indication_count: 4
-monitor_inn: "EPINEPHRINE"
-predicted_indications: ["obstructive lung disease", "food-dependent exercise-induced anaphylaxis", "Rienhoff syndrome", "respiratory malformation"]
 last_modified_at: 2026-10-14
 description: "Epinephrine: predicted new indication Obstructive lung disease (evidence level L1). Approved use: Open-angle glaucoma, bronchitis, hypotensive disorder, asthma…"
+monitor_inn: "EPINEPHRINE"
+predicted_indications: ["obstructive lung disease", "Rienhoff syndrome", "respiratory malformation"]
 ---
 
 # Epinephrine

@@ -5,10 +5,10 @@ parent: High Evidence (L1-L2)
 nav_order: 1013
 evidence_level: L1
 indication_count: 6
-monitor_inn: "PANTOPRAZOLE"
-predicted_indications: ["active peptic ulcer disease", "peptic ulcer perforation", "gastrojejunal ulcer", "duodenogastric reflux", "duodenal obstruction", "duodenal ulcer (disease)"]
 last_modified_at: 2026-10-14
 description: "Pantoprazole: predicted new indication Active peptic ulcer disease (evidence level L1). Approved use: Peptic ulcer disease, GERD, esophagitis, Zollinger-Ellison syndrome"
+monitor_inn: "PANTOPRAZOLE"
+predicted_indications: ["duodenal obstruction"]
 ---
 
 # Pantoprazole

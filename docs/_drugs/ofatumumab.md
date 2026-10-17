@@ -5,10 +5,10 @@ parent: High Evidence (L1-L2)
 nav_order: 983
 evidence_level: L2
 indication_count: 8
-monitor_inn: "OFATUMUMAB"
-predicted_indications: ["chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "follicular lymphoma", "leukemia, lymphocytic, susceptibility to", "chronic lymphocytic leukemia/small lymphocytic lymphoma", "metastatic neoplasm", "malignant spiradenoma", "Langerhans cell histiocytosis"]
 last_modified_at: 2026-10-14
 description: "Ofatumumab: predicted new indication Follicular lymphoma (evidence level L2). Approved use: Acute lymphoblastic/lymphocytic leukemia"
+monitor_inn: "OFATUMUMAB"
+predicted_indications: ["chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "follicular lymphoma", "leukemia, lymphocytic, susceptibility to", "metastatic neoplasm", "malignant spiradenoma", "Langerhans cell histiocytosis"]
 ---
 
 # Ofatumumab

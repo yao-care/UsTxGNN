@@ -5,10 +5,10 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 481
 evidence_level: L4
 indication_count: 5
-monitor_inn: "BUTENAFINE"
-predicted_indications: ["cutaneous candidiasis", "superficial mycosis", "endothrix infectious disease", "ectothrix infectious disease", "Majocchi granuloma"]
 last_modified_at: 2026-10-14
 description: "Butenafine: predicted new indication Cutaneous candidiasis (evidence level L4). Approved use: Tinea pedis, tinea corporis, tinea infection, pityriasis versicolor…"
+monitor_inn: "BUTENAFINE"
+predicted_indications: ["cutaneous candidiasis", "endothrix infectious disease", "ectothrix infectious disease", "Majocchi granuloma"]
 ---
 
 # Butenafine

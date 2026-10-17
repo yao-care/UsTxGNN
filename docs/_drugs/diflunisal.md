@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 606
 evidence_level: L5
 indication_count: 10
-monitor_inn: "DIFLUNISAL"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "spondyloarthropathy, susceptibility to", "myosclerosis", "ankylosing spondylitis", "brachyolmia", "hypermobility of coccyx", "rheumatoid vasculitis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "inflammatory spondylopathy"]
 last_modified_at: 2026-10-14
 description: "Diflunisal: predicted new indication Ankylosing spondylitis (evidence level L5). Approved use: Rheumatoid arthritis, osteoarthritis, arthropathy"
+monitor_inn: "DIFLUNISAL"
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "hypermobility of coccyx", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "inflammatory spondylopathy"]
 ---
 
 # Diflunisal

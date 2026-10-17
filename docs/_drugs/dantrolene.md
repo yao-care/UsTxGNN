@@ -5,10 +5,10 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 568
 evidence_level: L3
 indication_count: 9
-monitor_inn: "DANTROLENE"
-predicted_indications: ["malignant hyperthermia, susceptibility to", "moderate multiminicore disease with hand involvement", "King-Denborough syndrome", "congenital multicore myopathy with external ophthalmoplegia", "central core myopathy", "hypokalemic periodic paralysis", "thyrotoxic periodic paralysis, susceptibility to", "thyrotoxic periodic paralysis", "myopathy, centronuclear"]
 last_modified_at: 2026-10-14
 description: "Dantrolene: predicted new indication Malignant hyperthermia, susceptibility to (evidence level L3). Approved use: Malignant hyperthermia of anesthesia"
+monitor_inn: "DANTROLENE"
+predicted_indications: ["moderate multiminicore disease with hand involvement", "King-Denborough syndrome", "congenital multicore myopathy with external ophthalmoplegia", "central core myopathy", "hypokalemic periodic paralysis", "thyrotoxic periodic paralysis, susceptibility to", "thyrotoxic periodic paralysis", "myopathy, centronuclear"]
 ---
 
 # Dantrolene

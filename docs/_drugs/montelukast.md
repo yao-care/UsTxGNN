@@ -5,10 +5,10 @@ parent: High Evidence (L1-L2)
 nav_order: 942
 evidence_level: L2
 indication_count: 5
-monitor_inn: "MONTELUKAST"
-predicted_indications: ["bronchitis", "atopic eczema", "asthma", "obstructive lung disease", "asthma-related traits, susceptibility to"]
 last_modified_at: 2026-10-14
 description: "Montelukast: predicted new indication Bronchitis (evidence level L2). Approved use: Allergic rhinitis, vasomotor rhinitis, intrinsic asthma…"
+monitor_inn: "MONTELUKAST"
+predicted_indications: ["bronchitis", "atopic eczema", "obstructive lung disease", "asthma-related traits, susceptibility to"]
 ---
 
 # Montelukast

@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 611
 evidence_level: L5
 indication_count: 4
-monitor_inn: "DINUTUXIMAB"
-predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "chronic myelogenous leukemia, BCR-ABL1 positive"]
 last_modified_at: 2026-10-14
 description: "Dinutuximab: predicted new indication Vertebral anomalies and variable endocrine and T-cell dysfunction (evidence level L5). Approved use: Neuroblastoma"
+monitor_inn: "DINUTUXIMAB"
+predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "chronic myelogenous leukemia, BCR-ABL1 positive"]
 ---
 
 # Dinutuximab

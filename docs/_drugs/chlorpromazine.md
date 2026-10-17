@@ -5,10 +5,10 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 523
 evidence_level: L4
 indication_count: 10
-monitor_inn: "CHLORPROMAZINE"
-predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "myopia X-linked", "syndromic myopia", "hydranencephaly (disease)", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "atypical glycine encephalopathy", "early-onset schizophrenia"]
 last_modified_at: 2026-10-14
 description: "Chlorpromazine: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L4). Approved use: Psychotic disorders, including schizophrenia…"
+monitor_inn: "CHLORPROMAZINE"
+predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "myopia X-linked", "syndromic myopia", "hydranencephaly (disease)", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "atypical glycine encephalopathy"]
 ---
 
 # Chlorpromazine

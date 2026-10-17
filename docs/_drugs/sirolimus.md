@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 1166
 evidence_level: L5
 indication_count: 10
-monitor_inn: "SIROLIMUS"
-predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lymphangiomyoma", "unclassified renal cell carcinoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "renal cell carcinoma associated with neuroblastoma", "lung PEComa", "vulva sarcoma"]
 last_modified_at: 2026-10-14
 description: "Sirolimus: predicted new indication Liposarcoma (evidence level L5). Approved use: Renal cell carcinoma (including clear cell and nonpapillary subtypes)"
+monitor_inn: "SIROLIMUS"
+predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lymphangiomyoma", "vulva sarcoma"]
 ---
 
 # Sirolimus

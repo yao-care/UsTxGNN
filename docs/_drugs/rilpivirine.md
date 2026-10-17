@@ -5,10 +5,10 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1123
 evidence_level: L4
 indication_count: 5
-monitor_inn: "RILPIVIRINE"
-predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "congenital human immunodeficiency virus", "AIDS related complex"]
 last_modified_at: 2026-10-14
 description: "Rilpivirine: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L4). Approved use: HIV infectious disease"
+monitor_inn: "RILPIVIRINE"
+predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 ---
 
 # Rilpivirine

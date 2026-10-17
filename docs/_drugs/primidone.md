@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 1083
 evidence_level: L5
 indication_count: 10
-monitor_inn: "PRIMIDONE"
-predicted_indications: ["trigeminal nerve neoplasm", "startle epilepsy", "orgasm-induced seizures", "micturation-induced seizures", "thinking seizures", "eating seizures", "audiogenic seizures", "reading seizures", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
 last_modified_at: 2026-10-14
 description: "Primidone: predicted new indication Trigeminal nerve neoplasm (evidence level L5). Approved use: Epilepsy (including generalized tonic-clonic seizures…"
+monitor_inn: "PRIMIDONE"
+predicted_indications: ["trigeminal nerve neoplasm", "orgasm-induced seizures", "micturation-induced seizures", "thinking seizures", "eating seizures", "audiogenic seizures", "reading seizures", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
 ---
 
 # Primidone

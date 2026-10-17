@@ -5,10 +5,10 @@ parent: High Evidence (L1-L2)
 nav_order: 1019
 evidence_level: L1
 indication_count: 10
-monitor_inn: "PEGASPARGASE"
-predicted_indications: ["precursor lymphoblastic lymphoma/leukemia", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "follicular lymphoma", "acute lymphoblastic leukemia", "methylcobalamin deficiency type cblE", "lymphoid neoplasm", "Hodgkins lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma", "blast phase chronic myelogenous leukemia, BCR-ABL1 positive"]
 last_modified_at: 2026-10-14
 description: "Pegaspargase: predicted new indication Precursor lymphoblastic lymphoma/leukemia (evidence level L1). Approved use: Acute lymphoblastic leukemia"
+monitor_inn: "PEGASPARGASE"
+predicted_indications: ["chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "follicular lymphoma", "methylcobalamin deficiency type cblE", "lymphoid neoplasm", "Hodgkins lymphoma", "blast phase chronic myelogenous leukemia, BCR-ABL1 positive"]
 ---
 
 # Pegaspargase

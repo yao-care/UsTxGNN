@@ -5,10 +5,10 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 270
 evidence_level: L4
 indication_count: 9
-monitor_inn: "ALTEPLASE"
-predicted_indications: ["posterolateral myocardial infarction", "posteroinferior myocardial infarction", "septal myocardial infarction", "heparin cofactor 2 deficiency", "congenital coronary artery anomaly", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "coronary stenosis"]
 last_modified_at: 2026-10-14
 description: "Alteplase: predicted new indication Posterolateral myocardial infarction (evidence level L4). Approved use: Myocardial infarction, pulmonary embolism, stroke"
+monitor_inn: "ALTEPLASE"
+predicted_indications: ["heparin cofactor 2 deficiency", "congenital coronary artery anomaly", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "coronary stenosis"]
 ---
 
 # Alteplase

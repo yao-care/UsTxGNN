@@ -5,10 +5,10 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 514
 evidence_level: L4
 indication_count: 6
-monitor_inn: "CERTOLIZUMAB PEGOL"
-predicted_indications: ["rheumatoid vasculitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "polyarticular juvenile rheumatoid arthritis", "vertebral disease"]
 last_modified_at: 2026-10-14
 description: "Certolizumab Pegol: predicted new indication Rheumatoid vasculitis (evidence level L4). Approved use: Crohn's disease (also inflammatory bowel disease…"
+monitor_inn: "CERTOLIZUMAB PEGOL"
+predicted_indications: ["hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "vertebral disease"]
 ---
 
 # Certolizumab Pegol

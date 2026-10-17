@@ -5,10 +5,10 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 672
 evidence_level: L4
 indication_count: 3
-monitor_inn: "ESOMEPRAZOLE"
-predicted_indications: ["duodenogastric reflux", "duodenal obstruction", "duodenal ulcer (disease)"]
 last_modified_at: 2026-10-14
 description: "Esomeprazole: predicted new indication Duodenogastric reflux (evidence level L4). Approved use: Peptic ulcer disease, GERD, esophagitis, Zollinger-Ellison syndrome"
+monitor_inn: "ESOMEPRAZOLE"
+predicted_indications: ["duodenal obstruction"]
 ---
 
 # Esomeprazole

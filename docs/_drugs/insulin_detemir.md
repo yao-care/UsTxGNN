@@ -5,10 +5,10 @@ parent: High Evidence (L1-L2)
 nav_order: 798
 evidence_level: L1
 indication_count: 10
-monitor_inn: "INSULIN DETEMIR"
-predicted_indications: ["type 1 diabetes mellitus", "autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
 last_modified_at: 2026-10-14
 description: "Insulin Detemir: predicted new indication Type 1 diabetes mellitus (evidence level L1). Approved use: Diabetes mellitus"
+monitor_inn: "INSULIN DETEMIR"
+predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
 ---
 
 # Insulin Detemir

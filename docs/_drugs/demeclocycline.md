@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 580
 evidence_level: L5
 indication_count: 3
-monitor_inn: "DEMECLOCYCLINE"
-predicted_indications: ["chronic ethmoidal sinusitis", "chronic rhinosinusitis", "paranasal sinus neoplasm (disease)"]
 last_modified_at: 2026-10-14
 description: "Demeclocycline: predicted new indication Chronic ethmoidal sinusitis (evidence level L5). Approved use: Bacterial infections (urinary tract infection, bronchitis, anthrax…"
+monitor_inn: "DEMECLOCYCLINE"
+predicted_indications: ["paranasal sinus neoplasm (disease)"]
 ---
 
 # Demeclocycline

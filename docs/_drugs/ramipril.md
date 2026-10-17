@@ -5,10 +5,10 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1107
 evidence_level: L4
 indication_count: 10
-monitor_inn: "RAMIPRIL"
-predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "malignant renovascular hypertension", "Braddock syndrome", "brain stem infarction", "Prinzmetal angina", "intracerebral hemorrhage", "ABri amyloidosis", "cerebral artery occlusion"]
 last_modified_at: 2026-10-14
 description: "Ramipril: predicted new indication Pulmonary hypertension owing to lung disease and/or hypoxia (evidence level L4). Approved use: Hypertension"
+monitor_inn: "RAMIPRIL"
+predicted_indications: ["malignant hypertensive renal disease", "brain stem infarction", "Prinzmetal angina", "intracerebral hemorrhage", "ABri amyloidosis"]
 ---
 
 # Ramipril

@@ -5,10 +5,10 @@ parent: High Evidence (L1-L2)
 nav_order: 796
 evidence_level: L1
 indication_count: 10
-monitor_inn: "INSULIN ASPART"
-predicted_indications: ["type 1 diabetes mellitus", "autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "permanent neonatal diabetes mellitus", "focal stiff limb syndrome", "classic stiff person syndrome", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy"]
 last_modified_at: 2026-10-14
 description: "Insulin Aspart: predicted new indication Type 1 diabetes mellitus (evidence level L1). Approved use: Diabetes mellitus"
+monitor_inn: "INSULIN ASPART"
+predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy"]
 ---
 
 # Insulin Aspart

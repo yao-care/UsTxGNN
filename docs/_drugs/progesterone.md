@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 1089
 evidence_level: L5
 indication_count: 10
-monitor_inn: "PROGESTERONE"
-predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "cervix endometriosis", "renal hypoplasia (disease)", "endometriosis of rectovaginal septum and vagina", "endometriosis in cutaneous scar", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
 last_modified_at: 2026-10-14
 description: "Progesterone: predicted new indication Amenorrhea (evidence level L5). Approved use: Endometriosis"
+monitor_inn: "PROGESTERONE"
+predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
 ---
 
 # Progesterone

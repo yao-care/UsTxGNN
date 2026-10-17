@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 537
 evidence_level: L5
 indication_count: 7
-monitor_inn: "CLOBETASOL PROPIONATE"
-predicted_indications: ["vulvar inverted follicular keratosis", "acrodermatitis chronica atrophicans", "exanthem (disease)", "acne keloid", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis"]
 last_modified_at: 2026-10-14
 description: "Clobetasol Propionate: predicted new indication Exanthem (disease). Note: the top-ranked TxGNN prediction is vulvar i… (evidence level L5). Approved use: Atopic eczema, contact dermatitis, seborrheic…"
+monitor_inn: "CLOBETASOL PROPIONATE"
+predicted_indications: ["vulvar inverted follicular keratosis", "exanthem (disease)", "acne keloid", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis"]
 ---
 
 # Clobetasol Propionate

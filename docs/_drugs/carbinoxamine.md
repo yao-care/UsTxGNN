@@ -5,10 +5,10 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 496
 evidence_level: L4
 indication_count: 7
-monitor_inn: "CARBINOXAMINE"
-predicted_indications: ["allergic urticaria", "cold urticaria", "nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic"]
 last_modified_at: 2026-10-14
 description: "Carbinoxamine: predicted new indication Allergic urticaria (evidence level L4). Approved use: Allergic rhinitis (other labeled uses: vasomotor rhinitis…"
+monitor_inn: "CARBINOXAMINE"
+predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic"]
 ---
 
 # Carbinoxamine

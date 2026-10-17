@@ -5,10 +5,10 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1237
 evidence_level: L4
 indication_count: 10
-monitor_inn: "TOBRAMYCIN"
-predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "epidemic keratoconjunctivitis"]
 last_modified_at: 2026-10-14
 description: "Tobramycin: predicted new indication Exposure keratitis (evidence level L4). Approved use: Bacterial and ocular infections (e.g., conjunctivitis…"
+monitor_inn: "TOBRAMYCIN"
+predicted_indications: ["otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome"]
 ---
 
 # Tobramycin

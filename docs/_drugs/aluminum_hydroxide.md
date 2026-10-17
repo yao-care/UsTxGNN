@@ -5,8 +5,6 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 274
 evidence_level: L4
 indication_count: 4
-monitor_inn: "ALUMINUM HYDROXIDE"
-predicted_indications: ["active peptic ulcer disease", "gastroduodenitis", "peptic ulcer perforation", "gastrojejunal ulcer"]
 last_modified_at: 2026-10-14
 description: "Aluminum Hydroxide: predicted new indication Active peptic ulcer disease (evidence level L4). Approved use: Gastric ulcer, peptic ulcer disease, gastroesophageal reflux disease…"
 ---

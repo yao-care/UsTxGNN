@@ -5,10 +5,10 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 864
 evidence_level: L4
 indication_count: 10
-monitor_inn: "LISINOPRIL"
-predicted_indications: ["posterolateral myocardial infarction", "posteroinferior myocardial infarction", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant renovascular hypertension", "malignant hypertensive renal disease", "septal myocardial infarction", "Braddock syndrome", "chronic pulmonary heart disease", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome"]
 last_modified_at: 2026-10-14
 description: "Lisinopril: predicted new indication Posterolateral myocardial infarction (evidence level L4). Approved use: Hypertension, myocardial infarction"
+monitor_inn: "LISINOPRIL"
+predicted_indications: ["malignant hypertensive renal disease", "chronic pulmonary heart disease", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome"]
 ---
 
 # Lisinopril

@@ -5,8 +5,6 @@ parent: Model Prediction Only (L5)
 nav_order: 1103
 evidence_level: L5
 indication_count: 2
-monitor_inn: "RABEPRAZOLE"
-predicted_indications: ["Smouldering systemic mastocytosis", "lymphoadenopathic mastocytosis with eosinophilia"]
 last_modified_at: 2026-10-14
 description: "Rabeprazole: predicted new indication Smouldering systemic mastocytosis (evidence level L5). Approved use: Peptic ulcer disease, gastroesophageal reflux disease…"
 ---

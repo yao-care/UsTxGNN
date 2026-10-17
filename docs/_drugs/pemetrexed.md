@@ -5,10 +5,10 @@ parent: High Evidence (L1-L2)
 nav_order: 1025
 evidence_level: L2
 indication_count: 10
-monitor_inn: "PEMETREXED"
-predicted_indications: ["malignant peritoneal mesothelioma", "pleural adenomatoid tumor", "pleural mesothelioma", "pleural epithelioid mesothelioma", "pleural sarcomatoid mesothelioma", "pleural biphasic mesothelioma", "pericardium cancer", "well differentiated papillary mesothelioma", "lymphohistiocytoid mesothelioma", "iminoglycinuria"]
 last_modified_at: 2026-10-14
 description: "Pemetrexed: predicted new indication Malignant peritoneal mesothelioma (evidence level L2). Approved use: Non-small cell lung cancer, lung cancer…"
+monitor_inn: "PEMETREXED"
+predicted_indications: ["pleural adenomatoid tumor", "pleural biphasic mesothelioma", "pericardium cancer", "well differentiated papillary mesothelioma", "lymphohistiocytoid mesothelioma", "iminoglycinuria"]
 ---
 
 # Pemetrexed

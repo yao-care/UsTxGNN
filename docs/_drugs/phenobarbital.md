@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 1037
 evidence_level: L5
 indication_count: 10
-monitor_inn: "PHENOBARBITAL"
-predicted_indications: ["trigeminal nerve neoplasm", "orgasm-induced seizures", "micturation-induced seizures", "eating seizures", "thinking seizures", "audiogenic seizures", "startle epilepsy", "reading seizures", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
 last_modified_at: 2026-10-14
 description: "Phenobarbital: predicted new indication Trigeminal nerve neoplasm (evidence level L5). Approved use: Epilepsy (including generalized tonic-clonic and partial seizures)…"
+monitor_inn: "PHENOBARBITAL"
+predicted_indications: ["trigeminal nerve neoplasm", "orgasm-induced seizures", "micturation-induced seizures", "eating seizures", "thinking seizures", "audiogenic seizures", "reading seizures", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
 ---
 
 # Phenobarbital

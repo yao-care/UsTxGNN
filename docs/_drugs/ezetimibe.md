@@ -5,10 +5,10 @@ parent: High Evidence (L1-L2)
 nav_order: 690
 evidence_level: L1
 indication_count: 4
-monitor_inn: "EZETIMIBE"
-predicted_indications: ["hyperlipoproteinemia", "familial hypercholesterolemia", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "cholesterol-ester transfer protein deficiency"]
 last_modified_at: 2026-10-14
 description: "Ezetimibe: predicted new indication Hyperlipoproteinemia (evidence level L1). Approved use: Hyperlipidemia (including familial hyperlipidemia…"
+monitor_inn: "EZETIMIBE"
+predicted_indications: ["hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "cholesterol-ester transfer protein deficiency"]
 ---
 
 # Ezetimibe

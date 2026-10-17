@@ -5,10 +5,10 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 793
 evidence_level: L4
 indication_count: 10
-monitor_inn: "IMIQUIMOD"
-predicted_indications: ["pre-malignant neoplasm", "benign neoplasm of buccal mucosa", "cervical neuroblastoma", "odontogenic cyst", "benign neoplasm of tongue", "nasopharyngeal teratoma", "cystic neoplasm", "inner ear neoplasm", "neoplasm of major salivary gland", "schwannoma of jugular foramen"]
 last_modified_at: 2026-10-14
 description: "Imiquimod: predicted new indication Pre-malignant neoplasm (evidence level L4). Approved use: Common wart, anogenital HPV infection…"
+monitor_inn: "IMIQUIMOD"
+predicted_indications: ["benign neoplasm of buccal mucosa", "cervical neuroblastoma", "odontogenic cyst", "benign neoplasm of tongue", "nasopharyngeal teratoma", "cystic neoplasm", "inner ear neoplasm", "neoplasm of major salivary gland", "schwannoma of jugular foramen"]
 ---
 
 # Imiquimod

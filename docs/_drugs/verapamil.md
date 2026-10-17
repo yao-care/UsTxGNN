@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 1287
 evidence_level: L5
 indication_count: 7
-monitor_inn: "VERAPAMIL"
-predicted_indications: ["obsolete bundle branch block", "malignant hypertensive renal disease", "malignant renovascular hypertension", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "periodic paralysis with transient compartment-like syndrome"]
 last_modified_at: 2026-10-14
 description: "Verapamil: predicted new indication Obsolete bundle branch block (evidence level L5). Approved use: Hypertension, atrial fibrillation, acute coronary syndrome…"
+monitor_inn: "VERAPAMIL"
+predicted_indications: ["obsolete bundle branch block", "malignant hypertensive renal disease", "periodic paralysis with transient compartment-like syndrome"]
 ---
 
 # Verapamil

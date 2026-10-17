@@ -5,10 +5,10 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 857
 evidence_level: L3
 indication_count: 6
-monitor_inn: "LEVONORGESTREL"
-predicted_indications: ["acne (disease)", "Worth syndrome", "pregnancy associated osteoporosis", "autosomal dominant neovascular inflammatory vitreoretinopathy", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
 last_modified_at: 2026-10-14
 description: "Levonorgestrel: predicted new indication Acne (disease) (evidence level L3). Approved use: Postmenopausal osteoporosis / osteoporosis"
+monitor_inn: "LEVONORGESTREL"
+predicted_indications: ["acne (disease)", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
 ---
 
 # Levonorgestrel

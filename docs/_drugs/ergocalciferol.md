@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 667
 evidence_level: L5
 indication_count: 10
-monitor_inn: "ERGOCALCIFEROL"
-predicted_indications: ["familial isolated hypoparathyroidism due to impaired PTH secretion", "acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis", "craniofacial conodysplasia", "Dahlberg-Borer-Newcomer syndrome", "hypophosphatemia (disease)", "renal osteodystrophy", "hypophosphatemic rickets", "calcium-alkali syndrome", "vitamin D-dependent rickets"]
 last_modified_at: 2026-10-14
 description: "Ergocalciferol: predicted new indication Familial isolated hypoparathyroidism due to impaired PTH secretion (evidence level L5). Approved use: Vitamin D deficiency, rickets, osteomalacia, hypoparathy…"
+monitor_inn: "ERGOCALCIFEROL"
+predicted_indications: ["acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis", "craniofacial conodysplasia", "Dahlberg-Borer-Newcomer syndrome", "calcium-alkali syndrome"]
 ---
 
 # Ergocalciferol

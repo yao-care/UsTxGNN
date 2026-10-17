@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 486
 evidence_level: L5
 indication_count: 4
-monitor_inn: "CALCIFEDIOL"
-predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis", "hereditary hypophosphatemic rickets", "vitamin D-dependent rickets"]
 last_modified_at: 2026-10-14
 description: "Calcifediol: predicted new indication Obsolete vitamin D deficiency (evidence level L5). Approved use: Hypercalcemia, nephrocalcinosis, phosphorus metabolism disease…"
+monitor_inn: "CALCIFEDIOL"
+predicted_indications: ["obsolete vitamin D deficiency", "renal tubular acidosis"]
 ---
 
 # Calcifediol

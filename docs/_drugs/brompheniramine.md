@@ -5,8 +5,6 @@ parent: Model Prediction Only (L5)
 nav_order: 474
 evidence_level: L5
 indication_count: 2
-monitor_inn: "BROMPHENIRAMINE"
-predicted_indications: ["allergic urticaria", "cold urticaria"]
 last_modified_at: 2026-10-14
 description: "Brompheniramine: predicted new indication Allergic urticaria (evidence level L5). Approved use: Allergic rhinitis, vasomotor rhinitis, common cold…"
 ---

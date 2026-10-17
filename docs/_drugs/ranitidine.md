@@ -5,10 +5,10 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1110
 evidence_level: L4
 indication_count: 10
-monitor_inn: "RANITIDINE"
-predicted_indications: ["active peptic ulcer disease", "peptic ulcer perforation", "gastrojejunal ulcer", "duodenogastric reflux", "duodenal obstruction", "gastroduodenitis", "peptic ulcer disease", "Smouldering systemic mastocytosis", "abnormality of glucagon secretion", "lymphoadenopathic mastocytosis with eosinophilia"]
 last_modified_at: 2026-10-14
 description: "Ranitidine: predicted new indication Active peptic ulcer disease (evidence level L4). Approved use: Gastric ulcer, gastroesophageal reflux disease, esophagitis…"
+monitor_inn: "RANITIDINE"
+predicted_indications: ["active peptic ulcer disease", "peptic ulcer perforation", "gastrojejunal ulcer", "duodenal obstruction", "Smouldering systemic mastocytosis", "abnormality of glucagon secretion", "lymphoadenopathic mastocytosis with eosinophilia"]
 ---
 
 # Ranitidine

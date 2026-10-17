@@ -5,10 +5,10 @@ parent: High Evidence (L1-L2)
 nav_order: 459
 evidence_level: L2
 indication_count: 10
-monitor_inn: "BIMATOPROST"
-predicted_indications: ["malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "Ambras type hypertrichosis universalis congenita", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "genetic alopecia", "pulmonary arteriovenous malformation (disease)"]
 last_modified_at: 2026-10-14
 description: "Bimatoprost: predicted new indication Alopecia (evidence level L2). Approved use: Open-angle glaucoma"
+monitor_inn: "BIMATOPROST"
+predicted_indications: ["malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "genetic alopecia", "pulmonary arteriovenous malformation (disease)"]
 ---
 
 # Bimatoprost

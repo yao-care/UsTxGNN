@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 724
 evidence_level: L5
 indication_count: 10
-monitor_inn: "FLUOXETINE"
-predicted_indications: ["histrionic personality disorder (disease)", "schizotypal personality disorder", "schizoid personality disorder", "paranoid personality disorder", "benign paroxysmal torticollis of infancy", "agoraphobia", "manic bipolar affective disorder", "phobic disorder", "Ohdo syndrome and variants", "melancholia"]
 last_modified_at: 2026-10-14
 description: "Fluoxetine: predicted new indication Histrionic personality disorder (evidence level L5). Approved use: Major depressive disorder, obsessive-compulsive disorder…"
+monitor_inn: "FLUOXETINE"
+predicted_indications: ["histrionic personality disorder (disease)", "schizotypal personality disorder", "schizoid personality disorder", "paranoid personality disorder", "benign paroxysmal torticollis of infancy", "agoraphobia", "Ohdo syndrome and variants"]
 ---
 
 # Fluoxetine

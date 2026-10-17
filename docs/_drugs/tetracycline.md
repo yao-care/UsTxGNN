@@ -5,10 +5,10 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1219
 evidence_level: L4
 indication_count: 4
-monitor_inn: "TETRACYCLINE"
-predicted_indications: ["punctate epithelial keratoconjunctivitis", "chronic ethmoidal sinusitis", "chronic rhinosinusitis", "paranasal sinus neoplasm (disease)"]
 last_modified_at: 2026-10-14
 description: "Tetracycline: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L4). Approved use: Bacterial infections (e.g., urinary tract infection, bronchitis, acne…"
+monitor_inn: "TETRACYCLINE"
+predicted_indications: ["paranasal sinus neoplasm (disease)"]
 ---
 
 # Tetracycline

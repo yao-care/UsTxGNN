@@ -5,10 +5,10 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1296
 evidence_level: L3
 indication_count: 2
-monitor_inn: "VORINOSTAT"
-predicted_indications: ["primary cutaneous B-cell lymphoma", "Sezary syndrome"]
 last_modified_at: 2026-10-14
 description: "Vorinostat: predicted new indication Primary cutaneous B-cell lymphoma (evidence level L3). Approved use: Primary cutaneous T-cell lymphoma (including primary cutaneous T-cell…"
+monitor_inn: "VORINOSTAT"
+predicted_indications: ["primary cutaneous B-cell lymphoma"]
 ---
 
 # Vorinostat

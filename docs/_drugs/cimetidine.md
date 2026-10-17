@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 530
 evidence_level: L5
 indication_count: 9
-monitor_inn: "CIMETIDINE"
-predicted_indications: ["Smouldering systemic mastocytosis", "active peptic ulcer disease", "gastrojejunal ulcer", "peptic ulcer perforation", "lymphoadenopathic mastocytosis with eosinophilia", "duodenogastric reflux", "duodenal obstruction", "acne (disease)", "abnormality of glucagon secretion"]
 last_modified_at: 2026-10-14
 description: "Cimetidine: predicted new indication Smouldering systemic mastocytosis (evidence level L5). Approved use: Gastric ulcer, gastroesophageal reflux disease, esophagitis…"
+monitor_inn: "CIMETIDINE"
+predicted_indications: ["active peptic ulcer disease", "gastrojejunal ulcer", "peptic ulcer perforation", "duodenal obstruction", "acne (disease)", "abnormality of glucagon secretion"]
 ---
 
 # Cimetidine

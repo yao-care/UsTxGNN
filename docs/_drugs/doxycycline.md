@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 627
 evidence_level: L5
 indication_count: 10
-monitor_inn: "DOXYCYCLINE"
-predicted_indications: ["punctate epithelial keratoconjunctivitis", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "exposure keratitis", "chronic gingivitis"]
 last_modified_at: 2026-10-14
 description: "Doxycycline: predicted new indication Top-ranked: punctate epithelial keratoconjunctivitis . Best-supported… (evidence level L5). Approved use: Bronchitis, acne, bacterial pneumonia, anthrax, gonorrh…"
+monitor_inn: "DOXYCYCLINE"
+predicted_indications: ["otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "exposure keratitis", "chronic gingivitis"]
 ---
 
 # Doxycycline

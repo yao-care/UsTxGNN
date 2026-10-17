@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 528
 evidence_level: L5
 indication_count: 6
-monitor_inn: "CICLESONIDE"
-predicted_indications: ["atopic eczema", "2-hydroxyethyl methacrylate sensitization", "dermatitis, atopic", "bronchitis", "contact dermatitis", "asthma-related traits, susceptibility to"]
 last_modified_at: 2026-10-14
 description: "Ciclesonide: predicted new indication Atopic eczema (evidence level L5). Approved use: Asthma, allergic asthma, allergic rhinitis, vasomotor rhinitis"
+monitor_inn: "CICLESONIDE"
+predicted_indications: ["atopic eczema", "2-hydroxyethyl methacrylate sensitization", "dermatitis, atopic", "bronchitis", "contact dermatitis"]
 ---
 
 # Ciclesonide

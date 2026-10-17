@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 433
 evidence_level: L5
 indication_count: 10
-monitor_inn: "AXITINIB"
-predicted_indications: ["renal cell carcinoma associated with neuroblastoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "unclassified renal cell carcinoma", "childhood kidney cell carcinoma", "liposarcoma", "renal carcinoma", "ovarian myxoid liposarcoma", "angiolipoma", "collecting duct carcinoma", "familial spontaneous pneumothorax"]
 last_modified_at: 2026-10-14
 description: "Axitinib: predicted new indication Renal cell carcinoma associated with neuroblastoma (evidence level L5). Approved use: Renal cell carcinoma (including clear cell and non-papillary subtypes)"
+monitor_inn: "AXITINIB"
+predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax"]
 ---
 
 # Axitinib

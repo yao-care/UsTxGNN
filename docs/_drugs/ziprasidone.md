@@ -5,10 +5,10 @@ parent: High Evidence (L1-L2)
 nav_order: 1310
 evidence_level: L2
 indication_count: 10
-monitor_inn: "ZIPRASIDONE"
-predicted_indications: ["trichotillomania", "hydranencephaly (disease)", "major affective disorder", "congenital disorder of glycosylation with defective fucosylation", "myopia X-linked", "retinal dystrophy with or without extraocular anomalies", "Tourette syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "syndromic myopia"]
 last_modified_at: 2026-10-14
 description: "Ziprasidone: predicted new indication Major affective disorder (evidence level L2). Approved use: Schizophrenia"
+monitor_inn: "ZIPRASIDONE"
+predicted_indications: ["trichotillomania", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia X-linked", "retinal dystrophy with or without extraocular anomalies", "Tourette syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "syndromic myopia"]
 ---
 
 # Ziprasidone

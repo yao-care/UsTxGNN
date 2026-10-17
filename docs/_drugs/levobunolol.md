@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 852
 evidence_level: L5
 indication_count: 3
-monitor_inn: "LEVOBUNOLOL"
-predicted_indications: ["primary hereditary glaucoma", "glaucoma 1, open angle", "open angle glaucoma"]
 last_modified_at: 2026-10-14
 description: "Levobunolol: predicted new indication Primary hereditary glaucoma (evidence level L5). Approved use: Open-angle glaucoma"
+monitor_inn: "LEVOBUNOLOL"
+predicted_indications: ["primary hereditary glaucoma"]
 ---
 
 # Levobunolol

@@ -5,10 +5,10 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1293
 evidence_level: L3
 indication_count: 3
-monitor_inn: "VINCRISTINE"
-predicted_indications: ["ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
 last_modified_at: 2026-10-14
 description: "Vincristine: predicted new indication Ganglioneuroblastoma (evidence level L3). Approved use: Acute lymphoblastic leukemia, Hodgkin lymphoma, non-Hodgkin lymphoma…"
+monitor_inn: "VINCRISTINE"
+predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
 ---
 
 # Vincristine

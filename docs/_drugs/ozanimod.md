@@ -5,8 +5,6 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1006
 evidence_level: L4
 indication_count: 1
-monitor_inn: "OZANIMOD"
-predicted_indications: ["progressive relapsing multiple sclerosis"]
 last_modified_at: 2026-10-14
 description: "Ozanimod: predicted new indication Progressive relapsing multiple sclerosis (evidence level L4). Approved use: Multiple sclerosis"
 ---

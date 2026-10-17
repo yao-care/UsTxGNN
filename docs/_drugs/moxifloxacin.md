@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 944
 evidence_level: L5
 indication_count: 10
-monitor_inn: "MOXIFLOXACIN"
-predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder", "hematopoietic and lymphoid system neoplasm", "bubonic plague"]
 last_modified_at: 2026-10-14
 description: "Moxifloxacin: predicted new indication Polyclonal hyperviscosity syndrome (evidence level L5). Approved use: Bacterial infections (pneumonia, conjunctivitis, peritonitis…"
+monitor_inn: "MOXIFLOXACIN"
+predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder", "hematopoietic and lymphoid system neoplasm"]
 ---
 
 # Moxifloxacin

@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 511
 evidence_level: L5
 indication_count: 10
-monitor_inn: "CEMIPLIMAB"
-predicted_indications: ["gallbladder adenosquamous carcinoma", "glottis squamous cell carcinoma", "rectal cloacogenic carcinoma", "external ear basal cell carcinoma", "adenosquamous prostate carcinoma", "urethral verrucous carcinoma", "lung occult squamous cell carcinoma", "pancreatic adenosquamous carcinoma", "non-keratinizing sinonasal squamous cell carcinoma", "supraglottis squamous cell carcinoma"]
 last_modified_at: 2026-10-14
 description: "Cemiplimab: predicted new indication Gallbladder adenosquamous carcinoma (evidence level L5). Approved use: Squamous cell carcinoma"
+monitor_inn: "CEMIPLIMAB"
+predicted_indications: ["gallbladder adenosquamous carcinoma", "rectal cloacogenic carcinoma", "external ear basal cell carcinoma", "adenosquamous prostate carcinoma", "urethral verrucous carcinoma", "pancreatic adenosquamous carcinoma"]
 ---
 
 # Cemiplimab

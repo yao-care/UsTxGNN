@@ -5,10 +5,10 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 539
 evidence_level: L3
 indication_count: 10
-monitor_inn: "CLOMIPRAMINE"
-predicted_indications: ["anxiety disorder", "benign paroxysmal torticollis of infancy", "schizotypal personality disorder", "paranoid personality disorder", "schizoid personality disorder", "histrionic personality disorder (disease)", "agoraphobia", "major depressive disorder", "endogenous depression", "attention deficit-hyperactivity disorder"]
 last_modified_at: 2026-10-14
 description: "Clomipramine: predicted new indication Anxiety disorder (evidence level L3). Approved use: Obsessive-compulsive disorder"
+monitor_inn: "CLOMIPRAMINE"
+predicted_indications: ["benign paroxysmal torticollis of infancy", "schizotypal personality disorder", "paranoid personality disorder", "schizoid personality disorder", "histrionic personality disorder (disease)", "agoraphobia", "major depressive disorder", "endogenous depression", "attention deficit-hyperactivity disorder"]
 ---
 
 # Clomipramine

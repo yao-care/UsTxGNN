@@ -5,10 +5,10 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1266
 evidence_level: L4
 indication_count: 7
-monitor_inn: "TRIPROLIDINE"
-predicted_indications: ["allergic urticaria", "cold urticaria", "nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic"]
 last_modified_at: 2026-10-14
 description: "Triprolidine: predicted new indication Allergic urticaria (evidence level L4). Approved use: Allergic rhinitis"
+monitor_inn: "TRIPROLIDINE"
+predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic"]
 ---
 
 # Triprolidine

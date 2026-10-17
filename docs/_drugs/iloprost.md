@@ -5,10 +5,10 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 790
 evidence_level: L3
 indication_count: 9
-monitor_inn: "ILOPROST"
-predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "pulmonary arterial hypertension associated with congenital heart disease", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with chronic hemolytic anemia", "pulmonary arterial hypertension associated with connective tissue disease", "pulmonary arterial hypertension associated with schistosomiasis", "pulmonary arterial hypertension associated with HIV infection", "diffuse alopecia areata"]
 last_modified_at: 2026-10-14
 description: "Iloprost: predicted new indication Pulmonary arterial hypertension associated with congenital heart dise… (evidence level L3). Approved use: Pulmonary arterial hypertension"
+monitor_inn: "ILOPROST"
+predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "pulmonary arteriovenous malformation (disease)", "diffuse alopecia areata"]
 ---
 
 # Iloprost

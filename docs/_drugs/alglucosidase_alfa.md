@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 221
 evidence_level: L5
 indication_count: 10
-monitor_inn: "ALGLUCOSIDASE ALFA"
-predicted_indications: ["adult polyglucosan body disease", "glycogen storage disease due to glycogen branching enzyme deficiency, congenital neuromuscular form", "glycogen storage disease due to glycogen branching enzyme deficiency, fatal perinatal neuromuscular form", "congenital entropion", "congenital ectropion", "congenital Horner syndrome (disease)", "ptosis-vocal cord paralysis syndrome", "camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye", "epiblepharon", "ptosis-strabismus-ectopic pupils syndrome"]
 last_modified_at: 2026-10-14
 description: "Alglucosidase Alfa: predicted new indication Adult polyglucosan body disease (evidence level L5). Approved use: Glycogen storage disease (Pompe disease)"
+monitor_inn: "ALGLUCOSIDASE ALFA"
+predicted_indications: ["adult polyglucosan body disease", "congenital entropion", "congenital ectropion", "congenital Horner syndrome (disease)", "ptosis-vocal cord paralysis syndrome", "camptodactyly, myopia, and fibrosis of the medial rectus muscle of eye", "epiblepharon", "ptosis-strabismus-ectopic pupils syndrome"]
 ---
 
 # Alglucosidase Alfa

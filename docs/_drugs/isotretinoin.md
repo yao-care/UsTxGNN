@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 817
 evidence_level: L5
 indication_count: 2
-monitor_inn: "ISOTRETINOIN"
-predicted_indications: ["malignant renovascular hypertension", "malignant hypertensive renal disease"]
 last_modified_at: 2026-10-14
 description: "Isotretinoin: predicted new indication Malignant renovascular hypertension (evidence level L5). Approved use: Hypertensive disorder / hypertension"
+monitor_inn: "ISOTRETINOIN"
+predicted_indications: ["malignant hypertensive renal disease"]
 ---
 
 # Isotretinoin

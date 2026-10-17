@@ -5,10 +5,10 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1014
 evidence_level: L4
 indication_count: 10
-monitor_inn: "PAPAVERINE"
-predicted_indications: ["ischemic disease", "intracranial arteriosclerosis", "non-inflammatory vasculopathy", "vascular ectasia", "fibrocartilaginous embolism", "venous thromboembolism", "vascular insufficiency disorder", "angiodysplasia", "Raynaud disease", "Monckeberg arteriosclerosis"]
 last_modified_at: 2026-10-14
 description: "Papaverine: predicted new indication Ischemic disease (evidence level L4). Approved use: Peripheral vascular disease, intermittent claudication…"
+monitor_inn: "PAPAVERINE"
+predicted_indications: ["intracranial arteriosclerosis", "non-inflammatory vasculopathy", "vascular ectasia", "fibrocartilaginous embolism", "venous thromboembolism", "vascular insufficiency disorder", "angiodysplasia", "Monckeberg arteriosclerosis"]
 ---
 
 # Papaverine

@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 595
 evidence_level: L5
 indication_count: 10
-monitor_inn: "DEXMETHYLPHENIDATE"
-predicted_indications: ["specific developmental disorder", "faciodigitogenital syndrome", "chondromyxoid fibroma", "multiple system atrophy", "variably protease-sensitive prionopathy", "manic bipolar affective disorder", "trichotillomania", "cerebellar ataxia", "autosomal dominant cerebellar ataxia", "postural orthostatic tachycardia syndrome"]
 last_modified_at: 2026-10-14
 description: "Dexmethylphenidate: predicted new indication Specific developmental disorder (evidence level L5). Approved use: Attention deficit hyperactivity disorder (including the inattentive t…"
+monitor_inn: "DEXMETHYLPHENIDATE"
+predicted_indications: ["faciodigitogenital syndrome", "chondromyxoid fibroma", "multiple system atrophy", "variably protease-sensitive prionopathy", "manic bipolar affective disorder", "trichotillomania", "cerebellar ataxia", "autosomal dominant cerebellar ataxia", "postural orthostatic tachycardia syndrome"]
 ---
 
 # Dexmethylphenidate

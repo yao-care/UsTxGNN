@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 334
 evidence_level: L5
 indication_count: 5
-monitor_inn: "AMPHETAMINE"
-predicted_indications: ["faciodigitogenital syndrome", "chondromyxoid fibroma", "specific developmental disorder", "trichotillomania", "postural orthostatic tachycardia syndrome"]
 last_modified_at: 2026-10-14
 description: "Amphetamine: predicted new indication Faciodigitogenital syndrome (evidence level L5). Approved use: Attention deficit hyperactivity disorder, narcolepsy and obesity"
+monitor_inn: "AMPHETAMINE"
+predicted_indications: ["faciodigitogenital syndrome", "chondromyxoid fibroma", "trichotillomania", "postural orthostatic tachycardia syndrome"]
 ---
 
 # Amphetamine

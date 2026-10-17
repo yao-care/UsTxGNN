@@ -5,10 +5,10 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 669
 evidence_level: L4
 indication_count: 5
-monitor_inn: "ERYTHROMYCIN"
-predicted_indications: ["punctate epithelial keratoconjunctivitis", "acute contagious conjunctivitis", "exposure keratitis", "lymphogranuloma venereum", "necrotizing ulcerative gingivitis"]
 last_modified_at: 2026-10-14
 description: "Erythromycin: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L4). Approved use: Bacterial infections (e.g., pneumonia, pertussis, gonorrhea…"
+monitor_inn: "ERYTHROMYCIN"
+predicted_indications: ["exposure keratitis", "lymphogranuloma venereum", "necrotizing ulcerative gingivitis"]
 ---
 
 # Erythromycin

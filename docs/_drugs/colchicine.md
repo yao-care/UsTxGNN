@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 547
 evidence_level: L5
 indication_count: 3
-monitor_inn: "COLCHICINE"
-predicted_indications: ["Plasmodium falciparum malaria", "familial Mediterranean fever, autosomal dominant", "dermatofibrosarcoma protuberans"]
 last_modified_at: 2026-10-14
 description: "Colchicine: predicted new indication Plasmodium falciparum malaria (evidence level L5). Approved use: Gout"
+monitor_inn: "COLCHICINE"
+predicted_indications: ["Plasmodium falciparum malaria", "dermatofibrosarcoma protuberans"]
 ---
 
 # Colchicine

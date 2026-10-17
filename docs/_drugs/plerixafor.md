@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 1056
 evidence_level: L5
 indication_count: 7
-monitor_inn: "PLERIXAFOR"
-predicted_indications: ["indolent plasma cell myeloma", "CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "bronchitis", "vulvar melanoma (disease)", "myeloid leukemia"]
 last_modified_at: 2026-10-14
 description: "Plerixafor: predicted new indication Indolent plasma cell myeloma (evidence level L5). Approved use: Plasma cell myeloma"
+monitor_inn: "PLERIXAFOR"
+predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "bronchitis", "vulvar melanoma (disease)", "myeloid leukemia"]
 ---
 
 # Plerixafor

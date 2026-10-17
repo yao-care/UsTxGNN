@@ -5,10 +5,10 @@ parent: High Evidence (L1-L2)
 nav_order: 322
 evidence_level: L2
 indication_count: 10
-monitor_inn: "AMBRISENTAN"
-predicted_indications: ["pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with congenital heart disease", "pulmonary arterial hypertension associated with HIV infection", "pulmonary arterial hypertension associated with connective tissue disease", "pulmonary arterial hypertension associated with schistosomiasis", "pulmonary arterial hypertension associated with chronic hemolytic anemia", "malformation syndrome with odontal and/or periodontal component", "hypotrichosis simplex of the scalp", "hypertrichosis (disease)", "syndrome with a Dandy-Walker malformation as major feature"]
 last_modified_at: 2026-10-14
 description: "Ambrisentan: predicted new indication Pulmonary arterial hypertension associated with connective tissue dis… (evidence level L2). Approved use: Pulmonary arterial hypertension"
+monitor_inn: "AMBRISENTAN"
+predicted_indications: ["pulmonary arteriovenous malformation (disease)", "malformation syndrome with odontal and/or periodontal component", "hypotrichosis simplex of the scalp", "hypertrichosis (disease)", "syndrome with a Dandy-Walker malformation as major feature"]
 ---
 
 # Ambrisentan

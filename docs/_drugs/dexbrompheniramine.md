@@ -5,10 +5,10 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 591
 evidence_level: L4
 indication_count: 7
-monitor_inn: "DEXBROMPHENIRAMINE"
-predicted_indications: ["allergic urticaria", "cold urticaria", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "nasal cavity disease", "acute laryngopharyngitis", "pharyngitis"]
 last_modified_at: 2026-10-14
 description: "Dexbrompheniramine: predicted new indication Allergic urticaria (evidence level L4). Approved use: Allergic rhinitis"
+monitor_inn: "DEXBROMPHENIRAMINE"
+predicted_indications: ["recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "nasal cavity disease", "acute laryngopharyngitis", "pharyngitis"]
 ---
 
 # Dexbrompheniramine

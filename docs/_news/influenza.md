@@ -3,7 +3,7 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 6 articles, 2 related drugs."
+description: "Health news about flu (influenza). 7 articles, 2 related drugs."
 permalink: /news/influenza/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/influenza/
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>6 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>7 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (6)
+## Related News (7)
+
+### [Flu activity is starting to rise. Is this year’s vaccine a good match? - NBC News](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWE5zYlp3OWpSUS1jTkQ1c04wVlhwZjNwc2d4eHVrdGp0TW0yZVZSWXN4WmFHazY5bklxX1BrRU8tMzNOcnJtZGFmX2ZQd2trc3VUZFBGWHBSTlQ1UERoV042N0wwSmF0d21qUV94Q1o5a1lncjRyZGxkVDB1bFJGMmx2cThuSDZVV0k4cEZBSURHYmxaenVVVm50NllPbHFUU1RfbFl6SkZxdnV3aWc?oc=5)
+
+2026-10-16
+
+Source: [NBC News](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWE5zYlp3OWpSUS1jTkQ1c04wVlhwZjNwc2d4eHVrdGp0TW0yZVZSWXN4WmFHazY5bklxX1BrRU8tMzNOcnJtZGFmX2ZQd2trc3VUZFBGWHBSTlQ1UERoV042N0wwSmF0d21qUV94Q1o5a1lncjRyZGxkVDB1bFJGMmx2cThuSDZVV0k4cEZBSURHYmxaenVVVm50NllPbHFUU1RfbFl6SkZxdnV3aWc?oc=5)
+
+---
 
 ### [This ‘Grossly Underreported’ Virus Is Often Mistaken for the Flu, Doctors Say](https://news.google.com/rss/articles/CBMijAFBVV95cUxQZy1rRFpjOGYtVEZWMk9KZUpMVXRVOTNYY2dPSTJ1WnAyUVR1QTlXMmllYWtISlg1OC05REowMW50a1lNbzBmWVVNd1lMN082MXFVeHVRNmNLb2Z2UDk4eEwydUNUWHBZbmhFU2tHa0xhc3c3UUpPOUFndzYxbWZrYVNEaXVtM3dtTlZEbA?oc=5)
 
@@ -40,19 +48,11 @@ Source: [Prevention](https://news.google.com/rss/articles/CBMijAFBVV95cUxQZy1rRF
 
 ---
 
-### [Bird flu caused the death of Jackie, a California bald eagle who captured hearts - KSL News](https://news.google.com/rss/articles/CBMitwFBVV95cUxNcWVON2RMNnpCbHBDZnU4clFocFB0czBZM3hjM2dOa3Y2VHIxYTNOakdjVkttSXNGdzlpOGx5eWhsNEFRbGtiaGdPeGtwTmxUaUt2WDdTSTFXaW92SlRjZUlKUktTQVpzZFNhczB6X2ZyOFE0UnIweVptSkFPQVpfejhBTXpJSENJQlppbDg1bWJCN3NLSUlqczZoX1VodktPV2ZZZ0FyanhzMEZ1dDlmTlQ0eS0xams?oc=5)
+### [Opinion: Influencers and biohackers swear by fasting. Here’s what the science says.](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVlpaNHR3YkJRQkVMa2xqcTMxY2hNNEwtQW04eG5RNXJlazBpdWxUZFJrWGY1RGxldkYzQUhfWlZQUnU4d0ZjOWQwdVRRS3FoNG9vLTdzb2d2dUhXZWEwSnF0eDFVbkszcHFBSEFZWmlyN215VlFZRjcxaVBkTHZraFUtVjl3V3VlMEd2VFE0QUpBYWt3UGdnaFZwRFNHeG5hNVh4VXZKQlNhS1VZLWplcEg1Ukw?oc=5)
 
 2026-10-16
 
-Source: [KSL News](https://news.google.com/rss/articles/CBMitwFBVV95cUxNcWVON2RMNnpCbHBDZnU4clFocFB0czBZM3hjM2dOa3Y2VHIxYTNOakdjVkttSXNGdzlpOGx5eWhsNEFRbGtiaGdPeGtwTmxUaUt2WDdTSTFXaW92SlRjZUlKUktTQVpzZFNhczB6X2ZyOFE0UnIweVptSkFPQVpfejhBTXpJSENJQlppbDg1bWJCN3NLSUlqczZoX1VodktPV2ZZZ0FyanhzMEZ1dDlmTlQ0eS0xams?oc=5)
-
----
-
-### [Opinion | I moved up my flu shot appointment. You should, too. - The Washington Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxOSnpDemdzQklkTlNyOGREVndZb3Exc1pLWkhtcDYtbWY4dndOMFBPc2UxWkh4d1M5bHI3NXZrdDdYSnRnNHotV3FXeVVmY1dxR0VnYm1HdlFkb0hpRVUyNThXT0JCQVNmM290U1o1UmNtcm9EUGMyaEoyZkpHWEljTUxLUjl2RHRuRFlfZnVOeWsxYTlSNTFxTkpsOUlZR1FXSS1mY2gzdFdleGhG?oc=5)
-
-2026-10-15
-
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxOSnpDemdzQklkTlNyOGREVndZb3Exc1pLWkhtcDYtbWY4dndOMFBPc2UxWkh4d1M5bHI3NXZrdDdYSnRnNHotV3FXeVVmY1dxR0VnYm1HdlFkb0hpRVUyNThXT0JCQVNmM290U1o1UmNtcm9EUGMyaEoyZkpHWEljTUxLUjl2RHRuRFlfZnVOeWsxYTlSNTFxTkpsOUlZR1FXSS1mY2gzdFdleGhG?oc=5)
+Source: [MarketWatch](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVlpaNHR3YkJRQkVMa2xqcTMxY2hNNEwtQW04eG5RNXJlazBpdWxUZFJrWGY1RGxldkYzQUhfWlZQUnU4d0ZjOWQwdVRRS3FoNG9vLTdzb2d2dUhXZWEwSnF0eDFVbkszcHFBSEFZWmlyN215VlFZRjcxaVBkTHZraFUtVjl3V3VlMEd2VFE0QUpBYWt3UGdnaFZwRFNHeG5hNVh4VXZKQlNhS1VZLWplcEg1Ukw?oc=5)
 
 ---
 
@@ -69,6 +69,14 @@ Source: [Colorado Public Radio](https://news.google.com/rss/articles/CBMihwFBVV9
 2026-10-15
 
 Source: [NPR](https://news.google.com/rss/articles/CBMiugFBVV95cUxQMWpPR2JKZVBCVFRSU1FIdmRfWl92QWFXQXU0N2pHd3hJbE0xMEh6LTVrZTN5S2FrVVRYZzQ2d3kwZmZXZmlEcWRIMGI2ZHFja2gtUTNxU3V6UjZKRDhTT3k2TmlBMVVSa3FJUFh2WnNvd0JaWmJWWnZSQ04zVEJqWU1McU1oQklobFlKbkYteU8tcWlZMEJmSW5tc1ZzWHFHeEsydWU3X2FmclNBSHRJaGNtaGtCU09UNVE?oc=5)
+
+---
+
+### [2 West Nile virus deaths reported in North Carolina: Officials - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMimgFBVV95cUxQY1FQanVCX0xCOF9MRE1CREl6d1V4N05TM0tjN0FIMDBiM2lqVFdycXpOUThBYTJ2OFh2VjduekljMkprYzY2aU04LUh1SkJMVHpKUnVXZndiNWlsUFg4NFVOc1hVRjJ3ZjJpSDh6RUUzTXZWelVWeW5NTFIzZGpTYzZlc2g0UVpERElHMXUxcGJUOG4ycjRwLUh30gGfAUFVX3lxTE5ONXp6S1I3T3dnbHgwT3NIaVd5SG8xRm9JMC0zejZEUDdBOU1ZaFV0U0N6aUUtRXdMUVo1dkJCVS1VNG9PWXQ1Q3dIeWgzX0VFYmk4V0Y0V2RZQVBIZWJ3UG5CTHJtTXBhUXFGdDRJNXNEc3pZUnU4U0xvcThpM0tuY2R0WFVZQi03ZVJWbGJOMjFtYlZBWDc3RFdLRUQ5bw?oc=5)
+
+2026-10-14
+
+Source: [ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMimgFBVV95cUxQY1FQanVCX0xCOF9MRE1CREl6d1V4N05TM0tjN0FIMDBiM2lqVFdycXpOUThBYTJ2OFh2VjduekljMkprYzY2aU04LUh1SkJMVHpKUnVXZndiNWlsUFg4NFVOc1hVRjJ3ZjJpSDh6RUUzTXZWelVWeW5NTFIzZGpTYzZlc2g0UVpERElHMXUxcGJUOG4ycjRwLUh30gGfAUFVX3lxTE5ONXp6S1I3T3dnbHgwT3NIaVd5SG8xRm9JMC0zejZEUDdBOU1ZaFV0U0N6aUUtRXdMUVo1dkJCVS1VNG9PWXQ1Q3dIeWgzX0VFYmk4V0Y0V2RZQVBIZWJ3UG5CTHJtTXBhUXFGdDRJNXNEc3pZUnU4U0xvcThpM0tuY2R0WFVZQi03ZVJWbGJOMjFtYlZBWDc3RFdLRUQ5bw?oc=5)
 
 ---
 

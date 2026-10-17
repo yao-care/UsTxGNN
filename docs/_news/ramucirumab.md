@@ -14,7 +14,7 @@ permalink: /news/ramucirumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Ramucirumab?">
-<strong>Ramucirumab</strong> currently has <strong>9 news articles</strong>, with 10 predicted indications.
+<strong>Ramucirumab</strong> currently has <strong>10 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,11 +41,11 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (10)
 
 ### [U of A cancer researcher dies of same disease she fought to cure - Arizona Daily Star](https://news.google.com/rss/articles/CBMingFBVV95cUxOZlhqWUZTUnBlUVUwV1JmMVZiZDA2YnNQNHdEd01telp3N2RZREwxZUJLT2VJdGN1NnYzbWVSbmJKSTVuNk0wdXUzdFJubDhHRDhNRHdIeGJ6REFleUo1cHZHemhqYUxYdHkxTHVSdFNaV1MyRFVQbXVxZUxPdTVQcVBxSnRRRE53b0FkU0V0Q3VZdDRfMlRySWpOakQ3QQ?oc=5)
 
-2026-10-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+2026-10-17 <span class="news-indication-tag">cancer</span>
 
 Source: [Arizona Daily Star](https://news.google.com/rss/articles/CBMingFBVV95cUxOZlhqWUZTUnBlUVUwV1JmMVZiZDA2YnNQNHdEd01telp3N2RZREwxZUJLT2VJdGN1NnYzbWVSbmJKSTVuNk0wdXUzdFJubDhHRDhNRHdIeGJ6REFleUo1cHZHemhqYUxYdHkxTHVSdFNaV1MyRFVQbXVxZUxPdTVQcVBxSnRRRE53b0FkU0V0Q3VZdDRfMlRySWpOakQ3QQ?oc=5)
 
@@ -59,6 +59,14 @@ Source: [Bored Panda](https://news.google.com/rss/articles/CBMiigFBVV95cUxPQzloU
 
 ---
 
+### [Vaping Strongly Linked to Lung Cancer](https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZbzV6TDYtSG42bEhpcU1KbExPNkZvWXNRZFZHNVpUaG5jWm1HNmRYeTJFMHktR0I0cGNZdktZY2JZWTBLUHNkcTRmdExndnZ3RDRFOTlaelJhVFRHR0FuT1lmSkhPVnUyRVZQVHljT0lUVVNvMzRqTzg4LUQ5QQ?oc=5)
+
+2026-10-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+
+Source: [Futurism](https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZbzV6TDYtSG42bEhpcU1KbExPNkZvWXNRZFZHNVpUaG5jWm1HNmRYeTJFMHktR0I0cGNZdktZY2JZWTBLUHNkcTRmdExndnZ3RDRFOTlaelJhVFRHR0FuT1lmSkhPVnUyRVZQVHljT0lUVVNvMzRqTzg4LUQ5QQ?oc=5)
+
+---
+
 ### [Drinking 'Very' Hot Tea or Coffee Could Triple Your Risk of This Cancer, Huge Study Finds](https://news.google.com/rss/articles/CBMitgFBVV95cUxONmZqLTVobEI1djdWbDVRUlJ3b0Zzajl1YVZGeVZQZTNNdzJ6V2cyVWdRdnhZaWNyN1ptVmJOWXFrbzVpa0xXME5WQjFFNzNOcm5WN3QySGEtVmpKMlFSc1VvTEwtM1gzQ3Z1ejM5UVV5WFBDUjBhMXY2T2Ytd3lMalhFVDVTdDh5dHhTUVRGY1pNRFpmRkpMcjV4Tk1haTBIcVgtNS1lYk5vMnhTUnZrQzNtN1Z2Zw?oc=5)
 
 2026-10-16 <span class="news-indication-tag">cancer</span>
@@ -67,19 +75,19 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMitgFBVV95cUxONmZq
 
 ---
 
-### [USC scientists discover how to create a never-ending supply of cancer-fighting cells - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9RNFFzMGx2MC1HLWFmNDA3bVltY0t0VVhZRHd3cHVGRWZ1SmxQbjRMM2NMNUZWNTRzYWwxZTBWOVNpYTNSMDNzOGVGX1l0clVlN2RCSHhZUmN5S2hWdUpPcEVLQ0ZuTC0tQzA3Y1U0dw?oc=5)
+### [Cancer strikes twice: husband and wife diagnosed in same month, undergo chemo together](https://news.google.com/rss/articles/CBMiakFVX3lxTE9qamNoNml0X1U5UG54U0VKRGZjaE1xWnp0bC15cVJiaE5KUndkU0RSTmx2Rk02c0ZETVRpclNjdlhzWWo4cmZfZ2RoNWZXc0tWMkJFMlI5c21qVktzbEdVZzhqOVdGMllFRmc?oc=5)
 
 2026-10-16 <span class="news-indication-tag">cancer</span>
 
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9RNFFzMGx2MC1HLWFmNDA3bVltY0t0VVhZRHd3cHVGRWZ1SmxQbjRMM2NMNUZWNTRzYWwxZTBWOVNpYTNSMDNzOGVGX1l0clVlN2RCSHhZUmN5S2hWdUpPcEVLQ0ZuTC0tQzA3Y1U0dw?oc=5)
+Source: [Ynetnews](https://news.google.com/rss/articles/CBMiakFVX3lxTE9qamNoNml0X1U5UG54U0VKRGZjaE1xWnp0bC15cVJiaE5KUndkU0RSTmx2Rk02c0ZETVRpclNjdlhzWWo4cmZfZ2RoNWZXc0tWMkJFMlI5c21qVktzbEdVZzhqOVdGMllFRmc?oc=5)
 
 ---
 
-### [Large study finds no link between ultra-processed food and colorectal cancer - NBC News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUm5MenREWXJHdGtsRFVUN0RRb1J2dFFCalNYeTRRNEhCTkc3SzBxLTlxbG9OdXI5NjFpV1MwdGlfZkM4RU01ZC1fblJKV2tQTlg1ejJSa3JzWUhzZW8yR2luZ2Y4QlVDejBuNmMwTGRlWk1fbTFiS05ENVNiVEI0akVfWjRlVXl1dDZIYWNZam43VzYzN0ctQnlMX0VmYm5odHlXaGhpUldFQQ?oc=5)
+### [Associations of food processing and dietary risk factors with colorectal cancer incidence in the NIH-AARP Diet and Health Study: A cohort study](https://news.google.com/rss/articles/CBMihAFBVV95cUxPMDVkUllwWlNTS3dEZE8yQmk3Wlc1MmcySzQyM0RBYm9BejltTHRYV0NvY3NqWmlDbFFiSVdYZThYOGRRUVkxdGdwQmRrc2Vfek1GU2lWMTU0VFBVUVp0OVp0OWJGWDl3X1prQzAxZ045QWRUckxCUTdXQm1McDJVQW1ydkw?oc=5)
 
-2026-10-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+2026-10-15 <span class="news-indication-tag">cancer</span>
 
-Source: [NBC News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUm5MenREWXJHdGtsRFVUN0RRb1J2dFFCalNYeTRRNEhCTkc3SzBxLTlxbG9OdXI5NjFpV1MwdGlfZkM4RU01ZC1fblJKV2tQTlg1ejJSa3JzWUhzZW8yR2luZ2Y4QlVDejBuNmMwTGRlWk1fbTFiS05ENVNiVEI0akVfWjRlVXl1dDZIYWNZam43VzYzN0ctQnlMX0VmYm5odHlXaGhpUldFQQ?oc=5)
+Source: [PLOS](https://news.google.com/rss/articles/CBMihAFBVV95cUxPMDVkUllwWlNTS3dEZE8yQmk3Wlc1MmcySzQyM0RBYm9BejltTHRYV0NvY3NqWmlDbFFiSVdYZThYOGRRUVkxdGdwQmRrc2Vfek1GU2lWMTU0VFBVUVp0OVp0OWJGWDl3X1prQzAxZ045QWRUckxCUTdXQm1McDJVQW1ydkw?oc=5)
 
 ---
 
@@ -101,7 +109,7 @@ Source: [The New York Times](https://news.google.com/rss/articles/CBMie0FVX3lxTE
 
 ### [These common infections can cause cancer. Here’s what can lower your risk. - The Washington Post](https://news.google.com/rss/articles/CBMitwFBVV95cUxPVS1uWEVvQS0tQkU5dG43X2JNV2szU3E5LVBpV1IzRTdfNVI1N2VKdklwYXBEX0RkdUxyZlBqU2JpbTN1alZLQkhTYlB6cEZOZTZ6XzNybktldjNqTmlYeW9uaUFUWk1XMkRhOTR5UncyenFDcmZ5OS1Dd2FCTnZpZVdUWEdwYXpWckZlTnF3STMwWkJnanR6Rm82OHJOem15NDcybl94dlhLbmZPdngtSXZiZVpQX2c?oc=5)
 
-2026-10-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span>
+2026-10-14 <span class="news-indication-tag">cancer</span>
 
 Source: [The Washington Post](https://news.google.com/rss/articles/CBMitwFBVV95cUxPVS1uWEVvQS0tQkU5dG43X2JNV2szU3E5LVBpV1IzRTdfNVI1N2VKdklwYXBEX0RkdUxyZlBqU2JpbTN1alZLQkhTYlB6cEZOZTZ6XzNybktldjNqTmlYeW9uaUFUWk1XMkRhOTR5UncyenFDcmZ5OS1Dd2FCTnZpZVdUWEdwYXpWckZlTnF3STMwWkJnanR6Rm82OHJOem15NDcybl94dlhLbmZPdngtSXZiZVpQX2c?oc=5)
 

@@ -3,7 +3,7 @@ layout: default
 title: "cancer News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer. 9 articles, 1 related drugs."
+description: "Health news about cancer. 10 articles, 1 related drugs."
 permalink: /news/cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cancer/
 ---
 
 <p class="key-answer" data-question="What news is there about cancer?">
-<strong>cancer</strong> currently has <strong>9 news articles</strong> and 1 related drugs.
+<strong>cancer</strong> currently has <strong>10 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -29,11 +29,11 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (9)
+## Related News (10)
 
 ### [U of A cancer researcher dies of same disease she fought to cure - Arizona Daily Star](https://news.google.com/rss/articles/CBMingFBVV95cUxOZlhqWUZTUnBlUVUwV1JmMVZiZDA2YnNQNHdEd01telp3N2RZREwxZUJLT2VJdGN1NnYzbWVSbmJKSTVuNk0wdXUzdFJubDhHRDhNRHdIeGJ6REFleUo1cHZHemhqYUxYdHkxTHVSdFNaV1MyRFVQbXVxZUxPdTVQcVBxSnRRRE53b0FkU0V0Q3VZdDRfMlRySWpOakQ3QQ?oc=5)
 
-2026-10-16
+2026-10-17
 
 Source: [Arizona Daily Star](https://news.google.com/rss/articles/CBMingFBVV95cUxOZlhqWUZTUnBlUVUwV1JmMVZiZDA2YnNQNHdEd01telp3N2RZREwxZUJLT2VJdGN1NnYzbWVSbmJKSTVuNk0wdXUzdFJubDhHRDhNRHdIeGJ6REFleUo1cHZHemhqYUxYdHkxTHVSdFNaV1MyRFVQbXVxZUxPdTVQcVBxSnRRRE53b0FkU0V0Q3VZdDRfMlRySWpOakQ3QQ?oc=5)
 
@@ -47,6 +47,14 @@ Source: [Bored Panda](https://news.google.com/rss/articles/CBMiigFBVV95cUxPQzloU
 
 ---
 
+### [Vaping Strongly Linked to Lung Cancer](https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZbzV6TDYtSG42bEhpcU1KbExPNkZvWXNRZFZHNVpUaG5jWm1HNmRYeTJFMHktR0I0cGNZdktZY2JZWTBLUHNkcTRmdExndnZ3RDRFOTlaelJhVFRHR0FuT1lmSkhPVnUyRVZQVHljT0lUVVNvMzRqTzg4LUQ5QQ?oc=5)
+
+2026-10-16
+
+Source: [Futurism](https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZbzV6TDYtSG42bEhpcU1KbExPNkZvWXNRZFZHNVpUaG5jWm1HNmRYeTJFMHktR0I0cGNZdktZY2JZWTBLUHNkcTRmdExndnZ3RDRFOTlaelJhVFRHR0FuT1lmSkhPVnUyRVZQVHljT0lUVVNvMzRqTzg4LUQ5QQ?oc=5)
+
+---
+
 ### [Drinking 'Very' Hot Tea or Coffee Could Triple Your Risk of This Cancer, Huge Study Finds](https://news.google.com/rss/articles/CBMitgFBVV95cUxONmZqLTVobEI1djdWbDVRUlJ3b0Zzajl1YVZGeVZQZTNNdzJ6V2cyVWdRdnhZaWNyN1ptVmJOWXFrbzVpa0xXME5WQjFFNzNOcm5WN3QySGEtVmpKMlFSc1VvTEwtM1gzQ3Z1ejM5UVV5WFBDUjBhMXY2T2Ytd3lMalhFVDVTdDh5dHhTUVRGY1pNRFpmRkpMcjV4Tk1haTBIcVgtNS1lYk5vMnhTUnZrQzNtN1Z2Zw?oc=5)
 
 2026-10-16
@@ -55,19 +63,19 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMitgFBVV95cUxONmZq
 
 ---
 
-### [USC scientists discover how to create a never-ending supply of cancer-fighting cells - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9RNFFzMGx2MC1HLWFmNDA3bVltY0t0VVhZRHd3cHVGRWZ1SmxQbjRMM2NMNUZWNTRzYWwxZTBWOVNpYTNSMDNzOGVGX1l0clVlN2RCSHhZUmN5S2hWdUpPcEVLQ0ZuTC0tQzA3Y1U0dw?oc=5)
+### [Cancer strikes twice: husband and wife diagnosed in same month, undergo chemo together](https://news.google.com/rss/articles/CBMiakFVX3lxTE9qamNoNml0X1U5UG54U0VKRGZjaE1xWnp0bC15cVJiaE5KUndkU0RSTmx2Rk02c0ZETVRpclNjdlhzWWo4cmZfZ2RoNWZXc0tWMkJFMlI5c21qVktzbEdVZzhqOVdGMllFRmc?oc=5)
 
 2026-10-16
 
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE9RNFFzMGx2MC1HLWFmNDA3bVltY0t0VVhZRHd3cHVGRWZ1SmxQbjRMM2NMNUZWNTRzYWwxZTBWOVNpYTNSMDNzOGVGX1l0clVlN2RCSHhZUmN5S2hWdUpPcEVLQ0ZuTC0tQzA3Y1U0dw?oc=5)
+Source: [Ynetnews](https://news.google.com/rss/articles/CBMiakFVX3lxTE9qamNoNml0X1U5UG54U0VKRGZjaE1xWnp0bC15cVJiaE5KUndkU0RSTmx2Rk02c0ZETVRpclNjdlhzWWo4cmZfZ2RoNWZXc0tWMkJFMlI5c21qVktzbEdVZzhqOVdGMllFRmc?oc=5)
 
 ---
 
-### [Large study finds no link between ultra-processed food and colorectal cancer - NBC News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUm5MenREWXJHdGtsRFVUN0RRb1J2dFFCalNYeTRRNEhCTkc3SzBxLTlxbG9OdXI5NjFpV1MwdGlfZkM4RU01ZC1fblJKV2tQTlg1ejJSa3JzWUhzZW8yR2luZ2Y4QlVDejBuNmMwTGRlWk1fbTFiS05ENVNiVEI0akVfWjRlVXl1dDZIYWNZam43VzYzN0ctQnlMX0VmYm5odHlXaGhpUldFQQ?oc=5)
+### [Associations of food processing and dietary risk factors with colorectal cancer incidence in the NIH-AARP Diet and Health Study: A cohort study](https://news.google.com/rss/articles/CBMihAFBVV95cUxPMDVkUllwWlNTS3dEZE8yQmk3Wlc1MmcySzQyM0RBYm9BejltTHRYV0NvY3NqWmlDbFFiSVdYZThYOGRRUVkxdGdwQmRrc2Vfek1GU2lWMTU0VFBVUVp0OVp0OWJGWDl3X1prQzAxZ045QWRUckxCUTdXQm1McDJVQW1ydkw?oc=5)
 
 2026-10-15
 
-Source: [NBC News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUm5MenREWXJHdGtsRFVUN0RRb1J2dFFCalNYeTRRNEhCTkc3SzBxLTlxbG9OdXI5NjFpV1MwdGlfZkM4RU01ZC1fblJKV2tQTlg1ejJSa3JzWUhzZW8yR2luZ2Y4QlVDejBuNmMwTGRlWk1fbTFiS05ENVNiVEI0akVfWjRlVXl1dDZIYWNZam43VzYzN0ctQnlMX0VmYm5odHlXaGhpUldFQQ?oc=5)
+Source: [PLOS](https://news.google.com/rss/articles/CBMihAFBVV95cUxPMDVkUllwWlNTS3dEZE8yQmk3Wlc1MmcySzQyM0RBYm9BejltTHRYV0NvY3NqWmlDbFFiSVdYZThYOGRRUVkxdGdwQmRrc2Vfek1GU2lWMTU0VFBVUVp0OVp0OWJGWDl3X1prQzAxZ045QWRUckxCUTdXQm1McDJVQW1ydkw?oc=5)
 
 ---
 

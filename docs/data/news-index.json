@@ -49,7 +49,7 @@
               "url": "/drugs/lasmiditan/"
             },
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -79,12 +79,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -96,7 +96,7 @@
           "keyword": "RA",
           "related_drugs": [
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -111,7 +111,7 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "sodium_acetate",
+              "slug": "sodium-acetate",
               "name": "Sodium acetate",
               "url": "/drugs/sodium-acetate/"
             },
@@ -121,12 +121,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -156,7 +156,7 @@
               "url": "/drugs/lasmiditan/"
             },
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -186,12 +186,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -203,7 +203,7 @@
           "keyword": "RA",
           "related_drugs": [
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -218,7 +218,7 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "sodium_acetate",
+              "slug": "sodium-acetate",
               "name": "Sodium acetate",
               "url": "/drugs/sodium-acetate/"
             },
@@ -228,12 +228,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -258,7 +258,7 @@
           "keyword": "RA",
           "related_drugs": [
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -273,7 +273,7 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "sodium_acetate",
+              "slug": "sodium-acetate",
               "name": "Sodium acetate",
               "url": "/drugs/sodium-acetate/"
             },
@@ -283,12 +283,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -330,7 +330,7 @@
           "keyword": "RA",
           "related_drugs": [
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -345,7 +345,7 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "sodium_acetate",
+              "slug": "sodium-acetate",
               "name": "Sodium acetate",
               "url": "/drugs/sodium-acetate/"
             },
@@ -355,12 +355,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -390,7 +390,7 @@
               "url": "/drugs/lasmiditan/"
             },
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -420,12 +420,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -442,7 +442,7 @@
               "url": "/drugs/rutin/"
             },
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -457,12 +457,12 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -492,7 +492,7 @@
               "url": "/drugs/lasmiditan/"
             },
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -522,12 +522,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -557,7 +557,7 @@
               "url": "/drugs/lasmiditan/"
             },
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -587,12 +587,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -617,7 +617,7 @@
           "keyword": "RA",
           "related_drugs": [
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -632,7 +632,7 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "sodium_acetate",
+              "slug": "sodium-acetate",
               "name": "Sodium acetate",
               "url": "/drugs/sodium-acetate/"
             },
@@ -642,12 +642,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -664,7 +664,7 @@
               "url": "/drugs/rutin/"
             },
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -679,12 +679,12 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -709,7 +709,7 @@
           "keyword": "RA",
           "related_drugs": [
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -724,7 +724,7 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "sodium_acetate",
+              "slug": "sodium-acetate",
               "name": "Sodium acetate",
               "url": "/drugs/sodium-acetate/"
             },
@@ -734,12 +734,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -789,7 +789,7 @@
           "keyword": "RA",
           "related_drugs": [
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -804,7 +804,7 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "sodium_acetate",
+              "slug": "sodium-acetate",
               "name": "Sodium acetate",
               "url": "/drugs/sodium-acetate/"
             },
@@ -814,12 +814,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -844,7 +844,7 @@
           "keyword": "RA",
           "related_drugs": [
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -859,7 +859,7 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "sodium_acetate",
+              "slug": "sodium-acetate",
               "name": "Sodium acetate",
               "url": "/drugs/sodium-acetate/"
             },
@@ -869,12 +869,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -899,7 +899,7 @@
           "keyword": "RA",
           "related_drugs": [
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -914,7 +914,7 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "sodium_acetate",
+              "slug": "sodium-acetate",
               "name": "Sodium acetate",
               "url": "/drugs/sodium-acetate/"
             },
@@ -924,12 +924,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -946,7 +946,7 @@
               "url": "/drugs/rutin/"
             },
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -961,12 +961,12 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -1008,7 +1008,7 @@
               "url": "/drugs/lasmiditan/"
             },
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -1038,12 +1038,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -1060,7 +1060,7 @@
               "url": "/drugs/rutin/"
             },
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -1075,12 +1075,12 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -1105,7 +1105,7 @@
           "keyword": "RA",
           "related_drugs": [
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -1120,7 +1120,7 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "sodium_acetate",
+              "slug": "sodium-acetate",
               "name": "Sodium acetate",
               "url": "/drugs/sodium-acetate/"
             },
@@ -1130,12 +1130,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -1165,7 +1165,7 @@
               "url": "/drugs/lasmiditan/"
             },
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -1195,12 +1195,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -1212,7 +1212,7 @@
           "keyword": "RA",
           "related_drugs": [
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -1227,7 +1227,7 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "sodium_acetate",
+              "slug": "sodium-acetate",
               "name": "Sodium acetate",
               "url": "/drugs/sodium-acetate/"
             },
@@ -1237,12 +1237,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -1284,7 +1284,7 @@
           "keyword": "RA",
           "related_drugs": [
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -1299,7 +1299,7 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "sodium_acetate",
+              "slug": "sodium-acetate",
               "name": "Sodium acetate",
               "url": "/drugs/sodium-acetate/"
             },
@@ -1309,12 +1309,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -1344,7 +1344,7 @@
               "url": "/drugs/lasmiditan/"
             },
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -1374,12 +1374,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -1413,7 +1413,7 @@
               "url": "/drugs/rutin/"
             },
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -1428,12 +1428,12 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -1458,7 +1458,7 @@
           "keyword": "RA",
           "related_drugs": [
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -1473,7 +1473,7 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "sodium_acetate",
+              "slug": "sodium-acetate",
               "name": "Sodium acetate",
               "url": "/drugs/sodium-acetate/"
             },
@@ -1483,12 +1483,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -1543,7 +1543,7 @@
               "url": "/drugs/lasmiditan/"
             },
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -1573,12 +1573,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -1590,7 +1590,7 @@
           "keyword": "RA",
           "related_drugs": [
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -1605,7 +1605,7 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "sodium_acetate",
+              "slug": "sodium-acetate",
               "name": "Sodium acetate",
               "url": "/drugs/sodium-acetate/"
             },
@@ -1615,12 +1615,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -1650,7 +1650,7 @@
               "url": "/drugs/lasmiditan/"
             },
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -1680,12 +1680,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -1697,7 +1697,7 @@
           "keyword": "RA",
           "related_drugs": [
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -1712,7 +1712,7 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "sodium_acetate",
+              "slug": "sodium-acetate",
               "name": "Sodium acetate",
               "url": "/drugs/sodium-acetate/"
             },
@@ -1722,12 +1722,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -1789,7 +1789,7 @@
           "keyword": "RA",
           "related_drugs": [
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -1804,7 +1804,7 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "sodium_acetate",
+              "slug": "sodium-acetate",
               "name": "Sodium acetate",
               "url": "/drugs/sodium-acetate/"
             },
@@ -1814,12 +1814,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -1844,7 +1844,7 @@
           "keyword": "RA",
           "related_drugs": [
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -1859,7 +1859,7 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "sodium_acetate",
+              "slug": "sodium-acetate",
               "name": "Sodium acetate",
               "url": "/drugs/sodium-acetate/"
             },
@@ -1869,12 +1869,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -1904,7 +1904,7 @@
               "url": "/drugs/lasmiditan/"
             },
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -1934,12 +1934,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -1994,7 +1994,7 @@
               "url": "/drugs/lasmiditan/"
             },
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -2024,12 +2024,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -2046,7 +2046,7 @@
               "url": "/drugs/rutin/"
             },
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -2061,12 +2061,12 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -2091,7 +2091,7 @@
           "keyword": "RA",
           "related_drugs": [
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -2106,7 +2106,7 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "sodium_acetate",
+              "slug": "sodium-acetate",
               "name": "Sodium acetate",
               "url": "/drugs/sodium-acetate/"
             },
@@ -2116,12 +2116,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -2138,7 +2138,7 @@
               "url": "/drugs/rutin/"
             },
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -2153,12 +2153,12 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -2188,7 +2188,7 @@
               "url": "/drugs/lasmiditan/"
             },
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -2218,12 +2218,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -2235,7 +2235,7 @@
           "keyword": "RA",
           "related_drugs": [
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -2250,7 +2250,7 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "sodium_acetate",
+              "slug": "sodium-acetate",
               "name": "Sodium acetate",
               "url": "/drugs/sodium-acetate/"
             },
@@ -2260,12 +2260,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -2295,7 +2295,7 @@
               "url": "/drugs/lasmiditan/"
             },
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -2325,12 +2325,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -2347,7 +2347,7 @@
               "url": "/drugs/rutin/"
             },
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -2362,12 +2362,12 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -2397,7 +2397,7 @@
               "url": "/drugs/lasmiditan/"
             },
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -2427,12 +2427,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -2444,7 +2444,7 @@
           "keyword": "RA",
           "related_drugs": [
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -2459,7 +2459,7 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "sodium_acetate",
+              "slug": "sodium-acetate",
               "name": "Sodium acetate",
               "url": "/drugs/sodium-acetate/"
             },
@@ -2469,12 +2469,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -2504,7 +2504,7 @@
               "url": "/drugs/lasmiditan/"
             },
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -2534,12 +2534,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -2551,7 +2551,7 @@
           "keyword": "RA",
           "related_drugs": [
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -2566,7 +2566,7 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "sodium_acetate",
+              "slug": "sodium-acetate",
               "name": "Sodium acetate",
               "url": "/drugs/sodium-acetate/"
             },
@@ -2576,12 +2576,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -2606,7 +2606,7 @@
           "keyword": "RA",
           "related_drugs": [
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -2621,7 +2621,7 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "sodium_acetate",
+              "slug": "sodium-acetate",
               "name": "Sodium acetate",
               "url": "/drugs/sodium-acetate/"
             },
@@ -2631,12 +2631,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -2653,7 +2653,7 @@
               "url": "/drugs/rutin/"
             },
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -2668,12 +2668,12 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -2698,7 +2698,7 @@
           "keyword": "RA",
           "related_drugs": [
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -2713,7 +2713,7 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "sodium_acetate",
+              "slug": "sodium-acetate",
               "name": "Sodium acetate",
               "url": "/drugs/sodium-acetate/"
             },
@@ -2723,12 +2723,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -2778,7 +2778,7 @@
           "keyword": "RA",
           "related_drugs": [
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -2793,7 +2793,7 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "sodium_acetate",
+              "slug": "sodium-acetate",
               "name": "Sodium acetate",
               "url": "/drugs/sodium-acetate/"
             },
@@ -2803,12 +2803,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -2833,7 +2833,7 @@
           "keyword": "RA",
           "related_drugs": [
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -2848,7 +2848,7 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "sodium_acetate",
+              "slug": "sodium-acetate",
               "name": "Sodium acetate",
               "url": "/drugs/sodium-acetate/"
             },
@@ -2858,12 +2858,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -2910,7 +2910,7 @@
               "url": "/drugs/lasmiditan/"
             },
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -2940,12 +2940,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -2957,7 +2957,7 @@
           "keyword": "RA",
           "related_drugs": [
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -2972,7 +2972,7 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "sodium_acetate",
+              "slug": "sodium-acetate",
               "name": "Sodium acetate",
               "url": "/drugs/sodium-acetate/"
             },
@@ -2982,12 +2982,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -3012,7 +3012,7 @@
           "keyword": "RA",
           "related_drugs": [
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -3027,7 +3027,7 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "sodium_acetate",
+              "slug": "sodium-acetate",
               "name": "Sodium acetate",
               "url": "/drugs/sodium-acetate/"
             },
@@ -3037,12 +3037,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -3079,7 +3079,7 @@
           "keyword": "RA",
           "related_drugs": [
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -3094,7 +3094,7 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "sodium_acetate",
+              "slug": "sodium-acetate",
               "name": "Sodium acetate",
               "url": "/drugs/sodium-acetate/"
             },
@@ -3104,12 +3104,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -3176,7 +3176,7 @@
               "url": "/drugs/lasmiditan/"
             },
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -3206,12 +3206,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -3241,7 +3241,7 @@
               "url": "/drugs/lasmiditan/"
             },
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -3271,12 +3271,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -3306,7 +3306,7 @@
               "url": "/drugs/lasmiditan/"
             },
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -3336,12 +3336,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -3358,7 +3358,7 @@
               "url": "/drugs/rutin/"
             },
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -3373,12 +3373,12 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -3408,7 +3408,7 @@
               "url": "/drugs/lasmiditan/"
             },
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -3438,12 +3438,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -3490,7 +3490,7 @@
               "url": "/drugs/lasmiditan/"
             },
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -3520,12 +3520,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -3537,7 +3537,7 @@
           "keyword": "RA",
           "related_drugs": [
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -3552,7 +3552,7 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "sodium_acetate",
+              "slug": "sodium-acetate",
               "name": "Sodium acetate",
               "url": "/drugs/sodium-acetate/"
             },
@@ -3562,12 +3562,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -3622,7 +3622,7 @@
               "url": "/drugs/lasmiditan/"
             },
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -3652,12 +3652,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -3682,7 +3682,7 @@
           "keyword": "RA",
           "related_drugs": [
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -3697,7 +3697,7 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "sodium_acetate",
+              "slug": "sodium-acetate",
               "name": "Sodium acetate",
               "url": "/drugs/sodium-acetate/"
             },
@@ -3707,12 +3707,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -3759,7 +3759,7 @@
               "url": "/drugs/rutin/"
             },
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -3774,12 +3774,12 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -3804,7 +3804,7 @@
           "keyword": "RA",
           "related_drugs": [
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -3819,7 +3819,7 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "sodium_acetate",
+              "slug": "sodium-acetate",
               "name": "Sodium acetate",
               "url": "/drugs/sodium-acetate/"
             },
@@ -3829,12 +3829,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -3884,7 +3884,7 @@
           "keyword": "RA",
           "related_drugs": [
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -3899,7 +3899,7 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "sodium_acetate",
+              "slug": "sodium-acetate",
               "name": "Sodium acetate",
               "url": "/drugs/sodium-acetate/"
             },
@@ -3909,12 +3909,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -3931,7 +3931,7 @@
               "url": "/drugs/rutin/"
             },
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -3946,12 +3946,12 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -3981,7 +3981,7 @@
               "url": "/drugs/lasmiditan/"
             },
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -4011,12 +4011,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -4041,7 +4041,7 @@
           "keyword": "RA",
           "related_drugs": [
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -4056,7 +4056,7 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "sodium_acetate",
+              "slug": "sodium-acetate",
               "name": "Sodium acetate",
               "url": "/drugs/sodium-acetate/"
             },
@@ -4066,12 +4066,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -4096,7 +4096,7 @@
           "keyword": "RA",
           "related_drugs": [
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -4111,7 +4111,7 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "sodium_acetate",
+              "slug": "sodium-acetate",
               "name": "Sodium acetate",
               "url": "/drugs/sodium-acetate/"
             },
@@ -4121,12 +4121,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -4143,7 +4143,7 @@
               "url": "/drugs/rutin/"
             },
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -4158,12 +4158,12 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -4205,7 +4205,7 @@
               "url": "/drugs/lasmiditan/"
             },
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -4235,12 +4235,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -4270,7 +4270,7 @@
               "url": "/drugs/lasmiditan/"
             },
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -4300,12 +4300,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -4317,7 +4317,7 @@
           "keyword": "RA",
           "related_drugs": [
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -4332,7 +4332,7 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "sodium_acetate",
+              "slug": "sodium-acetate",
               "name": "Sodium acetate",
               "url": "/drugs/sodium-acetate/"
             },
@@ -4342,12 +4342,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -4402,7 +4402,7 @@
               "url": "/drugs/lasmiditan/"
             },
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -4432,12 +4432,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -4462,7 +4462,7 @@
           "keyword": "RA",
           "related_drugs": [
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -4477,7 +4477,7 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "sodium_acetate",
+              "slug": "sodium-acetate",
               "name": "Sodium acetate",
               "url": "/drugs/sodium-acetate/"
             },
@@ -4487,12 +4487,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -4539,7 +4539,7 @@
               "url": "/drugs/lasmiditan/"
             },
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -4569,12 +4569,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -4599,7 +4599,7 @@
           "keyword": "RA",
           "related_drugs": [
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -4614,7 +4614,7 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "sodium_acetate",
+              "slug": "sodium-acetate",
               "name": "Sodium acetate",
               "url": "/drugs/sodium-acetate/"
             },
@@ -4624,12 +4624,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -4659,7 +4659,7 @@
               "url": "/drugs/lasmiditan/"
             },
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -4689,12 +4689,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }
@@ -4706,7 +4706,7 @@
           "keyword": "RA",
           "related_drugs": [
             {
-              "slug": "insulin_lispro",
+              "slug": "insulin-lispro",
               "name": "Insulin lispro",
               "url": "/drugs/insulin-lispro/"
             },
@@ -4721,7 +4721,7 @@
               "url": "/drugs/teriparatide/"
             },
             {
-              "slug": "sodium_acetate",
+              "slug": "sodium-acetate",
               "name": "Sodium acetate",
               "url": "/drugs/sodium-acetate/"
             },
@@ -4731,12 +4731,12 @@
               "url": "/drugs/tadalafil/"
             },
             {
-              "slug": "insulin_glargine",
+              "slug": "insulin-glargine",
               "name": "Insulin glargine",
               "url": "/drugs/insulin-glargine/"
             },
             {
-              "slug": "insulin_human",
+              "slug": "insulin-human",
               "name": "Insulin human",
               "url": "/drugs/insulin-human/"
             }

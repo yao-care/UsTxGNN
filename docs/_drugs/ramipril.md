@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-14
 description: "Ramipril: predicted new indication Pulmonary hypertension owing to lung disease and/or hypoxia (evidence level L4). Approved use: Hypertension"
 monitor_inn: "RAMIPRIL"
-predicted_indications: ["malignant hypertensive renal disease", "brain stem infarction", "Prinzmetal angina", "intracerebral hemorrhage", "ABri amyloidosis"]
+predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "brain stem infarction", "Prinzmetal angina", "intracerebral hemorrhage", "ABri amyloidosis"]
 ---
 
 # Ramipril

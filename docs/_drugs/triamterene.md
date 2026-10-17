@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-10-14
 description: "Triamterene: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Hypertension, congestive heart failure"
 monitor_inn: "TRIAMTERENE"
-predicted_indications: ["malignant hypertensive renal disease", "chronic pulmonary heart disease"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "chronic pulmonary heart disease"]
 ---
 
 # Triamterene

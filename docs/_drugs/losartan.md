@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-10-14
 description: "Losartan: predicted new indication Malignant hypertensive renal disease (evidence level L4). Approved use: Hypertension, hypertensive disorder, diabetic nephropathy"
 monitor_inn: "LOSARTAN"
-predicted_indications: ["malignant hypertensive renal disease", "Prinzmetal angina", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Prinzmetal angina", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies"]
 ---
 
 # Losartan

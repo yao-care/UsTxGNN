@@ -1,6 +1,6 @@
 {
-  "generated": "2026-10-16",
-  "drug_count": 958,
+  "generated": "2026-10-17",
+  "drug_count": 957,
   "indication_count": 2003,
   "drugs": [
     {
@@ -173,14 +173,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Abiraterone Acetate Niraparib Tosylate Monohydrate",
-      "slug": "abiraterone-acetate-niraparib-tosylate-monohydrate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Acarbose",

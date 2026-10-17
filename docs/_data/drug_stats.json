@@ -1,12 +1,12 @@
 {
   "generated": "2026-10-17",
-  "total_drugs": 958,
+  "total_drugs": 957,
   "level_counts": {
     "L1": 43,
     "L2": 40,
     "L3": 62,
     "L4": 157,
-    "L5": 656
+    "L5": 655
   },
   "all_drugs": [
     {
@@ -32,12 +32,6 @@
       "slug": "abemaciclib",
       "level": "L4",
       "indication_count": 10
-    },
-    {
-      "name": "Abiraterone Acetate Niraparib Tosylate Monohydrate",
-      "slug": "abiraterone_acetate_niraparib_tosylate_monohydrate",
-      "level": "L5",
-      "indication_count": 0
     },
     {
       "name": "Acarbose",

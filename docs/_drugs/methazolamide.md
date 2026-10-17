@@ -5,10 +5,10 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 907
 evidence_level: L4
 indication_count: 3
-monitor_inn: "METHAZOLAMIDE"
-predicted_indications: ["primary hereditary glaucoma", "congestive heart failure", "acute pulmonary heart disease"]
 last_modified_at: 2026-10-14
 description: "Methazolamide: predicted new indication Primary hereditary glaucoma (evidence level L4). Approved use: Open-angle glaucoma, angle-closure glaucoma"
+monitor_inn: "METHAZOLAMIDE"
+predicted_indications: ["congestive heart failure", "acute pulmonary heart disease"]
 ---
 
 # Methazolamide
@@ -27,7 +27,7 @@ Evidence Level: **L4** | Predicted Indications: **3**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 

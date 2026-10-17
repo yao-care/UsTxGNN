@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 765
 evidence_level: L5
 indication_count: 10
-monitor_inn: "GUSELKUMAB"
-predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "psoriasis", "diabetic retinopathy", "renal osteodystrophy", "ulcerative colitis (disease)", "congenital hypotrichosis with juvenile macular dystrophy", "primary release disorder of platelets", "Glanzmann thrombasthenia", "non-renal secondary hyperparathyroidism"]
 last_modified_at: 2026-10-14
 description: "Guselkumab: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Not listed in the regulatory record"
+monitor_inn: "GUSELKUMAB"
+predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "renal osteodystrophy", "congenital hypotrichosis with juvenile macular dystrophy", "primary release disorder of platelets", "Glanzmann thrombasthenia", "non-renal secondary hyperparathyroidism"]
 ---
 
 # Guselkumab
@@ -27,7 +27,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 

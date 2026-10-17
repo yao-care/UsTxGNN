@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 980
 evidence_level: L5
 indication_count: 3
-monitor_inn: "OBINUTUZUMAB"
-predicted_indications: ["pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "follicular lymphoma"]
 last_modified_at: 2026-10-14
 description: "Obinutuzumab: predicted new indication Follicular lymphoma (evidence level L5). Approved use: Acute lymphoblastic/lymphocytic leukemia"
+monitor_inn: "OBINUTUZUMAB"
+predicted_indications: ["follicular lymphoma"]
 ---
 
 # Obinutuzumab
@@ -27,7 +27,7 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 

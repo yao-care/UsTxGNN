@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 1125
 evidence_level: L5
 indication_count: 6
-monitor_inn: "RIMEGEPANT"
-predicted_indications: ["migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
 last_modified_at: 2026-10-14
 description: "Rimegepant: predicted new indication Migraine with brainstem aura (evidence level L5). Approved use: Migraine disorder"
+monitor_inn: "RIMEGEPANT"
+predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
 ---
 
 # Rimegepant
@@ -27,7 +27,7 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 

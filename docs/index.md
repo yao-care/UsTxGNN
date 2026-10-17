@@ -27,7 +27,7 @@ UsTxGNN leverages the [TxGNN](https://www.nature.com/articles/s41591-024-03233-x
 ### Key Features
 
 - **104,000+ FDA Drugs**: Comprehensive coverage of US FDA approved medications
-- **Knowledge Graph Predictions**: Powered by TxGNN's biomedical knowledge graph
+- **Deep Learning Predictions**: TxGNN graph neural network trained on a biomedical knowledge graph; uses already recorded in the graph are excluded
 - **Evidence Integration**: Links to ClinicalTrials.gov, PubMed, and DrugBank
 - **FHIR R4 Compatible**: Standardized healthcare data exchange
 - **SMART on FHIR**: EHR integration ready

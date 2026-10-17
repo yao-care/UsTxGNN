@@ -5,10 +5,10 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1274
 evidence_level: L3
 indication_count: 3
-monitor_inn: "UBROGEPANT"
-predicted_indications: ["migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
 last_modified_at: 2026-10-14
 description: "Ubrogepant: predicted new indication Migraine with brainstem aura (evidence level L3). Approved use: Migraine (migraine disorder"
+monitor_inn: "UBROGEPANT"
+predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
 ---
 
 # Ubrogepant
@@ -27,7 +27,7 @@ Evidence Level: **L3** | Predicted Indications: **3**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 

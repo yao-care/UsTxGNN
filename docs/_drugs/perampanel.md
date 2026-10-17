@@ -5,10 +5,10 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1032
 evidence_level: L4
 indication_count: 10
-monitor_inn: "PERAMPANEL"
-predicted_indications: ["visual epilepsy", "startle epilepsy", "eating seizures", "audiogenic seizures", "orgasm-induced seizures", "thinking seizures", "micturation-induced seizures", "reading seizures", "beta-ketothiolase deficiency", "status epilepticus"]
 last_modified_at: 2026-10-14
 description: "Perampanel: predicted new indication Visual epilepsy (evidence level L4). Approved use: Partial epilepsy"
+monitor_inn: "PERAMPANEL"
+predicted_indications: ["beta-ketothiolase deficiency"]
 ---
 
 # Perampanel
@@ -27,7 +27,7 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 

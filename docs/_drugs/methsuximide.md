@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-14
 description: "Methsuximide: predicted new indication Insomnia (evidence level L5). Approved use: Epilepsy, absence epilepsy"
 monitor_inn: "METHSUXIMIDE"
-predicted_indications: ["insomnia (disease)", "nephrogenic syndrome of inappropriate antidiuresis", "sleep disorder, initiating and maintaining sleep", "nephrogenic diabetes insipidus", "acute encephalopathy with biphasic seizures and late reduced diffusion", "restless legs syndrome", "trichotillomania", "Wernicke-Korsakoff syndrome"]
+predicted_indications: ["insomnia (disease)", "nephrogenic syndrome of inappropriate antidiuresis", "sleep disorder, initiating and maintaining sleep", "nephrogenic diabetes insipidus", "restless legs syndrome", "trichotillomania", "Wernicke-Korsakoff syndrome"]
 ---
 
 # Methsuximide
@@ -27,7 +27,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 

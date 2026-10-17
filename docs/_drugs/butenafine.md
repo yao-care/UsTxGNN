@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-14
 description: "Butenafine: predicted new indication Cutaneous candidiasis (evidence level L4). Approved use: Tinea pedis, tinea corporis, tinea infection, pityriasis versicolor…"
 monitor_inn: "BUTENAFINE"
-predicted_indications: ["cutaneous candidiasis", "endothrix infectious disease", "ectothrix infectious disease", "Majocchi granuloma"]
+predicted_indications: ["endothrix infectious disease", "ectothrix infectious disease", "Majocchi granuloma"]
 ---
 
 # Butenafine
@@ -27,7 +27,7 @@ Evidence Level: **L4** | Predicted Indications: **5**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 

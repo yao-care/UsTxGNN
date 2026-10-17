@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 659
 evidence_level: L5
 indication_count: 2
-monitor_inn: "EPINASTINE"
-predicted_indications: ["rosacea conjunctivitis", "allergic urticaria"]
 last_modified_at: 2026-10-14
 description: "Epinastine: predicted new indication Rosacea conjunctivitis (evidence level L5). Approved use: Atopic conjunctivitis, papillary conjunctivitis, vernal conjunctivitis"
+monitor_inn: "EPINASTINE"
+predicted_indications: ["allergic urticaria"]
 ---
 
 # Epinastine
@@ -27,7 +27,7 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 

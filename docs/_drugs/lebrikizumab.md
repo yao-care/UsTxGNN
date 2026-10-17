@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 841
 evidence_level: L5
 indication_count: 10
-monitor_inn: "Lebrikizumab"
-predicted_indications: ["severe nonproliferative diabetic retinopathy", "drug-induced osteoporosis", "diabetic retinopathy", "primary release disorder of platelets", "dermatitis", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "neonatal dermatomyositis", "psoriasis", "HER2 positive breast carcinoma"]
 last_modified_at: 2026-10-14
 description: "Lebrikizumab: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Atopic dermatitis"
+monitor_inn: "Lebrikizumab"
+predicted_indications: ["severe nonproliferative diabetic retinopathy", "drug-induced osteoporosis", "diabetic retinopathy", "primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "neonatal dermatomyositis", "psoriasis", "HER2 positive breast carcinoma"]
 ---
 
 # Lebrikizumab
@@ -27,7 +27,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 

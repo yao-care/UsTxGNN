@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 908
 evidence_level: L5
 indication_count: 10
-monitor_inn: "METHIONINE"
-predicted_indications: ["acne (disease)", "severe nonproliferative diabetic retinopathy", "nuclear senile cataract", "mature cataract", "immature cataract", "diabetes mellitus type 2 associated cataract", "cortical cataract", "tetanic cataract", "craniostenosis cataract", "diabetic cataract"]
 last_modified_at: 2026-10-14
 description: "Methionine: predicted new indication Acne (disease) (evidence level L5). Approved use: Not available (the one US listing has no indication text)"
+monitor_inn: "METHIONINE"
+predicted_indications: ["severe nonproliferative diabetic retinopathy", "nuclear senile cataract", "mature cataract", "immature cataract", "diabetes mellitus type 2 associated cataract", "cortical cataract", "tetanic cataract", "craniostenosis cataract", "diabetic cataract"]
 ---
 
 # Methionine
@@ -27,7 +27,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 

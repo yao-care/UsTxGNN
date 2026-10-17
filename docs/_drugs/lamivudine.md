@@ -5,10 +5,10 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 830
 evidence_level: L4
 indication_count: 5
-monitor_inn: "LAMIVUDINE"
-predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "chronic hepatitis C virus infection"]
 last_modified_at: 2026-10-14
 description: "Lamivudine: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: Chronic hepatitis B virus infection"
+monitor_inn: "LAMIVUDINE"
+predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
 ---
 
 # Lamivudine
@@ -27,7 +27,7 @@ Evidence Level: **L4** | Predicted Indications: **5**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 

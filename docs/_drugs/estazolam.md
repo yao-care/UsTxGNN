@@ -5,10 +5,10 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 673
 evidence_level: L4
 indication_count: 10
-monitor_inn: "ESTAZOLAM"
-predicted_indications: ["insomnia (disease)", "visual epilepsy", "alcohol withdrawal delirium", "restless legs syndrome", "myofascial pain syndrome", "thinking seizures", "micturation-induced seizures", "audiogenic seizures", "eating seizures", "orgasm-induced seizures"]
 last_modified_at: 2026-10-14
 description: "Estazolam: predicted new indication Insomnia (disease) (evidence level L4). Approved use: Not available in the US license records (indication text is blank). I…"
+monitor_inn: "ESTAZOLAM"
+predicted_indications: ["visual epilepsy", "alcohol withdrawal delirium", "restless legs syndrome", "myofascial pain syndrome", "thinking seizures", "micturation-induced seizures", "audiogenic seizures", "eating seizures", "orgasm-induced seizures"]
 ---
 
 # Estazolam
@@ -27,7 +27,7 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 

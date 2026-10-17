@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 1283
 evidence_level: L5
 indication_count: 10
-monitor_inn: "VANCOMYCIN"
-predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "congenital analbuminemia", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "typhoid fever", "blood group incompatibility", "streptococcal pneumonia", "premalignant hematological system disease"]
 last_modified_at: 2026-10-14
 description: "Vancomycin: predicted new indication Diffuse Scleroderma (evidence level L5). Approved use: Clostridium difficile colitis (other listed uses: staphylococcal infe…"
+monitor_inn: "VANCOMYCIN"
+predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "congenital analbuminemia", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "typhoid fever", "blood group incompatibility", "premalignant hematological system disease"]
 ---
 
 # Vancomycin
@@ -27,7 +27,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 

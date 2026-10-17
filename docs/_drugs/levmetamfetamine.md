@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-10-14
 description: "Levmetamfetamine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Pharyngitis"
 monitor_inn: "LEVMETAMFETAMINE"
-predicted_indications: ["nasal cavity disease"]
+predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis"]
 ---
 
 # Levmetamfetamine
@@ -27,7 +27,7 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 

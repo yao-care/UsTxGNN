@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 840
 evidence_level: L5
 indication_count: 10
-monitor_inn: "LATANOPROSTENE BUNOD"
-predicted_indications: ["visceral calciphylaxis", "primary hereditary glaucoma", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "idiopathic spontaneous coronary artery dissection", "angiodysplasia of stomach", "lymphangiectasis", "hemangioendothelioma"]
 last_modified_at: 2026-10-14
 description: "Latanoprostene Bunod: predicted new indication Visceral calciphylaxis (evidence level L5). Approved use: Open-angle glaucoma"
+monitor_inn: "LATANOPROSTENE BUNOD"
+predicted_indications: ["visceral calciphylaxis", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "idiopathic spontaneous coronary artery dissection", "angiodysplasia of stomach", "lymphangiectasis", "hemangioendothelioma"]
 ---
 
 # Latanoprostene Bunod
@@ -27,7 +27,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 

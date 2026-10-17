@@ -5,8 +5,6 @@ parent: Model Prediction Only (L5)
 nav_order: 989
 evidence_level: L5
 indication_count: 1
-monitor_inn: "OLOPATADINE"
-predicted_indications: ["rosacea conjunctivitis"]
 last_modified_at: 2026-10-14
 description: "Olopatadine: predicted new indication Rosacea conjunctivitis (evidence level L5). Approved use: Allergic rhinitis (also vasomotor rhinitis, atopic conjunctivitis…"
 ---
@@ -27,7 +25,7 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 

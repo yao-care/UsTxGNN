@@ -7,8 +7,6 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Capecitabine: predicted new indication Top-ranked: gastric adenocarcinoma and proximal polyposis of the stom… (evidence level L5). Approved use: Metastasis from malignant tumor of colon"
-monitor_inn: "CAPECITABINE"
-predicted_indications: ["gastric adenocarcinoma and proximal polyposis of the stomach", "signet ring cell gastric adenocarcinoma", "gastric tubular adenocarcinoma", "gastric cardia adenocarcinoma"]
 ---
 
 # Capecitabine
@@ -27,7 +25,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 

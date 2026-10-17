@@ -5,8 +5,6 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 664
 evidence_level: L4
 indication_count: 1
-monitor_inn: "EPTINEZUMAB"
-predicted_indications: ["migraine with brainstem aura"]
 last_modified_at: 2026-10-14
 description: "Eptinezumab: predicted new indication Migraine with brainstem aura (evidence level L4). Approved use: Migraine disorder (migraine with or without aura)"
 ---
@@ -27,7 +25,7 @@ Evidence Level: **L4** | Predicted Indications: **1**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 

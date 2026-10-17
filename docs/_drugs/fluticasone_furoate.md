@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-10-14
 description: "Fluticasone Furoate: predicted new indication Atopic eczema (evidence level L4). Approved use: Asthma, allergic asthma, intrinsic asthma, allergic rhinitis…"
 monitor_inn: "FLUTICASONE FUROATE"
-predicted_indications: ["atopic eczema", "bronchitis", "2-hydroxyethyl methacrylate sensitization", "dermatitis, atopic", "contact dermatitis", "occupational dermatitis", "phototoxic dermatitis"]
+predicted_indications: ["atopic eczema", "2-hydroxyethyl methacrylate sensitization", "dermatitis, atopic", "contact dermatitis", "occupational dermatitis", "phototoxic dermatitis"]
 ---
 
 # Fluticasone Furoate
@@ -27,7 +27,7 @@ Evidence Level: **L4** | Predicted Indications: **8**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 

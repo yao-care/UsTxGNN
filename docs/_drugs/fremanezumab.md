@@ -5,10 +5,10 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 741
 evidence_level: L4
 indication_count: 2
-monitor_inn: "FREMANEZUMAB"
-predicted_indications: ["migraine with brainstem aura", "atrophoderma vermiculata"]
 last_modified_at: 2026-10-14
 description: "Fremanezumab: predicted new indication Migraine with brainstem aura (evidence level L4). Approved use: Migraine disorder"
+monitor_inn: "FREMANEZUMAB"
+predicted_indications: ["atrophoderma vermiculata"]
 ---
 
 # Fremanezumab
@@ -27,7 +27,7 @@ Evidence Level: **L4** | Predicted Indications: **2**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 

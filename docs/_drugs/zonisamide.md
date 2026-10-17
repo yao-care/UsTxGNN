@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 1312
 evidence_level: L5
 indication_count: 10
-monitor_inn: "ZONISAMIDE"
-predicted_indications: ["Tourette syndrome", "trichotillomania", "methemoglobinemia, alpha type", "methemoglobinemia", "Prinzmetal angina", "methemoglobin reductase deficiency", "manic bipolar affective disorder", "absence epilepsy", "fibromyalgia", "conjunctivitis"]
 last_modified_at: 2026-10-14
 description: "Zonisamide: predicted new indication Tourette syndrome (evidence level L5). Approved use: Not available"
+monitor_inn: "ZONISAMIDE"
+predicted_indications: ["Tourette syndrome", "trichotillomania", "methemoglobinemia, alpha type", "methemoglobinemia", "Prinzmetal angina", "methemoglobin reductase deficiency", "manic bipolar affective disorder", "fibromyalgia", "conjunctivitis"]
 ---
 
 # Zonisamide
@@ -27,7 +27,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 

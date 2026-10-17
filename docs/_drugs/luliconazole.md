@@ -5,10 +5,10 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 876
 evidence_level: L4
 indication_count: 7
-monitor_inn: "LULICONAZOLE"
-predicted_indications: ["pityriasis versicolor", "superficial mycosis", "cutaneous candidiasis", "endothrix infectious disease", "dermatophytosis of scalp or beard", "Majocchi granuloma", "ectothrix infectious disease"]
 last_modified_at: 2026-10-14
 description: "Luliconazole: predicted new indication Pityriasis versicolor (evidence level L4). Approved use: Tinea pedis, tinea corporis, tinea infection…"
+monitor_inn: "LULICONAZOLE"
+predicted_indications: ["pityriasis versicolor", "endothrix infectious disease", "Majocchi granuloma", "ectothrix infectious disease"]
 ---
 
 # Luliconazole
@@ -27,7 +27,7 @@ Evidence Level: **L4** | Predicted Indications: **7**
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## Pharmacist Assessment Report
 

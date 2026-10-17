@@ -3,7 +3,7 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 7 articles, 2 related drugs."
+description: "Health news about flu (influenza). 8 articles, 2 related drugs."
 permalink: /news/influenza/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/influenza/
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>7 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>8 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (7)
+## Related News (8)
 
 ### [Flu activity is starting to rise. Is this year’s vaccine a good match? - NBC News](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWE5zYlp3OWpSUS1jTkQ1c04wVlhwZjNwc2d4eHVrdGp0TW0yZVZSWXN4WmFHazY5bklxX1BrRU8tMzNOcnJtZGFmX2ZQd2trc3VUZFBGWHBSTlQ1UERoV042N0wwSmF0d21qUV94Q1o5a1lncjRyZGxkVDB1bFJGMmx2cThuSDZVV0k4cEZBSURHYmxaenVVVm50NllPbHFUU1RfbFl6SkZxdnV3aWc?oc=5)
 
@@ -53,6 +53,14 @@ Source: [Prevention](https://news.google.com/rss/articles/CBMijAFBVV95cUxQZy1rRF
 2026-10-16
 
 Source: [MarketWatch](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVlpaNHR3YkJRQkVMa2xqcTMxY2hNNEwtQW04eG5RNXJlazBpdWxUZFJrWGY1RGxldkYzQUhfWlZQUnU4d0ZjOWQwdVRRS3FoNG9vLTdzb2d2dUhXZWEwSnF0eDFVbkszcHFBSEFZWmlyN215VlFZRjcxaVBkTHZraFUtVjl3V3VlMEd2VFE0QUpBYWt3UGdnaFZwRFNHeG5hNVh4VXZKQlNhS1VZLWplcEg1Ukw?oc=5)
+
+---
+
+### [Jackie, the famous the bald eagle mama in California, died of bird flu - The Washington Post](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLWxvZHJHYjlyT0puRTlFQ21qRWY3aXFhd0VnS2RxbDk5REhUS0kzdHN4aklMc1Y5a3J1cXZRMXg4OURZUzFQZ3NRVzd6SjNUT2wzbVRMUU1iV1lrZTc0LVZxenA1RXVEcTZxYmhweHdtUzdLR0JuTnR0Ulh1Zl9TTnBRY2FNR21sVlNMQ3d6LUxyT0F6NjhELVNwTjM3WnVpN09PUnUxaEdjdHNwRnFJTWl3RGNsNVg1?oc=5)
+
+2026-10-16
+
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOLWxvZHJHYjlyT0puRTlFQ21qRWY3aXFhd0VnS2RxbDk5REhUS0kzdHN4aklMc1Y5a3J1cXZRMXg4OURZUzFQZ3NRVzd6SjNUT2wzbVRMUU1iV1lrZTc0LVZxenA1RXVEcTZxYmhweHdtUzdLR0JuTnR0Ulh1Zl9TTnBRY2FNR21sVlNMQ3d6LUxyT0F6NjhELVNwTjM3WnVpN09PUnUxaEdjdHNwRnFJTWl3RGNsNVg1?oc=5)
 
 ---
 

@@ -3,7 +3,7 @@ layout: default
 title: "cancer News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer. 10 articles, 1 related drugs."
+description: "Health news about cancer. 9 articles, 1 related drugs."
 permalink: /news/cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cancer/
 ---
 
 <p class="key-answer" data-question="What news is there about cancer?">
-<strong>cancer</strong> currently has <strong>10 news articles</strong> and 1 related drugs.
+<strong>cancer</strong> currently has <strong>9 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (10)
+## Related News (9)
 
 ### [U of A cancer researcher dies of same disease she fought to cure - Arizona Daily Star](https://news.google.com/rss/articles/CBMingFBVV95cUxOZlhqWUZTUnBlUVUwV1JmMVZiZDA2YnNQNHdEd01telp3N2RZREwxZUJLT2VJdGN1NnYzbWVSbmJKSTVuNk0wdXUzdFJubDhHRDhNRHdIeGJ6REFleUo1cHZHemhqYUxYdHkxTHVSdFNaV1MyRFVQbXVxZUxPdTVQcVBxSnRRRE53b0FkU0V0Q3VZdDRfMlRySWpOakQ3QQ?oc=5)
 
@@ -60,14 +60,6 @@ Source: [Futurism](https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZbzV6TDYt
 2026-10-16
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMitgFBVV95cUxONmZqLTVobEI1djdWbDVRUlJ3b0Zzajl1YVZGeVZQZTNNdzJ6V2cyVWdRdnhZaWNyN1ptVmJOWXFrbzVpa0xXME5WQjFFNzNOcm5WN3QySGEtVmpKMlFSc1VvTEwtM1gzQ3Z1ejM5UVV5WFBDUjBhMXY2T2Ytd3lMalhFVDVTdDh5dHhTUVRGY1pNRFpmRkpMcjV4Tk1haTBIcVgtNS1lYk5vMnhTUnZrQzNtN1Z2Zw?oc=5)
-
----
-
-### [Cancer strikes twice: husband and wife diagnosed in same month, undergo chemo together](https://news.google.com/rss/articles/CBMiakFVX3lxTE9qamNoNml0X1U5UG54U0VKRGZjaE1xWnp0bC15cVJiaE5KUndkU0RSTmx2Rk02c0ZETVRpclNjdlhzWWo4cmZfZ2RoNWZXc0tWMkJFMlI5c21qVktzbEdVZzhqOVdGMllFRmc?oc=5)
-
-2026-10-16
-
-Source: [Ynetnews](https://news.google.com/rss/articles/CBMiakFVX3lxTE9qamNoNml0X1U5UG54U0VKRGZjaE1xWnp0bC15cVJiaE5KUndkU0RSTmx2Rk02c0ZETVRpclNjdlhzWWo4cmZfZ2RoNWZXc0tWMkJFMlI5c21qVktzbEdVZzhqOVdGMllFRmc?oc=5)
 
 ---
 
@@ -103,11 +95,11 @@ Source: [The Washington Post](https://news.google.com/rss/articles/CBMitwFBVV95c
 
 ---
 
-### [Woman Who Survived Colon Cancer 3 Times Reveals the First Symptom She Noticed at 14: ‘I Hid It From Everyone’ - Yahoo News UK](https://news.google.com/rss/articles/CBMiekFVX3lxTFBPcVUyRl9KOWNFdUlIV3hZMy1rMGhDeTVGRDV5R0hYQ05kUWgtTThuanN3TFpkVmdJRy1zaU5MYnBKTjRpM0NkcjI5T19saGlpTlA3dFY5bjh6ZWZMRTJyY2dFWmxadDFmOFBjUkFJV2dDUXVSbzZ6QVFB?oc=5)
+### [9 Best Fruits to Help Reduce Cancer Risk with Fiber and ‘Potent’ Antioxidants](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTjI3N19Qd0RZeS1fTjJ6Y3RRSnZZeHdMQnpjREljTVJQWEFEeVkxX1BwZC1NUUphUkFiRWMzZElwd05ZOVl0LU5QQ19wbmw1WVpVcHVqRXMtUkhlMDl0eFJvVWVfRGp5Nmc4UXNDakkxcVVRMDAwTGhLcVMxa3V4ZE84QnJLQjdESEVZalBnNkRaeFBrenpNcDN4UQ?oc=5)
 
 2026-10-13
 
-Source: [Yahoo News UK](https://news.google.com/rss/articles/CBMiekFVX3lxTFBPcVUyRl9KOWNFdUlIV3hZMy1rMGhDeTVGRDV5R0hYQ05kUWgtTThuanN3TFpkVmdJRy1zaU5MYnBKTjRpM0NkcjI5T19saGlpTlA3dFY5bjh6ZWZMRTJyY2dFWmxadDFmOFBjUkFJV2dDUXVSbzZ6QVFB?oc=5)
+Source: [TODAY.com](https://news.google.com/rss/articles/CBMimwFBVV95cUxNTjI3N19Qd0RZeS1fTjJ6Y3RRSnZZeHdMQnpjREljTVJQWEFEeVkxX1BwZC1NUUphUkFiRWMzZElwd05ZOVl0LU5QQ19wbmw1WVpVcHVqRXMtUkhlMDl0eFJvVWVfRGp5Nmc4UXNDakkxcVVRMDAwTGhLcVMxa3V4ZE84QnJLQjdESEVZalBnNkRaeFBrenpNcDN4UQ?oc=5)
 
 ---
 

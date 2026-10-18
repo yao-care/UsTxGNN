@@ -3,7 +3,7 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 6 articles, 2 related drugs."
+description: "Health news about flu (influenza). 5 articles, 2 related drugs."
 permalink: /news/influenza/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/influenza/
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>6 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>5 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (6)
+## Related News (5)
 
 ### [A Reporter Who Saw Covid Coming Has Died - The New York Times](https://news.google.com/rss/articles/CBMidkFVX3lxTE1jRnFPdUJrbnVoNzJDTkc1UU1ta2JDTVdmX29ad1lzd2s1ZkNySkFHZVZZRjR1bEZMdTd1UVI0dGtaRW1vcldramJmVDlBZHlOX2dFU19NVThYcDVJSFgzbEtwR3RXUnFZdjF5NFphQm5laHdTYXc?oc=5)
 
@@ -64,19 +64,11 @@ Source: [NBC News](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWE5zYlp3
 
 ---
 
-### [This ‘Grossly Underreported’ Virus Is Often Mistaken for the Flu, Doctors Say](https://news.google.com/rss/articles/CBMijAFBVV95cUxQZy1rRFpjOGYtVEZWMk9KZUpMVXRVOTNYY2dPSTJ1WnAyUVR1QTlXMmllYWtISlg1OC05REowMW50a1lNbzBmWVVNd1lMN082MXFVeHVRNmNLb2Z2UDk4eEwydUNUWHBZbmhFU2tHa0xhc3c3UUpPOUFndzYxbWZrYVNEaXVtM3dtTlZEbA?oc=5)
+### [West Nile virus rampant in the South Bay, health officials say - Daily Breeze](https://news.google.com/rss/articles/CBMiowFBVV95cUxQeTZ2bWE2T2ZMV0oyYzRNY2d3MkNIZlFmTll2SjhpQWZTRlo3enZCOTVXbDcwX3ZlREpfbm5rdWFvVDJSUWNuYTNhSEpCZUVSd0E4QlJBMW9uZ3ptMzZXNXd5Vk9iWkUybUczVkk1bFFIY0xBcW1naFU0U3I5NFluaExSdkJ3OTdCVVFYQW9VOS1GTm1wc2N1SDRMWkJ1QVJYQ0lN?oc=5)
 
 2026-10-16
 
-Source: [Prevention](https://news.google.com/rss/articles/CBMijAFBVV95cUxQZy1rRFpjOGYtVEZWMk9KZUpMVXRVOTNYY2dPSTJ1WnAyUVR1QTlXMmllYWtISlg1OC05REowMW50a1lNbzBmWVVNd1lMN082MXFVeHVRNmNLb2Z2UDk4eEwydUNUWHBZbmhFU2tHa0xhc3c3UUpPOUFndzYxbWZrYVNEaXVtM3dtTlZEbA?oc=5)
-
----
-
-### [Big Bear bald eagle Jackie's cause of death revealed - Good Morning America](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUFJ4SGxOeVdYTFhzQnUzTEZMTHpLY0MtM2RvcXRTNDk4dk11OVdQVjY5VmF0Y2hSWW12ZzhvSnlGMTltUUhiQjRsSVJLLU5jSGszMFRCX3ByOFE5VmNreGVzbGtPNXpBRjYzbTdKdWllbVhhVTk4OEx0bGktSVRpOWZXQ0p3SkVZLUx5STJOaTBCUzlhc0pnOFl3aWZOdDl4UERwbXJxb0VhZ9IBrwFBVV95cUxOQklyVHVJcWxRc3FKbFNsODBXVXh3V0N2aDQ0bTJiSlhxOTlkVzNXMmZuOWtLNm9CRURQSTc1N05FeWk5N1ZlUFpTbmR2OTZ4cGM1UEI3ZTE4UmFQc3BzUnJVdzhuMDVCVlRDdTlaM29IWlpfVG5uWUxJOFVFVkxDSjZJWWJzYlE3SjBUM2UyMjhzNEgyRC13MVduYzN2U3V5blR3Q0VYeDJNb2hCVXJv?oc=5)
-
-2026-10-15
-
-Source: [Good Morning America](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUFJ4SGxOeVdYTFhzQnUzTEZMTHpLY0MtM2RvcXRTNDk4dk11OVdQVjY5VmF0Y2hSWW12ZzhvSnlGMTltUUhiQjRsSVJLLU5jSGszMFRCX3ByOFE5VmNreGVzbGtPNXpBRjYzbTdKdWllbVhhVTk4OEx0bGktSVRpOWZXQ0p3SkVZLUx5STJOaTBCUzlhc0pnOFl3aWZOdDl4UERwbXJxb0VhZ9IBrwFBVV95cUxOQklyVHVJcWxRc3FKbFNsODBXVXh3V0N2aDQ0bTJiSlhxOTlkVzNXMmZuOWtLNm9CRURQSTc1N05FeWk5N1ZlUFpTbmR2OTZ4cGM1UEI3ZTE4UmFQc3BzUnJVdzhuMDVCVlRDdTlaM29IWlpfVG5uWUxJOFVFVkxDSjZJWWJzYlE3SjBUM2UyMjhzNEgyRC13MVduYzN2U3V5blR3Q0VYeDJNb2hCVXJv?oc=5)
+Source: [Daily Breeze](https://news.google.com/rss/articles/CBMiowFBVV95cUxQeTZ2bWE2T2ZMV0oyYzRNY2d3MkNIZlFmTll2SjhpQWZTRlo3enZCOTVXbDcwX3ZlREpfbm5rdWFvVDJSUWNuYTNhSEpCZUVSd0E4QlJBMW9uZ3ptMzZXNXd5Vk9iWkUybUczVkk1bFFIY0xBcW1naFU0U3I5NFluaExSdkJ3OTdCVVFYQW9VOS1GTm1wc2N1SDRMWkJ1QVJYQ0lN?oc=5)
 
 ---
 

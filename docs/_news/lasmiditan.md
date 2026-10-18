@@ -14,7 +14,7 @@ permalink: /news/lasmiditan/
 ---
 
 <p class="key-answer" data-question="What news is there about Lasmiditan?">
-<strong>Lasmiditan</strong> currently has <strong>26 news articles</strong>, with 3 predicted indications.
+<strong>Lasmiditan</strong> currently has <strong>24 news articles</strong>, with 3 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page combines the AI-predicted indications for Lasmiditan with the latest h
 <p><a href="{{ '/drugs/lasmiditan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (26)
+## Related News (24)
+
+### [Scientists tested 39 sweeteners and uncovered surprising gut effects - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE52NXVlTFYtSFJHdzV5TE5UYk5BdXlvWDhZYTdnOVRRazZFQi02QllSV1VBeVNNcTRvbDNVOEszRXVnSURqSFZfVXdKSVBYaGRtNEZFbXB6OVBwbllLVFl1TWQ5N0J5amk0UDhSWG51NA?oc=5)
+
+2026-10-18 <span class="news-indication-tag">MI</span>
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE52NXVlTFYtSFJHdzV5TE5UYk5BdXlvWDhZYTdnOVRRazZFQi02QllSV1VBeVNNcTRvbDNVOEszRXVnSURqSFZfVXdKSVBYaGRtNEZFbXB6OVBwbllLVFl1TWQ5N0J5amk0UDhSWG51NA?oc=5)
+
+---
 
 ### [A Reporter Who Saw Covid Coming Has Died - The New York Times](https://news.google.com/rss/articles/CBMidkFVX3lxTE1jRnFPdUJrbnVoNzJDTkc1UU1ta2JDTVdmX29ad1lzd2s1ZkNySkFHZVZZRjR1bEZMdTd1UVI0dGtaRW1vcldramJmVDlBZHlOX2dFU19NVThYcDVJSFgzbEtwR3RXUnFZdjF5NFphQm5laHdTYXc?oc=5)
 
@@ -60,35 +68,11 @@ Source: [CBS News](https://news.google.com/rss/articles/CBMijAFBVV95cUxQMWY4d0pS
 
 ---
 
-### [CDC to send ‘disease detective’ to help tackle Pennsylvania measles outbreak - The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVUNHRzVfU3BUQV84MFNyU1JOTnp2UmY5RnZoQ3RGZWFLRWo4WFBaRU9KaHBPTHFtNzhNWDlwRnZaMkdMLVBSMmdtRnVCWkpMMXZyU21LaVZEN3hXYjh2RUlGMmtCTWVBM3VCSVVLX0hZZDZKdl9WRWI3NzNOREM4ZjZMbVZvbUxKNjc4cTUzalFOOV9O?oc=5)
-
-2026-10-17 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
-
-Source: [The Guardian](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVUNHRzVfU3BUQV84MFNyU1JOTnp2UmY5RnZoQ3RGZWFLRWo4WFBaRU9KaHBPTHFtNzhNWDlwRnZaMkdMLVBSMmdtRnVCWkpMMXZyU21LaVZEN3hXYjh2RUlGMmtCTWVBM3VCSVVLX0hZZDZKdl9WRWI3NzNOREM4ZjZMbVZvbUxKNjc4cTUzalFOOV9O?oc=5)
-
----
-
 ### [New research shows how microplastics and water interactions could lead to cell damage - Los Angeles Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOUZLX0N3blpYOC1TTjM5QmJucTRudXBCalJKQ3kyMjBidmdWRFRTS2l5ZW10SE0wTWhLQzZLTVcwMVByMUhBSWJxV2pmQ05GSlVSZHJEdGRHOE0wZnlKOHNYT2hvRWtWS2tNekltWmQzOWFmUDMyV0FlMXBERTJoaWl4VUFtMWVUSEQyRkpuSGxnMk0zRVN4b2pLc2g0cEhwRlpjYlptU0w?oc=5)
 
 2026-10-17 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
 
 Source: [Los Angeles Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOUZLX0N3blpYOC1TTjM5QmJucTRudXBCalJKQ3kyMjBidmdWRFRTS2l5ZW10SE0wTWhLQzZLTVcwMVByMUhBSWJxV2pmQ05GSlVSZHJEdGRHOE0wZnlKOHNYT2hvRWtWS2tNekltWmQzOWFmUDMyV0FlMXBERTJoaWl4VUFtMWVUSEQyRkpuSGxnMk0zRVN4b2pLc2g0cEhwRlpjYlptU0w?oc=5)
-
----
-
-### [Teen Dismissed ‘Hormone-Related Symptoms’ as ‘Stress.’ If She Had Brushed Them Off for 2 More Months, She ‘Might Be Dead’ (Exclusive)](https://news.google.com/rss/articles/CBMimwFBVV95cUxQeTRBSVN4X3NMNEN3WXYzRlAzdnkzcF85cUFNU1FXZDctMzF1bHQ0dkVwZXZQSC1EeU1WRzl0OU9ZUU9OV09HN3VJQWNEUUY5ZG9uYmNobkNqdHRBdkZkejhtZ1VKYTdLUmt6bGNQdnlpODA0R2lFU0xWbFFuZ2NBUUhoeWF0WGJBNGpzOFNLZWp0ZGdIZkJYaWJPSQ?oc=5)
-
-2026-10-17 <span class="news-indication-tag">MI</span>
-
-Source: [Yahoo](https://news.google.com/rss/articles/CBMimwFBVV95cUxQeTRBSVN4X3NMNEN3WXYzRlAzdnkzcF85cUFNU1FXZDctMzF1bHQ0dkVwZXZQSC1EeU1WRzl0OU9ZUU9OV09HN3VJQWNEUUY5ZG9uYmNobkNqdHRBdkZkejhtZ1VKYTdLUmt6bGNQdnlpODA0R2lFU0xWbFFuZ2NBUUhoeWF0WGJBNGpzOFNLZWp0ZGdIZkJYaWJPSQ?oc=5)
-
----
-
-### [Kennedy says Shapiro, Pa. officials politicized measles outbreak, blames infections on covid lockdown](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNTFMekpmLTQ1Y3BLYmR1WFppY1hFbjJMOWRHMDVJN0dfems0OTRmUXczV015NzhNTnlLRncwOXM3YWp3Um8yalV1bnpnM3lKU2piaUV5TFFpVmpaNlF1NHFxaGV5TXM1bzA2UG9WT2lSWmloZWVtUEp4Y2M2UzRacnpzd2pTODRQNEU2SGhGNmEtY1pQNGF4SlZZOG54TTBHUWJnMFZ3b2IxX0syU01VYzUwOVRuSjFOMWRRdUNudVpicUJ5S3dHSTU3d0RmdGZ6OUNCZQ?oc=5)
-
-2026-10-16 <span class="news-indication-tag">MI</span>
-
-Source: [TribLIVE.com](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNTFMekpmLTQ1Y3BLYmR1WFppY1hFbjJMOWRHMDVJN0dfems0OTRmUXczV015NzhNTnlLRncwOXM3YWp3Um8yalV1bnpnM3lKU2piaUV5TFFpVmpaNlF1NHFxaGV5TXM1bzA2UG9WT2lSWmloZWVtUEp4Y2M2UzRacnpzd2pTODRQNEU2SGhGNmEtY1pQNGF4SlZZOG54TTBHUWJnMFZ3b2IxX0syU01VYzUwOVRuSjFOMWRRdUNudVpicUJ5S3dHSTU3d0RmdGZ6OUNCZQ?oc=5)
 
 ---
 
@@ -108,11 +92,35 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVcHdFc2ozZl
 
 ---
 
+### [Is the glymphatic system the new way to protect your brain? - The Times](https://news.google.com/rss/articles/CBMijwFBVV95cUxNWU9uR3c5RmRMUHduR2l5WWdUU0dNRDg3T0lEV2l2Ry1hWWNvdC1uY2V6eXNGOXNIekRVWUdJTUJfeFhNTGcwTzc4cFB3Qjcwc3BUczU0N1hRVy1QS3VHc3hmcVA4UUZ6cENxSDRSV3hvMlNxdG9aUGtBZWlBUkt6eW5xTGdXVnR6T3gyNUpVSQ?oc=5)
+
+2026-10-16 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+
+Source: [The Times](https://news.google.com/rss/articles/CBMijwFBVV95cUxNWU9uR3c5RmRMUHduR2l5WWdUU0dNRDg3T0lEV2l2Ry1hWWNvdC1uY2V6eXNGOXNIekRVWUdJTUJfeFhNTGcwTzc4cFB3Qjcwc3BUczU0N1hRVy1QS3VHc3hmcVA4UUZ6cENxSDRSV3hvMlNxdG9aUGtBZWlBUkt6eW5xTGdXVnR6T3gyNUpVSQ?oc=5)
+
+---
+
+### [RFK Jr. Pledged to Advance Anti-Vaccine Group’s Goals. Here’s What He’s Doing. - The New York Times](https://news.google.com/rss/articles/CBMidkFVX3lxTE9rc045Nk4zTHNOUFBjYTZmY2YxNE4xLTdISEt6a0F2cDBOMW9TaHhiNkxkME5YVzBfU1pXT254QXgzbW1jX2hsRmQwZHV2c2NleUduVTdScHlWb0FYSzJETms4TDYxZ01vNlIzNEVUU1Blb2RYV1E?oc=5)
+
+2026-10-16 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+
+Source: [The New York Times](https://news.google.com/rss/articles/CBMidkFVX3lxTE9rc045Nk4zTHNOUFBjYTZmY2YxNE4xLTdISEt6a0F2cDBOMW9TaHhiNkxkME5YVzBfU1pXT254QXgzbW1jX2hsRmQwZHV2c2NleUduVTdScHlWb0FYSzJETms4TDYxZ01vNlIzNEVUU1Blb2RYV1E?oc=5)
+
+---
+
 ### [West Nile virus rampant in the South Bay, health officials say - Daily Breeze](https://news.google.com/rss/articles/CBMiowFBVV95cUxQeTZ2bWE2T2ZMV0oyYzRNY2d3MkNIZlFmTll2SjhpQWZTRlo3enZCOTVXbDcwX3ZlREpfbm5rdWFvVDJSUWNuYTNhSEpCZUVSd0E4QlJBMW9uZ3ptMzZXNXd5Vk9iWkUybUczVkk1bFFIY0xBcW1naFU0U3I5NFluaExSdkJ3OTdCVVFYQW9VOS1GTm1wc2N1SDRMWkJ1QVJYQ0lN?oc=5)
 
 2026-10-16 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
 
 Source: [Daily Breeze](https://news.google.com/rss/articles/CBMiowFBVV95cUxQeTZ2bWE2T2ZMV0oyYzRNY2d3MkNIZlFmTll2SjhpQWZTRlo3enZCOTVXbDcwX3ZlREpfbm5rdWFvVDJSUWNuYTNhSEpCZUVSd0E4QlJBMW9uZ3ptMzZXNXd5Vk9iWkUybUczVkk1bFFIY0xBcW1naFU0U3I5NFluaExSdkJ3OTdCVVFYQW9VOS1GTm1wc2N1SDRMWkJ1QVJYQ0lN?oc=5)
+
+---
+
+### [RFK Jr. blames measles outbreak on this shocking reason while citing a familiar foe](https://news.google.com/rss/articles/CBMitAFBVV95cUxQUVNYWkpVTWF6VnRUU3B0bVlRaU1aLVRNY3VEV1hhVlduNnlxWGI2N05RalBYTGtiRGRYUi03RzRZc2UtS2JqRmVyODZJX2pLUWZQX2VIakg2UkU3QmV3WUNuSllNbHNMZDFzTTJWSEsyalFKSTVTVElBU2lRWnZXbnRybkh6N2JSU2R1c3Vfd3N1YnluWFJSRkF2QWVPeXFMUWFvU2hMYUdVdkhXenQ5TFJ5dlI?oc=5)
+
+2026-10-16 <span class="news-indication-tag">MI</span>
+
+Source: [AL.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxQUVNYWkpVTWF6VnRUU3B0bVlRaU1aLVRNY3VEV1hhVlduNnlxWGI2N05RalBYTGtiRGRYUi03RzRZc2UtS2JqRmVyODZJX2pLUWZQX2VIakg2UkU3QmV3WUNuSllNbHNMZDFzTTJWSEsyalFKSTVTVElBU2lRWnZXbnRybkh6N2JSU2R1c3Vfd3N1YnluWFJSRkF2QWVPeXFMUWFvU2hMYUdVdkhXenQ5TFJ5dlI?oc=5)
 
 ---
 
@@ -158,17 +166,9 @@ Source: [TODAY.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxNV2dlUWR
 
 ### [Ultra-processed foods may affect the brain long before symptoms appear](https://news.google.com/rss/articles/CBMipgFBVV95cUxNT2xRTVVOa21Veks0NVM1a3B0UXJqZk5DUXdyZWNYNWVkMW5WbE5hUVgtUTVsODdIekFCWHpWRGIyRmlGLTZjV1JDRTBsZnhSODRiY2VtalZaejRISlIyNDFyRi1lZmpPa01lZWFucXZoZ1pKb2JWTlUtX0VoYWZCbDMtaE9jUVJwUTJfcUJSbEdPMEQ4a3FnQ096ZDBjc0xLYi1jaVp3?oc=5)
 
-2026-10-15 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [Earth.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxNT2xRTVVOa21Veks0NVM1a3B0UXJqZk5DUXdyZWNYNWVkMW5WbE5hUVgtUTVsODdIekFCWHpWRGIyRmlGLTZjV1JDRTBsZnhSODRiY2VtalZaejRISlIyNDFyRi1lZmpPa01lZWFucXZoZ1pKb2JWTlUtX0VoYWZCbDMtaE9jUVJwUTJfcUJSbEdPMEQ4a3FnQ096ZDBjc0xLYi1jaVp3?oc=5)
-
----
-
-### [Mom of 6 Sues Doctors, Hospital After Hysterectomy Allegedly Leads to Paralysis, Quadruple Amputations - Yahoo News Canada](https://news.google.com/rss/articles/CBMid0FVX3lxTFBaR0tqWFgxSXBJUXJYMUVLSnc5c3dpclJyaEFLQXFzaDJkeEUzMWw3N29HWkNYUjd6Nk9VYzJZNkJoUFJmTHNxdE5qTU9xTVNOVWxpN05ES2I1WjZ1Q3E3bUFHMm5HaTU2M2lUMkxfSGtHaEVYb3Fn?oc=5)
-
 2026-10-15 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
 
-Source: [Yahoo News Canada](https://news.google.com/rss/articles/CBMid0FVX3lxTFBaR0tqWFgxSXBJUXJYMUVLSnc5c3dpclJyaEFLQXFzaDJkeEUzMWw3N29HWkNYUjd6Nk9VYzJZNkJoUFJmTHNxdE5qTU9xTVNOVWxpN05ES2I1WjZ1Q3E3bUFHMm5HaTU2M2lUMkxfSGtHaEVYb3Fn?oc=5)
+Source: [Earth.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxNT2xRTVVOa21Veks0NVM1a3B0UXJqZk5DUXdyZWNYNWVkMW5WbE5hUVgtUTVsODdIekFCWHpWRGIyRmlGLTZjV1JDRTBsZnhSODRiY2VtalZaejRISlIyNDFyRi1lZmpPa01lZWFucXZoZ1pKb2JWTlUtX0VoYWZCbDMtaE9jUVJwUTJfcUJSbEdPMEQ4a3FnQ096ZDBjc0xLYi1jaVp3?oc=5)
 
 ---
 
@@ -182,17 +182,9 @@ Source: [Good Morning America](https://news.google.com/rss/articles/CBMiqgFBVV95
 
 ### [‘Who, us? We’re not anti-vaccine,’ parents tell me. ‘Today just doesn’t work for us’](https://news.google.com/rss/articles/CBMieEFVX3lxTE9RdkVhbXlOTlhxVElpMGFUMDZ5Z1hiQWJMaUJrTEVwNFRRcnl3R1gwSHh1ZHdvLW50NHI1Q2paUXUwSTRnMU5xMDluclVFbE4tNHlTLXdzQkZhUERBV0I5UFlhQ2taWTlCeVIzQWM0aC1ndDNsYVJGUQ?oc=5)
 
-2026-10-15 <span class="news-indication-tag">MI</span>
+2026-10-15 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
 
 Source: [CNN](https://news.google.com/rss/articles/CBMieEFVX3lxTE9RdkVhbXlOTlhxVElpMGFUMDZ5Z1hiQWJMaUJrTEVwNFRRcnl3R1gwSHh1ZHdvLW50NHI1Q2paUXUwSTRnMU5xMDluclVFbE4tNHlTLXdzQkZhUERBV0I5UFlhQ2taWTlCeVIzQWM0aC1ndDNsYVJGUQ?oc=5)
-
----
-
-### [Best foods for reducing dangerous belly fat and protecting heart health - Fox News](https://news.google.com/rss/articles/CBMinwFBVV95cUxOUjN6QU9jWVo3bUNiX0RKZmhIbzFXTmhQNVcxektTVGl3aW5VR29qaHB6NnpoWnl6MC1mZGNsam9FXzY4RWZmYXZyMkVibkFxaDFuUXFYV0dfOGhuSUplSlpqejk0NkJsY01Zc2VmYTFfenpfNnUxZWV1cmlNOXpZRDlMb0tvaDYtZVJZSnRjaTBqMUVyazlaZ2JtT3VJZ0XSAaQBQVVfeXFMTUFEckp5MEdfekxFVTY3bXVLeS0zZGFKMTdvTmR1clpJOE1TNGlGdXJNY053QjB6LXdLZFZ3QTU4WEpEblM0UW9mZmpvM0Y4SllZS3pVT0JzRE96S1piVlJKelk1XzNsdFpTNGcyUndCdzM3S2tsN1plNlpGLTBid3NqbVB2Nm1SUmM3SkZoLTNFUWEtRG5PX241ODI4aUhpaGlzQWo?oc=5)
-
-2026-10-15 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
-
-Source: [Fox News](https://news.google.com/rss/articles/CBMinwFBVV95cUxOUjN6QU9jWVo3bUNiX0RKZmhIbzFXTmhQNVcxektTVGl3aW5VR29qaHB6NnpoWnl6MC1mZGNsam9FXzY4RWZmYXZyMkVibkFxaDFuUXFYV0dfOGhuSUplSlpqejk0NkJsY01Zc2VmYTFfenpfNnUxZWV1cmlNOXpZRDlMb0tvaDYtZVJZSnRjaTBqMUVyazlaZ2JtT3VJZ0XSAaQBQVVfeXFMTUFEckp5MEdfekxFVTY3bXVLeS0zZGFKMTdvTmR1clpJOE1TNGlGdXJNY053QjB6LXdLZFZ3QTU4WEpEblM0UW9mZmpvM0Y4SllZS3pVT0JzRE96S1piVlJKelk1XzNsdFpTNGcyUndCdzM3S2tsN1plNlpGLTBid3NqbVB2Nm1SUmM3SkZoLTNFUWEtRG5PX241ODI4aUhpaGlzQWo?oc=5)
 
 ---
 
@@ -204,14 +196,6 @@ Source: [PetaPixel](https://news.google.com/rss/articles/CBMirAFBVV95cUxPOUx0Zmx
 
 ---
 
-### [Cardiologists Share the 7 Foods They Eat for Lower Blood Pressure](https://news.google.com/rss/articles/CBMigAFBVV95cUxQc2hJNVp3VUlIRk53UTlhME0wTnlDWWVRdUNsX3dPelo5dmMwT3dHc3hNdURPM3gzUURYc0EyN3NhQTNQenVfelNtclg2MXZ5WHAyM1Fhdk9GSWpsUE5kb2dleEotcWpxLTBnUzF4M1lwUTJMVmR0a0V6ekxYZGhzZA?oc=5)
-
-2026-10-14 <span class="news-indication-tag">high blood pressure</span> <span class="news-indication-tag">MI</span>
-
-Source: [AOL.com](https://news.google.com/rss/articles/CBMigAFBVV95cUxQc2hJNVp3VUlIRk53UTlhME0wTnlDWWVRdUNsX3dPelo5dmMwT3dHc3hNdURPM3gzUURYc0EyN3NhQTNQenVfelNtclg2MXZ5WHAyM1Fhdk9GSWpsUE5kb2dleEotcWpxLTBnUzF4M1lwUTJMVmR0a0V6ekxYZGhzZA?oc=5)
-
----
-
 ### [Guinea-Bissau denies it has approved controversial vaccine trial in newborns - The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMEVsN3l4aWVjV1I1bXBKb05sLVE4a2lxckJEelRXamdzb2FFVHZqSUh6OVhuZlpqODJhYmU1a1MxUTdLYktad3pVYkpGblFqd1FjM1FLczlaeERvMGt1WlJTcEY5VWhCV2lZMkFTOUZabTJ5X2gyUDhMZUw2My15X0RTcVFkXzFUMk52b1lKdzFyeW95ODBn?oc=5)
 
 2026-10-14 <span class="news-indication-tag">MI</span>
@@ -220,11 +204,11 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMEVs
 
 ---
 
-### [Ovaries Develop an Intriguing Second Role After Menopause](https://news.google.com/rss/articles/CBMijwFBVV95cUxPRVZocG1WaWtTQUxiNnVtTVZwZmlwdWJZLXRKWGhrY1RSNERHM19SUW5NVjVsVDlWSGU1aVAzbVlzZjFJbF9fR2luQ2RZSkJXcFhQRi1EQm1IS1Mwenh3NnZ4bEFLbFRfVlctVFdJZ2V0d1ZxdHJoWDQxbE15dUFzOG8xdlFVMkU5RHUtemJucw?oc=5)
+### [Women ‘more likely to be told autoimmune conditions are psychological’ | Women's health - The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxPREltUkV3b2JCSFJacU1UU2YyZElSc21TTXRUREs4dUFZOTBnSzNwazRkNlBtU3FTRC1CNEx5V2ItcWdoTGdLV2dhYjJRZ04zTHlwcWp3TC1EV3VBd0owOUthWjNlcW1rMl91SE1meldXRngwZFRLbDZUelpDU3lIWEVYNU1rU2ZFYllnd1ZWUVpva1NZeXhJSnFRbTUwVlVJWXNpNW0wNTlTV1dYenRBN1h2a21vbjFLblE?oc=5)
 
-2026-10-14 <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">MI</span>
+2026-10-13 <span class="news-indication-tag">MI</span>
 
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMijwFBVV95cUxPRVZocG1WaWtTQUxiNnVtTVZwZmlwdWJZLXRKWGhrY1RSNERHM19SUW5NVjVsVDlWSGU1aVAzbVlzZjFJbF9fR2luQ2RZSkJXcFhQRi1EQm1IS1Mwenh3NnZ4bEFLbFRfVlctVFdJZ2V0d1ZxdHJoWDQxbE15dUFzOG8xdlFVMkU5RHUtemJucw?oc=5)
+Source: [The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxPREltUkV3b2JCSFJacU1UU2YyZElSc21TTXRUREs4dUFZOTBnSzNwazRkNlBtU3FTRC1CNEx5V2ItcWdoTGdLV2dhYjJRZ04zTHlwcWp3TC1EV3VBd0owOUthWjNlcW1rMl91SE1meldXRngwZFRLbDZUelpDU3lIWEVYNU1rU2ZFYllnd1ZWUVpva1NZeXhJSnFRbTUwVlVJWXNpNW0wNTlTV1dYenRBN1h2a21vbjFLblE?oc=5)
 
 ---
 
@@ -236,11 +220,11 @@ Source: [KSL News](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV0NjYlI5
 
 ---
 
-### [NASA's plans for a moon base could take shape by the end of 2026](https://news.google.com/rss/articles/CBMicEFVX3lxTFBKZy1VcEg0M1J6LUxVb0FKdGV0WC1lSjBqZm9zWklBNjFwRTVGeEtiVVZSRlVZTm8wVmdoci01SVVkQlNFRXlzM0VFdTVrXzRSMm1ZNi1kRWU0aDVwRHFlblhqZEhSdTg1N2I1TFg1cEQ?oc=5)
+### [West Coast mom of six loses both legs, hand after doctors ignored her complaints: bombshell lawsuit - New York Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxPSk1BNlJHQ1dRMm5PVmtpWVlxaFZudnZmejRhc3h3TXpqb2Z2WlNfNHBLcVpoWUM0emJmZS1KOTM5emNCNlNwUHNpWV8tMU9YYTVIenBLX2pUSHEtYVVocmtaWXJmRHRRN2wxUzhBc0ZHc2JyM2g4blRUM1BRV3NGSThLMGdCUmYxVXk0Z0x1ZTQ2M1dmNk5KREQwU2I1aXNMdEhsaTdnQ08xdmNPRnc?oc=5)
 
-2026-10-12 <span class="news-indication-tag">MI</span>
+2026-10-12 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
 
-Source: [WESH](https://news.google.com/rss/articles/CBMicEFVX3lxTFBKZy1VcEg0M1J6LUxVb0FKdGV0WC1lSjBqZm9zWklBNjFwRTVGeEtiVVZSRlVZTm8wVmdoci01SVVkQlNFRXlzM0VFdTVrXzRSMm1ZNi1kRWU0aDVwRHFlblhqZEhSdTg1N2I1TFg1cEQ?oc=5)
+Source: [New York Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxPSk1BNlJHQ1dRMm5PVmtpWVlxaFZudnZmejRhc3h3TXpqb2Z2WlNfNHBLcVpoWUM0emJmZS1KOTM5emNCNlNwUHNpWV8tMU9YYTVIenBLX2pUSHEtYVVocmtaWXJmRHRRN2wxUzhBc0ZHc2JyM2g4blRUM1BRV3NGSThLMGdCUmYxVXk0Z0x1ZTQ2M1dmNk5KREQwU2I1aXNMdEhsaTdnQ08xdmNPRnc?oc=5)
 
 ---
 

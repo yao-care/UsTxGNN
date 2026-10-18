@@ -1,14 +1,50 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-10-18T03:39:47.036505+00:00",
+  "fetched_at": "2026-10-18T10:35:44.807025+00:00",
   "total_fetched": 128,
   "unique_count": 128,
-  "health_related_count": 63,
+  "health_related_count": 59,
   "news": [
+    {
+      "id": "de87a2e0fb22",
+      "title": "Scientists tested 39 sweeteners and uncovered surprising gut effects - Science Daily",
+      "published": "2026-10-18T03:57:37+00:00",
+      "summary": "Scientists tested 39 sweeteners and uncovered surprising gut effects&nbsp;&nbsp;Science DailyAntibiotics Damage the Gut Microbiome—and Sugar Might Make It Worse&nbsp;&nbsp;Technology NetworksStudies have shown that consuming sugary foods during antibiotic treatment can further worsen the ba..&nbsp;&nbsp;매일경제Is a sugar-rich diet while on antibiotics a threat to the gut microbiome? A new study attempts to find out&nbsp;&nbsp;The HinduAntibiotics and sugar: New evidence shows why the two don’t mix&",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52NXVlTFYtSFJHdzV5TE5UYk5BdXlvWDhZYTdnOVRRazZFQi02QllSV1VBeVNNcTRvbDNVOEszRXVnSURqSFZfVXdKSVBYaGRtNEZFbXB6OVBwbllLVFl1TWQ5N0J5amk0UDhSWG51NA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5d18b11fbaa3",
+      "title": "The Best Time to Eat Fermented Foods for Gut Health, According to Dietitians - EatingWell",
+      "published": "2026-10-17T23:00:00+00:00",
+      "summary": "The Best Time to Eat Fermented Foods for Gut Health, According to Dietitians&nbsp;&nbsp;EatingWell",
+      "sources": [
+        {
+          "name": "EatingWell",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JVUxhYzlXeFJua0RxLWJucEJodk5VMzdFWktnR2tfMFNBaHJFWExTWjVhTENET0tpd3FGenNpRDVpbWREZDFBSUVuLURac2tZQmg3WkhxM2x1Q0JsYWloUW9mSWpXZ1JJaV9rOHdCMmJqbUh1Wno0N250NUc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "79bc360a16b5",
+      "title": "Do you know this feline? ‘Sociable’ cat tests positive for rabies in Prince William County - WTOP News",
+      "published": "2026-10-17T20:43:32+00:00",
+      "summary": "Do you know this feline? ‘Sociable’ cat tests positive for rabies in Prince William County&nbsp;&nbsp;WTOP NewsRabies case confirmed in Roanoke cat&nbsp;&nbsp;WDBJ7Police warn of rabid cat in Gainesville neighborhood&nbsp;&nbsp;InsideNoVa.comRabies Case Alert – Roanoke – 11th Street NW&nbsp;&nbsp;Virginia Department of Health (.gov)VDH issues warning after cat tests positive for rabies in Gloucester&nbsp;&nbsp;WAVY.com",
+      "sources": [
+        {
+          "name": "WTOP News",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMHVnbFVJSUFfb2N4VmdINTNUTzQ5M0lIRVYxRmRpVExKUTZ0YWpDMFhoRHJBVnkyV0k3R091VFJpS1JDLUwzVHNGczdpUHN5TXBPTXg2TE5oZjRnZC1TM1hUdDFiLW8ycUcySzhGcnZCZk1keGxycHZ3bjlGalJOSjJFcTdTNHliY2dSSWRkYml2Q012cmpLTkZWLVhjcVRMWmFxVXZHSUJWSEU2UnVPMUJqMHMtYk9pQ3hiTm5VUQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "e29e7d1eb8aa",
       "title": "Renowned cancer researcher dies from disease she dedicated life to defeating - NewsNation",
-      "published": "2026-10-17T23:07:30+00:00",
+      "published": "2026-10-17T19:39:08+00:00",
       "summary": "Renowned cancer researcher dies from disease she dedicated life to defeating&nbsp;&nbsp;NewsNationRachna Shroff, accomplished GI oncologist and “tireless mentor,” dies at 47 Her endowed award will live on&nbsp;&nbsp;The Cancer LetterLeading Cancer Researcher, 47, Dies of the Disease She Was Trying to Cure. This Was Her 1st Symptom&nbsp;&nbsp;TODAY.comDedicated Arizona doctor and cancer researcher remembered for her impact&nbsp;&nbsp;ABC15 ArizonaTrailblazing doctor, 47, dies of the cancer she wa",
       "sources": [
         {
@@ -33,23 +69,11 @@
       "id": "b551e957d50c",
       "title": "Coral Bleaching Reversed at Record Speed Using New Stanford Method: ‘Not a Lost Cause, at All’ - Good News Network",
       "published": "2026-10-17T17:20:40+00:00",
-      "summary": "Coral Bleaching Reversed at Record Speed Using New Stanford Method: ‘Not a Lost Cause, at All’&nbsp;&nbsp;Good News NetworkTo Heal These Bleached Corals, All It Took Was a Little Touch&nbsp;&nbsp;The New York TimesHow a laboratory accident revealed a new way to rescue dying corals&nbsp;&nbsp;Euronews.comCoral reefs are under threat, but bleached corals aren’t a lost cause, study suggests&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosBetter together? Coral fusion could throw bleached",
+      "summary": "Coral Bleaching Reversed at Record Speed Using New Stanford Method: ‘Not a Lost Cause, at All’&nbsp;&nbsp;Good News NetworkTo Heal These Bleached Corals, All It Took Was a Little Touch&nbsp;&nbsp;The New York TimesHow a laboratory accident revealed a new way to rescue dying corals&nbsp;&nbsp;EuronewsCoral reefs are under threat, but bleached corals aren’t a lost cause, study suggests&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosBetter together? Coral fusion could throw bleached ree",
       "sources": [
         {
           "name": "Good News Network",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMXFPT0JzZ09OSDJzYWhXTm0zSlFIN214YVNWenFhVk4xNEFqaFRtNHgwRm9IeHNBQVRpT0F0R1dZOTIxZ1oxbG1MTUtRbTE5WGo2ZzEyYnBrXzQ3ZHBpdGdYWU5aX050bVBoU0JLTTVyQjNiTzd4Y0VyUnJGalVuekdvM0prTzdDTE1BeC1QLTQ5N05MQ3hTUXN5c0dqcnBO?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d0862e8ab5ea",
-      "title": "A Reporter Who Saw Covid Coming Has Died - The New York Times",
-      "published": "2026-10-17T17:17:00+00:00",
-      "summary": "A Reporter Who Saw Covid Coming Has Died&nbsp;&nbsp;The New York TimesHelen Branswell, whose reporting on infectious diseases and public health drew acclaim, dies at 69&nbsp;&nbsp;STATSaying Goodbye to An Infectious Disease Reporting Legend&nbsp;&nbsp;Avian Flu DiaryHelen Branswell, Jean-Luc Mongrain, Gord Hume: Sign Offs&nbsp;&nbsp;Broadcast DialogueA reporter who saw Covid-19 coming has died&nbsp;&nbsp;The Straits Times",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jRnFPdUJrbnVoNzJDTkc1UU1ta2JDTVdmX29ad1lzd2s1ZkNySkFHZVZZRjR1bEZMdTd1UVI0dGtaRW1vcldramJmVDlBZHlOX2dFU19NVThYcDVJSFgzbEtwR3RXUnFZdjF5NFphQm5laHdTYXc?oc=5"
         }
       ]
     },
@@ -62,6 +86,18 @@
         {
           "name": "Newser",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMTdiV2xUYWFJbEZRRldtRS1yVzhBdzlpeGR6bTNVRnlCNjQ0R0VmelR3WUtiUVU0bGxVdTRUOHNETWI3QVFnaUtFcTRRVlRtQUlLMXd1TEo1ZFZqYVBBclBoTkw1QWNPeDd4Wl9Gamw5VlhCeGpzVzh5QUJBTWFtbk9WVmc4M2tvTkMyakZfYURtX1dVNUNUcDQzMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d0862e8ab5ea",
+      "title": "A Reporter Who Saw Covid Coming Has Died - The New York Times",
+      "published": "2026-10-17T14:49:54+00:00",
+      "summary": "A Reporter Who Saw Covid Coming Has Died&nbsp;&nbsp;The New York TimesHelen Branswell, whose reporting on infectious diseases and public health drew acclaim, dies at 69&nbsp;&nbsp;STATSaying Goodbye to An Infectious Disease Reporting Legend&nbsp;&nbsp;Avian Flu DiaryHelen Branswell, Jean-Luc Mongrain, Gord Hume: Sign Offs&nbsp;&nbsp;Broadcast DialogueA reporter who saw Covid-19 coming has died&nbsp;&nbsp;The Straits Times",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jRnFPdUJrbnVoNzJDTkc1UU1ta2JDTVdmX29ad1lzd2s1ZkNySkFHZVZZRjR1bEZMdTd1UVI0dGtaRW1vcldramJmVDlBZHlOX2dFU19NVThYcDVJSFgzbEtwR3RXUnFZdjF5NFphQm5laHdTYXc?oc=5"
         }
       ]
     },
@@ -81,7 +117,7 @@
       "id": "1953fb91f4d8",
       "title": "Cardiologists Share 10 Foods to Avoid With High Blood Pressure - Health.com",
       "published": "2026-10-17T12:45:00+00:00",
-      "summary": "Cardiologists Share 10 Foods to Avoid With High Blood Pressure&nbsp;&nbsp;Health.comThis Cardiologist Skips These Three Foods at the Grocery Store&nbsp;&nbsp;Seoul Economic Daily\"The Inner Aisles Are Dangerous; Shop the Perimeter\"... Why a Doctor Issued the Warning&nbsp;&nbsp;아시아경제",
+      "summary": "Cardiologists Share 10 Foods to Avoid With High Blood Pressure&nbsp;&nbsp;Health.comThis Cardiologist Skips These Three Foods at the Grocery Store&nbsp;&nbsp;Seoul Economic Daily\"The Inner Aisles Are Dangerous; Shop the Perimeter\"... Why a Doctor Issued the Warning&nbsp;&nbsp;아시아경제Cardiologist Identifies 3 Grocery Store Foods to Avoid for Cardiovascular Health: Sugary Drinks, Refined Snacks and Processed Meats&nbsp;&nbsp;헬스조선",
       "sources": [
         {
           "name": "Health.com",
@@ -90,26 +126,14 @@
       ]
     },
     {
-      "id": "5b259a2c3659",
-      "title": "Loneliness May Cost You Up to 6 Years of Good Health, New Study Finds - Prevention",
+      "id": "2c7f00c587cb",
+      "title": "This Common, Preventable Condition Could Cost You Up to 6 Years of Good Health, Study Finds - Prevention",
       "published": "2026-10-17T12:08:52+00:00",
-      "summary": "Loneliness May Cost You Up to 6 Years of Good Health, New Study Finds&nbsp;&nbsp;PreventionWhy Loneliness Doesn’t Always Need to Be Cured&nbsp;&nbsp;Psychology TodayTop cities for teachers in terms of rents and salaries&nbsp;&nbsp;Wahoo NewspaperDoctor Explains Why Feeling Lonely May Cost Years of Healthy Life, Even for People Who Eat Well and Exercise&nbsp;&nbsp;Yahoo CreatorsLoneliness is being treated as a serious health risk&nbsp;&nbsp;News Channel 3-12",
+      "summary": "This Common, Preventable Condition Could Cost You Up to 6 Years of Good Health, Study Finds&nbsp;&nbsp;PreventionWhy Loneliness Doesn’t Always Need to Be Cured&nbsp;&nbsp;Psychology TodayTop cities for teachers in terms of rents and salaries&nbsp;&nbsp;Wahoo NewspaperDoctor Explains Why Feeling Lonely May Cost Years of Healthy Life, Even for People Who Eat Well and Exercise&nbsp;&nbsp;Yahoo CreatorsLoneliness is being treated as a serious health risk&nbsp;&nbsp;News Channel 3-12",
       "sources": [
         {
           "name": "Prevention",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQVh0cUI2ZUVrdHFVZ3BHQ0hOX2FQZUVjYUl1emFYLVJVczJKeThlcUpfbk9uaV9neWNtQ1ozeXpqTk1uczhMOXJIRzVLVEhqRUlhNmlwMFpPSFgzaG5ldDFRcWI3Sy13TVI4TTZkbnBMaXRGZmFLYkgtMkxyc2pFclNCbw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "07d714cc438d",
-      "title": "Alcohol Doesn't Just Affect Neurons – It Triggers Immune Cells to Destroy The Brain's Structural Matrix, Mouse Study Shows - ScienceAlert",
-      "published": "2026-10-17T12:01:31+00:00",
-      "summary": "Alcohol Doesn't Just Affect Neurons – It Triggers Immune Cells to Destroy The Brain's Structural Matrix, Mouse Study Shows&nbsp;&nbsp;ScienceAlertAlcohol and the brain interact through immune cells, new research shows&nbsp;&nbsp;Medical XpressAlcohol Tricks Brain Cells Into Destroying Themselves&nbsp;&nbsp;Neuroscience NewsAlcohol Exposure Turns Brain Immune Cells Destructive&nbsp;&nbsp;조선일보Scientists discover how heavy alcohol use damages the brain&nbsp;&nbsp;Latest news from Azerbaijan",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUXVJU29SN3ZxdTM3eHRlUFB3NW9aM3d6SjR6X2dxRXVOXzM0SGFUQXZZdG1rdzhScTJ2U0R4MHZ5UHEzWkxfdFlHbktPenowRFliZjlWNzM4Q3J2S001a1ZyNldUS3Q5WklDa215NTVpZ2tmTUt4V1ZCSHpDRjhLMnFPSTFHM0JNTkhKSTJxOWNTaDM0YkREc3YtcUlzekV2LTRYcTRIcE9xUkJ6dHBiSW1ZOXU0UVBhTFVveUxYUDVzdnF2YjZoRzhCOFcxa1B6eWlJblE2T1ozekV1Mm9j?oc=5"
         }
       ]
     },
@@ -129,7 +153,7 @@
       "id": "029f1f29cbc9",
       "title": "CDC to send ‘disease detective’ to help tackle Pennsylvania measles outbreak - The Guardian",
       "published": "2026-10-17T12:00:00+00:00",
-      "summary": "CDC to send ‘disease detective’ to help tackle Pennsylvania measles outbreak&nbsp;&nbsp;The GuardianMore than 4,400 measles cases reported in US as CDC plans to send 'disease detective' to Pennsylvania&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosCDC sends a ‘disease detective’ to Pennsylvania amid measles outbreak&nbsp;&nbsp;The HillUS records 4,410 measles cases as outbreak grows&nbsp;&nbsp;Al JazeeraCDC reports 4,410 measles cases as outbreak grows&nbsp;&nbsp;Reuters",
+      "summary": "CDC to send ‘disease detective’ to help tackle Pennsylvania measles outbreak&nbsp;&nbsp;The GuardianCDC reports 4,410 measles cases as outbreak grows&nbsp;&nbsp;ReutersUS records 4,410 measles cases as outbreak grows&nbsp;&nbsp;Al JazeeraLancaster County measles cases reach 452 after biggest weekly increase since September&nbsp;&nbsp;LancasterOnlineMore than 4,400 measles cases reported in US as CDC plans to send 'disease detective' to Pennsylvania&nbsp;&nbsp;ABC News - Breaking News, Latest New",
       "sources": [
         {
           "name": "The Guardian",
@@ -141,23 +165,11 @@
       "id": "53395077a58a",
       "title": "New research shows how microplastics and water interactions could lead to cell damage - Los Angeles Times",
       "published": "2026-10-17T12:00:00+00:00",
-      "summary": "New research shows how microplastics and water interactions could lead to cell damage&nbsp;&nbsp;Los Angeles TimesIntrinsic physicochemical activity at microplastic–water interfaces&nbsp;&nbsp;NatureMicroplastics trigger inflammation linked to disease and death. Now scientists appear to have discovered why.&nbsp;&nbsp;Chicago TribuneMicroplastics React With Water, a New Study Says. That’s a Problem for Biology&nbsp;&nbsp;WIREDMicroplastics Are Chemically Alive and Probably Up to No Good&nbsp;&nb",
+      "summary": "New research shows how microplastics and water interactions could lead to cell damage&nbsp;&nbsp;Los Angeles TimesIntrinsic physicochemical activity at microplastic–water interfaces&nbsp;&nbsp;NatureBusting The Myth That Plastics Are Chemically Inert In Water&nbsp;&nbsp;HackadayMicroplastics trigger inflammation linked to disease and death. Now scientists appear to have discovered why.&nbsp;&nbsp;Chicago TribuneMicroplastics React With Water, a New Study Says. That’s a Problem for Biology&nbsp;&",
       "sources": [
         {
           "name": "Los Angeles Times",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOUZLX0N3blpYOC1TTjM5QmJucTRudXBCalJKQ3kyMjBidmdWRFRTS2l5ZW10SE0wTWhLQzZLTVcwMVByMUhBSWJxV2pmQ05GSlVSZHJEdGRHOE0wZnlKOHNYT2hvRWtWS2tNekltWmQzOWFmUDMyV0FlMXBERTJoaWl4VUFtMWVUSEQyRkpuSGxnMk0zRVN4b2pLc2g0cEhwRlpjYlptU0w?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dd8af256fffb",
-      "title": "Is the brain actually 2 nervous systems smooshed together? A new study claims it is. - Live Science",
-      "published": "2026-10-17T11:00:00+00:00",
-      "summary": "Is the brain actually 2 nervous systems smooshed together? A new study claims it is.&nbsp;&nbsp;Live Science",
-      "sources": [
-        {
-          "name": "Live Science",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaXBqSmV3anJkSTJhZ1k4MlBmNkZWLW5KbmVoMDNRaVFhZWd3bDlHMkhURFM0VE1IcFRXZ0d0YzRMb2NZdVhLa0JQNjBkZVdTTkxYeDk5SnBQNjJfa1dHajdKTGlhaDZnRGxKNDBjdWpja1RFNXFtMDdqMlgtc0R6RTlqRGx3bnZGMlktdm5vc0dkVnJNMmtWYzhUT1JmTUZSZXpLRl8yaE1FNmVNRkxXUjkzR2tsZFhKSUNiUDhlZ25OY1hJYjhyem1R?oc=5"
         }
       ]
     },
@@ -174,14 +186,14 @@
       ]
     },
     {
-      "id": "22377fb1d691",
-      "title": "Teen Dismissed ‘Hormone-Related Symptoms’ as ‘Stress.’ If She Had Brushed Them Off for 2 More Months, She ‘Might Be Dead’ (Exclusive) - Yahoo",
-      "published": "2026-10-17T08:29:00+00:00",
-      "summary": "Teen Dismissed ‘Hormone-Related Symptoms’ as ‘Stress.’ If She Had Brushed Them Off for 2 More Months, She ‘Might Be Dead’ (Exclusive)&nbsp;&nbsp;Yahoo",
+      "id": "dd8af256fffb",
+      "title": "Is the brain actually 2 nervous systems smooshed together? A new study claims it is. - Live Science",
+      "published": "2026-10-17T11:00:00+00:00",
+      "summary": "Is the brain actually 2 nervous systems smooshed together? A new study claims it is.&nbsp;&nbsp;Live Science",
       "sources": [
         {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeTRBSVN4X3NMNEN3WXYzRlAzdnkzcF85cUFNU1FXZDctMzF1bHQ0dkVwZXZQSC1EeU1WRzl0OU9ZUU9OV09HN3VJQWNEUUY5ZG9uYmNobkNqdHRBdkZkejhtZ1VKYTdLUmt6bGNQdnlpODA0R2lFU0xWbFFuZ2NBUUhoeWF0WGJBNGpzOFNLZWp0ZGdIZkJYaWJPSQ?oc=5"
+          "name": "Live Science",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaXBqSmV3anJkSTJhZ1k4MlBmNkZWLW5KbmVoMDNRaVFhZWd3bDlHMkhURFM0VE1IcFRXZ0d0YzRMb2NZdVhLa0JQNjBkZVdTTkxYeDk5SnBQNjJfa1dHajdKTGlhaDZnRGxKNDBjdWpja1RFNXFtMDdqMlgtc0R6RTlqRGx3bnZGMlktdm5vc0dkVnJNMmtWYzhUT1JmTUZSZXpLRl8yaE1FNmVNRkxXUjkzR2tsZFhKSUNiUDhlZ25OY1hJYjhyem1R?oc=5"
         }
       ]
     },
@@ -218,18 +230,6 @@
         {
           "name": "Yahoo Tech",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVHd6ZFpuRHp1c1ZSNWlvZDVpZks0bTNWdDZRYmpPRDUxZU00QzdINU1SbmJKQmZPMjdEcW9jdnFkYll3alNnRGdNQ0VlMTRhZkhmWElNckZYZkxzbUxENHlaNU1VbnBnMjM1Mzh1SWstSjR3ME1RS3VIeE5lRTk4QmdjTi1iNl81Zjg1NDhhMzZDQ2tfalE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f6a24949570b",
-      "title": "Kennedy says Shapiro, Pa. officials politicized measles outbreak, blames infections on covid lockdown - TribLIVE.com",
-      "published": "2026-10-16T21:32:14+00:00",
-      "summary": "Kennedy says Shapiro, Pa. officials politicized measles outbreak, blames infections on covid lockdown&nbsp;&nbsp;TribLIVE.comRFK Jr.: “People of Pennsylvania suffered” because Shapiro politicized measles outbreak&nbsp;&nbsp;ABC27RFK Jr. blames measles outbreak on this shocking reason while citing a familiar foe&nbsp;&nbsp;AL.comRFK Jr. vows to bring Pennsylvania measles outbreak to a quick close&nbsp;&nbsp;Spectrum NewsKennedy Defends Measles Response After Reporter Challenges HHS Aide&nbsp;&nbs",
-      "sources": [
-        {
-          "name": "TribLIVE.com",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNTFMekpmLTQ1Y3BLYmR1WFppY1hFbjJMOWRHMDVJN0dfems0OTRmUXczV015NzhNTnlLRncwOXM3YWp3Um8yalV1bnpnM3lKU2piaUV5TFFpVmpaNlF1NHFxaGV5TXM1bzA2UG9WT2lSWmloZWVtUEp4Y2M2UzRacnpzd2pTODRQNEU2SGhGNmEtY1pQNGF4SlZZOG54TTBHUWJnMFZ3b2IxX0syU01VYzUwOVRuSjFOMWRRdUNudVpicUJ5S3dHSTU3d0RmdGZ6OUNCZQ?oc=5"
         }
       ]
     },
@@ -282,10 +282,22 @@
       ]
     },
     {
+      "id": "ad954763fda9",
+      "title": "Is the glymphatic system the new way to protect your brain? - The Times",
+      "published": "2026-10-16T19:00:00+00:00",
+      "summary": "Is the glymphatic system the new way to protect your brain?&nbsp;&nbsp;The TimesNoninvasive ultrashort wave neuromodulation enhances glymphatic clearance to alleviate traumatic brain edema and Alzheimer’s pathology&nbsp;&nbsp;Science | AAASCan you wash your brain? How glymphatic system protects against cognitive decline&nbsp;&nbsp;WIONBrain Washing Disrupted in Migraine: MRI Reveals Glymphatic System Clues&nbsp;&nbsp;Bioengineer.orgYour Brain Has Its Own Cleaning System That Helps Prevent Alzhei",
+      "sources": [
+        {
+          "name": "The Times",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWU9uR3c5RmRMUHduR2l5WWdUU0dNRDg3T0lEV2l2Ry1hWWNvdC1uY2V6eXNGOXNIekRVWUdJTUJfeFhNTGcwTzc4cFB3Qjcwc3BUczU0N1hRVy1QS3VHc3hmcVA4UUZ6cENxSDRSV3hvMlNxdG9aUGtBZWlBUkt6eW5xTGdXVnR6T3gyNUpVSQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "bca453e2ff14",
       "title": "RFK Jr. Pledged to Advance Anti-Vaccine Group’s Goals. Here’s What He’s Doing. - The New York Times",
       "published": "2026-10-16T18:57:46+00:00",
-      "summary": "RFK Jr. Pledged to Advance Anti-Vaccine Group’s Goals. Here’s What He’s Doing.&nbsp;&nbsp;The New York Times",
+      "summary": "RFK Jr. Pledged to Advance Anti-Vaccine Group’s Goals. Here’s What He’s Doing.&nbsp;&nbsp;The New York TimesN.I.H. Hospital Board Rebukes Kennedy Over New Vaccine Injury Clinic&nbsp;&nbsp;The New York TimesA vaccine injury initiative, a contested hepatitis B trial, and edited CDC COVID-19 Vaccine Guidance: The State of U.S. Vaccine Policy&nbsp;&nbsp;CIDRAPThis Week at FDA: HHS vaccine injury initiative, midterms could reshape congressional committees overseeing FDA, and more&nbsp;&nbsp;RAPSHHS l",
       "sources": [
         {
           "name": "The New York Times",
@@ -318,14 +330,26 @@
       ]
     },
     {
-      "id": "227cb08844e3",
-      "title": "Head-to-head comparison of three mRNA vaccines reveals differences in their stability in human blood - Medical Xpress",
-      "published": "2026-10-16T17:40:10+00:00",
-      "summary": "Head-to-head comparison of three mRNA vaccines reveals differences in their stability in human blood&nbsp;&nbsp;Medical XpressUnderstanding How mRNA Vaccines Break Down in the Body May One Day Help Fight Cancer&nbsp;&nbsp;Discover MagazineHead-to-Head Comparison Reveals mRNA Vaccines Behave Differently in Human Blood&nbsp;&nbsp;Bioengineer.orgCan Covid vaccines help beat cancer? What a new study reveals&nbsp;&nbsp;Firstpost",
+      "id": "f9bb4c4dead4",
+      "title": "RFK Jr. blames measles outbreak on this shocking reason while citing a familiar foe - AL.com",
+      "published": "2026-10-16T17:18:00+00:00",
+      "summary": "RFK Jr. blames measles outbreak on this shocking reason while citing a familiar foe&nbsp;&nbsp;AL.comRFK Jr.: “People of Pennsylvania suffered” because Shapiro politicized measles outbreak&nbsp;&nbsp;ABC27Kennedy says Shapiro, Pa. officials politicized measles outbreak, blames infections on covid lockdown&nbsp;&nbsp;TribLIVE.comRFK Jr. vows to bring Pennsylvania measles outbreak to a quick close&nbsp;&nbsp;Spectrum NewsKennedy Defends Measles Response After Reporter Challenges HHS Aide&nbsp;&nbs",
       "sources": [
         {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTWV5YVNjUFJlSTJLbDVEQmxIQ2tiQjcwX2NMN0poTi1nc3FaU1VMZHRFakwweXAzSXJrd1lwUlpqUlc5R1RKUHVpZmJnSkV1Zzh2X0dXUzdOOF9VVm5TbXNKVWVDNkNNWWpwQUxlZHRlTC1uZnBWMnRrcmpHOWJWbWpYblR5dFpvalQ0TGxRVk9aQQ?oc=5"
+          "name": "AL.com",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUVNYWkpVTWF6VnRUU3B0bVlRaU1aLVRNY3VEV1hhVlduNnlxWGI2N05RalBYTGtiRGRYUi03RzRZc2UtS2JqRmVyODZJX2pLUWZQX2VIakg2UkU3QmV3WUNuSllNbHNMZDFzTTJWSEsyalFKSTVTVElBU2lRWnZXbnRybkh6N2JSU2R1c3Vfd3N1YnluWFJSRkF2QWVPeXFMUWFvU2hMYUdVdkhXenQ5TFJ5dlI?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "794f7363fa68",
+      "title": "'Excess oxygen' stored in deep Earth magma may help explain how Earth's atmosphere became oxygen-rich - Phys.org",
+      "published": "2026-10-16T17:00:14+00:00",
+      "summary": "'Excess oxygen' stored in deep Earth magma may help explain how Earth's atmosphere became oxygen-rich&nbsp;&nbsp;Phys.orgProgressive oxidative weathering raised sub-arc mantle fugacity on the Archaean Earth&nbsp;&nbsp;NatureCould Ancient Oceans Be the Key to Finding Extraterrestrial Life?&nbsp;&nbsp;UnboxholicsOxygen reached Earth’s mantle a billion years before the Great Oxidation Event, new study finds&nbsp;&nbsp;ThePrintFrom Lab to Life: How Earth Sustained Its Oxygen&nbsp;&nbsp;The Times of ",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5X2pPbDR1bTJqdkt3N2NCMUc4WlVzX0VBZ3dGQk5pd2FYLXpETzJFNTJiQ2NsejcyX0dsVGdwaUgzQW9vNXh6SDh2OHVGZ09IRllLRFc4b2lTVHA5d3dVQ0dOVV9PZzAybEFtMjdONjE2QWs?oc=5"
         }
       ]
     },
@@ -366,22 +390,10 @@
       ]
     },
     {
-      "id": "7ddc16ad0360",
-      "title": "Novo Nordisk and Eli Lilly Just Got Some Fantastic News - Yahoo Finance",
-      "published": "2026-10-16T15:52:00+00:00",
-      "summary": "Novo Nordisk and Eli Lilly Just Got Some Fantastic News&nbsp;&nbsp;Yahoo FinanceCould GLP-1 drugs be anti-aging medications?&nbsp;&nbsp;CNNGLP-1s Rank Highly in New Framework for Anti-Aging Drug Development&nbsp;&nbsp;Technology NetworksTwo of the largest GLP-1 drugmakers say their medication could lengthen lives&nbsp;&nbsp;kens5.comNew control theory framework proposes a safer approach to aging drug discovery&nbsp;&nbsp;EurekAlert!",
-      "sources": [
-        {
-          "name": "Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSHhuWmRlYVdaU21OeUZpRzhENHlFUWdwTnRRMHJBN0FJNjFyUE50a2paY3dKWXlGQnZMYU96SlltSkhDUVUxM1NVNWIxbmJUVXkwTnlMcEtlMFBjR1JCTjNxRlNsUlphYW1oM0FrOWo0N3RlYkktYk1JQ3JLMjBiQ21BeDFFR3hLek5haXd0ZmNGdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "15e4f13b7eda",
       "title": "Vaping Strongly Linked to Lung Cancer - Futurism",
       "published": "2026-10-16T15:51:33+00:00",
-      "summary": "Vaping Strongly Linked to Lung Cancer&nbsp;&nbsp;FuturismNicotine pouches, vaping or cigarettes: Which nicotine product is actually the least harmful?&nbsp;&nbsp;The ConversationWhy some experts are recommending vapes to quit smoking&nbsp;&nbsp;The Washington PostHow to cover vaping’s promise without losing sight of its risks&nbsp;&nbsp;Association of Health Care JournalistsVaping: Is it safer than smoking?&nbsp;&nbsp;Clearwater Tribune",
+      "summary": "Vaping Strongly Linked to Lung Cancer&nbsp;&nbsp;FuturismNicotine pouches, vaping or cigarettes: Which nicotine product is actually the least harmful?&nbsp;&nbsp;The ConversationHow to cover vaping’s promise without losing sight of its risks&nbsp;&nbsp;Association of Health Care JournalistsVaping for just a few days can cause lasting lung damage: study&nbsp;&nbsp;cbs19news.comVaping: Is it safer than smoking?&nbsp;&nbsp;Clearwater Tribune",
       "sources": [
         {
           "name": "Futurism",
@@ -426,14 +438,14 @@
       ]
     },
     {
-      "id": "0b5d93324275",
-      "title": "It's Not What's in Your Cup That Matters For This Cancer. It's How Hot It Is. - ScienceAlert",
-      "published": "2026-10-16T13:00:38+00:00",
-      "summary": "It's Not What's in Your Cup That Matters For This Cancer. It's How Hot It Is.&nbsp;&nbsp;ScienceAlertVery hot drinks linked to a more than threefold higher risk of esophageal cancer — ScienceAlert&nbsp;&nbsp;UA.NEWSDrinking Your Coffee Too Hot Could Triple Your Risk of Cancer, New Study Finds&nbsp;&nbsp;VICEVery Hot Beverages Linked to Increased Esophageal Cancer Risk&nbsp;&nbsp;India News NetworkVery Hot Tea and Coffee Linked to Higher Risk of a Type of Esophageal Cancer, Large Study Finds&nbsp",
+      "id": "aa0864bc0898",
+      "title": "Experts Studied Daytime Habits of Older Adults—One Was Linked to Dementia - Newsweek",
+      "published": "2026-10-16T12:53:00+00:00",
+      "summary": "Experts Studied Daytime Habits of Older Adults—One Was Linked to Dementia&nbsp;&nbsp;NewsweekFrequent, Unintended Napping Tied to Higher Dementia Risk&nbsp;&nbsp;Johns Hopkins Bloomberg School of Public HealthScientists Investigated People With Insomnia. A Health Risk Pattern Emerged&nbsp;&nbsp;NewsweekNapping linked to dementia risk&nbsp;&nbsp;Medical XpressNapping Most Days Linked To 48% Higher Dementia Risk In Older Adults&nbsp;&nbsp;StudyFinds",
       "sources": [
         {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONmZqLTVobEI1djdWbDVRUlJ3b0Zzajl1YVZGeVZQZTNNdzJ6V2cyVWdRdnhZaWNyN1ptVmJOWXFrbzVpa0xXME5WQjFFNzNOcm5WN3QySGEtVmpKMlFSc1VvTEwtM1gzQ3Z1ejM5UVV5WFBDUjBhMXY2T2Ytd3lMalhFVDVTdDh5dHhTUVRGY1pNRFpmRkpMcjV4Tk1haTBIcVgtNS1lYk5vMnhTUnZrQzNtN1Z2Zw?oc=5"
+          "name": "Newsweek",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSWlkMG1Yclk4TGpqS1oxRXF1c01SRmN0bXpKc1NWcElndjdSRUpCR1cyeWs5czdlY1Vld0RJOTJvYVVVX3lueDhaaW4tS2dqUGUyRlNPbGN1dEk1eHFvck0zUy1VRi1WeERkZU10My13and6RkNvalBvY1ljc1ViS3JvOHhPS3pwdE5reUY2WmJXVGFRMnhXRA?oc=5"
         }
       ]
     },
@@ -465,7 +477,7 @@
       "id": "680a5dc0a7e7",
       "title": "Scientists discover going to Mars could break human hearts - geekspin",
       "published": "2026-10-16T11:00:49+00:00",
-      "summary": "Scientists discover going to Mars could break human hearts&nbsp;&nbsp;geekspinA trip to Mars could come at a heartbreaking cost&nbsp;&nbsp;Phys.orgMars is not for man: Human heart is too weak to survive the trip, study shows&nbsp;&nbsp;WION",
+      "summary": "Scientists discover going to Mars could break human hearts&nbsp;&nbsp;geekspin",
       "sources": [
         {
           "name": "geekspin",
@@ -477,7 +489,7 @@
       "id": "66ab678e3db7",
       "title": "Doctors Are Using a Shortcut for an Age-Old Problem. It Can Be Pretty Risky. - Slate",
       "published": "2026-10-16T09:45:00+00:00",
-      "summary": "Doctors Are Using a Shortcut for an Age-Old Problem. It Can Be Pretty Risky.&nbsp;&nbsp;Slate‘Equity is part of patient safety’: AI medical advice less accurate when not in English&nbsp;&nbsp;HealioReporting completeness of clinical trials evaluating large language model interventions in medicine: systematic review&nbsp;&nbsp;BMJ GroupAI Chatbots Failed to Urge Emergency Care in About 41% of Vietnamese Scenarios Versus 15% in English&nbsp;&nbsp;Medical DailyLinguistic inequity in clinical AI eva",
+      "summary": "Doctors Are Using a Shortcut for an Age-Old Problem. It Can Be Pretty Risky.&nbsp;&nbsp;Slate‘Equity is part of patient safety’: AI medical advice less accurate when not in English&nbsp;&nbsp;HealioReporting completeness of clinical trials evaluating large language model interventions in medicine: systematic review&nbsp;&nbsp;BMJ GroupAI Chatbots Failed to Urge Emergency Care in About 41% of Vietnamese Scenarios Versus 15% in English&nbsp;&nbsp;Medical Daily",
       "sources": [
         {
           "name": "Slate",
@@ -498,46 +510,10 @@
       ]
     },
     {
-      "id": "8e4bfd3ac7d1",
-      "title": "The Difficulty of Diagnosing Anorexia in the GLP-1 Era - The New York Times",
-      "published": "2026-10-16T09:00:04+00:00",
-      "summary": "The Difficulty of Diagnosing Anorexia in the GLP-1 Era&nbsp;&nbsp;The New York TimesAn industry is prescribing weight-loss drugs to people with anorexia, devastating lives&nbsp;&nbsp;CNNweight loss drugs are driving a new eating disorder&nbsp;&nbsp;Meteo.grGLP-1 Drugs and Anorexia: How Telehealth Loopholes Are Endangering the Most Vulnerable Patients&nbsp;&nbsp;Latin Timesweight loss drugs are driving a new eating disorder crisis&nbsp;&nbsp;BusinessWorld Online",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObTk3U3NxZkxtOFlKamQta3lXWmhjSkYtOEhHQUEyVkw4dE1kdHZIODYxelpWdTU4a1dESkpPU3R3cDJPU3EtZERkeXRGbVJkVkJGTENnT05fdFEteUI3SzhuMW9Kcll4eEhuOUNUa2wwckZELWQxMVVkWDE3WXFQVQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0154e659787d",
-      "title": "Maryland man claims he went blind after taking Ozempic, shares warning for other users - New York Post",
-      "published": "2026-10-16T06:18:00+00:00",
-      "summary": "Maryland man claims he went blind after taking Ozempic, shares warning for other users&nbsp;&nbsp;New York PostMan claims he went blind after taking Ozempic, shares warning for other users&nbsp;&nbsp;Fox NewsOzempic and Wegovy linked to rare risk of sudden vision loss&nbsp;&nbsp;Science DailyHundreds Sue GLP-1 Drugmakers Over Vision Loss, Regulators Continue Weigh Rare Eye Risk&nbsp;&nbsp;YahooStudy Links GLP-1 Drugs to Small Rise in Sudden Vision Loss Risk&nbsp;&nbsp;Technology Org",
-      "sources": [
-        {
-          "name": "New York Post",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcE1nVDJtRXIzaHc5Z2xrYnFfaTJjcVoxelhYYW90R1NsLUN0ZDhlQjFfM0ZiN3dWcEVDLUdLUUQtMnpISjNqSnlyQVkyUkdldmtnYUFwb2ttQll6VkFLbWV2NkJVcWIwbHFfZmlRcW1qbjFja3k3UU9BYUZFSW9hZTdWQXRSYVVwczRVSEFkdlUxMk1aMXdRZDZ4bnl0dWNDUUZiTjdjMjVtRklEOE91MEdvaU1ndk41czR2Y25fMGE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e2fced05ddc2",
-      "title": "Earth’s oldest evidence of life is written in stone – but it’s at risk of disappearing - The Conversation",
-      "published": "2026-10-15T23:22:10+00:00",
-      "summary": "Earth’s oldest evidence of life is written in stone – but it’s at risk of disappearing&nbsp;&nbsp;The Conversation",
-      "sources": [
-        {
-          "name": "The Conversation",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcjhBVkNvNHRydVNfVFBkUm9xSHlZYmswczdPRDRoSzlVSWhpbENncThjVkZvdHZNOFZRU1l3anhWX1ltOVJ6R2ZVeGtzdEpVTGlDRmJGM3dfTXo4UTg4cUF5MXo5bFFCcVBUUG9idzA0TmtoR0NxaFhOdVRDYjVnU3dGZFNIdmlab0lJX09lQjYyMXNPU2lJY2dCZ0gxZmhrT2ZKV2x2NzUxLWlPSjk3TDk5VTRyVGVC?oc=5"
-        }
-      ]
-    },
-    {
       "id": "614ab5403b4a",
       "title": "Ultra-processed foods may affect the brain long before symptoms appear - Earth.com",
       "published": "2026-10-15T21:43:08+00:00",
-      "summary": "Ultra-processed foods may affect the brain long before symptoms appear&nbsp;&nbsp;Earth.comNine in ten research papers disputing definition of ultraprocessed foods have industry ties, study finds&nbsp;&nbsp;The ExaminationWe know junk food isn't healthy, but scientists are trying to determine if it's also bad for our brains&nbsp;&nbsp;CBCScientists Gave People 2 Nearly Identical Meals. One Triggered Much More Insulin.&nbsp;&nbsp;ScienceAlertChips, cereals and frozen meals could raise risk of bra",
+      "summary": "Ultra-processed foods may affect the brain long before symptoms appear&nbsp;&nbsp;Earth.comNine in ten research papers disputing definition of ultraprocessed foods have industry ties, study finds&nbsp;&nbsp;The ExaminationWe know junk food isn't healthy, but scientists are trying to determine if it's also bad for our brains&nbsp;&nbsp;CBCChips, cereals and frozen meals could raise risk of brain damage and dementia, study finds&nbsp;&nbsp;CTV NewsUltra-processed food intake linked to possible sig",
       "sources": [
         {
           "name": "Earth.com",
@@ -549,7 +525,7 @@
       "id": "ccc9a764303b",
       "title": "Associations of food processing and dietary risk factors with colorectal cancer incidence in the NIH-AARP Diet and Health Study: A cohort study - PLOS",
       "published": "2026-10-15T17:38:45+00:00",
-      "summary": "Associations of food processing and dietary risk factors with colorectal cancer incidence in the NIH-AARP Diet and Health Study: A cohort study&nbsp;&nbsp;PLOSA new ultra-processed foods study's surprising results, explained&nbsp;&nbsp;USA TodayLarge study finds no link between ultra-processed food and colorectal cancer&nbsp;&nbsp;NBC NewsReplacing just 10% of ultra-processed foods with whole foods linked to drop in bowel cancer rate&nbsp;&nbsp;The ConversationTotal ultra-processed food intake n",
+      "summary": "Associations of food processing and dietary risk factors with colorectal cancer incidence in the NIH-AARP Diet and Health Study: A cohort study&nbsp;&nbsp;PLOSLarge study finds no link between ultra-processed food and colorectal cancer&nbsp;&nbsp;NBC NewsReplacing just 10% of ultra-processed foods with whole foods linked to drop in bowel cancer rate&nbsp;&nbsp;The ConversationTotal ultra-processed food intake not linked to colorectal cancer in large US cohort study&nbsp;&nbsp;Medical XpressProce",
       "sources": [
         {
           "name": "PLOS",
@@ -570,22 +546,10 @@
       ]
     },
     {
-      "id": "4c97f41a6e1a",
-      "title": "Mom of 6 Sues Doctors, Hospital After Hysterectomy Allegedly Leads to Paralysis, Quadruple Amputations - Yahoo News Canada",
-      "published": "2026-10-15T16:34:02+00:00",
-      "summary": "Mom of 6 Sues Doctors, Hospital After Hysterectomy Allegedly Leads to Paralysis, Quadruple Amputations&nbsp;&nbsp;Yahoo News CanadaMom seeks $68 million after hysterectomy leads to quadruple amputations, paralysis: suit&nbsp;&nbsp;WKRCMother-of-six, 46, lost hand, legs, & lips as doctors 'failed to diagnose illness after basic surgery,' lawsuit says&nbsp;&nbsp;The SunMum left paralysed, limbs amputated from botched surgery&nbsp;&nbsp;PerthNowMom of 6, Who Lost Both Legs and a Hand, Reveals Why S",
-      "sources": [
-        {
-          "name": "Yahoo News Canada",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBaR0tqWFgxSXBJUXJYMUVLSnc5c3dpclJyaEFLQXFzaDJkeEUzMWw3N29HWkNYUjd6Nk9VYzJZNkJoUFJmTHNxdE5qTU9xTVNOVWxpN05ES2I1WjZ1Q3E3bUFHMm5HaTU2M2lUMkxfSGtHaEVYb3Fn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d92e20222317",
       "title": "Big Bear bald eagle Jackie's cause of death revealed - Good Morning America",
       "published": "2026-10-15T14:55:28+00:00",
-      "summary": "Big Bear bald eagle Jackie's cause of death revealed&nbsp;&nbsp;Good Morning AmericaWildlife Experts Stunned to Find That Bird Flu Killed Jackie, the Beloved, Internet-Famous Bald Eagle&nbsp;&nbsp;Smithsonian MagazineCDFW News | Necropsy Provides New Information About Beloved Bald Eagle Known as Jackie&nbsp;&nbsp;California Department of Fish and Wildlife (.gov)Bird flu caused the death of Jackie, a California bald eagle who captured hearts&nbsp;&nbsp;AP NewsJackie, the famous the bald eagle mam",
+      "summary": "Big Bear bald eagle Jackie's cause of death revealed&nbsp;&nbsp;Good Morning AmericaJackie the Big Bear bald eagle’s cause of death revealed in necropsy&nbsp;&nbsp;KTLAWildlife Experts Stunned to Find That Bird Flu Killed Jackie, the Beloved, Internet-Famous Bald Eagle&nbsp;&nbsp;Smithsonian MagazineBird flu caused the death of Jackie, a California bald eagle who captured hearts&nbsp;&nbsp;AP NewsScientists stunned by Jackie the bald eagle's cause of death&nbsp;&nbsp;USA Today",
       "sources": [
         {
           "name": "Good Morning America",
@@ -594,22 +558,10 @@
       ]
     },
     {
-      "id": "16f7a53b33f6",
-      "title": "3 Napping Habits May Be Linked To Dementia Years Before Diagnosis - HuffPost UK",
-      "published": "2026-10-15T13:23:11+00:00",
-      "summary": "3 Napping Habits May Be Linked To Dementia Years Before Diagnosis&nbsp;&nbsp;HuffPost UKFrequent, Unintended Napping Tied to Higher Dementia Risk&nbsp;&nbsp;Johns Hopkins Bloomberg School of Public HealthScientists Investigated People With Insomnia. A Health Risk Pattern Emerged&nbsp;&nbsp;NewsweekNapping linked to dementia risk&nbsp;&nbsp;Medical XpressNapping Most Days Linked To 48% Higher Dementia Risk In Older Adults&nbsp;&nbsp;StudyFinds",
-      "sources": [
-        {
-          "name": "HuffPost UK",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRV9SOFdrTm95dTVrRjRad2JHS09JYy1JcXNVZ2lFcnVmWDY2UnkycGFkSU1XYnlZQzJHV1Jpb1plSjdEVm1MYURnZlhHaEFVdFM1WENxcXhFa0o4T0Fsak5ucUhGNFlwcTdpT3RYSU9CMWFMV0NZTkJNdF9rTC1FcmRnT2xYR0hMMllTeHI3b05YYVBDVEtfZHczcw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5c449e23146c",
       "title": "‘Who, us? We’re not anti-vaccine,’ parents tell me. ‘Today just doesn’t work for us’ - CNN",
       "published": "2026-10-15T11:00:44+00:00",
-      "summary": "‘Who, us? We’re not anti-vaccine,’ parents tell me. ‘Today just doesn’t work for us’&nbsp;&nbsp;CNNContributed Content: How do Hospitals Navigate the New Normal for Childhood Vaccines?&nbsp;&nbsp;HealthLeaders MediaFor more parents, vaccine refusal is becoming vaccine delay – but the risks remain&nbsp;&nbsp;Mezha.netChildhood Vaccine Schedules Across Countries&nbsp;&nbsp;The Heritage FoundationYOUR LETTERS: Kids impacted by RFK vaccine cutback decision&nbsp;&nbsp;The Labor Tribune",
+      "summary": "‘Who, us? We’re not anti-vaccine,’ parents tell me. ‘Today just doesn’t work for us’&nbsp;&nbsp;CNNContributed Content: How do Hospitals Navigate the New Normal for Childhood Vaccines?&nbsp;&nbsp;HealthLeaders MediaFor more parents, vaccine refusal is becoming vaccine delay – but the risks remain&nbsp;&nbsp;Mezha.netYOUR LETTERS: Kids impacted by RFK vaccine cutback decision&nbsp;&nbsp;The Labor TribunePediatricians Report Vaccine Delays as US Policy Changes&nbsp;&nbsp;SuaraGarut.ID",
       "sources": [
         {
           "name": "CNN",
@@ -618,14 +570,26 @@
       ]
     },
     {
-      "id": "7b900266b9a6",
-      "title": "Best foods for reducing dangerous belly fat and protecting heart health - Fox News",
-      "published": "2026-10-15T10:00:45+00:00",
-      "summary": "Best foods for reducing dangerous belly fat and protecting heart health&nbsp;&nbsp;Fox NewsDoctor Reveals Foods That May Help Reduce Belly Fat and Protect Heart Health&nbsp;&nbsp;WOWOThin arms and legs but stubborn belly fat? Doctor warns against eating less and instead recommends 5 chang&nbsp;&nbsp;The Economic TimesThe best foods to help reduce your belly fat and protect your heart health&nbsp;&nbsp;New York Post",
+      "id": "929d1095f687",
+      "title": "Man claims he went blind after taking Ozempic, shares warning for other users - Fox News",
+      "published": "2026-10-15T11:00:14+00:00",
+      "summary": "Man claims he went blind after taking Ozempic, shares warning for other users&nbsp;&nbsp;Fox NewsOzempic and Wegovy linked to rare risk of sudden vision loss&nbsp;&nbsp;Science DailyHundreds Sue GLP-1 Drugmakers Over Vision Loss, Regulators Continue Weigh Rare Eye Risk&nbsp;&nbsp;YahooStudy Links GLP-1 Drugs to Small Rise in Sudden Vision Loss Risk&nbsp;&nbsp;Technology OrgAttorney Tracy Paulsen Brings Focused Experience to Growing GLP-1 Vision Loss and NAION Litigation&nbsp;&nbsp;StreetInsider",
       "sources": [
         {
           "name": "Fox News",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUjN6QU9jWVo3bUNiX0RKZmhIbzFXTmhQNVcxektTVGl3aW5VR29qaHB6NnpoWnl6MC1mZGNsam9FXzY4RWZmYXZyMkVibkFxaDFuUXFYV0dfOGhuSUplSlpqejk0NkJsY01Zc2VmYTFfenpfNnUxZWV1cmlNOXpZRDlMb0tvaDYtZVJZSnRjaTBqMUVyazlaZ2JtT3VJZ0XSAaQBQVVfeXFMTUFEckp5MEdfekxFVTY3bXVLeS0zZGFKMTdvTmR1clpJOE1TNGlGdXJNY053QjB6LXdLZFZ3QTU4WEpEblM0UW9mZmpvM0Y4SllZS3pVT0JzRE96S1piVlJKelk1XzNsdFpTNGcyUndCdzM3S2tsN1plNlpGLTBid3NqbVB2Nm1SUmM3SkZoLTNFUWEtRG5PX241ODI4aUhpaGlzQWo?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZzlEeFBORXpLQ2FWdThvOTljQTJlb3h6LU5ZZ1lSdU5YSUVmeFktV0JURnRvc0s1NVRodTUtZlcxc0tqNGt1VnVxXzlpRmFvNC1zVVlZXzc3cUNOMElGeGxza3RXeUZXbUtwXzNITl9FcjFWOVdjeFROeXFad2pGdkR1cUJMOFNubGYwb1BpNXNJY0JVSUFrYi1MZ2V5YUlLQmfSAacBQVVfeXFMTzRES1Rtb29Ca2NpU1NkUVROVkY4aFhyREpnZzNlLVpwUVN4MHpzc09TaFNOSExmOWdkZ3RRVExydWI3LThlcW13a3dDMTFZSUhCaUdWTGsyRktSVWduSklhM1RkRkVTNkhsQ1JWSlBuMlVsSC1TSE1EUEZkZEhFMDhURVRpTXRhMnFJWjgzek1QRnZCVXhFWEdvSUpYVkRzcGh0V3VUWjQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "700f53019c30",
+      "title": "An industry is prescribing weight-loss drugs to people with anorexia, devastating lives - CNN",
+      "published": "2026-10-15T10:00:47+00:00",
+      "summary": "An industry is prescribing weight-loss drugs to people with anorexia, devastating lives&nbsp;&nbsp;CNNThe Difficulty of Diagnosing Anorexia in the GLP-1 Era&nbsp;&nbsp;The New York Timesweight loss drugs are driving a new eating disorder&nbsp;&nbsp;Meteo.grGLP-1 Drugs and Anorexia: How Telehealth Loopholes Are Endangering the Most Vulnerable Patients&nbsp;&nbsp;Latin Timesweight loss drugs are driving a new eating disorder crisis&nbsp;&nbsp;BusinessWorld Online",
+      "sources": [
+        {
+          "name": "CNN",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZFhXRXpQdmx6STNtNGNDYXltTXBlTE9ZNTFPejJxYlVtWHZENEo3OHhDNGM0aXhTb3J3VHZaNmxTYVNJVGR6Z3R5aEY1cS1DUmZwRzF4Rko3czh0WWhJWHlMRHptY0NHV1hzd1lzeFJIU2t2MDliZUp4V2RndXF1UjlDLU9OdTMxY3hnZnJ5Zw?oc=5"
         }
       ]
     },
@@ -633,7 +597,7 @@
       "id": "df9bdbf79ea0",
       "title": "Photographers Capture ‘Space Jellyfish’ Left Behind by Rocket Plume - PetaPixel",
       "published": "2026-10-15T08:51:08+00:00",
-      "summary": "Photographers Capture ‘Space Jellyfish’ Left Behind by Rocket Plume&nbsp;&nbsp;PetaPixelAPOD: 2026 October 16 – Chasing the International Space Station&nbsp;&nbsp;NASA Science (.gov)SpaceX plans to launch the Bandwagon-5 mission; jellyfish effect possible&nbsp;&nbsp;Spectrum News 13GALLERY: SpaceX Falcon 9 launch lights up sky across Chattanooga area and beyond&nbsp;&nbsp;WTVCSpaceX Cargo Dragon delivers more than 6,000 pounds of supplies to the ISS&nbsp;&nbsp;Space",
+      "summary": "Photographers Capture ‘Space Jellyfish’ Left Behind by Rocket Plume&nbsp;&nbsp;PetaPixelAPOD: 2026 October 16 – Chasing the International Space Station&nbsp;&nbsp;NASA Science (.gov)GALLERY: SpaceX Falcon 9 launch lights up sky across Chattanooga area and beyond&nbsp;&nbsp;WTVCBandwagon-5 Mission&nbsp;&nbsp;SpaceXSpaceX Cargo Dragon delivers more than 6,000 pounds of supplies to the ISS&nbsp;&nbsp;Space",
       "sources": [
         {
           "name": "PetaPixel",
@@ -657,7 +621,7 @@
       "id": "c524d4739a09",
       "title": "Why So Many People Still Are Not Screened for Lung Cancer - The New York Times",
       "published": "2026-10-14T22:33:50+00:00",
-      "summary": "Why So Many People Still Are Not Screened for Lung Cancer&nbsp;&nbsp;The New York TimesExperts say cost barriers and stigma keep eligible adults from lung cancer screening&nbsp;&nbsp;Managed Healthcare ExecutiveWider Lung Cancer Screening Rules Pull In More Smokers, But Who Is Truly at Risk?&nbsp;&nbsp;Bioengineer.orgJames Fan Wu: Gaps in Lung Cancer Screening Highlighted at ASCO Quality Care Symposium&nbsp;&nbsp;OncodailyLeana S. Wen: Far too few patients are being screened for lung cancer&nbsp",
+      "summary": "Why So Many People Still Are Not Screened for Lung Cancer&nbsp;&nbsp;The New York TimesExperts say cost barriers and stigma keep eligible adults from lung cancer screening&nbsp;&nbsp;Managed Healthcare ExecutiveWider Lung Cancer Screening Rules Pull In More Smokers, But Who Is Truly at Risk?&nbsp;&nbsp;Bioengineer.orgJames Fan Wu: Gaps in Lung Cancer Screening Highlighted at ASCO Quality Care Symposium&nbsp;&nbsp;OncodailyDigital Outreach Reaches Thousands for Lung Cancer Screening, but Gaps Per",
       "sources": [
         {
           "name": "The New York Times",
@@ -669,7 +633,7 @@
       "id": "6d384755da0f",
       "title": "Cardiologists Share the 7 Foods They Eat for Lower Blood Pressure - AOL.com",
       "published": "2026-10-14T13:35:00+00:00",
-      "summary": "Cardiologists Share the 7 Foods They Eat for Lower Blood Pressure&nbsp;&nbsp;AOL.comThe No. 1 Vegetable a Cardiologist Recommends to Help Lower Blood Pressure&nbsp;&nbsp;TODAY.comEating a Daily Serving of Nuts Linked to Lower Blood Pressure Risk, Study Finds&nbsp;&nbsp;Health.comHigh Blood Pressure: 4 food groups that may help lower it&nbsp;&nbsp;GhanaWebBeets Named Top Food for Lowering Blood Pressure&nbsp;&nbsp;Seoul Economic Daily",
+      "summary": "Cardiologists Share the 7 Foods They Eat for Lower Blood Pressure&nbsp;&nbsp;AOL.comThe No. 1 Vegetable a Cardiologist Recommends to Help Lower Blood Pressure&nbsp;&nbsp;TODAY.comEating a Daily Serving of Nuts Linked to Lower Blood Pressure Risk, Study Finds&nbsp;&nbsp;Health.com3 in 10 Korean Men Have High Blood Pressure... \"'This' Can Lower It if Eaten Regularly\"&nbsp;&nbsp;아시아경제5 Best Foods That May Help Lower High Blood Pressure&nbsp;&nbsp;https://docksiderestaurant.com.au/",
       "sources": [
         {
           "name": "AOL.com",
@@ -702,26 +666,14 @@
       ]
     },
     {
-      "id": "b14341944137",
-      "title": "Ovaries Develop an Intriguing Second Role After Menopause - ScienceAlert",
-      "published": "2026-10-14T05:00:36+00:00",
-      "summary": "Ovaries Develop an Intriguing Second Role After Menopause&nbsp;&nbsp;ScienceAlertWhy the ovary still matters well beyond menopause&nbsp;&nbsp;The Washington PostThe ovary doesn’t retire after menopause&nbsp;&nbsp;Northwestern Now NewsScientists Found Something Unexpected In Ovaries Long After Menopause&nbsp;&nbsp;MindBodyGreenProteomics Reveals Ovarian Remodeling Decades After Menopause&nbsp;&nbsp;Genetic Engineering and Biotechnology News",
+      "id": "669a8cd7c814",
+      "title": "Women ‘more likely to be told autoimmune conditions are psychological’ | Women's health - The Guardian",
+      "published": "2026-10-13T04:00:00+00:00",
+      "summary": "Women ‘more likely to be told autoimmune conditions are psychological’ | Women's health&nbsp;&nbsp;The GuardianWomen with autoimmune diseases are more likely to be misdiagnosed with mental health conditions&nbsp;&nbsp;PhillyVoiceNearly half of women with autoimmune diseases told their symptoms are psychological&nbsp;&nbsp;The IndependentWomen with autoimmune diseases more likely to receive psychiatric misdiagnoses&nbsp;&nbsp;News-MedicalWomen Report Longer Waits for Autoimmune Diagnoses&nbsp;&nb",
       "sources": [
         {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRVZocG1WaWtTQUxiNnVtTVZwZmlwdWJZLXRKWGhrY1RSNERHM19SUW5NVjVsVDlWSGU1aVAzbVlzZjFJbF9fR2luQ2RZSkJXcFhQRi1EQm1IS1Mwenh3NnZ4bEFLbFRfVlctVFdJZ2V0d1ZxdHJoWDQxbE15dUFzOG8xdlFVMkU5RHUtemJucw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3706e98f3564",
-      "title": "Woman Who Survived Colon Cancer 3 Times Reveals the First Symptom She Noticed at 14: ‘I Hid It From Everyone’ - AOL.com",
-      "published": "2026-10-13T15:55:27+00:00",
-      "summary": "Woman Who Survived Colon Cancer 3 Times Reveals the First Symptom She Noticed at 14: ‘I Hid It From Everyone’&nbsp;&nbsp;AOL.com",
-      "sources": [
-        {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJMVZPVGR0c2dualFLM2VFNklmTUpJeUY3NWViajg1bXhTM0pZamFKb01tcWw5dFgza25wRHNxNTlmQXA1VWlScHBrOFQ2R0RuZnhIQXdvb1VBZEhRY0wxZjUxai04TVA4UkhySG8wZmtvWkJ1Y1hDZnN1aW5OUQ?oc=5"
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPREltUkV3b2JCSFJacU1UU2YyZElSc21TTXRUREs4dUFZOTBnSzNwazRkNlBtU3FTRC1CNEx5V2ItcWdoTGdLV2dhYjJRZ04zTHlwcWp3TC1EV3VBd0owOUthWjNlcW1rMl91SE1meldXRngwZFRLbDZUelpDU3lIWEVYNU1rU2ZFYllnd1ZWUVpva1NZeXhJSnFRbTUwVlVJWXNpNW0wNTlTV1dYenRBN1h2a21vbjFLblE?oc=5"
         }
       ]
     },
@@ -738,14 +690,14 @@
       ]
     },
     {
-      "id": "8cdb0068fcc3",
-      "title": "NASA's plans for a moon base could take shape by the end of 2026 - WESH",
-      "published": "2026-10-12T22:46:00+00:00",
-      "summary": "NASA's plans for a moon base could take shape by the end of 2026&nbsp;&nbsp;WESHNASA Outlines Moon Base Objectives, Challenges&nbsp;&nbsp;Aviation WeekWhat it would take to build a city on the moon&nbsp;&nbsp;MIT Technology ReviewHow NASA is thinking about a moon base&nbsp;&nbsp;SpaceNewsInside NASA’s High-Risk, High-Reward Push for a South Pole Moon Base&nbsp;&nbsp;IEEE Spectrum",
+      "id": "14cd7c9649d7",
+      "title": "West Coast mom of six loses both legs, hand after doctors ignored her complaints: bombshell lawsuit - New York Post",
+      "published": "2026-10-12T19:11:00+00:00",
+      "summary": "West Coast mom of six loses both legs, hand after doctors ignored her complaints: bombshell lawsuit&nbsp;&nbsp;New York PostMom of 6, Who Lost Both Legs and a Hand, Reveals Why Surviving Was Only the Beginning: ‘I Fought So Hard’&nbsp;&nbsp;YahooMom of 6 Sues Doctors, Hospital After Hysterectomy Allegedly Leads to Paralysis, Quadruple Amputations&nbsp;&nbsp;People.comMom seeks $68 million after hysterectomy leads to quadruple amputations, paralysis: suit&nbsp;&nbsp;WKRCMum left paralysed, limbs ",
       "sources": [
         {
-          "name": "WESH",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKZy1VcEg0M1J6LUxVb0FKdGV0WC1lSjBqZm9zWklBNjFwRTVGeEtiVVZSRlVZTm8wVmdoci01SVVkQlNFRXlzM0VFdTVrXzRSMm1ZNi1kRWU0aDVwRHFlblhqZEhSdTg1N2I1TFg1cEQ?oc=5"
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSk1BNlJHQ1dRMm5PVmtpWVlxaFZudnZmejRhc3h3TXpqb2Z2WlNfNHBLcVpoWUM0emJmZS1KOTM5emNCNlNwUHNpWV8tMU9YYTVIenBLX2pUSHEtYVVocmtaWXJmRHRRN2wxUzhBc0ZHc2JyM2g4blRUM1BRV3NGSThLMGdCUmYxVXk0Z0x1ZTQ2M1dmNk5KREQwU2I1aXNMdEhsaTdnQ08xdmNPRnc?oc=5"
         }
       ]
     },
@@ -753,7 +705,7 @@
       "id": "3bf7b40d81e6",
       "title": "At 194, Jonathan the Giant Tortoise knows about aging - The Seattle Times",
       "published": "2026-10-11T18:00:02+00:00",
-      "summary": "At 194, Jonathan the Giant Tortoise knows about aging&nbsp;&nbsp;The Seattle TimesAt age 194, Jonathan the tortoise offers clues to longevity, study says&nbsp;&nbsp;The Washington PostImmortality lessons from Jonathan the tortoise&nbsp;&nbsp;The Indian ExpressSustainability Corner: Jonathan the giant tortoise is helping scientists&nbsp;&nbsp;The Lamron200-year-old giant tortoise could hold the key to humans living until the 2200s&nbsp;&nbsp;AOL.com",
+      "summary": "At 194, Jonathan the Giant Tortoise knows about aging&nbsp;&nbsp;The Seattle TimesAt age 194, Jonathan the tortoise offers clues to longevity, study says&nbsp;&nbsp;The Washington PostAn 194-Year-Old Tortoise Named Jonathan Is an Anti-Aging Marvel—and We Finally Know His Secret&nbsp;&nbsp;Popular MechanicsImmortality lessons from Jonathan the tortoise&nbsp;&nbsp;The Indian Express200-year-old giant tortoise could hold the key to humans living until the 2200s&nbsp;&nbsp;AOL.com",
       "sources": [
         {
           "name": "The Seattle Times",

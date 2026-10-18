@@ -3,7 +3,7 @@ layout: default
 title: "RA (arthritis) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about RA (arthritis). 31 articles, 7 related drugs."
+description: "Health news about RA (arthritis). 33 articles, 7 related drugs."
 permalink: /news/arthritis/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/arthritis/
 ---
 
 <p class="key-answer" data-question="What news is there about RA (arthritis)?">
-<strong>RA (arthritis)</strong> currently has <strong>31 news articles</strong> and 7 related drugs.
+<strong>RA (arthritis)</strong> currently has <strong>33 news articles</strong> and 7 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ This page brings together the latest health news about “RA” and lists the dr
 </ul>
 </div>
 
-## Related News (31)
+## Related News (33)
+
+### [Do you know this feline? ‘Sociable’ cat tests positive for rabies in Prince William County - WTOP News](https://news.google.com/rss/articles/CBMivwFBVV95cUxOMHVnbFVJSUFfb2N4VmdINTNUTzQ5M0lIRVYxRmRpVExKUTZ0YWpDMFhoRHJBVnkyV0k3R091VFJpS1JDLUwzVHNGczdpUHN5TXBPTXg2TE5oZjRnZC1TM1hUdDFiLW8ycUcySzhGcnZCZk1keGxycHZ3bjlGalJOSjJFcTdTNHliY2dSSWRkYml2Q012cmpLTkZWLVhjcVRMWmFxVXZHSUJWSEU2UnVPMUJqMHMtYk9pQ3hiTm5VUQ?oc=5)
+
+2026-10-17
+
+Source: [WTOP News](https://news.google.com/rss/articles/CBMivwFBVV95cUxOMHVnbFVJSUFfb2N4VmdINTNUTzQ5M0lIRVYxRmRpVExKUTZ0YWpDMFhoRHJBVnkyV0k3R091VFJpS1JDLUwzVHNGczdpUHN5TXBPTXg2TE5oZjRnZC1TM1hUdDFiLW8ycUcySzhGcnZCZk1keGxycHZ3bjlGalJOSjJFcTdTNHliY2dSSWRkYml2Q012cmpLTkZWLVhjcVRMWmFxVXZHSUJWSEU2UnVPMUJqMHMtYk9pQ3hiTm5VUQ?oc=5)
+
+---
 
 ### [Renowned cancer researcher dies from disease she dedicated life to defeating](https://news.google.com/rss/articles/CBMivAFBVV95cUxQQkVZM3BiUFRRZlR3QzlXVDBjamk0Ni1Uem83Z3h3X2w0a3NVcGZ5VnNSblAtLXVCZk13WkZoSXMxSUE4NHlEOXZEUEMydjVKb2ZTWV9MQ3ZLektQdGlqa1dnVjkzUmdHaWRvc0thX1ZXamJFVExaZWdRd19GYmRhdHBYQTNmSTB2YUlIc3pGaFlRZEw5YzNsSDhnUlRrWFNoNnJVaGFRMTBQWVM3Q2ZTeVA4ZjVERnlLWVlqSdIBwgFBVV95cUxPRmNpdlJNblhCbUFYSUNVQWpmd2RaaDF5bEVTQjEtcTl3NHJ0cmlWVThoUGZyLUFyNXNTdXRtNFRTMjVzTWRVOGd0eGtxcWhPR09VWHN3S3pDZC1QVU94OFE3NVdPcVhaalBGa3VkdWdNQVNuUnFfUVZCN0R2WVdaQWRzY0NocXBTQ0JZQU5XMFdzUWx3Q0tTWG00OUVTazZkSGF3cGI0ZWdZeDJrczM1cnREM3FNaW1ZbmcyOHU1b1Q2dw?oc=5)
 
@@ -53,14 +61,6 @@ Source: [Good News Network](https://news.google.com/rss/articles/CBMioAFBVV95cUx
 
 ---
 
-### [A Reporter Who Saw Covid Coming Has Died - The New York Times](https://news.google.com/rss/articles/CBMidkFVX3lxTE1jRnFPdUJrbnVoNzJDTkc1UU1ta2JDTVdmX29ad1lzd2s1ZkNySkFHZVZZRjR1bEZMdTd1UVI0dGtaRW1vcldramJmVDlBZHlOX2dFU19NVThYcDVJSFgzbEtwR3RXUnFZdjF5NFphQm5laHdTYXc?oc=5)
-
-2026-10-17
-
-Source: [The New York Times](https://news.google.com/rss/articles/CBMidkFVX3lxTE1jRnFPdUJrbnVoNzJDTkc1UU1ta2JDTVdmX29ad1lzd2s1ZkNySkFHZVZZRjR1bEZMdTd1UVI0dGtaRW1vcldramJmVDlBZHlOX2dFU19NVThYcDVJSFgzbEtwR3RXUnFZdjF5NFphQm5laHdTYXc?oc=5)
-
----
-
 ### [CDC: Deadly Brain Fungus in Healthy Americans Is Rising](https://news.google.com/rss/articles/CBMimwFBVV95cUxPMTdiV2xUYWFJbEZRRldtRS1yVzhBdzlpeGR6bTNVRnlCNjQ0R0VmelR3WUtiUVU0bGxVdTRUOHNETWI3QVFnaUtFcTRRVlRtQUlLMXd1TEo1ZFZqYVBBclBoTkw1QWNPeDd4Wl9Gamw5VlhCeGpzVzh5QUJBTWFtbk9WVmc4M2tvTkMyakZfYURtX1dVNUNUcDQzMA?oc=5)
 
 2026-10-17
@@ -69,11 +69,11 @@ Source: [Newser](https://news.google.com/rss/articles/CBMimwFBVV95cUxPMTdiV2xUYW
 
 ---
 
-### [Alcohol Doesn't Just Affect Neurons – It Triggers Immune Cells to Destroy The Brain's Structural Matrix, Mouse Study Shows](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUXVJU29SN3ZxdTM3eHRlUFB3NW9aM3d6SjR6X2dxRXVOXzM0SGFUQXZZdG1rdzhScTJ2U0R4MHZ5UHEzWkxfdFlHbktPenowRFliZjlWNzM4Q3J2S001a1ZyNldUS3Q5WklDa215NTVpZ2tmTUt4V1ZCSHpDRjhLMnFPSTFHM0JNTkhKSTJxOWNTaDM0YkREc3YtcUlzekV2LTRYcTRIcE9xUkJ6dHBiSW1ZOXU0UVBhTFVveUxYUDVzdnF2YjZoRzhCOFcxa1B6eWlJblE2T1ozekV1Mm9j?oc=5)
+### [A Reporter Who Saw Covid Coming Has Died - The New York Times](https://news.google.com/rss/articles/CBMidkFVX3lxTE1jRnFPdUJrbnVoNzJDTkc1UU1ta2JDTVdmX29ad1lzd2s1ZkNySkFHZVZZRjR1bEZMdTd1UVI0dGtaRW1vcldramJmVDlBZHlOX2dFU19NVThYcDVJSFgzbEtwR3RXUnFZdjF5NFphQm5laHdTYXc?oc=5)
 
 2026-10-17
 
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUXVJU29SN3ZxdTM3eHRlUFB3NW9aM3d6SjR6X2dxRXVOXzM0SGFUQXZZdG1rdzhScTJ2U0R4MHZ5UHEzWkxfdFlHbktPenowRFliZjlWNzM4Q3J2S001a1ZyNldUS3Q5WklDa215NTVpZ2tmTUt4V1ZCSHpDRjhLMnFPSTFHM0JNTkhKSTJxOWNTaDM0YkREc3YtcUlzekV2LTRYcTRIcE9xUkJ6dHBiSW1ZOXU0UVBhTFVveUxYUDVzdnF2YjZoRzhCOFcxa1B6eWlJblE2T1ozekV1Mm9j?oc=5)
+Source: [The New York Times](https://news.google.com/rss/articles/CBMidkFVX3lxTE1jRnFPdUJrbnVoNzJDTkc1UU1ta2JDTVdmX29ad1lzd2s1ZkNySkFHZVZZRjR1bEZMdTd1UVI0dGtaRW1vcldramJmVDlBZHlOX2dFU19NVThYcDVJSFgzbEtwR3RXUnFZdjF5NFphQm5laHdTYXc?oc=5)
 
 ---
 
@@ -93,19 +93,19 @@ Source: [Los Angeles Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUx
 
 ---
 
-### [Is the brain actually 2 nervous systems smooshed together? A new study claims it is. - Live Science](https://news.google.com/rss/articles/CBMiygFBVV95cUxNaXBqSmV3anJkSTJhZ1k4MlBmNkZWLW5KbmVoMDNRaVFhZWd3bDlHMkhURFM0VE1IcFRXZ0d0YzRMb2NZdVhLa0JQNjBkZVdTTkxYeDk5SnBQNjJfa1dHajdKTGlhaDZnRGxKNDBjdWpja1RFNXFtMDdqMlgtc0R6RTlqRGx3bnZGMlktdm5vc0dkVnJNMmtWYzhUT1JmTUZSZXpLRl8yaE1FNmVNRkxXUjkzR2tsZFhKSUNiUDhlZ25OY1hJYjhyem1R?oc=5)
-
-2026-10-17
-
-Source: [Live Science](https://news.google.com/rss/articles/CBMiygFBVV95cUxNaXBqSmV3anJkSTJhZ1k4MlBmNkZWLW5KbmVoMDNRaVFhZWd3bDlHMkhURFM0VE1IcFRXZ0d0YzRMb2NZdVhLa0JQNjBkZVdTTkxYeDk5SnBQNjJfa1dHajdKTGlhaDZnRGxKNDBjdWpja1RFNXFtMDdqMlgtc0R6RTlqRGx3bnZGMlktdm5vc0dkVnJNMmtWYzhUT1JmTUZSZXpLRl8yaE1FNmVNRkxXUjkzR2tsZFhKSUNiUDhlZ25OY1hJYjhyem1R?oc=5)
-
----
-
 ### [The One Thing You Can Get at the Pharmacy That May Lower Your Alzheimer’s Risk Isn’t What You Think](https://news.google.com/rss/articles/CBMifEFVX3lxTE16a2N1QXRSbG10NzlMVWdXM192VWQxSkpxVFZDQjF3RFVOcEZaeXE0VWZCZkdjUTlHc25sVDVickI2ckFXMWN4NHhtODJab3Bod2JfOWtiSklKaTN5RE9yUFJNZTBNdTk2UVN1VXhVTUszQWhTeEY4c3g5MVA?oc=5)
 
 2026-10-17
 
 Source: [AOL.com](https://news.google.com/rss/articles/CBMifEFVX3lxTE16a2N1QXRSbG10NzlMVWdXM192VWQxSkpxVFZDQjF3RFVOcEZaeXE0VWZCZkdjUTlHc25sVDVickI2ckFXMWN4NHhtODJab3Bod2JfOWtiSklKaTN5RE9yUFJNZTBNdTk2UVN1VXhVTUszQWhTeEY4c3g5MVA?oc=5)
+
+---
+
+### [Is the brain actually 2 nervous systems smooshed together? A new study claims it is. - Live Science](https://news.google.com/rss/articles/CBMiygFBVV95cUxNaXBqSmV3anJkSTJhZ1k4MlBmNkZWLW5KbmVoMDNRaVFhZWd3bDlHMkhURFM0VE1IcFRXZ0d0YzRMb2NZdVhLa0JQNjBkZVdTTkxYeDk5SnBQNjJfa1dHajdKTGlhaDZnRGxKNDBjdWpja1RFNXFtMDdqMlgtc0R6RTlqRGx3bnZGMlktdm5vc0dkVnJNMmtWYzhUT1JmTUZSZXpLRl8yaE1FNmVNRkxXUjkzR2tsZFhKSUNiUDhlZ25OY1hJYjhyem1R?oc=5)
+
+2026-10-17
+
+Source: [Live Science](https://news.google.com/rss/articles/CBMiygFBVV95cUxNaXBqSmV3anJkSTJhZ1k4MlBmNkZWLW5KbmVoMDNRaVFhZWd3bDlHMkhURFM0VE1IcFRXZ0d0YzRMb2NZdVhLa0JQNjBkZVdTTkxYeDk5SnBQNjJfa1dHajdKTGlhaDZnRGxKNDBjdWpja1RFNXFtMDdqMlgtc0R6RTlqRGx3bnZGMlktdm5vc0dkVnJNMmtWYzhUT1JmTUZSZXpLRl8yaE1FNmVNRkxXUjkzR2tsZFhKSUNiUDhlZ25OY1hJYjhyem1R?oc=5)
 
 ---
 
@@ -149,6 +149,14 @@ Source: [Phys.org](https://news.google.com/rss/articles/CBMiekFVX3lxTE8xaWNPTmRP
 
 ---
 
+### [Is the glymphatic system the new way to protect your brain? - The Times](https://news.google.com/rss/articles/CBMijwFBVV95cUxNWU9uR3c5RmRMUHduR2l5WWdUU0dNRDg3T0lEV2l2Ry1hWWNvdC1uY2V6eXNGOXNIekRVWUdJTUJfeFhNTGcwTzc4cFB3Qjcwc3BUczU0N1hRVy1QS3VHc3hmcVA4UUZ6cENxSDRSV3hvMlNxdG9aUGtBZWlBUkt6eW5xTGdXVnR6T3gyNUpVSQ?oc=5)
+
+2026-10-16
+
+Source: [The Times](https://news.google.com/rss/articles/CBMijwFBVV95cUxNWU9uR3c5RmRMUHduR2l5WWdUU0dNRDg3T0lEV2l2Ry1hWWNvdC1uY2V6eXNGOXNIekRVWUdJTUJfeFhNTGcwTzc4cFB3Qjcwc3BUczU0N1hRVy1QS3VHc3hmcVA4UUZ6cENxSDRSV3hvMlNxdG9aUGtBZWlBUkt6eW5xTGdXVnR6T3gyNUpVSQ?oc=5)
+
+---
+
 ### [RFK Jr. Pledged to Advance Anti-Vaccine Group’s Goals. Here’s What He’s Doing. - The New York Times](https://news.google.com/rss/articles/CBMidkFVX3lxTE9rc045Nk4zTHNOUFBjYTZmY2YxNE4xLTdISEt6a0F2cDBOMW9TaHhiNkxkME5YVzBfU1pXT254QXgzbW1jX2hsRmQwZHV2c2NleUduVTdScHlWb0FYSzJETms4TDYxZ01vNlIzNEVUU1Blb2RYV1E?oc=5)
 
 2026-10-16
@@ -165,19 +173,19 @@ Source: [Daily Breeze](https://news.google.com/rss/articles/CBMiowFBVV95cUxQeTZ2
 
 ---
 
+### ['Excess oxygen' stored in deep Earth magma may help explain how Earth's atmosphere became oxygen-rich](https://news.google.com/rss/articles/CBMic0FVX3lxTFB5X2pPbDR1bTJqdkt3N2NCMUc4WlVzX0VBZ3dGQk5pd2FYLXpETzJFNTJiQ2NsejcyX0dsVGdwaUgzQW9vNXh6SDh2OHVGZ09IRllLRFc4b2lTVHA5d3dVQ0dOVV9PZzAybEFtMjdONjE2QWs?oc=5)
+
+2026-10-16
+
+Source: [Phys.org](https://news.google.com/rss/articles/CBMic0FVX3lxTFB5X2pPbDR1bTJqdkt3N2NCMUc4WlVzX0VBZ3dGQk5pd2FYLXpETzJFNTJiQ2NsejcyX0dsVGdwaUgzQW9vNXh6SDh2OHVGZ09IRllLRFc4b2lTVHA5d3dVQ0dOVV9PZzAybEFtMjdONjE2QWs?oc=5)
+
+---
+
 ### [Tiny brain structure anticipates what we are about to see or feel, study finds - Medical Xpress](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JUU9lTkh3eUE3VnJJQTBrRGlWaERiSFM5WnVSeUVkVFBlTDBHb29rcm1STW43dEhBdTZlMFhDbVRsc3FKRGVBeXFoOGRMSGtHbXdFZkE5XzhNendiRTZlenNJcno?oc=5)
 
 2026-10-16
 
 Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5JUU9lTkh3eUE3VnJJQTBrRGlWaERiSFM5WnVSeUVkVFBlTDBHb29rcm1STW43dEhBdTZlMFhDbVRsc3FKRGVBeXFoOGRMSGtHbXdFZkE5XzhNendiRTZlenNJcno?oc=5)
-
----
-
-### [Novo Nordisk and Eli Lilly Just Got Some Fantastic News - Yahoo Finance](https://news.google.com/rss/articles/CBMikgFBVV95cUxNSHhuWmRlYVdaU21OeUZpRzhENHlFUWdwTnRRMHJBN0FJNjFyUE50a2paY3dKWXlGQnZMYU96SlltSkhDUVUxM1NVNWIxbmJUVXkwTnlMcEtlMFBjR1JCTjNxRlNsUlphYW1oM0FrOWo0N3RlYkktYk1JQ3JLMjBiQ21BeDFFR3hLek5haXd0ZmNGdw?oc=5)
-
-2026-10-16
-
-Source: [Yahoo Finance](https://news.google.com/rss/articles/CBMikgFBVV95cUxNSHhuWmRlYVdaU21OeUZpRzhENHlFUWdwTnRRMHJBN0FJNjFyUE50a2paY3dKWXlGQnZMYU96SlltSkhDUVUxM1NVNWIxbmJUVXkwTnlMcEtlMFBjR1JCTjNxRlNsUlphYW1oM0FrOWo0N3RlYkktYk1JQ3JLMjBiQ21BeDFFR3hLek5haXd0ZmNGdw?oc=5)
 
 ---
 
@@ -205,14 +213,6 @@ Source: [Phys.org](https://news.google.com/rss/articles/CBMiekFVX3lxTE5FMzhNbWJS
 
 ---
 
-### [It's Not What's in Your Cup That Matters For This Cancer. It's How Hot It Is.](https://news.google.com/rss/articles/CBMitgFBVV95cUxONmZqLTVobEI1djdWbDVRUlJ3b0Zzajl1YVZGeVZQZTNNdzJ6V2cyVWdRdnhZaWNyN1ptVmJOWXFrbzVpa0xXME5WQjFFNzNOcm5WN3QySGEtVmpKMlFSc1VvTEwtM1gzQ3Z1ejM5UVV5WFBDUjBhMXY2T2Ytd3lMalhFVDVTdDh5dHhTUVRGY1pNRFpmRkpMcjV4Tk1haTBIcVgtNS1lYk5vMnhTUnZrQzNtN1Z2Zw?oc=5)
-
-2026-10-16
-
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMitgFBVV95cUxONmZqLTVobEI1djdWbDVRUlJ3b0Zzajl1YVZGeVZQZTNNdzJ6V2cyVWdRdnhZaWNyN1ptVmJOWXFrbzVpa0xXME5WQjFFNzNOcm5WN3QySGEtVmpKMlFSc1VvTEwtM1gzQ3Z1ejM5UVV5WFBDUjBhMXY2T2Ytd3lMalhFVDVTdDh5dHhTUVRGY1pNRFpmRkpMcjV4Tk1haTBIcVgtNS1lYk5vMnhTUnZrQzNtN1Z2Zw?oc=5)
-
----
-
 ### [This Is the No. 1 Risk Factor for Dementia That You Can Actually Prevent, According to a Geriatrician](https://news.google.com/rss/articles/CBMinAFBVV95cUxNV2dlUWR2dFBrUzdOcVVCR3d0WE1nU1BhRVFCZTFzWnVZSzk3OFdtRm9ScENqMk12WmpYZWEzNEp1aTZsWFJhNTV5UXZfTldfSmFhM2lNZ2VYYjhTNXBvNXpucnZpVlBOYU16aXJlNndFRGZndVlYWmVsTnh3amUySXlUdmFyN0J4LW1MNkdQMG9YZF8yMGUwSHQ2ZV8?oc=5)
 
 2026-10-16
@@ -226,22 +226,6 @@ Source: [TODAY.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxNV2dlUWR
 2026-10-16
 
 Source: [Slate](https://news.google.com/rss/articles/CBMihAFBVV95cUxOTG0zRzNRV3hfN29ib214SHBBQ1FySlJCYktsTkVRbDBxVHRFbFRQVm9Cam1OSmxPVFNobmZhZmlhcHUtb1BwbllHNWZjWGdBSzFuM1FWMTRYZTNDeDVzSFh2V0E4QXdXOV9kZ18zWUhXdFludjdkZDZ3RGJFTWFDUUZpY1o?oc=5)
-
----
-
-### [The Difficulty of Diagnosing Anorexia in the GLP-1 Era - The New York Times](https://news.google.com/rss/articles/CBMigAFBVV95cUxObTk3U3NxZkxtOFlKamQta3lXWmhjSkYtOEhHQUEyVkw4dE1kdHZIODYxelpWdTU4a1dESkpPU3R3cDJPU3EtZERkeXRGbVJkVkJGTENnT05fdFEteUI3SzhuMW9Kcll4eEhuOUNUa2wwckZELWQxMVVkWDE3WXFQVQ?oc=5)
-
-2026-10-16
-
-Source: [The New York Times](https://news.google.com/rss/articles/CBMigAFBVV95cUxObTk3U3NxZkxtOFlKamQta3lXWmhjSkYtOEhHQUEyVkw4dE1kdHZIODYxelpWdTU4a1dESkpPU3R3cDJPU3EtZERkeXRGbVJkVkJGTENnT05fdFEteUI3SzhuMW9Kcll4eEhuOUNUa2wwckZELWQxMVVkWDE3WXFQVQ?oc=5)
-
----
-
-### [Maryland man claims he went blind after taking Ozempic, shares warning for other users - New York Post](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcE1nVDJtRXIzaHc5Z2xrYnFfaTJjcVoxelhYYW90R1NsLUN0ZDhlQjFfM0ZiN3dWcEVDLUdLUUQtMnpISjNqSnlyQVkyUkdldmtnYUFwb2ttQll6VkFLbWV2NkJVcWIwbHFfZmlRcW1qbjFja3k3UU9BYUZFSW9hZTdWQXRSYVVwczRVSEFkdlUxMk1aMXdRZDZ4bnl0dWNDUUZiTjdjMjVtRklEOE91MEdvaU1ndk41czR2Y25fMGE?oc=5)
-
-2026-10-16
-
-Source: [New York Post](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcE1nVDJtRXIzaHc5Z2xrYnFfaTJjcVoxelhYYW90R1NsLUN0ZDhlQjFfM0ZiN3dWcEVDLUdLUUQtMnpISjNqSnlyQVkyUkdldmtnYUFwb2ttQll6VkFLbWV2NkJVcWIwbHFfZmlRcW1qbjFja3k3UU9BYUZFSW9hZTdWQXRSYVVwczRVSEFkdlUxMk1aMXdRZDZ4bnl0dWNDUUZiTjdjMjVtRklEOE91MEdvaU1ndk41czR2Y25fMGE?oc=5)
 
 ---
 
@@ -261,11 +245,27 @@ Source: [PLOS](https://news.google.com/rss/articles/CBMihAFBVV95cUxPMDVkUllwWlNT
 
 ---
 
-### [Mom of 6 Sues Doctors, Hospital After Hysterectomy Allegedly Leads to Paralysis, Quadruple Amputations - Yahoo News Canada](https://news.google.com/rss/articles/CBMid0FVX3lxTFBaR0tqWFgxSXBJUXJYMUVLSnc5c3dpclJyaEFLQXFzaDJkeEUzMWw3N29HWkNYUjd6Nk9VYzJZNkJoUFJmTHNxdE5qTU9xTVNOVWxpN05ES2I1WjZ1Q3E3bUFHMm5HaTU2M2lUMkxfSGtHaEVYb3Fn?oc=5)
+### [‘Who, us? We’re not anti-vaccine,’ parents tell me. ‘Today just doesn’t work for us’](https://news.google.com/rss/articles/CBMieEFVX3lxTE9RdkVhbXlOTlhxVElpMGFUMDZ5Z1hiQWJMaUJrTEVwNFRRcnl3R1gwSHh1ZHdvLW50NHI1Q2paUXUwSTRnMU5xMDluclVFbE4tNHlTLXdzQkZhUERBV0I5UFlhQ2taWTlCeVIzQWM0aC1ndDNsYVJGUQ?oc=5)
 
 2026-10-15
 
-Source: [Yahoo News Canada](https://news.google.com/rss/articles/CBMid0FVX3lxTFBaR0tqWFgxSXBJUXJYMUVLSnc5c3dpclJyaEFLQXFzaDJkeEUzMWw3N29HWkNYUjd6Nk9VYzJZNkJoUFJmTHNxdE5qTU9xTVNOVWxpN05ES2I1WjZ1Q3E3bUFHMm5HaTU2M2lUMkxfSGtHaEVYb3Fn?oc=5)
+Source: [CNN](https://news.google.com/rss/articles/CBMieEFVX3lxTE9RdkVhbXlOTlhxVElpMGFUMDZ5Z1hiQWJMaUJrTEVwNFRRcnl3R1gwSHh1ZHdvLW50NHI1Q2paUXUwSTRnMU5xMDluclVFbE4tNHlTLXdzQkZhUERBV0I5UFlhQ2taWTlCeVIzQWM0aC1ndDNsYVJGUQ?oc=5)
+
+---
+
+### [Man claims he went blind after taking Ozempic, shares warning for other users - Fox News](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZzlEeFBORXpLQ2FWdThvOTljQTJlb3h6LU5ZZ1lSdU5YSUVmeFktV0JURnRvc0s1NVRodTUtZlcxc0tqNGt1VnVxXzlpRmFvNC1zVVlZXzc3cUNOMElGeGxza3RXeUZXbUtwXzNITl9FcjFWOVdjeFROeXFad2pGdkR1cUJMOFNubGYwb1BpNXNJY0JVSUFrYi1MZ2V5YUlLQmfSAacBQVVfeXFMTzRES1Rtb29Ca2NpU1NkUVROVkY4aFhyREpnZzNlLVpwUVN4MHpzc09TaFNOSExmOWdkZ3RRVExydWI3LThlcW13a3dDMTFZSUhCaUdWTGsyRktSVWduSklhM1RkRkVTNkhsQ1JWSlBuMlVsSC1TSE1EUEZkZEhFMDhURVRpTXRhMnFJWjgzek1QRnZCVXhFWEdvSUpYVkRzcGh0V3VUWjQ?oc=5)
+
+2026-10-15
+
+Source: [Fox News](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZzlEeFBORXpLQ2FWdThvOTljQTJlb3h6LU5ZZ1lSdU5YSUVmeFktV0JURnRvc0s1NVRodTUtZlcxc0tqNGt1VnVxXzlpRmFvNC1zVVlZXzc3cUNOMElGeGxza3RXeUZXbUtwXzNITl9FcjFWOVdjeFROeXFad2pGdkR1cUJMOFNubGYwb1BpNXNJY0JVSUFrYi1MZ2V5YUlLQmfSAacBQVVfeXFMTzRES1Rtb29Ca2NpU1NkUVROVkY4aFhyREpnZzNlLVpwUVN4MHpzc09TaFNOSExmOWdkZ3RRVExydWI3LThlcW13a3dDMTFZSUhCaUdWTGsyRktSVWduSklhM1RkRkVTNkhsQ1JWSlBuMlVsSC1TSE1EUEZkZEhFMDhURVRpTXRhMnFJWjgzek1QRnZCVXhFWEdvSUpYVkRzcGh0V3VUWjQ?oc=5)
+
+---
+
+### [An industry is prescribing weight-loss drugs to people with anorexia, devastating lives](https://news.google.com/rss/articles/CBMijwFBVV95cUxOZFhXRXpQdmx6STNtNGNDYXltTXBlTE9ZNTFPejJxYlVtWHZENEo3OHhDNGM0aXhTb3J3VHZaNmxTYVNJVGR6Z3R5aEY1cS1DUmZwRzF4Rko3czh0WWhJWHlMRHptY0NHV1hzd1lzeFJIU2t2MDliZUp4V2RndXF1UjlDLU9OdTMxY3hnZnJ5Zw?oc=5)
+
+2026-10-15
+
+Source: [CNN](https://news.google.com/rss/articles/CBMijwFBVV95cUxOZFhXRXpQdmx6STNtNGNDYXltTXBlTE9ZNTFPejJxYlVtWHZENEo3OHhDNGM0aXhTb3J3VHZaNmxTYVNJVGR6Z3R5aEY1cS1DUmZwRzF4Rko3czh0WWhJWHlMRHptY0NHV1hzd1lzeFJIU2t2MDliZUp4V2RndXF1UjlDLU9OdTMxY3hnZnJ5Zw?oc=5)
 
 ---
 
@@ -277,11 +277,27 @@ Source: [PetaPixel](https://news.google.com/rss/articles/CBMirAFBVV95cUxPOUx0Zmx
 
 ---
 
+### [Cardiologists Share the 7 Foods They Eat for Lower Blood Pressure](https://news.google.com/rss/articles/CBMigAFBVV95cUxQc2hJNVp3VUlIRk53UTlhME0wTnlDWWVRdUNsX3dPelo5dmMwT3dHc3hNdURPM3gzUURYc0EyN3NhQTNQenVfelNtclg2MXZ5WHAyM1Fhdk9GSWpsUE5kb2dleEotcWpxLTBnUzF4M1lwUTJMVmR0a0V6ekxYZGhzZA?oc=5)
+
+2026-10-14
+
+Source: [AOL.com](https://news.google.com/rss/articles/CBMigAFBVV95cUxQc2hJNVp3VUlIRk53UTlhME0wTnlDWWVRdUNsX3dPelo5dmMwT3dHc3hNdURPM3gzUURYc0EyN3NhQTNQenVfelNtclg2MXZ5WHAyM1Fhdk9GSWpsUE5kb2dleEotcWpxLTBnUzF4M1lwUTJMVmR0a0V6ekxYZGhzZA?oc=5)
+
+---
+
 ### [The Menopause Movement: The Utah group asking for government support through this phase - KSL News](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV0NjYlI5d0FfTzlIaG9SZkNNRzFuMklHUUhBVnIyQk11WDhGeDRsc1ZmYUJ0cXV6WmozT1M3bFczQTlzVGprWnBOSU9hZndyR1hXaVAtemFpQ2YySTljTFo1SGNiMnoyQ05oVVRleUJZa0FKR3QxZTg4MzRfeGhjX1ZBYVNrQXZVdGdFdnlRRU9oSElyQUxxaFhtVFpCaDBZRWcxTXZpZFp6U1BXWXR4aUhZaXRzREpob2RNX0c1Ymk?oc=5)
 
 2026-10-12
 
 Source: [KSL News](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV0NjYlI5d0FfTzlIaG9SZkNNRzFuMklHUUhBVnIyQk11WDhGeDRsc1ZmYUJ0cXV6WmozT1M3bFczQTlzVGprWnBOSU9hZndyR1hXaVAtemFpQ2YySTljTFo1SGNiMnoyQ05oVVRleUJZa0FKR3QxZTg4MzRfeGhjX1ZBYVNrQXZVdGdFdnlRRU9oSElyQUxxaFhtVFpCaDBZRWcxTXZpZFp6U1BXWXR4aUhZaXRzREpob2RNX0c1Ymk?oc=5)
+
+---
+
+### [West Coast mom of six loses both legs, hand after doctors ignored her complaints: bombshell lawsuit - New York Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxPSk1BNlJHQ1dRMm5PVmtpWVlxaFZudnZmejRhc3h3TXpqb2Z2WlNfNHBLcVpoWUM0emJmZS1KOTM5emNCNlNwUHNpWV8tMU9YYTVIenBLX2pUSHEtYVVocmtaWXJmRHRRN2wxUzhBc0ZHc2JyM2g4blRUM1BRV3NGSThLMGdCUmYxVXk0Z0x1ZTQ2M1dmNk5KREQwU2I1aXNMdEhsaTdnQ08xdmNPRnc?oc=5)
+
+2026-10-12
+
+Source: [New York Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxPSk1BNlJHQ1dRMm5PVmtpWVlxaFZudnZmejRhc3h3TXpqb2Z2WlNfNHBLcVpoWUM0emJmZS1KOTM5emNCNlNwUHNpWV8tMU9YYTVIenBLX2pUSHEtYVVocmtaWXJmRHRRN2wxUzhBc0ZHc2JyM2g4blRUM1BRV3NGSThLMGdCUmYxVXk0Z0x1ZTQ2M1dmNk5KREQwU2I1aXNMdEhsaTdnQ08xdmNPRnc?oc=5)
 
 ---
 

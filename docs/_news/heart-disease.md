@@ -3,7 +3,7 @@ layout: default
 title: "CAD (heart disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about CAD (heart disease). 3 articles, 1 related drugs."
+description: "Health news about CAD (heart disease). 2 articles, 1 related drugs."
 permalink: /news/heart-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/heart-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about CAD (heart disease)?">
-<strong>CAD (heart disease)</strong> currently has <strong>3 news articles</strong> and 1 related drugs.
+<strong>CAD (heart disease)</strong> currently has <strong>2 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -29,29 +29,21 @@ This page brings together the latest health news about “CAD” and lists the d
 </ul>
 </div>
 
-## Related News (3)
+## Related News (2)
 
-### [Congo’s fast-moving Ebola outbreak spreads to eighth province - NBC News](https://news.google.com/rss/articles/CBMirAFBVV95cUxOdkpoQnRYZFItMGNwNllVdWZUSVN6djNjSkdXa1IxQWpvUHpfSTBCblRqTTBPLXZvOGQwMXkwM1pFZnI2OVZibUs3SXlWNUZSR0lTdG9DVUdKQXZsTzdaTnF0LVdabEprS2x1eUhINjhMa1BfQ0xzUlBRUng0amRCSWVSSGJ1dzBBTldCNTEtbDczUVFiVHV0dUtWcUhaV3FoZEVIRmFyWGpVbXZM?oc=5)
+### [I had a stroke as a healthy 41-year-old – this is why it’s rising in the young - The i Paper](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTUpKNG1aOHFwWHAzdTNhbHdlckhKa3M3dy1XdkVvZ0xveHl1UHFUUmh2d3JiSXI1V3pCd3pVMDh1Snp6dDFpaGFkS21BaVB5T1VjVFl4cnRFTjlpTkNMVDNHU0ZjTVpVcFNveC0wN3V6UHFjb0V6Vm9Ub25PTGQ2UWpmeVBuZmVTYm9v?oc=5)
 
-2026-10-18
+2026-10-19
 
-Source: [NBC News](https://news.google.com/rss/articles/CBMirAFBVV95cUxOdkpoQnRYZFItMGNwNllVdWZUSVN6djNjSkdXa1IxQWpvUHpfSTBCblRqTTBPLXZvOGQwMXkwM1pFZnI2OVZibUs3SXlWNUZSR0lTdG9DVUdKQXZsTzdaTnF0LVdabEprS2x1eUhINjhMa1BfQ0xzUlBRUng0amRCSWVSSGJ1dzBBTldCNTEtbDczUVFiVHV0dUtWcUhaV3FoZEVIRmFyWGpVbXZM?oc=5)
-
----
-
-### [Napping Linked To Dementia Risk In Older Adults](https://news.google.com/rss/articles/CBMilAFBVV95cUxPaHhzTE5vZDc1LS0tUGRMdU5WUXlzbEtBNHdrUXoyYk1wblpCNEJlT0NBVUppeXZUbnlzYVBTT3NxaXVzbFlfZVo4eHRGa1ZjaEJOZDd4MTlLRGNsU1RWZkJManp5WkxENEJtSkNELUdCeE51VEdSRHc1RGJrdlFwY09qQ295NzRoUkZrUjdyWk02NlBs0gGcAUFVX3lxTE15UjRjR2RmWXh0ZlJyVHRLOEZMbnRVeDJlV1ZLcW4zSGd2SUdaeUF2azI4bVFYWXU4NzFEY3BpX1g0em1kN0szRGpoWjZaU0lHaUUtQUVibE5oYW9XTU1hNW9BcGl0eVpWb2FQSVdwMVY3NWhjRENpQ2l2T0djQmhtNFEzZjk4UWQtWThKZnYyLVFjZUhZS3JTd1U4cw?oc=5)
-
-2026-10-18
-
-Source: [iHeart](https://news.google.com/rss/articles/CBMilAFBVV95cUxPaHhzTE5vZDc1LS0tUGRMdU5WUXlzbEtBNHdrUXoyYk1wblpCNEJlT0NBVUppeXZUbnlzYVBTT3NxaXVzbFlfZVo4eHRGa1ZjaEJOZDd4MTlLRGNsU1RWZkJManp5WkxENEJtSkNELUdCeE51VEdSRHc1RGJrdlFwY09qQ295NzRoUkZrUjdyWk02NlBs0gGcAUFVX3lxTE15UjRjR2RmWXh0ZlJyVHRLOEZMbnRVeDJlV1ZLcW4zSGd2SUdaeUF2azI4bVFYWXU4NzFEY3BpX1g0em1kN0szRGpoWjZaU0lHaUUtQUVibE5oYW9XTU1hNW9BcGl0eVpWb2FQSVdwMVY3NWhjRENpQ2l2T0djQmhtNFEzZjk4UWQtWThKZnYyLVFjZUhZS3JTd1U4cw?oc=5)
+Source: [The i Paper](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTUpKNG1aOHFwWHAzdTNhbHdlckhKa3M3dy1XdkVvZ0xveHl1UHFUUmh2d3JiSXI1V3pCd3pVMDh1Snp6dDFpaGFkS21BaVB5T1VjVFl4cnRFTjlpTkNMVDNHU0ZjTVpVcFNveC0wN3V6UHFjb0V6Vm9Ub25PTGQ2UWpmeVBuZmVTYm9v?oc=5)
 
 ---
 
-### [Hot flashes, night sweats, insomnia – OB-GYNS set new rules for menopause treatment](https://news.google.com/rss/articles/CBMipgFBVV95cUxPbTdoUFZ4R1oyM1hUdWdlRkhJTWZhZHVoaVg1ZWR1Q2RBQ3JOeWtGRlNXRm15VTNDVnY2MzNoRTNuN3dMZUVlcS0wUjFMeGtlWEg4YWRpSndGMmhhbmNSVTZFZEVGUkFPd3V3eWxJa0xocGt3Yk5xTy15NEgzVTk5ZFFldnMwTUJ3VFJjZllpMktrRHRldUNYcTAzQThocXhPOGNtZTFn?oc=5)
+### [Ovaries Develop an Intriguing Second Role After Menopause](https://news.google.com/rss/articles/CBMijwFBVV95cUxPRVZocG1WaWtTQUxiNnVtTVZwZmlwdWJZLXRKWGhrY1RSNERHM19SUW5NVjVsVDlWSGU1aVAzbVlzZjFJbF9fR2luQ2RZSkJXcFhQRi1EQm1IS1Mwenh3NnZ4bEFLbFRfVlctVFdJZ2V0d1ZxdHJoWDQxbE15dUFzOG8xdlFVMkU5RHUtemJucw?oc=5)
 
-2026-10-16
+2026-10-14
 
-Source: [NPR](https://news.google.com/rss/articles/CBMipgFBVV95cUxPbTdoUFZ4R1oyM1hUdWdlRkhJTWZhZHVoaVg1ZWR1Q2RBQ3JOeWtGRlNXRm15VTNDVnY2MzNoRTNuN3dMZUVlcS0wUjFMeGtlWEg4YWRpSndGMmhhbmNSVTZFZEVGUkFPd3V3eWxJa0xocGt3Yk5xTy15NEgzVTk5ZFFldnMwTUJ3VFJjZllpMktrRHRldUNYcTAzQThocXhPOGNtZTFn?oc=5)
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMijwFBVV95cUxPRVZocG1WaWtTQUxiNnVtTVZwZmlwdWJZLXRKWGhrY1RSNERHM19SUW5NVjVsVDlWSGU1aVAzbVlzZjFJbF9fR2luQ2RZSkJXcFhQRi1EQm1IS1Mwenh3NnZ4bEFLbFRfVlctVFdJZ2V0d1ZxdHJoWDQxbE15dUFzOG8xdlFVMkU5RHUtemJucw?oc=5)
 
 ---
 

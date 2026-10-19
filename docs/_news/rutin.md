@@ -41,19 +41,43 @@ This page combines the AI-predicted indications for Rutin with the latest health
 
 ## Related News (7)
 
-### [Scientists discover a way to reverse coral bleaching at record speed](https://news.google.com/rss/articles/CBMia0FVX3lxTFBOSHlwQTE3aDFUMUZyQmpzLTA1R0FkbXk5WHpSakxKeWp1REVDS0EyWXA5dU9LcGpSRl85cEFqdmJVV25WU3JxamwtRnpDRUp5SVRsdkwxZm9SN09PVkVBbHctRjFBQ1JQdndj?oc=5)
+### [Dana-Farber, Beth Israel begin construction of new $1.68 billion cancer hospital - The Boston Globe](https://news.google.com/rss/articles/CBMiggFBVV95cUxQZjhiOFlFX1NhcVlGaWtuVGdiRW51U05DeEVkNzV5V3dOZnpXTUJkUXYwLW1td1dZdjJZSktzVFFHTmR4OGZOeTk4a2pBZ2hYVDJMSmVpS0J4dlNjN096VldYQU5ZNzFoSHJ0S2IyZnF1MFhIY2h0SDFLWlNHdXJBN3Fn?oc=5)
 
-2026-10-18 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-10-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
-Source: [Phys.org](https://news.google.com/rss/articles/CBMia0FVX3lxTFBOSHlwQTE3aDFUMUZyQmpzLTA1R0FkbXk5WHpSakxKeWp1REVDS0EyWXA5dU9LcGpSRl85cEFqdmJVV25WU3JxamwtRnpDRUp5SVRsdkwxZm9SN09PVkVBbHctRjFBQ1JQdndj?oc=5)
+Source: [The Boston Globe](https://news.google.com/rss/articles/CBMiggFBVV95cUxQZjhiOFlFX1NhcVlGaWtuVGdiRW51U05DeEVkNzV5V3dOZnpXTUJkUXYwLW1td1dZdjJZSktzVFFHTmR4OGZOeTk4a2pBZ2hYVDJMSmVpS0J4dlNjN096VldYQU5ZNzFoSHJ0S2IyZnF1MFhIY2h0SDFLWlNHdXJBN3Fn?oc=5)
 
 ---
 
-### [High-fiber diet vs metformin: Which is better for blood sugar control, weight loss? - Medical News Today](https://news.google.com/rss/articles/CBMipAFBVV95cUxOb19sMEtNNVhaX1hwLWVPQnNzZE9yNlpzbHp6T2R5dXVrRTRmVUN1Tk9ZVFBKazNCaTFBWDBpNUZsWTBBOGN1NEZ1aXdNNVNjSklnNkVQWHVreXpkaWs3UkJKOHBrVjlfN0oxXzNuejFIOEFfMWd3amIwU0VTWXZ2NFpBZW9TRi1yU2IzTjV1c1BpVFlGaXRrcWtUZ2pzN1VmYU9RUQ?oc=5)
+### [ADHD Drugs May Reduce The Risk of Early Death, Major Study Finds](https://news.google.com/rss/articles/CBMilwFBVV95cUxNaGNoMnBaZmZzcm9EQl9uMG1fWGFQd0NacDEwNm5BblhuMEJ0YVBPcFQwTGNSdm9xWnF6VkNEUGFUcGFmX0ZocTRrZXZ2UEluOFIzUDJvTS1NOGRhQWszVkowNklvMmNOa3F4cnNSMWVnbHRyU1RmQW1HbGdpTlM4bXE0MDV6RDdaOTlBTHpmbWcxbmdNN2pB?oc=5)
 
-2026-10-18 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+2026-10-19 <span class="news-indication-tag">UC</span>
 
-Source: [Medical News Today](https://news.google.com/rss/articles/CBMipAFBVV95cUxOb19sMEtNNVhaX1hwLWVPQnNzZE9yNlpzbHp6T2R5dXVrRTRmVUN1Tk9ZVFBKazNCaTFBWDBpNUZsWTBBOGN1NEZ1aXdNNVNjSklnNkVQWHVreXpkaWs3UkJKOHBrVjlfN0oxXzNuejFIOEFfMWd3amIwU0VTWXZ2NFpBZW9TRi1yU2IzTjV1c1BpVFlGaXRrcWtUZ2pzN1VmYU9RUQ?oc=5)
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMilwFBVV95cUxNaGNoMnBaZmZzcm9EQl9uMG1fWGFQd0NacDEwNm5BblhuMEJ0YVBPcFQwTGNSdm9xWnF6VkNEUGFUcGFmX0ZocTRrZXZ2UEluOFIzUDJvTS1NOGRhQWszVkowNklvMmNOa3F4cnNSMWVnbHRyU1RmQW1HbGdpTlM4bXE0MDV6RDdaOTlBTHpmbWcxbmdNN2pB?oc=5)
+
+---
+
+### [Scientists Just Revived Pig Kidneys Frozen for a Year. It Could Rewrite the Future of Organ Transplants](https://news.google.com/rss/articles/CBMizgFBVV95cUxQTEVrdzVaS0FzYU4zSEhuVVdGbjJlVC1vT1lodVFuVGc4cXF6akRUalhFQzE1MVg5S1FPaWVvNFBKTnRuRHVkRHF4SUVsc2JxbmRYNjJWNFZQQXNxRHVoZzM1UEdzeXc1cnVhSFZvTHBqcFdRUG1pSjZQLUo1Q0JSemxubjdYc1RDZWtLclE4Uk5tX1ZiVmFNUVFiVGxPV3YyTHNKNll0bDJOZDFfWUpfcDlQQ1FOandObk5sM0ZTZjBpeDBZTHVxWTBqanhVdw?oc=5)
+
+2026-10-19 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [Gizmodo](https://news.google.com/rss/articles/CBMizgFBVV95cUxQTEVrdzVaS0FzYU4zSEhuVVdGbjJlVC1vT1lodVFuVGc4cXF6akRUalhFQzE1MVg5S1FPaWVvNFBKTnRuRHVkRHF4SUVsc2JxbmRYNjJWNFZQQXNxRHVoZzM1UEdzeXc1cnVhSFZvTHBqcFdRUG1pSjZQLUo1Q0JSemxubjdYc1RDZWtLclE4Uk5tX1ZiVmFNUVFiVGxPV3YyTHNKNll0bDJOZDFfWUpfcDlQQ1FOandObk5sM0ZTZjBpeDBZTHVxWTBqanhVdw?oc=5)
+
+---
+
+### [Researchers put bleached corals and healthy corals together for 5 days – and were astounded at what they saw - BBC Wildlife Magazine](https://news.google.com/rss/articles/CBMijgFBVV95cUxQOFFLYXJEeENXekdDWDhBczFkeHc2ZU8tUmV6VEw3cmFFUVF0MTVRTXJDc2t4NXgwNE9SYVIxbld6S1dGSWlxZFFQMk80cnphVlA1TnFzc19EYUNkXy00ZUFJSE9PcGlxd2tMcTFLODFfTl9XZ0lxN29CUDFrRTlqaGZkdk02RDNNMDJrQWFB?oc=5)
+
+2026-10-19 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [BBC Wildlife Magazine](https://news.google.com/rss/articles/CBMijgFBVV95cUxQOFFLYXJEeENXekdDWDhBczFkeHc2ZU8tUmV6VEw3cmFFUVF0MTVRTXJDc2t4NXgwNE9SYVIxbld6S1dGSWlxZFFQMk80cnphVlA1TnFzc19EYUNkXy00ZUFJSE9PcGlxd2tMcTFLODFfTl9XZ0lxN29CUDFrRTlqaGZkdk02RDNNMDJrQWFB?oc=5)
+
+---
+
+### [Breathwork Really Can Induce an Altered State of Consciousness, Experiment Shows](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZllaMXJkdXNBNnVXMHVXcmVrRlRVM2FnbUVRZ3NzalVUbGp1R0FkM080akRkc0FScUliY0ViUl9OX1hJUzE2VklGaW1VYUNmZ2NSY3ZFX0VkejYySDlTeDdPWFNVb3hPdy1xNUlaVy12MXMwaFhCTUhzZVNiaFFhckN0SXNzWV9SUmJrMnVvWFIyVE1JcnBudUlfOGJQWkJ3Z3U5c05LOXE3QTMt?oc=5)
+
+2026-10-18 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZllaMXJkdXNBNnVXMHVXcmVrRlRVM2FnbUVRZ3NzalVUbGp1R0FkM080akRkc0FScUliY0ViUl9OX1hJUzE2VklGaW1VYUNmZ2NSY3ZFX0VkejYySDlTeDdPWFNVb3hPdy1xNUlaVy12MXMwaFhCTUhzZVNiaFFhckN0SXNzWV9SUmJrMnVvWFIyVE1JcnBudUlfOGJQWkJ3Z3U5c05LOXE3QTMt?oc=5)
 
 ---
 
@@ -65,35 +89,11 @@ Source: [WTOP News](https://news.google.com/rss/articles/CBMivwFBVV95cUxOMHVnbFV
 
 ---
 
-### [Honeybees are barging aside wild pollinators in hunt for pollen and nectar, study finds - The Guardian](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRnVfci05V0pQUURsVkkwYjQyYm1tM2NHTHE4THF1M1dSX05TZ19yMFNFTThXSW90TzUwUlZhLTM3Z1ZQOTlHTXk3RlhHR0l5LWtlNzMtR1FOMERRaXh1WTlmUERWWkRsSkc2SmhWaTg0bGRKR3IxaEt1QzU0b281QUdEY1ZkOUdDbmdka2czTGtqVkxodFVfcUpvZmpzUGl2Smt3a3JMRUU2MkF4aC0yZm5aRDNsWF9INmh1aVpfRDAwTFdiUGpGVjVTejd6RHRuVnJ5VQ?oc=5)
+### [De novo design of cysteine proteases](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KVmxUTDlXQzE4cTFBcmtyUXc4aVlOdUZJZ21YTTBIRS01eHhMeTJSQmx4cF83cFk5ZWtXQmxRaWdKSnZNUTQtYWxhNXB5V2JYZ2pGMkZ3bzB0V1ZLZ1Ew?oc=5)
 
-2026-10-17 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-10-14 <span class="news-indication-tag">UC</span>
 
-Source: [The Guardian](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRnVfci05V0pQUURsVkkwYjQyYm1tM2NHTHE4THF1M1dSX05TZ19yMFNFTThXSW90TzUwUlZhLTM3Z1ZQOTlHTXk3RlhHR0l5LWtlNzMtR1FOMERRaXh1WTlmUERWWkRsSkc2SmhWaTg0bGRKR3IxaEt1QzU0b281QUdEY1ZkOUdDbmdka2czTGtqVkxodFVfcUpvZmpzUGl2Smt3a3JMRUU2MkF4aC0yZm5aRDNsWF9INmh1aVpfRDAwTFdiUGpGVjVTejd6RHRuVnJ5VQ?oc=5)
-
----
-
-### [NEWSLETTER: Glucose monitoring devices for type 2 diabetes benefit even those not on insulin](https://news.google.com/rss/articles/CBMi3gFBVV95cUxORlYtUXplRUljQnQ2MUNmXzV3c3ZLb0NxSjNWc2IzTE5fbjBNY3NxVzNXTjhJLU5VeEtsX0FLU3ZIUjBPaHdtYm9vVzhBUnJBVjllYmJQS09LZ3lvNEdEN1NGMUhYdDdHWG1lUDBuRUlGamNxZE9kMEFwak8wX3RydEtxRlNCWklYdGdiM1o0Y2JObzlBTklxUnNxS0VGWXUwdzVjb05kbVNnQ1poSDVNNlUxcnd2NHBvM203cXh1TFdhSnVXd0tKbnd4U3lmVl9XaGc1UUZpTjJzcl9mV0E?oc=5)
-
-2026-10-16 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [Reuters](https://news.google.com/rss/articles/CBMi3gFBVV95cUxORlYtUXplRUljQnQ2MUNmXzV3c3ZLb0NxSjNWc2IzTE5fbjBNY3NxVzNXTjhJLU5VeEtsX0FLU3ZIUjBPaHdtYm9vVzhBUnJBVjllYmJQS09LZ3lvNEdEN1NGMUhYdDdHWG1lUDBuRUlGamNxZE9kMEFwak8wX3RydEtxRlNCWklYdGdiM1o0Y2JObzlBTklxUnNxS0VGWXUwdzVjb05kbVNnQ1poSDVNNlUxcnd2NHBvM203cXh1TFdhSnVXd0tKbnd4U3lmVl9XaGc1UUZpTjJzcl9mV0E?oc=5)
-
----
-
-### [I'm 12 and I want to try protein powder - should I?](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiY0V4MG9DNzJoZkJ0b2VvdUZNSGI4UE53dVZjR3pSMnRROHdBaUxuZTJKS19xN1RYWTR4dU9fN3RnUnFSRHk4YUtkUUVQeWUwQjF4RlpWRWwzSHM?oc=5)
-
-2026-10-15 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiY0V4MG9DNzJoZkJ0b2VvdUZNSGI4UE53dVZjR3pSMnRROHdBaUxuZTJKS19xN1RYWTR4dU9fN3RnUnFSRHk4YUtkUUVQeWUwQjF4RlpWRWwzSHM?oc=5)
-
----
-
-### [Helen Branswell, whose reporting on infectious diseases and public health drew acclaim, dies at 69](https://news.google.com/rss/articles/CBMigAFBVV95cUxNeGsyWE9sWU5pMEpBM3gxdjhpTkZsZUl5TUN4cGhBdFVHeDhMRWx1S1Q5c2FYbW9pdmlhdnRqVXREMnVBSjU4M3RCMnpVV0VCTGI1NnVTYjVjWTVpalpQOVU1V2UzWWoySDcySUllM1FPRG1mLVluWERHWWZHMnp4Sw?oc=5)
-
-2026-10-13 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">flu</span> <span class="news-indication-tag">UC</span>
-
-Source: [STAT](https://news.google.com/rss/articles/CBMigAFBVV95cUxNeGsyWE9sWU5pMEpBM3gxdjhpTkZsZUl5TUN4cGhBdFVHeDhMRWx1S1Q5c2FYbW9pdmlhdnRqVXREMnVBSjU4M3RCMnpVV0VCTGI1NnVTYjVjWTVpalpQOVU1V2UzWWoySDcySUllM1FPRG1mLVluWERHWWZHMnp4Sw?oc=5)
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KVmxUTDlXQzE4cTFBcmtyUXc4aVlOdUZJZ21YTTBIRS01eHhMeTJSQmx4cF83cFk5ZWtXQmxRaWdKSnZNUTQtYWxhNXB5V2JYZ2pGMkZ3bzB0V1ZLZ1Ew?oc=5)
 
 ---
 

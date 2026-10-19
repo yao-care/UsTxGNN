@@ -32,11 +32,11 @@ This page brings together the latest health news about “flu” and lists the d
 
 ## Related News (3)
 
-### [CDC: Deadly Brain Fungus in Healthy Americans Is Rising](https://news.google.com/rss/articles/CBMimwFBVV95cUxPMTdiV2xUYWFJbEZRRldtRS1yVzhBdzlpeGR6bTNVRnlCNjQ0R0VmelR3WUtiUVU0bGxVdTRUOHNETWI3QVFnaUtFcTRRVlRtQUlLMXd1TEo1ZFZqYVBBclBoTkw1QWNPeDd4Wl9Gamw5VlhCeGpzVzh5QUJBTWFtbk9WVmc4M2tvTkMyakZfYURtX1dVNUNUcDQzMA?oc=5)
+### [Early flu season lands in WA as COVID numbers also rise - The Seattle Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQWZTMEc3M2F3Nm4taFZJTkJuU24wX1VWTHg5em9nQWJtSllSMjQyUEp4WXEzMDA3RFpxVnMxZ0lCcWQwcTVQVy0yejluN3A3dUExVHBockNzQ1BrUTlHSDlzSUVIWExrbmc4alJVMUNJY0pnaEh3VHhkbnVfWUVpLXJRWWpEbnZYcVU2MXVJU3VVRmFVd1dQaHMyY1ZLV18tX29nN3daTC0?oc=5)
 
-2026-10-17
+2026-10-19
 
-Source: [Newser](https://news.google.com/rss/articles/CBMimwFBVV95cUxPMTdiV2xUYWFJbEZRRldtRS1yVzhBdzlpeGR6bTNVRnlCNjQ0R0VmelR3WUtiUVU0bGxVdTRUOHNETWI3QVFnaUtFcTRRVlRtQUlLMXd1TEo1ZFZqYVBBclBoTkw1QWNPeDd4Wl9Gamw5VlhCeGpzVzh5QUJBTWFtbk9WVmc4M2tvTkMyakZfYURtX1dVNUNUcDQzMA?oc=5)
+Source: [The Seattle Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQWZTMEc3M2F3Nm4taFZJTkJuU24wX1VWTHg5em9nQWJtSllSMjQyUEp4WXEzMDA3RFpxVnMxZ0lCcWQwcTVQVy0yejluN3A3dUExVHBockNzQ1BrUTlHSDlzSUVIWExrbmc4alJVMUNJY0pnaEh3VHhkbnVfWUVpLXJRWWpEbnZYcVU2MXVJU3VVRmFVd1dQaHMyY1ZLV18tX29nN3daTC0?oc=5)
 
 ---
 
@@ -48,11 +48,11 @@ Source: [KING5.com](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZkdneS0
 
 ---
 
-### [Helen Branswell, whose reporting on infectious diseases and public health drew acclaim, dies at 69](https://news.google.com/rss/articles/CBMigAFBVV95cUxNeGsyWE9sWU5pMEpBM3gxdjhpTkZsZUl5TUN4cGhBdFVHeDhMRWx1S1Q5c2FYbW9pdmlhdnRqVXREMnVBSjU4M3RCMnpVV0VCTGI1NnVTYjVjWTVpalpQOVU1V2UzWWoySDcySUllM1FPRG1mLVluWERHWWZHMnp4Sw?oc=5)
+### [Jackie the Big Bear bald eagle’s cause of death revealed in necropsy](https://news.google.com/rss/articles/CBMigwFBVV95cUxNLXB0YzhUUzJRNTdhcnJYT2lyc280cTFxVnB0UnFEd3Z3STJobzRvNE5NOGtLZGNuTGdJcEJKQkFRUmJ1RE1vV3Vwclc4ZlIwNjlDMzhFU2xSRlY1ZHRaaVdxTmtzX2pWUENlb1dlM3Y5SHFxUTEyUkVEVW8yaHRvSXRVTdIBiAFBVV95cUxNTmxxTkFqT3lrX3hzVS1Cc180b0JjVVZjV1NkbktoOFhrcjlZSFk3UEdtamVzRHlVZTdPaV9ycVNXQmg3SFFILUl5VWhQQmdiZE5GRS1TZ3ZMQVZUdHVyZVFTRXFjVXZNNUx2NFV1Z2tYUGs3b2N4RmtUYmtLbHVXZ1d0WFVMa2sy?oc=5)
 
-2026-10-13
+2026-10-15
 
-Source: [STAT](https://news.google.com/rss/articles/CBMigAFBVV95cUxNeGsyWE9sWU5pMEpBM3gxdjhpTkZsZUl5TUN4cGhBdFVHeDhMRWx1S1Q5c2FYbW9pdmlhdnRqVXREMnVBSjU4M3RCMnpVV0VCTGI1NnVTYjVjWTVpalpQOVU1V2UzWWoySDcySUllM1FPRG1mLVluWERHWWZHMnp4Sw?oc=5)
+Source: [KTLA](https://news.google.com/rss/articles/CBMigwFBVV95cUxNLXB0YzhUUzJRNTdhcnJYT2lyc280cTFxVnB0UnFEd3Z3STJobzRvNE5NOGtLZGNuTGdJcEJKQkFRUmJ1RE1vV3Vwclc4ZlIwNjlDMzhFU2xSRlY1ZHRaaVdxTmtzX2pWUENlb1dlM3Y5SHFxUTEyUkVEVW8yaHRvSXRVTdIBiAFBVV95cUxNTmxxTkFqT3lrX3hzVS1Cc180b0JjVVZjV1NkbktoOFhrcjlZSFk3UEdtamVzRHlVZTdPaV9ycVNXQmg3SFFILUl5VWhQQmdiZE5GRS1TZ3ZMQVZUdHVyZVFTRXFjVXZNNUx2NFV1Z2tYUGs3b2N4RmtUYmtLbHVXZ1d0WFVMa2sy?oc=5)
 
 ---
 

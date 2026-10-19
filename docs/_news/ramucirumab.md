@@ -14,7 +14,7 @@ permalink: /news/ramucirumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Ramucirumab?">
-<strong>Ramucirumab</strong> currently has <strong>5 news articles</strong>, with 10 predicted indications.
+<strong>Ramucirumab</strong> currently has <strong>6 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (6)
+
+### [Dana-Farber, Beth Israel begin construction of new $1.68 billion cancer hospital - The Boston Globe](https://news.google.com/rss/articles/CBMiggFBVV95cUxQZjhiOFlFX1NhcVlGaWtuVGdiRW51U05DeEVkNzV5V3dOZnpXTUJkUXYwLW1td1dZdjJZSktzVFFHTmR4OGZOeTk4a2pBZ2hYVDJMSmVpS0J4dlNjN096VldYQU5ZNzFoSHJ0S2IyZnF1MFhIY2h0SDFLWlNHdXJBN3Fn?oc=5)
+
+2026-10-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [The Boston Globe](https://news.google.com/rss/articles/CBMiggFBVV95cUxQZjhiOFlFX1NhcVlGaWtuVGdiRW51U05DeEVkNzV5V3dOZnpXTUJkUXYwLW1td1dZdjJZSktzVFFHTmR4OGZOeTk4a2pBZ2hYVDJMSmVpS0J4dlNjN096VldYQU5ZNzFoSHJ0S2IyZnF1MFhIY2h0SDFLWlNHdXJBN3Fn?oc=5)
+
+---
 
 ### [Nearly 1 in 8 cancers worldwide are caused by infections. Many could be prevented - ZME Science](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdjZyVVdKQVpmdndMd0hsbnJ5eHVPZmoyNFNrcWZ2Z1A4YlBpdGk4d2RBY0IxdTd1RzRwdEhfeXJSX1VxVEl2Si1zNWVLLXRfQnFvRURtVng3eVNzVlZQY2I5MTR5VlRQUTJ0N3NLUlNtSjFhUWd6M3EyUWxRVWo4WUxPVGo5UGZ2MUJsbXBDT1MtZlE?oc=5)
 
@@ -59,19 +67,19 @@ Source: [Yahoo](https://news.google.com/rss/articles/CBMijwFBVV95cUxOandJaWFoaEM
 
 ---
 
+### [Mom, 31, Recalls ‘Unbearable’ Colon Cancer Symptom That Doctor Dismissed in Pregnancy](https://news.google.com/rss/articles/CBMijgFBVV95cUxPRGdLTWxpOExhY0E0bFhHei1iajNMX3QyMWRnZlAyR0loNU1kSXFkeE1ZMzhBQzdDLVpWSnIwNS14Rl90aUF4d2s0M2xYdnU1aWFkZ2dVX3hRVVllWGZUWFN5STl5UzRnV0Jtc3NfcnAyOTUxYk9rQ2hCMmZiQUtrWjJYYXplZFFOSzZPUENB?oc=5)
+
+2026-10-16 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+
+Source: [TODAY.com](https://news.google.com/rss/articles/CBMijgFBVV95cUxPRGdLTWxpOExhY0E0bFhHei1iajNMX3QyMWRnZlAyR0loNU1kSXFkeE1ZMzhBQzdDLVpWSnIwNS14Rl90aUF4d2s0M2xYdnU1aWFkZ2dVX3hRVVllWGZUWFN5STl5UzRnV0Jtc3NfcnAyOTUxYk9rQ2hCMmZiQUtrWjJYYXplZFFOSzZPUENB?oc=5)
+
+---
+
 ### [Large study finds no link between ultra-processed food and colorectal cancer - NBC News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUm5MenREWXJHdGtsRFVUN0RRb1J2dFFCalNYeTRRNEhCTkc3SzBxLTlxbG9OdXI5NjFpV1MwdGlfZkM4RU01ZC1fblJKV2tQTlg1ejJSa3JzWUhzZW8yR2luZ2Y4QlVDejBuNmMwTGRlWk1fbTFiS05ENVNiVEI0akVfWjRlVXl1dDZIYWNZam43VzYzN0ctQnlMX0VmYm5odHlXaGhpUldFQQ?oc=5)
 
 2026-10-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
 Source: [NBC News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUm5MenREWXJHdGtsRFVUN0RRb1J2dFFCalNYeTRRNEhCTkc3SzBxLTlxbG9OdXI5NjFpV1MwdGlfZkM4RU01ZC1fblJKV2tQTlg1ejJSa3JzWUhzZW8yR2luZ2Y4QlVDejBuNmMwTGRlWk1fbTFiS05ENVNiVEI0akVfWjRlVXl1dDZIYWNZam43VzYzN0ctQnlMX0VmYm5odHlXaGhpUldFQQ?oc=5)
-
----
-
-### [Why So Many People Still Are Not Screened for Lung Cancer - The New York Times](https://news.google.com/rss/articles/CBMie0FVX3lxTE5YMzFhangxQ0pJY2h3QTFCc21jYVZZOGpyOUtvZWQ4Y3lSUmJ0V0xiS3A4UF81RTU0amJXUVNLMVBxcXd6cng4TTYyY3JaQUVjZUtEdU1vQks4cVFXenN4dlVMUmpZel82aVdtb3F4bXhkSWp6SGlYeUwzNA?oc=5)
-
-2026-10-14 <span class="news-indication-tag">cancer</span>
-
-Source: [The New York Times](https://news.google.com/rss/articles/CBMie0FVX3lxTE5YMzFhangxQ0pJY2h3QTFCc21jYVZZOGpyOUtvZWQ4Y3lSUmJ0V0xiS3A4UF81RTU0amJXUVNLMVBxcXd6cng4TTYyY3JaQUVjZUtEdU1vQks4cVFXenN4dlVMUmpZel82aVdtb3F4bXhkSWp6SGlYeUwzNA?oc=5)
 
 ---
 

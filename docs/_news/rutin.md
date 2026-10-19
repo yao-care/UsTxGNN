@@ -14,7 +14,7 @@ permalink: /news/rutin/
 ---
 
 <p class="key-answer" data-question="What news is there about Rutin?">
-<strong>Rutin</strong> currently has <strong>8 news articles</strong>, with 8 predicted indications.
+<strong>Rutin</strong> currently has <strong>10 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,23 @@ This page combines the AI-predicted indications for Rutin with the latest health
 <p><a href="{{ '/drugs/rutin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (8)
+## Related News (10)
+
+### [Scientists discover a way to reverse coral bleaching at record speed](https://news.google.com/rss/articles/CBMia0FVX3lxTFBOSHlwQTE3aDFUMUZyQmpzLTA1R0FkbXk5WHpSakxKeWp1REVDS0EyWXA5dU9LcGpSRl85cEFqdmJVV25WU3JxamwtRnpDRUp5SVRsdkwxZm9SN09PVkVBbHctRjFBQ1JQdndj?oc=5)
+
+2026-10-18 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [Phys.org](https://news.google.com/rss/articles/CBMia0FVX3lxTFBOSHlwQTE3aDFUMUZyQmpzLTA1R0FkbXk5WHpSakxKeWp1REVDS0EyWXA5dU9LcGpSRl85cEFqdmJVV25WU3JxamwtRnpDRUp5SVRsdkwxZm9SN09PVkVBbHctRjFBQ1JQdndj?oc=5)
+
+---
+
+### [High-fiber diet vs metformin: Which is better for blood sugar control, weight loss? - Medical News Today](https://news.google.com/rss/articles/CBMipAFBVV95cUxOb19sMEtNNVhaX1hwLWVPQnNzZE9yNlpzbHp6T2R5dXVrRTRmVUN1Tk9ZVFBKazNCaTFBWDBpNUZsWTBBOGN1NEZ1aXdNNVNjSklnNkVQWHVreXpkaWs3UkJKOHBrVjlfN0oxXzNuejFIOEFfMWd3amIwU0VTWXZ2NFpBZW9TRi1yU2IzTjV1c1BpVFlGaXRrcWtUZ2pzN1VmYU9RUQ?oc=5)
+
+2026-10-18 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+
+Source: [Medical News Today](https://news.google.com/rss/articles/CBMipAFBVV95cUxOb19sMEtNNVhaX1hwLWVPQnNzZE9yNlpzbHp6T2R5dXVrRTRmVUN1Tk9ZVFBKazNCaTFBWDBpNUZsWTBBOGN1NEZ1aXdNNVNjSklnNkVQWHVreXpkaWs3UkJKOHBrVjlfN0oxXzNuejFIOEFfMWd3amIwU0VTWXZ2NFpBZW9TRi1yU2IzTjV1c1BpVFlGaXRrcWtUZ2pzN1VmYU9RUQ?oc=5)
+
+---
 
 ### [Do you know this feline? ‘Sociable’ cat tests positive for rabies in Prince William County - WTOP News](https://news.google.com/rss/articles/CBMivwFBVV95cUxOMHVnbFVJSUFfb2N4VmdINTNUTzQ5M0lIRVYxRmRpVExKUTZ0YWpDMFhoRHJBVnkyV0k3R091VFJpS1JDLUwzVHNGczdpUHN5TXBPTXg2TE5oZjRnZC1TM1hUdDFiLW8ycUcySzhGcnZCZk1keGxycHZ3bjlGalJOSjJFcTdTNHliY2dSSWRkYml2Q012cmpLTkZWLVhjcVRMWmFxVXZHSUJWSEU2UnVPMUJqMHMtYk9pQ3hiTm5VUQ?oc=5)
 
@@ -65,14 +81,6 @@ Source: [The New York Times](https://news.google.com/rss/articles/CBMidkFVX3lxTE
 
 ---
 
-### [5 Mediterranean-Diet Foods That Help Lower Inflammation](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT1Q2Z2I0b0Q4eGRyWGkzT3lRc0d5WmhIMUJ6LU00NkxkbGZPblRqMjBPMEtIMHhpcEwtVFk5WVMzVE1OUk5uc19YemE1RVVDY0I0bDlxVnVkU1JNcThEcGlQTVpZeVRQUGZ5SGhWQ0tRVlozZFliOUxxYjY3aFBCZzZyMGsydS03TW84?oc=5)
-
-2026-10-17 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [EatingWell](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT1Q2Z2I0b0Q4eGRyWGkzT3lRc0d5WmhIMUJ6LU00NkxkbGZPblRqMjBPMEtIMHhpcEwtVFk5WVMzVE1OUk5uc19YemE1RVVDY0I0bDlxVnVkU1JNcThEcGlQTVpZeVRQUGZ5SGhWQ0tRVlozZFliOUxxYjY3aFBCZzZyMGsydS03TW84?oc=5)
-
----
-
 ### [Alcohol Doesn't Just Affect Neurons – It Triggers Immune Cells to Destroy The Brain's Structural Matrix, Mouse Study Shows](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUXVJU29SN3ZxdTM3eHRlUFB3NW9aM3d6SjR6X2dxRXVOXzM0SGFUQXZZdG1rdzhScTJ2U0R4MHZ5UHEzWkxfdFlHbktPenowRFliZjlWNzM4Q3J2S001a1ZyNldUS3Q5WklDa215NTVpZ2tmTUt4V1ZCSHpDRjhLMnFPSTFHM0JNTkhKSTJxOWNTaDM0YkREc3YtcUlzekV2LTRYcTRIcE9xUkJ6dHBiSW1ZOXU0UVBhTFVveUxYUDVzdnF2YjZoRzhCOFcxa1B6eWlJblE2T1ozekV1Mm9j?oc=5)
 
 2026-10-17 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
@@ -83,7 +91,7 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUXVJ
 
 ### [The One Thing You Can Get at the Pharmacy That May Lower Your Alzheimer’s Risk Isn’t What You Think](https://news.google.com/rss/articles/CBMifEFVX3lxTE16a2N1QXRSbG10NzlMVWdXM192VWQxSkpxVFZDQjF3RFVOcEZaeXE0VWZCZkdjUTlHc25sVDVickI2ckFXMWN4NHhtODJab3Bod2JfOWtiSklKaTN5RE9yUFJNZTBNdTk2UVN1VXhVTUszQWhTeEY4c3g5MVA?oc=5)
 
-2026-10-17 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">flu</span> <span class="news-indication-tag">UC</span>
+2026-10-17 <span class="news-indication-tag">flu</span> <span class="news-indication-tag">UC</span>
 
 Source: [AOL.com](https://news.google.com/rss/articles/CBMifEFVX3lxTE16a2N1QXRSbG10NzlMVWdXM192VWQxSkpxVFZDQjF3RFVOcEZaeXE0VWZCZkdjUTlHc25sVDVickI2ckFXMWN4NHhtODJab3Bod2JfOWtiSklKaTN5RE9yUFJNZTBNdTk2UVN1VXhVTUszQWhTeEY4c3g5MVA?oc=5)
 
@@ -102,6 +110,14 @@ Source: [Futurism](https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZbzV6TDYt
 2026-10-16 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [Reuters](https://news.google.com/rss/articles/CBMi3gFBVV95cUxORlYtUXplRUljQnQ2MUNmXzV3c3ZLb0NxSjNWc2IzTE5fbjBNY3NxVzNXTjhJLU5VeEtsX0FLU3ZIUjBPaHdtYm9vVzhBUnJBVjllYmJQS09LZ3lvNEdEN1NGMUhYdDdHWG1lUDBuRUlGamNxZE9kMEFwak8wX3RydEtxRlNCWklYdGdiM1o0Y2JObzlBTklxUnNxS0VGWXUwdzVjb05kbVNnQ1poSDVNNlUxcnd2NHBvM203cXh1TFdhSnVXd0tKbnd4U3lmVl9XaGc1UUZpTjJzcl9mV0E?oc=5)
+
+---
+
+### [I'm 12 and I want to try protein powder - should I?](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiY0V4MG9DNzJoZkJ0b2VvdUZNSGI4UE53dVZjR3pSMnRROHdBaUxuZTJKS19xN1RYWTR4dU9fN3RnUnFSRHk4YUtkUUVQeWUwQjF4RlpWRWwzSHM?oc=5)
+
+2026-10-15 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiY0V4MG9DNzJoZkJ0b2VvdUZNSGI4UE53dVZjR3pSMnRROHdBaUxuZTJKS19xN1RYWTR4dU9fN3RnUnFSRHk4YUtkUUVQeWUwQjF4RlpWRWwzSHM?oc=5)
 
 ---
 

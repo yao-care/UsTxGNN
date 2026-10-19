@@ -32,6 +32,14 @@ This page brings together the latest health news about “flu” and lists the d
 
 ## Related News (5)
 
+### [CDC: Deadly Brain Fungus in Healthy Americans Is Rising](https://news.google.com/rss/articles/CBMimwFBVV95cUxPMTdiV2xUYWFJbEZRRldtRS1yVzhBdzlpeGR6bTNVRnlCNjQ0R0VmelR3WUtiUVU0bGxVdTRUOHNETWI3QVFnaUtFcTRRVlRtQUlLMXd1TEo1ZFZqYVBBclBoTkw1QWNPeDd4Wl9Gamw5VlhCeGpzVzh5QUJBTWFtbk9WVmc4M2tvTkMyakZfYURtX1dVNUNUcDQzMA?oc=5)
+
+2026-10-17
+
+Source: [Newser](https://news.google.com/rss/articles/CBMimwFBVV95cUxPMTdiV2xUYWFJbEZRRldtRS1yVzhBdzlpeGR6bTNVRnlCNjQ0R0VmelR3WUtiUVU0bGxVdTRUOHNETWI3QVFnaUtFcTRRVlRtQUlLMXd1TEo1ZFZqYVBBclBoTkw1QWNPeDd4Wl9Gamw5VlhCeGpzVzh5QUJBTWFtbk9WVmc4M2tvTkMyakZfYURtX1dVNUNUcDQzMA?oc=5)
+
+---
+
 ### [A Reporter Who Saw Covid Coming Has Died - The New York Times](https://news.google.com/rss/articles/CBMidkFVX3lxTE1jRnFPdUJrbnVoNzJDTkc1UU1ta2JDTVdmX29ad1lzd2s1ZkNySkFHZVZZRjR1bEZMdTd1UVI0dGtaRW1vcldramJmVDlBZHlOX2dFU19NVThYcDVJSFgzbEtwR3RXUnFZdjF5NFphQm5laHdTYXc?oc=5)
 
 2026-10-17
@@ -61,14 +69,6 @@ Source: [KING5.com](https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZkdneS0
 2026-10-16
 
 Source: [NBC News](https://news.google.com/rss/articles/CBMirgFBVV95cUxQWE5zYlp3OWpSUS1jTkQ1c04wVlhwZjNwc2d4eHVrdGp0TW0yZVZSWXN4WmFHazY5bklxX1BrRU8tMzNOcnJtZGFmX2ZQd2trc3VUZFBGWHBSTlQ1UERoV042N0wwSmF0d21qUV94Q1o5a1lncjRyZGxkVDB1bFJGMmx2cThuSDZVV0k4cEZBSURHYmxaenVVVm50NllPbHFUU1RfbFl6SkZxdnV3aWc?oc=5)
-
----
-
-### [West Nile virus rampant in the South Bay, health officials say - Daily Breeze](https://news.google.com/rss/articles/CBMiowFBVV95cUxQeTZ2bWE2T2ZMV0oyYzRNY2d3MkNIZlFmTll2SjhpQWZTRlo3enZCOTVXbDcwX3ZlREpfbm5rdWFvVDJSUWNuYTNhSEpCZUVSd0E4QlJBMW9uZ3ptMzZXNXd5Vk9iWkUybUczVkk1bFFIY0xBcW1naFU0U3I5NFluaExSdkJ3OTdCVVFYQW9VOS1GTm1wc2N1SDRMWkJ1QVJYQ0lN?oc=5)
-
-2026-10-16
-
-Source: [Daily Breeze](https://news.google.com/rss/articles/CBMiowFBVV95cUxQeTZ2bWE2T2ZMV0oyYzRNY2d3MkNIZlFmTll2SjhpQWZTRlo3enZCOTVXbDcwX3ZlREpfbm5rdWFvVDJSUWNuYTNhSEpCZUVSd0E4QlJBMW9uZ3ptMzZXNXd5Vk9iWkUybUczVkk1bFFIY0xBcW1naFU0U3I5NFluaExSdkJ3OTdCVVFYQW9VOS1GTm1wc2N1SDRMWkJ1QVJYQ0lN?oc=5)
 
 ---
 

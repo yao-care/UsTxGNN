@@ -3,7 +3,7 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 8 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 10 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/inflammatory-bowel-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>8 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>10 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,23 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (8)
+## Related News (10)
+
+### [Scientists discover a way to reverse coral bleaching at record speed](https://news.google.com/rss/articles/CBMia0FVX3lxTFBOSHlwQTE3aDFUMUZyQmpzLTA1R0FkbXk5WHpSakxKeWp1REVDS0EyWXA5dU9LcGpSRl85cEFqdmJVV25WU3JxamwtRnpDRUp5SVRsdkwxZm9SN09PVkVBbHctRjFBQ1JQdndj?oc=5)
+
+2026-10-18
+
+Source: [Phys.org](https://news.google.com/rss/articles/CBMia0FVX3lxTFBOSHlwQTE3aDFUMUZyQmpzLTA1R0FkbXk5WHpSakxKeWp1REVDS0EyWXA5dU9LcGpSRl85cEFqdmJVV25WU3JxamwtRnpDRUp5SVRsdkwxZm9SN09PVkVBbHctRjFBQ1JQdndj?oc=5)
+
+---
+
+### [High-fiber diet vs metformin: Which is better for blood sugar control, weight loss? - Medical News Today](https://news.google.com/rss/articles/CBMipAFBVV95cUxOb19sMEtNNVhaX1hwLWVPQnNzZE9yNlpzbHp6T2R5dXVrRTRmVUN1Tk9ZVFBKazNCaTFBWDBpNUZsWTBBOGN1NEZ1aXdNNVNjSklnNkVQWHVreXpkaWs3UkJKOHBrVjlfN0oxXzNuejFIOEFfMWd3amIwU0VTWXZ2NFpBZW9TRi1yU2IzTjV1c1BpVFlGaXRrcWtUZ2pzN1VmYU9RUQ?oc=5)
+
+2026-10-18
+
+Source: [Medical News Today](https://news.google.com/rss/articles/CBMipAFBVV95cUxOb19sMEtNNVhaX1hwLWVPQnNzZE9yNlpzbHp6T2R5dXVrRTRmVUN1Tk9ZVFBKazNCaTFBWDBpNUZsWTBBOGN1NEZ1aXdNNVNjSklnNkVQWHVreXpkaWs3UkJKOHBrVjlfN0oxXzNuejFIOEFfMWd3amIwU0VTWXZ2NFpBZW9TRi1yU2IzTjV1c1BpVFlGaXRrcWtUZ2pzN1VmYU9RUQ?oc=5)
+
+---
 
 ### [Do you know this feline? ‘Sociable’ cat tests positive for rabies in Prince William County - WTOP News](https://news.google.com/rss/articles/CBMivwFBVV95cUxOMHVnbFVJSUFfb2N4VmdINTNUTzQ5M0lIRVYxRmRpVExKUTZ0YWpDMFhoRHJBVnkyV0k3R091VFJpS1JDLUwzVHNGczdpUHN5TXBPTXg2TE5oZjRnZC1TM1hUdDFiLW8ycUcySzhGcnZCZk1keGxycHZ3bjlGalJOSjJFcTdTNHliY2dSSWRkYml2Q012cmpLTkZWLVhjcVRMWmFxVXZHSUJWSEU2UnVPMUJqMHMtYk9pQ3hiTm5VUQ?oc=5)
 
@@ -57,14 +73,6 @@ Source: [The Guardian](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRnVf
 2026-10-17
 
 Source: [The New York Times](https://news.google.com/rss/articles/CBMidkFVX3lxTE1jRnFPdUJrbnVoNzJDTkc1UU1ta2JDTVdmX29ad1lzd2s1ZkNySkFHZVZZRjR1bEZMdTd1UVI0dGtaRW1vcldramJmVDlBZHlOX2dFU19NVThYcDVJSFgzbEtwR3RXUnFZdjF5NFphQm5laHdTYXc?oc=5)
-
----
-
-### [5 Mediterranean-Diet Foods That Help Lower Inflammation](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT1Q2Z2I0b0Q4eGRyWGkzT3lRc0d5WmhIMUJ6LU00NkxkbGZPblRqMjBPMEtIMHhpcEwtVFk5WVMzVE1OUk5uc19YemE1RVVDY0I0bDlxVnVkU1JNcThEcGlQTVpZeVRQUGZ5SGhWQ0tRVlozZFliOUxxYjY3aFBCZzZyMGsydS03TW84?oc=5)
-
-2026-10-17
-
-Source: [EatingWell](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT1Q2Z2I0b0Q4eGRyWGkzT3lRc0d5WmhIMUJ6LU00NkxkbGZPblRqMjBPMEtIMHhpcEwtVFk5WVMzVE1OUk5uc19YemE1RVVDY0I0bDlxVnVkU1JNcThEcGlQTVpZeVRQUGZ5SGhWQ0tRVlozZFliOUxxYjY3aFBCZzZyMGsydS03TW84?oc=5)
 
 ---
 
@@ -97,6 +105,14 @@ Source: [Futurism](https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZbzV6TDYt
 2026-10-16
 
 Source: [Reuters](https://news.google.com/rss/articles/CBMi3gFBVV95cUxORlYtUXplRUljQnQ2MUNmXzV3c3ZLb0NxSjNWc2IzTE5fbjBNY3NxVzNXTjhJLU5VeEtsX0FLU3ZIUjBPaHdtYm9vVzhBUnJBVjllYmJQS09LZ3lvNEdEN1NGMUhYdDdHWG1lUDBuRUlGamNxZE9kMEFwak8wX3RydEtxRlNCWklYdGdiM1o0Y2JObzlBTklxUnNxS0VGWXUwdzVjb05kbVNnQ1poSDVNNlUxcnd2NHBvM203cXh1TFdhSnVXd0tKbnd4U3lmVl9XaGc1UUZpTjJzcl9mV0E?oc=5)
+
+---
+
+### [I'm 12 and I want to try protein powder - should I?](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiY0V4MG9DNzJoZkJ0b2VvdUZNSGI4UE53dVZjR3pSMnRROHdBaUxuZTJKS19xN1RYWTR4dU9fN3RnUnFSRHk4YUtkUUVQeWUwQjF4RlpWRWwzSHM?oc=5)
+
+2026-10-15
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiY0V4MG9DNzJoZkJ0b2VvdUZNSGI4UE53dVZjR3pSMnRROHdBaUxuZTJKS19xN1RYWTR4dU9fN3RnUnFSRHk4YUtkUUVQeWUwQjF4RlpWRWwzSHM?oc=5)
 
 ---
 

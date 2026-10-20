@@ -3,7 +3,7 @@ layout: default
 title: "cancer News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer. 5 articles, 1 related drugs."
+description: "Health news about cancer. 11 articles, 1 related drugs."
 permalink: /news/cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cancer/
 ---
 
 <p class="key-answer" data-question="What news is there about cancer?">
-<strong>cancer</strong> currently has <strong>5 news articles</strong> and 1 related drugs.
+<strong>cancer</strong> currently has <strong>11 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,47 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (5)
+## Related News (11)
+
+### [How I got through cancer at 38 — and what it taught me - The Washington Post](https://news.google.com/rss/articles/CBMingFBVV95cUxOSC1vN3JJdFZtdjAwSEVLdEVZQlQzRlFuT1RkLW0wOEN5R01uQ3YxbFV1eFg1cmVvZ2NxR09RWGFwTFl4NGlobGxobU9KY1BsUzUzNlphdkNZSk14WUNsZFF4aUl1TGFjelJEYm1mVGp6RGd2YXBaQ3J3VTlwckJOb3JKUUFiRHc2OWFRc1JOanRPMXN3ZV85ejQta2pfdw?oc=5)
+
+2026-10-20
+
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMingFBVV95cUxOSC1vN3JJdFZtdjAwSEVLdEVZQlQzRlFuT1RkLW0wOEN5R01uQ3YxbFV1eFg1cmVvZ2NxR09RWGFwTFl4NGlobGxobU9KY1BsUzUzNlphdkNZSk14WUNsZFF4aUl1TGFjelJEYm1mVGp6RGd2YXBaQ3J3VTlwckJOb3JKUUFiRHc2OWFRc1JOanRPMXN3ZV85ejQta2pfdw?oc=5)
+
+---
+
+### [How a photo of a patient’s face could predict whether they’ll survive cancer - The Washington Post](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTkJuQ0dkdjc1aDYwbU9IT1Q1OGNxUjFHWFpSSm5fTFhiUkJXM1c2ODNHZG9VX3c1ZlVJakN1SkJ5djJ1MGhMRllKMlZVVGMwekliekVuMnN4TncxQ09DTlJRUGpUd0hyd2w5bDhpY085VGktVWRSMTNaZjNqWXJ0STYzMTJualpHXzBhRHVRVVBRSVB0YU9kWlFxZ001LXEzUkNVdFBua2wyak1OY0IxRjF3TnVSRE5l?oc=5)
+
+2026-10-20
+
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTkJuQ0dkdjc1aDYwbU9IT1Q1OGNxUjFHWFpSSm5fTFhiUkJXM1c2ODNHZG9VX3c1ZlVJakN1SkJ5djJ1MGhMRllKMlZVVGMwekliekVuMnN4TncxQ09DTlJRUGpUd0hyd2w5bDhpY085VGktVWRSMTNaZjNqWXJ0STYzMTJualpHXzBhRHVRVVBRSVB0YU9kWlFxZ001LXEzUkNVdFBua2wyak1OY0IxRjF3TnVSRE5l?oc=5)
+
+---
+
+### [Opinion | Want to reduce chronic diseases? Invest in vaccines. - The Washington Post](https://news.google.com/rss/articles/CBMitAFBVV95cUxNd2lXT214NjFiZGo3XzNiZmZUbFdoX25XbmwtckZySk5OdVdXcVJjVGpIWXhzZVdNb1dUa0E3eWJVX3k1a3dxSm1aMHQydHdRbFhjRi16UExQUTg3cHZfNGFQU2MzYWxTMGlHbWMtdm1RUC1CenV4VVpwWlBKVE9oX00zR1Rwc1R2a1dmSlU4ZWZSdmJpZlRiN0txcE0xYjJFZVYxMk1Nam5zYVNuNjlzLXZOSVo?oc=5)
+
+2026-10-20
+
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMitAFBVV95cUxNd2lXT214NjFiZGo3XzNiZmZUbFdoX25XbmwtckZySk5OdVdXcVJjVGpIWXhzZVdNb1dUa0E3eWJVX3k1a3dxSm1aMHQydHdRbFhjRi16UExQUTg3cHZfNGFQU2MzYWxTMGlHbWMtdm1RUC1CenV4VVpwWlBKVE9oX00zR1Rwc1R2a1dmSlU4ZWZSdmJpZlRiN0txcE0xYjJFZVYxMk1Nam5zYVNuNjlzLXZOSVo?oc=5)
+
+---
+
+### [How simply sitting less could help reduce your breast cancer risk - The Washington Post](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUmd3TlJ0ekJtR1o0aTk1a0dUV25LbzlnZVAxOXVQLVF6T2tNVmhPUl93OUZESGxJcnJ0QjNqdVEwcXBrUFl0Z1VZUTA2SHczWEJXWGYzWmpWOVhtZkcwbDg4em5iRFI2UXk0QV8zY1ZTWGNuQ0lLVlBGWmFhamxGU01UQXZrakpMdGNsRkFTX3lzanZHc20tWnZ3ZFBDMWpBX25NV19qQkhKajV6cE9rQWxuNHVRcXAx?oc=5)
+
+2026-10-20
+
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUmd3TlJ0ekJtR1o0aTk1a0dUV25LbzlnZVAxOXVQLVF6T2tNVmhPUl93OUZESGxJcnJ0QjNqdVEwcXBrUFl0Z1VZUTA2SHczWEJXWGYzWmpWOVhtZkcwbDg4em5iRFI2UXk0QV8zY1ZTWGNuQ0lLVlBGWmFhamxGU01UQXZrakpMdGNsRkFTX3lzanZHc20tWnZ3ZFBDMWpBX25NV19qQkhKajV6cE9rQWxuNHVRcXAx?oc=5)
+
+---
+
+### [Colon cancer is now the second-leading cause of cancer death](https://news.google.com/rss/articles/CBMie0FVX3lxTE04OFM4bkhaemVDSHpINk1ZM0VhNl9EeWdOUkt1REdWeWwzbzJYVDlDTE9lbzZmLWtLWklNU240VXJ3b1Y2TnJFWFJmSG1IWTktYkY5S1NUczFjN2c2TXJIdlVvOUFCRkI3MTc5bGJxSXlmZ29DZF9McEt2UQ?oc=5)
+
+2026-10-20
+
+Source: [WESH](https://news.google.com/rss/articles/CBMie0FVX3lxTE04OFM4bkhaemVDSHpINk1ZM0VhNl9EeWdOUkt1REdWeWwzbzJYVDlDTE9lbzZmLWtLWklNU240VXJ3b1Y2TnJFWFJmSG1IWTktYkY5S1NUczFjN2c2TXJIdlVvOUFCRkI3MTc5bGJxSXlmZ29DZF9McEt2UQ?oc=5)
+
+---
 
 ### [Lung cancer can grow silently for years, here’s who qualifies for screening - Fox News](https://news.google.com/rss/articles/CBMiigFBVV95cUxQYUwwMWxEbzVMbjFfOXZvN3N5TTlrU3JDbEpraWZaOEJYSFlWVE4yS3NLcWpuWVhaMWc3SWxRSWFrVVNmVlF4UnBTQUxmVi1mbUU0U19CZGpHUkM2NFNGOUdDTnkyYko4cWEyMmJtcW9SbVhZNDFZMi1YVXBCclZNVGZycmR2X0VQcFHSAY8BQVVfeXFMUFROYnpRUG9FSTc4OUZtQ1Z3UXdvNVdsMU01TGM1TGU4UFdlRU5VMFp0T1lfb1hDa1RCb0pPcmF1Z1lYd2tMRmZRUjhMbFZhLVdfejc0aFBwT3E1TjNiTmZ5Mm5DUi1Ob3ZvODFQV1VpbHh3bE5pcy1KUExmWi1DSGdPUHFMRmhUUVpCSHlIOW8?oc=5)
 
@@ -47,11 +87,19 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaj
 
 ---
 
-### [New AI tool can predict cancer survival by a single patient selfie, study suggests - The Guardian](https://news.google.com/rss/articles/CBMingFBVV95cUxNbWxWYV9ENDRreC04dElWekx5eGlmOG9ZcHVleDRmWldBWncwTnJFQWJvQ1VBZFZzZzRnT1BXYlFBV2o1WklRR1E0cDNsMnlfQk9GQzhJXzExNWQ0VFRxWlN3UEFZY20zRzZhWnYwVi10aVItemhqamtndGoyVFA5TFNWZHVGeDhmcm9RWHZmRmt1ZWJJX0RWa2JVSmwtdw?oc=5)
+### [Frozen in action: Visualizing how a cancer drug scaffold is built](https://news.google.com/rss/articles/CBMifEFVX3lxTE1QYW5TMFFuUi1kY2RoNnFVYmJfSk9EVnhHelNwemluT1BVVklpeTJrNWlPVUtuMHN0a09MTzBLa3YzUnY3ZnNHeTdpc3Aza0tySzdEUHRZck9sMENKb3RibUc1TkZVc0p5X3h5b19pSzNXeG1MZ3lBVXJYbjE?oc=5)
 
 2026-10-19
 
-Source: [The Guardian](https://news.google.com/rss/articles/CBMingFBVV95cUxNbWxWYV9ENDRreC04dElWekx5eGlmOG9ZcHVleDRmWldBWncwTnJFQWJvQ1VBZFZzZzRnT1BXYlFBV2o1WklRR1E0cDNsMnlfQk9GQzhJXzExNWQ0VFRxWlN3UEFZY20zRzZhWnYwVi10aVItemhqamtndGoyVFA5TFNWZHVGeDhmcm9RWHZmRmt1ZWJJX0RWa2JVSmwtdw?oc=5)
+Source: [Phys.org](https://news.google.com/rss/articles/CBMifEFVX3lxTE1QYW5TMFFuUi1kY2RoNnFVYmJfSk9EVnhHelNwemluT1BVVklpeTJrNWlPVUtuMHN0a09MTzBLa3YzUnY3ZnNHeTdpc3Aza0tySzdEUHRZck9sMENKb3RibUc1TkZVc0p5X3h5b19pSzNXeG1MZ3lBVXJYbjE?oc=5)
+
+---
+
+### [11Alive investigation into unusually high thyroid cancer rates in northeast Georgia sparks new research](https://news.google.com/rss/articles/CBMiuAJBVV95cUxNTjl1ZmVicUpVai12bmZnR2Q5QU90M2JHbl9PX3pVeXVya2JLRVRYeGpNekxZNUh5cFlxWElUU19JVEliQ0cxRDFPSmI1LXNXVjBuZEdQenQ0dWpuZ1Q0OVNhMy1NV2wxOTJ0Y1dBRG1mdWRUOUxCQ0ZRYS1XaXJOdktURTJIUU9hcU1fUGFZX01BOF9iLWp0Z2lHNWo2NUQxbjZMdHNvTDJDdUdTV2RuVmFuNUpxcTFLcXQ5UjJiLUladDRDNEUybGpVRlc4Z21GOXdQN0lsNGYyM1RJa0g2cldXWTZVRl9qeWRfbUhKeXdUZ2tlWWJzQktMZmgxWVd2WW5sTDE0VHdROWZFZVNMMjYzLW1CMS11Umw4b29uQ05DaTkzR2s1YTh1MUFOeWVIY3VTMUF0cVc?oc=5)
+
+2026-10-19
+
+Source: [11Alive.com](https://news.google.com/rss/articles/CBMiuAJBVV95cUxNTjl1ZmVicUpVai12bmZnR2Q5QU90M2JHbl9PX3pVeXVya2JLRVRYeGpNekxZNUh5cFlxWElUU19JVEliQ0cxRDFPSmI1LXNXVjBuZEdQenQ0dWpuZ1Q0OVNhMy1NV2wxOTJ0Y1dBRG1mdWRUOUxCQ0ZRYS1XaXJOdktURTJIUU9hcU1fUGFZX01BOF9iLWp0Z2lHNWo2NUQxbjZMdHNvTDJDdUdTV2RuVmFuNUpxcTFLcXQ5UjJiLUladDRDNEUybGpVRlc4Z21GOXdQN0lsNGYyM1RJa0g2cldXWTZVRl9qeWRfbUhKeXdUZ2tlWWJzQktMZmgxWVd2WW5sTDE0VHdROWZFZVNMMjYzLW1CMS11Umw4b29uQ05DaTkzR2s1YTh1MUFOeWVIY3VTMUF0cVc?oc=5)
 
 ---
 

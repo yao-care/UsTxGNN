@@ -3,7 +3,7 @@ layout: default
 title: "CAD (heart disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about CAD (heart disease). 3 articles, 1 related drugs."
+description: "Health news about CAD (heart disease). 4 articles, 1 related drugs."
 permalink: /news/heart-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/heart-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about CAD (heart disease)?">
-<strong>CAD (heart disease)</strong> currently has <strong>3 news articles</strong> and 1 related drugs.
+<strong>CAD (heart disease)</strong> currently has <strong>4 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ This page brings together the latest health news about “CAD” and lists the d
 </ul>
 </div>
 
-## Related News (3)
+## Related News (4)
 
 ### [Warning signs could predict inflammatory bowel disease a decade before diagnosis | Medical research - The Guardian](https://news.google.com/rss/articles/CBMitgFBVV95cUxNSEJmZjlXQXVRR28yU2pNUnk4dEg1UFlEaHlMdm54ckx3c29JSk5IVVByTVVzQU1wc3BjdzVJcm8xQ1F5Q09QbjZCQmFMZWJoS085WFRYeUEtQXBVOWN3UEJQOE9HNkdZbk9TMUVlSGkzTDR6dlFrRVJxY2NsTWFfQkVHNjl5ay0xd1pEVmgtdWNDNGp1b3BUS0R6cjZLWlRPb3YwZlNadnRuenlVV2FrNFZGV21iUQ?oc=5)
 
@@ -47,11 +47,19 @@ Source: [Ars Technica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVTZx
 
 ---
 
-### [Weights v cardio: which should you do more of in midlife? - The Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxPbWU3d3J5RG93UFJMTl83c1ZvZ1h6X1Vnb2R0STRiWUEwbVBuV2xFR25INWxsdDRjeTJJVDFTcklwV3hodXpzY2E1WW94WUZEajBBVUF2djJlbzM4QjNnVkVTOUhzYmNqQkotMmpjSEdhU2ZfTHBxS2tBYWdHY25DT0FBRXhXMy1obng3WlgwU09nZw?oc=5)
+### [Napping Linked To Dementia Risk In Older Adults](https://news.google.com/rss/articles/CBMilAFBVV95cUxPaHhzTE5vZDc1LS0tUGRMdU5WUXlzbEtBNHdrUXoyYk1wblpCNEJlT0NBVUppeXZUbnlzYVBTT3NxaXVzbFlfZVo4eHRGa1ZjaEJOZDd4MTlLRGNsU1RWZkJManp5WkxENEJtSkNELUdCeE51VEdSRHc1RGJrdlFwY09qQ295NzRoUkZrUjdyWk02NlBs0gGcAUFVX3lxTE15UjRjR2RmWXh0ZlJyVHRLOEZMbnRVeDJlV1ZLcW4zSGd2SUdaeUF2azI4bVFYWXU4NzFEY3BpX1g0em1kN0szRGpoWjZaU0lHaUUtQUVibE5oYW9XTU1hNW9BcGl0eVpWb2FQSVdwMVY3NWhjRENpQ2l2T0djQmhtNFEzZjk4UWQtWThKZnYyLVFjZUhZS3JTd1U4cw?oc=5)
 
-2026-10-19
+2026-10-18
 
-Source: [The Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxPbWU3d3J5RG93UFJMTl83c1ZvZ1h6X1Vnb2R0STRiWUEwbVBuV2xFR25INWxsdDRjeTJJVDFTcklwV3hodXpzY2E1WW94WUZEajBBVUF2djJlbzM4QjNnVkVTOUhzYmNqQkotMmpjSEdhU2ZfTHBxS2tBYWdHY25DT0FBRXhXMy1obng3WlgwU09nZw?oc=5)
+Source: [iHeart](https://news.google.com/rss/articles/CBMilAFBVV95cUxPaHhzTE5vZDc1LS0tUGRMdU5WUXlzbEtBNHdrUXoyYk1wblpCNEJlT0NBVUppeXZUbnlzYVBTT3NxaXVzbFlfZVo4eHRGa1ZjaEJOZDd4MTlLRGNsU1RWZkJManp5WkxENEJtSkNELUdCeE51VEdSRHc1RGJrdlFwY09qQ295NzRoUkZrUjdyWk02NlBs0gGcAUFVX3lxTE15UjRjR2RmWXh0ZlJyVHRLOEZMbnRVeDJlV1ZLcW4zSGd2SUdaeUF2azI4bVFYWXU4NzFEY3BpX1g0em1kN0szRGpoWjZaU0lHaUUtQUVibE5oYW9XTU1hNW9BcGl0eVpWb2FQSVdwMVY3NWhjRENpQ2l2T0djQmhtNFEzZjk4UWQtWThKZnYyLVFjZUhZS3JTd1U4cw?oc=5)
+
+---
+
+### [Ovaries Develop an Intriguing Second Role After Menopause](https://news.google.com/rss/articles/CBMijwFBVV95cUxPRVZocG1WaWtTQUxiNnVtTVZwZmlwdWJZLXRKWGhrY1RSNERHM19SUW5NVjVsVDlWSGU1aVAzbVlzZjFJbF9fR2luQ2RZSkJXcFhQRi1EQm1IS1Mwenh3NnZ4bEFLbFRfVlctVFdJZ2V0d1ZxdHJoWDQxbE15dUFzOG8xdlFVMkU5RHUtemJucw?oc=5)
+
+2026-10-14
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMijwFBVV95cUxPRVZocG1WaWtTQUxiNnVtTVZwZmlwdWJZLXRKWGhrY1RSNERHM19SUW5NVjVsVDlWSGU1aVAzbVlzZjFJbF9fR2luQ2RZSkJXcFhQRi1EQm1IS1Mwenh3NnZ4bEFLbFRfVlctVFdJZ2V0d1ZxdHJoWDQxbE15dUFzOG8xdlFVMkU5RHUtemJucw?oc=5)
 
 ---
 

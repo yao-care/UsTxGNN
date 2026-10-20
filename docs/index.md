@@ -2,14 +2,14 @@
 layout: default
 title: Drug Repurposing Predictions — United States
 nav_order: 1
-description: "UsTxGNN - US FDA Drug Repurposing Predictions using TxGNN Knowledge Graph"
+description: "UsTxGNN - US FDA Drug Repurposing Predictions using the TxGNN graph neural network"
 permalink: /
 ---
 
 # UsTxGNN Drug Repurposing Reports
 {: .fs-9 }
 
-AI-powered drug repurposing predictions for US FDA approved drugs using the TxGNN knowledge graph.
+AI-powered drug repurposing predictions for US FDA approved drugs using the TxGNN graph neural network.
 {: .fs-6 .fw-300 }
 
 [View Predictions](/drugs/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }

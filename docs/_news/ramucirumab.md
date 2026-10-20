@@ -14,7 +14,7 @@ permalink: /news/ramucirumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Ramucirumab?">
-<strong>Ramucirumab</strong> currently has <strong>6 news articles</strong>, with 10 predicted indications.
+<strong>Ramucirumab</strong> currently has <strong>7 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -41,29 +41,37 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (7)
 
-### [Dana-Farber, Beth Israel begin construction of new $1.68 billion cancer hospital - The Boston Globe](https://news.google.com/rss/articles/CBMiggFBVV95cUxQZjhiOFlFX1NhcVlGaWtuVGdiRW51U05DeEVkNzV5V3dOZnpXTUJkUXYwLW1td1dZdjJZSktzVFFHTmR4OGZOeTk4a2pBZ2hYVDJMSmVpS0J4dlNjN096VldYQU5ZNzFoSHJ0S2IyZnF1MFhIY2h0SDFLWlNHdXJBN3Fn?oc=5)
+### [Lung cancer can grow silently for years, here’s who qualifies for screening - Fox News](https://news.google.com/rss/articles/CBMiigFBVV95cUxQYUwwMWxEbzVMbjFfOXZvN3N5TTlrU3JDbEpraWZaOEJYSFlWVE4yS3NLcWpuWVhaMWc3SWxRSWFrVVNmVlF4UnBTQUxmVi1mbUU0U19CZGpHUkM2NFNGOUdDTnkyYko4cWEyMmJtcW9SbVhZNDFZMi1YVXBCclZNVGZycmR2X0VQcFHSAY8BQVVfeXFMUFROYnpRUG9FSTc4OUZtQ1Z3UXdvNVdsMU01TGM1TGU4UFdlRU5VMFp0T1lfb1hDa1RCb0pPcmF1Z1lYd2tMRmZRUjhMbFZhLVdfejc0aFBwT3E1TjNiTmZ5Mm5DUi1Ob3ZvODFQV1VpbHh3bE5pcy1KUExmWi1DSGdPUHFMRmhUUVpCSHlIOW8?oc=5)
 
-2026-10-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-10-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
-Source: [The Boston Globe](https://news.google.com/rss/articles/CBMiggFBVV95cUxQZjhiOFlFX1NhcVlGaWtuVGdiRW51U05DeEVkNzV5V3dOZnpXTUJkUXYwLW1td1dZdjJZSktzVFFHTmR4OGZOeTk4a2pBZ2hYVDJMSmVpS0J4dlNjN096VldYQU5ZNzFoSHJ0S2IyZnF1MFhIY2h0SDFLWlNHdXJBN3Fn?oc=5)
-
----
-
-### [Nearly 1 in 8 cancers worldwide are caused by infections. Many could be prevented - ZME Science](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdjZyVVdKQVpmdndMd0hsbnJ5eHVPZmoyNFNrcWZ2Z1A4YlBpdGk4d2RBY0IxdTd1RzRwdEhfeXJSX1VxVEl2Si1zNWVLLXRfQnFvRURtVng3eVNzVlZQY2I5MTR5VlRQUTJ0N3NLUlNtSjFhUWd6M3EyUWxRVWo4WUxPVGo5UGZ2MUJsbXBDT1MtZlE?oc=5)
-
-2026-10-18 <span class="news-indication-tag">cancer</span>
-
-Source: [ZME Science](https://news.google.com/rss/articles/CBMikwFBVV95cUxNdjZyVVdKQVpmdndMd0hsbnJ5eHVPZmoyNFNrcWZ2Z1A4YlBpdGk4d2RBY0IxdTd1RzRwdEhfeXJSX1VxVEl2Si1zNWVLLXRfQnFvRURtVng3eVNzVlZQY2I5MTR5VlRQUTJ0N3NLUlNtSjFhUWd6M3EyUWxRVWo4WUxPVGo5UGZ2MUJsbXBDT1MtZlE?oc=5)
+Source: [Fox News](https://news.google.com/rss/articles/CBMiigFBVV95cUxQYUwwMWxEbzVMbjFfOXZvN3N5TTlrU3JDbEpraWZaOEJYSFlWVE4yS3NLcWpuWVhaMWc3SWxRSWFrVVNmVlF4UnBTQUxmVi1mbUU0U19CZGpHUkM2NFNGOUdDTnkyYko4cWEyMmJtcW9SbVhZNDFZMi1YVXBCclZNVGZycmR2X0VQcFHSAY8BQVVfeXFMUFROYnpRUG9FSTc4OUZtQ1Z3UXdvNVdsMU01TGM1TGU4UFdlRU5VMFp0T1lfb1hDa1RCb0pPcmF1Z1lYd2tMRmZRUjhMbFZhLVdfejc0aFBwT3E1TjNiTmZ5Mm5DUi1Ob3ZvODFQV1VpbHh3bE5pcy1KUExmWi1DSGdPUHFMRmhUUVpCSHlIOW8?oc=5)
 
 ---
 
-### [Doctor Tells Woman Her Painful Symptoms Are Due to Weight. When She Gets a Second Opinion, They Find a 15-Lb. Tumor (Exclusive)](https://news.google.com/rss/articles/CBMijwFBVV95cUxOandJaWFoaEM2V0dyeW5obDJyOVQtbE54SjNYTEliV3lPZUVxQkZBYVpvWDZBcXJONGhyZWFweUE3OExzeGt6MzUtVHljTkVlVUVBajVLU1FVTGlNZ2E3MWVtMFVoWUdFTjd1U2hDZ3NBT2R5dld2VVJtOFpyNGVZYllVcVRrV1IwYWl4MDZGSQ?oc=5)
+### [New AI tool can predict cancer survival by a single patient selfie, study suggests - The Guardian](https://news.google.com/rss/articles/CBMingFBVV95cUxNbWxWYV9ENDRreC04dElWekx5eGlmOG9ZcHVleDRmWldBWncwTnJFQWJvQ1VBZFZzZzRnT1BXYlFBV2o1WklRR1E0cDNsMnlfQk9GQzhJXzExNWQ0VFRxWlN3UEFZY20zRzZhWnYwVi10aVItemhqamtndGoyVFA5TFNWZHVGeDhmcm9RWHZmRmt1ZWJJX0RWa2JVSmwtdw?oc=5)
 
-2026-10-18 <span class="news-indication-tag">tumor</span>
+2026-10-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">OA</span>
 
-Source: [Yahoo](https://news.google.com/rss/articles/CBMijwFBVV95cUxOandJaWFoaEM2V0dyeW5obDJyOVQtbE54SjNYTEliV3lPZUVxQkZBYVpvWDZBcXJONGhyZWFweUE3OExzeGt6MzUtVHljTkVlVUVBajVLU1FVTGlNZ2E3MWVtMFVoWUdFTjd1U2hDZ3NBT2R5dld2VVJtOFpyNGVZYllVcVRrV1IwYWl4MDZGSQ?oc=5)
+Source: [The Guardian](https://news.google.com/rss/articles/CBMingFBVV95cUxNbWxWYV9ENDRreC04dElWekx5eGlmOG9ZcHVleDRmWldBWncwTnJFQWJvQ1VBZFZzZzRnT1BXYlFBV2o1WklRR1E0cDNsMnlfQk9GQzhJXzExNWQ0VFRxWlN3UEFZY20zRzZhWnYwVi10aVItemhqamtndGoyVFA5TFNWZHVGeDhmcm9RWHZmRmt1ZWJJX0RWa2JVSmwtdw?oc=5)
+
+---
+
+### [11Alive investigation into unusually high thyroid cancer rates in northeast Georgia sparks new research](https://news.google.com/rss/articles/CBMiuAJBVV95cUxNTjl1ZmVicUpVai12bmZnR2Q5QU90M2JHbl9PX3pVeXVya2JLRVRYeGpNekxZNUh5cFlxWElUU19JVEliQ0cxRDFPSmI1LXNXVjBuZEdQenQ0dWpuZ1Q0OVNhMy1NV2wxOTJ0Y1dBRG1mdWRUOUxCQ0ZRYS1XaXJOdktURTJIUU9hcU1fUGFZX01BOF9iLWp0Z2lHNWo2NUQxbjZMdHNvTDJDdUdTV2RuVmFuNUpxcTFLcXQ5UjJiLUladDRDNEUybGpVRlc4Z21GOXdQN0lsNGYyM1RJa0g2cldXWTZVRl9qeWRfbUhKeXdUZ2tlWWJzQktMZmgxWVd2WW5sTDE0VHdROWZFZVNMMjYzLW1CMS11Umw4b29uQ05DaTkzR2s1YTh1MUFOeWVIY3VTMUF0cVc?oc=5)
+
+2026-10-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+
+Source: [11Alive.com](https://news.google.com/rss/articles/CBMiuAJBVV95cUxNTjl1ZmVicUpVai12bmZnR2Q5QU90M2JHbl9PX3pVeXVya2JLRVRYeGpNekxZNUh5cFlxWElUU19JVEliQ0cxRDFPSmI1LXNXVjBuZEdQenQ0dWpuZ1Q0OVNhMy1NV2wxOTJ0Y1dBRG1mdWRUOUxCQ0ZRYS1XaXJOdktURTJIUU9hcU1fUGFZX01BOF9iLWp0Z2lHNWo2NUQxbjZMdHNvTDJDdUdTV2RuVmFuNUpxcTFLcXQ5UjJiLUladDRDNEUybGpVRlc4Z21GOXdQN0lsNGYyM1RJa0g2cldXWTZVRl9qeWRfbUhKeXdUZ2tlWWJzQktMZmgxWVd2WW5sTDE0VHdROWZFZVNMMjYzLW1CMS11Umw4b29uQ05DaTkzR2s1YTh1MUFOeWVIY3VTMUF0cVc?oc=5)
+
+---
+
+### [Column | A blood test for 50-plus cancers? One survivor is glad he took it. - The Washington Post](https://news.google.com/rss/articles/CBMitgFBVV95cUxNbk91UFRtSDNsbS0teVQtMlNsZUxoNlJHb24zdGJ0SG5idjRrYldudG1RdVBLdW16RWp0djhIWDZVQlQ1WGxxZC00VktBNnZNNDE4MjNBcTBYdTh3SkJTbjBIVUl1d1poOUZsakFxZFV1a0tCUFBvRnc2VG1GTUFKQVNjc2UzbUxsZzhsUlE4bDc5Y05GeFJPU2p6Z1pUUXJXR2ZVTlNkeTF6cTAwVlRoZkdSTFBPZw?oc=5)
+
+2026-10-17 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMitgFBVV95cUxNbk91UFRtSDNsbS0teVQtMlNsZUxoNlJHb24zdGJ0SG5idjRrYldudG1RdVBLdW16RWp0djhIWDZVQlQ1WGxxZC00VktBNnZNNDE4MjNBcTBYdTh3SkJTbjBIVUl1d1poOUZsakFxZFV1a0tCUFBvRnc2VG1GTUFKQVNjc2UzbUxsZzhsUlE4bDc5Y05GeFJPU2p6Z1pUUXJXR2ZVTlNkeTF6cTAwVlRoZkdSTFBPZw?oc=5)
 
 ---
 

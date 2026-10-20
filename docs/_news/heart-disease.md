@@ -31,19 +31,19 @@ This page brings together the latest health news about “CAD” and lists the d
 
 ## Related News (2)
 
-### [I had a stroke as a healthy 41-year-old – this is why it’s rising in the young - The i Paper](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTUpKNG1aOHFwWHAzdTNhbHdlckhKa3M3dy1XdkVvZ0xveHl1UHFUUmh2d3JiSXI1V3pCd3pVMDh1Snp6dDFpaGFkS21BaVB5T1VjVFl4cnRFTjlpTkNMVDNHU0ZjTVpVcFNveC0wN3V6UHFjb0V6Vm9Ub25PTGQ2UWpmeVBuZmVTYm9v?oc=5)
+### [Pennsylvania issues alert on congenital measles—something US hasn't seen for decades - Ars Technica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVTZxd09wVXZPNTJ2TTR2Wl8yMDZJT3BWVTdIZTRXNTFVQzVfWU5ueGUyQUxiOGhnYjV2S2hMUzRGVDdpVTFHUk85MFgzQlFxU3pTc1FSenB5aXRMZXNQTGFQX3YxazNMQndiSUI1ODk3amVPcW1ELUpPdWFHRzNVNVdkQ1Q5M1lkckVHQ2pnWHJyR0VsZG5Cb2RGemZqcFdqMnVNTF8taEozTVVjdzZYU0c2aGlhU2k3UTZfNjV5NXc?oc=5)
 
 2026-10-19
 
-Source: [The i Paper](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTUpKNG1aOHFwWHAzdTNhbHdlckhKa3M3dy1XdkVvZ0xveHl1UHFUUmh2d3JiSXI1V3pCd3pVMDh1Snp6dDFpaGFkS21BaVB5T1VjVFl4cnRFTjlpTkNMVDNHU0ZjTVpVcFNveC0wN3V6UHFjb0V6Vm9Ub25PTGQ2UWpmeVBuZmVTYm9v?oc=5)
+Source: [Ars Technica](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVTZxd09wVXZPNTJ2TTR2Wl8yMDZJT3BWVTdIZTRXNTFVQzVfWU5ueGUyQUxiOGhnYjV2S2hMUzRGVDdpVTFHUk85MFgzQlFxU3pTc1FSenB5aXRMZXNQTGFQX3YxazNMQndiSUI1ODk3amVPcW1ELUpPdWFHRzNVNVdkQ1Q5M1lkckVHQ2pnWHJyR0VsZG5Cb2RGemZqcFdqMnVNTF8taEozTVVjdzZYU0c2aGlhU2k3UTZfNjV5NXc?oc=5)
 
 ---
 
-### [Ovaries Develop an Intriguing Second Role After Menopause](https://news.google.com/rss/articles/CBMijwFBVV95cUxPRVZocG1WaWtTQUxiNnVtTVZwZmlwdWJZLXRKWGhrY1RSNERHM19SUW5NVjVsVDlWSGU1aVAzbVlzZjFJbF9fR2luQ2RZSkJXcFhQRi1EQm1IS1Mwenh3NnZ4bEFLbFRfVlctVFdJZ2V0d1ZxdHJoWDQxbE15dUFzOG8xdlFVMkU5RHUtemJucw?oc=5)
+### [Weights v cardio: which should you do more of in midlife? - The Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxPbWU3d3J5RG93UFJMTl83c1ZvZ1h6X1Vnb2R0STRiWUEwbVBuV2xFR25INWxsdDRjeTJJVDFTcklwV3hodXpzY2E1WW94WUZEajBBVUF2djJlbzM4QjNnVkVTOUhzYmNqQkotMmpjSEdhU2ZfTHBxS2tBYWdHY25DT0FBRXhXMy1obng3WlgwU09nZw?oc=5)
 
-2026-10-14
+2026-10-19
 
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMijwFBVV95cUxPRVZocG1WaWtTQUxiNnVtTVZwZmlwdWJZLXRKWGhrY1RSNERHM19SUW5NVjVsVDlWSGU1aVAzbVlzZjFJbF9fR2luQ2RZSkJXcFhQRi1EQm1IS1Mwenh3NnZ4bEFLbFRfVlctVFdJZ2V0d1ZxdHJoWDQxbE15dUFzOG8xdlFVMkU5RHUtemJucw?oc=5)
+Source: [The Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxPbWU3d3J5RG93UFJMTl83c1ZvZ1h6X1Vnb2R0STRiWUEwbVBuV2xFR25INWxsdDRjeTJJVDFTcklwV3hodXpzY2E1WW94WUZEajBBVUF2djJlbzM4QjNnVkVTOUhzYmNqQkotMmpjSEdhU2ZfTHBxS2tBYWdHY25DT0FBRXhXMy1obng3WlgwU09nZw?oc=5)
 
 ---
 

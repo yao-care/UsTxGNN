@@ -14,7 +14,7 @@ permalink: /news/rutin/
 ---
 
 <p class="key-answer" data-question="What news is there about Rutin?">
-<strong>Rutin</strong> currently has <strong>7 news articles</strong>, with 8 predicted indications.
+<strong>Rutin</strong> currently has <strong>9 news articles</strong>, with 8 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -39,19 +39,27 @@ This page combines the AI-predicted indications for Rutin with the latest health
 <p><a href="{{ '/drugs/rutin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (9)
 
-### [Dana-Farber, Beth Israel begin construction of new $1.68 billion cancer hospital - The Boston Globe](https://news.google.com/rss/articles/CBMiggFBVV95cUxQZjhiOFlFX1NhcVlGaWtuVGdiRW51U05DeEVkNzV5V3dOZnpXTUJkUXYwLW1td1dZdjJZSktzVFFHTmR4OGZOeTk4a2pBZ2hYVDJMSmVpS0J4dlNjN096VldYQU5ZNzFoSHJ0S2IyZnF1MFhIY2h0SDFLWlNHdXJBN3Fn?oc=5)
+### [This Common Snacking Habit Could Increase Your Chance of Liver Disease by 30%, Study Finds](https://news.google.com/rss/articles/CBMiigFBVV95cUxNSUJKQm4yTlhIeEJLOWZSU0x3ZzRxUmk3SW9SQ0t3WUdPRFJlbktONnd5WnQ2ekI2ZjRLX0NGS1RkMVFIRDg0aXkyNHhGeTdpSE9rcm1iYTJsMWhHcnBnNm9KcURLQ3h2SVpVamN5a0dJTGdYeWZXQmlpT0d2cjdtbmNSWkZBaDZnVmc?oc=5)
 
-2026-10-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-10-19 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">IBD</span>
 
-Source: [The Boston Globe](https://news.google.com/rss/articles/CBMiggFBVV95cUxQZjhiOFlFX1NhcVlGaWtuVGdiRW51U05DeEVkNzV5V3dOZnpXTUJkUXYwLW1td1dZdjJZSktzVFFHTmR4OGZOeTk4a2pBZ2hYVDJMSmVpS0J4dlNjN096VldYQU5ZNzFoSHJ0S2IyZnF1MFhIY2h0SDFLWlNHdXJBN3Fn?oc=5)
+Source: [Prevention](https://news.google.com/rss/articles/CBMiigFBVV95cUxNSUJKQm4yTlhIeEJLOWZSU0x3ZzRxUmk3SW9SQ0t3WUdPRFJlbktONnd5WnQ2ekI2ZjRLX0NGS1RkMVFIRDg0aXkyNHhGeTdpSE9rcm1iYTJsMWhHcnBnNm9KcURLQ3h2SVpVamN5a0dJTGdYeWZXQmlpT0d2cjdtbmNSWkZBaDZnVmc?oc=5)
+
+---
+
+### [Bird flu detected in Washington dairy cattle for first time, with 1 human case reported](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNVE1bTM0aUdrYlNFMS0yQ3dFUzB6WEs4bzQ5QzE2RVpuV1hxNElJX3hHbVM1Y1ZCNTBlemJJREJqRlBBOXRxbldSRVI1dk1Zdm9wVmhhZ25IQ3NRNmg2N0dxVW1NY25BalJ3UzRDQUdjM2lJZTRmZW5SSW83YzV1emZlcWNOcFNablR0ZmJGMlVKdWFNWGdSNTdQZ3pSLUtMeU1JNkM0WlNPeVdPand1bmFvc0dlVnIwWEhleHlIcTkzZk9idHkxWHd4SXBPQ2hlY0dqNU14RWY2NVJzbTA4?oc=5)
+
+2026-10-19 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">flu</span> <span class="news-indication-tag">UC</span>
+
+Source: [KING5.com](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNVE1bTM0aUdrYlNFMS0yQ3dFUzB6WEs4bzQ5QzE2RVpuV1hxNElJX3hHbVM1Y1ZCNTBlemJJREJqRlBBOXRxbldSRVI1dk1Zdm9wVmhhZ25IQ3NRNmg2N0dxVW1NY25BalJ3UzRDQUdjM2lJZTRmZW5SSW83YzV1emZlcWNOcFNablR0ZmJGMlVKdWFNWGdSNTdQZ3pSLUtMeU1JNkM0WlNPeVdPand1bmFvc0dlVnIwWEhleHlIcTkzZk9idHkxWHd4SXBPQ2hlY0dqNU14RWY2NVJzbTA4?oc=5)
 
 ---
 
 ### [ADHD Drugs May Reduce The Risk of Early Death, Major Study Finds](https://news.google.com/rss/articles/CBMilwFBVV95cUxNaGNoMnBaZmZzcm9EQl9uMG1fWGFQd0NacDEwNm5BblhuMEJ0YVBPcFQwTGNSdm9xWnF6VkNEUGFUcGFmX0ZocTRrZXZ2UEluOFIzUDJvTS1NOGRhQWszVkowNklvMmNOa3F4cnNSMWVnbHRyU1RmQW1HbGdpTlM4bXE0MDV6RDdaOTlBTHpmbWcxbmdNN2pB?oc=5)
 
-2026-10-19 <span class="news-indication-tag">UC</span>
+2026-10-19 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMilwFBVV95cUxNaGNoMnBaZmZzcm9EQl9uMG1fWGFQd0NacDEwNm5BblhuMEJ0YVBPcFQwTGNSdm9xWnF6VkNEUGFUcGFmX0ZocTRrZXZ2UEluOFIzUDJvTS1NOGRhQWszVkowNklvMmNOa3F4cnNSMWVnbHRyU1RmQW1HbGdpTlM4bXE0MDV6RDdaOTlBTHpmbWcxbmdNN2pB?oc=5)
 
@@ -86,6 +94,14 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMirAFBVV95cUxNZlla
 2026-10-17 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [WTOP News](https://news.google.com/rss/articles/CBMivwFBVV95cUxOMHVnbFVJSUFfb2N4VmdINTNUTzQ5M0lIRVYxRmRpVExKUTZ0YWpDMFhoRHJBVnkyV0k3R091VFJpS1JDLUwzVHNGczdpUHN5TXBPTXg2TE5oZjRnZC1TM1hUdDFiLW8ycUcySzhGcnZCZk1keGxycHZ3bjlGalJOSjJFcTdTNHliY2dSSWRkYml2Q012cmpLTkZWLVhjcVRMWmFxVXZHSUJWSEU2UnVPMUJqMHMtYk9pQ3hiTm5VUQ?oc=5)
+
+---
+
+### ['Could be counterproductive': Why too much protein can actually be unhealthy, according to nutrition experts - BBC Science Focus Magazine](https://news.google.com/rss/articles/CBMijgFBVV95cUxPZHlrSTU2ZlJnN0Z3OVhGYWk2MC1ZYU1PMlpRVkVWSmVqOWhrMzhBa3hSa3dtY003cUtYTzl5VkVSZ0lDSmR4dlk1dlVka2xndkJ1UUR1SERvdXdGM0tYMFRVZkNkTlhkckNDLTNhdWljY1dVT0pNZm5ZXzlDM090eW96VW41QjBGckdKY3J3?oc=5)
+
+2026-10-17 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [BBC Science Focus Magazine](https://news.google.com/rss/articles/CBMijgFBVV95cUxPZHlrSTU2ZlJnN0Z3OVhGYWk2MC1ZYU1PMlpRVkVWSmVqOWhrMzhBa3hSa3dtY003cUtYTzl5VkVSZ0lDSmR4dlk1dlVka2xndkJ1UUR1SERvdXdGM0tYMFRVZkNkTlhkckNDLTNhdWljY1dVT0pNZm5ZXzlDM090eW96VW41QjBGckdKY3J3?oc=5)
 
 ---
 

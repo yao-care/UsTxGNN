@@ -3,7 +3,7 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 4 articles, 2 related drugs."
+description: "Health news about flu (influenza). 3 articles, 2 related drugs."
 permalink: /news/influenza/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/influenza/
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>4 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>3 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,15 +30,7 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (4)
-
-### [Bird flu detected in Washington dairy cattle for first time, with 1 human case reported](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNVE1bTM0aUdrYlNFMS0yQ3dFUzB6WEs4bzQ5QzE2RVpuV1hxNElJX3hHbVM1Y1ZCNTBlemJJREJqRlBBOXRxbldSRVI1dk1Zdm9wVmhhZ25IQ3NRNmg2N0dxVW1NY25BalJ3UzRDQUdjM2lJZTRmZW5SSW83YzV1emZlcWNOcFNablR0ZmJGMlVKdWFNWGdSNTdQZ3pSLUtMeU1JNkM0WlNPeVdPand1bmFvc0dlVnIwWEhleHlIcTkzZk9idHkxWHd4SXBPQ2hlY0dqNU14RWY2NVJzbTA4?oc=5)
-
-2026-10-19
-
-Source: [KING5.com](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNVE1bTM0aUdrYlNFMS0yQ3dFUzB6WEs4bzQ5QzE2RVpuV1hxNElJX3hHbVM1Y1ZCNTBlemJJREJqRlBBOXRxbldSRVI1dk1Zdm9wVmhhZ25IQ3NRNmg2N0dxVW1NY25BalJ3UzRDQUdjM2lJZTRmZW5SSW83YzV1emZlcWNOcFNablR0ZmJGMlVKdWFNWGdSNTdQZ3pSLUtMeU1JNkM0WlNPeVdPand1bmFvc0dlVnIwWEhleHlIcTkzZk9idHkxWHd4SXBPQ2hlY0dqNU14RWY2NVJzbTA4?oc=5)
-
----
+## Related News (3)
 
 ### [Early flu season lands in WA as COVID numbers also rise - The Seattle Times](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQWZTMEc3M2F3Nm4taFZJTkJuU24wX1VWTHg5em9nQWJtSllSMjQyUEp4WXEzMDA3RFpxVnMxZ0lCcWQwcTVQVy0yejluN3A3dUExVHBockNzQ1BrUTlHSDlzSUVIWExrbmc4alJVMUNJY0pnaEh3VHhkbnVfWUVpLXJRWWpEbnZYcVU2MXVJU3VVRmFVd1dQaHMyY1ZLV18tX29nN3daTC0?oc=5)
 

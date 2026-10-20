@@ -22,7 +22,7 @@ AI-powered drug repurposing predictions for US FDA approved drugs using the TxGN
 
 ## Overview
 
-UsTxGNN leverages the [TxGNN](https://www.nature.com/articles/s41591-024-03233-x) knowledge graph to identify potential new therapeutic uses for existing FDA-approved drugs. This approach, known as drug repurposing or drug repositioning, can accelerate the discovery of new treatments by building on established safety profiles.
+UsTxGNN leverages the [TxGNN](https://www.nature.com/articles/s41591-024-03233-x) graph neural network to identify potential new therapeutic uses for existing FDA-approved drugs. This approach, known as drug repurposing or drug repositioning, can accelerate the discovery of new treatments by building on established safety profiles.
 
 ### Key Features
 
@@ -37,7 +37,7 @@ UsTxGNN leverages the [TxGNN](https://www.nature.com/articles/s41591-024-03233-x
 | Source | Description |
 |:-------|:------------|
 | [US FDA NDC](https://www.fda.gov/drugs/drug-approvals-and-databases/national-drug-code-directory) | National Drug Code Directory |
-| [TxGNN](https://zitniklab.hms.harvard.edu/projects/TxGNN/) | Therapeutic knowledge graph |
+| [TxGNN](https://zitniklab.hms.harvard.edu/projects/TxGNN/) | Graph neural network trained on a therapeutic knowledge graph |
 | [DrugBank](https://go.drugbank.com/) | Drug and target information |
 | [ClinicalTrials.gov](https://clinicaltrials.gov/) | Clinical trial evidence |
 | [PubMed](https://pubmed.ncbi.nlm.nih.gov/) | Biomedical literature |

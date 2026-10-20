@@ -3,7 +3,7 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 3 articles, 2 related drugs."
+description: "Health news about flu (influenza). 2 articles, 2 related drugs."
 permalink: /news/influenza/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/influenza/
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>3 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>2 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,21 +30,13 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (3)
+## Related News (2)
 
-### [Early US flu season, current strain may signal risk for younger people; doctors urge shots](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQkkwaGluQTB2SS1DUmlvT0JGb3pqbXNGV3FWM0txZlZJZzRla1pRMk8tNHZBQXFZSkllZDl4WjdyU01LY3kwZ1ZIVVBOODYyQW5KRklOLVZ5QjI4UDhEeWlKenpicXJFMWY5cXhvZWllVnR5MWJIWDRIUHZoVjI4Tk5aLTBQUWhKd0xZSlUya1Q0ek9DSmttb2RyTTF6bTFzODdGLW9lSW1rdXE2anpkdUQ1WnFsLTFMQThtUHVoNzExQTdIdDV2M2JlOGU0ZWpVeXIwSXBNbmdLVEVFYVllWWtWZ2o?oc=5)
+### [Early flu season, current strain may signal risk for younger people; doctors urge shots](https://news.google.com/rss/articles/CBMivwFBVV95cUxOX09CQTdHNTZxcTZvZ0VVQ0tEQkdGeE8zellLVEFWVUZWWk9JUVZneE9Bd2djUVFDY0ltWE8tNFNKVFJ4MVEwamFmNzdTd0lSN01ZZVBWN1FaYmhoYmpZT3hidjhDRU1mREpMREtXd0NlRUIzU0gyVlBwOHNZUmtBNzEtcV9OclZzSHktX3czRmJ2dnJFWm9lSFh4Z2xFS25XVVBtRjBOckxGb0swZFJvZ0NxaDg4bUdpTkdYejZ3RQ?oc=5)
 
 2026-10-20
 
-Source: [Reuters](https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQkkwaGluQTB2SS1DUmlvT0JGb3pqbXNGV3FWM0txZlZJZzRla1pRMk8tNHZBQXFZSkllZDl4WjdyU01LY3kwZ1ZIVVBOODYyQW5KRklOLVZ5QjI4UDhEeWlKenpicXJFMWY5cXhvZWllVnR5MWJIWDRIUHZoVjI4Tk5aLTBQUWhKd0xZSlUya1Q0ek9DSmttb2RyTTF6bTFzODdGLW9lSW1rdXE2anpkdUQ1WnFsLTFMQThtUHVoNzExQTdIdDV2M2JlOGU0ZWpVeXIwSXBNbmdLVEVFYVllWWtWZ2o?oc=5)
-
----
-
-### [Several dead geese and ducks recovered from North Charleston’s Quarterman Pond - Live 5 News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUUR3S3c2eUpRNHJCZkhJcXBDSGw2LWRualVUUVRMTHVEa3pnSUIyMnVpSGk0MWlHeWRaLXJlNWYyUW1pTUZXX0N4bjNjazBqZVlnUlpYWUFFdHdaOXdMUVo0eWVSWjZEOFFkMlJxa0V3bWpPcDRTSi0tUHFZalc4clZlaDV6OWtMOVJuS2gzMWpJYkJqS1RjWF8zTHdZX2ZCMGRVby14TVBjZ9IBvgFBVV95cUxOV3l0ZGV5bXA5Y1czR2tUbDY4emJPMm92azllMmtMS3BYSEhnbDJDNWVfSE9RZVJpdUs1TTdiclludXkwME1TMThrOU91MnU5QkxTcW85YTJGMGxWVzl2M0tKSkJTck8wMXlWQjhGTTA4anNLczFzS2M0RjFrZ3R2RGg3UWw5WGZRYVl1Mm1ZdDRxVW9GSUdlWGZSTHZ0ZmRCVlRsdGdMZVdYTHlfZkxmU1VUN0VLN25mSWdmMXFn?oc=5)
-
-2026-10-19
-
-Source: [Live 5 News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUUR3S3c2eUpRNHJCZkhJcXBDSGw2LWRualVUUVRMTHVEa3pnSUIyMnVpSGk0MWlHeWRaLXJlNWYyUW1pTUZXX0N4bjNjazBqZVlnUlpYWUFFdHdaOXdMUVo0eWVSWjZEOFFkMlJxa0V3bWpPcDRTSi0tUHFZalc4clZlaDV6OWtMOVJuS2gzMWpJYkJqS1RjWF8zTHdZX2ZCMGRVby14TVBjZ9IBvgFBVV95cUxOV3l0ZGV5bXA5Y1czR2tUbDY4emJPMm92azllMmtMS3BYSEhnbDJDNWVfSE9RZVJpdUs1TTdiclludXkwME1TMThrOU91MnU5QkxTcW85YTJGMGxWVzl2M0tKSkJTck8wMXlWQjhGTTA4anNLczFzS2M0RjFrZ3R2RGg3UWw5WGZRYVl1Mm1ZdDRxVW9GSUdlWGZSTHZ0ZmRCVlRsdGdMZVdYTHlfZkxmU1VUN0VLN25mSWdmMXFn?oc=5)
+Source: [KSL](https://news.google.com/rss/articles/CBMivwFBVV95cUxOX09CQTdHNTZxcTZvZ0VVQ0tEQkdGeE8zellLVEFWVUZWWk9JUVZneE9Bd2djUVFDY0ltWE8tNFNKVFJ4MVEwamFmNzdTd0lSN01ZZVBWN1FaYmhoYmpZT3hidjhDRU1mREpMREtXd0NlRUIzU0gyVlBwOHNZUmtBNzEtcV9OclZzSHktX3czRmJ2dnJFWm9lSFh4Z2xFS25XVVBtRjBOckxGb0swZFJvZ0NxaDg4bUdpTkdYejZ3RQ?oc=5)
 
 ---
 

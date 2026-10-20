@@ -43,19 +43,11 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 
 ## Related News (11)
 
-### [How I got through cancer at 38 — and what it taught me - The Washington Post](https://news.google.com/rss/articles/CBMingFBVV95cUxOSC1vN3JJdFZtdjAwSEVLdEVZQlQzRlFuT1RkLW0wOEN5R01uQ3YxbFV1eFg1cmVvZ2NxR09RWGFwTFl4NGlobGxobU9KY1BsUzUzNlphdkNZSk14WUNsZFF4aUl1TGFjelJEYm1mVGp6RGd2YXBaQ3J3VTlwckJOb3JKUUFiRHc2OWFRc1JOanRPMXN3ZV85ejQta2pfdw?oc=5)
+### [Colon cancer is now the second-leading cause of cancer death](https://news.google.com/rss/articles/CBMie0FVX3lxTE96UEtYZTFFUzZ2X3BVdnBnMHNvVmQ4VlFDUEp4aHFQVXJxLTJ4a0tSUnIzVEIzR1RETXdhOHJJX1REM3ZBZ2VOQ3B6cDdSampHdnYyZVBRek45RHF5MXR3dnN2YVhVcFNIZGxORkZpUTZwQ0NnVUFic1JBbw?oc=5)
 
 2026-10-20 <span class="news-indication-tag">cancer</span>
 
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMingFBVV95cUxOSC1vN3JJdFZtdjAwSEVLdEVZQlQzRlFuT1RkLW0wOEN5R01uQ3YxbFV1eFg1cmVvZ2NxR09RWGFwTFl4NGlobGxobU9KY1BsUzUzNlphdkNZSk14WUNsZFF4aUl1TGFjelJEYm1mVGp6RGd2YXBaQ3J3VTlwckJOb3JKUUFiRHc2OWFRc1JOanRPMXN3ZV85ejQta2pfdw?oc=5)
-
----
-
-### [How a photo of a patient’s face could predict whether they’ll survive cancer - The Washington Post](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTkJuQ0dkdjc1aDYwbU9IT1Q1OGNxUjFHWFpSSm5fTFhiUkJXM1c2ODNHZG9VX3c1ZlVJakN1SkJ5djJ1MGhMRllKMlZVVGMwekliekVuMnN4TncxQ09DTlJRUGpUd0hyd2w5bDhpY085VGktVWRSMTNaZjNqWXJ0STYzMTJualpHXzBhRHVRVVBRSVB0YU9kWlFxZ001LXEzUkNVdFBua2wyak1OY0IxRjF3TnVSRE5l?oc=5)
-
-2026-10-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
-
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTkJuQ0dkdjc1aDYwbU9IT1Q1OGNxUjFHWFpSSm5fTFhiUkJXM1c2ODNHZG9VX3c1ZlVJakN1SkJ5djJ1MGhMRllKMlZVVGMwekliekVuMnN4TncxQ09DTlJRUGpUd0hyd2w5bDhpY085VGktVWRSMTNaZjNqWXJ0STYzMTJualpHXzBhRHVRVVBRSVB0YU9kWlFxZ001LXEzUkNVdFBua2wyak1OY0IxRjF3TnVSRE5l?oc=5)
+Source: [WPBF](https://news.google.com/rss/articles/CBMie0FVX3lxTE96UEtYZTFFUzZ2X3BVdnBnMHNvVmQ4VlFDUEp4aHFQVXJxLTJ4a0tSUnIzVEIzR1RETXdhOHJJX1REM3ZBZ2VOQ3B6cDdSampHdnYyZVBRek45RHF5MXR3dnN2YVhVcFNIZGxORkZpUTZwQ0NnVUFic1JBbw?oc=5)
 
 ---
 
@@ -75,17 +67,25 @@ Source: [The Washington Post](https://news.google.com/rss/articles/CBMiuAFBVV95c
 
 ---
 
-### [Colon cancer is now the second-leading cause of cancer death](https://news.google.com/rss/articles/CBMie0FVX3lxTE04OFM4bkhaemVDSHpINk1ZM0VhNl9EeWdOUkt1REdWeWwzbzJYVDlDTE9lbzZmLWtLWklNU240VXJ3b1Y2TnJFWFJmSG1IWTktYkY5S1NUczFjN2c2TXJIdlVvOUFCRkI3MTc5bGJxSXlmZ29DZF9McEt2UQ?oc=5)
+### [How a photo of a patient’s face could predict whether they’ll survive cancer - The Washington Post](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTkJuQ0dkdjc1aDYwbU9IT1Q1OGNxUjFHWFpSSm5fTFhiUkJXM1c2ODNHZG9VX3c1ZlVJakN1SkJ5djJ1MGhMRllKMlZVVGMwekliekVuMnN4TncxQ09DTlJRUGpUd0hyd2w5bDhpY085VGktVWRSMTNaZjNqWXJ0STYzMTJualpHXzBhRHVRVVBRSVB0YU9kWlFxZ001LXEzUkNVdFBua2wyak1OY0IxRjF3TnVSRE5l?oc=5)
 
-2026-10-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+2026-10-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
-Source: [WESH](https://news.google.com/rss/articles/CBMie0FVX3lxTE04OFM4bkhaemVDSHpINk1ZM0VhNl9EeWdOUkt1REdWeWwzbzJYVDlDTE9lbzZmLWtLWklNU240VXJ3b1Y2TnJFWFJmSG1IWTktYkY5S1NUczFjN2c2TXJIdlVvOUFCRkI3MTc5bGJxSXlmZ29DZF9McEt2UQ?oc=5)
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTkJuQ0dkdjc1aDYwbU9IT1Q1OGNxUjFHWFpSSm5fTFhiUkJXM1c2ODNHZG9VX3c1ZlVJakN1SkJ5djJ1MGhMRllKMlZVVGMwekliekVuMnN4TncxQ09DTlJRUGpUd0hyd2w5bDhpY085VGktVWRSMTNaZjNqWXJ0STYzMTJualpHXzBhRHVRVVBRSVB0YU9kWlFxZ001LXEzUkNVdFBua2wyak1OY0IxRjF3TnVSRE5l?oc=5)
+
+---
+
+### [How I got through cancer at 38 — and what it taught me - The Washington Post](https://news.google.com/rss/articles/CBMingFBVV95cUxOSC1vN3JJdFZtdjAwSEVLdEVZQlQzRlFuT1RkLW0wOEN5R01uQ3YxbFV1eFg1cmVvZ2NxR09RWGFwTFl4NGlobGxobU9KY1BsUzUzNlphdkNZSk14WUNsZFF4aUl1TGFjelJEYm1mVGp6RGd2YXBaQ3J3VTlwckJOb3JKUUFiRHc2OWFRc1JOanRPMXN3ZV85ejQta2pfdw?oc=5)
+
+2026-10-20 <span class="news-indication-tag">cancer</span>
+
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMingFBVV95cUxOSC1vN3JJdFZtdjAwSEVLdEVZQlQzRlFuT1RkLW0wOEN5R01uQ3YxbFV1eFg1cmVvZ2NxR09RWGFwTFl4NGlobGxobU9KY1BsUzUzNlphdkNZSk14WUNsZFF4aUl1TGFjelJEYm1mVGp6RGd2YXBaQ3J3VTlwckJOb3JKUUFiRHc2OWFRc1JOanRPMXN3ZV85ejQta2pfdw?oc=5)
 
 ---
 
 ### [Lung cancer can grow silently for years, here’s who qualifies for screening - Fox News](https://news.google.com/rss/articles/CBMiigFBVV95cUxQYUwwMWxEbzVMbjFfOXZvN3N5TTlrU3JDbEpraWZaOEJYSFlWVE4yS3NLcWpuWVhaMWc3SWxRSWFrVVNmVlF4UnBTQUxmVi1mbUU0U19CZGpHUkM2NFNGOUdDTnkyYko4cWEyMmJtcW9SbVhZNDFZMi1YVXBCclZNVGZycmR2X0VQcFHSAY8BQVVfeXFMUFROYnpRUG9FSTc4OUZtQ1Z3UXdvNVdsMU01TGM1TGU4UFdlRU5VMFp0T1lfb1hDa1RCb0pPcmF1Z1lYd2tMRmZRUjhMbFZhLVdfejc0aFBwT3E1TjNiTmZ5Mm5DUi1Ob3ZvODFQV1VpbHh3bE5pcy1KUExmWi1DSGdPUHFMRmhUUVpCSHlIOW8?oc=5)
 
-2026-10-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span>
+2026-10-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
 
 Source: [Fox News](https://news.google.com/rss/articles/CBMiigFBVV95cUxQYUwwMWxEbzVMbjFfOXZvN3N5TTlrU3JDbEpraWZaOEJYSFlWVE4yS3NLcWpuWVhaMWc3SWxRSWFrVVNmVlF4UnBTQUxmVi1mbUU0U19CZGpHUkM2NFNGOUdDTnkyYko4cWEyMmJtcW9SbVhZNDFZMi1YVXBCclZNVGZycmR2X0VQcFHSAY8BQVVfeXFMUFROYnpRUG9FSTc4OUZtQ1Z3UXdvNVdsMU01TGM1TGU4UFdlRU5VMFp0T1lfb1hDa1RCb0pPcmF1Z1lYd2tMRmZRUjhMbFZhLVdfejc0aFBwT3E1TjNiTmZ5Mm5DUi1Ob3ZvODFQV1VpbHh3bE5pcy1KUExmWi1DSGdPUHFMRmhUUVpCSHlIOW8?oc=5)
 
@@ -107,11 +107,11 @@ Source: [Phys.org](https://news.google.com/rss/articles/CBMifEFVX3lxTE1QYW5TMFFu
 
 ---
 
-### [11Alive investigation into unusually high thyroid cancer rates in northeast Georgia sparks new research](https://news.google.com/rss/articles/CBMiuAJBVV95cUxNTjl1ZmVicUpVai12bmZnR2Q5QU90M2JHbl9PX3pVeXVya2JLRVRYeGpNekxZNUh5cFlxWElUU19JVEliQ0cxRDFPSmI1LXNXVjBuZEdQenQ0dWpuZ1Q0OVNhMy1NV2wxOTJ0Y1dBRG1mdWRUOUxCQ0ZRYS1XaXJOdktURTJIUU9hcU1fUGFZX01BOF9iLWp0Z2lHNWo2NUQxbjZMdHNvTDJDdUdTV2RuVmFuNUpxcTFLcXQ5UjJiLUladDRDNEUybGpVRlc4Z21GOXdQN0lsNGYyM1RJa0g2cldXWTZVRl9qeWRfbUhKeXdUZ2tlWWJzQktMZmgxWVd2WW5sTDE0VHdROWZFZVNMMjYzLW1CMS11Umw4b29uQ05DaTkzR2s1YTh1MUFOeWVIY3VTMUF0cVc?oc=5)
+### [The #1 Snack to Eat During Cancer Treatment to Soothe an Upset Stomach](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQmd1ek5DYWlCcVY1cGN2TDRpZzcyWUlZT0M3eE5rM20tOXZTV2VFTUN5RXFjWGdvbGtCdG1sMjZ0U3ZydHBvUmtrM3Y2VTBuZWtERWhqalNOSWtsRnM1YmlNWTJncU42TDBZeFNTMUNyMjJlajVmY1c2clB6VUxGcDRFbG56N09L?oc=5)
 
-2026-10-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+2026-10-19 <span class="news-indication-tag">cancer</span>
 
-Source: [11Alive.com](https://news.google.com/rss/articles/CBMiuAJBVV95cUxNTjl1ZmVicUpVai12bmZnR2Q5QU90M2JHbl9PX3pVeXVya2JLRVRYeGpNekxZNUh5cFlxWElUU19JVEliQ0cxRDFPSmI1LXNXVjBuZEdQenQ0dWpuZ1Q0OVNhMy1NV2wxOTJ0Y1dBRG1mdWRUOUxCQ0ZRYS1XaXJOdktURTJIUU9hcU1fUGFZX01BOF9iLWp0Z2lHNWo2NUQxbjZMdHNvTDJDdUdTV2RuVmFuNUpxcTFLcXQ5UjJiLUladDRDNEUybGpVRlc4Z21GOXdQN0lsNGYyM1RJa0g2cldXWTZVRl9qeWRfbUhKeXdUZ2tlWWJzQktMZmgxWVd2WW5sTDE0VHdROWZFZVNMMjYzLW1CMS11Umw4b29uQ05DaTkzR2s1YTh1MUFOeWVIY3VTMUF0cVc?oc=5)
+Source: [EatingWell](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQmd1ek5DYWlCcVY1cGN2TDRpZzcyWUlZT0M3eE5rM20tOXZTV2VFTUN5RXFjWGdvbGtCdG1sMjZ0U3ZydHBvUmtrM3Y2VTBuZWtERWhqalNOSWtsRnM1YmlNWTJncU42TDBZeFNTMUNyMjJlajVmY1c2clB6VUxGcDRFbG56N09L?oc=5)
 
 ---
 

@@ -5,8 +5,6 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 727
 evidence_level: L4
 indication_count: 1
-monitor_inn: "FLURAZEPAM"
-predicted_indications: ["sleep disorder, initiating and maintaining sleep"]
 last_modified_at: 2026-10-14
 description: "Flurazepam: predicted new indication Sleep disorder, initiating and maintaining sleep (evidence level L4). Approved use: Insomnia"
 ---

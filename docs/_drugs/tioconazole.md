@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-14
 description: "Tioconazole: predicted new indication Vulvovaginitis (evidence level L3). Approved use: Vulvovaginal candidiasis"
 monitor_inn: "TIOCONAZOLE"
-predicted_indications: ["vulvitis", "postmenopausal atrophic vaginitis"]
+predicted_indications: ["vulvovaginitis", "vulvitis", "postmenopausal atrophic vaginitis"]
 ---
 
 # Tioconazole

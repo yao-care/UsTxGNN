@@ -5,8 +5,6 @@ parent: Model Prediction Only (L5)
 nav_order: 1208
 evidence_level: L5
 indication_count: 1
-monitor_inn: "TEMAZEPAM"
-predicted_indications: ["sleep disorder, initiating and maintaining sleep"]
 last_modified_at: 2026-10-14
 description: "Temazepam: predicted new indication Sleep disorder, initiating and maintaining sleep (evidence level L5). Approved use: Insomnia"
 ---

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-14
 description: "Vilazodone: predicted new indication Dysthymic disorder (evidence level L5). Approved use: Major depressive disorder"
 monitor_inn: "VILAZODONE"
-predicted_indications: ["agoraphobia", "benign paroxysmal torticollis of infancy", "Keppen-Lubinsky syndrome", "Ohdo syndrome and variants", "schizoid personality disorder"]
+predicted_indications: ["dysthymic disorder", "neurotic disorder", "melancholia", "obsessive-compulsive disorder", "agoraphobia", "benign paroxysmal torticollis of infancy", "Keppen-Lubinsky syndrome", "Ohdo syndrome and variants", "schizoid personality disorder"]
 ---
 
 # Vilazodone

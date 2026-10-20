@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-14
 description: "Mechlorethamine: predicted new indication Lymph node cancer (evidence level L3). Approved use: Mycosis fungoides / primary cutaneous T-cell lymphoma…"
 monitor_inn: "MECHLORETHAMINE"
-predicted_indications: ["lymph node cancer", "relapsing-remitting multiple sclerosis"]
+predicted_indications: ["lymph node cancer", "relapsing-remitting multiple sclerosis", "follicular lymphoma"]
 ---
 
 # Mechlorethamine

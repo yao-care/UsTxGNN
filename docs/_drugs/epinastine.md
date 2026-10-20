@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-10-14
 description: "Epinastine: predicted new indication Rosacea conjunctivitis (evidence level L5). Approved use: Atopic conjunctivitis, papillary conjunctivitis, vernal conjunctivitis"
 monitor_inn: "EPINASTINE"
-predicted_indications: ["allergic urticaria"]
+predicted_indications: ["rosacea conjunctivitis", "allergic urticaria"]
 ---
 
 # Epinastine

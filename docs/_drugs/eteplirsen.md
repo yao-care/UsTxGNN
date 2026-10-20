@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-14
 description: "Eteplirsen: predicted new indication Duchenne and Becker muscular dystrophy (evidence level L5). Approved use: Duchenne muscular dystrophy"
 monitor_inn: "ETEPLIRSEN"
-predicted_indications: ["nebulin-related early-onset distal myopathy", "X-linked myopathy with postural muscle atrophy", "intellectual disability-hyperkinetic movement-truncal ataxia syndrome"]
+predicted_indications: ["Bethlem myopathy", "nebulin-related early-onset distal myopathy", "X-linked myopathy with postural muscle atrophy", "intellectual disability-hyperkinetic movement-truncal ataxia syndrome"]
 ---
 
 # Eteplirsen

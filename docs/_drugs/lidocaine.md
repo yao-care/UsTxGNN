@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 859
 evidence_level: L5
 indication_count: 10
-monitor_inn: "LIDOCAINE"
-predicted_indications: ["punctate epithelial keratoconjunctivitis", "papillary conjunctivitis", "rosacea conjunctivitis", "exposure keratitis", "atopic conjunctivitis", "conjunctival disorder", "nephrotic syndrome", "non-human animal disease", "tinea corporis", "sporadic idiopathic steroid-resistant nephrotic syndrome"]
 last_modified_at: 2026-10-14
 description: "Lidocaine: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). Approved use: Neuralgia, postherpetic neuralgia, dermatitis, hemorrhoids…"
+monitor_inn: "LIDOCAINE"
+predicted_indications: ["punctate epithelial keratoconjunctivitis", "papillary conjunctivitis", "rosacea conjunctivitis", "exposure keratitis", "atopic conjunctivitis", "conjunctival disorder", "nephrotic syndrome", "non-human animal disease", "sporadic idiopathic steroid-resistant nephrotic syndrome"]
 ---
 
 # Lidocaine

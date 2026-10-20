@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-10-14
 description: "Bleomycin: predicted new indication Reticulum cell sarcoma (obsolete term for diffuse large B-cell or his… (evidence level L1). Approved use: Hodgkin lymphoma, non-Hodgkin lymphoma, head and neck can…"
 monitor_inn: "BLEOMYCIN"
-predicted_indications: ["cauda equina neoplasm", "adult astrocytic tumour", "reticulum cell sarcoma", "pulmonary blastoma", "well-differentiated fetal adenocarcinoma of the lung"]
+predicted_indications: ["cauda equina neoplasm", "adult astrocytic tumour", "reticulum cell sarcoma", "primary pulmonary lymphoma", "pulmonary blastoma", "well-differentiated fetal adenocarcinoma of the lung"]
 ---
 
 # Bleomycin

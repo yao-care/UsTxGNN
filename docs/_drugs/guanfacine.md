@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-10-14
 description: "Guanfacine: predicted new indication Faciodigitogenital syndrome (evidence level L5). Approved use: Hypertension"
 monitor_inn: "GUANFACINE"
-predicted_indications: ["faciodigitogenital syndrome", "chondromyxoid fibroma", "trichotillomania", "manic bipolar affective disorder", "restless legs syndrome", "Tourette syndrome"]
+predicted_indications: ["faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "trichotillomania", "manic bipolar affective disorder", "restless legs syndrome", "Tourette syndrome"]
 ---
 
 # Guanfacine

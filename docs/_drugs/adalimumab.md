@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-10-14
 description: "Adalimumab: predicted new indication Rheumatoid vasculitis (evidence level L4). Approved use: Crohn's disease, rheumatoid arthritis, psoriatic arthritis…"
 monitor_inn: "ADALIMUMAB"
-predicted_indications: ["inflammatory spondylopathy", "vertebral disease"]
+predicted_indications: ["hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "vertebral disease"]
 ---
 
 # Adalimumab

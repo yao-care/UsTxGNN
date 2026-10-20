@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-10-14
 description: "Lovastatin: predicted new indication Homozygous familial hypercholesterolemia (evidence level L3). Approved use: Hyperlipidemia (including familial hyperlipidemia…"
 monitor_inn: "LOVASTATIN"
-predicted_indications: ["homozygous familial hypercholesterolemia", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "cholesterol-ester transfer protein deficiency"]
+predicted_indications: ["homozygous familial hypercholesterolemia", "hyperlipoproteinemia", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "cholesterol-ester transfer protein deficiency", "hyperlipidemia due to hepatic triglyceride lipase deficiency"]
 ---
 
 # Lovastatin

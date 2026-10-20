@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-14
 description: "Levothyroxine: predicted new indication Nodular goiter (evidence level L5). Approved use: Hypothyroidism"
 monitor_inn: "LEVOTHYROXINE"
-predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "Potter sequence", "Carney complex"]
+predicted_indications: ["endemic goiter", "renal hypodysplasia/aplasia", "nodular goiter (disease)", "bilateral renal agenesis", "substernal goiter", "lingual goiter", "dyshormonogenic goiter", "nontoxic goiter", "Potter sequence", "Carney complex"]
 ---
 
 # Levothyroxine

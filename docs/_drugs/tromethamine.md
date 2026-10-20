@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-14
 description: "Tromethamine: predicted new indication Allergic urticaria (evidence level L5). Approved use: Atopic conjunctivitis, papillary conjunctivitis, vernal conjunctivitis"
 monitor_inn: "TROMETHAMINE"
-predicted_indications: ["allergic urticaria", "recalcitrant atopic dermatitis", "post-bacterial disorder", "otitis externa", "postinfectious vasculitis", "infective urethral stricture", "post-infectious syndrome", "Chagas cardiomyopathy", "IgE responsiveness, atopic"]
+predicted_indications: ["allergic urticaria", "rosacea conjunctivitis", "recalcitrant atopic dermatitis", "post-bacterial disorder", "otitis externa", "postinfectious vasculitis", "infective urethral stricture", "post-infectious syndrome", "Chagas cardiomyopathy", "IgE responsiveness, atopic"]
 ---
 
 # Tromethamine

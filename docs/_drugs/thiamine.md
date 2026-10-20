@@ -5,10 +5,10 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 1221
 evidence_level: L3
 indication_count: 4
-monitor_inn: "THIAMINE"
-predicted_indications: ["hyperthyroidism", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "primary hereditary glaucoma", "open-angle glaucoma"]
 last_modified_at: 2026-10-14
 description: "Thiamine: predicted new indication Hyperthyroidism (evidence level L3). Approved use: Not available in the compiled data (approved indication text is empty…"
+monitor_inn: "THIAMINE"
+predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta"]
 ---
 
 # Thiamine

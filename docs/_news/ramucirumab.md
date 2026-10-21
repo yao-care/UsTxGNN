@@ -36,9 +36,25 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 
 ### [How a photo of a person’s face could help predict whether they’ll survive cancer treatment](https://news.google.com/rss/articles/CBMihAFBVV95cUxPRXdrSjNVamVIVEhUSUtyQ0plTUJIZ3hRbk8xNnJEN2hSaTlnUmwtTmpISzhDeS1jSHpudXlkdFMtckxacXJNcjkyWkJodW15NF90OHFhUWdlRldIb0MwV0MwU05UNGktaEJ4VG1SOUlKX2FzbDBQMUZ6NDQwWC1RbFlCNGs?oc=5)
 
-2026-10-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+2026-10-21 <span class="news-indication-tag">cancer</span>
 
 Source: [CNN](https://news.google.com/rss/articles/CBMihAFBVV95cUxPRXdrSjNVamVIVEhUSUtyQ0plTUJIZ3hRbk8xNnJEN2hSaTlnUmwtTmpISzhDeS1jSHpudXlkdFMtckxacXJNcjkyWkJodW15NF90OHFhUWdlRldIb0MwV0MwU05UNGktaEJ4VG1SOUlKX2FzbDBQMUZ6NDQwWC1RbFlCNGs?oc=5)
+
+---
+
+### [Spending 30 minutes less on this activity every day lowers risk of several cancers, researchers say - The Independent](https://news.google.com/rss/articles/CBMiigFBVV95cUxQaFN4aEg2bjdUTXFCTXQ5eWxRWDlMdXRmMEd2OXRHeFVBN0tLUUFodTVJWnFNLXpBOUY4WmdCTWdERTNjTmoteHgycXFjOUs3cV9KVU9JN24tWU9nUGhiSXNCUTdIQmFpZnlQZTFOdnpYT2pFWE1wTlRlUk0tb3NKUktuSG04aUpoRXc?oc=5)
+
+2026-10-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMiigFBVV95cUxQaFN4aEg2bjdUTXFCTXQ5eWxRWDlMdXRmMEd2OXRHeFVBN0tLUUFodTVJWnFNLXpBOUY4WmdCTWdERTNjTmoteHgycXFjOUs3cV9KVU9JN24tWU9nUGhiSXNCUTdIQmFpZnlQZTFOdnpYT2pFWE1wTlRlUk0tb3NKUktuSG04aUpoRXc?oc=5)
+
+---
+
+### [Nutritional supplement may help ease 'brain fog' after breast cancer treatment - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVzBfZ3NNN1RSUl8tRjNvYy1iaHNIbzVPdGJJYzZlajVEX2J0MTFhTjljRl9PazRRTVgzZy1GRl9PeHJXa3A4cGUxSFZDN3Y0LXgyQ3FQT1JkaVdtVlZPU0ZjSy1uSzJHUTRPNUVBYk9DclVGZ1ppZlA1R1dlME9BdHMyQ0FlS0I0?oc=5)
+
+2026-10-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVzBfZ3NNN1RSUl8tRjNvYy1iaHNIbzVPdGJJYzZlajVEX2J0MTFhTjljRl9PazRRTVgzZy1GRl9PeHJXa3A4cGUxSFZDN3Y0LXgyQ3FQT1JkaVdtVlZPU0ZjSy1uSzJHUTRPNUVBYk9DclVGZ1ppZlA1R1dlME9BdHMyQ0FlS0I0?oc=5)
 
 ---
 
@@ -66,14 +82,6 @@ Source: [The Washington Post](https://news.google.com/rss/articles/CBMitAFBVV95c
 
 ---
 
-### [How simply sitting less could help reduce your breast cancer risk - The Washington Post](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUmd3TlJ0ekJtR1o0aTk1a0dUV25LbzlnZVAxOXVQLVF6T2tNVmhPUl93OUZESGxJcnJ0QjNqdVEwcXBrUFl0Z1VZUTA2SHczWEJXWGYzWmpWOVhtZkcwbDg4em5iRFI2UXk0QV8zY1ZTWGNuQ0lLVlBGWmFhamxGU01UQXZrakpMdGNsRkFTX3lzanZHc20tWnZ3ZFBDMWpBX25NV19qQkhKajV6cE9rQWxuNHVRcXAx?oc=5)
-
-2026-10-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">UC</span>
-
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUmd3TlJ0ekJtR1o0aTk1a0dUV25LbzlnZVAxOXVQLVF6T2tNVmhPUl93OUZESGxJcnJ0QjNqdVEwcXBrUFl0Z1VZUTA2SHczWEJXWGYzWmpWOVhtZkcwbDg4em5iRFI2UXk0QV8zY1ZTWGNuQ0lLVlBGWmFhamxGU01UQXZrakpMdGNsRkFTX3lzanZHc20tWnZ3ZFBDMWpBX25NV19qQkhKajV6cE9rQWxuNHVRcXAx?oc=5)
-
----
-
 ### [How I got through cancer at 38 — and what it taught me - The Washington Post](https://news.google.com/rss/articles/CBMingFBVV95cUxOSC1vN3JJdFZtdjAwSEVLdEVZQlQzRlFuT1RkLW0wOEN5R01uQ3YxbFV1eFg1cmVvZ2NxR09RWGFwTFl4NGlobGxobU9KY1BsUzUzNlphdkNZSk14WUNsZFF4aUl1TGFjelJEYm1mVGp6RGd2YXBaQ3J3VTlwckJOb3JKUUFiRHc2OWFRc1JOanRPMXN3ZV85ejQta2pfdw?oc=5)
 
 2026-10-20 <span class="news-indication-tag">cancer</span>
@@ -92,17 +100,17 @@ Source: [WWMT](https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQ251RmRxemhQ
 
 ### [Lung cancer can grow silently for years, here’s who qualifies for screening - Fox News](https://news.google.com/rss/articles/CBMiigFBVV95cUxQYUwwMWxEbzVMbjFfOXZvN3N5TTlrU3JDbEpraWZaOEJYSFlWVE4yS3NLcWpuWVhaMWc3SWxRSWFrVVNmVlF4UnBTQUxmVi1mbUU0U19CZGpHUkM2NFNGOUdDTnkyYko4cWEyMmJtcW9SbVhZNDFZMi1YVXBCclZNVGZycmR2X0VQcFHSAY8BQVVfeXFMUFROYnpRUG9FSTc4OUZtQ1Z3UXdvNVdsMU01TGM1TGU4UFdlRU5VMFp0T1lfb1hDa1RCb0pPcmF1Z1lYd2tMRmZRUjhMbFZhLVdfejc0aFBwT3E1TjNiTmZ5Mm5DUi1Ob3ZvODFQV1VpbHh3bE5pcy1KUExmWi1DSGdPUHFMRmhUUVpCSHlIOW8?oc=5)
 
-2026-10-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+2026-10-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span>
 
 Source: [Fox News](https://news.google.com/rss/articles/CBMiigFBVV95cUxQYUwwMWxEbzVMbjFfOXZvN3N5TTlrU3JDbEpraWZaOEJYSFlWVE4yS3NLcWpuWVhaMWc3SWxRSWFrVVNmVlF4UnBTQUxmVi1mbUU0U19CZGpHUkM2NFNGOUdDTnkyYko4cWEyMmJtcW9SbVhZNDFZMi1YVXBCclZNVGZycmR2X0VQcFHSAY8BQVVfeXFMUFROYnpRUG9FSTc4OUZtQ1Z3UXdvNVdsMU01TGM1TGU4UFdlRU5VMFp0T1lfb1hDa1RCb0pPcmF1Z1lYd2tMRmZRUjhMbFZhLVdfejc0aFBwT3E1TjNiTmZ5Mm5DUi1Ob3ZvODFQV1VpbHh3bE5pcy1KUExmWi1DSGdPUHFMRmhUUVpCSHlIOW8?oc=5)
 
 ---
 
-### [Frozen in action: Visualizing how a cancer drug scaffold is built](https://news.google.com/rss/articles/CBMifEFVX3lxTE1QYW5TMFFuUi1kY2RoNnFVYmJfSk9EVnhHelNwemluT1BVVklpeTJrNWlPVUtuMHN0a09MTzBLa3YzUnY3ZnNHeTdpc3Aza0tySzdEUHRZck9sMENKb3RibUc1TkZVc0p5X3h5b19pSzNXeG1MZ3lBVXJYbjE?oc=5)
+### [DNA once dismissed as 'noise' reveals new bacterial species in prostate cancer patients - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNajJrTzlXWkpBMlNNWkhwcmZnckxtc2dpUllqWFJ2YTZIdlFveFlsWDU5S1RBclJkTnFXekJuMjdIeGVqZHVSSkV1Q3dzZUNucVg4ZDRHdWhtZDJGTmdWTDJjR2pBZHpPRC16QVBHRUdSVVVFR2xua29uME1fTXNtclRFZ2dNVHJF?oc=5)
 
 2026-10-19 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span>
 
-Source: [Phys.org](https://news.google.com/rss/articles/CBMifEFVX3lxTE1QYW5TMFFuUi1kY2RoNnFVYmJfSk9EVnhHelNwemluT1BVVklpeTJrNWlPVUtuMHN0a09MTzBLa3YzUnY3ZnNHeTdpc3Aza0tySzdEUHRZck9sMENKb3RibUc1TkZVc0p5X3h5b19pSzNXeG1MZ3lBVXJYbjE?oc=5)
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNajJrTzlXWkpBMlNNWkhwcmZnckxtc2dpUllqWFJ2YTZIdlFveFlsWDU5S1RBclJkTnFXekJuMjdIeGVqZHVSSkV1Q3dzZUNucVg4ZDRHdWhtZDJGTmdWTDJjR2pBZHpPRC16QVBHRUdSVVVFR2xua29uME1fTXNtclRFZ2dNVHJF?oc=5)
 
 ---
 
@@ -119,14 +127,6 @@ Source: [NBC News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUm5MenRE
 2026-10-15 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
 Source: [ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMingFBVV95cUxNNHlzMExUTTQxbl9MYjFmcEtNdXJ4R0p5V05YYXJZaWtNN09NWXROQXJIaExOaWloR2k3SG11SjJmZ1VpNkNEd0Jnb183NEpTOUdzclg5TG5OQW5VQVJYc0t5bFdoTWFJV08wMUZsczM4bzZPM1QyOFBVWVVsWXdGLXN4UThBalV3RzJOVmozcUZZRWFWaDJrZ0lma1Nxd9IBowFBVV95cUxOYjlmaTQ1MzliZGpjVjlBX1EybGxYaVJQWURUZWJXNmg2YTBiUXRjc0hGYkFwdzBEQXlJTnRXQmRfYVI1SUVJbkpCU1VINEJ2a0xtdVduV0RLTkhlLVNXNzl2X0V2RktjRnRRX2xXLVhtekdMelQyczdxZlRDc0VaTTdQM2ZBSVZpMmdXZDUyNGFwX1BOV09pZ1BSLTdTVXZidWxN?oc=5)
-
----
-
-### [Leading Cancer Researcher, 47, Dies of the Disease She Was Trying to Cure. This Was Her 1st Symptom](https://news.google.com/rss/articles/CBMikgFBVV95cUxNUWJGeWpwSV94ZmZaYnotTFBvN3I3X05IT3ZXZWpjNXlxdXZHWHBOZ3czSU01Njg3enJJVjdsUkkycW9xTERFTU44WUtjRmNfZ21GZmJkMEc3bzNPMUE0bWNkN181bWRtMkNQLWE1OWc4SWxKdEFqRE55aGJBeGVSbm5PRjE2UDFOR3hkZElxNW5hQQ?oc=5)
-
-2026-10-14 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
-
-Source: [TODAY.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxNUWJGeWpwSV94ZmZaYnotTFBvN3I3X05IT3ZXZWpjNXlxdXZHWHBOZ3czSU01Njg3enJJVjdsUkkycW9xTERFTU44WUtjRmNfZ21GZmJkMEc3bzNPMUE0bWNkN181bWRtMkNQLWE1OWc4SWxKdEFqRE55aGJBeGVSbm5PRjE2UDFOR3hkZElxNW5hQQ?oc=5)
 
 ---
 

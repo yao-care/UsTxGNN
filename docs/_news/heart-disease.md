@@ -3,7 +3,7 @@ layout: default
 title: "CAD (heart disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about CAD (heart disease). 4 articles, 1 related drugs."
+description: "Health news about CAD (heart disease). 5 articles, 1 related drugs."
 permalink: /news/heart-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/heart-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about CAD (heart disease)?">
-<strong>CAD (heart disease)</strong> currently has <strong>4 news articles</strong> and 1 related drugs.
+<strong>CAD (heart disease)</strong> currently has <strong>5 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ This page brings together the latest health news about “CAD” and lists the d
 </ul>
 </div>
 
-## Related News (4)
+## Related News (5)
 
 ### [How you drink your tea could determine whether you gain or lose heart health benefits](https://news.google.com/rss/articles/CBMinwFBVV95cUxPcGJ6cGJPV1NBS3hsdkpVR2F2QWpiVi1LbVFrWkIzN0gwWVRKVDNTM1pXZTRYT3RkX1JDQllLZThfbGhsSjF1S0xDTlU4YUV3R0VKSGRvemxaMlVtTDRHS0k5dlg0VDE5OGVZZnE4SmhKMVIzUnU2czVqMEFYY3JEZjFLTkNFN19sSnVrd1ZMcVdCUC1KSEVscGtoSVV6Wmc?oc=5)
 
@@ -60,6 +60,14 @@ Source: [Colorado Public Radio](https://news.google.com/rss/articles/CBMigwFBVV9
 2026-10-20
 
 Source: [The Guardian](https://news.google.com/rss/articles/CBMitgFBVV95cUxNSEJmZjlXQXVRR28yU2pNUnk4dEg1UFlEaHlMdm54ckx3c29JSk5IVVByTVVzQU1wc3BjdzVJcm8xQ1F5Q09QbjZCQmFMZWJoS085WFRYeUEtQXBVOWN3UEJQOE9HNkdZbk9TMUVlSGkzTDR6dlFrRVJxY2NsTWFfQkVHNjl5ay0xd1pEVmgtdWNDNGp1b3BUS0R6cjZLWlRPb3YwZlNadnRuenlVV2FrNFZGV21iUQ?oc=5)
+
+---
+
+### [An amygdala-mediated simulation-to-decision cascade aligns interbrain dynamics to solve social dilemmas](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qU3o1WTUtb0EwbVRwQWRLd2JwVVJwZUpOX3JyTkRnMl9ULUNNOTRpWUNHWnFjLTA2YWVlSU8zb0I4bkh2ejA2YzJDT0NBUi14Yy1VOXl6OERQY2VfR2Nv?oc=5)
+
+2026-10-19
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qU3o1WTUtb0EwbVRwQWRLd2JwVVJwZUpOX3JyTkRnMl9ULUNNOTRpWUNHWnFjLTA2YWVlSU8zb0I4bkh2ejA2YzJDT0NBUi14Yy1VOXl6OERQY2VfR2Nv?oc=5)
 
 ---
 

@@ -39,6 +39,22 @@ Source: [CNN](https://news.google.com/rss/articles/CBMihAFBVV95cUxPRXdrSjNVamVIV
 
 ---
 
+### [Spending 30 minutes less on this activity every day lowers risk of several cancers, researchers say - The Independent](https://news.google.com/rss/articles/CBMiigFBVV95cUxQaFN4aEg2bjdUTXFCTXQ5eWxRWDlMdXRmMEd2OXRHeFVBN0tLUUFodTVJWnFNLXpBOUY4WmdCTWdERTNjTmoteHgycXFjOUs3cV9KVU9JN24tWU9nUGhiSXNCUTdIQmFpZnlQZTFOdnpYT2pFWE1wTlRlUk0tb3NKUktuSG04aUpoRXc?oc=5)
+
+2026-10-20
+
+Source: [The Independent](https://news.google.com/rss/articles/CBMiigFBVV95cUxQaFN4aEg2bjdUTXFCTXQ5eWxRWDlMdXRmMEd2OXRHeFVBN0tLUUFodTVJWnFNLXpBOUY4WmdCTWdERTNjTmoteHgycXFjOUs3cV9KVU9JN24tWU9nUGhiSXNCUTdIQmFpZnlQZTFOdnpYT2pFWE1wTlRlUk0tb3NKUktuSG04aUpoRXc?oc=5)
+
+---
+
+### [Nutritional supplement may help ease 'brain fog' after breast cancer treatment - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVzBfZ3NNN1RSUl8tRjNvYy1iaHNIbzVPdGJJYzZlajVEX2J0MTFhTjljRl9PazRRTVgzZy1GRl9PeHJXa3A4cGUxSFZDN3Y0LXgyQ3FQT1JkaVdtVlZPU0ZjSy1uSzJHUTRPNUVBYk9DclVGZ1ppZlA1R1dlME9BdHMyQ0FlS0I0?oc=5)
+
+2026-10-20
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVzBfZ3NNN1RSUl8tRjNvYy1iaHNIbzVPdGJJYzZlajVEX2J0MTFhTjljRl9PazRRTVgzZy1GRl9PeHJXa3A4cGUxSFZDN3Y0LXgyQ3FQT1JkaVdtVlZPU0ZjSy1uSzJHUTRPNUVBYk9DclVGZ1ppZlA1R1dlME9BdHMyQ0FlS0I0?oc=5)
+
+---
+
 ### [The work of four CU Anschutz doctors is kind of a big deal - Colorado Public Radio](https://news.google.com/rss/articles/CBMigwFBVV95cUxOeTgzMUlTQXp0RlFHdFd0NU83bVM5Tnp0MXhIcl9oOVBicXp5V3hLblJGREJ1UDRweE5pcENyWUE1RWdVeXZKZlBFRjRFdDl0QUVHM0FJN0xJYXFva2ltSDFxdFB2RjdZU0xSeXNxeXJJdnFHZ20wZGttOHBDcUVQWHR3TQ?oc=5)
 
 2026-10-20
@@ -60,14 +76,6 @@ Source: [KOCO](https://news.google.com/rss/articles/CBMie0FVX3lxTE1wY05wT1RHNVVz
 2026-10-20
 
 Source: [The Washington Post](https://news.google.com/rss/articles/CBMitAFBVV95cUxNd2lXT214NjFiZGo3XzNiZmZUbFdoX25XbmwtckZySk5OdVdXcVJjVGpIWXhzZVdNb1dUa0E3eWJVX3k1a3dxSm1aMHQydHdRbFhjRi16UExQUTg3cHZfNGFQU2MzYWxTMGlHbWMtdm1RUC1CenV4VVpwWlBKVE9oX00zR1Rwc1R2a1dmSlU4ZWZSdmJpZlRiN0txcE0xYjJFZVYxMk1Nam5zYVNuNjlzLXZOSVo?oc=5)
-
----
-
-### [How simply sitting less could help reduce your breast cancer risk - The Washington Post](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUmd3TlJ0ekJtR1o0aTk1a0dUV25LbzlnZVAxOXVQLVF6T2tNVmhPUl93OUZESGxJcnJ0QjNqdVEwcXBrUFl0Z1VZUTA2SHczWEJXWGYzWmpWOVhtZkcwbDg4em5iRFI2UXk0QV8zY1ZTWGNuQ0lLVlBGWmFhamxGU01UQXZrakpMdGNsRkFTX3lzanZHc20tWnZ3ZFBDMWpBX25NV19qQkhKajV6cE9rQWxuNHVRcXAx?oc=5)
-
-2026-10-20
-
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUmd3TlJ0ekJtR1o0aTk1a0dUV25LbzlnZVAxOXVQLVF6T2tNVmhPUl93OUZESGxJcnJ0QjNqdVEwcXBrUFl0Z1VZUTA2SHczWEJXWGYzWmpWOVhtZkcwbDg4em5iRFI2UXk0QV8zY1ZTWGNuQ0lLVlBGWmFhamxGU01UQXZrakpMdGNsRkFTX3lzanZHc20tWnZ3ZFBDMWpBX25NV19qQkhKajV6cE9rQWxuNHVRcXAx?oc=5)
 
 ---
 
@@ -95,11 +103,11 @@ Source: [Fox News](https://news.google.com/rss/articles/CBMiigFBVV95cUxQYUwwMWxE
 
 ---
 
-### [Frozen in action: Visualizing how a cancer drug scaffold is built](https://news.google.com/rss/articles/CBMifEFVX3lxTE1QYW5TMFFuUi1kY2RoNnFVYmJfSk9EVnhHelNwemluT1BVVklpeTJrNWlPVUtuMHN0a09MTzBLa3YzUnY3ZnNHeTdpc3Aza0tySzdEUHRZck9sMENKb3RibUc1TkZVc0p5X3h5b19pSzNXeG1MZ3lBVXJYbjE?oc=5)
+### [DNA once dismissed as 'noise' reveals new bacterial species in prostate cancer patients - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNajJrTzlXWkpBMlNNWkhwcmZnckxtc2dpUllqWFJ2YTZIdlFveFlsWDU5S1RBclJkTnFXekJuMjdIeGVqZHVSSkV1Q3dzZUNucVg4ZDRHdWhtZDJGTmdWTDJjR2pBZHpPRC16QVBHRUdSVVVFR2xua29uME1fTXNtclRFZ2dNVHJF?oc=5)
 
 2026-10-19
 
-Source: [Phys.org](https://news.google.com/rss/articles/CBMifEFVX3lxTE1QYW5TMFFuUi1kY2RoNnFVYmJfSk9EVnhHelNwemluT1BVVklpeTJrNWlPVUtuMHN0a09MTzBLa3YzUnY3ZnNHeTdpc3Aza0tySzdEUHRZck9sMENKb3RibUc1TkZVc0p5X3h5b19pSzNXeG1MZ3lBVXJYbjE?oc=5)
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNajJrTzlXWkpBMlNNWkhwcmZnckxtc2dpUllqWFJ2YTZIdlFveFlsWDU5S1RBclJkTnFXekJuMjdIeGVqZHVSSkV1Q3dzZUNucVg4ZDRHdWhtZDJGTmdWTDJjR2pBZHpPRC16QVBHRUdSVVVFR2xua29uME1fTXNtclRFZ2dNVHJF?oc=5)
 
 ---
 
@@ -116,14 +124,6 @@ Source: [NBC News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUm5MenRE
 2026-10-15
 
 Source: [ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMingFBVV95cUxNNHlzMExUTTQxbl9MYjFmcEtNdXJ4R0p5V05YYXJZaWtNN09NWXROQXJIaExOaWloR2k3SG11SjJmZ1VpNkNEd0Jnb183NEpTOUdzclg5TG5OQW5VQVJYc0t5bFdoTWFJV08wMUZsczM4bzZPM1QyOFBVWVVsWXdGLXN4UThBalV3RzJOVmozcUZZRWFWaDJrZ0lma1Nxd9IBowFBVV95cUxOYjlmaTQ1MzliZGpjVjlBX1EybGxYaVJQWURUZWJXNmg2YTBiUXRjc0hGYkFwdzBEQXlJTnRXQmRfYVI1SUVJbkpCU1VINEJ2a0xtdVduV0RLTkhlLVNXNzl2X0V2RktjRnRRX2xXLVhtekdMelQyczdxZlRDc0VaTTdQM2ZBSVZpMmdXZDUyNGFwX1BOV09pZ1BSLTdTVXZidWxN?oc=5)
-
----
-
-### [Leading Cancer Researcher, 47, Dies of the Disease She Was Trying to Cure. This Was Her 1st Symptom](https://news.google.com/rss/articles/CBMikgFBVV95cUxNUWJGeWpwSV94ZmZaYnotTFBvN3I3X05IT3ZXZWpjNXlxdXZHWHBOZ3czSU01Njg3enJJVjdsUkkycW9xTERFTU44WUtjRmNfZ21GZmJkMEc3bzNPMUE0bWNkN181bWRtMkNQLWE1OWc4SWxKdEFqRE55aGJBeGVSbm5PRjE2UDFOR3hkZElxNW5hQQ?oc=5)
-
-2026-10-14
-
-Source: [TODAY.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxNUWJGeWpwSV94ZmZaYnotTFBvN3I3X05IT3ZXZWpjNXlxdXZHWHBOZ3czSU01Njg3enJJVjdsUkkycW9xTERFTU44WUtjRmNfZ21GZmJkMEc3bzNPMUE0bWNkN181bWRtMkNQLWE1OWc4SWxKdEFqRE55aGJBeGVSbm5PRjE2UDFOR3hkZElxNW5hQQ?oc=5)
 
 ---
 

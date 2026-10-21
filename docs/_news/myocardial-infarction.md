@@ -3,7 +3,7 @@ layout: default
 title: "MI (myocardial infarction) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about MI (myocardial infarction). 23 articles, 9 related drugs."
+description: "Health news about MI (myocardial infarction). 22 articles, 9 related drugs."
 permalink: /news/myocardial-infarction/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/myocardial-infarction/
 ---
 
 <p class="key-answer" data-question="What news is there about MI (myocardial infarction)?">
-<strong>MI (myocardial infarction)</strong> currently has <strong>23 news articles</strong> and 9 related drugs.
+<strong>MI (myocardial infarction)</strong> currently has <strong>22 news articles</strong> and 9 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,31 @@ This page brings together the latest health news about “MI” and lists the dr
 </ul>
 </div>
 
-## Related News (23)
+## Related News (22)
+
+### [How to Lower Your Alzheimer’s Risk if You Have the APOE4 Gene Variant - The New York Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQMjB3ZFhaQjFhWXRhdWFwU2RmUzFlQkJwSmJtcnMzZjZob2J6SVRLaW13S2JvQ3JTQVVNVmVlcGZHUTJyWmVkdkdCRHdOOGh6OUhXTkRfUzZMUHdqN3ozbG0tbXhZNjdmTGY0UjdLSF9GWXpwbGRDdHhfSFZqVkEwODdEU2U?oc=5)
+
+2026-10-21
+
+Source: [The New York Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQMjB3ZFhaQjFhWXRhdWFwU2RmUzFlQkJwSmJtcnMzZjZob2J6SVRLaW13S2JvQ3JTQVVNVmVlcGZHUTJyWmVkdkdCRHdOOGh6OUhXTkRfUzZMUHdqN3ozbG0tbXhZNjdmTGY0UjdLSF9GWXpwbGRDdHhfSFZqVkEwODdEU2U?oc=5)
+
+---
+
+### [How you drink your tea could determine whether you gain or lose heart health benefits](https://news.google.com/rss/articles/CBMinwFBVV95cUxPcGJ6cGJPV1NBS3hsdkpVR2F2QWpiVi1LbVFrWkIzN0gwWVRKVDNTM1pXZTRYT3RkX1JDQllLZThfbGhsSjF1S0xDTlU4YUV3R0VKSGRvemxaMlVtTDRHS0k5dlg0VDE5OGVZZnE4SmhKMVIzUnU2czVqMEFYY3JEZjFLTkNFN19sSnVrd1ZMcVdCUC1KSEVscGtoSVV6Wmc?oc=5)
+
+2026-10-21
+
+Source: [CNN](https://news.google.com/rss/articles/CBMinwFBVV95cUxPcGJ6cGJPV1NBS3hsdkpVR2F2QWpiVi1LbVFrWkIzN0gwWVRKVDNTM1pXZTRYT3RkX1JDQllLZThfbGhsSjF1S0xDTlU4YUV3R0VKSGRvemxaMlVtTDRHS0k5dlg0VDE5OGVZZnE4SmhKMVIzUnU2czVqMEFYY3JEZjFLTkNFN19sSnVrd1ZMcVdCUC1KSEVscGtoSVV6Wmc?oc=5)
+
+---
+
+### [Germophobe Primates Want to Avoid Getting Sick, Too - The New York Times](https://news.google.com/rss/articles/CBMiigFBVV95cUxOc3hJbkduRm9kOWZvSmtIdnVGOEpzNk5DaXZnQXhPYU1nV3Ewc0pDWUg3RWZiay1kQWpsM20xWWJkZnJaa1BEc3lkb0tqRllyeEJpdTM3ckJpVXp1R0tPQXB4RC1HUndWWG8wdWlrRXNuUUs5cXFPV0pKeXlVOTlELUdxN2V2NWxSZ2c?oc=5)
+
+2026-10-20
+
+Source: [The New York Times](https://news.google.com/rss/articles/CBMiigFBVV95cUxOc3hJbkduRm9kOWZvSmtIdnVGOEpzNk5DaXZnQXhPYU1nV3Ewc0pDWUg3RWZiay1kQWpsM20xWWJkZnJaa1BEc3lkb0tqRllyeEJpdTM3ckJpVXp1R0tPQXB4RC1HUndWWG8wdWlrRXNuUUs5cXFPV0pKeXlVOTlELUdxN2V2NWxSZ2c?oc=5)
+
+---
 
 ### [Earth's Poles Have Dramatically Shifted 4 Times](https://news.google.com/rss/articles/CBMikAFBVV95cUxQb3IySVNvUnVFR0x3YTctdHViU0pNVGFBdnBuTU9RbFMtSmZNRG1NQjNlLUxxRVVDUDM0cmxnMzhuZnI3QzBSekFGQ3dwWk91X1hrT0xyOXB4QWtVbTNvSFJ0RnJNbW5PU25NV0pwbXEzMHYxeTJXX20tVkdWQU9zODRmU0dtT3BXUEw2UEJrMVc?oc=5)
 
@@ -60,6 +84,22 @@ Source: [Ars Technica](https://news.google.com/rss/articles/CBMitwFBVV95cUxOSkVn
 2026-10-20
 
 Source: [The Seattle Times](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZjlHb1lwUTBxT0tyOV9Td21pa3hnbzYxU09HSTlUNzItS3pQa1BvWFNiSXlMeFJlMm84YXhhNFNpWWpJaWNLZXZUMERrdHVvTGVmdWxvR09PX0M4MHpRWUJpR3o3cDVOdE5tZGxrd3o0MnhYVVpQa3NmYS0zeDdNb2Zxbkx0cXd4MV9mX1pqYzEyS0FUSmNua1hWYWtqZFAtMU9FVjlpQk9VSUk?oc=5)
+
+---
+
+### [Early flu season, current strain may signal risk for younger people; doctors urge shots - KSL News](https://news.google.com/rss/articles/CBMivwFBVV95cUxOX09CQTdHNTZxcTZvZ0VVQ0tEQkdGeE8zellLVEFWVUZWWk9JUVZneE9Bd2djUVFDY0ltWE8tNFNKVFJ4MVEwamFmNzdTd0lSN01ZZVBWN1FaYmhoYmpZT3hidjhDRU1mREpMREtXd0NlRUIzU0gyVlBwOHNZUmtBNzEtcV9OclZzSHktX3czRmJ2dnJFWm9lSFh4Z2xFS25XVVBtRjBOckxGb0swZFJvZ0NxaDg4bUdpTkdYejZ3RQ?oc=5)
+
+2026-10-20
+
+Source: [KSL News](https://news.google.com/rss/articles/CBMivwFBVV95cUxOX09CQTdHNTZxcTZvZ0VVQ0tEQkdGeE8zellLVEFWVUZWWk9JUVZneE9Bd2djUVFDY0ltWE8tNFNKVFJ4MVEwamFmNzdTd0lSN01ZZVBWN1FaYmhoYmpZT3hidjhDRU1mREpMREtXd0NlRUIzU0gyVlBwOHNZUmtBNzEtcV9OclZzSHktX3czRmJ2dnJFWm9lSFh4Z2xFS25XVVBtRjBOckxGb0swZFJvZ0NxaDg4bUdpTkdYejZ3RQ?oc=5)
+
+---
+
+### [Exclusive | Young men are injecting testosterone to be more ‘masculine’ — without getting doctors involved - New York Post](https://news.google.com/rss/articles/CBMimwFBVV95cUxOdzBjcVNVWHNtVmtpYkwzdmtnaFZZSG1FS0tIVWhtMEhTZnhJbzFxWmNOQmxWNEsxY29ya3BZSm41b3VlYmlZM1dxVlNLY1R1NjZYSkc1TFRlaXRJWE1ZV3BjelpKdGw2OVVQTEZaaGc4bC01TkN5U2VEN3Z5ZXlLY0lHUVowNVVPaXBoMDVOaGRmUVBLU09SQW1FYw?oc=5)
+
+2026-10-20
+
+Source: [New York Post](https://news.google.com/rss/articles/CBMimwFBVV95cUxOdzBjcVNVWHNtVmtpYkwzdmtnaFZZSG1FS0tIVWhtMEhTZnhJbzFxWmNOQmxWNEsxY29ya3BZSm41b3VlYmlZM1dxVlNLY1R1NjZYSkc1TFRlaXRJWE1ZV3BjelpKdGw2OVVQTEZaaGc4bC01TkN5U2VEN3Z5ZXlLY0lHUVowNVVPaXBoMDVOaGRmUVBLU09SQW1FYw?oc=5)
 
 ---
 
@@ -95,19 +135,11 @@ Source: [Fox News](https://news.google.com/rss/articles/CBMiigFBVV95cUxQYUwwMWxE
 
 ---
 
-### [Scientists might finally have an answer on the origins of your seasonal allergies - The Independent](https://news.google.com/rss/articles/CBMilwFBVV95cUxQX0FINUhuNmhhNzZubmxXX0ZsWUVsUklBMlNmeXJ1SzJ3T01JdC0yUkhMMEVPYjhNLWU1LXo5UHZjdS1Xc3FJMkZpcXB6WF8xRUE3LWxUUU9hMkNzclpycWtzSDQ5bHBJalh2ZFQ5NmtnZXVIZGtUVzZfb09KVzFHdm9TaDZUNHBQWmdfU2w1QWFrcnc5MmtV?oc=5)
+### [Webb reveals metal-rich gas around Milky Way's central black hole](https://news.google.com/rss/articles/CBMib0FVX3lxTE9RQ2tkX3lOcWNtZks0ZnlVeldUdHktSHpmQS0zYVRNTG8teTJFb1ZHX3hwN2xoY0swUE1IYUt0cy1uOUpURWVFLXNOY0d0Nm5yMzRvaG42bjZLMXdqTWEwQU9veEMybWhOdzVIanVmWQ?oc=5)
 
 2026-10-19
 
-Source: [The Independent](https://news.google.com/rss/articles/CBMilwFBVV95cUxQX0FINUhuNmhhNzZubmxXX0ZsWUVsUklBMlNmeXJ1SzJ3T01JdC0yUkhMMEVPYjhNLWU1LXo5UHZjdS1Xc3FJMkZpcXB6WF8xRUE3LWxUUU9hMkNzclpycWtzSDQ5bHBJalh2ZFQ5NmtnZXVIZGtUVzZfb09KVzFHdm9TaDZUNHBQWmdfU2w1QWFrcnc5MmtV?oc=5)
-
----
-
-### [Scientists are unraveling the biggest genetic risk factor for Alzheimer's - Live Science](https://news.google.com/rss/articles/CBMigAJBVV95cUxQY1kxbFhhMUZoZ3dPTzBjQmxHaU00SXpIQmNpSERiMXZ6c2RrN0tIbHZvZ3lCWEdDSGx0OTJLdEZKbUNpVjBrbnNLOTFHeGdHYVlRdzJ2alB2TmhCamotZk5MaW9Eemk5dmNxclFNNnNIWTB0bTRUcVhSUnN6LXlKRnRiNk5IQ0p5b0dkU2lKVUQtc204bXdFNzFnWUpoazkxMlZqY2VYamxlRl9aQUtjOUZBcGdqUjZFZzM2Ujg3MU5taDFFdnBvREZpaFZIaHVfd3VuM01GUnBDLS1uMkdOdFM0UUs0RHR3LWF4OS02ejVhU2VMS3FLZzdfYi1xM2tw?oc=5)
-
-2026-10-19
-
-Source: [Live Science](https://news.google.com/rss/articles/CBMigAJBVV95cUxQY1kxbFhhMUZoZ3dPTzBjQmxHaU00SXpIQmNpSERiMXZ6c2RrN0tIbHZvZ3lCWEdDSGx0OTJLdEZKbUNpVjBrbnNLOTFHeGdHYVlRdzJ2alB2TmhCamotZk5MaW9Eemk5dmNxclFNNnNIWTB0bTRUcVhSUnN6LXlKRnRiNk5IQ0p5b0dkU2lKVUQtc204bXdFNzFnWUpoazkxMlZqY2VYamxlRl9aQUtjOUZBcGdqUjZFZzM2Ujg3MU5taDFFdnBvREZpaFZIaHVfd3VuM01GUnBDLS1uMkdOdFM0UUs0RHR3LWF4OS02ejVhU2VMS3FLZzdfYi1xM2tw?oc=5)
+Source: [Phys.org](https://news.google.com/rss/articles/CBMib0FVX3lxTE9RQ2tkX3lOcWNtZks0ZnlVeldUdHktSHpmQS0zYVRNTG8teTJFb1ZHX3hwN2xoY0swUE1IYUt0cy1uOUpURWVFLXNOY0d0Nm5yMzRvaG42bjZLMXdqTWEwQU9veEMybWhOdzVIanVmWQ?oc=5)
 
 ---
 
@@ -143,27 +175,11 @@ Source: [POLITICO.eu](https://news.google.com/rss/articles/CBMiowFBVV95cUxPZDNlZ
 
 ---
 
-### [Probiotics May Protect From Signs of Early Cognitive Decline, Clinical Trial Finds](https://news.google.com/rss/articles/CBMirwFBVV95cUxNOENBWGw2Vjh6Nm9EUmVKclk2aUhZQUlqTnA2eW1Da3hIWmh0MWpuLTRoU05aNFA4NV8tWjBuN1BDam42ekFEY09WbmN0X1ItSWE3MHd3d0IzUlZaYURYTXk1a1d0VXRILU95MWRiRzl6bnc1ZC1qMXQ0V2lPS3Znd3NObmZ1WTJ0Z2dWQ0xYTk5vdkJGM3VMV3p3b2ZEZUh4WVBJek9JUjlzS1Z1am80?oc=5)
-
-2026-10-19
-
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMirwFBVV95cUxNOENBWGw2Vjh6Nm9EUmVKclk2aUhZQUlqTnA2eW1Da3hIWmh0MWpuLTRoU05aNFA4NV8tWjBuN1BDam42ekFEY09WbmN0X1ItSWE3MHd3d0IzUlZaYURYTXk1a1d0VXRILU95MWRiRzl6bnc1ZC1qMXQ0V2lPS3Znd3NObmZ1WTJ0Z2dWQ0xYTk5vdkJGM3VMV3p3b2ZEZUh4WVBJek9JUjlzS1Z1am80?oc=5)
-
----
-
 ### [How Many Steps a Day Does It Take to Sharpen Your Attention? A 14-Year Study Hints at The Range](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSUU3c1YtS0tUTHdIbjVBa3BFd05UdUs3N09nMnF0aUg4aEw1dkN5bVdqU2hwRDBXYmZNU01OOFJCc3hxMk1KUThqcFdGb25GZ05XWkhiVmNfN01RLXVYYmRSWkVIY216WEs1OUlrNnZKR2wtSDNJOTBfbVhLYURCYWVaU1VZTVNVR0l1QjhqanFtT2dVck1fNG1meHp5RXlFZGpkbVFoM1RSUG90WndxaE84Umd2dDUxeVFveXgwS2k?oc=5)
 
 2026-10-19
 
 Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSUU3c1YtS0tUTHdIbjVBa3BFd05UdUs3N09nMnF0aUg4aEw1dkN5bVdqU2hwRDBXYmZNU01OOFJCc3hxMk1KUThqcFdGb25GZ05XWkhiVmNfN01RLXVYYmRSWkVIY216WEs1OUlrNnZKR2wtSDNJOTBfbVhLYURCYWVaU1VZTVNVR0l1QjhqanFtT2dVck1fNG1meHp5RXlFZGpkbVFoM1RSUG90WndxaE84Umd2dDUxeVFveXgwS2k?oc=5)
-
----
-
-### [Fatty liver disease is actually five different conditions, scientists discover - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBDSjVsdkF6TmtEX3l6ZG1rcTZHYzlsUXZPa3d2bWJWTDM2VUZZWkVjUlpsTmZpd0UxTTI1UnAwRDIzUXBQQS00T2NIY29Jam9jdDNpSG5fWk1QQ1JCYS1sOV9UZExqdVhzZ0dteWtROA?oc=5)
-
-2026-10-19
-
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBDSjVsdkF6TmtEX3l6ZG1rcTZHYzlsUXZPa3d2bWJWTDM2VUZZWkVjUlpsTmZpd0UxTTI1UnAwRDIzUXBQQS00T2NIY29Jam9jdDNpSG5fWk1QQ1JCYS1sOV9UZExqdVhzZ0dteWtROA?oc=5)
 
 ---
 
@@ -191,35 +207,11 @@ Source: [TODAY.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxNV2dlUWR
 
 ---
 
-### [Scientists knew the Doomsday Glacier was melting. They didn’t realize how ‘aggressively’](https://news.google.com/rss/articles/CBMigAFBVV95cUxOMU0ySTNqNjFnbE9XdGJXUW9VUGpBeU41dUhkXzhSV0w5X3pJV25xM0sxREZTMzJ4S2pJUkFvM3VOMWpId01oMGxfUDd4RTlKZjR2TXQxWXVJWGRST0lVWldfclllU1l3a21MemNhQ1VkX2Fod1RHaW1aTjRiRVJtaQ?oc=5)
-
-2026-10-15
-
-Source: [CNN](https://news.google.com/rss/articles/CBMigAFBVV95cUxOMU0ySTNqNjFnbE9XdGJXUW9VUGpBeU41dUhkXzhSV0w5X3pJV25xM0sxREZTMzJ4S2pJUkFvM3VOMWpId01oMGxfUDd4RTlKZjR2TXQxWXVJWGRST0lVWldfclllU1l3a21MemNhQ1VkX2Fod1RHaW1aTjRiRVJtaQ?oc=5)
-
----
-
 ### [De novo design of cysteine proteases](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KVmxUTDlXQzE4cTFBcmtyUXc4aVlOdUZJZ21YTTBIRS01eHhMeTJSQmx4cF83cFk5ZWtXQmxRaWdKSnZNUTQtYWxhNXB5V2JYZ2pGMkZ3bzB0V1ZLZ1Ew?oc=5)
 
 2026-10-14
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KVmxUTDlXQzE4cTFBcmtyUXc4aVlOdUZJZ21YTTBIRS01eHhMeTJSQmx4cF83cFk5ZWtXQmxRaWdKSnZNUTQtYWxhNXB5V2JYZ2pGMkZ3bzB0V1ZLZ1Ew?oc=5)
-
----
-
-### [The ovary doesn’t retire after menopause - Northwestern Now News](https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ0NmUTdLSVlnUVY1U0tJSlk2RmVueU1xZkh0YVdteFhKOVNjbnNReFdXVGVQYzV6d1hEUGhYTWdHRXRiNmRkSzl4dU91cllwR2tFbUcwOWZpZGp3MUNnS19uVE1fQV91bDVJeHpkLUVydjY0VGUySkU4LVpRWE1YQ3dlTEtMRTM3TmlnQWVR?oc=5)
-
-2026-10-14
-
-Source: [Northwestern Now News](https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ0NmUTdLSVlnUVY1U0tJSlk2RmVueU1xZkh0YVdteFhKOVNjbnNReFdXVGVQYzV6d1hEUGhYTWdHRXRiNmRkSzl4dU91cllwR2tFbUcwOWZpZGp3MUNnS19uVE1fQV91bDVJeHpkLUVydjY0VGUySkU4LVpRWE1YQ3dlTEtMRTM3TmlnQWVR?oc=5)
-
----
-
-### [New knee arthritis treatment delivers lasting pain relief without surgery - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZjhoU1BNT2w2eWNfNy1KSVFmQXBkT0xDeFFRMURTOXFBdkVkZnBVa0hsREE4YXFDNE9fcXlROWwzUXpZM1BuY0pzX0pIWHlKbTZuRml5NnVtNDRlSDZXZllzTjBfWEhRMnFTU09Idw?oc=5)
-
-2026-10-14
-
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE55ZjhoU1BNT2w2eWNfNy1KSVFmQXBkT0xDeFFRMURTOXFBdkVkZnBVa0hsREE4YXFDNE9fcXlROWwzUXpZM1BuY0pzX0pIWHlKbTZuRml5NnVtNDRlSDZXZllzTjBfWEhRMnFTU09Idw?oc=5)
 
 ---
 

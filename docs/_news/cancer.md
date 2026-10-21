@@ -39,11 +39,19 @@ Source: [CNN](https://news.google.com/rss/articles/CBMihAFBVV95cUxPRXdrSjNVamVIV
 
 ---
 
-### [Colon cancer is now the second-leading cause of cancer death](https://news.google.com/rss/articles/CBMie0FVX3lxTFBOSDN0cGg1TEwtcGdkaUNuWjF5UUlRR0RRTWQ2Rlg1b2ZHVFVhT1ZOVWl4NUNmZGxOOGhEMERaMzVWY202V05pU2NObVlXUGpKbVM4MXhrVWlEbDVwcGw3dURnMFF4THUxZFpZa3UxQmhpa3hoQ3JWRFNTaw?oc=5)
+### [The work of four CU Anschutz doctors is kind of a big deal - Colorado Public Radio](https://news.google.com/rss/articles/CBMigwFBVV95cUxOeTgzMUlTQXp0RlFHdFd0NU83bVM5Tnp0MXhIcl9oOVBicXp5V3hLblJGREJ1UDRweE5pcENyWUE1RWdVeXZKZlBFRjRFdDl0QUVHM0FJN0xJYXFva2ltSDFxdFB2RjdZU0xSeXNxeXJJdnFHZ20wZGttOHBDcUVQWHR3TQ?oc=5)
 
 2026-10-20
 
-Source: [WCVB](https://news.google.com/rss/articles/CBMie0FVX3lxTFBOSDN0cGg1TEwtcGdkaUNuWjF5UUlRR0RRTWQ2Rlg1b2ZHVFVhT1ZOVWl4NUNmZGxOOGhEMERaMzVWY202V05pU2NObVlXUGpKbVM4MXhrVWlEbDVwcGw3dURnMFF4THUxZFpZa3UxQmhpa3hoQ3JWRFNTaw?oc=5)
+Source: [Colorado Public Radio](https://news.google.com/rss/articles/CBMigwFBVV95cUxOeTgzMUlTQXp0RlFHdFd0NU83bVM5Tnp0MXhIcl9oOVBicXp5V3hLblJGREJ1UDRweE5pcENyWUE1RWdVeXZKZlBFRjRFdDl0QUVHM0FJN0xJYXFva2ltSDFxdFB2RjdZU0xSeXNxeXJJdnFHZ20wZGttOHBDcUVQWHR3TQ?oc=5)
+
+---
+
+### [Colon cancer is now the second-leading cause of cancer death](https://news.google.com/rss/articles/CBMie0FVX3lxTE1wY05wT1RHNVVzcnNvNENfeDgxc2xCZWVyVkg3QlR0alhnX1N0QWQ5NklsUTVrR0QwV09qeTRFZm01YThaUUZmUURyemtWbEpnTHVmdTVLT1ZuODY0dEFUY0VSV2dRdjNVMzJ5ZXdyMHA2TXFaajZGSHR4dw?oc=5)
+
+2026-10-20
+
+Source: [KOCO](https://news.google.com/rss/articles/CBMie0FVX3lxTE1wY05wT1RHNVVzcnNvNENfeDgxc2xCZWVyVkg3QlR0alhnX1N0QWQ5NklsUTVrR0QwV09qeTRFZm01YThaUUZmUURyemtWbEpnTHVmdTVLT1ZuODY0dEFUY0VSV2dRdjNVMzJ5ZXdyMHA2TXFaajZGSHR4dw?oc=5)
 
 ---
 
@@ -92,14 +100,6 @@ Source: [Fox News](https://news.google.com/rss/articles/CBMiigFBVV95cUxQYUwwMWxE
 2026-10-19
 
 Source: [Phys.org](https://news.google.com/rss/articles/CBMifEFVX3lxTE1QYW5TMFFuUi1kY2RoNnFVYmJfSk9EVnhHelNwemluT1BVVklpeTJrNWlPVUtuMHN0a09MTzBLa3YzUnY3ZnNHeTdpc3Aza0tySzdEUHRZck9sMENKb3RibUc1TkZVc0p5X3h5b19pSzNXeG1MZ3lBVXJYbjE?oc=5)
-
----
-
-### [The #1 Snack to Eat During Cancer Treatment to Soothe an Upset Stomach](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQmd1ek5DYWlCcVY1cGN2TDRpZzcyWUlZT0M3eE5rM20tOXZTV2VFTUN5RXFjWGdvbGtCdG1sMjZ0U3ZydHBvUmtrM3Y2VTBuZWtERWhqalNOSWtsRnM1YmlNWTJncU42TDBZeFNTMUNyMjJlajVmY1c2clB6VUxGcDRFbG56N09L?oc=5)
-
-2026-10-19
-
-Source: [EatingWell](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQmd1ek5DYWlCcVY1cGN2TDRpZzcyWUlZT0M3eE5rM20tOXZTV2VFTUN5RXFjWGdvbGtCdG1sMjZ0U3ZydHBvUmtrM3Y2VTBuZWtERWhqalNOSWtsRnM1YmlNWTJncU42TDBZeFNTMUNyMjJlajVmY1c2clB6VUxGcDRFbG56N09L?oc=5)
 
 ---
 

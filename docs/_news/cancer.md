@@ -3,7 +3,7 @@ layout: default
 title: "cancer News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer. 5 articles, 1 related drugs."
+description: "Health news about cancer. 7 articles, 1 related drugs."
 permalink: /news/cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cancer/
 ---
 
 <p class="key-answer" data-question="What news is there about cancer?">
-<strong>cancer</strong> currently has <strong>5 news articles</strong> and 1 related drugs.
+<strong>cancer</strong> currently has <strong>7 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -29,29 +29,53 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (5)
+## Related News (7)
 
-### [A German biotech has big ambitions in cancer. Now it needs to get a medicine approved](https://news.google.com/rss/articles/CBMikAFBVV95cUxOeXRwQndBUTlraEVSZk9CWHkzOXRadG84Vl9waHRQbEFJMlA1MlZhWXlLS1QwYkxuaUZRVGVreXRMaUFkWVp2NURNckZBT2hXSDUtQ1ctcG55dmVUanp4N2YwQnNQc3E4QmF4SzZjNW1aMFZMRE0xVmFOTlJqaUFpXzU0THpzekRJZGs3TlpiVlE?oc=5)
+### [She survived breast cancer at 42 and brought 2 million followers along. Now her mother is facing the same diagnosis.](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVkFHNDZ1NnhGSDZUa1BURmlpckZCZjhoeDkzZlNDZndVVjMyR2E5OWZEYzN0R1pOWE1OR3VIZGpNeWpudGpUWDFCWFhVaWMzYS1jQXBLUjdVTzhpNjZ2OG1IbENJSVV5eGJEWWc3S2MwYnFGSm1PMndwdDFwQnRKUVduUXFhZW1JRXVyeUFjeDUyQnhxMmlTUTNSMUc1bzJseV9MZTJROXE1dnZJM3FELUtWeHAyVlZUOHlRcEt4Qm1GaWhRUTZJbzAxeWVfb0x0a0ZSNEgyN3A0NUttUDZ4VHFIcFBXTjI4T3l6QUNLc2l3ODJVUXRtdkhjcVQxUQ?oc=5)
 
 2026-10-21
 
-Source: [STAT](https://news.google.com/rss/articles/CBMikAFBVV95cUxOeXRwQndBUTlraEVSZk9CWHkzOXRadG84Vl9waHRQbEFJMlA1MlZhWXlLS1QwYkxuaUZRVGVreXRMaUFkWVp2NURNckZBT2hXSDUtQ1ctcG55dmVUanp4N2YwQnNQc3E4QmF4SzZjNW1aMFZMRE0xVmFOTlJqaUFpXzU0THpzekRJZGs3TlpiVlE?oc=5)
+Source: [Yahoo](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVkFHNDZ1NnhGSDZUa1BURmlpckZCZjhoeDkzZlNDZndVVjMyR2E5OWZEYzN0R1pOWE1OR3VIZGpNeWpudGpUWDFCWFhVaWMzYS1jQXBLUjdVTzhpNjZ2OG1IbENJSVV5eGJEWWc3S2MwYnFGSm1PMndwdDFwQnRKUVduUXFhZW1JRXVyeUFjeDUyQnhxMmlTUTNSMUc1bzJseV9MZTJROXE1dnZJM3FELUtWeHAyVlZUOHlRcEt4Qm1GaWhRUTZJbzAxeWVfb0x0a0ZSNEgyN3A0NUttUDZ4VHFIcFBXTjI4T3l6QUNLc2l3ODJVUXRtdkhjcVQxUQ?oc=5)
 
 ---
 
-### [Opinion | Want to reduce chronic diseases? Invest in vaccines. - The Washington Post](https://news.google.com/rss/articles/CBMitAFBVV95cUxNd2lXT214NjFiZGo3XzNiZmZUbFdoX25XbmwtckZySk5OdVdXcVJjVGpIWXhzZVdNb1dUa0E3eWJVX3k1a3dxSm1aMHQydHdRbFhjRi16UExQUTg3cHZfNGFQU2MzYWxTMGlHbWMtdm1RUC1CenV4VVpwWlBKVE9oX00zR1Rwc1R2a1dmSlU4ZWZSdmJpZlRiN0txcE0xYjJFZVYxMk1Nam5zYVNuNjlzLXZOSVo?oc=5)
+### [Pancreatic cancer study highlights body's natural molecules as potential treatment tools - Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxPRHJ3OEFLODZYc0FpYnRIaXU0UDB1cFNrNU9CUFhIMzlLS0FKdHFsOVdFempPaThuSFNmVms5ZGM0djhCRDVfSm5LcGthUHJqbVBjM3g0NEFWLWhDWHNVNjdfcFc1RkxKN1JxazJzX2oyWW9FdjVSYVN6b0ZlZUtZNHBZOUs0SExsSlZodkpn?oc=5)
 
-2026-10-20
+2026-10-21
 
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMitAFBVV95cUxNd2lXT214NjFiZGo3XzNiZmZUbFdoX25XbmwtckZySk5OdVdXcVJjVGpIWXhzZVdNb1dUa0E3eWJVX3k1a3dxSm1aMHQydHdRbFhjRi16UExQUTg3cHZfNGFQU2MzYWxTMGlHbWMtdm1RUC1CenV4VVpwWlBKVE9oX00zR1Rwc1R2a1dmSlU4ZWZSdmJpZlRiN0txcE0xYjJFZVYxMk1Nam5zYVNuNjlzLXZOSVo?oc=5)
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxPRHJ3OEFLODZYc0FpYnRIaXU0UDB1cFNrNU9CUFhIMzlLS0FKdHFsOVdFempPaThuSFNmVms5ZGM0djhCRDVfSm5LcGthUHJqbVBjM3g0NEFWLWhDWHNVNjdfcFc1RkxKN1JxazJzX2oyWW9FdjVSYVN6b0ZlZUtZNHBZOUs0SExsSlZodkpn?oc=5)
 
 ---
 
-### [You can now upload a selfie to a Mass General Brigham AI tool and it’ll estimate your biological age - The Boston Globe](https://news.google.com/rss/articles/CBMijgFBVV95cUxPeG4ta1JFRjlNVTZaR3hvU0JrS19ZV3FfUE9yRlphUzlrdGktQ0g3NVpVdkRkTDIyZE1JNTdFcFVOczlBZDZZbF94ZjlSa0RqdHljOUlwZW10WnVjTVRwMWRqdmd6NjdBX1QzTzhkWkRmeldoNTJQT3M3SHpqb1hEWklJSm50SzNxNXRKeTRn?oc=5)
+### [Nutritional supplement may help ease 'brain fog' after breast cancer treatment - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVzBfZ3NNN1RSUl8tRjNvYy1iaHNIbzVPdGJJYzZlajVEX2J0MTFhTjljRl9PazRRTVgzZy1GRl9PeHJXa3A4cGUxSFZDN3Y0LXgyQ3FQT1JkaVdtVlZPU0ZjSy1uSzJHUTRPNUVBYk9DclVGZ1ppZlA1R1dlME9BdHMyQ0FlS0I0?oc=5)
 
 2026-10-20
 
-Source: [The Boston Globe](https://news.google.com/rss/articles/CBMijgFBVV95cUxPeG4ta1JFRjlNVTZaR3hvU0JrS19ZV3FfUE9yRlphUzlrdGktQ0g3NVpVdkRkTDIyZE1JNTdFcFVOczlBZDZZbF94ZjlSa0RqdHljOUlwZW10WnVjTVRwMWRqdmd6NjdBX1QzTzhkWkRmeldoNTJQT3M3SHpqb1hEWklJSm50SzNxNXRKeTRn?oc=5)
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVzBfZ3NNN1RSUl8tRjNvYy1iaHNIbzVPdGJJYzZlajVEX2J0MTFhTjljRl9PazRRTVgzZy1GRl9PeHJXa3A4cGUxSFZDN3Y0LXgyQ3FQT1JkaVdtVlZPU0ZjSy1uSzJHUTRPNUVBYk9DclVGZ1ppZlA1R1dlME9BdHMyQ0FlS0I0?oc=5)
+
+---
+
+### [The work of four CU Anschutz doctors is kind of a big deal - Colorado Public Radio](https://news.google.com/rss/articles/CBMigwFBVV95cUxOeTgzMUlTQXp0RlFHdFd0NU83bVM5Tnp0MXhIcl9oOVBicXp5V3hLblJGREJ1UDRweE5pcENyWUE1RWdVeXZKZlBFRjRFdDl0QUVHM0FJN0xJYXFva2ltSDFxdFB2RjdZU0xSeXNxeXJJdnFHZ20wZGttOHBDcUVQWHR3TQ?oc=5)
+
+2026-10-20
+
+Source: [Colorado Public Radio](https://news.google.com/rss/articles/CBMigwFBVV95cUxOeTgzMUlTQXp0RlFHdFd0NU83bVM5Tnp0MXhIcl9oOVBicXp5V3hLblJGREJ1UDRweE5pcENyWUE1RWdVeXZKZlBFRjRFdDl0QUVHM0FJN0xJYXFva2ltSDFxdFB2RjdZU0xSeXNxeXJJdnFHZ20wZGttOHBDcUVQWHR3TQ?oc=5)
+
+---
+
+### [As Politicians Argue About China, US Patients Find Cutting-Edge Treatment There - KFF Health News](https://news.google.com/rss/articles/CBMivwFBVV95cUxPVWxxQVVxN3R0RjlRTXEzemRWOTktYmQ1Rm13X05WVzk2a2FCSzgxTEFTLTN4VjZIX201b19LYnhtQ0RpX04yVC03dEx5V0VyNnJiT0RYRGJsSzFyN2Y4UElwU3J1Q29hRVpZdTF6bjdRd3BpcGNJekdBSmZuS3hLekwyTVVrYTZDcFc5Q2toaWxsek11VFdLT0twbFdHTTRCYTh3M3doNmdBa2JvS1drSjVMYW9wTWJ3QVZWZG4zNA?oc=5)
+
+2026-10-20
+
+Source: [KFF Health News](https://news.google.com/rss/articles/CBMivwFBVV95cUxPVWxxQVVxN3R0RjlRTXEzemRWOTktYmQ1Rm13X05WVzk2a2FCSzgxTEFTLTN4VjZIX201b19LYnhtQ0RpX04yVC03dEx5V0VyNnJiT0RYRGJsSzFyN2Y4UElwU3J1Q29hRVpZdTF6bjdRd3BpcGNJekdBSmZuS3hLekwyTVVrYTZDcFc5Q2toaWxsek11VFdLT0twbFdHTTRCYTh3M3doNmdBa2JvS1drSjVMYW9wTWJ3QVZWZG4zNA?oc=5)
+
+---
+
+### [Foundation artificial intelligence models for health recognition by use of face photographs (FAHR-Face): a model development and validation study - The Lancet](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeFdfc2g4U1o2WG1Eb3FHcUI4NnpGMGlYbWVVZFQyYTdQYVMxeFNONlB4NFVEakJENzFRQVBzUFRjRjZZaDZSSHU3cW4xQ1R3S0JzWTFBRlB4T1pnVnRrSWxOb2lHNnItX1JqakUyejJSaVhHNVlJZTJxYVNPWDNuVXBid0pxTlpTX2NN?oc=5)
+
+2026-10-20
+
+Source: [The Lancet](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeFdfc2g4U1o2WG1Eb3FHcUI4NnpGMGlYbWVVZFQyYTdQYVMxeFNONlB4NFVEakJENzFRQVBzUFRjRjZZaDZSSHU3cW4xQ1R3S0JzWTFBRlB4T1pnVnRrSWxOb2lHNnItX1JqakUyejJSaVhHNVlJZTJxYVNPWDNuVXBid0pxTlpTX2NN?oc=5)
 
 ---
 
@@ -60,14 +84,6 @@ Source: [The Boston Globe](https://news.google.com/rss/articles/CBMijgFBVV95cUxP
 2026-10-15
 
 Source: [NBC News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUm5MenREWXJHdGtsRFVUN0RRb1J2dFFCalNYeTRRNEhCTkc3SzBxLTlxbG9OdXI5NjFpV1MwdGlfZkM4RU01ZC1fblJKV2tQTlg1ejJSa3JzWUhzZW8yR2luZ2Y4QlVDejBuNmMwTGRlWk1fbTFiS05ENVNiVEI0akVfWjRlVXl1dDZIYWNZam43VzYzN0ctQnlMX0VmYm5odHlXaGhpUldFQQ?oc=5)
-
----
-
-### [New FDA-cleared AI tool could help predict if breast cancer will return - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMingFBVV95cUxNNHlzMExUTTQxbl9MYjFmcEtNdXJ4R0p5V05YYXJZaWtNN09NWXROQXJIaExOaWloR2k3SG11SjJmZ1VpNkNEd0Jnb183NEpTOUdzclg5TG5OQW5VQVJYc0t5bFdoTWFJV08wMUZsczM4bzZPM1QyOFBVWVVsWXdGLXN4UThBalV3RzJOVmozcUZZRWFWaDJrZ0lma1Nxd9IBowFBVV95cUxOYjlmaTQ1MzliZGpjVjlBX1EybGxYaVJQWURUZWJXNmg2YTBiUXRjc0hGYkFwdzBEQXlJTnRXQmRfYVI1SUVJbkpCU1VINEJ2a0xtdVduV0RLTkhlLVNXNzl2X0V2RktjRnRRX2xXLVhtekdMelQyczdxZlRDc0VaTTdQM2ZBSVZpMmdXZDUyNGFwX1BOV09pZ1BSLTdTVXZidWxN?oc=5)
-
-2026-10-15
-
-Source: [ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMingFBVV95cUxNNHlzMExUTTQxbl9MYjFmcEtNdXJ4R0p5V05YYXJZaWtNN09NWXROQXJIaExOaWloR2k3SG11SjJmZ1VpNkNEd0Jnb183NEpTOUdzclg5TG5OQW5VQVJYc0t5bFdoTWFJV08wMUZsczM4bzZPM1QyOFBVWVVsWXdGLXN4UThBalV3RzJOVmozcUZZRWFWaDJrZ0lma1Nxd9IBowFBVV95cUxOYjlmaTQ1MzliZGpjVjlBX1EybGxYaVJQWURUZWJXNmg2YTBiUXRjc0hGYkFwdzBEQXlJTnRXQmRfYVI1SUVJbkpCU1VINEJ2a0xtdVduV0RLTkhlLVNXNzl2X0V2RktjRnRRX2xXLVhtekdMelQyczdxZlRDc0VaTTdQM2ZBSVZpMmdXZDUyNGFwX1BOV09pZ1BSLTdTVXZidWxN?oc=5)
 
 ---
 

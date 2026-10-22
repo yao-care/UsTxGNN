@@ -3,7 +3,7 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 12 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 13 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/inflammatory-bowel-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>12 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>13 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,15 +34,7 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (12)
-
-### [Women can't find this medication. The problem isn't going away - USA Today](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWEstQmFHQnpPSDZtdFNRTDdNbDVzR05uT2pURElvQjlZS0ZpMW1WWXRYcDNoZDBveUs3Y0tIcmlBWVRlTTVXTmp3anhoNmhKTE9ZbFMyU1AxUEduM2xwcmUzTU84Um9XZ0QtX01Cd3NDZU8xVW1KRWstWTE0WHAyWGV4NXBYWDFhWm5LUXRRaEZXUlItSU9nZEtsa2JHcjVyclN4cFd2aVc5S2E2bmlXcjBHZw?oc=5)
-
-2026-10-21
-
-Source: [USA Today](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWEstQmFHQnpPSDZtdFNRTDdNbDVzR05uT2pURElvQjlZS0ZpMW1WWXRYcDNoZDBveUs3Y0tIcmlBWVRlTTVXTmp3anhoNmhKTE9ZbFMyU1AxUEduM2xwcmUzTU84Um9XZ0QtX01Cd3NDZU8xVW1KRWstWTE0WHAyWGV4NXBYWDFhWm5LUXRRaEZXUlItSU9nZEtsa2JHcjVyclN4cFd2aVc5S2E2bmlXcjBHZw?oc=5)
-
----
+## Related News (13)
 
 ### [ADHD linked to 70% higher death rate, but medication may help protect against early death - New York Post](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSFNudWdhTml6TW1QYkRjMGlHcEpia1hLOUtGcDMyemRrQm5yVzU1U3BielQ0cFJhUGxqWGMwY3IzNG1ZMEhlS0tVSFp3cEJhVnpXSlJPcUZsblRENy1aZ0hVUEJtT0dqcXAyWVFPc1hYWG9ydDhiWmYtQWpGcVZfeG9RNlNMZ2NHaHUwOEtRTm9xb19RaDlvR21sSWdyeWRSX19XRHlqZ3B3SjlXTnJTNmJNUUVteGZ0T09walJqTFdXeEU?oc=5)
 
@@ -52,19 +44,11 @@ Source: [New York Post](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSFN
 
 ---
 
-### [Can drinking tea help protect against cardiovascular disease? - Medical Xpress](https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZUEJLRzA4a0xVTnlEcXFvOS1ldFpRdTVydUNYLTAyWEg5a1BRc1J6QXhoS3RVQ0RfWExzNWdyMV9fZlV0dW05WTV1OGZ6Ynlsd2dSamtUNGJfYXBVQU45QWdBcVBfbUtBVHlWRWhNOTV4ZU90a2l4dDV3?oc=5)
+### [A happy marriage may hide a health risk: How couples’ daily routines influence biological ageing; what pa - The Times of India](https://news.google.com/rss/articles/CBMi4gJBVV95cUxQSFZGNkpCU0xLT3IxTkVKNEcybVNQbXY5eXJKR3d4RUktY0RpUHl0dW5UbkZZYjF2bDBuU1VLTV9abDZwSlpRYng3VWVwcFF3X0VHRktfdWlnTGpFNmdBOXhFaVptdlB1UjJzYXRnTXlvcHlZQ2ZFWG56M1EzWGlYQW8zWHdHbDBvVzlOUFFmYTlHQ2NDUlZkS1ZITVBhWnRxaWRTWk5uSVRhQU9oaHpZdnhYRFdRZFI4VUMxZzZacllVMTVfd2NYd0c1d0QydlQ0cmtMZ1JscVliUVAtUDZYYXg1NENsblpwOG5GRFd5OG41MzJWXzhYaGo4SS1VeG5od3Vja0I2Y2hsU1IyOE80SmV2TEh2RDlGRUtVR0N2WHBfVGxYTV9YdGpGN3RxeWRqdjg4U2ZZUml4R1UxQjZaR1R5RzQ0Wl9YekRERXpPWHhXMi1IUWhxcTY3MmJBNXVLcmc?oc=5)
 
 2026-10-21
 
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZUEJLRzA4a0xVTnlEcXFvOS1ldFpRdTVydUNYLTAyWEg5a1BRc1J6QXhoS3RVQ0RfWExzNWdyMV9fZlV0dW05WTV1OGZ6Ynlsd2dSamtUNGJfYXBVQU45QWdBcVBfbUtBVHlWRWhNOTV4ZU90a2l4dDV3?oc=5)
-
----
-
-### [14 years after terminal cancer diagnosis, survivor finds hope in new UCLA cutting-edge treatment for rare pancreatic cancer - ABC7 Los Angeles](https://news.google.com/rss/articles/CBMizwFBVV95cUxPQTJkRDBuMHBuN2J6emJTaURMQW1STF9KSmU2Nnl1bVkwR05EdzVibEJ3cm5UdlJFc0Fwa3g3ZzQ4S29MSl94THNRRzFPaVdCeFlLMG1vTHhkelhObnc0dUNVZlB4aWYwUjFHNnprb0tYVzZyemx3d2ZFempFVXNDM3p6Z2FBNlBzNl91eGYxUXBNbHFDaEVyYk8xd1pfa1BhRkJUVDhLNmVtQjU4bmUwaWZqRzBRY1l6cEY2TkZpNXBZR3NUTVRDdUkyVUFEM1nSAdQBQVVfeXFMUDQwenpkenhHUUQ0V2tkS3pmek5pUVloTnNmVE1fOWNyQjN1blEyMTFwUnI1RzhOcVhzcEZTQXIxWFkwN3kzcnpyQ2ZqRWZCZ0drR1B2VDEyWEFMclJPaEZBMVlacTBqZzNqTW1UbTFJTG9wSVpIbEZZV2NNaWpReHdSTnJSYnQ0Tk5lOGNTQ0xuZS0tQUJHak51Q0ZnMXZYTWFZdmpKLWVDN2JRYXN5S3o1UXJJYnlLWHJMak5mdl9iY0RkYnZoM29UczlzOTg0TnEtUy0?oc=5)
-
-2026-10-21
-
-Source: [ABC7 Los Angeles](https://news.google.com/rss/articles/CBMizwFBVV95cUxPQTJkRDBuMHBuN2J6emJTaURMQW1STF9KSmU2Nnl1bVkwR05EdzVibEJ3cm5UdlJFc0Fwa3g3ZzQ4S29MSl94THNRRzFPaVdCeFlLMG1vTHhkelhObnc0dUNVZlB4aWYwUjFHNnprb0tYVzZyemx3d2ZFempFVXNDM3p6Z2FBNlBzNl91eGYxUXBNbHFDaEVyYk8xd1pfa1BhRkJUVDhLNmVtQjU4bmUwaWZqRzBRY1l6cEY2TkZpNXBZR3NUTVRDdUkyVUFEM1nSAdQBQVVfeXFMUDQwenpkenhHUUQ0V2tkS3pmek5pUVloTnNmVE1fOWNyQjN1blEyMTFwUnI1RzhOcVhzcEZTQXIxWFkwN3kzcnpyQ2ZqRWZCZ0drR1B2VDEyWEFMclJPaEZBMVlacTBqZzNqTW1UbTFJTG9wSVpIbEZZV2NNaWpReHdSTnJSYnQ0Tk5lOGNTQ0xuZS0tQUJHak51Q0ZnMXZYTWFZdmpKLWVDN2JRYXN5S3o1UXJJYnlLWHJMak5mdl9iY0RkYnZoM29UczlzOTg0TnEtUy0?oc=5)
+Source: [The Times of India](https://news.google.com/rss/articles/CBMi4gJBVV95cUxQSFZGNkpCU0xLT3IxTkVKNEcybVNQbXY5eXJKR3d4RUktY0RpUHl0dW5UbkZZYjF2bDBuU1VLTV9abDZwSlpRYng3VWVwcFF3X0VHRktfdWlnTGpFNmdBOXhFaVptdlB1UjJzYXRnTXlvcHlZQ2ZFWG56M1EzWGlYQW8zWHdHbDBvVzlOUFFmYTlHQ2NDUlZkS1ZITVBhWnRxaWRTWk5uSVRhQU9oaHpZdnhYRFdRZFI4VUMxZzZacllVMTVfd2NYd0c1d0QydlQ0cmtMZ1JscVliUVAtUDZYYXg1NENsblpwOG5GRFd5OG41MzJWXzhYaGo4SS1VeG5od3Vja0I2Y2hsU1IyOE80SmV2TEh2RDlGRUtVR0N2WHBfVGxYTV9YdGpGN3RxeWRqdjg4U2ZZUml4R1UxQjZaR1R5RzQ0Wl9YekRERXpPWHhXMi1IUWhxcTY3MmJBNXVLcmc?oc=5)
 
 ---
 
@@ -73,6 +57,22 @@ Source: [ABC7 Los Angeles](https://news.google.com/rss/articles/CBMizwFBVV95cUxP
 2026-10-20
 
 Source: [The Independent](https://news.google.com/rss/articles/CBMiigFBVV95cUxQaFN4aEg2bjdUTXFCTXQ5eWxRWDlMdXRmMEd2OXRHeFVBN0tLUUFodTVJWnFNLXpBOUY4WmdCTWdERTNjTmoteHgycXFjOUs3cV9KVU9JN24tWU9nUGhiSXNCUTdIQmFpZnlQZTFOdnpYT2pFWE1wTlRlUk0tb3NKUktuSG04aUpoRXc?oc=5)
+
+---
+
+### [A 23-foot drone sailboat left Tasmania to circle Antarctica alone for 200 days, met waves over 26 feet within days of leaving, and will log more than 13,000 miles measuring how much carbon the Southern Ocean swallows before coming back to swap its sensor](https://news.google.com/rss/articles/CBMijwFBVV95cUxQV3k3Q082QjgzbERqNFBwTGZfaEpHTEdOVWtJZXNmSXd2cEY2YVBjSmFhOThDaDhWVnFNektjUFp4cHc5QV83QWhfNnZBX280ZklmX3gtbDlKTWtfeUlXZjJRYnNiSXBPNGpPWVI1SFRjUkdWcHhuWklzMmNRb0RnYVhabjA3V2F5Z21CaXpKZw?oc=5)
+
+2026-10-20
+
+Source: [Autonocion.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxQV3k3Q082QjgzbERqNFBwTGZfaEpHTEdOVWtJZXNmSXd2cEY2YVBjSmFhOThDaDhWVnFNektjUFp4cHc5QV83QWhfNnZBX280ZklmX3gtbDlKTWtfeUlXZjJRYnNiSXBPNGpPWVI1SFRjUkdWcHhuWklzMmNRb0RnYVhabjA3V2F5Z21CaXpKZw?oc=5)
+
+---
+
+### [Boston is getting a new cancer hospital. Here’s what Dana-Farber's $1.7B project means for patients](https://news.google.com/rss/articles/CBMimgFBVV95cUxPUm0wVlJGMzU2ejZLb2k3ZkVYWl80VVdaNUZPZHBPclpCck10MnBqNEhEQzZZbjRITzMtaXBqV3dNU1A2OUVETDcxNk1BRE1yR3lSamxWVF9mOEthd1RVMXdkakVHM3MtODlHQVlFM2Jlclo4S3BlcFdqSGdybjhYV21EWWtENkNnSUw2RE5VcVdqc19rWjA2NFRn?oc=5)
+
+2026-10-20
+
+Source: [WBUR](https://news.google.com/rss/articles/CBMimgFBVV95cUxPUm0wVlJGMzU2ejZLb2k3ZkVYWl80VVdaNUZPZHBPclpCck10MnBqNEhEQzZZbjRITzMtaXBqV3dNU1A2OUVETDcxNk1BRE1yR3lSamxWVF9mOEthd1RVMXdkakVHM3MtODlHQVlFM2Jlclo4S3BlcFdqSGdybjhYV21EWWtENkNnSUw2RE5VcVdqc19rWjA2NFRn?oc=5)
 
 ---
 
@@ -129,6 +129,14 @@ Source: [Phys.org](https://news.google.com/rss/articles/CBMigwFBVV95cUxQbGFjSkt1
 2026-10-16
 
 Source: [TODAY.com](https://news.google.com/rss/articles/CBMinAFBVV95cUxNV2dlUWR2dFBrUzdOcVVCR3d0WE1nU1BhRVFCZTFzWnVZSzk3OFdtRm9ScENqMk12WmpYZWEzNEp1aTZsWFJhNTV5UXZfTldfSmFhM2lNZ2VYYjhTNXBvNXpucnZpVlBOYU16aXJlNndFRGZndVlYWmVsTnh3amUySXlUdmFyN0J4LW1MNkdQMG9YZF8yMGUwSHQ2ZV8?oc=5)
+
+---
+
+### [New FDA-cleared AI tool could help predict if breast cancer will return - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMingFBVV95cUxNNHlzMExUTTQxbl9MYjFmcEtNdXJ4R0p5V05YYXJZaWtNN09NWXROQXJIaExOaWloR2k3SG11SjJmZ1VpNkNEd0Jnb183NEpTOUdzclg5TG5OQW5VQVJYc0t5bFdoTWFJV08wMUZsczM4bzZPM1QyOFBVWVVsWXdGLXN4UThBalV3RzJOVmozcUZZRWFWaDJrZ0lma1Nxd9IBowFBVV95cUxOYjlmaTQ1MzliZGpjVjlBX1EybGxYaVJQWURUZWJXNmg2YTBiUXRjc0hGYkFwdzBEQXlJTnRXQmRfYVI1SUVJbkpCU1VINEJ2a0xtdVduV0RLTkhlLVNXNzl2X0V2RktjRnRRX2xXLVhtekdMelQyczdxZlRDc0VaTTdQM2ZBSVZpMmdXZDUyNGFwX1BOV09pZ1BSLTdTVXZidWxN?oc=5)
+
+2026-10-15
+
+Source: [ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMingFBVV95cUxNNHlzMExUTTQxbl9MYjFmcEtNdXJ4R0p5V05YYXJZaWtNN09NWXROQXJIaExOaWloR2k3SG11SjJmZ1VpNkNEd0Jnb183NEpTOUdzclg5TG5OQW5VQVJYc0t5bFdoTWFJV08wMUZsczM4bzZPM1QyOFBVWVVsWXdGLXN4UThBalV3RzJOVmozcUZZRWFWaDJrZ0lma1Nxd9IBowFBVV95cUxOYjlmaTQ1MzliZGpjVjlBX1EybGxYaVJQWURUZWJXNmg2YTBiUXRjc0hGYkFwdzBEQXlJTnRXQmRfYVI1SUVJbkpCU1VINEJ2a0xtdVduV0RLTkhlLVNXNzl2X0V2RktjRnRRX2xXLVhtekdMelQyczdxZlRDc0VaTTdQM2ZBSVZpMmdXZDUyNGFwX1BOV09pZ1BSLTdTVXZidWxN?oc=5)
 
 ---
 

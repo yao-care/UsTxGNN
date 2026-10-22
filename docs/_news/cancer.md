@@ -3,7 +3,7 @@ layout: default
 title: "cancer News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer. 9 articles, 1 related drugs."
+description: "Health news about cancer. 8 articles, 1 related drugs."
 permalink: /news/cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cancer/
 ---
 
 <p class="key-answer" data-question="What news is there about cancer?">
-<strong>cancer</strong> currently has <strong>9 news articles</strong> and 1 related drugs.
+<strong>cancer</strong> currently has <strong>8 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (9)
+## Related News (8)
 
 ### [A German biotech has big ambitions in cancer. Now it needs to get a medicine approved](https://news.google.com/rss/articles/CBMikAFBVV95cUxOeXRwQndBUTlraEVSZk9CWHkzOXRadG84Vl9waHRQbEFJMlA1MlZhWXlLS1QwYkxuaUZRVGVreXRMaUFkWVp2NURNckZBT2hXSDUtQ1ctcG55dmVUanp4N2YwQnNQc3E4QmF4SzZjNW1aMFZMRE0xVmFOTlJqaUFpXzU0THpzekRJZGs3TlpiVlE?oc=5)
 
@@ -47,14 +47,6 @@ Source: [CNN](https://news.google.com/rss/articles/CBMihAFBVV95cUxPRXdrSjNVamVIV
 
 ---
 
-### [14 years after terminal cancer diagnosis, survivor finds hope in new UCLA cutting-edge treatment for rare pancreatic cancer - ABC7 Los Angeles](https://news.google.com/rss/articles/CBMizwFBVV95cUxPQTJkRDBuMHBuN2J6emJTaURMQW1STF9KSmU2Nnl1bVkwR05EdzVibEJ3cm5UdlJFc0Fwa3g3ZzQ4S29MSl94THNRRzFPaVdCeFlLMG1vTHhkelhObnc0dUNVZlB4aWYwUjFHNnprb0tYVzZyemx3d2ZFempFVXNDM3p6Z2FBNlBzNl91eGYxUXBNbHFDaEVyYk8xd1pfa1BhRkJUVDhLNmVtQjU4bmUwaWZqRzBRY1l6cEY2TkZpNXBZR3NUTVRDdUkyVUFEM1nSAdQBQVVfeXFMUDQwenpkenhHUUQ0V2tkS3pmek5pUVloTnNmVE1fOWNyQjN1blEyMTFwUnI1RzhOcVhzcEZTQXIxWFkwN3kzcnpyQ2ZqRWZCZ0drR1B2VDEyWEFMclJPaEZBMVlacTBqZzNqTW1UbTFJTG9wSVpIbEZZV2NNaWpReHdSTnJSYnQ0Tk5lOGNTQ0xuZS0tQUJHak51Q0ZnMXZYTWFZdmpKLWVDN2JRYXN5S3o1UXJJYnlLWHJMak5mdl9iY0RkYnZoM29UczlzOTg0TnEtUy0?oc=5)
-
-2026-10-21
-
-Source: [ABC7 Los Angeles](https://news.google.com/rss/articles/CBMizwFBVV95cUxPQTJkRDBuMHBuN2J6emJTaURMQW1STF9KSmU2Nnl1bVkwR05EdzVibEJ3cm5UdlJFc0Fwa3g3ZzQ4S29MSl94THNRRzFPaVdCeFlLMG1vTHhkelhObnc0dUNVZlB4aWYwUjFHNnprb0tYVzZyemx3d2ZFempFVXNDM3p6Z2FBNlBzNl91eGYxUXBNbHFDaEVyYk8xd1pfa1BhRkJUVDhLNmVtQjU4bmUwaWZqRzBRY1l6cEY2TkZpNXBZR3NUTVRDdUkyVUFEM1nSAdQBQVVfeXFMUDQwenpkenhHUUQ0V2tkS3pmek5pUVloTnNmVE1fOWNyQjN1blEyMTFwUnI1RzhOcVhzcEZTQXIxWFkwN3kzcnpyQ2ZqRWZCZ0drR1B2VDEyWEFMclJPaEZBMVlacTBqZzNqTW1UbTFJTG9wSVpIbEZZV2NNaWpReHdSTnJSYnQ0Tk5lOGNTQ0xuZS0tQUJHak51Q0ZnMXZYTWFZdmpKLWVDN2JRYXN5S3o1UXJJYnlLWHJMak5mdl9iY0RkYnZoM29UczlzOTg0TnEtUy0?oc=5)
-
----
-
 ### [30 mins less on this activity daily lowers your risk of several cancers, experts say - The Independent](https://news.google.com/rss/articles/CBMiigFBVV95cUxQaFN4aEg2bjdUTXFCTXQ5eWxRWDlMdXRmMEd2OXRHeFVBN0tLUUFodTVJWnFNLXpBOUY4WmdCTWdERTNjTmoteHgycXFjOUs3cV9KVU9JN24tWU9nUGhiSXNCUTdIQmFpZnlQZTFOdnpYT2pFWE1wTlRlUk0tb3NKUktuSG04aUpoRXc?oc=5)
 
 2026-10-20
@@ -63,11 +55,19 @@ Source: [The Independent](https://news.google.com/rss/articles/CBMiigFBVV95cUxQa
 
 ---
 
-### [Colon cancer is now the second-leading cause of cancer death](https://news.google.com/rss/articles/CBMie0FVX3lxTE1wY05wT1RHNVVzcnNvNENfeDgxc2xCZWVyVkg3QlR0alhnX1N0QWQ5NklsUTVrR0QwV09qeTRFZm01YThaUUZmUURyemtWbEpnTHVmdTVLT1ZuODY0dEFUY0VSV2dRdjNVMzJ5ZXdyMHA2TXFaajZGSHR4dw?oc=5)
+### [Boston is getting a new cancer hospital. Here’s what Dana-Farber's $1.7B project means for patients](https://news.google.com/rss/articles/CBMimgFBVV95cUxPUm0wVlJGMzU2ejZLb2k3ZkVYWl80VVdaNUZPZHBPclpCck10MnBqNEhEQzZZbjRITzMtaXBqV3dNU1A2OUVETDcxNk1BRE1yR3lSamxWVF9mOEthd1RVMXdkakVHM3MtODlHQVlFM2Jlclo4S3BlcFdqSGdybjhYV21EWWtENkNnSUw2RE5VcVdqc19rWjA2NFRn?oc=5)
 
 2026-10-20
 
-Source: [KOCO](https://news.google.com/rss/articles/CBMie0FVX3lxTE1wY05wT1RHNVVzcnNvNENfeDgxc2xCZWVyVkg3QlR0alhnX1N0QWQ5NklsUTVrR0QwV09qeTRFZm01YThaUUZmUURyemtWbEpnTHVmdTVLT1ZuODY0dEFUY0VSV2dRdjNVMzJ5ZXdyMHA2TXFaajZGSHR4dw?oc=5)
+Source: [WBUR](https://news.google.com/rss/articles/CBMimgFBVV95cUxPUm0wVlJGMzU2ejZLb2k3ZkVYWl80VVdaNUZPZHBPclpCck10MnBqNEhEQzZZbjRITzMtaXBqV3dNU1A2OUVETDcxNk1BRE1yR3lSamxWVF9mOEthd1RVMXdkakVHM3MtODlHQVlFM2Jlclo4S3BlcFdqSGdybjhYV21EWWtENkNnSUw2RE5VcVdqc19rWjA2NFRn?oc=5)
+
+---
+
+### [Colon cancer is now the second-leading cause of cancer death](https://news.google.com/rss/articles/CBMifkFVX3lxTE9zNU1MM2x6TjNqQW5XOU1JcEI3RE03NE1PWWk4d1FranlqYUtmR2xyVmpUdkQ5eFBna184eVJYZ1VhUTNxcWRQQzNETXlLd2JfajYxZkhNVGFrQ0lCZmZqSmRXd25FaXo2TkNQWjhXMWhtY2psM2I3M3h6bjdkUQ?oc=5)
+
+2026-10-20
+
+Source: [WBAL-TV](https://news.google.com/rss/articles/CBMifkFVX3lxTE9zNU1MM2x6TjNqQW5XOU1JcEI3RE03NE1PWWk4d1FranlqYUtmR2xyVmpUdkQ5eFBna184eVJYZ1VhUTNxcWRQQzNETXlLd2JfajYxZkhNVGFrQ0lCZmZqSmRXd25FaXo2TkNQWjhXMWhtY2psM2I3M3h6bjdkUQ?oc=5)
 
 ---
 
@@ -76,14 +76,6 @@ Source: [KOCO](https://news.google.com/rss/articles/CBMie0FVX3lxTE1wY05wT1RHNVVz
 2026-10-20
 
 Source: [The Washington Post](https://news.google.com/rss/articles/CBMitAFBVV95cUxNd2lXT214NjFiZGo3XzNiZmZUbFdoX25XbmwtckZySk5OdVdXcVJjVGpIWXhzZVdNb1dUa0E3eWJVX3k1a3dxSm1aMHQydHdRbFhjRi16UExQUTg3cHZfNGFQU2MzYWxTMGlHbWMtdm1RUC1CenV4VVpwWlBKVE9oX00zR1Rwc1R2a1dmSlU4ZWZSdmJpZlRiN0txcE0xYjJFZVYxMk1Nam5zYVNuNjlzLXZOSVo?oc=5)
-
----
-
-### [Lung cancer can grow silently for years, here’s who qualifies for screening - Fox News](https://news.google.com/rss/articles/CBMiigFBVV95cUxQYUwwMWxEbzVMbjFfOXZvN3N5TTlrU3JDbEpraWZaOEJYSFlWVE4yS3NLcWpuWVhaMWc3SWxRSWFrVVNmVlF4UnBTQUxmVi1mbUU0U19CZGpHUkM2NFNGOUdDTnkyYko4cWEyMmJtcW9SbVhZNDFZMi1YVXBCclZNVGZycmR2X0VQcFHSAY8BQVVfeXFMUFROYnpRUG9FSTc4OUZtQ1Z3UXdvNVdsMU01TGM1TGU4UFdlRU5VMFp0T1lfb1hDa1RCb0pPcmF1Z1lYd2tMRmZRUjhMbFZhLVdfejc0aFBwT3E1TjNiTmZ5Mm5DUi1Ob3ZvODFQV1VpbHh3bE5pcy1KUExmWi1DSGdPUHFMRmhUUVpCSHlIOW8?oc=5)
-
-2026-10-19
-
-Source: [Fox News](https://news.google.com/rss/articles/CBMiigFBVV95cUxQYUwwMWxEbzVMbjFfOXZvN3N5TTlrU3JDbEpraWZaOEJYSFlWVE4yS3NLcWpuWVhaMWc3SWxRSWFrVVNmVlF4UnBTQUxmVi1mbUU0U19CZGpHUkM2NFNGOUdDTnkyYko4cWEyMmJtcW9SbVhZNDFZMi1YVXBCclZNVGZycmR2X0VQcFHSAY8BQVVfeXFMUFROYnpRUG9FSTc4OUZtQ1Z3UXdvNVdsMU01TGM1TGU4UFdlRU5VMFp0T1lfb1hDa1RCb0pPcmF1Z1lYd2tMRmZRUjhMbFZhLVdfejc0aFBwT3E1TjNiTmZ5Mm5DUi1Ob3ZvODFQV1VpbHh3bE5pcy1KUExmWi1DSGdPUHFMRmhUUVpCSHlIOW8?oc=5)
 
 ---
 

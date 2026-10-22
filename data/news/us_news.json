@@ -1,19 +1,127 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-10-21T21:23:56.324585+00:00",
-  "total_fetched": 130,
-  "unique_count": 130,
-  "health_related_count": 63,
+  "fetched_at": "2026-10-22T03:50:11.080811+00:00",
+  "total_fetched": 140,
+  "unique_count": 140,
+  "health_related_count": 71,
   "news": [
     {
-      "id": "80e7be4205b0",
-      "title": "Women can't find this medication. The problem isn't going away - USA Today",
-      "published": "2026-10-21T20:01:00+00:00",
-      "summary": "Women can't find this medication. The problem isn't going away&nbsp;&nbsp;USA TodayMany Women Are Still Struggling to Fill Estrogen Patch Prescriptions. What to Do If You Can’t Get Yours&nbsp;&nbsp;TODAY.comAAM: Generic drug manufacturers ramp up patch supply&nbsp;&nbsp;Drug Store NewsUK HRT shortages: which products are affected and what to do about it&nbsp;&nbsp;The GuardianWomen warned not to self-medicate amid 'worrying' HRT supply shortages&nbsp;&nbsp;Metro.co.uk",
+      "id": "4c46811b1cfc",
+      "title": "Deadly bacteria discovered at LA medical office as employee tests positive for airborne disease - New York Post",
+      "published": "2026-10-21T23:55:00+00:00",
+      "summary": "Deadly bacteria discovered at LA medical office as employee tests positive for airborne disease&nbsp;&nbsp;New York Post",
       "sources": [
         {
-          "name": "USA Today",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWEstQmFHQnpPSDZtdFNRTDdNbDVzR05uT2pURElvQjlZS0ZpMW1WWXRYcDNoZDBveUs3Y0tIcmlBWVRlTTVXTmp3anhoNmhKTE9ZbFMyU1AxUEduM2xwcmUzTU84Um9XZ0QtX01Cd3NDZU8xVW1KRWstWTE0WHAyWGV4NXBYWDFhWm5LUXRRaEZXUlItSU9nZEtsa2JHcjVyclN4cFd2aVc5S2E2bmlXcjBHZw?oc=5"
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaXRESlgyaGozWTMtTjFmcDhWSExPME9TUFBIMzJhZFh4ZHFLczFiVlF4ejJmdW1TYlE0RnREVzlxdXZGcTNaT3p3clpXWGVLUzRaTGFvWnloZkFqLWxrdnJKVHRLSUFPR3FqUXhqdkhhNnVTWjd2OW90RmdadmJnQUQ4ZFRvelYzNXNKZEF5UnVWYk14N0E0bUQyNHNPYktnNlBYQnhYTHlCOGVL?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "955efedd66f8",
+      "title": "'Betrayed by my body': The taboo health issue women are talking about on social media - BBC",
+      "published": "2026-10-21T23:03:59+00:00",
+      "summary": "'Betrayed by my body': The taboo health issue women are talking about on social media&nbsp;&nbsp;BBC",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mZmpXTTQybFZsNVIxdU5SamJsd1M3S25WejFqVEFsZnhXalk4VUEyc1BaWUR4Rm9CdG5MZ0RTcWx4TXhrOXZXWDhFTmZ3Y2tVQTRVZWRVRHVPams?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e0184c55e081",
+      "title": "Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study - BBC",
+      "published": "2026-10-21T23:02:30+00:00",
+      "summary": "Diabetes and ADHD drugs to be tested on Alzheimer's patients in new study&nbsp;&nbsp;BBCAd-Smart: Burnham backs pioneering clinical trial that could speed up Alzheimer’s treatments&nbsp;&nbsp;The IndependentTangmere dementia charity welcomes national research funding, and calls for support for local families today&nbsp;&nbsp;SussexWorldAndy Burnham welcomes world-first dementia drug trial after dad Roy dies from the disease&nbsp;&nbsp;Daily MirrorAD-SMART: The new clinical trial speeding up the ",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45QkFfYVpfQnVuQTdLY0xvdFUtZlJ4c0VfMXpLTDNaZWljMVhsVjNTbE55Q2cwXzdEMllpd2VHRDVPRENyUDY1WUZsb1ZhMUx6VEhTV05PRVhzVGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c80bfaf9fff3",
+      "title": "Pennsylvania warns of congenital measles risk as cases rise - The Hill",
+      "published": "2026-10-21T23:01:00+00:00",
+      "summary": "Pennsylvania warns of congenital measles risk as cases rise&nbsp;&nbsp;The HillOne US measles outbreak is proving particularly deadly. Here’s why&nbsp;&nbsp;CNNPennsylvania raises alarm on congenital measles&nbsp;&nbsp;CIDRAPUS health agency confirms third measles-related death this year&nbsp;&nbsp;ReutersFirst measles case found in Crawford County, PA passes 1,300 cases&nbsp;&nbsp;WJET/WFXP/YourErie.com",
+      "sources": [
+        {
+          "name": "The Hill",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbXNCc3RoYmFQMk1uNjYtWHRrY3pVT0FDUkx6MEpHODRwZW9HNTNuSElpRjhjZTZEQkhrZU1pNkxCZDZleENHZEtlVkh2akxJVmZ5bC1pUGIzcU5TRFE4eWhzS1pualBpY0VsZjluVjI1NE9STVhEMHdVQ2I5RkFHUzVGZW9MZkRNclV3STZ5d0hXRUY3WENySFpB0gGfAUFVX3lxTE4tRlBYRU5iWnoyOTNFVmh6aEVBM0dqOGxra3VjUEZ5MmFNWDV0NXQzeUo2bXgxV2txbGl5UVo5ZGJZNTdlb29BN0R2OHFYbVZWQlZOSm1Kd214bFVMMG1ZemltWHFZRU1JeVk3T0tqV2I1U3duWlZDQ2k0N0RYT2tlSXFyeGE1UWw0aVZkUTNpOVFaZ0gxNGYzN0hsNVhoMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "925611c41967",
+      "title": "Persistent neuronal stress signalling underlies Angelman syndrome phenotypes - Nature",
+      "published": "2026-10-21T22:46:06+00:00",
+      "summary": "Persistent neuronal stress signalling underlies Angelman syndrome phenotypes&nbsp;&nbsp;NatureRestoring Brain Growth in Angelman Syndrome&nbsp;&nbsp;Neuroscience NewsBuildup of normally harmless enzyme stunts brain growth in mice with Angelman syndrome&nbsp;&nbsp;Medical XpressBuild-up of common enzyme stunts brain growth&nbsp;&nbsp;WashU Medicine",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtTlo3Nlh0RnVfcHZWT1VnRi1FVjEydTlqNXc4RnZQWjFXejVtSUFaYWxOWnB5MEpFbjBWTnMyTi02cTVBZGJaZ2xTblNIX21YWFFPQjFvTkprTk16Um1B?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "297135dcecd4",
+      "title": "Cold activates a BH2 metabolic network promoting longevity and proteostasis - Nature",
+      "published": "2026-10-21T22:46:06+00:00",
+      "summary": "Cold activates a BH2 metabolic network promoting longevity and proteostasis&nbsp;&nbsp;NatureMechanism revealed behind the positive effects of cold temperatures on delaying aging and preventing age-related diseases&nbsp;&nbsp;EurekAlert!Cold triggers a muscle-to-tissue metabolic network in worms&nbsp;&nbsp;Bioengineer.orgCold-Responsive Muscle Substance Delays Aging in Worms&nbsp;&nbsp;조선일보",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GX2Q3dU5Qc1h2TjlnM2FKMzBCREFVajd0Z19iNXVEMkQ3S2hoRlU1VjFmYXVZWnN2V1JmY1RFUWFhYWFVU1l3QUlhOE1qNktkQWhQdVpDSWpGaUNwSXg0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4f5ee90a34fb",
+      "title": "Changes to hepatitis B vaccine recommendations could leave millions of children vulnerable: Study - ABC News - Breaking News, Latest News and Videos",
+      "published": "2026-10-21T20:45:07+00:00",
+      "summary": "Changes to hepatitis B vaccine recommendations could leave millions of children vulnerable: Study&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosKennedy’s Vaccine Plan Could Cause Surge in Hepatitis B, Study Finds&nbsp;&nbsp;The New York TimesHepatitis B: Delaying Shot at Birth Projected to Raise Infection Rates&nbsp;&nbsp;HealthlineUS cohort model projects hepatitis B rise after infant vaccination changes&nbsp;&nbsp;Bioengineer.orgHousehold hepatitis B exposure a risk for unvaccinat",
+      "sources": [
+        {
+          "name": "ABC News - Breaking News, Latest News and Videos",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY2N5dThpcS15T2gxSEFlcW5JWmxQT2g5MldOZHVMdWJYdmtVS2I2ZVJJVWhYc3FiLVlkenhKdWdBUFpleFpsSkZLU3NxNUZ1dVBuQ25sbzJtNzY4d2R6Skcwd1lMLTNuRmFQVkxlRGg5dDl2bFdLRUh3dUZ6a1NXYUhoMjVDN1Z4UWxUMzgxZmdydk5KZEtGSEJrb1JBRnlrVWJQT1RxU0lRTkExWkd2NlF6VVplUFpxVnI2OdIBwgFBVV95cUxPT1ZrdjgtMktuejZmYkhqVUFNWktrb3dfdk9iWWtUNmlYZ29uNkRYVlVOMU03bUxFaG1jR1NIeWZodVVTYTNSUnNWOE1lUnQyMURCUFRJOFcwQmJSN0MzTWhaZnUwMWNxSVJncHExQXptOTZ0UXVvNkxIeWVZVGNOTldFZ0Jtc2h2bWRFVloxYlNWRjhFRXhtSjUzYmMzR0oyalVxcFJ2Q2wyOEJSYVpkbjQzMTJDSWM2UDBZekhpWFlIUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "90432d7cff07",
+      "title": "Stanford researchers create AI immune system to find treatment for early labor - SFGATE",
+      "published": "2026-10-21T19:27:36+00:00",
+      "summary": "Stanford researchers create AI immune system to find treatment for early labor&nbsp;&nbsp;SFGATE'Digital twins' of immune system in pregnancy identify drugs to prevent early labor&nbsp;&nbsp;Medical XpressDigital Twin Model Finds 2 FDA-Approved Drugs May Slow Preterm Labor&nbsp;&nbsp;Mirage News",
+      "sources": [
+        {
+          "name": "SFGATE",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiTDhOYXRTNUJNWC11Wl9pT0Fqd29ST09tc0hxM2VwS1NuWF9MYl9Sdkp3a2s5SW1pMjZTb28yV2pUSkljQ1QtVmxXVFFJY1Y3SUs0VjFMZXdwbHZ6WUMyY21hSzc0b2VmZXBSSFJQdWFwX0pqZlBZeENKRDNKQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "90aa2ff7ebca",
+      "title": "Alleged mice infestation at Albuquerque middle school raises health concerns, staff & parent outrage - KOAT",
+      "published": "2026-10-21T19:11:00+00:00",
+      "summary": "Alleged mice infestation at Albuquerque middle school raises health concerns, staff & parent outrage&nbsp;&nbsp;KOAT",
+      "sources": [
+        {
+          "name": "KOAT",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTHJocFFPNlo3QW8yNDRpVG5ja01yU1VGajd4SDFUTzNfUS1IQ1k5U3NzRDBNams2b3lNV2tGR2NJMlc5WmJ1THhoYjRBTjlKOWRxSFUwdU1PVUdKa0hXdkREVjFHSUktWUo5YlE0UTZWNW5DaTFsLTc1QVFFcVkzUG9IRmljZkZpR3BmWElFQnd2cmRROUFwVnZzdTAtTEFVX1VqM1ZIVFZYYk5CYnRZSnVUMU02QzRQRUY4bmpFNzNWWnpjZmYybWVDQThkYWpK?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4b1d193e0469",
+      "title": "Virus Affecting 60 Percent of People May Hold Clues to Alzheimer’s Risk - Newsweek",
+      "published": "2026-10-21T17:33:00+00:00",
+      "summary": "Virus Affecting 60 Percent of People May Hold Clues to Alzheimer’s Risk&nbsp;&nbsp;NewsweekCommon cold sore virus may quietly disrupt the brain’s immune defenses&nbsp;&nbsp;Earth.comCold Sore Virus Reprograms Brain Immune Cells&nbsp;&nbsp;Neuroscience NewsCommon Cold Sore Virus May Reprogram the Brain’s Immune Defenses&nbsp;&nbsp;University of Colorado Anschutz",
+      "sources": [
+        {
+          "name": "Newsweek",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ1hVOHJMV3pMSEY3QVZ0SThqTHdHUWhZT29TSmdRVG53aWM5NlJLM3pQb3dtOWlEakZvTXRRZEtIZ0t0VVNXVkRveDE2ZnhRUnVUbXQ1MmZUdzVuMWR2dEx5VUgwQ01teEVZR0tnVV9wZ0wtSGZrdEQ3OWU4bGp1bmJDU3hjZmhqUU5VQ3I2dl93NlE?oc=5"
         }
       ]
     },
@@ -21,7 +129,7 @@
       "id": "1064ee8ccd4e",
       "title": "Controversial US-backed vaccine trial in African newborns halted - The Guardian",
       "published": "2026-10-21T17:18:00+00:00",
-      "summary": "Controversial US-backed vaccine trial in African newborns halted&nbsp;&nbsp;The GuardianCops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies&nbsp;&nbsp;Ars TechnicaOPINION | RFK Jr.’s push for anti-vaccine experiment on African babies was never a good idea&nbsp;&nbsp;MS NOWHep B Vax Doses Seized; RFK Jr.'s Brazil Photos; MAHA Advisor's COI Waiver&nbsp;&nbsp;MedPage TodayGuinea Bissau seizes doses of baby vaccines linked to controversial US study&nbsp;&nbsp;TRT Afrika",
+      "summary": "Controversial US-backed vaccine trial in African newborns halted&nbsp;&nbsp;The Guardian",
       "sources": [
         {
           "name": "The Guardian",
@@ -30,34 +138,10 @@
       ]
     },
     {
-      "id": "a4d53de47d71",
-      "title": "The surprising number of daily steps that could sharpen your mind — it’s not 10,000 - New York Post",
-      "published": "2026-10-21T16:26:00+00:00",
-      "summary": "The surprising number of daily steps that could sharpen your mind — it’s not 10,000&nbsp;&nbsp;New York PostColumn | The surprising way walking can benefit your brain&nbsp;&nbsp;The Washington PostHow Many Steps a Day Does It Take to Sharpen Your Attention? A 14-Year Study Hints at The Range&nbsp;&nbsp;ScienceAlertWalking May Improve Your Attention Span&nbsp;&nbsp;NautilusMore daily steps over a long period linked to better attention and decision-making&nbsp;&nbsp;Medical Xpress",
-      "sources": [
-        {
-          "name": "New York Post",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQTZSMkFSb2FuOHpYMms3aVd1VFhjbHdDdHU2eWNUNUkxMVplcG5ncjE2MGpiaFhJYm42VWRFYS1nS0doYmEzWXhKOEk3djRfOU9QVUMtN1FYNHkzRUg2cmVSOXNKMWg0UFRGaklQU2wwMWFFVjNsMUg1eEMxLUtjWUFCdFNaNVJGRjFxc2ctMDNfOU5GTnJtcmNkV1R3bjFqRU9hb3B3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "768bb84eae64",
-      "title": "Couple Welcomes Third Baby—Weeks Later, Dad Gets Devastating Diagnosis - Newsweek",
-      "published": "2026-10-21T16:03:00+00:00",
-      "summary": "Couple Welcomes Third Baby—Weeks Later, Dad Gets Devastating Diagnosis&nbsp;&nbsp;Newsweek",
-      "sources": [
-        {
-          "name": "Newsweek",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSjZkYm9xeU5ZbXhYMnRENU1NckplTS1uUUE5Qnp1WGFhMkpUY2hzUzh4TklIby1BcWllSzdxeExrM1g0RW9fWlZVTEdOcWEwLUo0OUVCNFhEU195cFFfY0owTl9wRk9Bdi0ySk1SSm5sQWI2RFdSNS1vSWFxTlNVNHVMX1ZSUW1tTko5RTBoTkppNVp1MmNDSFBuSWY1OFI1SzljV213?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fa18fa40a0cc",
       "title": "Here’s what to expect if you’re taking a month off from drinking - The Washington Post",
       "published": "2026-10-21T16:00:00+00:00",
-      "summary": "Here’s what to expect if you’re taking a month off from drinking&nbsp;&nbsp;The Washington PostWhat Happens to Your Brain When You Stop Drinking Alcohol&nbsp;&nbsp;EatingWellSober October highlights recovery, faith and a new way of life&nbsp;&nbsp;myfoxzone.com",
+      "summary": "Here’s what to expect if you’re taking a month off from drinking&nbsp;&nbsp;The Washington PostWhat Happens to Your Brain When You Stop Drinking Alcohol&nbsp;&nbsp;EatingWellSober October highlights recovery, faith and a new way of life&nbsp;&nbsp;myfoxzone.comSober October and the growing trend to cut back on alcohol&nbsp;&nbsp;WGBHStop Drinking Alcohol, Memory Can Improve and Sleep More Nyenyak&nbsp;&nbsp;VOI.ID",
       "sources": [
         {
           "name": "The Washington Post",
@@ -66,14 +150,14 @@
       ]
     },
     {
-      "id": "ac72069123b3",
-      "title": "Hard-Boiled Eggs vs. Cottage Cheese: Which Is Better for Heart Health? - EatingWell",
-      "published": "2026-10-21T14:00:00+00:00",
-      "summary": "Hard-Boiled Eggs vs. Cottage Cheese: Which Is Better for Heart Health?&nbsp;&nbsp;EatingWell",
+      "id": "001b5601a3a3",
+      "title": "More daily steps over a long period linked to better attention and decision-making - Medical Xpress",
+      "published": "2026-10-21T13:50:02+00:00",
+      "summary": "More daily steps over a long period linked to better attention and decision-making&nbsp;&nbsp;Medical XpressColumn | The surprising way walking can benefit your brain&nbsp;&nbsp;The Washington PostThe surprising number of daily steps that could sharpen your mind — it’s not 10,000&nbsp;&nbsp;New York PostWalking May Improve Your Attention Span&nbsp;&nbsp;NautilusHow Many Steps a Day Does It Take to Sharpen Your Attention? A 14-Year Study Hints at The Range&nbsp;&nbsp;ScienceAlert",
       "sources": [
         {
-          "name": "EatingWell",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbWtYV3hjLWNHdDlHbDFaa2RHSTdOYzJEa2hfRXVjQ2J0S2drTUx1MmtyS1ZidnVJZGZYZXZreHRhZVhhWS1xdUFuOE5BR2NlQmRIVW92WDY4c21FdDN3Y3hWbGVTeHdISzI4N2pUSFRES2xnTTJHQUwwWUZPck9tWjBXTTBaN3VaeTRB?oc=5"
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWjJBVXowLUZ4RjBJa2JuSkY5R0x2aUFGbkVSNzRTc1VPVlVROW1jODNMYmFveS0xUFJoQVV1bjRlSXVPRTB5RlRXMy1rVmFGTm9tN3l2bXRaZVNidjNhelRQYlV4RXRZdndIRldGajFjekFTVzk5blZkWnFBZ2w5aHpIZlpnSWtCa1E?oc=5"
         }
       ]
     },
@@ -90,18 +174,6 @@
       ]
     },
     {
-      "id": "5108f245f94c",
-      "title": "Gut-friendly fiber formula gives hope to IBS sufferers - Medical Xpress",
-      "published": "2026-10-21T12:00:05+00:00",
-      "summary": "Gut-friendly fiber formula gives hope to IBS sufferers&nbsp;&nbsp;Medical Xpress",
-      "sources": [
-        {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5X2hSZmhyYklLMmJxNEVqTmN4ZDdpaWlTZktwMjhXVENGYnBJdk5YVHZMQTEzZnp2SVRWaFFyQ1ZJRG9PY0RWX2prcHBjUXV3NUFtWjRHUC1BN3EzM25HVU5BUG9jV2xxUWRwaU9yMFRYaWh4VVZyWkR1b1k4bHc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5493b1b3b9ed",
       "title": "Antarctica's Doomsday Glacier is melting twice as fast as we previously thought - The Weather Network",
       "published": "2026-10-21T12:00:00+00:00",
@@ -114,14 +186,26 @@
       ]
     },
     {
-      "id": "fff0e56abaa8",
+      "id": "b693906793cc",
+      "title": "Rabies concerns grow after record number of infected bats found in Los Angeles - FOX Weather",
+      "published": "2026-10-21T11:49:00+00:00",
+      "summary": "Rabies concerns grow after record number of infected bats found in Los Angeles&nbsp;&nbsp;FOX WeatherIs Rabies Making a Comeback?&nbsp;&nbsp;The New York TimesRabies reports are rising in California. The reason why is a mystery&nbsp;&nbsp;San Francisco ChronicleRabies Alerts Across the U.S. Put Pet Owners on Edge as Infected Cats, Bats, and Raccoons Are Discovered&nbsp;&nbsp;Vet CandyExpert Say Risk of Rabies Could Be Rising&nbsp;&nbsp;Newser",
+      "sources": [
+        {
+          "name": "FOX Weather",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNzVMUW1yZkRWT2M2MFhmYTRGSHFGbnJPbmNqcGpCcnRTZlcxblZpUS1nZ01XUUZoMXZkMHVmVnJIRGNqdmIzVVJIRU82anY1cDhkWVpnaUJMQjRUMnNfQ0d5b1VCWkh2SS1UNzlVN0Y0dzByQ3F2QzhpakJkc1QtTzZ5T21xdW5RVm9qR1FtMHdDUjg5QWh4LVZ6bzV5ZEZCaFQ0dHRWQUFrOWxfNGozONIBtgFBVV95cUxQTzVFSkRUU0hhNk9KQnR4NGpsdUR2SDFzSTNnRXloUUQ4WkI0cF9ZY0YxcE9EcFNGSmhIWWRUUEhuT0pFUUdkd2o2WHR4TFZHa3FzSVQ3YUQ1VlJIZE0yX0Job3lIdHZWY0dfVkVnekZjdXhaMGRiM3hLR2FuVnlzODBFT0tMYjJoaFp6bTVxMGRpeUFaRm9NYTRFMmdyaVBBS240c3dCb3dQcFBYQ0xZSlRBbWFiUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "49311b4abd54",
       "title": "95 cases of Norovirus confirmed at metro area elementary school - KCTV",
       "published": "2026-10-21T11:41:00+00:00",
-      "summary": "95 cases of Norovirus confirmed at metro area elementary school&nbsp;&nbsp;KCTVSee more headlines & perspectives on Google News",
+      "summary": "95 cases of Norovirus confirmed at metro area elementary school&nbsp;&nbsp;KCTVNearly 100 cases of norovirus reported inside one elementary school, health officials say&nbsp;&nbsp;KY3Nearly 100 kids, staff at Kansas elementary school come down with norovirus in outbreak&nbsp;&nbsp;The IndependentAfter 97 cases, norovirus outbreak ends at Overland Park elementary school&nbsp;&nbsp;YahooNorovirus outbreak confirmed at metro area elementary school with around 85 cases reported&nbsp;&nbsp;WAFB",
       "sources": [
         {
           "name": "KCTV",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPemswSE9wMmpjSlpfa2dER0k3cDJyRkxHRkozM05TTDVUZEJPSXFQckdJLWxJajdGVWpiTzlzaVpwamJmLWphMmRwZHk0TmUyY0tkVHBFUzdBa010ZlFZWGphQzhQMzRPSDFFXy04MHNxRHNyc3V2WGhJNG5BZ2RWbktWSjRYVnQtODdkV1hBaDNtZHJTUVdEdDE4WTl1SmRGcWRUejdtTUVlem5SMkx2WW9QdjBDWmRieGxGeXVR?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZGdjWGU3ZFM3by1JUnFBdl94bUFqS29UaFZEdjh6U1Vna1lGby1oeTY1bjkyOGY4VTVMQkk2NjFnNG44eUpwZHZ2SUZ1VUFITFdHaVE4UG5seG5RQy1NS1VvSW9nMzhlUXM0MHU3dTJDaXVzNUk5TGpUckp3T1otQzVmYTZLZEt5TTNkY0tJOUlXTlQxMFE?oc=5"
         }
       ]
     },
@@ -129,11 +213,23 @@
       "id": "c908f4d89d35",
       "title": "New study reveals daytime nap linked to increased chance of this disorder - AL.com",
       "published": "2026-10-21T11:23:00+00:00",
-      "summary": "New study reveals daytime nap linked to increased chance of this disorder&nbsp;&nbsp;AL.comYour Unplanned Daytime Naps Could Raise Your Dementia Risk by 39%&nbsp;&nbsp;PreventionPopular daytime habit linked to a 48% greater risk of dementia&nbsp;&nbsp;New York PostIs your daily nap a sign of something more dire?&nbsp;&nbsp;The IndependentNapping and Dementia Risk; Autism Paper Concern; First NASCAR Driver With CTE&nbsp;&nbsp;MedPage Today",
+      "summary": "New study reveals daytime nap linked to increased chance of this disorder&nbsp;&nbsp;AL.comFrequent daytime naps linked to 48% greater risk of dementia, study says&nbsp;&nbsp;KCRAPopular daytime habit linked to a 48% greater risk of dementia&nbsp;&nbsp;New York PostNapping and Dementia Risk; Autism Paper Concern; First NASCAR Driver With CTE&nbsp;&nbsp;MedPage TodayIs your daily nap a sign of something more dire?&nbsp;&nbsp;The Independent",
       "sources": [
         {
           "name": "AL.com",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMVhwRmtKV1dDeURvcFJ0ZXZmM19Kd25UeDFjdGdFd29VQkRGbTgtSDJGTDBJVDU1QlNTeGdEN1JJOWJEaTNRaElMUW0zanI5bDYzdHVfeFBlVHNQNmFsdXFPeF9jZ3hrMzFVbzNqbEpEZFJuN2p6WVBNQU54RDlUaUFnTzdOdjc0N1dzaTQtUXplWWJXU2pzRUM4dmNCRFc5MW9SdUl2N1RjenRjTTlR0gHDAUFVX3lxTE9kZHkxT0w2dWJkUk1rZmp1N1hKOXpDQlNVZHYxTWpZUmxaOVBpaE4ySE91eF9qSkhYZGdMb09XLS1ha0pRZ0doSXRkcnQ3OXN6Uk5uSjBHR0pmRnF3cHRMa3pLaTRtNmdqYnVzVVlYVERBTnlhRXhFUnhjUXM2UkljeHNIWnhFQlQxcWZpTnRFMVN5VmV3YXJMeXNhSGZoYXBXQ0RrT0tmdGxMeTF2MzBLVW8tMFNpMS1mcVBidDliMklobw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9c3998306071",
+      "title": "Rejuvenation breakthrough: Scientists reverse 60 years of aging in human cells - Science Daily",
+      "published": "2026-10-21T11:05:34+00:00",
+      "summary": "Rejuvenation breakthrough: Scientists reverse 60 years of aging in human cells&nbsp;&nbsp;Science DailyOld Blood Cells Have Been Transformed Into Brain Stem Cells That Get Younger As They Age&nbsp;&nbsp;ScienceAlertIn Bonn, blood cells were turned into younger neural stem cells — ScienceAlert&nbsp;&nbsp;UA.NEWSSixty years in 50 days: how we’ll rejuvenate our neurons and better combat Alzheimer’s&nbsp;&nbsp;Il Sole 24 OREBlood Cells From an 80-Year-Old Were Reprogrammed to Show an Epigenetic Age ",
+      "sources": [
+        {
+          "name": "Science Daily",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12SEFyQnMyS3I5U0dwRDh5SzVESHJmcm5aYWtYTTVPWjBXV1dNWnp1NkZCcVF3WnFLUWU0TjdvcnY5UDBFY201WXJ3b2tFUmZPSXM0bUR3YU4tSmlmVW02WU9Ra185SnZDbVY1R0VrSQ?oc=5"
         }
       ]
     },
@@ -153,7 +249,7 @@
       "id": "351fc1ad92d1",
       "title": "ADHD linked to 70% higher death rate, but medication may help protect against early death - New York Post",
       "published": "2026-10-21T10:13:00+00:00",
-      "summary": "ADHD linked to 70% higher death rate, but medication may help protect against early death&nbsp;&nbsp;New York PostPeople With ADHD Face a 70% Higher Risk of Early Death. This Seems to Help&nbsp;&nbsp;GizmodoADHD Tied to Higher Mortality Risk&nbsp;&nbsp;MedPage TodayCommon disorder linked to 70% higher death rate, but medication may offer protection&nbsp;&nbsp;Fox NewsADHD Drugs May Reduce The Risk of Early Death, Major Study Finds&nbsp;&nbsp;ScienceAlert",
+      "summary": "ADHD linked to 70% higher death rate, but medication may help protect against early death&nbsp;&nbsp;New York PostPeople With ADHD Face a 70% Higher Risk of Early Death. This Seems to Help&nbsp;&nbsp;GizmodoADHD Tied to Higher Mortality Risk&nbsp;&nbsp;MedPage TodayADHD Drugs May Reduce The Risk of Early Death, Major Study Finds&nbsp;&nbsp;ScienceAlertADHD Linked To 71% Higher Death Risk, Study Finds&nbsp;&nbsp;StudyFinds",
       "sources": [
         {
           "name": "New York Post",
@@ -162,10 +258,22 @@
       ]
     },
     {
+      "id": "eb1f49645d79",
+      "title": "A happy marriage may hide a health risk: How couples’ daily routines influence biological ageing; what pa - The Times of India",
+      "published": "2026-10-21T10:09:00+00:00",
+      "summary": "A happy marriage may hide a health risk: How couples’ daily routines influence biological ageing; what pa&nbsp;&nbsp;The Times of IndiaNew research suggests that having a happy marriage can be a big problem for a couple's longevity&nbsp;&nbsp;UpworthyMizzou study to test couples’ routines and blood glucose&nbsp;&nbsp;Bioengineer.orgDon’t go breaking my heart: Mizzou researchers explore how couples’ daily lives may affect health&nbsp;&nbsp;Show Me Mizzou",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQSFZGNkpCU0xLT3IxTkVKNEcybVNQbXY5eXJKR3d4RUktY0RpUHl0dW5UbkZZYjF2bDBuU1VLTV9abDZwSlpRYng3VWVwcFF3X0VHRktfdWlnTGpFNmdBOXhFaVptdlB1UjJzYXRnTXlvcHlZQ2ZFWG56M1EzWGlYQW8zWHdHbDBvVzlOUFFmYTlHQ2NDUlZkS1ZITVBhWnRxaWRTWk5uSVRhQU9oaHpZdnhYRFdRZFI4VUMxZzZacllVMTVfd2NYd0c1d0QydlQ0cmtMZ1JscVliUVAtUDZYYXg1NENsblpwOG5GRFd5OG41MzJWXzhYaGo4SS1VeG5od3Vja0I2Y2hsU1IyOE80SmV2TEh2RDlGRUtVR0N2WHBfVGxYTV9YdGpGN3RxeWRqdjg4U2ZZUml4R1UxQjZaR1R5RzQ0Wl9YekRERXpPWHhXMi1IUWhxcTY3MmJBNXVLcmc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "074e6a2ca3dd",
       "title": "This chart shows just how rapidly Ebola is spreading - Vox",
       "published": "2026-10-21T10:00:00+00:00",
-      "summary": "This chart shows just how rapidly Ebola is spreading&nbsp;&nbsp;VoxAs Ebola spreads in Congo, grieving families face a growing mental health toll&nbsp;&nbsp;AP NewsCongo’s Ebola Gains Falter as Transmission Worsens in North Kivu&nbsp;&nbsp;Bloomberg.comThe Ebola crisis is far outpacing the response, Congo's IRC director says&nbsp;&nbsp;NPREbola's spread to 3 African regions makes it most widespread outbreak in history&nbsp;&nbsp;Yahoo",
+      "summary": "This chart shows just how rapidly Ebola is spreading&nbsp;&nbsp;VoxAs Ebola spreads in Congo, grieving families face a growing mental health toll&nbsp;&nbsp;AP NewsCongo confirms Ebola outbreak has spread to eighth province&nbsp;&nbsp;ReutersThe Ebola crisis is far outpacing the response, Congo's IRC director says&nbsp;&nbsp;NPRCongo’s Ebola Gains Falter as Transmission Worsens in North Kivu&nbsp;&nbsp;Bloomberg.com",
       "sources": [
         {
           "name": "Vox",
@@ -186,10 +294,10 @@
       ]
     },
     {
-      "id": "81a3429da374",
-      "title": "How to Lower the Likelihood of Alzheimer’s if You Have a Genetic Risk - The New York Times",
+      "id": "6aedd949b16f",
+      "title": "How to Lower Your Alzheimer’s Risk if You Have the APOE4 Gene Variant - The New York Times",
       "published": "2026-10-21T09:01:49+00:00",
-      "summary": "How to Lower the Likelihood of Alzheimer’s if You Have a Genetic Risk&nbsp;&nbsp;The New York TimesScientists are unraveling the biggest genetic risk factor for Alzheimer's&nbsp;&nbsp;Live ScienceWhy some people escape Alzheimer’s despite carrying a high-risk gene&nbsp;&nbsp;Science DailyStudy links Alzheimer’s risk variant to damage in brain’s protective barrier&nbsp;&nbsp;Deseret NewsMIT Picower Institute restores damaged myelin signaling in APOE4 Alzheimer’s model&nbsp;&nbsp;DongA Science",
+      "summary": "How to Lower Your Alzheimer’s Risk if You Have the APOE4 Gene Variant&nbsp;&nbsp;The New York TimesScientists are unraveling the biggest genetic risk factor for Alzheimer's&nbsp;&nbsp;Live ScienceWhy some people escape Alzheimer’s despite carrying a high-risk gene&nbsp;&nbsp;Science DailyStudy links Alzheimer’s risk variant to damage in brain’s protective barrier&nbsp;&nbsp;Deseret NewsMIT Picower Institute restores damaged myelin signaling in APOE4 Alzheimer’s model&nbsp;&nbsp;DongA Science",
       "sources": [
         {
           "name": "The New York Times",
@@ -210,14 +318,26 @@
       ]
     },
     {
-      "id": "b73e6ed059d2",
-      "title": "Can drinking tea help protect against cardiovascular disease? - Medical Xpress",
-      "published": "2026-10-21T07:00:02+00:00",
-      "summary": "Can drinking tea help protect against cardiovascular disease?&nbsp;&nbsp;Medical XpressHow you drink your tea could determine whether you gain or lose heart health benefits&nbsp;&nbsp;CNNDrinking seven cups of tea a day linked to better heart health&nbsp;&nbsp;The TimesDrinking Tea May Reduce Vascular Disease Risk&nbsp;&nbsp;NautilusTea drinking may be good for your heart, researchers say&nbsp;&nbsp;RTE.ie",
+      "id": "be70d6fdd252",
+      "title": "A counterintuitive way to build trust in measles vaccines and public health - STAT",
+      "published": "2026-10-21T08:33:13+00:00",
+      "summary": "A counterintuitive way to build trust in measles vaccines and public health&nbsp;&nbsp;STAT",
       "sources": [
         {
-          "name": "Medical Xpress",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZUEJLRzA4a0xVTnlEcXFvOS1ldFpRdTVydUNYLTAyWEg5a1BRc1J6QXhoS3RVQ0RfWExzNWdyMV9fZlV0dW05WTV1OGZ6Ynlsd2dSamtUNGJfYXBVQU45QWdBcVBfbUtBVHlWRWhNOTV4ZU90a2l4dDV3?oc=5"
+          "name": "STAT",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTkhoYlI0aF9yMFdVU19RbkV1cDcxblFxNnVjbFB1NzZEQWszaTUzY0VweXVIQVJMSVZKYTNmeGNadklQU2NGWXpUN09MSjQtSzFhSXM3dUhIUVZUMjE0X3l3SV9aVUJvNlRrZGstRV82cVdIblhjclVndDJLMjZkeW5SNV9UMkhEckh6a1c2VlZ0TmJVZVVYcEdnbnA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a123d87dcc2b",
+      "title": "How you drink your tea could determine whether you gain or lose heart health benefits - CNN",
+      "published": "2026-10-21T07:01:44+00:00",
+      "summary": "How you drink your tea could determine whether you gain or lose heart health benefits&nbsp;&nbsp;CNNCan drinking tea help protect against cardiovascular disease?&nbsp;&nbsp;Medical XpressDrinking seven cups of tea a day linked to better heart health&nbsp;&nbsp;The TimesHow you drink your tea matters, scientists discover&nbsp;&nbsp;The IndependentTea drinking may be good for your heart, researchers say&nbsp;&nbsp;RTE.ie",
+      "sources": [
+        {
+          "name": "CNN",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcGJ6cGJPV1NBS3hsdkpVR2F2QWpiVi1LbVFrWkIzN0gwWVRKVDNTM1pXZTRYT3RkX1JDQllLZThfbGhsSjF1S0xDTlU4YUV3R0VKSGRvemxaMlVtTDRHS0k5dlg0VDE5OGVZZnE4SmhKMVIzUnU2czVqMEFYY3JEZjFLTkNFN19sSnVrd1ZMcVdCUC1KSEVscGtoSVV6Wmc?oc=5"
         }
       ]
     },
@@ -225,7 +345,7 @@
       "id": "209c4bba4b64",
       "title": "Body clock disruptions contribute to one in four cases of depression, suggests large study - Nature",
       "published": "2026-10-21T04:18:02+00:00",
-      "summary": "Body clock disruptions contribute to one in four cases of depression, suggests large study&nbsp;&nbsp;NatureAustralian researchers identify new subtype of depression linked to body clock disruptions&nbsp;&nbsp;The GuardianResearchers Identify New 'Circadian' Subtype of Depression Affecting 1 in 4 Patients&nbsp;&nbsp;ScienceAlertNew Type of Depression Linked to Disrupted Sleep and Out-of-Sync Body Clocks&nbsp;&nbsp;People.comNew research may change the way many people with depression are treated&",
+      "summary": "Body clock disruptions contribute to one in four cases of depression, suggests large study&nbsp;&nbsp;NatureAustralian researchers identify new subtype of depression linked to body clock disruptions&nbsp;&nbsp;The GuardianResearchers identify new “circadian” subtype of depression&nbsp;&nbsp;The University of SydneyNew Type of Depression Linked to Disrupted Sleep and Out-of-Sync Body Clocks&nbsp;&nbsp;People.comNew research may change the way many people with depression are treated&nbsp;&nbsp;SMH",
       "sources": [
         {
           "name": "Nature",
@@ -234,10 +354,22 @@
       ]
     },
     {
+      "id": "eb13198be092",
+      "title": "Two-letter trigger makes US robot turn knife toward human hand in security test - Interesting Engineering",
+      "published": "2026-10-21T03:35:00+00:00",
+      "summary": "Two-letter trigger makes US robot turn knife toward human hand in security test&nbsp;&nbsp;Interesting EngineeringAI-powered robots can be tricked into slicing off fingers&nbsp;&nbsp;Popular ScienceSecret Trigger Words Can Turn a Helpful Household Robot Into a Weapon. Researchers Just Proved It&nbsp;&nbsp;Gadget ReviewControlled robot experiment shows trigger attack and defense for LLM planners&nbsp;&nbsp;Bioengineer.orgSecret Trigger Words Could Make AI-Powered Robots Dangerous, But Researchers",
+      "sources": [
+        {
+          "name": "Interesting Engineering",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbWxINmp5Znl2QURKVUVld0M5QmhFTUtDRnhmWGlPTXFYN1pKUFZwMHZFUVR2UmI1WUdHSFk2Um4yRWdzQktEQ2FQREZFdnZGVFJDVGJJLS1RSElMTHNUR09EazZneDBJM0JHRjdOTUFsRW9wNlViSUNnSlFjMXppUjczeENRRlZFSjhj?oc=5"
+        }
+      ]
+    },
+    {
       "id": "8168f6ae3767",
       "title": "Flu season is hitting early, doctors recommend vaccinations - WMUR",
       "published": "2026-10-21T03:02:00+00:00",
-      "summary": "Flu season is hitting early, doctors recommend vaccinations&nbsp;&nbsp;WMURFlu Season Has Landed Early, and Your Vaccination Is Overdue&nbsp;&nbsp;Bloomberg.comOfficials urge vaccines for flu and other respiratory illnesses amid limited pediatric ICU capacity&nbsp;&nbsp;KGWEarly flu season lands in WA as COVID numbers also rise&nbsp;&nbsp;The Seattle TimesThis year's flu season may come a little early&nbsp;&nbsp;Dallas News",
+      "summary": "Flu season is hitting early, doctors recommend vaccinations&nbsp;&nbsp;WMUREarly US flu season, current strain may signal risk for younger people; doctors urge shots&nbsp;&nbsp;ReutersFlu Season Has Landed Early, and Your Vaccination Is Overdue&nbsp;&nbsp;Bloomberg.comDoes an early flu season mean a more severe one?&nbsp;&nbsp;NewsNationEarly flu season lands in WA as COVID numbers also rise&nbsp;&nbsp;The Seattle Times",
       "sources": [
         {
           "name": "WMUR",
@@ -258,18 +390,6 @@
       ]
     },
     {
-      "id": "ed43ef2f1714",
-      "title": "14 years after terminal cancer diagnosis, survivor finds hope in new UCLA cutting-edge treatment for rare pancreatic cancer - ABC7 Los Angeles",
-      "published": "2026-10-21T00:48:51+00:00",
-      "summary": "14 years after terminal cancer diagnosis, survivor finds hope in new UCLA cutting-edge treatment for rare pancreatic cancer&nbsp;&nbsp;ABC7 Los Angeles",
-      "sources": [
-        {
-          "name": "ABC7 Los Angeles",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQTJkRDBuMHBuN2J6emJTaURMQW1STF9KSmU2Nnl1bVkwR05EdzVibEJ3cm5UdlJFc0Fwa3g3ZzQ4S29MSl94THNRRzFPaVdCeFlLMG1vTHhkelhObnc0dUNVZlB4aWYwUjFHNnprb0tYVzZyemx3d2ZFempFVXNDM3p6Z2FBNlBzNl91eGYxUXBNbHFDaEVyYk8xd1pfa1BhRkJUVDhLNmVtQjU4bmUwaWZqRzBRY1l6cEY2TkZpNXBZR3NUTVRDdUkyVUFEM1nSAdQBQVVfeXFMUDQwenpkenhHUUQ0V2tkS3pmek5pUVloTnNmVE1fOWNyQjN1blEyMTFwUnI1RzhOcVhzcEZTQXIxWFkwN3kzcnpyQ2ZqRWZCZ0drR1B2VDEyWEFMclJPaEZBMVlacTBqZzNqTW1UbTFJTG9wSVpIbEZZV2NNaWpReHdSTnJSYnQ0Tk5lOGNTQ0xuZS0tQUJHak51Q0ZnMXZYTWFZdmpKLWVDN2JRYXN5S3o1UXJJYnlLWHJMak5mdl9iY0RkYnZoM29UczlzOTg0TnEtUy0?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e5852337caba",
       "title": "Earth's Poles Have Dramatically Shifted 4 Times - Newser",
       "published": "2026-10-20T23:00:00+00:00",
@@ -285,23 +405,11 @@
       "id": "c063556a0a93",
       "title": "Genetic study shows seafarers from Easter Island settled Hawaii - Honolulu Star-Advertiser",
       "published": "2026-10-20T22:53:06+00:00",
-      "summary": "Genetic study shows seafarers from Easter Island settled Hawaii&nbsp;&nbsp;Honolulu Star-AdvertiserNew genetic study reveals surprising origin of Native Hawaiians&nbsp;&nbsp;Stanford MedicineDNA Reveals How Medieval Voyagers Settled Hawaii&nbsp;&nbsp;Medievalists.netReuters Science News Summary&nbsp;&nbsp;DevdiscourseAncient Polynesian seafarers may have crossed more than 7,100 kilomete&nbsp;&nbsp;News of Bahrain",
+      "summary": "Genetic study shows seafarers from Easter Island settled Hawaii&nbsp;&nbsp;Honolulu Star-AdvertiserSee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "Honolulu Star-Advertiser",
           "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQUQ2QTltZ2h4cHFzbGk2NXVJaTlSZlptRnBwQ0tlSUttZXQ3cnVkQXFmUHJTQW1VR0N0Uks0Rm1NMWxaazVqaTAzbWx4bF9GczE3Y2Z5eEZGM0RSWWllOVVrS3hZUjU0dWpIZFZOb1ZZTk9nNkZYLVE5Ui1kRzNtRlZJWUZ3WmIxdERDMHpBS3V2bVIyY0EtelV2bVJ0dU1tOEVuMDBESlA5UjlHM3oyM09qWURhZS0zSzcyaQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2409707b47d6",
-      "title": "Pennsylvania raises alarm on congenital measles - CIDRAP",
-      "published": "2026-10-20T21:11:10+00:00",
-      "summary": "Pennsylvania raises alarm on congenital measles&nbsp;&nbsp;CIDRAPOne US measles outbreak is proving particularly deadly. Here’s why&nbsp;&nbsp;CNNA counterintuitive way to build trust in measles vaccines and public health&nbsp;&nbsp;STATUS health agency confirms third measles-related death this year&nbsp;&nbsp;ReutersOfficials confirm Crawford County's first measles case since 2019&nbsp;&nbsp;Yahoo",
-      "sources": [
-        {
-          "name": "CIDRAP",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRjJjOFI4WFBiTlgzVWNVZm04a1RPbllWc0dSS2g0dFo2V0hBYlpuR1ZTNy1ibjF5RnlNQkw5VmZ1UEF1Zzc1dXV0T21hdnRiLVd5TzhkelZjc2cwdHF3dS1ueEJ1anpJYkFQaXBoVE5TTzlUY0VROWJpUGYwNWJPUFhoN0JnZw?oc=5"
         }
       ]
     },
@@ -318,26 +426,38 @@
       ]
     },
     {
-      "id": "22d2b60337ba",
-      "title": "Amish families pushed to undo a vaccine law. Then measles arrived - The Seattle Times",
-      "published": "2026-10-20T19:38:47+00:00",
-      "summary": "Amish families pushed to undo a vaccine law. Then measles arrived&nbsp;&nbsp;The Seattle TimesAmish Families Pushed to Undo a Vaccine Law. Then Measles Arrived.&nbsp;&nbsp;The New York TimesSome Amish recall COVID dictates and question government on measles&nbsp;&nbsp;Times ObserverHouse pushes aside objections and passes bill on license plate readers&nbsp;&nbsp;The Bradford EraVaccines, religious freedom, and protecting children’s health: New York Amish appeal to Supreme Court after $118,000 in",
+      "id": "031f960d6a26",
+      "title": "A 23-foot drone sailboat left Tasmania to circle Antarctica alone for 200 days, met waves over 26 feet within days of leaving, and will log more than 13,000 miles measuring how much carbon the Southern Ocean swallows before coming back to swap its sensor - Autonocion.com",
+      "published": "2026-10-20T21:00:28+00:00",
+      "summary": "A 23-foot drone sailboat left Tasmania to circle Antarctica alone for 200 days, met waves over 26 feet within days of leaving, and will log more than 13,000 miles measuring how much carbon the Southern Ocean swallows before coming back to swap its sensor&nbsp;&nbsp;Autonocion.com23-Foot Drone Sailboat Begins Solo: Full Details&nbsp;&nbsp;JournalArtaSaildrone research fleet to circle Antarctica for 5 years&nbsp;&nbsp;NOAA Pacific Marine Environmental Laboratory (.gov)",
       "sources": [
         {
-          "name": "The Seattle Times",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZjlHb1lwUTBxT0tyOV9Td21pa3hnbzYxU09HSTlUNzItS3pQa1BvWFNiSXlMeFJlMm84YXhhNFNpWWpJaWNLZXZUMERrdHVvTGVmdWxvR09PX0M4MHpRWUJpR3o3cDVOdE5tZGxrd3o0MnhYVVpQa3NmYS0zeDdNb2Zxbkx0cXd4MV9mX1pqYzEyS0FUSmNua1hWYWtqZFAtMU9FVjlpQk9VSUk?oc=5"
+          "name": "Autonocion.com",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV3k3Q082QjgzbERqNFBwTGZfaEpHTEdOVWtJZXNmSXd2cEY2YVBjSmFhOThDaDhWVnFNektjUFp4cHc5QV83QWhfNnZBX280ZklmX3gtbDlKTWtfeUlXZjJRYnNiSXBPNGpPWVI1SFRjUkdWcHhuWklzMmNRb0RnYVhabjA3V2F5Z21CaXpKZw?oc=5"
         }
       ]
     },
     {
-      "id": "37b49117b417",
-      "title": "Colon cancer is now the second-leading cause of cancer death - KOCO",
-      "published": "2026-10-20T18:39:00+00:00",
-      "summary": "Colon cancer is now the second-leading cause of cancer death&nbsp;&nbsp;KOCOCMC GI expert speaks on rising rates colon cancer rates among younger patients&nbsp;&nbsp;WMURDiet’s impact on gut health may help explain rise in colon cancer among young adults&nbsp;&nbsp;WKRCColorectal cancer is affecting younger people more and more, raising concerns about 5 high-risk groups.&nbsp;&nbsp;Vietnam.vn10.5% of new colorectal cancer cases in US occur in people under 50&nbsp;&nbsp;EFE Comunica",
+      "id": "dc710fea7a05",
+      "title": "Boston is getting a new cancer hospital. Here’s what Dana-Farber's $1.7B project means for patients - WBUR",
+      "published": "2026-10-20T20:46:59+00:00",
+      "summary": "Boston is getting a new cancer hospital. Here’s what Dana-Farber's $1.7B project means for patients&nbsp;&nbsp;WBURDana-Farber, Beth Israel to begin construction of new $1.68 billion cancer hospital&nbsp;&nbsp;The Boston GlobeDana-Farber Breaks Ground on Lavine Bekenstein Cancer Hospital&nbsp;&nbsp;Beth Israel Deaconess Medical CenterDana-Farber and Beth Israel Break Ground on $1.68 Billion, 300-Bed Boston Cancer Hospital Opening in 2031&nbsp;&nbsp;Medical DailyDana-Farber shifts 1st patients as",
       "sources": [
         {
-          "name": "KOCO",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1wY05wT1RHNVVzcnNvNENfeDgxc2xCZWVyVkg3QlR0alhnX1N0QWQ5NklsUTVrR0QwV09qeTRFZm01YThaUUZmUURyemtWbEpnTHVmdTVLT1ZuODY0dEFUY0VSV2dRdjNVMzJ5ZXdyMHA2TXFaajZGSHR4dw?oc=5"
+          "name": "WBUR",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUm0wVlJGMzU2ejZLb2k3ZkVYWl80VVdaNUZPZHBPclpCck10MnBqNEhEQzZZbjRITzMtaXBqV3dNU1A2OUVETDcxNk1BRE1yR3lSamxWVF9mOEthd1RVMXdkakVHM3MtODlHQVlFM2Jlclo4S3BlcFdqSGdybjhYV21EWWtENkNnSUw2RE5VcVdqc19rWjA2NFRn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e9b3ed772bf2",
+      "title": "Colon cancer is now the second-leading cause of cancer death - WBAL-TV",
+      "published": "2026-10-20T18:39:00+00:00",
+      "summary": "Colon cancer is now the second-leading cause of cancer death&nbsp;&nbsp;WBAL-TVCMC GI expert speaks on rising rates colon cancer rates among younger patients&nbsp;&nbsp;WMURDiet’s impact on gut health may help explain rise in colon cancer among young adults&nbsp;&nbsp;WKRCColorectal cancer is affecting younger people more and more, raising concerns about 5 high-risk groups.&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "WBAL-TV",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zNU1MM2x6TjNqQW5XOU1JcEI3RE03NE1PWWk4d1FranlqYUtmR2xyVmpUdkQ5eFBna184eVJYZ1VhUTNxcWRQQzNETXlLd2JfajYxZkhNVGFrQ0lCZmZqSmRXd25FaXo2TkNQWjhXMWhtY2psM2I3M3h6bjdkUQ?oc=5"
         }
       ]
     },
@@ -357,11 +477,23 @@
       "id": "ba7ad3c606a4",
       "title": "Opinion | AI capabilities mean America needs a Manhattan Project for biodefense - The Washington Post",
       "published": "2026-10-20T18:00:00+00:00",
-      "summary": "Opinion | AI capabilities mean America needs a Manhattan Project for biodefense&nbsp;&nbsp;The Washington PostHow to prevent an AI-created plague&nbsp;&nbsp;The TimesChatGPT Explains the Odds of AI Triggering the Next Pandemic&nbsp;&nbsp;Gadget ReviewAI now creates unknown viruses—should we fear it or hope for a cure?&nbsp;&nbsp;Futura, le média qui explore le mondeBuilding Resilience Against Artificial Intelligence–Enabled Biological Threats&nbsp;&nbsp;RAND",
+      "summary": "Opinion | AI capabilities mean America needs a Manhattan Project for biodefense&nbsp;&nbsp;The Washington PostHow to prevent an AI-created plague&nbsp;&nbsp;The TimesChatGPT Explains the Odds of AI Triggering the Next Pandemic&nbsp;&nbsp;Gadget ReviewAI now creates unknown viruses—should we fear it or hope for a cure?&nbsp;&nbsp;Futura, le média qui explore le mondeIt’s way too easy for chat bots to make bioweapons&nbsp;&nbsp;think.kera.org",
       "sources": [
         {
           "name": "The Washington Post",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbmtja3EwZFhVcEpVbkRPMWFSTldJZV8zTk5pcFprVFBJQkhRblJnMUVLS2xvRVNrRS04OXpaVVF4YkxYbHNJQ25tb2lRak1PTzYxNUptR1RFZUVqTENfbDY0Z0llRzY2aTBZRU1DdkJNNTNRS0wxQ2ZVNTJGYmZPMUFhZW1MRF9YbWlTb3BTUENFczhtck1j?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6a7adbd4d2b3",
+      "title": "The Secret to Life on Earth Was What Made It Stop Being a Poisonous Ice Ball - Yahoo",
+      "published": "2026-10-20T18:00:00+00:00",
+      "summary": "The Secret to Life on Earth Was What Made It Stop Being a Poisonous Ice Ball&nbsp;&nbsp;Yahoo'Excess oxygen' stored in deep Earth magma may help explain how Earth's atmosphere became oxygen-rich&nbsp;&nbsp;Phys.orgScientists discover oxygen trapped deep inside Earth's magma, possibly explaining the rise of early life&nbsp;&nbsp;The Brighter Side of NewsOxygen reached Earth’s mantle a billion years before the Great Oxidation Event, new study finds&nbsp;&nbsp;ThePrint",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcXZ2eWFjTll3YnBxUEZhakR0UjV5TFJhZVRLWGNsTWMtLXhza3dpV2YyUDZuckZ5NnNHN1dzb25pbnUyUzQtLXRhckZjMW5qQmNCX2JpWXdIT3BrUlhPM0JVNWlKd2NteDZrckY3T2RVNG15dENfSUZaMllYdnc3UUowUktFSnoxVW5xZXM4SQ?oc=5"
         }
       ]
     },
@@ -402,22 +534,10 @@
       ]
     },
     {
-      "id": "1eb550538fe4",
-      "title": "Start-Up Claims to Use A.I.-Created Viruses to Treat a Patient - The New York Times",
-      "published": "2026-10-20T16:48:15+00:00",
-      "summary": "Start-Up Claims to Use A.I.-Created Viruses to Treat a Patient&nbsp;&nbsp;The New York TimesRadical Numerics Launches Omnii-1, a New Generation of Biological AI, as First AI-Designed Phage Therapy Reaches Human Patient&nbsp;&nbsp;Yahoo FinanceStartup Deploys AI-Engineered Virus on Human Patient&nbsp;&nbsp;FuturismRadical NewMetrics' AI Virus Targets Antibiotic-Resistant Bacteria&nbsp;&nbsp;조선일보FDA Greenlights New AI Virus Treatment For Trial, Company Says&nbsp;&nbsp;AOL.com",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaUNPaTl4Wmxoa0ZDMUlSYUpZdWR0QXNiTmRfbTNEVjhMRlFpZHJLdTVsSTEwS3ZzeFlDUzRub0xlS2hleFJVWXNkeTdsaGdraGpKWEhNeVZvU2dRYm1FS2tOdEhPMWQwT1lfdjdlSE1vTGZWNHpObE9NN1pPSWhBVUJDM1h4VFg4UHc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2d058056aec0",
       "title": "Spreading Life To Bleached Coral - Hackaday",
       "published": "2026-10-20T15:30:00+00:00",
-      "summary": "Spreading Life To Bleached Coral&nbsp;&nbsp;HackadayA chance discovery offers hope for coral reefs&nbsp;&nbsp;Financial TimesSick Corals Can Heal With the Help of a 'Magic Touch' From Healthy Ones, Offering Hope for Heat-Damaged Marine Ecosystems&nbsp;&nbsp;Smithsonian MagazineScientists discover a way to reverse coral bleaching at record speed&nbsp;&nbsp;Phys.orgIn California, bleached corals recovered in weeks, but only when touching healthy twins&nbsp;&nbsp;Yahoo",
+      "summary": "Spreading Life To Bleached Coral&nbsp;&nbsp;HackadayScientists discover a way to reverse coral bleaching at record speed&nbsp;&nbsp;Phys.orgSick Corals Can Heal With the Help of a 'Magic Touch' From Healthy Ones, Offering Hope for Heat-Damaged Marine Ecosystems&nbsp;&nbsp;Smithsonian MagazineA chance discovery offers hope for coral reefs&nbsp;&nbsp;Financial TimesIn California, bleached corals recovered in weeks, but only when touching healthy twins&nbsp;&nbsp;Yahoo",
       "sources": [
         {
           "name": "Hackaday",
@@ -429,7 +549,7 @@
       "id": "2c79470c2c69",
       "title": "Ultrasound waves that jiggle deep brain structures may relieve delusions in schizophrenia, small trial hints - Live Science",
       "published": "2026-10-20T14:10:00+00:00",
-      "summary": "Ultrasound waves that jiggle deep brain structures may relieve delusions in schizophrenia, small trial hints&nbsp;&nbsp;Live ScienceSee more headlines & perspectives on Google News",
+      "summary": "Ultrasound waves that jiggle deep brain structures may relieve delusions in schizophrenia, small trial hints&nbsp;&nbsp;Live ScienceTranscranial ultrasound stimulation of the right globus pallidus interna in schizophrenia: A randomized, sham-controlled pilot study | npj Acoustics&nbsp;&nbsp;NatureGentle brain ultrasound may help ease delusions in schizophrenia&nbsp;&nbsp;Medical XpressUltrasounds for Schizophrenia; 'Circadian' Depression; GLP-1s and Eating Disorders&nbsp;&nbsp;MedPage TodayTarge",
       "sources": [
         {
           "name": "Live Science",
@@ -438,14 +558,38 @@
       ]
     },
     {
-      "id": "57af24cc545f",
-      "title": "Ultraprocessed Food May Be Silently Damaging Your Brain's Blood Vessels - ScienceAlert",
-      "published": "2026-10-20T14:01:19+00:00",
-      "summary": "Ultraprocessed Food May Be Silently Damaging Your Brain's Blood Vessels&nbsp;&nbsp;ScienceAlertUltraprocessed Foods Linked to Silent Brain Injury&nbsp;&nbsp;MedscapeAdults Who Ate the Most Ultra-Processed Food Showed Early Brain Damage in MRI Scans&nbsp;&nbsp;Everyday HealthMost studies criticizing the Nova classification of ultra-processed foods are funded by food companies&nbsp;&nbsp;Food Politics by Marion Nestle -Ultra-processed food intake may increase dementia, stroke risk&nbsp;&nbsp;Unive",
+      "id": "e7a2e31098db",
+      "title": "Ultraprocessed Foods Linked to Silent Brain Injury - Medscape",
+      "published": "2026-10-20T14:08:40+00:00",
+      "summary": "Ultraprocessed Foods Linked to Silent Brain Injury&nbsp;&nbsp;MedscapeUltraprocessed Food May Be Silently Damaging Your Brain's Blood Vessels&nbsp;&nbsp;ScienceAlertAdults Who Ate the Most Ultra-Processed Food Showed Early Brain Damage in MRI Scans&nbsp;&nbsp;Everyday HealthMost studies criticizing the Nova classification of ultra-processed foods are funded by food companies&nbsp;&nbsp;Food Politics by Marion Nestle -Ultra-processed food intake may increase dementia, stroke risk&nbsp;&nbsp;Unive",
       "sources": [
         {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ0wyaHY5Z3hHV09nRkpqN1F0U0RFb3d4WmpVV3dPcU9fTXZVSWh4M1BWV29YU2FEVGJob3RYV2kzY1l3cUNEZzlReDJ1VE93X3ctOWNrbm1iN05wYjZuVnMyX0VJMklBb1dlTE1sZC01YzBnTGRWbGhnQ2J0Z0RDd2NFV3pqMFhuOW9QazkyTElsUEF3anFGQUFPcVpBUGpr?oc=5"
+          "name": "Medscape",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRHMwSU9Vc21VT2VRckxDTEVEQmNzcU1LV0l6THFqbF9JeF9sS2FZNDUyTElQcWI0YzMzekcxTDVySnBTZmdjOTFDWVpYSHNCaXF3RHdLTVVIQ3dSTWM1c1JBU0lNQVJoaWFfeEhjRkZfNkszVklzNjBrLVZWbzB5WVRONVNuOUZEeUN3Uk1Ec0VDeWtjZ1NyX0RzWmNwZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c7aca547f6bc",
+      "title": "The Risk Factors For A Blood Clot Are More Common Than You Think - HuffPost",
+      "published": "2026-10-20T13:56:23+00:00",
+      "summary": "The Risk Factors For A Blood Clot Are More Common Than You Think&nbsp;&nbsp;HuffPost",
+      "sources": [
+        {
+          "name": "HuffPost",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaTh3Sk91TVFrNTY5ZzNrSGcyMWRnMzNjRlExSk5OVThNbkV6eVFVaUdDV3VzOXdGTFkzdDhySUQ4Q2tpZlEyZE8td2hwVnNrcU9KSXJPTnJfbnBtZE1Sb2ZRX1kxVGRsMFpMWHFIODRiS3F2dmMyd0FHVVFic05XakhaTUdwalFkZnZETExJRWdhQXNmUFHSAZsBQVVfeXFMTld5RTVKMmdUSTB4bUVHWS1KSUsxSFhmb2U4dXNuMk5BSi1XekNfekNCLWFUOFQyVDhUNXlXSXR1eVB6WDhwZnB4d08yWnVlSDNadDk4NDM2am9QdHhMTUtKdlhTckZvNFNsZzZJdVF1TnJRQ2lwcEFQRGNJenFRaEJuZVNmRHpHZWxvSF83YllLTDFlNTRqa3ZhWEk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5f1f139c2352",
+      "title": "Giant canyon on Mars is still tectonically active today - Phys.org",
+      "published": "2026-10-20T13:20:36+00:00",
+      "summary": "Giant canyon on Mars is still tectonically active today&nbsp;&nbsp;Phys.orgActive crustal straining and fault reactivation at Valles Marineris&nbsp;&nbsp;NatureMars’s Giant Canyon Still Tectonically Active, New Research Shows&nbsp;&nbsp;Aviation WeekA 2,400-Mile Scar on Mars Is Still Moving, and Scientists Finally Have Proof&nbsp;&nbsp;The Daily Galaxy",
+      "sources": [
+        {
+          "name": "Phys.org",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fT0U4VUhUOC1uUlZUeUdQY1NnZnFuY1oxUzBUQlpVM0dsTXhQdlZFTEtKVnpNMUZiNjBrTjYtT1hIV0JOMzZLZElWWmxLQ3R1cTBQZ003RzE4UjFHcjBVcGUyWkhLQldSNG5zazVKM3ZNcjNwcHF3eHQwbw?oc=5"
         }
       ]
     },
@@ -462,74 +606,26 @@
       ]
     },
     {
-      "id": "a3a909cef2bf",
-      "title": "Water May Be a Hidden Trigger Behind The Spread of Alzheimer's in The Brain - ScienceAlert",
-      "published": "2026-10-20T13:01:19+00:00",
-      "summary": "Water May Be a Hidden Trigger Behind The Spread of Alzheimer's in The Brain&nbsp;&nbsp;ScienceAlert",
+      "id": "1eb550538fe4",
+      "title": "Start-Up Claims to Use A.I.-Created Viruses to Treat a Patient - The New York Times",
+      "published": "2026-10-20T12:07:12+00:00",
+      "summary": "Start-Up Claims to Use A.I.-Created Viruses to Treat a Patient&nbsp;&nbsp;The New York TimesRadical Numerics Launches Omnii-1, a New Generation of Biological&nbsp;&nbsp;The National Law ReviewRadical NewMetrics' AI Virus Targets Antibiotic-Resistant Bacteria&nbsp;&nbsp;조선일보Startup Deploys AI-Engineered Virus on Human Patient&nbsp;&nbsp;FuturismFDA Greenlights New AI Virus Treatment For Trial, Company Says&nbsp;&nbsp;AOL.com",
       "sources": [
         {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRWJNSXhZZGJSa1BtZ1E1cWFfSXZtcF9mc2h2dkdRUWo1dkNmSkRFejdMck9VTXRCNW5fWUl4TUlwdXFxcEVlMXRJVFZHby1VZlc5aTlhNTNsSDhBWlRacUtNN2E0Rk9VaGhkc3JoYXJ3VlN5cnF2RVJ6RWVGSmdtdmpmbzR1bHhwYkJZcUJkLS10cHlDdGNQbVR1WGh6Y2hQYmpSM3V3?oc=5"
+          "name": "The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaUNPaTl4Wmxoa0ZDMUlSYUpZdWR0QXNiTmRfbTNEVjhMRlFpZHJLdTVsSTEwS3ZzeFlDUzRub0xlS2hleFJVWXNkeTdsaGdraGpKWEhNeVZvU2dRYm1FS2tOdEhPMWQwT1lfdjdlSE1vTGZWNHpObE9NN1pPSWhBVUJDM1h4VFg4UHc?oc=5"
         }
       ]
     },
     {
-      "id": "813c91306aab",
-      "title": "Your aging brain may be trading memory for something more valuable - Science Daily",
-      "published": "2026-10-20T11:33:20+00:00",
-      "summary": "Your aging brain may be trading memory for something more valuable&nbsp;&nbsp;Science Daily",
+      "id": "8efc278c31fd",
+      "title": "‘Super-drug’ 10 times stronger than fentanyl linked to deaths across multiple states - Fox News",
+      "published": "2026-10-20T10:00:25+00:00",
+      "summary": "‘Super-drug’ 10 times stronger than fentanyl linked to deaths across multiple states&nbsp;&nbsp;Fox NewsHealth officials warn of emerging synthetic opioid after fatal overdoses&nbsp;&nbsp;cbs8.comDrug Czar to Newsmax: Strong New Opioid From China&nbsp;&nbsp;YahooCychlorphine detected in Ohio. How can Ohio State students stay safe?&nbsp;&nbsp;The LanternMore potent than fentanyl? 5 things to know about the illicit drug cychlorphine&nbsp;&nbsp;PolitiFact",
       "sources": [
         {
-          "name": "Science Daily",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OYmVQaHBLSE1GQ1c0enU0QTZUa3dFejdIYVQtdFNwT09LRVRfdHBLRDVmXy1aeXV5d3dYRUlpY09jSWZoaUtVcTNiUFBVRmQ3NFp1aVVlRWl6YUowWVI3bFE4Y0c1VVRrUi1qYkluZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4151609d4674",
-      "title": "What your daily movements may say about your longevity, according to an expert - CNN",
-      "published": "2026-10-20T11:00:45+00:00",
-      "summary": "What your daily movements may say about your longevity, according to an expert&nbsp;&nbsp;CNNWhat Can a Biological Age Test Actually Tell You?&nbsp;&nbsp;The New York TimesElder-care researcher reveals 6 powerful clues older adults will live a long life&nbsp;&nbsp;UpworthyDoctors Say This Simple 10-Second Test Can Reveal a Lot About How You’re Aging&nbsp;&nbsp;Parade MagazineIf You Can’t Pass This Chair-Rise Test, We Have Bad News For You&nbsp;&nbsp;HuffPost",
-      "sources": [
-        {
-          "name": "CNN",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd2U0bmNpbV9CWmdUWGJhTkxRdUM0Ui1JR2tTOHZHcjVxbEQxVm5IUEU5Y3Fjc21xM3J2YXJHdUNuOUlrcmpKVjFJYVlfUjBWN1ptRE00cDdLSUpsTTJFRzcwZTlyY0h3QUhFZmFvUjRIQWZhRXRDWFJRQXJOTnJISjZCdVhKSWgt?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "45156c20dd52",
-      "title": "Exclusive | Young men are injecting testosterone to be more ‘masculine’ — without getting doctors involved - New York Post",
-      "published": "2026-10-20T10:59:00+00:00",
-      "summary": "Exclusive | Young men are injecting testosterone to be more ‘masculine’ — without getting doctors involved&nbsp;&nbsp;New York PostWhat to Say to Patients Taking Testosterone to Get ‘Jacked’&nbsp;&nbsp;MedscapeRapid growth in private testosterone prescribing raises safety concerns&nbsp;&nbsp;News-MedicalYoung Men Are Injecting Testosterone Without Prescriptions in Dangerous New ‘Testmaxxing’ Trend&nbsp;&nbsp;Generation IronTestosterone health warning following surge in young men encouraged to ta",
-      "sources": [
-        {
-          "name": "New York Post",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdzBjcVNVWHNtVmtpYkwzdmtnaFZZSG1FS0tIVWhtMEhTZnhJbzFxWmNOQmxWNEsxY29ya3BZSm41b3VlYmlZM1dxVlNLY1R1NjZYSkc1TFRlaXRJWE1ZV3BjelpKdGw2OVVQTEZaaGc4bC01TkN5U2VEN3Z5ZXlLY0lHUVowNVVPaXBoMDVOaGRmUVBLU09SQW1FYw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f7225139f117",
-      "title": "Microplastics Aren't Inert After All: In Water, They Make DNA-Damaging Free Radicals - ScienceAlert",
-      "published": "2026-10-20T10:01:19+00:00",
-      "summary": "Microplastics Aren't Inert After All: In Water, They Make DNA-Damaging Free Radicals&nbsp;&nbsp;ScienceAlertMicroplastics React With Water, a New Study Says. That’s a Problem for Biology&nbsp;&nbsp;WIREDHow microplastics and water react to cause inflammation and damage our bodies&nbsp;&nbsp;South China Morning PostPlastic pollution isn't just in our oceans. It's in our bodies&nbsp;&nbsp;Fernandina ObserverShould we stop drinking bottled water due to microplastics?&nbsp;&nbsp;WGN Radio 720",
-      "sources": [
-        {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX09fZVBHdk1adGpsOW1ZMTdnQzAybEZrcXNaVHB4NWdvRXJmTXJCdkZLMkxnNmUtSGs3S1RHRE8yZUQ4VHVNaFFsVWJ3UHI2NkR2TGtGRGZkV2RldTY3aE43RXYxMWJDOXVKQjhXQzdSbnFUdHlpbjRGZDdlQm1ja254RzY5eTdqMzNPWllRUXM4a0pHd0RIdmd1eWY?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f000d8e38564",
-      "title": "New Utah dinosaur dig marks end of an era - KSL",
-      "published": "2026-10-20T04:14:20+00:00",
-      "summary": "New Utah dinosaur dig marks end of an era&nbsp;&nbsp;KSLUtah dinosaur dig may be unearthing new species&nbsp;&nbsp;WHAS11‘4 different kinds of dinosaur’: A new discovery in southeastern Utah&nbsp;&nbsp;CTV News",
-      "sources": [
-        {
-          "name": "KSL",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb0lzWkhaWWlfamp5eWdkMWltZ20yTGM0QWc3T1p3MldxSk1Eb2YzOW80MlppbHJtQ3dhTkV0cWMyT3hHQ0VUS08xbjZraGxicTcybzU1SWRuZFhRV3B6bUpqbm5xOUdXdGlLaFd5cUlqd1dhTzJpM2NUaEhveTM3SkFNX28?oc=5"
+          "name": "Fox News",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeWt2aGZfQVdCSVZtWEowdmFwVXAyVGYwNGxhVGYyMTJ1TFJhcnBhNXJDbmdXQ0NKc2JuU3dSVDBMWkQxazltNnplY3JPTHFuRlRIdEZGMkg1Z21YSm9LTWswczFVQ18zUXV2eHRrTVoyc1hoZlFLS09DRTdhWFNMNEdVRktLb0RjRzFSX0JWSVpfNkVFNExSa0J6U29MRE3SAaQBQVVfeXFMTzZQc0V2RF9JQXhVVVM4VUNDSFFEaktHeWVReThzdEEzX09uNGFxalFseld6aU14VTJsQ3RaNE9aWXNsdVBVTGpRT1JNQ1ExWWVfaWZGNEphbjFDbVhIZW1CSzdfcFhsbHRsZWtlaVJGejFwblFxbTJKNVhSeDNjTGxpUEkzU0stR0p5M0FOVFVVUlVMWEVmcUNMZzQ1dzJBWDJWS1o?oc=5"
         }
       ]
     },
@@ -537,7 +633,7 @@
       "id": "c88c2584d555",
       "title": "Warning signs could predict inflammatory bowel disease a decade before diagnosis | Medical research - The Guardian",
       "published": "2026-10-20T03:54:00+00:00",
-      "summary": "Warning signs could predict inflammatory bowel disease a decade before diagnosis | Medical research&nbsp;&nbsp;The GuardianAntibody patterns may predict inflammatory bowel disease years before diagnosis&nbsp;&nbsp;News-MedicalAntibody Signatures Could Reveal IBD Risk 10 Years Before Diagnosis&nbsp;&nbsp;Inside Precision MedicineAntibody profiles may indicate IBD 10 years before diagnosis — The Guardian&nbsp;&nbsp;UA.NEWS",
+      "summary": "Warning signs could predict inflammatory bowel disease a decade before diagnosis | Medical research&nbsp;&nbsp;The GuardianAntibody patterns may predict inflammatory bowel disease years before diagnosis&nbsp;&nbsp;News-MedicalAntibody Signatures Could Reveal IBD Risk 10 Years Before Diagnosis&nbsp;&nbsp;Inside Precision MedicineAntibody profiles may indicate IBD 10 years before diagnosis — The Guardian&nbsp;&nbsp;UA.NEWSAntibody Patterns Reveal Inflammatory Bowel Disease Years Before Symptoms Ap",
       "sources": [
         {
           "name": "The Guardian",
@@ -558,30 +654,6 @@
       ]
     },
     {
-      "id": "971a1f6063e2",
-      "title": "Lung cancer can grow silently for years, here’s who qualifies for screening - Fox News",
-      "published": "2026-10-19T23:34:50+00:00",
-      "summary": "Lung cancer can grow silently for years, here’s who qualifies for screening&nbsp;&nbsp;Fox NewsWhy So Many People Still Are Not Screened for Lung Cancer&nbsp;&nbsp;The New York TimesA 10-minute lung screening may add years to your life. So why aren’t more people getting scanned?&nbsp;&nbsp;PhillyVoiceThe 10-minute no-prep cancer screening that saves lives&nbsp;&nbsp;6abc PhiladelphiaLung Cancer Screening Rates Remain Low&nbsp;&nbsp;Respiratory Therapy",
-      "sources": [
-        {
-          "name": "Fox News",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYUwwMWxEbzVMbjFfOXZvN3N5TTlrU3JDbEpraWZaOEJYSFlWVE4yS3NLcWpuWVhaMWc3SWxRSWFrVVNmVlF4UnBTQUxmVi1mbUU0U19CZGpHUkM2NFNGOUdDTnkyYko4cWEyMmJtcW9SbVhZNDFZMi1YVXBCclZNVGZycmR2X0VQcFHSAY8BQVVfeXFMUFROYnpRUG9FSTc4OUZtQ1Z3UXdvNVdsMU01TGM1TGU4UFdlRU5VMFp0T1lfb1hDa1RCb0pPcmF1Z1lYd2tMRmZRUjhMbFZhLVdfejc0aFBwT3E1TjNiTmZ5Mm5DUi1Ob3ZvODFQV1VpbHh3bE5pcy1KUExmWi1DSGdPUHFMRmhUUVpCSHlIOW8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "713536632825",
-      "title": "Kennedy’s Vaccine Plan Could Cause Surge in Hepatitis B, Study Finds - The New York Times",
-      "published": "2026-10-19T21:00:05+00:00",
-      "summary": "Kennedy’s Vaccine Plan Could Cause Surge in Hepatitis B, Study Finds&nbsp;&nbsp;The New York TimesChanges to hepatitis B vaccine recommendations could leave millions of children vulnerable: Study&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosHepatitis B: Delaying Shot at Birth Projected to Raise Infection Rates&nbsp;&nbsp;HealthlineUS cohort model projects hepatitis B rise after infant vaccination changes&nbsp;&nbsp;Bioengineer.orgHousehold hepatitis B exposure a risk for unvaccinat",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tNXRtMTJKV3R0R05tck0tbkMxNWd1TmQ0cW0ydm1LeVdxUFFaTmNWWDNvd2xaNGV2Znc1dEF0RHdCRnRQUHlWVjhPMk1abUN5Q250ZHBnYzVIUzdNSlBCZmZTQlJ2dXd5SUFHU1VGQjFCVG5KM0k3d291dnprdHc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "23a21756a4d7",
       "title": "Molecular pendulum shuttles protons to enable rapid hydrogen production in enzymes - Phys.org",
       "published": "2026-10-19T19:40:02+00:00",
@@ -590,30 +662,6 @@
         {
           "name": "Phys.org",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbGFjSkt1clNzRjhGLXNoYTdyaXR6eXp5djJNNHdHUy1YNnZqc2pzQXgzeThhY0lsckZiRGliVTVYVzdfeGpsZm5LSE5EN1lqME1zekIyQmUtWUc2dFR5VW5ENTVrOUtMNVJxMXlzNUhobGdCOU1WdC1JOGQ5QWo4X2pWUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fab24d06a0b2",
-      "title": "This Common Snacking Habit Could Increase Your Chance of Liver Disease by 30%, Study Finds - AOL.com",
-      "published": "2026-10-19T16:30:04+00:00",
-      "summary": "This Common Snacking Habit Could Increase Your Chance of Liver Disease by 30%, Study Finds&nbsp;&nbsp;AOL.comSee more headlines & perspectives on Google News",
-      "sources": [
-        {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQN2hmVl9YWnM2TGtUbzZld244SVFRU01zd2dHbndidHpBTmVuOHhkd2duT3h6UmtnNlpBenh5UkdjelJfX2dfWXRla1J4a0VzVUl6Nnc0UmJUTnVKYS1KVy1wVUx6ZXNUTTFwSWpuMkEyWi11VzZiaEZkT2pTMFNyNFdReDVrX0E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "24a01f6c4fad",
-      "title": "Measles cases rise across northeast Indiana - WANE 15",
-      "published": "2026-10-19T14:28:41+00:00",
-      "summary": "Measles cases rise across northeast Indiana&nbsp;&nbsp;WANE 15Indiana Measles Cases Reach 45 as Adams County Cases Double and Wayne County Remains the Largest Cluster&nbsp;&nbsp;Medical DailyMeasles count continues to rise in Indiana County&nbsp;&nbsp;Indiana Gazette OnlineMeasles count reaches 50 statewide as multiple northeast Indiana counties report new cases&nbsp;&nbsp;WPTA | 21Alive | Fort Wayne, INMeasles Was Eliminated in 2000. Why Is Michigan Seeing Cases Now?&nbsp;&nbsp;103.3 WKFR",
-      "sources": [
-        {
-          "name": "WANE 15",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kRkpVMWlYTVJlV3U3dmUtT1h4b1NMVnpONFFCU0ltNkh6bW9pTlNTMkdvZ2RNQ2l2NkkzdHFyQmI2aEprZ0poYWVlOU1meGI0bV9vNU5RMmdNaXNRZ2g4RlBteE43cUdjeTktZ09Ca0hlTjRpa0VWZm5ZR2bSAYIBQVVfeXFMUERDS2JnTkNxbmVONS1vcjZkUzJUcm1lVDdUY0pyN3lNWjNhclRRSGFuUm1oOWVYQ0dVSmkwd2ZwNGJDbGVfYnhsbC00WFpNLXNIVUFhanNma2RFaWR6MGV0MWZjcXhuRWQ3S3lkeWI3dE1tYUJBU1pJSExDZ0RpOTFIdw?oc=5"
         }
       ]
     },
@@ -630,14 +678,26 @@
       ]
     },
     {
-      "id": "7bdb5009b017",
+      "id": "f6a8352fb305",
+      "title": "An amygdala-mediated simulation-to-decision cascade aligns interbrain dynamics to solve social dilemmas - Nature",
+      "published": "2026-10-19T09:40:37+00:00",
+      "summary": "An amygdala-mediated simulation-to-decision cascade aligns interbrain dynamics to solve social dilemmas&nbsp;&nbsp;Nature",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qU3o1WTUtb0EwbVRwQWRLd2JwVVJwZUpOX3JyTkRnMl9ULUNNOTRpWUNHWnFjLTA2YWVlSU8zb0I4bkh2ejA2YzJDT0NBUi14Yy1VOXl6OERQY2VfR2Nv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "88ab1aa503ea",
       "title": "What the world's leading researchers think about saunas : Short Wave - NPR",
       "published": "2026-10-19T07:00:00+00:00",
-      "summary": "What the world's leading researchers think about saunas : Short Wave&nbsp;&nbsp;NPRSee more headlines & perspectives on Google News",
+      "summary": "What the world's leading researchers think about saunas : Short Wave&nbsp;&nbsp;NPRSauna research gathers steam as scientists explore the potential impact of heat exposure&nbsp;&nbsp;WBURThis Finnish habit has been proven to extend life, and a 20-year study finally reveals why&nbsp;&nbsp;Vogue AdriaSauna for Depression: Inside the Clinical Trials Turning Heat Into Therapy&nbsp;&nbsp;Intelligent LivingWhat the world’s leading researchers think about saunas&nbsp;&nbsp;VPM",
       "sources": [
         {
           "name": "NPR",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TLXZUbTZ2d3d0YjRxdlRBV2pZNk9va3pRWkI3UUI4QlJxYzNvSjJhbVM0Z00ySVZfa0RrYWVvRWp3bE9tT0plV3FBdnVkWmZ0VF9XRV9ORlc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPc081b0VmaXZ2Sk1MZEFLaUx3bEJsRHVXWjFTOEdwaWdRTnhvc2V4YnNYRTBtSExjZUlxa3hkTFVyWkljVWxZa05hR1psWjhfTTZCNHhnWnZQSnJzemdSaXRBeDBZTlRvOVFYcTlPUGlfaFFEdlgwR1JmNGpxNXpVZg?oc=5"
         }
       ]
     },
@@ -650,6 +710,30 @@
         {
           "name": "The Washington Post",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTVV5YVoyV3dsRTdxRXUxVjZFNU40R0NrRk5US29uQWh3QjdFTG9rMllzQUpLSDVwQkRSSUVrc0tneEFOTFFLajkxUmFKQW8xNnczeElzMXlfWlo3UVJDNHpYT1JCRXdMSFFBNXVEeUI2WUdSdm9Pck5NN1FJa2RlLU42a3pHN2RMUERKYzhPV0NUeDdZeGM1UVB2OG5wODUzWkpKakU4UXVrTmktVVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e217e8bb3d8e",
+      "title": "Scientists Found a Way to Upgrade the Powerhouses of Our Cells Without Shutting Them Down - Yahoo",
+      "published": "2026-10-17T14:03:13+00:00",
+      "summary": "Scientists Found a Way to Upgrade the Powerhouses of Our Cells Without Shutting Them Down&nbsp;&nbsp;YahooScientists Engineer Delivery Systems to Turn Mitochondria Into Precise Therapies&nbsp;&nbsp;Bioengineer.orgCan Engineered Mitochondria Help Cells Age Better?&nbsp;&nbsp;ProHealth.com",
+      "sources": [
+        {
+          "name": "Yahoo",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWWU0YjF2cXU2NXEtQm1jUTBwYmxvOUkyTThhbm1ZdTFlTl9CSWlScWdHcnRlMHRpRDRrMWptOXVyZGpQMmkzTWN6Q2ZBX2ppdmkydkVRalBjU1h5UW5UZnJXSVFyOGhtdzJRLTh1OFRGUmRrV0U2dDd1VVZXOHFDd3BJUjRQeGI0aUdiaG10bVVjaGJ1ZUpJZVdYek1SbFIw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "65b53825aeee",
+      "title": "This Common, Preventable Condition Could Cost You Up to 6 Years of Good Health, Study Finds - AOL.com",
+      "published": "2026-10-17T12:02:00+00:00",
+      "summary": "This Common, Preventable Condition Could Cost You Up to 6 Years of Good Health, Study Finds&nbsp;&nbsp;AOL.comWant to Live Longer? A New Study Says Your Friendships May Be Just as Important as Diet and Exercise&nbsp;&nbsp;Yahoo HealthLoneliness Is Being Treated as a Serious Health Risk&nbsp;&nbsp;The Good Men ProjectScottsbluff City councilman Jerry Stricker announces plans to resign&nbsp;&nbsp;Wahoo NewspaperLoneliness May Cost You Up to 6 Years of Good Health, New Study Finds&nbsp;&nbsp;Preven",
+      "sources": [
+        {
+          "name": "AOL.com",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTG5oUDlhRElGWTFldy1FekVlS05EbG9ZemhRZjRHVU01bUExOS1JemJrTG9hbk8yd0UtS3ZGUm81SXVNbEdxMXV5Szh3N2hEVG5iazlWOTdQMFl1enpUTkRRRzBiX1pzVzdVSXpFeVN0R2RvY1BMNlAwTE84Uk8tRkxaYmE5REthUXlj?oc=5"
         }
       ]
     },
@@ -702,10 +786,22 @@
       ]
     },
     {
+      "id": "955787c0a1ff",
+      "title": "Atomic functional site scaffolding in biopolymers with RFdiffusion3 - Science | AAAS",
+      "published": "2026-10-15T18:06:43+00:00",
+      "summary": "Atomic functional site scaffolding in biopolymers with RFdiffusion3&nbsp;&nbsp;Science | AAASAI designs working molecular scissors that recognize and cut selected protein targets&nbsp;&nbsp;Phys.orgResearchers use AI to design protein-digesting enzymes&nbsp;&nbsp;Chemical & Engineering NewsNobel laureate David Baker unveils RFdiffusion3 AI for atomic‑level protein design&nbsp;&nbsp;DongA Science",
+      "sources": [
+        {
+          "name": "Science | AAAS",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SUjNZbU44M185UWM0VXA0aGozXzBNSEFpSjU1U0VZREFXRTM4bU1sUHRPYXNlVHB0VlpoZm1zYmF0SXVGelVaQW9Kcjd4U1pMLWZmdzJzTHlrUkhfUy01Yw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1b21a41e8f73",
       "title": "Large study finds no link between ultra-processed food and colorectal cancer - NBC News",
       "published": "2026-10-15T18:00:41+00:00",
-      "summary": "Large study finds no link between ultra-processed food and colorectal cancer&nbsp;&nbsp;NBC NewsA new ultra-processed foods study's surprising results, explained&nbsp;&nbsp;USA TodayReplacing just 10% of ultra-processed foods with whole foods linked to drop in bowel cancer rate&nbsp;&nbsp;The ConversationTotal ultra-processed food intake not linked to colorectal cancer in large US cohort study&nbsp;&nbsp;Medical XpressReplacing Just 10% of Ultra‑Processed Foods with Whole Foods Linked to Drop in",
+      "summary": "Large study finds no link between ultra-processed food and colorectal cancer&nbsp;&nbsp;NBC NewsMassive study of 460,000 people challenges ultra-processed food cancer fears&nbsp;&nbsp;Science DailyReplacing just 10% of ultra-processed foods with whole foods linked to drop in bowel cancer rate&nbsp;&nbsp;The ConversationA new ultra-processed foods study's surprising results, explained&nbsp;&nbsp;USA TodayTotal ultra-processed food intake not linked to colorectal cancer in large US cohort study&nb",
       "sources": [
         {
           "name": "NBC News",
@@ -717,7 +813,7 @@
       "id": "f89e5caf0749",
       "title": "Jackie the Big Bear bald eagle’s cause of death revealed in necropsy - KTLA",
       "published": "2026-10-15T15:46:35+00:00",
-      "summary": "Jackie the Big Bear bald eagle’s cause of death revealed in necropsy&nbsp;&nbsp;KTLABird flu caused the death of Jackie, a California bald eagle who captured hearts&nbsp;&nbsp;AP NewsBig Bear bald eagle Jackie's cause of death revealed&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosCDFW News | Necropsy Provides New Information About Beloved Bald Eagle Known as Jackie&nbsp;&nbsp;California Department of Fish and Wildlife (.gov)Cause of death for Jackie the bald eagle revealed; avian i",
+      "summary": "Jackie the Big Bear bald eagle’s cause of death revealed in necropsy&nbsp;&nbsp;KTLABird flu caused the death of Jackie, a California bald eagle who captured hearts&nbsp;&nbsp;AP NewsBig Bear bald eagle Jackie's cause of death revealed&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosJackie the bald eagle’s final cause of death revealed&nbsp;&nbsp;Popular Science10/16 KVCR Midday News: Famous bald eagle Jackie's cause of death revealed, voters in Banning to decide fate of large warehou",
       "sources": [
         {
           "name": "KTLA",
@@ -729,7 +825,7 @@
       "id": "9dbefab451ec",
       "title": "New FDA-cleared AI tool could help predict if breast cancer will return - ABC News - Breaking News, Latest News and Videos",
       "published": "2026-10-15T12:13:26+00:00",
-      "summary": "New FDA-cleared AI tool could help predict if breast cancer will return&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosAI Mammography Advances Falter When Datasets Lack Diversity&nbsp;&nbsp;Bioengineer.orgSupercomputer helps design more reliable AI for breast cancer diagnosis&nbsp;&nbsp;News-MedicalFDA Clears TumorSight Risk, an MRI-Derived AI Recurrence Tool for HR+, HER2– Breast Cancer&nbsp;&nbsp;OncLiveSimBioSys gets FDA clearance for AI breast cancer recurrence risk tool&nbsp;&nb",
+      "summary": "New FDA-cleared AI tool could help predict if breast cancer will return&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosHow a UChicago clinical trial using AI aims to personalize breast cancer treatment&nbsp;&nbsp;NBC 5 ChicagoSupercomputer helps design more reliable AI for breast cancer diagnosis&nbsp;&nbsp;News-MedicalAI Mammography Advances Falter When Datasets Lack Diversity&nbsp;&nbsp;Bioengineer.orgFDA Clears TumorSight Risk, an MRI-Derived AI Recurrence Tool for HR+, HER2– Brea",
       "sources": [
         {
           "name": "ABC News - Breaking News, Latest News and Videos",
@@ -750,14 +846,14 @@
       ]
     },
     {
-      "id": "672f3b1d2fd3",
-      "title": "Inside the Plague Research Labs at the Heart of a Russian Mystery - The New York Times",
-      "published": "2026-10-15T09:04:13+00:00",
-      "summary": "Inside the Plague Research Labs at the Heart of a Russian Mystery&nbsp;&nbsp;The New York TimesThe Guardian view on plague in Russia: what is most worrying is the lack of information | Editorial&nbsp;&nbsp;The GuardianRussian pneumonia death exposes limits of international health rules&nbsp;&nbsp;POLITICO.euPneumonic plague in Russia exposes a world still dangerously divided&nbsp;&nbsp;The HillWhen the plague becomes the headline&nbsp;&nbsp;Bonner County Daily Bee",
+      "id": "39e2b7682150",
+      "title": "What Can a Biological Age Test Actually Tell You? - The New York Times",
+      "published": "2026-10-15T09:00:26+00:00",
+      "summary": "What Can a Biological Age Test Actually Tell You?&nbsp;&nbsp;The New York TimesElder-care researcher reveals 6 powerful clues older adults will live a long life&nbsp;&nbsp;UpworthyDoctors Say This Simple 10-Second Test Can Reveal a Lot About How You’re Aging&nbsp;&nbsp;Parade MagazineIf You Can’t Pass This Chair-Rise Test, We Have Bad News For You&nbsp;&nbsp;HuffPost",
       "sources": [
         {
           "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRDRVMmNodXNoa3JHQmh2b3lsMVIzSWQzSDJFOHNaYTFGRm01RW11Y3dVLXFBM3ZFNHZXSS13OXBkVXh0UndYNWk4b2hxdE00UXAtdEF4VTJEdnpWUWQ3SnR4N1VsV2ZQZFk5NFdsanhmODFOSjJZNjlQb0tydlJ1MElFcmZRQ2s?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94RHZKcXp1NktRczhLdkFBemdoU0pOaVJFN3N0RXZrbXFxWU9MQVhvemRGR2hrZEZzeTFxRi0ybFRZQ2ZWTUZOUEpNeS04VXVvbDJkRVFiM01oV0ladnVCMVhpVDFCaG52UUQ4YVBCdDdYeVE?oc=5"
         }
       ]
     }

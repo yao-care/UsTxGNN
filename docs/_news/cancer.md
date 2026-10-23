@@ -3,7 +3,7 @@ layout: default
 title: "cancer News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer. 5 articles, 1 related drugs."
+description: "Health news about cancer. 6 articles, 1 related drugs."
 permalink: /news/cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cancer/
 ---
 
 <p class="key-answer" data-question="What news is there about cancer?">
-<strong>cancer</strong> currently has <strong>5 news articles</strong> and 1 related drugs.
+<strong>cancer</strong> currently has <strong>6 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (5)
+## Related News (6)
 
 ### [AI Tool Predicts Cancer Survival by Analyzing a Patient's Selfie](https://news.google.com/rss/articles/CBMipwFBVV95cUxOWjVxQUYzcTVJU2oxLVJ1MUcxOUJYN2Vsc2Z5di1QcVljNkNXNzNWTU83M1pHZE9jSnVDaEhQaXZ2YWJFR2wtSzNxeWJ1LW00Vnl5eGN2MFN1c19iTXVkZW56a3hJd2lzbUtxZ1BvVnFDLVFQM3pMZXNQWDdsQmNLTkZZUE9RMVFHLVR0MHBYemxRb2k2NkhRVmRGeUFvbVJyX2pZS3lQWQ?oc=5)
 
@@ -39,11 +39,19 @@ Source: [Newser](https://news.google.com/rss/articles/CBMipwFBVV95cUxOWjVxQUYzcT
 
 ---
 
-### [She survived breast cancer and brought 2 million followers along. Now her mother is facing the same diagnosis.](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbHhhdGVBT2JVRGhQRWhmbU1udkoxZDNfWm8xbU1YZ01peGd1ZWxLMVJnWU5DUXdCSjNpR1JtSHNVcjVXRi1YTTdNUjBKNzB6a2dFekJxdXdHc0x5QzVBY2pqaHNiWi1PS1dPSXZRQ19BeFJpNy1Kdk05Vmw4azJpVmlnVzVmSjhWS09PcE9wYW44Q0dmMUNmalRRWG5EUEl2WkFmRzBpeUtRWUc2RUd5TXMwN0pvOUlkSGFEQUtSSFJRWDVZcDhkOWJ5LUd2R01CNy1iWldTVF9zdm9zMzdldFN4RU5WcWJxQ2c1Q0dha3E3bXM4X2c?oc=5)
+### [Georgia man knowingly gave HIV to wife, who died 2 days after the diagnosis. Now multiple women reveal alleged affairs](https://news.google.com/rss/articles/CBMijAFBVV95cUxQaEVvbTgwaURCOEY3RkxENEZpSGRwdkRBUVVJdDFhSGVQMlpqbG92S1lncWJyWUNWVkR4ZnVZUFNLN1Fma0N1MG1QbzBfSGR2U2FfV0JwQ3lNc2NHQXJUQVZyeElaUjE0SnZSa0lmUlZmSUtVSHh1NVRvWThuM01GbmM5bExVMEt0MUxoSw?oc=5)
+
+2026-10-22
+
+Source: [Yahoo](https://news.google.com/rss/articles/CBMijAFBVV95cUxQaEVvbTgwaURCOEY3RkxENEZpSGRwdkRBUVVJdDFhSGVQMlpqbG92S1lncWJyWUNWVkR4ZnVZUFNLN1Fma0N1MG1QbzBfSGR2U2FfV0JwQ3lNc2NHQXJUQVZyeElaUjE0SnZSa0lmUlZmSUtVSHh1NVRvWThuM01GbmM5bExVMEt0MUxoSw?oc=5)
+
+---
+
+### [She survived breast cancer at 42 and brought 2 million followers along. Now her mother is facing the same diagnosis.](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVkFHNDZ1NnhGSDZUa1BURmlpckZCZjhoeDkzZlNDZndVVjMyR2E5OWZEYzN0R1pOWE1OR3VIZGpNeWpudGpUWDFCWFhVaWMzYS1jQXBLUjdVTzhpNjZ2OG1IbENJSVV5eGJEWWc3S2MwYnFGSm1PMndwdDFwQnRKUVduUXFhZW1JRXVyeUFjeDUyQnhxMmlTUTNSMUc1bzJseV9MZTJROXE1dnZJM3FELUtWeHAyVlZUOHlRcEt4Qm1GaWhRUTZJbzAxeWVfb0x0a0ZSNEgyN3A0NUttUDZ4VHFIcFBXTjI4T3l6QUNLc2l3ODJVUXRtdkhjcVQxUQ?oc=5)
 
 2026-10-21
 
-Source: [Yahoo](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbHhhdGVBT2JVRGhQRWhmbU1udkoxZDNfWm8xbU1YZ01peGd1ZWxLMVJnWU5DUXdCSjNpR1JtSHNVcjVXRi1YTTdNUjBKNzB6a2dFekJxdXdHc0x5QzVBY2pqaHNiWi1PS1dPSXZRQ19BeFJpNy1Kdk05Vmw4azJpVmlnVzVmSjhWS09PcE9wYW44Q0dmMUNmalRRWG5EUEl2WkFmRzBpeUtRWUc2RUd5TXMwN0pvOUlkSGFEQUtSSFJRWDVZcDhkOWJ5LUd2R01CNy1iWldTVF9zdm9zMzdldFN4RU5WcWJxQ2c1Q0dha3E3bXM4X2c?oc=5)
+Source: [Yahoo](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVkFHNDZ1NnhGSDZUa1BURmlpckZCZjhoeDkzZlNDZndVVjMyR2E5OWZEYzN0R1pOWE1OR3VIZGpNeWpudGpUWDFCWFhVaWMzYS1jQXBLUjdVTzhpNjZ2OG1IbENJSVV5eGJEWWc3S2MwYnFGSm1PMndwdDFwQnRKUVduUXFhZW1JRXVyeUFjeDUyQnhxMmlTUTNSMUc1bzJseV9MZTJROXE1dnZJM3FELUtWeHAyVlZUOHlRcEt4Qm1GaWhRUTZJbzAxeWVfb0x0a0ZSNEgyN3A0NUttUDZ4VHFIcFBXTjI4T3l6QUNLc2l3ODJVUXRtdkhjcVQxUQ?oc=5)
 
 ---
 

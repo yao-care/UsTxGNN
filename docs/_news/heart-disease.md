@@ -3,7 +3,7 @@ layout: default
 title: "CAD (heart disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about CAD (heart disease). 6 articles, 1 related drugs."
+description: "Health news about CAD (heart disease). 7 articles, 1 related drugs."
 permalink: /news/heart-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/heart-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about CAD (heart disease)?">
-<strong>CAD (heart disease)</strong> currently has <strong>6 news articles</strong> and 1 related drugs.
+<strong>CAD (heart disease)</strong> currently has <strong>7 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,7 @@ This page brings together the latest health news about “CAD” and lists the d
 </ul>
 </div>
 
-## Related News (6)
+## Related News (7)
 
 ### [Regular tea drinking linked to lower risk of stroke and heart disease](https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0NUR1VxTjVmOEtmNzNWaEp3TGpudFgxdEhHek1OaHlnT0ZnNlZuSE1Eb1BvWDI0N1c5VndmTGF2SGdPem1lRDg3SVRCTHdjV2NkcDVGTDRNYURGQXEyX2xnVjZQNGI1VUszQ2h0UGFEUnlueWZocFA5emZUSGJLRkZFbkdROXAwaVNWN3RxY1VJalIybDBSdU5CMFpOTWpiaWxMTm1fSUo2UjZP?oc=5)
 
@@ -44,6 +44,14 @@ Source: [Euronews](https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0NUR1Vx
 2026-10-21
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LMlU0MmtKTXVLOWtHeTlyZEYtSHVMemdBVktNRWkxeTM1NjhHVThlR28tUEZ6UmlpcU1RT3NoaVR5MWJVSzhyVEY2Mi0zV1dSU2F1dDNLLWJmcEs1ZGE4?oc=5)
+
+---
+
+### [Women hope yearly health checks will improve PMOS diagnosis and care](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aV1ZUbTd0cDh0akNlQVIya3NQOTZYOWlsMzJJSjctWDBsZ2JHNUI4ZTIwS0w2V0pNQTdFWUdxM0FkRm16dFpUb0I1YkxubTRiM1p3Y2RWVXVKTlU?oc=5)
+
+2026-10-21
+
+Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aV1ZUbTd0cDh0akNlQVIya3NQOTZYOWlsMzJJSjctWDBsZ2JHNUI4ZTIwS0w2V0pNQTdFWUdxM0FkRm16dFpUb0I1YkxubTRiM1p3Y2RWVXVKTlU?oc=5)
 
 ---
 

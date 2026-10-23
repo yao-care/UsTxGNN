@@ -14,7 +14,7 @@ permalink: /news/ramucirumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Ramucirumab?">
-<strong>Ramucirumab</strong> currently has <strong>5 news articles</strong>, with 1 predicted indications.
+<strong>Ramucirumab</strong> currently has <strong>6 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,21 +32,29 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (5)
+## Related News (6)
 
 ### [AI Tool Predicts Cancer Survival by Analyzing a Patient's Selfie](https://news.google.com/rss/articles/CBMipwFBVV95cUxOWjVxQUYzcTVJU2oxLVJ1MUcxOUJYN2Vsc2Z5di1QcVljNkNXNzNWTU83M1pHZE9jSnVDaEhQaXZ2YWJFR2wtSzNxeWJ1LW00Vnl5eGN2MFN1c19iTXVkZW56a3hJd2lzbUtxZ1BvVnFDLVFQM3pMZXNQWDdsQmNLTkZZUE9RMVFHLVR0MHBYemxRb2k2NkhRVmRGeUFvbVJyX2pZS3lQWQ?oc=5)
 
-2026-10-22 <span class="news-indication-tag">cancer</span>
+2026-10-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
 Source: [Newser](https://news.google.com/rss/articles/CBMipwFBVV95cUxOWjVxQUYzcTVJU2oxLVJ1MUcxOUJYN2Vsc2Z5di1QcVljNkNXNzNWTU83M1pHZE9jSnVDaEhQaXZ2YWJFR2wtSzNxeWJ1LW00Vnl5eGN2MFN1c19iTXVkZW56a3hJd2lzbUtxZ1BvVnFDLVFQM3pMZXNQWDdsQmNLTkZZUE9RMVFHLVR0MHBYemxRb2k2NkhRVmRGeUFvbVJyX2pZS3lQWQ?oc=5)
 
 ---
 
-### [She survived breast cancer and brought 2 million followers along. Now her mother is facing the same diagnosis.](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbHhhdGVBT2JVRGhQRWhmbU1udkoxZDNfWm8xbU1YZ01peGd1ZWxLMVJnWU5DUXdCSjNpR1JtSHNVcjVXRi1YTTdNUjBKNzB6a2dFekJxdXdHc0x5QzVBY2pqaHNiWi1PS1dPSXZRQ19BeFJpNy1Kdk05Vmw4azJpVmlnVzVmSjhWS09PcE9wYW44Q0dmMUNmalRRWG5EUEl2WkFmRzBpeUtRWUc2RUd5TXMwN0pvOUlkSGFEQUtSSFJRWDVZcDhkOWJ5LUd2R01CNy1iWldTVF9zdm9zMzdldFN4RU5WcWJxQ2c1Q0dha3E3bXM4X2c?oc=5)
+### [Georgia man knowingly gave HIV to wife, who died 2 days after the diagnosis. Now multiple women reveal alleged affairs](https://news.google.com/rss/articles/CBMijAFBVV95cUxQaEVvbTgwaURCOEY3RkxENEZpSGRwdkRBUVVJdDFhSGVQMlpqbG92S1lncWJyWUNWVkR4ZnVZUFNLN1Fma0N1MG1QbzBfSGR2U2FfV0JwQ3lNc2NHQXJUQVZyeElaUjE0SnZSa0lmUlZmSUtVSHh1NVRvWThuM01GbmM5bExVMEt0MUxoSw?oc=5)
+
+2026-10-22 <span class="news-indication-tag">cancer</span>
+
+Source: [Yahoo](https://news.google.com/rss/articles/CBMijAFBVV95cUxQaEVvbTgwaURCOEY3RkxENEZpSGRwdkRBUVVJdDFhSGVQMlpqbG92S1lncWJyWUNWVkR4ZnVZUFNLN1Fma0N1MG1QbzBfSGR2U2FfV0JwQ3lNc2NHQXJUQVZyeElaUjE0SnZSa0lmUlZmSUtVSHh1NVRvWThuM01GbmM5bExVMEt0MUxoSw?oc=5)
+
+---
+
+### [She survived breast cancer at 42 and brought 2 million followers along. Now her mother is facing the same diagnosis.](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVkFHNDZ1NnhGSDZUa1BURmlpckZCZjhoeDkzZlNDZndVVjMyR2E5OWZEYzN0R1pOWE1OR3VIZGpNeWpudGpUWDFCWFhVaWMzYS1jQXBLUjdVTzhpNjZ2OG1IbENJSVV5eGJEWWc3S2MwYnFGSm1PMndwdDFwQnRKUVduUXFhZW1JRXVyeUFjeDUyQnhxMmlTUTNSMUc1bzJseV9MZTJROXE1dnZJM3FELUtWeHAyVlZUOHlRcEt4Qm1GaWhRUTZJbzAxeWVfb0x0a0ZSNEgyN3A0NUttUDZ4VHFIcFBXTjI4T3l6QUNLc2l3ODJVUXRtdkhjcVQxUQ?oc=5)
 
 2026-10-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span>
 
-Source: [Yahoo](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbHhhdGVBT2JVRGhQRWhmbU1udkoxZDNfWm8xbU1YZ01peGd1ZWxLMVJnWU5DUXdCSjNpR1JtSHNVcjVXRi1YTTdNUjBKNzB6a2dFekJxdXdHc0x5QzVBY2pqaHNiWi1PS1dPSXZRQ19BeFJpNy1Kdk05Vmw4azJpVmlnVzVmSjhWS09PcE9wYW44Q0dmMUNmalRRWG5EUEl2WkFmRzBpeUtRWUc2RUd5TXMwN0pvOUlkSGFEQUtSSFJRWDVZcDhkOWJ5LUd2R01CNy1iWldTVF9zdm9zMzdldFN4RU5WcWJxQ2c1Q0dha3E3bXM4X2c?oc=5)
+Source: [Yahoo](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVkFHNDZ1NnhGSDZUa1BURmlpckZCZjhoeDkzZlNDZndVVjMyR2E5OWZEYzN0R1pOWE1OR3VIZGpNeWpudGpUWDFCWFhVaWMzYS1jQXBLUjdVTzhpNjZ2OG1IbENJSVV5eGJEWWc3S2MwYnFGSm1PMndwdDFwQnRKUVduUXFhZW1JRXVyeUFjeDUyQnhxMmlTUTNSMUc1bzJseV9MZTJROXE1dnZJM3FELUtWeHAyVlZUOHlRcEt4Qm1GaWhRUTZJbzAxeWVfb0x0a0ZSNEgyN3A0NUttUDZ4VHFIcFBXTjI4T3l6QUNLc2l3ODJVUXRtdkhjcVQxUQ?oc=5)
 
 ---
 
@@ -60,7 +68,7 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVz
 
 ### [The work of four CU Anschutz doctors is kind of a big deal - Colorado Public Radio](https://news.google.com/rss/articles/CBMigwFBVV95cUxOeTgzMUlTQXp0RlFHdFd0NU83bVM5Tnp0MXhIcl9oOVBicXp5V3hLblJGREJ1UDRweE5pcENyWUE1RWdVeXZKZlBFRjRFdDl0QUVHM0FJN0xJYXFva2ltSDFxdFB2RjdZU0xSeXNxeXJJdnFHZ20wZGttOHBDcUVQWHR3TQ?oc=5)
 
-2026-10-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+2026-10-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">RA</span>
 
 Source: [Colorado Public Radio](https://news.google.com/rss/articles/CBMigwFBVV95cUxOeTgzMUlTQXp0RlFHdFd0NU83bVM5Tnp0MXhIcl9oOVBicXp5V3hLblJGREJ1UDRweE5pcENyWUE1RWdVeXZKZlBFRjRFdDl0QUVHM0FJN0xJYXFva2ltSDFxdFB2RjdZU0xSeXNxeXJJdnFHZ20wZGttOHBDcUVQWHR3TQ?oc=5)
 

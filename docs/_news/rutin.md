@@ -14,7 +14,7 @@ permalink: /news/rutin/
 ---
 
 <p class="key-answer" data-question="What news is there about Rutin?">
-<strong>Rutin</strong> currently has <strong>9 news articles</strong>, with 1 predicted indications.
+<strong>Rutin</strong> currently has <strong>11 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,13 +32,37 @@ This page combines the AI-predicted indications for Rutin with the latest health
 <p><a href="{{ '/drugs/rutin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (11)
+
+### [Popular sleep aids before surgery could prevent painkiller dependence later - Fox News](https://news.google.com/rss/articles/CBMikAFBVV95cUxQcF9Bd3BXSXJxNklVeldTVy0zazB1OXVoZi0yS1dtSkx3OVBWREJJVHJsbmduMDMteVRLZzhEdlZyekFxOThNSFE4MFJtZ29jZ1dQa3I2RVhqaU1pbmx4dE9OOGxwZDZPSHFTcnZpWEJhb2xzSlVLVW00cXhjczhvOGUwZExRWnNNMkhZOWZoSjfSAZYBQVVfeXFMTnpLV2VMOVV6VGRUWTVOclExb3hvQWMwSzZOOWJpUklLbUtOZkpfdFE0V2V2UHdnQ3lrUjY0ODBKaXp1ZTJBaGxpeUszZHhrOXVyWjhvSVRoTFpJVDRqcnQ0UERpb2NUaHB5S1RLNXFqRktkc2Uxa0RSUjN5Q3JiWFZ2RVdDS2xlbnQ1WFF4WkxXSC1VRmpn?oc=5)
+
+2026-10-23 <span class="news-indication-tag">UC</span>
+
+Source: [Fox News](https://news.google.com/rss/articles/CBMikAFBVV95cUxQcF9Bd3BXSXJxNklVeldTVy0zazB1OXVoZi0yS1dtSkx3OVBWREJJVHJsbmduMDMteVRLZzhEdlZyekFxOThNSFE4MFJtZ29jZ1dQa3I2RVhqaU1pbmx4dE9OOGxwZDZPSHFTcnZpWEJhb2xzSlVLVW00cXhjczhvOGUwZExRWnNNMkhZOWZoSjfSAZYBQVVfeXFMTnpLV2VMOVV6VGRUWTVOclExb3hvQWMwSzZOOWJpUklLbUtOZkpfdFE0V2V2UHdnQ3lrUjY0ODBKaXp1ZTJBaGxpeUszZHhrOXVyWjhvSVRoTFpJVDRqcnQ0UERpb2NUaHB5S1RLNXFqRktkc2Uxa0RSUjN5Q3JiWFZ2RVdDS2xlbnQ1WFF4WkxXSC1VRmpn?oc=5)
+
+---
+
+### [Scientists probe link between early brain development and conditions such as autism - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOd254UjFZODRBTkswTEwtVkpONnpVNG5sMmJQVndXY2ZVeG95UGg1VUo5bVoxV0M4X0RqdTBFazc2UUwxZlZCQzVuWUdlTlZEUjAyRWNHbXJRcDdmbDcydDd5SEd6RDBHS2ZTZllLdFRGU3k1Vkx5S1N1cUg4MEFudy05bE4?oc=5)
+
+2026-10-23 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOd254UjFZODRBTkswTEwtVkpONnpVNG5sMmJQVndXY2ZVeG95UGg1VUo5bVoxV0M4X0RqdTBFazc2UUwxZlZCQzVuWUdlTlZEUjAyRWNHbXJRcDdmbDcydDd5SEd6RDBHS2ZTZllLdFRGU3k1Vkx5S1N1cUg4MEFudy05bE4?oc=5)
+
+---
 
 ### [Osteoporosis in women: Doctors reveal how much calcium and vitamin D you really need | Health - Hindustan Times](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSUh5aGgxZFVMUEt3cG9HcVZheWFOX3NSVDFZSDdteTRaTTd1S0VWS1JzUzlJb3JXMHczbW9aTmJnQTBUR3lPQlgyTk55bmZzM3FVd3Y1Zmg1TzBSZzJsdGlDQThNY2RLRzhBblFLV3BfYkNTOFhhazJxMUZpTFU5clprMXRHdEN2T2c4ZFk5NzA5ejR1elFrQnlSanV2THlNR0RMQmdVZ0FZWnEyNXkzcjBiNEtuQkdIaWxyWTdnek14YjZHMGJ5djd6emZibC1RSEY1QVFvZUpHODRIeGNsTFUwR25DeTDSAewBQVVfeXFMTkczWHFHb0pwaVpiazNtSVpLSklNbDdIY1pzcUxVNXlMQVRmVXNNblZzMUstY3dRTlBGNm5Ca25ya2REM2dfVUVGUDN4UGFyMEQ1dGpqV0lGRHJOakhxU21COExUMmdFd2p0TnhsY3NudHl1V0k2ZTdrV2ZiMGN1WUgwZzBzZXhSTmktYWFOU0doQVA5QTlVRnIxLVI3elR2cU1NM21xM192ejZ5VmVwUkxJN2lrLXZqaVVMNHJnTTNqM3EzM0h4YnN3NHpXbWl3WEtZVjVsN0d5WXBTUVgtRU0zYWhaMkhtbk9kYjg?oc=5)
 
 2026-10-22 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
 
 Source: [Hindustan Times](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSUh5aGgxZFVMUEt3cG9HcVZheWFOX3NSVDFZSDdteTRaTTd1S0VWS1JzUzlJb3JXMHczbW9aTmJnQTBUR3lPQlgyTk55bmZzM3FVd3Y1Zmg1TzBSZzJsdGlDQThNY2RLRzhBblFLV3BfYkNTOFhhazJxMUZpTFU5clprMXRHdEN2T2c4ZFk5NzA5ejR1elFrQnlSanV2THlNR0RMQmdVZ0FZWnEyNXkzcjBiNEtuQkdIaWxyWTdnek14YjZHMGJ5djd6emZibC1RSEY1QVFvZUpHODRIeGNsTFUwR25DeTDSAewBQVVfeXFMTkczWHFHb0pwaVpiazNtSVpLSklNbDdIY1pzcUxVNXlMQVRmVXNNblZzMUstY3dRTlBGNm5Ca25ya2REM2dfVUVGUDN4UGFyMEQ1dGpqV0lGRHJOakhxU21COExUMmdFd2p0TnhsY3NudHl1V0k2ZTdrV2ZiMGN1WUgwZzBzZXhSTmktYWFOU0doQVA5QTlVRnIxLVI3elR2cU1NM21xM192ejZ5VmVwUkxJN2lrLXZqaVVMNHJnTTNqM3EzM0h4YnN3NHpXbWl3WEtZVjVsN0d5WXBTUVgtRU0zYWhaMkhtbk9kYjg?oc=5)
+
+---
+
+### [NASA to change how it selects science missions](https://news.google.com/rss/articles/CBMieEFVX3lxTFBqbW9GM2ZLQ1c3RFc3dS1nR201cllSQnd0bUwyMlFIbE5HcTNoYlN5cV9VeXY2SXNKQmxPRE9zdk8teEZkQVFXeURCTHNUZ2k1Xzd4UEU1Y0ctSUk2bDFkTkJuX0lxQUpKMUlHbUJkUW9SQjNuSG1mMQ?oc=5)
+
+2026-10-22 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [SpaceNews](https://news.google.com/rss/articles/CBMieEFVX3lxTFBqbW9GM2ZLQ1c3RFc3dS1nR201cllSQnd0bUwyMlFIbE5HcTNoYlN5cV9VeXY2SXNKQmxPRE9zdk8teEZkQVFXeURCTHNUZ2k1Xzd4UEU1Y0ctSUk2bDFkTkJuX0lxQUpKMUlHbUJkUW9SQjNuSG1mMQ?oc=5)
 
 ---
 
@@ -50,14 +74,6 @@ Source: [Chemistry World](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQS
 
 ---
 
-### [Regular tea drinking linked to lower risk of stroke and heart disease](https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0NUR1VxTjVmOEtmNzNWaEp3TGpudFgxdEhHek1OaHlnT0ZnNlZuSE1Eb1BvWDI0N1c5VndmTGF2SGdPem1lRDg3SVRCTHdjV2NkcDVGTDRNYURGQXEyX2xnVjZQNGI1VUszQ2h0UGFEUnlueWZocFA5emZUSGJLRkZFbkdROXAwaVNWN3RxY1VJalIybDBSdU5CMFpOTWpiaWxMTm1fSUo2UjZP?oc=5)
-
-2026-10-22 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
-
-Source: [Euronews](https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0NUR1VxTjVmOEtmNzNWaEp3TGpudFgxdEhHek1OaHlnT0ZnNlZuSE1Eb1BvWDI0N1c5VndmTGF2SGdPem1lRDg3SVRCTHdjV2NkcDVGTDRNYURGQXEyX2xnVjZQNGI1VUszQ2h0UGFEUnlueWZocFA5emZUSGJLRkZFbkdROXAwaVNWN3RxY1VJalIybDBSdU5CMFpOTWpiaWxMTm1fSUo2UjZP?oc=5)
-
----
-
 ### [Structural basis for protocadherin-1 recognition by New World hantaviruses](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LMlU0MmtKTXVLOWtHeTlyZEYtSHVMemdBVktNRWkxeTM1NjhHVThlR28tUEZ6UmlpcU1RT3NoaVR5MWJVSzhyVEY2Mi0zV1dSU2F1dDNLLWJmcEs1ZGE4?oc=5)
 
 2026-10-21 <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
@@ -66,11 +82,11 @@ Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LMlU0MmtKTX
 
 ---
 
-### [Changes to hepatitis B vaccine recommendations could leave millions of children vulnerable: Study - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMivAFBVV95cUxOY2N5dThpcS15T2gxSEFlcW5JWmxQT2g5MldOZHVMdWJYdmtVS2I2ZVJJVWhYc3FiLVlkenhKdWdBUFpleFpsSkZLU3NxNUZ1dVBuQ25sbzJtNzY4d2R6Skcwd1lMLTNuRmFQVkxlRGg5dDl2bFdLRUh3dUZ6a1NXYUhoMjVDN1Z4UWxUMzgxZmdydk5KZEtGSEJrb1JBRnlrVWJQT1RxU0lRTkExWkd2NlF6VVplUFpxVnI2OdIBwgFBVV95cUxPT1ZrdjgtMktuejZmYkhqVUFNWktrb3dfdk9iWWtUNmlYZ29uNkRYVlVOMU03bUxFaG1jR1NIeWZodVVTYTNSUnNWOE1lUnQyMURCUFRJOFcwQmJSN0MzTWhaZnUwMWNxSVJncHExQXptOTZ0UXVvNkxIeWVZVGNOTldFZ0Jtc2h2bWRFVloxYlNWRjhFRXhtSjUzYmMzR0oyalVxcFJ2Q2wyOEJSYVpkbjQzMTJDSWM2UDBZekhpWFlIUQ?oc=5)
+### [The major bedtime mistake that’s wreaking havoc on teens’ sleep — and what to do instead - New York Post](https://news.google.com/rss/articles/CBMimwFBVV95cUxNdVE1RnZ5ZlVjT25Oc0F4aTctaXJXNUFZb1dRb3NOa2dkdHFZV2dkSFlWeDY4clpaQzRmaURTTjAwTTRmRWozdXpnYmVYU1A2Tkh1TXZxT2hjbFcyZmFnNGhPYUZNVTktNkpmSy14RzVKSVhxcEEzRWZob3Q5bWJ3ZUhFV3lFNmxnU1NFT3VoekZWNnpOQ256YjR3Yw?oc=5)
 
-2026-10-21 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-10-21 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
 
-Source: [ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMivAFBVV95cUxOY2N5dThpcS15T2gxSEFlcW5JWmxQT2g5MldOZHVMdWJYdmtVS2I2ZVJJVWhYc3FiLVlkenhKdWdBUFpleFpsSkZLU3NxNUZ1dVBuQ25sbzJtNzY4d2R6Skcwd1lMLTNuRmFQVkxlRGg5dDl2bFdLRUh3dUZ6a1NXYUhoMjVDN1Z4UWxUMzgxZmdydk5KZEtGSEJrb1JBRnlrVWJQT1RxU0lRTkExWkd2NlF6VVplUFpxVnI2OdIBwgFBVV95cUxPT1ZrdjgtMktuejZmYkhqVUFNWktrb3dfdk9iWWtUNmlYZ29uNkRYVlVOMU03bUxFaG1jR1NIeWZodVVTYTNSUnNWOE1lUnQyMURCUFRJOFcwQmJSN0MzTWhaZnUwMWNxSVJncHExQXptOTZ0UXVvNkxIeWVZVGNOTldFZ0Jtc2h2bWRFVloxYlNWRjhFRXhtSjUzYmMzR0oyalVxcFJ2Q2wyOEJSYVpkbjQzMTJDSWM2UDBZekhpWFlIUQ?oc=5)
+Source: [New York Post](https://news.google.com/rss/articles/CBMimwFBVV95cUxNdVE1RnZ5ZlVjT25Oc0F4aTctaXJXNUFZb1dRb3NOa2dkdHFZV2dkSFlWeDY4clpaQzRmaURTTjAwTTRmRWozdXpnYmVYU1A2Tkh1TXZxT2hjbFcyZmFnNGhPYUZNVTktNkpmSy14RzVKSVhxcEEzRWZob3Q5bWJ3ZUhFV3lFNmxnU1NFT3VoekZWNnpOQ256YjR3Yw?oc=5)
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /news/rutin/
 ---
 
 <p class="key-answer" data-question="What news is there about Rutin?">
-<strong>Rutin</strong> currently has <strong>12 news articles</strong>, with 1 predicted indications.
+<strong>Rutin</strong> currently has <strong>9 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,13 +32,13 @@ This page combines the AI-predicted indications for Rutin with the latest health
 <p><a href="{{ '/drugs/rutin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (12)
+## Related News (9)
 
-### [Exclusive | I spent 7 years battling the excruciating ‘suicide disease’ — I couldn’t even smile without pain - New York Post](https://news.google.com/rss/articles/CBMilgFBVV95cUxOdUxVTEYyVk1SaG5rU3I2akJLc0hPNEFKMVludHBHN2xMSWhBVzAxTE45cnlfeEp2YzBTS2hUQURJR1psSzBtZGlhU0hqWklmeXVsdVYtM1BLVWRUNGtNUlJOaWNfcnBJMWRwUFhwaWVkUTdVUUZEdDdmY3RJaUpaMGgtR1ZEdVlQM3k1TEJEaE80bWJRcmc?oc=5)
+### [Osteoporosis in women: Doctors reveal how much calcium and vitamin D you really need | Health - Hindustan Times](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSUh5aGgxZFVMUEt3cG9HcVZheWFOX3NSVDFZSDdteTRaTTd1S0VWS1JzUzlJb3JXMHczbW9aTmJnQTBUR3lPQlgyTk55bmZzM3FVd3Y1Zmg1TzBSZzJsdGlDQThNY2RLRzhBblFLV3BfYkNTOFhhazJxMUZpTFU5clprMXRHdEN2T2c4ZFk5NzA5ejR1elFrQnlSanV2THlNR0RMQmdVZ0FZWnEyNXkzcjBiNEtuQkdIaWxyWTdnek14YjZHMGJ5djd6emZibC1RSEY1QVFvZUpHODRIeGNsTFUwR25DeTDSAewBQVVfeXFMTkczWHFHb0pwaVpiazNtSVpLSklNbDdIY1pzcUxVNXlMQVRmVXNNblZzMUstY3dRTlBGNm5Ca25ya2REM2dfVUVGUDN4UGFyMEQ1dGpqV0lGRHJOakhxU21COExUMmdFd2p0TnhsY3NudHl1V0k2ZTdrV2ZiMGN1WUgwZzBzZXhSTmktYWFOU0doQVA5QTlVRnIxLVI3elR2cU1NM21xM192ejZ5VmVwUkxJN2lrLXZqaVVMNHJnTTNqM3EzM0h4YnN3NHpXbWl3WEtZVjVsN0d5WXBTUVgtRU0zYWhaMkhtbk9kYjg?oc=5)
 
 2026-10-22 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
 
-Source: [New York Post](https://news.google.com/rss/articles/CBMilgFBVV95cUxOdUxVTEYyVk1SaG5rU3I2akJLc0hPNEFKMVludHBHN2xMSWhBVzAxTE45cnlfeEp2YzBTS2hUQURJR1psSzBtZGlhU0hqWklmeXVsdVYtM1BLVWRUNGtNUlJOaWNfcnBJMWRwUFhwaWVkUTdVUUZEdDdmY3RJaUpaMGgtR1ZEdVlQM3k1TEJEaE80bWJRcmc?oc=5)
+Source: [Hindustan Times](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSUh5aGgxZFVMUEt3cG9HcVZheWFOX3NSVDFZSDdteTRaTTd1S0VWS1JzUzlJb3JXMHczbW9aTmJnQTBUR3lPQlgyTk55bmZzM3FVd3Y1Zmg1TzBSZzJsdGlDQThNY2RLRzhBblFLV3BfYkNTOFhhazJxMUZpTFU5clprMXRHdEN2T2c4ZFk5NzA5ejR1elFrQnlSanV2THlNR0RMQmdVZ0FZWnEyNXkzcjBiNEtuQkdIaWxyWTdnek14YjZHMGJ5djd6emZibC1RSEY1QVFvZUpHODRIeGNsTFUwR25DeTDSAewBQVVfeXFMTkczWHFHb0pwaVpiazNtSVpLSklNbDdIY1pzcUxVNXlMQVRmVXNNblZzMUstY3dRTlBGNm5Ca25ya2REM2dfVUVGUDN4UGFyMEQ1dGpqV0lGRHJOakhxU21COExUMmdFd2p0TnhsY3NudHl1V0k2ZTdrV2ZiMGN1WUgwZzBzZXhSTmktYWFOU0doQVA5QTlVRnIxLVI3elR2cU1NM21xM192ejZ5VmVwUkxJN2lrLXZqaVVMNHJnTTNqM3EzM0h4YnN3NHpXbWl3WEtZVjVsN0d5WXBTUVgtRU0zYWhaMkhtbk9kYjg?oc=5)
 
 ---
 
@@ -47,6 +47,14 @@ Source: [New York Post](https://news.google.com/rss/articles/CBMilgFBVV95cUxOdUx
 2026-10-22 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [Chemistry World](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSk1ZaGJVaHFSR1VSLWdwTWdpaWJyUndvRmpiSURFQmJHVWk5NFluQWlLdmNOMDV0dU9jOGZmdzJ2ejBUT3BoNWt2dU51THNyOHhuLUI5b2x0UFFqSUVXSGt4TUs1aEt0eUVORkxpNGF2SFdfZHZHZHZxZ0w4bFZfVkhMNlY0V1FqNS1vbHp2QVpJWlFhTXR5REIxcDFmQXd1enNjaUhmREk2UVgzRHVSLW5xZm9WeHR4Z2VaMndNTi1HOUxRaXItTVVZTDlHcWQ4VkNVWXliYjBUVllrV1gyag?oc=5)
+
+---
+
+### [Regular tea drinking linked to lower risk of stroke and heart disease](https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0NUR1VxTjVmOEtmNzNWaEp3TGpudFgxdEhHek1OaHlnT0ZnNlZuSE1Eb1BvWDI0N1c5VndmTGF2SGdPem1lRDg3SVRCTHdjV2NkcDVGTDRNYURGQXEyX2xnVjZQNGI1VUszQ2h0UGFEUnlueWZocFA5emZUSGJLRkZFbkdROXAwaVNWN3RxY1VJalIybDBSdU5CMFpOTWpiaWxMTm1fSUo2UjZP?oc=5)
+
+2026-10-22 <span class="news-indication-tag">heart disease</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+
+Source: [Euronews](https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0NUR1VxTjVmOEtmNzNWaEp3TGpudFgxdEhHek1OaHlnT0ZnNlZuSE1Eb1BvWDI0N1c5VndmTGF2SGdPem1lRDg3SVRCTHdjV2NkcDVGTDRNYURGQXEyX2xnVjZQNGI1VUszQ2h0UGFEUnlueWZocFA5emZUSGJLRkZFbkdROXAwaVNWN3RxY1VJalIybDBSdU5CMFpOTWpiaWxMTm1fSUo2UjZP?oc=5)
 
 ---
 
@@ -66,27 +74,11 @@ Source: [ABC News - Breaking News, Latest News and Videos](https://news.google.c
 
 ---
 
-### [Drinking seven cups of tea a day linked to better heart health - The Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ2taMldxYTJGVWFiVTZQcUcwNi1hbERINmFQeXoyTXVNTFYtcmRnNHp1M2tSM0RoZXN0M042eDNNenNHd1gzaTRRb01pS3JNR1p5Vm5hNm5kV01GaWlNQjFsZkpSb2t4UXNBdjJnZ1hZWW9yeUpXNF9kZ1FCcldsaXNTVkFNUXNZUTF3VF80SE9PZ3ZyWHdiemp3NWhac1ExN3JR?oc=5)
-
-2026-10-21 <span class="news-indication-tag">cardiovascular disease</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
-
-Source: [The Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxPZ2taMldxYTJGVWFiVTZQcUcwNi1hbERINmFQeXoyTXVNTFYtcmRnNHp1M2tSM0RoZXN0M042eDNNenNHd1gzaTRRb01pS3JNR1p5Vm5hNm5kV01GaWlNQjFsZkpSb2t4UXNBdjJnZ1hZWW9yeUpXNF9kZ1FCcldsaXNTVkFNUXNZUTF3VF80SE9PZ3ZyWHdiemp3NWhac1ExN3JR?oc=5)
-
----
-
 ### [‘Everything’s coming to fruition’: Renowned MGB neuroscientist to receive millions to combat Alzheimer’s - The Boston Globe](https://news.google.com/rss/articles/CBMilgFBVV95cUxOUTVKQXB3RHQtY2xVWWkybU5CbnJVWU9IOHBTN3dzSXRLTXNDRVZyOVJ1Q0t5WnBTTW5WQ0lad2ZKQk8ybXlXS3U5Zk9FU2hZUUpvLTRESnVvZ2JjdUU2eEJNczh1dlV5Rk01YkN0T011NmVsODZYY3UzVFNLWDhxSHEtRkhYZ21USEFOc01YcUtNdTZnSUE?oc=5)
 
 2026-10-21 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [The Boston Globe](https://news.google.com/rss/articles/CBMilgFBVV95cUxOUTVKQXB3RHQtY2xVWWkybU5CbnJVWU9IOHBTN3dzSXRLTXNDRVZyOVJ1Q0t5WnBTTW5WQ0lad2ZKQk8ybXlXS3U5Zk9FU2hZUUpvLTRESnVvZ2JjdUU2eEJNczh1dlV5Rk01YkN0T011NmVsODZYY3UzVFNLWDhxSHEtRkhYZ21USEFOc01YcUtNdTZnSUE?oc=5)
-
----
-
-### [A chance discovery offers hope for coral reefs - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNeFhxTG5fZ2hBX0YzWlE3VWJ2X2JsbUwyUmVfamN2MFo1VGRybWFiV0NQTkxKWXR0TVNQQkNTU3BHYmpleEo5c2ROaXRUZlZCZktZcE5vU0pJMnhLQXhZVFVCYTk1T2trZXdaX3pnSnJ6VFkyYXlweERKSnhNQW5BSUU1NEw?oc=5)
-
-2026-10-21 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNeFhxTG5fZ2hBX0YzWlE3VWJ2X2JsbUwyUmVfamN2MFo1VGRybWFiV0NQTkxKWXR0TVNQQkNTU3BHYmpleEo5c2ROaXRUZlZCZktZcE5vU0pJMnhLQXhZVFVCYTk1T2trZXdaX3pnSnJ6VFkyYXlweERKSnhNQW5BSUU1NEw?oc=5)
 
 ---
 
@@ -98,14 +90,6 @@ Source: [Fox News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLUZpcEV0
 
 ---
 
-### [A 23-foot drone sailboat left Tasmania to circle Antarctica alone for 200 days, met waves over 26 feet within days of leaving, and will log more than 13,000 miles measuring how much carbon the Southern Ocean swallows before coming back to swap its sensor](https://news.google.com/rss/articles/CBMijwFBVV95cUxQV3k3Q082QjgzbERqNFBwTGZfaEpHTEdOVWtJZXNmSXd2cEY2YVBjSmFhOThDaDhWVnFNektjUFp4cHc5QV83QWhfNnZBX280ZklmX3gtbDlKTWtfeUlXZjJRYnNiSXBPNGpPWVI1SFRjUkdWcHhuWklzMmNRb0RnYVhabjA3V2F5Z21CaXpKZw?oc=5)
-
-2026-10-20 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [Autonocion.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxQV3k3Q082QjgzbERqNFBwTGZfaEpHTEdOVWtJZXNmSXd2cEY2YVBjSmFhOThDaDhWVnFNektjUFp4cHc5QV83QWhfNnZBX280ZklmX3gtbDlKTWtfeUlXZjJRYnNiSXBPNGpPWVI1SFRjUkdWcHhuWklzMmNRb0RnYVhabjA3V2F5Z21CaXpKZw?oc=5)
-
----
-
 ### [Nutritional supplement may help ease 'brain fog' after breast cancer treatment - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVzBfZ3NNN1RSUl8tRjNvYy1iaHNIbzVPdGJJYzZlajVEX2J0MTFhTjljRl9PazRRTVgzZy1GRl9PeHJXa3A4cGUxSFZDN3Y0LXgyQ3FQT1JkaVdtVlZPU0ZjSy1uSzJHUTRPNUVBYk9DclVGZ1ppZlA1R1dlME9BdHMyQ0FlS0I0?oc=5)
 
 2026-10-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
@@ -114,19 +98,11 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVz
 
 ---
 
-### [Scientists Discover What Can Trigger Cancer Cells to Self-Destruct](https://news.google.com/rss/articles/CBMinAFBVV95cUxNNjdSREJqY1dXQnhmQ21iZ3hleE4wSl9sRGlJSkZLYjRDM2xqM0luUEt1Y0NXc1VQQ3FJUldXTTA4aDFDeE1laHF0dkJsTjhBbmxMSGhIY3BwMXpuZHFsOXNTUUIyM0t5M0lEVDNWMWVOeVhXR0gyVVBrSzZWSWY4Tjd2cjNIX0xyaDMwdTBQRWhLT3ZGcmd4WDI1ZTc?oc=5)
+### [Scientists discover a trigger for cancer cells' self-destruction](https://news.google.com/rss/articles/CBMinAFBVV95cUxNNjdSREJqY1dXQnhmQ21iZ3hleE4wSl9sRGlJSkZLYjRDM2xqM0luUEt1Y0NXc1VQQ3FJUldXTTA4aDFDeE1laHF0dkJsTjhBbmxMSGhIY3BwMXpuZHFsOXNTUUIyM0t5M0lEVDNWMWVOeVhXR0gyVVBrSzZWSWY4Tjd2cjNIX0xyaDMwdTBQRWhLT3ZGcmd4WDI1ZTc?oc=5)
 
-2026-10-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">UC</span>
+2026-10-20 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [Newsweek](https://news.google.com/rss/articles/CBMinAFBVV95cUxNNjdSREJqY1dXQnhmQ21iZ3hleE4wSl9sRGlJSkZLYjRDM2xqM0luUEt1Y0NXc1VQQ3FJUldXTTA4aDFDeE1laHF0dkJsTjhBbmxMSGhIY3BwMXpuZHFsOXNTUUIyM0t5M0lEVDNWMWVOeVhXR0gyVVBrSzZWSWY4Tjd2cjNIX0xyaDMwdTBQRWhLT3ZGcmd4WDI1ZTc?oc=5)
-
----
-
-### [Transcranial ultrasound stimulation of the right globus pallidus interna in schizophrenia: A randomized, sham-controlled pilot study | npj Acoustics](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SV3R6Vnd6WFE4YWtmZmd2SkhFN1NQT0ZUTnhwUEZ1TXVmQ3JuNDl1ZVhybC16RXpock5zS01oaEI1V2pwUjFuWDBndXlHV0I1OHQ3NGdxZ1VQS21DTWJj?oc=5)
-
-2026-10-20 <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9SV3R6Vnd6WFE4YWtmZmd2SkhFN1NQT0ZUTnhwUEZ1TXVmQ3JuNDl1ZVhybC16RXpock5zS01oaEI1V2pwUjFuWDBndXlHV0I1OHQ3NGdxZ1VQS21DTWJj?oc=5)
 
 ---
 

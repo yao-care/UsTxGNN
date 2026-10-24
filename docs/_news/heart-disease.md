@@ -1,24 +1,24 @@
 ---
 layout: default
-title: "cardiovascular disease (heart disease) News"
+title: "CAD (heart disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cardiovascular disease (heart disease). 4 articles, 1 related drugs."
+description: "Health news about CAD (heart disease). 4 articles, 1 related drugs."
 permalink: /news/heart-disease/
 ---
 
-# cardiovascular disease (heart disease) News
+# CAD (heart disease) News
 
 [← Back to News Overview]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="What news is there about cardiovascular disease (heart disease)?">
-<strong>cardiovascular disease (heart disease)</strong> currently has <strong>4 news articles</strong> and 1 related drugs.
+<p class="key-answer" data-question="What news is there about CAD (heart disease)?">
+<strong>CAD (heart disease)</strong> currently has <strong>4 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
-This page brings together the latest health news about “cardiovascular disease” and lists the drugs in the UsTxGNN database whose predicted indications include this disease.
+This page brings together the latest health news about “CAD” and lists the drugs in the UsTxGNN database whose predicted indications include this disease.
 </div>
 
 <div class="related-drugs-card">
@@ -39,7 +39,7 @@ Source: [New York Post](https://news.google.com/rss/articles/CBMinwFBVV95cUxPUXh
 
 ---
 
-### [Your Sleep Habits May Point to a Specific Type of Depression, a New Study Finds - The New York Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQTjlLdjRuaGd6c1VWZ0U3ZHE4WC11VzFRZmVuTTM0TV95ZDZrOW9HSlFvR19aSmJPRWoxcTcwZVBSUFJMVkt3R3F0Vl90MnVNdG5zaU5COEFSY0RDN3VJaC1sQUxJXzBSV3RPMmZXeHJFbUJzWjVRcFFpY1FwazBfT0dQTGI?oc=5)
+### [Sleep Habits May Indicate a Type of Depression, Researchers Say - The New York Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxQTjlLdjRuaGd6c1VWZ0U3ZHE4WC11VzFRZmVuTTM0TV95ZDZrOW9HSlFvR19aSmJPRWoxcTcwZVBSUFJMVkt3R3F0Vl90MnVNdG5zaU5COEFSY0RDN3VJaC1sQUxJXzBSV3RPMmZXeHJFbUJzWjVRcFFpY1FwazBfT0dQTGI?oc=5)
 
 2026-10-23
 

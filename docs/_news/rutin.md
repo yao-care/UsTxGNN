@@ -14,7 +14,7 @@ permalink: /news/rutin/
 ---
 
 <p class="key-answer" data-question="What news is there about Rutin?">
-<strong>Rutin</strong> currently has <strong>11 news articles</strong>, with 1 predicted indications.
+<strong>Rutin</strong> currently has <strong>9 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,15 @@ This page combines the AI-predicted indications for Rutin with the latest health
 <p><a href="{{ '/drugs/rutin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (11)
+## Related News (9)
+
+### [Physically Touching Your Dog Can Help Protect You From Upcoming Stress, Study Suggests](https://news.google.com/rss/articles/CBMitAFBVV95cUxOa2traGJsNlgzck80a2hTRl9HbENVUldFUHVMQkE4ZlBkb1A4QkRBX3l6dG4yd3JibVl6Tm1aT1pqall2eDdHMzk3RkFYcnJsTFQ5U0dKYU1wSnoyNUxjejRRWlZ1Z1d3THQ2U2x1ZGg5cFp0cmJfRFVNVDZXVmRvNlVBTWw2UWo2ek4zZUVsZTF4OTRxWVN6bTJoZkIwZ0J2Rm0xbVUwM093VWJqTWNELTh5MGw?oc=5)
+
+2026-10-24 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMitAFBVV95cUxOa2traGJsNlgzck80a2hTRl9HbENVUldFUHVMQkE4ZlBkb1A4QkRBX3l6dG4yd3JibVl6Tm1aT1pqall2eDdHMzk3RkFYcnJsTFQ5U0dKYU1wSnoyNUxjejRRWlZ1Z1d3THQ2U2x1ZGg5cFp0cmJfRFVNVDZXVmRvNlVBTWw2UWo2ek4zZUVsZTF4OTRxWVN6bTJoZkIwZ0J2Rm0xbVUwM093VWJqTWNELTh5MGw?oc=5)
+
+---
 
 ### [GLP-1 Side Effects vs. Benefits: Real Patient Experiences](https://news.google.com/rss/articles/CBMimgFBVV95cUxQUGVod1dYbGRUSHN3LVQ2N0FXUDZnWmxsbDB5cklsYjVVVWk4UDVwdG5XajJqZmZQcTJPMlQxeExzMURxOHJNNTY3OUU4dVJuOXcxMy1rdVVqSHRPSVZpZFM4Q2tjZHhXSWVSaEFiU2Fhb1RyVlRhM01CblYxd2o1bFBMMjVSM0tKc01JenlCcU1lOVVlR0k4MEd3?oc=5)
 
@@ -74,22 +82,6 @@ Source: [The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxPR18
 
 ---
 
-### [Scientists probe link between early brain development and conditions such as autism - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOd254UjFZODRBTkswTEwtVkpONnpVNG5sMmJQVndXY2ZVeG95UGg1VUo5bVoxV0M4X0RqdTBFazc2UUwxZlZCQzVuWUdlTlZEUjAyRWNHbXJRcDdmbDcydDd5SEd6RDBHS2ZTZllLdFRGU3k1Vkx5S1N1cUg4MEFudy05bE4?oc=5)
-
-2026-10-23 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOd254UjFZODRBTkswTEwtVkpONnpVNG5sMmJQVndXY2ZVeG95UGg1VUo5bVoxV0M4X0RqdTBFazc2UUwxZlZCQzVuWUdlTlZEUjAyRWNHbXJRcDdmbDcydDd5SEd6RDBHS2ZTZllLdFRGU3k1Vkx5S1N1cUg4MEFudy05bE4?oc=5)
-
----
-
-### [Osteoporosis in women: Doctors reveal how much calcium and vitamin D you really need | Health - Hindustan Times](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSUh5aGgxZFVMUEt3cG9HcVZheWFOX3NSVDFZSDdteTRaTTd1S0VWS1JzUzlJb3JXMHczbW9aTmJnQTBUR3lPQlgyTk55bmZzM3FVd3Y1Zmg1TzBSZzJsdGlDQThNY2RLRzhBblFLV3BfYkNTOFhhazJxMUZpTFU5clprMXRHdEN2T2c4ZFk5NzA5ejR1elFrQnlSanV2THlNR0RMQmdVZ0FZWnEyNXkzcjBiNEtuQkdIaWxyWTdnek14YjZHMGJ5djd6emZibC1RSEY1QVFvZUpHODRIeGNsTFUwR25DeTDSAewBQVVfeXFMTkczWHFHb0pwaVpiazNtSVpLSklNbDdIY1pzcUxVNXlMQVRmVXNNblZzMUstY3dRTlBGNm5Ca25ya2REM2dfVUVGUDN4UGFyMEQ1dGpqV0lGRHJOakhxU21COExUMmdFd2p0TnhsY3NudHl1V0k2ZTdrV2ZiMGN1WUgwZzBzZXhSTmktYWFOU0doQVA5QTlVRnIxLVI3elR2cU1NM21xM192ejZ5VmVwUkxJN2lrLXZqaVVMNHJnTTNqM3EzM0h4YnN3NHpXbWl3WEtZVjVsN0d5WXBTUVgtRU0zYWhaMkhtbk9kYjg?oc=5)
-
-2026-10-22 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [Hindustan Times](https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSUh5aGgxZFVMUEt3cG9HcVZheWFOX3NSVDFZSDdteTRaTTd1S0VWS1JzUzlJb3JXMHczbW9aTmJnQTBUR3lPQlgyTk55bmZzM3FVd3Y1Zmg1TzBSZzJsdGlDQThNY2RLRzhBblFLV3BfYkNTOFhhazJxMUZpTFU5clprMXRHdEN2T2c4ZFk5NzA5ejR1elFrQnlSanV2THlNR0RMQmdVZ0FZWnEyNXkzcjBiNEtuQkdIaWxyWTdnek14YjZHMGJ5djd6emZibC1RSEY1QVFvZUpHODRIeGNsTFUwR25DeTDSAewBQVVfeXFMTkczWHFHb0pwaVpiazNtSVpLSklNbDdIY1pzcUxVNXlMQVRmVXNNblZzMUstY3dRTlBGNm5Ca25ya2REM2dfVUVGUDN4UGFyMEQ1dGpqV0lGRHJOakhxU21COExUMmdFd2p0TnhsY3NudHl1V0k2ZTdrV2ZiMGN1WUgwZzBzZXhSTmktYWFOU0doQVA5QTlVRnIxLVI3elR2cU1NM21xM192ejZ5VmVwUkxJN2lrLXZqaVVMNHJnTTNqM3EzM0h4YnN3NHpXbWl3WEtZVjVsN0d5WXBTUVgtRU0zYWhaMkhtbk9kYjg?oc=5)
-
----
-
 ### [Scientists may have found the key to one of quantum physics’ biggest mysteries: superconductivity - The Brighter Side of News](https://news.google.com/rss/articles/CBMizwFBVV95cUxQenZuVVQzLTlqSlVPVFBWdFhNT1c4VXhjem4xMngyV3Biam5QZmREaGlybmpEME1FUGkyckJaT3FDRWYtdHVsRUs5bGd1ZnF1RnBCaWV6bFBqRXMtc3VTR21XZ1Mxa3c5aVNmSkstWEowZ25FTHJuQnpFbkFfSXlQN2xVV0FiS2FCb1dOUU0wQ3FiWGQ3T0ZmRmFMY2dFRkNMaVFIcDJqVmJESTBYUVlHODhuNnJJSzFtZVc3Q1N5bzN2c2ZJdjk0S0o4QU80dUE?oc=5)
 
 2026-10-21 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">flu</span> <span class="news-indication-tag">UC</span>
@@ -98,27 +90,19 @@ Source: [The Brighter Side of News](https://news.google.com/rss/articles/CBMizwF
 
 ---
 
-### [Deposit System and Space Trucks Target Space Debris Reduction](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbHVfcHRoVk1YTzR3eUVtaDI2c0JqVnBrSWFGdktsc2N0X2Z5X2YtRFlvNFRrYVljcTNXNmZ2OU96amZHRkV2cHRZWXg5OTdiN1ZvY2xsLWlGSzB5X0tDNlpzQWIwejY3REkxT0VTa0RUZVFvaFNaVXJkMGpoTV9oMWZYaGdWckF3?oc=5)
-
-2026-10-21 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [조선일보](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbHVfcHRoVk1YTzR3eUVtaDI2c0JqVnBrSWFGdktsc2N0X2Z5X2YtRFlvNFRrYVljcTNXNmZ2OU96amZHRkV2cHRZWXg5OTdiN1ZvY2xsLWlGSzB5X0tDNlpzQWIwejY3REkxT0VTa0RUZVFvaFNaVXJkMGpoTV9oMWZYaGdWckF3?oc=5)
-
----
-
-### [Common disorder linked to 70% higher death rate, but medication may offer protection - Fox News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLUZpcEV0MXgtclFmZjRTdXJ1WHVGSVdaNXF1dUJ1Q0g2OG16LVhfZHAtbWVsS1ZxVFFIQjlhcmVPejlXTWxzVlNxUEtzaktkVVctLU8yekM4VVEyUUZnOHNCNXExZVBvNi14QXBiZHlFSXBqLTVOY3FtU25fdjdZc1hBMVp6MWd6LWJZRXRSeDdVM1hlb0d0LUlXLUhNTDA0empfLUt2TS1Xd9IBrwFBVV95cUxQVHBnM1J2SWdCZ2lKU3I3bmctRUNaaTFPbXJZN1V2S2lKMVYxcnBvMV9aSzRqN2lTUVBZaEJYTy1HYUE5ZFFlTV9lT0xNaW9oaWpsUlNpT3dVZW9NZTlQVXNrRDEyd2JWMmM5MV9EUkxyQlI1bGlSWXpFNDlBQWhsckJtMXdwUjRfMUtyMTRsQ0x2YktfWWljaEhQLTI1VXNpTUFzQ2ZqNEM4MXZfTzI4?oc=5)
+### [People With ADHD Face a 70% Higher Risk of Early Death. This Seems to Help](https://news.google.com/rss/articles/CBMipgFBVV95cUxPZndEY0o2WFN0Zm9mWG9HcHR5cGN2c0JoZ0JRVmNoTWlmZ2NENWhMR3pBc3Q0MU1qQXU4RFY0aVNZbEw5eWh4cUpZa0wzRUNvWGwySXFGeGhQRHBKLUlBbjFjWGJmVnZYR2FKU3ZsN3hxU3dIVnJUTHdRVzdrbXpRT3lHY3EtR1ZNem1uLWQ4WmFGTkNMaDlLTjJGaTlNN1NLeVhnYlZ3?oc=5)
 
 2026-10-20 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
-Source: [Fox News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLUZpcEV0MXgtclFmZjRTdXJ1WHVGSVdaNXF1dUJ1Q0g2OG16LVhfZHAtbWVsS1ZxVFFIQjlhcmVPejlXTWxzVlNxUEtzaktkVVctLU8yekM4VVEyUUZnOHNCNXExZVBvNi14QXBiZHlFSXBqLTVOY3FtU25fdjdZc1hBMVp6MWd6LWJZRXRSeDdVM1hlb0d0LUlXLUhNTDA0empfLUt2TS1Xd9IBrwFBVV95cUxQVHBnM1J2SWdCZ2lKU3I3bmctRUNaaTFPbXJZN1V2S2lKMVYxcnBvMV9aSzRqN2lTUVBZaEJYTy1HYUE5ZFFlTV9lT0xNaW9oaWpsUlNpT3dVZW9NZTlQVXNrRDEyd2JWMmM5MV9EUkxyQlI1bGlSWXpFNDlBQWhsckJtMXdwUjRfMUtyMTRsQ0x2YktfWWljaEhQLTI1VXNpTUFzQ2ZqNEM4MXZfTzI4?oc=5)
+Source: [Gizmodo](https://news.google.com/rss/articles/CBMipgFBVV95cUxPZndEY0o2WFN0Zm9mWG9HcHR5cGN2c0JoZ0JRVmNoTWlmZ2NENWhMR3pBc3Q0MU1qQXU4RFY0aVNZbEw5eWh4cUpZa0wzRUNvWGwySXFGeGhQRHBKLUlBbjFjWGJmVnZYR2FKU3ZsN3hxU3dIVnJUTHdRVzdrbXpRT3lHY3EtR1ZNem1uLWQ4WmFGTkNMaDlLTjJGaTlNN1NLeVhnYlZ3?oc=5)
 
 ---
 
-### [Kennedy’s Vaccine Plan Could Cause Surge in Hepatitis B, Study Finds - The New York Times](https://news.google.com/rss/articles/CBMif0FVX3lxTE4tNXRtMTJKV3R0R05tck0tbkMxNWd1TmQ0cW0ydm1LeVdxUFFaTmNWWDNvd2xaNGV2Znc1dEF0RHdCRnRQUHlWVjhPMk1abUN5Q250ZHBnYzVIUzdNSlBCZmZTQlJ2dXd5SUFHU1VGQjFCVG5KM0k3d291dnprdHc?oc=5)
+### [4 Osteoporosis Symptoms a Doctor Monitors in Herself and the ‘Critical Window’ for Preventing Bone Loss](https://news.google.com/rss/articles/CBMiqAFBVV95cUxORWFOX1Fuc01CWDUxSG9zN2lZZUtHWHhhTEVqbl80QVplbFFlT1ZYSTdwLTNONFZfc1luYVV0TmRKcGpOMGFBYllORjZfZzdjNHBZNHY2S3lPWE5PT3lpSnJVSDdTRk1MaERTYjNrWnFNTjJOYWY4bm1ud0JEOWYwd21meU5nbVZVbVFBQkxaVDJYUk5TNWRIeGxpTklVRHE2djVhVy1XVzg?oc=5)
 
-2026-10-19 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-10-20 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
-Source: [The New York Times](https://news.google.com/rss/articles/CBMif0FVX3lxTE4tNXRtMTJKV3R0R05tck0tbkMxNWd1TmQ0cW0ydm1LeVdxUFFaTmNWWDNvd2xaNGV2Znc1dEF0RHdCRnRQUHlWVjhPMk1abUN5Q250ZHBnYzVIUzdNSlBCZmZTQlJ2dXd5SUFHU1VGQjFCVG5KM0k3d291dnprdHc?oc=5)
+Source: [TODAY.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxORWFOX1Fuc01CWDUxSG9zN2lZZUtHWHhhTEVqbl80QVplbFFlT1ZYSTdwLTNONFZfc1luYVV0TmRKcGpOMGFBYllORjZfZzdjNHBZNHY2S3lPWE5PT3lpSnJVSDdTRk1MaERTYjNrWnFNTjJOYWY4bm1ud0JEOWYwd21meU5nbVZVbVFBQkxaVDJYUk5TNWRIeGxpTklVRHE2djVhVy1XVzg?oc=5)
 
 ---
 

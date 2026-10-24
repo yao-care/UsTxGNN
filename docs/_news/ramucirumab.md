@@ -14,7 +14,7 @@ permalink: /news/ramucirumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Ramucirumab?">
-<strong>Ramucirumab</strong> currently has <strong>6 news articles</strong>, with 1 predicted indications.
+<strong>Ramucirumab</strong> currently has <strong>5 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,29 +32,29 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (5)
+
+### [Diagnostic test could help doctors refine prostate cancer treatment - Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxPWFdWSEFNQ0NENUt4V2xFUVY0SW5JTy14TGM4TGpfbVRiZHA0Ym54bEphc0FJaXp5OXZDNmNzWWFaQmdlTS1HT3lVSE5hSUd5cWpZSUF6OXpvM3k2dmxwdEZSYTdndkZzQ3h4SW44ZjVrYTlOOGt4OHBpQU5NVWVOYmdnTFFVcWdYTHRPZ3hB?oc=5)
+
+2026-10-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxPWFdWSEFNQ0NENUt4V2xFUVY0SW5JTy14TGM4TGpfbVRiZHA0Ym54bEphc0FJaXp5OXZDNmNzWWFaQmdlTS1HT3lVSE5hSUd5cWpZSUF6OXpvM3k2dmxwdEZSYTdndkZzQ3h4SW44ZjVrYTlOOGt4OHBpQU5NVWVOYmdnTFFVcWdYTHRPZ3hB?oc=5)
+
+---
+
+### [A precision T-cell therapy stalls treatment-resistant cancers in clinical trial - Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZjl0SUh0LXZGbmowenpiU00tc3dCWEVQOWJRdmxKZnpSZnQ2WEo4ZjNUVVpseVVqSkJMNnduajdibEJoRUFRMHdseUY0OVl1Y1p4eURIU1lRb3BjaVZfSldWOUNDZ09FZ2tFSFNTaEpYT1BBT2RXX0lXSU5UU05OR2dyU1dQbERoRlNR?oc=5)
+
+2026-10-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZjl0SUh0LXZGbmowenpiU00tc3dCWEVQOWJRdmxKZnpSZnQ2WEo4ZjNUVVpseVVqSkJMNnduajdibEJoRUFRMHdseUY0OVl1Y1p4eURIU1lRb3BjaVZfSldWOUNDZ09FZ2tFSFNTaEpYT1BBT2RXX0lXSU5UU05OR2dyU1dQbERoRlNR?oc=5)
+
+---
 
 ### [Beyond cigarettes: Uncovering the causes of lung cancer in nonsmokers - The Washington Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxNd1dJVFd0X0lOTldCT2ZGNk83ajctdE12dmdodndXLUVnNWlPd2RzQjBZRV9iVFQzZFdROGFsSW5wMGthTFBVdHdlT0FxT2d6d191aUxDSmxzby02RlFmUGFfb1FhQ0RBUW9ERmc0cGUyQjgzaV8zREV0UDluVVBuZDdnNzVGQkR6TG1IREZpNzdrUlBoRU9rSzZZMVY0UWtpTFh2TV9BSXI2aUhU?oc=5)
 
-2026-10-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-10-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
 
 Source: [The Washington Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxNd1dJVFd0X0lOTldCT2ZGNk83ajctdE12dmdodndXLUVnNWlPd2RzQjBZRV9iVFQzZFdROGFsSW5wMGthTFBVdHdlT0FxT2d6d191aUxDSmxzby02RlFmUGFfb1FhQ0RBUW9ERmc0cGUyQjgzaV8zREV0UDluVVBuZDdnNzVGQkR6TG1IREZpNzdrUlBoRU9rSzZZMVY0UWtpTFh2TV9BSXI2aUhU?oc=5)
-
----
-
-### [Prostate cancer test spots men most at risk of death - The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxPWXhPWVJjVk9pU19lX0xhVmpvQVdBQTR1RFNhb3VsOUl1VF9hb1dXWWo0OUVoLWhjdHpzTUloQXlCSzlMUVA1QkYtUkQwSHZqQUI3M0VjRTNlcTVqRDdaWG5EeXZ2eTdsTE5pSXVXaUlXQS1tM1BWcVF0R2VpcjJWaU1pTWxvbXdzamRTZXl3MVV5RmNTR2ZBXzZ3T1Mwdw?oc=5)
-
-2026-10-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxPWXhPWVJjVk9pU19lX0xhVmpvQVdBQTR1RFNhb3VsOUl1VF9hb1dXWWo0OUVoLWhjdHpzTUloQXlCSzlMUVA1QkYtUkQwSHZqQUI3M0VjRTNlcTVqRDdaWG5EeXZ2eTdsTE5pSXVXaUlXQS1tM1BWcVF0R2VpcjJWaU1pTWxvbXdzamRTZXl3MVV5RmNTR2ZBXzZ3T1Mwdw?oc=5)
-
----
-
-### [NHS doctors to use AI to diagnose prostate cancer - The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxPR185OS1ZMW9mak9XeXZXSWxOWFh6RHJpQ0QyeWpCVmwtX3dUSXlZQ09HQ3Azcy1xa1ltM0tHWi1GYlNjMGljVG5ON19yMHRnMkh2Slh5aWhhTGpFbXFRUlJKckdrSjBQMWgwUHNtUjRpY0FiYlVmeDV0TEItNHg5LWJPSVhkOVhBdXdXM21jYV81TUhVYkNjeV9aa2hmczIzOHQw?oc=5)
-
-2026-10-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMiowFBVV95cUxPR185OS1ZMW9mak9XeXZXSWxOWFh6RHJpQ0QyeWpCVmwtX3dUSXlZQ09HQ3Azcy1xa1ltM0tHWi1GYlNjMGljVG5ON19yMHRnMkh2Slh5aWhhTGpFbXFRUlJKckdrSjBQMWgwUHNtUjRpY0FiYlVmeDV0TEItNHg5LWJPSVhkOVhBdXdXM21jYV81TUhVYkNjeV9aa2hmczIzOHQw?oc=5)
 
 ---
 
@@ -71,14 +71,6 @@ Source: [Newser](https://news.google.com/rss/articles/CBMipwFBVV95cUxOWjVxQUYzcT
 2026-10-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
 Source: [South China Morning Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxOZnRoaEEyeE9xTHp2dG1ROG55c1J4aElELUVhcjJEdDhZOE5KaEw0dXNLVEZfbkVNQjdWaENOSHV1OVdZZ2NPTmdscG5Pa3UwMzNIbVN1SHFEX2hxVG9zSGZOZVlzZjMyTUZIY29ibnlUMkE3S1VYTk9KUjg4YTQ1Qmp4S0lTRjRNak54ZHY2MkRONXc1cTVsTFlqNFNFOFExSHBjWkUtQlExS0dE0gGsAUFVX3lxTFAxNy1mTVEyeU5DMTEtS2Q0cldEZ3lKRXNDU3o4Sktxc1JkTUZteVFNcm9UR3BncV81QXFWNHI1dkR2V1UxUnhwNG00NmNGazR6d0FqRDdmcmt4X1VyMXlkR3dxYTFLc1Fxb1FXQVJJclIzdlFUbXlRX3JJQzdpMVF1eEpRcHUwWTZYTGlyX1pxMnhiaDlGY0kxUWVrX19zaGpEV05ZOVlwMXJ3bGc?oc=5)
-
----
-
-### [She survived breast cancer at 42 and brought 2 million followers along. Now her mother is facing the same diagnosis.](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVkFHNDZ1NnhGSDZUa1BURmlpckZCZjhoeDkzZlNDZndVVjMyR2E5OWZEYzN0R1pOWE1OR3VIZGpNeWpudGpUWDFCWFhVaWMzYS1jQXBLUjdVTzhpNjZ2OG1IbENJSVV5eGJEWWc3S2MwYnFGSm1PMndwdDFwQnRKUVduUXFhZW1JRXVyeUFjeDUyQnhxMmlTUTNSMUc1bzJseV9MZTJROXE1dnZJM3FELUtWeHAyVlZUOHlRcEt4Qm1GaWhRUTZJbzAxeWVfb0x0a0ZSNEgyN3A0NUttUDZ4VHFIcFBXTjI4T3l6QUNLc2l3ODJVUXRtdkhjcVQxUQ?oc=5)
-
-2026-10-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span>
-
-Source: [Yahoo](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVkFHNDZ1NnhGSDZUa1BURmlpckZCZjhoeDkzZlNDZndVVjMyR2E5OWZEYzN0R1pOWE1OR3VIZGpNeWpudGpUWDFCWFhVaWMzYS1jQXBLUjdVTzhpNjZ2OG1IbENJSVV5eGJEWWc3S2MwYnFGSm1PMndwdDFwQnRKUVduUXFhZW1JRXVyeUFjeDUyQnhxMmlTUTNSMUc1bzJseV9MZTJROXE1dnZJM3FELUtWeHAyVlZUOHlRcEt4Qm1GaWhRUTZJbzAxeWVfb0x0a0ZSNEgyN3A0NUttUDZ4VHFIcFBXTjI4T3l6QUNLc2l3ODJVUXRtdkhjcVQxUQ?oc=5)
 
 ---
 

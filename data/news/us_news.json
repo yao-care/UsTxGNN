@@ -1,10 +1,58 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-10-24T10:31:33.595331+00:00",
-  "total_fetched": 133,
-  "unique_count": 133,
-  "health_related_count": 60,
+  "fetched_at": "2026-10-24T15:35:12.942065+00:00",
+  "total_fetched": 135,
+  "unique_count": 135,
+  "health_related_count": 55,
   "news": [
+    {
+      "id": "583c3ce5f18d",
+      "title": "The most important things to do to stay healthy while traveling - The Washington Post",
+      "published": "2026-10-24T15:02:44+00:00",
+      "summary": "The most important things to do to stay healthy while traveling&nbsp;&nbsp;The Washington Post",
+      "sources": [
+        {
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaFlOaXdyeXJEOVRZc081ZGJrLWpjV0c1dUpRdk0tTHU5MXZzdFhxaUYyVVl4UG5DQzdfSGRwWl83NEFPU1Zzb2xWX24xdW1EZ3paUzQ5LXphdk1kQVhybmd2MWs3a1ZKMG5pYWw3ZXhaQl9NUFVBaVk0RHBFalAwWVZJLXRjU3ZNSV9POE1zUVc2dnBpc1JrUGpXZGxNVEM5ZzhNNGhR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "43749b22d6e6",
+      "title": "Measles is a reckoning for RFK Jr. and MAHA - Salon.com",
+      "published": "2026-10-24T13:00:28+00:00",
+      "summary": "Measles is a reckoning for RFK Jr. and MAHA&nbsp;&nbsp;Salon.comCOLUMN: Disease and death for a political cause&nbsp;&nbsp;pmg-ky2.comViewpoint: ‘Statistical murder’: Kennedy’s expanding record of “duplicity and mendacity”&nbsp;&nbsp;Genetic Literacy ProjectHeadlines RFK Jr Would Rather Voters Not See On Rising Toll Of Anti-Vax Agenda&nbsp;&nbsp;Protect Our Care",
+      "sources": [
+        {
+          "name": "Salon.com",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRVdhVVRPN1hEd3BIR041dTc1N0dIVEptMkRuQ3E5ZzNTemhjQ0EyQUYzS2FKWjNGb0NQSTRHcWJSZjFmLWdUTXVrOU5YUm9XV0V3Ym1zZ3c5OERuOXJrUFZOTmdKa2Y2Q0R1aVJzd3BFSzdRZlBBRzZnRmNla1Y0M25R?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ed10cfce4706",
+      "title": "Additional 178 cases of measles reported by US health authorities amid outbreak - The Guardian",
+      "published": "2026-10-24T12:02:00+00:00",
+      "summary": "Additional 178 cases of measles reported by US health authorities amid outbreak&nbsp;&nbsp;The GuardianWhy a measles outbreak in Pennsylvania poses risks beyond US borders&nbsp;&nbsp;Al JazeeraUS CDC says measles cases rise to 4,588 as outbreak continues&nbsp;&nbsp;ReutersUS measles cases hit 4,588, more than twice last year’s total&nbsp;&nbsp;CIDRAPWashington County records 1st confirmed measles case&nbsp;&nbsp;TribLIVE.com",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BX2FfNHd6TlpjcmFhZXVRR00tcEhVTTgxZEtEVFRLWHItS0VCVVI4NjN3Sk5zd3ZLUlpqRWxsakZkd2RCTElxOGZKLWg5aTB3emw3X1ozV1JrTWdjN29nZkR3cnEyQ25oUkFhaGh3NjJacGxOUThuQWphcnltZkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d9cf8ce96d81",
+      "title": "He thought it was gout. Doctors said he needed hospice. A clinical trial saved his life. - CBS News",
+      "published": "2026-10-24T12:00:20+00:00",
+      "summary": "He thought it was gout. Doctors said he needed hospice. A clinical trial saved his life.&nbsp;&nbsp;CBS News",
+      "sources": [
+        {
+          "name": "CBS News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOWRzZHlScU5ZOHBZYnllenBLUUZnVF9NejlTcVVKbHBTV3o1VDhvTUpKR3J2MExxUDdIbW5BcnFnRWZ1UzBXajdHZldabzU4TjlKbUVXMlgzTGQ0N3l5U2JHV1Q3YUllbVR1NVlQVGl0a1JkclN4V1M2YW1LTGNCdlFrWkxWakl0NFJKb3RFS2pPaXVOMTJLVk1tSy1pYS1idnM0?oc=5"
+        }
+      ]
+    },
     {
       "id": "49ea62624247",
       "title": "Second raccoon tests positive for rabies in Los Angeles County, health officials say - KTLA",
@@ -18,10 +66,22 @@
       ]
     },
     {
+      "id": "dbe0eff09af3",
+      "title": "Body clock link? New type of depression could affect millions - NewsNation",
+      "published": "2026-10-24T01:03:23+00:00",
+      "summary": "Body clock link? New type of depression could affect millions&nbsp;&nbsp;NewsNationResearchers identify new “circadian” subtype of depression&nbsp;&nbsp;The University of SydneySleep Habits May Indicate a Type of Depression, Researchers Say&nbsp;&nbsp;The New York TimesAustralian researchers identify new subtype of depression linked to body clock disruptions&nbsp;&nbsp;The GuardianScientists Have Identified a New Type of Depression Linked to a Surprisingly Common Trigger&nbsp;&nbsp;Prevention",
+      "sources": [
+        {
+          "name": "NewsNation",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5UYlpEYW54QXVqa3BObGwzX0RRVGNJZDZJelJ5b3lUUnYyNXRiWkFNbmphLVcyMmJXeDJuR0xHTTU0QUVwSi1jVGJrS3pubm9Hc0k5OUNKTGtZN09sbDRaOGZyN2FOX0pOcHhWdzdwck9kV292Vm9J0gF8QVVfeXFMUHhnZ0hUMlM1ZTB1dk1Fc2NaMnRpWi1DMUQ0eVRxS09HdHFzdEZlTVcybU1oRHVuQTBZdC13YURWanFOdnF6WmJpeDlCRXpFRVZWVVpMTEVUUnRJZVNiN2p4UHFPTTV6ZVFwb0hIcTgwckYtbVdqb3RGbjZkdA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5721e3083fda",
       "title": "WHO announces start of Ebola vaccine clinical trial in DR Congo - Al Jazeera",
       "published": "2026-10-24T00:42:46+00:00",
-      "summary": "WHO announces start of Ebola vaccine clinical trial in DR Congo&nbsp;&nbsp;Al JazeeraAfrica at risk of continent-wide Ebola crisis, health chief warns&nbsp;&nbsp;SemaforFirst participant vaccinated in pivotal Phase 2/3 Bundibugyo vaccine trial in DRC&nbsp;&nbsp;CEPIHope for efficacious vaccines for Bundibugyo virus&nbsp;&nbsp;The LancetAMA and EMA issue joint guidance on Ebola vaccine development&nbsp;&nbsp;European Medicines Agency (EMA)",
+      "summary": "WHO announces start of Ebola vaccine clinical trial in DR Congo&nbsp;&nbsp;Al JazeeraAfrica at risk of continent-wide Ebola crisis, health chief warns&nbsp;&nbsp;SemaforFirst participant vaccinated in pivotal Phase 2/3 Bundibugyo vaccine trial in DRC&nbsp;&nbsp;CEPINew Tumaini Ebola vaccine trial launches in Bunia as DRC struggles&nbsp;&nbsp;AfricanewsAMA and EMA issue joint guidance on Ebola vaccine development&nbsp;&nbsp;European Medicines Agency (EMA)",
       "sources": [
         {
           "name": "Al Jazeera",
@@ -30,14 +90,26 @@
       ]
     },
     {
-      "id": "386a89edb2b3",
-      "title": "Physically Touching Your Dog Can Help Protect You From Upcoming Stress, Study Suggests - ScienceAlert",
-      "published": "2026-10-24T00:04:53+00:00",
-      "summary": "Physically Touching Your Dog Can Help Protect You From Upcoming Stress, Study Suggests&nbsp;&nbsp;ScienceAlertPetting Your Dog Had An Unexpected Effect On The Body's Stress Response&nbsp;&nbsp;YahooPetting your dog may help your body handle the next stressful situation better&nbsp;&nbsp;Medical XpressWhy Petting Your Dog After a Stressful Experience Could Help You Later&nbsp;&nbsp;VICENew study suggests touch is a key ingredient in dogs’ stress-buffering power&nbsp;&nbsp;PsyPost",
+      "id": "ba58bc061ca8",
+      "title": "Diagnostic test could help doctors refine prostate cancer treatment - Medical Xpress",
+      "published": "2026-10-24T00:40:01+00:00",
+      "summary": "Diagnostic test could help doctors refine prostate cancer treatment&nbsp;&nbsp;Medical XpressProstate cancer test spots men most at risk of death&nbsp;&nbsp;The TelegraphResearchers will present first evidence that a prostate test predicts who benefits from an added drug.&nbsp;&nbsp;Stock TitanGenomic Test Predicts Which Prostate Cancer Patients Benefit From Abiraterone Therapy&nbsp;&nbsp;Clinical Lab ProductsDecipher test predicts which high-risk prostate cancer patients benefit from adding abi",
       "sources": [
         {
-          "name": "ScienceAlert",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa2traGJsNlgzck80a2hTRl9HbENVUldFUHVMQkE4ZlBkb1A4QkRBX3l6dG4yd3JibVl6Tm1aT1pqall2eDdHMzk3RkFYcnJsTFQ5U0dKYU1wSnoyNUxjejRRWlZ1Z1d3THQ2U2x1ZGg5cFp0cmJfRFVNVDZXVmRvNlVBTWw2UWo2ek4zZUVsZTF4OTRxWVN6bTJoZkIwZ0J2Rm0xbVUwM093VWJqTWNELTh5MGw?oc=5"
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWFdWSEFNQ0NENUt4V2xFUVY0SW5JTy14TGM4TGpfbVRiZHA0Ym54bEphc0FJaXp5OXZDNmNzWWFaQmdlTS1HT3lVSE5hSUd5cWpZSUF6OXpvM3k2dmxwdEZSYTdndkZzQ3h4SW44ZjVrYTlOOGt4OHBpQU5NVWVOYmdnTFFVcWdYTHRPZ3hB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "26cf3c795f5d",
+      "title": "Geisinger facilities in Danville are warning patients of a potential measles outbreak - WNEP",
+      "published": "2026-10-23T21:57:00+00:00",
+      "summary": "Geisinger facilities in Danville are warning patients of a potential measles outbreak&nbsp;&nbsp;WNEPMeadville Medical Center Issues Measles Exposure Alert&nbsp;&nbsp;Erie News NowUPDATE Geisinger reports possible measles exposure in Danville&nbsp;&nbsp;The Daily ItemPublic health alert: Potential measles exposure in Danville&nbsp;&nbsp;28/22 NewsGeisinger Warns Of Possible Measles Exposure In Danville |&nbsp;&nbsp;WKOK.com",
+      "sources": [
+        {
+          "name": "WNEP",
+          "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOTkFhcXZRT2JTX0UwdF9XQXE5QllVRkc5Q1JPa1dFQ3N2QmFoYzhwZWFpUVcweVU3bk9IYXRqTlJGVERBWnJoc3Q3akswbTdrOXQtTjlpSEVhT2ItMEJJM3A4TXpQODhTWWJ2YjI2S2pnX21qclMxQkt6UDVKZU1wbHR0M0NaTVZUNU5LZjFBZXpJdDBfbkNERk02aXdMRm1mVnVnY28wTzhQZzc0b28zekJOaDkzWThZampvSXFpeTVrak0tTm9PVm9Nd0pMM1F3dlByLVIwY1VNV0ZDUWNmYzZwUDYzUTRnZjBCOUFzWlVOZ0pTV211SUpjNnozejhEZlhJeWdpenFROEhlTTl5cXB3?oc=5"
         }
       ]
     },
@@ -45,35 +117,11 @@
       "id": "4b623efeb73a",
       "title": "Flu hospitalization rate at highest level for this time of year since 2010 season, but still relatively low - ABC News - Breaking News, Latest News and Videos",
       "published": "2026-10-23T21:24:37+00:00",
-      "summary": "Flu hospitalization rate at highest level for this time of year since 2010 season, but still relatively low&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
+      "summary": "Flu hospitalization rate at highest level for this time of year since 2010 season, but still relatively low&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosFlu Activity Climbs: What New CDC Numbers Show, States Getting Hit Hardest&nbsp;&nbsp;DailyVoice.com",
       "sources": [
         {
           "name": "ABC News - Breaking News, Latest News and Videos",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbFNpNzNreUQwWFN6N1ptMVZkbndiWmVTa0FZVVZuZEdpOGRaYkMzU3ZPR1IzQzNnT1dwUmdqMGhHN2hqcHAzSnBvVnBlVUtSYkRRRnd5ODhWSU9nSWZyMUJlRUhBNDNRQ3BmdTFhVTZSc0J0SF9HbmMzcDJzb3NuZ2dwNVFDcTZ6MExmZVZ2R0VOaFo1TjRTSS1OdG1kRkFi0gGmAUFVX3lxTFBRMkZsSTJZb2RmbGJuR3VoWHJacTBybXNUWkhLWlRMNjl0VWtxMFctZnR0QTRGYkg5T1NfX3RKTnJJWVNZUkQxa3VxRy0yVVdwMjBXZ0NTNmlQRGlrQjdUcmdjYjduRlhKbjN6TElqX1k4Y3hMaWVmTVoyRlVTNU0yc09tcG5DNVE0dXY4NENPWl80clc2SzdNR25qTkJfa0JNZ2NtbUE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a91964146bfd",
-      "title": "Forget bad periods — the lesser-known symptoms of endometriosis, plus major clinical red flags - New York Post",
-      "published": "2026-10-23T21:05:00+00:00",
-      "summary": "Forget bad periods — the lesser-known symptoms of endometriosis, plus major clinical red flags&nbsp;&nbsp;New York Post",
-      "sources": [
-        {
-          "name": "New York Post",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOODVra2dzcUFxMnRTMGd2SjhTcHgtNHE4dW1hLW1MU1UzQ2czR0Rra2tRdTRjZ1d2NVNrZlQzNk9CMENPRXRwbXdzTndCSFZwWHM1VGhZcUpSLVBXaEo1VU1feGlGcm40MC1jY3RqaDBSN1l0TlJsaXBkRlBzWFlFX0xoWmhYTGd1SVRlQnIxbWFtNHM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3fc34c0bc660",
-      "title": "GLP-1 Side Effects vs. Benefits: Real Patient Experiences - Healthline",
-      "published": "2026-10-23T21:02:59+00:00",
-      "summary": "GLP-1 Side Effects vs. Benefits: Real Patient Experiences&nbsp;&nbsp;HealthlineWe asked people taking GLP-1s what happened when their expectations met reality&nbsp;&nbsp;YahooWeight-Loss Drugs and Bone: Review Finds Evidence Too Thin to Judge&nbsp;&nbsp;Bioengineer.orgGLP-1 Forecasts, Two Years Later: Lessons for the Medtech Supply Chain&nbsp;&nbsp;Medical Product OutsourcingThe GLP-1 conversation is missing muscle and bone&nbsp;&nbsp;Lake Okeechobee News",
-      "sources": [
-        {
-          "name": "Healthline",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUGVod1dYbGRUSHN3LVQ2N0FXUDZnWmxsbDB5cklsYjVVVWk4UDVwdG5XajJqZmZQcTJPMlQxeExzMURxOHJNNTY3OUU4dVJuOXcxMy1rdVVqSHRPSVZpZFM4Q2tjZHhXSWVSaEFiU2Fhb1RyVlRhM01CblYxd2o1bFBMMjVSM0tKc01JenlCcU1lOVVlR0k4MEd3?oc=5"
         }
       ]
     },
@@ -90,10 +138,22 @@
       ]
     },
     {
+      "id": "f65f7db68a1c",
+      "title": "A precision T-cell therapy stalls treatment-resistant cancers in clinical trial - Medical Xpress",
+      "published": "2026-10-23T19:00:11+00:00",
+      "summary": "A precision T-cell therapy stalls treatment-resistant cancers in clinical trial&nbsp;&nbsp;Medical XpressBispecific dual T cell agonist invikafusp alfa in solid tumors: the phase 1/2 START-001 trial&nbsp;&nbsp;NatureMarengo Therapeutics Presents Phase 2 STARt-001 Results at ESMO 2026 Demonstrating Tissue-Agnostic Single-Agent Activity of Invikafusp Alfa in TMB-H Solid Tumors Mostly Unresponsive to Immune Checkpoint Blockade&nbsp;&nbsp;AOL.comNovel cancer immunotherapy drug generates promising cl",
+      "sources": [
+        {
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZjl0SUh0LXZGbmowenpiU00tc3dCWEVQOWJRdmxKZnpSZnQ2WEo4ZjNUVVpseVVqSkJMNnduajdibEJoRUFRMHdseUY0OVl1Y1p4eURIU1lRb3BjaVZfSldWOUNDZ09FZ2tFSFNTaEpYT1BBT2RXX0lXSU5UU05OR2dyU1dQbERoRlNR?oc=5"
+        }
+      ]
+    },
+    {
       "id": "5b2bcc2f43a4",
       "title": "First person infected with rare Shamonda virus: what we know - Nature",
       "published": "2026-10-23T18:10:05+00:00",
-      "summary": "First person infected with rare Shamonda virus: what we know&nbsp;&nbsp;NatureWhat is Shamonda, the livestock virus found for the first time in a person in France?&nbsp;&nbsp;CNNFirst Human Shamonda Virus Infection—What Happens When Animal Diseases Spread To People?&nbsp;&nbsp;ForbesFrance reports 1st known human case of Shamonda virus&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosExplainer: What is Shamonda virus and what are the risks to humans and animals?&nbsp;&nbsp;Reuters",
+      "summary": "First person infected with rare Shamonda virus: what we know&nbsp;&nbsp;NatureExplainer: What is Shamonda virus and what are the risks to humans and animals?&nbsp;&nbsp;ReutersFrance reports first human case of livestock virus Shamonda after patient dies&nbsp;&nbsp;CNNFirst Human Shamonda Virus Infection—What Happens When Animal Diseases Spread To People?&nbsp;&nbsp;ForbesShamonda virus detected in human for first time in France&nbsp;&nbsp;The Guardian",
       "sources": [
         {
           "name": "Nature",
@@ -105,7 +165,7 @@
       "id": "03558b2b55a5",
       "title": "Tiny Genetic Tweak From An Ancient Virus Might've Prevented Chimpanzees From Developing Brains Like Ours - ScienceAlert",
       "published": "2026-10-23T18:04:29+00:00",
-      "summary": "Tiny Genetic Tweak From An Ancient Virus Might've Prevented Chimpanzees From Developing Brains Like Ours&nbsp;&nbsp;ScienceAlertAn ancient virus in chimpanzee DNA switches off a gene that is active in humans&nbsp;&nbsp;Phys.orgWhy did humans’ brains surpass chimps’? A tiny foe might help explain it&nbsp;&nbsp;Science NewsThe Human Brain Owes Its Existence to a Prehistoric Pandemic&nbsp;&nbsp;Psychology TodayAncient Virus Silences Chimp Brain Gene&nbsp;&nbsp;Scientific Frontline",
+      "summary": "Tiny Genetic Tweak From An Ancient Virus Might've Prevented Chimpanzees From Developing Brains Like Ours&nbsp;&nbsp;ScienceAlertAn ancient virus in chimpanzee DNA switches off a gene that is active in humans&nbsp;&nbsp;Phys.orgWhy did humans’ brains surpass chimps’? A tiny foe might help explain it&nbsp;&nbsp;Science NewsThe Human Brain Owes Its Existence to a Prehistoric Pandemic&nbsp;&nbsp;Psychology TodayAncient viral DNA offers clues to why human and chimpanzee brains evolved differently&nbs",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -126,14 +186,14 @@
       ]
     },
     {
-      "id": "3b90e3ce7458",
-      "title": "US CDC says measles cases rise to 4,588 as outbreak continues - Reuters",
-      "published": "2026-10-23T17:28:49+00:00",
-      "summary": "US CDC says measles cases rise to 4,588 as outbreak continues&nbsp;&nbsp;ReutersWhy a measles outbreak in Pennsylvania poses risks beyond US borders&nbsp;&nbsp;Al JazeeraExperts alarmed by ‘less transparent’ CDC as US measles deaths rise&nbsp;&nbsp;The GuardianUS measles cases hit 4,588, more than twice last year’s total&nbsp;&nbsp;CIDRAPMeasles is thought of as a childhood illness, but more Pa. adults are getting sick&nbsp;&nbsp;Inquirer.com",
+      "id": "7a311e893c5d",
+      "title": "Minutes Instead of Months: Breakthrough Technique Flushes Alzheimer’s Plaque From the Brain - Yahoo Health",
+      "published": "2026-10-23T17:27:03+00:00",
+      "summary": "Minutes Instead of Months: Breakthrough Technique Flushes Alzheimer’s Plaque From the Brain&nbsp;&nbsp;Yahoo Health",
       "sources": [
         {
-          "name": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObmllVVNoU2J5OHFVeWNyMWZUcmhEVWFwNzlKTDM2OFBpSkNJZ1N4ZmZ4aUV2QjEtdXpoRTB5cTVydmtuV0xGTGlwYmVaU21TalRLWElfdS1FVVQ3NlM2VGVRUGZ0dFVQS0JLaURtMFYyTDUwYk4zU29SM1VYeTZnWkk5NEZ4emV0VjgtSlIySlFOVjlYUFpVU2NNZlV2VzBqd0R4bTFuUFIzVEE?oc=5"
+          "name": "Yahoo Health",
+          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMmt5QmVFc3d2Z1RWYmhMRk8wRnBWQk55U2pIb1lWWGpyZW5QSFlPNlduUnRZU3B1ZS1EbENyY2l3NkRXTG5Lc2dUQlpkZkFPUmE4aDM5eE5rNU41VkEyMTJYNndpdHV4SjMyQjUxemZOblZMTnQ0N2VLSEtKX0lOVVczSWdGNGxYbnFlVy1Yd3NJNWNZeExlQ0hxa0VwMGEwVDZqWjdIX19MNGQzMGQ0bmdLNkZnZzZ1SlVZSmttcHAzb2RoOVNseW1JWDd0Uld4VmR3?oc=5"
         }
       ]
     },
@@ -153,7 +213,7 @@
       "id": "422b364ad5bb",
       "title": "Beyond cigarettes: Uncovering the causes of lung cancer in nonsmokers - The Washington Post",
       "published": "2026-10-23T16:59:22+00:00",
-      "summary": "Beyond cigarettes: Uncovering the causes of lung cancer in nonsmokers&nbsp;&nbsp;The Washington PostThe top​ 5 cause​s of lung cancer in non-smokers​ - and how to limit your risk&nbsp;&nbsp;The Independent‘Lung cancer can happen to anyone’: San Antonio nonsmoker raises awareness after diagnosis&nbsp;&nbsp;KSATReducing Stigma and Nihilism Around Lung Cancer Screening and Diagnosis&nbsp;&nbsp;CancerNetworkPersistent cough leads to healthy woman’s lung cancer diagnosis&nbsp;&nbsp;multicare.org",
+      "summary": "Beyond cigarettes: Uncovering the causes of lung cancer in nonsmokers&nbsp;&nbsp;The Washington Post‘Lung cancer can happen to anyone’: San Antonio nonsmoker raises awareness after diagnosis&nbsp;&nbsp;KSATThe top​ 5 cause​s of lung cancer in non-smokers​ - and how to limit your risk&nbsp;&nbsp;The IndependentJill Feldman: After 25 Years of Awareness, Are We Changing Minds About Lung Cancer?&nbsp;&nbsp;OncodailyUp to One in Five American Lung Cancer Patients Never Smoked, and Current Screening R",
       "sources": [
         {
           "name": "The Washington Post",
@@ -213,7 +273,7 @@
       "id": "7ce0a795506a",
       "title": "The U.S.-Funded Plan To Kill Infants In Africa By Withholding Vaccines Has Been Thwarted - Defector",
       "published": "2026-10-23T14:46:00+00:00",
-      "summary": "The U.S.-Funded Plan To Kill Infants In Africa By Withholding Vaccines Has Been Thwarted&nbsp;&nbsp;DefectorControversial US-backed vaccine trial in African newborns halted&nbsp;&nbsp;The GuardianA Controversial Hepatitis B Vaccine Study Championed by RFK Jr. Is Axed After Widespread Backlash&nbsp;&nbsp;Rolling StoneCops raid office of RFK Jr. allies planning “unethical” vaccine trial on babies&nbsp;&nbsp;Ars TechnicaOPINION | RFK Jr.’s push for anti-vaccine experiment on African babies was neve",
+      "summary": "The U.S.-Funded Plan To Kill Infants In Africa By Withholding Vaccines Has Been Thwarted&nbsp;&nbsp;DefectorControversial US-backed vaccine trial in African newborns halted&nbsp;&nbsp;The GuardianA Controversial Hepatitis B Vaccine Study Championed by RFK Jr. Is Axed After Widespread Backlash&nbsp;&nbsp;Rolling StoneUS-backed vaccine trial on babies canceled after international outcry&nbsp;&nbsp;Ars TechnicaOPINION | RFK Jr.’s push for anti-vaccine experiment on African babies was never a good i",
       "sources": [
         {
           "name": "Defector",
@@ -225,7 +285,7 @@
       "id": "092dee0d19fa",
       "title": "How you prepare a cup of tea can have drastic impacts on your heart health - New York Post",
       "published": "2026-10-23T14:43:00+00:00",
-      "summary": "How you prepare a cup of tea can have drastic impacts on your heart health&nbsp;&nbsp;New York PostHow you drink your tea could determine whether you gain or lose heart health benefits&nbsp;&nbsp;CNNCan drinking tea help protect against cardiovascular disease?&nbsp;&nbsp;Medical XpressRegular tea drinking linked to lower risk of stroke and heart disease&nbsp;&nbsp;Euronews.comStudy links regular tea drinking to 11% lower vascular disease risk&nbsp;&nbsp;NewsNation",
+      "summary": "How you prepare a cup of tea can have drastic impacts on your heart health&nbsp;&nbsp;New York PostHow you drink your tea could determine whether you gain or lose heart health benefits&nbsp;&nbsp;CNNStudy links regular tea drinking to 11% lower vascular disease risk&nbsp;&nbsp;FOX8 WGHPCan drinking tea help protect against cardiovascular disease?&nbsp;&nbsp;Medical XpressRegular tea drinking linked to lower risk of stroke and heart disease&nbsp;&nbsp;Euronews.com",
       "sources": [
         {
           "name": "New York Post",
@@ -246,10 +306,10 @@
       ]
     },
     {
-      "id": "78f73cdce37b",
-      "title": "Study finds lower rates of overweight among vegan-fed cats - Phys.org",
+      "id": "4bf82e31e8fa",
+      "title": "Vegan-fed cats less often reported overweight in survey - Phys.org",
       "published": "2026-10-23T12:30:02+00:00",
-      "summary": "Study finds lower rates of overweight among vegan-fed cats&nbsp;&nbsp;Phys.orgNew research suggests vegan-fed cats may be less overweight&nbsp;&nbsp;The Des Moines RegisterVegan Cats Had 34% Lower Odds Of Being Overweight, Study Finds&nbsp;&nbsp;StudyFinds",
+      "summary": "Vegan-fed cats less often reported overweight in survey&nbsp;&nbsp;Phys.orgNew research suggests vegan-fed cats may be less overweight&nbsp;&nbsp;The Des Moines RegisterStudy Finds Lower Rates of Overweight Among Vegan-Fed Cats&nbsp;&nbsp;IndyStarVegan Cats Had 34% Lower Odds Of Being Overweight, Study Finds&nbsp;&nbsp;StudyFinds",
       "sources": [
         {
           "name": "Phys.org",
@@ -270,18 +330,6 @@
       ]
     },
     {
-      "id": "704544544010",
-      "title": "Sleep Habits May Indicate a Type of Depression, Researchers Say - The New York Times",
-      "published": "2026-10-23T09:03:06+00:00",
-      "summary": "Sleep Habits May Indicate a Type of Depression, Researchers Say&nbsp;&nbsp;The New York TimesResearchers identify new “circadian” subtype of depression&nbsp;&nbsp;The University of SydneyAustralian researchers identify new subtype of depression linked to body clock disruptions&nbsp;&nbsp;The GuardianNewly identified ‘circadian depression’ responds poorly to antidepressants&nbsp;&nbsp;New ScientistScientists Have Identified a New Type of Depression Linked to a Surprisingly Common Trigger&nbsp;&nb",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTjlLdjRuaGd6c1VWZ0U3ZHE4WC11VzFRZmVuTTM0TV95ZDZrOW9HSlFvR19aSmJPRWoxcTcwZVBSUFJMVkt3R3F0Vl90MnVNdG5zaU5COEFSY0RDN3VJaC1sQUxJXzBSV3RPMmZXeHJFbUJzWjVRcFFpY1FwazBfT0dQTGI?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8ed6203262b9",
       "title": "Overdose deaths have plunged. We need to know why - STAT",
       "published": "2026-10-23T08:34:12+00:00",
@@ -290,18 +338,6 @@
         {
           "name": "STAT",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR0lVTG5XZEFkSDEzV0lWSld1SERQUUd0UWVEenh6R2ZkSUo2RmNWOWVSRGVIZElaRXlyaXpGbHo0dXotTG5icU1FcnM4MERXNWdualNLenNDMGNvZzJ2RFRwbVU5ZnFXZGJhMFZHSEdnc1hkSjFkRHB3OTdzM1BxV1laeThVNXRKcllfbGhtSW5EV3VSMmNGVktYTlhLMlZrVkRqcGln?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bf67663365e6",
-      "title": "Prostate cancer test spots men most at risk of death - The Telegraph",
-      "published": "2026-10-23T08:11:00+00:00",
-      "summary": "Prostate cancer test spots men most at risk of death&nbsp;&nbsp;The TelegraphDiagnostic test could help doctors refine prostate cancer treatment&nbsp;&nbsp;Medical XpressResearchers will present first evidence that a prostate test predicts who benefits from an added drug.&nbsp;&nbsp;Stock TitanGenomic Test Predicts Which Prostate Cancer Patients Benefit From Abiraterone Therapy&nbsp;&nbsp;Clinical Lab ProductsDecipher test predicts which high-risk prostate cancer patients benefit from adding abi",
-      "sources": [
-        {
-          "name": "The Telegraph",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWXhPWVJjVk9pU19lX0xhVmpvQVdBQTR1RFNhb3VsOUl1VF9hb1dXWWo0OUVoLWhjdHpzTUloQXlCSzlMUVA1QkYtUkQwSHZqQUI3M0VjRTNlcTVqRDdaWG5EeXZ2eTdsTE5pSXVXaUlXQS1tM1BWcVF0R2VpcjJWaU1pTWxvbXdzamRTZXl3MVV5RmNTR2ZBXzZ3T1Mwdw?oc=5"
         }
       ]
     },
@@ -318,22 +354,10 @@
       ]
     },
     {
-      "id": "c35197c3011c",
-      "title": "NHS doctors to use AI to diagnose prostate cancer - The Telegraph",
-      "published": "2026-10-23T06:00:00+00:00",
-      "summary": "NHS doctors to use AI to diagnose prostate cancer&nbsp;&nbsp;The TelegraphAI to give doctors ‘second pair of eyes’ to help spot prostate cancer on MRI scans&nbsp;&nbsp;Yahoo News SingaporeNICE Backs Interim NHS Use of AI for Prostate MRI Review&nbsp;&nbsp;MedscapeFive AI tools approved for identifying prostate cancer on MRI scans&nbsp;&nbsp;Pulse TodayCan MRI-Based AI Have an Impact in Reducing Unnecessary Prostate Biopsies?&nbsp;&nbsp;Diagnostic Imaging",
-      "sources": [
-        {
-          "name": "The Telegraph",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR185OS1ZMW9mak9XeXZXSWxOWFh6RHJpQ0QyeWpCVmwtX3dUSXlZQ09HQ3Azcy1xa1ltM0tHWi1GYlNjMGljVG5ON19yMHRnMkh2Slh5aWhhTGpFbXFRUlJKckdrSjBQMWgwUHNtUjRpY0FiYlVmeDV0TEItNHg5LWJPSVhkOVhBdXdXM21jYV81TUhVYkNjeV9aa2hmczIzOHQw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "45212a10465c",
       "title": "California startup says it has injected AI-designed virus into humans for first time - The Independent",
       "published": "2026-10-23T05:42:00+00:00",
-      "summary": "California startup says it has injected AI-designed virus into humans for first time&nbsp;&nbsp;The IndependentStart-Up Claims to Use A.I.-Created Viruses to Treat a Patient&nbsp;&nbsp;The New York TimesHuman receives AI-designed virus for the first time&nbsp;&nbsp;The RegisterAI-designed virus infects person for the first time&nbsp;&nbsp;YahooEnlisting AI in the fight against drug-resistant bacteria&nbsp;&nbsp;Universities of Wisconsin",
+      "summary": "California startup says it has injected AI-designed virus into humans for first time&nbsp;&nbsp;The IndependentStart-Up Claims to Use A.I.-Created Viruses to Treat a Patient&nbsp;&nbsp;The New York TimesHow to prevent an AI-created plague&nbsp;&nbsp;The TimesAI-Designed Phages Combat Bacteria: Microbial Minutes&nbsp;&nbsp;ASM.orgEnlisting AI in the fight against drug-resistant bacteria&nbsp;&nbsp;Universities of Wisconsin",
       "sources": [
         {
           "name": "The Independent",
@@ -354,22 +378,10 @@
       ]
     },
     {
-      "id": "474667459e37",
-      "title": "How Pastors Mobilize Communities in Congo’s Fight Against Ebola - The New York Times",
-      "published": "2026-10-23T04:01:16+00:00",
-      "summary": "How Pastors Mobilize Communities in Congo’s Fight Against Ebola&nbsp;&nbsp;The New York TimesDR Congo: Ebola responders under pressure as outbreak expands&nbsp;&nbsp;UN NewsRapid spread of new Ebola epidemic in Africa is a deadly threat&nbsp;&nbsp;The MilitantAs Ebola spreads in Congo, grieving families face a growing mental health toll&nbsp;&nbsp;AP NewsThis chart shows just how rapidly Ebola is spreading&nbsp;&nbsp;Vox",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNX2FWWXRKcEhmd2ZhZ1o0djlZWEJ4ZDNJelg5d0ZwVTBLZUdndS1Wa1RmeWkwQTU5M3lWd1ItZ0Vsc1dxa01WRHVXUTkyZ2pxWDVGcXExYkFXVTZIUFlWWGlKc011M1JseThwbjZBMzJ0RmNsV2RLMHlJcGxwQmFQOFQ2eGVtaU01SU5wcUhnM3U?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8b14094cd545",
       "title": "Flu cases rise on west coast earlier than usual as US health experts encourage vaccine - The Guardian",
       "published": "2026-10-23T01:44:00+00:00",
-      "summary": "Flu cases rise on west coast earlier than usual as US health experts encourage vaccine&nbsp;&nbsp;The GuardianA mutated virus is driving the US into an early flu season, especially on the West Coast&nbsp;&nbsp;CNNEarly US flu season, current strain may signal risk for younger people; doctors urge shots&nbsp;&nbsp;ReutersFlu Arrived Early This Year. Should Clinicians Do Anything Differently?&nbsp;&nbsp;MedscapeA mutated virus strain is jumpstarting a worrisome flu season&nbsp;&nbsp;Northeastern G",
+      "summary": "Flu cases rise on west coast earlier than usual as US health experts encourage vaccine&nbsp;&nbsp;The GuardianA mutated virus is driving the US into an early flu season, especially on the West Coast&nbsp;&nbsp;CNNFlu Activity is Ramping Up Early This Year. Is a Mutated H1N1 Strain to Blame?&nbsp;&nbsp;TODAY.comEarly US flu season, current strain may signal risk for younger people; doctors urge shots&nbsp;&nbsp;ReutersA mutated virus strain is jumpstarting a worrisome flu season&nbsp;&nbsp;Northe",
       "sources": [
         {
           "name": "The Guardian",
@@ -386,6 +398,18 @@
         {
           "name": "The Seattle Times",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUVlpSXY5MUdhWkdfNGVCZjU3R1RUNEFaUGswNzA1ZFRSN1I0R3JvNFU0ODlCNm5INUpfRkh3VTRxUGNzcDJMY05oLWtKNDA5cllIVTVLX1dBT0tQMnMtRkc0T3BEMllxYjZnZExtUm9KTmt2YlpmeldjLXJMOENhZGJncEFMczZ6Yzh2b25mTS1EZ1N3emJWWlFRSDI2QTlLamU0S2wxTHUydVp0SUdqaXpKdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5134e2a695e1",
+      "title": "Women On GLP-1s Are Revealing The Side Effects And Experiences No One Told Them About - BuzzFeed",
+      "published": "2026-10-22T23:31:02+00:00",
+      "summary": "Women On GLP-1s Are Revealing The Side Effects And Experiences No One Told Them About&nbsp;&nbsp;BuzzFeedGLP-1 Side Effects vs. Benefits: Real Patient Experiences&nbsp;&nbsp;HealthlineWe asked people taking GLP-1s what happened when their expectations met reality&nbsp;&nbsp;YahooWeight-Loss Drugs and Bone: Review Finds Evidence Too Thin to Judge&nbsp;&nbsp;Bioengineer.orgGLP-1 Forecasts, Two Years Later: Lessons for the Medtech Supply Chain&nbsp;&nbsp;Medical Product Outsourcing",
+      "sources": [
+        {
+          "name": "BuzzFeed",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMEpjY19DZzVLNy1oUFVvaGhILUxWX2NxMjlyTDhvVUpIaXIyREdlYWZoWVdNc0ZfR1JKeDRwTFBZZzJwUW01eGZRTHBEVG9YTUo4ZU9WN05hclpvVmZzMjFjaTZrQVRXdFhCMVhnOGtobEZlemJzR1M5UC15MmJidXN5UjdibEFheUZCQ3B6YWg?oc=5"
         }
       ]
     },
@@ -417,23 +441,11 @@
       "id": "17a20c34e50d",
       "title": "These States Legalized Weed. More Heart Attacks Followed - Gizmodo",
       "published": "2026-10-22T22:30:11+00:00",
-      "summary": "These States Legalized Weed. More Heart Attacks Followed&nbsp;&nbsp;GizmodoMarijuana legalization linked to troubling health trend in landmark new study&nbsp;&nbsp;New York PostStudy Links Marijuana Legalization To Rise In Heart Hospitalizations&nbsp;&nbsp;U.S. News & World ReportSmoking or vaping cannabis, but not edibles, linked to need for more anesthesia during upper endoscopy, study suggests | Newswise&nbsp;&nbsp;NewswiseUS Cannabis Legalisation Linked to More Heart-Related Hospital Admissi",
+      "summary": "These States Legalized Weed. More Heart Attacks Followed&nbsp;&nbsp;GizmodoStudy links recreational cannabis legalization to rising heart attack admissions&nbsp;&nbsp;News-MedicalMarijuana legalization linked to troubling health trend in landmark new study&nbsp;&nbsp;New York PostSmoking or vaping cannabis, but not edibles, linked to need for more anesthesia during upper endoscopy, study suggests | Newswise&nbsp;&nbsp;NewswiseCannabis Users Had a 46% Higher Heart Attack Risk Around Surgery in a ",
       "sources": [
         {
           "name": "Gizmodo",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdHlSVE5DMjJ6cHNuT1A4aGZPdDFfdElNLTNqVXNQRldkYmNmZHhJMzJxa3JPMUdmRU1ZTEZlUmVkQTRTM0pWbHNTQVdMblNzcFgzUkFnMm1lT010cHJFWm80Y0VieE5jLWhDU0VtSEwxWTlLMkFONUhoVXF3QlZMNURGajFsT2R5YXBCc29zdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c2cfc7ec0845",
-      "title": "Auburn 2-year-old suffers catastrophic brain injury linked to 7-OH - WPTA | 21Alive | Fort Wayne, IN",
-      "published": "2026-10-22T22:18:00+00:00",
-      "summary": "Auburn 2-year-old suffers catastrophic brain injury linked to 7-OH&nbsp;&nbsp;WPTA | 21Alive | Fort Wayne, IN",
-      "sources": [
-        {
-          "name": "WPTA | 21Alive | Fort Wayne, IN",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOemEyWEZaMUlVenVsUm1MMGJDM0FoTUtId181b1EwNzBBeTl1bDFPdXVBWDFhWTJ5RUpyZjYzaS1qZ3dyOFJDUkI5R2JXYlplZGU1a0lzZnZndElMNW1OUWNEYW1qb3FNQUxfSXdtNEpMeDA3cnlFb1Y5b0lkYkNHZ1k3RXQxeVNlN05sOE1DRXJzczA5NUdQSG1RV0VwMDdneEo0Y2Z3?oc=5"
         }
       ]
     },
@@ -450,38 +462,26 @@
       ]
     },
     {
+      "id": "90628a233b0a",
+      "title": "A first for CRISPR: powerful prime editing alters DNA directly in the human body - Nature",
+      "published": "2026-10-22T20:11:34+00:00",
+      "summary": "A first for CRISPR: powerful prime editing alters DNA directly in the human body&nbsp;&nbsp;NatureScientists edit human DNA inside the body for the first time&nbsp;&nbsp;The IndependentNews: CMN Weekly (23 October 2026) - Your Weekly CRISPR Medicine News&nbsp;&nbsp;CRISPR Medicine NewsPrime Medicine launches first in-body prime editing trial for Wilson disease&nbsp;&nbsp;DongA SciencePrime Editing Rewrites DNA Inside a Patient’s Body for the First Time&nbsp;&nbsp;Technology Org",
+      "sources": [
+        {
+          "name": "Nature",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sTVZ3VHhXTkJlelNLeUk3SFA5a0g2ZmJ6V05MWmk1d0s0SjJRU1VGR1I0bVFKckotanJVek1pUVR5ZDdkcEN4TG1rbXdDam84bWFOWUJ4dXlPS01xVjBr?oc=5"
+        }
+      ]
+    },
+    {
       "id": "6a8324de9032",
       "title": "Dementia risk may be linked to seemingly harmless daily habit, new research suggests - Fox News",
       "published": "2026-10-22T18:33:20+00:00",
-      "summary": "Dementia risk may be linked to seemingly harmless daily habit, new research suggests&nbsp;&nbsp;Fox NewsFrequent napping linked to higher dementia risk, study finds&nbsp;&nbsp;WBAYIs your daily nap a sign of something more dire?&nbsp;&nbsp;The IndependentYour Accidental Daytime Naps Could Raise Your Dementia Risk by 39%, Study Finds&nbsp;&nbsp;PreventionNapping and Dementia Risk; Autism Paper Concern; First NASCAR Driver With CTE&nbsp;&nbsp;MedPage Today",
+      "summary": "Dementia risk may be linked to seemingly harmless daily habit, new research suggests&nbsp;&nbsp;Fox NewsYour Accidental Daytime Naps Could Raise Your Dementia Risk by 39%, Study Finds&nbsp;&nbsp;PreventionFrequent napping linked to higher dementia risk, study finds&nbsp;&nbsp;WBAYNew study reveals daytime nap linked to increased chance of this disorder&nbsp;&nbsp;AL.comNapping and Dementia Risk; Autism Paper Concern; First NASCAR Driver With CTE&nbsp;&nbsp;MedPage Today",
       "sources": [
         {
           "name": "Fox News",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSTNrRlB0Z3N2bVg0S3MzdkhCZVBVNWNFVVRiUHhOVnN6dWJ6Nk9hbXJwaHFiOS13R1ZPc0FOTmRXLWFGR2szczFHSmpmQk8tYktKbXdjVXBya0h6d0hPZGFvOGdPSnFHOU9tbVZjYkZmZlZLTDZhNE5aZDg0djZYWmM5VUVyb3NFeWptS1otRGpUMDM3MWNCcVQtR285d3NDMkhDajFrVdIBrAFBVV95cUxNaVVBcXpqVDBBWF9uekstMmRlNzN2SmxzcU11VFBMWFdpb1JNV2o1OFVCUnJZY1VCNktBRnVfM3hTVmJNeVV5TFRyMDgybUU1OTVRSGNnMlBDbmNpTDZQNGNjZUloOE9hcC1yWUtPMUswSWlQbjdqeV8tRG4xU1pwT002amZCWnY3Qjh4aWxfRndJc3ZLVURQb1gzdDY1U1gtWmpRbkFIYUYxUkd0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7356d447873c",
-      "title": "A New Ice Age Was Beginning. Then Humans Started Burning Fossil Fuels - WIRED",
-      "published": "2026-10-22T18:00:00+00:00",
-      "summary": "A New Ice Age Was Beginning. Then Humans Started Burning Fossil Fuels&nbsp;&nbsp;WIREDGlobal warming may have halted an emerging ice age, study suggests&nbsp;&nbsp;Phys.orgWe are in a new ice age: here’s why global warming has halted it We are in a new ice age: here’s why global warming has halted it&nbsp;&nbsp;la RepubblicaScientists Once Warned of a Coming Ice Age—Now New Research Reveals What May Have Stopped It&nbsp;&nbsp;The Debrief",
-      "sources": [
-        {
-          "name": "WIRED",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLV9PODJVUjhXVmJ2Z1I0ZVJ6M2dUYTEtVEg4ZEowNzU2X0RUUkNsVHB1ZDAtTVlFQ0J0a05DM1d0Z3ZQVEwxeWtWLTFjZW0zb05RRHVIM3A2NFlhb0tmQ3BOVnJvTi1RNk5tWlF3U0JkQkxiVUdCeDRRU2Naa2tVek0zRkUtVVJWVmNiN0djdFA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d4ad8fe5ed4b",
-      "title": "Hospital steps up screening as measles cluster widens in central Minnesota - Star Tribune",
-      "published": "2026-10-22T17:47:21+00:00",
-      "summary": "Hospital steps up screening as measles cluster widens in central Minnesota&nbsp;&nbsp;Star Tribune",
-      "sources": [
-        {
-          "name": "Star Tribune",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVkNZQm1vUzE3dzd5YmdNY1hzZDdBWWdVQ3MySm15Q2g1WDY0akExY013WUdxY1oyWVZ0Um15SnFULU01dk1fZ1VlcnV6TC1nNjdCaXFZanpqMkZ1MmpvWWFaTzJwNVFGMC11Mko0MUhBWS1NbzB1TVBoVTNqQmVlMFk5aTRrWG5GeUFIRjVyUmctODhwX01BTWw3Yk5ZU1BjTGNxdVE1c29wVGItRkVKbnpR?oc=5"
         }
       ]
     },
@@ -501,7 +501,7 @@
       "id": "00348cc5b52e",
       "title": "World's first round-trip mission to Mars has launched — and could be a 'transformative leap' for science - Live Science",
       "published": "2026-10-22T16:46:36+00:00",
-      "summary": "World's first round-trip mission to Mars has launched — and could be a 'transformative leap' for science&nbsp;&nbsp;Live ScienceHow did Mars get its moons? Japan’s MMX mission is about to find out&nbsp;&nbsp;Scientific AmericanJapan Launches Mission To Study Martian Moon&nbsp;&nbsp;HackadayJapan’s sample return mission to Phobos may also collect some Mars dust&nbsp;&nbsp;Science NewsMars’ two tiny moons shouldn’t exist. A new mission has launched to reveal their secrets&nbsp;&nbsp;CNN",
+      "summary": "World's first round-trip mission to Mars has launched — and could be a 'transformative leap' for science&nbsp;&nbsp;Live ScienceMars’ two tiny moons shouldn’t exist. A new mission has launched to reveal their secrets&nbsp;&nbsp;CNNJapan’s sample return mission to Phobos may also collect some Mars dust&nbsp;&nbsp;Science NewsJapan Launches Mission To Study Martian Moon&nbsp;&nbsp;HackadayHow did Mars get its moons? Japan’s MMX mission is about to find out&nbsp;&nbsp;Scientific American",
       "sources": [
         {
           "name": "Live Science",
@@ -525,7 +525,7 @@
       "id": "5919fe822e3a",
       "title": "Georgia man knowingly gave HIV to wife, who died 2 days after the diagnosis. Now multiple women reveal alleged affairs - Yahoo",
       "published": "2026-10-22T09:15:42+00:00",
-      "summary": "Georgia man knowingly gave HIV to wife, who died 2 days after the diagnosis. Now multiple women reveal alleged affairs&nbsp;&nbsp;YahooMan accused of giving HIV to his wife without telling her avoids trial for her death&nbsp;&nbsp;WSB-TVMan Who Knowingly Gave HIV to His Late Wife and 2 Others Avoids Murder Charge With Plea Deal&nbsp;&nbsp;YahooRockdale County Man Sentenced in Wife's HIV/AIDS Death Case&nbsp;&nbsp;HoodlineGa. man accused of spreading HIV to wife, others avoids trial with plea dea",
+      "summary": "Georgia man knowingly gave HIV to wife, who died 2 days after the diagnosis. Now multiple women reveal alleged affairs&nbsp;&nbsp;YahooSee more headlines & perspectives on Google News",
       "sources": [
         {
           "name": "Yahoo",
@@ -558,34 +558,10 @@
       ]
     },
     {
-      "id": "7c2efa1f3908",
-      "title": "She survived breast cancer at 42 and brought 2 million followers along. Now her mother is facing the same diagnosis. - Yahoo",
-      "published": "2026-10-21T19:11:04+00:00",
-      "summary": "She survived breast cancer at 42 and brought 2 million followers along. Now her mother is facing the same diagnosis.&nbsp;&nbsp;Yahoo",
-      "sources": [
-        {
-          "name": "Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVkFHNDZ1NnhGSDZUa1BURmlpckZCZjhoeDkzZlNDZndVVjMyR2E5OWZEYzN0R1pOWE1OR3VIZGpNeWpudGpUWDFCWFhVaWMzYS1jQXBLUjdVTzhpNjZ2OG1IbENJSVV5eGJEWWc3S2MwYnFGSm1PMndwdDFwQnRKUVduUXFhZW1JRXVyeUFjeDUyQnhxMmlTUTNSMUc1bzJseV9MZTJROXE1dnZJM3FELUtWeHAyVlZUOHlRcEt4Qm1GaWhRUTZJbzAxeWVfb0x0a0ZSNEgyN3A0NUttUDZ4VHFIcFBXTjI4T3l6QUNLc2l3ODJVUXRtdkhjcVQxUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c39046722625",
-      "title": "Teen depression and anxiety predicted by childhood brain development - Nature",
-      "published": "2026-10-21T19:03:08+00:00",
-      "summary": "Teen depression and anxiety predicted by childhood brain development&nbsp;&nbsp;NatureDepression and anxiety can be predicted by your childhood brain development&nbsp;&nbsp;The IndependentChildhood Brain Networks Mirror Adult Architecture, Landmark Study of 7,316 Children Finds&nbsp;&nbsp;Bioengineer.orgMassive MRI collection reveals hidden patterns of adolescent brain wiring&nbsp;&nbsp;Bioengineer.org",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KMl9NU3A2SXJTQ0Nrb1Vud0F5V3lUUzRsTHotRjNMWmF5blgyeE1OQmlPWG5vOXd2TDlaMzlCTm83cVVXOTZwQmFHQlVWM2FkbFhJV0JaUnNkMWJGZ1RJ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9c3998306071",
       "title": "Rejuvenation breakthrough: Scientists reverse 60 years of aging in human cells - Science Daily",
       "published": "2026-10-21T11:05:34+00:00",
-      "summary": "Rejuvenation breakthrough: Scientists reverse 60 years of aging in human cells&nbsp;&nbsp;Science DailyBlood Cells From an 80-Year-Old Were Reprogrammed to Show an Epigenetic Age Below 20&nbsp;&nbsp;YahooOld Blood Cells Have Been Transformed Into Brain Stem Cells That Get Younger As They Age&nbsp;&nbsp;ScienceAlertIn Bonn, blood cells were turned into younger neural stem cells — ScienceAlert&nbsp;&nbsp;UA.NEWSGerman Researchers Reverse Cellular Age by Over 60 Years Through Direct Reprogramming W",
+      "summary": "Rejuvenation breakthrough: Scientists reverse 60 years of aging in human cells&nbsp;&nbsp;Science DailyBlood Cells From an 80-Year-Old Were Reprogrammed to Show an Epigenetic Age Below 20&nbsp;&nbsp;YahooOld Blood Cells Have Been Transformed Into Brain Stem Cells That Get Younger As They Age&nbsp;&nbsp;ScienceAlertIn Bonn, blood cells were turned into younger neural stem cells — ScienceAlert&nbsp;&nbsp;UA.NEWSBonn scientists reset 80 year old blood cells to a molecular age under 20&nbsp;&nbsp;St",
       "sources": [
         {
           "name": "Science Daily",
@@ -597,7 +573,7 @@
       "id": "3ed8323600ad",
       "title": "Forget 10,000 Steps — Walking 3,000 Steps A Day Can Protect Against Alzheimer's Disease - HuffPost",
       "published": "2026-10-21T11:00:18+00:00",
-      "summary": "Forget 10,000 Steps — Walking 3,000 Steps A Day Can Protect Against Alzheimer's Disease&nbsp;&nbsp;HuffPostMore daily steps over a long period linked to better attention and decision-making&nbsp;&nbsp;Medical XpressColumn | The surprising way walking can benefit your brain&nbsp;&nbsp;The Washington PostThe surprising number of daily steps that could sharpen your mind — it’s not 10,000&nbsp;&nbsp;New York PostA 22K-Person Study Of Wearable Data Showed You Should Get This Many Steps To Support Pea",
+      "summary": "Forget 10,000 Steps — Walking 3,000 Steps A Day Can Protect Against Alzheimer's Disease&nbsp;&nbsp;HuffPostMore daily steps over a long period linked to better attention and decision-making&nbsp;&nbsp;Medical XpressColumn | The surprising way walking can benefit your brain&nbsp;&nbsp;The Washington PostJust 3,000 steps a day may help slow Alzheimer's, scientists find&nbsp;&nbsp;Science DailyFewer Than 5,000 Daily Steps Linked to 80% Higher Risk of Dementia, Parkinson’s Disease and Stroke, Study ",
       "sources": [
         {
           "name": "HuffPost",
@@ -609,7 +585,7 @@
       "id": "81a3429da374",
       "title": "How to Lower the Likelihood of Alzheimer’s if You Have a Genetic Risk - The New York Times",
       "published": "2026-10-21T09:01:50+00:00",
-      "summary": "How to Lower the Likelihood of Alzheimer’s if You Have a Genetic Risk&nbsp;&nbsp;The New York TimesScientists are unraveling the biggest genetic risk factor for Alzheimer's&nbsp;&nbsp;Live ScienceScientists May Have Just Learned A Game-Changing Fact About The 'Dementia Gene'&nbsp;&nbsp;HuffPost UKHave you hit the genetic lottery? Investigating the role of ApoE in Alzheimer’s disease&nbsp;&nbsp;The Tufts DailyWhy some people escape Alzheimer’s despite carrying a high-risk gene&nbsp;&nbsp;Science ",
+      "summary": "How to Lower the Likelihood of Alzheimer’s if You Have a Genetic Risk&nbsp;&nbsp;The New York TimesScientists are unraveling the biggest genetic risk factor for Alzheimer's&nbsp;&nbsp;Live ScienceScientists May Have Just Learned A Game-Changing Fact About The 'Dementia Gene'&nbsp;&nbsp;HuffPost UKHave you hit the genetic lottery? Investigating the role of ApoE in Alzheimer’s disease&nbsp;&nbsp;The Tufts DailyScientists uncover a surprising defense against Alzheimer’s risk&nbsp;&nbsp;New York Pos",
       "sources": [
         {
           "name": "The New York Times",
@@ -621,7 +597,7 @@
       "id": "b20b92efb8fc",
       "title": "People With ADHD Face a 70% Higher Risk of Early Death. This Seems to Help - Gizmodo",
       "published": "2026-10-20T21:25:30+00:00",
-      "summary": "People With ADHD Face a 70% Higher Risk of Early Death. This Seems to Help&nbsp;&nbsp;GizmodoResearchers link ADHD with early death in new study&nbsp;&nbsp;NewsNationADHD could have a scary impact on your long-term health, researchers reveal&nbsp;&nbsp;The IndependentCommon disorder linked to 70% higher death rate, but medication may offer protection&nbsp;&nbsp;Fox NewsADHD Drugs May Reduce The Risk of Early Death, Major Study Finds&nbsp;&nbsp;ScienceAlert",
+      "summary": "People With ADHD Face a 70% Higher Risk of Early Death. This Seems to Help&nbsp;&nbsp;GizmodoResearchers link ADHD with early death in new study&nbsp;&nbsp;NewsNationADHD could have a scary impact on your long-term health, researchers reveal&nbsp;&nbsp;The IndependentCommon disorder linked to 70% higher death rate, but medication may offer protection&nbsp;&nbsp;Fox NewsADHD Tied to Higher Mortality Risk&nbsp;&nbsp;MedPage Today",
       "sources": [
         {
           "name": "Gizmodo",
@@ -633,7 +609,7 @@
       "id": "c4c66e044774",
       "title": "Doctors Reveal a 10-Second Balance Test to Assess Your Aging Health - AOL.com",
       "published": "2026-10-20T18:50:00+00:00",
-      "summary": "Doctors Reveal a 10-Second Balance Test to Assess Your Aging Health&nbsp;&nbsp;AOL.comElder-care researcher reveals 6 powerful clues older adults will live a long life&nbsp;&nbsp;UpworthyDoctors Say This Simple 10-Second Test Can Reveal a Lot About How You’re Aging&nbsp;&nbsp;Parade Magazine‘Mobility is key for longevity’ – here’s how to improve yours in 10 minutes&nbsp;&nbsp;The Independent94 Studies Reveal What Grip Strength Can Say About Your Health&nbsp;&nbsp;Yahoo Health",
+      "summary": "Doctors Reveal a 10-Second Balance Test to Assess Your Aging Health&nbsp;&nbsp;AOL.comElder-care researcher reveals 6 powerful clues older adults will live a long life&nbsp;&nbsp;Upworthy‘Mobility is key for longevity’ – here’s how to improve yours in 10 minutes&nbsp;&nbsp;The IndependentWhat your daily movements may say about your longevity, according to an expert&nbsp;&nbsp;KDRV94 Studies Reveal What Grip Strength Can Say About Your Health&nbsp;&nbsp;Yahoo Health",
       "sources": [
         {
           "name": "AOL.com",
@@ -678,46 +654,10 @@
       ]
     },
     {
-      "id": "713536632825",
-      "title": "Kennedy’s Vaccine Plan Could Cause Surge in Hepatitis B, Study Finds - The New York Times",
-      "published": "2026-10-19T21:00:05+00:00",
-      "summary": "Kennedy’s Vaccine Plan Could Cause Surge in Hepatitis B, Study Finds&nbsp;&nbsp;The New York TimesChanges to hepatitis B vaccine recommendations could leave millions of children vulnerable: Study&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosTens of thousands of US newborns could be exposed to hepatitis B at home, study suggests&nbsp;&nbsp;CIDRAPStudy warns millions could remain vulnerable to hepatitis B if vaccination is delayed&nbsp;&nbsp;The Eastleigh VoiceHousehold Contacts Driv",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tNXRtMTJKV3R0R05tck0tbkMxNWd1TmQ0cW0ydm1LeVdxUFFaTmNWWDNvd2xaNGV2Znc1dEF0RHdCRnRQUHlWVjhPMk1abUN5Q250ZHBnYzVIUzdNSlBCZmZTQlJ2dXd5SUFHU1VGQjFCVG5KM0k3d291dnprdHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7d85092e2468",
-      "title": "Blood pressure drug losartan boosts metabolism by stimulating brown fat - News-Medical",
-      "published": "2026-10-19T18:15:00+00:00",
-      "summary": "Blood pressure drug losartan boosts metabolism by stimulating brown fat&nbsp;&nbsp;News-MedicalScientists Discover a Surprising New Effect of a Popular Blood Pressure Drug&nbsp;&nbsp;SciTechDailyThe good fat: How brown fat can help lower diabetes, heart disease, and boost mental health&nbsp;&nbsp;FirstpostAI Scan Of 101,243 Patients Links Brown Fat To Fewer Diagnoses&nbsp;&nbsp;Dr. Axe",
-      "sources": [
-        {
-          "name": "News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObXpWREVQelBNTzM5NHRualI1VVFCVjkzRlg2dHBrT3RtTDZXT04tUlB4Y1JHTlBKanp4b21DYzdqY25TWlE1Z2UtbXN4RG5JaWV2WkYtNTBxNjNWNTkwZERKVGM5angwOWZiT203UXduUWlzbHIxWDk2eDlvQXg1djhiVFpqMUhnWXQ2cnFsVlRqMHFhTnBjZnVMaFRLR0k0c1FFZHlnaU5sQ2o3RFVnRk1Fd29Ycm91dmlJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bc9c658a1557",
-      "title": "Column | 3 simple changes to your diet that can help you feel less tired - The Washington Post",
-      "published": "2026-10-19T16:00:00+00:00",
-      "summary": "Column | 3 simple changes to your diet that can help you feel less tired&nbsp;&nbsp;The Washington PostFeeling Constantly Tired? A Dietitian Reveals 3 Popular Healthy Habits Ruining Your Energy&nbsp;&nbsp;Yahoo HealthEnergy Management: How To Fuel Your Brain To Avoid The Afternoon Crash&nbsp;&nbsp;ForbesHit a mid-morning energy slump? How to build a blood sugar-friendly breakfast that keeps you fuller and more focused&nbsp;&nbsp;Men's Fitness5 ways to get more energy throughout the day&nbsp;&nbs",
-      "sources": [
-        {
-          "name": "The Washington Post",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdXVfTlpKSDhvMHJXU21zV2FIbzBVR25pV0YwN0hDSHZIUkRsTG1Od0FrV3MxbEg0STU0VDR3bWNkem5IaEVOaTJFZDc0NkxWWXBuYjFDbWpvSVU4UWt1cjNZWWpHLUY5WmhUM19ZS3ZReHBzcEhaZGZyTjJOZU85VHcyekF1aEROOVRBZmJCYjkteW1ydFNMczRZOUtYazY4MWlZcG5Zbm8?oc=5"
-        }
-      ]
-    },
-    {
       "id": "414b636eeecf",
       "title": "\"Mind-blowing\" Alzheimer’s breakthrough: Two hours of sleep restored without clearing brain plaques - Science Daily",
       "published": "2026-10-19T09:27:44+00:00",
-      "summary": "\"Mind-blowing\" Alzheimer’s breakthrough: Two hours of sleep restored without clearing brain plaques&nbsp;&nbsp;Science DailySleep Disruption and Alzheimer Disease: A Bidirectional, Treatable Relationship&nbsp;&nbsp;Psychiatric TimesThe real culprit behind sleep loss in Alzheimer’s isn’t the one we thought&nbsp;&nbsp;Futura, le média qui explore le mondeResearchers Uncover a New Way to Improve Sleep in Alzheimer’s Without Targeting Brain Plaques&nbsp;&nbsp;YahooMore than two hours of sleep restor",
+      "summary": "\"Mind-blowing\" Alzheimer’s breakthrough: Two hours of sleep restored without clearing brain plaques&nbsp;&nbsp;Science DailySleep Disruption and Alzheimer Disease: A Bidirectional, Treatable Relationship&nbsp;&nbsp;Psychiatric TimesResearchers Uncover a New Way to Improve Sleep in Alzheimer’s Without Targeting Brain Plaques&nbsp;&nbsp;YahooMore than two hours of sleep restored in mice with an Alzheimer’s model — ScienceDaily&nbsp;&nbsp;UA.NEWS",
       "sources": [
         {
           "name": "Science Daily",

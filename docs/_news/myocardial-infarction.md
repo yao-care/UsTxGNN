@@ -3,7 +3,7 @@ layout: default
 title: "MI (myocardial infarction) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about MI (myocardial infarction). 26 articles, 9 related drugs."
+description: "Health news about MI (myocardial infarction). 20 articles, 9 related drugs."
 permalink: /news/myocardial-infarction/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/myocardial-infarction/
 ---
 
 <p class="key-answer" data-question="What news is there about MI (myocardial infarction)?">
-<strong>MI (myocardial infarction)</strong> currently has <strong>26 news articles</strong> and 9 related drugs.
+<strong>MI (myocardial infarction)</strong> currently has <strong>20 news articles</strong> and 9 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -37,21 +37,37 @@ This page brings together the latest health news about “MI” and lists the dr
 </ul>
 </div>
 
-## Related News (26)
+## Related News (20)
 
-### [Physically Touching Your Dog Can Help Protect You From Upcoming Stress, Study Suggests](https://news.google.com/rss/articles/CBMitAFBVV95cUxOa2traGJsNlgzck80a2hTRl9HbENVUldFUHVMQkE4ZlBkb1A4QkRBX3l6dG4yd3JibVl6Tm1aT1pqall2eDdHMzk3RkFYcnJsTFQ5U0dKYU1wSnoyNUxjejRRWlZ1Z1d3THQ2U2x1ZGg5cFp0cmJfRFVNVDZXVmRvNlVBTWw2UWo2ek4zZUVsZTF4OTRxWVN6bTJoZkIwZ0J2Rm0xbVUwM093VWJqTWNELTh5MGw?oc=5)
+### [Additional 178 cases of measles reported by US health authorities amid outbreak - The Guardian](https://news.google.com/rss/articles/CBMif0FVX3lxTE9BX2FfNHd6TlpjcmFhZXVRR00tcEhVTTgxZEtEVFRLWHItS0VCVVI4NjN3Sk5zd3ZLUlpqRWxsakZkd2RCTElxOGZKLWg5aTB3emw3X1ozV1JrTWdjN29nZkR3cnEyQ25oUkFhaGh3NjJacGxOUThuQWphcnltZkE?oc=5)
 
 2026-10-24
 
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMitAFBVV95cUxOa2traGJsNlgzck80a2hTRl9HbENVUldFUHVMQkE4ZlBkb1A4QkRBX3l6dG4yd3JibVl6Tm1aT1pqall2eDdHMzk3RkFYcnJsTFQ5U0dKYU1wSnoyNUxjejRRWlZ1Z1d3THQ2U2x1ZGg5cFp0cmJfRFVNVDZXVmRvNlVBTWw2UWo2ek4zZUVsZTF4OTRxWVN6bTJoZkIwZ0J2Rm0xbVUwM093VWJqTWNELTh5MGw?oc=5)
+Source: [The Guardian](https://news.google.com/rss/articles/CBMif0FVX3lxTE9BX2FfNHd6TlpjcmFhZXVRR00tcEhVTTgxZEtEVFRLWHItS0VCVVI4NjN3Sk5zd3ZLUlpqRWxsakZkd2RCTElxOGZKLWg5aTB3emw3X1ozV1JrTWdjN29nZkR3cnEyQ25oUkFhaGh3NjJacGxOUThuQWphcnltZkE?oc=5)
 
 ---
 
-### [GLP-1 Side Effects vs. Benefits: Real Patient Experiences](https://news.google.com/rss/articles/CBMimgFBVV95cUxQUGVod1dYbGRUSHN3LVQ2N0FXUDZnWmxsbDB5cklsYjVVVWk4UDVwdG5XajJqZmZQcTJPMlQxeExzMURxOHJNNTY3OUU4dVJuOXcxMy1rdVVqSHRPSVZpZFM4Q2tjZHhXSWVSaEFiU2Fhb1RyVlRhM01CblYxd2o1bFBMMjVSM0tKc01JenlCcU1lOVVlR0k4MEd3?oc=5)
+### [Body clock link? New type of depression could affect millions](https://news.google.com/rss/articles/CBMid0FVX3lxTE5UYlpEYW54QXVqa3BObGwzX0RRVGNJZDZJelJ5b3lUUnYyNXRiWkFNbmphLVcyMmJXeDJuR0xHTTU0QUVwSi1jVGJrS3pubm9Hc0k5OUNKTGtZN09sbDRaOGZyN2FOX0pOcHhWdzdwck9kV292Vm9J0gF8QVVfeXFMUHhnZ0hUMlM1ZTB1dk1Fc2NaMnRpWi1DMUQ0eVRxS09HdHFzdEZlTVcybU1oRHVuQTBZdC13YURWanFOdnF6WmJpeDlCRXpFRVZWVVpMTEVUUnRJZVNiN2p4UHFPTTV6ZVFwb0hIcTgwckYtbVdqb3RGbjZkdA?oc=5)
+
+2026-10-24
+
+Source: [NewsNation](https://news.google.com/rss/articles/CBMid0FVX3lxTE5UYlpEYW54QXVqa3BObGwzX0RRVGNJZDZJelJ5b3lUUnYyNXRiWkFNbmphLVcyMmJXeDJuR0xHTTU0QUVwSi1jVGJrS3pubm9Hc0k5OUNKTGtZN09sbDRaOGZyN2FOX0pOcHhWdzdwck9kV292Vm9J0gF8QVVfeXFMUHhnZ0hUMlM1ZTB1dk1Fc2NaMnRpWi1DMUQ0eVRxS09HdHFzdEZlTVcybU1oRHVuQTBZdC13YURWanFOdnF6WmJpeDlCRXpFRVZWVVpMTEVUUnRJZVNiN2p4UHFPTTV6ZVFwb0hIcTgwckYtbVdqb3RGbjZkdA?oc=5)
+
+---
+
+### [Diagnostic test could help doctors refine prostate cancer treatment - Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxPWFdWSEFNQ0NENUt4V2xFUVY0SW5JTy14TGM4TGpfbVRiZHA0Ym54bEphc0FJaXp5OXZDNmNzWWFaQmdlTS1HT3lVSE5hSUd5cWpZSUF6OXpvM3k2dmxwdEZSYTdndkZzQ3h4SW44ZjVrYTlOOGt4OHBpQU5NVWVOYmdnTFFVcWdYTHRPZ3hB?oc=5)
+
+2026-10-24
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxPWFdWSEFNQ0NENUt4V2xFUVY0SW5JTy14TGM4TGpfbVRiZHA0Ym54bEphc0FJaXp5OXZDNmNzWWFaQmdlTS1HT3lVSE5hSUd5cWpZSUF6OXpvM3k2dmxwdEZSYTdndkZzQ3h4SW44ZjVrYTlOOGt4OHBpQU5NVWVOYmdnTFFVcWdYTHRPZ3hB?oc=5)
+
+---
+
+### [A precision T-cell therapy stalls treatment-resistant cancers in clinical trial - Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZjl0SUh0LXZGbmowenpiU00tc3dCWEVQOWJRdmxKZnpSZnQ2WEo4ZjNUVVpseVVqSkJMNnduajdibEJoRUFRMHdseUY0OVl1Y1p4eURIU1lRb3BjaVZfSldWOUNDZ09FZ2tFSFNTaEpYT1BBT2RXX0lXSU5UU05OR2dyU1dQbERoRlNR?oc=5)
 
 2026-10-23
 
-Source: [Healthline](https://news.google.com/rss/articles/CBMimgFBVV95cUxQUGVod1dYbGRUSHN3LVQ2N0FXUDZnWmxsbDB5cklsYjVVVWk4UDVwdG5XajJqZmZQcTJPMlQxeExzMURxOHJNNTY3OUU4dVJuOXcxMy1rdVVqSHRPSVZpZFM4Q2tjZHhXSWVSaEFiU2Fhb1RyVlRhM01CblYxd2o1bFBMMjVSM0tKc01JenlCcU1lOVVlR0k4MEd3?oc=5)
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZjl0SUh0LXZGbmowenpiU00tc3dCWEVQOWJRdmxKZnpSZnQ2WEo4ZjNUVVpseVVqSkJMNnduajdibEJoRUFRMHdseUY0OVl1Y1p4eURIU1lRb3BjaVZfSldWOUNDZ09FZ2tFSFNTaEpYT1BBT2RXX0lXSU5UU05OR2dyU1dQbERoRlNR?oc=5)
 
 ---
 
@@ -68,6 +84,14 @@ Source: [ScienceAlert](https://news.google.com/rss/articles/CBMizAFBVV95cUxPX3RH
 2026-10-23
 
 Source: [New York Post](https://news.google.com/rss/articles/CBMiowFBVV95cUxOc3plWEJiWWNjRUdfZjVYYnlIUy1HbkZfYjA4c1lFV3B1OFphZWl4RE5mbXdfMXhRelVVTG1ZYmZUTl9hQm40YkdWcXBDa25sbDFKdjBWeERBcy10Rm9rbTc1Nm9xWHBmeDJRdzczWHdXRF8yMC1DaHlhR2Y0VEtxSVJrWnRvMlB0VHZWeXBOV3Yzc05QNFpaVTNMNkRldDB3MzVv?oc=5)
+
+---
+
+### [Minutes Instead of Months: Breakthrough Technique Flushes Alzheimer’s Plaque From the Brain - Yahoo Health](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMmt5QmVFc3d2Z1RWYmhMRk8wRnBWQk55U2pIb1lWWGpyZW5QSFlPNlduUnRZU3B1ZS1EbENyY2l3NkRXTG5Lc2dUQlpkZkFPUmE4aDM5eE5rNU41VkEyMTJYNndpdHV4SjMyQjUxemZOblZMTnQ0N2VLSEtKX0lOVVczSWdGNGxYbnFlVy1Yd3NJNWNZeExlQ0hxa0VwMGEwVDZqWjdIX19MNGQzMGQ0bmdLNkZnZzZ1SlVZSmttcHAzb2RoOVNseW1JWDd0Uld4VmR3?oc=5)
+
+2026-10-23
+
+Source: [Yahoo Health](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMmt5QmVFc3d2Z1RWYmhMRk8wRnBWQk55U2pIb1lWWGpyZW5QSFlPNlduUnRZU3B1ZS1EbENyY2l3NkRXTG5Lc2dUQlpkZkFPUmE4aDM5eE5rNU41VkEyMTJYNndpdHV4SjMyQjUxemZOblZMTnQ0N2VLSEtKX0lOVVczSWdGNGxYbnFlVy1Yd3NJNWNZeExlQ0hxa0VwMGEwVDZqWjdIX19MNGQzMGQ0bmdLNkZnZzZ1SlVZSmttcHAzb2RoOVNseW1JWDd0Uld4VmR3?oc=5)
 
 ---
 
@@ -103,19 +127,11 @@ Source: [New York Post](https://news.google.com/rss/articles/CBMinwFBVV95cUxPUXh
 
 ---
 
-### [Prostate cancer test spots men most at risk of death - The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxPWXhPWVJjVk9pU19lX0xhVmpvQVdBQTR1RFNhb3VsOUl1VF9hb1dXWWo0OUVoLWhjdHpzTUloQXlCSzlMUVA1QkYtUkQwSHZqQUI3M0VjRTNlcTVqRDdaWG5EeXZ2eTdsTE5pSXVXaUlXQS1tM1BWcVF0R2VpcjJWaU1pTWxvbXdzamRTZXl3MVV5RmNTR2ZBXzZ3T1Mwdw?oc=5)
+### [California startup says it has injected AI-designed virus into humans for first time - The Independent](https://news.google.com/rss/articles/CBMimwFBVV95cUxNaThIQW1xSEtTdF94Z2tnLVJfZHRhaHoydVdvTmExSWgyR21uMTN2a1lEVGhhaGhxWkRJYjczOXF4Sk1sZnVnOEtzU0R1U0VpNURaczdDQVRsVTV3VjN0ajN4RjFsd3ZaN2NtZGtkcEVwa2Y3RUJNWW8xcVVWNm1tR1NjMnR4RWh0ZnRiaFVYYWtRTEc4X2ZQY1FuVQ?oc=5)
 
 2026-10-23
 
-Source: [The Telegraph](https://news.google.com/rss/articles/CBMingFBVV95cUxPWXhPWVJjVk9pU19lX0xhVmpvQVdBQTR1RFNhb3VsOUl1VF9hb1dXWWo0OUVoLWhjdHpzTUloQXlCSzlMUVA1QkYtUkQwSHZqQUI3M0VjRTNlcTVqRDdaWG5EeXZ2eTdsTE5pSXVXaUlXQS1tM1BWcVF0R2VpcjJWaU1pTWxvbXdzamRTZXl3MVV5RmNTR2ZBXzZ3T1Mwdw?oc=5)
-
----
-
-### [How Pastors Mobilize Communities in Congo’s Fight Against Ebola - The New York Times](https://news.google.com/rss/articles/CBMikAFBVV95cUxNX2FWWXRKcEhmd2ZhZ1o0djlZWEJ4ZDNJelg5d0ZwVTBLZUdndS1Wa1RmeWkwQTU5M3lWd1ItZ0Vsc1dxa01WRHVXUTkyZ2pxWDVGcXExYkFXVTZIUFlWWGlKc011M1JseThwbjZBMzJ0RmNsV2RLMHlJcGxwQmFQOFQ2eGVtaU01SU5wcUhnM3U?oc=5)
-
-2026-10-23
-
-Source: [The New York Times](https://news.google.com/rss/articles/CBMikAFBVV95cUxNX2FWWXRKcEhmd2ZhZ1o0djlZWEJ4ZDNJelg5d0ZwVTBLZUdndS1Wa1RmeWkwQTU5M3lWd1ItZ0Vsc1dxa01WRHVXUTkyZ2pxWDVGcXExYkFXVTZIUFlWWGlKc011M1JseThwbjZBMzJ0RmNsV2RLMHlJcGxwQmFQOFQ2eGVtaU01SU5wcUhnM3U?oc=5)
+Source: [The Independent](https://news.google.com/rss/articles/CBMimwFBVV95cUxNaThIQW1xSEtTdF94Z2tnLVJfZHRhaHoydVdvTmExSWgyR21uMTN2a1lEVGhhaGhxWkRJYjczOXF4Sk1sZnVnOEtzU0R1U0VpNURaczdDQVRsVTV3VjN0ajN4RjFsd3ZaN2NtZGtkcEVwa2Y3RUJNWW8xcVVWNm1tR1NjMnR4RWh0ZnRiaFVYYWtRTEc4X2ZQY1FuVQ?oc=5)
 
 ---
 
@@ -135,22 +151,6 @@ Source: [Fox News](https://news.google.com/rss/articles/CBMipwFBVV95cUxOSTNrRlB0
 
 ---
 
-### [A New Ice Age Was Beginning. Then Humans Started Burning Fossil Fuels](https://news.google.com/rss/articles/CBMikAFBVV95cUxQLV9PODJVUjhXVmJ2Z1I0ZVJ6M2dUYTEtVEg4ZEowNzU2X0RUUkNsVHB1ZDAtTVlFQ0J0a05DM1d0Z3ZQVEwxeWtWLTFjZW0zb05RRHVIM3A2NFlhb0tmQ3BOVnJvTi1RNk5tWlF3U0JkQkxiVUdCeDRRU2Naa2tVek0zRkUtVVJWVmNiN0djdFA?oc=5)
-
-2026-10-22
-
-Source: [WIRED](https://news.google.com/rss/articles/CBMikAFBVV95cUxQLV9PODJVUjhXVmJ2Z1I0ZVJ6M2dUYTEtVEg4ZEowNzU2X0RUUkNsVHB1ZDAtTVlFQ0J0a05DM1d0Z3ZQVEwxeWtWLTFjZW0zb05RRHVIM3A2NFlhb0tmQ3BOVnJvTi1RNk5tWlF3U0JkQkxiVUdCeDRRU2Naa2tVek0zRkUtVVJWVmNiN0djdFA?oc=5)
-
----
-
-### [Hospital steps up screening as measles cluster widens in central Minnesota - Star Tribune](https://news.google.com/rss/articles/CBMisgFBVV95cUxNVkNZQm1vUzE3dzd5YmdNY1hzZDdBWWdVQ3MySm15Q2g1WDY0akExY013WUdxY1oyWVZ0Um15SnFULU01dk1fZ1VlcnV6TC1nNjdCaXFZanpqMkZ1MmpvWWFaTzJwNVFGMC11Mko0MUhBWS1NbzB1TVBoVTNqQmVlMFk5aTRrWG5GeUFIRjVyUmctODhwX01BTWw3Yk5ZU1BjTGNxdVE1c29wVGItRkVKbnpR?oc=5)
-
-2026-10-22
-
-Source: [Star Tribune](https://news.google.com/rss/articles/CBMisgFBVV95cUxNVkNZQm1vUzE3dzd5YmdNY1hzZDdBWWdVQ3MySm15Q2g1WDY0akExY013WUdxY1oyWVZ0Um15SnFULU01dk1fZ1VlcnV6TC1nNjdCaXFZanpqMkZ1MmpvWWFaTzJwNVFGMC11Mko0MUhBWS1NbzB1TVBoVTNqQmVlMFk5aTRrWG5GeUFIRjVyUmctODhwX01BTWw3Yk5ZU1BjTGNxdVE1c29wVGItRkVKbnpR?oc=5)
-
----
-
 ### [World's first round-trip mission to Mars has launched — and could be a 'transformative leap' for science - Live Science](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcDNoTFlOMXowOHJnRVl2bkl5OXB1R08xSmc3UUl2LU4zdjNSalUwR0tDYzRMRWhPdnMxQVo0RTc3Sm5lT1hWcHYwU2xmM3BkUmVBYW5vcVJuc1Y3MGR3S0xHX1ZSMkhQQVNKZDExV0NRdllPVm9GUDNhc1dQcDNic0p3UFFid2VfYTZmbVN1dXBab01fNFRnQTd0cVNnbTA1TFhERnpYVDZqQzR3NnFRNVNCMW5lS2xxcjZFZVZIcEI0NnBIRm1MWU1lVmFzc0xDc21jaXNXVTRvaHVjUEJsZjBicDJfaTVnVHc?oc=5)
 
 2026-10-22
@@ -164,38 +164,6 @@ Source: [Live Science](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcDNo
 2026-10-21
 
 Source: [BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mZmpXTTQybFZsNVIxdU5SamJsd1M3S25WejFqVEFsZnhXalk4VUEyc1BaWUR4Rm9CdG5MZ0RTcWx4TXhrOXZXWDhFTmZ3Y2tVQTRVZWRVRHVPams?oc=5)
-
----
-
-### [She survived breast cancer at 42 and brought 2 million followers along. Now her mother is facing the same diagnosis.](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVkFHNDZ1NnhGSDZUa1BURmlpckZCZjhoeDkzZlNDZndVVjMyR2E5OWZEYzN0R1pOWE1OR3VIZGpNeWpudGpUWDFCWFhVaWMzYS1jQXBLUjdVTzhpNjZ2OG1IbENJSVV5eGJEWWc3S2MwYnFGSm1PMndwdDFwQnRKUVduUXFhZW1JRXVyeUFjeDUyQnhxMmlTUTNSMUc1bzJseV9MZTJROXE1dnZJM3FELUtWeHAyVlZUOHlRcEt4Qm1GaWhRUTZJbzAxeWVfb0x0a0ZSNEgyN3A0NUttUDZ4VHFIcFBXTjI4T3l6QUNLc2l3ODJVUXRtdkhjcVQxUQ?oc=5)
-
-2026-10-21
-
-Source: [Yahoo](https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVkFHNDZ1NnhGSDZUa1BURmlpckZCZjhoeDkzZlNDZndVVjMyR2E5OWZEYzN0R1pOWE1OR3VIZGpNeWpudGpUWDFCWFhVaWMzYS1jQXBLUjdVTzhpNjZ2OG1IbENJSVV5eGJEWWc3S2MwYnFGSm1PMndwdDFwQnRKUVduUXFhZW1JRXVyeUFjeDUyQnhxMmlTUTNSMUc1bzJseV9MZTJROXE1dnZJM3FELUtWeHAyVlZUOHlRcEt4Qm1GaWhRUTZJbzAxeWVfb0x0a0ZSNEgyN3A0NUttUDZ4VHFIcFBXTjI4T3l6QUNLc2l3ODJVUXRtdkhjcVQxUQ?oc=5)
-
----
-
-### [Teen depression and anxiety predicted by childhood brain development](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KMl9NU3A2SXJTQ0Nrb1Vud0F5V3lUUzRsTHotRjNMWmF5blgyeE1OQmlPWG5vOXd2TDlaMzlCTm83cVVXOTZwQmFHQlVWM2FkbFhJV0JaUnNkMWJGZ1RJ?oc=5)
-
-2026-10-21
-
-Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KMl9NU3A2SXJTQ0Nrb1Vud0F5V3lUUzRsTHotRjNMWmF5blgyeE1OQmlPWG5vOXd2TDlaMzlCTm83cVVXOTZwQmFHQlVWM2FkbFhJV0JaUnNkMWJGZ1RJ?oc=5)
-
----
-
-### [Rejuvenation breakthrough: Scientists reverse 60 years of aging in human cells - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE12SEFyQnMyS3I5U0dwRDh5SzVESHJmcm5aYWtYTTVPWjBXV1dNWnp1NkZCcVF3WnFLUWU0TjdvcnY5UDBFY201WXJ3b2tFUmZPSXM0bUR3YU4tSmlmVW02WU9Ra185SnZDbVY1R0VrSQ?oc=5)
-
-2026-10-21
-
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE12SEFyQnMyS3I5U0dwRDh5SzVESHJmcm5aYWtYTTVPWjBXV1dNWnp1NkZCcVF3WnFLUWU0TjdvcnY5UDBFY201WXJ3b2tFUmZPSXM0bUR3YU4tSmlmVW02WU9Ra185SnZDbVY1R0VrSQ?oc=5)
-
----
-
-### [Forget 10,000 Steps — Walking 3,000 Steps A Day Can Protect Against Alzheimer's Disease](https://news.google.com/rss/articles/CBMikAFBVV95cUxPd3VoSUFza0xCeVUtcFZyZzR6MUtaSzZyUnViNE5NdjVkdU5jajU3QlNhWE5XQ2NBbFFGdHdyVU1hQWFUOGkzVG9DWmNRZlJFNFZmc0NtVWJNazNXTXBUTWUxanpyOXlMS09DMkF3R2ZlOTY0NmpPNFF5U2p4TXBJMXJUYnBMOTJyajZVaWFmU0_SAZYBQVVfeXFMT2o4SUFZc2xlMHI1d1NCRWgxQlZsS2VVUVdLYURHamdQQnRudUZOOHk5MjhfdG0zZWhOUDFoQVlWU1JZMlRMSUs4ZzQ4ZVhxUzhNMWtPQVBjaEhwSnBUWlZYYUNoLTRwODBHWXpXSV9yVFh3UlZFY0JKSi05QVlua1pscXFNblJnLVJuVlozUWhqM3VyOS1n?oc=5)
-
-2026-10-21
-
-Source: [HuffPost](https://news.google.com/rss/articles/CBMikAFBVV95cUxPd3VoSUFza0xCeVUtcFZyZzR6MUtaSzZyUnViNE5NdjVkdU5jajU3QlNhWE5XQ2NBbFFGdHdyVU1hQWFUOGkzVG9DWmNRZlJFNFZmc0NtVWJNazNXTXBUTWUxanpyOXlMS09DMkF3R2ZlOTY0NmpPNFF5U2p4TXBJMXJUYnBMOTJyajZVaWFmU0_SAZYBQVVfeXFMT2o4SUFZc2xlMHI1d1NCRWgxQlZsS2VVUVdLYURHamdQQnRudUZOOHk5MjhfdG0zZWhOUDFoQVlWU1JZMlRMSUs4ZzQ4ZVhxUzhNMWtPQVBjaEhwSnBUWlZYYUNoLTRwODBHWXpXSV9yVFh3UlZFY0JKSi05QVlua1pscXFNblJnLVJuVlozUWhqM3VyOS1n?oc=5)
 
 ---
 
@@ -220,22 +188,6 @@ Source: [TODAY.com](https://news.google.com/rss/articles/CBMiqAFBVV95cUxORWFOX1F
 2026-10-20
 
 Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2b2RHXy1SeFVlbXdYZUNLM2dvX09CYlFLSTRDSTVoM280Y3JLVVhZZnZ3YmdPS0t5WTRodDNmRXJ1VUpfdUFiMmFiQ2phLWs3Nnl6ZlpjazhCVmVhcVNZ?oc=5)
-
----
-
-### [Kennedy’s Vaccine Plan Could Cause Surge in Hepatitis B, Study Finds - The New York Times](https://news.google.com/rss/articles/CBMif0FVX3lxTE4tNXRtMTJKV3R0R05tck0tbkMxNWd1TmQ0cW0ydm1LeVdxUFFaTmNWWDNvd2xaNGV2Znc1dEF0RHdCRnRQUHlWVjhPMk1abUN5Q250ZHBnYzVIUzdNSlBCZmZTQlJ2dXd5SUFHU1VGQjFCVG5KM0k3d291dnprdHc?oc=5)
-
-2026-10-19
-
-Source: [The New York Times](https://news.google.com/rss/articles/CBMif0FVX3lxTE4tNXRtMTJKV3R0R05tck0tbkMxNWd1TmQ0cW0ydm1LeVdxUFFaTmNWWDNvd2xaNGV2Znc1dEF0RHdCRnRQUHlWVjhPMk1abUN5Q250ZHBnYzVIUzdNSlBCZmZTQlJ2dXd5SUFHU1VGQjFCVG5KM0k3d291dnprdHc?oc=5)
-
----
-
-### [Column | 3 simple changes to your diet that can help you feel less tired - The Washington Post](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdXVfTlpKSDhvMHJXU21zV2FIbzBVR25pV0YwN0hDSHZIUkRsTG1Od0FrV3MxbEg0STU0VDR3bWNkem5IaEVOaTJFZDc0NkxWWXBuYjFDbWpvSVU4UWt1cjNZWWpHLUY5WmhUM19ZS3ZReHBzcEhaZGZyTjJOZU85VHcyekF1aEROOVRBZmJCYjkteW1ydFNMczRZOUtYazY4MWlZcG5Zbm8?oc=5)
-
-2026-10-19
-
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdXVfTlpKSDhvMHJXU21zV2FIbzBVR25pV0YwN0hDSHZIUkRsTG1Od0FrV3MxbEg0STU0VDR3bWNkem5IaEVOaTJFZDc0NkxWWXBuYjFDbWpvSVU4UWt1cjNZWWpHLUY5WmhUM19ZS3ZReHBzcEhaZGZyTjJOZU85VHcyekF1aEROOVRBZmJCYjkteW1ydFNMczRZOUtYazY4MWlZcG5Zbm8?oc=5)
 
 ---
 

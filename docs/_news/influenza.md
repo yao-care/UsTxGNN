@@ -3,7 +3,7 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 5 articles, 2 related drugs."
+description: "Health news about flu (influenza). 6 articles, 2 related drugs."
 permalink: /news/influenza/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/influenza/
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>5 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>6 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (5)
+## Related News (6)
 
 ### [Flu hospitalization rate at highest level for this time of year since 2010 season, but still relatively low - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMioAFBVV95cUxPbFNpNzNreUQwWFN6N1ptMVZkbndiWmVTa0FZVVZuZEdpOGRaYkMzU3ZPR1IzQzNnT1dwUmdqMGhHN2hqcHAzSnBvVnBlVUtSYkRRRnd5ODhWSU9nSWZyMUJlRUhBNDNRQ3BmdTFhVTZSc0J0SF9HbmMzcDJzb3NuZ2dwNVFDcTZ6MExmZVZ2R0VOaFo1TjRTSS1OdG1kRkFi0gGmAUFVX3lxTFBRMkZsSTJZb2RmbGJuR3VoWHJacTBybXNUWkhLWlRMNjl0VWtxMFctZnR0QTRGYkg5T1NfX3RKTnJJWVNZUkQxa3VxRy0yVVdwMjBXZ0NTNmlQRGlrQjdUcmdjYjduRlhKbjN6TElqX1k4Y3hMaWVmTVoyRlVTNU0yc09tcG5DNVE0dXY4NENPWl80clc2SzdNR25qTkJfa0JNZ2NtbUE?oc=5)
 
@@ -45,6 +45,14 @@ Source: [ABC News - Breaking News, Latest News and Videos](https://news.google.c
 2026-10-23
 
 Source: [ABC7 Los Angeles](https://news.google.com/rss/articles/CBMioAFBVV95cUxPWTR6dURXWVNDSVp2UEk2MjBNOFltYmdKTjM0dHFsekhQZnEtYldUaEdHWk9ZY1dMRnJuaUpFRjZWaTlCVGl6YmJUOHZuOEhRS01iR01FeGs4MnVYc2FJWWpPa1JTc0w3Q0VWODVkSkkwSlpXcDFTMVhGZzdsaGNlVTlac1dzSG1mSjgwRXB4UkF6NTdmcWpUYW5GRVVCWlV00gGmAUFVX3lxTFBUV190eE05ZEFxQUl3anBzSlVVQ3Jod2pTeXJLSzFEYWJUUGRnUjhUSHNkT21oU1pvZnhBT3ZLSjdyal9rVjVCLTUxMXRzQTJrR2pEQUpRYkpaTDlwa0o3T2R1RnVLU3AwRmZGMnZZRE1tOWdTQVRfcFpVcjRjbHNGS1FuMGYwUmd2TjMzd2lQV194N1U5M2RLZkRzWHNFRkYtNmViQ0E?oc=5)
+
+---
+
+### [Minutes Instead of Months: Breakthrough Technique Flushes Alzheimer’s Plaque From the Brain - Yahoo Health](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMmt5QmVFc3d2Z1RWYmhMRk8wRnBWQk55U2pIb1lWWGpyZW5QSFlPNlduUnRZU3B1ZS1EbENyY2l3NkRXTG5Lc2dUQlpkZkFPUmE4aDM5eE5rNU41VkEyMTJYNndpdHV4SjMyQjUxemZOblZMTnQ0N2VLSEtKX0lOVVczSWdGNGxYbnFlVy1Yd3NJNWNZeExlQ0hxa0VwMGEwVDZqWjdIX19MNGQzMGQ0bmdLNkZnZzZ1SlVZSmttcHAzb2RoOVNseW1JWDd0Uld4VmR3?oc=5)
+
+2026-10-23
+
+Source: [Yahoo Health](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMmt5QmVFc3d2Z1RWYmhMRk8wRnBWQk55U2pIb1lWWGpyZW5QSFlPNlduUnRZU3B1ZS1EbENyY2l3NkRXTG5Lc2dUQlpkZkFPUmE4aDM5eE5rNU41VkEyMTJYNndpdHV4SjMyQjUxemZOblZMTnQ0N2VLSEtKX0lOVVczSWdGNGxYbnFlVy1Yd3NJNWNZeExlQ0hxa0VwMGEwVDZqWjdIX19MNGQzMGQ0bmdLNkZnZzZ1SlVZSmttcHAzb2RoOVNseW1JWDd0Uld4VmR3?oc=5)
 
 ---
 

@@ -1,14 +1,38 @@
 {
   "source": "us_news",
-  "fetched_at": "2026-10-24T15:35:12.942065+00:00",
-  "total_fetched": 135,
-  "unique_count": 135,
-  "health_related_count": 55,
+  "fetched_at": "2026-10-24T20:25:47.985236+00:00",
+  "total_fetched": 128,
+  "unique_count": 128,
+  "health_related_count": 59,
   "news": [
+    {
+      "id": "6813d8f72eb3",
+      "title": "A bedtime staple could help curb painkiller dependence after surgery: study - New York Post",
+      "published": "2026-10-24T16:20:00+00:00",
+      "summary": "A bedtime staple could help curb painkiller dependence after surgery: study&nbsp;&nbsp;New York PostUse of sleep aids before surgery could help with recovery: Study&nbsp;&nbsp;NewsNationPopular sleep aids before surgery could prevent painkiller dependence later&nbsp;&nbsp;Fox NewsScoping review presented at ANESTHESIOLOGY 2026 links pre-surgery melatonin or Ambien to less post-op pain and lower short-term opioid use&nbsp;&nbsp;Tippah NewsPresurgical sleep medications linked to less pain and anxi",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQ29SbXdncEgzUndaNnJCM2ZHNEplNGxYUkcyUFZuX2pvQmNvRFV1akZ1T1RQUnFRS1FWWGJQRUZ0cnJLWmFaa08wZXZmVnpyWkZCTUt0S2JFMkJKeWJWOEpiQV8waEJQMTZ1TkJ6VlV2bjRQU3BTTkhleVpINDdIbXMwOWgyQk1oM2VMWlJtN0RJY0FaaEQ2THZwcWhsUjdDWHZXakpnMEttMjE3NFVpU0Z3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bf34a946cc3e",
+      "title": "Iowa’s cancer problem is scrambling the midterms - CNN",
+      "published": "2026-10-24T16:00:16+00:00",
+      "summary": "Iowa’s cancer problem is scrambling the midterms&nbsp;&nbsp;CNNOpinion | A False Campaign Cancer Scare&nbsp;&nbsp;WSJIowa's cancer problem gets a closer look&nbsp;&nbsp;Daily Gate CityEnvironmental risk factors for cancer presented during meeting in Toledo&nbsp;&nbsp;Tama-Toledo News ChroniclePresentation gives insight to cancer trends in Monona County&nbsp;&nbsp;Mapleton Press",
+      "sources": [
+        {
+          "name": "CNN",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yNlpsYjcwOS16V25FSnRTUV9BbWREVDlOcmdkYU5ScUx4ZTNNTF9RNUcxS2laLU1SZEx1dHVOVDQtUGJGMm1UZnJGblJqTEpWTXVJeEZEMjZWVGFTZVBtU0JaUkVLZExZWWdDTw?oc=5"
+        }
+      ]
+    },
     {
       "id": "583c3ce5f18d",
       "title": "The most important things to do to stay healthy while traveling - The Washington Post",
-      "published": "2026-10-24T15:02:44+00:00",
+      "published": "2026-10-24T16:00:00+00:00",
       "summary": "The most important things to do to stay healthy while traveling&nbsp;&nbsp;The Washington Post",
       "sources": [
         {
@@ -18,14 +42,62 @@
       ]
     },
     {
+      "id": "ee0b63269225",
+      "title": "Scientists uncover a surprising defense against Alzheimer’s risk - New York Post",
+      "published": "2026-10-24T14:52:00+00:00",
+      "summary": "Scientists uncover a surprising defense against Alzheimer’s risk&nbsp;&nbsp;New York PostHow to Lower the Likelihood of Alzheimer’s if You Have a Genetic Risk&nbsp;&nbsp;The New York TimesScientists are unraveling the biggest genetic risk factor for Alzheimer's&nbsp;&nbsp;Live ScienceScientists May Have Just Learned A Game-Changing Fact About The 'Dementia Gene'&nbsp;&nbsp;HuffPost UKEven In Your 90s, This Gene May Have A Say In Brain Health&nbsp;&nbsp;Yahoo Health",
+      "sources": [
+        {
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNnAtalFMOXhmNkdINHBxNDdWcG1WQzdwR0FmWFV3eF9kNHRqWVA1ZG45T1RDdENCTWREbUxsOVZ5Yzg4OWg2VEpBbG41MW1Mbm9kejFiZEk0UjQ3eEN2X3FRbkhhb1h6NmdTWHlZYmVmZ0Q3MWR2OWp6ZUhJT182ZUt1M3JtWWJmUUFFbTVBOE9FNlRBSVJ0RnFR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "66818b9f907f",
+      "title": "Study links regular tea drinking to 11% lower vascular disease risk - CBS 17",
+      "published": "2026-10-24T13:01:56+00:00",
+      "summary": "Study links regular tea drinking to 11% lower vascular disease risk&nbsp;&nbsp;CBS 17How you drink your tea could determine whether you gain or lose heart health benefits&nbsp;&nbsp;CNNCan drinking tea help protect against cardiovascular disease?&nbsp;&nbsp;Medical XpressDrinking seven cups of tea a day linked to better heart health&nbsp;&nbsp;The TimesWhy the Temperature of Your Tea Really Matters&nbsp;&nbsp;Newser",
+      "sources": [
+        {
+          "name": "CBS 17",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMGZuWTBZc0E0U2E3c0F6eDZEWEZVNkUtTWFNZjQ4NzJrQ2ZWS3RaSmltWHA3LUZuWHBXcEFhMzlSeTI0cmZVZVlQTEEweGJYdkFEMFhHdlpXV1VIWEYxTi1TWnJ1Ym9KUGROVEZLNkxrbERzV0pZYllqRDVVczZUMnZRUTNtZmhrMl9xQnJpYmVUNWNRWlYxOEhPSTRLZWdHNmVRc3ZGdDI3WVlP0gGyAUFVX3lxTE9ILWJrenotbS1sY3VDTHNpelp0N1VIQUJyMUkwZVFzZzNCdHhXck5xMVRBTjNHODJvV0h2dVVXcDNIN2tuWlh4a2ZOeS1VUW9kSHU5M1lOSFdZOEVzR0NQa2ViNVozVWhlbWZCZ0J6aXhYY2ZIdXRkaE9iUWxwYkpYTHkwMVJjRXlob0I1VngySW9DNTIxZG9SUTU1bUdTSThwaGliOFk3bVRaWk5lX1ZqSEE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "43749b22d6e6",
       "title": "Measles is a reckoning for RFK Jr. and MAHA - Salon.com",
       "published": "2026-10-24T13:00:28+00:00",
-      "summary": "Measles is a reckoning for RFK Jr. and MAHA&nbsp;&nbsp;Salon.comCOLUMN: Disease and death for a political cause&nbsp;&nbsp;pmg-ky2.comViewpoint: ‘Statistical murder’: Kennedy’s expanding record of “duplicity and mendacity”&nbsp;&nbsp;Genetic Literacy ProjectHeadlines RFK Jr Would Rather Voters Not See On Rising Toll Of Anti-Vax Agenda&nbsp;&nbsp;Protect Our Care",
+      "summary": "Measles is a reckoning for RFK Jr. and MAHA&nbsp;&nbsp;Salon.comCOLUMN: Disease and death for a political cause&nbsp;&nbsp;pmg-ky2.comHeadlines RFK Jr Would Rather Voters Not See On Rising Toll Of Anti-Vax Agenda&nbsp;&nbsp;Protect Our Care",
       "sources": [
         {
           "name": "Salon.com",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRVdhVVRPN1hEd3BIR041dTc1N0dIVEptMkRuQ3E5ZzNTemhjQ0EyQUYzS2FKWjNGb0NQSTRHcWJSZjFmLWdUTXVrOU5YUm9XV0V3Ym1zZ3c5OERuOXJrUFZOTmdKa2Y2Q0R1aVJzd3BFSzdRZlBBRzZnRmNla1Y0M25R?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1c9506517d29",
+      "title": "The last two countries with polio: Why Pakistan and Afghanistan are struggling to eliminate it - The Times of India",
+      "published": "2026-10-24T12:57:00+00:00",
+      "summary": "The last two countries with polio: Why Pakistan and Afghanistan are struggling to eliminate it&nbsp;&nbsp;The Times of IndiaAfghanistan urges polio vaccination as cases reach 42&nbsp;&nbsp;Ariana NewsUNICEF: Every Child Has the Right to Grow Up Healthy and Polio-Free&nbsp;&nbsp;8AM MediaFive-year-old Zahra among Afghanistan’s polio victims as cases rise&nbsp;&nbsp;Amu TVWHO reports six more polio cases in Afghanistan&nbsp;&nbsp;VOA - Voice of America English News",
+      "sources": [
+        {
+          "name": "The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVnh2R2tUeVhPQW9LWGZyYmN0V0I2cXNhVDhfSFhRblhfaVE2X3U2aXZmMHhtUFhaenlack1Gb3hpSjZ2VGtVMUlCdjJGRUFOMlNsOE1rZzFpR2x5Zjl6bm1CTXRaR3E5OGdOVnZJQzN1MFdiNnM0MjJ6V1hDako4U3dlSW5abDJKZXJFcTBWbVV2NXRqR25TNE1sQmUwQnlJQ0NkV2NmV1dMRmxRcHFVb2U5QXBFclZFY1pubVZ1cFdFRHJDc3hPdTlNNFJRUG85dlpadGpvSmkzYVN4TEJTQy1VcWtQaFJDMHpOMUd0UnRDbWNNV2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6f6d6252387d",
+      "title": "The Best Time to Eat Yogurt for Gut Health, According to Dietitians - EatingWell",
+      "published": "2026-10-24T12:30:00+00:00",
+      "summary": "The Best Time to Eat Yogurt for Gut Health, According to Dietitians&nbsp;&nbsp;EatingWell",
+      "sources": [
+        {
+          "name": "EatingWell",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83NmRRQ0E0cVlTSVcyWXNPeFpjN2pNekhYNmkwVS12Q2hWVTZVYTZwSEFWZ3RqQnRiRV83cjZkSXhrb1JnQTFQTU4tSlBiYmF3a1BMdjEwZ3ktWU1wa2lBb1RnN0huLXgzcE1nXzV1UXg5REdWM2stbjZvZGpkcG8?oc=5"
         }
       ]
     },
@@ -54,6 +126,18 @@
       ]
     },
     {
+      "id": "714f2f023471",
+      "title": "‘Mobility is key for longevity’ – here’s how to improve yours in 10 minutes - The Independent",
+      "published": "2026-10-24T05:00:00+00:00",
+      "summary": "‘Mobility is key for longevity’ – here’s how to improve yours in 10 minutes&nbsp;&nbsp;The IndependentElder-care researcher reveals 6 powerful clues older adults will live a long life&nbsp;&nbsp;UpworthyWhat your daily movements may say about your longevity, according to an expert&nbsp;&nbsp;KDRV94 Studies Reveal What Grip Strength Can Say About Your Health&nbsp;&nbsp;Yahoo HealthDoctors Say This Simple 10-Second Test Can Reveal a Lot About How You’re Aging&nbsp;&nbsp;Parade Magazine",
+      "sources": [
+        {
+          "name": "The Independent",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNlRvMm1oNGQ4Vi04STdLQUp6RTA1NGJPUDNPLXBQdWJGYzVEV3JWeFBqdWtEZ1Z3TmxIZlNkQ1VkS3FtUFlHM3ByaUpWU25fWEc5bHhzY1BDaldCYkc2Y2xoc2xsUURHaDQ3R0NTM3NJTjhyMk5hcFpoanRYTHRjY0FwRzVORGQyR3hhaHYwWGFPYjlEUm93SFZWVG5GWlBK?oc=5"
+        }
+      ]
+    },
+    {
       "id": "49ea62624247",
       "title": "Second raccoon tests positive for rabies in Los Angeles County, health officials say - KTLA",
       "published": "2026-10-24T02:20:51+00:00",
@@ -69,7 +153,7 @@
       "id": "dbe0eff09af3",
       "title": "Body clock link? New type of depression could affect millions - NewsNation",
       "published": "2026-10-24T01:03:23+00:00",
-      "summary": "Body clock link? New type of depression could affect millions&nbsp;&nbsp;NewsNationResearchers identify new “circadian” subtype of depression&nbsp;&nbsp;The University of SydneySleep Habits May Indicate a Type of Depression, Researchers Say&nbsp;&nbsp;The New York TimesAustralian researchers identify new subtype of depression linked to body clock disruptions&nbsp;&nbsp;The GuardianScientists Have Identified a New Type of Depression Linked to a Surprisingly Common Trigger&nbsp;&nbsp;Prevention",
+      "summary": "Body clock link? New type of depression could affect millions&nbsp;&nbsp;NewsNationResearchers identify new “circadian” subtype of depression&nbsp;&nbsp;The University of SydneySleep Habits May Indicate a Type of Depression, Researchers Say&nbsp;&nbsp;The New York TimesAustralian researchers identify new subtype of depression linked to body clock disruptions&nbsp;&nbsp;The GuardianNewly identified ‘circadian depression’ responds poorly to antidepressants&nbsp;&nbsp;New Scientist",
       "sources": [
         {
           "name": "NewsNation",
@@ -81,7 +165,7 @@
       "id": "5721e3083fda",
       "title": "WHO announces start of Ebola vaccine clinical trial in DR Congo - Al Jazeera",
       "published": "2026-10-24T00:42:46+00:00",
-      "summary": "WHO announces start of Ebola vaccine clinical trial in DR Congo&nbsp;&nbsp;Al JazeeraAfrica at risk of continent-wide Ebola crisis, health chief warns&nbsp;&nbsp;SemaforFirst participant vaccinated in pivotal Phase 2/3 Bundibugyo vaccine trial in DRC&nbsp;&nbsp;CEPINew Tumaini Ebola vaccine trial launches in Bunia as DRC struggles&nbsp;&nbsp;AfricanewsAMA and EMA issue joint guidance on Ebola vaccine development&nbsp;&nbsp;European Medicines Agency (EMA)",
+      "summary": "WHO announces start of Ebola vaccine clinical trial in DR Congo&nbsp;&nbsp;Al JazeeraFirst participant vaccinated in pivotal Phase 2/3 Bundibugyo vaccine trial in DRC&nbsp;&nbsp;CEPIAMA and EMA issue joint guidance on Ebola vaccine development&nbsp;&nbsp;European Medicines Agency (EMA)Ebola Vaccine Trials Begin In DRC As Death Toll Nears 4,700&nbsp;&nbsp;YahooAfrica CDC Blames Global Neglect for Lack of Bundibugyo Ebola Vaccine&nbsp;&nbsp;allAfrica.com",
       "sources": [
         {
           "name": "Al Jazeera",
@@ -102,10 +186,22 @@
       ]
     },
     {
+      "id": "207daffac30f",
+      "title": "NASA lays out plan for Artemis 3 moon-lander test flight — but when will it launch? - Space",
+      "published": "2026-10-23T22:55:43+00:00",
+      "summary": "NASA lays out plan for Artemis 3 moon-lander test flight — but when will it launch?&nbsp;&nbsp;SpaceNASA, Partners Accelerate Lander Development for 2028 Moon Missions&nbsp;&nbsp;NASA (.gov)NASA keeps options open to preserve 2028 Artemis lunar landing&nbsp;&nbsp;SpaceNewsNASA adopting Apollo’s urgency to build a moon base and land astronauts within two years&nbsp;&nbsp;AP NewsNASA updates lander plans for Moon landings, finally solves long-festering Orion issue&nbsp;&nbsp;Ars Technica",
+      "sources": [
+        {
+          "name": "Space",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ1NmM2ViY2w1MWN1UlJZYzhnZzRMcDhEOGFwSy1IMHkxemFVV25fRlhCbkxyUnFXcElLSkRUTVpyUEFXRXotbDlEMThmNy1HMzQ1Wlp3cElXbFhNRGJQWFF1UWppelRXMmZCbGVBak9kbEQxU1hzVkFTZkJNSjY5MXVSX2FFb2lxTzRuaGhwMGZvLTNpRjFIdVRpQmFlTTM0ZGVleG5YMXBiVXNvMHlZbDNYay1YV1hNVVNBYnVxRmsyZmhZNXNZ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "26cf3c795f5d",
       "title": "Geisinger facilities in Danville are warning patients of a potential measles outbreak - WNEP",
       "published": "2026-10-23T21:57:00+00:00",
-      "summary": "Geisinger facilities in Danville are warning patients of a potential measles outbreak&nbsp;&nbsp;WNEPMeadville Medical Center Issues Measles Exposure Alert&nbsp;&nbsp;Erie News NowUPDATE Geisinger reports possible measles exposure in Danville&nbsp;&nbsp;The Daily ItemPublic health alert: Potential measles exposure in Danville&nbsp;&nbsp;28/22 NewsGeisinger Warns Of Possible Measles Exposure In Danville |&nbsp;&nbsp;WKOK.com",
+      "summary": "Geisinger facilities in Danville are warning patients of a potential measles outbreak&nbsp;&nbsp;WNEPGeisinger issues a measles-exposure alert for two facilities in Pa.&nbsp;&nbsp;PennLive.comMeadville Medical Center Issues Measles Exposure Alert&nbsp;&nbsp;Erie News NowUPDATE Geisinger reports possible measles exposure in Danville&nbsp;&nbsp;The Daily ItemGeisinger reports possible measles exposure at Danville facilities&nbsp;&nbsp;The News-Item",
       "sources": [
         {
           "name": "WNEP",
@@ -122,6 +218,18 @@
         {
           "name": "ABC News - Breaking News, Latest News and Videos",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbFNpNzNreUQwWFN6N1ptMVZkbndiWmVTa0FZVVZuZEdpOGRaYkMzU3ZPR1IzQzNnT1dwUmdqMGhHN2hqcHAzSnBvVnBlVUtSYkRRRnd5ODhWSU9nSWZyMUJlRUhBNDNRQ3BmdTFhVTZSc0J0SF9HbmMzcDJzb3NuZ2dwNVFDcTZ6MExmZVZ2R0VOaFo1TjRTSS1OdG1kRkFi0gGmAUFVX3lxTFBRMkZsSTJZb2RmbGJuR3VoWHJacTBybXNUWkhLWlRMNjl0VWtxMFctZnR0QTRGYkg5T1NfX3RKTnJJWVNZUkQxa3VxRy0yVVdwMjBXZ0NTNmlQRGlrQjdUcmdjYjduRlhKbjN6TElqX1k4Y3hMaWVmTVoyRlVTNU0yc09tcG5DNVE0dXY4NENPWl80clc2SzdNR25qTkJfa0JNZ2NtbUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7d86b3567217",
+      "title": "2 active tuberculosis cases linked to San Francisco strip club - San Francisco Chronicle",
+      "published": "2026-10-23T20:05:45+00:00",
+      "summary": "2 active tuberculosis cases linked to San Francisco strip club&nbsp;&nbsp;San Francisco Chronicle2 active tuberculosis cases linked to San Francisco strip club, officials say&nbsp;&nbsp;NBC Bay AreaPotential TB cluster linked to SF strip club under investigation&nbsp;&nbsp;SFGATEDeadly Bacterial Disease Reportedly Traced Back to California Gentlemen's Club&nbsp;&nbsp;Wide Open CountryTwo Active TB Cases Tied to San Francisco's Crazy Horse Strip Club&nbsp;&nbsp;Hoodline",
+      "sources": [
+        {
+          "name": "San Francisco Chronicle",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdVlDazd4TXVCNEJkSlFvVS1QM09JcTktbjB5Y01lX3I3aUttc3h1bVRsV095MVdXU3B2THJGYXhuQnRUSWlERWlJME0yR0JDY2RlRXItZnNpUmVvMXVJYzYzZEhVbm1Cd2lqY19DU2hMcDNUYmlJc29xaUNEZ1RGRmVRMWZ3WHhUYnc?oc=5"
         }
       ]
     },
@@ -153,7 +261,7 @@
       "id": "5b2bcc2f43a4",
       "title": "First person infected with rare Shamonda virus: what we know - Nature",
       "published": "2026-10-23T18:10:05+00:00",
-      "summary": "First person infected with rare Shamonda virus: what we know&nbsp;&nbsp;NatureExplainer: What is Shamonda virus and what are the risks to humans and animals?&nbsp;&nbsp;ReutersFrance reports first human case of livestock virus Shamonda after patient dies&nbsp;&nbsp;CNNFirst Human Shamonda Virus Infection—What Happens When Animal Diseases Spread To People?&nbsp;&nbsp;ForbesShamonda virus detected in human for first time in France&nbsp;&nbsp;The Guardian",
+      "summary": "First person infected with rare Shamonda virus: what we know&nbsp;&nbsp;NatureWhat is Shamonda, the livestock virus found for the first time in a person in France?&nbsp;&nbsp;CNNExplainer: What is Shamonda virus and what are the risks to humans and animals?&nbsp;&nbsp;ReutersFirst human case of Shamonda virus detected in France, officials say&nbsp;&nbsp;BBCFirst Human Shamonda Virus Infection—What Happens When Animal Diseases Spread To People?&nbsp;&nbsp;Forbes",
       "sources": [
         {
           "name": "Nature",
@@ -165,7 +273,7 @@
       "id": "03558b2b55a5",
       "title": "Tiny Genetic Tweak From An Ancient Virus Might've Prevented Chimpanzees From Developing Brains Like Ours - ScienceAlert",
       "published": "2026-10-23T18:04:29+00:00",
-      "summary": "Tiny Genetic Tweak From An Ancient Virus Might've Prevented Chimpanzees From Developing Brains Like Ours&nbsp;&nbsp;ScienceAlertAn ancient virus in chimpanzee DNA switches off a gene that is active in humans&nbsp;&nbsp;Phys.orgWhy did humans’ brains surpass chimps’? A tiny foe might help explain it&nbsp;&nbsp;Science NewsThe Human Brain Owes Its Existence to a Prehistoric Pandemic&nbsp;&nbsp;Psychology TodayAncient viral DNA offers clues to why human and chimpanzee brains evolved differently&nbs",
+      "summary": "Tiny Genetic Tweak From An Ancient Virus Might've Prevented Chimpanzees From Developing Brains Like Ours&nbsp;&nbsp;ScienceAlertAn ancient virus in chimpanzee DNA switches off a gene that is active in humans&nbsp;&nbsp;Phys.orgThe Human Brain Owes Its Existence to a Prehistoric Pandemic&nbsp;&nbsp;Psychology TodayWhy did humans’ brains surpass chimps’? A tiny foe might help explain it&nbsp;&nbsp;Science NewsAncient Virus Silences Chimp Brain Gene&nbsp;&nbsp;Scientific Frontline",
       "sources": [
         {
           "name": "ScienceAlert",
@@ -174,26 +282,14 @@
       ]
     },
     {
-      "id": "106c57241ea0",
-      "title": "Hugely popular supplement your parents made you take doesn’t work: study - New York Post",
-      "published": "2026-10-23T17:32:00+00:00",
-      "summary": "Hugely popular supplement your parents made you take doesn’t work: study&nbsp;&nbsp;New York PostMillions take fish oil for brain health. A two-year study found no benefit&nbsp;&nbsp;Science DailyFish Oil Reached the Brain but Failed to Improve Memory in a Two-Year Clinical Trial&nbsp;&nbsp;GreaterGoodFish oil and Alzheimer’s prevention: What happened when researchers tested high-dose DHA for two years and&nbsp;&nbsp;The Economic Times",
+      "id": "3637f51cae43",
+      "title": "How cancers evade chemotherapy by entering a 'zombie-like state' - Medical Xpress",
+      "published": "2026-10-23T18:00:05+00:00",
+      "summary": "How cancers evade chemotherapy by entering a 'zombie-like state'&nbsp;&nbsp;Medical XpressSee more headlines & perspectives on Google News",
       "sources": [
         {
-          "name": "New York Post",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOc3plWEJiWWNjRUdfZjVYYnlIUy1HbkZfYjA4c1lFV3B1OFphZWl4RE5mbXdfMXhRelVVTG1ZYmZUTl9hQm40YkdWcXBDa25sbDFKdjBWeERBcy10Rm9rbTc1Nm9xWHBmeDJRdzczWHdXRF8yMC1DaHlhR2Y0VEtxSVJrWnRvMlB0VHZWeXBOV3Yzc05QNFpaVTNMNkRldDB3MzVv?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7a311e893c5d",
-      "title": "Minutes Instead of Months: Breakthrough Technique Flushes Alzheimer’s Plaque From the Brain - Yahoo Health",
-      "published": "2026-10-23T17:27:03+00:00",
-      "summary": "Minutes Instead of Months: Breakthrough Technique Flushes Alzheimer’s Plaque From the Brain&nbsp;&nbsp;Yahoo Health",
-      "sources": [
-        {
-          "name": "Yahoo Health",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMmt5QmVFc3d2Z1RWYmhMRk8wRnBWQk55U2pIb1lWWGpyZW5QSFlPNlduUnRZU3B1ZS1EbENyY2l3NkRXTG5Lc2dUQlpkZkFPUmE4aDM5eE5rNU41VkEyMTJYNndpdHV4SjMyQjUxemZOblZMTnQ0N2VLSEtKX0lOVVczSWdGNGxYbnFlVy1Yd3NJNWNZeExlQ0hxa0VwMGEwVDZqWjdIX19MNGQzMGQ0bmdLNkZnZzZ1SlVZSmttcHAzb2RoOVNseW1JWDd0Uld4VmR3?oc=5"
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS2FyRUthNEV1cnRNS1ZkYUhDejE0OGhSZ0dCdFVsRzdMaTlSWTBfZ2R6bzNNNWd1RTV5eXF0bXpXczdKQzZoQjlvRXFCSzlyV1R1NjBRQlI0b2VmVFFOTzR0TEgzaE1rVlFLM3NvWUhqby1SZ2M3TS05LXpHbTdyNV8zZ3NVZHNUaHdF?oc=5"
         }
       ]
     },
@@ -234,18 +330,6 @@
       ]
     },
     {
-      "id": "8124159ba9e2",
-      "title": "Taking this nutrient during pregnancy may boost kids’ IQ, study finds - KTLA",
-      "published": "2026-10-23T16:27:19+00:00",
-      "summary": "Taking this nutrient during pregnancy may boost kids’ IQ, study finds&nbsp;&nbsp;KTLAPrenatal supplement linked to improved child cognition and social behavior&nbsp;&nbsp;Medical XpressOne common nutrient during pregnancy may boost a child’s IQ&nbsp;&nbsp;Earth.comPrenatal Supplement Linked to 8-Point IQ Jump in Kids by Age 4, Study Finds&nbsp;&nbsp;StudyFinds",
-      "sources": [
-        {
-          "name": "KTLA",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb0VDcTFyRXo3U2FNOVRCOWJweVhiU1BBMHMwVjcxeVllVkRWOHZFbktCVkRyRWtSQzhGQVFNaktHMUttUDlxYTFOd2Q2TzNsQWlSMnNYUnhqdzBqVHFKaVNES1NvN1p2SEFkRHZOUEdYT2FuMUtHM0Rjak5TdDdGM3NDVUxrUzE5SERuX2kxZFNwQzhQ0gGaAUFVX3lxTE54Q3o5M1VYWFlTYnNPcko4dmp1UWtPWVB5QW1wand4bGMyaHMtcGwteVhvSDMzLTlsbGc0d1BSc2tHcnE5V3BLTHl0RHJ0NUMtZUxrM3QyMHhlUWt1ck15eU5qR2pjR0doanNsZTZ1dEFJOE1VVXBod1N1YUJ1Tm9sRTRUbEZTcnBlT3E3UVlBeVgyQ0RydGR6cXc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ef4cbb7ca675",
       "title": "Nearly 100 Students and Staff Sickened Due to Norovirus Outbreak at Kansas Elementary School - Yahoo News Singapore",
       "published": "2026-10-23T15:37:15+00:00",
@@ -261,7 +345,7 @@
       "id": "669c95c1541b",
       "title": "Children who eat more ultraprocessed foods show stronger brain responses to appetizing foods - Medical Xpress",
       "published": "2026-10-23T15:00:01+00:00",
-      "summary": "Children who eat more ultraprocessed foods show stronger brain responses to appetizing foods&nbsp;&nbsp;Medical XpressJunk food linked to ‘silent stroke’ by middle age&nbsp;&nbsp;The Seattle TimesUltraprocessed Foods Linked to Silent Brain Injury&nbsp;&nbsp;MedscapeAdults Who Ate the Most Ultra-Processed Food Showed Early Brain Damage in MRI Scans&nbsp;&nbsp;Everyday HealthIs Ultra-Processed Food Destroying Our Brains?&nbsp;&nbsp;Gideon M-K: Health Nerd",
+      "summary": "Children who eat more ultraprocessed foods show stronger brain responses to appetizing foods&nbsp;&nbsp;Medical XpressJunk food linked to ‘silent stroke’ by middle age&nbsp;&nbsp;The Seattle TimesUltra-Processed Foods Sensitize Children’s Brain Reward Circuits&nbsp;&nbsp;Neuroscience NewsUltraprocessed Foods Linked to Silent Brain Injury&nbsp;&nbsp;MedscapeIs Ultra-Processed Food Destroying Our Brains?&nbsp;&nbsp;Gideon M-K: Health Nerd",
       "sources": [
         {
           "name": "Medical Xpress",
@@ -273,23 +357,11 @@
       "id": "7ce0a795506a",
       "title": "The U.S.-Funded Plan To Kill Infants In Africa By Withholding Vaccines Has Been Thwarted - Defector",
       "published": "2026-10-23T14:46:00+00:00",
-      "summary": "The U.S.-Funded Plan To Kill Infants In Africa By Withholding Vaccines Has Been Thwarted&nbsp;&nbsp;DefectorControversial US-backed vaccine trial in African newborns halted&nbsp;&nbsp;The GuardianA Controversial Hepatitis B Vaccine Study Championed by RFK Jr. Is Axed After Widespread Backlash&nbsp;&nbsp;Rolling StoneUS-backed vaccine trial on babies canceled after international outcry&nbsp;&nbsp;Ars TechnicaOPINION | RFK Jr.’s push for anti-vaccine experiment on African babies was never a good i",
+      "summary": "The U.S.-Funded Plan To Kill Infants In Africa By Withholding Vaccines Has Been Thwarted&nbsp;&nbsp;DefectorOPINION | RFK Jr.’s push for anti-vaccine experiment on African babies was never a good idea&nbsp;&nbsp;MS NOWControversial US-backed vaccine trial in African newborns halted&nbsp;&nbsp;The GuardianA Controversial Hepatitis B Vaccine Study Championed by RFK Jr. Is Axed After Widespread Backlash&nbsp;&nbsp;Rolling StoneCops raid office of RFK Jr. allies planning “unethical” vaccine trial on",
       "sources": [
         {
           "name": "Defector",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMzFNMXNFb3JTWWh4cUU5Tk5la2Y1bFlqVEJlb1hEaDc4NEZuUzlnOGVnODM5ZXY2cTFWdkJNQ1Vjb0x5Qlo0RFFacmRvYXIybmlRQkRiM3Z4djNQU1MwY0lPZGJ4Q1BUQ0t5TTFtYmx5cjY5OUEwSFo2b2dLUEpOV2c0UFREYnhROGhsZmhrM25RWWg4SW1aVFpvaUxfeXljVktLNmpFSmxCbHJS?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "092dee0d19fa",
-      "title": "How you prepare a cup of tea can have drastic impacts on your heart health - New York Post",
-      "published": "2026-10-23T14:43:00+00:00",
-      "summary": "How you prepare a cup of tea can have drastic impacts on your heart health&nbsp;&nbsp;New York PostHow you drink your tea could determine whether you gain or lose heart health benefits&nbsp;&nbsp;CNNStudy links regular tea drinking to 11% lower vascular disease risk&nbsp;&nbsp;FOX8 WGHPCan drinking tea help protect against cardiovascular disease?&nbsp;&nbsp;Medical XpressRegular tea drinking linked to lower risk of stroke and heart disease&nbsp;&nbsp;Euronews.com",
-      "sources": [
-        {
-          "name": "New York Post",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUXhmMkZ1aWo2czgzeVRxcnpmQ1lVOFhzZFpvMHdxZW4zcmFKQllqa3VWZkVqMkRKMTMwNVJRV2NQWVNyUnJGek1BZzBmczJLQktsQ2tRZmhfTEdrOGdVTU1hbU93TDU4YlpmVFVJVUtYeHN6QXk2UC0wWjkydENBdmY0cWlaTlVITGpWN2IyNUYzUGdmLURUd2hFcDQ0U1k?oc=5"
         }
       ]
     },
@@ -309,7 +381,7 @@
       "id": "4bf82e31e8fa",
       "title": "Vegan-fed cats less often reported overweight in survey - Phys.org",
       "published": "2026-10-23T12:30:02+00:00",
-      "summary": "Vegan-fed cats less often reported overweight in survey&nbsp;&nbsp;Phys.orgNew research suggests vegan-fed cats may be less overweight&nbsp;&nbsp;The Des Moines RegisterStudy Finds Lower Rates of Overweight Among Vegan-Fed Cats&nbsp;&nbsp;IndyStarVegan Cats Had 34% Lower Odds Of Being Overweight, Study Finds&nbsp;&nbsp;StudyFinds",
+      "summary": "Vegan-fed cats less often reported overweight in survey&nbsp;&nbsp;Phys.orgCats on vegan diets show an unexpected weight advantage&nbsp;&nbsp;Earth.comNew research suggests vegan-fed cats may be less overweight&nbsp;&nbsp;The Des Moines RegisterVegan Cats Had 34% Lower Odds Of Being Overweight, Study Finds&nbsp;&nbsp;StudyFinds",
       "sources": [
         {
           "name": "Phys.org",
@@ -369,11 +441,23 @@
       "id": "90380492e7bf",
       "title": "More Than Half of People With This Serious Heart Health Risk Don’t Even Know They Have It, New Study Says - EatingWell",
       "published": "2026-10-23T04:36:40+00:00",
-      "summary": "More Than Half of People With This Serious Heart Health Risk Don’t Even Know They Have It, New Study Says&nbsp;&nbsp;EatingWellReading the current blood pressure guidelines&nbsp;&nbsp;Harvard HealthWhat doctors want patients to know about hypertension&nbsp;&nbsp;American Medical Association | AMANational Kidney Foundation Highlights New Blood Pressure Guidance Putting Kidney Health at the Forefront&nbsp;&nbsp;PR NewswireRaising Awareness and Lowering Blood Pressure&nbsp;&nbsp;Rush University Med",
+      "summary": "More Than Half of People With This Serious Heart Health Risk Don’t Even Know They Have It, New Study Says&nbsp;&nbsp;EatingWellWhat doctors want patients to know about hypertension&nbsp;&nbsp;American Medical Association | AMANational Kidney Foundation Highlights New Blood Pressure Guidance Putting Kidney Health at the Forefront&nbsp;&nbsp;PR NewswireRaising Awareness and Lowering Blood Pressure&nbsp;&nbsp;Rush University Medical Center",
       "sources": [
         {
           "name": "EatingWell",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9DVXhwLXhEOU5qV3hYOU9wU2FwTTFycE9CWFotdXZIdTZkNUxLNEFUR1hscGpJWk0zZUVLZElMWUtoTE5CWVJWRzhUdThSeWFid2V0TTdnMkp6ajhHRHY3Qy1xVlF5Q3RmOXI3YjNZbFh4SjI3bEYtdA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a75460ec1ab1",
+      "title": "Psilocybin reshapes brain connections through distinct cellular pathways - News-Medical",
+      "published": "2026-10-23T03:00:00+00:00",
+      "summary": "Psilocybin reshapes brain connections through distinct cellular pathways&nbsp;&nbsp;News-MedicalHow psilocybin reshapes brain circuits&nbsp;&nbsp;Medical XpressLSD speeds up brain waves and increases neural complexity, study finds&nbsp;&nbsp;News-MedicalLSD May Speed Up Brain Activity and Make it Fractal&nbsp;&nbsp;Nautilus | Science ConnectedBeneath psilocybin’s apparent brain chaos, scientists find signs of a hidden order&nbsp;&nbsp;PsyPost",
+      "sources": [
+        {
+          "name": "News-Medical",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMVhqeHpaSGRBZmljcFgtTWh6cGM3aThyS19UMEdTaVNWeWNRSUNfSjloVEVfWEk4VXNna1V4TWJEZ3hOelFHVldTdzRnT09fSkI4SXZ5bHZpQUJFVHpSWnM4Nmpkb0pwQWd3UlRLamtLLXVWVkdwb3FJZXoydDlzMDFLZWNFYXRhTlZWWE80emRTY0JlRU1NbjFFZTdYVlkydGJhNUFGRWVHTHFQWmtEakZvWTVVcWU0QU13YQ?oc=5"
         }
       ]
     },
@@ -438,14 +522,14 @@
       ]
     },
     {
-      "id": "17a20c34e50d",
-      "title": "These States Legalized Weed. More Heart Attacks Followed - Gizmodo",
-      "published": "2026-10-22T22:30:11+00:00",
-      "summary": "These States Legalized Weed. More Heart Attacks Followed&nbsp;&nbsp;GizmodoStudy links recreational cannabis legalization to rising heart attack admissions&nbsp;&nbsp;News-MedicalMarijuana legalization linked to troubling health trend in landmark new study&nbsp;&nbsp;New York PostSmoking or vaping cannabis, but not edibles, linked to need for more anesthesia during upper endoscopy, study suggests | Newswise&nbsp;&nbsp;NewswiseCannabis Users Had a 46% Higher Heart Attack Risk Around Surgery in a ",
+      "id": "b5c3088694d6",
+      "title": "Marijuana legalization linked to troubling health trend in landmark new study - New York Post",
+      "published": "2026-10-22T22:30:00+00:00",
+      "summary": "Marijuana legalization linked to troubling health trend in landmark new study&nbsp;&nbsp;New York PostStudy links recreational cannabis legalization to rising heart attack admissions&nbsp;&nbsp;News-MedicalMarijuana legalization tied to rise in heart hospitalizations, study finds&nbsp;&nbsp;USA TodayThese States Legalized Weed. More Heart Attacks Followed&nbsp;&nbsp;GizmodoSmoking or vaping cannabis, but not edibles, linked to need for more anesthesia during upper endoscopy, study suggests | New",
       "sources": [
         {
-          "name": "Gizmodo",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdHlSVE5DMjJ6cHNuT1A4aGZPdDFfdElNLTNqVXNQRldkYmNmZHhJMzJxa3JPMUdmRU1ZTEZlUmVkQTRTM0pWbHNTQVdMblNzcFgzUkFnMm1lT010cHJFWm80Y0VieE5jLWhDU0VtSEwxWTlLMkFONUhoVXF3QlZMNURGajFsT2R5YXBCc29zdw?oc=5"
+          "name": "New York Post",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQci12QVhHSnIyYUkyR0dqeFdHSXNfNkhUZHVtdThwS1FJY0phNUJJTS1ramM0c21OaWhpZU5oSWF4Yk9hUk94SmZ5OVdfaGZVVUxJTFh0b01RcU1QejY4Z1JubVZlVFE5Z293bFJBeGQ2cWM1TFZkb3paOHhVdnFqMGI3Nk1SUGVBSVdaQk5iNWdXd3MxXzhsb1ZpYXozbXdP?oc=5"
         }
       ]
     },
@@ -462,22 +546,10 @@
       ]
     },
     {
-      "id": "90628a233b0a",
-      "title": "A first for CRISPR: powerful prime editing alters DNA directly in the human body - Nature",
-      "published": "2026-10-22T20:11:34+00:00",
-      "summary": "A first for CRISPR: powerful prime editing alters DNA directly in the human body&nbsp;&nbsp;NatureScientists edit human DNA inside the body for the first time&nbsp;&nbsp;The IndependentNews: CMN Weekly (23 October 2026) - Your Weekly CRISPR Medicine News&nbsp;&nbsp;CRISPR Medicine NewsPrime Medicine launches first in-body prime editing trial for Wilson disease&nbsp;&nbsp;DongA SciencePrime Editing Rewrites DNA Inside a Patient’s Body for the First Time&nbsp;&nbsp;Technology Org",
-      "sources": [
-        {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sTVZ3VHhXTkJlelNLeUk3SFA5a0g2ZmJ6V05MWmk1d0s0SjJRU1VGR1I0bVFKckotanJVek1pUVR5ZDdkcEN4TG1rbXdDam84bWFOWUJ4dXlPS01xVjBr?oc=5"
-        }
-      ]
-    },
-    {
       "id": "6a8324de9032",
       "title": "Dementia risk may be linked to seemingly harmless daily habit, new research suggests - Fox News",
       "published": "2026-10-22T18:33:20+00:00",
-      "summary": "Dementia risk may be linked to seemingly harmless daily habit, new research suggests&nbsp;&nbsp;Fox NewsYour Accidental Daytime Naps Could Raise Your Dementia Risk by 39%, Study Finds&nbsp;&nbsp;PreventionFrequent napping linked to higher dementia risk, study finds&nbsp;&nbsp;WBAYNew study reveals daytime nap linked to increased chance of this disorder&nbsp;&nbsp;AL.comNapping and Dementia Risk; Autism Paper Concern; First NASCAR Driver With CTE&nbsp;&nbsp;MedPage Today",
+      "summary": "Dementia risk may be linked to seemingly harmless daily habit, new research suggests&nbsp;&nbsp;Fox NewsYour Accidental Daytime Naps Could Raise Your Dementia Risk by 39%, Study Finds&nbsp;&nbsp;PreventionFrequent napping linked to higher dementia risk, study finds&nbsp;&nbsp;WBAYIs your daily nap a sign of something more dire?&nbsp;&nbsp;The IndependentNapping and Dementia Risk; Autism Paper Concern; First NASCAR Driver With CTE&nbsp;&nbsp;MedPage Today",
       "sources": [
         {
           "name": "Fox News",
@@ -498,22 +570,10 @@
       ]
     },
     {
-      "id": "00348cc5b52e",
-      "title": "World's first round-trip mission to Mars has launched — and could be a 'transformative leap' for science - Live Science",
-      "published": "2026-10-22T16:46:36+00:00",
-      "summary": "World's first round-trip mission to Mars has launched — and could be a 'transformative leap' for science&nbsp;&nbsp;Live ScienceMars’ two tiny moons shouldn’t exist. A new mission has launched to reveal their secrets&nbsp;&nbsp;CNNJapan’s sample return mission to Phobos may also collect some Mars dust&nbsp;&nbsp;Science NewsJapan Launches Mission To Study Martian Moon&nbsp;&nbsp;HackadayHow did Mars get its moons? Japan’s MMX mission is about to find out&nbsp;&nbsp;Scientific American",
-      "sources": [
-        {
-          "name": "Live Science",
-          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcDNoTFlOMXowOHJnRVl2bkl5OXB1R08xSmc3UUl2LU4zdjNSalUwR0tDYzRMRWhPdnMxQVo0RTc3Sm5lT1hWcHYwU2xmM3BkUmVBYW5vcVJuc1Y3MGR3S0xHX1ZSMkhQQVNKZDExV0NRdllPVm9GUDNhc1dQcDNic0p3UFFid2VfYTZmbVN1dXBab01fNFRnQTd0cVNnbTA1TFhERnpYVDZqQzR3NnFRNVNCMW5lS2xxcjZFZVZIcEI0NnBIRm1MWU1lVmFzc0xDc21jaXNXVTRvaHVjUEJsZjBicDJfaTVnVHc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e7bb3e9f19ed",
       "title": "A remarkable new picture is emerging of how the air around us could harm the brain - The Washington Post",
       "published": "2026-10-22T16:00:00+00:00",
-      "summary": "A remarkable new picture is emerging of how the air around us could harm the brain&nbsp;&nbsp;The Washington PostStudy Links Indoor Air Pollution to Changes in Cognitive Performance&nbsp;&nbsp;Contracting BusinessAir Pollution In India: How Toxic Air May Affect Brain Health, Memory And Learning&nbsp;&nbsp;BrutAir pollution may be affecting more than the lungs and heart, with a g&nbsp;&nbsp;News of BahrainIndoor Air Pollution Slows the Brain Within Hours, Landmark Chamber Study Finds&nbsp;&nbsp;B",
+      "summary": "A remarkable new picture is emerging of how the air around us could harm the brain&nbsp;&nbsp;The Washington PostStudy Links Indoor Air Pollution to Changes in Cognitive Performance&nbsp;&nbsp;Contracting BusinessAir Pollution In India: How Toxic Air May Affect Brain Health, Memory And Learning&nbsp;&nbsp;BrutPollution may play role in harming aging brains — and more health headlines&nbsp;&nbsp;WGN-TVAir pollution may be affecting more than the lungs and heart, with a g&nbsp;&nbsp;News of Bahrai",
       "sources": [
         {
           "name": "The Washington Post",
@@ -546,14 +606,14 @@
       ]
     },
     {
-      "id": "7a76c906a293",
-      "title": "Scientists may have found the key to one of quantum physics’ biggest mysteries: superconductivity - The Brighter Side of News",
-      "published": "2026-10-21T20:07:00+00:00",
-      "summary": "Scientists may have found the key to one of quantum physics’ biggest mysteries: superconductivity&nbsp;&nbsp;The Brighter Side of NewsEvidence for spin-fluctuation-mediated superconductivity in electron-doped cuprates&nbsp;&nbsp;NatureResearchers closing the gaps on high-temperature superconductors&nbsp;&nbsp;New Atlas'Smoking gun' may help solve mystery of high-temperature superconductivity&nbsp;&nbsp;Phys.orgQuantum Leap For Canadian INRS High-temperature Materials Research&nbsp;&nbsp;Quantum ",
+      "id": "001b5601a3a3",
+      "title": "More daily steps over a long period linked to better attention and decision-making - Medical Xpress",
+      "published": "2026-10-21T13:50:02+00:00",
+      "summary": "More daily steps over a long period linked to better attention and decision-making&nbsp;&nbsp;Medical XpressColumn | The surprising way walking can benefit your brain&nbsp;&nbsp;The Washington PostWalking This Many Steps Per Day May Help Slow Cognitive Decline&nbsp;&nbsp;HuffPostJust 3,000 steps a day may help slow Alzheimer's, scientists find&nbsp;&nbsp;Science DailyFewer Than 5,000 Daily Steps Linked to 80% Higher Risk of Dementia, Parkinson’s Disease and Stroke, Study Finds&nbsp;&nbsp;헬스조선",
       "sources": [
         {
-          "name": "The Brighter Side of News",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQenZuVVQzLTlqSlVPVFBWdFhNT1c4VXhjem4xMngyV3Biam5QZmREaGlybmpEME1FUGkyckJaT3FDRWYtdHVsRUs5bGd1ZnF1RnBCaWV6bFBqRXMtc3VTR21XZ1Mxa3c5aVNmSkstWEowZ25FTHJuQnpFbkFfSXlQN2xVV0FiS2FCb1dOUU0wQ3FiWGQ3T0ZmRmFMY2dFRkNMaVFIcDJqVmJESTBYUVlHODhuNnJJSzFtZVc3Q1N5bzN2c2ZJdjk0S0o4QU80dUE?oc=5"
+          "name": "Medical Xpress",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWjJBVXowLUZ4RjBJa2JuSkY5R0x2aUFGbkVSNzRTc1VPVlVROW1jODNMYmFveS0xUFJoQVV1bjRlSXVPRTB5RlRXMy1rVmFGTm9tN3l2bXRaZVNidjNhelRQYlV4RXRZdndIRldGajFjekFTVzk5blZkWnFBZ2w5aHpIZlpnSWtCa1E?oc=5"
         }
       ]
     },
@@ -570,26 +630,14 @@
       ]
     },
     {
-      "id": "3ed8323600ad",
-      "title": "Forget 10,000 Steps — Walking 3,000 Steps A Day Can Protect Against Alzheimer's Disease - HuffPost",
-      "published": "2026-10-21T11:00:18+00:00",
-      "summary": "Forget 10,000 Steps — Walking 3,000 Steps A Day Can Protect Against Alzheimer's Disease&nbsp;&nbsp;HuffPostMore daily steps over a long period linked to better attention and decision-making&nbsp;&nbsp;Medical XpressColumn | The surprising way walking can benefit your brain&nbsp;&nbsp;The Washington PostJust 3,000 steps a day may help slow Alzheimer's, scientists find&nbsp;&nbsp;Science DailyFewer Than 5,000 Daily Steps Linked to 80% Higher Risk of Dementia, Parkinson’s Disease and Stroke, Study ",
+      "id": "b8a9a2187d8b",
+      "title": "Menopause is having its overdue moment - The Washington Post",
+      "published": "2026-10-21T07:00:00+00:00",
+      "summary": "Menopause is having its overdue moment&nbsp;&nbsp;The Washington PostADHD medications offer promise in managing menopausal brain fog&nbsp;&nbsp;Medical Xpress5 Menopause Research Updates That Could Shape Care&nbsp;&nbsp;AARPADHD Medications May Help Ease Menopausal Brain Fog&nbsp;&nbsp;HealthlineADHD Drugs May Alleviate Menopausal Brain Fog&nbsp;&nbsp;MedPage Today",
       "sources": [
         {
-          "name": "HuffPost",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd3VoSUFza0xCeVUtcFZyZzR6MUtaSzZyUnViNE5NdjVkdU5jajU3QlNhWE5XQ2NBbFFGdHdyVU1hQWFUOGkzVG9DWmNRZlJFNFZmc0NtVWJNazNXTXBUTWUxanpyOXlMS09DMkF3R2ZlOTY0NmpPNFF5U2p4TXBJMXJUYnBMOTJyajZVaWFmU0_SAZYBQVVfeXFMT2o4SUFZc2xlMHI1d1NCRWgxQlZsS2VVUVdLYURHamdQQnRudUZOOHk5MjhfdG0zZWhOUDFoQVlWU1JZMlRMSUs4ZzQ4ZVhxUzhNMWtPQVBjaEhwSnBUWlZYYUNoLTRwODBHWXpXSV9yVFh3UlZFY0JKSi05QVlua1pscXFNblJnLVJuVlozUWhqM3VyOS1n?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "81a3429da374",
-      "title": "How to Lower the Likelihood of Alzheimer’s if You Have a Genetic Risk - The New York Times",
-      "published": "2026-10-21T09:01:50+00:00",
-      "summary": "How to Lower the Likelihood of Alzheimer’s if You Have a Genetic Risk&nbsp;&nbsp;The New York TimesScientists are unraveling the biggest genetic risk factor for Alzheimer's&nbsp;&nbsp;Live ScienceScientists May Have Just Learned A Game-Changing Fact About The 'Dementia Gene'&nbsp;&nbsp;HuffPost UKHave you hit the genetic lottery? Investigating the role of ApoE in Alzheimer’s disease&nbsp;&nbsp;The Tufts DailyScientists uncover a surprising defense against Alzheimer’s risk&nbsp;&nbsp;New York Pos",
-      "sources": [
-        {
-          "name": "The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMjB3ZFhaQjFhWXRhdWFwU2RmUzFlQkJwSmJtcnMzZjZob2J6SVRLaW13S2JvQ3JTQVVNVmVlcGZHUTJyWmVkdkdCRHdOOGh6OUhXTkRfUzZMUHdqN3ozbG0tbXhZNjdmTGY0UjdLSF9GWXpwbGRDdHhfSFZqVkEwODdEU2U?oc=5"
+          "name": "The Washington Post",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTTA5Q1ozREpKQ3lGdG9tYWJDWTVhLVl6SlIxRE9OTnJqS3Zxc2xjNk4yREFNUjBZOGJiZEVhN3RQOENWSy1IbVBwcDZTMURacWFVRktZTFRNTEtvZmFldWRtQ3FWcjQzX2dJc1dIcGV3eEhxNnRtcmh1Ny0wUGs4WjdzbHRPXzhFR2I2cnc1Zw?oc=5"
         }
       ]
     },
@@ -606,18 +654,6 @@
       ]
     },
     {
-      "id": "c4c66e044774",
-      "title": "Doctors Reveal a 10-Second Balance Test to Assess Your Aging Health - AOL.com",
-      "published": "2026-10-20T18:50:00+00:00",
-      "summary": "Doctors Reveal a 10-Second Balance Test to Assess Your Aging Health&nbsp;&nbsp;AOL.comElder-care researcher reveals 6 powerful clues older adults will live a long life&nbsp;&nbsp;Upworthy‘Mobility is key for longevity’ – here’s how to improve yours in 10 minutes&nbsp;&nbsp;The IndependentWhat your daily movements may say about your longevity, according to an expert&nbsp;&nbsp;KDRV94 Studies Reveal What Grip Strength Can Say About Your Health&nbsp;&nbsp;Yahoo Health",
-      "sources": [
-        {
-          "name": "AOL.com",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVTBQcjJHSm9DOGxfaG1UWUJoTnZjWGt5YXlZU1dqOEhOekVGUmdYazVHbTJRQTBrLWFQWm9xVWJYcmJ4OVlJMW9Jc0RtVVFqakNZYnhTdElpc1lRWUxnXy1IWmZfaEV6UXZpQzNiUFdfUXE1Z201dVpPVUw3eHZFSlVn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "41998b259454",
       "title": "4 Osteoporosis Symptoms a Doctor Monitors in Herself and the ‘Critical Window’ for Preventing Bone Loss - TODAY.com",
       "published": "2026-10-20T15:28:49+00:00",
@@ -630,10 +666,22 @@
       ]
     },
     {
+      "id": "926d76036781",
+      "title": "Cardiologists Reveal The Overlooked Signs Of Heart Disease They Wish Everyone Would Know - HuffPost",
+      "published": "2026-10-20T12:49:47+00:00",
+      "summary": "Cardiologists Reveal The Overlooked Signs Of Heart Disease They Wish Everyone Would Know&nbsp;&nbsp;HuffPost",
+      "sources": [
+        {
+          "name": "HuffPost",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaEUzbnN4VS1BT2Jqc3hKbDRubjBOUXV5c0tQdXNhQktjMmlXTWlTV3ZuenJnZmJGVFhjSWxaMGtWYWRNUFRXNzlYWldUS05BZ2NreTlSLWZOTTMzaElNUm0xelEzOWZlNnluRU5SOThjYjZ2Z1J4MHJsOFloeEJUbTF6ZWYxbmFzRklPRVZiNmJSSldIYm1kVWllMlFSNFZRbEUxS2Zn0gGrAUFVX3lxTE5QbTFubm9FTFBwNVZGVnZPdjFNbm1JY2xjZjVPWU9feGJyMHJ1dmpCMGdRcDViMGE0LUpINDhRanVjNml0ZXVkUnhBM3NyQVhRRjRMV3dsbkFWRTkwdWxPbTRjWnpNVmVKNkdrZFpPZDNOZ05CNFNfRmRmcGFab1ZUYTMyTHBYOWozTEFDNXpkY0xFMjJHVGVxN0lzcVJyVmkzZWg3ZExIczk0VQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "8efc278c31fd",
       "title": "‘Super-drug’ 10 times stronger than fentanyl linked to deaths across multiple states - Fox News",
       "published": "2026-10-20T10:00:25+00:00",
-      "summary": "‘Super-drug’ 10 times stronger than fentanyl linked to deaths across multiple states&nbsp;&nbsp;Fox NewsCychlorphine detected in Ohio. How can Ohio State students stay safe?&nbsp;&nbsp;The LanternDrug Czar to Newsmax: Strong New Opioid From China&nbsp;&nbsp;YahooUHW officials warn MSU students about synthetic opioid cychlorphine&nbsp;&nbsp;The State NewsArkansas overdose deaths fall, but new deadly opioid found&nbsp;&nbsp;Axios",
+      "summary": "‘Super-drug’ 10 times stronger than fentanyl linked to deaths across multiple states&nbsp;&nbsp;Fox NewsOfficials warn of powerful opioid more potent than fentanyl&nbsp;&nbsp;KOMU 8Cychlorphine detected in Ohio. How can Ohio State students stay safe?&nbsp;&nbsp;The LanternWhat is cychlorphine, the opioid said to be 10 times more dangerous than fentanyl?&nbsp;&nbsp;WMURUHW officials warn MSU students about synthetic opioid cychlorphine&nbsp;&nbsp;The State News",
       "sources": [
         {
           "name": "Fox News",
@@ -642,14 +690,14 @@
       ]
     },
     {
-      "id": "72d6b49c30c0",
-      "title": "Cortex-wide imaging in naturally behaving mice with 1-gram wireless mesoscopes - Nature",
-      "published": "2026-10-20T00:59:25+00:00",
-      "summary": "Cortex-wide imaging in naturally behaving mice with 1-gram wireless mesoscopes&nbsp;&nbsp;NatureChinese scientists develop world’s lightest 1-gram wireless mesoscale microscope, a new tool for neuroscience research and BCI research&nbsp;&nbsp;Global TimesChina builds the world’s smallest wearable brain monitor with a cortex-wide view&nbsp;&nbsp;South China Morning PostTsinghua researchers develop ultra-light brain monitor for neuroscience&nbsp;&nbsp;Mid-DayChina creates 1-gram brain monitor for ",
+      "id": "2072ff15961b",
+      "title": "Japan launches spacecraft to mysterious moons of Mars in a bold mission to bring home soil samples - AP News",
+      "published": "2026-10-20T04:20:00+00:00",
+      "summary": "Japan launches spacecraft to mysterious moons of Mars in a bold mission to bring home soil samples&nbsp;&nbsp;AP NewsMars’ two tiny moons shouldn’t exist. A new mission has launched to reveal their secrets&nbsp;&nbsp;CNNJapan Launches Mission To Study Martian Moon&nbsp;&nbsp;HackadayJAXA's Martian Moons eXploration Mission is on its Way to Mars and Phobos&nbsp;&nbsp;Universe TodayHow did Mars get its moons? Japan’s MMX mission is about to find out&nbsp;&nbsp;Scientific American",
       "sources": [
         {
-          "name": "Nature",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2b2RHXy1SeFVlbXdYZUNLM2dvX09CYlFLSTRDSTVoM280Y3JLVVhZZnZ3YmdPS0t5WTRodDNmRXJ1VUpfdUFiMmFiQ2phLWs3Nnl6ZlpjazhCVmVhcVNZ?oc=5"
+          "name": "AP News",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbThaWjFtd3FZVjVKb2hIcEpITUZlclloelM2TE51a094eTlCQlF4RDllSzM5bjNmejZuNGxZUnVMNjhuMFVEXzFITkxNblNQaUV2M3F6NmJOWnE2NWlZcUVYNU11dEFmS0l1LTFjUi1sR09ydHVsY0YyZkxlamk2OHhOTEo5QURpNGpr?oc=5"
         }
       ]
     },

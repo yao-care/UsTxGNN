@@ -3,7 +3,7 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 5 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 4 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/inflammatory-bowel-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>5 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>4 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,7 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (5)
+## Related News (4)
 
 ### [Diagnostic test could help doctors refine prostate cancer treatment - Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxPWFdWSEFNQ0NENUt4V2xFUVY0SW5JTy14TGM4TGpfbVRiZHA0Ym54bEphc0FJaXp5OXZDNmNzWWFaQmdlTS1HT3lVSE5hSUd5cWpZSUF6OXpvM3k2dmxwdEZSYTdndkZzQ3h4SW44ZjVrYTlOOGt4OHBpQU5NVWVOYmdnTFFVcWdYTHRPZ3hB?oc=5)
 
@@ -57,14 +57,6 @@ Source: [STAT](https://news.google.com/rss/articles/CBMipgFBVV95cUxOR0lVTG5XZEFk
 2026-10-22
 
 Source: [BuzzFeed](https://news.google.com/rss/articles/CBMikAFBVV95cUxOMEpjY19DZzVLNy1oUFVvaGhILUxWX2NxMjlyTDhvVUpIaXIyREdlYWZoWVdNc0ZfR1JKeDRwTFBZZzJwUW01eGZRTHBEVG9YTUo4ZU9WN05hclpvVmZzMjFjaTZrQVRXdFhCMVhnOGtobEZlemJzR1M5UC15MmJidXN5UjdibEFheUZCQ3B6YWg?oc=5)
-
----
-
-### [Scientists may have found the key to one of quantum physics’ biggest mysteries: superconductivity - The Brighter Side of News](https://news.google.com/rss/articles/CBMizwFBVV95cUxQenZuVVQzLTlqSlVPVFBWdFhNT1c4VXhjem4xMngyV3Biam5QZmREaGlybmpEME1FUGkyckJaT3FDRWYtdHVsRUs5bGd1ZnF1RnBCaWV6bFBqRXMtc3VTR21XZ1Mxa3c5aVNmSkstWEowZ25FTHJuQnpFbkFfSXlQN2xVV0FiS2FCb1dOUU0wQ3FiWGQ3T0ZmRmFMY2dFRkNMaVFIcDJqVmJESTBYUVlHODhuNnJJSzFtZVc3Q1N5bzN2c2ZJdjk0S0o4QU80dUE?oc=5)
-
-2026-10-21
-
-Source: [The Brighter Side of News](https://news.google.com/rss/articles/CBMizwFBVV95cUxQenZuVVQzLTlqSlVPVFBWdFhNT1c4VXhjem4xMngyV3Biam5QZmREaGlybmpEME1FUGkyckJaT3FDRWYtdHVsRUs5bGd1ZnF1RnBCaWV6bFBqRXMtc3VTR21XZ1Mxa3c5aVNmSkstWEowZ25FTHJuQnpFbkFfSXlQN2xVV0FiS2FCb1dOUU0wQ3FiWGQ3T0ZmRmFMY2dFRkNMaVFIcDJqVmJESTBYUVlHODhuNnJJSzFtZVc3Q1N5bzN2c2ZJdjk0S0o4QU80dUE?oc=5)
 
 ---
 

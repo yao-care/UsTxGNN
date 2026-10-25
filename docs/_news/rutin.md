@@ -14,7 +14,7 @@ permalink: /news/rutin/
 ---
 
 <p class="key-answer" data-question="What news is there about Rutin?">
-<strong>Rutin</strong> currently has <strong>6 news articles</strong>, with 1 predicted indications.
+<strong>Rutin</strong> currently has <strong>5 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,15 @@ This page combines the AI-predicted indications for Rutin with the latest health
 <p><a href="{{ '/drugs/rutin/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (5)
+
+### [Should you get a flu shot now? What we know about this year's dominant virus](https://news.google.com/rss/articles/CBMieEFVX3lxTE11TnRTMlY1SE0tX3lHenJzMWhyUTRPb2ZocGwzTnNFeTRPX1lpUDNTeHZpVWdGMktXR3JmZHA1cTFmeXRwclFqV1FQNHFNY1JJWFREOWw2bWJteXF5ZWNmT0FlQXF5TlBCVXBobTJHYzUtM2dhYUxWSA?oc=5)
+
+2026-10-25 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">flu</span> <span class="news-indication-tag">UC</span>
+
+Source: [Newsweek](https://news.google.com/rss/articles/CBMieEFVX3lxTE11TnRTMlY1SE0tX3lHenJzMWhyUTRPb2ZocGwzTnNFeTRPX1lpUDNTeHZpVWdGMktXR3JmZHA1cTFmeXRwclFqV1FQNHFNY1JJWFREOWw2bWJteXF5ZWNmT0FlQXF5TlBCVXBobTJHYzUtM2dhYUxWSA?oc=5)
+
+---
 
 ### [Triple-action weekly weight-loss drug reduces sleep apnea in two late-stage trials - Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxNV1BKaWRDVWlYUEN4Q21XajNsOVJGWmVFR0F4dlMyUjRSMEdWeUdzR093X2lsWU1rOGk1dXBvWVRJdnhIR0lYY1NpR0JQQjk2eWhMbDhsSFRGbUh4dHllNXgxclpxUGlYeWxUNGQ0MlU1emdSV3Y4TjduaEFBY0w0dkhn?oc=5)
 
@@ -44,25 +52,9 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxNV1
 
 ### [The Products Doctors Used To Handle Their Menopause Symptoms](https://news.google.com/rss/articles/CBMiowFBVV95cUxNcW42R3F1RzVYc1BRMnFLSVB5amhnbjZiQ2hrcWdhc01QbzE2YTRMZjFhekFld1dKdkxtOGFpNUZkaV9GRjZMb1dicWpmUk8tUE9mbjVPcmFCRDM4VmhpTnJWTmVsSm1QODM0YVNrLVlqeTZFa21NRTlOazM1VUNBVllHTHNTMlVnTEhOTmFfME5LUElnRF9IR3dMOTdRbTlCcEZJ0gGoAUFVX3lxTE85SW5wcjE0ZXh6VzBHakcyMW5xbEV4NDhNYUpRU1lTNkM5TlpXbWk1c3Q1alZWVDdITFpKMXZRQ1hYZlBpVzIzdzdXbG9xRXlFclhXUVRQdHlYcGVpTmZ5RVFyaVdLVFJXNVNHTmpJYmRzLWsyamVaczJ5dW1MZVIwWEFOUWthbVkzQ2hpT1BqWWIwUUZ3SktWZGc5WlVOMXFPbzMwVnI1cw?oc=5)
 
-2026-10-24 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+2026-10-24 <span class="news-indication-tag">UC</span>
 
 Source: [HuffPost](https://news.google.com/rss/articles/CBMiowFBVV95cUxNcW42R3F1RzVYc1BRMnFLSVB5amhnbjZiQ2hrcWdhc01QbzE2YTRMZjFhekFld1dKdkxtOGFpNUZkaV9GRjZMb1dicWpmUk8tUE9mbjVPcmFCRDM4VmhpTnJWTmVsSm1QODM0YVNrLVlqeTZFa21NRTlOazM1VUNBVllHTHNTMlVnTEhOTmFfME5LUElnRF9IR3dMOTdRbTlCcEZJ0gGoAUFVX3lxTE85SW5wcjE0ZXh6VzBHakcyMW5xbEV4NDhNYUpRU1lTNkM5TlpXbWk1c3Q1alZWVDdITFpKMXZRQ1hYZlBpVzIzdzdXbG9xRXlFclhXUVRQdHlYcGVpTmZ5RVFyaVdLVFJXNVNHTmpJYmRzLWsyamVaczJ5dW1MZVIwWEFOUWthbVkzQ2hpT1BqWWIwUUZ3SktWZGc5WlVOMXFPbzMwVnI1cw?oc=5)
-
----
-
-### [Diagnostic test could help doctors refine prostate cancer treatment - Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxPWFdWSEFNQ0NENUt4V2xFUVY0SW5JTy14TGM4TGpfbVRiZHA0Ym54bEphc0FJaXp5OXZDNmNzWWFaQmdlTS1HT3lVSE5hSUd5cWpZSUF6OXpvM3k2dmxwdEZSYTdndkZzQ3h4SW44ZjVrYTlOOGt4OHBpQU5NVWVOYmdnTFFVcWdYTHRPZ3hB?oc=5)
-
-2026-10-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxPWFdWSEFNQ0NENUt4V2xFUVY0SW5JTy14TGM4TGpfbVRiZHA0Ym54bEphc0FJaXp5OXZDNmNzWWFaQmdlTS1HT3lVSE5hSUd5cWpZSUF6OXpvM3k2dmxwdEZSYTdndkZzQ3h4SW44ZjVrYTlOOGt4OHBpQU5NVWVOYmdnTFFVcWdYTHRPZ3hB?oc=5)
-
----
-
-### [The top​ 5 cause​s of lung cancer in non-smokers​ - and how to limit your risk - The Independent](https://news.google.com/rss/articles/CBMijwFBVV95cUxPb2NLZW5xbXlSRExiXzVEaEl4RW1KZEUwQnB6LTZJUFE4aTN4UldnZWpNTkV0Q3M5MTByWWtOM2hYQUJDTHl3bFFBLVJEZHFYWWZTeVpYTnlPZl9RMUp4MFFrNjB3RVctajRBNTljQ1loV2V6OTdMTXc4WUZ1cXpOSWVaQk40N0NlQncyYUhEYw?oc=5)
-
-2026-10-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [The Independent](https://news.google.com/rss/articles/CBMijwFBVV95cUxPb2NLZW5xbXlSRExiXzVEaEl4RW1KZEUwQnB6LTZJUFE4aTN4UldnZWpNTkV0Q3M5MTByWWtOM2hYQUJDTHl3bFFBLVJEZHFYWWZTeVpYTnlPZl9RMUp4MFFrNjB3RVctajRBNTljQ1loV2V6OTdMTXc4WUZ1cXpOSWVaQk40N0NlQncyYUhEYw?oc=5)
 
 ---
 
@@ -74,11 +66,11 @@ Source: [CBC](https://news.google.com/rss/articles/CBMieEFVX3lxTFBnSnVOX29GMUlfU
 
 ---
 
-### [Musk disputes NASA safety panel's lunar launch estimates - The Register](https://news.google.com/rss/articles/CBMirwFBVV95cUxPZnVual9GYzA2NnYyVy1nX1l6RGNvZkx3R1FKSTFvdzJqVWRZbmROelNrRVFNZjVhQksyM1J5RE9vbUZ0Tzg3MHBYdnJsZE55LWJDdG40ZFNMSDh4TS1iLTFIVzZtRWxEYkd5a1Y2R2h5WWJ2eHJJWFFlSEZsZm9QcWx2bkJNLXE0QzlWZ0p1aUZHSEJ1ZmU2V25ydUdJMUM5dDFzYndJY0Yyc0VDeklF?oc=5)
+### [Beyond cigarettes: Uncovering the causes of lung cancer in nonsmokers - The Washington Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxNd1dJVFd0X0lOTldCT2ZGNk83ajctdE12dmdodndXLUVnNWlPd2RzQjBZRV9iVFQzZFdROGFsSW5wMGthTFBVdHdlT0FxT2d6d191aUxDSmxzby02RlFmUGFfb1FhQ0RBUW9ERmc0cGUyQjgzaV8zREV0UDluVVBuZDdnNzVGQkR6TG1IREZpNzdrUlBoRU9rSzZZMVY0UWtpTFh2TV9BSXI2aUhU?oc=5)
 
-2026-10-23 <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-10-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
-Source: [The Register](https://news.google.com/rss/articles/CBMirwFBVV95cUxPZnVual9GYzA2NnYyVy1nX1l6RGNvZkx3R1FKSTFvdzJqVWRZbmROelNrRVFNZjVhQksyM1J5RE9vbUZ0Tzg3MHBYdnJsZE55LWJDdG40ZFNMSDh4TS1iLTFIVzZtRWxEYkd5a1Y2R2h5WWJ2eHJJWFFlSEZsZm9QcWx2bkJNLXE0QzlWZ0p1aUZHSEJ1ZmU2V25ydUdJMUM5dDFzYndJY0Yyc0VDeklF?oc=5)
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxNd1dJVFd0X0lOTldCT2ZGNk83ajctdE12dmdodndXLUVnNWlPd2RzQjBZRV9iVFQzZFdROGFsSW5wMGthTFBVdHdlT0FxT2d6d191aUxDSmxzby02RlFmUGFfb1FhQ0RBUW9ERmc0cGUyQjgzaV8zREV0UDluVVBuZDdnNzVGQkR6TG1IREZpNzdrUlBoRU9rSzZZMVY0UWtpTFh2TV9BSXI2aUhU?oc=5)
 
 ---
 

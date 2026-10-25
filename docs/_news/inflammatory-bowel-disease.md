@@ -3,7 +3,7 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 6 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 5 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/inflammatory-bowel-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>6 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>5 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (6)
+## Related News (5)
+
+### [Should you get a flu shot now? What we know about this year's dominant virus](https://news.google.com/rss/articles/CBMieEFVX3lxTE11TnRTMlY1SE0tX3lHenJzMWhyUTRPb2ZocGwzTnNFeTRPX1lpUDNTeHZpVWdGMktXR3JmZHA1cTFmeXRwclFqV1FQNHFNY1JJWFREOWw2bWJteXF5ZWNmT0FlQXF5TlBCVXBobTJHYzUtM2dhYUxWSA?oc=5)
+
+2026-10-25
+
+Source: [Newsweek](https://news.google.com/rss/articles/CBMieEFVX3lxTE11TnRTMlY1SE0tX3lHenJzMWhyUTRPb2ZocGwzTnNFeTRPX1lpUDNTeHZpVWdGMktXR3JmZHA1cTFmeXRwclFqV1FQNHFNY1JJWFREOWw2bWJteXF5ZWNmT0FlQXF5TlBCVXBobTJHYzUtM2dhYUxWSA?oc=5)
+
+---
 
 ### [Triple-action weekly weight-loss drug reduces sleep apnea in two late-stage trials - Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxNV1BKaWRDVWlYUEN4Q21XajNsOVJGWmVFR0F4dlMyUjRSMEdWeUdzR093X2lsWU1rOGk1dXBvWVRJdnhIR0lYY1NpR0JQQjk2eWhMbDhsSFRGbUh4dHllNXgxclpxUGlYeWxUNGQ0MlU1emdSV3Y4TjduaEFBY0w0dkhn?oc=5)
 
@@ -52,22 +60,6 @@ Source: [HuffPost](https://news.google.com/rss/articles/CBMiowFBVV95cUxNcW42R3F1
 
 ---
 
-### [Diagnostic test could help doctors refine prostate cancer treatment - Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxPWFdWSEFNQ0NENUt4V2xFUVY0SW5JTy14TGM4TGpfbVRiZHA0Ym54bEphc0FJaXp5OXZDNmNzWWFaQmdlTS1HT3lVSE5hSUd5cWpZSUF6OXpvM3k2dmxwdEZSYTdndkZzQ3h4SW44ZjVrYTlOOGt4OHBpQU5NVWVOYmdnTFFVcWdYTHRPZ3hB?oc=5)
-
-2026-10-24
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxPWFdWSEFNQ0NENUt4V2xFUVY0SW5JTy14TGM4TGpfbVRiZHA0Ym54bEphc0FJaXp5OXZDNmNzWWFaQmdlTS1HT3lVSE5hSUd5cWpZSUF6OXpvM3k2dmxwdEZSYTdndkZzQ3h4SW44ZjVrYTlOOGt4OHBpQU5NVWVOYmdnTFFVcWdYTHRPZ3hB?oc=5)
-
----
-
-### [The top​ 5 cause​s of lung cancer in non-smokers​ - and how to limit your risk - The Independent](https://news.google.com/rss/articles/CBMijwFBVV95cUxPb2NLZW5xbXlSRExiXzVEaEl4RW1KZEUwQnB6LTZJUFE4aTN4UldnZWpNTkV0Q3M5MTByWWtOM2hYQUJDTHl3bFFBLVJEZHFYWWZTeVpYTnlPZl9RMUp4MFFrNjB3RVctajRBNTljQ1loV2V6OTdMTXc4WUZ1cXpOSWVaQk40N0NlQncyYUhEYw?oc=5)
-
-2026-10-23
-
-Source: [The Independent](https://news.google.com/rss/articles/CBMijwFBVV95cUxPb2NLZW5xbXlSRExiXzVEaEl4RW1KZEUwQnB6LTZJUFE4aTN4UldnZWpNTkV0Q3M5MTByWWtOM2hYQUJDTHl3bFFBLVJEZHFYWWZTeVpYTnlPZl9RMUp4MFFrNjB3RVctajRBNTljQ1loV2V6OTdMTXc4WUZ1cXpOSWVaQk40N0NlQncyYUhEYw?oc=5)
-
----
-
 ### [Scientists put a dying coral next to a healthy one — and watched it heal before their eyes](https://news.google.com/rss/articles/CBMieEFVX3lxTFBnSnVOX29GMUlfUlhwN1d6TEQ4WDNJRTVJMXRrVk1ESjA2VHVHbnVJUHBPc2RjVk1Wd2tIeEZyWGJ1MGhlbldpVDZsUjhlejBVdGJQb1drejBHT3ZFcExTYVpURVk3ZTl2bTlkaUZyTWRseGtORW1ZVQ?oc=5)
 
 2026-10-23
@@ -76,11 +68,11 @@ Source: [CBC](https://news.google.com/rss/articles/CBMieEFVX3lxTFBnSnVOX29GMUlfU
 
 ---
 
-### [Musk disputes NASA safety panel's lunar launch estimates - The Register](https://news.google.com/rss/articles/CBMirwFBVV95cUxPZnVual9GYzA2NnYyVy1nX1l6RGNvZkx3R1FKSTFvdzJqVWRZbmROelNrRVFNZjVhQksyM1J5RE9vbUZ0Tzg3MHBYdnJsZE55LWJDdG40ZFNMSDh4TS1iLTFIVzZtRWxEYkd5a1Y2R2h5WWJ2eHJJWFFlSEZsZm9QcWx2bkJNLXE0QzlWZ0p1aUZHSEJ1ZmU2V25ydUdJMUM5dDFzYndJY0Yyc0VDeklF?oc=5)
+### [Beyond cigarettes: Uncovering the causes of lung cancer in nonsmokers - The Washington Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxNd1dJVFd0X0lOTldCT2ZGNk83ajctdE12dmdodndXLUVnNWlPd2RzQjBZRV9iVFQzZFdROGFsSW5wMGthTFBVdHdlT0FxT2d6d191aUxDSmxzby02RlFmUGFfb1FhQ0RBUW9ERmc0cGUyQjgzaV8zREV0UDluVVBuZDdnNzVGQkR6TG1IREZpNzdrUlBoRU9rSzZZMVY0UWtpTFh2TV9BSXI2aUhU?oc=5)
 
 2026-10-23
 
-Source: [The Register](https://news.google.com/rss/articles/CBMirwFBVV95cUxPZnVual9GYzA2NnYyVy1nX1l6RGNvZkx3R1FKSTFvdzJqVWRZbmROelNrRVFNZjVhQksyM1J5RE9vbUZ0Tzg3MHBYdnJsZE55LWJDdG40ZFNMSDh4TS1iLTFIVzZtRWxEYkd5a1Y2R2h5WWJ2eHJJWFFlSEZsZm9QcWx2bkJNLXE0QzlWZ0p1aUZHSEJ1ZmU2V25ydUdJMUM5dDFzYndJY0Yyc0VDeklF?oc=5)
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxNd1dJVFd0X0lOTldCT2ZGNk83ajctdE12dmdodndXLUVnNWlPd2RzQjBZRV9iVFQzZFdROGFsSW5wMGthTFBVdHdlT0FxT2d6d191aUxDSmxzby02RlFmUGFfb1FhQ0RBUW9ERmc0cGUyQjgzaV8zREV0UDluVVBuZDdnNzVGQkR6TG1IREZpNzdrUlBoRU9rSzZZMVY0UWtpTFh2TV9BSXI2aUhU?oc=5)
 
 ---
 

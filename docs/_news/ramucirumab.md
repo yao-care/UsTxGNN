@@ -14,7 +14,7 @@ permalink: /news/ramucirumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Ramucirumab?">
-<strong>Ramucirumab</strong> currently has <strong>9 news articles</strong>, with 1 predicted indications.
+<strong>Ramucirumab</strong> currently has <strong>10 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,13 +32,21 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (9)
+## Related News (10)
 
 ### [What people aged 50 and older need to know about flu shots](https://news.google.com/rss/articles/CBMipgFBVV95cUxQNVM0dzNnOUJEWEMzWkVRejR5a2RlQ3FsNEhkMlFuWGg2ZXRFWWwtdi1IakEtTTZCNHZJbGY3LUI2RFljeWgtVGRONVJZQjRIcWkwY1RscWdRR2Zkc0hlQngtWTN2YmFLbHJWekZSbWxTVjJ0MkMzN2NJYm9ENVVjNzM1ZWNjWi1ENF9GN3RLaHFVZXZvTDhydm83d19fcmktZ09WWVRn?oc=5)
 
 2026-10-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">flu</span>
 
 Source: [NPR](https://news.google.com/rss/articles/CBMipgFBVV95cUxQNVM0dzNnOUJEWEMzWkVRejR5a2RlQ3FsNEhkMlFuWGg2ZXRFWWwtdi1IakEtTTZCNHZJbGY3LUI2RFljeWgtVGRONVJZQjRIcWkwY1RscWdRR2Zkc0hlQngtWTN2YmFLbHJWekZSbWxTVjJ0MkMzN2NJYm9ENVVjNzM1ZWNjWi1ENF9GN3RLaHFVZXZvTDhydm83d19fcmktZ09WWVRn?oc=5)
+
+---
+
+### [Scientists discover how pancreatic cancer rewrites its DNA to escape treatment - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE50RUg0OV82V0p1SllETmpwR210c2gzQ3QtVUdPNTEzcnZqdmdXTV92Wl9pTXM3YVo1ZXVTZlpVSFpmMmtCZDNVUDVaeTRkeDJfSXViTkV5UUlXUU9CWmhCNmgzZU9va21KNjlUQjdUbw?oc=5)
+
+2026-10-25 <span class="news-indication-tag">cancer</span>
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE50RUg0OV82V0p1SllETmpwR210c2gzQ3QtVUdPNTEzcnZqdmdXTV92Wl9pTXM3YVo1ZXVTZlpVSFpmMmtCZDNVUDVaeTRkeDJfSXViTkV5UUlXUU9CWmhCNmgzZU9va21KNjlUQjdUbw?oc=5)
 
 ---
 
@@ -60,7 +68,7 @@ Source: [CNN](https://news.google.com/rss/articles/CBMibEFVX3lxTE8yNlpsYjcwOS16V
 
 ### [Diagnostic test could help doctors refine prostate cancer treatment - Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxPWFdWSEFNQ0NENUt4V2xFUVY0SW5JTy14TGM4TGpfbVRiZHA0Ym54bEphc0FJaXp5OXZDNmNzWWFaQmdlTS1HT3lVSE5hSUd5cWpZSUF6OXpvM3k2dmxwdEZSYTdndkZzQ3h4SW44ZjVrYTlOOGt4OHBpQU5NVWVOYmdnTFFVcWdYTHRPZ3hB?oc=5)
 
-2026-10-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-10-24 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
 Source: [Medical Xpress](https://news.google.com/rss/articles/CBMijgFBVV95cUxPWFdWSEFNQ0NENUt4V2xFUVY0SW5JTy14TGM4TGpfbVRiZHA0Ym54bEphc0FJaXp5OXZDNmNzWWFaQmdlTS1HT3lVSE5hSUd5cWpZSUF6OXpvM3k2dmxwdEZSYTdndkZzQ3h4SW44ZjVrYTlOOGt4OHBpQU5NVWVOYmdnTFFVcWdYTHRPZ3hB?oc=5)
 
@@ -82,11 +90,11 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS2
 
 ---
 
-### [The top​ 5 cause​s of lung cancer in non-smokers​ - and how to limit your risk - The Independent](https://news.google.com/rss/articles/CBMijwFBVV95cUxPb2NLZW5xbXlSRExiXzVEaEl4RW1KZEUwQnB6LTZJUFE4aTN4UldnZWpNTkV0Q3M5MTByWWtOM2hYQUJDTHl3bFFBLVJEZHFYWWZTeVpYTnlPZl9RMUp4MFFrNjB3RVctajRBNTljQ1loV2V6OTdMTXc4WUZ1cXpOSWVaQk40N0NlQncyYUhEYw?oc=5)
+### [Beyond cigarettes: Uncovering the causes of lung cancer in nonsmokers - The Washington Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxNd1dJVFd0X0lOTldCT2ZGNk83ajctdE12dmdodndXLUVnNWlPd2RzQjBZRV9iVFQzZFdROGFsSW5wMGthTFBVdHdlT0FxT2d6d191aUxDSmxzby02RlFmUGFfb1FhQ0RBUW9ERmc0cGUyQjgzaV8zREV0UDluVVBuZDdnNzVGQkR6TG1IREZpNzdrUlBoRU9rSzZZMVY0UWtpTFh2TV9BSXI2aUhU?oc=5)
 
 2026-10-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
-Source: [The Independent](https://news.google.com/rss/articles/CBMijwFBVV95cUxPb2NLZW5xbXlSRExiXzVEaEl4RW1KZEUwQnB6LTZJUFE4aTN4UldnZWpNTkV0Q3M5MTByWWtOM2hYQUJDTHl3bFFBLVJEZHFYWWZTeVpYTnlPZl9RMUp4MFFrNjB3RVctajRBNTljQ1loV2V6OTdMTXc4WUZ1cXpOSWVaQk40N0NlQncyYUhEYw?oc=5)
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxNd1dJVFd0X0lOTldCT2ZGNk83ajctdE12dmdodndXLUVnNWlPd2RzQjBZRV9iVFQzZFdROGFsSW5wMGthTFBVdHdlT0FxT2d6d191aUxDSmxzby02RlFmUGFfb1FhQ0RBUW9ERmc0cGUyQjgzaV8zREV0UDluVVBuZDdnNzVGQkR6TG1IREZpNzdrUlBoRU9rSzZZMVY0UWtpTFh2TV9BSXI2aUhU?oc=5)
 
 ---
 

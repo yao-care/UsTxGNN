@@ -63,19 +63,19 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS2
 
 ---
 
-### [Beyond cigarettes: Uncovering the causes of lung cancer in nonsmokers - The Washington Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxNd1dJVFd0X0lOTldCT2ZGNk83ajctdE12dmdodndXLUVnNWlPd2RzQjBZRV9iVFQzZFdROGFsSW5wMGthTFBVdHdlT0FxT2d6d191aUxDSmxzby02RlFmUGFfb1FhQ0RBUW9ERmc0cGUyQjgzaV8zREV0UDluVVBuZDdnNzVGQkR6TG1IREZpNzdrUlBoRU9rSzZZMVY0UWtpTFh2TV9BSXI2aUhU?oc=5)
+### [The top​ 5 cause​s of lung cancer in non-smokers​ - and how to limit your risk - The Independent](https://news.google.com/rss/articles/CBMijwFBVV95cUxPb2NLZW5xbXlSRExiXzVEaEl4RW1KZEUwQnB6LTZJUFE4aTN4UldnZWpNTkV0Q3M5MTByWWtOM2hYQUJDTHl3bFFBLVJEZHFYWWZTeVpYTnlPZl9RMUp4MFFrNjB3RVctajRBNTljQ1loV2V6OTdMTXc4WUZ1cXpOSWVaQk40N0NlQncyYUhEYw?oc=5)
 
 2026-10-23
 
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxNd1dJVFd0X0lOTldCT2ZGNk83ajctdE12dmdodndXLUVnNWlPd2RzQjBZRV9iVFQzZFdROGFsSW5wMGthTFBVdHdlT0FxT2d6d191aUxDSmxzby02RlFmUGFfb1FhQ0RBUW9ERmc0cGUyQjgzaV8zREV0UDluVVBuZDdnNzVGQkR6TG1IREZpNzdrUlBoRU9rSzZZMVY0UWtpTFh2TV9BSXI2aUhU?oc=5)
+Source: [The Independent](https://news.google.com/rss/articles/CBMijwFBVV95cUxPb2NLZW5xbXlSRExiXzVEaEl4RW1KZEUwQnB6LTZJUFE4aTN4UldnZWpNTkV0Q3M5MTByWWtOM2hYQUJDTHl3bFFBLVJEZHFYWWZTeVpYTnlPZl9RMUp4MFFrNjB3RVctajRBNTljQ1loV2V6OTdMTXc4WUZ1cXpOSWVaQk40N0NlQncyYUhEYw?oc=5)
 
 ---
 
-### [AI Tool Predicts Cancer Survival by Analyzing a Patient's Selfie](https://news.google.com/rss/articles/CBMipwFBVV95cUxOWjVxQUYzcTVJU2oxLVJ1MUcxOUJYN2Vsc2Z5di1QcVljNkNXNzNWTU83M1pHZE9jSnVDaEhQaXZ2YWJFR2wtSzNxeWJ1LW00Vnl5eGN2MFN1c19iTXVkZW56a3hJd2lzbUtxZ1BvVnFDLVFQM3pMZXNQWDdsQmNLTkZZUE9RMVFHLVR0MHBYemxRb2k2NkhRVmRGeUFvbVJyX2pZS3lQWQ?oc=5)
+### [How a photo of a person’s face could help predict whether they’ll survive cancer treatment](https://news.google.com/rss/articles/CBMihAFBVV95cUxPRXdrSjNVamVIVEhUSUtyQ0plTUJIZ3hRbk8xNnJEN2hSaTlnUmwtTmpISzhDeS1jSHpudXlkdFMtckxacXJNcjkyWkJodW15NF90OHFhUWdlRldIb0MwV0MwU05UNGktaEJ4VG1SOUlKX2FzbDBQMUZ6NDQwWC1RbFlCNGs?oc=5)
 
-2026-10-22
+2026-10-21
 
-Source: [Newser](https://news.google.com/rss/articles/CBMipwFBVV95cUxOWjVxQUYzcTVJU2oxLVJ1MUcxOUJYN2Vsc2Z5di1QcVljNkNXNzNWTU83M1pHZE9jSnVDaEhQaXZ2YWJFR2wtSzNxeWJ1LW00Vnl5eGN2MFN1c19iTXVkZW56a3hJd2lzbUtxZ1BvVnFDLVFQM3pMZXNQWDdsQmNLTkZZUE9RMVFHLVR0MHBYemxRb2k2NkhRVmRGeUFvbVJyX2pZS3lQWQ?oc=5)
+Source: [CNN](https://news.google.com/rss/articles/CBMihAFBVV95cUxPRXdrSjNVamVIVEhUSUtyQ0plTUJIZ3hRbk8xNnJEN2hSaTlnUmwtTmpISzhDeS1jSHpudXlkdFMtckxacXJNcjkyWkJodW15NF90OHFhUWdlRldIb0MwV0MwU05UNGktaEJ4VG1SOUlKX2FzbDBQMUZ6NDQwWC1RbFlCNGs?oc=5)
 
 ---
 

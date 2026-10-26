@@ -3,7 +3,7 @@ layout: default
 title: "cancer News"
 parent: Health News
 nav_exclude: true
-description: "Health news about cancer. 8 articles, 1 related drugs."
+description: "Health news about cancer. 9 articles, 1 related drugs."
 permalink: /news/cancer/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cancer/
 ---
 
 <p class="key-answer" data-question="What news is there about cancer?">
-<strong>cancer</strong> currently has <strong>8 news articles</strong> and 1 related drugs.
+<strong>cancer</strong> currently has <strong>9 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,23 @@ This page brings together the latest health news about “cancer” and lists th
 </ul>
 </div>
 
-## Related News (8)
+## Related News (9)
+
+### [‘I was doing all the right things': What one survivor's diagnosis reveals about breast cancer risk - NBC 6 South Florida](https://news.google.com/rss/articles/CBMimwFBVV95cUxPMlM4REtTZWxsYmpSZmFNQ09DQUZzemVKVWRsSEpkT0ZpR01xdTE5SFRBXzFrX2tPcVhFLU5PNHYyLXB1Z21hYWhZNXRQRlBza0tGejRPVXBJUjdMaVQyV3BTOXNyZ1FiMWlzYnNOTTN2c1RvTVBNUk8weDU3OTNaR2VQTXc3UWtjc19mS2RzWEJDSnJPOG43Z2Ewb9IBowFBVV95cUxQSnlfMnJRdjBJTkdmOTItT085OUhjbGFOT2tfeUlyRC1WNzBxUTNPRHJXQ2JuellsSXRzeW5aOGZqaWlPdGZrVEV2cy1Qa0ZrWTN3ODhKenBaWXZIM1B1RG42ZzFib0I1SC01NnIxRHRDb2UxT3M3MXNTaVM5M1JVV2o3b0RVQUE2bnZEaVFfcEtOUFJQa19aV3dpWUlxY3VhRXdz?oc=5)
+
+2026-10-25
+
+Source: [NBC 6 South Florida](https://news.google.com/rss/articles/CBMimwFBVV95cUxPMlM4REtTZWxsYmpSZmFNQ09DQUZzemVKVWRsSEpkT0ZpR01xdTE5SFRBXzFrX2tPcVhFLU5PNHYyLXB1Z21hYWhZNXRQRlBza0tGejRPVXBJUjdMaVQyV3BTOXNyZ1FiMWlzYnNOTTN2c1RvTVBNUk8weDU3OTNaR2VQTXc3UWtjc19mS2RzWEJDSnJPOG43Z2Ewb9IBowFBVV95cUxQSnlfMnJRdjBJTkdmOTItT085OUhjbGFOT2tfeUlyRC1WNzBxUTNPRHJXQ2JuellsSXRzeW5aOGZqaWlPdGZrVEV2cy1Qa0ZrWTN3ODhKenBaWXZIM1B1RG42ZzFib0I1SC01NnIxRHRDb2UxT3M3MXNTaVM5M1JVV2o3b0RVQUE2bnZEaVFfcEtOUFJQa19aV3dpWUlxY3VhRXdz?oc=5)
+
+---
+
+### [Iowa’s cancer problem is scrambling the midterms](https://news.google.com/rss/articles/CBMinwFBVV95cUxPM2ZOMjdoakp6b3BZWkp6TU5FLUk4SXNEc2tYc3FuS1FYZEhHcmpqZW42TlB6VDVjTDUwcWFlSVdZSlRyT040amNBQzhQM0lfdHZkdkgtNTdvVE1mcWtBMWxvX0hSY0tWaDFWVkdEc2luMkVMZW96UTBlRUhvZWw3dmI4dW9yUWdCMGxVV1p4TjNiaEZwM05UNV9WanhPVHc?oc=5)
+
+2026-10-25
+
+Source: [Yahoo](https://news.google.com/rss/articles/CBMinwFBVV95cUxPM2ZOMjdoakp6b3BZWkp6TU5FLUk4SXNEc2tYc3FuS1FYZEhHcmpqZW42TlB6VDVjTDUwcWFlSVdZSlRyT040amNBQzhQM0lfdHZkdkgtNTdvVE1mcWtBMWxvX0hSY0tWaDFWVkdEc2luMkVMZW96UTBlRUhvZWw3dmI4dW9yUWdCMGxVV1p4TjNiaEZwM05UNV9WanhPVHc?oc=5)
+
+---
 
 ### [Scientists discover how pancreatic cancer rewrites its DNA to escape treatment - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE50RUg0OV82V0p1SllETmpwR210c2gzQ3QtVUdPNTEzcnZqdmdXTV92Wl9pTXM3YVo1ZXVTZlpVSFpmMmtCZDNVUDVaeTRkeDJfSXViTkV5UUlXUU9CWmhCNmgzZU9va21KNjlUQjdUbw?oc=5)
 
@@ -44,14 +60,6 @@ Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE50RUg
 2026-10-24
 
 Source: [KELOLAND.com](https://news.google.com/rss/articles/CBMigwFBVV95cUxOLVlRR1d1cEZQdU9jVjREYmFINGczUmNFbWVkZVMyWTA3aDhVbjFoVVpoU2wtZVRhMkRaR3NCaGcyalVHUE8zbWRxdndjLXFFWXAtUkNRREhtNTVDRTlrZ2s0bjVGUExvOV9aN1VJM3RnTUxUXzRJQldDeHYtY281M3V1b9IBiAFBVV95cUxNNjlMek1vNC05a1V2UDZ1X3Bja05NLVdKNjJjaEItMzFOTTIzOVNBUjhscGdmeU5EaUZ2N2loOU1hX3BuRDI0Z3hvSlFjM2VSREQxNnU1S1RZMHppMXMyV19QU1Itby1xZWxTRVVldkl5R3pzbWx4RzBuUlFvX1prWlZ1UjJVWU9n?oc=5)
-
----
-
-### [Iowa’s cancer problem is scrambling the midterms](https://news.google.com/rss/articles/CBMibEFVX3lxTE8yNlpsYjcwOS16V25FSnRTUV9BbWREVDlOcmdkYU5ScUx4ZTNNTF9RNUcxS2laLU1SZEx1dHVOVDQtUGJGMm1UZnJGblJqTEpWTXVJeEZEMjZWVGFTZVBtU0JaUkVLZExZWWdDTw?oc=5)
-
-2026-10-24
-
-Source: [CNN](https://news.google.com/rss/articles/CBMibEFVX3lxTE8yNlpsYjcwOS16V25FSnRTUV9BbWREVDlOcmdkYU5ScUx4ZTNNTF9RNUcxS2laLU1SZEx1dHVOVDQtUGJGMm1UZnJGblJqTEpWTXVJeEZEMjZWVGFTZVBtU0JaUkVLZExZWWdDTw?oc=5)
 
 ---
 

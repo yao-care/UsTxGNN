@@ -3,7 +3,7 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 2 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 3 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/inflammatory-bowel-disease/
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>2 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>3 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,15 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (2)
+## Related News (3)
+
+### [‘I was doing all the right things': What one survivor's diagnosis reveals about breast cancer risk - NBC 6 South Florida](https://news.google.com/rss/articles/CBMimwFBVV95cUxPMlM4REtTZWxsYmpSZmFNQ09DQUZzemVKVWRsSEpkT0ZpR01xdTE5SFRBXzFrX2tPcVhFLU5PNHYyLXB1Z21hYWhZNXRQRlBza0tGejRPVXBJUjdMaVQyV3BTOXNyZ1FiMWlzYnNOTTN2c1RvTVBNUk8weDU3OTNaR2VQTXc3UWtjc19mS2RzWEJDSnJPOG43Z2Ewb9IBowFBVV95cUxQSnlfMnJRdjBJTkdmOTItT085OUhjbGFOT2tfeUlyRC1WNzBxUTNPRHJXQ2JuellsSXRzeW5aOGZqaWlPdGZrVEV2cy1Qa0ZrWTN3ODhKenBaWXZIM1B1RG42ZzFib0I1SC01NnIxRHRDb2UxT3M3MXNTaVM5M1JVV2o3b0RVQUE2bnZEaVFfcEtOUFJQa19aV3dpWUlxY3VhRXdz?oc=5)
+
+2026-10-25
+
+Source: [NBC 6 South Florida](https://news.google.com/rss/articles/CBMimwFBVV95cUxPMlM4REtTZWxsYmpSZmFNQ09DQUZzemVKVWRsSEpkT0ZpR01xdTE5SFRBXzFrX2tPcVhFLU5PNHYyLXB1Z21hYWhZNXRQRlBza0tGejRPVXBJUjdMaVQyV3BTOXNyZ1FiMWlzYnNOTTN2c1RvTVBNUk8weDU3OTNaR2VQTXc3UWtjc19mS2RzWEJDSnJPOG43Z2Ewb9IBowFBVV95cUxQSnlfMnJRdjBJTkdmOTItT085OUhjbGFOT2tfeUlyRC1WNzBxUTNPRHJXQ2JuellsSXRzeW5aOGZqaWlPdGZrVEV2cy1Qa0ZrWTN3ODhKenBaWXZIM1B1RG42ZzFib0I1SC01NnIxRHRDb2UxT3M3MXNTaVM5M1JVV2o3b0RVQUE2bnZEaVFfcEtOUFJQa19aV3dpWUlxY3VhRXdz?oc=5)
+
+---
 
 ### [Triple-action weekly weight-loss drug reduces sleep apnea in two late-stage trials - Medical Xpress](https://news.google.com/rss/articles/CBMiggFBVV95cUxNV1BKaWRDVWlYUEN4Q21XajNsOVJGWmVFR0F4dlMyUjRSMEdWeUdzR093X2lsWU1rOGk1dXBvWVRJdnhIR0lYY1NpR0JQQjk2eWhMbDhsSFRGbUh4dHllNXgxclpxUGlYeWxUNGQ0MlU1emdSV3Y4TjduaEFBY0w0dkhn?oc=5)
 

@@ -35,19 +35,19 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 
 ## Related News (7)
 
+### [A 32-year-old woman with intense nausea was told she was ‘too young’ for colon cancer. She was diagnosed at stage 3. - Yahoo News UK](https://news.google.com/rss/articles/CBMid0FVX3lxTFBHYUVrT0JQc190RXh2b1FvYU85RzdKVy0wZkVXRTIwdGZEbFBUYkZBQV9vTy00alhqY2N5SUI5Sl9lOFBlSmp0c2x3VWxnSlBid2c3WkVUY1dQT250YmZBWU9iTmVFOVlVeDNfMHNOQm9jb1A1bi1R?oc=5)
+
+2026-10-27 <span class="news-indication-tag">cancer</span>
+
+Source: [Yahoo News UK](https://news.google.com/rss/articles/CBMid0FVX3lxTFBHYUVrT0JQc190RXh2b1FvYU85RzdKVy0wZkVXRTIwdGZEbFBUYkZBQV9vTy00alhqY2N5SUI5Sl9lOFBlSmp0c2x3VWxnSlBid2c3WkVUY1dQT250YmZBWU9iTmVFOVlVeDNfMHNOQm9jb1A1bi1R?oc=5)
+
+---
+
 ### [Colorectal cancer is surging in an unexpected group — and it’s ‘developing differently’ - New York Post](https://news.google.com/rss/articles/CBMikwFBVV95cUxPcEU4LTJ4UmpTNk5icmFUOVpmM0otRnNRU3FnOTE5QXlmN0JsUXpNRUVGYmd1REo2OWtUTVJfMkVtakM4cnhBSlRXTUhXOTlTeGRIM1N3ZlR6NlpNazM4MlQ5WmRFS1E3Mkl5d0ZpUmpOSzFINHZlR1I2MGJPcEZfTkdVV0NFTHFfei11c0tRcnk5Z0E?oc=5)
 
 2026-10-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">RA</span>
 
 Source: [New York Post](https://news.google.com/rss/articles/CBMikwFBVV95cUxPcEU4LTJ4UmpTNk5icmFUOVpmM0otRnNRU3FnOTE5QXlmN0JsUXpNRUVGYmd1REo2OWtUTVJfMkVtakM4cnhBSlRXTUhXOTlTeGRIM1N3ZlR6NlpNazM4MlQ5WmRFS1E3Mkl5d0ZpUmpOSzFINHZlR1I2MGJPcEZfTkdVV0NFTHFfei11c0tRcnk5Z0E?oc=5)
-
----
-
-### [Scientists Just Connected 2 Types of Ultra-Processed Foods to Lower Colon Cancer Risk](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ1pXUWtGeGhaeXZKMmR0Qld2aVVnNExGUWVvdUp3YlgxYTJWd2VfakM1RU0wYkpTQlI0TEE2Q0hRWHY4Q3h1dzRjVjlYWmh3YkRoNmlPOWdKUGpIenNjdlhBcG5rbVRWTDYyMWFoRVZKSU8zcGRhNk1sSDRBRkxlcVRwVnNQSVFj?oc=5)
-
-2026-10-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [EatingWell](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ1pXUWtGeGhaeXZKMmR0Qld2aVVnNExGUWVvdUp3YlgxYTJWd2VfakM1RU0wYkpTQlI0TEE2Q0hRWHY4Q3h1dzRjVjlYWmh3YkRoNmlPOWdKUGpIenNjdlhBcG5rbVRWTDYyMWFoRVZKSU8zcGRhNk1sSDRBRkxlcVRwVnNQSVFj?oc=5)
 
 ---
 
@@ -75,17 +75,17 @@ Source: [Yahoo](https://news.google.com/rss/articles/CBMinwFBVV95cUxPM2ZOMjdoakp
 
 ---
 
-### [Pittsburgh cancer doctors explain why less treatment can sometimes mean better outcomes](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR0haRmtaVUl0VkJNR2FlbDY4SUlzMEFTNnVCZmVjTkZjcFJxbVhTMGNtbGJKQlc1b3JHNWEzU1dudzJYZC1PazZuWlp3Wlhpa21kcGM5Q3NPOGV0VlpqdEJTOFd4bVZReWU5X1FUVTZZblNwWDFnWUNVeTZxVDhjYWZKaDZ3bU5iMzRXNW05VGRLVG12dkdOUFF0NnlaWjAxTkFzXzFPaFdjWlhrdkpnTl9VdHlfODF2Yy1yc1N6MlNpX1k?oc=5)
+### [Beyond cigarettes: Uncovering the causes of lung cancer in nonsmokers - The Washington Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxNd1dJVFd0X0lOTldCT2ZGNk83ajctdE12dmdodndXLUVnNWlPd2RzQjBZRV9iVFQzZFdROGFsSW5wMGthTFBVdHdlT0FxT2d6d191aUxDSmxzby02RlFmUGFfb1FhQ0RBUW9ERmc0cGUyQjgzaV8zREV0UDluVVBuZDdnNzVGQkR6TG1IREZpNzdrUlBoRU9rSzZZMVY0UWtpTFh2TV9BSXI2aUhU?oc=5)
 
-2026-10-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span>
+2026-10-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
 
-Source: [TribLIVE.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR0haRmtaVUl0VkJNR2FlbDY4SUlzMEFTNnVCZmVjTkZjcFJxbVhTMGNtbGJKQlc1b3JHNWEzU1dudzJYZC1PazZuWlp3Wlhpa21kcGM5Q3NPOGV0VlpqdEJTOFd4bVZReWU5X1FUVTZZblNwWDFnWUNVeTZxVDhjYWZKaDZ3bU5iMzRXNW05VGRLVG12dkdOUFF0NnlaWjAxTkFzXzFPaFdjWlhrdkpnTl9VdHlfODF2Yy1yc1N6MlNpX1k?oc=5)
+Source: [The Washington Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxNd1dJVFd0X0lOTldCT2ZGNk83ajctdE12dmdodndXLUVnNWlPd2RzQjBZRV9iVFQzZFdROGFsSW5wMGthTFBVdHdlT0FxT2d6d191aUxDSmxzby02RlFmUGFfb1FhQ0RBUW9ERmc0cGUyQjgzaV8zREV0UDluVVBuZDdnNzVGQkR6TG1IREZpNzdrUlBoRU9rSzZZMVY0UWtpTFh2TV9BSXI2aUhU?oc=5)
 
 ---
 
 ### [How a photo of a person’s face could help predict whether they’ll survive cancer treatment](https://news.google.com/rss/articles/CBMihAFBVV95cUxPRXdrSjNVamVIVEhUSUtyQ0plTUJIZ3hRbk8xNnJEN2hSaTlnUmwtTmpISzhDeS1jSHpudXlkdFMtckxacXJNcjkyWkJodW15NF90OHFhUWdlRldIb0MwV0MwU05UNGktaEJ4VG1SOUlKX2FzbDBQMUZ6NDQwWC1RbFlCNGs?oc=5)
 
-2026-10-21 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+2026-10-21 <span class="news-indication-tag">cancer</span>
 
 Source: [CNN](https://news.google.com/rss/articles/CBMihAFBVV95cUxPRXdrSjNVamVIVEhUSUtyQ0plTUJIZ3hRbk8xNnJEN2hSaTlnUmwtTmpISzhDeS1jSHpudXlkdFMtckxacXJNcjkyWkJodW15NF90OHFhUWdlRldIb0MwV0MwU05UNGktaEJ4VG1SOUlKX2FzbDBQMUZ6NDQwWC1RbFlCNGs?oc=5)
 

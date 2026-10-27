@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ascorbic Acid: From Scurvy to Injury (Rank 1 Prediction: Non-syndromic Esophageal Malformation)
+## Ascorbic Acid: From Scurvy to Injury (Rank 1 Prediction: Non-syndromic Esophageal Malformation)
+{: .text-alpha }
 
 > **Note on indication selection:** The top-ranked TxGNN prediction (non-syndromic esophageal malformation) has no trials or literature and no plausible mechanism. This report therefore centers on the best-supported prediction, **Injury** (rank 4), and summarizes the other candidates briefly.
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Lofexidine: From Opioid Withdrawal Symptoms to Migraine Disorder
+## Lofexidine: From Opioid Withdrawal Symptoms to Migraine Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

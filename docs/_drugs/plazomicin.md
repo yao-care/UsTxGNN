@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Plazomicin: From Urinary Tract Infection to Gonococcal Urethritis
+## Plazomicin: From Urinary Tract Infection to Gonococcal Urethritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

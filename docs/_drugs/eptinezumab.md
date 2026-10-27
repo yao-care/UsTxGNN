@@ -31,7 +31,8 @@ Evidence Level: **L4** | Predicted Indications: **1**
 
 </div>
 
-# Eptinezumab: From Migraine Disorder to Migraine with Brainstem Aura
+## Eptinezumab: From Migraine Disorder to Migraine with Brainstem Aura
+{: .text-alpha }
 
 ## One-Sentence Summary
 

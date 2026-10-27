@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# 多成分製劑 (Multi-Component Preparation): 評估報告
+## 多成分製劑 (Multi-Component Preparation): 評估報告
+{: .text-alpha }
 
 ## One-Sentence Summary
 

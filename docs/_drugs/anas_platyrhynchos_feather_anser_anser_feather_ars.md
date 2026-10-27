@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Allergen Homeopathic Complex: Insufficient Data for TxGNN Drug Repurposing Evaluation
+## Multi-Allergen Homeopathic Complex: Insufficient Data for TxGNN Drug Repurposing Evaluation
+{: .text-alpha }
 
 ## One-Sentence Summary
 

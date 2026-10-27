@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Celecoxib: From Arthritis (Rheumatoid Arthritis, Ankylosing Spondylitis, Osteoarthritis) to Acromesomelic Dysplasia, Hunter-Thompson Type
+## Celecoxib: From Arthritis (Rheumatoid Arthritis, Ankylosing Spondylitis, Osteoarthritis) to Acromesomelic Dysplasia, Hunter-Thompson Type
+{: .text-alpha }
 
 ## One-Sentence Summary
 

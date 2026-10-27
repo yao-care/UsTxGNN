@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Vitamin Mineral Formula: Assessment Report Cannot Be Completed (Lack of TxGNN Prediction Results)
+## Multi-Vitamin Mineral Formula: Assessment Report Cannot Be Completed (Lack of TxGNN Prediction Results)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Combination (Homogeneous Plant/Mineral Combination): Unable to Assess Drug Repurposing Indication
+## Multi-Component Combination (Homogeneous Plant/Mineral Combination): Unable to Assess Drug Repurposing Indication
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Formaldehyde: From Influenza to Diffuse Cutaneous Leishmaniasis
+## Formaldehyde: From Influenza to Diffuse Cutaneous Leishmaniasis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

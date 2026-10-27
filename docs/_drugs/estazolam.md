@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Estazolam: From Insomnia (On-Label Use) to Insomnia (Disease)
+## Estazolam: From Insomnia (On-Label Use) to Insomnia (Disease)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# ALUMINUM OXIDE / LEAD / MERCURIC CHLORIDE / NICKEL / RADIUM BROMIDE / TIN: Unknown Indication — No Repurposing Prediction Generated
+## ALUMINUM OXIDE / LEAD / MERCURIC CHLORIDE / NICKEL / RADIUM BROMIDE / TIN: Unknown Indication — No Repurposing Prediction Generated
+{: .text-alpha }
 
 ## One-Sentence Summary
 

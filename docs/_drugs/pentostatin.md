@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Pentostatin: From Hairy Cell Leukemia to Botryoid-Type Embryonal Rhabdomyosarcoma of the Vagina
+## Pentostatin: From Hairy Cell Leukemia to Botryoid-Type Embryonal Rhabdomyosarcoma of the Vagina
+{: .text-alpha }
 
 ## One-Sentence Summary
 

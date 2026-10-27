@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Ingredient Metallic Mixture: No Repurposing Prediction Generated
+## Multi-Ingredient Metallic Mixture: No Repurposing Prediction Generated
+{: .text-alpha }
 
 ## One-Sentence Summary
 

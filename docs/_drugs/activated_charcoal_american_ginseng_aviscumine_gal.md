@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# ACTIVATED CHARCOAL / AMERICAN GINSENG / AVISCUMINE / GALIUM APARINE / GERMANIUM / SELENIUM / UBIDECARENONE: Insufficient Evidence for Repurposing Evaluation
+## ACTIVATED CHARCOAL / AMERICAN GINSENG / AVISCUMINE / GALIUM APARINE / GERMANIUM / SELENIUM / UBIDECARENONE: Insufficient Evidence for Repurposing Evaluation
+{: .text-alpha }
 
 ## One-Sentence Summary
 

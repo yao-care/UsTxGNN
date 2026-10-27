@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **3**
 
 </div>
 
-# Tioconazole: From Vulvovaginal Candidiasis to Vulvovaginitis
+## Tioconazole: From Vulvovaginal Candidiasis to Vulvovaginitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

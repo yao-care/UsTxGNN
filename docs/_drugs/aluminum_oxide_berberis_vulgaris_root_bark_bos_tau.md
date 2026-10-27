@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Complex Multi-Component Mixture: No TxGNN Repurposing Prediction Available
+## Complex Multi-Component Mixture: No TxGNN Repurposing Prediction Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

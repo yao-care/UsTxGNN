@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Flortaucipir F-18: From Tau PET Imaging to Anaphylaxis (Prediction Not Supported)
+## Flortaucipir F-18: From Tau PET Imaging to Anaphylaxis (Prediction Not Supported)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

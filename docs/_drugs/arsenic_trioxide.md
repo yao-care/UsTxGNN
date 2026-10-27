@@ -33,7 +33,8 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Arsenic Trioxide: From Acute Promyelocytic Leukemia to Myelodysplastic Syndrome
+## Arsenic Trioxide: From Acute Promyelocytic Leukemia to Myelodysplastic Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

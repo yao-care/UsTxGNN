@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Difluprednate: From Ocular Inflammation to Familial Adrenal Hypoplasia with Absent Pituitary Luteinizing Hormone
+## Difluprednate: From Ocular Inflammation to Familial Adrenal Hypoplasia with Absent Pituitary Luteinizing Hormone
+{: .text-alpha }
 
 ## One-Sentence Summary
 

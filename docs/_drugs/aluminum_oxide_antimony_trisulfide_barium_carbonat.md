@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Homeopathic Compound: Unable to Complete Repurposing Evaluation
+## Multi-Component Homeopathic Compound: Unable to Complete Repurposing Evaluation
+{: .text-alpha }
 
 ---
 

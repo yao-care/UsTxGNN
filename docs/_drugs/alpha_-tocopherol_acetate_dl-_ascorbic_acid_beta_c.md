@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Vitamin/Mineral Complex (DHA + Folate Formula): No TxGNN Predictions Generated
+## Multi-Vitamin/Mineral Complex (DHA + Folate Formula): No TxGNN Predictions Generated
+{: .text-alpha }
 
 ## One-Sentence Summary
 

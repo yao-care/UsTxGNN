@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-# Amcinonide: From Corticosteroid-Responsive Dermatoses to Vulvar Inverted Follicular Keratosis
+## Amcinonide: From Corticosteroid-Responsive Dermatoses to Vulvar Inverted Follicular Keratosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Dofetilide: From Atrial Fibrillation to Stroke Disorder
+## Dofetilide: From Atrial Fibrillation to Stroke Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

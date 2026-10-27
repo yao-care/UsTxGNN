@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Aconitum Napellus / Eucalyptus Globulus / Ipecac: Insufficient Data for Repurposing Evaluation
+## Aconitum Napellus / Eucalyptus Globulus / Ipecac: Insufficient Data for Repurposing Evaluation
+{: .text-alpha }
 
 ## One-Sentence Summary
 

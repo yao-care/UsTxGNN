@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Ingredient Botanical Complex: Repurposing Evaluation Not Feasible
+## Multi-Ingredient Botanical Complex: Repurposing Evaluation Not Feasible
+{: .text-alpha }
 
 ## One-Sentence Summary
 

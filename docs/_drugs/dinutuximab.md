@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Dinutuximab: From Neuroblastoma to Vertebral Anomalies and Variable Endocrine and T-Cell Dysfunction
+## Dinutuximab: From Neuroblastoma to Vertebral Anomalies and Variable Endocrine and T-Cell Dysfunction
+{: .text-alpha }
 
 ## One-Sentence Summary
 

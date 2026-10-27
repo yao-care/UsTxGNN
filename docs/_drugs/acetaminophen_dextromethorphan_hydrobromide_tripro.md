@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# ACETAMINOPHEN / DEXTROMETHORPHAN / TRIPROLIDINE: Cold Symptom Combination — No Repurposing Prediction Available
+## ACETAMINOPHEN / DEXTROMETHORPHAN / TRIPROLIDINE: Cold Symptom Combination — No Repurposing Prediction Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

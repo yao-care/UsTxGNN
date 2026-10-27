@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **6**
 
 </div>
 
-# Hydromorphone: From Common Cold to Pharyngitis
+## Hydromorphone: From Common Cold to Pharyngitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

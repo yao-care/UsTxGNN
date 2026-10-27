@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Liothyronine: From Hypothyroidism to Renal Hypodysplasia/Aplasia
+## Liothyronine: From Hypothyroidism to Renal Hypodysplasia/Aplasia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

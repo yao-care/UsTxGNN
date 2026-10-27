@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Allergen Extract (85 Components): Repurposing Assessment Not Available
+## Multi-Allergen Extract (85 Components): Repurposing Assessment Not Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

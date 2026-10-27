@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Ketamine: From an Anesthetic/Analgesic Injectable to Headache Disorder
+## Ketamine: From an Anesthetic/Analgesic Injectable to Headache Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Metyrapone: From a Diagnostic and Cushing's Syndrome Agent to Exercise-Induced Malignant Hyperthermia
+## Metyrapone: From a Diagnostic and Cushing's Syndrome Agent to Exercise-Induced Malignant Hyperthermia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

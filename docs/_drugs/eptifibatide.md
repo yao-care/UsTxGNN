@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Eptifibatide: From Acute Coronary Syndrome to Hemoglobinopathy (Sickle Cell Disease)
+## Eptifibatide: From Acute Coronary Syndrome to Hemoglobinopathy (Sickle Cell Disease)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

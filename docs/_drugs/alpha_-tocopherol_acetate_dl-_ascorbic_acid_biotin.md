@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Ingredient Nutritional Supplement: Drug Repurposing Evaluation Incomplete
+## Multi-Ingredient Nutritional Supplement: Drug Repurposing Evaluation Incomplete
+{: .text-alpha }
 
 ## One-Sentence Summary
 

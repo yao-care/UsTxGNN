@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Homeopathic Formula: Insufficient Data to Complete Drug Repurposing Assessment
+## Multi-Component Homeopathic Formula: Insufficient Data to Complete Drug Repurposing Assessment
+{: .text-alpha }
 
 ## One-Sentence Summary
 

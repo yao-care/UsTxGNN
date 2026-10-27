@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Voxelotor: From Sickle Cell Anemia to Hereditary Thrombocytopenia with Normal Platelets
+## Voxelotor: From Sickle Cell Anemia to Hereditary Thrombocytopenia with Normal Platelets
+{: .text-alpha }
 
 ## One-Sentence Summary
 

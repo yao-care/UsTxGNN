@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Guanfacine: From Hypertension and ADHD to Faciodigitogenital Syndrome
+## Guanfacine: From Hypertension and ADHD to Faciodigitogenital Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

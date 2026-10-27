@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Fluoroestradiol F-18: From a Diagnostic Imaging Agent to Amenorrhea
+## Fluoroestradiol F-18: From a Diagnostic Imaging Agent to Amenorrhea
+{: .text-alpha }
 
 ## One-Sentence Summary
 

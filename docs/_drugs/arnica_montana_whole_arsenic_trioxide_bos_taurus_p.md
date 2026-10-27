@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Complex Formulation (Homeopathic Complex): No TxGNN Prediction Result
+## Multi-Component Complex Formulation (Homeopathic Complex): No TxGNN Prediction Result
+{: .text-alpha }
 
 ## One-Sentence Summary
 

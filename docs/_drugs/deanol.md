@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Deanol: From an Unspecified Original Indication to Insomnia
+## Deanol: From an Unspecified Original Indication to Insomnia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

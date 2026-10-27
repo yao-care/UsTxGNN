@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tromethamine: From Allergic Conjunctivitis to Allergic Urticaria
+## Tromethamine: From Allergic Conjunctivitis to Allergic Urticaria
+{: .text-alpha }
 
 ## One-Sentence Summary
 

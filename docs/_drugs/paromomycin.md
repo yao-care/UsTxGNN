@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-# Paromomycin: From Hepatic Encephalopathy to Idiopathic Copper-Associated Cirrhosis
+## Paromomycin: From Hepatic Encephalopathy to Idiopathic Copper-Associated Cirrhosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

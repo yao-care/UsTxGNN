@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Nine-Ingredient Botanical Compound (Yohimbine / Saw Palmetto / American Ginseng et al.): No Approved Indication — TxGNN Repurposing Assessment Not Feasible
+## Nine-Ingredient Botanical Compound (Yohimbine / Saw Palmetto / American Ginseng et al.): No Approved Indication — TxGNN Repurposing Assessment Not Feasible
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Aluminum Zirconium Octachlorohydrate Anhydrous: Evaluation Not Feasible — Insufficient Data
+## Aluminum Zirconium Octachlorohydrate Anhydrous: Evaluation Not Feasible — Insufficient Data
+{: .text-alpha }
 
 ## One-Sentence Summary
 

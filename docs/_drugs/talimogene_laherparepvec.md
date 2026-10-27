@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Talimogene Laherparepvec: From Melanoma to CMM7 (Cutaneous Malignant Melanoma Subtype, Label to Be Verified)
+## Talimogene Laherparepvec: From Melanoma to CMM7 (Cutaneous Malignant Melanoma Subtype, Label to Be Verified)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

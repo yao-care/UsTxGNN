@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ropeginterferon Alfa-2b: From Polycythemia Vera to Laubry-Pezzi Syndrome
+## Ropeginterferon Alfa-2b: From Polycythemia Vera to Laubry-Pezzi Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

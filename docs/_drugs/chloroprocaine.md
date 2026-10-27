@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Chloroprocaine: From Local Anesthesia to Cauda Equina Syndrome (Prediction Likely Reflects an Adverse Association)
+## Chloroprocaine: From Local Anesthesia to Cauda Equina Syndrome (Prediction Likely Reflects an Adverse Association)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

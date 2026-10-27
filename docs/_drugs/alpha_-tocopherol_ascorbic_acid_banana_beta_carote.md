@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-component Natural Supplement Formulation: Insufficient Assessment Data, Cannot Proceed with Drug Repurposing Analysis
+## Multi-component Natural Supplement Formulation: Insufficient Assessment Data, Cannot Proceed with Drug Repurposing Analysis
+{: .text-alpha }
 
 ---
 

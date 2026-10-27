@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Activated Charcoal / Arsenic Triiodide / 7-Herb-Mineral Combination (9-Component Preparation): No Repurposing Predictions Available
+## Activated Charcoal / Arsenic Triiodide / 7-Herb-Mineral Combination (9-Component Preparation): No Repurposing Predictions Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

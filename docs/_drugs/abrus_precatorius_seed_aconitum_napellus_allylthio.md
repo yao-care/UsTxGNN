@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Ingredient Homeopathic Combination Formula: No Repurposing Candidates Identified
+## Multi-Ingredient Homeopathic Combination Formula: No Repurposing Candidates Identified
+{: .text-alpha }
 
 ## One-Sentence Summary
 

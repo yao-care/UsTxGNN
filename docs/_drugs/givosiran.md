@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Givosiran: From Hepatic Porphyria to Hepatoportal Sclerosis
+## Givosiran: From Hepatic Porphyria to Hepatoportal Sclerosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

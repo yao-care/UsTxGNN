@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Homeopathic Complex (Aconitum / Nux-Vomica / Sulfur et al.): No Repurposing Predictions Available
+## Multi-Component Homeopathic Complex (Aconitum / Nux-Vomica / Sulfur et al.): No Repurposing Predictions Available
+{: .text-alpha }
 
 ---
 

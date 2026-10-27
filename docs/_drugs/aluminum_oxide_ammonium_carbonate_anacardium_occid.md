@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Homeopathic Compound: Insufficient Data for TxGNN Repurposing Evaluation
+## Multi-Component Homeopathic Compound: Insufficient Data for TxGNN Repurposing Evaluation
+{: .text-alpha }
 
 ## One-Sentence Summary
 

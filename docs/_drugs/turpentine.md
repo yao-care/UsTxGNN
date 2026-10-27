@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Turpentine: From No Recorded Indication to Multiple Endocrine Neoplasia
+## Turpentine: From No Recorded Indication to Multiple Endocrine Neoplasia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

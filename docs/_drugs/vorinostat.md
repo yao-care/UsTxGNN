@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **2**
 
 </div>
 
-# Vorinostat: From Cutaneous T-Cell Lymphoma to Primary Cutaneous B-Cell Lymphoma
+## Vorinostat: From Cutaneous T-Cell Lymphoma to Primary Cutaneous B-Cell Lymphoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

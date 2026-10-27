@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-# Cabotegravir: From HIV-1 Infection to Rheumatoid Arthritis
+## Cabotegravir: From HIV-1 Infection to Rheumatoid Arthritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

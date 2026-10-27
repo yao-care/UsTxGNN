@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Sotagliflozin: From Type 1 Diabetes Mellitus to Opsismodysplasia
+## Sotagliflozin: From Type 1 Diabetes Mellitus to Opsismodysplasia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Acetaminophen + Butalbital: Insufficient Data for Repurposing Evaluation
+## Acetaminophen + Butalbital: Insufficient Data for Repurposing Evaluation
+{: .text-alpha }
 
 ## One-Sentence Summary
 

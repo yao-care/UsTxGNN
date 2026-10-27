@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# ACETAMINOPHEN + DEXTROMETHORPHAN HYDROBROMIDE: Repurposing Evaluation — Insufficient Data
+## ACETAMINOPHEN + DEXTROMETHORPHAN HYDROBROMIDE: Repurposing Evaluation — Insufficient Data
+{: .text-alpha }
 
 ## One-Sentence Summary
 

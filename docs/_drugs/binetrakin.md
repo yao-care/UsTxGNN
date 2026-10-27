@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-# Binetrakin: From an Unspecified Original Indication to Craniostenosis Cataract
+## Binetrakin: From an Unspecified Original Indication to Craniostenosis Cataract
+{: .text-alpha }
 
 ## One-Sentence Summary
 

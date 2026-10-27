@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Acetaminophen/Benzhydrocodone: Drug Repurposing Evaluation Report
+## Acetaminophen/Benzhydrocodone: Drug Repurposing Evaluation Report
+{: .text-alpha }
 
 ## One-Sentence Summary
 

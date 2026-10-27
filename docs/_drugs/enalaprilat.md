@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Enalaprilat: From Hypertension and Heart Failure to Primary Hereditary Glaucoma
+## Enalaprilat: From Hypertension and Heart Failure to Primary Hereditary Glaucoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

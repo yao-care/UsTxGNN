@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Botanical/Homeopathic Combination: Drug Identity Unresolved — Repurposing Evaluation Not Possible
+## Multi-Component Botanical/Homeopathic Combination: Drug Identity Unresolved — Repurposing Evaluation Not Possible
+{: .text-alpha }
 
 ## One-Sentence Summary
 

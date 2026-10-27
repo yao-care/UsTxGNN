@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Pegloticase: From Gout to Severe Nonproliferative Diabetic Retinopathy
+## Pegloticase: From Gout to Severe Nonproliferative Diabetic Retinopathy
+{: .text-alpha }
 
 ## One-Sentence Summary
 

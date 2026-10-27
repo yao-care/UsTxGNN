@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Margetuximab: From HER2-Positive Metastatic Breast Cancer to HER2-Positive Breast Carcinoma (Top Prediction: Drug-Induced Osteoporosis)
+## Margetuximab: From HER2-Positive Metastatic Breast Cancer to HER2-Positive Breast Carcinoma (Top Prediction: Drug-Induced Osteoporosis)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

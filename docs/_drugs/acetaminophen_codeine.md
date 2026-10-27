@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Acetaminophen + Codeine: Evaluation Incomplete — No Repurposing Prediction Available
+## Acetaminophen + Codeine: Evaluation Incomplete — No Repurposing Prediction Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

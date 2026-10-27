@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-# Salsalate: From Rheumatoid Arthritis to Acromesomelic Dysplasia, Hunter-Thompson Type
+## Salsalate: From Rheumatoid Arthritis to Acromesomelic Dysplasia, Hunter-Thompson Type
+{: .text-alpha }
 
 ## One-Sentence Summary
 

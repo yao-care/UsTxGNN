@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Vitamin-Mineral Complex Preparation: Research Assessment Report
+## Multi-Component Vitamin-Mineral Complex Preparation: Research Assessment Report
+{: .text-alpha }
 
 ## One-Sentence Summary
 

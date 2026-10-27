@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-# Zinc Sulfate: From an Unspecified Original Indication to Severe Nonproliferative Diabetic Retinopathy
+## Zinc Sulfate: From an Unspecified Original Indication to Severe Nonproliferative Diabetic Retinopathy
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Activated Charcoal: Repurposing Evaluation — Insufficient Data for Analysis
+## Activated Charcoal: Repurposing Evaluation — Insufficient Data for Analysis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

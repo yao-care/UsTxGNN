@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Botanical Mixture: Drug Repurposing Evaluation Not Feasible
+## Multi-Component Botanical Mixture: Drug Repurposing Evaluation Not Feasible
+{: .text-alpha }
 
 ## One-Sentence Summary
 

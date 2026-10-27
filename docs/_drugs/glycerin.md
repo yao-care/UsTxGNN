@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Glycerin: From Constipation to Open-Angle Glaucoma
+## Glycerin: From Constipation to Open-Angle Glaucoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

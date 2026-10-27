@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Tafenoquine: From Malaria to Smouldering Systemic Mastocytosis
+## Tafenoquine: From Malaria to Smouldering Systemic Mastocytosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

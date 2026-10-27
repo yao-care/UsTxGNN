@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Homeopathic Multi-Component Combination (9 Ingredients): No Repurposing Prediction Available
+## Homeopathic Multi-Component Combination (9 Ingredients): No Repurposing Prediction Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-component Botanical/Homeopathic Mixture: Insufficient Data, Unable to Complete Drug Repurposing Assessment
+## Multi-component Botanical/Homeopathic Mixture: Insufficient Data, Unable to Complete Drug Repurposing Assessment
+{: .text-alpha }
 
 ## One-sentence Summary
 

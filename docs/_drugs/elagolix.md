@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **1**
 
 </div>
 
-# Elagolix: From Endometriosis to Amenorrhea
+## Elagolix: From Endometriosis to Amenorrhea
+{: .text-alpha }
 
 ## One-Sentence Summary
 

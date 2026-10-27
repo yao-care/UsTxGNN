@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Estradiol Cypionate: From Primary Ovarian Failure to Symptomatic Fragile X Syndrome in Female Carriers
+## Estradiol Cypionate: From Primary Ovarian Failure to Symptomatic Fragile X Syndrome in Female Carriers
+{: .text-alpha }
 
 ## One-Sentence Summary
 

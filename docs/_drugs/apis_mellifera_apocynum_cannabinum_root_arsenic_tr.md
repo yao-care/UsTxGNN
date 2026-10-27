@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Homeopathic Cardiac Combination (8-Ingredient): TxGNN Evaluation Not Feasible
+## Homeopathic Cardiac Combination (8-Ingredient): TxGNN Evaluation Not Feasible
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-# Siponimod: From an Unspecified Original Indication to Pulmonary Hypertension
+## Siponimod: From an Unspecified Original Indication to Pulmonary Hypertension
+{: .text-alpha }
 
 ## One-Sentence Summary
 

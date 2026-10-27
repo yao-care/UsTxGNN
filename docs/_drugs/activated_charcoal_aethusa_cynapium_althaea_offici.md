@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Complex Homeopathic Multi-Ingredient Product: Evaluation Not Available — No TxGNN Prediction Generated
+## Complex Homeopathic Multi-Ingredient Product: Evaluation Not Available — No TxGNN Prediction Generated
+{: .text-alpha }
 
 ## One-Sentence Summary
 

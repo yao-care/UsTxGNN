@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Glatiramer: From Multiple Sclerosis to Hemoglobinopathy
+## Glatiramer: From Multiple Sclerosis to Hemoglobinopathy
+{: .text-alpha }
 
 ## One-Sentence Summary
 

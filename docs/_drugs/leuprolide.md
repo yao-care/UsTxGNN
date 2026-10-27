@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Leuprolide: From Endometriosis to Osteoarthritis
+## Leuprolide: From Endometriosis to Osteoarthritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

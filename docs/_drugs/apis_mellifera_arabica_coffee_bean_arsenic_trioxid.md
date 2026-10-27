@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Ingredient Homeopathic Complex: Unclassified Indication to No Predicted Indication
+## Multi-Ingredient Homeopathic Complex: Unclassified Indication to No Predicted Indication
+{: .text-alpha }
 
 ## One-Sentence Summary
 

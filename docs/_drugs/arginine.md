@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **1**
 
 </div>
 
-# Arginine: From Unspecified Original Indication to Gastroparesis
+## Arginine: From Unspecified Original Indication to Gastroparesis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

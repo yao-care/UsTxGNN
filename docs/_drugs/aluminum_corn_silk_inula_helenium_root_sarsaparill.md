@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# ALUMINUM / CORN SILK / INULA HELENIUM ROOT / SARSAPARILLA / SILVER / VALERIAN: Insufficient Data for Repurposing Evaluation
+## ALUMINUM / CORN SILK / INULA HELENIUM ROOT / SARSAPARILLA / SILVER / VALERIAN: Insufficient Data for Repurposing Evaluation
+{: .text-alpha }
 
 ## One-Sentence Summary
 

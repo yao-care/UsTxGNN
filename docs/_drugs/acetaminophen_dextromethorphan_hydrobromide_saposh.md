@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Acetaminophen / Dextromethorphan / Saposhnikovia / Tangerine Combination: Repurposing Evaluation Not Feasible
+## Acetaminophen / Dextromethorphan / Saposhnikovia / Tangerine Combination: Repurposing Evaluation Not Feasible
+{: .text-alpha }
 
 ## One-Sentence Summary
 

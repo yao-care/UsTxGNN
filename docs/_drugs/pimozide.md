@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Pimozide: From Tourette Syndrome to Trichotillomania
+## Pimozide: From Tourette Syndrome to Trichotillomania
+{: .text-alpha }
 
 ## One-Sentence Summary
 

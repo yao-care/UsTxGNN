@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Halcinonide: From Inflammatory Skin Conditions to Annular Atrophic Lichen Planus
+## Halcinonide: From Inflammatory Skin Conditions to Annular Atrophic Lichen Planus
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Ingredient Homeopathic Complex: TxGNN Repurposing Analysis Incomplete
+## Multi-Ingredient Homeopathic Complex: TxGNN Repurposing Analysis Incomplete
+{: .text-alpha }
 
 ## One-Sentence Summary
 

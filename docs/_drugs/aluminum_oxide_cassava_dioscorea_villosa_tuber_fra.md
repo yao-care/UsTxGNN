@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Ingredient Homeopathic Complex: Repurposing Assessment Not Available
+## Multi-Ingredient Homeopathic Complex: Repurposing Assessment Not Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

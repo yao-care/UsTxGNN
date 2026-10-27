@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Allergen Pollen Extract (22 Components): Insufficient Data for Repurposing Evaluation
+## Multi-Allergen Pollen Extract (22 Components): Insufficient Data for Repurposing Evaluation
+{: .text-alpha }
 
 ## One-Sentence Summary
 

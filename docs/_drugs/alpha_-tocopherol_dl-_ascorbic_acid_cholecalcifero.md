@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multivitamin Complex: No TxGNN Predictions Available
+## Multivitamin Complex: No TxGNN Predictions Available
+{: .text-alpha }
 
 ---
 

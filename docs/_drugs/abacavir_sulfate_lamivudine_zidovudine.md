@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Abacavir Sulfate + Lamivudine + Zidovudine: Antiretroviral Combination — No Repurposing Prediction Available
+## Abacavir Sulfate + Lamivudine + Zidovudine: Antiretroviral Combination — No Repurposing Prediction Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

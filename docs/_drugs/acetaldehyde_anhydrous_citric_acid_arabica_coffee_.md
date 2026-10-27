@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Complex Multi-Component Mixture (ACETALDEHYDE / BENZENE / CAFFEINE et al.): Repurposing Evaluation — Insufficient Data to Proceed
+## Complex Multi-Component Mixture (ACETALDEHYDE / BENZENE / CAFFEINE et al.): Repurposing Evaluation — Insufficient Data to Proceed
+{: .text-alpha }
 
 ## One-Sentence Summary
 

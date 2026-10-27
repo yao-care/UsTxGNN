@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Ranolazine: From Antianginal Therapy to Nephrogenic Syndrome of Inappropriate Antidiuresis
+## Ranolazine: From Antianginal Therapy to Nephrogenic Syndrome of Inappropriate Antidiuresis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L2** | Predicted Indications: **8**
 
 </div>
 
-# Ofatumumab: From Acute Lymphoblastic Leukemia to Follicular Lymphoma
+## Ofatumumab: From Acute Lymphoblastic Leukemia to Follicular Lymphoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Homeopathic Complex: No TxGNN Prediction — Repurposing Evaluation Incomplete
+## Multi-Component Homeopathic Complex: No TxGNN Prediction — Repurposing Evaluation Incomplete
+{: .text-alpha }
 
 ## One-Sentence Summary
 

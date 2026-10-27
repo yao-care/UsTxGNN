@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Acalabrutinib: BTK Inhibitor — No TxGNN Repurposing Predictions Available
+## Acalabrutinib: BTK Inhibitor — No TxGNN Repurposing Predictions Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

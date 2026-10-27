@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Duvelisib: From Follicular Lymphoma and CLL/SLL to Hodgkin Lymphoma
+## Duvelisib: From Follicular Lymphoma and CLL/SLL to Hodgkin Lymphoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

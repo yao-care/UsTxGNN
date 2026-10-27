@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-ingredient Homeopathic Combination: Insufficient Data for TxGNN Evaluation
+## Multi-ingredient Homeopathic Combination: Insufficient Data for TxGNN Evaluation
+{: .text-alpha }
 
 ## One-Sentence Summary
 

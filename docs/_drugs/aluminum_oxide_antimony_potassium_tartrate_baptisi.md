@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Ingredient Vaccinia/Herbal Complex: Insufficient Data for Drug Repurposing Analysis
+## Multi-Ingredient Vaccinia/Herbal Complex: Insufficient Data for Drug Repurposing Analysis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

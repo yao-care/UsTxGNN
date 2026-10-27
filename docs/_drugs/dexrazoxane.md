@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Dexrazoxane: From Cardioprotection in Anthracycline Chemotherapy to Sclerosing Cholangitis
+## Dexrazoxane: From Cardioprotection in Anthracycline Chemotherapy to Sclerosing Cholangitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Prasterone: From Systemic Lupus Erythematosus to Heparin Cofactor 2 Deficiency
+## Prasterone: From Systemic Lupus Erythematosus to Heparin Cofactor 2 Deficiency
+{: .text-alpha }
 
 ## One-Sentence Summary
 

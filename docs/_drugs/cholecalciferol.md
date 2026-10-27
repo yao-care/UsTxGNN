@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Cholecalciferol: From Osteoporosis and Vitamin D Deficiency to Renal Osteodystrophy
+## Cholecalciferol: From Osteoporosis and Vitamin D Deficiency to Renal Osteodystrophy
+{: .text-alpha }
 
 ## One-Sentence Summary
 

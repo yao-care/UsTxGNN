@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# DL-α-Tocopherol / Ascorbic Acid / Cholecalciferol / DHA Complex: Nutritional Supplement — No Repurposing Predictions Available
+## DL-α-Tocopherol / Ascorbic Acid / Cholecalciferol / DHA Complex: Nutritional Supplement — No Repurposing Predictions Available
+{: .text-alpha }
 
 ---
 

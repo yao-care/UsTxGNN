@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Homeopathic Multi-Ingredient Complex (20-Component): No Repurposing Prediction Available
+## Homeopathic Multi-Ingredient Complex (20-Component): No Repurposing Prediction Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

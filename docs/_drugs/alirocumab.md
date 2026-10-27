@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Alirocumab: From Dyslipidemia and Atherosclerosis to Xanthomatosis
+## Alirocumab: From Dyslipidemia and Atherosclerosis to Xanthomatosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

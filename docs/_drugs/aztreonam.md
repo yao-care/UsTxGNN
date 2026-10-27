@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Aztreonam: From Gram-Negative Bacterial Infections to Gonococcal Urethritis
+## Aztreonam: From Gram-Negative Bacterial Infections to Gonococcal Urethritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

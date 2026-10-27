@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Elapegademase: From ADA-SCID Enzyme Replacement to Diabetic Retinopathy
+## Elapegademase: From ADA-SCID Enzyme Replacement to Diabetic Retinopathy
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Cysteamine: From Cystinosis to Mitochondrial Oxidative Phosphorylation Disorder Due to Nuclear DNA Anomalies
+## Cysteamine: From Cystinosis to Mitochondrial Oxidative Phosphorylation Disorder Due to Nuclear DNA Anomalies
+{: .text-alpha }
 
 ## One-Sentence Summary
 

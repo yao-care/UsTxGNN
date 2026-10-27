@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Toremifene: From Breast Cancer to HIV Infectious Disease
+## Toremifene: From Breast Cancer to HIV Infectious Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

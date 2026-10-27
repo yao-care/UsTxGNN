@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **8**
 
 </div>
 
-# Naftifine: From Tinea Infections to Cutaneous Candidiasis
+## Naftifine: From Tinea Infections to Cutaneous Candidiasis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

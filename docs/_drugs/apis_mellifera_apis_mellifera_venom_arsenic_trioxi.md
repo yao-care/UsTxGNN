@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Apis Mellifera / Arsenic Trioxide / Sulfur Combination: Insufficient Data for Repurposing Evaluation
+## Apis Mellifera / Arsenic Trioxide / Sulfur Combination: Insufficient Data for Repurposing Evaluation
+{: .text-alpha }
 
 ## One-Sentence Summary
 

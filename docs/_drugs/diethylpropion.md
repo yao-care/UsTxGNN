@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Diethylpropion: From Obesity to Hypervitaminosis
+## Diethylpropion: From Obesity to Hypervitaminosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

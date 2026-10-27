@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Preparation (Activated Charcoal / Arnica / Gold Trichloride / Horse Chestnut / Lachesis Venom / Prunus Laurocerasus / Strophanthus / Tobacco): No Evaluable Repurposing Candidate Identified
+## Multi-Component Preparation (Activated Charcoal / Arnica / Gold Trichloride / Horse Chestnut / Lachesis Venom / Prunus Laurocerasus / Strophanthus / Tobacco): No Evaluable Repurposing Candidate Identified
+{: .text-alpha }
 
 ---
 

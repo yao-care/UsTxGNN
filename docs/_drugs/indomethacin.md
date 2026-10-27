@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Indomethacin: From Inflammatory Joint Disease to Brachydactyly-Syndactyly Syndrome
+## Indomethacin: From Inflammatory Joint Disease to Brachydactyly-Syndactyly Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

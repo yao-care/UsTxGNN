@@ -31,7 +31,8 @@ Evidence Level: **L3** | Predicted Indications: **2**
 
 </div>
 
-# Dexchlorpheniramine: From Allergic Rhinitis and Urticaria to Allergic Urticaria
+## Dexchlorpheniramine: From Allergic Rhinitis and Urticaria to Allergic Urticaria
+{: .text-alpha }
 
 ## One-Sentence Summary
 

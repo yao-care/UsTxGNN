@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Benzyl Alcohol: From Dermatitis to Bronchitis
+## Benzyl Alcohol: From Dermatitis to Bronchitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

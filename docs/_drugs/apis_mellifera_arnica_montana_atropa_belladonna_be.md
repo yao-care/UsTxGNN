@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Ingredient Homeopathic Combination: Evaluation Not Possible Due to Insufficient Data
+## Multi-Ingredient Homeopathic Combination: Evaluation Not Possible Due to Insufficient Data
+{: .text-alpha }
 
 ## One-Sentence Summary
 

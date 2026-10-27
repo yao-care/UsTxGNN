@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Substance Complex (TW-UNKNOWN-multi): Insufficient Data for Repurposing Evaluation
+## Multi-Substance Complex (TW-UNKNOWN-multi): Insufficient Data for Repurposing Evaluation
+{: .text-alpha }
 
 ## One-Sentence Summary
 

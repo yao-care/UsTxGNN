@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Acetaminophen + Aspirin + Caffeine: Evaluation Report — No Repurposing Candidates Identified
+## Acetaminophen + Aspirin + Caffeine: Evaluation Report — No Repurposing Candidates Identified
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Oritavancin: From Skin Infection to Bacteroidaceae Infectious Disease
+## Oritavancin: From Skin Infection to Bacteroidaceae Infectious Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

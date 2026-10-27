@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Centella Asiatica: From Topical Skin Products to Insomnia
+## Centella Asiatica: From Topical Skin Products to Insomnia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

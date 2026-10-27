@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Plecanatide: From Chronic Idiopathic Constipation to Hypertrichosis
+## Plecanatide: From Chronic Idiopathic Constipation to Hypertrichosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

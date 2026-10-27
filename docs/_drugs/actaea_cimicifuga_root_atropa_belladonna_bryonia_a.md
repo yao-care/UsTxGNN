@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Ingredient Homeopathic Complex: From Unknown Indication to Unpredicted New Indication
+## Multi-Ingredient Homeopathic Complex: From Unknown Indication to Unpredicted New Indication
+{: .text-alpha }
 
 ## One-Sentence Summary
 

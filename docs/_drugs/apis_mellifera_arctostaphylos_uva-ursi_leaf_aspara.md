@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Ingredient Botanical Complex: No Approved Indication — TxGNN Prediction Not Available
+## Multi-Ingredient Botanical Complex: No Approved Indication — TxGNN Prediction Not Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

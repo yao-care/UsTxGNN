@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# ALUMINUM OXIDE / Bryonia Alba Root / Graphite / Silicon Dioxide / Sodium Chloride: No Repurposing Prediction Generated
+## ALUMINUM OXIDE / Bryonia Alba Root / Graphite / Silicon Dioxide / Sodium Chloride: No Repurposing Prediction Generated
+{: .text-alpha }
 
 ## One-Sentence Summary
 

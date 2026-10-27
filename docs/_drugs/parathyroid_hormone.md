@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Parathyroid Hormone: From Hypoparathyroidism (Label Text Unavailable) to Migraine Disorder
+## Parathyroid Hormone: From Hypoparathyroidism (Label Text Unavailable) to Migraine Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

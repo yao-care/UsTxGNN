@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Complex Multi-Component Mixture: Repurposing Evaluation Not Applicable
+## Complex Multi-Component Mixture: Repurposing Evaluation Not Applicable
+{: .text-alpha }
 
 ## One-Sentence Summary
 

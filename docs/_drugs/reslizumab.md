@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Reslizumab: From Eosinophilic Pneumonia to Thrombocytopenia Due to Immune Destruction
+## Reslizumab: From Eosinophilic Pneumonia to Thrombocytopenia Due to Immune Destruction
+{: .text-alpha }
 
 ## One-Sentence Summary
 

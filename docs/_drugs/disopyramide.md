@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Disopyramide: From Cardiac Arrhythmia to Tourette Syndrome
+## Disopyramide: From Cardiac Arrhythmia to Tourette Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

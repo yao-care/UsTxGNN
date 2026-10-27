@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Nafarelin: From Endometriosis to Ambras Type Hypertrichosis Universalis Congenita
+## Nafarelin: From Endometriosis to Ambras Type Hypertrichosis Universalis Congenita
+{: .text-alpha }
 
 ## One-Sentence Summary
 

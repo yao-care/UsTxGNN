@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Acetaminophen + Aspirin + Diphenhydramine: Combination Drug — Insufficient Data for Repurposing Assessment
+## Acetaminophen + Aspirin + Diphenhydramine: Combination Drug — Insufficient Data for Repurposing Assessment
+{: .text-alpha }
 
 ## One-Sentence Summary
 

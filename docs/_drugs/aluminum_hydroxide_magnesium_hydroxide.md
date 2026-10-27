@@ -36,7 +36,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 ---
 
-# Aluminum Hydroxide + Magnesium Hydroxide: Repurposing Evaluation — Insufficient Data to Proceed
+## Aluminum Hydroxide + Magnesium Hydroxide: Repurposing Evaluation — Insufficient Data to Proceed
+{: .text-alpha }
 
 ## One-Sentence Summary
 

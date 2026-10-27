@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **1**
 
 </div>
 
-# Oxazepam: From Alcohol Withdrawal Delirium and Anxiety to Insomnia
+## Oxazepam: From Alcohol Withdrawal Delirium and Anxiety to Insomnia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

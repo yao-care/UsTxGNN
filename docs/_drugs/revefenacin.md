@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Revefenacin: From COPD to Bronchitis / Obstructive Lung Disease
+## Revefenacin: From COPD to Bronchitis / Obstructive Lung Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

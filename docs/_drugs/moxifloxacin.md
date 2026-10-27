@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Moxifloxacin: From Bacterial Infections to Polyclonal Hyperviscosity Syndrome
+## Moxifloxacin: From Bacterial Infections to Polyclonal Hyperviscosity Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

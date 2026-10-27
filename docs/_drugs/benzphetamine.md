@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Benzphetamine: From Obesity to Hypervitaminosis
+## Benzphetamine: From Obesity to Hypervitaminosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# ACETAMINOPHEN + CHLORPHENIRAMINE MALEATE + PHENYLEPHRINE: Combination Cold Remedy — Insufficient Data for Repurposing Evaluation
+## ACETAMINOPHEN + CHLORPHENIRAMINE MALEATE + PHENYLEPHRINE: Combination Cold Remedy — Insufficient Data for Repurposing Evaluation
+{: .text-alpha }
 
 ## One-Sentence Summary
 

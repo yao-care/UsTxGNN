@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# 1,3-Bisurea / Colchicum / Nux-Vomica Compound: Insufficient Data for Repurposing Evaluation
+## 1,3-Bisurea / Colchicum / Nux-Vomica Compound: Insufficient Data for Repurposing Evaluation
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L1** | Predicted Indications: **6**
 
 </div>
 
-# Bleomycin: From Lymphoma and Head and Neck Cancer to Reticulum Cell Sarcoma
+## Bleomycin: From Lymphoma and Head and Neck Cancer to Reticulum Cell Sarcoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

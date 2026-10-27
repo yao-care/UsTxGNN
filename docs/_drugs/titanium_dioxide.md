@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Titanium Dioxide: From Topical Sun Protection and Homeopathic Use to Drug-Induced Osteoporosis
+## Titanium Dioxide: From Topical Sun Protection and Homeopathic Use to Drug-Induced Osteoporosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

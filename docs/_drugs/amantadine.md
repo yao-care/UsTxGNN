@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Amantadine: From Parkinson's Disease to Rasmussen Subacute Encephalitis
+## Amantadine: From Parkinson's Disease to Rasmussen Subacute Encephalitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

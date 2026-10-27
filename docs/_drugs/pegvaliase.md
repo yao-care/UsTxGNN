@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Pegvaliase: From Phenylketonuria to Diabetic Retinopathy
+## Pegvaliase: From Phenylketonuria to Diabetic Retinopathy
+{: .text-alpha }
 
 ## One-Sentence Summary
 

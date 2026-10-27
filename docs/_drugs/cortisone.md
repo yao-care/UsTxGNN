@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-# Cortisone: From Unspecified Labeled Indication to Primary Cutaneous T-Cell Lymphoma
+## Cortisone: From Unspecified Labeled Indication to Primary Cutaneous T-Cell Lymphoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Palifermin: From Oral Mucositis Supportive Care to Primary Release Disorder of Platelets
+## Palifermin: From Oral Mucositis Supportive Care to Primary Release Disorder of Platelets
+{: .text-alpha }
 
 ## One-Sentence Summary
 

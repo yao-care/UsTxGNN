@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Ingredient Compound (2,5-Piperazinedione / Arnica Montana / Dopamine HCl et al.): Insufficient Data for Repurposing Evaluation
+## Multi-Ingredient Compound (2,5-Piperazinedione / Arnica Montana / Dopamine HCl et al.): Insufficient Data for Repurposing Evaluation
+{: .text-alpha }
 
 ## One-Sentence Summary
 

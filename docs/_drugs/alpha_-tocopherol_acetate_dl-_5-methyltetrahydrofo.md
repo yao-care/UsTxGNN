@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Prenatal Nutritional Supplement Combination: Repurposing Evaluation Pending
+## Prenatal Nutritional Supplement Combination: Repurposing Evaluation Pending
+{: .text-alpha }
 
 ## One-Sentence Summary
 

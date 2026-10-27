@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Streptozocin: From Pancreatic Neuroendocrine Tumors (Presumed) to Relapsing-Remitting Multiple Sclerosis
+## Streptozocin: From Pancreatic Neuroendocrine Tumors (Presumed) to Relapsing-Remitting Multiple Sclerosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

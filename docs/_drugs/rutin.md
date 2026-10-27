@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-# Rutin: From Ascorbic Acid Deficiency (Scurvy) to Breast Fibrocystic Disease
+## Rutin: From Ascorbic Acid Deficiency (Scurvy) to Breast Fibrocystic Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Homeopathic Cardiac Combination (12-Component): Insufficient Data for Repurposing Analysis
+## Homeopathic Cardiac Combination (12-Component): Insufficient Data for Repurposing Analysis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-ingredient Sunscreen Formula: Insufficient Evidence for Drug Repurposing Assessment
+## Multi-ingredient Sunscreen Formula: Insufficient Evidence for Drug Repurposing Assessment
+{: .text-alpha }
 
 ## One-Sentence Summary
 

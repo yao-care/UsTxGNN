@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Human Immunoglobulin G: From Immunoglobulin Replacement to Severe Nonproliferative Diabetic Retinopathy
+## Human Immunoglobulin G: From Immunoglobulin Replacement to Severe Nonproliferative Diabetic Retinopathy
+{: .text-alpha }
 
 ## One-Sentence Summary
 

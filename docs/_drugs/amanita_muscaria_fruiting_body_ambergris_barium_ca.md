@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Ingredient Mixture (Amanita Muscaria / Colchicum / Convallaria et al.): Insufficient Data for Repurposing Evaluation
+## Multi-Ingredient Mixture (Amanita Muscaria / Colchicum / Convallaria et al.): Insufficient Data for Repurposing Evaluation
+{: .text-alpha }
 
 ## One-Sentence Summary
 

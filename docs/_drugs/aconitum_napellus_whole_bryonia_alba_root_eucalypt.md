@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Homeopathic Multi-Component Combination (Aconitum/Bryonia/Pelargonium): TxGNN Prediction Unavailable
+## Homeopathic Multi-Component Combination (Aconitum/Bryonia/Pelargonium): TxGNN Prediction Unavailable
+{: .text-alpha }
 
 ## One-Sentence Summary
 

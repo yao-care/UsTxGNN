@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Metaxalone: From Muscle Relaxation to Infectious Otitis Media
+## Metaxalone: From Muscle Relaxation to Infectious Otitis Media
+{: .text-alpha }
 
 ## One-Sentence Summary
 

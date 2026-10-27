@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Aminocaproic Acid: From Bleeding Control (Antifibrinolytic Therapy) to Severe Nonproliferative Diabetic Retinopathy
+## Aminocaproic Acid: From Bleeding Control (Antifibrinolytic Therapy) to Severe Nonproliferative Diabetic Retinopathy
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Teprotumumab: From Endocrine Exophthalmos to Monosomy X
+## Teprotumumab: From Endocrine Exophthalmos to Monosomy X
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Ingredient Botanical-Mineral Combination: Evaluation Cannot Be Completed
+## Multi-Ingredient Botanical-Mineral Combination: Evaluation Cannot Be Completed
+{: .text-alpha }
 
 ## One-Sentence Summary
 

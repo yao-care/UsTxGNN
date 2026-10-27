@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Bremelanotide: From Hypoactive Sexual Desire Disorder to Acne
+## Bremelanotide: From Hypoactive Sexual Desire Disorder to Acne
+{: .text-alpha }
 
 ## One-Sentence Summary
 

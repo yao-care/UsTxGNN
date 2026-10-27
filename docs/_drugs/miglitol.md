@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Miglitol: From Type 2 Diabetes Mellitus to Focal Stiff Limb Syndrome
+## Miglitol: From Type 2 Diabetes Mellitus to Focal Stiff Limb Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Iopromide: From Contrast Imaging to Osteoarthritis Susceptibility
+## Iopromide: From Contrast Imaging to Osteoarthritis Susceptibility
+{: .text-alpha }
 
 ## One-Sentence Summary
 

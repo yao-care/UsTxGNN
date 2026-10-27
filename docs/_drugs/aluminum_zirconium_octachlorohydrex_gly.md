@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Aluminum Zirconium Octachlorohydrex Gly: No TxGNN Repurposing Prediction Available
+## Aluminum Zirconium Octachlorohydrex Gly: No TxGNN Repurposing Prediction Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

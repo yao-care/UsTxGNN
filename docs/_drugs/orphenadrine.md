@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Orphenadrine: From Parkinson Disease to Retinal Dystrophy
+## Orphenadrine: From Parkinson Disease to Retinal Dystrophy
+{: .text-alpha }
 
 ## One-Sentence Summary
 

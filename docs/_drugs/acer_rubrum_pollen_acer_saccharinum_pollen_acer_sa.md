@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Tree Pollen Allergen Extract: Drug Repurposing Assessment Report
+## Multi-Component Tree Pollen Allergen Extract: Drug Repurposing Assessment Report
+{: .text-alpha }
 
 ---
 

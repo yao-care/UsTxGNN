@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Fluoxetine: From Major Depressive Disorder to Histrionic Personality Disorder
+## Fluoxetine: From Major Depressive Disorder to Histrionic Personality Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

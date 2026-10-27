@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Aluminum Sulfate Tetradecahydrate + Calcium Acetate Monohydrate: Insufficient Data for Repurposing Analysis
+## Aluminum Sulfate Tetradecahydrate + Calcium Acetate Monohydrate: Insufficient Data for Repurposing Analysis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

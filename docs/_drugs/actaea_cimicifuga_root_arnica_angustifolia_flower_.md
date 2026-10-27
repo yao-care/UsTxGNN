@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Homeopathic Preparation: Insufficient Data for Repurposing Prediction
+## Multi-Component Homeopathic Preparation: Insufficient Data for Repurposing Prediction
+{: .text-alpha }
 
 ## One-Sentence Summary
 

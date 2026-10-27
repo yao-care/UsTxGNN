@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Ingredient Herbal-Nutritional Complex: Evaluation Could Not Be Completed
+## Multi-Ingredient Herbal-Nutritional Complex: Evaluation Could Not Be Completed
+{: .text-alpha }
 
 ## One-Sentence Summary
 

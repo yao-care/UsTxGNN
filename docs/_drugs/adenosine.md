@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Adenosine: From Ventricular Tachycardia to Catecholaminergic Polymorphic Ventricular Tachycardia
+## Adenosine: From Ventricular Tachycardia to Catecholaminergic Polymorphic Ventricular Tachycardia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

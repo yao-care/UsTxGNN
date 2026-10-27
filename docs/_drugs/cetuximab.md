@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Cetuximab: From Colorectal and Squamous Cell Cancers to Premalignant Neoplasm
+## Cetuximab: From Colorectal and Squamous Cell Cancers to Premalignant Neoplasm
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Ingredient Homeopathic Compound (Venom-Botanical Complex, 26 Components): No Original Indication or Repurposing Prediction Available
+## Multi-Ingredient Homeopathic Compound (Venom-Botanical Complex, 26 Components): No Original Indication or Repurposing Prediction Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

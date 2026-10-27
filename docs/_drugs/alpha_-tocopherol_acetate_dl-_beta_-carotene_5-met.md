@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multivitamin-Mineral Complex: No Predicted New Indication Available
+## Multivitamin-Mineral Complex: No Predicted New Indication Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

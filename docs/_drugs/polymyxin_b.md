@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **3**
 
 </div>
 
-# Polymyxin B: From Gram-Negative Bacterial Infections to Bronchitis
+## Polymyxin B: From Gram-Negative Bacterial Infections to Bronchitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

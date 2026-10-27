@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Eflornithine: From Human African Trypanosomiasis to Esotropia
+## Eflornithine: From Human African Trypanosomiasis to Esotropia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Brentuximab Vedotin: From Hodgkin Lymphoma to Follicular Lymphoma
+## Brentuximab Vedotin: From Hodgkin Lymphoma to Follicular Lymphoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

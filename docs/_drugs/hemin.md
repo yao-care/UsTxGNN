@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Hemin: From Acute Intermittent Porphyria to Thrombocytopenic Purpura
+## Hemin: From Acute Intermittent Porphyria to Thrombocytopenic Purpura
+{: .text-alpha }
 
 ## One-Sentence Summary
 

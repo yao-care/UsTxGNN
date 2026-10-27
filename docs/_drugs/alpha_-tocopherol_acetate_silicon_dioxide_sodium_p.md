@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Alpha-Tocopherol Acetate Combination: Unable to Generate Repurposing Evaluation
+## Alpha-Tocopherol Acetate Combination: Unable to Generate Repurposing Evaluation
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Ingredient Homeopathic Complex (20 Components): Repurposing Evaluation Cannot Be Completed
+## Multi-Ingredient Homeopathic Complex (20 Components): Repurposing Evaluation Cannot Be Completed
+{: .text-alpha }
 
 ## One-Sentence Summary
 

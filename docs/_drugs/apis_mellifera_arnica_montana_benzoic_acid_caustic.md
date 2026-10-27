@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# APIS MELLIFERA / ARNICA MONTANA 複方組合：資料不足，無法完成老藥新用評估
+## APIS MELLIFERA / ARNICA MONTANA 複方組合：資料不足，無法完成老藥新用評估
+{: .text-alpha }
 
 ## One-Sentence Summary
 

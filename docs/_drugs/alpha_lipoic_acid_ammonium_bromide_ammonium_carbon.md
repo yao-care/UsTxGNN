@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Ingredient Homeopathic Complex: No Repurposing Prediction Available
+## Multi-Ingredient Homeopathic Complex: No Repurposing Prediction Available
+{: .text-alpha }
 
 > **Note:** The INN for this candidate covers 18 components: Alpha Lipoic Acid, Ammonium Bromide, Ammonium Carbonate, Antimony Trisulfide, Artemisia Cina Pre-Flowering Top, Bos Taurus Hypothalamus, Bos Taurus Pituitary Gland Posterior, Delphinium Staphisagria Seed, Fucus Vesiculosus, Garcinia Gummi-Gutta Fruit, Lycopodium Clavatum Spore, Nerium Oleander Whole, Olea Europaea Flower, Oyster Shell Calcium Carbonate Crude, Phosphorus, Semecarpus Anacardium Juice, Sodium Chloride, Thyroid Unspecified.
 

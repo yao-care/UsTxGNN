@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Triheptanoin: From an Unspecified Original Indication to Tetanic Cataract
+## Triheptanoin: From an Unspecified Original Indication to Tetanic Cataract
+{: .text-alpha }
 
 ## One-Sentence Summary
 

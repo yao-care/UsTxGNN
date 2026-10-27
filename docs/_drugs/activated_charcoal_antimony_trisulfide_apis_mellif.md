@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Homeopathic 27-Component Preparation: No Repurposing Prediction Available
+## Homeopathic 27-Component Preparation: No Repurposing Prediction Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Selenium: From an Unspecified Original Indication to Sclerosing Cholangitis
+## Selenium: From an Unspecified Original Indication to Sclerosing Cholangitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

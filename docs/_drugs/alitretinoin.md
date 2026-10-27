@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Alitretinoin: From Kaposi Sarcoma Skin Lesions to Amenorrhea
+## Alitretinoin: From Kaposi Sarcoma Skin Lesions to Amenorrhea
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# 14-Component Homeopathic Formula (Apis/Echinacea/Histamine + 11): Original Indication Unknown — TxGNN Prediction Unavailable
+## 14-Component Homeopathic Formula (Apis/Echinacea/Histamine + 11): Original Indication Unknown — TxGNN Prediction Unavailable
+{: .text-alpha }
 
 ## One-Sentence Summary
 

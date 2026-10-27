@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Ingredient Homeopathic Complex (20 Components): No TxGNN Predictions Available – Evaluation Cannot Proceed
+## Multi-Ingredient Homeopathic Complex (20 Components): No TxGNN Predictions Available – Evaluation Cannot Proceed
+{: .text-alpha }
 
 ---
 

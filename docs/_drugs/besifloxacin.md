@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-# Besifloxacin: From Conjunctivitis to Bronchitis
+## Besifloxacin: From Conjunctivitis to Bronchitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

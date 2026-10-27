@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Terconazole: From Vulvovaginal Candidiasis to Trichomonal Vulvovaginitis
+## Terconazole: From Vulvovaginal Candidiasis to Trichomonal Vulvovaginitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

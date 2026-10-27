@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# ACETAMINOPHEN + CHLORPHENIRAMINE: Insufficient Data, Unable to Generate Complete Drug Repurposing Prediction Report
+## ACETAMINOPHEN + CHLORPHENIRAMINE: Insufficient Data, Unable to Generate Complete Drug Repurposing Prediction Report
+{: .text-alpha }
 
 ## One-Sentence Summary
 

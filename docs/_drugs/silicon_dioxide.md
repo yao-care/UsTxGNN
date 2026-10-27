@@ -31,7 +31,8 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Silicon Dioxide: From Peptic Ulcer Disease to Active Peptic Ulcer Disease
+## Silicon Dioxide: From Peptic Ulcer Disease to Active Peptic Ulcer Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

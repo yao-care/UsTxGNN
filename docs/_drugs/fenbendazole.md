@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Fenbendazole: From No Approved Human Indication to Urinary Bladder Carcinoma
+## Fenbendazole: From No Approved Human Indication to Urinary Bladder Carcinoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

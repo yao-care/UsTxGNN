@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Complex Botanical-Biological Multi-Ingredient Formulation: Insufficient Data for Drug Repurposing Evaluation
+## Complex Botanical-Biological Multi-Ingredient Formulation: Insufficient Data for Drug Repurposing Evaluation
+{: .text-alpha }
 
 ## One-Sentence Summary
 

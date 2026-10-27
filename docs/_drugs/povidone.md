@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Povidone: From Dry Eye Syndrome to Congenital Ichthyosiform Erythroderma
+## Povidone: From Dry Eye Syndrome to Congenital Ichthyosiform Erythroderma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

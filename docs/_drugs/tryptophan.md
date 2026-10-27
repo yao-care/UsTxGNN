@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-# Tryptophan: From an Unspecified Original Indication to Insomnia
+## Tryptophan: From an Unspecified Original Indication to Insomnia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

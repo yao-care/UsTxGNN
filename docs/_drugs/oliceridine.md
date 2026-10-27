@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Oliceridine: From Acute Pain Management to Insomnia
+## Oliceridine: From Acute Pain Management to Insomnia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Alpha-Tocopherol + Hyaluronic Acid: Drug Repurposing Evaluation Report
+## Alpha-Tocopherol + Hyaluronic Acid: Drug Repurposing Evaluation Report
+{: .text-alpha }
 
 ---
 

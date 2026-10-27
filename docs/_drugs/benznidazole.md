@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Benznidazole: From Chagas Disease to Congenital Analbuminemia
+## Benznidazole: From Chagas Disease to Congenital Analbuminemia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

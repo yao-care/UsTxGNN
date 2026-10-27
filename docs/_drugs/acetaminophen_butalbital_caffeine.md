@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Acetaminophen / Butalbital / Caffeine: Drug Repurposing Evaluation — No Prediction Available
+## Acetaminophen / Butalbital / Caffeine: Drug Repurposing Evaluation — No Prediction Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Ingredient Homeopathic Complex: Assessment Not Possible — Insufficient Data
+## Multi-Ingredient Homeopathic Complex: Assessment Not Possible — Insufficient Data
+{: .text-alpha }
 
 ## One-Sentence Summary
 

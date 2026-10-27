@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Aluminum Oxide: From No Documented Original Indication to Rheumatoid Arthritis
+## Aluminum Oxide: From No Documented Original Indication to Rheumatoid Arthritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

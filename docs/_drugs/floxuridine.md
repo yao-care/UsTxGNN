@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Floxuridine: From Liver Cancer to Hereditary Breast Ovarian Cancer Syndrome
+## Floxuridine: From Liver Cancer to Hereditary Breast Ovarian Cancer Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

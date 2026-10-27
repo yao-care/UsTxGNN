@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Atrasentan: From IgA Nephropathy to Amenorrhea
+## Atrasentan: From IgA Nephropathy to Amenorrhea
+{: .text-alpha }
 
 ## One-Sentence Summary
 

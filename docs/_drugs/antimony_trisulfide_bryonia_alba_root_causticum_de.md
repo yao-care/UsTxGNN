@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Ingredient Homeopathic Formula: From Unspecified Indication — No Repurposing Target Identified
+## Multi-Ingredient Homeopathic Formula: From Unspecified Indication — No Repurposing Target Identified
+{: .text-alpha }
 
 ## One-Sentence Summary
 

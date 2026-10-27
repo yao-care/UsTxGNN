@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Methoxsalen: From Cutaneous T-Cell Lymphoma to Localized Pagetoid Reticulosis
+## Methoxsalen: From Cutaneous T-Cell Lymphoma to Localized Pagetoid Reticulosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

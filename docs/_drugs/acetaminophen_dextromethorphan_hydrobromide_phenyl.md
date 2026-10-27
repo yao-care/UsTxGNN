@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# ACETAMINOPHEN / DEXTROMETHORPHAN / PHENYLEPHRINE / TRIPROLIDINE: Multi-Component Cold & Flu Combination — No TxGNN Prediction Generated
+## ACETAMINOPHEN / DEXTROMETHORPHAN / PHENYLEPHRINE / TRIPROLIDINE: Multi-Component Cold & Flu Combination — No TxGNN Prediction Generated
+{: .text-alpha }
 
 ## One-Sentence Summary
 

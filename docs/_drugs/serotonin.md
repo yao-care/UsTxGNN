@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Serotonin: From an Unspecified Original Indication to Insomnia
+## Serotonin: From an Unspecified Original Indication to Insomnia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

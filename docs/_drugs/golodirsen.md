@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Golodirsen: From Duchenne Muscular Dystrophy to Distal Myopathy, Welander Type
+## Golodirsen: From Duchenne Muscular Dystrophy to Distal Myopathy, Welander Type
+{: .text-alpha }
 
 ## One-Sentence Summary
 

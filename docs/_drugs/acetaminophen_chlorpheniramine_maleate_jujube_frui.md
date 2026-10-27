@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# ACETAMINOPHEN + CHLORPHENIRAMINE MALEATE + JUJUBE FRUIT: No Repurposing Prediction Available
+## ACETAMINOPHEN + CHLORPHENIRAMINE MALEATE + JUJUBE FRUIT: No Repurposing Prediction Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

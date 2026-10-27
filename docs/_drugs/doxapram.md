@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Doxapram: From Respiratory Failure to Vascular Disease
+## Doxapram: From Respiratory Failure to Vascular Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

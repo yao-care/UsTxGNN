@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Erdafitinib: From an Unspecified Original Indication to Pulmonary Hypertension
+## Erdafitinib: From an Unspecified Original Indication to Pulmonary Hypertension
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Pexidartinib: From Tenosynovial Giant Cell Tumor to HER2 Positive Breast Carcinoma
+## Pexidartinib: From Tenosynovial Giant Cell Tumor to HER2 Positive Breast Carcinoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

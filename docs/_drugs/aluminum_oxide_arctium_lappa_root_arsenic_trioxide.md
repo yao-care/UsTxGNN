@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Preparation (26-Ingredient Homeopathic Formula): Unable to Evaluate — Insufficient Data for Drug Repurposing Assessment
+## Multi-Component Preparation (26-Ingredient Homeopathic Formula): Unable to Evaluate — Insufficient Data for Drug Repurposing Assessment
+{: .text-alpha }
 
 ## One-Sentence Summary
 

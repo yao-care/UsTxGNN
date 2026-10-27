@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Trolamine Salicylate: From Topical Pain Relief to Exostosis
+## Trolamine Salicylate: From Topical Pain Relief to Exostosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

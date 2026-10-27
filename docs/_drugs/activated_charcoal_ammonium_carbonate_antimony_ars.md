@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Archaic Compound: No Repurposing Indication Identified
+## Multi-Component Archaic Compound: No Repurposing Indication Identified
+{: .text-alpha }
 
 ## One-Sentence Summary
 

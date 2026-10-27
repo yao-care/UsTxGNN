@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-# Pretomanid: From Drug-Resistant Tuberculosis to Candidiasis
+## Pretomanid: From Drug-Resistant Tuberculosis to Candidiasis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

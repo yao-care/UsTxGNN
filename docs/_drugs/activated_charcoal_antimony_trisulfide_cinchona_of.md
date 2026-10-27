@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Preparation (Activated Charcoal / Antimony Trisulfide / Cinchona / Gentiana / Ipecac / Leptinotarsa / Silver Nitrate): Repurposing Evaluation Not Feasible
+## Multi-Component Preparation (Activated Charcoal / Antimony Trisulfide / Cinchona / Gentiana / Ipecac / Leptinotarsa / Silver Nitrate): Repurposing Evaluation Not Feasible
+{: .text-alpha }
 
 ## One-Sentence Summary
 

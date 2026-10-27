@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Abiraterone: Evaluation Incomplete — TxGNN Predictions Pending
+## Abiraterone: Evaluation Incomplete — TxGNN Predictions Pending
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Adefovir Dipivoxil: From Chronic Hepatitis B to Chronic Hepatitis C Virus Infection
+## Adefovir Dipivoxil: From Chronic Hepatitis B to Chronic Hepatitis C Virus Infection
+{: .text-alpha }
 
 ## One-Sentence Summary
 

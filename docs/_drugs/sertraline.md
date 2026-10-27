@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-# Sertraline: From Anxiety Disorders to Agoraphobia
+## Sertraline: From Anxiety Disorders to Agoraphobia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

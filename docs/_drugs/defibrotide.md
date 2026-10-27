@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Defibrotide: From Hepatic Veno-Occlusive Disease to Pseudo-von Willebrand Disease
+## Defibrotide: From Hepatic Veno-Occlusive Disease to Pseudo-von Willebrand Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

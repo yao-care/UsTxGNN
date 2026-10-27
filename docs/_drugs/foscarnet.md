@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Foscarnet: From Cytomegalovirus Infection to Autosomal Dominant Familial Hematuria-Retinal Arteriolar Tortuosity-Contractures Syndrome
+## Foscarnet: From Cytomegalovirus Infection to Autosomal Dominant Familial Hematuria-Retinal Arteriolar Tortuosity-Contractures Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

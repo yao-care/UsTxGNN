@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Alpha-Tocopherol / Aloe / Witch Hazel / Zinc Oxide: Insufficient Data for Repurposing Evaluation
+## Alpha-Tocopherol / Aloe / Witch Hazel / Zinc Oxide: Insufficient Data for Repurposing Evaluation
+{: .text-alpha }
 
 ## One-Sentence Summary
 

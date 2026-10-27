@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Nabilone: From an Antiemetic Indication to Migraine Disorder
+## Nabilone: From an Antiemetic Indication to Migraine Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

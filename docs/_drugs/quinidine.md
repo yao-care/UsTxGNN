@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Quinidine: From Atrial Fibrillation to Nephrogenic Syndrome of Inappropriate Antidiuresis
+## Quinidine: From Atrial Fibrillation to Nephrogenic Syndrome of Inappropriate Antidiuresis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

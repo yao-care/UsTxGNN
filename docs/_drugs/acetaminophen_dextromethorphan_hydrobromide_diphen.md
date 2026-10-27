@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Acetaminophen / Dextromethorphan Hydrobromide / Diphenhydramine: No Repurposing Predictions Available
+## Acetaminophen / Dextromethorphan Hydrobromide / Diphenhydramine: No Repurposing Predictions Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

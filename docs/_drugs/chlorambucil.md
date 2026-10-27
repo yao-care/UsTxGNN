@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-# Chlorambucil: From Hodgkin Lymphoma and Chronic Leukemias to Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma Subtypes (Top Prediction)
+## Chlorambucil: From Hodgkin Lymphoma and Chronic Leukemias to Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma Subtypes (Top Prediction)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

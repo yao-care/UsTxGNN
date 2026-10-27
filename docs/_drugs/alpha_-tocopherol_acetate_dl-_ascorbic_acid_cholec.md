@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Vitamin Combination: Insufficient Data for TxGNN Repurposing Prediction
+## Multi-Vitamin Combination: Insufficient Data for TxGNN Repurposing Prediction
+{: .text-alpha }
 
 ## One-Sentence Summary
 

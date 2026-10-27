@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-# Raxibacumab: From Inhalational Anthrax to Postinfectious Vasculitis
+## Raxibacumab: From Inhalational Anthrax to Postinfectious Vasculitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

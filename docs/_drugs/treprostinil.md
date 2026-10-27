@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Treprostinil: From Pulmonary Arterial Hypertension to Pulmonary Arteriovenous Malformation
+## Treprostinil: From Pulmonary Arterial Hypertension to Pulmonary Arteriovenous Malformation
+{: .text-alpha }
 
 ## One-Sentence Summary
 

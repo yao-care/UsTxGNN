@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Fluvastatin: From Atherosclerosis and Familial Combined Hyperlipidemia to Hyperlipoproteinemia
+## Fluvastatin: From Atherosclerosis and Familial Combined Hyperlipidemia to Hyperlipoproteinemia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

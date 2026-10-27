@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **4**
 
 </div>
 
-# Hydroquinone: From Skin Hyperpigmentation Care to Seborrheic Keratosis
+## Hydroquinone: From Skin Hyperpigmentation Care to Seborrheic Keratosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

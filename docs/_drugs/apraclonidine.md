@@ -31,7 +31,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Apraclonidine: From Open-Angle Glaucoma to Primary Hereditary Glaucoma
+## Apraclonidine: From Open-Angle Glaucoma to Primary Hereditary Glaucoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

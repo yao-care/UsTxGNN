@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Homeopathic Complex (14 Ingredients): TxGNN Prediction Unavailable
+## Multi-Component Homeopathic Complex (14 Ingredients): TxGNN Prediction Unavailable
+{: .text-alpha }
 
 ## One-Sentence Summary
 

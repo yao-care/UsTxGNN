@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Aconitum Napellus Complex (Multi-Component Formula): Insufficient Data for Repurposing Prediction
+## Aconitum Napellus Complex (Multi-Component Formula): Insufficient Data for Repurposing Prediction
+{: .text-alpha }
 
 ---
 

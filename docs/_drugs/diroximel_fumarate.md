@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Diroximel Fumarate: From an Unspecified Original Indication to Diabetic Cataract
+## Diroximel Fumarate: From an Unspecified Original Indication to Diabetic Cataract
+{: .text-alpha }
 
 ## One-Sentence Summary
 

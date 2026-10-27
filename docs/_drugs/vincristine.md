@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **3**
 
 </div>
 
-# Vincristine: From Lymphoid Cancers to Ganglioneuroblastoma
+## Vincristine: From Lymphoid Cancers to Ganglioneuroblastoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

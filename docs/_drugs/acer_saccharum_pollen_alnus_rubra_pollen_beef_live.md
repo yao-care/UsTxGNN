@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Allergen Extract Mixture: Evaluation Report
+## Multi-Allergen Extract Mixture: Evaluation Report
+{: .text-alpha }
 
 > **Notice:** This Evidence Pack contains no TxGNN predicted indications. This report documents the data status and provides recommendations for the next steps before a repurposing evaluation can be conducted.
 

@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Alpha-Tocopherol / Sodium Fluoride / Sodium Pyrophosphate 複方：無老藥新用候選產生
+## Alpha-Tocopherol / Sodium Fluoride / Sodium Pyrophosphate 複方：無老藥新用候選產生
+{: .text-alpha }
 
 ## One-Sentence Summary
 

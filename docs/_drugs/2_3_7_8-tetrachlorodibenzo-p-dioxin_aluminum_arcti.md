@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# 31-Component Mixture: Insufficient Data for Drug Repurposing Evaluation
+## 31-Component Mixture: Insufficient Data for Drug Repurposing Evaluation
+{: .text-alpha }
 
 ## One-Sentence Summary
 

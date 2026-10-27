@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Biological Complex: No Repurposing Candidate Identified
+## Multi-Component Biological Complex: No Repurposing Candidate Identified
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Preparation (14 Ingredients): Evaluation Not Possible — Insufficient Evidence
+## Multi-Component Preparation (14 Ingredients): Evaluation Not Possible — Insufficient Evidence
+{: .text-alpha }
 
 ## One-Sentence Summary
 

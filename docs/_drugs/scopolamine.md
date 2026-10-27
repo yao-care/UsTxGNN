@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Scopolamine: From Motion Sickness and Anticholinergic Indications to Cauda Equina Syndrome
+## Scopolamine: From Motion Sickness and Anticholinergic Indications to Cauda Equina Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

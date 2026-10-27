@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **7**
 
 </div>
 
-# Terlipressin: From an Unspecified Original Indication to Pulmonary Hypertension
+## Terlipressin: From an Unspecified Original Indication to Pulmonary Hypertension
+{: .text-alpha }
 
 ## One-Sentence Summary
 

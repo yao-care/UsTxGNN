@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Acetaminophen / Dextromethorphan / Doxylamine / Pseudoephedrine: Cold & Flu Combination — Repurposing Assessment
+## Acetaminophen / Dextromethorphan / Doxylamine / Pseudoephedrine: Cold & Flu Combination — Repurposing Assessment
+{: .text-alpha }
 
 ## One-Sentence Summary
 

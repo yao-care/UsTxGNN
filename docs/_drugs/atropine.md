@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Atropine: From Anticholinergic Use (Original Indication Not Specified) to Migraine Disorder
+## Atropine: From Anticholinergic Use (Original Indication Not Specified) to Migraine Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

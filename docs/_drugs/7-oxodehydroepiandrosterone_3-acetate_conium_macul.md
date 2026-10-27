@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-component Mixture (Containing Somatropin and 11 Other Ingredients): Indication Unknown, TxGNN Unable to Predict
+## Multi-component Mixture (Containing Somatropin and 11 Other Ingredients): Indication Unknown, TxGNN Unable to Predict
+{: .text-alpha }
 
 ## One-Sentence Summary
 

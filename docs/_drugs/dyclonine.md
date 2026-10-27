@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Dyclonine: From Dermatitis to Bronchitis
+## Dyclonine: From Dermatitis to Bronchitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

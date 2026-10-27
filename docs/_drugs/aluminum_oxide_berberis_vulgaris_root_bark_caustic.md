@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Homeopathic Formula (Saw Palmetto / Berberis Vulgaris / Lytta Vesicatoria): Repurposing Evaluation Not Feasible
+## Multi-Component Homeopathic Formula (Saw Palmetto / Berberis Vulgaris / Lytta Vesicatoria): Repurposing Evaluation Not Feasible
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multivitamin-Mineral Combination: Drug Repurposing Evaluation Report
+## Multivitamin-Mineral Combination: Drug Repurposing Evaluation Report
+{: .text-alpha }
 
 ---
 

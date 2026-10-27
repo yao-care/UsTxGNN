@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Darolutamide: From Prostate Cancer (Original Indication Not Documented) to Homozygous Familial Hypercholesterolemia
+## Darolutamide: From Prostate Cancer (Original Indication Not Documented) to Homozygous Familial Hypercholesterolemia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

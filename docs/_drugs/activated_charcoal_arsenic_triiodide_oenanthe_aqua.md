@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Preparation: Insufficient Data for Drug Repurposing Evaluation
+## Multi-Component Preparation: Insufficient Data for Drug Repurposing Evaluation
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# SILVER: From an Unspecified Original Indication to Bone Paget Disease
+## SILVER: From an Unspecified Original Indication to Bone Paget Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

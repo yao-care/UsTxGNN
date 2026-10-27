@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Homeopathic Influenza Complex: No Repurposing Prediction Available
+## Multi-Component Homeopathic Influenza Complex: No Repurposing Prediction Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Flurandrenolide: From Inflammatory Skin Conditions to Vulvar Inverted Follicular Keratosis
+## Flurandrenolide: From Inflammatory Skin Conditions to Vulvar Inverted Follicular Keratosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

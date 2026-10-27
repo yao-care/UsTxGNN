@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Complex Multi-Ingredient Biological Product (16 Components): Insufficient Data for Repurposing Evaluation
+## Complex Multi-Ingredient Biological Product (16 Components): Insufficient Data for Repurposing Evaluation
+{: .text-alpha }
 
 ## One-Sentence Summary
 

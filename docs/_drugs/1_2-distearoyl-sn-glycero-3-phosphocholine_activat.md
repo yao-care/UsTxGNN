@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Ingredient Complex (13 Components): No Original Indication — No Predicted New Indication
+## Multi-Ingredient Complex (13 Components): No Original Indication — No Predicted New Indication
+{: .text-alpha }
 
 ## One-Sentence Summary
 

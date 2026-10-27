@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **1**
 
 </div>
 
-# Nitrous Oxide: From Anesthesia and Analgesia to Benign Prostatic Hyperplasia
+## Nitrous Oxide: From Anesthesia and Analgesia to Benign Prostatic Hyperplasia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

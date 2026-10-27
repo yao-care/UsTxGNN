@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Penciclovir: From Herpes Labialis to Fascioliasis
+## Penciclovir: From Herpes Labialis to Fascioliasis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

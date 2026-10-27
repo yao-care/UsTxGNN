@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **7**
 
 </div>
 
-# Methadone: From Opioid Use Disorder and Pain to Tourette Syndrome
+## Methadone: From Opioid Use Disorder and Pain to Tourette Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

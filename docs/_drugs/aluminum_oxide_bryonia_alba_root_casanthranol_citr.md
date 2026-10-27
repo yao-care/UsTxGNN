@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Homeopathic Multi-Ingredient Combination: TxGNN Prediction Unavailable
+## Homeopathic Multi-Ingredient Combination: TxGNN Prediction Unavailable
+{: .text-alpha }
 
 ## One-Sentence Summary
 

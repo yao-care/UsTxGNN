@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Meperidine: From Pain Management to Tourette Syndrome
+## Meperidine: From Pain Management to Tourette Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

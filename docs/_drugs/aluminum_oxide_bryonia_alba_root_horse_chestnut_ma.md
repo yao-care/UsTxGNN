@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Polyherbal-mineral Compound: Insufficient Data, Drug Repurposing Prediction Not Generated
+## Polyherbal-mineral Compound: Insufficient Data, Drug Repurposing Prediction Not Generated
+{: .text-alpha }
 
 ## One-Sentence Summary
 

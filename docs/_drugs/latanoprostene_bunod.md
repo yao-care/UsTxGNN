@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Latanoprostene Bunod: From Open-Angle Glaucoma and Ocular Hypertension to Visceral Calciphylaxis
+## Latanoprostene Bunod: From Open-Angle Glaucoma and Ocular Hypertension to Visceral Calciphylaxis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

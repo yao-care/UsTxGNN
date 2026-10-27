@@ -33,7 +33,8 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Docetaxel: From Lung, Prostate, Gastric, Head and Neck, and Breast Cancer to Female Breast Carcinoma
+## Docetaxel: From Lung, Prostate, Gastric, Head and Neck, and Breast Cancer to Female Breast Carcinoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

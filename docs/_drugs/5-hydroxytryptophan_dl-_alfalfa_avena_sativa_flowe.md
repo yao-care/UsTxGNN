@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Serotonergic Homeopathic Formulation: Evaluation Incomplete — Insufficient Data for Repurposing Assessment
+## Multi-Component Serotonergic Homeopathic Formulation: Evaluation Incomplete — Insufficient Data for Repurposing Assessment
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Peppermint Oil: From an Unspecified Original Indication to Cardiovascular Disease
+## Peppermint Oil: From an Unspecified Original Indication to Cardiovascular Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-component Homeopathic Mixture: Unable to Generate Drug Repurposing Prediction Report
+## Multi-component Homeopathic Mixture: Unable to Generate Drug Repurposing Prediction Report
+{: .text-alpha }
 
 ## One-Sentence Summary
 

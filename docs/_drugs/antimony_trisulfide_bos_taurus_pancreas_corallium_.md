@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Botanical/Mineral Formula (Antimony Trisulfide + Saffron + 5 Components): No Repurposing Candidates Identified
+## Multi-Component Botanical/Mineral Formula (Antimony Trisulfide + Saffron + 5 Components): No Repurposing Candidates Identified
+{: .text-alpha }
 
 ## One-Sentence Summary
 

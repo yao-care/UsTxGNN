@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Thyrotropin Alfa: From Thyroid Cancer Diagnostic Support to Migraine Disorder
+## Thyrotropin Alfa: From Thyroid Cancer Diagnostic Support to Migraine Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Phenazopyridine: From Urinary Tract Pain Relief to Bronchitis
+## Phenazopyridine: From Urinary Tract Pain Relief to Bronchitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

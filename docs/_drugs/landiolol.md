@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Landiolol: From Supraventricular Tachycardia to Lingual-Facial-Buccal Dyskinesia
+## Landiolol: From Supraventricular Tachycardia to Lingual-Facial-Buccal Dyskinesia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

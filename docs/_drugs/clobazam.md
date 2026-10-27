@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Clobazam: From Lennox-Gastaut Syndrome to Childhood Onset Epileptic Encephalopathy
+## Clobazam: From Lennox-Gastaut Syndrome to Childhood Onset Epileptic Encephalopathy
+{: .text-alpha }
 
 ## One-Sentence Summary
 

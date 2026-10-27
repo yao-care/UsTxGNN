@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Oxitriptan: From an Unspecified Original Indication to Insomnia
+## Oxitriptan: From an Unspecified Original Indication to Insomnia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

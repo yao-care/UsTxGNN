@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Allergen Corticotropin Complex: Allergy Diagnostic Panel — No Repurposing Prediction Available
+## Multi-Allergen Corticotropin Complex: Allergy Diagnostic Panel — No Repurposing Prediction Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

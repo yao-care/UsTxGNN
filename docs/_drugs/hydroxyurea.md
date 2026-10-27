@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Hydroxyurea: From Melanoma and Sickle Cell Anemia to Female Breast Carcinoma
+## Hydroxyurea: From Melanoma and Sickle Cell Anemia to Female Breast Carcinoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

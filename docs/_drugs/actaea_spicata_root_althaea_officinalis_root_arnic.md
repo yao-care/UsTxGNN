@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Homeopathic Formula: Repurposing Evaluation Not Feasible — Insufficient Data
+## Multi-Component Homeopathic Formula: Repurposing Evaluation Not Feasible — Insufficient Data
+{: .text-alpha }
 
 ## One-Sentence Summary
 

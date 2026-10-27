@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Prilocaine: From Premature Ejaculation and Psychologic Dyspareunia to Neuralgia
+## Prilocaine: From Premature Ejaculation and Psychologic Dyspareunia to Neuralgia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

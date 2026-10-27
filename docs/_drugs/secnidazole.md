@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Secnidazole: From Bacterial Vaginosis and Trichomoniasis to Postmenopausal Atrophic Vaginitis
+## Secnidazole: From Bacterial Vaginosis and Trichomoniasis to Postmenopausal Atrophic Vaginitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

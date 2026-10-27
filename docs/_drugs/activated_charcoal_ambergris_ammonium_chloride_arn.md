@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Herbal/Homeopathic Complex: Repurposing Evaluation Not Applicable
+## Multi-Component Herbal/Homeopathic Complex: Repurposing Evaluation Not Applicable
+{: .text-alpha }
 
 ## One-Sentence Summary
 

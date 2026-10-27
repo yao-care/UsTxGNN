@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Thyroid Formulation: Insufficient Evidence for Drug Repurposing Evaluation
+## Multi-Component Thyroid Formulation: Insufficient Evidence for Drug Repurposing Evaluation
+{: .text-alpha }
 
 ## One-Sentence Summary
 

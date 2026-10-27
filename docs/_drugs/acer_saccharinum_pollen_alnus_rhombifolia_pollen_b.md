@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Tree Pollen Allergen Mixture: Preliminary Assessment — No Repurposing Predictions Available
+## Multi-Tree Pollen Allergen Mixture: Preliminary Assessment — No Repurposing Predictions Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Allergen Mixture: Repurposing Evaluation Unavailable
+## Multi-Component Allergen Mixture: Repurposing Evaluation Unavailable
+{: .text-alpha }
 
 ## One-Sentence Summary
 

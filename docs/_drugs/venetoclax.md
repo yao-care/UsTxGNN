@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Venetoclax: From Acute Lymphoblastic Leukemia / Richter Syndrome to Chronic Lymphocytic Leukemia Subtypes (Predicted Indication)
+## Venetoclax: From Acute Lymphoblastic Leukemia / Richter Syndrome to Chronic Lymphocytic Leukemia Subtypes (Predicted Indication)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

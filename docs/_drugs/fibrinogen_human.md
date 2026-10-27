@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Fibrinogen Human: From Fibrinogen Replacement in Bleeding to Hemoglobinopathy
+## Fibrinogen Human: From Fibrinogen Replacement in Bleeding to Hemoglobinopathy
+{: .text-alpha }
 
 ## One-Sentence Summary
 

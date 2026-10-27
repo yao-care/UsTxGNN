@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Isavuconazonium: From Invasive Fungal Infections (Aspergillosis and Related Mycoses) to Pneumocystosis
+## Isavuconazonium: From Invasive Fungal Infections (Aspergillosis and Related Mycoses) to Pneumocystosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

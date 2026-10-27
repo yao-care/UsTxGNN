@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-# Cimetidine: From Gastric Ulcer to Smouldering Systemic Mastocytosis
+## Cimetidine: From Gastric Ulcer to Smouldering Systemic Mastocytosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

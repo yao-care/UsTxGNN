@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Hyaluronidase: From an Injection Adjuvant to Diabetic Retinopathy
+## Hyaluronidase: From an Injection Adjuvant to Diabetic Retinopathy
+{: .text-alpha }
 
 ## One-Sentence Summary
 

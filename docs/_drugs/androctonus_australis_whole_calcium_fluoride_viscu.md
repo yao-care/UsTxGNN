@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# ANDROCTONUS AUSTRALIS WHOLE / CALCIUM FLUORIDE / VISCUM ALBUM WHOLE: No Baseline Indication — TxGNN Prediction Unavailable
+## ANDROCTONUS AUSTRALIS WHOLE / CALCIUM FLUORIDE / VISCUM ALBUM WHOLE: No Baseline Indication — TxGNN Prediction Unavailable
+{: .text-alpha }
 
 ## One-Sentence Summary
 

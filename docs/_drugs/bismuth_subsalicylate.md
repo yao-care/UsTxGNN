@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Bismuth Subsalicylate: From Diarrheal Disease and Dyspepsia to Paratyphoid Fever
+## Bismuth Subsalicylate: From Diarrheal Disease and Dyspepsia to Paratyphoid Fever
+{: .text-alpha }
 
 ## One-Sentence Summary
 

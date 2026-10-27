@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Human Secretin: From Pancreatic Diagnostic Use to Open-Angle Glaucoma
+## Human Secretin: From Pancreatic Diagnostic Use to Open-Angle Glaucoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

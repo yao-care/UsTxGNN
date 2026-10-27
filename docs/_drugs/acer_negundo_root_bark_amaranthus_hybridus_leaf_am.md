@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Allergen Mixture (31 Ingredients): No Repurposing Prediction Available
+## Multi-Component Allergen Mixture (31 Ingredients): No Repurposing Prediction Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

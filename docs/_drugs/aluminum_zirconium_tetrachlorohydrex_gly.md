@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Aluminum Zirconium Tetrachlorohydrex Gly: Cosmetic Antiperspirant Ingredient — No Repurposing Prediction Available
+## Aluminum Zirconium Tetrachlorohydrex Gly: Cosmetic Antiperspirant Ingredient — No Repurposing Prediction Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

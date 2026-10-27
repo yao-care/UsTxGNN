@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Alpelisib: From Breast Cancer / PIK3CA-Related Disorders to Pulmonary Hypertension
+## Alpelisib: From Breast Cancer / PIK3CA-Related Disorders to Pulmonary Hypertension
+{: .text-alpha }
 
 ## One-Sentence Summary
 

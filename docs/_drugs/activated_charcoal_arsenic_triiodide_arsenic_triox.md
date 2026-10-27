@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Compound Mixture (Arsenic Trioxide et al.): Insufficient Evidence for Repurposing Evaluation
+## Multi-Component Compound Mixture (Arsenic Trioxide et al.): Insufficient Evidence for Repurposing Evaluation
+{: .text-alpha }
 
 ## One-Sentence Summary
 

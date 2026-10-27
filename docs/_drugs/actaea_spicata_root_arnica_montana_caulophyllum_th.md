@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multicomponent Homeopathic Complex Formula: Assessment Report
+## Multicomponent Homeopathic Complex Formula: Assessment Report
+{: .text-alpha }
 
 ## One-sentence Summary
 

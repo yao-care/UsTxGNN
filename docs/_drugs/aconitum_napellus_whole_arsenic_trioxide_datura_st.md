@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# 12-Ingredient Homeopathic Compound: No TxGNN Repurposing Prediction Available
+## 12-Ingredient Homeopathic Compound: No TxGNN Repurposing Prediction Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

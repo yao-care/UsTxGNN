@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Ingredient Botanical Formula: Insufficient Evidence for Repurposing Evaluation
+## Multi-Ingredient Botanical Formula: Insufficient Evidence for Repurposing Evaluation
+{: .text-alpha }
 
 ## One-Sentence Summary
 

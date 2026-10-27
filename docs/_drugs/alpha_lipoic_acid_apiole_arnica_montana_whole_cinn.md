@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# 18-Component Botanical/Homeopathic Complex: TxGNN Evaluation Not Available
+## 18-Component Botanical/Homeopathic Complex: TxGNN Evaluation Not Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

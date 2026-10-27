@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-# Lumateperone: From Schizophrenia to Retinal Dystrophy (With or Without Extraocular Anomalies)
+## Lumateperone: From Schizophrenia to Retinal Dystrophy (With or Without Extraocular Anomalies)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

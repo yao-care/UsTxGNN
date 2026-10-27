@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Antimony Trisulfide / Bay Leaf / Wormwood Complex: No TxGNN Repurposing Prediction Available
+## Antimony Trisulfide / Bay Leaf / Wormwood Complex: No TxGNN Repurposing Prediction Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

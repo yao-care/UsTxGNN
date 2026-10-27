@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# ARNICA MONTANA ROOT / MATRICARIA RECUTITA / TRIBASIC CALCIUM: Insufficient Data for Repurposing Assessment
+## ARNICA MONTANA ROOT / MATRICARIA RECUTITA / TRIBASIC CALCIUM: Insufficient Data for Repurposing Assessment
+{: .text-alpha }
 
 ## One-Sentence Summary
 

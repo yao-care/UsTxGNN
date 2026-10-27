@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Ampicillin: From Urinary Tract Infection to Laryngitis
+## Ampicillin: From Urinary Tract Infection to Laryngitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

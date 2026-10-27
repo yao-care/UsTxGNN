@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Rosuvastatin: From Hyperlipidemia and Atherosclerotic Disease to Familial Hypercholesterolemia
+## Rosuvastatin: From Hyperlipidemia and Atherosclerotic Disease to Familial Hypercholesterolemia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

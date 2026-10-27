@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Garlic: From an Unspecified Original Indication to Gastrin Secretion Abnormality
+## Garlic: From an Unspecified Original Indication to Gastrin Secretion Abnormality
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **2**
 
 </div>
 
-# Vasopressin: From Vasodilatory Shock to Congenital Prothrombin Deficiency
+## Vasopressin: From Vasodilatory Shock to Congenital Prothrombin Deficiency
+{: .text-alpha }
 
 ## One-Sentence Summary
 

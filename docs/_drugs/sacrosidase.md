@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Sacrosidase: From Congenital Sucrase-Isomaltase Deficiency to Cystinosis
+## Sacrosidase: From Congenital Sucrase-Isomaltase Deficiency to Cystinosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

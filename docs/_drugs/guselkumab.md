@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Guselkumab: From Plaque Psoriasis to Drug-Induced Osteoporosis (Top Prediction), with Ulcerative Colitis as the Best-Supported New Indication
+## Guselkumab: From Plaque Psoriasis to Drug-Induced Osteoporosis (Top Prediction), with Ulcerative Colitis as the Best-Supported New Indication
+{: .text-alpha }
 
 ## One-Sentence Summary
 

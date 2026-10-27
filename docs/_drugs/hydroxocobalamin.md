@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Hydroxocobalamin: From Vitamin B12 Deficiency to Esophageal Varices with Bleeding
+## Hydroxocobalamin: From Vitamin B12 Deficiency to Esophageal Varices with Bleeding
+{: .text-alpha }
 
 ## One-Sentence Summary
 

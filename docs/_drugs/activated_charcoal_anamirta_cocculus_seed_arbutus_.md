@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Ingredient Homeopathic Complex: Insufficient Data for Repurposing Analysis
+## Multi-Ingredient Homeopathic Complex: Insufficient Data for Repurposing Analysis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

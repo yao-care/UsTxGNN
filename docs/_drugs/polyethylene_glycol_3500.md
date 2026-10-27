@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Polyethylene Glycol 3500: From Constipation to Congenital Ichthyosiform Erythroderma
+## Polyethylene Glycol 3500: From Constipation to Congenital Ichthyosiform Erythroderma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

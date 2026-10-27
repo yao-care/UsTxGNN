@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Cholic Acid: From Bile Acid Synthesis and Biliary Disorders to HIV Infectious Disease
+## Cholic Acid: From Bile Acid Synthesis and Biliary Disorders to HIV Infectious Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

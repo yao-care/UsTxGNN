@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Inclisiran: From Hypercholesterolemia (Original Indication Not Recorded) to Potassium Deficiency Disease
+## Inclisiran: From Hypercholesterolemia (Original Indication Not Recorded) to Potassium Deficiency Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

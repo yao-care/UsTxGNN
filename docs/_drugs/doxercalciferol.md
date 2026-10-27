@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Doxercalciferol: From Vitamin D–Related Disorders to Vitamin D Deficiency (Obsolete Term)
+## Doxercalciferol: From Vitamin D–Related Disorders to Vitamin D Deficiency (Obsolete Term)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

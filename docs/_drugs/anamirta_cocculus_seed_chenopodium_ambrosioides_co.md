@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Homeopathic Compound (Nux Vomica / Pulsatilla / Cocculus Complex): Insufficient Evidence for Repurposing Analysis
+## Homeopathic Compound (Nux Vomica / Pulsatilla / Cocculus Complex): Insufficient Evidence for Repurposing Analysis
+{: .text-alpha }
 
 ---
 

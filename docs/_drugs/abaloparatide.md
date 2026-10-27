@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Abaloparatide: From Osteoporosis to Non-Syndromic Esophageal Malformation
+## Abaloparatide: From Osteoporosis to Non-Syndromic Esophageal Malformation
+{: .text-alpha }
 
 ## One-Sentence Summary
 

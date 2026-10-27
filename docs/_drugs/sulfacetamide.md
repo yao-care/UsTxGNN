@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Sulfacetamide: From Acne and Seborrheic Dermatitis to Postinfectious Vasculitis
+## Sulfacetamide: From Acne and Seborrheic Dermatitis to Postinfectious Vasculitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

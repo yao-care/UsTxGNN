@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Dexmethylphenidate: From Attention Deficit Hyperactivity Disorder to Specific Developmental Disorder
+## Dexmethylphenidate: From Attention Deficit Hyperactivity Disorder to Specific Developmental Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

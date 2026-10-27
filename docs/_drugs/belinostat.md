@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Belinostat: From T-Cell Lymphoma to Myeloid Leukemia
+## Belinostat: From T-Cell Lymphoma to Myeloid Leukemia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

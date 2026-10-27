@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Ganirelix: From Fertility Treatment (Ovarian Stimulation) to Hypertrichosis
+## Ganirelix: From Fertility Treatment (Ovarian Stimulation) to Hypertrichosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

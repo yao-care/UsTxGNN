@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Ingredient Homeopathic/Botanical Complex: Insufficient Data for TxGNN Repurposing Analysis
+## Multi-Ingredient Homeopathic/Botanical Complex: Insufficient Data for TxGNN Repurposing Analysis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-# Desipramine: From Anxiety Disorder to Attention Deficit Hyperactivity Disorder, Inattentive Type
+## Desipramine: From Anxiety Disorder to Attention Deficit Hyperactivity Disorder, Inattentive Type
+{: .text-alpha }
 
 ## One-Sentence Summary
 

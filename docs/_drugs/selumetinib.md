@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Selumetinib: From Neurofibromatosis to Peripheral Nerve Schwannoma
+## Selumetinib: From Neurofibromatosis to Peripheral Nerve Schwannoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

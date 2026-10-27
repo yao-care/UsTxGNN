@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Sodium Ferric Gluconate Complex: From Iron Deficiency Anemia to Severe Nonproliferative Diabetic Retinopathy
+## Sodium Ferric Gluconate Complex: From Iron Deficiency Anemia to Severe Nonproliferative Diabetic Retinopathy
+{: .text-alpha }
 
 ## One-Sentence Summary
 

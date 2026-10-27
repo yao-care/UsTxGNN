@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Antimony Trisulfide / Thuja / Veratrum Compound: Homeopathic Multi-Ingredient Mixture — Evaluation Not Possible
+## Antimony Trisulfide / Thuja / Veratrum Compound: Homeopathic Multi-Ingredient Mixture — Evaluation Not Possible
+{: .text-alpha }
 
 ## One-Sentence Summary
 

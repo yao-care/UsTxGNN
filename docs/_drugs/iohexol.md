@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Iohexol: From Radiographic Contrast Imaging to Insomnia
+## Iohexol: From Radiographic Contrast Imaging to Insomnia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

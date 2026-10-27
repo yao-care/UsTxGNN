@@ -33,7 +33,8 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Bendamustine: From Follicular Lymphoma to Mantle Cell Lymphoma
+## Bendamustine: From Follicular Lymphoma to Mantle Cell Lymphoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

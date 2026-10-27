@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Sincalide: From Gallbladder Diagnostic Use to Malignant Catarrh (Model Prediction Only)
+## Sincalide: From Gallbladder Diagnostic Use to Malignant Catarrh (Model Prediction Only)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

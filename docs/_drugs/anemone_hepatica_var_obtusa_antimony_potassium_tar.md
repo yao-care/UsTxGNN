@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Complex Homeopathic Preparation (containing pertussis-related components): Insufficient data, unable to complete drug repurposing analysis
+## Complex Homeopathic Preparation (containing pertussis-related components): Insufficient data, unable to complete drug repurposing analysis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

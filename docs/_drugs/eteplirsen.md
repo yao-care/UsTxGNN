@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Eteplirsen: From Duchenne Muscular Dystrophy to Duchenne and Becker Muscular Dystrophy
+## Eteplirsen: From Duchenne Muscular Dystrophy to Duchenne and Becker Muscular Dystrophy
+{: .text-alpha }
 
 ## One-Sentence Summary
 

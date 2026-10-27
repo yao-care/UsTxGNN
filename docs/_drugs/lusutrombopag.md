@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Lusutrombopag: From Thrombocytopenia to Hereditary Thrombocytopenia with Normal Platelets
+## Lusutrombopag: From Thrombocytopenia to Hereditary Thrombocytopenia with Normal Platelets
+{: .text-alpha }
 
 ## One-Sentence Summary
 

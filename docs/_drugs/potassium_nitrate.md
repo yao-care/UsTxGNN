@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Potassium Nitrate: From an Unspecified Original Indication to Meningococcal Infection
+## Potassium Nitrate: From an Unspecified Original Indication to Meningococcal Infection
+{: .text-alpha }
 
 ## One-Sentence Summary
 

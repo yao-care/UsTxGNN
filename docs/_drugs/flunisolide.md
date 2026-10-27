@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Flunisolide: From Asthma and Allergic Rhinitis to Atopic Eczema
+## Flunisolide: From Asthma and Allergic Rhinitis to Atopic Eczema
+{: .text-alpha }
 
 ## One-Sentence Summary
 

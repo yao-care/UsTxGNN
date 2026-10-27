@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Alprostadil: From Erectile Dysfunction and Ductal-Dependent Congenital Heart Disease to Aortic Malformation
+## Alprostadil: From Erectile Dysfunction and Ductal-Dependent Congenital Heart Disease to Aortic Malformation
+{: .text-alpha }
 
 ## One-Sentence Summary
 

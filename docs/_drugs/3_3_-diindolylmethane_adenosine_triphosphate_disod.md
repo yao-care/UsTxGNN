@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# 13-Ingredient Compound Formula (DIM + ATP + Homeopathic Blend): Evaluation Incomplete — No TxGNN Prediction Generated
+## 13-Ingredient Compound Formula (DIM + ATP + Homeopathic Blend): Evaluation Incomplete — No TxGNN Prediction Generated
+{: .text-alpha }
 
 ## One-Sentence Summary
 

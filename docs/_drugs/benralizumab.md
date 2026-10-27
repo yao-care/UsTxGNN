@@ -33,7 +33,8 @@ Evidence Level: **L2** | Predicted Indications: **5**
 
 </div>
 
-# Benralizumab: From Eosinophilic Pneumonia to Dermatitis
+## Benralizumab: From Eosinophilic Pneumonia to Dermatitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

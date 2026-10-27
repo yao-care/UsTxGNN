@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **5**
 
 </div>
 
-# Hydroxyzine: From Allergic and Atopic Skin and Eye Conditions to Allergic Urticaria
+## Hydroxyzine: From Allergic and Atopic Skin and Eye Conditions to Allergic Urticaria
+{: .text-alpha }
 
 ## One-Sentence Summary
 

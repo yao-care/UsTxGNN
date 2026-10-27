@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Cidofovir: From an Antiviral Indication to Sclerosing Cholangitis
+## Cidofovir: From an Antiviral Indication to Sclerosing Cholangitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

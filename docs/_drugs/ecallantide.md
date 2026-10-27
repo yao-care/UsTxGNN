@@ -33,7 +33,8 @@ Evidence Level: **L1** | Predicted Indications: **6**
 
 </div>
 
-# Ecallantide: From Hereditary Angioedema to C1 Inhibitor Deficiency
+## Ecallantide: From Hereditary Angioedema to C1 Inhibitor Deficiency
+{: .text-alpha }
 
 ## One-Sentence Summary
 

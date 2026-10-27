@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Calcifediol: From Vitamin D–Related Mineral Disorders to Obsolete Vitamin D Deficiency
+## Calcifediol: From Vitamin D–Related Mineral Disorders to Obsolete Vitamin D Deficiency
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Omadacycline: From Bacterial Pneumonia to Mycoplasma pneumoniae Pneumonia
+## Omadacycline: From Bacterial Pneumonia to Mycoplasma pneumoniae Pneumonia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **5**
 
 </div>
 
-# Protriptyline: From Anxiety Disorder to Attention Deficit-Hyperactivity Disorder
+## Protriptyline: From Anxiety Disorder to Attention Deficit-Hyperactivity Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Vandetanib: From Thyroid Gland Carcinoma to Renal Cell Carcinoma
+## Vandetanib: From Thyroid Gland Carcinoma to Renal Cell Carcinoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

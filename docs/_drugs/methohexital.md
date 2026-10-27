@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-# Methohexital: From General Anesthesia to Insomnia
+## Methohexital: From General Anesthesia to Insomnia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

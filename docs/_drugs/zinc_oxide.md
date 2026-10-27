@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **5**
 
 </div>
 
-# Zinc Oxide: From Skin Conditions (Tinea, Dermatitis, Burns) to Acne
+## Zinc Oxide: From Skin Conditions (Tinea, Dermatitis, Burns) to Acne
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Homeopathic Nosode Formula: Repurposing Evaluation Not Applicable
+## Multi-Component Homeopathic Nosode Formula: Repurposing Evaluation Not Applicable
+{: .text-alpha }
 
 ## One-Sentence Summary
 

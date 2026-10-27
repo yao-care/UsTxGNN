@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Bexarotene: From Primary Cutaneous T-Cell Lymphoma to Primary Cutaneous B-Cell Lymphoma
+## Bexarotene: From Primary Cutaneous T-Cell Lymphoma to Primary Cutaneous B-Cell Lymphoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

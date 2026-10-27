@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Cantharidin: From Topical Skin Treatment to Amenorrhea
+## Cantharidin: From Topical Skin Treatment to Amenorrhea
+{: .text-alpha }
 
 ## One-Sentence Summary
 

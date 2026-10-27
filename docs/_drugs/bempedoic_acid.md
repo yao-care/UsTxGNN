@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Bempedoic Acid: From Lipid Lowering (Original Indication Not Recorded) to Homozygous Familial Hypercholesterolemia
+## Bempedoic Acid: From Lipid Lowering (Original Indication Not Recorded) to Homozygous Familial Hypercholesterolemia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

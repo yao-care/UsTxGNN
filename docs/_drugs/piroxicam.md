@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Piroxicam: From Rheumatoid Arthritis to Juvenile Idiopathic Arthritis
+## Piroxicam: From Rheumatoid Arthritis to Juvenile Idiopathic Arthritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

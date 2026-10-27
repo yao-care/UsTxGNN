@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Adenine: From an Unspecified Original Indication to Drug-Induced Osteoporosis
+## Adenine: From an Unspecified Original Indication to Drug-Induced Osteoporosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

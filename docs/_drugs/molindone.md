@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Molindone: From Schizophrenia to Retinal Dystrophy (Top-Ranked Prediction, Unsupported)
+## Molindone: From Schizophrenia to Retinal Dystrophy (Top-Ranked Prediction, Unsupported)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

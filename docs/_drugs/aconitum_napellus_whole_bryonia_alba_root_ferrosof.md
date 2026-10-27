@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Homeopathic Remedy (9 Ingredients): Unable to Generate Drug Repurposing Predictions
+## Multi-Component Homeopathic Remedy (9 Ingredients): Unable to Generate Drug Repurposing Predictions
+{: .text-alpha }
 
 ## One-Sentence Summary
 

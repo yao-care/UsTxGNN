@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Isosorbide Dinitrate: From Angina/Ischemic Heart Disease to Vascular Disease
+## Isosorbide Dinitrate: From Angina/Ischemic Heart Disease to Vascular Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

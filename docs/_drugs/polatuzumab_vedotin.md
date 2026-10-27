@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Polatuzumab Vedotin: From an Unspecified Original Indication to HER2-Positive Breast Carcinoma
+## Polatuzumab Vedotin: From an Unspecified Original Indication to HER2-Positive Breast Carcinoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

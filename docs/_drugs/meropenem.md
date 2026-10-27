@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Meropenem: From Bacterial Infections (Meningitis, Peritonitis, Pseudomonas) to Bacterial Arthritis
+## Meropenem: From Bacterial Infections (Meningitis, Peritonitis, Pseudomonas) to Bacterial Arthritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

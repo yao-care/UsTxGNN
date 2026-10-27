@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Histrelin: From Precocious Puberty to Ambras Type Hypertrichosis Universalis Congenita
+## Histrelin: From Precocious Puberty to Ambras Type Hypertrichosis Universalis Congenita
+{: .text-alpha }
 
 ## One-Sentence Summary
 

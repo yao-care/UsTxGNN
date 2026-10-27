@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Human C1-Esterase Inhibitor: From Hereditary Angioedema Prophylaxis to Severe Nonproliferative Diabetic Retinopathy
+## Human C1-Esterase Inhibitor: From Hereditary Angioedema Prophylaxis to Severe Nonproliferative Diabetic Retinopathy
+{: .text-alpha }
 
 ## One-Sentence Summary
 

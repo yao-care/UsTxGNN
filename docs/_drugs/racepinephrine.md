@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Racepinephrine: From an Unspecified Original Indication to Primary Hereditary Glaucoma
+## Racepinephrine: From an Unspecified Original Indication to Primary Hereditary Glaucoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

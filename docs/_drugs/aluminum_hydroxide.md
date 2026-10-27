@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **4**
 
 </div>
 
-# Aluminum Hydroxide: From Peptic Ulcer Disease to Active Peptic Ulcer Disease
+## Aluminum Hydroxide: From Peptic Ulcer Disease to Active Peptic Ulcer Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

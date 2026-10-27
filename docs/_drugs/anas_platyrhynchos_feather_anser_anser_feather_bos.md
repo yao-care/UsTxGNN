@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Animal Allergen Multi-Panel Extract: No TxGNN Repurposing Prediction Generated
+## Animal Allergen Multi-Panel Extract: No TxGNN Repurposing Prediction Generated
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Diazoxide: From Hyperinsulinemic Hypoglycemia to Alopecia
+## Diazoxide: From Hyperinsulinemic Hypoglycemia to Alopecia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

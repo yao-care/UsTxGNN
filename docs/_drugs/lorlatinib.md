@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Lorlatinib: From Non-Small Cell Lung Cancer to Fibromatosis, Gingival
+## Lorlatinib: From Non-Small Cell Lung Cancer to Fibromatosis, Gingival
+{: .text-alpha }
 
 ## One-Sentence Summary
 

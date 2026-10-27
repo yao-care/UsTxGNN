@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Ferric Maltol: From Iron Deficiency Anemia to Plummer-Vinson Syndrome
+## Ferric Maltol: From Iron Deficiency Anemia to Plummer-Vinson Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

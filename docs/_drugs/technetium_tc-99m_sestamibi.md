@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Technetium Tc-99m Sestamibi: From Diagnostic Imaging to Homozygous Familial Hypercholesterolemia
+## Technetium Tc-99m Sestamibi: From Diagnostic Imaging to Homozygous Familial Hypercholesterolemia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

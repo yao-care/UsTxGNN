@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Acetaminophen + Caffeine: Drug Repurposing Candidate Assessment
+## Acetaminophen + Caffeine: Drug Repurposing Candidate Assessment
+{: .text-alpha }
 
 ---
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Fenfluramine: From Obesity to Proximal 16p11.2 Microdeletion Syndrome
+## Fenfluramine: From Obesity to Proximal 16p11.2 Microdeletion Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

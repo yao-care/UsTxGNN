@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Aluminum Zirconium Pentachlorohydrex Gly: Insufficient Data for Repurposing Evaluation
+## Aluminum Zirconium Pentachlorohydrex Gly: Insufficient Data for Repurposing Evaluation
+{: .text-alpha }
 
 ## One-Sentence Summary
 

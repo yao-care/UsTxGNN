@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Secale Cereale Pollen: From an Unspecified Original Indication to Alopecia
+## Secale Cereale Pollen: From an Unspecified Original Indication to Alopecia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

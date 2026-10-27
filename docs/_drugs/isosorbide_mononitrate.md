@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Isosorbide Mononitrate: From Angina Pectoris to Hypertrichosis
+## Isosorbide Mononitrate: From Angina Pectoris to Hypertrichosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

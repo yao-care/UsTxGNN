@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Mineral Compound (Al₂O₃ / CaSiO₃ / MgSO₄ / SiO₂ / S / Ti / Zn): Preliminary Assessment — Insufficient Data for Repurposing Analysis
+## Multi-Mineral Compound (Al₂O₃ / CaSiO₃ / MgSO₄ / SiO₂ / S / Ti / Zn): Preliminary Assessment — Insufficient Data for Repurposing Analysis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

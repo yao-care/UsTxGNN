@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **6**
 
 </div>
 
-# Lovastatin: From Hyperlipidemia to Homozygous Familial Hypercholesterolemia
+## Lovastatin: From Hyperlipidemia to Homozygous Familial Hypercholesterolemia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

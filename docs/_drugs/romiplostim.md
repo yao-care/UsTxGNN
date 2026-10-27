@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Romiplostim: From Aplastic Anemia and Autoimmune Thrombocytopenia to Primary Release Disorder of Platelets
+## Romiplostim: From Aplastic Anemia and Autoimmune Thrombocytopenia to Primary Release Disorder of Platelets
+{: .text-alpha }
 
 ## One-Sentence Summary
 

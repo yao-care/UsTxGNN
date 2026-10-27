@@ -33,7 +33,8 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Tamoxifen: From Female Breast Carcinoma to Breast Carcinoma In Situ
+## Tamoxifen: From Female Breast Carcinoma to Breast Carcinoma In Situ
+{: .text-alpha }
 
 ## One-Sentence Summary
 

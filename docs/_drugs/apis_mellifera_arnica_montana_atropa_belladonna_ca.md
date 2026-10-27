@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Homeopathic Multi-Component Combination (Apis/Arnica/Belladonna/Echinacea/Mercurius): Insufficient Data for Repurposing Evaluation
+## Homeopathic Multi-Component Combination (Apis/Arnica/Belladonna/Echinacea/Mercurius): Insufficient Data for Repurposing Evaluation
+{: .text-alpha }
 
 ## One-Sentence Summary
 

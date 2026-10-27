@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-# Telavancin: From Bacterial Pneumonia to Hyperamylasemia
+## Telavancin: From Bacterial Pneumonia to Hyperamylasemia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

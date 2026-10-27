@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Ammonia N-13: From a PET Diagnostic Imaging Agent to Non-Syndromic Esophageal Malformation
+## Ammonia N-13: From a PET Diagnostic Imaging Agent to Non-Syndromic Esophageal Malformation
+{: .text-alpha }
 
 ## One-Sentence Summary
 

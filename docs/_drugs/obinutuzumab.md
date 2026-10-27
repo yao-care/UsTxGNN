@@ -31,7 +31,8 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Obinutuzumab: From Acute Lymphoblastic Leukemia and Richter Syndrome to Follicular Lymphoma
+## Obinutuzumab: From Acute Lymphoblastic Leukemia and Richter Syndrome to Follicular Lymphoma
+{: .text-alpha }
 
 > **Note on candidate selection:** The two highest-scoring predictions (99.21% each) are molecular subtypes of chronic lymphocytic leukemia/small lymphocytic lymphoma (CLL/SLL): pregerminal center CLL/SLL and IGHV-mutated CLL/SLL. No trials or publications were compiled for either, and they are nomenclature subtypes of a disease where obinutuzumab is already established. They are not distinct repurposing opportunities. This report therefore focuses on **follicular lymphoma** (99.18%), the highest-ranked prediction with substantial supporting evidence.
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Deoxycholic Acid: From Submental Fat Reduction to Diabetic Nephropathy
+## Deoxycholic Acid: From Submental Fat Reduction to Diabetic Nephropathy
+{: .text-alpha }
 
 ## One-Sentence Summary
 

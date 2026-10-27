@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **2**
 
 </div>
 
-# Nefazodone: From Depression to Migraine Disorder
+## Nefazodone: From Depression to Migraine Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

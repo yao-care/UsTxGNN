@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Rotigotine: From Restless Legs Syndrome and Parkinson Disease to Attention Deficit-Hyperactivity Disorder
+## Rotigotine: From Restless Legs Syndrome and Parkinson Disease to Attention Deficit-Hyperactivity Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

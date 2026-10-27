@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Docusate: From Constipation to Plummer-Vinson Syndrome
+## Docusate: From Constipation to Plummer-Vinson Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

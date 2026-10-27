@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Aluminum Iodide: Insufficient Evidence for Drug Repurposing Evaluation
+## Aluminum Iodide: Insufficient Evidence for Drug Repurposing Evaluation
+{: .text-alpha }
 
 ## One-Sentence Summary
 

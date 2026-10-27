@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Alpha-Tocopherol / Ascorbic Acid / Aspirin / Salix Alba Bark / Vitamin A: No TxGNN Repurposing Prediction Available
+## Alpha-Tocopherol / Ascorbic Acid / Aspirin / Salix Alba Bark / Vitamin A: No TxGNN Repurposing Prediction Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Homeopathic Formula: Repurposing Analysis Not Available
+## Multi-Component Homeopathic Formula: Repurposing Analysis Not Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

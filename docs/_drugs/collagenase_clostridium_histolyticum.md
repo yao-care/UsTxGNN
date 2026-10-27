@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Collagenase Clostridium Histolyticum: From Peyronie Disease to Palmar Fibromatosis (Dupuytren's Disease)
+## Collagenase Clostridium Histolyticum: From Peyronie Disease to Palmar Fibromatosis (Dupuytren's Disease)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

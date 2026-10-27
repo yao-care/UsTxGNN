@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Brodalumab: From an Unspecified Original Indication to Strongyloidiasis
+## Brodalumab: From an Unspecified Original Indication to Strongyloidiasis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

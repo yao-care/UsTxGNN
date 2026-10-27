@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Talc: From No Documented Original Indication to Thrombotic Disease
+## Talc: From No Documented Original Indication to Thrombotic Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

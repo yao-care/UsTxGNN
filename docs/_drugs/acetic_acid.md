@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-# Acetic Acid: From Otitis Externa to Tinea Corporis
+## Acetic Acid: From Otitis Externa to Tinea Corporis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

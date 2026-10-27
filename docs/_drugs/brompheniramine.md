@@ -31,7 +31,8 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Brompheniramine: From Allergic Rhinitis and Urticaria to Allergic Urticaria
+## Brompheniramine: From Allergic Rhinitis and Urticaria to Allergic Urticaria
+{: .text-alpha }
 
 ## One-Sentence Summary
 

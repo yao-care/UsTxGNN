@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Ingredient Heavy Metal Complex: No Repurposing Indication Identified
+## Multi-Ingredient Heavy Metal Complex: No Repurposing Indication Identified
+{: .text-alpha }
 
 ## One-Sentence Summary
 

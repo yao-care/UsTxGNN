@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Selinexor: From Oncology Use to Drug-Induced Osteoporosis
+## Selinexor: From Oncology Use to Drug-Induced Osteoporosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

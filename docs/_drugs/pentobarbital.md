@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Pentobarbital: From Epilepsy and Insomnia to Obesity Disorder
+## Pentobarbital: From Epilepsy and Insomnia to Obesity Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

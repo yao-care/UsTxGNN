@@ -31,7 +31,8 @@ Evidence Level: **L4** | Predicted Indications: **1**
 
 </div>
 
-# Flurazepam: From Insomnia to Sleep Disorder (Initiating and Maintaining Sleep)
+## Flurazepam: From Insomnia to Sleep Disorder (Initiating and Maintaining Sleep)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

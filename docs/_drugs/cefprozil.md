@@ -33,7 +33,8 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Cefprozil: From Respiratory Tract Infections to Urinary Tract Infection
+## Cefprozil: From Respiratory Tract Infections to Urinary Tract Infection
+{: .text-alpha }
 
 ## One-Sentence Summary
 

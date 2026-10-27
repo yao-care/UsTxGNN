@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Allergen Immunotherapy Complex (80-Component): Unable to Complete Evaluation — Critical Data Gaps
+## Allergen Immunotherapy Complex (80-Component): Unable to Complete Evaluation — Critical Data Gaps
+{: .text-alpha }
 
 ## One-Sentence Summary
 

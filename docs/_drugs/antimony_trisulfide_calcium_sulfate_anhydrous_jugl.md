@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Antimony Trisulfide / Calcium Sulfate / Walnut Flower / Sulfur Iodide: Insufficient Data for Repurposing Assessment
+## Antimony Trisulfide / Calcium Sulfate / Walnut Flower / Sulfur Iodide: Insufficient Data for Repurposing Assessment
+{: .text-alpha }
 
 ## One-Sentence Summary
 

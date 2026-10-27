@@ -33,7 +33,8 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Viloxazine: From Narcolepsy to Attention Deficit Hyperactivity Disorder
+## Viloxazine: From Narcolepsy to Attention Deficit Hyperactivity Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

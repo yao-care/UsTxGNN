@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Ingredient Complex (25 Components): TxGNN Repurposing Analysis Not Applicable
+## Multi-Ingredient Complex (25 Components): TxGNN Repurposing Analysis Not Applicable
+{: .text-alpha }
 
 ## One-Sentence Summary
 

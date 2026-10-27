@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Felodipine: From Hypertension to Pulmonary Hypertension (Multifactorial Mechanism)
+## Felodipine: From Hypertension to Pulmonary Hypertension (Multifactorial Mechanism)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

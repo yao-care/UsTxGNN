@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Allergen-Corticotropin Mixture: Insufficient Data for Repurposing Prediction
+## Multi-Component Allergen-Corticotropin Mixture: Insufficient Data for Repurposing Prediction
+{: .text-alpha }
 
 ## One-Sentence Summary
 

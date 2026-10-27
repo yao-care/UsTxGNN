@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Homeopathic Combination: Evaluation Halted — Insufficient Data for Repurposing Analysis
+## Multi-Component Homeopathic Combination: Evaluation Halted — Insufficient Data for Repurposing Analysis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

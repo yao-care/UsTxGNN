@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Vitamin/Mineral Complex: Evaluation Report — No Predicted Indications Available
+## Multi-Vitamin/Mineral Complex: Evaluation Report — No Predicted Indications Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

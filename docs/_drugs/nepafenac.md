@@ -33,7 +33,8 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Nepafenac: From Ocular Inflammation After Cataract Surgery to Eye Disease
+## Nepafenac: From Ocular Inflammation After Cataract Surgery to Eye Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

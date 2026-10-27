@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Hyoscyamine: From Peptic Ulcer Disease to Gastroduodenitis
+## Hyoscyamine: From Peptic Ulcer Disease to Gastroduodenitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

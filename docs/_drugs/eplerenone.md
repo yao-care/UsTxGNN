@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-# Eplerenone: From Hypertension to Pulmonary Hypertension (Multifactorial / Unclear Mechanism)
+## Eplerenone: From Hypertension to Pulmonary Hypertension (Multifactorial / Unclear Mechanism)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Zafirlukast: From Asthma to Bronchitis
+## Zafirlukast: From Asthma to Bronchitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

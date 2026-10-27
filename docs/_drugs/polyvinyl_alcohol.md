@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Polyvinyl Alcohol: From Dry Eye Syndrome to Congenital Ichthyosiform Erythroderma
+## Polyvinyl Alcohol: From Dry Eye Syndrome to Congenital Ichthyosiform Erythroderma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

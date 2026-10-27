@@ -33,7 +33,8 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Hyaluronic Acid: From No Labeled Indication to Dry Eye Syndrome
+## Hyaluronic Acid: From No Labeled Indication to Dry Eye Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

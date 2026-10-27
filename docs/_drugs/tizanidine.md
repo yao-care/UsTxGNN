@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Tizanidine: From Spasticity Management to Migraine Disorder
+## Tizanidine: From Spasticity Management to Migraine Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

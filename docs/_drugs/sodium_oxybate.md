@@ -33,7 +33,8 @@ Evidence Level: **L2** | Predicted Indications: **6**
 
 </div>
 
-# Sodium Oxybate: From Narcolepsy to Insomnia
+## Sodium Oxybate: From Narcolepsy to Insomnia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Etodolac: From Arthritis to Ankylosing Spondylitis
+## Etodolac: From Arthritis to Ankylosing Spondylitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

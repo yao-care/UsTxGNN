@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Aluminum Zirconium Trichlorohydrate: Insufficient Data for Drug Repurposing Evaluation
+## Aluminum Zirconium Trichlorohydrate: Insufficient Data for Drug Repurposing Evaluation
+{: .text-alpha }
 
 ## One-Sentence Summary
 

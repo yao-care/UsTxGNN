@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Ivabradine: From Cardiovascular Use to Hypertrichosis (Computational Prediction Only)
+## Ivabradine: From Cardiovascular Use to Hypertrichosis (Computational Prediction Only)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

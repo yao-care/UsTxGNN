@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Apomorphine: From Parkinson Disease to Schizophrenia
+## Apomorphine: From Parkinson Disease to Schizophrenia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

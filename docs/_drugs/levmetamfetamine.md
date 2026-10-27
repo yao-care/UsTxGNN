@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Levmetamfetamine: From Pharyngitis to Nasal Cavity Disease
+## Levmetamfetamine: From Pharyngitis to Nasal Cavity Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# ANAMIRTA COCCULUS / CONIUM MACULATUM / SILVER NITRATE / THERIDION CURASSAVICUM: Insufficient Data for Repurposing Assessment
+## ANAMIRTA COCCULUS / CONIUM MACULATUM / SILVER NITRATE / THERIDION CURASSAVICUM: Insufficient Data for Repurposing Assessment
+{: .text-alpha }
 
 ## One-Sentence Summary
 

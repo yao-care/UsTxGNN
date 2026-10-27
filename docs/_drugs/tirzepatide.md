@@ -33,7 +33,8 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Tirzepatide: From Type 2 Diabetes and Weight Management to Osteoarthritis
+## Tirzepatide: From Type 2 Diabetes and Weight Management to Osteoarthritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

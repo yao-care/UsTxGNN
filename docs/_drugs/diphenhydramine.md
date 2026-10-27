@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Diphenhydramine: From Allergic Rhinitis and Conjunctivitis to Rosacea Conjunctivitis
+## Diphenhydramine: From Allergic Rhinitis and Conjunctivitis to Rosacea Conjunctivitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

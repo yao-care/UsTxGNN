@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Olsalazine: From Ulcerative Colitis to Myelodysplastic Syndrome
+## Olsalazine: From Ulcerative Colitis to Myelodysplastic Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Loteprednol Etabonate: From Allergic and Inflammatory Eye Disease to Conjunctival Folliculosis
+## Loteprednol Etabonate: From Allergic and Inflammatory Eye Disease to Conjunctival Folliculosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

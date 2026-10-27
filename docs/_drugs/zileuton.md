@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Zileuton: From Asthma to Bronchitis
+## Zileuton: From Asthma to Bronchitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

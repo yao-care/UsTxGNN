@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Meclizine: From Vertigo and Motion Sickness to Allergic Urticaria
+## Meclizine: From Vertigo and Motion Sickness to Allergic Urticaria
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# 3-O-Ethyl Ascorbic Acid / Allantoin / Hippophae Rhamnoides: No Repurposing Prediction Available
+## 3-O-Ethyl Ascorbic Acid / Allantoin / Hippophae Rhamnoides: No Repurposing Prediction Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

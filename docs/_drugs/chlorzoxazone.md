@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-# Chlorzoxazone: From Muscle Relaxation (Original Indication Not Recorded) to Migraine Disorder
+## Chlorzoxazone: From Muscle Relaxation (Original Indication Not Recorded) to Migraine Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

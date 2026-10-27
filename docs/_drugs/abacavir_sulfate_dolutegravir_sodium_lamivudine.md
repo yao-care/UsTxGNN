@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# ABACAVIR SULFATE / DOLUTEGRAVIR SODIUM / LAMIVUDINE: No Predicted Indications (Insufficient Data)
+## ABACAVIR SULFATE / DOLUTEGRAVIR SODIUM / LAMIVUDINE: No Predicted Indications (Insufficient Data)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

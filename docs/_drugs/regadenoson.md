@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Regadenoson: From Diagnostic Pharmacologic Stress Agent to Anaphylaxis
+## Regadenoson: From Diagnostic Pharmacologic Stress Agent to Anaphylaxis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

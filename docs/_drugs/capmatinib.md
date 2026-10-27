@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Capmatinib: From an Unspecified Original Indication to Rheumatoid Arthritis
+## Capmatinib: From an Unspecified Original Indication to Rheumatoid Arthritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

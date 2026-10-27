@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Allergen Immunotherapy Panel: Evaluation Report (Prediction Not Available)
+## Multi-Allergen Immunotherapy Panel: Evaluation Report (Prediction Not Available)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

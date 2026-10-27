@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-# Obiltoxaximab: From Inhalational Anthrax to Postinfectious Vasculitis
+## Obiltoxaximab: From Inhalational Anthrax to Postinfectious Vasculitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

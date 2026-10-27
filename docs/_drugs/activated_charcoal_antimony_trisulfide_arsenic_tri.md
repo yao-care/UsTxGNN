@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Mixture (Activated Charcoal / Arsenic Trioxide / Nux-Vomica et al.): Insufficient Data for Repurposing Evaluation
+## Multi-Component Mixture (Activated Charcoal / Arsenic Trioxide / Nux-Vomica et al.): Insufficient Data for Repurposing Evaluation
+{: .text-alpha }
 
 ## One-Sentence Summary
 

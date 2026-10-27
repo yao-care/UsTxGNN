@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tecovirimat: From Smallpox to Hordeolum
+## Tecovirimat: From Smallpox to Hordeolum
+{: .text-alpha }
 
 ## One-Sentence Summary
 

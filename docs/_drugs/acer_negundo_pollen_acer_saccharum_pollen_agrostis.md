@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Allergen Extract (70-Pollen Mixture): Insufficient Data for Repurposing Analysis
+## Multi-Component Allergen Extract (70-Pollen Mixture): Insufficient Data for Repurposing Analysis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

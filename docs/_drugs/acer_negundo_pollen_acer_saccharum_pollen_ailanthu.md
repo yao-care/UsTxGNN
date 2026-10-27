@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Allergen Pollen Extract Mixture: Evaluation Incomplete — No TxGNN Prediction Available
+## Multi-Allergen Pollen Extract Mixture: Evaluation Incomplete — No TxGNN Prediction Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

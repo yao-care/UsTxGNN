@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **2**
 
 </div>
 
-# Misoprostol: From Gastric Ulcer Indication (Label Text Unavailable) to Amenorrhea
+## Misoprostol: From Gastric Ulcer Indication (Label Text Unavailable) to Amenorrhea
+{: .text-alpha }
 
 ## One-Sentence Summary
 

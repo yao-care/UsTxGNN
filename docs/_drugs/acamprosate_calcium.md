@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Acamprosate Calcium: Evaluation Report — Insufficient Data for Repurposing Analysis
+## Acamprosate Calcium: Evaluation Report — Insufficient Data for Repurposing Analysis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

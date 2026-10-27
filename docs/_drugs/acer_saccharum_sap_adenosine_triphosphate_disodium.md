@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Complex (16 Ingredients): Insufficient Data for Drug Repurposing Assessment
+## Multi-Component Complex (16 Ingredients): Insufficient Data for Drug Repurposing Assessment
+{: .text-alpha }
 
 ## One-Sentence Summary
 

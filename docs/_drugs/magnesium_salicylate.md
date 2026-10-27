@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Magnesium Salicylate: From Arthropathy and Pain Conditions to Spondyloarthropathy (Susceptibility)
+## Magnesium Salicylate: From Arthropathy and Pain Conditions to Spondyloarthropathy (Susceptibility)
+{: .text-alpha }
 
 ## One-Sentence Summary
 

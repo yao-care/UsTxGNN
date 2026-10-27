@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Heparin: From Pulmonary Embolism to Protein C Deficiency Thrombophilia
+## Heparin: From Pulmonary Embolism to Protein C Deficiency Thrombophilia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

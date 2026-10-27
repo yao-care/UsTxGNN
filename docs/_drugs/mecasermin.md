@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-# Mecasermin: From Growth Hormone Insensitivity Syndrome to Monosomy X
+## Mecasermin: From Growth Hormone Insensitivity Syndrome to Monosomy X
+{: .text-alpha }
 
 ## One-Sentence Summary
 

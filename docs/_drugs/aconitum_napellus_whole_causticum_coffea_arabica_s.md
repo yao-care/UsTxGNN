@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Homeopathic Combination (12 Components): Evaluation Not Possible — No Predicted Indication
+## Homeopathic Combination (12 Components): Evaluation Not Possible — No Predicted Indication
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L1** | Predicted Indications: **6**
 
 </div>
 
-# Anastrozole: From Hormone Receptor-Positive Breast Cancer to Female Breast Carcinoma
+## Anastrozole: From Hormone Receptor-Positive Breast Cancer to Female Breast Carcinoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

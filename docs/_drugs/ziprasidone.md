@@ -33,7 +33,8 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Ziprasidone: From Schizophrenia and Bipolar Disorder to Major Affective Disorder
+## Ziprasidone: From Schizophrenia and Bipolar Disorder to Major Affective Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

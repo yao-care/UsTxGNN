@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Acetohydroxamic Acid: From Urinary Tract Infection to Ureaplasma Urethritis
+## Acetohydroxamic Acid: From Urinary Tract Infection to Ureaplasma Urethritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

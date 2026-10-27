@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Aluminum Chloride: From Antiperspirant Use to Skin Disease
+## Aluminum Chloride: From Antiperspirant Use to Skin Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

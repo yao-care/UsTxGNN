@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Oxaprozin: From Rheumatoid Arthritis to Acromesomelic Dysplasia, Hunter-Thompson Type
+## Oxaprozin: From Rheumatoid Arthritis to Acromesomelic Dysplasia, Hunter-Thompson Type
+{: .text-alpha }
 
 ## One-Sentence Summary
 

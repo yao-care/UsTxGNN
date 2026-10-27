@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Aflibercept: From Metastatic Colon Cancer and Retinal Disease to Esotropia
+## Aflibercept: From Metastatic Colon Cancer and Retinal Disease to Esotropia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

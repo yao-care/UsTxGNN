@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# ACETAMINOPHEN / DEXTROMETHORPHAN / PSEUDOEPHEDRINE: Combination Cold Remedy — Repurposing Assessment Incomplete
+## ACETAMINOPHEN / DEXTROMETHORPHAN / PSEUDOEPHEDRINE: Combination Cold Remedy — Repurposing Assessment Incomplete
+{: .text-alpha }
 
 ## One-Sentence Summary
 

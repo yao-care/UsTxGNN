@@ -33,7 +33,8 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Doxorubicin: From Hodgkin Lymphoma and Leukemia to Ewing Sarcoma
+## Doxorubicin: From Hodgkin Lymphoma and Leukemia to Ewing Sarcoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

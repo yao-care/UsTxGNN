@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Zonisamide: From Epilepsy to Tourette Syndrome
+## Zonisamide: From Epilepsy to Tourette Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

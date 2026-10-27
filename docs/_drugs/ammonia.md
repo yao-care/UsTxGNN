@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Ammonia: From Psoriasis and Other Skin Disorders to Acrodermatitis Chronica Atrophicans
+## Ammonia: From Psoriasis and Other Skin Disorders to Acrodermatitis Chronica Atrophicans
+{: .text-alpha }
 
 ## One-Sentence Summary
 

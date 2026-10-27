@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Prasugrel: From Acute Coronary Syndrome to Migraine Disorder
+## Prasugrel: From Acute Coronary Syndrome to Migraine Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

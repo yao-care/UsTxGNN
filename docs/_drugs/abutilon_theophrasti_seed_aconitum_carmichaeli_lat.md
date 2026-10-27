@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Six-Herb Combination Formula: Repurposing Evaluation Incomplete — No Prediction Data Available
+## Six-Herb Combination Formula: Repurposing Evaluation Incomplete — No Prediction Data Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

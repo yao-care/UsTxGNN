@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Bicalutamide: From Prostate Cancer to Hypertrichosis
+## Bicalutamide: From Prostate Cancer to Hypertrichosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

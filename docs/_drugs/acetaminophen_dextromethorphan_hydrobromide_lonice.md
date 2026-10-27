@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Acetaminophen / Dextromethorphan / Lonicera Caprifolium: Cold-Relief Combination — Insufficient Data for Repurposing Analysis
+## Acetaminophen / Dextromethorphan / Lonicera Caprifolium: Cold-Relief Combination — Insufficient Data for Repurposing Analysis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

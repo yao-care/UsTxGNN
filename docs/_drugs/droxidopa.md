@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Droxidopa: From Parkinson Disease–Related Orthostatic Hypotension to Variably Protease-Sensitive Prionopathy
+## Droxidopa: From Parkinson Disease–Related Orthostatic Hypotension to Variably Protease-Sensitive Prionopathy
+{: .text-alpha }
 
 ## One-Sentence Summary
 

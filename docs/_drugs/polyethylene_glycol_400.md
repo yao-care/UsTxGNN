@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Polyethylene Glycol 400: From Constipation and Dry Eye to Bronchitis
+## Polyethylene Glycol 400: From Constipation and Dry Eye to Bronchitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

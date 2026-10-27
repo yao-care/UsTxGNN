@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Nifurtimox: From Chagas Disease to Congenital Analbuminemia
+## Nifurtimox: From Chagas Disease to Congenital Analbuminemia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

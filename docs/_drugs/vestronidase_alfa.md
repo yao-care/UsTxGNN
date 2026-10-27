@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-# Vestronidase Alfa: From Mucopolysaccharidosis to Scheie Syndrome
+## Vestronidase Alfa: From Mucopolysaccharidosis to Scheie Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

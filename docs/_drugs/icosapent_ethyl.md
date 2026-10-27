@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Icosapent Ethyl: From Hypertriglyceridemia to Hemoglobinopathy
+## Icosapent Ethyl: From Hypertriglyceridemia to Hemoglobinopathy
+{: .text-alpha }
 
 ## One-Sentence Summary
 

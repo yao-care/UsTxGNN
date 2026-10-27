@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multivitamin Combination (B1/B2/B3/B6/B9/B12 + C + D3 + E): No Repurposing Prediction Available
+## Multivitamin Combination (B1/B2/B3/B6/B9/B12 + C + D3 + E): No Repurposing Prediction Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

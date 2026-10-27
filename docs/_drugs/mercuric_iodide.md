@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Mercuric Iodide: From an Unspecified Original Indication to Ventricular Tachycardia
+## Mercuric Iodide: From an Unspecified Original Indication to Ventricular Tachycardia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

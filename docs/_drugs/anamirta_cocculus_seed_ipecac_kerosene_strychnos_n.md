@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# ANAMIRTA COCCULUS SEED and Other Combination Formulas: Insufficient Assessment Data, Unable to Generate Predictive Report
+## ANAMIRTA COCCULUS SEED and Other Combination Formulas: Insufficient Assessment Data, Unable to Generate Predictive Report
+{: .text-alpha }
 
 ## One-Sentence Summary
 

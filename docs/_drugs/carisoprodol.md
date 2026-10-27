@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Carisoprodol: From Muscle Relaxation to Insomnia
+## Carisoprodol: From Muscle Relaxation to Insomnia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

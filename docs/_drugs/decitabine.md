@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **1**
 
 </div>
 
-# Decitabine: From Acute Myeloid Leukemia to Refractory Cytopenia of Childhood
+## Decitabine: From Acute Myeloid Leukemia to Refractory Cytopenia of Childhood
+{: .text-alpha }
 
 ## One-Sentence Summary
 

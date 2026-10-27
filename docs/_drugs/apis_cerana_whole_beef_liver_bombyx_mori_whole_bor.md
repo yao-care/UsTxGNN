@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Allergen Complex (Apis Cerana / Corticotropin / Histamine / et al.): Insufficient Data for Repurposing Analysis
+## Multi-Allergen Complex (Apis Cerana / Corticotropin / Histamine / et al.): Insufficient Data for Repurposing Analysis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

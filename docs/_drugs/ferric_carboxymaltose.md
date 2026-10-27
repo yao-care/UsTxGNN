@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Ferric Carboxymaltose: From Iron Deficiency to Bronchitis
+## Ferric Carboxymaltose: From Iron Deficiency to Bronchitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

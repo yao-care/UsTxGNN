@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Mixture (ACETALDEHYDE et al.): Insufficient Evidence for Drug Repurposing Evaluation
+## Multi-Component Mixture (ACETALDEHYDE et al.): Insufficient Evidence for Drug Repurposing Evaluation
+{: .text-alpha }
 
 ## One-Sentence Summary
 

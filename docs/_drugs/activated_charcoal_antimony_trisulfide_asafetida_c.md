@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Ingredient Herbal Compound: TxGNN Repurposing Analysis Inconclusive
+## Multi-Ingredient Herbal Compound: TxGNN Repurposing Analysis Inconclusive
+{: .text-alpha }
 
 ## One-Sentence Summary
 

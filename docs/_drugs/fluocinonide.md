@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Fluocinonide: From Inflammatory Skin Diseases to Alopecia Mucinosa
+## Fluocinonide: From Inflammatory Skin Diseases to Alopecia Mucinosa
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L1** | Predicted Indications: **4**
 
 </div>
 
-# Epinephrine: From Open-Angle Glaucoma, Asthma and Anaphylaxis to Obstructive Lung Disease
+## Epinephrine: From Open-Angle Glaucoma, Asthma and Anaphylaxis to Obstructive Lung Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Fat-Soluble Vitamins (A/D/E/K): No Repurposing Candidates Identified
+## Fat-Soluble Vitamins (A/D/E/K): No Repurposing Candidates Identified
+{: .text-alpha }
 
 ## One-Sentence Summary
 

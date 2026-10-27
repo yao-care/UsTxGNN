@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Cevimeline: From Xerostomia in Sjögren's Syndrome to Hypertrichosis
+## Cevimeline: From Xerostomia in Sjögren's Syndrome to Hypertrichosis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

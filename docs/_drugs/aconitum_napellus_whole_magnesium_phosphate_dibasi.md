@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Botanical Formula (Aconitum / Viscum / Toxicodendron): Insufficient Data for Repurposing Analysis
+## Multi-Component Botanical Formula (Aconitum / Viscum / Toxicodendron): Insufficient Data for Repurposing Analysis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

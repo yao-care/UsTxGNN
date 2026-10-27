@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Sirolimus: From Renal Cell Carcinoma and Lymphangioleiomyomatosis to Liposarcoma
+## Sirolimus: From Renal Cell Carcinoma and Lymphangioleiomyomatosis to Liposarcoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **5**
 
 </div>
 
-# Butenafine: From Superficial Fungal Skin Infections (Tinea) to Cutaneous Candidiasis
+## Butenafine: From Superficial Fungal Skin Infections (Tinea) to Cutaneous Candidiasis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

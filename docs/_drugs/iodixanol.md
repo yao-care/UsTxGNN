@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Iodixanol: From Diagnostic Imaging Contrast Agent to Osteoarthritis Susceptibility
+## Iodixanol: From Diagnostic Imaging Contrast Agent to Osteoarthritis Susceptibility
+{: .text-alpha }
 
 ## One-Sentence Summary
 

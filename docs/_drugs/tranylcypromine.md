@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Tranylcypromine: From Depression to Dysthymic Disorder
+## Tranylcypromine: From Depression to Dysthymic Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

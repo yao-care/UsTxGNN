@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Activated Charcoal Compound (7-Component Mixture): No TxGNN Prediction Generated — Candidate Unresolvable
+## Activated Charcoal Compound (7-Component Mixture): No TxGNN Prediction Generated — Candidate Unresolvable
+{: .text-alpha }
 
 ## One-Sentence Summary
 

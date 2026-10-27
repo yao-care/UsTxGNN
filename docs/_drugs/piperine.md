@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Piperine: From an Unspecified Original Indication to Acne
+## Piperine: From an Unspecified Original Indication to Acne
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Pentosan Polysulfate: From Interstitial Cystitis to Primary Release Disorder of Platelets
+## Pentosan Polysulfate: From Interstitial Cystitis to Primary Release Disorder of Platelets
+{: .text-alpha }
 
 ## One-Sentence Summary
 

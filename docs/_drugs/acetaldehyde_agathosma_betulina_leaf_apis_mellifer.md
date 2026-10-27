@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Ingredient Homeopathic Urinary Preparation: No Predicted Indication Available
+## Multi-Ingredient Homeopathic Urinary Preparation: No Predicted Indication Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

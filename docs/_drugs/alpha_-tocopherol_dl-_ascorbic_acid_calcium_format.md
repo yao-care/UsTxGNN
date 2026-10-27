@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-component Nutritional Supplement (Alpha-Tocopherol / Ascorbic Acid / Cholecalciferol / Cyanocobalamin / Doconexent / Folic Acid + 4 others): Repurposing Evaluation — Insufficient Data
+## Multi-component Nutritional Supplement (Alpha-Tocopherol / Ascorbic Acid / Cholecalciferol / Cyanocobalamin / Doconexent / Folic Acid + 4 others): Repurposing Evaluation — Insufficient Data
+{: .text-alpha }
 
 ---
 

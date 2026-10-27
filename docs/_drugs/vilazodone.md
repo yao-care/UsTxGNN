@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Vilazodone: From Depression to Dysthymic Disorder
+## Vilazodone: From Depression to Dysthymic Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Aluminum Hydroxide / Magnesium Carbonate / Sodium Bicarbonate: Antacid Combination — No Repurposing Candidates Identified
+## Aluminum Hydroxide / Magnesium Carbonate / Sodium Bicarbonate: Antacid Combination — No Repurposing Candidates Identified
+{: .text-alpha }
 
 ## One-Sentence Summary
 

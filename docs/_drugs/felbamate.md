@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Felbamate: From Epilepsy to Trigeminal Neuralgia
+## Felbamate: From Epilepsy to Trigeminal Neuralgia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

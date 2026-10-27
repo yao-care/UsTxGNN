@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Nutrient Complex (DHA-PS / EPA-PS / B-Vitamins / Minerals): From Unknown Indication to No Prediction Available
+## Multi-Nutrient Complex (DHA-PS / EPA-PS / B-Vitamins / Minerals): From Unknown Indication to No Prediction Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

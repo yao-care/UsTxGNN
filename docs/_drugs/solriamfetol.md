@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Solriamfetol: From Narcolepsy to Attention Deficit Hyperactivity Disorder
+## Solriamfetol: From Narcolepsy to Attention Deficit Hyperactivity Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

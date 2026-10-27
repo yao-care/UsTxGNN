@@ -33,7 +33,8 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Clozapine: From Treatment-Resistant Schizophrenia to Manic Bipolar Affective Disorder
+## Clozapine: From Treatment-Resistant Schizophrenia to Manic Bipolar Affective Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

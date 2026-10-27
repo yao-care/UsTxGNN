@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Ingredient Mixture (10 Components): No Repurposing Prediction Available
+## Multi-Ingredient Mixture (10 Components): No Repurposing Prediction Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

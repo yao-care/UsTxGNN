@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Allergen Panel: Unable to Evaluate Drug Repurposing Potential
+## Multi-Allergen Panel: Unable to Evaluate Drug Repurposing Potential
+{: .text-alpha }
 
 ## One-Sentence Summary
 

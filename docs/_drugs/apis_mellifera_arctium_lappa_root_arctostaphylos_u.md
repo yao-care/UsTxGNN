@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Herbal/Homeopathic Formula: Drug Repurposing Assessment Execution Not Possible
+## Multi-Component Herbal/Homeopathic Formula: Drug Repurposing Assessment Execution Not Possible
+{: .text-alpha }
 
 ## One-Sentence Summary
 

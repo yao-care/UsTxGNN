@@ -33,7 +33,8 @@ Evidence Level: **L2** | Predicted Indications: **4**
 
 </div>
 
-# Denileukin Diftitox: From Cutaneous T-Cell Lymphoma to Metastatic Neoplasm
+## Denileukin Diftitox: From Cutaneous T-Cell Lymphoma to Metastatic Neoplasm
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **1**
 
 </div>
 
-# Estriol: From an Unspecified Original Indication to Amenorrhea
+## Estriol: From an Unspecified Original Indication to Amenorrhea
+{: .text-alpha }
 
 ## One-Sentence Summary
 

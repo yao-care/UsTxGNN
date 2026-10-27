@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Botanical Preparation (8 Components): No Repurposing Prediction Available
+## Multi-Component Botanical Preparation (8 Components): No Repurposing Prediction Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

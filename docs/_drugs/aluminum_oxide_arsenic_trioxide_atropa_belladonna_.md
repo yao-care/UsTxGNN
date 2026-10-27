@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-ingredient Homeopathic Complex (25 Components): Insufficient Data for TxGNN Repurposing Analysis
+## Multi-ingredient Homeopathic Complex (25 Components): Insufficient Data for TxGNN Repurposing Analysis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

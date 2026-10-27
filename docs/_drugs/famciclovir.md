@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **9**
 
 </div>
 
-# Famciclovir: From Herpes Zoster to Post-Infectious Neuralgia
+## Famciclovir: From Herpes Zoster to Post-Infectious Neuralgia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

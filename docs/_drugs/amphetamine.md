@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-# Amphetamine: From Attention Deficit Hyperactivity Disorder to Faciodigitogenital Syndrome
+## Amphetamine: From Attention Deficit Hyperactivity Disorder to Faciodigitogenital Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

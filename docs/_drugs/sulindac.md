@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Sulindac: From Musculoskeletal Inflammatory Conditions to Acromesomelic Dysplasia, Hunter-Thompson Type
+## Sulindac: From Musculoskeletal Inflammatory Conditions to Acromesomelic Dysplasia, Hunter-Thompson Type
+{: .text-alpha }
 
 ## One-Sentence Summary
 

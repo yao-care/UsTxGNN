@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Morphine: From Diarrheal Disease to Restless Legs Syndrome
+## Morphine: From Diarrheal Disease to Restless Legs Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

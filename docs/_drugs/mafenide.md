@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Mafenide: From Burn Wound Infection to Irritable Bowel Syndrome
+## Mafenide: From Burn Wound Infection to Irritable Bowel Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

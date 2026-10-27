@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Propylhexedrine: From Nasal Decongestion to Attention Deficit-Hyperactivity Disorder
+## Propylhexedrine: From Nasal Decongestion to Attention Deficit-Hyperactivity Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

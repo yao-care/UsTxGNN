@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-# Fidaxomicin: From Clostridium difficile Colitis to Staphylococcal Scalded Skin Syndrome
+## Fidaxomicin: From Clostridium difficile Colitis to Staphylococcal Scalded Skin Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

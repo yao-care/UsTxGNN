@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Complex (Arsenic Trioxide + 20 Ingredients): No Registered Indication → No TxGNN Prediction Generated
+## Multi-Component Complex (Arsenic Trioxide + 20 Ingredients): No Registered Indication → No TxGNN Prediction Generated
+{: .text-alpha }
 
 ## One-Sentence Summary
 

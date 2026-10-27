@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Black Cohosh: From an Unspecified Original Indication to Heart Disease
+## Black Cohosh: From an Unspecified Original Indication to Heart Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Benzonatate: From Cough Suppression to Cauda Equina Syndrome
+## Benzonatate: From Cough Suppression to Cauda Equina Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

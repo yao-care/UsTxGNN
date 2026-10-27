@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Ingredient Homeopathic Formula: No Drug Repurposing Predictions Generated
+## Multi-Ingredient Homeopathic Formula: No Drug Repurposing Predictions Generated
+{: .text-alpha }
 
 > **Ingredients**: Antipyrine · Arnica Montana · Barium Carbonate · Bismuth Subnitrate · Calcium Fluoride · Delphinium Staphisagria Seed · Hypericum Perforatum · Iron · Matricaria Chamomilla · Plantago Major · Sepia Officinalis Juice · Spigelia Anthelmia · Strychnos Nux-Vomica Seed · Veratrum Album Root
 

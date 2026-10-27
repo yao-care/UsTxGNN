@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Loperamide: From Diarrheal Disease to Amebic Dysentery
+## Loperamide: From Diarrheal Disease to Amebic Dysentery
+{: .text-alpha }
 
 ## One-Sentence Summary
 

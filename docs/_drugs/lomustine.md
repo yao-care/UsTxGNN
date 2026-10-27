@@ -33,7 +33,8 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-# Lomustine: From Hodgkin Lymphoma and Brain Tumors to Lymphosarcoma
+## Lomustine: From Hodgkin Lymphoma and Brain Tumors to Lymphosarcoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

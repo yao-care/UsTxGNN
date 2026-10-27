@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Alpha Lipoic Acid / Arnica Montana / Sus Scrofa Complex: Insufficient Data — No Repurposing Predictions Generated
+## Alpha Lipoic Acid / Arnica Montana / Sus Scrofa Complex: Insufficient Data — No Repurposing Predictions Generated
+{: .text-alpha }
 
 ## One-Sentence Summary
 

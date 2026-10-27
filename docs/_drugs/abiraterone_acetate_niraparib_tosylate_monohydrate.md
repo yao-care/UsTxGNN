@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Abiraterone Acetate / Niraparib Tosylate Monohydrate: Drug Repurposing Assessment
+## Abiraterone Acetate / Niraparib Tosylate Monohydrate: Drug Repurposing Assessment
+{: .text-alpha }
 
 ## One-Sentence Summary
 

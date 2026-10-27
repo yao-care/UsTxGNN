@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **2**
 
 </div>
 
-# Gadodiamide: From Contrast-Enhanced MRI Imaging to Rheumatoid Arthritis
+## Gadodiamide: From Contrast-Enhanced MRI Imaging to Rheumatoid Arthritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

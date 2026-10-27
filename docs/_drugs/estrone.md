@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Estrone: From Acne to Elevated Plasma Zinc
+## Estrone: From Acne to Elevated Plasma Zinc
+{: .text-alpha }
 
 ## One-Sentence Summary
 

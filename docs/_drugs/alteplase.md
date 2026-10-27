@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **9**
 
 </div>
 
-# Alteplase: From Myocardial Infarction to Posterolateral Myocardial Infarction
+## Alteplase: From Myocardial Infarction to Posterolateral Myocardial Infarction
+{: .text-alpha }
 
 ## One-Sentence Summary
 

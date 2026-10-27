@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-# Mepivacaine: From Local Anesthesia to Gastroduodenitis
+## Mepivacaine: From Local Anesthesia to Gastroduodenitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

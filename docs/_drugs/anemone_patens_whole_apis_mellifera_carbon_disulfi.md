@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# ANEMONE PATENS / APIS MELLIFERA / SEPIA Combination: Evaluation Incomplete — Insufficient Data for Repurposing Analysis
+## ANEMONE PATENS / APIS MELLIFERA / SEPIA Combination: Evaluation Incomplete — Insufficient Data for Repurposing Analysis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

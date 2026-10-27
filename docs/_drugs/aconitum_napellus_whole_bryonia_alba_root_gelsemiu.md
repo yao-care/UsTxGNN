@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# ACONITUM NAPELLUS / BRYONIA / GELSEMIUM / Meningococcal-Streptococcal Complex: Insufficient Data for Repurposing Assessment
+## ACONITUM NAPELLUS / BRYONIA / GELSEMIUM / Meningococcal-Streptococcal Complex: Insufficient Data for Repurposing Assessment
+{: .text-alpha }
 
 ## One-Sentence Summary
 

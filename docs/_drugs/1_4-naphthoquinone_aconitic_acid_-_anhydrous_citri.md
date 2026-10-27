@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Formula (20 Ingredients): Insufficient Data for Repurposing Evaluation
+## Multi-Component Formula (20 Ingredients): Insufficient Data for Repurposing Evaluation
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-# Etoposide: From Small Cell Lung Carcinoma to Ewing Sarcoma
+## Etoposide: From Small Cell Lung Carcinoma to Ewing Sarcoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

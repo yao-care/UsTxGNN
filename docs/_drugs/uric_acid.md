@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Uric Acid: From an Unspecified Original Indication to Rheumatoid Arthritis
+## Uric Acid: From an Unspecified Original Indication to Rheumatoid Arthritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

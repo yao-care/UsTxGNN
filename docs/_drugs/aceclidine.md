@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Aceclidine: Repurposing Evaluation — Insufficient Evidence Pack
+## Aceclidine: Repurposing Evaluation — Insufficient Evidence Pack
+{: .text-alpha }
 
 ## One-Sentence Summary
 

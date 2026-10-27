@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Bezlotoxumab: From Clostridium difficile Colitis to Acute Female Pelvic Peritonitis
+## Bezlotoxumab: From Clostridium difficile Colitis to Acute Female Pelvic Peritonitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Potassium Cation: From an Unspecified Original Indication to Hypertensive Disorder
+## Potassium Cation: From an Unspecified Original Indication to Hypertensive Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Ingredient Herbal/Homeopathic Formula: No TxGNN Repurposing Predictions Available
+## Multi-Ingredient Herbal/Homeopathic Formula: No TxGNN Repurposing Predictions Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Benzoic Acid: From Pemphigus and Fibrotic Skin/Connective Tissue Conditions to Bronchitis
+## Benzoic Acid: From Pemphigus and Fibrotic Skin/Connective Tissue Conditions to Bronchitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-# Thioridazine: From Antipsychotic Use to Manic Bipolar Affective Disorder
+## Thioridazine: From Antipsychotic Use to Manic Bipolar Affective Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

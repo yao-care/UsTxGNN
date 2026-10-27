@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# 多成分順勢療法複方: 無法完成老藥新用預測評估
+## 多成分順勢療法複方: 無法完成老藥新用預測評估
+{: .text-alpha }
 
 ## One-Sentence Summary
 

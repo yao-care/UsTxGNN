@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Eslicarbazepine: From Epilepsy to Migraine Disorder
+## Eslicarbazepine: From Epilepsy to Migraine Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

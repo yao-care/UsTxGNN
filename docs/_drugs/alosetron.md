@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Alosetron: From Irritable Bowel Syndrome to Migraine Disorder
+## Alosetron: From Irritable Bowel Syndrome to Migraine Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

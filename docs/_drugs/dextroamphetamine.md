@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-# Dextroamphetamine: From Attention Deficit Hyperactivity Disorder to Faciodigitogenital Syndrome
+## Dextroamphetamine: From Attention Deficit Hyperactivity Disorder to Faciodigitogenital Syndrome
+{: .text-alpha }
 
 ## One-Sentence Summary
 

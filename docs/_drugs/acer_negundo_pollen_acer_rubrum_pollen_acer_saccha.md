@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Allergen Extract Panel: Allergy Immunotherapy — No TxGNN Repurposing Prediction Available
+## Multi-Allergen Extract Panel: Allergy Immunotherapy — No TxGNN Repurposing Prediction Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Memantine: From Alzheimer's-Type Dementia to Migraine Disorder
+## Memantine: From Alzheimer's-Type Dementia to Migraine Disorder
+{: .text-alpha }
 
 Note: The data compiled for this report contains no approved-indication text for memantine, so the original indication is not stated in the regulatory data. The framing above reflects memantine's well-known use as an NMDA receptor antagonist. The report focuses on the best-supported prediction, **migraine disorder** (rank 2), rather than the top-scoring one (pulmonary hypertension), because migraine has far stronger evidence.
 

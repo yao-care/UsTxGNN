@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Tinidazole: From Giardiasis and Vaginal Infections to Postmenopausal Atrophic Vaginitis
+## Tinidazole: From Giardiasis and Vaginal Infections to Postmenopausal Atrophic Vaginitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

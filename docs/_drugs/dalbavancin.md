@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Dalbavancin: From Skin Infection to Postinfectious Vasculitis
+## Dalbavancin: From Skin Infection to Postinfectious Vasculitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

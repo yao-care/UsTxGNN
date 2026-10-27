@@ -33,7 +33,8 @@ Evidence Level: **L4** | Predicted Indications: **1**
 
 </div>
 
-# Apixaban: From Anticoagulation to Migraine Disorder
+## Apixaban: From Anticoagulation to Migraine Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

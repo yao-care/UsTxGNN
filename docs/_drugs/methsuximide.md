@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Methsuximide: From Epilepsy to Insomnia
+## Methsuximide: From Epilepsy to Insomnia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

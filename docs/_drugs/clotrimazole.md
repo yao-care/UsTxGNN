@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Clotrimazole: From Fungal Skin and Mucosal Infections to Acne
+## Clotrimazole: From Fungal Skin and Mucosal Infections to Acne
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-# Diethyltoluamide: From an Insect Repellent (No Approved Indication on Record) to Insomnia
+## Diethyltoluamide: From an Insect Repellent (No Approved Indication on Record) to Insomnia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

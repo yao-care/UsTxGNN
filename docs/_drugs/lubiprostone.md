@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Lubiprostone: From Chronic Constipation to Alopecia
+## Lubiprostone: From Chronic Constipation to Alopecia
+{: .text-alpha }
 
 ## One-Sentence Summary
 

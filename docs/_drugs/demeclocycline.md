@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-# Demeclocycline: From Bacterial Infections to Chronic Ethmoidal Sinusitis
+## Demeclocycline: From Bacterial Infections to Chronic Ethmoidal Sinusitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Arnica/Calendula/Hypericum Multi-Ingredient Homeopathic Preparation: Insufficient Data for Repurposing Analysis
+## Arnica/Calendula/Hypericum Multi-Ingredient Homeopathic Preparation: Insufficient Data for Repurposing Analysis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

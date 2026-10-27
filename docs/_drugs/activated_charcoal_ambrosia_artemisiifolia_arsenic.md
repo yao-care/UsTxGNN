@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Activated Charcoal / Arsenic Trioxide / Sulfur (9-Component Combination): No Repurposing Prediction Available
+## Activated Charcoal / Arsenic Trioxide / Sulfur (9-Component Combination): No Repurposing Prediction Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

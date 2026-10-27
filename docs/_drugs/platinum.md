@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Platinum: From an Unspecified Original Indication to Urinary Bladder Carcinoma
+## Platinum: From an Unspecified Original Indication to Urinary Bladder Carcinoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

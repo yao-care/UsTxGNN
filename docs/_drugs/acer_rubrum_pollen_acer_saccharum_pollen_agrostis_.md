@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Allergen Immunotherapy Extract Complex: Allergen Desensitization – No TxGNN Predictions Available
+## Multi-Allergen Immunotherapy Extract Complex: Allergen Desensitization – No TxGNN Predictions Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

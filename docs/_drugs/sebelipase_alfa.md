@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Sebelipase Alfa: From Lysosomal Acid Lipase Deficiency to Cholesteryl Ester Storage Disease
+## Sebelipase Alfa: From Lysosomal Acid Lipase Deficiency to Cholesteryl Ester Storage Disease
+{: .text-alpha }
 
 ## One-Sentence Summary
 

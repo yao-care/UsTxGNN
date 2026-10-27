@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Emapalumab: From Hemophagocytic Lymphohistiocytosis to Autosomal Recessive Familial Mediterranean Fever
+## Emapalumab: From Hemophagocytic Lymphohistiocytosis to Autosomal Recessive Familial Mediterranean Fever
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Acetaldehyde: Drug Repurposing Evaluation Report
+## Acetaldehyde: Drug Repurposing Evaluation Report
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L2** | Predicted Indications: **1**
 
 </div>
 
-# Trabectedin: From Ovarian Cancer to Female Breast Carcinoma
+## Trabectedin: From Ovarian Cancer to Female Breast Carcinoma
+{: .text-alpha }
 
 ## One-Sentence Summary
 

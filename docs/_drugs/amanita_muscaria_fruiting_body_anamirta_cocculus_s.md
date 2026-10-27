@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Component Homeopathic Mixture: No Repurposing Candidate Identified
+## Multi-Component Homeopathic Mixture: No Repurposing Candidate Identified
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Valrubicin: From Bladder Cancer to Colonic Neoplasm
+## Valrubicin: From Bladder Cancer to Colonic Neoplasm
+{: .text-alpha }
 
 ## One-Sentence Summary
 

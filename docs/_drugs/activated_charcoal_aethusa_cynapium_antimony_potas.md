@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Ingredient Homeopathic Combination (Activated Charcoal + 6 Components): Insufficient Data for Repurposing Evaluation
+## Multi-Ingredient Homeopathic Combination (Activated Charcoal + 6 Components): Insufficient Data for Repurposing Evaluation
+{: .text-alpha }
 
 ## One-Sentence Summary
 

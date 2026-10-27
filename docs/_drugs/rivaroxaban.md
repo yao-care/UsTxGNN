@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-# Rivaroxaban: From Thromboembolic Disorders to Rheumatoid Arthritis
+## Rivaroxaban: From Thromboembolic Disorders to Rheumatoid Arthritis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multivitamin-Mineral Complex (15-Component): Evaluation Not Possible — Insufficient Data
+## Multivitamin-Mineral Complex (15-Component): Evaluation Not Possible — Insufficient Data
+{: .text-alpha }
 
 ## One-Sentence Summary
 

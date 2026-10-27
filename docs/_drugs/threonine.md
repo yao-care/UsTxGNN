@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-# Threonine: From No Recorded Original Indication to Gastroparesis
+## Threonine: From No Recorded Original Indication to Gastroparesis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

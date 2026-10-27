@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Ingredient Homeopathic Formula: Insufficient Evidence for TxGNN Repurposing Assessment
+## Multi-Ingredient Homeopathic Formula: Insufficient Evidence for TxGNN Repurposing Assessment
+{: .text-alpha }
 
 ## One-Sentence Summary
 

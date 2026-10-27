@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Ingredient Combination (13 Components): Evaluation Incomplete — No TxGNN Repurposing Prediction Available
+## Multi-Ingredient Combination (13 Components): Evaluation Incomplete — No TxGNN Repurposing Prediction Available
+{: .text-alpha }
 
 ## One-Sentence Summary
 

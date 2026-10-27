@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Multi-Vitamin/Mineral Complex (Prenatal Supplement): Insufficient Data for Repurposing Analysis
+## Multi-Vitamin/Mineral Complex (Prenatal Supplement): Insufficient Data for Repurposing Analysis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

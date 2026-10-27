@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# ARNICA MONTANA ROOT Herbal Complex: Unable to Conduct Drug Repurposing Assessment
+## ARNICA MONTANA ROOT Herbal Complex: Unable to Conduct Drug Repurposing Assessment
+{: .text-alpha }
 
 ## Summary
 

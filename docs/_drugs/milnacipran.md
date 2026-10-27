@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-# Milnacipran: From Fibromyalgia to Migraine Disorder
+## Milnacipran: From Fibromyalgia to Migraine Disorder
+{: .text-alpha }
 
 ## One-Sentence Summary
 

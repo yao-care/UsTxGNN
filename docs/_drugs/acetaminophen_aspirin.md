@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Acetaminophen + Aspirin: Analgesic/Antipyretic Combination — Repurposing Evaluation Pending
+## Acetaminophen + Aspirin: Analgesic/Antipyretic Combination — Repurposing Evaluation Pending
+{: .text-alpha }
 
 ## One-Sentence Summary
 

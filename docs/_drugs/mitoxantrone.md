@@ -33,7 +33,8 @@ Evidence Level: **L3** | Predicted Indications: **8**
 
 </div>
 
-# Mitoxantrone: From Acute Myeloid Leukemia to Upper Aerodigestive Tract Neoplasm
+## Mitoxantrone: From Acute Myeloid Leukemia to Upper Aerodigestive Tract Neoplasm
+{: .text-alpha }
 
 ## One-Sentence Summary
 

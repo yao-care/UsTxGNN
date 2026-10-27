@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-# Diflunisal: From Rheumatoid Arthritis to Ankylosing Spondylitis
+## Diflunisal: From Rheumatoid Arthritis to Ankylosing Spondylitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

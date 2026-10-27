@@ -32,7 +32,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-# Aluminum Sesquichlorohydrate: Drug Repurposing Assessment — Insufficient Data to Generate Prediction
+## Aluminum Sesquichlorohydrate: Drug Repurposing Assessment — Insufficient Data to Generate Prediction
+{: .text-alpha }
 
 ## One-Sentence Summary
 

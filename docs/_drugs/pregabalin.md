@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Pregabalin: From Anxiety Disorder, Fibromyalgia and Neuropathic Pain to Tendinitis
+## Pregabalin: From Anxiety Disorder, Fibromyalgia and Neuropathic Pain to Tendinitis
+{: .text-alpha }
 
 ## One-Sentence Summary
 

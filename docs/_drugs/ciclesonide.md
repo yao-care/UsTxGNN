@@ -33,7 +33,8 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-# Ciclesonide: From Asthma and Allergic Rhinitis to Atopic Eczema
+## Ciclesonide: From Asthma and Allergic Rhinitis to Atopic Eczema
+{: .text-alpha }
 
 ## One-Sentence Summary
 

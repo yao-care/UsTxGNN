@@ -14,7 +14,7 @@ permalink: /news/ramucirumab/
 ---
 
 <p class="key-answer" data-question="What news is there about Ramucirumab?">
-<strong>Ramucirumab</strong> currently has <strong>10 news articles</strong>, with 1 predicted indications.
+<strong>Ramucirumab</strong> currently has <strong>8 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,7 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (10)
+## Related News (8)
 
 ### [New test could flag which men need aggressive prostate cancer treatment and which don't - Fox News](https://news.google.com/rss/articles/CBMinAFBVV95cUxPeEhmWDRRNXdVY0xXcUlmTDRwaVg1d0Y1cFlVVUF1cGM5ck9RanI2bEJuS3otN2F3YnFFQm9zUTI5UVRmVHN4Vy1YOGxaZy1aV2lZNV9VWnZ5REhqVFhaTi1hd292c2tGb2d3alYxY29rVlBkOE85eWR1RUlqclpGY3BYb21WVmFLSnRkSWpLajBTSjVUTTdDa1FMS2vSAaIBQVVfeXFMUFVrTHVwMDBMa1R1MExmaUtMaHBLZk5QT3FydnQ4Z25fT29IRjI2VS16N3YwbE91ZW41b0lhMXphRnh3Ni1XUks2VXZGNnJXbVNYUjA5aU45NDN1NWs1TTdEajNSYUpac2t5ZXVpYUVaX1BmN2F2R0RuNjRrdVdyUXk2NUNBN2JnRFpXczBneEhUTWJxVWpUWlNFOXM1ZV96Rkp3?oc=5)
 
@@ -42,27 +42,19 @@ Source: [Fox News](https://news.google.com/rss/articles/CBMinAFBVV95cUxPeEhmWDRR
 
 ---
 
+### [He played at Brookfield Landfill as a child. Decades later, this former Staten Islander battled 4 cancer fights](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQnk5WG5jSWRaTnc0TUVzbm5EUDBKcVI4TGViYzV2SVBSbzJyMnZ6MkNRbnU2S09JbXVhd1NiUnRKMUFXN1BpVjVqN1M5NXJueDRvYlRtRUhzb3A1dndLa29NS0JOcTBnVGowUHhJYUlyR2k0OF9VSURZekFZYzVuNTRnY3lTenlCY0V4cE1raXVBQ2RiQ056ZTkzUXJhZFNQLVBlX1JwZENsZUNXQ2FkQVJ2VFJRNE5RSklkX0NQWklkUklUT21QSG1qOXZCUzNNQ0JSME9qQ0V5OWVNMk9pSWpzcGQ?oc=5)
+
+2026-10-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">MI</span>
+
+Source: [SILive.com](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQnk5WG5jSWRaTnc0TUVzbm5EUDBKcVI4TGViYzV2SVBSbzJyMnZ6MkNRbnU2S09JbXVhd1NiUnRKMUFXN1BpVjVqN1M5NXJueDRvYlRtRUhzb3A1dndLa29NS0JOcTBnVGowUHhJYUlyR2k0OF9VSURZekFZYzVuNTRnY3lTenlCY0V4cE1raXVBQ2RiQ056ZTkzUXJhZFNQLVBlX1JwZENsZUNXQ2FkQVJ2VFJRNE5RSklkX0NQWklkUklUT21QSG1qOXZCUzNNQ0JSME9qQ0V5OWVNMk9pSWpzcGQ?oc=5)
+
+---
+
 ### [AI detects “invisible” signs of pancreatic cancer years before diagnosis - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE51T1h4YWVpam5oZE9WWGVkSjFuN1JiVGU3b0xnWE1IdXJwVkdBV0Rrb2FIY1U0N29FaU4yR2ZKT24zVTFxTWkzaHk4Ym5qeGxqU2stdTFMeEZnazhrMVNCVUVoT2FNSDhoU3ZUZGtHaw?oc=5)
 
 2026-10-26 <span class="news-indication-tag">cancer</span>
 
 Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE51T1h4YWVpam5oZE9WWGVkSjFuN1JiVGU3b0xnWE1IdXJwVkdBV0Rrb2FIY1U0N29FaU4yR2ZKT24zVTFxTWkzaHk4Ym5qeGxqU2stdTFMeEZnazhrMVNCVUVoT2FNSDhoU3ZUZGtHaw?oc=5)
-
----
-
-### [​Can breast cancer be treated safely without chemotherapy? 7 things we know so far about the new gene test​ - The Times of India](https://news.google.com/rss/articles/CBMijgJBVV95cUxPVnA1UGFrVy13YjhNbWl6d0xqeUZSYlA0XzI3Q0FibXlGZUx6Ry1Oci1nblJhYk9IRkpFa0FzS0JjU1ZHUUhSblJtanJ6eEQtanBSZ0Z3T1dZbFRJUGFxRHhlampWdC0xb0MwTzNXVkg5bkhNSnlvMEZ4RERkY1lySEhMbjlKU1FydXlheGNfemFWTFgzVE5LanN1bjFCdHJkTDJSTEc2R2FaaTd1WWZwWkpsU09OY3ZPaTQ0d2loSTJJbU8zQUdIdDRGU29CZmo4WllpZmliNFM3dWNIdW1pYTNSRklWVGxna2ZScGJyUjU5VG5seUxyNEVqZHNjbHJFWDk3dGVwZGlqaXJKaHfSAZYCQVVfeXFMT2V5aDlpcU94S0hndXlES0ZfVnM1MHFoRVhOSkpJUlNlczV4WlBGTWJ2cTVMcTlFWWVkbkVLTGpCTWJJeDgxTmtCemhiMnNJRk8tUmlUa1NTTmtnUWVKQklWRTZUX2F3VVZmT1pHMDNNbGYxeWMyRVQ3WTNZbmxySU9icWVGU2dXaWc2SXk2cVZhSE9XakhJc1ctajhBal9JRTh4LWdPdU5meHFwQ1FJajd5OExYblluaEVlOWE5N0t4YllOSUZDenpDc1VuZUhmeHBYWFYzcFpyMHpGaGlGcnl5UWcwd2JKUmViNUNWelVWdEFxMVR2QnZxMTBJbjVIUHdtd1Z2VURRZkpBVGRuTVhkdE11UVE?oc=5)
-
-2026-10-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
-
-Source: [The Times of India](https://news.google.com/rss/articles/CBMijgJBVV95cUxPVnA1UGFrVy13YjhNbWl6d0xqeUZSYlA0XzI3Q0FibXlGZUx6Ry1Oci1nblJhYk9IRkpFa0FzS0JjU1ZHUUhSblJtanJ6eEQtanBSZ0Z3T1dZbFRJUGFxRHhlampWdC0xb0MwTzNXVkg5bkhNSnlvMEZ4RERkY1lySEhMbjlKU1FydXlheGNfemFWTFgzVE5LanN1bjFCdHJkTDJSTEc2R2FaaTd1WWZwWkpsU09OY3ZPaTQ0d2loSTJJbU8zQUdIdDRGU29CZmo4WllpZmliNFM3dWNIdW1pYTNSRklWVGxna2ZScGJyUjU5VG5seUxyNEVqZHNjbHJFWDk3dGVwZGlqaXJKaHfSAZYCQVVfeXFMT2V5aDlpcU94S0hndXlES0ZfVnM1MHFoRVhOSkpJUlNlczV4WlBGTWJ2cTVMcTlFWWVkbkVLTGpCTWJJeDgxTmtCemhiMnNJRk8tUmlUa1NTTmtnUWVKQklWRTZUX2F3VVZmT1pHMDNNbGYxeWMyRVQ3WTNZbmxySU9icWVGU2dXaWc2SXk2cVZhSE9XakhJc1ctajhBal9JRTh4LWdPdU5meHFwQ1FJajd5OExYblluaEVlOWE5N0t4YllOSUZDenpDc1VuZUhmeHBYWFYzcFpyMHpGaGlGcnl5UWcwd2JKUmViNUNWelVWdEFxMVR2QnZxMTBJbjVIUHdtd1Z2VURRZkpBVGRuTVhkdE11UVE?oc=5)
-
----
-
-### [Beer, wine or spirits: A large study finds different mortality patterns for each](https://news.google.com/rss/articles/CBMixAFBVV95cUxPYlBhVGZHYmQ3U2VSbXo2NHhiNEZqamNoRTVyWkdMUG1XX05JbS1UTzI2M0FjSnAxSi1QTVBZR1FENDJkLVdDaTI3Q0FpN1Q5aE5zdkJCeWdYcWQtWnpBaDVoQjYyX204dWtMTlViRVFZdmRzajg5Sk9oRGgzQ0pTRWV6X0laTGtueG1Hbk84NkhXR0RQVzdkdDdyNGFTR2QwN0FzSXhUMi00NFlCQklQM3YyakZSNU1sUm9lN0lrQ3ZRVlNr?oc=5)
-
-2026-10-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMixAFBVV95cUxPYlBhVGZHYmQ3U2VSbXo2NHhiNEZqamNoRTVyWkdMUG1XX05JbS1UTzI2M0FjSnAxSi1QTVBZR1FENDJkLVdDaTI3Q0FpN1Q5aE5zdkJCeWdYcWQtWnpBaDVoQjYyX204dWtMTlViRVFZdmRzajg5Sk9oRGgzQ0pTRWV6X0laTGtueG1Hbk84NkhXR0RQVzdkdDdyNGFTR2QwN0FzSXhUMi00NFlCQklQM3YyakZSNU1sUm9lN0lrQ3ZRVlNr?oc=5)
 
 ---
 
@@ -82,19 +74,11 @@ Source: [Yahoo](https://news.google.com/rss/articles/CBMinwFBVV95cUxPM2ZOMjdoakp
 
 ---
 
-### [Scientists discover how pancreatic cancer rewrites its DNA to escape treatment - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE50RUg0OV82V0p1SllETmpwR210c2gzQ3QtVUdPNTEzcnZqdmdXTV92Wl9pTXM3YVo1ZXVTZlpVSFpmMmtCZDNVUDVaeTRkeDJfSXViTkV5UUlXUU9CWmhCNmgzZU9va21KNjlUQjdUbw?oc=5)
+### [Pittsburgh cancer doctors explain why less treatment can sometimes mean better outcomes](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR0haRmtaVUl0VkJNR2FlbDY4SUlzMEFTNnVCZmVjTkZjcFJxbVhTMGNtbGJKQlc1b3JHNWEzU1dudzJYZC1PazZuWlp3Wlhpa21kcGM5Q3NPOGV0VlpqdEJTOFd4bVZReWU5X1FUVTZZblNwWDFnWUNVeTZxVDhjYWZKaDZ3bU5iMzRXNW05VGRLVG12dkdOUFF0NnlaWjAxTkFzXzFPaFdjWlhrdkpnTl9VdHlfODF2Yy1yc1N6MlNpX1k?oc=5)
 
-2026-10-25 <span class="news-indication-tag">cancer</span>
+2026-10-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE50RUg0OV82V0p1SllETmpwR210c2gzQ3QtVUdPNTEzcnZqdmdXTV92Wl9pTXM3YVo1ZXVTZlpVSFpmMmtCZDNVUDVaeTRkeDJfSXViTkV5UUlXUU9CWmhCNmgzZU9va21KNjlUQjdUbw?oc=5)
-
----
-
-### [A precision T-cell therapy stalls treatment-resistant cancers in clinical trial - Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZjl0SUh0LXZGbmowenpiU00tc3dCWEVQOWJRdmxKZnpSZnQ2WEo4ZjNUVVpseVVqSkJMNnduajdibEJoRUFRMHdseUY0OVl1Y1p4eURIU1lRb3BjaVZfSldWOUNDZ09FZ2tFSFNTaEpYT1BBT2RXX0lXSU5UU05OR2dyU1dQbERoRlNR?oc=5)
-
-2026-10-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
-
-Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZjl0SUh0LXZGbmowenpiU00tc3dCWEVQOWJRdmxKZnpSZnQ2WEo4ZjNUVVpseVVqSkJMNnduajdibEJoRUFRMHdseUY0OVl1Y1p4eURIU1lRb3BjaVZfSldWOUNDZ09FZ2tFSFNTaEpYT1BBT2RXX0lXSU5UU05OR2dyU1dQbERoRlNR?oc=5)
+Source: [TribLIVE.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR0haRmtaVUl0VkJNR2FlbDY4SUlzMEFTNnVCZmVjTkZjcFJxbVhTMGNtbGJKQlc1b3JHNWEzU1dudzJYZC1PazZuWlp3Wlhpa21kcGM5Q3NPOGV0VlpqdEJTOFd4bVZReWU5X1FUVTZZblNwWDFnWUNVeTZxVDhjYWZKaDZ3bU5iMzRXNW05VGRLVG12dkdOUFF0NnlaWjAxTkFzXzFPaFdjWlhrdkpnTl9VdHlfODF2Yy1yc1N6MlNpX1k?oc=5)
 
 ---
 

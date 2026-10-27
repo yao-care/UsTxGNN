@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="What news is there about Ramucirumab?">
-<strong>Ramucirumab</strong> currently has <strong>6 news articles</strong>, with 1 predicted indications.
+<strong>Ramucirumab</strong> currently has <strong>7 news articles</strong>, with 1 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (6)
+## Related News (7)
+
+### [Colorectal cancer is surging in an unexpected group — and it’s ‘developing differently’ - New York Post](https://news.google.com/rss/articles/CBMikwFBVV95cUxPcEU4LTJ4UmpTNk5icmFUOVpmM0otRnNRU3FnOTE5QXlmN0JsUXpNRUVGYmd1REo2OWtUTVJfMkVtakM4cnhBSlRXTUhXOTlTeGRIM1N3ZlR6NlpNazM4MlQ5WmRFS1E3Mkl5d0ZpUmpOSzFINHZlR1I2MGJPcEZfTkdVV0NFTHFfei11c0tRcnk5Z0E?oc=5)
+
+2026-10-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">RA</span>
+
+Source: [New York Post](https://news.google.com/rss/articles/CBMikwFBVV95cUxPcEU4LTJ4UmpTNk5icmFUOVpmM0otRnNRU3FnOTE5QXlmN0JsUXpNRUVGYmd1REo2OWtUTVJfMkVtakM4cnhBSlRXTUhXOTlTeGRIM1N3ZlR6NlpNazM4MlQ5WmRFS1E3Mkl5d0ZpUmpOSzFINHZlR1I2MGJPcEZfTkdVV0NFTHFfei11c0tRcnk5Z0E?oc=5)
+
+---
 
 ### [Scientists Just Connected 2 Types of Ultra-Processed Foods to Lower Colon Cancer Risk](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ1pXUWtGeGhaeXZKMmR0Qld2aVVnNExGUWVvdUp3YlgxYTJWd2VfakM1RU0wYkpTQlI0TEE2Q0hRWHY4Q3h1dzRjVjlYWmh3YkRoNmlPOWdKUGpIenNjdlhBcG5rbVRWTDYyMWFoRVZKSU8zcGRhNk1sSDRBRkxlcVRwVnNQSVFj?oc=5)
 
@@ -45,7 +53,7 @@ Source: [EatingWell](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ1pXUW
 
 ### [New test could flag which men need aggressive prostate cancer treatment and which don't - Fox News](https://news.google.com/rss/articles/CBMinAFBVV95cUxPeEhmWDRRNXdVY0xXcUlmTDRwaVg1d0Y1cFlVVUF1cGM5ck9RanI2bEJuS3otN2F3YnFFQm9zUTI5UVRmVHN4Vy1YOGxaZy1aV2lZNV9VWnZ5REhqVFhaTi1hd292c2tGb2d3alYxY29rVlBkOE85eWR1RUlqclpGY3BYb21WVmFLSnRkSWpLajBTSjVUTTdDa1FMS2vSAaIBQVVfeXFMUFVrTHVwMDBMa1R1MExmaUtMaHBLZk5QT3FydnQ4Z25fT29IRjI2VS16N3YwbE91ZW41b0lhMXphRnh3Ni1XUks2VXZGNnJXbVNYUjA5aU45NDN1NWs1TTdEajNSYUpac2t5ZXVpYUVaX1BmN2F2R0RuNjRrdVdyUXk2NUNBN2JnRFpXczBneEhUTWJxVWpUWlNFOXM1ZV96Rkp3?oc=5)
 
-2026-10-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+2026-10-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
 
 Source: [Fox News](https://news.google.com/rss/articles/CBMinAFBVV95cUxPeEhmWDRRNXdVY0xXcUlmTDRwaVg1d0Y1cFlVVUF1cGM5ck9RanI2bEJuS3otN2F3YnFFQm9zUTI5UVRmVHN4Vy1YOGxaZy1aV2lZNV9VWnZ5REhqVFhaTi1hd292c2tGb2d3alYxY29rVlBkOE85eWR1RUlqclpGY3BYb21WVmFLSnRkSWpLajBTSjVUTTdDa1FMS2vSAaIBQVVfeXFMUFVrTHVwMDBMa1R1MExmaUtMaHBLZk5QT3FydnQ4Z25fT29IRjI2VS16N3YwbE91ZW41b0lhMXphRnh3Ni1XUks2VXZGNnJXbVNYUjA5aU45NDN1NWs1TTdEajNSYUpac2t5ZXVpYUVaX1BmN2F2R0RuNjRrdVdyUXk2NUNBN2JnRFpXczBneEhUTWJxVWpUWlNFOXM1ZV96Rkp3?oc=5)
 
@@ -69,7 +77,7 @@ Source: [Yahoo](https://news.google.com/rss/articles/CBMinwFBVV95cUxPM2ZOMjdoakp
 
 ### [Pittsburgh cancer doctors explain why less treatment can sometimes mean better outcomes](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR0haRmtaVUl0VkJNR2FlbDY4SUlzMEFTNnVCZmVjTkZjcFJxbVhTMGNtbGJKQlc1b3JHNWEzU1dudzJYZC1PazZuWlp3Wlhpa21kcGM5Q3NPOGV0VlpqdEJTOFd4bVZReWU5X1FUVTZZblNwWDFnWUNVeTZxVDhjYWZKaDZ3bU5iMzRXNW05VGRLVG12dkdOUFF0NnlaWjAxTkFzXzFPaFdjWlhrdkpnTl9VdHlfODF2Yy1yc1N6MlNpX1k?oc=5)
 
-2026-10-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+2026-10-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span>
 
 Source: [TribLIVE.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR0haRmtaVUl0VkJNR2FlbDY4SUlzMEFTNnVCZmVjTkZjcFJxbVhTMGNtbGJKQlc1b3JHNWEzU1dudzJYZC1PazZuWlp3Wlhpa21kcGM5Q3NPOGV0VlpqdEJTOFd4bVZReWU5X1FUVTZZblNwWDFnWUNVeTZxVDhjYWZKaDZ3bU5iMzRXNW05VGRLVG12dkdOUFF0NnlaWjAxTkFzXzFPaFdjWlhrdkpnTl9VdHlfODF2Yy1yc1N6MlNpX1k?oc=5)
 

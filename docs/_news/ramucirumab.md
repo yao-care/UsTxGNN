@@ -35,6 +35,14 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 
 ## Related News (6)
 
+### [Scientists Just Connected 2 Types of Ultra-Processed Foods to Lower Colon Cancer Risk](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ1pXUWtGeGhaeXZKMmR0Qld2aVVnNExGUWVvdUp3YlgxYTJWd2VfakM1RU0wYkpTQlI0TEE2Q0hRWHY4Q3h1dzRjVjlYWmh3YkRoNmlPOWdKUGpIenNjdlhBcG5rbVRWTDYyMWFoRVZKSU8zcGRhNk1sSDRBRkxlcVRwVnNQSVFj?oc=5)
+
+2026-10-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+
+Source: [EatingWell](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ1pXUWtGeGhaeXZKMmR0Qld2aVVnNExGUWVvdUp3YlgxYTJWd2VfakM1RU0wYkpTQlI0TEE2Q0hRWHY4Q3h1dzRjVjlYWmh3YkRoNmlPOWdKUGpIenNjdlhBcG5rbVRWTDYyMWFoRVZKSU8zcGRhNk1sSDRBRkxlcVRwVnNQSVFj?oc=5)
+
+---
+
 ### [New test could flag which men need aggressive prostate cancer treatment and which don't - Fox News](https://news.google.com/rss/articles/CBMinAFBVV95cUxPeEhmWDRRNXdVY0xXcUlmTDRwaVg1d0Y1cFlVVUF1cGM5ck9RanI2bEJuS3otN2F3YnFFQm9zUTI5UVRmVHN4Vy1YOGxaZy1aV2lZNV9VWnZ5REhqVFhaTi1hd292c2tGb2d3alYxY29rVlBkOE85eWR1RUlqclpGY3BYb21WVmFLSnRkSWpLajBTSjVUTTdDa1FMS2vSAaIBQVVfeXFMUFVrTHVwMDBMa1R1MExmaUtMaHBLZk5QT3FydnQ4Z25fT29IRjI2VS16N3YwbE91ZW41b0lhMXphRnh3Ni1XUks2VXZGNnJXbVNYUjA5aU45NDN1NWs1TTdEajNSYUpac2t5ZXVpYUVaX1BmN2F2R0RuNjRrdVdyUXk2NUNBN2JnRFpXczBneEhUTWJxVWpUWlNFOXM1ZV96Rkp3?oc=5)
 
 2026-10-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
@@ -64,14 +72,6 @@ Source: [Yahoo](https://news.google.com/rss/articles/CBMinwFBVV95cUxPM2ZOMjdoakp
 2026-10-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
 
 Source: [TribLIVE.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR0haRmtaVUl0VkJNR2FlbDY4SUlzMEFTNnVCZmVjTkZjcFJxbVhTMGNtbGJKQlc1b3JHNWEzU1dudzJYZC1PazZuWlp3Wlhpa21kcGM5Q3NPOGV0VlpqdEJTOFd4bVZReWU5X1FUVTZZblNwWDFnWUNVeTZxVDhjYWZKaDZ3bU5iMzRXNW05VGRLVG12dkdOUFF0NnlaWjAxTkFzXzFPaFdjWlhrdkpnTl9VdHlfODF2Yy1yc1N6MlNpX1k?oc=5)
-
----
-
-### [Chinese cancer drug to go on sale in US after Americans travel to buy it - South China Morning Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxOZnRoaEEyeE9xTHp2dG1ROG55c1J4aElELUVhcjJEdDhZOE5KaEw0dXNLVEZfbkVNQjdWaENOSHV1OVdZZ2NPTmdscG5Pa3UwMzNIbVN1SHFEX2hxVG9zSGZOZVlzZjMyTUZIY29ibnlUMkE3S1VYTk9KUjg4YTQ1Qmp4S0lTRjRNak54ZHY2MkRONXc1cTVsTFlqNFNFOFExSHBjWkUtQlExS0dE0gGsAUFVX3lxTFAxNy1mTVEyeU5DMTEtS2Q0cldEZ3lKRXNDU3o4Sktxc1JkTUZteVFNcm9UR3BncV81QXFWNHI1dkR2V1UxUnhwNG00NmNGazR6d0FqRDdmcmt4X1VyMXlkR3dxYTFLc1Fxb1FXQVJJclIzdlFUbXlRX3JJQzdpMVF1eEpRcHUwWTZYTGlyX1pxMnhiaDlGY0kxUWVrX19zaGpEV05ZOVlwMXJ3bGc?oc=5)
-
-2026-10-22 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
-
-Source: [South China Morning Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxOZnRoaEEyeE9xTHp2dG1ROG55c1J4aElELUVhcjJEdDhZOE5KaEw0dXNLVEZfbkVNQjdWaENOSHV1OVdZZ2NPTmdscG5Pa3UwMzNIbVN1SHFEX2hxVG9zSGZOZVlzZjMyTUZIY29ibnlUMkE3S1VYTk9KUjg4YTQ1Qmp4S0lTRjRNak54ZHY2MkRONXc1cTVsTFlqNFNFOFExSHBjWkUtQlExS0dE0gGsAUFVX3lxTFAxNy1mTVEyeU5DMTEtS2Q0cldEZ3lKRXNDU3o4Sktxc1JkTUZteVFNcm9UR3BncV81QXFWNHI1dkR2V1UxUnhwNG00NmNGazR6d0FqRDdmcmt4X1VyMXlkR3dxYTFLc1Fxb1FXQVJJclIzdlFUbXlRX3JJQzdpMVF1eEpRcHUwWTZYTGlyX1pxMnhiaDlGY0kxUWVrX19zaGpEV05ZOVlwMXJ3bGc?oc=5)
 
 ---
 

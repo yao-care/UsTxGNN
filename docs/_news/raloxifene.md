@@ -3,8 +3,9 @@ layout: default
 title: "Raloxifene News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Raloxifene. Original indication: . 4 predicted indications."
+description: "Health news related to Raloxifene. 4 predicted indications."
 permalink: /news/raloxifene/
+last_modified_at: 2026-10-27
 ---
 
 # Raloxifene News
@@ -26,10 +27,10 @@ This page combines the AI-predicted indications for Raloxifene with the latest h
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (4)</strong>:<ul>
-<li>Duodenal ulcer (99.7%)</li>
-<li>Hypoalphalipoproteinemia (99.7%)</li>
-<li>Duodenal obstruction (99.6%)</li>
-<li>Duodenogastric reflux (99.6%)</li>
+<li>Duodenal ulcer</li>
+<li>Hypoalphalipoproteinemia</li>
+<li>Duodenal obstruction</li>
+<li>Duodenogastric reflux</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/raloxifene/' | relative_url }}">View full drug report →</a></p>

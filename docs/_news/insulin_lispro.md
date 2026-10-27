@@ -3,8 +3,9 @@ layout: default
 title: "Insulin lispro News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Insulin lispro. Original indication: . 0 predicted indications."
+description: "Health news related to Insulin lispro. 0 predicted indications."
 permalink: /news/insulin_lispro/
+last_modified_at: 2026-10-27
 ---
 
 # Insulin lispro News

@@ -3,8 +3,9 @@ layout: default
 title: "Sodium acetate News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Sodium acetate. Original indication: . 0 predicted indications."
+description: "Health news related to Sodium acetate. 0 predicted indications."
 permalink: /news/sodium_acetate/
+last_modified_at: 2026-10-27
 ---
 
 # Sodium acetate News

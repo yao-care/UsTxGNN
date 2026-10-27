@@ -5,6 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about RA (arthritis). 50 articles, 7 related drugs."
 permalink: /news/arthritis/
+last_modified_at: 2026-10-27
 ---
 
 # RA (arthritis) News

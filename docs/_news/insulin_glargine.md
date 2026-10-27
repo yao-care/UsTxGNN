@@ -3,8 +3,9 @@ layout: default
 title: "Insulin glargine News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Insulin glargine. Original indication: . 0 predicted indications."
+description: "Health news related to Insulin glargine. 0 predicted indications."
 permalink: /news/insulin_glargine/
+last_modified_at: 2026-10-27
 ---
 
 # Insulin glargine News

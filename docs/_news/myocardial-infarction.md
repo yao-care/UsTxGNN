@@ -5,6 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about MI (myocardial infarction). 32 articles, 9 related drugs."
 permalink: /news/myocardial-infarction/
+last_modified_at: 2026-10-27
 ---
 
 # MI (myocardial infarction) News

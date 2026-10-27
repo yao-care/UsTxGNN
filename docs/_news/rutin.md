@@ -3,8 +3,9 @@ layout: default
 title: "Rutin News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Rutin. Original indication: . 1 predicted indications."
+description: "Health news related to Rutin. 1 predicted indications."
 permalink: /news/rutin/
+last_modified_at: 2026-10-27
 ---
 
 # Rutin News
@@ -26,7 +27,7 @@ This page combines the AI-predicted indications for Rutin with the latest health
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
 <li><strong>Predicted indications (1)</strong>:<ul>
-<li>Breast fibrocystic disease (99.7%)</li>
+<li>Breast fibrocystic disease</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/rutin/' | relative_url }}">View full drug report →</a></p>

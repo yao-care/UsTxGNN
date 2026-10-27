@@ -5,6 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about UC (inflammatory bowel disease). 3 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
+last_modified_at: 2026-10-27
 ---
 
 # UC (inflammatory bowel disease) News

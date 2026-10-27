@@ -5,6 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about flu (influenza). 4 articles, 2 related drugs."
 permalink: /news/influenza/
+last_modified_at: 2026-10-27
 ---
 
 # flu (influenza) News

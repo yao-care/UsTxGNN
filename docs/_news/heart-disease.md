@@ -5,6 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about CAD (heart disease). 4 articles, 1 related drugs."
 permalink: /news/heart-disease/
+last_modified_at: 2026-10-27
 ---
 
 # CAD (heart disease) News

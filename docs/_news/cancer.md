@@ -5,6 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news about cancer. 6 articles, 1 related drugs."
 permalink: /news/cancer/
+last_modified_at: 2026-10-27
 ---
 
 # cancer News

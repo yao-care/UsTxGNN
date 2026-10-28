@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Ramucirumab. 1 predicted indications."
 permalink: /news/ramucirumab/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # Ramucirumab News
@@ -35,11 +35,11 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 
 ## Related News (7)
 
-### [A 32-year-old woman with intense nausea was told she was ‘too young’ for colon cancer. She was diagnosed at stage 3. - Yahoo News UK](https://news.google.com/rss/articles/CBMid0FVX3lxTFBHYUVrT0JQc190RXh2b1FvYU85RzdKVy0wZkVXRTIwdGZEbFBUYkZBQV9vTy00alhqY2N5SUI5Sl9lOFBlSmp0c2x3VWxnSlBid2c3WkVUY1dQT250YmZBWU9iTmVFOVlVeDNfMHNOQm9jb1A1bi1R?oc=5)
+### [A 32-year-old woman with intense nausea was told she was ‘too young’ for colon cancer. She was diagnosed at stage 3.](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNDdsQUJwMW1KRjQ1eHlEbWpUeXZSWjBwYm8wV05NWU44ZGNnck8xRXRyUmNGTHN6WktFX3V5VDRxdkhTY2MxMmo0WFdTclRESHZGeWRDX1M4Z19xbzFxUGJjMldCempMUnh5YXc1VmFBWlIwd0oxcHBJMldJMHdCR0hZOWN0NTM3VFNV?oc=5)
 
 2026-10-27 <span class="news-indication-tag">cancer</span>
 
-Source: [Yahoo News UK](https://news.google.com/rss/articles/CBMid0FVX3lxTFBHYUVrT0JQc190RXh2b1FvYU85RzdKVy0wZkVXRTIwdGZEbFBUYkZBQV9vTy00alhqY2N5SUI5Sl9lOFBlSmp0c2x3VWxnSlBid2c3WkVUY1dQT250YmZBWU9iTmVFOVlVeDNfMHNOQm9jb1A1bi1R?oc=5)
+Source: [Yahoo](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNDdsQUJwMW1KRjQ1eHlEbWpUeXZSWjBwYm8wV05NWU44ZGNnck8xRXRyUmNGTHN6WktFX3V5VDRxdkhTY2MxMmo0WFdTclRESHZGeWRDX1M4Z19xbzFxUGJjMldCempMUnh5YXc1VmFBWlIwd0oxcHBJMldJMHdCR0hZOWN0NTM3VFNV?oc=5)
 
 ---
 
@@ -56,6 +56,14 @@ Source: [New York Post](https://news.google.com/rss/articles/CBMikwFBVV95cUxPcEU
 2026-10-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
 
 Source: [Fox News](https://news.google.com/rss/articles/CBMinAFBVV95cUxPeEhmWDRRNXdVY0xXcUlmTDRwaVg1d0Y1cFlVVUF1cGM5ck9RanI2bEJuS3otN2F3YnFFQm9zUTI5UVRmVHN4Vy1YOGxaZy1aV2lZNV9VWnZ5REhqVFhaTi1hd292c2tGb2d3alYxY29rVlBkOE85eWR1RUlqclpGY3BYb21WVmFLSnRkSWpLajBTSjVUTTdDa1FMS2vSAaIBQVVfeXFMUFVrTHVwMDBMa1R1MExmaUtMaHBLZk5QT3FydnQ4Z25fT29IRjI2VS16N3YwbE91ZW41b0lhMXphRnh3Ni1XUks2VXZGNnJXbVNYUjA5aU45NDN1NWs1TTdEajNSYUpac2t5ZXVpYUVaX1BmN2F2R0RuNjRrdVdyUXk2NUNBN2JnRFpXczBneEhUTWJxVWpUWlNFOXM1ZV96Rkp3?oc=5)
+
+---
+
+### [Young adults with cancer report getting dismissed by doctors](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oMGtYVHZ0RmdWeTNHTzlGaHZBNzIySTg0YmJ6a3NhT2FSUi15dzFGZlNBUDcyU19xam9iU1ZTOF9EMzI3emc4Rm5JMWY2cDZISjUwdmNJT2xSZ1dtTXpSUjlyeXk1Zw?oc=5)
+
+2026-10-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span>
+
+Source: [Futurity](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oMGtYVHZ0RmdWeTNHTzlGaHZBNzIySTg0YmJ6a3NhT2FSUi15dzFGZlNBUDcyU19xam9iU1ZTOF9EMzI3emc4Rm5JMWY2cDZISjUwdmNJT2xSZ1dtTXpSUjlyeXk1Zw?oc=5)
 
 ---
 
@@ -77,17 +85,9 @@ Source: [Yahoo](https://news.google.com/rss/articles/CBMinwFBVV95cUxPM2ZOMjdoakp
 
 ### [Beyond cigarettes: Uncovering the causes of lung cancer in nonsmokers - The Washington Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxNd1dJVFd0X0lOTldCT2ZGNk83ajctdE12dmdodndXLUVnNWlPd2RzQjBZRV9iVFQzZFdROGFsSW5wMGthTFBVdHdlT0FxT2d6d191aUxDSmxzby02RlFmUGFfb1FhQ0RBUW9ERmc0cGUyQjgzaV8zREV0UDluVVBuZDdnNzVGQkR6TG1IREZpNzdrUlBoRU9rSzZZMVY0UWtpTFh2TV9BSXI2aUhU?oc=5)
 
-2026-10-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
+2026-10-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">UC</span>
 
 Source: [The Washington Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxNd1dJVFd0X0lOTldCT2ZGNk83ajctdE12dmdodndXLUVnNWlPd2RzQjBZRV9iVFQzZFdROGFsSW5wMGthTFBVdHdlT0FxT2d6d191aUxDSmxzby02RlFmUGFfb1FhQ0RBUW9ERmc0cGUyQjgzaV8zREV0UDluVVBuZDdnNzVGQkR6TG1IREZpNzdrUlBoRU9rSzZZMVY0UWtpTFh2TV9BSXI2aUhU?oc=5)
-
----
-
-### [How a photo of a person’s face could help predict whether they’ll survive cancer treatment](https://news.google.com/rss/articles/CBMihAFBVV95cUxPRXdrSjNVamVIVEhUSUtyQ0plTUJIZ3hRbk8xNnJEN2hSaTlnUmwtTmpISzhDeS1jSHpudXlkdFMtckxacXJNcjkyWkJodW15NF90OHFhUWdlRldIb0MwV0MwU05UNGktaEJ4VG1SOUlKX2FzbDBQMUZ6NDQwWC1RbFlCNGs?oc=5)
-
-2026-10-21 <span class="news-indication-tag">cancer</span>
-
-Source: [CNN](https://news.google.com/rss/articles/CBMihAFBVV95cUxPRXdrSjNVamVIVEhUSUtyQ0plTUJIZ3hRbk8xNnJEN2hSaTlnUmwtTmpISzhDeS1jSHpudXlkdFMtckxacXJNcjkyWkJodW15NF90OHFhUWdlRldIb0MwV0MwU05UNGktaEJ4VG1SOUlKX2FzbDBQMUZ6NDQwWC1RbFlCNGs?oc=5)
 
 ---
 

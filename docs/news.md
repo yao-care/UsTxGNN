@@ -12,7 +12,7 @@ permalink: /news/
 News pages for drugs with repurposing reports on UsTxGNN. Each page links back to the drug report.
 {: .fs-6 .fw-300 }
 
-{% assign items = site.news | sort: 'title' %}
+{% assign items = site.news | where_exp: "n", "n.layout != 'id_redirect'" | sort: 'title' %}
 <ul>
 {% for n in items %}<li><a href="{{ n.url | relative_url }}">{{ n.title }}</a></li>
 {% endfor %}</ul>

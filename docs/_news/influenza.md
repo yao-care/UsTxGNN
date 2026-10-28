@@ -41,11 +41,11 @@ Source: [ABC7 New York](https://news.google.com/rss/articles/CBMitAFBVV95cUxQMGh
 
 ---
 
-### [Bird flu is raging on a mink farm. It could spark a human pandemic, experts say, but officials won’t act.](https://news.google.com/rss/articles/CBMidkFVX3lxTE9zNElkN0NkWXJ6ZTZOMVZRVVFoSGFqeFNzRGl6MXpadHdpbzkyWXB4dVJ0ZmlMeGpTbjVRdFVDZERVWS1zZ2F4OUhlTUFpb2pEd0paTWdzdHR5TkVEcndOMTVFNG14cFYzWVNxUS1WczhPb3B6OWc?oc=5)
+### [A 'canary in the coal mine': Measles resurgence exposes weaknesses in U.S. public health, experts say](https://news.google.com/rss/articles/CBMibkFVX3lxTFBQeHFFY0VET0lSLXBsNG1vc0paTjJVOFFrOEd6QlpEZUs5QW9sU0QwTzhqdTloQUhuTFNXTHpKYm1rc1pwQUdMSkt2VHVlWWREa1AtLUpodWU4MTZhOVZYRU5naXNDRmdHOWFOcFhB0gFzQVVfeXFMUFB5ZS1HUWVsSnE0Q0xIa1ZDY1ZhRXV3a3VXeVFJb0VBaGtvS05pOHZhUHRsR2tNSU4xN1NlMnFVYjhzcThDTm5XeUhYMG1Ka1B6UUhtdkMzU19lbmd2X2RvaC1mNnRSblB0cy0zbU5JTzNINA?oc=5)
 
-2026-10-26
+2026-10-27
 
-Source: [CNN](https://news.google.com/rss/articles/CBMidkFVX3lxTE9zNElkN0NkWXJ6ZTZOMVZRVVFoSGFqeFNzRGl6MXpadHdpbzkyWXB4dVJ0ZmlMeGpTbjVRdFVDZERVWS1zZ2F4OUhlTUFpb2pEd0paTWdzdHR5TkVEcndOMTVFNG14cFYzWVNxUS1WczhPb3B6OWc?oc=5)
+Source: [CNBC](https://news.google.com/rss/articles/CBMibkFVX3lxTFBQeHFFY0VET0lSLXBsNG1vc0paTjJVOFFrOEd6QlpEZUs5QW9sU0QwTzhqdTloQUhuTFNXTHpKYm1rc1pwQUdMSkt2VHVlWWREa1AtLUpodWU4MTZhOVZYRU5naXNDRmdHOWFOcFhB0gFzQVVfeXFMUFB5ZS1HUWVsSnE0Q0xIa1ZDY1ZhRXV3a3VXeVFJb0VBaGtvS05pOHZhUHRsR2tNSU4xN1NlMnFVYjhzcThDTm5XeUhYMG1Ka1B6UUhtdkMzU19lbmd2X2RvaC1mNnRSblB0cy0zbU5JTzNINA?oc=5)
 
 ---
 

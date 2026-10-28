@@ -19,7 +19,7 @@ Drug repurposing predictions for United States FDA-approved drugs using the TxGN
 
 | Item | Count |
 |------|------|
-| **Drug Reports** | 957 |
+| **Drug Reports** | 954 |
 | **Total Predictions** | 168,043,848 |
 | **Unique Drugs** | 1,662 |
 | **Unique Indications** | 17,041 |

@@ -4,9 +4,9 @@ title: Propylhexedrine
 parent: Model Prediction Only (L5)
 nav_order: 1094
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "PROPYLHEXEDRINE"
-predicted_indications: ["attention deficit-hyperactivity disorder", "migraine disorder", "faciodigitogenital syndrome", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "erectile dysfunction (disease)", "atrophoderma vermiculata", "ulerythema ophryogenesis", "trichotillomania", "Tourette syndrome"]
+predicted_indications: ["attention deficit-hyperactivity disorder", "migraine disorder", "faciodigitogenital syndrome", "migraine with brainstem aura", "erectile dysfunction (disease)", "atrophoderma vermiculata", "ulerythema ophryogenesis", "trichotillomania", "Tourette syndrome"]
 last_modified_at: 2026-10-14
 description: "Propylhexedrine: predicted new indication Attention deficit-hyperactivity disorder (evidence level L5). Approved use: Not available"
 ---
@@ -14,7 +14,7 @@ description: "Propylhexedrine: predicted new indication Attention deficit-hypera
 # Propylhexedrine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **attention deficit-hyperactivi
 |------|------|
 | Original Indication | Not available (the license record has no approved indication text) |
 | Predicted New Indication | Attention deficit-hyperactivity disorder |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -63,15 +63,14 @@ This link is speculative. Propylhexedrine is reported to have much weaker centra
 
 | Rank | Predicted Indication | Score | Assessment |
 |------|------|------|------|
-| 2 | Migraine disorder | 99.97% | No mechanistic rationale. Sympathomimetics may trigger headache or raise blood pressure, so benefit is uncertain. |
-| 3 | Faciodigitogenital syndrome | 99.96% | Rare genetic developmental disorder. No plausible pharmacological link; likely a network artifact. |
-| 4 | Migraine with brainstem aura | 99.95% | Same unsupported rationale as migraine. Vasoconstrictive sympathomimetics are generally a caution in aura-type migraine. |
-| 5 | Migraine with or without aura, susceptibility to | 99.94% | A genetic susceptibility locus rather than a treatable phenotype. Likely driven by gene-disease network associations. |
-| 6 | Erectile dysfunction | 99.93% | Sympathomimetics typically oppose erection through alpha-adrenergic vasoconstriction, so the pharmacology argues against benefit. |
-| 7 | Atrophoderma vermiculata | 99.89% | Rare follicular atrophic skin disorder. No mechanistic connection; appears to be a model artifact. |
-| 8 | Ulerythema ophryogenesis | 99.87% | Rare atrophic eyebrow condition. No pharmacological rationale. |
-| 9 | Trichotillomania | 99.86% | A catecholaminergic link is conceivable but unsupported, and stimulants may worsen repetitive behaviors. |
-| 10 | Tourette syndrome | 99.84% | Stimulant-class sympathomimetics can exacerbate tics, so a therapeutic role is not supported. |
+| 2 | Migraine disorder | 0.9997 | No mechanistic rationale. Sympathomimetics may trigger headache or raise blood pressure, so benefit is uncertain. |
+| 3 | Faciodigitogenital syndrome | 0.9996 | Rare genetic developmental disorder. No plausible pharmacological link; likely a network artifact. |
+| 4 | Migraine with brainstem aura | 0.9995 | Same unsupported rationale as migraine. Vasoconstrictive sympathomimetics are generally a caution in aura-type migraine. |
+| 6 | Erectile dysfunction | 0.9993 | Sympathomimetics typically oppose erection through alpha-adrenergic vasoconstriction, so the pharmacology argues against benefit. |
+| 7 | Atrophoderma vermiculata | 0.9989 | Rare follicular atrophic skin disorder. No mechanistic connection; appears to be a model artifact. |
+| 8 | Ulerythema ophryogenesis | 0.9987 | Rare atrophic eyebrow condition. No pharmacological rationale. |
+| 9 | Trichotillomania | 0.9986 | A catecholaminergic link is conceivable but unsupported, and stimulants may worsen repetitive behaviors. |
+| 10 | Tourette syndrome | 0.9984 | Stimulant-class sympathomimetics can exacerbate tics, so a therapeutic role is not supported. |
 
 ## Clinical Trial Evidence
 
@@ -87,7 +86,7 @@ Currently no related literature available.
 |---------|------|------|-----------|
 | M012 (cancelled) | BENZEDREX | Inhalant | Not available |
 
-The manufacturer was BF Ascher and Co Inc. No valid licenses remain.
+The manufacturer was BF Ascher and Co Inc. 1 of 1 licenses is valid.
 
 ## Safety Considerations
 

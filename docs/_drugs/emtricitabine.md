@@ -48,9 +48,9 @@ but there are **0 registered clinical trials** and **20 publications** (almost a
 |------|------|
 | Original Indication | HIV infectious disease, AIDS |
 | Predicted New Indication | Simian immunodeficiency virus infection |
-| TxGNN Prediction Score | 99.92% |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid authorizations) |
+| US Market Status | Marketed (valid licenses on record: at least 14) |
 | Number of NDAs | 14 (all cancelled) |
 | Recommended Decision | Hold |
 
@@ -89,7 +89,7 @@ Most of the 20 publications are macaque studies. The table lists the most releva
 
 ## US Market Information
 
-All 14 US authorizations are cancelled, and no approved indication text is available. The table lists 5 of them.
+14 US authorizations are valid (marketed), and no approved indication text is available. The table lists 5 of them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -114,7 +114,7 @@ For label warnings and contraindications, please refer to the package insert.
 **Decision: Hold**
 
 **Rationale:**
-The high TxGNN score reflects the biological similarity between HIV and SIV. The supporting evidence is entirely preclinical (macaque models) and supports the existing HIV indication and PrEP use rather than a new human therapy. SIV does not infect humans, there are no registered trials, and all US authorizations are cancelled.
+The high TxGNN score (0.9992) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The supporting evidence is entirely preclinical (macaque models) and supports the existing HIV indication and PrEP use rather than a new human therapy. SIV does not infect humans, there are no registered trials, and the drug is marketed in the US with 14 valid authorizations.
 
 **To proceed, the following is needed:**
 - Confirmation that a human-relevant new indication exists (SIV and FIV are animal diseases)

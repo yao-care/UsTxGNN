@@ -49,9 +49,9 @@ The TxGNN model predicts it may be effective for **Alopecia Areata**, and the da
 |------|------|
 | Original Indication | Adrenocortical insufficiency, Crohn disease, congenital adrenal hyperplasia, acute lymphoblastic leukemia, and others (the US license entries carry no indication text) |
 | Predicted New Indication | Alopecia areata |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L2 |
-| US Market Status | Cancelled only (all 15 ANDA entries are cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 15) |
 | Number of NDAs | 15 (all ANDAs; none currently valid) |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -92,7 +92,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All 15 US authorizations are ANDAs and all are currently cancelled. The data compiled for this report contain no approved-indication text for them. The first five are listed below.
+All 15 US authorizations are ANDAs and all are currently valid. The data compiled for this report contain no approved-indication text for them. The first five are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -121,16 +121,16 @@ Please refer to the package insert for full warnings, as label-based warnings an
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Alopecia areata has a plausible immune-mediated mechanism and a body of supporting literature, including a randomized trial in children, a network meta-analysis and several cohort studies. However, there are no registered clinical trials, the randomized evidence is small and open-label, relapse after discontinuation is common, and JAK inhibitors are a competing standard. All US ANDAs are currently cancelled.
+Alopecia areata has a plausible immune-mediated mechanism and a body of supporting literature, including a randomized trial in children, a network meta-analysis and several cohort studies. However, there are no registered clinical trials, the randomized evidence is small and open-label, relapse after discontinuation is common, and JAK inhibitors are a competing standard. The drug is marketed in the US, with 15 valid licenses.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism-of-action data
 - Larger, well-controlled randomized trials comparing dexamethasone mini-pulse with JAK inhibitors, with relapse follow-up
 - A steroid-exposure safety plan (blood pressure, glucose, bone health, growth in children)
-- Clarification of the US regulatory pathway given that all listed ANDAs are cancelled
+- Clarification of the US regulatory pathway given that the listed ANDAs are currently valid
 
-**Other predicted indications:** The remaining nine predictions (alopecia mucinosa, telogen effluvium, folliculitis decalvans, alopecia antibody deficiency, hereditary hypotrichosis with recurrent skin vesicles, alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome, atrichia with papular lesions, alopecia universalis onychodystrophy vitiligo, and prolapse of lacrimal gland) have no supporting trials or relevant literature (Evidence Level L5). All are recommended as **Hold**. Their high TxGNN scores likely reflect knowledge-graph similarity to alopecia areata rather than independent evidence.
+**Other predicted indications:** The remaining nine predictions (alopecia mucinosa, telogen effluvium, folliculitis decalvans, alopecia antibody deficiency, hereditary hypotrichosis with recurrent skin vesicles, alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome, atrichia with papular lesions, alopecia universalis onychodystrophy vitiligo, and prolapse of lacrimal gland) have no supporting trials or relevant literature (Evidence Level L5). All are recommended as **Hold**. Their high TxGNN scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

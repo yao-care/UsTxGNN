@@ -6,9 +6,9 @@ nav_order: 780
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Hydroxyprogesterone Caproate: predicted new indication Endometrial cancer (evidence level L5). Approved use: Not available (the one US authorization has no indication text)"
 monitor_inn: "HYDROXYPROGESTERONE CAPROATE"
 predicted_indications: ["endometriosis of uterus", "renal hypoplasia, bilateral", "endometriosis of rectovaginal septum and vagina", "endometriosis in cutaneous scar", "renal hypoplasia (disease)", "uterine corpus cancer", "cervix endometriosis", "endometrial cancer", "breast fibrocystic disease", "infantile cerebral and cerebellar atrophy with postnatal progressive microcephaly"]
+description: "Hydroxyprogesterone Caproate: predicted new indication Endometriosis of uterus (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Hydroxyprogesterone Caproate
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Hydroxyprogesterone Caproate: From an Unspecified Original Indication to Endometrial Cancer
+## Hydroxyprogesterone Caproate: Endometriosis of uterus
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,12 +48,12 @@ There are **0 registered clinical trials** and **20 publications** for endometri
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (the one US authorization has no indication text) |
-| Predicted New Indication | Endometrial cancer (see the note on rank-1 prediction below) |
-| TxGNN Prediction Score | 99.96% (endometrial cancer); 99.98% (rank-1, endometriosis of uterus) |
-| Evidence Level | L3 (endometrial cancer); L4 for endometriosis of uterus; L5 for most other predictions |
-| US Market Status | Cancelled only (no currently valid authorization) |
-| Number of NDAs | 1 (an ANDA, cancelled) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Endometriosis of uterus |
+| TxGNN Prediction Score | 0.9998 |
+| Evidence Level | L5 (endometrial cancer); L4 for endometriosis of uterus; L5 for most other predictions |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 **Note on selection:** The top-ranked prediction by TxGNN score is endometriosis of uterus. Its only publication is a case report of a pregnancy complication, which is not evidence of efficacy. This report therefore features endometrial cancer, the prediction with the most substantial evidence. Other predictions are summarized at the end.
@@ -123,12 +123,10 @@ No drug interaction data were found. Please refer to the package insert for labe
 
 | Predicted Indication | Score | Evidence Level | Comment |
 |------|------|------|------|
-| Endometriosis of uterus | 99.98% | L4 | Only a case report of a complication; no efficacy evidence |
-| Uterine corpus cancer | 99.96% | L3 | Overlaps with endometrial cancer; assess together |
-| Endometriosis (rectovaginal septum and vagina, cutaneous scar, cervix) | 99.96-99.97% | L5 | Progestin class rationale only; no drug-specific data |
-| Breast fibrocystic disease | 99.96% | L5 | Loose rationale; no data |
-| Renal hypoplasia (bilateral and unspecified) | 99.97% | L5 | No plausible mechanism; likely graph artifact |
-| Infantile cerebral and cerebellar atrophy with microcephaly | 99.94% | L5 | No plausible mechanism; likely graph artifact |
+| Endometriosis of uterus | 0.9998 | L5 | Only a case report of a complication; no efficacy evidence |
+| Uterine corpus cancer | 0.9996 | L3 | Overlaps with endometrial cancer; assess together |
+| Endometriosis (rectovaginal septum and vagina, cutaneous scar, cervix) | 99.96-0.9997 | L5 | Progestin class rationale only; no drug-specific data |
+| Breast fibrocystic disease | 0.9996 | L5 | Loose rationale; no data |
 
 ---
 

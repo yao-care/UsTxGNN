@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **elevated plasma zinc**, but t
 |------|------|
 | Original Indication | Acne (acne vulgaris) |
 | Predicted New Indication | Elevated plasma zinc |
-| TxGNN Prediction Score | 99.40% |
+| TxGNN Prediction Score | 0.9940 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid authorization) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -59,7 +59,7 @@ Currently, detailed mechanism of action data is not available from the data comp
 
 Its efficacy in acne is established: it completed Phase 3 trials and received FDA approval in October 2019. However, no credible mechanistic link to elevated plasma zinc was identified. Elevated plasma zinc is a metabolic or laboratory finding (for example, from excess supplementation or disordered zinc homeostasis). It is not a disease process known to be modulated by retinoic acid receptor signalling. The high score (0.994) probably reflects indirect network associations, such as retinoid and zinc co-involvement in skin and vitamin A biology, rather than a validated target relationship. Topical use with minimal systemic exposure further weakens the case for any systemic metabolic effect.
 
-The model's second-ranked prediction, **pyogenic arthritis–pyoderma gangrenosum–acne (PAPA) syndrome** (score 99.32%), has only a weak, indirect link. PAPA is an autoinflammatory disorder driven by PSTPIP1 mutations and excess IL-1β. Because acne is one component of the syndrome, trifarotene could at most serve as an adjunct for the skin acne manifestation. There is no evidence that it affects the arthritis, the pyoderma gangrenosum or the core inflammatory drivers. Standard management relies on corticosteroids and IL-1 or TNF inhibitors. No trials or literature were found for this indication either.
+The model's second-ranked prediction, **pyogenic arthritis–pyoderma gangrenosum–acne (PAPA) syndrome** (score 0.9932), has only a weak, indirect link. PAPA is an autoinflammatory disorder driven by PSTPIP1 mutations and excess IL-1β. Because acne is one component of the syndrome, trifarotene could at most serve as an adjunct for the skin acne manifestation. There is no evidence that it affects the arthritis, the pyoderma gangrenosum or the core inflammatory drivers. Standard management relies on corticosteroids and IL-1 or TNF inhibitors. No trials or literature were found for this indication either.
 
 ## Clinical Trial Evidence
 

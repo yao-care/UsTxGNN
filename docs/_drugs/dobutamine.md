@@ -40,7 +40,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 Dobutamine is an intravenous beta-1 adrenergic agonist (inotrope), and the data compiled for this report contain no approved-indication text for it.
 The TxGNN model predicts it may be effective for **alopecia** with a very high score, but there are **0 clinical trials** and only **1 publication**, a veterinary case report on minoxidil toxicity that does not test dobutamine for hair loss.
-This prediction is best regarded as a likely graph-based artifact rather than a genuine repurposing signal.
+This prediction is best regarded as a likely model artifact rather than a genuine repurposing signal. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Quick Overview
 
@@ -48,22 +48,22 @@ This prediction is best regarded as a likely graph-based artifact rather than a 
 |------|------|
 | Original Indication | Not available in the data compiled for this report (the drug is generally known as an inotropic agent for cardiac decompensation) |
 | Predicted New Indication | Alopecia |
-| TxGNN Prediction Score | 99.85% |
+| TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 5 (all cancelled; 2 NDAs and 3 ANDAs) |
+| US Market Status | Marketed (valid licenses: 5 of 5) |
+| Number of NDAs | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the compiled data. Based on general pharmacology, dobutamine is a beta-1 adrenergic agonist that increases myocardial contractility and is given only by intravenous infusion.
 
-There is no plausible mechanistic link between this action and hair follicle biology. The high score is most likely driven by shared cardiovascular-drug neighbors in the knowledge graph, such as minoxidil, which is both a cardiovascular drug and a hair-growth drug. The only retrieved paper reports heart failure caused by minoxidil intoxication in a cat, so it concerns minoxidil cardiotoxicity and not a dobutamine benefit.
+There is no plausible mechanistic link between this action and hair follicle biology. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The only retrieved paper reports heart failure caused by minoxidil intoxication in a cat, so it concerns minoxidil cardiotoxicity and not a dobutamine benefit.
 
 The other top predictions point the same way:
 - **Alopecia areata** is autoimmune (T-cell mediated, JAK/STAT-related), and dobutamine has no known immunomodulatory action.
 - **Hypotrichosis simplex of the scalp** and **congenital hypotrichosis milia** are rare genetic conditions with no connecting pathway.
-- **Hypertrichosis** is excess hair growth, the opposite of the alopecia prediction, which further suggests a graph artifact.
+- **Hypertrichosis** is excess hair growth, the opposite of the alopecia prediction, which further suggests the score reflects similarities the model learned between related diseases, not biological evidence.
 - **Open-angle glaucoma** and **primary hereditary glaucoma** are not supported either. Beta-blockers lower intraocular pressure, but dobutamine is a beta-1 agonist with potentially opposing effects.
 - **Raynaud disease**, **headache disorder** and **migraine** have no established dobutamine role. Headache is a known adverse effect of inotropic and vasodilatory agents rather than a treatable indication.
 
@@ -85,15 +85,15 @@ Literature retrieved for lower-ranked predictions is also indirect:
 
 ## US Market Information
 
-All five US authorizations are cancelled, and no approved-indication text is available in the compiled data.
+All five US authorizations are valid, and no approved-indication text is available in the compiled data.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA 074086 | Dobutamine (HF Acquisition Co LLC, DBA HealthFirst) | Injection, solution, concentrate | Not available (cancelled) |
-| NDA 020255 | Dobutamine Hydrochloride (HF Acquisition Co LLC, DBA HealthFirst) | Injection | Not available (cancelled) |
-| NDA 020201 | Dobutamine in Dextrose (Hospira, Inc.) | Injection, solution | Not available (cancelled) |
-| ANDA 216131 | Dobutamine (Slate Run Pharmaceuticals) | Injection | Not available (cancelled) |
-| ANDA 074277 | Dobutamine (Hikma Pharmaceuticals USA Inc.) | Injection, solution | Not available (cancelled) |
+| ANDA 074086 | Dobutamine (HF Acquisition Co LLC, DBA HealthFirst) | Injection, solution, concentrate | Not available (valid) |
+| NDA 020255 | Dobutamine Hydrochloride (HF Acquisition Co LLC, DBA HealthFirst) | Injection | Not available (valid) |
+| NDA 020201 | Dobutamine in Dextrose (Hospira, Inc.) | Injection, solution | Not available (valid) |
+| ANDA 216131 | Dobutamine (Slate Run Pharmaceuticals) | Injection | Not available (valid) |
+| ANDA 074277 | Dobutamine (Hikma Pharmaceuticals USA Inc.) | Injection, solution | Not available (valid) |
 
 All products are injectable only.
 
@@ -112,7 +112,7 @@ Please refer to the package insert for label warnings and contraindications, whi
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score. There are no clinical trials and no supporting literature, and no plausible mechanism links a beta-1 agonist given by IV infusion to hair loss. The model score most likely reflects association with minoxidil in the knowledge graph. In addition, all US licenses are cancelled, and label safety data are missing.
+The prediction is supported only by a model score. There are no clinical trials and no supporting literature, and no plausible mechanism links a beta-1 agonist given by IV infusion to hair loss. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. In addition, all five US licenses are valid, and label safety data are missing.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and a credible hypothesis linking dobutamine to hair follicle biology (otherwise discontinue this line)

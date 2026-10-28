@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Acetaminophen Butalbital
@@ -51,7 +52,7 @@ The overall evidence base for repurposing evaluation is **insufficient at this t
 | Predicted New Indication | None (TxGNN returned no candidates) |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — Model returned no predictions |
-| US Market Status | Not marketed in Taiwan (0 licenses on record) |
+| US Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

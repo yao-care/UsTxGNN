@@ -47,19 +47,19 @@ The TxGNN model predicts it may be effective for **irritable bowel syndrome**, b
 |------|------|
 | Original Indication | Not stated in the available regulatory data (the license record has no indication text) |
 | Predicted New Indication | Irritable bowel syndrome |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no active license) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, mafenide is a topical sulfonamide antimicrobial and carbonic anhydrase inhibitor. It is a topical agent, and the data compiled for this report do not state its original indication.
 
-No mechanistic link to irritable bowel syndrome has been established. The high TxGNN score reflects a graph-based computational prediction only. A topical antimicrobial has no plausible rationale for a functional gut disorder, and the route of administration is also incompatible. The prediction should be treated as a weak, unsupported signal.
+No mechanistic link to irritable bowel syndrome has been established. The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. A topical antimicrobial has no plausible rationale for a functional gut disorder, and the route of administration is also incompatible. The prediction should be treated as a weak, unsupported signal.
 
-Other top-ranked predictions show the same pattern. These include cauda equina syndrome, panuveitis, iris disease, uveitis, acne and several iris-related conditions. Their scores are all between 99.92% and 99.97%. Acne is the most biologically plausible, since mafenide is a topical antibacterial. Even so, it is not established against *Cutibacterium acnes* and carries pain, burning and metabolic acidosis concerns. Many of the ocular predictions appear to reflect clustering of eye-disease nodes in the knowledge graph, not drug-specific biology.
+Other top-ranked predictions show the same pattern. These include cauda equina syndrome, panuveitis, iris disease, uveitis, acne and several iris-related conditions. Their scores are all between 0.9992 and 0.9997. Acne is the most biologically plausible, since mafenide is a topical antibacterial. Even so, it is not established against *Cutibacterium acnes* and carries pain, burning and metabolic acidosis concerns. Many of the ocular predictions appear to reflect similarities the model learned between related eye diseases, not drug-specific biology.
 
 ## Clinical Trial Evidence
 

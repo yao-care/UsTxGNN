@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Rivastigmine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1131
-evidence_level: L4
+evidence_level: L5
 indication_count: 1
 monitor_inn: "RIVASTIGMINE"
 predicted_indications: ["glaucoma"]
 last_modified_at: 2026-10-14
-description: "Rivastigmine: predicted new indication Glaucoma (evidence level L4). Approved use: Alzheimer's disease"
+description: "Rivastigmine: predicted new indication Glaucoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Rivastigmine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **1** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **1**
 
 </div>
 
-## Rivastigmine: From Alzheimer's Disease to Glaucoma
+## Rivastigmine: Glaucoma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ but currently there are **0 registered clinical trials** and only **3 publicatio
 
 | Item | Content |
 |------|------|
-| Original Indication | Alzheimer's disease (the data compiled for this report list no approved-indication text from US labels; the indication comes from knowledge-graph edges, which also include Alzheimer disease without neurofibrillary tangles, cerebellar degeneration, Reye syndrome and Pick disease) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Glaucoma |
-| TxGNN Prediction Score | 99.27% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| TxGNN Prediction Score | 0.9927 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 9) |
 | Number of NDAs | 9 authorizations in total (1 NDA, 8 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
@@ -76,7 +76,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All nine US authorizations are cancelled. The data compiled for this report contain no approved-indication text for any of them.
+Nine US authorizations are valid. The data compiled for this report contain no approved-indication text for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -102,7 +102,7 @@ Please refer to the package insert for official warnings and contraindications, 
 **Decision: Hold**
 
 **Rationale:**
-The glaucoma prediction is mechanistically plausible and supported by one rabbit study, but there are no human data or registered trials, and the evidence level is L4. The high TxGNN score is not clinical evidence. Label safety data are also missing, and all US licenses are cancelled.
+The glaucoma prediction is mechanistically plausible and supported by one rabbit study, but there are no human data or registered trials, and the evidence level is L4. The high TxGNN score is not clinical evidence. Label safety data are also missing, although the drug is marketed in the US with nine valid licenses.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

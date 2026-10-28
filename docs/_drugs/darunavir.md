@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "DARUNAVIR"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia"]
 last_modified_at: 2026-10-14
-description: "Darunavir: predicted new indication Simian immunodeficiency virus infection (evidence level L5). Approved use: HIV infectious disease"
+description: "Darunavir: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Darunavir
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-## Darunavir: From HIV Infection to Simian Immunodeficiency Virus Infection
+## Darunavir: Feline acquired immunodeficiency syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,11 +47,11 @@ The TxGNN model's top predictions are veterinary or animal-model retroviral dise
 
 | Item | Content |
 |------|------|
-| Original Indication | HIV infectious disease; AIDS (the data compiled for this report did not include the US label indication text, so this comes from the knowledge graph) |
-| Predicted New Indication | Simian immunodeficiency virus infection (the highest-scoring prediction, feline acquired immunodeficiency syndrome, is a veterinary indication with no supporting evidence) |
-| TxGNN Prediction Score | 99.97% (SIV infection) |
-| Evidence Level | L4 (SIV infection); L5 for the other three predictions |
-| US Market Status | Cancelled only (all licenses in the data are cancelled) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Feline acquired immunodeficiency syndrome |
+| TxGNN Prediction Score | 0.9997 |
+| Evidence Level | L5 (SIV infection); L5 for the other three predictions |
+| US Market Status | Marketed (valid licenses on record: at least 10) |
 | Number of NDAs | 10 authorizations in total (2 NDAs, 8 ANDAs) |
 | Recommended Decision | Hold |
 
@@ -95,7 +95,7 @@ All four publications are nonhuman primate (SIV/rhesus macaque) studies of combi
 
 ## US Market Information
 
-All 10 authorizations listed below are in cancelled status. The data compiled for this report contains no approved-indication text for any of them.
+All 10 authorizations listed below are in valid status. The data compiled for this report contains no approved-indication text for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -127,7 +127,7 @@ No package-insert warnings or contraindications were available in the data compi
 **Decision: Hold**
 
 **Rationale:**
-The predictions rest on graph proximity to the original HIV indication. The only supporting literature is four indirect, regimen-level nonhuman primate studies, and there are no clinical trials. SIV infection is a research model rather than a distinct human disease, and the other predictions are veterinary, mechanistically implausible, or obsolete. All US licenses are also cancelled.
+The predictions come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The only supporting literature is four indirect, regimen-level nonhuman primate studies, and there are no clinical trials. SIV infection is a research model rather than a distinct human disease, and the other predictions are veterinary, mechanistically implausible, or obsolete. The drug is marketed, with 10 valid US licenses.
 
 **To proceed, the following is needed:**
 - Package-insert warnings and contraindications (a blocking data gap for safety screening)

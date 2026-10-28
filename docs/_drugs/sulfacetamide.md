@@ -6,9 +6,9 @@ nav_order: 1185
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Sulfacetamide: predicted new indication Postinfectious vasculitis (evidence level L5). Approved use: Acne, seborrheic dermatitis, conjunctivitis…"
 monitor_inn: "SULFACETAMIDE"
 predicted_indications: ["postinfectious vasculitis", "post-bacterial disorder", "otitis externa", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "punctate epithelial keratoconjunctivitis", "exposure keratitis", "parasitic eyelid infestation"]
+description: "Sulfacetamide: predicted new indication Postinfectious vasculitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Sulfacetamide
@@ -33,24 +33,24 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Sulfacetamide: From Acne and Seborrheic Dermatitis to Postinfectious Vasculitis
+## Sulfacetamide: Postinfectious vasculitis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Sulfacetamide is a sulfonamide antibacterial, originally used for skin conditions (acne, seborrheic dermatitis) and eye conditions (conjunctivitis, uveitis).
 The TxGNN model predicts it may be effective for **postinfectious vasculitis**, but **0 clinical trials** and **0 publications** currently support this prediction.
-The prediction rests on graph-based modelling alone.
+The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Acne, seborrheic dermatitis, conjunctivitis, uveitis and related conditions (from the knowledge graph; no approved indication text is available in the US license records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Postinfectious vasculitis |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 4) |
 | Number of NDAs | 4 licenses in total (all cancelled; 1 NDA and 2 ANDAs, 1 without a listed number) |
 | Recommended Decision | Hold |
 
@@ -58,21 +58,21 @@ The prediction rests on graph-based modelling alone.
 
 Currently, detailed mechanism of action data is not available. Based on known information, sulfacetamide is a sulfonamide antibacterial. Sulfonamides generally inhibit bacterial dihydropteroate synthase, blocking folate synthesis. Its use in acne, seborrheic dermatitis and bacterial conjunctivitis is consistent with this antibacterial role.
 
-Postinfectious vasculitis, however, is an immune-mediated sequela that follows an infection rather than an active bacterial infection. A direct antibacterial mechanism is therefore unlikely to be relevant. The very high TxGNN score most likely reflects proximity to infectious-disease nodes in the knowledge graph rather than a testable biological link. This should be treated as a weak hypothesis.
+Postinfectious vasculitis, however, is an immune-mediated sequela that follows an infection rather than an active bacterial infection. A direct antibacterial mechanism is therefore unlikely to be relevant. The very high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. This should be treated as a weak hypothesis.
 
 Other top-ranked predictions, none of which has clinical trials, include:
 
 | Predicted Indication | TxGNN Score | Assessment |
 |------|------|------|
-| Post-bacterial disorder | 99.99% | Too broad and non-specific to define a testable hypothesis |
-| **Otitis externa** | 99.99% | Most biologically plausible (topical antibacterial for an ear canal infection). However, sulfacetamide has limited activity against *Pseudomonas aeruginosa*, and established fluoroquinolone and aminoglycoside drops are available |
-| Post-infectious syndrome | 99.99% | No clear target; immune-mediated |
-| Infective urethral stricture | 99.99% | Fibrotic condition; no relevant urinary exposure from topical use |
-| Chagas cardiomyopathy | 99.99% | No evidence of activity against *T. cruzi*; topical use would not reach the heart |
-| Infection-related hemolytic uremic syndrome | 99.99% | Antibiotics may worsen toxin-mediated disease; potential safety concern |
-| Punctate epithelial keratoconjunctivitis | 99.98% | Ocular delivery is established, but the condition is often viral or inflammatory |
-| Exposure keratitis | 99.90% | Only literature is an adverse-event case report |
-| Parasitic eyelid infestation (Demodex) | 99.83% | Indirect plausibility only; sulfacetamide is not acaricidal |
+| Post-bacterial disorder | 0.9999 | Too broad and non-specific to define a testable hypothesis |
+| **Otitis externa** | 0.9999 | Most biologically plausible (topical antibacterial for an ear canal infection). However, sulfacetamide has limited activity against *Pseudomonas aeruginosa*, and established fluoroquinolone and aminoglycoside drops are available |
+| Post-infectious syndrome | 0.9999 | No clear target; immune-mediated |
+| Infective urethral stricture | 0.9999 | Fibrotic condition; no relevant urinary exposure from topical use |
+| Chagas cardiomyopathy | 0.9999 | No evidence of activity against *T. cruzi*; topical use would not reach the heart |
+| Infection-related hemolytic uremic syndrome | 0.9999 | Antibiotics may worsen toxin-mediated disease; potential safety concern |
+| Punctate epithelial keratoconjunctivitis | 0.9998 | Ocular delivery is established, but the condition is often viral or inflammatory |
+| Exposure keratitis | 0.9990 | Only literature is an adverse-event case report |
+| Parasitic eyelid infestation (Demodex) | 0.9983 | Indirect plausibility only; sulfacetamide is not acaricidal |
 
 ## Clinical Trial Evidence
 
@@ -91,7 +91,7 @@ For other predicted indications, two papers were retrieved. Neither supports eff
 
 ## US Market Information
 
-All four US licenses are cancelled, and none has approved indication text on record.
+All four US licenses are valid, and none has approved indication text on record.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -113,7 +113,7 @@ Please refer to the package insert for complete warnings, contraindications and 
 **Decision: Hold**
 
 **Rationale:**
-The prediction for postinfectious vasculitis has no clinical trials or literature (Evidence Level L5). Its mechanism is implausible, because an antibacterial would not be expected to treat an immune-mediated sequela. The drug has no currently valid US license, and package insert safety data are missing.
+The prediction for postinfectious vasculitis has no clinical trials or literature (Evidence Level L5). Its mechanism is implausible, because an antibacterial would not be expected to treat an immune-mediated sequela.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

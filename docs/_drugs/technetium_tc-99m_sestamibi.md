@@ -48,21 +48,21 @@ The only prediction with any literature is **multiple endocrine neoplasia** (ran
 |------|------|
 | Original Indication | Not specified in the available license data |
 | Predicted New Indication | Homozygous familial hypercholesterolemia |
-| TxGNN Prediction Score | 99.93% |
+| TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 3 (all cancelled; listed as ANDAs) |
+| US Market Status | Marketed (valid licenses: 3 of 3) |
+| Number of NDAs | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not currently available. Based on known information, Tc-99m sestamibi is a lipophilic cation that accumulates in tissue in proportion to mitochondrial content and blood flow. It is used as an imaging agent, not as a lipid-modifying or therapeutic drug.
 
-For homozygous familial hypercholesterolemia, no mechanism links a diagnostic tracer to cholesterol metabolism. The high TxGNN score is most likely an artifact of the knowledge graph. At most, myocardial perfusion imaging could help assess coronary disease in these patients. That would be a diagnostic use, not therapeutic repurposing.
+For homozygous familial hypercholesterolemia, no mechanism links a diagnostic tracer to cholesterol metabolism. The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. At most, myocardial perfusion imaging could help assess coronary disease in these patients. That would be a diagnostic use, not therapeutic repurposing.
 
 The other top-10 predictions follow a similar pattern:
 - **Lipid disorders** (hypoalphalipoproteinemia, obsolete familial combined hyperlipidemia): no plausible link to a diagnostic tracer. The "obsolete" disease term should be excluded from further review.
-- **Cerebrovascular conditions** (cerebral infarction, stroke disorder, cerebral arterial disease): the three overlap and appear to be the same graph-derived artifact. Sestamibi has no neuroprotective or thrombolytic action.
+- **Cerebrovascular conditions** (cerebral infarction, stroke disorder, cerebral arterial disease): the three overlap and their scores come from the TxGNN model (deep learning), so they may reflect similarities the model learned between related diseases, not biological evidence. Sestamibi has no neuroprotective or thrombolytic action.
 - **Cytomegalovirus infection**: no antiviral mechanism. Its status as a P-glycoprotein substrate does not translate into antiviral activity.
 - **Prinzmetal angina**: perfusion imaging could in principle show transient ischemia, but this is diagnostic only and unsupported by retrieved evidence.
 - **Gastrin secretion abnormality**: only a loose association via gastrinoma in MEN1, and neuroendocrine imaging relies on other agents.
@@ -85,13 +85,13 @@ Both study designs are presumed from truncated titles, and MEN-specific cohort s
 
 ## US Market Information
 
-All three authorizations are cancelled, and none is currently valid. No approved indication text was available for any of them.
+All three authorizations are currently valid. No approved indication text was available for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA079157 | Kit for the Preparation of Technetium Tc99m Sestamibi (Sun Pharmaceutical Industries) | Injection | Not available (cancelled) |
-| ANDA078809 | Kit for the Preparation of Technetium Tc99m Sestamibi (Cardinal Health 414) | Injection, powder, lyophilized, for solution | Not available (cancelled) |
-| ANDA078806 | Technetium Tc 99m Sestamibi (Jubilant Draximage) | Injection, powder, for solution | Not available (cancelled) |
+| ANDA079157 | Kit for the Preparation of Technetium Tc99m Sestamibi (Sun Pharmaceutical Industries) | Injection | Not available (valid) |
+| ANDA078809 | Kit for the Preparation of Technetium Tc99m Sestamibi (Cardinal Health 414) | Injection, powder, lyophilized, for solution | Not available (valid) |
+| ANDA078806 | Technetium Tc 99m Sestamibi (Jubilant Draximage) | Injection, powder, for solution | Not available (valid) |
 
 ## Safety Considerations
 
@@ -102,13 +102,13 @@ Please refer to the package insert for safety information. No drug-drug interact
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction has no clinical, literature or mechanistic support. The high score is most likely a knowledge-graph artifact, because a diagnostic tracer has no lipid-modifying action. The only prediction with literature, multiple endocrine neoplasia, concerns parathyroid localization, a diagnostic use that largely extends existing imaging practice rather than a new therapy. It is best treated as a research question (L3), not a repurposing candidate.
+The top-ranked prediction has no clinical, literature or mechanistic support. The high score is most likely a TxGNN model (deep learning) artifact, because a diagnostic tracer has no lipid-modifying action. The only prediction with literature, multiple endocrine neoplasia, concerns parathyroid localization, a diagnostic use that largely extends existing imaging practice rather than a new therapy. It is best treated as a research question (L3), not a repurposing candidate.
 
 **To proceed, the following is needed:**
 - The FDA package insert (warnings, contraindications and approved indications), which is a blocking gap for safety screening
 - Mechanism of action data, for example from DrugBank
 - For MEN, full-text review of the two studies to confirm design and MEN-specific cohort sizes, and a decision on whether a diagnostic-use question is in scope
-- Confirmation of why all US licenses are cancelled, and whether other marketed sestamibi products exist
+- Confirmation of whether other marketed sestamibi products exist beyond the three valid US licenses
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

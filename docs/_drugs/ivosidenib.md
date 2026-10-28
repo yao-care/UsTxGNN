@@ -4,17 +4,17 @@ title: Ivosidenib
 parent: Model Prediction Only (L5)
 nav_order: 822
 evidence_level: L5
-indication_count: 3
+indication_count: 1
 last_modified_at: 2026-10-14
-description: "Ivosidenib: predicted new indication Bulbar polio (evidence level L5). Approved use: Acute myeloid leukemia"
 monitor_inn: "IVOSIDENIB"
 predicted_indications: ["bulbar polio"]
+description: "Ivosidenib: predicted new indication Bulbar polio (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Ivosidenib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-## Ivosidenib: From Acute Myeloid Leukemia to Bulbar Polio
+## Ivosidenib: Bulbar polio
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,12 +48,12 @@ Two lower-ranked predictions, **AML/MDS related to alkylating agents** and **AML
 
 | Item | Content |
 |------|------|
-| Original Indication | Acute myeloid leukemia (multiple subtypes, per the knowledge graph; no approved-indication text available in the US license record) |
-| Predicted New Indication | Bulbar polio (top-ranked) |
-| TxGNN Prediction Score | 99.31% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Bulbar polio |
+| TxGNN Prediction Score | 0.9931 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (NDA 211192 is listed as cancelled) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,7 +62,7 @@ Two lower-ranked predictions, **AML/MDS related to alkylating agents** and **AML
 
 Detailed mechanism of action data is not available in the data compiled for this report. From general knowledge, ivosidenib is an inhibitor of mutant IDH1. It lowers 2-hydroxyglutarate in IDH1-mutant cancers.
 
-**Bulbar polio (rank 1):** Bulbar polio is a viral infection of motor neurons caused by poliovirus. No plausible mechanistic link to mutant IDH1 inhibition was identified. The very high score (0.993) is a knowledge-graph prediction only and most likely reflects network artifacts rather than biology. This prediction is not considered credible without independent supporting evidence.
+**Bulbar polio (rank 1):** Bulbar polio is a viral infection of motor neurons caused by poliovirus. No plausible mechanistic link to mutant IDH1 inhibition was identified. The very high score (0.9931) is a TxGNN model (deep learning) prediction only and most likely reflects network artifacts rather than biology. This prediction is not considered credible without independent supporting evidence.
 
 **Therapy-related myeloid neoplasms (ranks 2 and 3):** AML/MDS related to alkylating agents and AML/MDS related to radiation are biologically plausible targets. These diseases can carry IDH1 mutations, which ivosidenib targets. Therapy-related AML/MDS and other AML entities already appear among the drug's original indications. Benefit would depend on IDH1 mutation status. These predictions are best viewed as an extension of the existing AML use rather than distinct new indications.
 
@@ -84,7 +84,7 @@ Currently no related literature available for the predicted indications.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA 211192 | TIBSOVO (Servier Pharmaceutical LLC), status: cancelled | Tablet, film coated | Not available in the compiled data |
+| NDA 211192 | TIBSOVO (Servier Pharmaceutical LLC), status: valid | Tablet, film coated | Not available in the compiled data |
 
 ---
 
@@ -117,7 +117,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-- The top-ranked prediction (bulbar polio) has no supporting trials or literature, and no plausible mechanism. The high score is likely a knowledge-graph artifact.
+- The top-ranked prediction (bulbar polio) has no supporting trials or literature, and no plausible mechanism. The high score is likely a TxGNN model (deep learning) artifact.
 - The two plausible predictions (therapy-related AML/MDS) are mainly extensions of the existing AML use, are classified as research questions, and also lack specific trial or literature evidence.
 - The US license record shows only a cancelled NDA, and package insert safety data are missing.
 

@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Alpha Lipoic Acid Cholesterol Cortisone Acetate Co
@@ -51,7 +52,7 @@ Without a valid drug node mapping, this candidate cannot be progressed through t
 | Predicted New Indication | None — no TxGNN prediction generated |
 | TxGNN Prediction Score | Not available |
 | Evidence Level | — |
-| Market Status | Not marketed |
+| Market Status | Marketed (valid licenses on record: at least 9) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

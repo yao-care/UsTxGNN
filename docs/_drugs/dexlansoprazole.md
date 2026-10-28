@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Dexlansoprazole
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 593
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 4
 last_modified_at: 2026-10-14
-description: "Dexlansoprazole: predicted new indication Active peptic ulcer disease (evidence level L1). Approved use: Peptic ulcer disease"
 monitor_inn: "DEXLANSOPRAZOLE"
 predicted_indications: ["gastroduodenitis", "duodenal obstruction", "achlorhydria", "leather-bottle stomach"]
+description: "Dexlansoprazole: predicted new indication Gastroduodenitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Dexlansoprazole
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,32 +33,31 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-## Dexlansoprazole: From Peptic Ulcer Disease and GERD to Active Peptic Ulcer Disease
+## Dexlansoprazole: Gastroduodenitis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Dexlansoprazole is a proton pump inhibitor (PPI) originally used for peptic ulcer disease, gastroesophageal reflux disease (GERD) and esophagitis.
-The TxGNN model predicts it may be effective for **active peptic ulcer disease**, which sits very close to its existing indications.
 Currently **2 completed Phase 3 trials** (in erosive esophagitis, so indirect evidence for this indication) and **3 publications** support this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Peptic ulcer disease; gastroesophageal reflux disease; esophagitis (from the knowledge graph; no approved-indication text is available in the US license records) |
-| Predicted New Indication | Active peptic ulcer disease |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L1 (based on the data compiled for this report; the Phase 3 trials enrolled erosive esophagitis patients, so applicability to ulcer healing is indirect) |
-| US Market Status | Cancelled only (all 4 authorizations are cancelled) |
-| Number of NDAs | 4 (1 NDA and 3 ANDAs, all cancelled) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Gastroduodenitis |
+| TxGNN Prediction Score | 0.9998 |
+| Evidence Level | L5 (based on the data compiled for this report; the Phase 3 trials enrolled erosive esophagitis patients, so applicability to ulcer healing is indirect) |
+| US Market Status | Marketed (valid licenses: 4 of 4) |
+| Number of NDAs | 4 (valid: 4) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available in the data compiled for this report. However, dexlansoprazole belongs to the well-established proton pump inhibitor class. These drugs irreversibly block the H+/K+ ATPase in gastric parietal cells and suppress gastric acid secretion. Raising gastric pH allows ulcerated mucosa to heal.
 
-Active peptic ulcer disease is already one of the drug's original indications in the knowledge graph. This prediction is therefore effectively an on-label or near-label indication rather than true repurposing. The high TxGNN score mainly reflects this close relationship.
+This prediction is therefore effectively an on-label or near-label indication rather than true repurposing. The high TxGNN score mainly reflects this close relationship.
 
 An important caveat: the large Phase 3 trials of dexlansoprazole enrolled patients with erosive esophagitis, not ulcer patients. They support acid-suppression efficacy and safety, but they are indirect evidence for ulcer healing specifically.
 
@@ -81,10 +80,10 @@ An important caveat: the large Phase 3 trials of dexlansoprazole enrolled patien
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA022287 | Dexlansoprazole (A-S Medication Solutions) | Delayed-release capsule | Not available (cancelled) |
-| ANDA202294 | Dexlansoprazole (A-S Medication Solutions) | Delayed-release capsule | Not available (cancelled) |
-| ANDA202666 | Dexlansoprazole (Upsher-Smith Laboratories, LLC) | Delayed-release capsule | Not available (cancelled) |
-| ANDA219115 | Dexlansoprazole (Alembic Pharmaceuticals Inc.) | Delayed-release capsule | Not available (cancelled) |
+| NDA022287 | Dexlansoprazole (A-S Medication Solutions) | Delayed-release capsule | Not available (valid) |
+| ANDA202294 | Dexlansoprazole (A-S Medication Solutions) | Delayed-release capsule | Not available (valid) |
+| ANDA202666 | Dexlansoprazole (Upsher-Smith Laboratories, LLC) | Delayed-release capsule | Not available (valid) |
+| ANDA219115 | Dexlansoprazole (Alembic Pharmaceuticals Inc.) | Delayed-release capsule | Not available (valid) |
 
 ## Safety Considerations
 
@@ -103,7 +102,7 @@ Please refer to the package insert for the official warnings and contraindicatio
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Acid suppression is a well-established mechanism for ulcer healing, and this indication is already close to the drug's original uses. Two large completed Phase 3 trials support efficacy and safety of the drug. However, those trials enrolled erosive esophagitis patients, and all US authorizations are currently cancelled.
+Acid suppression is a well-established mechanism for ulcer healing, and this indication is already close to the drug's original uses. Two large completed Phase 3 trials support efficacy and safety of the drug.
 
 **To proceed, the following is needed:**
 - Ulcer-specific efficacy data, for example results from the recruiting Phase 4 trial [NCT07344506](https://clinicaltrials.gov/study/NCT07344506) (n=942, comparing dexlansoprazole, lansoprazole and vonoprazan with H. pylori eradication therapy)
@@ -124,7 +123,6 @@ Other high-ranking predictions, summarized for reference:
 | Duodenal ulcer | L1 | Proceed with Guardrails | Shared indirect Phase 3 evidence; no literature retrieved |
 | Gastrojejunal ulcer | L3 | Research Question | Only trial is a withdrawn Phase 4 absorption study (n=0); absorption after gastric bypass is unresolved |
 | Peptic ulcer perforation, gastroduodenitis, duodenal obstruction, duodenogastric reflux, leather-bottle stomach | L5 | Hold | Network-proximity predictions with no trials or literature |
-| Achlorhydria | L5 | Hold | Acid suppression is mechanistically contraindicated; the score likely reflects a graph artifact |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Aconitum Napellus Whole Black Cohosh Camphor Datur
@@ -49,7 +50,7 @@ This candidate is a complex 20-ingredient formulation that appears to be a homeo
 | Predicted New Indication | None — TxGNN produced no predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (Model prediction only — and no prediction exists) |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

@@ -6,9 +6,9 @@ nav_order: 584
 evidence_level: L5
 indication_count: 8
 last_modified_at: 2026-10-14
-description: "Desipramine: predicted new indication Attention deficit hyperactivity disorder, inattentive type (evidence level L5). Approved use: Anxiety disorder, neurotic disorder, dysthymic disorder"
 monitor_inn: "DESIPRAMINE"
 predicted_indications: ["attention deficit hyperactivity disorder, inattentive type", "attention deficit-hyperactivity disorder", "specific developmental disorder", "chondromyxoid fibroma", "faciodigitogenital syndrome", "benign paroxysmal torticollis of infancy", "agoraphobia", "obsessive-compulsive disorder"]
+description: "Desipramine: predicted new indication Attention deficit hyperactivity disorder, inattentive type (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Desipramine
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-## Desipramine: From Anxiety Disorder to Attention Deficit Hyperactivity Disorder, Inattentive Type
+## Desipramine: Attention deficit hyperactivity disorder, inattentive type
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,11 +45,11 @@ The TxGNN model predicts it may be effective for **attention deficit hyperactivi
 
 | Item | Content |
 |------|------|
-| Original Indication | Anxiety disorder, neurotic disorder, dysthymic disorder (from the knowledge graph; no approved indication text is available in the US license records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Attention deficit hyperactivity disorder, inattentive type |
-| TxGNN Prediction Score | 99.81% |
+| TxGNN Prediction Score | 0.9981 |
 | Evidence Level | L5 for the inattentive subtype (L3 for parent ADHD) |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 6) |
 | Number of NDAs | 6 (all cancelled; 1 NDA and 5 ANDAs) |
 | Recommended Decision | Hold |
 
@@ -84,15 +84,15 @@ No literature was retrieved for the inattentive subtype itself. The table below 
 
 ## US Market Information
 
-All six US licenses are cancelled. The records contain no approved indication text.
+All six US licenses are valid. The records contain no approved indication text.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA014399 | Norpramin | Tablet, sugar coated | Not available (cancelled) |
-| ANDA208105 | Desipramine Hydrochloride | Tablet, film coated | Not available (cancelled) |
-| ANDA207433 | Desipramine Hydrochloride | Tablet | Not available (cancelled) |
-| ANDA204963 | Desipramine Hydrochloride | Tablet | Not available (cancelled) |
-| ANDA074430 | Desipramine Hydrochloride | Tablet, film coated | Not available (cancelled) |
+| NDA014399 | Norpramin | Tablet, sugar coated | Not available (valid) |
+| ANDA208105 | Desipramine Hydrochloride | Tablet, film coated | Not available (valid) |
+| ANDA207433 | Desipramine Hydrochloride | Tablet | Not available (valid) |
+| ANDA204963 | Desipramine Hydrochloride | Tablet | Not available (valid) |
+| ANDA074430 | Desipramine Hydrochloride | Tablet, film coated | Not available (valid) |
 
 ## Safety Considerations
 
@@ -107,7 +107,7 @@ Please refer to the package insert for official warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The inattentive-subtype prediction rests on a model score alone, with no trials and no literature. The parent ADHD indication has only review-level support, and desipramine carries cardiovascular risks and a heavy interaction burden. Safer, better-established alternatives exist, and the drug has no active US licenses. For ADHD overall, the evidence supports a research question rather than active advancement.
+The inattentive-subtype prediction rests on a model score alone, with no trials and no literature. The parent ADHD indication has only review-level support, and desipramine carries cardiovascular risks and a heavy interaction burden. For ADHD overall, the evidence supports a research question rather than active advancement.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "FLUOCINOLONE ACETONIDE"
 predicted_indications: ["hypertrophic lichen planus", "annular atrophic lichen planus", "lichen planus pigmentosus", "lichen planus pemphigoides"]
-last_modified_at: 2026-10-14
-description: "Fluocinolone Acetonide: predicted new indication Hypertrophic lichen planus (evidence level L5). Approved use: Inflammatory and itchy skin conditions (e.g., atopic eczema…"
+last_modified_at: 2026-10-28
+description: "Fluocinolone Acetonide: predicted new indication Hypertrophic lichen planus (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Fluocinolone Acetonide
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-## Fluocinolone Acetonide: From Inflammatory Skin Conditions to Hypertrophic Lichen Planus
+## Fluocinolone Acetonide: Hypertrophic lichen planus
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,15 +45,15 @@ The TxGNN model predicts it may be effective for **Hypertrophic Lichen Planus**,
 
 | Item | Content |
 |------|------|
-| Original Indication | Inflammatory and itchy skin conditions (e.g., atopic eczema, contact dermatitis, seborrheic dermatitis, lichen disease, discoid lupus erythematosus). No approved indication text is available in the US license records. |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Hypertrophic lichen planus |
-| TxGNN Prediction Score | 99.42% |
+| TxGNN Prediction Score | 0.9942 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 17) |
 | Number of NDAs | 17 authorizations in total (4 NDAs and 13 ANDAs; all cancelled) |
 | Recommended Decision | Hold |
 
-Other predicted indications with the same level of evidence (L5, model prediction only): annular atrophic lichen planus (99.42%), lichen planus pigmentosus (99.42%) and lichen planus pemphigoides (99.34%).
+Other predicted indications with the same level of evidence (L5, model prediction only): annular atrophic lichen planus (0.9942), lichen planus pigmentosus (0.9942) and lichen planus pemphigoides (0.9934).
 
 ## Why is This Prediction Reasonable?
 
@@ -78,13 +78,13 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA013960 | Synalar | Ointment | Not stated (cancelled) |
-| NDA019452 | Derma-Smoothe/FS | Oil | Not stated (cancelled) |
-| NDA201923 | Iluvien | Implant | Not stated (cancelled) |
-| NDA210331 | YUTIQ | Implant | Not stated (cancelled) |
-| ANDA089526 | Fluocinolone Acetonide | Cream | Not stated (cancelled) |
+| NDA013960 | Synalar | Ointment | Not stated (valid) |
+| NDA019452 | Derma-Smoothe/FS | Oil | Not stated (valid) |
+| NDA201923 | Iluvien | Implant | Not stated (valid) |
+| NDA210331 | YUTIQ | Implant | Not stated (valid) |
+| ANDA089526 | Fluocinolone Acetonide | Cream | Not stated (valid) |
 
-All 17 authorizations are cancelled, so no product is currently marketed under these records. Per the pharmacology data, the intravitreal implants were approved for diabetic macular edema (Iluvien, 2014) and non-infectious posterior uveitis (Yutiq, October 2018).
+17 valid licenses are on record in the US, so the drug is marketed. Per the pharmacology data, the intravitreal implants were approved for diabetic macular edema (Iluvien, 2014) and non-infectious posterior uveitis (Yutiq, October 2018).
 
 ## Safety Considerations
 
@@ -98,14 +98,14 @@ Package insert warnings and contraindications were not available and should be r
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high (99.42%), but there are no clinical trials or publications, so the evidence is at the lowest level (L5). All US licenses are cancelled. The mechanism is plausible, but the drug is already used for lichen disease, so the added value of this prediction is limited.
+The prediction score is high (0.9942), but there are no clinical trials or publications, so the evidence is at the lowest level (L5). The drug is marketed in the US with 17 valid licenses. The mechanism is plausible, but the drug is already used for lichen disease, so the added value of this prediction is limited.
 
 **To proceed, the following is needed:**
 - Literature review and trial search on topical corticosteroids in hypertrophic lichen planus, including potency comparisons
 - Confirmation of the mechanism of action from an authoritative source
 - Official FDA package insert warnings and contraindications
 - Route and formulation assessment (topical vs. intralesional), since the route compatibility check is still pending
-- Clarification of current US availability, since all licenses are cancelled
+- Confirmation of current US availability (17 valid licenses)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

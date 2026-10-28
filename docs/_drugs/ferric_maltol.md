@@ -6,9 +6,9 @@ nav_order: 702
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-14
-description: "Ferric Maltol: predicted new indication Plummer-Vinson syndrome (evidence level L5). Approved use: Iron deficiency anemia"
 monitor_inn: "FERRIC MALTOL"
 predicted_indications: ["Plummer-Vinson syndrome", "vitamin B12- and folate-independent constitutional megaloblastic anemia", "IRIDA syndrome"]
+description: "Ferric Maltol: predicted new indication Plummer-Vinson syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Ferric Maltol
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-## Ferric Maltol: From Iron Deficiency Anemia to Plummer-Vinson Syndrome
+## Ferric Maltol: Plummer-Vinson syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 | Item | Content |
 |------|------|
-| Original Indication | Iron deficiency anemia (the US license record has no indication text; this is taken from the drug's known indications in the knowledge graph) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Plummer-Vinson syndrome |
-| TxGNN Prediction Score | 99.98% |
+| TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no active license) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -86,15 +86,15 @@ No drug-interaction records were found. For other safety information, please ref
 
 | Predicted Indication | TxGNN Score | Evidence Level | Assessment |
 |------|------|------|------|
-| Vitamin B12- and folate-independent constitutional megaloblastic anemia | 99.98% | L5 | Hold. Megaloblastic anemia stems from impaired DNA synthesis, not iron deficiency, so iron would not be expected to help unless iron deficiency coexists. The high score likely reflects network proximity to other anemia terms. |
-| IRIDA syndrome | 99.33% | L5 | Hold. IRIDA is caused by TMPRSS6 mutations that raise hepcidin and block iron absorption, so oral iron is expected to have limited benefit. Parenteral iron is the more rational approach. |
+| Vitamin B12- and folate-independent constitutional megaloblastic anemia | 0.9998 | L5 | Hold. Megaloblastic anemia stems from impaired DNA synthesis, not iron deficiency, so iron would not be expected to help unless iron deficiency coexists. The high score likely reflects network proximity to other anemia terms. |
+| IRIDA syndrome | 0.9933 | L5 | Hold. IRIDA is caused by TMPRSS6 mutations that raise hepcidin and block iron absorption, so oral iron is expected to have limited benefit. Parenteral iron is the more rational approach. |
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The Plummer-Vinson syndrome prediction has no supporting trials or publications (L5), and the drug has no active US license. The mechanistic link is plausible but largely overlaps with the existing indication. The other two predictions have weak or unfavorable mechanistic support.
+The mechanistic link is plausible but largely overlaps with the existing indication. The other two predictions have weak or unfavorable mechanistic support.
 
 **To proceed, the following is needed:**
 - The FDA package insert, to obtain warnings and contraindications (a blocking gap for safety screening)

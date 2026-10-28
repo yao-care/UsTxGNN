@@ -4,7 +4,7 @@ title: Lenvatinib
 parent: High Evidence (L1-L2)
 nav_order: 846
 evidence_level: L2
-indication_count: 10
+indication_count: 5
 last_modified_at: 2026-10-14
 description: "Lenvatinib: predicted new indication Liposarcoma (evidence level L2). Approved use: Renal cell carcinoma and thyroid cancer"
 monitor_inn: "LENVATINIB"
@@ -14,7 +14,7 @@ predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipom
 # Lenvatinib
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L2** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -52,10 +52,10 @@ Of the ten predictions, the best-supported is **renal carcinoma**, which is an o
 |------|------|
 | Original Indication | Renal cell carcinoma and thyroid cancer (the original indication list in the data compiled for this report) |
 | Predicted New Indication | Liposarcoma |
-| TxGNN Prediction Score | 99.51% |
+| TxGNN Prediction Score | 0.9951 |
 | Evidence Level | L2 |
-| US Market Status | Cancelled only (1 NDA, cancelled) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold (treat as a research question) |
 
 ---
@@ -93,7 +93,7 @@ An important caveat is that there is no randomised comparison. Because lenvatini
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA206947 | Lenvima (Eisai Inc.) | Capsule | Not listed in the data compiled; status: cancelled |
+| NDA206947 | Lenvima (Eisai Inc.) | Capsule | Not listed in the data compiled; status: valid |
 
 ---
 
@@ -122,10 +122,6 @@ Please refer to the package insert for full warnings and contraindications.
 
 | Predicted Indication | Score | Evidence Level | Note |
 |------|------|------|------|
-| Renal carcinoma | 99.37% | L1 | Supported by the Phase 3 CLEAR trial and a randomised Phase 2 trial. It matches the original indications, so it is an on-label confirmation, not repurposing. Recommendation: Proceed with Guardrails |
-| Unclassified renal cell carcinoma | 99.49% | L2 | Phase 2 single-arm trial in non-clear cell RCC plus case reports |
-| TFE3-rearranged RCC | 99.49% | L4 | Only a not-yet-recruiting Phase 2 triple-combination trial; no outcome data |
-| Ovarian myxoid liposarcoma, childhood kidney cell carcinoma, RCC associated with neuroblastoma, angiolipoma, familial spontaneous pneumothorax, endocrine-cerebro-osteodysplasia syndrome | 99.2%–99.5% | L5 | Computational prediction only; no trials or literature |
 
 ---
 

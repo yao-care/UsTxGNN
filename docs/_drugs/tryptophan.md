@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Tryptophan
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 1271
-evidence_level: L5
+evidence_level: L3
 indication_count: 8
 monitor_inn: "TRYPTOPHAN"
 predicted_indications: ["restless legs syndrome", "primary hereditary glaucoma", "open-angle glaucoma", "insomnia (disease)", "methemoglobinemia", "methemoglobinemia, alpha type", "methemoglobin reductase deficiency", "congenital prothrombin deficiency"]
@@ -14,7 +14,7 @@ description: "Tryptophan: predicted new indication Restless legs syndrome (evide
 # Tryptophan
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **8** 
+Evidence Level: **L3** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-## Tryptophan: From an Unspecified Original Indication to Insomnia
+## Tryptophan: From an Unspecified Original Indication to Restless Legs Syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -50,13 +50,13 @@ Restless legs syndrome, the top-ranked prediction, has **no registered clinical 
 |------|------|
 | Original Indication | Not available (the one US license on record has no indication text) |
 | Predicted New Indication | Restless legs syndrome (rank 1 prediction); insomnia is the best-supported candidate (rank 4) |
-| TxGNN Prediction Score | 99.72% (restless legs syndrome); 99.47% (insomnia) |
+| TxGNN Prediction Score | 0.9972 (restless legs syndrome); 0.9947 (insomnia) |
 | Evidence Level | L3 (restless legs syndrome and insomnia); L4–L5 for the other candidates |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 (cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
-**Other predicted indications** (all with TxGNN scores of 99.0–99.6%):
+**Other predicted indications** (all with TxGNN scores of 0.9901–0.9957):
 
 | Rank | Predicted Indication | Evidence Level | Decision |
 |---|---|---|---|

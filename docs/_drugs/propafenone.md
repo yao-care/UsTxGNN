@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Propafenone
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1090
-evidence_level: L3
-indication_count: 8
+evidence_level: L5
+indication_count: 6
 last_modified_at: 2026-10-14
-description: "Propafenone: predicted new indication Catecholaminergic polymorphic ventricular tachycardia (evidence level L3). Approved use: Atrial fibrillation"
 monitor_inn: "PROPAFENONE"
 predicted_indications: ["manic bipolar affective disorder", "periodic paralysis with transient compartment-like syndrome", "Prinzmetal angina", "arrhythmogenic right ventricular cardiomyopathy", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania"]
+description: "Propafenone: predicted new indication Manic bipolar affective disorder (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Propafenone
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **8** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,28 +33,27 @@ Evidence Level: **L3** | Predicted Indications: **8**
 
 </div>
 
-## Propafenone: From Atrial Fibrillation and Ventricular Tachycardia to Catecholaminergic Polymorphic Ventricular Tachycardia
+## Propafenone: Manic bipolar affective disorder
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Propafenone is a class IC antiarrhythmic originally used to treat atrial fibrillation and ventricular tachycardia.
-The TxGNN model predicts it may be useful for **Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT)**, the most credible of its eight predicted indications.
 Support is limited: **0 registered clinical trials** and **10 publications** (preclinical studies, cohorts and case reports, with no RCTs).
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Atrial fibrillation; ventricular tachycardia |
-| Predicted New Indication | Catecholaminergic polymorphic ventricular tachycardia |
-| TxGNN Prediction Score | 99.79% |
-| Evidence Level | L3 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Manic bipolar affective disorder |
+| TxGNN Prediction Score | 0.9980 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 9) |
 | Number of NDAs | 9 (all cancelled) |
 | Recommended Decision | Hold (research question; see Conclusion) |
 
-The original indications come from the TxGNN knowledge graph, not from label text. Every US license record in the data compiled for this report lacks approved-indication text.
+Every US license record in the data compiled for this report lacks approved-indication text.
 
 ## Why is This Prediction Reasonable?
 
@@ -62,7 +61,7 @@ Detailed mechanism-of-action data for propafenone is not available in the data c
 
 CPVT is an inherited arrhythmia caused mainly by ryanodine receptor 2 (RyR2) mutations, which produce spontaneous Ca²⁺ release. Preclinical studies show that propafenone, and its R-enantiomer in particular, blocks RyR2 Ca²⁺ release channels and suppresses arrhythmogenic Ca²⁺ waves, much as flecainide does. Flecainide is the established add-on therapy for CPVT, so propafenone is a mechanistically plausible alternative. A case report describes 35 years of effective treatment with propafenone.
 
-The other seven predictions are much weaker. For manic bipolar disorder, the literature points to propafenone possibly *causing* mania or psychosis, so the high score is probably a graph artifact. For arrhythmogenic right ventricular cardiomyopathy, case reports show harm (QRS widening, incessant VT). Four predictions (periodic paralysis with transient compartment-like syndrome, Prinzmetal angina, nephrogenic syndrome of inappropriate antidiuresis, trichotillomania) have no literature or trials and no clear mechanistic link. Incessant infant ventricular tachycardia has small, old observational support only.
+The other seven predictions are much weaker. For arrhythmogenic right ventricular cardiomyopathy, case reports show harm (QRS widening, incessant VT). Four predictions (periodic paralysis with transient compartment-like syndrome, Prinzmetal angina, nephrogenic syndrome of inappropriate antidiuresis, trichotillomania) have no literature or trials and no clear mechanistic link. Incessant infant ventricular tachycardia has small, old observational support only.
 
 ## Clinical Trial Evidence
 
@@ -85,7 +84,6 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All nine US licenses are cancelled. None has valid single-ingredient or combination status, and no approved-indication text is recorded.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -114,7 +112,7 @@ Please refer to the package insert for full warnings and contraindications.
 
 **Rationale:**
 - CPVT has a plausible RyR2-based mechanism and a long-term case report, but no registered trials, no RCTs, and flecainide is already the established option.
-- All US licenses are cancelled, and label-based safety data are missing. The other seven predicted indications have no supporting evidence or point to harm.
+- The other seven predicted indications have no supporting evidence or point to harm.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

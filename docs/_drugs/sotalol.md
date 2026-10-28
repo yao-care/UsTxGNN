@@ -4,17 +4,17 @@ title: Sotalol
 parent: Model Prediction Only (L5)
 nav_order: 1178
 evidence_level: L5
-indication_count: 7
+indication_count: 6
 monitor_inn: "SOTALOL"
-predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "Wildervanck syndrome", "sarcoglycanopathy", "stroke disorder", "manic bipolar affective disorder", "macrocephaly, dysmorphic facies, and psychomotor retardation", "obsolete susceptibility to ischemic stroke"]
+predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "Wildervanck syndrome", "sarcoglycanopathy", "stroke disorder", "manic bipolar affective disorder", "macrocephaly, dysmorphic facies, and psychomotor retardation"]
 last_modified_at: 2026-10-14
-description: "Sotalol: predicted new indication Sick sinus syndrome 2, autosomal dominant (evidence level L5). Approved use: Atrial fibrillation"
+description: "Sotalol: predicted new indication Sick sinus syndrome 2, autosomal dominant (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Sotalol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **7** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-## Sotalol: From Atrial Fibrillation to Sick Sinus Syndrome 2, Autosomal Dominant
+## Sotalol: Sick sinus syndrome 2, autosomal dominant
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,11 +45,11 @@ The TxGNN model predicts it may be effective for **sick sinus syndrome 2, autoso
 
 | Item | Content |
 |------|------|
-| Original Indication | Atrial fibrillation (from the knowledge graph; no approved indication text is available in the US license records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Sick sinus syndrome 2, autosomal dominant |
-| TxGNN Prediction Score | 99.76% |
+| TxGNN Prediction Score | 0.9976 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 7) |
 | Number of NDAs | 7 (all cancelled; 1 NDA and 6 ANDAs) |
 | Recommended Decision | Hold |
 
@@ -71,17 +71,17 @@ Currently no related literature available for the predicted indication.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA019865 | BETAPACE AF (Legacy Pharma USA) | Tablet | Not available; status cancelled |
-| ANDA207428 | Sotalol (Unichem) | Tablet | Not available; status cancelled |
-| ANDA075563 | Sotalol Hydrochloride (Proficient Rx) | Tablet | Not available; status cancelled |
-| ANDA075500 | Sotalol Hydrochloride (Bryant Ranch Prepack) | Tablet | Not available; status cancelled |
-| ANDA076140 | Sotalol Hydrochloride (Bryant Ranch Prepack) | Tablet | Not available; status cancelled |
+| NDA019865 | BETAPACE AF (Legacy Pharma USA) | Tablet | Not available; status valid |
+| ANDA207428 | Sotalol (Unichem) | Tablet | Not available; status valid |
+| ANDA075563 | Sotalol Hydrochloride (Proficient Rx) | Tablet | Not available; status valid |
+| ANDA075500 | Sotalol Hydrochloride (Bryant Ranch Prepack) | Tablet | Not available; status valid |
+| ANDA076140 | Sotalol Hydrochloride (Bryant Ranch Prepack) | Tablet | Not available; status valid |
 
 Two further cancelled ANDAs (Epic Pharma, Aphena Pharma Solutions) are not shown. All 7 licenses are oral tablets.
 
 ## Safety Considerations
 
-- **Contraindications (knowledge-graph associations, not label text):** long QT syndrome (including familial), torsades de pointes, sick sinus syndrome (including familial), atrioventricular block, asthma (intrinsic and allergic) and other bronchial disease, hypotensive disorder, impaired renal function, potassium deficiency, diabetes mellitus, diabetic ketoacidosis, anaphylaxis.
+- **Contraindications (from the TxGNN model (deep learning), not label text; these may reflect similarities the model learned between related diseases, not biological evidence):** long QT syndrome (including familial), torsades de pointes, sick sinus syndrome (including familial), atrioventricular block, asthma (intrinsic and allergic) and other bronchial disease, hypotensive disorder, impaired renal function, potassium deficiency, diabetes mellitus, diabetic ketoacidosis, anaphylaxis.
 - **Drug Interactions:** 100 interactions were identified. Major-level examples include epinephrine, clarithromycin, picosulfuric acid and polyethylene glycol 3350 with electrolytes. Moderate-level examples include famotidine, cimetidine, bupropion, morphine, loperamide, atropine, dicyclomine, canagliflozin, dapagliflozin and chlorpropamide.
 - **Proarrhythmia:** Sotalol prolongs the QT interval and carries a risk of torsades de pointes. Its QT-prolonging effect is additive with antipsychotics and other QT-prolonging drugs.
 
@@ -92,7 +92,7 @@ Please refer to the package insert for the full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score, with no trials or publications. The drug's pharmacology (slowing the sinus rate and conduction) and its knowledge-graph contraindication in sick sinus syndrome argue against benefit and suggest potential harm. All US licenses are also cancelled.
+The prediction is supported only by a model score, with no trials or publications. The drug's pharmacology (slowing the sinus rate and conduction) and its knowledge-graph contraindication in sick sinus syndrome argue against benefit and suggest potential harm. The drug is marketed in the US, with 7 valid licenses.
 
 Other predicted indications are also at Hold: Wildervanck syndrome, sarcoglycanopathy, macrocephaly with dysmorphic facies and psychomotor retardation, and the obsolete ischemic stroke susceptibility entry have no evidence (L5). Stroke (L4) and manic bipolar affective disorder (L5) show only indirect links. The stroke link runs through atrial fibrillation rhythm management, and the one trial retrieved (NCT00007605, a completed Phase 3 study of amiodarone and sotalol for sinus rhythm maintenance in atrial fibrillation) concerns the original indication. The bipolar disorder papers concern drug-interaction safety, not efficacy.
 

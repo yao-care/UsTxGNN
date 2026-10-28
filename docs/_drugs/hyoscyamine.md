@@ -48,9 +48,9 @@ but currently there are **0 registered clinical trials** and only **1 publicatio
 |------|------|
 | Original Indication | Peptic ulcer disease |
 | Predicted New Indication | Gastroduodenitis |
-| TxGNN Prediction Score | 99.59% |
+| TxGNN Prediction Score | 0.9959 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid authorization) |
+| US Market Status | Marketed (valid licenses on record: at least 1) |
 | Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
@@ -58,7 +58,7 @@ but currently there are **0 registered clinical trials** and only **1 publicatio
 
 Currently, detailed mechanism of action data is not available. Based on known information, hyoscyamine is a non-selective antimuscarinic agent. Gastric acid secretion and gastrointestinal motility and spasm are both modulated by muscarinic receptors, which is the basis of its use in peptic ulcer disease.
 
-Gastroduodenitis is an inflammatory condition of the same anatomical region. Reduced secretion and reduced spasm could therefore plausibly relieve symptoms. However, this link is symptomatic only: antimuscarinics do not treat the underlying inflammation or causes such as *H. pylori* infection. The high TxGNN score (0.996) is a computational prediction, not clinical evidence.
+Gastroduodenitis is an inflammatory condition of the same anatomical region. Reduced secretion and reduced spasm could therefore plausibly relieve symptoms. However, this link is symptomatic only: antimuscarinics do not treat the underlying inflammation or causes such as *H. pylori* infection. The high TxGNN score (0.9959) is a computational prediction, not clinical evidence.
 
 ## Clinical Trial Evidence
 

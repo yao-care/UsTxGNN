@@ -4,17 +4,17 @@ title: Lorazepam
 parent: Model Prediction Only (L5)
 nav_order: 870
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-14
-description: "Lorazepam: predicted new indication Trigeminal nerve neoplasm (evidence level L5). Approved use: Anxiety disorder, status epilepticus, Lennox-Gastaut syndrome…"
 monitor_inn: "LORAZEPAM"
 predicted_indications: ["trigeminal nerve neoplasm"]
+description: "Lorazepam: predicted new indication Trigeminal nerve neoplasm (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Lorazepam
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Lorazepam: From Anxiety and Seizure Disorders to Trigeminal Nerve Neoplasm
+## Lorazepam: Trigeminal nerve neoplasm
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,11 +48,11 @@ Among the other predictions, **insomnia** has the most supporting literature (17
 
 | Item | Content |
 |------|------|
-| Original Indication | Anxiety disorder, status epilepticus, Lennox-Gastaut syndrome, absence epilepsy (from the knowledge graph; no approved-indication text is available in the US license records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Trigeminal nerve neoplasm |
-| TxGNN Prediction Score | 99.87% |
+| TxGNN Prediction Score | 0.9987 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 7) |
 | Number of NDAs | 7 authorizations in total (2 NDAs, 5 ANDAs; all cancelled) |
 | Recommended Decision | Hold |
 
@@ -62,7 +62,7 @@ Among the other predictions, **insomnia** has the most supporting literature (17
 
 Detailed mechanism-of-action data was not available in the data compiled for this report. Lorazepam is generally known as a positive allosteric modulator of the GABA-A receptor, which gives it anxiolytic, sedative and anticonvulsant effects. These effects are established in anxiety and seizure emergencies.
 
-For trigeminal nerve neoplasm, the data supports **no mechanistic link**. Lorazepam has no known antineoplastic activity. Any realistic use would be symptom control (for example anxiety or seizures in a patient with a tumour), not treating the tumour itself. The very high model score (99.87%) is not backed by any trial or publication, so it should be read as a statistical artefact of the knowledge graph, not as a biological signal.
+For trigeminal nerve neoplasm, the data supports **no mechanistic link**. Lorazepam has no known antineoplastic activity. Any realistic use would be symptom control (for example anxiety or seizures in a patient with a tumor), not treating the tumor itself. The very high model score (0.9987) is not backed by any trial or publication. It comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 Several lower-ranked predictions are mostly extensions of lorazepam's known anticonvulsant role:
 
@@ -96,7 +96,7 @@ For reference, the most relevant literature for the next-ranked prediction, **in
 
 ## US Market Information
 
-All seven US authorizations are cancelled. Approved-indication text is not available in the records.
+The drug is marketed in the US, with seven valid authorizations. Approved-indication text is not available in the records.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -131,14 +131,14 @@ The following comes from the knowledge graph and is not label text.
 **Decision: Hold**
 
 **Rationale:**
-The top prediction, trigeminal nerve neoplasm, has a very high model score but no trials, no literature and no plausible antitumour mechanism for lorazepam, so the evidence level is L5. All US authorizations are cancelled, and label safety data is missing.
+The top prediction, trigeminal nerve neoplasm, has a very high model score but no trials, no literature and no plausible antitumor mechanism for lorazepam, so the evidence level is L5. The drug is marketed in the US with seven valid authorizations, and label safety data is missing.
 
 **To proceed, the following is needed:**
 - Package-insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism-of-action data from DrugBank
 - Any preclinical or clinical evidence of a tumour-related effect (none exists in the current data); without it, the prediction should be de-prioritised
 - If a different direction is of interest, treat insomnia (L3) as a separate research question. It is already a recognized sedative-hypnotic use, so it is better framed as an existing use than a novel repurposing, and it requires weighing dependence and fall risk.
-- Clarification of why all US authorizations are cancelled, and whether any route or formulation is available for a new indication
+- Clarification of which US authorizations are valid, and whether any route or formulation is available for a new indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

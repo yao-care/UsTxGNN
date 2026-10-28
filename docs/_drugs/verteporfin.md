@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "VERTEPORFIN"
 predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies"]
 last_modified_at: 2026-10-14
-description: "Verteporfin: predicted new indication Mitochondrial oxidative phosphorylation disorder due to nuclear DNA a… (evidence level L5). Approved use: Macular degeneration"
+description: "Verteporfin: predicted new indication mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies (evidence level L5). Approved use: Macular degeneration"
 ---
 
 # Verteporfin
@@ -48,10 +48,10 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Macular degeneration |
 | Predicted New Indication | Mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies |
-| TxGNN Prediction Score | 99.49% |
+| TxGNN Prediction Score | 0.9949 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 Preclinical work also reports that verteporfin inhibits YAP-TEAD signaling and may affect autophagy. If this holds, modulating YAP/Hippo signaling or autophagy/mitophagy could be a speculative route to mitochondrial disease. However, the photodynamic action produces oxidative stress, which could instead worsen oxidative phosphorylation dysfunction.
 
-The link between the original indication (a retinal vascular condition) and the predicted one (an inherited mitochondrial disorder) is therefore weak. The prediction is unvalidated, and whether it would help or harm is unclear. The high TxGNN score (99.49%) reflects knowledge-graph patterns only, not clinical or experimental evidence.
+The link between the original indication (a retinal vascular condition) and the predicted one (an inherited mitochondrial disorder) is therefore weak. The prediction is unvalidated, and whether it would help or harm is unclear. The high TxGNN score (0.9949) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Clinical Trial Evidence
 
@@ -74,7 +74,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA021119 | Visudyne (Bausch & Lomb Incorporated; status: cancelled) | Injection, powder, lyophilized, for solution | Not listed in the data compiled for this report |
+| NDA021119 | Visudyne (Bausch & Lomb Incorporated; status: valid) | Injection, powder, lyophilized, for solution | Not listed in the data compiled for this report |
 
 ## Safety Considerations
 

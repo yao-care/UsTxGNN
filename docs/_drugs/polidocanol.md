@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Polidocanol
-parent: Model Prediction Only (L5)
+parent: High Evidence (L1-L2)
 nav_order: 1059
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 monitor_inn: "POLIDOCANOL"
 predicted_indications: ["esophageal varices with bleeding", "esophageal varices without bleeding", "Immunoerythromyeloid hypoplasia", "pigmented paravenous retinochoroidal atrophy", "progressive bifocal chorioretinal atrophy", "X-linked retinal dysplasia", "monosomy X", "cone dystrophy", "oligocone trichromacy", "retinoschisis of fovea"]
 last_modified_at: 2026-10-14
-description: "Polidocanol: predicted new indication Esophageal varices with bleeding (evidence level L5). Approved use: Varicose veins"
+description: "Polidocanol: predicted new indication Esophageal varices with bleeding (evidence level L1). Approved use: Not recorded in the local data"
 ---
 
 # Polidocanol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Polidocanol: From Varicose Veins to Esophageal Varices with Bleeding
+## Polidocanol: Esophageal varices with bleeding
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ with **0 registered clinical trials** and **20 publications** (including 2 RCTs)
 
 | Item | Content |
 |------|------|
-| Original Indication | Varicose veins (the US license record contains no indication text; taken from the knowledge-graph indication data) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Esophageal varices with bleeding |
-| TxGNN Prediction Score | 99.95% |
+| TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L1 (as assigned in the compiled data; inferred from literature titles only, see caveats below) |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

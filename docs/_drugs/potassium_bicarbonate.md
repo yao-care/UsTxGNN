@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "POTASSIUM BICARBONATE"
 predicted_indications: ["gastroduodenitis"]
 last_modified_at: 2026-10-14
-description: "Potassium Bicarbonate: predicted new indication Gastroduodenitis (evidence level L5). Approved use: Peptic ulcer disease, potassium deficiency disease…"
+description: "Potassium Bicarbonate: predicted new indication Gastroduodenitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Potassium Bicarbonate
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-## Potassium Bicarbonate: From Peptic Ulcer Disease to Gastroduodenitis
+## Potassium Bicarbonate: Gastroduodenitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 
 | Item | Content |
 |------|------|
-| Original Indication | Peptic ulcer disease, potassium deficiency disease, gastroesophageal reflux disease, esophagitis, peptic esophagitis, dyspepsia (from the knowledge graph; the US product record lists no approved indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Gastroduodenitis |
-| TxGNN Prediction Score | 99.72% |
+| TxGNN Prediction Score | 0.9972 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -76,7 +76,6 @@ Currently no related literature available.
 |---------|------|------|-----------|
 | Not available | Effer-K (Nomax Inc.) | Effervescent tablet (oral) | Not available |
 
-The only authorization on record is cancelled; there are no currently valid single-ingredient or combination authorizations.
 
 ## Safety Considerations
 
@@ -92,7 +91,7 @@ Please refer to the package insert for further safety information, such as warni
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a high model score (99.72%) but no supporting clinical trials or literature (evidence level L5). The US product is cancelled, there is no mechanism data, and the many interactions with hyperkalemia-related drugs need careful review.
+The prediction has a high model score (0.9972) but no supporting clinical trials or literature (evidence level L5). The US product is cancelled, there is no mechanism data, and the many interactions with hyperkalemia-related drugs need careful review.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (currently a blocking gap for safety screening)

@@ -4,17 +4,17 @@ title: Ammonium Chloride
 parent: Model Prediction Only (L5)
 nav_order: 332
 evidence_level: L5
-indication_count: 2
-last_modified_at: 2026-10-14
-description: "Ammonium Chloride: predicted new indication Acute laryngopharyngitis (evidence level L5). Approved use: Pharyngitis, common cold, nasopharyngitis"
+indication_count: 1
 monitor_inn: "AMMONIUM CHLORIDE"
-predicted_indications: ["acute laryngopharyngitis", "nasal cavity disease"]
+predicted_indications: ["nasal cavity disease"]
+last_modified_at: 2026-10-23
+description: "Ammonium Chloride: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Pharyngitis, common cold, nasopharyngitis"
 ---
 
 # Ammonium Chloride
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **2** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,34 +33,35 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-## Ammonium Chloride: From Pharyngitis and Common Cold to Acute Laryngopharyngitis
+## Ammonium Chloride: From Pharyngitis and Common Cold to Nasal Cavity Disease
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Ammonium chloride was originally associated with upper respiratory conditions such as pharyngitis, the common cold and nasopharyngitis.
-The TxGNN model predicts it may be effective for **acute laryngopharyngitis**,
-but there are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model alone.
+Ammonium chloride is marketed in the United States in smelling-salt products.
+The TxGNN model predicts it may be effective for **nasal cavity disease**.
+There are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Pharyngitis, common cold, nasopharyngitis (from the knowledge graph; no approved indication text is available in the US licence records) |
-| Predicted New Indication | Acute laryngopharyngitis |
-| TxGNN Prediction Score | 99.94% |
+| Original Indication | Pharyngitis, common cold, nasopharyngitis (relations recorded in the knowledge graph; the licence records compiled for this report contain no approved indication text) |
+| Predicted New Indication | Nasal cavity disease |
+| TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 3 (all cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 3) |
+| Number of NDAs | at least 3 |
+| Number of approvals | At least 3 licences (the list may be partial) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, ammonium chloride is traditionally used as an expectorant, which could loosen secretions in upper airway inflammation. Its mechanism has not been verified from the data compiled for this report.
+Detailed mechanism of action data is not available. Ammonium chloride is known pharmacologically as an expectorant and mucosal irritant, but this is not confirmed by the data compiled for this report.
 
-The original indications (pharyngitis, common cold, nasopharyngitis) are anatomically and clinically very close to acute laryngopharyngitis. The very high score therefore likely reflects overlap with the existing upper respiratory tract label rather than a genuinely new repurposing signal.
+Nasal cavity disease sits in the upper airway region. A plausible but unverified link is that its secretion-modifying effects could relate to nasal conditions with mucus hypersecretion or congestion. The score of 0.9994 comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
-The second-ranked prediction, **nasal cavity disease** (score 99.94%), has the same limitations. It is a broad category overlapping with the common cold and nasopharyngitis, and it is too non-specific to define a trial endpoint or target population. Neither prediction has clinical trial or literature support.
+This is a hypothesis only. The score is a computational prediction, not clinical evidence.
 
 ## Clinical Trial Evidence
 
@@ -72,41 +73,42 @@ Currently no related literature available.
 
 ## US Market Information
 
+The licences listed are the ones available in the compiled data. The list may be partial, and all three are single-ingredient products.
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| 505G(a)(3) | LRNASH Smelling Salts | Granule | Not stated (cancelled) |
-| M011 | Smelling Salt | Inhalant | Not stated (cancelled) |
-| No number recorded | Bardown Smelling Salts | Liquid | Not stated (cancelled) |
-
-All three authorizations are cancelled, and all are smelling-salt products rather than products for upper respiratory indications.
+| Not available | Bardown Smelling Salts | Liquid | Not stated in the records |
+| 505G(a)(3) | LRNASH Smelling Salts | Granule | Not stated in the records |
+| M011 | Smelling Salt | Inhalant | Not stated in the records |
 
 ## Safety Considerations
 
-- **Disease contraindications (knowledge graph, not label text)**: The knowledge graph links ammonium chloride to contraindications in many conditions. Main groups include:
-  - Renal and hepatic: liver failure, impaired renal function, anuria
-  - Cardiovascular: hypertension, hypertensive disorder, myocardial ischemia, coronary artery disease, sudden cardiac arrest, heart conduction disease, pulmonary edema
-  - Endocrine and metabolic: adrenocortical insufficiency, Addison disease, hyperthyroidism, Graves disease, thyrotoxicosis, hypercalcemia, nephrocalcinosis, phosphorus metabolism disease
+- **Contraindications recorded in the knowledge graph (not label text):** The graph links the drug to many conditions as contraindications, including:
+  - Cardiovascular: hypertension, sudden cardiac arrest, heart conduction disease, myocardial ischemia, coronary artery disease, pulmonary edema
+  - Hepatic and renal: liver failure, impaired renal function, anuria, nephrocalcinosis
+  - Endocrine and metabolic: adrenocortical insufficiency (Addison disease), hyperthyroidism (Graves disease, thyrotoxicosis), hypercalcemia, phosphorus metabolism disease
+  - Eye and urological: angle-closure glaucoma, ocular hypertension, benign prostatic hyperplasia, bladder neck obstruction
   - Neurological and psychiatric: epilepsy, insomnia, anxiety disorder, agoraphobia, obsessive-compulsive disorder
-  - Other: peptic ulcer disease, benign prostatic hyperplasia, bladder neck obstruction, ocular hypertension, angle-closure glaucoma, necrotizing enterocolitis
-- **Drug Interactions**: 21 interactions were identified, none rated Major.
-  - Moderate (5): amphetamine, dextroamphetamine, lisdexamfetamine, metamfetamine, benzphetamine
-  - Minor (16): ephedrine (including nasal), pseudoephedrine, tricyclic antidepressants (amitriptyline, clomipramine, desipramine, doxepin including topical, imipramine, nortriptyline, protriptyline, trimipramine), methadone, mexiletine, flecainide
+  - Gastrointestinal: peptic ulcer disease, necrotizing enterocolitis
+- **Drug Interactions:** 21 interactions were recorded.
+  - Moderate: amphetamine, dextroamphetamine, lisdexamfetamine, metamfetamine, benzphetamine
+  - Minor: ephedrine, pseudoephedrine, several tricyclic antidepressants (amitriptyline, clomipramine, desipramine, doxepin, imipramine, nortriptyline, protriptyline, trimipramine), methadone, mexiletine, flecainide
 
-Package insert warnings and contraindications were not available, so please refer to the package insert for label safety information.
+Please refer to the package insert for label warnings, as these were not available.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high, but it is model-derived only (evidence level L5), with no clinical trials or literature. The predicted indication largely overlaps with the existing upper respiratory label, and all US licences are cancelled, which weakens the practical case for development.
+The prediction rests only on a high model score. No clinical trials or publications address nasal cavity disease, so the evidence level is L5. Mechanism and label safety data are also missing.
 
 **To proceed, the following is needed:**
-- Mechanism of action data, to allow assessment of the mechanistic link
-- FDA package insert warnings and contraindications, to complete safety screening
-- Literature and trial searches for ammonium chloride in laryngopharyngitis and upper airway disease
-- A clearer indication definition, particularly for the non-specific "nasal cavity disease" prediction
-- Route and formulation compatibility assessment (currently pending)
+- Mechanism of action data
+- Label warnings and contraindications from the FDA package insert
+- Literature or trial evidence directly studying ammonium chloride in nasal cavity disease
+- Clarification of the specific nasal condition and the route of administration, since the marketed products are smelling salts rather than treatments for nasal disease
+- Review of the knowledge-graph contraindications (especially cardiovascular, renal and hepatic) against the intended use
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

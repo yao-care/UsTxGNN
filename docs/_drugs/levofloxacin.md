@@ -39,7 +39,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 ## One-Sentence Summary
 
 Levofloxacin is a fluoroquinolone antibiotic, originally used for bacterial infections such as pneumonia, sinusitis, pyelonephritis, anthrax and bacterial conjunctivitis.
-The TxGNN model ranks **punctate epithelial keratoconjunctivitis** as its top prediction (score 99.92%), but there are **0 clinical trials** and only **1 publication** (an outbreak report that does not support efficacy), so the prediction rests almost entirely on the model.
+The TxGNN model ranks **punctate epithelial keratoconjunctivitis** as its top prediction (score 0.9992), but there are **0 clinical trials** and only **1 publication** (an outbreak report that does not support efficacy), so the prediction rests almost entirely on the model.
 
 ## Quick Overview
 
@@ -47,9 +47,9 @@ The TxGNN model ranks **punctate epithelial keratoconjunctivitis** as its top pr
 |------|------|
 | Original Indication | Bacterial infections (streptococcal and staphylococcal infections, bacterial pneumonia, anthrax, maxillary sinusitis, conjunctivitis, pyelonephritis, and others) |
 | Predicted New Indication | Punctate epithelial keratoconjunctivitis |
-| TxGNN Prediction Score | 99.92% |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all 11 listed authorizations are cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 11) |
 | Number of NDAs | 11 (all ANDA generic applications) |
 | Recommended Decision | Hold |
 
@@ -65,10 +65,10 @@ Ten predictions were screened. Most have no usable evidence. The ones with some 
 
 | Rank | Predicted Indication | Score | Evidence Level | Assessment |
 |------|------|------|------|------|
-| 7 | Monoclonal gammopathy | 99.81% | L4 | Strongest literature, but it concerns infection prophylaxis in myeloma, not the gammopathy itself. Research question. |
-| 9 | Septicemic plague | 99.80% | L4 | Strong mechanism and animal data, but already label-adjacent rather than true repurposing. Research question. |
-| 5 | Blood group incompatibility | 99.85% | L4 | One case report on an infectious complication. Indirect. |
-| 2, 3, 4, 6, 8, 10 | Polyclonal hyperviscosity syndrome, hyperamylasemia, congenital analbuminemia, premalignant hematological disease, hematological disease with acquired peripheral neuropathy, congenital hematological disorder | 99.72–99.90% | L5 | No plausible mechanism and no evidence. Rank 8 conflicts with the known fluoroquinolone neuropathy warning, and rank 3 conflicts with the rare link to pancreatitis. |
+| 7 | Monoclonal gammopathy | 0.9981 | L5 | Strongest literature, but it concerns infection prophylaxis in myeloma, not the gammopathy itself. Research question. |
+| 9 | Septicemic plague | 0.9980 | L5 | Strong mechanism and animal data, but already label-adjacent rather than true repurposing. Research question. |
+| 5 | Blood group incompatibility | 0.9985 | L5 | One case report on an infectious complication. Indirect. |
+| 2, 3, 4, 6, 8, 10 | Polyclonal hyperviscosity syndrome, hyperamylasemia, congenital analbuminemia, premalignant hematological disease, hematological disease with acquired peripheral neuropathy, congenital hematological disorder | 99.72–0.9990 | L5 | No plausible mechanism and no evidence. Rank 8 conflicts with the known fluoroquinolone neuropathy warning, and rank 3 conflicts with the rare link to pancreatitis. |
 
 ## Clinical Trial Evidence
 
@@ -110,11 +110,11 @@ All 11 listed authorizations are generic applications with a cancelled status. A
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
 |---------|------|------|------|------|
-| ANDA077652 | Levofloxacin | Film-coated tablet | Coupler LLC | Cancelled |
-| ANDA202801 | Levofloxacin | Film-coated tablet | A-S Medication Solutions | Cancelled |
-| ANDA076710 | Levofloxacin | Film-coated tablet | Northwind Health Company, LLC | Cancelled |
-| ANDA076890 | Levofloxacin | Tablet | Chartwell RX, LLC | Cancelled |
-| ANDA090343 | Levofloxacin | Injection, solution | WG Critical Care, LLC | Cancelled |
+| ANDA077652 | Levofloxacin | Film-coated tablet | Coupler LLC | Valid |
+| ANDA202801 | Levofloxacin | Film-coated tablet | A-S Medication Solutions | Valid |
+| ANDA076710 | Levofloxacin | Film-coated tablet | Northwind Health Company, LLC | Valid |
+| ANDA076890 | Levofloxacin | Tablet | Chartwell RX, LLC | Valid |
+| ANDA090343 | Levofloxacin | Injection, solution | WG Critical Care, LLC | Valid |
 
 Six further authorizations (oral solution, tablets and injections from Hikma, Macleods, Lannett, Gland, Eugia and PD-Rx) are also cancelled.
 

@@ -4,17 +4,17 @@ title: Levothyroxine
 parent: Model Prediction Only (L5)
 nav_order: 858
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-14
-description: "Levothyroxine: predicted new indication Nodular goiter (evidence level L5). Approved use: Hypothyroidism"
+indication_count: 4
 monitor_inn: "LEVOTHYROXINE"
-predicted_indications: ["endemic goiter", "renal hypodysplasia/aplasia", "nodular goiter (disease)", "bilateral renal agenesis", "substernal goiter", "lingual goiter", "dyshormonogenic goiter", "nontoxic goiter", "Potter sequence", "Carney complex"]
+predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "Potter sequence", "Carney complex"]
+last_modified_at: 2026-10-23
+description: "Levothyroxine: predicted new indication Renal hypodysplasia/aplasia (evidence level L5). Approved use: Hypothyroidism"
 ---
 
 # Levothyroxine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,90 +33,81 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Levothyroxine: From Hypothyroidism to Nodular Goiter
+## Levothyroxine: From Hypothyroidism to Renal Hypodysplasia/Aplasia
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Levothyroxine is a synthetic thyroid hormone, originally used to treat hypothyroidism and other thyroid conditions such as congenital hypothyroidism, goiter, Hashimoto thyroiditis and thyroid cancer.
-The TxGNN model predicts it may be effective for **nodular goiter**, with **2 clinical trials** and **18 publications** currently supporting this direction.
-The evidence is mixed: levothyroxine gives modest volume reduction, and other treatments are often preferred.
+Levothyroxine is a synthetic thyroid hormone, recorded in the knowledge graph for hypothyroidism and other thyroid conditions.
+The TxGNN model predicts it may be effective for **renal hypodysplasia/aplasia**, but **no clinical trials and no publications** were found in the data compiled for this report, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypothyroidism (the data compiled for this report does not include approved indication text from US labels; this comes from the knowledge-graph indication list) |
-| Predicted New Indication | Nodular goiter |
-| TxGNN Prediction Score | 99.64% |
-| Evidence Level | L1 (rests on randomized controlled designs; the main trial is Phase 4 rather than a classic Phase 3) |
-| US Market Status | Cancelled only (all 11 listed authorizations are cancelled) |
-| Number of NDAs | 11 |
-| Recommended Decision | Proceed with Guardrails |
+| Original Indication | Hypothyroidism (relation recorded in the knowledge graph; the licence records contain no indication text) |
+| Predicted New Indication | Renal hypodysplasia/aplasia |
+| TxGNN Prediction Score | 0.9967 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 11) |
+| Number of NDAs | at least 11 |
+| Number of approvals | At least 11 (NDAs and ANDAs; the list may be partial) |
+| Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, levothyroxine replaces thyroid hormone and suppresses pituitary TSH secretion. TSH is a main growth stimulus for thyroid tissue.
+Detailed mechanism of action data is not available in the data compiled for this report. Levothyroxine is a thyroid hormone replacement, and its use in thyroid disease is an established indication.
 
-Hypothyroidism and goiter are both thyroid disorders, and goiter is already among the drug's known indications. Nodular goiter is closely related. Lowering TSH may limit the growth of nodular thyroid tissue and help prevent recurrence after surgery.
+There is no established mechanistic link to the predicted disease. Thyroid hormone contributes to normal kidney development and function, and congenital hypothyroidism has been associated with a higher rate of congenital anomalies of the kidney and urinary tract. That is an epidemiological association only. Renal hypodysplasia and aplasia are structural malformations that form before birth, and replacing a hormone after birth is not expected to reverse them. The high score (0.9967) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence of a treatable mechanism.
 
-The evidence is mixed. Suppression gives modest volume reduction, nodules often regrow after treatment stops, and long-term TSH suppression carries risks, including bone loss and cardiac effects such as atrial fibrillation. Radioiodine and surgery are often preferred alternatives.
+Other predictions for this drug (bilateral renal agenesis, Potter sequence, Carney complex) are likewise supported by no trials or publications. Only Carney complex has a tissue-level link to the thyroid, through thyroid nodules, where TSH suppression might be an adjunctive use. That remains speculative.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT00277589](https://clinicaltrials.gov/study/NCT00277589) | Phase 4 | Completed | 1024 | Randomized, observer-blind, placebo-controlled trial of TSH-adapted therapy in nodular goiter. The primary objective was change in total nodule volume. This trial tests the indication directly. |
-| [NCT00941551](https://clinicaltrials.gov/study/NCT00941551) | N/A | Completed | 150 | Five-year follow-up of a randomized trial of unilateral lobectomy with or without postoperative levothyroxine. Compares recurrence of nodular goiter in the contralateral lobe. |
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [11238476](https://pubmed.ncbi.nlm.nih.gov/11238476/) | 2001 | RCT | J Clin Endocrinol Metab | 64 patients with sporadic nontoxic nodular goiter randomized to radioiodine or suppressive levothyroxine, compared over 2 years |
-| [10426591](https://pubmed.ncbi.nlm.nih.gov/10426591/) | 1999 | Clinical study | Endocrine Journal | Six months of levothyroxine in 35 patients with diffuse and 35 with nodular euthyroid goiter, assessing thyroid and nodule volume |
-| [8299711](https://pubmed.ncbi.nlm.nih.gov/8299711/) | 1993 | Clinical study | Exp Clin Endocrinol | Suppressive levothyroxine in 104 patients with nontoxic benign multinodular goiter |
-| [10382684](https://pubmed.ncbi.nlm.nih.gov/10382684/) | 1999 | Retrospective cohort | Endocr Res | Suppressive versus replacement levothyroxine in solitary nodular disease and multinodular goiter |
-| [20683172](https://pubmed.ncbi.nlm.nih.gov/20683172/) | 2010 | Clinical study | Endocr J | Short-term levothyroxine effects in 71 pre-menopausal women with multinodular disease |
-| [19636201](https://pubmed.ncbi.nlm.nih.gov/19636201/) | 2009 | Retrospective study | J Endocrinol Invest | Levothyroxine for preventing nodular recurrence after hemithyroidectomy |
-| [27242669](https://pubmed.ncbi.nlm.nih.gov/27242669/) | 2016 | Review | Front Endocrinol | Levothyroxine for goiter volume reduction is controversial; compares radioiodine and surgery |
-| [34961921](https://pubmed.ncbi.nlm.nih.gov/34961921/) | 2021 | Cochrane review | Cochrane Database Syst Rev | rhTSH-aided radioiodine for non-toxic multinodular goitre; levothyroxine is one of the alternatives |
-| [8844728](https://pubmed.ncbi.nlm.nih.gov/8844728/) | 1996 | Review | Otolaryngol Clin North Am | Evaluation and management of multinodular goiter |
-| [19106244](https://pubmed.ncbi.nlm.nih.gov/19106244/) | 2009 | Review | Eur J Endocrinol | Levothyroxine is no longer recommended for routine use because of low efficacy and potential side effects |
+Currently no related literature available.
 
 ## US Market Information
 
+The records below are single-ingredient levothyroxine products. Indication text is not included in the licence records. The list shows 5 of at least 11 approvals and may be partial.
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA021402 | Synthroid (AbbVie) | Tablet | Not available |
-| NDA021924 | Tirosint (IBSA Pharma) | Capsule | Not available |
-| NDA202231 | Levothyroxine Sodium (Fresenius Kabi) | Lyophilized powder for injection | Not available |
-| NDA021116 | Levothyroxine sodium (Preferred Pharmaceuticals) | Tablet | Not available |
-| NDA021342 | Levothyroxine Sodium (Bryant Ranch Prepack) | Tablet | Not available |
+| NDA021402 | Synthroid (AbbVie Inc.) | Tablet | Not stated in the records |
+| NDA021924 | Tirosint (IBSA Pharma Inc.) | Capsule | Not stated in the records |
+| NDA202231 | Levothyroxine Sodium (Fresenius Kabi USA, LLC) | Lyophilized powder for injection | Not stated in the records |
+| NDA021116 | Levothyroxine sodium (Preferred Pharmaceuticals, Inc.) | Tablet | Not stated in the records |
+| ANDA216729 | Levothyroxine Sodium (OneSource Specialty Pharma Limited) | Lyophilized powder for injection | Not stated in the records |
 
-All 11 authorizations in the data are listed as cancelled. Only 5 are shown here.
+Available routes: oral (tablet, capsule) and injectable (lyophilized powder).
 
 ## Safety Considerations
 
-- **Contraindication-related conditions (from the knowledge graph, not label text)**: hypertension, pituitary hormone deficiencies (including hypopituitarism and Sheehan syndrome), osteoporosis (including postmenopausal), diabetes mellitus and diabetic ketoacidosis, coronary artery disease and myocardial infarction, and thymus gland disease.
-- **Drug Interactions**: 100 interactions were identified. Most are Moderate. Examples include diabetes drugs (metformin, pioglitazone, acarbose, alogliptin, canagliflozin, dapagliflozin, empagliflozin, chlorpropamide, dulaglutide, albiglutide), acid-lowering drugs (omeprazole, rabeprazole, dexlansoprazole), calcium and magnesium products (calcium acetate, calcium phosphate, magnesium oxide) and epinephrine. Cimetidine is Minor.
-- **Risks of long-term TSH suppression**: bone loss and atrial fibrillation or other cardiac effects, as described in the literature.
+**Knowledge-graph contraindication relations** (not label text): hypertension, hypopituitarism and other pituitary hormone deficiencies, Kallmann syndrome and hypogonadotropic hypogonadism, osteoporosis (including postmenopausal), diabetes mellitus, diabetic ketoacidosis, coronary artery disease, myocardial infarction, and thymus gland disease.
 
-Please also refer to the package insert for full warnings and contraindications.
+**Drug Interactions** (100 recorded; mostly moderate severity). Main examples:
+- Antidiabetic agents: acarbose, metformin, pioglitazone, alogliptin, canagliflozin, dapagliflozin, empagliflozin, dulaglutide, albiglutide, chlorpropamide
+- Acid-reducing agents: omeprazole, rabeprazole, dexlansoprazole (moderate); cimetidine (minor)
+- Minerals and antacids: calcium phosphate, calcium acetate, magnesium oxide
+- Sympathomimetics: epinephrine, isometheptene, diethylpropion
+
+Package insert warnings and contraindications were not available in the data compiled for this report. Please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-A large randomized, placebo-controlled Phase 4 trial (n=1024) and a randomized RCT comparing levothyroxine with radioiodine support the prediction, and the drug is already used clinically for goiter. However, efficacy is modest, nodules regrow after withdrawal, and long-term suppression has bone and cardiac risks. Alternatives are often preferred. Use should be limited to selected patients with TSH monitoring.
+The prediction rests on a model score alone, with no trials or publications and no plausible mechanism for reversing a structural renal malformation. Renal hypodysplasia/aplasia is a developmental condition that is unlikely to respond to postnatal thyroid hormone replacement.
 
 **To proceed, the following is needed:**
-- Mechanism of action data
-- Package insert warnings and contraindications
-- Published results and outcomes of NCT00277589
-- Patient selection criteria and a TSH and bone/cardiac monitoring plan
-- Confirmation of current US marketing status, since all listed authorizations are cancelled
+- Any clinical or preclinical study directly addressing levothyroxine in renal hypodysplasia/aplasia
+- A mechanistic rationale for how thyroid hormone could affect renal development in this condition
+- Package insert warnings and contraindications, and mechanism of action data
+- If a related use is pursued, review the Carney complex thyroid-nodule (TSH suppression) idea separately, with attention to cardiac and bone risks
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

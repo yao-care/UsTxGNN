@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "FIDAXOMICIN"
 predicted_indications: ["staphylococcal scalded skin syndrome", "bullous impetigo", "inhalational botulism", "impetigo", "toxin-mediated infectious botulism", "vulvovaginal candidiasis", "hordeolum", "staphylococcus aureus pneumonia", "punctate epithelial keratoconjunctivitis"]
 last_modified_at: 2026-10-14
-description: "Fidaxomicin: predicted new indication Staphylococcal scalded skin syndrome (evidence level L5). Approved use: Clostridium difficile colitis"
+description: "Fidaxomicin: predicted new indication Staphylococcal scalded skin syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Fidaxomicin
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-## Fidaxomicin: From Clostridium difficile Colitis to Staphylococcal Scalded Skin Syndrome
+## Fidaxomicin: Staphylococcal scalded skin syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ but **no clinical trials and no publications** currently support this prediction
 
 | Item | Content |
 |------|------|
-| Original Indication | Clostridium difficile colitis (also perinatal necrotizing enterocolitis and Clostridium infectious disease, per the knowledge graph) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Staphylococcal scalded skin syndrome |
-| TxGNN Prediction Score | 99.71% |
+| TxGNN Prediction Score | 0.9971 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all 5 authorizations are listed as cancelled) |
-| Number of NDAs | 5 (2 NDAs and 3 ANDAs) |
+| US Market Status | Marketed (valid licenses: 5 of 5) |
+| Number of NDAs | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -63,7 +63,7 @@ The link to the new indication is weak, for the following reasons:
 - Staphylococcal scalded skin syndrome is driven by exfoliative toxins and is normally treated with systemic anti-staphylococcal antibiotics.
 - Fidaxomicin has minimal systemic absorption. It stays in the gut, which suits colitis but not a skin and bloodstream condition.
 
-The other predictions follow a similar pattern, with scores of 99.0% to 99.7%. They include bullous impetigo, impetigo, inhalational botulism, toxin-mediated infectious botulism, vulvovaginal candidiasis, hordeolum, *S. aureus* pneumonia and punctate epithelial keratoconjunctivitis. Each has the same problems: poor systemic exposure, no suitable formulation, or established standard therapy. Vulvovaginal candidiasis is likely a model artifact, because fidaxomicin has no known antifungal activity. For botulism, antibiotics do not neutralize preformed toxin. None of these predictions has trial support.
+The other predictions follow a similar pattern, with scores of 0.9902 to 0.9970. They include bullous impetigo, impetigo, inhalational botulism, toxin-mediated infectious botulism, vulvovaginal candidiasis, hordeolum, *S. aureus* pneumonia and punctate epithelial keratoconjunctivitis. Each has the same problems: poor systemic exposure, no suitable formulation, or established standard therapy. Vulvovaginal candidiasis is likely a model artifact, because fidaxomicin has no known antifungal activity. For botulism, antibiotics do not neutralize preformed toxin. None of these predictions has trial support.
 
 ## Clinical Trial Evidence
 
@@ -81,11 +81,11 @@ No literature is linked to the top-ranked prediction. The only publication linke
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA201699 | Dificid (Merck Sharp & Dohme LLC) | Film-coated tablet | Not available; status cancelled |
-| NDA213138 | Dificid (Merck Sharp & Dohme LLC) | Granule for suspension | Not available; status cancelled |
-| ANDA208443 | Fidaxomicin (Teva Pharmaceuticals, Inc.) | Film-coated tablet | Not available; status cancelled |
-| ANDA219559 | Fidaxomicin (Apotex Corp.) | Film-coated tablet | Not available; status cancelled |
-| ANDA220374 | Fidaxomicin (Torrent Pharmaceuticals Limited) | Film-coated tablet | Not available; status cancelled |
+| NDA201699 | Dificid (Merck Sharp & Dohme LLC) | Film-coated tablet | Not available; status valid |
+| NDA213138 | Dificid (Merck Sharp & Dohme LLC) | Granule for suspension | Not available; status valid |
+| ANDA208443 | Fidaxomicin (Teva Pharmaceuticals, Inc.) | Film-coated tablet | Not available; status valid |
+| ANDA219559 | Fidaxomicin (Apotex Corp.) | Film-coated tablet | Not available; status valid |
+| ANDA220374 | Fidaxomicin (Torrent Pharmaceuticals Limited) | Film-coated tablet | Not available; status valid |
 
 ## Safety Considerations
 
@@ -101,7 +101,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a very high model score, but no trials or supporting publications back it. Fidaxomicin's minimal systemic absorption conflicts with the nature of staphylococcal scalded skin syndrome, a toxin-mediated systemic disease with effective standard treatments. All US authorizations are also listed as cancelled.
+The prediction has a very high model score, but no trials or supporting publications back it. Fidaxomicin's minimal systemic absorption conflicts with the nature of staphylococcal scalded skin syndrome, a toxin-mediated systemic disease with effective standard treatments. The drug is marketed in the US, and all 5 of its 5 licenses are valid.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (the missing safety data blocks safety screening)

@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Abacavir Sulfate Lamivudine Zidovudine
@@ -51,8 +52,8 @@ Without a mapped candidate or predicted indication, a meaningful repurposing eva
 | Predicted New Indication | None — no TxGNN predictions generated |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | N/A — pipeline did not produce candidates |
-| Market Status | Not marketed in Taiwan |
-| Number of Licenses | 0 |
+| Market Status | Marketed (valid licenses: 13 of 13) |
+| Number of Licenses | 13 (valid: 13) |
 | Recommended Decision | **Hold** |
 
 ---

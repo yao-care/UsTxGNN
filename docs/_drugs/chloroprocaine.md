@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **cauda equina syndrome**, but 
 |------|------|
 | Original Indication | Not stated in the available data (used as a local anesthetic) |
 | Predicted New Indication | Cauda equina syndrome |
-| TxGNN Prediction Score | 99.01% |
+| TxGNN Prediction Score | 0.9901 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid authorizations) |
-| Number of NDAs | 3 (all cancelled) |
+| US Market Status | Marketed (valid licenses: 3 of 3) |
+| Number of NDAs | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -59,7 +59,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 The prediction is **not mechanistically convincing**. The publications link chloroprocaine to cauda equina syndrome as a potential **cause** (neurotoxicity after intrathecal or epidural administration, particularly with large doses of preservative-containing formulations). No plausible mechanism has been identified by which a sodium channel blocker would treat or reverse cauda equina syndrome, which is typically a surgical emergency caused by nerve root compression.
 
-The high TxGNN score (0.99) most likely reflects the drug-disease association in the literature rather than a therapeutic effect. The association is more likely adverse than therapeutic.
+The high TxGNN score (0.9901) most likely reflects the drug-disease association in the literature rather than a therapeutic effect. The association is more likely adverse than therapeutic.
 
 ## Clinical Trial Evidence
 
@@ -78,9 +78,9 @@ Currently no related clinical trials registered.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA009435 | Nesacaine | Injection, solution | Not listed (cancelled) |
-| NDA216227 | IHEEZO | Gel | Not listed (cancelled) |
-| ANDA040273 | Chloroprocaine Hydrochloride | Injection, solution | Not listed (cancelled) |
+| NDA009435 | Nesacaine | Injection, solution | Not listed (valid) |
+| NDA216227 | IHEEZO | Gel | Not listed (valid) |
+| ANDA040273 | Chloroprocaine Hydrochloride | Injection, solution | Not listed (valid) |
 
 ## Safety Considerations
 
@@ -98,7 +98,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on model output alone (L5). The available literature describes cauda equina syndrome as a complication of spinal and epidural local anesthetics, not as a condition they treat, and no therapeutic mechanism is plausible. All three US authorizations are cancelled.
+The prediction rests on model output alone (L5). The available literature describes cauda equina syndrome as a complication of spinal and epidural local anesthetics, not as a condition they treat, and no therapeutic mechanism is plausible. All three US authorizations are valid, and the drug is marketed.
 
 **To proceed, the following is needed:**
 - Confirmation that the model signal reflects an adverse (causative) association, and reclassification of the finding as a safety signal rather than a repurposing candidate

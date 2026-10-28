@@ -4,17 +4,17 @@ title: Eteplirsen
 parent: Model Prediction Only (L5)
 nav_order: 680
 evidence_level: L5
-indication_count: 10
+indication_count: 4
 last_modified_at: 2026-10-14
-description: "Eteplirsen: predicted new indication Duchenne and Becker muscular dystrophy (evidence level L5). Approved use: Duchenne muscular dystrophy"
 monitor_inn: "ETEPLIRSEN"
 predicted_indications: ["Bethlem myopathy", "nebulin-related early-onset distal myopathy", "X-linked myopathy with postural muscle atrophy", "intellectual disability-hyperkinetic movement-truncal ataxia syndrome"]
+description: "Eteplirsen: predicted new indication Bethlem myopathy (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Eteplirsen
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,24 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Eteplirsen: From Duchenne Muscular Dystrophy to Duchenne and Becker Muscular Dystrophy
+## Eteplirsen: Bethlem myopathy
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Eteplirsen is an antisense oligonucleotide originally used to treat Duchenne muscular dystrophy (DMD) in patients whose mutations are amenable to exon 51 skipping.
-The TxGNN model predicts it may be effective for **Duchenne and Becker muscular dystrophy**, which largely overlaps with its existing indication. The prediction is supported by **10 clinical trials** (including 2 Phase 3 studies) and **20 publications**.
+The prediction is supported by **10 clinical trials** (including 2 Phase 3 studies) and **20 publications**.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Duchenne muscular dystrophy (the US license text is blank; the indication comes from the knowledge graph) |
-| Predicted New Indication | Duchenne and Becker muscular dystrophy |
-| TxGNN Prediction Score | 99.95% |
-| Evidence Level | L1 (see note in the conclusion) |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Bethlem myopathy |
+| TxGNN Prediction Score | 0.9994 |
+| Evidence Level | L5 (see note in the conclusion) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
@@ -102,7 +102,6 @@ One further trial, NCT04179409 (Phase 2, n=3, patients with single-exon duplicat
 |---------|------|------|-----------|
 | NDA206488 (cancelled) | Exondys 51 (Sarepta Therapeutics, Inc.) | Injection | No indication text available |
 
-The only US authorization on record is listed as cancelled, so there is currently no valid US marketing authorization in this dataset.
 
 ## Cytotoxicity
 

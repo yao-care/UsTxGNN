@@ -4,9 +4,9 @@ title: Ceritinib
 parent: Model Prediction Only (L5)
 nav_order: 513
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Ceritinib: predicted new indication Gingival fibromatosis (evidence level L5). Approved use: Non-small cell lung cancer (NSCLC)"
+description: "Ceritinib: predicted new indication fibromatosis, gingival (evidence level L5). Approved use: Non-small cell lung cancer (NSCLC)"
 monitor_inn: "CERITINIB"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "lung germ cell tumor", "pulmonary sulcus neoplasm", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "junctional epidermolysis bullosa"]
 ---
@@ -14,7 +14,7 @@ predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma 
 # Ceritinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Ceritinib: From Non-Small Cell Lung Cancer to Gingival Fibromatosis
+## Ceritinib: From Non-Small Cell Lung Cancer to fibromatosis, gingival
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,17 +48,17 @@ but **no clinical trials and no publications** specific to this indication were 
 |------|------|
 | Original Indication | Non-small cell lung cancer (NSCLC) |
 | Predicted New Indication | Gingival fibromatosis |
-| TxGNN Prediction Score | 99.86% |
+| TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (the single NDA is cancelled) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Ceritinib inhibits ALK, ROS1 and IGF-1R. Its efficacy in ALK-rearranged NSCLC is well established, including a Phase 3 trial of first-line ceritinib versus platinum chemotherapy (ASCEND-4). The data compiled for this report do not include a detailed mechanism-of-action entry, so the mechanistic discussion relies on the known targets above.
 
-No mechanistic link has been identified between these targets and gingival fibromatosis, a condition of gingival tissue overgrowth. A lung cancer drug acting on ALK-driven tumors has no obvious basis for treating it. The very high TxGNN score is a computational association from a knowledge graph, with no trial or literature support, and should be treated with caution.
+No mechanistic link has been identified between these targets and gingival fibromatosis, a condition of gingival tissue overgrowth. A lung cancer drug acting on ALK-driven tumors has no obvious basis for treating it. The very high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It has no trial or literature support and should be treated with caution.
 
 Other high-scoring predictions for ceritinib include lung hilum carcinoma and pulmonary sulcus (Pancoast) neoplasm. These are biologically plausible because they are lung cancers, but they largely overlap with the existing NSCLC indication rather than representing true repurposing. Many other top predictions (for example fibroma of lung, hamartoma of lung, inclusion body myopathy with Paget disease, and junctional epidermolysis bullosa) have no identified mechanistic basis.
 
@@ -74,7 +74,7 @@ Currently no related literature available for gingival fibromatosis.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA211225 | ZYKADIA (Novartis Pharmaceuticals Corporation) | Tablet, film coated | Not listed in the compiled data; status: cancelled |
+| NDA211225 | ZYKADIA (Novartis Pharmaceuticals Corporation) | Tablet, film coated | Not listed in the compiled data; status: valid |
 
 ## Cytotoxicity
 

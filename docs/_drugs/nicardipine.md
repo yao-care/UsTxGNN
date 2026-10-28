@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Nicardipine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 964
-evidence_level: L4
-indication_count: 5
+evidence_level: L5
+indication_count: 4
 last_modified_at: 2026-10-14
-description: "Nicardipine: predicted new indication Pulmonary hypertension owing to lung disease and/or hypoxia (evidence level L4). Approved use: Hypertension / hypertensive disorder"
 monitor_inn: "NICARDIPINE"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome"]
+description: "Nicardipine: predicted new indication Pulmonary hypertension with unclear multifactorial mechanism (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Nicardipine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **5**
 
 </div>
 
-## Nicardipine: From Hypertension to Pulmonary Hypertension Due to Lung Disease and/or Hypoxia
+## Nicardipine: Pulmonary hypertension with unclear multifactorial mechanism
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,15 +48,15 @@ but there are currently **0 clinical trials** and only **1 directly relevant pub
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension / hypertensive disorder (from the knowledge graph; no approved-indication text is available in the license records) |
-| Predicted New Indication | Pulmonary hypertension owing to lung disease and/or hypoxia |
-| TxGNN Prediction Score | 99.26% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (all licenses listed as cancelled) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Pulmonary hypertension with unclear multifactorial mechanism |
+| TxGNN Prediction Score | 0.9926 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 12) |
 | Number of NDAs | 12 (2 NDAs and 10 ANDAs) |
 | Recommended Decision | Hold |
 
-*Note: The prediction ranked first by the model is "pulmonary hypertension with unclear multifactorial mechanism" (score 99.26%, L5, no trials or literature). This report focuses on the second-ranked prediction, which has the most supporting literature.*
+*Note: The prediction ranked first by the model is "pulmonary hypertension with unclear multifactorial mechanism" (score 0.9926, L5, no trials or literature). This report focuses on the second-ranked prediction, which has the most supporting literature.*
 
 ---
 
@@ -95,7 +95,7 @@ No randomized controlled trials or human studies in pulmonary hypertension were 
 
 ## US Market Information
 
-All 12 licenses in the data are listed as cancelled, and none include approved-indication text. Five representative entries:
+Five representative entries:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -136,7 +136,6 @@ The prediction rests on a high model score and one 1988 animal study, with no cl
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism-of-action data from DrugBank
 - Human haemodynamic and oxygenation studies in pulmonary hypertension due to lung disease
-- Review of the current US regulatory status, since all listed licenses are cancelled
 - Assessment of whether the other predictions merit follow-up. Malignant renovascular hypertension and malignant hypertensive renal disease overlap with the original indication, and the Braddock syndrome prediction has no identifiable mechanistic link.
 ## Disclaimer
 

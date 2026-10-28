@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Acer Rubrum Pollen Acer Saccharinum Pollen Acer Sa
@@ -53,8 +54,8 @@ Without prediction output or supporting evidence, a formal drug repurposing eval
 | Predicted New Indication | No TxGNN prediction available |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — no model prediction, no supporting studies |
-| US Market Status | Not marketed in Taiwan |
-| Number of NDAs | 0 |
+| US Market Status | Marketed (valid licenses: 4 of 4) |
+| Number of NDAs | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ---

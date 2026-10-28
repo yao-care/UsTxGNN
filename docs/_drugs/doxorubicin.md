@@ -4,17 +4,17 @@ title: Doxorubicin
 parent: High Evidence (L1-L2)
 nav_order: 626
 evidence_level: L2
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-14
-description: "Doxorubicin: predicted new indication Ewing sarcoma (evidence level L2). Approved use: Acute lymphoblastic leukemia, Hodgkin lymphoma, non-Hodgkin lymphoma…"
 monitor_inn: "DOXORUBICIN"
-predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "ganglioneuroblastoma (disease)"]
+predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)"]
+description: "Doxorubicin: predicted new indication Ewing sarcoma (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
 # Doxorubicin
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L2** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-## Doxorubicin: From Hodgkin Lymphoma and Leukemia to Ewing Sarcoma
+## Doxorubicin: Ewing sarcoma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ with **28 clinical trials** and **20 publications** currently supporting this di
 
 | Item | Content |
 |------|------|
-| Original Indication | Acute lymphoblastic leukemia, Hodgkin lymphoma, non-Hodgkin lymphoma, mantle cell lymphoma, Langerhans cell histiocytosis (from the knowledge graph; no approved-indication text is available from US labels) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Ewing sarcoma |
-| TxGNN Prediction Score | 99.90% |
+| TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L2 |
-| US Market Status | Cancelled only (all 12 listings are cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 12) |
 | Number of NDAs | 12 (2 NDAs and 10 ANDAs) |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -98,7 +98,7 @@ The data lists 28 trials; the 10 most relevant are shown below. Trials with a pe
 
 ## US Market Information
 
-All 12 US authorizations are cancelled; none is currently valid. Approved-indication text is not available for any of them. Five representative entries are listed.
+The drug is marketed in the US, and 12 US authorizations are currently valid. Approved-indication text is not available for any of them. Five representative entries are listed.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -146,15 +146,14 @@ Doxorubicin is already a component of standard Ewing sarcoma regimens, supported
 
 | Predicted Indication | Score | Evidence Level | Decision |
 |---|---|---|---|
-| Rhabdomyosarcoma | 99.70% | L1 | Research question (strongest evidence is in adult and non-rhabdomyosarcoma soft tissue sarcoma; the role in rhabdomyosarcoma is uncertain) |
-| Pulmonary blastoma | 99.85% | L3 | Research question (mostly case reports and registry data) |
-| Chronic myelogenous leukemia, BCR-ABL1 positive | 99.77% | L3 | Hold (role limited to Ph+ ALL or blast-phase combinations) |
-| Primary pulmonary lymphoma | 99.85% | L4 | Hold |
-| Ganglioneuroblastoma | 99.70% | L4 | Hold |
-| Monocytic leukemia | 99.74% | L4 | Hold (preclinical only) |
-| Parameningeal embryonal rhabdomyosarcoma | 99.71% | L4 | Hold |
-| Botryoid-type embryonal rhabdomyosarcoma of the vagina | 99.72% | L4 | Hold |
-| Well-differentiated fetal adenocarcinoma of the lung | 99.86% | L5 | Hold (no trials or literature) |
+| Rhabdomyosarcoma | 0.9970 | L1 | Research question (strongest evidence is in adult and non-rhabdomyosarcoma soft tissue sarcoma; the role in rhabdomyosarcoma is uncertain) |
+| Pulmonary blastoma | 0.9985 | L3 | Research question (mostly case reports and registry data) |
+| Primary pulmonary lymphoma | 0.9985 | L4 | Hold |
+| Ganglioneuroblastoma | 0.9970 | L4 | Hold |
+| Monocytic leukemia | 0.9974 | L4 | Hold (preclinical only) |
+| Parameningeal embryonal rhabdomyosarcoma | 0.9971 | L5 | Hold |
+| Botryoid-type embryonal rhabdomyosarcoma of the vagina | 0.9972 | L5 | Hold |
+| Well-differentiated fetal adenocarcinoma of the lung | 0.9986 | L5 | Hold (no trials or literature) |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

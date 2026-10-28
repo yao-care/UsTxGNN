@@ -6,9 +6,9 @@ nav_order: 580
 evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-14
-description: "Demeclocycline: predicted new indication Chronic ethmoidal sinusitis (evidence level L5). Approved use: Bacterial infections (urinary tract infection, bronchitis, anthrax…"
 monitor_inn: "DEMECLOCYCLINE"
 predicted_indications: ["chronic ethmoidal sinusitis", "chronic rhinosinusitis", "paranasal sinus neoplasm (disease)"]
+description: "Demeclocycline: predicted new indication Chronic ethmoidal sinusitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Demeclocycline
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-## Demeclocycline: From Bacterial Infections to Chronic Ethmoidal Sinusitis
+## Demeclocycline: Chronic ethmoidal sinusitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,17 +46,17 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 | Item | Content |
 |------|------|
-| Original Indication | Bacterial infections (urinary tract infection, bronchitis, anthrax, staphylococcal infection, gonorrhea, pharyngitis, among others). The US label indication text is not available. |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Chronic ethmoidal sinusitis |
-| TxGNN Prediction Score | 99.14% |
+| TxGNN Prediction Score | 0.9914 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid authorizations) |
-| Number of NDAs | 2 (both cancelled; listed as ANDAs) |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 Two other predictions were also generated, both with L5 evidence and a Hold recommendation:
-- Chronic rhinosinusitis (score 99.09%)
-- Paranasal sinus neoplasm (score 99.05%)
+- Chronic rhinosinusitis (score 0.9909)
+- Paranasal sinus neoplasm (score 0.9905)
 
 ## Why is This Prediction Reasonable?
 
@@ -98,7 +98,7 @@ Please refer to the package insert for full warnings and precautions, as label t
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high (99.14%), but there are no clinical trials or publications, so evidence is L5 (model prediction only). Demeclocycline has no valid US marketing authorization, and safety label data and mechanism of action are missing.
+The prediction score is high (0.9914), but there are no clinical trials or publications, so evidence is L5 (model prediction only).
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

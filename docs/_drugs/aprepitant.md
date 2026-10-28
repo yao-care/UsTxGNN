@@ -48,9 +48,9 @@ This is a model prediction only.
 |------|------|
 | Original Indication | Not available in the compiled data (US license records contain no indication text) |
 | Predicted New Indication | Nephrogenic syndrome of inappropriate antidiuresis |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all 14 listed licenses are marked cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 14) |
 | Number of NDAs | 14 (listed authorizations, including NDAs and ANDAs) |
 | Recommended Decision | Hold |
 
@@ -58,7 +58,7 @@ This is a model prediction only.
 
 Currently, detailed mechanism of action data is not available in the compiled data. Based on general pharmacology, aprepitant is a substance P/NK1 receptor antagonist.
 
-NSIAD is caused by gain-of-function variants of the vasopressin V2 receptor, which lead to water retention and low blood sodium. No established link connects NK1 receptor antagonism to this mechanism. The very high TxGNN score (99.97%, rank 1274) most likely reflects proximity in the knowledge graph rather than demonstrated biology.
+NSIAD is caused by gain-of-function variants of the vasopressin V2 receptor, which lead to water retention and low blood sodium. No established link connects NK1 receptor antagonism to this mechanism. The very high score from the TxGNN model (deep learning) (0.9997, rank 1274) may reflect similarities the model learned between related diseases, not biological evidence.
 
 This prediction should therefore be treated as a hypothesis only. The mechanistic rationale is weak, and there is no clinical or literature support in the compiled data.
 

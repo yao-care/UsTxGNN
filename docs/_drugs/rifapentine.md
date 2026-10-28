@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Rifapentine
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 1121
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 monitor_inn: "RIFAPENTINE"
 predicted_indications: ["leprosy", "female breast carcinoma", "Prinzmetal angina", "HIV infectious disease", "neuroretinitis", "vestibular neuronitis", "motor nerve neuritis", "brachial plexus neuritis", "dermatofibrosarcoma protuberans", "rheumatoid arthritis"]
@@ -14,7 +14,7 @@ description: "Rifapentine: predicted new indication Leprosy (evidence level L5).
 # Rifapentine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L3** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ A separate, much better-supported extension is **TB prevention and treatment in 
 |------|------|
 | Original Indication | Pulmonary tuberculosis |
 | Predicted New Indication | Leprosy |
-| TxGNN Prediction Score | 99.77% |
+| TxGNN Prediction Score | 0.9977 |
 | Evidence Level | L3 (leprosy); the HIV-related extension is graded L1, but that grade applies to TB in people with HIV, not to HIV infection itself |
-| US Market Status | Cancelled only (the only NDA on record is listed as cancelled) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold (leprosy: research question; the HIV-associated TB extension may Proceed with Guardrails) |
 
 ---

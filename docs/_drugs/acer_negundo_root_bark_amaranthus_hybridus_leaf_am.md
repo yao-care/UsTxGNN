@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Acer Negundo Root Bark Amaranthus Hybridus Leaf Am
@@ -51,7 +52,7 @@ With **no clinical trials, no publications, and no regulatory approvals** on rec
 | Predicted New Indication | None generated |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — model prediction only; no actual studies |
-| US Market Status | Not marketed (no licenses on file) |
+| US Market Status | Marketed (valid licenses on record: at least 3) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

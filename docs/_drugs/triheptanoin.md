@@ -48,10 +48,10 @@ The prediction rests on the model score alone.
 |------|------|
 | Original Indication | Not available (the approved indication text is empty in the US license record) |
 | Predicted New Indication | Tetanic cataract |
-| TxGNN Prediction Score | 99.98% |
+| TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 The link to the predicted indication is speculative. Tetanic cataract is a lens opacity associated with low blood calcium. No connection between triheptanoin's metabolic action and calcium-related lens changes has been identified, and no trial or publication tests it.
 
-The same score (99.98%) is shared by many other cataract subtypes, including diabetic, mature, immature, cortical and senile cataract. This pattern suggests the prediction may reflect the structure of the knowledge graph rather than a disease-specific signal. Other top-ranked predictions, such as type 2 antithrombin deficiency, also lack any plausible mechanism.
+The same score (0.9998) is shared by other cataract subtypes, including mature and immature cataract, while diabetic, cortical and senile cataract score 0.9997. These scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Other top-ranked predictions, such as type 2 antithrombin deficiency (0.9997), also lack any plausible mechanism.
 
 ## Clinical Trial Evidence
 

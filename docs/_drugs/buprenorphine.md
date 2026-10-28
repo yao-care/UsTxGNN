@@ -48,9 +48,9 @@ but there are currently **0 clinical trials** and only **1 publication** (an ane
 |------|------|
 | Original Indication | Opioid dependence (also substance abuse/dependence and morphine dependence) |
 | Predicted New Indication | Acute intermittent porphyria |
-| TxGNN Prediction Score | 99.41% |
+| TxGNN Prediction Score | 0.9941 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (all 11 listed authorizations are cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 11) |
 | Number of NDAs | 11 authorizations in total (4 NDAs and ANDAs combined as listed; see table below) |
 | Recommended Decision | Hold |
 
@@ -58,9 +58,9 @@ but there are currently **0 clinical trials** and only **1 publication** (an ane
 
 Currently, detailed mechanism of action data is not available. Based on known information, buprenorphine is a mu-opioid partial agonist, its use in opioid dependence is established, and the data compiled for this report do not show a clear mechanistic route to acute intermittent porphyria.
 
-Acute intermittent porphyria is a disorder of heme biosynthesis, which has no evident connection to opioid receptor partial agonism. The only publication retrieved describes anesthetic management of a patient with the condition. This suggests opioids might be used for pain control during attacks, rather than as treatment of the underlying disease. The high TxGNN score (0.994) is therefore not supported by clinical data. In addition, whether buprenorphine is safe in porphyria (for example, whether it can trigger attacks) would need to be verified before any use.
+Acute intermittent porphyria is a disorder of heme biosynthesis, which has no evident connection to opioid receptor partial agonism. The only publication retrieved describes anesthetic management of a patient with the condition. This suggests opioids might be used for pain control during attacks, rather than as treatment of the underlying disease. The high TxGNN score (0.9941) is therefore not supported by clinical data. In addition, whether buprenorphine is safe in porphyria (for example, whether it can trigger attacks) would need to be verified before any use.
 
-Other predicted indications (lingual-facial-buccal dyskinesia, chronic tic disorder, continuous spikes and waves during sleep, extrapyramidal and movement disease, benign shuddering attacks) have scores of 99.0–99.3% but are likewise supported by no clinical trials and no direct literature. For the epileptic encephalopathy (continuous spikes and waves during sleep), a safety concern is more plausible than a therapeutic rationale, since opioids may affect seizure threshold.
+Other predicted indications (lingual-facial-buccal dyskinesia, chronic tic disorder, continuous spikes and waves during sleep, extrapyramidal and movement disease, benign shuddering attacks) have scores of 0.9903–0.9932 but are likewise supported by no clinical trials and no direct literature. For the epileptic encephalopathy (continuous spikes and waves during sleep), a safety concern is more plausible than a therapeutic rationale, since opioids may affect seizure threshold.
 
 ## Clinical Trial Evidence
 
@@ -74,7 +74,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-The product listing shows no approved indication text. All 11 authorizations are currently cancelled.
+The product listing shows no approved indication text. The drug is marketed, with 11 valid authorizations.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -98,7 +98,7 @@ Please refer to the package insert for label warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is high, but no clinical trials exist and the only publication is an anesthetic case report with no efficacy signal. There is no clear mechanistic link, and all US authorizations are cancelled. Safety in porphyria has not been established.
+The TxGNN score is high, but no clinical trials exist and the only publication is an anesthetic case report with no efficacy signal. There is no clear mechanistic link, and the drug is marketed in the US with 11 valid authorizations. Safety in porphyria has not been established.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (required for safety screening)

@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Larotrectinib
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 837
-evidence_level: L3
+evidence_level: L5
 indication_count: 2
 monitor_inn: "LAROTRECTINIB"
 predicted_indications: ["multiple endocrine neoplasia", "HER2 positive breast carcinoma"]
@@ -14,7 +14,7 @@ description: "Larotrectinib: predicted new indication Multiple endocrine neoplas
 # Larotrectinib
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **2** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ and so far this is supported by only **1 broad, non-specific clinical trial** an
 |------|------|
 | Original Indication | Not available in the compiled data (US license records contain no indication text) |
 | Predicted New Indication | Multiple endocrine neoplasia |
-| TxGNN Prediction Score | 99.24% |
-| Evidence Level | L3 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 2 |
+| TxGNN Prediction Score | 0.9924 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -62,7 +62,7 @@ Multiple endocrine neoplasia type 2 (MEN2) is driven by activating germline RET 
 
 A 2024 report on off-target resistance to selective RET inhibition suggests that bypass pathways could involve TRK signalling. This hypothesis has not been validated clinically. The high TxGNN score is a computational prediction and does not demonstrate efficacy in this disease.
 
-A second prediction, HER2-positive breast carcinoma (score 99.14%), has only preclinical evidence with a different TRK inhibitor (entrectinib) and a case report of secretory breast carcinoma. That carcinoma carries the ETV6-NTRK3 fusion and is typically HER2-negative. It is not evaluated further here.
+A second prediction, HER2-positive breast carcinoma (score 0.9914), has only preclinical evidence with a different TRK inhibitor (entrectinib) and a case report of secretory breast carcinoma. That carcinoma carries the ETV6-NTRK3 fusion and is typically HER2-negative. It is not evaluated further here.
 
 ## Clinical Trial Evidence
 
@@ -81,8 +81,8 @@ A second prediction, HER2-positive breast carcinoma (score 99.14%), has only pre
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA210861 | VITRAKVI | Capsule | Not available (status: cancelled) |
-| NDA211710 | VITRAKVI | Solution, concentrate | Not available (status: cancelled) |
+| NDA210861 | VITRAKVI | Capsule | Not available (status: valid) |
+| NDA211710 | VITRAKVI | Solution, concentrate | Not available (status: valid) |
 
 ## Cytotoxicity
 

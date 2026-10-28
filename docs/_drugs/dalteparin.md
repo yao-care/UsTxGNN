@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "DALTEPARIN"
 predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive", "primary release disorder of platelets", "pseudo-von Willebrand disease", "atypical hemolytic-uremic syndrome with thrombomodulin anomaly", "neuropathy, painful"]
 last_modified_at: 2026-10-14
-description: "Dalteparin: predicted new indication Thrombophilia due to protein C deficiency, autosomal recessive (evidence level L5). Approved use: Pulmonary embolism, disseminated intravascular coagulation…"
+description: "Dalteparin: predicted new indication Thrombophilia due to protein C deficiency, autosomal recessive (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Dalteparin
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-## Dalteparin: From Pulmonary Embolism to Protein C Deficiency Thrombophilia
+## Dalteparin: Thrombophilia due to protein C deficiency, autosomal recessive
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 
 | Item | Content |
 |------|------|
-| Original Indication | Pulmonary embolism, disseminated intravascular coagulation, purpura fulminans (from the knowledge graph; no approved indication text available in US labeling data) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Thrombophilia due to protein C deficiency, autosomal recessive |
-| TxGNN Prediction Score | 99.88% |
+| TxGNN Prediction Score | 0.9988 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -64,10 +64,10 @@ This is biologically plausible for a prothrombotic state such as protein C defic
 
 | Rank | Predicted Indication | TxGNN Score | Assessment |
 |---|---|---|---|
-| 2 | Primary release disorder of platelets | 99.67% | No clear mechanistic link. This is a bleeding-tendency condition, and an anticoagulant could increase bleeding risk. |
-| 3 | Pseudo-von Willebrand disease | 99.52% | No corrective mechanism, with added bleeding risk. |
-| 4 | Atypical hemolytic-uremic syndrome with thrombomodulin anomaly | 99.34% | Only an indirect rationale. The core pathology is complement dysregulation, and renal impairment complicates heparin use. |
-| 5 | Neuropathy, painful | 99.19% | No mechanistic link. The one associated trial appears to be an indication-mapping mismatch. |
+| 2 | Primary release disorder of platelets | 0.9967 | No clear mechanistic link. This is a bleeding-tendency condition, and an anticoagulant could increase bleeding risk. |
+| 3 | Pseudo-von Willebrand disease | 0.9952 | No corrective mechanism, with added bleeding risk. |
+| 4 | Atypical hemolytic-uremic syndrome with thrombomodulin anomaly | 0.9934 | Only an indirect rationale. The core pathology is complement dysregulation, and renal impairment complicates heparin use. |
+| 5 | Neuropathy, painful | 0.9919 | No mechanistic link. The one associated trial appears to be an indication-mapping mismatch. |
 
 ## Clinical Trial Evidence
 
@@ -87,7 +87,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA020287 | Fragmin (Pfizer Laboratories Div Pfizer Inc) | Injection | Not listed; license status: cancelled |
+| NDA020287 | Fragmin (Pfizer Laboratories Div Pfizer Inc) | Injection | Not listed; license status: valid |
 
 ## Safety Considerations
 

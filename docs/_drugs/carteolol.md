@@ -1,18 +1,19 @@
 ---
 layout: default
 title: Carteolol
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 501
-evidence_level: L5
-indication_count: 1
-last_modified_at: 2026-10-14
-description: "Carteolol: predicted new indication Primary hereditary glaucoma (evidence level L5). Approved use: Hypertension, open-angle glaucoma, ocular hypertension"
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Carteolol: known uses and market status in the United States; currently no new candidate indication"
+predicted_indications: []
 ---
 
 # Carteolol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **1** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,50 +32,45 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-## Carteolol: From Hypertension and Open-Angle Glaucoma to Primary Hereditary Glaucoma
+<!-- known-uses-page -->
+<!-- description: Carteolol: known uses and market status in the United States; currently no new candidate indication -->
+## Carteolol: Known uses and market status in the United States
 {: .text-alpha }
 
-## One-Sentence Summary
+## Summary
+The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Carteolol. Every candidate that can be traced to a source is already a known use. There is therefore currently no new predicted indication for this drug.
 
-Carteolol is a non-selective beta-blocker originally used for hypertension and for open-angle glaucoma and ocular hypertension.
-The TxGNN model predicts it may be effective for **Primary Hereditary Glaucoma**,
-but currently there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model alone.
-
-## Quick Overview
-
+## Quick overview
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension, open-angle glaucoma, ocular hypertension (the US label text is not available in the data compiled for this report; these indications come from the TxGNN knowledge graph) |
-| Predicted New Indication | Primary hereditary glaucoma |
-| TxGNN Prediction Score | 99.92% |
-| Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 1 (ANDA075476, cancelled) |
-| Recommended Decision | Hold |
+| New predicted indications | None (all traceable model candidates are known uses) |
+| Known uses among model candidates | 0 |
+| Evidence level | Not applicable |
+| Market status in the United States | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 
-## Why is This Prediction Reasonable?
+## Known uses among the model's candidates
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, carteolol is a non-selective beta-adrenergic antagonist with intrinsic sympathomimetic activity. In open-angle glaucoma and ocular hypertension, it lowers intraocular pressure (IOP) by reducing aqueous humor production at the ciliary body.
+### Approved (supported by a licence or label)
+| Indication | Source |
+|------|------|
+| none | none |
 
-Primary hereditary glaucoma (for example, primary congenital glaucoma or juvenile open-angle glaucoma) is a genetically determined form of glaucoma. Its clinical hallmark is also elevated IOP. The shared IOP-lowering pharmacology is a plausible link, and it likely explains the very high TxGNN score.
+### Related to an approved indication (same disease category)
+| Indication | Approved category |
+|------|------|
+| none | none |
 
-This remains a prediction based on graph proximity to the approved glaucoma indications, not on independent clinical evidence. Two caveats apply:
-- Primary congenital glaucoma is mainly managed surgically.
-- Beta-blocker use in infants carries systemic safety concerns, including bronchospasm, bradycardia and apnea.
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-## Literature Evidence
-
-Currently no related literature available.
+### Relations recorded in the knowledge graph (no approval found)
+| Indication |
+|------|
+| none |
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA075476 (Cancelled) | Carteolol Hydrochloride (Sandoz Inc) | Solution | Not available |
+| Licence | Product | Dosage form | Status |
+|------|------|------|------|
+| ANDA075476 | Carteolol Hydrochloride | SOLUTION | Valid |
 
 ## Safety Considerations
 
@@ -86,19 +82,6 @@ Currently no related literature available.
 
 Please refer to the package insert for official warnings and contraindications.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The prediction is supported only by the model score and a plausible IOP-lowering mechanism. There are no clinical trials or publications, and the only US license is cancelled. Surgery is the main treatment for primary congenital glaucoma, and beta-blockers pose systemic risks in infants.
-
-**To proceed, the following is needed:**
-- FDA package insert warnings and contraindications, to allow safety screening
-- Mechanism-of-action data from DrugBank
-- A literature and trial search for carteolol or topical beta-blockers in hereditary or congenital glaucoma
-- A pediatric safety assessment (bronchospasm, bradycardia, apnea)
-- Route and formulation compatibility analysis, and confirmation of an active regulatory pathway
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

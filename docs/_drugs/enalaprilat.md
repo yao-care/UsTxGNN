@@ -48,10 +48,10 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Hypertension and heart failure (hypertensive disorder, congestive heart failure) |
 | Predicted New Indication | Primary hereditary glaucoma |
-| TxGNN Prediction Score | 99.09% |
+| TxGNN Prediction Score | 0.9909 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid authorizations) |
-| Number of NDAs | 2 (both ANDAs, both cancelled) |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 A speculative link is that a local renin-angiotensin system (RAS) exists in ocular tissue. ACE inhibition might lower intraocular pressure by altering aqueous humor dynamics or uveoscleral outflow.
 
-However, primary hereditary glaucoma is usually driven by developmental or genetic abnormalities of the trabecular meshwork and anterior chamber angle (for example CYP1B1 or MYOC variants). A RAS-mediated mechanism is therefore uncertain and is not established by the data compiled for this report. The high model score (0.991) should be treated as a hypothesis-generating signal, not as confirmation.
+However, primary hereditary glaucoma is usually driven by developmental or genetic abnormalities of the trabecular meshwork and anterior chamber angle (for example CYP1B1 or MYOC variants). A RAS-mediated mechanism is therefore uncertain and is not established by the data compiled for this report. The high model score (0.9909) should be treated as a hypothesis-generating signal, not as confirmation.
 
 ## Clinical Trial Evidence
 
@@ -89,7 +89,7 @@ Please refer to the package insert for further safety information, including war
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score, with no clinical trials or literature (evidence level L5). The proposed mechanism is speculative and conflicts with the largely genetic and developmental cause of primary hereditary glaucoma. All US authorizations for enalaprilat are cancelled. Safety review also cannot proceed without the package insert.
+The prediction is supported only by a model score, with no clinical trials or literature (evidence level L5). The proposed mechanism is speculative and conflicts with the largely genetic and developmental cause of primary hereditary glaucoma. Both US authorizations for enalaprilat are valid, and the drug is marketed. Safety review also cannot proceed without the package insert.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

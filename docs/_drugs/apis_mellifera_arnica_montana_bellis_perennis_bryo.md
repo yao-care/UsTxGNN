@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Apis Mellifera Arnica Montana Bellis Perennis Bryo
@@ -51,7 +52,7 @@ With **0 clinical trials** and **0 publications** attributable to this specific 
 | Predicted New Indication | None generated |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — No predictions generated |
-| Market Status | Not marketed (Taiwan) |
+| Market Status | Marketed (valid licenses on record: at least 1) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 

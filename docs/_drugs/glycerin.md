@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "GLYCERIN"
 predicted_indications: ["cauda equina syndrome", "open-angle glaucoma", "primary hereditary glaucoma", "alopecia", "congenital hypotrichosis milia", "irritable bowel syndrome", "hypotrichosis simplex of the scalp", "diffuse alopecia areata", "migraine disorder", "migraine with brainstem aura"]
 last_modified_at: 2026-10-14
-description: "Glycerin: predicted new indication Cauda equina syndrome . Open-angle glaucoma has the most relevant mec… (evidence level L5). Approved use: Constipation disorder"
+description: "Glycerin: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Glycerin
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Glycerin: From Constipation to Open-Angle Glaucoma
+## Glycerin: Cauda equina syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,11 +48,11 @@ Overall evidence is weak, and none of the top 10 predictions is supported by a d
 
 | Item | Content |
 |------|------|
-| Original Indication | Constipation disorder (from the knowledge graph; no approved indication text is available in the US license records) |
-| Predicted New Indication | Cauda equina syndrome (rank 1 by score). Open-angle glaucoma (rank 2) has the most relevant mechanism and is the main focus below. |
-| TxGNN Prediction Score | 99.60% (cauda equina syndrome); 99.59% (open-angle glaucoma) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Cauda equina syndrome |
+| TxGNN Prediction Score | 0.9960 |
 | Evidence Level | L5 for cauda equina syndrome; L4 for open-angle glaucoma |
-| US Market Status | Cancelled only (all licenses cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 6) |
 | Number of NDAs | 6 |
 | Recommended Decision | Hold |
 
@@ -103,7 +103,7 @@ Literature for other predicted indications (all indirect):
 
 ## US Market Information
 
-All six US licenses are cancelled, and no approved indication text is recorded for them.
+All six US licenses are valid, and no approved indication text is recorded for them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -136,7 +136,7 @@ Please refer to the package insert for safety information. Package insert warnin
 **Decision: Hold**
 
 **Rationale:**
-- The top-ranked predictions have high model scores (about 99.2% to 99.6%), but none has a clinical trial or a direct study. The best-supported candidate, open-angle glaucoma, rests on an indirect osmotic IOP-lowering rationale. The US licenses are all cancelled, and the package insert safety data are missing.
+- The top-ranked predictions have high model scores (0.9918 to 0.9960), but none has a clinical trial or a direct study. The best-supported candidate, open-angle glaucoma, rests on an indirect osmotic IOP-lowering rationale. The six US licenses are valid, and the package insert safety data are missing.
 
 **To proceed, the following is needed:**
 - Obtain FDA package insert warnings and contraindications to allow safety screening.

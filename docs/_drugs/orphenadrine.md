@@ -8,7 +8,7 @@ indication_count: 7
 monitor_inn: "ORPHENADRINE"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "schizophrenia", "myopia X-linked", "myopia 26, X-linked, female-limited"]
 last_modified_at: 2026-10-14
-description: "Orphenadrine: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Parkinsonian disorder / Parkinson disease"
+description: "Orphenadrine: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Orphenadrine
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-## Orphenadrine: From Parkinson Disease to Retinal Dystrophy
+## Orphenadrine: Retinal dystrophy with or without extraocular anomalies
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,19 +46,19 @@ Among the other predictions, only **schizophrenia** has a body of literature (**
 
 | Item | Content |
 |------|------|
-| Original Indication | Parkinsonian disorder / Parkinson disease |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
-| TxGNN Prediction Score | 99.29% |
+| TxGNN Prediction Score | 0.9929 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all 5 licences cancelled) |
-| Number of NDAs | 5 (all ANDAs, all cancelled) |
+| US Market Status | Marketed (valid licenses: 5 of 5) |
+| Number of NDAs | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism-of-action data is not available in the data compiled for this report. From general pharmacology, orphenadrine is an anticholinergic agent with NMDA-channel-blocking and antihistamine activity. Its efficacy in parkinsonism comes from central muscarinic blockade.
 
-For the top-ranked prediction, **retinal dystrophy**, no mechanistic link can be identified. None of orphenadrine's known actions connects to inherited retinal degeneration. Despite the high score (0.993), the prediction is most likely a knowledge-graph artifact.
+For the top-ranked prediction, **retinal dystrophy**, no mechanistic link can be identified. None of orphenadrine's known actions connects to inherited retinal degeneration. Despite the high score (0.9929), the prediction is most likely a TxGNN model (deep learning) artifact.
 
 The other genetic or developmental predictions are also unsupported:
 - **Congenital disorder of glycosylation (defective fucosylation):** a glycan-synthesis defect that muscarinic, NMDA or H1 pharmacology does not address.
@@ -66,7 +66,7 @@ The other genetic or developmental predictions are also unsupported:
 - **Charcot-Marie-Tooth disease type 1G:** a hereditary demyelinating neuropathy with no known disease-modifying effect from orphenadrine.
 - **X-linked myopia and myopia 26 (X-linked, female-limited):** antimuscarinic action is loosely relevant to myopia control (as with atropine), but orphenadrine is a systemic agent with no ophthalmic data, and these are genetic conditions.
 
-**Schizophrenia** (rank 5, score 99.13%, evidence level L3) is the only prediction with literature support. Orphenadrine is used as an adjunct to manage antipsychotic-induced extrapyramidal symptoms. Its NMDA-blocking activity is pharmacologically interesting given the glutamatergic hypothesis of schizophrenia. However, NMDA antagonists tend to cause psychotomimetic effects, and anticholinergics can worsen cognition and tardive dyskinesia. The literature supports treating side effects, not the core disease.
+**Schizophrenia** (rank 5, score 0.9913, evidence level L3) is the only prediction with literature support. Orphenadrine is used as an adjunct to manage antipsychotic-induced extrapyramidal symptoms. Its NMDA-blocking activity is pharmacologically interesting given the glutamatergic hypothesis of schizophrenia. However, NMDA antagonists tend to cause psychotomimetic effects, and anticholinergics can worsen cognition and tardive dyskinesia. The literature supports treating side effects, not the core disease.
 
 ## Clinical Trial Evidence
 
@@ -95,11 +95,11 @@ All five US authorisations are generic applications (ANDAs) and all are cancelle
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA090585 | Orphenadrine Citrate (Sagent Pharmaceuticals) | Injection, solution | Not available (cancelled) |
-| ANDA040284 | Orphenadrine Citrate (A-S Medication Solutions) | Tablet, extended release | Not available (cancelled) |
-| ANDA040327 | Orphenadrine Citrate (Proficient Rx LP) | Tablet, extended release | Not available (cancelled) |
-| ANDA040463 | Orphenadrine Citrate (Hikma Pharmaceuticals USA Inc.) | Injection | Not available (cancelled) |
-| ANDA084779 | Orphenadrine Citrate (Actavis Pharma, Inc.) | Injection | Not available (cancelled) |
+| ANDA090585 | Orphenadrine Citrate (Sagent Pharmaceuticals) | Injection, solution | Not available (valid) |
+| ANDA040284 | Orphenadrine Citrate (A-S Medication Solutions) | Tablet, extended release | Not available (valid) |
+| ANDA040327 | Orphenadrine Citrate (Proficient Rx LP) | Tablet, extended release | Not available (valid) |
+| ANDA040463 | Orphenadrine Citrate (Hikma Pharmaceuticals USA Inc.) | Injection | Not available (valid) |
+| ANDA084779 | Orphenadrine Citrate (Actavis Pharma, Inc.) | Injection | Not available (valid) |
 
 ## Safety Considerations
 
@@ -118,14 +118,13 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction, retinal dystrophy, has a high model score but no clinical trials, no literature and no identifiable mechanistic link, so it is most likely a knowledge-graph artifact. The same is true of the other genetic and developmental predictions. Schizophrenia is the only prediction with literature, but that evidence covers side-effect management rather than disease treatment, and it warrants only a research question. In addition, all US licences are cancelled and safety label data are missing.
+The top-ranked prediction, retinal dystrophy, has a high model score but no clinical trials, no literature and no identifiable mechanistic link, so it is most likely a TxGNN model (deep learning) artifact. The same is true of the other genetic and developmental predictions. Schizophrenia is the only prediction with literature, but that evidence covers side-effect management rather than disease treatment, and it warrants only a research question. In addition, the drug is marketed, with all 5 licences valid, and safety label data are missing.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism-of-action data from DrugBank
 - A defined mechanistic hypothesis and preclinical evidence for any genetic or ocular indication before further investment
 - For schizophrenia, evidence that orphenadrine affects the core disease and not only extrapyramidal side effects, weighed against the risks of cognitive worsening and tardive dyskinesia
-- Clarification of the commercial and regulatory pathway, since no US licence is currently active
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

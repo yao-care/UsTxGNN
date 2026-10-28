@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Aluminum Iodide
@@ -52,7 +53,7 @@ A full evaluation cannot proceed until foundational data gaps are resolved.
 | Predicted New Indication | None (no TxGNN predictions returned) |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — Model prediction only, no actual studies (pending prediction output) |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 3) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

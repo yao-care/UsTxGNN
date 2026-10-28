@@ -48,9 +48,9 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Not listed in the compiled US license data |
 | Predicted New Indication | Bone Paget disease |
-| TxGNN Prediction Score | 99.04% |
+| TxGNN Prediction Score | 0.9904 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no active licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 6) |
 | Number of NDAs | 6 (1 NDA and 5 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
@@ -58,7 +58,7 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 
 Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, flucytosine is a fluorinated pyrimidine antifungal prodrug. Fungal cytosine deaminase converts it to 5-fluorouracil (5-FU), which disrupts fungal RNA and DNA synthesis.
 
-Mammalian cells have very little cytosine deaminase activity, so this mechanism has no clear link to Paget disease of bone. That disease involves overactive osteoclasts and abnormal bone remodeling. The only support for the prediction is the high knowledge-graph score, and no biological rationale was supplied. Any connection, for example through pyrimidine metabolism or a 5-FU-related cytotoxic pathway, would be speculative and would need independent validation.
+Mammalian cells have very little cytosine deaminase activity, so this mechanism has no clear link to Paget disease of bone. That disease involves overactive osteoclasts and abnormal bone remodeling. The only support for the prediction is the high TxGNN model (deep learning) score, and no biological rationale was supplied. Any connection, for example through pyrimidine metabolism or a 5-FU-related cytotoxic pathway, would be speculative and would need independent validation.
 
 ## Clinical Trial Evidence
 
@@ -72,11 +72,11 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA017001 | ANCOBON (Bausch Health US LLC) | Capsule | Not listed; status cancelled |
-| ANDA212632 | Flucytosine (Heritage/Avet) | Capsule | Not listed; status cancelled |
-| ANDA201566 | Flucytosine (Sigmapharm) | Capsule | Not listed; status cancelled |
-| ANDA204652 | Flucytosine (AvPAK) | Capsule | Not listed; status cancelled |
-| ANDA213665 | Flucytosine (Aurobindo) | Capsule | Not listed; status cancelled |
+| NDA017001 | ANCOBON (Bausch Health US LLC) | Capsule | Not listed; status valid |
+| ANDA212632 | Flucytosine (Heritage/Avet) | Capsule | Not listed; status valid |
+| ANDA201566 | Flucytosine (Sigmapharm) | Capsule | Not listed; status valid |
+| ANDA204652 | Flucytosine (AvPAK) | Capsule | Not listed; status valid |
+| ANDA213665 | Flucytosine (Aurobindo) | Capsule | Not listed; status valid |
 
 One further license (ANDA218005, Laurus Labs, capsule) is also cancelled. All six licenses are for oral capsules.
 
@@ -96,7 +96,7 @@ Package insert warnings and contraindications were not available for this report
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score (L5). There are no clinical trials or publications, and no plausible mechanistic link between an antifungal prodrug and Paget disease of bone. All US licenses are cancelled, and the knowledge graph flags bone marrow, kidney, and liver toxicity.
+The prediction rests only on a model score (L5). There are no clinical trials or publications, and no plausible mechanistic link between an antifungal prodrug and Paget disease of bone. The drug is marketed in the US with 6 valid licenses, and bone marrow, kidney, and liver toxicity are noted as safety concerns.
 
 **To proceed, the following is needed:**
 - A biological rationale for Paget disease, such as preclinical or mechanistic studies
@@ -104,7 +104,7 @@ The prediction rests only on a model score (L5). There are no clinical trials or
 - FDA package insert warnings and contraindications, so safety screening can proceed
 - A literature and trial search for any real-world or preclinical signal
 - A benefit-risk assessment, given the myelosuppression and renal and hepatic risks, against existing Paget disease treatments
-- Clarification of current US availability, since all licenses are cancelled
+- Clarification of current US availability (marketed, 6 valid licenses)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

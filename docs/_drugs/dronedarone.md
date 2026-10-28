@@ -4,17 +4,17 @@ title: Dronedarone
 parent: Moderate Evidence (L3-L4)
 nav_order: 629
 evidence_level: L4
-indication_count: 10
+indication_count: 9
 monitor_inn: "DRONEDARONE"
-predicted_indications: ["stroke disorder", "obsolete susceptibility to ischemic stroke", "ABri amyloidosis", "cerebrovascular disorder", "brain stem infarction", "sick sinus syndrome 2, autosomal dominant", "duodenal obstruction", "cerebral artery occlusion", "sarcoglycanopathy", "Wildervanck syndrome"]
+predicted_indications: ["stroke disorder", "ABri amyloidosis", "cerebrovascular disorder", "brain stem infarction", "sick sinus syndrome 2, autosomal dominant", "duodenal obstruction", "cerebral artery occlusion", "sarcoglycanopathy", "Wildervanck syndrome"]
 last_modified_at: 2026-10-14
-description: "Dronedarone: predicted new indication Stroke disorder (evidence level L4). Approved use: Atrial fibrillation"
+description: "Dronedarone: predicted new indication Stroke disorder (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Dronedarone
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Dronedarone: From Atrial Fibrillation to Stroke Disorder
+## Dronedarone: Stroke disorder
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,12 +45,12 @@ The TxGNN model predicts it may be useful for **stroke disorder**, but there are
 
 | Item | Content |
 |------|------|
-| Original Indication | Atrial fibrillation (the US label text is not available in the data compiled for this report) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Stroke disorder |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (the single NDA is recorded as cancelled) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold (research question only) |
 
 ## Why is This Prediction Reasonable?
@@ -61,7 +61,7 @@ AF is a major cause of cardioembolic stroke. Controlling AF could therefore lowe
 
 Important caveats apply. The benefit is mediated through the original AF indication and has not been tested in a dedicated stroke-prevention trial. The PALLAS trial in high-risk permanent AF showed increased cardiovascular events, including stroke. This restricts any potential target population to paroxysmal or persistent AF.
 
-Lower-ranked predictions (for example ABri amyloidosis, sarcoglycanopathy, Wildervanck syndrome, and duodenal obstruction) rest on model scores alone. No plausible mechanism or evidence was identified for them. The "obsolete susceptibility to ischemic stroke" entry duplicates the stroke entry. For sick sinus syndrome, the mechanism suggests possible harm.
+Lower-ranked predictions (for example ABri amyloidosis, sarcoglycanopathy, Wildervanck syndrome, and duodenal obstruction) rest on model scores alone. No plausible mechanism or evidence was identified for them. For sick sinus syndrome, the mechanism suggests possible harm.
 
 ## Clinical Trial Evidence
 

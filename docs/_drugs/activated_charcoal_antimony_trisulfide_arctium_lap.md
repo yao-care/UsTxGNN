@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Activated Charcoal Antimony Trisulfide Arctium Lap
@@ -51,7 +52,8 @@ Due to missing identity, indication, and safety data, a meaningful repurposing e
 | Predicted New Indication | None — TxGNN returned no predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (model-pipeline failure; no studies identified) |
-| Market Status | Not marketed (Taiwan) |
+| Market Status | Marketed (valid licenses on record: at least 5) |
+| Number of NDAs | at least 5 |
 | Number of Approvals | 0 |
 | Recommended Decision | **Hold** |
 

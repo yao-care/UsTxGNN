@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "DISOPYRAMIDE"
 predicted_indications: ["Tourette syndrome", "attention deficit-hyperactivity disorder", "trichotillomania", "attention deficit hyperactivity disorder, inattentive type", "faciodigitogenital syndrome", "specific developmental disorder", "idiopathic neonatal atrial flutter", "chondromyxoid fibroma", "multifocal atrial tachycardia (disease)", "trigeminal nerve neoplasm"]
 last_modified_at: 2026-10-14
-description: "Disopyramide: predicted new indication Tourette syndrome (evidence level L5). Approved use: Not listed in the available US license records (drug class: antiarrhy…"
+description: "Disopyramide: predicted new indication Tourette syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Disopyramide
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Disopyramide: From Cardiac Arrhythmia to Tourette Syndrome
+## Disopyramide: Tourette syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,12 +45,12 @@ The TxGNN model predicts it may be effective for **Tourette syndrome** with a ve
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the available US license records (drug class: antiarrhythmic) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Tourette syndrome |
-| TxGNN Prediction Score | 99.86% |
+| TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no active licenses) |
-| Number of NDAs | 5 (all cancelled; 2 NDAs and 3 ANDAs) |
+| US Market Status | Marketed (valid licenses: 5 of 5) |
+| Number of NDAs | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -71,15 +71,15 @@ Currently no related literature available for Tourette syndrome.
 
 ## US Market Information
 
-All five US authorizations are cancelled, and the records contain no approved-indication text.
+All five US authorizations are valid, and the records contain no approved-indication text.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA018655 | Norpace CR (Pfizer) | Capsule, extended release | Not provided (cancelled) |
-| NDA017447 | Norpace (Pfizer) | Capsule, gelatin coated | Not provided (cancelled) |
-| ANDA070102 | Disopyramide Phosphate (Teva) | Capsule | Not provided (cancelled) |
-| ANDA070173 | Disopyramide Phosphate (Dr. Reddy's) | Capsule | Not provided (cancelled) |
-| ANDA070101 | Disopyramide Phosphate (Teva) | Capsule | Not provided (cancelled) |
+| NDA018655 | Norpace CR (Pfizer) | Capsule, extended release | Not provided (valid) |
+| NDA017447 | Norpace (Pfizer) | Capsule, gelatin coated | Not provided (valid) |
+| ANDA070102 | Disopyramide Phosphate (Teva) | Capsule | Not provided (valid) |
+| ANDA070173 | Disopyramide Phosphate (Dr. Reddy's) | Capsule | Not provided (valid) |
+| ANDA070101 | Disopyramide Phosphate (Teva) | Capsule | Not provided (valid) |
 
 ## Safety Considerations
 
@@ -96,7 +96,7 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The Tourette syndrome prediction rests only on a model score. There is no mechanistic rationale, no clinical trial and no publication. The drug also has no active US license, and its known cardiac and anticholinergic safety concerns are significant for a non-cardiac indication.
+The Tourette syndrome prediction rests only on a model score. There is no mechanistic rationale, no clinical trial and no publication.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

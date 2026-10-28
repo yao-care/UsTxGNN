@@ -50,13 +50,13 @@ but the supporting evidence is thin: **1 registered clinical trial** (a diagnost
 |------|------|
 | Original Indication | Peripheral vascular disease, intermittent claudication, peripheral arterial disease, brain ischemia, transient ischemic attack |
 | Predicted New Indication | Ischemic disease |
-| TxGNN Prediction Score | 99.91% |
+| TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 1 (cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
-*Note: the original indications come from the TxGNN knowledge graph. The data compiled for this report contains no approved indication text from the US label.*
+*Note: the original indications come from the TxGNN model (deep learning), and may reflect similarities the model learned between related diseases, not biological evidence. The data compiled for this report contains no approved indication text from the US label.*
 
 ---
 
@@ -119,7 +119,7 @@ Official package insert warnings and contraindications were not available in the
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high (99.91%), but the supporting evidence is indirect (diagnostic registry, procedural uses, case reports, animal studies) and the predicted indication largely overlaps papaverine's existing indications. The US license is cancelled, and the official safety label data are missing, which blocks safety screening.
+The prediction score is very high (0.9991), but the supporting evidence is indirect (diagnostic registry, procedural uses, case reports, animal studies) and the predicted indication largely overlaps papaverine's existing indications. The US license is cancelled, and the official safety label data are missing, which blocks safety screening.
 
 **Other predicted indications (for reference):**
 - **Raynaud disease** (L4, the most credible secondary candidate): vasospasm is a coherent target, supported only by a 1951 article, a case report of intra-arterial infusion, and a 2025 DIEP flap case series. It would need prospective comparison against calcium channel blockers.

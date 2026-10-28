@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "DOCUSATE"
 predicted_indications: ["Plummer-Vinson syndrome", "vitamin B12- and folate-independent constitutional megaloblastic anemia"]
 last_modified_at: 2026-10-14
-description: "Docusate: predicted new indication Plummer-Vinson syndrome (evidence level L5). Approved use: Constipation disorder"
+description: "Docusate: predicted new indication Plummer-Vinson syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Docusate
@@ -33,12 +33,12 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-## Docusate: From Constipation to Plummer-Vinson Syndrome
+## Docusate: Plummer-Vinson syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Docusate is a stool-softening surfactant, originally used to treat constipation (the knowledge graph also links it to several anemias).
+Docusate is a stool-softening surfactant, originally used to treat constipation.
 The TxGNN model predicts it may be effective for **Plummer-Vinson syndrome**,
 but there are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model alone.
 
@@ -46,11 +46,11 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 | Item | Content |
 |------|------|
-| Original Indication | Constipation disorder (the knowledge graph also lists folic acid deficiency anemia, iron deficiency anemia, hypochromic anemia, deficiency anemia and microcytic anemia) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Plummer-Vinson syndrome |
-| TxGNN Prediction Score | 99.18% |
+| TxGNN Prediction Score | 0.9918 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
+| US Market Status | Marketed (valid licenses on record: at least 2) |
 | Number of NDAs | 2 |
 | Recommended Decision | Hold |
 
@@ -58,11 +58,11 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 Currently, detailed mechanism of action data is not available. Based on known information, docusate is a stool-softening surfactant, and its efficacy in constipation is established. The data compiled for this report do not support a direct mechanistic link to Plummer-Vinson syndrome.
 
-Plummer-Vinson syndrome combines iron deficiency anemia, dysphagia and esophageal webs. Docusate's listed original indications include iron deficiency anemia and related anemias, so the high score most likely reflects shared anemia annotations in the knowledge graph (a network-proximity artifact). Docusate does not correct iron deficiency, esophageal webs or dysphagia.
+Plummer-Vinson syndrome combines iron deficiency anemia, dysphagia and esophageal webs. Docusate's listed original indications include iron deficiency anemia and related anemias, so the high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Docusate does not correct iron deficiency, esophageal webs or dysphagia.
 
 At most, docusate could play a supportive role, such as easing constipation associated with oral iron therapy. That is not a repurposing indication.
 
-A second prediction, vitamin B12- and folate-independent constitutional megaloblastic anemia (score 99.15%), was also evaluated. It likewise has no supporting trials or literature and no plausible pharmacologic rationale. Such conditions are typically driven by inherited defects in nucleotide synthesis or metabolism, so it is not pursued further here.
+A second prediction, vitamin B12- and folate-independent constitutional megaloblastic anemia (score 0.9915), was also evaluated. It likewise has no supporting trials or literature and no plausible pharmacologic rationale. Such conditions are typically driven by inherited defects in nucleotide synthesis or metabolism, so it is not pursued further here.
 
 ## Clinical Trial Evidence
 
@@ -79,7 +79,7 @@ Currently no related literature available.
 | M007 (cancelled) | Stool Softener | Capsule, liquid filled | Not specified |
 | M334 (cancelled) | Docusate Sodium | Liquid | Not specified |
 
-Both authorizations are cancelled, and no valid licenses are currently held.
+The drug is marketed in the US, and 2 licenses are currently valid.
 
 ## Safety Considerations
 
@@ -97,7 +97,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a graph-based score, with no clinical trials, no literature and no plausible mechanism. It is most likely an artifact of shared anemia annotations. Both US authorizations are cancelled, and the label safety review is blocked by missing package insert data.
+The prediction is supported only by a TxGNN model (deep learning) score, which may reflect similarities the model learned between related diseases, not biological evidence. There are no clinical trials, no literature and no plausible mechanism. It most likely reflects shared anemia associations. Docusate is marketed in the US with 2 valid licenses, and the label safety review is blocked by missing package insert data.
 
 **To proceed, the following is needed:**
 - Mechanism of action data (for example from DrugBank)

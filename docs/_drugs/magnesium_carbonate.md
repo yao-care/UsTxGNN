@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Magnesium Carbonate
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 882
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 4
 last_modified_at: 2026-10-14
-description: "Magnesium Carbonate: predicted new indication Active peptic ulcer disease (evidence level L4). Approved use: Peptic ulcer disease, gastroesophageal reflux disease, esophagitis…"
 monitor_inn: "MAGNESIUM CARBONATE"
 predicted_indications: ["gastroduodenitis", "gastroparesis (disease)", "stomach disease", "duodenal obstruction"]
+description: "Magnesium Carbonate: predicted new indication Gastroduodenitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Magnesium Carbonate
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,32 +33,31 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Magnesium Carbonate: From Peptic Ulcer Disease to Active Peptic Ulcer Disease
+## Magnesium Carbonate: Gastroduodenitis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Magnesium carbonate is an antacid originally used for peptic ulcer disease, gastroesophageal reflux disease, esophagitis, constipation and dyspepsia.
-The TxGNN model predicts it may be effective for **active peptic ulcer disease**, but there are **0 clinical trials** and only **1 publication** (an in vitro product-quality study) behind this prediction.
 The prediction largely overlaps with the drug's existing indications, so it is not true repurposing.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Peptic ulcer disease, gastroesophageal reflux disease, esophagitis, constipation, dyspepsia (no approved indication text is available for the US licenses) |
-| Predicted New Indication | Active peptic ulcer disease |
-| TxGNN Prediction Score | 99.96% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 2 (both cancelled) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Gastroduodenitis |
+| TxGNN Prediction Score | 0.9994 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available. Based on known information, magnesium carbonate is an antacid that neutralizes gastric acid. This is consistent with symptomatic management of active peptic ulcer disease.
 
-Active peptic ulcer disease is essentially the same condition as the drug's original peptic ulcer indication, so the high score likely reflects how close the two diseases sit in the knowledge graph. The only retrieved paper evaluates the acid-neutralizing capacity of marketed antacids. It is a product-quality study, not clinical evidence of ulcer healing.
+The only retrieved paper evaluates the acid-neutralizing capacity of marketed antacids. It is a product-quality study, not clinical evidence of ulcer healing.
 
 Other predictions follow the same pattern. Ones with some indirect support include gastrojejunal ulcer, gastroduodenitis, gastric ulcer, duodenogastric reflux and the broad "stomach disease" category, where the support is in vitro or small mucosal-protection data. Others, such as peptic ulcer perforation, gastroparesis and duodenal obstruction, have no plausible antacid mechanism. Duodenal ulcer is mechanistically plausible but has no retrieved evidence.
 
@@ -96,7 +95,7 @@ Please also refer to the package insert for official warnings and contraindicati
 **Decision: Hold**
 
 **Rationale:**
-The predicted indication is essentially the drug's existing antacid use. The evidence is a single in vitro product-quality study with no clinical trials, and no US license is currently valid. There is no basis for a repurposing program.
+The predicted indication is essentially the drug's existing antacid use. There is no basis for a repurposing program.
 
 **To proceed, the following is needed:**
 - Official label warnings and contraindications to complete safety screening

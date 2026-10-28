@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # 3-O-Ethyl Ascorbic Acid Allantoin Hippophae Rhamno
@@ -51,7 +52,8 @@ The evidence base is insufficient to proceed with a formal repurposing evaluatio
 | Predicted New Indication | None — TxGNN returned no candidates |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | N/A (no predictions generated) |
-| Market Status | Not marketed |
+| Market Status | Marketed (valid licenses on record: at least 8) |
+| Number of NDAs | at least 8 |
 | Number of Approvals | 0 |
 | Recommended Decision | **Hold** |
 

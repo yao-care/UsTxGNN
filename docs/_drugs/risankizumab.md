@@ -6,9 +6,9 @@ nav_order: 1126
 evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Risankizumab: predicted new indication Dermatitis (evidence level L2). Approved use: Psoriasis, parapsoriasis"
 monitor_inn: "RISANKIZUMAB"
 predicted_indications: ["dermatitis", "neonatal dermatomyositis", "amyopathic dermatomyositis", "acrodermatitis chronica atrophicans", "acne keloid", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "pityriasis lichenoides", "acute lichenoid pityriasis"]
+description: "Risankizumab: predicted new indication Dermatitis (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
 # Risankizumab
@@ -33,7 +33,7 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-## Risankizumab: From Psoriasis to Dermatitis
+## Risankizumab: Dermatitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,12 +47,12 @@ The TxGNN model predicts it may be effective for **dermatitis** (mainly atopic d
 
 | Item | Content |
 |------|------|
-| Original Indication | Psoriasis, parapsoriasis (from the TxGNN knowledge graph; no approved-indication text is available from the licence records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Dermatitis |
-| TxGNN Prediction Score | 99.98% |
+| TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L2 |
-| US Market Status | Cancelled only (both BLA records are listed as cancelled) |
-| Number of NDAs | 2 (BLA records) |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ---
@@ -97,8 +97,8 @@ Case-level reports describe combined dupilumab and risankizumab in patients who 
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA761105 | Skyrizi (AbbVie Inc.) | Injection | Not available (status: cancelled) |
-| BLA761262 | Skyrizi (AbbVie Inc.) | Injection | Not available (status: cancelled) |
+| BLA761105 | Skyrizi (AbbVie Inc.) | Injection | Not available (status: valid) |
+| BLA761262 | Skyrizi (AbbVie Inc.) | Injection | Not available (status: valid) |
 
 ---
 

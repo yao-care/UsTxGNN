@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Naftifine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 952
-evidence_level: L3
-indication_count: 8
+evidence_level: L5
+indication_count: 3
 last_modified_at: 2026-10-14
-description: "Naftifine: predicted new indication Cutaneous candidiasis (evidence level L3). Approved use: Tinea pedis, tinea corporis, tinea infection…"
 monitor_inn: "NAFTIFINE"
-predicted_indications: ["ectothrix infectious disease", "Majocchi granuloma", "pityriasis versicolor", "endothrix infectious disease"]
+predicted_indications: ["ectothrix infectious disease", "pityriasis versicolor", "endothrix infectious disease"]
+description: "Naftifine: predicted new indication Ectothrix infectious disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Naftifine
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **8** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Evidence Level: **L3** | Predicted Indications: **8**
 
 </div>
 
-## Naftifine: From Tinea Infections to Cutaneous Candidiasis
+## Naftifine: Ectothrix infectious disease
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Naftifine is a topical allylamine antifungal, originally used for fungal skin infections such as tinea pedis, tinea corporis and groin dermatophytosis.
-The TxGNN model predicts it may be effective for **Cutaneous Candidiasis**,
 with **0 registered clinical trials** and **9 publications** (including two older controlled clinical studies from the 1980s) currently supporting this direction.
 
 ---
@@ -48,12 +47,12 @@ with **0 registered clinical trials** and **9 publications** (including two olde
 
 | Item | Content |
 |------|------|
-| Original Indication | Tinea pedis, tinea corporis, tinea infection, dermatophytosis of groin and perianal area (the approved-indication text on the US licence records is empty; these indications come from the TxGNN knowledge graph) |
-| Predicted New Indication | Cutaneous candidiasis |
-| TxGNN Prediction Score | 99.84% |
-| Evidence Level | L3 |
-| US Market Status | Cancelled only (no currently valid licences) |
-| Number of NDAs | 4 (all cancelled) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Ectothrix infectious disease |
+| TxGNN Prediction Score | 0.9969 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 4 of 4) |
+| Number of NDAs | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ---
@@ -92,7 +91,7 @@ Currently no related clinical trials registered for cutaneous candidiasis.
 
 ## US Market Information
 
-All four US licences are cancelled; none is currently valid. The approved-indication text is not recorded for these licences.
+The approved-indication text is not recorded for these licences.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -114,7 +113,7 @@ Please refer to the package insert for safety information. The data compiled for
 **Decision: Hold**
 
 **Rationale:**
-The evidence for cutaneous candidiasis is clinical but old (1980s), with no registered trials, and naftifine is less potent against yeasts than against dermatophytes. In addition, all US licences are cancelled and the label safety information has not been retrieved, so the decision cannot yet move forward.
+The evidence for cutaneous candidiasis is clinical but old (1980s), with no registered trials, and naftifine is less potent against yeasts than against dermatophytes.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
@@ -124,8 +123,7 @@ The evidence for cutaneous candidiasis is clinical but old (1980s), with no regi
 - Confirmation that the 1980s study results hold under current diagnostic standards
 
 **Other predicted indications (for context):**
-- **Superficial mycosis** (score 99.63%, L3): the strongest-supported prediction, but it is the parent category of naftifine's existing uses, so it is not truly new repurposing.
-- **Pityriasis versicolor** (score 99.68%, L3): two small direct clinical studies exist (1986 solution study; 2011 open-label study of 1% gel in 10 patients).
+- **Pityriasis versicolor** (score 0.9968, L3): two small direct clinical studies exist (1986 solution study; 2011 open-label study of 1% gel in 10 patients).
 - **Dermatophytosis of scalp or beard** (L3): evidence is mostly indirect, and topical agents penetrate hair follicles poorly.
 - **Ectothrix infection, Majocchi granuloma, endothrix infection, tinea profunda** (L4–L5): little or no supporting data. The only registered trial, NCT02658292 in paediatric tinea capitis, was withdrawn with no participants enrolled. Deep or follicular infections usually need systemic therapy.
 ## Disclaimer

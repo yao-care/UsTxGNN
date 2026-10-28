@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Activated Charcoal Ambrosia Artemisiifolia Whole E
@@ -51,7 +52,7 @@ Available data are insufficient to support the drug repurposing assessment workf
 | Predicted New Indication | None (TxGNN produced no prediction results) |
 | TxGNN Prediction Score | Cannot be calculated |
 | Evidence Level | L5 (model prediction not applicable, no research support) |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 1) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 
@@ -112,7 +113,7 @@ This drug cannot proceed with the drug repurposing assessment workflow due to th
 
 **To proceed, the following is needed:**
 
-- **Fundamental issue correction**: confirm whether this candidate drug is a valid drug repurposing research target; homeopathic combinations typically are not suitable for the TxGNN knowledge graph prediction framework
+- **Fundamental issue correction**: confirm whether this candidate drug is a valid drug repurposing research target; homeopathic combinations typically are not suitable for the TxGNN TxGNN model (deep learning) prediction framework
 - **Component dissection assessment**: if research objectives are clearly defined, recommend instead conducting predictions using **single active components** (e.g., strychnine, Solidago virgaurea extract) as independent candidate molecules
 - **Safety review**: obtain toxicological data for nux vomica-containing formulations, confirm safety threshold at intended concentration
 - **Market positioning clarification**: if this formulation is a homeopathic preparation, its regulatory pathway (e.g., DSHEA dietary supplement, homeopathic OTC) has fundamental differences from the drug repurposing pathway; development objectives must first be clarified

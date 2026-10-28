@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "NAPROXEN"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome"]
 last_modified_at: 2026-10-14
-description: "Naproxen: predicted new indication Brachydactyly-syndactyly syndrome (evidence level L5). Approved use: Rheumatoid arthritis, osteoarthritis, ankylosing spondylitis, gout…"
+description: "Naproxen: predicted new indication Brachydactyly-syndactyly syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Naproxen
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-## Naproxen: From Musculoskeletal Pain and Inflammation to Brachydactyly-Syndactyly Syndrome
+## Naproxen: Brachydactyly-syndactyly syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,11 +48,11 @@ The prediction is a computational output only and has no supporting evidence.
 
 | Item | Content |
 |------|------|
-| Original Indication | Rheumatoid arthritis, osteoarthritis, ankylosing spondylitis, gout, bursitis, tendinitis, migraine and headache (the approved-indication text in the US license records is empty, so these come from the knowledge-graph indication list) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Brachydactyly-syndactyly syndrome |
-| TxGNN Prediction Score | 99.35% |
+| TxGNN Prediction Score | 0.9935 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 14) |
 | Number of NDAs | 14 (all cancelled; 12 ANDAs and 2 NDAs) |
 | Recommended Decision | Hold |
 
@@ -64,7 +64,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 Brachydactyly-syndactyly syndromes are rare congenital limb malformations of genetic and developmental origin. A COX-inhibition mechanism has no plausible disease-modifying role in such conditions, and nothing in the available data supports a mechanistic link.
 
-The high TxGNN score (99.35%, model rank 14,678) most likely reflects graph proximity to skeletal and musculoskeletal terms shared with naproxen's original indications, not biological evidence. The other top predictions (colobomatous microphthalmia-rhizomelic dysplasia syndrome, Hunter-Thompson type acromesomelic dysplasia, and brachyolmia-amelogenesis imperfecta syndrome) are also rare congenital skeletal or developmental syndromes. Each has no trials or literature, and they follow the same pattern.
+The high TxGNN score (0.9935, model rank 14,678) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The other top predictions (colobomatous microphthalmia-rhizomelic dysplasia syndrome, Hunter-Thompson type acromesomelic dysplasia, and brachyolmia-amelogenesis imperfecta syndrome) are also rare congenital skeletal or developmental syndromes. Each has no trials or literature, and they follow the same pattern.
 
 ---
 
@@ -82,7 +82,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-All 14 licenses are listed as cancelled and none is currently valid. The approved-indication text is blank in the records. The five main authorizations are shown below.
+The drug is marketed, with 14 valid licenses. The approved-indication text is blank in the records. The five main authorizations are shown below.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
@@ -116,14 +116,14 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score, with no clinical trials, no literature and no plausible mechanistic link between COX inhibition and a congenital limb malformation. In addition, all US licenses are cancelled, and the safety data are incomplete.
+The prediction rests only on a model score, with no clinical trials, no literature and no plausible mechanistic link between COX inhibition and a congenital limb malformation. In addition, 14 US licenses are valid, and the safety data are incomplete.
 
 **To proceed, the following is needed:**
 - Detailed mechanism of action data (MOA) and a biologically plausible link to the disease pathway
 - Package insert warnings and contraindications, which are needed before any safety screening
 - Preclinical or case-level evidence of benefit in brachydactyly-syndactyly syndrome
 - A review of NSAID safety in growing skeletal tissue and in the affected population
-- Clarification of the current US regulatory status, given that all licenses are cancelled
+- Clarification of the current US regulatory status, given that 14 licenses are valid
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

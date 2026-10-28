@@ -4,7 +4,7 @@ title: Sotagliflozin
 parent: Model Prediction Only (L5)
 nav_order: 1177
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
 description: "Sotagliflozin: predicted new indication Opsismodysplasia (evidence level L5). Approved use: Type 1 diabetes mellitus (including diabetic ketoacidosis-related con…"
 monitor_inn: "SOTAGLIFLOZIN"
@@ -14,7 +14,7 @@ predicted_indications: ["opsismodysplasia", "thiamine-responsive dysfunction syn
 # Sotagliflozin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -40,7 +40,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 Sotagliflozin is an oral dual SGLT1/SGLT2 inhibitor, originally used to improve blood sugar control in type 1 diabetes mellitus.
 The TxGNN model predicts it may be effective for **opsismodysplasia**, a rare skeletal dysplasia.
-**No clinical trials** and **no publications** currently support this prediction, so it rests on the graph-based model score alone.
+**No clinical trials** and **no publications** currently support this prediction, so it rests on the TxGNN model (deep learning) score alone.
 
 ## Quick Overview
 
@@ -48,10 +48,10 @@ The TxGNN model predicts it may be effective for **opsismodysplasia**, a rare sk
 |------|------|
 | Original Indication | Type 1 diabetes mellitus (including diabetic ketoacidosis-related conditions) |
 | Predicted New Indication | Opsismodysplasia |
-| TxGNN Prediction Score | 99.61% |
+| TxGNN Prediction Score | 0.9961 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Detailed mechanism-of-action data for sotagliflozin is not available in the data
 
 Opsismodysplasia is a rare skeletal dysplasia caused by mutations in *INPPL1* (SHIP2 deficiency). We found no plausible mechanistic link between SGLT1/SGLT2 inhibition and this pathway. The two conditions are biologically unrelated: one is a metabolic disease of glucose control, the other a genetic disorder of bone development.
 
-The very high TxGNN score (99.61%) is a graph-based prediction only. It most likely reflects network proximity in the knowledge graph rather than a true biological relationship. Without supporting trials or literature, this prediction should be treated as a computational hypothesis, not as evidence of efficacy.
+The very high TxGNN score (0.9961) comes from the TxGNN model (deep learning). It may reflect similarities the model learned between related diseases, not biological evidence. Without supporting trials or literature, this prediction should be treated as a computational hypothesis, not as evidence of efficacy.
 
 ## Clinical Trial Evidence
 
@@ -74,7 +74,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA216203 | INPEFA (Lexicon Pharmaceuticals, Inc.) | Tablet | Not listed (status: cancelled) |
+| NDA216203 | INPEFA (Lexicon Pharmaceuticals, Inc.) | Tablet | Not listed (status: valid) |
 
 ## Safety Considerations
 

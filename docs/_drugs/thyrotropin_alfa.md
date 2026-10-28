@@ -4,9 +4,9 @@ title: Thyrotropin Alfa
 parent: Model Prediction Only (L5)
 nav_order: 1225
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "THYROTROPIN ALFA"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Raynaud disease", "migraine with or without aura, susceptibility to", "atrophoderma vermiculata", "ulerythema ophryogenesis", "pulmonary hypertension", "kyphoscoliotic heart disease", "postural orthostatic tachycardia syndrome", "hyperthyroidism"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Raynaud disease", "atrophoderma vermiculata", "ulerythema ophryogenesis", "pulmonary hypertension", "kyphoscoliotic heart disease", "postural orthostatic tachycardia syndrome", "hyperthyroidism"]
 last_modified_at: 2026-10-14
 description: "Thyrotropin Alfa: predicted new indication Migraine disorder (evidence level L5). Approved use: Not specified in the data compiled for this report (the product is kn…"
 ---
@@ -14,7 +14,7 @@ description: "Thyrotropin Alfa: predicted new indication Migraine disorder (evid
 # Thyrotropin Alfa
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ The prediction is a computational output only.
 |------|------|
 | Original Indication | Not specified in the data compiled for this report (the product is known as a thyroid cancer diagnostic and adjunctive agent) |
 | Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.98% |
+| TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 1 (BLA020898, cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,9 +62,9 @@ The prediction is a computational output only.
 
 Detailed mechanism of action data is not available. Based on known information, thyrotropin alfa is recombinant human TSH. It binds the TSH receptor on thyroid cells and is used to stimulate thyroid tissue during thyroid cancer diagnosis and radioiodine ablation.
 
-**A plausible mechanism for migraine has not been established.** The high score (99.98%) appears to reflect proximity in the knowledge graph rather than biological rationale. There is no known link between TSH receptor signaling and migraine pathophysiology, and no trials or literature were found to support one.
+**A plausible mechanism for migraine has not been established.** The high score (0.9998) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. There is no known link between TSH receptor signaling and migraine pathophysiology, and no trials or literature were found to support one.
 
-The other top predictions show the same pattern. Three more are migraine-related terms (migraine with brainstem aura, migraine susceptibility), which look like a redundant graph artifact. Others are Raynaud disease, pulmonary hypertension, rare skin disorders and hyperthyroidism, none with supporting evidence. Some are of concern:
+The other top predictions show the same pattern. One more is a migraine-related term (migraine with brainstem aura), which looks like a redundant result from similarities the TxGNN model (deep learning) learned between related diseases. Others are Raynaud disease, pulmonary hypertension, rare skin disorders and hyperthyroidism, none with supporting evidence. Some are of concern:
 - **Hyperthyroidism**: Biologically implausible and likely contraindicated, since TSH stimulates thyroid hormone production.
 - **Postural orthostatic tachycardia syndrome and pulmonary hypertension**: Transient increases in thyroid hormone could worsen tachycardia or cardiovascular stress, so the direction of effect may be unfavorable.
 
@@ -107,7 +107,7 @@ Please refer to the package insert for other safety information, including warni
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a graph-based model score alone, with no clinical trials, no literature and no plausible mechanistic link to migraine. The US license is also cancelled, and the package insert safety data has not yet been obtained.
+The prediction rests on a TxGNN model (deep learning) score alone, with no clinical trials, no literature and no plausible mechanistic link to migraine. The drug is marketed in the US, with 1 valid license of 1, and the package insert safety data has not yet been obtained.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Apis Mellifera Apis Mellifera Venom Arsenic Trioxi
@@ -51,7 +52,7 @@ Without a prediction target or original indication on file, a standard repurposi
 | Predicted New Indication | No prediction available |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | N/A — no prediction generated |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

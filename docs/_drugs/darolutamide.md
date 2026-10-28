@@ -50,10 +50,10 @@ The evidence rests on the model score alone.
 |------|------|
 | Original Indication | Not available in the data compiled for this report |
 | Predicted New Indication | Homozygous familial hypercholesterolemia |
-| TxGNN Prediction Score | 99.11% |
+| TxGNN Prediction Score | 0.9911 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (1 NDA, cancelled) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,11 +62,11 @@ The evidence rests on the model score alone.
 
 Detailed mechanism of action data is not available. Darolutamide is known to be a non-steroidal androgen receptor antagonist.
 
-There is no established biological pathway linking androgen receptor blockade to the defective LDL receptor function that causes homozygous familial hypercholesterolemia. The high TxGNN score (0.991) most likely reflects a network-based artifact rather than a true mechanistic relationship. The score is also not a strong discriminator here: this prediction ranks 19,390th overall, and the other top-ranked predictions have similar scores.
+There is no established biological pathway linking androgen receptor blockade to the defective LDL receptor function that causes homozygous familial hypercholesterolemia. The high TxGNN score (0.9911) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The score is also not a strong discriminator here: this prediction ranks 19,390th overall, and the other top-ranked predictions have similar scores.
 
 Two other predictions were also generated, both with equally weak support:
-- **Multiple endocrine neoplasia** (score 99.06%, L4): The two linked trials concern prostate cancer settings, not MEN syndromes, so the link is indirect.
-- **HIV infectious disease** (score 99.04%, L5): No recognized mechanism connects androgen receptor antagonism to HIV treatment.
+- **Multiple endocrine neoplasia** (score 0.9906, L4): The two linked trials concern prostate cancer settings, not MEN syndromes, so the link is indirect.
+- **HIV infectious disease** (score 0.9904, L5): No recognized mechanism connects androgen receptor antagonism to HIV treatment.
 
 ---
 

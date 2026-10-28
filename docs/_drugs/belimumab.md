@@ -48,17 +48,17 @@ but **0 clinical trials** and **0 publications** currently support this predicti
 |------|------|
 | Original Indication | Systemic lupus erythematosus; pediatric systemic lupus erythematosus |
 | Predicted New Indication | Primary release disorder of platelets |
-| TxGNN Prediction Score | 99.96% |
+| TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (both BLAs are cancelled) |
-| Number of NDAs | 2 (BLA125370, BLA761043) |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, belimumab is a monoclonal antibody that inhibits soluble BLyS (BAFF), which reduces B-cell survival and autoantibody production. This is why it is used in systemic lupus erythematosus, an autoantibody-driven disease.
 
-Primary release disorder of platelets, however, is an intrinsic platelet function defect (inherited or acquired). It is not driven by B-cell activity. No plausible mechanistic link to BLyS inhibition was identified. The very high TxGNN score (99.96%) is a graph-based prediction only and is not backed by any clinical or literature evidence. The score should therefore be treated as a hypothesis, not as support for efficacy.
+Primary release disorder of platelets, however, is an intrinsic platelet function defect (inherited or acquired). It is not driven by B-cell activity. No plausible mechanistic link to BLyS inhibition was identified. The very high TxGNN score (0.9996) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It is not backed by any clinical or literature evidence. The score should therefore be treated as a hypothesis, not as support for efficacy.
 
 ### Other Predicted Indications
 
@@ -66,11 +66,11 @@ The model also generated five further predictions. None has clinical trial or li
 
 | Rank | Predicted Indication | TxGNN Score | Mechanistic Assessment |
 |------|------|------|------|
-| 2 | Pseudo-von Willebrand disease | 99.96% | Caused by gain-of-function variants in platelet GPIbα, a genetic receptor defect. No rationale for BLyS inhibition. |
-| 3 | Glanzmann thrombasthenia | 99.88% | Inherited integrin αIIbβ3 defect that belimumab does not correct. Only a speculative link to alloantibodies after platelet transfusion. |
-| 4 | Fetal and neonatal alloimmune thrombocytopenia | 99.59% | Most mechanistically plausible: maternal alloantibodies destroy fetal platelets, so B-cell and BAFF-driven antibody production is relevant in principle. Use in pregnancy is limited by safety and placental transfer concerns, and current care relies on IVIG with or without corticosteroids. |
-| 5 | Severe nonproliferative diabetic retinopathy | 99.05% | Driven by microvascular damage, VEGF signaling and inflammation, not B cells or BAFF. |
-| 6 | Autosomal dominant macrothrombocytopenia | 99.04% | Inherited disorder of megakaryopoiesis and platelet formation, not immune-mediated. |
+| 2 | Pseudo-von Willebrand disease | 0.9996 | Caused by gain-of-function variants in platelet GPIbα, a genetic receptor defect. No rationale for BLyS inhibition. |
+| 3 | Glanzmann thrombasthenia | 0.9988 | Inherited integrin αIIbβ3 defect that belimumab does not correct. Only a speculative link to alloantibodies after platelet transfusion. |
+| 4 | Fetal and neonatal alloimmune thrombocytopenia | 0.9959 | Most mechanistically plausible: maternal alloantibodies destroy fetal platelets, so B-cell and BAFF-driven antibody production is relevant in principle. Use in pregnancy is limited by safety and placental transfer concerns, and current care relies on IVIG with or without corticosteroids. |
+| 5 | Severe nonproliferative diabetic retinopathy | 0.9905 | Driven by microvascular damage, VEGF signaling and inflammation, not B cells or BAFF. |
+| 6 | Autosomal dominant macrothrombocytopenia | 0.9904 | Inherited disorder of megakaryopoiesis and platelet formation, not immune-mediated. |
 
 ## Clinical Trial Evidence
 
@@ -84,8 +84,8 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA125370 | BENLYSTA | Injection, powder, lyophilized, for solution | Not listed (status: cancelled) |
-| BLA761043 | BENLYSTA | Solution | Not listed (status: cancelled) |
+| BLA125370 | BENLYSTA | Injection, powder, lyophilized, for solution | Not listed (status: valid) |
+| BLA761043 | BENLYSTA | Solution | Not listed (status: valid) |
 
 Both authorizations are held by GlaxoSmithKline LLC and are recorded as cancelled in the data compiled for this report.
 

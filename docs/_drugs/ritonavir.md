@@ -48,10 +48,10 @@ Currently **0 clinical trials** and **0 publications** support this specific pre
 |------|------|
 | Original Indication | HIV infectious disease / AIDS; chronic hepatitis C virus infection (the approved indication text is not available in the US license records) |
 | Predicted New Indication | Feline acquired immunodeficiency syndrome |
-| TxGNN Prediction Score | 99.92% |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 11 (all cancelled; includes both NDAs and ANDAs) |
+| US Market Status | Marketed (valid licenses: 11 of 11) |
+| Number of NDAs | 11 (valid: 11) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -63,8 +63,8 @@ Feline immunodeficiency virus (FIV) is a lentivirus related to HIV, so a proteas
 The very high TxGNN score most likely reflects network proximity to the approved HIV/AIDS indication, not independent evidence. It should be treated as a hypothesis only.
 
 **Other predictions in the list:**
-- **Simian immunodeficiency virus (SIV) infection** (score 99.92%, evidence level L4): Preclinical literature supports biological plausibility. One in vitro study (PMID 12709355) found SIVmac239 was inhibited by ritonavir (EC50 about 13 nM, compared with about 25 nM for HIV-1). SIV is an animal infection, not a human disease indication, so this mainly confirms the known anti-lentiviral mechanism rather than a new human opportunity. The recommendation for this prediction is "Research Question".
-- **Neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter** (score 99.92%, L5): There is no evident mechanistic link to protease or CYP3A4 inhibition, and there are no trials or literature. This is a computational prediction only.
+- **Simian immunodeficiency virus (SIV) infection** (score 0.9992, evidence level L4): Preclinical literature supports biological plausibility. One in vitro study (PMID 12709355) found SIVmac239 was inhibited by ritonavir (EC50 about 13 nM, compared with about 25 nM for HIV-1). SIV is an animal infection, not a human disease indication, so this mainly confirms the known anti-lentiviral mechanism rather than a new human opportunity. The recommendation for this prediction is "Research Question".
+- **Neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter** (score 0.9992, L5): There is no evident mechanistic link to protease or CYP3A4 inhibition, and there are no trials or literature. This is a computational prediction only.
 
 ## Clinical Trial Evidence
 
@@ -88,7 +88,7 @@ For reference, the literature retrieved for the related SIV prediction is precli
 
 ## US Market Information
 
-All 11 US licenses are cancelled; none is currently valid. The approved indication text is not available in the records. The main authorizations:
+All 11 US licenses are currently valid. The approved indication text is not available in the records. The main authorizations:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -113,7 +113,7 @@ The package insert warnings and contraindications were not available for this re
 **Decision: Hold**
 
 **Rationale:**
-The top prediction (feline AIDS) is a veterinary indication with no clinical trials and no literature, so its evidence level is L5 and its high score is likely driven by network proximity to HIV/AIDS. The related SIV prediction has only preclinical support (L4), and the third prediction has no identifiable mechanistic link. In addition, all US licenses for ritonavir are cancelled, and the safety data are incomplete.
+The top prediction (feline AIDS) is a veterinary indication with no clinical trials and no literature, so its evidence level is L5. Its score of 0.9992 comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The related SIV prediction has only preclinical support (L4), and the third prediction has no identifiable mechanistic link. In addition, the drug is marketed in the US with 11 valid licenses out of 11, and the safety data are incomplete.
 
 **To proceed, the following is needed:**
 - FIV protease inhibition data for ritonavir (in vitro susceptibility and in vivo studies in cats)

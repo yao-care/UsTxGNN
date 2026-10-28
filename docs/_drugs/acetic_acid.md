@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "ACETIC ACID"
 predicted_indications: ["post-bacterial disorder", "postinfectious vasculitis", "post-infectious syndrome", "Chagas cardiomyopathy", "infective urethral stricture", "infection-related hemolytic uremic syndrome", "drug-induced osteoporosis", "pityriasis simplex", "tinea corporis"]
 last_modified_at: 2026-10-14
-description: "Acetic Acid: predicted new indication Tinea corporis (evidence level L5). Approved use: Otitis externa"
+description: "Acetic Acid: predicted new indication post-bacterial disorder (evidence level L5). Approved use: Otitis externa"
 ---
 
 # Acetic Acid
@@ -33,13 +33,13 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-## Acetic Acid: From Otitis Externa to Tinea Corporis
+## Acetic Acid: From Otitis Externa to Post-Bacterial Disorder
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Acetic acid is a simple topical antiseptic and irrigant, originally used for ear conditions such as otitis externa.
-The TxGNN model predicts several new indications. The most evidence-supported one is **Tinea Corporis** (score 99.25%), which has **0 clinical trials** and **10 publications** (mostly historical reports or in vitro studies).
+The TxGNN model predicts several new indications. The most evidence-supported one is **Tinea Corporis** (score 0.9925), which has **0 clinical trials** and **10 publications** (mostly historical reports or in vitro studies).
 The top-scoring predictions (e.g., post-bacterial disorder) have no supporting studies at all.
 
 ## Quick Overview
@@ -48,10 +48,10 @@ The top-scoring predictions (e.g., post-bacterial disorder) have no supporting s
 |------|------|
 | Original Indication | Otitis externa; external ear disease |
 | Predicted New Indication | Tinea corporis (highest-ranked prediction by TxGNN is post-bacterial disorder, but it has no evidence, so tinea corporis is the focus here) |
-| TxGNN Prediction Score | 99.25% (tinea corporis); 99.98% (post-bacterial disorder, rank 1, no evidence) |
-| Evidence Level | L4 (tinea corporis); L5 for all other predictions |
-| US Market Status | Cancelled only |
-| Number of NDAs | 6 (all cancelled; includes ANDA and one unapproved homeopathic entry) |
+| TxGNN Prediction Score | 0.9925 (tinea corporis); 0.9998 (post-bacterial disorder, rank 1, no evidence) |
+| Evidence Level | L5 (tinea corporis); L5 for all other predictions |
+| US Market Status | Marketed (valid licenses: 6 of 6) |
+| Number of NDAs | 6 (valid: 6) |
 | Recommended Decision | Hold (tinea corporis may be treated as a research question) |
 
 ## Why is This Prediction Reasonable?
@@ -88,15 +88,15 @@ For post-infectious syndrome, the only publication is [20848144](https://pubmed.
 
 ## US Market Information
 
-All six authorizations are cancelled; no product is currently marketed. The data compiled for this report contains no approved indication text for any of them.
+All six authorizations are valid and the drug is currently marketed. The data compiled for this report contains no approved indication text for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
 |---------|------|------|------|------|
-| ANDA040166 | Acetic Acid | Solution | Chartwell RX, LLC | Cancelled |
-| NDA012179 | Acetic Acid | Solution | NuCare Pharmaceuticals, Inc. | Cancelled |
-| ANDA040607 | Acetic Acid | Solution | A-S Medication Solutions | Cancelled |
-| NDA018161 | Acetic Acid | Irrigant | B. Braun Medical Inc. | Cancelled |
-| NDA018523 | Acetic Acid | Irrigant | Baxter Healthcare Corporation | Cancelled |
+| ANDA040166 | Acetic Acid | Solution | Chartwell RX, LLC | Valid |
+| NDA012179 | Acetic Acid | Solution | NuCare Pharmaceuticals, Inc. | Valid |
+| ANDA040607 | Acetic Acid | Solution | A-S Medication Solutions | Valid |
+| NDA018161 | Acetic Acid | Irrigant | B. Braun Medical Inc. | Valid |
+| NDA018523 | Acetic Acid | Irrigant | Baxter Healthcare Corporation | Valid |
 
 A sixth entry (Aceticum acidum, pellet, Boiron) has no authorization number and is also cancelled.
 
@@ -113,7 +113,7 @@ Please refer to the package insert for warnings and other safety information, as
 **Decision: Hold**
 
 **Rationale:**
-All predictions are supported only by model scores. Tinea corporis has the best indirect support (L4: historical reports and in vitro data, with plausible acidification-based antifungal activity), but it has no registered trials and no modern controlled studies. All US authorizations are cancelled, and label-based safety data are missing. Tinea corporis may be pursued as a research question; the other predictions should not be pursued without new evidence.
+All predictions are supported only by model scores. Tinea corporis has the best indirect support (L4: historical reports and in vitro data, with plausible acidification-based antifungal activity), but it has no registered trials and no modern controlled studies. All six US authorizations are valid, but label-based safety data are missing. Tinea corporis may be pursued as a research question; the other predictions should not be pursued without new evidence.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

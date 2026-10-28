@@ -48,10 +48,10 @@ Evidence currently includes **5 clinical trials** and **20 publications**.
 |------|------|
 | Original Indication | Hereditary angioedema (including HAE with C1-INH deficiency) |
 | Predicted New Indication | C1 inhibitor deficiency |
-| TxGNN Prediction Score | 99.996% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L1 |
-| US Market Status | Cancelled only (the single registered license is marked cancelled) |
-| Number of NDAs | 1 (BLA761090) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
@@ -93,7 +93,7 @@ Other top-ranked predictions (ranks 2–10, such as serpinopathy, pancreatitis, 
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA761090 | TAKHZYRO (Takeda Pharmaceuticals America, Inc.) | Solution (injection, solution) | Not specified in the data; status: cancelled |
+| BLA761090 | TAKHZYRO (Takeda Pharmaceuticals America, Inc.) | Solution (injection, solution) | Not specified in the data; status: valid |
 
 ## Safety Considerations
 

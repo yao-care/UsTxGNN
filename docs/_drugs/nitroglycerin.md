@@ -4,7 +4,7 @@ title: Nitroglycerin
 parent: Moderate Evidence (L3-L4)
 nav_order: 973
 evidence_level: L3
-indication_count: 5
+indication_count: 4
 last_modified_at: 2026-10-14
 description: "Nitroglycerin: predicted new indication Pulmonary hypertension (evidence level L3). Approved use: Not available in the license data (nitroglycerin is a long-establishe…"
 monitor_inn: "NITROGLYCERIN"
@@ -14,7 +14,7 @@ predicted_indications: ["pulmonary hypertension", "kyphoscoliotic heart disease"
 # Nitroglycerin
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **5** 
+Evidence Level: **L3** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ with **3 clinical trials** (1 completed, 1 of unknown status, 1 not yet recruiti
 |------|------|
 | Original Indication | Not available in the license data (nitroglycerin is a long-established vasodilator used for angina) |
 | Predicted New Indication | Pulmonary hypertension |
-| TxGNN Prediction Score | 99.61% |
+| TxGNN Prediction Score | 0.9961 |
 | Evidence Level | L3 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 9) |
 | Number of NDAs | 9 (all cancelled) |
 | Recommended Decision | Hold |
 
@@ -87,7 +87,7 @@ An important caveat: the evidence is mostly hemodynamic, perioperative or small-
 
 ## US Market Information
 
-All nine US authorizations are cancelled; none is currently valid. Indication text is not available for any of them.
+All nine US authorizations are valid, and the drug is marketed in the US. Indication text is not available for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -109,7 +109,7 @@ For label-based warnings and contraindications, please refer to the package inse
 **Decision: Hold**
 
 **Rationale:**
-The biological rationale is coherent and there are small randomized and hemodynamic studies, including a 2025 RCT in neonatal PPHN. However, there is no completed Phase 2/3 RCT, the main comparator trial is of unknown status, and all US licenses are cancelled. Label-based safety data are also missing. This is best treated as a research question rather than a candidate for advancement now.
+The biological rationale is coherent and there are small randomized and hemodynamic studies, including a 2025 RCT in neonatal PPHN. However, there is no completed Phase 2/3 RCT, the main comparator trial is of unknown status, and the drug is marketed in the US with nine valid licenses. Label-based safety data are also missing. This is best treated as a research question rather than a candidate for advancement now.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
@@ -118,7 +118,7 @@ The biological rationale is coherent and there are small randomized and hemodyna
 - Adequately powered controlled trials of the nebulized route, with a hypotension and gas-exchange monitoring plan
 - A formulation and route plan, since no inhaled product is currently authorized in the US
 
-**Other predicted indications (brief):** Prinzmetal angina (score 99.39%, L4) is supported by general reviews and long-standing nitrate use, but this is probably existing practice rather than true repurposing. Kyphoscoliotic heart disease, primary hereditary glaucoma and congenital hypotrichosis milia have no clinical or literature evidence and little plausible mechanism, so Hold is recommended.
+**Other predicted indications (brief):** Kyphoscoliotic heart disease, primary hereditary glaucoma and congenital hypotrichosis milia have no clinical or literature evidence and little plausible mechanism, so Hold is recommended.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

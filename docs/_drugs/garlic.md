@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "GARLIC"
 predicted_indications: ["gastrin secretion abnormality", "endometriosis of uterus", "cerebral infarction", "renal hypoplasia, bilateral", "multiple endocrine neoplasia", "renal hypoplasia (disease)", "gelatinous drop-like corneal dystrophy", "HIV infectious disease", "cervix endometriosis", "endometriosis of rectovaginal septum and vagina"]
 last_modified_at: 2026-10-14
-description: "Garlic: predicted new indication Gastrin secretion abnormality (evidence level L5). Approved use: Not available"
+description: "Garlic: predicted new indication Gastrin secretion abnormality (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Garlic
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Garlic: From an Unspecified Original Indication to Gastrin Secretion Abnormality
+## Garlic: Gastrin secretion abnormality
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,11 +48,11 @@ The better-supported prediction for this drug is **cerebral infarction**, with 1
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (no approved indication text on the US licenses) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Gastrin secretion abnormality |
-| TxGNN Prediction Score | 99.96% |
+| TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
+| US Market Status | Marketed (valid licenses on record: at least 3) |
 | Number of NDAs | 3 (all cancelled; listed as BLA or unnumbered licenses) |
 | Recommended Decision | Hold |
 
@@ -60,7 +60,7 @@ The better-supported prediction for this drug is **cerebral infarction**, with 1
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available for garlic. The data compiled for this report contain no link between garlic and gastrin regulation. The TxGNN score is very high (99.96%), but there are no trials or publications behind it, so the prediction is purely computational. Garlic is a complex natural product rather than a single molecule, which makes a mechanistic argument even harder to build.
+Currently, detailed mechanism of action data is not available for garlic. The data compiled for this report contain no link between garlic and gastrin regulation. The TxGNN score is very high (0.9996), but there are no trials or publications behind it, so the prediction is purely computational. Garlic is a complex natural product rather than a single molecule, which makes a mechanistic argument even harder to build.
 
 Other predictions are better supported:
 
@@ -105,7 +105,7 @@ For reference, the most relevant publications for the best-supported alternative
 
 ## US Market Information
 
-All three US licenses are cancelled, and none carries approved indication text.
+All three US licenses are valid, and none carries approved indication text.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -129,7 +129,7 @@ Please refer to the package insert for warnings and contraindications, which are
 **Decision: Hold**
 
 **Rationale:**
-The top prediction, gastrin secretion abnormality, rests on a computational score alone, with no trials, no literature and no mechanistic link. The product has no active US license, and warning and contraindication data are missing.
+The top prediction, gastrin secretion abnormality, rests on a computational score alone, with no trials, no literature and no mechanistic link.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for garlic and its active compounds (for example allicin and S-allyl cysteine)

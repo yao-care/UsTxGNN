@@ -47,19 +47,19 @@ The TxGNN model predicts it may be effective for **Infectious Otitis Media**, bu
 |------|------|
 | Original Indication | Pulmonary tuberculosis, meningeal tuberculosis, tuberculous meningitis (the US license records contain no indication text) |
 | Predicted New Indication | Infectious otitis media |
-| TxGNN Prediction Score | 99.96% |
+| TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 3 (all cancelled; listed as ANDAs) |
+| US Market Status | Marketed (valid licenses: 3 of 3) |
+| Number of NDAs | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, pyrazinamide is a first-line anti-tuberculosis agent. It is known to be active only against *Mycobacterium tuberculosis*, where it needs an acidic environment and the mycobacterial enzyme pyrazinamidase to become active.
 
-This mechanism does not plausibly extend to the usual bacterial causes of otitis media (*S. pneumoniae*, *H. influenzae*, *M. catarrhalis*). The high TxGNN score most likely reflects a knowledge-graph link to **tuberculous otitis media**, a rare form of extrapulmonary TB that is already treated with standard anti-TB regimens containing pyrazinamide. The prediction is therefore best read as an extension of the existing TB indication, not as a genuinely new use.
+This mechanism does not plausibly extend to the usual bacterial causes of otitis media (*S. pneumoniae*, *H. influenzae*, *M. catarrhalis*). The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, such as **tuberculous otitis media**, not biological evidence. Tuberculous otitis media is a rare form of extrapulmonary TB that is already treated with standard anti-TB regimens containing pyrazinamide. The prediction is therefore best read as an extension of the existing TB indication, not as a genuinely new use.
 
-Other predicted indications in the ear group (otosalpingitis, non-suppurative, allergic otitis media, middle ear cholesterol granuloma, infectious otitis interna) have no clinical evidence and no plausible mechanistic basis outside tuberculous involvement. Lyme disease (score 99.45%) rests only on an unvalidated hypothesis about persister bacteria; *Borrelia* is not a mycobacterium.
+Other predicted indications in the ear group (otosalpingitis, non-suppurative, allergic otitis media, middle ear cholesterol granuloma, infectious otitis interna) have no clinical evidence and no plausible mechanistic basis outside tuberculous involvement. Lyme disease (score 0.9945) rests only on an unvalidated hypothesis about persister bacteria; *Borrelia* is not a mycobacterium.
 
 ## Clinical Trial Evidence
 
@@ -82,9 +82,9 @@ No literature was retrieved for the top-ranked prediction (infectious otitis med
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA081319 | Pyrazinamide (Hikma Pharmaceuticals USA Inc) | Tablet | Not available (cancelled) |
-| ANDA080157 | Pyrazinamide (Marlex Pharmaceuticals, Inc) | Tablet | Not available (cancelled) |
-| ANDA212541 | Pyrazinamide (Macleods Pharmaceuticals Limited) | Tablet | Not available (cancelled) |
+| ANDA081319 | Pyrazinamide (Hikma Pharmaceuticals USA Inc) | Tablet | Not available (valid) |
+| ANDA080157 | Pyrazinamide (Marlex Pharmaceuticals, Inc) | Tablet | Not available (valid) |
+| ANDA212541 | Pyrazinamide (Macleods Pharmaceuticals Limited) | Tablet | Not available (valid) |
 
 ## Safety Considerations
 
@@ -98,7 +98,7 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a knowledge-graph score; there are no trials or literature for infectious otitis media itself. Pyrazinamide acts only against mycobacteria, so a benefit in common bacterial otitis media is not plausible. The related case reports concern tuberculous otitis media, which is already covered by the existing TB indication. In the US, all three licenses are cancelled, and label safety data are missing.
+The prediction is supported only by a TxGNN model (deep learning) score; there are no trials or literature for infectious otitis media itself. Pyrazinamide acts only against mycobacteria, so a benefit in common bacterial otitis media is not plausible. The related case reports concern tuberculous otitis media, which is already covered by the existing TB indication. In the US, the drug is marketed with 3 valid licenses (of 3), and label safety data are missing.
 
 **To proceed, the following is needed:**
 - Confirmation of whether the intended target is tuberculous otitis media (an extension of the existing indication) or non-tuberculous otitis media (no supporting mechanism)

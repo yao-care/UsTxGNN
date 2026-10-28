@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Hydroquinone
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 778
-evidence_level: L4
+evidence_level: L5
 indication_count: 4
 monitor_inn: "HYDROQUINONE"
 predicted_indications: ["seborrheic keratosis", "vulvar inverted follicular keratosis", "exanthem (disease)", "lichen disease"]
@@ -14,7 +14,7 @@ description: "Hydroquinone: predicted new indication Seborrheic keratosis (evide
 # Hydroquinone
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **4** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,10 +46,10 @@ Hydroquinone is a topical skin-lightening (depigmenting) agent. The TxGNN model 
 |------|------|
 | Original Indication | No approved indication text is available in the US license record |
 | Predicted New Indication | Seborrheic keratosis |
-| TxGNN Prediction Score | 99.73% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 1 (cancelled) |
+| TxGNN Prediction Score | 0.9973 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -59,9 +59,9 @@ Detailed mechanism of action data is not available in the data compiled for this
 Seborrheic keratosis is a benign epidermal growth that is often pigmented. A depigmenting agent might lighten the colour of these lesions, but it would not treat the growth itself. The only supporting document is a prospective observational study of combination treatment for facial pigmentary disorders, which is indirect evidence. The high TxGNN score is a computational prediction and should not be read as clinical proof.
 
 Other predicted indications are weaker still:
-- **Vulvar inverted follicular keratosis** (score 99.64%): no trials or literature, and no clear mechanistic rationale. The prediction is likely driven by network proximity to other keratosis conditions.
-- **Exanthem** (score 99.42%): a broad rash category with no mechanistic link to depigmentation. The one related trial tested an herbal depigmenting system for pigmentation.
-- **Lichen disease** (score 99.07%): hydroquinone could only address post-inflammatory pigmentation, not the underlying inflammation.
+- **Vulvar inverted follicular keratosis** (score 0.9964): no trials or literature, and no clear mechanistic rationale. The prediction is likely driven by network proximity to other keratosis conditions.
+- **Exanthem** (score 0.9942): a broad rash category with no mechanistic link to depigmentation. The one related trial tested an herbal depigmenting system for pigmentation.
+- **Lichen disease** (score 0.9907): hydroquinone could only address post-inflammatory pigmentation, not the underlying inflammation.
 
 ## Clinical Trial Evidence
 

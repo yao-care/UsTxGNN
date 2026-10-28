@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "FILGRASTIM"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "hemorrhagic disorder due to a constitutional thrombocytopenia", "bleeding diathesis due to a collagen receptor defect", "C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "fetal and neonatal alloimmune thrombocytopenia", "platelet-type bleeding disorder"]
 last_modified_at: 2026-10-14
-description: "Filgrastim: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Constitutional neutropenia / severe congenital neutropenia"
+description: "Filgrastim: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Filgrastim
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Filgrastim: From Severe Congenital Neutropenia to Primary Release Disorder of Platelets
+## Filgrastim: Primary release disorder of platelets
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,11 +45,11 @@ The TxGNN model predicts it may be effective for **primary release disorder of p
 
 | Item | Content |
 |------|------|
-| Original Indication | Constitutional neutropenia / severe congenital neutropenia (knowledge-graph indications; no label text available) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Primary release disorder of platelets |
-| TxGNN Prediction Score | 99.998% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all 6 licenses are listed as cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 6) |
 | Number of NDAs | 6 (all are BLAs) |
 | Recommended Decision | Hold |
 
@@ -71,7 +71,7 @@ None has an established link to G-CSF signaling. Only constitutional thrombocyto
 
 ## Clinical Trial Evidence
 
-No trials are registered for the top-ranked indication. The data compiled for this report links 7 trials to the lower-ranked prediction "platelet-type bleeding disorder" (score 99.69%). All are stem cell transplant studies in hematologic malignancies, where filgrastim is likely a supportive or mobilization component. None tests filgrastim as a treatment for a platelet disorder, and all were graded low relevance.
+No trials are registered for the top-ranked indication. The data compiled for this report links 7 trials to the lower-ranked prediction "platelet-type bleeding disorder" (score 0.9969). All are stem cell transplant studies in hematologic malignancies, where filgrastim is likely a supportive or mobilization component. None tests filgrastim as a treatment for a platelet disorder, and all were graded low relevance.
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
@@ -89,7 +89,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-The approved indication text is not available in the data compiled for this report. All six licenses are listed as cancelled.
+The approved indication text is not available in the data compiled for this report. All six licenses are listed as valid.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

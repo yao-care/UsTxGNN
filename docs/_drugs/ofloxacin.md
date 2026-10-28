@@ -50,9 +50,9 @@ The prediction rests on the model alone. The only predicted indication with mean
 |------|------|
 | Original Indication | Bacterial infections (typhoid fever, salmonellosis, urinary tract infection, bronchitis, bacterial pneumonia, and others) |
 | Predicted New Indication | Hyperamylasemia (top-ranked prediction) |
-| TxGNN Prediction Score | 99.91% |
+| TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 12) |
 | Number of NDAs | 12 (all cancelled) |
 | Recommended Decision | Hold |
 
@@ -62,7 +62,7 @@ The prediction rests on the model alone. The only predicted indication with mean
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Ofloxacin is a fluoroquinolone antibacterial, and this class is generally known to inhibit bacterial DNA gyrase and topoisomerase IV. Its efficacy in bacterial infections is established.
 
-For hyperamylasemia, **no plausible mechanistic link** was identified. An antibacterial mechanism has no obvious bearing on elevated serum amylase. The high score (99.91%) is a graph-based prediction only. Other top-ranked predictions (polyclonal hyperviscosity syndrome, congenital analbuminemia, blood group incompatibility, premalignant and congenital hematological conditions) show the same pattern: high scores, no trials, and no mechanistic rationale.
+For hyperamylasemia, **no plausible mechanistic link** was identified. An antibacterial mechanism has no obvious bearing on elevated serum amylase. The high score (0.9991) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Other top-ranked predictions (polyclonal hyperviscosity syndrome, congenital analbuminemia, blood group incompatibility, premalignant and congenital hematological conditions) show the same pattern: high scores, no trials, and no mechanistic rationale.
 
 Among the ten predictions, the most biologically coherent is **septicemic plague** (rank 8). Ofloxacin is active in vitro against *Yersinia pestis* and has shown efficacy in mouse models of experimental plague. This extends its existing antibacterial use to a related pathogen rather than introducing a new mechanism. The evidence is preclinical, with no human trials.
 
@@ -96,7 +96,7 @@ Several other retrieved papers concern resistance mechanisms or other organisms 
 
 ## US Market Information
 
-All 12 US licenses are cancelled. No approved-indication text is available. The first five are listed below.
+The drug is marketed in the US, with 12 valid licenses. No approved-indication text is available. The first five are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
@@ -124,14 +124,14 @@ The knowledge-graph contraindication of peripheral neuropathy argues against the
 **Decision: Hold**
 
 **Rationale:**
-The top prediction, hyperamylasemia, has no clinical trials, no literature, and no plausible mechanistic link. All US licenses are cancelled, and the label safety data are missing. Of the ten predictions, only septicemic plague has biologically coherent preclinical support (L4), and that remains a research question rather than a development-ready indication.
+The top prediction, hyperamylasemia, has no clinical trials, no literature, and no plausible mechanistic link. The drug is marketed in the US with 12 valid licenses, and the label safety data are missing. Of the ten predictions, only septicemic plague has biologically coherent preclinical support (L4), and that remains a research question rather than a development-ready indication.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
 - For hyperamylasemia, a mechanistic hypothesis and any clinical or observational data. Without them, the prediction should not advance.
 - For septicemic plague, a review of current guideline-recommended therapies and of any human data
-- Clarification of current US regulatory and market status, since all licenses are cancelled
+- Clarification of current US regulatory and market status, since the drug is marketed with 12 valid licenses
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

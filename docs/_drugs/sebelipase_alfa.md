@@ -4,7 +4,7 @@ title: Sebelipase Alfa
 parent: Model Prediction Only (L5)
 nav_order: 1146
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
 description: "Sebelipase Alfa: predicted new indication Scheie syndrome (evidence level L5). Approved use: Wolman disease, lysosomal acid lipase deficiency…"
 monitor_inn: "SEBELIPASE ALFA"
@@ -14,7 +14,7 @@ predicted_indications: ["Scheie syndrome", "Hurler syndrome", "growth hormone in
 # Sebelipase Alfa
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Sebelipase Alfa: From Lysosomal Acid Lipase Deficiency to Cholesteryl Ester Storage Disease
+## Sebelipase Alfa: From Lysosomal Acid Lipase Deficiency to Scheie syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -49,10 +49,10 @@ The TxGNN model's top-ranked predictions are mostly unsupported, but the best-ev
 |------|------|
 | Original Indication | Wolman disease, lysosomal acid lipase deficiency, lysosomal lipid storage disorder (the US license record has no indication text) |
 | Predicted New Indication | Scheie syndrome (TxGNN rank 1); best-supported prediction: cholesteryl ester storage disease (rank 4) |
-| TxGNN Prediction Score | 99.80% (Scheie syndrome); 99.72% (cholesteryl ester storage disease) |
+| TxGNN Prediction Score | 0.9980 (Scheie syndrome); 0.9972 (cholesteryl ester storage disease) |
 | Evidence Level | L5 for Scheie syndrome; L1 for cholesteryl ester storage disease |
-| US Market Status | Cancelled only (1 license, cancelled) |
-| Number of NDAs | 1 (BLA125561) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold for Scheie syndrome; Proceed with Guardrails for cholesteryl ester storage disease |
 
 ---
@@ -65,7 +65,7 @@ Detailed mechanism-of-action data is not available in the data compiled for this
 
 **Best-supported prediction (cholesteryl ester storage disease):** CESD is the later-onset, attenuated form of LAL-D, the drug's own approved indication. Enzyme replacement directly addresses the underlying defect. The same applies to rank 5, "Wolman disease with hypolipoproteinemia and acanthocytosis", which corresponds to the severe infantile form of LAL-D.
 
-**Other predictions** (Hurler syndrome, Gaucher disease, Tay-Sachs disease, the STAT5B-related growth hormone insensitivity syndrome, ichthyosis syndrome, skeletal-involvement lysosomal storage disease, benign adrenal neoplasm) have no plausible enzyme-replacement rationale. They likely reflect graph artifacts or shared lysosomal annotation. The only linked trial for several of them is a multi-disorder prenatal enzyme replacement platform study.
+**Other predictions** (Hurler syndrome, Gaucher disease, Tay-Sachs disease, the STAT5B-related growth hormone insensitivity syndrome, ichthyosis syndrome, skeletal-involvement lysosomal storage disease, benign adrenal neoplasm) have no plausible enzyme-replacement rationale. Their scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The only linked trial for several of them is a multi-disorder prenatal enzyme replacement platform study.
 
 ---
 
@@ -113,7 +113,7 @@ The literature linked to Gaucher disease concerns Wolman disease treatment, diag
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA125561 | KANUMA (Alexion Pharmaceuticals, Inc.) | Injection, solution, concentrate | Not stated in the data compiled; license status: cancelled |
+| BLA125561 | KANUMA (Alexion Pharmaceuticals, Inc.) | Injection, solution, concentrate | Not stated in the data compiled; license status: valid |
 
 ---
 

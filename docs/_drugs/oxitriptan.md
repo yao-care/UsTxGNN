@@ -48,17 +48,17 @@ Currently there are **0 clinical trials** and **0 publications** supporting this
 |------|------|
 | Original Indication | No approved indication text available |
 | Predicted New Indication | Insomnia |
-| TxGNN Prediction Score | 99.89% |
+| TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available. Based on general biochemistry, oxitriptan is the direct intermediate between tryptophan and serotonin. Serotonin is in turn a precursor of melatonin, so a plausible path to sleep regulation exists (5-HTP → serotonin → melatonin, plus serotonergic modulation of sleep-wake circuits).
 
-The original indication is not documented in the compiled data, so the relationship between the original and new indication cannot be assessed. The link to insomnia rests on this biochemical reasoning and the high TxGNN score (0.999), not on retrieved clinical or literature evidence.
+The original indication is not documented in the compiled data, so the relationship between the original and new indication cannot be assessed. The link to insomnia rests on this biochemical reasoning and the high TxGNN score (0.9989), not on retrieved clinical or literature evidence.
 
 Serotonergic effects on sleep are also complex. Depending on dose, timing, and receptor subtype they can either promote or disrupt sleep, so the direction of benefit is uncertain.
 

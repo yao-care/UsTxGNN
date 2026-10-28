@@ -4,17 +4,17 @@ title: Golodirsen
 parent: Model Prediction Only (L5)
 nav_order: 759
 evidence_level: L5
-indication_count: 4
+indication_count: 3
 last_modified_at: 2026-10-14
-description: "Golodirsen: predicted new indication Distal myopathy, Welander type (evidence level L5). Approved use: Duchenne muscular dystrophy"
 monitor_inn: "GOLODIRSEN"
 predicted_indications: ["distal myopathy, Welander type", "nebulin-related early-onset distal myopathy", "X-linked myopathy with postural muscle atrophy"]
+description: "Golodirsen: predicted new indication Distal myopathy, Welander type (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Golodirsen
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **4** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-## Golodirsen: From Duchenne Muscular Dystrophy to Distal Myopathy, Welander Type
+## Golodirsen: Distal myopathy, Welander type
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 
 | Item | Content |
 |------|------|
-| Original Indication | Duchenne muscular dystrophy (the US license record has no approved indication text; this comes from the knowledge graph) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Distal myopathy, Welander type |
-| TxGNN Prediction Score | 99.11% |
+| TxGNN Prediction Score | 0.9911 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -62,9 +62,8 @@ Welander distal myopathy is linked to a founder variant in TIA1, a gene involved
 
 The other top predictions are also weak. Each lacks trials and literature:
 
-- **Nebulin-related early-onset distal myopathy** (score 99.07%): caused by NEB variants affecting thin filament function, with no exon 53 target.
-- **Obsolete autosomal dominant limb-girdle muscular dystrophy type 1C** (score 99.04%): linked to CAV3 variants. There is loose conceptual proximity to dystrophin-related membrane biology, but the disease is typically dominant-negative, and the disease term is obsolete, which lowers reliability.
-- **X-linked myopathy with postural muscle atrophy** (score 99.02%): linked to VMA21 and autophagy dysfunction, with no plausible basis for golodirsen.
+- **Nebulin-related early-onset distal myopathy** (score 0.9907): caused by NEB variants affecting thin filament function, with no exon 53 target.
+- **X-linked myopathy with postural muscle atrophy** (score 0.9902): linked to VMA21 and autophagy dysfunction, with no plausible basis for golodirsen.
 
 ## Clinical Trial Evidence
 
@@ -78,7 +77,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA211970 | Vyondys 53 | Injection | Not listed in the compiled data (status: cancelled; manufacturer: Sarepta Therapeutics, Inc.) |
+| NDA211970 | Vyondys 53 | Injection | Not listed in the compiled data (status: valid; manufacturer: Sarepta Therapeutics, Inc.) |
 
 ## Safety Considerations
 

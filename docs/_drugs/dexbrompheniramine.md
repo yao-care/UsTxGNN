@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Dexbrompheniramine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 591
-evidence_level: L4
-indication_count: 7
+evidence_level: L5
+indication_count: 5
 last_modified_at: 2026-10-14
-description: "Dexbrompheniramine: predicted new indication Allergic urticaria (evidence level L4). Approved use: Allergic rhinitis"
 monitor_inn: "DEXBROMPHENIRAMINE"
 predicted_indications: ["recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "nasal cavity disease", "acute laryngopharyngitis", "pharyngitis"]
+description: "Dexbrompheniramine: predicted new indication Recalcitrant atopic dermatitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Dexbrompheniramine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **7** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,25 +33,24 @@ Evidence Level: **L4** | Predicted Indications: **7**
 
 </div>
 
-## Dexbrompheniramine: From Allergic Rhinitis to Allergic Urticaria
+## Dexbrompheniramine: Recalcitrant atopic dermatitis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Dexbrompheniramine is a first-generation H1-antihistamine, originally used for allergic and vasomotor rhinitis, allergic conjunctivitis, urticaria and angioedema.
-The TxGNN model predicts it may be effective for **Allergic Urticaria**, but there are currently **0 clinical trials** and **0 publications** supporting this direction.
 Allergic urticaria is a subtype of an already established indication (urticaria), so this is not a true repurposing target.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Allergic rhinitis (other listed uses: vasomotor rhinitis, atopic/papillary/vernal conjunctivitis, familial dermatographia, urticaria, angioedema) |
-| Predicted New Indication | Allergic urticaria |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 1 (cancelled) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Recalcitrant atopic dermatitis |
+| TxGNN Prediction Score | 0.9964 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -64,12 +63,11 @@ Urticaria is already among the drug's original indications, so allergic urticari
 
 | Rank | Predicted Indication | TxGNN Score | Evidence Level | Assessment |
 |------|------|------|------|------|
-| 2 | Cold urticaria | 99.97% | L4 | Mast-cell histamine release makes H1 blockade plausible and antihistamines are usual first-line therapy, but no drug-specific data; newer non-sedating agents are preferred |
-| 3 | Recalcitrant atopic dermatitis | 99.64% | L5 | Benefit limited to sedation reducing night-time itch; disease is driven by IL-4/IL-13/IL-31 pathways that H1 blockade does not address |
-| 4 | IgE responsiveness, atopic | 99.63% | L5 | A trait rather than a treatable disease; symptomatic relief only |
-| 5 | Nasal cavity disease | 99.34% | L4 | Broad category; mostly overlaps with labeled rhinitis uses |
-| 6 | Acute laryngopharyngitis | 99.33% | L5 | Usually infectious; no clear mechanism, and anticholinergic drying could worsen throat irritation |
-| 7 | Pharyngitis | 99.23% | L5 | Mostly viral or bacterial; any benefit would be indirect |
+| 3 | Recalcitrant atopic dermatitis | 0.9964 | L5 | Benefit limited to sedation reducing night-time itch; disease is driven by IL-4/IL-13/IL-31 pathways that H1 blockade does not address |
+| 4 | IgE responsiveness, atopic | 0.9963 | L5 | A trait rather than a treatable disease; symptomatic relief only |
+| 5 | Nasal cavity disease | 0.9934 | L5 | Broad category; mostly overlaps with labeled rhinitis uses |
+| 6 | Acute laryngopharyngitis | 0.9933 | L5 | Usually infectious; no clear mechanism, and anticholinergic drying could worsen throat irritation |
+| 7 | Pharyngitis | 0.9923 | L5 | Mostly viral or bacterial; any benefit would be indirect |
 
 ## Clinical Trial Evidence
 

@@ -4,7 +4,7 @@ title: Felodipine
 parent: Model Prediction Only (L5)
 nav_order: 696
 evidence_level: L5
-indication_count: 7
+indication_count: 5
 last_modified_at: 2026-10-14
 description: "Felodipine: predicted new indication Pulmonary hypertension with unclear multifactorial mechanism (evidence level L5). Approved use: Hypertension (hypertensive disorder)"
 monitor_inn: "FELODIPINE"
@@ -14,7 +14,7 @@ predicted_indications: ["pulmonary hypertension with unclear multifactorial mech
 # Felodipine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **7** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,13 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-## Felodipine: From Hypertension to Pulmonary Hypertension (Multifactorial Mechanism)
+## Felodipine: From Hypertension to Pulmonary Hypertension with Unclear Multifactorial Mechanism
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Felodipine is a dihydropyridine calcium channel blocker originally used to treat hypertension.
 The TxGNN model's top-ranked prediction is **pulmonary hypertension with unclear multifactorial mechanism**, but there are **0 clinical trials** and **0 publications** supporting this specific prediction.
-The best-supported alternative among the predictions is **Prinzmetal angina**, with **7 publications** (small clinical studies and reviews) and no registered trials.
 
 ## Quick Overview
 
@@ -48,9 +47,9 @@ The best-supported alternative among the predictions is **Prinzmetal angina**, w
 |------|------|
 | Original Indication | Hypertension (hypertensive disorder); no approved indication text is available in the US license records |
 | Predicted New Indication | Pulmonary hypertension with unclear multifactorial mechanism |
-| TxGNN Prediction Score | 99.91% |
+| TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all licenses cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 6) |
 | Number of NDAs | 6 (all ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
@@ -93,7 +92,7 @@ The preclinical papers on hypoxia (rat aorta, atrial muscle, cerebral arteries a
 
 ## US Market Information
 
-All six US authorizations are cancelled. No approved indication text is recorded for them.
+Six US authorizations are valid. No approved indication text is recorded for them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -116,14 +115,14 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction, pulmonary hypertension with unclear multifactorial mechanism, is supported only by the model score (L5). There are no trials or literature, and the heterogeneous cause makes a single mechanism unlikely to apply broadly. All six US licenses are cancelled, which further limits availability. Prinzmetal angina has the strongest supporting literature (L3, small and dated studies), but calcium channel blockers are already established there, so it is better treated as a research question than a repurposing priority.
+The top-ranked prediction, pulmonary hypertension with unclear multifactorial mechanism, is supported only by the model score (L5). There are no trials or literature, and the heterogeneous cause makes a single mechanism unlikely to apply broadly. Six US licenses are valid.
 
 **To proceed, the following is needed:**
 - Obtain the FDA package insert to confirm warnings, contraindications and approved indications (a blocking gap for safety screening)
 - Obtain detailed mechanism of action data from DrugBank
 - Direct preclinical or clinical evidence of felodipine in pulmonary hypertension, particularly in pulmonary vascular models
 - Assessment of ventilation-perfusion risk in hypoxic lung disease
-- Confirmation of current product availability, since all US licenses are cancelled
+- Confirmation of current product availability
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

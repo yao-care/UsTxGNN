@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Antimony Trisulfide Iris Germanica Root Pulsatilla
@@ -49,7 +50,8 @@ This product is a multi-component homeopathic/herbal mixture (containing Antimon
 | Predicted new indications | None (TxGNN generated no predictions) |
 | TxGNN prediction score | None |
 | Evidence level | L5 (model unable to assess) |
-| US market status | Not marketed |
+| US market status | Marketed (valid licenses on record: at least 6) |
+| Number of NDAs | at least 6 |
 | NDA count | 0 |
 | Recommended decision | **Hold** |
 

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Clopidogrel
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 542
-evidence_level: L2
-indication_count: 8
+evidence_level: L5
+indication_count: 7
 monitor_inn: "CLOPIDOGREL"
-predicted_indications: ["migraine with brainstem aura", "migraine disorder", "osteoarthritis", "tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "rheumatoid arthritis", "osteoarthritis susceptibility"]
+predicted_indications: ["migraine with brainstem aura", "migraine disorder", "osteoarthritis", "tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "rheumatoid arthritis"]
 last_modified_at: 2026-10-14
-description: "Clopidogrel: predicted new indication Migraine disorder (evidence level L2). Approved use: Acute coronary syndrome, intracranial embolism…"
+description: "Clopidogrel: predicted new indication Migraine with brainstem aura (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Clopidogrel
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **8** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L2** | Predicted Indications: **8**
 
 </div>
 
-## Clopidogrel: From Acute Coronary Syndrome to Migraine Disorder
+## Clopidogrel: Migraine with brainstem aura
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,11 +48,11 @@ with **6 clinical trials** (3 directly relevant to clopidogrel) and **22 publica
 
 | Item | Content |
 |------|------|
-| Original Indication | Acute coronary syndrome, intracranial embolism, ST-elevation myocardial infarction (no approved-indication text is available in the US license records) |
-| Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.44% |
-| Evidence Level | L2 |
-| US Market Status | Cancelled only (all 9 listed authorizations are cancelled) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Migraine with brainstem aura |
+| TxGNN Prediction Score | 0.9944 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 9) |
 | Number of NDAs | 9 authorizations (1 NDA, 8 ANDAs) |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -104,7 +104,6 @@ No clinical trials are registered for the top-ranked prediction (migraine with b
 
 ## US Market Information
 
-All 9 authorizations are listed as cancelled, and no approved-indication text is available in the data compiled for this report.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -134,13 +133,11 @@ Please refer to the package insert for the formal warnings and contraindications
 
 | Predicted Indication | TxGNN Score | Evidence Level | Assessment |
 |---------|------|------|------|
-| Migraine with brainstem aura | 99.44% | L3 | Support comes from migraine with aura and PFO, not this subtype; no registered trials |
-| Osteoarthritis | 99.25% | L4 | No mechanistic rationale; ticagrelor was linked to lower OA risk than clopidogrel, so clopidogrel is only a comparator. Hold |
-| Tendinitis | 99.17% | L5 | Prediction only. Hold |
-| Idiopathic granulomatous myositis | 99.13% | L5 | Prediction only. Hold |
-| Myositis fibrosa | 99.13% | L5 | Prediction only; identical score to the previous entry suggests a shared graph association. Hold |
-| Rheumatoid arthritis | 99.03% | L4 | Weak hypothetical rationale; literature mainly reports possible harm (clopidogrel-associated inflammatory arthritis). Hold |
-| Osteoarthritis susceptibility | 99.01% | L5 | Prediction only; not a treatable indication. Hold |
+| Migraine with brainstem aura | 0.9944 | L5 | Support comes from migraine with aura and PFO, not this subtype; no registered trials |
+| Osteoarthritis | 0.9925 | L4 | No mechanistic rationale; ticagrelor was linked to lower OA risk than clopidogrel, so clopidogrel is only a comparator. Hold |
+| Tendinitis | 0.9917 | L5 | Prediction only. Hold |
+| Idiopathic granulomatous myositis | 0.9913 | L5 | Prediction only. Hold |
+| Rheumatoid arthritis | 0.9903 | L4 | Weak hypothetical rationale; literature mainly reports possible harm (clopidogrel-associated inflammatory arthritis). Hold |
 
 ---
 
@@ -149,7 +146,7 @@ Please refer to the package insert for the formal warnings and contraindications
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Migraine disorder has the strongest support, with a completed Phase 4 randomized trial (CANOA) and a pilot RCT of clopidogrel, plus a recent multicentre RCT of antithrombotic treatment in PFO-related migraine. The benefit is confined to patients with PFO or other right-to-left shunts, and no Phase 3 trial tests clopidogrel for migraine itself. The 100 documented drug interactions and bleeding risk require careful patient selection. All US authorizations are currently cancelled.
+Migraine disorder has the strongest support, with a completed Phase 4 randomized trial (CANOA) and a pilot RCT of clopidogrel, plus a recent multicentre RCT of antithrombotic treatment in PFO-related migraine. The benefit is confined to patients with PFO or other right-to-left shunts, and no Phase 3 trial tests clopidogrel for migraine itself. The 100 documented drug interactions and bleeding risk require careful patient selection.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking data gap for safety screening)

@@ -4,17 +4,17 @@ title: Amiloride
 parent: Model Prediction Only (L5)
 nav_order: 326
 evidence_level: L5
-indication_count: 6
-last_modified_at: 2026-10-14
-description: "Amiloride: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Hypertensive disorder, hypertension, congestive heart failure"
+indication_count: 5
 monitor_inn: "AMILORIDE"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease"]
+last_modified_at: 2026-10-27
+description: "Amiloride: predicted new indication malignant hypertensive renal disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Amiloride
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,107 +33,74 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-## Amiloride: From Hypertension to Malignant Hypertensive Renal Disease
+## Amiloride: potassium-sparing diuretic (ENaC blocker) → malignant hypertensive renal disease (malignant hypertensive renal disease)
+{: .text-alpha }
+
+Wait — the page language is English, so the name is written once without parentheses.
+
+## Amiloride: potassium-sparing diuretic (ENaC blocker) → malignant hypertensive renal disease
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Amiloride is a potassium-sparing diuretic originally used for hypertension and congestive heart failure.
-The TxGNN model predicts it may be effective for **malignant hypertensive renal disease**,
-but **0 clinical trials** and **0 publications** currently support this specific prediction, so it rests on model output alone.
-
----
+Amiloride is an oral potassium-sparing diuretic that blocks the epithelial sodium channel (ENaC).
+The TxGNN model predicts it may be useful for **malignant hypertensive renal disease**.
+No clinical trials or publications were found for this disease, so the support is **model prediction only**.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertensive disorder, hypertension, congestive heart failure |
-| Predicted New Indication | Malignant hypertensive renal disease |
-| TxGNN Prediction Score | 99.82% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | malignant hypertensive renal disease |
+| TxGNN Prediction Score | 0.9982 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid authorizations) |
-| Number of NDAs | 3 (all cancelled) |
+| US Market Status | Marketed (valid licenses: 3 of 3) |
+| Number of NDAs | 3 (valid: 3) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Amiloride blocks the epithelial sodium channel (ENaC) in the distal nephron. This reduces sodium reabsorption and helps lower blood pressure. Detailed mechanism-of-action data is not available in the data compiled for this report, so this description reflects the commonly known pharmacology of the drug.
+Detailed mechanism-of-action data are not available in the data compiled for this report. Based on general pharmacology, amiloride blocks ENaC in the distal nephron, which reduces sodium reabsorption and lowers blood pressure while sparing potassium.
 
-The original indications (hypertension and heart failure) are closely related to hypertensive renal disease, since sustained high blood pressure damages the kidney. Mechanistically, a drug that controls sodium and volume-dependent hypertension could plausibly help here.
-
-The very high TxGNN score (0.998) is probably driven by the similarity to the existing hypertension indication. It is a computational prediction only. No trials or literature were found for the malignant or renal-injury phenotype, and malignant hypertension is an acute, severe condition that is not typically managed with a mild diuretic like amiloride.
-
-Other predictions in the same set are weaker or equally unsupported:
-
-- **Malignant renovascular hypertension** (score 99.82%): Only one paper was retrieved, a 2003 review on investigating mineralocorticoid hypertension. It does not test amiloride, so the link is indirect. Evidence level L5, Hold.
-- **Pulmonary hypertension owing to lung disease and/or hypoxia** (score 99.81%): Preclinical and mechanistic papers suggest a plausible link. Hypoxia downregulates alveolar sodium channels, and ASIC1 is implicated in hypoxic pulmonary hypertension. No paper shows clinical efficacy of amiloride, and many retrieved papers are off-topic. Evidence level L4, Research Question.
-- **Chronic pulmonary heart disease** (score 99.68%): Two small heart-failure studies of amiloride exist, but they address general or left-sided heart failure rather than cor pulmonale. Evidence level L4, Research Question.
-- **Pulmonary hypertension with unclear multifactorial mechanism** and **Braddock syndrome**: No trials, literature or clear rationale. Evidence level L5, Hold.
-
----
+Malignant hypertensive renal disease is kidney injury driven by severe, uncontrolled hypertension. Blood-pressure and volume reduction through sodium handling is biologically plausible here. However, no trial or publication examines amiloride in this severe renal phenotype. The high score (0.9982) most likely reflects similarity to amiloride's existing blood-pressure uses and should be treated as a computational prediction only.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-No literature is available for the top predicted indication. The closest supporting papers for the related predictions are:
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [1888694](https://pubmed.ncbi.nlm.nih.gov/1888694/) | 1991 | Clinical study (double-blind crossover) | Cardiovasc Drugs Ther | Amiloride improved hemodynamics in 11 patients with chronic heart failure on digoxin and diuretics |
-| [2888942](https://pubmed.ncbi.nlm.nih.gov/2888942/) | 1987 | RCT | Lancet | Captopril alone vs frusemide plus amiloride in mild heart failure (14 patients); 4 of 14 on captopril alone deteriorated |
-| [25398716](https://pubmed.ncbi.nlm.nih.gov/25398716/) | 2015 | Review | Exp Physiol | Smooth muscle ASIC1 is implicated in hypoxic pulmonary hypertension |
-| [9376126](https://pubmed.ncbi.nlm.nih.gov/9376126/) | 1997 | Preclinical (cell) | Am J Respir Cell Mol Biol | Hypoxia reduced amiloride-sensitive sodium channel activity in rat alveolar cells |
-| [15219007](https://pubmed.ncbi.nlm.nih.gov/15219007/) | 2004 | Observational human physiology | Eur Respir J | High altitude impaired nasal sodium transport in HAPE-prone subjects |
-| [16222038](https://pubmed.ncbi.nlm.nih.gov/16222038/) | 2005 | Review | Proc Am Thorac Soc | Effects of hypoxia on alveolar epithelial function |
-| [12929904](https://pubmed.ncbi.nlm.nih.gov/12929904/) | 2003 | Review | J Hypertens Suppl | Diagnostic work-up of mineralocorticoid hypertension; does not test amiloride |
-| [8615380](https://pubmed.ncbi.nlm.nih.gov/8615380/) | 1996 | Case report | Am J Med Sci | Severe hyperkalemia (K 9.3 mEq/L) in a geriatric patient on trimethoprim-sulfamethoxazole; a hyperkalemia risk to consider |
-
----
+Currently no related literature available.
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA070346 | Amiloride Hydrochloride (Bryant Ranch Prepack) | Tablet | Not available (cancelled) |
-| ANDA079133 | Amiloride Hydrochloride (Sigmapharm Laboratories) | Tablet | Not available (cancelled) |
-| NDA018200 | Amiloride hydrochloride (Padagis US) | Tablet | Not available (cancelled) |
+| NDA018200 | amiloride hydrochloride (Padagis US LLC) | Tablet | Not recorded |
+| ANDA079133 | Amiloride Hydrochloride (Sigmapharm Laboratories, LLC) | Tablet | Not recorded |
+| ANDA070346 | Amiloride Hydrochloride (Bryant Ranch Prepack) | Tablet | Not recorded |
 
-All three authorizations are cancelled, so amiloride currently has no valid US marketing authorization in the data compiled for this report.
-
----
+All three records are single-ingredient oral tablets.
 
 ## Safety Considerations
 
-- **Contraindications suggested by the knowledge graph** (not label text): kidney disease, anuria, diabetic nephropathy, diabetes mellitus, diabetic ketoacidosis, liver disease, hepatic coma and encephalopathy, pancreatitis, gallbladder disease, gout, hyperuricemia, acidosis (including lactic acidosis), potassium deficiency disease, hyperparathyroidism, osteitis fibrosa, systemic lupus erythematosus (including pediatric), pyoureter, and neonatal jaundice. Several of these, especially kidney disease and diabetic nephropathy, overlap with the proposed renal indication and need careful review.
-- **Drug Interactions**: 100 interactions were found. Most of those listed are Moderate, including corticosteroids (hydrocortisone, betamethasone, budesonide, dexamethasone), metformin, SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin), exenatide, bupropion, dronabinol, and laxatives (bisacodyl, castor oil, glycerin, lactitol, lactulose). Minor interactions include doxycycline, amoxicillin and cimetidine.
-- **Hyperkalemia risk**: A case report describes severe hyperkalemia with trimethoprim-sulfamethoxazole. This is a general concern for potassium-sparing diuretics, particularly in patients with impaired kidney function.
+- **Drug Interactions**: 100 interactions were found in the interaction database. Examples at moderate level include hydrocortisone, betamethasone, dexamethasone, budesonide, metformin, bupropion, and the SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin). Minor-level examples include doxycycline, amoxicillin, and cimetidine.
+- **Hyperkalemia risk**: A published case report (PMID 8615380) describes severe hyperkalemia with trimethoprim-sulfamethoxazole in an elderly heart-failure patient. Potassium monitoring is important with potassium-sparing diuretics.
 
-Please refer to the package insert for official warnings, as label-based warnings were not available in the data compiled for this report.
-
----
+Please refer to the package insert for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction for malignant hypertensive renal disease rests only on a TxGNN score, with no trials or literature (Evidence Level L5). Amiloride also has no valid US authorization in the compiled data, and the knowledge graph lists kidney disease and diabetic nephropathy as contraindications, which conflicts with a renal indication. Of the related predictions, pulmonary hypertension owing to lung disease/hypoxia and chronic pulmonary heart disease (both L4) are better framed as research questions than as repurposing candidates.
+The prediction for malignant hypertensive renal disease has a very high model score but no trials or publications, so the evidence is at L5. The mechanism is plausible but untested in this setting.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications (currently a blocking gap for safety screening)
-- Detailed mechanism of action data
-- Clinical or well-designed preclinical evidence of amiloride in malignant hypertensive renal disease or hypertensive nephropathy
-- A kidney-specific safety assessment, particularly for hyperkalemia and use in impaired renal function
-- Confirmation of current US regulatory and commercial availability
-- If pursuing the pulmonary hypertension direction, targeted preclinical studies of ENaC/ASIC1/NHE1 inhibition in pulmonary vascular models
+- Targeted literature and trial searches on amiloride in malignant or severe hypertensive nephropathy
+- Mechanism-of-action data and the package insert warnings and contraindications
+- A renal and potassium safety assessment, since hyperkalemia risk is especially relevant in kidney disease
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

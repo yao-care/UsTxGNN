@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Miconazole
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 925
-evidence_level: L5
+evidence_level: L3
 indication_count: 1
 monitor_inn: "MICONAZOLE"
 predicted_indications: ["acne (disease)"]
 last_modified_at: 2026-10-14
-description: "Miconazole: predicted new indication Acne (disease) (evidence level L5). Approved use: Tinea pedis, tinea corporis, cutaneous candidiasis…"
+description: "Miconazole: predicted new indication Acne (disease) (evidence level L3). Approved use: Not recorded in the local data"
 ---
 
 # Miconazole
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **1** 
+Evidence Level: **L3** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-## Miconazole: From Superficial Fungal Skin Infections to Acne
+## Miconazole: Acne (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,11 +45,11 @@ The TxGNN model predicts it may be effective for **acne**, with **0 registered c
 
 | Item | Content |
 |------|------|
-| Original Indication | Tinea pedis, tinea corporis, cutaneous candidiasis, vulvovaginal candidiasis and other superficial fungal infections (based on the knowledge-graph indication list; no approved-indication text is available in the license records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Acne (disease) |
-| TxGNN Prediction Score | 99.54% |
+| TxGNN Prediction Score | 0.9954 |
 | Evidence Level | L3 (observational or small clinical studies and a review only; no completed Phase 2/3 RCTs) |
-| US Market Status | Cancelled only (all licenses cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 6) |
 | Number of NDAs | 6 (all cancelled; the records are ANDA or other license numbers) |
 | Recommended Decision | Hold |
 
@@ -81,13 +81,13 @@ Currently no related clinical trials registered.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| M005 | MICONAZOLE Nitrate 2% | Cream | Not stated (cancelled) |
-| ANDA076773 | Miconazole 3 | Cream | Not stated (cancelled) |
-| ANDA074760 | good sense miconazole 7 | Cream | Not stated (cancelled) |
-| ANDA073508 | Miconazole Nitrate | Suppository | Not stated (cancelled) |
-| ANDA091366 | basic care miconazole 3 | Cream | Not stated (cancelled) |
+| M005 | MICONAZOLE Nitrate 2% | Cream | Not stated (valid) |
+| ANDA076773 | Miconazole 3 | Cream | Not stated (valid) |
+| ANDA074760 | good sense miconazole 7 | Cream | Not stated (valid) |
+| ANDA073508 | Miconazole Nitrate | Suppository | Not stated (valid) |
+| ANDA091366 | basic care miconazole 3 | Cream | Not stated (valid) |
 
-All six licenses on record are cancelled; a sixth, ANDA074444 (Miconazole 7, cream), is not listed above.
+All six licenses on record are valid; a sixth, ANDA074444 (Miconazole 7, cream), is not listed above.
 
 ## Safety Considerations
 
@@ -101,7 +101,7 @@ Please refer to the package insert for warnings and contraindications from the l
 **Decision: Hold**
 
 **Rationale:**
-The evidence for acne is weak: no registered trials, one small split-face study, and supporting data that are in vitro or in a look-alike condition (Malassezia folliculitis). All US licenses are cancelled, and the label safety information has not been reviewed. The high TxGNN score alone does not justify advancing.
+The evidence for acne is weak: no registered trials, one small split-face study, and supporting data that are in vitro or in a look-alike condition (Malassezia folliculitis). The drug is marketed in the US with six valid licenses, and the label safety information has not been reviewed. The high TxGNN score alone does not justify advancing.
 
 **To proceed, the following is needed:**
 - Review of the FDA package insert for warnings and contraindications (a blocking gap for safety screening)

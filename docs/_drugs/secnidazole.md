@@ -47,17 +47,17 @@ The TxGNN model predicts it may be effective for **postmenopausal atrophic vagin
 |------|------|
 | Original Indication | Bacterial vaginosis, trichomoniasis, giardiasis, vaginitis, vulvitis, vulvovaginitis |
 | Predicted New Indication | Postmenopausal atrophic vaginitis |
-| TxGNN Prediction Score | 99.70% |
+| TxGNN Prediction Score | 0.9970 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no active license) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the compiled data. Secnidazole belongs to the 5-nitroimidazole class. In anaerobic bacteria and protozoa, its nitro group is reduced to radicals that damage DNA. Its efficacy in bacterial vaginosis and trichomoniasis is established.
 
-The mechanistic link to the predicted indication is weak. Postmenopausal atrophic vaginitis is driven mainly by estrogen deficiency rather than infection. An antimicrobial would not be expected to address the underlying cause. The high score most likely reflects network proximity to the approved vaginitis and vulvovaginitis indications in the knowledge graph, not a true therapeutic relationship. This prediction should therefore be treated as a model artifact until shown otherwise.
+The mechanistic link to the predicted indication is weak. Postmenopausal atrophic vaginitis is driven mainly by estrogen deficiency rather than infection. An antimicrobial would not be expected to address the underlying cause. The high score comes from the TxGNN model (deep learning) and most likely reflects similarities the model learned between related diseases, such as the approved vaginitis and vulvovaginitis indications, not biological evidence or a true therapeutic relationship. This prediction should therefore be treated as a model artifact until shown otherwise.
 
 ## Clinical Trial Evidence
 
@@ -71,7 +71,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA209363 | Solosec (status: cancelled) | Granule | Not specified in the compiled data |
+| NDA209363 | Solosec (status: valid) | Granule | Not specified in the compiled data |
 
 ## Safety Considerations
 
@@ -92,8 +92,8 @@ Please refer to the package insert for warnings and contraindications.
 The prediction has no clinical or literature support and no plausible mechanism, since atrophic vaginitis is hormone-driven rather than infectious. The product's only US license is cancelled.
 
 Other predictions in the same data are better supported, though they largely extend existing indications rather than being true repurposing:
-- **Vaginal discharge** (score 99.41%, L1, Proceed with Guardrails): supported by a completed Phase 3 placebo-controlled trial in trichomoniasis (NCT03935217, n=147), a Phase 3 trial in bacterial vaginosis (PMID 28867602), and a meta-analysis of single-dose secnidazole in bacterial vaginosis (PMID 31129560).
-- **Trichomonal vulvovaginitis** (score 99.37%, L1, Proceed with Guardrails): supported by a Phase 3 randomized trial (PMID 33768237).
+- **Vaginal discharge** (score 0.9941, L1, Proceed with Guardrails): supported by a completed Phase 3 placebo-controlled trial in trichomoniasis (NCT03935217, n=147), a Phase 3 trial in bacterial vaginosis (PMID 28867602), and a meta-analysis of single-dose secnidazole in bacterial vaginosis (PMID 31129560).
+- **Trichomonal vulvovaginitis** (score 0.9937, L1, Proceed with Guardrails): supported by a Phase 3 randomized trial (PMID 33768237).
 - **Ulceration of vulva, vulvar neoplasm, leukoplakia of vagina** (all L5, Hold): no evidence and no plausible mechanism.
 - **Vulvovaginal candidiasis** (L3, Research Question): secnidazole has no direct antifungal activity, and the only clinical signal comes from a fluconazole combination trial.
 

@@ -4,17 +4,17 @@ title: Lamotrigine
 parent: Model Prediction Only (L5)
 nav_order: 831
 evidence_level: L5
-indication_count: 9
+indication_count: 2
 last_modified_at: 2026-10-14
-description: "Lamotrigine: predicted new indication Trigeminal nerve neoplasm (evidence level L5). Approved use: Epilepsy, partial epilepsy, Lennox-Gastaut syndrome"
 monitor_inn: "LAMOTRIGINE"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
+description: "Lamotrigine: predicted new indication Trigeminal nerve neoplasm (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Lamotrigine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **9** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-## Lamotrigine: From Epilepsy to Trigeminal Nerve Neoplasm
+## Lamotrigine: Trigeminal nerve neoplasm
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,11 +48,11 @@ The prediction is therefore best treated as a model signal without direct suppor
 
 | Item | Content |
 |------|------|
-| Original Indication | Epilepsy, partial epilepsy, Lennox-Gastaut syndrome (from the knowledge graph; no approved-indication text is available in the US license records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Trigeminal nerve neoplasm |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 13) |
 | Number of NDAs | 13 licenses (1 NDA, 12 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
@@ -64,7 +64,7 @@ Detailed mechanism-of-action data for lamotrigine is not available in the compil
 
 The link to a trigeminal nerve neoplasm is weak. The supporting literature concerns **trigeminal neuralgia**, a facial pain syndrome, and a case report of Gamma Knife radiosurgery for neuralgia caused by a cavernous malformation. Neither studies lamotrigine as a treatment for a neoplasm.
 
-The high score most likely reflects graph proximity to trigeminal neuralgia. In that condition, sodium channel blockade may dampen ectopic firing of trigeminal nerve fibres and reduce neuropathic pain. It does not suggest anti-tumour activity.
+The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The model links the drug to trigeminal neuralgia, where sodium channel blockade may dampen ectopic firing of trigeminal nerve fibers and reduce neuropathic pain. It does not suggest anti-tumor activity.
 
 ---
 
@@ -91,11 +91,11 @@ All 13 US licenses for single-ingredient lamotrigine are cancelled. The records 
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| NDA 020764 | LAMICTAL | Tablet, for suspension | Cancelled |
-| ANDA 078947 | SUBVENITE | Tablet | Cancelled |
-| ANDA 206382 | Lamotrigine | Tablet, orally disintegrating | Cancelled |
-| ANDA 207497 | Lamotrigine | Tablet, film coated, extended release | Cancelled |
-| ANDA 213271 | Lamotrigine | Tablet, orally disintegrating | Cancelled |
+| NDA 020764 | LAMICTAL | Tablet, for suspension | Valid |
+| ANDA 078947 | SUBVENITE | Tablet | Valid |
+| ANDA 206382 | Lamotrigine | Tablet, orally disintegrating | Valid |
+| ANDA 207497 | Lamotrigine | Tablet, film coated, extended release | Valid |
+| ANDA 213271 | Lamotrigine | Tablet, orally disintegrating | Valid |
 
 All dosage forms are oral.
 
@@ -115,14 +115,14 @@ Label-based warnings and contraindications were not compiled for this report. Pl
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is very high, but there are no clinical trials and no literature showing lamotrigine activity against a trigeminal nerve neoplasm. The prediction appears to be driven by the drug's association with trigeminal neuralgia, which is a different condition. All US licenses are also cancelled.
+The TxGNN model (deep learning) score is very high (0.9997), but there are no clinical trials and no literature showing lamotrigine activity against a trigeminal nerve neoplasm. The score comes from the TxGNN model and may reflect similarities the model learned between related diseases, not biological evidence. The prediction appears to be driven by the drug's association with trigeminal neuralgia, which is a different condition. The drug is marketed, with 13 valid licenses.
 
 **To proceed, the following is needed:**
 - Preclinical or clinical evidence that lamotrigine has anti-tumour activity or symptomatic benefit in trigeminal nerve tumours
 - Detailed mechanism-of-action data
 - FDA package insert warnings and contraindications for a full safety screen
 
-**Note on other predictions for this drug:** The second-ranked prediction, **trigeminal neuralgia** (score 99.89%), has far stronger support. It has two completed small trials, NCT00913107 (Phase 2/3 versus carbamazepine, n=21) and NCT00203229 (placebo-controlled add-on study, n=20). Guidelines list lamotrigine as an alternative or add-on when carbamazepine fails or is not tolerated. This is a better candidate for follow-up. **Startle epilepsy** also has small case-series support for lamotrigine (Level L3).
+**Note on other predictions for this drug:** The second-ranked prediction, **trigeminal neuralgia** (score 0.9989), has far stronger support. It has two completed small trials, NCT00913107 (Phase 2/3 versus carbamazepine, n=21) and NCT00203229 (placebo-controlled add-on study, n=20). Guidelines list lamotrigine as an alternative or add-on when carbamazepine fails or is not tolerated. This is a better candidate for follow-up. **Startle epilepsy** also has small case-series support for lamotrigine (Level L3).
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -48,10 +48,10 @@ but **no clinical trials and no publications** currently support this direction.
 |------|------|
 | Original Indication | Cytomegalovirus infection |
 | Predicted New Indication | Vulvovaginal candidiasis |
-| TxGNN Prediction Score | 99.88% |
+| TxGNN Prediction Score | 0.9988 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid authorizations) |
-| Number of NDAs | 3 |
+| US Market Status | Marketed (valid licenses: 3 of 3) |
+| Number of NDAs | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 Cytomegalovirus infection is a viral disease, while vulvovaginal candidiasis is a fungal infection. There is no clear mechanistic path from a viral terminase inhibitor to antifungal activity against *Candida* species. Any link would have to be indirect, for example through changes in host immunity or the vaginal microbiome, and nothing in the compiled data supports this.
 
-The very high score (0.9988) is therefore best treated with caution. It may reflect a graph-based artifact, such as shared drug-interaction neighbours, or the co-occurrence of candidiasis with immunosuppressed transplant populations, which is the setting where letermovir is used.
+The very high score (0.9988) comes from the TxGNN model (deep learning) and is therefore best treated with caution. It may reflect similarities the model learned between related diseases, such as the co-occurrence of candidiasis with immunosuppressed transplant populations, which is the setting where letermovir is used, not biological evidence.
 
 ## Clinical Trial Evidence
 
@@ -74,9 +74,9 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA209939 | PREVYMIS | Tablet, film coated | Indication text not available (status: cancelled) |
-| NDA219104 | PREVYMIS | Pellet | Indication text not available (status: cancelled) |
-| NDA209940 | PREVYMIS | Injection, solution | Indication text not available (status: cancelled) |
+| NDA209939 | PREVYMIS | Tablet, film coated | Indication text not available (status: valid) |
+| NDA219104 | PREVYMIS | Pellet | Indication text not available (status: valid) |
+| NDA209940 | PREVYMIS | Injection, solution | Indication text not available (status: valid) |
 
 All three authorizations (manufacturer: Merck Sharp & Dohme LLC) are listed as cancelled in the compiled data. This status should be verified against current FDA records before any planning.
 

@@ -47,17 +47,17 @@ The TxGNN model predicts it may be effective for **methemoglobinemia**, but ther
 |------|------|
 | Original Indication | Local anaesthesia (e.g., dental surgery); no approved indication text is listed in the US licence data |
 | Predicted New Indication | Methemoglobinemia |
-| TxGNN Prediction Score | 99.50% |
+| TxGNN Prediction Score | 0.9950 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid licences) |
-| Number of NDAs | 2 (both cancelled) |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on pharmacology records, procaine is a local anaesthetic that is thought to act on ryanodine receptors (RYR1 and RYR2), although no publicly available bioactivity data confirm a primary target. Its general anaesthetic effect is commonly attributed to sodium-channel blockade.
 
-The prediction itself is hard to justify mechanistically. The available literature shows that procaine and related local anaesthetics (such as lignocaine) are more likely to **induce** methemoglobinemia than to treat it. This includes a case report of methemoglobinemia after intravenous procaine (1970) and a case report following lignocaine (1965). The high TxGNN score most likely reflects a drug-disease association in the knowledge graph, not a therapeutic relationship. Using procaine for this condition could worsen it.
+The prediction itself is hard to justify mechanistically. The available literature shows that procaine and related local anesthetics (such as lignocaine) are more likely to **induce** methemoglobinemia than to treat it. This includes a case report of methemoglobinemia after intravenous procaine (1970) and a case report following lignocaine (1965). The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence of a therapeutic relationship. Using procaine for this condition could worsen it.
 
 Other predictions in the list point the same way. Alpha-type methemoglobinemia and methemoglobin reductase deficiency are closely related conditions in which the same safety concern applies. Predictions with some indirect supporting literature, such as fibromyalgia (trigger-point or intradermal injection) and tendinitis (a 2022 neural therapy study in supraspinatus tendinopathy), are mechanistically more plausible and could be considered research questions instead.
 
@@ -79,8 +79,8 @@ Currently no related clinical trials registered.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| M017 | TXTK NUMB | Ointment | Not specified (cancelled) |
-| NDA050138 | BICILLIN C-R 900/300 | Injection, suspension | Not specified (cancelled) |
+| M017 | TXTK NUMB | Ointment | Not specified (valid) |
+| NDA050138 | BICILLIN C-R 900/300 | Injection, suspension | Not specified (valid) |
 
 ## Safety Considerations
 

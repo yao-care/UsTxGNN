@@ -49,10 +49,10 @@ Evidence Level: **L5** | Predicted Indications: **8**
 |------|------|
 | Original Indication | Not available in the compiled data (approved indication text is blank in all US licenses) |
 | Predicted New Indication | Primary cutaneous T-cell lymphoma |
-| TxGNN Prediction Score | 99.58% |
+| TxGNN Prediction Score | 0.9958 |
 | Evidence Level | L5 (model prediction only) |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 4 (all ANDA generic applications, all cancelled) |
+| US Market Status | Marketed (valid licenses: 4 of 4) |
+| Number of NDAs | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ---
@@ -63,7 +63,7 @@ Detailed mechanism of action data is not currently available. Based on known pha
 
 Glucocorticoids can induce apoptosis in lymphoid cells, and topical corticosteroids are used in early-stage cutaneous T-cell lymphoma. This offers a loose conceptual link. However, fludrocortisone's activity is mainly mineralocorticoid, and no data connect it to this disease. The high TxGNN score is a prediction only and has no clinical or literature support.
 
-Other top-ranked predictions (cystic teratoma, spinal cord dermoid cyst, dermoid cyst of ovary, exostosis) have no plausible mechanistic rationale and likely reflect knowledge-graph topology artifacts. The broad "eye disease" prediction has only limited preclinical support (see below).
+Other top-ranked predictions (cystic teratoma, spinal cord dermoid cyst, dermoid cyst of ovary, exostosis) have no plausible mechanistic rationale. Their scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The broad "eye disease" prediction has only limited preclinical support (see below).
 
 ---
 
@@ -98,10 +98,10 @@ Most other retrieved papers concern orthostatic hypotension, adrenal insufficien
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA040431 | Fludrocortisone Acetate (NCS HealthCare of KY, Vangard Labs) | Tablet | Not available (cancelled) |
-| ANDA215279 | Fludrocortisone Acetate (Novitium Pharma) | Tablet | Not available (cancelled) |
-| ANDA219251 | Fludrocortisone Acetate (Viona Pharmaceuticals) | Tablet | Not available (cancelled) |
-| ANDA040425 | Fludrocortisone Acetate (Bryant Ranch Prepack) | Tablet | Not available (cancelled) |
+| ANDA040431 | Fludrocortisone Acetate (NCS HealthCare of KY, Vangard Labs) | Tablet | Not available (valid) |
+| ANDA215279 | Fludrocortisone Acetate (Novitium Pharma) | Tablet | Not available (valid) |
+| ANDA219251 | Fludrocortisone Acetate (Viona Pharmaceuticals) | Tablet | Not available (valid) |
+| ANDA040425 | Fludrocortisone Acetate (Bryant Ranch Prepack) | Tablet | Not available (valid) |
 
 ---
 

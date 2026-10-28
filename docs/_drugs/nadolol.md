@@ -4,17 +4,17 @@ title: Nadolol
 parent: Model Prediction Only (L5)
 nav_order: 950
 evidence_level: L5
-indication_count: 5
+indication_count: 4
 last_modified_at: 2026-10-14
-description: "Nadolol: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Hypertension (hypertensive disorder)"
 monitor_inn: "NADOLOL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
+description: "Nadolol: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Nadolol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-## Nadolol: From Hypertension to Malignant Hypertensive Renal Disease
+## Nadolol: Malignant hypertensive renal disease
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ but **0 clinical trials** and **0 publications** currently support this specific
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension (hypertensive disorder) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Malignant hypertensive renal disease |
-| TxGNN Prediction Score | 99.59% |
+| TxGNN Prediction Score | 0.9959 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 6) |
 | Number of NDAs | 6 (all cancelled; listed under ANDA numbers) |
 | Recommended Decision | Hold |
 
@@ -58,7 +58,7 @@ but **0 clinical trials** and **0 publications** currently support this specific
 
 Currently, detailed mechanism of action data is not available. Based on known information, nadolol is a non-selective beta-adrenergic blocker, its efficacy in hypertension is established, and mechanistically it may be applicable to hypertension-related end-organ disease. Beta-blockade also reduces renin release from the kidney, which is relevant when the renin-angiotensin system is activated.
 
-Malignant hypertensive renal disease is a severe kidney complication of hypertension. The high TxGNN score most likely reflects how close this condition sits to the existing hypertension indication in the knowledge graph, rather than any independent evidence.
+Malignant hypertensive renal disease is a severe kidney complication of hypertension. The TxGNN model (deep learning) score of 0.9959 may reflect similarities the model learned between related diseases, not biological evidence.
 
 There is an important clinical caveat. In malignant hypertension, acute management typically relies on parenteral agents, and an oral beta-blocker would be adjunctive at most. The prediction is therefore plausible but unproven.
 
@@ -66,10 +66,9 @@ Other predictions from the same model (all L5, all Hold):
 
 | Predicted Indication | TxGNN Score | Evidence Available | Comment |
 |------|------|------|------|
-| Malignant renovascular hypertension | 99.59% | None | Plausible link through renin suppression |
-| Pulmonary hypertension owing to lung disease and/or hypoxia | 99.53% | 12 publications, all indirect (mostly preclinical) | No human evidence; beta-blockade may worsen bronchospasm and right ventricular function |
-| Pulmonary hypertension with unclear multifactorial mechanism | 99.53% | None | Beta-blockers are used cautiously in pulmonary hypertension |
-| Braddock syndrome | 99.43% | None | No mechanistic rationale; likely a knowledge-graph artifact |
+| Pulmonary hypertension owing to lung disease and/or hypoxia | 0.9953 | 12 publications, all indirect (mostly preclinical) | No human evidence; beta-blockade may worsen bronchospasm and right ventricular function |
+| Pulmonary hypertension with unclear multifactorial mechanism | 0.9953 | None | Beta-blockers are used cautiously in pulmonary hypertension |
+| Braddock syndrome | 0.9943 | None | No mechanistic rationale; likely a TxGNN model (deep learning) artifact |
 
 ## Clinical Trial Evidence
 
@@ -102,7 +101,7 @@ The remaining retrieved papers cover myocardial ischemia and arrhythmia models a
 | ANDA207761 (cancelled) | Nadolol (Zydus Lifesciences) | Tablet | Not available |
 | ANDA201893 (cancelled) | Nadolol (BluePoint Laboratories) | Tablet | Not available |
 
-A sixth license (ANDA208832, Amneal Pharmaceuticals NY LLC, tablet) is also cancelled. All six licenses are cancelled, and no valid license is currently on record.
+A sixth license (ANDA208832, Amneal Pharmaceuticals NY LLC, tablet) is also valid. Six valid licenses are currently on record, and the drug is marketed.
 
 ## Safety Considerations
 
@@ -127,13 +126,13 @@ Package insert warnings were not available, so please refer to the package inser
 **Decision: Hold**
 
 **Rationale:**
-The prediction is mechanistically plausible but has no supporting trials or literature (L5). Acute management of malignant hypertension relies on other agents, and all US licenses for nadolol are currently cancelled. Package insert safety data are also missing, and the knowledge graph flags kidney disease as a contraindication.
+The prediction is mechanistically plausible but has no supporting trials or literature (L5). Acute management of malignant hypertension relies on other agents, and nadolol is currently marketed in the US with 6 valid licenses. Package insert safety data are also missing, and the knowledge graph flags kidney disease as a contraindication.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data
 - Clinical evidence (trials, cohort studies or systematic reviews) of oral beta-blockers in malignant hypertensive nephropathy
-- Clarification of the US regulatory status, given that all licenses are cancelled
+- Clarification of the US regulatory status, given that the drug is marketed with 6 valid licenses
 - Safety assessment for renal impairment and for the pulmonary hypertension predictions
 ## Disclaimer
 

@@ -4,17 +4,17 @@ title: Losartan
 parent: Moderate Evidence (L3-L4)
 nav_order: 872
 evidence_level: L4
-indication_count: 8
+indication_count: 7
 last_modified_at: 2026-10-14
-description: "Losartan: predicted new indication Malignant hypertensive renal disease (evidence level L4). Approved use: Hypertension, hypertensive disorder, diabetic nephropathy"
 monitor_inn: "LOSARTAN"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "Prinzmetal angina", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies"]
+description: "Losartan: predicted new indication Malignant hypertensive renal disease (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Losartan
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **8** 
+Evidence Level: **L4** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **8**
 
 </div>
 
-## Losartan: From Hypertension to Malignant Hypertensive Renal Disease
+## Losartan: Malignant hypertensive renal disease
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ but the data compiled for this report show **0 clinical trials** and only **1 pu
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension, hypertensive disorder, diabetic nephropathy |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Malignant hypertensive renal disease |
-| TxGNN Prediction Score | 99.73% |
+| TxGNN Prediction Score | 0.9973 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid licenses in the compiled data) |
+| US Market Status | Marketed (valid licenses on record: at least 9) |
 | Number of NDAs | 9 (all cancelled; these are ANDAs) |
 | Recommended Decision | Hold |
 
@@ -66,13 +66,12 @@ Other predictions for this drug are weaker or more speculative:
 
 | Rank | Predicted Indication | TxGNN Score | Evidence Level | Note |
 |---|---|---|---|---|
-| 2 | Malignant renovascular hypertension | 99.73% | L4 | One case report (Takayasu's arteritis) and a rat methods chapter |
-| 3 | Pulmonary hypertension, unclear multifactorial mechanism | 99.71% | L5 | No trials or literature |
-| 4 | Pulmonary hypertension owing to lung disease/hypoxia | 99.71% | L4 | Mostly hypoxia physiology; one human study showed no effect on altitude sickness |
-| 5 | Braddock syndrome | 99.61% | L5 | No trials or literature |
-| 6 | Prinzmetal angina | 99.45% | L5 | No trials or literature |
-| 7 | Familial hematuria-retinal arteriolar tortuosity-contractures syndrome | 99.39% | L5 | No trials or literature |
-| 8 | Brain small vessel disease 1 | 99.37% | L4 | Preclinical and indirect clinical data; a research question |
+| 3 | Pulmonary hypertension, unclear multifactorial mechanism | 0.9971 | L5 | No trials or literature |
+| 4 | Pulmonary hypertension owing to lung disease/hypoxia | 0.9971 | L5 | Mostly hypoxia physiology; one human study showed no effect on altitude sickness |
+| 5 | Braddock syndrome | 0.9961 | L5 | No trials or literature |
+| 6 | Prinzmetal angina | 0.9945 | L5 | No trials or literature |
+| 7 | Familial hematuria-retinal arteriolar tortuosity-contractures syndrome | 0.9939 | L5 | No trials or literature |
+| 8 | Brain small vessel disease 1 | 0.9937 | L5 | Preclinical and indirect clinical data; a research question |
 
 ## Clinical Trial Evidence
 
@@ -86,7 +85,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All nine authorizations listed below are cancelled, and no approved indication text is available in the compiled data.
+Nine valid licenses are listed below, and no approved indication text is available in the compiled data.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -118,7 +117,7 @@ The only support for malignant hypertensive renal disease is a high TxGNN score 
 - Detailed mechanism of action data from DrugBank
 - Clinical data in patients with malignant hypertensive nephrosclerosis, such as retrospective cohorts or a pilot trial
 - Safety assessment of ARB use in renovascular disease, particularly bilateral renal artery stenosis
-- Confirmation of current US marketing status, since all nine licenses in the compiled data are cancelled
+- Confirmation of current US marketing status, since the drug is marketed with nine valid licenses in the compiled data
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

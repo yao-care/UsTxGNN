@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 477
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-14
-description: "Bupivacaine: predicted new indication Acrodermatitis chronica atrophicans (evidence level L5). Approved use: Dermatitis"
 monitor_inn: "BUPIVACAINE"
 predicted_indications: ["acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis"]
+last_modified_at: 2026-10-27
+description: "Bupivacaine: predicted new indication acrodermatitis chronica atrophicans (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Bupivacaine
@@ -33,36 +33,31 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-## Bupivacaine: From Dermatitis to Acrodermatitis Chronica Atrophicans
+## Bupivacaine: Amide local anesthetic (sodium channel blocker) → acrodermatitis chronica atrophicans
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Bupivacaine is an amide local anesthetic. In the knowledge graph used for this analysis, its original indication is recorded as dermatitis.
-The TxGNN model predicts it may be effective for **Acrodermatitis Chronica Atrophicans**, but **no clinical trials and no publications** currently support this prediction.
+Bupivacaine is an amide local anesthetic that is marketed in the United States as injectable solutions.
+The TxGNN model predicts it may be relevant to **acrodermatitis chronica atrophicans**, but there are **no clinical trials and no publications** in the data compiled for this report that study this disease, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Dermatitis (from the knowledge graph; no approved indication text is available in the US license records) |
-| Predicted New Indication | Acrodermatitis chronica atrophicans |
-| TxGNN Prediction Score | 99.23% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | acrodermatitis chronica atrophicans |
+| TxGNN Prediction Score | 0.9923 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid authorizations) |
-| Number of NDAs | 13 (all cancelled; 2 NDAs and 11 ANDAs) |
+| US Market Status | Marketed (valid licenses on record: at least 13) |
+| Number of NDAs | at least 13 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, bupivacaine is an amide local anesthetic that blocks voltage-gated sodium channels.
+Detailed mechanism of action data is not available in the data compiled for this report. Bupivacaine is generally known as an amide local anesthetic that blocks voltage-gated sodium channels, which produces local numbness and pain relief.
 
-Acrodermatitis chronica atrophicans is a late skin manifestation of *Borrelia* infection (Lyme disease) and is treated with antibiotics. A local anesthetic has no plausible antimicrobial or disease-modifying role. The high TxGNN score (0.992) is a model output only. It most likely reflects the drug's link to dermatitis in the knowledge graph rather than a biological rationale.
-
-The other top predictions face the same problem:
-- **Neonatal dermatomyositis** (99.15%): an immune-mediated muscle and skin disease. Bupivacaine can at most give local pain relief and is myotoxic at high concentrations, which is a concern in muscle inflammation and in neonates.
-- **Secondary childhood interstitial lung disease associated with a connective tissue disease** (99.11%): driven by immune inflammation and fibrosis, which sodium channel blockade does not address.
-- **Amyopathic dermatomyositis** (99.03%): driven by immune dysregulation. Bupivacaine has no known immunomodulatory role.
+Acrodermatitis chronica atrophicans is a late skin manifestation of Borrelia infection and is treated with antibiotics. A local anesthetic has no plausible antimicrobial or disease-modifying role, so no mechanistic link is supported by the available data. The high score of 0.9923 is a model output only and likely reflects the drug's dermatitis-related annotation rather than a biological rationale. At most, a local anesthetic could offer symptomatic relief of local pain.
 
 ## Clinical Trial Evidence
 
@@ -74,35 +69,35 @@ Currently no related literature available.
 
 ## US Market Information
 
-All 13 US authorizations are cancelled. The first five are listed below. The data compiled for this report contain no approved indication text for any of them.
+The licence records compiled for this report list 13 single-ingredient injectable products (all in the form of injection solution, from several manufacturers), and the list may be partial. They carry no approved-indication text, so no indication summary can be given. Examples include Marcaine (NDA016964, Hospira), Sensorcaine (NDA018304, Henry Schein) and several generic ANDA products.
 
-| Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
-|---------|------|------|------|------|
-| ANDA204842 | Bupivacaine Hydrochloride | Injection, solution | Asclemed USA, Inc. | Cancelled |
-| NDA016964 | Marcaine | Injection, solution | Hospira, Inc. | Cancelled |
-| ANDA091487 | Bupivacaine Hydrochloride | Injection, solution | Fosun Pharma USA Inc. | Cancelled |
-| ANDA070590 | 0.25% Bupivacaine HCl | Injection, solution | HF Acquisition Co LLC, DBA HealthFirst | Cancelled |
-| ANDA207183 | Bupivacaine Hydrochloride | Injection, solution | A-S Medication Solutions | Cancelled |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
+|---------|------|------|-----------|
+| NDA016964 | Marcaine | Injection, solution | Not recorded in local data |
+| NDA018304 | Sensorcaine | Injection, solution | Not recorded in local data |
+| ANDA204842 | Bupivacaine Hydrochloride | Injection, solution | Not recorded in local data |
+| ANDA091487 | Bupivacaine Hydrochloride | Injection, solution | Not recorded in local data |
+| ANDA070590 | 0.25% BUPIVACAINE HCl | Injection, solution | Not recorded in local data |
 
 ## Safety Considerations
 
-- **Contraindication signals from the knowledge graph** (not label text): hypertension, liver failure and liver disease, kidney disease, epilepsy, COPD and respiratory failure, diabetes and diabetic ketoacidosis, hypothyroidism and myxedema, coronary artery disease, myocardial infarction, atrial fibrillation, heart conduction disease, sudden cardiac arrest, hypotensive disorder, inflammatory bowel disease, benign prostatic hyperplasia, angle-closure glaucoma, hemoglobinopathy, potassium deficiency, substance abuse/dependence, and others. These come from graph relationships and should be verified against the package insert.
-- **Drug interactions**: 56 interactions are recorded. Two are rated Moderate: **aprepitant** and **liposomal morphine**. Others, such as atropine, dexamethasone, prednisone, simvastatin, ondansetron, and vancomycin, have an unrated severity.
-- Please refer to the package insert for official warnings and contraindications.
+- **Disease-related cautions in recorded drug-disease relations (not label text):** relations are recorded with conditions such as hypertension, liver failure and liver disease, kidney disease, epilepsy, COPD, respiratory failure, hypothyroidism, diabetes mellitus, diabetic ketoacidosis, coronary artery disease, myocardial infarction, atrial fibrillation, heart conduction disease, sudden cardiac arrest, hemoglobinopathy, inflammatory bowel disease, angle-closure glaucoma, benign prostatic hyperplasia and substance abuse/dependence. These should be checked against the package insert.
+- **Drug Interactions:** 56 interactions were found. Moderate-level ones include aprepitant and liposomal morphine. Others are of unknown severity, including pantoprazole, omeprazole, lansoprazole, vancomycin, atropine, triamcinolone, prednisone, simvastatin, hydrocortisone, potassium chloride, prednisolone, ranitidine, ondansetron, metronidazole, famotidine, naloxone, metoclopramide and dexamethasone.
+
+Package insert warnings and contraindications are not available in the data compiled for this report; please refer to the package insert for safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on model output alone (L5). There are no clinical trials or publications, and no plausible mechanism links a local anesthetic to *Borrelia*-related skin atrophy. The drug also has no valid US authorization, and the safety data are incomplete.
+The prediction has no supporting clinical trials or publications and no plausible mechanism, since bupivacaine is a local anesthetic and the disease is an infection-related skin condition treated with antibiotics. Evidence is at level L5 (model prediction only).
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data to evaluate any biological link
-- Preclinical or clinical evidence for the predicted indication (none exists in the compiled data)
-- Clarification of why the knowledge graph links bupivacaine to dermatitis, and whether the other predicted indications are better candidates
-- Review of route and formulation compatibility (not yet assessed; only injectable forms exist)
+- Any study directly examining bupivacaine in acrodermatitis chronica atrophicans
+- Mechanism of action data and a biologically plausible rationale
+- Package insert warnings and contraindications for a safety screen
+- Route and formulation compatibility assessment for the intended use
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

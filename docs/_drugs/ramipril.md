@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Ramipril
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1107
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Ramipril: predicted new indication Pulmonary hypertension owing to lung disease and/or hypoxia (evidence level L4). Approved use: Hypertension"
 monitor_inn: "RAMIPRIL"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome", "brain stem infarction", "Prinzmetal angina", "intracerebral hemorrhage", "ABri amyloidosis", "cerebral artery occlusion"]
+description: "Ramipril: predicted new indication Pulmonary hypertension owing to lung disease and/or hypoxia (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Ramipril
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Ramipril: From Hypertension to Pulmonary Hypertension Owing to Lung Disease and/or Hypoxia
+## Ramipril: Pulmonary hypertension owing to lung disease and/or hypoxia
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ but the evidence is thin: **0 clinical trials** and only **1 directly relevant p
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension (also stroke and cerebrovascular disorders, per the knowledge graph; no approved-indication text is available from US licences) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Pulmonary hypertension owing to lung disease and/or hypoxia |
-| TxGNN Prediction Score | 99.93% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid licences) |
+| TxGNN Prediction Score | 0.9993 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 6) |
 | Number of NDAs | 6 licences in total (1 NDA, 5 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
@@ -83,15 +83,15 @@ Only the first paper below addresses ramipril in a hypoxic pulmonary setting. Th
 
 ## US Market Information
 
-All six licences are cancelled, and no approved-indication text is recorded for any of them.
+All six licences are valid, and no approved-indication text is recorded for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA091604 | Ramipril (A-S Medication Solutions) | Capsule | Not available (cancelled) |
-| ANDA078832 | Ramipril (Zydus Lifesciences) | Capsule | Not available (cancelled) |
-| NDA219757 | Vostally (Metacel Pharmaceuticals) | Solution | Not available (cancelled) |
-| ANDA078745 | Ramipril (Chartwell RX) | Capsule | Not available (cancelled) |
-| ANDA077900 | Ramipril (Hikma Pharmaceuticals USA) | Capsule | Not available (cancelled) |
+| ANDA091604 | Ramipril (A-S Medication Solutions) | Capsule | Not available (valid) |
+| ANDA078832 | Ramipril (Zydus Lifesciences) | Capsule | Not available (valid) |
+| NDA219757 | Vostally (Metacel Pharmaceuticals) | Solution | Not available (valid) |
+| ANDA078745 | Ramipril (Chartwell RX) | Capsule | Not available (valid) |
+| ANDA077900 | Ramipril (Hikma Pharmaceuticals USA) | Capsule | Not available (valid) |
 
 ## Safety Considerations
 
@@ -103,14 +103,14 @@ All six licences are cancelled, and no approved-indication text is recorded for 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is very high (99.93%), but the support is limited to a single 1996 animal study. There are no clinical trials, no ramipril-specific human evidence in pulmonary hypertension, and all US licences are cancelled. Ramipril is also not an established therapy in this disease.
+The TxGNN score is very high (0.9993), but the support is limited to a single 1996 animal study. There are no clinical trials, no ramipril-specific human evidence in pulmonary hypertension, and the drug is marketed with 6 valid licences. Ramipril is also not an established therapy in this disease.
 
 **To proceed, the following is needed:**
 - Mechanism-of-action data and package-insert warnings and contraindications (both currently missing)
 - Confirmation of the original approved indications, since US licence records contain no indication text
 - Replication of the preclinical hypoxic pulmonary hypertension findings in modern animal models
 - Review of the safety of ACE inhibition in patients with pulmonary hypertension, including blood pressure and renal effects
-- Assessment of whether a pulmonary vascular indication is feasible given the current market status (all licences cancelled)
+- Assessment of whether a pulmonary vascular indication is feasible given the current market status (marketed, 6 valid licences)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

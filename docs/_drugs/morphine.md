@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "MORPHINE"
 predicted_indications: ["myofascial pain syndrome", "manic bipolar affective disorder", "Tourette syndrome", "restless legs syndrome", "attention deficit hyperactivity disorder, inattentive type", "migraine disorder", "trichotillomania", "methemoglobinemia", "migraine with brainstem aura", "specific developmental disorder"]
 last_modified_at: 2026-10-14
-description: "Morphine: predicted new indication Restless legs syndrome (evidence level L3). Approved use: Diarrheal disease"
+description: "Morphine: predicted new indication Myofascial pain syndrome (evidence level L3). Approved use: Not recorded in the local data"
 ---
 
 # Morphine
@@ -33,12 +33,12 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-## Morphine: From Diarrheal Disease to Restless Legs Syndrome
+## Morphine: Myofascial pain syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Morphine is a mu-opioid receptor agonist. In the knowledge graph used for this analysis, its original indication is diarrheal disease.
+Morphine is a mu-opioid receptor agonist.
 The TxGNN model's top-ranked prediction is myofascial pain syndrome, but the best-supported candidate in the data compiled for this report is **restless legs syndrome (RLS)**, with **1 clinical trial** (Phase 1, pharmacokinetics only) and **20 publications** supporting this direction.
 This report therefore evaluates RLS as the lead candidate and compares it with the other nine predictions.
 
@@ -48,11 +48,11 @@ This report therefore evaluates RLS as the lead candidate and compares it with t
 
 | Item | Content |
 |------|------|
-| Original Indication | Diarrheal disease (from the knowledge graph; no approved indication text is available in the US label records) |
-| Predicted New Indication | Restless legs syndrome (rank 4 of 10 by TxGNN score; selected because it has the strongest evidence) |
-| TxGNN Prediction Score | 99.47% (the top-ranked prediction, myofascial pain syndrome, scores 99.75%) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Myofascial pain syndrome |
+| TxGNN Prediction Score | 0.9975 |
 | Evidence Level | L3 |
-| US Market Status | Cancelled only (all marketing authorizations are cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 11) |
 | Number of NDAs | 11 (all cancelled) |
 | Recommended Decision | Hold |
 
@@ -108,7 +108,7 @@ For myofascial pain syndrome, the only study that used morphine directly is a 20
 
 ## US Market Information
 
-All 11 US authorizations for morphine are cancelled, so there is currently no actively marketed US product in the data compiled for this report. The records contain no approved indication text. The main authorizations are:
+The records contain no approved indication text. The main authorizations are:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -143,14 +143,13 @@ Moderate-level interactions include chlorpheniramine, cetirizine, nifedipine, hy
 **Decision: Hold**
 
 **Rationale:**
-Restless legs syndrome has the most credible support among the ten predictions: clinical use of opioids in refractory cases, registry data up to 5 years, and morphine-specific intrathecal reports. However, the evidence is mostly observational (L3) or class-level, the only registered trial is a Phase 1 pharmacokinetic study, and all US authorizations for morphine are cancelled. The other nine predictions have little or no supporting evidence.
+Restless legs syndrome has the most credible support among the ten predictions: clinical use of opioids in refractory cases, registry data up to 5 years, and morphine-specific intrathecal reports. The other nine predictions have little or no supporting evidence.
 
 **To proceed, the following is needed:**
 - Morphine-specific randomized controlled trials in refractory RLS
 - FDA package insert warnings and contraindications (a blocking data gap for safety screening)
 - Mechanism of action data from DrugBank
 - A risk-benefit assessment covering dependence, augmentation and sleep-disordered breathing
-- Clarification of the regulatory and route-of-administration pathway (oral versus intrathecal), given that route compatibility has not been assessed and all current US licenses are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

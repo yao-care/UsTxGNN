@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Epinephrine
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 660
-evidence_level: L1
-indication_count: 4
+evidence_level: L5
+indication_count: 3
 last_modified_at: 2026-10-14
-description: "Epinephrine: predicted new indication Obstructive lung disease (evidence level L1). Approved use: Open-angle glaucoma, bronchitis, hypotensive disorder, asthma…"
 monitor_inn: "EPINEPHRINE"
-predicted_indications: ["obstructive lung disease", "food-dependent exercise-induced anaphylaxis", "Rienhoff syndrome", "respiratory malformation"]
+predicted_indications: ["obstructive lung disease", "Rienhoff syndrome", "respiratory malformation"]
+description: "Epinephrine: predicted new indication Obstructive lung disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Epinephrine
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **4** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L1** | Predicted Indications: **4**
 
 </div>
 
-## Epinephrine: From Open-Angle Glaucoma, Asthma and Anaphylaxis to Obstructive Lung Disease
+## Epinephrine: Obstructive lung disease
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ with **15 clinical trials** and **20 publications** currently supporting this di
 
 | Item | Content |
 |------|------|
-| Original Indication | Open-angle glaucoma, bronchitis, hypotensive disorder, asthma, pulmonary emphysema, anaphylaxis, bronchiectasis (from the knowledge graph; no approved-indication text is available in the US license records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Obstructive lung disease |
-| TxGNN Prediction Score | 99.71% |
-| Evidence Level | L1 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| TxGNN Prediction Score | 0.9971 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 11) |
 | Number of NDAs | 11 (all cancelled) |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -94,7 +94,7 @@ Two caveats apply. The Phase 3 evidence is for an inhaled HFA-MDI epinephrine fo
 
 ## US Market Information
 
-All 11 US authorizations are cancelled, and none is currently valid. The approved-indication text is not available for any of them.
+The drug is marketed in the US, with 11 valid licenses. The approved-indication text is not available for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -116,10 +116,10 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Three completed Phase 3 trials of inhaled epinephrine (E004) in asthma support the prediction (L1), and asthma is already an established indication. However, the evidence is specific to one inhaled formulation, bronchiolitis data are mixed, and all US licenses are cancelled.
+Three completed Phase 3 trials of inhaled epinephrine (E004) in asthma support the prediction (L1), and asthma is already an established indication. However, the evidence is specific to one inhaled formulation, bronchiolitis data are mixed, and the drug is marketed with 11 valid US licenses.
 
 **To proceed, the following is needed:**
-- Confirm current US regulatory status and formulation, since no valid license exists
+- Confirm current US regulatory status and formulation against the 11 valid licenses
 - Obtain the package insert warnings and contraindications
 - Obtain detailed mechanism-of-action data
 - Review the cardiovascular and drug-interaction risks for the intended population
@@ -130,9 +130,8 @@ Three completed Phase 3 trials of inhaled epinephrine (E004) in asthma support t
 
 | Predicted Indication | TxGNN Score | Evidence Level | Decision | Note |
 |------|------|------|------|------|
-| Food-dependent exercise-induced anaphylaxis | 99.57% | L4 | Research Question | A subtype of anaphylaxis, so the mechanistic link is strong. No clinical trials; support is from reviews and case reports. |
-| Rienhoff syndrome | 99.57% | L5 | Hold | No trials, no literature and no identifiable mechanistic rationale. |
-| Respiratory malformation | 99.56% | L3 | Research Question | The only trial covers transient tachypnoea of the newborn, which is not a structural malformation. Much of the literature is off-target. |
+| Rienhoff syndrome | 0.9957 | L5 | Hold | No trials, no literature and no identifiable mechanistic rationale. |
+| Respiratory malformation | 0.9956 | L3 | Research Question | The only trial covers transient tachypnoea of the newborn, which is not a structural malformation. Much of the literature is off-target. |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

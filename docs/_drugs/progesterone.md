@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Progesterone
-parent: Model Prediction Only (L5)
+parent: High Evidence (L1-L2)
 nav_order: 1089
-evidence_level: L5
-indication_count: 10
+evidence_level: L2
+indication_count: 7
 last_modified_at: 2026-10-14
-description: "Progesterone: predicted new indication Amenorrhea (evidence level L5). Approved use: Endometriosis"
 monitor_inn: "PROGESTERONE"
-predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "cervix endometriosis", "renal hypoplasia (disease)", "endometriosis of rectovaginal septum and vagina", "endometriosis in cutaneous scar", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
+predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast"]
+description: "Progesterone: predicted new indication Amenorrhea (disease) (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
 # Progesterone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L2** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Progesterone: From Endometriosis to Amenorrhea
+## Progesterone: Amenorrhea (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,11 +48,11 @@ with **4 clinical trials** and **19 publications** currently linked to this dire
 
 | Item | Content |
 |------|------|
-| Original Indication | Endometriosis (the data compiled for this report contains no approved-indication text for the US licenses; the indications listed come from the knowledge graph) |
-| Predicted New Indication | Amenorrhea |
-| TxGNN Prediction Score | 99.99% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Amenorrhea (disease) |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L2 (as rated in the compiled data; see the note below) |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 9) |
 | Number of NDAs | 9 (all cancelled) |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -66,7 +66,7 @@ Detailed mechanism of action data is not available for this report. Based on kno
 
 The relationship to its original indications is hormonal. Endometriosis and endometrial conditions are driven by estrogen and progesterone signaling, and amenorrhea reflects disruption of the same hypothalamic-pituitary-ovarian axis. In hypoestrogenic forms of amenorrhea (athletes, anorexia nervosa), the trials mainly use estrogen replacement, with progestin given cyclically to protect the endometrium. This makes progesterone a plausible supporting therapy rather than the main driver of efficacy.
 
-The other predicted indications are weaker. Other predictions (benign breast conditions, additional endometriosis sites) are reported only as research questions. Two kidney-related predictions have no credible mechanistic link and look like knowledge-graph artifacts. These are not recommended for further development.
+The other predicted indications are weaker. Other predictions (benign breast conditions, additional endometriosis sites) are reported only as research questions. Two kidney-related predictions have no credible mechanistic link and look like TxGNN model (deep learning) artifacts. These are not recommended for further development.
 
 ---
 
@@ -100,7 +100,6 @@ The literature consists mainly of reviews and narrative articles. No randomized 
 
 ## US Market Information
 
-All nine US authorizations are cancelled, and no approved-indication text is available for them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -129,13 +128,12 @@ The compiled data contains no package insert warnings or contraindications. Plea
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Progesterone is already a standard agent for diagnosing and treating secondary amenorrhea, and the mechanism is well understood. However, the registered trials focus on estrogen replacement, and all US licenses are cancelled. The direct evidence base is therefore thin. The other nine predictions are not ready for development: breast and additional endometriosis predictions are research questions, and the kidney and breast adenosis predictions should be held.
+Progesterone is already a standard agent for diagnosing and treating secondary amenorrhea, and the mechanism is well understood. The direct evidence base is therefore thin. The other nine predictions are not ready for development: breast and additional endometriosis predictions are research questions, and the kidney and breast adenosis predictions should be held.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (blocking data gap for safety screening)
 - Confirmed mechanism of action data from DrugBank
 - Trial data that isolates progesterone's contribution in amenorrhea, for example the arms and outcomes of the listed trials
-- Clarification of the US regulatory pathway, since all current licenses are cancelled
 - A safety monitoring plan covering glycemic interactions and the comorbidities flagged above
 ## Disclaimer
 

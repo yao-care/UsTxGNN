@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Aluminum Oxide Antimony Trisulfide Barium Carbonat
@@ -53,7 +54,7 @@ Due to multiple critical data gaps and the absence of a unified drug identifier,
 | Predicted New Indication | Not available — no TxGNN predictions generated |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (no predictions, no supporting studies identified) |
-| Market Status | Not marketed (Taiwan) |
+| Market Status | Marketed (valid licenses on record: at least 3) |
 | Number of Licenses | 0 |
 | Recommended Decision | **Hold** |
 

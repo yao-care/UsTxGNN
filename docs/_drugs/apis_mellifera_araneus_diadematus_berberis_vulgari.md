@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-10-12
+predicted_indications: []
 ---
 
 # Apis Mellifera Araneus Diadematus Berberis Vulgari

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Cyclophosphamide
-parent: Model Prediction Only (L5)
+parent: High Evidence (L1-L2)
 nav_order: 556
-evidence_level: L5
-indication_count: 5
+evidence_level: L1
+indication_count: 4
 last_modified_at: 2026-10-14
-description: "Cyclophosphamide: predicted new indication Myeloid leukemia (evidence level L5). Approved use: Mycosis fungoides and cutaneous T-cell lymphoma, plasma cell myeloma…"
 monitor_inn: "CYCLOPHOSPHAMIDE"
-predicted_indications: ["myeloid leukemia", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "lymph node cancer"]
+predicted_indications: ["myeloid leukemia", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "lymph node cancer"]
+description: "Cyclophosphamide: predicted new indication Myeloid leukemia (evidence level L1). Approved use: Not recorded in the local data"
 ---
 
 # Cyclophosphamide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **5** 
+Evidence Level: **L1** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-## Cyclophosphamide: From Lymphoma and Breast Carcinoma to Myeloid Leukemia
+## Cyclophosphamide: Myeloid leukemia
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,11 +45,11 @@ The TxGNN model predicts it may be effective for **Myeloid Leukemia**, with **35
 
 | Item | Content |
 |------|------|
-| Original Indication | Mycosis fungoides and cutaneous T-cell lymphoma, plasma cell myeloma, neuroblastoma, lymphoma, breast carcinoma, retinoblastoma (from the knowledge graph; no approved-indication text was available in the US label records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Myeloid leukemia |
-| TxGNN Prediction Score | 99.47% |
+| TxGNN Prediction Score | 0.9947 |
 | Evidence Level | L1 (as assigned in the compiled data; see the caveat in the Conclusion) |
-| US Market Status | Cancelled only (12 licenses, none currently valid) |
+| US Market Status | Marketed (valid licenses on record: at least 12) |
 | Number of NDAs | 12 authorizations (a mix of NDAs and ANDAs) |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -102,7 +102,7 @@ Most of the compiled literature is cohort studies, with no randomized trial of c
 
 ## US Market Information
 
-All 12 authorizations are listed as cancelled in the data, and no approved-indication text was provided. The table shows 5 of the main ones.
+All 12 authorizations are listed as valid in the data, and no approved-indication text was provided. The table shows 5 of the main ones.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -146,12 +146,12 @@ Cyclophosphamide is already embedded in myeloid leukemia transplant conditioning
 - The cyclophosphamide contribution is rarely isolated from the rest of the regimen.
 - In the one randomized comparison, busulfan-cyclophosphamide had worse non-relapse mortality than busulfan-fludarabine.
 
-The package insert safety data are also missing, and all US licenses are currently cancelled. For these reasons, I recommend proceeding with guardrails rather than an unqualified Go.
+The package insert safety data are also missing, although the drug is marketed in the US with 12 valid licenses. For these reasons, I recommend proceeding with guardrails rather than an unqualified Go.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (the safety screening cannot be completed without them)
 - Detailed mechanism of action data
-- Current US market and licensing status, since all 12 licenses are listed as cancelled
+- Current US market and licensing status, since 12 licenses are listed as valid
 - Trial analyses that isolate the contribution of cyclophosphamide, such as comparisons of conditioning regimens or PTCy against alternatives
 - A safety monitoring plan for myelosuppression and for interactions with antifungals and antidiabetic drugs
 
@@ -159,10 +159,9 @@ The package insert safety data are also missing, and all US licenses are current
 
 | Rank | Predicted Indication | Score | Evidence Level | Recommendation | Note |
 |------|------|------|------|------|------|
-| 2 | Ganglioneuroblastoma | 99.43% | L4 | Research Question | Same lineage as neuroblastoma, an existing indication; evidence is case reports, and the only trial (NCT07502287) uses cyclophosphamide only for lymphodepletion |
-| 3 | Vertebral anomalies and variable endocrine and T-cell dysfunction | 99.38% | L5 | Hold | No trials or literature; immunosuppression may worsen the existing T-cell deficiency |
-| 4 | Retroperitoneal neoplasm | 99.37% | L4 | Research Question | Mixed histologies; case reports and small series only, with no trials |
-| 5 | Lymph node cancer | 99.31% | L1 | Proceed with Guardrails | Large Phase 3 trials in node-positive breast cancer, which largely overlaps existing indications (lymphoma, breast carcinoma) and is closer to an extension of existing use |
+| 3 | Vertebral anomalies and variable endocrine and T-cell dysfunction | 0.9938 | L5 | Hold | No trials or literature; immunosuppression may worsen the existing T-cell deficiency |
+| 4 | Retroperitoneal neoplasm | 0.9937 | L4 | Research Question | Mixed histologies; case reports and small series only, with no trials |
+| 5 | Lymph node cancer | 0.9931 | L1 | Proceed with Guardrails | Large Phase 3 trials in node-positive breast cancer, which largely overlaps existing indications (lymphoma, breast carcinoma) and is closer to an extension of existing use |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

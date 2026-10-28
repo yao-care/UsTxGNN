@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Activated Charcoal Ammonium Carbonate Camphor Crot
@@ -51,7 +52,7 @@ Without a valid drug identity or predicted indication, a formal repurposing eval
 | Predicted New Indication | None — no TxGNN predictions generated |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | Below L5 — no predictions available |
-| US Market Status | Not Marketed |
+| US Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

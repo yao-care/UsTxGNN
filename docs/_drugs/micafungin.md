@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "MICAFUNGIN"
 predicted_indications: ["urinary tract infection (disease)"]
 last_modified_at: 2026-10-14
-description: "Micafungin: predicted new indication Urinary tract infection (evidence level L3). Approved use: Esophageal candidiasis, candidemia, disseminated candidiasis"
+description: "Micafungin: predicted new indication urinary tract infection (evidence level L3). Approved use: Esophageal candidiasis, candidemia, disseminated candidiasis"
 ---
 
 # Micafungin
@@ -33,7 +33,7 @@ Evidence Level: **L3** | Predicted Indications: **1**
 
 </div>
 
-## Micafungin: From Candidemia and Invasive Candidiasis to Urinary Tract Infection
+## Micafungin: From Candidemia and Invasive Candidiasis to urinary tract infection
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -50,9 +50,9 @@ with **no registered clinical trials** but **12 publications** (mostly cohort st
 |------|------|
 | Original Indication | Esophageal candidiasis, candidemia, disseminated candidiasis (the US label indication text was not available in the data compiled for this report) |
 | Predicted New Indication | Urinary tract infection |
-| TxGNN Prediction Score | 99.03% |
+| TxGNN Prediction Score | 0.9903 |
 | Evidence Level | L3 |
-| US Market Status | Cancelled only (all 11 listed authorizations are recorded as cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 11) |
 | Number of NDAs | 11 authorizations (3 NDAs and 8 ANDAs) |
 | Recommended Decision | Hold |
 
@@ -95,7 +95,7 @@ Note: the literature is mostly small case-level evidence with no randomized tria
 
 ## US Market Information
 
-All listed authorizations are currently recorded as cancelled, and the approved indication text was not available in the data compiled for this report.
+The drug is marketed in the US, with 11 valid authorizations recorded. The approved indication text was not available in the data compiled for this report.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -123,11 +123,11 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The literature suggests micafungin can clear Candida from the urinary tract in selected patients, but it consists of small cohort studies, case reports, and case series, with no registered trials. The low urinary excretion of active drug, the knowledge-graph link to kidney disease and pyoureter, and the current cancelled status of all US authorizations argue against moving forward until these are resolved. Guidelines also advise against treating asymptomatic candiduria with antifungals.
+The literature suggests micafungin can clear Candida from the urinary tract in selected patients, but it consists of small cohort studies, case reports, and case series, with no registered trials. The low urinary excretion of active drug and the TxGNN model (deep learning) link to kidney disease and pyoureter, which may reflect similarities the model learned between related diseases, not biological evidence, argue against moving forward until these are resolved. Guidelines also advise against treating asymptomatic candiduria with antifungals.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications, which are currently missing and block safety screening
-- Confirmation of current US marketing status, since all 11 authorizations are recorded as cancelled
+- Confirmation of current US marketing status, since 11 valid authorizations are recorded
 - Mechanism-of-action data from a primary source such as DrugBank
 - Urinary pharmacokinetic data to confirm adequate active-drug concentrations at the infection site
 - Controlled or prospective studies in symptomatic Candida UTI, with attention to patients with kidney disease or urinary tract obstruction

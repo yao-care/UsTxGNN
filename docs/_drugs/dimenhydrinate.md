@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Dimenhydrinate
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 610
-evidence_level: L4
+evidence_level: L5
 indication_count: 2
 monitor_inn: "DIMENHYDRINATE"
 predicted_indications: ["allergic urticaria", "cold urticaria"]
 last_modified_at: 2026-10-14
-description: "Dimenhydrinate: predicted new indication Allergic urticaria (evidence level L4). Approved use: Motion sickness"
+description: "Dimenhydrinate: predicted new indication Allergic urticaria (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Dimenhydrinate
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **2** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **2**
 
 </div>
 
-## Dimenhydrinate: From Motion Sickness and Central Vertigo to Allergic Urticaria
+## Dimenhydrinate: Allergic urticaria
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ but currently there are **0 clinical trials** and only **1 publication** (a phar
 
 | Item | Content |
 |------|------|
-| Original Indication | Motion sickness; central nervous system origin vertigo |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Allergic urticaria |
-| TxGNN Prediction Score | 99.74% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid authorizations) |
+| TxGNN Prediction Score | 0.9974 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 2) |
 | Number of NDAs | 2 (both cancelled) |
 | Recommended Decision | Hold |
 
@@ -60,9 +60,9 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 H1 antagonism is a well-established way to relieve histamine-mediated urticaria symptoms, so the prediction is biologically plausible and consistent with the high TxGNN score. However, diphenhydramine itself is already used for allergic conditions. The signal therefore reflects the known activity of the active ingredient rather than a novel repurposing finding.
 
-Practical value is also limited. The product is no longer marketed under valid US authorizations, and second-generation antihistamines cause less sedation and fewer anticholinergic effects.
+Practical value is also limited.
 
-A second predicted indication, **cold urticaria** (score 99.24%, evidence level L5), rests on the same H1 antagonism reasoning. It has no clinical trials and no literature, so it is supported by model prediction alone and is also on Hold.
+A second predicted indication, **cold urticaria** (score 0.9924, evidence level L5), rests on the same H1 antagonism reasoning. It has no clinical trials and no literature, so it is supported by model prediction alone and is also on Hold.
 
 ## Clinical Trial Evidence
 
@@ -83,7 +83,7 @@ Currently no related clinical trials registered.
 
 ## Safety Considerations
 
-- **Contraindications (knowledge-graph associations, not label text)**: The knowledge graph links dimenhydrinate with caution or contraindication in the following conditions:
+- **Contraindications (associations learned by the TxGNN model (deep learning), not label text)**: The TxGNN model (deep learning) links dimenhydrinate with caution or contraindication in the following conditions, which may reflect similarities the model learned between related diseases, not biological evidence:
   - Cardiovascular: hypertension, hypotension, acute coronary syndrome, coronary artery disease, myocardial infarction, coronary thrombosis
   - Hepatic and gastrointestinal: liver disease, gallbladder disease, peptic ulcer disease, pyloric stenosis
   - Metabolic and endocrine: diabetes mellitus, diabetic ketoacidosis, hyperglycemia, hyperthyroidism (including Graves disease and thyrotoxicosis), gout, hypophosphatemia
@@ -104,14 +104,14 @@ Package insert warnings and contraindications were not available for this report
 **Decision: Hold**
 
 **Rationale:**
-The prediction is biologically plausible through H1 antagonism, but no clinical trials exist for dimenhydrinate in urticaria, and the single publication is a pharmacokinetic study that does not assess efficacy. The signal mainly reflects the known activity of diphenhydramine. There are also no valid US authorizations and better-tolerated second-generation alternatives.
+The prediction is biologically plausible through H1 antagonism, but no clinical trials exist for dimenhydrinate in urticaria, and the single publication is a pharmacokinetic study that does not assess efficacy. The signal mainly reflects the known activity of diphenhydramine.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (required for safety screening)
 - Mechanism of action data
 - Clinical efficacy data (trials or observational studies) for dimenhydrinate or diphenhydramine in allergic urticaria, and in cold urticaria
 - Assessment of the added value over second-generation antihistamines, given the sedation and anticholinergic burden
-- Clarification of route and formulation availability, since all current US authorizations are cancelled
+- Clarification of route and formulation availability, since the drug is currently marketed with 2 valid US authorizations
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

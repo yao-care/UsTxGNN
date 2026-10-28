@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "POTASSIUM NITRATE"
 predicted_indications: ["meningococcal infection", "sclerosing cholangitis"]
 last_modified_at: 2026-10-14
-description: "Potassium Nitrate: predicted new indication Meningococcal infection (evidence level L5). Approved use: Not recorded in the available data"
+description: "Potassium Nitrate: predicted new indication Meningococcal infection (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Potassium Nitrate
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-## Potassium Nitrate: From an Unspecified Original Indication to Meningococcal Infection
+## Potassium Nitrate: Meningococcal infection
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ This is a model-only prediction, and the data compiled for this report do not su
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded in the available data |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Meningococcal infection |
-| TxGNN Prediction Score | 99.61% |
+| TxGNN Prediction Score | 0.9961 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 2 (both cancelled) |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available, and no original i
 
 That link is speculative. No trial or publication connects potassium nitrate to *Neisseria meningitidis* infection. Meningococcal infection is a severe invasive bacterial disease, treated with established antibiotics and prevented by vaccines, so a nitrate salt has no plausible therapeutic role without supporting data. The high TxGNN score is a computational prediction only and cannot replace clinical evidence.
 
-A second prediction, **sclerosing cholangitis** (score 99.21%), is also Level L5 with no trials or literature. It has only a theoretical rationale: nitrate-nitrite-nitric oxide signaling might affect vascular tone, inflammation and biliary epithelial function. It is likewise a **Hold**.
+A second prediction, **sclerosing cholangitis** (score 0.9921), is also Level L5 with no trials or literature. It has only a theoretical rationale: nitrate-nitrite-nitric oxide signaling might affect vascular tone, inflammation and biliary epithelial function. It is likewise a **Hold**.
 
 ## Clinical Trial Evidence
 
@@ -74,10 +74,10 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| M022 | SprinJene Natural | Paste, dentifrice | Not recorded (cancelled) |
+| M022 | SprinJene Natural | Paste, dentifrice | Not recorded (valid) |
 | Not available | Kali Nitricum | Pellet | Not recorded (cancelled) |
 
-Both authorizations are cancelled, so there is currently no valid US marketed product. Other dosage forms associated with this ingredient include dentifrice gel (topical) and paste.
+Other dosage forms associated with this ingredient include dentifrice gel (topical) and paste.
 
 ## Safety Considerations
 
@@ -91,7 +91,7 @@ Please refer to the package insert for any further safety information. Label war
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score, with no clinical trials, no literature, no mechanism of action data and no recorded original indication. The biological rationale for treating meningococcal infection with a nitrate salt is implausible, and all US authorizations are cancelled.
+The prediction rests only on a model score, with no clinical trials, no literature, no mechanism of action data and no recorded original indication. The biological rationale for treating meningococcal infection with a nitrate salt is implausible, and the drug is marketed in the US, with 2 valid licenses of 2.
 
 **To proceed, the following is needed:**
 - Mechanism of action data (for example, from DrugBank)

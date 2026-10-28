@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Flunisolide
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 717
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Flunisolide: predicted new indication Atopic eczema (evidence level L4). Approved use: Asthma (including intrinsic and allergic asthma), allergic rhinitis…"
 monitor_inn: "FLUNISOLIDE"
 predicted_indications: ["atopic eczema", "bronchitis", "dermatitis, atopic", "2-hydroxyethyl methacrylate sensitization", "polyp of vocal cord", "polyp of middle ear", "fibroepithelial polyp", "polyp of frontal sinus", "polyp of external auditory canal"]
+description: "Flunisolide: predicted new indication Atopic eczema (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Flunisolide
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Flunisolide: From Asthma and Allergic Rhinitis to Atopic Eczema
+## Flunisolide: Atopic eczema
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ The evidence is indirect and rests mainly on class-level corticosteroid pharmaco
 
 | Item | Content |
 |------|------|
-| Original Indication | Asthma (including intrinsic and allergic asthma), allergic rhinitis, vasomotor rhinitis |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Atopic eczema |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 2 (both ANDA, both cancelled) |
+| TxGNN Prediction Score | 0.9998 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Detailed mechanism of action data is not available for this drug. Based on known
 
 Asthma, allergic rhinitis and atopic dermatitis are closely related allergic (atopic) conditions that often occur together. Atopic dermatitis is also considered a risk factor for later asthma. Corticosteroids as a class are an established treatment for atopic dermatitis. This makes the prediction biologically plausible.
 
-However, the link is indirect. The only retrieved paper is an observational study of exhaled breath condensate cytokines and pH in children with asthma and atopic dermatitis. It does not test flunisolide as a treatment for eczema. The same prediction also appears under the synonym "dermatitis, atopic" (score 99.85%), with the same single paper.
+However, the link is indirect. The only retrieved paper is an observational study of exhaled breath condensate cytokines and pH in children with asthma and atopic dermatitis. It does not test flunisolide as a treatment for eczema. The same prediction also appears under the synonym "dermatitis, atopic" (score 0.9985), with the same single paper.
 
 ## Clinical Trial Evidence
 
@@ -91,7 +91,7 @@ Package insert warnings and contraindications were not available. Please refer t
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high, but there are no clinical trials, and the only paper is an observational study that does not test flunisolide in eczema. The evidence is L4 and rests on class-level corticosteroid pharmacology. Flunisolide is also no longer marketed in the US (both licenses cancelled), and the available formulation (solution) is not suited to skin use. Many established topical corticosteroids already exist for atopic dermatitis, so the added value of flunisolide is unclear.
+The prediction score is very high, but there are no clinical trials, and the only paper is an observational study that does not test flunisolide in eczema. The evidence is L4 and rests on class-level corticosteroid pharmacology. Many established topical corticosteroids already exist for atopic dermatitis, so the added value of flunisolide is unclear.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

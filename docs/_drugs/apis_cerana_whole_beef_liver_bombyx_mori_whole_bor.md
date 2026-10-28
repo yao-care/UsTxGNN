@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Apis Cerana Whole Beef Liver Bombyx Mori Whole Bor
@@ -51,7 +52,7 @@ As a result, a standard repurposing evidence evaluation cannot be completed at t
 | Predicted New Indication | None — TxGNN returned no predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (model prediction only — and none exists) |
-| US Market Status | Not marketed (no TFDA licenses found) |
+| US Market Status | Marketed (valid licenses on record: at least 3) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

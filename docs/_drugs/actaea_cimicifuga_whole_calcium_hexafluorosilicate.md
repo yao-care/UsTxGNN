@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Actaea Cimicifuga Whole Calcium Hexafluorosilicate
@@ -49,7 +50,7 @@ This product is a combination formulation containing 8 components (including Act
 | Predicted New Indication | No prediction results |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (model failed to generate predictions, no evidence) |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 6) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 

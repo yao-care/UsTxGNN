@@ -6,9 +6,9 @@ nav_order: 1268
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Tromethamine: predicted new indication Allergic urticaria (evidence level L5). Approved use: Atopic conjunctivitis, papillary conjunctivitis, vernal conjunctivitis"
 monitor_inn: "TROMETHAMINE"
 predicted_indications: ["allergic urticaria", "rosacea conjunctivitis", "recalcitrant atopic dermatitis", "post-bacterial disorder", "otitis externa", "postinfectious vasculitis", "infective urethral stricture", "post-infectious syndrome", "Chagas cardiomyopathy", "IgE responsiveness, atopic"]
+description: "Tromethamine: predicted new indication Allergic urticaria (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Tromethamine
@@ -33,12 +33,12 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Tromethamine: From Allergic Conjunctivitis to Allergic Urticaria
+## Tromethamine: Allergic urticaria
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Tromethamine was originally linked to allergic eye conditions (atopic, papillary and vernal conjunctivitis) in the knowledge graph used by the model, and in the US it is also marketed as an injectable alkalinizing agent and as the salt form of fosfomycin.
+Tromethamine was originally linked to allergic eye conditions (atopic, papillary and vernal conjunctivitis) by the TxGNN model (deep learning); this link may reflect similarities the model learned between related diseases, not biological evidence. In the US it is also marketed as an injectable alkalinizing agent and as the salt form of fosfomycin.
 The TxGNN model predicts it may be effective for **Allergic Urticaria**, but there are **0 clinical trials** and only **1 publication** (a case report of an adverse reaction to a different drug), so the evidence is essentially model prediction only.
 
 ---
@@ -47,12 +47,12 @@ The TxGNN model predicts it may be effective for **Allergic Urticaria**, but the
 
 | Item | Content |
 |------|------|
-| Original Indication | Atopic conjunctivitis, papillary conjunctivitis, vernal conjunctivitis (from the knowledge graph; no approved-indication text is available in the US license records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Allergic urticaria |
-| TxGNN Prediction Score | 99.91% |
+| TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 9 (all cancelled) |
+| US Market Status | Marketed (valid licenses: 9 of 9) |
+| Number of NDAs | 9 (valid: 9) |
 | Recommended Decision | Hold |
 
 ---
@@ -61,7 +61,7 @@ The TxGNN model predicts it may be effective for **Allergic Urticaria**, but the
 
 Currently, detailed mechanism of action data is not available. Tromethamine is known as a buffer and alkalinizing agent, and it is also used as a salt-forming partner in other drugs such as ketorolac tromethamine and fosfomycin tromethamine.
 
-The high prediction score is most likely driven by the drug's association with allergic conjunctivitis in the knowledge graph. Allergic conjunctivitis and allergic urticaria are both allergic or atopic conditions, so the model links them. There is no direct evidence that tromethamine itself acts on the allergic pathway.
+The high prediction score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Allergic conjunctivitis and allergic urticaria are both allergic or atopic conditions, so the model may link them. There is no direct evidence that tromethamine itself acts on the allergic pathway.
 
 The only publication retrieved describes a biphasic anaphylactic reaction to ketorolac tromethamine. This is an adverse-event report about the NSAID, with tromethamine only as the salt form. It is not evidence of benefit, and the high score should not be read as a signal of efficacy.
 
@@ -83,7 +83,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All nine US licenses are cancelled. No approved-indication text is available in the data compiled for this report.
+All nine US licenses are valid. No approved-indication text is available in the data compiled for this report.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -111,7 +111,7 @@ Package insert warnings and contraindications were not available, so please refe
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on model output alone (L5). There are no clinical trials, and the single publication is an adverse-event report about a different drug, so it does not support efficacy. All US licenses are cancelled, and the mechanism and package insert safety data are missing.
+The prediction rests on model output alone (L5). There are no clinical trials, and the single publication is an adverse-event report about a different drug, so it does not support efficacy. All nine US licenses are valid, and the mechanism and package insert safety data are missing.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for tromethamine, and a plausible link to allergic urticaria

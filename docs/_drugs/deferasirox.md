@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "DEFERASIROX"
 predicted_indications: ["HIV infectious disease", "chronic hepatitis C virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "dermatofibrosarcoma protuberans"]
 last_modified_at: 2026-10-14
-description: "Deferasirox: predicted new indication HIV infectious disease (evidence level L4). Approved use: Beta-thalassemia and related hemoglobinopathies (including hereditary…"
+description: "Deferasirox: predicted new indication HIV infectious disease (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Deferasirox
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **5**
 
 </div>
 
-## Deferasirox: From Beta-Thalassemia and Hemoglobinopathy to HIV Infectious Disease
+## Deferasirox: HIV infectious disease
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,11 +45,11 @@ The TxGNN model predicts it may be effective for **HIV infectious disease**, but
 
 | Item | Content |
 |------|------|
-| Original Indication | Beta-thalassemia and related hemoglobinopathies (including hereditary persistence of fetal hemoglobin, beta-thalassemia intermedia) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | HIV infectious disease |
-| TxGNN Prediction Score | 99.40% |
+| TxGNN Prediction Score | 0.9940 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 15) |
 | Number of NDAs | 15 (1 NDA and 14 ANDAs; all cancelled) |
 | Recommended Decision | Hold |
 
@@ -76,17 +76,17 @@ Currently no related clinical trials registered.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA206910 | Jadenu (Novartis) | Film-coated tablet | Not listed (cancelled) |
-| ANDA211824 | Deferasirox (Alembic) | Film-coated tablet | Not listed (cancelled) |
-| ANDA209878 | Deferasirox (MSN Laboratories) | Tablet for suspension | Not listed (cancelled) |
-| ANDA213374 | Deferasirox oral (Ascend) | Granule | Not listed (cancelled) |
-| ANDA207124 | Deferasirox (Teva) | Tablet for suspension | Not listed (cancelled) |
+| NDA206910 | Jadenu (Novartis) | Film-coated tablet | Not listed (valid) |
+| ANDA211824 | Deferasirox (Alembic) | Film-coated tablet | Not listed (valid) |
+| ANDA209878 | Deferasirox (MSN Laboratories) | Tablet for suspension | Not listed (valid) |
+| ANDA213374 | Deferasirox oral (Ascend) | Granule | Not listed (valid) |
+| ANDA207124 | Deferasirox (Teva) | Tablet for suspension | Not listed (valid) |
 
 All 15 US authorizations compiled for this report are in cancelled status.
 
 ## Safety Considerations
 
-- **Contraindication-related conditions (from knowledge-graph associations, not label text)**: liver failure, liver disease, cirrhosis, kidney disease, impaired renal function, thrombocytopenia, neutropenia and other severe neutropenia syndromes, agranulocytosis, anemia, hyperbilirubinemia (including Gilbert syndrome), gallbladder disease, active peptic ulcer disease, ocular hypertension, multiple organ dysfunction syndrome, and cancer.
+- **Contraindication-related conditions (not from label text)**: liver failure, liver disease, cirrhosis, kidney disease, impaired renal function, thrombocytopenia, neutropenia and other severe neutropenia syndromes, agranulocytosis, anemia, hyperbilirubinemia (including Gilbert syndrome), gallbladder disease, active peptic ulcer disease, ocular hypertension, multiple organ dysfunction syndrome, and cancer.
 - **Drug Interactions**: 100 interactions were found in total. Major-level examples include:
   - Corticosteroids: hydrocortisone, dexamethasone, betamethasone, triamcinolone
   - Amphotericin B (including lipid complex, cholesteryl sulfate and liposomal forms)
@@ -100,7 +100,7 @@ Package insert warnings and contraindications were not available for this report
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests mainly on a high model score. There are no clinical trials, and the literature offers only indirect preclinical iron-biology data with an unclear direction of effect. Deferasirox also carries liver, kidney and blood-count safety concerns, and none of its US authorizations is currently active.
+The prediction rests mainly on a high model score. There are no clinical trials, and the literature offers only indirect preclinical iron-biology data with an unclear direction of effect.
 
 **To proceed, the following is needed:**
 - Direct in vitro or in vivo evidence that deferasirox affects HIV-1 replication, and clarification of whether iron restriction helps or harms

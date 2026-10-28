@@ -4,17 +4,17 @@ title: Phenobarbital
 parent: Model Prediction Only (L5)
 nav_order: 1037
 evidence_level: L5
-indication_count: 10
+indication_count: 3
 last_modified_at: 2026-10-14
-description: "Phenobarbital: predicted new indication Trigeminal nerve neoplasm (evidence level L5). Approved use: Epilepsy (including generalized tonic-clonic and partial seizures)…"
 monitor_inn: "PHENOBARBITAL"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
+description: "Phenobarbital: predicted new indication Trigeminal nerve neoplasm (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Phenobarbital
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Phenobarbital: From Epilepsy to Trigeminal Nerve Neoplasm
+## Phenobarbital: Trigeminal nerve neoplasm
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Phenobarbital is a long-established anticonvulsant, originally used for epilepsy (including generalized tonic-clonic and partial seizures) and headache disorders such as migraine and cluster headache.
 The TxGNN model's top-ranked prediction is **Trigeminal Nerve Neoplasm**, but there are **0 clinical trials** and only **1 publication**, and that paper does not address this disease.
-The prediction is best read as a likely graph artifact. The more credible repurposing directions are the seizure-related predictions further down the list.
+The prediction is best read as a likely model artifact. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ---
 
@@ -48,11 +48,11 @@ The prediction is best read as a likely graph artifact. The more credible repurp
 
 | Item | Content |
 |------|------|
-| Original Indication | Epilepsy (including generalized tonic-clonic and partial seizures), migraine, Lennox-Gastaut syndrome (from the knowledge graph; no approved indication text is available from the US license record) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Trigeminal nerve neoplasm |
-| TxGNN Prediction Score | 99.96% |
+| TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (the single listed license is cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 1) |
 | Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
@@ -62,9 +62,9 @@ The prediction is best read as a likely graph artifact. The more credible repurp
 
 Currently, detailed mechanism of action data is not available in the compiled data. From general pharmacology, phenobarbital is a barbiturate anticonvulsant that enhances GABA-A receptor-mediated inhibition. This explains its established role in seizure control.
 
-For the top-ranked prediction, **trigeminal nerve neoplasm**, no credible mechanistic link can be established. Phenobarbital has no known antitumour activity. The only retrieved paper is a case series on Sturge-Weber syndrome, which is not a trigeminal neoplasm. The very high score (99.96%) is probably a graph artifact, arising from the closeness of the trigeminal-nerve and seizure nodes in the knowledge graph.
+For the top-ranked prediction, **trigeminal nerve neoplasm**, no credible mechanistic link can be established. Phenobarbital has no known antitumor activity. The only retrieved paper is a case series on Sturge-Weber syndrome, which is not a trigeminal neoplasm. The very high score (0.9996) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
-Other predictions are more biologically coherent. Several are reflex or stimulus-triggered seizure syndromes (micturition-induced, eating, thinking, audiogenic, startle and reading seizures, plus orgasm-induced seizures). Phenobarbital's general antiseizure action makes these plausible, although direct evidence is scarce. **Trigeminal neuralgia** (score 99.88%) is also plausible, because anticonvulsants are the standard drug class, mainly carbamazepine. The evidence for phenobarbital itself is indirect.
+Other predictions are more biologically coherent. Several are reflex or stimulus-triggered seizure syndromes (micturition-induced, eating, thinking, audiogenic, startle and reading seizures, plus orgasm-induced seizures). Phenobarbital's general antiseizure action makes these plausible, although direct evidence is scarce. **Trigeminal neuralgia** (score 0.9988) is also plausible, because anticonvulsants are the standard drug class, mainly carbamazepine. The evidence for phenobarbital itself is indirect.
 
 ---
 
@@ -139,7 +139,7 @@ Please refer to the package insert for the official warnings and contraindicatio
 **Decision: Hold**
 
 **Rationale:**
-The top prediction, trigeminal nerve neoplasm, has no clinical trials, no relevant literature and no plausible mechanism (Evidence Level L5). The score looks like a knowledge-graph artifact. Among the other predictions, the seizure-related ones have plausible mechanisms but only indirect evidence (L4), and trigeminal neuralgia is better served by established agents such as carbamazepine. The US licence is cancelled and the safety profile is substantial (many contraindications, strong CYP induction, neurodevelopmental concerns).
+The top prediction, trigeminal nerve neoplasm, has no clinical trials, no relevant literature and no plausible mechanism (Evidence Level L5). The score looks like a TxGNN model (deep learning) artifact. Among the other predictions, the seizure-related ones have plausible mechanisms but only indirect evidence (L4), and trigeminal neuralgia is better served by established agents such as carbamazepine. The US licence is cancelled and the safety profile is substantial (many contraindications, strong CYP induction, neurodevelopmental concerns).
 
 **To proceed, the following is needed:**
 - Re-prioritise away from trigeminal nerve neoplasm. Consider the seizure-related and trigeminal neuralgia predictions as research questions instead.

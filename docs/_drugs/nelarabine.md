@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "NELARABINE"
 predicted_indications: ["relapsing-remitting multiple sclerosis"]
 last_modified_at: 2026-10-14
-description: "Nelarabine: predicted new indication Relapsing-remitting multiple sclerosis (evidence level L5). Approved use: Acute lymphoblastic/lymphocytic leukemia…"
+description: "Nelarabine: predicted new indication Relapsing-remitting multiple sclerosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Nelarabine
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-## Nelarabine: From T-Cell Acute Lymphoblastic Leukemia to Relapsing-Remitting Multiple Sclerosis
+## Nelarabine: Relapsing-remitting multiple sclerosis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 
 | Item | Content |
 |------|------|
-| Original Indication | Acute lymphoblastic/lymphocytic leukemia, precursor T-cell acute lymphoblastic leukemia, T-cell leukemia, T-lymphoblastic lymphoma |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Relapsing-remitting multiple sclerosis |
-| TxGNN Prediction Score | 99.43% |
+| TxGNN Prediction Score | 0.9943 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all 10 authorizations are cancelled) |
-| Number of NDAs | 10 (1 NDA and 9 ANDAs) |
+| US Market Status | Marketed (valid licenses: 10 of 10) |
+| Number of NDAs | 10 (valid: 10) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 Relapsing-remitting multiple sclerosis is driven in part by pathogenic autoreactive lymphocytes. Selectively depleting lymphocytes is the same rationale behind cladribine, a purine analog approved for MS. This gives the prediction a plausible mechanistic basis.
 
-However, this link is inferred by analogy and from the high TxGNN score (0.994), not from direct evidence. A major concern is that nelarabine carries a boxed warning for severe neurologic toxicity (somnolence, neuropathy, demyelination, Guillain-Barré-like syndromes). This is a serious problem in a demyelinating CNS disease and may argue against use.
+However, this link is inferred by analogy and from the high TxGNN score (0.9943), not from direct evidence. A major concern is that nelarabine carries a boxed warning for severe neurologic toxicity (somnolence, neuropathy, demyelination, Guillain-Barré-like syndromes). This is a serious problem in a demyelinating CNS disease and may argue against use.
 
 ## Clinical Trial Evidence
 
@@ -87,7 +87,6 @@ The 10 US authorizations are all injectable products and all currently have canc
 | Item | Content |
 |------|------|
 | Cytotoxicity Classification | Conventional cytotoxic (purine nucleoside analog / antimetabolite) |
-| Myelosuppression Risk | Please refer to the package insert warnings and precautions. The knowledge graph links nelarabine to neutropenia, thrombocytopenia, anemia and agranulocytosis. |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
 | Monitoring Items | Complete blood count, liver and renal function, bilirubin, and neurologic status |
 | Handling Protection | Must follow cytotoxic drug handling regulations |
@@ -103,7 +102,7 @@ The 10 US authorizations are all injectable products and all currently have canc
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting clinical trials or literature (evidence level L5). Nelarabine's known neurotoxicity, including demyelination, and the knowledge-graph contraindication with demyelinating disease run directly against use in multiple sclerosis. All US authorizations are also currently cancelled.
+The prediction has no supporting clinical trials or literature (evidence level L5). Nelarabine's known neurotoxicity, including demyelination, and the knowledge-graph contraindication with demyelinating disease run directly against use in multiple sclerosis. The drug is currently marketed in the US, with 10 of 10 licenses valid.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

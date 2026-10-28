@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Iloprost
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 790
-evidence_level: L3
-indication_count: 9
-last_modified_at: 2026-10-14
-description: "Iloprost: predicted new indication Pulmonary arterial hypertension associated with congenital heart dise… (evidence level L3). Approved use: Pulmonary arterial hypertension"
+evidence_level: L5
+indication_count: 4
+last_modified_at: 2026-10-28
 monitor_inn: "ILOPROST"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "pulmonary arteriovenous malformation (disease)", "diffuse alopecia areata"]
+description: "Iloprost: predicted new indication Hypotrichosis simplex of the scalp (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Iloprost
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **9** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,28 +33,27 @@ Evidence Level: **L3** | Predicted Indications: **9**
 
 </div>
 
-## Iloprost: From Pulmonary Arterial Hypertension to PAH Associated with Congenital Heart Disease
+## Iloprost: Hypotrichosis simplex of the scalp
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Iloprost is a prostacyclin analog originally used to treat pulmonary arterial hypertension (PAH).
-The TxGNN model predicts it may be effective for **pulmonary arterial hypertension associated with congenital heart disease**,
 with **no registered clinical trials** but **20 publications** (mostly observational studies, case series, and reviews) currently supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Pulmonary arterial hypertension |
-| Predicted New Indication | Pulmonary arterial hypertension associated with congenital heart disease |
-| TxGNN Prediction Score | 99.32% |
-| Evidence Level | L3 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Hypotrichosis simplex of the scalp |
+| TxGNN Prediction Score | 0.9945 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
-*Note: The top-ranked TxGNN predictions (hypotrichosis simplex of the scalp, 99.45%, and congenital hypotrichosis milia, 99.33%) have no supporting clinical or literature evidence and are likely graph-proximity artifacts. This report focuses on the highest-ranked prediction with meaningful supporting evidence (rank 3).*
+This report focuses on the highest-ranked prediction with meaningful supporting evidence (rank 3).*
 
 ## Why is This Prediction Reasonable?
 
@@ -118,7 +117,7 @@ The mechanism is the same as in the approved PAH indication, and several cohort 
 - A prospective controlled study in CHD-PAH, ideally in specialist centers
 
 **Other predictions (not recommended at this stage):**
-- **Connective tissue disease-associated PAH (rank 6, 99.21%)**: L3, Proceed with Guardrails. Supported by long-term intravenous iloprost outcomes (PMID 27651181) and reviews.
+- Supported by long-term intravenous iloprost outcomes (PMID 27651181) and reviews.
 - **PAH associated with schistosomiasis (rank 7) and HIV infection (rank 8)**: L4, Research Question. Only indirect evidence.
 - **PAH associated with chronic hemolytic anemia (rank 5)**: L5, Hold. No direct evidence, and the disease drivers differ.
 - **Pulmonary arteriovenous malformation (rank 4)**: L5, Hold. There is a theoretical safety concern, because vasodilators could worsen right-to-left shunting.

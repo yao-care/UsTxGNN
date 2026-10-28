@@ -48,10 +48,10 @@ This prediction is not supported by clinical data.
 |------|------|
 | Original Indication | Bile acid synthesis disorders and biliary conditions (constipation disorder, cholelithiasis, choledocholithiasis, biliary tract disease, obstructive jaundice, cerebrotendinous xanthomatosis) |
 | Predicted New Indication | HIV infectious disease |
-| TxGNN Prediction Score | 99.79% |
+| TxGNN Prediction Score | 0.9979 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 The link to HIV is weak and indirect. A 1993 in vitro study found that sodium cholate had spermicidal activity and inhibited HIV-1 reverse transcriptase, and it was tested in a vaginal sponge together with nonoxynol-9 and benzalkonium chloride. In contrast, a 2006 study found that amino-functionalized cholic acid derivatives **induced** HIV-1 replication and syncytia formation in T cells, which argues against benefit. A 2010 cohort paper only describes plasma bile acid levels in HIV patients on protease inhibitors, which is an association rather than a treatment effect.
 
-The very high model score (99.79%) is therefore not backed by clinical evidence.
+The very high model score (0.9979) is therefore not backed by clinical evidence.
 
 ## Clinical Trial Evidence
 

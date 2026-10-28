@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Hydromorphone
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 777
-evidence_level: L4
+evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-14
-description: "Hydromorphone: predicted new indication Pharyngitis (evidence level L4). Approved use: Common cold, nasopharyngitis"
 monitor_inn: "HYDROMORPHONE"
 predicted_indications: ["pharyngitis", "allergic urticaria", "nasal cavity disease", "acute laryngopharyngitis", "headache disorder", "trigeminal autonomic cephalalgia"]
+description: "Hydromorphone: predicted new indication Pharyngitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Hydromorphone
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Evidence Level: **L4** | Predicted Indications: **6**
 
 </div>
 
-## Hydromorphone: From Common Cold to Pharyngitis
+## Hydromorphone: Pharyngitis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Hydromorphone is an opioid medicine. In the knowledge graph its listed original indications are the common cold and nasopharyngitis, while its actual US products are opioid analgesics.
+Hydromorphone is an opioid medicine. Its actual US products are opioid analgesics.
 The TxGNN model predicts it may be effective for **Pharyngitis**, but the **3 related clinical trials** are all post-tonsillectomy pain studies and **no publications** directly address pharyngitis.
 The strongest signal in the data is for **headache disorder**, where evidence exists but does not favor hydromorphone.
 
@@ -48,11 +48,11 @@ The strongest signal in the data is for **headache disorder**, where evidence ex
 
 | Item | Content |
 |------|------|
-| Original Indication | Common cold, nasopharyngitis (from the knowledge graph; no approved indication text is available for the US licenses) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Pharyngitis |
-| TxGNN Prediction Score | 99.81% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| TxGNN Prediction Score | 0.9981 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 10) |
 | Number of NDAs | 10 (all cancelled; includes ANDAs) |
 | Recommended Decision | Hold |
 
@@ -110,7 +110,7 @@ No literature is available for pharyngitis. The literature below relates to the 
 
 ## US Market Information
 
-All 10 US authorizations are cancelled. No approved indication text is available for any of them.
+The drug is marketed in the US, with 10 valid authorizations. No approved indication text is available for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -142,14 +142,14 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-- The pharyngitis prediction rests on a high model score only. The three trials study post-tonsillectomy pain, not pharyngitis, and two of them test methadone. Opioids are not recommended for routine pharyngitis pain, and all US licenses are cancelled.
+- The pharyngitis prediction rests on a high model score only. The three trials study post-tonsillectomy pain, not pharyngitis, and two of them test methadone. Opioids are not recommended for routine pharyngitis pain.
 - The headache disorder prediction has direct trial data (L3), but they show hydromorphone is inferior to non-opioid alternatives, and current guidance recommends against routine opioid use for acute migraine. It is best framed as a research question about safety and place in therapy.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and FDA package insert warnings and contraindications (blocking gap for safety screening)
 - Trials of hydromorphone in pharyngitis itself, not postoperative pain
 - A comparison against standard non-opioid analgesics, with a benefit-risk analysis covering respiratory depression, dependence and medication-overuse headache
-- Confirmation of the current US regulatory status, since all licenses are listed as cancelled
+- Confirmation of the current US regulatory status, since 10 valid licenses are listed
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

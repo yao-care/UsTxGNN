@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Omeprazole
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 993
-evidence_level: L4
-indication_count: 2
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-14
-description: "Omeprazole: predicted new indication Duodenogastric reflux (evidence level L4). Approved use: Gastric ulcer, peptic ulcer disease, GERD, esophagitis…"
 monitor_inn: "OMEPRAZOLE"
 predicted_indications: ["duodenal obstruction"]
+description: "Omeprazole: predicted new indication Duodenal obstruction (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Omeprazole
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **2** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Evidence Level: **L4** | Predicted Indications: **2**
 
 </div>
 
-## Omeprazole: From Gastric Ulcer and Acid-Related Disease to Duodenogastric Reflux
+## Omeprazole: Duodenal obstruction
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Omeprazole is a proton pump inhibitor originally used for acid-related conditions such as gastric and duodenal ulcer, gastroesophageal reflux disease (GERD), esophagitis and Zollinger-Ellison syndrome.
-The TxGNN model predicts it may be effective for **duodenogastric reflux**, but only **1 registered clinical trial (not directly relevant)** and a small body of mostly small-scale or animal literature exist, so the prediction is **still at the research-question stage**.
 
 ---
 
@@ -47,11 +46,11 @@ The TxGNN model predicts it may be effective for **duodenogastric reflux**, but 
 
 | Item | Content |
 |------|------|
-| Original Indication | Gastric ulcer, peptic ulcer disease, GERD, esophagitis, duodenal ulcer, Zollinger-Ellison syndrome (US label indication text is not available in the data compiled for this report) |
-| Predicted New Indication | Duodenogastric reflux |
-| TxGNN Prediction Score | 99.64% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (all 10 listed authorizations are cancelled) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Duodenal obstruction |
+| TxGNN Prediction Score | 0.9964 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 10) |
 | Number of NDAs | 10 authorizations (2 NDAs, 8 ANDAs) |
 | Recommended Decision | Hold |
 
@@ -97,13 +96,12 @@ No randomized controlled trials were identified.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA022032 | Omeprazole (Publix Super Markets) | Delayed-release tablet | Not available (cancelled) |
-| NDA209400 | Omeprazole (H E B) | Orally disintegrating delayed-release tablet | Not available (cancelled) |
-| ANDA212977 | Omeprazole (RemedyRepack) | Delayed-release capsule | Not available (cancelled) |
-| ANDA203270 | Omeprazole (Rising Pharma) | Delayed-release capsule | Not available (cancelled) |
-| ANDA091672 | Omeprazole (Preferred Pharmaceuticals) | Delayed-release capsule | Not available (cancelled) |
+| NDA022032 | Omeprazole (Publix Super Markets) | Delayed-release tablet | Not available (valid) |
+| NDA209400 | Omeprazole (H E B) | Orally disintegrating delayed-release tablet | Not available (valid) |
+| ANDA212977 | Omeprazole (RemedyRepack) | Delayed-release capsule | Not available (valid) |
+| ANDA203270 | Omeprazole (Rising Pharma) | Delayed-release capsule | Not available (valid) |
+| ANDA091672 | Omeprazole (Preferred Pharmaceuticals) | Delayed-release capsule | Not available (valid) |
 
-All 10 authorizations in the data are cancelled; the table shows the first 5.
 
 ---
 
@@ -125,20 +123,19 @@ Package-insert warnings and contraindications are not available in the data comp
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a high model score and a plausible but indirect link to acid-related disease. There are no relevant interventional trials and no RCTs. The few clinical studies are small, and animal data point to a possible carcinogenesis risk when acid suppression is combined with bile reflux. All US authorizations in the data are cancelled, and label safety information is missing.
+The prediction rests on a high model score and a plausible but indirect link to acid-related disease. There are no relevant interventional trials and no RCTs. The few clinical studies are small, and animal data point to a possible carcinogenesis risk when acid suppression is combined with bile reflux.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism-of-action data
 - Controlled clinical evidence of omeprazole in duodenogastric reflux, with attention to the long-term gastric carcinogenesis signal
 - Confirmation of the current US marketing and authorization status
-- Review of the knowledge-graph disease associations (hepatic, cardiac, bone) against label text
 
 ---
 
 ### Note on the second predicted indication (duodenal obstruction)
 
-Duodenal obstruction (TxGNN score 99.64%, evidence level L5, decision **Hold**) is not supported. It is a mechanical condition, omeprazole has no plausible direct effect on it, and the one linked trial (NCT00557921, a terminated Phase 3 study of clopidogrel plus omeprazole for upper GI bleeding) does not address obstruction. The literature consists of case reports on ulcer, stenosis and Crohn's disease. The high score likely reflects network proximity to peptic ulcer disease and not a true treatment effect.
+Duodenal obstruction (TxGNN score 0.9964, evidence level L5, decision **Hold**) is not supported. It is a mechanical condition, omeprazole has no plausible direct effect on it, and the one linked trial (NCT00557921, a terminated Phase 3 study of clopidogrel plus omeprazole for upper GI bleeding) does not address obstruction. The literature consists of case reports on ulcer, stenosis and Crohn's disease. The high score likely reflects network proximity to peptic ulcer disease and not a true treatment effect.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

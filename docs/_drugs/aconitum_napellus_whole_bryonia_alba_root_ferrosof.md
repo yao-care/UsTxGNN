@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Aconitum Napellus Whole Bryonia Alba Root Ferrosof
@@ -49,7 +50,8 @@ This product is a multi-component homeopathic remedy containing 9 ingredients (i
 | Predicted New Indications | None (TxGNN unable to generate predictions) |
 | TxGNN Prediction Score | None |
 | Evidence Level | Unable to assess |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 6) |
+| Number of NDAs | at least 6 |
 | NDA Count | 0 |
 | Recommended Decision | **Hold** |
 

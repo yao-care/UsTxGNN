@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "POLYVINYL ALCOHOL"
 predicted_indications: ["congenital ichthyosiform erythroderma", "self-healing collodion baby", "lamellar ichthyosis", "bathing suit ichthyosis"]
 last_modified_at: 2026-10-14
-description: "Polyvinyl Alcohol: predicted new indication Congenital ichthyosiform erythroderma (evidence level L5). Approved use: Dry eye syndrome, xerophthalmia"
+description: "Polyvinyl Alcohol: predicted new indication Congenital ichthyosiform erythroderma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Polyvinyl Alcohol
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-## Polyvinyl Alcohol: From Dry Eye Syndrome to Congenital Ichthyosiform Erythroderma
+## Polyvinyl Alcohol: Congenital ichthyosiform erythroderma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,11 +45,11 @@ The TxGNN model predicts it may be effective for **Congenital Ichthyosiform Eryt
 
 | Item | Content |
 |------|------|
-| Original Indication | Dry eye syndrome, xerophthalmia (from the knowledge graph; no approved indication text on the US license record) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Congenital ichthyosiform erythroderma |
-| TxGNN Prediction Score | 99.90% |
+| TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
+| US Market Status | Marketed (valid licenses on record: at least 1) |
 | Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
@@ -57,9 +57,9 @@ Other predicted indications, all L5 and Hold:
 
 | Rank | Predicted Indication | TxGNN Score |
 |------|------|------|
-| 2 | Self-healing collodion baby | 99.83% |
-| 3 | Lamellar ichthyosis | 99.72% |
-| 4 | Bathing suit ichthyosis | 99.54% |
+| 2 | Self-healing collodion baby | 0.9983 |
+| 3 | Lamellar ichthyosis | 0.9972 |
+| 4 | Bathing suit ichthyosis | 0.9954 |
 
 ## Why is This Prediction Reasonable?
 
@@ -85,7 +85,7 @@ Currently no related literature available.
 |---------|------|------|-----------|
 | M018 (cancelled) | Polyvinyl Alcohol (A-S Medication Solutions) | Solution / drops | Not stated on the license record |
 
-The only US authorization is cancelled, and there are no currently valid licenses. This limits practical development.
+The drug is currently marketed in the US, with 1 valid license.
 
 ## Safety Considerations
 

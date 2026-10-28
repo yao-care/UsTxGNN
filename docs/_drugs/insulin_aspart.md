@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Insulin Aspart
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 796
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 8
 last_modified_at: 2026-10-14
-description: "Insulin Aspart: predicted new indication Type 1 diabetes mellitus (evidence level L1). Approved use: Diabetes mellitus"
 monitor_inn: "INSULIN ASPART"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy"]
+description: "Insulin Aspart: predicted new indication Autoimmune oophoritis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Insulin Aspart
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,23 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-## Insulin Aspart: From Diabetes Mellitus to Type 1 Diabetes Mellitus
+## Insulin Aspart: Autoimmune oophoritis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Insulin aspart is a rapid-acting insulin analogue, originally used to treat diabetes mellitus and diabetic ketoacidosis.
-The TxGNN model predicts it may be effective for **Type 1 Diabetes Mellitus**, with **30 clinical trials** and **20 publications** currently supporting this direction.
 Note that type 1 diabetes is effectively part of the drug's existing (on-label) use, so this is a confirmation of a core use rather than true repurposing.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Diabetes mellitus; diabetic ketoacidosis |
-| Predicted New Indication | Type 1 diabetes mellitus |
-| TxGNN Prediction Score | 99.95% |
-| Evidence Level | L1 |
-| US Market Status | Cancelled only (all 5 listed licenses are cancelled) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Autoimmune oophoritis |
+| TxGNN Prediction Score | 0.9992 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of NDAs | 5 |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -102,13 +101,13 @@ The compiled data lists 20 publications for type 1 diabetes. The 10 most relevan
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA020986 | NOVOLOG (A-S Medication Solutions) | Injection, solution | Not listed (cancelled) |
-| BLA761325 | MERILOG (Sanofi-Aventis U.S. LLC) | Injection, solution | Not listed (cancelled) |
-| BLA021172 | Insulin Aspart Protamine and Insulin Aspart (RemedyRepack) | Injection, suspension | Not listed (cancelled) |
-| BLA208751 | Fiasp (Novo Nordisk) | Injection, solution | Not listed (cancelled) |
-| BLA761188 | KIRSTY (Biocon Biologics) | Injection, solution | Not listed (cancelled) |
+| BLA020986 | NOVOLOG (A-S Medication Solutions) | Injection, solution | Not listed (valid) |
+| BLA761325 | MERILOG (Sanofi-Aventis U.S. LLC) | Injection, solution | Not listed (valid) |
+| BLA021172 | Insulin Aspart Protamine and Insulin Aspart (RemedyRepack) | Injection, suspension | Not listed (valid) |
+| BLA208751 | Fiasp (Novo Nordisk) | Injection, solution | Not listed (valid) |
+| BLA761188 | KIRSTY (Biocon Biologics) | Injection, solution | Not listed (valid) |
 
-All five listed authorizations are recorded as cancelled, and no approved-indication text is available. The applications are biologics licenses (BLAs) rather than NDAs.
+The applications are biologics licenses (BLAs) rather than NDAs.
 
 ## Safety Considerations
 

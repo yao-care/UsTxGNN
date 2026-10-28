@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Hydroxyzine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 782
-evidence_level: L4
-indication_count: 5
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-14
-description: "Hydroxyzine: predicted new indication Allergic urticaria (evidence level L4). Approved use: Atopic eczema, allergic rhinitis, urticaria…"
 monitor_inn: "HYDROXYZINE"
 predicted_indications: ["rosacea conjunctivitis"]
+description: "Hydroxyzine: predicted new indication Rosacea conjunctivitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Hydroxyzine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,23 +33,23 @@ Evidence Level: **L4** | Predicted Indications: **5**
 
 </div>
 
-## Hydroxyzine: From Allergic and Atopic Skin and Eye Conditions to Allergic Urticaria
+## Hydroxyzine: Rosacea conjunctivitis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Hydroxyzine is a first-generation antihistamine, originally used for allergic conditions such as atopic dermatitis, allergic rhinitis, allergic conjunctivitis, urticaria and angioedema.
-The TxGNN model predicts it may be effective for **Allergic Urticaria**, but there are **0 registered clinical trials** and **20 publications** for this prediction. Most of the publications concern cetirizine (hydroxyzine's active metabolite) and other antihistamines, so the support is indirect.
+Most of the publications concern cetirizine (hydroxyzine's active metabolite) and other antihistamines, so the support is indirect.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Atopic eczema, allergic rhinitis, urticaria, angioedema and related allergic conditions |
-| Predicted New Indication | Allergic urticaria |
-| TxGNN Prediction Score | 99.77% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Rosacea conjunctivitis |
+| TxGNN Prediction Score | 0.9970 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 15) |
 | Number of NDAs | 15 (all ANDA generic applications, all cancelled) |
 | Recommended Decision | Hold |
 
@@ -84,7 +84,7 @@ The table lists the most relevant publications, with reviews prioritized. None i
 
 ## US Market Information
 
-All 15 US authorizations are cancelled. The data compiled for this report do not include approved indication text, so none is shown. The table lists 5 of the 15.
+The data compiled for this report do not include approved indication text, so none is shown. The table lists 5 of the 15.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -112,10 +112,9 @@ Please also refer to the package insert for full safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is mechanistically sound but is essentially an existing use. There are no hydroxyzine-specific trials, the literature is mostly about cetirizine and other antihistamines, and all US licenses are cancelled. Guidelines now prefer second-generation antihistamines. The evidence is at level L4, which supports further research but not progression.
+The prediction is mechanistically sound but is essentially an existing use. Guidelines now prefer second-generation antihistamines. The evidence is at level L4, which supports further research but not progression.
 
 **To proceed, the following is needed:**
-- Confirmation of current US availability, since all licenses are cancelled
 - Hydroxyzine-specific clinical data in allergic urticaria, with a rationale for choosing it over second-generation antihistamines
 - Package insert warnings and contraindications for formal safety screening
 - Detailed mechanism-of-action data
@@ -125,10 +124,7 @@ The prediction is mechanistically sound but is essentially an existing use. Ther
 
 | Predicted Indication | TxGNN Score | Evidence Level | Assessment |
 |------|------|------|------|
-| Cold urticaria | 99.66% | L3 | Research question. A 1984 small comparative study (PMID 6480953) and a 1979 single-patient report (PMID 475987) give limited direct evidence for hydroxyzine. |
-| Rosacea conjunctivitis | 99.70% | L5 | Hold. Weak mechanistic link, since ocular rosacea is not mainly histamine-driven, and no trials or literature. |
-| Recalcitrant atopic dermatitis | 99.36% | L5 | Hold. Hydroxyzine only relieves itch, and the data contain no trials or literature for this subtype. |
-| IgE responsiveness, atopic | 99.27% | L5 | Hold. This is an immunological trait rather than a clinical indication, and no trials or literature were found. |
+| Rosacea conjunctivitis | 0.9970 | L5 | Hold. Weak mechanistic link, since ocular rosacea is not mainly histamine-driven, and no trials or literature. |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

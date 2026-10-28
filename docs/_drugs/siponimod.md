@@ -4,9 +4,9 @@ title: Siponimod
 parent: Model Prediction Only (L5)
 nav_order: 1165
 evidence_level: L5
-indication_count: 8
+indication_count: 7
 monitor_inn: "SIPONIMOD"
-predicted_indications: ["pulmonary hypertension", "migraine disorder", "kyphoscoliotic heart disease", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "Prinzmetal angina", "rheumatoid arthritis", "atrophoderma vermiculata"]
+predicted_indications: ["pulmonary hypertension", "migraine disorder", "kyphoscoliotic heart disease", "migraine with brainstem aura", "Prinzmetal angina", "rheumatoid arthritis", "atrophoderma vermiculata"]
 last_modified_at: 2026-10-14
 description: "Siponimod: predicted new indication Pulmonary hypertension (evidence level L5). Approved use: Not available in the compiled data"
 ---
@@ -14,7 +14,7 @@ description: "Siponimod: predicted new indication Pulmonary hypertension (eviden
 # Siponimod
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **8** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **pulmonary hypertension**, but
 |------|------|
 | Original Indication | Not available in the compiled data (the approved indication text on the US license is empty) |
 | Predicted New Indication | Pulmonary hypertension |
-| TxGNN Prediction Score | 99.68% |
+| TxGNN Prediction Score | 0.9968 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -61,7 +61,7 @@ The direction of effect is uncertain, however. S1P receptor modulation has also 
 
 The other predicted indications are weaker or less coherent:
 
-- **Migraine disorder, migraine with brainstem aura, and migraine susceptibility (ranks 2, 4, 5):** The literature hits are a generic neurology review series and a case report in which migraine remitted in a patient with multiple sclerosis (MS) after starting interferon β1a. None tests siponimod as a migraine treatment. The scores likely reflect proximity between related migraine nodes in the knowledge graph.
+- **Migraine disorder and migraine with brainstem aura (ranks 2 and 4):** The literature hits are a generic neurology review series and a case report in which migraine remitted in a patient with multiple sclerosis (MS) after starting interferon β1a. None tests siponimod as a migraine treatment. The scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 - **Rheumatoid arthritis (rank 7):** This has the most plausible indirect support (L4). S1P modulation limits lymphocyte egress from lymphoid organs, and a review covers S1P signalling in immune-mediated diseases beyond MS. No RA-specific siponimod trial was found.
 - **Kyphoscoliotic heart disease, Prinzmetal angina, atrophoderma vermiculata (ranks 3, 6, 8):** No plausible mechanistic link or evidence was found. For Prinzmetal angina, the cardiac liabilities of S1P modulators suggest a safety concern more than a benefit.
 
@@ -87,7 +87,7 @@ For context, the literature found for other predicted indications (not for the l
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA209884 | MAYZENT (Novartis Pharmaceuticals Corporation) | Tablet, film coated | Not available (status: cancelled) |
+| NDA209884 | MAYZENT (Novartis Pharmaceuticals Corporation) | Tablet, film coated | Not available (status: valid) |
 
 ## Safety Considerations
 

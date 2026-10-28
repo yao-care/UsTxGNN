@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Cysteine
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 561
-evidence_level: L5
+evidence_level: L4
 indication_count: 7
 monitor_inn: "CYSTEINE"
 predicted_indications: ["dry eye syndrome", "closed-angle glaucoma", "nasal cavity disease", "acute laryngopharyngitis", "pharyngitis", "exercise-induced malignant hyperthermia", "angle-closure glaucoma"]
 last_modified_at: 2026-10-14
-description: "Cysteine: predicted new indication Dry eye syndrome (evidence level L5). Approved use: Bronchitis, paracetamol poisoning, cystic fibrosis, bronchiectasis…"
+description: "Cysteine: predicted new indication Dry eye syndrome (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Cysteine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **7** 
+Evidence Level: **L4** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,24 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-## Cysteine: From Bronchitis and Mucus-Related Conditions to Dry Eye Syndrome
+## Cysteine: Dry eye syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Cysteine is an amino acid used in injectable and liquid products. Its original indications in the knowledge graph include bronchitis, paracetamol poisoning, cystic fibrosis, bronchiectasis and amyloidosis.
+Cysteine is an amino acid used in injectable and liquid products. Its original indications include bronchitis, paracetamol poisoning, cystic fibrosis, bronchiectasis and amyloidosis.
 The TxGNN model predicts it may be effective for **dry eye syndrome**, but there are **0 clinical trials** and only **preclinical literature** in which cysteine serves mainly as a component of a delivery system or prodrug.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Bronchitis, paracetamol poisoning, cystic fibrosis, bronchiectasis, amyloidosis (from the knowledge graph; no approved indication text is available for the US licenses) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Dry eye syndrome |
-| TxGNN Prediction Score | 99.98% |
+| TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L4 (preclinical and mechanism studies only) |
-| US Market Status | Cancelled only (all licenses cancelled) |
-| Number of NDAs | 3 |
+| US Market Status | Marketed (valid licenses: 3 of 3) |
+| Number of NDAs | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -86,12 +86,12 @@ The most relevant publications are listed below. All are preclinical or review-l
 
 ## US Market Information
 
-All three US licenses are cancelled, and the data compiled for this report contain no approved indication text.
+All three US licenses are valid, and the data compiled for this report contain no approved indication text.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| NDA212535 | Cysteine Hydrochloride (Baxter Healthcare) | Injection | Cancelled |
-| NDA210660 | ELCYS (Exela Pharma Sciences) | Injection, solution | Cancelled |
+| NDA212535 | Cysteine Hydrochloride (Baxter Healthcare) | Injection | Valid |
+| NDA210660 | ELCYS (Exela Pharma Sciences) | Injection, solution | Valid |
 | Not available | L-Cysteine (Professional Complementary Health Formulas) | Liquid | Cancelled |
 
 ## Safety Considerations
@@ -114,7 +114,7 @@ No drug interaction data were found.
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score for dry eye is very high, but supporting evidence is limited to preclinical formulation and mechanism studies, with no clinical trials. In these studies cysteine acts as a component of a delivery system or prodrug, not as a stand-alone treatment. All US licenses are cancelled, and no label safety data are available.
+The TxGNN score for dry eye is very high, but supporting evidence is limited to preclinical formulation and mechanism studies, with no clinical trials. In these studies cysteine acts as a component of a delivery system or prodrug, not as a stand-alone treatment. All three US licenses are valid, and no label safety data are available.
 
 Other predicted indications are weaker:
 

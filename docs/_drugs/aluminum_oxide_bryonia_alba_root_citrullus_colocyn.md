@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Aluminum Oxide Bryonia Alba Root Citrullus Colocyn
@@ -49,7 +50,7 @@ This candidate is a nine-ingredient homeopathic mixture — including Bryonia Al
 | Predicted New Indication | None — TxGNN did not generate a prediction |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (prediction-only basis — and none generated) |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 3) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 

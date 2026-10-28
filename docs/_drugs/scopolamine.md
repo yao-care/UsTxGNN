@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "SCOPOLAMINE"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "papillary conjunctivitis", "atopic conjunctivitis", "rosacea conjunctivitis", "vernal conjunctivitis"]
 last_modified_at: 2026-10-14
-description: "Scopolamine: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Motion sickness, peptic ulcer disease, irritable bowel syndrome…"
+description: "Scopolamine: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Scopolamine
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-## Scopolamine: From Motion Sickness and Anticholinergic Indications to Cauda Equina Syndrome
+## Scopolamine: Cauda equina syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ but **no clinical trials and no publications** currently support this prediction
 
 | Item | Content |
 |------|------|
-| Original Indication | Motion sickness, peptic ulcer disease, irritable bowel syndrome, allergic rhinitis, uveitis, cycloplegia, and others (from the knowledge graph; no approved indication text in the US license records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Cauda equina syndrome |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 9 license records (1 NDA, 7 ANDAs, 1 record without a number), all cancelled |
+| US Market Status | Marketed (valid licenses: 9 of 9) |
+| Number of NDAs | 9 (valid: 9) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -66,11 +66,11 @@ Other predicted indications were also reviewed. All are at evidence level L5 wit
 
 | Predicted Indication | TxGNN Score | Assessment |
 |------|------|------|
-| Obsolete neurogenic bladder (disease) | 99.98% | Mechanism is plausible (antimuscarinics are an established approach for neurogenic detrusor overactivity), but scopolamine has central nervous system effects and better-studied alternatives exist, such as oxybutynin and solifenacin. The disease term is obsolete in the ontology and needs mapping to a current concept. |
-| Papillary conjunctivitis | 99.98% | Driven by allergic or mechanical inflammation; no established antimuscarinic role. |
-| Atopic conjunctivitis | 99.80% | Mainly IgE/mast cell mediated; antimuscarinic action does not address the core pathology and may cause dry eye. |
-| Rosacea conjunctivitis | 99.40% | Antimuscarinics may reduce tear production and worsen dryness; poor mechanistic fit. |
-| Vernal conjunctivitis | 99.08% | Th2/mast cell driven; at most symptomatic relief of ciliary spasm. |
+| Obsolete neurogenic bladder (disease) | 0.9998 | Mechanism is plausible (antimuscarinics are an established approach for neurogenic detrusor overactivity), but scopolamine has central nervous system effects and better-studied alternatives exist, such as oxybutynin and solifenacin. The disease term is obsolete in the ontology and needs mapping to a current concept. |
+| Papillary conjunctivitis | 0.9998 | Driven by allergic or mechanical inflammation; no established antimuscarinic role. |
+| Atopic conjunctivitis | 0.9980 | Mainly IgE/mast cell mediated; antimuscarinic action does not address the core pathology and may cause dry eye. |
+| Rosacea conjunctivitis | 0.9940 | Antimuscarinics may reduce tear production and worsen dryness; poor mechanistic fit. |
+| Vernal conjunctivitis | 0.9908 | Th2/mast cell driven; at most symptomatic relief of ciliary spasm. |
 
 ## Clinical Trial Evidence
 
@@ -82,15 +82,15 @@ Currently no related literature available.
 
 ## US Market Information
 
-All nine US license records for scopolamine are cancelled. No approved indication text is available in these records.
+The nine US license records for scopolamine are all valid. No approved indication text is available in these records.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA017874 | Transderm Scop (Baxter Healthcare Corporation) | Patch, extended release | Not listed (cancelled) |
-| ANDA215329 | Scopolamine (Bryant Ranch Prepack) | Patch, extended release | Not listed (cancelled) |
-| ANDA218384 | Scopolamine (Amneal Pharmaceuticals NY LLC) | Patch, extended release | Not listed (cancelled) |
-| ANDA212342 | Scopolamine (Ingenus Pharmaceuticals, LLC) | Patch, extended release | Not listed (cancelled) |
-| ANDA217893 | Scopolamine (Zydus Pharmaceuticals USA Inc.) | Patch, extended release | Not listed (cancelled) |
+| NDA017874 | Transderm Scop (Baxter Healthcare Corporation) | Patch, extended release | Not listed (valid) |
+| ANDA215329 | Scopolamine (Bryant Ranch Prepack) | Patch, extended release | Not listed (valid) |
+| ANDA218384 | Scopolamine (Amneal Pharmaceuticals NY LLC) | Patch, extended release | Not listed (valid) |
+| ANDA212342 | Scopolamine (Ingenus Pharmaceuticals, LLC) | Patch, extended release | Not listed (valid) |
+| ANDA217893 | Scopolamine (Zydus Pharmaceuticals USA Inc.) | Patch, extended release | Not listed (valid) |
 
 ## Safety Considerations
 
@@ -112,7 +112,7 @@ Please refer to the package insert for label warnings, as they were not availabl
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a very high model score but no supporting clinical trials or literature (evidence level L5). Cauda equina syndrome is a surgical emergency, so any drug effect would be symptomatic only. All US licenses are cancelled, and the data compiled for this report lack label safety information and mechanism data.
+The prediction has a very high model score but no supporting clinical trials or literature (evidence level L5). Cauda equina syndrome is a surgical emergency, so any drug effect would be symptomatic only. All nine US licenses are valid, and the data compiled for this report lack label safety information and mechanism data.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the FDA (a blocking gap for safety screening)

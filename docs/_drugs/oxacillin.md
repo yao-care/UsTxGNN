@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "OXACILLIN"
 predicted_indications: ["epiglottitis", "laryngitis", "bacterial arthritis", "urinary tract infection (disease)"]
 last_modified_at: 2026-10-14
-description: "Oxacillin: predicted new indication Epiglottitis (evidence level L5). Approved use: Staphylococcus aureus infection, staphylococcal infection…"
+description: "Oxacillin: predicted new indication Epiglottitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Oxacillin
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-## Oxacillin: From Staphylococcal Infections to Epiglottitis
+## Oxacillin: Epiglottitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,12 +45,12 @@ The TxGNN model predicts it may be effective for **Epiglottitis**, but this pred
 
 | Item | Content |
 |------|------|
-| Original Indication | Staphylococcus aureus infection, staphylococcal infection, pharyngitis, staphylococcal pneumonia, sinusitis (from the knowledge graph; no approved indication text is available in US license records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Epiglottitis |
-| TxGNN Prediction Score | 99.90% |
+| TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 8 (1 NDA and 7 ANDAs, all cancelled) |
+| US Market Status | Marketed (valid licenses: 8 of 8) |
+| Number of NDAs | 8 (valid: 8) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -71,7 +71,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-All 8 US authorizations are cancelled. No approved indication text is recorded for any of them.
+All 8 US authorizations are valid, and the drug is marketed. No approved indication text is recorded for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -103,7 +103,7 @@ The package insert's warnings and contraindications could not be retrieved, so p
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the model score, with no trials or literature for epiglottitis. Staphylococcal involvement is uncommon, and standard empirical therapy targets other organisms. All US licenses are also cancelled.
+The prediction is supported only by the model score, with no trials or literature for epiglottitis. Staphylococcal involvement is uncommon, and standard empirical therapy targets other organisms. All 8 US licenses are valid.
 
 **To proceed, the following is needed:**
 - Clinical or observational evidence of oxacillin use in staphylococcal epiglottitis
@@ -115,9 +115,9 @@ The prediction is supported only by the model score, with no trials or literatur
 
 | Indication | TxGNN Score | Evidence Level | Assessment |
 |------|------|------|------|
-| Laryngitis | 99.73% | L5 | Hold. Most cases are viral or non-infectious, and there are no trials or literature. |
-| Bacterial arthritis | 99.50% | L4 | Research question. Oxacillin is already standard care for MSSA bone and joint infection, supported by reviews (e.g., PMID 24119927). It is more a matter of labeling than true repurposing. |
-| Urinary tract infection | 99.03% | L4 | Hold. Oxacillin has no activity against the Gram-negative organisms that cause most UTIs, and the literature is mostly surveillance data. |
+| Laryngitis | 0.9973 | L5 | Hold. Most cases are viral or non-infectious, and there are no trials or literature. |
+| Bacterial arthritis | 0.9950 | L5 | Research question. Oxacillin is already standard care for MSSA bone and joint infection, supported by reviews (e.g., PMID 24119927). It is more a matter of labeling than true repurposing. |
+| Urinary tract infection | 0.9903 | L4 | Hold. Oxacillin has no activity against the Gram-negative organisms that cause most UTIs, and the literature is mostly surveillance data. |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

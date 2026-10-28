@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Activated Charcoal Aesculus Hippocastanum Flower A
@@ -51,8 +52,8 @@ Without a predicted target indication and with critical data gaps across all eva
 | Predicted New Indication | None — TxGNN returned no prediction for this formula |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (model prediction only — and even this is absent) |
-| US Market Status | Not marketed |
-| Number of NDAs | 0 |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | **Hold** |
 
 ---

@@ -48,31 +48,31 @@ It is a purely computational result, and mercury compounds are known to be cardi
 |------|------|
 | Original Indication | No approved indication text available |
 | Predicted New Indication | Ventricular tachycardia |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 (cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Mercuric iodide is a toxic inorganic mercury salt with no known antiarrhythmic activity, and no approved indication is recorded for it, so its relationship to the predicted indication cannot be established.
 
-The high TxGNN score most likely reflects network proximity among arrhythmia-related nodes in the knowledge graph, not a pharmacological rationale. Mercury compounds are generally associated with causing arrhythmia and cardiac toxicity rather than treating it. On the data compiled for this report, the prediction is not mechanistically supported.
+The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Mercury compounds are generally associated with causing arrhythmia and cardiac toxicity rather than treating it. On the data compiled for this report, the prediction is not mechanistically supported.
 
 Other top-ranked predictions are also cardiac rhythm or conduction disorders, and none has clinical or literature support:
 
 | Rank | Predicted Disease | TxGNN Score | Evidence Level |
 |-----|------|------|------|
-| 2 | Bundle branch block (obsolete term) | 99.99% | L5 |
-| 3 | Multifocal atrial tachycardia | 99.98% | L5 |
-| 4 | His bundle tachycardia | 99.98% | L5 |
-| 5 | Periodic paralysis with transient compartment-like syndrome | 99.98% | L5 |
-| 6 | Arrhythmogenic right ventricular cardiomyopathy | 99.98% | L5 |
-| 7 | Idiopathic neonatal atrial flutter | 99.97% | L5 |
-| 8 | Incessant infant ventricular tachycardia | 99.97% | L5 |
-| 9 | Catecholaminergic polymorphic ventricular tachycardia | 99.97% | L5 |
-| 10 | Atrial fibrillation | 99.96% | L5 |
+| 2 | Bundle branch block (obsolete term) | 0.9999 | L5 |
+| 3 | Multifocal atrial tachycardia | 0.9998 | L5 |
+| 4 | His bundle tachycardia | 0.9998 | L5 |
+| 5 | Periodic paralysis with transient compartment-like syndrome | 0.9998 | L5 |
+| 6 | Arrhythmogenic right ventricular cardiomyopathy | 0.9998 | L5 |
+| 7 | Idiopathic neonatal atrial flutter | 0.9997 | L5 |
+| 8 | Incessant infant ventricular tachycardia | 0.9997 | L5 |
+| 9 | Catecholaminergic polymorphic ventricular tachycardia | 0.9997 | L5 |
+| 10 | Atrial fibrillation | 0.9996 | L5 |
 
 ## Clinical Trial Evidence
 

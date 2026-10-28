@@ -48,10 +48,10 @@ Currently there are **0 clinical trials** and **15 publications** (mostly precli
 |------|------|
 | Original Indication | HIV infectious disease; AIDS |
 | Predicted New Indication | Simian immunodeficiency virus infection |
-| TxGNN Prediction Score | 99.78% |
+| TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (all listed licenses are cancelled) |
-| Number of NDAs | 3 |
+| US Market Status | Marketed (valid licenses: 3 of 3) |
+| Number of NDAs | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -63,8 +63,8 @@ SIV is a close lentiviral relative of HIV-1, and its integrase is highly conserv
 An important caveat is that SIV is a pathogen of non-human primates and a research model, not a human disease. The prediction therefore supports using raltegravir in preclinical HIV research models. It does not point to a new human indication.
 
 The other predictions are weaker:
-- **Feline acquired immunodeficiency syndrome** (score 99.78%): a veterinary condition with no trials or literature. The score probably reflects shared lentiviral classification.
-- **Neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter** (score 99.77%): no credible mechanistic link, and likely a knowledge-graph artifact.
+- **Feline acquired immunodeficiency syndrome** (score 0.9978): a veterinary condition with no trials or literature. The score probably reflects shared lentiviral classification.
+- **Neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter** (score 0.9977): no credible mechanistic link, and likely a TxGNN model (deep learning) artifact.
 
 ## Clinical Trial Evidence
 
@@ -89,13 +89,13 @@ All publications below are preclinical (animal or in vitro). The compiled data c
 
 ## US Market Information
 
-The approved indication text is not available in the compiled data. All three licenses are cancelled.
+The approved indication text is not available in the compiled data. All three licenses are valid.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA203045 | ISENTRESS (Merck Sharp & Dohme LLC) | Chewable tablet | Not available (status: cancelled) |
-| NDA022145 | ISENTRESS (Proficient Rx LP) | Film-coated tablet | Not available (status: cancelled) |
-| NDA205786 | ISENTRESS (Merck Sharp & Dohme LLC) | Granules for suspension | Not available (status: cancelled) |
+| NDA203045 | ISENTRESS (Merck Sharp & Dohme LLC) | Chewable tablet | Not available (status: valid) |
+| NDA022145 | ISENTRESS (Proficient Rx LP) | Film-coated tablet | Not available (status: valid) |
+| NDA205786 | ISENTRESS (Merck Sharp & Dohme LLC) | Granules for suspension | Not available (status: valid) |
 
 ## Safety Considerations
 
@@ -113,13 +113,13 @@ Please refer to the package insert for label warnings and contraindications, whi
 **Decision: Hold**
 
 **Rationale:**
-- The evidence is limited to preclinical studies (L4), with no clinical trials. SIV is an animal-model virus, not a human disease, so this prediction does not translate into a human repurposing opportunity. Raltegravir's marketed HIV use is already established, and all of its US licenses in the data are cancelled.
+- The evidence is limited to preclinical studies (L4), with no clinical trials. SIV is an animal-model virus, not a human disease, so this prediction does not translate into a human repurposing opportunity. Raltegravir's marketed HIV use is already established, and all three of its US licenses in the data are valid.
 
 **To proceed, the following is needed:**
 - Redefine the goal. SIV-related findings are best used to support preclinical HIV research models, not a new human indication.
 - Obtain the FDA package insert warnings and contraindications. This is a blocking gap for safety screening.
 - Obtain the mechanism of action data from DrugBank.
-- Confirm current US marketing status, since all three listed licenses are cancelled.
+- Confirm current US marketing status; all three listed licenses are valid.
 - Do not pursue feline AIDS or the neurodevelopmental disorder prediction without new evidence, since no supporting data or credible mechanism was found.
 ## Disclaimer
 

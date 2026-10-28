@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **amenorrhea**, but **no clinic
 |------|------|
 | Original Indication | Not stated in the available regulatory data (marketed as a hormonal contraceptive implant and ring) |
 | Predicted New Indication | Amenorrhea |
-| TxGNN Prediction Score | 99.84% |
+| TxGNN Prediction Score | 0.9984 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 4 |
+| US Market Status | Marketed (valid licenses: 4 of 4) |
+| Number of NDAs | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -77,10 +77,10 @@ No relevant literature on etonogestrel for amenorrhea was identified.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA021529 | Nexplanon | Implant | Not available (status: cancelled) |
-| ANDA211157 | EnilloRing | Ring | Not available (status: cancelled) |
-| NDA021187 | Etonogestrel/Ethinyl Estradiol | Extended-release insert | Not available (status: cancelled) |
-| ANDA210830 | EluRyng | Ring | Not available (status: cancelled) |
+| NDA021529 | Nexplanon | Implant | Not available (status: valid) |
+| ANDA211157 | EnilloRing | Ring | Not available (status: valid) |
+| NDA021187 | Etonogestrel/Ethinyl Estradiol | Extended-release insert | Not available (status: valid) |
+| ANDA210830 | EluRyng | Ring | Not available (status: valid) |
 
 ## Safety Considerations
 
@@ -100,14 +100,14 @@ Please refer to the package insert for the full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the model score (L5). There are no relevant trials or literature. Amenorrhea is an expected side effect of the drug rather than an established treatment target. All four US licenses are cancelled, and label safety data are missing.
+The prediction is supported only by the model score (L5). There are no relevant trials or literature. Amenorrhea is an expected side effect of the drug rather than an established treatment target. The drug is marketed in the US, with all four licenses valid, and label safety data are missing.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (required before any safety screening)
 - Mechanism of action data from DrugBank
 - Clinical or observational evidence on etonogestrel for therapeutic menstrual suppression
 - Review of the knowledge-graph contraindication signals (cardiovascular, metabolic, hepatic, breast cancer) against the intended patient population
-- Confirmation of route and product availability, since all current US licenses are cancelled
+- Confirmation of route and product availability
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

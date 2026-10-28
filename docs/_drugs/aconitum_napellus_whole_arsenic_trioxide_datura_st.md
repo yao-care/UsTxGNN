@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Aconitum Napellus Whole Arsenic Trioxide Datura St
@@ -51,7 +52,7 @@ With zero regulatory approvals, no identified original indications, and no model
 | Predicted New Indication | None — TxGNN produced no predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | Below L5 (no model prediction, no clinical studies, no literature) |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

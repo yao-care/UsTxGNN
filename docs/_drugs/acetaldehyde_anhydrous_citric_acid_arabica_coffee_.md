@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Acetaldehyde Anhydrous Citric Acid Arabica Coffee 
@@ -51,7 +52,7 @@ As a result, a standard repurposing evaluation cannot be completed at this time.
 | Predicted New Indication | None — TxGNN returned no predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | Cannot Evaluate |
-| US Market Status | Not Marketed |
+| US Market Status | Marketed (valid licenses on record: at least 1) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

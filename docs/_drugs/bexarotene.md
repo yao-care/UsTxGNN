@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **primary cutaneous B-cell lymp
 |------|------|
 | Original Indication | Primary cutaneous T-cell lymphoma (including primary cutaneous T-cell non-Hodgkin lymphoma) |
 | Predicted New Indication | Primary cutaneous B-cell lymphoma |
-| TxGNN Prediction Score | 99.44% |
+| TxGNN Prediction Score | 0.9944 |
 | Evidence Level | L5 (model prediction only, no direct studies) |
-| US Market Status | Cancelled only (no currently valid US licenses) |
-| Number of NDAs | 9 authorizations in total (2 NDAs and 7 ANDAs, all cancelled) |
+| US Market Status | Marketed (valid licenses: 9 of 9) |
+| Number of NDAs | 9 (valid: 9) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -90,7 +90,7 @@ None of these publications reports bexarotene efficacy in B-cell lymphoma.
 | ANDA215398 | Bexarotene (Amneal) | Gel | Not listed in the license record |
 | ANDA209886 | Bexarotene (Upsher-Smith) | Capsule | Not listed in the license record |
 
-All 9 authorizations (2 NDAs and 7 ANDAs) have a cancelled status. Bexarotene exists in both oral (capsule) and topical (gel) forms.
+All 9 authorizations (2 NDAs and 7 ANDAs) are valid, and the drug is marketed. Bexarotene exists in both oral (capsule) and topical (gel) forms.
 
 ## Cytotoxicity
 
@@ -104,7 +104,7 @@ All 9 authorizations (2 NDAs and 7 ANDAs) have a cancelled status. Bexarotene ex
 
 ## Safety Considerations
 
-- **Contraindications and cautions (from knowledge graph associations, not label text):** liver failure, liver disease, pancreatitis, gallbladder and biliary tract disease, obstructive jaundice, hypothyroidism (including myxedema and congenital hypothyroidism), diabetes mellitus, diabetic ketoacidosis, leukopenia, and substance abuse/dependence.
+- **Contraindications and cautions (from TxGNN model (deep learning) output, not label text; may reflect similarities the model learned between related diseases, not biological evidence):** liver failure, liver disease, pancreatitis, gallbladder and biliary tract disease, obstructive jaundice, hypothyroidism (including myxedema and congenital hypothyroidism), diabetes mellitus, diabetic ketoacidosis, leukopenia, and substance abuse/dependence.
 - **Drug Interactions:** 100 interactions were recorded. Those retrieved include:
   - **Major:** GLP-1 agonists and related antidiabetic agents (albiglutide, dulaglutide, exenatide, alogliptin) and eluxadoline.
   - **Moderate:** corticosteroids (hydrocortisone, dexamethasone, betamethasone, triamcinolone), sulfonylureas (glimepiride, glipizide, glyburide, chlorpropamide, acetohexamide), cisapride, eliglustat and granisetron.
@@ -118,7 +118,7 @@ For the full list of warnings, please refer to the package insert.
 **Decision: Hold**
 
 **Rationale:**
-The high TxGNN score is not backed by any trial or B-cell-specific study. The literature mentions bexarotene only for T-cell disease, and the RXR mechanism cannot be assumed to apply to B-cell lymphoma. All US authorizations are also cancelled. The same data show that Sézary syndrome (a T-cell variant) has far stronger bexarotene evidence, including a terminated Phase 3 trial. That is an extension of the existing T-cell indication and not a true repurposing case.
+The high TxGNN score is not backed by any trial or B-cell-specific study. The literature mentions bexarotene only for T-cell disease, and the RXR mechanism cannot be assumed to apply to B-cell lymphoma. All 9 US authorizations are valid, and the drug is marketed. The same data show that Sézary syndrome (a T-cell variant) has far stronger bexarotene evidence, including a terminated Phase 3 trial. That is an extension of the existing T-cell indication and not a true repurposing case.
 
 **To proceed, the following is needed:**
 - B-cell-specific preclinical data showing RXR pathway dependence or in vitro activity in cutaneous B-cell lymphoma models

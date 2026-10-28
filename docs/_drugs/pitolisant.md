@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Pitolisant
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1052
-evidence_level: L4
+evidence_level: L5
 indication_count: 3
 monitor_inn: "PITOLISANT"
 predicted_indications: ["insomnia (disease)", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome"]
 last_modified_at: 2026-10-14
-description: "Pitolisant: predicted new indication Insomnia (evidence level L4). Approved use: Narcolepsy"
+description: "Pitolisant: predicted new indication Insomnia (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Pitolisant
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **3**
 
 </div>
 
-## Pitolisant: From Narcolepsy to Insomnia
+## Pitolisant: Insomnia (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,12 +47,12 @@ The TxGNN model predicts it may be effective for **Insomnia**, but there are **0
 
 | Item | Content |
 |------|------|
-| Original Indication | Narcolepsy (the US licence record lists no indication text; this is taken from the knowledge-graph indications) |
-| Predicted New Indication | Insomnia |
-| TxGNN Prediction Score | 99.71% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Insomnia (disease) |
+| TxGNN Prediction Score | 0.9971 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -61,7 +61,7 @@ The TxGNN model predicts it may be effective for **Insomnia**, but there are **0
 
 Detailed mechanism-of-action data was not available in the data compiled for this report. From the literature, pitolisant is a selective histamine H3 receptor antagonist/inverse agonist. It increases histaminergic neurotransmission in the brain and promotes wakefulness, which is why it is used for excessive daytime sleepiness in narcolepsy.
 
-This is where the prediction becomes doubtful. Insomnia treatment aims to promote sleep, whereas pitolisant promotes wakefulness. Blocking H3 receptors could plausibly worsen insomnia, and insomnia is a known adverse effect of the drug. The high TxGNN score (0.997) most likely reflects a graph-based association between pitolisant and sleep-wake disorders in general, rather than a true therapeutic signal.
+This is where the prediction becomes doubtful. Insomnia treatment aims to promote sleep, whereas pitolisant promotes wakefulness. Blocking H3 receptors could plausibly worsen insomnia, and insomnia is a known adverse effect of the drug. The high TxGNN score (0.9971) comes from the TxGNN model (deep learning) and most likely reflects similarities the model learned between related diseases, such as sleep-wake disorders in general, not biological evidence or a true therapeutic signal.
 
 The available literature concerns narcolepsy and residual daytime sleepiness in obstructive sleep apnoea, not insomnia treatment. The prediction should therefore be regarded as a likely false positive until shown otherwise.
 
@@ -117,7 +117,7 @@ Please refer to the package insert for warnings and contraindications.
 The prediction is supported only by a model score. There are no clinical trials and no insomnia-specific literature. The wake-promoting mechanism runs opposite to what insomnia treatment requires, and insomnia is a recognised side effect of the drug. The evidence level is L4.
 
 **To proceed, the following is needed:**
-- A clear mechanistic rationale showing why H3 inverse agonism could help insomnia, or confirmation that the prediction is an artefact of the knowledge graph
+- A clear mechanistic rationale showing why H3 inverse agonism could help insomnia, or confirmation that the prediction is an artifact of the TxGNN model (deep learning), reflecting similarities it learned between related diseases rather than biological evidence
 - Any preclinical or clinical data on pitolisant in insomnia populations
 - The FDA package insert warnings and contraindications, to complete safety screening
 - Detailed mechanism-of-action data from DrugBank
@@ -129,8 +129,8 @@ The prediction is supported only by a model score. There are no clinical trials 
 
 | Rank | Indication | TxGNN Score | Evidence Level | Decision | Comment |
 |------|------|------|------|------|------|
-| 2 | Attention deficit-hyperactivity disorder | 99.36% | L4 | Research Question | H3 antagonism increases histamine, acetylcholine, dopamine and norepinephrine release in cortical circuits, which gives a plausible basis for effects on attention. No ADHD-specific trials exist, and the literature is review-level. A dedicated proof-of-concept trial would be needed, with attention to insomnia, anxiety and QT considerations. |
-| 3 | Faciodigitogenital syndrome (Aarskog-Scott syndrome) | 99.29% | L5 | Hold | No plausible mechanistic link, no trials and no literature. This is a computational prediction only. |
+| 2 | Attention deficit-hyperactivity disorder | 0.9936 | L5 | Research Question | H3 antagonism increases histamine, acetylcholine, dopamine and norepinephrine release in cortical circuits, which gives a plausible basis for effects on attention. No ADHD-specific trials exist, and the literature is review-level. A dedicated proof-of-concept trial would be needed, with attention to insomnia, anxiety and QT considerations. |
+| 3 | Faciodigitogenital syndrome (Aarskog-Scott syndrome) | 0.9929 | L5 | Hold | No plausible mechanistic link, no trials and no literature. This is a computational prediction only. |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

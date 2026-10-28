@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Dasatinib
-parent: Model Prediction Only (L5)
+parent: High Evidence (L1-L2)
 nav_order: 573
-evidence_level: L5
-indication_count: 10
+evidence_level: L2
+indication_count: 9
 last_modified_at: 2026-10-14
 description: "Dasatinib: predicted new indication Ewing sarcoma (evidence level L5). Approved use: Chronic myelogenous leukemia…"
 monitor_inn: "DASATINIB"
@@ -14,7 +14,7 @@ predicted_indications: ["Ewing sarcoma", "liposarcoma", "fibromatosis, gingival"
 # Dasatinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L2** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ but the supporting evidence is thin: **2 clinical trials** (one terminated with 
 |------|------|
 | Original Indication | Chronic myelogenous leukemia, BCR-ABL1 positive (including blast phase) |
 | Predicted New Indication | Ewing sarcoma |
-| TxGNN Prediction Score | 99.90% |
+| TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L2 (one completed Phase 2 trial, but in mixed sarcomas and without a positive Ewing-specific result) |
-| US Market Status | Cancelled only (all licenses listed as cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 8) |
 | Number of NDAs | 8 authorizations in total (2 NDAs and 6 ANDAs) |
 | Recommended Decision | Hold |
 
@@ -84,7 +84,7 @@ Clinical support is weak, however. A review notes that in the Phase 2 study in a
 
 ## US Market Information
 
-All eight authorizations are listed as cancelled in the data compiled for this report. Approved indication text was not available.
+The drug is marketed in this country, and all eight licenses are listed as valid in the data compiled for this report. Approved indication text was not available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

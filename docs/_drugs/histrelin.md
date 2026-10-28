@@ -4,17 +4,17 @@ title: Histrelin
 parent: Model Prediction Only (L5)
 nav_order: 771
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-14
-description: "Histrelin: predicted new indication Ambras type hypertrichosis universalis congenita (evidence level L5). Approved use: Precocious puberty"
 monitor_inn: "HISTRELIN"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "pelvic organ prolapse", "female genital tuberculosis", "physiological sexual disorder"]
+description: "Histrelin: predicted new indication Ambras type hypertrichosis universalis congenita (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Histrelin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,32 +33,32 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Histrelin: From Precocious Puberty to Ambras Type Hypertrichosis Universalis Congenita
+## Histrelin: Ambras type hypertrichosis universalis congenita
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Histrelin is a gonadotropin-releasing hormone (GnRH) agonist, originally used to treat precocious puberty.
 The TxGNN model predicts it may be effective for **Ambras type hypertrichosis universalis congenita**, but **no clinical trials and no publications** currently support this prediction.
-It is most likely a knowledge-graph artifact rather than a genuine repurposing opportunity.
+It is most likely a TxGNN model (deep learning) artifact rather than a genuine repurposing opportunity.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Precocious puberty (also aromatase excess syndrome and familial male-limited precocious puberty, based on knowledge-graph indication links) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Ambras type hypertrichosis universalis congenita |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, histrelin is a GnRH agonist. With continuous exposure it desensitizes pituitary GnRH receptors and suppresses LH and FSH, which lowers sex steroids. This is why it works in precocious puberty.
 
-That mechanism does not connect credibly to Ambras syndrome. Ambras syndrome is a genetic hypertrichosis disorder associated with chromosome 8q rearrangements that affect regulation of the TRPS1 gene. It is not a hormone-driven condition, so suppressing the pituitary-gonadal axis would not be expected to change it. The very high TxGNN score most likely reflects proximity in the knowledge graph rather than real biology, and there is no clinical or published evidence to back it.
+That mechanism does not connect credibly to Ambras syndrome. Ambras syndrome is a genetic hypertrichosis disorder associated with chromosome 8q rearrangements that affect regulation of the TRPS1 gene. It is not a hormone-driven condition, so suppressing the pituitary-gonadal axis would not be expected to change it. The very high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, and there is no clinical or published evidence to back it.
 
 A related note on the other top-ranked predictions: the only ones with a plausible mechanism are central precocious puberty entities, which are essentially the drug's existing approved use. Of these, idiopathic central precocious puberty has supporting literature, so it is a re-labeling of known use rather than new repurposing. The remaining top-ten predictions (for example other hypertrichosis or hair shaft disorders, Dandy-Walker syndromes, pelvic organ prolapse and female genital tuberculosis) have no credible mechanistic support.
 
@@ -74,7 +74,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA022058 | SUPPRELIN (Endo USA, Inc.) | Implant | Not specified; status: cancelled |
+| NDA022058 | SUPPRELIN (Endo USA, Inc.) | Implant | Not specified; status: valid |
 
 ## Safety Considerations
 

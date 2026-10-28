@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "REMDESIVIR"
 predicted_indications: ["multiple endocrine neoplasia", "HIV infectious disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "homozygous familial hypercholesterolemia"]
-last_modified_at: 2026-10-14
-description: "Remdesivir: predicted new indication Multiple endocrine neoplasia (evidence level L5). Approved use: Not available in the data compiled for this report"
+last_modified_at: 2026-10-28
+description: "Remdesivir: predicted new indication Multiple endocrine neoplasia (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Remdesivir
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-## Remdesivir: From Antiviral Therapy to Multiple Endocrine Neoplasia
+## Remdesivir: Multiple endocrine neoplasia
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,24 +46,24 @@ This is a model-only prediction without supporting evidence, so it should be tre
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in the data compiled for this report |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Multiple endocrine neoplasia |
-| TxGNN Prediction Score | 99.50% |
+| TxGNN Prediction Score | 0.9950 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the compiled data. From general pharmacology, remdesivir is a nucleotide analog prodrug that inhibits viral RNA-dependent RNA polymerase.
 
-Multiple endocrine neoplasia (MEN) is a hereditary tumor syndrome driven by genes such as MEN1 and RET, and has no viral cause. No mechanistic link between remdesivir and MEN could be identified. The high TxGNN score (99.50%) appears to be an artifact of the graph-based prediction rather than a reflection of biological rationale.
+Multiple endocrine neoplasia (MEN) is a hereditary tumor syndrome driven by genes such as MEN1 and RET, and has no viral cause. No mechanistic link between remdesivir and MEN could be identified. The high score (0.9950) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 For context, the other top predictions are also weakly supported:
-- **HIV infectious disease** (score 99.32%, L4): Remdesivir targets viral RdRp, while HIV depends on reverse transcriptase, so mechanistic overlap is weak. The retrieved trial and literature concern COVID-19, not HIV.
-- **Simian immunodeficiency virus infection** and **feline acquired immunodeficiency syndrome** (both 99.07%, L5): These likely reflect similarity to HIV in the knowledge graph. They are non-human indications with no supporting studies.
-- **A rare neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter** (99.03%, L5) and **homozygous familial hypercholesterolemia** (99.03%, L5): No plausible mechanistic link and no supporting studies.
+- **HIV infectious disease** (score 0.9932, L4): Remdesivir targets viral RdRp, while HIV depends on reverse transcriptase, so mechanistic overlap is weak. The retrieved trial and literature concern COVID-19, not HIV.
+- **Simian immunodeficiency virus infection** and **feline acquired immunodeficiency syndrome** (both 0.9907, L5): The scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases such as HIV, not biological evidence. They are non-human indications with no supporting studies.
+- **A rare neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter** (0.9903, L5) and **homozygous familial hypercholesterolemia** (0.9903, L5): No plausible mechanistic link and no supporting studies.
 
 ## Clinical Trial Evidence
 
@@ -83,7 +83,7 @@ Currently no related literature available for multiple endocrine neoplasia.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA214787 | Veklury (Gilead Sciences, Inc.) | Lyophilized powder for injection solution | Not listed in the data compiled for this report; status: cancelled |
+| NDA214787 | Veklury (Gilead Sciences, Inc.) | Lyophilized powder for injection solution | Not listed in the data compiled for this report; status: valid |
 
 ## Safety Considerations
 

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Lasmiditan
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 838
-evidence_level: L4
-indication_count: 3
+evidence_level: L5
+indication_count: 2
 last_modified_at: 2026-10-14
-description: "Lasmiditan: predicted new indication Migraine with brainstem aura (evidence level L4). Approved use: Migraine (acute treatment of migraine with or without aura)"
 monitor_inn: "Lasmiditan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
+description: "Lasmiditan: predicted new indication Atrophoderma vermiculata (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Lasmiditan
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,25 +33,24 @@ Evidence Level: **L4** | Predicted Indications: **3**
 
 </div>
 
-## Lasmiditan: From Migraine to Migraine with Brainstem Aura
+## Lasmiditan: Atrophoderma vermiculata
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Lasmiditan is a selective 5-HT1F receptor agonist, originally used for the acute treatment of migraine with or without aura.
-The TxGNN model predicts it may be effective for **migraine with brainstem aura**,
 but there are currently **0 registered clinical trials** and only indirect support from the literature (**17 publications**, none with brainstem aura-specific data for lasmiditan).
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Migraine (acute treatment of migraine with or without aura) |
-| Predicted New Indication | Migraine with brainstem aura |
-| TxGNN Prediction Score | 99.92% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Atrophoderma vermiculata |
+| TxGNN Prediction Score | 0.9959 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -100,7 +99,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is biologically plausible because migraine with brainstem aura is a subtype of migraine with aura, but no brainstem aura-specific data for lasmiditan exist (Evidence Level L4). The only US authorization is cancelled, so current availability is uncertain.
+The only US authorization is cancelled, so current availability is uncertain.
 
 **To proceed, the following is needed:**
 - Confirm the current US market and availability status of lasmiditan

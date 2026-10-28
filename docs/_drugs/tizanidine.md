@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Tizanidine
-parent: Model Prediction Only (L5)
+parent: High Evidence (L1-L2)
 nav_order: 1236
-evidence_level: L5
-indication_count: 6
+evidence_level: L1
+indication_count: 5
 monitor_inn: "TIZANIDINE"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "atrophoderma vermiculata", "Tourette syndrome", "ulerythema ophryogenesis"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "Tourette syndrome", "ulerythema ophryogenesis"]
 last_modified_at: 2026-10-14
 description: "Tizanidine: predicted new indication Migraine disorder (evidence level L5). Approved use: Not available in the compiled data"
 ---
@@ -14,7 +14,7 @@ description: "Tizanidine: predicted new indication Migraine disorder (evidence l
 # Tizanidine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **6** 
+Evidence Level: **L1** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ Tizanidine is a centrally acting alpha-2 adrenergic agonist, which is a muscle r
 |------|------|
 | Original Indication | Not available in the compiled data (general knowledge: spasticity) |
 | Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.79% |
+| TxGNN Prediction Score | 0.9979 |
 | Evidence Level | L1 (provisional; see note below) |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 9) |
 | Number of NDAs | 9 (all ANDA generic applications, all cancelled) |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -99,7 +99,7 @@ Migraine and chronic daily headache share pain-processing pathways that tizanidi
 
 ## US Market Information
 
-All 9 US authorizations are generic (ANDA) applications and all are cancelled. The approved indication text is not available in the compiled data.
+All 9 US authorizations are generic (ANDA) applications and all 9 are valid. The approved indication text is not available in the compiled data.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -129,11 +129,10 @@ Please refer to the package insert for full warnings and contraindications, as l
 
 | Predicted Indication | Score | Evidence Level | Recommendation | Comment |
 |------|------|------|------|------|
-| Migraine with brainstem aura | 99.71% | L4 | Hold | Only a breast-feeding recommendation review; no efficacy evidence |
-| Migraine with or without aura, susceptibility to | 99.54% | L3 | Research Question | Overlaps with migraine disorder; the literature is the same indirect set |
-| Atrophoderma vermiculata | 99.31% | L5 | Hold | Model prediction only |
-| Tourette syndrome | 99.17% | L4 | Hold | Class-level rationale from alpha-2 agonists; no specific data |
-| Ulerythema ophryogenesis | 99.13% | L5 | Hold | Model prediction only |
+| Migraine with brainstem aura | 0.9971 | L5 | Hold | Only a breast-feeding recommendation review; no efficacy evidence |
+| Atrophoderma vermiculata | 0.9931 | L5 | Hold | Model prediction only |
+| Tourette syndrome | 0.9917 | L5 | Hold | Class-level rationale from alpha-2 agonists; no specific data |
+| Ulerythema ophryogenesis | 0.9913 | L5 | Hold | Model prediction only |
 
 ---
 
@@ -148,7 +147,7 @@ A directly relevant Phase 3 placebo-controlled trial in migraine prevention exis
 - Verify the results and current status of NCT05484349
 - Obtain FDA package insert warnings, contraindications and original indication text (currently missing)
 - Obtain detailed mechanism of action data from DrugBank
-- Confirm current US market availability, since all 9 ANDAs are cancelled
+- Confirm current US market availability; the drug is marketed, with 9 valid ANDAs
 - Define a safety monitoring plan covering sedation, hypotension, liver enzymes, and CYP1A2 inhibitor exclusion
 ## Disclaimer
 

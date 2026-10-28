@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "MEPIVACAINE"
 predicted_indications: ["gastroduodenitis", "peptic ulcer disease"]
 last_modified_at: 2026-10-14
-description: "Mepivacaine: predicted new indication Gastroduodenitis (evidence level L5). Approved use: Not specified in the available US license data (the approved indicati…"
+description: "Mepivacaine: predicted new indication Gastroduodenitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Mepivacaine
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-## Mepivacaine: From Local Anesthesia to Gastroduodenitis
+## Mepivacaine: Gastroduodenitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,12 +45,12 @@ The TxGNN model predicts it may be effective for **gastroduodenitis**, but **no 
 
 | Item | Content |
 |------|------|
-| Original Indication | Not specified in the available US license data (the approved indication text is empty) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Gastroduodenitis |
-| TxGNN Prediction Score | 99.49% |
+| TxGNN Prediction Score | 0.9949 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 6 (all ANDA, all cancelled) |
+| US Market Status | Marketed (valid licenses: 6 of 6) |
+| Number of NDAs | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -59,7 +59,7 @@ Currently, detailed mechanism of action data is not available. Based on general 
 
 The relationship between its anesthetic use and gastroduodenitis is not established. One plausible but unverified idea is an anti-nociceptive effect on visceral afferent nerves, or an effect on mucosal inflammation. Neither is supported by evidence here. The TxGNN score is a computational prediction only and should not be read as proof of efficacy.
 
-A second predicted indication, peptic ulcer disease (score 99.41%), also has no supporting evidence. Sodium channel blockade has no established role in ulcer healing or acid suppression.
+A second predicted indication, peptic ulcer disease (score 0.9941), also has no supporting evidence. Sodium channel blockade has no established role in ulcer healing or acid suppression.
 
 ## Clinical Trial Evidence
 
@@ -75,13 +75,13 @@ For the second predicted indication, peptic ulcer disease, one publication was r
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA089406 | Polocaine-MPF (Mepivacaine HCl), HF Acquisition Co (HealthFirst) | Injection, solution | Not listed (cancelled) |
-| ANDA088387 | Mepivacaine, Benco Dental | Injection, solution | Not listed (cancelled) |
-| ANDA089410 | Polocaine, Fresenius Kabi USA | Injection, solution | Not listed (cancelled) |
-| ANDA089409 | Polocaine-MPF, Fresenius Kabi USA | Injection, solution | Not listed (cancelled) |
-| ANDA089407 | Polocaine, Fresenius Kabi USA | Injection, solution | Not listed (cancelled) |
+| ANDA089406 | Polocaine-MPF (Mepivacaine HCl), HF Acquisition Co (HealthFirst) | Injection, solution | Not listed (valid) |
+| ANDA088387 | Mepivacaine, Benco Dental | Injection, solution | Not listed (valid) |
+| ANDA089410 | Polocaine, Fresenius Kabi USA | Injection, solution | Not listed (valid) |
+| ANDA089409 | Polocaine-MPF, Fresenius Kabi USA | Injection, solution | Not listed (valid) |
+| ANDA089407 | Polocaine, Fresenius Kabi USA | Injection, solution | Not listed (valid) |
 
-One further license (ANDA089408, Polocaine-MPF, Fresenius Kabi USA) is also cancelled. All six licenses are cancelled, so there is no currently valid US authorization in these records.
+One further license (ANDA089408, Polocaine-MPF, Fresenius Kabi USA) is also valid. All six licenses are valid, so there is currently valid US authorization in these records.
 
 ## Safety Considerations
 
@@ -97,14 +97,14 @@ Package insert warnings and contraindications were not available. Please refer t
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a computational score, with no clinical trials and no relevant literature (Evidence Level L5). The drug also has no currently valid US license, and its mechanism and label safety data are missing.
+The prediction rests only on a computational score, with no clinical trials and no relevant literature (Evidence Level L5).
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data, for example from DrugBank
 - A literature and trial search specific to mepivacaine in gastroduodenitis and peptic ulcer disease
 - A clear mechanistic rationale and route compatibility assessment (injectable form versus the GI target)
-- Review of the regulatory status, given that all licenses are cancelled
+- Review of the regulatory status, given that all six licenses are valid and the drug is marketed
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

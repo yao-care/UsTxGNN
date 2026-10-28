@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Aluminum Oxide Barium Carbonate Carbon Disulfide C
@@ -51,7 +52,7 @@ There are currently **0 clinical trials** and **0 publications** linked to this 
 | Predicted New Indication | None (TxGNN returned no candidates) |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — model prediction only; in this case, not even a model prediction was generated |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 3) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

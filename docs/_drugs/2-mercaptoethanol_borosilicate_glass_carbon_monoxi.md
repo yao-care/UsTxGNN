@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # 2-Mercaptoethanol Borosilicate Glass Carbon Monoxi
@@ -49,8 +50,8 @@ The submitted entry does not correspond to a single drug — it contains a semic
 | Predicted New Indication | None — TxGNN returned no candidates |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (model prediction only) — no predictions generated |
-| US Market Status | Not marketed |
-| Number of NDAs | 0 |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | **Hold** |
 
 ---

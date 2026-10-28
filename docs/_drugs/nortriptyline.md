@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Nortriptyline
-parent: Model Prediction Only (L5)
+parent: High Evidence (L1-L2)
 nav_order: 977
-evidence_level: L5
+evidence_level: L2
 indication_count: 2
 monitor_inn: "NORTRIPTYLINE"
 predicted_indications: ["attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type"]
 last_modified_at: 2026-10-14
-description: "Nortriptyline: predicted new indication Attention deficit-hyperactivity disorder (evidence level L5). Approved use: Anxiety disorder"
+description: "Nortriptyline: predicted new indication Attention deficit-hyperactivity disorder (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
 # Nortriptyline
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **2** 
+Evidence Level: **L2** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-## Nortriptyline: From Anxiety Disorder to Attention Deficit-Hyperactivity Disorder
+## Nortriptyline: Attention deficit-hyperactivity disorder
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Nortriptyline is a tricyclic antidepressant, listed in the knowledge graph for anxiety disorder, neurotic disorder and dysthymic disorder.
+Nortriptyline is a tricyclic antidepressant.
 The TxGNN model predicts it may be effective for **attention deficit-hyperactivity disorder (ADHD)**,
 with **0 registered clinical trials** and **15 publications** (including one RCT in children and a Cochrane review of tricyclics) currently supporting this direction.
 
@@ -46,11 +46,11 @@ with **0 registered clinical trials** and **15 publications** (including one RCT
 
 | Item | Content |
 |------|------|
-| Original Indication | Anxiety disorder; neurotic disorder; dysthymic disorder (from the knowledge graph, as the US license records contain no indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Attention deficit-hyperactivity disorder |
-| TxGNN Prediction Score | 99.42% |
+| TxGNN Prediction Score | 0.9942 |
 | Evidence Level | L2 (as assigned in the compiled data; see note below) |
-| US Market Status | Cancelled only (no currently valid license) |
+| US Market Status | Marketed (valid licenses on record: at least 4) |
 | Number of NDAs | 4 (all cancelled ANDA records) |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -64,7 +64,7 @@ Noradrenergic enhancement in prefrontal circuits is the shared mechanism of esta
 
 The original indications (anxiety, neurotic and dysthymic disorders) are psychiatric conditions that often co-occur with ADHD. The high TxGNN score is a computational prediction only and does not replace clinical evidence.
 
-A second predicted entry, ADHD inattentive type (score 99.33%), has no linked trials or literature. It is best treated as a subtype of the parent ADHD indication and reviewed together with it.
+A second predicted entry, ADHD inattentive type (score 0.9933), has no linked trials or literature. It is best treated as a subtype of the parent ADHD indication and reviewed together with it.
 
 ## Clinical Trial Evidence
 
@@ -89,10 +89,10 @@ Currently no related clinical trials registered.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA073556 | Nortriptyline Hydrochloride (Asclemed USA) | Capsule | Not listed (cancelled) |
-| ANDA074132 | Nortriptyline Hydrochloride (Preferred Pharmaceuticals) | Capsule | Not listed (cancelled) |
-| ANDA075520 | Nortriptyline Hydrochloride (St. Mary's Medical Park Pharmacy) | Capsule | Not listed (cancelled) |
-| ANDA213441 | Nortriptyline Hydrochloride (Zydus Pharmaceuticals) | Capsule | Not listed (cancelled) |
+| ANDA073556 | Nortriptyline Hydrochloride (Asclemed USA) | Capsule | Not listed (valid) |
+| ANDA074132 | Nortriptyline Hydrochloride (Preferred Pharmaceuticals) | Capsule | Not listed (valid) |
+| ANDA075520 | Nortriptyline Hydrochloride (St. Mary's Medical Park Pharmacy) | Capsule | Not listed (valid) |
+| ANDA213441 | Nortriptyline Hydrochloride (Zydus Pharmaceuticals) | Capsule | Not listed (valid) |
 
 ## Safety Considerations
 
@@ -107,14 +107,14 @@ Please refer to the package insert for the full warnings, as label text was not 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-The literature includes a controlled pediatric study, a Cochrane review of tricyclics and several observational reports supporting nortriptyline in ADHD, with a plausible noradrenergic mechanism. However, no clinical trials are registered, the evidence is mostly older and small-scale, and the cardiac and drug-interaction risks are substantial. No valid US product is currently marketed.
+The literature includes a controlled pediatric study, a Cochrane review of tricyclics and several observational reports supporting nortriptyline in ADHD, with a plausible noradrenergic mechanism. However, no clinical trials are registered, the evidence is mostly older and small-scale, and the cardiac and drug-interaction risks are substantial.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
 - Appraisal of the RCT (PMID 11052409) and the Cochrane review for effect size and safety
 - An ECG and serum-level monitoring plan, plus a co-medication review given the large interaction burden
-- Regulatory pathway assessment, since all US licenses are cancelled
+- Regulatory pathway assessment, since the drug is marketed in the US with 4 valid licenses
 - Combined review of the ADHD and ADHD inattentive-type entries as one indication
 ## Disclaimer
 

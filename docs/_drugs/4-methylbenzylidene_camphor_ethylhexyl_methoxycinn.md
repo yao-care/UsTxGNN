@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # 4-Methylbenzylidene Camphor Ethylhexyl Methoxycinn
@@ -50,9 +51,9 @@ Current data is insufficient to support a repurposing evaluation.
 | Original Indication | Not established — no marketing authorization on record |
 | Predicted New Indication | None — TxGNN returned no predictions |
 | TxGNN Prediction Score | N/A |
-| Evidence Level | L5 (knowledge-graph prediction stage not reached) |
-| US Market Status | Not marketed |
-| Number of NDAs | 0 |
+| Evidence Level | L5 (TxGNN model (deep learning) prediction stage not reached) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---

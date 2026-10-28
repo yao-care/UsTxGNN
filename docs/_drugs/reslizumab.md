@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "RESLIZUMAB"
 predicted_indications: ["thrombocytopenia due to immune destruction", "primary release disorder of platelets"]
 last_modified_at: 2026-10-14
-description: "Reslizumab: predicted new indication Thrombocytopenia due to immune destruction (evidence level L5). Approved use: Eosinophilic pneumonia"
+description: "Reslizumab: predicted new indication Thrombocytopenia due to immune destruction (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Reslizumab
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-## Reslizumab: From Eosinophilic Pneumonia to Thrombocytopenia Due to Immune Destruction
+## Reslizumab: Thrombocytopenia due to immune destruction
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,21 +46,21 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 
 | Item | Content |
 |------|------|
-| Original Indication | Eosinophilic pneumonia; pulmonary eosinophilia (from the knowledge-graph indication data; the US license record contains no indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Thrombocytopenia due to immune destruction |
-| TxGNN Prediction Score | 99.53% |
+| TxGNN Prediction Score | 0.9953 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 1 (BLA761033, cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, reslizumab is an anti-IL-5 monoclonal antibody that reduces eosinophil survival and activation signals, and this is relevant to eosinophil-driven diseases such as eosinophilic pneumonia.
 
-A link to immune thrombocytopenia is not established. Any connection would be indirect, for example through modulation of Th2/eosinophil-driven immune dysregulation, and this is speculative. The very high TxGNN score (0.995) is a computational prediction only and should not be read as clinical evidence.
+A link to immune thrombocytopenia is not established. Any connection would be indirect, for example through modulation of Th2/eosinophil-driven immune dysregulation, and this is speculative. The very high TxGNN score (0.9953) is a computational prediction only and should not be read as clinical evidence.
 
-A second prediction, **primary release disorder of platelets** (score 99.25%), has the same limitation. Its only linked publication is a 2010 review of hypereosinophilic syndrome management (including mepolizumab, another anti-IL-5 agent). That review addresses eosinophilic disorders, not platelet function disorders, so it offers no direct support.
+A second prediction, **primary release disorder of platelets** (score 0.9925), has the same limitation. Its only linked publication is a 2010 review of hypereosinophilic syndrome management (including mepolizumab, another anti-IL-5 agent). That review addresses eosinophilic disorders, not platelet function disorders, so it offers no direct support.
 
 ## Clinical Trial Evidence
 

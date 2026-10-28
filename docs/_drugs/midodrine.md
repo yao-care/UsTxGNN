@@ -6,9 +6,9 @@ nav_order: 927
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Midodrine: predicted new indication Variably protease-sensitive prionopathy (evidence level L5). Approved use: Orthostatic hypotension"
 monitor_inn: "MIDODRINE"
 predicted_indications: ["variably protease-sensitive prionopathy", "faciodigitogenital syndrome", "attention deficit-hyperactivity disorder", "hypotensive disorder", "attention deficit hyperactivity disorder, inattentive type", "sinoatrial node disease", "monogenic obesity", "specific developmental disorder", "obsolete hypertelorism (disease)", "sinoatrial block"]
+description: "Midodrine: predicted new indication Variably protease-sensitive prionopathy (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Midodrine
@@ -33,24 +33,24 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Midodrine: From Orthostatic Hypotension to Variably Protease-Sensitive Prionopathy
+## Midodrine: Variably protease-sensitive prionopathy
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Midodrine is an oral drug used to raise blood pressure in autonomic disorders such as orthostatic hypotension, postural orthostatic tachycardia syndrome (POTS) and multiple system atrophy.
 The TxGNN model predicts it may be effective for **variably protease-sensitive prionopathy**, a rare prion disease.
-This is a graph-based prediction only: **0 clinical trials** and **0 publications** currently support it.
+This is a TxGNN model (deep learning) prediction only: **0 clinical trials** and **0 publications** currently support it.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Orthostatic hypotension (also POTS and multiple system atrophy per the knowledge graph; no approved-indication text was available in the US license records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Variably protease-sensitive prionopathy |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 10) |
 | Number of NDAs | 10 (all are ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
@@ -58,7 +58,7 @@ This is a graph-based prediction only: **0 clinical trials** and **0 publication
 
 Detailed mechanism-of-action data were not available in the compiled data. Midodrine is known to be a peripherally acting alpha-1 adrenergic agonist. Its active metabolite, desglymidodrine, constricts arterioles and veins and raises blood pressure. This explains its use in orthostatic hypotension, POTS and autonomic failure in multiple system atrophy.
 
-The link to a prion disorder is weak. No plausible mechanism connects alpha-1 agonism to modifying the course of a prion disease. At most, midodrine could treat autonomic symptoms such as low blood pressure on standing, and that would not be a repurposing claim for the underlying disease. The very high TxGNN score most likely reflects network relationships in the knowledge graph, not biological or clinical support.
+The link to a prion disorder is weak. No plausible mechanism connects alpha-1 agonism to modifying the course of a prion disease. At most, midodrine could treat autonomic symptoms such as low blood pressure on standing, and that would not be a repurposing claim for the underlying disease. The very high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 Among the top 10 predictions, only **hypotensive disorder** (rank 4) has meaningful support: a completed Phase 2 trial, NCT02893553, and many guideline and review articles. That indication is essentially on-label, so it is not true repurposing. Most of the other predictions (for example ADHD, monogenic obesity and sinoatrial node disease) have no evidence or a doubtful mechanism.
 
@@ -72,7 +72,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-All 10 midodrine hydrochloride tablet authorizations are cancelled. The records contain no approved-indication text. The first five are listed below.
+All 10 midodrine hydrochloride tablet authorizations are valid. The records contain no approved-indication text. The first five are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -95,7 +95,7 @@ Please refer to the package insert for the full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction for variably protease-sensitive prionopathy rests only on a graph-based score. There are no trials or publications, and no plausible mechanism links an alpha-1 agonist to a prion disease. Midodrine is also currently listed as "Cancelled only" in the US.
+The prediction for variably protease-sensitive prionopathy rests only on a TxGNN model (deep learning) score. There are no trials or publications, and no plausible mechanism links an alpha-1 agonist to a prion disease. Midodrine is currently marketed in the US, with 10 valid licenses.
 
 **To proceed, the following is needed:**
 - A mechanistic hypothesis and preclinical data showing that midodrine affects prion disease biology, not just autonomic symptoms

@@ -4,17 +4,17 @@ title: Gepirone
 parent: Model Prediction Only (L5)
 nav_order: 750
 evidence_level: L5
-indication_count: 3
+indication_count: 2
 last_modified_at: 2026-10-14
-description: "Gepirone: predicted new indication Benign paroxysmal torticollis of infancy (evidence level L5). Approved use: Unipolar depression, endogenous depression, major depressive disorder…"
 monitor_inn: "GEPIRONE"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
+description: "Gepirone: predicted new indication Benign paroxysmal torticollis of infancy (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Gepirone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-## Gepirone: From Depression to Benign Paroxysmal Torticollis of Infancy
+## Gepirone: Benign paroxysmal torticollis of infancy
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ Two other predictions, agoraphobia and postpartum depression, have somewhat more
 
 | Item | Content |
 |------|------|
-| Original Indication | Unipolar depression, endogenous depression, major depressive disorder, anxiety disorder (the U.S. license record contains no indication text; these indications come from the knowledge graph) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Benign paroxysmal torticollis of infancy |
-| TxGNN Prediction Score | 99.67% |
+| TxGNN Prediction Score | 0.9967 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no valid licences) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -64,8 +64,7 @@ Benign paroxysmal torticollis of infancy is regarded as a migraine-related chann
 
 | Rank | Predicted Indication | TxGNN Score | Evidence Level | Decision |
 |------|------|------|------|------|
-| 2 | Agoraphobia | 99.66% | L3 | Research question |
-| 3 | Postpartum depression | 99.52% | L4 | Hold |
+| 2 | Agoraphobia | 0.9966 | L5 | Research question |
 
 - **Agoraphobia** lies within the anxiety-disorder spectrum, which overlaps with gepirone's original indication. One uncontrolled study supports it (see below).
 - **Postpartum depression** is a subtype of major depressive disorder, so there is an indirect link. The retrieved literature is general and contains no gepirone-specific postpartum data.
@@ -90,7 +89,7 @@ For the other predicted indications, the following publications were retrieved:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA021164 | EXXUA (Aytu Therapeutics, LLC) | Tablet, extended release | Not listed in the data (status: cancelled) |
+| NDA021164 | EXXUA (Aytu Therapeutics, LLC) | Tablet, extended release | Not listed in the data (status: valid) |
 
 ## Safety Considerations
 

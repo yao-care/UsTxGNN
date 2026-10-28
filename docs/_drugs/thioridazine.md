@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Thioridazine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1222
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 monitor_inn: "THIORIDAZINE"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "nephrogenic syndrome of inappropriate antidiuresis", "major affective disorder", "bipolar disorder", "obsessive-compulsive disorder", "attention deficit-hyperactivity disorder", "paranoid personality disorder", "schizoid personality disorder"]
 last_modified_at: 2026-10-14
-description: "Thioridazine: predicted new indication Manic bipolar affective disorder (evidence level L4). Approved use: Not available"
+description: "Thioridazine: predicted new indication Manic bipolar affective disorder (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Thioridazine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Thioridazine: From Antipsychotic Use to Manic Bipolar Affective Disorder
+## Thioridazine: Manic bipolar affective disorder
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ The evidence is weak, and thioridazine carries a serious cardiac (QTc) safety co
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (the US licence records contain no approved-indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Manic bipolar affective disorder |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (no active licences) |
-| Number of NDAs | 6 (all ANDA generic licences, all cancelled) |
+| TxGNN Prediction Score | 0.9998 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 6 of 6) |
+| Number of NDAs | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -99,11 +99,11 @@ Several older reports in the retrieved set are safety warnings rather than effic
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA088004 | Thioridazine Hydrochloride (Mylan Institutional) | Film-coated tablet | Not available (cancelled) |
-| ANDA089953 | Thioridazine Hydrochloride (Sun Pharmaceutical) | Film-coated tablet | Not available (cancelled) |
-| ANDA088135 | Thioridazine Hydrochloride (Chartwell RX) | Film-coated tablet | Not available (cancelled) |
-| ANDA088134 | Thioridazine Hydrochloride (Chartwell RX) | Film-coated tablet | Not available (cancelled) |
-| ANDA088133 | Thioridazine Hydrochloride (Chartwell RX) | Film-coated tablet | Not available (cancelled) |
+| ANDA088004 | Thioridazine Hydrochloride (Mylan Institutional) | Film-coated tablet | Not available (valid) |
+| ANDA089953 | Thioridazine Hydrochloride (Sun Pharmaceutical) | Film-coated tablet | Not available (valid) |
+| ANDA088135 | Thioridazine Hydrochloride (Chartwell RX) | Film-coated tablet | Not available (valid) |
+| ANDA088134 | Thioridazine Hydrochloride (Chartwell RX) | Film-coated tablet | Not available (valid) |
+| ANDA088133 | Thioridazine Hydrochloride (Chartwell RX) | Film-coated tablet | Not available (valid) |
 
 A sixth licence, ANDA088131 (Chartwell RX), is also cancelled. All six licences are oral single-ingredient products.
 
@@ -126,28 +126,27 @@ Please refer to the package insert for the official warnings and contraindicatio
 **Decision: Hold**
 
 **Rationale:**
-The prediction is mechanistically plausible (D2 antagonism), but there are no clinical trials and no thioridazine-specific controlled evidence in mania. The serious QTc and arrhythmia risk is a major concern in this population, and all US licences are cancelled. Better-established antimanic agents are available.
+The prediction is mechanistically plausible (D2 antagonism), but there are no clinical trials and no thioridazine-specific controlled evidence in mania. The serious QTc and arrhythmia risk is a major concern in this population, and the drug is marketed in the US with 6 valid licenses of 6. Better-established antimanic agents are available.
 
 **To proceed, the following is needed:**
 - Official package insert warnings and contraindications (a blocking gap for safety screening).
 - Mechanism of action data, for example from DrugBank.
 - Thioridazine-specific controlled efficacy data in acute mania.
 - A cardiac safety plan covering QTc monitoring, electrolytes, and avoidance of QT-prolonging and CYP2D6-interacting drugs.
-- Clarification of regulatory pathway and supply, given that no US licence is currently active.
 
 ## Other Predicted Indications (Brief Overview)
 
 | Rank | Predicted Indication | TxGNN Score | Evidence Level | Decision | Notes |
 |------|------|------|------|------|------|
-| 2 | Tourette syndrome | 99.97% | L4 | Hold | Only a 1964 paediatric phenothiazine report and a 1986 report of neuroleptic-induced Tourette-like syndrome (a safety signal). |
-| 3 | Trichotillomania | 99.97% | L5 | Hold | Computational prediction only. No trials or literature. |
-| 4 | Nephrogenic syndrome of inappropriate antidiuresis | 99.84% | L5 | Hold | No mechanistic rationale (the cause is a gain-of-function variant in the vasopressin V2 receptor). No trials or literature. |
-| 5 | Major affective disorder | 99.74% | L3 | Hold | Small, dated studies, including a 1984 thioridazine plus desipramine study and a 1984 multicentre trial versus diazepam and placebo in elderly non-psychotic patients. |
-| 6 | Bipolar disorder | 99.69% | L4 | Hold | Indirect evidence only; the single linked trial is a metabolic safety cohort. |
-| 7 | Obsessive-compulsive disorder | 99.62% | L4 | Hold | Only general reviews and old appraisals. No OCD-specific data. |
-| 8 | Attention deficit-hyperactivity disorder | 99.55% | L3 | Hold | Two 1991 double-blind studies of methylphenidate versus thioridazine in intellectually subaverage children. Methylphenidate was the clearly effective agent, and thioridazine carries cardiac and sedation risks in children. |
-| 9 | Paranoid personality disorder | 99.54% | L3 | Hold | Only a 1989 open-label study in borderline personality disorder (11 patients). |
-| 10 | Schizoid personality disorder | 99.54% | L3 | Hold | Same single 1989 study as rank 9. The identical score suggests a shared graph association, not independent evidence. |
+| 2 | Tourette syndrome | 0.9997 | L4 | Hold | Only a 1964 paediatric phenothiazine report and a 1986 report of neuroleptic-induced Tourette-like syndrome (a safety signal). |
+| 3 | Trichotillomania | 0.9997 | L5 | Hold | Computational prediction only. No trials or literature. |
+| 4 | Nephrogenic syndrome of inappropriate antidiuresis | 0.9984 | L5 | Hold | No mechanistic rationale (the cause is a gain-of-function variant in the vasopressin V2 receptor). No trials or literature. |
+| 5 | Major affective disorder | 0.9974 | L5 | Hold | Small, dated studies, including a 1984 thioridazine plus desipramine study and a 1984 multicentre trial versus diazepam and placebo in elderly non-psychotic patients. |
+| 6 | Bipolar disorder | 0.9969 | L4 | Hold | Indirect evidence only; the single linked trial is a metabolic safety cohort. |
+| 7 | Obsessive-compulsive disorder | 0.9962 | L5 | Hold | Only general reviews and old appraisals. No OCD-specific data. |
+| 8 | Attention deficit-hyperactivity disorder | 0.9955 | L3 | Hold | Two 1991 double-blind studies of methylphenidate versus thioridazine in intellectually subaverage children. Methylphenidate was the clearly effective agent, and thioridazine carries cardiac and sedation risks in children. |
+| 9 | Paranoid personality disorder | 0.9954 | L5 | Hold | Only a 1989 open-label study in borderline personality disorder (11 patients). |
+| 10 | Schizoid personality disorder | 0.9954 | L5 | Hold | Same single 1989 study as rank 9. The identical score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

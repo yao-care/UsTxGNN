@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Ziprasidone
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 1310
-evidence_level: L2
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Ziprasidone: predicted new indication Major affective disorder (evidence level L2). Approved use: Schizophrenia"
 monitor_inn: "ZIPRASIDONE"
 predicted_indications: ["trichotillomania", "hydranencephaly (disease)", "major affective disorder", "congenital disorder of glycosylation with defective fucosylation", "myopia X-linked", "retinal dystrophy with or without extraocular anomalies", "Tourette syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia 26, X-linked, female-limited", "syndromic myopia"]
+description: "Ziprasidone: predicted new indication Trichotillomania (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Ziprasidone
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-## Ziprasidone: From Schizophrenia and Bipolar Disorder to Major Affective Disorder
+## Ziprasidone: Trichotillomania
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ The strongest evidence comes from several Phase 2 placebo-controlled trials, but
 
 | Item | Content |
 |------|------|
-| Original Indication | Schizophrenia; bipolar disorder (manic bipolar affective disorder) |
-| Predicted New Indication | Major affective disorder |
-| TxGNN Prediction Score | 99.66% |
-| Evidence Level | L2 |
-| US Market Status | Cancelled only (all licenses cancelled) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Trichotillomania |
+| TxGNN Prediction Score | 0.9983 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 7) |
 | Number of NDAs | 7 (1 NDA and 6 ANDAs) |
 | Recommended Decision | Hold |
 
@@ -91,7 +91,6 @@ This is partly an extension of an existing bipolar indication rather than a full
 
 ## US Market Information
 
-All seven authorizations are listed as cancelled; none is currently valid.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -114,7 +113,7 @@ Package insert warnings and contraindications were not available for this report
 **Decision: Hold**
 
 **Rationale:**
-Several Phase 2 placebo-controlled trials and meta-analyses address ziprasidone in major depression, so the prediction has real support (evidence level L2). However, no completed Phase 3 RCT confirms efficacy, results for unipolar augmentation appear mixed, cardiac (QTc) risk is significant, and all US licenses are cancelled. The model's other top-ranked predictions (such as trichotillomania and Tourette syndrome) have little or no supporting evidence.
+Several Phase 2 placebo-controlled trials and meta-analyses address ziprasidone in major depression, so the prediction has real support (evidence level L2). The model's other top-ranked predictions (such as trichotillomania and Tourette syndrome) have little or no supporting evidence.
 
 **To proceed, the following is needed:**
 - Outcome data from the Phase 2 trials (especially NCT00633399 and NCT00555997) and a review of their efficacy results

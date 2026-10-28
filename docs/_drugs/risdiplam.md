@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "RISDIPLAM"
 predicted_indications: ["acne (disease)"]
 last_modified_at: 2026-10-14
-description: "Risdiplam: predicted new indication Acne (evidence level L5). Approved use: Spinal muscular atrophy"
+description: "Risdiplam: predicted new indication acne (disease) (evidence level L5). Approved use: Spinal muscular atrophy"
 ---
 
 # Risdiplam
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-## Risdiplam: From Spinal Muscular Atrophy to Acne
+## Risdiplam: From Spinal Muscular Atrophy to acne
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,10 +48,10 @@ The prediction rests on a model score alone and should be treated as a hypothesi
 |------|------|
 | Original Indication | Spinal muscular atrophy (based on general knowledge of the drug; the license records contain no indication text) |
 | Predicted New Indication | Acne |
-| TxGNN Prediction Score | 99.45% |
+| TxGNN Prediction Score | 0.9945 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (the records show no currently valid license) |
-| Number of NDAs | 2 |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 No plausible link to acne biology can be established from the available data. Acne involves sebaceous gland activity, *Cutibacterium acnes* colonization, follicular hyperkeratinization and inflammation, and nothing here connects risdiplam to these processes.
 
-The high score (rank 12,794 among predictions) may reflect knowledge-graph topology, such as shared gene or pathway neighbors, rather than a true biological relationship. Any link remains hypothetical and unverified.
+The high score (rank 12,794 among predictions) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Any link remains hypothetical and unverified.
 
 ## Clinical Trial Evidence
 
@@ -74,8 +74,8 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA213535 | EVRYSDI | Powder, for solution | Not listed in the records (status: cancelled) |
-| NDA219285 | EVRYSDI | Tablet | Not listed in the records (status: cancelled) |
+| NDA213535 | EVRYSDI | Powder, for solution | Not listed in the records (status: valid) |
+| NDA219285 | EVRYSDI | Tablet | Not listed in the records (status: valid) |
 
 Both authorizations are held by Genentech, Inc. and are recorded as cancelled. The records should be checked against the current FDA database before any conclusion is drawn about market availability.
 

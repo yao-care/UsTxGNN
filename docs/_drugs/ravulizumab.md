@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "RAVULIZUMAB"
 predicted_indications: ["autosomal recessive severe congenital neutropenia due to G6PC3 deficiency", "cyclic hematopoiesis", "primary hyperoxaluria", "severe congenital neutropenia", "autosomal recessive severe congenital neutropenia due to CXCR2 deficiency", "primary immunodeficiency syndrome due to p14 deficiency", "pseudo-von Willebrand disease", "X-linked severe congenital neutropenia", "primary release disorder of platelets", "megaloblastic anemia (disease)"]
 last_modified_at: 2026-10-14
-description: "Ravulizumab: predicted new indication Autosomal recessive severe congenital neutropenia due to G6PC3 defici… (evidence level L5). Approved use: Paroxysmal nocturnal hemoglobinuria"
+description: "Ravulizumab: predicted new indication Autosomal recessive severe congenital neutropenia due to G6PC3 deficiency (evidence level L5). Approved use: Paroxysmal nocturnal hemoglobinuria"
 ---
 
 # Ravulizumab
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Ravulizumab: From Paroxysmal Nocturnal Hemoglobinuria to Autosomal Recessive Severe Congenital Neutropenia (G6PC3 Deficiency)
+## Ravulizumab: From Paroxysmal Nocturnal Hemoglobinuria to Autosomal recessive severe congenital neutropenia due to G6PC3 deficiency
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,17 +48,17 @@ but **no clinical trials and no publications** currently support this prediction
 |------|------|
 | Original Indication | Paroxysmal nocturnal hemoglobinuria |
 | Predicted New Indication | Autosomal recessive severe congenital neutropenia due to G6PC3 deficiency |
-| TxGNN Prediction Score | 99.96% |
+| TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (the single BLA is listed as cancelled) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known information, ravulizumab is a long-acting inhibitor of complement component C5. Its efficacy in PNH, a disease of complement-mediated hemolysis, is the basis of its original indication.
 
-The predicted disease is different in nature. G6PC3 deficiency is a defect in glucose-6-phosphatase catalytic subunit 3, which causes neutrophil apoptosis and endoplasmic reticulum stress. No established link exists between terminal complement activation and this neutropenia. The high TxGNN score appears to reflect network proximity within the knowledge graph rather than a biologically validated mechanism.
+The predicted disease is different in nature. G6PC3 deficiency is a defect in glucose-6-phosphatase catalytic subunit 3, which causes neutrophil apoptosis and endoplasmic reticulum stress. No established link exists between terminal complement activation and this neutropenia. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 The other top-ranked predictions show the same pattern. These include cyclic hematopoiesis, severe congenital neutropenia, CXCR2 deficiency, primary hyperoxaluria, and pseudo-von Willebrand disease. None has a recognized role for C5 inhibition, and none has supporting trials or literature. Primary hyperoxaluria is the only one with even a speculative indirect link, through complement-related secondary renal injury from calcium oxalate crystals. Its primary disease driver is not addressed by C5 blockade.
 
@@ -74,7 +74,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA761108 | Ultomiris (Alexion Pharmaceuticals Inc.) | Solution, concentrate | Not listed in the compiled data (status: cancelled) |
+| BLA761108 | Ultomiris (Alexion Pharmaceuticals Inc.) | Solution, concentrate | Not listed in the compiled data (status: valid) |
 
 ## Safety Considerations
 

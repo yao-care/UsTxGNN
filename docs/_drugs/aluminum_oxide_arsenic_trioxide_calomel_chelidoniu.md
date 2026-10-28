@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Aluminum Oxide Arsenic Trioxide Calomel Chelidoniu
@@ -49,7 +50,7 @@ This entry represents a 13-ingredient mixture containing multiple toxic heavy me
 | Predicted New Indication | None — TxGNN returned no predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | Below L5 (no model predictions, no studies) |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 

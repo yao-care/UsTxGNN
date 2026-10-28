@@ -4,7 +4,7 @@ title: Ipilimumab
 parent: Model Prediction Only (L5)
 nav_order: 808
 evidence_level: L5
-indication_count: 2
+indication_count: 1
 last_modified_at: 2026-10-14
 description: "Ipilimumab: predicted new indication Choroideremia (evidence level L5). Approved use: Metastatic melanoma"
 monitor_inn: "IPILIMUMAB"
@@ -14,7 +14,7 @@ predicted_indications: ["choroideremia"]
 # Ipilimumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **2** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ The prediction rests on a computational score alone, and the biology does not su
 |------|------|
 | Original Indication | Metastatic melanoma |
 | Predicted New Indication | Choroideremia |
-| TxGNN Prediction Score | 99.06% |
+| TxGNN Prediction Score | 0.9906 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 (BLA125377) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Detailed mechanism of action data are not available in the data compiled for thi
 
 Choroideremia is an X-linked inherited retinal disease caused by loss of function of the *CHM* (REP1) gene. The retinal pigment epithelium, choroid and photoreceptors degenerate progressively. The disease is not driven by tumour immune evasion or by an immune-mediated process, so there is no plausible way for checkpoint blockade to act on it.
 
-The very high TxGNN score (0.99) is a model output. It most likely reflects knowledge-graph topology rather than real biology. Systemic immune activation also carries a risk of immune-related adverse events, including uveitis. That would be undesirable in an already degenerating retina.
+The very high TxGNN score (0.9906) is an output of the TxGNN model (deep learning). It may reflect similarities the model learned between related diseases, not biological evidence. Systemic immune activation also carries a risk of immune-related adverse events, including uveitis. That would be undesirable in an already degenerating retina.
 
 ## Clinical Trial Evidence
 
@@ -74,7 +74,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA125377 | YERVOY (E.R. Squibb & Sons, L.L.C.) | Injection | Not specified; status: cancelled |
+| BLA125377 | YERVOY (E.R. Squibb & Sons, L.L.C.) | Injection | Not specified; status: valid |
 
 ## Cytotoxicity
 
@@ -110,7 +110,6 @@ The prediction has no clinical or published support (L5) and no credible mechani
 - Assessment of ocular immune-related adverse event risk
 - Confirmation of current US availability
 
-**Note on another predicted indication:** The same data include a lower-ranked prediction, **non-cutaneous melanoma** (TxGNN score 99.02%), which is an extension within the melanoma family. It is supported by a completed Phase 2 trial of nivolumab plus ipilimumab in uveal melanoma (NCT02626962) and a clinical series (PMID 24999899), and carries an L1 grade with a "Proceed with Guardrails" recommendation. It deserves a separate evaluation and is a much stronger candidate than choroideremia.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Aluminum Nitrate
@@ -47,7 +48,7 @@ Aluminum Nitrate is a chemical compound with no currently registered pharmaceuti
 | Predicted New Indication | None |
 | TxGNN Prediction Score | Not available |
 | Evidence Level | L5 — Model prediction only; in this case not even a prediction was generated |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 3) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 

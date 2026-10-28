@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Guaifenesin
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 763
-evidence_level: L4
-indication_count: 5
+evidence_level: L5
+indication_count: 4
 last_modified_at: 2026-10-14
-description: "Guaifenesin: predicted new indication Nasal cavity disease (evidence level L4). Approved use: Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold…"
 monitor_inn: "GUAIFENESIN"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "faucial diphtheria", "cervical disc degenerative disorder", "papillary conjunctivitis"]
+predicted_indications: ["nasal cavity disease", "faucial diphtheria", "cervical disc degenerative disorder", "papillary conjunctivitis"]
+description: "Guaifenesin: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Guaifenesin
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **5**
 
 </div>
 
-## Guaifenesin: From Upper Respiratory Conditions (Rhinitis, Common Cold) to Nasal Cavity Disease
+## Guaifenesin: Nasal cavity disease
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ but there are currently **no registered clinical trials** and only **1 publicati
 
 | Item | Content |
 |------|------|
-| Original Indication | Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold, rhinitis, nasopharyngitis, headache disorder (from the knowledge graph; no approved indication text is available in the US licence records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Nasal cavity disease |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (all licences cancelled) |
+| TxGNN Prediction Score | 0.9998 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 8) |
 | Number of NDAs | 8 licences in total (1 NDA, 7 ANDAs) |
 | Recommended Decision | Hold |
 
@@ -66,10 +66,9 @@ This link is inferred from the drug class and has not been confirmed. The very h
 
 | Rank | Predicted Indication | TxGNN Score | Evidence Level | Comment |
 |---|---|---|---|---|
-| 2 | Acute laryngopharyngitis | 99.98% | L5 | Adjacent to pharyngitis and the common cold; no trials or literature |
-| 3 | Faucial diphtheria | 99.54% | L5 | Toxin-mediated bacterial infection; guaifenesin has no antibacterial or antitoxin activity, so the signal likely reflects graph association only |
-| 4 | Cervical disc degenerative disorder | 99.50% | L5 | No plausible mechanistic link identified; any signal is speculative |
-| 5 | Papillary conjunctivitis | 99.27% | L5 | No clear ocular mechanism; may reflect association with allergic rhinitis |
+| 3 | Faucial diphtheria | 0.9954 | L5 | Toxin-mediated bacterial infection; guaifenesin has no antibacterial or antitoxin activity, so the score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence |
+| 4 | Cervical disc degenerative disorder | 0.9950 | L5 | No plausible mechanistic link identified; any signal is speculative |
+| 5 | Papillary conjunctivitis | 0.9927 | L5 | No clear ocular mechanism; may reflect association with allergic rhinitis |
 
 All four have a Hold recommendation.
 
@@ -87,15 +86,15 @@ This is a narrative review with indirect relevance, not controlled evidence of e
 
 ## US Market Information
 
-All 8 licences are cancelled; no currently valid licences were found. Approved indication text is not available in the compiled data.
+The drug is marketed in the US, with 8 valid licences. Approved indication text is not available in the compiled data.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| ANDA213420 | Mucus Relief (NUVICARE LLC) | Tablet, extended release | Cancelled |
-| M012 | Guaifenesin (PAI Pharma) | Solution | Cancelled |
-| ANDA207342 | Mucus Relief (Best Choice) | Tablet | Cancelled |
-| ANDA217780 | Guaifenesin 1200 mg (Marksans Pharma) | Tablet | Cancelled |
-| ANDA078912 | Mucus and Chest Congestion (CVS) | Tablet, multilayer, extended release | Cancelled |
+| ANDA213420 | Mucus Relief (NUVICARE LLC) | Tablet, extended release | Valid |
+| M012 | Guaifenesin (PAI Pharma) | Solution | Valid |
+| ANDA207342 | Mucus Relief (Best Choice) | Tablet | Valid |
+| ANDA217780 | Guaifenesin 1200 mg (Marksans Pharma) | Tablet | Valid |
+| ANDA078912 | Mucus and Chest Congestion (CVS) | Tablet, multilayer, extended release | Valid |
 
 Three further cancelled licences are not listed here, including NDA021282 (Mucinex, Bryant Ranch Prepack).
 
@@ -118,7 +117,7 @@ The knowledge graph lists the following conditions as contraindication-related a
 **Decision: Hold**
 
 **Rationale:**
-The prediction is biologically plausible because guaifenesin is a mucus-thinning agent and nasal cavity disease is closely related to its original indications. However, there are no clinical trials, only one indirect narrative review, and no mechanism of action or label safety data. All US licences are cancelled. The evidence does not yet support moving forward.
+The prediction is biologically plausible because guaifenesin is a mucus-thinning agent and nasal cavity disease is closely related to its original indications. However, there are no clinical trials, only one indirect narrative review, and no mechanism of action or label safety data. The drug is marketed in the US with 8 valid licences. The evidence does not yet support moving forward.
 
 **To proceed, the following is needed:**
 - Obtain the FDA package insert warnings and contraindications (a blocking gap for safety screening)

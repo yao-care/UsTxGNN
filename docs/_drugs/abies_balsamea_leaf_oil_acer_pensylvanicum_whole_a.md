@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Abies Balsamea Leaf Oil Acer Pensylvanicum Whole A
@@ -51,7 +52,7 @@ Without a prediction target, a formal repurposing evaluation cannot proceed at t
 | Predicted New Indication | None — TxGNN returned no predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — Model prediction only, no actual studies (and prediction is absent) |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 3) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

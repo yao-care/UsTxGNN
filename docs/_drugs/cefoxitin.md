@@ -4,17 +4,17 @@ title: Cefoxitin
 parent: Model Prediction Only (L5)
 nav_order: 505
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Cefoxitin: predicted new indication Urinary tract infection (evidence level L5). Approved use: Bacterial infections (streptococcal and staphylococcal infections…"
+description: "Cefoxitin: predicted new indication Infectious otitis media (evidence level L5). Approved use: Bacterial infections (streptococcal and staphylococcal infections…"
 monitor_inn: "CEFOXITIN"
-predicted_indications: ["infectious otitis media", "urinary tract infection (disease)", "chronic otitis media", "suppurative otitis media", "middle ear disease", "gonococcal urethritis", "Ureaplasma urethritis", "toxocariasis", "otosalpingitis", "non-suppurative otitis media"]
+predicted_indications: ["infectious otitis media", "urinary tract infection (disease)", "chronic otitis media", "suppurative otitis media", "middle ear disease", "Ureaplasma urethritis", "toxocariasis", "otosalpingitis", "non-suppurative otitis media"]
 ---
 
 # Cefoxitin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Cefoxitin: From Bacterial Infections to Urinary Tract Infection
+## Cefoxitin: From Bacterial Infections to Infectious Otitis Media
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -50,10 +50,10 @@ Currently **1 clinical trial** (terminated after 6 patients) and **20 publicatio
 |------|------|
 | Original Indication | Bacterial infections (streptococcal and staphylococcal infections, bacterial pneumonia, peritonitis, gonorrhea, endometritis, etc.) |
 | Predicted New Indication | Urinary tract infection (the rank 1 prediction, infectious otitis media, has no supporting trials and only one unsupportive review) |
-| TxGNN Prediction Score | 99.26% (UTI); rank 1 infectious otitis media scored 99.30% |
-| Evidence Level | L3 (UTI) |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 6 (all cancelled) |
+| TxGNN Prediction Score | 0.9926 (UTI); rank 1 infectious otitis media scored 0.9930 |
+| Evidence Level | L5 (UTI) |
+| US Market Status | Marketed (valid licenses: 6 of 6) |
+| Number of NDAs | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 ---
@@ -104,15 +104,15 @@ For other predicted indications:
 
 ## US Market Information
 
-All six US authorizations are cancelled. The data compiled for this report contain no approved indication text for them.
+All six US authorizations are valid. The data compiled for this report contain no approved indication text for them.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| ANDA065415 | Cefoxitin (WG Critical Care) | Injection, powder, for solution | Cancelled |
-| NDA065214 | Cefoxitin and Dextrose (B. Braun) | Injection, solution | Cancelled |
-| ANDA065238 | Cefoxitin (Hikma) | Injection, powder, for solution | Cancelled |
-| ANDA200938 | Cefoxitin (Samson Medical Technologies) | Injection, powder, for solution | Cancelled |
-| ANDA065414 | Cefoxitin (Sagent) | Injection, powder, for solution | Cancelled |
+| ANDA065415 | Cefoxitin (WG Critical Care) | Injection, powder, for solution | Valid |
+| NDA065214 | Cefoxitin and Dextrose (B. Braun) | Injection, solution | Valid |
+| ANDA065238 | Cefoxitin (Hikma) | Injection, powder, for solution | Valid |
+| ANDA200938 | Cefoxitin (Samson Medical Technologies) | Injection, powder, for solution | Valid |
+| ANDA065414 | Cefoxitin (Sagent) | Injection, powder, for solution | Valid |
 
 A sixth authorization (ANDA065239, Hikma) is also cancelled.
 
@@ -132,14 +132,14 @@ Please refer to the package insert for warnings and contraindications from the l
 **Decision: Hold**
 
 **Rationale:**
-The only registered UTI trial was terminated with 6 patients, and the remaining evidence is decades-old clinical studies or preclinical data. UTI is already within cefoxitin's antibacterial spectrum, so it adds little as true repurposing. All US authorizations are cancelled, and the other predictions are weak or implausible.
+The only registered UTI trial was terminated with 6 patients, and the remaining evidence is decades-old clinical studies or preclinical data. UTI is already within cefoxitin's antibacterial spectrum, so it adds little as true repurposing. All six US authorizations are valid, and the other predictions are weak or implausible.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
 - Contemporary comparative data against current standard-of-care agents, particularly for ESBL-producing uropathogens
 - Local susceptibility and resistance data (AmpC and ESBL) for target pathogens
-- Confirmation of regulatory and supply status, given that all US licenses are cancelled
+- Confirmation of regulatory and supply status, given that all six US licenses are valid
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

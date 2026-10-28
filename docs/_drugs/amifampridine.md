@@ -48,10 +48,10 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Lambert-Eaton myasthenic syndrome |
 | Predicted New Indication | Glaucoma |
-| TxGNN Prediction Score | 99.71% |
+| TxGNN Prediction Score | 0.9971 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Detailed mechanism of action data is not currently available in the data compile
 
 A possible link to glaucoma is modulation of potassium channel activity or neuronal excitability in retinal ganglion cells. This link is **speculative**. Potassium channel blockade could also affect ocular tissues in unpredictable ways, including intraocular pressure, so even the direction of any effect is unknown. The high TxGNN score is a computational output only and is not backed by trials or publications.
 
-A second prediction, **acute intermittent porphyria** (score 99.32%, also L5, Hold), was also generated. Amifampridine might theoretically ease the weakness of neurovisceral attacks, but it does not address the underlying heme biosynthesis defect. It also lowers the seizure threshold, which is a significant concern because seizures can occur during porphyric attacks and many anticonvulsants are restricted in this condition.
+A second prediction, **acute intermittent porphyria** (score 0.9932, also L5, Hold), was also generated. Amifampridine might theoretically ease the weakness of neurovisceral attacks, but it does not address the underlying heme biosynthesis defect. It also lowers the seizure threshold, which is a significant concern because seizures can occur during porphyric attacks and many anticonvulsants are restricted in this condition.
 
 ## Clinical Trial Evidence
 

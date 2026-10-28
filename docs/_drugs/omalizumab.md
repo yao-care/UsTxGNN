@@ -50,10 +50,10 @@ Among the top predictions, the stronger signals are in atopic eczema and dermati
 |------|------|
 | Original Indication | Asthma (allergic and intrinsic) and chronic idiopathic urticaria (the data compiled for this report lists no approved-indication text for the US licenses) |
 | Predicted New Indication | Bronchitis |
-| TxGNN Prediction Score | 99.999% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L3 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 2 (both BLA, both cancelled) |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ---
@@ -95,8 +95,8 @@ Neither trial tests bronchitis as the target condition, and no efficacy results 
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA103976 | Xolair PFS (Genentech, Inc.) | Injection, solution | Not listed; status cancelled |
-| BLA761399 | Omalizumab-igec (CELLTRION, Inc.) | Injection | Not listed; status cancelled |
+| BLA103976 | Xolair PFS (Genentech, Inc.) | Injection, solution | Not listed; status valid |
+| BLA761399 | Omalizumab-igec (CELLTRION, Inc.) | Injection | Not listed; status valid |
 
 ---
 

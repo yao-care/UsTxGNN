@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Tetracycline
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1219
-evidence_level: L4
+evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-14
-description: "Tetracycline: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L4). Approved use: Bacterial infections (e.g., urinary tract infection, bronchitis, acne…"
 monitor_inn: "TETRACYCLINE"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "chronic ethmoidal sinusitis", "chronic rhinosinusitis", "paranasal sinus neoplasm (disease)"]
+description: "Tetracycline: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Tetracycline
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **4** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **4**
 
 </div>
 
-## Tetracycline: From Bacterial Infections to Punctate Epithelial Keratoconjunctivitis
+## Tetracycline: Punctate epithelial keratoconjunctivitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ but currently **0 clinical trials** and only **1 publication** (a case report) s
 
 | Item | Content |
 |------|------|
-| Original Indication | Bacterial infections (e.g., urinary tract infection, bronchitis, acne, gonorrhea, pneumonia, conjunctivitis); the US license records contain no indication text, so this comes from the knowledge graph |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Punctate epithelial keratoconjunctivitis |
-| TxGNN Prediction Score | 99.58% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| TxGNN Prediction Score | 0.9958 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 7) |
 | Number of NDAs | 7 (all cancelled; 1 NDA and 6 ANDA/other authorizations) |
 | Recommended Decision | Hold |
 
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 Tetracycline is already used for chlamydial and other bacterial conjunctivitis, and its activity against *Chlamydia trachomatis* is plausibly relevant to keratoconjunctival disease. Tetracyclines are also reported to have anti-inflammatory and matrix metalloproteinase (MMP) inhibiting effects that could help ocular surface inflammation.
 
-However, the only retrieved paper describes persistent punctate keratitis that appeared *after* chlamydial conjunctivitis had been treated with tetracycline or doxycycline. This is indirect evidence and does not test tetracycline as a treatment for this condition. The high TxGNN score most likely reflects proximity to the existing conjunctivitis indications in the knowledge graph rather than new evidence.
+However, the only retrieved paper describes persistent punctate keratitis that appeared *after* chlamydial conjunctivitis had been treated with tetracycline or doxycycline. This is indirect evidence and does not test tetracycline as a treatment for this condition. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, such as the existing conjunctivitis indications, not biological evidence.
 
 ## Clinical Trial Evidence
 
@@ -74,7 +74,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All seven authorizations are cancelled; none is currently valid. The data compiled for this report contain no approved indication text.
+The drug is marketed in the United States, with 7 valid licenses. The data compiled for this report contain no approved indication text.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -99,7 +99,7 @@ Please refer to the package insert for official warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on one indirect case report and no registered trials, and the high TxGNN score appears driven by similarity to existing conjunctivitis indications. All US licenses for tetracycline are cancelled, which further limits practical development.
+The prediction rests on one indirect case report and no registered trials. The high TxGNN score (deep learning model) may reflect similarities the model learned between related diseases, such as the existing conjunctivitis indications, not biological evidence.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (currently a blocking gap for safety screening)
@@ -114,9 +114,9 @@ The prediction rests on one indirect case report and no registered trials, and t
 
 | Rank | Predicted Indication | TxGNN Score | Evidence Level | Decision | Summary |
 |------|------|------|------|------|------|
-| 2 | Chronic ethmoidal sinusitis | 99.15% | L4 | Hold | Only an in vitro antibiotic susceptibility study; no clinical efficacy data. Streptococcal resistance limits reliability. |
-| 3 | Chronic rhinosinusitis | 99.15% | L3 | Research Question | Strongest of the four: a 2016 Cochrane review, a 2020 review, and a 2023 meta-analysis of doxycycline, plus a 2026 omadacycline case series. The evidence concerns other tetracycline-class agents rather than tetracycline itself, benefit is modest and heterogeneous, and resistance raises stewardship concerns. |
-| 4 | Paranasal sinus neoplasm | 99.10% | L5 | Hold | No trials or literature; the rationale is speculative. |
+| 2 | Chronic ethmoidal sinusitis | 0.9915 | L5 | Hold | Only an in vitro antibiotic susceptibility study; no clinical efficacy data. Streptococcal resistance limits reliability. |
+| 3 | Chronic rhinosinusitis | 0.9915 | L5 | Research Question | Strongest of the four: a 2016 Cochrane review, a 2020 review, and a 2023 meta-analysis of doxycycline, plus a 2026 omadacycline case series. The evidence concerns other tetracycline-class agents rather than tetracycline itself, benefit is modest and heterogeneous, and resistance raises stewardship concerns. |
+| 4 | Paranasal sinus neoplasm | 0.9910 | L5 | Hold | No trials or literature; the rationale is speculative. |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

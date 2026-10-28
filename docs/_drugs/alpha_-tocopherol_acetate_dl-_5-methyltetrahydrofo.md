@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Alpha -Tocopherol Acetate Dl- 5-Methyltetrahydrofo
@@ -51,7 +52,7 @@ Without regulatory baseline data or model output, this evaluation cannot progres
 | Predicted New Indication | None — TxGNN returned no predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (model prediction only — but no output generated) |
-| US Market Status | Not marketed in Taiwan (Not marketed) |
+| US Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

@@ -6,9 +6,9 @@ nav_order: 1157
 evidence_level: L5
 indication_count: 8
 last_modified_at: 2026-10-14
-description: "Sertraline: predicted new indication Agoraphobia (evidence level L5). Approved use: Anxiety disorder, neurotic disorder, dysthymic disorder…"
 monitor_inn: "SERTRALINE"
 predicted_indications: ["paranoid personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "schizotypal personality disorder", "benign paroxysmal torticollis of infancy", "agoraphobia", "dependent personality disorder", "narcissistic personality disorder"]
+description: "Sertraline: predicted new indication Paranoid personality disorder (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Sertraline
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-## Sertraline: From Anxiety Disorders to Agoraphobia
+## Sertraline: Paranoid personality disorder
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,11 +47,11 @@ The TxGNN model predicts it may be effective for **Agoraphobia**, supported by *
 
 | Item | Content |
 |------|------|
-| Original Indication | Anxiety disorder, neurotic disorder, dysthymic disorder, post-traumatic stress disorder, social phobia, phobic disorder, obsessive-compulsive disorder (from the knowledge graph; no approved-indication text is available from US licenses) |
-| Predicted New Indication | Agoraphobia |
-| TxGNN Prediction Score | 99.54% |
-| Evidence Level | L1 (based on the literature; see note below) |
-| US Market Status | Cancelled only (all 8 listed licenses are cancelled) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Paranoid personality disorder |
+| TxGNN Prediction Score | 0.9993 |
+| Evidence Level | L5 (based on the literature; see note below) |
+| US Market Status | Marketed (valid licenses on record: at least 8) |
 | Number of NDAs | 8 (all ANDA generic applications, all cancelled) |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -67,7 +67,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 Sertraline's original indications already cover several anxiety-spectrum conditions, including social phobia, phobic disorder and anxiety disorder. Agoraphobia usually occurs together with panic disorder and belongs to the same family of conditions. This prediction is therefore a close extension of existing use, not a distant repurposing.
 
-The published evidence supports this link. It includes a double-blind multicenter trial of sertraline in panic disorder, comparator trials against imipramine and alprazolam, and recent network meta-analyses of drug treatment for panic disorder with or without agoraphobia. The high TxGNN score is consistent with this, though the score on its own is a graph-based prediction and not clinical proof.
+The published evidence supports this link. It includes a double-blind multicenter trial of sertraline in panic disorder, comparator trials against imipramine and alprazolam, and recent network meta-analyses of drug treatment for panic disorder with or without agoraphobia.
 
 ---
 
@@ -101,13 +101,13 @@ The published evidence supports this link. It includes a double-blind multicente
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA214790 | Sertraline Hydrochloride (Camber Pharmaceuticals) | Tablet | Cancelled |
-| ANDA077206 | Sertraline Hydrochloride (PD-Rx Pharmaceuticals) | Tablet, film coated | Cancelled |
-| ANDA076465 | Sertraline (Bryant Ranch Prepack) | Tablet, film coated | Cancelled |
-| ANDA077670 | Sertraline (A-S Medication Solutions) | Tablet, film coated | Cancelled |
-| ANDA219714 | Sertraline Hydrochloride (ANI Pharmaceuticals) | Capsule | Cancelled |
+| ANDA214790 | Sertraline Hydrochloride (Camber Pharmaceuticals) | Tablet | Valid |
+| ANDA077206 | Sertraline Hydrochloride (PD-Rx Pharmaceuticals) | Tablet, film coated | Valid |
+| ANDA076465 | Sertraline (Bryant Ranch Prepack) | Tablet, film coated | Valid |
+| ANDA077670 | Sertraline (A-S Medication Solutions) | Tablet, film coated | Valid |
+| ANDA219714 | Sertraline Hydrochloride (ANI Pharmaceuticals) | Capsule | Valid |
 
-All 8 licenses compiled for this report are cancelled, and no approved-indication text was available. The remaining three are ANDA077397 (Exelan, film-coated tablet), ANDA202825 (Bryant Ranch Prepack, film-coated tablet) and ANDA078861 (Rising Pharma, concentrate solution). The "Cancelled" status reflects these specific records only and should be verified against current FDA listings before drawing conclusions about availability.
+The remaining three are ANDA077397 (Exelan, film-coated tablet), ANDA202825 (Bryant Ranch Prepack, film-coated tablet) and ANDA078861 (Rising Pharma, concentrate solution). The "Cancelled" status reflects these specific records only and should be verified against current FDA listings before drawing conclusions about availability.
 
 ---
 
@@ -130,7 +130,6 @@ Randomized trials and network meta-analyses support SSRIs, including sertraline,
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications, which are required for safety screening
 - Detailed mechanism of action data from DrugBank
-- Confirmation of current US marketing status, since all compiled licenses are cancelled
 - Agoraphobia-specific efficacy data, or confirmation that evidence from panic disorder with agoraphobia is acceptable
 - A monitoring plan for the major drug interactions and the knowledge-graph contraindication conditions listed above
 ## Disclaimer

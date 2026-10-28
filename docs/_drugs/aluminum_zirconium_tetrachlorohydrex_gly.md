@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Aluminum Zirconium Tetrachlorohydrex Gly
@@ -49,7 +50,7 @@ The TxGNN model **did not generate any predicted new indications** for this comp
 | Predicted New Indication | None generated |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (Model prediction only — no prediction produced) |
-| US Market Status | Not marketed as a pharmaceutical drug |
+| US Market Status | Marketed (valid licenses on record: at least 3) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

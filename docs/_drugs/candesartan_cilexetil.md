@@ -4,17 +4,17 @@ title: Candesartan Cilexetil
 parent: Model Prediction Only (L5)
 nav_order: 490
 evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-14
-description: "Candesartan Cilexetil: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Hypertension (hypertensive disorder)"
+indication_count: 4
 monitor_inn: "CANDESARTAN CILEXETIL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
+last_modified_at: 2026-10-27
+description: "Candesartan Cilexetil: predicted new indication malignant hypertensive renal disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Candesartan Cilexetil
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,43 +33,32 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-## Candesartan Cilexetil: From Hypertension to Malignant Hypertensive Renal Disease
+## Candesartan Cilexetil: Angiotensin II receptor blocker → malignant hypertensive renal disease
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Candesartan cilexetil was originally used to treat hypertension.
-The TxGNN model predicts it may be effective for **malignant hypertensive renal disease**,
-but there are currently **0 clinical trials** and **0 directly relevant publications** supporting this prediction.
+Candesartan cilexetil is an angiotensin II type 1 receptor blocker. The TxGNN model predicts it may be useful for **malignant hypertensive renal disease**, with a score of 0.9968. However, **no clinical trials and no publications** directly support this prediction, so it remains a model-generated hypothesis.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension (hypertensive disorder) |
-| Predicted New Indication | Malignant hypertensive renal disease |
-| TxGNN Prediction Score | 99.68% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | malignant hypertensive renal disease |
+| TxGNN Prediction Score | 0.9968 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all 6 listings cancelled) |
-| Number of NDAs | 6 listings (1 NDA, 5 ANDAs) |
+| US Market Status | Marketed (valid licenses on record: at least 6) |
+| Number of NDAs | at least 6 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known class information, candesartan is an angiotensin II type 1 (AT1) receptor blocker. Its efficacy in hypertension is established, and mechanistically it may be applicable to malignant hypertensive renal disease.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on the known drug class, candesartan blocks the angiotensin II type 1 (AT1) receptor, which lowers blood pressure by limiting angiotensin II-driven vasoconstriction.
 
-Malignant hypertension damages the kidney through severe blood pressure elevation, renal vascular injury, and glomerular hypertension. Blocking AT1 receptors could plausibly reduce this injury. The indication is closely related to the original one, since both involve blood pressure control.
+Malignant hypertension can injure the small blood vessels of the kidney and raise pressure inside the glomeruli. Blocking AT1 receptors could plausibly reduce this vascular and glomerular stress, which gives a biologically reasonable link between the drug and this kidney condition.
 
-This link is a model-based prediction only. The TxGNN score is high, but no trials or literature were found to confirm it directly.
-
-Other predicted indications from the model (all also at evidence level L5, all Hold):
-
-| Rank | Predicted Indication | Score | Comment |
-|------|------|------|------|
-| 2 | Malignant renovascular hypertension | 99.68% | Mechanistically coherent (renin-angiotensin system), but ARBs can precipitate acute renal failure in bilateral renal artery stenosis or a solitary kidney |
-| 3 | Pulmonary hypertension with unclear multifactorial mechanism | 99.67% | Speculative link from preclinical angiotensin II remodeling data; the heterogeneous indication makes this uncertain |
-| 4 | Pulmonary hypertension owing to lung disease and/or hypoxia | 99.67% | Plausible but indirect; retrieved papers do not support it directly |
-| 5 | Braddock syndrome | 99.56% | No mechanistic link can be established from the available data |
+This link is a prediction only. No trial or publication in the compiled data studies candesartan in malignant hypertensive renal disease, so the rationale has not been tested directly.
 
 ## Clinical Trial Evidence
 
@@ -77,48 +66,36 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-No literature was found for the top predicted indication (malignant hypertensive renal disease). Two papers were retrieved for the fourth-ranked prediction (pulmonary hypertension owing to lung disease and/or hypoxia), and neither supports it directly:
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [31396238](https://pubmed.ncbi.nlm.nih.gov/31396238/) | 2019 | Preclinical (mouse) | Front Immunol | Candesartan cilexetil, an anti-inflammatory compound, improved neurological outcomes in a mouse model of neonatal hypoxia; not a pulmonary hypertension study |
-| [21423692](https://pubmed.ncbi.nlm.nih.gov/21423692/) | 2011 | Preclinical (rat) | Evid Based Complement Alternat Med | Hachimijiogan (a Kampo herbal formula) was compared with an angiotensin II receptor blocker in a remnant kidney model, with a focus on HIF-1α; does not study candesartan in pulmonary hypertension |
+Currently no related literature available.
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA020838 | Candesartan cilexetil (Golden State Medical Supply) | Tablet | Not available; cancelled |
-| ANDA210302 | Candesartan cilexetil (Alembic Pharmaceuticals Inc.) | Tablet | Not available; cancelled |
-| ANDA209119 | Candesartan cilexetil (Alembic Pharmaceuticals Limited) | Tablet | Not available; cancelled |
-| ANDA078702 | Candesartan cilexetil (Mylan Pharmaceuticals) | Tablet | Not available; cancelled |
-| ANDA203813 | Candesartan (Macleods Pharmaceuticals) | Tablet | Not available; cancelled |
+| NDA020838 | Candesartan cilexetil | Tablet | Not recorded |
+| ANDA210302 | Candesartan cilexetil | Tablet | Not recorded |
+| ANDA209119 | Candesartan cilexetil | Tablet | Not recorded |
+| ANDA078702 | Candesartan cilexetil | Tablet | Not recorded |
+| ANDA203813 | Candesartan | Tablet | Not recorded |
 
-One further listing (ANDA091390, Zydus Lifesciences) is also cancelled. All 6 US listings are cancelled, and there are no currently valid single-ingredient or combination authorizations in the data compiled for this report.
+The list may be partial.
 
 ## Safety Considerations
 
-Package insert warnings and contraindications were not available in the data compiled for this report. The following is drawn from the knowledge graph's drug-disease contraindication links, not from label text, and should be verified against the official label:
-
-- **Conditions flagged in the knowledge graph:** pancreatitis, liver disease, gallbladder disease, hepatic coma/encephalopathy, systemic lupus erythematosus (including pediatric), diabetes mellitus, diabetic ketoacidosis, gout, hyperuricemia, hypotensive disorder, potassium deficiency, hypercalcemia, hyperparathyroidism, osteitis fibrosa, nephrocalcinosis, phosphorus metabolism disorders, neonatal jaundice, anuria, renal artery obstruction, and impaired renal function.
-- **Relevance to the predicted indications:** Renal artery obstruction and impaired renal function are flagged, which matters directly for malignant hypertensive renal disease and renovascular hypertension. Angiotensin receptor blockers can precipitate acute renal failure in bilateral renal artery stenosis or a solitary kidney.
-- **Drug interactions:** No interaction data were found.
-
-Please refer to the package insert for authoritative safety information.
+Label warnings and contraindications and drug interaction records are not available in the data compiled for this report. Please refer to the package insert for safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a high model score and a plausible class mechanism (AT1 blockade). There are no clinical trials and no directly relevant literature, so the evidence level is L5. Renal contraindication signals add a safety concern for the renal-related indications. All US listings are also cancelled.
+The prediction score is high (0.9968), but there are no clinical trials or publications on this disease, so the evidence level is L5. The mechanistic argument is reasonable but untested.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications from the FDA label (currently a blocking gap for safety screening)
-- Mechanism of action data confirmed from DrugBank
-- A targeted literature search on ARBs in malignant hypertension with renal involvement
-- A review of renal safety in patients with renal artery stenosis, a solitary kidney, or impaired renal function
-- Clarification of current US market status, since all listings are cancelled
+- Direct clinical or preclinical studies of candesartan in malignant hypertensive renal disease
+- Mechanism of action data confirmed from a primary source
+- FDA package insert warnings and contraindications, to allow a safety review
+- Review of use in patients with severe kidney impairment, a safety-relevant population for this indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

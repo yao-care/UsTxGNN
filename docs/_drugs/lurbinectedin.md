@@ -47,22 +47,22 @@ The TxGNN model predicts it may be effective for **multiple endocrine neoplasia*
 |------|------|
 | Original Indication | Not available in the compiled data |
 | Predicted New Indication | Multiple endocrine neoplasia |
-| TxGNN Prediction Score | 99.44% |
+| TxGNN Prediction Score | 0.9944 |
 | Evidence Level | L5 (model prediction only) |
-| US Market Status | Cancelled only (no currently valid license in the compiled data) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available in the compiled data. Based on general knowledge of the drug, lurbinectedin is an alkylating agent that binds guanines in the DNA minor groove and inhibits oncogenic transcription. It is known to be used in relapsed small cell lung cancer, which is a neuroendocrine tumour. This background is not drawn from the compiled data and should be verified.
 
-Multiple endocrine neoplasia (MEN) syndromes involve tumours of endocrine and neuroendocrine tissue. A link between a transcription-inhibiting cytotoxic agent used in a neuroendocrine cancer and MEN-associated neuroendocrine tumours is plausible. It remains a hypothesis, however, because the TxGNN score is high (0.994) but no trials or publications support it.
+Multiple endocrine neoplasia (MEN) syndromes involve tumors of endocrine and neuroendocrine tissue. A link between a transcription-inhibiting cytotoxic agent used in a neuroendocrine cancer and MEN-associated neuroendocrine tumors is plausible. It remains a hypothesis, however, because the TxGNN score is high (0.9944) but no trials or publications support it.
 
 Other predicted indications were also reviewed. None has any supporting trial or publication, and all are rated L5 with a Hold recommendation:
 
 - HIV infection, cytomegalovirus infection, rheumatoid arthritis and amyotrophic lateral sclerosis have no clear mechanistic rationale. A cytotoxic agent also carries immunosuppression and toxicity concerns in these populations.
-- Feline AIDS, simian immunodeficiency virus infection, malignant catarrh, infectious bovine rhinotracheitis and Mills syndrome are veterinary or very rare conditions. They are likely graph artifacts of the model and are not relevant to human development.
+- Feline AIDS, simian immunodeficiency virus infection, malignant catarrh, infectious bovine rhinotracheitis and Mills syndrome are veterinary or very rare conditions. Their scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. They are not relevant to human development.
 
 ## Clinical Trial Evidence
 

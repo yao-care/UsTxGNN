@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Topotecan
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1243
-evidence_level: L3
-indication_count: 10
+evidence_level: L5
+indication_count: 2
 last_modified_at: 2026-10-14
 description: "Topotecan: predicted new indication Female breast carcinoma (evidence level L3). Approved use: Ovarian cancer (including ovarian germ cell tumours…"
 monitor_inn: "TOPOTECAN"
@@ -14,7 +14,7 @@ predicted_indications: ["female breast carcinoma", "adult germ cell tumor"]
 # Topotecan
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ with **3 clinical trials** (all early-phase or combination studies) and **20 pub
 |------|------|
 | Original Indication | Ovarian cancer (including ovarian germ cell tumours, yolk sac tumour and related subtypes) |
 | Predicted New Indication | Female breast carcinoma |
-| TxGNN Prediction Score | 99.92% |
-| Evidence Level | L3 |
-| US Market Status | Cancelled only (no currently valid licences in the data compiled for this report) |
-| Number of NDAs | 7 (3 NDAs and 4 ANDAs, all cancelled) |
+| TxGNN Prediction Score | 0.9992 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 7 of 7) |
+| Number of NDAs | 7 (valid: 7) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -89,15 +89,15 @@ This rationale rests on the class mechanism and preclinical data, not on direct 
 
 ## US Market Information
 
-All 7 US authorisations are currently cancelled. The approved indication text is not available in the data compiled for this report.
+All 7 US authorizations are currently valid. The approved indication text is not available in the data compiled for this report.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA020671 | HYCAMTIN (Novartis) | Injection, powder, lyophilized, for solution | Not available (cancelled) |
-| NDA020981 | HYCAMTIN (Sandoz) | Capsule | Not available (cancelled) |
-| NDA200582 | Topotecan (Hospira) | Injection, solution, concentrate | Not available (cancelled) |
-| ANDA091089 | Topotecan Hydrochloride (Fresenius Kabi) | Injection, powder, lyophilized, for solution | Not available (cancelled) |
-| ANDA204406 | Topotecan (Accord Healthcare) | Injection | Not available (cancelled) |
+| NDA020671 | HYCAMTIN (Novartis) | Injection, powder, lyophilized, for solution | Not available (valid) |
+| NDA020981 | HYCAMTIN (Sandoz) | Capsule | Not available (valid) |
+| NDA200582 | Topotecan (Hospira) | Injection, solution, concentrate | Not available (valid) |
+| ANDA091089 | Topotecan Hydrochloride (Fresenius Kabi) | Injection, powder, lyophilized, for solution | Not available (valid) |
+| ANDA204406 | Topotecan (Accord Healthcare) | Injection | Not available (valid) |
 
 ## Cytotoxicity
 
@@ -133,16 +133,16 @@ Please refer to the package insert for full warnings and precautions, as label t
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is very high (99.92%), but the supporting clinical data are weak: the only breast cancer trials are terminated, early-phase or combination studies, and the one relevant phase 2 publication found no evidence of increased efficacy. Evidence is mainly preclinical, review and indirect. With all US licences cancelled and label safety data missing, the prediction is best treated as a research question.
+The TxGNN score is very high (0.9992), but the supporting clinical data are weak: the only breast cancer trials are terminated, early-phase or combination studies, and the one relevant phase 2 publication found no evidence of increased efficacy. Evidence is mainly preclinical, review and indirect. With the drug marketed in the US (7 of 7 licenses valid) but label safety data missing, the prediction is best treated as a research question.
 
 **To proceed, the following is needed:**
 - Dedicated, topotecan-specific clinical data in breast cancer, with attention to MYC-high and triple-negative subtypes
 - Detailed mechanism of action data to strengthen the mechanistic link
 - Full package insert warnings and contraindications
-- Clarification of current US regulatory status, since all licences are cancelled
+- Clarification of current US regulatory status
 - Safety monitoring plan for myelosuppression, pulmonary toxicity and diarrhoea in breast cancer populations
 
-**Other predictions:** The next-ranked prediction, adult germ cell tumour (score 99.57%, evidence level L2), is clinically closer to topotecan's existing ovarian germ cell indication, but its trial and literature evidence mostly concerns neuroblastoma, glioma and retinoblastoma. The testicular yolk sac tumour pattern predictions (ranks 3–10, score 99.49%) have no trials or literature and are on Hold.
+**Other predictions:** The next-ranked prediction, adult germ cell tumor (score 0.9957, evidence level L2), is clinically closer to topotecan's existing ovarian germ cell indication, but its trial and literature evidence mostly concerns neuroblastoma, glioma and retinoblastoma.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

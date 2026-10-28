@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "FENFLURAMINE"
 predicted_indications: ["proximal 16p11.2 microdeletion syndrome", "hypervitaminosis", "obsolete hypertelorism (disease)", "frontorhiny"]
-last_modified_at: 2026-10-14
-description: "Fenfluramine: predicted new indication Proximal 16p11.2 microdeletion syndrome (evidence level L5). Approved use: Obesity disorder, monogenic obesity"
+last_modified_at: 2026-10-28
+description: "Fenfluramine: predicted new indication Proximal 16p11.2 microdeletion syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Fenfluramine
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-## Fenfluramine: From Obesity to Proximal 16p11.2 Microdeletion Syndrome
+## Fenfluramine: Proximal 16p11.2 microdeletion syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ but **no clinical trials and no publications** currently support this prediction
 
 | Item | Content |
 |------|------|
-| Original Indication | Obesity disorder, monogenic obesity (from the knowledge graph; no approved indication text on the US license) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Proximal 16p11.2 microdeletion syndrome |
-| TxGNN Prediction Score | 99.93% |
+| TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -63,9 +63,9 @@ The 16p11.2 microdeletion is associated with hyperphagia, early-onset obesity, a
 This link rests only on the high TxGNN score. Cardiac valvulopathy and pulmonary hypertension risks, which led to the original market withdrawal, would need careful consideration in any repurposing effort.
 
 Other predictions from the model were also reviewed. They have weaker or no credible mechanistic support:
-- **Hypervitaminosis** (99.92%): no credible mechanism; likely a knowledge-graph artifact.
-- **Obsolete hypertelorism** (99.86%): a structural craniofacial feature, not a pharmacologically modifiable pathway.
-- **Frontorhiny** (99.78%): a congenital craniofacial malformation; a serotonin-releasing drug is not expected to correct it.
+- **Hypervitaminosis** (0.9992): no credible mechanism; likely a TxGNN model (deep learning) artifact.
+- **Obsolete hypertelorism** (0.9986): a structural craniofacial feature, not a pharmacologically modifiable pathway.
+- **Frontorhiny** (0.9978): a congenital craniofacial malformation; a serotonin-releasing drug is not expected to correct it.
 
 ## Clinical Trial Evidence
 

@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Ketamine
-parent: Model Prediction Only (L5)
+parent: High Evidence (L1-L2)
 nav_order: 824
-evidence_level: L5
+evidence_level: L2
 indication_count: 1
 monitor_inn: "KETAMINE"
 predicted_indications: ["headache disorder"]
@@ -14,7 +14,7 @@ description: "Ketamine: predicted new indication Headache disorder (evidence lev
 # Ketamine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **1** 
+Evidence Level: **L2** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,9 +50,9 @@ The evidence includes one completed Phase 3 trial (THINK), but no trial results 
 |------|------|
 | Original Indication | Not available (no approved-indication text in the U.S. license records) |
 | Predicted New Indication | Headache disorder |
-| TxGNN Prediction Score | 99.33% |
+| TxGNN Prediction Score | 0.9933 |
 | Evidence Level | L2 (see note below) |
-| US Market Status | Cancelled only (no currently valid authorizations) |
+| US Market Status | Marketed (valid licenses on record: at least 6) |
 | Number of NDAs | 6 authorizations (1 NDA, 5 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
@@ -64,7 +64,7 @@ The evidence includes one completed Phase 3 trial (THINK), but no trial results 
 
 Detailed mechanism of action data from the source record is not available. Based on general pharmacology, ketamine is an NMDA receptor antagonist. Central sensitization and glutamatergic signaling are thought to contribute to migraine, cluster headache, and chronic headache pain. Blocking NMDA receptors is therefore a plausible way to relieve pain and to interrupt pain amplification in the trigeminovascular pathway.
 
-The original approved indication is not recorded in the data. Ketamine is a well-known anesthetic and analgesic agent, and headache is a pain condition, so the link between the two is plausible. The very high TxGNN score (99.33%) is consistent with this rationale, but it is a model prediction and not clinical evidence.
+The original approved indication is not recorded in the data. Ketamine is a well-known anesthetic and analgesic agent, and headache is a pain condition, so the link between the two is plausible. The very high TxGNN score (0.9933) is consistent with this rationale, but it is a model prediction and not clinical evidence.
 
 Published reviews support the direction, including a systematic review of ketamine in migraine and other primary headaches and a review of NMDA antagonists as anti-migraine agents. A retrospective cohort study also examined lidocaine and ketamine infusions for headache disorders.
 
@@ -115,7 +115,7 @@ Many other retrieved papers concern ketamine in depression, which is not the tar
 | ANDA074524 (cancelled) | Ketamine Hydrochloride | Injection | Not specified |
 | ANDA215808 (cancelled) | Ketamine hydrochloride | Injection | Not specified |
 
-A sixth authorization, ANDA076092 (Eugia US LLC, injection), is also cancelled. All six authorizations are listed as cancelled, so no valid U.S. authorization appears in the data compiled for this report.
+A sixth authorization, ANDA076092 (Eugia US LLC, injection), is also valid. The drug is marketed in the U.S., and all six authorizations are listed as valid in the data compiled for this report.
 
 ---
 
@@ -150,7 +150,7 @@ Several trials directly test ketamine in headache, and the mechanistic rationale
 - FDA package insert warnings and contraindications (blocking gap for safety screening)
 - Results from THINK (NCT03081416) and other completed trials, plus the outcome of KetHead (NCT05306899, expected 2027)
 - Mechanism of action data from DrugBank
-- Clarification of the current U.S. regulatory and supply status, given that all authorizations are cancelled
+- Clarification of the current U.S. regulatory and supply status, given that the drug is marketed with 6 valid authorizations
 - Route and formulation assessment (IV vs intranasal vs oral) for the headache setting
 - A safety plan for patients with cardiovascular or cerebrovascular disease, raised intracranial pressure, or substance-use history
 ## Disclaimer

@@ -46,10 +46,10 @@ Glucarpidase is a recombinant enzyme (marketed as Voraxaze) that breaks down met
 |------|------|
 | Original Indication | Not listed in the data compiled for this report (the drug's established use is reducing toxic plasma methotrexate levels in patients with delayed methotrexate clearance due to impaired kidney function) |
 | Predicted New Indication | Diabetic cataract |
-| TxGNN Prediction Score | 99.85% |
+| TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 (BLA125327) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -59,9 +59,9 @@ Currently, detailed mechanism of action data is not available in the compiled da
 The review found no plausible link between this mechanism and diabetic cataract. Diabetic cataract involves the polyol pathway, aldose reductase activity, and oxidative stress in the lens, and glucarpidase acts on none of these. As a large protein given intravenously, it is also unlikely to reach the avascular lens in meaningful amounts.
 
 The prediction should be treated with caution:
-- The score (0.9985) appears to be a graph-based artifact rather than a drug-specific signal.
+- The score (0.9985) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 - All ten predicted indications are eye diseases (diabetic cataract, diabetic retinopathy, tetanic, mature, immature, craniostenosis, type 2 diabetes-associated, cortical, nuclear senile, and senile cataract).
-- Their scores cluster at nearly identical values (0.998 to 0.9985). Several cataract subtypes share exactly the same score, which suggests a generic disease-class association rather than a specific mechanistic one.
+- Their scores cluster at nearly identical values (0.9982 to 0.9985). Several cataract subtypes share exactly the same score, which suggests a generic disease-class association rather than a specific mechanistic one.
 
 ## Clinical Trial Evidence
 
@@ -75,7 +75,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA125327 | Voraxaze (BTG International Inc.) | Injection, powder, for solution | Not listed in the compiled data (status: cancelled) |
+| BLA125327 | Voraxaze (BTG International Inc.) | Injection, powder, for solution | Not listed in the compiled data (status: valid) |
 
 ## Safety Considerations
 
@@ -95,7 +95,7 @@ The prediction rests only on a computational score, with no clinical trials, no 
 - A credible mechanistic hypothesis connecting folate or methotrexate hydrolysis to lens or retinal disease
 - Preclinical evidence (for example, lens or retinal models) showing relevant activity
 - Assessment of whether ocular delivery is feasible for a large enzyme protein
-- Independent confirmation that the prediction is not a graph-embedding artifact, for example by checking whether other drugs show the same cluster of eye-disease scores
+- Independent confirmation that the prediction is not an artifact of similarities the model learned between related diseases, for example by checking whether other drugs show the same cluster of eye-disease scores
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

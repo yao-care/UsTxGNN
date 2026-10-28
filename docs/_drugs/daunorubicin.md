@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "DAUNORUBICIN"
 predicted_indications: ["Hodgkins lymphoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "neuroblastoma", "ALK-positive large B-cell lymphoma", "adenosarcoma", "retroperitoneal neoplasm", "small cell lung carcinoma", "primary pulmonary lymphoma", "pulmonary blastoma"]
 last_modified_at: 2026-10-14
-description: "Daunorubicin: predicted new indication Hodgkin's lymphoma (evidence level L3). Approved use: Acute lymphoblastic leukemia and acute myeloid leukemia (and related…"
+description: "Daunorubicin: predicted new indication Hodgkins lymphoma (evidence level L3). Approved use: Acute lymphoblastic leukemia and acute myeloid leukemia (and related…"
 ---
 
 # Daunorubicin
@@ -33,7 +33,7 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-## Daunorubicin: From Acute Leukemia to Hodgkin's Lymphoma
+## Daunorubicin: From Acute Leukemia to Hodgkins lymphoma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -50,10 +50,10 @@ but support is limited to **2 Phase 2 combination-chemotherapy trials** and **li
 |------|------|
 | Original Indication | Acute lymphoblastic leukemia and acute myeloid leukemia (and related subtypes) |
 | Predicted New Indication | Hodgkin's lymphoma |
-| TxGNN Prediction Score | 99.81% |
+| TxGNN Prediction Score | 0.9981 |
 | Evidence Level | L3 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 3 (all cancelled: 1 NDA, 2 ANDAs) |
+| US Market Status | Marketed (valid licenses: 3 of 3) |
+| Number of NDAs | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ---
@@ -97,11 +97,11 @@ Note: none of the retrieved studies directly evaluates daunorubicin in Hodgkin's
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA050731 | Daunorubicin Hydrochloride (Hikma) | Injection | Not available (cancelled) |
-| ANDA208759 | Daunorubicin Hydrochloride (Hisun) | Injection, solution | Not available (cancelled) |
-| ANDA065035 | Daunorubicin Hydrochloride (Meitheal) | Injection, solution | Not available (cancelled) |
+| NDA050731 | Daunorubicin Hydrochloride (Hikma) | Injection | Not available (valid) |
+| ANDA208759 | Daunorubicin Hydrochloride (Hisun) | Injection, solution | Not available (valid) |
+| ANDA065035 | Daunorubicin Hydrochloride (Meitheal) | Injection, solution | Not available (valid) |
 
-All three authorizations are cancelled, so no valid single-agent or combination license is currently listed.
+All three authorizations are valid, so valid single-agent or combination licenses are currently listed.
 
 ---
 
@@ -140,7 +140,7 @@ The evidence is only Phase 2 combination protocols and non-Hodgkin lymphoma or l
 - Detailed mechanism-of-action data
 - Direct clinical evidence for daunorubicin in Hodgkin's lymphoma, and a rationale for choosing it over doxorubicin
 - A cardiotoxicity and cumulative-dose risk assessment
-- Clarification of the regulatory and supply situation, given that all US licenses are cancelled
+- Clarification of the regulatory and supply situation, given that all 3 US licenses are valid and the drug is marketed
 
 ---
 

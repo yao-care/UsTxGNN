@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Ubrogepant
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1274
-evidence_level: L3
-indication_count: 3
+evidence_level: L5
+indication_count: 2
 last_modified_at: 2026-10-14
-description: "Ubrogepant: predicted new indication Migraine with brainstem aura (evidence level L3). Approved use: Migraine (migraine disorder"
 monitor_inn: "UBROGEPANT"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
+description: "Ubrogepant: predicted new indication Atrophoderma vermiculata (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Ubrogepant
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,25 +33,24 @@ Evidence Level: **L3** | Predicted Indications: **3**
 
 </div>
 
-## Ubrogepant: From Migraine to Migraine with Brainstem Aura
+## Ubrogepant: Atrophoderma vermiculata
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Ubrogepant is an oral CGRP receptor antagonist (gepant), originally used for the acute treatment of migraine with or without aura.
-The TxGNN model predicts it may be effective for **migraine with brainstem aura**,
 with **no registered clinical trials** specific to this subtype and **19 publications** on ubrogepant in migraine more broadly, so the evidence for this subtype is indirect.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Migraine (migraine disorder; migraine with or without aura) |
-| Predicted New Indication | Migraine with brainstem aura |
-| TxGNN Prediction Score | 99.85% |
-| Evidence Level | L3 |
-| US Market Status | Cancelled only (the single NDA is listed as cancelled in the data compiled for this report) |
-| Number of NDAs | 1 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Atrophoderma vermiculata |
+| TxGNN Prediction Score | 0.9940 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
@@ -87,7 +86,7 @@ None of these publications is specific to the brainstem aura subtype.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA211765 | UBRELVY (Allergan, Inc.) | Tablet | Status: cancelled in the data compiled for this report |
+| NDA211765 | UBRELVY (Allergan, Inc.) | Tablet | Status: valid in the data compiled for this report |
 
 ## Safety Considerations
 
@@ -109,7 +108,7 @@ Ubrogepant has strong Phase 3 evidence in acute migraine with or without aura, a
 - Verification of the current US market and NDA status
 - A review of the major CYP3A4-related drug interactions for patients on concomitant therapy
 
-**Other predictions (not recommended to advance):** Atrophoderma vermiculata (score 99.40%) and ulerythema ophryogenesis (score 99.23%) are supported only by the model prediction (L5). No trials or publications were found, and no plausible mechanistic link to CGRP receptor antagonism is evident. Decision: **Hold**.
+**Other predictions (not recommended to advance):** Atrophoderma vermiculata (score 0.9940) and ulerythema ophryogenesis (score 0.9923) are supported only by the model prediction (L5). No trials or publications were found, and no plausible mechanistic link to CGRP receptor antagonism is evident. Decision: **Hold**.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

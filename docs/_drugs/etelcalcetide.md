@@ -48,10 +48,10 @@ but there are currently **no registered clinical trials** and only **6 publicati
 |------|------|
 | Original Indication | Hyperparathyroidism (secondary hyperparathyroidism in hemodialysis) |
 | Predicted New Indication | Hyperphosphatemia |
-| TxGNN Prediction Score | 99.42% |
+| TxGNN Prediction Score | 0.9942 |
 | Evidence Level | L3 |
-| US Market Status | Cancelled only (the only NDA is cancelled) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

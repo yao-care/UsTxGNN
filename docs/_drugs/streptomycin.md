@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **conjunctivitis**, but there a
 |------|------|
 | Original Indication | Pulmonary tuberculosis (also chancroid, leptospirosis, lymphogranuloma venereum, yaws, brucellosis, tularemia, plague, granuloma inguinale and others) |
 | Predicted New Indication | Conjunctivitis |
-| TxGNN Prediction Score | 99.87% |
+| TxGNN Prediction Score | 0.9987 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid licence) |
-| Number of NDAs | 1 (an ANDA, cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -108,15 +108,15 @@ All other predictions are also at Hold:
 
 | Rank | Predicted Indication | Score | Evidence Level | Comment |
 |---|---|---|---|---|
-| 2 | Postinfectious vasculitis | 99.86% | L5 | No studies; immune-mediated mechanism |
-| 3 | Post-bacterial disorder | 99.86% | L5 | No studies; non-specific category |
-| 4 | Post-infectious syndrome | 99.85% | L5 | No studies; no active bacterial target |
-| 5 | Infective urethral stricture | 99.85% | L4 | Only historical tuberculous stricture reports |
-| 6 | Otitis externa | 99.85% | L4 | 1947 case series, veterinary and in vitro studies; ototoxicity concern |
-| 7 | Chagas cardiomyopathy | 99.83% | L5 | No studies; no antiparasitic mechanism |
-| 8 | Infection-related hemolytic uremic syndrome | 99.82% | L5 | No studies; antibiotics generally avoided and nephrotoxicity risk |
-| 9 | Lyme disease | 99.66% | L4 | Only resistance-marker studies; effective standard therapies exist |
-| 10 | Infectious otitis interna | 99.65% | L5 | Evidence shows streptomycin-induced labyrinthitis, conflicting with safety |
+| 2 | Postinfectious vasculitis | 0.9986 | L5 | No studies; immune-mediated mechanism |
+| 3 | Post-bacterial disorder | 0.9986 | L5 | No studies; non-specific category |
+| 4 | Post-infectious syndrome | 0.9985 | L5 | No studies; no active bacterial target |
+| 5 | Infective urethral stricture | 0.9985 | L5 | Only historical tuberculous stricture reports |
+| 6 | Otitis externa | 0.9985 | L5 | 1947 case series, veterinary and in vitro studies; ototoxicity concern |
+| 7 | Chagas cardiomyopathy | 0.9983 | L5 | No studies; no antiparasitic mechanism |
+| 8 | Infection-related hemolytic uremic syndrome | 0.9982 | L5 | No studies; antibiotics generally avoided and nephrotoxicity risk |
+| 9 | Lyme disease | 0.9966 | L4 | Only resistance-marker studies; effective standard therapies exist |
+| 10 | Infectious otitis interna | 0.9965 | L5 | Evidence shows streptomycin-induced labyrinthitis, conflicting with safety |
 
 ## Conclusion and Next Steps
 

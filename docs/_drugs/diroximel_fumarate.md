@@ -48,10 +48,10 @@ but **0 clinical trials** and **0 publications** currently support this directio
 |------|------|
 | Original Indication | Not listed in the available regulatory data |
 | Predicted New Indication | Diabetic cataract |
-| TxGNN Prediction Score | 99.999% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -61,7 +61,7 @@ Currently, detailed mechanism of action data is not available in the source data
 Oxidative stress and polyol-pathway damage are plausible contributors to diabetic lens opacity. This gives a hypothetical link between Nrf2 activation and diabetic cataract. The same reasoning could apply to diabetic retinopathy, where oxidative stress and inflammation contribute to retinal microvascular damage. However, this link has not been tested for diroximel fumarate.
 
 Several cautions apply:
-- The score is nearly identical (about 99.999%) across many cataract subtypes, which suggests a non-specific model signal rather than a disease-specific mechanism.
+- The score is nearly identical (about 1.0000) across many cataract subtypes, which suggests a non-specific model signal rather than a disease-specific mechanism.
 - Oral systemic dosing for a lens condition raises questions about lens exposure and risk-benefit.
 - For diabetic retinopathy, established therapies (anti-VEGF, laser, corticosteroids) set a high bar.
 - Other predicted entries (tetanic, craniostenosis-associated, mature cataract) have even weaker mechanistic rationale. Surgery remains the definitive treatment for cataract.

@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 537
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-14
-description: "Clobetasol Propionate: predicted new indication Exanthem (disease). Note: the top-ranked TxGNN prediction is vulvar i… (evidence level L5). Approved use: Atopic eczema, contact dermatitis, seborrheic…"
 monitor_inn: "CLOBETASOL PROPIONATE"
 predicted_indications: ["vulvar inverted follicular keratosis", "acrodermatitis chronica atrophicans", "exanthem (disease)", "acne keloid", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis"]
+last_modified_at: 2026-10-27
+description: "Clobetasol Propionate: predicted new indication vulvar inverted follicular keratosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Clobetasol Propionate
@@ -33,108 +33,71 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-## Clobetasol Propionate: From Dermatitis to Exanthem
+## Clobetasol Propionate: Potent topical corticosteroid (glucocorticoid receptor agonist) → vulvar inverted follicular keratosis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Clobetasol propionate is a potent topical corticosteroid, originally used for inflammatory skin conditions such as atopic eczema, contact dermatitis, seborrheic dermatitis and scalp dermatosis.
-The TxGNN model predicts it may be effective for **Exanthem (disease)** (the highest-ranked prediction that has any trial evidence), with **7 clinical trials** currently mapped to this term and **no publications**.
-The trials are mostly in oral lichen planus rather than true exanthems, so the evidence is indirect.
-
----
+Clobetasol propionate is a potent topical corticosteroid that acts on the glucocorticoid receptor and is used for inflammatory skin conditions.
+The TxGNN model predicts it may be relevant for **vulvar inverted follicular keratosis**, but the data compiled for this report contain **no clinical trials and no publications** that study this disease, so the support is model prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Atopic eczema, contact dermatitis, seborrheic dermatitis, scalp dermatosis (from the knowledge graph; no approved-indication text was available in the US licence records) |
-| Predicted New Indication | Exanthem (disease). Note: the top-ranked TxGNN prediction is vulvar inverted follicular keratosis (99.46%), but it has no supporting evidence, so the exanthem prediction is evaluated here because it has trial data |
-| TxGNN Prediction Score | 99.26% (exanthem); 99.46% (vulvar inverted follicular keratosis) |
-| Evidence Level | L1 on paper (a completed Phase 3 trial exists), but the trials address lichen disease, not exanthem; effective evidence is closer to L3–L4 |
-| US Market Status | Cancelled only (no currently valid licences) |
-| Number of NDAs | 18 (1 NDA and 17 ANDAs, all cancelled) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | vulvar inverted follicular keratosis |
+| TxGNN Prediction Score | 0.9946 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 18) |
+| Number of NDAs | at least 18 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Clobetasol is a potent glucocorticoid that acts on the glucocorticoid receptor (NR3C1). Its anti-inflammatory, immunosuppressive and antiproliferative actions explain its use in eczema and dermatitis. Detailed mechanism-of-action data was not available in the data compiled for this report, so the mechanistic discussion relies on the known receptor target.
+Clobetasol propionate binds the glucocorticoid receptor (gene NR3C1), producing anti-inflammatory, immunosuppressive and antiproliferative effects. Detailed mechanism-of-action text is not available in the data compiled for this report, so this description relies on the receptor-pharmacology record and general knowledge of the drug class.
 
-The link to the predicted indication is plausible but indirect. The seven trials mapped to "exanthem" are mostly in oral lichen planus and lichen sclerosus, which are immune-mediated inflammatory mucocutaneous diseases that respond to potent topical corticosteroids. They do not test clobetasol in true exanthems (widespread rashes typically caused by viral infection or drug reactions). The mapping between the trial conditions and the exanthem label is therefore weak, and the model's score should be read as reflecting a shared inflammatory-skin pattern rather than direct proof.
-
-Other predictions for this drug are weaker. Vulvar inverted follicular keratosis is a benign lesion usually managed by excision or observation. Acrodermatitis chronica atrophicans is an infectious disease treated with antibiotics, and steroids could worsen its skin atrophy. Neonatal dermatomyositis raises systemic absorption concerns in neonates, and the childhood interstitial lung disease is pulmonary and unlikely to be reached by a topical product. Amyopathic dermatomyositis is plausible for skin lesions, but no evidence was supplied. Acne keloidalis has a single small open-label study (20 patients), which supports a biologically sensible use consistent with standard practice.
-
----
+Inverted follicular keratosis is a benign epithelial lesion. Benign lesions of this kind are usually managed by excision or observation, so an anti-inflammatory treatment has no clear rationale. Clobetasol is already used for other vulvar skin conditions, which may partly explain the model's association, but no study links it to this specific lesion. The prediction should be treated as a hypothesis only.
 
 ## Clinical Trial Evidence
 
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT03592342](https://clinicaltrials.gov/study/NCT03592342) | Phase 2 | Completed | 140 | Randomized, double-blind, placebo-controlled study of three clobetasol doses (1, 5, 20 μg per patch) delivered by mucoadhesive patch in oral lichen planus; 4 weeks of twice-daily use. No results summarized in the data. |
-| [NCT03026478](https://clinicaltrials.gov/study/NCT03026478) | Phase 2 | Unknown | 30 | Clobetasol vs betamethasone in Orabase with clotrimazole for oral lichen planus. |
-| [NCT02573883](https://clinicaltrials.gov/study/NCT02573883) | Phase 3 | Completed | 52 | Clobetasol 0.05% ointment vs fractionated CO2 laser for vulvar lichen sclerosus. |
-| [NCT04364555](https://clinicaltrials.gov/study/NCT04364555) | Phase 2/3 | Active, not recruiting | 90 | Multicenter placebo-controlled trial of clobetasol rinse in symptomatic oral lichen planus. |
-| [NCT07536737](https://clinicaltrials.gov/study/NCT07536737) | N/A | Completed | 65 | Photodynamic therapy vs topical corticosteroids, assessing taste perception and salivary oxidative stress in oral lichen planus. |
-| [NCT03386643](https://clinicaltrials.gov/study/NCT03386643) | Phase 2 | Completed | 22 | Probiotic HN019 in oral lichen planus; clobetasol likely a comparator or background therapy. |
-| [NCT07278999](https://clinicaltrials.gov/study/NCT07278999) | N/A | Recruiting | 60 | Photobiomodulation, photodynamic therapy and clobetasol (standard of care) in erosive oral lichen planus. |
-
-All seven trials concern lichen-type disease, not exanthem.
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature is available for the exanthem prediction.
-
-For a lower-ranked prediction, acne keloidalis, one publication exists:
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [16047868](https://pubmed.ncbi.nlm.nih.gov/16047868/) | 2005 | Open-label study | Cutis | Clobetasol 0.05% and betamethasone valerate 0.12% foams were tested for 8–12 weeks (pulsed dosing) in 20 African American patients with mild to moderate acne keloidalis. No control arm. |
-
----
+Currently no related literature available.
 
 ## US Market Information
 
-All 18 licences are listed as cancelled; there are no currently valid US licences. Approved-indication text was not available in the records. Five representative licences:
+The compiled data show 18 US licence records for single-ingredient clobetasol propionate products, and the list may be partial. The licence records list the following dosage forms: cream, gel, lotion, ointment, shampoo and solution. Approved-indication text is not recorded in the local data. Because the licence records carry conflicting status information, the status counts are not itemised here; the overall market status is marketed.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA209483 | Impoyz | Cream | Not available |
-| ANDA074407 | Clobetasol Propionate (E. Fougera) | Ointment | Not available |
-| ANDA074249 | Clobetasol Propionate (A-S Medication Solutions) | Cream | Not available |
-| ANDA075027 | Clobetasol Propionate (Bryant Ranch Prepack) | Gel | Not available |
-| ANDA090974 | Clobetasol Propionate (Bryant Ranch Prepack) | Shampoo | Not available |
-
-Other cancelled forms include solution and lotion.
-
----
+| NDA209483 | Impoyz | Cream | Not recorded |
+| ANDA210034 | Clobetasol Propionate | Cream | Not recorded |
+| ANDA212982 | Clobetasol Propionate Cream USP, 0.05% | Cream | Not recorded |
+| ANDA208841 | Clobetasol Propionate | Ointment | Not recorded |
+| ANDA075027 | Clobetasol Propionate | Gel | Not recorded |
 
 ## Safety Considerations
 
-- **Contraindication-related conditions from the knowledge graph** (not label text): hyperglycemia, adrenocortical insufficiency, Addison disease, diabetes mellitus, diabetic ketoacidosis, folliculitis, seborrheic dermatitis, glaucoma, skin atrophy, peripheral vascular disease, intermittent claudication, and peripheral arterial disease.
-- **Drug Interactions**: Only a pharmacological target association was found (glucocorticoid receptor, NR3C1); no drug-drug interactions were identified.
-- **Prediction-specific concerns**: Potent topical steroids carry a risk of skin atrophy, which matters for diseases already featuring atrophy. Neonates and large-area use carry a higher risk of systemic absorption and HPA-axis suppression.
+- **Warnings from related disease associations (not label text):** The data compiled for this report flag several conditions in which potent corticosteroids may be problematic, including hyperglycemia, diabetes mellitus, diabetic ketoacidosis, adrenocortical insufficiency, Addison disease, glaucoma, folliculitis, skin atrophy, seborrheic dermatitis, and peripheral vascular or arterial disease.
+- **Drug interactions:** The only record is pharmacological binding to the glucocorticoid receptor; no drug–drug interactions are listed.
 
-Please refer to the package insert for full warnings and contraindications, as label data was not available in the data compiled for this report.
-
----
+Please refer to the package insert for full safety information, including systemic absorption and HPA-axis suppression risks with potent topical steroids.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-- The TxGNN scores are very high (above 99%), but the exanthem evidence is indirect: all trials involve lichen planus or lichen sclerosus, so the L1 grade does not show efficacy in exanthem. The other predictions have no evidence or only a single small uncontrolled study. The label safety data and mechanism data are also missing.
+The prediction score is high, but no trial or publication studies clobetasol in vulvar inverted follicular keratosis, and the lesion is benign and normally managed without anti-inflammatory therapy. The evidence level is therefore L5.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data from DrugBank
-- Clarification of whether the exanthem label should be reassigned to lichen planus or lichen sclerosus, which have supporting trials
-- For acne keloidalis, a controlled trial to confirm the open-label signal
-- Route and formulation compatibility assessment for each predicted indication
+- Any case series or trial in vulvar inverted follicular keratosis, or a clear biological rationale for corticosteroid use in this lesion
+- Package insert warnings and contraindications for formal safety screening
+- Mechanism-of-action data and route-compatibility assessment for the vulvar site
+- Confirmation of the status of the licence records
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

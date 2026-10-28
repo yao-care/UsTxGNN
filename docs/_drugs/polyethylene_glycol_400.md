@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "POLYETHYLENE GLYCOL 400"
 predicted_indications: ["bronchitis", "congenital ichthyosiform erythroderma"]
 last_modified_at: 2026-10-14
-description: "Polyethylene Glycol 400: predicted new indication Bronchitis (evidence level L5). Approved use: Constipation, dry eye syndrome, xerophthalmia"
+description: "Polyethylene Glycol 400: predicted new indication Bronchitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Polyethylene Glycol 400
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-## Polyethylene Glycol 400: From Constipation and Dry Eye to Bronchitis
+## Polyethylene Glycol 400: Bronchitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,11 +45,11 @@ The TxGNN model predicts it may be effective for **Bronchitis**, but the predict
 
 | Item | Content |
 |------|------|
-| Original Indication | Constipation, dry eye syndrome, xerophthalmia (from the knowledge graph; no approved indication text is available in the US license record) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Bronchitis |
-| TxGNN Prediction Score | 99.58% |
+| TxGNN Prediction Score | 0.9958 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no active marketing authorization) |
+| US Market Status | Marketed (valid licenses on record: at least 1) |
 | Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
@@ -57,11 +57,11 @@ The TxGNN model predicts it may be effective for **Bronchitis**, but the predict
 
 Currently, detailed mechanism of action data is not available. Based on known information, PEG 400 is a hydrophilic polymer that draws water osmotically. It is used as a laxative and as a lubricant in eye drops, and mechanistically it might be applicable to bronchitis.
 
-One speculative link is airway surface hydration or changes in mucus rheology. No retrieved evidence supports this idea. The high TxGNN score (0.996) is a graph-based prediction and may reflect general network proximity rather than a true pharmacological relationship.
+One speculative link is airway surface hydration or changes in mucus rheology. No retrieved evidence supports this idea. The high TxGNN score (0.9958) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 PEG 400 is also mainly used as an excipient or vehicle. This weakens the case for a specific therapeutic effect in bronchitis.
 
-**Second predicted indication (for reference):** The model also predicted *congenital ichthyosiform erythroderma* (score 99.10%, also Evidence Level L5, Hold). The speculative rationale is that PEG 400 could act as a humectant or emollient base that hydrates the skin in a hyperkeratotic disorder. This would be supportive and topical at best. It would not address the underlying genetic cause, and no trials or literature were found.
+**Second predicted indication (for reference):** The model also predicted *congenital ichthyosiform erythroderma* (score 0.9910, also Evidence Level L5, Hold). The speculative rationale is that PEG 400 could act as a humectant or emollient base that hydrates the skin in a hyperkeratotic disorder. This would be supportive and topical at best. It would not address the underlying genetic cause, and no trials or literature were found.
 
 ## Clinical Trial Evidence
 

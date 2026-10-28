@@ -48,9 +48,9 @@ but currently **0 clinical trials** and **0 publications** support this directio
 |------|------|
 | Original Indication | Impetigo, bullous impetigo |
 | Predicted New Indication | Pleural empyema |
-| TxGNN Prediction Score | 99.49% |
+| TxGNN Prediction Score | 0.9949 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of NDAs | 5 |
 | Recommended Decision | Hold |
 
@@ -60,7 +60,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 However, the practical link is weak. Mupirocin is a topical agent with negligible systemic bioavailability because it is rapidly metabolized to inactive monic acid. It cannot reach therapeutic concentrations in the pleural space by either topical or systemic routes. Standard care for empyema (drainage plus systemic antibiotics) is well established, so the prediction has no realistic translational pathway.
 
-The model's second-ranked prediction, punctate epithelial keratoconjunctivitis (score 99.10%), is also weak. That condition is often viral (e.g., adenovirus) or non-bacterial, and mupirocin has no antiviral activity. The commercial ointment is also not designed for ophthalmic use. Both predictions are at the L5 level and have been given a Hold recommendation.
+The model's second-ranked prediction, punctate epithelial keratoconjunctivitis (score 0.9910), is also weak. That condition is often viral (e.g., adenovirus) or non-bacterial, and mupirocin has no antiviral activity. The commercial ointment is also not designed for ophthalmic use. Both predictions are at the L5 level and have been given a Hold recommendation.
 
 ## Clinical Trial Evidence
 
@@ -74,11 +74,11 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA065170 | Mupirocin (Proficient Rx LP) | Ointment | Not stated; license cancelled |
-| ANDA065123 | Mupirocin (Bryant Ranch Prepack) | Ointment | Not stated; license cancelled |
-| ANDA065085 | Mupirocin (Teva Pharmaceuticals USA, Inc.) | Ointment | Not stated; license cancelled |
-| ANDA090480 | Mupirocin (Preferred Pharmaceuticals Inc.) | Ointment | Not stated; license cancelled |
-| ANDA217943 | Mupirocin (Encube Ethicals, Inc.) | Ointment | Not stated; license cancelled |
+| ANDA065170 | Mupirocin (Proficient Rx LP) | Ointment | Not stated; license valid |
+| ANDA065123 | Mupirocin (Bryant Ranch Prepack) | Ointment | Not stated; license valid |
+| ANDA065085 | Mupirocin (Teva Pharmaceuticals USA, Inc.) | Ointment | Not stated; license valid |
+| ANDA090480 | Mupirocin (Preferred Pharmaceuticals Inc.) | Ointment | Not stated; license valid |
+| ANDA217943 | Mupirocin (Encube Ethicals, Inc.) | Ointment | Not stated; license valid |
 
 All five authorizations are single-ingredient ointments and all are cancelled.
 
@@ -94,7 +94,7 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests solely on a model score, with no clinical trials or literature behind it. Mupirocin's topical-only exposure and rapid inactivation make therapeutic levels in the pleural space implausible, and effective standard treatment already exists. All US licenses for the drug are also cancelled.
+The prediction rests solely on a model score, with no clinical trials or literature behind it. Mupirocin's topical-only exposure and rapid inactivation make therapeutic levels in the pleural space implausible, and effective standard treatment already exists. The drug is marketed in the US, with 5 valid licenses.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

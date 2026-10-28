@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **Irritable Bowel Syndrome**, b
 |------|------|
 | Original Indication | Pulmonary tuberculosis |
 | Predicted New Indication | Irritable bowel syndrome |
-| TxGNN Prediction Score | 99.95% |
+| TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

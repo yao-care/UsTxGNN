@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 1038
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-14
-description: "Phenol: predicted new indication Acrodermatitis chronica atrophicans (evidence level L5). Approved use: Dermatitis"
+last_modified_at: 2026-10-28
 monitor_inn: "PHENOL"
 predicted_indications: ["acrodermatitis chronica atrophicans", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "neonatal dermatomyositis", "amyopathic dermatomyositis", "acne keloid", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "dry eye syndrome"]
+description: "Phenol: predicted new indication Acrodermatitis chronica atrophicans (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Phenol
@@ -33,12 +33,12 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-## Phenol: From Dermatitis to Acrodermatitis Chronica Atrophicans
+## Phenol: Acrodermatitis chronica atrophicans
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Phenol is an antiseptic and protein-denaturing agent, listed in the knowledge graph for dermatitis and sold in the US in sore throat sprays, homeopathic pellets and pain-relieving salves.
+Phenol is an antiseptic and protein-denaturing agent, sold in the US in sore throat sprays, homeopathic pellets and pain-relieving salves.
 The TxGNN model predicts it may be effective for **acrodermatitis chronica atrophicans**, but there are **0 clinical trials** and **0 publications** supporting this prediction.
 It is a model-based prediction only.
 
@@ -46,25 +46,25 @@ It is a model-based prediction only.
 
 | Item | Content |
 |------|------|
-| Original Indication | Dermatitis (from the knowledge graph; no approved indication text is available on the US product records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Acrodermatitis chronica atrophicans |
-| TxGNN Prediction Score | 99.95% |
+| TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
+| US Market Status | Marketed (valid licenses on record: at least 3) |
 | Number of NDAs | 3 (all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, phenol is an antiseptic with protein-denaturing properties, and it has been used on skin and mucosa. The knowledge graph links it to dermatitis, which likely explains why skin-related diseases score highly.
+Currently, detailed mechanism of action data is not available. Based on known information, phenol is an antiseptic with protein-denaturing properties, and it has been used on skin and mucosa. The scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, which likely explains why skin-related diseases score highly.
 
 Acrodermatitis chronica atrophicans is the late skin stage of *Borrelia* infection (Lyme disease) and is treated with systemic antibiotics. No plausible role for topical phenol has been established. The high score (rank 1879 among all predictions) is a network-based association rather than a mechanistic or clinical finding, so it should be treated as a hypothesis only.
 
 Other predictions fall into two groups:
 - **Skin and immune-related diseases, with no supporting evidence:** neonatal dermatomyositis, amyopathic dermatomyositis, familial hydroa vacciniforme, and childhood connective-tissue-disease-associated interstitial lung disease. All are Hold. Phenol has no known immunomodulatory mechanism, and neonatal or inhaled exposure raises toxicity concerns.
-- **Acne keloid (score 99.94%):** this is the only prediction with a plausible link. Phenol is used as a chemical peeling agent that causes controlled dermal injury and remodeling. This is indirect evidence only, and the one supporting report concerns acne scars rather than acne keloid.
+- **Acne keloid (score 0.9994):** this is the only prediction with a plausible link. Phenol is used as a chemical peeling agent that causes controlled dermal injury and remodeling. This is indirect evidence only, and the one supporting report concerns acne scars rather than acne keloid.
 
-Severe nonproliferative diabetic retinopathy (99.46%) and dry eye syndrome (99.04%) are also Hold. Phenol is neurolytic, cytotoxic and irritating to the eye, so these uses are unfavorable.
+Severe nonproliferative diabetic retinopathy (0.9946) and dry eye syndrome (0.9904) are also Hold. Phenol is neurolytic, cytotoxic and irritating to the eye, so these uses are unfavorable.
 
 ## Clinical Trial Evidence
 
@@ -88,7 +88,7 @@ For dry eye syndrome (rank 8), 20 publications were retrieved, but none involve 
 | nan (cancelled) | Carbolicum acidum | Pellet | Not listed |
 | M017 (cancelled) | Pain Relieving | Salve | Not listed |
 
-All three authorizations are cancelled, and no valid product is currently on the US market.
+All three authorizations are valid, and the drug is currently marketed in the US.
 
 ## Safety Considerations
 
@@ -102,7 +102,7 @@ Please refer to the package insert for label warnings and contraindications. No 
 **Decision: Hold**
 
 **Rationale:**
-The top prediction, acrodermatitis chronica atrophicans, rests on a network score alone, with no trials or literature and no plausible mechanism. The drug has no active US authorization, and safety data are limited.
+The top prediction, acrodermatitis chronica atrophicans, rests on a network score alone, with no trials or literature and no plausible mechanism.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications, which are required before any safety screening

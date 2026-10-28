@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "ESTRADIOL VALERATE"
 predicted_indications: ["symptomatic form of fragile X syndrome in female carrier", "blepharophimosis-epicanthus inversus-ptosis", "partial trisomy/tetrasomy of the short arm of chromosome 5", "partial trisomy/tetrasomy of the short arm of chromosome 12", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "partial trisomy/tetrasomy of the short arm of chromosome 18", "anovulation", "ovarian remnant syndrome", "luteoma of pregnancy", "ovarian dysfunction"]
 last_modified_at: 2026-10-14
-description: "Estradiol Valerate: predicted new indication Symptomatic form of fragile X syndrome in female carrier (evidence level L5). Approved use: Primary ovarian failure"
+description: "Estradiol Valerate: predicted new indication Symptomatic form of fragile X syndrome in female carrier (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Estradiol Valerate
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Estradiol Valerate: From Primary Ovarian Failure to Fragile X Carrier Symptoms
+## Estradiol Valerate: Symptomatic form of fragile X syndrome in female carrier
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ but **no clinical trials and no publications** currently support this specific p
 
 | Item | Content |
 |------|------|
-| Original Indication | Primary ovarian failure (from the knowledge graph; no approved-indication text is available in the US license records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Symptomatic form of fragile X syndrome in female carrier |
-| TxGNN Prediction Score | 99.94% |
+| TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all 4 licenses cancelled) |
-| Number of NDAs | 4 (1 NDA and 3 ANDAs, all cancelled) |
+| US Market Status | Marketed (valid licenses: 4 of 4) |
+| Number of NDAs | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -97,10 +97,10 @@ Most of the remaining retrieved publications are rodent PCOS-model studies in wh
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA009402 | Delestrogen (Par Health USA, LLC) | Injection | Not available (cancelled) |
-| ANDA203723 | Estradiol Valerate (Hikma Pharmaceuticals USA Inc.) | Injection | Not available (cancelled) |
-| ANDA216656 | Estradiol valerate (Xiromed, LLC) | Injection | Not available (cancelled) |
-| ANDA090920 | Estradiol Valerate (American Regent, Inc.) | Injection, solution | Not available (cancelled) |
+| NDA009402 | Delestrogen (Par Health USA, LLC) | Injection | Not available (valid) |
+| ANDA203723 | Estradiol Valerate (Hikma Pharmaceuticals USA Inc.) | Injection | Not available (valid) |
+| ANDA216656 | Estradiol valerate (Xiromed, LLC) | Injection | Not available (valid) |
+| ANDA090920 | Estradiol Valerate (American Regent, Inc.) | Injection, solution | Not available (valid) |
 
 ## Safety Considerations
 
@@ -119,13 +119,12 @@ These should be checked against the official label. No drug interaction records 
 **Decision: Hold**
 
 **Rationale:**
-The fragile X carrier prediction has a high model score (99.94%) but no clinical trials or literature. Evidence level is L5. Any benefit would be limited to estrogen replacement for the ovarian insufficiency component and would not address the underlying FMR1 disorder. All four US licenses are cancelled, and the safety label data are missing.
+The fragile X carrier prediction has a high model score (0.9994) but no clinical trials or literature. Evidence level is L5. Any benefit would be limited to estrogen replacement for the ovarian insufficiency component and would not address the underlying FMR1 disorder. All four US licenses are valid, and the safety label data are missing.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (blocking gap), obtained from the FDA label
 - Mechanism of action data from DrugBank
 - Clinical or observational evidence of estrogen replacement in FXPOI (fragile X-associated primary ovarian insufficiency), to clarify whether the prediction adds anything beyond the existing ovarian failure indication
-- Confirmation of route and formulation compatibility, since the injectable products are no longer marketed in the US
 - A decision on whether to pursue the better-supported but still weak rank-7 (anovulation) and rank-10 (ovarian dysfunction) predictions as separate research questions. The trial and animal-model literature there does not show that estradiol valerate treats these conditions.
 ## Disclaimer
 

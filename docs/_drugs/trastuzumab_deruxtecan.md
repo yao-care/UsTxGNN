@@ -48,17 +48,17 @@ The prediction rests on a model score alone and should be treated as a low-confi
 |------|------|
 | Original Indication | Not specified in the data compiled for this report |
 | Predicted New Indication | Drug-induced osteoporosis |
-| TxGNN Prediction Score | 99.31% |
+| TxGNN Prediction Score | 0.9931 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (the single BLA is recorded as cancelled) |
-| Number of NDAs | 1 (BLA761139) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, trastuzumab deruxtecan is a HER2-directed antibody-drug conjugate whose payload, deruxtecan, is a topoisomerase I inhibitor. It is a cytotoxic oncology agent.
 
-Its high TxGNN score (0.993) is the only support for this prediction, and no plausible mechanistic path to bone metabolism or to treating drug-induced osteoporosis is evident. The prediction may reflect knowledge-graph artifacts, such as shared links with other oncology drugs or with cancer treatments that cause osteoporosis, rather than a true therapeutic signal.
+Its high TxGNN score (0.9931) is the only support for this prediction, and no plausible mechanistic path to bone metabolism or to treating drug-induced osteoporosis is evident. The prediction may reflect TxGNN model (deep learning) artifacts, such as shared links with other oncology drugs or with cancer treatments that cause osteoporosis, rather than a true therapeutic signal.
 
 A cytotoxic ADC is also an unlikely candidate for a chronic bone-protective indication. Its known toxicity profile (interstitial lung disease, myelosuppression, cardiac dysfunction) raises serious safety concerns for this use. The relationship between the original oncology use and the predicted indication therefore remains unvalidated.
 
@@ -74,7 +74,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA761139 | Enhertu (Daiichi Sankyo Inc.) | Lyophilized powder for injection solution | Not listed (status: cancelled) |
+| BLA761139 | Enhertu (Daiichi Sankyo Inc.) | Lyophilized powder for injection solution | Not listed (status: valid) |
 
 ## Cytotoxicity
 

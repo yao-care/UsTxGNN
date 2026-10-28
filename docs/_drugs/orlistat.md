@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "ORLISTAT"
 predicted_indications: ["hypervitaminosis"]
 last_modified_at: 2026-10-14
-description: "Orlistat: predicted new indication Hypervitaminosis (evidence level L5). Approved use: Obesity disorder"
+description: "Orlistat: predicted new indication Hypervitaminosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Orlistat
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-## Orlistat: From Obesity to Hypervitaminosis
+## Orlistat: Hypervitaminosis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 | Item | Content |
 |------|------|
-| Original Indication | Obesity disorder; monogenic obesity |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Hypervitaminosis |
-| TxGNN Prediction Score | 99.42% |
+| TxGNN Prediction Score | 0.9942 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid authorizations) |
-| Number of NDAs | 2 |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -64,7 +64,7 @@ There are important limits to this reasoning:
 - Lowering vitamin absorption is generally regarded as an **adverse effect** of orlistat (risk of vitamin deficiency), not a therapeutic benefit.
 - It would not apply to excess of water-soluble vitamins.
 - It would not address excess from non-dietary sources, such as injected or supplemental vitamins.
-- The very high TxGNN score (99.42%) is a computational prediction only and is not backed by clinical or literature evidence.
+- The very high TxGNN score (0.9942) is a computational prediction only and is not backed by clinical or literature evidence.
 
 ## Clinical Trial Evidence
 
@@ -78,8 +78,8 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA020766 | ORLISTAT (H2-Pharma LLC) | Capsule | Not listed; status: cancelled |
-| NDA021887 | ALLI (Aphena Pharma Solutions - Tennessee, LLC) | Capsule | Not listed; status: cancelled |
+| NDA020766 | ORLISTAT (H2-Pharma LLC) | Capsule | Not listed; status: valid |
+| NDA021887 | ALLI (Aphena Pharma Solutions - Tennessee, LLC) | Capsule | Not listed; status: valid |
 
 ## Safety Considerations
 
@@ -103,7 +103,6 @@ The prediction rests only on a model score, with no clinical trials or literatur
 - Detailed mechanism of action data
 - FDA package insert warnings and contraindications
 - Assessment of whether lowering vitamin absorption can be done safely, given the contraindication for vitamin deficiency disorder
-- Clarification of the regulatory pathway, since no US authorizations are currently valid
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

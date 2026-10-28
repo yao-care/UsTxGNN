@@ -4,17 +4,17 @@ title: Canakinumab
 parent: Model Prediction Only (L5)
 nav_order: 489
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-14
-description: "Canakinumab: predicted new indication Hepatic infarction (evidence level L5). Approved use: Not stated in the regulatory data. The knowledge graph lists gout…"
+indication_count: 9
 monitor_inn: "CANAKINUMAB"
 predicted_indications: ["hepatic infarction", "hepatic veno-occlusive disease", "peliosis hepatis", "syndrome with combined immunodeficiency", "periodic fever-infantile enterocolitis-autoinflammatory syndrome", "extracutaneous mastocytoma", "Blau syndrome", "monosomy X", "liver angiosarcoma"]
+last_modified_at: 2026-10-27
+description: "Canakinumab: predicted new indication hepatic infarction (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Canakinumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,114 +33,71 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Canakinumab: From Periodic Fever Syndromes to Hepatic Infarction
+## Canakinumab: IL-1β–blocking monoclonal antibody → hepatic infarction
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Canakinumab is an anti-interleukin-1β (IL-1β) monoclonal antibody, originally used for autoinflammatory conditions such as cryopyrin-associated periodic syndrome, systemic juvenile idiopathic arthritis and gout.
-The TxGNN model's top-ranked prediction is **hepatic infarction**, but this rests on model prediction alone, with **0 clinical trials** and **0 publications** supporting it.
-The best-supported candidate among the top 10 predictions is **autosomal dominant familial Mediterranean fever** (3 Phase 3 trials and many publications), but this overlaps with an existing original indication and is not true repurposing.
-
----
+Canakinumab is an anti-interleukin-1β monoclonal antibody used in autoinflammatory conditions. The TxGNN model predicts it may be relevant for **hepatic infarction**, but **no clinical trials and no publications** in the data compiled for this report address this disease, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the regulatory data. The knowledge graph lists gout, cryopyrin-associated periodic syndrome, systemic-onset juvenile idiopathic arthritis, juvenile idiopathic arthritis, mevalonate kinase deficiency, familial Mediterranean fever and related periodic fevers |
-| Predicted New Indication | Hepatic infarction (rank 1) |
-| TxGNN Prediction Score | 99.86% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | Cancelled only |
-| Number of NDAs | 2 (both cancelled) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | hepatic infarction |
+| TxGNN Prediction Score | 0.9986 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known information, canakinumab is a monoclonal antibody that selectively neutralizes IL-1β. Its efficacy in IL-1-driven autoinflammatory diseases is established.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Canakinumab is known as an antibody that neutralizes interleukin-1β (IL-1β), a key driver of inflammation in several autoinflammatory disorders.
 
-For hepatic infarction, the link is speculative. IL-1β blockade could plausibly reduce sterile inflammation after ischemic injury, but the data compiled for this report contains no trial, publication or mechanistic evidence directly connecting canakinumab to hepatic infarction. The same holds for the other top-ranked liver-related predictions (hepatic veno-occlusive disease, peliosis hepatis, liver angiosarcoma).
-
-The most biologically coherent candidate is **familial Mediterranean fever, autosomal dominant** (rank 6, score 99.41%). The disease involves pyrin inflammasome dysregulation and excess IL-1β, which canakinumab directly targets. However, familial Mediterranean fever and autosomal dominant periodic fever are already among canakinumab's listed original indications, so this prediction largely confirms existing use.
-
-Other predictions with some supporting literature:
-- **Blau syndrome** (rank 8, L3): NOD2 gain-of-function granulomatous autoinflammation with IL-1β involvement, supported by case-level reports.
-- **Syndrome with combined immunodeficiency** (rank 4, L4): only one infant case report in cryopyrin-associated periodic syndrome, an indirect link.
-- **Monosomy X** (rank 9): the retrieved publications appear to be spurious matches.
-
----
+Ischemic injury, such as an infarct, can trigger sterile inflammation in which IL-1 signaling plausibly plays a role, so IL-1β blockade could in theory dampen that response. This is a hypothesis only. Nothing in the compiled data directly links canakinumab to hepatic infarction, and no study of this disease was found. The prediction should be treated as a hypothesis-generating signal, not as evidence of benefit.
 
 ## Clinical Trial Evidence
 
-No clinical trials are registered for the top-ranked prediction (hepatic infarction). The table below shows trials for the best-supported candidate, familial Mediterranean fever, autosomal dominant (rank 6). Note that these trials enrolled cryopyrin-associated periodic syndrome (CAPS) patients, not FMF patients specifically.
-
-| Trial Number | Phase | Status | Enrollment | Key Findings |
-|---------|------|------|------|---------|
-| [NCT00991146](https://clinicaltrials.gov/study/NCT00991146) | Phase 3 | Completed | 19 | Open-label efficacy and safety study of canakinumab for 24 weeks in Japanese CAPS patients (FCAS, MWS, NOMID), with an extension phase |
-| [NCT01576367](https://clinicaltrials.gov/study/NCT01576367) | Phase 3 | Completed | 17 | Open-label extension study of long-term efficacy, safety and tolerability, plus childhood vaccination response, in CAPS |
-| [NCT00685373](https://clinicaltrials.gov/study/NCT00685373) | Phase 3 | Completed | 166 | Long-term open-label safety and efficacy study of canakinumab in CAPS; larger sample but not FMF-specific |
-
----
+Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Literature for the best-supported candidate, familial Mediterranean fever, autosomal dominant (rank 6), is shown below (selected). No literature was found for hepatic infarction.
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [37769252](https://pubmed.ncbi.nlm.nih.gov/37769252/) | 2024 | Systematic review / meta-analysis | Rheumatology (Oxford) | Efficacy and safety of anti-IL-1 treatment in colchicine-resistant or -intolerant FMF |
-| [35874710](https://pubmed.ncbi.nlm.nih.gov/35874710/) | 2022 | Systematic review | Front Immunol | Safety and efficacy of IL-1-targeted biologics (including canakinumab) in immune-mediated disorders |
-| [29768139](https://pubmed.ncbi.nlm.nih.gov/29768139/) | 2018 | Review | N Engl J Med | Canakinumab for recurrent fever syndromes including FMF, mevalonate kinase deficiency and TRAPS |
-| [36961326](https://pubmed.ncbi.nlm.nih.gov/36961326/) | 2023 | Cohort | Rheumatology (Oxford) | Feasibility of canakinumab withdrawal in paediatric colchicine-resistant FMF |
-| [34550430](https://pubmed.ncbi.nlm.nih.gov/34550430/) | 2022 | Real-life study | Rheumatol Int | Canakinumab effective in FMF resistant or intolerant to colchicine and/or anakinra |
-| [42444147](https://pubmed.ncbi.nlm.nih.gov/42444147/) | 2026 | Real-world cohort | Rheumatology (Oxford) | AIDA Network data on effectiveness and probability of full disease control with canakinumab in FMF |
-| [28362189](https://pubmed.ncbi.nlm.nih.gov/28362189/) | 2017 | Review | Expert Rev Clin Immunol | Canakinumab in FMF: pyrin mutation, IL-1β regulation, use in colchicine-resistant patients |
-| [36062765](https://pubmed.ncbi.nlm.nih.gov/36062765/) | 2022 | Review | Clin Exp Rheumatol | IL-1 inhibition in FMF: clinical outcomes and expectations |
-
-For Blau syndrome (rank 8), key items include a case report of clinical and transcriptional response to canakinumab in Blau-related uveitis ([23124805](https://pubmed.ncbi.nlm.nih.gov/23124805/), 2013) and a systematic review and meta-analysis of uveitis treatment ([40147219](https://pubmed.ncbi.nlm.nih.gov/40147219/), 2025).
-
----
+Currently no related literature available.
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA125319 | Ilaris (Novartis) | Injection, solution | Not stated in the data (status: cancelled) |
-| Not available | GUNA-ANTI IL 1 (Guna spa) | Solution / drops | Not stated in the data (status: cancelled) |
+| BLA125319 | Ilaris | Injection, solution | Not recorded in the local data |
+| Not recorded | GUNA-ANTI IL 1 | Solution/drops | Not recorded in the local data |
 
-Both authorizations are listed as cancelled; no currently valid license appears in the data compiled for this report.
-
----
+The local records list two licences. Both are single-ingredient products.
 
 ## Safety Considerations
 
-**Drug Interactions** (100 interactions recorded; main ones shown):
-- **Corticosteroids (Moderate):** hydrocortisone, triamcinolone, dexamethasone, betamethasone, budesonide, prednisolone, prednisone
-- **Statin (Moderate):** simvastatin
-- **Anticoagulants (Moderate):** apixaban, rivaroxaban, warfarin, dicoumarol
-- **Radiopharmaceuticals / radioimmunotherapies (Moderate):** ibritumomab tiuxetan, iobenguane (I-131), tositumomab
-- **Zinc salts (Minor):** zinc acetate, gluconate, sulfate
+**Drug Interactions** (100 interactions recorded; main examples shown):
+- **Corticosteroids** (moderate): hydrocortisone, triamcinolone, dexamethasone, betamethasone, budesonide, prednisolone, prednisone
+- **Simvastatin** (moderate)
+- **Anticoagulants** (moderate): warfarin, apixaban, rivaroxaban, dicoumarol
+- **Radiopharmaceutical or radioimmunotherapy agents** (moderate): ibritumomab tiuxetan, iobenguane (I-131), tositumomab and tositumomab (I-131)
+- **Zinc salts** (minor): zinc acetate, zinc gluconate, zinc sulfate
 
-For warnings and contraindications, please refer to the package insert.
-
----
+Label warnings and contraindications are not available in the compiled data. Please refer to the package insert for safety information.
 
 ## Conclusion and Next Steps
 
-**Decision: Hold** (for the top-ranked prediction, hepatic infarction)
+**Decision: Hold**
 
 **Rationale:**
-Hepatic infarction and the other liver-related predictions have only model-based support (L5), with no trials, no literature and no established mechanistic link. The only prediction with strong evidence, familial Mediterranean fever (autosomal dominant), is essentially an existing indication, where a "Proceed with Guardrails" approach would apply (restrict to colchicine-resistant or intolerant patients and monitor for infections). Blau syndrome (L3) is a reasonable research question based on case-level evidence.
+The prediction score is high (0.9986), but there are no trials or publications on hepatic infarction and no direct mechanistic support. The evidence level is L5.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking data gap for safety screening)
-- Mechanism-of-action data for canakinumab
-- Preclinical or mechanistic evidence linking IL-1β blockade to hepatic ischemic injury, if hepatic infarction is to be pursued
-- Clarification of current US availability, since both licenses are cancelled
-- For Blau syndrome, prospective or controlled data beyond case reports
+- Preclinical or mechanistic studies of IL-1β in ischemic liver injury
+- Detailed mechanism-of-action data
+- FDA package insert warnings and contraindications
+- A route and dosing feasibility assessment for this indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

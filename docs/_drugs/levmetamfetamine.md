@@ -4,17 +4,17 @@ title: Levmetamfetamine
 parent: Model Prediction Only (L5)
 nav_order: 851
 evidence_level: L5
-indication_count: 2
+indication_count: 1
 last_modified_at: 2026-10-14
-description: "Levmetamfetamine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Pharyngitis"
 monitor_inn: "LEVMETAMFETAMINE"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis"]
+predicted_indications: ["nasal cavity disease"]
+description: "Levmetamfetamine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Levmetamfetamine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **2** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-## Levmetamfetamine: From Pharyngitis to Nasal Cavity Disease
+## Levmetamfetamine: Nasal cavity disease
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ At present, there are **0 clinical trials** and **0 publications** supporting ei
 
 | Item | Content |
 |------|------|
-| Original Indication | Pharyngitis (from the knowledge graph; no approved indication text is available in the US license record) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Nasal cavity disease |
-| TxGNN Prediction Score | 99.88% |
+| TxGNN Prediction Score | 0.9988 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 (cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,6 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 This offers a plausible link between the original indication (pharyngitis, an upper respiratory tract mucosal condition) and nasal cavity conditions such as congestion. Both involve the same mucosal tract and overlapping congestive symptoms. This reasoning has not been verified by the data compiled for this report, and the prediction remains a model output only.
 
-A second prediction, **acute laryngopharyngitis** (score 99.85%), follows similar logic. It is anatomically and clinically close to pharyngitis. Any benefit from decongestion would likely be limited to symptoms and would not address an infectious or inflammatory cause.
 
 ## Clinical Trial Evidence
 

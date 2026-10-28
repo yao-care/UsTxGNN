@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "AZTREONAM"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "Ureaplasma urethritis", "gonococcal urethritis", "blood group incompatibility", "premalignant hematological system disease", "epiglottitis", "monoclonal gammopathy", "xanthogranulomatous pyelonephritis"]
 last_modified_at: 2026-10-14
-description: "Aztreonam: predicted new indication Gonococcal urethritis (evidence level L5). Approved use: Urinary tract infection, Pseudomonas aeruginosa infection…"
+description: "Aztreonam: predicted new indication Polyclonal hyperviscosity syndrome (evidence level L5). Approved use: Urinary tract infection, Pseudomonas aeruginosa infection…"
 ---
 
 # Aztreonam
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Aztreonam: From Gram-Negative Bacterial Infections to Gonococcal Urethritis
+## Aztreonam: From Gram-Negative Bacterial Infections to Polyclonal Hyperviscosity Syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -50,10 +50,10 @@ The top-scoring predictions (such as polyclonal hyperviscosity syndrome) have no
 |------|------|
 | Original Indication | Urinary tract infection, Pseudomonas aeruginosa infection, peritonitis, Escherichia coli infection (the data compiled for this report contains no approved-indication label text) |
 | Predicted New Indication | Gonococcal urethritis (best-supported of the top 10 predictions; the rank-1 prediction is polyclonal hyperviscosity syndrome, which has no supporting evidence) |
-| TxGNN Prediction Score | 99.59% (gonococcal urethritis); rank-1 prediction scored 99.73% |
-| Evidence Level | L3 (gonococcal urethritis: single-arm and uncontrolled clinical studies, no RCTs); L5 for the rank-1 prediction |
-| US Market Status | Cancelled only (all licenses cancelled) |
-| Number of NDAs | 3 (1 NDA, 2 ANDAs, all cancelled) |
+| TxGNN Prediction Score | 0.9959 (gonococcal urethritis); rank-1 prediction scored 0.9973 |
+| Evidence Level | L5 (gonococcal urethritis: single-arm and uncontrolled clinical studies, no RCTs); L5 for the rank-1 prediction |
+| US Market Status | Marketed (valid licenses: 3 of 3) |
+| Number of NDAs | 3 (valid: 3) |
 | Recommended Decision | Hold (gonococcal urethritis may be pursued as a research question) |
 
 ---
@@ -67,7 +67,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 Important caveats apply. The evidence is mostly historical (1980s), there is no randomized evidence, and aztreonam-high-resistant gonococci have been reported. Current guidelines favor other agents, so any renewed interest would be as a niche option for resistant strains or beta-lactam-allergic patients.
 
 Most of the other top-10 predictions are not supported:
-- **Polyclonal hyperviscosity syndrome, hyperamylasemia, congenital analbuminemia, blood group incompatibility, premalignant hematological system disease, monoclonal gammopathy:** non-infectious conditions with no antibacterial target. The high scores appear to be graph-based artifacts.
+- **Polyclonal hyperviscosity syndrome, hyperamylasemia, congenital analbuminemia, blood group incompatibility, premalignant hematological system disease, monoclonal gammopathy:** non-infectious conditions with no antibacterial target. The high scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 - **Ureaplasma urethritis:** *Ureaplasma* has no cell wall, so aztreonam is intrinsically ineffective.
 - **Epiglottitis:** biologically plausible (*H. influenzae* type b), but the only evidence is indirect, and first-line agents are well established.
 - **Xanthogranulomatous pyelonephritis:** plausible as an extension of the UTI indication, but management is mainly surgical and no specific evidence exists.
@@ -111,7 +111,7 @@ Indirect evidence for other predictions:
 | ANDA206517 (cancelled) | Aztreonam (Hospira, Inc.) | Injection, powder, lyophilized, for solution | Not available |
 | ANDA065439 (cancelled) | Aztreonam (Fresenius Kabi USA, LLC) | Injection, powder, lyophilized, for solution | Not available |
 
-All three US authorizations are cancelled, and only injectable forms are listed.
+All three US authorizations are valid, and only injectable forms are listed.
 
 ---
 
@@ -129,7 +129,7 @@ Please refer to the package insert for key warnings and formal contraindications
 **Decision: Hold**
 
 **Rationale:**
-The highest-scoring predictions have no mechanistic or clinical support and appear to be model artifacts. Gonococcal urethritis is the only plausible candidate (L3, with historical studies and a 2020 single-arm trial). It lacks randomized evidence, resistance has been reported, current guidelines favor other agents, and all US licenses are cancelled, so it is best treated as a research question rather than a development candidate.
+The highest-scoring predictions have no mechanistic or clinical support and appear to be model artifacts. Gonococcal urethritis is the only plausible candidate (L3, with historical studies and a 2020 single-arm trial). It lacks randomized evidence, resistance has been reported, and current guidelines favor other agents, so it is best treated as a research question rather than a development candidate.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (currently a blocking gap for safety screening)
@@ -137,7 +137,7 @@ The highest-scoring predictions have no mechanistic or clinical support and appe
 - Randomized, controlled evidence for aztreonam in gonorrhea, including pharyngeal and rectal sites
 - Current resistance surveillance data for *N. gonorrhoeae*
 - Positioning against current guideline regimens (resistant strains, beta-lactam allergy)
-- Assessment of route compatibility and the commercial pathway, since only injectable forms exist and all licenses are cancelled
+- Assessment of route compatibility and the commercial pathway, since only injectable forms exist
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -4,17 +4,17 @@ title: Celecoxib
 parent: Model Prediction Only (L5)
 nav_order: 510
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-14
-description: "Celecoxib: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). Approved use: Rheumatoid arthritis, ankylosing spondylitis, osteoarthritis…"
+indication_count: 7
 monitor_inn: "CELECOXIB"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "hypermobility of coccyx", "brachyolmia", "rheumatoid nodulosis", "inflammatory spondylopathy", "WHIM syndrome"]
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "hypermobility of coccyx", "brachyolmia", "rheumatoid nodulosis", "WHIM syndrome"]
+last_modified_at: 2026-10-27
+description: "Celecoxib: predicted new indication acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Celecoxib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,91 +33,71 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Celecoxib: From Arthritis (Rheumatoid Arthritis, Ankylosing Spondylitis, Osteoarthritis) to Acromesomelic Dysplasia, Hunter-Thompson Type
+## Celecoxib: COX-2 selective NSAID → acromesomelic dysplasia, Hunter-Thompson type
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Celecoxib is a COX-2 inhibitor originally used to treat inflammatory and degenerative joint diseases such as rheumatoid arthritis, ankylosing spondylitis, osteoarthritis and juvenile idiopathic arthritis.
-The TxGNN model predicts it may be effective for **acromesomelic dysplasia, Hunter-Thompson type**, a rare genetic skeletal disorder, but **no clinical trials and no publications** currently support this prediction.
-
----
+Celecoxib is an oral COX-2 inhibitor of the NSAID class, with locally recorded licences in the United States. The TxGNN model predicts it may be relevant to **acromesomelic dysplasia, Hunter-Thompson type**, but **no clinical trials and no publications** were found to support this direction, so the prediction is computational only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Rheumatoid arthritis, ankylosing spondylitis, osteoarthritis, juvenile idiopathic arthritis (taken from the knowledge-graph indication list, because the US license records contain no indication text) |
-| Predicted New Indication | Acromesomelic dysplasia, Hunter-Thompson type |
-| TxGNN Prediction Score | 99.88% |
-| Evidence Level | L5 (model prediction only) |
-| US Market Status | Cancelled only (no currently valid authorizations) |
-| Number of NDAs | 12 US authorizations (1 NDA and 11 ANDAs, all cancelled) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | acromesomelic dysplasia, Hunter-Thompson type |
+| TxGNN Prediction Score | 0.9988 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 12) |
+| Number of NDAs | at least 12 |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available in the compiled data. Celecoxib is generally known as a selective COX-2 inhibitor that reduces prostaglandin-driven inflammation and pain. Its efficacy in arthritis is well established.
+Detailed mechanism-of-action data are not available in the data compiled for this report. Celecoxib is known as a selective COX-2 inhibitor, which reduces prostaglandin-mediated inflammation and pain.
 
-For this prediction, however, the mechanistic link is weak. Acromesomelic dysplasia, Hunter-Thompson type, is a rare skeletal dysplasia caused by loss-of-function mutations in the *CDMP1/GDF5* gene. This is a developmental defect, not an inflammatory process, and COX-2 inhibition does not address it.
-
-The very high TxGNN score most likely reflects the disease's closeness to musculoskeletal disease nodes in the knowledge graph, not a biological rationale. At best, celecoxib might offer symptomatic pain relief, and no evidence for that was found.
-
----
+Acromesomelic dysplasia, Hunter-Thompson type is a rare skeletal dysplasia caused by loss-of-function mutations in CDMP1/GDF5. COX-2 inhibition does not address this underlying genetic defect, so no credible mechanistic link can be drawn. The high score appears to reflect proximity to musculoskeletal disease nodes in the model rather than a biological rationale. At most, celecoxib might offer symptomatic pain relief, which would not be disease-modifying and is unsupported by any evidence here.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
 Currently no related literature available.
 
----
-
 ## US Market Information
 
-All listed authorizations are cancelled. The compiled data contains no approved indication text for any of them.
+Twelve US licence records were compiled, and the list may be partial. The licences are for oral capsules. The local records carry no approved-indication text, and every record is listed as "single-ingredient" type. Examples include:
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
-| NDA020998 | CELEBREX (Viatris Specialty LLC) | Capsule | Not listed |
-| ANDA205129 | Celecoxib (Radha Pharmaceuticals) | Capsule | Not listed |
-| ANDA204776 | Celecoxib (Northwind Health Company) | Capsule | Not listed |
-| ANDA204519 | Celecoxib (Alembic Pharmaceuticals) | Capsule | Not listed |
-| ANDA207446 | Celecoxib (Cipla USA) | Capsule | Not listed |
-
-Only these 5 of the 12 authorizations are shown. The only dosage form is an oral capsule.
-
----
+| NDA020998 | CELEBREX | Capsule | Viatris Specialty LLC |
+| ANDA205129 | Celecoxib | Capsule | Radha Pharmaceuticals, Inc. |
+| ANDA204776 | CELECOXIB | Capsule | Northwind Health Company, LLC |
+| ANDA204519 | Celecoxib | Capsule | Alembic Pharmaceuticals Inc. |
+| ANDA207446 | CELECOXIB | Capsule | Cipla USA Inc. |
 
 ## Safety Considerations
 
-- **Contraindication signals from the knowledge graph (not label text)**: hypertension, kidney disease, liver disease, gallbladder disease, congestive heart failure, peptic ulcer disease (including active), asthma, stroke and cerebrovascular disorders, myocardial infarction and coronary thrombosis, cardiovascular and heart disease, anemia and hemoglobinopathy, and substance abuse/dependence.
-- **Drug Interactions**: 100 interactions were identified. The one **Major** interaction shown is with **eliglustat**. Examples of Moderate interactions are hydrocortisone, metformin, sulfonylureas (glimepiride, glipizide, glyburide, chlorpropamide, acetohexamide), nateglinide, exenatide, mesalazine, balsalazide, olsalazine, cimetidine, levofloxacin, metronidazole, kanamycin and naltrexone.
+**Drug Interactions**: The interaction query returned 100 records. Examples include:
+- **Major**: Eliglustat
+- **Moderate**: hydrocortisone, metformin, several sulfonylureas (acetohexamide, chlorpropamide, glimepiride, glipizide, glyburide), nateglinide, exenatide, cimetidine, levofloxacin, metronidazole, naltrexone, and the aminosalicylates balsalazide, mesalazine and olsalazine
 
-Please refer to the package insert for label warnings and contraindications.
-
----
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a computational score. There are no clinical trials or literature, and no credible biological link between COX-2 inhibition and the genetic cause of this disease. The cardiovascular, gastrointestinal and renal risk signals and the cancelled US market status add further practical barriers.
+The prediction rests on a model score alone. No trials or publications address this disease, and there is no plausible link between COX-2 inhibition and the GDF5-related genetic defect.
 
 **To proceed, the following is needed:**
-- A biological rationale connecting celecoxib to GDF5/CDMP1 pathway biology or to a clinical symptom target
-- Preclinical or case-level evidence in this disease
-- Package insert warnings and contraindications, plus detailed mechanism of action data
-- Confirmation of regional product availability
-
-**Note on other predictions in the same set:** Among the other predicted indications, **inflammatory spondylopathy** (rank 9; TxGNN score 99.80%) has by far the strongest support: Phase 3 and Phase 4 RCTs in ankylosing spondylitis (for example NCT00648141, n=458, and NCT02528201, n=330) and an RCT-based publication (PMID 38228361). It is rated L1 with a "Proceed with Guardrails" recommendation. However, it largely overlaps with celecoxib's existing approved uses, so it is label-consistent rather than true repurposing. Rheumatoid factor-positive polyarticular juvenile idiopathic arthritis (rank 8) is likewise an overlap with an existing use. The other predictions are computational only or have very limited evidence.
+- Any preclinical or clinical evidence that links celecoxib to this condition
+- Mechanism-of-action data for celecoxib in the context of skeletal development
+- Package insert warnings and contraindications for a safety review
+- Confirmation of the original approved indication from the licence labels
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

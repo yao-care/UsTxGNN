@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # 1 4-Naphthoquinone Aconitic Acid - Anhydrous Citri
@@ -51,8 +52,8 @@ Without an original indication or a model prediction target, a standard drug rep
 | Predicted New Indication | None (TxGNN returned no predictions) |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — Model prediction only (and none returned) |
-| US Market Status | Not marketed |
-| Number of NDAs | 0 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | **Hold** |
 
 ---

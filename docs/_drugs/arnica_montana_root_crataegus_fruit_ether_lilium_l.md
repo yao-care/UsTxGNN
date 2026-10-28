@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Arnica Montana Root Crataegus Fruit Ether Lilium L
@@ -51,7 +52,7 @@ Without a prediction, original indication data, or safety profile, no repurposin
 | Predicted New Indication | None — TxGNN returned no predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | N/A (below L5 — no prediction generated) |
-| Market Status | Not marketed |
+| Market Status | Marketed (valid licenses on record: at least 1) |
 | Number of Authorizations | 0 |
 | Recommended Decision | **Hold** |
 

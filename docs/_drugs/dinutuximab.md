@@ -4,17 +4,17 @@ title: Dinutuximab
 parent: Model Prediction Only (L5)
 nav_order: 611
 evidence_level: L5
-indication_count: 4
+indication_count: 3
 last_modified_at: 2026-10-14
 description: "Dinutuximab: predicted new indication Vertebral anomalies and variable endocrine and T-cell dysfunction (evidence level L5). Approved use: Neuroblastoma"
 monitor_inn: "DINUTUXIMAB"
-predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "chronic myelogenous leukemia, BCR-ABL1 positive"]
+predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "chronic myelogenous leukemia, BCR-ABL1 positive"]
 ---
 
 # Dinutuximab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **4** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,25 +48,24 @@ The more biologically plausible candidate is the second-ranked **ganglioneurobla
 |------|------|
 | Original Indication | Neuroblastoma |
 | Predicted New Indication | Vertebral anomalies and variable endocrine and T-cell dysfunction |
-| TxGNN Prediction Score | 99.42% |
+| TxGNN Prediction Score | 0.9942 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (the single BLA is cancelled) |
-| Number of NDAs | 1 (BLA125516) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 For comparison, the other predictions are:
 
 | Rank | Predicted Indication | TxGNN Score | Evidence Level | Recommendation |
 |------|------|------|------|------|
-| 2 | Ganglioneuroblastoma | 99.39% | L4 | Research question (S1) |
-| 3 | Retroperitoneal neoplasm | 99.35% | L5 | Hold |
-| 4 | Chronic myelogenous leukemia, BCR-ABL1 positive | 99.31% | L5 | Hold |
+| 3 | Retroperitoneal neoplasm | 0.9935 | L5 | Hold |
+| 4 | Chronic myelogenous leukemia, BCR-ABL1 positive | 0.9931 | L5 | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, dinutuximab is an anti-GD2 chimeric monoclonal antibody. It targets GD2-expressing tumor cells through antibody-dependent cellular cytotoxicity (ADCC) and complement-dependent cytotoxicity (CDC). Its efficacy in neuroblastoma, a GD2-expressing tumor, is the basis of its original indication.
 
-**Top-ranked prediction (vertebral anomalies with endocrine and T-cell dysfunction):** No mechanistic link was identified. This rare syndrome is a developmental disorder, not a GD2-expressing malignancy. The high score (0.994) is a computational prediction only and should not be treated as evidence of benefit.
+**Top-ranked prediction (vertebral anomalies with endocrine and T-cell dysfunction):** No mechanistic link was identified. This rare syndrome is a developmental disorder, not a GD2-expressing malignancy. The high score (0.9942) is a computational prediction only and should not be treated as evidence of benefit.
 
 **Ganglioneuroblastoma (rank 2):** This is the most plausible candidate. It belongs to the same neuroblastic tumor spectrum as neuroblastoma, and these tumors commonly express GD2. However, the retrieved literature concerns mainly neuroblastoma rather than ganglioneuroblastoma. Differentiated ganglioneuroblastoma or ganglioneuroma components may have lower proliferative activity and different GD2 expression, so benefit in this subtype is unestablished.
 
@@ -90,7 +89,7 @@ No literature is available for the top-ranked prediction. The literature below r
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA125516 | Unituxin (United Therapeutics Corporation) | Injection | Not listed in the compiled data (status: cancelled) |
+| BLA125516 | Unituxin (United Therapeutics Corporation) | Injection | Not listed in the compiled data (status: valid) |
 
 ## Safety Considerations
 

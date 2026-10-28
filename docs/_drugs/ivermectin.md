@@ -48,9 +48,9 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Strongyloidiasis, onchocerciasis |
 | Predicted New Indication | Vulvovaginal candidiasis |
-| TxGNN Prediction Score | 99.95% |
+| TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 10) |
 | Number of NDAs | 10 authorizations in total (all cancelled) |
 | Recommended Decision | Hold |
 
@@ -58,7 +58,7 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 
 Detailed mechanism of action data is not available in the data compiled for this report. From general pharmacology, ivermectin acts on glutamate-gated chloride channels in invertebrates, which paralyses and kills parasites. This is the basis of its use against strongyloidiasis and onchocerciasis.
 
-This mechanism does not readily extend to the predicted indication. Fungi such as *Candida* lack these targets, so there is no established antifungal mechanism. The very high TxGNN score (99.95%) is a graph-based prediction only. It likely reflects network proximity to other infection-related indications rather than real pharmacological activity.
+This mechanism does not readily extend to the predicted indication. Fungi such as *Candida* lack these targets, so there is no established antifungal mechanism. The very high TxGNN score (0.9995) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 Other predictions for this drug are also dominated by candidiasis and vaginal conditions (esophageal, neonatal, congenital and invasive candidiasis, *Candida glabrata*, vulvovaginitis). They share the same weakness: no clinical trials, and no literature that actually supports an antifungal effect.
 
@@ -79,7 +79,7 @@ For the second-ranked prediction (esophageal candidiasis) and the seventh-ranked
 
 ## US Market Information
 
-All 10 authorizations are listed as cancelled. The data compiled for this report contain no approved indication text.
+The drug is marketed, with 10 valid authorizations. The data compiled for this report contain no approved indication text.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
@@ -114,7 +114,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a graph-based score. There are no clinical trials or supporting literature, and no plausible antifungal mechanism. Effective antifungals (azoles, echinocandins, amphotericin B) are already standard of care. All US authorizations are cancelled.
+The prediction rests only on a score from the TxGNN model (deep learning), which may reflect similarities the model learned between related diseases, not biological evidence. There are no clinical trials or supporting literature, and no plausible antifungal mechanism. Effective antifungals (azoles, echinocandins, amphotericin B) are already standard of care. The drug is marketed in the US, with 10 valid authorizations.
 
 **To proceed, the following is needed:**
 - Mechanism of action data, and in vitro evidence of activity against *Candida* species

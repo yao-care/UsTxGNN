@@ -48,10 +48,10 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Not stated in the available license data (the drug is known as a conditioning agent before hematopoietic stem cell transplantation) |
 | Predicted New Indication | Diabetic cataract |
-| TxGNN Prediction Score | 99.01% |
+| TxGNN Prediction Score | 0.9901 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 Diabetic cataract develops mainly through polyol pathway activation, oxidative stress, and aldose reductase-mediated lens opacification. From the data compiled for this report, no plausible mechanistic link can be established between DNA cross-linking by an alkylating agent and these lens pathways.
 
-The high score (0.990) most likely reflects network-level associations in the knowledge graph rather than a biological rationale. Without trials or literature to corroborate it, the prediction should be treated as a hypothesis only.
+The high score (0.9901) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Without trials or literature to corroborate it, the prediction should be treated as a hypothesis only.
 
 ## Clinical Trial Evidence
 

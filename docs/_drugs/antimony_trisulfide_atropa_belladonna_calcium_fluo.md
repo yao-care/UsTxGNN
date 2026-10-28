@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Antimony Trisulfide Atropa Belladonna Calcium Fluo
@@ -51,7 +52,7 @@ Without a DrugBank ID, approved regulatory status, or any mechanistic data, this
 | Predicted New Indication | None — TxGNN returned no candidates |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (model prediction only — no predictions generated) |
-| Market Status | Not marketed |
+| Market Status | Marketed (valid licenses on record: at least 6) |
 | Number of Licenses | 0 |
 | Recommended Decision | **Hold** |
 

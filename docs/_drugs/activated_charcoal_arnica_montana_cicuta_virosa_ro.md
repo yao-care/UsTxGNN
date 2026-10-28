@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Activated Charcoal Arnica Montana Cicuta Virosa Ro
@@ -51,7 +52,7 @@ There are **0 clinical trials** and **0 publications** identified to support any
 | Predicted New Indication | None |
 | TxGNN Prediction Score | Not available |
 | Evidence Level | L5 — no predictions generated; model could not map this compound |
-| US Market Status | Not Marketed |
+| US Market Status | Marketed (valid licenses on record: at least 6) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 

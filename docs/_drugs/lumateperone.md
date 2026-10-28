@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-## Lumateperone: From Schizophrenia to Retinal Dystrophy (With or Without Extraocular Anomalies)
+## Lumateperone: Retinal Dystrophy with or without Extraocular Anomalies
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,17 +48,17 @@ but **no clinical trials and no publications** currently support this prediction
 |------|------|
 | Original Indication | Schizophrenia |
 | Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Lumateperone is an atypical antipsychotic. Its known pharmacology includes serotonin 5-HT2A antagonism and dopamine D2 receptor modulation, with additional serotonin transporter inhibition and glutamatergic modulation. Its efficacy in schizophrenia is the basis of its original indication.
 
-These actions are all aimed at the central nervous system. They have no established link to the genetic causes of retinal dystrophy, which is an inherited degeneration of retinal cells. The high TxGNN score (99.97%, rank 1345) is a knowledge-graph prediction only. It does not indicate biological plausibility, so this prediction should be treated as a hypothesis, not a supported direction.
+These actions are all aimed at the central nervous system. They have no established link to the genetic causes of retinal dystrophy, which is an inherited degeneration of retinal cells. The high TxGNN score (0.9997, rank 1345) is a TxGNN model (deep learning) prediction only. It does not indicate biological plausibility, so this prediction should be treated as a hypothesis, not a supported direction.
 
 The other predicted indications show the same pattern. These include polymicrogyria, hydranencephaly, Charcot-Marie-Tooth type 1G, X-linked and syndromic myopia, a congenital disorder of glycosylation, and atypical glycine encephalopathy. All have no trials or literature and are at evidence level L5. Retinal-dopamine involvement in eye growth (myopia) and glycine's role as an NMDA co-agonist are only weak, indirect connections.
 
@@ -74,7 +74,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA209500 | CAPLYTA (Intra-Cellular Therapies, Inc) | Capsule (oral) | Not listed in the data compiled; status: cancelled |
+| NDA209500 | CAPLYTA (Intra-Cellular Therapies, Inc) | Capsule (oral) | Not listed in the data compiled; status: valid |
 
 ## Safety Considerations
 

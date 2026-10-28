@@ -8,7 +8,7 @@ indication_count: 3
 monitor_inn: "PROBENECID"
 predicted_indications: ["hypouricemia, renal", "Lesch-Nyhan syndrome", "hypoxanthine guanine phosphoribosyltransferase partial deficiency"]
 last_modified_at: 2026-10-14
-description: "Probenecid: predicted new indication Renal hypouricemia (evidence level L4). Approved use: Gout"
+description: "Probenecid: predicted new indication Hypouricemia, renal (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Probenecid
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **3**
 
 </div>
 
-## Probenecid: From Gout to Renal Hypouricemia
+## Probenecid: Hypouricemia, renal
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,19 +45,19 @@ The TxGNN model predicts it may be effective for **renal hypouricemia**, but the
 
 | Item | Content |
 |------|------|
-| Original Indication | Gout; hyperuricemia (per knowledge-graph indication data; no label text available) |
-| Predicted New Indication | Renal hypouricemia |
-| TxGNN Prediction Score | 99.73% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Hypouricemia, renal |
+| TxGNN Prediction Score | 0.9973 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 7 (all cancelled; 1 NDA and 6 ANDAs) |
+| US Market Status | Marketed (valid licenses: 7 of 7) |
+| Number of NDAs | 7 (valid: 7) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, probenecid inhibits the renal urate transporter URAT1 (SLC22A12) and the organic anion transporters OAT1/OAT3. This blocks urate reabsorption in the proximal tubule and increases uric acid excretion, which is why it lowers serum urate in gout.
 
-The prediction is therefore **mechanistically doubtful**. Renal hypouricemia is mainly caused by loss-of-function mutations in URAT1 (SLC22A12), or in some cases GLUT9, which already produce excessive urinary urate excretion and low serum urate. A drug that further increases urate excretion would be expected to **worsen** the condition, not treat it. The high score (0.997) most likely reflects the drug's close network association with urate transport, not a therapeutic benefit.
+The prediction is therefore **mechanistically doubtful**. Renal hypouricemia is mainly caused by loss-of-function mutations in URAT1 (SLC22A12), or in some cases GLUT9, which already produce excessive urinary urate excretion and low serum urate. A drug that further increases urate excretion would be expected to **worsen** the condition, not treat it. The high score (0.9973) most likely reflects the drug's close network association with urate transport, not a therapeutic benefit.
 
 In the literature, probenecid appears only as a **pharmacological probe**. Several case reports use the response of uric acid clearance to probenecid and pyrazinamide to classify the type of tubular defect.
 
@@ -84,7 +84,7 @@ The compiled literature consists of reviews, case reports and genetic or mechani
 
 ## US Market Information
 
-All seven authorizations are cancelled, and no approved-indication text is available.
+All seven authorizations are valid, and no approved-indication text is available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -112,7 +112,7 @@ All seven authorizations are cancelled, and no approved-indication text is avail
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a computational score alone. No clinical trials exist, and the literature never supports therapeutic use. The mechanism suggests probenecid would worsen a condition already marked by excessive urate excretion. All US licenses are also cancelled.
+The prediction rests on a computational score alone. No clinical trials exist, and the literature never supports therapeutic use. The mechanism suggests probenecid would worsen a condition already marked by excessive urate excretion. All seven US licenses are valid.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
@@ -121,8 +121,8 @@ The prediction rests on a computational score alone. No clinical trials exist, a
 - Confirmation of a clear unmet therapeutic need, since renal hypouricemia is often asymptomatic
 
 **Other predictions (both Hold, L5):**
-- **Lesch-Nyhan syndrome** (score 99.39%): There is no clinical evidence. Probenecid would not address the neurobehavioral features, and it could raise the risk of urate stones in patients who already overexcrete urate. Xanthine oxidase inhibitors are the standard of care.
-- **Partial HPRT deficiency** (score 99.37%): There are no trials or literature. The mechanism overlaps with gout, but the risk of uric acid nephrolithiasis in overproducers makes xanthine oxidase inhibitors preferable.
+- **Lesch-Nyhan syndrome** (score 0.9939): There is no clinical evidence. Probenecid would not address the neurobehavioral features, and it could raise the risk of urate stones in patients who already overexcrete urate. Xanthine oxidase inhibitors are the standard of care.
+- **Partial HPRT deficiency** (score 0.9937): There are no trials or literature. The mechanism overlaps with gout, but the risk of uric acid nephrolithiasis in overproducers makes xanthine oxidase inhibitors preferable.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -4,7 +4,7 @@ title: Polymyxin B
 parent: Moderate Evidence (L3-L4)
 nav_order: 1062
 evidence_level: L4
-indication_count: 3
+indication_count: 2
 last_modified_at: 2026-10-14
 description: "Polymyxin B: predicted new indication Bronchitis (evidence level L4). Approved use: Not available in the data compiled for this report"
 monitor_inn: "POLYMYXIN B"
@@ -14,7 +14,7 @@ predicted_indications: ["bronchitis", "laryngotracheitis"]
 # Polymyxin B
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **3** 
+Evidence Level: **L4** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -39,7 +39,7 @@ Evidence Level: **L4** | Predicted Indications: **3**
 ## One-Sentence Summary
 
 Polymyxin B is a polypeptide antibiotic that acts against Gram-negative bacteria. The data compiled for this report do not include its approved indication text.
-The TxGNN model predicts it may be effective for **bronchitis** (score 99.87%), but there are **0 registered clinical trials** and only **12 publications** retrieved, mostly small, old, or indirect studies. Two other predictions were also generated: laryngotracheitis (no supporting evidence) and conjunctivitis (**19 publications**, including several randomized trials of polymyxin B/trimethoprim combination products).
+The TxGNN model predicts it may be effective for **bronchitis** (score 0.9987), but there are **0 registered clinical trials** and only **12 publications** retrieved, mostly small, old, or indirect studies. Two other predictions were also generated: laryngotracheitis (no supporting evidence) and conjunctivitis (**19 publications**, including several randomized trials of polymyxin B/trimethoprim combination products).
 
 ---
 
@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **bronchitis** (score 99.87%), 
 |------|------|
 | Original Indication | Not available in the data compiled for this report (approved indication text is blank in all licenses) |
 | Predicted New Indication | Bronchitis |
-| TxGNN Prediction Score | 99.87% |
+| TxGNN Prediction Score | 0.9987 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 5 (all ANDAs, all cancelled) |
+| US Market Status | Marketed (valid licenses: 5 of 5) |
+| Number of NDAs | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ---

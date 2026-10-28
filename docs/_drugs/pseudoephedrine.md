@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Pseudoephedrine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1098
-evidence_level: L4
-indication_count: 3
+evidence_level: L5
+indication_count: 2
 last_modified_at: 2026-10-14
-description: "Pseudoephedrine: predicted new indication Nasal cavity disease (evidence level L4). Approved use: Allergic rhinitis, vasomotor rhinitis, rhinitis, common cold…"
 monitor_inn: "PSEUDOEPHEDRINE"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "allergic urticaria"]
+predicted_indications: ["nasal cavity disease", "allergic urticaria"]
+description: "Pseudoephedrine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Pseudoephedrine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **3**
 
 </div>
 
-## Pseudoephedrine: From Allergic Rhinitis to Nasal Cavity Disease
+## Pseudoephedrine: Nasal cavity disease
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,11 +48,11 @@ This is largely an extension of existing use rather than a true repurposing.
 
 | Item | Content |
 |------|------|
-| Original Indication | Allergic rhinitis, vasomotor rhinitis, rhinitis, common cold, pharyngitis (the US license records contain no indication text; these come from the knowledge graph) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Nasal cavity disease |
-| TxGNN Prediction Score | 99.75% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (all 3 listed licenses are cancelled) |
+| TxGNN Prediction Score | 0.9975 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 3) |
 | Number of NDAs | 3 (ANDA/OTC monograph records, all cancelled) |
 | Recommended Decision | Hold |
 
@@ -64,7 +64,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 "Nasal cavity disease" is a broad category that overlaps heavily with the drug's existing indications (allergic rhinitis, vasomotor rhinitis, rhinitis, common cold). The decongestant mechanism applies to nasal congestion across allergic and non-allergic conditions, so the prediction is plausible. However, the benefit would be symptomatic relief of congestion, not treatment of the underlying disease.
 
-Two other predictions were also generated: acute laryngopharyngitis (score 99.73%, no studies, Hold) and allergic urticaria (score 99.14%, no supporting evidence for pseudoephedrine, Hold). Neither has a convincing mechanistic link. Urticaria is histamine-driven, and pseudoephedrine has no antihistamine activity.
+One other prediction was also generated: allergic urticaria (score 0.9914, no supporting evidence for pseudoephedrine, Hold). It has no convincing mechanistic link. Urticaria is histamine-driven, and pseudoephedrine has no antihistamine activity.
 
 ---
 
@@ -92,11 +92,11 @@ Currently no related clinical trials registered.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA075153 | Leader 12 Hour Sinus Nasal Decongestant (Cardinal Health) | Film-coated extended-release tablet | Not available (cancelled) |
-| M012 | Nasal Decongestant (CVS Pharmacy) | Film-coated tablet | Not available (cancelled) |
-| ANDA077442 | Pseudoephedrine Hydrochloride (Publix Super Markets) | Film-coated extended-release tablet | Not available (cancelled) |
+| ANDA075153 | Leader 12 Hour Sinus Nasal Decongestant (Cardinal Health) | Film-coated extended-release tablet | Not available (valid) |
+| M012 | Nasal Decongestant (CVS Pharmacy) | Film-coated tablet | Not available (valid) |
+| ANDA077442 | Pseudoephedrine Hydrochloride (Publix Super Markets) | Film-coated extended-release tablet | Not available (valid) |
 
-All three authorizations are cancelled and none is currently valid. All listed forms are oral.
+All three authorizations are currently valid, and the drug is marketed. All listed forms are oral.
 
 ---
 
@@ -114,7 +114,7 @@ Please refer to the package insert for the official warnings and contraindicatio
 **Decision: Hold**
 
 **Rationale:**
-The top prediction (nasal cavity disease) is biologically plausible but overlaps with existing indications, so it adds little new value. Evidence is limited to preclinical models, one review and one comparative clinical study, with no registered trials. All US licenses are cancelled, and label safety data are missing. The other two predictions (laryngopharyngitis, urticaria) lack supporting evidence.
+The top prediction (nasal cavity disease) is biologically plausible but overlaps with existing indications, so it adds little new value. Evidence is limited to preclinical models, one review and one comparative clinical study, with no registered trials. The drug is marketed in the US with 3 valid licenses, and label safety data are missing. The other prediction (urticaria) lacks supporting evidence.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (safety screening cannot proceed without them)

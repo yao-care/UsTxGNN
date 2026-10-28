@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Paclitaxel
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 1007
-evidence_level: L2
-indication_count: 10
+evidence_level: L5
+indication_count: 2
 last_modified_at: 2026-10-14
-description: "Paclitaxel: predicted new indication Female breast carcinoma (evidence level L2). Approved use: Ovarian cancer"
 monitor_inn: "PACLITAXEL"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
+description: "Paclitaxel: predicted new indication Parameningeal embryonal rhabdomyosarcoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Paclitaxel
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,11 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-## Paclitaxel: From Ovarian Cancer to Female Breast Carcinoma
+## Paclitaxel: Parameningeal embryonal rhabdomyosarcoma
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Paclitaxel is a microtubule-stabilizing chemotherapy drug whose original indications in the knowledge graph center on ovarian cancer and related ovarian tumors.
-The TxGNN model predicts it may be effective for **female breast carcinoma**.
 The data compiled for this report include **40 clinical trials** and **20 publications** for this prediction, but paclitaxel is already an established breast cancer treatment, so this is not true repurposing.
 
 ---
@@ -48,11 +46,11 @@ The data compiled for this report include **40 clinical trials** and **20 public
 
 | Item | Content |
 |------|------|
-| Original Indication | Ovarian cancer (knowledge-graph indications also include other ovarian tumor types, hypertension and open-angle glaucoma; no approved-indication text was available from US licenses) |
-| Predicted New Indication | Female breast carcinoma |
-| TxGNN Prediction Score | 99.995% |
-| Evidence Level | L2 |
-| US Market Status | Cancelled only (all 12 listed authorizations are cancelled) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Parameningeal embryonal rhabdomyosarcoma |
+| TxGNN Prediction Score | 0.9973 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 12) |
 | Number of NDAs | 12 (3 NDAs and 9 ANDAs) |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -110,7 +108,7 @@ The literature for this indication is mostly older reviews and early-phase studi
 
 ## US Market Information
 
-All 12 US authorizations listed are cancelled, and no approved-indication text was available. The table shows five of the main ones.
+The table shows five of the main ones.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -165,14 +163,12 @@ Literature also reports paclitaxel-associated pneumonitis, uveitis, corneal lesi
 Paclitaxel has multiple completed Phase 2 and Phase 3 trials in breast cancer where it is the chemotherapy backbone, and the mechanism is well understood. This supports L2 evidence (a Phase 3 trial of paclitaxel itself as the investigational agent is not in the supplied data). The recommendation applies to female breast carcinoma and its subtypes with trial support (ER-negative/triple-negative, ER-positive, hormone-resistant), which are established uses rather than novel repurposing.
 
 Other predictions in the data are weaker:
-- **Hold**: Ehrlich tumor carcinoma (a mouse model only), bilateral breast carcinoma and nipple carcinoma (case reports only), and parameningeal and vaginal botryoid embryonal rhabdomyosarcoma (high score but no trials or literature).
 - **Research question**: breast carcinoma by gene expression profile, which is a biomarker category rather than a distinct indication.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications, which are currently a blocking gap, to complete safety screening.
 - Mechanism of action data from DrugBank.
-- Current US label indications. All 12 US authorizations are listed as cancelled, so confirm whether any paclitaxel product is currently marketed.
-- Confirmation of the original-indication framing, since the knowledge graph lists ovarian cancer but breast cancer is already a recognized use.
+- Current US label indications.
 - Pivotal comparative data for specific settings, such as ER-negative and hormone-resistant disease, rather than combination studies where paclitaxel is only the backbone.
 - A monitoring plan for myelosuppression, neuropathy and hypersensitivity, and a review of CYP-related drug interactions.
 ## Disclaimer

@@ -4,17 +4,17 @@ title: Iodixanol
 parent: Model Prediction Only (L5)
 nav_order: 804
 evidence_level: L5
-indication_count: 3
+indication_count: 2
 monitor_inn: "IODIXANOL"
-predicted_indications: ["osteoarthritis susceptibility", "osteoarthritis", "rheumatoid arthritis"]
-last_modified_at: 2026-10-14
-description: "Iodixanol: predicted new indication Osteoarthritis susceptibility (evidence level L5). Approved use: Not available"
+predicted_indications: ["osteoarthritis", "rheumatoid arthritis"]
+last_modified_at: 2026-10-23
+description: "Iodixanol: predicted new indication Osteoarthritis (evidence level L5). Approved use: Not available"
 ---
 
 # Iodixanol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,79 +33,96 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-## Iodixanol: From Diagnostic Imaging Contrast Agent to Osteoarthritis Susceptibility
+## Iodixanol: From Radiographic Contrast Imaging to Osteoarthritis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Iodixanol is an iodinated contrast agent used in diagnostic imaging; the data compiled for this report do not list a specific approved indication text.
-The TxGNN model predicts it may be relevant to **osteoarthritis susceptibility** (top-ranked), with **0 clinical trials** and **0 publications** supporting this specific prediction.
-The next two predictions, osteoarthritis and rheumatoid arthritis, have only imaging-method or unrelated case-report literature, with no therapeutic evidence.
+Iodixanol is an iodinated, non-ionic, iso-osmolar contrast agent used in diagnostic radiographic imaging. The TxGNN model predicts it may be effective for **osteoarthritis**, but the data compiled for this report contain **0 clinical trials** and **5 publications**, none of which test a therapeutic effect. The publications describe iodixanol as an imaging or research tool for cartilage.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (the approved indication text on the listed licenses is empty) |
-| Predicted New Indication | Osteoarthritis susceptibility |
-| TxGNN Prediction Score | 99.16% |
+| Original Indication | Not available (the US licence records contain no approved-indication text) |
+| Predicted New Indication | Osteoarthritis |
+| TxGNN Prediction Score | 0.9907 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 2 (both cancelled) |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
+| Number of approvals | 1 NDA and 1 ANDA |
 | Recommended Decision | Hold |
+
+*Evidence level note:* the cited studies use iodixanol as an imaging or transport probe in cartilage. None evaluates it as a treatment for osteoarthritis, so the level is capped at L5 and not the L4 label shown in the source data.
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, iodixanol is an iodinated, iso-osmolar contrast agent used for imaging, not a drug with known disease-modifying activity.
+Detailed mechanism of action data are not available. Iodixanol is understood to be a non-ionic, iso-osmolar iodinated contrast agent. It has no known disease-modifying pharmacology.
 
-The top prediction, "osteoarthritis susceptibility", is a genetic susceptibility phenotype rather than a treatable disease state. No mechanistic link is supported by the data, so the high score (99.16%) should be interpreted cautiously.
+The retrieved literature concerns its use as a diagnostic or research tool:
+- contrast-enhanced CT of articular cartilage
+- diffusion and solute transport across the cartilage and subchondral bone interface
+- an in vitro check that iodine contrast agents do not impair platelet-rich plasma function
 
-For the closely related prediction of **osteoarthritis** (score 99.07%), the literature connects iodixanol only to imaging. Contrast-enhanced CT is used to study solute transport and diffusion in cartilage. The score likely reflects frequent co-occurrence with joint and cartilage imaging studies, not a therapeutic effect. For **rheumatoid arthritis** (score 99.00%), the only retrieved paper is a hypersensitivity desensitization case report for a different contrast agent (iohexol).
+These findings support a diagnostic role in joint imaging. They do not support a therapeutic effect on osteoarthritis. The high TxGNN score most likely reflects network proximity, such as shared use in joint imaging contexts, and not a plausible treatment mechanism. The same applies to the second-ranked prediction, rheumatoid arthritis (score 0.9900). Its only retrieved publication is a case report on desensitization to a different contrast agent (iohexol), and no mechanistic rationale links iodixanol to that disease.
+
+---
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
-## Literature Evidence
+---
 
-No literature was found for the top-ranked prediction (osteoarthritis susceptibility). The following publications relate to the second prediction, osteoarthritis, and are all methodological or in vitro studies:
+## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [39012563](https://pubmed.ncbi.nlm.nih.gov/39012563/) | 2024 | Imaging methodology study | Annals of Biomedical Engineering | CT nanoparticle diffusion imaging combined with finite element modeling to reveal cartilage function |
-| [27793406](https://pubmed.ncbi.nlm.nih.gov/27793406/) | 2016 | Computational modeling | Journal of Biomechanics | Finite element model of neutral solute transport across the cartilage–subchondral bone interface using CT |
-| [40155520](https://pubmed.ncbi.nlm.nih.gov/40155520/) | 2025 | Imaging methodology study | Annals of Biomedical Engineering | Dual-contrast agent photon-counting CT for assessing articular cartilage health |
-| [28063646](https://pubmed.ncbi.nlm.nih.gov/28063646/) | 2017 | Biophysical study | Journal of Biomechanics | Iodixanol (~1550 Da) used as a CT contrast agent to study permeability of the osteochondral interface |
-| [30374787](https://pubmed.ncbi.nlm.nih.gov/30374787/) | 2018 | In vitro study | Journal of Experimental Orthopaedics | Iodine contrast agents did not affect platelet-rich plasma function at an early time point |
+| [39012563](https://pubmed.ncbi.nlm.nih.gov/39012563/) | 2024 | Preclinical imaging study | Ann Biomed Eng | Nanoparticle diffusion CT with finite element modelling used to reveal cartilage function |
+| [40155520](https://pubmed.ncbi.nlm.nih.gov/40155520/) | 2025 | Preclinical imaging study | Ann Biomed Eng | Dual-contrast agent in photon-counting CT to assess articular cartilage health |
+| [28063646](https://pubmed.ncbi.nlm.nih.gov/28063646/) | 2017 | Ex vivo / computational study | J Biomech | Iodixanol used as a diffusing CT contrast agent to study permeability of the cartilage and subchondral bone interface |
+| [27793406](https://pubmed.ncbi.nlm.nih.gov/27793406/) | 2016 | Computational model | J Biomech | Finite element model of neutral solute transport across the osteochondral interface |
+| [30374787](https://pubmed.ncbi.nlm.nih.gov/30374787/) | 2018 | In vitro study | J Exp Orthop | Iodine contrast agents did not affect platelet-rich plasma function at an early time point |
 
-For rheumatoid arthritis, one case report exists ([36628042](https://pubmed.ncbi.nlm.nih.gov/36628042/), 2022, Cureus), describing desensitization to iohexol in a patient with amyloidosis secondary to rheumatoid arthritis. It concerns hypersensitivity management with a different agent and is not evidence of efficacy.
+Literature for the second prediction (rheumatoid arthritis): [36628042](https://pubmed.ncbi.nlm.nih.gov/36628042/) (2022, Cureus) is a case report of desensitization to iohexol in a patient with rheumatoid arthritis-related amyloidosis. It is unrelated to treatment of the disease.
+
+---
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA214271 | Iodixanol (Fresenius Kabi USA, LLC) | Injection, solution | Not available (status: cancelled) |
-| NDA020351 | Visipaque (GE Healthcare Inc.) | Injection, solution | Not available (status: cancelled) |
+| ANDA214271 | Iodixanol (Fresenius Kabi USA, LLC) | Injection, solution | Not listed in the compiled records |
+| NDA020351 | Visipaque (GE Healthcare Inc.) | Injection, solution | Not listed in the compiled records |
+
+---
 
 ## Safety Considerations
 
-- **Drug Interactions**: The interaction query returned 100 records. Most listed interactions are rated **Major**, including metformin, several amphotericin B formulations, vancomycin, and the aminoglycosides and related antibiotics kanamycin, neomycin, streptomycin and polymyxin B. Mesalazine, balsalazide, olsalazine and sulfasalazine are also rated Major. Mannitol is rated Moderate. Famotidine, acetylsalicylic acid, morphine, omeprazole and prednisone have an unknown severity level. Many of these pairings involve nephrotoxic or renally cleared drugs, so kidney function monitoring is a likely concern.
+The compiled data contain no label warnings or contraindications. Please refer to the package insert for safety information.
 
-Please refer to the package insert for warnings and contraindications.
+**Drug Interactions:** the interaction query returned 100 records. The main ones are listed below.
+- **Major:** metformin, amphotericin B (including lipid complex, cholesteryl sulfate and liposomal forms), mesalazine, balsalazide, olsalazine, sulfasalazine, vancomycin, and the aminoglycosides and polymyxins kanamycin, neomycin, streptomycin and polymyxin B
+- **Moderate:** mannitol
+
+---
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-All three predictions (osteoarthritis susceptibility, osteoarthritis, rheumatoid arthritis) are supported only by model scores. Iodixanol appears in the literature as an imaging tool, not as a therapy, and no clinical trials exist. The top-ranked prediction is a susceptibility phenotype, not a treatable condition. In addition, all US licenses are cancelled.
+Iodixanol has no known therapeutic mechanism in osteoarthritis. No clinical trials exist, and the available publications only use it as an imaging or research tool. The high TxGNN score is not backed by biological or clinical evidence.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data, for example from DrugBank
-- Any preclinical or clinical evidence that iodixanol has a therapeutic effect in a joint disease, such as cartilage protection, pain relief or functional benefit
-- Clarification of the current US regulatory and supply status, given that both licenses are cancelled
-- A review of whether a high-scoring prediction that reflects imaging co-occurrence should be excluded from further consideration
+- A plausible therapeutic mechanism for osteoarthritis, with mechanism of action data
+- Preclinical or clinical studies that test iodixanol as a treatment, not as an imaging agent
+- The FDA package insert warnings and contraindications, which are currently missing
+- A review of the major interactions, particularly with nephrotoxic drugs and metformin, if any therapeutic use is explored
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

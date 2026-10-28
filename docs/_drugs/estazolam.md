@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Estazolam
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 673
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Estazolam: predicted new indication Insomnia (disease) (evidence level L4). Approved use: Not available in the US license records (indication text is blank). I…"
 monitor_inn: "ESTAZOLAM"
 predicted_indications: ["visual epilepsy", "alcohol withdrawal delirium", "restless legs syndrome", "myofascial pain syndrome", "thinking seizures", "micturation-induced seizures", "audiogenic seizures", "eating seizures", "orgasm-induced seizures"]
+description: "Estazolam: predicted new indication Visual epilepsy (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Estazolam
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Estazolam: From Insomnia (On-Label Use) to Insomnia (Disease)
+## Estazolam: Visual epilepsy
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,12 +48,12 @@ The prediction is supported by **7 clinical trials** and **19 publications** ret
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in the US license records (indication text is blank). Insomnia is the established use of the drug. |
-| Predicted New Indication | Insomnia (disease) |
-| TxGNN Prediction Score | 99.48% |
-| Evidence Level | L1 (as scored in the compiled data; see the note under Clinical Trial Evidence) |
-| US Market Status | Cancelled only (no active licenses) |
-| Number of NDAs | 3 (all ANDAs, all cancelled) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Visual epilepsy |
+| TxGNN Prediction Score | 0.9947 |
+| Evidence Level | L5 (as scored in the compiled data; see the note under Clinical Trial Evidence) |
+| US Market Status | Marketed (valid licenses: 3 of 3) |
+| Number of NDAs | 3 (valid: 3) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---
@@ -107,7 +107,6 @@ Insomnia is the established, on-label use of estazolam, so the "new indication" 
 | ANDA074921 (Dr. Reddy's Laboratories Inc.) | Estazolam | Tablet | Not listed (cancelled) |
 | ANDA074826 (Novitium Pharma LLC) | Estazolam | Tablet | Not listed (cancelled) |
 
-All three authorizations are cancelled, so no estazolam product is currently active in the US market.
 
 ---
 
@@ -130,17 +129,17 @@ For warnings and label contraindications, please refer to the package insert for
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Insomnia is estazolam's established use, and a completed Phase 3 randomized trial plus a body of supportive literature back it. Because this is not a true repurposing opportunity, all licenses are cancelled in the US, and the label safety data is missing, development should proceed only with guardrails. The other nine predictions are rated Hold: the evidence is preclinical or absent, as summarized below.
+Insomnia is estazolam's established use, and a completed Phase 3 randomized trial plus a body of supportive literature back it. The other nine predictions are rated Hold: the evidence is preclinical or absent, as summarized below.
 
 | Predicted Indication | Evidence Level | Decision |
 |------|------|------|
-| Visual epilepsy | L4 | Hold |
+| Visual epilepsy | L5 | Hold |
 | Alcohol withdrawal delirium | L5 | Hold |
 | Restless legs syndrome | L5 | Hold |
 | Myofascial pain syndrome | L5 | Hold |
 | Thinking seizures | L5 | Hold |
 | Micturition-induced seizures | L5 | Hold |
-| Audiogenic seizures | L4 | Hold |
+| Audiogenic seizures | L5 | Hold |
 | Eating seizures | L5 | Hold |
 | Orgasm-induced seizures | L5 | Hold |
 

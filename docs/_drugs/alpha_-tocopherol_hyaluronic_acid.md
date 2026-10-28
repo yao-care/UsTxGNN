@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Alpha -Tocopherol Hyaluronic Acid
@@ -53,7 +54,7 @@ Without predicted indications or confirmed original indications on record, a ful
 | Predicted New Indication | None (TxGNN prediction not available) |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — Model prediction not generated; no supporting studies identified |
-| US Market Status | Not marketed (no NDA records found) |
+| US Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

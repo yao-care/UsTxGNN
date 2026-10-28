@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Mitoxantrone
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 937
-evidence_level: L3
-indication_count: 8
+evidence_level: L5
+indication_count: 7
 last_modified_at: 2026-10-14
-description: "Mitoxantrone: predicted new indication Upper aerodigestive tract neoplasm (evidence level L3). Approved use: Acute myeloid leukemia (and related subtypes)"
 monitor_inn: "MITOXANTRONE"
 predicted_indications: ["upper aerodigestive tract neoplasm", "small cell lung carcinoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "head and neck cancer", "bladder exstrophy-epispadias-cloacal exstrophy complex"]
+description: "Mitoxantrone: predicted new indication Upper aerodigestive tract neoplasm (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Mitoxantrone
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **8** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L3** | Predicted Indications: **8**
 
 </div>
 
-## Mitoxantrone: From Acute Myeloid Leukemia to Upper Aerodigestive Tract Neoplasm
+## Mitoxantrone: Upper aerodigestive tract neoplasm
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,12 +48,12 @@ This prediction is supported by **no directly registered clinical trials** and *
 
 | Item | Content |
 |------|------|
-| Original Indication | Acute myeloid leukemia (and related subtypes) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Upper aerodigestive tract neoplasm |
-| TxGNN Prediction Score | 99.78% |
-| Evidence Level | L3 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 3 (all generic ANDAs, all cancelled) |
+| TxGNN Prediction Score | 0.9978 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 3 of 3) |
+| Number of NDAs | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ---
@@ -97,9 +97,9 @@ All three US licenses are generic injectables and all are cancelled. The compile
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| ANDA077496 | Mitoxantrone (Fresenius Kabi USA) | Injection, solution | Cancelled |
-| ANDA077356 | mitoXANTRONE (Meitheal Pharmaceuticals) | Injection, solution, concentrate | Cancelled |
-| ANDA076871 | Mitoxantrone (Hospira) | Injection, solution, concentrate | Cancelled |
+| ANDA077496 | Mitoxantrone (Fresenius Kabi USA) | Injection, solution | Valid |
+| ANDA077356 | mitoXANTRONE (Meitheal Pharmaceuticals) | Injection, solution, concentrate | Valid |
+| ANDA076871 | Mitoxantrone (Hospira) | Injection, solution, concentrate | Valid |
 
 ---
 
@@ -133,7 +133,7 @@ Please refer to the package insert for the official warnings and contraindicatio
 **Decision: Hold**
 
 **Rationale:**
-The evidence for this specific term is limited to older single-arm phase II studies, small series and reviews, with no registered trials. These studies showed modest activity and significant myelosuppression. The drug also has no currently valid US license. Newer liposomal mitoxantrone trials in head and neck and nasopharyngeal cancer are the more promising line of evidence, but they are registered under a different disease term and have not reported efficacy results.
+The evidence for this specific term is limited to older single-arm phase II studies, small series and reviews, with no registered trials. These studies showed modest activity and significant myelosuppression. Newer liposomal mitoxantrone trials in head and neck and nasopharyngeal cancer are the more promising line of evidence, but they are registered under a different disease term and have not reported efficacy results.
 
 **To proceed, the following is needed:**
 - Official package insert warnings and contraindications (a blocking data gap for safety screening)

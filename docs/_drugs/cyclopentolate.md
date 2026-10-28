@@ -8,7 +8,7 @@ indication_count: 3
 monitor_inn: "CYCLOPENTOLATE"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome"]
 last_modified_at: 2026-10-14
-description: "Cyclopentolate: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Cycloplegia"
+description: "Cyclopentolate: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Cyclopentolate
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-## Cyclopentolate: From Cycloplegia to Cauda Equina Syndrome
+## Cyclopentolate: Cauda equina syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ but **no clinical trials and no publications** currently support this direction,
 
 | Item | Content |
 |------|------|
-| Original Indication | Cycloplegia |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Cauda equina syndrome |
-| TxGNN Prediction Score | 99.54% |
+| TxGNN Prediction Score | 0.9954 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 5 (all cancelled; listed as ANDAs) |
+| US Market Status | Marketed (valid licenses: 5 of 5) |
+| Number of NDAs | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -62,20 +62,20 @@ The possible link to cauda equina syndrome is bladder dysfunction. Nerve root co
 
 Two other predictions were also generated, and both are likewise supported only at the drug-class level:
 
-- **Neurogenic bladder (obsolete ontology term, score 99.40%)**: Antimuscarinics are established for neurogenic detrusor overactivity, but nothing is specific to cyclopentolate. Better-characterised agents (oxybutynin, tolterodine, solifenacin, trospium) already exist. The term should be mapped to current neurogenic lower urinary tract dysfunction terminology before further assessment.
-- **Irritable bowel syndrome (score 99.27%)**: Antispasmodics such as dicyclomine and hyoscyamine are used for IBS abdominal pain. Cyclopentolate has no oral formulation, and systemic anticholinergic effects such as constipation could worsen constipation-predominant IBS.
+- **Neurogenic bladder (obsolete ontology term, score 0.9940)**: Antimuscarinics are established for neurogenic detrusor overactivity, but nothing is specific to cyclopentolate. Better-characterised agents (oxybutynin, tolterodine, solifenacin, trospium) already exist. The term should be mapped to current neurogenic lower urinary tract dysfunction terminology before further assessment.
+- **Irritable bowel syndrome (score 0.9927)**: Antispasmodics such as dicyclomine and hyoscyamine are used for IBS abdominal pain. Cyclopentolate has no oral formulation, and systemic anticholinergic effects such as constipation could worsen constipation-predominant IBS.
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Status | Manufacturer |
 |---------|------|------|-----------|------|
-| ANDA040075 | Cyclopentolate Hydrochloride | Solution/drops | Cancelled | Bausch & Lomb Incorporated |
-| ANDA084110 | Cyclogyl | Solution/drops | Cancelled | Alcon Laboratories, Inc. |
-| ANDA084108 | Cyclogyl | Solution/drops | Cancelled | Alcon Laboratories, Inc. |
-| ANDA084109 | Cyclogyl | Solution/drops | Cancelled | Alcon Laboratories, Inc. |
-| ANDA084300 | Cyclomydril | Solution/drops | Cancelled | Alcon Laboratories, Inc. |
+| ANDA040075 | Cyclopentolate Hydrochloride | Solution/drops | Valid | Bausch & Lomb Incorporated |
+| ANDA084110 | Cyclogyl | Solution/drops | Valid | Alcon Laboratories, Inc. |
+| ANDA084108 | Cyclogyl | Solution/drops | Valid | Alcon Laboratories, Inc. |
+| ANDA084109 | Cyclogyl | Solution/drops | Valid | Alcon Laboratories, Inc. |
+| ANDA084300 | Cyclomydril | Solution/drops | Valid | Alcon Laboratories, Inc. |
 
-All five authorizations are cancelled, and no approved indication text is recorded for them.
+All five authorizations are valid, and no approved indication text is recorded for them.
 
 ## Safety Considerations
 
@@ -89,7 +89,7 @@ Please refer to the package insert for further warnings, contraindications, and 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score and class-level plausibility. No clinical trials or literature exist for cyclopentolate in this indication. The drug has no valid US license and only an ophthalmic formulation, and systemic anticholinergic exposure carries safety concerns. Established alternatives already exist for the related bladder and bowel indications.
+The prediction is supported only by a model score and class-level plausibility. No clinical trials or literature exist for cyclopentolate in this indication. Established alternatives already exist for the related bladder and bowel indications.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

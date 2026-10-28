@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "BENZOIC ACID"
 predicted_indications: ["bronchitis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "dry eye syndrome", "palmar fibromatosis", "Ledderhose disease", "infantile digital fibromatosis", "hereditary angioedema with C1Inh deficiency", "posterior leukoencephalopathy syndrome", "C1 inhibitor deficiency"]
-last_modified_at: 2026-10-14
-description: "Benzoic Acid: predicted new indication Bronchitis (evidence level L5). Approved use: Pemphigus, Peyronie disease, penile fibromatosis…"
+last_modified_at: 2026-10-27
+description: "Benzoic Acid: predicted new indication bronchitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Benzoic Acid
@@ -33,12 +33,14 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Benzoic Acid: From Pemphigus and Fibrotic Skin/Connective Tissue Conditions to Bronchitis
+## Benzoic Acid: antimicrobial preservative / organic aromatic acid → bronchitis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Benzoic acid is listed in the TxGNN knowledge graph for pemphigus, Peyronie disease, penile fibromatosis, scleroderma, systemic sclerosis, and dermatomyositis. The TxGNN model predicts it may be effective for **bronchitis**. This prediction has **no clinical trials** and **only 2 publications** behind it, and neither publication actually studies benzoic acid.
+Benzoic acid is an aromatic organic acid with a single US homeopathic-type product record (Acidum Benzoicum pellets).
+The TxGNN model predicts it may be relevant for **bronchitis**, but there are **0 clinical trials** and only **2 loosely related publications**, neither of which studies benzoic acid in bronchitis.
+Evidence is limited to the model prediction.
 
 ---
 
@@ -46,23 +48,23 @@ Benzoic acid is listed in the TxGNN knowledge graph for pemphigus, Peyronie dise
 
 | Item | Content |
 |------|------|
-| Original Indication | Pemphigus, Peyronie disease, penile fibromatosis, balanitis xerotica obliterans, scleroderma, localized scleroderma, systemic sclerosis, dermatomyositis (from the knowledge graph; no approved indication text is available) |
-| Predicted New Indication | Bronchitis |
-| TxGNN Prediction Score | 99.98% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | bronchitis |
+| TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 (cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Benzoic acid appears in the knowledge graph with indications spanning autoimmune blistering disease, fibrotic disease, and connective tissue disease. It is not clear how these relate to the predicted bronchitis indication.
+Currently, detailed mechanism of action data is not available for benzoic acid. No mechanistic link to bronchitis can be established from the data compiled for this report.
 
-Based on the data compiled for this report, no credible mechanistic link between benzoic acid and bronchitis has been established. The two retrieved papers cover repaglinide (a benzoic acid derivative) in type 2 diabetes and a soluble epoxide hydrolase inhibitor in smoke-induced COPD. Neither studies benzoic acid itself. The high score is a computational prediction only.
+The two retrieved papers do not involve benzoic acid itself. One is a review of repaglinide (a benzoic acid derivative) in type 2 diabetes; the other is an animal study of a soluble epoxide hydrolase inhibitor in smoke-induced COPD, which lists bronchitis as one component of the disease. Neither supports a role for benzoic acid in bronchitis.
 
-Other predictions deserve a brief mention. Palmar fibromatosis (Dupuytren), Ledderhose disease, and infantile digital fibromatosis have some indirect plausibility because they share a fibrotic theme with Peyronie disease and scleroderma. They also have no supporting trials or literature, and they are flagged as research questions rather than candidates for development.
+The high TxGNN score is a computational output only. Without mechanistic or clinical support, the prediction should be treated as a hypothesis, not as evidence of efficacy.
 
 ---
 
@@ -76,8 +78,8 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [11577798](https://pubmed.ncbi.nlm.nih.gov/11577798/) | 2001 | Review | Drugs | Review of repaglinide (a carbamoylmethyl benzoic acid derivative) in type 2 diabetes. Not relevant to bronchitis or to benzoic acid itself. |
-| [22180869](https://pubmed.ncbi.nlm.nih.gov/22180869/) | 2012 | Preclinical/Animal study | Am J Respir Cell Mol Biol | Soluble epoxide hydrolase inhibitor in smoke-induced COPD. Does not involve benzoic acid. |
+| [11577798](https://pubmed.ncbi.nlm.nih.gov/11577798/) | 2001 | Review | Drugs | Review of repaglinide, a benzoic acid derivative, in type 2 diabetes; no bronchitis data |
+| [22180869](https://pubmed.ncbi.nlm.nih.gov/22180869/) | 2012 | Preclinical/Animal study | Am J Respir Cell Mol Biol | Soluble epoxide hydrolase inhibitor in smoke-induced COPD (bronchitis is one component); does not involve benzoic acid |
 
 ---
 
@@ -85,25 +87,19 @@ Currently no related clinical trials registered.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| Not available (cancelled) | Acidum Benzoicum (Hahnemann Laboratories, Inc.) | Pellet | Not stated |
+| Not recorded | Acidum Benzoicum (Hahnemann Laboratories, INC.) | Pellet | Not recorded |
 
-The only license on record is a cancelled single-ingredient product, and no valid licenses are currently active.
+The one record on file is a single-ingredient product whose status is listed as cancelled.
 
 ---
 
 ## Safety Considerations
 
-Package insert warnings and contraindications were not available for this report. Please refer to the package insert for safety information.
-
-The knowledge graph lists many disease contraindications for benzoic acid. These are graph associations, not label text, and should be verified against official labeling. They include:
-
-- **Cardiovascular:** hypertension, coronary artery disease, cardiovascular and heart disease, sudden cardiac arrest, heart conduction disease
-- **Liver, kidney, and gastrointestinal:** liver failure, liver disease, kidney disease, gallbladder disease, gastritis, achalasia, megaesophagus
-- **Metabolic:** diabetes mellitus, diabetic ketoacidosis, glycogen storage disease, cystinuria, galactosemia, G6PD deficiency
-- **Blood:** blood coagulation disease, hemophilia, anemia, macrocytic anemia
-- **Neuromuscular and other:** myasthenia gravis, neuromuscular junction disease, anorexia nervosa, benign prostatic hyperplasia, pyoureter
+Contraindication relations recorded for benzoic acid in the data compiled for this report (not label text) cover many conditions, including hypertension, liver failure, kidney disease, liver disease, gallbladder disease, gastritis, diabetes mellitus, diabetic ketoacidosis, benign prostatic hyperplasia, blood coagulation disease, hemophilia, coronary artery disease, anemia, G6PD deficiency, glycogen storage disease, cystinuria, galactosemia, myasthenia gravis, anorexia nervosa, cardiovascular disease, achalasia and others.
 
 No drug interaction records were found.
+
+Please refer to the package insert for further safety information.
 
 ---
 
@@ -112,14 +108,13 @@ No drug interaction records were found.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone (evidence level L5). There are no clinical trials, no relevant literature, and no mechanistic rationale, and the only US license on record is cancelled. The long list of knowledge-graph contraindications adds further caution.
+The prediction rests on a model score alone. No clinical trial or publication studies benzoic acid in bronchitis, no mechanism is documented, and the only product record is cancelled.
 
 **To proceed, the following is needed:**
-- Mechanism of action data for benzoic acid (for example, from DrugBank)
-- FDA package insert warnings and contraindications, which block any safety screening
-- A targeted literature search for benzoic acid itself in bronchitis and other respiratory disease
-- A defined route of administration and formulation, since the only known product is a cancelled homeopathic pellet
-- If the team wants to pursue the fibrotic predictions (palmar fibromatosis, Ledderhose disease), a separate preclinical anti-fibrotic hypothesis
+- Mechanism of action data for benzoic acid
+- Package insert warnings and contraindications
+- Preclinical or clinical studies that directly examine benzoic acid in bronchitis
+- Clarification of the current regulatory and marketing status of the product
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Armodafinil
-parent: Model Prediction Only (L5)
+parent: High Evidence (L1-L2)
 nav_order: 399
-evidence_level: L5
+evidence_level: L2
 indication_count: 1
 monitor_inn: "ARMODAFINIL"
 predicted_indications: ["insomnia (disease)"]
-last_modified_at: 2026-10-14
-description: "Armodafinil: predicted new indication Insomnia (evidence level L5). Approved use: Narcolepsy"
+last_modified_at: 2026-10-27
+description: "Armodafinil: predicted new indication insomnia (disease) (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
 # Armodafinil
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **1** 
+Evidence Level: **L2** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,13 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-## Armodafinil: From Narcolepsy to Insomnia
+## Armodafinil: wakefulness-promoting agent → insomnia (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Armodafinil is a wakefulness-promoting agent (the R-enantiomer of modafinil), originally used for narcolepsy and related sleep and central nervous system conditions.
-The TxGNN model predicts it may be effective for **insomnia**,
-with **3 clinical trials** and **2 publications** currently supporting this direction. This support is indirect, because armodafinil promotes wakefulness and is the opposite of a hypnotic.
+Armodafinil is a wakefulness-promoting agent (the R-enantiomer of modafinil) marketed in the United States as tablets.
+The TxGNN model predicts it may be relevant to **insomnia (disease)**, with **3 clinical trials** and **2 publications** in the compiled data. However, the trials mostly use armodafinil for fatigue and sleepiness alongside insomnia, and the two publications are general reviews of shift work disorder, so direct support is limited.
 
 ---
 
@@ -48,25 +47,23 @@ with **3 clinical trials** and **2 publications** currently supporting this dire
 
 | Item | Content |
 |------|------|
-| Original Indication | Narcolepsy (listed with narcolepsy-cataplexy syndrome, central nervous system disease, Balo concentric sclerosis and X-linked adrenoleukodystrophy in the knowledge graph; the US label indication text was not available) |
-| Predicted New Indication | Insomnia |
-| TxGNN Prediction Score | 99.89% |
-| Evidence Level | L2 (see note below) |
-| US Market Status | Cancelled only (all 4 authorizations cancelled) |
-| Number of NDAs | 4 (1 NDA and 3 ANDAs, all cancelled) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | insomnia (disease) |
+| TxGNN Prediction Score | 0.9989 |
+| Evidence Level | L2 |
+| US Market Status | Marketed (valid licenses on record: at least 4) |
+| Number of NDAs | at least 4 |
 | Recommended Decision | Hold |
-
-*Evidence level note:* The level is L2 because the data show completed Phase 2 trials. However, none of the trials has results available, and none shows armodafinil treating insomnia itself, so the real strength is closer to the lower end of L2.
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available for this drug. Armodafinil is generally described as a dopamine reuptake inhibitor that increases wakefulness. This is pharmacologically opposite to a hypnotic effect, so the mechanistic link to insomnia is weak.
+Detailed mechanism-of-action data are not available in the data compiled for this report. Armodafinil is generally described as a dopamine reuptake inhibitor that promotes wakefulness. This is pharmacologically opposite to a hypnotic effect, so the mechanistic link to insomnia is weak and indirect.
 
-The link is indirect. In the trials found, armodafinil is used to treat daytime fatigue and sleepiness that occur together with insomnia. Examples are cancer survivors after chemotherapy and people with sleep-disordered breathing. It is usually combined with cognitive behavioral therapy for insomnia (CBT-I), and it is not used as the treatment for insomnia itself.
+The clinical link is better explained by how the drug is used in the trials. Armodafinil was given to patients whose insomnia occurred together with daytime fatigue or sleepiness, such as breast cancer survivors after chemotherapy or people with sleep-disordered breathing. It was usually combined with cognitive behavioral therapy for insomnia (CBT-I). In these studies it targets the daytime symptoms rather than insomnia itself.
 
-The very high TxGNN score (99.89%) is a computational prediction. It should not be read as clinical validation. The mechanistic rationale needs to be clarified before any recommendation is made.
+The very high TxGNN score (0.9989) is a computational prediction and should not be read as clinical validation. The mechanistic rationale needs to be clarified before any recommendation.
 
 ---
 
@@ -74,9 +71,9 @@ The very high TxGNN score (99.89%) is a computational prediction. It should not 
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
-| [NCT01091974](https://clinicaltrials.gov/study/NCT01091974) | Phase 2 | Completed | 138 | Four-arm randomized trial of CBT-I with or without armodafinil for insomnia and fatigue after chemotherapy in female breast cancer patients. It is the most direct and largest trial, but no results were available. |
-| [NCT01011218](https://clinicaltrials.gov/study/NCT01011218) | Phase 2 | Completed | 70 | Brief behavioral therapy or CBT-I, with or without armodafinil 150 mg/day, for insomnia in breast cancer patients. The contribution of armodafinil is unclear, and no results were available. |
-| [NCT02552303](https://clinicaltrials.gov/study/NCT02552303) | Not applicable | Completed | 39 | Armodafinil, CBT-I, or both for insomnia with obstructive sleep apnea, looking at sleep continuity and adherence to CBT-I and CPAP. Small, comorbid population. |
+| [NCT01091974](https://clinicaltrials.gov/study/NCT01091974) | Phase 2 | Completed | 138 | Four-arm randomized trial of CBT-I with or without armodafinil for insomnia and fatigue after chemotherapy in breast cancer patients. It is the most direct and largest trial, and its design isolates the armodafinil contribution. No results were provided. |
+| [NCT01011218](https://clinicaltrials.gov/study/NCT01011218) | Phase 2 | Completed | 70 | Pilot study of brief behavioral therapy or CBT-I, with or without armodafinil 150 mg/day, for insomnia in breast cancer patients expecting cancer treatment. No results were provided. |
+| [NCT02552303](https://clinicaltrials.gov/study/NCT02552303) | Not applicable | Completed | 39 | Armodafinil, CBT-I, or both for insomnia comorbid with sleep-disordered breathing, assessing sleep continuity and adherence to CBT-I and CPAP. Small sample and comorbid population. |
 
 ---
 
@@ -84,34 +81,23 @@ The very high TxGNN score (99.89%) is a computational prediction. It should not 
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [21904092](https://pubmed.ncbi.nlm.nih.gov/21904092/) | 2011 | Review | Postgraduate Medicine | Overview of emerging theories and therapies for shift work disorder, which involves excessive sleepiness during work and/or insomnia during scheduled sleep. |
-| [17181377](https://pubmed.ncbi.nlm.nih.gov/17181377/) | 2006 | Review | Drugs | Burden of illness and management approaches for shift work sleep disorder. The condition is common but under-recognised and undertreated. |
-
-Both publications are reviews of shift work disorder. They address sleepiness and sleep disruption in shift workers, not insomnia treatment with armodafinil directly.
+| [17181377](https://pubmed.ncbi.nlm.nih.gov/17181377/) | 2006 | Review | Drugs | Burden of illness and management approaches for shift work sleep disorder. It addresses a related condition, not insomnia directly. |
+| [21904092](https://pubmed.ncbi.nlm.nih.gov/21904092/) | 2011 | Review | Postgraduate Medicine | Emerging theories and therapies for shift work disorder, a circadian rhythm sleep disorder marked by sleepiness at work and/or insomnia during scheduled sleep. |
 
 ---
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA021875 | Nuvigil (Golden State Medical Supply, Inc.) | Tablet | Not available; status cancelled |
-| ANDA206069 | Armodafinil (Direct_Rx) | Tablet | Not available; status cancelled |
-| ANDA202768 | Armodafinil (Natco Pharma USA LLC) | Tablet | Not available; status cancelled |
-| ANDA200043 | Armodafinil (Mylan Pharmaceuticals Inc.) | Tablet | Not available; status cancelled |
-
-All four authorizations are for oral tablets and all are listed as cancelled.
+The drug is marketed in the United States as oral tablets. The local records list authorizations from several manufacturers. The list may be partial.
 
 ---
 
 ## Safety Considerations
 
-- **Knowledge-graph contraindication signals** (from the TxGNN knowledge graph, not from label text): hypertension and hypertensive disorder, liver failure, anxiety disorder, neurotic disorder, dysthymic disorder, psychotic disorder, schizophreniform disorder, schizoaffective disorder, mental disorder, mitral valve prolapse (including familial forms), congenital mitral valve insufficiency, and postural orthostatic tachycardia syndrome.
-- **Drug Interactions**: The interaction query returned 100 interactions in total, and the first 20 are shown here.
-  - **Moderate**: rabeprazole, esomeprazole, cisapride, dexamethasone, eliglustat, linagliptin.
-  - **Minor**: hydrocortisone, pioglitazone, aprepitant, triamcinolone, betamethasone, cimetidine, clarithromycin, clotrimazole, dronabinol, granisetron, miconazole, naldemedine, naloxegol, nitisinone.
+- **Drug Interactions**: The interaction query returned 100 records. Examples at moderate level include rabeprazole, esomeprazole, cisapride, dexamethasone, eliglustat and linagliptin. Many others, such as hydrocortisone, pioglitazone, aprepitant, cimetidine and clarithromycin, are minor.
+- **Conditions of concern**: Records compiled for this report flag hypertension, liver failure, anxiety and other psychiatric disorders (including psychotic and schizoaffective disorders), and mitral valve prolapse. These are not taken from label text and should be checked against the package insert.
 
-Package insert warnings and contraindications were not available for this report. Please refer to the package insert for the full safety information.
+Please refer to the package insert for warnings and contraindications.
 
 ---
 
@@ -120,14 +106,13 @@ Package insert warnings and contraindications were not available for this report
 **Decision: Hold**
 
 **Rationale:**
-The mechanism of armodafinil (wakefulness-promoting) is opposite to what insomnia treatment needs. The trials use it for comorbid fatigue and sleepiness alongside CBT-I, and none has available results showing benefit for insomnia itself. The high model score is not sufficient on its own. All US authorizations are also cancelled.
+The three trials involve insomnia populations, but armodafinil is mainly used there for fatigue and sleepiness alongside CBT-I, and no results were provided. Its wakefulness-promoting mechanism is opposite to a hypnotic effect, so the high prediction score is not enough on its own to support a recommendation.
 
 **To proceed, the following is needed:**
-- Results from NCT01091974, NCT01011218 and NCT02552303, to see whether armodafinil improved insomnia outcomes or only fatigue and sleepiness
-- Mechanism-of-action data and a clear explanation of how a wakefulness-promoting drug could benefit insomnia
-- FDA package insert warnings and contraindications for a full safety screening
-- Review of the knowledge-graph contraindication signals (cardiovascular, psychiatric, liver) against a population with insomnia
-- Clarification of the US regulatory status, since all four authorizations are cancelled
+- Published results of NCT01091974 and NCT01011218, especially insomnia outcomes in the armodafinil versus non-armodafinil arms
+- Mechanism-of-action data that explain how a wakefulness-promoting drug could help insomnia
+- Package insert warnings and contraindications, with attention to cardiovascular and psychiatric conditions
+- A safety plan for patients with hypertension, psychiatric disorders or liver impairment
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

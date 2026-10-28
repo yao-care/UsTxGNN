@@ -48,10 +48,10 @@ In nearly all of these studies, fludarabine is a conditioning or lymphodepletion
 |------|------|
 | Original Indication | Not available in the data compiled for this report (the US license records contain no indication text) |
 | Predicted New Indication | Plasma cell myeloma |
-| TxGNN Prediction Score | 99.82% |
+| TxGNN Prediction Score | 0.9982 |
 | Evidence Level | L2 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 4 (all cancelled; these are generic ANDA records) |
+| US Market Status | Marketed (valid licenses: 4 of 4) |
+| Number of NDAs | 4 (valid: 4) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
@@ -139,7 +139,7 @@ Fludarabine is firmly embedded in conditioning and lymphodepletion regimens for 
 - Mechanism-of-action data from DrugBank
 - Studies that separate fludarabine's own contribution from the rest of the conditioning or CAR-T regimen
 - A hematologic and neurotoxicity monitoring plan, with attention to fludarabine exposure and CAR-T toxicity
-- Clarification of current US availability, since all four generic licenses are cancelled
+- Clarification of current US availability: 4 of 4 licenses are valid, and the drug is marketed
 
 **Other predicted indications (for reference):**
 - **Indolent plasma cell myeloma** and **myelodysplastic syndrome** also carry L2 evidence and Proceed with Guardrails, with fludarabine again as a transplant conditioning component. Their evidence includes a randomized Phase 3 comparison of treosulfan vs busulfan, each with fludarabine, in older AML/MDS patients (PMID 31606445).

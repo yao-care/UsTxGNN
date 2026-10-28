@@ -48,9 +48,9 @@ but there are **0 clinical trials** and only indirect literature (**20 publicati
 |------|------|
 | Original Indication | Vitamin deficiency disorder; folic acid deficiency anemia (other anemias: iron deficiency, hypochromic, deficiency, microcytic) |
 | Predicted New Indication | Biotin metabolic disease |
-| TxGNN Prediction Score | 99.49% |
+| TxGNN Prediction Score | 0.9949 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 8) |
 | Number of NDAs | 8 (all cancelled) |
 | Recommended Decision | Hold |
 
@@ -58,7 +58,7 @@ but there are **0 clinical trials** and only indirect literature (**20 publicati
 
 Detailed mechanism of action data is not available for this report. Folic acid is a water-soluble B vitamin that serves as a cofactor in one-carbon metabolism, supporting nucleotide synthesis and methylation. Its efficacy in correcting folate deficiency and the related anemias is well established.
 
-Biotin (vitamin B7) is also a water-soluble B vitamin. It acts as the cofactor for carboxylases involved in fatty acid synthesis, gluconeogenesis and amino acid catabolism. The two vitamins sit in metabolically adjacent pathways, and the retrieved literature often discusses B vitamins together (for example, vitamin-responsive disorders and vitamins in metabolic disease). The model's high score likely reflects this closeness in the knowledge-graph network.
+Biotin (vitamin B7) is also a water-soluble B vitamin. It acts as the cofactor for carboxylases involved in fatty acid synthesis, gluconeogenesis and amino acid catabolism. The two vitamins sit in metabolically adjacent pathways, and the retrieved literature often discusses B vitamins together (for example, vitamin-responsive disorders and vitamins in metabolic disease). The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 This is a pathway-level association only. Folic acid does not replace biotin and would not correct biotinidase or holocarboxylase synthetase deficiency, which are the usual causes of biotin metabolic disease. The prediction is therefore not supported by clinical data and should be treated as a hypothesis.
 
@@ -85,7 +85,7 @@ None of the retrieved publications tests folic acid in biotin metabolic disease.
 
 ## US Market Information
 
-All eight US authorizations for folic acid are cancelled, and no approved indication text is recorded for them.
+All eight US authorizations for folic acid are valid, and no approved indication text is recorded for them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -111,7 +111,7 @@ For definitive safety information, please refer to the package insert.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score and general vitamin reviews. There are no clinical trials and no direct evidence (Evidence Level L5). Folic acid does not substitute for biotin and would not correct the usual enzymatic causes of biotin metabolic disease. In addition, all US licenses are cancelled and the package insert safety data are missing.
+The prediction is supported only by a model score and general vitamin reviews. There are no clinical trials and no direct evidence (Evidence Level L5). Folic acid does not substitute for biotin and would not correct the usual enzymatic causes of biotin metabolic disease. In addition, although the drug is marketed in the US with eight valid licenses, the package insert safety data are missing.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the FDA label, which is currently a blocking gap for safety screening

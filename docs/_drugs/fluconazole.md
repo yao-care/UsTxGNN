@@ -48,9 +48,9 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Oral candidiasis, candidiasis, vulvovaginal candidiasis, esophageal candidiasis, cryptococcal meningitis, candidemia, disseminated candidiasis |
 | Predicted New Indication | Punctate epithelial keratoconjunctivitis |
-| TxGNN Prediction Score | 99.24% |
+| TxGNN Prediction Score | 0.9924 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 10) |
 | Number of NDAs | 10 authorizations in total (1 NDA, 9 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
@@ -60,7 +60,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 A plausible link to the new indication would be a fungal cause or fungal co-infection of the ocular surface. However, punctate epithelial keratoconjunctivitis is most often caused by viral (e.g., adenoviral), bacterial, toxic or dry-eye-related mechanisms. An antifungal rationale is therefore not established, and any link is speculative.
 
-The high model score (0.992) is not clinical evidence. One way to test the prediction would be to check whether it is driven by a related node, such as fungal keratitis, in the knowledge graph.
+The high model score (0.9924) comes from the TxGNN model (deep learning) and is not clinical evidence. It may reflect similarities the model learned between related diseases, not biological evidence. One way to test the prediction would be to check whether it is driven by a related disease, such as fungal keratitis.
 
 ## Clinical Trial Evidence
 
@@ -72,7 +72,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-All authorizations listed below are cancelled; none is currently valid. Only 5 of the 10 are shown. Approved indication text was not available for any of them.
+The drug is marketed, with 10 valid authorizations. Only 5 of the 10 are shown below. Approved indication text was not available for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -100,10 +100,10 @@ Package insert warnings and contraindications were not available. Please refer t
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score. There are no clinical trials or publications, the mechanistic link to a mainly viral, bacterial, toxic or dry-eye-related condition is weak, and all US authorizations are cancelled.
+The prediction rests only on a model score from the TxGNN model (deep learning). There are no clinical trials or publications, the mechanistic link to a mainly viral, bacterial, toxic or dry-eye-related condition is weak, and the drug is marketed with 10 valid authorizations in this country.
 
 **To proceed, the following is needed:**
-- Review the knowledge-graph paths behind the prediction (e.g., a fungal keratitis link)
+- Review the related-disease similarities the TxGNN model (deep learning) may have learned behind the prediction (e.g., a fungal keratitis link)
 - Literature and trial searches for fluconazole in ocular surface disease
 - Mechanism of action data and a clearer rationale for this indication
 - Assessment of route compatibility (systemic vs. ocular delivery)

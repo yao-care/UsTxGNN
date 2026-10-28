@@ -4,7 +4,7 @@ title: Emapalumab
 parent: Model Prediction Only (L5)
 nav_order: 648
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-14
 description: "Emapalumab: predicted new indication Autosomal recessive familial Mediterranean fever (evidence level L5). Approved use: Hemophagocytic lymphohistiocytosis / hemophagocytic syndrome"
 monitor_inn: "EMAPALUMAB"
@@ -14,7 +14,7 @@ predicted_indications: ["autosomal recessive familial Mediterranean fever", "hep
 # Emapalumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **autosomal recessive familial 
 |------|------|
 | Original Indication | Hemophagocytic lymphohistiocytosis / hemophagocytic syndrome |
 | Predicted New Indication | Autosomal recessive familial Mediterranean fever |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (per the data compiled for this report) |
-| Number of NDAs | 1 (a BLA, BLA761107) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -99,7 +99,7 @@ The prediction has no supporting trials or literature, and IFN-γ blockade has o
 - Detailed mechanism-of-action data and the FDA package insert warnings and contraindications
 - Confirmation of the current US regulatory and marketing status of GAMIFANT
 
-**Note on other predictions:** Among the other TxGNN predictions for this drug, **hemophagocytic syndrome associated with an infection** has the most supporting material (score 99.99%, L4, "Research Question"). It has about 20 publications, including case series on EBV-associated HLH, reviews, and the pivotal primary HLH study (PMID 32374962), but no registered trials. **Malignancy-associated HLH** is also supported indirectly by a 2026 real-world study (PMID 41337692, REAL-HLH). Both are biologically closer to the original HLH indication, and either would be a stronger candidate than FMF for further evaluation.
+**Note on other predictions:** Among the other TxGNN predictions for this drug, **hemophagocytic syndrome associated with an infection** has the most supporting material (score 0.9999, L4, "Research Question"). It has about 20 publications, including case series on EBV-associated HLH, reviews, and the pivotal primary HLH study (PMID 32374962), but no registered trials. **Malignancy-associated HLH** is also supported indirectly by a 2026 real-world study (PMID 41337692, REAL-HLH). Both are biologically closer to the original HLH indication, and either would be a stronger candidate than FMF for further evaluation.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

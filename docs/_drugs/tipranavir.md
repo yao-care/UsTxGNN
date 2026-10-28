@@ -4,17 +4,17 @@ title: Tipranavir
 parent: Model Prediction Only (L5)
 nav_order: 1232
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-14
-description: "Tipranavir: predicted new indication Simian immunodeficiency virus infection (evidence level L5). Approved use: HIV infectious disease"
+indication_count: 8
+last_modified_at: 2026-10-28
 monitor_inn: "TIPRANAVIR"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "fibroma of prostate", "Brenner tumor", "benign reproductive system neoplasm", "benign prostate phyllodes tumor"]
+description: "Tipranavir: predicted new indication Simian immunodeficiency virus infection (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Tipranavir
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Tipranavir: From HIV Infection to Simian Immunodeficiency Virus Infection
+## Tipranavir: Simian immunodeficiency virus infection
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,24 +46,23 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 | Item | Content |
 |------|------|
-| Original Indication | HIV infectious disease; AIDS |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Simian immunodeficiency virus infection |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no active marketing authorization) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general drug knowledge, tipranavir is a non-peptidic HIV-1 protease inhibitor. Its efficacy in HIV infection is established, and mechanistically it may be applicable to simian immunodeficiency virus (SIV).
 
-SIV is a closely related lentivirus with a homologous protease, so activity is biologically plausible. However, SIV infection is a veterinary and preclinical model disease, not a human clinical indication. The very high TxGNN score most likely reflects proximity in the knowledge graph to the approved HIV indication rather than independent evidence. The mechanistic reasoning above is inferred from general knowledge only, since no trials or literature were available.
+SIV is a closely related lentivirus with a homologous protease, so activity is biologically plausible. However, SIV infection is a veterinary and preclinical model disease, not a human clinical indication. The very high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, such as the approved HIV indication, not biological evidence. The mechanistic reasoning above is inferred from general knowledge only, since no trials or literature were available.
 
 Other top-ranked predictions are weaker still:
-- **Feline acquired immunodeficiency syndrome** (99.99%): the feline virus protease differs from HIV-1 protease, so cross-reactivity is uncertain.
-- **Congenital HIV** and **AIDS related complex** (99.83%): both fall within the existing HIV indication, so neither is a true repurposing opportunity.
-- **Familial combined hyperlipidemia (obsolete term)** (99.93%): tipranavir is associated with raised triglycerides and cholesterol, so this link reflects an adverse effect, not a therapeutic benefit.
+- **Feline acquired immunodeficiency syndrome** (0.9999): the feline virus protease differs from HIV-1 protease, so cross-reactivity is uncertain.
+- **Familial combined hyperlipidemia (obsolete term)** (0.9993): tipranavir is associated with raised triglycerides and cholesterol, so this link reflects an adverse effect, not a therapeutic benefit.
 - **Rare neurodevelopmental disorder, prostate fibroma, Brenner tumor, benign reproductive neoplasm and benign prostate phyllodes tumor**: no plausible mechanistic rationale was identified. These appear to be model artifacts.
 
 ## Clinical Trial Evidence
@@ -78,7 +77,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA021814 | Aptivus | Capsule, liquid filled (oral) | Not specified (status: cancelled) |
+| NDA021814 | Aptivus | Capsule, liquid filled (oral) | Not specified (status: valid) |
 
 ## Safety Considerations
 

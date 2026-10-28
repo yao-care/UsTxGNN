@@ -6,9 +6,9 @@ nav_order: 1050
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Piroxicam: predicted new indication Colobomatous microphthalmia-rhizomelic dysplasia syndrome . The best-… (evidence level L5). Approved use: Rheumatoid arthritis, osteoarthritis"
 monitor_inn: "PIROXICAM"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "WHIM syndrome", "rheumatoid nodulosis", "juvenile idiopathic arthritis"]
+description: "Piroxicam: predicted new indication Colobomatous microphthalmia-rhizomelic dysplasia syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Piroxicam
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Piroxicam: From Rheumatoid Arthritis to Juvenile Idiopathic Arthritis
+## Piroxicam: Colobomatous microphthalmia-rhizomelic dysplasia syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,11 +45,11 @@ The TxGNN model's top-ranked prediction is a rare skeletal and ocular syndrome w
 
 | Item | Content |
 |------|------|
-| Original Indication | Rheumatoid arthritis, osteoarthritis (from the knowledge graph; no approved-indication text is available from US labels) |
-| Predicted New Indication | Colobomatous microphthalmia-rhizomelic dysplasia syndrome (rank 1; no supporting evidence). The best-supported candidate is juvenile idiopathic arthritis (rank 10) |
-| TxGNN Prediction Score | 99.996% (rank 1); 99.93% (juvenile idiopathic arthritis) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Colobomatous microphthalmia-rhizomelic dysplasia syndrome |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 (rank 1); L3 (juvenile idiopathic arthritis) |
-| US Market Status | Cancelled only |
+| US Market Status | Marketed (valid licenses on record: at least 7) |
 | Number of NDAs | 7 (all ANDA generics, all cancelled) |
 | Recommended Decision | Hold (rank 1); Proceed with Guardrails is suggested only for the JIA research question |
 
@@ -57,7 +57,7 @@ The TxGNN model's top-ranked prediction is a rare skeletal and ocular syndrome w
 
 Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, piroxicam is an NSAID that inhibits cyclo-oxygenase (COX-1/COX-2) and reduces prostaglandin-mediated inflammation. This is the same mechanism that underlies its use in rheumatoid arthritis and osteoarthritis.
 
-**Top-ranked prediction (colobomatous microphthalmia-rhizomelic dysplasia syndrome):** No mechanistic link was identified. This is a rare developmental skeletal and ocular syndrome, and COX inhibition would not be expected to alter its course. The very high score is most likely a knowledge-graph artifact. The same applies to the other top-ranked predictions (brachydactyly-syndactyly syndrome, Hunter-Thompson acromesomelic dysplasia, brachyolmia and related syndromes, pseudoachondroplasia, WHIM syndrome). Myosclerosis and rheumatoid nodulosis have at most weak, indirect plausibility.
+**Top-ranked prediction (colobomatous microphthalmia-rhizomelic dysplasia syndrome):** No mechanistic link was identified. This is a rare developmental skeletal and ocular syndrome, and COX inhibition would not be expected to alter its course. The very high score is most likely a TxGNN model (deep learning) artifact. The same applies to the other top-ranked predictions (brachydactyly-syndactyly syndrome, Hunter-Thompson acromesomelic dysplasia, brachyolmia and related syndromes, pseudoachondroplasia, WHIM syndrome). Myosclerosis and rheumatoid nodulosis have at most weak, indirect plausibility.
 
 **Best-supported prediction (juvenile idiopathic arthritis):** JIA is an inflammatory arthropathy in which NSAIDs are used as symptomatic first-line therapy. The existing literature includes piroxicam head-to-head studies against naproxen in children, as well as pediatric pharmacokinetic data. This is better described as an extension within the same anti-inflammatory class than as a true repurposing. The evidence is also old (1986–1991).
 
@@ -116,7 +116,7 @@ Package insert warnings and contraindications were not available in the data com
 
 **Rationale:**
 - The highest-scoring predictions are rare genetic skeletal, ocular, or immune syndromes with no trials, no literature, and no plausible COX-inhibition rationale, so they look like model artifacts (L5).
-- Juvenile idiopathic arthritis has some support (L3), but the evidence is dated, there are no registered trials, and it is essentially an extension of the existing NSAID class use rather than a new repurposing. All US generic authorizations are cancelled, which limits practical availability.
+- Juvenile idiopathic arthritis has some support (L3), but the evidence is dated, there are no registered trials, and it is essentially an extension of the existing NSAID class use rather than a new repurposing. The drug is marketed in the US, with 7 valid licenses.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

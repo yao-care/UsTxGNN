@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Arnica Montana Root Calcium Fluoride Calcium Iodid
@@ -49,7 +50,7 @@ This candidate is a complex 8-component botanical and mineral formula — includ
 | Predicted New Indication | None — TxGNN returned no predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | Unassessable (model prediction not generated) |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 6) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

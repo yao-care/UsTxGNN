@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Danazol
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 567
-evidence_level: L3
+evidence_level: L5
 indication_count: 10
 monitor_inn: "DANAZOL"
 predicted_indications: ["amenorrhea (disease)", "benign mammary dysplasia", "apocrine adenosis of breast", "blunt duct adenosis of breast", "breast abscess", "fat necrosis of breast", "lactation disease", "breast adenosis", "vulvovaginitis", "vulvitis"]
 last_modified_at: 2026-10-14
-description: "Danazol: predicted new indication Amenorrhea (menstrual suppression) (evidence level L3). Approved use: Endometriosis, endometriosis of uterus, breast fibrocystic disease"
+description: "Danazol: predicted new indication Amenorrhea (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Danazol
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-## Danazol: From Endometriosis to Amenorrhea (Menstrual Suppression)
+## Danazol: Amenorrhea (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,12 +47,12 @@ The TxGNN model predicts it may be useful for **Amenorrhea** (therapeutic menstr
 
 | Item | Content |
 |------|------|
-| Original Indication | Endometriosis, endometriosis of uterus, breast fibrocystic disease |
-| Predicted New Indication | Amenorrhea (menstrual suppression) |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L3 |
-| US Market Status | Cancelled only (no active authorizations) |
-| Number of NDAs | 3 (all cancelled; listed as ANDAs) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Amenorrhea (disease) |
+| TxGNN Prediction Score | 1.0000 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 3 of 3) |
+| Number of NDAs | 3 (valid: 3) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---
@@ -94,11 +94,10 @@ Currently no related clinical trials registered.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA078214 | Danazol (Lannett Company) | Capsule | Not available (cancelled) |
-| ANDA074582 | Danazol (Teva Pharmaceuticals USA) | Capsule | Not available (cancelled) |
-| ANDA077246 | Danazol (Chartwell RX) | Capsule | Not available (cancelled) |
+| ANDA078214 | Danazol (Lannett Company) | Capsule | Not available (valid) |
+| ANDA074582 | Danazol (Teva Pharmaceuticals USA) | Capsule | Not available (valid) |
+| ANDA077246 | Danazol (Chartwell RX) | Capsule | Not available (valid) |
 
-All three authorizations are cancelled, so no active US product is currently listed.
 
 ---
 
@@ -119,14 +118,13 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-The mechanism of menstrual suppression is the same one that underlies danazol's established use in endometriosis, and a 2024 cohort study supports its practical use. However, there are no registered trials, much of the literature is old, and all US authorizations are cancelled.
+The mechanism of menstrual suppression is the same one that underlies danazol's established use in endometriosis, and a 2024 cohort study supports its practical use.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (currently a blocking data gap)
 - Detailed mechanism-of-action data
 - Prospective or controlled data on menstrual suppression, including comparison with standard options such as continuous hormonal contraception and GnRH analogues
 - Safety plan covering androgenic effects, teratogenicity (pregnancy exclusion and contraception), liver function, lipids, and interacting drugs
-- Clarification of product availability, since all US authorizations are cancelled
 
 ---
 
@@ -135,7 +133,7 @@ The mechanism of menstrual suppression is the same one that underlies danazol's 
 | Rank | Predicted Indication | Evidence Level | Recommendation |
 |------|------|------|------|
 | 2 | Benign mammary dysplasia | L3 | Proceed with Guardrails |
-| 3 | Apocrine adenosis of breast | L4 | Research Question |
+| 3 | Apocrine adenosis of breast | L5 | Research Question |
 | 4 | Blunt duct adenosis of breast | L5 | Hold |
 | 5 | Breast abscess | L4 | Hold |
 | 6 | Fat necrosis of breast | L5 | Hold |

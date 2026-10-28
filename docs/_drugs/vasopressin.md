@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Vasopressin
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1285
-evidence_level: L4
+evidence_level: L5
 indication_count: 2
 monitor_inn: "VASOPRESSIN"
 predicted_indications: ["congenital prothrombin deficiency", "drug-induced osteoporosis"]
@@ -14,7 +14,7 @@ description: "Vasopressin: predicted new indication Congenital prothrombin defic
 # Vasopressin
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **2** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **congenital prothrombin defici
 |------|------|
 | Original Indication | Not available in the compiled data |
 | Predicted New Indication | Congenital prothrombin deficiency |
-| TxGNN Prediction Score | 99.63% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (all listed authorizations are cancelled) |
+| TxGNN Prediction Score | 0.9963 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 9) |
 | Number of NDAs | 9 (authorizations listed, including NDAs and ANDAs) |
 | Recommended Decision | Hold |
 
@@ -57,7 +57,7 @@ The TxGNN model predicts it may be effective for **congenital prothrombin defici
 
 Currently, detailed mechanism of action data is not available. Based on general pharmacology, vasopressin and its analog desmopressin (DDAVP) raise plasma factor VIII and von Willebrand factor by stimulating V2-receptor-mediated release from endothelial cells. This is a plausible route for some rare bleeding disorders.
 
-However, prothrombin (factor II) is not known to be released through this pathway, so the mechanistic link to congenital prothrombin deficiency is weak. The supplied literature concerns factor VIII and factor V deficiencies and acquired hemophilia A, not prothrombin deficiency. The very high TxGNN score most likely reflects a shared coagulation-disorder neighborhood in the knowledge graph rather than a direct mechanism.
+However, prothrombin (factor II) is not known to be released through this pathway, so the mechanistic link to congenital prothrombin deficiency is weak. The supplied literature concerns factor VIII and factor V deficiencies and acquired hemophilia A, not prothrombin deficiency. The very high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 One caveat: the cited case reports concern desmopressin, a distinct analog, not vasopressin itself. Their findings cannot be assumed to transfer.
 
@@ -73,15 +73,15 @@ No clinical trials are registered for this indication, so the clinical trial sec
 
 ## US Market Information
 
-All nine authorizations in the compiled data are cancelled, and approved indication text is not available for any of them.
+The compiled data lists nine valid authorizations, and approved indication text is not available for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| NDA217569 | Vasopressin in 0.9% Sodium Chloride (Baxter Healthcare) | Injection | Cancelled |
-| ANDA213206 | Vasopressin (Fresenius Kabi USA) | Injection, solution | Cancelled |
-| ANDA214314 | Vasopressin (Eugia US) | Injection | Cancelled |
-| ANDA216963 | Vasopressin (Gland Pharma) | Injection | Cancelled |
-| NDA204485 | Vasostrict (Par Health USA) | Injection | Cancelled |
+| NDA217569 | Vasopressin in 0.9% Sodium Chloride (Baxter Healthcare) | Injection | Valid |
+| ANDA213206 | Vasopressin (Fresenius Kabi USA) | Injection, solution | Valid |
+| ANDA214314 | Vasopressin (Eugia US) | Injection | Valid |
+| ANDA216963 | Vasopressin (Gland Pharma) | Injection | Valid |
+| NDA204485 | Vasostrict (Par Health USA) | Injection | Valid |
 
 Four additional cancelled authorizations are on record (Amneal, Civica, Amphastar, Long Grove).
 
@@ -102,17 +102,17 @@ Package insert warnings and contraindications were not available. Please refer t
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is high (99.63%), but there are no clinical trials and the literature is only weakly related, covering other factor deficiencies and a different drug (desmopressin). Prothrombin is not known to be released through the vasopressin/V2 pathway. The evidence supports only an L4 level, and a critical safety data gap remains.
+The TxGNN score is high (0.9963), but there are no clinical trials and the literature is only weakly related, covering other factor deficiencies and a different drug (desmopressin). Prothrombin is not known to be released through the vasopressin/V2 pathway. The evidence supports only an L4 level, and a critical safety data gap remains.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications, which block safety screening
 - Mechanism of action data, such as from DrugBank
-- Original approved indication text, and clarification of why all US authorizations are cancelled
+- Original approved indication text, which is not available for the nine valid US authorizations
 - Evidence of a direct biological link between vasopressin and prothrombin (factor II) levels or activity
 - Evidence specific to vasopressin, not desmopressin, in congenital prothrombin deficiency
 - A review of the full drug interaction list for the intended patient population
 
-**Note on the second prediction:** The model also predicted **drug-induced osteoporosis** (score 99.62%, evidence level L5). No clinical trials or literature support it, and vasopressin would not be expected to treat this condition. Its vasoconstrictive and antidiuretic effects raise safety concerns for chronic use. The recommendation for this indication is also Hold.
+**Note on the second prediction:** The model also predicted **drug-induced osteoporosis** (score 0.9962, evidence level L5). No clinical trials or literature support it, and vasopressin would not be expected to treat this condition. Its vasoconstrictive and antidiuretic effects raise safety concerns for chronic use. The recommendation for this indication is also Hold.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

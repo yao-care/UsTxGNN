@@ -4,17 +4,17 @@ title: Dorzolamide
 parent: Model Prediction Only (L5)
 nav_order: 623
 evidence_level: L5
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-14
-description: "Dorzolamide: predicted new indication Primary hereditary glaucoma (evidence level L5). Approved use: Open-angle glaucoma"
 monitor_inn: "DORZOLAMIDE"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "alopecia", "diffuse alopecia areata", "congestive heart failure", "acute pulmonary heart disease", "respiratory failure"]
+description: "Dorzolamide: predicted new indication Hypotrichosis simplex of the scalp (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Dorzolamide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,23 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Dorzolamide: From Open-Angle Glaucoma to Primary Hereditary Glaucoma
+## Dorzolamide: Hypotrichosis simplex of the scalp
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Dorzolamide is a topical carbonic anhydrase inhibitor, originally used to lower eye pressure in open-angle glaucoma and ocular hypertension.
-The TxGNN model predicts it may be effective for **primary hereditary glaucoma** (score 99.99%), but there are currently **0 clinical trials** and **0 publications** for this specific indication, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Open-angle glaucoma; ocular hypertension |
-| Predicted New Indication | Primary hereditary glaucoma |
-| TxGNN Prediction Score | 99.99% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Hypotrichosis simplex of the scalp |
+| TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L5 (model prediction only) |
-| US Market Status | Cancelled only (no currently valid license in the data) |
-| Number of NDAs | 9 (all listed as cancelled) |
+| US Market Status | Marketed (valid licenses: 9 of 9) |
+| Number of NDAs | 9 (valid: 9) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -71,7 +70,7 @@ Currently no related literature available for primary hereditary glaucoma.
 
 ## US Market Information
 
-All 9 US authorizations are generic ANDAs with status "cancelled". The data compiled for this report contain no approved-indication text for them. The first 5 are shown.
+The data compiled for this report contain no approved-indication text for them. The first 5 are shown.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
@@ -92,11 +91,11 @@ All 9 US authorizations are generic ANDAs with status "cancelled". The data comp
 **Decision: Hold**
 
 **Rationale:**
-The prediction for primary hereditary glaucoma has a very high model score and a plausible mechanism, but no clinical trials or publications support it (L5). All 9 US licenses are cancelled, so current availability is unclear. Separately, the open-angle glaucoma predictions have much stronger evidence (L1: Phase 3 and Phase 4 trials, systematic reviews). That evidence confirms the original indication rather than supporting new repurposing. The other predictions (alopecia, hypotrichosis, congestive heart failure, respiratory conditions) have no supporting mechanism or evidence.
+Separately, the open-angle glaucoma predictions have much stronger evidence (L1: Phase 3 and Phase 4 trials, systematic reviews). That evidence confirms the original indication rather than supporting new repurposing. The other predictions (alopecia, hypotrichosis, congestive heart failure, respiratory conditions) have no supporting mechanism or evidence.
 
 **To proceed, the following is needed:**
 - Clinical or literature evidence of IOP-lowering with dorzolamide in hereditary or primary congenital glaucoma. A Phase 2 pediatric glaucoma trial (NCT01527682) exists and could be reviewed for relevance.
-- Confirmation of current US availability, since all listed ANDAs are cancelled. Other dorzolamide products and combinations (e.g., dorzolamide/timolol) should also be checked.
+- Other dorzolamide products and combinations (e.g., dorzolamide/timolol) should also be checked.
 - Package insert warnings and contraindications, including sulfonamide hypersensitivity.
 - Detailed mechanism-of-action data to strengthen the mechanistic-link analysis.
 ## Disclaimer

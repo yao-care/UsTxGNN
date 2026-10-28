@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Aluminum Hydroxide Magnesium Hydroxide
@@ -55,7 +56,7 @@ This report documents the data gaps and recommends remediation steps before re-e
 | Predicted New Indication | No prediction generated |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | Not assessable (no predictions) |
-| Market Status | Not marketed (0 authorizations found) |
+| Market Status | Marketed (valid licenses on record: at least 14) |
 | Number of Authorizations | 0 |
 | Recommended Decision | **Hold** |
 

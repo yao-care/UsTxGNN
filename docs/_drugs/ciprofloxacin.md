@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Ciprofloxacin
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 531
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Ciprofloxacin: predicted new indication Diffuse scleroderma (evidence level L4). Approved use: Bacterial infections (typhoid fever, salmonellosis…"
@@ -14,7 +14,7 @@ predicted_indications: ["diffuse scleroderma", "polyclonal hyperviscosity syndro
 # Ciprofloxacin
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -39,7 +39,7 @@ Evidence Level: **L4** | Predicted Indications: **10**
 ## One-Sentence Summary
 
 Ciprofloxacin is a fluoroquinolone antibiotic, originally used for bacterial infections such as typhoid fever, bacterial pneumonia, anthrax, and infectious diarrhoea.
-The TxGNN model predicts it may be effective for **diffuse scleroderma** (score 99.87%), but there are **no registered clinical trials** and only **2 publications**, both indirect or exploratory, supporting this direction. The evidence is model-driven and weak.
+The TxGNN model predicts it may be effective for **diffuse scleroderma** (score 0.9987), but there are **no registered clinical trials** and only **2 publications**, both indirect or exploratory, supporting this direction. The evidence is model-driven and weak.
 
 ## Quick Overview
 
@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **diffuse scleroderma** (score 
 |------|------|
 | Original Indication | Bacterial infections (typhoid fever, salmonellosis, bacterial pneumonia, anthrax, Pseudomonas aeruginosa infection, dysentery, shigellosis, among others) |
 | Predicted New Indication | Diffuse scleroderma |
-| TxGNN Prediction Score | 99.87% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (all licences cancelled) |
+| TxGNN Prediction Score | 0.9987 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 8) |
 | Number of NDAs | 8 (1 NDA, 7 ANDAs; all cancelled) |
 | Recommended Decision | Hold |
 
@@ -77,7 +77,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All eight US authorisations are cancelled, and none has approved-indication text on record.
+All eight US authorizations are valid, and none has approved-indication text on record.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -118,7 +118,7 @@ The TxGNN score is very high, but no clinical trials exist, the supporting liter
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Clinical evidence for ciprofloxacin in systemic sclerosis small bowel bacterial overgrowth, in comparison with other antibiotics
 - A benefit-risk assessment, given the tendon, neuropathy, QT, and corticosteroid interaction risks
-- A decision on whether a re-listed US product is available, as all current licences are cancelled
+- A decision on whether a re-listed US product is available, as the drug is marketed with 8 valid licenses
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

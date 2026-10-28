@@ -8,7 +8,7 @@ indication_count: 3
 monitor_inn: "TROPICAMIDE"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome"]
 last_modified_at: 2026-10-14
-description: "Tropicamide: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Cycloplegia"
+description: "Tropicamide: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Tropicamide
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-## Tropicamide: From Cycloplegia to Cauda Equina Syndrome
+## Tropicamide: Cauda equina syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 | Item | Content |
 |------|------|
-| Original Indication | Cycloplegia |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Cauda equina syndrome |
-| TxGNN Prediction Score | 99.53% |
+| TxGNN Prediction Score | 0.9953 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 5 (all ANDA, all cancelled) |
+| US Market Status | Marketed (valid licenses: 5 of 5) |
+| Number of NDAs | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,11 +60,11 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 The possible link to cauda equina syndrome is indirect. Antimuscarinic drugs can suppress detrusor overactivity, so a drug of this class could in theory help with bladder dysfunction secondary to cauda equina syndrome. However, cauda equina syndrome is mainly a surgical emergency treated by decompression. Any drug role would be limited to symptomatic bladder management, not treatment of the underlying nerve root compression.
 
-There are also practical limits. Tropicamide is formulated only as an ophthalmic solution with minimal systemic exposure, so reaching meaningful levels in the bladder at topical doses is unlikely. The very high model score (0.995) is a computational prediction only.
+There are also practical limits. Tropicamide is formulated only as an ophthalmic solution with minimal systemic exposure, so reaching meaningful levels in the bladder at topical doses is unlikely. The very high model score (0.9953) is a computational prediction only.
 
 Two other predictions from the same model show the same pattern, both with no trials or literature and both rated Hold:
-- **Obsolete neurogenic bladder** (score 99.13%): the class rationale is coherent (antimuscarinics such as oxybutynin are established), but tropicamide has low systemic absorption and a short duration of action, and the disease term is obsolete in the ontology.
-- **Irritable bowel syndrome** (score 99.12%): antispasmodic antimuscarinics such as dicyclomine are used, but tropicamide has no oral formulation, negligible gut exposure, and better-characterized alternatives exist.
+- **Obsolete neurogenic bladder** (score 0.9913): the class rationale is coherent (antimuscarinics such as oxybutynin are established), but tropicamide has low systemic absorption and a short duration of action, and the disease term is obsolete in the ontology.
+- **Irritable bowel syndrome** (score 0.9912): antispasmodic antimuscarinics such as dicyclomine are used, but tropicamide has no oral formulation, negligible gut exposure, and better-characterized alternatives exist.
 
 ## Clinical Trial Evidence
 
@@ -78,13 +78,13 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| ANDA040064 | Tropicamide (Bausch & Lomb) | Ophthalmic solution/drops | Cancelled |
-| ANDA084306 | Mydriacyl (Alcon) | Ophthalmic solution/drops | Cancelled |
-| ANDA040067 | Tropicamide (Bausch & Lomb) | Ophthalmic solution/drops | Cancelled |
-| ANDA207524 | Tropicamide (Sportpharm) | Ophthalmic solution/drops | Cancelled |
-| ANDA084305 | Tropicamide (Sandoz) | Ophthalmic solution/drops | Cancelled |
+| ANDA040064 | Tropicamide (Bausch & Lomb) | Ophthalmic solution/drops | Valid |
+| ANDA084306 | Mydriacyl (Alcon) | Ophthalmic solution/drops | Valid |
+| ANDA040067 | Tropicamide (Bausch & Lomb) | Ophthalmic solution/drops | Valid |
+| ANDA207524 | Tropicamide (Sportpharm) | Ophthalmic solution/drops | Valid |
+| ANDA084305 | Tropicamide (Sandoz) | Ophthalmic solution/drops | Valid |
 
-Approved indication text is not available for these authorizations. All five are cancelled, and none is currently valid.
+Approved indication text is not available for these authorizations.
 
 ## Safety Considerations
 
@@ -98,7 +98,7 @@ Package insert warnings and contraindications were not available, so please refe
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score. There are no clinical trials or publications. Tropicamide is a topical ophthalmic drug with minimal systemic exposure, so reaching bladder, gut or nerve targets is implausible. In addition, all US licenses are cancelled, and the disease would be treated surgically, with any drug role limited to symptoms.
+The prediction is supported only by a model score. There are no clinical trials or publications. Tropicamide is a topical ophthalmic drug with minimal systemic exposure, so reaching bladder, gut or nerve targets is implausible. In addition, the drug is marketed in the US (5 of 5 licenses valid), and the disease would be treated surgically, with any drug role limited to symptoms.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

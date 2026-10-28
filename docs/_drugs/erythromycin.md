@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Erythromycin
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 669
-evidence_level: L4
+evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-14
-description: "Erythromycin: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L4). Approved use: Bacterial infections (e.g., pneumonia, pertussis, gonorrhea…"
 monitor_inn: "ERYTHROMYCIN"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "acute contagious conjunctivitis", "exposure keratitis", "lymphogranuloma venereum", "necrotizing ulcerative gingivitis"]
+description: "Erythromycin: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Erythromycin
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **5**
 
 </div>
 
-## Erythromycin: From Bacterial Infections to Punctate Epithelial Keratoconjunctivitis
+## Erythromycin: Punctate epithelial keratoconjunctivitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ but there are currently **0 clinical trials** and only **1 publication** (a pedi
 
 | Item | Content |
 |------|------|
-| Original Indication | Bacterial infections (e.g., pneumonia, pertussis, gonorrhea, conjunctivitis, acne) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Punctate epithelial keratoconjunctivitis |
-| TxGNN Prediction Score | 99.89% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| TxGNN Prediction Score | 0.9989 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 15) |
 | Number of NDAs | 15 (all cancelled; includes ANDAs and NDAs) |
 | Recommended Decision | Hold |
 
@@ -74,7 +74,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All 15 US authorizations are cancelled. Approved indication text is not available for any of them. Up to 5 main authorizations are listed below.
+15 US authorizations are valid. Approved indication text is not available for any of them. Up to 5 main authorizations are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -108,13 +108,13 @@ For full safety information, please refer to the package insert.
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is very high, but the evidence is model prediction plus a single indirect pediatric review. No clinical trials exist for this indication. Erythromycin currently has no valid US licenses, and the package insert safety data are missing.
+The TxGNN score is very high, but the evidence is model prediction plus a single indirect pediatric review. No clinical trials exist for this indication.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data
 - Primary efficacy data, such as a controlled trial of ophthalmic erythromycin in punctate epithelial keratoconjunctivitis
-- Confirmation of the regulatory pathway for an ophthalmic formulation, given that all current US licenses are cancelled
+- Confirmation of the regulatory pathway for an ophthalmic formulation, given that 15 US licenses are currently valid and the drug is marketed
 - A comparison with current standard care for this condition
 ## Disclaimer
 

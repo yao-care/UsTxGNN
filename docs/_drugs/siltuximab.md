@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "SILTUXIMAB"
 predicted_indications: ["extracutaneous mastocytoma", "hepatic infarction", "hepatic veno-occlusive disease", "peliosis hepatis", "Kaposi's sarcoma (disease)", "autosomal recessive familial Mediterranean fever", "aggressive systemic mastocytosis", "autosomal dominant familial periodic fever"]
 last_modified_at: 2026-10-14
-description: "Siltuximab: predicted new indication Extracutaneous mastocytoma (evidence level L5). Approved use: Castleman disease"
+description: "Siltuximab: predicted new indication Extracutaneous mastocytoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Siltuximab
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-## Siltuximab: From Castleman Disease to Extracutaneous Mastocytoma
+## Siltuximab: Extracutaneous mastocytoma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,12 +45,12 @@ The TxGNN model predicts it may be effective for **extracutaneous mastocytoma**,
 
 | Item | Content |
 |------|------|
-| Original Indication | Castleman disease (the US license indication text is blank, so this comes from the knowledge graph indication data) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Extracutaneous mastocytoma |
-| TxGNN Prediction Score | 99.64% |
+| TxGNN Prediction Score | 0.9964 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 (BLA125496) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -101,7 +101,7 @@ For other safety information, such as warnings and contraindications, please ref
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score (99.64%), with no clinical trials or publications for extracutaneous mastocytoma. The mechanistic link is speculative, mastocytosis-type diseases are driven mainly by KIT signaling, and the only US license has been cancelled.
+The prediction rests only on a model score (0.9964), with no clinical trials or publications for extracutaneous mastocytoma. The mechanistic link is speculative, mastocytosis-type diseases are driven mainly by KIT signaling, and the only US license has been cancelled.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and a review of IL-6 involvement in mast cell disease

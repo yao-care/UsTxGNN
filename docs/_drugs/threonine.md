@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "THREONINE"
 predicted_indications: ["gastroparesis (disease)"]
 last_modified_at: 2026-10-14
-description: "Threonine: predicted new indication Gastroparesis (evidence level L5). Approved use: Not recorded"
+description: "Threonine: predicted new indication Gastroparesis (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Threonine
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-## Threonine: From No Recorded Original Indication to Gastroparesis
+## Threonine: Gastroparesis (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,19 +45,19 @@ The TxGNN model predicts it may be relevant to **Gastroparesis**, but the suppor
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded (the only US license has no indication text) |
-| Predicted New Indication | Gastroparesis |
-| TxGNN Prediction Score | 99.32% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Gastroparesis (disease) |
+| TxGNN Prediction Score | 0.9932 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no active marketing) |
-| Number of NDAs | 1 (cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Threonine is an essential amino acid and a precursor of glycine and serine. It is also a major component of intestinal mucins. No original indication is recorded, so the relationship between an original and a new indication cannot be established.
 
-A link to gastric or intestinal mucosal function, or to enteric neurotransmission, is conceivable. However, it is speculative and has no supporting clinical or literature evidence in the data compiled for this report. The high score (0.993) may reflect proximity within the knowledge graph rather than a true therapeutic effect. The prediction should be treated as a hypothesis only.
+A link to gastric or intestinal mucosal function, or to enteric neurotransmission, is conceivable. However, it is speculative and has no supporting clinical or literature evidence in the data compiled for this report. The high score (0.9932) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The prediction should be treated as a hypothesis only.
 
 ## Clinical Trial Evidence
 
@@ -85,7 +85,7 @@ Please refer to the package insert for further safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score. There are no clinical trials, no literature, no verified mechanism, and no active US marketing authorization. This evidence is at L5, the lowest level.
+The prediction rests only on a model score. This evidence is at L5, the lowest level.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications, which are currently missing and block safety screening

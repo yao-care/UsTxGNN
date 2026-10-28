@@ -4,9 +4,9 @@ title: Parathyroid Hormone
 parent: Moderate Evidence (L3-L4)
 nav_order: 1015
 evidence_level: L4
-indication_count: 10
+indication_count: 9
 monitor_inn: "PARATHYROID HORMONE"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "amenorrhea (disease)", "Raynaud disease", "non-syndromic esophageal malformation", "migraine with or without aura, susceptibility to", "esophageal disease", "atrophoderma vermiculata", "ulerythema ophryogenesis", "erectile dysfunction (disease)"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "amenorrhea (disease)", "Raynaud disease", "non-syndromic esophageal malformation", "esophageal disease", "atrophoderma vermiculata", "ulerythema ophryogenesis", "erectile dysfunction (disease)"]
 last_modified_at: 2026-10-14
 description: "Parathyroid Hormone: predicted new indication Migraine disorder (evidence level L4). Approved use: Not available"
 ---
@@ -14,7 +14,7 @@ description: "Parathyroid Hormone: predicted new indication Migraine disorder (e
 # Parathyroid Hormone
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **migraine disorder**, but ther
 |------|------|
 | Original Indication | Not available (the approved indication text on the US license record is empty) |
 | Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.98% |
+| TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (no active license) |
-| Number of NDAs | 1 (BLA125511, cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Acer Saccharum Pollen Alnus Rubra Pollen Anthoxant
@@ -51,8 +52,8 @@ A full repurposing evaluation cannot be completed at this time due to critical d
 | Predicted New Indication | No prediction generated |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — No predictions, no supporting studies identified |
-| US Market Status | Not marketed |
-| Number of NDAs | 0 |
+| US Market Status | Marketed (valid licenses: 5 of 5) |
+| Number of NDAs | 5 (valid: 5) |
 | Recommended Decision | **Hold** |
 
 ---

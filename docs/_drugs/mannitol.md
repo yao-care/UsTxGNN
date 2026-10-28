@@ -4,17 +4,17 @@ title: Mannitol
 parent: Model Prediction Only (L5)
 nav_order: 886
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "MANNITOL"
-predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "acute pulmonary heart disease", "exercise-induced malignant hyperthermia", "malignant hyperthermia, susceptibility to", "familial periodic paralysis", "hypokalemic periodic paralysis", "congenital multicore myopathy with external ophthalmoplegia", "moderate multiminicore disease with hand involvement", "nephrogenic diabetes insipidus", "central core myopathy"]
+predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "acute pulmonary heart disease", "exercise-induced malignant hyperthermia", "familial periodic paralysis", "hypokalemic periodic paralysis", "congenital multicore myopathy with external ophthalmoplegia", "moderate multiminicore disease with hand involvement", "nephrogenic diabetes insipidus", "central core myopathy"]
 last_modified_at: 2026-10-14
-description: "Mannitol: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Brain edema, intracranial hypertension, ocular hypertension…"
+description: "Mannitol: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Mannitol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Mannitol: From Intracranial Hypertension and Brain Edema to Nephrogenic Syndrome of Inappropriate Antidiuresis
+## Mannitol: Nephrogenic syndrome of inappropriate antidiuresis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,19 +46,19 @@ but there are currently **0 clinical trials** and only **1 general review articl
 
 | Item | Content |
 |------|------|
-| Original Indication | Brain edema, intracranial hypertension, ocular hypertension, pseudotumor cerebri, congestive heart failure, cystic fibrosis (from the knowledge graph; no approved indication text is available) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Nephrogenic syndrome of inappropriate antidiuresis |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all licenses cancelled) |
-| Number of NDAs | 7 authorizations in total (all cancelled) |
+| US Market Status | Marketed (valid licenses: 7 of 7) |
+| Number of NDAs | 7 (valid: 7) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not currently available. Mannitol is known as an osmotic diuretic: it is filtered by the kidney but poorly reabsorbed, so it draws water into the urine and promotes water diuresis. In theory this could influence free-water balance, which is the only link to NSIAD.
 
-On closer inspection the mechanistic fit is weak. NSIAD is caused by gain-of-function mutations in the vasopressin V2 receptor (AVPR2), leading to water retention and hyponatremia. Osmotic diuresis does not correct this underlying receptor defect. Mannitol can also worsen hyponatremia through osmotic water shifts out of cells. The high model score therefore appears to reflect network proximity in the knowledge graph rather than a biologically supported treatment effect.
+On closer inspection the mechanistic fit is weak. NSIAD is caused by gain-of-function mutations in the vasopressin V2 receptor (AVPR2), leading to water retention and hyponatremia. Osmotic diuresis does not correct this underlying receptor defect. Mannitol can also worsen hyponatremia through osmotic water shifts out of cells. The score of 0.9997 comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Clinical Trial Evidence
 
@@ -74,11 +74,11 @@ Currently no related clinical trials registered.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA016269 | Mannitol (Henry Schein) | Injection, solution | Not available (cancelled) |
-| ANDA080677 | Mannitol (Fresenius Kabi) | Injection, solution | Not available (cancelled) |
-| NDA020006 | Mannitol (B. Braun) | Injection, solution | Not available (cancelled) |
-| NDA019603 | Mannitol (ICU Medical) | Injection, solution | Not available (cancelled) |
-| NDA013684 | Osmitrol (Baxter) | Injection, solution | Not available (cancelled) |
+| NDA016269 | Mannitol (Henry Schein) | Injection, solution | Not available (valid) |
+| ANDA080677 | Mannitol (Fresenius Kabi) | Injection, solution | Not available (valid) |
+| NDA020006 | Mannitol (B. Braun) | Injection, solution | Not available (valid) |
+| NDA019603 | Mannitol (ICU Medical) | Injection, solution | Not available (valid) |
+| NDA013684 | Osmitrol (Baxter) | Injection, solution | Not available (valid) |
 
 Two further cancelled authorizations are not shown: QR PAIN (cream) and Sorbitol-Mannitol (irrigant).
 
@@ -102,14 +102,13 @@ Please refer to the package insert for formal warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone, with no registered trials and no supportive literature. The mechanism is implausible, since osmotic diuresis does not correct the AVPR2 defect and may worsen hyponatremia. All US authorizations are also cancelled. The other nine predicted indications are no stronger: most are Hold with L4–L5 evidence, and several (hypokalemic periodic paralysis, nephrogenic diabetes insipidus, acute pulmonary heart disease) point to possible harm rather than benefit.
+The prediction rests on a model score alone, with no registered trials and no supportive literature. The mechanism is implausible, since osmotic diuresis does not correct the AVPR2 defect and may worsen hyponatremia. The drug is marketed in the US, with 7 of 7 licenses valid. The other nine predicted indications are no stronger: most are Hold with L4–L5 evidence, and several (hypokalemic periodic paralysis, nephrogenic diabetes insipidus, acute pulmonary heart disease) point to possible harm rather than benefit.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data from DrugBank
 - Preclinical or mechanistic evidence that an osmotic agent can benefit NSIAD
 - A safety assessment of hyponatremia and volume-expansion risks in this population
-- Clarification of whether any active US product remains, since all licenses are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

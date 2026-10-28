@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Activated Charcoal Apple Atlantic Cod Atlantic Sal
@@ -49,7 +50,7 @@ This candidate entry contains a complex mixture of 55+ ingredients spanning food
 | Predicted New Indication | None (TxGNN returned no predictions) |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — Model prediction only, but no predictions were generated |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 2) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 
@@ -59,7 +60,7 @@ This candidate entry contains a complex mixture of 55+ ingredients spanning food
 
 TxGNN operates by mapping a drug's INN to a DrugBank node, then traversing the knowledge graph to score candidate disease relationships. This candidate failed at the first step for two compounding reasons:
 
-**1. No resolvable single INN.** The entry contains 55 distinct substances — ranging from common foods (apple, banana, wheat) and seafood (Atlantic cod, Pacific oyster) to homeopathic botanicals (Gelsemium sempervirens root, Pulsatilla pratensis, Lycopodium clavatum spore) and pharmacologically active agents (cortisone acetate, serotonin hydrochloride, hyaluronidase, interferon γ porcine recombinant). A knowledge graph prediction model requires a singular, identifiable drug node; a heterogeneous 55-component list cannot be anchored to any single DrugBank entry.
+**1. No resolvable single INN.** The entry contains 55 distinct substances — ranging from common foods (apple, banana, wheat) and seafood (Atlantic cod, Pacific oyster) to homeopathic botanicals (Gelsemium sempervirens root, Pulsatilla pratensis, Lycopodium clavatum spore) and pharmacologically active agents (cortisone acetate, serotonin hydrochloride, hyaluronidase, interferon γ porcine recombinant). A TxGNN model (deep learning) prediction model requires a singular, identifiable drug node; a heterogeneous 55-component list cannot be anchored to any single DrugBank entry.
 
 **2. No DrugBank ID available.** The DrugBank query returned one result but no matching ID was assigned (`drugbank_id: null`), confirming the mixture could not be mapped to a standard pharmacological entity.
 

@@ -4,17 +4,17 @@ title: Valproic Acid
 parent: Model Prediction Only (L5)
 nav_order: 1280
 evidence_level: L5
-indication_count: 10
+indication_count: 2
 last_modified_at: 2026-10-14
-description: "Valproic Acid: predicted new indication Trigeminal nerve neoplasm (evidence level L5). Approved use: Epilepsy, manic bipolar affective disorder, absence epilepsy"
 monitor_inn: "VALPROIC ACID"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
+description: "Valproic Acid: predicted new indication Trigeminal nerve neoplasm (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Valproic Acid
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Valproic Acid: From Epilepsy to Trigeminal Nerve Neoplasm
+## Valproic Acid: Trigeminal nerve neoplasm
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Valproic acid is an established antiseizure medication, originally used for epilepsy (including absence epilepsy) and manic episodes of bipolar disorder.
 The TxGNN model ranks **trigeminal nerve neoplasm** as its top predicted new indication, but there are **0 clinical trials** and only **1 publication** (a case series on a different condition), so the evidence is essentially model prediction only.
-Of the other nine predictions, **startle epilepsy** has the most relevant supporting data (small observational studies and case reports).
 
 ---
 
@@ -48,11 +47,11 @@ Of the other nine predictions, **startle epilepsy** has the most relevant suppor
 
 | Item | Content |
 |------|------|
-| Original Indication | Epilepsy, manic bipolar affective disorder, absence epilepsy (from the knowledge graph; no approved-indication text is available in the US license records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Trigeminal nerve neoplasm |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid authorization in the compiled data) |
+| US Market Status | Marketed (valid licenses on record: at least 7) |
 | Number of NDAs | 7 (all cancelled; all are ANDA generic applications) |
 | Recommended Decision | Hold |
 
@@ -62,7 +61,7 @@ Of the other nine predictions, **startle epilepsy** has the most relevant suppor
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, valproic acid enhances GABAergic transmission and modulates sodium and T-type calcium channels, and it is a histone deacetylase (HDAC) inhibitor that has been hypothesized to have antineoplastic effects.
 
-For the top prediction, trigeminal nerve neoplasm, **no direct mechanistic link is supported by the data.** The only retrieved paper is a 1997 case series on Sturge-Weber syndrome, a neurocutaneous vascular disorder rather than a tumour. The very high TxGNN score most likely reflects proximity in the knowledge graph (seizure and neurological disease neighbours) rather than real evidence.
+For the top prediction, trigeminal nerve neoplasm, **no direct mechanistic link is supported by the data.** The only retrieved paper is a 1997 case series on Sturge-Weber syndrome, a neurocutaneous vascular disorder rather than a tumour. The very high TxGNN score (0.9997) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 Other predictions are more plausible because they are extensions of valproic acid's seizure indication:
 
@@ -113,7 +112,7 @@ Currently no related clinical trials are registered for the top predicted indica
 | ANDA073484 (cancelled) | Valproic Acid (Vangard Labs) | Capsule, liquid filled | Not available |
 | ANDA077960 (cancelled) | Valproic Acid (Lannett) | Solution | Not available |
 
-Two further cancelled authorizations (ANDA070868, ANDA073229) are not listed. All 7 authorizations are cancelled, and none is currently valid in the compiled data.
+Two further cancelled authorizations (ANDA070868, ANDA073229) are not listed. 7 authorizations are currently valid in the compiled data.
 
 ---
 
@@ -137,13 +136,13 @@ Please refer to the package insert for the full key warnings and contraindicatio
 **Decision: Hold**
 
 **Rationale:**
-The top prediction, trigeminal nerve neoplasm, has no trials and no supporting literature. Its very high score appears to reflect graph proximity rather than evidence. Valproic acid currently has no valid US authorization in the compiled data, and label safety information is missing. The seizure-related predictions are better candidates but are extensions of the existing indication rather than novel repurposing. Startle epilepsy (evidence level L3) is the strongest of them.
+The top prediction, trigeminal nerve neoplasm, has no trials and no supporting literature. Its very high score (0.9997) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Valproic acid is currently marketed in the US, with 7 valid authorizations in the compiled data, but label safety information is missing.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (blocking for safety screening)
 - Mechanism of action data to support analysis of the mechanistic link
 - Direct preclinical or clinical evidence for valproate in trigeminal nerve tumours (for example HDAC-inhibitor antitumour data)
-- Confirmation of current US marketing status, since all 7 authorizations are cancelled
+- Confirmation of current US marketing status, since the compiled data lists 7 valid authorizations
 - Consideration of startle epilepsy or trigeminal neuralgia as more evidence-supported alternatives, ideally with a controlled study
 - A safety plan addressing hepatotoxicity, pregnancy and women of childbearing potential, and the major and moderate interactions listed above
 ## Disclaimer

@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # 2 3 7 8-Tetrachlorodibenzo-P-Dioxin Aluminum Arcti
@@ -49,7 +50,7 @@ This submission is a 31-component mixture comprising pesticides, heavy metals, h
 | Predicted New Indication | None (TxGNN returned no candidates) |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — Model prediction only (no actual predictions generated) |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

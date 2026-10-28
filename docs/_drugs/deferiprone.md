@@ -4,17 +4,17 @@ title: Deferiprone
 parent: Moderate Evidence (L3-L4)
 nav_order: 578
 evidence_level: L4
-indication_count: 9
+indication_count: 8
 last_modified_at: 2026-10-14
-description: "Deferiprone: predicted new indication Hepatic porphyria (evidence level L4). Approved use: Hemosiderosis / iron overload in beta-thalassemia and related hemoglo…"
 monitor_inn: "DEFERIPRONE"
 predicted_indications: ["hepatic porphyria", "idiopathic copper-associated cirrhosis", "primitive portal vein thrombosis", "hepatoportal sclerosis", "early-onset familial noncirrhotic portal hypertension", "hepatopulmonary syndrome", "pyruvate kinase deficiency of red cells", "pyropoikilocytosis, hereditary"]
+description: "Deferiprone: predicted new indication Hepatic porphyria (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Deferiprone
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **9** 
+Evidence Level: **L4** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **9**
 
 </div>
 
-## Deferiprone: From Iron Overload in Thalassemia to Hepatic Porphyria
+## Deferiprone: Hepatic porphyria
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,12 +47,12 @@ The TxGNN model predicts it may be effective for **hepatic porphyria**, but ther
 
 | Item | Content |
 |------|------|
-| Original Indication | Hemosiderosis / iron overload in beta-thalassemia and related hemoglobinopathies (from the knowledge-graph indication data; no approved-indication text is available in the US license records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Hepatic porphyria |
-| TxGNN Prediction Score | 99.20% |
+| TxGNN Prediction Score | 0.9920 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 6 authorizations in total (3 NDAs and 3 ANDAs), all cancelled |
+| US Market Status | Marketed (valid licenses: 6 of 6) |
+| Number of NDAs | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 ---
@@ -84,7 +84,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All six US authorizations are listed as cancelled, and no approved-indication text is available in the records.
+All six US authorizations are valid, and no approved-indication text is available in the records.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -115,13 +115,13 @@ For the full safety profile, please refer to the package insert.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is biologically plausible, but the evidence is limited to one animal study and one report in a different porphyria. There are no registered trials, and all US authorizations are currently cancelled. The decision is Hold, as a research question rather than a development candidate.
+The prediction is biologically plausible, but the evidence is limited to one animal study and one report in a different porphyria. There are no registered trials, and the drug is marketed in the US with all six authorizations valid. The decision is Hold, as a research question rather than a development candidate.
 
 **To proceed, the following is needed:**
 - Evidence in patients with hepatic porphyria itself (for example porphyria cutanea tarda), such as case series or a pilot trial
 - Mechanism-of-action data for deferiprone
 - Package insert warnings and contraindications, which are missing and block safety screening
-- Clarification of the current US regulatory and supply status, since all licenses are cancelled
+- Clarification of the current US regulatory and supply status
 - A dosing and interaction management plan, given the many moderate interactions with metal-containing products
 
 ---
@@ -132,14 +132,13 @@ Eight further predictions were generated, all with no registered clinical trials
 
 | Predicted Indication | Score | Evidence Level | Note |
 |------|------|------|------|
-| Idiopathic copper-associated cirrhosis | 99.20% | L5 | No evidence; deferiprone chelates iron, not copper |
-| Primitive portal vein thrombosis | 99.20% | L5 | No identifiable mechanism |
-| Hepatoportal sclerosis | 99.20% | L5 | Likely network proximity only |
-| Early-onset familial noncirrhotic portal hypertension | 99.20% | L5 | Computational prediction only |
-| Hepatopulmonary syndrome | 99.20% | L5 | Speculative link only |
-| Pyruvate kinase deficiency of red cells | 99.15% | L5 | Chelation plausible for secondary iron overload; not supported by the supplied evidence |
-| Beta-thalassemia with other manifestations | 99.03% | L4 | Largely duplicates existing use; one indirect review (PMID 18456387) |
-| Hereditary pyropoikilocytosis | 99.02% | L5 | Chelation would only address secondary iron overload |
+| Idiopathic copper-associated cirrhosis | 0.9920 | L5 | No evidence; deferiprone chelates iron, not copper |
+| Primitive portal vein thrombosis | 0.9920 | L5 | No identifiable mechanism |
+| Hepatoportal sclerosis | 0.9920 | L5 | Likely network proximity only |
+| Early-onset familial noncirrhotic portal hypertension | 0.9920 | L5 | Computational prediction only |
+| Hepatopulmonary syndrome | 0.9920 | L5 | Speculative link only |
+| Pyruvate kinase deficiency of red cells | 0.9915 | L5 | Chelation plausible for secondary iron overload; not supported by the supplied evidence |
+| Hereditary pyropoikilocytosis | 0.9902 | L5 | Chelation would only address secondary iron overload |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

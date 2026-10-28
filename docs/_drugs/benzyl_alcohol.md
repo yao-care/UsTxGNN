@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "BENZYL ALCOHOL"
 predicted_indications: ["bronchitis"]
-last_modified_at: 2026-10-14
-description: "Benzyl Alcohol: predicted new indication Bronchitis (evidence level L5). Approved use: Dermatitis"
+last_modified_at: 2026-10-27
+description: "Benzyl Alcohol: predicted new indication bronchitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Benzyl Alcohol
@@ -33,30 +33,30 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-## Benzyl Alcohol: From Dermatitis to Bronchitis
+## Benzyl Alcohol: Antimicrobial preservative and local anesthetic → bronchitis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Benzyl alcohol is a topical ingredient (used in products such as throat/mouth gels and pain-relief sprays) and is listed in the knowledge graph for dermatitis. The TxGNN model predicts it may be effective for **bronchitis**, but there are **0 clinical trials** and only **2 loosely related publications**, one of which suggests that inhaled benzyl alcohol may *cause* bronchitis rather than treat it.
+Benzyl alcohol is a topical and preservative agent used in dermatological and pain-relief products. The TxGNN model predicts it may be relevant to **bronchitis**, but **no clinical trials** and only **2 publications** exist, and neither supports a therapeutic benefit. One of them reports that benzyl alcohol, used as a preservative in nebulized saline, can cause bronchitis.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Dermatitis (from the knowledge graph; no approved indication text is available in US license records) |
-| Predicted New Indication | Bronchitis |
-| TxGNN Prediction Score | 99.46% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | bronchitis |
+| TxGNN Prediction Score | 0.9946 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 4 (all cancelled) |
+| US Market Status | Marketed (valid licenses: 4 of 4) |
+| Number of NDAs | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, benzyl alcohol has weak antimicrobial and preservative properties, and it is also used as a local anaesthetic-type ingredient in topical products. In theory, antimicrobial activity could be relevant to infectious bronchitis.
+Currently, detailed mechanism of action data is not available. Benzyl alcohol is known to have weak antimicrobial and preservative properties, which could in theory be relevant to infectious bronchitis. This link is only indirect.
 
-This rationale is weak. The high TxGNN score (99.46%) is a computational prediction without clinical support. The relationship between a skin condition (dermatitis) and an airway condition (bronchitis) is not mechanistically clear from the available data. The literature points in the opposite direction: a study of nebulized bacteriostatic saline, which contains benzyl alcohol as a preservative, examined whether it irritates the airway lining and reported bronchitis as a possible adverse effect. This is a safety signal, not a therapeutic one.
+The available literature points the other way. A study of nebulized bacteriostatic saline, which contains benzyl alcohol as a preservative, examined whether it irritates the airway lining in healthy adults, and its title reports it as a cause of bronchitis. This is a safety signal, not a therapeutic one. The high TxGNN score is a computational prediction and has no clinical support.
 
 ## Clinical Trial Evidence
 
@@ -66,46 +66,37 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [7807035](https://pubmed.ncbi.nlm.nih.gov/7807035/) | 1995 | Case report / case series (adverse event) | The Journal of Family Practice | Tested whether nebulized bacteriostatic saline, which contains the preservative benzyl alcohol, irritates the tracheobronchial lining in healthy adults; the title reports it as a cause of bronchitis (a harm signal) |
-| [36747926](https://pubmed.ncbi.nlm.nih.gov/36747926/) | 2023 | In vitro phytochemical study | Heliyon | Studied Senna tora leaf extracts for antioxidant, anti-inflammatory and antibacterial activity; bronchitis is mentioned only as a traditional use of the plant, and the study is not directly relevant to benzyl alcohol |
+| [7807035](https://pubmed.ncbi.nlm.nih.gov/7807035/) | 1995 | Case report / case series (adverse event) | The Journal of Family Practice | Tested whether nebulized bacteriostatic saline containing benzyl alcohol irritates the airway lining in healthy adults; the title reports it as a cause of bronchitis. |
+| [36747926](https://pubmed.ncbi.nlm.nih.gov/36747926/) | 2023 | In vitro phytochemical study | Heliyon | Evaluated Senna tora leaf extracts for antioxidant, anti-inflammatory and antibacterial activity; bronchitis is mentioned only as a traditional use of the plant. It does not study benzyl alcohol. |
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| M022 | Zilactin | Gel | Not specified (cancelled) |
-| M017 | Lidocaine Plus Pain Relieving | Liquid | Not specified (cancelled) |
-| 505G(a)(3) | CVS Maximum Strength LIDOCAINE PLUS | Spray | Not specified (cancelled) |
-| part348 | Ivy-Dry Super | Spray | Not specified (cancelled) |
+| M022 | Zilactin | Gel | Not recorded in the local data |
+| M017 | Lidocaine Plus Pain Relieving | Liquid | Not recorded in the local data |
+| 505G(a)(3) | CVS Maximum Strength LIDOCAINE PLUS | Spray | Not recorded in the local data |
+| part348 | Ivy-Dry Super | Spray | Not recorded in the local data |
 
 ## Safety Considerations
 
-- **Disease associations flagged in the knowledge graph (not label text):** The knowledge graph links benzyl alcohol to possible contraindications in the following conditions:
-  - Cardiovascular: hypertension, coronary artery disease, atherosclerosis
-  - Respiratory: chronic obstructive pulmonary disease (COPD)
-  - Gastrointestinal: peptic ulcer disease
-  - Skin: contact dermatitis, occupational dermatitis
-  - Metabolic and endocrine: diabetes mellitus, diabetic ketoacidosis, hyperthyroidism, Graves disease, thyrotoxicosis
-  - Urological: benign prostatic hyperplasia, bladder neck obstruction
-  - Eye: angle-closure glaucoma
-- **Airway irritation:** The published report on nebulized saline preserved with benzyl alcohol raises concern about airway irritation when the compound is inhaled. This is directly relevant to the predicted bronchitis use.
-- **Drug interactions:** No interaction records were found.
+- **Contraindication signals (not from label text):** Related drug-disease records list hypertension, chronic obstructive pulmonary disease, peptic ulcer disease, contact dermatitis, diabetes mellitus, benign prostatic hyperplasia, coronary artery disease, angle-closure glaucoma, hyperthyroidism and bladder neck obstruction. These need to be verified against the product labels.
+- **Respiratory irritation:** The only literature on inhaled benzyl alcohol reports airway irritation and bronchitis from nebulized saline preserved with it.
 
-Package insert warnings and contraindications were not available, so please refer to the package insert for full safety information.
+No drug interaction records were found. Please refer to the package insert for further safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone (Evidence Level L5). There are no clinical trials, no supportive literature, and no mechanism data. The only relevant publication suggests that inhaled benzyl alcohol may irritate the airways. In addition, all US licenses are cancelled, and the available dosage forms (gel, liquid, spray) are not designed for treating bronchitis.
+The prediction rests only on a computational score. No trial or publication directly studies benzyl alcohol as a treatment for bronchitis, and the one relevant report suggests it can cause bronchitis when inhaled. Evidence level is L5.
 
 **To proceed, the following is needed:**
-- Mechanism of action data for benzyl alcohol
-- FDA package insert warnings and contraindications, to allow safety screening
-- Evidence that benzyl alcohol has therapeutic activity in bronchitis, including preclinical data
-- A safety assessment of inhaled exposure, given the reported airway irritation
-- Clarification of a suitable route and formulation for respiratory use
+- Mechanism of action data
+- Package insert warnings and contraindications
+- Evidence on inhaled safety of benzyl alcohol, especially in people with airway disease
+- Any preclinical or clinical study testing benzyl alcohol directly in bronchitis
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

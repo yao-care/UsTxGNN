@@ -4,17 +4,17 @@ title: Mefenamic Acid
 parent: High Evidence (L1-L2)
 nav_order: 894
 evidence_level: L2
-indication_count: 8
+indication_count: 7
 monitor_inn: "MEFENAMIC ACID"
-predicted_indications: ["rheumatoid arthritis", "osteoarthritis susceptibility", "headache disorder", "trigeminal autonomic cephalalgia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "migraine disorder", "migraine with brainstem aura"]
+predicted_indications: ["rheumatoid arthritis", "headache disorder", "trigeminal autonomic cephalalgia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "migraine disorder", "migraine with brainstem aura"]
 last_modified_at: 2026-10-14
-description: "Mefenamic Acid: predicted new indication Rheumatoid arthritis (evidence level L2). Approved use: Not available"
+description: "Mefenamic Acid: predicted new indication Rheumatoid arthritis (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
 # Mefenamic Acid
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **8** 
+Evidence Level: **L2** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L2** | Predicted Indications: **8**
 
 </div>
 
-## Mefenamic Acid: From NSAID Pain Relief to Rheumatoid Arthritis
+## Mefenamic Acid: Rheumatoid arthritis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -44,12 +44,12 @@ Mefenamic acid is an oral nonsteroidal anti-inflammatory drug (NSAID) that reduc
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (the US license records contain no approved-indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Rheumatoid arthritis |
-| TxGNN Prediction Score | 99.73% |
+| TxGNN Prediction Score | 0.9973 |
 | Evidence Level | L2 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 3 (all cancelled; listed as ANDAs) |
+| US Market Status | Marketed (valid licenses: 3 of 3) |
+| Number of NDAs | 3 (valid: 3) |
 | Recommended Decision | Hold (rheumatoid arthritis); Proceed with Guardrails (migraine disorder, the strongest candidate) |
 
 ## Why is This Prediction Reasonable?
@@ -98,11 +98,10 @@ Currently no related clinical trials registered, for rheumatoid arthritis or any
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA090562 | Mefenamic acid (Micro Labs Limited) | Capsule | Not recorded; status cancelled |
-| ANDA091322 | Mefenamic Acid (Advanced Rx of Tennessee, LLC) | Capsule | Not recorded; status cancelled |
-| ANDA091608 | Mefenamic Acid (Misemer Pharmaceuticals, Inc) | Capsule | Not recorded; status cancelled |
+| ANDA090562 | Mefenamic acid (Micro Labs Limited) | Capsule | Not recorded; status valid |
+| ANDA091322 | Mefenamic Acid (Advanced Rx of Tennessee, LLC) | Capsule | Not recorded; status valid |
+| ANDA091608 | Mefenamic Acid (Misemer Pharmaceuticals, Inc) | Capsule | Not recorded; status valid |
 
-All three authorizations are oral capsules and all are cancelled, so there is no currently valid US single-ingredient or combination license.
 
 ## Safety Considerations
 
@@ -127,7 +126,7 @@ The package insert warnings and contraindications were not available for this re
 - Mechanism of action data from DrugBank
 - Modern, adequately powered trials, since the existing studies are small and decades old
 - For migraine, a plan that limits use to short perimenstrual courses, monitors GI and renal risk, avoids chronic use, and reviews the recorded drug interactions
-- Clarification of the cancelled US license status, since no valid license is currently on the market
+- Clarification of the US license status: the drug is marketed, with 3 of 3 licenses valid
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

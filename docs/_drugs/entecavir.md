@@ -4,17 +4,17 @@ title: Entecavir
 parent: Moderate Evidence (L3-L4)
 nav_order: 656
 evidence_level: L4
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Entecavir: predicted new indication Chronic hepatitis C virus infection (evidence level L4). Approved use: Chronic hepatitis B virus infection"
 monitor_inn: "ENTECAVIR"
 predicted_indications: ["chronic hepatitis C virus infection", "HIV infectious disease", "hepatitis C virus infection", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hepatitis, viral, animal", "hepatitis E virus infection", "hepatitis A virus infection"]
+description: "Entecavir: predicted new indication Chronic hepatitis C virus infection (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Entecavir
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Entecavir: From Chronic Hepatitis B to Chronic Hepatitis C Virus Infection
+## Entecavir: Chronic hepatitis C virus infection
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,11 +47,11 @@ The TxGNN model predicts it may help in **chronic hepatitis C virus (HCV) infect
 
 | Item | Content |
 |------|------|
-| Original Indication | Chronic hepatitis B virus infection |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Chronic hepatitis C virus infection |
-| TxGNN Prediction Score | 99.98% |
+| TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 10) |
 | Number of NDAs | 10 authorizations (2 NDAs and 8 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
@@ -61,7 +61,7 @@ The TxGNN model predicts it may help in **chronic hepatitis C virus (HCV) infect
 
 Detailed mechanism-of-action data is not available in the compiled data. Based on known pharmacology, entecavir is a guanosine nucleoside analogue. Inside cells it is converted to its triphosphate form, which competes with dGTP and blocks HBV polymerase (reverse transcriptase). Its efficacy in chronic hepatitis B is well established.
 
-HCV is a different kind of virus. It is an RNA virus that replicates through the NS5B RNA-dependent RNA polymerase, and entecavir has no known direct activity against it. The high TxGNN score most likely reflects the two diseases sitting close together in the knowledge graph (both are viral hepatitis) rather than a real anti-HCV effect.
+HCV is a different kind of virus. It is an RNA virus that replicates through the NS5B RNA-dependent RNA polymerase, and entecavir has no known direct activity against it. The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases (both are viral hepatitis), not biological evidence.
 
 The one clinically meaningful link is co-infection. When patients with both HCV and HBV receive direct-acting antivirals (DAAs) for HCV, HBV can reactivate, and entecavir can help prevent that. In this setting entecavir protects against HBV reactivation but does not treat HCV.
 
@@ -97,15 +97,15 @@ None of these publications shows entecavir treating HCV infection. They cover HB
 
 ## US Market Information
 
-All ten US authorizations are cancelled, so no currently valid entecavir product is listed. The table shows five of them.
+The drug is marketed in the US, with 10 valid licenses. The table shows five of them.
 
 | Authorization Number | Product Name | Dosage Form | Status | Approved Indication |
 |---------|------|------|------|-----------|
-| NDA021797 | BARACLUDE | Tablet, film coated | Cancelled | Not specified in the compiled data |
-| NDA021798 | BARACLUDE | Solution | Cancelled | Not specified in the compiled data |
-| ANDA212126 | Entecavir | Tablet | Cancelled | Not specified in the compiled data |
-| ANDA206872 | Entecavir | Tablet, film coated | Cancelled | Not specified in the compiled data |
-| ANDA205740 | Entecavir | Tablet | Cancelled | Not specified in the compiled data |
+| NDA021797 | BARACLUDE | Tablet, film coated | Valid | Not specified in the compiled data |
+| NDA021798 | BARACLUDE | Solution | Valid | Not specified in the compiled data |
+| ANDA212126 | Entecavir | Tablet | Valid | Not specified in the compiled data |
+| ANDA206872 | Entecavir | Tablet, film coated | Valid | Not specified in the compiled data |
+| ANDA205740 | Entecavir | Tablet | Valid | Not specified in the compiled data |
 
 ---
 
@@ -135,7 +135,7 @@ Entecavir has no known direct activity against HCV. The linked trials are small 
 - Mechanism-of-action data and any in vitro evidence of anti-HCV activity (none is currently available).
 - Full results of the entecavir HBV-reactivation prophylaxis randomized trial in HCV/HBV co-infection (PMID 34864158).
 - Label warnings and contraindications from the FDA package insert.
-- Confirmation of product availability, since all US authorizations are cancelled.
+- Confirmation of current product availability in the US.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

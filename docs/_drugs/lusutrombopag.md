@@ -4,17 +4,17 @@ title: Lusutrombopag
 parent: Model Prediction Only (L5)
 nav_order: 880
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Lusutrombopag: predicted new indication Hereditary thrombocytopenia with normal platelets (evidence level L5). Approved use: Thrombocytopenia"
 monitor_inn: "LUSUTROMBOPAG"
-predicted_indications: ["hereditary thrombocytopenia with normal platelets", "marcothrombocytopenia with mitral valve insufficiency", "transient neonatal thrombocytopenia", "dense granule disease", "platelet storage pool deficiency", "amyotrophic lateral sclerosis", "lower motor neuron syndrome with late-adult onset", "amyotrophic lateral sclerosis, susceptibility to", "bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia"]
+predicted_indications: ["hereditary thrombocytopenia with normal platelets", "marcothrombocytopenia with mitral valve insufficiency", "transient neonatal thrombocytopenia", "dense granule disease", "platelet storage pool deficiency", "amyotrophic lateral sclerosis", "lower motor neuron syndrome with late-adult onset", "bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia"]
+description: "Lusutrombopag: predicted new indication Hereditary thrombocytopenia with normal platelets (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Lusutrombopag
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Lusutrombopag: From Thrombocytopenia to Hereditary Thrombocytopenia with Normal Platelets
+## Lusutrombopag: Hereditary thrombocytopenia with normal platelets
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ but **no clinical trials or publications** were found in the data compiled for t
 
 | Item | Content |
 |------|------|
-| Original Indication | Thrombocytopenia (the approved indication text is not available in the US license record; the original indication comes from the knowledge graph) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Hereditary thrombocytopenia with normal platelets |
-| TxGNN Prediction Score | 99.995% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -71,15 +71,15 @@ The model also returned nine other predictions, all at evidence level L5 with no
 
 | Rank | Predicted Indication | TxGNN Score | Assessment |
 |------|------|------|------|
-| 2 | Macrothrombocytopenia with mitral valve insufficiency | 99.995% | Link is only the shared low-platelet feature. The drug would not address the valve component, and the entry may be an ontology artifact. |
-| 3 | Transient neonatal thrombocytopenia | 99.995% | Theoretically plausible, but the condition resolves on its own. Neonatal and pediatric safety is not established. |
-| 4 | Dense granule disease | 99.995% | This is mainly a platelet function defect, not a count defect. Benefit is likely limited and thrombotic risk is a concern. |
-| 5 | Platelet storage pool deficiency | 99.958% | A qualitative platelet disorder that is unlikely to respond to a higher platelet count alone. |
-| 6 | Amyotrophic lateral sclerosis | 99.948% | No plausible link between TPO receptor agonism and motor neuron degeneration. |
-| 7 | Lower motor neuron syndrome with late-adult onset | 99.948% | No recognized link to the TPO pathway. Likely a graph-proximity artifact. |
-| 8 | Amyotrophic lateral sclerosis, susceptibility to | 99.946% | No mechanism connects the drug to the genetic risk. Likely a knowledge-graph artifact. |
-| 9 | Bilateral parasagittal parieto-occipital polymicrogyria | 99.945% | A developmental cortical malformation. The drug has no plausible effect. |
-| 10 | Axial spondylometaphyseal dysplasia | 99.943% | A skeletal dysplasia with no relation to TPO signaling. Likely a computational artifact. |
+| 2 | Macrothrombocytopenia with mitral valve insufficiency | 1.0000 | Link is only the shared low-platelet feature. The drug would not address the valve component, and the entry may be an ontology artifact. |
+| 3 | Transient neonatal thrombocytopenia | 1.0000 | Theoretically plausible, but the condition resolves on its own. Neonatal and pediatric safety is not established. |
+| 4 | Dense granule disease | 1.0000 | This is mainly a platelet function defect, not a count defect. Benefit is likely limited and thrombotic risk is a concern. |
+| 5 | Platelet storage pool deficiency | 0.9996 | A qualitative platelet disorder that is unlikely to respond to a higher platelet count alone. |
+| 6 | Amyotrophic lateral sclerosis | 0.9995 | No plausible link between TPO receptor agonism and motor neuron degeneration. |
+| 7 | Lower motor neuron syndrome with late-adult onset | 0.9995 | No recognized link to the TPO pathway. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. |
+| 8 | Amyotrophic lateral sclerosis, susceptibility to | 0.9995 | No mechanism connects the drug to the genetic risk. Likely a TxGNN model (deep learning) artifact. |
+| 9 | Bilateral parasagittal parieto-occipital polymicrogyria | 0.9995 | A developmental cortical malformation. The drug has no plausible effect. |
+| 10 | Axial spondylometaphyseal dysplasia | 0.9995 | A skeletal dysplasia with no relation to TPO signaling. Likely a computational artifact. |
 
 ## US Market Information
 
@@ -87,7 +87,7 @@ The model also returned nine other predictions, all at evidence level L5 with no
 |---------|------|------|-----------|
 | NDA210923 (Cancelled) | Mulpleta | Film-coated tablet (oral) | Not available in the data compiled for this report |
 
-The only US authorization is cancelled, so the drug has no currently valid US marketing authorization. This limits practical access.
+This limits practical access.
 
 ## Safety Considerations
 

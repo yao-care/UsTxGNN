@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Potassium
-parent: Model Prediction Only (L5)
+parent: High Evidence (L1-L2)
 nav_order: 1066
-evidence_level: L5
+evidence_level: L1
 indication_count: 5
 monitor_inn: "POTASSIUM"
 predicted_indications: ["hypertensive disorder", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant renovascular hypertension", "malignant hypertensive renal disease"]
-last_modified_at: 2026-10-14
-description: "Potassium: predicted new indication Hypertensive disorder (evidence level L5). Approved use: Not available"
+last_modified_at: 2026-10-28
+description: "Potassium: predicted new indication Hypertensive disorder (evidence level L1). Approved use: Not recorded in the local data"
 ---
 
 # Potassium
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **5** 
+Evidence Level: **L1** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-## Potassium: From an Unspecified Original Indication to Hypertensive Disorder
+## Potassium: Hypertensive disorder
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Potassium is an essential mineral and electrolyte. The data compiled for this report list no approved original indication for it, and all 7 US licenses are cancelled.
+Potassium is an essential mineral and electrolyte. The data compiled for this report list no approved original indication for it, and it is marketed in the US with 7 valid licenses.
 The TxGNN model predicts it may be effective for **hypertensive disorder**.
 This direction is supported by **25 registered clinical trials** (only a few directly test potassium) and **20 publications**, including **2 meta-analyses of randomized trials**.
 
@@ -48,11 +48,11 @@ This direction is supported by **25 registered clinical trials** (only a few dir
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (no approved indication text in the license records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Hypertensive disorder |
-| TxGNN Prediction Score | 99.16% |
+| TxGNN Prediction Score | 0.9916 |
 | Evidence Level | L1 (per the compiled scoring; see the note below) |
-| US Market Status | Cancelled only |
+| US Market Status | Marketed (valid licenses on record: at least 7) |
 | Number of NDAs | 7 (all cancelled; the records are mostly ANDA or unlisted) |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -73,10 +73,10 @@ Two meta-analyses of randomized trials (a dose-response analysis, PMID 32500831,
 Because no original indication is recorded, the link to an existing use cannot be assessed. The product form and dose must also be defined, either dietary or supplement, because the US market records are cancelled and mix potassium citrate with unrelated products.
 
 **Other predicted indications** have much weaker support and are all rated Hold:
-- *Pulmonary hypertension owing to lung disease and/or hypoxia* (99.05%, L4): the literature is basic science on oxygen-sensitive potassium channels, which does not show that potassium supplementation treats the disease.
-- *Pulmonary hypertension with unclear multifactorial mechanism* (99.05%, L5): only the model score supports it.
-- *Malignant renovascular hypertension* (99.02%, L4): potassium appears in the literature as a biomarker or a consequence (hypokalemia), not as a treatment.
-- *Malignant hypertensive renal disease* (99.02%, L5): only the model score supports it, and hyperkalemia risk in renal disease is a safety concern.
+- *Pulmonary hypertension owing to lung disease and/or hypoxia* (0.9905, L4): the literature is basic science on oxygen-sensitive potassium channels, which does not show that potassium supplementation treats the disease.
+- *Pulmonary hypertension with unclear multifactorial mechanism* (0.9905, L5): only the model score supports it.
+- *Malignant renovascular hypertension* (0.9902, L4): potassium appears in the literature as a biomarker or a consequence (hypokalemia), not as a treatment.
+- *Malignant hypertensive renal disease* (0.9902, L5): only the model score supports it, and hyperkalemia risk in renal disease is a safety concern.
 
 ---
 
@@ -117,15 +117,15 @@ The other registered trials are mostly losartan potassium or similar potassium-s
 
 ## US Market Information
 
-All licenses are cancelled, and no approved indication text is recorded. Some entries are unrelated products (for example, a homeopathic pellet and a clorazepate salt) that match the name only.
+The drug is marketed, with 7 valid licenses, and no approved indication text is recorded. Some entries are unrelated products (for example, a homeopathic pellet and a clorazepate salt) that match the name only.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA212779 | Potassium Citrate | Tablet, extended release | Not recorded (cancelled) |
-| ANDA203546 | Potassium Citrate | Tablet, extended release | Not recorded (cancelled) |
-| ANDA214420 | Potassium Citrate | Tablet, extended release | Not recorded (cancelled) |
-| ANDA209758 | Potassium Citrate | Tablet, extended release | Not recorded (cancelled) |
-| ANDA206813 | Potassium Citrate | Tablet | Not recorded (cancelled) |
+| ANDA212779 | Potassium Citrate | Tablet, extended release | Not recorded (valid) |
+| ANDA203546 | Potassium Citrate | Tablet, extended release | Not recorded (valid) |
+| ANDA214420 | Potassium Citrate | Tablet, extended release | Not recorded (valid) |
+| ANDA209758 | Potassium Citrate | Tablet, extended release | Not recorded (valid) |
+| ANDA206813 | Potassium Citrate | Tablet | Not recorded (valid) |
 
 ---
 

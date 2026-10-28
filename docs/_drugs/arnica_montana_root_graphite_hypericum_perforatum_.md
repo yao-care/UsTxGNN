@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Arnica Montana Root Graphite Hypericum Perforatum 
@@ -51,7 +52,7 @@ Without any model output, clinical evidence, or regulatory reference, a formal r
 | Predicted New Indication | No TxGNN predictions generated |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — Model prediction only (prediction absent; no supporting studies identified) |
-| US Market Status | Not Marketed |
+| US Market Status | Marketed (valid licenses on record: at least 14) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

@@ -4,17 +4,17 @@ title: Levonorgestrel
 parent: Moderate Evidence (L3-L4)
 nav_order: 857
 evidence_level: L3
-indication_count: 6
+indication_count: 5
 last_modified_at: 2026-10-14
-description: "Levonorgestrel: predicted new indication Acne (disease) (evidence level L3). Approved use: Postmenopausal osteoporosis / osteoporosis"
 monitor_inn: "LEVONORGESTREL"
 predicted_indications: ["acne (disease)", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
+description: "Levonorgestrel: predicted new indication Acne (disease) (evidence level L3). Approved use: Not recorded in the local data"
 ---
 
 # Levonorgestrel
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **6** 
+Evidence Level: **L3** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,23 +33,23 @@ Evidence Level: **L3** | Predicted Indications: **6**
 
 </div>
 
-## Levonorgestrel: From Postmenopausal Osteoporosis to Acne
+## Levonorgestrel: Acne (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Levonorgestrel is a progestin, best known as a hormonal contraceptive. The knowledge graph lists postmenopausal osteoporosis and osteoporosis as its original indications.
+Levonorgestrel is a progestin, best known as a hormonal contraceptive.
 The TxGNN model predicts it may be effective for **Acne (disease)**. **No clinical trials** are registered for this prediction, and the **20 publications** found are mostly reviews, with one randomized trial of a combined oral contraceptive.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Postmenopausal osteoporosis / osteoporosis (from the knowledge graph; no approved-indication text is available from US labels) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Acne (disease) |
-| TxGNN Prediction Score | 99.88% |
+| TxGNN Prediction Score | 0.9988 |
 | Evidence Level | L3 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 13) |
 | Number of NDAs | 13 (all cancelled) |
 | Recommended Decision | Hold |
 
@@ -84,7 +84,7 @@ Most of the remaining literature concerns contraception rather than acne.
 
 ## US Market Information
 
-All 13 US licenses for levonorgestrel are cancelled. The data compiled for this report contain no approved-indication text for them. Main authorizations:
+13 US licenses for levonorgestrel are valid. The data compiled for this report contain no approved-indication text for them. Main authorizations:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -107,7 +107,7 @@ Package insert warnings and contraindications were not available. Please refer t
 **Decision: Hold**
 
 **Rationale:**
-No clinical trials support levonorgestrel for acne. The only relevant randomized trial used a combination with ethinyl estradiol, and progestin-only levonorgestrel may worsen acne. The high TxGNN score appears to reflect network proximity rather than a validated mechanism. All US licenses are cancelled, which further limits near-term development.
+No clinical trials support levonorgestrel for acne. The only relevant randomized trial used a combination with ethinyl estradiol, and progestin-only levonorgestrel may worsen acne. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 The other predictions (Worth syndrome, pregnancy-associated osteoporosis, autosomal dominant neovascular inflammatory vitreoretinopathy, apocrine adenosis of breast and blunt duct adenosis of breast) have no trials or literature and are also on Hold.
 
@@ -115,7 +115,6 @@ The other predictions (Worth syndrome, pregnancy-associated osteoporosis, autoso
 - Mechanism of action data for levonorgestrel
 - FDA package insert warnings and contraindications
 - Evidence separating the effect of levonorgestrel alone from that of the estrogen component in acne
-- Clarification of the original-indication assignment, since the knowledge graph lists osteoporosis while all US products are contraceptives
 - Review of the cancelled license status for any feasible regulatory pathway
 ## Disclaimer
 

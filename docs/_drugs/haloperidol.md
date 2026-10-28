@@ -39,7 +39,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 ## One-Sentence Summary
 
 Haloperidol is an antipsychotic originally used for psychotic disorders, schizophrenia, schizoaffective disorder and Tourette syndrome.
-The TxGNN model predicts it may be effective for **congenital disorder of glycosylation with defective fucosylation**, but **0 clinical trials** and **0 publications** currently support this prediction. It is a knowledge-graph signal only.
+The TxGNN model (deep learning) predicts it may be effective for **congenital disorder of glycosylation with defective fucosylation**, but **0 clinical trials** and **0 publications** currently support this prediction. It is a TxGNN model signal only and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ---
 
@@ -49,9 +49,9 @@ The TxGNN model predicts it may be effective for **congenital disorder of glycos
 |------|------|
 | Original Indication | Psychotic disorder, schizophrenia, schizophreniform disorder, schizoaffective disorder, Tourette syndrome (the license records contain no indication text) |
 | Predicted New Indication | Congenital disorder of glycosylation with defective fucosylation |
-| TxGNN Prediction Score | 99.91% |
+| TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no active licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 10) |
 | Number of NDAs | 10 (all are ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
@@ -61,7 +61,7 @@ The TxGNN model predicts it may be effective for **congenital disorder of glycos
 
 Currently, detailed mechanism of action data is not available in the compiled data. Haloperidol is a typical (first-generation) antipsychotic that acts mainly as a dopamine D2 receptor antagonist. Its efficacy in psychotic disorders and schizophrenia is well established.
 
-No mechanistic link was identified between D2 antagonism and fucosylation pathways. This condition is a rare inherited disorder of protein glycosylation, which is biologically distant from the dopaminergic psychiatric conditions haloperidol treats. The very high score (99.91%, rank 2958 among scored predictions) reflects patterns in the knowledge graph, not biological or clinical support. It should not be read as evidence of efficacy.
+No mechanistic link was identified between D2 antagonism and fucosylation pathways. This condition is a rare inherited disorder of protein glycosylation, which is biologically distant from the dopaminergic psychiatric conditions haloperidol treats. The very high score (0.9991, rank 2958 among scored predictions) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It should not be read as evidence of efficacy.
 
 ---
 
@@ -79,7 +79,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-All 10 US authorizations are generic applications (ANDAs) and are cancelled. No active license remains. The data compiled for this report contain no approved-indication text for these products. The five shown below are the first five of the 10.
+All 10 US authorizations are generic applications (ANDAs) and are valid. The data compiled for this report contain no approved-indication text for these products. The five shown below are the first five of the 10.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -108,15 +108,15 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a knowledge-graph score. There are no trials, no literature, and no plausible mechanistic link. The US licenses are all cancelled, and the drug has notable safety burdens (QT prolongation, seizure threshold, extrapyramidal effects, many interactions).
+The prediction rests only on a TxGNN model (deep learning) score. There are no trials, no literature, and no plausible mechanistic link. The US licenses are all cancelled, and the drug has notable safety burdens (QT prolongation, seizure threshold, extrapyramidal effects, many interactions).
 
 **To proceed, the following is needed:**
 - A biological rationale connecting haloperidol to fucosylation or glycosylation pathways, along with its mechanism of action data
 - Preclinical evidence (for example, cell or animal models of the disorder)
 - Package insert warnings and contraindications for a safety review
-- Confirmation of drug availability, since all US licenses are cancelled
+- Confirmation of drug availability
 
-**Note on other predictions:** Among the other predictions for haloperidol, **manic bipolar affective disorder** (rank 10, score 99.83%) has the strongest support. It has Phase 3 trial evidence (including a placebo- and haloperidol-controlled trial of olanzapine, NCT00129220) and supportive systematic reviews and a Cochrane review. This is largely an established, guideline-supported use rather than a novel repurposing, and it would be rated L1 with a recommendation of Proceed with Guardrails. The guardrails are extrapyramidal symptoms, QT prolongation, tardive dyskinesia risk, and the large number of drug interactions.
+**Note on other predictions:** Among the other predictions for haloperidol, **manic bipolar affective disorder** (rank 10, score 0.9983) has the strongest support. It has Phase 3 trial evidence (including a placebo- and haloperidol-controlled trial of olanzapine, NCT00129220) and supportive systematic reviews and a Cochrane review. This is largely an established, guideline-supported use rather than a novel repurposing, and it would be rated L1 with a recommendation of Proceed with Guardrails. The guardrails are extrapyramidal symptoms, QT prolongation, tardive dyskinesia risk, and the large number of drug interactions.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

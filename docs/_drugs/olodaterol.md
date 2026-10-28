@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Olodaterol
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 988
-evidence_level: L4
-indication_count: 2
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-14
 description: "Olodaterol: predicted new indication Bronchitis (evidence level L4). Approved use: Chronic obstructive pulmonary disease (COPD)"
 monitor_inn: "OLODATEROL"
@@ -14,7 +14,7 @@ predicted_indications: ["bronchitis"]
 # Olodaterol
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **2** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,10 +49,10 @@ The TxGNN model predicts it may be useful for **bronchitis**, but the evidence i
 |------|------|
 | Original Indication | Chronic obstructive pulmonary disease (COPD) |
 | Predicted New Indication | Bronchitis |
-| TxGNN Prediction Score | 99.84% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (the single NDA is cancelled) |
-| Number of NDAs | 1 |
+| TxGNN Prediction Score | 0.9984 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -61,7 +61,7 @@ The TxGNN model predicts it may be useful for **bronchitis**, but the evidence i
 
 Detailed mechanism-of-action data for olodaterol is not available in the data compiled for this report. However, it is a long-acting β2-adrenergic agonist. It relaxes airway smooth muscle and produces sustained bronchodilation over a 24-hour dosing interval.
 
-Chronic bronchitis is a clinical phenotype of COPD, which is olodaterol's established indication. This overlap makes the prediction plausible on the surface. The very high TxGNN score most likely reflects how closely bronchitis and COPD are related in the knowledge graph, rather than independent repurposing evidence.
+Chronic bronchitis is a clinical phenotype of COPD, which is olodaterol's established indication. This overlap makes the prediction plausible on the surface. The very high TxGNN score (deep learning model) most likely reflects similarities the model learned between related diseases such as bronchitis and COPD, not biological evidence or independent repurposing evidence.
 
 Several points weaken the case:
 - The two supporting publications focus on COPD and do not evaluate bronchitis as a separate indication.

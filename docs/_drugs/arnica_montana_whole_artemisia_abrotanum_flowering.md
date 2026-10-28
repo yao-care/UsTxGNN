@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Arnica Montana Whole Artemisia Abrotanum Flowering
@@ -51,7 +52,7 @@ There is currently **no clinical trial or published literature evidence** that c
 | Predicted New Indication | None — TxGNN returned no predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — model prediction only; in this case, not even a model prediction is available |
-| US Market Status | Not Marketed |
+| US Market Status | Marketed (valid licenses on record: at least 9) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

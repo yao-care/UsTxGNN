@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "ALUMINUM CHLORIDE"
 predicted_indications: ["seborrheic keratosis", "congenital prothrombin deficiency", "seborrheic dermatitis", "acne (disease)", "vulvar inverted follicular keratosis", "skin disease", "dry eye syndrome", "eye disease", "von Hippel anomaly", "chronic relapsing inflammatory optic neuropathy"]
 last_modified_at: 2026-10-14
-description: "Aluminum Chloride: predicted new indication Skin disease (evidence level L5). Approved use: Not specified in the data compiled for this report"
+description: "Aluminum Chloride: predicted new indication seborrheic keratosis (evidence level L5). Approved use: Not specified in the data compiled for this report"
 ---
 
 # Aluminum Chloride
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Aluminum Chloride: From Antiperspirant Use to Skin Disease
+## Aluminum Chloride: From Antiperspirant Use to Seborrheic Keratosis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -50,9 +50,9 @@ The evidence is mostly reviews and early-phase studies, and it does not demonstr
 |------|------|
 | Original Indication | Not specified in the data compiled for this report (the license records list no approved indication text; products are antiperspirants) |
 | Predicted New Indication | Skin disease (best-supported candidate; the top TxGNN-ranked prediction is seborrheic keratosis, which has no supporting evidence) |
-| TxGNN Prediction Score | 99.35% (skin disease); 99.68% (seborrheic keratosis, rank 1) |
-| Evidence Level | L3 (skin disease); L5 for the other nine predictions, except as noted below |
-| US Market Status | Cancelled only |
+| TxGNN Prediction Score | 0.9935 (skin disease); 0.9968 (seborrheic keratosis, rank 1) |
+| Evidence Level | L5 (skin disease); L5 for the other nine predictions, except as noted below |
+| US Market Status | Marketed (valid licenses on record: at least 3) |
 | Number of NDAs | 3 (all cancelled) |
 | Recommended Decision | Hold (research question: re-define the target as hyperhidrosis) |
 
@@ -64,7 +64,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 "Skin disease" is a very broad category. The strongest evidence supports hyperhidrosis only, not skin disease in general. A better framing is to evaluate hyperhidrosis as a specific indication, along with adjacent uses such as hand-foot skin reactions caused by regorafenib (a single-arm trial) and Frey's syndrome (a single case report).
 
-Several other predictions are weak. Congenital prothrombin deficiency, von Hippel anomaly and chronic relapsing inflammatory optic neuropathy show no plausible mechanistic link and are likely graph artifacts. Seborrheic dermatitis and acne are speculative, and aluminum is a recognized contact allergen. Dry eye syndrome and eye disease are supported only by an unrelated formulation paper and toxicity studies.
+Several other predictions are weak. Congenital prothrombin deficiency, von Hippel anomaly and chronic relapsing inflammatory optic neuropathy show no plausible mechanistic link; their scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Seborrheic dermatitis and acne are speculative, and aluminum is a recognized contact allergen. Dry eye syndrome and eye disease are supported only by an unrelated formulation paper and toxicity studies.
 
 ---
 
@@ -101,8 +101,8 @@ Trials retrieved for skin disease:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| M019 | Duradry Sweat Minimizing Gel | Gel | Not specified (cancelled) |
-| M017 | Certain Dri Clinical Strength Prescription Protection Rollon | Liquid | Not specified (cancelled) |
+| M019 | Duradry Sweat Minimizing Gel | Gel | Not specified (valid) |
+| M017 | Certain Dri Clinical Strength Prescription Protection Rollon | Liquid | Not specified (valid) |
 | Not available | Antiperspirant Antisudorifique | Spray | Not specified (cancelled) |
 
 ---

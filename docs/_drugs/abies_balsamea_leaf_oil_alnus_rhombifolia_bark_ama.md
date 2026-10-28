@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Abies Balsamea Leaf Oil Alnus Rhombifolia Bark Ama
@@ -51,7 +52,7 @@ As a result, **no evidence supports a repurposing direction at this time**, and 
 | Predicted New Indication | None (TxGNN produced no output) |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — Model prediction only; in this case, no prediction was generated |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 3) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

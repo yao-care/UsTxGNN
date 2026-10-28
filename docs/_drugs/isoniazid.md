@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Isoniazid
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 814
-evidence_level: L4
+evidence_level: L5
 indication_count: 1
 monitor_inn: "ISONIAZID"
 predicted_indications: ["conjunctivitis"]
@@ -14,7 +14,7 @@ description: "Isoniazid: predicted new indication Conjunctivitis (evidence level
 # Isoniazid
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **1** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ The evidence is weak and limited to tuberculosis-related eye disease.
 |------|------|
 | Original Indication | Pulmonary tuberculosis |
 | Predicted New Indication | Conjunctivitis |
-| TxGNN Prediction Score | 99.36% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 7 (all cancelled; these are ANDA generic applications) |
+| TxGNN Prediction Score | 0.9936 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 7 of 7) |
+| Number of NDAs | 7 (valid: 7) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 The link to conjunctivitis is indirect and applies only to tuberculosis-related eye disease. Primary conjunctival tuberculosis is a true mycobacterial infection. Phlyctenular keratoconjunctivitis is a hypersensitivity reaction to mycobacterial antigens, often seen in people with tuberculosis infection or sensitization. In both cases, isoniazid would act on the underlying tuberculous process, not on conjunctivitis in general.
 
-There is no evidence of benefit in common bacterial, viral or allergic conjunctivitis. The high TxGNN score (99.36%) is a computational prediction that is not backed by clinical trial data. It should be read as a hypothesis, not as proof of efficacy.
+There is no evidence of benefit in common bacterial, viral or allergic conjunctivitis. The high TxGNN score (0.9936) is a computational prediction that is not backed by clinical trial data. It should be read as a hypothesis, not as proof of efficacy.
 
 ## Clinical Trial Evidence
 
@@ -83,15 +83,15 @@ Several other retrieved publications (on toxic epidermal necrolysis, BCG-associa
 
 ## US Market Information
 
-All seven authorizations are cancelled. No approved indication text is available for them.
+All seven authorizations are valid. No approved indication text is available for them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA040090 | Isoniazid (Marlex Pharmaceuticals) | Tablet | Cancelled |
-| ANDA080937 | Isoniazid (Aphena Pharma Solutions) | Tablet | Cancelled |
-| ANDA088235 | Isoniazid (CMP Pharma) | Solution | Cancelled |
-| ANDA080936 | Isoniazid (A-S Medication Solutions) | Tablet | Cancelled |
-| ANDA081118 | Isoniazid (Chartwell RX) | Solution | Cancelled |
+| ANDA040090 | Isoniazid (Marlex Pharmaceuticals) | Tablet | Valid |
+| ANDA080937 | Isoniazid (Aphena Pharma Solutions) | Tablet | Valid |
+| ANDA088235 | Isoniazid (CMP Pharma) | Solution | Valid |
+| ANDA080936 | Isoniazid (A-S Medication Solutions) | Tablet | Valid |
+| ANDA081118 | Isoniazid (Chartwell RX) | Solution | Valid |
 
 Two more cancelled authorizations are not shown: ANDA040648 (Sandoz, injection solution) and ANDA089776 (Chartwell RX, tablet).
 
@@ -109,7 +109,7 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score only. There are no registered clinical trials, and the literature is mostly old case reports and reviews limited to tuberculosis-related eye disease. Several retrieved papers are off-topic. Isoniazid is not expected to help common conjunctivitis, and all US licenses are cancelled.
+The prediction rests on a model score only. There are no registered clinical trials, and the literature is mostly old case reports and reviews limited to tuberculosis-related eye disease. Several retrieved papers are off-topic. Isoniazid is not expected to help common conjunctivitis. The drug is marketed in the US, with 7 of 7 licenses valid.
 
 **To proceed, the following is needed:**
 - Narrow the target indication to tuberculosis-associated ocular disease (e.g., phlyctenular keratoconjunctivitis, conjunctival tuberculosis) rather than conjunctivitis in general
@@ -117,7 +117,7 @@ The prediction rests on a model score only. There are no registered clinical tri
 - FDA package insert warnings and contraindications (a blocking data gap for safety screening)
 - Mechanism of action data from DrugBank
 - Route compatibility assessment (systemic versus ocular delivery), since this is not yet defined
-- Confirmation of current US market availability, as all licenses are cancelled
+- Confirmation of current US market availability (7 of 7 licenses are valid)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Rotigotine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1137
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 monitor_inn: "ROTIGOTINE"
 predicted_indications: ["attention deficit-hyperactivity disorder", "schizophrenia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "faciodigitogenital syndrome", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "myopia X-linked", "atypical glycine encephalopathy", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited"]
@@ -14,7 +14,7 @@ description: "Rotigotine: predicted new indication Attention deficit-hyperactivi
 # Rotigotine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ but there are currently **0 clinical trials** and only **3 publications** (revie
 |------|------|
 | Original Indication | Restless legs syndrome, Parkinson disease (the US license record contains no approved indication text) |
 | Predicted New Indication | Attention deficit-hyperactivity disorder |
-| TxGNN Prediction Score | 99.997% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (the single NDA is cancelled) |
-| Number of NDAs | 1 |
+| TxGNN Prediction Score | 1.0000 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -98,7 +98,7 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is very high (99.997%), but there are no clinical trials and the literature is indirect: two restless legs reviews and one receptor-level preclinical study. The evidence level is L4, with no rotigotine-specific ADHD data. Moreover, the only US NDA is cancelled.
+The TxGNN score is very high (1.0000), but there are no clinical trials and the literature is indirect: two restless legs reviews and one receptor-level preclinical study. The evidence level is L4, with no rotigotine-specific ADHD data. Moreover, the only US NDA is cancelled.
 
 **To proceed, the following is needed:**
 - Rotigotine-specific preclinical or clinical data in ADHD

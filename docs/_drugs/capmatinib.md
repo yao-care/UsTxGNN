@@ -48,10 +48,10 @@ Support is very limited: **0 clinical trials** and **1 general review publicatio
 |------|------|
 | Original Indication | Not available in the data compiled for this report |
 | Predicted New Indication | Rheumatoid arthritis |
-| TxGNN Prediction Score | 99.45% |
+| TxGNN Prediction Score | 0.9945 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -62,7 +62,7 @@ There is a plausible but unproven mechanistic link. HGF/MET signaling has been r
 
 However, no clinical or preclinical evidence supporting MET inhibition in rheumatoid arthritis was found. The high TxGNN score is a model-based prediction only. Because the original indication and MOA are missing, the prediction cannot be cross-checked against the drug's established use.
 
-The second-ranked prediction, brachydactyly-syndactyly syndrome (score 99.03%), has no supporting trials or literature and no evident mechanistic link. It is a congenital limb malformation, and MET inhibition is not expected to correct it. It is likely a network-proximity artifact and is not pursued here.
+The second-ranked prediction, brachydactyly-syndactyly syndrome (score 0.9903), has no supporting trials or literature and no evident mechanistic link. It is a congenital limb malformation, and MET inhibition is not expected to correct it. It is likely a network-proximity artifact and is not pursued here.
 
 ## Clinical Trial Evidence
 

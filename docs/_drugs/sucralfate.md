@@ -48,9 +48,9 @@ with **no registered clinical trials** but **10 publications** (including 2 rand
 |------|------|
 | Original Indication | Duodenal ulcer |
 | Predicted New Indication | Duodenogastric reflux |
-| TxGNN Prediction Score | 99.37% |
+| TxGNN Prediction Score | 0.9937 |
 | Evidence Level | L2 |
-| US Market Status | Cancelled only (all licenses cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 9) |
 | Number of NDAs | 9 (NDA and ANDA authorizations) |
 | Recommended Decision | Hold |
 
@@ -85,13 +85,13 @@ Currently no related clinical trials registered.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA018333 | Sucralfate (Bryant Ranch Prepack) | Tablet | Not available (cancelled) |
-| NDA019183 | Carafate (Allergan) | Suspension | Not available (cancelled) |
-| ANDA074415 | Sucralfate (Bryant Ranch Prepack) | Tablet | Not available (cancelled) |
-| ANDA215705 | Sucralfate (Zydus Lifesciences) | Tablet | Not available (cancelled) |
-| ANDA070848 | Sucralfate (Cardinal Health 107) | Tablet | Not available (cancelled) |
+| NDA018333 | Sucralfate (Bryant Ranch Prepack) | Tablet | Not available (valid) |
+| NDA019183 | Carafate (Allergan) | Suspension | Not available (valid) |
+| ANDA074415 | Sucralfate (Bryant Ranch Prepack) | Tablet | Not available (valid) |
+| ANDA215705 | Sucralfate (Zydus Lifesciences) | Tablet | Not available (valid) |
+| ANDA070848 | Sucralfate (Cardinal Health 107) | Tablet | Not available (valid) |
 
-All 9 authorizations are currently listed as cancelled; only the first 5 are shown.
+All 9 authorizations are currently valid; only the first 5 are shown.
 
 ## Safety Considerations
 
@@ -109,14 +109,14 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-Two small, older randomized trials in alkaline reflux gastritis support the idea, and the mechanism is plausible. However, there are no registered clinical trials, the evidence is dated, and all US licenses are currently cancelled. Package insert safety data were also not available, so safety screening cannot yet proceed.
+Two small, older randomized trials in alkaline reflux gastritis support the idea, and the mechanism is plausible. However, there are no registered clinical trials and the evidence is dated. The drug is marketed in the US with 9 valid licenses. Package insert safety data were also not available, so safety screening cannot yet proceed.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Confirmed mechanism of action data from DrugBank
 - A critical appraisal of the two randomized trials, followed by a modern, adequately powered trial in duodenogastric reflux
 - A plan for managing absorption-related drug interactions (such as dose separation) and for patients with renal impairment or diabetes
-- Clarification of the regulatory and marketing status in the US, since all licenses are cancelled
+- Clarification of the regulatory and marketing status in the US, where the drug is marketed with 9 valid licenses
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

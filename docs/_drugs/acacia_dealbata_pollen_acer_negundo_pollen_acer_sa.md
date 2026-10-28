@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Acacia Dealbata Pollen Acer Negundo Pollen Acer Sa
@@ -51,7 +52,7 @@ This candidate requires **data remediation and pipeline reclassification** befor
 | Predicted New Indication | None — no TxGNN predictions generated |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — insufficient for assessment |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 1) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 

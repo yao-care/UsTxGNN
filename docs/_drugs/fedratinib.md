@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "FEDRATINIB"
 predicted_indications: ["benign PEComa", "lymphangiomyoma", "uterine corpus perivascular epithelioid cell tumor", "dermatofibrosarcoma protuberans", "rhabdoid tumor", "familial rhabdoid tumor", "autosomal recessive familial Mediterranean fever", "hemophagocytic syndrome associated with an infection", "acquired hemophagocytic lymphohistiocytosis associated with malignant disease", "lymphangioleiomyomatosis"]
 last_modified_at: 2026-10-14
-description: "Fedratinib: predicted new indication Benign PEComa (evidence level L5). Approved use: Primary myelofibrosis, myelofibrosis"
+description: "Fedratinib: predicted new indication Benign PEComa (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Fedratinib
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Fedratinib: From Myelofibrosis to Benign PEComa
+## Fedratinib: Benign PEComa
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,19 +46,19 @@ but **0 clinical trials** and **0 publications** currently support this directio
 
 | Item | Content |
 |------|------|
-| Original Indication | Primary myelofibrosis, myelofibrosis (from the knowledge graph; no approved-indication text is available in the US license record) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Benign PEComa |
-| TxGNN Prediction Score | 99.84% |
+| TxGNN Prediction Score | 0.9984 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (the single NDA is marked cancelled) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, fedratinib is a JAK2 inhibitor (with additional FLT3 and BRD4 activity). Its efficacy in myelofibrosis, a disease driven by dysregulated JAK/STAT signaling, is the basis of its original use.
 
-PEComas are typically driven by mTOR pathway activation through TSC1/TSC2 loss. No direct link between JAK2 inhibition and mTOR-driven biology is established in the data compiled for this report, so the mechanistic connection is weak and speculative. The high TxGNN score reflects a knowledge-graph pattern, not demonstrated biology.
+PEComas are typically driven by mTOR pathway activation through TSC1/TSC2 loss. No direct link between JAK2 inhibition and mTOR-driven biology is established in the data compiled for this report, so the mechanistic connection is weak and speculative. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 The other top predictions share this limitation. Several are mTOR-related (lymphangiomyoma, uterine PEComa, lymphangioleiomyomatosis), where sirolimus is the established therapy. Two others are rhabdoid tumor entities, where a BRD4/epigenetic rationale is conceivable but untested. The two hemophagocytic lymphohistiocytosis (HLH) predictions have the most plausible class rationale (JAK/STAT cytokine signaling, with ruxolitinib as precedent), but no fedratinib-specific data exist.
 

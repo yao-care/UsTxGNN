@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Alpha -Tocopherol Ascorbic Acid Copper Cyanocobala
@@ -51,7 +52,7 @@ The TxGNN model returned **no predicted indications** for this combination, as m
 | Predicted New Indication | None (TxGNN returned no predictions) |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — No predictions; evaluation not executable |
-| Market Status (TFDA Query) | Not marketed |
+| Market Status (TFDA Query) | Marketed (valid licenses on record: at least 6) |
 | Number of Approved Licenses | 0 |
 | Recommended Decision | Hold |
 

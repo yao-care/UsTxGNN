@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "ISAVUCONAZONIUM"
 predicted_indications: ["pneumocystosis", "mycetoma"]
 last_modified_at: 2026-10-14
-description: "Isavuconazonium: predicted new indication Pneumocystosis (evidence level L5). Approved use: Aspergillosis, white piedra, black piedra, coccidioidomycosis…"
+description: "Isavuconazonium: predicted new indication Pneumocystosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Isavuconazonium
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-## Isavuconazonium: From Invasive Fungal Infections (Aspergillosis and Related Mycoses) to Pneumocystosis
+## Isavuconazonium: Pneumocystosis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,12 +48,12 @@ The second-ranked prediction, **mycetoma**, is biologically more plausible, but 
 
 | Item | Content |
 |------|------|
-| Original Indication | Aspergillosis, white piedra, black piedra, coccidioidomycosis, sporotrichosis, histoplasmosis, zygomycosis (from the knowledge graph; US label text not available) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Pneumocystosis |
-| TxGNN Prediction Score | 99.56% |
+| TxGNN Prediction Score | 0.9956 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 2 |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,9 +62,9 @@ The second-ranked prediction, **mycetoma**, is biologically more plausible, but 
 
 Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, isavuconazonium is a prodrug of isavuconazole, a triazole that inhibits fungal lanosterol 14-alpha-demethylase (CYP51) and blocks ergosterol synthesis. This mechanism is the basis of its activity in aspergillosis and other mold and yeast infections.
 
-For **pneumocystosis**, the mechanistic link is weak. *Pneumocystis jirovecii* has little or no ergosterol in its cell membrane and uses cholesterol and other sterols instead, so azoles are generally considered poorly active against it. The very high TxGNN score (99.56%) probably reflects a general antifungal class association rather than a validated mechanism.
+For **pneumocystosis**, the mechanistic link is weak. *Pneumocystis jirovecii* has little or no ergosterol in its cell membrane and uses cholesterol and other sterols instead, so azoles are generally considered poorly active against it. The very high TxGNN score (0.9956) probably reflects a general antifungal class association rather than a validated mechanism.
 
-The second prediction, **mycetoma** (score 99.34%), is more plausible. Eumycetoma is caused by ergosterol-containing fungi such as *Madurella mycetomatis*, which are susceptible in principle to azole inhibition of CYP51, and other azoles (itraconazole, and fosravuconazole in recent trials) are used or studied for it. Actinomycetoma, however, is bacterial and would not respond to an antifungal. This is a research question, not a basis for recommendation.
+The second prediction, **mycetoma** (score 0.9934), is more plausible. Eumycetoma is caused by ergosterol-containing fungi such as *Madurella mycetomatis*, which are susceptible in principle to azole inhibition of CYP51, and other azoles (itraconazole, and fosravuconazole in recent trials) are used or studied for it. Actinomycetoma, however, is bacterial and would not respond to an antifungal. This is a research question, not a basis for recommendation.
 
 ---
 
@@ -90,10 +90,9 @@ For the second prediction, mycetoma, one indirect item was found:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA207500 | CRESEMBA (Astellas Pharma US, Inc.) | Capsule | Not available (status: cancelled) |
-| NDA207501 | CRESEMBA (Astellas Pharma US, Inc.) | Lyophilized powder for injection solution | Not available (status: cancelled) |
+| NDA207500 | CRESEMBA (Astellas Pharma US, Inc.) | Capsule | Not available (status: valid) |
+| NDA207501 | CRESEMBA (Astellas Pharma US, Inc.) | Lyophilized powder for injection solution | Not available (status: valid) |
 
-Both authorizations are listed as cancelled, so no currently valid US license is recorded in the data compiled for this report.
 
 ---
 
@@ -115,7 +114,7 @@ Please refer to the package insert for warnings and contraindications, which are
 **Decision: Hold**
 
 **Rationale:**
-The pneumocystosis prediction rests on model score alone (L5). There are no clinical trials or literature, and the biology argues against it because *Pneumocystis* lacks ergosterol. The mycetoma prediction is mechanistically plausible but supported only by an indirect review (L4), so it is a research question rather than an actionable recommendation. No currently valid US license is recorded, and label safety data are missing.
+The pneumocystosis prediction rests on model score alone (L5). There are no clinical trials or literature, and the biology argues against it because *Pneumocystis* lacks ergosterol. The mycetoma prediction is mechanistically plausible but supported only by an indirect review (L4), so it is a research question rather than an actionable recommendation.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

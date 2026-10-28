@@ -4,9 +4,9 @@ title: Digoxin
 parent: Model Prediction Only (L5)
 nav_order: 608
 evidence_level: L5
-indication_count: 6
+indication_count: 5
 monitor_inn: "DIGOXIN"
-predicted_indications: ["Prinzmetal angina", "duodenal obstruction", "duodenal ulcer (disease)", "duodenogastric reflux", "obsolete susceptibility to ischemic stroke", "hypoalphalipoproteinemia"]
+predicted_indications: ["Prinzmetal angina", "duodenal obstruction", "duodenal ulcer (disease)", "duodenogastric reflux", "hypoalphalipoproteinemia"]
 last_modified_at: 2026-10-14
 description: "Digoxin: predicted new indication Prinzmetal angina (evidence level L5). Approved use: Atrial fibrillation"
 ---
@@ -14,7 +14,7 @@ description: "Digoxin: predicted new indication Prinzmetal angina (evidence leve
 # Digoxin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **Prinzmetal angina**, but ther
 |------|------|
 | Original Indication | Atrial fibrillation; digitalis poisoning |
 | Predicted New Indication | Prinzmetal angina |
-| TxGNN Prediction Score | 99.81% |
+| TxGNN Prediction Score | 0.9981 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 11) |
 | Number of NDAs | 11 authorizations in total (2 NDAs, 9 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
@@ -59,7 +59,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 The link to Prinzmetal (vasospastic) angina is weak. This condition is driven by coronary artery vasospasm. Higher intracellular calcium in vascular smooth muscle could, in theory, worsen rather than relieve vasospasm. The only retrieved publication is a review of chronopharmacology in antihypertensive treatment, which does not address digoxin in vasospastic angina.
 
-The high TxGNN score (0.998) most likely reflects proximity in the knowledge graph (shared cardiovascular context) rather than demonstrated biology. A potential safety concern cannot be excluded.
+The high TxGNN score (0.9981) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. A potential safety concern cannot be excluded.
 
 ## Clinical Trial Evidence
 
@@ -73,7 +73,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All 11 authorizations are listed as cancelled; approved indication text was not available in the compiled data. The main authorizations are:
+The drug is marketed in the US with 11 valid authorizations; approved indication text was not available in the compiled data. The main authorizations are:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -97,14 +97,14 @@ Please refer to the package insert for full warnings and contraindications, as l
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone (L5), with no clinical trials and no relevant literature. The known pharmacology (raised intracellular calcium) may even be unfavorable in vasospastic angina. All US authorizations are cancelled, and label safety data is missing.
+The prediction rests on a model score alone (L5), with no clinical trials and no relevant literature. The known pharmacology (raised intracellular calcium) may even be unfavorable in vasospastic angina. The drug is marketed in the US with 11 valid authorizations, and label safety data is missing.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data confirmed from DrugBank
 - Preclinical or mechanistic evidence on digoxin in coronary vasospasm, including safety assessment
 - Systematic literature search specific to digoxin and vasospastic angina
-- Clarification of current US marketing status, given that all authorizations are listed as cancelled
+- Clarification of current US marketing status, given the 11 valid authorizations
 
 **Other predictions reviewed (all L5, Hold):** duodenal obstruction, duodenal ulcer, duodenogastric reflux, obsolete susceptibility to ischemic stroke and hypoalphalipoproteinemia. None has clinical trials or a plausible supporting mechanism, and the stroke entry is an obsolete ontology term that should be excluded.
 ## Disclaimer

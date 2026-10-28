@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "DOXERCALCIFEROL"
 predicted_indications: ["obsolete vitamin D deficiency"]
 last_modified_at: 2026-10-14
-description: "Doxercalciferol: predicted new indication Obsolete vitamin D deficiency (evidence level L5). Approved use: Not listed in the data compiled for this report (the approved indicat…"
+description: "Doxercalciferol: predicted new indication Obsolete vitamin D deficiency (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Doxercalciferol
@@ -33,24 +33,24 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-## Doxercalciferol: From Vitamin D–Related Disorders to Vitamin D Deficiency (Obsolete Term)
+## Doxercalciferol: Obsolete vitamin D deficiency
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Doxercalciferol is a synthetic vitamin D2 analog. The data compiled for this report do not list an approved indication for it.
-The TxGNN model predicts it may be effective for **"obsolete vitamin D deficiency"** with a very high score (99.48%), but **no clinical trials and no publications** currently support this prediction.
+The TxGNN model predicts it may be effective for **"obsolete vitamin D deficiency"** with a very high score (0.9948), but **no clinical trials and no publications** currently support this prediction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the data compiled for this report (the approved indication text is empty for all authorizations) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Obsolete vitamin D deficiency |
-| TxGNN Prediction Score | 99.48% |
+| TxGNN Prediction Score | 0.9948 |
 | Evidence Level | L5 (model prediction only) |
-| US Market Status | Cancelled only (no currently valid authorizations) |
-| Number of NDAs | 5 (all cancelled; these are ANDA generic applications) |
+| US Market Status | Marketed (valid licenses: 5 of 5) |
+| Number of NDAs | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -69,15 +69,15 @@ Currently no related literature available.
 
 ## US Market Information
 
-All five authorizations are cancelled. The approved indication text is not available in the compiled data.
+All five authorizations are valid. The approved indication text is not available in the compiled data.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| ANDA210452 | Doxercalciferol (Dr. Reddy's Laboratories Inc) | Injection | Cancelled |
-| ANDA213717 | Doxercalciferol (Eugia US LLC) | Injection, solution | Cancelled |
-| ANDA215810 | Doxercalciferol (Alembic Pharmaceuticals Inc.) | Injection, solution | Cancelled |
-| ANDA211670 | Doxercalciferol (Meitheal Pharmaceuticals Inc.) | Injection, solution | Cancelled |
-| ANDA205360 | Doxercalciferol (Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.) | Capsule | Cancelled |
+| ANDA210452 | Doxercalciferol (Dr. Reddy's Laboratories Inc) | Injection | Valid |
+| ANDA213717 | Doxercalciferol (Eugia US LLC) | Injection, solution | Valid |
+| ANDA215810 | Doxercalciferol (Alembic Pharmaceuticals Inc.) | Injection, solution | Valid |
+| ANDA211670 | Doxercalciferol (Meitheal Pharmaceuticals Inc.) | Injection, solution | Valid |
+| ANDA205360 | Doxercalciferol (Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.) | Capsule | Valid |
 
 ## Safety Considerations
 
@@ -94,7 +94,7 @@ Package insert warnings and contraindications were not available in the compiled
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on the model score alone (Evidence Level L5), with no trials or publications. The target disease term is obsolete, and the prediction likely restates the drug's known vitamin D pharmacology rather than a new use. The drug also has no currently valid US authorization, and its safety label data are missing.
+The prediction rests on the model score alone (Evidence Level L5), with no trials or publications. The target disease term is obsolete, and the prediction likely restates the drug's known vitamin D pharmacology rather than a new use.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications, which are needed before any safety screening

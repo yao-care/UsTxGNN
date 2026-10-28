@@ -6,9 +6,9 @@ nav_order: 869
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Loperamide: predicted new indication Acute contagious conjunctivitis (evidence level L5). Approved use: Diarrheal disease, dysentery"
 monitor_inn: "LOPERAMIDE"
 predicted_indications: ["acute contagious conjunctivitis", "amebic dysentery", "conjunctivitis", "gastroduodenitis", "pseudomembranous conjunctivitis", "conjunctival folliculosis", "parasitic conjunctivitis", "chronic follicular conjunctivitis", "serous conjunctivitis except viral", "Angelucci syndrome"]
+description: "Loperamide: predicted new indication Acute contagious conjunctivitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Loperamide
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Loperamide: From Diarrheal Disease to Amebic Dysentery
+## Loperamide: Acute contagious conjunctivitis (rank 1); amebic dysentery (acute contagious conjunctivitis)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -49,11 +49,11 @@ The TxGNN model's top-ranked prediction is **acute contagious conjunctivitis**, 
 
 | Item | Content |
 |------|------|
-| Original Indication | Diarrheal disease, dysentery (from the knowledge graph; no approved indication text is available in the US license records) |
-| Predicted New Indication | Acute contagious conjunctivitis (rank 1); amebic dysentery (rank 2, best-supported) |
-| TxGNN Prediction Score | 99.97% (acute contagious conjunctivitis); 99.95% (amebic dysentery) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Acute contagious conjunctivitis (rank 1); amebic dysentery (acute contagious conjunctivitis) |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 (acute contagious conjunctivitis); L4 (amebic dysentery) |
-| US Market Status | Cancelled only (all licenses cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 10) |
 | Number of NDAs | 10 |
 | Recommended Decision | Hold |
 
@@ -63,7 +63,7 @@ The TxGNN model's top-ranked prediction is **acute contagious conjunctivitis**, 
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. From general pharmacology, loperamide is a peripheral mu-opioid receptor agonist that slows gut motility. Its efficacy in diarrheal disease is established.
 
-**Acute contagious conjunctivitis (rank 1):** There is no credible mechanism. Loperamide acts on the gut, and opioid receptors in the cornea do not support an anti-infective or anti-inflammatory role in an infectious ocular surface disease. The high score (0.9997) most likely reflects network proximity in the knowledge graph rather than pharmacology. The same applies to conjunctivitis (rank 3), pseudomembranous conjunctivitis (rank 5), conjunctival folliculosis (rank 6), parasitic conjunctivitis (rank 7), chronic follicular conjunctivitis (rank 8), serous conjunctivitis except viral (rank 9) and Angelucci syndrome (rank 10). Ranks 6 to 9 share an identical score, which suggests ontology-propagated predictions rather than independent signals.
+**Acute contagious conjunctivitis (rank 1):** There is no credible mechanism. Loperamide acts on the gut, and opioid receptors in the cornea do not support an anti-infective or anti-inflammatory role in an infectious ocular surface disease. The high score (0.9997) comes from the TxGNN model (deep learning) and most likely reflects similarities the model learned between related diseases, not biological evidence or pharmacology. The same applies to conjunctivitis (rank 3), pseudomembranous conjunctivitis (rank 5), conjunctival folliculosis (rank 6), parasitic conjunctivitis (rank 7), chronic follicular conjunctivitis (rank 8), serous conjunctivitis except viral (rank 9) and Angelucci syndrome (rank 10). Ranks 6 to 9 share an identical score, which suggests ontology-propagated predictions rather than independent signals.
 
 **Amebic dysentery (rank 2):** This is conceptually close to the original indication, since loperamide relieves diarrhea. However, loperamide has no anti-amebic activity. In invasive amebic infection, slowing motility may impair parasite clearance and raise the risk of toxic megacolon. Any use would be at most adjunctive to amebicidal therapy.
 
@@ -91,7 +91,7 @@ No literature is available for acute contagious conjunctivitis (rank 1). The fol
 
 ## US Market Information
 
-All 10 licenses are cancelled, and no approved indication text is recorded.
+All 10 licenses are valid, and no approved indication text is recorded.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -123,13 +123,13 @@ The package insert warnings and contraindications were not available in the data
 **Decision: Hold**
 
 **Rationale:**
-The rank-1 prediction (acute contagious conjunctivitis) and the other ocular predictions are graph-based only (L5), with no trials, no literature and no plausible mechanism. The two predictions with literature (amebic dysentery and gastroduodenitis, L4) show safety signals rather than efficacy. Antimotility agents are generally avoided in invasive dysentery. Also, all US licenses are cancelled.
+The rank-1 prediction (acute contagious conjunctivitis) and the other ocular predictions come only from the TxGNN model (deep learning) (L5), with no trials, no literature and no plausible mechanism. The two predictions with literature (amebic dysentery and gastroduodenitis, L4) show safety signals rather than efficacy. Antimotility agents are generally avoided in invasive dysentery. Also, the drug is marketed in the US, with 10 valid licenses.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data for loperamide
 - Any preclinical or clinical evidence for the predicted indications, and a clear route and dosage form rationale for any ocular use
-- Review of whether the prediction reflects knowledge graph artifacts, given the identical scores among the conjunctivitis subtypes
+- Review of whether the prediction reflects TxGNN model (deep learning) artifacts, given the identical scores among the conjunctivitis subtypes
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

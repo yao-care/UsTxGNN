@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **bronchitis**, but this is a c
 |------|------|
 | Original Indication | Conjunctivitis; acute contagious conjunctivitis |
 | Predicted New Indication | Bronchitis |
-| TxGNN Prediction Score | 99.84% |
+| TxGNN Prediction Score | 0.9984 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -59,7 +59,7 @@ Detailed mechanism-of-action data is not available in the data compiled for this
 
 There are important limits on this rationale. Besifloxacin exists only as an ophthalmic suspension with minimal systemic exposure, and no systemic or inhaled formulation is available. Most bronchitis cases are viral, which further weakens the case for an antibacterial. The very high TxGNN score reflects model output, not clinical evidence.
 
-Other predictions were also reviewed. Most are mechanistically weak, because they are immune-mediated or toxin-mediated conditions (postinfectious vasculitis, post-infectious syndrome, infection-related hemolytic uremic syndrome), anatomical or fibrotic (infective urethral stricture), or parasitic (Chagas cardiomyopathy). **Otitis externa** (score 99.03%) is the most mechanistically plausible, because topical fluoroquinolones are established treatments for it. However, no otic formulation or trial exists for besifloxacin.
+Other predictions were also reviewed. Most are mechanistically weak, because they are immune-mediated or toxin-mediated conditions (postinfectious vasculitis, post-infectious syndrome, infection-related hemolytic uremic syndrome), anatomical or fibrotic (infective urethral stricture), or parasitic (Chagas cardiomyopathy). **Otitis externa** (score 0.9903) is the most mechanistically plausible, because topical fluoroquinolones are established treatments for it. However, no otic formulation or trial exists for besifloxacin.
 
 ## Clinical Trial Evidence
 
@@ -79,7 +79,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA022308 | Besivance (Bausch & Lomb Americas Inc.) | Suspension | Not specified in the compiled data (license status: cancelled) |
+| NDA022308 | Besivance (Bausch & Lomb Americas Inc.) | Suspension | Not specified in the compiled data (license status: valid) |
 
 ## Cytotoxicity
 

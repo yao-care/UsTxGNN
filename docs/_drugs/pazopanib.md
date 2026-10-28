@@ -4,17 +4,17 @@ title: Pazopanib
 parent: Model Prediction Only (L5)
 nav_order: 1018
 evidence_level: L5
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-14
-description: "Pazopanib: predicted new indication Top-ranked: renal cell carcinoma associated with Xp11.2 translocation… (evidence level L5). Approved use: Renal cell carcinoma and soft tissue sarcoma"
 monitor_inn: "PAZOPANIB"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "heart fibrosarcoma", "fibroblastic neoplasm", "kidney fibrosarcoma", "dermatofibrosarcoma protuberans"]
+description: "Pazopanib: predicted new indication Liposarcoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Pazopanib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Pazopanib: From Renal Cell Carcinoma and Soft Tissue Sarcoma to Unclassified Renal Cell Carcinoma
+## Pazopanib: Liposarcoma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,12 +45,12 @@ The TxGNN model's top-ranked prediction is a rare renal cell carcinoma subtype w
 
 | Item | Content |
 |------|------|
-| Original Indication | Renal cell carcinoma and soft tissue sarcoma (from the knowledge graph; no approved-indication text in the US licence records) |
-| Predicted New Indication | Top-ranked: renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions. Best supported: unclassified renal cell carcinoma |
-| TxGNN Prediction Score | 99.63% (both predictions) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Liposarcoma |
+| TxGNN Prediction Score | 0.9959 |
 | Evidence Level | L5 for the top-ranked prediction; L3 for unclassified renal cell carcinoma |
-| US Market Status | Cancelled only (no currently valid licences) |
-| Number of NDAs | 7 (1 NDA, 6 ANDAs; all cancelled) |
+| US Market Status | Marketed (valid licenses: 7 of 7) |
+| Number of NDAs | 7 (valid: 7) |
 | Recommended Decision | Hold for the top-ranked prediction; Hold (research question) for unclassified renal cell carcinoma |
 
 **Note on the top-ranked prediction:** The rank-1 prediction (Xp11.2/TFE3 translocation renal cell carcinoma) has no clinical trials or literature in the data compiled for this report, so the high score rests on the model alone. The sections below therefore focus on the best-supported predictions in the same data: unclassified renal cell carcinoma (the closest to the rank-1 renal cell carcinoma context) and liposarcoma (the strongest trial evidence).
@@ -102,7 +102,7 @@ Unclassified renal cell carcinoma has no registered trials. The table below show
 
 ## US Market Information
 
-All seven US licences are cancelled; none is currently valid. Approved-indication text is not available in the licence records.
+Approved-indication text is not available in the licence records.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
@@ -121,7 +121,6 @@ Two further ANDAs (ANDA219034, Aurobindo Pharma; ANDA218231, Novugen Pharma) are
 | Cytotoxicity Classification | Targeted therapy (multi-target tyrosine kinase inhibitor), not a conventional cytotoxic agent |
 | Myelosuppression Risk | Please refer to the package insert warnings and precautions |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Please refer to the package insert; the knowledge graph flags liver injury, hypertension, QT prolongation and proteinuria, so liver function, blood pressure, ECG and urine protein are reasonable considerations |
 | Handling Protection | Please refer to the package insert warnings and precautions |
 
 ## Safety Considerations
@@ -144,7 +143,6 @@ Please refer to the package insert for the official warnings and contraindicatio
 - Official package insert warnings and contraindications (a blocking data gap for safety screening)
 - Mechanism of action data from DrugBank
 - Subgroup data confirming outcomes in unclassified RCC and, separately, in liposarcoma
-- Clarification of the US regulatory position, given that all licences are currently cancelled
 - A literature and trial search specific to Xp11.2/TFE3 translocation RCC before any further consideration
 ## Disclaimer
 

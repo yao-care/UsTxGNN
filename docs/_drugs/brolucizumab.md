@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "BROLUCIZUMAB"
 predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "esophageal varices with bleeding", "esophageal varices without bleeding", "exocrine pancreatic insufficiency"]
 last_modified_at: 2026-10-14
-description: "Brolucizumab: predicted new indication Mitochondrial oxidative phosphorylation disorder due to nuclear DNA a… (evidence level L5). Approved use: Macular degeneration"
+description: "Brolucizumab: predicted new indication mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies (evidence level L5). Approved use: Macular degeneration"
 ---
 
 # Brolucizumab
@@ -48,10 +48,10 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Macular degeneration (the US license record contains no indication text) |
 | Predicted New Indication | Mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies |
-| TxGNN Prediction Score | 99.67% |
+| TxGNN Prediction Score | 0.9967 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 (BLA761125) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -64,9 +64,9 @@ Three other predictions were also reviewed. All are L5 and Hold, with no trials 
 
 | Rank | Predicted Indication | TxGNN Score | Assessment |
 |------|------|------|------|
-| 2 | Esophageal varices with bleeding | 99.12% | VEGF-driven angiogenesis in portal hypertension is biologically conceivable. However, intravitreal dosing gives low systemic exposure, and anti-VEGF agents carry hemorrhagic and thromboembolic concerns. Standard care is well established. |
-| 3 | Esophageal varices without bleeding | 99.12% | The same speculative rationale applies. Prophylaxis already exists (non-selective beta-blockers, band ligation). |
-| 4 | Exocrine pancreatic insufficiency | 99.07% | No plausible link to VEGF-A inhibition was found. The score may reflect graph-based artifacts. |
+| 2 | Esophageal varices with bleeding | 0.9912 | VEGF-driven angiogenesis in portal hypertension is biologically conceivable. However, intravitreal dosing gives low systemic exposure, and anti-VEGF agents carry hemorrhagic and thromboembolic concerns. Standard care is well established. |
+| 3 | Esophageal varices without bleeding | 0.9912 | The same speculative rationale applies. Prophylaxis already exists (non-selective beta-blockers, band ligation). |
+| 4 | Exocrine pancreatic insufficiency | 0.9907 | No plausible link to VEGF-A inhibition was found. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. |
 
 ## Clinical Trial Evidence
 

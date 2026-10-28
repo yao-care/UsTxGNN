@@ -4,7 +4,7 @@ title: Iloperidone
 parent: Model Prediction Only (L5)
 nav_order: 789
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
 description: "Iloperidone: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Schizophrenia"
 monitor_inn: "ILOPERIDONE"
@@ -14,7 +14,7 @@ predicted_indications: ["retinal dystrophy with or without extraocular anomalies
 # Iloperidone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -39,8 +39,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 ## One-Sentence Summary
 
 Iloperidone is an atypical antipsychotic originally used to treat schizophrenia.
-The TxGNN model's top-ranked prediction is **retinal dystrophy with or without extraocular anomalies**, but it has **0 clinical trials** and **0 publications** behind it, so it is a graph-based prediction only.
-Among the model's ten predictions, only **manic bipolar affective disorder** (rank 10) has real supporting evidence, including a Phase 3 placebo-controlled study, and it is the more actionable direction (see below).
+The TxGNN model's top-ranked prediction is **retinal dystrophy with or without extraocular anomalies**, but it has **0 clinical trials** and **0 publications** behind it, so it is a model prediction only.
 
 ---
 
@@ -50,10 +49,10 @@ Among the model's ten predictions, only **manic bipolar affective disorder** (ra
 |------|------|
 | Original Indication | Schizophrenia |
 | Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 (model prediction only) |
-| US Market Status | Cancelled only (no currently valid licenses in the data) |
-| Number of NDAs | 2 (1 NDA, 1 ANDA; both cancelled) |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,7 +61,7 @@ Among the model's ten predictions, only **manic bipolar affective disorder** (ra
 
 Currently, detailed mechanism of action data is not available in the compiled data. From the published literature, iloperidone is a benzisoxazole atypical antipsychotic that antagonises dopamine D2 and serotonin 5-HT2A receptors. Its efficacy in schizophrenia is established.
 
-For retinal dystrophy, no mechanistic link is supported. Inherited retinal degeneration has no known pathway connecting it to D2/5-HT2A antagonism. The very high score (0.99999, rank 52 overall) reflects a pattern in the knowledge graph rather than a biological rationale. Treat this prediction as unvalidated until independent evidence appears.
+For retinal dystrophy, no mechanistic link is supported. Inherited retinal degeneration has no known pathway connecting it to D2/5-HT2A antagonism. The very high score (1.0000, rank 52 overall) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Treat this prediction as unvalidated until independent evidence appears.
 
 Most of the other top-ranked predictions are similarly implausible. They include a glycosylation disorder, hydranencephaly, Charcot-Marie-Tooth type 1G, a polymicrogyria syndrome, X-linked myopias and atypical glycine encephalopathy. All have no trials or literature.
 
@@ -80,9 +79,7 @@ Currently no related literature available.
 
 ---
 
-## Alternative Candidate With Evidence: Manic Bipolar Affective Disorder (Rank 10)
 
-Manic bipolar affective disorder has a lower TxGNN score (99.98%, overall rank 1121) but is the only prediction with supporting literature. The mechanistic rationale is strong. D2/5-HT2A antagonism is shared with other antipsychotics approved for acute mania.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
@@ -104,8 +101,8 @@ No registered clinical trials were supplied for this indication.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA022192 | FANAPT (Vanda Pharmaceuticals) | Tablet | Not listed in the compiled data; status cancelled |
-| ANDA207231 | Iloperidone (Mylan Pharmaceuticals) | Tablet | Not listed in the compiled data; status cancelled |
+| NDA022192 | FANAPT (Vanda Pharmaceuticals) | Tablet | Not listed in the compiled data; status valid |
+| ANDA207231 | Iloperidone (Mylan Pharmaceuticals) | Tablet | Not listed in the compiled data; status valid |
 
 The licence data shows both authorizations as cancelled. However, the 2026 literature describes iloperidone as approved in the USA for schizophrenia (2009) and acute bipolar I disorder (2024). This conflict should be reconciled against the current FDA record.
 
@@ -131,7 +128,7 @@ Label warnings and contraindications were not available in the compiled data, so
 **Decision: Hold** (for retinal dystrophy, the top-ranked prediction)
 
 **Rationale:**
-- The prediction rests only on a knowledge-graph score. There are no trials or publications, and no plausible mechanism links an antipsychotic to inherited retinal degeneration.
+- The prediction rests only on a TxGNN model (deep learning) score. There are no trials or publications, and no plausible mechanism links an antipsychotic to inherited retinal degeneration.
 - If the goal is a practical repurposing direction, manic bipolar affective disorder has Phase 3 RCT support and may merit **Proceed with Guardrails**. This is subject to the licence-status discrepancy and the evidence-level check.
 
 **To proceed, the following is needed:**

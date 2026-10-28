@@ -4,17 +4,17 @@ title: Metolazone
 parent: Model Prediction Only (L5)
 nav_order: 919
 evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-14
-description: "Metolazone: predicted new indication Malignant renovascular hypertension (evidence level L5). Approved use: Hypertensive disorder / hypertension"
+indication_count: 4
+last_modified_at: 2026-10-28
 monitor_inn: "METOLAZONE"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
+description: "Metolazone: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Metolazone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,23 +33,23 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-## Metolazone: From Hypertension to Malignant Renovascular Hypertension
+## Metolazone: Malignant hypertensive renal disease
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Metolazone is a thiazide-like diuretic originally used to treat hypertension.
-The TxGNN model predicts it may be effective for **malignant renovascular hypertension**, but **0 clinical trials** and **0 publications** currently support this prediction. The result is a computational prediction only.
+The result is a computational prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertensive disorder / hypertension |
-| Predicted New Indication | Malignant renovascular hypertension |
-| TxGNN Prediction Score | 99.84% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Malignant hypertensive renal disease |
+| TxGNN Prediction Score | 0.9984 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 10) |
 | Number of NDAs | 10 (all cancelled; listed as ANDAs) |
 | Recommended Decision | Hold |
 
@@ -62,9 +62,9 @@ Malignant renovascular hypertension is driven largely by activation of the renin
 The score is a computational prediction only. No trials or publications support it, and overlap with the original indication (hypertension) may inflate it.
 
 Other predicted indications from the model are weaker still:
-- **Malignant hypertensive renal disease** (score 99.84%): a renal complication of severe hypertension. Metolazone is known to retain efficacy in reduced renal function, which offers a plausible rationale, but there is no clinical validation.
-- **Pulmonary hypertension owing to lung disease and/or hypoxia** (99.83%) and **pulmonary hypertension with unclear multifactorial mechanism** (99.83%): diuretics may relieve right-heart volume overload, but this is symptom management, not disease modification. Systemic and pulmonary hypertension are distinct conditions, so the shared name likely drives the prediction.
-- **Braddock syndrome** (99.78%): a rare genetic condition with no evident mechanistic link to thiazide-like action. The prediction is likely a knowledge-graph artifact.
+- **Malignant hypertensive renal disease** (score 0.9984): a renal complication of severe hypertension. Metolazone is known to retain efficacy in reduced renal function, which offers a plausible rationale, but there is no clinical validation.
+- **Pulmonary hypertension owing to lung disease and/or hypoxia** (0.9983) and **pulmonary hypertension with unclear multifactorial mechanism** (0.9983): diuretics may relieve right-heart volume overload, but this is symptom management, not disease modification. Systemic and pulmonary hypertension are distinct conditions, so the shared name likely drives the prediction.
+- **Braddock syndrome** (0.9978): a rare genetic condition with no evident mechanistic link to thiazide-like action. The prediction is likely a TxGNN model (deep learning) artifact.
 
 ## Clinical Trial Evidence
 
@@ -82,13 +82,12 @@ No literature was found for the top predicted indication. For the third-ranked i
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA076466 | Metolazone (Sandoz Inc) | Tablet | Not available (cancelled) |
-| ANDA217563 | Metolazone (Micro Labs Limited) | Tablet | Not available (cancelled) |
-| ANDA213827 | Metolazone (American Health Packaging) | Tablet | Not available (cancelled) |
-| ANDA214799 | Metolazone (Unichem Pharmaceuticals (USA), Inc.) | Tablet | Not available (cancelled) |
-| ANDA076698 | Metolazone (Mylan Pharmaceuticals Inc.) | Tablet | Not available (cancelled) |
+| ANDA076466 | Metolazone (Sandoz Inc) | Tablet | Not available (valid) |
+| ANDA217563 | Metolazone (Micro Labs Limited) | Tablet | Not available (valid) |
+| ANDA213827 | Metolazone (American Health Packaging) | Tablet | Not available (valid) |
+| ANDA214799 | Metolazone (Unichem Pharmaceuticals (USA), Inc.) | Tablet | Not available (valid) |
+| ANDA076698 | Metolazone (Mylan Pharmaceuticals Inc.) | Tablet | Not available (valid) |
 
-All 10 authorizations on record are cancelled; the table shows the first 5. There are no valid single-ingredient or combination licenses.
 
 ## Safety Considerations
 
@@ -113,13 +112,12 @@ Please refer to the package insert for official warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The high TxGNN score (99.84%) is a model prediction only. No clinical trials or publications support it (Evidence Level L5). Metolazone has no currently valid US licenses, and the shared hypertension terminology likely inflates the score.
+The high TxGNN score (0.9984) is a model prediction only. No clinical trials or publications support it (Evidence Level L5).
 
 **To proceed, the following is needed:**
 - Official package insert warnings and contraindications (the current safety data comes only from the knowledge graph)
 - Mechanism of action data
 - A literature and trial search specific to renovascular and malignant hypertension
-- Review of the regulatory and market status, since all US licenses are cancelled
 - Route compatibility and similarity-to-original-indication assessments (currently pending)
 ## Disclaimer
 

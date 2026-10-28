@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Ethambutol
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 681
-evidence_level: L4
+evidence_level: L5
 indication_count: 5
 monitor_inn: "ETHAMBUTOL"
 predicted_indications: ["epiglottitis", "laryngitis", "meningococcal infection", "peritonitis", "infectious otitis media"]
 last_modified_at: 2026-10-14
-description: "Ethambutol: predicted new indication Epiglottitis (evidence level L4). Approved use: Pulmonary tuberculosis"
+description: "Ethambutol: predicted new indication Epiglottitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Ethambutol
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **5**
 
 </div>
 
-## Ethambutol: From Pulmonary Tuberculosis to Epiglottitis
+## Ethambutol: Epiglottitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,19 +46,19 @@ The evidence indicates that this is a tuberculosis-related manifestation, not a 
 
 | Item | Content |
 |------|------|
-| Original Indication | Pulmonary tuberculosis |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Epiglottitis |
-| TxGNN Prediction Score | 99.90% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 3 (all cancelled) |
+| TxGNN Prediction Score | 0.9990 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 3 of 3) |
+| Number of NDAs | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Ethambutol inhibits arabinosyl transferase, an enzyme that mycobacteria need to build their cell wall. This is how it acts against *Mycobacterium tuberculosis* as part of multidrug anti-TB regimens. Detailed mechanism data was not available in the data compiled for this report, so this description reflects the drug's generally known pharmacology.
 
-The link between tuberculosis and epiglottitis most likely comes from laryngeal tuberculosis, in which the epiglottis can be one of the affected sites. In the one case series retrieved (41 patients), patients were treated with multidrug anti-TB regimens that included ethambutol. This supports ethambutol as part of anti-TB therapy when TB involves the larynx. It does not support use against typical epiglottitis, which is mainly caused by bacteria such as *Haemophilus influenzae* type b and streptococci, and against which ethambutol has no known activity. The high TxGNN score probably reflects the TB-to-upper-airway association in the knowledge graph.
+The link between tuberculosis and epiglottitis most likely comes from laryngeal tuberculosis, in which the epiglottis can be one of the affected sites. In the one case series retrieved (41 patients), patients were treated with multidrug anti-TB regimens that included ethambutol. This supports ethambutol as part of anti-TB therapy when TB involves the larynx. It does not support use against typical epiglottitis, which is mainly caused by bacteria such as *Haemophilus influenzae* type b and streptococci, and against which ethambutol has no known activity. The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Clinical Trial Evidence
 
@@ -74,9 +74,9 @@ Currently no related clinical trials registered.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA075095 | Ethambutol Hydrochloride (Epic Pharma) | Tablet, film coated | Not specified (status: cancelled) |
-| NDA016320 | Ethambutol Hydrochloride (Marlex Pharmaceuticals) | Tablet, film coated | Not specified (status: cancelled) |
-| ANDA078939 | Ethambutol Hydrochloride (Lupin Pharmaceuticals) | Tablet | Not specified (status: cancelled) |
+| ANDA075095 | Ethambutol Hydrochloride (Epic Pharma) | Tablet, film coated | Not specified (status: valid) |
+| NDA016320 | Ethambutol Hydrochloride (Marlex Pharmaceuticals) | Tablet, film coated | Not specified (status: valid) |
+| ANDA078939 | Ethambutol Hydrochloride (Lupin Pharmaceuticals) | Tablet | Not specified (status: valid) |
 
 ## Safety Considerations
 
@@ -90,14 +90,14 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The only supporting evidence is a single case series on laryngeal tuberculosis, where ethambutol is one component of a multidrug regimen. This extends the existing anti-TB role to a specific anatomical site rather than creating a new indication for epiglottitis. There are no clinical trials, and a plausible mechanism against typical epiglottitis pathogens is lacking. Ethambutol also currently has no valid US licenses.
+The only supporting evidence is a single case series on laryngeal tuberculosis, where ethambutol is one component of a multidrug regimen. This extends the existing anti-TB role to a specific anatomical site rather than creating a new indication for epiglottitis. There are no clinical trials, and a plausible mechanism against typical epiglottitis pathogens is lacking.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data
 - A clear case definition separating tuberculous epiglottitis from bacterial epiglottitis
 - Clinical data isolating ethambutol's contribution, beyond combination regimens
-- Clarification of the regulatory and market status, given that all US licenses are cancelled
+- Clarification of the regulatory and market status, given that the drug is marketed with 3 valid US licenses out of 3
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "MEXILETINE"
 predicted_indications: ["hypertrichosis (disease)", "nephrogenic syndrome of inappropriate antidiuresis", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "migraine disorder", "isolated genetic hair shaft abnormality", "pulmonary hypertension", "migraine with brainstem aura", "headache disorder"]
 last_modified_at: 2026-10-14
-description: "Mexiletine: predicted new indication Headache disorder (evidence level L5). Approved use: Not available in the compiled data"
+description: "Mexiletine: predicted new indication Hypertrichosis (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Mexiletine
@@ -33,14 +33,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Mexiletine: From Ventricular Arrhythmia to Headache Disorder
+## Mexiletine: Hypertrichosis (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Mexiletine is a class IB sodium channel blocker. The data compiled for this report do not include the text of its US-approved indication, but it is widely known as an oral antiarrhythmic.
 The TxGNN model predicts it may be effective for several conditions. The best-supported one is **Headache Disorder**, which has **0 registered clinical trials** and **5 publications** (mostly small, open-label studies and case series).
-The top-scoring prediction, hypertrichosis, has no supporting evidence and looks like a graph artifact.
 
 ---
 
@@ -48,11 +47,11 @@ The top-scoring prediction, hypertrichosis, has no supporting evidence and looks
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in the compiled data (approved indication text is empty for all licenses) |
-| Predicted New Indication | Headache disorder (highest-ranked prediction with supporting literature; the top TxGNN-ranked prediction is hypertrichosis, which has no evidence) |
-| TxGNN Prediction Score | 99.48% (headache disorder); 99.78% (hypertrichosis, rank 1) |
-| Evidence Level | L3 (headache disorder); L5 for the top-ranked prediction |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Hypertrichosis (disease) |
+| TxGNN Prediction Score | 0.9978 |
+| Evidence Level | L5 (headache disorder); L5 for the top-ranked prediction |
+| US Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of NDAs | 5 (all cancelled; these are ANDA generic applications) |
 | Recommended Decision | Hold (headache disorder may be advanced as a research question) |
 
@@ -64,7 +63,6 @@ Detailed mechanism of action data is not available in the compiled data. Based o
 
 Sodium channel blockade may dampen the hyperexcitability of trigeminal and central pain pathways. Small studies report benefit of mexiletine or intravenous lidocaine in trigeminal autonomic cephalalgias, SUNCT/SUNA, refractory chronic daily headache and vascular headaches. The link to **migraine** itself is more indirect, because the evidence comes from related but different headache subtypes.
 
-Most other top-ranked predictions have no plausible mechanistic link and are likely artifacts of network proximity in the knowledge graph:
 - **Hypertrichosis, Ambras-type hypertrichosis, hair shaft abnormality:** structural or genetic hair disorders with no link to sodium channel blockade.
 - **Nephrogenic syndrome of inappropriate antidiuresis:** caused by gain-of-function variants in the vasopressin V2 receptor.
 - **Developmental malformation syndromes (odontal/periodontal, Dandy-Walker):** structural defects not expected to respond to a sodium channel blocker.
@@ -102,7 +100,7 @@ The following publications relate to other predictions and offer only indirect s
 
 ## US Market Information
 
-All five US authorizations are cancelled. The approved indication text is not available in the compiled data.
+The approved indication text is not available in the compiled data.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -133,7 +131,6 @@ All five US authorizations are cancelled. The approved indication text is not av
 **Rationale:**
 - Most predictions, including the top-ranked hypertrichosis, have no clinical or literature support and no plausible mechanism (L5).
 - Headache disorder and migraine have only small, uncontrolled, mostly older studies (L3), with no registered trials. They are suitable as a research question, but not for a Go decision.
-- All US licenses are cancelled, and package insert safety data are missing, so safety screening cannot proceed.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (blocking gap).

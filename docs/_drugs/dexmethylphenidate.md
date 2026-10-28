@@ -6,9 +6,9 @@ nav_order: 595
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Dexmethylphenidate: predicted new indication Specific developmental disorder (evidence level L5). Approved use: Attention deficit hyperactivity disorder (including the inattentive t…"
 monitor_inn: "DEXMETHYLPHENIDATE"
 predicted_indications: ["specific developmental disorder", "faciodigitogenital syndrome", "chondromyxoid fibroma", "multiple system atrophy", "variably protease-sensitive prionopathy", "manic bipolar affective disorder", "trichotillomania", "cerebellar ataxia", "autosomal dominant cerebellar ataxia", "postural orthostatic tachycardia syndrome"]
+description: "Dexmethylphenidate: predicted new indication Specific developmental disorder (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Dexmethylphenidate
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Dexmethylphenidate: From Attention Deficit Hyperactivity Disorder to Specific Developmental Disorder
+## Dexmethylphenidate: Specific developmental disorder
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ but **no clinical trials** and **no publications** currently support this predic
 
 | Item | Content |
 |------|------|
-| Original Indication | Attention deficit hyperactivity disorder (including the inattentive type) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Specific developmental disorder |
-| TxGNN Prediction Score | 99.9997% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all 9 authorizations cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 9) |
 | Number of NDAs | 9 (1 NDA and 8 ANDAs) |
 | Recommended Decision | Hold |
 
@@ -58,9 +58,9 @@ but **no clinical trials** and **no publications** currently support this predic
 
 Currently, detailed mechanism of action data is not available. Based on known information, dexmethylphenidate is a central nervous system stimulant that is understood to raise synaptic dopamine and norepinephrine levels by blocking their reuptake. Its efficacy in ADHD is established, but this mechanism cannot be verified from the data compiled for this report.
 
-ADHD is itself a neurodevelopmental condition, so the high score probably reflects closeness between disease classes in the knowledge graph rather than a new therapeutic mechanism. Specific developmental disorders (such as learning or language difficulties) often occur together with ADHD, which may explain the association. This is an interpretation, and no study was supplied to confirm it.
+ADHD is itself a neurodevelopmental condition, so the high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence or a new therapeutic mechanism. Specific developmental disorders (such as learning or language difficulties) often occur together with ADHD, which may explain the association. This is an interpretation, and no study was supplied to confirm it.
 
-The other top predictions are weaker still. Faciodigitogenital syndrome, chondromyxoid fibroma and variably protease-sensitive prionopathy have no plausible link to this drug mechanism, and their high scores are likely graph artifacts. Multiple system atrophy and postural orthostatic tachycardia syndrome are speculatively linked through catecholamine pathways, but a stimulant could worsen blood pressure or heart rate in both. Manic bipolar affective disorder has two review papers, but they cover treating ADHD within bipolar patients, not treating mania. Stimulants may in fact precipitate mania.
+The other top predictions are weaker still. Faciodigitogenital syndrome, chondromyxoid fibroma and variably protease-sensitive prionopathy have no plausible link to this drug mechanism, and their high scores likely reflect similarities the TxGNN model (deep learning) learned between related diseases, not biological evidence. Multiple system atrophy and postural orthostatic tachycardia syndrome are speculatively linked through catecholamine pathways, but a stimulant could worsen blood pressure or heart rate in both. Manic bipolar affective disorder has two review papers, but they cover treating ADHD within bipolar patients, not treating mania. Stimulants may in fact precipitate mania.
 
 ## Clinical Trial Evidence
 
@@ -77,15 +77,15 @@ No literature was found for the top predicted indication (specific developmental
 
 ## US Market Information
 
-All nine authorizations are cancelled. No approved indication text is available for them.
+The drug is marketed, with nine valid authorizations. No approved indication text is available for them.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| NDA021802 | Focalin (Sandoz Inc) | Extended-release capsule | Cancelled |
-| ANDA215523 | Dexmethylphenidate Hydrochloride (Camber) | Extended-release capsule | Cancelled |
-| ANDA213813 | Dexmethylphenidate Hydrochloride (Granules) | Extended-release capsule | Cancelled |
-| ANDA210279 | Dexmethylphenidate Hydrochloride (Lannett) | Extended-release capsule | Cancelled |
-| ANDA212631 | Dexmethylphenidate Hydrochloride (Ascend) | Tablet | Cancelled |
+| NDA021802 | Focalin (Sandoz Inc) | Extended-release capsule | Valid |
+| ANDA215523 | Dexmethylphenidate Hydrochloride (Camber) | Extended-release capsule | Valid |
+| ANDA213813 | Dexmethylphenidate Hydrochloride (Granules) | Extended-release capsule | Valid |
+| ANDA210279 | Dexmethylphenidate Hydrochloride (Lannett) | Extended-release capsule | Valid |
+| ANDA212631 | Dexmethylphenidate Hydrochloride (Ascend) | Tablet | Valid |
 
 Four further authorizations (extended-release capsule from Par Health; tablets from Bryant Ranch Prepack, Lupin and Sun Pharmaceutical) are also cancelled.
 
@@ -109,13 +109,12 @@ Please refer to the package insert for warnings and contraindications, which wer
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on the model score only (L5), with no trials or literature, and the score may reflect disease-class proximity to ADHD rather than a true new indication. All US authorizations are also cancelled, and the knowledge graph flags several relevant safety conditions.
+The prediction rests on the model score only (L5), with no trials or literature, and the score from the TxGNN model (deep learning) may reflect similarities the model learned between related diseases such as ADHD, not biological evidence. The drug is marketed in the US with nine valid authorizations, and the knowledge graph flags several relevant safety conditions.
 
 **To proceed, the following is needed:**
 - Mechanism of action data (for example from DrugBank) to assess the mechanistic link
 - FDA package insert warnings and contraindications for formal safety screening
 - A literature and trial search specific to specific developmental disorder, and a clear definition of which conditions that term covers
-- Clarification of why the drug is no longer marketed in the US (cancelled authorizations)
 - Review of the other top predictions, which are likely artifacts or safety-limited, only if a clear rationale emerges
 ## Disclaimer
 

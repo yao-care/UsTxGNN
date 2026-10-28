@@ -48,9 +48,9 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Tyrosinemia |
 | Predicted New Indication | Renal tubular acidosis |
-| TxGNN Prediction Score | 99.96% |
+| TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 6) |
 | Number of NDAs | 6 (all cancelled; includes NDA and ANDA entries) |
 | Recommended Decision | Hold |
 
@@ -76,11 +76,11 @@ For context, the second-ranked prediction (galactosemia) and the fifth-ranked pr
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA209449 | NITYR | Tablet | Not specified (status: cancelled) |
-| NDA021232 | Orfadin | Capsule | Not specified (status: cancelled) |
-| ANDA216201 | Nitisinone (Eton Pharmaceuticals) | Capsule | Not specified (status: cancelled) |
-| ANDA211041 | Nitisinone (Endo USA) | Capsule | Not specified (status: cancelled) |
-| NDA206356 | ORFADIN | Suspension | Not specified (status: cancelled) |
+| NDA209449 | NITYR | Tablet | Not specified (status: valid) |
+| NDA021232 | Orfadin | Capsule | Not specified (status: valid) |
+| ANDA216201 | Nitisinone (Eton Pharmaceuticals) | Capsule | Not specified (status: valid) |
+| ANDA211041 | Nitisinone (Endo USA) | Capsule | Not specified (status: valid) |
+| NDA206356 | ORFADIN | Suspension | Not specified (status: valid) |
 
 A sixth entry, ANDA212390 (Nitisinone, Analog Pharma, capsule), is also cancelled.
 
@@ -111,13 +111,13 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction for renal tubular acidosis has a high model score but no clinical trials or publications. The mechanistic link is indirect (through Fanconi-type tubular dysfunction in tyrosinemia type 1). All six US licenses are cancelled, and knowledge-graph signals flag kidney disease as a contraindication.
+The prediction for renal tubular acidosis has a high model score but no clinical trials or publications. The mechanistic link is indirect (through Fanconi-type tubular dysfunction in tyrosinemia type 1). The drug is marketed with six valid US licenses. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 **To proceed, the following is needed:**
 - Retrieve and review the current FDA package insert (warnings and contraindications)
 - Confirm the mechanism of action from DrugBank
 - Literature search and preclinical or case-level evidence for nitisinone in renal tubular acidosis, separating tyrosinemia-related tubulopathy from other causes
-- Clarify the regulatory and market status, since all listed US licenses are cancelled
+- Clarify the regulatory and market status, since the drug is marketed with six valid US licenses
 - Review the kidney-disease contraindication signal and assess a safety monitoring plan
 ## Disclaimer
 

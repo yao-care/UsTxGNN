@@ -6,9 +6,9 @@ nav_order: 1229
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Tinidazole: predicted new indication Postmenopausal atrophic vaginitis (evidence level L5). Approved use: Giardiasis, bacterial vaginosis, vaginitis, vulvitis, vulvovaginitis…"
 monitor_inn: "TINIDAZOLE"
 predicted_indications: ["postmenopausal atrophic vaginitis", "ulceration of vulva", "vulvar neoplasm", "breast fibrocystic disease", "AIDS", "apocrine adenosis of breast", "blunt duct adenosis of breast", "congenital human immunodeficiency virus", "AIDS related complex", "benign mammary dysplasia"]
+description: "Tinidazole: predicted new indication Postmenopausal atrophic vaginitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Tinidazole
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Tinidazole: From Giardiasis and Vaginal Infections to Postmenopausal Atrophic Vaginitis
+## Tinidazole: Postmenopausal atrophic vaginitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,19 +45,19 @@ The TxGNN model predicts it may be effective for **postmenopausal atrophic vagin
 
 | Item | Content |
 |------|------|
-| Original Indication | Giardiasis, bacterial vaginosis, vaginitis, vulvitis, vulvovaginitis, amoebiasis (*Entamoeba histolytica*), trichomoniasis (from the knowledge-graph indication list; no label text available) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Postmenopausal atrophic vaginitis |
-| TxGNN Prediction Score | 99.93% |
+| TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 4 authorizations on record (1 NDA, 3 ANDAs), all cancelled |
+| US Market Status | Marketed (valid licenses: 4 of 4) |
+| Number of NDAs | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, tinidazole belongs to the 5-nitroimidazole class of antimicrobials. Its efficacy in infectious vaginitis and bacterial vaginosis is established.
 
-The prediction is probably not mechanistically grounded. Atrophic vaginitis after menopause is caused by estrogen deficiency, not infection, so an antimicrobial offers no clear rationale. The high score most likely reflects the closeness of "postmenopausal atrophic vaginitis" to the approved vaginitis indications in the knowledge graph. It should be treated as a graph-proximity artifact until proven otherwise.
+The prediction is probably not mechanistically grounded. Atrophic vaginitis after menopause is caused by estrogen deficiency, not infection, so an antimicrobial offers no clear rationale. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It should be treated as such until proven otherwise.
 
 Other top-ranked predictions show a similar pattern. Ulceration of vulva and vulvar neoplasm follow the same anatomical-proximity logic. Several benign breast conditions have no plausible microbial driver. The AIDS-related predictions have only indirect relevance, through treatment of co-infections.
 
@@ -94,12 +94,12 @@ The following publications were found for the lower-ranked AIDS prediction. They
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA021618 | Tinidazole (BioComp Pharma) | Film-coated tablet | Not available; status cancelled |
-| ANDA202044 | Tinidazole (Chartwell RX) | Film-coated tablet | Not available; status cancelled |
-| ANDA202489 | Tindazole (Rising Pharma) | Film-coated tablet | Not available; status cancelled |
-| ANDA203808 | Tinidazole (Edenbridge) | Tablet | Not available; status cancelled |
+| NDA021618 | Tinidazole (BioComp Pharma) | Film-coated tablet | Not available; status valid |
+| ANDA202044 | Tinidazole (Chartwell RX) | Film-coated tablet | Not available; status valid |
+| ANDA202489 | Tindazole (Rising Pharma) | Film-coated tablet | Not available; status valid |
+| ANDA203808 | Tinidazole (Edenbridge) | Tablet | Not available; status valid |
 
-All four authorizations on record are cancelled, and all products are oral.
+All four authorizations on record are valid, and all products are oral.
 
 ## Safety Considerations
 
@@ -113,7 +113,7 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has only model support (L5). Atrophic vaginitis is a hormone-deficiency condition with no clear antimicrobial rationale, and the high score likely reflects graph proximity to infectious vaginitis. No trials or literature exist, and US licenses are all cancelled.
+The prediction has only model support (L5). Atrophic vaginitis is a hormone-deficiency condition with no clear antimicrobial rationale, and the high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No trials or literature exist, and all four US licenses are valid.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and a rationale for a non-infectious indication

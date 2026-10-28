@@ -4,17 +4,17 @@ title: Pentobarbital
 parent: Model Prediction Only (L5)
 nav_order: 1028
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Pentobarbital: predicted new indication Obesity disorder (evidence level L5). Approved use: Epilepsy, insomnia, status epilepticus, brain ischaemia…"
 monitor_inn: "PENTOBARBITAL"
 predicted_indications: ["obesity disorder", "manic bipolar affective disorder", "hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "obsolete hypertelorism (disease)", "major affective disorder", "frontorhiny", "monogenic obesity", "trichotillomania"]
+description: "Pentobarbital: predicted new indication Obesity disorder (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Pentobarbital
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Pentobarbital: From Epilepsy and Insomnia to Obesity Disorder
+## Pentobarbital: Obesity disorder
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,12 +47,12 @@ The TxGNN model predicts it may be effective for **obesity disorder**, but there
 
 | Item | Content |
 |------|------|
-| Original Indication | Epilepsy, insomnia, status epilepticus, brain ischaemia, transient ischaemic attack (from the knowledge graph; the US licence records contain no indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Obesity disorder |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no active licences) |
-| Number of NDAs | 2 (both ANDAs, both cancelled) |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ---
@@ -99,7 +99,6 @@ None of the publications tests pentobarbital as a treatment for obesity. The tab
 | ANDA206404 (cancelled) | Pentobarbital sodium (Sagent Pharmaceuticals) | Injection, solution | Not listed |
 | ANDA203619 (cancelled) | Pentobarbital Sodium (Hikma Pharmaceuticals USA Inc., dba Leucadia Pharmaceuticals) | Injection, solution | Not listed |
 
-Both authorizations are cancelled, so there is no currently valid US licence for a single-ingredient product.
 
 ---
 
@@ -130,7 +129,7 @@ Barbiturates in general also carry risks of dependence, respiratory depression, 
 **Decision: Hold**
 
 **Rationale:**
-The obesity prediction has no clinical trials, no human studies, and no plausible mechanism. The literature uses pentobarbital only as an experimental anaesthetic. The drug also has no active US licence and a substantial safety burden. Other top predictions are either overlapping with original indications (insomnia), supported only by outdated uncontrolled reports (mood disorders), or have no evidence at all.
+The obesity prediction has no clinical trials, no human studies, and no plausible mechanism. The literature uses pentobarbital only as an experimental anaesthetic. Other top predictions are either overlapping with original indications (insomnia), supported only by outdated uncontrolled reports (mood disorders), or have no evidence at all.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

@@ -46,9 +46,9 @@ Carboprost tromethamine is a prostaglandin F2alpha analog marketed in the US as 
 |------|------|
 | Original Indication | Not stated in the data compiled for this report (the drug is known as an injectable uterotonic used in obstetrics) |
 | Predicted New Indication | Atypical coarctation of aorta |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 13) |
 | Number of NDAs | 13 licenses listed (1 NDA, 12 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
@@ -56,21 +56,21 @@ Carboprost tromethamine is a prostaglandin F2alpha analog marketed in the US as 
 
 Detailed mechanism of action data is not available in the compiled data. Based on known pharmacology, carboprost is a 15-methyl analog of prostaglandin F2alpha. It acts on FP receptors to cause smooth muscle contraction in the uterus, blood vessels and bronchi.
 
-For atypical coarctation of aorta, there is no plausible mechanistic rationale. It is a structural congenital defect, and an FP agonist would not correct it. Vasoconstriction could even be harmful. In neonates with ductal-dependent lesions, the relevant prostaglandin is PGE1, not PGF2alpha. The high TxGNN score most likely reflects knowledge-graph proximity to prostaglandin-related cardiovascular entries rather than a true therapeutic link.
+For atypical coarctation of aorta, there is no plausible mechanistic rationale. It is a structural congenital defect, and an FP agonist would not correct it. Vasoconstriction could even be harmful. In neonates with ductal-dependent lesions, the relevant prostaglandin is PGE1, not PGF2alpha. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, rather than a true therapeutic link.
 
 **Other predictions reviewed (all prediction-only, L5, Hold):**
 
 | Rank | Predicted Indication | Score | Assessment |
 |---|------|------|------|
-| 2 | Aortic malformation | 99.98% | Structural defect; no response expected to an FP agonist |
-| 3 | Migraine with brainstem aura | 99.97% | PGF2alpha agonism is not an established therapy; the drug commonly causes headache, nausea and vomiting |
-| 4 | Migraine disorder | 99.96% | Expected to be pro-nociceptive or neutral |
-| 5 | Pulmonary hypertension | 99.93% | Carboprost can raise pulmonary arterial pressure; this is a safety concern, not an opportunity |
-| 6 | Non-syndromic esophageal malformation | 99.92% | Structural and surgically managed; no pharmacologic link |
-| 7 | Kyphoscoliotic heart disease | 99.92% | Benefit implausible, harm possible |
-| 8 | Amenorrhea | 99.89% | Biologically closest (reproductive system), but no recognized treatment pathway; pregnancy must be excluded |
-| 9 | Esophageal disease | 99.83% | Drug typically causes GI adverse effects |
-| 10 | Primary hereditary glaucoma | 99.69% | FP agonist class precedent (latanoprost, etc.) is real, but would need a dedicated ocular formulation; systemic use is not appropriate |
+| 2 | Aortic malformation | 0.9998 | Structural defect; no response expected to an FP agonist |
+| 3 | Migraine with brainstem aura | 0.9997 | PGF2alpha agonism is not an established therapy; the drug commonly causes headache, nausea and vomiting |
+| 4 | Migraine disorder | 0.9996 | Expected to be pro-nociceptive or neutral |
+| 5 | Pulmonary hypertension | 0.9993 | Carboprost can raise pulmonary arterial pressure; this is a safety concern, not an opportunity |
+| 6 | Non-syndromic esophageal malformation | 0.9992 | Structural and surgically managed; no pharmacologic link |
+| 7 | Kyphoscoliotic heart disease | 0.9992 | Benefit implausible, harm possible |
+| 8 | Amenorrhea | 0.9989 | Biologically closest (reproductive system), but no recognized treatment pathway; pregnancy must be excluded |
+| 9 | Esophageal disease | 0.9983 | Drug typically causes GI adverse effects |
+| 10 | Primary hereditary glaucoma | 0.9969 | FP agonist class precedent (latanoprost, etc.) is real, but would need a dedicated ocular formulation; systemic use is not appropriate |
 
 Of these, glaucoma has the strongest class-based mechanistic rationale, but it would require a new topical formulation and preclinical work.
 
@@ -84,15 +84,15 @@ Currently no related literature available.
 
 ## US Market Information
 
-All 13 licenses are cancelled and none are currently valid. No approved indication text is available in the data compiled for this report. Up to 5 main authorizations are shown:
+The drug is marketed, with 13 valid licenses. No approved indication text is available in the data compiled for this report. Up to 5 main authorizations are shown:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA017989 | Hemabate (Pharmacia & Upjohn) | Injection, solution | Not available (cancelled) |
-| ANDA217198 | Carboprost Tromethamine (Alembic) | Injection, solution | Not available (cancelled) |
-| ANDA216939 | Carboprost Tromethamine (Eugia US) | Injection, solution | Not available (cancelled) |
-| ANDA215901 | Carboprost Tromethamine (ANI Pharmaceuticals) | Injection | Not available (cancelled) |
-| ANDA211941 | Carboprost Tromethamine (Dr. Reddy's) | Injection, solution | Not available (cancelled) |
+| NDA017989 | Hemabate (Pharmacia & Upjohn) | Injection, solution | Not available (valid) |
+| ANDA217198 | Carboprost Tromethamine (Alembic) | Injection, solution | Not available (valid) |
+| ANDA216939 | Carboprost Tromethamine (Eugia US) | Injection, solution | Not available (valid) |
+| ANDA215901 | Carboprost Tromethamine (ANI Pharmaceuticals) | Injection | Not available (valid) |
+| ANDA211941 | Carboprost Tromethamine (Dr. Reddy's) | Injection, solution | Not available (valid) |
 
 ## Safety Considerations
 
@@ -108,13 +108,13 @@ From the mechanism-of-action review of the predicted indications, the following 
 **Decision: Hold**
 
 **Rationale:**
-All ten predictions are model output only (L5), with no clinical trials or literature. For the top predictions (aortic and esophageal malformations, migraine, pulmonary hypertension), the drug's FP-agonist mechanism is irrelevant or potentially harmful. All US licenses are cancelled, so there is no active marketed product.
+All ten predictions are model output only (L5), with no clinical trials or literature. For the top predictions (aortic and esophageal malformations, migraine, pulmonary hypertension), the drug's FP-agonist mechanism is irrelevant or potentially harmful. The drug is marketed in the US, with 13 valid licenses.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings, contraindications and approved indications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
 - If any direction is pursued, glaucoma is the only one with class precedent, and it would require a dedicated ocular formulation and preclinical studies
-- Confirmation of current market and supply status, given that all licenses are cancelled
+- Confirmation of current market and supply status, given that the drug is marketed with 13 valid licenses
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

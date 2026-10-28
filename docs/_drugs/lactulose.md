@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Lactulose
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 829
-evidence_level: L3
+evidence_level: L5
 indication_count: 8
 monitor_inn: "LACTULOSE"
 predicted_indications: ["acute urate nephropathy", "nephrolithiasis", "obstructive jaundice", "bile duct disease", "biliary tract disease", "hyperphosphatemia (disease)", "exercise-induced malignant hyperthermia", "bile duct neoplasm"]
 last_modified_at: 2026-10-14
-description: "Lactulose: predicted new indication Obstructive jaundice (evidence level L3). Approved use: Hepatic encephalopathy, hepatic coma…"
+description: "Lactulose: predicted new indication acute urate nephropathy (evidence level L3). Approved use: Hepatic encephalopathy, hepatic coma…"
 ---
 
 # Lactulose
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **8** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L3** | Predicted Indications: **8**
 
 </div>
 
-## Lactulose: From Hepatic Encephalopathy to Obstructive Jaundice
+## Lactulose: From Hepatic Encephalopathy to Acute Urate Nephropathy
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,9 +47,9 @@ The TxGNN model predicts it may be useful for **obstructive jaundice** (the top-
 |------|------|
 | Original Indication | Hepatic encephalopathy, hepatic coma, constipation (the US label text was not available) |
 | Predicted New Indication | Obstructive jaundice (best-supported; the TxGNN top-ranked prediction is acute urate nephropathy) |
-| TxGNN Prediction Score | 99.53% (obstructive jaundice); 99.89% (acute urate nephropathy, no evidence) |
-| Evidence Level | L3 |
-| US Market Status | Cancelled only (all 8 ANDAs are listed as cancelled) |
+| TxGNN Prediction Score | 0.9953 (obstructive jaundice); 0.9989 (acute urate nephropathy, no evidence) |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 8) |
 | Number of NDAs | 8 (all are ANDAs, all cancelled) |
 | Recommended Decision | Hold (the indication is a research question, not ready for development) |
 
@@ -59,7 +59,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 Obstructive jaundice reduces the amount of bile salts reaching the gut. This impairs the intestinal barrier and promotes bacterial translocation and endotoxaemia. Endotoxaemia contributes to postoperative renal dysfunction and liver injury. Oral lactulose may bind endotoxin, lower luminal pH, alter gut flora and help restore barrier function. This gut-focused mechanism is consistent with how lactulose is already used in liver disease.
 
-Note that the TxGNN top-ranked prediction, acute urate nephropathy (score 99.89%), has no trials or literature. Lactulose has no known effect on uric acid handling, so the score is a model output only. The same applies to nephrolithiasis and exercise-induced malignant hyperthermia, which have no data or plausible mechanism.
+Note that the TxGNN top-ranked prediction, acute urate nephropathy (score 0.9989), has no trials or literature. Lactulose has no known effect on uric acid handling, so the score is a model output only. The same applies to nephrolithiasis and exercise-induced malignant hyperthermia, which have no data or plausible mechanism.
 
 ## Clinical Trial Evidence
 
@@ -108,14 +108,14 @@ Please refer to the package insert for label warnings and contraindications, whi
 **Decision: Hold**
 
 **Rationale:**
-The top TxGNN prediction (acute urate nephropathy) has no evidence and no plausible mechanism. The best-supported prediction, obstructive jaundice, rests on small, dated studies with mixed results, no registered trials, and a perioperative supportive rather than disease-treating role. All US licenses are cancelled, and label safety data are missing. This is a research question rather than a development candidate.
+The top TxGNN prediction (acute urate nephropathy) has no evidence and no plausible mechanism. The best-supported prediction, obstructive jaundice, rests on small, dated studies with mixed results, no registered trials, and a perioperative supportive rather than disease-treating role. The drug is marketed in the US with 8 valid licenses, and label safety data are missing. This is a research question rather than a development candidate.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
 - Full-text review of the 1991 multicentre study and the 1986 clinical study to confirm design and effect sizes
 - A modern, controlled trial of perioperative lactulose in obstructive jaundice with renal and infectious complication endpoints
-- Clarification of why all US licenses are cancelled, and route compatibility assessment
+- Clarification of the licensing status (8 valid US licenses) and route compatibility assessment
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

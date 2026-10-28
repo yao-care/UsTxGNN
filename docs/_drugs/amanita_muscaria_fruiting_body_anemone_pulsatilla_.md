@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Amanita Muscaria Fruiting Body Anemone Pulsatilla 
@@ -49,7 +50,7 @@ This product is a 27-ingredient homeopathic combination comprising classical hom
 | Predicted New Indication | No TxGNN prediction generated |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | Below L5 — No prediction, no supporting studies |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

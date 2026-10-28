@@ -4,17 +4,17 @@ title: Loteprednol Etabonate
 parent: Model Prediction Only (L5)
 nav_order: 873
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
 description: "Loteprednol Etabonate: predicted new indication Conjunctival folliculosis (evidence level L5). Approved use: Uveitis and other ocular inflammatory conditions (including atopic…"
 monitor_inn: "LOTEPREDNOL ETABONATE"
-predicted_indications: ["conjunctival folliculosis", "serous conjunctivitis except viral", "chronic follicular conjunctivitis", "parasitic conjunctivitis", "pseudomembranous conjunctivitis", "Angelucci syndrome", "acute hemorrhagic conjunctivitis", "rosacea conjunctivitis", "acute contagious conjunctivitis", "otitis externa"]
+predicted_indications: ["conjunctival folliculosis", "serous conjunctivitis except viral", "chronic follicular conjunctivitis", "parasitic conjunctivitis", "pseudomembranous conjunctivitis", "Angelucci syndrome", "acute hemorrhagic conjunctivitis", "acute contagious conjunctivitis", "otitis externa"]
 ---
 
 # Loteprednol Etabonate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Uveitis and other ocular inflammatory conditions (including atopic, vernal and papillary conjunctivitis) |
 | Predicted New Indication | Conjunctival folliculosis |
-| TxGNN Prediction Score | 99.69% |
+| TxGNN Prediction Score | 0.9969 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 14) |
 | Number of NDAs | 14 (NDA and ANDA entries combined; all cancelled) |
 | Recommended Decision | Hold |
 
@@ -58,7 +58,7 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 
 Currently, detailed mechanism of action data is not available. Based on known information, loteprednol etabonate is a topical corticosteroid with anti-inflammatory activity. Its efficacy in allergic and inflammatory conjunctival disease (atopic, vernal and papillary conjunctivitis) is established, so it may be mechanistically applicable to other conjunctival conditions.
 
-However, the mechanistic rationale for conjunctival folliculosis is weak. Folliculosis is generally a benign, often non-inflammatory follicular change, so an anti-inflammatory steroid has little to treat. The high TxGNN score is most likely driven by the condition's proximity to approved conjunctival indications in the knowledge graph rather than by any biological evidence.
+However, the mechanistic rationale for conjunctival folliculosis is weak. Folliculosis is generally a benign, often non-inflammatory follicular change, so an anti-inflammatory steroid has little to treat. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 Other top-ranked predictions are also conjunctival conditions (serous conjunctivitis, chronic follicular conjunctivitis, parasitic conjunctivitis, pseudomembranous conjunctivitis, acute hemorrhagic conjunctivitis, rosacea conjunctivitis, acute contagious conjunctivitis). Many of these are infectious, where a steroid alone may worsen disease. Of the group, rosacea conjunctivitis is the most coherent extension, since rosacea and ocular inflammation are already among the original indications. It is rated "Research Question" at evidence level L4 (indirect, by indication adjacency).
 
@@ -76,7 +76,7 @@ No literature was found for the top-ranked prediction, conjunctival folliculosis
 
 ## US Market Information
 
-All 14 US authorizations are cancelled. Main entries:
+The drug is marketed in the US, with 14 valid authorizations. Main entries:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -101,12 +101,12 @@ For label warnings and contraindications, please refer to the package insert.
 **Decision: Hold**
 
 **Rationale:**
-The prediction for conjunctival folliculosis rests on model score alone (L5). There are no trials or literature, the condition is largely benign and non-inflammatory, and all US licenses are cancelled.
+The prediction for conjunctival folliculosis rests on model score alone (L5). There are no trials or literature, the condition is largely benign and non-inflammatory, and the drug is marketed in the US with 14 valid licenses.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data
-- Clinical rationale for treating folliculosis, or a pivot to a better-supported candidate such as rosacea conjunctivitis
+- Clinical rationale for treating folliculosis
 - Confirmation of whether any valid US marketing authorization exists or would need to be re-established
 - Route and formulation compatibility assessment for the proposed indication
 ## Disclaimer

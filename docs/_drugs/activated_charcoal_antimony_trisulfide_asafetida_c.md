@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Activated Charcoal Antimony Trisulfide Asafetida C
@@ -51,7 +52,7 @@ Without a prediction target, evidence-level assessment and decision recommendati
 | Predicted New Indication | No predictions generated |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | N/A — prerequisites not met |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 2) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

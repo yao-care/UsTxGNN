@@ -48,9 +48,9 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | No approved indication text is available (marketed as dentifrice/toothpaste products) |
 | Predicted New Indication | Meningococcal infection |
-| TxGNN Prediction Score | 99.66% |
+| TxGNN Prediction Score | 0.9966 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
+| US Market Status | Marketed (valid licenses on record: at least 2) |
 | Number of NDAs | 2 |
 | Recommended Decision | Hold |
 
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 Meningococcal infection is caused by *Neisseria meningitidis*, an invasive systemic pathogen. The antibacterial action of stannous fluoride in the mouth occurs at high local concentrations on the teeth and gums. No data compiled for this report show that comparable concentrations can be reached in the blood or cerebrospinal fluid, or that the compound acts against this organism.
 
-The only support for this prediction is the high knowledge-graph score (0.997). It should be treated as a hypothesis to be tested, not as a finding.
+The only support for this prediction is the high TxGNN model (deep learning) score (0.9966). It should be treated as a hypothesis to be tested, not as a finding.
 
 ## Clinical Trial Evidence
 
@@ -74,8 +74,8 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| M021 | Crest Pro Health | Paste, dentifrice | Not stated (status: cancelled) |
-| M022 | parodontax | Paste | Not stated (status: cancelled) |
+| M021 | Crest Pro Health | Paste, dentifrice | Not stated (status: valid) |
+| M022 | parodontax | Paste | Not stated (status: valid) |
 
 ## Safety Considerations
 

@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Laronidase
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 836
-evidence_level: L4
+evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-14
 description: "Laronidase: predicted new indication Lysosomal storage disease with skeletal involvement (evidence level L4). Approved use: Mucopolysaccharidosis I (Hurler, Hurler-Scheie and Scheie syndromes)"
@@ -14,7 +14,7 @@ predicted_indications: ["lysosomal storage disease with skeletal involvement", "
 # Laronidase
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **2** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ The prediction largely overlaps with the existing MPS I indication, so it is not
 |------|------|
 | Original Indication | Mucopolysaccharidosis I (Hurler, Hurler-Scheie and Scheie syndromes) |
 | Predicted New Indication | Lysosomal storage disease with skeletal involvement |
-| TxGNN Prediction Score | 99.31% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (the single BLA is listed as cancelled) |
-| Number of NDAs | 1 (BLA) |
+| TxGNN Prediction Score | 0.9931 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -105,7 +105,7 @@ The predicted indication is essentially a manifestation of the already-approved 
 
 ## Additional Note: Second Predicted Indication (Sanfilippo Syndrome)
 
-The data also contains a second prediction, **Sanfilippo syndrome (MPS III)**, with a TxGNN score of 99.22%, evidence level L4 and a recommendation of **Hold**. There are no registered trials, and the supporting literature concerns laronidase in MPS I, not MPS III.
+The data also contains a second prediction, **Sanfilippo syndrome (MPS III)**, with a TxGNN score of 0.9922, evidence level L4 and a recommendation of **Hold**. There are no registered trials, and the supporting literature concerns laronidase in MPS I, not MPS III.
 
 The mechanistic rationale is weak:
 - MPS III is caused by deficiencies in other heparan sulfate-degrading enzymes, not alpha-L-iduronidase, so laronidase cannot replace the missing enzyme.

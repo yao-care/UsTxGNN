@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "DICYCLOMINE"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)"]
 last_modified_at: 2026-10-14
-description: "Dicyclomine: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Irritable bowel syndrome"
+description: "Dicyclomine: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Dicyclomine
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-## Dicyclomine: From Irritable Bowel Syndrome to Cauda Equina Syndrome
+## Dicyclomine: Cauda equina syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 
 | Item | Content |
 |------|------|
-| Original Indication | Irritable bowel syndrome (also Clostridium difficile colitis and neurocirculatory asthenia, per the knowledge graph) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Cauda equina syndrome |
-| TxGNN Prediction Score | 99.66% |
+| TxGNN Prediction Score | 0.9966 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 13) |
 | Number of NDAs | 13 (all cancelled; listed under ANDA numbers) |
 | Recommended Decision | Hold |
 
@@ -60,9 +60,9 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 A plausible link is symptomatic control of detrusor overactivity and spasm that can accompany cauda equina syndrome. However, the drug would not treat the underlying cause, which is compression of the lumbosacral nerve roots and requires urgent surgical decompression.
 
-There is also a safety concern. Anticholinergics can worsen urinary retention, which is common in cauda equina syndrome with an areflexic bladder. The high score is a graph-based prediction only.
+There is also a safety concern. Anticholinergics can worsen urinary retention, which is common in cauda equina syndrome with an areflexic bladder. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
-A second prediction, **neurogenic bladder** (an obsolete ontology term, score 99.50%), is mechanistically more conventional, since antimuscarinics such as oxybutynin are used for detrusor overactivity. It also has no trials or literature, and the term would need to be mapped to current terminology (e.g., neurogenic detrusor overactivity).
+A second prediction, **neurogenic bladder** (an obsolete ontology term, score 0.9950), is mechanistically more conventional, since antimuscarinics such as oxybutynin are used for detrusor overactivity. It also has no trials or literature, and the term would need to be mapped to current terminology (e.g., neurogenic detrusor overactivity).
 
 ## Clinical Trial Evidence
 
@@ -74,7 +74,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-All 13 licenses are cancelled; no valid license remains. Approved indication text was not available for these entries. The main ones are:
+The drug is marketed in the US, with 13 valid licenses. Approved indication text was not available for these entries. The main ones are:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -102,7 +102,7 @@ Please refer to the package insert for label warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a high model score but no clinical trials or literature (Evidence Level L5). The drug would only address symptoms, not the cause of cauda equina syndrome, and its anticholinergic effect may worsen urinary retention. All US licenses are cancelled.
+The prediction has a high model score but no clinical trials or literature (Evidence Level L5). The drug would only address symptoms, not the cause of cauda equina syndrome, and its anticholinergic effect may worsen urinary retention. The drug is marketed in the US, with 13 valid licenses.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications

@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Black Cohosh
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 463
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 monitor_inn: "BLACK COHOSH"
 predicted_indications: ["heart disease", "Laubry-Pezzi syndrome", "Pierre Robin syndrome associated with a chromosomal anomaly", "genetic syndromic Pierre Robin syndrome", "partial deletion of the long arm of chromosome 7", "Jeune syndrome situs inversus", "orofacial clefting syndrome", "disorder of fucoglycosan synthesis", "pulmonary valve disease", "interventricular septum aneurysm"]
@@ -14,7 +14,7 @@ description: "Black Cohosh: predicted new indication Heart disease (evidence lev
 # Black Cohosh
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,9 +46,9 @@ Black cohosh (*Cimicifuga racemosa*) is a botanical product, and the data compil
 |------|------|
 | Original Indication | Not available (the only listed license has no indication text; black cohosh is commonly used for menopausal symptoms) |
 | Predicted New Indication | Heart disease |
-| TxGNN Prediction Score | 99.19% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only |
+| TxGNN Prediction Score | 0.9919 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 1) |
 | Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
@@ -58,7 +58,7 @@ Currently, detailed mechanism of action data is not available. Black cohosh is a
 
 The retrieved literature concerns menopause management and hormone replacement therapy alternatives. One review notes that hormone therapy carries cardiovascular risk, and one preclinical paper suggests that black cohosh extract may reduce inflammation linked to postmenopausal cardiovascular risk. Neither paper tests heart disease outcomes. The one cardiac-specific publication, a 2010 case report, describes reversible complete heart block in a woman who had recently started a black cohosh supplement.
 
-The high TxGNN score of 0.99 is a computational prediction. Clinical data do not corroborate it, so the prediction should be treated as a hypothesis only.
+The high TxGNN score of 0.9919 is a computational prediction. Clinical data do not corroborate it, so the prediction should be treated as a hypothesis only.
 
 ## Clinical Trial Evidence
 
@@ -109,7 +109,7 @@ The prediction has no clinical trials and no supportive clinical literature, and
 
 ### Other Predictions (Reference Only)
 
-The other nine predictions all have a TxGNN score of about 99.1%. They are Laubry-Pezzi syndrome, Pierre Robin syndrome with a chromosomal anomaly, genetic syndromic Pierre Robin syndrome, partial deletion of the long arm of chromosome 7, Jeune syndrome situs inversus, orofacial clefting syndrome, disorder of fucoglycosan synthesis, pulmonary valve disease and interventricular septum aneurysm. All have evidence level L5 and a recommendation of Hold. None has clinical trials, and none has a plausible pharmacological link to black cohosh. The literature retrieved for the fucoglycosan disorder concerns menopause, animal studies and toxicity rather than that disease.
+The other nine predictions have TxGNN scores from 0.9911 to 0.9916. They are Laubry-Pezzi syndrome (0.9916), Pierre Robin syndrome with a chromosomal anomaly (0.9916), genetic syndromic Pierre Robin syndrome (0.9915), partial deletion of the long arm of chromosome 7 (0.9915), Jeune syndrome situs inversus (0.9914), orofacial clefting syndrome (0.9913), disorder of fucoglycosan synthesis (0.9912), pulmonary valve disease (0.9912) and interventricular septum aneurysm (0.9911). All have evidence level L5 and a recommendation of Hold. None has clinical trials, and none has a plausible pharmacological link to black cohosh. The literature retrieved for the fucoglycosan disorder concerns menopause, animal studies and toxicity rather than that disease.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

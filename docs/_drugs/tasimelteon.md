@@ -4,9 +4,9 @@ title: Tasimelteon
 parent: Model Prediction Only (L5)
 nav_order: 1201
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "TASIMELTEON"
-predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria", "insomnia (disease)", "amyotrophic lateral sclerosis", "endogenous depression", "axial spondylometaphyseal dysplasia", "monomelic amyotrophy", "amyotrophic lateral sclerosis, susceptibility to", "lower motor neuron syndrome with late-adult onset", "Mills syndrome", "amyotrohpic lateral sclerosis type 22"]
+predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria", "insomnia (disease)", "amyotrophic lateral sclerosis", "endogenous depression", "axial spondylometaphyseal dysplasia", "monomelic amyotrophy", "lower motor neuron syndrome with late-adult onset", "Mills syndrome", "amyotrohpic lateral sclerosis type 22"]
 last_modified_at: 2026-10-14
 description: "Tasimelteon: predicted new indication Bilateral parasagittal parieto-occipital polymicrogyria (evidence level L5). Approved use: Non-24-hour sleep-wake syndrome"
 ---
@@ -14,7 +14,7 @@ description: "Tasimelteon: predicted new indication Bilateral parasagittal parie
 # Tasimelteon
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,17 +47,17 @@ The TxGNN model predicts it may be effective for **bilateral parasagittal pariet
 |------|------|
 | Original Indication | Non-24-hour sleep-wake syndrome |
 | Predicted New Indication | Bilateral parasagittal parieto-occipital polymicrogyria |
-| TxGNN Prediction Score | 99.48% |
+| TxGNN Prediction Score | 0.9948 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid authorizations) |
-| Number of NDAs | 5 (2 NDAs and 3 ANDAs, all cancelled) |
+| US Market Status | Marketed (valid licenses: 5 of 5) |
+| Number of NDAs | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available in the compiled data. Tasimelteon is known to be a dual agonist of the MT1 and MT2 melatonin receptors. These receptors regulate circadian rhythm and sleep timing, which is the basis for its use in non-24-hour sleep-wake syndrome.
 
-No mechanistic link to the predicted indication could be identified. Polymicrogyria is a cortical malformation of developmental origin, and the circadian and sleep effects of MT1/MT2 agonism have no clear connection to it. The high score (0.995) is a graph-based prediction only, and no trials or literature support it. It should be treated as a hypothesis-generating signal rather than a rationale for development.
+No mechanistic link to the predicted indication could be identified. Polymicrogyria is a cortical malformation of developmental origin, and the circadian and sleep effects of MT1/MT2 agonism have no clear connection to it. The high score (0.9948) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No trials or literature support it. It should be treated as a hypothesis-generating signal rather than a rationale for development.
 
 ## Clinical Trial Evidence
 
@@ -69,7 +69,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-All five authorizations are cancelled, and the compiled data does not list approved indication text for any of them.
+All five authorizations are valid, and the compiled data does not list approved indication text for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -92,7 +92,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trials, no literature, and no identifiable mechanistic link. The high TxGNN score reflects graph proximity rather than independent evidence. All US authorizations are also currently cancelled.
+The prediction has no clinical trials, no literature, and no identifiable mechanistic link. The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. All US authorizations are also currently valid.
 
 **To proceed, the following is needed:**
 - A plausible biological rationale connecting MT1/MT2 agonism to cortical malformation

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Zolmitriptan
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1311
-evidence_level: L4
-indication_count: 3
+evidence_level: L5
+indication_count: 2
 last_modified_at: 2026-10-14
-description: "Zolmitriptan: predicted new indication Migraine with brainstem aura (evidence level L4). Approved use: Migraine disorder (migraine with or without aura)"
 monitor_inn: "ZOLMITRIPTAN"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
+description: "Zolmitriptan: predicted new indication Atrophoderma vermiculata (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Zolmitriptan
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,23 @@ Evidence Level: **L4** | Predicted Indications: **3**
 
 </div>
 
-## Zolmitriptan: From Migraine to Migraine with Brainstem Aura
+## Zolmitriptan: Atrophoderma vermiculata
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Zolmitriptan is a triptan (5-HT1B/1D receptor agonist) originally used for acute migraine treatment.
-The TxGNN model predicts it may be effective for **Migraine with Brainstem Aura**,
 but there are currently **0 clinical trials** and **20 publications** on migraine in general, none of which specifically address brainstem aura.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Migraine disorder (migraine with or without aura) |
-| Predicted New Indication | Migraine with brainstem aura |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid licenses in the data compiled for this report) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Atrophoderma vermiculata |
+| TxGNN Prediction Score | 0.9990 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 11) |
 | Number of NDAs | 11 authorizations in total (1 NDA, 10 ANDAs), all with cancelled status |
 | Recommended Decision | Hold |
 
@@ -85,11 +84,11 @@ Currently no related clinical trials registered.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA021450 | ZOMIG | Metered spray | Not available (status: cancelled) |
-| ANDA205074 | Zolmitriptan | Orally disintegrating tablet | Not available (status: cancelled) |
-| ANDA202890 | Zolmitriptan | Orally disintegrating tablet | Not available (status: cancelled) |
-| ANDA201779 | Zolmitriptan | Film-coated tablet | Not available (status: cancelled) |
-| ANDA204041 | Zolmitriptan | Tablet | Not available (status: cancelled) |
+| NDA021450 | ZOMIG | Metered spray | Not available (status: valid) |
+| ANDA205074 | Zolmitriptan | Orally disintegrating tablet | Not available (status: valid) |
+| ANDA202890 | Zolmitriptan | Orally disintegrating tablet | Not available (status: valid) |
+| ANDA201779 | Zolmitriptan | Film-coated tablet | Not available (status: valid) |
+| ANDA204041 | Zolmitriptan | Tablet | Not available (status: valid) |
 
 Only 5 of the 11 authorizations are shown. All 11 are listed as cancelled.
 

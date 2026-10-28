@@ -4,17 +4,17 @@ title: Ticagrelor
 parent: Model Prediction Only (L5)
 nav_order: 1227
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Ticagrelor: predicted new indication Intracranial arteriosclerosis (evidence level L5). Approved use: Acute coronary syndrome (other listed uses: peripheral vascular disea…"
 monitor_inn: "TICAGRELOR"
 predicted_indications: ["intracranial arteriosclerosis", "Monckeberg arteriosclerosis", "priapism", "ischemic disease", "May-Thurner syndrome", "livedo reticularis", "vascular ectasia", "angiodysplasia", "fibrocartilaginous embolism"]
+description: "Ticagrelor: predicted new indication Intracranial arteriosclerosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Ticagrelor
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Ticagrelor: From Acute Coronary Syndrome to Intracranial Arteriosclerosis
+## Ticagrelor: Intracranial arteriosclerosis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ with **2 clinical trials** (one Phase 3) and **2 publications** currently suppor
 
 | Item | Content |
 |------|------|
-| Original Indication | Acute coronary syndrome (other listed uses: peripheral vascular disease, intermittent claudication, peripheral arterial disease) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Intracranial arteriosclerosis |
-| TxGNN Prediction Score | 99.97% |
-| Evidence Level | L1 (by trial design; the Phase 3 trial has no results yet) |
-| US Market Status | Cancelled only (all licenses listed as cancelled) |
+| TxGNN Prediction Score | 0.9997 |
+| Evidence Level | L5 (by trial design; the Phase 3 trial has no results yet) |
+| US Market Status | Marketed (valid licenses on record: at least 13) |
 | Number of NDAs | 13 (1 NDA and 12 ANDAs, all cancelled) |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -78,7 +78,7 @@ The evidence is still pending. The Phase 3 CAPTIVA trial is active but not recru
 
 ## US Market Information
 
-All 13 licenses are listed as cancelled, and none has approved-indication text on file.
+The drug is marketed, with 13 valid licenses, and none has approved-indication text on file.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -111,16 +111,16 @@ The mechanism is plausible, and a large Phase 3 trial (CAPTIVA, n=1683) directly
 - CAPTIVA results (expected completion January 2027) and the ticagrelor-specific arm outcomes
 - FDA package insert warnings and contraindications (currently unavailable and blocking for safety screening)
 - Detailed mechanism-of-action data
-- Clarification of US regulatory status, since all 13 licenses are listed as cancelled
+- Clarification of US regulatory status, since the drug is marketed with 13 valid licenses
 - A bleeding-risk management plan, including patient selection and treatment duration
 
 ## Other Predicted Indications (Brief)
 
 | Rank | Predicted Indication | Score | Evidence Level | Decision | Note |
 |------|------|------|------|------|------|
-| 4 | Ischemic disease | 99.64% | L1 | Proceed with Guardrails | Largely overlaps the existing acute coronary syndrome use (e.g., TWILIGHT, PEGASUS, and 2021 stroke/TIA RCTs), so it confirms an existing use rather than novel repurposing |
-| 8 | Vascular ectasia | 99.47% | L4 | Research Question | Only an indirect review on coronary ectasia; bleeding concern |
-| 2, 3, 5, 6, 7, 9, 10 | Monckeberg arteriosclerosis, priapism, May-Thurner syndrome, livedo reticularis, mesenteric vascular occlusion, angiodysplasia, fibrocartilaginous embolism | 99.27%–99.94% | L5 | Hold | Little or no supporting evidence. Angiodysplasia is a bleeding source and likely a false-positive association. Priapism raises a possible adverse-event concern. |
+| 4 | Ischemic disease | 0.9964 | L1 | Proceed with Guardrails | Largely overlaps the existing acute coronary syndrome use (e.g., TWILIGHT, PEGASUS, and 2021 stroke/TIA RCTs), so it confirms an existing use rather than novel repurposing |
+| 8 | Vascular ectasia | 0.9947 | L5 | Research Question | Only an indirect review on coronary ectasia; bleeding concern |
+| 2, 3, 5, 6, 7, 9, 10 | Monckeberg arteriosclerosis, priapism, May-Thurner syndrome, livedo reticularis, mesenteric vascular occlusion, angiodysplasia, fibrocartilaginous embolism | 0.9927–0.9994 | L5 | Hold | Little or no supporting evidence. Angiodysplasia is a bleeding source and likely a false-positive association. Priapism raises a possible adverse-event concern. |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

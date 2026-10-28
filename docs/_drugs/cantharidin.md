@@ -48,17 +48,17 @@ but **no clinical trials and no publications** currently support this direction,
 |------|------|
 | Original Indication | No approved indication text is recorded in the license data (pharmacology data describes topical use for warts and molluscum contagiosum) |
 | Predicted New Indication | Amenorrhea |
-| TxGNN Prediction Score | 99.42% |
+| TxGNN Prediction Score | 0.9942 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the compiled record. Based on known pharmacology, cantharidin inhibits protein phosphatase 2A (PPP2CA) and protein phosphatase 1 (PPP1CA). Disrupting cell-to-cell connections in the skin is how it produces blisters, and PP2A inhibition has also been linked to its anti-cancer activity in laboratory studies.
 
-None of this has an established link to the hormonal and reproductive-axis processes behind amenorrhea. The only support for this prediction is the high knowledge-graph score. In addition, cantharidin is highly toxic when taken systemically (renal, gastrointestinal, and genitourinary toxicity), which argues against any plausible systemic use. Until a biological rationale is shown, the prediction should be treated as a computational artifact.
+None of this has an established link to the hormonal and reproductive-axis processes behind amenorrhea. The only support for this prediction is the high TxGNN model (deep learning) score. In addition, cantharidin is highly toxic when taken systemically (renal, gastrointestinal, and genitourinary toxicity), which argues against any plausible systemic use. Until a biological rationale is shown, the prediction should be treated as a computational artifact.
 
 ## Clinical Trial Evidence
 
@@ -72,7 +72,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA212905 | YCANTH (Verrica Pharmaceuticals Inc.) | Solution | Not recorded (status: cancelled) |
+| NDA212905 | YCANTH (Verrica Pharmaceuticals Inc.) | Solution | Not recorded (status: valid) |
 
 ## Safety Considerations
 

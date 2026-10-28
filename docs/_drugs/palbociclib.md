@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "PALBOCICLIB"
 predicted_indications: ["hyperthyroidism", "rheumatoid arthritis", "thrombotic disease", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta"]
-last_modified_at: 2026-10-14
-description: "Palbociclib: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: Not available in the compiled data"
+last_modified_at: 2026-10-28
+description: "Palbociclib: predicted new indication Hyperthyroidism (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Palbociclib
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-## Palbociclib: From Breast Cancer to Rheumatoid Arthritis
+## Palbociclib: Hyperthyroidism
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -44,15 +44,15 @@ Palbociclib is a CDK4/6 inhibitor used in HR-positive, HER2-negative breast canc
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in the compiled data (the FDA license records have empty indication text) |
-| Predicted New Indication | Rheumatoid arthritis (best-supported of the top 4 predictions; the top-scoring prediction, hyperthyroidism, has no evidence) |
-| TxGNN Prediction Score | 99.36% (rheumatoid arthritis); hyperthyroidism 99.44% |
-| Evidence Level | L4 (rheumatoid arthritis) |
-| US Market Status | Cancelled only |
-| Number of NDAs | 2 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Hyperthyroidism |
+| TxGNN Prediction Score | 0.9944 |
+| Evidence Level | L5 (rheumatoid arthritis) |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
-**Note on the other predictions:** hyperthyroidism (99.44%), thrombotic disease (99.32%), and resistance to thyroid hormone due to a THRB mutation (99.30%) are all rated Hold. Thrombotic disease is a safety concern, not a therapeutic opportunity (see below).
+**Note on the other predictions:** hyperthyroidism (0.9944), thrombotic disease (0.9932), and resistance to thyroid hormone due to a THRB mutation (0.9930) are all rated Hold. Thrombotic disease is a safety concern, not a therapeutic opportunity (see below).
 
 ## Why is This Prediction Reasonable?
 
@@ -66,7 +66,7 @@ For rheumatoid arthritis, the link is plausible but indirect. Synovial fibroblas
 This evidence is preclinical or anecdotal. No registered trial tests palbociclib in RA.
 
 For the other predictions, the data does not support a mechanistic link:
-- **Hyperthyroidism** and **thyroid hormone resistance (THRB mutation)**: no trials or publications. The high scores are knowledge-graph predictions only, and a link would be speculative.
+- **Hyperthyroidism** and **thyroid hormone resistance (THRB mutation)**: no trials or publications. The high scores are TxGNN model (deep learning) predictions only, and a link would be speculative.
 - **Thrombotic disease**: the literature shows a safety signal. Pharmacovigilance studies report thromboembolism associated with CDK4/6 inhibitors, so treating thrombosis with palbociclib is not supported and may be harmful.
 
 ## Clinical Trial Evidence
@@ -99,10 +99,9 @@ Several other retrieved papers on thrombosis are tangential or unrelated and are
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA212436 | Ibrance (Pfizer) | Film-coated tablet | Not available; status: cancelled |
-| NDA207103 | Ibrance (Pfizer) | Capsule | Not available; status: cancelled |
+| NDA212436 | Ibrance (Pfizer) | Film-coated tablet | Not available; status: valid |
+| NDA207103 | Ibrance (Pfizer) | Capsule | Not available; status: valid |
 
-Both listed NDAs are marked as cancelled, so no currently valid US authorization appears in the compiled data.
 
 ## Cytotoxicity
 
@@ -136,7 +135,7 @@ Moderate-level interactions include aprepitant, dexamethasone, cimetidine, saxag
 **Decision: Hold**
 
 **Rationale:**
-- All four predictions rest mainly on knowledge-graph scores. Rheumatoid arthritis has the most support (L4: preclinical studies, one case report, one observational study) but no registered trial. Hyperthyroidism and thyroid hormone resistance have no evidence, and thrombotic disease points to a safety risk. Both US NDAs are cancelled, and label safety data is missing.
+- All four predictions rest mainly on TxGNN model (deep learning) scores. Rheumatoid arthritis has the most support (L4: preclinical studies, one case report, one observational study) but no registered trial. Hyperthyroidism and thyroid hormone resistance have no evidence, and thrombotic disease points to a safety risk. Both US NDAs are cancelled, and label safety data is missing.
 - Rheumatoid arthritis can be treated as a research question to pursue, not a candidate ready to advance.
 
 **To proceed, the following is needed:**

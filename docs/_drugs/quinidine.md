@@ -48,17 +48,17 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Atrial fibrillation; malaria |
 | Predicted New Indication | Nephrogenic syndrome of inappropriate antidiuresis |
-| TxGNN Prediction Score | 99.27% |
+| TxGNN Prediction Score | 0.9927 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all listed authorizations are cancelled) |
-| Number of NDAs | 5 |
+| US Market Status | Marketed (valid licenses: 5 of 5) |
+| Number of NDAs | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, quinidine is a class Ia antiarrhythmic (a sodium and potassium channel blocker) and also has antimalarial activity. Its efficacy in atrial fibrillation and malaria is established.
 
-NSIAD is caused by gain-of-function variants in the vasopressin V2 receptor gene (AVPR2) or, in some cases, GNAS. These variants cause the kidney collecting duct to reabsorb water inappropriately even when vasopressin levels are low. A possible link is that quinidine's ion channel activity or off-target effects influence renal water handling or vasopressin signaling. This is speculative, and the data compiled for this report contain no evidence supporting it. The high score (0.993) reflects a graph-based model prediction only. The model's rank for this prediction is 16,214.
+NSIAD is caused by gain-of-function variants in the vasopressin V2 receptor gene (AVPR2) or, in some cases, GNAS. These variants cause the kidney collecting duct to reabsorb water inappropriately even when vasopressin levels are low. A possible link is that quinidine's ion channel activity or off-target effects influence renal water handling or vasopressin signaling. This is speculative, and the data compiled for this report contain no evidence supporting it. The high score (0.9927) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The model's rank for this prediction is 16,214.
 
 ## Clinical Trial Evidence
 
@@ -72,13 +72,13 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA089338 | Quinidine Gluconate | Extended-release tablet | Not available (cancelled) |
-| ANDA088072 | Quinidine Sulfate | Tablet | Not available (cancelled) |
-| ANDA212589 | Quinidine Gluconate | Extended-release tablet | Not available (cancelled) |
-| ANDA218426 | Dextromethorphan hydrobromide and quinidine sulfate | Capsule | Not available (cancelled) |
-| NDA021879 | Nuedexta | Gelatin-coated capsule | Not available (cancelled) |
+| ANDA089338 | Quinidine Gluconate | Extended-release tablet | Not available (valid) |
+| ANDA088072 | Quinidine Sulfate | Tablet | Not available (valid) |
+| ANDA212589 | Quinidine Gluconate | Extended-release tablet | Not available (valid) |
+| ANDA218426 | Dextromethorphan hydrobromide and quinidine sulfate | Capsule | Not available (valid) |
+| NDA021879 | Nuedexta | Gelatin-coated capsule | Not available (valid) |
 
-All five authorizations are cancelled, and no valid single-ingredient or combination authorizations remain.
+All five authorizations are valid, and the drug is currently marketed in the US.
 
 ## Safety Considerations
 
@@ -94,7 +94,7 @@ Package insert warnings and contraindications were not available for this report
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high, but no clinical trials, literature, or mechanistic data support it (Evidence Level L5). All US authorizations are cancelled. Quinidine also carries significant cardiac and interaction risks, and these matter for a condition like NSIAD, which is a rare disorder.
+The prediction score is very high, but no clinical trials, literature, or mechanistic data support it (Evidence Level L5). The drug is marketed in the US, with 5 of 5 authorizations valid. Quinidine also carries significant cardiac and interaction risks, and these matter for a condition like NSIAD, which is a rare disorder.
 
 **To proceed, the following is needed:**
 - Mechanism of action data (MOA) and an evaluation of a plausible link to AVPR2/GNAS signaling or renal water handling

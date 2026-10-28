@@ -4,7 +4,7 @@ title: Talimogene Laherparepvec
 parent: Model Prediction Only (L5)
 nav_order: 1197
 evidence_level: L5
-indication_count: 7
+indication_count: 5
 last_modified_at: 2026-10-14
 description: "Talimogene Laherparepvec: predicted new indication CMM7 (evidence level L5). Approved use: Melanoma"
 monitor_inn: "TALIMOGENE LAHERPAREPVEC"
@@ -14,7 +14,7 @@ predicted_indications: ["CMM7", "glottis squamous cell carcinoma", "lung occult 
 # Talimogene Laherparepvec
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **7** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -39,7 +39,7 @@ Evidence Level: **L5** | Predicted Indications: **7**
 ## One-Sentence Summary
 
 Talimogene laherparepvec (T-VEC) is an oncolytic herpes virus originally used to treat melanoma.
-The TxGNN model predicts it may be effective for **CMM7**, with a score of 99.2%.
+The TxGNN model predicts it may be effective for **CMM7**, with a score of 0.9920.
 However, **no clinical trials and no publications** were found in the data compiled for this report, so this remains a model prediction only.
 
 ## Quick Overview
@@ -48,28 +48,26 @@ However, **no clinical trials and no publications** were found in the data compi
 |------|------|
 | Original Indication | Melanoma (from the knowledge graph; no approved indication text is recorded in the US license data) |
 | Predicted New Indication | CMM7 |
-| TxGNN Prediction Score | 99.20% |
+| TxGNN Prediction Score | 0.9920 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 (BLA125518, cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism-of-action data is not available in the data compiled for this report. Based on general knowledge, T-VEC is an oncolytic herpes simplex virus type 1. It replicates inside tumour cells and expresses GM-CSF to promote anti-tumour immunity. It is used for melanoma, so a cutaneous malignant melanoma subtype is biologically plausible.
 
-The label "CMM7" is ambiguous and should be checked against the disease ontology before further work. The TxGNN score reflects graph proximity only. No trials or literature support this specific subtype.
+The label "CMM7" is ambiguous and should be checked against the disease ontology before further work. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No trials or literature support this specific subtype.
 
 **Other predicted indications (all L5, all Hold):**
 
 | Rank | Predicted Indication | Score | Main Concern |
 |------|------|------|------|
-| 2 | Pediatric leptomeningeal melanoma | 99.15% | Intrathecal delivery of a replication-competent HSV-1 raises neurovirulence concerns (e.g., encephalitis). Pediatric use adds uncertainty. |
-| 3 | Epithelioid cell uveal melanoma | 99.13% | Different drivers (GNAQ/GNA11) and mainly hepatic spread. Ocular or hepatic delivery would be non-standard. |
-| 4 | Glottis squamous cell carcinoma | 99.07% | Conceptual rationale from head and neck cancer work, but airway-adjacent injection is risky. |
-| 5 | Lung occult squamous cell carcinoma | 99.05% | No visible lesion to inject. |
-| 6 | Rectal cloacogenic carcinoma | 99.01% | Only a weak, indirect rationale. |
-| 7 | Gallbladder adenosquamous carcinoma | 99.01% | Deep-seated tumours that are hard to inject. The rationale is speculative. |
+| 4 | Glottis squamous cell carcinoma | 0.9907 | Conceptual rationale from head and neck cancer work, but airway-adjacent injection is risky. |
+| 5 | Lung occult squamous cell carcinoma | 0.9905 | No visible lesion to inject. |
+| 6 | Rectal cloacogenic carcinoma | 0.9901 | Only a weak, indirect rationale. |
+| 7 | Gallbladder adenosquamous carcinoma | 0.9901 | Deep-seated tumours that are hard to inject. The rationale is speculative. |
 
 ## Clinical Trial Evidence
 
@@ -83,7 +81,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA125518 | Imlygic (Amgen Inc) | Injection, suspension | Status: cancelled |
+| BLA125518 | Imlygic (Amgen Inc) | Injection, suspension | Status: valid |
 
 ## Cytotoxicity
 

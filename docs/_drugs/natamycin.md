@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Natamycin
-parent: Model Prediction Only (L5)
+parent: High Evidence (L1-L2)
 nav_order: 957
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 monitor_inn: "NATAMYCIN"
 predicted_indications: ["vulvovaginal candidiasis", "candidiasis", "vulvitis", "vulvovaginitis", "trichomonal vulvovaginitis", "postmenopausal atrophic vaginitis", "ulceration of vulva", "vulvar neoplasm", "vaginitis (disease)", "tinea nigra"]
 last_modified_at: 2026-10-14
-description: "Natamycin: predicted new indication Vulvovaginal candidiasis (evidence level L5). Approved use: Mycotic corneal ulcer"
+description: "Natamycin: predicted new indication Vulvovaginal candidiasis (evidence level L1). Approved use: Not recorded in the local data"
 ---
 
 # Natamycin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Natamycin: From Mycotic Corneal Ulcer to Vulvovaginal Candidiasis
+## Natamycin: Vulvovaginal candidiasis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,12 +47,12 @@ Note that the Phase 3 trial tested a natamycin plus lactulose combination, so na
 
 | Item | Content |
 |------|------|
-| Original Indication | Mycotic corneal ulcer |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Vulvovaginal candidiasis |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L1 (as assigned in the compiled data; see the note in the Clinical Trial Evidence section) |
-| US Market Status | Cancelled only (no active US authorization) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
@@ -92,7 +92,7 @@ Other predicted indications appear less well supported. Broader candidiasis, vul
 |---------|------|------|-----------|
 | NDA050514 (cancelled) | NATACYN (Eyevance Pharmaceuticals, LLC) | Ophthalmic suspension/drops | Not listed in the compiled data |
 
-No active US authorization exists for natamycin in the data compiled for this report. The only license is cancelled, and it covers an ophthalmic product, not a vaginal one.
+The only license is cancelled, and it covers an ophthalmic product, not a vaginal one.
 
 ## Safety Considerations
 
@@ -105,7 +105,7 @@ Supportive information: a case-control teratology study of vaginal natamycin in 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-A completed Phase 3 RCT (n=218) and decades of historical clinical use support natamycin in vulvovaginal candidiasis, and the mechanism is consistent with its antifungal action. However, the Phase 3 trial used a combination product, and there is currently no active US authorization for a vaginal formulation. The recommendation should be limited to the vulvovaginal candidal site. Candidal vulvitis, vulvovaginitis and general vaginitis fall under it only where a fungal cause is confirmed.
+A completed Phase 3 RCT (n=218) and decades of historical clinical use support natamycin in vulvovaginal candidiasis, and the mechanism is consistent with its antifungal action. The recommendation should be limited to the vulvovaginal candidal site. Candidal vulvitis, vulvovaginitis and general vaginitis fall under it only where a fungal cause is confirmed.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

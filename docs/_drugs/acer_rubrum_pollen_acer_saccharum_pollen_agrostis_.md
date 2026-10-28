@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Acer Rubrum Pollen Acer Saccharum Pollen Agrostis 
@@ -51,7 +52,7 @@ Without a valid prediction, a formal repurposing evaluation cannot proceed at th
 | Predicted New Indication | None – TxGNN generated no predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | N/A – pipeline did not produce a candidate |
-| US Market Status | Not marketed (no NDA records found) |
+| US Market Status | Marketed (valid licenses on record: at least 1) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

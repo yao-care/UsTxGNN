@@ -48,10 +48,10 @@ The prediction is computational only and, on mechanistic grounds, raises a safet
 |------|------|
 | Original Indication | Interstitial cystitis |
 | Predicted New Indication | Primary release disorder of platelets |
-| TxGNN Prediction Score | 99.71% |
+| TxGNN Prediction Score | 0.9971 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -61,10 +61,10 @@ Currently, detailed mechanism of action data is not available. Based on known in
 The link to the predicted indication is purely computational. A drug acting on coagulation and fibrinolysis could plausibly touch platelet or hemostatic pathways. However, its anticoagulant activity would more likely worsen bleeding tendency in a platelet function disorder than treat it. The high score may reflect network proximity to hemostasis-related genes rather than a true therapeutic rationale.
 
 The same pattern appears in the other top predictions:
-- **Glanzmann thrombasthenia** (score 99.65%): caused by deficiency or dysfunction of integrin alphaIIb-beta3, which impairs platelet aggregation. Pentosan polysulfate has no known action that restores this receptor.
-- **Pseudo-von Willebrand disease** (score 99.62%): a gain-of-function defect in platelet GPIb-alpha. A theoretical interaction with glycosaminoglycan-binding or VWF-related pathways exists, but there is no evidence of benefit.
+- **Glanzmann thrombasthenia** (score 0.9965): caused by deficiency or dysfunction of integrin alphaIIb-beta3, which impairs platelet aggregation. Pentosan polysulfate has no known action that restores this receptor.
+- **Pseudo-von Willebrand disease** (score 0.9962): a gain-of-function defect in platelet GPIb-alpha. A theoretical interaction with glycosaminoglycan-binding or VWF-related pathways exists, but there is no evidence of benefit.
 
-All three predictions are likely graph-proximity artifacts.
+All three predictions come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Clinical Trial Evidence
 
@@ -78,7 +78,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA020193 | ELMIRON (Janssen Pharmaceuticals, Inc.) | Capsule, gelatin coated (oral) | Not listed in the data (status: cancelled) |
+| NDA020193 | ELMIRON (Janssen Pharmaceuticals, Inc.) | Capsule, gelatin coated (oral) | Not listed in the data (status: valid) |
 
 ## Safety Considerations
 

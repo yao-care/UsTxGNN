@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Imiquimod
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 793
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Imiquimod: predicted new indication Pre-malignant neoplasm (evidence level L4). Approved use: Common wart, anogenital HPV infection…"
 monitor_inn: "IMIQUIMOD"
 predicted_indications: ["pre-malignant neoplasm", "benign neoplasm of buccal mucosa", "cervical neuroblastoma", "odontogenic cyst", "benign neoplasm of tongue", "nasopharyngeal teratoma", "cystic neoplasm", "inner ear neoplasm", "neoplasm of major salivary gland", "schwannoma of jugular foramen"]
+description: "Imiquimod: predicted new indication Pre-malignant neoplasm (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Imiquimod
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Imiquimod: From Common Wart and Actinic Keratosis to Pre-malignant Neoplasm
+## Imiquimod: Pre-malignant neoplasm
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ with **2 clinical trials** and **9 publications** currently supporting this dire
 
 | Item | Content |
 |------|------|
-| Original Indication | Common wart, anogenital HPV infection, superficial multifocal basal cell carcinoma, actinic keratosis (per the knowledge graph; no label indication text available) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Pre-malignant neoplasm |
-| TxGNN Prediction Score | 99.92% |
-| Evidence Level | L1 (as scored in the data compiled for this report; see note below) |
-| US Market Status | Cancelled only (all 5 authorizations cancelled) |
-| Number of NDAs | 5 (1 NDA, 4 ANDAs) |
+| TxGNN Prediction Score | 0.9992 |
+| Evidence Level | L5 (as scored in the data compiled for this report; see note below) |
+| US Market Status | Marketed (valid licenses: 5 of 5) |
+| Number of NDAs | 5 (valid: 5) |
 | Recommended Decision | Proceed with Guardrails |
 
 > **Note on evidence level:** Under the L1 to L5 rules, L1 requires at least 2 completed Phase 3 RCTs. Only one Phase 3 trial is completed (open-label, n=20, and not a randomized controlled design). The other Phase 3 RCT was terminated early with 9 participants. The strict reading of the rules therefore supports a lower level than L1, closer to L3 (reviews and case reports). The L1 label should be treated with caution.
@@ -89,7 +89,7 @@ No randomized controlled trial publications were identified in this set. The evi
 
 ## US Market Information
 
-All five US authorizations are cancelled, and no approved indication text was available for them.
+All five US authorizations are valid, and no approved indication text was available for them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -112,7 +112,7 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-The mechanism (TLR7 agonism) is well established and consistent with pre-malignant epithelial lesions. Actinic keratosis is already an established use, and there is documented off-label experience in HPV-related intraepithelial neoplasia. However, the direct trial evidence is weak: one small open-label study of an existing indication, and one randomized trial terminated at 9 participants. All US authorizations are currently cancelled.
+The mechanism (TLR7 agonism) is well established and consistent with pre-malignant epithelial lesions. Actinic keratosis is already an established use, and there is documented off-label experience in HPV-related intraepithelial neoplasia. However, the direct trial evidence is weak: one small open-label study of an existing indication, and one randomized trial terminated at 9 participants. All five US authorizations are currently valid.
 
 **To proceed, the following is needed:**
 - A properly powered randomized trial in a specific pre-malignant condition (for example, high-grade cervical, vulvar or anal intraepithelial neoplasia), since the predicted indication is a broad class
@@ -126,7 +126,7 @@ The mechanism (TLR7 agonism) is well established and consistent with pre-maligna
 | Predicted Indication | Evidence Level | Recommendation | Comment |
 |------|------|------|------|
 | Benign neoplasm of buccal mucosa | L4 | Research Question | Preclinical models, a scoping review and case reports only; one case of malignant conversion raises safety concerns |
-| Odontogenic cyst | L4 | Hold | Evidence concerns basal cell carcinoma in Gorlin syndrome, not the cysts themselves |
+| Odontogenic cyst | L5 | Hold | Evidence concerns basal cell carcinoma in Gorlin syndrome, not the cysts themselves |
 | Benign neoplasm of tongue | L5 | Hold | Only a preclinical liposome delivery study |
 | Cystic neoplasm | L5 | Hold | A single incidental case report |
 | Inner ear neoplasm | L5 | Hold | Only a veterinary study of a different drug |

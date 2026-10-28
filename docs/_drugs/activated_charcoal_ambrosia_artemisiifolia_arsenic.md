@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Activated Charcoal Ambrosia Artemisiifolia Arsenic
@@ -51,7 +52,7 @@ Currently, **no clinical or preclinical evidence** supports any new indication f
 | Predicted New Indication | Not available |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | N/A — no prediction generated |
-| Market Status | Not marketed |
+| Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of Licenses | 0 |
 | Recommended Decision | Hold |
 

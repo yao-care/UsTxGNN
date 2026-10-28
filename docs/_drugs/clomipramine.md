@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Clomipramine
-parent: Moderate Evidence (L3-L4)
+parent: High Evidence (L1-L2)
 nav_order: 539
-evidence_level: L3
-indication_count: 10
+evidence_level: L1
+indication_count: 8
 last_modified_at: 2026-10-14
 description: "Clomipramine: predicted new indication Anxiety disorder (evidence level L3). Approved use: Obsessive-compulsive disorder"
 monitor_inn: "CLOMIPRAMINE"
@@ -14,7 +14,7 @@ predicted_indications: ["anxiety disorder", "benign paroxysmal torticollis of in
 # Clomipramine
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L1** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ with **8 clinical trials** and **20 publications** currently linked to this pred
 |------|------|
 | Original Indication | Obsessive-compulsive disorder |
 | Predicted New Indication | Anxiety disorder |
-| TxGNN Prediction Score | 99.93% |
+| TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L1 (see note under Clinical Trial Evidence) |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 9) |
 | Number of NDAs | 9 (all cancelled) |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -94,13 +94,13 @@ OCD is closely related to the anxiety disorders, and the same neurotransmitter s
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA019906 | ANAFRANIL (SpecGx LLC) | Capsule | Not available; cancelled |
-| ANDA213219 | Clomipramine Hydrochloride (Micro Labs) | Capsule | Not available; cancelled |
-| ANDA208961 | Clomipramine Hydrochloride (Northstar Rx) | Capsule | Not available; cancelled |
-| ANDA211822 | Clomipramine Hydrochloride (Alembic) | Capsule | Not available; cancelled |
-| ANDA074694 | Clomipramine Hydrochloride (American Health Packaging) | Capsule | Not available; cancelled |
+| NDA019906 | ANAFRANIL (SpecGx LLC) | Capsule | Not available; valid |
+| ANDA213219 | Clomipramine Hydrochloride (Micro Labs) | Capsule | Not available; valid |
+| ANDA208961 | Clomipramine Hydrochloride (Northstar Rx) | Capsule | Not available; valid |
+| ANDA211822 | Clomipramine Hydrochloride (Alembic) | Capsule | Not available; valid |
+| ANDA074694 | Clomipramine Hydrochloride (American Health Packaging) | Capsule | Not available; valid |
 
-All 9 US authorizations are cancelled; none is currently valid.
+The drug is marketed in the US, with 9 valid licenses.
 
 ## Safety Considerations
 
@@ -126,7 +126,7 @@ Please refer to the package insert for full warnings and contraindications, whic
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Clomipramine has a plausible serotonergic mechanism and supportive older studies, guidelines and meta-analyses in panic disorder and agoraphobia. However, direct randomised evidence for anxiety disorders is limited, its tolerability profile is demanding, and all US licenses are cancelled.
+Clomipramine has a plausible serotonergic mechanism and supportive older studies, guidelines and meta-analyses in panic disorder and agoraphobia. However, direct randomised evidence for anxiety disorders is limited, and its tolerability profile is demanding.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

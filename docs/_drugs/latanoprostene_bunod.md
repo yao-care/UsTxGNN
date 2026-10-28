@@ -4,17 +4,17 @@ title: Latanoprostene Bunod
 parent: Model Prediction Only (L5)
 nav_order: 840
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-14
-description: "Latanoprostene Bunod: predicted new indication Visceral calciphylaxis (evidence level L5). Approved use: Open-angle glaucoma"
+indication_count: 9
+last_modified_at: 2026-10-28
 monitor_inn: "LATANOPROSTENE BUNOD"
 predicted_indications: ["visceral calciphylaxis", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "idiopathic spontaneous coronary artery dissection", "angiodysplasia of stomach", "lymphangiectasis", "hemangioendothelioma"]
+description: "Latanoprostene Bunod: predicted new indication Visceral calciphylaxis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Latanoprostene Bunod
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Latanoprostene Bunod: From Open-Angle Glaucoma and Ocular Hypertension to Visceral Calciphylaxis
+## Latanoprostene Bunod: Visceral calciphylaxis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ The prediction rests on model output alone.
 
 | Item | Content |
 |------|------|
-| Original Indication | Open-angle glaucoma; ocular hypertension |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Visceral calciphylaxis |
-| TxGNN Prediction Score | 99.76% |
+| TxGNN Prediction Score | 0.9976 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 2 (1 NDA and 1 ANDA, both cancelled) |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -61,7 +61,7 @@ Detailed mechanism-of-action data is not currently available in the data compile
 The link to visceral calciphylaxis is weak. NO-mediated vasodilation and cGMP signaling could theoretically influence vascular calcification, but this is a hypothesis only. Calciphylaxis is a systemic microvascular disease, while this drug is a topical eye drop with negligible systemic exposure. The high TxGNN score is a computational prediction and should not be read as clinical support.
 
 For context, the other top-ranked predictions are also weakly supported:
-- **Primary hereditary glaucoma** (99.71%) is the most mechanistically plausible, but it is an extension of the approved glaucoma class rather than true repurposing. Pediatric and developmental glaucomas often respond poorly to medical therapy and would need separate evaluation.
+- Pediatric and developmental glaucomas often respond poorly to medical therapy and would need separate evaluation.
 - **Thoracic outlet syndromes** (venous, arterial and neurogenic), **spontaneous coronary artery dissection**, **angiodysplasia of the stomach**, and **lymphangiectasis** have no identified mechanistic link, and each has no trials or literature.
 - **Vascular disease** and **hemangioendothelioma** have minimal indirect evidence, described below.
 
@@ -90,10 +90,10 @@ For reference, the only publications linked to other top-10 predictions are indi
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA207795 | Vyzulta (Bausch & Lomb Incorporated) | Ophthalmic solution/drops | Not listed; cancelled |
-| ANDA217387 | Latanoprostene Bunod Ophthalmic Solution, 0.024% (Gland Pharma Limited) | Ophthalmic solution/drops | Not listed; cancelled |
+| NDA207795 | Vyzulta (Bausch & Lomb Incorporated) | Ophthalmic solution/drops | Not listed; valid |
+| ANDA217387 | Latanoprostene Bunod Ophthalmic Solution, 0.024% (Gland Pharma Limited) | Ophthalmic solution/drops | Not listed; valid |
 
-Both authorizations are in cancelled status, and there are no currently valid single-ingredient or combination licenses. The drug was approved by the FDA in November 2017 for open-angle glaucoma and ocular hypertension.
+The drug was approved by the FDA in November 2017 for open-angle glaucoma and ocular hypertension.
 
 ## Safety Considerations
 
@@ -114,7 +114,6 @@ The prediction for visceral calciphylaxis rests on model output alone (L5), with
 - Package insert warnings and contraindications (currently missing, and a blocking gap for safety screening)
 - Preclinical evidence that this drug affects calcification or calciphylaxis models
 - Evidence that a systemic route or formulation could achieve relevant exposure, since only an ophthalmic solution exists
-- Separate evaluation of primary hereditary glaucoma in a pediatric or developmental glaucoma context, as it is the most plausible prediction
 - Clarification of the regulatory status, since both US licenses are cancelled
 ## Disclaimer
 

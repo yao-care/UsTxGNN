@@ -33,14 +33,14 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-## Evolocumab: From Homozygous Familial Hypercholesterolemia to Symptomatic Hemophilia in Female Carriers
+## Evolocumab: symptomatic form of hemophilia in female carriers
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Evolocumab is a PCSK9-inhibiting monoclonal antibody, originally used to lower cholesterol in homozygous familial hypercholesterolemia and related dyslipidemia.
 The TxGNN model predicts it may be effective for **symptomatic form of hemophilia in female carriers**, but **no clinical trials and no publications** currently support this prediction.
-The top-ranked prediction is a knowledge-graph signal only, with no identified biological rationale.
+The top-ranked prediction comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Quick Overview
 
@@ -48,17 +48,17 @@ The top-ranked prediction is a knowledge-graph signal only, with no identified b
 |------|------|
 | Original Indication | Homozygous familial hypercholesterolemia; syndromic dyslipidemia |
 | Predicted New Indication | Symptomatic form of hemophilia in female carriers |
-| TxGNN Prediction Score | 99.82% |
+| TxGNN Prediction Score | 0.9982 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (the single BLA is cancelled) |
-| Number of NDAs | 1 (BLA125522) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism-of-action data was not available in the data compiled for this report. From pharmacology data, evolocumab is an antibody that targets PCSK9 (proprotein convertase subtilisin/kexin type 9). By blocking PCSK9, it increases LDL receptor availability on the liver and lowers LDL cholesterol. It has been approved for patients, including those with heterozygous and homozygous familial hypercholesterolemia, who cannot control LDL-C with existing therapy.
 
-The predicted indication is a different kind of disease. Symptomatic hemophilia in female carriers arises from reduced factor VIII or IX activity, caused by X-linked gene variants and skewed X-inactivation. PCSK9 inhibition has no known effect on coagulation factor production or function, so **no plausible mechanistic link was identified**. The high score (0.998) reflects a knowledge-graph prediction only and is not supported by biological rationale or clinical data.
+The predicted indication is a different kind of disease. Symptomatic hemophilia in female carriers arises from reduced factor VIII or IX activity, caused by X-linked gene variants and skewed X-inactivation. PCSK9 inhibition has no known effect on coagulation factor production or function, so **no plausible mechanistic link was identified**. The high score (0.9982) reflects a TxGNN model (deep learning) prediction only and is not supported by biological rationale or clinical data.
 
 ### Other Predictions Reviewed
 
@@ -66,11 +66,11 @@ All other top predictions also have no trials or literature and are Level L5 wit
 
 | Rank | Predicted Indication | TxGNN Score | Assessment |
 |------|------|------|------|
-| 2 | Familial apolipoprotein C-II deficiency | 99.50% | Weak, indirect link as a lipid disorder. Evolocumab mainly lowers LDL-C and does not address the primary defect (impaired lipolysis causing severe hypertriglyceridemia). Benefit is speculative. |
-| 3 | Thrombocytopenic purpura | 99.42% | No established link; the disease involves autoimmune platelet destruction or ADAMTS13 dysfunction, unrelated to PCSK9. |
-| 4 | Factor XI deficiency | 99.29% | No plausible link; PCSK9 inhibition does not change factor XI levels or activity. |
-| 5 | Hemophilia A with vascular abnormality | 99.22% | No plausible link; evolocumab does not affect factor VIII or von Willebrand factor biology. |
-| 6 | Disease of catalytic activity | 99.08% | A non-specific ontology category, not a defined clinical indication; not actionable. |
+| 2 | Familial apolipoprotein C-II deficiency | 0.9950 | Weak, indirect link as a lipid disorder. Evolocumab mainly lowers LDL-C and does not address the primary defect (impaired lipolysis causing severe hypertriglyceridemia). Benefit is speculative. |
+| 3 | Thrombocytopenic purpura | 0.9942 | No established link; the disease involves autoimmune platelet destruction or ADAMTS13 dysfunction, unrelated to PCSK9. |
+| 4 | Factor XI deficiency | 0.9929 | No plausible link; PCSK9 inhibition does not change factor XI levels or activity. |
+| 5 | Hemophilia A with vascular abnormality | 0.9922 | No plausible link; evolocumab does not affect factor VIII or von Willebrand factor biology. |
+| 6 | Disease of catalytic activity | 0.9908 | A non-specific ontology category, not a defined clinical indication; not actionable. |
 
 ## Clinical Trial Evidence
 

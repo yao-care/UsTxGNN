@@ -48,10 +48,10 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Congenital sucrase-isomaltase deficiency |
 | Predicted New Indication | Cystinosis |
-| TxGNN Prediction Score | 99.44% |
+| TxGNN Prediction Score | 0.9944 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 (BLA 020772, cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,9 +60,9 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 Cystinosis is a lysosomal storage disorder caused by CTNS mutations. These impair the cystinosin transporter and lead to cystine accumulation inside lysosomes. The standard of care is cysteamine, which depletes cystine. A luminal digestive enzyme has no plausible effect on lysosomal cystine transport, so **no credible mechanistic link was identified**.
 
-The high score (0.994) is most likely explained by both conditions sitting in a similar "inherited metabolic disorder" neighborhood of the knowledge graph, not by a true biological relationship. It should be treated as a computational hypothesis only.
+The high score (0.9944) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, such as both being "inherited metabolic disorders," not biological evidence. It should be treated as a computational hypothesis only.
 
-*Another prediction from the same analysis:* familial apolipoprotein C-II deficiency (score 99.05%) also lacks any mechanistic link, clinical trials or literature. It involves a defect in lipoprotein lipase activation, which a gut-luminal sucrase does not influence.
+*Another prediction from the same analysis:* familial apolipoprotein C-II deficiency (score 0.9905) also lacks any mechanistic link, clinical trials or literature. It involves a defect in lipoprotein lipase activation, which a gut-luminal sucrase does not influence.
 
 ## Clinical Trial Evidence
 
@@ -76,7 +76,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA 020772 | Sucraid (QOL Medical, LLC) | Solution | Status: cancelled |
+| BLA 020772 | Sucraid (QOL Medical, LLC) | Solution | Status: valid |
 
 ## Safety Considerations
 

@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Antimony Trisulfide Barium Carbonate Bismuth Subni
@@ -51,7 +52,7 @@ Due to the absence of predictions, clinical evidence, and a valid regulatory ide
 | Predicted New Indication | None — TxGNN returned no predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | Below L5 (no predictions, no studies identified) |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 2) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

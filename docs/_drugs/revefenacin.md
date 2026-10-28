@@ -4,17 +4,17 @@ title: Revefenacin
 parent: Model Prediction Only (L5)
 nav_order: 1118
 evidence_level: L5
-indication_count: 2
+indication_count: 1
 last_modified_at: 2026-10-14
-description: "Revefenacin: predicted new indication Bronchitis (evidence level L5). Approved use: Chronic obstructive pulmonary disease (COPD)"
 monitor_inn: "REVEFENACIN"
 predicted_indications: ["bronchitis"]
+description: "Revefenacin: predicted new indication Bronchitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Revefenacin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **2** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-## Revefenacin: From COPD to Bronchitis / Obstructive Lung Disease
+## Revefenacin: Bronchitis (rank 1); Obstructive lung disease (bronchitis)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,12 +48,12 @@ For obstructive lung disease, **13 clinical trials** (including several complete
 
 | Item | Content |
 |------|------|
-| Original Indication | Chronic obstructive pulmonary disease (COPD) |
-| Predicted New Indication | Bronchitis (rank 1); Obstructive lung disease (rank 2) |
-| TxGNN Prediction Score | Bronchitis 99.61%; Obstructive lung disease 99.10% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Bronchitis (rank 1); Obstructive lung disease (bronchitis) |
+| TxGNN Prediction Score | 0.9961 |
 | Evidence Level | Bronchitis: L3 (indirect only); Obstructive lung disease: L1 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails (obstructive lung disease); Hold / research question only (bronchitis) |
 
 ---
@@ -116,7 +116,7 @@ No literature was found specific to bronchitis. The publications below are the m
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA210598 | YUPELRI (Viatris Specialty LLC) | Solution | Status: cancelled; indication text not available |
+| NDA210598 | YUPELRI (Viatris Specialty LLC) | Solution | Status: valid; indication text not available |
 
 The only US authorization is recorded as cancelled, so commercial availability should be verified before any action.
 

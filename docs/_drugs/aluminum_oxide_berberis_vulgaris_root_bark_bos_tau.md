@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Aluminum Oxide Berberis Vulgaris Root Bark Bos Tau
@@ -52,7 +53,7 @@ Without a baseline indication or a predicted target disease, no evidence assessm
 | Predicted New Indication | None — TxGNN returned no predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — model prediction not generated; no supporting studies |
-| US Market Status | Not marketed (0 authorizations) |
+| US Market Status | Marketed (valid licenses on record: at least 14) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

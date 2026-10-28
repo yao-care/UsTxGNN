@@ -47,9 +47,9 @@ The TxGNN model predicts they may be effective for **hypotrichosis simplex of th
 |------|------|
 | Original Indication | Laxative (inferred from product names; no approved indication text available) |
 | Predicted New Indication | Hypotrichosis simplex of the scalp |
-| TxGNN Prediction Score | 99.29% |
+| TxGNN Prediction Score | 0.9929 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licences) |
+| US Market Status | Marketed (valid licenses on record: at least 2) |
 | Number of NDAs | 2 (both cancelled) |
 | Recommended Decision | Hold |
 
@@ -59,7 +59,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 No mechanistic link to hair follicle biology or to the genetic causes of hypotrichosis simplex (for example CDSN, APCDD1 and RPL21 variants) has been established. The high score is a model prediction only.
 
-The other five predictions (congenital hypotrichosis milia, diffuse alopecia areata, open-angle glaucoma, primary hereditary glaucoma and alopecia) all score between 0.991 and 0.993 and also lack supporting evidence. This clustering suggests a graph-proximity artifact rather than a real signal.
+The other five predictions (congenital hypotrichosis milia, diffuse alopecia areata, open-angle glaucoma, primary hereditary glaucoma and alopecia) all score between 0.9910 and 0.9923 and also lack supporting evidence. This clustering suggests the scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Clinical Trial Evidence
 

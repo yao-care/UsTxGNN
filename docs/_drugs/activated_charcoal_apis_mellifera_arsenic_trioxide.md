@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Activated Charcoal Apis Mellifera Arsenic Trioxide
@@ -53,7 +54,7 @@ Without a mappable drug node, repurposing evaluation cannot proceed under the cu
 | Predicted New Indication | None — model returned no candidates |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (model prediction only — not applicable; no candidates generated) |
-| US Market Status | Not marketed (0 active authorizations) |
+| US Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

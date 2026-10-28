@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Diclofenac
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 602
-evidence_level: L3
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Diclofenac: predicted new indication Juvenile idiopathic arthritis (evidence level L3). Approved use: Actinic keratosis, rheumatoid arthritis, ankylosing spondylitis…"
 monitor_inn: "DICLOFENAC"
 predicted_indications: ["hypotrichosis simplex of the scalp", "acromesomelic dysplasia, Hunter-Thompson type", "pseudoachondroplasia", "brachyolmia", "brachyolmia-amelogenesis imperfecta syndrome", "congenital hypotrichosis milia", "myosclerosis", "diffuse alopecia areata", "juvenile idiopathic arthritis", "WHIM syndrome"]
+description: "Diclofenac: predicted new indication Hypotrichosis simplex of the scalp (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Diclofenac
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-## Diclofenac: From Actinic Keratosis and Arthritis to Juvenile Idiopathic Arthritis
+## Diclofenac: Hypotrichosis simplex of the scalp
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,11 +48,11 @@ There are currently **0 clinical trials** and **14 publications** on this direct
 
 | Item | Content |
 |------|------|
-| Original Indication | Actinic keratosis, rheumatoid arthritis, ankylosing spondylitis, osteoarthritis (from the knowledge graph; no approved-indication text is available from US licenses) |
-| Predicted New Indication | Juvenile idiopathic arthritis (the highest-ranked prediction, hypotrichosis simplex of the scalp, has no supporting evidence; JIA is the best-supported candidate) |
-| TxGNN Prediction Score | 99.25% (JIA); the top-ranked prediction scores 99.69% |
-| Evidence Level | L3 |
-| US Market Status | Cancelled only (all licenses cancelled) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Hypotrichosis simplex of the scalp |
+| TxGNN Prediction Score | 0.9969 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 16) |
 | Number of NDAs | 16 (1 NDA and 15 ANDAs, all cancelled) |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -64,7 +64,7 @@ Detailed mechanism of action data is not currently available for this report. Di
 
 JIA shares the same inflammatory joint pathology as diclofenac's established indications (rheumatoid arthritis, ankylosing spondylitis, osteoarthritis). COX inhibition addresses symptoms in JIA in the same way. This is symptomatic relief, not disease modification, and NSAIDs in JIA are typically used alongside disease-modifying drugs (DMARDs) and biologics.
 
-By contrast, the other nine top predictions (e.g. hypotrichosis simplex, pseudoachondroplasia, brachyolmia, alopecia areata, WHIM syndrome) are mostly genetic or autoimmune disorders with no credible link to COX inhibition. Their high scores appear to reflect knowledge-graph proximity only, and they have no trials or literature. They are not recommended for further work.
+By contrast, the other nine top predictions (e.g. hypotrichosis simplex, pseudoachondroplasia, brachyolmia, alopecia areata, WHIM syndrome) are mostly genetic or autoimmune disorders with no credible link to COX inhibition. Their high scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, and they have no trials or literature. They are not recommended for further work.
 
 ---
 
@@ -94,15 +94,15 @@ Of the 14 publications retrieved, the table lists those most relevant to diclofe
 
 ## US Market Information
 
-All 16 US licenses are cancelled, and no approved-indication text is available. The table lists 5 of them.
+The drug is marketed in the US with 16 valid licenses, and no approved-indication text is available. The table lists 5 of them.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| NDA022202 | ZIPSOR (Assertio Therapeutics) | Capsule, liquid filled | Cancelled |
-| ANDA075185 | Diclofenac Sodium (AvKARE) | Delayed-release tablet | Cancelled |
-| ANDA076201 | Diclofenac Sodium (Bryant Ranch Prepack) | Extended-release tablet | Cancelled |
-| ANDA215585 | Diclofenac Potassium (Preferred Pharmaceuticals) | Film-coated tablet | Cancelled |
-| ANDA211253 | Aspercreme Arthritis (Chattem) | Gel | Cancelled |
+| NDA022202 | ZIPSOR (Assertio Therapeutics) | Capsule, liquid filled | Valid |
+| ANDA075185 | Diclofenac Sodium (AvKARE) | Delayed-release tablet | Valid |
+| ANDA076201 | Diclofenac Sodium (Bryant Ranch Prepack) | Extended-release tablet | Valid |
+| ANDA215585 | Diclofenac Potassium (Preferred Pharmaceuticals) | Film-coated tablet | Valid |
+| ANDA211253 | Aspercreme Arthritis (Chattem) | Gel | Valid |
 
 ---
 
@@ -135,7 +135,7 @@ Please refer to the package insert for official warnings, as label text was not 
 
 **Rationale:**
 - The JIA prediction has a clear mechanistic fit and a body of older pediatric studies on diclofenac. However, these are small and mostly uncontrolled or comparative, with no registered trials and no modern randomized evidence. Evidence is therefore L3, not L1 or L2.
-- All US licenses are cancelled, so product availability is a practical barrier.
+- The drug is marketed in the US, with 16 valid licenses.
 - The remaining predictions, including the highest-scoring one, rest on model scores alone (L5) and should be held.
 
 **To proceed, the following is needed:**

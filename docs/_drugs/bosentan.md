@@ -4,7 +4,7 @@ title: Bosentan
 parent: Moderate Evidence (L3-L4)
 nav_order: 465
 evidence_level: L4
-indication_count: 9
+indication_count: 8
 last_modified_at: 2026-10-14
 description: "Bosentan: predicted new indication Rheumatoid arthritis (evidence level L4). Approved use: Pulmonary arterial hypertension (including pulmonary hypertension and…"
 monitor_inn: "BOSENTAN"
@@ -14,7 +14,7 @@ predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndro
 # Bosentan
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **9** 
+Evidence Level: **L4** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ but currently there are **0 registered clinical trials** and only **animal-model
 |------|------|
 | Original Indication | Pulmonary arterial hypertension (including pulmonary hypertension and systemic sclerosis-related disease) |
 | Predicted New Indication | Rheumatoid arthritis |
-| TxGNN Prediction Score | 99.80% |
+| TxGNN Prediction Score | 0.9980 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 7 (NDA and ANDA licenses, all cancelled) |
+| US Market Status | Marketed (valid licenses: 7 of 7) |
+| Number of NDAs | 7 (valid: 7) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -83,11 +83,11 @@ Currently no related clinical trials registered.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA021290 | Tracleer (Actelion) | Tablet, film coated | Not available (status: cancelled) |
-| NDA209279 | Tracleer (Actelion) | Tablet, for suspension | Not available (status: cancelled) |
-| ANDA213154 | Bosentan (Lupin) | Tablet, for suspension | Not available (status: cancelled) |
-| ANDA209324 | Bosentan (Sun Pharmaceutical) | Tablet, film coated | Not available (status: cancelled) |
-| ANDA207760 | Bosentan (Zydus Lifesciences) | Tablet | Not available (status: cancelled) |
+| NDA021290 | Tracleer (Actelion) | Tablet, film coated | Not available (status: valid) |
+| NDA209279 | Tracleer (Actelion) | Tablet, for suspension | Not available (status: valid) |
+| ANDA213154 | Bosentan (Lupin) | Tablet, for suspension | Not available (status: valid) |
+| ANDA209324 | Bosentan (Sun Pharmaceutical) | Tablet, film coated | Not available (status: valid) |
+| ANDA207760 | Bosentan (Zydus Lifesciences) | Tablet | Not available (status: valid) |
 
 Two further licenses (ANDA207110, Actavis; ANDA213981, Zydus Pharmaceuticals USA) are also cancelled.
 
@@ -107,13 +107,13 @@ Please refer to the package insert for the official warnings and contraindicatio
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high (99.80%), but the support is limited to mouse arthritis models and there are no human rheumatoid arthritis trials. The knowledge-graph contraindications (notably liver disease and anaemia), which are relevant to a chronic inflammatory population, also call for caution. Other predictions in the list, such as limited systemic sclerosis (L3), sit closer to the existing labelled disease area, but they are largely extensions of the original indication rather than truly new uses.
+The prediction score is very high (0.9980), but the support is limited to mouse arthritis models and there are no human rheumatoid arthritis trials. The knowledge-graph contraindications (notably liver disease and anaemia), which are relevant to a chronic inflammatory population, also call for caution. Other predictions in the list, such as limited systemic sclerosis (L3), sit closer to the existing labelled disease area, but they are largely extensions of the original indication rather than truly new uses.
 
 **To proceed, the following is needed:**
 - Human proof-of-concept data in rheumatoid arthritis (for example, a small Phase 2 study)
 - Detailed mechanism of action data and a clearer link to synovial endothelin biology
 - Official package insert warnings and contraindications, including liver function monitoring requirements
-- Clarification of the US regulatory status, since all listed licenses are cancelled
+- Clarification of the US regulatory status, since the drug is marketed and all 7 of 7 licenses are valid
 - A review of the interaction profile against drugs commonly used in rheumatoid arthritis, especially corticosteroids
 ## Disclaimer
 

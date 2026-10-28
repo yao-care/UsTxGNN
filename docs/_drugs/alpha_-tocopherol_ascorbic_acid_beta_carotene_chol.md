@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Alpha -Tocopherol Ascorbic Acid Beta Carotene Chol
@@ -51,8 +52,8 @@ With **0 clinical trials**, **0 publications**, and **0 regulatory licenses** re
 | Predicted New Indication | None — TxGNN returned no predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (model prediction only — but no prediction was generated) |
-| Market Status | Not Marketed |
-| Number of Licenses | 0 |
+| Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of Licenses | 1 (valid: 1) |
 | Recommended Decision | **Hold** |
 
 ---

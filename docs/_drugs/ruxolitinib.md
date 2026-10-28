@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "RUXOLITINIB"
 predicted_indications: ["uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lymphangiomyoma", "lymphangioleiomyomatosis", "liposarcoma", "familial rhabdoid tumor", "lung PEComa", "ovarian myxoid liposarcoma", "acquired hemophagocytic lymphohistiocytosis associated with malignant disease", "hemophagocytic syndrome associated with an infection"]
 last_modified_at: 2026-10-14
-description: "Ruxolitinib: predicted new indication Uterine corpus perivascular epithelioid cell tumor (evidence level L5). Approved use: Myelofibrosis / polycythemia vera / myeloproliferative neoplasm"
+description: "Ruxolitinib: predicted new indication Uterine corpus perivascular epithelioid cell tumor (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Ruxolitinib
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Ruxolitinib: From Myelofibrosis to Uterine Corpus Perivascular Epithelioid Cell Tumor
+## Ruxolitinib: Uterine corpus perivascular epithelioid cell tumor
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,12 +47,12 @@ The TxGNN model predicts it may be effective for **uterine corpus perivascular e
 
 | Item | Content |
 |------|------|
-| Original Indication | Myelofibrosis / polycythemia vera / myeloproliferative neoplasm (from the knowledge-graph indication list; the US license records contain no indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Uterine corpus perivascular epithelioid cell tumor |
-| TxGNN Prediction Score | 99.73% |
+| TxGNN Prediction Score | 0.9973 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 3 |
+| US Market Status | Marketed (valid licenses: 3 of 3) |
+| Number of NDAs | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ---
@@ -81,9 +81,9 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
 |---------|------|------|------|------|
-| NDA215309 | OPZELURA | Cream | Incyte Corporation | Cancelled |
-| NDA202192 | JAKAFI | Tablet | Incyte Corporation | Cancelled |
-| NDA217900 | LEQSELVI | Tablet, film coated | Sun Pharmaceutical Industries, Inc. | Cancelled |
+| NDA215309 | OPZELURA | Cream | Incyte Corporation | Valid |
+| NDA202192 | JAKAFI | Tablet | Incyte Corporation | Valid |
+| NDA217900 | LEQSELVI | Tablet, film coated | Sun Pharmaceutical Industries, Inc. | Valid |
 
 ---
 
@@ -115,7 +115,7 @@ No warning or contraindication data (label-based or knowledge-graph-based) were 
 **Decision: Hold**
 
 **Rationale:**
-The prediction for uterine corpus PEComa rests on the model score alone (L5). There are no trials or publications, and the known biology of this tumor points to mTOR rather than JAK/STAT signaling. All three US licenses are also cancelled.
+The prediction for uterine corpus PEComa rests on the model score alone (L5). There are no trials or publications, and the known biology of this tumor points to mTOR rather than JAK/STAT signaling. All three US licenses are also valid.
 
 **To proceed, the following is needed:**
 - Any preclinical or clinical evidence linking JAK/STAT signaling to PEComa

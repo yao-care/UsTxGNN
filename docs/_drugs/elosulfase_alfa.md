@@ -50,10 +50,10 @@ The prediction rests on model scoring alone and should be treated as a computati
 |------|------|
 | Original Indication | Mucopolysaccharidosis (Morquio A syndrome, MPS IVA) |
 | Predicted New Indication | Scheie syndrome |
-| TxGNN Prediction Score | 99.90% |
+| TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 (BLA125460) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,16 +62,15 @@ The prediction rests on model scoring alone and should be treated as a computati
 
 Currently, detailed mechanism of action data is not available. Based on known information, elosulfase alfa is a recombinant form of N-acetylgalactosamine-6-sulfatase (GALNS). This enzyme degrades keratan sulfate and chondroitin-6-sulfate, which accumulate in Morquio A syndrome.
 
-Scheie syndrome is an attenuated form of MPS I. It is caused by a deficiency of a different enzyme, alpha-L-iduronidase, so dermatan sulfate and heparan sulfate accumulate. The missing enzyme and the stored substrates both differ from those elosulfase alfa acts on, so there is **no direct mechanistic rationale**. The high score most likely reflects shared network proximity among mucopolysaccharidoses and lysosomal storage diseases in the knowledge graph, not a biological link.
+Scheie syndrome is an attenuated form of MPS I. It is caused by a deficiency of a different enzyme, alpha-L-iduronidase, so dermatan sulfate and heparan sulfate accumulate. The missing enzyme and the stored substrates both differ from those elosulfase alfa acts on, so there is **no direct mechanistic rationale**. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases such as the mucopolysaccharidoses and other lysosomal storage diseases, not biological evidence.
 
 ### Other Predicted Indications Reviewed
 
 | Rank | Predicted Indication | Score | Evidence Level | Assessment |
 |------|------|------|------|------|
-| 2 | Lysosomal storage disease with skeletal involvement | 99.59% | L4 | Overlaps with the approved MPS IVA use; the publications support the original indication, not a new one |
-| 3 | Hurler syndrome | 99.43% | L4 | Different enzyme deficiency (MPS I); only an indirect Phase 1 prenatal ERT platform trial |
-| 4 | Sanfilippo syndrome | 99.42% | L4 | 13 publications, almost all on Morquio A; mainly central nervous system disease, and large enzymes do not cross the blood-brain barrier |
-| 5–9 | Rare ocular, neuromuscular and congenital syndromes | 99.0–99.1% | L5 | No plausible mechanism; likely knowledge-graph artifacts |
+| 2 | Lysosomal storage disease with skeletal involvement | 0.9959 | L5 | Overlaps with the approved MPS IVA use; the publications support the original indication, not a new one |
+| 3 | Hurler syndrome | 0.9943 | L5 | Different enzyme deficiency (MPS I); only an indirect Phase 1 prenatal ERT platform trial |
+| 4 | Sanfilippo syndrome | 0.9942 | L5 | 13 publications, almost all on Morquio A; mainly central nervous system disease, and large enzymes do not cross the blood-brain barrier |
 
 ---
 
@@ -112,7 +111,7 @@ The publications below were linked to other predictions. They concern Morquio A 
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA125460 | VIMIZIM (BioMarin Pharmaceutical Inc.) | Injection, solution, concentrate | Not specified in the compiled data (status: cancelled) |
+| BLA125460 | VIMIZIM (BioMarin Pharmaceutical Inc.) | Injection, solution, concentrate | Not specified in the compiled data (status: valid) |
 
 ---
 

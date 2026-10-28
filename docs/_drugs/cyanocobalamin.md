@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "CYANOCOBALAMIN"
 predicted_indications: ["biotin metabolic disease"]
 last_modified_at: 2026-10-14
-description: "Cyanocobalamin: predicted new indication Biotin metabolic disease (evidence level L5). Approved use: Vitamin B12 deficiency, pernicious anemia…"
+description: "Cyanocobalamin: predicted new indication Biotin metabolic disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Cyanocobalamin
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-## Cyanocobalamin: From Vitamin B12 Deficiency to Biotin Metabolic Disease
+## Cyanocobalamin: Biotin metabolic disease
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,11 +48,11 @@ but currently there are **0 clinical trials** and only **1 publication** (a gene
 
 | Item | Content |
 |------|------|
-| Original Indication | Vitamin B12 deficiency, pernicious anemia, and other deficiency anemias (from the knowledge graph; no label text available) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Biotin metabolic disease |
-| TxGNN Prediction Score | 99.60% |
+| TxGNN Prediction Score | 0.9960 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all 11 authorizations are cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 11) |
 | Number of NDAs | 11 (all are ANDAs, none are NDAs) |
 | Recommended Decision | Hold |
 
@@ -84,7 +84,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All 11 authorizations are currently cancelled. The data compiled for this report provides no approved indication text for any of them.
+The drug is marketed in the US, with 11 valid licenses. The data compiled for this report provides no approved indication text for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -111,7 +111,7 @@ Please refer to the package insert for warnings and contraindications, as this i
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is high (99.60%), but there are no registered clinical trials, and the single publication is unrelated to treatment. The proposed mechanistic link is hypothetical. In addition, standard biotin therapy already exists for biotin-related disorders, and all US authorizations for this drug are currently cancelled.
+The TxGNN score is high (0.9960), but there are no registered clinical trials, and the single publication is unrelated to treatment. The proposed mechanistic link is hypothetical. In addition, standard biotin therapy already exists for biotin-related disorders, and the drug is marketed in the US with 11 valid licenses.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

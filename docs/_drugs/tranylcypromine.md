@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Tranylcypromine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1249
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 7
 last_modified_at: 2026-10-14
-description: "Tranylcypromine: predicted new indication Dysthymic disorder (evidence level L4). Approved use: Unipolar depression, endogenous depression, major depressive disorder…"
 monitor_inn: "TRANYLCYPROMINE"
-predicted_indications: ["benign paroxysmal torticollis of infancy", "Ohdo syndrome and variants", "dysthymic disorder", "agoraphobia", "melancholia", "blepharophimosis - intellectual disability syndrome, Ohdo type", "neurotic disorder", "ligneous conjunctivitis", "Keppen-Lubinsky syndrome"]
+predicted_indications: ["benign paroxysmal torticollis of infancy", "Ohdo syndrome and variants", "agoraphobia", "blepharophimosis - intellectual disability syndrome, Ohdo type", "neurotic disorder", "ligneous conjunctivitis", "Keppen-Lubinsky syndrome"]
+description: "Tranylcypromine: predicted new indication Benign paroxysmal torticollis of infancy (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Tranylcypromine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,13 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Tranylcypromine: From Depression to Dysthymic Disorder
+## Tranylcypromine: Benign paroxysmal torticollis of infancy
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Tranylcypromine is an irreversible monoamine oxidase inhibitor (MAOI) originally used for depressive and anxiety disorders.
-The top-ranked TxGNN predictions (rank 1) are rare conditions with no supporting evidence, whereas the best-supported candidates are depression-related indications. This report focuses on **dysthymic disorder** (rank 3, the highest-ranked prediction with any supporting literature), which currently has **0 clinical trials** and **1 publication** (a class-level meta-analysis).
+The top-ranked TxGNN predictions (rank 1) are rare conditions with no supporting evidence, whereas the best-supported candidates are depression-related indications.
 
 > **Note on the choice of indication:** The two top-ranked predictions (benign paroxysmal torticollis of infancy and Ohdo syndrome) have no clinical trials or literature and no plausible mechanistic link. Dysthymic disorder is therefore used as the primary indication below. Other candidates are summarized in the conclusion.
 
@@ -49,12 +49,12 @@ The top-ranked TxGNN predictions (rank 1) are rare conditions with no supporting
 
 | Item | Content |
 |------|------|
-| Original Indication | Unipolar depression, endogenous depression, major depressive disorder, anxiety disorder (from the knowledge graph; US label indication text is not available) |
-| Predicted New Indication | Dysthymic disorder |
-| TxGNN Prediction Score | 99.63% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 4 (all cancelled; 1 NDA and 3 ANDAs) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Benign paroxysmal torticollis of infancy |
+| TxGNN Prediction Score | 0.9967 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 4 of 4) |
+| Number of NDAs | 4 (valid: 4) |
 | Recommended Decision | Hold (research question) |
 
 ---
@@ -95,14 +95,13 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All four US authorizations are cancelled, and no approved indication text is available.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| NDA012342 | PARNATE (Advanz Pharma) | Tablet, film coated | Cancelled |
-| ANDA213503 | Tranylcypromine (Solco Healthcare) | Tablet | Cancelled |
-| ANDA206856 | Tranylcypromine (Novitium Pharma) | Tablet | Cancelled |
-| ANDA040640 | Tranylcypromine sulfate (Strides Pharma) | Tablet, film coated | Cancelled |
+| NDA012342 | PARNATE (Advanz Pharma) | Tablet, film coated | Valid |
+| ANDA213503 | Tranylcypromine (Solco Healthcare) | Tablet | Valid |
+| ANDA206856 | Tranylcypromine (Novitium Pharma) | Tablet | Valid |
+| ANDA040640 | Tranylcypromine sulfate (Strides Pharma) | Tablet, film coated | Valid |
 
 ---
 
@@ -121,7 +120,7 @@ Please also refer to the package insert, as label warnings were not available fo
 **Decision: Hold**
 
 **Rationale:**
-The predicted new indication (dysthymic disorder) is supported only by class-level antidepressant evidence, with no tranylcypromine-specific studies or registered trials, so it is a research question rather than a candidate for development. The US licenses are all cancelled, and the MAOI safety burden is substantial (hypertensive crisis, extensive interactions).
+The US licenses are all cancelled, and the MAOI safety burden is substantial (hypertensive crisis, extensive interactions).
 
 **Status of other candidates:**
 - **Agoraphobia (rank 4, L4):** Research question. Evidence includes a 2010 case report of tranylcypromine in treatment-resistant agoraphobia with panic and older MAOI reviews. It is close to the original anxiety indication.
@@ -132,7 +131,6 @@ The predicted new indication (dysthymic disorder) is supported only by class-lev
 - Tranylcypromine-specific controlled data in dysthymia or other target indications
 - Mechanism-of-action data and FDA package insert warnings and contraindications
 - A risk-management plan covering dietary tyramine, drug interactions and hypertensive crisis
-- Clarification of current US market and regulatory status, since all licenses are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

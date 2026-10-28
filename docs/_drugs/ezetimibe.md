@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Ezetimibe
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 690
-evidence_level: L1
-indication_count: 4
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-14
-description: "Ezetimibe: predicted new indication Hyperlipoproteinemia (evidence level L1). Approved use: Hyperlipidemia (including familial hyperlipidemia…"
 monitor_inn: "EZETIMIBE"
-predicted_indications: ["hyperlipoproteinemia", "cholesterol-ester transfer protein deficiency"]
+predicted_indications: ["cholesterol-ester transfer protein deficiency"]
+description: "Ezetimibe: predicted new indication Cholesterol-ester transfer protein deficiency (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Ezetimibe
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **4** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,23 @@ Evidence Level: **L1** | Predicted Indications: **4**
 
 </div>
 
-## Ezetimibe: From Hyperlipidemia to Hyperlipoproteinemia
+## Ezetimibe: Cholesterol-ester transfer protein deficiency
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Ezetimibe is a cholesterol absorption inhibitor, originally used to treat hyperlipidemia, familial hyperlipidemia, homozygous familial hypercholesterolemia and sitosterolemia.
-The TxGNN model predicts it may be effective for **hyperlipoproteinemia**, but this is essentially an overlap with its existing indications rather than a true new use.
 The data compiled for this report include **41 clinical trials** and **18 publications** for this prediction, but most of the evidence supports the established use.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hyperlipidemia (including familial hyperlipidemia, homozygous familial hypercholesterolemia, sitosterolemia) |
-| Predicted New Indication | Hyperlipoproteinemia |
-| TxGNN Prediction Score | 99.63% |
-| Evidence Level | L1 |
-| US Market Status | Cancelled only (all 12 listed authorizations are cancelled; current availability should be verified) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Cholesterol-ester transfer protein deficiency |
+| TxGNN Prediction Score | 0.9909 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 12) |
 | Number of NDAs | 12 authorizations (1 NDA, 11 ANDAs) |
 | Recommended Decision | Hold |
 
@@ -58,12 +57,11 @@ The data compiled for this report include **41 clinical trials** and **18 public
 
 Detailed mechanism of action data is not available in the compiled data. Based on the repurposing analysis, ezetimibe inhibits NPC1L1-mediated intestinal cholesterol absorption, which lowers LDL cholesterol (LDL-C). This is the same mechanism behind its approved lipid-lowering uses.
 
-Hyperlipoproteinemia is closely related to the original indications, so the prediction is mechanistically sound. However, it is largely a re-labelling of the existing use rather than a new therapeutic direction. Many of the Phase 3/4 trials test ezetimibe as background therapy, as a comparator, or inside combinations, so they are indirect evidence.
+However, it is largely a re-labelling of the existing use rather than a new therapeutic direction. Many of the Phase 3/4 trials test ezetimibe as background therapy, as a comparator, or inside combinations, so they are indirect evidence.
 
 Other predictions in the list are weaker:
-- **Familial hypercholesterolemia** (score 99.38%): already covered by the original indications. Direct Phase 3 trials exist, but they support the established use.
-- **Hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency** (score 99.25%): only one preclinical paper, no clinical trials, ultra-rare disease (evidence level L4).
-- **Cholesterol-ester transfer protein deficiency** (score 99.09%): weak rationale, since this condition is not typically defined by LDL-C elevation; no direct evidence (evidence level L5).
+- Direct Phase 3 trials exist, but they support the established use.
+- **Cholesterol-ester transfer protein deficiency** (score 0.9909): weak rationale, since this condition is not typically defined by LDL-C elevation; no direct evidence (evidence level L5).
 
 ## Clinical Trial Evidence
 
@@ -99,7 +97,6 @@ The table lists the most relevant trials for the top prediction (up to 10).
 
 ## US Market Information
 
-All listed authorizations currently have a cancelled status.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

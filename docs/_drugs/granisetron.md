@@ -47,17 +47,17 @@ The TxGNN model predicts it may be effective for **manic bipolar affective disor
 |------|------|
 | Original Indication | Not stated in the compiled regulatory data (granisetron is generally known as an antiemetic for chemotherapy-induced nausea and vomiting) |
 | Predicted New Indication | Manic bipolar affective disorder |
-| TxGNN Prediction Score | 99.62% |
+| TxGNN Prediction Score | 0.9962 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 10 (all cancelled; 2 NDAs and 8 ANDAs) |
+| US Market Status | Marketed (valid licenses: 10 of 10) |
+| Number of NDAs | 10 (valid: 10) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the compiled records. Based on known pharmacology, granisetron is a selective 5-HT3 receptor antagonist, and its efficacy in nausea and vomiting is established through blockade of serotonin signaling.
 
-Mechanistically, 5-HT3 modulation has been hypothesized to influence dopaminergic and serotonergic signaling relevant to mood disorders. This link is speculative. The very high TxGNN score (0.996) is a model prediction only, and no clinical trials or literature were found to support it. The original indication (nausea and vomiting) and the predicted indication (mania) are not closely related clinically, so the similarity between them has not yet been assessed.
+Mechanistically, 5-HT3 modulation has been hypothesized to influence dopaminergic and serotonergic signaling relevant to mood disorders. This link is speculative. The very high TxGNN score (0.9962) is a model prediction only, and no clinical trials or literature were found to support it. The original indication (nausea and vomiting) and the predicted indication (mania) are not closely related clinically, so the similarity between them has not yet been assessed.
 
 ### Other Predicted Indications
 
@@ -65,15 +65,15 @@ The model also produced nine other predictions. None has clinical trial or liter
 
 | Rank | Predicted Indication | TxGNN Score | Mechanistic Plausibility |
 |------|------|------|------|
-| 2 | Tourette syndrome | 99.52% | Plausible but unproven: 5-HT3 antagonism may modulate basal ganglia dopamine release |
-| 3 | Acute contagious conjunctivitis | 99.49% | No clear link: the disease is pathogen-driven; likely a graph-based association |
-| 4 | Angioedema | 99.36% | Weak: possible role in neurogenic inflammation; hypersensitivity to 5-HT3 antagonists is a concern |
-| 5 | Allergic urticaria | 99.32% | Weak: serotonin may contribute to pruritus, but antihistamines remain standard |
-| 6 | Nephrogenic syndrome of inappropriate antidiuresis | 99.32% | None apparent: caused by AVPR2 gain-of-function mutations; likely an artifact |
-| 7 | Trichotillomania | 99.23% | Plausible but unproven: OCD-spectrum disorder with serotonergic involvement |
-| 8 | Bronchitis | 99.18% | Speculative: vagal afferents express 5-HT3 receptors |
-| 9 | Cold urticaria | 99.10% | Indirect: mast cell signaling or pruritus |
-| 10 | Conjunctivitis | 99.09% | Weak: no demonstrated ocular activity; overlaps with rank 3 |
+| 2 | Tourette syndrome | 0.9952 | Plausible but unproven: 5-HT3 antagonism may modulate basal ganglia dopamine release |
+| 3 | Acute contagious conjunctivitis | 0.9949 | No clear link: the disease is pathogen-driven; the score likely reflects similarities the TxGNN model (deep learning) learned between related diseases, not biological evidence |
+| 4 | Angioedema | 0.9936 | Weak: possible role in neurogenic inflammation; hypersensitivity to 5-HT3 antagonists is a concern |
+| 5 | Allergic urticaria | 0.9932 | Weak: serotonin may contribute to pruritus, but antihistamines remain standard |
+| 6 | Nephrogenic syndrome of inappropriate antidiuresis | 0.9932 | None apparent: caused by AVPR2 gain-of-function mutations; likely an artifact |
+| 7 | Trichotillomania | 0.9923 | Plausible but unproven: OCD-spectrum disorder with serotonergic involvement |
+| 8 | Bronchitis | 0.9918 | Speculative: vagal afferents express 5-HT3 receptors |
+| 9 | Cold urticaria | 0.9910 | Indirect: mast cell signaling or pruritus |
+| 10 | Conjunctivitis | 0.9909 | Weak: no demonstrated ocular activity; overlaps with rank 3 |
 
 ## Clinical Trial Evidence
 
@@ -87,11 +87,11 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| NDA022445 | SUSTOL (Heron Therapeutics) | Injection | Cancelled |
-| NDA022198 | SANCUSO (Cumberland Pharmaceuticals) | Patch | Cancelled |
-| ANDA091136 | Granisetron Hydrochloride (Mylan Institutional) | Injection, solution | Cancelled |
-| ANDA204238 | Granisetron Hydrochloride (Eugia US) | Injection, solution | Cancelled |
-| ANDA219282 | Granisol (Intra-Sana Laboratories) | Solution | Cancelled |
+| NDA022445 | SUSTOL (Heron Therapeutics) | Injection | Valid |
+| NDA022198 | SANCUSO (Cumberland Pharmaceuticals) | Patch | Valid |
+| ANDA091136 | Granisetron Hydrochloride (Mylan Institutional) | Injection, solution | Valid |
+| ANDA204238 | Granisetron Hydrochloride (Eugia US) | Injection, solution | Valid |
+| ANDA219282 | Granisol (Intra-Sana Laboratories) | Solution | Valid |
 
 The compiled records contain no approved indication text for these licenses. Five more licenses (all cancelled) are on file, covering tablets, film-coated tablets and additional injections.
 
@@ -112,7 +112,7 @@ Please refer to the package insert for complete warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The top prediction (manic bipolar affective disorder) has a very high model score but no supporting clinical trials or literature (Evidence Level L5). All US licenses are cancelled, and the mechanistic link is speculative. QT-related safety signals and many major drug interactions add further caution, especially in a psychiatric population that often takes QT-prolonging drugs.
+The top prediction (manic bipolar affective disorder) has a very high model score but no supporting clinical trials or literature (Evidence Level L5). The drug is marketed in the US, with 10 valid licenses out of 10, and the mechanistic link is speculative. QT-related safety signals and many major drug interactions add further caution, especially in a psychiatric population that often takes QT-prolonging drugs.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from the FDA (needed for safety screening)

@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "NAPHAZOLINE"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "primary hereditary glaucoma", "hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "open-angle glaucoma", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
 last_modified_at: 2026-10-14
-description: "Naphazoline: predicted new indication Hypotrichosis simplex of the scalp (evidence level L5). Approved use: Not stated in the US license records"
+description: "Naphazoline: predicted new indication Hypotrichosis simplex of the scalp (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Naphazoline
@@ -33,25 +33,25 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Naphazoline: From Ocular/Nasal Decongestion to Hypotrichosis Simplex of the Scalp
+## Naphazoline: Hypotrichosis simplex of the scalp
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Naphazoline is a topical alpha-adrenergic vasoconstrictor, used to temporarily relieve eye redness and nasal congestion.
 The TxGNN model predicts it may be effective for **hypotrichosis simplex of the scalp**,
-but there are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on knowledge-graph proximity alone.
+but there are currently **0 clinical trials** and **0 publications** supporting this direction, so the score comes from the TxGNN model (deep learning) alone and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the US license records; pharmacology data describes use for reducing eye redness |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Hypotrichosis simplex of the scalp |
-| TxGNN Prediction Score | 99.83% |
+| TxGNN Prediction Score | 0.9983 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 3 (all cancelled) |
+| US Market Status | Marketed (valid licenses: 3 of 3) |
+| Number of NDAs | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 The prediction is difficult to justify mechanistically. No plausible link has been established between an alpha-adrenergic vasoconstrictor and hair follicle biology or the genetic basis of hypotrichosis simplex (for example CDSN, APCDD1 or RPL21 variants). Vasoconstriction is also the opposite of the vasodilator-based approach of hair growth agents such as minoxidil.
 
-The high score is a graph-based prediction only. The other top-ranked predictions (other hair disorders, including both hypotrichosis and hypertrichosis, as well as unrelated congenital malformation syndromes) suggest the model is reflecting network topology rather than biology.
+The high score comes from the TxGNN model (deep learning) only and may reflect similarities the model learned between related diseases, not biological evidence. The other top-ranked predictions (other hair disorders, including both hypotrichosis and hypertrichosis, as well as unrelated congenital malformation syndromes) suggest the model is reflecting learned similarities between related diseases rather than biology.
 
 ## Clinical Trial Evidence
 
@@ -93,7 +93,7 @@ Please refer to the package insert for full safety information.
 **Decision: Hold**
 
 **Rationale:**
-All ten predicted indications are supported only by model scores, with no clinical trials and no relevant publications. For the top prediction, there is no mechanistic basis, and the drug's vasoconstrictive action may even work against hair growth. The product also has no currently valid US license.
+All ten predicted indications are supported only by model scores, with no clinical trials and no relevant publications. For the top prediction, there is no mechanistic basis, and the drug's vasoconstrictive action may even work against hair growth.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

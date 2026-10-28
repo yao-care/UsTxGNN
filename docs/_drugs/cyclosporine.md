@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **7**
 
 </div>
 
-## Cyclosporine: From Rheumatoid Arthritis and Dry Eye to Chronic Granulomatous Disease (Autosomal Recessive)
+## Cyclosporine: From Rheumatoid Arthritis and Dry Eye to granulomatous disease, chronic, autosomal recessive
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,9 +48,9 @@ This prediction should be regarded as a computational signal only.
 |------|------|
 | Original Indication | Rheumatoid arthritis, dry eye syndrome, xerophthalmia, Sjogren syndrome |
 | Predicted New Indication | Granulomatous disease, chronic, autosomal recessive |
-| TxGNN Prediction Score | 99.68% |
+| TxGNN Prediction Score | 0.9968 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (all 13 licenses are cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 13) |
 | Number of NDAs | 13 (no currently valid licenses) |
 | Recommended Decision | Hold |
 
@@ -74,7 +74,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All 13 US licenses are listed as cancelled. Approved indication text was not available for any of them. Main examples:
+All 13 US licenses are valid. Approved indication text was not available for any of them. Main examples:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -103,7 +103,7 @@ Package insert warnings and contraindications were not available. Please refer t
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high, but there are no registered clinical trials, and the single publication is a transplantation cohort study that does not show a benefit from cyclosporine. No plausible mechanistic link between calcineurin inhibition and correcting the CGD defect is evident, and all US licenses are currently cancelled.
+The prediction score is very high, but there are no registered clinical trials, and the single publication is a transplantation cohort study that does not show a benefit from cyclosporine. No plausible mechanistic link between calcineurin inhibition and correcting the CGD defect is evident, and 13 US licenses are currently valid.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for cyclosporine
@@ -112,8 +112,8 @@ The prediction score is very high, but there are no registered clinical trials, 
 - Clarification of the current US regulatory and market status
 
 **Other predictions, for reference:**
-- **Brain aneurysm** (score 99.50%, evidence level L3, "Research Question"): Small, older studies (1991-1997) suggest cyclosporine A may help prevent vasospasm or neurological deterioration after aneurysmal subarachnoid hemorrhage. These concern post-hemorrhage complications rather than aneurysm formation, and a 2017 preclinical study found T-cell function dispensable for aneurysm formation. This is hypothesis-generating only.
-- **Colobomatous microphthalmia-rhizomelic dysplasia syndrome, congenital ichthyosiform erythroderma, fetal erythroblastosis, brachydactyly-syndactyly syndrome, prolapse of lacrimal gland** (scores 99.08%-99.39%, evidence level L5, Hold): No clinical trials or supporting clinical literature; these rest on the model score alone.
+- **Brain aneurysm** (score 0.9950, evidence level L3, "Research Question"): Small, older studies (1991-1997) suggest cyclosporine A may help prevent vasospasm or neurological deterioration after aneurysmal subarachnoid hemorrhage. These concern post-hemorrhage complications rather than aneurysm formation, and a 2017 preclinical study found T-cell function dispensable for aneurysm formation. This is hypothesis-generating only.
+- **Colobomatous microphthalmia-rhizomelic dysplasia syndrome, congenital ichthyosiform erythroderma, fetal erythroblastosis, brachydactyly-syndactyly syndrome, prolapse of lacrimal gland** (scores 0.9908-0.9939, evidence level L5, Hold): No clinical trials or supporting clinical literature; these rest on the model score alone.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

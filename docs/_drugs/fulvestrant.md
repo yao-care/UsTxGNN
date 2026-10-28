@@ -48,10 +48,10 @@ but the supporting evidence is thin: **0 clinical trials** and **2 publications*
 |------|------|
 | Original Indication | Not listed in the data compiled for this report (fulvestrant is widely known as an endocrine therapy for HR+ breast cancer) |
 | Predicted New Indication | HIV infectious disease |
-| TxGNN Prediction Score | 99.91% |
+| TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (all licenses cancelled) |
-| Number of NDAs | 12 (2 NDAs and 10 ANDAs, all cancelled) |
+| US Market Status | Marketed (valid licenses: 12 of 12) |
+| Number of NDAs | 12 (valid: 12) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -109,13 +109,13 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The HIV prediction has a high model score but rests only on one preclinical study and one study of a related retrovirus. There are no clinical trials, and all US licenses are cancelled.
+The HIV prediction has a high model score but rests only on one preclinical study and one study of a related retrovirus. There are no clinical trials, and the drug is marketed in the US with 12 of 12 licenses valid.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications
 - Mechanism of action data from DrugBank
 - Further preclinical validation of ER antagonism or degradation on HIV latency and transcription in CD4+ T cells
-- Clarification of whether a new HIV-related formulation or development path is feasible, given that all US licenses are cancelled
+- Clarification of whether a new HIV-related formulation or development path is feasible, given that the drug is marketed in the US with 12 of 12 licenses valid
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

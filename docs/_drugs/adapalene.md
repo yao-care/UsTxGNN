@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "ADAPALENE"
 predicted_indications: ["zinc, elevated plasma"]
 last_modified_at: 2026-10-14
-description: "Adapalene: predicted new indication Elevated plasma zinc (evidence level L5). Approved use: Acne"
+description: "Adapalene: predicted new indication zinc, elevated plasma (evidence level L5). Approved use: Acne"
 ---
 
 # Adapalene
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-## Adapalene: From Acne to Elevated Plasma Zinc
+## Adapalene: From Acne to zinc, elevated plasma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **elevated plasma zinc**, but t
 |------|------|
 | Original Indication | Acne |
 | Predicted New Indication | Elevated plasma zinc |
-| TxGNN Prediction Score | 99.51% |
+| TxGNN Prediction Score | 0.9951 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 9) |
 | Number of NDAs | 9 authorizations in total (1 NDA, 8 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
@@ -59,7 +59,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 Elevated plasma zinc (hyperzincemia) is a biochemical state. It is typically caused by excess zinc intake, altered zinc homeostasis, or specific disorders such as calprotectin-related hyperzincemia. No recognized pathway links retinoid receptor signaling to this condition, and acne and hyperzincemia are unrelated in disease nature.
 
-The very high TxGNN score (99.51%) is a knowledge-graph prediction only. It may reflect indirect network connections, such as retinoid- and zinc-related gene or protein associations, rather than true biological or clinical relevance. This prediction should be treated as a hypothesis with a weak mechanistic rationale, not as supported evidence.
+The very high TxGNN score (0.9951) is a TxGNN model (deep learning) prediction only. It may reflect indirect network connections, such as retinoid- and zinc-related gene or protein associations, rather than true biological or clinical relevance. This prediction should be treated as a hypothesis with a weak mechanistic rationale, not as supported evidence.
 
 ## Clinical Trial Evidence
 
@@ -73,11 +73,11 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| NDA021753 | Adapalene (Mayne Pharma Commercial LLC.) | Gel | Cancelled |
-| ANDA204593 | Adapalene (CALL INC. dba Rochester Pharmaceuticals) | Swab | Cancelled |
-| ANDA090824 | Adapalene (Bryant Ranch Prepack) | Cream | Cancelled |
-| ANDA090962 | Adapalene (YYBA CORP) | Gel | Cancelled |
-| ANDA091314 | Adapalene (Glenmark Therapeutics Inc., USA) | Gel | Cancelled |
+| NDA021753 | Adapalene (Mayne Pharma Commercial LLC.) | Gel | Valid |
+| ANDA204593 | Adapalene (CALL INC. dba Rochester Pharmaceuticals) | Swab | Valid |
+| ANDA090824 | Adapalene (Bryant Ranch Prepack) | Cream | Valid |
+| ANDA090962 | Adapalene (YYBA CORP) | Gel | Valid |
+| ANDA091314 | Adapalene (Glenmark Therapeutics Inc., USA) | Gel | Valid |
 
 Approved indication text is not available for these authorizations. There are 9 authorizations in total, and all are cancelled. Only the first 5 are listed here. All forms are topical or swab formulations.
 
@@ -93,7 +93,7 @@ For label-based warnings and contraindications, please refer to the package inse
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting clinical trials or literature (evidence level L5). There is also no recognized mechanistic link between a topical retinoid and plasma zinc levels. All US authorizations are cancelled, and the drug is topical, which makes a systemic biochemical target unlikely to be reachable.
+The prediction has no supporting clinical trials or literature (evidence level L5). There is also no recognized mechanistic link between a topical retinoid and plasma zinc levels. The drug is marketed in the US with 9 valid authorizations, and because it is topical, a systemic biochemical target is unlikely to be reachable.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and a plausible mechanistic link between retinoid receptor signaling and zinc homeostasis

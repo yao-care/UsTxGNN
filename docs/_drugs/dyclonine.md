@@ -6,9 +6,9 @@ nav_order: 638
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Dyclonine: predicted new indication Bronchitis (evidence level L5). Approved use: Dermatitis"
 monitor_inn: "DYCLONINE"
 predicted_indications: ["bronchitis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "neonatal dermatomyositis", "acrodermatitis chronica atrophicans", "amyopathic dermatomyositis", "acne keloid", "hydroa vacciniforme, familial", "gastroduodenitis", "peptic ulcer disease", "irritable bowel syndrome"]
+description: "Dyclonine: predicted new indication Bronchitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Dyclonine
@@ -33,12 +33,12 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Dyclonine: From Dermatitis to Bronchitis
+## Dyclonine: Bronchitis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Dyclonine is a local anesthetic, originally associated with dermatitis in the TxGNN knowledge graph.
+Dyclonine is a local anesthetic.
 The TxGNN model predicts it may be effective for **Bronchitis** (top-ranked prediction), but **0 clinical trials** and **0 publications** currently support this specific prediction.
 The only indication with any supporting literature among the top 10 predictions is irritable bowel syndrome (1 mechanistic study).
 
@@ -48,11 +48,11 @@ The only indication with any supporting literature among the top 10 predictions 
 
 | Item | Content |
 |------|------|
-| Original Indication | Dermatitis (from the knowledge graph; no approved indication text is available in the US license records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Bronchitis |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 (model prediction only) |
-| US Market Status | Cancelled only |
+| US Market Status | Marketed (valid licenses on record: at least 3) |
 | Number of NDAs | 3 (all cancelled) |
 | Recommended Decision | Hold |
 
@@ -62,7 +62,7 @@ The only indication with any supporting literature among the top 10 predictions 
 
 Currently, detailed mechanism of action data is not available. Based on general pharmacology, dyclonine is a local anesthetic that is understood to block voltage-gated sodium channels. This could theoretically dampen the activity of airway sensory nerves and suppress cough.
 
-The link between dermatitis and bronchitis is weak. The high score most likely reflects proximity in the knowledge graph rather than a validated biological connection. Dyclonine would at most relieve symptoms (such as cough or irritation); there is no basis to expect it to treat the underlying airway inflammation or infection. This rationale is speculative and not supported by data.
+The link between dermatitis and bronchitis is weak. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Dyclonine would at most relieve symptoms (such as cough or irritation); there is no basis to expect it to treat the underlying airway inflammation or infection. This rationale is speculative and not supported by data.
 
 Other top predictions show the same pattern. Most are skin diseases (dermatomyositis, acrodermatitis chronica atrophicans, acne keloid, hydroa vacciniforme) or other conditions for which no plausible disease-modifying mechanism exists. For these, symptomatic relief of pain or itch is the most that could be argued.
 
@@ -92,11 +92,11 @@ This study supports biological plausibility only and is not evidence of efficacy
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA200480 | DycloPro (Septodont Inc) | Solution | Not available (cancelled) |
-| M022 | Sucrets Sore Throat Wild Cherry (Insight Pharmaceuticals LLC) | Lozenge | Not available (cancelled) |
-| M003 | Leader Liquid Bandage (LEADER / Cardinal Health 110, Inc.) | Liquid | Not available (cancelled) |
+| ANDA200480 | DycloPro (Septodont Inc) | Solution | Not available (valid) |
+| M022 | Sucrets Sore Throat Wild Cherry (Insight Pharmaceuticals LLC) | Lozenge | Not available (valid) |
+| M003 | Leader Liquid Bandage (LEADER / Cardinal Health 110, Inc.) | Liquid | Not available (valid) |
 
-All three authorizations are cancelled, and no valid single-ingredient or combination products remain on the US market.
+The drug is marketed in the US, with 3 valid licenses.
 
 ---
 

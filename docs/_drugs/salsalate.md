@@ -4,17 +4,17 @@ title: Salsalate
 parent: Model Prediction Only (L5)
 nav_order: 1144
 evidence_level: L5
-indication_count: 8
+indication_count: 7
 last_modified_at: 2026-10-14
-description: "Salsalate: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). Approved use: Rheumatoid arthritis, osteoarthritis, arthropathy"
 monitor_inn: "SALSALATE"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "spondyloarthropathy, susceptibility to"]
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia"]
+description: "Salsalate: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Salsalate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **8** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-## Salsalate: From Rheumatoid Arthritis to Acromesomelic Dysplasia, Hunter-Thompson Type
+## Salsalate: Acromesomelic dysplasia, Hunter-Thompson type
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,21 +46,21 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 | Item | Content |
 |------|------|
-| Original Indication | Rheumatoid arthritis, osteoarthritis, arthropathy (from the knowledge graph; no approved indication text is available in the US license record) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Acromesomelic dysplasia, Hunter-Thompson type |
-| TxGNN Prediction Score | 99.92% |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 (cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available for this drug. Based on known information, salsalate is a salicylate prodrug with NF-κB inhibitory and AMPK-activating activity. Its efficacy in joint inflammation and pain is the basis of its original indications.
 
-Hunter-Thompson type acromesomelic dysplasia is a rare skeletal dysplasia caused by loss-of-function mutations in CDMP1/GDF5, which disrupt BMP signaling and cartilage formation. No plausible mechanistic link between salsalate and GDF5/BMP signaling has been established. The high score most likely reflects network proximity to the arthropathy and skeletal disease cluster in the knowledge graph, not a causal pathway. This prediction should be regarded as a hypothesis only.
+Hunter-Thompson type acromesomelic dysplasia is a rare skeletal dysplasia caused by loss-of-function mutations in CDMP1/GDF5, which disrupt BMP signaling and cartilage formation. No plausible mechanistic link between salsalate and GDF5/BMP signaling has been established. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. This prediction should be regarded as a hypothesis only.
 
-Other predictions for this drug were also reviewed. All are L5 and rated Hold. The most biologically plausible is **spondyloarthropathy, susceptibility to** (score 99.55%), because NSAID-type drugs are standard symptomatic therapy in spondyloarthritis. This would be class-based extrapolation from other NSAIDs and still needs a targeted literature search. The next closest is pseudoachondroplasia (99.78%), where salsalate might relieve secondary joint pain, though it would not address the underlying disease.
+Other predictions for this drug were also reviewed. All are L5 and rated Hold. One of them is pseudoachondroplasia (0.9978), where salsalate might relieve secondary joint pain, though it would not address the underlying disease.
 
 ## Clinical Trial Evidence
 
@@ -93,7 +93,7 @@ Please refer to the package insert for official warnings and contraindications, 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a knowledge-graph score, with no clinical trials or literature. It has no plausible mechanistic link to the underlying genetic defect. Salsalate is also cancelled-only in the US market, so there is no marketed product to build on.
+The prediction rests only on a TxGNN model (deep learning) score, with no clinical trials or literature. It has no plausible mechanistic link to the underlying genetic defect. Salsalate is also cancelled-only in the US market, so there is no marketed product to build on.
 
 **To proceed, the following is needed:**
 - A targeted literature and trial search for each predicted indication, especially spondyloarthropathy, where NSAID-class evidence could support an upgrade to L4

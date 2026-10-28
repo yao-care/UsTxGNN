@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Nitrous Oxide
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 974
-evidence_level: L4
+evidence_level: L5
 indication_count: 1
 monitor_inn: "NITROUS OXIDE"
 predicted_indications: ["benign prostatic hyperplasia (disease)"]
@@ -14,7 +14,7 @@ description: "Nitrous Oxide: predicted new indication Benign prostatic hyperplas
 # Nitrous Oxide
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **1** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,9 +46,9 @@ Nitrous oxide is an inhaled gas widely used as an anesthetic and analgesic. The 
 |------|------|
 | Original Indication | Not specified in the US license records compiled for this report |
 | Predicted New Indication | Benign prostatic hyperplasia |
-| TxGNN Prediction Score | 99.52% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only |
+| TxGNN Prediction Score | 0.9952 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 3) |
 | Number of NDAs | 3 |
 | Recommended Decision | Hold |
 
@@ -56,7 +56,7 @@ Nitrous oxide is an inhaled gas widely used as an anesthetic and analgesic. The 
 
 Detailed mechanism of action data is not available for this drug in the data compiled for this report. Nitrous oxide is generally understood as an inhaled anesthetic and analgesic with NMDA receptor antagonism and anxiolytic effects.
 
-The review found no credible mechanistic link between nitrous oxide and BPH. It has no known action on prostate growth, androgen signaling, or prostate smooth muscle tone. The very high TxGNN score (0.995) is a model output and is not backed by pharmacological rationale or clinical data showing disease modification.
+The review found no credible mechanistic link between nitrous oxide and BPH. It has no known action on prostate growth, androgen signaling, or prostate smooth muscle tone. The very high TxGNN score (0.9952) is a model output and is not backed by pharmacological rationale or clinical data showing disease modification.
 
 The only clinical connection is procedural. Nitrous oxide has been used to reduce anxiety and pain during prostate-related procedures, which is not treatment of BPH itself. The prediction should be treated with caution.
 
@@ -74,7 +74,7 @@ The only clinical connection is procedural. Nitrous oxide has been used to reduc
 
 ## US Market Information
 
-All three listed authorizations are cancelled, and no approved indication text is recorded for them.
+All three listed authorizations are valid, and no approved indication text is recorded for them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -95,7 +95,7 @@ Please refer to the package insert for other safety information, including warni
 **Decision: Hold**
 
 **Rationale:**
-The high TxGNN score is not supported by a plausible mechanism or by any study of BPH treatment. The one trial and one publication relate only to procedural anesthesia and anxiety. All US licenses are cancelled, and the key safety labeling information could not be obtained.
+The high TxGNN score is not supported by a plausible mechanism or by any study of BPH treatment. The one trial and one publication relate only to procedural anesthesia and anxiety. The drug is marketed in the US with three valid licenses, and the key safety labeling information could not be obtained.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and a plausible pharmacological rationale for an effect on BPH

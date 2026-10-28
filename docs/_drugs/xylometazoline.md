@@ -4,17 +4,17 @@ title: Xylometazoline
 parent: Moderate Evidence (L3-L4)
 nav_order: 1299
 evidence_level: L3
-indication_count: 2
+indication_count: 1
 last_modified_at: 2026-10-14
 description: "Xylometazoline: predicted new indication Nasal cavity disease (evidence level L3). Approved use: Pharyngitis, common cold"
 monitor_inn: "XYLOMETAZOLINE"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis"]
+predicted_indications: ["nasal cavity disease"]
 ---
 
 # Xylometazoline
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **2** 
+Evidence Level: **L3** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ with **0 registered clinical trials** and **6 publications** currently supportin
 |------|------|
 | Original Indication | Pharyngitis, common cold |
 | Predicted New Indication | Nasal cavity disease |
-| TxGNN Prediction Score | 99.91% |
+| TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L3 |
-| US Market Status | Cancelled only (no currently valid licence) |
-| Number of NDAs | 1 (cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,6 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 The original indications, the common cold and pharyngitis, involve upper airway congestion. Nasal cavity disease with obstruction and mucosal swelling shares the same underlying problem, so a vasoconstrictor is mechanistically plausible. The high TxGNN score is a model prediction and does not by itself count as clinical evidence.
 
-A second prediction, acute laryngopharyngitis (score 99.89%), has no supporting trials or literature. Xylometazoline has no demonstrated direct effect on laryngeal or pharyngeal inflammation or infection, so any benefit would be indirect (relief of congestion and postnasal symptoms). This prediction is rated L5 (model prediction only) and Hold.
 
 ## Clinical Trial Evidence
 

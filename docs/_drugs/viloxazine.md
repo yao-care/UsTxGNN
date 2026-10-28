@@ -4,17 +4,17 @@ title: Viloxazine
 parent: High Evidence (L1-L2)
 nav_order: 1291
 evidence_level: L1
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Viloxazine: predicted new indication Attention deficit-hyperactivity disorder (evidence level L1). Approved use: Narcolepsy, narcolepsy-cataplexy syndrome…"
 monitor_inn: "VILOXAZINE"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "insomnia (disease)", "Creutzfeldt-Jakob disease", "hypersomnia (disease)", "circadian rhythm sleep disorder", "chondromyxoid fibroma", "X-linked adrenoleukodystrophy", "attention deficit hyperactivity disorder, inattentive type"]
+description: "Viloxazine: predicted new indication Attention deficit-hyperactivity disorder (evidence level L1). Approved use: Not recorded in the local data"
 ---
 
 # Viloxazine
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L1** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-## Viloxazine: From Narcolepsy to Attention Deficit Hyperactivity Disorder
+## Viloxazine: Attention deficit-hyperactivity disorder
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Viloxazine is listed in the knowledge graph as originally associated with narcolepsy-related indications, although in the US it is marketed as an extended-release product (Qelbree) for ADHD.
+Viloxazine was originally associated with narcolepsy-related indications, although in the US it is marketed as an extended-release product (Qelbree) for ADHD.
 The TxGNN model predicts it may be effective for **attention deficit-hyperactivity disorder**, with **5 clinical trials** and **19 publications** currently supporting this direction.
 Note that ADHD is already an FDA-approved use of extended-release viloxazine, so this is not a repurposing candidate in the strict sense.
 
@@ -48,12 +48,12 @@ Note that ADHD is already an FDA-approved use of extended-release viloxazine, so
 
 | Item | Content |
 |------|------|
-| Original Indication | Narcolepsy, narcolepsy-cataplexy syndrome, narcolepsy without cataplexy (from the knowledge graph; no approved indication text in the US licence record) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Attention deficit-hyperactivity disorder |
-| TxGNN Prediction Score | 99.95% |
+| TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L1 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---

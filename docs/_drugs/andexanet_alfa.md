@@ -38,7 +38,7 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 ## One-Sentence Summary
 
-Andexanet alfa is a recombinant factor Xa decoy protein used to reverse the effect of factor Xa inhibitor anticoagulants during life-threatening bleeding. The TxGNN model predicts it may be effective for **Glanzmann thrombasthenia**, but **no clinical trials and no supporting publications** exist for this prediction. The high score appears to be a knowledge-graph artifact rather than a biological signal.
+Andexanet alfa is a recombinant factor Xa decoy protein used to reverse the effect of factor Xa inhibitor anticoagulants during life-threatening bleeding. The TxGNN model predicts it may be effective for **Glanzmann thrombasthenia**, but **no clinical trials and no supporting publications** exist for this prediction. The high score appears to be a TxGNN model (deep learning) artifact rather than a biological signal.
 
 ## Quick Overview
 
@@ -46,26 +46,26 @@ Andexanet alfa is a recombinant factor Xa decoy protein used to reverse the effe
 |------|------|
 | Original Indication | Not available in the data compiled for this report (the US license record has no indication text) |
 | Predicted New Indication | Glanzmann thrombasthenia |
-| TxGNN Prediction Score | 99.77% |
+| TxGNN Prediction Score | 0.9977 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (the single license, BLA125586, is cancelled) |
-| Number of NDAs | 1 (a BLA, cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, formal mechanism of action data is not available in the compiled record. From the product's known profile, andexanet alfa is a catalytically inactive factor Xa decoy that binds and sequesters factor Xa inhibitors. It also binds TFPI and antithrombin-heparin complexes. Its role is to reverse anticoagulation, not to correct an intrinsic bleeding disorder.
 
-Glanzmann thrombasthenia is an inherited platelet disorder caused by a defect in integrin αIIbβ3 (GPIIb/IIIa), which impairs platelet aggregation. A factor Xa-inhibitor reversal agent does not act on this defect, so **no plausible mechanistic link** is apparent. The very high TxGNN score (0.998) most likely reflects the drug's proximity to other "bleeding/coagulation disorder" nodes in the knowledge graph rather than a true biological relationship.
+Glanzmann thrombasthenia is an inherited platelet disorder caused by a defect in integrin αIIbβ3 (GPIIb/IIIa), which impairs platelet aggregation. A factor Xa-inhibitor reversal agent does not act on this defect, so **no plausible mechanistic link** is apparent. The very high score (0.9977) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 The other top predictions show the same pattern:
 
 | Rank | Predicted Indication | TxGNN Score | Assessment |
 |------|------|------|------|
-| 1 | Glanzmann thrombasthenia | 99.77% | No mechanistic link; platelet aggregation defect |
-| 2 | Primary release disorder of platelets | 99.76% | No effect on platelet granule secretion; added thrombotic risk |
-| 3 | Pseudo-von Willebrand disease | 99.65% | Does not act on the GPIbα-VWF axis |
-| 4 | Hemophilia | 99.10% | FVIII/FIX deficiency is not an FXa-inhibitor effect |
+| 1 | Glanzmann thrombasthenia | 0.9977 | No mechanistic link; platelet aggregation defect |
+| 2 | Primary release disorder of platelets | 0.9976 | No effect on platelet granule secretion; added thrombotic risk |
+| 3 | Pseudo-von Willebrand disease | 0.9965 | Does not act on the GPIbα-VWF axis |
+| 4 | Hemophilia | 0.9910 | FVIII/FIX deficiency is not an FXa-inhibitor effect |
 
 ## Clinical Trial Evidence
 

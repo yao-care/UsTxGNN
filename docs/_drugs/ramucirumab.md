@@ -48,10 +48,10 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Non-small cell lung carcinoma, gastric adenocarcinoma, hepatocellular carcinoma (the data compiled for this report contains no approved-indication text from the license record) |
 | Predicted New Indication | Uterine ligament adenocarcinoma |
-| TxGNN Prediction Score | 99.95% |
+| TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 (BLA125477) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 Uterine ligament adenocarcinoma is a gynaecological adenocarcinoma, so an anti-angiogenic rationale is plausible. However, no direct data were available for this entity, and the link between the original and new indications remains theoretical.
 
-Nine other gynaecological adenocarcinoma predictions (such as endocervical carcinoma and several rare cervical and uterine ligament subtypes) received similarly high scores (99.93%–99.95%). Some of these, such as the signet ring cell and intestinal variants, share histology with gastrointestinal adenocarcinoma, which may partly explain the high scores. Histologic overlap is not evidence of efficacy.
+Nine other gynecological adenocarcinoma predictions (such as endocervical carcinoma and several rare cervical and uterine ligament subtypes) received similarly high scores (0.9994–0.9995). Some of these, such as the signet ring cell and intestinal variants, share histology with gastrointestinal adenocarcinoma, which may partly explain the high scores. Histologic overlap is not evidence of efficacy.
 
 ## Clinical Trial Evidence
 
@@ -74,7 +74,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA125477 | CYRAMZA (Eli Lilly and Company) | Solution | Not available; status: cancelled |
+| BLA125477 | CYRAMZA (Eli Lilly and Company) | Solution | Not available; status: valid |
 
 ## Cytotoxicity
 

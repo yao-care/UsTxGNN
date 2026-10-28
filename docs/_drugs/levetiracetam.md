@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Levetiracetam
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 850
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-14
-description: "Levetiracetam: predicted new indication Visual epilepsy (evidence level L4). Approved use: Partial epilepsy"
 monitor_inn: "LEVETIRACETAM"
 predicted_indications: ["beta-ketothiolase deficiency"]
+description: "Levetiracetam: predicted new indication Beta-ketothiolase deficiency (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Levetiracetam
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,13 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Levetiracetam: From Partial Epilepsy to Visual Epilepsy
+## Levetiracetam: Beta-ketothiolase deficiency
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Levetiracetam is an antiseizure medication originally used to treat **partial epilepsy**.
-The TxGNN model predicts it may be effective for **visual epilepsy** (seizures triggered by visual stimuli) with a very high score. However, **no clinical trials** are registered for this indication, and none of the **20 publications** retrieved addresses it specifically. The prediction therefore rests mainly on the drug's general antiseizure activity.
+However, **no clinical trials** are registered for this indication, and none of the **20 publications** retrieved addresses it specifically. The prediction therefore rests mainly on the drug's general antiseizure activity.
 
 ---
 
@@ -47,11 +47,11 @@ The TxGNN model predicts it may be effective for **visual epilepsy** (seizures t
 
 | Item | Content |
 |------|------|
-| Original Indication | Partial epilepsy |
-| Predicted New Indication | Visual epilepsy |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (0 active licenses, 12 cancelled) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Beta-ketothiolase deficiency |
+| TxGNN Prediction Score | 0.9990 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 12) |
 | Number of NDAs | 12 (all generic ANDAs) |
 | Recommended Decision | Hold |
 
@@ -92,7 +92,7 @@ The papers below are the most relevant of the 20 retrieved. They concern general
 
 ## US Market Information
 
-All 12 US licenses are cancelled and none is currently active. The five below are listed as examples. The source record does not give approved-indication text for any of them.
+The five below are listed as examples. The source record does not give approved-indication text for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -119,9 +119,9 @@ Please refer to the package insert for authoritative warnings and contraindicati
 **Decision: Hold**
 
 **Rationale:**
-The very high TxGNN score is not backed by any trial or specific publication for visual epilepsy. The evidence is L4, and the retrieved literature concerns other seizure settings. The US licenses are all cancelled, and the package insert safety data are missing.
+The evidence is L4, and the retrieved literature concerns other seizure settings. The US licenses are all cancelled, and the package insert safety data are missing.
 
-Among the other model predictions, **status epilepticus** has far stronger support. It has Phase 3 RCT evidence, including ESETT (NCT01960075, n=478, PMID 31774955) and an IV levetiracetam plus clonazepam trial (NCT01150331, n=203). **Startle epilepsy** has small open-label and case-report evidence. These are better candidates for further evaluation than visual epilepsy.
+It has Phase 3 RCT evidence, including ESETT (NCT01960075, n=478, PMID 31774955) and an IV levetiracetam plus clonazepam trial (NCT01150331, n=203). **Startle epilepsy** has small open-label and case-report evidence.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (currently a blocking data gap)

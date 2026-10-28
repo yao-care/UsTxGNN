@@ -4,7 +4,7 @@ title: Carbamazepine
 parent: Model Prediction Only (L5)
 nav_order: 495
 evidence_level: L5
-indication_count: 10
+indication_count: 3
 last_modified_at: 2026-10-14
 description: "Carbamazepine: predicted new indication Trigeminal nerve neoplasm (evidence level L5). Approved use: Epilepsy"
 monitor_inn: "CARBAMAZEPINE"
@@ -14,7 +14,7 @@ predicted_indications: ["trigeminal nerve neoplasm", "beta-ketothiolase deficien
 # Carbamazepine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,9 +49,9 @@ The TxGNN model predicts it may be effective for **trigeminal nerve neoplasm**, 
 |------|------|
 | Original Indication | Epilepsy (also bipolar disorder, trigeminal neuralgia; indication text is not listed in the US license records) |
 | Predicted New Indication | Trigeminal nerve neoplasm |
-| TxGNN Prediction Score | 99.998% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all licenses recorded as cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 16) |
 | Number of NDAs | 16 (2 NDAs and 14 ANDAs) |
 | Recommended Decision | Hold |
 
@@ -92,7 +92,7 @@ The 20 retrieved publications consist of reviews, case reports and one animal st
 
 ## US Market Information
 
-All 16 US licenses are recorded as cancelled, and the records contain no approved indication text. The five main authorizations are listed below.
+All 16 US licenses are recorded as valid, and the records contain no approved indication text. The five main authorizations are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

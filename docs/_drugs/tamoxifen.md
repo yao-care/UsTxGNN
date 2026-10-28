@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Tamoxifen
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 1198
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 3
 last_modified_at: 2026-10-14
-description: "Tamoxifen: predicted new indication Breast carcinoma in situ (evidence level L1). Approved use: Female breast carcinoma"
 monitor_inn: "TAMOXIFEN"
 predicted_indications: ["mammary Paget disease", "Ehrlich tumor carcinoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
+description: "Tamoxifen: predicted new indication Mammary Paget disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Tamoxifen
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,27 +33,27 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-## Tamoxifen: From Female Breast Carcinoma to Breast Carcinoma In Situ
+## Tamoxifen: Mammary Paget disease
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Tamoxifen was originally used to treat breast carcinoma, including invasive ductal and ductal adenocarcinoma types.
-The TxGNN model predicts it may be effective for **breast carcinoma in situ** (including DCIS), with **35 registered clinical trials** and **19 publications** currently supporting this direction, including several randomized controlled trials.
+The TxGNN model predicts it may be effective for **mammary Paget disease**, with **35 registered clinical trials** and **19 publications** currently supporting this direction, including several randomized controlled trials.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Female breast carcinoma; invasive ductal breast carcinoma; breast ductal adenocarcinoma (no approved indication text is available in the US license records) |
-| Predicted New Indication | Breast carcinoma in situ (top-ranked prediction by TxGNN score: mammary Paget disease; the best-supported prediction is breast carcinoma in situ) |
-| TxGNN Prediction Score | 99.67% (breast carcinoma in situ) |
-| Evidence Level | L1 |
-| US Market Status | Cancelled only (all licenses in the dataset are cancelled) |
-| Number of NDAs | 5 licenses (4 ANDAs and 1 NDA) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Mammary Paget disease |
+| TxGNN Prediction Score | 0.9969 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 5 of 5) |
+| Number of NDAs | 5 (valid: 5) |
 | Recommended Decision | Proceed with Guardrails |
 
-Note: The highest TxGNN score belongs to mammary Paget disease (99.69%), but its evidence is indirect (L4, Hold). Breast carcinoma in situ is the best-supported prediction in the data compiled for this report, so this report focuses on it.
+Note: The highest TxGNN score belongs to mammary Paget disease (0.9969), but its evidence is indirect (L4, Hold). Breast carcinoma in situ is the best-supported prediction in the data compiled for this report, so this report focuses on it.
 
 ## Why is This Prediction Reasonable?
 
@@ -99,13 +99,13 @@ The table lists the most relevant of the 35 registered trials, prioritizing thos
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA070929 | Tamoxifen Citrate (Bryant Ranch Prepack) | Tablet | Not listed (cancelled) |
-| ANDA074732 | Tamoxifen Citrate (Mylan) | Tablet | Not listed (cancelled) |
-| ANDA213358 | Tamoxifen Citrate (Aurobindo) | Film-coated tablet | Not listed (cancelled) |
-| NDA021807 | SOLTAMOX (Mayne Pharma) | Liquid | Not listed (cancelled) |
-| ANDA075797 | Tamoxifen Citrate (Dr. Reddy's) | Film-coated tablet | Not listed (cancelled) |
+| ANDA070929 | Tamoxifen Citrate (Bryant Ranch Prepack) | Tablet | Not listed (valid) |
+| ANDA074732 | Tamoxifen Citrate (Mylan) | Tablet | Not listed (valid) |
+| ANDA213358 | Tamoxifen Citrate (Aurobindo) | Film-coated tablet | Not listed (valid) |
+| NDA021807 | SOLTAMOX (Mayne Pharma) | Liquid | Not listed (valid) |
+| ANDA075797 | Tamoxifen Citrate (Dr. Reddy's) | Film-coated tablet | Not listed (valid) |
 
-All five licenses in the dataset are cancelled. The label may differ by region or in other sources.
+All five licenses in the dataset are valid. The label may differ by region or in other sources.
 
 ## Cytotoxicity
 
@@ -119,7 +119,7 @@ All five licenses in the dataset are cancelled. The label may differ by region o
 
 ## Safety Considerations
 
-**Contraindication signals (knowledge-graph associations, not label text):** thrombocytopenia, leukopenia, hypercalcemia, nephrocalcinosis, phosphorus metabolism disease, stroke and cerebrovascular disorders, cerebral infarction, pulmonary embolism, vision disorder, and blindness.
+**Contraindication signals (from the TxGNN model (deep learning), not label text; they may reflect similarities the model learned between related diseases, not biological evidence):** thrombocytopenia, leukopenia, hypercalcemia, nephrocalcinosis, phosphorus metabolism disease, stroke and cerebrovascular disorders, cerebral infarction, pulmonary embolism, vision disorder, and blindness.
 
 **Drug Interactions:** 100 interactions were found in the data compiled for this report. Examples of major-level interactions include:
 - Bupropion
@@ -147,7 +147,7 @@ Randomized Phase 3 evidence, including NSABP B-24, the placebo-controlled TAM-01
 - Obtain the FDA package insert warnings and contraindications (a blocking data gap).
 - Obtain detailed mechanism-of-action data from DrugBank.
 - Set up monitoring for endometrial and thromboembolic risk, and review CYP2D6 status and the drug interaction burden.
-- Clarify the regulatory status, since all US licenses in the dataset are cancelled.
+- Confirm the regulatory status; all five US licenses in the dataset are valid.
 
 **Other predictions (all Hold, except where noted):**
 - **Mammary Paget disease** (L4): evidence is indirect, from case reports and surgical series.

@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Acetaldehyde Adenosine Triphosphate Disodium Allox
@@ -51,7 +52,7 @@ With **0 clinical trials** and **0 publications** linked through the evidence pi
 | Predicted New Indication | None — TxGNN returned no predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (model prediction only — no actual predictions generated) |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 8) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

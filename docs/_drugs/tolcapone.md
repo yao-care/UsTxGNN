@@ -6,9 +6,9 @@ nav_order: 1239
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Tolcapone: predicted new indication Rasmussen subacute encephalitis (evidence level L5). Approved use: Parkinson disease (and related parkinsonian syndromes)"
 monitor_inn: "TOLCAPONE"
 predicted_indications: ["Rasmussen subacute encephalitis", "myelitis", "PLA2G6-associated neurodegeneration", "transaldolase deficiency", "fructose-1,6-bisphosphatase deficiency", "Lewy body dementia", "X-linked intellectual disability-ataxia-apraxia syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "X-linked intellectual disability-cerebellar hypoplasia syndrome", "paralysis agitans, juvenile, of Hunt"]
+description: "Tolcapone: predicted new indication Rasmussen subacute encephalitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Tolcapone
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Tolcapone: From Parkinson Disease to Rasmussen Subacute Encephalitis
+## Tolcapone: Rasmussen subacute encephalitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,23 +46,23 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 | Item | Content |
 |------|------|
-| Original Indication | Parkinson disease (and related parkinsonian syndromes) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Rasmussen subacute encephalitis |
-| TxGNN Prediction Score | 99.93% |
+| TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 2 (both cancelled) |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Tolcapone is known as a catechol-O-methyltransferase (COMT) inhibitor. It is used as an add-on to levodopa in Parkinson disease, where it prolongs the action of dopamine-related therapy. Detailed mechanism of action data is not available in the data compiled for this report, so this description relies on general knowledge of the drug class.
 
-Rasmussen encephalitis is a chronic, inflammatory and probably autoimmune brain disease. Based on the data compiled, no plausible link between COMT inhibition and this pathology can be established. The high TxGNN score (99.93%) reflects a pattern found by the model in its knowledge graph, not biological or clinical validation. The prediction should be regarded as a hypothesis only.
+Rasmussen encephalitis is a chronic, inflammatory and probably autoimmune brain disease. Based on the data compiled, no plausible link between COMT inhibition and this pathology can be established. The high TxGNN score (0.9993) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence or clinical validation. The prediction should be regarded as a hypothesis only.
 
 For context, the other top predictions also lack trial or literature support. Two are worth noting:
-- **Lewy body dementia** (score 99.64%): shares dopaminergic and alpha-synuclein pathology with Parkinson disease, so there is a plausible indirect rationale. The only publication is a preclinical organoid study, which did not test tolcapone.
-- **Paralysis agitans, juvenile, of Hunt** (score 99.52%): a juvenile parkinsonian syndrome that may largely overlap with existing labeled indications rather than representing true repurposing.
+- **Lewy body dementia** (score 0.9964): shares dopaminergic and alpha-synuclein pathology with Parkinson disease, so there is a plausible indirect rationale. The only publication is a preclinical organoid study, which did not test tolcapone.
+- **Paralysis agitans, juvenile, of Hunt** (score 0.9952): a juvenile parkinsonian syndrome that may largely overlap with existing labeled indications rather than representing true repurposing.
 
 ## Clinical Trial Evidence
 
@@ -76,8 +76,8 @@ Currently no related literature available for Rasmussen subacute encephalitis.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| NDA020697 | Tolcapone (Oceanside Pharmaceuticals) | Tablet, film coated | Cancelled |
-| ANDA208937 | Tolcapone (Ingenus Pharmaceuticals, LLC) | Tablet | Cancelled |
+| NDA020697 | Tolcapone (Oceanside Pharmaceuticals) | Tablet, film coated | Valid |
+| ANDA208937 | Tolcapone (Ingenus Pharmaceuticals, LLC) | Tablet | Valid |
 
 Approved indication text was not available for either authorization. Neither is currently valid.
 
@@ -97,7 +97,7 @@ Please refer to the package insert for official warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on model output alone (evidence level L5), with no trials or publications, no established mechanistic link to Rasmussen encephalitis, and no currently valid US marketing authorization. Safety signals (liver disease, among others) further argue against advancing without supporting data.
+Safety signals (liver disease, among others) further argue against advancing without supporting data.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

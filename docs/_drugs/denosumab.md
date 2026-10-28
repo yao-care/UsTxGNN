@@ -48,13 +48,13 @@ but currently there are **0 clinical trials** and **0 directly relevant publicat
 |------|------|
 | Original Indication | Osteoporosis (postmenopausal osteoporosis, drug-induced osteoporosis) |
 | Predicted New Indication | Severe nonproliferative diabetic retinopathy |
-| TxGNN Prediction Score | 99.63% |
+| TxGNN Prediction Score | 0.9963 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all 10 listed authorizations are cancelled) |
-| Number of NDAs | 10 (all BLAs) |
+| US Market Status | Marketed (valid licenses: 10 of 10) |
+| Number of NDAs | 10 (valid: 10) |
 | Recommended Decision | Hold |
 
-A second, related prediction, **diabetic retinopathy** (score 99.23%, Evidence Level L4, Hold), is discussed in the evidence sections below because it is the only prediction with any supporting literature.
+A second, related prediction, **diabetic retinopathy** (score 0.9923, Evidence Level L4, Hold), is discussed in the evidence sections below because it is the only prediction with any supporting literature.
 
 ## Why is This Prediction Reasonable?
 
@@ -79,7 +79,7 @@ No literature was found for severe nonproliferative diabetic retinopathy. For th
 
 ## US Market Information
 
-All 10 authorizations are listed as cancelled; none are currently valid. Approved indication text was not available.
+The drug is marketed in the US, and all 10 of 10 authorizations are valid. Approved indication text was not available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -106,13 +106,13 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-Both predictions have high TxGNN scores (99.63% and 99.23%) but no clinical trials and no literature that directly shows a benefit on retinopathy. The mechanistic link is speculative, and the drug's US authorizations are all cancelled. Evidence is insufficient to advance.
+Both predictions have high TxGNN scores (0.9963 and 0.9923) but no clinical trials and no literature that directly shows a benefit on retinopathy. The mechanistic link is speculative, and the drug's US authorizations are all cancelled. Evidence is insufficient to advance.
 
 **To proceed, the following is needed:**
 - Mechanism of action data, and preclinical evidence on whether RANKL/RANK signaling affects retinal microvasculature
 - Targeted literature review for denosumab and diabetic retinopathy, including whether the 2024 cohort study reports retinopathy outcomes separately
 - FDA package insert warnings and contraindications (currently blocking for safety screening)
-- Clarification of the current US regulatory status, since all listed authorizations are marked cancelled
+- Clarification of the current US regulatory status, given that the drug is marketed and all 10 of 10 listed authorizations are valid
 - Assessment of route compatibility (denosumab is injectable; any ocular indication would need route and dosing evaluation)
 ## Disclaimer
 

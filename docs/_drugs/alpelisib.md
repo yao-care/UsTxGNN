@@ -46,10 +46,10 @@ Alpelisib is a PI3K-alpha inhibitor marketed in the US as PIQRAY and VIJOICE. Th
 |------|------|
 | Original Indication | Not listed in the data compiled for this report (the product names PIQRAY and VIJOICE are associated with breast cancer and PIK3CA-related overgrowth disorders, respectively) |
 | Predicted New Indication | Pulmonary hypertension |
-| TxGNN Prediction Score | 99.03% |
+| TxGNN Prediction Score | 0.9903 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all 3 NDAs are cancelled) |
-| Number of NDAs | 3 |
+| US Market Status | Marketed (valid licenses: 3 of 3) |
+| Number of NDAs | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -58,7 +58,7 @@ Detailed mechanism-of-action data is not available in the data compiled for this
 
 However, this link is not supported by any evidence in the data compiled. The only publication retrieved (PMID 35730191) is a case report of alpelisib-induced interstitial lung disease in a patient with advanced breast cancer. It describes a pulmonary adverse effect rather than a therapeutic benefit, and it concerns interstitial lung disease rather than pulmonary hypertension. If anything, it is a lung safety signal.
 
-The TxGNN score is very high (0.990), but it is a model-based prediction only, and the relationship between the original indications and pulmonary hypertension has not been established.
+The TxGNN score is very high (0.9903), but it is a model-based prediction only, and the relationship between the original indications and pulmonary hypertension has not been established.
 
 ## Clinical Trial Evidence
 
@@ -74,9 +74,9 @@ Currently no related clinical trials registered.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA212526 | PIQRAY (Novartis) | Tablet | Not listed (status: cancelled) |
-| NDA218466 | VIJOICE (Novartis) | Granule | Not listed (status: cancelled) |
-| NDA215039 | VIJOICE (Novartis) | Tablet | Not listed (status: cancelled) |
+| NDA212526 | PIQRAY (Novartis) | Tablet | Not listed (status: valid) |
+| NDA218466 | VIJOICE (Novartis) | Granule | Not listed (status: valid) |
+| NDA215039 | VIJOICE (Novartis) | Tablet | Not listed (status: valid) |
 
 ## Cytotoxicity
 
@@ -105,7 +105,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the model score (L5). There are no clinical trials, and the sole publication is a case report of a lung adverse effect rather than a benefit. All three US NDAs are cancelled, and label-based safety data is missing.
+The prediction is supported only by the model score (L5). There are no clinical trials, and the sole publication is a case report of a lung adverse effect rather than a benefit. The drug is marketed, with all three US NDAs valid, and label-based safety data is missing.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications, which are needed before safety screening can proceed

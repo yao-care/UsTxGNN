@@ -4,7 +4,7 @@ title: Perphenazine
 parent: Model Prediction Only (L5)
 nav_order: 1033
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
 description: "Perphenazine: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Schizophrenia"
 monitor_inn: "PERPHENAZINE"
@@ -14,7 +14,7 @@ predicted_indications: ["retinal dystrophy with or without extraocular anomalies
 # Perphenazine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Perphenazine: From Schizophrenia to Retinal Dystrophy (With or Without Extraocular Anomalies)
+## Perphenazine: From Schizophrenia to Retinal Dystrophy with or without Extraocular Anomalies
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -49,9 +49,9 @@ The TxGNN model predicts it may be effective for **retinal dystrophy with or wit
 |------|------|
 | Original Indication | Schizophrenia; mixed anxiety and depressive disorder |
 | Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
-| TxGNN Prediction Score | 99.96% |
+| TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 7) |
 | Number of NDAs | 7 (all ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
@@ -61,7 +61,7 @@ The TxGNN model predicts it may be effective for **retinal dystrophy with or wit
 
 Currently, detailed mechanism of action data is not available. Based on known pharmacology, perphenazine is a phenothiazine antipsychotic that mainly blocks dopamine D2 receptors, with additional serotonin 5-HT2A, adrenergic and histamine activity. Its efficacy in schizophrenia and in mixed anxiety and depression (in combination with amitriptyline) is established.
 
-For this prediction, however, **no plausible therapeutic link was found**. The only retrieved publication describes pigmentary retinopathy as an *adverse effect* of thioridazine, a different phenothiazine. Phenothiazines are known to be associated with retinal toxicity. The high TxGNN score therefore most likely reflects a graph-based association between this drug class and retinal pathology, not a therapeutic effect. Perphenazine is not expected to treat inherited retinal dystrophy, and the prediction should be read as a likely model artifact.
+For this prediction, however, **no plausible therapeutic link was found**. The only retrieved publication describes pigmentary retinopathy as an *adverse effect* of thioridazine, a different phenothiazine. Phenothiazines are known to be associated with retinal toxicity. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Perphenazine is not expected to treat inherited retinal dystrophy, and the prediction should be read as a likely model artifact.
 
 ---
 
@@ -81,7 +81,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All 7 US authorizations are generic (ANDA) tablet products and all are cancelled. No approved indication text was available for these licenses.
+All 7 US authorizations are generic (ANDA) tablet products and all are valid. No approved indication text was available for these licenses.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -108,14 +108,14 @@ Please refer to the package insert for full safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on model output alone (L5). No trials exist, and the single publication describes retinal harm from a related drug rather than benefit. No credible mechanism links perphenazine's receptor pharmacology to inherited retinal dystrophy. All US licenses are also cancelled. Among the other predicted indications in this analysis, only "anxiety disorder" has meaningful supporting literature (L3). That indication overlaps with perphenazine's existing use in mixed anxiety and depression, so it is not a true repurposing signal.
+The prediction rests on model output alone (L5). No trials exist, and the single publication describes retinal harm from a related drug rather than benefit. No credible mechanism links perphenazine's receptor pharmacology to inherited retinal dystrophy. The drug is marketed in the US, with 7 valid licenses.
 
 **To proceed, the following is needed:**
 - A plausible mechanistic rationale and preclinical data supporting benefit in retinal dystrophy
 - Evaluation of the retinal toxicity risk of phenothiazines, including perphenazine specifically
 - Detailed mechanism of action (MOA) data
 - Package insert warnings and contraindications for formal safety screening
-- Confirmation of current US marketing availability, since all licenses are cancelled
+- Confirmation of current US marketing availability
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

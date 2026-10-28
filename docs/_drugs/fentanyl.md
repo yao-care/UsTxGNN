@@ -48,13 +48,13 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Not specified in the available data |
 | Predicted New Indication | Nephrogenic syndrome of inappropriate antidiuresis |
-| TxGNN Prediction Score | 99.46% |
+| TxGNN Prediction Score | 0.9946 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no active authorizations) |
+| US Market Status | Marketed (valid licenses on record: at least 6) |
 | Number of NDAs | 6 (all cancelled; 1 NDA and 5 ANDAs) |
 | Recommended Decision | Hold |
 
-A second prediction, Tourette syndrome (score 99.05%), was also evaluated. It likewise has no supporting trials or literature, and its recommendation is also Hold (see the conclusion).
+A second prediction, Tourette syndrome (score 0.9905), was also evaluated. It likewise has no supporting trials or literature, and its recommendation is also Hold (see the conclusion).
 
 ## Why is This Prediction Reasonable?
 
@@ -62,7 +62,7 @@ Detailed mechanism of action data are not available in the data compiled for thi
 
 **The mechanistic link is weak.** Opioids can influence vasopressin (ADH) release and may cause antidiuresis through central mechanisms. NSIAD, however, is caused by gain-of-function variants in the vasopressin V2 receptor (AVPR2) or, in some cases, GNAS-related signaling. In this condition ADH is low or undetectable and the defect lies in the kidney. Modulating central ADH release with an opioid would not be expected to correct a constitutively active receptor. Opioid-induced antidiuresis would be an adverse effect, not a therapeutic benefit.
 
-The high TxGNN score (0.995) is a computational prediction only. No trial or publication in the data supports it.
+The high TxGNN score (0.9946) is a computational prediction only. No trial or publication in the data supports it.
 
 ## Clinical Trial Evidence
 
@@ -82,7 +82,7 @@ Currently no related literature available.
 | ANDA076258 (Mylan), cancelled | Fentanyl | Patch | Not listed |
 | ANDA077154 (SpecGx), cancelled | Fentanyl Transdermal | Extended-release patch | Not listed |
 
-One further authorization (ANDA212086, Fresenius Kabi, injection solution) is also cancelled. All six authorizations are cancelled.
+One further authorization (ANDA212086, Fresenius Kabi, injection solution) is also valid. All six authorizations are valid.
 
 ## Safety Considerations
 
@@ -104,7 +104,7 @@ Please refer to the package insert for formal warnings and contraindications. Th
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone (Evidence Level L5). No clinical trials or literature support it, and the proposed mechanism is not plausible. NSIAD is a receptor-level defect in the kidney, and opioid-related antidiuresis would be an adverse effect. Fentanyl also carries high risks of respiratory depression, dependence and abuse, and all six US authorizations are cancelled.
+The prediction rests on a model score alone (Evidence Level L5). No clinical trials or literature support it, and the proposed mechanism is not plausible. NSIAD is a receptor-level defect in the kidney, and opioid-related antidiuresis would be an adverse effect. Fentanyl also carries high risks of respiratory depression, dependence and abuse, and it is marketed in the US with six valid authorizations.
 
 The second prediction, Tourette syndrome, is also held. The link there is speculative. Small studies have explored opioid antagonists or partial agonists, not full mu agonists like fentanyl, and no supporting trials or literature were provided.
 

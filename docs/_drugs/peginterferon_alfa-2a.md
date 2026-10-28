@@ -4,17 +4,17 @@ title: Peginterferon Alfa-2A
 parent: High Evidence (L1-L2)
 nav_order: 1021
 evidence_level: L1
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Peginterferon Alfa-2A: predicted new indication Hepatitis B virus infection (evidence level L1). Approved use: Chronic hepatitis C virus infection"
 monitor_inn: "PEGINTERFERON ALFA-2A"
 predicted_indications: ["hepatitis E virus infection", "hepatitis A virus infection", "hepatitis, viral, animal", "Omsk hemorrhagic fever", "Kyasanur forest disease", "heart conduction disease", "heart neoplasm", "heart valve disease", "congenital anomaly of ventricular septum"]
+description: "Peginterferon Alfa-2A: predicted new indication Hepatitis E virus infection (evidence level L1). Approved use: Not recorded in the local data"
 ---
 
 # Peginterferon Alfa-2A
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L1** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,25 +33,24 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-## Peginterferon Alfa-2a: From Chronic Hepatitis C and B to Hepatitis B Virus Infection
+## Peginterferon Alfa-2A: Hepatitis E virus infection
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Peginterferon alfa-2a was originally used to treat chronic hepatitis C and chronic hepatitis B virus infection.
-The TxGNN model predicts it may be effective for **hepatitis B virus infection**, which is in fact already one of its established uses, so this is an on-label use rather than true repurposing.
 Currently **19 clinical trials** and **20 publications** support this direction, including several randomized controlled trials and meta-analyses.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Chronic hepatitis C virus infection; chronic hepatitis B virus infection (US label indication text is not available) |
-| Predicted New Indication | Hepatitis B virus infection |
-| TxGNN Prediction Score | 99.94% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Hepatitis E virus infection |
+| TxGNN Prediction Score | 0.9983 |
 | Evidence Level | L1 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 1 (BLA103964, cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

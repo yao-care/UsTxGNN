@@ -48,9 +48,9 @@ but **no clinical trials** and **no publications** currently support this predic
 |------|------|
 | Original Indication | Idiopathic pulmonary fibrosis (also acute interstitial pneumonia and idiopathic interstitial pneumonia) |
 | Predicted New Indication | Extracutaneous mastocytoma |
-| TxGNN Prediction Score | 99.71% |
+| TxGNN Prediction Score | 0.9971 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all 11 licenses cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 11) |
 | Number of NDAs | 11 (1 NDA and 10 ANDAs) |
 | Recommended Decision | Hold |
 
@@ -58,21 +58,21 @@ but **no clinical trials** and **no publications** currently support this predic
 
 Detailed mechanism of action data is not available in the data compiled for this report. Pirfenidone is generally described as an anti-fibrotic and anti-inflammatory agent that modulates TGF-beta signaling. Its efficacy in idiopathic pulmonary fibrosis is established.
 
-For extracutaneous mastocytoma, however, no direct mechanistic link is supported. Mast cell neoplasms are typically driven by KIT mutations, and pirfenidone's anti-fibrotic activity does not target that pathway. The high TxGNN score is a graph-based prediction only and should be treated as a hypothesis, not as evidence of efficacy.
+For extracutaneous mastocytoma, however, no direct mechanistic link is supported. Mast cell neoplasms are typically driven by KIT mutations, and pirfenidone's anti-fibrotic activity does not target that pathway. The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It should be treated as a hypothesis, not as evidence of efficacy.
 
 **Other top-ranked predictions** (all L5 or L4, none supported by trials):
 
 | Rank | Predicted Indication | Score | Evidence Level | Comment |
 |------|------|------|------|------|
-| 2 | Dermatofibrosarcoma protuberans | 99.41% | L5 | Plausible but unvalidated link via PDGF/TGF-beta signaling in fibroblasts |
-| 3 | Aggressive systemic mastocytosis | 99.33% | L5 | KIT-driven; no supported mechanism |
-| 4 | Heart fibrosarcoma | 99.29% | L5 | Nominal fibroblast-lineage association only |
-| 5 | Conventional fibrosarcoma | 99.26% | L5 | Anti-fibrotic effect does not imply anti-tumor activity |
-| 6 | Autosomal recessive familial Mediterranean fever | 99.25% | L5 | Conceivable link via anti-inflammatory effects (TNF-alpha, IL-1beta) |
-| 7 | Kidney fibrosarcoma | 99.24% | L5 | Same rationale as other fibrosarcomas |
-| 8 | Hepatic infarction | 99.24% | L5 | Ischemic event; only preclinical liver fibrosis data |
-| 9 | Fibroblastic neoplasm | 99.23% | L4 | Only indirect in vitro evidence, plus safety signals |
-| 10 | Low grade fibromyxoid sarcoma | 99.19% | L5 | Nominal fibroblastic-lineage association only |
+| 2 | Dermatofibrosarcoma protuberans | 0.9941 | L5 | Plausible but unvalidated link via PDGF/TGF-beta signaling in fibroblasts |
+| 3 | Aggressive systemic mastocytosis | 0.9933 | L5 | KIT-driven; no supported mechanism |
+| 4 | Heart fibrosarcoma | 0.9929 | L5 | Nominal fibroblast-lineage association only |
+| 5 | Conventional fibrosarcoma | 0.9926 | L5 | Anti-fibrotic effect does not imply anti-tumor activity |
+| 6 | Autosomal recessive familial Mediterranean fever | 0.9925 | L5 | Conceivable link via anti-inflammatory effects (TNF-alpha, IL-1beta) |
+| 7 | Kidney fibrosarcoma | 0.9924 | L5 | Same rationale as other fibrosarcomas |
+| 8 | Hepatic infarction | 0.9924 | L5 | Ischemic event; only preclinical liver fibrosis data |
+| 9 | Fibroblastic neoplasm | 0.9923 | L5 | Only indirect in vitro evidence, plus safety signals |
+| 10 | Low grade fibromyxoid sarcoma | 0.9919 | L5 | Nominal fibroblastic-lineage association only |
 
 ## Clinical Trial Evidence
 
@@ -95,7 +95,7 @@ For reference, the closest-ranked prediction with literature is *fibroblastic ne
 
 ## US Market Information
 
-All 11 US licenses are currently cancelled. Approved indication text is not available for these records.
+The drug is marketed in the US, with 11 valid licenses. Approved indication text is not available for these records.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
@@ -131,7 +131,7 @@ Label-based warnings and contraindications are not available in the data compile
 **Decision: Hold**
 
 **Rationale:**
-The prediction for extracutaneous mastocytoma is supported only by a graph-based model score (L5). There are no clinical trials or publications, and no plausible mechanistic link: mast cell neoplasms are typically KIT-driven, which pirfenidone does not target. All US licenses are also cancelled.
+The prediction for extracutaneous mastocytoma is supported only by a TxGNN model (deep learning) score (L5), which may reflect similarities the model learned between related diseases, not biological evidence. There are no clinical trials or publications, and no plausible mechanistic link: mast cell neoplasms are typically KIT-driven, which pirfenidone does not target. The drug is marketed in the US, with 11 valid licenses.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for pirfenidone, to allow a proper mechanistic-link analysis

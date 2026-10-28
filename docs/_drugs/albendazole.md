@@ -48,10 +48,10 @@ with **3 clinical trials** and **20 publications** currently supporting this dir
 |------|------|
 | Original Indication | Cystic echinococcosis, cysticercosis (the US license entries contain no indication text) |
 | Predicted New Indication | Alveolar echinococcosis |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L2 |
-| US Market Status | Cancelled only (all licenses cancelled) |
-| Number of NDAs | 7 (1 NDA and 6 ANDAs) |
+| US Market Status | Marketed (valid licenses: 7 of 7) |
+| Number of NDAs | 7 (valid: 7) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
@@ -87,7 +87,7 @@ An important caveat: several reviews note that albendazole is parasitostatic rat
 
 ## US Market Information
 
-All 7 US authorizations are cancelled, and none has approved indication text on record.
+All 7 US authorizations are valid and the drug is marketed, though none has approved indication text on record.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -117,13 +117,13 @@ A completed Phase 2 trial (n=194) tests albendazole directly in early alveolar e
 - Package insert warnings and contraindications (currently unavailable and a blocking gap for safety screening)
 - Detailed mechanism-of-action data from DrugBank
 - A safety monitoring plan for long-term use (liver function, blood counts)
-- Clarification of US regulatory status, since all licenses are cancelled and none records an indication
+- Clarification of US regulatory status, since all 7 licenses are valid and none records an indication
 
 ---
 
 **Other predicted indications (for reference)**
-- **Coenurosis** (score 99.83%): The Phase 3 trials found are all in neurocysticercosis, so evidence transfers by analogy only. Human coenurosis is rare. The pre-set level is L1, but this is overstated for coenurosis itself, so a more cautious reading is warranted.
-- **Cestode infectious disease** (score 99.74%): A broad category rather than a distinct clinical entity. It is better assessed through the specific diseases above and is best treated as a research question.
+- **Coenurosis** (score 0.9983): The Phase 3 trials found are all in neurocysticercosis, so evidence transfers by analogy only. Human coenurosis is rare. The pre-set level is L1, but this is overstated for coenurosis itself, so a more cautious reading is warranted.
+- **Cestode infectious disease** (score 0.9974): A broad category rather than a distinct clinical entity. It is better assessed through the specific diseases above and is best treated as a research question.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

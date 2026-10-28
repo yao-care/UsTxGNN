@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "DEFIBROTIDE"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "thrombotic thrombocytopenic purpura", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "congenital factor V deficiency", "fetal and neonatal alloimmune thrombocytopenia", "thrombocytopenic purpura"]
 last_modified_at: 2026-10-14
-description: "Defibrotide: predicted new indication Pseudo-von Willebrand disease (evidence level L5). Approved use: Hepatic veno-occlusive disease"
+description: "Defibrotide: predicted new indication Pseudo-von Willebrand disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Defibrotide
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Defibrotide: From Hepatic Veno-Occlusive Disease to Pseudo-von Willebrand Disease
+## Defibrotide: Pseudo-von Willebrand disease
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,23 +46,23 @@ The most evidence-supported related direction in the data compiled for this repo
 
 | Item | Content |
 |------|------|
-| Original Indication | Hepatic veno-occlusive disease; hepatic veno-occlusive disease-immunodeficiency syndrome (from the knowledge graph; the US license record has no indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Pseudo-von Willebrand disease |
-| TxGNN Prediction Score | 99.91% |
+| TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L5 (model prediction only) |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism-of-action data is not available in the data compiled for this report. Defibrotide is an oligonucleotide with endothelial-protective, profibrinolytic and antithrombotic activity. These properties explain its use in hepatic VOD, a disease of endothelial injury and microvascular thrombosis.
 
-For pseudo-von Willebrand disease, the rationale is weak. It is a platelet-type bleeding disorder caused by a gain-of-function defect in the platelet receptor GP1BA. No plausible mechanism is established by which defibrotide would correct this defect. Using an antithrombotic agent in a bleeding disorder also raises a safety concern. The high score (0.999) most likely reflects network proximity in the knowledge graph rather than a real therapeutic link.
+For pseudo-von Willebrand disease, the rationale is weak. It is a platelet-type bleeding disorder caused by a gain-of-function defect in the platelet receptor GP1BA. No plausible mechanism is established by which defibrotide would correct this defect. Using an antithrombotic agent in a bleeding disorder also raises a safety concern. The high score (0.9991) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 The same applies to the other top-ranked predictions: primary platelet release disorder, Glanzmann thrombasthenia, Scott syndrome, collagen receptor defect, constitutional thrombocytopenia, congenital factor V deficiency and fetal/neonatal alloimmune thrombocytopenia. All are prediction-only with no supporting studies, and several raise bleeding-risk concerns.
 
-The only predictions with a plausible biological link and some published evidence are **thrombotic thrombocytopenic purpura** (rank 4, score 99.71%) and the broader **thrombocytopenic purpura** category (rank 10, score 99.22%). Defibrotide's endothelial protection is plausible in microangiopathic disease, particularly TA-TMA, where endothelial injury plays a central role. Evidence is stronger for TA-TMA than for classical autoimmune TTP (ADAMTS13 deficiency), where plasma exchange, caplacizumab and rituximab are standard.
+The only predictions with a plausible biological link and some published evidence are **thrombotic thrombocytopenic purpura** (rank 4, score 0.9971) and the broader **thrombocytopenic purpura** category (rank 10, score 0.9922). Defibrotide's endothelial protection is plausible in microangiopathic disease, particularly TA-TMA, where endothelial injury plays a central role. Evidence is stronger for TA-TMA than for classical autoimmune TTP (ADAMTS13 deficiency), where plasma exchange, caplacizumab and rituximab are standard.
 
 ## Clinical Trial Evidence
 
@@ -87,7 +87,7 @@ No literature is available for pseudo-von Willebrand disease. The table below li
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA208114 | DEFITELIO (Jazz Pharmaceuticals, Inc.) | Injection, solution | Not listed in the data compiled for this report (status: cancelled) |
+| NDA208114 | DEFITELIO (Jazz Pharmaceuticals, Inc.) | Injection, solution | Not listed in the data compiled for this report (status: valid) |
 
 ## Safety Considerations
 

@@ -8,7 +8,7 @@ indication_count: 3
 monitor_inn: "LINACLOTIDE"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "insomnia (disease)"]
 last_modified_at: 2026-10-14
-description: "Linaclotide: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Irritable bowel syndrome"
+description: "Linaclotide: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Linaclotide
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-## Linaclotide: From Irritable Bowel Syndrome to Cauda Equina Syndrome
+## Linaclotide: Cauda equina syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 | Item | Content |
 |------|------|
-| Original Indication | Irritable bowel syndrome (other knowledge-graph indications: Clostridium difficile colitis, neurocirculatory asthenia) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Cauda equina syndrome |
-| TxGNN Prediction Score | 99.96% |
+| TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,11 +60,11 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 Cauda equina syndrome is a compressive neurological emergency, typically caused by disc herniation, and it requires surgical decompression. No direct mechanistic link to linaclotide has been established. The only plausible connection is indirect: symptomatic relief of neurogenic bowel dysfunction (constipation) that can accompany the condition. That would not treat the underlying disease.
 
-The very high TxGNN score (99.96%) is a graph-based computational prediction. With no supporting clinical or literature evidence, it should not be read as evidence of efficacy.
+The very high TxGNN score (0.9996) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. With no supporting clinical or literature evidence, it should not be read as evidence of efficacy.
 
 Two other predictions were also generated, both at evidence level L5 with a recommendation of Hold:
-- **Obsolete neurogenic bladder (score 99.89%)**: No direct mechanism is evident. Any link would be indirect, through co-existing neurogenic bowel dysfunction. The disease term is also flagged as obsolete in the ontology, which lowers the reliability of this prediction.
-- **Insomnia (score 99.51%)**: Linaclotide has negligible systemic exposure and no known action on sleep pathways. Any benefit would be a secondary effect of relieving abdominal symptoms.
+- **Obsolete neurogenic bladder (score 0.9989)**: No direct mechanism is evident. Any link would be indirect, through co-existing neurogenic bowel dysfunction. The disease term is also flagged as obsolete in the ontology, which lowers the reliability of this prediction.
+- **Insomnia (score 0.9951)**: Linaclotide has negligible systemic exposure and no known action on sleep pathways. Any benefit would be a secondary effect of relieving abdominal symptoms.
 
 ## Clinical Trial Evidence
 

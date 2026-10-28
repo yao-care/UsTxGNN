@@ -48,10 +48,10 @@ The prediction rests on a computational score alone.
 |------|------|
 | Original Indication | IgA nephropathy (reduction of proteinuria in adults with primary disease) |
 | Predicted New Indication | Amenorrhea |
-| TxGNN Prediction Score | 99.64% |
+| TxGNN Prediction Score | 0.9964 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 Note: the license record compiled for this report has no indication text. The original indication above comes from the drug's pharmacology and clinical-use information.
@@ -60,7 +60,7 @@ Note: the license record compiled for this report has no indication text. The or
 
 Detailed mechanism-of-action data is not available in the data compiled for this report. From general pharmacological knowledge, atrasentan is a selective ETA receptor antagonist. Binding studies indicate that its activity resides in one enantiomer, and it showed little non-specific antagonism across a panel of 29 receptor assays. Endothelin signaling affects vascular tone, and in the kidney it contributes to proteinuria, which explains the IgA nephropathy indication.
 
-Endothelin signaling is also involved in ovarian and uterine vascular tone, follicular function and endometrial physiology, so a link to menstrual function is biologically conceivable. However, the link is speculative. The only support is the TxGNN knowledge-graph score, which is a computational prediction and not clinical evidence.
+Endothelin signaling is also involved in ovarian and uterine vascular tone, follicular function and endometrial physiology, so a link to menstrual function is biologically conceivable. However, the link is speculative. The only support is the TxGNN TxGNN model (deep learning) score, which is a computational prediction and not clinical evidence.
 
 There are further reasons for caution:
 - Amenorrhea is a symptom of many different causes (hypothalamic, pituitary, ovarian, uterine or pregnancy-related), and no specific pathway connecting ETA antagonism to a treatable cause has been established.
@@ -79,7 +79,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA219208 | VANRAFIA (Novartis Pharmaceuticals Corporation) | Film-coated tablet | Not listed in the compiled record; status: cancelled |
+| NDA219208 | VANRAFIA (Novartis Pharmaceuticals Corporation) | Film-coated tablet | Not listed in the compiled record; status: valid |
 
 ## Safety Considerations
 

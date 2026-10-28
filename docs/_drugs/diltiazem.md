@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Diltiazem
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 609
-evidence_level: L5
-indication_count: 1
-monitor_inn: "DILTIAZEM"
-predicted_indications: ["obsolete susceptibility to ischemic stroke"]
-last_modified_at: 2026-10-14
-description: "Diltiazem: predicted new indication Obsolete susceptibility to ischemic stroke (evidence level L5). Approved use: Hypertension, atrial fibrillation, Prinzmetal angina…"
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Diltiazem: known uses and market status in the United States; currently no new candidate indication"
+predicted_indications: []
 ---
 
 # Diltiazem
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **1** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,54 +32,65 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-## Diltiazem: From Hypertension and Arrhythmia to Obsolete Susceptibility to Ischemic Stroke
+<!-- known-uses-page -->
+<!-- description: Diltiazem: known uses and market status in the United States; currently no new candidate indication -->
+## Diltiazem: Known uses and market status in the United States
 {: .text-alpha }
 
-## One-Sentence Summary
+## Summary
+The TxGNN model produced candidates for Diltiazem, but every candidate that can be traced to a source is already a known use. There is therefore currently no new predicted indication for this drug. The one known use among the candidates is Prinzmetal angina.
 
-Diltiazem is a calcium channel blocker originally used for hypertension, atrial fibrillation, Prinzmetal angina and ventricular tachycardia.
-The TxGNN model predicts it may be effective for **obsolete susceptibility to ischemic stroke**,
-but currently there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model score alone.
-
-## Quick Overview
-
+## Quick overview
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension, atrial fibrillation, Prinzmetal angina, ventricular tachycardia (from the knowledge graph; no approved-indication text is available) |
-| Predicted New Indication | Obsolete susceptibility to ischemic stroke |
-| TxGNN Prediction Score | 99.08% |
-| Evidence Level | L5 |
-| US Market Status | Cancelled only (all listed authorizations are cancelled) |
-| Number of NDAs | 19 authorizations in total (3 NDAs and 16 ANDAs by number prefix, none currently valid) |
-| Recommended Decision | Hold |
+| New predicted indications | None (all traceable model candidates are known uses) |
+| Known uses among model candidates | 1 |
+| Evidence level | Not applicable |
+| Market status in the United States | Marketed (valid licenses on record: at least 19) |
+| Number of NDAs | at least 19 |
 
-## Why is This Prediction Reasonable?
+## Known uses among the model's candidates
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, diltiazem is a non-dihydropyridine calcium channel blocker. It lowers blood pressure and reduces vascular smooth muscle tone, and it may also cause cerebral vasodilation. These effects could plausibly relate to stroke susceptibility, since hypertension is a major stroke risk factor. This reasoning was not verified against any study in the data provided.
+### Approved (supported by a licence or label)
+| Indication | Source |
+|------|------|
+| Prinzmetal angina | Licence in another country (approved indication: angina) |
 
-There is an important caveat: the predicted disease term is flagged as "obsolete" in the ontology. It may be a deprecated or merged concept and may not map cleanly onto a current clinical indication such as secondary stroke prevention or a defined ischemic stroke risk phenotype. The high score of 99.08% is a model output, not clinical evidence.
+### Related to an approved indication (same disease category)
+| Indication | Approved category |
+|------|------|
+| none | none |
 
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-## Literature Evidence
-
-Currently no related literature available.
+### Relations recorded in the knowledge graph (no approval found)
+| Indication |
+|------|
+| none |
 
 ## US Market Information
 
-All 19 authorizations are cancelled. The main ones are listed below (approved-indication text is not available in the data).
+| Licence | Product | Dosage form | Status |
+|------|------|------|------|
+| ANDA216968 | Diltiazem Hydrochloride | CAPSULE, EXTENDED RELEASE | Valid |
+| ANDA074617 | diltiazem hydrochloride | INJECTION, SOLUTION | Valid |
+| ANDA075116 | Diltiazem Hydrochloride | CAPSULE, EXTENDED RELEASE | Valid |
+| ANDA212317 | Diltiazem Hydrochloride | CAPSULE, EXTENDED RELEASE | Valid |
+| ANDA208783 | diltiazem hydrochloride | CAPSULE, EXTENDED RELEASE | Valid |
+| ANDA217633 | Diltiazem Hydrochloride | TABLET, FILM COATED | Valid |
+| ANDA077686 | Diltiazem Hydrochloride | TABLET, EXTENDED RELEASE | Valid |
+| ANDA074943 | DILTIAZEM HYDROCHLORIDE | CAPSULE, EXTENDED RELEASE | Valid |
+| NDA020401 | diltiazem hydrochloride | CAPSULE, EXTENDED RELEASE | Valid |
+| NDA020062 | diltiazem hydrochloride | CAPSULE, COATED, EXTENDED RELEASE | Valid |
+| ANDA216327 | diltiazem hydrochloride | TABLET, EXTENDED RELEASE | Valid |
+| NDA021392 | Diltiazem Hydrochloride Extended-Release Tablets | TABLET, EXTENDED RELEASE | Valid |
+| ANDA216521 | Diltiazem hydrochloride | TABLET | Valid |
+| ANDA205231 | Diltiazem hydrochloride | CAPSULE, EXTENDED RELEASE | Valid |
+| ANDA217377 | diltiazem hydrochloride | CAPSULE, EXTENDED RELEASE | Valid |
+| ANDA074752 | Diltiazem Hydrochloride | CAPSULE, EXTENDED RELEASE | Valid |
+| ANDA090421 | Diltiazem Hydrochloride | CAPSULE, EXTENDED RELEASE | Valid |
+| ANDA074185 | Diltiazem Hydrochloride | TABLET, FILM COATED | Valid |
+| ANDA075853 | DILTIAZEM HCI | INJECTION, POWDER, LYOPHILIZED, FOR SOLU | Valid |
 
-| Authorization Number | Product Name | Dosage Form | Status |
-|---------|------|------|-----------|
-| NDA020401 | TIAZAC | Capsule, extended release | Cancelled |
-| NDA020062 | Cardizem CD | Capsule, coated, extended release | Cancelled |
-| NDA021392 | Diltiazem Hydrochloride | Tablet, extended release | Cancelled |
-| ANDA077686 | Matzim LA | Tablet, extended release | Cancelled |
-| ANDA074752 | Cartia | Capsule, extended release | Cancelled |
-
-The other authorizations cover oral capsules and tablets, as well as injectable solution and lyophilized powder.
+Only part of the licence list is held in the data; the list may be incomplete.
 
 ## Safety Considerations
 
@@ -95,19 +105,6 @@ Package insert warnings and contraindications were not available in the data com
   - Other: gallbladder disease, connective tissue, bone and cartilage disease
 - **Drug Interactions**: 100 interactions were recorded, and 20 are shown in the data. One is rated **Major**: loperamide. The rest are rated Moderate, including corticosteroids (hydrocortisone, dexamethasone, betamethasone, budesonide, triamcinolone), pioglitazone, canagliflozin, bupropion, aprepitant, morphine, acetylsalicylic acid, and calcium salts (carbonate, chloride, citrate, acetate and others).
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The prediction is supported only by a model score, with no clinical trials or publications (evidence level L5). The predicted disease term is obsolete, and the US market status is "cancelled only". Package insert safety data and mechanism of action data are also missing.
-
-**To proceed, the following is needed:**
-- Clarify the current disease concept that replaces the obsolete term, such as secondary stroke prevention or a specific risk phenotype
-- A literature and trial search on diltiazem and ischemic stroke
-- Detailed mechanism of action data
-- Package insert warnings and contraindications, to complete the safety screening
-- Confirmation of whether any diltiazem product is currently marketed in the US, and review of the route and dosage form for the new indication
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

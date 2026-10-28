@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "ESTRADIOL CYPIONATE"
 predicted_indications: ["symptomatic form of fragile X syndrome in female carrier", "partial trisomy/tetrasomy of the short arm of chromosome 12", "partial trisomy/tetrasomy of the short arm of chromosome 5", "partial trisomy/tetrasomy of the short arm of chromosome 18", "ovarian remnant syndrome", "anovulation", "blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome", "blepharophimosis-epicanthus inversus-ptosis", "partial autosomal trisomy/tetrasomy", "luteoma of pregnancy"]
 last_modified_at: 2026-10-14
-description: "Estradiol Cypionate: predicted new indication Symptomatic form of fragile X syndrome in female carrier (evidence level L5). Approved use: Primary ovarian failure"
+description: "Estradiol Cypionate: predicted new indication Symptomatic form of fragile X syndrome in female carrier (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Estradiol Cypionate
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Estradiol Cypionate: From Primary Ovarian Failure to Symptomatic Fragile X Syndrome in Female Carriers
+## Estradiol Cypionate: Symptomatic form of fragile X syndrome in female carrier
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ but **no clinical trials and no publications** currently support this specific p
 
 | Item | Content |
 |------|------|
-| Original Indication | Primary ovarian failure (from the knowledge graph; the US license record has no indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Symptomatic form of fragile X syndrome in female carrier |
-| TxGNN Prediction Score | 99.69% |
+| TxGNN Prediction Score | 0.9969 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 1 (cancelled; the record is an ANDA) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Detailed mechanism of action data is not available for this drug. Based on known
 
 Female carriers of an FMR1 premutation can develop fragile X-associated primary ovarian insufficiency (FXPOI). This overlaps directly with the drug's original indication of primary ovarian failure. Estrogen replacement is therefore plausible for the hypoestrogenic manifestations of the condition.
 
-This link is an inference from the original indication and the high TxGNN score, not direct evidence. Estrogen would not be expected to treat other features of fragile X syndrome, such as cognitive or behavioural symptoms. The drug also has no currently valid US license.
+This link is an inference from the original indication and the high TxGNN score, not direct evidence. Estrogen would not be expected to treat other features of fragile X syndrome, such as cognitive or behavioural symptoms.
 
 ## Clinical Trial Evidence
 

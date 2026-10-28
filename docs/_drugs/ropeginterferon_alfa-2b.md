@@ -47,17 +47,17 @@ The TxGNN model predicts it may be effective for **Laubry-Pezzi syndrome** (vent
 |------|------|
 | Original Indication | Acquired polycythemia vera (also listed: plasmacytoma, polycythemia) |
 | Predicted New Indication | Laubry-Pezzi syndrome |
-| TxGNN Prediction Score | 99.93% |
+| TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (the single BLA is listed as cancelled) |
-| Number of NDAs | 1 (BLA) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, ropeginterferon alfa-2b is a long-acting interferon that modulates JAK2-mutant myeloproliferative clones, and its efficacy in polycythemia vera has been studied in randomized trials.
 
-However, no plausible mechanistic link to the predicted indication can be identified. Laubry-Pezzi syndrome is a structural cardiac anomaly, and interferon-based immunomodulation or antiproliferative activity has no known action on it. The high TxGNN score most likely reflects graph-neighborhood patterns rather than biology, so the prediction should be treated as a hypothesis with no biological support.
+However, no plausible mechanistic link to the predicted indication can be identified. Laubry-Pezzi syndrome is a structural cardiac anomaly, and interferon-based immunomodulation or antiproliferative activity has no known action on it. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, so the prediction should be treated as a hypothesis with no biological support.
 
 Nine other predicted indications were also reviewed, including interventricular septum aneurysm, Pierre Robin syndrome (two forms), chromosomal deletion syndromes, orofacial clefting syndrome, Jeune syndrome with situs inversus, pulmonary valve disease, and a fucoglycan synthesis disorder. None has a recognizable mechanistic link, and none has supporting clinical trials. The five publications retrieved under the fucoglycan synthesis disorder prediction all concern polycythemia vera, the original indication, and do not support any repurposing candidate.
 
@@ -73,7 +73,7 @@ Currently no related literature available for Laubry-Pezzi syndrome.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA761166 | BESREMi (PharmaEssentia USA) | Injection | Not listed in the data compiled for this report (status: cancelled) |
+| BLA761166 | BESREMi (PharmaEssentia USA) | Injection | Not listed in the data compiled for this report (status: valid) |
 
 ## Cytotoxicity
 

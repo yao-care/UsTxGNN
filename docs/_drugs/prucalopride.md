@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **Hypoalphalipoproteinemia** (l
 |------|------|
 | Original Indication | Constipation disorder |
 | Predicted New Indication | Hypoalphalipoproteinemia |
-| TxGNN Prediction Score | 99.82% |
+| TxGNN Prediction Score | 0.9982 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 13) |
 | Number of NDAs | 13 (1 NDA and 12 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
@@ -57,7 +57,7 @@ The TxGNN model predicts it may be effective for **Hypoalphalipoproteinemia** (l
 
 Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, prucalopride is a selective 5-HT4 receptor agonist that enhances gut motility, and its efficacy in constipation is established.
 
-For the top prediction, hypoalphalipoproteinemia, no mechanistic link can be identified. 5-HT4 agonism acts on gut motility and has no known role in HDL metabolism or ApoA-I regulation. The high TxGNN score looks like an artifact of the knowledge graph rather than a clinically grounded signal.
+For the top prediction, hypoalphalipoproteinemia, no mechanistic link can be identified. 5-HT4 agonism acts on gut motility and has no known role in HDL metabolism or ApoA-I regulation. The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 The other top-ranked predictions are similarly weak. Homozygous familial hypercholesterolemia, obsolete familial combined hyperlipidemia, oral candidiasis, strongyloidiasis, HIV infection and acquired amyloid peripheral neuropathy have no plausible mechanism and no supporting evidence. Duodenal ulcer is speculative, because prucalopride is neither acid-suppressive nor mucosal-protective.
 
@@ -80,7 +80,7 @@ For the amyloidosis-related predictions, the following papers were retrieved. Ne
 
 ## US Market Information
 
-All 13 licenses are currently cancelled. The data compiled for this report contain no approved indication text.
+The drug is marketed, with 13 valid licenses. The data compiled for this report contain no approved indication text.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -107,14 +107,14 @@ Package insert warnings and contraindications were not available, so please refe
 **Decision: Hold**
 
 **Rationale:**
-The top prediction, hypoalphalipoproteinemia, has no identifiable mechanistic link, no clinical trials and no literature (L5, model prediction only). All US licenses are currently cancelled. The amyloidosis-related predictions have only indirect, symptomatic rationale and could be treated as research questions rather than development candidates.
+The top prediction, hypoalphalipoproteinemia, has no identifiable mechanistic link, no clinical trials and no literature (L5, model prediction only). The drug is marketed, with 13 valid US licenses. The amyloidosis-related predictions have only indirect, symptomatic rationale and could be treated as research questions rather than development candidates.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (currently a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
 - Evidence of a biological link between 5-HT4 agonism and HDL metabolism, or a re-ranking toward more plausible indications
 - For the amyloidosis-related GI dysmotility, a focused literature search and a feasibility assessment of symptomatic prokinetic use
-- Clarification of the US market status, since all 13 licenses are shown as cancelled
+- Clarification of the US market status, since 13 licenses are shown as valid
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

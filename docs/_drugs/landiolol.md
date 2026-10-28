@@ -48,27 +48,27 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Supraventricular tachycardia (atrial fibrillation and atrial flutter), based on pharmacology data; the approved indication text is not listed in the US license record |
 | Predicted New Indication | Lingual-facial-buccal dyskinesia |
-| TxGNN Prediction Score | 99.11% |
+| TxGNN Prediction Score | 0.9911 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Landiolol selectively blocks the beta-1 adrenergic receptor (about 250-fold selectivity over beta-2) and has a very short half-life. Currently, detailed mechanism of action data is not available in the compiled data, so no mechanistic validation is possible.
 
-The link to orofacial dyskinesia comes purely from the knowledge-graph prediction. Other beta-blockers, such as propranolol, have been used for some drug-induced movement disorders (for example akathisia). However, propranolol is non-selective and enters the brain, whereas landiolol is beta-1 selective, acts mainly in the periphery, and has minimal CNS penetration. There is no evidence that it would affect orofacial dyskinesia, so the prediction is probably a class-level association rather than a true landiolol-specific mechanism.
+The link to orofacial dyskinesia comes purely from the TxGNN model (deep learning) prediction. Other beta-blockers, such as propranolol, have been used for some drug-induced movement disorders (for example akathisia). However, propranolol is non-selective and enters the brain, whereas landiolol is beta-1 selective, acts mainly in the periphery, and has minimal CNS penetration. There is no evidence that it would affect orofacial dyskinesia, so the prediction is probably a class-level association rather than a true landiolol-specific mechanism.
 
 **Other predicted indications (all L5, all Hold):**
 
 | Rank | Predicted Indication | TxGNN Score | Comment |
 |------|------|------|------|
-| 2 | Chronic tic disorder | 99.08% | Tics involve cortico-striatal-thalamo-cortical and dopaminergic circuits; peripheral beta-1 blockade has no established rationale |
-| 3 | Psychogenic movement disorders | 99.05% | Managed mainly with physiotherapy and CBT; an IV-only drug is poorly suited to a chronic condition |
-| 4 | Extrapyramidal and movement disease | 99.04% | Broad category; score likely reflects beta-blocker class association |
-| 5 | Benign shuddering attacks | 99.04% | Rare, self-limiting pediatric condition; unfavorable benefit-risk for an IV beta-blocker |
-| 6 | Primary orthostatic tremor | 99.00% | Usually treated with clonazepam, gabapentin or primidone; beta-blockers are generally ineffective |
+| 2 | Chronic tic disorder | 0.9908 | Tics involve cortico-striatal-thalamo-cortical and dopaminergic circuits; peripheral beta-1 blockade has no established rationale |
+| 3 | Psychogenic movement disorders | 0.9905 | Managed mainly with physiotherapy and CBT; an IV-only drug is poorly suited to a chronic condition |
+| 4 | Extrapyramidal and movement disease | 0.9904 | Broad category; score likely reflects beta-blocker class association |
+| 5 | Benign shuddering attacks | 0.9904 | Rare, self-limiting pediatric condition; unfavorable benefit-risk for an IV beta-blocker |
+| 6 | Primary orthostatic tremor | 0.9900 | Usually treated with clonazepam, gabapentin or primidone; beta-blockers are generally ineffective |
 
 ## Clinical Trial Evidence
 
@@ -82,7 +82,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA217202 | RAPIBLYK (AOP Orphan Pharmaceuticals GmbH) | Injection, powder, lyophilized, for solution | Not listed in the license record (status: cancelled) |
+| NDA217202 | RAPIBLYK (AOP Orphan Pharmaceuticals GmbH) | Injection, powder, lyophilized, for solution | Not listed in the license record (status: valid) |
 
 ## Safety Considerations
 

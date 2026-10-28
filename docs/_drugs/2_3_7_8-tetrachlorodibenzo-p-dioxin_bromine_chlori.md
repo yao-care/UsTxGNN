@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # 2 3 7 8-Tetrachlorodibenzo-P-Dioxin Bromine Chlori
@@ -51,7 +52,7 @@ A meaningful repurposing evaluation cannot be performed without first resolving 
 | Predicted New Indication | None — TxGNN returned no candidates |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | Not evaluable |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 6) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

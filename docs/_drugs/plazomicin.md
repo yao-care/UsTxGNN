@@ -48,19 +48,19 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Urinary tract infection |
 | Predicted New Indication | Gonococcal urethritis |
-| TxGNN Prediction Score | 99.64% |
+| TxGNN Prediction Score | 0.9964 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, plazomicin belongs to the aminoglycoside class, which acts against many Gram-negative bacteria, including Enterobacterales. Its efficacy in urinary tract infection is the basis of its original use.
 
-*Neisseria gonorrhoeae* is also a Gram-negative pathogen, and other aminoglycosides (e.g., gentamicin) have been used in gonorrhea treatment. This gives the prediction a plausible antibacterial link. However, plazomicin has not been established for gonococcal infection, and current standard-of-care options are well defined. The high score (0.996) is a computational output only, and the US marketing authorization is cancelled, which further limits practical feasibility.
+*Neisseria gonorrhoeae* is also a Gram-negative pathogen, and other aminoglycosides (e.g., gentamicin) have been used in gonorrhea treatment. This gives the prediction a plausible antibacterial link. However, plazomicin has not been established for gonococcal infection, and current standard-of-care options are well defined. The high score (0.9964) comes from the TxGNN model (deep learning) and is a computational output only; it may reflect similarities the model learned between related diseases, not biological evidence. The drug is currently marketed in the US (1 valid licence of 1).
 
-Other predicted indications are weaker still. The closest to the approved use is xanthogranulomatous pyelonephritis (a Gram-negative-associated condition usually managed surgically, with antibiotics as an adjunct). Ureaplasma urethritis is unlikely to respond because Ureaplasma lacks a cell wall and aminoglycosides are not reliable against it. Hyperamylasemia, polyclonal hyperviscosity syndrome and congenital analbuminemia have no plausible antibacterial mechanism and are likely graph-based artifacts.
+Other predicted indications are weaker still. The closest to the approved use is xanthogranulomatous pyelonephritis (a Gram-negative-associated condition usually managed surgically, with antibiotics as an adjunct). Ureaplasma urethritis is unlikely to respond because Ureaplasma lacks a cell wall and aminoglycosides are not reliable against it. Hyperamylasemia, polyclonal hyperviscosity syndrome and congenital analbuminemia have no plausible antibacterial mechanism; their scores from the TxGNN model (deep learning) may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Clinical Trial Evidence
 
@@ -74,7 +74,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA210303 | Zemdri (plazomicin) (Achaogen, Inc.; status: cancelled) | Injection | Not specified |
+| NDA210303 | Zemdri (plazomicin) (Achaogen, Inc.; status: valid) | Injection | Not specified |
 
 ## Safety Considerations
 

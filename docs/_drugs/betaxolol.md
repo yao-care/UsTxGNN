@@ -1,18 +1,19 @@
 ---
 layout: default
 title: Betaxolol
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 454
-evidence_level: L5
-indication_count: 1
-last_modified_at: 2026-10-14
-description: "Betaxolol: predicted new indication Primary hereditary glaucoma (evidence level L5). Approved use: Hypertension, open-angle glaucoma, ocular hypertension"
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Betaxolol: known uses and market status in the United States; currently no new candidate indication"
+predicted_indications: []
 ---
 
 # Betaxolol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **1** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,67 +32,47 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-## Betaxolol: From Hypertension and Open-Angle Glaucoma to Primary Hereditary Glaucoma
+<!-- known-uses-page -->
+<!-- description: Betaxolol: known uses and market status in the United States; currently no new candidate indication -->
+## Betaxolol: Known uses and market status in the United States
 {: .text-alpha }
 
-## One-Sentence Summary
+## Summary
+The TxGNN deep-learning model produced candidate indications for Betaxolol, but every candidate that can be traced to a source is already a known use. There is therefore currently no new predicted indication for this drug. This page lists the known uses and the market status in the United States.
 
-Betaxolol is a beta-1 selective adrenergic blocker, originally used to treat hypertension, open-angle glaucoma and ocular hypertension.
-The TxGNN model predicts it may be effective for **primary hereditary glaucoma**,
-but **no clinical trials and no publications** were found in the data compiled for this report, so the prediction rests on model output alone.
-
----
-
-## Quick Overview
-
+## Quick overview
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension, open-angle glaucoma, ocular hypertension (from knowledge graph indication edges; no approved indication text in the US license records) |
-| Predicted New Indication | Primary hereditary glaucoma |
-| TxGNN Prediction Score | 99.74% |
-| Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 3 licenses in total (1 NDA, 2 ANDAs), all cancelled |
-| Recommended Decision | Hold |
+| New predicted indications | None (all traceable model candidates are known uses) |
+| Known uses among model candidates | 0 |
+| Evidence level | Not applicable |
+| Market status in the United States | Marketed (valid licenses: 3 of 3) |
+| Number of NDAs | 3 (valid: 3) |
 
----
+## Known uses among the model's candidates
 
-## Why is This Prediction Reasonable?
+### Approved (supported by a licence or label)
+| Indication | Source |
+|------|------|
+| none | none |
 
-Detailed mechanism of action data is not available. Based on known information, betaxolol is a beta-1 selective adrenergic antagonist. In the eye, it lowers intraocular pressure (IOP) by reducing aqueous humor production at the ciliary body. Its efficacy in open-angle glaucoma and ocular hypertension is established.
+### Related to an approved indication (same disease category)
+| Indication | Approved category |
+|------|------|
+| none | none |
 
-Primary hereditary glaucoma (for example, primary congenital or juvenile-onset forms) shares elevated IOP as the key modifiable driver, so a mechanistic link is plausible. The very high TxGNN score likely reflects how close this disease sits to the approved glaucoma indications in the knowledge graph.
-
-There are important caveats:
-- Hereditary forms often arise from developmental abnormalities of the anterior-chamber angle (e.g., variants in CYP1B1, MYOC, FOXC1). In these cases medical therapy is frequently only a temporizing measure before surgery.
-- Systemic absorption of beta-blockers raises pediatric safety concerns, such as bradycardia and bronchospasm.
-- The prediction is based on indication similarity, not on any independent clinical evidence.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
-
----
+### Relations recorded in the knowledge graph (no approval found)
+| Indication |
+|------|
+| none |
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA078962 | Betaxolol Hydrochloride (KVK-Tech) | Tablet, coated (oral) | Not specified; status cancelled |
-| ANDA075541 | Betaxolol (PuraCap Laboratories) | Tablet, film coated (oral) | Not specified; status cancelled |
-| NDA019270 | Betaxolol Hydrochloride (Sandoz) | Solution/drops (ophthalmic) | Not specified; status cancelled |
-
-All three licenses are cancelled, so there is no currently valid US-marketed betaxolol product in the data compiled for this report.
-
----
+| Licence | Product | Dosage form | Status |
+|------|------|------|------|
+| ANDA078962 | betaxolol hydrochloride | TABLET, COATED | Valid |
+| ANDA075541 | Betaxolol | TABLET, FILM COATED | Valid |
+| NDA019270 | Betaxolol Hydrochloride | SOLUTION/ DROPS | Valid |
 
 ## Safety Considerations
 
@@ -115,19 +96,6 @@ Please refer to the package insert for full safety information.
 
 ---
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The prediction score is very high, but there are no clinical trials or publications behind it (Evidence Level L5). All US licenses are cancelled, and label-level safety information is missing. Hereditary glaucoma is often managed surgically, and beta-blocker use in children carries safety concerns.
-
-**To proceed, the following is needed:**
-- FDA package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data (e.g., from DrugBank)
-- A literature and trial search for betaxolol in congenital, juvenile and other hereditary glaucoma
-- Assessment of ophthalmic route compatibility and of the current availability of the ophthalmic formulation
-- A pediatric safety review covering systemic beta-blocker exposure
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Sirolimus
-parent: Model Prediction Only (L5)
+parent: High Evidence (L1-L2)
 nav_order: 1166
-evidence_level: L5
-indication_count: 10
+evidence_level: L2
+indication_count: 7
 last_modified_at: 2026-10-14
-description: "Sirolimus: predicted new indication Liposarcoma (evidence level L5). Approved use: Renal cell carcinoma (including clear cell and nonpapillary subtypes)"
 monitor_inn: "SIROLIMUS"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "uterine corpus perivascular epithelioid cell tumor", "benign PEComa", "lymphangiomyoma", "lung PEComa", "vulva sarcoma"]
+description: "Sirolimus: predicted new indication Liposarcoma (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
 # Sirolimus
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L2** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Sirolimus: From Renal Cell Carcinoma and Lymphangioleiomyomatosis to Liposarcoma
+## Sirolimus: Liposarcoma
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Sirolimus is an mTOR inhibitor, listed in the knowledge graph for renal cell carcinoma (including clear cell subtypes) and lymphangioleiomyomatosis (LAM).
+Sirolimus is an mTOR inhibitor associated with renal cell carcinoma (including clear cell subtypes) and lymphangioleiomyomatosis (LAM).
 The TxGNN model predicts it may be effective for **Liposarcoma**,
 with **1 clinical trial** (a single-arm Phase 2 study of a combination regimen) and **7 publications** (mostly reviews) currently supporting this direction. The evidence is indirect.
 
@@ -50,11 +50,11 @@ with **1 clinical trial** (a single-arm Phase 2 study of a combination regimen) 
 
 | Item | Content |
 |------|------|
-| Original Indication | Renal cell carcinoma (including clear cell and nonpapillary subtypes); lymphangioleiomyomatosis (from the knowledge graph; no approved indication text in the US license records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Liposarcoma |
-| TxGNN Prediction Score | 99.89% |
+| TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L2 (one completed Phase 2 trial; single-arm, combination therapy) |
-| US Market Status | Cancelled only (all licenses cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 11) |
 | Number of NDAs | 11 authorizations in total (2 NDAs, 9 ANDAs) |
 | Recommended Decision | Hold (research question) |
 
@@ -94,7 +94,7 @@ The limitation is that the only trial combines sirolimus with cyclophosphamide, 
 
 ## US Market Information
 
-All 11 US authorizations are cancelled; none are currently valid. Approved indication text is not available in the license records.
+The drug is marketed in the US, with 11 valid authorizations. Approved indication text is not available in the license records.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -124,7 +124,7 @@ Sirolimus is a targeted mTOR inhibitor and is not a conventional cytotoxic agent
 
 ## Safety Considerations
 
-- **Disease-level cautions (knowledge graph, not label text)**: The knowledge graph links sirolimus to caution in several conditions, including hypertension, kidney disease, liver disease, hyperglycemia and diabetes, hyperlipidemia and hypertriglyceridemia, interstitial lung disease, infections (including pneumocystosis and cytomegalovirus infection), stroke and cerebrovascular disorders, hyperbilirubinemia, pericardial effusion, progressive multifocal leukoencephalopathy, and certain cancers. These are knowledge-graph associations, not verified label contraindications.
+- **Disease-level cautions (not label text)**: Sirolimus is linked to caution in several conditions, including hypertension, kidney disease, liver disease, hyperglycemia and diabetes, hyperlipidemia and hypertriglyceridemia, interstitial lung disease, infections (including pneumocystosis and cytomegalovirus infection), stroke and cerebrovascular disorders, hyperbilirubinemia, pericardial effusion, progressive multifocal leukoencephalopathy, and certain cancers. These are associations, not verified label contraindications.
 - **Drug Interactions**: 100 interactions were identified; the 20 shown in the data include:
   - **Major**: amphotericin B (including the lipid complex), mesalazine, balsalazide, clarithromycin
   - **Moderate**: antidiabetic drugs (acarbose, metformin, pioglitazone, alogliptin, albiglutide, canagliflozin, dapagliflozin, chlorpropamide), corticosteroids (hydrocortisone, dexamethasone, betamethasone, budesonide, triamcinolone), aprepitant, cimetidine
@@ -137,10 +137,10 @@ Please refer to the package insert for authoritative warnings and contraindicati
 
 | Rank | Predicted Indication | Score | Evidence Level | Key Point | Suggested Decision |
 |---|---|---|---|---|---|
-| 5 | Lymphangiomyoma (LAM) | 99.79% | L1 | Phase 3 MILES trial ([NCT00414648](https://clinicaltrials.gov/study/NCT00414648), n=89, completed) and Phase 3 MILED ([NCT03150914](https://clinicaltrials.gov/study/NCT03150914), n=60, active); already an original indication | Proceed with Guardrails |
-| 9 | Lung PEComa | 99.63% | L2 | Evidence transferred from LAM, not specific to lung PEComa | Research question |
-| 4 | Benign PEComa | 99.80% | L4 | Case reports of sirolimus/nab-sirolimus response; no registered trials | Research question |
-| 3, 6-8, 10, 2 | Uterine PEComa, unclassified RCC, Xp11.2/TFE3 RCC, RCC with neuroblastoma, vulva sarcoma, ovarian myxoid liposarcoma | 99.6-99.85% | L5 | Prediction only; no specific trials or publications | Hold |
+| 5 | Lymphangiomyoma (LAM) | 0.9979 | L5 | Phase 3 MILES trial ([NCT00414648](https://clinicaltrials.gov/study/NCT00414648), n=89, completed) and Phase 3 MILED ([NCT03150914](https://clinicaltrials.gov/study/NCT03150914), n=60, active); already an original indication | Proceed with Guardrails |
+| 9 | Lung PEComa | 0.9963 | L5 | Evidence transferred from LAM, not specific to lung PEComa | Research question |
+| 4 | Benign PEComa | 0.9980 | L5 | Case reports of sirolimus/nab-sirolimus response; no registered trials | Research question |
+| 3, 6-8, 10, 2 | Uterine PEComa, unclassified RCC, Xp11.2/TFE3 RCC, RCC with neuroblastoma, vulva sarcoma, ovarian myxoid liposarcoma | 99.6-0.9985 | L5 | Prediction only; no specific trials or publications | Hold |
 
 ---
 
@@ -155,7 +155,7 @@ The only supporting trial is a single-arm Phase 2 study of a sirolimus plus cycl
 - Liposarcoma-specific subgroup results from NCT02821507, and ideally a randomized or sirolimus-monotherapy study
 - Mechanism of action data (DrugBank) to support the mechanistic-link analysis
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
-- Clarification of product availability, since all US licenses are cancelled
+- Clarification of product availability in the US, where 11 licenses are currently valid
 - A drug-interaction management plan (high interaction burden, including major interactions with clarithromycin and amphotericin B)
 ## Disclaimer
 

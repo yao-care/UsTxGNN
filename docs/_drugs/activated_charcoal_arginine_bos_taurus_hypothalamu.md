@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Activated Charcoal Arginine Bos Taurus Hypothalamu
@@ -49,7 +50,7 @@ This product is a complex 28-ingredient mixture comprising homeopathic botanical
 | Predicted New Indication | None — TxGNN produced no predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (model prediction only — not applicable; no output generated) |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 1) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

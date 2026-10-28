@@ -46,25 +46,25 @@ Oliceridine is a G protein-biased mu-opioid receptor agonist given by injection,
 |------|------|
 | Original Indication | Not stated in the data compiled for this report (the US license record has no indication text) |
 | Predicted New Indication | Insomnia |
-| TxGNN Prediction Score | 99.79% |
+| TxGNN Prediction Score | 0.9979 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, oliceridine is a G protein-biased mu-opioid receptor agonist, and its use is in acute pain. Opioids can cause sedation, so a link to sleep is conceivable.
 
-That link is weak. Opioids generally disrupt sleep architecture by reducing slow-wave and REM sleep. They also carry risks of tolerance, dependence, and respiratory depression. The high score (0.998) is a knowledge-graph prediction only. No clinical or mechanistic evidence supports it, and the link cannot be verified. The product's US market status is also "cancelled only".
+That link is weak. Opioids generally disrupt sleep architecture by reducing slow-wave and REM sleep. They also carry risks of tolerance, dependence, and respiratory depression. The high score (0.9979) is a TxGNN model (deep learning) prediction only. No clinical or mechanistic evidence supports it, and the link cannot be verified. The product's US market status is also "cancelled only".
 
 **Other predicted indications (all L5, Hold):**
 
 | Rank | Predicted Indication | TxGNN Score | Assessment |
 |------|------|------|------|
-| 2 | Migraine disorder | 99.16% | Opioids are sometimes used as rescue therapy, but guidelines generally discourage them because of medication-overuse headache, limited efficacy, and dependence risk. Any advantage of a biased agonist is speculative. |
-| 3 | Irritable bowel syndrome | 99.07% | Some class-level plausibility exists, since eluxadoline, a mixed opioid receptor modulator, is approved for IBS-D. However, oliceridine is a systemic IV agent, and opioid-induced constipation and GI dysfunction argue against its use. |
-| 4 | Neurocirculatory asthenia | 99.05% | This is a poorly defined functional or anxiety-related condition with no established opioid therapy and no supported mechanistic pathway. |
+| 2 | Migraine disorder | 0.9916 | Opioids are sometimes used as rescue therapy, but guidelines generally discourage them because of medication-overuse headache, limited efficacy, and dependence risk. Any advantage of a biased agonist is speculative. |
+| 3 | Irritable bowel syndrome | 0.9907 | Some class-level plausibility exists, since eluxadoline, a mixed opioid receptor modulator, is approved for IBS-D. However, oliceridine is a systemic IV agent, and opioid-induced constipation and GI dysfunction argue against its use. |
+| 4 | Neurocirculatory asthenia | 0.9905 | This is a poorly defined functional or anxiety-related condition with no established opioid therapy and no supported mechanistic pathway. |
 
 ## Clinical Trial Evidence
 

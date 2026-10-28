@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Activated Charcoal Arabica Coffee Bean Causticum E
@@ -51,7 +52,8 @@ Without a DrugBank anchor or a recognized INN-level identity, the evidence pipel
 | Predicted New Indication | None — TxGNN returned no predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (no supporting studies identified) |
-| Market Status | Not marketed in Taiwan |
+| Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Number of Approvals | 0 |
 | Recommended Decision | Hold |
 

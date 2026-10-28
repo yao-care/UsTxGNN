@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Trabectedin
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 1245
-evidence_level: L2
+evidence_level: L5
 indication_count: 1
 monitor_inn: "TRABECTEDIN"
 predicted_indications: ["female breast carcinoma"]
 last_modified_at: 2026-10-14
-description: "Trabectedin: predicted new indication Female breast carcinoma (evidence level L2). Approved use: Ovarian cancer"
+description: "Trabectedin: predicted new indication Female breast carcinoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Trabectedin
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **1** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L2** | Predicted Indications: **1**
 
 </div>
 
-## Trabectedin: From Ovarian Cancer to Female Breast Carcinoma
+## Trabectedin: Female breast carcinoma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ with **1 clinical trial** (a QT-interval safety study, not an efficacy trial) an
 
 | Item | Content |
 |------|------|
-| Original Indication | Ovarian cancer (the US approval text is not available in the data compiled for this report; the indication comes from the knowledge graph) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Female breast carcinoma |
-| TxGNN Prediction Score | 99.73% |
-| Evidence Level | L2 |
-| US Market Status | Cancelled only (1 NDA, cancelled) |
-| Number of NDAs | 1 |
+| TxGNN Prediction Score | 0.9973 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -47,10 +47,10 @@ The TxGNN model predicts it may be relevant to **anaphylaxis**, but **no clinica
 |------|------|
 | Original Indication | Diagnostic agent for radionuclide myocardial perfusion imaging (MPI) (the data compiled for this report contains no approved-indication text on the licenses; this is taken from pharmacology data) |
 | Predicted New Indication | Anaphylaxis |
-| TxGNN Prediction Score | 99.85% |
+| TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all licenses cancelled) |
-| Number of NDAs | 12 licenses in total (1 NDA, 11 ANDAs) |
+| US Market Status | Marketed (valid licenses: 12 of 12) |
+| Number of NDAs | 12 (valid: 12) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -63,9 +63,9 @@ However, the prediction is weak from a clinical standpoint. Regadenoson causes v
 
 | Rank | Predicted Indication | TxGNN Score | Assessment |
 |------|------|------|------|
-| 2 | Food-dependent exercise-induced anaphylaxis | 99.74% | The only plausible rationale is A2A modulation of mast cell activation. Its hemodynamic effects (vasodilation, tachycardia, hypotension) and use as a stress agent make it unsuitable for a condition triggered by exercise plus food. Likely driven by disease-class similarity in the graph model. |
-| 3 | Esotropia | 99.12% | No clear mechanistic link to ocular alignment disorders; likely a graph-based artifact. |
-| 4 | Pseudoallergy | 99.12% | A2A agonism could theoretically dampen mast cell degranulation, but this is speculative. Regadenoson's own flushing and hypersensitivity-like reactions argue for caution. |
+| 2 | Food-dependent exercise-induced anaphylaxis | 0.9974 | The only plausible rationale is A2A modulation of mast cell activation. Its hemodynamic effects (vasodilation, tachycardia, hypotension) and use as a stress agent make it unsuitable for a condition triggered by exercise plus food. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. |
+| 3 | Esotropia | 0.9912 | No clear mechanistic link to ocular alignment disorders. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. |
+| 4 | Pseudoallergy | 0.9912 | A2A agonism could theoretically dampen mast cell degranulation, but this is speculative. Regadenoson's own flushing and hypersensitivity-like reactions argue for caution. |
 
 ## Clinical Trial Evidence
 
@@ -77,15 +77,15 @@ Currently no related literature available.
 
 ## US Market Information
 
-All 12 licenses are listed as cancelled. Approved-indication text is not available for any of them. The main authorizations are:
+All 12 licenses are valid. Approved-indication text is not available for any of them. The main authorizations are:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA022161 | LEXISCAN (Astellas Pharma US, Inc.) | Injection, solution | Not available (status: cancelled) |
-| ANDA213210 | Regadenoson (Dr. Reddy's Laboratories Inc.) | Injection | Not available (status: cancelled) |
-| ANDA218054 | Regadenoson (Marlex Pharmaceuticals, Inc.) | Injection, solution | Not available (status: cancelled) |
-| ANDA216437 | Regadenoson (Eugia US LLC) | Injection | Not available (status: cancelled) |
-| ANDA207604 | Regadenoson (Apotex Corp.) | Injection, solution | Not available (status: cancelled) |
+| NDA022161 | LEXISCAN (Astellas Pharma US, Inc.) | Injection, solution | Not available (status: valid) |
+| ANDA213210 | Regadenoson (Dr. Reddy's Laboratories Inc.) | Injection | Not available (status: valid) |
+| ANDA218054 | Regadenoson (Marlex Pharmaceuticals, Inc.) | Injection, solution | Not available (status: valid) |
+| ANDA216437 | Regadenoson (Eugia US LLC) | Injection | Not available (status: valid) |
+| ANDA207604 | Regadenoson (Apotex Corp.) | Injection, solution | Not available (status: valid) |
 
 The remaining seven ANDAs (International Medication Systems, Hikma, Baxter, Gland Pharma, Accord, Meitheal, Hospira) are also cancelled. All products are injectable.
 
@@ -107,13 +107,13 @@ Please refer to the package insert for official warnings and contraindications, 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a computational score (L5). No trials or publications exist, and the drug's vasodilatory and hypotensive effects work against the treatment needs of anaphylaxis. All US licenses are also cancelled.
+The prediction is supported only by a computational score (L5). No trials or publications exist, and the drug's vasodilatory and hypotensive effects work against the treatment needs of anaphylaxis. All 12 US licenses are valid.
 
 **To proceed, the following is needed:**
 - Preclinical evidence that A2A agonism can control mast cell activation or anaphylaxis without causing harmful hypotension
 - FDA package insert warnings and contraindications for formal safety screening
 - Detailed mechanism-of-action data
-- Clarification of the regulatory status, since all US licenses are currently cancelled
+- Clarification of the regulatory status of the 12 valid US licenses
 - Literature and trial searches that could support any of the four predicted indications
 ## Disclaimer
 

@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Collagenase Clostridium Histolyticum: From Peyronie Disease to Palmar Fibromatosis (Dupuytren's Disease)
+## Collagenase Clostridium Histolyticum: From Peyronie Disease to primary release disorder of platelets
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,10 +48,10 @@ with **13 clinical trials** and **20 publications** currently supporting this di
 |------|------|
 | Original Indication | Peyronie disease, penile fibromatosis, balanitis xerotica obliterans |
 | Predicted New Indication | Primary release disorder of platelets (rank 1 by score); the best-supported prediction is palmar fibromatosis (rank 6) |
-| TxGNN Prediction Score | 99.997% (rank 1, primary release disorder of platelets); 99.95% (palmar fibromatosis) |
-| Evidence Level | L1 (palmar fibromatosis); L5 for the top-ranked platelet disorders |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 |
+| TxGNN Prediction Score | 1.0000 (rank 1, primary release disorder of platelets); 0.9995 (palmar fibromatosis) |
+| Evidence Level | L5 (palmar fibromatosis); L5 for the top-ranked platelet disorders |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails (palmar fibromatosis only); Hold for the other predictions |
 
 The top-ranked predictions (platelet function and bleeding disorders) have no clinical or literature support and no plausible mechanism. This report therefore focuses on **palmar fibromatosis**, the only prediction with substantial evidence. Ledderhose disease (plantar fibromatosis) is a secondary research question supported only by case reports.
@@ -64,7 +64,7 @@ Dupuytren's disease is a fibroproliferative disorder of the palmar fascia. Colla
 
 The evidence pack notes that this use (Xiaflex/Xiapex for Dupuytren's contracture with a palpable cord) has already been approved, so the result validates a known use rather than revealing a new one.
 
-By contrast, the highest-scoring predictions (primary release disorder of platelets, Glanzmann thrombasthenia, pseudo-von Willebrand disease, and others) are platelet or bleeding disorders. They have no plausible mechanistic link. The high scores likely reflect network proximity through collagen-platelet interactions, and collagenase could plausibly worsen bleeding. They should be treated as knowledge-graph artifacts.
+By contrast, the highest-scoring predictions (primary release disorder of platelets, Glanzmann thrombasthenia, pseudo-von Willebrand disease, and others) are platelet or bleeding disorders. They have no plausible mechanistic link. The high scores likely reflect network proximity through collagen-platelet interactions, and collagenase could plausibly worsen bleeding. They should be treated as TxGNN model (deep learning) artifacts.
 
 ## Clinical Trial Evidence
 
@@ -106,7 +106,7 @@ For Ledderhose disease (plantar fibromatosis), only three small reports exist: [
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA101995 | COLLAGENASE SANTYL (Smith & Nephew) | Ointment | Not stated; status cancelled |
+| BLA101995 | COLLAGENASE SANTYL (Smith & Nephew) | Ointment | Not stated; status valid |
 
 The only US record in the data compiled for this report is cancelled. It is a topical ointment, not the injectable form used for Dupuytren's contracture, so regulatory and supply status of the injectable product should be verified separately.
 

@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Sofosbuvir
-parent: Model Prediction Only (L5)
+parent: High Evidence (L1-L2)
 nav_order: 1172
-evidence_level: L5
+evidence_level: L2
 indication_count: 8
 monitor_inn: "SOFOSBUVIR"
 predicted_indications: ["hepatitis B virus infection", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "chronic hepatitis B virus infection", "Kyasanur forest disease", "HIV infectious disease"]
@@ -14,7 +14,7 @@ description: "Sofosbuvir: predicted new indication Top TxGNN prediction: hepatit
 # Sofosbuvir
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **8** 
+Evidence Level: **L2** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-## Sofosbuvir: From Chronic Hepatitis C to Hepatitis E Virus Infection
+## Sofosbuvir: From Chronic Hepatitis C to Hepatitis B Virus Infection
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -49,10 +49,10 @@ The TxGNN model's top-ranked prediction is **hepatitis B virus infection**, but 
 |------|------|
 | Original Indication | Chronic hepatitis C virus infection (no approved-indication text is available in the US licence records) |
 | Predicted New Indication | Top TxGNN prediction: hepatitis B virus infection (rank 1). Best-supported candidate after evidence review: hepatitis E virus infection (rank 2) |
-| TxGNN Prediction Score | Hepatitis B virus infection: 99.77%. Hepatitis E virus infection: 99.49% |
+| TxGNN Prediction Score | Hepatitis B virus infection: 0.9977. Hepatitis E virus infection: 0.9949 |
 | Evidence Level | L2 for hepatitis E (one completed Phase 2 pilot, no Phase 3 data); L2 for hepatitis B (co-infection data only) |
-| US Market Status | Cancelled only (all 7 licences cancelled) |
-| Number of NDAs | 7 |
+| US Market Status | Marketed (valid licenses: 7 of 7) |
+| Number of NDAs | 7 (valid: 7) |
 | Recommended Decision | Hold (hepatitis E may proceed as a research question) |
 
 ---
@@ -109,7 +109,7 @@ Trials below are for the two leading candidates.
 
 ## US Market Information
 
-All seven US licences are cancelled. The licence records contain no approved-indication text.
+All seven US licences are valid. The licence records contain no approved-indication text.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -144,7 +144,7 @@ For label warnings and contraindications, please refer to the package insert.
 - The top TxGNN prediction (hepatitis B) is not mechanistically supported, and observed HBV effects most likely reflect HCV clearance. Reactivation risk is a safety concern, not a benefit.
 - Hepatitis E has a plausible RdRp mechanism and supportive in vitro and animal data, but the only clinical trial is a 10-patient pilot with no sustained virologic response and emerging resistance.
 - Hepatitis A, Kyasanur forest disease, Omsk hemorrhagic fever and the nonspecific viral hepatitis category rest on in vitro, enzyme-level or no data. HIV evidence concerns HCV treatment in co-infected patients and is not repurposing evidence.
-- All US licences are cancelled, which may complicate any US development path.
+- All seven US licences are valid, and the drug is marketed in the US.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (currently missing)

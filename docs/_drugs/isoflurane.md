@@ -8,7 +8,7 @@ indication_count: 7
 monitor_inn: "ISOFLURANE"
 predicted_indications: ["Prinzmetal angina", "Tourette syndrome", "manic bipolar affective disorder", "trichotillomania", "dysthymic disorder", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder"]
 last_modified_at: 2026-10-14
-description: "Isoflurane: predicted new indication Migraine disorder (evidence level L5). Approved use: General anesthesia"
+description: "Isoflurane: predicted new indication Prinzmetal angina (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Isoflurane
@@ -33,23 +33,23 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-## Isoflurane: From General Anesthesia to Migraine Disorder
+## Isoflurane: Prinzmetal angina
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Isoflurane is an inhaled volatile general anesthetic. The TxGNN model's top-ranked prediction is Prinzmetal angina, but the only prediction with meaningful supporting evidence is **Migraine Disorder** (score 99.06%). That evidence consists of **0 registered clinical trials** and **12 publications**, mostly preclinical studies plus two case reports of the same patient. This report therefore evaluates migraine disorder as the lead repurposing direction.
+Isoflurane is an inhaled volatile general anesthetic. The TxGNN model's top-ranked prediction is Prinzmetal angina, but the only prediction with meaningful supporting evidence is **Migraine Disorder** (score 0.9906). That evidence consists of **0 registered clinical trials** and **12 publications**, mostly preclinical studies plus two case reports of the same patient. This report therefore evaluates migraine disorder as the lead repurposing direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | General anesthesia (inferred from the drug class; the US license records contain no indication text) |
-| Predicted New Indication | Migraine disorder (the highest-ranked prediction, Prinzmetal angina, has no supporting evidence) |
-| TxGNN Prediction Score | 99.06% (migraine disorder); 99.67% (Prinzmetal angina, rank 1) |
-| Evidence Level | L4 (preclinical and case-level evidence only) |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 5 licenses (1 NDA, 4 ANDAs), all cancelled |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Prinzmetal angina |
+| TxGNN Prediction Score | 0.9967 |
+| Evidence Level | L5 (preclinical and case-level evidence only) |
+| US Market Status | Marketed (valid licenses: 5 of 5) |
+| Number of NDAs | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -79,15 +79,15 @@ The table lists the most relevant publications. Several other retrieved papers (
 
 ## US Market Information
 
-All five US licenses are cancelled, and no approved indication text was recorded for any of them.
+All five US licenses are valid, and no approved indication text was recorded for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA017624 | FORANE (Baxter Healthcare) | Inhalant | Not recorded (cancelled) |
-| ANDA074502 | Isoflurane (Piramal Critical Care) | Liquid | Not recorded (cancelled) |
-| ANDA074416 | Isoflurane (Piramal Critical Care) | Liquid | Not recorded (cancelled) |
-| ANDA075225 | Isoflurane (Halocarbon Life Sciences) | Liquid | Not recorded (cancelled) |
-| ANDA216527 | Isoflurane (Shandong New Time Pharmaceutical) | Liquid | Not recorded (cancelled) |
+| NDA017624 | FORANE (Baxter Healthcare) | Inhalant | Not recorded (valid) |
+| ANDA074502 | Isoflurane (Piramal Critical Care) | Liquid | Not recorded (valid) |
+| ANDA074416 | Isoflurane (Piramal Critical Care) | Liquid | Not recorded (valid) |
+| ANDA075225 | Isoflurane (Halocarbon Life Sciences) | Liquid | Not recorded (valid) |
+| ANDA216527 | Isoflurane (Shandong New Time Pharmaceutical) | Liquid | Not recorded (valid) |
 
 ## Safety Considerations
 
@@ -105,7 +105,6 @@ Please refer to the package insert for warnings and label contraindications, whi
 **Decision: Hold**
 
 **Rationale:**
-- The evidence for migraine is limited to old animal studies and one case report, with no registered trials, and the drug has no currently valid US license.
 - Use would be restricted to a narrow inpatient setting such as status migrainosus.
 - The other predictions (Prinzmetal angina, Tourette syndrome, trichotillomania, dysthymic disorder, nephrogenic syndrome of inappropriate antidiuresis) have only model scores and no supporting evidence. The manic bipolar disorder prediction rests on a small 1993 open study in depression plus unrelated case and animal reports.
 
@@ -114,7 +113,7 @@ Please refer to the package insert for warnings and label contraindications, whi
 - Mechanism of action data
 - Direct isoflurane studies on spreading depression and migraine, and prospective data on refractory status migrainosus
 - A defined hospital-based use setting and monitoring plan, including screening for malignant hyperthermia risk
-- Clarification of the regulatory pathway, since all US licenses are cancelled
+- Clarification of the regulatory pathway, noting that all five US licenses are valid
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

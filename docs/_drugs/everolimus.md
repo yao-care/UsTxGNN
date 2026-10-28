@@ -4,17 +4,17 @@ title: Everolimus
 parent: Model Prediction Only (L5)
 nav_order: 687
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-14
-description: "Everolimus: predicted new indication Liposarcoma (evidence level L5). Approved use: Renal cell carcinoma"
 monitor_inn: "EVEROLIMUS"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "embryonal extrahepatic bile duct rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "prostate embryonal rhabdomyosarcoma"]
+description: "Everolimus: predicted new indication Liposarcoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Everolimus
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Everolimus: From Renal Cell Carcinoma to Liposarcoma
+## Everolimus: Liposarcoma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ with **1 clinical trial** and **4 publications** currently supporting this direc
 
 | Item | Content |
 |------|------|
-| Original Indication | Renal cell carcinoma (the KG lists nonpapillary renal cell carcinoma, clear cell renal carcinoma, breast carcinoma, kidney angiomyolipoma, and tuberous sclerosis; the US license text is empty) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Liposarcoma |
-| TxGNN Prediction Score | 99.88% |
+| TxGNN Prediction Score | 0.9988 |
 | Evidence Level | L5 by the strict rules (no completed Phase 3/2-3 RCT). The data compiled for this report assigns L2, but the only trial is an uncompleted, single-arm Phase 2 combination study. |
-| US Market Status | Cancelled only (no active licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 11) |
 | Number of NDAs | 11 authorizations in total (3 NDAs, 8 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
@@ -79,22 +79,21 @@ An important caveat: the evidence concerns the combination, so everolimus's own 
 
 ## US Market Information
 
-All 11 authorizations are listed as cancelled, and approved indication text is not available for any of them. The five main ones are:
+The drug is marketed in the US with 11 valid authorizations, and approved indication text is not available for any of them. The five main ones are:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA022334 | Afinitor (Novartis) | Tablet | Not available (cancelled) |
-| NDA203985 | Afinitor (Novartis) | Tablet for suspension | Not available (cancelled) |
-| NDA021560 | Zortress (Novartis) | Tablet | Not available (cancelled) |
-| ANDA207486 | Everolimus (Hikma) | Tablet | Not available (cancelled) |
-| ANDA210050 | Everolimus (Teva) | Tablet | Not available (cancelled) |
+| NDA022334 | Afinitor (Novartis) | Tablet | Not available (valid) |
+| NDA203985 | Afinitor (Novartis) | Tablet for suspension | Not available (valid) |
+| NDA021560 | Zortress (Novartis) | Tablet | Not available (valid) |
+| ANDA207486 | Everolimus (Hikma) | Tablet | Not available (valid) |
+| ANDA210050 | Everolimus (Teva) | Tablet | Not available (valid) |
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
 | Cytotoxicity Classification | Targeted therapy (mTOR inhibitor), not a conventional cytotoxic |
-| Myelosuppression Risk | Medium. The knowledge graph flags thrombocytopenia, neutropenia, leukopenia, and anemia as concerns. |
 | Emetogenicity Classification | Low |
 | Monitoring Items | CBC with differential, liver and renal function, fasting glucose and lipids, signs of stomatitis and pulmonary symptoms |
 | Handling Protection | Please refer to the package insert warnings and precautions |
@@ -111,13 +110,13 @@ Label-based warnings and contraindications are not available in the data compile
 **Decision: Hold**
 
 **Rationale:**
-The only direct evidence is a single-arm, uncompleted Phase 2 combination trial in dedifferentiated liposarcoma, so everolimus's own contribution is unproven. All US authorizations are cancelled, and label safety data is missing, which blocks safety screening. This is best treated as a research question rather than a development candidate for now.
+The only direct evidence is a single-arm, uncompleted Phase 2 combination trial in dedifferentiated liposarcoma, so everolimus's own contribution is unproven. The drug is marketed in the US with 11 valid authorizations, but label safety data is missing, which blocks safety screening. This is best treated as a research question rather than a development candidate for now.
 
 **To proceed, the following is needed:**
 - Final results of NCT03114527, ideally with some way to isolate the everolimus contribution
 - FDA package insert warnings and contraindications
 - Detailed mechanism-of-action data (MOA)
-- Clarification of the current US regulatory status, since all authorizations show as cancelled
+- Clarification of the current US regulatory status, since the drug is marketed with 11 valid authorizations
 - Safety monitoring plan for the cytopenia, metabolic, and pulmonary risks flagged above
 
 **Other predictions (all Hold):** Rhabdomyosarcoma has the next-strongest support, at L3 (Phase 1 and Phase 1/2 pediatric solid-tumor trials, NCT00187174 and NCT03245151, with mixed populations). The other predictions are prediction-only with no retrieved clinical evidence, namely ovarian myxoid liposarcoma, dermatofibrosarcoma protuberans, the rhabdomyosarcoma subtypes, and the rare renal cell carcinoma variants.

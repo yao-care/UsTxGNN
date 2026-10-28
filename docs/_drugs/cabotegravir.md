@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "CABOTEGRAVIR"
 predicted_indications: ["rheumatoid arthritis", "sclerosing cholangitis", "bronchitis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "severe nonproliferative diabetic retinopathy"]
-last_modified_at: 2026-10-14
-description: "Cabotegravir: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: Not stated in the available US license data (the one NDA has no indic…"
+last_modified_at: 2026-10-28
+description: "Cabotegravir: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Cabotegravir
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-## Cabotegravir: From HIV-1 Infection to Rheumatoid Arthritis
+## Cabotegravir: Rheumatoid arthritis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -44,21 +44,21 @@ Cabotegravir is an HIV-1 integrase strand transfer inhibitor (INSTI). The TxGNN 
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the available US license data (the one NDA has no indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Rheumatoid arthritis |
-| TxGNN Prediction Score | 99.45% |
+| TxGNN Prediction Score | 0.9945 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no active license) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, cabotegravir is an HIV-1 integrase strand transfer inhibitor, a class that blocks viral DNA integration into the host genome.
 
-Rheumatoid arthritis is an autoimmune and inflammatory disease driven by pathways such as TNF, IL-6 and JAK/STAT. Integrase inhibition does not target these pathways, so no established mechanistic link exists between the original use and the predicted indication. The high TxGNN score (0.995) is a knowledge-graph prediction and is not backed by any clinical or published evidence in the data compiled.
+Rheumatoid arthritis is an autoimmune and inflammatory disease driven by pathways such as TNF, IL-6 and JAK/STAT. Integrase inhibition does not target these pathways, so no established mechanistic link exists between the original use and the predicted indication. The high TxGNN score (0.9945) is a TxGNN model (deep learning) prediction and is not backed by any clinical or published evidence in the data compiled.
 
-Other predictions in the list share the same weakness. These are sclerosing cholangitis (99.22%), bronchitis (99.19%), colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.16%) and severe nonproliferative diabetic retinopathy (99.03%). Each has no trials, no literature and no plausible mechanistic link. They are likely knowledge-graph artifacts.
+Other predictions in the list share the same weakness. These are sclerosing cholangitis (0.9922), bronchitis (0.9919), colobomatous microphthalmia-rhizomelic dysplasia syndrome (0.9916) and severe nonproliferative diabetic retinopathy (0.9903). Each has no trials, no literature and no plausible mechanistic link. They are likely TxGNN model (deep learning) artifacts.
 
 ## Clinical Trial Evidence
 
@@ -92,7 +92,7 @@ Warning and contraindication data from the package insert are not available. Ple
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a knowledge-graph score. There are no trials or publications, and no plausible mechanistic link between integrase inhibition and rheumatoid arthritis. In addition, the only US license is cancelled, and package insert safety data are missing.
+The prediction rests only on a TxGNN model (deep learning) score. There are no trials or publications, and no plausible mechanistic link between integrase inhibition and rheumatoid arthritis. In addition, the only US license is cancelled, and package insert safety data are missing.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

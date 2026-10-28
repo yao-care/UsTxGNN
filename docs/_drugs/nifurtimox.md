@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **Congenital Analbuminemia**, b
 |------|------|
 | Original Indication | Chagas disease |
 | Predicted New Indication | Congenital analbuminemia |
-| TxGNN Prediction Score | 99.58% |
+| TxGNN Prediction Score | 0.9958 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -61,18 +61,18 @@ The TxGNN model predicts it may be effective for **Congenital Analbuminemia**, b
 
 Currently, detailed mechanism of action data is not available. Based on known information, nifurtimox is a nitrofuran antiprotozoal that generates reactive oxygen species and nitro-radical metabolites in *Trypanosoma cruzi*. Its efficacy in Chagas disease is the basis for its original use.
 
-This mechanism does not appear applicable to congenital analbuminemia. That disorder is a rare monogenic condition caused by loss-of-function variants in the *ALB* gene, and an antiparasitic prodrug has no plausible way to correct it. The high TxGNN score (99.58%) reflects a knowledge-graph association pattern rather than a biological rationale.
+This mechanism does not appear applicable to congenital analbuminemia. That disorder is a rare monogenic condition caused by loss-of-function variants in the *ALB* gene, and an antiparasitic prodrug has no plausible way to correct it. The high TxGNN score (0.9958) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
-Other predicted indications show the same pattern, with scores between 99.06% and 99.47%, and none has supporting trials or literature:
+Other predicted indications show the same pattern, with scores between 0.9906 and 0.9947, and none has supporting trials or literature:
 
 | Rank | Predicted Indication | Score | Assessment |
 |------|------|------|------|
-| 2 | Polyclonal hyperviscosity syndrome | 99.47% | Nifurtimox has no known immunomodulatory or protein-lowering activity |
-| 3 | Hyperamylasemia | 99.47% | A laboratory finding with many causes; for nifurtimox, gastrointestinal adverse effects are the more relevant question |
-| 4 | Blood group incompatibility | 99.24% | An alloimmune process that nitrofurans do not target |
-| 5 | Monoclonal gammopathy | 99.16% | Only preclinical oxidative-stress work in some malignancies; nothing links it to plasma cell disorders |
-| 6 | Premalignant hematological system disease | 99.11% | A broad category not tied to a specific target |
-| 7 | Hematological disease associated with an acquired peripheral neuropathy | 99.06% | Nifurtimox is known to cause peripheral neuropathy, which runs counter to any benefit |
+| 2 | Polyclonal hyperviscosity syndrome | 0.9947 | Nifurtimox has no known immunomodulatory or protein-lowering activity |
+| 3 | Hyperamylasemia | 0.9947 | A laboratory finding with many causes; for nifurtimox, gastrointestinal adverse effects are the more relevant question |
+| 4 | Blood group incompatibility | 0.9924 | An alloimmune process that nitrofurans do not target |
+| 5 | Monoclonal gammopathy | 0.9916 | Only preclinical oxidative-stress work in some malignancies; nothing links it to plasma cell disorders |
+| 6 | Premalignant hematological system disease | 0.9911 | A broad category not tied to a specific target |
+| 7 | Hematological disease associated with an acquired peripheral neuropathy | 0.9906 | Nifurtimox is known to cause peripheral neuropathy, which runs counter to any benefit |
 
 ---
 
@@ -112,7 +112,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a knowledge-graph score. No clinical trials or publications support it, and no plausible biological link exists between a nitrofuran antiprotozoal and a monogenic albumin deficiency. The only US authorization is cancelled. Evidence Level L5 does not justify advancing.
+The prediction rests only on a TxGNN model (deep learning) score. No clinical trials or publications support it, and no plausible biological link exists between a nitrofuran antiprotozoal and a monogenic albumin deficiency. The only US authorization is cancelled. Evidence Level L5 does not justify advancing.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for nifurtimox

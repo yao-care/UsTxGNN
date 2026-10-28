@@ -48,10 +48,10 @@ The prediction rests on the model score alone and has no identified biological r
 |------|------|
 | Original Indication | Not stated in the US license records compiled for this report (gallbladder and pancreatic diagnostic use is inferred from the drug's pharmacology) |
 | Predicted New Indication | Malignant catarrh (malignant catarrhal fever, a viral disease of ruminants) |
-| TxGNN Prediction Score | 99.96% |
+| TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 2 (both cancelled) |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 The predicted indication, malignant catarrhal fever, is a viral disease of ruminants, and no mechanistic link to sincalide has been identified. The score is a model prediction only and has no supporting biological rationale. The prediction is therefore not considered reasonable on current evidence.
 
-The same pattern applies to the other top-ranked predictions. Malignant catarrh and infectious bovine rhinotracheitis have identical scores (99.96%), which suggests a shared graph artifact rather than independent evidence. The thyroid-related predictions (hyperthyroidism, resistance to thyroid hormone due to a THRB mutation, hyperthyroxinemia) form a cluster that points to systematic model bias. Other predicted conditions include cytomegalovirus infection, thrombotic disease, homozygous familial hypercholesterolemia, Prinzmetal angina and amenorrhea. None has a known mechanism or supporting studies.
+The same pattern applies to the other top-ranked predictions. Malignant catarrh and infectious bovine rhinotracheitis have identical scores (0.9996). These scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The thyroid-related predictions (hyperthyroidism, resistance to thyroid hormone due to a THRB mutation, hyperthyroxinemia) form a cluster. Other predicted conditions include cytomegalovirus infection, thrombotic disease, homozygous familial hypercholesterolemia, Prinzmetal angina and amenorrhea. None has a known mechanism or supporting studies.
 
 ## Clinical Trial Evidence
 

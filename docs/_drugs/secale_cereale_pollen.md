@@ -48,17 +48,17 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Not recorded in the available data |
 | Predicted New Indication | Alopecia |
-| TxGNN Prediction Score | 99.01% |
+| TxGNN Prediction Score | 0.9901 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no active license) |
-| Number of NDAs | 1 (BLA101833, cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Secale cereale pollen is a complex botanical extract (rye pollen), and no original indication is recorded for it in the compiled data. A mechanistic link to alopecia therefore cannot be established.
 
-The high TxGNN score (99.01%) is a model-based prediction only. Any plausible link, for example a hypothetical anti-inflammatory effect or a 5-alpha-reductase-related effect from plant sterols, would be speculative and unverified. Treat the prediction as a hypothesis to test, not as supported evidence.
+The high TxGNN score (0.9901) is a model-based prediction only. Any plausible link, for example a hypothetical anti-inflammatory effect or a 5-alpha-reductase-related effect from plant sterols, would be speculative and unverified. Treat the prediction as a hypothesis to test, not as supported evidence.
 
 ## Clinical Trial Evidence
 
@@ -72,7 +72,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA101833 | Cultivated Rye (Greer Laboratories, Inc.) | Solution | Not recorded (license cancelled) |
+| BLA101833 | Cultivated Rye (Greer Laboratories, Inc.) | Solution | Not recorded (license valid) |
 
 ## Safety Considerations
 

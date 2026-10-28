@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Aripiprazole
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 397
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 last_modified_at: 2026-10-14
 description: "Aripiprazole: predicted new indication Major affective disorder (major depressive disorder) (evidence level L1). Approved use: Manic bipolar affective disorder, bipolar disorder, schizophrenia…"
 monitor_inn: "ARIPIPRAZOLE"
-predicted_indications: ["major affective disorder", "gaze palsy, familial horizontal, with progressive scoliosis", "asperger syndrome, susceptibility to", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
+predicted_indications: ["major affective disorder", "gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
 ---
 
 # Aripiprazole
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **major affective disorder** (m
 |------|------|
 | Original Indication | Manic bipolar affective disorder, bipolar disorder, schizophrenia, autism spectrum disorder (the US license records contain no indication text) |
 | Predicted New Indication | Major affective disorder (major depressive disorder) |
-| TxGNN Prediction Score | 99.62% |
-| Evidence Level | L1 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| TxGNN Prediction Score | 0.9962 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 11) |
 | Number of NDAs | 11 (all cancelled) |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -97,7 +97,7 @@ Note: PMID 38669232 (an aripiprazole/bupropion meta-analysis) has been retracted
 
 ## US Market Information
 
-All 11 US licenses are listed as cancelled, and no approved indication text is recorded for any of them.
+The drug is marketed in the US with 11 valid licenses, and no approved indication text is recorded for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -130,7 +130,7 @@ Several completed Phase 3 placebo-controlled adjunctive trials (n=1200, 1151 and
 **To proceed, the following is needed:**
 - Obtain the FDA package insert warnings and contraindications. This blocks the safety screening step.
 - Obtain detailed mechanism of action data.
-- Confirm the current US regulatory status, since all 11 licenses are listed as cancelled.
+- Confirm the current US regulatory status, since the drug is marketed with 11 valid licenses.
 - Define a monitoring plan covering metabolic parameters, akathisia and impulse-control symptoms, with use restricted to adjunctive therapy after inadequate antidepressant response.
 - Check the Major bupropion interaction when planning combination regimens.
 

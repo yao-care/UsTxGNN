@@ -4,7 +4,7 @@ title: Primidone
 parent: Model Prediction Only (L5)
 nav_order: 1083
 evidence_level: L5
-indication_count: 10
+indication_count: 3
 last_modified_at: 2026-10-14
 description: "Primidone: predicted new indication Trigeminal nerve neoplasm (evidence level L5). Approved use: Epilepsy (including generalized tonic-clonic seizures…"
 monitor_inn: "PRIMIDONE"
@@ -14,7 +14,7 @@ predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "be
 # Primidone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ The score is a model output only, with no actual study behind it.
 |------|------|
 | Original Indication | Epilepsy (including generalized tonic-clonic seizures, partial epilepsy, Lennox-Gastaut syndrome) |
 | Predicted New Indication | Trigeminal nerve neoplasm |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 8) |
 | Number of NDAs | 8 (1 NDA and 7 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
@@ -58,7 +58,7 @@ The score is a model output only, with no actual study behind it.
 
 Currently, detailed mechanism of action data is not available. Primidone is an anticonvulsant that is metabolized to phenobarbital and phenylethylmalonamide (PEMA), and its efficacy in epilepsy is well established.
 
-For trigeminal nerve neoplasm, however, the data compiled for this report supports no mechanistic link. There is no rationale for antitumour activity from an antiseizure drug. The very high score (0.99994) likely reflects proximity in the knowledge graph to related nodes such as trigeminal neuralgia or epilepsy, not a biological effect on the tumour.
+For trigeminal nerve neoplasm, however, the data compiled for this report supports no mechanistic link. There is no rationale for antitumor activity from an antiseizure drug. The very high score (0.9999) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases such as trigeminal neuralgia or epilepsy, not biological evidence of an effect on the tumor.
 
 **Other predictions in the same list.** Several other predicted indications are more plausible, though still weakly supported:
 - **Startle epilepsy** and other reflex seizures (orgasm-induced, micturition-induced, thinking, eating, audiogenic, reading seizures): a general antiseizure rationale applies. These are close to the existing epilepsy indications and are arguably extensions rather than true repurposing. Evidence consists only of old case reports, animal studies, and general antiepileptic reviews.
@@ -86,11 +86,11 @@ For reference, the strongest literature attached to the other predicted indicati
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA009170 | Mysoline (Bausch Health US, LLC) | Tablet | Cancelled |
-| ANDA040862 | Primidone (Dr. Reddy's Laboratories Limited) | Tablet | Cancelled |
-| ANDA040866 | Primidone (Bryant Ranch Prepack) | Tablet | Cancelled |
-| ANDA214896 | Primidone (Advagen Pharma Limited) | Tablet | Cancelled |
-| ANDA040586 | Primidone (Bryant Ranch Prepack) | Tablet | Cancelled |
+| NDA009170 | Mysoline (Bausch Health US, LLC) | Tablet | Valid |
+| ANDA040862 | Primidone (Dr. Reddy's Laboratories Limited) | Tablet | Valid |
+| ANDA040866 | Primidone (Bryant Ranch Prepack) | Tablet | Valid |
+| ANDA214896 | Primidone (Advagen Pharma Limited) | Tablet | Valid |
+| ANDA040586 | Primidone (Bryant Ranch Prepack) | Tablet | Valid |
 
 Three more cancelled ANDAs (083551, 218366, 084903) are not shown. All 8 authorizations in the data compiled for this report are cancelled, and none contains approved indication text.
 
@@ -118,7 +118,7 @@ Primidone is metabolized to phenobarbital, an enzyme inducer, which likely expla
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score for trigeminal nerve neoplasm is very high, but there are no clinical trials, no literature, and no plausible mechanism for antitumour activity. The prediction is model output only (L5). All US authorizations are cancelled, and label safety data is missing.
+The TxGNN score for trigeminal nerve neoplasm is very high, but there are no clinical trials, no literature, and no plausible mechanism for antitumor activity. The prediction is model output only (L5). The drug is marketed in the US, with 8 valid licenses, and label safety data is missing.
 
 **To proceed, the following is needed:**
 - Mechanism of action data (e.g., from DrugBank) and any biological rationale linking primidone to trigeminal nerve tumours

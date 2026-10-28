@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **diabetic retinopathy**, but t
 |------|------|
 | Original Indication | Not stated in the US license data (the product is known as an ADA enzyme replacement therapy for ADA-SCID) |
 | Predicted New Indication | Diabetic retinopathy |
-| TxGNN Prediction Score | 99.45% |
+| TxGNN Prediction Score | 0.9945 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 (BLA761092) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -59,7 +59,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 No clear mechanistic link to diabetic retinopathy has been established. The high TxGNN score may reflect network proximity through purine metabolism or adenosine signaling, which has been loosely studied in retinal vascular biology. This is speculation and cannot be checked against known pharmacology without MOA data.
 
-The other top-ranked predictions are also eye diseases: diabetic cataract, severe nonproliferative diabetic retinopathy, and several cataract types (cortical, nuclear senile, mature, immature, tetanic, craniostenosis, and type 2 diabetes-associated). These likely reflect disease-cluster signals in the knowledge graph rather than drug-specific biology. Cataract formation is driven mainly by polyol pathway activation and oxidative stress, and elapegademase has no known lens-targeted activity.
+The other top-ranked predictions are also eye diseases: diabetic cataract, severe nonproliferative diabetic retinopathy, and several cataract types (cortical, nuclear senile, mature, immature, tetanic, craniostenosis, and type 2 diabetes-associated). These scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Cataract formation is driven mainly by polyol pathway activation and oxidative stress, and elapegademase has no known lens-targeted activity.
 
 ## Clinical Trial Evidence
 
@@ -73,7 +73,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA761092 | Revcovi (Chiesi USA, Inc.) | Injection | Not stated in the data compiled for this report (status: cancelled) |
+| BLA761092 | Revcovi (Chiesi USA, Inc.) | Injection | Not stated in the data compiled for this report (status: valid) |
 
 ## Safety Considerations
 

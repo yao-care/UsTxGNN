@@ -48,17 +48,17 @@ but **no clinical trials** and **no directly relevant publications** currently s
 |------|------|
 | Original Indication | Hairy cell leukemia; relapsing-remitting multiple sclerosis (the US license records contain no indication text) |
 | Predicted New Indication | Parameningeal embryonal rhabdomyosarcoma |
-| TxGNN Prediction Score | 99.77% |
+| TxGNN Prediction Score | 0.9977 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all licenses cancelled) |
-| Number of NDAs | 5 (4 ANDAs and 1 NDA) |
+| US Market Status | Marketed (valid licenses: 5 of 5) |
+| Number of NDAs | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, cladribine is an adenosine deaminase-resistant purine nucleoside analog. It is incorporated into DNA and induces apoptosis, mainly in lymphocytes and monocytes that have high deoxycytidine kinase activity. This explains its efficacy in hairy cell leukemia and its use in multiple sclerosis.
 
-Rhabdomyosarcoma is a solid tumor of mesenchymal origin, and it has no established dependence on this pathway. The very high score (0.998) appears to come from the structure of the knowledge graph rather than a specific mechanism. Seven rhabdomyosarcoma-related entries (several subtypes and the parent class) have nearly identical scores (0.997-0.998), which suggests the score is inherited across the disease class. The mechanistic link is therefore weak and unvalidated.
+Rhabdomyosarcoma is a solid tumor of mesenchymal origin, and it has no established dependence on this pathway. The very high score (0.9977) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Seven rhabdomyosarcoma-related entries (several subtypes and the parent class) have nearly identical scores (0.9970-0.9977), which suggests the score is inherited across the disease class. The mechanistic link is therefore weak and unvalidated.
 
 Other predictions in the same set are similar: botryoid-type embryonal rhabdomyosarcoma of the vagina, embryonal extrahepatic bile duct rhabdomyosarcoma, prostate embryonal rhabdomyosarcoma, extrahepatic bile duct rhabdomyosarcoma, rhabdomyosarcoma (disease) and liver sarcoma. None has clinical trial support.
 
@@ -82,7 +82,7 @@ For reference, the only publication linked to the broader prediction set is [152
 | ANDA075405 (Hikma Pharmaceuticals USA) | Cladribine | Injection | Not available (cancelled) |
 | NDA022561 (EMD Serono) | Mavenclad | Tablet | Not available (cancelled) |
 
-All five authorizations are listed as cancelled in the data compiled for this report.
+All five authorizations are listed as valid in the data compiled for this report.
 
 ## Cytotoxicity
 
@@ -109,7 +109,7 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is based on the model score alone (Evidence Level L5). There are no clinical trials and no relevant publications. The mechanism does not clearly fit rhabdomyosarcoma, the score looks inherited from the disease class, and the drug has substantial myelosuppressive and neurotoxic risks. All US licenses are also cancelled.
+The prediction is based on the model score alone (Evidence Level L5). There are no clinical trials and no relevant publications. The mechanism does not clearly fit rhabdomyosarcoma, the score looks inherited from the disease class, and the drug has substantial myelosuppressive and neurotoxic risks. All five US licenses are valid.
 
 **To proceed, the following is needed:**
 - Preclinical validation, such as cell-line sensitivity testing in rhabdomyosarcoma models and deoxycytidine kinase expression analysis

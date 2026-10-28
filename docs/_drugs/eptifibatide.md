@@ -6,7 +6,7 @@ nav_order: 663
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Eptifibatide: predicted new indication Hemoglobinopathy (sickle cell disease) (evidence level L5). Approved use: Acute coronary syndrome"
+description: "Eptifibatide: predicted new indication rheumatoid arthritis (evidence level L5). Approved use: Acute coronary syndrome"
 monitor_inn: "EPTIFIBATIDE"
 predicted_indications: ["rheumatoid arthritis", "sickle cell-hemoglobin E disease syndrome", "sickle cell-beta-thalassemia disease syndrome", "sickle cell-hemoglobin d disease syndrome", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome", "sickle cell-hemoglobin c disease syndrome", "hemoglobinopathy", "female breast carcinoma", "beta-thalassemia with other manifestations", "partial deletion of the short arm of chromosome 16"]
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Eptifibatide: From Acute Coronary Syndrome to Hemoglobinopathy (Sickle Cell Disease)
+## Eptifibatide: From Acute Coronary Syndrome to Rheumatoid Arthritis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -52,9 +52,9 @@ The evidence is early and does not establish efficacy.
 |------|------|
 | Original Indication | Acute coronary syndrome (from the knowledge graph; the US licenses contain no indication text) |
 | Predicted New Indication | Hemoglobinopathy (sickle cell disease); the top-ranked prediction by score is rheumatoid arthritis |
-| TxGNN Prediction Score | 99.98% for hemoglobinopathy (rheumatoid arthritis: 99.99%) |
-| Evidence Level | L2 (hemoglobinopathy; the single Phase 1/2 trial was terminated and is underpowered) |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| TxGNN Prediction Score | 0.9998 for hemoglobinopathy (rheumatoid arthritis: 0.9999) |
+| Evidence Level | L5 (hemoglobinopathy; the single Phase 1/2 trial was terminated and is underpowered) |
+| US Market Status | Marketed (valid licenses on record: at least 7) |
 | Number of NDAs | 7 (all cancelled; these are generic ANDAs) |
 | Recommended Decision | Hold |
 
@@ -72,11 +72,11 @@ The mechanistic link is plausible, but efficacy is not established. Bleeding ris
 
 | Predicted Indication | Score | Evidence Level | Comment |
 |------|------|------|------|
-| Rheumatoid arthritis | 99.99% | L5 | Platelet involvement in synovial inflammation is plausible but indirect; no trials or literature |
-| Other sickle cell genotypes (HbSE, S-beta-thal, HbSD, HPFH-sickle, HbSC) | 99.98% | L5 (HbSC: L4) | Extrapolated from sickle cell studies; the one paper listed for HbSC is an ACS tolerability study of unclear relevance |
-| Female breast carcinoma | 99.97% | L4 | In vitro and organ-on-chip studies only; no clinical oncology data |
-| Beta-thalassemia with other manifestations | 99.97% | L5 | Conceptually plausible (hypercoagulable state); no data |
-| Partial deletion of the short arm of chromosome 16 | 99.96% | L5 | Likely a knowledge-graph artifact (alpha-globin deletion); not a plausible target |
+| Rheumatoid arthritis | 0.9999 | L5 | Platelet involvement in synovial inflammation is plausible but indirect; no trials or literature |
+| Other sickle cell genotypes (HbSE, S-beta-thal, HbSD, HPFH-sickle, HbSC) | 0.9998 | L5 (HbSC: L4) | Extrapolated from sickle cell studies; the one paper listed for HbSC is an ACS tolerability study of unclear relevance |
+| Female breast carcinoma | 0.9997 | L5 | In vitro and organ-on-chip studies only; no clinical oncology data |
+| Beta-thalassemia with other manifestations | 0.9997 | L5 | Conceptually plausible (hypercoagulable state); no data |
+| Partial deletion of the short arm of chromosome 16 | 0.9996 | L5 | Likely a TxGNN model (deep learning) artifact (alpha-globin deletion); not a plausible target |
 
 ---
 
@@ -101,7 +101,7 @@ The mechanistic link is plausible, but efficacy is not established. Bleeding ris
 
 ## US Market Information
 
-All seven authorizations are generic ANDAs with a cancelled status. No approved indication text is recorded for them.
+All seven authorizations are generic ANDAs with a valid status. No approved indication text is recorded for them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -141,7 +141,7 @@ The only direct clinical evidence is a small, terminated Phase 1/2 trial (13 pat
 - Full results and the reason for early termination of NCT00834899, along with the efficacy and bleeding outcomes from the pilot study (PMID 23973010)
 - A bleeding-risk mitigation plan for sickle cell patients, especially those with thrombocytopenia, coagulation disorders, or renal impairment
 - Review of the route of administration (injectable only) for a chronic or recurrent condition
-- Clarification of the current US market and supply situation, since all licenses are cancelled
+- Clarification of the current US market and supply situation, since the drug is marketed with 7 valid licenses
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

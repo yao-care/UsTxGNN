@@ -4,17 +4,17 @@ title: Valsartan
 parent: Moderate Evidence (L3-L4)
 nav_order: 1282
 evidence_level: L4
-indication_count: 7
+indication_count: 6
 last_modified_at: 2026-10-14
-description: "Valsartan: predicted new indication Malignant renovascular hypertension (evidence level L4). Approved use: Hypertensive disorder / hypertension"
 monitor_inn: "VALSARTAN"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease", "Prinzmetal angina"]
+description: "Valsartan: predicted new indication Malignant hypertensive renal disease (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Valsartan
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **7** 
+Evidence Level: **L4** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,23 @@ Evidence Level: **L4** | Predicted Indications: **7**
 
 </div>
 
-## Valsartan: From Hypertension to Malignant Renovascular Hypertension
+## Valsartan: Malignant hypertensive renal disease
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Valsartan is an angiotensin II receptor blocker originally used to treat hypertension.
-The TxGNN model predicts it may be effective for **malignant renovascular hypertension**,
 but there are **0 clinical trials** and only **1 publication** (a preclinical animal study) supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertensive disorder / hypertension |
-| Predicted New Indication | Malignant renovascular hypertension |
-| TxGNN Prediction Score | 99.97% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Malignant hypertensive renal disease |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (all licenses cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 12) |
 | Number of NDAs | 12 (1 NDA and 11 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
@@ -64,7 +63,6 @@ Other predictions in the same list are weaker. Malignant hypertensive renal dise
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials are registered for the lead predicted indication, malignant renovascular hypertension.
 
 For the sixth-ranked prediction, chronic pulmonary heart disease, one trial matched, but it is not relevant:
 
@@ -89,7 +87,7 @@ Literature for other predicted indications is mostly indirect (examples):
 
 ## US Market Information
 
-All 12 US authorizations are listed as cancelled, and none carries approved indication text in the data compiled for this report. Five examples:
+Five examples:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -113,13 +111,12 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high (99.97%), but the evidence is only one preclinical animal paper and no clinical trials (Evidence Level L4). The new indication is also nearly identical to the original hypertension indication, so it adds little novelty. All US licenses are cancelled, and safety label data is missing.
+The prediction score is high (0.9997), but the evidence is only one preclinical animal paper and no clinical trials (Evidence Level L4). The new indication is also nearly identical to the original hypertension indication, so it adds little novelty.
 
 **To proceed, the following is needed:**
 - The FDA package insert (warnings and contraindications), which is a blocking gap for safety screening
 - Detailed mechanism of action data from DrugBank
 - Clinical data specific to valsartan in malignant or renovascular hypertension
-- Clarification of why all US licenses are marked cancelled, and of the current market status
 - A decision on whether this near-duplicate indication is worth pursuing, or whether to prioritize a more distinct candidate
 ## Disclaimer
 

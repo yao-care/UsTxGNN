@@ -8,7 +8,7 @@ indication_count: 3
 monitor_inn: "MIRTAZAPINE"
 predicted_indications: ["Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type", "benign paroxysmal torticollis of infancy"]
 last_modified_at: 2026-10-14
-description: "Mirtazapine: predicted new indication Ohdo syndrome and variants (evidence level L5). Approved use: Unipolar depression, endogenous depression, major depressive disorder…"
+description: "Mirtazapine: predicted new indication Ohdo syndrome and variants (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Mirtazapine
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-## Mirtazapine: From Depression to Ohdo Syndrome and Variants
+## Mirtazapine: Ohdo syndrome and variants
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 | Item | Content |
 |------|------|
-| Original Indication | Unipolar depression, endogenous depression, major depressive disorder, anxiety disorder (from the knowledge graph; no approved-indication text is available in the US license records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Ohdo syndrome and variants |
-| TxGNN Prediction Score | 99.42% |
+| TxGNN Prediction Score | 0.9942 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (none of the licenses is currently valid) |
+| US Market Status | Marketed (valid licenses on record: at least 7) |
 | Number of NDAs | 7 (all are generic ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
@@ -60,9 +60,9 @@ Currently, detailed mechanism of action data is not available. Mirtazapine is ge
 
 Ohdo syndrome (a KAT6B-related condition) is a rare genetic neurodevelopmental disorder. No known pathway connects mirtazapine's pharmacology to its underlying pathophysiology. Any connection would be speculative and possibly limited to symptom-level effects (for example, sleep or appetite), and nothing in the data supports even that.
 
-The score is very high (0.994), but it is a model prediction only. Two other top predictions are also weak:
-- **Blepharophimosis - intellectual disability syndrome, Ohdo type** (score 99.11%): this appears to be a closely related or duplicate disease concept to the top prediction. It likely reflects knowledge-graph overlap and should not be counted as independent evidence.
-- **Benign paroxysmal torticollis of infancy** (score 99.11%): this is a paroxysmal movement disorder of infancy, often considered migraine-related. Mirtazapine has been discussed for migraine prophylaxis or nausea, which is a hypothetical connection at best. No trial or publication supports it, and using mirtazapine in infants would raise significant safety concerns.
+The score is very high (0.9942), but it is a model prediction only. Two other top predictions are also weak:
+- **Blepharophimosis - intellectual disability syndrome, Ohdo type** (score 0.9911): this appears to be a closely related or duplicate disease concept to the top prediction. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It should not be counted as independent evidence.
+- **Benign paroxysmal torticollis of infancy** (score 0.9911): this is a paroxysmal movement disorder of infancy, often considered migraine-related. Mirtazapine has been discussed for migraine prophylaxis or nausea, which is a hypothetical connection at best. No trial or publication supports it, and using mirtazapine in infants would raise significant safety concerns.
 
 ## Clinical Trial Evidence
 
@@ -107,7 +107,7 @@ Moderate-level interactions include famotidine, loperamide, aprepitant, morphine
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a high model score but no clinical trials, no literature and no supported mechanistic link (Evidence Level L5). The second prediction is likely a duplicate of the first. The third would involve infant use with no pediatric data. In addition, all US licenses for mirtazapine are cancelled, and the safety data are incomplete.
+The prediction has a high model score but no clinical trials, no literature and no supported mechanistic link (Evidence Level L5). The second prediction is likely a duplicate of the first. The third would involve infant use with no pediatric data. In addition, mirtazapine is marketed in the US with 7 valid licenses, and the safety data are incomplete.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for mirtazapine, to assess any plausible link to KAT6B-related or paroxysmal movement disorders

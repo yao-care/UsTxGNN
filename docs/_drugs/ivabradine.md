@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "IVABRADINE"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-10-14
-description: "Ivabradine: predicted new indication Hypertrichosis (disease) (evidence level L5). Approved use: Not available in the data compiled for this report"
+last_modified_at: 2026-10-28
+description: "Ivabradine: predicted new indication Hypertrichosis (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Ivabradine
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-## Ivabradine: From Cardiovascular Use to Hypertrichosis (Computational Prediction Only)
+## Ivabradine: Hypertrichosis (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ Ivabradine is a heart-rate-lowering drug that selectively inhibits the HCN chann
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in the data compiled for this report (the US license records contain no indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Hypertrichosis (disease) |
-| TxGNN Prediction Score | 99.79% |
+| TxGNN Prediction Score | 0.9979 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no active licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 7) |
 | Number of NDAs | 7 authorizations in total (1 NDA, 6 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
@@ -60,9 +60,9 @@ Ivabradine is a heart-rate-lowering drug that selectively inhibits the HCN chann
 
 Detailed mechanism of action data is not available in the data compiled for this report. Ivabradine is generally known as a selective inhibitor of the HCN channel (If current) in the sinoatrial node, which lowers heart rate.
 
-For the predicted indication, **no established mechanistic link** to hair growth regulation was identified. HCN channel expression in hair follicles is speculative and unsupported by the available data. The high score (0.998) most likely reflects similarity patterns in the knowledge graph rather than a true biological relationship.
+For the predicted indication, **no established mechanistic link** to hair growth regulation was identified. HCN channel expression in hair follicles is speculative and unsupported by the available data. The high score (0.9979) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
-The other top predictions show the same pattern: Ambras-type hypertrichosis (99.72%), a malformation syndrome with a dental/periodontal component (99.72%), Dandy-Walker malformation syndromes (99.70%), isolated genetic hair shaft abnormality (99.69%), and nephrogenic syndrome of inappropriate antidiuresis (99.08%). Each is a genetic or developmental condition with no plausible link to HCN channel inhibition and no supporting trials or publications.
+The other top predictions show the same pattern: Ambras-type hypertrichosis (0.9972), a malformation syndrome with a dental/periodontal component (0.9972), Dandy-Walker malformation syndromes (0.9970), isolated genetic hair shaft abnormality (0.9969), and nephrogenic syndrome of inappropriate antidiuresis (0.9908). Each is a genetic or developmental condition with no plausible link to HCN channel inhibition and no supporting trials or publications.
 
 ---
 
@@ -80,7 +80,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-All seven authorizations are cancelled. The data compiled for this report contain no approved indication text for any of them.
+All seven authorizations are valid. The data compiled for this report contain no approved indication text for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -108,7 +108,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is computational only (Evidence Level L5). There are no clinical trials or publications, no plausible mechanistic link between HCN channel inhibition and hair growth, and all US licenses are cancelled.
+The prediction is computational only (Evidence Level L5). There are no clinical trials or publications, no plausible mechanistic link between HCN channel inhibition and hair growth, and the drug is marketed with 7 valid licenses.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

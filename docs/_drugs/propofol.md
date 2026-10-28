@@ -48,9 +48,9 @@ with **3 clinical trials** and **20 publications** currently supporting this dir
 |------|------|
 | Original Indication | Not stated in the available license records (propofol is generally known as an intravenous anesthetic/sedative) |
 | Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.69% |
+| TxGNN Prediction Score | 0.9969 |
 | Evidence Level | L2 |
-| US Market Status | Cancelled only (all 9 licenses listed as cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 9) |
 | Number of NDAs | 9 licenses (1 NDA and 8 ANDAs) |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -91,11 +91,11 @@ Another trial, a double-blind randomized trial of propofol versus placebo in adu
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA019627 | Diprivan (Fresenius Kabi) | Injectable emulsion | Not stated; license cancelled |
-| ANDA075102 | Propofol (Sagent) | Injectable emulsion | Not stated; license cancelled |
-| ANDA074848 | Propofol (Hikma) | Injectable emulsion | Not stated; license cancelled |
-| ANDA205067 | Propofol Injectable Emulsion (Dr. Reddy's) | Injectable emulsion | Not stated; license cancelled |
-| ANDA205576 | Propofol (Pfizer) | Injectable emulsion | Not stated; license cancelled |
+| NDA019627 | Diprivan (Fresenius Kabi) | Injectable emulsion | Not stated; license valid |
+| ANDA075102 | Propofol (Sagent) | Injectable emulsion | Not stated; license valid |
+| ANDA074848 | Propofol (Hikma) | Injectable emulsion | Not stated; license valid |
+| ANDA205067 | Propofol Injectable Emulsion (Dr. Reddy's) | Injectable emulsion | Not stated; license valid |
+| ANDA205576 | Propofol (Pfizer) | Injectable emulsion | Not stated; license valid |
 
 There are 9 licenses in total, all listed as cancelled; the table shows the 5 main ones.
 
@@ -112,7 +112,7 @@ Please refer to the package insert for the full warnings and contraindications, 
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Several randomized trials and systematic reviews support low-dose propofol for acute migraine in the emergency department, including pediatric populations. However, the trials are small, one was terminated early, and the evidence is mostly limited to monitored settings. All US licenses are currently cancelled, and label safety data are missing.
+Several randomized trials and systematic reviews support low-dose propofol for acute migraine in the emergency department, including pediatric populations. However, the trials are small, one was terminated early, and the evidence is mostly limited to monitored settings. The drug is currently marketed in the US with 9 valid licenses, and label safety data are missing.
 
 **To proceed, the following is needed:**
 - Obtain and review the FDA package insert warnings and contraindications (currently a blocking gap)
@@ -125,10 +125,10 @@ Several randomized trials and systematic reviews support low-dose propofol for a
 
 | Predicted Indication | TxGNN Score | Evidence Level | Decision | Comment |
 |------|------|------|------|------|
-| Migraine with brainstem aura | 99.58% | L3 | Research Question | Plausible mechanism through cortical spreading depression, but no subtype-specific evidence; sedation and respiratory depression are more consequential in brainstem dysfunction |
-| Prinzmetal angina | 99.23% | L4 | Hold | Case reports describe coronary spasm triggered during anesthesia, which is a safety signal rather than a benefit |
-| Nephrogenic syndrome of inappropriate antidiuresis | 99.20% | L5 | Hold | No mechanistic link or evidence |
-| Tourette syndrome | 99.03% | L4 | Hold | Evidence concerns propofol as sedation during deep brain stimulation surgery, not as a treatment for tics |
+| Migraine with brainstem aura | 0.9958 | L5 | Research Question | Plausible mechanism through cortical spreading depression, but no subtype-specific evidence; sedation and respiratory depression are more consequential in brainstem dysfunction |
+| Prinzmetal angina | 0.9923 | L5 | Hold | Case reports describe coronary spasm triggered during anesthesia, which is a safety signal rather than a benefit |
+| Nephrogenic syndrome of inappropriate antidiuresis | 0.9920 | L5 | Hold | No mechanistic link or evidence |
+| Tourette syndrome | 0.9903 | L4 | Hold | Evidence concerns propofol as sedation during deep brain stimulation surgery, not as a treatment for tics |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Mycophenolic Acid
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 947
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 monitor_inn: "MYCOPHENOLIC ACID"
 predicted_indications: ["hemoglobinopathy", "migraine disorder", "migraine with brainstem aura", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations", "pyropoikilocytosis, hereditary", "hemolytic anemia due to glucophosphate isomerase deficiency", "pyruvate kinase deficiency of red cells", "rheumatoid arthritis", "antithrombin deficiency type 2"]
@@ -14,7 +14,7 @@ description: "Mycophenolic Acid: predicted new indication Hemoglobinopathy (evid
 # Mycophenolic Acid
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ The prediction is best treated as a research question rather than an actionable 
 |------|------|
 | Original Indication | Not specified in the available US license data |
 | Predicted New Indication | Hemoglobinopathy |
-| TxGNN Prediction Score | 99.60% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (no active marketing) |
-| Number of NDAs | 1 (ANDA091248, cancelled) |
+| TxGNN Prediction Score | 0.9960 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -106,7 +106,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The 99.60% TxGNN score is a computational prediction. The only supporting material is indirect: a trial of a different drug (basiliximab) and a pharmacokinetic dosing paper. No efficacy data show that mycophenolic acid treats hemoglobinopathy itself. The US product is also cancelled.
+The 0.9960 TxGNN score is a computational prediction. The only supporting material is indirect: a trial of a different drug (basiliximab) and a pharmacokinetic dosing paper. No efficacy data show that mycophenolic acid treats hemoglobinopathy itself. The US product is also cancelled.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
@@ -118,7 +118,7 @@ The 99.60% TxGNN score is a computational prediction. The only supporting materi
 
 ## Other Predicted Indications (Brief Note)
 
-- **Rheumatoid arthritis** (score 99.18%, evidence level L3): The IMPDH mechanism gives a rational basis for autoimmune disease, and early investigational literature (1993–1999) exists. However, no confirmatory randomized efficacy data are present, and the single trial found is a terminated vaccine-response study. It is a more mechanistically plausible candidate than hemoglobinopathy, but still a research question.
+- **Rheumatoid arthritis** (score 0.9918, evidence level L3): The IMPDH mechanism gives a rational basis for autoimmune disease, and early investigational literature (1993–1999) exists. However, no confirmatory randomized efficacy data are present, and the single trial found is a terminated vaccine-response study. It is a more mechanistically plausible candidate than hemoglobinopathy, but still a research question.
 - **Migraine, partial deletion of chromosome 16p, pyropoikilocytosis, glycolytic enzyme deficiencies, antithrombin deficiency type 2, and other entries**: Prediction only, with no clinical or literature support and no plausible link to IMPDH inhibition. Hold.
 ## Disclaimer
 

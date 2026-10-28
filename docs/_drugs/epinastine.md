@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **rosacea conjunctivitis**, but
 |------|------|
 | Original Indication | Atopic conjunctivitis, papillary conjunctivitis, vernal conjunctivitis |
 | Predicted New Indication | Rosacea conjunctivitis |
-| TxGNN Prediction Score | 99.57% |
+| TxGNN Prediction Score | 0.9957 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 1 (an ANDA, cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -63,7 +63,7 @@ Epinastine is a histamine H1 receptor antagonist with mast-cell stabilizing acti
 
 Its efficacy is established in allergic conjunctival conditions, where histamine and mast-cell mediators drive itching and surface inflammation. Ocular rosacea involves meibomian gland dysfunction, inflammation and ocular surface irritation. It may also have an allergic or histamine-mediated component. That gives a plausible but only indirect link.
 
-The very high TxGNN score (99.57%) is a computational prediction. It most likely reflects network proximity to the existing conjunctivitis indications rather than direct evidence in rosacea. No trials or publications were found to confirm it.
+The very high TxGNN score (0.9957) is a computational prediction. It most likely reflects network proximity to the existing conjunctivitis indications rather than direct evidence in rosacea. No trials or publications were found to confirm it.
 
 ---
 
@@ -83,7 +83,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| ANDA090951 | Epinastine Hydrochloride (Somerset Therapeutics, LLC) | Solution / drops | Cancelled |
+| ANDA090951 | Epinastine Hydrochloride (Somerset Therapeutics, LLC) | Solution / drops | Valid |
 
 The only US license on record is cancelled, so the drug's practical availability would need verification.
 
@@ -107,7 +107,7 @@ The prediction for rosacea conjunctivitis rests only on a model score, with no r
 - Detailed mechanism of action data from DrugBank
 - Targeted literature and trial searches on antihistamines or mast-cell stabilizers in ocular rosacea
 - Confirmation of current US availability, since the only license is cancelled
-- Consideration of the second-ranked prediction, **allergic urticaria** (score 99.28%, evidence level L3). It is supported by reviews and histamine wheal-and-flare studies in healthy volunteers, including a double-blind crossover RCT (PMID 10442525). These are surrogate pharmacodynamic data, not trials in urticaria patients, so it is best treated as a research question rather than a development candidate.
+- Consideration of the second-ranked prediction, **allergic urticaria** (score 0.9928, evidence level L3). It is supported by reviews and histamine wheal-and-flare studies in healthy volunteers, including a double-blind crossover RCT (PMID 10442525). These are surrogate pharmacodynamic data, not trials in urticaria patients, so it is best treated as a research question rather than a development candidate.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

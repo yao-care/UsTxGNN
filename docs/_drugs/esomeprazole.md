@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Esomeprazole
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 672
-evidence_level: L4
-indication_count: 3
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-14
-description: "Esomeprazole: predicted new indication Duodenogastric reflux (evidence level L4). Approved use: Peptic ulcer disease, GERD, esophagitis, Zollinger-Ellison syndrome"
 monitor_inn: "ESOMEPRAZOLE"
 predicted_indications: ["duodenal obstruction"]
+description: "Esomeprazole: predicted new indication Duodenal obstruction (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Esomeprazole
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Evidence Level: **L4** | Predicted Indications: **3**
 
 </div>
 
-## Esomeprazole: From Peptic Ulcer Disease and GERD to Duodenogastric Reflux
+## Esomeprazole: Duodenal obstruction
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Esomeprazole is a proton pump inhibitor originally used for acid-related conditions such as peptic ulcer disease and gastroesophageal reflux disease (GERD).
-The TxGNN model predicts it may be effective for **duodenogastric reflux**, but this rests on **0 registered clinical trials** and **1 general review article**, so the evidence is thin.
 
 ---
 
@@ -47,11 +46,11 @@ The TxGNN model predicts it may be effective for **duodenogastric reflux**, but 
 
 | Item | Content |
 |------|------|
-| Original Indication | Peptic ulcer disease, GERD, esophagitis, Zollinger-Ellison syndrome (the approval text in the US license records is blank, so these come from the knowledge graph) |
-| Predicted New Indication | Duodenogastric reflux |
-| TxGNN Prediction Score | 99.53% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Duodenal obstruction |
+| TxGNN Prediction Score | 0.9945 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of NDAs | 5 |
 | Recommended Decision | Hold |
 
@@ -81,7 +80,6 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All five US licenses are cancelled, and none is currently valid.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -107,12 +105,11 @@ Please refer to the package insert for label warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high, but no clinical trials exist for duodenogastric reflux and the only literature is a general PPI review. The mechanistic link is indirect, because the condition is largely non-acid driven. Esomeprazole also has no currently valid US license.
+The mechanistic link is indirect, because the condition is largely non-acid driven.
 
 **To proceed, the following is needed:**
 - Clinical or observational evidence of esomeprazole in duodenogastric (bile) reflux, including symptom and mucosal outcomes
 - Detailed mechanism of action data and a clear argument for benefit beyond acid suppression
-- Clarification of US regulatory status, since all licenses are listed as cancelled
 - Label warnings and contraindications from the FDA package insert
 - A review of the DDI burden for the likely patient population
 

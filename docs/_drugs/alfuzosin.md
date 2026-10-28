@@ -40,7 +40,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 Alfuzosin is an alpha-1 adrenergic receptor antagonist originally used to treat benign prostatic hyperplasia (BPH).
 The TxGNN model predicts it may be effective for **Ambras type hypertrichosis universalis congenita**,
-but **no clinical trials and no publications** currently support this prediction, so it rests on a model-based graph prediction alone.
+but **no clinical trials and no publications** currently support this prediction, so it rests on the TxGNN model (deep learning) score alone, which may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Quick Overview
 
@@ -48,17 +48,17 @@ but **no clinical trials and no publications** currently support this prediction
 |------|------|
 | Original Indication | Benign prostatic hyperplasia |
 | Predicted New Indication | Ambras type hypertrichosis universalis congenita |
-| TxGNN Prediction Score | 99.999% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 6 (all cancelled) |
+| US Market Status | Marketed (valid licenses: 6 of 6) |
+| Number of NDAs | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, alfuzosin is a uroselective alpha-1 adrenergic receptor antagonist, and its efficacy in BPH rests on relaxing smooth muscle in the prostate and bladder neck.
 
-No established mechanistic link to the predicted indication was identified. Ambras syndrome is a rare genetic disorder caused by chromosomal rearrangements near 8q22 that affect regulation of the *TRPS1* gene. Alpha-1 blockade is not known to act on this pathway. The very high score most likely reflects network proximity to hair-related phenotypes in the knowledge graph. It may also reflect an adverse-effect-like association, since hypertrichosis is a known side effect of some vasodilators such as minoxidil, rather than a therapeutic effect.
+No established mechanistic link to the predicted indication was identified. Ambras syndrome is a rare genetic disorder caused by chromosomal rearrangements near 8q22 that affect regulation of the *TRPS1* gene. Alpha-1 blockade is not known to act on this pathway. The very high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It may also reflect an adverse-effect-like association, since hypertrichosis is a known side effect of some vasodilators such as minoxidil, rather than a therapeutic effect.
 
 The other top-ranked predictions show the same pattern. They are mostly hair-related or rare congenital conditions (hypertrichosis, trichomegaly, hair shaft abnormalities, hypotrichosis), along with allergic urticaria and persistent fetal circulation syndrome. None has supporting clinical or literature evidence. Several have a safety concern or a mechanism pointing the wrong way. For example, alfuzosin has reported hypersensitivity and urticarial reactions, and systemic alpha-1 blockade in neonates risks hypotension.
 
@@ -74,13 +74,13 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA021287 | Uroxatral (Advanz Pharma (US) Corp.) | Extended-release tablet | Cancelled |
-| ANDA079013 | Alfuzosin Hydrochloride (Apotex Corp.) | Extended-release tablet | Cancelled |
-| ANDA079057 | Alfuzosin Hydrochloride (Northwind Health Company, LLC) | Extended-release tablet | Cancelled |
-| ANDA079060 | Alfuzosin Hydrochloride (Rising Pharma Holdings, Inc.) | Film-coated extended-release tablet | Cancelled |
-| ANDA090284 | Alfuzosin hydrochloride (Aphena Pharma Solutions - Tennessee, LLC) | Extended-release tablet | Cancelled |
+| NDA021287 | Uroxatral (Advanz Pharma (US) Corp.) | Extended-release tablet | Valid |
+| ANDA079013 | Alfuzosin Hydrochloride (Apotex Corp.) | Extended-release tablet | Valid |
+| ANDA079057 | Alfuzosin Hydrochloride (Northwind Health Company, LLC) | Extended-release tablet | Valid |
+| ANDA079060 | Alfuzosin Hydrochloride (Rising Pharma Holdings, Inc.) | Film-coated extended-release tablet | Valid |
+| ANDA090284 | Alfuzosin hydrochloride (Aphena Pharma Solutions - Tennessee, LLC) | Extended-release tablet | Valid |
 
-All 6 US authorizations are cancelled (one further generic, ANDA203192 from Unichem, is not shown). Approved indication text was not available for any of them.
+All 6 US authorizations are valid (one further generic, ANDA203192 from Unichem, is not shown). Approved indication text was not available for any of them.
 
 ## Safety Considerations
 
@@ -108,7 +108,7 @@ Package insert warnings and contraindications were not available. Please refer t
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trials and no literature behind it, so it sits at evidence level L5 despite the very high model score. No plausible mechanism links alpha-1 blockade to Ambras syndrome, and the signal may reflect an adverse-effect association instead of a therapeutic one. All US licenses are also cancelled.
+The prediction has no clinical trials and no literature behind it, so it sits at evidence level L5 despite the very high model score. No plausible mechanism links alpha-1 blockade to Ambras syndrome, and the signal may reflect an adverse-effect association instead of a therapeutic one. The drug is marketed in the US, with all 6 licenses valid.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications for safety screening

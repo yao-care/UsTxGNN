@@ -4,17 +4,17 @@ title: Tretinoin
 parent: Model Prediction Only (L5)
 nav_order: 1257
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "TRETINOIN"
-predicted_indications: ["rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "juvenile idiopathic arthritis", "juvenile chronic polyarthritis", "spondyloarthropathy, susceptibility to", "juvenile arthritis due to defect in LACC1", "osteoarthritis", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "Quinquaud's folliculitis decalvans"]
+predicted_indications: ["rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "juvenile idiopathic arthritis", "juvenile chronic polyarthritis", "juvenile arthritis due to defect in LACC1", "osteoarthritis", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "Quinquaud's folliculitis decalvans"]
 last_modified_at: 2026-10-14
-description: "Tretinoin: predicted new indication Rheumatoid nodulosis (evidence level L5). Approved use: Acne, acute promyelocytic leukemia, acquired keratosis…"
+description: "Tretinoin: predicted new indication Rheumatoid nodulosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Tretinoin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Tretinoin: From Acne and Acute Promyelocytic Leukemia to Rheumatoid Nodulosis
+## Tretinoin: Rheumatoid nodulosis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ The prediction is computational only.
 
 | Item | Content |
 |------|------|
-| Original Indication | Acne, acute promyelocytic leukemia, acquired keratosis, palmoplantar keratoderma (from the knowledge graph; no approved-indication text is available in the US license records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Rheumatoid nodulosis |
-| TxGNN Prediction Score | 99.84% |
+| TxGNN Prediction Score | 0.9984 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 16) |
 | Number of NDAs | 16 licenses in total (6 NDAs and 10 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
@@ -58,7 +58,7 @@ The prediction is computational only.
 
 Currently, detailed mechanism of action data is not available. Tretinoin is a retinoid (a vitamin A derivative) with established efficacy in acne and acute promyelocytic leukemia. Mechanistically, it may be applicable to rheumatoid nodulosis, but this has not been tested.
 
-A plausible but unverified link is retinoid-mediated modulation of inflammation and of fibroblast and tissue remodeling. The high TxGNN score (0.998) reflects network proximity in the knowledge graph, not demonstrated efficacy. Rheumatoid nodulosis is also very different from the original indications (skin keratinization disorders and a blood cancer), so the similarity to the original use has not been established.
+A plausible but unverified link is retinoid-mediated modulation of inflammation and of fibroblast and tissue remodeling. The high TxGNN score (0.9984) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Rheumatoid nodulosis is also very different from the original indications (skin keratinization disorders and a blood cancer), so the similarity to the original use has not been established.
 
 The other top predictions are mostly juvenile and rheumatoid-type arthritis conditions (for example rheumatoid factor-positive polyarticular juvenile idiopathic arthritis, juvenile idiopathic arthritis, and juvenile chronic polyarthritis) and skeletal dysplasias. None has trial or literature support. The pediatric and skeletal ones also raise safety concerns, because retinoids can harm bone growth.
 
@@ -76,7 +76,7 @@ For reference, the only publications retrieved for any top-ranked prediction con
 
 ## US Market Information
 
-All 16 US licenses are cancelled and no approved-indication text is on record. The five main ones are:
+There are 16 valid US licenses and no approved-indication text is on record. The five main ones are:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -126,7 +126,7 @@ Please refer to the package insert for full warnings and contraindications, whic
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests solely on a computational score. There are no clinical trials or supporting publications, and the evidence level is L5. Mechanism data, label safety data, and route compatibility are missing, and there is no active US license.
+The prediction rests solely on a computational score. There are no clinical trials or supporting publications, and the evidence level is L5.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

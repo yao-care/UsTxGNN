@@ -6,9 +6,9 @@ nav_order: 916
 evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-14
-description: "Methylphenidate: predicted new indication Faciodigitogenital syndrome (evidence level L5). Approved use: Attention deficit hyperactivity disorder (ADHD)"
 monitor_inn: "METHYLPHENIDATE"
 predicted_indications: ["faciodigitogenital syndrome", "chondromyxoid fibroma", "specific developmental disorder", "dysthymic disorder"]
+description: "Methylphenidate: predicted new indication Faciodigitogenital syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Methylphenidate
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-## Methylphenidate: From Attention Deficit Hyperactivity Disorder to Faciodigitogenital Syndrome
+## Methylphenidate: Faciodigitogenital syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,11 +45,11 @@ The TxGNN model predicts it may be effective for **Faciodigitogenital Syndrome**
 
 | Item | Content |
 |------|------|
-| Original Indication | Attention deficit hyperactivity disorder (ADHD); also narcolepsy and other central nervous system conditions in the knowledge graph |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Faciodigitogenital syndrome |
-| TxGNN Prediction Score | 99.998% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 18) |
 | Number of NDAs | 18 authorizations in total (all cancelled; includes both NDAs and ANDAs) |
 | Recommended Decision | Hold |
 
@@ -71,7 +71,7 @@ Currently no related literature available for faciodigitogenital syndrome.
 
 For reference, the literature found for the other predictions is indirect. The most relevant items are listed below.
 
-**Specific developmental disorder (rank 3, score 99.988%, Evidence Level L4)**
+**Specific developmental disorder (rank 3, score 0.9999, Evidence Level L4)**
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
@@ -83,7 +83,7 @@ For reference, the literature found for the other predictions is indirect. The m
 | [22449217](https://pubmed.ncbi.nlm.nih.gov/22449217/) | 2012 | Review | Expert Rev Neurother | Review of psychostimulants for ADHD-like symptoms in autism spectrum disorders |
 | [36688969](https://pubmed.ncbi.nlm.nih.gov/36688969/) | 2024 | Not classified | Eur Child Adolesc Psychiatry | Effects of methylphenidate and physiotherapy on graphomotor movements in children with ADHD |
 
-**Dysthymic disorder (rank 4, score 99.109%, Evidence Level L4)**
+**Dysthymic disorder (rank 4, score 0.9911, Evidence Level L4)**
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
@@ -95,7 +95,7 @@ Several other retrieved records were off-topic (for example, synthetic cathinone
 
 ## US Market Information
 
-All 18 authorizations are marked as cancelled, and the approved indication text is not available in the data compiled for this report. The main ones are:
+All 18 authorizations are marked as valid, and the approved indication text is not available in the data compiled for this report. The main ones are:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -120,13 +120,13 @@ Please refer to the package insert for official warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score for faciodigitogenital syndrome is very high, but there are no clinical trials or publications, and the only plausible link is indirect (treating ADHD-like symptoms). The other predictions are also unsupported: chondromyxoid fibroma has no plausible mechanism and is likely a knowledge-graph artifact, while specific developmental disorder and dysthymic disorder rely on indirect ADHD evidence. The US market status is also "cancelled only", and the safety profile includes many cardiovascular and psychiatric concerns.
+The TxGNN score for faciodigitogenital syndrome is very high, but there are no clinical trials or publications, and the only plausible link is indirect (treating ADHD-like symptoms). The other predictions are also unsupported: chondromyxoid fibroma has no plausible mechanism and is likely a TxGNN model (deep learning) artifact, while specific developmental disorder and dysthymic disorder rely on indirect ADHD evidence. The US market status is also "cancelled only", and the safety profile includes many cardiovascular and psychiatric concerns.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data
 - Case reports or clinical studies of methylphenidate in Aarskog-Scott syndrome, particularly for ADHD-like symptoms
-- Confirmation of whether methylphenidate products are currently marketed, since all US licenses in the data are cancelled
+- Confirmation of the approved indications of methylphenidate products, since the approved indication text is not available in the data compiled for this report
 - Cardiovascular and psychiatric risk assessment for the target population
 ## Disclaimer
 

@@ -5,10 +5,10 @@ parent: Model Prediction Only (L5)
 nav_order: 224
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-14
-description: "Allantoin: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Psoriasis, parapsoriasis, seborrheic dermatitis, pityriasis simplex…"
 monitor_inn: "ALLANTOIN"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "acne keloid", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis", "hydroa vacciniforme, familial", "exanthem (disease)"]
+last_modified_at: 2026-10-27
+description: "Allantoin: predicted new indication severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Allantoin
@@ -33,44 +33,32 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-## Allantoin: From Psoriasis and Dermatitis to Severe Nonproliferative Diabetic Retinopathy
+## Allantoin: Topical keratolytic and wound-healing agent → severe nonproliferative diabetic retinopathy
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Allantoin is a topical skin-care ingredient, listed in the knowledge graph for psoriasis, seborrheic dermatitis and related skin conditions.
-The TxGNN model predicts it may be effective for **severe nonproliferative diabetic retinopathy**,
-but **0 clinical trials** and **0 publications** currently support this direction, so it remains a model prediction only.
+Allantoin is a topical keratolytic and skin-soothing agent used in dermatologic and skin-care products.
+The TxGNN model predicts it may be relevant to **severe nonproliferative diabetic retinopathy**,
+but **no clinical trials and no publications** currently support this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Psoriasis, parapsoriasis, seborrheic dermatitis, pityriasis simplex, dermatitis, seborrheic keratosis (from the knowledge graph; no approved indication text is available in the US license records) |
-| Predicted New Indication | Severe nonproliferative diabetic retinopathy |
-| TxGNN Prediction Score | 99.56% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | severe nonproliferative diabetic retinopathy |
+| TxGNN Prediction Score | 0.9956 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid listings) |
-| Number of NDAs | 4 (all cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 4) |
+| Number of NDAs | at least 4 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Allantoin is known as a topical keratolytic and wound-healing agent used in dermatologic and skin-care products, and nothing in the data compiled for this report connects it to retinal microvascular disease.
+Currently, detailed mechanism of action data is not available. Allantoin is generally known as a topical agent with keratolytic and wound-healing properties, used in skin products, and nothing in the data compiled for this report connects it to retinal microvascular disease.
 
-The high TxGNN score is a knowledge-graph prediction only. Using allantoin for diabetic retinopathy would require systemic or intravitreal delivery, which is far from its topical dermatologic profile. The prediction is therefore not mechanistically supported at this time.
-
-**Other predicted indications (all L5, all Hold):**
-
-| Rank | Predicted Disease | TxGNN Score | Comment |
-|------|------|------|------|
-| 2 | Acrodermatitis chronica atrophicans | 99.50% | Late-stage Lyme skin manifestation. Causal treatment is antibiotics, so at most symptomatic skin care is conceivable. |
-| 3 | Neonatal dermatomyositis | 99.48% | Immune-mediated disease. No immunomodulatory mechanism documented, and neonatal safety is unassessed. |
-| 4 | Acne keloid | 99.48% | The most biologically plausible, since allantoin is used in scar products. The link is still hypothetical. |
-| 5 | Secondary childhood interstitial lung disease with connective tissue disease | 99.44% | No pulmonary activity documented. Pediatric safety and lung delivery are unaddressed. |
-| 6 | Amyopathic dermatomyositis | 99.43% | Skin-limited presentation overlaps with allantoin's dermatologic scope, but the underlying autoimmune process would not be addressed. |
-| 7 | Hydroa vacciniforme, familial | 99.23% | Rare photosensitive disorder. At most non-specific symptomatic benefit. |
-| 8 | Exanthem (disease) | 99.10% | Non-specific rash. Any benefit would be limited to skin soothing. |
+The prediction therefore rests on the TxGNN model score alone (0.9956). Using allantoin for a retinal disease would likely require systemic or intravitreal delivery, which is far from its topical profile. The mechanistic link should be regarded as unestablished, and the prediction as hypothesis-generating only.
 
 ## Clinical Trial Evidence
 
@@ -84,39 +72,32 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| M016 | Earthmed Sport massage oil | Oil | Not specified (cancelled) |
-| M017 | Walgreens Advanced Scar Gel | Gel | Not specified (cancelled) |
-| 505G(a)(3) | TriDerma Protect Heal Non Greasy Barrier Cream | Cream | Not specified (cancelled) |
-| nan | LESONEL FEMININE FOAMING WASH | Liquid | Not specified (cancelled) |
+| M016 | Earthmed Sport massage oil | Oil | Not recorded |
+| M017 | Walgreens Advanced Scar Gel | Gel | Not recorded |
+| 505G(a)(3) | TriDerma Protect Heal Non Greasy Barrier Cream | Cream | Not recorded |
+| nan | LESONEL FEMININE FOAMING WASH | Liquid | Not recorded |
 
-All four listings are cancelled, and none is a currently valid product.
+The licence list may be partial.
 
 ## Safety Considerations
 
-The package insert warnings and contraindications could not be retrieved for this report, so please refer to the package insert for safety information.
+- **Disease-related cautions (not label text)**: The data compiled for this report flag possible contraindication relations with inherited porphyria, porphyria, porphyrin metabolism disease, kidney disease, liver disease, gallbladder disease, hematologic disease, G6PD deficiency, glycogen storage disease, cystinuria, galactosemia, pyoureter, folliculitis, seborrheic dermatitis and dermatitis. These are not confirmed by package-insert text and should be verified.
+- **Drug Interactions**: No interactions were found in the queried data.
 
-The knowledge graph links allantoin to the following contraindication-related conditions. These come from graph edges rather than label text and should be verified:
-- **Metabolic and porphyria disorders**: inherited porphyria, porphyrin metabolism disease, porphyria, G6PD deficiency, glycogen storage disease, cystinuria, galactosemia
-- **Organ disease**: kidney disease, pyoureter, hematologic disease, liver disease, gallbladder disease
-- **Skin conditions**: folliculitis, seborrheic dermatitis, dermatitis
-
-Note that seborrheic dermatitis and dermatitis appear both as original indications and as graph contraindications, an inconsistency that needs clarification.
-
-No drug interaction records were found.
+Please refer to the package insert for further safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a knowledge-graph score, with no clinical trials, no literature, and no established mechanism. The drug is a topical dermatologic agent with no valid US listings, and the proposed retinal use would need a completely different delivery route.
+The prediction has a high model score but no supporting trials or publications, and no mechanistic link to retinal disease is established. Delivery to the eye would also be a major departure from the drug's topical use.
 
 **To proceed, the following is needed:**
-- Mechanism of action data (MOA) for allantoin
-- FDA package insert warnings and contraindications (a blocking gap for safety screening)
-- Resolution of the inconsistency between original indications and graph contraindications
-- Route-compatibility assessment for each predicted indication
-- For a more plausible lead such as acne keloid, a dedicated preclinical or small pilot study before any recommendation
+- Mechanism of action data for allantoin
+- Preclinical evidence in diabetic retinopathy models
+- Assessment of a feasible route of administration and ocular safety
+- Package-insert warnings and contraindications
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -8,7 +8,7 @@ indication_count: 3
 monitor_inn: "POLYETHYLENE GLYCOL 3500"
 predicted_indications: ["congenital ichthyosiform erythroderma", "self-healing collodion baby", "lamellar ichthyosis"]
 last_modified_at: 2026-10-14
-description: "Polyethylene Glycol 3500: predicted new indication Congenital ichthyosiform erythroderma (evidence level L5). Approved use: Constipation disorder"
+description: "Polyethylene Glycol 3500: predicted new indication Congenital ichthyosiform erythroderma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Polyethylene Glycol 3500
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-## Polyethylene Glycol 3500: From Constipation to Congenital Ichthyosiform Erythroderma
+## Polyethylene Glycol 3500: Congenital ichthyosiform erythroderma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ but **no clinical trials and no publications** currently support this prediction
 
 | Item | Content |
 |------|------|
-| Original Indication | Constipation disorder (also dry eye syndrome and xerophthalmia in the knowledge graph); no approved indication text is available in the US license record |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Congenital ichthyosiform erythroderma |
-| TxGNN Prediction Score | 99.73% |
+| TxGNN Prediction Score | 0.9973 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 1 (one cancelled ANDA, not an NDA) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 A speculative link is that a hydrophilic polymer could act as a humectant or emollient-like agent, helping hydrate the stratum corneum in ichthyosis. This idea is untested and unsupported by any evidence. Oral PEG 3500 is minimally absorbed, so it would be unlikely to reach the skin systemically.
 
-The very high TxGNN score (0.997) reflects a computational prediction only. Two other related skin conditions were also predicted: self-healing collodion baby (99.60%) and lamellar ichthyosis (99.38%). All three have the same lack of supporting evidence. Established treatments for ichthyosis (emollients, keratolytics, retinoids) already exist, and PEG 3500 has no demonstrated advantage.
+The very high TxGNN score (0.9973) reflects a computational prediction only. Two other related skin conditions were also predicted: self-healing collodion baby (0.9960) and lamellar ichthyosis (0.9938). All three have the same lack of supporting evidence. Established treatments for ichthyosis (emollients, keratolytics, retinoids) already exist, and PEG 3500 has no demonstrated advantage.
 
 ## Clinical Trial Evidence
 

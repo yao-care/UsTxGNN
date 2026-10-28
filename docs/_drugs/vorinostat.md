@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Vorinostat
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1296
-evidence_level: L3
+evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-14
 description: "Vorinostat: predicted new indication Primary cutaneous B-cell lymphoma (evidence level L3). Approved use: Primary cutaneous T-cell lymphoma (including primary cutaneous T-cell…"
@@ -14,7 +14,7 @@ predicted_indications: ["primary cutaneous B-cell lymphoma", "Sezary syndrome"]
 # Vorinostat
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **2** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ A second prediction, **Sezary syndrome**, is much better supported, but it is es
 |------|------|
 | Original Indication | Primary cutaneous T-cell lymphoma (including primary cutaneous T-cell non-Hodgkin lymphoma) |
 | Predicted New Indication | Primary cutaneous B-cell lymphoma |
-| TxGNN Prediction Score | 99.21% |
-| Evidence Level | L3 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 1 |
+| TxGNN Prediction Score | 0.9921 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold (research question only) |
 
 ## Why is This Prediction Reasonable?
@@ -81,7 +81,7 @@ However, there is no direct evidence in PCBCL. The very high TxGNN score is a co
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA021991 | ZOLINZA (Merck Sharp & Dohme LLC) | Capsule | Not listed in the data compiled (status: cancelled) |
+| NDA021991 | ZOLINZA (Merck Sharp & Dohme LLC) | Capsule | Not listed in the data compiled (status: valid) |
 
 ## Cytotoxicity
 
@@ -118,7 +118,7 @@ No study directly tests vorinostat in PCBCL. The trials are general lymphoma or 
 
 ## Additional Note: Sezary Syndrome (Second Prediction)
 
-Sezary syndrome (TxGNN score 99.07%, Evidence Level **L1**, suggested decision **Proceed with Guardrails**) is a leukemic variant of CTCL, so this is essentially an on-label or near-label population rather than true repurposing.
+Sezary syndrome (TxGNN score 0.9907, Evidence Level **L1**, suggested decision **Proceed with Guardrails**) is a leukemic variant of CTCL, so this is essentially an on-label or near-label population rather than true repurposing.
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|

@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # 5-Hydroxytryptophan Dl- Alfalfa Avena Sativa Flowe
@@ -51,8 +52,8 @@ The recommended action is **Hold** pending resolution of multiple blocking data 
 | Predicted New Indication | None — TxGNN returned no predictions for this candidate |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (model prediction only) — and even this is absent |
-| US Market Status | Not marketed (0 licenses found) |
-| Number of NDAs | 0 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | **Hold** |
 
 ---

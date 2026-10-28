@@ -4,17 +4,17 @@ title: Methotrexate
 parent: Model Prediction Only (L5)
 nav_order: 911
 evidence_level: L5
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-14
-description: "Methotrexate: predicted new indication Pulmonary blastoma (evidence level L5). Approved use: Acute lymphoblastic leukemia, non-Hodgkin lymphoma, mycosis fungoides…"
 monitor_inn: "METHOTREXATE"
 predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "Hodgkins lymphoma", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
+description: "Methotrexate: predicted new indication Pulmonary blastoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Methotrexate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Methotrexate: From Acute Lymphoblastic Leukemia to Pulmonary Blastoma
+## Methotrexate: Pulmonary blastoma
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Methotrexate is an antifolate chemotherapy and immunosuppressant, originally used for acute lymphoblastic leukemia, lymphomas, rheumatoid arthritis and psoriasis.
-The TxGNN model predicts it may be effective for **pulmonary blastoma**, a rare lung tumor, but **no clinical trials and no publications** were found to support this prediction. It is a graph-based hypothesis only.
+The TxGNN model predicts it may be effective for **pulmonary blastoma**, a rare lung tumor, but **no clinical trials and no publications** were found to support this prediction. It is a model-based hypothesis only.
 
 ---
 
@@ -47,11 +47,11 @@ The TxGNN model predicts it may be effective for **pulmonary blastoma**, a rare 
 
 | Item | Content |
 |------|------|
-| Original Indication | Acute lymphoblastic leukemia, non-Hodgkin lymphoma, mycosis fungoides, rheumatoid arthritis, psoriasis (the US license records compiled here contain no indication text, so these come from the TxGNN knowledge graph) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Pulmonary blastoma |
-| TxGNN Prediction Score | 99.45% |
+| TxGNN Prediction Score | 0.9945 |
 | Evidence Level | L5 (model prediction only) |
-| US Market Status | Cancelled only (all 13 authorizations are cancelled; none currently valid in the compiled records) |
+| US Market Status | Marketed (valid licenses on record: at least 13) |
 | Number of NDAs | 13 authorizations in total (3 NDAs and 10 ANDAs) |
 | Recommended Decision | Hold |
 
@@ -61,7 +61,7 @@ The TxGNN model predicts it may be effective for **pulmonary blastoma**, a rare 
 
 Detailed mechanism-of-action data is not available in the data compiled for this report. Methotrexate is widely known as an antifolate that inhibits dihydrofolate reductase (DHFR). This suppresses purine and thymidine synthesis, which is why it acts on rapidly dividing cells such as leukemic and lymphoid cells. Its efficacy in blood cancers, particularly leukemia and lymphoma, is well established.
 
-Pulmonary blastoma is a rare, fast-growing lung tumor with embryonic-like (blastomatous) cells. In principle, an agent that attacks DNA synthesis in proliferating cells could act on such a tumor. This reasoning is speculative, though. The high TxGNN score reflects a pattern in the knowledge graph, not any retrieved clinical or laboratory result, and no methotrexate data specific to this tumor was found.
+Pulmonary blastoma is a rare, fast-growing lung tumor with embryonic-like (blastomatous) cells. In principle, an agent that attacks DNA synthesis in proliferating cells could act on such a tumor. This reasoning is speculative, though. The high TxGNN score (0.9945) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No retrieved clinical or laboratory result supports it, and no methotrexate data specific to this tumor was found.
 
 ---
 
@@ -79,15 +79,15 @@ Currently no related literature available.
 
 ## US Market Information
 
-All 13 authorizations are cancelled, and the compiled records contain no approved indication text. The five main ones are listed below, with NDAs first.
+The drug is marketed, with 13 valid authorizations, and the compiled records contain no approved indication text. The five main ones are listed below, with NDAs first.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| NDA208400 | Xatmep (Azurity Pharmaceuticals) | Solution | Cancelled |
-| NDA205776 | Rasuvo (Medexus Pharma) | Injection, solution | Cancelled |
-| NDA011719 | Methotrexate (Hospira) | Injection, solution | Cancelled |
-| ANDA040385 | Trexall (Teva Women's Health) | Tablet, film coated | Cancelled |
-| ANDA040716 | Methotrexate (Accord Healthcare) | Injection | Cancelled |
+| NDA208400 | Xatmep (Azurity Pharmaceuticals) | Solution | Valid |
+| NDA205776 | Rasuvo (Medexus Pharma) | Injection, solution | Valid |
+| NDA011719 | Methotrexate (Hospira) | Injection, solution | Valid |
+| ANDA040385 | Trexall (Teva Women's Health) | Tablet, film coated | Valid |
+| ANDA040716 | Methotrexate (Accord Healthcare) | Injection | Valid |
 
 The records also include tablet, solution and lyophilized-powder generics from other manufacturers.
 
@@ -131,7 +131,7 @@ Please refer to the package insert for the full official warnings and contraindi
 **Decision: Hold**
 
 **Rationale:**
-The prediction for pulmonary blastoma rests solely on the model score, with no trials or publications behind it. Methotrexate also carries substantial toxicity, and none of its US authorizations are currently valid.
+The prediction for pulmonary blastoma rests solely on the model score, with no trials or publications behind it.
 
 For context, two other predictions in the same run have somewhat more support, both at evidence level L3:
 - **Hodgkin lymphoma:** the vinblastine-bleomycin-methotrexate (VBM) regimen has been studied in early-stage disease.

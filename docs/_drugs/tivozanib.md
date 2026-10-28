@@ -48,10 +48,10 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Renal cell carcinoma (nonpapillary renal cell carcinoma, renal cell adenocarcinoma, clear cell renal carcinoma) |
 | Predicted New Indication | Endocervical carcinoma |
-| TxGNN Prediction Score | 99.81% |
+| TxGNN Prediction Score | 0.9981 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (the single NDA is cancelled) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Detailed mechanism-of-action data is not available in the data compiled for this
 
 Cervical cancer also depends on VEGF-driven angiogenesis, and anti-VEGF therapy (bevacizumab) has shown benefit in this disease. This gives a plausible mechanistic bridge from renal cell carcinoma to endocervical carcinoma. However, this rationale is unverified: no disease-specific data was supplied, and the high TxGNN score is a computational prediction only.
 
-The other top-ranked predictions are also rare gynaecologic adenocarcinoma subtypes (e.g. uterine ligament adenocarcinomas, rare cervical adenocarcinoma variants), all at Evidence Level L5 with scores of about 99.8%. The high scores likely reflect disease-ontology proximity rather than subtype-specific biology.
+The other top-ranked predictions are also rare gynaecologic adenocarcinoma subtypes (e.g. uterine ligament adenocarcinomas, rare cervical adenocarcinoma variants), all at Evidence Level L5 with scores of about 0.9980. The high scores likely reflect disease-ontology proximity rather than subtype-specific biology.
 
 ## Clinical Trial Evidence
 

@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-## Carfilzomib: From Plasma Cell Myeloma to Melanoma
+## Carfilzomib: From Plasma Cell Myeloma to CMM7
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,11 +48,11 @@ The TxGNN model predicts it may be effective for **melanoma** (and several melan
 | Item | Content |
 |------|------|
 | Original Indication | Plasma cell myeloma |
-| Predicted New Indication | CMM7 (a melanoma-related subtype); the best-supported related prediction is melanoma (rank 5, score 99.03%, L4) |
-| TxGNN Prediction Score | 99.37% (CMM7); melanoma: 99.03% |
+| Predicted New Indication | CMM7 |
+| TxGNN Prediction Score | 0.9937 (CMM7); melanoma: 0.9903 |
 | Evidence Level | L5 for CMM7; L4 for melanoma |
-| US Market Status | Cancelled only (the single listed NDA is cancelled) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---

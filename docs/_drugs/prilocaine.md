@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Prilocaine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1081
-evidence_level: L3
+evidence_level: L5
 indication_count: 10
 monitor_inn: "PRILOCAINE"
 predicted_indications: ["papillary conjunctivitis", "manic bipolar affective disorder", "bronchitis", "migraine disorder", "neuralgia", "migraine with brainstem aura", "atopic eczema", "allergic asthma", "rhinitis", "rosacea conjunctivitis"]
 last_modified_at: 2026-10-14
-description: "Prilocaine: predicted new indication Neuralgia (evidence level L3). Approved use: Premature ejaculation"
+description: "Prilocaine: predicted new indication Papillary conjunctivitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Prilocaine
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-## Prilocaine: From Premature Ejaculation and Psychologic Dyspareunia to Neuralgia
+## Prilocaine: Papillary conjunctivitis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Prilocaine is an amide local anesthetic. The knowledge graph lists its original indications as premature ejaculation and psychologic dyspareunia, and its only US authorization on record is a dental injectable.
+Prilocaine is an amide local anesthetic. Its only US authorization on record is a dental injectable.
 The TxGNN model predicts it may be effective for **Neuralgia** (the most evidence-supported of 10 predictions), with **2 clinical trials** and **14 publications** currently supporting this direction.
 The evidence is early-stage: small, uncontrolled studies, mostly of the lidocaine/prilocaine combination (EMLA), and no Phase 3 RCT.
 
@@ -48,12 +48,12 @@ The evidence is early-stage: small, uncontrolled studies, mostly of the lidocain
 
 | Item | Content |
 |------|------|
-| Original Indication | Premature ejaculation; psychologic dyspareunia (from the knowledge graph; no approved indication text is available in the US authorization record) |
-| Predicted New Indication | Neuralgia (the best-supported of the 10 predictions, mainly postherpetic neuralgia; the top-scoring prediction is papillary conjunctivitis, which has no evidence) |
-| TxGNN Prediction Score | 99.34% |
-| Evidence Level | L3 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 (ANDA079235, cancelled) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Papillary conjunctivitis |
+| TxGNN Prediction Score | 0.9978 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---

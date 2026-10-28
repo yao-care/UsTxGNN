@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Tioconazole
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1230
-evidence_level: L3
+evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-14
-description: "Tioconazole: predicted new indication Vulvovaginitis (evidence level L3). Approved use: Vulvovaginal candidiasis"
 monitor_inn: "TIOCONAZOLE"
 predicted_indications: ["vulvovaginitis", "vulvitis", "postmenopausal atrophic vaginitis"]
+description: "Tioconazole: predicted new indication Vulvovaginitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Tioconazole
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L3** | Predicted Indications: **3**
 
 </div>
 
-## Tioconazole: From Vulvovaginal Candidiasis to Vulvovaginitis
+## Tioconazole: Vulvovaginitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ Currently there are **0 registered clinical trials** and **19 publications** (mo
 
 | Item | Content |
 |------|------|
-| Original Indication | Vulvovaginal candidiasis |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Vulvovaginitis |
-| TxGNN Prediction Score | 99.23% |
-| Evidence Level | L3 |
-| US Market Status | Cancelled only (no active license) |
-| Number of NDAs | 1 (ANDA, cancelled) |
+| TxGNN Prediction Score | 0.9923 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -63,8 +63,8 @@ Vulvovaginal candidiasis is one of the most common causes of vulvovaginitis, so 
 Note that detailed mechanism-of-action data was not available in the data compiled for this report, so the mechanism above relies on the known azole class and pharmacology data.
 
 Two other predictions were also generated:
-- **Vulvitis** (score 99.20%, L3): overlaps with candidiasis, but the literature does not isolate vulvitis as its own endpoint.
-- **Postmenopausal atrophic vaginitis** (score 99.19%, L5): no mechanistic rationale, since the condition is driven by estrogen deficiency rather than infection. No trials or literature exist, and the high score likely reflects proximity to other vaginitis terms in the knowledge graph. This prediction should be set aside.
+- **Vulvitis** (score 0.9920, L3): overlaps with candidiasis, but the literature does not isolate vulvitis as its own endpoint.
+- **Postmenopausal atrophic vaginitis** (score 0.9919, L5): no mechanistic rationale, since the condition is driven by estrogen deficiency rather than infection. No trials or literature exist, and the score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. This prediction should be set aside.
 
 ## Clinical Trial Evidence
 
@@ -104,7 +104,7 @@ Please refer to the package insert for other safety information, including warni
 **Decision: Hold**
 
 **Rationale:**
-The evidence is almost entirely historical (1983–1988) clinical work on vaginal candidiasis, which is the original indication. There are no registered trials, and no US product is currently active (the only license is cancelled). The prediction is therefore not new repurposing evidence, and it does not extend to non-fungal vulvovaginitis.
+The evidence is almost entirely historical (1983–1988) clinical work on vaginal candidiasis, which is the original indication. The prediction is therefore not new repurposing evidence, and it does not extend to non-fungal vulvovaginitis.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

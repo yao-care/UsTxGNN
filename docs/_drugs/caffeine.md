@@ -4,17 +4,17 @@ title: Caffeine
 parent: Model Prediction Only (L5)
 nav_order: 484
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-14
 description: "Caffeine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Allergic rhinitis, vasomotor rhinitis, migraine, pharyngitis…"
 monitor_inn: "CAFFEINE"
-predicted_indications: ["nasal cavity disease", "thrombotic disease", "acute laryngopharyngitis", "papillary conjunctivitis", "neuralgia", "glossodynia", "coccygodynia", "trigeminal autonomic cephalalgia", "vein disease"]
+predicted_indications: ["nasal cavity disease", "thrombotic disease", "papillary conjunctivitis", "neuralgia", "glossodynia", "coccygodynia", "trigeminal autonomic cephalalgia", "vein disease"]
 ---
 
 # Caffeine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **Nasal Cavity Disease**, but t
 |------|------|
 | Original Indication | Allergic rhinitis, vasomotor rhinitis, migraine, pharyngitis, common cold, nasopharyngitis, headache disorders (cluster headache, paroxysmal hemicrania, hemicrania continua). No approved-indication text is available from the US licence records. |
 | Predicted New Indication | Nasal cavity disease |
-| TxGNN Prediction Score | 99.91% |
+| TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licences) |
+| US Market Status | Marketed (valid licenses on record: at least 8) |
 | Number of NDAs | 8 licence records (all cancelled) |
 | Recommended Decision | Hold |
 
@@ -73,7 +73,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All eight US licence records are cancelled, and no approved-indication text is available for them.
+Eight US licence records are valid, and no approved-indication text is available for them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -98,7 +98,7 @@ Please refer to the package insert for label warnings and contraindications, whi
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high (0.999), but it rests on model output alone, with no clinical trials and no literature showing caffeine treats nasal cavity disease. Because rhinitis is already among caffeine's original indications, the prediction adds little new information, and all US licences are currently cancelled.
+The prediction score is very high (0.9991), but it rests on model output alone, with no clinical trials and no literature showing caffeine treats nasal cavity disease. Because rhinitis is already among caffeine's original indications, the prediction adds little new information, and the drug is currently marketed in the US with 8 valid licences.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

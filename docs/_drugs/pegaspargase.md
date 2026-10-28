@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Pegaspargase
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 1019
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 7
 last_modified_at: 2026-10-14
-description: "Pegaspargase: predicted new indication Precursor lymphoblastic lymphoma/leukemia (evidence level L1). Approved use: Acute lymphoblastic leukemia"
 monitor_inn: "PEGASPARGASE"
 predicted_indications: ["chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "follicular lymphoma", "methylcobalamin deficiency type cblE", "lymphoid neoplasm", "Hodgkins lymphoma", "blast phase chronic myelogenous leukemia, BCR-ABL1 positive"]
+description: "Pegaspargase: predicted new indication Chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hy… (evidence level L5). Approved use: Not …"
 ---
 
 # Pegaspargase
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,32 +33,31 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-## Pegaspargase: From Acute Lymphoblastic Leukemia to Precursor Lymphoblastic Lymphoma/Leukemia
+## Pegaspargase: Chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Pegaspargase is a long-acting, pegylated form of L-asparaginase, originally used as part of multi-agent chemotherapy for acute lymphoblastic leukemia (ALL).
-The TxGNN model predicts it may be effective for **precursor lymphoblastic lymphoma/leukemia**, a disease that is essentially the same as its original indication, so this is not a true repurposing case.
 Support is strong: **36 clinical trials** and **19 publications** are linked to this prediction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Acute lymphoblastic leukemia (the approved indication text is not listed in the US license record; the original indication is taken from the knowledge-graph indication data) |
-| Predicted New Indication | Precursor lymphoblastic lymphoma/leukemia |
-| TxGNN Prediction Score | 99.96% |
-| Evidence Level | L1 |
-| US Market Status | Cancelled only (the single BLA is cancelled) |
-| Number of NDAs | 1 (BLA103411) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation |
+| TxGNN Prediction Score | 0.9995 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, pegaspargase is a pegylated E. coli-derived L-asparaginase. It depletes circulating asparagine. Lymphoblasts have low asparagine synthetase expression and depend on external asparagine, so depletion selectively kills them. This mechanism is well established.
 
-The predicted disease, precursor lymphoblastic lymphoma/leukemia, is the same malignant lymphoid lineage as the original indication, ALL. Lymphoblastic lymphoma and ALL are treated with the same asparaginase-containing regimens, such as BFM-type and hyper-CVAD protocols. The prediction therefore mostly confirms an existing use.
+Lymphoblastic lymphoma and ALL are treated with the same asparaginase-containing regimens, such as BFM-type and hyper-CVAD protocols. The prediction therefore mostly confirms an existing use.
 
 Other predictions in the data (such as chronic lymphocytic leukemia, follicular lymphoma and methylcobalamin deficiency cblE) have no trials or literature and a weak mechanistic rationale. They are not covered in detail here. One exception is extranodal NK/T-cell lymphoma, which has promising Phase 2 and retrospective data for pegaspargase-based regimens. It was mapped under "Hodgkin lymphoma" in the data and should be evaluated as a separate indication.
 

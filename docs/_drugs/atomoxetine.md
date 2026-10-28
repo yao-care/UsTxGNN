@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **specific developmental disord
 |------|------|
 | Original Indication | Attention deficit hyperactivity disorder (including the inattentive type) |
 | Predicted New Indication | Specific developmental disorder |
-| TxGNN Prediction Score | 99.998% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid authorizations) |
+| US Market Status | Marketed (valid licenses on record: at least 6) |
 | Number of NDAs | 6 (all abbreviated applications, all cancelled) |
 | Recommended Decision | Hold |
 
@@ -88,11 +88,11 @@ All six US authorizations are generic (abbreviated) applications for oral capsul
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
 |---------|------|------|------|------|
-| ANDA079021 | Atomoxetine | Capsule | Bryant Ranch Prepack | Cancelled |
-| ANDA079016 | Atomoxetine | Capsule | Rising Pharma Holdings, Inc. | Cancelled |
-| ANDA078983 | Atomoxetine Hydrochloride | Capsule | Golden State Medical Supply, Inc. | Cancelled |
-| ANDA202682 | Atomoxetine | Capsule | Camber Pharmaceuticals, Inc. | Cancelled |
-| ANDA079019 | Atomoxetine | Capsule | Glenmark Pharmaceuticals Inc., USA | Cancelled |
+| ANDA079021 | Atomoxetine | Capsule | Bryant Ranch Prepack | Valid |
+| ANDA079016 | Atomoxetine | Capsule | Rising Pharma Holdings, Inc. | Valid |
+| ANDA078983 | Atomoxetine Hydrochloride | Capsule | Golden State Medical Supply, Inc. | Valid |
+| ANDA202682 | Atomoxetine | Capsule | Camber Pharmaceuticals, Inc. | Valid |
+| ANDA079019 | Atomoxetine | Capsule | Glenmark Pharmaceuticals Inc., USA | Valid |
 
 One further cancelled authorization (ANDA090609, Major Pharmaceuticals) is not shown, to keep within the five-row limit.
 
@@ -110,7 +110,7 @@ Label warnings and contraindications were not available in the data compiled for
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests almost entirely on the model score. No clinical trials exist, and the literature addresses ADHD symptoms in comorbid populations rather than specific developmental disorder itself. All six US authorizations are cancelled, so there is no marketed product to build on.
+The prediction rests almost entirely on the model score. No clinical trials exist, and the literature addresses ADHD symptoms in comorbid populations rather than specific developmental disorder itself. All six US authorizations are valid, and the drug is marketed.
 
 **To proceed, the following is needed:**
 - Direct clinical evidence in specific developmental disorder, such as a controlled trial with developmental or learning outcomes as the primary endpoint

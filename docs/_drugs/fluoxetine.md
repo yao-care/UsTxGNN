@@ -4,17 +4,17 @@ title: Fluoxetine
 parent: Model Prediction Only (L5)
 nav_order: 724
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-14
-description: "Fluoxetine: predicted new indication Histrionic personality disorder (evidence level L5). Approved use: Major depressive disorder, obsessive-compulsive disorder…"
+indication_count: 9
 monitor_inn: "FLUOXETINE"
-predicted_indications: ["histrionic personality disorder (disease)", "schizotypal personality disorder", "schizoid personality disorder", "paranoid personality disorder", "benign paroxysmal torticollis of infancy", "agoraphobia", "phobic disorder", "Ohdo syndrome and variants", "melancholia"]
+predicted_indications: ["histrionic personality disorder (disease)", "schizotypal personality disorder", "schizoid personality disorder", "paranoid personality disorder", "benign paroxysmal torticollis of infancy", "agoraphobia", "manic bipolar affective disorder", "phobic disorder", "Ohdo syndrome and variants"]
+last_modified_at: 2026-10-23
+description: "Fluoxetine: predicted new indication Histrionic personality disorder (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Fluoxetine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Fluoxetine: From Major Depressive Disorder to Histrionic Personality Disorder
+## Fluoxetine: Histrionic personality disorder (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Fluoxetine is a selective serotonin reuptake inhibitor (SSRI) originally used for depression, obsessive-compulsive disorder, bulimia nervosa, and related mood and anxiety conditions.
-The TxGNN model predicts it may be effective for **histrionic personality disorder**, but **0 clinical trials** and only **2 publications** were found, and neither publication tests fluoxetine in this condition.
-This prediction rests on the model alone.
+Fluoxetine is a widely marketed serotonin-reuptake-inhibitor antidepressant.
+The TxGNN model predicts it may be effective for **histrionic personality disorder**, with a very high score (0.9992).
+However, there are **0 clinical trials** and **2 publications**, and neither publication studies this disease, so the prediction currently rests on the model alone.
 
 ---
 
@@ -48,23 +48,22 @@ This prediction rests on the model alone.
 
 | Item | Content |
 |------|------|
-| Original Indication | Major depressive disorder, obsessive-compulsive disorder, bulimia nervosa, and related mood and anxiety disorders (the US license records carry no indication text) |
-| Predicted New Indication | Histrionic personality disorder |
-| TxGNN Prediction Score | 99.92% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Histrionic personality disorder (disease) |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses in the compiled data) |
-| Number of NDAs | 12 (all generic ANDAs, all cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 12) |
+| Number of NDAs | at least 12 |
+| Number of Approvals | At least 12 ANDAs (the list may be partial) |
 | Recommended Decision | Hold |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Fluoxetine is generally understood to be an SSRI, and its efficacy in depression, anxiety, obsessive-compulsive and eating disorders is well established.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Fluoxetine belongs to the selective serotonin reuptake inhibitor (SSRI) class. Its use in mood and anxiety disorders is recorded in the knowledge graph, and mechanistically it may be applicable to personality-disorder symptoms driven by serotonin signalling.
 
-Histrionic personality disorder involves emotional instability, attention-seeking behaviour and impulsivity. Serotonergic modulation could plausibly affect affective instability and impulsivity, which may be why the model links the two. This link is a hypothesis.
-
-The retrieved papers do not support it directly. One is a case report of body dysmorphic disorder, and the other is a review of psychiatric manifestations of lupus and Sjögren's syndrome. Neither evaluates fluoxetine in histrionic personality disorder.
+The plausible link is that serotonergic modulation could ease affective lability and impulsivity, which are features sometimes seen in histrionic personality disorder. No direct link between fluoxetine and this disorder is documented, though. The high TxGNN score is a computational prediction without clinical support.
 
 ---
 
@@ -78,31 +77,38 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [28791577](https://pubmed.ncbi.nlm.nih.gov/28791577/) | 2018 | Case report | Neuropsychiatrie | A 37-year-old woman with body dysmorphic disorder, striving to look like a Barbie doll, admitted to a psychosomatic ward for an eating disorder. Not about fluoxetine or histrionic personality disorder |
-| [11865567](https://pubmed.ncbi.nlm.nih.gov/11865567/) | 2001 | Review (with case report) | L'Encephale | Psychiatric manifestations of systemic lupus erythematosus and Sjögren's syndrome, with one case treated by cyclophosphamide. Not about fluoxetine or histrionic personality disorder |
+| [28791577](https://pubmed.ncbi.nlm.nih.gov/28791577/) | 2018 | Case report | Neuropsychiatrie | A 37-year-old woman with body dysmorphic disorder, admitted for an eating disorder. It does not address histrionic personality disorder or fluoxetine efficacy. |
+| [11865567](https://pubmed.ncbi.nlm.nih.gov/11865567/) | 2001 | Review / case report | L'Encephale | Psychiatric manifestations of lupus and Sjögren's syndrome, with a case treated with cyclophosphamide. It does not address histrionic personality disorder. |
+
+Neither publication directly studies the predicted disease.
 
 ---
 
 ## US Market Information
 
-All 12 US licenses are generic ANDAs with cancelled status, and none has indication text in the compiled data. The five main entries are listed below.
+Approved-indication text is not available in the records compiled for this report. Twelve valid single-ingredient ANDA records were listed, and the list may be partial. The five shown here are the main ones.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA078619 | Fluoxetine (Aurobindo Pharma) | Capsule | Not listed |
-| ANDA075525 | Fluoxetine (Saptalis Pharmaceuticals) | Solution | Not listed |
-| ANDA075452 | Fluoxetine (Teva) | Capsule | Not listed |
-| ANDA213286 | Fluoxetine (Aurobindo Pharma) | Film-coated tablet | Not listed |
-| ANDA209695 | Fluoxetine (Nivagen) | Tablet | Not listed |
+| Authorization Number | Product Name | Dosage Form |
+|---------|------|------|
+| ANDA078619 | Fluoxetine (Aurobindo Pharma Limited) | Capsule |
+| ANDA075525 | Fluoxetine (Saptalis Pharmaceuticals, LLC.) | Solution |
+| ANDA075452 | Fluoxetine (Teva Pharmaceuticals USA, Inc.) | Capsule |
+| ANDA213286 | Fluoxetine (Aurobindo Pharma Limited) | Tablet, film coated |
+| ANDA209695 | Fluoxetine (Nivagen Pharmaceuticals, Inc.) | Tablet |
 
 ---
 
 ## Safety Considerations
 
-Package insert warnings and contraindications were not available in the data compiled for this report. Please refer to the package insert for them.
+- **Contraindication-type relations in the knowledge graph (not label text):** The graph links fluoxetine to the following conditions:
+  - Neurological and cardiovascular: epilepsy, orthostatic hypotension and other hypotensive disorders, stroke and cerebrovascular disorders, myocardial infarction.
+  - Hepatic and blood: liver failure, liver disease, cirrhosis, neutropenia, agranulocytosis, blood coagulation disease.
+  - Metabolic: diabetes mellitus, diabetic ketoacidosis, hyperglycemia, hyperlipidemia, obesity.
+  - Psychiatric: bipolar disorder.
+  - Other: benign prostatic hyperplasia, gallbladder disease, female breast carcinoma.
 
-- **Drug Interactions**: The interaction search found 100 interacting drugs. Those rated **Major** include bupropion, lorcaserin, diethylpropion, dolasetron, eliglustat, palonosetron and cisapride. Moderate interactions include aspirin, morphine, clarithromycin, famotidine and loperamide.
-- **Knowledge-graph contraindication signals** (from a drug-disease knowledge graph, not label text): bipolar disorder, epilepsy, liver disease or failure, diabetes and diabetic ketoacidosis, neutropenia and agranulocytosis, blood coagulation disorders, orthostatic hypotension, benign prostatic hyperplasia, stroke and cerebrovascular disorders, myocardial infarction, and hyperlipidemia. These should be verified against the official label.
+  These should be verified against the package insert.
+- **Drug Interactions:** 100 interactions were found in total. Major-level interactions in the first 20 reviewed include bupropion, lorcaserin, diethylpropion, dolasetron, eliglustat, palonosetron and cisapride. Moderate interactions include aspirin, morphine, clarithromycin and famotidine, among others.
 
 ---
 
@@ -111,13 +117,13 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is very high (99.92%), but it is a model prediction only. There are no registered trials, and the two retrieved papers do not study fluoxetine in histrionic personality disorder. Other predicted indications for fluoxetine have more support, such as phobic disorder (a completed Phase 3 trial) and agoraphobia/panic disorder. These may deserve priority.
+The TxGNN score is very high, but there are no clinical trials, and neither retrieved publication studies histrionic personality disorder. Because no cited study addresses this disease, the evidence level is L5.
 
 **To proceed, the following is needed:**
-- Direct clinical evidence, such as controlled studies of fluoxetine or other SSRIs in histrionic personality disorder or closely related personality disorders
-- Detailed mechanism-of-action data to support the serotonergic link to affective instability and impulsivity
-- Official package insert warnings and contraindications, to complete the safety screening
-- Clarification of the current US market status, since all 12 generic licenses in the data are cancelled
+- Any direct clinical evidence (trials, case series or controlled studies) of fluoxetine in histrionic personality disorder
+- FDA package insert warnings and contraindications, to complete safety screening
+- Detailed mechanism of action data to support the serotonergic hypothesis
+- A comparison with other predicted indications for fluoxetine that have more direct supporting studies, such as schizotypal personality disorder, to decide where to prioritise effort
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

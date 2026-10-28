@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Acetaminophen Butalbital Caffeine Codeine
@@ -51,7 +52,7 @@ Due to the absence of predictions, clinical trial evidence, and US market author
 | Predicted New Indication | None (TxGNN returned no predictions) |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — Model prediction only; in this case, no prediction available |
-| US Market Status | Not found in regulatory data |
+| US Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 

@@ -4,17 +4,17 @@ title: Duvelisib
 parent: Model Prediction Only (L5)
 nav_order: 637
 evidence_level: L5
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-14
-description: "Duvelisib: predicted new indication Hodgkin lymphoma (evidence level L5). Approved use: Follicular lymphoma, CLL/SLL, other B-cell neoplasms"
 monitor_inn: "DUVELISIB"
 predicted_indications: ["Hodgkins lymphoma", "myeloid leukemia", "chronic myelogenous leukemia, BCR-ABL1 positive", "Ewing sarcoma", "mantle cell lymphoma", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction"]
+description: "Duvelisib: predicted new indication Hodgkins lymphoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Duvelisib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Duvelisib: From Follicular Lymphoma and CLL/SLL to Hodgkin Lymphoma
+## Duvelisib: Hodgkins lymphoma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,12 +47,12 @@ The TxGNN model predicts it may be effective for **Hodgkin lymphoma**, but the e
 
 | Item | Content |
 |------|------|
-| Original Indication | Follicular lymphoma, CLL/SLL, other B-cell neoplasms (the approved indication text is not available in the US license record) |
-| Predicted New Indication | Hodgkin lymphoma |
-| TxGNN Prediction Score | 99.94% |
-| Evidence Level | L3 (indirect evidence from related lymphomas only; no Hodgkin-specific studies) |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Hodgkins lymphoma |
+| TxGNN Prediction Score | 0.9994 |
+| Evidence Level | L5 (indirect evidence from related lymphomas only; no Hodgkin-specific studies) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -107,7 +107,7 @@ None of the trials below enrolled Hodgkin lymphoma patients. They show duvelisib
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA211155 | COPIKTRA (Secura Bio, Inc) | Capsule | Not available; status: cancelled |
+| NDA211155 | COPIKTRA (Secura Bio, Inc) | Capsule | Not available; status: valid |
 
 ---
 

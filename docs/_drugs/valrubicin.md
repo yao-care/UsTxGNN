@@ -48,10 +48,10 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Urinary bladder cancer (including bladder carcinoma, bladder neoplasm, bladder small cell neuroendocrine carcinoma, and non-papillary transitional cell carcinoma of the bladder) |
 | Predicted New Indication | Colonic neoplasm |
-| TxGNN Prediction Score | 99.96% |
+| TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid authorizations) |
-| Number of NDAs | 2 (both cancelled) |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Detailed mechanism-of-action data is not available in the data compiled for this
 
 There are significant limits to this reasoning. Valrubicin is lipophilic and designed for local delivery into the bladder, with minimal systemic absorption. There is therefore no established route for the drug to reach colonic tumors. A hypothetical intrarectal or other local route would be entirely untested. No trial or literature evidence supports the colonic indication.
 
-The other top-ranked predictions are weaker still. Most are benign lesions (colonic lymphangioma, lipoma, leiomyoma, cavernous hemangioma, benign cecal neoplasm, cecal villous adenoma) where cytotoxic chemotherapy is not clinically justified. They likely reflect proximity to colon neoplasm nodes in the knowledge graph rather than real biology. The low-grade cecal neuroendocrine tumor (G1) is poorly responsive to cytotoxic agents, and "cecal disease" is too non-specific to form a testable hypothesis. The rectosigmoid junction neoplasm (score 99.96%) shares the same unsupported rationale as colonic neoplasm.
+The other top-ranked predictions are weaker still. Most are benign lesions (colonic lymphangioma, lipoma, leiomyoma, cavernous hemangioma, benign cecal neoplasm, cecal villous adenoma) where cytotoxic chemotherapy is not clinically justified. Their scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The low-grade cecal neuroendocrine tumor (G1) is poorly responsive to cytotoxic agents, and "cecal disease" is too non-specific to form a testable hypothesis. The rectosigmoid junction neoplasm (score 0.9996) shares the same unsupported rationale as colonic neoplasm.
 
 ## Clinical Trial Evidence
 
@@ -89,7 +89,7 @@ Currently no related literature available.
 
 ## Safety Considerations
 
-- **Contraindications (knowledge-graph associations, not label text)**: urinary tract infection and overactive bladder.
+- **Contraindications (TxGNN model (deep learning) output, not label text; may reflect similarities the model learned between related diseases, not biological evidence)**: urinary tract infection and overactive bladder.
 - **Drug Interactions** (5 identified):
   - **Major**: Hexaminolevulinate, Cladribine
   - **Moderate**: Gadobenic acid, Omacetaxine mepesuccinate, Vitamin E

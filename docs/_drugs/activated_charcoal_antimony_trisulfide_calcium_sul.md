@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Activated Charcoal Antimony Trisulfide Calcium Sul
@@ -51,7 +52,7 @@ Evaluation cannot proceed due to missing foundational data including regulatory 
 | Predicted New Indication | None (no TxGNN output returned) |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — Model prediction only (no actual studies via this pipeline) |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 6) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

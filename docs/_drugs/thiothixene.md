@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "THIOTHIXENE"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "hydranencephaly (disease)", "syndromic myopia", "myopia X-linked", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy", "manic bipolar affective disorder"]
 last_modified_at: 2026-10-14
-description: "Thiothixene: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Schizophrenia"
+description: "Thiothixene: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Thiothixene
@@ -33,13 +33,13 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Thiothixene: From Schizophrenia to Retinal Dystrophy with or without Extraocular Anomalies
+## Thiothixene: Retinal dystrophy with or without extraocular anomalies
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Thiothixene is a thioxanthene antipsychotic originally used to treat schizophrenia.
-The TxGNN model predicts it may be effective for **retinal dystrophy with or without extraocular anomalies**, but this is a graph-based prediction only, with **0 clinical trials** and **0 publications** supporting it.
+The TxGNN model (deep learning) predicts it may be effective for **retinal dystrophy with or without extraocular anomalies**, but this is a model-based prediction only, with **0 clinical trials** and **0 publications** supporting it.
 
 ---
 
@@ -47,12 +47,12 @@ The TxGNN model predicts it may be effective for **retinal dystrophy with or wit
 
 | Item | Content |
 |------|------|
-| Original Indication | Schizophrenia |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no active licenses) |
-| Number of NDAs | 2 (both ANDAs, both cancelled) |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ---
@@ -61,9 +61,9 @@ The TxGNN model predicts it may be effective for **retinal dystrophy with or wit
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, thiothixene is a dopamine D2-receptor antagonist antipsychotic. Its efficacy in schizophrenia is established.
 
-No mechanistic link to inherited retinal dystrophy has been identified. The score is very high (99.99%), but it comes only from the knowledge-graph model and does not reflect known biology. Nothing in thiothixene's pharmacology connects dopamine receptor antagonism to the course of a genetically driven retinal degeneration. This prediction should be treated as a computational hypothesis, not a supported repurposing direction.
+No mechanistic link to inherited retinal dystrophy has been identified. The score is very high (0.9999), but it comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Nothing in thiothixene's pharmacology connects dopamine receptor antagonism to the course of a genetically driven retinal degeneration. This prediction should be treated as a computational hypothesis, not a supported repurposing direction.
 
-**Note on other predictions:** Of the ten predicted indications for this drug, only one has any published evidence: **manic bipolar affective disorder** (rank 10, score 99.95%). It is biologically plausible, since antipsychotics are an established class for acute mania. The support is limited to small, older comparative studies (for example, thiothixene vs. chlorpromazine in 29 manic patients on lithium, 1988; thiothixene vs. haloperidol for rapid tranquilization, 1984). That indication would be a more sensible research question than the top-ranked one, though it has no registered trials and lacks modern, well-powered evidence.
+**Note on other predictions:** Of the ten predicted indications for this drug, only one has any published evidence: **manic bipolar affective disorder** (rank 10, score 0.9995). It is biologically plausible, since antipsychotics are an established class for acute mania. The support is limited to small, older comparative studies (for example, thiothixene vs. chlorpromazine in 29 manic patients on lithium, 1988; thiothixene vs. haloperidol for rapid tranquilization, 1984). That indication would be a more sensible research question than the top-ranked one, though it has no registered trials and lacks modern, well-powered evidence.
 
 ---
 
@@ -86,7 +86,6 @@ Currently no related literature available.
 | ANDA211642 (cancelled) | Thiothixene (ANI Pharmaceuticals, Inc.) | Capsule | Not listed |
 | ANDA215456 (cancelled) | Thiothixene (Amneal Pharmaceuticals NY LLC) | Capsule | Not listed |
 
-Both authorizations are for oral capsules and both are cancelled, so thiothixene is not currently marketed in the US under these licenses.
 
 ---
 
@@ -107,7 +106,7 @@ Please refer to the package insert for official warnings and contraindications, 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone (evidence level L5). There are no clinical trials, no literature, and no plausible mechanistic link to retinal dystrophy. The drug also has no active US licenses, and its safety profile (neutropenia, cardiovascular and movement-disorder risks) is a poor fit for a chronic genetic eye disease.
+The prediction rests on a model score alone (evidence level L5). There are no clinical trials, no literature, and no plausible mechanistic link to retinal dystrophy.
 
 **To proceed, the following is needed:**
 - Detailed mechanism of action data (MOA) and an explicit hypothesis linking it to retinal biology

@@ -4,17 +4,17 @@ title: Phenylephrine
 parent: Moderate Evidence (L3-L4)
 nav_order: 1042
 evidence_level: L3
-indication_count: 3
+indication_count: 2
 last_modified_at: 2026-10-14
-description: "Phenylephrine: predicted new indication Nasal cavity disease (evidence level L3). Approved use: Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold…"
 monitor_inn: "PHENYLEPHRINE"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "trigeminal autonomic cephalalgia"]
+predicted_indications: ["nasal cavity disease", "trigeminal autonomic cephalalgia"]
+description: "Phenylephrine: predicted new indication Nasal cavity disease (evidence level L3). Approved use: Not recorded in the local data"
 ---
 
 # Phenylephrine
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **3** 
+Evidence Level: **L3** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L3** | Predicted Indications: **3**
 
 </div>
 
-## Phenylephrine: From Allergic Rhinitis and Nasal Congestion to Nasal Cavity Disease
+## Phenylephrine: Nasal cavity disease
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,11 +48,11 @@ This is largely an extension of existing indications, and the evidence is still 
 
 | Item | Content |
 |------|------|
-| Original Indication | Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold, rhinitis, nasopharyngitis and others (the US license records contain no indication text, so this list comes from the knowledge graph) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Nasal cavity disease |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L3 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 12) |
 | Number of NDAs | 12 (all cancelled) |
 | Recommended Decision | Hold |
 
@@ -88,7 +88,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All 12 US authorizations are cancelled. The records contain no approved-indication text. Main entries:
+All 12 US authorizations are valid. The records contain no approved-indication text. Main entries:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -117,7 +117,7 @@ Please refer to the package insert for label warnings and contraindications, whi
 **Decision: Hold**
 
 **Rationale:**
-The predicted indication largely overlaps with existing rhinitis and nasopharyngitis uses and is mechanistically plausible. However, there are no registered clinical trials, the literature is mostly reviews or indirect studies (L3), and all US licenses are cancelled. Label safety data are also missing.
+The predicted indication largely overlaps with existing rhinitis and nasopharyngitis uses and is mechanistically plausible. However, there are no registered clinical trials, the literature is mostly reviews or indirect studies (L3), and the drug is marketed with 12 valid US licenses. Label safety data are also missing.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
@@ -130,8 +130,7 @@ The predicted indication largely overlaps with existing rhinitis and nasopharyng
 
 ## Additional Predicted Indications (for Reference)
 
-- **Acute laryngopharyngitis** (score 99.97%, L5, Hold): no clinical trials or literature. The prediction likely reflects similarity to existing pharyngitis indications.
-- **Trigeminal autonomic cephalalgia** (score 99.30%, L4, Hold): 13 publications, almost all observational pupillometry studies in cluster headache and related conditions. They use phenylephrine as a diagnostic probe of sympathetic function, not as a treatment, so they provide no therapeutic evidence. Systemic vasoconstriction and hypertension risks are a concern.
+- **Trigeminal autonomic cephalalgia** (score 0.9930, L4, Hold): 13 publications, almost all observational pupillometry studies in cluster headache and related conditions. They use phenylephrine as a diagnostic probe of sympathetic function, not as a treatment, so they provide no therapeutic evidence. Systemic vasoconstriction and hypertension risks are a concern.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

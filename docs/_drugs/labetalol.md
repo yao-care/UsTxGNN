@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Labetalol
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 827
-evidence_level: L4
-indication_count: 4
+evidence_level: L5
+indication_count: 3
 last_modified_at: 2026-10-14
-description: "Labetalol: predicted new indication Malignant renovascular hypertension (evidence level L4). Approved use: Hypertensive disorder / hypertension"
 monitor_inn: "LABETALOL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
+description: "Labetalol: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Labetalol
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **4** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Evidence Level: **L4** | Predicted Indications: **4**
 
 </div>
 
-## Labetalol: From Hypertension to Malignant Renovascular Hypertension
+## Labetalol: Malignant hypertensive renal disease
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Labetalol is a combined alpha-1/beta-adrenergic blocker, originally used to treat hypertension and hypertensive disorders.
-The TxGNN model predicts it may be effective for **malignant renovascular hypertension**,
 but there are currently **0 clinical trials** and only **1 publication** (a case report that does not specifically evaluate labetalol for this indication), so the evidence is very limited.
 
 ---
@@ -48,11 +47,11 @@ but there are currently **0 clinical trials** and only **1 publication** (a case
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertensive disorder / hypertension |
-| Predicted New Indication | Malignant renovascular hypertension |
-| TxGNN Prediction Score | 99.08% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Malignant hypertensive renal disease |
+| TxGNN Prediction Score | 0.9908 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 9) |
 | Number of NDAs | 9 (all cancelled; listed as ANDAs) |
 | Recommended Decision | Hold |
 
@@ -86,7 +85,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All nine US authorizations are cancelled. No approved indication text is available for them.
+No approved indication text is available for them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -138,7 +137,6 @@ The prediction is plausible mainly because it overlaps with labetalol's existing
 - Mechanism of action data
 - Clinical or observational data on labetalol in renovascular or malignant hypertension
 - Clarification of whether this is a true new indication or part of the existing hypertension indication
-- Confirmation of current US marketing status, since all nine authorizations are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

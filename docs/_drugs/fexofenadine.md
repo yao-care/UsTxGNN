@@ -48,9 +48,9 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Allergic rhinitis (also vasomotor rhinitis, atopic, papillary and vernal conjunctivitis, idiopathic urticaria) |
 | Predicted New Indication | Rosacea conjunctivitis |
-| TxGNN Prediction Score | 99.85% |
+| TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of NDAs | 5 (all cancelled; listed as ANDAs) |
 | Recommended Decision | Hold |
 
@@ -58,7 +58,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 Detailed mechanism of action data is not available in the data compiled for this report. Based on established pharmacology, fexofenadine is a selective peripheral histamine H1-receptor antagonist. Its efficacy in allergic, atopic, papillary and vernal conjunctivitis suggests a possible, indirect link to histamine-mediated inflammation of the ocular surface.
 
-However, the mechanistic rationale for rosacea conjunctivitis is weak. Ocular rosacea is driven mainly by meibomian gland dysfunction, Demodex colonization, innate immune activation and neurovascular dysregulation, with limited histamine involvement. The very high TxGNN score (99.85%) is a computational result that likely reflects network proximity to the approved conjunctivitis indications. It is not backed by clinical or literature evidence. Route compatibility and similarity to the original indications have not yet been assessed.
+However, the mechanistic rationale for rosacea conjunctivitis is weak. Ocular rosacea is driven mainly by meibomian gland dysfunction, Demodex colonization, innate immune activation and neurovascular dysregulation, with limited histamine involvement. The very high TxGNN score (0.9985) is a computational result that likely reflects network proximity to the approved conjunctivitis indications. It is not backed by clinical or literature evidence. Route compatibility and similarity to the original indications have not yet been assessed.
 
 ## Clinical Trial Evidence
 
@@ -78,7 +78,7 @@ Currently no related literature available.
 | ANDA212971 (cancelled) | Fexofenadine Hydrochloride | Tablet, film coated | Not listed |
 | ANDA076502 (cancelled) | Allergy Relief | Tablet | Not listed |
 
-All five authorizations are cancelled, and no valid single-ingredient or combination licenses remain in the compiled data.
+Five valid licenses are on record in the compiled data, and the drug is marketed.
 
 ## Safety Considerations
 
@@ -95,7 +95,7 @@ Please refer to the package insert for official warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score. There are no clinical trials or publications, the mechanistic link to rosacea-associated conjunctivitis is weak, and all US licenses in the data are cancelled.
+The prediction rests only on a model score. There are no clinical trials or publications, the mechanistic link to rosacea-associated conjunctivitis is weak, and the drug is marketed with five valid US licenses in the data.
 
 **To proceed, the following is needed:**
 - Retrieval and review of the FDA package insert warnings and contraindications

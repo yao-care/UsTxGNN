@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Acetaldehyde Acetic Acid Alpine Strawberry Anhydro
@@ -51,7 +52,7 @@ Without a recognizable drug identity, DrugBank mapping, or approved indication, 
 | Predicted New Indication | None — TxGNN returned no predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | Below L5 (no predictions generated; model could not process multi-ingredient compound as a single entity) |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 1) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

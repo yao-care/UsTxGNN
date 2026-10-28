@@ -47,21 +47,21 @@ The TxGNN model predicts it may be effective for **diabetic retinopathy**, but t
 |------|------|
 | Original Indication | Not available in the compiled data (the label text is blank; phenylketonuria is the generally known use) |
 | Predicted New Indication | Diabetic retinopathy |
-| TxGNN Prediction Score | 99.17% |
+| TxGNN Prediction Score | 0.9917 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 (BLA761079) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
-Two other predicted indications are closely related diabetic eye conditions with nearly identical scores: severe nonproliferative diabetic retinopathy (99.16%) and diabetic cataract (99.11%). All three also have no trials or literature.
+Two other predicted indications are closely related diabetic eye conditions with nearly identical scores: severe nonproliferative diabetic retinopathy (0.9916) and diabetic cataract (0.9911). All three also have no trials or literature.
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on general knowledge, pegvaliase is a PEGylated phenylalanine ammonia lyase that degrades phenylalanine, and it is used in phenylketonuria.
 
-The data does not support a mechanistic link to diabetic retinopathy. This condition is a microvascular complication driven mainly by hyperglycemia, VEGF signaling, and inflammation, and pegvaliase has no known action on these pathways. The high score is a graph-based computational prediction and does not reflect a demonstrated biological pathway. A speculative connection through amino acid metabolism could be imagined, but nothing in the evidence supports it.
+The data does not support a mechanistic link to diabetic retinopathy. This condition is a microvascular complication driven mainly by hyperglycemia, VEGF signaling, and inflammation, and pegvaliase has no known action on these pathways. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. A speculative connection through amino acid metabolism could be imagined, but nothing in the evidence supports it.
 
-The three predicted indications (diabetic retinopathy, its severe nonproliferative subtype, and diabetic cataract) are closely related and have nearly identical scores. This suggests a single correlated signal in the knowledge graph rather than three independent lines of evidence. Diabetic cataract is linked to polyol pathway activity, oxidative stress, and lens glycation, and pegvaliase has no known action on these processes either.
+The three predicted indications (diabetic retinopathy, its severe nonproliferative subtype, and diabetic cataract) are closely related and have nearly identical scores. This suggests a single correlated signal from the TxGNN model (deep learning), which may reflect similarities the model learned between related diseases, rather than three independent lines of evidence. Diabetic cataract is linked to polyol pathway activity, oxidative stress, and lens glycation, and pegvaliase has no known action on these processes either.
 
 ## Clinical Trial Evidence
 
@@ -91,7 +91,7 @@ Please refer to the package insert for the remaining safety information (warning
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a graph-based score, with no clinical trials, no publications, and no supported mechanism (Evidence Level L5). Pegvaliase also has a serious anaphylaxis risk, and its US licence is currently cancelled.
+The prediction rests only on a TxGNN model (deep learning) score, with no clinical trials, no publications, and no supported mechanism (Evidence Level L5). Pegvaliase also has a serious anaphylaxis risk. The drug is marketed in the US, with 1 valid licence out of 1.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

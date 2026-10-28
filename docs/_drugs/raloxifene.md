@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "Raloxifene"
 predicted_indications: ["duodenal ulcer (disease)", "hypoalphalipoproteinemia", "duodenal obstruction", "duodenogastric reflux"]
 last_modified_at: 2026-10-14
-description: "Raloxifene: predicted new indication Duodenal ulcer (evidence level L5). Approved use: Postmenopausal osteoporosis / osteoporosis"
+description: "Raloxifene: predicted new indication duodenal ulcer (evidence level L5). Approved use: Postmenopausal osteoporosis / osteoporosis"
 ---
 
 # Raloxifene
@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **duodenal ulcer**, but **0 cli
 |------|------|
 | Original Indication | Postmenopausal osteoporosis / osteoporosis |
 | Predicted New Indication | Duodenal ulcer |
-| TxGNN Prediction Score | 99.72% |
+| TxGNN Prediction Score | 0.9972 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 7) |
 | Number of NDAs | 7 (1 NDA and 6 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
@@ -57,15 +57,15 @@ The TxGNN model predicts it may be effective for **duodenal ulcer**, but **0 cli
 
 Currently, detailed mechanism of action data is not available. Based on known information, raloxifene is a selective estrogen receptor modulator, and its efficacy in postmenopausal osteoporosis has been established. Whether it could apply to duodenal ulcer is unclear.
 
-No mechanistic link is supported by the data compiled for this report. One speculative idea is that estrogen receptor effects might influence gastric or duodenal mucosal protection, but no retrieved evidence backs this. The high TxGNN score (0.997) is a knowledge-graph prediction only and should not be read as evidence of efficacy.
+No mechanistic link is supported by the data compiled for this report. One speculative idea is that estrogen receptor effects might influence gastric or duodenal mucosal protection, but no retrieved evidence backs this. The high TxGNN score (0.9972) is a TxGNN model (deep learning) prediction only and should not be read as evidence of efficacy.
 
 Other predicted indications show the same pattern:
 
 | Rank | Predicted Indication | Score | Comment |
 |------|------|------|------|
-| 2 | Hypoalphalipoproteinemia | 99.65% | Raloxifene modestly lowers LDL-C and total cholesterol, but has little documented HDL-raising effect. The link is speculative. |
-| 3 | Duodenal obstruction | 99.64% | The condition is mostly structural or mechanical and unlikely to respond to a SERM. Probably a graph-proximity artifact. |
-| 4 | Duodenogastric reflux | 99.59% | A motility and pyloric-function disorder with no documented role for estrogen receptor modulation. |
+| 2 | Hypoalphalipoproteinemia | 0.9965 | Raloxifene modestly lowers LDL-C and total cholesterol, but has little documented HDL-raising effect. The link is speculative. |
+| 3 | Duodenal obstruction | 0.9964 | The condition is mostly structural or mechanical and unlikely to respond to a SERM. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. |
+| 4 | Duodenogastric reflux | 0.9959 | A motility and pyloric-function disorder with no documented role for estrogen receptor modulation. |
 
 ## Clinical Trial Evidence
 
@@ -79,11 +79,11 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA020815 | Evista (Eli Lilly and Company) | Tablet | Not listed (cancelled) |
-| ANDA078193 | Raloxifene Hydrochloride (Teva) | Tablet, film coated | Not listed (cancelled) |
-| ANDA090842 | Raloxifene Hydrochloride (Cipla USA) | Tablet | Not listed (cancelled) |
-| ANDA204310 | Raloxifene Hydrochloride (Aurobindo) | Tablet, film coated | Not listed (cancelled) |
-| ANDA208206 | Raloxifene Hydrochloride (AvPAK) | Tablet, film coated | Not listed (cancelled) |
+| NDA020815 | Evista (Eli Lilly and Company) | Tablet | Not listed (valid) |
+| ANDA078193 | Raloxifene Hydrochloride (Teva) | Tablet, film coated | Not listed (valid) |
+| ANDA090842 | Raloxifene Hydrochloride (Cipla USA) | Tablet | Not listed (valid) |
+| ANDA204310 | Raloxifene Hydrochloride (Aurobindo) | Tablet, film coated | Not listed (valid) |
+| ANDA208206 | Raloxifene Hydrochloride (AvPAK) | Tablet, film coated | Not listed (valid) |
 
 Two further cancelled ANDAs (ANDA211324 and ANDA206384) are not shown. All 7 records are oral dosage forms and all are cancelled.
 
@@ -99,14 +99,14 @@ Please refer to the package insert for full warnings and contraindications, as l
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting clinical trials, literature, or mechanistic rationale (Evidence Level L5). The drug has no currently valid US licenses, and the knowledge graph flags substantial thromboembolic and cardiovascular risk. The signals do not justify moving forward.
+The prediction has no supporting clinical trials, literature, or mechanistic rationale (Evidence Level L5). The drug is marketed in the US with 7 valid licenses. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The signals do not justify moving forward.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and a credible biological link between estrogen receptor modulation and duodenal ulcer pathophysiology
 - Preclinical or observational evidence in duodenal ulcer or related gastric mucosal models
 - Package insert warnings and contraindications to complete the safety screening
 - Severity grading for drug interactions, especially with agents commonly used in peptic ulcer disease (PPIs, sucralfate)
-- Clarification of regulatory status, since all US licenses are cancelled, and a review of the route and dosing needed for the new indication
+- Clarification of regulatory status for the new indication, since the drug is marketed in the US with 7 valid licenses, and a review of the route and dosing needed for the new indication
 - A benefit-risk assessment in a population different from postmenopausal women, given the thromboembolic risk signals
 ## Disclaimer
 

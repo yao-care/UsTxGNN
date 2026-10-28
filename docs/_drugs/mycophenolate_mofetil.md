@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Mycophenolate Mofetil
-parent: Model Prediction Only (L5)
+parent: High Evidence (L1-L2)
 nav_order: 946
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 monitor_inn: "MYCOPHENOLATE MOFETIL"
 predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "bone Paget disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "multiple sclerosis", "hemosiderosis", "Heiner syndrome", "African iron overload", "neonatal hemochromatosis"]
@@ -14,7 +14,7 @@ description: "Mycophenolate Mofetil: predicted new indication HIV infectious dis
 # Mycophenolate Mofetil
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,9 +50,9 @@ The evidence is early-stage, mixed, and modest.
 |------|------|
 | Original Indication | Not available in the compiled data (no approved indication text was recorded) |
 | Predicted New Indication | HIV infectious disease |
-| TxGNN Prediction Score | 99.86% |
+| TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L2 (per the compiled scoring; see note below) |
-| US Market Status | Cancelled only (all listed licenses are cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 17) |
 | Number of NDAs | 17 licenses in total (NDAs and ANDAs) |
 | Recommended Decision | Hold |
 
@@ -100,7 +100,7 @@ However, the evidence is mixed. Benefit appears modest, and the drug carries imm
 
 ## US Market Information
 
-All 17 licenses in the compiled data are cancelled, and none includes approved indication text.
+The compiled data lists 17 valid licenses, and none includes approved indication text.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -137,7 +137,7 @@ The HIV prediction has a high model score and a plausible IMPDH and abacavir-pot
 - Mechanism of action data from a curated source such as DrugBank
 - Review of the existing small RCT results (PMID 15353978) and any follow-up showing durable effects on viral load or the latent reservoir
 - A safety plan covering opportunistic infection, malignancy and bone-marrow suppression in HIV patients
-- Clarification of the regulatory status, since all listed US licenses are cancelled
+- Clarification of the regulatory status, since 17 listed US licenses are valid
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

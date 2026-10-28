@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Doxapram
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 624
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 monitor_inn: "DOXAPRAM"
 predicted_indications: ["vascular disease", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "angiodysplasia of stomach", "blue toe syndrome", "hemangioendothelioma", "atheroembolism of kidney", "neurogenic thoracic outlet syndrome", "visceral calciphylaxis", "lymphangiectasis"]
@@ -14,7 +14,7 @@ description: "Doxapram: predicted new indication Vascular disease (evidence leve
 # Doxapram
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **vascular disease**, but there
 |------|------|
 | Original Indication | Respiratory failure |
 | Predicted New Indication | Vascular disease |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 1 |
+| TxGNN Prediction Score | 0.9999 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -61,7 +61,7 @@ The TxGNN model predicts it may be effective for **vascular disease**, but there
 
 Doxapram is a respiratory stimulant that acts on the peripheral carotid chemoreceptors and the brainstem respiratory centers. Currently, detailed mechanism of action data is not available in the data compiled for this report, so this description is based on general pharmacological knowledge.
 
-The retrieved literature shows only indirect hemodynamic effects: pressor responses in hypovolemic or hemorrhagic hypotension (in dogs and humans), and modulation of hypoxic pulmonary vasoconstriction. None of it supports treating an underlying vascular disease. The high TxGNN score is most likely a graph-based artifact driven by broad cardiovascular and hemodynamic associations, rather than a true mechanistic link.
+The retrieved literature shows only indirect hemodynamic effects: pressor responses in hypovolemic or hemorrhagic hypotension (in dogs and humans), and modulation of hypoxic pulmonary vasoconstriction. None of it supports treating an underlying vascular disease. The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 The other nine top-ranked predictions (for example thoracic outlet syndromes, blue toe syndrome, hemangioendothelioma, visceral calciphylaxis and lymphangiectasis) are model predictions only. They have no trials or literature, and no plausible mechanistic link to a respiratory stimulant.
 
@@ -96,7 +96,7 @@ Most items are animal studies, case reports, or safety reports. None tests doxap
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA014879 | DOXAPRAM HYDROCHLORIDE (HF Acquisition Co LLC, DBA HealthFirst) | Injection | Not listed (license cancelled) |
+| NDA014879 | DOXAPRAM HYDROCHLORIDE (HF Acquisition Co LLC, DBA HealthFirst) | Injection | Not listed (license valid) |
 
 ---
 

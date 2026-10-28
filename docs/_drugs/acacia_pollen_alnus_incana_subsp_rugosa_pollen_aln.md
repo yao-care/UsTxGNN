@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Acacia Pollen Alnus Incana Subsp Rugosa Pollen Aln
@@ -49,7 +50,7 @@ This candidate is a 40-component mixture of airborne pollen allergens, botanical
 | Predicted New Indication | None — TxGNN returned no prediction |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | Below L5 (no prediction generated) |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 1) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

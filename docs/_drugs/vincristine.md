@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Vincristine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1293
-evidence_level: L3
-indication_count: 3
-last_modified_at: 2026-10-14
-description: "Vincristine: predicted new indication Ganglioneuroblastoma (evidence level L3). Approved use: Acute lymphoblastic leukemia, Hodgkin lymphoma, non-Hodgkin lymphoma…"
+evidence_level: L5
+indication_count: 2
 monitor_inn: "VINCRISTINE"
-predicted_indications: ["ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
+predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
+last_modified_at: 2026-10-23
+description: "Vincristine: predicted new indication Vertebral anomalies and variable endocrine and T-cell dysfunction (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Vincristine
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,34 +33,36 @@ Evidence Level: **L3** | Predicted Indications: **3**
 
 </div>
 
-## Vincristine: From Lymphoid Cancers to Ganglioneuroblastoma
+## Vincristine: Vertebral anomalies and variable endocrine and T-cell dysfunction
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Vincristine is a vinca alkaloid chemotherapy drug, originally used for acute lymphoblastic leukemia, Hodgkin and non-Hodgkin lymphomas, and Langerhans cell histiocytosis.
-The TxGNN model predicts it may be effective for **Ganglioneuroblastoma**,
-with **0 registered clinical trials** and **6 publications** (mostly case reports) currently supporting this direction.
+The TxGNN model predicts it may be useful for **retroperitoneal neoplasm**, but there are **0 registered clinical trials** and only **case reports, small series and reviews** that mention vincristine as part of multi-drug regimens.
+Evidence for this specific disease is indirect and weak.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Acute lymphoblastic leukemia, Hodgkin lymphoma, non-Hodgkin lymphoma, mantle cell lymphoma, Langerhans cell histiocytosis (from the knowledge graph; no approved indication text is available in the US license record) |
-| Predicted New Indication | Ganglioneuroblastoma |
-| TxGNN Prediction Score | 99.31% |
-| Evidence Level | L3 |
-| US Market Status | Cancelled only (the single ANDA is cancelled) |
-| Number of NDAs | 1 (ANDA) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Vertebral anomalies and variable endocrine and T-cell dysfunction |
+| TxGNN Prediction Score | 0.9924 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
+| Number of approvals | 1 ANDA |
 | Recommended Decision | Hold |
+
+*Note on the top-ranked prediction:* The highest-ranked prediction, "vertebral anomalies and variable endocrine and T-cell dysfunction" (score 0.9924), has no trials or literature and no mechanistic link. It is not pursued here, and the report focuses on rank 2 because it has some literature.
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacological knowledge, vincristine binds tubulin and blocks microtubule polymerization, causing mitotic arrest in rapidly dividing cells.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Vincristine is generally known as a vinca alkaloid that binds tubulin, blocks microtubule polymerization and arrests dividing cells in metaphase. This is a general pharmacological description and not taken from the compiled data.
 
-Ganglioneuroblastoma is a neuroblastic tumor in the same family as neuroblastoma. Vincristine is a standard component of multi-agent chemotherapy for neuroblastic tumors, typically with cyclophosphamide, doxorubicin, and cisplatin. This biological and therapeutic proximity is consistent with the high TxGNN score.
+Retroperitoneal tumors, such as rhabdomyosarcoma, primitive neuroectodermal tumors, malignant paraganglioma and other pediatric sarcomas, are often highly proliferative. A drug that targets dividing cells is therefore biologically plausible. The published reports that mention vincristine for such tumors use it in combinations (for example cyclophosphamide, vincristine and dacarbazine; or vincristine, doxorubicin and cyclophosphamide). Vincristine's own contribution cannot be separated from the combination effect.
 
-There is an important caveat. The supplied literature is mostly case reports, plus one prospective trial in a broader neuroblastic tumor population. Vincristine's individual contribution within combination regimens cannot be isolated, and most supplied titles do not name vincristine. The link therefore rests on knowledge of standard regimens and is not confirmed by the data compiled here.
+Several of the reports concern paratesticular or testicular tumors with retroperitoneal spread, not primary retroperitoneal neoplasms. None of the cited studies is a controlled trial that directly tests vincristine in retroperitoneal neoplasm as a disease. This is a hypothesis-generating signal only.
 
 ## Clinical Trial Evidence
 
@@ -68,51 +70,60 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
+The literature consists mainly of case reports, small series and reviews. Selected entries, with the most relevant first:
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [31342649](https://pubmed.ncbi.nlm.nih.gov/31342649/) | 2019 | Prospective clinical trial (non-randomized) | Pediatric Blood & Cancer | JN-L-10 trial using image-defined risk factors to guide surgical timing in low-risk neuroblastic tumors; vincristine is not specifically evaluated |
-| [8255850](https://pubmed.ncbi.nlm.nih.gov/8255850/) | 1993 | Case report | Postgraduate Medical Journal | Spinal ganglioneuroblastoma in a 21-year-old achieved histologically proven complete remission with chemotherapy alone (doxorubicin, vincristine, cyclophosphamide, etoposide, ifosfamide, cisplatin) |
-| [15701990](https://pubmed.ncbi.nlm.nih.gov/15701990/) | 2005 | Case report | J Pediatr Hematol Oncol | Ganglioneuroblastoma presenting with obstructive jaundice; treated with a regimen of cisplatin, pirarubicin/doxorubicin, cyclophosphamide, and vincristine |
-| [7421294](https://pubmed.ncbi.nlm.nih.gov/7421294/) | 1980 | Case series | J Thorac Cardiovasc Surg | 31 patients with intrathoracic ganglioneuroblastoma treated with resection, radiation, or chemotherapy; 27 survived, with follow-up up to 25 years |
-| [3071124](https://pubmed.ncbi.nlm.nih.gov/3071124/) | 1988 | Case report | Hinyokika Kiyo | Multimodality treatment of adult adrenal ganglioneuroblastoma with giant regional lymph node metastasis |
-| [8888754](https://pubmed.ncbi.nlm.nih.gov/8888754/) | 1996 | Case report | J Pediatr Hematol Oncol | Rare gastric involvement in an infant with stage 4 multifocal ganglioneuroblastoma |
+| [9058098](https://pubmed.ncbi.nlm.nih.gov/9058098/) | 1997 | Case series / chemotherapy report | Internal Medicine | Cyclophosphamide, vincristine and dacarbazine in malignant paraganglioma with retroperitoneal tumor and liver metastasis |
+| [15739629](https://pubmed.ncbi.nlm.nih.gov/15739629/) | 2004 | Case report with review | Pediatric Hematology and Oncology | Retroperitoneal paraganglioma in a child; chemotherapy with cyclophosphamide, vincristine and dacarbazine considered for debulking before surgery |
+| [4027886](https://pubmed.ncbi.nlm.nih.gov/4027886/) | 1985 | Case report | Cancer | Doxorubicin, vincristine and cyclophosphamide gave complete responses in two infants with inoperable infantile fibrosarcoma and extensive retroperitoneal involvement |
+| [30054848](https://pubmed.ncbi.nlm.nih.gov/30054848/) | 2018 | Review | World Journal of Pediatrics | Kaposiform hemangioendothelioma in children; multiple treatment options reviewed. Relevance to retroperitoneal neoplasm is indirect |
+| [30652419](https://pubmed.ncbi.nlm.nih.gov/30652419/) | 2019 | Clinical study | Cancer Medicine | Multimodality treatment and risk factors in desmoplastic small round cell tumors |
+| [34689500](https://pubmed.ncbi.nlm.nih.gov/34689500/) | 2021 | Case report | J Coll Physicians Surg Pak | Testicular primitive neuroectodermal tumor with retroperitoneal lymphadenopathy; treated with IE and VAC chemotherapy (VAC includes vincristine) |
+| [2122010](https://pubmed.ncbi.nlm.nih.gov/2122010/) | 1990 | Case series | The Journal of Urology | Results of therapy in 18 children with paratesticular rhabdomyosarcoma |
+| [2191575](https://pubmed.ncbi.nlm.nih.gov/2191575/) | 1990 | Case report | Hinyokika Kiyo | Paratesticular rhabdomyosarcoma with retroperitoneal node metastasis; VAC and VAD therapy was effective |
+| [2239618](https://pubmed.ncbi.nlm.nih.gov/2239618/) | 1990 | Case report | Hinyokika Kiyo | Paratesticular rhabdomyosarcoma treated with CYVADIC after retroperitoneal lymph node removal |
+| [30222020](https://pubmed.ncbi.nlm.nih.gov/30222020/) | 2018 | Case report with review | J Int Med Res | Interdigitating dendritic cell sarcoma with retroperitoneal infiltration; five cycles of chemotherapy including vincristine |
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA071484 (cancelled) | VinCRIStine Sulfate (Hospira, Inc.) | Injection, solution | Not available |
+| ANDA071484 | VinCRIStine Sulfate (Hospira, Inc.) | Injection, solution | Indication text not available in the licence record |
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Conventional cytotoxic (vinca alkaloid, antimicrotubule agent) |
+| Cytotoxicity Classification | Conventional cytotoxic (vinca alkaloid, microtubule inhibitor) |
 | Myelosuppression Risk | Please refer to the package insert warnings and precautions |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Complete blood count (leukopenia appears in the contraindication data), liver function and bilirubin, neurological assessment for peripheral neuropathy |
+| Monitoring Items | Please refer to the package insert warnings and precautions; at minimum, blood counts, liver function and neurological status |
 | Handling Protection | Must follow cytotoxic drug handling regulations |
 
 ## Safety Considerations
 
-- **Contraindications (knowledge-graph data, not label text)**: Liver failure, cholestasis and other hyperbilirubinemia conditions (including Gilbert syndrome), leukopenia, peripheral neuropathy and neuromuscular disease (including Charcot-Marie-Tooth disease), acute urate nephropathy, and certain infectious diseases (fungal infection, dermatophytosis).
-- **Drug Interactions**: 100 interactions were identified; the list reviewed here is a partial one. The major interaction is with **clarithromycin**. Moderate interactions include aprepitant, dexamethasone, metronidazole, eliglustat, naltrexone, miconazole, rolapitant, rosuvastatin, simvastatin, tinidazole, and troglitazone. Many of these involve CYP3A4 or transporter effects, so co-medication needs careful review.
+- **Contraindication-type relations in the knowledge graph** (not label text): liver failure, cholestasis, hyperbilirubinemia (including Gilbert syndrome), leukopenia, peripheral neuropathy and other neuromuscular disorders (including Charcot-Marie-Tooth disease, motor neuritis), acute urate nephropathy, and fungal or other infectious disease.
+- **Drug interactions:** 100 interactions were found. Examples:
+  - Major: clarithromycin.
+  - Moderate: aprepitant, dexamethasone, metronidazole, eliglustat, naltrexone, miconazole, rolapitant, rosuvastatin, simvastatin, tinidazole, troglitazone, glycerol phenylbutyrate.
+  - Minor: levofloxacin.
 
-Package insert warnings and contraindications were not available, so please refer to the package insert for the full safety information.
+Label warnings and contraindications were not available. Please refer to the package insert for full safety information.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The evidence is limited to case reports and one non-randomized trial in a broader population, with no registered trials specific to this indication. Vincristine's own contribution cannot be separated from combination regimens. Its US license is cancelled, and label-level safety data are missing, so the case does not yet support advancing.
+The prediction score is high, but it is computational. There are no registered trials, and the literature consists of case reports and small series in which vincristine is given within multi-drug regimens for heterogeneous tumors, many not strictly retroperitoneal. No cited study directly addresses retroperitoneal neoplasm as a disease with vincristine as the tested agent, so the evidence level is L5.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications (a blocking data gap for safety screening)
-- Mechanism of action data from DrugBank
-- Systematic review of neuroblastic tumor trials (for example, COG or SIOPEN protocols) to isolate vincristine's role
-- Confirmation of a current marketed vincristine product and its approved indications in the US
-- A plan for managing neurotoxicity, hepatic impairment, and drug interaction risks in the target population
+- Package insert warnings, contraindications and approved indications (currently missing)
+- Mechanism-of-action data from DrugBank
+- A systematic review separating vincristine's contribution from the other drugs in the regimens, restricted to true retroperitoneal tumors
+- Definition of specific tumor subtypes (for example sarcoma or paraganglioma) for any further study
+- A neurotoxicity and hepatic-function monitoring plan, given the knowledge-graph contraindication relations
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

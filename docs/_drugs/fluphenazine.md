@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "FLUPHENAZINE"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "syndromic myopia", "myopia X-linked", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "atypical glycine encephalopathy", "manic bipolar affective disorder"]
 last_modified_at: 2026-10-14
-description: "Fluphenazine: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Schizophrenia, psychotic disorder, schizoaffective disorder…"
+description: "Fluphenazine: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Fluphenazine
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Fluphenazine: From Schizophrenia and Psychotic Disorders to Retinal Dystrophy
+## Fluphenazine: Retinal dystrophy with or without extraocular anomalies
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ but **0 clinical trials** and **0 publications** currently support this directio
 
 | Item | Content |
 |------|------|
-| Original Indication | Schizophrenia, psychotic disorder, schizoaffective disorder, schizophreniform disorder, mental disorder |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| US Market Status | ✗ Cancelled only (no active authorizations) |
+| US Market Status | Marketed (valid licenses on record: at least 13) |
 | Number of NDAs | 13 (all cancelled; ANDA generic applications) |
 | Recommended Decision | Hold |
 
@@ -58,7 +58,7 @@ but **0 clinical trials** and **0 publications** currently support this directio
 
 Detailed mechanism of action data is not available in the data compiled for this report. Fluphenazine is known as a phenothiazine dopamine D2 receptor antagonist, and its efficacy in schizophrenia and other psychotic disorders is well established.
 
-**The prediction is not mechanistically supported.** No known pathway connects D2 antagonism to inherited retinal dystrophies, which are genetically driven degenerative conditions. The high TxGNN score (99.99%) reflects network-based similarity in the knowledge graph, not biological or clinical evidence. Phenothiazines are also associated with retinal toxicity (pigmentary retinopathy) at high doses, which argues against this use.
+**The prediction is not mechanistically supported.** No known pathway connects D2 antagonism to inherited retinal dystrophies, which are genetically driven degenerative conditions. The high TxGNN score (0.9999) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological or clinical evidence. Phenothiazines are also associated with retinal toxicity (pigmentary retinopathy) at high doses, which argues against this use.
 
 The related predictions for syndromic myopia, X-linked myopia and several congenital neurological or metabolic disorders show the same pattern: no mechanism and no evidence. Of the ten predictions reviewed, only **manic bipolar affective disorder** (rank 10) is biologically plausible, because D2 antagonism underlies antipsychotic efficacy in mania.
 
@@ -72,15 +72,15 @@ Currently no related literature available.
 
 ## US Market Information
 
-All 13 authorizations are generic applications (ANDA) with cancelled status, and none is currently valid. Five examples:
+Five examples:
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
 |---------|------|------|------|------|
-| ANDA218173 | Fluphenazine Hydrochloride | Film-coated tablet | Alembic Pharmaceuticals Inc. | Cancelled |
-| ANDA213647 | Fluphenazine Hydrochloride | Film-coated tablet | Amneal Pharmaceuticals NY LLC | Cancelled |
-| ANDA218055 | Fluphenazine Hydrochloride | Tablet | Aurobindo Pharma Limited | Cancelled |
-| ANDA089556 | Fluphenazine Hydrochloride | Solution for injection | Fresenius Kabi USA, LLC | Cancelled |
-| ANDA040146 | Fluphenazine Hydrochloride | Elixir | PAI Holdings, LLC dba PAI Pharma | Cancelled |
+| ANDA218173 | Fluphenazine Hydrochloride | Film-coated tablet | Alembic Pharmaceuticals Inc. | Valid |
+| ANDA213647 | Fluphenazine Hydrochloride | Film-coated tablet | Amneal Pharmaceuticals NY LLC | Valid |
+| ANDA218055 | Fluphenazine Hydrochloride | Tablet | Aurobindo Pharma Limited | Valid |
+| ANDA089556 | Fluphenazine Hydrochloride | Solution for injection | Fresenius Kabi USA, LLC | Valid |
+| ANDA040146 | Fluphenazine Hydrochloride | Elixir | PAI Holdings, LLC dba PAI Pharma | Valid |
 
 Dosage forms across all authorizations: oral tablets (plain and film-coated), injectable solution and oral elixir.
 
@@ -104,7 +104,7 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a graph-based score. No clinical trials or literature support it, no mechanism links D2 antagonism to retinal dystrophy, and phenothiazine retinal toxicity argues against the use. All US authorizations are also cancelled.
+The prediction rests only on a TxGNN model (deep learning) score, which may reflect similarities the model learned between related diseases, not biological evidence. No clinical trials or literature support it, no mechanism links D2 antagonism to retinal dystrophy, and phenothiazine retinal toxicity argues against the use. In the US, 13 authorizations are currently valid and the drug is marketed.
 
 **To proceed, the following is needed:**
 - Mechanistic evidence, or preclinical data, showing a plausible effect in retinal dystrophy models

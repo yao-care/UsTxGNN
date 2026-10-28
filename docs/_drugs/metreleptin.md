@@ -47,19 +47,19 @@ The TxGNN model predicts it may be effective for **familial generalized lentigin
 |------|------|
 | Original Indication | Lipodystrophy (including Berardinelli-Seip congenital lipodystrophy and congenital generalized lipodystrophy) |
 | Predicted New Indication | Familial generalized lentiginosis |
-| TxGNN Prediction Score | 99.71% |
+| TxGNN Prediction Score | 0.9971 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (the single BLA is cancelled) |
-| Number of NDAs | 1 (BLA) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, metreleptin is a recombinant leptin analog used to replace leptin in patients with lipodystrophy, where leptin deficiency drives metabolic disease such as insulin resistance and abnormal lipid levels.
 
-The data compiled for this report show no plausible mechanistic link between leptin replacement and familial generalized lentiginosis, which is a pigmentation disorder. The high score (99.71%) is a knowledge-graph prediction only. It most likely reflects shared graph neighbors, such as rare congenital syndromes with skin findings, rather than a verified biological mechanism. The prediction should be treated as a hypothesis, not as evidence of efficacy.
+The data compiled for this report show no plausible mechanistic link between leptin replacement and familial generalized lentiginosis, which is a pigmentation disorder. The high score (0.9971) comes from the TxGNN model (deep learning) only. It may reflect similarities the model learned between related diseases, not biological evidence. The prediction should be treated as a hypothesis, not as evidence of efficacy.
 
-Other top-ranked predictions are similarly unsupported. They include gastrocutaneous syndrome, Moynahan syndrome, rhabdoid tumor, and several pigmentary or rare congenital syndromes, each with scores near 99.5–99.7% and no trials or literature. For rhabdoid tumor, leptin signaling has been discussed in cancer biology and may promote rather than suppress tumor growth, which raises a potential safety concern for any oncology use.
+Other top-ranked predictions are similarly unsupported. They include gastrocutaneous syndrome, Moynahan syndrome, rhabdoid tumor, and several pigmentary or rare congenital syndromes, each with scores near 99.5–0.9970 and no trials or literature. For rhabdoid tumor, leptin signaling has been discussed in cancer biology and may promote rather than suppress tumor growth, which raises a potential safety concern for any oncology use.
 
 ## Clinical Trial Evidence
 

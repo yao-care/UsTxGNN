@@ -50,19 +50,19 @@ So far there are **0 clinical trials** and **0 publications** supporting this di
 |------|------|
 | Original Indication | Not stated in the available license data |
 | Predicted New Indication | Severe nonproliferative diabetic retinopathy |
-| TxGNN Prediction Score | 99.61% |
+| TxGNN Prediction Score | 0.9961 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (the single license, BLA125267, is cancelled) |
-| Number of NDAs | 1 (a BLA, not an NDA) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 Other predicted indications, all L5 with no supporting studies:
 
 | Rank | Predicted Indication | TxGNN Score |
 |------|------|------|
-| 2 | Primary release disorder of platelets | 99.31% |
-| 3 | Diabetic retinopathy | 99.25% |
-| 4 | Pseudo-von Willebrand disease | 99.09% |
+| 2 | Primary release disorder of platelets | 0.9931 |
+| 3 | Diabetic retinopathy | 0.9925 |
+| 4 | Pseudo-von Willebrand disease | 0.9909 |
 
 ---
 

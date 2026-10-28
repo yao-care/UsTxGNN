@@ -4,17 +4,17 @@ title: Primaquine
 parent: Model Prediction Only (L5)
 nav_order: 1082
 evidence_level: L5
-indication_count: 8
+indication_count: 7
 last_modified_at: 2026-10-14
-description: "Primaquine: predicted new indication Myiasis (evidence level L5). Approved use: Plasmodium vivax malaria"
 monitor_inn: "PRIMAQUINE"
 predicted_indications: ["myiasis", "creeping myiasis", "furuncular myiasis", "wound myiasis", "toxoplasmosis", "nocardiosis", "pneumocystosis"]
+description: "Primaquine: predicted new indication Myiasis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Primaquine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **8** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-## Primaquine: From Plasmodium vivax Malaria to Myiasis
+## Primaquine: Myiasis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,12 +48,12 @@ The prediction rests on model output alone and has no biological rationale behin
 
 | Item | Content |
 |------|------|
-| Original Indication | Plasmodium vivax malaria |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Myiasis |
-| TxGNN Prediction Score | 99.76% |
+| TxGNN Prediction Score | 0.9976 |
 | Evidence Level | L5 (model prediction only) |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 3 |
+| US Market Status | Marketed (valid licenses: 3 of 3) |
+| Number of NDAs | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ---
@@ -64,7 +64,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 Myiasis is a different kind of disease. It is an infestation by fly larvae, which are multicellular arthropods rather than protozoa. Treatment is normally larval removal, occlusion or debridement, with ivermectin sometimes used. Primaquine has no known activity against fly larvae.
 
-The high TxGNN score therefore looks like a graph-based artifact, probably driven by generic antiparasitic associations. The related subtypes (creeping, furuncular and wound myiasis) received nearly identical scores, which supports this reading. No mechanistic link between primaquine and myiasis could be identified.
+The high TxGNN score therefore likely reflects similarities the model learned between related diseases, not biological evidence, and is probably driven by generic antiparasitic associations. The related subtypes (creeping, furuncular and wound myiasis) received nearly identical scores, which supports this reading. No mechanistic link between primaquine and myiasis could be identified.
 
 ---
 
@@ -82,13 +82,13 @@ Currently no related literature available.
 
 ## US Market Information
 
-All three US authorizations for primaquine are cancelled.
+All three US authorizations for primaquine are valid.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
 |---------|------|------|------|------|
-| NDA008316 | Primaquine Phosphate | Tablet, film coated | Sanofi-Aventis U.S. LLC | Cancelled |
-| ANDA206043 | Primaquine Phosphate | Tablet, film coated | Ingenus Pharmaceuticals, LLC | Cancelled |
-| ANDA204476 | Primaquine Phosphate | Tablet | Unichem Pharmaceuticals (USA), Inc. | Cancelled |
+| NDA008316 | Primaquine Phosphate | Tablet, film coated | Sanofi-Aventis U.S. LLC | Valid |
+| ANDA206043 | Primaquine Phosphate | Tablet, film coated | Ingenus Pharmaceuticals, LLC | Valid |
+| ANDA204476 | Primaquine Phosphate | Tablet | Unichem Pharmaceuticals (USA), Inc. | Valid |
 
 ---
 
@@ -109,7 +109,7 @@ Please refer to the package insert for full warnings and precautions.
 **Decision: Hold**
 
 **Rationale:**
-The myiasis prediction has no clinical trials, no literature and no plausible mechanism. Its Evidence Level is L5, and all US licenses are cancelled. The hemolysis risk in G6PD deficiency adds further caution, so there is no basis for advancing this indication.
+The myiasis prediction has no clinical trials, no literature and no plausible mechanism. Its Evidence Level is L5, and all three US licenses are valid. The hemolysis risk in G6PD deficiency adds further caution, so there is no basis for advancing this indication.
 
 **To proceed, the following is needed:**
 - Any preclinical or mechanistic evidence of primaquine activity against fly larvae. Without it, further investment is not justified.

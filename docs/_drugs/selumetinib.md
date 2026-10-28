@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Selumetinib
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1154
-evidence_level: L3
+evidence_level: L5
 indication_count: 10
 monitor_inn: "SELUMETINIB"
 predicted_indications: ["familial generalized lentiginosis", "gastrocutaneous syndrome", "rhabdoid tumor", "acromelanosis", "congenital multiple café-au-lait macules-increased sister chromatid exchange syndrome", "Moynahan syndrome", "leukonychia totalis-acanthosis-nigricans-like lesions-abnormal hair syndrome", "osteopathia striata-pigmentary dermopathy-white forelock syndrome", "peripheral nerve schwannoma", "microcystic/reticular schwannoma"]
 last_modified_at: 2026-10-14
-description: "Selumetinib: predicted new indication Peripheral nerve schwannoma (evidence level L3). Approved use: Neurofibromatosis"
+description: "Selumetinib: predicted new indication Familial generalized lentiginosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Selumetinib
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-## Selumetinib: From Neurofibromatosis to Peripheral Nerve Schwannoma
+## Selumetinib: Familial generalized lentiginosis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,12 +48,12 @@ with **3 clinical trials** and **6 publications** currently supporting this dire
 
 | Item | Content |
 |------|------|
-| Original Indication | Neurofibromatosis |
-| Predicted New Indication | Peripheral nerve schwannoma (the report's primary prediction, chosen as the best-supported of the top 10 predictions) |
-| TxGNN Prediction Score | 99.95% (the top-ranked prediction, familial generalized lentiginosis, scores 99.96%, but has no supporting evidence) |
-| Evidence Level | L3 |
-| US Market Status | Cancelled only (both NDAs are listed as cancelled in the data compiled for this report) |
-| Number of NDAs | 2 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Familial generalized lentiginosis |
+| TxGNN Prediction Score | 0.9996 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 **Note on selection:** The top-ranked prediction (familial generalized lentiginosis) has no trials or literature. Peripheral nerve schwannoma (rank 9) is the best-supported prediction, so it is the focus here. Rhabdoid tumor (rank 3) has only indirect evidence. The other seven predictions are model output only (L5).
@@ -97,8 +97,8 @@ Clinical support in NF2-related schwannoma is still thin. It consists of one sma
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA213756 | KOSELUGO (AstraZeneca) | Capsule | Not available (status: cancelled) |
-| NDA219943 | KOSELUGO (AstraZeneca) | Granule | Not available (status: cancelled) |
+| NDA213756 | KOSELUGO (AstraZeneca) | Capsule | Not available (status: valid) |
+| NDA219943 | KOSELUGO (AstraZeneca) | Granule | Not available (status: valid) |
 
 ---
 

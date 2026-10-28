@@ -48,10 +48,10 @@ with **39 clinical trials** and **18 publications** compiled for this prediction
 |------|------|
 | Original Indication | Not available in the data compiled for this report (approved indication text is blank for all licenses) |
 | Predicted New Indication | Myelodysplastic syndrome |
-| TxGNN Prediction Score | 99.62% |
+| TxGNN Prediction Score | 0.9962 |
 | Evidence Level | L1 |
-| US Market Status | Cancelled only (all 9 listed licenses are in cancelled status) |
-| Number of NDAs | 9 (2 NDAs and 7 ANDAs) |
+| US Market Status | Marketed (valid licenses: 9 of 9) |
+| Number of NDAs | 9 (valid: 9) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
@@ -100,7 +100,7 @@ Note: the literature shows that treosulfan compared favorably with reduced-inten
 
 ## US Market Information
 
-All 9 listed licenses are in cancelled status; the approved indication text is blank in the compiled data.
+All 9 listed licenses are valid (9 of 9); the approved indication text is blank in the compiled data.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -140,7 +140,7 @@ Multiple randomized phase 3 and phase 2/3 trials and several phase 3 publication
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking data gap for safety screening)
 - Mechanism of action data
-- Clarification of the approved indications and why all US licenses are listed as cancelled
+- Clarification of the approved indications; all 9 of 9 US licenses are valid and the drug is marketed
 - Safety guardrails: PK-targeted IV busulfan dosing, conditioning intensity matched to age and comorbidity, seizure prophylaxis and VOD monitoring
 - Disease-specific evidence before considering the lower-ranked predictions (refractory cytopenia of childhood and aplastic anemia may warrant follow-up; the remaining predictions should be held)
 ## Disclaimer

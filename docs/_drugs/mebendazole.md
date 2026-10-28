@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "MEBENDAZOLE"
 predicted_indications: ["acne (disease)"]
 last_modified_at: 2026-10-14
-description: "Mebendazole: predicted new indication Acne (disease) (evidence level L5). Approved use: Enterobiasis, ascaridiasis, trichuriasis"
+description: "Mebendazole: predicted new indication Acne (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Mebendazole
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-## Mebendazole: From Enterobiasis, Ascaridiasis and Trichuriasis to Acne
+## Mebendazole: Acne (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,12 +47,12 @@ The TxGNN model predicts it may be effective for **acne**, but there are current
 
 | Item | Content |
 |------|------|
-| Original Indication | Enterobiasis, ascaridiasis, trichuriasis (from the knowledge graph; the US license record has no indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Acne (disease) |
-| TxGNN Prediction Score | 99.20% |
+| TxGNN Prediction Score | 0.9920 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -63,7 +63,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 No credible mechanistic link to acne was identified. Acne is driven by excess sebum production, follicular hyperkeratinization, *Cutibacterium acnes* colonization and inflammation. No established pathway connects tubulin inhibition to these processes. Possible anti-proliferative or anti-inflammatory effects on keratinocytes or sebocytes are speculative and not supported by the available data.
 
-The high TxGNN score (0.992) reflects a knowledge-graph prediction only and should not be read as evidence of efficacy. The model's rank for this prediction was 17,535.
+The high TxGNN score (0.992) reflects a TxGNN model (deep learning) prediction only and should not be read as evidence of efficacy. The model's rank for this prediction was 17,535.
 
 ---
 
@@ -85,7 +85,7 @@ Currently no related clinical trials registered.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA208398 | VERMOX (Janssen Pharmaceuticals, Inc.) | Chewable tablet (oral) | Not recorded; license status: cancelled |
+| NDA208398 | VERMOX (Janssen Pharmaceuticals, Inc.) | Chewable tablet (oral) | Not recorded; license status: valid |
 
 ---
 
@@ -106,7 +106,7 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a knowledge-graph score, with no clinical trials, no relevant literature and no plausible mechanistic link between tubulin inhibition and acne pathology. The only US license is cancelled, and label safety data is unavailable.
+The prediction rests only on a TxGNN model (deep learning) score, with no clinical trials, no relevant literature and no plausible mechanistic link between tubulin inhibition and acne pathology. The only US license is cancelled, and label safety data is unavailable.
 
 **To proceed, the following is needed:**
 - Mechanism of action data (e.g., from DrugBank) and a rigorous assessment of any biological link to acne

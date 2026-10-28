@@ -8,7 +8,7 @@ indication_count: 7
 monitor_inn: "PENTOSTATIN"
 predicted_indications: ["botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "liver sarcoma"]
 last_modified_at: 2026-10-14
-description: "Pentostatin: predicted new indication Botryoid-type embryonal rhabdomyosarcoma of the vagina (evidence level L5). Approved use: Hairy cell leukemia"
+description: "Pentostatin: predicted new indication Botryoid-type embryonal rhabdomyosarcoma of the vagina (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Pentostatin
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-## Pentostatin: From Hairy Cell Leukemia to Botryoid-Type Embryonal Rhabdomyosarcoma of the Vagina
+## Pentostatin: Botryoid-type embryonal rhabdomyosarcoma of the vagina
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,21 +46,21 @@ but **no clinical trials** and **no publications** currently support this predic
 
 | Item | Content |
 |------|------|
-| Original Indication | Hairy cell leukemia (hairy cell leukemia variant is also listed; the US license record contains no indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Botryoid-type embryonal rhabdomyosarcoma of the vagina |
-| TxGNN Prediction Score | 99.54% |
+| TxGNN Prediction Score | 0.9954 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Pentostatin is known as an adenosine deaminase (ADA) inhibitor that disrupts purine metabolism, and it is approved for hairy cell leukemia. Detailed mechanism-of-action data were not available in the data compiled for this report, so the mechanism described here comes from general pharmacological knowledge and could not be verified against the supplied data.
 
-No trial, publication, or mechanistic data link ADA inhibition to the biology of embryonal rhabdomyosarcoma. The high score (0.995) most likely reflects knowledge-graph proximity to other cytotoxic oncology agents rather than disease-specific evidence. The prediction should be treated as a hypothesis only.
+No trial, publication, or mechanistic data link ADA inhibition to the biology of embryonal rhabdomyosarcoma. The high score (0.9954) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The prediction should be treated as a hypothesis only.
 
-Several other top predictions are closely related rhabdomyosarcoma entries (parameningeal embryonal, the parent "rhabdomyosarcoma" category, bile duct subtypes, prostate embryonal), plus liver sarcoma. They share nearly identical scores (0.994–0.995) and are probably propagated from the parent rhabdomyosarcoma node, so they should not be counted as independent evidence. Before any further consideration, a preclinical rationale, such as ADA dependence in rhabdomyosarcoma cell lines, would be needed.
+Several other top predictions are closely related rhabdomyosarcoma entries (parameningeal embryonal, the parent "rhabdomyosarcoma" category, bile duct subtypes, prostate embryonal), plus liver sarcoma. They share nearly identical scores (0.9942–0.995) and are probably propagated from the parent rhabdomyosarcoma node, so they should not be counted as independent evidence. Before any further consideration, a preclinical rationale, such as ADA dependence in rhabdomyosarcoma cell lines, would be needed.
 
 ## Clinical Trial Evidence
 
@@ -83,12 +83,11 @@ Currently no related literature available.
 | Cytotoxicity Classification | Conventional cytotoxic (purine analogue / ADA inhibitor class) |
 | Myelosuppression Risk | Please refer to the package insert warnings and precautions. The knowledge graph links the drug to neutropenia, thrombocytopenia, leukopenia, anemia and agranulocytosis as contraindicated conditions, which suggests hematologic risk |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Complete blood count with differential, liver and renal function (the knowledge graph flags kidney and liver disease), infection surveillance |
 | Handling Protection | Follow cytotoxic drug handling regulations |
 
 ## Safety Considerations
 
-- **Contraindicated conditions (knowledge-graph associations, not label text)**: kidney disease, pyoureter, liver disease, gallbladder disease, thrombocytopenia, infectious disease, neutropenia, agranulocytosis, hypotensive disorder, anemia, macrocytic anemia, leukopenia, pulmonary edema.
+- **Contraindicated conditions (from the TxGNN model (deep learning), not label text; these may reflect similarities the model learned between related diseases, not biological evidence)**: kidney disease, pyoureter, liver disease, gallbladder disease, thrombocytopenia, infectious disease, neutropenia, agranulocytosis, hypotensive disorder, anemia, macrocytic anemia, leukopenia, pulmonary edema.
 - **Drug Interactions**: 100 interactions were recorded. Examples of the 20 reviewed:
   - **Major**: deferiprone, samarium (153Sm) lexidronam, adalimumab, baricitinib
   - **Moderate**: mercaptopurine, zidovudine, chloramphenicol, azathioprine, alemtuzumab, aldesleukin, palifermin, roflumilast, strontium chloride Sr-89, anakinra, alefacept, and several vaccines (tetanus toxoid, anthrax)

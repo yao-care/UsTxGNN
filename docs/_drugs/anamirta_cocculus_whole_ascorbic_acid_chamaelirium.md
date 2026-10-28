@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Anamirta Cocculus Whole Ascorbic Acid Chamaelirium
@@ -51,7 +52,8 @@ As a result, a full repurposing evaluation cannot be completed at this stage; th
 | Predicted New Indication | No TxGNN prediction available |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | Below L5 — no model output, no studies |
-| Market Status | Not Marketed (Not marketed) |
+| Market Status | Marketed (valid licenses on record: at least 8) |
+| Number of NDAs | at least 8 |
 | Number of Approvals | 0 |
 | Recommended Decision | **Hold** |
 

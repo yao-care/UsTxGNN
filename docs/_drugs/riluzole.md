@@ -4,7 +4,7 @@ title: Riluzole
 parent: Model Prediction Only (L5)
 nav_order: 1124
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
 description: "Riluzole: predicted new indication Bilateral parasagittal parieto-occipital polymicrogyria (evidence level L5). Approved use: Amyotrophic lateral sclerosis"
 monitor_inn: "RILUZOLE"
@@ -14,7 +14,7 @@ predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria
 # Riluzole
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,17 +47,17 @@ The TxGNN model predicts it may be effective for **bilateral parasagittal pariet
 |------|------|
 | Original Indication | Amyotrophic lateral sclerosis |
 | Predicted New Indication | Bilateral parasagittal parieto-occipital polymicrogyria |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all listed authorizations are cancelled) |
-| Number of NDAs | 6 |
+| US Market Status | Marketed (valid licenses: 6 of 6) |
+| Number of NDAs | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism-of-action data is not available in the data compiled for this report. From general knowledge, riluzole is thought to act by reducing glutamate release and modulating persistent sodium currents. This is the basis for its modest survival benefit in ALS.
 
-Polymicrogyria is a cortical malformation, which is often associated with epilepsy and neurodevelopmental problems. A glutamate-modulating drug could plausibly relate to such conditions, but this link is speculative. No trial or publication in the data directly supports it. The high TxGNN score (99.99%) reflects a knowledge-graph association only and should not be read as clinical evidence.
+Polymicrogyria is a cortical malformation, which is often associated with epilepsy and neurodevelopmental problems. A glutamate-modulating drug could plausibly relate to such conditions, but this link is speculative. No trial or publication in the data directly supports it. The high TxGNN score (0.9999) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, so it should not be read as clinical evidence.
 
 Other top-ranked predictions are closer to riluzole's original use, such as lower motor neuron syndrome with late-adult onset, monomelic amyotrophy, Mills syndrome, and genetic ALS subtypes. They are more biologically plausible by analogy to ALS, but they also have no direct trials or literature in the data. Several others, such as axial spondylometaphyseal dysplasia and trichomegaly-retina pigmentary degeneration-dwarfism syndrome, show no identifiable mechanistic link.
 
@@ -69,7 +69,6 @@ Currently no related clinical trials registered.
 
 Currently no related literature available for the top-ranked prediction.
 
-For reference, the eighth-ranked prediction, "amyotrophic lateral sclerosis, susceptibility to", has literature. It overlaps with riluzole's original indication, so it is not a true repurposing case. Selected records:
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
@@ -84,17 +83,17 @@ These records are indirect evidence. They do not show efficacy for the predicted
 
 ## US Market Information
 
-All six authorizations are cancelled. No approved-indication text is available in the data.
+All six authorizations are valid. No approved-indication text is available in the data.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| ANDA204048 | Riluzole (Ascend Laboratories) | Tablet | Cancelled |
-| ANDA091417 | Riluzole (Sun Pharmaceutical) | Tablet, film coated | Cancelled |
-| ANDA091394 | Riluzole (Glenmark) | Tablet, film coated | Cancelled |
-| ANDA206045 | Riluzole (AvKARE) | Tablet, film coated | Cancelled |
-| NDA209080 | TIGLUTIK (EDW Pharma) | Liquid | Cancelled |
+| ANDA204048 | Riluzole (Ascend Laboratories) | Tablet | Valid |
+| ANDA091417 | Riluzole (Sun Pharmaceutical) | Tablet, film coated | Valid |
+| ANDA091394 | Riluzole (Glenmark) | Tablet, film coated | Valid |
+| ANDA206045 | Riluzole (AvKARE) | Tablet, film coated | Valid |
+| NDA209080 | TIGLUTIK (EDW Pharma) | Liquid | Valid |
 
-A sixth entry, Teglutik (EDW Pharma, liquid), is also cancelled and has no valid authorization number.
+A sixth entry, Teglutik (EDW Pharma, liquid), is also valid.
 
 ## Safety Considerations
 
@@ -109,14 +108,14 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction for bilateral parasagittal parieto-occipital polymicrogyria is supported only by a model score. There are no trials or literature, and the mechanistic link is speculative. All US authorizations are also cancelled. The more plausible candidates are the ALS-related motor neuron conditions, which could be framed as research questions.
+The prediction for bilateral parasagittal parieto-occipital polymicrogyria is supported only by a model score. There are no trials or literature, and the mechanistic link is speculative. All US authorizations are valid. The more plausible candidates are the ALS-related motor neuron conditions, which could be framed as research questions.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism-of-action data
 - Preclinical or case-level evidence of riluzole's effect in cortical malformation or epilepsy models
 - Review of the higher-plausibility ALS-spectrum candidates (lower motor neuron syndrome, monomelic amyotrophy, Mills syndrome) as separate research questions
-- Clarification of current US availability, since all listed authorizations are cancelled
+- Clarification of current US availability
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

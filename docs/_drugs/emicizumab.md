@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "EMICIZUMAB"
 predicted_indications: ["pseudo-von Willebrand disease", "primary release disorder of platelets", "Glanzmann thrombasthenia", "Scott syndrome", "acquired coagulation factor deficiency", "bleeding diathesis due to a collagen receptor defect", "hemorrhagic disorder due to a constitutional thrombocytopenia", "thrombotic thrombocytopenic purpura", "fetal and neonatal alloimmune thrombocytopenia", "flood factor deficiency"]
 last_modified_at: 2026-10-14
-description: "Emicizumab: predicted new indication Acquired coagulation factor deficiency (evidence level L5). Approved use: Hemophilia"
+description: "Emicizumab: predicted new indication Pseudo-von Willebrand disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Emicizumab
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Emicizumab: From Hemophilia to Acquired Coagulation Factor Deficiency (Acquired Hemophilia A)
+## Emicizumab: Pseudo-von Willebrand disease
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -49,12 +49,12 @@ This report therefore focuses on acquired coagulation factor deficiency, and sum
 
 | Item | Content |
 |------|------|
-| Original Indication | Hemophilia; symptomatic form of hemophilia in female carriers (the US license record has no indication text) |
-| Predicted New Indication | Acquired coagulation factor deficiency (evidence centers on acquired hemophilia A) |
-| TxGNN Prediction Score | 99.90% |
-| Evidence Level | L2 (see note below) |
-| US Market Status | Cancelled only (1 license, cancelled) |
-| Number of NDAs | 1 (BLA761083) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Pseudo-von Willebrand disease |
+| TxGNN Prediction Score | 0.9999 |
+| Evidence Level | L5 (see note below) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
 Note: No completed randomized phase 3 trial exists. The evidence comes from prospective, open-label, single-arm studies, so it is rated L2 rather than L1.
@@ -98,7 +98,7 @@ Currently no related clinical trials are registered in the data compiled for thi
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA761083 | Hemlibra (Genentech, Inc.) | Injection, solution | Not listed in the compiled data; status: cancelled |
+| BLA761083 | Hemlibra (Genentech, Inc.) | Injection, solution | Not listed in the compiled data; status: valid |
 
 ---
 
@@ -120,15 +120,15 @@ All the following have no clinical trials, and their mechanistic rationale is we
 
 | Disease | TxGNN Score | Assessment |
 |------|------|------|
-| Pseudo-von Willebrand disease | 99.99% | Platelet-type disorder (GP1BA gain-of-function); not an FVIII defect |
-| Primary release disorder of platelets | 99.99% | Platelet secretion defect; emicizumab does not address it |
-| Glanzmann thrombasthenia | 99.98% | Integrin αIIbβ3 defect; the single paper retrieved concerns recombinant FVIIa, not emicizumab |
-| Scott syndrome | 99.92% | Impaired phosphatidylserine exposure; emicizumab depends on this surface, so benefit is doubtful |
-| Bleeding diathesis due to a collagen receptor defect | 99.86% | No plausible mechanistic link |
-| Hemorrhagic disorder due to constitutional thrombocytopenia | 99.85% | Platelet number or function defect, not FVIII deficiency |
-| Thrombotic thrombocytopenic purpura | 99.61% | Prothrombotic condition; a safety concern rather than a therapeutic rationale |
-| Fetal and neonatal alloimmune thrombocytopenia | 99.52% | Platelet destruction; not addressed by emicizumab |
-| "Flood factor deficiency" | 99.40% | Non-standard name, likely a data artifact; needs curation |
+| Pseudo-von Willebrand disease | 0.9999 | Platelet-type disorder (GP1BA gain-of-function); not an FVIII defect |
+| Primary release disorder of platelets | 0.9999 | Platelet secretion defect; emicizumab does not address it |
+| Glanzmann thrombasthenia | 0.9998 | Integrin αIIbβ3 defect; the single paper retrieved concerns recombinant FVIIa, not emicizumab |
+| Scott syndrome | 0.9992 | Impaired phosphatidylserine exposure; emicizumab depends on this surface, so benefit is doubtful |
+| Bleeding diathesis due to a collagen receptor defect | 0.9986 | No plausible mechanistic link |
+| Hemorrhagic disorder due to constitutional thrombocytopenia | 0.9985 | Platelet number or function defect, not FVIII deficiency |
+| Thrombotic thrombocytopenic purpura | 0.9961 | Prothrombotic condition; a safety concern rather than a therapeutic rationale |
+| Fetal and neonatal alloimmune thrombocytopenia | 0.9952 | Platelet destruction; not addressed by emicizumab |
+| "Flood factor deficiency" | 0.9940 | Non-standard name, likely a data artifact; needs curation |
 
 ---
 

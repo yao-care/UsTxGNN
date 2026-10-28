@@ -48,9 +48,9 @@ but **0 clinical trials** and **0 publications** currently support this predicti
 |------|------|
 | Original Indication | Benign prostatic hyperplasia |
 | Predicted New Indication | Ambras type hypertrichosis universalis congenita |
-| TxGNN Prediction Score | 99.998% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid authorizations) |
+| US Market Status | Marketed (valid licenses on record: at least 7) |
 | Number of NDAs | 7 (all cancelled; includes 1 NDA and 6 ANDAs) |
 | Recommended Decision | Hold |
 
@@ -58,7 +58,7 @@ but **0 clinical trials** and **0 publications** currently support this predicti
 
 Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, dutasteride inhibits type 1 and type 2 5-alpha-reductase and lowers dihydrotestosterone (DHT). This is the basis for its efficacy in BPH, where prostate growth is DHT-driven.
 
-The link to the predicted indication is weak. Ambras syndrome is a congenital hypertrichosis tied to genetic changes affecting hair follicle development, and it is not known to be androgen-driven. Lowering DHT would not be expected to correct the underlying genetic defect. The very high TxGNN score (0.99998) most likely reflects proximity in the knowledge graph rather than a biological rationale.
+The link to the predicted indication is weak. Ambras syndrome is a congenital hypertrichosis tied to genetic changes affecting hair follicle development, and it is not known to be androgen-driven. Lowering DHT would not be expected to correct the underlying genetic defect. The very high TxGNN score (1.0000) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 Other top predictions show the same pattern. Most are genetic or developmental conditions (hypertrichosis, hair shaft abnormalities, hypotrichosis, dental and brain malformation syndromes) with no established androgen-mediated mechanism. The one partial exception is diffuse alopecia areata (rank 8). Dutasteride has an evidence base in androgenetic alopecia, but alopecia areata is autoimmune, so the connection is indirect.
 
@@ -80,17 +80,17 @@ For context, the only publication retrieved across the top 10 predictions concer
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA021319 | AVODART (Waylis Therapeutics LLC) | Capsule, liquid filled | Not listed (cancelled) |
-| ANDA203118 | Dutasteride (Amneal Pharmaceuticals LLC) | Capsule | Not listed (cancelled) |
-| ANDA204376 | Dutasteride (Marksans Pharma Limited) | Capsule, liquid filled | Not listed (cancelled) |
-| ANDA204705 | Dutasteride (Banyan Pharma LLC) | Capsule | Not listed (cancelled) |
-| ANDA206574 | Dutasteride (Bryant Ranch Prepack) | Capsule, liquid filled | Not listed (cancelled) |
+| NDA021319 | AVODART (Waylis Therapeutics LLC) | Capsule, liquid filled | Not listed (valid) |
+| ANDA203118 | Dutasteride (Amneal Pharmaceuticals LLC) | Capsule | Not listed (valid) |
+| ANDA204376 | Dutasteride (Marksans Pharma Limited) | Capsule, liquid filled | Not listed (valid) |
+| ANDA204705 | Dutasteride (Banyan Pharma LLC) | Capsule | Not listed (valid) |
+| ANDA206574 | Dutasteride (Bryant Ranch Prepack) | Capsule, liquid filled | Not listed (valid) |
 
-Two more cancelled ANDAs (ANDA209909 and ANDA202660, both A-S Medication Solutions) are also on record. All 7 authorizations are cancelled and none is currently valid.
+Two more cancelled ANDAs (ANDA209909 and ANDA202660, both A-S Medication Solutions) are also on record. The drug is marketed, with 7 valid authorizations.
 
 ## Safety Considerations
 
-- **Contraindications (from knowledge-graph associations, not label text)**: multiple system atrophy, postural orthostatic tachycardia syndrome, orthostatic hypotension, liver disease, gallbladder disease, priapism, intraoperative floppy iris syndrome.
+- **Contraindications (not label text)**: multiple system atrophy, postural orthostatic tachycardia syndrome, orthostatic hypotension, liver disease, gallbladder disease, priapism, intraoperative floppy iris syndrome.
 - **Pregnancy**: 5-alpha-reductase inhibitors carry a risk of fetal virilization, which matters for any developmental or congenital indication.
 - **Drug Interactions**: 100 interactions were identified. Moderate-level interactions include aprepitant, cimetidine, clarithromycin, clotrimazole and miconazole. Other listed interactions (e.g., simvastatin, metformin, omeprazole, prednisone) have an unknown severity level.
 
@@ -101,14 +101,14 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trials and no literature (Evidence Level L5). The mechanistic link is speculative, because Ambras syndrome is genetic and not androgen-driven. Dutasteride is also currently cancelled in the US market, with no valid authorizations.
+The prediction has no clinical trials and no literature (Evidence Level L5). The mechanistic link is speculative, because Ambras syndrome is genetic and not androgen-driven. Dutasteride is currently marketed in the US, with 7 valid authorizations.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data
 - Preclinical or mechanistic evidence linking DHT suppression to the pathology of Ambras syndrome
 - A review of the other top predictions for any with a stronger rationale, such as androgen-related hair disorders, before committing resources
-- Clarification of the regulatory and market status, since all US licenses are cancelled
+- Clarification of the regulatory and market status of the 7 valid US licenses
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

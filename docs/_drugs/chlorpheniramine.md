@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Chlorpheniramine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 522
-evidence_level: L4
-indication_count: 4
-last_modified_at: 2026-10-14
-description: "Chlorpheniramine: predicted new indication Allergic urticaria (evidence level L4). Approved use: Allergic rhinitis (other original indications include vasomotor rhini…"
+evidence_level: L5
+indication_count: 1
 monitor_inn: "CHLORPHENIRAMINE"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis"]
+predicted_indications: ["nasal cavity disease"]
+last_modified_at: 2026-10-27
+description: "Chlorpheniramine: predicted new indication nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Chlorpheniramine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **4** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,37 +33,31 @@ Evidence Level: **L4** | Predicted Indications: **4**
 
 </div>
 
-## Chlorpheniramine: From Allergic Rhinitis to Allergic Urticaria
+## Chlorpheniramine: Histamine H1 receptor antagonist → nasal cavity disease (nasal cavity disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Chlorpheniramine is a first-generation H1 antihistamine, originally used for allergic rhinitis, the common cold, and allergic skin conditions such as urticaria.
-The TxGNN model predicts it may be effective for **Allergic Urticaria**, but **no clinical trials** are registered for this prediction, and the **20 publications** retrieved are mostly reviews of other antihistamines or case reports.
-Urticaria and angioedema are already among the drug's known indications, so this prediction largely overlaps with existing use rather than representing true repurposing.
+Chlorpheniramine is an antihistamine that blocks the histamine H1 receptor.
+The TxGNN model predicts it may be relevant to **nasal cavity disease**, but the support is weak: there are **no registered clinical trials** and **8 publications**, all of them preclinical animal studies or mechanistic studies.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Allergic rhinitis (other original indications include vasomotor rhinitis, pharyngitis, common cold, conjunctivitis, urticaria and angioedema) |
-| Predicted New Indication | Allergic urticaria |
-| TxGNN Prediction Score | 99.76% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 3 (all cancelled) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | nasal cavity disease |
+| TxGNN Prediction Score | 0.9953 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 3) |
+| Number of NDAs | at least 3 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, chlorpheniramine is a first-generation H1-receptor antagonist (inverse agonist). In allergic urticaria, histamine released from mast cells causes the wheal-and-flare response, so blocking H1 receptors is a direct mechanistic fit.
+Detailed mechanism-of-action data for chlorpheniramine is not available in the data compiled for this report. Based on its known drug class, chlorpheniramine is an H1 antihistamine. H1 blockade reduces histamine-driven increases in nasal vascular permeability, runny nose and itching, which is the pharmacological basis for linking it to nasal conditions.
 
-The prediction is not a distant leap. Urticaria and angioedema are already listed among the drug's original indications, so the model is largely re-identifying a known use. The 2024 comprehensive review of chlorpheniramine and the comparative H1-antihistamine literature support the class effect. However, most retrieved papers examine other antihistamines (cetirizine, loratadine, acrivastine, ebastine), not chlorpheniramine-specific trials.
-
-Other predictions in the data are weaker:
-- **Cold urticaria** (score 99.13%, evidence L3): a small 1977 double-blind study compared chlorpheniramine, cyproheptadine and placebo. It is old, and modern guidelines favor second-generation antihistamines.
-- **Nasal cavity disease** (score 99.53%, evidence L4): only animal models and mechanistic studies, and the term is too nonspecific to define an indication.
-- **Acute laryngopharyngitis** (score 99.50%, evidence L5): model score only, with no trials or literature.
+The retrieved literature, however, does not study "nasal cavity disease" as a defined clinical condition. It consists of animal models of nasal congestion and allergic rhinitis (cat, dog and rat) and a mechanistic study of histamine-induced protein secretion in the nose. Some of these studies indicate that H1 blockade alone is not enough to relieve congestion; a combination of H1 and H3 receptor blockade was needed in the cat model. "Nasal cavity disease" is also a very broad term, so the prediction cannot be translated into a specific, testable indication from the current data.
 
 ## Clinical Trial Evidence
 
@@ -73,57 +67,43 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [35652393](https://pubmed.ncbi.nlm.nih.gov/35652393/) | 2024 | Review | Curr Rev Clin Exp Pharmacol | Comprehensive review of chlorpheniramine, covering uses in allergic conditions, chronic urticaria, asthma and others |
-| [1683523](https://pubmed.ncbi.nlm.nih.gov/1683523/) | 1991 | Review | Ann Allergy | Comparative efficacy of H1 antihistamines; second-generation agents are less sedating |
-| [1715267](https://pubmed.ncbi.nlm.nih.gov/1715267/) | 1991 | Review | Drugs | Acrivastine in allergic rhinitis and urticaria (other drug, class-level support) |
-| [14977391](https://pubmed.ncbi.nlm.nih.gov/14977391/) | 2004 | Review | Drugs | Cetirizine in allergic disorders including urticaria (other drug, class-level support) |
-| [7528133](https://pubmed.ncbi.nlm.nih.gov/7528133/) | 1994 | Review | Drugs | Loratadine was as effective as chlorpheniramine and other antihistamines in allergic disorders |
-| [31852144](https://pubmed.ncbi.nlm.nih.gov/31852144/) | 2019 | Case report / pharmacovigilance | Medicine | Two cases of chlorpheniramine-induced anaphylaxis plus a pharmacovigilance database review |
-| [26240795](https://pubmed.ncbi.nlm.nih.gov/26240795/) | 2015 | Case report | Asia Pac Allergy | Chlorpheniramine-induced anaphylaxis diagnosed by basophil activation test |
-| [21217928](https://pubmed.ncbi.nlm.nih.gov/21217928/) | 2011 | Case report | Allergy Asthma Immunol Res | Chlorpheniramine hypersensitivity with aspirin intolerance (rare) |
-| [2873823](https://pubmed.ncbi.nlm.nih.gov/2873823/) | 1986 | Cohort | Asian Pac J Allergy Immunol | Epidemiology of urticaria in 142 Thai children |
-| [334082](https://pubmed.ncbi.nlm.nih.gov/334082/) | 1977 | RCT | Arch Dermatol | Cold urticaria, 8 patients: double-blind comparison of chlorpheniramine, cyproheptadine and placebo (relevant to the cold urticaria prediction) |
+| [10582118](https://pubmed.ncbi.nlm.nih.gov/10582118/) | 1999 | Preclinical animal study | American Journal of Rhinology | In a cat model of nasal congestion, chlorpheniramine combined with an H3 blocker reduced the rise in nasal airway resistance and the loss of nasal cavity volume |
+| [10582116](https://pubmed.ncbi.nlm.nih.gov/10582116/) | 1999 | Preclinical animal study | American Journal of Rhinology | Describes pressure and acoustic rhinometry for measuring nasal patency in a feline congestion model |
+| [12962193](https://pubmed.ncbi.nlm.nih.gov/12962193/) | 2003 | Preclinical animal study | American Journal of Rhinology | Model of allergic nasal congestion in ragweed-sensitized dogs using acoustic rhinometry |
+| [12387934](https://pubmed.ncbi.nlm.nih.gov/12387934/) | 2002 | Preclinical animal study | J Pharmacol Toxicol Methods | Pharmacological characterization of a chronic, noninvasive dog model of nasal congestion |
+| [11895194](https://pubmed.ncbi.nlm.nih.gov/11895194/) | 2002 | Preclinical animal study | American Journal of Rhinology | Acoustic rhinometry used to develop a dog model of nasal congestion |
+| [10822083](https://pubmed.ncbi.nlm.nih.gov/10822083/) | 2000 | Preclinical animal study | Immunopharmacology | New rat model of allergic rhinitis used to evaluate H1-receptor antagonists |
+| [1705288](https://pubmed.ncbi.nlm.nih.gov/1705288/) | 1990 | Preclinical animal study | J Pharmacobio-Dyn | Brown Norway rat allergic rhinitis model used to evaluate antiallergic drugs |
+| [2923378](https://pubmed.ncbi.nlm.nih.gov/2923378/) | 1989 | Mechanistic study | Am Rev Respir Dis | Histamine applied to the nose produced protein-rich secretions in atopic and nonatopic subjects |
 
 ## US Market Information
 
+Three US licence records are in the local data, and the list may be partial. They are single-ingredient products with no indication text recorded.
+
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA040829 | Chlorphen-12 | Extended-release film-coated tablet | Not listed (cancelled) |
-| M012 | Pharbechlor | Tablet | Not listed (cancelled) |
-| nan | ED CHLORPED JR | Liquid | Not listed (cancelled) |
-
-All three authorizations are cancelled, so no valid single-ingredient or combination products are currently registered in the data compiled for this report.
+| ANDA040829 | Chlorphen-12 | Extended-release film-coated tablet | Not recorded in the local data |
+| M012 | Pharbechlor | Tablet | Not recorded in the local data |
+| nan | ED CHLORPED JR | Liquid | Not recorded in the local data |
 
 ## Safety Considerations
 
-- **Contraindication signals (knowledge graph, not label text)**: The knowledge graph links chlorpheniramine to a wide range of conditions as contraindications or cautions, including:
-  - Cardiovascular: hypertension, hypotension
-  - Hepatic and renal: liver failure, liver disease, kidney disease
-  - Gastrointestinal: peptic and gastric ulcer, gastritis, inflammatory bowel disease, pancreatitis, gallbladder disease
-  - Respiratory: COPD, bronchitis
-  - Endocrine: hypothyroidism, myxedema, diabetes mellitus, diabetic ketoacidosis
-  - Neurological and psychiatric: epilepsy, insomnia, psychotic disorders, schizophreniform disorder, schizoaffective disorder
-  - Other: benign prostatic hyperplasia, thrombocytopenia, dermatitis herpetiformis
+**Drug Interactions**: The interaction check returned 100 records; 20 are listed in the data compiled for this report. Most are of moderate severity and include anticholinergic or sedating drugs such as atropine, dicyclomine, glycopyrronium, methscopolamine, morphine, opium, dronabinol and nabilone. Two are rated **major**: potassium chloride and potassium citrate.
 
-  These should be verified against the official label.
-- **Drug Interactions**: 100 interactions were found. Major interactions are with **potassium chloride** and **potassium citrate**. Moderate interactions include anticholinergics (atropine, dicyclomine, glycopyrronium, methscopolamine, mepenzolate), opioids (morphine, opium, loperamide, eluxadoline), cannabinoids (dronabinol, nabilone), bupropion, metoclopramide, eliglustat, lorcaserin and glycerol phenylbutyrate.
-- **Hypersensitivity**: Rare but documented reports of chlorpheniramine-induced anaphylaxis and urticaria exist, which matters when the drug is considered for an urticaria indication.
-- **Class concerns**: The literature notes that sedation and anticholinergic burden of first-generation antihistamines lead modern guidelines to favor second-generation agents.
+Please refer to the package insert for warnings and contraindications, which are not available in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-- The H1-blockade mechanism fits allergic urticaria well, but the indication already overlaps with existing labeled use, so this is not genuine repurposing.
-- There are no registered clinical trials, no chlorpheniramine-specific modern trials, and all US licenses are cancelled. The strongest direct evidence is a small 1977 study in cold urticaria, and safer second-generation antihistamines are generally preferred.
+The only support is preclinical animal and mechanistic work, with no registered clinical trial and no study of nasal cavity disease as a defined clinical condition. The term is too nonspecific to define a new indication. Some studies also suggest H1 blockade alone does not relieve congestion.
 
 **To proceed, the following is needed:**
-- Official US package insert data on warnings and contraindications
-- Mechanism of action data from DrugBank
-- Chlorpheniramine-specific controlled studies in urticaria (allergic or cold), ideally compared against second-generation antihistamines
-- A defined rationale for reintroduction given that no US licenses are currently valid
-- Review of the anticholinergic and sedation risks, the hypersensitivity reports, and the major potassium interactions
+- A specific, clinically defined nasal condition to replace the broad term "nasal cavity disease"
+- Human clinical data for that condition
+- Mechanism-of-action data from DrugBank
+- Warnings and contraindications from the FDA package insert
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -48,10 +48,10 @@ with **4 clinical trials** (all small Phase 1/2 or Phase 2 studies, two terminat
 |------|------|
 | Original Indication | Thyroid gland carcinoma (the US license record has no indication text) |
 | Predicted New Indication | Renal cell carcinoma |
-| TxGNN Prediction Score | 99.92% |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L2 |
-| US Market Status | Cancelled only (no active license) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -121,7 +121,7 @@ However, the rationale is weakened by practical considerations. Established VEGF
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is very high (99.92%), and the VEGFR-inhibition rationale in VHL-deficient clear cell RCC is plausible. The clinical evidence is weak, however. Only four small Phase 1/2 or Phase 2 trials exist, two were terminated with 3 and 7 patients, and none has reported results in the available data. Standard VEGFR inhibitors are already established in RCC. Vandetanib carries a notable QT and cardiovascular risk profile, and its only US license is cancelled. The package insert warnings and contraindications are also missing from the compiled data, which blocks safety screening.
+The TxGNN score is very high (0.9992), and the VEGFR-inhibition rationale in VHL-deficient clear cell RCC is plausible. The clinical evidence is weak, however. Only four small Phase 1/2 or Phase 2 trials exist, two were terminated with 3 and 7 patients, and none has reported results in the available data. Standard VEGFR inhibitors are already established in RCC. Vandetanib carries a notable QT and cardiovascular risk profile, and its only US license is cancelled. The package insert warnings and contraindications are also missing from the compiled data, which blocks safety screening.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (obtain from the FDA website)

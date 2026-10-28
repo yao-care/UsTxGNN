@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-## Donepezil: From Alzheimer Disease to Chronic Tic Disorder
+## Donepezil: From Alzheimer Disease to Psychogenic Movement Disorders
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,10 +47,10 @@ Evidence is limited, and no randomized controlled trial supports this direction 
 | Item | Content |
 |------|------|
 | Original Indication | Alzheimer disease (also listed: Alzheimer disease without neurofibrillary tangles, cerebellar degeneration, Reye syndrome, Pick disease) |
-| Predicted New Indication | Top-ranked by score: psychogenic movement disorders (99.23%, no evidence). Best-supported: chronic tic disorder (99.19%) |
-| TxGNN Prediction Score | 99.23% (psychogenic movement disorders); 99.19% (chronic tic disorder) |
+| Predicted New Indication | psychogenic movement disorders |
+| TxGNN Prediction Score | 0.9923 (psychogenic movement disorders); 0.9919 (chronic tic disorder) |
 | Evidence Level | L5 for the top-ranked prediction; L3 for chronic tic disorder |
-| US Market Status | Cancelled only (no currently valid licenses in the data compiled for this report) |
+| US Market Status | Marketed (valid licenses on record: at least 13) |
 | Number of NDAs | 13 (all cancelled; 1 NDA and 12 ANDAs) |
 | Recommended Decision | Hold (psychogenic movement disorders); Hold with a research question for chronic tic disorder |
 
@@ -58,7 +58,7 @@ Evidence is limited, and no randomized controlled trial supports this direction 
 
 Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, donepezil is a cholinesterase inhibitor that raises synaptic acetylcholine. Its efficacy in Alzheimer disease is established, and mechanistically it may be applicable to disorders involving cholinergic signalling.
 
-**Top-ranked prediction (psychogenic movement disorders).** The score is very high (0.992), but no trials or publications were found. A possible link is cholinergic modulation of basal ganglia motor circuits, but this is speculative. Psychogenic movement disorders have no established pharmacologic basis for cholinesterase inhibition.
+**Top-ranked prediction (psychogenic movement disorders).** The score is very high (0.9923), but no trials or publications were found. A possible link is cholinergic modulation of basal ganglia motor circuits, but this is speculative. Psychogenic movement disorders have no established pharmacologic basis for cholinesterase inhibition.
 
 **Best-supported prediction (chronic tic disorder).** Donepezil may modulate striatal cholinergic interneurons and the dopaminergic/serotonergic balance implicated in tic generation. Mouse studies show donepezil affects the DOI-induced head twitch response, a model of tics, which supports biological plausibility. Clinical support is limited to small uncontrolled reports in children with tics and ADHD.
 
@@ -121,7 +121,7 @@ Package insert warnings and contraindications were not available; please refer t
 **Rationale:**
 - The top-scoring prediction has no clinical or literature evidence and no established pharmacologic basis.
 - Chronic tic disorder has plausible biology and small uncontrolled pediatric reports, but no controlled trials. Movement-disorder indications also carry a safety signal, as cholinesterase inhibitors can cause or worsen extrapyramidal symptoms.
-- All US licenses are cancelled, which affects practical development.
+- The drug is marketed in the US, with 13 valid licenses, which affects practical development.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for donepezil

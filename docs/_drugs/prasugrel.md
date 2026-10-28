@@ -4,17 +4,17 @@ title: Prasugrel
 parent: Model Prediction Only (L5)
 nav_order: 1075
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "PRASUGREL"
-predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura", "kyphoscoliotic heart disease", "rheumatoid arthritis", "homozygous familial hypercholesterolemia", "hypoalphalipoproteinemia", "migraine with or without aura, susceptibility to", "brachydactyly-syndactyly syndrome", "leprosy"]
+predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura", "kyphoscoliotic heart disease", "rheumatoid arthritis", "homozygous familial hypercholesterolemia", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "leprosy"]
 last_modified_at: 2026-10-14
-description: "Prasugrel: predicted new indication Migraine disorder (evidence level L5). Approved use: Acute coronary syndrome"
+description: "Prasugrel: predicted new indication Pulmonary hypertension (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Prasugrel
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Prasugrel: From Acute Coronary Syndrome to Migraine Disorder
+## Prasugrel: Pulmonary hypertension
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -41,18 +41,18 @@ Evidence Level: **L5** | Predicted Indications: **10**
 Prasugrel is a P2Y12 platelet inhibitor, originally used for acute coronary syndrome.
 The data compiled for this report show that TxGNN's top-ranked prediction is pulmonary hypertension, which has no direct supporting evidence. The best-supported candidate is **Migraine Disorder** (rank 2), with **2 related clinical trials** (neither tests prasugrel) and **2 class-level publications** currently supporting this direction.
 
-> **Note on selection:** The highest-scoring prediction (pulmonary hypertension, 99.88%) has no clinical trials and no relevant literature. This report therefore focuses on migraine disorder, which has the strongest evidence among the ten predictions (evidence level L3 versus L5 for pulmonary hypertension).
+> **Note on selection:** The highest-scoring prediction (pulmonary hypertension, 0.9988) has no clinical trials and no relevant literature. This report therefore focuses on migraine disorder, which has the strongest evidence among the ten predictions (evidence level L3 versus L5 for pulmonary hypertension).
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Acute coronary syndrome |
-| Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.88% |
-| Evidence Level | L3 (retrospective review and open-label pilot, class-level; no prasugrel RCT) |
-| US Market Status | Cancelled only (all licenses cancelled) |
-| Number of NDAs | 7 authorizations in total (1 NDA, 6 ANDAs) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Pulmonary hypertension |
+| TxGNN Prediction Score | 0.9988 |
+| Evidence Level | L5 (retrospective review and open-label pilot, class-level; no prasugrel RCT) |
+| US Market Status | Marketed (valid licenses: 7 of 7) |
+| Number of NDAs | 7 (valid: 7) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -80,7 +80,7 @@ The supporting evidence is indirect. It consists of a retrospective review of th
 
 ## US Market Information
 
-All seven authorizations are cancelled. No active US marketing authorization remains in the data compiled for this report. Approved indication text was not available for any of them.
+Approved indication text was not available for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -105,13 +105,12 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The migraine hypothesis rests on a retrospective review and an open-label pilot of related P2Y12 inhibitors in the PFO subgroup, not on prasugrel trials. The two listed trials are PFO-closure studies, and one was terminated after enrolling 7 patients. Prasugrel's bleeding risk, including intracranial hemorrhage, and its large interaction burden make an off-label benefit-risk case hard to justify without stronger data. Because all US authorizations are cancelled, there is also no active US product route.
+The migraine hypothesis rests on a retrospective review and an open-label pilot of related P2Y12 inhibitors in the PFO subgroup, not on prasugrel trials. The two listed trials are PFO-closure studies, and one was terminated after enrolling 7 patients. Prasugrel's bleeding risk, including intracranial hemorrhage, and its large interaction burden make an off-label benefit-risk case hard to justify without stronger data.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and the package insert warnings and contraindications (both are currently missing and block safety screening)
 - Prasugrel-specific controlled data in migraine with PFO, such as a randomized trial in a well-defined PFO subgroup
 - Benefit-risk assessment of bleeding, especially intracranial hemorrhage, in a non-cardiac population
-- Clarification of the regulatory and supply situation, given that all US authorizations are cancelled
 - Review of the other nine predictions: none has direct prasugrel evidence, and pulmonary hypertension, the top-scoring one, has none at all.
 ## Disclaimer
 

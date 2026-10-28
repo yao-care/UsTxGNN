@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Apis Mellifera Arctostaphylos Uva-Ursi Leaf Berber
@@ -49,7 +50,7 @@ This candidate is a complex multi-component botanical/homeopathic mixture compri
 | Predicted New Indication | None (TxGNN returned no predictions) |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | Below L5 — no predictions, no studies |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 6) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

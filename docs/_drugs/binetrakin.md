@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "BINETRAKIN"
 predicted_indications: ["craniostenosis cataract", "mature cataract", "diabetes mellitus type 2 associated cataract", "immature cataract", "tetanic cataract", "nuclear senile cataract", "cortical cataract", "diabetic cataract", "senile cataract"]
-last_modified_at: 2026-10-14
-description: "Binetrakin: predicted new indication Craniostenosis cataract (evidence level L5). Approved use: Not available"
+last_modified_at: 2026-10-27
+description: "Binetrakin: predicted new indication craniostenosis cataract (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Binetrakin
@@ -33,34 +33,32 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-## Binetrakin: From an Unspecified Original Indication to Craniostenosis Cataract
+## Binetrakin: IL-4–related agent → craniostenosis cataract
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Binetrakin (DB12182) has no documented original indication in the data compiled for this report, and its only US record is a cancelled product.
-The TxGNN model predicts it may be effective for **craniostenosis cataract** (and several other cataract types), but there are **0 clinical trials** and **0 publications** supporting this direction.
-The prediction rests on model output alone.
+Binetrakin (DrugBank DB12182) is a drug whose mechanism of action and approved indication are not recorded in the data compiled for this report.
+The TxGNN model predicts it may be relevant to **craniostenosis cataract**, with a score of 0.9914.
+There are currently **0 clinical trials** and **0 publications** supporting this prediction, so it rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available |
-| Predicted New Indication | Craniostenosis cataract |
-| TxGNN Prediction Score | 99.14% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | craniostenosis cataract |
+| TxGNN Prediction Score | 0.9914 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 (cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. The drug has no recorded original indication, so no link can be drawn between an established use and a cataract-related condition.
+Currently, detailed mechanism of action data is not available. Binetrakin has no recorded mechanism, so no pharmacological link to craniostenosis cataract can be established. The only product in the local records is a drop-form solution (GUNA-IL 4), which gives no further mechanistic insight.
 
-The other predicted indications are all cataract subtypes: mature cataract, diabetes mellitus type 2 associated cataract, immature cataract, tetanic cataract, nuclear senile cataract, cortical cataract, diabetic cataract and senile cataract. All of them score about 99.1% and have the same gaps. The consistently high scores across closely related conditions suggest the model is picking up a general cataract signal. They are not independent confirmations.
-
-Some predictions are also biologically doubtful. Tetanic cataract is a rare condition secondary to hypoparathyroidism. Without a known mechanism, no rationale connects this drug to diabetes-related lens changes either.
+The TxGNN score is a computational prediction and is not backed by any clinical trial or publication. Without a known mechanism, the prediction cannot be judged plausible or implausible, and it should be treated as a hypothesis only.
 
 ## Clinical Trial Evidence
 
@@ -74,27 +72,26 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| Not available (cancelled) | GUNA-IL 4 | Solution/drops | Not available |
+| Not recorded | GUNA-IL 4 | Solution/drops | Not recorded |
 
-The only record is a cancelled product from Guna spa. There are no currently valid licenses.
+The local record lists one licence, and its number and indication text are not recorded. Because the data are limited, this may not give a complete picture of the market situation.
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No warnings, contraindications or drug interaction data were available for this report.
+Please refer to the package insert for safety information. No drug interactions were found in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score. There are no trials or publications, no mechanism of action, no documented original indication, and no valid US license. A mechanistic rationale cannot be built from the current data.
+The prediction has no supporting trials or literature, and the drug has no recorded mechanism of action. The evidence level is L5 (model prediction only).
 
 **To proceed, the following is needed:**
-- Mechanism of action data (e.g., from DrugBank), to test whether any biological link to lens opacity exists
-- FDA package insert warnings and contraindications, which are required before any safety screening
-- Confirmation of the drug's original indications and the reason the product was cancelled
-- A literature and trial search for binetrakin (IL-4 related products) in ocular conditions
-- An assessment of route compatibility, since the only known form is oral drops and ophthalmic delivery would need separate evaluation
+- Mechanism of action data for binetrakin
+- FDA package insert warnings and contraindications
+- Any preclinical or clinical studies that directly address craniostenosis cataract
+- A plausible biological rationale linking the drug to the predicted disease
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

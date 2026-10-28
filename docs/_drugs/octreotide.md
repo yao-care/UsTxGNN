@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "OCTREOTIDE"
 predicted_indications: ["vulvar inverted follicular keratosis", "seborrheic keratosis"]
 last_modified_at: 2026-10-14
-description: "Octreotide: predicted new indication Vulvar inverted follicular keratosis (a second prediction… (evidence level L5). Approved use: Acromegaly (also hyperpituitarism and carcinoid syndrome)"
+description: "Octreotide: predicted new indication Vulvar inverted follicular keratosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Octreotide
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-## Octreotide: From Acromegaly to Vulvar Inverted Follicular Keratosis
+## Octreotide: Vulvar inverted follicular keratosis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,11 +45,11 @@ The TxGNN model predicts it may be effective for **Vulvar Inverted Follicular Ke
 
 | Item | Content |
 |------|------|
-| Original Indication | Acromegaly (also hyperpituitarism and carcinoid syndrome) |
-| Predicted New Indication | Vulvar inverted follicular keratosis (a second prediction, seborrheic keratosis, scored 99.55%) |
-| TxGNN Prediction Score | 99.58% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Vulvar inverted follicular keratosis |
+| TxGNN Prediction Score | 0.9958 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
+| US Market Status | Marketed (valid licenses on record: at least 14) |
 | Number of NDAs | 14 (all cancelled) |
 | Recommended Decision | Hold |
 
@@ -59,7 +59,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 A possible link to the predicted indication is that somatostatin receptors may be present in epidermal or follicular keratinocytes, and receptor agonism could slow keratinocyte proliferation or growth-factor signaling. This is speculation with no supporting data.
 
-The second predicted indication, seborrheic keratosis, is a closely related benign keratinocytic lesion. The two high scores may reflect shared neighbors in the knowledge graph rather than a true pharmacological link. These lesions are usually managed with local procedures such as cryotherapy or curettage, so a systemic injectable peptide would have an unfavorable risk-benefit profile without strong supporting evidence.
+The second predicted indication, seborrheic keratosis (score 0.9955), is a closely related benign keratinocytic lesion. The two high scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. These lesions are usually managed with local procedures such as cryotherapy or curettage, so a systemic injectable peptide would have an unfavorable risk-benefit profile without strong supporting evidence.
 
 ## Clinical Trial Evidence
 
@@ -71,7 +71,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-All 14 US authorizations are listed as cancelled. The main ones are below; approved indication text was not available for them.
+All 14 US authorizations are listed as valid. The main ones are below; approved indication text was not available for them.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
@@ -99,13 +99,13 @@ Please refer to the package insert for label warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical or literature support (evidence level L5) and only a speculative mechanistic link. The drug has no currently valid US authorization, and the indication is a benign skin lesion for which effective local treatments already exist.
+The prediction has no clinical or literature support (evidence level L5) and only a speculative mechanistic link.
 
 **To proceed, the following is needed:**
 - Mechanism of action data, including evidence of somatostatin receptor expression in keratinocytic lesions
 - Preclinical or early clinical evidence in vulvar inverted follicular keratosis or seborrheic keratosis
 - Official package insert warnings and contraindications for safety screening
-- Assessment of route compatibility (systemic injection versus topical or local treatment) and of regulatory status, since all US authorizations are cancelled
+- Assessment of route compatibility (systemic injection versus topical or local treatment) and of regulatory status, given the 14 valid US authorizations
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

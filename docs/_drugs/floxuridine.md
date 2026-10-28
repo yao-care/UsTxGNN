@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "FLOXURIDINE"
 predicted_indications: ["hereditary breast ovarian cancer syndrome", "neutrophil immunodeficiency syndrome", "myeloid leukemia", "CMM7", "pediatric leptomeningeal melanoma", "melanoma", "epithelioid cell uveal melanoma", "ovarian clear cell adenocarcinoma", "central nervous system melanocytic neoplasm", "female breast carcinoma"]
 last_modified_at: 2026-10-14
-description: "Floxuridine: predicted new indication Hereditary breast ovarian cancer syndrome (evidence level L5). Approved use: Liver cancer / hepatocellular carcinoma"
+description: "Floxuridine: predicted new indication Hereditary breast ovarian cancer syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Floxuridine
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Floxuridine: From Liver Cancer to Hereditary Breast Ovarian Cancer Syndrome
+## Floxuridine: Hereditary breast ovarian cancer syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,19 +46,19 @@ Among the other predictions, the best-supported are **female breast carcinoma** 
 
 | Item | Content |
 |------|------|
-| Original Indication | Liver cancer / hepatocellular carcinoma (from the knowledge graph; no approved-indication text is available on the US licenses) |
-| Predicted New Indication | Hereditary breast ovarian cancer syndrome (rank 1) |
-| TxGNN Prediction Score | 99.86% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Hereditary breast ovarian cancer syndrome |
+| TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L5 (model prediction only) |
-| US Market Status | Cancelled only (no active marketing authorization) |
-| Number of NDAs | 2 (both ANDAs, both cancelled) |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available from the data compiled for this report. Based on the repurposing analysis, floxuridine is a fluoropyrimidine nucleoside analog whose active metabolite, FdUMP, inhibits thymidylate synthase and disrupts DNA synthesis in rapidly dividing cells.
 
-For the top-ranked prediction, the rationale is weak. Hereditary breast ovarian cancer syndrome is a germline predisposition (BRCA-related DNA repair deficiency), not a treatable tumor type. Floxuridine has no known link to that deficiency. The high score most likely reflects the drug's proximity to breast and ovarian cancer in the knowledge graph.
+For the top-ranked prediction, the rationale is weak. Hereditary breast ovarian cancer syndrome is a germline predisposition (BRCA-related DNA repair deficiency), not a treatable tumor type. Floxuridine has no known link to that deficiency. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, such as breast and ovarian cancer, not biological evidence.
 
 Other predictions have more plausible links, although none is strongly supported:
 

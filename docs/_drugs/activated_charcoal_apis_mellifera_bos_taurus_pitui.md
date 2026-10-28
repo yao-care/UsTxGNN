@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Activated Charcoal Apis Mellifera Bos Taurus Pitui
@@ -51,7 +52,7 @@ This submission contains a complex homeopathic multi-ingredient product composed
 | Predicted New Indication | None — TxGNN returned no predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (model prediction only — in this case, none generated) |
-| US Market Status | ✗ Not Marketed |
+| US Market Status | Marketed (valid licenses on record: at least 7) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

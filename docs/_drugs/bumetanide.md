@@ -48,9 +48,9 @@ but there are currently **no registered clinical trials** and only **5 publicati
 |------|------|
 | Original Indication | Congestive heart failure |
 | Predicted New Indication | Acute pulmonary heart disease |
-| TxGNN Prediction Score | 99.58% |
+| TxGNN Prediction Score | 0.9958 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid authorizations) |
+| US Market Status | Marketed (valid licenses on record: at least 11) |
 | Number of NDAs | 11 (all cancelled) |
 | Recommended Decision | Hold |
 
@@ -80,15 +80,15 @@ None of these studies directly examines acute pulmonary heart disease.
 
 ## US Market Information
 
-All 11 authorizations are cancelled. The data compiled for this report contain no approved indication text for them. The first 5 are listed below.
+All 11 authorizations are valid. The data compiled for this report contain no approved indication text for them. The first 5 are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| NDA219500 | Enbumyst (Corstasis USA LLC) | Spray | Cancelled |
-| ANDA074700 | Bumetanide (A-S Medication Solutions) | Tablet | Cancelled |
-| ANDA079196 | Bumetanide (Civica, Inc.) | Injection | Cancelled |
-| ANDA213942 | Bumetanide (Advagen Pharma Limited) | Tablet | Cancelled |
-| ANDA202900 | Bumetanide (Zydus Pharmaceuticals) | Tablet | Cancelled |
+| NDA219500 | Enbumyst (Corstasis USA LLC) | Spray | Valid |
+| ANDA074700 | Bumetanide (A-S Medication Solutions) | Tablet | Valid |
+| ANDA079196 | Bumetanide (Civica, Inc.) | Injection | Valid |
+| ANDA213942 | Bumetanide (Advagen Pharma Limited) | Tablet | Valid |
+| ANDA202900 | Bumetanide (Zydus Pharmaceuticals) | Tablet | Valid |
 
 ## Safety Considerations
 
@@ -109,7 +109,7 @@ Package insert warnings and contraindications were not available. Please refer t
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high, but the evidence is limited to model prediction, indirect heart failure literature, and general reviews. No trials target acute pulmonary heart disease. The mechanism could be harmful in acute right ventricular failure if volume status is not carefully managed. All US authorizations are cancelled, and label safety data are missing.
+The prediction score is high, but the evidence is limited to model prediction, indirect heart failure literature, and general reviews. No trials target acute pulmonary heart disease. The mechanism could be harmful in acute right ventricular failure if volume status is not carefully managed. The 11 US authorizations are valid, but label safety data are missing.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (FDA)

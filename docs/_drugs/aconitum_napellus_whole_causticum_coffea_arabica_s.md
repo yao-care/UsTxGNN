@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Aconitum Napellus Whole Causticum Coffea Arabica S
@@ -51,7 +52,7 @@ Without a predicted indication or supporting clinical evidence, a meaningful dru
 | Predicted New Indication | None — no TxGNN prediction generated |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (no study; model prediction absent) |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 14) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

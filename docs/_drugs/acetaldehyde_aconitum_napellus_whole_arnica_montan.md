@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Acetaldehyde Aconitum Napellus Whole Arnica Montan
@@ -51,7 +52,7 @@ As a result, this candidate **cannot be evaluated** under the standard drug repu
 | Predicted New Indication | None — TxGNN returned no predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | N/A — No predictions, no supporting studies identified |
-| Market Status | Not marketed (0 approvals) |
+| Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

@@ -48,17 +48,17 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Metastatic malignant neoplasm in the colon |
 | Predicted New Indication | Drug-induced osteoporosis |
-| TxGNN Prediction Score | 99.13% |
+| TxGNN Prediction Score | 0.9913 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (the single BLA is cancelled) |
-| Number of NDAs | 1 (BLA) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, panitumumab is a fully human monoclonal antibody that targets EGFR, and its efficacy in metastatic colon cancer is the basis of its original indication. Whether this mechanism applies to drug-induced osteoporosis is not established by the data compiled for this report.
 
-EGFR signaling takes part in bone remodeling, including osteoblast differentiation and osteoclast regulation, so a biological connection is plausible in principle. However, EGFR inhibition has been associated with low magnesium and low calcium levels, which could harm bone rather than help it. This points toward a risk, not a benefit. The idea is a hypothesis only, and no data support it. The high TxGNN score (0.991) cannot be checked against a known mechanism.
+EGFR signaling takes part in bone remodeling, including osteoblast differentiation and osteoclast regulation, so a biological connection is plausible in principle. However, EGFR inhibition has been associated with low magnesium and low calcium levels, which could harm bone rather than help it. This points toward a risk, not a benefit. The idea is a hypothesis only, and no data support it. The high TxGNN score (0.9913) cannot be checked against a known mechanism.
 
 ## Clinical Trial Evidence
 
@@ -72,7 +72,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA125147 | Vectibix (Amgen Inc) | Solution | Not listed; license status: cancelled |
+| BLA125147 | Vectibix (Amgen Inc) | Solution | Not listed; license status: valid |
 
 ## Cytotoxicity
 
@@ -111,7 +111,7 @@ The prediction score is very high, but there are no clinical trials or publicati
 
 ---
 
-**Additional note: second prediction.** The second-ranked prediction, **severe nonproliferative diabetic retinopathy** (score 99.05%, evidence level L5, Hold), also has no trials or literature. The disease is driven mainly by VEGF, inflammation and microvascular damage, while panitumumab targets EGFR, so a direct link is not apparent. EGFR inhibitors are known to cause eye toxicities such as keratitis and ocular surface disease, and delivery of a large antibody to the eye raises further safety questions. It is not recommended for further work without new evidence.
+**Additional note: second prediction.** The second-ranked prediction, **severe nonproliferative diabetic retinopathy** (score 0.9905, evidence level L5, Hold), also has no trials or literature. The disease is driven mainly by VEGF, inflammation and microvascular damage, while panitumumab targets EGFR, so a direct link is not apparent. EGFR inhibitors are known to cause eye toxicities such as keratitis and ocular surface disease, and delivery of a large antibody to the eye raises further safety questions. It is not recommended for further work without new evidence.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

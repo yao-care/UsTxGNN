@@ -4,17 +4,17 @@ title: Sulfasalazine
 parent: Model Prediction Only (L5)
 nav_order: 1187
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-14
-description: "Sulfasalazine: predicted new indication Osteoarthritis (evidence level L5). Approved use: Rheumatoid arthritis, ulcerative colitis, inflammatory bowel disease…"
+description: "Sulfasalazine: predicted new indication brachydactyly-syndactyly syndrome (evidence level L5). Approved use: Rheumatoid arthritis, ulcerative colitis, inflammatory bowel disease…"
 monitor_inn: "SULFASALAZINE"
-predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "osteoarthritis susceptibility", "congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "WHIM syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "spondyloarthropathy, susceptibility to", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis"]
+predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "WHIM syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis"]
 ---
 
 # Sulfasalazine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Sulfasalazine: From Rheumatoid Arthritis and Ulcerative Colitis to Osteoarthritis
+## Sulfasalazine: From Rheumatoid Arthritis and Ulcerative Colitis to brachydactyly-syndactyly syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,10 +47,10 @@ The TxGNN model's top-ranked predictions are mostly rare congenital syndromes wi
 |------|------|
 | Original Indication | Rheumatoid arthritis, ulcerative colitis, inflammatory bowel disease, juvenile idiopathic arthritis, spondyloarthropathy |
 | Predicted New Indication | Osteoarthritis (the most credible among the top 10 predictions; the rank 1 prediction is brachydactyly-syndactyly syndrome) |
-| TxGNN Prediction Score | 99.64% for osteoarthritis (99.94% for the rank 1 prediction, brachydactyly-syndactyly syndrome) |
-| Evidence Level | L4 (preclinical only) for osteoarthritis |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 6 (all cancelled) |
+| TxGNN Prediction Score | 0.9964 for osteoarthritis (0.9994 for the rank 1 prediction, brachydactyly-syndactyly syndrome) |
+| Evidence Level | L5 (preclinical only) for osteoarthritis |
+| US Market Status | Marketed (valid licenses: 6 of 6) |
+| Number of NDAs | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 *Note: The top-ranked prediction, brachydactyly-syndactyly syndrome, has only model-based support (L5). The osteoarthritis entry is highlighted here because it is the only one with a plausible link and some preclinical data.*
@@ -71,7 +71,6 @@ For the other nine top predictions, no supporting mechanism was found:
 
 - Most are rare congenital developmental or skeletal syndromes, such as brachydactyly-syndactyly syndrome, acromesomelic dysplasia and brachyolmia-amelogenesis imperfecta syndrome, with no evident pharmacological relevance to sulfasalazine.
 - WHIM syndrome, a CXCR4 gain-of-function immunodeficiency, has no supported mechanistic connection either.
-- "Spondyloarthropathy, susceptibility to" is already an original indication, so it is not a true repurposing candidate.
 
 ## Clinical Trial Evidence
 
@@ -96,15 +95,15 @@ For the "spondyloarthropathy, susceptibility to" entry, the retrieved literature
 
 ## US Market Information
 
-All six US authorizations are cancelled, so the drug has no currently valid US license in the data compiled for this report. Approved indication text was not available for any of them.
+All six US authorizations are valid (6 of 6), and the drug is marketed in the US. Approved indication text was not available for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| NDA007073 | Sulfasalazine (A-S Medication Solutions) | Tablet | Cancelled |
-| ANDA075339 | Sulfasalazine (Sunrise Pharmaceutical) | Tablet, delayed release | Cancelled |
-| ANDA085828 | Sulfasalazine (Teva Pharmaceuticals USA) | Tablet | Cancelled |
-| ANDA040349 | Sulfasalazine (Sunrise Pharmaceutical) | Tablet | Cancelled |
-| ANDA219046 | Sulfasalazine (Rising Pharma Holdings) | Tablet | Cancelled |
+| NDA007073 | Sulfasalazine (A-S Medication Solutions) | Tablet | Valid |
+| ANDA075339 | Sulfasalazine (Sunrise Pharmaceutical) | Tablet, delayed release | Valid |
+| ANDA085828 | Sulfasalazine (Teva Pharmaceuticals USA) | Tablet | Valid |
+| ANDA040349 | Sulfasalazine (Sunrise Pharmaceutical) | Tablet | Valid |
+| ANDA219046 | Sulfasalazine (Rising Pharma Holdings) | Tablet | Valid |
 
 ## Safety Considerations
 
@@ -128,14 +127,14 @@ Please refer to the package insert for formal warnings and contraindications, wh
 **Decision: Hold**
 
 **Rationale:**
-The high TxGNN scores are model predictions only. Eight of the ten top predictions have no clinical or literature support, and one is an existing indication. Osteoarthritis has only preclinical support, no registered trials, and an investigational intra-articular formulation. In addition, all US licenses are cancelled, and the package insert safety data and mechanism of action data were not available.
+The high TxGNN scores are model predictions only. Eight of the ten top predictions have no clinical or literature support. Osteoarthritis has only preclinical support, no registered trials, and an investigational intra-articular formulation. In addition, the package insert safety data and mechanism of action data were not available.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (blocking for safety screening)
 - Detailed mechanism of action data
 - Further preclinical validation and, if warranted, early-phase trials of sulfasalazine, for example an intra-articular formulation, in osteoarthritis
-- Review of the knowledge-graph disease associations in the context of the target osteoarthritis population (for example, liver, kidney and blood disorders)
-- Clarification of the US regulatory and supply situation, since no valid licenses are currently listed
+- Review of the TxGNN model (deep learning) disease predictions in the context of the target osteoarthritis population (for example, liver, kidney and blood disorders)
+- Clarification of the US regulatory and supply situation across the six valid licenses
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

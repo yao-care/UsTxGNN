@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **monosomy X** (Turner syndrome
 |------|------|
 | Original Indication | Endocrine exophthalmos |
 | Predicted New Indication | Monosomy X |
-| TxGNN Prediction Score | 99.79% |
+| TxGNN Prediction Score | 0.9979 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 (BLA761143, status: cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -63,7 +63,7 @@ Teprotumumab is a monoclonal antibody that inhibits the insulin-like growth fact
 
 The link to monosomy X (Turner syndrome) is weak. Turner syndrome involves growth impairment and gonadal dysgenesis, and the IGF-1 axis is relevant to growth. However, blocking IGF-1R would be expected to oppose, rather than support, growth. No direct mechanistic link is established.
 
-The high TxGNN score (0.998) most likely reflects computational associations within the knowledge graph. The other top predictions are closely related entities (mosaic monosomy X, Turner syndrome due to structural X chromosome anomalies, X chromosome number anomaly, sex chromosome disorder of sex development, mixed gonadal dysgenesis). These appear to be correlated predictions from a single cluster rather than independent signals. The remaining predictions, such as esophageal varices and varicose disease, also lack any plausible mechanistic rationale.
+The high TxGNN score (0.9979) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The other top predictions are closely related entities (mosaic monosomy X, Turner syndrome due to structural X chromosome anomalies, X chromosome number anomaly, sex chromosome disorder of sex development, mixed gonadal dysgenesis). These appear to be correlated predictions from a single cluster rather than independent signals. The remaining predictions, such as esophageal varices and varicose disease, also lack any plausible mechanistic rationale.
 
 ---
 
@@ -83,7 +83,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA761143 | TEPEZZA | Injection, powder, lyophilized, for solution | Not listed (status: cancelled; manufacturer: Horizon Therapeutics USA, Inc.) |
+| BLA761143 | TEPEZZA | Injection, powder, lyophilized, for solution | Not listed (status: valid; manufacturer: Horizon Therapeutics USA, Inc.) |
 
 ---
 

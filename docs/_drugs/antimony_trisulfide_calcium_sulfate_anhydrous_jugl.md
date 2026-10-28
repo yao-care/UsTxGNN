@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Antimony Trisulfide Calcium Sulfate Anhydrous Jugl
@@ -51,7 +52,7 @@ No repurposing assessment is possible at this stage.
 | Predicted New Indication | None identified |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (model input data insufficient; no prediction generated) |
-| Market Status | Not marketed |
+| Market Status | Marketed (valid licenses on record: at least 6) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

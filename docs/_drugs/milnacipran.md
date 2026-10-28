@@ -4,17 +4,17 @@ title: Milnacipran
 parent: Moderate Evidence (L3-L4)
 nav_order: 930
 evidence_level: L3
-indication_count: 10
+indication_count: 9
 monitor_inn: "MILNACIPRAN"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "tendinitis", "papillary conjunctivitis", "idiopathic granulomatous myositis", "myositis fibrosa", "inclusion body myositis", "atrophoderma vermiculata", "migraine with or without aura, susceptibility to", "cauda equina syndrome"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "tendinitis", "papillary conjunctivitis", "idiopathic granulomatous myositis", "myositis fibrosa", "inclusion body myositis", "atrophoderma vermiculata", "cauda equina syndrome"]
 last_modified_at: 2026-10-14
-description: "Milnacipran: predicted new indication Migraine disorder (evidence level L3). Approved use: Fibromyalgia"
+description: "Milnacipran: predicted new indication Migraine disorder (evidence level L3). Approved use: Not recorded in the local data"
 ---
 
 # Milnacipran
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L3** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-## Milnacipran: From Fibromyalgia to Migraine Disorder
+## Milnacipran: Migraine disorder
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Milnacipran is a serotonin-norepinephrine reuptake inhibitor (SNRI) originally used to treat fibromyalgia, and the knowledge graph also links it to myofascial pain syndrome.
+Milnacipran is a serotonin-norepinephrine reuptake inhibitor (SNRI) originally used to treat fibromyalgia, and the TxGNN model (deep learning) also links it to myofascial pain syndrome; this may reflect similarities the model learned between related diseases, not biological evidence.
 The TxGNN model predicts it may be effective for **migraine disorder**, supported by **2 clinical trials** (1 completed placebo-controlled trial, 1 open-label study) and **5 publications**, including one prospective open-label study.
 The evidence is early-stage: no controlled efficacy results are available yet.
 
@@ -48,12 +48,12 @@ The evidence is early-stage: no controlled efficacy results are available yet.
 
 | Item | Content |
 |------|------|
-| Original Indication | Fibromyalgia (the US approved-indication text is not available in the compiled data; the indication comes from the knowledge graph) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.91% |
+| TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L3 |
-| US Market Status | Cancelled only (the single NDA is cancelled) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold (treat as a research question) |
 
 ---

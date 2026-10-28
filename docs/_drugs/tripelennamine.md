@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Tripelennamine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1265
-evidence_level: L4
-indication_count: 5
-last_modified_at: 2026-10-14
-description: "Tripelennamine: predicted new indication Allergic urticaria (evidence level L4). Approved use: Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold…"
+evidence_level: L5
+indication_count: 2
+last_modified_at: 2026-10-28
 monitor_inn: "TRIPELENNAMINE"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "recalcitrant atopic dermatitis"]
+predicted_indications: ["nasal cavity disease", "recalcitrant atopic dermatitis"]
+description: "Tripelennamine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Tripelennamine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Evidence Level: **L4** | Predicted Indications: **5**
 
 </div>
 
-## Tripelennamine: From Allergic Rhinitis and Urticaria to Allergic Urticaria
+## Tripelennamine: Nasal cavity disease
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Tripelennamine is a first-generation H1 antihistamine, originally used for allergic and vasomotor rhinitis, urticaria, angioedema, conjunctivitis, pharyngitis, and the common cold.
-The TxGNN model predicts it may be effective for **allergic urticaria**, but this is largely an overlap with an existing labeled use rather than a true new indication.
 Currently there are **0 clinical trials** and **1 publication** (a 1954 clinical experience report on a combination preparation) supporting this direction.
 
 ---
@@ -48,12 +47,12 @@ Currently there are **0 clinical trials** and **1 publication** (a 1954 clinical
 
 | Item | Content |
 |------|------|
-| Original Indication | Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold, conjunctivitis (atopic, papillary, vernal), familial dermatographia, urticaria, angioedema |
-| Predicted New Indication | Allergic urticaria |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 2 (both cancelled) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Nasal cavity disease |
+| TxGNN Prediction Score | 0.9959 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ---
@@ -65,10 +64,10 @@ Currently, detailed mechanism of action data is not available. Based on known in
 Urticaria is already among the drug's original indications. Allergic urticaria is a subtype of that labeled condition, so the mechanistic link is strong. The high TxGNN score most likely reflects this overlap, so the prediction should not be read as discovery of a truly new use.
 
 Other predictions from the model are weaker:
-- **Cold urticaria** (99.87%): H1 antihistamines are first-line therapy for this inducible urticaria, so there is a class-level rationale. However, no drug-specific evidence exists, and current guidelines prefer second-generation non-sedating antihistamines.
-- **Nasal cavity disease** (99.59%): the term is too broad, and it partly restates the existing rhinitis indications.
-- **Acute laryngopharyngitis** (99.53%): this is adjacent to the existing pharyngitis and common cold uses. Any benefit would be symptomatic relief, for example from anticholinergic drying effects.
-- **Recalcitrant atopic dermatitis** (99.11%): histamine is not the main driver of this disease, so the mechanistic link is weak.
+- However, no drug-specific evidence exists, and current guidelines prefer second-generation non-sedating antihistamines.
+- **Nasal cavity disease** (0.9959): the term is too broad, and it partly restates the existing rhinitis indications.
+- Any benefit would be symptomatic relief, for example from anticholinergic drying effects.
+- **Recalcitrant atopic dermatitis** (0.9911): histamine is not the main driver of this disease, so the mechanistic link is weak.
 
 ---
 
@@ -90,8 +89,8 @@ Currently no related clinical trials registered.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| M017 | Blue-Emu THRIVE Cooling (cancelled) | Cream | Not specified |
-| nan | Stomach Drops (cancelled) | Liquid | Not specified |
+| M017 | Blue-Emu THRIVE Cooling (valid) | Cream | Not specified |
+| nan | Stomach Drops (valid) | Liquid | Not specified |
 
 ---
 
@@ -112,7 +111,7 @@ Package insert warnings and contraindications were not available for this report
 **Decision: Hold**
 
 **Rationale:**
-The predicted indication, allergic urticaria, largely overlaps with the drug's existing urticaria indication. There are no registered clinical trials and only a 1954 report with no abstract. The drug has no valid US marketing authorization (both licenses are cancelled), and current guidelines favor second-generation antihistamines. As a result, the repurposing value is limited.
+There are no registered clinical trials and only a 1954 report with no abstract. As a result, the repurposing value is limited.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications. This is a blocking gap for safety screening.

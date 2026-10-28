@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "DROPERIDOL"
 predicted_indications: ["Tourette syndrome", "trichotillomania", "manic bipolar affective disorder", "attention deficit hyperactivity disorder, inattentive type", "nephrogenic syndrome of inappropriate antidiuresis", "attention deficit-hyperactivity disorder", "headache disorder", "common cold", "hypertrichosis (disease)", "specific developmental disorder"]
 last_modified_at: 2026-10-14
-description: "Droperidol: predicted new indication Tourette syndrome (evidence level L5). Approved use: Not listed in the license data compiled for this report"
+description: "Droperidol: predicted new indication Tourette syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Droperidol
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Droperidol: From Its Approved Injectable Use to Tourette Syndrome
+## Droperidol: Tourette syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ Droperidol is a butyrophenone dopamine D2 antagonist that has been sold in the U
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the license data compiled for this report |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Tourette syndrome |
-| TxGNN Prediction Score | 99.89% |
+| TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid authorization) |
-| Number of NDAs | 2 (both are generic ANDAs, both cancelled) |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ---
@@ -112,7 +112,7 @@ Package-insert warnings and contraindications were not available for this report
 **Decision: Hold**
 
 **Rationale:**
-The Tourette syndrome prediction has a very high model score and a plausible D2-antagonist rationale. There is no clinical or published evidence (L5), and the product has no currently valid US authorization. The QT-related safety profile and the injectable-only formulation do not fit chronic tic management.
+The Tourette syndrome prediction has a very high model score and a plausible D2-antagonist rationale. The QT-related safety profile and the injectable-only formulation do not fit chronic tic management.
 
 **To proceed, the following is needed:**
 - A literature and trial search specific to droperidol in tic disorders, plus a comparison against established D2 antagonists such as haloperidol

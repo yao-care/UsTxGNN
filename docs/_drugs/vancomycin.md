@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **Diffuse Scleroderma**, but th
 |------|------|
 | Original Indication | Clostridium difficile colitis (other listed uses: staphylococcal infection, endocarditis, bacterial arthritis, staphylococcal pneumonia) |
 | Predicted New Indication | Diffuse Scleroderma |
-| TxGNN Prediction Score | 99.92% |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all 13 authorizations cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 13) |
 | Number of NDAs | 13 (all single-ingredient, 0 currently valid) |
 | Recommended Decision | Hold |
 
@@ -57,7 +57,7 @@ The TxGNN model predicts it may be effective for **Diffuse Scleroderma**, but th
 
 Currently, detailed mechanism of action data is not available. Vancomycin is known to be a glycopeptide antibiotic that inhibits cell wall synthesis in Gram-positive bacteria, and its efficacy in Gram-positive infections is well established.
 
-That mechanism does not plausibly link to diffuse scleroderma, which is an autoimmune fibrotic disease and not a bacterial infection. The high TxGNN score is most likely an artifact of the knowledge graph rather than a real biological signal. The single retrieved paper is a case report on erythroderma with sepsis and eosinophilia, and it does not show any benefit in scleroderma.
+That mechanism does not plausibly link to diffuse scleroderma, which is an autoimmune fibrotic disease and not a bacterial infection. The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The single retrieved paper is a case report on erythroderma with sepsis and eosinophilia, and it does not show any benefit in scleroderma.
 
 **Other predictions worth noting.** Most of the other top-ranked predictions also lack a mechanistic basis:
 - **Paratyphoid fever, salmonellosis and typhoid fever:** these are caused by Gram-negative *Salmonella*, which vancomycin cannot penetrate because of the outer membrane, so it is intrinsically inactive.
@@ -76,15 +76,15 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All 13 authorizations are listed as cancelled, and none has approved indication text on record. The five below are representative.
+13 valid authorizations are on record, and none has approved indication text on record. The five below are representative.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA050606 | Vancomycin hydrochloride (ANI Pharmaceuticals) | Capsule | Not available (cancelled) |
-| NDA211962 | Vancomycin (Xellia) | Injection, solution | Not available (cancelled) |
-| NDA210274 | Vancomycin hydrochloride (Hikma) | Injection, powder, for solution | Not available (cancelled) |
-| NDA209481 | Vancomycin hydrochloride (Mylan Institutional) | Injection, powder, lyophilized, for solution | Not available (cancelled) |
-| NDA050671 | Vancomycin hydrochloride (Baxter) | Injection, solution | Not available (cancelled) |
+| NDA050606 | Vancomycin hydrochloride (ANI Pharmaceuticals) | Capsule | Not available (valid) |
+| NDA211962 | Vancomycin (Xellia) | Injection, solution | Not available (valid) |
+| NDA210274 | Vancomycin hydrochloride (Hikma) | Injection, powder, for solution | Not available (valid) |
+| NDA209481 | Vancomycin hydrochloride (Mylan Institutional) | Injection, powder, lyophilized, for solution | Not available (valid) |
+| NDA050671 | Vancomycin hydrochloride (Baxter) | Injection, solution | Not available (valid) |
 
 ## Safety Considerations
 
@@ -111,7 +111,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-There is no mechanistic link, no clinical trial and no relevant literature supporting vancomycin in diffuse scleroderma, so the prediction is probably a knowledge-graph artifact. All 13 US authorizations are cancelled, so product availability would also need to be checked.
+There is no mechanistic link, no clinical trial and no relevant literature supporting vancomycin in diffuse scleroderma, so the prediction is probably an artifact of the TxGNN model (deep learning). The drug is marketed in the US with 13 valid licenses.
 
 **To proceed, the following is needed:**
 - Do not pursue diffuse scleroderma without new mechanistic or preclinical evidence.

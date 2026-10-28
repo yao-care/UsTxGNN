@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "ELAFIBRANOR"
 predicted_indications: ["amenorrhea (disease)"]
 last_modified_at: 2026-10-14
-description: "Elafibranor: predicted new indication Amenorrhea (evidence level L5). Approved use: Primary biliary cholangitis"
+description: "Elafibranor: predicted new indication amenorrhea (evidence level L5). Approved use: Primary biliary cholangitis"
 ---
 
 # Elafibranor
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-## Elafibranor: From Primary Biliary Cholangitis to Amenorrhea
+## Elafibranor: From Primary Biliary Cholangitis to amenorrhea
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,17 +48,17 @@ The prediction rests on a model score alone.
 |------|------|
 | Original Indication | Primary biliary cholangitis (the approved indication text is not available in the data compiled for this report; this is taken from the drug's published clinical-use background) |
 | Predicted New Indication | Amenorrhea |
-| TxGNN Prediction Score | 99.86% |
+| TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (the single listed license is recorded as cancelled) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Elafibranor is a dual agonist of peroxisome proliferator-activated receptors α and δ (PPARA and PPARD). It is converted in the liver to its main active metabolite, GFT-1007. Preclinical work showed reduced hepatic fat accumulation, inflammation and fibrosis. A formal mechanism-of-action entry is not available in the data compiled for this report, so this description comes from pharmacology data on the drug's targets.
 
-PPAR signaling affects lipid and glucose metabolism, insulin sensitivity and inflammation. These pathways could plausibly relate to metabolic causes of amenorrhea, such as PCOS-associated or hypothalamic dysfunction. However, this link is speculative. No trial or publication in the compiled data supports it, and the high score may simply reflect general connectivity in the knowledge graph rather than a specific biological rationale. The relationship between PBC (a liver disease) and amenorrhea (a reproductive-endocrine condition) has not been assessed.
+PPAR signaling affects lipid and glucose metabolism, insulin sensitivity and inflammation. These pathways could plausibly relate to metabolic causes of amenorrhea, such as PCOS-associated or hypothalamic dysfunction. However, this link is speculative. No trial or publication in the compiled data supports it, and the score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The relationship between PBC (a liver disease) and amenorrhea (a reproductive-endocrine condition) has not been assessed.
 
 ## Clinical Trial Evidence
 
@@ -72,7 +72,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA218860 | IQIRVO (Ipsen Biopharmaceuticals, Inc.) | Tablet, film coated (oral) | Not listed in the compiled data; status recorded as cancelled |
+| NDA218860 | IQIRVO (Ipsen Biopharmaceuticals, Inc.) | Tablet, film coated (oral) | Not listed in the compiled data; status recorded as valid |
 
 ## Safety Considerations
 

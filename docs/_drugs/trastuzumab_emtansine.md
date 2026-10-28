@@ -1,18 +1,19 @@
 ---
 layout: default
 title: Trastuzumab Emtansine
-parent: Moderate Evidence (L3-L4)
+parent: Known Uses Only (No New Predictions)
 nav_order: 1252
-evidence_level: L4
-indication_count: 4
-last_modified_at: 2026-10-14
-description: "Trastuzumab Emtansine: predicted new indication Progesterone-receptor positive breast cancer (evidence level L4). Approved use: HER2-positive breast carcinoma"
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Trastuzumab Emtansine: known uses and market status in the United States; currently no new candidate indication"
+predicted_indications: []
 ---
 
 # Trastuzumab Emtansine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **4** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,64 +32,48 @@ Evidence Level: **L4** | Predicted Indications: **4**
 
 </div>
 
-## Trastuzumab Emtansine: From HER2-Positive Breast Carcinoma to Progesterone-Receptor Positive Breast Cancer
+<!-- known-uses-page -->
+<!-- description: Trastuzumab Emtansine: known uses and market status in the United States; currently no new candidate indication -->
+## Trastuzumab Emtansine: Known uses and market status in the United States
 {: .text-alpha }
 
-## One-Sentence Summary
+## Summary
+The TxGNN deep-learning model (score ≥ 0.99) produced candidate indications for Trastuzumab Emtansine. Every candidate that can be traced to a source is already a known use, so there is currently no new predicted indication. The four known uses listed below are all in the same disease category as an approved indication.
 
-Trastuzumab emtansine (T-DM1) is an antibody-drug conjugate originally used to treat HER2-positive breast carcinoma.
-The TxGNN model predicts it may be effective for **progesterone-receptor positive breast cancer**, but this is largely a subpopulation of the already-approved indication rather than a true new use.
-Currently there are **no registered clinical trials** and **15 publications** (mostly reviews, guidelines and case reports) linked to this prediction.
-
-## Quick Overview
-
+## Quick overview
 | Item | Content |
 |------|------|
-| Original Indication | HER2-positive breast carcinoma (the US license record has no indication text) |
-| Predicted New Indication | Progesterone-receptor positive breast cancer |
-| TxGNN Prediction Score | 99.82% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (the single license, BLA125427, is listed as cancelled) |
-| Number of NDAs | 1 |
-| Recommended Decision | Hold |
+| New predicted indications | None (all traceable model candidates are known uses) |
+| Known uses among model candidates | 4 |
+| Evidence level | Not applicable |
+| Market status in the United States | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 
-## Why is This Prediction Reasonable?
+## Known uses among the model's candidates
 
-Detailed mechanism of action data is not available in the data compiled for this report. From the literature, T-DM1 is an antibody-drug conjugate: a HER2-targeting antibody (trastuzumab) linked to the cytotoxic payload DM1 (emtansine). Its activity depends on HER2 expression, not on progesterone receptor (PR) status.
+### Approved (supported by a licence or label)
+| Indication | Source |
+|------|------|
+| none | none |
 
-HER2-positive tumors that are also PR-positive (HR+/HER2+) are already covered by the approved HER2-positive breast cancer indication. The very high TxGNN score most likely reflects the close relationship between these diseases in the knowledge graph, not a new therapeutic opportunity. In practice, this prediction describes a biomarker-defined subgroup of the original indication.
+### Related to an approved indication (same disease category)
+| Indication | Approved category |
+|------|------|
+| progesterone-receptor positive breast cancer | breast cancer |
+| normal breast-like subtype of breast carcinoma | breast cancer |
+| progesterone-receptor negative breast cancer | breast cancer |
+| breast tumor luminal A or B | breast cancer |
 
-Other predicted indications in the data also overlap with the approved use:
-- **Normal breast-like subtype**: typically HER2-low or HER2-negative, so the mechanistic basis is weak. No trials or literature were found (L5, Hold).
-- **Progesterone-receptor negative breast cancer**: HER2-positive, PR-negative tumors are already covered. One terminated Phase 2 trial and reviews or case reports are linked (L3).
-- **Luminal A or B breast tumor**: luminal B tumors can be HER2-positive (already covered), while luminal A tumors are generally HER2-negative. Evidence is indirect, and several retrieved papers are off-topic (L4).
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials are registered for the top predicted indication (PR-positive breast cancer).
-
-## Literature Evidence
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [35640077](https://pubmed.ncbi.nlm.nih.gov/35640077/) | 2022 | Guideline | J Clin Oncol | ASCO guideline update on systemic therapy for advanced HER2-positive breast cancer |
-| [29939838](https://pubmed.ncbi.nlm.nih.gov/29939838/) | 2018 | Guideline | J Clin Oncol | Earlier ASCO guideline update; systematic review of 622 articles on advanced HER2-positive disease |
-| [28259011](https://pubmed.ncbi.nlm.nih.gov/28259011/) | 2017 | Guideline | Eur J Cancer | EGTM biomarker guideline: ER and PR should be measured in all invasive breast cancers; HER2 testing is mandatory to select anti-HER2 therapy, including ado-trastuzumab emtansine |
-| [34215766](https://pubmed.ncbi.nlm.nih.gov/34215766/) | 2021 | Cohort | Sci Rep | ChangeHER trial: prognostic relevance of gaining HER2 positivity in metastatic breast cancer treated with pertuzumab and/or T-DM1 |
-| [33726508](https://pubmed.ncbi.nlm.nih.gov/33726508/) | 2021 | Review | Future Oncol | Current treatment trends in HR+/HER2+ breast cancer; mentions T-DM1 among novel anti-HER2 agents |
-| [39631485](https://pubmed.ncbi.nlm.nih.gov/39631485/) | 2024 | Review | Pharmacol Res | Targeted and cytotoxic inhibitors in breast cancer, organized by HER2, HR, ER and PR status |
-| [24892840](https://pubmed.ncbi.nlm.nih.gov/24892840/) | 2013 | Review | Clin Adv Hematol Oncol | Integrating new data into metastatic breast cancer practice |
-| [25873876](https://pubmed.ncbi.nlm.nih.gov/25873876/) | 2015 | Case report | Case Rep Oncol | Dose-reduced T-DM1 was active and safe in a patient with acute hepatic dysfunction |
-| [33482449](https://pubmed.ncbi.nlm.nih.gov/33482449/) | 2021 | Case report | Int J Surg Case Rep | Favorable survival with combined treatment in a metastatic breast cancer patient on hemodialysis |
-| [35251981](https://pubmed.ncbi.nlm.nih.gov/35251981/) | 2022 | Case report | Front Oncol | Pyrotinib plus metronomic vinorelbine in HER2-positive breast cancer with leptomeningeal disease |
-
-No PR-specific trial evidence was identified in this literature.
+### Relations recorded in the knowledge graph (no approval found)
+| Indication |
+|------|
+| none |
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| BLA125427 (cancelled) | KADCYLA (Genentech, Inc.) | Injection, powder, lyophilized, for solution | Not stated in the data compiled |
+| Licence | Product | Dosage form | Status |
+|------|------|------|------|
+| BLA125427 | ADO-TRASTUZUMAB EMTANSINE | INJECTION, POWDER, LYOPHILIZED, FOR SOLU | Valid |
 
 ## Cytotoxicity
 
@@ -108,18 +93,6 @@ No PR-specific trial evidence was identified in this literature.
 
 Please refer to the package insert for warnings and contraindications.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The predicted indication is a PR-positive subgroup of the already-approved HER2-positive breast cancer use, so it is not a true repurposing opportunity. T-DM1's activity depends on HER2, not PR status. There are no registered trials and no PR-specific evidence, and the US license is listed as cancelled.
-
-**To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Detailed mechanism of action data from DrugBank
-- Subgroup analyses of HER2-positive trials stratified by PR/hormone receptor status, to show whether PR-positive disease needs separate evaluation
-- Clarification of the current US regulatory status, given the cancelled license
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

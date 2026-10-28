@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "FERUMOXYTOL"
 predicted_indications: ["Plummer-Vinson syndrome", "non-syndromic esophageal malformation", "vitamin B12- and folate-independent constitutional megaloblastic anemia", "severe nonproliferative diabetic retinopathy", "esophageal ulcer", "esophageal disease"]
 last_modified_at: 2026-10-14
-description: "Ferumoxytol: predicted new indication Plummer-Vinson syndrome (evidence level L5). Approved use: Iron deficiency anemia"
+description: "Ferumoxytol: predicted new indication Plummer-Vinson syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Ferumoxytol
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-## Ferumoxytol: From Iron Deficiency Anemia to Plummer-Vinson Syndrome
+## Ferumoxytol: Plummer-Vinson syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ The link rests on indirect reasoning, because the anemia component of the syndro
 
 | Item | Content |
 |------|------|
-| Original Indication | Iron deficiency anemia (also hypochromic, deficiency and microcytic anemia, based on the knowledge graph indication edges) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Plummer-Vinson syndrome |
-| TxGNN Prediction Score | 99.87% |
-| Evidence Level | L4 (no trials or literature for this indication; mechanistic reasoning only) |
-| US Market Status | Cancelled only (no currently valid authorizations) |
-| Number of NDAs | 3 (all cancelled) |
+| TxGNN Prediction Score | 0.9987 |
+| Evidence Level | L5 (no trials or literature for this indication; mechanistic reasoning only) |
+| US Market Status | Marketed (valid licenses: 3 of 3) |
+| Number of NDAs | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -66,11 +66,11 @@ The high TxGNN score most likely reflects the overlap with iron deficiency anemi
 
 | Predicted Indication | TxGNN Score | Assessment |
 |------|------|------|
-| Non-syndromic esophageal malformation | 99.86% | No plausible mechanism. These are structural defects needing surgery. |
-| Vitamin B12- and folate-independent constitutional megaloblastic anemia | 99.85% | Not caused by iron deficiency. Iron could risk overload if stores are normal. |
-| Severe nonproliferative diabetic retinopathy | 99.65% | No mechanistic rationale. Iron-related oxidative stress may even harm the retina. |
-| Esophageal ulcer | 99.58% | Iron could only treat anemia from blood loss, not the ulcer itself. |
-| Esophageal disease | 99.51% | Existing evidence concerns ferumoxytol as an imaging agent, not a therapy (see below). |
+| Non-syndromic esophageal malformation | 0.9986 | No plausible mechanism. These are structural defects needing surgery. |
+| Vitamin B12- and folate-independent constitutional megaloblastic anemia | 0.9985 | Not caused by iron deficiency. Iron could risk overload if stores are normal. |
+| Severe nonproliferative diabetic retinopathy | 0.9965 | No mechanistic rationale. Iron-related oxidative stress may even harm the retina. |
+| Esophageal ulcer | 0.9958 | Iron could only treat anemia from blood loss, not the ulcer itself. |
+| Esophageal disease | 0.9951 | Existing evidence concerns ferumoxytol as an imaging agent, not a therapy (see below). |
 
 ## Clinical Trial Evidence
 
@@ -95,9 +95,9 @@ No literature directly supports Plummer-Vinson syndrome. One publication was fou
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA022180 | Feraheme (AMAG Pharmaceuticals) | Injection | Not available; status cancelled |
-| ANDA206604 | Ferumoxytol (Sandoz) | Injection | Not available; status cancelled |
-| NDA219868 | FeraBright (Azurity Pharmaceuticals) | Injection | Not available; status cancelled |
+| NDA022180 | Feraheme (AMAG Pharmaceuticals) | Injection | Not available; status valid |
+| ANDA206604 | Ferumoxytol (Sandoz) | Injection | Not available; status valid |
+| NDA219868 | FeraBright (Azurity Pharmaceuticals) | Injection | Not available; status valid |
 
 ## Safety Considerations
 
@@ -112,12 +112,12 @@ The data compiled for this report do not include package insert warnings or cont
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no direct clinical or literature support. The score likely reflects the overlap with the already approved iron deficiency anemia indication, so it is not a true repurposing signal. All three US authorizations are cancelled, and the label safety data is missing, which blocks safety screening.
+The prediction has no direct clinical or literature support. The score likely reflects the overlap with the already approved iron deficiency anemia indication, so it is not a true repurposing signal. The drug is marketed in the US, with all three authorizations valid, but the label safety data is missing, which blocks safety screening.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data (for example from DrugBank)
-- Clarification of the US marketing status, since all authorizations are cancelled
+- Clarification of the US marketing status (3 of 3 licenses valid)
 - Any clinical data on iron replacement in Plummer-Vinson syndrome, and a clear case that it adds value beyond the existing anemia indication
 - Confirmation of route compatibility, which is still pending
 ## Disclaimer

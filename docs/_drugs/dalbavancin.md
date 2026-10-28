@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "DALBAVANCIN"
 predicted_indications: ["postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "otitis externa", "ophthalmic herpes zoster", "infectious mononucleosis", "orbital cellulitis"]
 last_modified_at: 2026-10-14
-description: "Dalbavancin: predicted new indication Postinfectious vasculitis (evidence level L5). Approved use: Skin disease caused by infection"
+description: "Dalbavancin: predicted new indication Postinfectious vasculitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Dalbavancin
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Dalbavancin: From Skin Infection to Postinfectious Vasculitis
+## Dalbavancin: Postinfectious vasculitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,33 +46,33 @@ but currently **0 clinical trials** and **0 publications** support this directio
 
 | Item | Content |
 |------|------|
-| Original Indication | Skin disease caused by infection (from the knowledge graph; no approved indication text is available in the license records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Postinfectious vasculitis |
-| TxGNN Prediction Score | 99.76% |
+| TxGNN Prediction Score | 0.9976 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 4 license records (1 NDA, 3 ANDAs), all cancelled |
+| US Market Status | Marketed (valid licenses: 4 of 4) |
+| Number of NDAs | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, dalbavancin is a lipoglycopeptide antibiotic active against Gram-positive bacteria, and it is used for infections of the skin and skin structures.
 
-Postinfectious vasculitis is typically an immune-mediated process that follows an infection, not an active bacterial infection. Direct antibacterial activity therefore has no clear role, and the mechanistic link is speculative. The very high score (0.998) reflects proximity to infection-related nodes in the knowledge graph, not a demonstrated biological rationale.
+Postinfectious vasculitis is typically an immune-mediated process that follows an infection, not an active bacterial infection. Direct antibacterial activity therefore has no clear role, and the mechanistic link is speculative. The very high score (0.9976) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 **Other predictions reviewed (all L5, no trials or literature):**
 
 | Rank | Predicted Indication | Score | Assessment |
 |---|------|------|------|
-| 2 | Post-bacterial disorder | 99.76% | Non-specific category; likely graph proximity only |
-| 3 | Post-infectious syndrome | 99.76% | Immune-driven after pathogen clearance; no clear rationale |
-| 4 | Infective urethral stricture | 99.74% | Fibrotic complication; an antibiotic would not reverse it |
-| 5 | Chagas cardiomyopathy | 99.72% | Caused by a protozoan; weak rationale |
-| 6 | Infection-related hemolytic uremic syndrome | 99.72% | Mostly Gram-negative E. coli; antibiotics are generally avoided in STEC-HUS |
-| 7 | Otitis externa | 99.70% | Plausible only for staphylococcal cases; usually treated topically |
-| 8 | Ophthalmic herpes zoster | 99.25% | Viral; no mechanistic basis |
-| 9 | Infectious mononucleosis | 99.16% | Viral; no mechanistic basis |
-| 10 | Orbital cellulitis | 99.02% | Most plausible: Staphylococcus aureus (including MRSA) and Streptococcus fall within its spectrum, and it is related to the approved skin infection indication. Orbital tissue penetration is unknown. Flagged as a research question |
+| 2 | Post-bacterial disorder | 0.9976 | Non-specific category; the score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence |
+| 3 | Post-infectious syndrome | 0.9976 | Immune-driven after pathogen clearance; no clear rationale |
+| 4 | Infective urethral stricture | 0.9974 | Fibrotic complication; an antibiotic would not reverse it |
+| 5 | Chagas cardiomyopathy | 0.9972 | Caused by a protozoan; weak rationale |
+| 6 | Infection-related hemolytic uremic syndrome | 0.9972 | Mostly Gram-negative E. coli; antibiotics are generally avoided in STEC-HUS |
+| 7 | Otitis externa | 0.9970 | Plausible only for staphylococcal cases; usually treated topically |
+| 8 | Ophthalmic herpes zoster | 0.9925 | Viral; no mechanistic basis |
+| 9 | Infectious mononucleosis | 0.9916 | Viral; no mechanistic basis |
+| 10 | Orbital cellulitis | 0.9902 | Most plausible: Staphylococcus aureus (including MRSA) and Streptococcus fall within its spectrum, and it is related to the approved skin infection indication. Orbital tissue penetration is unknown. Flagged as a research question |
 
 ## Clinical Trial Evidence
 
@@ -86,10 +86,10 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA217591 | Dalbavancin Hydrochloride (Fresenius Kabi USA, LLC) | Injection, powder, for solution | Not available (cancelled) |
-| NDA021883 | Dalvance (Allergan, Inc.) | Injection, powder, for solution | Not available (cancelled) |
-| ANDA219465 | Dalbavancin (Teva Pharmaceuticals, Inc.) | Injection, powder, for solution | Not available (cancelled) |
-| ANDA218929 | Dalbavancin (Meitheal Pharmaceuticals Inc) | Injection, powder, lyophilized, for solution | Not available (cancelled) |
+| ANDA217591 | Dalbavancin Hydrochloride (Fresenius Kabi USA, LLC) | Injection, powder, for solution | Not available (valid) |
+| NDA021883 | Dalvance (Allergan, Inc.) | Injection, powder, for solution | Not available (valid) |
+| ANDA219465 | Dalbavancin (Teva Pharmaceuticals, Inc.) | Injection, powder, for solution | Not available (valid) |
+| ANDA218929 | Dalbavancin (Meitheal Pharmaceuticals Inc) | Injection, powder, lyophilized, for solution | Not available (valid) |
 
 ## Safety Considerations
 

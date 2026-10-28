@@ -47,28 +47,28 @@ The TxGNN model predicts it may be effective for **pancreatitis**, but there are
 |------|------|
 | Original Indication | Ocular hypertension; glaucoma |
 | Predicted New Indication | Pancreatitis |
-| TxGNN Prediction Score | 99.76% |
+| TxGNN Prediction Score | 0.9976 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no active marketing authorization) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Omidenepag isopropyl is a prodrug. Its active metabolite, omidenepag, is a selective EP2 receptor agonist. EP2 signaling raises intracellular cAMP and has anti-inflammatory and smooth-muscle-relaxing effects, which could plausibly bear on pancreatic inflammation. Detailed mechanism-of-action data are not currently available in the compiled data, so this reasoning is based on the known pharmacology of the drug class.
 
-The link between the original and new indications is weak. Glaucoma treatment relies on increasing aqueous humour outflow in the eye, while pancreatitis is an inflammatory disease of an internal organ. The drug is a topical eye drop with minimal systemic exposure, and no pancreatic data exist. The high TxGNN score (99.76%, model rank 6,557) is a computational prediction only.
+The link between the original and new indications is weak. Glaucoma treatment relies on increasing aqueous humour outflow in the eye, while pancreatitis is an inflammatory disease of an internal organ. The drug is a topical eye drop with minimal systemic exposure, and no pancreatic data exist. The high TxGNN score (0.9976, model rank 6,557) is a computational prediction only.
 
 Other predicted indications in the data have similarly high scores but also lack any supporting trials or literature:
 
 | Rank | Predicted Indication | TxGNN Score | Evidence Level | Comment |
 |------|------|------|------|------|
-| 2 | Hyperphosphatemia | 99.73% | L5 | No plausible mechanistic link to phosphate homeostasis identified |
-| 3 | Esophageal varices without bleeding | 99.31% | L5 | Vasodilation could be counterproductive in portal hypertension |
-| 4 | Esophageal varices with bleeding | 99.31% | L5 | Same score as rank 3, likely the same graph signal; acute bleeding needs systemic therapy |
-| 5 | Blepharospasm | 99.27% | L5 | Anatomically close, but EP2 agonism has no established role in dystonia; prostaglandin analogs have periocular adverse effects |
-| 6 | Familial visceral myopathy | 99.19% | L5 | Would not address the underlying genetic defect |
-| 7 | Alcoholic cardiomyopathy | 99.16% | L5 | Only indirect preclinical EP2 rationale; cardiac exposure unlikely |
+| 2 | Hyperphosphatemia | 0.9973 | L5 | No plausible mechanistic link to phosphate homeostasis identified |
+| 3 | Esophageal varices without bleeding | 0.9931 | L5 | Vasodilation could be counterproductive in portal hypertension |
+| 4 | Esophageal varices with bleeding | 0.9931 | L5 | Same score as rank 3; the score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence; acute bleeding needs systemic therapy |
+| 5 | Blepharospasm | 0.9927 | L5 | Anatomically close, but EP2 agonism has no established role in dystonia; prostaglandin analogs have periocular adverse effects |
+| 6 | Familial visceral myopathy | 0.9919 | L5 | Would not address the underlying genetic defect |
+| 7 | Alcoholic cardiomyopathy | 0.9916 | L5 | Only indirect preclinical EP2 rationale; cardiac exposure unlikely |
 
 ## Clinical Trial Evidence
 

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Mercaptopurine
-parent: Model Prediction Only (L5)
+parent: High Evidence (L1-L2)
 nav_order: 901
-evidence_level: L5
-indication_count: 10
+evidence_level: L2
+indication_count: 8
 last_modified_at: 2026-10-14
-description: "Mercaptopurine: predicted new indication Myeloid leukemia (evidence level L5). Approved use: Acute lymphoblastic leukemia"
 monitor_inn: "MERCAPTOPURINE"
 predicted_indications: ["myeloid leukemia", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "pulmonary blastoma", "Hodgkins lymphoma", "primary pulmonary lymphoma", "small cell lung carcinoma", "well-differentiated fetal adenocarcinoma of the lung"]
+description: "Mercaptopurine: predicted new indication Myeloid leukemia (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
 # Mercaptopurine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L2** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Mercaptopurine: From Acute Lymphoblastic Leukemia to Myeloid Leukemia
+## Mercaptopurine: Myeloid leukemia
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ with **15 clinical trials** and **20 publications** currently supporting this di
 
 | Item | Content |
 |------|------|
-| Original Indication | Acute lymphoblastic leukemia (the compiled data contain no approved indication text from US labels; this indication comes from the knowledge graph) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Myeloid leukemia |
-| TxGNN Prediction Score | 99.94% |
+| TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L2 (see the note below the table) |
-| US Market Status | Cancelled only (all licenses are cancelled) |
-| Number of NDAs | 4 (1 NDA and 1 further NDA-numbered entry are listed below; in total 2 NDAs and 2 ANDAs) |
+| US Market Status | Marketed (valid licenses: 4 of 4) |
+| Number of NDAs | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 Note on evidence level: Phase 3 trials exist for myeloid leukemia, but they test whole regimens, not mercaptopurine itself, and none isolates its contribution. A strict reading of the grading rules would therefore put this closer to L3. L2 is the level assigned in the compiled data.
@@ -102,12 +102,12 @@ The evidence is mainly small cohorts, pilot studies and reviews; no randomized t
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA040528 | Mercaptopurine (Hikma) | Tablet | Not listed (cancelled) |
-| NDA205919 | Mercaptopurine (Nova Laboratories) | Suspension | Not listed (cancelled) |
-| ANDA216418 | Mercaptopurine (Hikma) | Suspension | Not listed (cancelled) |
-| NDA009053 | Mercaptopurine (Florida Pharmaceutical Products) | Tablet | Not listed (cancelled) |
+| ANDA040528 | Mercaptopurine (Hikma) | Tablet | Not listed (valid) |
+| NDA205919 | Mercaptopurine (Nova Laboratories) | Suspension | Not listed (valid) |
+| ANDA216418 | Mercaptopurine (Hikma) | Suspension | Not listed (valid) |
+| NDA009053 | Mercaptopurine (Florida Pharmaceutical Products) | Tablet | Not listed (valid) |
 
-All four authorizations are recorded as cancelled, so current product availability needs to be verified.
+The drug is marketed, and all four licenses are valid.
 
 ## Cytotoxicity
 
@@ -130,7 +130,7 @@ All four authorizations are recorded as cancelled, so current product availabili
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is very high (99.94%), and mercaptopurine is already used within AML and APL maintenance regimens. However, the Phase 3 trials test whole regimens, not mercaptopurine, and the direct evidence is limited to small, early-phase or uncontrolled studies. Package insert safety data are missing, and all US licenses are cancelled. This is better treated as a research question than a ready candidate.
+The TxGNN score is very high (0.9994), and mercaptopurine is already used within AML and APL maintenance regimens. However, the Phase 3 trials test whole regimens, not mercaptopurine, and the direct evidence is limited to small, early-phase or uncontrolled studies. Package insert safety data are missing, and the drug is marketed with 4 of 4 licenses valid. This is better treated as a research question than a ready candidate.
 
 **To proceed, the following is needed:**
 - Mechanism of action data from a primary source

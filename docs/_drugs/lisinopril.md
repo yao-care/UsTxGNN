@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Lisinopril
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 864
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 6
 last_modified_at: 2026-10-14
-description: "Lisinopril: predicted new indication Posterolateral myocardial infarction (evidence level L4). Approved use: Hypertension, myocardial infarction"
 monitor_inn: "LISINOPRIL"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome"]
+description: "Lisinopril: predicted new indication Pulmonary hypertension with unclear multifactorial mechanism (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Lisinopril
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,23 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Lisinopril: From Hypertension and Myocardial Infarction to Posterolateral Myocardial Infarction
+## Lisinopril: Pulmonary hypertension with unclear multifactorial mechanism
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Lisinopril is an ACE inhibitor originally used to treat hypertension and myocardial infarction.
-The TxGNN model predicts it may be effective for **posterolateral myocardial infarction**,
 but **no clinical trials** and **no publications** specific to this indication were found, so the prediction mainly reflects its closeness to the already-approved myocardial infarction indication.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension, myocardial infarction (the US license records contain no indication text; these are taken from the knowledge-graph indication list) |
-| Predicted New Indication | Posterolateral myocardial infarction |
-| TxGNN Prediction Score | 99.90% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (all licenses cancelled) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Pulmonary hypertension with unclear multifactorial mechanism |
+| TxGNN Prediction Score | 0.9989 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 7) |
 | Number of NDAs | 7 (1 NDA and 6 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
@@ -84,11 +83,11 @@ For context, the table below lists the most relevant publications retrieved for 
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA019777 | Zestril (Upsher-Smith) | Tablet | Not recorded; cancelled |
-| ANDA076180 | Lisinopril (Proficient Rx) | Tablet | Not recorded; cancelled |
-| ANDA075903 | Lisinopril (XLCare) | Tablet | Not recorded; cancelled |
-| ANDA076164 | Lisinopril (A-S Medication Solutions) | Tablet | Not recorded; cancelled |
-| ANDA077321 | Lisinopril (RemedyRepack) | Tablet | Not recorded; cancelled |
+| NDA019777 | Zestril (Upsher-Smith) | Tablet | Not recorded; valid |
+| ANDA076180 | Lisinopril (Proficient Rx) | Tablet | Not recorded; valid |
+| ANDA075903 | Lisinopril (XLCare) | Tablet | Not recorded; valid |
+| ANDA076164 | Lisinopril (A-S Medication Solutions) | Tablet | Not recorded; valid |
+| ANDA077321 | Lisinopril (RemedyRepack) | Tablet | Not recorded; valid |
 
 Two further ANDAs (ANDA076102, Bryant Ranch Prepack; ANDA203508, Exelan) are also cancelled. All seven licenses are oral tablets.
 
@@ -105,7 +104,7 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-Lisinopril is already used for myocardial infarction, and posterolateral MI is a subtype of it. The high score therefore reflects ontology proximity rather than new evidence, and no subtype-specific trials or literature were found. The evidence level is L4, and all seven US licenses are cancelled. Of the other predicted indications, only chronic pulmonary heart disease has any lisinopril-specific clinical publications (older, small, and unconfirmed in design).
+Lisinopril is already used for myocardial infarction, and posterolateral MI is a subtype of it. The high score therefore reflects ontology proximity rather than new evidence, and no subtype-specific trials or literature were found. Of the other predicted indications, only chronic pulmonary heart disease has any lisinopril-specific clinical publications (older, small, and unconfirmed in design).
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications, which are currently missing and block safety screening

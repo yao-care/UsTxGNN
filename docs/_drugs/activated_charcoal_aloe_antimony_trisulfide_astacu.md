@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Activated Charcoal Aloe Antimony Trisulfide Astacu
@@ -51,7 +52,7 @@ No supporting clinical trials or literature evidence were identified.
 | Predicted New Indication | None — TxGNN returned no predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | Unscored (prerequisite: no predictions generated) |
-| Market Status | Not marketed |
+| Market Status | Marketed (valid licenses on record: at least 14) |
 | Number of Licenses | 0 |
 | Recommended Decision | Hold |
 

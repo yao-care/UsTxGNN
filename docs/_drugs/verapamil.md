@@ -4,17 +4,17 @@ title: Verapamil
 parent: Model Prediction Only (L5)
 nav_order: 1287
 evidence_level: L5
-indication_count: 7
+indication_count: 6
 last_modified_at: 2026-10-14
-description: "Verapamil: predicted new indication Obsolete bundle branch block (evidence level L5). Approved use: Hypertension, atrial fibrillation, acute coronary syndrome…"
 monitor_inn: "VERAPAMIL"
 predicted_indications: ["obsolete bundle branch block", "malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "periodic paralysis with transient compartment-like syndrome"]
+description: "Verapamil: predicted new indication Obsolete bundle branch block (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Verapamil
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **7** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-## Verapamil: From Hypertension and Arrhythmia to Obsolete Bundle Branch Block
+## Verapamil: Obsolete bundle branch block
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ This is a model-only prediction, and the plausible direction of effect is unfavo
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension, atrial fibrillation, acute coronary syndrome, Prinzmetal angina, ventricular tachycardia (from the knowledge graph; no approved-indication text is available in the US licence records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Obsolete bundle branch block |
-| TxGNN Prediction Score | 99.62% |
+| TxGNN Prediction Score | 0.9962 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licences) |
+| US Market Status | Marketed (valid licenses on record: at least 12) |
 | Number of NDAs | 12 (2 NDAs and 10 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
@@ -58,18 +58,17 @@ This is a model-only prediction, and the plausible direction of effect is unfavo
 
 Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, verapamil blocks L-type calcium channels, which slows conduction through the atrioventricular (AV) node and relaxes vascular smooth muscle. This explains its established use in hypertension, angina and supraventricular and ventricular arrhythmias.
 
-The predicted indication, bundle branch block, is a conduction defect in the His-Purkinje system. Because verapamil slows cardiac conduction, it could be harmful rather than helpful in this setting. The disease term is also flagged as obsolete. The very high score (0.996) therefore reflects a graph-based association, not a biologically supported therapeutic link. The knowledge graph itself lists atrioventricular block and heart failure among the contraindicated conditions for verapamil.
+The predicted indication, obsolete bundle branch block, is a conduction defect in the His-Purkinje system. Because verapamil slows cardiac conduction, it could be harmful rather than helpful in this setting. The disease term is also flagged as obsolete. The very high score (0.9962) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The knowledge graph itself lists atrioventricular block and heart failure among the contraindicated conditions for verapamil.
 
 ### Other Predictions Reviewed
 
 | Rank | Predicted Indication | Score | Evidence Level | Assessment |
 |------|------|------|------|------|
-| 2 | Malignant hypertensive renal disease | 99.27% | L5 | Biologically plausible through vasodilation, but no trials or literature; typically managed with IV agents under specialist care |
-| 3 | Malignant renovascular hypertension | 99.27% | L5 | Plausible mechanism; the two retrieved papers do not evaluate verapamil as treatment |
-| 4 | Pulmonary hypertension, unclear multifactorial mechanism | 99.26% | L5 | Verapamil is generally avoided in pulmonary hypertension because of its negative inotropic effects |
-| 5 | Pulmonary hypertension owing to lung disease and/or hypoxia | 99.26% | L4 | Indirect preclinical support only; calcium channel blockers are not recommended in this group |
-| 6 | Braddock syndrome | 99.15% | L5 | No mechanistic rationale identified |
-| 7 | Periodic paralysis with transient compartment-like syndrome | 99.08% | L5 | Calcium channel biology is conceptually relevant, but the prediction is unsupported |
+| 2 | Malignant hypertensive renal disease | 0.9927 | L5 | Biologically plausible through vasodilation, but no trials or literature; typically managed with IV agents under specialist care |
+| 4 | Pulmonary hypertension, unclear multifactorial mechanism | 0.9926 | L5 | Verapamil is generally avoided in pulmonary hypertension because of its negative inotropic effects |
+| 5 | Pulmonary hypertension owing to lung disease and/or hypoxia | 0.9926 | L5 | Indirect preclinical support only; calcium channel blockers are not recommended in this group |
+| 6 | Braddock syndrome | 0.9915 | L5 | No mechanistic rationale identified |
+| 7 | Periodic paralysis with transient compartment-like syndrome | 0.9908 | L5 | Calcium channel biology is conceptually relevant, but the prediction is unsupported |
 
 ## Clinical Trial Evidence
 
@@ -81,7 +80,7 @@ Currently no related literature available for the top-ranked indication.
 
 For the other predictions, only two indications returned publications, and none provides therapeutic evidence in humans:
 
-- **Malignant renovascular hypertension (rank 3):** [22147655](https://pubmed.ncbi.nlm.nih.gov/22147655/) (2012, Review) covers factors affecting the aldosterone/renin ratio, which is a diagnostic topic. [10224210](https://pubmed.ncbi.nlm.nih.gov/10224210/) (1999, Case report) describes renal myofibromatosis as a cause of infantile hypertension. Neither studies verapamil treatment.
+- **Malignant renovascular hypertension:** [22147655](https://pubmed.ncbi.nlm.nih.gov/22147655/) (2012, Review) covers factors affecting the aldosterone/renin ratio, which is a diagnostic topic. [10224210](https://pubmed.ncbi.nlm.nih.gov/10224210/) (1999, Case report) describes renal myofibromatosis as a cause of infantile hypertension. Neither studies verapamil treatment.
 - **Pulmonary hypertension owing to lung disease and/or hypoxia (rank 5):** 20 papers were retrieved, and most are off-topic. The most relevant are preclinical:
 
 | PMID | Year | Type | Journal | Key Findings |
@@ -94,7 +93,7 @@ For the other predictions, only two indications returned publications, and none 
 
 ## US Market Information
 
-All 12 US licences are cancelled; none is currently valid. Approved-indication text is not available in the licence records. Five representative entries:
+The drug is marketed in the US, with 12 valid licences. Approved-indication text is not available in the licence records. Five representative entries:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -125,7 +124,7 @@ Please refer to the package insert for the official warnings and contraindicatio
 - Mechanism-of-action data from DrugBank
 - A review of whether the disease term is valid, since it is flagged as obsolete
 - If an alternative is pursued, the more plausible candidates are the hypertension-related predictions (malignant hypertensive renal disease, malignant renovascular hypertension), which would need dedicated literature and clinical evidence
-- Confirmation of the current US marketing status, since all licences are cancelled
+- Confirmation of the current US marketing status, since the drug is marketed with 12 valid licences
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -4,17 +4,17 @@ title: Docetaxel
 parent: High Evidence (L1-L2)
 nav_order: 617
 evidence_level: L1
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-14
-description: "Docetaxel: predicted new indication Female breast carcinoma (evidence level L1). Approved use: Non-small cell lung cancer, prostate cancer, head and neck cancer…"
 monitor_inn: "DOCETAXEL"
-predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "pulmonary blastoma", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma"]
+predicted_indications: ["Ewing sarcoma", "primary pulmonary lymphoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "pulmonary blastoma", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma"]
+description: "Docetaxel: predicted new indication Ewing sarcoma (evidence level L1). Approved use: Not recorded in the local data"
 ---
 
 # Docetaxel
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L1** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,23 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-## Docetaxel: From Lung, Prostate, Gastric, Head and Neck, and Breast Cancer to Female Breast Carcinoma
+## Docetaxel: Ewing sarcoma
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Docetaxel is a taxane chemotherapy originally used for non-small cell lung, prostate, gastric, head and neck, and breast cancers.
-The TxGNN model predicts it may be effective for **Female Breast Carcinoma**, with **50 clinical trials** and **20 publications** compiled for this prediction.
 Breast carcinoma is already among docetaxel's original indications, so this is an on-label use rather than true repurposing.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Non-small cell lung cancer, prostate cancer, head and neck cancer, gastric cancer, breast carcinoma (the US license records contain no indication text, so these come from the knowledge-graph indication list) |
-| Predicted New Indication | Female breast carcinoma |
-| TxGNN Prediction Score | 99.90% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Ewing sarcoma |
+| TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L1 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 15) |
 | Number of NDAs | 15 (all cancelled) |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -96,7 +95,7 @@ Most Phase 3 trials test docetaxel as part of combination regimens, so docetaxel
 
 ## US Market Information
 
-All 15 US licenses for docetaxel are recorded as cancelled, and none is currently valid. The records contain no approved-indication text. Five representative entries:
+The records contain no approved-indication text. Five representative entries:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

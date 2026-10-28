@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Amiodarone
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 328
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 monitor_inn: "AMIODARONE"
 predicted_indications: ["catecholaminergic polymorphic ventricular tachycardia", "incessant infant ventricular tachycardia", "ventricular tachycardia", "obsolete bundle branch block", "rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "heparin cofactor 2 deficiency", "trichotillomania", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "gout"]
@@ -14,7 +14,7 @@ description: "Amiodarone: predicted new indication Catecholaminergic polymorphic
 # Amiodarone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,9 +50,9 @@ Among the ten predictions, the best-supported is **ventricular tachycardia** (a 
 |------|------|
 | Original Indication | Ventricular fibrillation (the US license records contain no indication text) |
 | Predicted New Indication | Catecholaminergic polymorphic ventricular tachycardia (rank 1); the best-supported alternative is ventricular tachycardia (rank 3) |
-| TxGNN Prediction Score | 99.78% (CPVT); 99.64% (ventricular tachycardia) |
+| TxGNN Prediction Score | 0.9978 (CPVT); 0.9964 (ventricular tachycardia) |
 | Evidence Level | L4 (CPVT); L1 (ventricular tachycardia) |
-| US Market Status | Cancelled only (all licenses cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 12) |
 | Number of NDAs | 12 (1 NDA and 11 ANDAs) |
 | Recommended Decision | Hold (CPVT); Proceed with Guardrails (ventricular tachycardia) |
 
@@ -68,7 +68,7 @@ For **ventricular tachycardia**, the link is much stronger. Prolonging the actio
 
 The remaining predictions are not supported:
 - **Incessant infant ventricular tachycardia:** There is a randomized trial and an infant study, but they mainly cover supraventricular tachyarrhythmias, so applicability is limited.
-- **Rheumatoid arthritis, gout and the other lower-ranked predictions:** These have no plausible therapeutic mechanism. The literature for rheumatoid arthritis and gout concerns adverse effects and drug interactions, so the high scores likely reflect co-occurrence in the knowledge graph.
+- **Rheumatoid arthritis, gout and the other lower-ranked predictions:** These have no plausible therapeutic mechanism. The literature for rheumatoid arthritis and gout concerns adverse effects and drug interactions, so the high scores likely reflect similarities the TxGNN model (deep learning) learned between related diseases, not biological evidence.
 
 ---
 
@@ -112,15 +112,15 @@ Literature for **ventricular tachycardia** (rank 3), listed as RCT first, then r
 
 ## US Market Information
 
-All 12 US authorizations are cancelled; no valid license remains. The records contain no approved-indication text. Five representative authorizations:
+The drug is marketed in the US, with 12 valid licenses. The records contain no approved-indication text. Five representative authorizations:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA022325 | Nexterone (Baxter Healthcare) | Injection, solution | Not recorded (cancelled) |
-| ANDA204550 | Amiodarone Hydrochloride (AuroMedics) | Injection, solution | Not recorded (cancelled) |
-| ANDA218253 | Amiodarone Hydrochloride (Zhejiang Poly Pharm.) | Injection, solution | Not recorded (cancelled) |
-| ANDA079029 | Amiodarone Hydrochloride (Zydus) | Tablet | Not recorded (cancelled) |
-| ANDA075389 | Amiodarone Hydrochloride (Dr. Reddy's) | Tablet | Not recorded (cancelled) |
+| NDA022325 | Nexterone (Baxter Healthcare) | Injection, solution | Not recorded (valid) |
+| ANDA204550 | Amiodarone Hydrochloride (AuroMedics) | Injection, solution | Not recorded (valid) |
+| ANDA218253 | Amiodarone Hydrochloride (Zhejiang Poly Pharm.) | Injection, solution | Not recorded (valid) |
+| ANDA079029 | Amiodarone Hydrochloride (Zydus) | Tablet | Not recorded (valid) |
+| ANDA075389 | Amiodarone Hydrochloride (Dr. Reddy's) | Tablet | Not recorded (valid) |
 
 Available forms are oral tablets and injectable solutions.
 
@@ -130,7 +130,7 @@ Available forms are oral tablets and injectable solutions.
 
 Package-insert warnings and contraindications are not available in the data compiled for this report. Please refer to the package insert for these.
 
-- **Contraindication-related conditions (knowledge-graph associations, not label text):** long QT syndrome (including familial), torsades de pointes, atrioventricular block, sick sinus syndrome, hypothyroidism and hyperthyroidism (including Graves disease and thyrotoxicosis), liver disease and drug-induced liver injury, interstitial lung disease, eosinophilic pneumonia, hypersensitivity pneumonitis, optic neuritis and optic nerve disease, peripheral neuropathy, potassium deficiency, gallbladder disease and corneal deposits.
+- **Contraindication-related conditions (not label text):** long QT syndrome (including familial), torsades de pointes, atrioventricular block, sick sinus syndrome, hypothyroidism and hyperthyroidism (including Graves disease and thyrotoxicosis), liver disease and drug-induced liver injury, interstitial lung disease, eosinophilic pneumonia, hypersensitivity pneumonitis, optic neuritis and optic nerve disease, peripheral neuropathy, potassium deficiency, gallbladder disease and corneal deposits.
 - **Drug interactions:** 100 interactions were identified. Major-level examples from the first 20 listed include amphotericin B (and its lipid formulations), cisapride, clarithromycin, clotrimazole, dexamethasone, hydrocortisone, dolasetron, eliglustat and agalsidase beta. Moderate-level examples include famotidine, cimetidine, aprepitant, bisacodyl and budesonide.
 - **Literature signals:** Thyroid dysfunction, pulmonary toxicity (including fibrosis and diffuse alveolar hemorrhage), and rhabdomyolysis when combined with statins and azoles are reported in the retrieved publications. Pediatric use also raises concerns about thyroid effects, hypotension and proarrhythmia.
 
@@ -148,7 +148,7 @@ Package-insert warnings and contraindications are not available in the data comp
 **To proceed, the following is needed:**
 - Package-insert warnings and contraindications from the FDA label, which block formal safety screening
 - Detailed mechanism of action data
-- Verification of the US regulatory status, since every license is cancelled
+- Verification of the US regulatory status, since the drug is marketed with 12 valid licenses
 - A monitoring plan covering thyroid, pulmonary, hepatic and ocular toxicity, QT prolongation and drug interactions
 - For CPVT, a mechanistic justification and controlled data versus beta-blockers and flecainide before reconsidering
 ## Disclaimer

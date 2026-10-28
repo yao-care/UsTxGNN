@@ -4,17 +4,17 @@ title: Trimethoprim
 parent: Model Prediction Only (L5)
 nav_order: 1264
 evidence_level: L5
-indication_count: 2
+indication_count: 1
 last_modified_at: 2026-10-14
-description: "Trimethoprim: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). Approved use: Urinary tract infection, infectious otitis media, pneumocystosis…"
 monitor_inn: "TRIMETHOPRIM"
 predicted_indications: ["punctate epithelial keratoconjunctivitis"]
+description: "Trimethoprim: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Trimethoprim
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **2** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-## Trimethoprim: From Urinary Tract Infection to Punctate Epithelial Keratoconjunctivitis
+## Trimethoprim: Punctate epithelial keratoconjunctivitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,21 +45,20 @@ The TxGNN model predicts it may be effective for **Punctate Epithelial Keratocon
 
 | Item | Content |
 |------|------|
-| Original Indication | Urinary tract infection, infectious otitis media, pneumocystosis, shigellosis, conjunctivitis, blepharoconjunctivitis (from the knowledge graph; no approved-indication text is available from US licences) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Punctate epithelial keratoconjunctivitis |
-| TxGNN Prediction Score | 99.57% |
+| TxGNN Prediction Score | 0.9957 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licences) |
-| Number of NDAs | 7 (all cancelled; 1 NDA and 6 ANDAs) |
+| US Market Status | Marketed (valid licenses: 7 of 7) |
+| Number of NDAs | 7 (valid: 7) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, trimethoprim inhibits bacterial dihydrofolate reductase, and it is used in ophthalmic solutions, usually combined with polymyxin B, for bacterial conjunctivitis and blepharoconjunctivitis.
 
-The link to punctate epithelial keratoconjunctivitis is weak. This condition is frequently viral (for example adenoviral) or immune-mediated, so an antibacterial would not be expected to address the primary cause. The high score likely reflects the closeness of this disease to the already-listed conjunctivitis indications in the knowledge graph, rather than an independent therapeutic signal. Bacterial superinfection prophylaxis is a theoretical role only and is not supported by any evidence provided.
+The link to punctate epithelial keratoconjunctivitis is weak. This condition is frequently viral (for example adenoviral) or immune-mediated, so an antibacterial would not be expected to address the primary cause. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between this disease and the already-listed conjunctivitis indications, not biological evidence. Bacterial superinfection prophylaxis is a theoretical role only and is not supported by any evidence provided.
 
-For context, a second prediction, **conjunctivitis**, scored 99.17%. It is already among trimethoprim's original indications, so it is not a true repurposing candidate. Its supporting literature is summarised below only as background for the existing use.
 
 ## Clinical Trial Evidence
 
@@ -83,15 +82,15 @@ Background literature for the existing conjunctivitis use (not evidence for the 
 
 ## US Market Information
 
-All licences are cancelled; no valid licence is currently listed. Approved-indication text was not available.
+The drug is marketed in the US, with 7 of 7 licences valid. Approved-indication text was not available.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| NDA018679 | Trimethoprim (Dr. Reddy's) | Tablet | Cancelled |
-| ANDA091437 | Trimethoprim (Lupin) | Tablet | Cancelled |
-| ANDA216393 | Trimethoprim (Novitium) | Tablet | Cancelled |
-| ANDA064120 | Polymyxin B Sulfate and Trimethoprim (Proficient Rx) | Solution/drops | Cancelled |
-| ANDA064211 | Polymyxin B Sulfate and Trimethoprim (NuCare) | Solution | Cancelled |
+| NDA018679 | Trimethoprim (Dr. Reddy's) | Tablet | Valid |
+| ANDA091437 | Trimethoprim (Lupin) | Tablet | Valid |
+| ANDA216393 | Trimethoprim (Novitium) | Tablet | Valid |
+| ANDA064120 | Polymyxin B Sulfate and Trimethoprim (Proficient Rx) | Solution/drops | Valid |
+| ANDA064211 | Polymyxin B Sulfate and Trimethoprim (NuCare) | Solution | Valid |
 
 Two further cancelled licences (ANDA211572 and ANDA065006) are polymyxin B/trimethoprim ophthalmic solutions.
 
@@ -112,7 +111,7 @@ These apply mainly to systemic use; their relevance to topical ophthalmic use is
 **Decision: Hold**
 
 **Rationale:**
-The 99.57% score is a computational prediction only, with no trials or literature for punctate epithelial keratoconjunctivitis. The condition is often viral or immune-mediated, so an antibacterial is mechanistically unlikely to address it. All US licences are also cancelled.
+The 0.9957 score is a computational prediction only, with no trials or literature for punctate epithelial keratoconjunctivitis. The condition is often viral or immune-mediated, so an antibacterial is mechanistically unlikely to address it. The drug is marketed in the US, with 7 of 7 licences valid.
 
 **To proceed, the following is needed:**
 - Evidence that bacterial infection plays a role in this condition, or any clinical or preclinical data in this setting

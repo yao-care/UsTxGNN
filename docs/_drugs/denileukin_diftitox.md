@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Denileukin Diftitox
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 581
-evidence_level: L2
+evidence_level: L5
 indication_count: 4
 monitor_inn: "DENILEUKIN DIFTITOX"
 predicted_indications: ["plasmacytoma", "neurolymphomatosis", "Richter syndrome", "metastatic neoplasm"]
@@ -14,7 +14,7 @@ description: "Denileukin Diftitox: predicted new indication Metastatic neoplasm 
 # Denileukin Diftitox
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **4** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,13 +47,13 @@ The TxGNN model predicts it may be effective for **metastatic neoplasm** (the hi
 |------|------|
 | Original Indication | Primary cutaneous T-cell lymphoma (primary cutaneous T-cell non-Hodgkin lymphoma) |
 | Predicted New Indication | Metastatic neoplasm (the top-ranked predictions, plasmacytoma, neurolymphomatosis and Richter syndrome, have no supporting trials or literature) |
-| TxGNN Prediction Score | 99.01% (metastatic neoplasm) |
-| Evidence Level | L2 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 (BLA761312) |
+| TxGNN Prediction Score | 0.9901 (metastatic neoplasm) |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
-**Note on predictions:** The three highest-scoring predictions (plasmacytoma 99.87%, neurolymphomatosis 99.86%, Richter syndrome 99.16%) are model predictions only (L5) with no registered trials or publications. Metastatic neoplasm is the first prediction with actual study evidence and is the focus of this report.
+**Note on predictions:** The three highest-scoring predictions (plasmacytoma 0.9987, neurolymphomatosis 0.9986, Richter syndrome 0.9916) are model predictions only (L5) with no registered trials or publications. Metastatic neoplasm is the first prediction with actual study evidence and is the focus of this report.
 
 ## Why is This Prediction Reasonable?
 
@@ -92,7 +92,7 @@ The results are inconsistent, however. One study found that the fusion protein f
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA761312 | LYMPHIR (Citius Pharmaceuticals, Inc.) | Lyophilized powder for injection | Not listed in the data compiled; status: cancelled |
+| BLA761312 | LYMPHIR (Citius Pharmaceuticals, Inc.) | Lyophilized powder for injection | Not listed in the data compiled; status: valid |
 
 ## Cytotoxicity
 

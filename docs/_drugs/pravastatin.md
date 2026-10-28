@@ -4,17 +4,17 @@ title: Pravastatin
 parent: Moderate Evidence (L3-L4)
 nav_order: 1076
 evidence_level: L4
-indication_count: 9
+indication_count: 6
 last_modified_at: 2026-10-14
-description: "Pravastatin: predicted new indication Homozygous familial hypercholesterolemia (evidence level L4). Approved use: Hyperlipidemia, atherosclerosis, stroke and cerebrovascular disorders"
 monitor_inn: "PRAVASTATIN"
 predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "hypoalphalipoproteinemia", "cholesterol-ester transfer protein deficiency"]
+description: "Pravastatin: predicted new indication HIV infectious disease (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Pravastatin
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **9** 
+Evidence Level: **L4** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,23 @@ Evidence Level: **L4** | Predicted Indications: **9**
 
 </div>
 
-## Pravastatin: From Hyperlipidemia and Atherosclerosis to Homozygous Familial Hypercholesterolemia
+## Pravastatin: HIV infectious disease
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Pravastatin is a statin (HMG-CoA reductase inhibitor) originally used for hyperlipidemia, atherosclerosis and stroke-related conditions.
-The TxGNN model predicts it may be effective for **Homozygous Familial Hypercholesterolemia**,
 but the supporting evidence is indirect: **1 clinical trial** (which tests a different drug) and **12 publications** (mostly reviews of other lipid-lowering agents).
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hyperlipidemia, atherosclerosis, stroke and cerebrovascular disorders (the FDA licence records have no indication text, so this comes from the knowledge-graph indication list) |
-| Predicted New Indication | Homozygous familial hypercholesterolemia |
-| TxGNN Prediction Score | 99.95% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | HIV infectious disease |
+| TxGNN Prediction Score | 0.9974 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (all 5 listed ANDAs are cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of NDAs | 5 (all ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
@@ -58,7 +57,7 @@ but the supporting evidence is indirect: **1 clinical trial** (which tests a dif
 
 Detailed mechanism-of-action data is not available in the data compiled for this report. Pravastatin is a well-known HMG-CoA reductase inhibitor. It lowers LDL cholesterol by reducing hepatic cholesterol synthesis and upregulating LDL receptors, and it has an established role in hyperlipidemia and atherosclerosis.
 
-Familial hypercholesterolemia is a closely related lipid disorder, so the TxGNN prediction is biologically plausible. There is an important caveat, however. Homozygous FH is characterized by severe LDL receptor deficiency, and statin efficacy depends on residual receptor activity. One review in the data states that statins are not very effective in homozygous FH. The expected benefit is therefore likely limited compared with heterozygous FH.
+There is an important caveat, however. Homozygous FH is characterized by severe LDL receptor deficiency, and statin efficacy depends on residual receptor activity. One review in the data states that statins are not very effective in homozygous FH. The expected benefit is therefore likely limited compared with heterozygous FH.
 
 ## Clinical Trial Evidence
 
@@ -85,11 +84,11 @@ Familial hypercholesterolemia is a closely related lipid disorder, so the TxGNN 
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA077793 | Pravastatin sodium (Aurobindo Pharma) | Tablet | Not recorded (cancelled) |
-| ANDA077987 | Pravastatin Sodium (A-S Medication Solutions) | Tablet | Not recorded (cancelled) |
-| ANDA209869 | Pravastatin sodium (Golden State Medical Supply) | Tablet | Not recorded (cancelled) |
-| ANDA076341 | Pravastatin sodium (RemedyRepack) | Tablet | Not recorded (cancelled) |
-| ANDA076714 | Pravastatin sodium (Dr. Reddy's Laboratories) | Tablet | Not recorded (cancelled) |
+| ANDA077793 | Pravastatin sodium (Aurobindo Pharma) | Tablet | Not recorded (valid) |
+| ANDA077987 | Pravastatin Sodium (A-S Medication Solutions) | Tablet | Not recorded (valid) |
+| ANDA209869 | Pravastatin sodium (Golden State Medical Supply) | Tablet | Not recorded (valid) |
+| ANDA076341 | Pravastatin sodium (RemedyRepack) | Tablet | Not recorded (valid) |
+| ANDA076714 | Pravastatin sodium (Dr. Reddy's Laboratories) | Tablet | Not recorded (valid) |
 
 ## Safety Considerations
 
@@ -103,7 +102,7 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high, but the only linked trial tests a different drug (alirocumab), and the literature does not directly evaluate pravastatin in homozygous FH. Statins are also expected to have limited efficacy in this disease because of LDL receptor deficiency. All US licences are cancelled, and the label safety data is missing.
+The prediction score is high, but the only linked trial tests a different drug (alirocumab), and the literature does not directly evaluate pravastatin in homozygous FH. Statins are also expected to have limited efficacy in this disease because of LDL receptor deficiency.
 
 **To proceed, the following is needed:**
 - Pravastatin-specific efficacy data in homozygous FH patients (for example, LDL-C response in receptor-negative vs receptor-defective patients)
@@ -111,7 +110,7 @@ The prediction score is high, but the only linked trial tests a different drug (
 - Package insert warnings and contraindications from the FDA label
 - Mechanism of action data and clarification of the market and licensing situation
 
-**Other predictions of note:** Two other predictions have more substantial evidence. **Familial hypercholesterolemia** (heterozygous; L2, with pediatric pravastatin pharmacokinetic and randomized studies) and **HIV-associated dyslipidemia** (L2, with a Phase 3 fenofibrate-vs-pravastatin trial and several Phase 4 trials) are better candidates for follow-up. Both are about positioning within an established drug class rather than true repurposing.
+**Other predictions of note:** Two other predictions have more substantial evidence. Both are about positioning within an established drug class rather than true repurposing.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

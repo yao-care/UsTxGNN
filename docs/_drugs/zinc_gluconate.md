@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "ZINC GLUCONATE"
 predicted_indications: ["anemia of prematurity", "injury", "cell proliferation disorder", "perinatal disease", "florid cemento-osseous dysplasia", "segmental odontomaxillary dysplasia", "radiation or chemically induced disorder", "disease by subcellular system affected", "iatrogenic disease", "regional odontodysplasia"]
 last_modified_at: 2026-10-14
-description: "Zinc Gluconate: predicted new indication Anemia of prematurity (evidence level L5). Approved use: Ascorbic acid deficiency / scurvy"
+description: "Zinc Gluconate: predicted new indication Anemia of prematurity (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Zinc Gluconate
@@ -33,23 +33,23 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Zinc Gluconate: From Ascorbic Acid Deficiency (Scurvy) to Anemia of Prematurity
+## Zinc Gluconate: Anemia of prematurity
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Zinc gluconate is a zinc salt. In the knowledge graph used for this analysis, its original indications are ascorbic acid deficiency and scurvy.
+Zinc gluconate is a zinc salt. Its original indications are ascorbic acid deficiency and scurvy.
 The TxGNN model predicts it may be useful for **anemia of prematurity**, but **no clinical trials and no publications** were retrieved for this indication, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Ascorbic acid deficiency / scurvy (from the knowledge graph; no approved indication text appears in the US license record) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Anemia of prematurity |
-| TxGNN Prediction Score | 99.94% |
+| TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
+| US Market Status | Marketed (valid licenses on record: at least 1) |
 | Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
@@ -57,7 +57,7 @@ The TxGNN model predicts it may be useful for **anemia of prematurity**, but **n
 
 Detailed mechanism of action data is not available for this drug. Zinc is an essential trace element involved in many enzyme systems. It also takes part in erythropoiesis and in iron and copper metabolism. That makes a link to anemia in preterm infants plausible in principle.
 
-The link to the original indication is weak. Scurvy is a vitamin C deficiency, and the knowledge graph connects it to zinc gluconate mainly as a nutritional-deficiency association. The prediction therefore reflects graph-based similarity, not demonstrated clinical benefit in preterm anemia.
+The link to the original indication is weak. Scurvy is a vitamin C deficiency. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence or demonstrated clinical benefit in preterm anemia.
 
 Zinc also has a known double-edged effect on blood. Excess zinc intake can cause copper deficiency and anemia (a case report of anemia from chronic high-dose zinc gluconate appears in the retrieved literature). Any use in infants would need very careful dosing.
 
@@ -99,7 +99,7 @@ Package insert warnings and contraindications were not available. Please refer t
 **Decision: Hold**
 
 **Rationale:**
-The 99.94% TxGNN score is a graph-based prediction with no supporting trials or publications (L5). The drug has no active US license, and the knowledge graph lists blood-related contraindication signals (sickle cell anemia, iron metabolism disease, blood coagulation disease), which need clarification before any use in preterm infants.
+The 0.9994 TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It has no supporting trials or publications (L5). The drug is marketed in the US with 1 valid license, and the knowledge graph lists blood-related contraindication signals (sickle cell anemia, iron metabolism disease, blood coagulation disease), which need clarification before any use in preterm infants.
 
 **To proceed, the following is needed:**
 - A literature and trial search specific to zinc and anemia of prematurity, including neonatal zinc, copper and iron status

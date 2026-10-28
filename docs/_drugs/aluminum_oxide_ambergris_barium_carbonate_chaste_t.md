@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Aluminum Oxide Ambergris Barium Carbonate Chaste T
@@ -53,7 +54,7 @@ Without a candidate disease target or an established original indication, a stan
 | Predicted New Indication | No TxGNN predictions generated |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | Unable to assess — no prediction generated |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 11) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

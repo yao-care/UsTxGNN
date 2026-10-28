@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Mechlorethamine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 892
-evidence_level: L3
+evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-14
-description: "Mechlorethamine: predicted new indication Lymph node cancer (evidence level L3). Approved use: Mycosis fungoides / primary cutaneous T-cell lymphoma…"
 monitor_inn: "MECHLORETHAMINE"
 predicted_indications: ["lymph node cancer", "relapsing-remitting multiple sclerosis", "follicular lymphoma"]
+description: "Mechlorethamine: predicted new indication Lymph node cancer (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Mechlorethamine
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L3** | Predicted Indications: **3**
 
 </div>
 
-## Mechlorethamine: From Cutaneous T-Cell Lymphoma and Hodgkin Lymphoma to Lymph Node Cancer
+## Mechlorethamine: Lymph node cancer
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ Currently **0 registered clinical trials** and **20 publications** (mostly older
 
 | Item | Content |
 |------|------|
-| Original Indication | Mycosis fungoides / primary cutaneous T-cell lymphoma, Hodgkin lymphoma, non-Hodgkin lymphoma (the US license record has no indication text; these indications come from the knowledge graph) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Lymph node cancer |
-| TxGNN Prediction Score | 99.43% |
-| Evidence Level | L3 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 1 |
+| TxGNN Prediction Score | 0.9943 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -61,8 +61,8 @@ Detailed mechanism of action data is not available in the data compiled for this
 "Lymph node cancer" overlaps heavily with the already listed indications (Hodgkin lymphoma, non-Hodgkin lymphoma, lymphoma, mantle cell lymphoma). This is therefore largely a restatement of the original indications, not a true repurposing. The mechanistic rationale is sound, but MOPP has largely been replaced by ABVD and newer regimens, which limits present-day clinical relevance.
 
 The two other predictions have weaker support:
-- **Relapsing-remitting multiple sclerosis** (score 99.13%): no trials or literature. Other alkylating agents have been used as immunosuppressants in MS, but systemic mechlorethamine is highly toxic (vesicant, myelosuppression, secondary malignancy, infertility). The evidence level is L5 and the decision is Hold.
-- **Follicular lymphoma** (score 99.03%): a B-cell lymphoma sensitive to alkylating agents, but the evidence for mechlorethamine itself is indirect (mostly other agents such as bendamustine). The evidence level is L4 and the decision is Hold.
+- **Relapsing-remitting multiple sclerosis** (score 0.9913): no trials or literature. Other alkylating agents have been used as immunosuppressants in MS, but systemic mechlorethamine is highly toxic (vesicant, myelosuppression, secondary malignancy, infertility). The evidence level is L5 and the decision is Hold.
+- **Follicular lymphoma** (score 0.9903): a B-cell lymphoma sensitive to alkylating agents, but the evidence for mechlorethamine itself is indirect (mostly other agents such as bendamustine). The evidence level is L4 and the decision is Hold.
 
 ## Clinical Trial Evidence
 

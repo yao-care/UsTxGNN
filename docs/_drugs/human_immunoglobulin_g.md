@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "HUMAN IMMUNOGLOBULIN G"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "drug-induced osteoporosis"]
-last_modified_at: 2026-10-14
-description: "Human Immunoglobulin G: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Not available in the compiled data"
+last_modified_at: 2026-10-28
+description: "Human Immunoglobulin G: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Human Immunoglobulin G
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-## Human Immunoglobulin G: From Immunoglobulin Replacement to Severe Nonproliferative Diabetic Retinopathy
+## Human Immunoglobulin G: Severe nonproliferative diabetic retinopathy
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,15 +46,15 @@ Currently there are **0 clinical trials** and **0 publications** supporting this
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in the compiled data |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Severe nonproliferative diabetic retinopathy |
-| TxGNN Prediction Score | 99.75% |
+| TxGNN Prediction Score | 0.9975 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 11) |
 | Number of NDAs | 11 (all cancelled; these are BLAs) |
 | Recommended Decision | Hold |
 
-Two other predictions were also generated: diabetic retinopathy (99.63%) and drug-induced osteoporosis (99.37%). Both are also L5 with a recommendation of Hold.
+Two other predictions were also generated: diabetic retinopathy (0.9963) and drug-induced osteoporosis (0.9937). Both are also L5 with a recommendation of Hold.
 
 ## Why is This Prediction Reasonable?
 
@@ -74,15 +74,15 @@ Currently no related literature available.
 
 ## US Market Information
 
-All 11 licenses are listed as cancelled, and no approved indication text was available.
+The drug is marketed in the US with 11 valid licenses, and no approved indication text was available.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| BLA125822 | QIVIGY | Injection, solution | Cancelled |
-| BLA125668 | Cutaquig | Solution | Cancelled |
-| BLA125350 | Hizentra | Liquid | Cancelled |
-| BLA125201 | Privigen | Liquid | Cancelled |
-| BLA125062 | Octagam Immune Globulin (Human) | Solution | Cancelled |
+| BLA125822 | QIVIGY | Injection, solution | Valid |
+| BLA125668 | Cutaquig | Solution | Valid |
+| BLA125350 | Hizentra | Liquid | Valid |
+| BLA125201 | Privigen | Liquid | Valid |
+| BLA125062 | Octagam Immune Globulin (Human) | Solution | Valid |
 
 Six further cancelled licenses are not shown: Gamunex-C, Alyglo, Flebogamma, Panzyga, GAMMAGARD Liquid, and Gammaplex.
 
@@ -97,7 +97,7 @@ Systemic immune globulin products carry general risks such as thrombosis and ren
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a knowledge-graph score, with no clinical trials, no literature, and no confirmed mechanism. All US licenses are cancelled, and the safety data are incomplete, so the review cannot proceed to safety screening.
+The prediction rests only on a TxGNN model (deep learning) score, with no clinical trials, no literature, and no confirmed mechanism. The drug is marketed in the US with 11 valid licenses, and the safety data are incomplete, so the review cannot proceed to safety screening.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap)

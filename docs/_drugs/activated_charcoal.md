@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Activated Charcoal
@@ -51,7 +52,7 @@ and **no regulatory authorizations** are on record, preventing a standard repurp
 | Predicted New Indication | No predictions available |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | N/A — no model predictions returned |
-| US Market Status | No authorizations on record |
+| US Market Status | Marketed (valid licenses on record: at least 2) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "AMMONIA N-13"
 predicted_indications: ["non-syndromic esophageal malformation", "esophageal disease"]
-last_modified_at: 2026-10-14
-description: "Ammonia N-13: predicted new indication Non-syndromic esophageal malformation (evidence level L5). Approved use: Not stated in the compiled data (the drug is generally known as a PET…"
+last_modified_at: 2026-10-27
+description: "Ammonia N-13: predicted new indication non-syndromic esophageal malformation (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Ammonia N-13
@@ -33,34 +33,32 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-## Ammonia N-13: From a PET Diagnostic Imaging Agent to Non-Syndromic Esophageal Malformation
+## Ammonia N-13: PET radiotracer → non-syndromic esophageal malformation
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Ammonia N-13 is a positron-emitting radiotracer used in PET imaging, and no approved indication text is available in the data compiled for this report.
-The TxGNN model predicts it may be relevant to **non-syndromic esophageal malformation**, but there are **0 clinical trials** and **0 publications** supporting this direction.
-The prediction is a model output only and is not supported by any real-world evidence.
+Ammonia N-13 is a positron-emitting radiotracer used as a diagnostic PET imaging agent.
+The TxGNN model predicts it may be relevant to **non-syndromic esophageal malformation**,
+but **0 clinical trials** and **0 publications** currently support this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the compiled data (the drug is generally known as a PET myocardial perfusion imaging agent) |
-| Predicted New Indication | Non-syndromic esophageal malformation |
-| TxGNN Prediction Score | 99.73% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | non-syndromic esophageal malformation |
+| TxGNN Prediction Score | 0.9973 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 20 (all cancelled; 1 NDA and 19 ANDAs) |
+| US Market Status | Marketed (valid licenses: 20 of 20) |
+| Number of NDAs | 20 (valid: 20) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, Ammonia N-13 is a short-lived radiotracer (half-life of about 10 minutes) used as a diagnostic perfusion imaging agent. It has no established therapeutic activity.
+Detailed mechanism of action data is not available for this drug. Ammonia N-13 is a short-lived radiotracer (half-life of roughly 10 minutes) used for PET perfusion imaging. It is a diagnostic agent and has no established therapeutic activity.
 
-No mechanistic link to the predicted indication is supported by the data. Congenital esophageal malformations are structural developmental conditions, and a diagnostic radiotracer is not biologically plausible as a treatment for them. The high TxGNN score (0.997) most likely reflects connectivity within the knowledge graph rather than true biological relevance.
-
-A second prediction, **esophageal disease** (score 99.65%), has the same limitations. It is a very broad category with no specific pathophysiology to link to the drug. Any use of the tracer for esophageal imaging would be a separate diagnostic research question, not treatment repurposing.
+Non-syndromic esophageal malformations are structural developmental conditions. A diagnostic radiotracer is not biologically plausible as a treatment for them, and no mechanistic link is supported by the data compiled for this report. The high score (0.9973) is a computational output only. It most likely reflects connectivity patterns in the model's training data rather than a real pharmacological relationship.
 
 ## Clinical Trial Evidence
 
@@ -72,32 +70,32 @@ Currently no related literature available.
 
 ## US Market Information
 
-All 20 authorizations are cancelled. The table lists five of them. The compiled data contains no approved indication text for any of them.
+The local records list 20 US licences for single-ingredient Ammonia N-13 injection products (injection and injection solution), all held by academic or radiopharmacy manufacturers. The records carry no approved-indication text. Market status is recorded as marketed, and all 20 licences are counted as valid.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA022119 | Ammonia N 13 (The Feinstein Institutes for Medical Research) | Injection | Not available |
-| ANDA211740 | Ammonia N 13 (University of Wisconsin System) | Injection | Not available |
-| ANDA203938 | Ammonia (Kreitchman PET Center) | Injection | Not available |
-| ANDA209507 | Ammonia (UT Southwestern Medical Center) | Injection, solution | Not available |
-| ANDA203543 | Ammonia (SOFIE Co.) | Injection | Not available |
+| ANDA211740 | Ammonia N 13 | Injection | Not recorded |
+| ANDA203938 | Ammonia | Injection | Not recorded |
+| ANDA209507 | Ammonia | Injection, solution | Not recorded |
+| ANDA203779 | Ammonia | Injection | Not recorded |
+| NDA022119 | Ammonia N 13 | Injection | Not recorded |
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No warnings, contraindications, or drug interaction data were available in the compiled data.
+Please refer to the package insert for safety information. No interaction records were found in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests solely on a model score. There are no clinical trials or publications, no mechanistic rationale, and no currently valid US marketing authorization. The drug is a diagnostic imaging agent with no known therapeutic activity.
+The prediction has no supporting clinical trials or publications and no plausible mechanism. Ammonia N-13 is a diagnostic tracer, so the evidence stays at L5 (model prediction only).
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (required for any safety screening)
-- Mechanism of action data
-- A credible biological rationale linking the tracer to esophageal conditions
-- Clarification of whether any esophageal use would be diagnostic imaging rather than therapeutic repurposing
+- Mechanism of action data and a biologically plausible rationale linking the drug to esophageal malformation
+- Any direct preclinical or clinical study of this disease
+- Package insert warnings and contraindications for safety screening
+- Clarification of whether the question is therapeutic repurposing or a diagnostic imaging use, which would be a separate research question
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

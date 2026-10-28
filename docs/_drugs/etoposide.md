@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Etoposide
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 685
-evidence_level: L1
+evidence_level: L5
 indication_count: 10
 monitor_inn: "ETOPOSIDE"
 predicted_indications: ["well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "Ewing sarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma"]
-last_modified_at: 2026-10-14
-description: "Etoposide: predicted new indication Ewing sarcoma (evidence level L1). Approved use: Small cell lung carcinoma, testicular cancer (germ cell tumour…"
+last_modified_at: 2026-10-28
+description: "Etoposide: predicted new indication Well-differentiated fetal adenocarcinoma of the lung (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Etoposide
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-## Etoposide: From Small Cell Lung Carcinoma to Ewing Sarcoma
+## Etoposide: Well-differentiated fetal adenocarcinoma of the lung
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,15 +46,15 @@ Several other predictions (e.g., rhabdomyosarcoma) are also supported, while man
 
 | Item | Content |
 |------|------|
-| Original Indication | Small cell lung carcinoma, testicular cancer (germ cell tumour, seminoma, and related types) |
-| Predicted New Indication | Ewing sarcoma (rank 4 in the prediction list; ranks 1–3 have no or only case-level evidence, so this is the best-supported prediction for a detailed review) |
-| TxGNN Prediction Score | 99.85% |
-| Evidence Level | L1 |
-| US Market Status | Cancelled only (no currently valid licences) |
-| Number of NDAs | 7 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Well-differentiated fetal adenocarcinoma of the lung |
+| TxGNN Prediction Score | 0.9994 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 7 of 7) |
+| Number of NDAs | 7 (valid: 7) |
 | Recommended Decision | Proceed with Guardrails |
 
-**Note on the prediction list:** The rank-1 prediction is well-differentiated fetal adenocarcinoma of the lung (99.94%), supported only by a single case report/review (L4, Hold). Ewing sarcoma is presented here because it has the strongest evidence of the ten predictions. Rhabdomyosarcoma (rank 6, 99.79%) is also L1 and is summarised below.
+**Note on the prediction list:** The rank-1 prediction is well-differentiated fetal adenocarcinoma of the lung (0.9994), supported only by a single case report/review (L4, Hold). Ewing sarcoma is presented here because it has the strongest evidence of the ten predictions. Rhabdomyosarcoma (rank 6, 0.9979) is also L1 and is summarised below.
 
 ## Why is This Prediction Reasonable?
 
@@ -100,19 +100,19 @@ A further Phase III trial (NCT00334867) was withdrawn with 0 participants, and N
 
 | Predicted Indication | TxGNN Score | Evidence Level | Decision | Support |
 |------|------|------|------|------|
-| Well-differentiated fetal adenocarcinoma of the lung | 99.94% | L4 | Hold | One case report/review |
-| Primary pulmonary lymphoma | 99.94% | L4 | Hold | No trials; literature mostly on other lymphoma subtypes or small cell lung cancer |
-| Pulmonary blastoma | 99.94% | L4 | Research question | Case reports and reviews only |
-| Rhabdomyosarcoma | 99.79% | L1 | Proceed with Guardrails | Phase III trials (NCT00003052, NCT00002898, NCT00876031) and an IRSG randomised study of ifosfamide/etoposide in metastatic disease (PMID 11846301) |
-| Botryoid-type embryonal rhabdomyosarcoma of the vagina | 99.80% | L4 | Hold | One case report/review of cervical disease |
-| Parameningeal embryonal rhabdomyosarcoma | 99.76% | L3 | Research question | Cohort and review, not etoposide-specific |
-| Prostate embryonal rhabdomyosarcoma | 99.74% | L4 | Hold | A single 1987 review |
-| Embryonal extrahepatic bile duct rhabdomyosarcoma | 99.76% | L5 | Hold | Prediction only |
-| Extrahepatic bile duct rhabdomyosarcoma | 99.75% | L5 | Hold | Prediction only |
+| Well-differentiated fetal adenocarcinoma of the lung | 0.9994 | L5 | Hold | One case report/review |
+| Primary pulmonary lymphoma | 0.9994 | L5 | Hold | No trials; literature mostly on other lymphoma subtypes or small cell lung cancer |
+| Pulmonary blastoma | 0.9994 | L5 | Research question | Case reports and reviews only |
+| Rhabdomyosarcoma | 0.9979 | L1 | Proceed with Guardrails | Phase III trials (NCT00003052, NCT00002898, NCT00876031) and an IRSG randomised study of ifosfamide/etoposide in metastatic disease (PMID 11846301) |
+| Botryoid-type embryonal rhabdomyosarcoma of the vagina | 0.9980 | L5 | Hold | One case report/review of cervical disease |
+| Parameningeal embryonal rhabdomyosarcoma | 0.9976 | L5 | Research question | Cohort and review, not etoposide-specific |
+| Prostate embryonal rhabdomyosarcoma | 0.9974 | L5 | Hold | A single 1987 review |
+| Embryonal extrahepatic bile duct rhabdomyosarcoma | 0.9976 | L5 | Hold | Prediction only |
+| Extrahepatic bile duct rhabdomyosarcoma | 0.9975 | L5 | Hold | Prediction only |
 
 ## US Market Information
 
-All seven US authorisations are recorded as cancelled; none is currently valid. Approved indication text was not available.
+Approved indication text was not available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -152,7 +152,6 @@ Package insert warnings and contraindications were not available in the data com
 **To proceed, the following is needed:**
 - Package insert warnings, contraindications and approved indication text (currently a blocking gap for safety screening)
 - Detailed mechanism of action data
-- A clear current US supply and regulatory route, since all seven US authorisations are recorded as cancelled
 - A monitoring plan for myelosuppression and secondary malignancy risk, with paediatric dosing considerations
 - For the Hold predictions, prospective or at least systematically collected data before any further consideration
 ## Disclaimer

@@ -39,7 +39,7 @@ Evidence Level: **L5** | Predicted Indications: **9**
 ## One-Sentence Summary
 
 Acarbose is an oral alpha-glucosidase inhibitor, originally used to treat type 2 diabetes mellitus.
-The TxGNN model predicts it may be effective for **classic stiff person syndrome**, but there are currently **0 clinical trials** and **0 publications** supporting this specific prediction. The score appears to reflect network proximity in the knowledge graph rather than a pharmacological rationale.
+The TxGNN model (deep learning) predicts it may be effective for **classic stiff person syndrome**, but there are currently **0 clinical trials** and **0 publications** supporting this specific prediction. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Quick Overview
 
@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **classic stiff person syndrome
 |------|------|
 | Original Indication | Type 2 diabetes mellitus |
 | Predicted New Indication | Classic stiff person syndrome |
-| TxGNN Prediction Score | 99.65% |
+| TxGNN Prediction Score | 0.9965 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 3 (all cancelled) |
+| US Market Status | Marketed (valid licenses: 3 of 3) |
+| Number of NDAs | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -59,7 +59,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 For stiff person syndrome, no clear mechanistic link exists. The condition is an autoimmune disorder of GABAergic neurotransmission, typically involving anti-GAD65 antibodies. The high score probably reflects network proximity through autoimmune diabetes and GAD autoimmunity, not a direct pharmacological rationale. Acarbose has no known action on the nervous system or on the autoimmune process.
 
-The second-ranked prediction, focal stiff limb syndrome (score 99.65%), is a focal variant of the same spectrum and likely shares the same graph-based artifact. Other lower-ranked predictions (thiamine-responsive dysfunction syndrome, opsismodysplasia, several localized lipodystrophies, and pancreatic agenesis) also have no clinical evidence, and their links to acarbose are at best indirect (a shared diabetes or metabolic phenotype).
+The second-ranked prediction, focal stiff limb syndrome (score 0.9965), is a focal variant of the same spectrum and likely reflects the same similarities the model learned between related diseases. Other lower-ranked predictions (thiamine-responsive dysfunction syndrome, opsismodysplasia, several localized lipodystrophies, and pancreatic agenesis) also have no clinical evidence, and their links to acarbose are at best indirect (a shared diabetes or metabolic phenotype).
 
 ## Clinical Trial Evidence
 
@@ -91,7 +91,7 @@ Please refer to the package insert for label warnings and contraindications, as 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on model output alone (evidence level L5), with no clinical trials or literature. There is no plausible pharmacological link between an intestinal alpha-glucosidase inhibitor and an autoimmune neurological disorder. All three US licenses are cancelled.
+The prediction rests on model output alone (evidence level L5), with no clinical trials or literature. There is no plausible pharmacological link between an intestinal alpha-glucosidase inhibitor and an autoimmune neurological disorder. The drug is marketed in the US, and all 3 licenses are valid.
 
 **To proceed, the following is needed:**
 - Mechanism of action data, and a plausible mechanistic hypothesis for stiff person syndrome

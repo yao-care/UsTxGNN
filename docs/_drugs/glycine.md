@@ -4,17 +4,17 @@ title: Glycine
 parent: Model Prediction Only (L5)
 nav_order: 757
 evidence_level: L5
-indication_count: 2
+indication_count: 1
 last_modified_at: 2026-10-14
-description: "Glycine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Allergic rhinitis, vasomotor rhinitis, rhinitis, pharyngitis…"
 monitor_inn: "GLYCINE"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis"]
+predicted_indications: ["nasal cavity disease"]
+description: "Glycine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Glycine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **2** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,33 +33,32 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-## Glycine: From Allergic Rhinitis and Upper Respiratory Conditions to Nasal Cavity Disease
+## Glycine: Nasal cavity disease
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Glycine is an amino acid that appears in US-listed products such as irrigation solutions and parenteral nutrition, and the knowledge graph links it to upper respiratory indications such as allergic rhinitis, rhinitis, pharyngitis and the common cold.
+Glycine is an amino acid that appears in US-listed products such as irrigation solutions and parenteral nutrition. The TxGNN model (deep learning) predicts nasal cavity disease with a score of 0.9985, which may reflect similarities the model learned between related diseases, not biological evidence.
 The TxGNN model predicts it may be effective for **nasal cavity disease**, but the evidence is very thin: **1 clinical trial** (unrelated to glycine) and **2 publications** (neither evaluating glycine) are on record, so this remains a model prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Allergic rhinitis, vasomotor rhinitis, rhinitis, pharyngitis, common cold, nasopharyngitis (from knowledge graph indication edges; no approved indication text in the US license data) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Nasal cavity disease |
-| TxGNN Prediction Score | 99.85% |
+| TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid license) |
+| US Market Status | Marketed (valid licenses on record: at least 7) |
 | Number of NDAs | 7 licenses (all cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, glycine is a simple amino acid used in irrigation solutions and parenteral nutrition products. The knowledge graph lists several upper respiratory indications for it, so no mechanistic rationale can be established from the data compiled for this report.
+Currently, detailed mechanism of action data is not available. Based on known information, glycine is a simple amino acid used in irrigation solutions and parenteral nutrition products. The score from the TxGNN model (deep learning) may reflect similarities the model learned between related diseases, not biological evidence, so no mechanistic rationale can be established from the data compiled for this report.
 
-The most likely reason for the high prediction score is anatomical and disease-network proximity. Allergic rhinitis, vasomotor rhinitis, rhinitis and nasopharyngitis all involve the nasal passages, which overlap with "nasal cavity disease". This is a graph-based association only, not clinical or mechanistic evidence.
+The most likely reason for the high prediction score is that the score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Allergic rhinitis, vasomotor rhinitis, rhinitis and nasopharyngitis all involve the nasal passages, which overlap with "nasal cavity disease". This is not clinical or mechanistic evidence.
 
-A second prediction, **acute laryngopharyngitis** (score 99.84%), likely arises from proximity to glycine's listed pharyngitis, common cold and nasopharyngitis indications. It has no clinical trials and no literature, and remains at the same L5 evidence level with a Hold recommendation.
 
 ## Clinical Trial Evidence
 
@@ -78,13 +77,13 @@ A second prediction, **acute laryngopharyngitis** (score 99.84%), likely arises 
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA018315 | Glycine (ICU Medical Inc.) | Irrigant | Not available (cancelled) |
-| NDA017865 | Glycine (Baxter Healthcare Corporation) | Solution | Not available (cancelled) |
-| NDA016784 | Glycine (B. Braun Medical Inc.) | Irrigant | Not available (cancelled) |
-| NDA018931 | Travasol (Baxter Healthcare Corporation) | Injection | Not available (cancelled) |
-| NDA020734 | CLINIMIX (Baxter Healthcare Corporation) | Injection | Not available (cancelled) |
+| NDA018315 | Glycine (ICU Medical Inc.) | Irrigant | Not available (valid) |
+| NDA017865 | Glycine (Baxter Healthcare Corporation) | Solution | Not available (valid) |
+| NDA016784 | Glycine (B. Braun Medical Inc.) | Irrigant | Not available (valid) |
+| NDA018931 | Travasol (Baxter Healthcare Corporation) | Injection | Not available (valid) |
+| NDA020734 | CLINIMIX (Baxter Healthcare Corporation) | Injection | Not available (valid) |
 
-Two further cancelled entries exist (OUHOE Bean Sunscreen cream and HGH COMPLEX spray), for 7 licenses in total. None is currently valid.
+Two further cancelled entries exist (OUHOE Bean Sunscreen cream and HGH COMPLEX spray), for 7 licenses in total.
 
 ## Safety Considerations
 
@@ -104,7 +103,7 @@ These should be verified against official labeling before any use.
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is very high, but there is no supporting clinical or mechanistic evidence. The only registered trial is unrelated to glycine, and the two publications do not evaluate it. All seven US licenses are cancelled, so there is no current regulatory pathway to build on.
+The TxGNN score is very high, but there is no supporting clinical or mechanistic evidence. The only registered trial is unrelated to glycine, and the two publications do not evaluate it. The drug is marketed in the US, with seven valid licenses.
 
 **To proceed, the following is needed:**
 - Mechanism of action data, to establish a plausible link to nasal cavity disease

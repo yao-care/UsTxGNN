@@ -5,10 +5,10 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 830
 evidence_level: L4
 indication_count: 5
-last_modified_at: 2026-10-14
-description: "Lamivudine: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: Chronic hepatitis B virus infection"
+last_modified_at: 2026-10-28
 monitor_inn: "LAMIVUDINE"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "chronic hepatitis C virus infection"]
+description: "Lamivudine: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Lamivudine
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **5**
 
 </div>
 
-## Lamivudine: From Chronic Hepatitis B and HIV Infection to Simian Immunodeficiency Virus Infection
+## Lamivudine: Simian immunodeficiency virus infection
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,11 +45,11 @@ The TxGNN model predicts it may be effective for **simian immunodeficiency virus
 
 | Item | Content |
 |------|------|
-| Original Indication | Chronic hepatitis B virus infection; HIV infectious disease; AIDS (US label indication text is not available in the data compiled for this report) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Simian immunodeficiency virus infection |
-| TxGNN Prediction Score | 99.93% |
+| TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid licenses in the compiled data) |
+| US Market Status | Marketed (valid licenses on record: at least 13) |
 | Number of NDAs | 13 licenses in total (2 NDAs, 11 ANDAs), all with cancelled status |
 | Recommended Decision | Hold |
 
@@ -60,9 +60,9 @@ Detailed mechanism of action data is not available in the data compiled for this
 SIV is a close lentiviral relative of HIV with a homologous reverse transcriptase, so lamivudine's mechanism is plausibly shared. Macaque studies support this. They include work on the M184V resistance mutation in SIV reverse transcriptase, multidrug antiretroviral regimens, and post-exposure prophylaxis with zidovudine, lamivudine and indinavir.
 
 However, SIV is a non-human research-model disease, so this is **not a human repurposing opportunity**. Its main value is as a preclinical model for HIV. Other predictions in the same list are similarly limited:
-- **Feline acquired immunodeficiency syndrome** (score 99.93%): evidence is limited to small veterinary and in vitro studies.
-- **A rare neurodevelopmental disorder** (99.93%) and **obsolete familial combined hyperlipidemia** (99.63%): no mechanistic link and no supporting evidence.
-- **Chronic hepatitis C** (99.11%): HCV replicates through NS5B RNA polymerase, which is not a lamivudine target, and the literature reflects HBV/HCV co-discussion rather than efficacy. Direct-acting antivirals already cure HCV.
+- **Feline acquired immunodeficiency syndrome** (score 0.9993): evidence is limited to small veterinary and in vitro studies.
+- **A rare neurodevelopmental disorder** (0.9993) and **obsolete familial combined hyperlipidemia** (0.9963): no mechanistic link and no supporting evidence.
+- **Chronic hepatitis C** (0.9911): HCV replicates through NS5B RNA polymerase, which is not a lamivudine target, and the literature reflects HBV/HCV co-discussion rather than efficacy. Direct-acting antivirals already cure HCV.
 
 ## Clinical Trial Evidence
 
@@ -85,7 +85,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All licenses in the compiled data have a cancelled status, and no approved indication text is available.
+The drug is marketed in this country, with 13 valid licenses in the compiled data, and no approved indication text is available.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|

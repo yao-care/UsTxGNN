@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # 1 2-Docosahexanoyl-Sn-Glycero-3-Phosphoserine Calc
@@ -51,8 +52,8 @@ As a result, **no clinical evidence table can be generated**, and the evaluation
 | Predicted New Indication | None (TxGNN returned no results) |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — Model prediction only; no actual predictions returned |
-| US Market Status | Not marketed |
-| Number of NDAs | 0 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | **Hold** |
 
 ---

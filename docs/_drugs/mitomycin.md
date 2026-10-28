@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "MITOMYCIN"
 predicted_indications: ["solid pseudopapillary carcinoma of pancreas", "osteoclastic giant cell tumor of pancreas", "pancreatic carcinoma with mixed differentiation", "pancreatic intraductal papillary-mucinous carcinoma", "mixed ductal-endocrine carcinoma of pancreas", "pancreatic signet ring cell adenocarcinoma", "undifferentiated pancreatic carcinoma", "malignant exocrine pancreas neoplasm", "pancreatic intraductal papillary-mucinous neoplasm", "pancreatic acinar cell cystadenocarcinoma"]
 last_modified_at: 2026-10-14
-description: "Mitomycin: predicted new indication Solid pseudopapillary carcinoma of the pancreas (evidence level L5). Approved use: Pancreatic adenocarcinoma"
+description: "Mitomycin: predicted new indication Solid pseudopapillary carcinoma of pancreas (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Mitomycin
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Mitomycin: From Pancreatic Adenocarcinoma to Solid Pseudopapillary Carcinoma of the Pancreas
+## Mitomycin: Solid pseudopapillary carcinoma of pancreas
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ but the data compiled for this report contain **0 clinical trials** and **0 publ
 
 | Item | Content |
 |------|------|
-| Original Indication | Pancreatic adenocarcinoma (from the knowledge graph; no approved indication text is available in the US license records) |
-| Predicted New Indication | Solid pseudopapillary carcinoma of the pancreas |
-| TxGNN Prediction Score | 99.86% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Solid pseudopapillary carcinoma of pancreas |
+| TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 8) |
 | Number of NDAs | 8 (all cancelled; all are ANDAs) |
 | Recommended Decision | Hold |
 
@@ -60,7 +60,7 @@ Detailed mechanism-of-action data are not available in the data compiled for thi
 
 The predicted disease is a pancreatic neoplasm, so the model likely links it to the original indication through shared pancreatic tumour context. However, solid pseudopapillary neoplasms of the pancreas are generally low-grade and are typically treated by surgery. The benefit of a cytotoxic agent is therefore uncertain, and no disease-specific rationale or clinical data were provided.
 
-Nine other pancreatic tumour predictions scored similarly (99.82–99.86%). Among them, only a few have any indirect literature, and none has clinical trials:
+Nine other pancreatic tumour predictions scored similarly (99.82–0.9986). Among them, only a few have any indirect literature, and none has clinical trials:
 
 - **Pancreatic carcinoma with mixed differentiation, mixed ductal-endocrine carcinoma and pancreatic signet ring cell adenocarcinoma:** these share ductal or adenocarcinoma components with the original indication, but have no supporting studies.
 - **Pancreatic intraductal papillary-mucinous carcinoma and neoplasm:** only a case report and a review of radiochemotherapy in ductal pancreatic carcinoma exist, and neither shows a mitomycin benefit.
@@ -121,13 +121,12 @@ Package insert warnings and contraindications were not available, so please refe
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high (99.86%), but there are no clinical trials or literature for the predicted indication, so the evidence level is L5. Solid pseudopapillary neoplasms are usually low-grade and surgically treated, which weakens the case for a cytotoxic agent. In addition, all US licenses are cancelled and the safety data are limited.
+The prediction score is high (0.9986), but there are no clinical trials or literature for the predicted indication, so the evidence level is L5. Solid pseudopapillary neoplasms are usually low-grade and surgically treated, which weakens the case for a cytotoxic agent.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (this blocks safety screening)
 - Mechanism of action data, such as from DrugBank
 - Disease-specific preclinical or clinical evidence for solid pseudopapillary carcinoma of the pancreas
-- Clarification of whether a current supply or marketed product exists, since all US licenses are cancelled
 - Route compatibility assessment (currently pending; only the injectable form is on record)
 - A review of other predicted pancreatic indications that may have stronger biological or clinical rationale, such as pancreatic signet ring cell adenocarcinoma or pancreatic carcinoma with mixed differentiation
 ## Disclaimer

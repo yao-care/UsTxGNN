@@ -47,17 +47,17 @@ The TxGNN model predicts it may be effective for **leprosy**, but there are curr
 |------|------|
 | Original Indication | Not stated in the data compiled for this report (the license record has no indication text) |
 | Predicted New Indication | Leprosy |
-| TxGNN Prediction Score | 99.14% |
+| TxGNN Prediction Score | 0.9914 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Lonafarnib is a farnesyltransferase inhibitor (FTI). It blocks farnesylation, a protein modification that anchors certain proteins to cell membranes. Detailed mechanism of action data is not available in the compiled record. This description is general pharmacological knowledge, not drawn from the supplied data.
 
-The data compiled for this report does not establish a direct mechanistic link between lonafarnib and *Mycobacterium leprae* infection. One speculative hypothesis is that host prenylated small GTPases (Ras/Rho family), which are involved in macrophage function, phagocytosis and inflammatory signaling, could be modulated. No evidence in the record supports this. The high TxGNN score (0.991) is a model-based prediction only and should not be read as clinical evidence. The model's rank for this prediction is 18,762, which further suggests treating it with caution.
+The data compiled for this report does not establish a direct mechanistic link between lonafarnib and *Mycobacterium leprae* infection. One speculative hypothesis is that host prenylated small GTPases (Ras/Rho family), which are involved in macrophage function, phagocytosis and inflammatory signaling, could be modulated. No evidence in the record supports this. The high TxGNN score (0.9914) is a model-based prediction only and should not be read as clinical evidence. The model's rank for this prediction is 18,762, which further suggests treating it with caution.
 
 The original indication is not recorded in the data, so the relationship between the original and predicted indications cannot be assessed.
 

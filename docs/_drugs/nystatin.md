@@ -48,9 +48,9 @@ Currently there are **0 clinical trials** and **about 20 publications** (mostly 
 |------|------|
 | Original Indication | Cutaneous candidiasis, oral candidiasis, candidiasis, vulvovaginal candidiasis |
 | Predicted New Indication | Vulvovaginitis |
-| TxGNN Prediction Score | 99.92% |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 12) |
 | Number of NDAs | 12 (all ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
@@ -83,7 +83,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All 12 authorizations are listed as cancelled, and no approved-indication text was available. Up to 5 are shown below.
+All 12 authorizations are listed as valid, and no approved-indication text was available. Up to 5 are shown below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -105,13 +105,13 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The predicted indication largely overlaps with nystatin's existing candidiasis use, so it is not a genuine new repurposing opportunity. Evidence consists of reviews with no registered trials or nystatin-specific RCT. Nystatin has also been displaced by azoles as first-line therapy, and all US licenses are cancelled. The other nine predictions (e.g., orbital disease, cystic teratoma, atrophic vaginitis) have no plausible mechanism or supporting data and should also be held.
+The predicted indication largely overlaps with nystatin's existing candidiasis use, so it is not a genuine new repurposing opportunity. Evidence consists of reviews with no registered trials or nystatin-specific RCT. Nystatin has also been displaced by azoles as first-line therapy, and the drug is marketed in the US with 12 valid licenses. The other nine predictions (e.g., orbital disease, cystic teratoma, atrophic vaginitis) have no plausible mechanism or supporting data and should also be held.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications
 - Detailed mechanism of action data
 - Nystatin-specific controlled trials in vulvovaginitis, ideally against azoles or in fluconazole-resistant disease
-- Clarification of current US market availability, since all licenses are cancelled
+- Clarification of current US market availability, given that 12 licenses are valid
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

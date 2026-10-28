@@ -46,17 +46,17 @@ Apixaban is an oral direct factor Xa inhibitor (anticoagulant). The TxGNN model 
 |------|------|
 | Original Indication | Not available in the data compiled for this report (approved indication text is empty in all US records) |
 | Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.02% |
+| TxGNN Prediction Score | 0.9902 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid listings in the compiled data) |
-| Number of NDAs | 5 records (all cancelled; 2 NDAs and 3 ANDAs) |
+| US Market Status | Marketed (valid licenses: 5 of 5) |
+| Number of NDAs | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available in the compiled data. Based on known pharmacology, apixaban is a direct factor Xa inhibitor that reduces thrombin generation and thrombus formation.
 
-The TxGNN score is very high (0.99), but it is a graph-based prediction and does not establish a mechanism. A plausible but unproven link is that migraine with aura has been associated with paradoxical embolism through patent foramen ovale (PFO), microthrombi, and a prothrombotic state, including antiphospholipid antibodies. In selected patients, anticoagulation might therefore reduce events.
+The TxGNN score is very high (0.9902), but the score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It does not establish a mechanism. A plausible but unproven link is that migraine with aura has been associated with paradoxical embolism through patent foramen ovale (PFO), microthrombi, and a prothrombotic state, including antiphospholipid antibodies. In selected patients, anticoagulation might therefore reduce events.
 
 The available case reports argue against a class-wide benefit. One describes migraine with aura worsening after starting apixaban. Another describes symptoms that did not respond to apixaban but resolved on warfarin. This points to, at best, a drug-specific or patient-specific effect. No established mechanism links factor Xa inhibition to core migraine pathophysiology (CGRP signaling, cortical spreading depression, trigeminovascular activation).
 

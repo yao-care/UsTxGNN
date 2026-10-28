@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "DIAZEPAM"
 predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "sleep disorder, initiating and maintaining sleep", "attention deficit hyperactivity disorder, inattentive type", "antidepressant type abuse", "hallucinogen abuse", "barbiturate abuse", "specific developmental disorder", "attention deficit-hyperactivity disorder", "obsolete neurogenic bladder (disease)"]
 last_modified_at: 2026-10-14
-description: "Diazepam: predicted new indication Insomnia (evidence level L4). Approved use: Epilepsy, status epilepticus, alcohol withdrawal (including delirium)…"
+description: "Diazepam: predicted new indication Insomnia (disease) (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Diazepam
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Diazepam: From Epilepsy and Anxiety to Insomnia
+## Diazepam: Insomnia (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,11 +47,11 @@ The TxGNN model predicts it may be effective for **insomnia**, but the support i
 
 | Item | Content |
 |------|------|
-| Original Indication | Epilepsy, status epilepticus, alcohol withdrawal (including delirium), Wernicke-Korsakoff syndrome, anxiety, tetanus |
-| Predicted New Indication | Insomnia |
-| TxGNN Prediction Score | 99.99% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Insomnia (disease) |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 12) |
 | Number of NDAs | 12 (all cancelled) |
 | Recommended Decision | Hold |
 
@@ -98,7 +98,7 @@ For the related prediction "sleep disorder, initiating and maintaining sleep", t
 
 ## US Market Information
 
-All 12 US authorizations are cancelled; none are currently valid. Indication text is not available for any of them. Main entries:
+Indication text is not available for any of them. Main entries:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -128,7 +128,7 @@ Please refer to the package insert for label warnings and contraindications, whi
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is very high and the GABA-A mechanism is plausible for insomnia. However, there are no registered trials and no diazepam-specific RCTs. Diazepam is already an old, long-acting benzodiazepine, and the sleep literature favors shorter-acting agents and reducing benzodiazepine use because of dependence and cognitive risks. All US licenses are also cancelled.
+The TxGNN score is very high and the GABA-A mechanism is plausible for insomnia. However, there are no registered trials and no diazepam-specific RCTs. Diazepam is already an old, long-acting benzodiazepine, and the sleep literature favors shorter-acting agents and reducing benzodiazepine use because of dependence and cognitive risks.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications

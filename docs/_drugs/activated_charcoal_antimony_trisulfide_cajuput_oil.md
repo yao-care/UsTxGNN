@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Activated Charcoal Antimony Trisulfide Cajuput Oil
@@ -49,7 +50,7 @@ This submission is a 7-component mixture — Activated Charcoal, Antimony Trisul
 | Predicted New Indication | None generated |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | N/A — no prediction generated |
-| US Market Status | Not marketed (0 NDAs) |
+| US Market Status | Marketed (valid licenses on record: at least 1) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

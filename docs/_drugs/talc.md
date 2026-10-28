@@ -50,10 +50,10 @@ This is a model-association artifact rather than a credible repurposing signal.
 |------|------|
 | Original Indication | Not available (no approved indication text in the license records) |
 | Predicted New Indication | Thrombotic disease |
-| TxGNN Prediction Score | 99.85% |
-| Evidence Level | L4 (mechanism and case-level literature only; the literature points to harm) |
-| US Market Status | Cancelled only |
-| Number of NDAs | 2 (both cancelled) |
+| TxGNN Prediction Score | 0.9985 |
+| Evidence Level | L5 (mechanism and case-level literature only; the literature points to harm) |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,7 +62,7 @@ This is a model-association artifact rather than a credible repurposing signal.
 
 Currently, detailed mechanism of action data is not available. Talc is a mineral (hydrated magnesium silicate) used in powder form, historically for procedures such as pleurodesis and as a pharmaceutical excipient. It is not a drug with a known receptor- or enzyme-based pharmacology.
 
-The available literature does **not** support a therapeutic mechanism in thrombotic disease. Reports describe the opposite: intravenous talc from illicit drug use causes pulmonary granulomatosis, angiothrombotic pulmonary hypertension, and retinal and cerebral microembolization. The high TxGNN score most likely reflects a drug-disease association in the knowledge graph (talc appearing alongside thrombosis in the literature), not a treatment effect. Several retrieved papers (Trousseau syndrome, pneumothorax, chylothorax) are unrelated to talc as a treatment for thrombosis.
+The available literature does **not** support a therapeutic mechanism in thrombotic disease. Reports describe the opposite: intravenous talc from illicit drug use causes pulmonary granulomatosis, angiothrombotic pulmonary hypertension, and retinal and cerebral microembolization. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence or a treatment effect. Several retrieved papers (Trousseau syndrome, pneumothorax, chylothorax) are unrelated to talc as a treatment for thrombosis.
 
 The other nine predictions (e.g., exostosis, rheumatoid arthritis, bronchitis, heparin cofactor 2 deficiency, fibromyalgia, myositis fibrosa) are likewise unsupported. Several are mechanistically implausible or run against talc's known inflammatory and fibrosing properties.
 
@@ -96,7 +96,7 @@ All retrieved papers are either case-level reports of talc-induced harm or unrel
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA205555 | Steritalc (Novatech SA) | Powder | Not available (cancelled) |
+| NDA205555 | Steritalc (Novatech SA) | Powder | Not available (valid) |
 | Not available | Sensitive Pocket Sun (Shantou Oushiya Biotechnology Co., Ltd) | Stick | Not available (cancelled) |
 
 ---
@@ -118,7 +118,7 @@ No drug-interaction data were found, and no knowledge-graph contraindications we
 **Decision: Hold**
 
 **Rationale:**
-The 99.85% TxGNN score is not backed by any clinical trial, and the available literature describes talc as a cause of thrombosis and embolism. The predicted indication is therefore not supported mechanistically or clinically, and none of the other nine predictions has credible support either.
+The 0.9985 TxGNN score is not backed by any clinical trial, and the available literature describes talc as a cause of thrombosis and embolism. The predicted indication is therefore not supported mechanistically or clinically, and none of the other nine predictions has credible support either.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking data gap for safety screening)

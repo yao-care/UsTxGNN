@@ -48,13 +48,13 @@ This is a model-only prediction (evidence level L5).
 |------|------|
 | Original Indication | Not listed in the US license data (benzonatate is generally known as a cough suppressant) |
 | Predicted New Indication | Cauda equina syndrome |
-| TxGNN Prediction Score | 99.66% |
+| TxGNN Prediction Score | 0.9966 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all licenses cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 8) |
 | Number of NDAs | 8 (all generic ANDA applications, none currently valid) |
 | Recommended Decision | Hold |
 
-A second prediction was also generated: **obsolete neurogenic bladder (disease)**, with a score of 99.39% and the same evidence level (L5) and decision (Hold). It is discussed below.
+A second prediction was also generated: **obsolete neurogenic bladder (disease)**, with a score of 0.9939 and the same evidence level (L5) and decision (Hold). It is discussed below.
 
 ## Why is This Prediction Reasonable?
 
@@ -76,11 +76,11 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA040682 | Benzonatate (Redpharm Drug) | Capsule, liquid filled | Not specified (cancelled) |
-| ANDA202765 | Benzonatate (RemedyRepack Inc.) | Capsule | Not specified (cancelled) |
-| ANDA081297 | Benzonatate (Golden State Medical Supply) | Capsule | Not specified (cancelled) |
-| ANDA040597 | Benzonatate (A-S Medication Solutions) | Capsule | Not specified (cancelled) |
-| ANDA040749 | Benzonatate (Proficient Rx LP) | Capsule | Not specified (cancelled) |
+| ANDA040682 | Benzonatate (Redpharm Drug) | Capsule, liquid filled | Not specified (valid) |
+| ANDA202765 | Benzonatate (RemedyRepack Inc.) | Capsule | Not specified (valid) |
+| ANDA081297 | Benzonatate (Golden State Medical Supply) | Capsule | Not specified (valid) |
+| ANDA040597 | Benzonatate (A-S Medication Solutions) | Capsule | Not specified (valid) |
+| ANDA040749 | Benzonatate (Proficient Rx LP) | Capsule | Not specified (valid) |
 
 Eight licenses in total are on record, all cancelled and all for single-ingredient oral products. The table shows the first five.
 
@@ -96,7 +96,7 @@ Please refer to the package insert for full warnings and contraindications, whic
 **Decision: Hold**
 
 **Rationale:**
-The predictions rest on a model score alone, with no clinical trials, no literature, and no mechanism data. The proposed targets (a mechanical compression syndrome and an obsolete disease term) have weak mechanistic fit. All US licenses are cancelled, which further limits practical feasibility.
+The predictions rest on a model score alone, with no clinical trials, no literature, and no mechanism data. The proposed targets (a mechanical compression syndrome and an obsolete disease term) have weak mechanistic fit. The drug is currently marketed in the US with 8 valid licenses.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (currently blocking for safety screening)
@@ -104,7 +104,7 @@ The predictions rest on a model score alone, with no clinical trials, no literat
 - Mapping of "obsolete neurogenic bladder" to a current disease term
 - Preclinical or mechanistic evidence supporting sodium channel modulation in the proposed conditions
 - Route compatibility assessment (oral capsule versus the needs of the target conditions)
-- Assessment of whether any valid marketed product exists, given that all licenses are cancelled
+- Assessment of the currently marketed products, given that 8 valid licenses exist
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

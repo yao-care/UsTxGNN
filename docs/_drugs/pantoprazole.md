@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Pantoprazole
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 1013
-evidence_level: L1
-indication_count: 6
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-14
-description: "Pantoprazole: predicted new indication Active peptic ulcer disease (evidence level L1). Approved use: Peptic ulcer disease, GERD, esophagitis, Zollinger-Ellison syndrome"
 monitor_inn: "PANTOPRAZOLE"
 predicted_indications: ["duodenal obstruction"]
+description: "Pantoprazole: predicted new indication Duodenal obstruction (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Pantoprazole
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,23 @@ Evidence Level: **L1** | Predicted Indications: **6**
 
 </div>
 
-## Pantoprazole: From Peptic Ulcer Disease to Active Peptic Ulcer Disease
+## Pantoprazole: Duodenal obstruction
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Pantoprazole is a proton pump inhibitor originally used for peptic ulcer disease, gastroesophageal reflux disease (GERD), and Zollinger-Ellison syndrome.
-The TxGNN model predicts it may be effective for **active peptic ulcer disease**, with **1 directly relevant Phase 3 clinical trial** and **20 publications** retrieved for this prediction.
 This prediction is essentially label-consistent (on-label) rather than a true repurposing of a new disease area.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Peptic ulcer disease, GERD, esophagitis, Zollinger-Ellison syndrome (the approved-indication text is not available in the US license records) |
-| Predicted New Indication | Active peptic ulcer disease |
-| TxGNN Prediction Score | 99.69% |
-| Evidence Level | L1 |
-| US Market Status | Cancelled only (all 8 listed authorizations are cancelled) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Duodenal obstruction |
+| TxGNN Prediction Score | 0.9921 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 8) |
 | Number of NDAs | 8 (7 ANDAs and 1 NDA) |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -58,7 +57,7 @@ This prediction is essentially label-consistent (on-label) rather than a true re
 
 Detailed mechanism-of-action data was not available in the structured drug record. However, the mechanism is well established in the literature: pantoprazole irreversibly inhibits the gastric H+/K+ ATPase (the proton pump) in parietal cells. This suppresses gastric acid secretion and allows ulcers to heal.
 
-Active peptic ulcer disease is essentially the same condition as the drug's original indication, so the prediction is very plausible. Older randomized trials found that pantoprazole healed acute duodenal ulcers faster than ranitidine and comparably to omeprazole.
+Older randomized trials found that pantoprazole healed acute duodenal ulcers faster than ranitidine and comparably to omeprazole.
 
 Because this is an on-label use, the main value of this prediction is confirmatory. It does not point to a new therapeutic area.
 
@@ -87,13 +86,13 @@ Other pantoprazole trials related to ulcer disease (for example, prevention of r
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA077619 | Pantoprazole (Dr. Reddy's) | Delayed-release tablet | Not available (cancelled) |
-| ANDA219087 | Pantoprazole Sodium (Rising Pharma) | Delayed-release tablet | Not available (cancelled) |
-| ANDA202038 | Pantoprazole Sodium (Aurobindo) | Delayed-release tablet | Not available (cancelled) |
-| ANDA217416 | Pantoprazole Sodium (American Health Packaging) | For suspension | Not available (cancelled) |
-| NDA020988 | Protonix (Cardinal Health 107) | Powder for injection solution | Not available (cancelled) |
+| ANDA077619 | Pantoprazole (Dr. Reddy's) | Delayed-release tablet | Not available (valid) |
+| ANDA219087 | Pantoprazole Sodium (Rising Pharma) | Delayed-release tablet | Not available (valid) |
+| ANDA202038 | Pantoprazole Sodium (Aurobindo) | Delayed-release tablet | Not available (valid) |
+| ANDA217416 | Pantoprazole Sodium (American Health Packaging) | For suspension | Not available (valid) |
+| NDA020988 | Protonix (Cardinal Health 107) | Powder for injection solution | Not available (valid) |
 
-All 8 authorizations in the compiled data are cancelled, so none is currently listed as valid. These are repackager and manufacturer listings, and this does not necessarily reflect the overall US market availability of pantoprazole.
+These are repackager and manufacturer listings, and this does not necessarily reflect the overall US market availability of pantoprazole.
 
 ## Safety Considerations
 
@@ -107,11 +106,10 @@ Please refer to the package insert for label warnings and contraindications.
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Direct randomized evidence supports pantoprazole for ulcer healing, including Phase 3 data and older double-blind comparisons with ranitidine and omeprazole. However, this is essentially an on-label use, so it offers little repurposing novelty. The US license records show all authorizations as cancelled, and label safety data is missing.
+Direct randomized evidence supports pantoprazole for ulcer healing, including Phase 3 data and older double-blind comparisons with ranitidine and omeprazole. However, this is essentially an on-label use, so it offers little repurposing novelty.
 
 **To proceed, the following is needed:**
 - Obtain and review the FDA package insert for warnings and contraindications (a blocking gap for safety screening)
-- Verify current US marketing status and approved indication text, since all listed authorizations are cancelled
 - Confirm the comparator and arm structure of NCT02084420
 - Review the bone-health (fracture, osteoporosis) and vitamin B12 (pernicious anemia) flags, and the major drug interactions, for long-term use
 ## Disclaimer

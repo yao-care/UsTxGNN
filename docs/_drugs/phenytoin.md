@@ -4,7 +4,7 @@ title: Phenytoin
 parent: Model Prediction Only (L5)
 nav_order: 1043
 evidence_level: L5
-indication_count: 10
+indication_count: 3
 last_modified_at: 2026-10-14
 description: "Phenytoin: predicted new indication Trigeminal nerve neoplasm (evidence level L5). Approved use: Epilepsy (generalized tonic-clonic, partial, status epilepticus…"
 monitor_inn: "PHENYTOIN"
@@ -14,7 +14,7 @@ predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "be
 # Phenytoin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ The more credible signal in the data is for the related condition **trigeminal n
 |------|------|
 | Original Indication | Epilepsy (generalized tonic-clonic, partial, status epilepticus, Lennox-Gastaut syndrome) |
 | Predicted New Indication | Trigeminal nerve neoplasm |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all licenses listed as cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 8) |
 | Number of NDAs | 8 (all ANDAs) |
 | Recommended Decision | Hold |
 
@@ -77,7 +77,7 @@ Currently no related clinical trials registered.
 
 No literature supports an anti-tumour effect of phenytoin.
 
-**Related signal: trigeminal neuralgia (ranked 9th, TxGNN score 99.97%, evidence level L3)**
+**Related signal: trigeminal neuralgia (ranked 9th, TxGNN score 0.9997, evidence level L3)**
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
@@ -92,13 +92,13 @@ No literature supports an anti-tumour effect of phenytoin.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA213834 | Phenytoin Sodium | Capsule, extended release | Not recorded; status cancelled |
-| ANDA040684 | Phenytoin Sodium | Capsule, extended release | Not recorded; status cancelled |
-| ANDA084307 | Phenytoin Sodium | Injection | Not recorded; status cancelled |
-| ANDA084349 | DILANTIN | Capsule, extended release | Not recorded; status cancelled |
-| ANDA200565 | Phenytoin | Chewable tablet | Not recorded; status cancelled |
+| ANDA213834 | Phenytoin Sodium | Capsule, extended release | Not recorded; status valid |
+| ANDA040684 | Phenytoin Sodium | Capsule, extended release | Not recorded; status valid |
+| ANDA084307 | Phenytoin Sodium | Injection | Not recorded; status valid |
+| ANDA084349 | DILANTIN | Capsule, extended release | Not recorded; status valid |
+| ANDA200565 | Phenytoin | Chewable tablet | Not recorded; status valid |
 
-All 8 authorizations in the data are cancelled; the table shows the first 5.
+The drug is marketed in the US with 8 valid licenses; the table shows the first 5.
 
 ## Safety Considerations
 
@@ -115,14 +115,14 @@ Please refer to the package insert for official warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction for trigeminal nerve neoplasm is a model output only. It has no clinical trials, no supporting literature on tumours, and no plausible link between sodium channel blockade and tumour biology. The other predicted indications are either overlapping seizure types (reflex and audiogenic seizures, supported mostly by animal studies or case reports) or lack any data. Trigeminal neuralgia is the only prediction with meaningful literature, but phenytoin is a second-line option behind carbamazepine and oxcarbazepine. All US licenses are also cancelled.
+The prediction for trigeminal nerve neoplasm is a model output only. It has no clinical trials, no supporting literature on tumours, and no plausible link between sodium channel blockade and tumour biology. Trigeminal neuralgia has meaningful literature, but phenytoin is a second-line option behind carbamazepine and oxcarbazepine. The drug is marketed in the US with 8 valid licenses.
 
 **To proceed, the following is needed:**
 - Re-scope the question from trigeminal nerve neoplasm to trigeminal neuralgia, with a focus on IV phenytoin for acute exacerbations
 - A controlled study comparing phenytoin with carbamazepine, oxcarbazepine or lacosamide in trigeminal neuralgia
 - The package insert warnings and contraindications, which are currently missing and block safety screening
 - Detailed mechanism of action data
-- Clarification of current US marketing status, since all listed licenses are cancelled
+- Clarification of current US marketing status, since 8 valid licenses are listed
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

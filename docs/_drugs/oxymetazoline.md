@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Oxymetazoline
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1005
-evidence_level: L4
-indication_count: 3
+evidence_level: L5
+indication_count: 2
 last_modified_at: 2026-10-14
-description: "Oxymetazoline: predicted new indication Nasal cavity disease (evidence level L4). Approved use: Pharyngitis, common cold"
 monitor_inn: "OXYMETAZOLINE"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "headache disorder"]
+predicted_indications: ["nasal cavity disease", "headache disorder"]
+description: "Oxymetazoline: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Oxymetazoline
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **3**
 
 </div>
 
-## Oxymetazoline: From Pharyngitis and Common Cold to Nasal Cavity Disease
+## Oxymetazoline: Nasal cavity disease
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ but there are currently **0 registered clinical trials** and only **5 indirect p
 
 | Item | Content |
 |------|------|
-| Original Indication | Pharyngitis, common cold (from the knowledge graph; the US license record has no indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Nasal cavity disease |
-| TxGNN Prediction Score | 99.96% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only |
+| TxGNN Prediction Score | 0.9996 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 1) |
 | Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
@@ -110,8 +110,7 @@ The prediction is mechanistically plausible but largely overlaps with oxymetazol
 
 ### Other Predicted Indications (for reference)
 
-- **Acute laryngopharyngitis** (score 99.95%, L5, Hold): No trials or literature. Pharyngitis is already an original indication in the knowledge graph, which likely explains the prediction. Oxymetazoline is not a recognized treatment for this condition, and the safety and delivery questions for pharyngeal or laryngeal application are unaddressed.
-- **Headache disorder** (score 99.04%, L4, Research Question): The most relevant paper is [PMID 31919839](https://pubmed.ncbi.nlm.nih.gov/31919839/) (2020, *Headache*), a study of intranasal 3% tetracaine plus 0.05% oxymetazoline in status migrainosus. It is a combination product and its design is unverified, so effects cannot be attributed to oxymetazoline alone. The other papers are a case report and non-efficacy reviews.
+- **Headache disorder** (score 0.9904, L4, Research Question): The most relevant paper is [PMID 31919839](https://pubmed.ncbi.nlm.nih.gov/31919839/) (2020, *Headache*), a study of intranasal 3% tetracaine plus 0.05% oxymetazoline in status migrainosus. It is a combination product and its design is unverified, so effects cannot be attributed to oxymetazoline alone. The other papers are a case report and non-efficacy reviews.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

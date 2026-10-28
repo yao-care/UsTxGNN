@@ -48,10 +48,10 @@ The evidence is strongest for specific sub-indications such as post-cataract inf
 |------|------|
 | Original Indication | Not available (the approval records compiled for this report contain no indication text; bromfenac is an ophthalmic NSAID used for postoperative ocular inflammation and pain) |
 | Predicted New Indication | Eye disease |
-| TxGNN Prediction Score | 99.80% |
+| TxGNN Prediction Score | 0.9980 |
 | Evidence Level | L1 |
-| US Market Status | Cancelled only (all listed authorizations are cancelled) |
-| Number of NDAs | 12 (2 NDAs and 10 ANDAs, all cancelled) |
+| US Market Status | Marketed (valid licenses: 12 of 12) |
+| Number of NDAs | 12 (valid: 12) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 "Eye disease" is a very broad category. The clinical data support a set of specific ocular inflammatory conditions: post-cataract inflammation and pain, prevention of CME, and signals in dry eye, pterygium and allergic conjunctivitis. The very high TxGNN score is consistent with the large volume of ocular clinical data. It should not be read as support for every eye condition.
 
-Lower-ranked predictions (for example optic papillitis, von Hippel anomaly, lagophthalmos, seborrheic keratosis, luxation of globe) have little or no disease-specific evidence and no credible mechanistic link. Their scores likely reflect the generic ocular category in the knowledge graph.
+Lower-ranked predictions (for example optic papillitis, von Hippel anomaly, lagophthalmos, seborrheic keratosis, luxation of globe) have little or no disease-specific evidence and no credible mechanistic link. Their scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Clinical Trial Evidence
 
@@ -96,15 +96,15 @@ Of the 35 linked trials, the 10 most relevant are listed below. Most are Phase 3
 
 ## US Market Information
 
-All 12 authorizations are cancelled. Five are shown below.
+All 12 licenses are valid. Five are shown below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA203168 | Prolensa (Bausch & Lomb) | Solution/drops | Not specified (cancelled) |
-| NDA206911 | Bromfenac (Sun Pharmaceutical) | Solution/drops | Not specified (cancelled) |
-| ANDA207334 | Bromfenac Ophthalmic Solution, 0.07% (Apotex) | Solution/drops | Not specified (cancelled) |
-| ANDA210560 | Bromfenac Ophthalmic Solution 0.09% (Alembic) | Solution/drops | Not specified (cancelled) |
-| ANDA202903 | Bromfenac (Lupin) | Solution | Not specified (cancelled) |
+| NDA203168 | Prolensa (Bausch & Lomb) | Solution/drops | Not specified (valid) |
+| NDA206911 | Bromfenac (Sun Pharmaceutical) | Solution/drops | Not specified (valid) |
+| ANDA207334 | Bromfenac Ophthalmic Solution, 0.07% (Apotex) | Solution/drops | Not specified (valid) |
+| ANDA210560 | Bromfenac Ophthalmic Solution 0.09% (Alembic) | Solution/drops | Not specified (valid) |
+| ANDA202903 | Bromfenac (Lupin) | Solution | Not specified (valid) |
 
 ## Safety Considerations
 
@@ -119,7 +119,7 @@ Please refer to the package insert for official warnings and contraindications.
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Multiple completed Phase 3 trials (post-cataract inflammation, dry eye, allergic conjunctivitis) plus numerous Phase 4 studies and meta-analyses support bromfenac in specific ocular inflammatory conditions. However, "eye disease" is too broad to endorse as a whole, all US authorizations are currently cancelled, and there are ocular and systemic safety signals. The other predicted indications (for example optic papillitis, von Hippel anomaly) have weak or no evidence and should be held.
+Multiple completed Phase 3 trials (post-cataract inflammation, dry eye, allergic conjunctivitis) plus numerous Phase 4 studies and meta-analyses support bromfenac in specific ocular inflammatory conditions. However, "eye disease" is too broad to endorse as a whole, and there are ocular and systemic safety signals. The other predicted indications (for example optic papillitis, von Hippel anomaly) have weak or no evidence and should be held.
 
 **To proceed, the following is needed:**
 - Define a specific target sub-indication (for example CME prevention or dry eye) instead of the broad "eye disease" category

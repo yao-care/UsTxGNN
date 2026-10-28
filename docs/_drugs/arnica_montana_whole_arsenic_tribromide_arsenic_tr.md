@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Arnica Montana Whole Arsenic Tribromide Arsenic Tr
@@ -51,7 +52,7 @@ Without a valid DrugBank ID, TxGNN score, or regulatory baseline, a standard rep
 | Predicted New Indication | None — TxGNN returned no results |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — Model prediction only (no actual studies linked) |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 14) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

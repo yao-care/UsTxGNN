@@ -4,17 +4,17 @@ title: Guselkumab
 parent: Model Prediction Only (L5)
 nav_order: 765
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-14
-description: "Guselkumab: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Not listed in the regulatory record"
 monitor_inn: "GUSELKUMAB"
 predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "renal osteodystrophy", "congenital hypotrichosis with juvenile macular dystrophy", "primary release disorder of platelets", "Glanzmann thrombasthenia", "non-renal secondary hyperparathyroidism"]
+description: "Guselkumab: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Guselkumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,14 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Guselkumab: From Plaque Psoriasis to Drug-Induced Osteoporosis (Top Prediction), with Ulcerative Colitis as the Best-Supported New Indication
+## Guselkumab: Drug-induced osteoporosis (rank 1); ulcerative colitis (rank 6) is the best-supported prediction (drug-induced osteoporosis)
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Guselkumab is an anti-IL-23 p19 monoclonal antibody, and the data compiled for this report do not list an original indication. The TxGNN model's top-ranked prediction is **drug-induced osteoporosis**, which has **0 clinical trials** and **0 publications** behind it. The best-supported prediction in this dataset is **ulcerative colitis**, with **10 clinical trials** and **20 publications**, including Phase 3 randomized trial results.
 
-> **Note on the original indication:** The compiled regulatory record has no approved indication text. The Quick Overview therefore uses the indication supported by the trial and literature data (plaque psoriasis). Psoriasis is also predicted at rank 3, so it is an established use rather than true repurposing.
+> **Note on the original indication:** The compiled regulatory record has no approved indication text. The Quick Overview therefore uses the indication supported by the trial and literature data (plaque psoriasis).
 
 ---
 
@@ -48,12 +48,12 @@ Guselkumab is an anti-IL-23 p19 monoclonal antibody, and the data compiled for t
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the regulatory record (psoriasis is the established use per the trial and literature data) |
-| Predicted New Indication | Drug-induced osteoporosis (rank 1); ulcerative colitis (rank 6) is the best-supported prediction |
-| TxGNN Prediction Score | 99.84% (drug-induced osteoporosis); 99.70% (ulcerative colitis) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Drug-induced osteoporosis (rank 1); ulcerative colitis (rank 6) is the best-supported prediction (drug-induced osteoporosis) |
+| TxGNN Prediction Score | 0.9984 |
 | Evidence Level | L5 (drug-induced osteoporosis); L1 (ulcerative colitis) |
-| US Market Status | Cancelled only (likely a data gap; verify) |
-| Number of NDAs | 1 (BLA761061) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold (drug-induced osteoporosis); Proceed with Guardrails (ulcerative colitis) |
 
 ---

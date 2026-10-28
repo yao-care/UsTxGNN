@@ -11,7 +11,7 @@
   "indication": {
     "diseaseSymptomProcedure": {
       "concept": {
-        "text": "Vulvar inverted follicular keratosis"
+        "text": "vulvar inverted follicular keratosis"
       }
     }
   },
@@ -22,7 +22,11 @@
     },
     {
       "url": "https://ustxgnn.yao.care/fhir/StructureDefinition/source",
-      "valueString": "TxGNN Knowledge Graph"
+      "valueString": "TxGNN deep learning model"
+    },
+    {
+      "url": "https://ustxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.9992
     }
   ]
 }

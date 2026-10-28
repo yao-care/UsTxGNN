@@ -48,9 +48,9 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Allergic rhinitis (also vasomotor rhinitis, atopic conjunctivitis, papillary conjunctivitis, vernal conjunctivitis) |
 | Predicted New Indication | Rosacea conjunctivitis |
-| TxGNN Prediction Score | 99.41% |
+| TxGNN Prediction Score | 0.9941 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 12) |
 | Number of NDAs | 12 authorizations in total (1 NDA, 11 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 Rosacea-associated conjunctivitis is driven mainly by meibomian gland dysfunction, tear film instability, and inflammation (for example IL-1, matrix metalloproteinases, Demodex mites and microbial factors), rather than primarily by histamine-mediated mast cell activation. A plausible link is shared ocular surface inflammation and possible mast cell involvement, which might relieve itching or redness.
 
-This link is hypothetical and is not supported by the data compiled for this report. The very high TxGNN score (99.41%) is a computational prediction only and is not evidence of clinical efficacy.
+This link is hypothetical and is not supported by the data compiled for this report. The very high TxGNN score (0.9941) is a computational prediction only and is not evidence of clinical efficacy.
 
 ## Clinical Trial Evidence
 
@@ -72,15 +72,15 @@ Currently no related literature available.
 
 ## US Market Information
 
-All 12 authorizations are cancelled; none is currently valid. Approved indication text is not available for these records. Five of the 12 are listed below.
+All 12 authorizations are currently valid. Approved indication text is not available for these records. Five of the 12 are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| NDA020688 | PATADAY TWICE A DAY RELIEF (Alcon Laboratories) | Solution | Cancelled |
-| ANDA219557 | Olopatadine Hydrochloride (Glenmark Therapeutics) | Solution | Cancelled |
-| ANDA209420 | Olopatadine Hydrochloride (Alembic Pharmaceuticals) | Solution/Drops | Cancelled |
-| ANDA091572 | Olopatadine Hydrochloride (Apotex) | Metered spray | Cancelled |
-| ANDA210901 | Olopatadine Hydrochloride (Amneal Pharmaceuticals) | Metered spray | Cancelled |
+| NDA020688 | PATADAY TWICE A DAY RELIEF (Alcon Laboratories) | Solution | Valid |
+| ANDA219557 | Olopatadine Hydrochloride (Glenmark Therapeutics) | Solution | Valid |
+| ANDA209420 | Olopatadine Hydrochloride (Alembic Pharmaceuticals) | Solution/Drops | Valid |
+| ANDA091572 | Olopatadine Hydrochloride (Apotex) | Metered spray | Valid |
+| ANDA210901 | Olopatadine Hydrochloride (Amneal Pharmaceuticals) | Metered spray | Valid |
 
 ## Safety Considerations
 
@@ -94,7 +94,7 @@ Package insert warnings and contraindications were not available for this report
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score, with no registered clinical trials or publications (Evidence Level L5). The proposed mechanism is hypothetical, because rosacea conjunctivitis is not primarily histamine-driven. All US authorizations are also cancelled, and package insert safety data are missing.
+The prediction is supported only by a model score, with no registered clinical trials or publications (Evidence Level L5). The proposed mechanism is hypothetical, because rosacea conjunctivitis is not primarily histamine-driven. The drug is marketed in the US with 12 valid authorizations, but package insert safety data are missing.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from FDA labelling (a blocking gap for safety screening)

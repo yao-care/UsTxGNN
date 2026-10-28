@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Abacavir Sulfate Dolutegravir Sodium Lamivudine
@@ -51,7 +52,7 @@ Before filling key data gaps (package insert warnings, MOA, prediction results),
 | Predicted New Indication | None (TxGNN did not output any repurposing candidates in this run) |
 | TxGNN Prediction Score | Not applicable |
 | Evidence Level | Cannot be determined (no predictions, no clinical trials, no literature) |
-| US Market Status | Not marketed (no approval record found in Taiwan drug database) |
+| US Market Status | Marketed (valid licenses on record: at least 13) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Antimony Trisulfide Bordetella Pertussis Clostridi
@@ -51,7 +52,7 @@ No clinical trial or literature evidence specific to this combination was identi
 | Predicted New Indication | Not available — TxGNN prediction not generated |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (no prediction generated; model could not process entry) |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 6) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 

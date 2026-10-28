@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Aluminum Oxide Calcium Silicate Ferrosoferric Phos
@@ -51,7 +52,7 @@ Due to critical data gaps across all evaluation domains, a full repurposing anal
 | Predicted New Indication | None — TxGNN returned no predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | Below L5 (no predictions, no studies) |
-| US Market Status | Not marketed (Not marketed) |
+| US Market Status | Marketed (valid licenses on record: at least 6) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

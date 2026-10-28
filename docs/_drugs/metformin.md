@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "METFORMIN"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy"]
 last_modified_at: 2026-10-14
-description: "Metformin: predicted new indication Classic stiff person syndrome (evidence level L5). Approved use: Type 2 diabetes mellitus"
+description: "Metformin: predicted new indication Classic stiff person syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Metformin
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-## Metformin: From Type 2 Diabetes Mellitus to Classic Stiff Person Syndrome
+## Metformin: Classic stiff person syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,11 +45,11 @@ The TxGNN model predicts it may be effective for **classic stiff person syndrome
 
 | Item | Content |
 |------|------|
-| Original Indication | Type 2 diabetes mellitus |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Classic stiff person syndrome |
-| TxGNN Prediction Score | 99.45% |
+| TxGNN Prediction Score | 0.9945 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid authorizations in the data compiled for this report) |
+| US Market Status | Marketed (valid licenses on record: at least 14) |
 | Number of NDAs | 14 (all cancelled; all listed as ANDAs) |
 | Recommended Decision | Hold |
 
@@ -59,16 +59,16 @@ Detailed mechanism of action data is not available for metformin in the data com
 
 Stiff person syndrome is an autoimmune neurological disorder involving anti-GAD65 antibodies and impaired GABAergic signaling. One possible indirect link is that GAD-antibody autoimmunity co-occurs with type 1 and type 2 diabetes. This is speculative and does not suggest that metformin treats the neurological condition.
 
-The same score (99.45%) was given to a closely related condition, focal stiff limb syndrome, which suggests the model treats these as neighboring nodes in its knowledge graph rather than providing independent support. The score should therefore be read as a computational signal only.
+The same score (0.9945) was given to a closely related condition, focal stiff limb syndrome. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It should therefore be read as a computational signal only.
 
 **Other predicted indications (all L5, all Hold, no trials or literature):**
 
 | Rank | Predicted Indication | TxGNN Score | Note |
 |---|---|---|---|
-| 2 | Focal stiff limb syndrome | 99.45% | Variant of the stiff person spectrum; no plausible metformin mechanism identified |
-| 3 | Opsismodysplasia | 99.40% | INPPL1/SHIP2 and PI3K/AKT signaling; loose link to metformin's AMPK/mTOR effects, hypothetical only |
-| 4 | Thiamine-responsive dysfunction syndrome | 99.40% | Possible transporter overlap, unvalidated; standard treatment is thiamine, and the relationship could even be adverse |
-| 5 | Drug-induced localized lipodystrophy | 99.06% | Metformin has been studied in other lipodystrophy settings, but no evidence for the localized drug-induced form in the data |
+| 2 | Focal stiff limb syndrome | 0.9945 | Variant of the stiff person spectrum; no plausible metformin mechanism identified |
+| 3 | Opsismodysplasia | 0.9940 | INPPL1/SHIP2 and PI3K/AKT signaling; loose link to metformin's AMPK/mTOR effects, hypothetical only |
+| 4 | Thiamine-responsive dysfunction syndrome | 0.9940 | Possible transporter overlap, unvalidated; standard treatment is thiamine, and the relationship could even be adverse |
+| 5 | Drug-induced localized lipodystrophy | 0.9906 | Metformin has been studied in other lipodystrophy settings, but no evidence for the localized drug-induced form in the data |
 
 ## Clinical Trial Evidence
 
@@ -80,15 +80,15 @@ Currently no related literature available.
 
 ## US Market Information
 
-All 14 authorizations are cancelled, and the data compiled for this report contains no approved-indication text. The five below are shown as examples.
+The drug is marketed, with 14 valid authorizations, and the data compiled for this report contains no approved-indication text. The five below are shown as examples.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA201991 | Metformin Hydrochloride (Northwind Health Company) | Tablet, extended release | Not available (cancelled) |
-| ANDA077078 | Metformin Hydrochloride (Zydus Lifesciences) | Tablet, extended release | Not available (cancelled) |
-| ANDA211052 | Metformin Hydrochloride (Epic Pharma) | Tablet, extended release | Not available (cancelled) |
-| ANDA202917 | Metformin Hydrochloride (Sun Pharmaceutical) | Tablet, film coated, extended release | Not available (cancelled) |
-| ANDA075972 | Metformin Hydrochloride (Chartwell RX) | Tablet | Not available (cancelled) |
+| ANDA201991 | Metformin Hydrochloride (Northwind Health Company) | Tablet, extended release | Not available (valid) |
+| ANDA077078 | Metformin Hydrochloride (Zydus Lifesciences) | Tablet, extended release | Not available (valid) |
+| ANDA211052 | Metformin Hydrochloride (Epic Pharma) | Tablet, extended release | Not available (valid) |
+| ANDA202917 | Metformin Hydrochloride (Sun Pharmaceutical) | Tablet, film coated, extended release | Not available (valid) |
+| ANDA075972 | Metformin Hydrochloride (Chartwell RX) | Tablet | Not available (valid) |
 
 All dosage forms are oral (tablet, film-coated tablet, and extended-release versions).
 
@@ -117,13 +117,13 @@ Please refer to the package insert for official warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score, with no clinical trials or literature, and no plausible mechanistic link between metformin and stiff person syndrome has been established. The drug also has no currently valid US authorizations in the compiled data.
+The prediction is supported only by a model score, with no clinical trials or literature, and no plausible mechanistic link between metformin and stiff person syndrome has been established.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data for metformin
 - A targeted literature and trial search for stiff person syndrome and metformin, including the neuroimmunological rationale
-- Confirmation of current US marketing status, since all listed authorizations are cancelled
+- Confirmation of current US marketing status, since the data lists 14 valid authorizations
 - Route and formulation compatibility assessment for the new indication
 ## Disclaimer
 

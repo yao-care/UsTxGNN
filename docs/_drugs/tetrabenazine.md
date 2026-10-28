@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "TETRABENAZINE"
 predicted_indications: ["polycystic kidney disease 3 with or without polycystic liver disease", "renal-hepatic-pancreatic dysplasia", "Joubert syndrome with renal defect", "karyomegalic interstitial nephritis", "thoracic malformation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "acute intermittent porphyria", "adult familial nephronophthisis-spastic quadriparesia syndrome", "atypical glycine encephalopathy", "congenital disorder of glycosylation with defective fucosylation"]
 last_modified_at: 2026-10-14
-description: "Tetrabenazine: predicted new indication Polycystic kidney disease 3 with or without polycystic liver disease (evidence level L5). Approved use: Huntington disease (including juvenile Huntington disea…"
+description: "Tetrabenazine: predicted new indication Polycystic kidney disease 3 with or without polycystic liver disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Tetrabenazine
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Tetrabenazine: From Huntington Disease to Polycystic Kidney Disease 3 (With or Without Polycystic Liver Disease)
+## Tetrabenazine: Polycystic kidney disease 3 with or without polycystic liver disease
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ but currently **0 clinical trials** and **0 publications** support this predicti
 
 | Item | Content |
 |------|------|
-| Original Indication | Huntington disease (including juvenile Huntington disease, Huntington disease-like syndromes, and McLeod neuroacanthocytosis syndrome) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Polycystic kidney disease 3 with or without polycystic liver disease |
-| TxGNN Prediction Score | 99.90% |
+| TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid authorizations) |
+| US Market Status | Marketed (valid licenses on record: at least 9) |
 | Number of NDAs | 9 (1 NDA and 8 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
@@ -74,13 +74,13 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication | Status |
 |---------|------|------|-----------|------|
-| NDA021894 | Xenazine (Lundbeck Pharmaceuticals LLC) | Tablet | Not available | Cancelled |
-| ANDA206129 | Tetrabenazine (Sun Pharmaceutical Industries) | Tablet | Not available | Cancelled |
-| ANDA213316 | Tetrabenazine (Heritage/Avet Pharmaceuticals) | Tablet | Not available | Cancelled |
-| ANDA207682 | Tetrabenazine (Precision Dose) | Tablet | Not available | Cancelled |
-| ANDA204574 | Tetrabenazine (Camber Pharmaceuticals) | Coated tablet | Not available | Cancelled |
+| NDA021894 | Xenazine (Lundbeck Pharmaceuticals LLC) | Tablet | Not available | Valid |
+| ANDA206129 | Tetrabenazine (Sun Pharmaceutical Industries) | Tablet | Not available | Valid |
+| ANDA213316 | Tetrabenazine (Heritage/Avet Pharmaceuticals) | Tablet | Not available | Valid |
+| ANDA207682 | Tetrabenazine (Precision Dose) | Tablet | Not available | Valid |
+| ANDA204574 | Tetrabenazine (Camber Pharmaceuticals) | Coated tablet | Not available | Valid |
 
-Nine authorizations are listed in total (1 NDA and 8 ANDAs); all are cancelled and none is currently valid. Only the first five are shown above.
+Only the first five are shown above.
 
 ## Safety Considerations
 

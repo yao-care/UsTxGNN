@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Activated Charcoal Aesculus Hippocastanum Bark Ant
@@ -51,7 +52,7 @@ Without a valid prediction and without any registered indication, this candidate
 | Predicted New Indication | No prediction available |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (model prediction only) — in practice, no prediction was generated |
-| US Market Status | Not marketed (0 NDAs) |
+| US Market Status | Marketed (valid licenses on record: at least 1) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

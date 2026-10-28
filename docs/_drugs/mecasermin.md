@@ -4,7 +4,7 @@ title: Mecasermin
 parent: Model Prediction Only (L5)
 nav_order: 891
 evidence_level: L5
-indication_count: 5
+indication_count: 4
 last_modified_at: 2026-10-14
 description: "Mecasermin: predicted new indication Monosomy X (evidence level L5). Approved use: Growth hormone insensitivity syndrome"
 monitor_inn: "MECASERMIN"
@@ -14,7 +14,7 @@ predicted_indications: ["monosomy X", "Wolman disease with hypolipoproteinemia a
 # Mecasermin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Growth hormone insensitivity syndrome; Laron syndrome |
 | Predicted New Indication | Monosomy X |
-| TxGNN Prediction Score | 99.59% |
+| TxGNN Prediction Score | 0.9959 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid authorizations) |
-| Number of NDAs | 2 (both cancelled) |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -64,10 +64,9 @@ Other predicted indications were also reviewed, and none has supporting studies:
 
 | Predicted Indication | TxGNN Score | Assessment |
 |------|------|------|
-| Wolman disease with hypolipoproteinemia and acanthocytosis | 99.09% | No clear mechanistic connection (lysosomal acid lipase deficiency, unrelated to IGF-1 signaling) |
-| Growth hormone insensitivity syndrome with immune dysregulation 2, autosomal dominant | 99.06% | Plausible, but largely an extension of the original indication; IGF-1 would not address the immune dysregulation |
-| Esophageal varices without bleeding | 99.03% | No established rationale for IGF-1 therapy |
-| Esophageal varices with bleeding | 99.03% | No known role; hypoglycemia risk is a concern in acutely ill patients |
+| Wolman disease with hypolipoproteinemia and acanthocytosis | 0.9909 | No clear mechanistic connection (lysosomal acid lipase deficiency, unrelated to IGF-1 signaling) |
+| Esophageal varices without bleeding | 0.9903 | No established rationale for IGF-1 therapy |
+| Esophageal varices with bleeding | 0.9903 | No known role; hypoglycemia risk is a concern in acutely ill patients |
 
 ## Clinical Trial Evidence
 
@@ -81,7 +80,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA021839 | Increlex (Eton Pharmaceuticals, Inc.) | Injection | Not listed (status: cancelled) |
+| BLA021839 | Increlex (Eton Pharmaceuticals, Inc.) | Injection | Not listed (status: valid) |
 | Not listed | GUNA-IGF (Guna spa) | Solution/drops | Not listed (status: cancelled) |
 
 ## Safety Considerations

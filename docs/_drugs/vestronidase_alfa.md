@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **Scheie syndrome**, but **no c
 |------|------|
 | Original Indication | Mucopolysaccharidosis (MPS VII) |
 | Predicted New Indication | Scheie syndrome |
-| TxGNN Prediction Score | 99.90% |
+| TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 (BLA761047) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -65,10 +65,10 @@ However, the enzymes differ. Beta-glucuronidase does not replace iduronidase, so
 
 | Rank | Predicted Indication | Score | Evidence Level | Assessment |
 |---|---|---|---|---|
-| 2 | Lysosomal storage disease with skeletal involvement | 99.59% | L5 | Broad category that includes MPS VII itself; likely overlap with the original indication, not a new signal |
-| 3 | Hurler syndrome | 99.43% | L3 | Same GAGs are involved, but the missing enzyme is not replaced; only an early prenatal ERT platform trial exists |
-| 4 | Sanfilippo syndrome | 99.42% | L4 | Only MPS VII publications are available; intravenous ERT is unlikely to cross the blood-brain barrier |
-| 5–9 | Rare congenital ocular, craniofacial and neuromuscular syndromes (e.g., congenital Horner syndrome) | 99.02–99.09% | L5 | No plausible mechanism; likely graph-based artifacts |
+| 2 | Lysosomal storage disease with skeletal involvement | 0.9959 | L5 | Broad category that includes MPS VII itself; likely overlap with the original indication, not a new signal |
+| 3 | Hurler syndrome | 0.9943 | L5 | Same GAGs are involved, but the missing enzyme is not replaced; only an early prenatal ERT platform trial exists |
+| 4 | Sanfilippo syndrome | 0.9942 | L5 | Only MPS VII publications are available; intravenous ERT is unlikely to cross the blood-brain barrier |
+| 5–9 | Rare congenital ocular, craniofacial and neuromuscular syndromes (e.g., congenital Horner syndrome) | 0.9902–0.9909 | L5 | No plausible mechanism; the score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence |
 
 ## Clinical Trial Evidence
 
@@ -96,7 +96,7 @@ For reference, three publications are linked to Sanfilippo syndrome, but all con
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA761047 | MEPSEVII (Ultragenyx Pharmaceutical Inc.) | Injection | Not listed (status: cancelled) |
+| BLA761047 | MEPSEVII (Ultragenyx Pharmaceutical Inc.) | Injection | Not listed (status: valid) |
 
 ## Safety Considerations
 

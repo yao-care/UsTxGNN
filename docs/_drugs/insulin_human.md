@@ -6,7 +6,7 @@ nav_order: 801
 evidence_level: L5
 indication_count: 10
 monitor_inn: "Insulin human"
-predicted_indications: ["autoimmune oophoritis", "classic stiff person syndrome", "focal stiff limb syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "pancreatic agenesis", "idiopathic localized lipodystrophy"]
+predicted_indications: ["autoimmune oophoritis", "focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "pancreatic agenesis", "idiopathic localized lipodystrophy"]
 last_modified_at: 2026-10-14
 description: "Insulin Human: predicted new indication Autoimmune oophoritis (evidence level L5). Approved use: Type 2 diabetes mellitus, type 1 diabetes mellitus…"
 ---
@@ -40,7 +40,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 Insulin human is a replacement hormone originally used to treat type 1 and type 2 diabetes mellitus and diabetic ketoacidosis.
 The TxGNN model predicts it may be effective for **autoimmune oophoritis**,
-but there are currently **0 clinical trials** and **0 publications** supporting this prediction, so it rests on a knowledge-graph score alone.
+but there are currently **0 clinical trials** and **0 publications** supporting this prediction, so it rests on a TxGNN model (deep learning) score alone.
 
 ## Quick Overview
 
@@ -48,9 +48,9 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Type 2 diabetes mellitus, type 1 diabetes mellitus, diabetic ketoacidosis (the US license records contain no indication text) |
 | Predicted New Indication | Autoimmune oophoritis |
-| TxGNN Prediction Score | 99.84% |
+| TxGNN Prediction Score | 0.9984 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all 8 listed authorizations are cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 8) |
 | Number of NDAs | 8 |
 | Recommended Decision | Hold |
 
@@ -58,7 +58,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 Detailed mechanism of action data is not available in the data compiled for this report. Insulin is known as the replacement hormone for diabetes, but this report cannot draw a mechanistic argument for ovarian disease from the available data.
 
-The prediction is plausible only in a loose sense. Insulin signaling influences ovarian function, and autoimmune polyendocrine syndromes can co-occur with autoimmune diabetes. These are shared-disease-network associations, not evidence that insulin treats autoimmune oophoritis. The score of 99.84% (rank 35 among the model's predictions) should be read as a graph-based hypothesis, not as proof of efficacy.
+The prediction is plausible only in a loose sense. Insulin signaling influences ovarian function, and autoimmune polyendocrine syndromes can co-occur with autoimmune diabetes. These are indirect associations, not evidence that insulin treats autoimmune oophoritis. The score of 0.9984 comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ### Other predictions reviewed
 
@@ -66,15 +66,15 @@ The other top-ranked predictions have no clinical or literature support either, 
 
 | Predicted Indication | TxGNN Score | Interpretation |
 |------|------|------|
-| Classic stiff person syndrome | 99.81% | Likely reflects anti-GAD65 autoimmunity and comorbid type 1 diabetes; insulin would treat the diabetes, not the neurological disease |
-| Focal stiff limb syndrome | 99.81% | Same score and graph neighborhood as the above; no independent support |
-| Thiamine-responsive dysfunction syndrome | 99.80% | Diabetes is a core feature; insulin would be symptomatic management, with thiamine as the disease-directed therapy |
-| Opsismodysplasia | 99.79% | Theoretical link via INPPL1 (SHIP2) in insulin/PI3K signaling; direction of effect unclear |
-| Drug-induced localized lipodystrophy | 99.72% | A known adverse effect of injected insulin; a safety signal, not a treatment |
-| Centrifugal lipodystrophy | 99.70% | Speculative adipose-tissue link; no support for benefit |
-| Pressure-induced localized lipoatrophy | 99.70% | Speculative; injection-site lipoatrophy is a known insulin adverse effect |
-| Pancreatic agenesis | 99.70% | Insulin replacement is already standard care for the resulting diabetes, so this is an extension of the existing indication rather than true repurposing |
-| Idiopathic localized lipodystrophy | 99.68% | Generic lipodystrophy association; insulin may itself cause localized lipodystrophy |
+| Classic stiff person syndrome | 0.9981 | Likely reflects anti-GAD65 autoimmunity and comorbid type 1 diabetes; insulin would treat the diabetes, not the neurological disease |
+| Focal stiff limb syndrome | 0.9981 | Score from the TxGNN model (deep learning); it may reflect similarities the model learned between related diseases, not biological evidence |
+| Thiamine-responsive dysfunction syndrome | 0.9980 | Diabetes is a core feature; insulin would be symptomatic management, with thiamine as the disease-directed therapy |
+| Opsismodysplasia | 0.9979 | Theoretical link via INPPL1 (SHIP2) in insulin/PI3K signaling; direction of effect unclear |
+| Drug-induced localized lipodystrophy | 0.9972 | A known adverse effect of injected insulin; a safety signal, not a treatment |
+| Centrifugal lipodystrophy | 0.9970 | Speculative adipose-tissue link; no support for benefit |
+| Pressure-induced localized lipoatrophy | 0.9970 | Speculative; injection-site lipoatrophy is a known insulin adverse effect |
+| Pancreatic agenesis | 0.9970 | Insulin replacement is already standard care for the resulting diabetes, so this is an extension of the existing indication rather than true repurposing |
+| Idiopathic localized lipodystrophy | 0.9968 | Generic lipodystrophy association; insulin may itself cause localized lipodystrophy |
 
 ## Clinical Trial Evidence
 
@@ -88,11 +88,11 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA018780 | HUMULIN R (A-S Medication Solutions) | Injection, solution | Not recorded; status cancelled |
-| BLA019959 | Novolin (A-S Medication Solutions) | Injection, suspension | Not recorded; status cancelled |
-| BLA018781 | Humulin (Eli Lilly and Company) | Injection, suspension | Not recorded; status cancelled |
-| BLA019717 | Humulin (Eli Lilly and Company) | Injection, suspension | Not recorded; status cancelled |
-| BLA022472 | AFREZZA (Mannkind Corporation) | Powder, metered | Not recorded; status cancelled |
+| BLA018780 | HUMULIN R (A-S Medication Solutions) | Injection, solution | Not recorded; status valid |
+| BLA019959 | Novolin (A-S Medication Solutions) | Injection, suspension | Not recorded; status valid |
+| BLA018781 | Humulin (Eli Lilly and Company) | Injection, suspension | Not recorded; status valid |
+| BLA019717 | Humulin (Eli Lilly and Company) | Injection, suspension | Not recorded; status valid |
+| BLA022472 | AFREZZA (Mannkind Corporation) | Powder, metered | Not recorded; status valid |
 
 The compiled data lists 8 authorizations in total, all with cancelled status. Only the first 5 are shown above. The other three are Novolin (BLA019938 and BLA019991, Novo Nordisk) and MYXREDLIN (BLA208157, Baxter Healthcare Corporation).
 
@@ -114,14 +114,14 @@ Please refer to the package insert for warnings and contraindications, which are
 **Decision: Hold**
 
 **Rationale:**
-The prediction for autoimmune oophoritis is supported only by a knowledge-graph score, with no clinical trials or literature (evidence level L5). No mechanistic data is available, and the package insert safety information is also missing, which blocks safety screening.
+The prediction for autoimmune oophoritis is supported only by a TxGNN model (deep learning) score, with no clinical trials or literature (evidence level L5). No mechanistic data is available, and the package insert safety information is also missing, which blocks safety screening.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (blocking for safety screening)
 - Mechanism of action data for insulin human
 - A literature and trial search specific to autoimmune oophoritis and insulin, to test whether any real-world support exists
 - Route compatibility and similarity-to-original-indication assessments, which are still pending
-- Clarification of the regulatory picture, since all 8 US authorizations show a cancelled status
+- Clarification of the regulatory picture, since the drug is marketed with 8 valid licenses
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

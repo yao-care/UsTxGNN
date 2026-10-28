@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "HISTIDINE"
 predicted_indications: ["gastroparesis (disease)", "sclerosing cholangitis"]
 last_modified_at: 2026-10-14
-description: "Histidine: predicted new indication Gastroparesis (evidence level L5). Approved use: Not available"
+description: "Histidine: predicted new indication gastroparesis (disease) (evidence level L5). Approved use: Not available"
 ---
 
 # Histidine
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-## Histidine: From an Unspecified Original Indication to Gastroparesis
+## Histidine: From an Unspecified Original Indication to gastroparesis (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **gastroparesis**, but **0 clin
 |------|------|
 | Original Indication | Not available (the single U.S. record has no approved indication text) |
 | Predicted New Indication | Gastroparesis |
-| TxGNN Prediction Score | 99.55% |
+| TxGNN Prediction Score | 0.9955 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 (cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -61,7 +61,7 @@ The TxGNN model predicts it may be effective for **gastroparesis**, but **0 clin
 
 Currently, detailed mechanism of action data is not available. Histidine is an amino acid and the precursor of histamine, but no approved original indication is recorded, so no mechanistic bridge to gastroparesis can be drawn from the compiled data.
 
-The one publication retrieved (PMID 42668409) describes gastric amyloid pathology and mucosal denervation in hereditary ATTR amyloidosis. It did not test histidine and shows no histidine-related mechanism in gastric motility. The high TxGNN score reflects a graph-based association only. No direct or plausible link between histidine and gastroparesis has been established.
+The one publication retrieved (PMID 42668409) describes gastric amyloid pathology and mucosal denervation in hereditary ATTR amyloidosis. It did not test histidine and shows no histidine-related mechanism in gastric motility. The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No direct or plausible link between histidine and gastroparesis has been established.
 
 ---
 
@@ -104,7 +104,7 @@ Please refer to the package insert for further safety information. No drug inter
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a graph-model score. There are no clinical trials, the single publication does not involve histidine, and no mechanistic link is evident. The only U.S. product record is cancelled and has no indication.
+The prediction rests only on a TxGNN model (deep learning) score, which may reflect similarities the model learned between related diseases, not biological evidence. There are no clinical trials, the single publication does not involve histidine, and no mechanistic link is evident. The only U.S. product record is valid (the drug is marketed) and has no indication.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for histidine
@@ -116,7 +116,7 @@ The prediction rests only on a graph-model score. There are no clinical trials, 
 
 ## Supplementary Note: Second-Ranked Prediction (Sclerosing Cholangitis)
 
-The second prediction, **sclerosing cholangitis** (TxGNN score 99.27%, evidence level L4), has 8 publications and no clinical trials.
+The second prediction, **sclerosing cholangitis** (TxGNN score 0.9927, evidence level L4), has 8 publications and no clinical trials.
 
 - **Mechanism:** Histidine is the precursor of histamine via L-histidine decarboxylase. Preclinical studies show that mast cell-derived histamine drives biliary proliferation and fibrosis in primary sclerosing cholangitis models (PMIDs 27351144, 35799467, 32054995, 29601088).
 - **Direction of effect:** Reducing histamine signaling was beneficial in these models. Supplemental histidine could therefore be neutral or potentially harmful, so the evidence does not support repurposing histidine for this condition.

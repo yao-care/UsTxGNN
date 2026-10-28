@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **severe nonproliferative diabe
 |------|------|
 | Original Indication | Not stated in the compiled data (pegfilgrastim is generally known as a neutrophil-stimulating agent) |
 | Predicted New Indication | Severe nonproliferative diabetic retinopathy |
-| TxGNN Prediction Score | 99.89% |
+| TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L5 (model prediction only) |
-| US Market Status | Cancelled only (no active licenses) |
-| Number of NDAs | 7 (all BLAs, all cancelled) |
+| US Market Status | Marketed (valid licenses: 7 of 7) |
+| Number of NDAs | 7 (valid: 7) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -59,7 +59,7 @@ Currently, detailed mechanism of action data is not available. Based on general 
 
 One speculative argument is that G-CSF can mobilize bone marrow-derived progenitor cells, which might support vascular repair. The opposite is also plausible: G-CSF-driven neutrophil activation and inflammation could worsen retinal vascular pathology. The direction of effect is unknown.
 
-The prediction is likely driven by network proximity in the knowledge graph rather than demonstrated biology. The second predicted indication, diabetic retinopathy, is a broader parent of the severe NPDR entry and does not count as independent evidence.
+The prediction comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The second predicted indication, diabetic retinopathy, is a broader parent of the severe NPDR entry and does not count as independent evidence.
 
 ## Clinical Trial Evidence
 
@@ -71,7 +71,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-All seven US biologics licenses for pegfilgrastim are cancelled, and the approved-indication text was not available for any of them.
+All seven US biologics licenses for pegfilgrastim are valid, and the approved-indication text was not available for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -98,7 +98,7 @@ Package insert warnings and contraindications were not available in the compiled
 **Decision: Hold**
 
 **Rationale:**
-The only support is a very high model score (99.89%). There are no clinical trials or publications, no verifiable mechanism, and all US licenses are cancelled. G-CSF could plausibly help or harm in retinal vascular disease, so the direction of effect is unknown.
+The only support is a very high model score (0.9989). There are no clinical trials or publications and no verifiable mechanism, although all seven US licenses are valid and the drug is marketed. G-CSF could plausibly help or harm in retinal vascular disease, so the direction of effect is unknown.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Acetaminophen Dextromethorphan Hydrobromide Lonice
@@ -51,7 +52,7 @@ Without a valid TxGNN output, a formal drug-repurposing evaluation **cannot be c
 | Predicted New Indication | No predictions generated |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | N/A — model returned no output |
-| US Market Status | Not marketed (Not marketed) |
+| US Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

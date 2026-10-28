@@ -46,17 +46,17 @@ Cocaine is a local anesthetic and vasoconstrictor historically used in nasal, or
 |------|------|
 | Original Indication | Not listed in the US license data (pharmacology data describes use as a local anesthetic in nasal, oral and laryngeal surgery) |
 | Predicted New Indication | Cauda equina syndrome |
-| TxGNN Prediction Score | 99.98% |
+| TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no active licenses) |
-| Number of NDAs | 2 (both cancelled) |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available for this report. Based on known information, cocaine is a local anesthetic that blocks sodium channels and also blocks reuptake of monoamines (including dopamine via DAT). Pharmacology records also list activity at 5-HT3 receptors.
 
-There is no credible mechanistic link between these actions and cauda equina syndrome, which is a compressive neuropathy of the lumbosacral nerve roots, usually from disc pathology, and is treated surgically. The high TxGNN score appears to be a statistical artifact of the knowledge graph rather than a biologically grounded signal. The only retrieved paper is a case report on lumbosacral disc pathology and does not address cocaine.
+There is no credible mechanistic link between these actions and cauda equina syndrome, which is a compressive neuropathy of the lumbosacral nerve roots, usually from disc pathology, and is treated surgically. The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The only retrieved paper is a case report on lumbosacral disc pathology and does not address cocaine.
 
 Other predictions in the list (for example rhinitis, anaphylaxis, pharyngitis) also lack supporting evidence. For rhinitis and pharyngitis, the literature mostly shows cocaine as a cause of mucosal injury, not a treatment. The next-ranked predictions are not strong alternatives either.
 
@@ -74,8 +74,8 @@ Currently no related clinical trials registered.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA209575 | Cocaine hydrochloride nasal (Omnivium Pharmaceuticals) | Solution | Not listed; license cancelled |
-| NDA209963 | Cocaine hydrochloride (LXO US Inc.) | Solution | Not listed; license cancelled |
+| NDA209575 | Cocaine hydrochloride nasal (Omnivium Pharmaceuticals) | Solution | Not listed; license valid |
+| NDA209963 | Cocaine hydrochloride (LXO US Inc.) | Solution | Not listed; license valid |
 
 ## Safety Considerations
 

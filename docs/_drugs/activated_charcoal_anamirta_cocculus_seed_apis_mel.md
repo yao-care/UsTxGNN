@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Activated Charcoal Anamirta Cocculus Seed Apis Mel
@@ -51,7 +52,7 @@ A full repurposing evaluation **cannot be completed** until foundational data ga
 | Predicted New Indication | No predictions generated |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | N/A — No predictions or supporting studies |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 7) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

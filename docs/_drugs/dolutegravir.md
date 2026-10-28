@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Dolutegravir
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 620
-evidence_level: L4
+evidence_level: L5
 indication_count: 3
 monitor_inn: "DOLUTEGRAVIR"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
@@ -14,7 +14,7 @@ description: "Dolutegravir: predicted new indication Feline acquired immunodefic
 # Dolutegravir
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ but the evidence is thin: **0 clinical trials** and **1 publication** (a veterin
 |------|------|
 | Original Indication | HIV infectious disease, AIDS |
 | Predicted New Indication | Feline acquired immunodeficiency syndrome |
-| TxGNN Prediction Score | 99.85% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 2 |
+| TxGNN Prediction Score | 0.9985 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -63,8 +63,8 @@ Feline immunodeficiency virus (FIV) is a lentivirus that causes progressive immu
 Two caveats apply. First, this is a veterinary indication, so its relevance to human drug repurposing is limited. Second, the mechanism is inferred from drug-class knowledge rather than confirmed by source data.
 
 Two other predictions were also generated but are not the focus of this report:
-- **Simian immunodeficiency virus infection** (score 99.85%, evidence level L4): supported by 14 preclinical or animal-model publications, including dolutegravir monotherapy in SIV-infected macaques. These support the mechanism and model use, not a human therapeutic indication.
-- **A rare neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter** (score 99.80%, evidence level L5): no mechanistic link, trials, or literature could be identified. It is a computational prediction only.
+- **Simian immunodeficiency virus infection** (score 0.9985, evidence level L4): supported by 14 preclinical or animal-model publications, including dolutegravir monotherapy in SIV-infected macaques. These support the mechanism and model use, not a human therapeutic indication.
+- **A rare neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter** (score 0.9980, evidence level L5): no mechanistic link, trials, or literature could be identified. It is a computational prediction only.
 
 ## Clinical Trial Evidence
 
@@ -80,10 +80,10 @@ Currently no related clinical trials registered.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA213983 | Tivicay PD | Tablet, for suspension | Not available (status: cancelled) |
-| NDA204790 | Tivicay | Tablet, film coated | Not available (status: cancelled) |
+| NDA213983 | Tivicay PD | Tablet, for suspension | Not available (status: valid) |
+| NDA204790 | Tivicay | Tablet, film coated | Not available (status: valid) |
 
-Both authorizations are held by ViiV Healthcare Company and are listed as cancelled; no currently valid authorization appears in the data compiled for this report.
+Both authorizations are held by ViiV Healthcare Company and are currently valid; the drug is marketed, with 2 valid licenses out of 2.
 
 ## Safety Considerations
 

@@ -4,17 +4,17 @@ title: Iopromide
 parent: Model Prediction Only (L5)
 nav_order: 806
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "IOPROMIDE"
-predicted_indications: ["osteoarthritis susceptibility", "osteoarthritis", "rheumatoid arthritis", "brachyolmia", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "alopecia", "myosclerosis", "hemoglobinopathy", "pseudoachondroplasia"]
-last_modified_at: 2026-10-14
-description: "Iopromide: predicted new indication Osteoarthritis susceptibility (evidence level L5). Approved use: Not stated in the data compiled for this report (diagnostic contrast…"
+predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "brachyolmia", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "alopecia", "myosclerosis", "hemoglobinopathy", "pseudoachondroplasia"]
+last_modified_at: 2026-10-23
+description: "Iopromide: predicted new indication Osteoarthritis (evidence level L5). Approved use: Not available"
 ---
 
 # Iopromide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,33 +33,31 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Iopromide: From Contrast Imaging to Osteoarthritis Susceptibility
+## Iopromide: From Diagnostic Contrast Imaging to Osteoarthritis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Iopromide is an iodinated, non-ionic radiographic contrast agent (US brand Ultravist), used for diagnostic imaging rather than treatment.
-The TxGNN model predicts it may be relevant to **osteoarthritis susceptibility**, but there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model alone.
+Iopromide is an iodinated, non-ionic contrast agent marketed in the United States as Ultravist for injection. The TxGNN model predicts it may be relevant to **osteoarthritis**, but there are **0 clinical trials** and **0 publications** supporting this prediction, so it is a model output only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the data compiled for this report (diagnostic contrast imaging agent) |
-| Predicted New Indication | Osteoarthritis susceptibility |
-| TxGNN Prediction Score | 99.57% |
+| Original Indication | Not available (the US license record contains no approved indication text) |
+| Predicted New Indication | Osteoarthritis |
+| TxGNN Prediction Score | 0.9953 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
+| Number of approvals | 1 NDA |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Iopromide is an iodinated, non-ionic contrast agent. It is used to visualize structures during imaging and has no known disease-modifying pharmacology.
+Currently, detailed mechanism of action data is not available. Iopromide is an iodinated, non-ionic contrast agent. It has no known disease-modifying, anti-inflammatory or immunomodulatory pharmacology.
 
-On review, the prediction is hard to justify biologically. "Osteoarthritis susceptibility" is a genetic risk concept, not a treatable clinical condition. The high score (0.996) most likely reflects proximity to arthritis-related nodes in the knowledge graph rather than any real therapeutic link. Iopromide can be used in joint imaging (arthrography), but that is a diagnostic use and does not act on cartilage or joint inflammation.
-
-The other top predictions show the same pattern: osteoarthritis, rheumatoid arthritis, rare skeletal dysplasias (brachyolmia, Hunter-Thompson acromesomelic dysplasia, pseudoachondroplasia), alopecia, myosclerosis and hemoglobinopathy. None has a documented mechanistic link, and all have 0 trials and 0 publications. For hemoglobinopathy, the prediction runs against clinical practice, because iodinated contrast media are used with caution in conditions such as sickle cell disease.
+The only plausible link to osteoarthritis is diagnostic: contrast agents are used in joint imaging (arthrography). That is imaging, not treatment. The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence or a pharmacological rationale. Other top-ranked predictions are similarly implausible, including rheumatoid arthritis, rare skeletal dysplasias (brachyolmia, pseudoachondroplasia, acromesomelic dysplasia), alopecia, myosclerosis and hemoglobinopathy. This pattern suggests the scores reflect learned similarities rather than a true therapeutic signal.
 
 ## Clinical Trial Evidence
 
@@ -73,34 +71,32 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA020220 | Ultravist (Bayer HealthCare Pharmaceuticals Inc.) | Injection | Not listed; status: cancelled |
+| NDA020220 | Ultravist (Bayer HealthCare Pharmaceuticals Inc.) | Injection | Not listed in the available record |
 
 ## Safety Considerations
 
-- **Drug Interactions**: 100 interactions were found. Most of those listed are rated Major, including:
+- **Drug Interactions**: The interaction screening returned 100 interacting drugs in total. Those listed in the data compiled for this report are mostly rated Major, including:
   - Metformin
-  - Amphotericin B (including lipid complex, cholesteryl sulfate and liposomal forms)
-  - Aminoglycosides: kanamycin, neomycin, streptomycin
-  - Vancomycin
-  - Polymyxin B
-  - Aminosalicylates and related agents: mesalazine, balsalazide, olsalazine, sulfasalazine
-- Mannitol is rated Moderate.
-- Clotrimazole, acetylsalicylic acid, bupropion, dexamethasone and pantoprazole have an unknown severity level.
-
-Please refer to the package insert for warnings and contraindications.
+  - Amphotericin B (conventional, lipid complex, cholesteryl sulfate and liposomal forms)
+  - Aminoglycosides and related antibiotics (kanamycin, neomycin, streptomycin), plus vancomycin and polymyxin B
+  - Aminosalicylates (mesalazine, balsalazide, olsalazine, sulfasalazine)
+  - Mannitol is rated Moderate.
+  - Clotrimazole, acetylsalicylic acid, bupropion, dexamethasone and pantoprazole have an unknown interaction level.
+- For warnings and contraindications, please refer to the package insert, as label text was not available for this report.
+- For hemoglobinopathies specifically, iodinated contrast agents are generally used with caution in some conditions such as sickle cell disease. This is a safety consideration, not a benefit.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting trials or publications (L5), no plausible mechanism, and no active US market authorization. A diagnostic contrast agent is not expected to treat osteoarthritis or any of the other predicted conditions.
+The prediction rests only on a model score. There are no clinical trials or publications for osteoarthritis, no known mechanism, and the drug is a diagnostic agent rather than a therapeutic one. The package insert warnings and contraindications are also missing.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications, which are currently missing and block safety screening
-- Mechanism of action data
-- Any preclinical or clinical signal for the predicted indication
-- A clearer, treatable disease definition in place of "osteoarthritis susceptibility"; if the osteoarthritis direction is revisited, the broader "osteoarthritis" prediction is the more clinically meaningful one
+- A plausible mechanistic hypothesis for therapeutic activity in osteoarthritis, and mechanism of action data
+- Any preclinical or clinical study directly addressing osteoarthritis
+- FDA package insert warnings and contraindications, to allow safety screening
+- Confirmation of the approved indications from the Ultravist label
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

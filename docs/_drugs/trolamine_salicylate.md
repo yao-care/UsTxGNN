@@ -46,9 +46,9 @@ Trolamine salicylate is a topical salicylate used in over-the-counter pain relie
 |------|------|
 | Original Indication | Not stated in the data compiled for this report (the approved indication text of all three licenses is empty). The product names suggest topical pain and arthritis relief. |
 | Predicted New Indication | Exostosis |
-| TxGNN Prediction Score | 99.75% |
+| TxGNN Prediction Score | 0.9975 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 3) |
 | Number of NDAs | 3 (all cancelled) |
 | Recommended Decision | Hold |
 
@@ -56,21 +56,21 @@ Trolamine salicylate is a topical salicylate used in over-the-counter pain relie
 
 Detailed mechanism of action data is not available. Based on known information, trolamine salicylate is a topical salicylate with cyclooxygenase (COX) inhibiting analgesic and anti-inflammatory activity, and it has been marketed in creams for local muscle and joint pain.
 
-Exostosis is a structural bony outgrowth. There is no plausible mechanism by which a topical NSAID-like agent would alter it. At most, the drug could relieve associated local pain. The high TxGNN score is a computational, graph-based prediction with no supporting clinical or literature evidence, so the prediction is not considered mechanistically convincing.
+Exostosis is a structural bony outgrowth. There is no plausible mechanism by which a topical NSAID-like agent would alter it. At most, the drug could relieve associated local pain. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. There is no supporting clinical or literature evidence, so the prediction is not considered mechanistically convincing.
 
 Other predicted indications are more plausible on class-level reasoning, though they also lack any supporting evidence in the compiled data:
 
 | Rank | Predicted Indication | TxGNN Score | Evidence Level | Assessment |
 |------|------|------|------|------|
-| 2 | Tendinitis | 99.70% | L5 | Symptomatic relief is plausible through prostaglandin inhibition. Worth investigating as a research question. |
-| 8 | Rheumatoid arthritis | 99.25% | L5 | Symptomatic pain relief in superficial joints is conceivable, not disease-modifying. Research question. |
-| 5 | Fibromyalgia | 99.59% | L5 | Centrally mediated pain, so limited benefit expected. |
-| 9 | Headache disorder | 99.23% | L5 | Limited systemic absorption from topical use. |
-| 10 | Gout | 99.18% | L5 | No urate-lowering effect. |
-| 3, 4, 6 | Idiopathic granulomatous myositis, myositis fibrosa, inclusion body myositis | 99.65%, 99.65%, 99.46% | L5 | No plausible disease-modifying role for a topical salicylate. |
-| 7 | Multiple exostoses | 99.43% | L5 | Genetic skeletal disorder (EXT1/EXT2) unrelated to salicylate pharmacology. |
+| 2 | Tendinitis | 0.9970 | L5 | Symptomatic relief is plausible through prostaglandin inhibition. Worth investigating as a research question. |
+| 8 | Rheumatoid arthritis | 0.9925 | L5 | Symptomatic pain relief in superficial joints is conceivable, not disease-modifying. Research question. |
+| 5 | Fibromyalgia | 0.9959 | L5 | Centrally mediated pain, so limited benefit expected. |
+| 9 | Headache disorder | 0.9923 | L5 | Limited systemic absorption from topical use. |
+| 10 | Gout | 0.9918 | L5 | No urate-lowering effect. |
+| 3, 4, 6 | Idiopathic granulomatous myositis, myositis fibrosa, inclusion body myositis | 0.9965, 0.9965, 0.9946 | L5 | No plausible disease-modifying role for a topical salicylate. |
+| 7 | Multiple exostoses | 0.9943 | L5 | Genetic skeletal disorder (EXT1/EXT2) unrelated to salicylate pharmacology. |
 
-The identical scores for idiopathic granulomatous myositis and myositis fibrosa suggest a shared graph-based inference rather than disease-specific evidence.
+The identical scores for idiopathic granulomatous myositis and myositis fibrosa (0.9965 each) suggest the TxGNN model (deep learning) learned similarities between these related diseases rather than disease-specific evidence.
 
 ## Clinical Trial Evidence
 
@@ -84,9 +84,9 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication | Status |
 |---------|------|------|-----------|------|
-| 505G(a)(3) | MOBISYL | Cream | Not stated | Cancelled |
-| M017 | Arthritis Relief | Cream | Not stated | Cancelled |
-| part348 | Pain Relief Cream | Cream | Not stated | Cancelled |
+| 505G(a)(3) | MOBISYL | Cream | Not stated | Valid |
+| M017 | Arthritis Relief | Cream | Not stated | Valid |
+| part348 | Pain Relief Cream | Cream | Not stated | Valid |
 
 All three licenses are single-ingredient products and all are cancelled. The drug is also recorded in spray form.
 
@@ -101,7 +101,7 @@ No drug-drug interaction records were found, and no contraindications were ident
 **Decision: Hold**
 
 **Rationale:**
-The top prediction (exostosis) rests only on a model score, with no clinical trials or literature and no plausible mechanistic link. In addition, all US licenses are cancelled and the safety label data are missing. Tendinitis and rheumatoid arthritis are more plausible symptomatic-relief directions but are also prediction-only at this stage.
+The top prediction (exostosis) rests only on a score from the TxGNN model (deep learning), with no clinical trials or literature and no plausible mechanistic link. In addition, the drug is marketed with 3 valid licenses, but the safety label data are missing. Tendinitis and rheumatoid arthritis are more plausible symptomatic-relief directions but are also prediction-only at this stage.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # 1 2-Distearoyl-Sn-Glycero-3-Phosphocholine Berberi
@@ -51,8 +52,8 @@ Without predictions, clinical trial evidence, or safety data on file, this candi
 | Predicted New Indication | None — TxGNN pipeline could not run |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (model prediction only — pipeline incomplete) |
-| US Market Status | Not marketed |
-| Number of NDAs | 0 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | **Hold** |
 
 ---

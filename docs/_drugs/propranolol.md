@@ -4,17 +4,17 @@ title: Propranolol
 parent: Model Prediction Only (L5)
 nav_order: 1092
 evidence_level: L5
-indication_count: 6
-last_modified_at: 2026-10-14
-description: "Propranolol: predicted new indication Distal myopathy, Tateyama type (evidence level L5). Approved use: Hypertension"
+indication_count: 4
+last_modified_at: 2026-10-28
 monitor_inn: "PROPRANOLOL"
 predicted_indications: ["distal myopathy, Tateyama type", "congenital myopathy with excess of thin filaments", "chondroma", "cirrhotic cardiomyopathy"]
+description: "Propranolol: predicted new indication Distal myopathy, Tateyama type (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Propranolol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-## Propranolol: From Hypertension to Distal Myopathy, Tateyama Type
+## Propranolol: Distal myopathy, Tateyama type
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ This is a model-only prediction with no supporting evidence in the data compiled
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension (the US license records contain no indication text; original indications come from the knowledge graph) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Distal myopathy, Tateyama type |
-| TxGNN Prediction Score | 99.40% |
+| TxGNN Prediction Score | 0.9940 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses among the 8 records) |
+| US Market Status | Marketed (valid licenses on record: at least 8) |
 | Number of NDAs | 8 (1 NDA and 7 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
@@ -58,15 +58,15 @@ This is a model-only prediction with no supporting evidence in the data compiled
 
 Currently, detailed mechanism of action data is not available. Based on general knowledge, propranolol is a non-selective beta-blocker that reduces heart rate and myocardial contractility. Its efficacy is established in cardiovascular conditions such as hypertension and hypertrophic cardiomyopathy.
 
-The data compiled for this report do not support a mechanistic link between beta-blockade and the pathophysiology of this rare distal myopathy. The high TxGNN score (99.40%) is a computational prediction only, and the relationship to the original indications remains unassessed.
+The data compiled for this report do not support a mechanistic link between beta-blockade and the pathophysiology of this rare distal myopathy. The high TxGNN score (0.9940) is a computational prediction only, and the relationship to the original indications remains unassessed.
 
 Other predictions in the same analysis show the same pattern:
 
-- **Congenital myopathy with excess of thin filaments** (score 99.30%): prediction only, no trials or literature, Hold.
-- **Hypertrophic cardiomyopathy due to intensive athletic training** (99.17%): a conceptual link exists through the on-label hypertrophic cardiomyopathy use, but athletic remodeling is a physiological adaptation, and no evidence was provided. Hold.
-- **Chondroma** (99.14%): no mechanistic link; any anti-angiogenic rationale is speculative. Hold.
-- **Cirrhotic cardiomyopathy** (99.12%): three publications, with mixed findings (see below). Research question, L4.
-- **Cardiomyopathy** (99.12%): many publications, mostly on hypertrophic cardiomyopathy, which is already an approved use. Research question, L3.
+- **Congenital myopathy with excess of thin filaments** (score 0.9930): prediction only, no trials or literature, Hold.
+- Hold.
+- **Chondroma** (0.9914): no mechanistic link; any anti-angiogenic rationale is speculative. Hold.
+- **Cirrhotic cardiomyopathy** (0.9912): three publications, with mixed findings (see below). Research question, L4.
+- **Cardiomyopathy** (0.9912): many publications, mostly on hypertrophic cardiomyopathy, which is already an approved use. Research question, L3.
 
 ## Clinical Trial Evidence
 
@@ -89,7 +89,7 @@ For context, literature was found for two lower-ranked predictions:
 
 ## US Market Information
 
-All 8 US licenses are cancelled; none is currently valid. The records contain no approved-indication text.
+The drug is marketed, with 8 valid licenses. The records contain no approved-indication text.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -123,7 +123,7 @@ Label warnings and contraindications were not available; please refer to the pac
 **Decision: Hold**
 
 **Rationale:**
-The prediction for distal myopathy, Tateyama type rests only on a model score, with no clinical trials, no literature, and no mechanistic rationale. In addition, the knowledge graph lists myopathy and skeletal muscle disease as contraindications for propranolol, and all US licenses are cancelled.
+The prediction for distal myopathy, Tateyama type rests only on a TxGNN model (deep learning) score of 0.9940, with no clinical trials, no literature, and no mechanistic rationale. In addition, the knowledge graph lists myopathy and skeletal muscle disease as contraindications for propranolol, and the drug is marketed with 8 valid licenses.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and a plausible biological link between beta-blockade and this myopathy

@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Arnica Montana Whole Arsenic Trioxide Digitalis Dr
@@ -51,7 +52,7 @@ making a standard drug repurposing evaluation impossible with currently availabl
 | Predicted New Indication | None (TxGNN returned no results) |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — No actual studies; model returned no output |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 

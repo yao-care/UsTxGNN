@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "PROPYLENE GLYCOL"
 predicted_indications: ["bronchitis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "nuclear senile cataract", "cortical cataract", "senile cataract", "diabetic cataract", "diabetes mellitus type 2 associated cataract", "tetanic cataract", "immature cataract"]
 last_modified_at: 2026-10-14
-description: "Propylene Glycol: predicted new indication Bronchitis (evidence level L5). Approved use: Dry eye syndrome"
+description: "Propylene Glycol: predicted new indication Bronchitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Propylene Glycol
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Propylene Glycol: From Dry Eye Syndrome to Bronchitis
+## Propylene Glycol: Bronchitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,11 +48,11 @@ Those publications point toward possible airway harm from inhaled propylene glyc
 
 | Item | Content |
 |------|------|
-| Original Indication | Dry eye syndrome; xerophthalmia (from the knowledge graph, not from product labels) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Bronchitis |
-| TxGNN Prediction Score | 99.90% |
+| TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid authorizations) |
+| US Market Status | Marketed (valid licenses on record: at least 3) |
 | Number of NDAs | 3 (all cancelled) |
 | Recommended Decision | Hold |
 
@@ -64,9 +64,9 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 No credible mechanistic link to bronchitis was found. The retrieved literature discusses e-cigarette aerosol, in which propylene glycol is a vehicle or constituent, as a possible cause or aggravator of airway disease. That is the opposite of a therapeutic signal. The third paper (quercetin in a mouse COPD model) does not involve propylene glycol.
 
-The high TxGNN score (99.90%) is therefore not supported by clinical evidence. It is likely a graph-based inference and should be treated cautiously.
+The high TxGNN score (0.9990) is therefore not supported by clinical evidence. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It should be treated cautiously.
 
-Other predicted indications are also unsupported. These include severe nonproliferative diabetic retinopathy, several cataract types (nuclear senile, cortical, senile, diabetic, type 2 diabetes-associated, tetanic, immature), and diabetic retinopathy. All have scores above 99.5%. Most have no trials or literature. For diabetic retinopathy, the only evidence is indirect, as detailed below.
+Other predicted indications are also unsupported. These include severe nonproliferative diabetic retinopathy, several cataract types (nuclear senile, cortical, senile, diabetic, type 2 diabetes-associated, tetanic, immature), and diabetic retinopathy. All have TxGNN scores of 0.9953 or higher. Most have no trials or literature. For diabetic retinopathy, the only evidence is indirect, as detailed below.
 
 ---
 
@@ -106,11 +106,11 @@ Evidence from the diabetic retinopathy prediction (rank 3) is also not direct:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| M018 | Equate Complete Relief Lubricant Eye Drops (Cancelled) | Solution/drops | Not specified |
-| M003 | Instant Hand Sanitizeing Wipe (Cancelled) | Cloth | Not specified |
-| M031 | EGHMTW hair oil (Cancelled) | Liquid | Not specified |
+| M018 | Equate Complete Relief Lubricant Eye Drops (Valid) | Solution/drops | Not specified |
+| M003 | Instant Hand Sanitizeing Wipe (Valid) | Cloth | Not specified |
+| M031 | EGHMTW hair oil (Valid) | Liquid | Not specified |
 
-All three authorizations are cancelled, and no currently valid single-ingredient or combination authorization exists.
+The drug is marketed, and 3 valid authorizations are on record.
 
 ---
 

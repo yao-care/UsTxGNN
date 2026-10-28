@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Irinotecan
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 810
-evidence_level: L3
+evidence_level: L5
 indication_count: 1
 monitor_inn: "IRINOTECAN"
 predicted_indications: ["female breast carcinoma"]
 last_modified_at: 2026-10-14
-description: "Irinotecan: predicted new indication Female breast carcinoma (evidence level L3). Approved use: Metastatic colorectal cancer"
+description: "Irinotecan: predicted new indication Female breast carcinoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Irinotecan
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **1** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L3** | Predicted Indications: **1**
 
 </div>
 
-## Irinotecan: From Metastatic Colon Cancer and Pancreatic Adenocarcinoma to Female Breast Carcinoma
+## Irinotecan: Female breast carcinoma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,11 +45,11 @@ The TxGNN model predicts it may be effective for **female breast carcinoma**, bu
 
 | Item | Content |
 |------|------|
-| Original Indication | Metastatic colorectal cancer; pancreatic adenocarcinoma (from the knowledge graph; no approved-indication text is available in the US license records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Female breast carcinoma |
-| TxGNN Prediction Score | 99.08% |
-| Evidence Level | L3 |
-| US Market Status | Cancelled only (all 9 licenses cancelled) |
+| TxGNN Prediction Score | 0.9908 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 9) |
 | Number of NDAs | 9 (includes NDA and ANDA records) |
 | Recommended Decision | Hold |
 
@@ -92,7 +92,7 @@ The high TxGNN score is a computational prediction and does not replace clinical
 
 ## US Market Information
 
-All 9 US licenses are listed as cancelled, and no approved-indication text is available in the records.
+The records list 9 valid US licenses, and no approved-indication text is available in the records.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -124,7 +124,7 @@ Official label warnings and contraindications were not available for this report
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is high, but the only trial testing irinotecan directly in breast cancer is a 12-patient Phase 1 study. Supportive data come mostly from SN-38 conjugates and liposomal or PEGylated formulations, which do not validate free irinotecan. Older reviews describe marginal single-agent activity. Official label safety data are also missing, and all US licenses are cancelled. At present this is a research question rather than a development candidate.
+The TxGNN score is high, but the only trial testing irinotecan directly in breast cancer is a 12-patient Phase 1 study. Supportive data come mostly from SN-38 conjugates and liposomal or PEGylated formulations, which do not validate free irinotecan. Older reviews describe marginal single-agent activity. Official label safety data are also missing, although the drug is marketed in the US with 9 valid licenses. At present this is a research question rather than a development candidate.
 
 **To proceed, the following is needed:**
 - Official FDA label warnings and contraindications, which block safety screening

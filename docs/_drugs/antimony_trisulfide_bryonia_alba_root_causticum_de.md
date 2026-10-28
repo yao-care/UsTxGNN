@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Antimony Trisulfide Bryonia Alba Root Causticum De
@@ -51,7 +52,7 @@ With zero clinical trials, no supporting literature, and no regulatory approvals
 | Predicted New Indication | None |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — no predictions generated |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 6) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 
@@ -110,7 +111,7 @@ The TxGNN model produced no repurposing predictions because this multi-ingredien
 - **Obtain MOA data**: Query DrugBank, ChEMBL, or primary pharmacology literature for each ingredient.
 - **Retrieve safety dossier**: Download the product insert (or TFDA submission records) to extract contraindications, warnings, and drug interaction data — currently a blocking data gap (DG001).
 - **Clarify regulatory pathway**: Determine whether this product is governed by homeopathic product regulations or conventional drug regulations, as this affects which evaluation framework applies.
-- **Re-run TxGNN pipeline**: Once at least one ingredient has a valid DrugBank mapping, re-submit for knowledge-graph prediction on a per-ingredient basis.
+- **Re-run TxGNN pipeline**: Once at least one ingredient has a valid DrugBank mapping, re-submit for TxGNN model (deep learning) prediction on a per-ingredient basis.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

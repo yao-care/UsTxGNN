@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Alpha Lipoic Acid Apiole Arnica Montana Whole Cinn
@@ -51,7 +52,7 @@ Without a mappable pharmacological entity and a prediction target, no evidence-b
 | Predicted New Indication | None — no TxGNN predictions generated |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | N/A — evaluation not possible |
-| US Market Status | Not Marketed |
+| US Market Status | Marketed (valid licenses on record: at least 12) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Abies Alba Leafy Twig Beef Lung Bos Taurus Nasal M
@@ -51,7 +52,7 @@ With **0 clinical trials** and **0 publications** linkable to this specific comb
 | Predicted New Indication | No predictions available |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (model prediction only — no predictions generated) |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 1) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

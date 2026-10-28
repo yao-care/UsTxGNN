@@ -47,23 +47,23 @@ The TxGNN model predicts it may be effective for **attention deficit hyperactivi
 |------|------|
 | Original Indication | Not stated in the available license data |
 | Predicted New Indication | Attention deficit hyperactivity disorder, inattentive type |
-| TxGNN Prediction Score | 99.75% |
+| TxGNN Prediction Score | 0.9975 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 1 (an ANDA, cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 Other predicted indications, all L5 with a Hold recommendation:
 
 | Rank | Predicted Indication | TxGNN Score | Mechanistic Plausibility |
 |------|------|------|------|
-| 2 | Irritable bowel syndrome | 99.74% | Plausible (the most credible candidate): antispasmodic activity resembles hyoscine and dicyclomine |
-| 3 | Specific developmental disorder | 99.56% | No plausible link |
-| 4 | Attention deficit-hyperactivity disorder | 99.39% | Doubtful: anticholinergic activity would be expected to impair attention |
-| 5 | Cauda equina syndrome | 99.27% | At most symptomatic bladder relief; does not address the underlying compression |
-| 6 | Neurogenic bladder (obsolete term) | 99.13% | Plausible: detrusor relaxation overlaps with the symptoms; the term should be updated (e.g., neurogenic detrusor overactivity) |
-| 7 | Gastroduodenitis | 99.12% | Theoretical only; no evidence against mucosal inflammation |
-| 8 | Peptic ulcer disease | 99.10% | Low priority given modern standard of care |
+| 2 | Irritable bowel syndrome | 0.9974 | Plausible (the most credible candidate): antispasmodic activity resembles hyoscine and dicyclomine |
+| 3 | Specific developmental disorder | 0.9956 | No plausible link |
+| 4 | Attention deficit-hyperactivity disorder | 0.9939 | Doubtful: anticholinergic activity would be expected to impair attention |
+| 5 | Cauda equina syndrome | 0.9927 | At most symptomatic bladder relief; does not address the underlying compression |
+| 6 | Neurogenic bladder (obsolete term) | 0.9913 | Plausible: detrusor relaxation overlaps with the symptoms; the term should be updated (e.g., neurogenic detrusor overactivity) |
+| 7 | Gastroduodenitis | 0.9912 | Theoretical only; no evidence against mucosal inflammation |
+| 8 | Peptic ulcer disease | 0.9910 | Low priority given modern standard of care |
 
 ## Why is This Prediction Reasonable?
 

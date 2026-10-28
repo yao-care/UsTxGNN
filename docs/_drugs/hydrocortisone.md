@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Hydrocortisone
-parent: Model Prediction Only (L5)
+parent: High Evidence (L1-L2)
 nav_order: 776
-evidence_level: L5
-indication_count: 10
+evidence_level: L1
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Hydrocortisone: predicted new indication Alopecia areata (evidence level L5). Approved use: Adrenocortical insufficiency / Addison disease…"
 monitor_inn: "HYDROCORTISONE"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
+description: "Hydrocortisone: predicted new indication Alopecia areata (evidence level L1). Approved use: Not recorded in the local data"
 ---
 
 # Hydrocortisone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L1** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Hydrocortisone: From Adrenocortical Insufficiency and Inflammatory Conditions to Alopecia Areata
+## Hydrocortisone: Alopecia areata
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,11 +45,11 @@ The TxGNN model predicts it may be effective for **alopecia areata**, but only *
 
 | Item | Content |
 |------|------|
-| Original Indication | Adrenocortical insufficiency / Addison disease, Crohn disease and other inflammatory bowel disease, autoimmune disease, tinea pedis, and others (the data compiled for this report did not include approved-indication text from the labels) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Alopecia areata |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L1 (formally met by one Phase 3 RCT, but see caveats below) |
-| US Market Status | Cancelled only (no currently valid listings) |
+| US Market Status | Marketed (valid licenses on record: at least 9) |
 | Number of NDAs | 9 (all cancelled; the records are mostly ANDA or OTC monograph entries) |
 | Recommended Decision | Hold |
 
@@ -111,7 +111,7 @@ Please refer to the package insert for official warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-Although one completed Phase 3 trial formally meets the L1 criterion, hydrocortisone 1% was only the comparator and performed worse than clobetasol. The other literature is mostly old case reports. No currently valid US listings exist. There is therefore no direct evidence that hydrocortisone is effective for alopecia areata, and higher-potency corticosteroids are already the established option.
+Although one completed Phase 3 trial formally meets the L1 criterion, hydrocortisone 1% was only the comparator and performed worse than clobetasol. The other literature is mostly old case reports. There is therefore no direct evidence that hydrocortisone is effective for alopecia areata, and higher-potency corticosteroids are already the established option.
 
 **To proceed, the following is needed:**
 - Official package insert warnings and contraindications

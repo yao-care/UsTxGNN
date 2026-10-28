@@ -4,17 +4,17 @@ title: Zileuton
 parent: Model Prediction Only (L5)
 nav_order: 1305
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-14
-description: "Zileuton: predicted new indication Bronchitis (evidence level L5). Approved use: Intrinsic asthma, allergic asthma"
 monitor_inn: "ZILEUTON"
 predicted_indications: ["bronchitis", "obstructive lung disease", "atopic eczema", "bronchial neoplasm (disease)", "Laubry-Pezzi syndrome", "heart disease", "interventricular septum aneurysm", "genetic syndromic Pierre Robin syndrome"]
+description: "Zileuton: predicted new indication Bronchitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Zileuton
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Zileuton: From Asthma to Bronchitis
+## Zileuton: Bronchitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ The strongest nearby signals are in other airway conditions, such as obstructive
 
 | Item | Content |
 |------|------|
-| Original Indication | Intrinsic asthma, allergic asthma |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Bronchitis |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 (model prediction only) |
-| US Market Status | Cancelled only (no active marketed product) |
-| Number of NDAs | 3 (all cancelled; listed under ANDA numbers) |
+| US Market Status | Marketed (valid licenses: 3 of 3) |
+| Number of NDAs | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -62,11 +62,10 @@ Asthma and bronchitis are both inflammatory airway diseases, so dampening leukot
 
 **Other predictions worth noting** (ranked by evidence rather than score):
 
-- **Obstructive lung disease (score 99.87%, L1 by the pack's scoring):** A Phase 3 trial in COPD exacerbations (NCT00493974) was terminated, so it gives no confirmed efficacy result. Most supporting trials are in asthma.
-- **Bronchial neoplasm (score 99.48%, L2):** Two completed Phase 2 trials exist, one in bronchial dysplasia (chemoprevention) and one combining eicosanoid modulators with chemotherapy in advanced NSCLC. There is no Phase 3 support.
-- **Atopic eczema (score 99.49%, L3):** A small pilot study and a related report exist, plus preclinical itch models.
-- **Heart disease (score 99.07%, L4):** Evidence is animal-based only.
-- **Asthma (score 99.72%):** This is the original indication, so it is not true repurposing.
+- **Obstructive lung disease (score 0.9987, L1 by the pack's scoring):** A Phase 3 trial in COPD exacerbations (NCT00493974) was terminated, so it gives no confirmed efficacy result. Most supporting trials are in asthma.
+- **Bronchial neoplasm (score 0.9948, L2):** Two completed Phase 2 trials exist, one in bronchial dysplasia (chemoprevention) and one combining eicosanoid modulators with chemotherapy in advanced NSCLC. There is no Phase 3 support.
+- **Atopic eczema (score 0.9949, L3):** A small pilot study and a related report exist, plus preclinical itch models.
+- **Heart disease (score 0.9907, L4):** Evidence is animal-based only.
 - Several other high-scoring predictions (asthma-related traits, Laubry-Pezzi syndrome, interventricular septum aneurysm, Pierre Robin syndrome) have no trials, no literature and no plausible mechanism, and are likely network artifacts.
 
 ## Clinical Trial Evidence
@@ -104,15 +103,15 @@ For reference, the main publications from the neighboring airway predictions are
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA215742 | Zileuton (Camber Pharmaceuticals) | Tablet, film coated, extended release | Not specified; status cancelled |
-| ANDA212670 | Zileuton (Strides Pharma Science) | Tablet, multilayer, extended release | Not specified; status cancelled |
-| ANDA204929 | Zileuton (Rising Pharma Holdings) | Tablet, extended release | Not specified; status cancelled |
+| ANDA215742 | Zileuton (Camber Pharmaceuticals) | Tablet, film coated, extended release | Not specified; status valid |
+| ANDA212670 | Zileuton (Strides Pharma Science) | Tablet, multilayer, extended release | Not specified; status valid |
+| ANDA204929 | Zileuton (Rising Pharma Holdings) | Tablet, extended release | Not specified; status valid |
 
-All three authorizations are cancelled, so no zileuton product is currently marketed in the US under these listings.
+All three authorizations are valid, so zileuton is currently marketed in the US under these listings.
 
 ## Safety Considerations
 
-- **Contraindications (from knowledge-graph associations, not label text):** anxiety disorder, neurotic disorder, dysthymic disorder, liver disease, gallbladder disease, anxiety.
+- **Contraindications (from the TxGNN model (deep learning), not label text; may reflect similarities the model learned between related diseases, not biological evidence):** anxiety disorder, neurotic disorder, dysthymic disorder, liver disease, gallbladder disease, anxiety.
 - **Hepatotoxicity:** About 2% of patients in controlled trials had reversible liver enzyme elevations, so liver function monitoring is advisable.
 - **Drug Interactions:** 56 interactions are known. One is Major: terfenadine. The others shown are Moderate and include theophylline, aminophylline, oxtriphylline, warfarin, tacrolimus, roflumilast, pentoxifylline, cisapride, astemizole, naltrexone, deferasirox, alosetron, eliglustat, obeticholic acid, troglitazone, fostamatinib, ivacaftor, osilodrostat and somatrem.
 
@@ -123,7 +122,7 @@ Please refer to the package insert for formal warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The bronchitis prediction rests on a very high model score alone, with no clinical trials and no literature. In addition, all US authorizations are cancelled, and there is a liver safety concern.
+The bronchitis prediction rests on a very high score from the TxGNN model (deep learning) alone, with no clinical trials and no literature. In addition, there is a liver safety concern.
 
 **To proceed, the following is needed:**
 - Any clinical or preclinical evidence specific to bronchitis

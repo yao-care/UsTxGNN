@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Aluminum Oxide Calcium Silicate Iron Magnesium Sul
@@ -51,7 +52,7 @@ Evaluation cannot proceed until foundational drug-level data — including mecha
 | Predicted New Indication | None identified |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | N/A |
-| Market Status | Not marketed |
+| Market Status | Marketed (valid licenses on record: at least 6) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

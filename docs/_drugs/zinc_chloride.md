@@ -48,9 +48,9 @@ Currently there are **0 clinical trials** and **0 publications** supporting this
 |------|------|
 | Original Indication | Not available in the compiled data |
 | Predicted New Indication | Severe nonproliferative diabetic retinopathy |
-| TxGNN Prediction Score | 99.34% |
+| TxGNN Prediction Score | 0.9934 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all licenses cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of NDAs | 5 |
 | Recommended Decision | Hold |
 
@@ -58,11 +58,11 @@ Currently there are **0 clinical trials** and **0 publications** supporting this
 
 Currently, detailed mechanism of action data is not available. Zinc chloride is a zinc salt, and zinc is an essential cofactor for many enzymes, including the antioxidant enzyme Cu/Zn superoxide dismutase. The compiled data do not record a specific original indication.
 
-Oxidative stress and inflammation contribute to diabetic retinopathy, so a link through zinc's antioxidant and anti-inflammatory roles is plausible but unverified. The high TxGNN score (0.993) is a computational prediction only. The route of administration and formulation for this use are undefined, and retinal delivery has not been established.
+Oxidative stress and inflammation contribute to diabetic retinopathy, so a link through zinc's antioxidant and anti-inflammatory roles is plausible but unverified. The high TxGNN score (0.9934) is a computational prediction only. The route of administration and formulation for this use are undefined, and retinal delivery has not been established.
 
 Two other predictions were also generated, both also at L5 with a Hold recommendation:
-- **Sjogren syndrome** (score 99.18%): Zinc is involved in immune regulation and epithelial integrity, but the link is speculative. A systemic autoimmune disease would need a much stronger evidence base than a supplemental or topical use.
-- **Dry eye syndrome** (score 99.18%): Zinc plays a role in ocular surface epithelial health, wound healing, and antioxidant processes. However, zinc chloride is an irritant at higher concentrations, so ocular tolerability would need to be established first.
+- **Sjogren syndrome** (score 0.9918): Zinc is involved in immune regulation and epithelial integrity, but the link is speculative. A systemic autoimmune disease would need a much stronger evidence base than a supplemental or topical use.
+- **Dry eye syndrome** (score 0.9918): Zinc plays a role in ocular surface epithelial health, wound healing, and antioxidant processes. However, zinc chloride is an irritant at higher concentrations, so ocular tolerability would need to be established first.
 
 ## Clinical Trial Evidence
 
@@ -74,14 +74,14 @@ Currently no related literature available.
 
 ## US Market Information
 
-All five licenses are cancelled; none is currently valid. The data compiled for this report do not include approved indication text.
+The drug is marketed, with five valid licenses. The data compiled for this report do not include approved indication text.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| ANDA212007 | Zinc Chloride (Exela Pharma Sciences) | Injection | Cancelled |
-| NDA018959 | ZINC (Hospira) | Injection, solution | Cancelled |
-| ANDA216152 | Zinc Chloride (Somerset Therapeutics) | Injection | Cancelled |
-| M022 | Gumsol (Kramer Novis) | Spray | Cancelled |
+| ANDA212007 | Zinc Chloride (Exela Pharma Sciences) | Injection | Valid |
+| NDA018959 | ZINC (Hospira) | Injection, solution | Valid |
+| ANDA216152 | Zinc Chloride (Somerset Therapeutics) | Injection | Valid |
+| M022 | Gumsol (Kramer Novis) | Spray | Valid |
 | Not listed | Zincum Muriaticum (Hahnemann Laboratories) | Pellet | Cancelled |
 
 ## Safety Considerations
@@ -97,7 +97,7 @@ Please also refer to the package insert for full safety information, since label
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score, with no clinical trials or literature (evidence level L5). All US licenses are cancelled, the mechanism of action is undocumented, and the route and formulation for retinal or ocular use are undefined.
+The prediction is supported only by a model score, with no clinical trials or literature (evidence level L5). The drug is marketed in the US with five valid licenses, the mechanism of action is undocumented, and the route and formulation for retinal or ocular use are undefined.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Brentuximab Vedotin
-parent: Model Prediction Only (L5)
+parent: High Evidence (L1-L2)
 nav_order: 467
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Brentuximab Vedotin: predicted new indication Follicular lymphoma (evidence level L5). Approved use: Hodgkin lymphoma (classic Hodgkin lymphoma and related subtypes)"
@@ -14,7 +14,7 @@ predicted_indications: ["follicular lymphoma", "myeloid leukemia", "acute lympho
 # Brentuximab Vedotin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L2** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **follicular lymphoma**, but th
 |------|------|
 | Original Indication | Hodgkin lymphoma (classic Hodgkin lymphoma and related subtypes) |
 | Predicted New Indication | Follicular lymphoma |
-| TxGNN Prediction Score | 99.89% |
+| TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L2 (as assigned in the compiled data; see note below) |
-| US Market Status | Cancelled only (1 BLA, cancelled) |
-| Number of NDAs | 1 (BLA125388) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 **Note on evidence level:** The compiled data labels this indication L2, but no completed Phase 2/3 RCT exists for follicular lymphoma. The only directly relevant trial (NCT04587687) is a single-arm Phase 2 that is still recruiting. By the rules above, the evidence is closer to L4–L5, and I treat it that way in the decision below.
@@ -101,7 +101,7 @@ None of the publications below reports efficacy of brentuximab vedotin in follic
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA125388 | ADCETRIS (SEAGEN INC.) | Injection, powder, lyophilized, for solution | Not listed in the compiled data; status: cancelled |
+| BLA125388 | ADCETRIS (SEAGEN INC.) | Injection, powder, lyophilized, for solution | Not listed in the compiled data; status: valid |
 
 ---
 

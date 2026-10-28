@@ -6,7 +6,7 @@ nav_order: 536
 evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Clobazam: predicted new indication Childhood onset epileptic encephalopathy (evidence level L3). Approved use: Lennox-Gastaut syndrome"
+description: "Clobazam: predicted new indication febrile infection-related epilepsy syndrome (evidence level L3). Approved use: Lennox-Gastaut syndrome"
 monitor_inn: "CLOBAZAM"
 predicted_indications: ["febrile infection-related epilepsy syndrome", "perioral myoclonia with absences", "cryptogenic late-onset epileptic spasms", "photosensitive occipital lobe epilepsy", "atypical childhood epilepsy with centrotemporal spikes", "childhood onset epileptic encephalopathy", "benign occipital epilepsy", "early-onset epileptic encephalopathy and intellectual disability due to GRIN2A mutation", "restless legs syndrome", "polymicrogyria with optic nerve hypoplasia"]
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-## Clobazam: From Lennox-Gastaut Syndrome to Childhood Onset Epileptic Encephalopathy
+## Clobazam: From Lennox-Gastaut Syndrome to Febrile Infection-Related Epilepsy Syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,9 +48,9 @@ Currently **0 clinical trials** are registered, but **20 publications** (guideli
 |------|------|
 | Original Indication | Lennox-Gastaut syndrome (the approved indication text in the US licence records is empty) |
 | Predicted New Indication | Childhood onset epileptic encephalopathy (the top-ranked prediction by TxGNN score is febrile infection-related epilepsy syndrome, but it has only L4 evidence from two case reports; this report focuses on the best-supported candidate) |
-| TxGNN Prediction Score | 99.60% (febrile infection-related epilepsy syndrome, the top-ranked prediction: 99.82%) |
+| TxGNN Prediction Score | 0.9982 (febrile infection-related epilepsy syndrome) |
 | Evidence Level | L3 |
-| US Market Status | Cancelled only (all licences are listed as cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 15) |
 | Number of NDAs | 15 licences in total (3 NDAs, 12 ANDAs) |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -90,7 +90,7 @@ The 20 retrieved publications are mostly reviews and guidelines. None is a rando
 
 ## US Market Information
 
-All 15 licences in the data are recorded as cancelled, and no approved indication text was available. The five main authorizations are listed below.
+The data records 15 valid licences for this marketed drug, and no approved indication text was available. The five main authorizations are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -120,7 +120,7 @@ For childhood onset epileptic encephalopathy, clobazam's role is supported by gu
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
-- Verification of current US marketing status, since all 15 licences are recorded as cancelled
+- Verification of current US marketing status against the 15 valid licences recorded in the data
 - Phase 3 LGS evidence and any clobazam-specific data in non-LGS encephalopathies
 - Safety monitoring plan covering tolerance, sedation, behavioural effects and DDIs in children
 ## Disclaimer

@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "POTASSIUM CHLORIDE"
 predicted_indications: ["renal tubular acidosis"]
 last_modified_at: 2026-10-14
-description: "Potassium Chloride: predicted new indication Renal tubular acidosis (evidence level L4). Approved use: Potassium deficiency disease"
+description: "Potassium Chloride: predicted new indication Renal tubular acidosis (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Potassium Chloride
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **1**
 
 </div>
 
-## Potassium Chloride: From Potassium Deficiency to Renal Tubular Acidosis
+## Potassium Chloride: Renal tubular acidosis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,11 +45,11 @@ The TxGNN model predicts it may be useful for **Renal Tubular Acidosis**, but th
 
 | Item | Content |
 |------|------|
-| Original Indication | Potassium deficiency disease; constipation disorder (from the knowledge graph; no approved-label indication text is available) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Renal tubular acidosis |
-| TxGNN Prediction Score | 99.87% |
+| TxGNN Prediction Score | 0.9987 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (all 15 listed authorizations are cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 15) |
 | Number of NDAs | 15 (all ANDA or unnumbered listings, none currently valid) |
 | Recommended Decision | Hold |
 
@@ -84,7 +84,7 @@ The available literature consists mainly of case reports, reviews and cohort des
 
 ## US Market Information
 
-All 15 authorizations in the data are cancelled and none are currently valid. The data contain no approved-indication text. The main ones are:
+All 15 authorizations in the data are valid. The data contain no approved-indication text. The main ones are:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -110,7 +110,7 @@ Package insert warnings were not available for this report; please refer to the 
 **Decision: Hold**
 
 **Rationale:**
-The prediction mostly restates the drug's original use (correcting hypokalemia), and no clinical trials or controlled studies exist for renal tubular acidosis. Potassium chloride is not disease-modifying here, and alkali-potassium salts such as potassium citrate are generally better suited. In addition, all US authorizations in the data are cancelled, and package insert safety data are missing.
+The prediction mostly restates the drug's original use (correcting hypokalemia), and no clinical trials or controlled studies exist for renal tubular acidosis. Potassium chloride is not disease-modifying here, and alkali-potassium salts such as potassium citrate are generally better suited. In addition, the drug is marketed in the US with 15 valid authorizations in the data, and package insert safety data are missing.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (currently unavailable)

@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Arnica Montana Root Calcium Phosphate Dibasic Anhy
@@ -51,7 +52,7 @@ As a result, this evaluation is based on structural data only, with **no clinica
 | Predicted New Indication | None (TxGNN mapping failed) |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — Model prediction unavailable; no supporting studies identified |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 6) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

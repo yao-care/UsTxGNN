@@ -4,17 +4,17 @@ title: Enzalutamide
 parent: Model Prediction Only (L5)
 nav_order: 657
 evidence_level: L5
-indication_count: 7
+indication_count: 5
 last_modified_at: 2026-10-14
-description: "Enzalutamide: predicted new indication Prostate cancer/brain cancer susceptibility (evidence level L5). Approved use: Prostate cancer"
 monitor_inn: "ENZALUTAMIDE"
 predicted_indications: ["prostate leiomyoma", "Brenner tumor", "fibroma of prostate", "benign reproductive system neoplasm", "benign prostate phyllodes tumor"]
+description: "Enzalutamide: predicted new indication Prostate leiomyoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Enzalutamide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **7** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-## Enzalutamide: From Prostate Cancer to Prostate Cancer/Brain Cancer Susceptibility
+## Enzalutamide: Prostate leiomyoma
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Enzalutamide is an androgen receptor inhibitor, originally used to treat prostate cancer.
-The TxGNN model predicts it may be relevant to **prostate cancer/brain cancer susceptibility**, but this is a **prediction only**, with **0 clinical trials** and **0 publications** supporting it.
 
 ---
 
@@ -47,12 +46,12 @@ The TxGNN model predicts it may be relevant to **prostate cancer/brain cancer su
 
 | Item | Content |
 |------|------|
-| Original Indication | Prostate cancer |
-| Predicted New Indication | Prostate cancer/brain cancer susceptibility |
-| TxGNN Prediction Score | 99.71% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Prostate leiomyoma |
+| TxGNN Prediction Score | 0.9957 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 2 |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ---
@@ -61,7 +60,7 @@ The TxGNN model predicts it may be relevant to **prostate cancer/brain cancer su
 
 Detailed mechanism of action data is not available in the data compiled for this report. Enzalutamide is known to be an androgen receptor inhibitor. It blocks ligand binding, nuclear translocation, and DNA binding of the receptor, which fits androgen-driven prostate malignancy.
 
-The predicted indication is a germline susceptibility category that overlaps with prostate cancer, the approved indication. It is not a distinct, treatable disease. There is also no evidence that brain cancer depends on androgen receptor signaling. The high score (0.997) most likely reflects network proximity in the knowledge graph rather than a true mechanistic rationale, so the prediction should be treated with caution.
+The predicted indication is a germline susceptibility category that overlaps with prostate cancer, the approved indication. It is not a distinct, treatable disease. There is also no evidence that brain cancer depends on androgen receptor signaling.
 
 ---
 
@@ -81,8 +80,8 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA213674 | Xtandi (Astellas Pharma US, Inc.) | Tablet | Not listed (status: cancelled) |
-| NDA203415 | Xtandi (Astellas Pharma US, Inc.) | Capsule | Not listed (status: cancelled) |
+| NDA213674 | Xtandi (Astellas Pharma US, Inc.) | Tablet | Not listed (status: valid) |
+| NDA203415 | Xtandi (Astellas Pharma US, Inc.) | Capsule | Not listed (status: valid) |
 
 ---
 
@@ -115,7 +114,7 @@ For other safety information (warnings, contraindications), please refer to the 
 **Rationale:**
 The prediction has no supporting trials or publications (L5). It also overlaps with enzalutamide's existing prostate cancer indication, and there is no known androgen-receptor-driven mechanism in brain cancer. Both US NDAs are currently listed as cancelled.
 
-Among the other predictions, "male reproductive organ cancer" has the most data (L1, including Phase 3 trials such as ENZAMET). That evidence is almost entirely in prostate cancer, so it largely rediscovers the existing use rather than showing a new indication.
+That evidence is almost entirely in prostate cancer, so it largely rediscovers the existing use rather than showing a new indication.
 
 **To proceed, the following is needed:**
 - Clarification of whether the "prostate cancer/brain cancer susceptibility" category represents a distinct, treatable disease.

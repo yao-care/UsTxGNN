@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Lansoprazole
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 835
-evidence_level: L4
-indication_count: 2
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-14
-description: "Lansoprazole: predicted new indication Duodenogastric reflux (evidence level L4). Approved use: Gastric ulcer, peptic ulcer disease, gastroesophageal reflux disease…"
 monitor_inn: "LANSOPRAZOLE"
 predicted_indications: ["duodenal obstruction"]
+description: "Lansoprazole: predicted new indication Duodenal obstruction (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Lansoprazole
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **2** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,28 +33,27 @@ Evidence Level: **L4** | Predicted Indications: **2**
 
 </div>
 
-## Lansoprazole: From Gastric Ulcer and Reflux Disease to Duodenogastric Reflux
+## Lansoprazole: Duodenal obstruction
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Lansoprazole is a proton pump inhibitor originally used for acid-related upper gastrointestinal conditions such as gastric ulcer, duodenal ulcer, gastroesophageal reflux disease and Zollinger-Ellison syndrome.
-The TxGNN model predicts it may be effective for **duodenogastric reflux**,
 but currently there are **0 clinical trials** and only **1 general review article** supporting this direction, so this is a computational prediction and a research question rather than a validated use.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Gastric ulcer, peptic ulcer disease, gastroesophageal reflux disease, esophagitis, duodenal ulcer, Zollinger-Ellison syndrome (from the knowledge graph; no label text available) |
-| Predicted New Indication | Duodenogastric reflux |
-| TxGNN Prediction Score | 99.69% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid authorizations in the compiled data) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Duodenal obstruction |
+| TxGNN Prediction Score | 0.9968 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 10) |
 | Number of NDAs | 10 (all cancelled; 1 NDA and 9 ANDAs) |
 | Recommended Decision | Hold |
 
-A second prediction, **duodenal obstruction** (score 99.68%), was also generated. It has no trials or literature (Evidence Level L5) and no clear mechanistic link, so it is not pursued further here.
+A second prediction, **duodenal obstruction** (score 0.9968), was also generated. It has no trials or literature (Evidence Level L5) and no clear mechanistic link, so it is not pursued further here.
 
 ## Why is This Prediction Reasonable?
 
@@ -76,11 +75,11 @@ Currently no related clinical trials registered.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA021428 | Prevacid SoluTab (Takeda) | Orally disintegrating delayed-release tablet | Not available (status: cancelled) |
-| ANDA202366 | Lansoprazole (Bryant Ranch Prepack) | Delayed-release pellet capsule | Not available (status: cancelled) |
-| ANDA200816 | Lansoprazole (Zydus) | Orally disintegrating tablet | Not available (status: cancelled) |
-| ANDA205868 | Lansoprazole (Preferred Pharmaceuticals) | Delayed-release capsule | Not available (status: cancelled) |
-| ANDA207394 | Lansoprazole (Medcore) | Delayed-release capsule | Not available (status: cancelled) |
+| NDA021428 | Prevacid SoluTab (Takeda) | Orally disintegrating delayed-release tablet | Not available (status: valid) |
+| ANDA202366 | Lansoprazole (Bryant Ranch Prepack) | Delayed-release pellet capsule | Not available (status: valid) |
+| ANDA200816 | Lansoprazole (Zydus) | Orally disintegrating tablet | Not available (status: valid) |
+| ANDA205868 | Lansoprazole (Preferred Pharmaceuticals) | Delayed-release capsule | Not available (status: valid) |
+| ANDA207394 | Lansoprazole (Medcore) | Delayed-release capsule | Not available (status: valid) |
 
 Five more authorizations (all cancelled, 10 in total) are on record and not listed here.
 
@@ -96,7 +95,7 @@ Please refer to the package insert for full warnings, as label warnings were not
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a very high model score but no clinical trials and only one general review that does not address duodenogastric reflux. Mechanistically, acid suppression would at best relieve symptoms rather than treat the reflux itself. The drug also has no currently valid US authorizations in the compiled data, and the label safety data is missing.
+Mechanistically, acid suppression would at best relieve symptoms rather than treat the reflux itself.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Alpha -Tocopherol Beta -Carotene American Ginseng 
@@ -51,7 +52,7 @@ As a result, **no evidence-based new indication can be assessed at this time**.
 | Predicted New Indication | None (TxGNN prediction not generated) |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | Below L5 — no model output available |
-| US Market Status | Not marketed (Taiwan: Not marketed; 0 approved licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

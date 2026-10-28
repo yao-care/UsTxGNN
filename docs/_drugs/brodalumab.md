@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "BRODALUMAB"
 predicted_indications: ["strongyloidiasis", "eye disease", "vitamin deficiency disorder", "von Hippel anomaly", "isolated optic neuritis", "optic perineuritis", "chronic relapsing inflammatory optic neuropathy", "recurrent idiopathic neuroretinitis", "episcleritis periodica fugax", "nodular episcleritis"]
-last_modified_at: 2026-10-14
-description: "Brodalumab: predicted new indication Strongyloidiasis (evidence level L5). Approved use: Not available in the data compiled for this report"
+last_modified_at: 2026-10-28
+description: "Brodalumab: predicted new indication Strongyloidiasis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Brodalumab
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Brodalumab: From an Unspecified Original Indication to Strongyloidiasis
+## Brodalumab: Strongyloidiasis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,23 +45,23 @@ The TxGNN model predicts it may be effective for **strongyloidiasis**, but **0 c
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in the data compiled for this report |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Strongyloidiasis |
-| TxGNN Prediction Score | 99.84% |
+| TxGNN Prediction Score | 0.9984 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 (BLA761032) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the compiled data. From the drug's known class, brodalumab is an IL-17 receptor A inhibitor, and this is the basis for the analysis below.
 
-The prediction is weakly supported at best. IL-17 signaling contributes to mucosal and anti-helminth immunity, so blocking it would be expected to impair host defence rather than help. Immunosuppressive biologics also raise concern about *Strongyloides* hyperinfection. The high TxGNN score (99.84%) therefore looks like a network-based artifact rather than a sign of true therapeutic potential. No clinical trials or literature back this indication.
+The prediction is weakly supported at best. IL-17 signaling contributes to mucosal and anti-helminth immunity, so blocking it would be expected to impair host defence rather than help. Immunosuppressive biologics also raise concern about *Strongyloides* hyperinfection. The high TxGNN score (0.9984) therefore looks like a network-based artifact rather than a sign of true therapeutic potential. No clinical trials or literature back this indication.
 
 For context, the other top predictions are also unsupported:
 
-- **Eye disease (rank 2, 99.82%)**: the only prediction with any literature (3 papers, L4). It is too broad to act on, and the papers suggest possible safety signals rather than benefit.
+- **Eye disease (rank 2, 0.9982)**: the only prediction with any literature (3 papers, L4). It is too broad to act on, and the papers suggest possible safety signals rather than benefit.
 - **Vitamin deficiency disorder, von Hippel anomaly**: no identifiable mechanistic link.
 - **Optic neuritis-related conditions and episcleritis**: only a hypothetical link through Th17/IL-17 inflammation, with no supporting data.
 
@@ -85,7 +85,7 @@ For reference, the following papers were retrieved for the second-ranked predict
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA761032 | Siliq (Bausch Health US LLC) | Injection | Not available (status: cancelled) |
+| BLA761032 | Siliq (Bausch Health US LLC) | Injection | Not available (status: valid) |
 
 ## Safety Considerations
 

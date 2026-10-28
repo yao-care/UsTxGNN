@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "PAROXETINE"
 predicted_indications: ["Ohdo syndrome and variants"]
 last_modified_at: 2026-10-14
-description: "Paroxetine: predicted new indication Ohdo syndrome and variants (evidence level L5). Approved use: Anxiety disorder, major depressive disorder…"
+description: "Paroxetine: predicted new indication Ohdo syndrome and variants (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Paroxetine
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-## Paroxetine: From Anxiety and Depressive Disorders to Ohdo Syndrome and Variants
+## Paroxetine: Ohdo syndrome and variants
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,11 +45,11 @@ The TxGNN model predicts it may be effective for **Ohdo syndrome and variants**,
 
 | Item | Content |
 |------|------|
-| Original Indication | Anxiety disorder, major depressive disorder, post-traumatic stress disorder, social phobia, obsessive-compulsive disorder (from the knowledge graph; no label text available) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Ohdo syndrome and variants |
-| TxGNN Prediction Score | 99.11% |
+| TxGNN Prediction Score | 0.9911 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 10) |
 | Number of NDAs | 10 (2 NDAs and 8 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
@@ -91,7 +91,7 @@ Label-based warnings and contraindications were not available in the data compil
 **Decision: Hold**
 
 **Rationale:**
-The recommendation rests only on a computational prediction score. There are no clinical trials or publications, and no plausible mechanistic link to Ohdo syndrome. The evidence level is L5. In addition, all US licenses for paroxetine are currently cancelled.
+The recommendation rests only on a computational prediction score. There are no clinical trials or publications, and no plausible mechanistic link to Ohdo syndrome. The evidence level is L5. In addition, paroxetine is currently marketed in the US, with 10 valid licenses.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for paroxetine and a testable biological hypothesis connecting it to KAT6B or chromatin-regulation pathways

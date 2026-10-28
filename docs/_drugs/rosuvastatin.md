@@ -4,17 +4,17 @@ title: Rosuvastatin
 parent: Model Prediction Only (L5)
 nav_order: 1136
 evidence_level: L5
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-14
-description: "Rosuvastatin: predicted new indication Top-ranked: cholesterol-ester transfer protein deficiency (evidence level L5). Approved use: Hypertriglyceridemia, hyperlipoproteinemia…"
 monitor_inn: "ROSUVASTATIN"
-predicted_indications: ["cholesterol-ester transfer protein deficiency", "brain stem infarction", "HIV infectious disease", "hypoalphalipoproteinemia", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hyperlipidemia due to hepatic triglyceride lipase deficiency", "ABri amyloidosis"]
+predicted_indications: ["cholesterol-ester transfer protein deficiency", "brain stem infarction", "HIV infectious disease", "hypoalphalipoproteinemia", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "ABri amyloidosis"]
+description: "Rosuvastatin: predicted new indication Top-ranked: cholesterol-ester transfer protein deficiency (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Rosuvastatin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Rosuvastatin: From Hyperlipidemia and Atherosclerotic Disease to Familial Hypercholesterolemia
+## Rosuvastatin: Top-ranked: cholesterol-ester transfer protein deficiency; best-supported: familial hypercholesterolemia (cholesterol-ester transfer protein deficiency)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -49,11 +49,11 @@ The TxGNN model predicts it may be effective for **cholesterol-ester transfer pr
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertriglyceridemia, hyperlipoproteinemia, familial combined hyperlipidemia, homozygous familial hypercholesterolemia, atherosclerosis, stroke / cerebrovascular disorders (the US licence records contain no indication text) |
-| Predicted New Indication | Top-ranked: cholesterol-ester transfer protein deficiency; best-supported: familial hypercholesterolemia |
-| TxGNN Prediction Score | 99.54% (CETP deficiency); 99.54% (familial hypercholesterolemia) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Top-ranked: cholesterol-ester transfer protein deficiency; best-supported: familial hypercholesterolemia (cholesterol-ester transfer protein deficiency) |
+| TxGNN Prediction Score | 0.9954 |
 | Evidence Level | L5 (CETP deficiency); L1 (familial hypercholesterolemia) |
-| US Market Status | Cancelled only |
+| US Market Status | Marketed (valid licenses on record: at least 9) |
 | Number of NDAs | 9 (all ANDAs, all cancelled) |
 | Recommended Decision | Hold (CETP deficiency); Proceed with Guardrails (familial hypercholesterolemia) |
 
@@ -129,13 +129,13 @@ Other predictions have weaker links. Hepatic lipase deficiency and CYP7A1 defici
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA206465 | Rosuvastatin (Quallent Pharmaceuticals Health LLC) | Tablet, film coated | Cancelled |
-| ANDA079172 | Rosuvastatin calcium (RemedyRepack Inc.) | Tablet, film coated | Cancelled |
-| ANDA212059 | Rosuvastatin Calcium (Zhejiang Yongtai Pharmaceutical Co., Ltd.) | Tablet, film coated | Cancelled |
-| ANDA206381 | Rosuvastatin (RemedyRepack Inc.) | Tablet, film coated | Cancelled |
-| ANDA207062 | Rosuvastatin Calcium (Westminster Pharmaceuticals, LLC) | Tablet, film coated | Cancelled |
+| ANDA206465 | Rosuvastatin (Quallent Pharmaceuticals Health LLC) | Tablet, film coated | Valid |
+| ANDA079172 | Rosuvastatin calcium (RemedyRepack Inc.) | Tablet, film coated | Valid |
+| ANDA212059 | Rosuvastatin Calcium (Zhejiang Yongtai Pharmaceutical Co., Ltd.) | Tablet, film coated | Valid |
+| ANDA206381 | Rosuvastatin (RemedyRepack Inc.) | Tablet, film coated | Valid |
+| ANDA207062 | Rosuvastatin Calcium (Westminster Pharmaceuticals, LLC) | Tablet, film coated | Valid |
 
-The records list 9 authorizations in total (all single-ingredient ANDAs, all cancelled). Indication text is not available in these records. Dosage forms are oral tablets (film coated and uncoated).
+Indication text is not available in these records. Dosage forms are oral tablets (film coated and uncoated).
 
 ---
 
@@ -166,7 +166,6 @@ Please refer to the package insert for full warnings, as label text was not avai
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (currently a blocking data gap)
 - Mechanism of action data from DrugBank
-- Clarification of why all US licences show as cancelled, and confirmation of current market availability
 - Guardrails for FH use: paediatric dosing with growth and maturation monitoring, CK and liver enzyme monitoring, renal dose adjustment, new-onset diabetes surveillance, and a management plan for the 100 recorded drug interactions (especially fenofibrate and atazanavir)
 - For HIV-related use: protease-inhibitor interaction assessment and review of mixed findings on cardiometabolic effects
 - For CETP deficiency: mechanistic and preclinical or case-based evidence before any further investment

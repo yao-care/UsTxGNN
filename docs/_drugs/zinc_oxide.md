@@ -6,9 +6,9 @@ nav_order: 1308
 evidence_level: L4
 indication_count: 5
 last_modified_at: 2026-10-14
-description: "Zinc Oxide: predicted new indication Acne (disease) (evidence level L4). Approved use: Not stated in the US license records"
 monitor_inn: "ZINC OXIDE"
 predicted_indications: ["acne (disease)", "anorectal stricture", "anal polyp", "papillary conjunctivitis", "postinfectious vasculitis"]
+description: "Zinc Oxide: predicted new indication Acne (disease) (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Zinc Oxide
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **5**
 
 </div>
 
-## Zinc Oxide: From Skin Conditions (Tinea, Dermatitis, Burns) to Acne
+## Zinc Oxide: Acne (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,11 +47,11 @@ The TxGNN model predicts it may be effective for **Acne (disease)**, but there a
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the US license records; the knowledge graph lists tinea pedis, tinea corporis, dermatitis, cutaneous candidiasis, pityriasis versicolor, hemorrhoid, proctitis, burn and injury |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Acne (disease) |
-| TxGNN Prediction Score | 99.86% |
+| TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid license) |
+| US Market Status | Marketed (valid licenses on record: at least 2) |
 | Number of NDAs | 2 (both cancelled) |
 | Recommended Decision | Hold (research question only) |
 
@@ -63,7 +63,7 @@ Detailed mechanism of action data is not available for zinc oxide. The reasoning
 
 Zinc ions have mild antibacterial activity, including against *Cutibacterium acnes*, along with anti-inflammatory effects, and they may reduce sebum-related inflammation. Zinc oxide is already used topically in dermatology as a skin protectant, so acne sits in the same therapeutic area as its existing indications (dermatitis, cutaneous infections).
 
-The high TxGNN score (99.86%) is a computational prediction only. The supporting literature is limited: one nanoparticle review mentions nano-preparations under investigation for acne, one preclinical microneedle study involves zinc-related nanomaterials, and one small clinical study of mild catamenial acne does not clearly establish a role for zinc oxide.
+The high TxGNN score (0.9986) is a computational prediction only. The supporting literature is limited: one nanoparticle review mentions nano-preparations under investigation for acne, one preclinical microneedle study involves zinc-related nanomaterials, and one small clinical study of mild catamenial acne does not clearly establish a role for zinc oxide.
 
 ---
 
@@ -90,7 +90,6 @@ Currently no related clinical trials registered.
 | M016 (cancelled) | zinc oxide 20% (Bionpharma Inc) | Ointment | Not stated |
 | M020 (cancelled) | Mineral Sunscreen For Face and Body (Skin Philosophy by Kelly) | Cream | Not stated |
 
-Both licenses are cancelled, so no valid US authorization currently exists in the data compiled for this report.
 
 ---
 
@@ -112,7 +111,7 @@ No drug-interaction records were found. For package-insert warnings and contrain
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a computational score and general zinc pharmacology. There are no registered trials, the literature is indirect (a review, a preclinical study and a small study of unclear design), and no US license is currently valid. This makes it a research question, not a candidate ready for development.
+The prediction rests on a computational score and general zinc pharmacology. This makes it a research question, not a candidate ready for development.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for zinc oxide, to support the link to acne
@@ -129,10 +128,10 @@ The other four predictions have no clinical trials or literature and are all rat
 
 | Predicted Indication | TxGNN Score | Note |
 |------|------|------|
-| Anorectal stricture | 99.46% | Only a weak contextual link to existing anorectal uses; a topical protectant is unlikely to address fibrotic narrowing |
-| Anal polyp | 99.31% | Only anatomical proximity; no known effect on polyp growth |
-| Papillary conjunctivitis | 99.14% | Speculative; zinc oxide is not formulated for ocular use, so tolerability is a concern |
-| Postinfectious vasculitis | 99.02% | No plausible pathway from a topical agent to a systemic immune-mediated disease |
+| Anorectal stricture | 0.9946 | Only a weak contextual link to existing anorectal uses; a topical protectant is unlikely to address fibrotic narrowing |
+| Anal polyp | 0.9931 | Only anatomical proximity; no known effect on polyp growth |
+| Papillary conjunctivitis | 0.9914 | Speculative; zinc oxide is not formulated for ocular use, so tolerability is a concern |
+| Postinfectious vasculitis | 0.9902 | No plausible pathway from a topical agent to a systemic immune-mediated disease |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **Acne**, but there are current
 |------|------|
 | Original Indication | Not documented (the license record has no approved indication text) |
 | Predicted New Indication | Acne |
-| TxGNN Prediction Score | 99.69% |
+| TxGNN Prediction Score | 0.9969 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 (cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -59,7 +59,7 @@ Currently, detailed mechanism of action data is not available. Piperine is the m
 
 This link is hypothetical. The data compiled for this report contain no clinical trials or literature, and no original indication is recorded, so the relationship between an original and a new indication cannot be assessed. The prediction rests only on the model score.
 
-A second prediction, amenorrhea (score 99.39%), is also at the L5 level. No plausible mechanistic pathway to menstrual or hormonal regulation can be established from the available data, so it is not evaluated further.
+A second prediction, amenorrhea (score 0.9939), is also at the L5 level. No plausible mechanistic pathway to menstrual or hormonal regulation can be established from the available data, so it is not evaluated further.
 
 ## Clinical Trial Evidence
 

@@ -40,7 +40,7 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 Telavancin is a lipoglycopeptide antibiotic originally used to treat bacterial pneumonia, including *Staphylococcus aureus* pneumonia.
 The TxGNN model predicts it may be effective for **Hyperamylasemia**, but **no clinical trials and no publications** currently support this prediction.
-The high score appears to be a knowledge-graph artifact rather than a biologically grounded signal.
+The high score appears to be a TxGNN model (deep learning) artifact rather than a biologically grounded signal.
 
 ---
 
@@ -50,10 +50,10 @@ The high score appears to be a knowledge-graph artifact rather than a biological
 |------|------|
 | Original Indication | Bacterial pneumonia; *Staphylococcus aureus* pneumonia |
 | Predicted New Indication | Hyperamylasemia |
-| TxGNN Prediction Score | 99.63% |
+| TxGNN Prediction Score | 0.9963 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no active license) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,9 +62,9 @@ The high score appears to be a knowledge-graph artifact rather than a biological
 
 Currently, detailed mechanism of action data is not available. Based on known information, telavancin is a lipoglycopeptide antibiotic that inhibits bacterial cell wall synthesis and disrupts bacterial membrane integrity. Its efficacy is established for Gram-positive bacterial infections.
 
-For hyperamylasemia, a credible mechanistic link is **not apparent**. Hyperamylasemia is a laboratory finding, usually tied to pancreatic or salivary gland pathology, and is not a condition an antibiotic would treat. The high TxGNN score (0.996) most likely reflects graph proximity in the knowledge graph rather than true biological relevance. Telavancin's known toxicity profile (nephrotoxicity, QT prolongation) also makes it a poor fit for this use.
+For hyperamylasemia, a credible mechanistic link is **not apparent**. Hyperamylasemia is a laboratory finding, usually tied to pancreatic or salivary gland pathology, and is not a condition an antibiotic would treat. The high score (0.9963) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Telavancin's known toxicity profile (nephrotoxicity, QT prolongation) also makes it a poor fit for this use.
 
-Other predictions generated for this drug show the same pattern. Eight of nine have no plausible mechanism (e.g., polyclonal hyperviscosity syndrome, congenital analbuminemia, blood group incompatibility, monoclonal gammopathy). The one exception is **septicemic plague** (score 99.48%, evidence level L4), which has an anti-infective rationale. However, *Yersinia pestis* is Gram-negative, and glycopeptides penetrate the Gram-negative outer membrane poorly. Established agents (streptomycin, gentamicin, doxycycline, fluoroquinolones) remain the standard of care, and no data on *Y. pestis* were available.
+Other predictions generated for this drug show the same pattern. Eight of nine have no plausible mechanism (e.g., polyclonal hyperviscosity syndrome, congenital analbuminemia, blood group incompatibility, monoclonal gammopathy). The one exception is **septicemic plague** (score 0.9948, evidence level L4), which has an anti-infective rationale. However, *Yersinia pestis* is Gram-negative, and glycopeptides penetrate the Gram-negative outer membrane poorly. Established agents (streptomycin, gentamicin, doxycycline, fluoroquinolones) remain the standard of care, and no data on *Y. pestis* were available.
 
 ---
 
@@ -84,7 +84,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA022110 | VIBATIV (Cumberland Pharmaceuticals Inc.) | Injection, powder, lyophilized, for solution | Not listed (license status: cancelled) |
+| NDA022110 | VIBATIV (Cumberland Pharmaceuticals Inc.) | Injection, powder, lyophilized, for solution | Not listed (license status: valid) |
 
 ---
 

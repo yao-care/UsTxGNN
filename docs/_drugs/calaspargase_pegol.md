@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-## Calaspargase Pegol: From an Unspecified Original Indication to Insomnia
+## Calaspargase Pegol: insomnia
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,25 +47,25 @@ The TxGNN model predicts it may be effective for **insomnia**, but **no clinical
 |------|------|
 | Original Indication | Not listed in the available regulatory data |
 | Predicted New Indication | Insomnia (disease) |
-| TxGNN Prediction Score | 99.80% |
+| TxGNN Prediction Score | 0.9980 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 (BLA761102, cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, calaspargase pegol is a pegylated asparaginase that depletes circulating asparagine and is used in acute lymphoblastic leukemia. The original indication text is missing from the regulatory record, so this description comes from drug-class knowledge rather than the label data.
 
-The prediction for insomnia does not have a credible mechanistic link. The drug has no known action on sleep-wake regulation or on central nervous system targets. Insomnia appears in the literature mainly as an adverse effect of asparaginase-containing regimens, largely because of corticosteroid co-medication. The very high TxGNN score (0.998) is a knowledge-graph output without supporting biological rationale and is likely an artifact.
+The prediction for insomnia does not have a credible mechanistic link. The drug has no known action on sleep-wake regulation or on central nervous system targets. Insomnia appears in the literature mainly as an adverse effect of asparaginase-containing regimens, largely because of corticosteroid co-medication. The very high TxGNN score (0.9980) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It has no supporting biological rationale and is likely an artifact.
 
 Three other predictions were also reviewed, and all share the same problem. Each has an L5 evidence level, no trials, and no literature:
 
 | Predicted Disease | TxGNN Score | Assessment |
 |------|------|------|
-| Factor 5 excess with spontaneous thrombosis | 99.25% | Wrong direction: asparaginase lowers coagulation and anticoagulant protein synthesis and is associated with thrombosis, so it would be expected to worsen thrombotic risk |
-| Heparin cofactor 2 deficiency | 99.24% | Asparaginase reduces serpin-family anticoagulants, so the effect would mimic or worsen the deficiency |
-| Antithrombin deficiency type 2 | 99.21% | Asparaginase causes acquired antithrombin deficiency, so it would aggravate the condition rather than treat it |
+| Factor 5 excess with spontaneous thrombosis | 0.9925 | Wrong direction: asparaginase lowers coagulation and anticoagulant protein synthesis and is associated with thrombosis, so it would be expected to worsen thrombotic risk |
+| Heparin cofactor 2 deficiency | 0.9924 | Asparaginase reduces serpin-family anticoagulants, so the effect would mimic or worsen the deficiency |
+| Antithrombin deficiency type 2 | 0.9921 | Asparaginase causes acquired antithrombin deficiency, so it would aggravate the condition rather than treat it |
 
 ## Clinical Trial Evidence
 
@@ -79,7 +79,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA761102 | Asparlas (Servier Pharmaceuticals LLC) | Injection, solution | Not listed (status: cancelled) |
+| BLA761102 | Asparlas (Servier Pharmaceuticals LLC) | Injection, solution | Not listed (status: valid) |
 
 ## Cytotoxicity
 

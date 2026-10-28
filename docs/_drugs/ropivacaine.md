@@ -7,8 +7,8 @@ evidence_level: L3
 indication_count: 4
 monitor_inn: "ROPIVACAINE"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "nephrogenic syndrome of inappropriate antidiuresis", "dysthymic disorder"]
-last_modified_at: 2026-10-14
-description: "Ropivacaine: predicted new indication Migraine disorder (evidence level L3). Approved use: Not available in the compiled data"
+last_modified_at: 2026-10-28
+description: "Ropivacaine: predicted new indication Migraine disorder (evidence level L3). Approved use: Not recorded in the local data"
 ---
 
 # Ropivacaine
@@ -33,7 +33,7 @@ Evidence Level: **L3** | Predicted Indications: **4**
 
 </div>
 
-## Ropivacaine: From Local Anesthesia to Migraine Disorder
+## Ropivacaine: Migraine disorder
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,11 +48,11 @@ The evidence is small and mostly observational, so this is best treated as a res
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in the compiled data (all license records have empty indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.65% |
+| TxGNN Prediction Score | 0.9965 |
 | Evidence Level | L3 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 8) |
 | Number of NDAs | 8 (all ANDA generic applications, all cancelled) |
 | Recommended Decision | Hold |
 
@@ -65,9 +65,9 @@ Detailed mechanism-of-action data are not available in the compiled data. Based 
 Its use is regional nerve blockade. Blocking pain signaling at the sphenopalatine ganglion, stellate ganglion, occipital or trigeminal branches, or myofascial trigger points could plausibly reduce trigeminovascular activation and peripheral and central sensitization in migraine. This is a local nerve-block effect, not a systemic disease-modifying effect.
 
 The other predictions for this drug are weak:
-- **Migraine with brainstem aura** (score 99.55%): no trial or literature specific to this subtype. The score probably reflects similarity to general migraine.
-- **Nephrogenic syndrome of inappropriate antidiuresis** (99.41%): this condition arises from gain-of-function mutations in the vasopressin V2 receptor. There is no plausible link to sodium-channel blockade, so it looks like a graph artifact.
-- **Dysthymic disorder** (99.15%): no mechanistic or clinical support. Systemic exposure carries cardiotoxicity and CNS toxicity risks, which argues against chronic systemic use.
+- **Migraine with brainstem aura** (score 0.9955): no trial or literature specific to this subtype. The score probably reflects similarity to general migraine.
+- **Nephrogenic syndrome of inappropriate antidiuresis** (0.9941): this condition arises from gain-of-function mutations in the vasopressin V2 receptor. There is no plausible link to sodium-channel blockade. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
+- **Dysthymic disorder** (0.9915): no mechanistic or clinical support. Systemic exposure carries cardiotoxicity and CNS toxicity risks, which argues against chronic systemic use.
 
 ---
 
@@ -119,14 +119,14 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The migraine signal is plausible mechanistically and has some supporting studies. However, the evidence is small and mostly observational (L3), and the only randomized trial enrolled 10 patients. All US licenses are cancelled, and label safety data are missing, which blocks safety screening.
+The migraine signal is plausible mechanistically and has some supporting studies. However, the evidence is small and mostly observational (L3), and the only randomized trial enrolled 10 patients. The drug is marketed in the US with 8 valid licenses, but label safety data are missing, which blocks safety screening.
 
 **To proceed, the following is needed:**
 - Retrieve and review the FDA package insert (warnings, contraindications, approved indications).
 - Obtain detailed mechanism-of-action data from DrugBank.
 - Obtain results from NCT03666663 and NCT00680823, and confirm ropivacaine's role in the former.
 - Run adequately powered randomized, controlled trials of ropivacaine nerve blocks (SPG, occipital, or trigger point) specifically in migraine.
-- Confirm route compatibility and the current US regulatory pathway, given that all licenses are cancelled.
+- Confirm route compatibility and the current US regulatory pathway, given that the drug is marketed with 8 valid licenses.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

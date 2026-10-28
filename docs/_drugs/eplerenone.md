@@ -4,7 +4,7 @@ title: Eplerenone
 parent: Model Prediction Only (L5)
 nav_order: 662
 evidence_level: L5
-indication_count: 5
+indication_count: 4
 last_modified_at: 2026-10-14
 description: "Eplerenone: predicted new indication Pulmonary hypertension with unclear multifactorial mechanism (evidence level L5). Approved use: Hypertension (hypertensive disorder)"
 monitor_inn: "EPLERENONE"
@@ -14,7 +14,7 @@ predicted_indications: ["pulmonary hypertension with unclear multifactorial mech
 # Eplerenone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-## Eplerenone: From Hypertension to Pulmonary Hypertension (Multifactorial / Unclear Mechanism)
+## Eplerenone: From Hypertension to Pulmonary Hypertension with Unclear Multifactorial Mechanism
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **pulmonary hypertension with u
 |------|------|
 | Original Indication | Hypertension (hypertensive disorder) |
 | Predicted New Indication | Pulmonary hypertension with unclear multifactorial mechanism |
-| TxGNN Prediction Score | 99.50% |
+| TxGNN Prediction Score | 0.9950 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all 6 listed authorizations are cancelled) |
-| Number of NDAs | 6 |
+| US Market Status | Marketed (valid licenses: 6 of 6) |
+| Number of NDAs | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 ---
@@ -61,7 +61,7 @@ The TxGNN model predicts it may be effective for **pulmonary hypertension with u
 
 Detailed mechanism of action data is not currently available in the data compiled for this report. Based on known information, eplerenone is a selective MR antagonist. It blocks the effects of aldosterone and related steroids on vascular tone, sodium handling, inflammation and fibrosis. Its efficacy in hypertension is established, and mechanistically it may be applicable to pulmonary vascular disease.
 
-The score is very high (0.995), but it likely reflects knowledge-graph proximity to the word "hypertension" and to shared aldosterone and vascular-remodeling pathways. This category is distinct from systemic hypertension and from pulmonary arterial hypertension (PAH), so the model may be over-generalizing. No trial or literature evidence was supplied for this exact indication.
+The score is very high (0.9950), but it comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. This category is distinct from systemic hypertension and from pulmonary arterial hypertension (PAH), so the model may be over-generalizing. No trial or literature evidence was supplied for this exact indication.
 
 For the neighbouring prediction, pulmonary hypertension owing to lung disease and/or hypoxia, there is more supportive biology:
 - Preclinical work shows that chronic intermittent hypoxia activates MR signaling and drives tissue fibrosis and remodeling (kidney, atrium), and that eplerenone attenuates these effects.
@@ -99,7 +99,7 @@ Other retrieved papers (choroidal blood flow, liver cirrhosis, perivascular fat,
 
 ## US Market Information
 
-All six listed authorizations are cancelled. No approved indication text was available for any of them.
+All six listed authorizations are valid. No approved indication text was available for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -144,7 +144,7 @@ The top-ranked prediction rests on a model score alone (L5), with no trials or l
 - Clarification of the disease definition for the top-ranked prediction, and whether it overlaps with PAH or Group 3 pulmonary hypertension
 - Systematic review of MR antagonist data in pulmonary hypertension, followed by clinical evidence such as a pilot trial if the signal holds
 - Hyperkalemia and renal safety monitoring plan, including management of potassium-related interactions
-- Clarification of current US marketing status, since all listed authorizations are shown as cancelled
+- Confirmation of current US marketing status, since all six listed authorizations are shown as valid
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

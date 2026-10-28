@@ -4,17 +4,17 @@ title: Quinapril
 parent: Model Prediction Only (L5)
 nav_order: 1101
 evidence_level: L5
-indication_count: 5
+indication_count: 4
 last_modified_at: 2026-10-14
-description: "Quinapril: predicted new indication Malignant renovascular hypertension (evidence level L5). Approved use: Hypertension (hypertensive disorder)"
 monitor_inn: "QUINAPRIL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
+description: "Quinapril: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Quinapril
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-## Quinapril: From Hypertension to Malignant Renovascular Hypertension
+## Quinapril: Malignant hypertensive renal disease
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Quinapril is an ACE inhibitor originally used to treat hypertension.
-The TxGNN model predicts it may be effective for **malignant renovascular hypertension**,
 but **no clinical trials and no publications** currently support this specific prediction, so it rests on the model score alone.
 
 ---
@@ -48,11 +47,11 @@ but **no clinical trials and no publications** currently support this specific p
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension (hypertensive disorder) |
-| Predicted New Indication | Malignant renovascular hypertension |
-| TxGNN Prediction Score | 99.86% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Malignant hypertensive renal disease |
+| TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid authorizations) |
+| US Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of NDAs | 5 (all ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
@@ -68,10 +67,10 @@ The new indication is closely related to the original one. It is largely an exte
 
 | Predicted Indication | Score | Evidence Level | Note |
 |------|------|------|------|
-| Malignant hypertensive renal disease | 99.86% | L5 | Plausible link through reduced angiotensin II-mediated vascular injury and glomerular hypertension, but prediction-only |
-| Pulmonary hypertension owing to lung disease and/or hypoxia | 99.85% | L4 | Two animal studies, including one showing reduced hypoxic pulmonary hypertension in rats; no human data (Research Question) |
-| Pulmonary hypertension with unclear multifactorial mechanism | 99.85% | L5 | Only indirect extrapolation; prediction-only |
-| Braddock syndrome | 99.79% | L5 | No clear mechanistic link; may reflect a knowledge-graph artifact |
+| Malignant hypertensive renal disease | 0.9986 | L5 | Plausible link through reduced angiotensin II-mediated vascular injury and glomerular hypertension, but prediction-only |
+| Pulmonary hypertension owing to lung disease and/or hypoxia | 0.9985 | L5 | Two animal studies, including one showing reduced hypoxic pulmonary hypertension in rats; no human data (Research Question) |
+| Pulmonary hypertension with unclear multifactorial mechanism | 0.9985 | L5 | Only indirect extrapolation; prediction-only |
+| Braddock syndrome | 0.9979 | L5 | No clear mechanistic link; may reflect a TxGNN model (deep learning) artifact |
 
 ---
 
@@ -96,7 +95,6 @@ For the closest related prediction (pulmonary hypertension owing to lung disease
 
 ## US Market Information
 
-All five US authorizations are cancelled; no valid authorization currently exists.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -123,7 +121,7 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The 99.86% TxGNN score is not backed by any clinical trial or publication, and the new indication largely overlaps with the original hypertension indication. All US authorizations are cancelled, and the kidney-related safety signals are directly relevant to this setting.
+The 0.9986 TxGNN score is not backed by any clinical trial or publication, and the new indication largely overlaps with the original hypertension indication.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

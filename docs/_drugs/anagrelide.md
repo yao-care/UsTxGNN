@@ -48,10 +48,10 @@ but there are currently **0 registered clinical trials** and only **10 publicati
 |------|------|
 | Original Indication | Thrombocythemia; familial thrombocytosis |
 | Predicted New Indication | Reactive thrombocytosis |
-| TxGNN Prediction Score | 99.83% |
+| TxGNN Prediction Score | 0.9983 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 4 (all cancelled; 1 NDA and 3 ANDAs) |
+| US Market Status | Marketed (valid licenses: 4 of 4) |
+| Number of NDAs | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -62,7 +62,7 @@ However, the clinical fit is weak. Reactive thrombocytosis is secondary to an un
 
 The very high TxGNN score is likely driven by similarity to the approved thrombocythemia indications. It is a prediction, not clinical evidence.
 
-The model also ranked a second prediction, **inverse Klippel-Trenaunay syndrome** (score 99.59%). It has no supporting trials or literature, and no clear mechanistic rationale links platelet lowering to this rare vascular malformation syndrome. It is evidence level L5 and Hold.
+The model also ranked a second prediction, **inverse Klippel-Trenaunay syndrome** (score 0.9959). It has no supporting trials or literature, and no clear mechanistic rationale links platelet lowering to this rare vascular malformation syndrome. It is evidence level L5 and Hold.
 
 ## Clinical Trial Evidence
 
@@ -87,14 +87,14 @@ The publications below are mostly reviews that discuss reactive thrombocytosis a
 
 ## US Market Information
 
-All four authorizations are cancelled. The data compiled for this report does not include approved indication text. The product is an oral capsule.
+All four authorizations are valid. The data compiled for this report does not include approved indication text. The product is an oral capsule.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA020333 | Agrylin (Takeda Pharmaceuticals America) | Capsule | Not available (cancelled) |
-| ANDA076683 | Anagrelide (Chartwell RX) | Capsule | Not available (cancelled) |
-| ANDA076811 | Anagrelide (ANI Pharmaceuticals) | Capsule | Not available (cancelled) |
-| ANDA209151 | Anagrelide (Torrent Pharmaceuticals) | Capsule | Not available (cancelled) |
+| NDA020333 | Agrylin (Takeda Pharmaceuticals America) | Capsule | Not available (valid) |
+| ANDA076683 | Anagrelide (Chartwell RX) | Capsule | Not available (valid) |
+| ANDA076811 | Anagrelide (ANI Pharmaceuticals) | Capsule | Not available (valid) |
+| ANDA209151 | Anagrelide (Torrent Pharmaceuticals) | Capsule | Not available (valid) |
 
 ## Safety Considerations
 

@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "GANIRELIX"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial male-limited precocious puberty", "persistent fetal circulation syndrome", "aromatase excess syndrome", "centra precocious puberty 1", "familial isolated trichomegaly"]
-last_modified_at: 2026-10-14
-description: "Ganirelix: predicted new indication Hypertrichosis (evidence level L5). Approved use: Prevention of premature ovulation during controlled ovarian stimulati…"
+last_modified_at: 2026-10-28
+description: "Ganirelix: predicted new indication Hypertrichosis (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Ganirelix
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Ganirelix: From Fertility Treatment (Ovarian Stimulation) to Hypertrichosis
+## Ganirelix: Hypertrichosis (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,24 +46,24 @@ The prediction rests on model output alone and should be treated as a hypothesis
 
 | Item | Content |
 |------|------|
-| Original Indication | Prevention of premature ovulation during controlled ovarian stimulation (from pharmacology reference data; the US license records contain no indication text) |
-| Predicted New Indication | Hypertrichosis |
-| TxGNN Prediction Score | 99.98% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Hypertrichosis (disease) |
+| TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all 7 authorizations cancelled) |
-| Number of NDAs | 7 (1 NDA, 6 ANDAs) |
+| US Market Status | Marketed (valid licenses: 7 of 7) |
+| Number of NDAs | 7 (valid: 7) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the compiled records. Based on known pharmacology, ganirelix is a peptide antagonist of the GnRH receptor (GNRHR). It suppresses pituitary LH and FSH release and, indirectly, gonadal sex steroids.
 
-The link to hypertrichosis is speculative. Hypertrichosis is not primarily driven by gonadotropins. Any connection would be through indirect modulation of sex steroids acting on hair follicles. The very high TxGNN score is a model output only. It likely reflects proximity in the knowledge graph rather than a biological rationale, and no clinical or literature data support it.
+The link to hypertrichosis is speculative. Hypertrichosis is not primarily driven by gonadotropins. Any connection would be through indirect modulation of sex steroids acting on hair follicles. The very high TxGNN score is a model output only.
 
 **Other predictions in the top 10.** None has clinical trial or literature support (all L5):
-- **Central precocious puberty (score 99.75%)** is the most biologically coherent. It is driven by premature activation of the hypothalamic-pituitary-gonadal axis, so GnRH receptor blockade makes sense. However, GnRH agonists such as leuprolide and triptorelin are already standard care. Ganirelix's short-acting formulation with no depot form limits its practicality.
-- **Aromatase excess syndrome (99.80%)** is a hypothesis only. Ganirelix could reduce gonadal steroid production, but extragonadal (adipose) aromatization would remain, and aromatase inhibitors are the more direct approach.
-- **Familial male-limited precocious puberty (99.85%)** is caused by activating LHCGR mutations, which drive testosterone production independently of pituitary LH. A GnRH antagonist would therefore be expected to have little effect.
+- **Central precocious puberty (score 0.9975)** is the most biologically coherent. It is driven by premature activation of the hypothalamic-pituitary-gonadal axis, so GnRH receptor blockade makes sense. However, GnRH agonists such as leuprolide and triptorelin are already standard care. Ganirelix's short-acting formulation with no depot form limits its practicality.
+- **Aromatase excess syndrome (0.9980)** is a hypothesis only. Ganirelix could reduce gonadal steroid production, but extragonadal (adipose) aromatization would remain, and aromatase inhibitors are the more direct approach.
+- **Familial male-limited precocious puberty (0.9985)** is caused by activating LHCGR mutations, which drive testosterone production independently of pituitary LH. A GnRH antagonist would therefore be expected to have little effect.
 - **Other predictions** (Ambras syndrome, malformation syndromes, Dandy-Walker-associated syndromes, hair shaft abnormalities, persistent fetal circulation syndrome, familial trichomegaly) have no plausible GnRH-antagonist mechanism.
 
 ## Clinical Trial Evidence
@@ -78,11 +78,11 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| NDA021057 | Ganirelix Acetate (Organon LLC) | Injection, solution | Cancelled |
-| ANDA204246 | Fyremadel (Ferring Pharmaceuticals) | Injection, solution | Cancelled |
-| ANDA212613 | Ganirelix Acetate (Amphastar) | Injection | Cancelled |
-| ANDA214996 | Ganirelix Acetate (Meitheal) | Injection, solution | Cancelled |
-| ANDA215658 | Ganirelix Acetate (Gland Pharma) | Injection, solution | Cancelled |
+| NDA021057 | Ganirelix Acetate (Organon LLC) | Injection, solution | Valid |
+| ANDA204246 | Fyremadel (Ferring Pharmaceuticals) | Injection, solution | Valid |
+| ANDA212613 | Ganirelix Acetate (Amphastar) | Injection | Valid |
+| ANDA214996 | Ganirelix Acetate (Meitheal) | Injection, solution | Valid |
+| ANDA215658 | Ganirelix Acetate (Gland Pharma) | Injection, solution | Valid |
 
 Two further cancelled ANDAs (ANDA216075, Lupin; ANDA218855, Qilu) are also on record. The license records contain no approved-indication text. All products are injectables.
 
@@ -97,7 +97,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction for hypertrichosis has no supporting trials, no literature, and no plausible mechanism. The evidence level is L5. In addition, all US authorizations for ganirelix are cancelled, and no label-based safety information is available.
+The prediction for hypertrichosis has no supporting trials, no literature, and no plausible mechanism. The evidence level is L5.
 
 **To proceed, the following is needed:**
 - Detailed mechanism of action data

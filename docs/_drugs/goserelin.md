@@ -8,7 +8,7 @@ indication_count: 3
 monitor_inn: "GOSERELIN"
 predicted_indications: ["amenorrhea (disease)", "renal hypoplasia (disease)", "renal hypoplasia, bilateral"]
 last_modified_at: 2026-10-14
-description: "Goserelin: predicted new indication Amenorrhea (evidence level L2). Approved use: Endometriosis"
+description: "Goserelin: predicted new indication amenorrhea (evidence level L2). Approved use: Endometriosis"
 ---
 
 # Goserelin
@@ -47,10 +47,10 @@ The TxGNN model predicts it may be relevant for **Amenorrhea**, but this is larg
 |------|------|
 | Original Indication | Endometriosis |
 | Predicted New Indication | Amenorrhea |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L2 |
-| US Market Status | Cancelled only (no currently valid licences) |
-| Number of NDAs | 2 |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -66,7 +66,7 @@ These framings differ from the predicted "amenorrhea" indication and would need 
 
 The data compiled for this report contains no detailed mechanism-of-action entry for goserelin. The description above is based on its known pharmacology.
 
-Two other predictions (renal hypoplasia and bilateral renal hypoplasia, both scoring about 99.06%) have no clinical trials, no literature, and no plausible biological rationale. They are evidence level L5 and should be held.
+Two other predictions (renal hypoplasia and bilateral renal hypoplasia, both scoring about 0.9906) have no clinical trials, no literature, and no plausible biological rationale. They are evidence level L5 and should be held.
 
 ## Clinical Trial Evidence
 
@@ -93,10 +93,10 @@ Two other predictions (renal hypoplasia and bilateral renal hypoplasia, both sco
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA019726 | ZOLADEX (TerSera Therapeutics LLC) | Implant | Not available (cancelled) |
-| NDA020578 | ZOLADEX (TerSera Therapeutics LLC) | Implant | Not available (cancelled) |
+| NDA019726 | ZOLADEX (TerSera Therapeutics LLC) | Implant | Not available (valid) |
+| NDA020578 | ZOLADEX (TerSera Therapeutics LLC) | Implant | Not available (valid) |
 
-Both authorizations are listed as cancelled; no currently valid licence exists.
+Both authorizations are listed as valid; the drug is currently marketed.
 
 ## Safety Considerations
 
@@ -112,7 +112,7 @@ The package insert warnings and contraindications were not available in the data
 **Decision: Hold**
 
 **Rationale:**
-Amenorrhea is mainly an expected pharmacological effect of goserelin, not a distinct therapeutic opportunity. The only trial is indirect (oncologic endpoint, unknown status). All US licences are cancelled, and the key safety documents are missing. The renal hypoplasia predictions have no supporting evidence at all.
+Amenorrhea is mainly an expected pharmacological effect of goserelin, not a distinct therapeutic opportunity. The only trial is indirect (oncologic endpoint, unknown status). Both US licences are valid, but the key safety documents are missing. The renal hypoplasia predictions have no supporting evidence at all.
 
 **To proceed, the following is needed:**
 - A clear therapeutic framing, such as menstrual suppression or ovarian protection during chemotherapy, rather than treatment of pathological amenorrhea.

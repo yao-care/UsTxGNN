@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Insulin Detemir
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 798
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Insulin Detemir: predicted new indication Type 1 diabetes mellitus (evidence level L1). Approved use: Diabetes mellitus"
 monitor_inn: "INSULIN DETEMIR"
 predicted_indications: ["autoimmune oophoritis", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
+description: "Insulin Detemir: predicted new indication Autoimmune oophoritis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Insulin Detemir
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-## Insulin Detemir: From Diabetes Mellitus to Type 1 Diabetes Mellitus
+## Insulin Detemir: Autoimmune oophoritis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Insulin detemir is a long-acting basal insulin analogue, originally used to treat diabetes mellitus and diabetic ketoacidosis.
-The TxGNN model predicts it may be effective for **type 1 diabetes mellitus**, with **40 clinical trials** and **19 publications** currently supporting this direction.
 Type 1 diabetes falls within the drug's original diabetes indication, so this is not a true repurposing case but a confirmation of an established use.
 
 ---
@@ -48,12 +47,12 @@ Type 1 diabetes falls within the drug's original diabetes indication, so this is
 
 | Item | Content |
 |------|------|
-| Original Indication | Diabetes mellitus; diabetic ketoacidosis (from the knowledge graph, because no approved indication text is available for the US license) |
-| Predicted New Indication | Type 1 diabetes mellitus |
-| TxGNN Prediction Score | 99.77% |
-| Evidence Level | L1 |
-| US Market Status | Cancelled only (no active license) |
-| Number of NDAs | 1 (BLA021536, cancelled) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Autoimmune oophoritis |
+| TxGNN Prediction Score | 0.9967 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---
@@ -112,7 +111,6 @@ At least six completed Phase 3 trials involve insulin detemir directly. Large ob
 |---------|------|------|-----------|
 | BLA021536 (cancelled) | Levemir (A-S Medication Solutions) | Injection, solution | Not available |
 
-The only US license on record is cancelled, so the drug currently has no active US authorisation.
 
 ---
 

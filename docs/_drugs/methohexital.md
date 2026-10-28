@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "METHOHEXITAL"
 predicted_indications: ["insomnia (disease)", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "migraine with brainstem aura", "headache disorder"]
-last_modified_at: 2026-10-14
-description: "Methohexital: predicted new indication Insomnia (evidence level L5). Approved use: Not stated in the available data (methohexital is generally known as…"
+last_modified_at: 2026-10-28
+description: "Methohexital: predicted new indication Insomnia (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Methohexital
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-## Methohexital: From General Anesthesia to Insomnia
+## Methohexital: Insomnia (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ This is a model-only prediction with no direct clinical evidence.
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the available data (methohexital is generally known as an injectable anesthetic agent) |
-| Predicted New Indication | Insomnia |
-| TxGNN Prediction Score | 99.88% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Insomnia (disease) |
+| TxGNN Prediction Score | 0.9988 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 2 (both cancelled) |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -61,8 +61,8 @@ Detailed mechanism of action data is not available in the data compiled for this
 There are strong practical reasons to doubt the prediction. Barbiturates are not used for chronic insomnia because of tolerance, dependence, a narrow therapeutic index, and respiratory depression. Methohexital also redistributes rapidly, so its duration of action is very short. The high score (0.9988) is a model output only, with no supporting trials or literature.
 
 The other top predictions fare no better:
-- **Nephrogenic syndrome of inappropriate antidiuresis (99.80%)**: no plausible mechanistic link. The condition stems from gain-of-function variants in AVPR2 or GNAS, which are unrelated to GABA-A modulation. This is likely a knowledge-graph artifact.
-- **Migraine disorder (99.54%)**, **migraine with brainstem aura (99.46%)** and **headache disorder (99.12%)**: only indirect literature, in which methohexital appears as an ECT anesthetic and headache appears as a peri-procedural or adverse outcome.
+- **Nephrogenic syndrome of inappropriate antidiuresis (0.9980)**: no plausible mechanistic link. The condition stems from gain-of-function variants in AVPR2 or GNAS, which are unrelated to GABA-A modulation. This is likely a TxGNN model (deep learning) artifact.
+- **Migraine disorder (0.9954)**, **migraine with brainstem aura (0.9946)** and **headache disorder (0.9912)**: only indirect literature, in which methohexital appears as an ECT anesthetic and headache appears as a peri-procedural or adverse outcome.
 
 ## Clinical Trial Evidence
 

@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Glucagon
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 754
-evidence_level: L5
+evidence_level: L3
 indication_count: 1
 monitor_inn: "GLUCAGON"
 predicted_indications: ["irritable bowel syndrome"]
@@ -14,7 +14,7 @@ description: "Glucagon: predicted new indication Irritable bowel syndrome (evide
 # Glucagon
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **1** 
+Evidence Level: **L3** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,10 +46,10 @@ Glucagon is a proglucagon-derived peptide hormone. It is also long established a
 |------|------|
 | Original Indication | Not stated in the data compiled for this report |
 | Predicted New Indication | Irritable bowel syndrome |
-| TxGNN Prediction Score | 99.24% |
+| TxGNN Prediction Score | 0.9924 |
 | Evidence Level | L3 (indirect; observational and review-level literature, no glucagon-specific trials) |
-| US Market Status | Cancelled only (all licences recorded as cancelled) |
-| Number of NDAs | 5 |
+| US Market Status | Marketed (valid licenses: 5 of 5) |
+| Number of NDAs | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -84,10 +84,10 @@ The available clinical and literature evidence is about **GLP-1 receptor agonist
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA201849 | Glucagon (Fresenius Kabi USA) | Lyophilized powder for injection | Not available (cancelled) |
-| NDA212097 | Gvoke HypoPen (Xeris) | Injection, solution | Not available (cancelled) |
-| NDA214231 | Zegalogue (Novo Nordisk) | Injection, solution | Not available (cancelled) |
-| NDA210134 | Baqsimi (Amphastar) | Powder | Not available (cancelled) |
+| NDA201849 | Glucagon (Fresenius Kabi USA) | Lyophilized powder for injection | Not available (valid) |
+| NDA212097 | Gvoke HypoPen (Xeris) | Injection, solution | Not available (valid) |
+| NDA214231 | Zegalogue (Novo Nordisk) | Injection, solution | Not available (valid) |
+| NDA210134 | Baqsimi (Amphastar) | Powder | Not available (valid) |
 | Not numbered | Glucagon (Professional Complementary Health Formulas) | Liquid | Not available (cancelled) |
 
 ## Safety Considerations
@@ -101,7 +101,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-- The TxGNN score is high (99.24%), but no trial or publication tests glucagon in IBS. The evidence concerns GLP-1 receptor agonists and ROSE-010, so it is indirect. Package insert safety data are also missing, and all US licences are recorded as cancelled.
+- The TxGNN score is high (0.9924), but no trial or publication tests glucagon in IBS. The evidence concerns GLP-1 receptor agonists and ROSE-010, so it is indirect. Package insert safety data are also missing, and 5 of 5 US licences are valid.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications, so that safety screening can start

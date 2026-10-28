@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "ALITRETINOIN"
 predicted_indications: ["amenorrhea (disease)", "acne (disease)", "atypical coarctation of aorta", "pregnancy associated osteoporosis", "aortic malformation", "postmenopausal osteoporosis", "autosomal dominant neovascular inflammatory vitreoretinopathy", "breast fibrocystic disease", "benign mammary dysplasia", "Worth syndrome"]
 last_modified_at: 2026-10-14
-description: "Alitretinoin: predicted new indication Amenorrhea (evidence level L5). Approved use: Not stated in the US license record. Drug-level pharmacology data lis…"
+description: "Alitretinoin: predicted new indication amenorrhea (evidence level L5). Approved use: Not stated in the US license record. Drug-level pharmacology data lis…"
 ---
 
 # Alitretinoin
@@ -33,12 +33,12 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Alitretinoin: From Kaposi Sarcoma Skin Lesions to Amenorrhea
+## Alitretinoin: From Kaposi Sarcoma Skin Lesions to amenorrhea
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Alitretinoin (9-cis-retinoic acid) is a retinoid that was marketed in the US as a topical gel (Panretin). The TxGNN model's top prediction is **Amenorrhea**, with a score of 99.99%. However, there are **0 clinical trials** and **0 publications** supporting this prediction, so it is a computational signal only.
+Alitretinoin (9-cis-retinoic acid) is a retinoid that was marketed in the US as a topical gel (Panretin). The TxGNN model's top prediction is **Amenorrhea**, with a score of 0.9999. However, there are **0 clinical trials** and **0 publications** supporting this prediction, so it is a computational signal only.
 
 ## Quick Overview
 
@@ -46,10 +46,10 @@ Alitretinoin (9-cis-retinoic acid) is a retinoid that was marketed in the US as 
 |------|------|
 | Original Indication | Not stated in the US license record. Drug-level pharmacology data lists Kaposi sarcoma and severe chronic hand eczema as clinical uses |
 | Predicted New Indication | Amenorrhea |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no active marketing authorisation) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -59,7 +59,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 That link is general, and it does not amount to a therapeutic rationale for amenorrhea. No clinical or literature evidence supports it. Retinoids are also strongly teratogenic, which is a major safety concern for use in women of reproductive age. The score should be treated as a computational hypothesis only.
 
 For context, the other nine predictions are also unsupported or weak:
-- **Acne** (score 99.92%) is the only prediction with any literature. It has two review articles on retinoids as a class, and none specific to alitretinoin. Evidence level is L4 and the stage is "Research Question". The mechanism is plausible, since retinoids normalise keratinocyte differentiation and reduce sebaceous activity.
+- **Acne** (score 0.9992) is the only prediction with any literature. It has two review articles on retinoids as a class, and none specific to alitretinoin. Evidence level is L4 and the stage is "Research Question". The mechanism is plausible, since retinoids normalise keratinocyte differentiation and reduce sebaceous activity.
 - **Aortic conditions** (atypical coarctation of aorta, aortic malformation) are structural anomalies unlikely to respond to drug therapy. Retinoid signalling's role in cardiovascular development is a teratogenic concern rather than a benefit.
 - **Osteoporosis** (pregnancy-associated and postmenopausal): excess retinoid or vitamin A exposure is associated with reduced bone density, which argues against benefit.
 - **Other predictions** (neovascular inflammatory vitreoretinopathy, fibrocystic breast disease, benign mammary dysplasia, Worth syndrome) have no supporting data.

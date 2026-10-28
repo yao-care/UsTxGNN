@@ -50,9 +50,9 @@ This prediction has **0 clinical trials** and **0 publications** behind it, so i
 |------|------|
 | Original Indication | Bursitis, synovitis, tenosynovitis, rheumatoid arthritis, ankylosing spondylitis, tendinitis, gout, osteoarthritis, frozen shoulder, patent ductus arteriosus (indication text is not recorded in the US license entries, so this comes from the knowledge graph) |
 | Predicted New Indication | Brachydactyly-syndactyly syndrome |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 (model prediction only) |
-| US Market Status | Cancelled only (no currently valid licenses in the compiled data) |
+| US Market Status | Marketed (valid licenses on record: at least 7) |
 | Number of NDAs | 7 (all cancelled) |
 | Recommended Decision | Hold |
 
@@ -62,9 +62,9 @@ This prediction has **0 clinical trials** and **0 publications** behind it, so i
 
 Detailed mechanism-of-action data is not available in the data compiled for this report. Indomethacin is generally known as a COX-1/COX-2 inhibitor that reduces prostaglandin-mediated inflammation and pain, and its efficacy in inflammatory arthritis is established.
 
-That mechanism does not obviously apply to the predicted condition. Brachydactyly-syndactyly syndrome is a rare congenital limb malformation driven by developmental genetics, not by ongoing inflammation. No mechanistic link between COX inhibition and this pathology has been identified. The high score (99.97%) reflects patterns in the knowledge graph, not biological or clinical support. It should be treated as a hypothesis-generating signal at most.
+That mechanism does not obviously apply to the predicted condition. Brachydactyly-syndactyly syndrome is a rare congenital limb malformation driven by developmental genetics, not by ongoing inflammation. No mechanistic link between COX inhibition and this pathology has been identified. The high score (0.9997) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It should be treated as a hypothesis-generating signal at most.
 
-**A more credible direction among the other predictions:** juvenile idiopathic arthritis (JIA, rank 8, score 99.84%) has some literature support, including a 1978 double-blind crossover trial in 30 children comparing ketoprofen and indomethacin (indomethacin was the preferred drug) and several pediatric rheumatology reviews. This reflects historical symptomatic NSAID use, not a new repurposing signal. NSAIDs do not modify the disease, and current JIA care relies mainly on DMARDs and biologics.
+**A more credible direction among the other predictions:** juvenile idiopathic arthritis (JIA, rank 8, score 0.9984) has some literature support, including a 1978 double-blind crossover trial in 30 children comparing ketoprofen and indomethacin (indomethacin was the preferred drug) and several pediatric rheumatology reviews. This reflects historical symptomatic NSAID use, not a new repurposing signal. NSAIDs do not modify the disease, and current JIA care relies mainly on DMARDs and biologics.
 
 ---
 
@@ -82,15 +82,15 @@ Currently no related literature available.
 
 ## US Market Information
 
-All seven US authorizations in the compiled data are cancelled.
+The drug is marketed, and all seven US authorizations in the compiled data are valid.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
 |---------|------|------|------|------|
-| ANDA091240 | Indomethacin | Capsule | Bryant Ranch Prepack | Cancelled |
-| ANDA201807 | Indomethacin | Capsule, extended release | Proficient Rx LP | Cancelled |
-| ANDA073314 | INDOCIN | Suppository | Zyla Life Sciences US Inc. | Cancelled |
-| ANDA091276 | Indomethacin | Capsule | DIRECT RX | Cancelled |
-| NDA018829 | Indomethacin | Capsule | Chartwell RX, LLC | Cancelled |
+| ANDA091240 | Indomethacin | Capsule | Bryant Ranch Prepack | Valid |
+| ANDA201807 | Indomethacin | Capsule, extended release | Proficient Rx LP | Valid |
+| ANDA073314 | INDOCIN | Suppository | Zyla Life Sciences US Inc. | Valid |
+| ANDA091276 | Indomethacin | Capsule | DIRECT RX | Valid |
+| NDA018829 | Indomethacin | Capsule | Chartwell RX, LLC | Valid |
 
 Two further cancelled entries (ANDA079175, extended-release capsule; ANDA216184, suppository) are not shown.
 

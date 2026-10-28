@@ -4,17 +4,17 @@ title: Diazoxide
 parent: Model Prediction Only (L5)
 nav_order: 601
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Diazoxide: predicted new indication Alopecia . The top three predictions… (evidence level L5). Approved use: Hyperinsulinemic hypoglycemia…"
 monitor_inn: "DIAZOXIDE"
-predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "hypertrichosis (disease)", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "autosomal dominant hyperinsulinism due to Kir6.2 deficiency"]
+predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "hypertrichosis (disease)", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality"]
+description: "Diazoxide: predicted new indication Hypotrichosis simplex of the scalp (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Diazoxide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Diazoxide: From Hyperinsulinemic Hypoglycemia to Alopecia
+## Diazoxide: Hypotrichosis simplex of the scalp
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,12 +47,12 @@ The TxGNN model predicts it may be effective for **Alopecia** (the highest-ranke
 
 | Item | Content |
 |------|------|
-| Original Indication | Hyperinsulinemic hypoglycemia, insulinoma and related pancreatic conditions |
-| Predicted New Indication | Alopecia (rank 4 of the model's top 10). The top three predictions, hypotrichosis simplex of the scalp, congenital hypotrichosis milia and diffuse alopecia areata, have no supporting evidence. |
-| TxGNN Prediction Score | 99.92% (alopecia). The top-ranked prediction, hypotrichosis simplex of the scalp, scores 99.96%. |
-| Evidence Level | L4 (preclinical evidence only) |
-| US Market Status | Cancelled only (no currently valid listings) |
-| Number of NDAs | 3 (all cancelled) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Hypotrichosis simplex of the scalp |
+| TxGNN Prediction Score | 0.9996 |
+| Evidence Level | L5 (preclinical evidence only) |
+| US Market Status | Marketed (valid licenses: 3 of 3) |
+| Number of NDAs | 3 (valid: 3) |
 | Recommended Decision | Hold (treat as a research question) |
 
 ---
@@ -68,7 +68,7 @@ The original and new indications are unrelated diseases. The connection rests on
 - **Diffuse alopecia areata:** this is autoimmune, and stimulating follicle growth does not address the immune attack.
 - **Hypertrichosis and Ambras syndrome:** diazoxide causes excess hair, so using it for these conditions makes no sense and could worsen them. These are adverse-effect signals, not therapeutic ones.
 - **Autosomal dominant hyperinsulinism due to Kir6.2 deficiency:** this is close to an existing use rather than a new one, and dominant Kir6.2 mutations are often diazoxide-unresponsive.
-- **Malformation syndromes (odontal/periodontal, Dandy-Walker):** there is no plausible mechanism, and these are likely knowledge-graph artifacts.
+- **Malformation syndromes (odontal/periodontal, Dandy-Walker):** there is no plausible mechanism, and these are likely TxGNN model (deep learning) artifacts.
 
 ---
 
@@ -99,11 +99,11 @@ The macaque study is the only direct efficacy evidence, and it is preclinical.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA211050 | Diazoxide (e5 Pharma, LLC) | Suspension | Not listed; status cancelled |
-| ANDA210799 | Diazoxide (Par Health USA, LLC) | Suspension | Not listed; status cancelled |
-| NDA017453 | Proglycem (Teva Pharmaceuticals USA, Inc.) | Suspension | Not listed; status cancelled |
+| ANDA211050 | Diazoxide (e5 Pharma, LLC) | Suspension | Not listed; status valid |
+| ANDA210799 | Diazoxide (Par Health USA, LLC) | Suspension | Not listed; status valid |
+| NDA017453 | Proglycem (Teva Pharmaceuticals USA, Inc.) | Suspension | Not listed; status valid |
 
-All three listings are cancelled, so no currently valid US listing was found in the compiled data. Only an oral suspension is on record. No topical formulation is listed.
+Only an oral suspension is on record. No topical formulation is listed.
 
 ---
 

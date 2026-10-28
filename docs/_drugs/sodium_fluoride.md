@@ -8,7 +8,7 @@ indication_count: 7
 monitor_inn: "SODIUM FLUORIDE"
 predicted_indications: ["epiglottitis", "urinary tract infection (disease)", "Ureaplasma urethritis", "gonococcal urethritis", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "laryngitis"]
 last_modified_at: 2026-10-14
-description: "Sodium Fluoride: predicted new indication Epiglottitis (evidence level L5). Approved use: Vitamin deficiency disorder"
+description: "Sodium Fluoride: predicted new indication Epiglottitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Sodium Fluoride
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-## Sodium Fluoride: From Vitamin Deficiency Disorder to Epiglottitis
+## Sodium Fluoride: Epiglottitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,21 +45,21 @@ The TxGNN model predicts it may be effective for **epiglottitis**, but this rest
 
 | Item | Content |
 |------|------|
-| Original Indication | Vitamin deficiency disorder (from knowledge-graph indication edges; no approved indication text on the US licences) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Epiglottitis |
-| TxGNN Prediction Score | 99.92% |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
+| US Market Status | Marketed (valid licenses on record: at least 3) |
 | Number of NDAs | 3 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Sodium fluoride is best known as a topical and dietary dental-caries preventive. Its relationship to vitamin deficiency disorder comes from knowledge-graph links, not from a documented therapeutic rationale.
+Currently, detailed mechanism of action data is not available. Sodium fluoride is best known as a topical and dietary dental-caries preventive. Its predicted relationship to vitamin deficiency disorder comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
-Epiglottitis is an acute airway infection, typically caused by *Haemophilus influenzae* type b or other bacteria. It is treated with systemic antibiotics and airway management. Nothing in the data compiled for this report shows an antibacterial or anti-inflammatory mechanism of sodium fluoride relevant to this condition. The very high score (0.999) is most likely a knowledge-graph artifact, not a mechanistic signal.
+Epiglottitis is an acute airway infection, typically caused by *Haemophilus influenzae* type b or other bacteria. It is treated with systemic antibiotics and airway management. Nothing in the data compiled for this report shows an antibacterial or anti-inflammatory mechanism of sodium fluoride relevant to this condition. The very high score (0.999) is most likely a TxGNN model (deep learning) artifact, not a mechanistic signal.
 
-The other top predictions show the same pattern. They are urinary tract infection, Ureaplasma urethritis, gonococcal urethritis, uterine inflammatory disease, xanthogranulomatous pyelonephritis and laryngitis. All score above 0.99, and none has clinical-trial evidence. Ureaplasma and gonococcal urethritis have identical scores, which suggests a shared graph-neighbourhood effect.
+The other top predictions show the same pattern. They are urinary tract infection, Ureaplasma urethritis, gonococcal urethritis, uterine inflammatory disease, xanthogranulomatous pyelonephritis and laryngitis. All score above 0.99, and none has clinical-trial evidence. Ureaplasma and gonococcal urethritis have identical scores, which may reflect similarities the TxGNN model (deep learning) learned between related diseases, not biological evidence.
 
 ## Clinical Trial Evidence
 
@@ -80,7 +80,7 @@ For the closely related prediction, laryngitis (rank 7), four papers were retrie
 
 ## US Market Information
 
-All three US authorizations in the data are cancelled, and none carries approved indication text.
+All three US authorizations in the data are valid, and none carries approved indication text.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -101,7 +101,7 @@ Please refer to the package insert for authoritative safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score, with no clinical trials or relevant publications (Evidence Level L5). No plausible mechanism links sodium fluoride to epiglottitis, which is already managed with established antibiotic therapy. All US authorizations are cancelled, and the safety package is incomplete.
+The prediction rests only on a model score, with no clinical trials or relevant publications (Evidence Level L5). No plausible mechanism links sodium fluoride to epiglottitis, which is already managed with established antibiotic therapy. The drug is marketed, with 3 valid US authorizations, and the safety package is incomplete.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

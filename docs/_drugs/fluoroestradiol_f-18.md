@@ -48,10 +48,10 @@ The prediction most likely reflects the drug's similarity to estradiol rather th
 |------|------|
 | Original Indication | Not available (no approved indication text in the data compiled for this report) |
 | Predicted New Indication | Amenorrhea |
-| TxGNN Prediction Score | 99.40% |
+| TxGNN Prediction Score | 0.9940 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (the single NDA is cancelled) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -66,7 +66,7 @@ The high TxGNN score (0.994) most likely reflects structural and target similari
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA212155 | CERIANNA (GE Healthcare Inc.) | Injection | Not available (status: cancelled) |
+| NDA212155 | CERIANNA (GE Healthcare Inc.) | Injection | Not available (status: valid) |
 
 ## Safety Considerations
 

@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Alpha -Tocopherol Dl- Ergocalciferol Phytonadione 
@@ -51,7 +52,7 @@ No clinical trial or literature evidence is available within this evaluation pac
 | Predicted New Indication | None identified |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | N/A — no predictions generated |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 4) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 

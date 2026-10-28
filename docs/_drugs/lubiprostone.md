@@ -39,7 +39,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 ## One-Sentence Summary
 
 Lubiprostone is a ClC-2 chloride channel activator used in the gut, with a pharmacology-database record describing its use in chronic constipation and irritable bowel syndrome.
-The TxGNN model predicts it may be effective for **alopecia**, but this is a knowledge-graph prediction only.
+The TxGNN model predicts it may be effective for **alopecia**, but this is a TxGNN model (deep learning) prediction only.
 Currently there are **0 clinical trials** and **0 publications** supporting this direction.
 
 ## Quick Overview
@@ -48,9 +48,9 @@ Currently there are **0 clinical trials** and **0 publications** supporting this
 |------|------|
 | Original Indication | Chronic constipation and irritable bowel syndrome (from a pharmacology database; the US license records contain no indication text) |
 | Predicted New Indication | Alopecia |
-| TxGNN Prediction Score | 99.93% |
+| TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 4) |
 | Number of NDAs | 4 authorization records (1 NDA, 3 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
@@ -58,7 +58,7 @@ Currently there are **0 clinical trials** and **0 publications** supporting this
 
 Currently, detailed mechanism of action data is not available in the compiled data. From pharmacology records, lubiprostone is a synthetic compound that activates the ClC-2 chloride channel in the gut. It is derived from a prostaglandin E1 metabolite (a bicyclic fatty acid, a "prostone").
 
-No established mechanism links ClC-2 activation to hair growth. The alopecia prediction is therefore best read as a computational artifact. The other highly ranked predictions are also hair disorders (congenital hypotrichosis milia, hypotrichosis simplex of the scalp, diffuse alopecia areata). This suggests the score reflects graph proximity to hair-loss phenotypes rather than biology. For alopecia areata specifically, the disease is T-cell mediated and lubiprostone has no recognized immunomodulatory action against it.
+No established mechanism links ClC-2 activation to hair growth. The alopecia prediction is therefore best read as a computational artifact. The other highly ranked predictions are also hair disorders (congenital hypotrichosis milia, hypotrichosis simplex of the scalp, diffuse alopecia areata). This suggests the score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. For alopecia areata specifically, the disease is T-cell mediated and lubiprostone has no recognized immunomodulatory action against it.
 
 A second group of predictions concerns vascular conditions: pulmonary hypertension, kyphoscoliotic heart disease, Raynaud disease, and peripheral vascular disease. Here the only rationale is speculative. The prostaglandin-like structure could suggest vasodilation, as prostacyclin analogs are used in pulmonary arterial hypertension and Raynaud phenomenon. However, lubiprostone's action is gut-localized, its systemic absorption is minimal, and no vascular activity has been demonstrated.
 
@@ -94,7 +94,7 @@ For other safety information, please refer to the package insert.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a knowledge-graph score. There are no clinical trials or publications, and no plausible mechanism links ClC-2 activation to hair growth or to the other predicted conditions. All US licenses are currently cancelled.
+The prediction rests only on a TxGNN model (deep learning) score. There are no clinical trials or publications, and no plausible mechanism links ClC-2 activation to hair growth or to the other predicted conditions. The drug is marketed in the US, with 4 valid licenses.
 
 **To proceed, the following is needed:**
 - Mechanistic evidence for a plausible link between ClC-2 activation (or prostone pharmacology) and hair follicle biology
@@ -102,7 +102,6 @@ The prediction rests only on a knowledge-graph score. There are no clinical tria
 - Package insert warnings and contraindications for safety screening
 - Detailed mechanism of action data from DrugBank
 - Assessment of route compatibility, since lubiprostone is oral and gut-localized with minimal systemic exposure, and any hair or vascular indication would likely need systemic or topical delivery
-- Clarification of why all US licenses are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

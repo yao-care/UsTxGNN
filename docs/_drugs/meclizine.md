@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **allergic urticaria**, but the
 |------|------|
 | Original Indication | Central nervous system origin vertigo; motion sickness |
 | Predicted New Indication | Allergic urticaria |
-| TxGNN Prediction Score | 99.67% |
+| TxGNN Prediction Score | 0.9967 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid authorizations) |
+| US Market Status | Marketed (valid licenses on record: at least 7) |
 | Number of NDAs | 7 licenses listed (all cancelled) |
 | Recommended Decision | Hold |
 
@@ -57,11 +57,11 @@ Other predicted indications, all also at L5 with a Hold recommendation:
 
 | Rank | Predicted Indication | TxGNN Score |
 |------|------|------|
-| 2 | Common cold | 99.49% |
-| 3 | Nasal cavity disease | 99.48% |
-| 4 | Pharyngitis | 99.45% |
-| 5 | Acute laryngopharyngitis | 99.37% |
-| 6 | Cold urticaria | 99.22% |
+| 2 | Common cold | 0.9949 |
+| 3 | Nasal cavity disease | 0.9948 |
+| 4 | Pharyngitis | 0.9945 |
+| 5 | Acute laryngopharyngitis | 0.9937 |
+| 6 | Cold urticaria | 0.9922 |
 
 ## Why is This Prediction Reasonable?
 
@@ -85,11 +85,11 @@ All seven licenses in the data compiled for this report are cancelled. No approv
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| M009 | Dramamine Less Drowsy Meclizine Hydrochloride | Tablet | Cancelled |
-| NDA010721 | Meclizine Hydrochloride | Tablet | Cancelled |
-| ANDA213957 | Meclizine Hydrochloride | Tablet | Cancelled |
-| part336 | Motion Sickness Relief | Chewable tablet | Cancelled |
-| ANDA201451 | Meclizine Hydrochloride | Tablet | Cancelled |
+| M009 | Dramamine Less Drowsy Meclizine Hydrochloride | Tablet | Valid |
+| NDA010721 | Meclizine Hydrochloride | Tablet | Valid |
+| ANDA213957 | Meclizine Hydrochloride | Tablet | Valid |
+| part336 | Motion Sickness Relief | Chewable tablet | Valid |
+| ANDA201451 | Meclizine Hydrochloride | Tablet | Valid |
 
 Two further cancelled licenses are not shown: M002 (Motion Sickness Relief, film-coated tablet) and ANDA040659 (Meclizine Hydrochloride, tablet). All available forms are oral.
 
@@ -107,14 +107,14 @@ Package insert warnings and contraindications were not available for this report
 **Decision: Hold**
 
 **Rationale:**
-The prediction (score 99.67%) is supported only by class-level reasoning, with no clinical trials or publications for meclizine in this indication. All US licenses are cancelled, and effective alternatives already exist for urticaria.
+The prediction (score 0.9967) is supported only by class-level reasoning, with no clinical trials or publications for meclizine in this indication. The drug is marketed in the US with 7 valid licenses, and effective alternatives already exist for urticaria.
 
 **To proceed, the following is needed:**
 - Literature and trial searches specific to meclizine in urticaria (and the other predicted indications)
 - Mechanism of action data to support the mechanistic link
 - Package insert warnings and contraindications for formal safety screening
 - A comparison against established non-sedating antihistamines to show added value
-- Assessment of the current US market and regulatory pathway, given that all licenses are cancelled
+- Assessment of the current US market and regulatory pathway, given that the drug is marketed with 7 valid licenses
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

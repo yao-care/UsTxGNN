@@ -4,17 +4,17 @@ title: Pembrolizumab
 parent: Model Prediction Only (L5)
 nav_order: 1024
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Pembrolizumab: predicted new indication Gingival fibromatosis (evidence level L5). Approved use: Non-small cell lung cancer, lung cancer, metastatic melanoma"
 monitor_inn: "PEMBROLIZUMAB"
 predicted_indications: ["fibromatosis, gingival", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "fibroma of lung", "lung benign neoplasm", "ovarioleukodystrophy", "pulmonary sulcus neoplasm", "lung germ cell tumor", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
+description: "Pembrolizumab: predicted new indication Fibromatosis, gingival (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Pembrolizumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Pembrolizumab: From Non-Small Cell Lung Cancer to Gingival Fibromatosis
+## Pembrolizumab: Fibromatosis, gingival
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,12 +48,12 @@ Among the other nine predictions, only "lung germ cell tumor" has any (indirect)
 
 | Item | Content |
 |------|------|
-| Original Indication | Non-small cell lung cancer, lung cancer, metastatic melanoma (from the knowledge graph; the US license record has no indication text) |
-| Predicted New Indication | Gingival fibromatosis |
-| TxGNN Prediction Score | 99.40% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Fibromatosis, gingival |
+| TxGNN Prediction Score | 0.9940 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (the single BLA record is marked cancelled) |
-| Number of NDAs | 1 (BLA125514) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,7 +62,7 @@ Among the other nine predictions, only "lung germ cell tumor" has any (indirect)
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, pembrolizumab is a monoclonal antibody that targets programmed cell death protein 1 (PD-1, CD279). By blocking PD-1, it releases the "brake" on T cells so the immune system can attack tumours. Its efficacy in lung cancer and melanoma is well established.
 
-For gingival fibromatosis, however, no mechanistic link has been established. It is a non-malignant fibrotic condition, and PD-1 blockade has no known rationale in it. The high TxGNN score (0.994) appears to be a knowledge-graph artifact rather than a biologically grounded signal. Note that scores across the top ten predictions are all about 99.3–99.4%, so the score does little to distinguish between candidates.
+For gingival fibromatosis, however, no mechanistic link has been established. It is a non-malignant fibrotic condition, and PD-1 blockade has no known rationale in it. The high TxGNN score (0.994) appears to be a TxGNN model (deep learning) artifact rather than a biologically grounded signal. Note that scores across the top ten predictions are all about 99.3–0.9940, so the score does little to distinguish between candidates.
 
 Other predicted indications fall into three groups:
 - **Benign or rare genetic conditions** (inclusion body myopathy with Paget disease, hamartoma of lung, fibroma of lung, lung benign neoplasm, ovarioleukodystrophy, and a rare leukomelanoderma syndrome): no PD-1 rationale. Immune checkpoint inhibitors can themselves cause myopathy and neurologic toxicity, which is a safety concern for some of these.
@@ -114,7 +114,7 @@ These support pembrolizumab's established use in malignant lung cancer. They are
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA125514 | KEYTRUDA (Merck Sharp & Dohme LLC) | Injection, solution | Not available in the data compiled; status: cancelled |
+| BLA125514 | KEYTRUDA (Merck Sharp & Dohme LLC) | Injection, solution | Not available in the data compiled; status: valid |
 
 The only US license record is marked cancelled, and no indication text was captured. This should be verified against the current FDA label, since pembrolizumab is widely marketed in practice.
 

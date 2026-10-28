@@ -48,17 +48,17 @@ This is a model-only prediction with no actual supporting studies.
 |------|------|
 | Original Indication | Not stated in the available approval records (the drug is known as an antiarrhythmic) |
 | Predicted New Indication | Tourette syndrome |
-| TxGNN Prediction Score | 99.46% |
+| TxGNN Prediction Score | 0.9946 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 5 (all cancelled; listed as ANDAs) |
+| US Market Status | Marketed (valid licenses: 5 of 5) |
+| Number of NDAs | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism-of-action data is not available in the data compiled for this report. Based on general pharmacology, procainamide is a class Ia sodium channel blocker used for cardiac arrhythmias.
 
-Nothing in its known pharmacology connects to the dopaminergic or cortico-striato-thalamo-cortical circuitry implicated in Tourette syndrome. The high TxGNN score (99.46%) reflects a graph-based prediction only, and no credible mechanistic rationale supports it.
+Nothing in its known pharmacology connects to the dopaminergic or cortico-striato-thalamo-cortical circuitry implicated in Tourette syndrome. The high TxGNN score (0.9946) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No credible mechanistic rationale supports it.
 
 Other top-ranked predictions show the same pattern. Most are also L5 predictions with no plausible mechanism (e.g., methemoglobinemia, trichotillomania, nephrogenic syndrome of inappropriate antidiuresis). Hyperthyroidism and Prinzmetal angina have only tangential literature. Rheumatoid arthritis has literature that points toward harm, as described in the safety section.
 
@@ -118,7 +118,7 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The Tourette syndrome prediction rests solely on a graph-based score. There are no clinical trials, no literature, and no plausible mechanism. Procainamide also carries significant safety signals (QT prolongation, blood dyscrasias, drug-induced lupus), and all of its US licenses are cancelled.
+The Tourette syndrome prediction rests solely on a score from the TxGNN model (deep learning), which may reflect similarities the model learned between related diseases, not biological evidence. There are no clinical trials, no literature, and no plausible mechanism. Procainamide also carries significant safety signals (QT prolongation, blood dyscrasias, drug-induced lupus), and it is marketed in the US with 5 valid licenses of 5.
 
 **To proceed, the following is needed:**
 - A documented mechanistic hypothesis linking sodium channel blockade to Tourette syndrome pathophysiology
@@ -126,7 +126,7 @@ The Tourette syndrome prediction rests solely on a graph-based score. There are 
 - Package insert warnings and contraindications, and approved indication text
 - Mechanism of action data from DrugBank
 - A risk-benefit analysis addressing proarrhythmic, haematological, and autoimmune risks, particularly in a younger Tourette population
-- A review of the commercial availability of the drug, since all US licenses are cancelled
+- A review of the commercial availability of the drug, which is marketed in the US (5 valid licenses of 5)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Gemcitabine
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 748
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 8
 last_modified_at: 2026-10-14
-description: "Gemcitabine: predicted new indication Female breast carcinoma (evidence level L1). Approved use: Ovarian cancer (and related ovarian tumour subtypes)"
 monitor_inn: "GEMCITABINE"
 predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mixed adenocarcinoma", "endometrial mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "secretory uterine corpus endometrioid adenocarcinoma"]
+description: "Gemcitabine: predicted new indication Rectum mucinous adenocarcinoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Gemcitabine
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,22 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-## Gemcitabine: From Ovarian Cancer to Female Breast Carcinoma
+## Gemcitabine: Rectum mucinous adenocarcinoma
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Gemcitabine is a nucleoside-analog chemotherapy drug, listed in the knowledge graph for ovarian cancer and related ovarian tumour types.
-The TxGNN model predicts it may be effective for **Female Breast Carcinoma**,
 with **40 clinical trials** and **20 publications** compiled for this direction, including completed Phase 3 studies.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Ovarian cancer (and related ovarian tumour subtypes) |
-| Predicted New Indication | Female breast carcinoma |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L1 |
-| US Market Status | Cancelled only (all 13 licenses cancelled) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Rectum mucinous adenocarcinoma |
+| TxGNN Prediction Score | 0.9977 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 13) |
 | Number of NDAs | 13 (NDA and ANDA combined) |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -96,7 +94,7 @@ No randomized controlled trial publications were retrieved; the literature is ma
 
 ## US Market Information
 
-All 13 US licenses for gemcitabine are cancelled, and none is currently valid. The approved-indication text was not available. Five examples are shown.
+The approved-indication text was not available. Five examples are shown.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -111,7 +109,6 @@ All 13 US licenses for gemcitabine are cancelled, and none is currently valid. T
 | Item | Content |
 |------|------|
 | Cytotoxicity Classification | Conventional cytotoxic (pyrimidine nucleoside antimetabolite) |
-| Myelosuppression Risk | Medium to high; the knowledge graph links the drug to leukopenia, thrombocytopenia and anaemia |
 | Emetogenicity Classification | Low to moderate |
 | Monitoring Items | CBC with differential, liver and renal function |
 | Handling Protection | Follow cytotoxic drug handling regulations |
@@ -131,12 +128,11 @@ Please refer to the package insert for official warnings and contraindications.
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Multiple completed Phase 3 and Phase 2 trials, along with many reviews, support gemcitabine-based regimens in breast cancer. Gemcitabine is not currently marketed in the US under a valid license, and official safety text and mechanism data are missing, so the decision comes with conditions.
+Multiple completed Phase 3 and Phase 2 trials, along with many reviews, support gemcitabine-based regimens in breast cancer.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism-of-action data from DrugBank
-- Confirmation of the current US regulatory and marketing status, since all 13 licenses are cancelled
 - Review of Phase 3 results for the gemcitabine-containing arms (NCT00006459, NCT00093795), since enrollment and outcome data are incomplete
 - A safety monitoring plan for myelosuppression, and for renal, hepatic and pulmonary risk
 ## Disclaimer

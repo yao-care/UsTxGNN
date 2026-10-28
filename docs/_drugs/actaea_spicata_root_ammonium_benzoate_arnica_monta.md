@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Actaea Spicata Root Ammonium Benzoate Arnica Monta
@@ -51,7 +52,7 @@ Without predictions, clinical trial evidence, or safety data, a full evaluation 
 | Predicted New Indication | Not available — TxGNN returned no predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | Cannot be determined |
-| US Market Status | Not marketed (0 NDAs on file) |
+| US Market Status | Marketed (valid licenses on record: at least 4) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Activated Charcoal Arsenic Triiodide Beef Lung Oen
@@ -51,7 +52,7 @@ This evaluation cannot proceed further until foundational data gaps are resolved
 | Predicted New Indication | None |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — no actual studies; model prediction unavailable |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 6) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 

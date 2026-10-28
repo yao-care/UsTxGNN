@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Acetaminophen Chlorpheniramine Maleate Dextrometho
@@ -51,7 +52,7 @@ As a result, **no clinical trial or literature evidence** for a new indication w
 | Predicted New Indication | — (No prediction generated) |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | N/A — model produced no output |
-| US/TW Market Status | Not marketed (Not found in regulatory database) |
+| US/TW Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

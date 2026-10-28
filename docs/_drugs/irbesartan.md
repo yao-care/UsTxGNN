@@ -4,17 +4,17 @@ title: Irbesartan
 parent: Model Prediction Only (L5)
 nav_order: 809
 evidence_level: L5
-indication_count: 4
+indication_count: 3
 last_modified_at: 2026-10-14
-description: "Irbesartan: predicted new indication Malignant renovascular hypertension (evidence level L5). Approved use: Hypertension, hypertensive disorder, diabetic nephropathy"
 monitor_inn: "IRBESARTAN"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
+description: "Irbesartan: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Irbesartan
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **4** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,23 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-## Irbesartan: From Hypertension to Malignant Renovascular Hypertension
+## Irbesartan: Malignant hypertensive renal disease
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Irbesartan is an angiotensin II receptor blocker (ARB) originally used to treat hypertension and diabetic nephropathy.
-The TxGNN model predicts it may be effective for **malignant renovascular hypertension**, but **0 clinical trials** and **0 publications** currently support this specific prediction.
 The score most likely reflects the drug's closeness to its already approved hypertension use rather than independent evidence.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension, hypertensive disorder, diabetic nephropathy (the U.S. license records compiled for this report contain no indication text, so these come from the knowledge-graph indication edges) |
-| Predicted New Indication | Malignant renovascular hypertension |
-| TxGNN Prediction Score | 99.31% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Malignant hypertensive renal disease |
+| TxGNN Prediction Score | 0.9931 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all licenses cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 9) |
 | Number of NDAs | 9 (1 NDA and 8 ANDAs) |
 | Recommended Decision | Hold |
 
@@ -58,7 +57,7 @@ The score most likely reflects the drug's closeness to its already approved hype
 
 Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, irbesartan is an AT1 receptor blocker. Its efficacy in hypertension and diabetic nephropathy is established, and mechanistically it may be applicable to renovascular hypertension, which is driven largely by activation of the renin-angiotensin system.
 
-Malignant renovascular hypertension is largely a severe subtype of the already labeled hypertension use. The very high TxGNN score (0.993) most likely reflects knowledge-graph proximity to existing indications rather than new evidence.
+Malignant renovascular hypertension is largely a severe subtype of the already labeled hypertension use.
 
 There are important caveats:
 - Malignant hypertension is a hypertensive emergency, usually managed with rapid-acting agents rather than an oral ARB.
@@ -68,9 +67,9 @@ There are important caveats:
 
 | Rank | Predicted Indication | TxGNN Score | Evidence Level | Assessment |
 |------|------|------|------|------|
-| 2 | Malignant hypertensive renal disease | 99.31% | L5 | No trials or literature. Rapid-acting agents are typically used. Hold. |
-| 3 | Pulmonary hypertension owing to lung disease and/or hypoxia | 99.25% | L4 | Indirect preclinical evidence only (cardiac and high-altitude animal models). Research question. |
-| 4 | Pulmonary hypertension with unclear multifactorial mechanism | 99.25% | L5 | Heterogeneous category with no supporting evidence. Hold. |
+| 2 | Malignant hypertensive renal disease | 0.9931 | L5 | No trials or literature. Rapid-acting agents are typically used. Hold. |
+| 3 | Pulmonary hypertension owing to lung disease and/or hypoxia | 0.9925 | L5 | Indirect preclinical evidence only (cardiac and high-altitude animal models). Research question. |
+| 4 | Pulmonary hypertension with unclear multifactorial mechanism | 0.9925 | L5 | Heterogeneous category with no supporting evidence. Hold. |
 
 The literature evidence for the top-ranked prediction is empty, so the table below covers only the third-ranked indication (pulmonary hypertension owing to lung disease and/or hypoxia), the only one with retrieved publications.
 
@@ -98,11 +97,11 @@ These findings are indirect: they come mostly from cardiac or high-altitude anim
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA020757 | Avapro (Sanofi-Aventis U.S. LLC) | Tablet, film coated | Not available (cancelled) |
-| ANDA202910 | Irbesartan (AvPAK) | Tablet | Not available (cancelled) |
-| ANDA203071 | Irbesartan (A-S Medication Solutions) | Tablet | Not available (cancelled) |
-| ANDA091236 | Irbesartan (Alembic Pharmaceuticals Inc.) | Tablet | Not available (cancelled) |
-| ANDA202254 | Irbesartan (Macleods Pharmaceuticals Limited) | Tablet | Not available (cancelled) |
+| NDA020757 | Avapro (Sanofi-Aventis U.S. LLC) | Tablet, film coated | Not available (valid) |
+| ANDA202910 | Irbesartan (AvPAK) | Tablet | Not available (valid) |
+| ANDA203071 | Irbesartan (A-S Medication Solutions) | Tablet | Not available (valid) |
+| ANDA091236 | Irbesartan (Alembic Pharmaceuticals Inc.) | Tablet | Not available (valid) |
+| ANDA202254 | Irbesartan (Macleods Pharmaceuticals Limited) | Tablet | Not available (valid) |
 
 Nine licenses are on record in total (1 NDA, 8 ANDAs), and all are cancelled. Only the first five are listed above.
 
@@ -131,13 +130,13 @@ The renal artery obstruction signal is directly relevant to the predicted renova
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on model output alone (L5), with no clinical trials or literature for malignant renovascular hypertension. The indication largely overlaps the existing hypertension use. Malignant hypertension is an emergency typically managed with rapid-acting agents, and ARBs carry kidney risks in renal artery stenosis. The pulmonary hypertension prediction has only indirect preclinical support and is best treated as a research question.
+The indication largely overlaps the existing hypertension use. Malignant hypertension is an emergency typically managed with rapid-acting agents, and ARBs carry kidney risks in renal artery stenosis. The pulmonary hypertension prediction has only indirect preclinical support and is best treated as a research question.
 
 **To proceed, the following is needed:**
 - Official package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data
 - Clinical evidence in renovascular hypertension, with specific attention to renal safety in bilateral renal artery stenosis
-- Confirmation of the current U.S. regulatory status, since all licenses are recorded as cancelled
+- Confirmation of the current U.S.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Protriptyline
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1096
-evidence_level: L3
+evidence_level: L5
 indication_count: 5
 monitor_inn: "PROTRIPTYLINE"
 predicted_indications: ["attention deficit hyperactivity disorder, inattentive type", "specific developmental disorder", "attention deficit-hyperactivity disorder", "chondromyxoid fibroma", "faciodigitogenital syndrome"]
 last_modified_at: 2026-10-14
-description: "Protriptyline: predicted new indication Attention deficit-hyperactivity disorder (evidence level L3). Approved use: Anxiety disorder, neurotic disorder, dysthymic disorder"
+description: "Protriptyline: predicted new indication Attention deficit hyperactivity disorder, inattentive type (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Protriptyline
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,27 +33,26 @@ Evidence Level: **L3** | Predicted Indications: **5**
 
 </div>
 
-## Protriptyline: From Anxiety Disorder to Attention Deficit-Hyperactivity Disorder
+## Protriptyline: Attention deficit hyperactivity disorder, inattentive type
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Protriptyline is a tricyclic antidepressant, listed in the knowledge graph for anxiety disorder, neurotic disorder, and dysthymic disorder.
 The TxGNN model predicts it may be effective for **attention deficit-hyperactivity disorder (ADHD)**, with **0 registered clinical trials** and **1 relevant publication** (a 1996 naturalistic study) currently supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Anxiety disorder, neurotic disorder, dysthymic disorder (from the knowledge graph; no approved indication text is available in the US license records) |
-| Predicted New Indication | Attention deficit-hyperactivity disorder (rank 3 of the model's predictions; the top-ranked prediction, ADHD inattentive type, has no supporting studies) |
-| TxGNN Prediction Score | 99.77% |
-| Evidence Level | L3 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 2 (both cancelled ANDAs) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Attention deficit hyperactivity disorder, inattentive type |
+| TxGNN Prediction Score | 0.9995 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
-**Note on the choice of indication:** The top-ranked prediction, ADHD inattentive type (score 99.95%), has no clinical trials or literature (L5). The report therefore focuses on the closely related general ADHD prediction (score 99.77%), which is the only prediction with direct supporting literature. The other predictions are summarised at the end of the report.
+**Note on the choice of indication:** The top-ranked prediction, ADHD inattentive type (score 0.9995), has no clinical trials or literature (L5). The report therefore focuses on the closely related general ADHD prediction (score 0.9977), which is the only prediction with direct supporting literature. The other predictions are summarised at the end of the report.
 
 ## Why is This Prediction Reasonable?
 
@@ -82,7 +81,7 @@ Two other retrieved papers (PMIDs 19007502 and 22112053) are urine assay methods
 | ANDA202220 (cancelled) | Protriptyline Hydrochloride (Epic Pharma, LLC) | Film-coated tablet | Not available |
 | ANDA090462 (cancelled) | Protriptyline Hydrochloride (Sigmapharm Laboratories, LLC) | Film-coated tablet | Not available |
 
-Both authorizations are cancelled, so no valid US marketing authorization is currently on record. Any development would need a new supply or approval pathway.
+Any development would need a new supply or approval pathway.
 
 ## Safety Considerations
 
@@ -110,10 +109,9 @@ The only support for ADHD is a single uncontrolled 1996 observational study and 
 
 | Rank | Predicted Indication | TxGNN Score | Evidence Level | Comment |
 |------|------|------|------|------|
-| 1 | ADHD, inattentive type | 99.95% | L5 | Mechanistic inference only; no trials or literature |
-| 2 | Specific developmental disorder | 99.91% | L5 | No clear mechanistic rationale; likely network proximity to ADHD |
-| 4 | Chondromyxoid fibroma | 99.66% | L5 | No plausible pharmacological link; likely a graph artifact |
-| 5 | Faciodigitogenital syndrome | 99.48% | L5 | No mechanistic rationale for this genetic condition; unsupported |
+| 1 | ADHD, inattentive type | 0.9995 | L5 | Mechanistic inference only; no trials or literature |
+| 2 | Specific developmental disorder | 0.9991 | L5 | No clear mechanistic rationale; likely network proximity to ADHD |
+| 5 | Faciodigitogenital syndrome | 0.9948 | L5 | No mechanistic rationale for this genetic condition; unsupported |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

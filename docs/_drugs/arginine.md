@@ -48,10 +48,10 @@ but there are currently **0 clinical trials** and only **9 publications**, all p
 |------|------|
 | Original Indication | Not specified in the available data |
 | Predicted New Indication | Gastroparesis |
-| TxGNN Prediction Score | 99.42% |
+| TxGNN Prediction Score | 0.9942 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 3 (all cancelled) |
+| US Market Status | Marketed (valid licenses: 3 of 3) |
+| Number of NDAs | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -86,7 +86,7 @@ All publications below are preclinical studies or a case report; none is a human
 
 ## US Market Information
 
-All three US authorizations are cancelled, and no approved indication text is available for them.
+All three US authorizations are valid, and no approved indication text is available for them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -114,7 +114,7 @@ Several of these are relevant to the target population, since gastroparesis is o
 **Decision: Hold**
 
 **Rationale:**
-The prediction is mechanistically plausible, because arginine is the substrate for nitric oxide production involved in gastric motility. However, the evidence is limited to animal studies and a case report (Evidence Level L4), there are no registered clinical trials, no approved indication is on record, all US licenses are cancelled, and package insert safety data are missing.
+The prediction is mechanistically plausible, because arginine is the substrate for nitric oxide production involved in gastric motility. However, the evidence is limited to animal studies and a case report (Evidence Level L4), there are no registered clinical trials, no approved indication is on record, all three US licenses are valid, and package insert safety data are missing.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

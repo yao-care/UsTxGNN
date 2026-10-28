@@ -1,18 +1,19 @@
 ---
 layout: default
 title: Silicon Dioxide
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 1159
-evidence_level: L5
-indication_count: 4
-last_modified_at: 2026-10-14
-description: "Silicon Dioxide: predicted new indication Active peptic ulcer disease (evidence level L5). Approved use: Peptic ulcer disease, GERD, esophagitis, dyspepsia"
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Silicon Dioxide: known uses and market status in the United States; currently no new candidate indication"
+predicted_indications: []
 ---
 
 # Silicon Dioxide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **4** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,50 +32,50 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-## Silicon Dioxide: From Peptic Ulcer Disease to Active Peptic Ulcer Disease
+<!-- known-uses-page -->
+<!-- description: Silicon Dioxide: known uses and market status in the United States; currently no new candidate indication -->
+## Silicon Dioxide: Known uses and market status in the United States
 {: .text-alpha }
 
-## One-Sentence Summary
+## Summary
+The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Silicon Dioxide, but every candidate that can be traced to a source is already a known use. There is therefore currently no new predicted indication for this drug. The four known uses below are relations recorded in the knowledge graph.
 
-Silicon dioxide was originally associated with acid-related upper gastrointestinal conditions such as peptic ulcer disease, gastroesophageal reflux disease (GERD), esophagitis and dyspepsia.
-The TxGNN model predicts it may be effective for **active peptic ulcer disease**, but there are currently **0 clinical trials** and **0 publications** supporting this direction.
-The prediction is therefore a network-based inference only, and it largely re-labels an existing indication.
-
-## Quick Overview
-
+## Quick overview
 | Item | Content |
 |------|------|
-| Original Indication | Peptic ulcer disease, GERD, esophagitis, dyspepsia (from the knowledge graph; no approved indication text is available in US licensing data) |
-| Predicted New Indication | Active peptic ulcer disease |
-| TxGNN Prediction Score | 99.93% |
-| Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 (cancelled) |
-| Recommended Decision | Hold |
+| New predicted indications | None (all traceable model candidates are known uses) |
+| Known uses among model candidates | 4 |
+| Evidence level | Not applicable |
+| Market status in the United States | Marketed (valid licenses on record: at least 1) |
+| Number of NDAs | at least 1 |
 
-## Why is This Prediction Reasonable?
+## Known uses among the model's candidates
 
-Currently, detailed mechanism of action data is not available. Based on known information, silicon dioxide is typically used as an excipient or as an anti-foaming/adsorbent agent. No pharmacological rationale for ulcer healing is documented in the data compiled for this report.
+### Approved (supported by a licence or label)
+| Indication | Source |
+|------|------|
+| none | none |
 
-The very high score (99.93%) most likely reflects how close the predicted disease sits to the drug's existing indications in the knowledge graph. Active peptic ulcer disease overlaps heavily with peptic ulcer disease, GERD and dyspepsia, so this looks like a re-labeling of an existing indication rather than a true repurposing candidate.
+### Related to an approved indication (same disease category)
+| Indication | Approved category |
+|------|------|
+| none | none |
 
-The other predicted indications show the same pattern. They are peptic ulcer perforation (99.92%), gastrojejunal ulcer (99.92%) and gastric ulcer (99.83%). The identical scores for the first two suggest a shared graph neighborhood of ulcer-type disease nodes rather than disease-specific evidence. Peptic ulcer perforation is an acute surgical complication, so an oral agent with no known mechanism is not a plausible therapy for it. Any benefit in the other ulcer indications would be speculative, for example a physical protective or adsorptive effect, and nothing in the data supports it.
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-## Literature Evidence
-
-Currently no related literature available.
+### Relations recorded in the knowledge graph (no approval found)
+| Indication |
+|------|
+| active peptic ulcer disease |
+| peptic ulcer perforation |
+| gastrojejunal ulcer |
+| gastric ulcer (disease) |
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| Not available | BM Silicea Icing Sugar (BM Private Limited) | Tablet | Not stated (status: cancelled) |
+| Licence | Product | Dosage form | Status |
+|------|------|------|------|
+| nan | Silicea Icing Sugar | TABLET | Valid |
 
-Other dosage forms recorded for silicon dioxide include oral soluble tablets, patches, pellets, liquids and topical creams. No valid single-ingredient or combination licenses are currently active.
+Only part of the licence list is held in the data; the list may be incomplete.
 
 ## Safety Considerations
 
@@ -82,19 +83,6 @@ Other dosage forms recorded for silicon dioxide include oral soluble tablets, pa
 
 No drug-interaction records were found. Please refer to the package insert for further safety information.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The prediction score is very high, but it is based only on knowledge-graph proximity to the drug's existing indications. There are no clinical trials, no literature, no mechanism data and no active US marketing authorization, so the evidence level is L5.
-
-**To proceed, the following is needed:**
-- Mechanism of action data, to establish a plausible pharmacological link to ulcer healing
-- FDA package insert warnings and contraindications, which block progression to safety screening
-- Clinical or preclinical evidence for silicon dioxide in peptic ulcer disease
-- Clarification of whether the prediction is a true new indication or only a re-labeling of existing indications
-- Confirmation of the regulatory status, since the only US license is cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Apis Mellifera Arnica Montana Benzoic Acid Caustic
@@ -51,7 +52,7 @@ Without foundational drug identity data, no evidence-based repurposing evaluatio
 | Predicted New Indication | None — TxGNN could not process this entry |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | Not assessable |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 12) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

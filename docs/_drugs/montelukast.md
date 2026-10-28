@@ -4,17 +4,17 @@ title: Montelukast
 parent: High Evidence (L1-L2)
 nav_order: 942
 evidence_level: L2
-indication_count: 5
+indication_count: 3
 last_modified_at: 2026-10-14
-description: "Montelukast: predicted new indication Bronchitis (evidence level L2). Approved use: Allergic rhinitis, vasomotor rhinitis, intrinsic asthma…"
 monitor_inn: "MONTELUKAST"
 predicted_indications: ["bronchitis", "atopic eczema", "obstructive lung disease"]
+description: "Montelukast: predicted new indication Bronchitis (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
 # Montelukast
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **5** 
+Evidence Level: **L2** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L2** | Predicted Indications: **5**
 
 </div>
 
-## Montelukast: From Allergic Rhinitis and Asthma to Bronchitis
+## Montelukast: Bronchitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,11 +48,11 @@ The data compiled for this report include **17 clinical trials** and **20 public
 
 | Item | Content |
 |------|------|
-| Original Indication | Allergic rhinitis, vasomotor rhinitis, intrinsic asthma, allergic asthma (the license records contain no indication text, so this comes from the knowledge-graph indication list) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Bronchitis |
-| TxGNN Prediction Score | 99.95% |
+| TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L2 |
-| US Market Status | Cancelled only (all 14 records are cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 14) |
 | Number of NDAs | 14 US authorizations (1 NDA and 13 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
@@ -108,7 +108,7 @@ The compiled literature contains no RCT reports for this indication. The list be
 
 ## US Market Information
 
-All 14 US authorizations are cancelled and none is currently valid. The license records contain no approved-indication text. The five main authorizations are listed below.
+The drug is marketed in the US, with 14 valid authorizations. The license records contain no approved-indication text. The five main authorizations are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -137,7 +137,7 @@ Please refer to the package insert for the full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The mechanism is plausible and several randomized trials exist, including one large Phase 3 trial in RSV bronchiolitis. The compiled data contain no results showing clear efficacy, and the predicted "bronchitis" covers distinct diseases. The neuropsychiatric boxed-warning risk is a particular concern for infants and children, and all US authorizations in this dataset are cancelled.
+The mechanism is plausible and several randomized trials exist, including one large Phase 3 trial in RSV bronchiolitis. The compiled data contain no results showing clear efficacy, and the predicted "bronchitis" covers distinct diseases. The neuropsychiatric boxed-warning risk is a particular concern for infants and children, and the drug is marketed in the US with 14 valid authorizations.
 
 **To proceed, the following is needed:**
 - Published results of the Phase 3 RSV bronchiolitis trial (NCT00076973) and the placebo-controlled bronchiolitis trials, with the Cochrane review conclusions

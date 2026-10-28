@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "IOHEXOL"
 predicted_indications: ["insomnia (disease)", "anxiety"]
 last_modified_at: 2026-10-14
-description: "Iohexol: predicted new indication Insomnia (evidence level L5). Approved use: Not stated in the available U.S. license records"
+description: "Iohexol: predicted new indication Insomnia (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Iohexol
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-## Iohexol: From Radiographic Contrast Imaging to Insomnia
+## Iohexol: Insomnia (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,21 +46,21 @@ This is a model-only prediction with no supporting evidence, and the mechanistic
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the available U.S. license records (iohexol is generally used as a radiographic contrast agent) |
-| Predicted New Indication | Insomnia |
-| TxGNN Prediction Score | 99.87% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Insomnia (disease) |
+| TxGNN Prediction Score | 0.9987 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 2 (both cancelled) |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Iohexol is a non-ionic, iodinated contrast agent. It is considered pharmacologically inert and has no known activity on sleep-regulating pathways such as GABAergic, orexinergic, melatonergic or histaminergic signalling.
 
-There is no clear relationship between its original use (imaging) and insomnia. The very high TxGNN score (99.87%) is a knowledge-graph prediction only. It is not supported by any clinical trial or publication, and it likely reflects network artifacts, such as the large number of drug-drug interaction relationships (100 recorded), rather than a true pharmacological effect.
+There is no clear relationship between its original use (imaging) and insomnia. The very high TxGNN score (0.9987) is a TxGNN model (deep learning) prediction only. It is not supported by any clinical trial or publication, and it likely reflects network artifacts, such as the large number of drug-drug interaction relationships (100 recorded), rather than a true pharmacological effect.
 
-A second prediction, **anxiety** (score 99.25%), shows the same pattern. The retrieved publications deal with iohexol as a contrast agent, and anxiety appears only as a procedural or side-effect context, not as a therapeutic target.
+A second prediction, **anxiety** (score 0.9925), shows the same pattern. The retrieved publications deal with iohexol as a contrast agent, and anxiety appears only as a procedural or side-effect context, not as a therapeutic target.
 
 ## Clinical Trial Evidence
 
@@ -83,8 +83,8 @@ For the second predicted indication (anxiety), four publications were retrieved.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA018956 | OMNIPAQUE (GE Healthcare Inc.) | Injection, solution | Not stated; status: cancelled |
-| ANDA217737 | Iohexol (Amneal Pharmaceuticals Private Limited) | Injection, solution | Not stated; status: cancelled |
+| NDA018956 | OMNIPAQUE (GE Healthcare Inc.) | Injection, solution | Not stated; status: valid |
+| ANDA217737 | Iohexol (Amneal Pharmaceuticals Private Limited) | Injection, solution | Not stated; status: valid |
 
 ## Safety Considerations
 
@@ -108,12 +108,12 @@ Please refer to the package insert for other safety information, including warni
 **Decision: Hold**
 
 **Rationale:**
-Both predictions (insomnia and anxiety) are supported only by the TxGNN model score. There are no clinical trials, no relevant literature and no plausible pharmacological mechanism. The drug has no currently valid U.S. license, and key safety and mechanism data are missing.
+Both predictions (insomnia and anxiety) are supported only by the TxGNN model score. There are no clinical trials, no relevant literature and no plausible pharmacological mechanism. license, and key safety and mechanism data are missing.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (needed for any safety screening)
 - Mechanism of action data, to test whether any biologically plausible link to sleep or anxiety pathways exists
-- Any preclinical or clinical signal for insomnia, otherwise the prediction should be treated as a likely knowledge-graph artifact
+- Any preclinical or clinical signal for insomnia, otherwise the prediction should be treated as a likely TxGNN model (deep learning) artifact
 - Clarification of the original approved indication, since the license records contain none
 ## Disclaimer
 

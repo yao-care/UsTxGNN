@@ -48,9 +48,9 @@ with **no registered clinical trials** but **20 publications** (including 1 rand
 |------|------|
 | Original Indication | Autoimmune disease (broad indication set including Crohn disease, adrenocortical insufficiency, acute lymphoblastic leukemia and eosinophilic pneumonia; no approved-indication text is available from the US labels) |
 | Predicted New Indication | Alopecia areata |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L3 |
-| US Market Status | Cancelled only (all licenses cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 12) |
 | Number of NDAs | 12 (all are ANDAs, all cancelled) |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -111,7 +111,7 @@ The mechanistic rationale is sound and supported by a double-blind randomized tr
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (currently a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
-- Confirmation of the current US market status, since all listed licenses are cancelled
+- Confirmation of the current US market status, since the drug is marketed with 12 valid licenses
 - Controlled data on prednisone alone for alopecia areata, with relapse rates after tapering
 - A short-course or pulse dosing and safety-monitoring plan to limit steroid toxicity
 ## Disclaimer

@@ -4,17 +4,17 @@ title: Etodolac
 parent: Model Prediction Only (L5)
 nav_order: 683
 evidence_level: L5
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-14
-description: "Etodolac: predicted new indication Top-ranked: Acromesomelic dysplasia… (evidence level L5). Approved use: Rheumatoid arthritis, osteoarthritis, juvenile idiopathic arthritis…"
 monitor_inn: "ETODOLAC"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "spondyloarthropathy, susceptibility to", "brachyolmia", "ankylosing spondylitis", "pseudoachondroplasia", "hypermobility of coccyx", "inflammatory spondylopathy"]
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx"]
+description: "Etodolac: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Etodolac
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Etodolac: From Arthritis to Ankylosing Spondylitis
+## Etodolac: Acromesomelic dysplasia, Hunter-Thompson type
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,10 +45,10 @@ The TxGNN model predicts it may be effective for **Acromesomelic Dysplasia, Hunt
 
 | Item | Content |
 |------|------|
-| Original Indication | Rheumatoid arthritis, osteoarthritis, juvenile idiopathic arthritis, spondyloarthropathy (the US label text was not available) |
-| Predicted New Indication | Top-ranked: Acromesomelic dysplasia, Hunter-Thompson type (score 99.97%, no evidence). Best-supported: Ankylosing spondylitis (score 99.93%) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Acromesomelic dysplasia, Hunter-Thompson type |
 | Evidence Level | L5 for the top-ranked prediction; L4 for ankylosing spondylitis |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 10) |
 | Number of NDAs | 10 (all ANDAs, all cancelled) |
 | Recommended Decision | Hold (top-ranked prediction); Research Question for ankylosing spondylitis |
 
@@ -56,9 +56,9 @@ The TxGNN model predicts it may be effective for **Acromesomelic Dysplasia, Hunt
 
 Detailed mechanism of action data is not available in the data compiled for this report. Based on the literature, etodolac is an NSAID whose primary anti-inflammatory action is a selective effect on cyclo-oxygenase-2 (COX-2). This reduces prostaglandin-mediated inflammation and pain.
 
-**Top-ranked prediction (Hunter-Thompson acromesomelic dysplasia):** This is a genetic skeletal disorder caused by growth-factor (GDF5) signaling defects. No plausible mechanism links an NSAID to correcting this defect. The high score most likely reflects shared skeletal and joint features in the knowledge graph, not a real therapeutic link. The same applies to brachyolmia, brachyolmia-amelogenesis imperfecta syndrome, myosclerosis and pseudoachondroplasia, none of which has any supporting studies.
+**Top-ranked prediction (Hunter-Thompson acromesomelic dysplasia):** This is a genetic skeletal disorder caused by growth-factor (GDF5) signaling defects. No plausible mechanism links an NSAID to correcting this defect. The same applies to brachyolmia, brachyolmia-amelogenesis imperfecta syndrome, myosclerosis and pseudoachondroplasia, none of which has any supporting studies.
 
-**Ankylosing spondylitis and inflammatory spondylopathy:** These are the mechanistically plausible candidates. NSAIDs are first-line therapy for axial spondyloarthritis. However, spondyloarthropathy is already among etodolac's original indications, so this is an extension within an existing use, not a novel repurposing. "Spondyloarthropathy, susceptibility to" (rank 4) is a genetic-risk entry and is likewise redundant with the existing indication.
+NSAIDs are first-line therapy for axial spondyloarthritis. However, spondyloarthropathy is already among etodolac's original indications, so this is an extension within an existing use, not a novel repurposing.
 
 **Other predictions:** Rheumatoid vasculitis is a severe systemic complication normally managed with corticosteroids and immunosuppressants. NSAIDs are not disease-modifying there and may add renal and cardiovascular risk. Hypermobility of coccyx has only an indirect symptomatic rationale (NSAIDs for coccydynia pain), with no etodolac-specific data.
 
@@ -83,15 +83,14 @@ Evidence for **ankylosing spondylitis** (the same set supports inflammatory spon
 
 ## US Market Information
 
-All 10 US authorizations are cancelled, and no indication text is available for them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA075074 | Etodolac (Advanced Rx of Tennessee) | Film-coated tablet | Not available (cancelled) |
-| ANDA076004 | Etodolac (Bryant Ranch Prepack) | Film-coated tablet | Not available (cancelled) |
-| ANDA075126 | Etodolac (ANI Pharmaceuticals) | Capsule | Not available (cancelled) |
-| ANDA075665 | Etodolac (Teva) | Film-coated extended-release tablet | Not available (cancelled) |
-| ANDA091134 | Etodolac (Zydus) | Film-coated extended-release tablet | Not available (cancelled) |
+| ANDA075074 | Etodolac (Advanced Rx of Tennessee) | Film-coated tablet | Not available (valid) |
+| ANDA076004 | Etodolac (Bryant Ranch Prepack) | Film-coated tablet | Not available (valid) |
+| ANDA075126 | Etodolac (ANI Pharmaceuticals) | Capsule | Not available (valid) |
+| ANDA075665 | Etodolac (Teva) | Film-coated extended-release tablet | Not available (valid) |
+| ANDA091134 | Etodolac (Zydus) | Film-coated extended-release tablet | Not available (valid) |
 
 ## Safety Considerations
 
@@ -111,14 +110,12 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold** for the top-ranked prediction (Hunter-Thompson acromesomelic dysplasia) and the other genetic skeletal disorders. **Research Question** for ankylosing spondylitis and inflammatory spondylopathy.
 
 **Rationale:**
-- The highest-scoring predictions are graph-based only, with no trials, no literature and no plausible mechanism.
-- Ankylosing spondylitis has plausible support, but the evidence is only reviews and open-label or surveillance studies, and it overlaps with etodolac's existing spondyloarthropathy indication. All US licenses are cancelled, which limits practical development.
+- Ankylosing spondylitis has plausible support, but the evidence is only reviews and open-label or surveillance studies, and it overlaps with etodolac's existing spondyloarthropathy indication.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking data gap for safety screening)
 - Mechanism of action data from DrugBank
 - Controlled, indication-specific trials of etodolac in ankylosing spondylitis, or a comparative analysis against NSAIDs already approved for it
-- Clarification of the US regulatory pathway, given that all licenses are cancelled
 - Safety assessment for patients with cardiovascular, renal, hepatic or gastrointestinal risk
 ## Disclaimer
 

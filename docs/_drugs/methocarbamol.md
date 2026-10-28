@@ -46,9 +46,9 @@ Methocarbamol is a centrally acting skeletal muscle relaxant. The TxGNN model pr
 |------|------|
 | Original Indication | Not listed in the data compiled for this report (methocarbamol is generally known as a muscle relaxant for musculoskeletal conditions) |
 | Predicted New Indication | Cauda equina syndrome |
-| TxGNN Prediction Score | 99.98% |
+| TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 8) |
 | Number of NDAs | 8 (all cancelled; listed as ANDAs) |
 | Recommended Decision | Hold |
 
@@ -58,7 +58,7 @@ Detailed mechanism of action data is not available. Based on general knowledge, 
 
 This link is weak. Cauda equina syndrome is a surgical emergency caused by compression of the nerve roots. Methocarbamol would not treat that underlying compression, so at best it could serve as an adjunct for symptoms. No trials or literature in the data compiled for this report support the prediction.
 
-The other top predictions (irritable bowel syndrome, panuveitis, anaphylaxis, iris disease, uveitis, ventricular tachycardia, food-dependent exercise-induced anaphylaxis, conjunctivitis, and an obsolete bundle branch block entry) also have scores of about 99.9% and no clinical support. They show no clear mechanistic connection to a muscle relaxant. The high scores therefore should not be read as evidence of efficacy.
+The other top predictions (irritable bowel syndrome, panuveitis, anaphylaxis, iris disease, uveitis, ventricular tachycardia, food-dependent exercise-induced anaphylaxis, conjunctivitis, and an obsolete bundle branch block entry) also have scores between 0.9993 and 0.9998 and no clinical support. They show no clear mechanistic connection to a muscle relaxant. The high scores therefore should not be read as evidence of efficacy.
 
 ## Clinical Trial Evidence
 
@@ -72,17 +72,17 @@ Currently no related literature available for cauda equina syndrome.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA040489 | Methocarbamol (Bryant Ranch Prepack) | Tablet | Not listed (cancelled) |
-| ANDA200958 | Methocarbamol (Oncora Pharma) | Tablet, coated | Not listed (cancelled) |
-| ANDA209312 | Methocarbamol (Granules India) | Tablet, coated | Not listed (cancelled) |
-| ANDA211504 | Methocarbamol (Sagent Pharmaceuticals) | Injection, solution | Not listed (cancelled) |
-| ANDA212707 | Tanlor (Forte Bio-Pharma) | Tablet, film coated | Not listed (cancelled) |
+| ANDA040489 | Methocarbamol (Bryant Ranch Prepack) | Tablet | Not listed (valid) |
+| ANDA200958 | Methocarbamol (Oncora Pharma) | Tablet, coated | Not listed (valid) |
+| ANDA209312 | Methocarbamol (Granules India) | Tablet, coated | Not listed (valid) |
+| ANDA211504 | Methocarbamol (Sagent Pharmaceuticals) | Injection, solution | Not listed (valid) |
+| ANDA212707 | Tanlor (Forte Bio-Pharma) | Tablet, film coated | Not listed (valid) |
 
 Eight licenses are recorded in total, and all are cancelled. Only the first five are shown above. Available forms include oral tablets (plain, coated and film coated) and an injectable solution.
 
 ## Safety Considerations
 
-- **Disease-level contraindication signals (knowledge graph, not label text):** The TxGNN knowledge graph links methocarbamol to contraindications in epilepsy, kidney disease, liver disease, gallbladder disease, thrombocytopenia, peptic ulcer disease, gout, substance abuse/dependence, hemophilia, anemia, von Willebrand disease, Reye syndrome, Alzheimer disease, and cerebellar degeneration, among others. These come from a prediction graph and need confirmation against the official label.
+- **Disease-level contraindication signals (TxGNN model output, not label text):** The TxGNN model (deep learning) links methocarbamol to contraindications in epilepsy, kidney disease, liver disease, gallbladder disease, thrombocytopenia, peptic ulcer disease, gout, substance abuse/dependence, hemophilia, anemia, von Willebrand disease, Reye syndrome, Alzheimer disease, and cerebellar degeneration, among others. These may reflect similarities the model learned between related diseases, not biological evidence, and need confirmation against the official label.
 - **Drug Interactions:** 100 interactions were found in total. The main **Major** interactions are with **morphine** (including liposomal morphine). **Moderate** interactions include dronabinol, nabilone, metoclopramide, opium, and sibutramine. These are consistent with additive central nervous system depression.
 
 Please refer to the package insert for key warnings and label contraindications.
@@ -92,7 +92,7 @@ Please refer to the package insert for key warnings and label contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score. There are no clinical trials or supporting literature, and the mechanistic link is weak because cauda equina syndrome requires urgent surgical decompression. All US licenses are cancelled, and the label safety information could not be obtained.
+The prediction rests only on a model score. There are no clinical trials or supporting literature, and the mechanistic link is weak because cauda equina syndrome requires urgent surgical decompression. The drug is marketed in the US with 8 valid licenses, and the label safety information could not be obtained.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

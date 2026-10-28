@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Aluminum Oxide Antimony Potassium Tartrate Baptisi
@@ -51,7 +52,7 @@ Currently, **no clinical trial evidence** and **no literature evidence** are ava
 | Predicted New Indication | Not available — TxGNN could not process this candidate |
 | TxGNN Prediction Score | Not available |
 | Evidence Level | N/A (no prediction generated; below L5) |
-| US Market Status | Not Marketed |
+| US Market Status | Marketed (valid licenses on record: at least 3) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 

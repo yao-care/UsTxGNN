@@ -39,7 +39,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 ## One-Sentence Summary
 
 Titanium dioxide is an inert mineral compound used mainly as a sunscreen ingredient and in a homeopathic preparation; no approved medical indication is recorded in the data compiled for this report.
-The TxGNN model predicts it may be effective for **drug-induced osteoporosis**, with a very high graph-based score.
+The TxGNN model (deep learning) predicts it may be effective for **drug-induced osteoporosis**, with a very high score of 1.0000 that may reflect similarities the model learned between related diseases, not biological evidence.
 However, there are **0 clinical trials** and **0 relevant publications** supporting this prediction, so it is a model-only prediction.
 
 ---
@@ -50,9 +50,9 @@ However, there are **0 clinical trials** and **0 relevant publications** support
 |------|------|
 | Original Indication | No approved indication text recorded (products are a sunscreen lotion and a homeopathic pellet) |
 | Predicted New Indication | Drug-induced osteoporosis |
-| TxGNN Prediction Score | 99.9998% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 2) |
 | Number of NDAs | 2 (both cancelled) |
 | Recommended Decision | Hold |
 
@@ -62,7 +62,7 @@ However, there are **0 clinical trials** and **0 relevant publications** support
 
 Currently, detailed mechanism of action data is not available. Titanium dioxide is a poorly absorbed, chemically inert pigment and implant material. Its known uses are physical UV blocking in sunscreens and as a component of medical devices, not as a systemically active drug.
 
-The review of this prediction found no plausible pharmacological pathway linking titanium dioxide to the treatment of osteoporosis. The very high TxGNN score (about 0.999998) appears to reflect proximity within the knowledge graph rather than a biological mechanism. Without trials, literature, or a mechanistic link, the prediction cannot be considered supported.
+The review of this prediction found no plausible pharmacological pathway linking titanium dioxide to the treatment of osteoporosis. The very high TxGNN score (1.0000) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Without trials, literature, or a mechanistic link, the prediction cannot be considered supported.
 
 Other top-ranked predictions show the same pattern: diabetic retinopathy, severe nonproliferative diabetic retinopathy, diabetic cataract, and several cataract subtypes (craniostenosis, mature, tetanic, immature, type 2 diabetes-associated, and cortical). All are at evidence level L5 with a Hold recommendation.
 
@@ -112,14 +112,14 @@ No drug interaction records were found for this compound.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a graph-based model score. There are no clinical trials, no supportive literature, and no plausible mechanism for titanium dioxide in drug-induced osteoporosis. The compound is inert and poorly absorbed, and its available literature concerns diagnostic and analytical tools rather than therapy. It also has no currently valid US licenses.
+The prediction rests only on a score from the TxGNN model (deep learning), which may reflect similarities the model learned between related diseases, not biological evidence. There are no clinical trials, no supportive literature, and no plausible mechanism for titanium dioxide in drug-induced osteoporosis. The compound is inert and poorly absorbed, and its available literature concerns diagnostic and analytical tools rather than therapy. It is marketed in the US, with 2 valid licenses.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and a credible biological pathway linking titanium dioxide to bone metabolism
 - Preclinical evidence (in vitro or animal models) of an effect on drug-induced bone loss
 - Safety and warning information from FDA labeling, which has not been obtained
 - Evaluation of route compatibility, since current products are topical or homeopathic rather than systemic
-- Reassessment of whether graph-proximity artefacts explain the high scores across the osteoporosis, retinopathy, and cataract predictions
+- Reassessment of whether similarities the model learned between related diseases, rather than biological evidence, explain the high scores across the osteoporosis, retinopathy, and cataract predictions
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

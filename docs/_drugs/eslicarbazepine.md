@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Eslicarbazepine
-parent: Model Prediction Only (L5)
+parent: High Evidence (L1-L2)
 nav_order: 671
-evidence_level: L5
-indication_count: 6
+evidence_level: L2
+indication_count: 5
 monitor_inn: "ESLICARBAZEPINE"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "insomnia (disease)", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "insomnia (disease)", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
 last_modified_at: 2026-10-14
-description: "Eslicarbazepine: predicted new indication Migraine disorder (evidence level L5). Approved use: Not stated in the compiled data (the drug is an antiseizure medicatio…"
+description: "Eslicarbazepine: predicted new indication Migraine disorder (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
 # Eslicarbazepine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **6** 
+Evidence Level: **L2** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-## Eslicarbazepine: From Epilepsy to Migraine Disorder
+## Eslicarbazepine: Migraine disorder
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ with **1 clinical trial** (a completed Phase 2 study) and **only indirect litera
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the compiled data (the drug is an antiseizure medication) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.78% |
+| TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L2 (one completed Phase 2 RCT, but no results available to judge efficacy) |
-| US Market Status | Cancelled only (all licenses cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 7) |
 | Number of NDAs | 7 authorizations in total (1 NDA, 6 ANDAs) |
 | Recommended Decision | Hold |
 
@@ -68,7 +68,7 @@ There is an important caveat. Sodium channel blockade alone has not been shown t
 |---------|------|------|------|---------|
 | [NCT01820559](https://clinicaltrials.gov/study/NCT01820559) | Phase 2 | Completed | 452 | Double-blind, placebo-controlled, multinational study of eslicarbazepine acetate 800 mg/day and 1200 mg/day as migraine prevention (2009–2010). No results were provided, so efficacy cannot be judged. |
 
-The drug is not marketed for migraine. This may suggest the trial did not support further development, but that is an inference and the registry or published results need to be checked.
+This may suggest the trial did not support further development, but that is an inference and the registry or published results need to be checked.
 
 ## Literature Evidence
 
@@ -85,7 +85,7 @@ No migraine-specific eslicarbazepine publication was found. The items below are 
 
 ## US Market Information
 
-All seven authorizations are cancelled, and no approved-indication text is available in the compiled data.
+All seven authorizations are valid, and no approved-indication text is available in the compiled data.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
@@ -112,14 +112,14 @@ Please refer to the package insert for warnings and contraindications, which are
 **Decision: Hold**
 
 **Rationale:**
-The only direct evidence is one completed Phase 2 migraine prevention trial whose results were not available. The mechanism is plausible but unproven, and the supporting literature is indirect. All US licenses are cancelled, so there is currently no marketed product.
+The only direct evidence is one completed Phase 2 migraine prevention trial whose results were not available. The mechanism is plausible but unproven, and the supporting literature is indirect. The drug is marketed in the US, with 7 valid licenses.
 
 **To proceed, the following is needed:**
 - Results of NCT01820559 (primary and secondary efficacy endpoints, safety), from the registry or publications
 - An explanation of why the drug was not developed further for migraine
 - FDA package insert warnings and contraindications
 - Mechanism of action data confirmed from DrugBank
-- Clarification of the US regulatory and availability status, since all licenses are cancelled
+- Clarification of the US regulatory and availability status, since the drug is marketed with 7 valid licenses
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

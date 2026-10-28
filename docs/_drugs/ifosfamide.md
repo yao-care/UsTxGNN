@@ -48,10 +48,10 @@ The evidence is early-phase and the trials are mostly small, terminated or of un
 |------|------|
 | Original Indication | Not available (no approved-indication text in the compiled data) |
 | Predicted New Indication | Female breast carcinoma |
-| TxGNN Prediction Score | 99.91% |
-| Evidence Level | L2 (per the compiled assessment; Phase 2 studies only, with no Phase 3 RCT for breast cancer) |
-| US Market Status | Cancelled only (all licenses cancelled) |
-| Number of NDAs | 3 (1 NDA, 2 ANDAs; all cancelled) |
+| TxGNN Prediction Score | 0.9991 |
+| Evidence Level | L5 (per the compiled assessment; Phase 2 studies only, with no Phase 3 RCT for breast cancer) |
+| US Market Status | Marketed (valid licenses: 3 of 3) |
+| Number of NDAs | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -92,11 +92,11 @@ The supporting evidence is early-phase. It also includes literature on rarer bre
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA019763 | Ifosfamide (Baxter Healthcare) | Injection, powder, for solution | Not available (cancelled) |
-| ANDA076619 | Ifosfamide (Hikma) | Injection | Not available (cancelled) |
-| ANDA076078 | Ifosfamide (Fresenius Kabi) | Injection, powder, lyophilized, for solution | Not available (cancelled) |
+| NDA019763 | Ifosfamide (Baxter Healthcare) | Injection, powder, for solution | Not available (valid) |
+| ANDA076619 | Ifosfamide (Hikma) | Injection | Not available (valid) |
+| ANDA076078 | Ifosfamide (Fresenius Kabi) | Injection, powder, lyophilized, for solution | Not available (valid) |
 
-All three authorizations are cancelled, so no valid US license for a single-agent ifosfamide product appears in the compiled data.
+All three licenses are valid, so the drug is marketed in the US.
 
 ## Cytotoxicity
 
@@ -121,7 +121,7 @@ Please refer to the package insert for official warnings and contraindications, 
 **Decision: Hold**
 
 **Rationale:**
-The breast cancer evidence consists only of Phase 1/2 trials (several terminated or of unknown status) and small single-arm studies, with no Phase 3 RCT. All US licenses are cancelled, and the label indications and warnings are not available. The compiled assessment rates this as a research question rather than a candidate ready to advance.
+The breast cancer evidence consists only of Phase 1/2 trials (several terminated or of unknown status) and small single-arm studies, with no Phase 3 RCT. All 3 US licenses are valid, but the label indications and warnings are not available. The compiled assessment rates this as a research question rather than a candidate ready to advance.
 
 **To proceed, the following is needed:**
 - The current FDA package insert (indications, warnings, contraindications), since the safety data gap blocks safety screening

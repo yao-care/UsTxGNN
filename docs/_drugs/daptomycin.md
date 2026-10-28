@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Daptomycin
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 570
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 monitor_inn: "DAPTOMYCIN"
-predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "osteoarthritis susceptibility", "gout", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome"]
+predicted_indications: ["osteoarthritis", "rheumatoid arthritis", "gout", "pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome"]
 last_modified_at: 2026-10-14
 description: "Daptomycin: predicted new indication Osteoarthritis (evidence level L4). Approved use: Not available in the compiled data (the retrieved literature describe…"
 ---
@@ -14,7 +14,7 @@ description: "Daptomycin: predicted new indication Osteoarthritis (evidence leve
 # Daptomycin
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,9 +50,9 @@ This prediction is best viewed as a model artifact rather than a real repurposin
 |------|------|
 | Original Indication | Not available in the compiled data (the retrieved literature describes use against Gram-positive infections such as skin infections, bacteraemia and right-sided endocarditis) |
 | Predicted New Indication | Osteoarthritis |
-| TxGNN Prediction Score | 99.86% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| TxGNN Prediction Score | 0.9986 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 17) |
 | Number of NDAs | 17 authorizations in total (all cancelled; includes NDAs and ANDAs) |
 | Recommended Decision | Hold |
 
@@ -95,7 +95,7 @@ None of the publications below tests daptomycin as a treatment for osteoarthriti
 
 ## US Market Information
 
-All 17 US authorizations for daptomycin are cancelled; none is currently valid. The approved indication text is not available for any of them. Five representative entries:
+All 17 US authorizations for daptomycin are currently valid. The approved indication text is not available for any of them. Five representative entries:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -125,7 +125,7 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-No clinical trials exist, and the literature concerns treating joint infections rather than osteoarthritis. No mechanistic link to degenerative osteoarthritis is supported. The high TxGNN score likely reflects network proximity to bone and joint terms. The muscle-toxicity profile (myopathy, rhabdomyolysis) adds a safety concern for a chronic, non-infectious condition. Daptomycin is also an injectable-only antibiotic, with all US licenses currently cancelled.
+No clinical trials exist, and the literature concerns treating joint infections rather than osteoarthritis. No mechanistic link to degenerative osteoarthritis is supported. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The muscle-toxicity profile (myopathy, rhabdomyolysis) adds a safety concern for a chronic, non-infectious condition. Daptomycin is also an injectable-only antibiotic, with 17 US licenses currently valid.
 
 **Other predictions for context:**
 - **Rheumatoid arthritis** is the only prediction with a preclinical signal (collagen-induced arthritis in mice, 2025). It is worth treating as a research question, not a clinical candidate.

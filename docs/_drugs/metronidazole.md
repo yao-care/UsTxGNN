@@ -50,9 +50,9 @@ The model score is very high, but the evidence is weak and the biological ration
 |------|------|
 | Original Indication | Anaerobic bacterial infections (e.g., peritonitis, endocarditis, intracranial abscess), giardiasis, bacterial vaginosis, rosacea |
 | Predicted New Indication | Pneumocystosis |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all 15 licenses are cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 15) |
 | Number of NDAs | 15 (14 ANDAs and 1 NDA) |
 | Recommended Decision | Hold |
 
@@ -62,7 +62,7 @@ The model score is very high, but the evidence is weak and the biological ration
 
 Detailed mechanism of action data is not available for this report. Metronidazole is a nitroimidazole that is generally known to act against anaerobic bacteria and protozoa. Its efficacy in anaerobic infections, giardiasis and bacterial vaginosis is established.
 
-The prediction for pneumocystosis is hard to justify mechanistically. *Pneumocystis* is a fungus and lacks the nitroreductase-dependent activation pathway that nitroimidazoles rely on. The very high score most likely reflects the drug's network proximity to antiparasitic and anti-infective drug classes in the knowledge graph, not actual biology. The retrieved literature supports this view: the papers are general reviews of antiparasitic therapy and HIV opportunistic infections, and case reports in which metronidazole was given for a coexisting condition such as amebiasis. Pneumocystis pneumonia is treated with other agents, such as trimethoprim-sulfamethoxazole.
+The prediction for pneumocystosis is hard to justify mechanistically. *Pneumocystis* is a fungus and lacks the nitroreductase-dependent activation pathway that nitroimidazoles rely on. The very high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The retrieved literature supports this view: the papers are general reviews of antiparasitic therapy and HIV opportunistic infections, and case reports in which metronidazole was given for a coexisting condition such as amebiasis. Pneumocystis pneumonia is treated with other agents, such as trimethoprim-sulfamethoxazole.
 
 ---
 
@@ -93,7 +93,7 @@ None of these papers reports metronidazole as a treatment for pneumocystosis.
 
 ## US Market Information
 
-All licenses below are cancelled; no active US authorization was found.
+The drug is marketed in the US, with 15 valid licenses.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -131,7 +131,7 @@ The prediction rests on model score alone: there are no clinical trials, no supp
 **To proceed, the following is needed:**
 - Mechanism of action data and in vitro activity against *Pneumocystis*, or reprioritization toward cap polyposis
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
-- Clarification of the current US regulatory status, since all listed licenses are cancelled
+- Clarification of the current US regulatory status, since the drug is marketed with 15 valid licenses
 - Any prospective clinical data before further consideration
 ## Disclaimer
 

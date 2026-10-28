@@ -4,17 +4,17 @@ title: Plerixafor
 parent: Model Prediction Only (L5)
 nav_order: 1056
 evidence_level: L5
-indication_count: 7
+indication_count: 6
 last_modified_at: 2026-10-14
-description: "Plerixafor: predicted new indication Indolent plasma cell myeloma (evidence level L5). Approved use: Plasma cell myeloma"
 monitor_inn: "PLERIXAFOR"
 predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "bronchitis", "vulvar melanoma (disease)", "myeloid leukemia"]
+description: "Plerixafor: predicted new indication CMM7 (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Plerixafor
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **7** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,11 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-## Plerixafor: From Plasma Cell Myeloma to Indolent Plasma Cell Myeloma
+## Plerixafor: CMM7
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-> Plerixafor (AMD3100, Mozobil) is a CXCR4 antagonist used to mobilise hematopoietic stem cells, and the knowledge graph links it to plasma cell myeloma.
 > The TxGNN model predicts it may be effective for **indolent plasma cell myeloma** (smoldering myeloma), with a very high score.
 > However, there are currently **0 clinical trials** and **0 publications** supporting this specific prediction, so it rests on model output alone.
 
@@ -48,12 +47,12 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 | Item | Content |
 |------|------|
-| Original Indication | Plasma cell myeloma (from the knowledge graph; no approved-indication text was available in the US license records) |
-| Predicted New Indication | Indolent plasma cell myeloma |
-| TxGNN Prediction Score | 99.97% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | CMM7 |
+| TxGNN Prediction Score | 0.9934 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid authorizations in the data) |
-| Number of NDAs | 9 authorizations (1 NDA and 8 ANDAs), all cancelled |
+| US Market Status | Marketed (valid licenses: 9 of 9) |
+| Number of NDAs | 9 (valid: 9) |
 | Recommended Decision | Hold |
 
 ---
@@ -82,15 +81,15 @@ Currently no related literature available for indolent plasma cell myeloma.
 
 ## US Market Information
 
-All nine US authorizations are cancelled. The data did not include approved-indication text. The five shown are the original brand NDA and four generic ANDAs.
+The data did not include approved-indication text. The five shown are the original brand NDA and four generic ANDAs.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA022311 | Mozobil (Sanofi-Aventis U.S. LLC) | Injection, solution | Not provided (cancelled) |
-| ANDA215334 | Plerixafor (Amneal) | Injection, solution | Not provided (cancelled) |
-| ANDA217560 | Plerixafor (Camber) | Injection, solution | Not provided (cancelled) |
-| ANDA205182 | Plerixafor (Dr. Reddy's) | Solution | Not provided (cancelled) |
-| ANDA208980 | Plerixafor (Zydus) | Injection | Not provided (cancelled) |
+| NDA022311 | Mozobil (Sanofi-Aventis U.S. LLC) | Injection, solution | Not provided (valid) |
+| ANDA215334 | Plerixafor (Amneal) | Injection, solution | Not provided (valid) |
+| ANDA217560 | Plerixafor (Camber) | Injection, solution | Not provided (valid) |
+| ANDA205182 | Plerixafor (Dr. Reddy's) | Solution | Not provided (valid) |
+| ANDA208980 | Plerixafor (Zydus) | Injection | Not provided (valid) |
 
 ---
 
@@ -108,13 +107,13 @@ Please refer to the package insert for key warnings and formal contraindications
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a very high model score but no clinical trials, no literature, and no clear rationale for using a mobilising agent in indolent myeloma. The evidence level is L5 (model prediction only). All US authorizations are also cancelled.
+The prediction has a very high model score but no clinical trials, no literature, and no clear rationale for using a mobilising agent in indolent myeloma. The evidence level is L5 (model prediction only).
 
 **To proceed, the following is needed:**
 - Preclinical or clinical evidence that CXCR4 blockade has any role in indolent or smoldering myeloma
 - Mechanism-of-action data and label-based warnings and contraindications
 - Confirmation of the current US regulatory status of plerixafor products
-- Optional: a lower-ranked prediction, **myeloid leukemia** (score 99.02%), has 25 registered trials and 20 publications. Many of these are Phase 1 and Phase 1/2 studies of plerixafor as a chemosensitiser with chemotherapy. It is rated L2 and would be a more evidence-supported direction to evaluate in a separate report.
+- Optional: a lower-ranked prediction, **myeloid leukemia** (score 0.9902), has 25 registered trials and 20 publications. Many of these are Phase 1 and Phase 1/2 studies of plerixafor as a chemosensitiser with chemotherapy. It is rated L2 and would be a more evidence-supported direction to evaluate in a separate report.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

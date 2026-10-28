@@ -4,17 +4,17 @@ title: Tapentadol
 parent: Model Prediction Only (L5)
 nav_order: 1200
 evidence_level: L5
-indication_count: 3
+indication_count: 2
 monitor_inn: "TAPENTADOL"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura"]
 last_modified_at: 2026-10-14
-description: "Tapentadol: predicted new indication Migraine disorder (evidence level L5). Approved use: Not available in the compiled data"
+description: "Tapentadol: predicted new indication Migraine disorder (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Tapentadol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-## Tapentadol: From an Unspecified Original Indication to Migraine Disorder
+## Tapentadol: Migraine disorder
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,23 +46,22 @@ The prediction is model-based only.
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in the compiled data (the approval records contain no indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.67% |
+| TxGNN Prediction Score | 0.9967 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all 3 authorizations cancelled) |
-| Number of NDAs | 3 (1 ANDA and 2 NDAs, all cancelled) |
+| US Market Status | Marketed (valid licenses: 3 of 3) |
+| Number of NDAs | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available in the compiled data. Based on general pharmacology, tapentadol is a mu-opioid receptor agonist that also inhibits norepinephrine reuptake. Both actions modulate central pain pathways, which gives a plausible but unverified link to migraine pain.
 
-The prediction should be interpreted cautiously. The high TxGNN score reflects network proximity in a knowledge graph, not clinical evidence. Opioids are generally not recommended for routine migraine treatment because of the risks of medication-overuse headache, chronification, and dependence. This link rests on general pharmacology, not on data supplied for this report.
+The prediction should be interpreted cautiously. The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Opioids are generally not recommended for routine migraine treatment because of the risks of medication-overuse headache, chronification, and dependence. This link rests on general pharmacology, not on data supplied for this report.
 
 The two other predictions are weaker still:
-- **Migraine with brainstem aura** (score 99.57%): no trials or literature. It likely reflects the same network proximity as the parent migraine term, and no subtype-specific rationale is supported.
-- **Migraine with or without aura, susceptibility to** (score 99.08%): this term describes genetic susceptibility, not a directly treatable condition, so the prediction is likely driven by network association.
+- **Migraine with brainstem aura** (score 0.9957): no trials or literature. It likely reflects the same network proximity as the parent migraine term, and no subtype-specific rationale is supported.
 
 ## Clinical Trial Evidence
 
@@ -70,7 +69,7 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-No literature is currently available for the top prediction (migraine disorder). Two publications were linked to the related term "migraine with or without aura, susceptibility to". Neither provides evidence of tapentadol efficacy.
+No literature is currently available for the top prediction (migraine disorder). Neither provides evidence of tapentadol efficacy.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
@@ -79,13 +78,13 @@ No literature is currently available for the top prediction (migraine disorder).
 
 ## US Market Information
 
-All three US authorizations are cancelled, and no indication text is recorded for them.
+All three US authorizations are valid, and no indication text is recorded for them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA214378 | Tapentadol Hydrochloride (Epic Pharma) | Film-coated tablet | Not recorded (cancelled) |
-| NDA022304 | Nucynta (Collegium) | Film-coated tablet | Not recorded (cancelled) |
-| NDA200533 | Nucynta (Collegium) | Film-coated extended-release tablet | Not recorded (cancelled) |
+| ANDA214378 | Tapentadol Hydrochloride (Epic Pharma) | Film-coated tablet | Not recorded (valid) |
+| NDA022304 | Nucynta (Collegium) | Film-coated tablet | Not recorded (valid) |
+| NDA200533 | Nucynta (Collegium) | Film-coated extended-release tablet | Not recorded (valid) |
 
 ## Safety Considerations
 
@@ -109,7 +108,7 @@ Please refer to the package insert for warnings and contraindications, which wer
 **Decision: Hold**
 
 **Rationale:**
-The prediction is model-based only (L5), with no clinical trials and no literature showing tapentadol efficacy in migraine. Opioids are not recommended for routine migraine care, and all US authorizations are cancelled. The serotonergic interaction signal adds further concern.
+The prediction is model-based only (L5), with no clinical trials and no literature showing tapentadol efficacy in migraine. Opioids are not recommended for routine migraine care, and the drug is marketed in the US (3 of 3 licenses valid). The serotonergic interaction signal adds further concern.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (currently a blocking gap for safety screening)

@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Solriamfetol
-parent: Model Prediction Only (L5)
+parent: High Evidence (L1-L2)
 nav_order: 1173
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 monitor_inn: "SOLRIAMFETOL"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "insomnia (disease)", "attention deficit hyperactivity disorder, inattentive type", "chondromyxoid fibroma", "specific developmental disorder", "variably protease-sensitive prionopathy", "multiple system atrophy", "postural orthostatic tachycardia syndrome", "disorder of peroxisomal alpha-, beta- and omega-oxidation"]
@@ -14,7 +14,7 @@ description: "Solriamfetol: predicted new indication Attention deficit-hyperacti
 # Solriamfetol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L1** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Solriamfetol: From Narcolepsy to Attention Deficit Hyperactivity Disorder
+## Solriamfetol: From Narcolepsy to Attention Deficit-Hyperactivity Disorder
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,10 +48,10 @@ with **5 clinical trials** (including 3 Phase 3 trials) and **6 publications** c
 |------|------|
 | Original Indication | Narcolepsy (other listed indications: narcolepsy-cataplexy syndrome, obstructive sleep apnea syndrome, and several central nervous system disorders) |
 | Predicted New Indication | Attention deficit-hyperactivity disorder |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L1 (see note below) |
-| US Market Status | Cancelled only (the single NDA is listed as cancelled) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
 *Note on evidence level:* Under the strict rule (≥2 completed Phase 3 RCTs), only one completed Phase 3 RCT (NCT05972044) is registered, and its results have not been verified. The other completed trial is a small Phase 2/3 pilot, which has a published report. The L1 level assigned in the compiled data should therefore be read cautiously; a conservative reading would be L2.
@@ -89,7 +89,7 @@ Other predicted indications are much weaker. Insomnia is only indirectly related
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA211230 | SUNOSI (Axsome Therapeutics, Inc.) | Film-coated tablet (oral) | Not specified in the compiled data; status: cancelled |
+| NDA211230 | SUNOSI (Axsome Therapeutics, Inc.) | Film-coated tablet (oral) | Not specified in the compiled data; status: valid |
 
 ## Safety Considerations
 

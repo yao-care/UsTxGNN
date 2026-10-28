@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "NITROFURANTOIN"
 predicted_indications: ["rheumatoid arthritis", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "sclerosing cholangitis", "methemoglobinemia, alpha type", "gout", "methemoglobinemia"]
 last_modified_at: 2026-10-14
-description: "Nitrofurantoin: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: Not stated in the license data (the literature describes use in urina…"
+description: "Nitrofurantoin: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Nitrofurantoin
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Nitrofurantoin: From Urinary Tract Infection to Rheumatoid Arthritis
+## Nitrofurantoin: Rheumatoid arthritis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ The retrieved publications mostly describe harm, such as drug-induced pulmonary 
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the license data (the literature describes use in urinary tract infection) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Rheumatoid arthritis |
-| TxGNN Prediction Score | 99.89% |
+| TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 12) |
 | Number of NDAs | 12 (1 NDA and 11 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
@@ -58,12 +58,12 @@ The retrieved publications mostly describe harm, such as drug-induced pulmonary 
 
 Currently, detailed mechanism of action data is not available. Based on known information, nitrofurantoin is an antibacterial agent with no recognised anti-inflammatory or immunomodulatory action relevant to rheumatoid arthritis (RA).
 
-The high TxGNN score (0.999) is not backed by any clinical signal. The retrieved literature concerns harm rather than benefit:
+The high TxGNN score (0.9989) is not backed by any clinical signal. The retrieved literature concerns harm rather than benefit:
 - Drug-induced pulmonary fibrosis and interstitial lung disease associated with nitrofurantoin.
 - A case of irreversible pulmonary fibrosis from a methotrexate–nitrofurantoin interaction in an RA patient.
 - A large cohort study linking antibiotic exposure to RA flares.
 
-The prediction is therefore best read as a statistical association in the knowledge graph, not a plausible therapeutic link.
+The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Clinical Trial Evidence
 
@@ -87,7 +87,7 @@ None of these publications shows a therapeutic benefit of nitrofurantoin in RA.
 
 ## US Market Information
 
-All 12 licenses are listed as cancelled, and no approved indication text is available in the data.
+12 valid licenses are on the market in this country, and no approved indication text is available in the data.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -110,7 +110,7 @@ Please refer to the package insert for label warnings and contraindications, whi
 **Decision: Hold**
 
 **Rationale:**
-The prediction is model-only (L5), with no clinical trials and no literature showing benefit. The available evidence points to harm: pulmonary toxicity (particularly alongside methotrexate, a standard RA drug), liver injury, and a possible link between antibiotic exposure and RA flares. No US license is currently valid either.
+The prediction is model-only (L5), with no clinical trials and no literature showing benefit. The available evidence points to harm: pulmonary toxicity (particularly alongside methotrexate, a standard RA drug), liver injury, and a possible link between antibiotic exposure and RA flares.
 
 **To proceed, the following is needed:**
 - The FDA package insert warnings and contraindications (a blocking gap for safety screening)

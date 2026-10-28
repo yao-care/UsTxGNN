@@ -6,9 +6,9 @@ nav_order: 732
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Fluvoxamine: predicted new indication Paranoid personality disorder (evidence level L5). Approved use: Social phobia, phobic disorder, obsessive-compulsive disorder"
 monitor_inn: "FLUVOXAMINE"
 predicted_indications: ["paranoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "anxiety disorder", "agoraphobia", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder", "endogenous depression"]
+description: "Fluvoxamine: predicted new indication Paranoid personality disorder (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Fluvoxamine
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Fluvoxamine: From Social Phobia and Obsessive-Compulsive Disorder to Paranoid Personality Disorder
+## Fluvoxamine: Paranoid personality disorder
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,11 +47,11 @@ The TxGNN model predicts it may be effective for **Paranoid Personality Disorder
 
 | Item | Content |
 |------|------|
-| Original Indication | Social phobia, phobic disorder, obsessive-compulsive disorder (from knowledge-graph indication links; no US label text was available) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Paranoid personality disorder |
-| TxGNN Prediction Score | 99.997% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid US authorizations) |
+| US Market Status | Marketed (valid licenses on record: at least 8) |
 | Number of NDAs | 8 authorizations in total (1 NDA and 7 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
@@ -61,7 +61,7 @@ The TxGNN model predicts it may be effective for **Paranoid Personality Disorder
 
 Currently, detailed mechanism of action data is not available in the compiled data. Fluvoxamine is known to be a potent SSRI and a sigma-1 receptor agonist. Its efficacy in OCD and social anxiety is established.
 
-A mechanistic link to paranoid personality disorder is speculative. The very high TxGNN score most likely reflects a shared "personality disorder" node in the knowledge graph rather than drug-specific biology. The same score (99.997%) was assigned to several other personality disorders, which supports this reading. Treat this prediction as a hypothesis only.
+A mechanistic link to paranoid personality disorder is speculative. The very high score (1.0000) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The same score (1.0000) was also assigned to several other personality disorders, which supports this reading. Treat this prediction as a hypothesis only.
 
 The data compiled for this report also contain other predicted indications for fluvoxamine with much stronger support. These are anxiety disorder (L1) and agoraphobia/panic disorder (L1), both close to the original label, and endogenous depression (L2). If the goal is a repurposing candidate with real evidence, those are better starting points than this one.
 
@@ -84,15 +84,15 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All eight US authorizations are cancelled. No approved-indication text was available for any of them.
+The drug is marketed in the US, with 8 valid authorizations. No approved-indication text was available for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| ANDA091482 | Fluvoxamine Maleate (AvKARE) | Capsule, extended release | Cancelled |
-| NDA021519 | Fluvoxamine Maleate (ANI Pharmaceuticals) | Tablet, coated | Cancelled |
-| ANDA219055 | Fluvoxamine Maleate (Ajanta Pharma USA) | Capsule, extended release | Cancelled |
-| ANDA212182 | Fluvoxamine Maleate (Bionpharma) | Capsule, extended release | Cancelled |
-| ANDA075902 | Fluvoxamine Maleate (Apotex) | Tablet | Cancelled |
+| ANDA091482 | Fluvoxamine Maleate (AvKARE) | Capsule, extended release | Valid |
+| NDA021519 | Fluvoxamine Maleate (ANI Pharmaceuticals) | Tablet, coated | Valid |
+| ANDA219055 | Fluvoxamine Maleate (Ajanta Pharma USA) | Capsule, extended release | Valid |
+| ANDA212182 | Fluvoxamine Maleate (Bionpharma) | Capsule, extended release | Valid |
+| ANDA075902 | Fluvoxamine Maleate (Apotex) | Tablet | Valid |
 
 Three more cancelled ANDAs are not listed here (Chartwell RX, Endo USA, Preferred Pharmaceuticals).
 
@@ -112,7 +112,7 @@ Please refer to the package insert for label warnings and contraindications, whi
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone. There are no registered trials, no literature testing fluvoxamine in paranoid personality disorder, and no credible mechanistic rationale. The drug also has no currently valid US authorization.
+The prediction rests on a model score alone. There are no registered trials, no literature testing fluvoxamine in paranoid personality disorder, and no credible mechanistic rationale.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and a plausible biological rationale linking fluvoxamine to paranoid personality disorder

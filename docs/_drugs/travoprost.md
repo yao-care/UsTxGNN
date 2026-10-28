@@ -48,10 +48,10 @@ The model's other top-ranked predictions are likewise unsupported, so this repor
 |------|------|
 | Original Indication | Open-angle glaucoma; ocular hypertension |
 | Predicted New Indication | Visceral calciphylaxis |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 9 (all cancelled, including both NDAs and ANDAs) |
+| US Market Status | Marketed (valid licenses: 9 of 9) |
+| Number of NDAs | 9 (valid: 9) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Detailed mechanism-of-action data was not available in the data compiled for thi
 
 The link between the original and predicted indications is weak. Visceral calciphylaxis (calcific uremic arteriolopathy) is a disease of small-vessel calcification and clotting, usually seen in kidney failure. No plausible mechanistic connection to FP receptor agonism has been established. Topical eye drops also produce minimal systemic exposure, so meaningful effects on visceral blood vessels are unlikely.
 
-The model's high score most likely reflects network-level similarity in a knowledge graph rather than a biological rationale. The same applies to the other top predictions: arterial, venous and neurogenic thoracic outlet syndromes, angiodysplasia of the stomach, blue toe syndrome, lymphangiectasis, spontaneous coronary artery dissection and hemangioendothelioma. None has any supporting clinical evidence.
+The model's high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The same applies to the other top predictions: arterial, venous and neurogenic thoracic outlet syndromes, angiodysplasia of the stomach, blue toe syndrome, lymphangiectasis, spontaneous coronary artery dissection and hemangioendothelioma. None has any supporting clinical evidence.
 
 ## Clinical Trial Evidence
 
@@ -84,7 +84,7 @@ For reference, the only publication linked to a specific vascular-type predictio
 
 ## US Market Information
 
-All nine US authorizations are listed as cancelled, and the approved-indication text was not available for any of them. The five below are examples.
+All nine US authorizations are valid, and the approved-indication text was not available for any of them. The five below are examples.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -107,7 +107,7 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on model output alone (L5). There are no trials or publications for visceral calciphylaxis, and no plausible mechanism links an ocular FP receptor agonist to calcific small-vessel disease. All nine US licenses are cancelled, and topical ocular dosing gives little systemic exposure.
+The prediction rests on model output alone (L5). There are no trials or publications for visceral calciphylaxis, and no plausible mechanism links an ocular FP receptor agonist to calcific small-vessel disease. All nine US licenses are valid, and topical ocular dosing gives little systemic exposure.
 
 **To proceed, the following is needed:**
 - Mechanism-of-action data and a credible biological hypothesis linking FP receptor signaling to vascular calcification or calciphylaxis

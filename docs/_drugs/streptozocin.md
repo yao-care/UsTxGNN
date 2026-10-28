@@ -48,17 +48,17 @@ The second-ranked prediction, **small cell lung carcinoma**, has **2 publication
 |------|------|
 | Original Indication | Not available in the compiled data (the license record has no indication text) |
 | Predicted New Indication | Relapsing-remitting multiple sclerosis |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 1 (cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, streptozocin is a nitrosourea alkylating agent. It is taken up selectively by pancreatic beta cells through the GLUT2 transporter, which is why it is used against pancreatic neuroendocrine tumors.
 
-For multiple sclerosis, the only rationale is that cytotoxic, immunosuppressive agents have been used in MS. This is weak. The 99.97% score is a model output with no trials or literature behind it. The known toxicity profile (kidney toxicity, myelosuppression, diabetogenic effects) makes a favorable benefit-risk balance unlikely for a chronic autoimmune condition.
+For multiple sclerosis, the only rationale is that cytotoxic, immunosuppressive agents have been used in MS. This is weak. The 0.9997 score is a model output with no trials or literature behind it. The known toxicity profile (kidney toxicity, myelosuppression, diabetogenic effects) makes a favorable benefit-risk balance unlikely for a chronic autoimmune condition.
 
 **Other predictions in the top 10** (all Hold):
 - **Small cell lung carcinoma (L4):** A biological analogy exists, since it is a high-grade neuroendocrine carcinoma. The retrieved papers concern pancreatic and carcinoid tumors, not SCLC, and SCLC is standardly treated with platinum-etoposide.

@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Activated Charcoal Antimony Arsenate Bryonia Alba 
@@ -51,7 +52,7 @@ There is currently **no clinical trial evidence, no supporting literature, and n
 | Predicted New Indication | None — TxGNN pipeline returned no candidates |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | Below L5 (no predictions, no studies, no registration) |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 6) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 

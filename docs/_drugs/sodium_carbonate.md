@@ -46,17 +46,17 @@ Sodium carbonate is an alkalinizing agent, and no approved indication is on reco
 |------|------|
 | Original Indication | No approved indication text on record |
 | Predicted New Indication | Cauda equina syndrome |
-| TxGNN Prediction Score | 99.80% |
+| TxGNN Prediction Score | 0.9980 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 (cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Sodium carbonate is an alkalinizing, antacid-type agent. Because no original indication is recorded, its relationship to the predicted indication cannot be assessed.
 
-Cauda equina syndrome is a compressive injury to the lumbosacral nerve roots, and it is managed surgically. Sodium carbonate has no known action on this condition. The high TxGNN score is a graph-based prediction, and neither trials nor literature support it. On current information, no plausible mechanistic link can be identified.
+Cauda equina syndrome is a compressive injury to the lumbosacral nerve roots, and it is managed surgically. Sodium carbonate has no known action on this condition. The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, and neither trials nor literature support it. On current information, no plausible mechanistic link can be identified.
 
 ### Other Predicted Indications
 
@@ -64,11 +64,11 @@ The model also ranked the following indications. None has enough support to chan
 
 | Rank | Predicted Indication | TxGNN Score | Evidence Level | Assessment |
 |------|------|------|------|------|
-| 2 | Anaphylaxis | 99.72% | L5 | One paper on sublingual epinephrine formulation (PMID 34600046). It does not test sodium carbonate as a treatment, and the link is indirect at best (formulation or pH adjustment). |
-| 3 | Food-dependent exercise-induced anaphylaxis | 99.63% | L5 | No mechanistic link and no studies. |
-| 4 | Neurogenic bladder (obsolete ontology term) | 99.62% | L5 | No mechanistic link. The disease term is obsolete, which lowers its value as a target. |
-| 5 | Dry eye syndrome | 99.58% | L4 | Only indirect evidence from an oral hygiene study in Sjögren's syndrome (PMID 27813150). No dry eye trials were found. |
-| 6 | Ventricular tachycardia | 99.18% | L5 | Sodium bicarbonate, a related compound, is used in some toxicologic arrhythmias. Sodium carbonate has no documented antiarrhythmic use and is a stronger alkali with irritant properties. |
+| 2 | Anaphylaxis | 0.9972 | L5 | One paper on sublingual epinephrine formulation (PMID 34600046). It does not test sodium carbonate as a treatment, and the link is indirect at best (formulation or pH adjustment). |
+| 3 | Food-dependent exercise-induced anaphylaxis | 0.9963 | L5 | No mechanistic link and no studies. |
+| 4 | Neurogenic bladder (obsolete ontology term) | 0.9962 | L5 | No mechanistic link. The disease term is obsolete, which lowers its value as a target. |
+| 5 | Dry eye syndrome | 0.9958 | L5 | Only indirect evidence from an oral hygiene study in Sjögren's syndrome (PMID 27813150). No dry eye trials were found. |
+| 6 | Ventricular tachycardia | 0.9918 | L5 | Sodium bicarbonate, a related compound, is used in some toxicologic arrhythmias. Sodium carbonate has no documented antiarrhythmic use and is a stronger alkali with irritant properties. |
 
 ## Clinical Trial Evidence
 

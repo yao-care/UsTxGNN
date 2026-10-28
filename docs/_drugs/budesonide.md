@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Budesonide
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 475
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
 description: "Budesonide: predicted new indication Atopic eczema (evidence level L4). Approved use: Crohn's disease, inflammatory bowel disease, asthma, allergic rhinitis"
@@ -14,7 +14,7 @@ predicted_indications: ["atopic eczema", "bronchitis", "dermatitis, atopic", "po
 # Budesonide
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **atopic eczema**, but there ar
 |------|------|
 | Original Indication | Crohn's disease, inflammatory bowel disease, asthma, allergic rhinitis (approved indication text is not available in the US license records) |
 | Predicted New Indication | Atopic eczema |
-| TxGNN Prediction Score | 99.96% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| TxGNN Prediction Score | 0.9996 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 12) |
 | Number of NDAs | 12 licenses (all cancelled; includes 2 NDAs and 10 ANDAs) |
 | Recommended Decision | Hold |
 
@@ -84,7 +84,7 @@ No human efficacy trial of budesonide in atopic eczema was found among these pub
 
 ## US Market Information
 
-All 12 US licenses are cancelled. Approved indication text is not available in the records. Up to 5 are listed below.
+The drug is marketed in the US, with 12 valid licenses. Approved indication text is not available in the records. Up to 5 are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -107,7 +107,7 @@ Package insert warnings and contraindications were not available for this report
 **Decision: Hold**
 
 **Rationale:**
-The mechanism is plausible, but there are no registered clinical trials and the literature is indirect or preclinical (evidence level L4). Topical corticosteroids are already standard care, so budesonide's added value is unproven. All US licenses are cancelled, and the label safety data are missing.
+The mechanism is plausible, but there are no registered clinical trials and the literature is indirect or preclinical (evidence level L4). Topical corticosteroids are already standard care, so budesonide's added value is unproven. The drug is marketed in the US, with 12 valid licenses, and the label safety data are missing.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
@@ -116,7 +116,7 @@ The mechanism is plausible, but there are no registered clinical trials and the 
 - Route and formulation compatibility assessment, since no topical dermal product exists among the listed forms
 - A pediatric safety plan covering adrenal suppression, growth and contact sensitization
 
-**Other predictions of note:** Bronchitis (score 99.81%) has the stronger evidence base at L2, with completed Phase 2 trials of budesonide/formoterol in bronchiolitis obliterans and a Phase 4 trial in eosinophilic bronchitis. The evidence is adjacent rather than direct, and it may merit separate evaluation as a research question. The remaining predictions (polyps of various sites, epulis) are model-only or have tangential evidence and should be held.
+**Other predictions of note:** Bronchitis (score 0.9981) has the stronger evidence base at L2, with completed Phase 2 trials of budesonide/formoterol in bronchiolitis obliterans and a Phase 4 trial in eosinophilic bronchitis. The evidence is adjacent rather than direct, and it may merit separate evaluation as a research question. The remaining predictions (polyps of various sites, epulis) are model-only or have tangential evidence and should be held.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

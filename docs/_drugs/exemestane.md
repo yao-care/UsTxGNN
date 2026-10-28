@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Exemestane
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 689
-evidence_level: L4
+evidence_level: L5
 indication_count: 7
 monitor_inn: "EXEMESTANE"
 predicted_indications: ["antithrombin deficiency type 2", "amenorrhea (disease)", "factor 5 excess with spontaneous thrombosis", "heparin cofactor 2 deficiency", "thrombophilia", "migraine disorder", "migraine with brainstem aura"]
 last_modified_at: 2026-10-14
-description: "Exemestane: predicted new indication Amenorrhea (evidence level L4). Approved use: Not available in the compiled data"
+description: "Exemestane: predicted new indication Antithrombin deficiency type 2 (evidence level L4). Approved use: Not available in the compiled data"
 ---
 
 # Exemestane
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **7** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **7**
 
 </div>
 
-## Exemestane: From Breast Cancer to Amenorrhea
+## Exemestane: From Breast Cancer to Antithrombin Deficiency Type 2
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,10 +48,10 @@ There are **0 clinical trials** and **5 publications** (1 cohort study, 4 review
 |------|------|
 | Original Indication | Not available in the compiled data |
 | Predicted New Indication | Amenorrhea (the top-ranked prediction is antithrombin deficiency type 2, which has no evidence at all) |
-| TxGNN Prediction Score | 99.82% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (all listings cancelled) |
-| Number of NDAs | 7 (1 NDA and 6 ANDAs, all cancelled) |
+| TxGNN Prediction Score | 0.9982 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 7 of 7) |
+| Number of NDAs | 7 (valid: 7) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Detailed mechanism of action data is not available in the compiled data. Based o
 
 This is where the prediction becomes questionable. Amenorrhea is a consequence of estrogen and ovarian function suppression, so it is a pharmacological effect of exemestane and not something it would treat. The retrieved papers discuss chemotherapy-induced amenorrhea, ovarian suppression and ovarian function recovery in premenopausal breast cancer patients. In these papers amenorrhea is an outcome or a treatment-related state. The direction of effect (induction rather than treatment) argues against repurposing for this indication.
 
-The other predictions are weaker still. The thrombophilia cluster (antithrombin deficiency type 2, factor 5 excess, heparin cofactor 2 deficiency and thrombophilia) has no clinical or literature support and no plausible mechanism. These scores most likely come from graph propagation. Aromatase inhibitors also carry a thromboembolic risk signal in breast cancer, so the safety direction is a concern. The migraine predictions have only a speculative link through estrogen fluctuation, and estrogen depletion could plausibly worsen headaches.
+The other predictions are weaker still. The thrombophilia cluster (antithrombin deficiency type 2, factor 5 excess, heparin cofactor 2 deficiency and thrombophilia) has no clinical or literature support and no plausible mechanism. These scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Aromatase inhibitors also carry a thromboembolic risk signal in breast cancer, so the safety direction is a concern. The migraine predictions have only a speculative link through estrogen fluctuation, and estrogen depletion could plausibly worsen headaches.
 
 ## Clinical Trial Evidence
 
@@ -110,7 +110,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN scores are very high (99.8%), but there are no clinical trials and the only literature is indirect. Amenorrhea is an effect of exemestane, not a condition it treats, and the thrombophilia and migraine predictions have no plausible mechanism and raise safety concerns.
+The TxGNN scores are very high (0.9983 for antithrombin deficiency type 2), but there are no clinical trials and the only literature is indirect. Amenorrhea is an effect of exemestane, not a condition it treats, and the thrombophilia and migraine predictions have no plausible mechanism and raise safety concerns.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

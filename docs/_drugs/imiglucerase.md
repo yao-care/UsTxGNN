@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Imiglucerase
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 791
-evidence_level: L4
+evidence_level: L5
 indication_count: 5
 monitor_inn: "IMIGLUCERASE"
 predicted_indications: ["Hurler syndrome", "Scheie syndrome", "benign neoplasm of adrenal gland", "autosomal ichthyosis syndrome with fatal disease course", "cholesteryl ester storage disease"]
-last_modified_at: 2026-10-14
-description: "Imiglucerase: predicted new indication Hurler syndrome (evidence level L4). Approved use: Gaucher disease"
+last_modified_at: 2026-10-28
+description: "Imiglucerase: predicted new indication Hurler syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Imiglucerase
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **5**
 
 </div>
 
-## Imiglucerase: From Gaucher Disease to Hurler Syndrome
+## Imiglucerase: Hurler syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ but there are currently **0 clinical trials** and only **1 general review articl
 
 | Item | Content |
 |------|------|
-| Original Indication | Gaucher disease |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Hurler syndrome |
-| TxGNN Prediction Score | 99.52% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 1 (BLA020367, cancelled) |
+| TxGNN Prediction Score | 0.9952 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -92,10 +92,10 @@ For other safety information, please refer to the package insert.
 No clinical trials exist, the only literature is a general class-level review, and the mechanism is not supported because imiglucerase targets glucosylceramide rather than the glycosaminoglycans accumulating in MPS I. An approved, disease-specific therapy (laronidase) already exists, and the US license for Cerezyme is listed as cancelled.
 
 Other predictions show the same picture, with no trials or literature:
-- **Scheie syndrome** (99.29%, L4): same reasoning as Hurler syndrome.
-- **Benign neoplasm of adrenal gland** (99.28%, L5): no clear mechanistic link; likely a graph-level association.
-- **Autosomal ichthyosis syndrome with fatal disease course** (99.24%, L5): plausible but unverified link through impaired glucosylceramide metabolism in the skin barrier; hard to study given the early onset and fatal course.
-- **Cholesteryl ester storage disease** (99.12%, L5): caused by lysosomal acid lipase deficiency, which imiglucerase does not address; sebelipase alfa is the approved specific therapy.
+- **Scheie syndrome** (0.9929, L4): same reasoning as Hurler syndrome.
+- **Benign neoplasm of adrenal gland** (0.9928, L5): no clear mechanistic link; the score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
+- **Autosomal ichthyosis syndrome with fatal disease course** (0.9924, L5): plausible but unverified link through impaired glucosylceramide metabolism in the skin barrier; hard to study given the early onset and fatal course.
+- **Cholesteryl ester storage disease** (0.9912, L5): caused by lysosomal acid lipase deficiency, which imiglucerase does not address; sebelipase alfa is the approved specific therapy.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (currently missing, which blocks safety screening)

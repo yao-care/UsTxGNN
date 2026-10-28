@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "EDARAVONE"
 predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis"]
 last_modified_at: 2026-10-14
-description: "Edaravone: predicted new indication Heparin cofactor 2 deficiency (evidence level L5). Approved use: Amyotrophic lateral sclerosis"
+description: "Edaravone: predicted new indication Heparin cofactor 2 deficiency (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Edaravone
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-## Edaravone: From Amyotrophic Lateral Sclerosis and Ischemic Stroke to Heparin Cofactor 2 Deficiency
+## Edaravone: Heparin cofactor 2 deficiency
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,15 +46,15 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 | Item | Content |
 |------|------|
-| Original Indication | Amyotrophic lateral sclerosis; ischemic stroke (from the knowledge graph, since the US labels in the data compiled for this report carry no indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Heparin cofactor 2 deficiency |
-| TxGNN Prediction Score | 99.47% |
+| TxGNN Prediction Score | 0.9947 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid authorizations) |
-| Number of NDAs | 4 (all cancelled; 1 NDA and 3 ANDAs) |
+| US Market Status | Marketed (valid licenses: 4 of 4) |
+| Number of NDAs | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
-A second prediction, **factor 5 excess with spontaneous thrombosis** (score 99.06%), was also generated. It likewise has no supporting trials or literature and is discussed briefly below.
+A second prediction, **factor 5 excess with spontaneous thrombosis** (score 0.9906), was also generated. It likewise has no supporting trials or literature and is discussed briefly below.
 
 ## Why is This Prediction Reasonable?
 
@@ -76,10 +76,10 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA209176 | RADICAVA | Injection | Not listed (cancelled) |
-| ANDA217565 | Edaravone (XGen Pharmaceuticals DJB) | Injection, solution | Not listed (cancelled) |
-| ANDA216199 | Edaravone (Gland Pharma) | Injection, solution | Not listed (cancelled) |
-| ANDA216902 | Edaravone (Sandoz) | Injection | Not listed (cancelled) |
+| NDA209176 | RADICAVA | Injection | Not listed (valid) |
+| ANDA217565 | Edaravone (XGen Pharmaceuticals DJB) | Injection, solution | Not listed (valid) |
+| ANDA216199 | Edaravone (Gland Pharma) | Injection, solution | Not listed (valid) |
+| ANDA216902 | Edaravone (Sandoz) | Injection | Not listed (valid) |
 
 All four authorizations are injectable products and all are currently cancelled.
 
@@ -94,7 +94,7 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the TxGNN model score (99.47%), with no clinical trials, no publications, and no direct mechanistic link between edaravone and the heparin cofactor 2 / thrombin axis. In addition, all US authorizations are cancelled, and package insert safety data could not be obtained.
+The prediction is supported only by the TxGNN model score (0.9947), with no clinical trials, no publications, and no direct mechanistic link between edaravone and the heparin cofactor 2 / thrombin axis. In addition, the drug is marketed in the US with all 4 of 4 authorizations valid, and package insert safety data could not be obtained.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (obtained from the FDA website) to allow safety screening

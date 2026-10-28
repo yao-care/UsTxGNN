@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Apis Mellifera Apocynum Cannabinum Root Arsenic Tr
@@ -51,7 +52,7 @@ There is currently **no clinical trial or published literature** associated with
 | Predicted New Indication | Not available — TxGNN returned no predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | N/A (pipeline could not process multi-ingredient input) |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

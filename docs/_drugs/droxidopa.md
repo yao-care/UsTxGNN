@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "DROXIDOPA"
 predicted_indications: ["variably protease-sensitive prionopathy"]
 last_modified_at: 2026-10-14
-description: "Droxidopa: predicted new indication Variably protease-sensitive prionopathy (evidence level L5). Approved use: Parkinson disease, multiple system atrophy…"
+description: "Droxidopa: predicted new indication Variably protease-sensitive prionopathy (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Droxidopa
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-## Droxidopa: From Parkinson Disease–Related Orthostatic Hypotension to Variably Protease-Sensitive Prionopathy
+## Droxidopa: Variably protease-sensitive prionopathy
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 | Item | Content |
 |------|------|
-| Original Indication | Parkinson disease, multiple system atrophy, postural orthostatic tachycardia syndrome, orthostatic hypotension (no approved-indication text is available from the US license records; these come from knowledge graph indication links) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Variably protease-sensitive prionopathy |
-| TxGNN Prediction Score | 99.33% |
+| TxGNN Prediction Score | 0.9933 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 10) |
 | Number of NDAs | 10 (all ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available from the data comp
 
 The link to VPSPr is weak. VPSPr is a rare sporadic prion disease involving misfolded, partially protease-sensitive prion protein. Noradrenergic replacement does not target prion protein misfolding, aggregation or clearance, and no plausible mechanistic connection is documented.
 
-The very high TxGNN score is a computational prediction, most likely driven by network proximity between droxidopa's neurodegenerative and parkinsonian indications and VPSPr in the knowledge graph. No clinical or experimental data back it. At best, droxidopa could be considered for symptomatic management of autonomic dysfunction in a prion disease patient. That would not modify the disease and is unsupported by evidence.
+The very high TxGNN score is a computational prediction from the TxGNN model (deep learning). It may reflect similarities the model learned between related diseases, such as droxidopa's neurodegenerative and parkinsonian indications and VPSPr, not biological evidence. No clinical or experimental data back it. At best, droxidopa could be considered for symptomatic management of autonomic dysfunction in a prion disease patient. That would not modify the disease and is unsupported by evidence.
 
 ## Clinical Trial Evidence
 
@@ -74,11 +74,11 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA211652 | DROXIDOPA (Lupin Pharmaceuticals) | Capsule | Not available; status cancelled |
-| ANDA214387 | Droxidopa (Aurobindo Pharma) | Capsule | Not available; status cancelled |
-| ANDA211818 | Droxidopa (Zydus Lifesciences) | Capsule | Not available; status cancelled |
-| ANDA214017 | Droxidopa (ScieGen Pharmaceuticals) | Capsule | Not available; status cancelled |
-| ANDA213911 | Droxidopa (Ascend Laboratories) | Capsule | Not available; status cancelled |
+| ANDA211652 | DROXIDOPA (Lupin Pharmaceuticals) | Capsule | Not available; status valid |
+| ANDA214387 | Droxidopa (Aurobindo Pharma) | Capsule | Not available; status valid |
+| ANDA211818 | Droxidopa (Zydus Lifesciences) | Capsule | Not available; status valid |
+| ANDA214017 | Droxidopa (ScieGen Pharmaceuticals) | Capsule | Not available; status valid |
+| ANDA213911 | Droxidopa (Ascend Laboratories) | Capsule | Not available; status valid |
 
 Ten authorizations are listed in total (all oral capsules, all cancelled); the five above are shown as the main ones.
 
@@ -95,13 +95,13 @@ Please refer to the package insert for warnings and contraindications, which wer
 **Decision: Hold**
 
 **Rationale:**
-The prediction is model-only (evidence level L5) with no clinical trials or publications, and no plausible mechanistic link between noradrenergic replacement and prion protein pathology. The high TxGNN score alone is not enough to justify further investment. All US licenses are also cancelled, and package insert safety data are missing.
+The prediction is model-only (evidence level L5) with no clinical trials or publications, and no plausible mechanistic link between noradrenergic replacement and prion protein pathology. The high TxGNN score alone is not enough to justify further investment. The drug is marketed in the US with 10 valid licenses, but package insert safety data are missing.
 
 **To proceed, the following is needed:**
 - Mechanism of action data (MOA) and a credible hypothesis linking droxidopa to VPSPr pathology
 - Preclinical evidence (for example, prion-infected cell or animal models) showing a disease-relevant effect
 - FDA package insert warnings and contraindications, to complete the safety screening
-- Clarification of the current regulatory and supply status, since all ANDAs are cancelled
+- Clarification of the current regulatory and supply status
 - Route and formulation compatibility assessment for the target population
 ## Disclaimer
 

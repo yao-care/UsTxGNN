@@ -4,7 +4,7 @@ title: Chlorthalidone
 parent: Model Prediction Only (L5)
 nav_order: 524
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
 description: "Chlorthalidone: predicted new indication Primary hereditary glaucoma (evidence level L5). Approved use: Hypertensive disorder, hypertension, congestive heart failure"
 monitor_inn: "CHLORTHALIDONE"
@@ -14,7 +14,7 @@ predicted_indications: ["primary hereditary glaucoma", "open-angle glaucoma", "m
 # Chlorthalidone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ but **0 clinical trials** and **0 publications** currently support this predicti
 |------|------|
 | Original Indication | Hypertensive disorder, hypertension, congestive heart failure |
 | Predicted New Indication | Primary hereditary glaucoma |
-| TxGNN Prediction Score | 99.92% |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 9) |
 | Number of NDAs | 9 (all ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
@@ -62,7 +62,7 @@ A link to intraocular pressure (for example, through changes in aqueous humor dy
 
 The high TxGNN score (0.999) is a model output only. Among the other top-ranked predictions, the following are worth noting:
 
-- **Chronic pulmonary heart disease** (score 99.82%, Evidence Level L4) is the only prediction with directly relevant literature. It is a plausible extension of chlorthalidone's use for congestive heart failure through diuretic volume reduction. The benefit would be symptomatic relief rather than disease modification.
+- **Chronic pulmonary heart disease** (score 0.9982, Evidence Level L4) is the only prediction with directly relevant literature. It is a plausible extension of chlorthalidone's use for congestive heart failure through diuretic volume reduction. The benefit would be symptomatic relief rather than disease modification.
 - **Malignant hypertensive renal disease** and **malignant renovascular hypertension** largely overlap with the existing hypertension indication rather than representing a novel repurposing signal.
 
 ## Clinical Trial Evidence
@@ -84,11 +84,11 @@ For reference, the literature linked to the related prediction of chronic pulmon
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA211063 | Chlorthalidone (Chartwell RX, LLC) | Tablet | Not available (cancelled) |
-| ANDA213412 | Chlorthalidone (Preferred Pharmaceuticals Inc.) | Tablet | Not available (cancelled) |
-| ANDA212878 | Chlorthalidone (Bryant Ranch Prepack) | Tablet | Not available (cancelled) |
-| ANDA214129 | Chlorthalidone (Ajanta Pharma USA Inc.) | Tablet | Not available (cancelled) |
-| ANDA207813 | Chlorthalidone (Zydus Lifesciences Limited) | Tablet | Not available (cancelled) |
+| ANDA211063 | Chlorthalidone (Chartwell RX, LLC) | Tablet | Not available (valid) |
+| ANDA213412 | Chlorthalidone (Preferred Pharmaceuticals Inc.) | Tablet | Not available (valid) |
+| ANDA212878 | Chlorthalidone (Bryant Ranch Prepack) | Tablet | Not available (valid) |
+| ANDA214129 | Chlorthalidone (Ajanta Pharma USA Inc.) | Tablet | Not available (valid) |
+| ANDA207813 | Chlorthalidone (Zydus Lifesciences Limited) | Tablet | Not available (valid) |
 
 A total of 9 licenses are listed, and all are cancelled.
 
@@ -107,7 +107,7 @@ Please also refer to the package insert for full safety information, since label
 **Decision: Hold**
 
 **Rationale:**
-The prediction for primary hereditary glaucoma is supported only by a model score (Evidence Level L5). No trials or literature support it, and the mechanistic link is speculative. All US licenses are also cancelled.
+The prediction for primary hereditary glaucoma is supported only by a model score (Evidence Level L5). No trials or literature support it, and the mechanistic link is speculative. The drug is marketed in the US, with 9 valid licenses.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

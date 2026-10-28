@@ -4,17 +4,17 @@ title: Ziconotide
 parent: Moderate Evidence (L3-L4)
 nav_order: 1303
 evidence_level: L4
-indication_count: 10
+indication_count: 9
 monitor_inn: "ZICONOTIDE"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "obesity disorder", "transient ischemic attack (disease)", "open-angle glaucoma", "obsolete neurogenic bladder (disease)", "migraine with or without aura, susceptibility to", "primary hereditary glaucoma", "preeclampsia"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "cauda equina syndrome", "obesity disorder", "transient ischemic attack (disease)", "open-angle glaucoma", "obsolete neurogenic bladder (disease)", "primary hereditary glaucoma", "preeclampsia"]
 last_modified_at: 2026-10-14
-description: "Ziconotide: predicted new indication Migraine disorder (evidence level L4). Approved use: Not listed in the compiled regulatory data (the approved indication t…"
+description: "Ziconotide: predicted new indication Migraine disorder (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Ziconotide
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Ziconotide: From Severe Chronic Pain to Migraine Disorder
+## Ziconotide: Migraine disorder
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,12 +47,12 @@ The TxGNN model predicts it may be effective for **migraine disorder**, but ther
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the compiled regulatory data (the approved indication text is empty) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.92% |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (the single NDA is cancelled) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -63,7 +63,7 @@ Ziconotide is a selective N-type (Cav2.2) voltage-gated calcium channel blocker.
 
 CGRP and trigeminal-cervical pain pathways play a central role in migraine. Dampening nociceptive signalling in these pathways could therefore plausibly help chronic migraine. This is the main mechanistic rationale for the prediction.
 
-The support is thin, however. It rests on a single case report of chronic migraine resolving with intrathecal ziconotide, plus narrative reviews. No controlled studies exist. A related entry, "migraine with or without aura, susceptibility to," maps to the same general migraine phenotype and draws on the same literature, so it is not independent evidence.
+The support is thin, however. It rests on a single case report of chronic migraine resolving with intrathecal ziconotide, plus narrative reviews. No controlled studies exist.
 
 ---
 
@@ -87,13 +87,13 @@ Currently no related clinical trials registered.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA021060 | PRIALT (TerSera Therapeutics LLC) | Injection, solution | Not listed (status: cancelled) |
+| NDA021060 | PRIALT (TerSera Therapeutics LLC) | Injection, solution | Not listed (status: valid) |
 
 ---
 
 ## Safety Considerations
 
-- **Contraindications (knowledge-graph associations, not label text)**: The TxGNN knowledge graph links ziconotide to psychotic disorder, schizophreniform disorder, mental disorder, schizoaffective disorder and blood coagulation disease. These should be verified against the official labelling.
+- **Contraindications (TxGNN model (deep learning) output, not label text)**: The TxGNN model (deep learning) associates ziconotide with psychotic disorder, schizophreniform disorder, mental disorder, schizoaffective disorder and blood coagulation disease. These associations may reflect similarities the model learned between related diseases, not biological evidence, and should be verified against the official labelling.
 - **Drug Interactions**: 48 interactions were found, all of the 20 shown being Moderate. They mainly involve other central nervous system depressants, including:
   - Opioids: morphine (including liposomal), codeine, hydrocodone, opium, diphenoxylate and difenoxin
   - Cannabinoids: dronabinol and nabilone

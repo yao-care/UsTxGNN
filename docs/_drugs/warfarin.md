@@ -6,9 +6,9 @@ nav_order: 1298
 evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-14
-description: "Warfarin: predicted new indication Thrombophilia (evidence level L5). Approved use: Pulmonary embolism, thrombotic disease, intracranial embolism"
 monitor_inn: "WARFARIN"
 predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "rheumatoid arthritis", "breast fibrocystic disease", "benign mammary dysplasia"]
+description: "Warfarin: predicted new indication Heparin cofactor 2 deficiency (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Warfarin
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-## Warfarin: From Thrombotic Disease to Thrombophilia
+## Warfarin: Heparin cofactor 2 deficiency
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,11 +48,11 @@ This is largely an extension of warfarin's existing anticoagulant use rather tha
 
 | Item | Content |
 |------|------|
-| Original Indication | Pulmonary embolism, thrombotic disease, intracranial embolism |
-| Predicted New Indication | Thrombophilia (the first-ranked prediction, heparin cofactor 2 deficiency, has only case reports) |
-| TxGNN Prediction Score | 99.75% (thrombophilia); 99.87% (heparin cofactor 2 deficiency) |
-| Evidence Level | L1 (conditional; see below) |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Heparin cofactor 2 deficiency |
+| TxGNN Prediction Score | 0.9987 |
+| Evidence Level | L5 (conditional; see below) |
+| US Market Status | Marketed (valid licenses on record: at least 4) |
 | Number of NDAs | 4 (all cancelled; all are ANDA generic applications) |
 | Recommended Decision | Hold |
 
@@ -124,12 +124,12 @@ None of the literature evaluates warfarin as a treatment in a controlled setting
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA040301 | Warfarin Sodium (Golden State Medical Supply) | Tablet | Not available (status: cancelled) |
-| ANDA202202 | Warfarin Sodium (REMEDYREPACK) | Tablet | Not available (status: cancelled) |
-| ANDA040616 | Warfarin Sodium (PD-Rx Pharmaceuticals) | Tablet | Not available (status: cancelled) |
-| ANDA090935 | Warfarin Sodium (Golden State Medical Supply) | Tablet | Not available (status: cancelled) |
+| ANDA040301 | Warfarin Sodium (Golden State Medical Supply) | Tablet | Not available (status: valid) |
+| ANDA202202 | Warfarin Sodium (REMEDYREPACK) | Tablet | Not available (status: valid) |
+| ANDA040616 | Warfarin Sodium (PD-Rx Pharmaceuticals) | Tablet | Not available (status: valid) |
+| ANDA090935 | Warfarin Sodium (Golden State Medical Supply) | Tablet | Not available (status: valid) |
 
-All four listed authorizations are cancelled, and the data compiled for this report show no currently valid single-ingredient or combination licenses. Warfarin is available only as an oral tablet.
+Warfarin is marketed in the US, and the data compiled for this report show four valid licenses. Warfarin is available only as an oral tablet.
 
 ---
 
@@ -160,12 +160,11 @@ Label warnings and contraindications have not been retrieved, so please refer to
 **Rationale:**
 - The thrombophilia prediction largely duplicates warfarin's existing thrombotic indications, and its only trial is a Phase 3 strategy study of unknown status that does not isolate warfarin. The other inherited-deficiency predictions rest on case reports or on model output alone.
 - The rheumatoid arthritis, fibrocystic breast disease and benign mammary dysplasia predictions appear to be artifacts of drug-interaction co-occurrence and have no therapeutic basis.
-- Warfarin currently has no valid US licenses in the data reviewed, and the FDA label safety data and mechanism data are missing, which blocks progression to safety screening.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap)
 - Mechanism of action data from DrugBank
-- Confirmation of the current US marketing status, since all four authorizations are cancelled
+- Confirmation of the current US marketing status, since four authorizations are listed as valid
 - The final results of NCT00895505, plus comparative data for warfarin versus DOACs in severe inherited thrombophilia
 - A clear definition of what would count as a new indication, given the overlap with warfarin's existing thrombotic-disease uses
 ## Disclaimer

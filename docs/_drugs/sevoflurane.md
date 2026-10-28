@@ -46,10 +46,10 @@ Sevoflurane is an inhaled general anesthetic. The TxGNN model predicts it may be
 |------|------|
 | Original Indication | Not specified in the data compiled for this report (used as an inhaled general anesthetic) |
 | Predicted New Indication | Prinzmetal angina |
-| TxGNN Prediction Score | 99.78% |
+| TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 6 (1 NDA and 5 ANDAs, all cancelled) |
+| US Market Status | Marketed (valid licenses: 6 of 6) |
+| Number of NDAs | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -74,13 +74,13 @@ For context, the next-ranked predictions have only incidental literature. For ex
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA020478 | Ultane (AbbVie Inc.) | Liquid | Not listed (cancelled) |
-| ANDA077867 | Sojourn (Piramal Critical Care Inc) | Liquid | Not listed (cancelled) |
-| ANDA075895 | Sevoflurane (Baxter Healthcare Corporation) | Liquid | Not listed (cancelled) |
-| ANDA078650 | Sevoflurane (Halocarbon Life Sciences, LLC) | Liquid | Not listed (cancelled) |
-| ANDA203793 | Sevoflurane (Sandoz Inc.) | Liquid | Not listed (cancelled) |
+| NDA020478 | Ultane (AbbVie Inc.) | Liquid | Not listed (valid) |
+| ANDA077867 | Sojourn (Piramal Critical Care Inc) | Liquid | Not listed (valid) |
+| ANDA075895 | Sevoflurane (Baxter Healthcare Corporation) | Liquid | Not listed (valid) |
+| ANDA078650 | Sevoflurane (Halocarbon Life Sciences, LLC) | Liquid | Not listed (valid) |
+| ANDA203793 | Sevoflurane (Sandoz Inc.) | Liquid | Not listed (valid) |
 
-One further authorization (ANDA214382, Lannett Company, Inc.) is also cancelled. All six authorizations are cancelled.
+One further authorization (ANDA214382, Lannett Company, Inc.) is also valid. All six authorizations are valid.
 
 ## Safety Considerations
 
@@ -94,14 +94,14 @@ For label warnings and contraindications, please refer to the package insert.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a very high model score but no clinical trials and no supporting literature. Sevoflurane is an inhaled general anesthetic with no plausible route to chronic use in vasospastic angina, and all US authorizations are cancelled. The kidney disease, liver disease and hypotension signals add to the concern.
+The prediction has a very high model score but no clinical trials and no supporting literature. Sevoflurane is an inhaled general anesthetic with no plausible route to chronic use in vasospastic angina, and the drug is marketed in the US with all 6 authorizations valid. The kidney disease, liver disease and hypotension signals add to the concern.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data
 - Preclinical or mechanistic evidence on coronary vasospasm
 - An assessment of whether any feasible route or formulation could suit a chronic cardiac indication
-- Clarification of current US availability, since all authorizations are cancelled
+- Clarification of current US availability, although all 6 authorizations are valid
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **dyspepsia**, but there are cu
 |------|------|
 | Original Indication | Nutritional biotin deficiency |
 | Predicted New Indication | Dyspepsia |
-| TxGNN Prediction Score | 99.43% |
+| TxGNN Prediction Score | 0.9943 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid authorizations) |
+| US Market Status | Marketed (valid licenses on record: at least 3) |
 | Number of NDAs | 3 (all cancelled) |
 | Recommended Decision | Hold |
 
@@ -59,7 +59,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 Biotin deficiency can cause gastrointestinal symptoms such as nausea and anorexia. Any benefit in dyspepsia would therefore most likely be limited to people whose symptoms stem from a deficiency state, not functional dyspepsia in general. No established mechanistic link between biotin and dyspepsia was found. The high TxGNN score is a model-based prediction only.
 
-A second predicted indication, gastroparesis (score 99.42%), has no clinical trials or literature and no plausible mechanism linking biotin to gastric motility. It is not evaluated further here.
+A second predicted indication, gastroparesis (score 0.9942), has no clinical trials or literature and no plausible mechanism linking biotin to gastric motility. It is not evaluated further here.
 
 ## Clinical Trial Evidence
 
@@ -83,10 +83,10 @@ None of these studies tests biotin as a treatment for dyspepsia.
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | NDA nan | Biotin Drops | Liquid | Not specified (cancelled) |
-| M032 | AVEYA BIOTIN HAIR GROWTH | Liquid | Not specified (cancelled) |
-| 505G(a)(3) | 5% Minoxidil Hair Growth Foam with Biotin | Aerosol, foam | Not specified (cancelled) |
+| M032 | AVEYA BIOTIN HAIR GROWTH | Liquid | Not specified (valid) |
+| 505G(a)(3) | 5% Minoxidil Hair Growth Foam with Biotin | Aerosol, foam | Not specified (valid) |
 
-All three authorizations are cancelled, and none lists an approved indication.
+All three authorizations are valid, and none lists an approved indication.
 
 ## Safety Considerations
 

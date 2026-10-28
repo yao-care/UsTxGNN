@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "LEVOCARNITINE"
 predicted_indications: ["autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy", "rheumatoid arthritis", "sclerosing cholangitis", "gout", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congestive heart failure", "hypoalphalipoproteinemia"]
 last_modified_at: 2026-10-14
-description: "Levocarnitine: predicted new indication Autosomal dominant familial hematuria-retinal arteriolar tortuosity-c… (evidence level L5)."
+description: "Levocarnitine: predicted new indication Autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (evidence level L5)."
 ---
 
 # Levocarnitine
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Levocarnitine: Predicted New Indication, Autosomal Dominant Familial Hematuria-Retinal Arteriolar Tortuosity-Contractures Syndrome
+## Levocarnitine: Autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,17 +47,17 @@ This prediction has **0 clinical trials** and **0 publications** behind it, so i
 | Item | Content |
 |------|------|
 | Predicted New Indication | Autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome |
-| TxGNN Prediction Score | 99.94% |
+| TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L5 (model prediction only) |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 11 licenses in total (3 NDAs and 8 ANDAs), all cancelled |
+| US Market Status | Marketed (valid licenses: 11 of 11) |
+| Number of NDAs | 11 (valid: 11) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Levocarnitine is generally understood to carry long-chain fatty acids into mitochondria for energy production.
 
-The predicted disease is a rare vascular and basement-membrane disorder related to collagen IV. No clear mechanistic link between carnitine's role in fatty acid transport and mitochondrial metabolism and this disease can be established from the available data. The very high score (99.94%, rank 2220 among model predictions) most likely reflects network proximity in the knowledge graph rather than a demonstrated biological connection. The prediction should be treated as a hypothesis only.
+The predicted disease is a rare vascular and basement-membrane disorder related to collagen IV. No clear mechanistic link between carnitine's role in fatty acid transport and mitochondrial metabolism and this disease can be established from the available data. The very high score (0.9994, rank 2220 among model predictions) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The prediction should be treated as a hypothesis only.
 
 ## Clinical Trial Evidence
 
@@ -69,7 +69,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-All licenses below are in cancelled status. No approved indication text was available for any of them.
+Of the 11 licenses listed, all 11 are valid. No approved indication text was available for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
@@ -93,15 +93,15 @@ Please refer to the package insert for complete warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting trials or literature, no plausible mechanistic link to this ultra-rare collagen IV-related disorder, and no currently valid US licenses. It is a model output that cannot be acted on in its current form.
+It is a model output that cannot be acted on in its current form.
 
 **To proceed, the following is needed:**
 - Mechanistic evidence connecting carnitine metabolism to the pathology of this disease, such as preclinical or cell-model data
 - Detailed mechanism of action data for levocarnitine
 - Package insert warnings and contraindications, and a review of the interaction burden (especially anticoagulants)
-- Clarification of regulatory status, since all US licenses are cancelled
+- Clarification of regulatory status across the 11 valid US licenses
 
-**Note on other predicted indications:** The same prediction run produced candidates with far stronger support. **Congestive heart failure** (score 99.47%) has a completed Phase 2/3 randomized, placebo-controlled trial of L-carnitine injection (NCT01580553, 268 participants), a recruiting early-phase trial (NCT07201714), and supportive clinical literature. Its trial results still need to be verified. It would be a more productive candidate to evaluate first.
+**Note on other predicted indications:** The same prediction run produced candidates with far stronger support. **Congestive heart failure** (score 0.9947) has a completed Phase 2/3 randomized, placebo-controlled trial of L-carnitine injection (NCT01580553, 268 participants), a recruiting early-phase trial (NCT07201714), and supportive clinical literature. Its trial results still need to be verified. It would be a more productive candidate to evaluate first.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Omadacycline
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 991
-evidence_level: L3
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Omadacycline: predicted new indication Mycoplasma pneumoniae pneumonia (evidence level L3). Approved use: Bacterial pneumonia"
 monitor_inn: "OMADACYCLINE"
 predicted_indications: ["drug-induced osteoporosis", "orbital cellulitis", "post-infectious syndrome", "postinfectious vasculitis", "post-bacterial disorder", "ophthalmic herpes zoster", "otitis externa", "infective urethral stricture", "infection-related hemolytic uremic syndrome"]
+description: "Omadacycline: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Omadacycline
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,23 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-## Omadacycline: From Bacterial Pneumonia to Mycoplasma pneumoniae Pneumonia
+## Omadacycline: Drug-induced osteoporosis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Omadacycline is a tetracycline-class antibiotic (aminomethylcycline) originally used to treat bacterial pneumonia and skin infections.
-The TxGNN model predicts it may be effective for **Mycoplasma pneumoniae pneumonia**, with **no registered clinical trials** but **15 publications** (including several clinical studies and case reports in macrolide-resistant cases) supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Bacterial pneumonia; skin disease caused by infection |
-| Predicted New Indication | Mycoplasma pneumoniae pneumonia |
-| TxGNN Prediction Score | 99.79% |
-| Evidence Level | L3 |
-| US Market Status | Cancelled only (both NDAs cancelled) |
-| Number of NDAs | 2 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Drug-induced osteoporosis |
+| TxGNN Prediction Score | 0.9956 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -84,8 +83,8 @@ Currently no related clinical trials registered.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA209816 | NUZYRA | Tablet, film coated | Not specified (status: cancelled) |
-| NDA209817 | NUZYRA | Injection, powder, lyophilized, for solution | Not specified (status: cancelled) |
+| NDA209816 | NUZYRA | Tablet, film coated | Not specified (status: valid) |
+| NDA209817 | NUZYRA | Injection, powder, lyophilized, for solution | Not specified (status: valid) |
 
 ## Safety Considerations
 

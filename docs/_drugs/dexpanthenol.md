@@ -6,9 +6,9 @@ nav_order: 596
 evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-14
-description: "Dexpanthenol: predicted new indication Anorectal stricture (evidence level L5). Approved use: Paralytic ileus, intestinal obstruction, gastroparesis…"
 monitor_inn: "DEXPANTHENOL"
 predicted_indications: ["anorectal stricture", "imperforate anus", "anal polyp", "vulvar inverted follicular keratosis", "proctitis", "exanthem (disease)", "punctate epithelial keratoconjunctivitis"]
+description: "Dexpanthenol: predicted new indication Anorectal stricture (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Dexpanthenol
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-## Dexpanthenol: From Skin and Gastrointestinal Motility Conditions to Anorectal Stricture
+## Dexpanthenol: Anorectal stricture
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,30 +46,30 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 | Item | Content |
 |------|------|
-| Original Indication | Paralytic ileus, intestinal obstruction, gastroparesis, skin diseases (dermatitis, atopic eczema, actinic and seborrheic keratosis). These come from knowledge-graph indication edges, not from approved label text. |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Anorectal stricture |
-| TxGNN Prediction Score | 99.72% |
+| TxGNN Prediction Score | 0.9972 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 2 (both cancelled) |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available. Based on known information, dexpanthenol is converted in the body to pantothenic acid, a precursor of coenzyme A. Coenzyme A supports epithelial repair and wound healing, and dexpanthenol may also stimulate gut motility. This is consistent with its use in skin conditions and in ileus-type disorders.
 
-Anorectal stricture is a narrowing of the anorectal canal, usually from scarring, inflammation, or surgery. The proposed link is that mucosal and epithelial repair support could help the affected tissue. However, this is not established for fibrotic stricture, where excessive scarring is the core problem, and repair support could even be unhelpful. The high score likely reflects proximity in the knowledge graph to gastrointestinal motility indications rather than a proven biological pathway.
+Anorectal stricture is a narrowing of the anorectal canal, usually from scarring, inflammation, or surgery. The proposed link is that mucosal and epithelial repair support could help the affected tissue. However, this is not established for fibrotic stricture, where excessive scarring is the core problem, and repair support could even be unhelpful. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 Other top-ranked predictions show similar patterns. The table below gives an overview of the other predictions, none of which has meaningful evidence:
 
 | Rank | Predicted Indication | Score | Evidence Level | Comment |
 |------|------|------|------|------|
-| 2 | Imperforate anus | 99.71% | L5 | Congenital malformation requiring surgery; at most a speculative supportive role in postoperative care |
-| 3 | Anal polyp | 99.62% | L5 | No plausible mechanism; managed by resection |
-| 4 | Vulvar inverted follicular keratosis | 99.60% | L5 | Link by disease-class similarity to keratoses only |
-| 5 | Proctitis | 99.60% | L5 | Theoretical mucosal-protective rationale (e.g. radiation proctitis) |
-| 6 | Exanthem | 99.60% | L4 | One Phase 3 trial, but indirect evidence (see below) |
-| 7 | Punctate epithelial keratoconjunctivitis | 99.34% | L5 | Plausible link through ophthalmic corneal-healing use, but no data supplied |
+| 2 | Imperforate anus | 0.9971 | L5 | Congenital malformation requiring surgery; at most a speculative supportive role in postoperative care |
+| 3 | Anal polyp | 0.9962 | L5 | No plausible mechanism; managed by resection |
+| 4 | Vulvar inverted follicular keratosis | 0.9960 | L5 | Link by disease-class similarity to keratoses only |
+| 5 | Proctitis | 0.9960 | L5 | Theoretical mucosal-protective rationale (e.g. radiation proctitis) |
+| 6 | Exanthem | 0.9960 | L5 | One Phase 3 trial, but indirect evidence (see below) |
+| 7 | Punctate epithelial keratoconjunctivitis | 0.9934 | L5 | Plausible link through ophthalmic corneal-healing use, but no data supplied |
 
 ## Clinical Trial Evidence
 
@@ -89,10 +89,9 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| M018 | Eyelash Serum (FlexiGo Inc) | Liquid | Not specified (status: cancelled) |
+| M018 | Eyelash Serum (FlexiGo Inc) | Liquid | Not specified (status: valid) |
 | Not available | ReOrganic Eyelash Growth Boosting Serum (LAON COMMERCE co ltd) | Liquid | Not specified (status: cancelled) |
 
-Both authorizations are cancelled, so no active US-marketed product was identified in the data compiled for this report.
 
 ## Safety Considerations
 
@@ -105,7 +104,7 @@ No drug-interaction records were found. For other safety information, please ref
 **Decision: Hold**
 
 **Rationale:**
-The anorectal stricture prediction has a high model score (99.72%) but no clinical trials or literature, so it sits at evidence level L5. The mechanism is plausible only in a general sense (epithelial repair), and it is unclear whether it applies to fibrotic stricture. Package insert safety data and mechanism of action data are also missing.
+The anorectal stricture prediction has a high model score (0.9972) but no clinical trials or literature, so it sits at evidence level L5. The mechanism is plausible only in a general sense (epithelial repair), and it is unclear whether it applies to fibrotic stricture. Package insert safety data and mechanism of action data are also missing.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (currently a blocking gap for safety screening)

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Ribavirin
-parent: Model Prediction Only (L5)
+parent: High Evidence (L1-L2)
 nav_order: 1119
-evidence_level: L5
-indication_count: 10
+evidence_level: L1
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Ribavirin: predicted new indication Chronic hepatitis B virus infection (evidence level L5). Approved use: Chronic hepatitis C virus infection"
 monitor_inn: "RIBAVIRIN"
-predicted_indications: ["chronic hepatitis B virus infection", "primitive portal vein thrombosis", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "hepatopulmonary syndrome", "hepatoportal sclerosis", "hepatic porphyria", "IgG4-related pachymeningitis", "IgG4-related aortitis", "IgG4-related mesenteritis"]
+predicted_indications: ["chronic hepatitis B virus infection", "primitive portal vein thrombosis", "early-onset familial noncirrhotic portal hypertension", "hepatopulmonary syndrome", "hepatoportal sclerosis", "hepatic porphyria", "IgG4-related pachymeningitis", "IgG4-related aortitis", "IgG4-related mesenteritis"]
+description: "Ribavirin: predicted new indication Chronic hepatitis B virus infection (evidence level L1). Approved use: Not recorded in the local data"
 ---
 
 # Ribavirin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L1** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Ribavirin: From Chronic Hepatitis C to Chronic Hepatitis B Virus Infection
+## Ribavirin: Chronic hepatitis B virus infection
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,12 +48,12 @@ with **15 clinical trials** and **20 publications** retrieved. Most of these are
 
 | Item | Content |
 |------|------|
-| Original Indication | Chronic hepatitis C virus infection; respiratory syncytial virus infection |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Chronic hepatitis B virus infection |
-| TxGNN Prediction Score | 99.86% |
+| TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L1 (nominal, see note below) |
-| US Market Status | Cancelled only (all listed authorizations are cancelled) |
-| Number of NDAs | 5 (all cancelled) |
+| US Market Status | Marketed (valid licenses: 5 of 5) |
+| Number of NDAs | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 *Note on evidence level:* Under the grading rules, two completed Phase 3 trials would qualify for L1. Only one completed Phase 3 trial (NCT00114361) directly addresses ribavirin in HBV, and it tested a combination with peginterferon. The other Phase 3 trials are HCV-focused. The L1 label should therefore be read cautiously, and the effective strength of direct evidence is closer to L2.
@@ -64,7 +64,7 @@ with **15 clinical trials** and **20 publications** retrieved. Most of these are
 
 Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, ribavirin is a guanosine nucleoside analogue with broad antiviral activity. It is thought to act by inhibiting IMPDH, depleting GTP pools, and shifting immune responses toward a Th1 profile. Its efficacy in HCV is established.
 
-Direct anti-HBV activity of ribavirin is weak. Any benefit in HBV would most likely come from immunomodulation when combined with peginterferon or nucleos(t)ide analogues, and not from direct inhibition of viral replication. Both HBV and HCV are chronic hepatotropic viral infections, which explains why the knowledge graph links them. However, the contribution of ribavirin alone in HBV cannot be separated from the combination regimens in the available trials.
+Direct anti-HBV activity of ribavirin is weak. Any benefit in HBV would most likely come from immunomodulation when combined with peginterferon or nucleos(t)ide analogues, and not from direct inhibition of viral replication. Both HBV and HCV are chronic hepatotropic viral infections. The TxGNN model (deep learning) score may reflect similarities the model learned between related diseases, not biological evidence. However, the contribution of ribavirin alone in HBV cannot be separated from the combination regimens in the available trials.
 
 ---
 
@@ -108,14 +108,14 @@ All retrieved publications are reviews or general overviews; no randomized trial
 
 ## US Market Information
 
-All five authorizations in the data are cancelled; no active US authorization is listed. Approved indication text is not available for any of them.
+All five authorizations in the data are valid, and the drug is marketed in the US. Approved indication text is not available for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| ANDA079111 | Ribavirin (Aurobindo Pharma) | Tablet, film coated | Cancelled |
-| ANDA079117 | Ribavirin (Aurobindo Pharma) | Capsule | Cancelled |
-| NDA018859 | Ribavirin (Bryant Ranch Prepack) | Powder, for solution | Cancelled |
-| ANDA207366 | Ribavirin (Navinta LLC) | Powder, for solution | Cancelled |
+| ANDA079111 | Ribavirin (Aurobindo Pharma) | Tablet, film coated | Valid |
+| ANDA079117 | Ribavirin (Aurobindo Pharma) | Capsule | Valid |
+| NDA018859 | Ribavirin (Bryant Ranch Prepack) | Powder, for solution | Valid |
+| ANDA207366 | Ribavirin (Navinta LLC) | Powder, for solution | Valid |
 | Not specified | Ribavirinum (Hahnemann Laboratories) | Pellet | Cancelled |
 
 ---
@@ -135,7 +135,7 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-Only one completed Phase 3 trial directly tests ribavirin (combined with peginterferon) in chronic HBV, and its results are not summarized. Most retrieved trials and all literature are HCV-focused or general reviews, and direct anti-HBV activity of ribavirin is weak. In addition, no active US authorization exists, and label-level safety data are missing, which blocks safety screening.
+Only one completed Phase 3 trial directly tests ribavirin (combined with peginterferon) in chronic HBV, and its results are not summarized. Most retrieved trials and all literature are HCV-focused or general reviews, and direct anti-HBV activity of ribavirin is weak.
 
 **To proceed, the following is needed:**
 - Obtain and review the results of NCT00114361 (PARC) and NCT00275938 to determine whether ribavirin adds benefit over peginterferon alone in HBV
@@ -144,7 +144,7 @@ Only one completed Phase 3 trial directly tests ribavirin (combined with peginte
 - Obtain detailed mechanism-of-action data from DrugBank
 - Grade the severity of the listed drug interactions
 - Develop a hemolysis, anemia, and cardiopulmonary monitoring plan for the HBV population
-- Clarify the regulatory path, given that all US authorizations are cancelled
+- Clarify the regulatory path, given that all 5 US authorizations are valid and the drug is marketed
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

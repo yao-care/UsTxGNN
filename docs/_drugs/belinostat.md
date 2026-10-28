@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Belinostat
-parent: Model Prediction Only (L5)
+parent: High Evidence (L1-L2)
 nav_order: 441
-evidence_level: L5
+evidence_level: L2
 indication_count: 3
 monitor_inn: "BELINOSTAT"
 predicted_indications: ["myeloid leukemia", "plasma cell myeloma", "indolent plasma cell myeloma"]
@@ -14,7 +14,7 @@ description: "Belinostat: predicted new indication Myeloid leukemia (evidence le
 # Belinostat
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **3** 
+Evidence Level: **L2** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ with **6 clinical trials** (all early phase, Phase 1 to Phase 2) and **20 public
 |------|------|
 | Original Indication | Not listed in the US license record (the literature describes belinostat as approved for T-cell lymphomas) |
 | Predicted New Indication | Myeloid leukemia |
-| TxGNN Prediction Score | 99.53% |
+| TxGNN Prediction Score | 0.9953 |
 | Evidence Level | L2 (see note below) |
-| US Market Status | Cancelled only (the single NDA is cancelled) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 *Evidence level note: the strict rubric calls for a completed Phase 2/3 randomized trial for L2. The only completed Phase 2 study here is single-arm and small (n=12), so L2 is a generous reading, and the evidence is closer to early-phase only.*
@@ -137,7 +137,7 @@ The TxGNN score is very high and there is a sound mechanistic rationale, but cli
 - Randomized or larger Phase 2 evidence for a specific combination
 - Clarification of the regulatory and commercial availability given the cancelled NDA
 
-*Other predicted indications:* plasma cell myeloma (score 99.27%, L3, no registered trials, literature mainly class reviews; Research Question) and indolent plasma cell myeloma (score 99.08%, L5, no trials or literature; Hold) have even weaker support than myeloid leukemia.
+*Other predicted indications:* plasma cell myeloma (score 0.9927, L3, no registered trials, literature mainly class reviews; Research Question) and indolent plasma cell myeloma (score 0.9908, L5, no trials or literature; Hold) have even weaker support than myeloid leukemia.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -48,10 +48,10 @@ but there are currently **0 registered clinical trials** and only **2 directly r
 |------|------|
 | Original Indication | Alcohol withdrawal delirium; anxiety (US label indication text is not available) |
 | Predicted New Indication | Insomnia |
-| TxGNN Prediction Score | 99.86% |
+| TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L3 |
-| US Market Status | Cancelled only (all 3 listed authorizations are cancelled) |
-| Number of NDAs | 3 (all are ANDAs, generic applications) |
+| US Market Status | Marketed (valid licenses: 3 of 3) |
+| Number of NDAs | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -84,9 +84,9 @@ The remaining retrieved publications (a paroxetine review in panic disorder, an 
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA072253 | Oxazepam (American Health Packaging) | Capsule, gelatin coated | Not available (cancelled) |
-| ANDA218261 | Oxazepam (Leading Pharma, LLC) | Capsule | Not available (cancelled) |
-| ANDA071026 | Oxazepam (TruPharma, LLC) | Capsule | Not available (cancelled) |
+| ANDA072253 | Oxazepam (American Health Packaging) | Capsule, gelatin coated | Not available (valid) |
+| ANDA218261 | Oxazepam (Leading Pharma, LLC) | Capsule | Not available (valid) |
+| ANDA071026 | Oxazepam (TruPharma, LLC) | Capsule | Not available (valid) |
 
 ## Safety Considerations
 
@@ -104,13 +104,13 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The prediction is mechanistically plausible, but direct evidence is limited to one small 1984 comparative study (14 patients) and one trial in a cardiac population where sleep was a secondary outcome. No clinical trials are registered. All US authorizations for oxazepam are cancelled, and safety label data are missing, so the evidence level is L3 and the candidate is best treated as a research question.
+The prediction is mechanistically plausible, but direct evidence is limited to one small 1984 comparative study (14 patients) and one trial in a cardiac population where sleep was a secondary outcome. No clinical trials are registered. Oxazepam is marketed in the US, with all 3 authorizations valid, and safety label data are missing, so the evidence level is L3 and the candidate is best treated as a research question.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
 - A systematic review of benzodiazepines, including oxazepam, for insomnia, and comparison against approved hypnotics
-- Clarification of the current US market status, since all listed authorizations are cancelled
+- Confirmation of the current US market status (marketed, with 3 of 3 licenses valid)
 - A risk assessment for dependence, respiratory depression, and use in older adults
 ## Disclaimer
 

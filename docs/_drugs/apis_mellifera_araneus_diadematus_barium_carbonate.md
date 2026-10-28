@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Apis Mellifera Araneus Diadematus Barium Carbonate
@@ -51,7 +52,7 @@ No evidence-based evaluation can be completed under the current data state.
 | Predicted New Indication | None — TxGNN returned zero candidates |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | N/A — pipeline unable to generate candidates |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 12) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

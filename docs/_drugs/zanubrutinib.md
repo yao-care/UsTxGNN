@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Zanubrutinib
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1302
-evidence_level: L4
+evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-14
 description: "Zanubrutinib: predicted new indication Myeloid leukemia (evidence level L4). Approved use: Mantle cell lymphoma, B-cell neoplasm, lymphosarcoma"
@@ -14,7 +14,7 @@ predicted_indications: ["myeloid leukemia", "vertebral anomalies and variable en
 # Zanubrutinib
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ but the data compiled for this report show only **1 early-phase clinical trial**
 |------|------|
 | Original Indication | Mantle cell lymphoma, B-cell neoplasm, lymphosarcoma |
 | Predicted New Indication | Myeloid leukemia |
-| TxGNN Prediction Score | 99.65% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (the two listed NDAs are cancelled) |
-| Number of NDAs | 2 |
+| TxGNN Prediction Score | 0.9965 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Detailed mechanism-of-action data are not available in the data compiled for thi
 
 The link to myeloid leukemia is only indirect. BTK is expressed in myeloid lineage cells and contributes to signaling independent of the B-cell receptor, so shared pathway biology could make the drug relevant. However, all supplied literature concerns B-cell malignancies, not myeloid leukemia. The high TxGNN score is a computational prediction and is not backed by myeloid-specific clinical data.
 
-The other predicted indications (vertebral anomalies with endocrine and T-cell dysfunction, ganglioneuroblastoma, retroperitoneal neoplasm, Ewing sarcoma, neuroblastoma) have no supporting trials or meaningful literature and appear to be knowledge-graph artifacts.
+The other predicted indications (vertebral anomalies with endocrine and T-cell dysfunction, ganglioneuroblastoma, retroperitoneal neoplasm, Ewing sarcoma, neuroblastoma) have no supporting trials or meaningful literature and appear to be TxGNN model (deep learning) artifacts.
 
 ## Clinical Trial Evidence
 
@@ -89,8 +89,8 @@ None of these publications reports zanubrutinib efficacy in myeloid leukemia.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA218785 | BRUKINSA | Film-coated tablet | Not available (status: cancelled) |
-| NDA213217 | BRUKINSA | Capsule | Not available (status: cancelled) |
+| NDA218785 | BRUKINSA | Film-coated tablet | Not available (status: valid) |
+| NDA213217 | BRUKINSA | Capsule | Not available (status: valid) |
 
 ## Cytotoxicity
 

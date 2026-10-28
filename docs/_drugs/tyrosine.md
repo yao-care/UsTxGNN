@@ -48,17 +48,17 @@ Across all ten predicted indications, only **1 clinical trial** (for hyperthyroi
 |------|------|
 | Original Indication | Not available (the only license on record has no approved indication text) |
 | Predicted New Indication | Cauda equina syndrome |
-| TxGNN Prediction Score | 99.77% |
+| TxGNN Prediction Score | 0.9977 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no active license) |
-| Number of NDAs | 1 (cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Tyrosine is known as a precursor of dopamine and norepinephrine (catecholamines) and as a building block of thyroid hormones, but no original indication is documented for it here.
 
-For cauda equina syndrome, no mechanistic link has been established. It is a compressive injury to the lumbosacral nerve roots, and there is no plausible pathway from tyrosine to its treatment. The high score (99.77%) is a prediction-only signal with no clinical or literature support.
+For cauda equina syndrome, no mechanistic link has been established. It is a compressive injury to the lumbosacral nerve roots, and there is no plausible pathway from tyrosine to its treatment. The high score (0.9977) is a prediction-only signal with no clinical or literature support.
 
 Other predictions look no stronger on mechanism:
 - **Hyperthyroidism and hyperthyroxinemia:** Tyrosine is a substrate for thyroid hormone synthesis, so supplementation is biologically implausible as a treatment and could theoretically be counterproductive.

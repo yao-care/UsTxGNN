@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Rifaximin
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1122
-evidence_level: L4
+evidence_level: L5
 indication_count: 6
 monitor_inn: "RIFAXIMIN"
 predicted_indications: ["oral candidiasis", "commissural lip fistula", "osteoradionecrosis of the mandible", "oral leukoedema", "burning mouth syndrome", "candidiasis"]
@@ -14,7 +14,7 @@ description: "Rifaximin: predicted new indication Oral candidiasis (evidence lev
 # Rifaximin
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **Oral Candidiasis**, but there
 |------|------|
 | Original Indication | Hepatic encephalopathy, hepatic coma |
 | Predicted New Indication | Oral candidiasis |
-| TxGNN Prediction Score | 99.75% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 |
+| TxGNN Prediction Score | 0.9975 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -59,7 +59,7 @@ Detailed mechanism of action data is not available. Based on known information, 
 
 The available literature does not support the prediction. The only linked report describes rifaximin use *favouring* micafungin-resistant Candida infections in allogeneic hematopoietic cell transplant recipients. This suggests a plausible harm mechanism: antibiotic-driven disruption of the gut microbiome can allow Candida overgrowth. The high TxGNN score therefore conflicts with the available evidence and is likely an artifact of co-occurrence in the literature rather than a true therapeutic signal.
 
-The other top-ranked predictions (commissural lip fistula, osteoradionecrosis of the mandible, oral leukoedema, burning mouth syndrome) also lack any clinical or literature support. Candidiasis (general, score 99.15%) is likewise supported only by risk-oriented literature.
+The other top-ranked predictions (commissural lip fistula, osteoradionecrosis of the mandible, oral leukoedema, burning mouth syndrome) also lack any clinical or literature support. Candidiasis (general, score 0.9915) is likewise supported only by risk-oriented literature.
 
 ## Clinical Trial Evidence
 
@@ -75,7 +75,7 @@ Currently no related clinical trials registered.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA021361 | XIFAXAN (Cardinal Health 107, LLC) | Tablet | Not listed (status: cancelled) |
+| NDA021361 | XIFAXAN (Cardinal Health 107, LLC) | Tablet | Not listed (status: valid) |
 
 ## Safety Considerations
 

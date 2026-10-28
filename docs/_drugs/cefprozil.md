@@ -5,10 +5,10 @@ parent: High Evidence (L1-L2)
 nav_order: 506
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-14
-description: "Cefprozil: predicted new indication Urinary tract infection (evidence level L2). Approved use: Bronchitis, tonsillitis, infectious otitis media…"
 monitor_inn: "CEFPROZIL"
 predicted_indications: ["urinary tract infection (disease)", "epiglottitis", "gonococcal urethritis", "Ureaplasma urethritis", "xanthogranulomatous pyelonephritis", "uterine inflammatory disease", "pneumonia", "laryngitis", "urogenital tuberculosis", "abdominal tuberculosis"]
+last_modified_at: 2026-10-27
+description: "Cefprozil: predicted new indication urinary tract infection (disease) (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
 # Cefprozil
@@ -33,89 +33,90 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-## Cefprozil: From Respiratory Tract Infections to Urinary Tract Infection
+## Cefprozil: second-generation oral cephalosporin (cell wall synthesis inhibitor) → urinary tract infection (urinary tract infection (disease))
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Cefprozil is an oral second-generation cephalosporin antibiotic, originally used for respiratory and upper-airway bacterial infections such as bronchitis, tonsillitis and otitis media.
-The TxGNN model predicts it may be effective for **urinary tract infection (UTI)**,
-with **no registered clinical trials** but **9 publications** (including 3 comparative studies against cefaclor) currently supporting this direction.
+Cefprozil is an oral cephalosporin antibiotic that inhibits bacterial cell wall synthesis.
+The TxGNN model predicts it may be effective for **urinary tract infection (disease)** (score 0.9999),
+and the data compiled for this report include **no registered clinical trials** but **9 publications**, three of which are randomized comparisons against cefaclor in acute uncomplicated urinary tract infection.
+
+---
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Bronchitis, tonsillitis, infectious otitis media, streptococcal and staphylococcal infections, respiratory tract infections (US label indication text is not available) |
-| Predicted New Indication | Urinary tract infection |
-| TxGNN Prediction Score | 99.99% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | urinary tract infection (disease) |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L2 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 6 (all cancelled; listed under ANDA numbers) |
-| Recommended Decision | Hold |
+| US Market Status | Marketed (valid licenses on record: at least 6) |
+| Number of NDAs | at least 6 |
+| Recommended Decision | Proceed with Guardrails |
+
+---
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Based on its drug class, cefprozil is a second-generation oral cephalosporin that inhibits bacterial cell wall synthesis. Its efficacy in respiratory infections is established, and mechanistically it may be applicable to UTI.
+Detailed mechanism-of-action data are not available in the data compiled for this report. Cefprozil is a second-generation oral cephalosporin, a class that inhibits bacterial cell wall synthesis. In vitro studies show activity against common urinary pathogens such as *Escherichia coli* and *Klebsiella pneumoniae*; a Taiwanese study found over 80% of isolates of these species inhibited at 8 mg/l.
 
-Published in vitro work shows good activity against *Escherichia coli* and *Klebsiella pneumoniae*, the most common urinary pathogens. This includes a study of isolates from a Taiwanese hospital, in which cefprozil inhibited over 80% of these isolates at 8 mg/L. So a UTI indication is biologically plausible.
+Three comparative studies from 1991–1992 tested once-daily cefprozil (500 mg) against cefaclor (three times daily) in acute uncomplicated urinary tract infection. In a 108-woman study, clinical and bacterial cure rates were 94% and 93% for cefprozil versus 94% and 94% for cefaclor, with no significant difference. These studies are small, old, and their phase and design details are not fully described.
 
-Three comparative studies from 1991 to 1992 compared once-daily cefprozil with three-times-daily cefaclor in acute uncomplicated UTI. One of them reported clinical cure rates of 94% for cefprozil and 94% for cefaclor, and bacterial cure rates of 93% and 94% respectively, with no significant difference. However, these studies are old. Modern resistance patterns and current guidelines, which favor other agents, limit their translational value.
+Important limits apply. Resistance patterns have changed since the 1990s, and current guidelines favor other agents for urinary tract infection. The benefit is therefore mainly historical plausibility rather than a current treatment advantage.
+
+---
 
 ## Clinical Trial Evidence
 
-Currently no related clinical trials registered for the predicted indication of urinary tract infection.
+Currently no related clinical trials registered for urinary tract infection.
+
+---
 
 ## Literature Evidence
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [1611652](https://pubmed.ncbi.nlm.nih.gov/1611652/) | 1992 | RCT (comparative) | Clinical Therapeutics | Multicenter randomized study of once-daily cefprozil vs three-times-daily cefaclor for 10 days in acute uncomplicated UTI (patients ≥2 years) |
-| [1952874](https://pubmed.ncbi.nlm.nih.gov/1952874/) | 1991 | RCT (comparative) | Antimicrob Agents Chemother | 108 college women with acute UTI; clinical cure 94% (cefprozil) vs 94% (cefaclor), bacterial cure 93% vs 94%; both safe and effective |
-| [1761453](https://pubmed.ncbi.nlm.nih.gov/1761453/) | 1991 | RCT (open, randomized) | J Antimicrob Chemother | Cefprozil 500 mg once daily vs cefaclor 250 mg three times daily in acute uncomplicated UTI |
-| [7681376](https://pubmed.ncbi.nlm.nih.gov/7681376/) | 1993 | Review | Drugs | Review of antibacterial activity, pharmacokinetics and therapeutic potential; active against streptococci and MSSA, moderately active against several Gram-negatives |
-| [8042575](https://pubmed.ncbi.nlm.nih.gov/8042575/) | 1994 | Review | Am Fam Physician | Newer oral cephalosporins as alternatives in skin, respiratory and urinary tract infections |
-| [8464648](https://pubmed.ncbi.nlm.nih.gov/8464648/) | 1993 | Review | Pediatric Annals | Cefprozil activity in respiratory, skin and soft tissue infections; once- or twice-daily dosing |
-| [8529432](https://pubmed.ncbi.nlm.nih.gov/8529432/) | 1995 | In vitro study | Chemotherapy | Good activity against *E. coli* and *K. pneumoniae* in 637 clinical isolates from Taiwan |
-| [1494237](https://pubmed.ncbi.nlm.nih.gov/1494237/) | 1992 | Pediatric clinical study | Jpn J Antibiot | Laboratory and clinical studies in pediatric patients |
-| [1289583](https://pubmed.ncbi.nlm.nih.gov/1289583/) | 1992 | Pediatric clinical study | Jpn J Antibiot | 21 children with acute bacterial infections (including 3 UTIs); good to excellent response in 19 of 21 |
+| [1611652](https://pubmed.ncbi.nlm.nih.gov/1611652/) | 1992 | RCT | Clinical Therapeutics | Multicenter randomized comparison of once-daily cefprozil versus cefaclor for 10 days in acute uncomplicated UTI (patients ≥2 years) |
+| [1952874](https://pubmed.ncbi.nlm.nih.gov/1952874/) | 1991 | RCT | Antimicrob Agents Chemother | 108 college women with acute UTI; clinical cure 94% vs 94% and bacterial cure 93% vs 94% (cefprozil vs cefaclor), not significantly different |
+| [1761453](https://pubmed.ncbi.nlm.nih.gov/1761453/) | 1991 | RCT | J Antimicrob Chemother | Open, randomized trial of cefprozil 500 mg once daily versus cefaclor 250 mg three times daily in uncomplicated UTI |
+| [7681376](https://pubmed.ncbi.nlm.nih.gov/7681376/) | 1993 | Review | Drugs | Review of antibacterial activity, pharmacokinetics and therapeutic potential; activity against many Enterobacteriaceae |
+| [8464648](https://pubmed.ncbi.nlm.nih.gov/8464648/) | 1993 | Review | Pediatric Annals | Overview of cefprozil in respiratory, skin and soft tissue infections; low rate of side effects |
+| [8042575](https://pubmed.ncbi.nlm.nih.gov/8042575/) | 1994 | Review | Am Fam Physician | Newer oral cephalosporins as alternatives for skin, respiratory and urinary tract infections |
+| [8529432](https://pubmed.ncbi.nlm.nih.gov/8529432/) | 1995 | In vitro | Chemotherapy | Good in vitro activity against *E. coli* and *K. pneumoniae* in 637 isolates from Taiwan |
+| [1494237](https://pubmed.ncbi.nlm.nih.gov/1494237/) | 1992 | Pediatric clinical study | Jpn J Antibiot | Laboratory and clinical pediatric study of cefprozil, including urinary concentrations |
+| [1289583](https://pubmed.ncbi.nlm.nih.gov/1289583/) | 1992 | Pediatric clinical study | Jpn J Antibiot | 21 children with acute bacterial infections, including 3 with UTI; 19 of 21 good-to-excellent responses |
+
+---
 
 ## US Market Information
 
-All six licenses are cancelled. No approved indication text is available.
+The data compiled for this report show the drug as marketed in the United States, with six single-ingredient generic (ANDA) records in oral tablet and powder-for-suspension forms. The record list may be partial, and the licence text carries no indication wording.
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA065381 | Cefprozil (Rising Pharma) | Powder for suspension | Cancelled |
-| ANDA065340 | Cefprozil (Aurobindo) | Film-coated tablet | Cancelled |
-| ANDA090857 | Cefprozil (Ascend) | Film-coated tablet | Cancelled |
-| ANDA065261 | Cefprozil (Lupin) | Powder for suspension | Cancelled |
-| ANDA065276 | Cefprozil (Lupin) | Tablet | Cancelled |
+---
 
 ## Safety Considerations
 
-- **Knowledge-graph contraindication signals** (not label text): *Clostridium difficile* colitis, perinatal necrotizing enterocolitis, congenital prothrombin deficiency.
-- **Drug Interactions**: 55 interactions were recorded. Moderate-level interactions include balsalazide, kanamycin, neomycin, streptomycin and picosulfuric acid. Other recorded interactions have an unknown severity level (for example amoxicillin, acetylsalicylic acid, metformin, omeprazole, pantoprazole, simvastatin and several corticosteroids).
+- **Contraindications recorded in drug-disease relations (not label text)**: Clostridium difficile colitis, perinatal necrotizing enterocolitis, congenital prothrombin deficiency.
+- **Drug Interactions**: 55 interactions were found. Moderate-level ones include balsalazide, kanamycin, neomycin, streptomycin and picosulfuric acid. Others listed with unknown severity include acetylsalicylic acid, amoxicillin, metformin, proton pump inhibitors (omeprazole, pantoprazole, lansoprazole), H2 blockers (cimetidine, nizatidine), corticosteroids (prednisone, prednisolone, hydrocortisone, triamcinolone), simvastatin and potassium chloride.
 
 Please refer to the package insert for full warnings and contraindications.
 
+---
+
 ## Conclusion and Next Steps
 
-**Decision: Hold**
+**Decision: Proceed with Guardrails**
 
 **Rationale:**
-Three 1991–1992 comparative studies show cefprozil performed similarly to cefaclor in uncomplicated UTI, which gives the prediction some support (L2). However, there are no registered trials, the product is cancelled-only on the US market, the evidence is more than 30 years old, and current guidelines favor other agents because of resistance. Safety label data are also missing, so safety screening cannot proceed.
+Three randomized comparative studies show cefprozil performed similarly to cefaclor in acute uncomplicated urinary tract infection, which supports the model's prediction. However, the studies are 30+ years old, no trials are registered, and resistance patterns and current guidelines limit their relevance today.
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data
-- Comparison against current first-line UTI agents using contemporary resistance surveillance data
-- Confirmation of the design and phase of the 1991–1992 studies
-
-**Other predicted indications (for reference):**
-- **Pneumonia** (L3): the only registered trial, NCT06494072 (Phase 4, recruiting, 236 children, antibiotic duration), is not confirmed to involve cefprozil. This is largely an extension of existing respiratory use.
-- **Laryngitis** (L3): limited to two 1992 Japanese pediatric reports. Laryngitis is mostly viral.
-- **Epiglottitis, gonococcal urethritis, Ureaplasma urethritis, xanthogranulomatous pyelonephritis, uterine inflammatory disease, urogenital tuberculosis and abdominal tuberculosis** (all L5): no clinical or literature evidence, and several are mechanistically implausible (Ureaplasma has no cell wall; *M. tuberculosis* is intrinsically resistant to cephalosporins). Hold.
+- Current susceptibility data for urinary pathogens against cefprozil
+- Comparison with currently recommended first-line agents
+- Package insert warnings and contraindications
+- Mechanism-of-action data from a primary source
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

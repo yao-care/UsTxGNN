@@ -4,17 +4,17 @@ title: Rimegepant
 parent: Model Prediction Only (L5)
 nav_order: 1125
 evidence_level: L5
-indication_count: 6
+indication_count: 5
 last_modified_at: 2026-10-14
-description: "Rimegepant: predicted new indication Migraine with brainstem aura (evidence level L5). Approved use: Migraine disorder"
 monitor_inn: "RIMEGEPANT"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis"]
+description: "Rimegepant: predicted new indication Atrophoderma vermiculata (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Rimegepant
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-## Rimegepant: From Migraine to Migraine with Brainstem Aura
+## Rimegepant: Atrophoderma vermiculata
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Rimegepant is an oral CGRP receptor antagonist, originally used for the acute and preventive treatment of migraine.
-The TxGNN model predicts it may be effective for **migraine with brainstem aura**, a subtype of migraine.
 Currently there are **0 registered clinical trials** and **17 publications** on rimegepant in migraine generally, none of which specifically addresses brainstem aura.
 
 ---
@@ -48,12 +47,12 @@ Currently there are **0 registered clinical trials** and **17 publications** on 
 
 | Item | Content |
 |------|------|
-| Original Indication | Migraine disorder; migraine with or without aura (the US license record has no indication text, so this comes from the knowledge graph) |
-| Predicted New Indication | Migraine with brainstem aura |
-| TxGNN Prediction Score | 99.94% |
-| Evidence Level | L4 (see the note in the next section) |
-| US Market Status | Cancelled only (the single NDA is recorded as cancelled; this should be verified) |
-| Number of NDAs | 1 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Atrophoderma vermiculata |
+| TxGNN Prediction Score | 0.9976 |
+| Evidence Level | L5 (see the note in the next section) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -66,7 +65,7 @@ Migraine with brainstem aura is a subtype of migraine. It shares the CGRP-mediat
 
 The evidence level is L4 as assigned in the data compiled for this report. Strictly by the L1-L5 rules, the studies found are indirect and do not fit L1-L3 for this specific subtype.
 
-Other predictions with scores above 99.5% (atrophoderma vermiculata, ulerythema ophryogenesis, heparin cofactor 2 deficiency, antithrombin deficiency type 2, factor 5 excess with spontaneous thrombosis) have no identifiable mechanistic link to CGRP receptor antagonism. They have no trials or literature and are likely model artifacts. They are not evaluated further here.
+They have no trials or literature and are likely model artifacts. They are not evaluated further here.
 
 ---
 

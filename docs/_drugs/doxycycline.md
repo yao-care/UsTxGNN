@@ -6,9 +6,9 @@ nav_order: 627
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Doxycycline: predicted new indication Top-ranked: punctate epithelial keratoconjunctivitis . Best-supported… (evidence level L5). Approved use: Bronchitis, acne, bacterial pneumonia, anthrax, gonorrh…"
 monitor_inn: "DOXYCYCLINE"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "exposure keratitis", "chronic gingivitis"]
+description: "Doxycycline: predicted new indication Top-ranked: punctate epithelial keratoconjunctivitis . Best-supported: post-bacterial disorder (punctate epithelial ker… (evidence level L5). Approved use: Not r…"
 ---
 
 # Doxycycline
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Doxycycline: From Bacterial Infections to Post-Bacterial Disorder (Doxycycline Post-Exposure Prophylaxis)
+## Doxycycline: Top-ranked: punctate epithelial keratoconjunctivitis (rank 1). Best-supported: post-bacterial disorder (punctate epithelial keratoconjunctivitis)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,11 +48,11 @@ That direction is backed by **11 clinical trials** (several completed Phase 4 an
 
 | Item | Content |
 |------|------|
-| Original Indication | Bronchitis, acne, bacterial pneumonia, anthrax, gonorrhea, and others (from the knowledge graph; no approved-indication text in the US license records) |
-| Predicted New Indication | Top-ranked: punctate epithelial keratoconjunctivitis (rank 1). Best-supported: post-bacterial disorder (rank 4) |
-| TxGNN Prediction Score | 99.94% (punctate epithelial keratoconjunctivitis); 99.89% (post-bacterial disorder) |
-| Evidence Level | L4 (punctate epithelial keratoconjunctivitis); L1 (post-bacterial disorder) |
-| US Market Status | Cancelled only (all 15 licenses cancelled) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Top-ranked: punctate epithelial keratoconjunctivitis (rank 1). Best-supported: post-bacterial disorder (punctate epithelial keratoconjunctivitis) |
+| TxGNN Prediction Score | 0.9994 |
+| Evidence Level | L5 (punctate epithelial keratoconjunctivitis); L1 (post-bacterial disorder) |
+| US Market Status | Marketed (valid licenses on record: at least 15) |
 | Number of NDAs | 15 (1 NDA, 14 ANDAs) |
 | Recommended Decision | Hold (top-ranked prediction); Proceed with Guardrails (post-bacterial disorder / doxy-PEP) |
 
@@ -112,15 +112,15 @@ Literature for the top-ranked prediction (punctate epithelial keratoconjunctivit
 
 ## US Market Information
 
-All 15 US licenses are cancelled; none are currently valid. The license records contain no approved-indication text. The main entries are:
+The drug is marketed in the US, with 15 valid licenses. The license records contain no approved-indication text. The main entries are:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA050641 | Doxycycline Monohydrate (Chartwell RX) | Capsule | Not available (cancelled) |
-| ANDA062505 | Doxycycline Hyclate (Proficient Rx) | Tablet, film coated | Not available (cancelled) |
-| ANDA207289 | Doxycycline Hyclate (Bryant Ranch Prepack) | Capsule | Not available (cancelled) |
-| ANDA065055 | Doxycycline (Strides Pharma) | Capsule | Not available (cancelled) |
-| ANDA210537 | Doxycycline Hyclate (Alembic) | Tablet, film coated | Not available (cancelled) |
+| NDA050641 | Doxycycline Monohydrate (Chartwell RX) | Capsule | Not available (valid) |
+| ANDA062505 | Doxycycline Hyclate (Proficient Rx) | Tablet, film coated | Not available (valid) |
+| ANDA207289 | Doxycycline Hyclate (Bryant Ranch Prepack) | Capsule | Not available (valid) |
+| ANDA065055 | Doxycycline (Strides Pharma) | Capsule | Not available (valid) |
+| ANDA210537 | Doxycycline Hyclate (Alembic) | Tablet, film coated | Not available (valid) |
 
 All products are oral (tablets and capsules).
 
@@ -128,7 +128,7 @@ All products are oral (tablets and capsules).
 
 ## Safety Considerations
 
-- **Contraindications (knowledge-graph associations, not label text)**: *Clostridium difficile* colitis, perinatal necrotizing enterocolitis, dyskinesia of esophagus.
+- **Contraindications (from the TxGNN model (deep learning), not label text; may reflect similarities the model learned between related diseases, not biological evidence)**: *Clostridium difficile* colitis, perinatal necrotizing enterocolitis, dyskinesia of esophagus.
 - **Drug Interactions**: 100 interactions were identified; the 20 reviewed include these:
   - **Major**: isotretinoin, acitretin, aminolevulinic acid
   - **Moderate**: aluminum hydroxide, aminophylline, amobarbital, amoxicillin, ampicillin, anisindione, asparaginase (both forms), atracurium, attapulgite, bacampicillin, balsalazide, bedaquiline
@@ -148,7 +148,7 @@ Please refer to the package insert for full warnings and precautions.
 
 **Rationale:**
 - The highest-scoring prediction rests on a single 1992 case report, with no trials and no evidence of a treatment effect, so it cannot advance. Most other predictions (otitis externa, vasculitis, urethral stricture, Chagas cardiomyopathy, HUS, exposure keratitis) are likewise weak or carry safety concerns.
-- Post-bacterial disorder has multiple completed Phase 2/3 and Phase 4 trials, but the label actually corresponds to STI and relapsing-fever prophylaxis, which is an established antibiotic use rather than a new disease mechanism. All US licenses are cancelled, which complicates any development path.
+- Post-bacterial disorder has multiple completed Phase 2/3 and Phase 4 trials, but the label actually corresponds to STI and relapsing-fever prophylaxis, which is an established antibiotic use rather than a new disease mechanism. The drug is marketed in the US, with 15 valid licenses.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "CHLOROQUINE"
 predicted_indications: ["rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "rheumatoid nodulosis", "juvenile chronic polyarthritis", "juvenile idiopathic arthritis"]
-last_modified_at: 2026-10-14
-description: "Chloroquine: predicted new indication Rheumatoid factor-positive polyarticular juvenile idiopathic arthritis (evidence level L5). Approved use: Rheumatoid arthritis, systemic lupus erythematosus, mal…"
+last_modified_at: 2026-10-27
+description: "Chloroquine: predicted new indication rheumatoid factor-positive polyarticular juvenile idiopathic arthritis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Chloroquine
@@ -33,34 +33,34 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-## Chloroquine: From Rheumatoid Arthritis and Malaria to Rheumatoid Factor-Positive Polyarticular Juvenile Idiopathic Arthritis
+## Chloroquine: antimalarial and immunomodulatory 4-aminoquinoline → rheumatoid factor-positive polyarticular juvenile idiopathic arthritis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Chloroquine is an antimalarial that is also used for rheumatoid arthritis and lupus.
-The TxGNN model predicts it may be effective for **rheumatoid factor-positive polyarticular juvenile idiopathic arthritis**,
-but currently **0 clinical trials** and only **1 publication** (a leflunomide study that does not assess chloroquine) support this direction, so the prediction rests mainly on the model score.
+Chloroquine is an antimalarial and immunomodulatory drug that is already marketed in the United States.
+The TxGNN model predicts it may be effective for **rheumatoid factor-positive polyarticular juvenile idiopathic arthritis**, with a score of 0.9941.
+There are **no registered clinical trials** and only **1 publication** for this disease, and that publication does not study chloroquine, so the evidence is model prediction only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Rheumatoid arthritis, systemic lupus erythematosus, malaria (P. vivax, P. falciparum, P. ovale, P. malariae), discoid and chronic cutaneous lupus erythematosus |
-| Predicted New Indication | Rheumatoid factor-positive polyarticular juvenile idiopathic arthritis |
-| TxGNN Prediction Score | 99.41% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | rheumatoid factor-positive polyarticular juvenile idiopathic arthritis |
+| TxGNN Prediction Score | 0.9941 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid authorizations) |
-| Number of NDAs | 6 (all cancelled; the records are ANDA or unnumbered entries) |
+| US Market Status | Marketed (valid licenses: 6 of 6) |
+| Number of NDAs | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, chloroquine is an antimalarial whose efficacy in rheumatoid arthritis and lupus is established. Its immunomodulatory effects (reduced lysosomal acidification, altered antigen processing, and dampened Toll-like receptor signaling) could plausibly apply to autoimmune arthritis in children.
+Detailed mechanism-of-action data are not available in the data compiled for this report. Chloroquine is known as a 4-aminoquinoline whose immunomodulatory effects are generally described as raising lysosomal pH, interfering with antigen processing and presentation, and dampening Toll-like receptor signaling. These effects are the plausible basis for its use in autoimmune arthritis.
 
-RF-positive polyarticular JIA is the pediatric disease most similar to adult rheumatoid arthritis, which is an original indication of chloroquine. The high TxGNN score likely reflects this closeness to the approved RA indication.
+Rheumatoid factor-positive polyarticular juvenile idiopathic arthritis is the paediatric form of joint disease that most resembles adult rheumatoid arthritis. The high model score likely reflects that closeness to adult autoimmune arthritis. Mechanistically, the same immune pathways could be relevant in children.
 
-However, no chloroquine-specific clinical evidence was found for this exact subtype. The mechanistic link remains a hypothesis.
+This remains a hypothesis. The only publication retrieved for this specific disease is a cohort study of leflunomide in juvenile idiopathic arthritis, which does not evaluate chloroquine. No chloroquine-specific clinical evidence for this disease was found.
 
 ## Clinical Trial Evidence
 
@@ -70,46 +70,39 @@ Currently no related clinical trials registered.
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [24334641](https://pubmed.ncbi.nlm.nih.gov/24334641/) | 2014 | Cohort | The Journal of Rheumatology | Long-term real-life experience with leflunomide in JIA. It does not evaluate chloroquine, so it offers only indirect context on JIA treatment. |
-
-For the broader JIA category, historical papers (1971-1991) describe chloroquine dosing and use in juvenile arthritis, and one cohort (PMID 18021335) examined methotrexate pharmacokinetics with and without chloroquine. These are indirect and not controlled efficacy data.
+| [24334641](https://pubmed.ncbi.nlm.nih.gov/24334641/) | 2014 | Cohort | The Journal of Rheumatology | Long-term, real-life prospective experience with leflunomide in juvenile idiopathic arthritis; chloroquine was not the studied drug |
 
 ## US Market Information
 
-All six records are cancelled; none is currently valid. Approved indication text is not available for any of them.
-
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA040516 | Chloroquine Phosphate (Amneal) | Tablet | Not available (cancelled) |
-| ANDA214756 | Chloroquine Phosphate (Suven) | Tablet, coated | Not available (cancelled) |
-| ANDA091621 | Chloroquine Phosphate (Rising) | Tablet | Not available (cancelled) |
-| ANDA090612 | Chloroquine Phosphate (Rising) | Tablet | Not available (cancelled) |
-| ANDA080880 | Chloroquine Phosphate (Amneal) | Tablet | Not available (cancelled) |
+| ANDA040516 | Chloroquine Phosphate | Tablet | Not recorded |
+| ANDA214756 | Chloroquine Phosphate | Tablet, coated | Not recorded |
+| ANDA091621 | Chloroquine Phosphate | Tablet | Not recorded |
+| ANDA090612 | Chloroquine Phosphate | Tablet | Not recorded |
+| ANDA080880 | Chloroquine Phosphate | Tablet | Not recorded |
 
-A sixth record, Chloroquinum Phos. (Hahnemann Laboratories, pellet), has no authorization number.
+The local data hold 6 licence records in total, and the list above shows 5 of them.
 
 ## Safety Considerations
 
-Package-insert warnings and contraindications were not available. The following comes from knowledge-graph contraindication links and drug interaction screening.
+- **Drug Interactions**: 100 interactions were found in the interaction data; examples of those flagged as Major include agalsidase beta, bupropion, cisapride, clarithromycin, dolasetron and granisetron. Several others, such as famotidine, cimetidine, antacids (aluminium hydroxide, calcium carbonate), metronidazole and sulfonylurea or insulin products, are rated Moderate.
+- **Population-specific concern**: A published case report describes third-degree atrioventricular block in a patient who had received long-term chloroquine for juvenile arthritis, which is a cardiac safety signal relevant to this population.
 
-- **Contraindication links (knowledge graph, not label text)**: epilepsy; porphyria; liver and gallbladder disease; eye and retinal disease, vision disorders, scotoma; hearing disorders; psoriasis; neutropenia, agranulocytosis, leukopenia; anemia; G6PD deficiency; glycogen storage disease, cystinuria, galactosemia; substance abuse/dependence.
-- **Drug Interactions**: 100 interactions were found; the first 20 reviewed include several rated **Major**: agalsidase beta, bupropion, cisapride, clarithromycin, dolasetron, and granisetron. Moderate interactions include antacids (aluminum hydroxide, calcium carbonate), H2 blockers (famotidine, cimetidine), sulfonylureas and insulin (hypoglycemia risk), metronidazole, loperamide, and aprepitant. Several Major pairs are QT-prolonging agents.
-- **Pediatric concerns from the literature**: a case report documents third-degree atrioventricular block on chloroquine (PMID 9523387), and another reports chloroquine-induced vitiligo in juvenile-onset RA. Retinal toxicity would also need careful attention in children.
-
-Please refer to the package insert for complete safety information.
+Please refer to the package insert for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the model score and the similarity to adult RA. There are no registered trials, and the only retrieved paper for this subtype concerns leflunomide, not chloroquine. Chloroquine is also cancelled-only on the US market, and pediatric retinal and cardiac safety concerns exist. Hydroxychloroquine would likely be a more practical comparator.
+The prediction rests only on the model score. No clinical trial or chloroquine-specific publication addresses this disease, so the evidence level is L5. Paediatric cardiac and retinal safety concerns add further caution.
 
 **To proceed, the following is needed:**
-- Mechanism of action data and FDA package insert warnings and contraindications (both currently missing)
-- Chloroquine-specific clinical data in JIA, ideally from a modern controlled study or a comparison with hydroxychloroquine
-- A pediatric safety plan covering retinal screening, cardiac (QT/conduction) monitoring, and interaction management
-- Clarification of drug availability, given that all US authorizations are cancelled
+- Chloroquine-specific clinical or controlled study data in juvenile idiopathic arthritis
+- Mechanism-of-action data and package insert warnings and contraindications
+- A paediatric safety assessment, including cardiac and retinal toxicity
+- A comparison with hydroxychloroquine as the likely more practical option
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

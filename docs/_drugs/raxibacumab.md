@@ -48,19 +48,19 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Inhalational anthrax; anthrax infection |
 | Predicted New Indication | Postinfectious vasculitis |
-| TxGNN Prediction Score | 99.75% |
+| TxGNN Prediction Score | 0.9975 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 (BLA) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, raxibacumab is a monoclonal antibody that neutralizes the protective antigen (PA) of *Bacillus anthracis*, blocking anthrax toxin from entering cells. Its efficacy is relevant to anthrax toxin-mediated disease.
 
-A mechanistic link to postinfectious vasculitis is weak. Postinfectious vasculitis is generally immune-complex or immune-mediated, and no plausible connection to the anti-PA mechanism was identified. The high TxGNN score (99.75%) is a computational prediction only and is not backed by trials or literature.
+A mechanistic link to postinfectious vasculitis is weak. Postinfectious vasculitis is generally immune-complex or immune-mediated, and no plausible connection to the anti-PA mechanism was identified. The high TxGNN score (0.9975) is a computational prediction only and is not backed by trials or literature.
 
-Other top-ranked predictions show the same pattern: post-infectious syndrome, post-bacterial disorder, infective urethral stricture, otitis externa, Chagas cardiomyopathy, infection-related hemolytic uremic syndrome, and drug-induced osteoporosis. All have scores between 99.2% and 99.7%, all are evidence level L5, and none has a clear mechanistic rationale. Infection-related hemolytic uremic syndrome is conceptually analogous (toxin neutralization), but it is driven by Shiga toxin, which raxibacumab does not target.
+Other top-ranked predictions show the same pattern: post-infectious syndrome, post-bacterial disorder, infective urethral stricture, otitis externa, Chagas cardiomyopathy, infection-related hemolytic uremic syndrome, and drug-induced osteoporosis. All have scores between 0.9919 and 0.9975, all are evidence level L5, and none has a clear mechanistic rationale. Infection-related hemolytic uremic syndrome is conceptually analogous (toxin neutralization), but it is driven by Shiga toxin, which raxibacumab does not target.
 
 ## Clinical Trial Evidence
 

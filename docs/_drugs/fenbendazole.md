@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "FENBENDAZOLE"
 predicted_indications: ["urinary bladder carcinoma", "urinary bladder neoplasm", "infiltrating bladder urothelial carcinoma", "non-invasive bladder urothelial carcinoma", "bladder urachal urothelial carcinoma", "bladder squamous papilloma", "bladder signet ring cell adenocarcinoma", "bladder mixed adenocarcinoma", "bladder colonic type adenocarcinoma", "bladder colloid adenocarcinoma"]
 last_modified_at: 2026-10-14
-description: "Fenbendazole: predicted new indication Urinary bladder carcinoma (evidence level L5). Approved use: No approved indication text available"
+description: "Fenbendazole: predicted new indication Urinary bladder carcinoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Fenbendazole
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Fenbendazole: From No Approved Human Indication to Urinary Bladder Carcinoma
+## Fenbendazole: Urinary bladder carcinoma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ The closely related term "urinary bladder neoplasm" has **3 publications** (2 re
 
 | Item | Content |
 |------|------|
-| Original Indication | No approved indication text available |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Urinary bladder carcinoma |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 (L4 for the related term "urinary bladder neoplasm") |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 (cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -62,7 +62,7 @@ These mechanisms are plausible for bladder cancer, since microtubule disruption 
 
 For the related term "urinary bladder neoplasm," two recent preclinical studies (2024 and 2026) examine fenbendazole in bladder cancer models, using intravesical delivery with combination approaches. They are consistent with the proposed mechanisms but are indirect, non-clinical evidence.
 
-Other predicted bladder entries (infiltrating urothelial carcinoma, non-invasive urothelial carcinoma, urachal carcinoma, squamous papilloma, and several adenocarcinoma subtypes) have scores of about 99.985–99.989%. They have no trials or literature, and their scores likely reflect closeness to bladder cancer terms in the ontology rather than independent signal.
+Other predicted bladder entries (infiltrating urothelial carcinoma, non-invasive urothelial carcinoma, urachal carcinoma, squamous papilloma, and several adenocarcinoma subtypes) have scores of about 99.985–0.9999. They have no trials or literature, and their scores likely reflect closeness to bladder cancer terms in the ontology rather than independent signal.
 
 ## Clinical Trial Evidence
 
@@ -86,14 +86,14 @@ No literature was found under "urinary bladder carcinoma." The following were re
 
 ## Safety Considerations
 
-Please refer to the package insert for safety information. No warnings, contraindications, or drug interaction records were found in the data compiled for this report. Fenbendazole has no active approved human use, so its human safety characterization is a gap in itself.
+Please refer to the package insert for safety information. No warnings, contraindications, or drug interaction records were found in the data compiled for this report.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction rests on model score alone, with no clinical trials and no literature under the exact term (L5). The related term has only indirect preclinical evidence (L4), and fenbendazole has no active approved human use. Evidence is insufficient to advance. The related "urinary bladder neoplasm" entry is best treated as a research question rather than a development candidate.
+The top-ranked prediction rests on model score alone, with no clinical trials and no literature under the exact term (L5). Evidence is insufficient to advance. The related "urinary bladder neoplasm" entry is best treated as a research question rather than a development candidate.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

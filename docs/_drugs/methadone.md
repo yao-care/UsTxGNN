@@ -8,7 +8,7 @@ indication_count: 7
 monitor_inn: "METHADONE"
 predicted_indications: ["Tourette syndrome", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "headache disorder", "manic bipolar affective disorder", "trigeminal autonomic cephalalgia", "common cold"]
 last_modified_at: 2026-10-14
-description: "Methadone: predicted new indication Tourette syndrome (evidence level L4). Approved use: Not available in the data compiled for this report"
+description: "Methadone: predicted new indication Tourette syndrome (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Methadone
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **7**
 
 </div>
 
-## Methadone: From Opioid Use Disorder and Pain to Tourette Syndrome
+## Methadone: Tourette syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,11 +48,11 @@ This direction rests mainly on a computational prediction, and the evidence is w
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in the data compiled for this report (approved-indication text is empty for all licenses) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Tourette syndrome |
-| TxGNN Prediction Score | 99.76% |
+| TxGNN Prediction Score | 0.9976 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 16) |
 | Number of NDAs | 16 licenses (1 NDA, 15 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
@@ -64,7 +64,7 @@ Methadone is a mu-opioid receptor agonist and also an NMDA receptor antagonist. 
 
 The literature offers some indirect support. A 2007 preclinical review notes that opiate drugs have been reported to be effective in treatment-refractory obsessive-compulsive disorder and Tourette syndrome. A 1992 report in the *American Journal of Psychiatry* describes methadone treatment of Tourette's disorder. However, this is a very old, small observation with no modern replication.
 
-The very high TxGNN score (99.76%) is a computational prediction only. It should not be read as clinical evidence.
+The very high TxGNN score (0.9976) is a computational prediction only. It should not be read as clinical evidence.
 
 ---
 
@@ -87,15 +87,15 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All 16 licenses are cancelled, and no approved-indication text is recorded. Five representative licenses are listed below.
+All 16 licenses are valid, and no approved-indication text is recorded. Five representative licenses are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA017058 | DISKETS (Hikma) | Tablet | Not available (cancelled) |
-| ANDA074184 | METHADOSE DISPERSIBLE (SpecGx) | Tablet | Not available (cancelled) |
-| ANDA218609 | Methadone Hydrochloride (Hikma) | Injection | Not available (cancelled) |
-| ANDA089897 | Methadone Hydrochloride (Hikma) | Concentrate | Not available (cancelled) |
-| ANDA087393 | Methadone Hydrochloride (Precision Dose) | Solution | Not available (cancelled) |
+| NDA017058 | DISKETS (Hikma) | Tablet | Not available (valid) |
+| ANDA074184 | METHADOSE DISPERSIBLE (SpecGx) | Tablet | Not available (valid) |
+| ANDA218609 | Methadone Hydrochloride (Hikma) | Injection | Not available (valid) |
+| ANDA089897 | Methadone Hydrochloride (Hikma) | Concentrate | Not available (valid) |
+| ANDA087393 | Methadone Hydrochloride (Precision Dose) | Solution | Not available (valid) |
 
 ---
 
@@ -105,7 +105,7 @@ Package insert warnings and contraindications were not available in the data com
 
 - **Knowledge-graph contraindication signals** (from drug-disease edges, not label text): long QT syndrome, familial long QT syndrome, torsades de pointes, sudden cardiac arrest, heart conduction disease, respiratory failure, epilepsy, asthma, kidney disease, liver disease, gallbladder disease, hypothyroidism, inflammatory bowel disease, paralytic ileus, intestinal obstruction, hypotensive disorder, intracranial hypertension, benign prostatic hyperplasia, substance-related disorder, and others.
 - **Drug Interactions**: 100 interactions were identified. Major interactions among those reviewed include alvimopan, bupropion, morphine, dexamethasone, clarithromycin, picosulfuric acid, polyethylene glycol (3350 with electrolytes), and cisapride. Moderate interactions include famotidine, hyoscyamine, loperamide, aprepitant, atropine, cimetidine, and several anticholinergics and laxatives.
-- **Literature signals**: methadone-induced bradycardia has been reported, and the cardiac (QT) risk is consistent with the knowledge-graph signals above.
+- **Literature signals**: methadone-induced bradycardia has been reported, and the cardiac (QT) risk is consistent with the TxGNN model (deep learning) signals above, which may reflect similarities the model learned between related diseases, not biological evidence.
 
 ---
 
@@ -114,7 +114,7 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The Tourette syndrome prediction has a high model score but little real-world support: no registered trials, and only a 1992 small report with no modern replication. Methadone also carries significant cardiac, respiratory, and interaction risks, and the drug currently has no valid US licenses.
+The Tourette syndrome prediction has a high model score but little real-world support: no registered trials, and only a 1992 small report with no modern replication.
 
 **To proceed, the following is needed:**
 - Complete FDA package insert warnings and contraindications (a blocking gap for safety screening)
@@ -125,7 +125,7 @@ The Tourette syndrome prediction has a high model score but little real-world su
 
 ---
 
-*Note on other predicted indications:* nephrogenic syndrome of inappropriate antidiuresis (score 99.73%) and trichotillomania (99.67%) have no supporting evidence. Headache disorder (99.35%) and trigeminal autonomic cephalalgia (99.05%) have literature suggesting that opioids are discouraged or may worsen headache. Manic bipolar affective disorder (99.32%) has only a small 1982 study and indirect literature. For common cold (99.02%), the literature matches came from the "cold pressor" pain test rather than the infection, so it has no real support. All of these remain at **Hold**.
+*Note on other predicted indications:* nephrogenic syndrome of inappropriate antidiuresis (score 0.9973) and trichotillomania (0.9967) have no supporting evidence. Headache disorder (0.9935) and trigeminal autonomic cephalalgia (0.9905) have literature suggesting that opioids are discouraged or may worsen headache. Manic bipolar affective disorder (0.9932) has only a small 1982 study and indirect literature. For common cold (0.9902), the literature matches came from the "cold pressor" pain test rather than the infection, so it has no real support. All of these remain at **Hold**.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

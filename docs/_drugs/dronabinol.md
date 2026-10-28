@@ -4,17 +4,17 @@ title: Dronabinol
 parent: Moderate Evidence (L3-L4)
 nav_order: 628
 evidence_level: L3
-indication_count: 10
+indication_count: 9
 monitor_inn: "DRONABINOL"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "headache disorder", "trigeminal autonomic cephalalgia", "pulmonary hypertension", "hypertrichosis (disease)", "migraine with or without aura, susceptibility to", "kyphoscoliotic heart disease", "Ambras type hypertrichosis universalis congenita", "atrophoderma vermiculata"]
-last_modified_at: 2026-10-14
-description: "Dronabinol: predicted new indication Migraine disorder (evidence level L3). Approved use: Not available in the compiled data"
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "headache disorder", "trigeminal autonomic cephalalgia", "pulmonary hypertension", "hypertrichosis (disease)", "kyphoscoliotic heart disease", "Ambras type hypertrichosis universalis congenita", "atrophoderma vermiculata"]
+last_modified_at: 2026-10-28
+description: "Dronabinol: predicted new indication Migraine disorder (evidence level L3). Approved use: Not recorded in the local data"
 ---
 
 # Dronabinol
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L3** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-## Dronabinol: From an Unspecified Original Indication to Migraine Disorder
+## Dronabinol: Migraine disorder
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,11 +45,11 @@ The TxGNN model predicts it may be effective for **migraine disorder**, with **1
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in the compiled data |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.92% |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L3 |
-| US Market Status | Cancelled only (all 4 authorizations cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 4) |
 | Number of NDAs | 4 authorizations (2 NDAs, 2 ANDAs) |
 | Recommended Decision | Hold |
 
@@ -59,9 +59,9 @@ Detailed mechanism of action data are not available in the compiled data. Based 
 
 The endocannabinoid system is thought to modulate trigeminovascular pain signalling, serotonergic signalling and CGRP release. These are all pathways involved in migraine, which provides a plausible mechanistic basis for the prediction.
 
-The very high TxGNN score (0.999) is consistent with this reasoning, but it is a computational prediction only. The relationship between the original indication and migraine cannot be assessed because the original indication is missing from the data.
+The very high TxGNN score (0.9992) is consistent with this reasoning, but it is a computational prediction only. The relationship between the original indication and migraine cannot be assessed because the original indication is missing from the data.
 
-Related predictions in the same area include headache disorder (99.87%), trigeminal autonomic cephalalgia (99.79%) and migraine with brainstem aura (99.89%). Some other top-ranked predictions, such as pulmonary hypertension, hypertrichosis and kyphoscoliotic heart disease, have no supporting evidence and no plausible mechanism. They are most likely network artifacts.
+Related predictions in the same area include headache disorder (0.9987), trigeminal autonomic cephalalgia (0.9979) and migraine with brainstem aura (0.9989). Some other top-ranked predictions, such as pulmonary hypertension, hypertrichosis and kyphoscoliotic heart disease, have no supporting evidence and no plausible mechanism. They are most likely network artifacts.
 
 ## Clinical Trial Evidence
 
@@ -81,10 +81,10 @@ Additional literature relates to the broader headache prediction. These are a 20
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA018651 | Dronabinol (Major Pharmaceuticals) | Capsule | Not available (cancelled) |
-| ANDA078292 | Dronabinol (Rhodes Pharmaceuticals) | Capsule | Not available (cancelled) |
-| NDA205525 | SYNDROS (Benuvia Operations) | Solution | Not available (cancelled) |
-| ANDA207421 | Dronabinol (Camber Pharmaceuticals) | Capsule | Not available (cancelled) |
+| NDA018651 | Dronabinol (Major Pharmaceuticals) | Capsule | Not available (valid) |
+| ANDA078292 | Dronabinol (Rhodes Pharmaceuticals) | Capsule | Not available (valid) |
+| NDA205525 | SYNDROS (Benuvia Operations) | Solution | Not available (valid) |
+| ANDA207421 | Dronabinol (Camber Pharmaceuticals) | Capsule | Not available (valid) |
 
 ## Safety Considerations
 
@@ -98,7 +98,7 @@ Please refer to the package insert for label warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The only trial is a completed Phase 2 study with no available results or enrollment data, and the literature consists of a survey, a review and a case report. The original indication and label safety data are missing, and all US authorizations are cancelled. The mechanistic rationale is plausible, but the evidence is too weak to advance beyond a research question.
+The only trial is a completed Phase 2 study with no available results or enrollment data, and the literature consists of a survey, a review and a case report. The original indication and label safety data are missing, and the drug is marketed in the US with 4 valid licenses. The mechanistic rationale is plausible, but the evidence is too weak to advance beyond a research question.
 
 **To proceed, the following is needed:**
 - Results of NCT00123201 (efficacy, safety and enrollment), from the registry or publications

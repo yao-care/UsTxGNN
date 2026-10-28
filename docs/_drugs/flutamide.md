@@ -4,17 +4,17 @@ title: Flutamide
 parent: Model Prediction Only (L5)
 nav_order: 729
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-14
-description: "Flutamide: predicted new indication Prostate cancer/brain cancer susceptibility (evidence level L5). Approved use: Prostate cancer"
 monitor_inn: "FLUTAMIDE"
 predicted_indications: ["fibroma of prostate", "Brenner tumor", "benign reproductive system neoplasm", "prostate leiomyoma", "benign prostate phyllodes tumor", "HIV infectious disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]
+description: "Flutamide: predicted new indication Fibroma of prostate (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Flutamide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,32 +33,30 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Flutamide: From Prostate Cancer to Prostate Cancer/Brain Cancer Susceptibility
+## Flutamide: Fibroma of prostate
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Flutamide is an oral antiandrogen originally used to treat prostate cancer.
-The TxGNN model predicts it may be effective for **prostate cancer/brain cancer susceptibility**, with a very high score, but there are currently **0 clinical trials** and **0 publications** supporting this specific prediction.
-The entry is a genetic susceptibility label rather than a treatable disease, so the score most likely reflects flutamide's known link to prostate cancer in the knowledge graph.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Prostate cancer (the license record has no indication text, so this comes from the drug's known indications) |
-| Predicted New Indication | Prostate cancer/brain cancer susceptibility |
-| TxGNN Prediction Score | 99.98% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Fibroma of prostate |
+| TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 (the single record is an ANDA) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Flutamide is a nonsteroidal androgen receptor (AR) antagonist. Its efficacy in prostate cancer is established, and mechanistically it may be applicable to androgen-driven prostate disease.
 
-The predicted entry combines prostate cancer with brain cancer susceptibility. It describes an inherited predisposition, not a disease state a drug can treat. The high score most likely comes from the knowledge-graph association between flutamide and prostate cancer. There is no plausible mechanistic link to brain cancer, and no trials or literature support this entry.
+The predicted entry combines prostate cancer with brain cancer susceptibility. It describes an inherited predisposition, not a disease state a drug can treat. There is no plausible mechanistic link to brain cancer, and no trials or literature support this entry.
 
 Other predictions for flutamide have more support, though none is a clear new indication:
 - **Male reproductive organ cancer** has the most trial and literature evidence, but it is essentially the original prostate cancer indication rather than true repurposing.
@@ -76,7 +74,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA075298 | Eulexin (Waylis Therapeutics LLC) | Capsule (oral) | Not specified in the license record; status: cancelled |
+| ANDA075298 | Eulexin (Waylis Therapeutics LLC) | Capsule (oral) | Not specified in the license record; status: valid |
 
 ## Cytotoxicity
 

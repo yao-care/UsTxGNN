@@ -48,20 +48,20 @@ Currently there are **0 clinical trials** and **0 publications** supporting this
 |------|------|
 | Original Indication | Not stated in the available data |
 | Predicted New Indication | Severe nonproliferative diabetic retinopathy |
-| TxGNN Prediction Score | 99.84% |
+| TxGNN Prediction Score | 0.9984 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 (ANDA218059, cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 Other predicted indications, all at evidence level L5 and Hold:
 
 | Rank | Predicted Indication | TxGNN Score |
 |------|------|------|
-| 2 | Diabetic retinopathy | 99.76% |
-| 3 | Bronchitis | 99.61% |
-| 4 | Diabetic cataract | 99.35% |
-| 5 | Dermatitis | 99.15% |
+| 2 | Diabetic retinopathy | 0.9976 |
+| 3 | Bronchitis | 0.9961 |
+| 4 | Diabetic cataract | 0.9935 |
+| 5 | Dermatitis | 0.9915 |
 
 ## Why is This Prediction Reasonable?
 
@@ -94,7 +94,7 @@ Please refer to the package insert for safety information. No warnings, contrain
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a high model score (99.84%) but no clinical trials or publications behind it, so the evidence level is L5. The only US authorization is cancelled, and safety information and mechanism of action are both missing.
+The prediction has a high model score (0.9984) but no clinical trials or publications behind it, so the evidence level is L5. The only US authorization is cancelled, and safety information and mechanism of action are both missing.
 
 **To proceed, the following is needed:**
 - A systematic literature and trial registry search for zinc in diabetic retinopathy and the other predicted indications

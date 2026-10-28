@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **primary hereditary glaucoma**
 |------|------|
 | Original Indication | Not available (the only US license has no indication text) |
 | Predicted New Indication | Primary hereditary glaucoma |
-| TxGNN Prediction Score | 99.58% |
+| TxGNN Prediction Score | 0.9958 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -63,12 +63,12 @@ The caveat is that primary hereditary (developmental) glaucoma is typically mana
 
 | Predicted Indication | TxGNN Score | Assessment |
 |------|------|------|
-| Hypotrichosis simplex of the scalp | 99.57% | No clear mechanistic link; the condition is gene-driven |
-| Open-angle glaucoma | 99.56% | Most biologically plausible; worth a literature review (Research Question) |
-| Congenital hypotrichosis milia | 99.55% | No mechanistic rationale; likely network similarity only |
-| Diffuse alopecia areata | 99.48% | Autoimmune disease; no relevant mechanism, and vasoconstriction may be counterproductive |
-| Alopecia | 99.40% | No supported mechanism |
-| Headache disorder | 99.01% | Speculative; sympathomimetics more often cause or worsen headache |
+| Hypotrichosis simplex of the scalp | 0.9957 | No clear mechanistic link; the condition is gene-driven |
+| Open-angle glaucoma | 0.9956 | Most biologically plausible; worth a literature review (Research Question) |
+| Congenital hypotrichosis milia | 0.9955 | No mechanistic rationale; likely network similarity only |
+| Diffuse alopecia areata | 0.9948 | Autoimmune disease; no relevant mechanism, and vasoconstriction may be counterproductive |
+| Alopecia | 0.9940 | No supported mechanism |
+| Headache disorder | 0.9901 | Speculative; sympathomimetics more often cause or worsen headache |
 
 ## Clinical Trial Evidence
 
@@ -82,7 +82,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| M012 | BeC Racepinephrine (Blue Echo Care LLC; cancelled) | Liquid | Not specified |
+| M012 | BeC Racepinephrine (Blue Echo Care LLC; valid) | Liquid | Not specified |
 
 Other dosage forms recorded for the drug are solution and aerosol spray.
 

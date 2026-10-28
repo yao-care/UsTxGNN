@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "DIETHYLPROPION"
 predicted_indications: ["hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "obsolete hypertelorism (disease)", "frontorhiny"]
 last_modified_at: 2026-10-14
-description: "Diethylpropion: predicted new indication Hypervitaminosis (evidence level L5). Approved use: Obesity disorder"
+description: "Diethylpropion: predicted new indication Hypervitaminosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Diethylpropion
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-## Diethylpropion: From Obesity to Hypervitaminosis
+## Diethylpropion: Hypervitaminosis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,11 +48,11 @@ The prediction is a model output only and has no credible mechanistic or clinica
 
 | Item | Content |
 |------|------|
-| Original Indication | Obesity disorder; monogenic obesity (from the knowledge graph; no approved indication text on the US licenses) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Hypervitaminosis |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid authorizations) |
+| US Market Status | Marketed (valid licenses on record: at least 3) |
 | Number of NDAs | 3 (all cancelled; these are ANDA generic applications) |
 | Recommended Decision | Hold |
 
@@ -62,13 +62,13 @@ The prediction is a model output only and has no credible mechanistic or clinica
 
 Currently, detailed mechanism of action data is not available. Based on known information, diethylpropion is a sympathomimetic amine that suppresses appetite through catecholamine release, and it has been used for obesity.
 
-Hypervitaminosis is a toxicity state caused by excess vitamin intake. No credible mechanistic link to an anorectic sympathomimetic has been identified. The very high TxGNN score (99.99%) appears to be an artifact of the knowledge-graph structure rather than a biologically grounded prediction, and it should not be read as evidence of efficacy.
+Hypervitaminosis is a toxicity state caused by excess vitamin intake. No credible mechanistic link to an anorectic sympathomimetic has been identified. The very high TxGNN score (0.9999) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, and it should not be read as evidence of efficacy.
 
 Other predictions generated for this drug show the same pattern:
 
-- **Proximal 16p11.2 microdeletion syndrome** (score 99.99%): the only plausible link is indirect. This deletion is a known genetic cause of severe early-onset obesity, so diethylpropion might address the weight-related symptom, but not the underlying syndrome. Safety in patients with neurodevelopmental comorbidities is uncharacterized.
-- **Obsolete hypertelorism (disease)** (score 99.97%): a craniofacial structural anomaly, with no plausible pharmacological correction. The prediction likely reflects shared syndromic associations in the graph.
-- **Frontorhiny** (score 99.96%): a rare congenital craniofacial malformation, with no apparent mechanistic relationship.
+- **Proximal 16p11.2 microdeletion syndrome** (score 0.9999): the only plausible link is indirect. This deletion is a known genetic cause of severe early-onset obesity, so diethylpropion might address the weight-related symptom, but not the underlying syndrome. Safety in patients with neurodevelopmental comorbidities is uncharacterized.
+- **Obsolete hypertelorism (disease)** (score 0.9997): a craniofacial structural anomaly, with no plausible pharmacological correction. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
+- **Frontorhiny** (score 0.9996): a rare congenital craniofacial malformation, with no apparent mechanistic relationship.
 
 All four predictions have L5 evidence and a Hold recommendation.
 
@@ -90,9 +90,9 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA091680 | Diethylpropion Hydrochloride ER (Chartwell RX, LLC.) | Extended-release tablet | Not listed (status: cancelled) |
-| ANDA200177 | Diethylpropion (Chartwell RX, LLC.) | Tablet | Not listed (status: cancelled) |
-| ANDA201212 | Diethylpropion Hydrochloride (Bryant Ranch Prepack) | Tablet | Not listed (status: cancelled) |
+| ANDA091680 | Diethylpropion Hydrochloride ER (Chartwell RX, LLC.) | Extended-release tablet | Not listed (status: valid) |
+| ANDA200177 | Diethylpropion (Chartwell RX, LLC.) | Tablet | Not listed (status: valid) |
+| ANDA201212 | Diethylpropion Hydrochloride (Bryant Ranch Prepack) | Tablet | Not listed (status: valid) |
 
 ---
 
@@ -117,7 +117,7 @@ Package insert warnings and contraindications were not available for this report
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone, with no clinical trials, no literature, and no credible mechanistic link between an anorectic sympathomimetic and vitamin toxicity. In addition, all US authorizations for this drug are cancelled, and the knowledge graph flags many cardiovascular and metabolic contraindications.
+The prediction rests on a model score alone, with no clinical trials, no literature, and no credible mechanistic link between an anorectic sympathomimetic and vitamin toxicity. In addition, this drug is marketed in the US with 3 valid licenses, and the knowledge graph flags many cardiovascular and metabolic contraindications.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

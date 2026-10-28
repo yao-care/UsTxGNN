@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Clozapine
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 544
-evidence_level: L2
+evidence_level: L5
 indication_count: 10
 monitor_inn: "CLOZAPINE"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "schizophreniform disorder", "bipolar disorder", "major affective disorder", "attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "psychotic disorder", "Malan overgrowth syndrome"]
@@ -14,7 +14,7 @@ description: "Clozapine: predicted new indication Manic bipolar affective disord
 # Clozapine
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,9 +49,9 @@ The TxGNN model predicts it may be effective for **manic bipolar affective disor
 |------|------|
 | Original Indication | Not listed in the compiled data (literature describes treatment-resistant schizophrenia) |
 | Predicted New Indication | Manic bipolar affective disorder |
-| TxGNN Prediction Score | 99.95% |
-| Evidence Level | L2 |
-| US Market Status | Cancelled only (all 9 listed authorizations are cancelled) |
+| TxGNN Prediction Score | 0.9995 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 9) |
 | Number of NDAs | 9 authorizations (2 NDAs, 7 ANDAs) |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -94,7 +94,7 @@ Related evidence from the broader bipolar disorder prediction (rank 5) includes 
 
 ## US Market Information
 
-All 9 authorizations are listed as cancelled, and no approved indication text was provided for any of them.
+All 9 authorizations are listed as valid, and no approved indication text was provided for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -128,7 +128,7 @@ One completed Phase 2 double-blind trial and a systematic review and meta-analys
 - Mechanism of action data from DrugBank
 - Published outcome results for NCT00029458 and NCT00036582
 - A hematologic monitoring plan (absolute neutrophil count) together with metabolic and cardiac risk management
-- Clarification of the current US regulatory status, since all listed authorizations are cancelled
+- Clarification of the current US regulatory status, given that 9 valid authorizations are listed
 
 ---
 
@@ -136,15 +136,15 @@ One completed Phase 2 double-blind trial and a systematic review and meta-analys
 
 | Predicted Indication | TxGNN Score | Evidence Level | Decision |
 |------|------|------|------|
-| Psychotic disorder | 99.12% | L1 | Proceed with Guardrails (effectively an established use rather than true repurposing) |
-| Schizophreniform disorder | 99.69% | L1 | Proceed with Guardrails |
-| Bipolar disorder | 99.62% | L1 | Proceed with Guardrails |
-| Major affective disorder | 99.48% | L2 | Research Question |
-| Tourette syndrome | 99.91% | L4 | Hold (old case reports only) |
-| Attention deficit-hyperactivity disorder | 99.31% | L5 | Hold |
-| Trichotillomania | 99.90% | L5 | Hold |
-| ADHD, inattentive type | 99.21% | L5 | Hold |
-| Malan overgrowth syndrome | 99.02% | L5 | Hold |
+| Psychotic disorder | 0.9912 | L1 | Proceed with Guardrails (effectively an established use rather than true repurposing) |
+| Schizophreniform disorder | 0.9969 | L1 | Proceed with Guardrails |
+| Bipolar disorder | 0.9962 | L1 | Proceed with Guardrails |
+| Major affective disorder | 0.9948 | L2 | Research Question |
+| Tourette syndrome | 0.9991 | L4 | Hold (old case reports only) |
+| Attention deficit-hyperactivity disorder | 0.9931 | L5 | Hold |
+| Trichotillomania | 0.9990 | L5 | Hold |
+| ADHD, inattentive type | 0.9921 | L5 | Hold |
+| Malan overgrowth syndrome | 0.9902 | L5 | Hold |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -48,19 +48,19 @@ It is a computational prediction only, and a plausible biological rationale is l
 |------|------|
 | Original Indication | Iron deficiency anemia in chronic kidney disease (inferred from the drug class and the linked trials; the US licence records contain no indication text) |
 | Predicted New Indication | Severe nonproliferative diabetic retinopathy |
-| TxGNN Prediction Score | 99.76% |
+| TxGNN Prediction Score | 0.9976 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licences) |
-| Number of NDAs | 2 (NDA020955 and ANDA078215, both cancelled) |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Sodium ferric gluconate complex is an intravenous iron preparation that replenishes iron stores. Its role in iron deficiency anemia is established. Mechanistically, however, there is no known pathway linking it to diabetic retinopathy.
 
-The prediction looks like a graph-based association rather than a pharmacological one. Iron is a pro-oxidant, and iron-catalyzed oxidative stress could plausibly worsen retinal vascular damage rather than improve it. A likely confounder is that many diabetic patients with chronic kidney disease receive IV iron to correct anemia, which could create a statistical link in the knowledge graph without any retinal effect.
+The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Iron is a pro-oxidant, and iron-catalyzed oxidative stress could plausibly worsen retinal vascular damage rather than improve it. A likely confounder is that many diabetic patients with chronic kidney disease receive IV iron to correct anemia, which could create a statistical link the model learned without any retinal effect.
 
-Other predictions for this drug (diabetic retinopathy, diabetic cataract) share the same diabetic-complication neighbourhood, which further suggests a graph artifact.
+Other predictions from the TxGNN model (deep learning) for this drug (diabetic retinopathy, diabetic cataract) share the same diabetic-complication area, which further suggests the scores may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Clinical Trial Evidence
 
@@ -94,7 +94,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a high model score, with no trials, no literature, no known mechanism, and a plausible biological argument against benefit. All licences are also cancelled in the US.
+The prediction is supported only by a high model score, with no trials, no literature, no known mechanism, and a plausible biological argument against benefit. The drug is marketed in the US, with 2 valid licenses of 2.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

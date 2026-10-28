@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Actaea Spicata Root Althaea Officinalis Root Arnic
@@ -51,7 +52,7 @@ No clinical trial, literature, safety, or mechanistic data were retrievable for 
 | Predicted New Indication | None — TxGNN returned no predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | Below L5 (no predictions, no studies) |
-| US Market Status | Not marketed (0 authorizations) |
+| US Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

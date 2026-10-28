@@ -48,10 +48,10 @@ Direct support is limited: **2 related clinical trials** (neither of them a clea
 |------|------|
 | Original Indication | Hodgkin lymphoma (including classic Hodgkin lymphoma and related subtypes) |
 | Predicted New Indication | Follicular lymphoma |
-| TxGNN Prediction Score | 99.46% |
+| TxGNN Prediction Score | 0.9946 |
 | Evidence Level | L3 |
-| US Market Status | Cancelled only (no active license) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -102,7 +102,7 @@ The remaining retrieved papers cover mitoxantrone, fludarabine myelotoxicity, lo
 
 ## Safety Considerations
 
-- **Contraindications (knowledge-graph signals, not label text)**: liver failure and liver disease, kidney disease, gallbladder disease, thrombocytopenia, leukopenia, anemia (including macrocytic anemia), blood coagulation disease, peripheral neuropathy and peripheral nervous system disease, infectious disease (including fungal infection and dermatophytosis), pyoureter, and substance abuse/dependence.
+- **Contraindications (TxGNN model (deep learning) signals, not label text; they may reflect similarities the model learned between related diseases, not biological evidence)**: liver failure and liver disease, kidney disease, gallbladder disease, thrombocytopenia, leukopenia, anemia (including macrocytic anemia), blood coagulation disease, peripheral neuropathy and peripheral nervous system disease, infectious disease (including fungal infection and dermatophytosis), pyoureter, and substance abuse/dependence.
 - **Drug Interactions**: 100 interactions were found. Many are major, notably with sympathomimetics and serotonergic or anorectic agents: isometheptene, bupropion, morphine, lorcaserin, diethylpropion, phentermine, dexfenfluramine, fenfluramine, mazindol and ephedrine. Major interactions were also found with the 5-HT3 antagonists dolasetron, palonosetron, ondansetron and granisetron. Moderate interactions include epinephrine (several forms) and metoclopramide. Levofloxacin is a minor interaction.
 - **Other signals**: Animal carcinogenicity studies (NCI bioassay) and survivor cohorts report secondary malignancy and gonadotoxicity risks with procarbazine-containing regimens.
 
@@ -126,10 +126,10 @@ The evidence is limited to a small case report, a cohort description of the PEP-
 
 | Predicted Indication | TxGNN Score | Evidence Level | Decision | Comment |
 |------|------|------|------|------|
-| Neuroblastoma | 99.21% | L4 | Hold | Only an in vitro study and toxicity literature. No trials, and the carcinogenicity and gonadotoxicity signals argue for caution in children. |
-| Ganglioneuroblastoma | 99.21% | L5 | Hold | Model score only, no trials or literature |
-| Retroperitoneal neoplasm | 99.14% | L5 | Hold | Broad anatomical category, no specific mechanism assignable |
-| Vertebral anomalies and variable endocrine and T-cell dysfunction | 99.07% | L5 | Hold | Rare congenital syndrome with no plausible link to a cytotoxic agent; likely a graph artifact |
+| Neuroblastoma | 0.9921 | L4 | Hold | Only an in vitro study and toxicity literature. No trials, and the carcinogenicity and gonadotoxicity signals argue for caution in children. |
+| Ganglioneuroblastoma | 0.9921 | L5 | Hold | Model score only, no trials or literature |
+| Retroperitoneal neoplasm | 0.9914 | L5 | Hold | Broad anatomical category, no specific mechanism assignable |
+| Vertebral anomalies and variable endocrine and T-cell dysfunction | 0.9907 | L5 | Hold | Rare congenital syndrome with no plausible link to a cytotoxic agent; the score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

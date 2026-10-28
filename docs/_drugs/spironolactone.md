@@ -48,9 +48,9 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Hypertension, congestive heart failure, hyperaldosteronism / primary aldosteronism, Bartter disease, Waterhouse-Friderichsen syndrome |
 | Predicted New Indication | Hypotrichosis simplex of the scalp |
-| TxGNN Prediction Score | 99.26% |
+| TxGNN Prediction Score | 0.9926 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all licenses cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 8) |
 | Number of NDAs | 8 (7 ANDAs and 1 NDA) |
 | Recommended Decision | Hold |
 
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 The link to the predicted indication is weak. Hypotrichosis simplex of the scalp is a rare hereditary hair loss disorder caused by variants in genes such as CDSN, APCDD1, and RPL21. These genes act through Wnt signaling and structural or ribosomal pathways, not through androgen-driven follicle miniaturization. The connection to spironolactone is therefore indirect and speculative.
 
-The high TxGNN score (0.993) is a computational prediction only. A second prediction, congenital hypotrichosis milia (score 99.04%), likewise has no supporting trials or literature. It appears to be driven by the shared hair-loss phenotype, and no androgen-mediated mechanism has been established for it.
+The high TxGNN score (0.9926) is a computational prediction only. A second prediction, congenital hypotrichosis milia (score 0.9904), likewise has no supporting trials or literature. It appears to be driven by the shared hair-loss phenotype, and no androgen-mediated mechanism has been established for it.
 
 ## Clinical Trial Evidence
 
@@ -72,7 +72,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-All eight US authorizations are listed as cancelled, and no approved indication text was available for them.
+Eight US authorizations are listed as valid, and no approved indication text was available for them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -97,7 +97,7 @@ Please refer to the package insert for full warnings and label contraindications
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score. There are no clinical trials or publications, and the proposed mechanism (anti-androgen effect) does not fit the genetic, non-androgen-driven biology of this disorder. All US licenses are also cancelled.
+The prediction rests only on a model score. There are no clinical trials or publications, and the proposed mechanism (anti-androgen effect) does not fit the genetic, non-androgen-driven biology of this disorder. The drug is marketed in the US, with 8 valid licenses.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for spironolactone
@@ -105,7 +105,7 @@ The prediction rests only on a model score. There are no clinical trials or publ
 - Evidence that links the genetic causes of hypotrichosis simplex (CDSN, APCDD1, RPL21) to a spironolactone-responsive pathway, such as preclinical or follicle model studies
 - Any case reports, trials, or literature in this indication
 - Route compatibility and similarity-to-original-indication assessments, which are still pending
-- Clarification of current US marketing status, since all listed licenses are cancelled
+- Clarification of current US marketing status, since the drug is marketed with 8 valid licenses
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

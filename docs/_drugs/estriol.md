@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **amenorrhea**, with **0 regist
 |------|------|
 | Original Indication | Not available (no approved indication text in the license records) |
 | Predicted New Indication | Amenorrhea |
-| TxGNN Prediction Score | 99.18% |
+| TxGNN Prediction Score | 0.9918 |
 | Evidence Level | L3 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 4 (all cancelled) |
+| US Market Status | Marketed (valid licenses: 4 of 4) |
+| Number of NDAs | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -80,10 +80,10 @@ Currently no related clinical trials registered.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| nan | LMNOOP Feminine Cream | Cream | Not specified (cancelled) |
-| M016 | JARDIENT | Cream | Not specified (cancelled) |
-| ANDA075357 | Arthcal ESTROGEN | Cream | Not specified (cancelled) |
-| 505G(a)(3) | Vigority Estriol Cream | Cream | Not specified (cancelled) |
+| nan | LMNOOP Feminine Cream | Cream | Not specified (valid) |
+| M016 | JARDIENT | Cream | Not specified (valid) |
+| ANDA075357 | Arthcal ESTROGEN | Cream | Not specified (valid) |
+| 505G(a)(3) | Vigority Estriol Cream | Cream | Not specified (valid) |
 
 ## Safety Considerations
 
@@ -96,7 +96,7 @@ Please refer to the package insert for other safety information.
 **Decision: Hold**
 
 **Rationale:**
-The only direct support is one small physiological study and one narrative review, and no clinical trials are registered. All US licenses are cancelled, and the safety and mechanism data are incomplete. The high TxGNN score alone is not enough to justify advancing. At this stage it is best treated as a research question.
+The only direct support is one small physiological study and one narrative review, and no clinical trials are registered. The drug is marketed in the US, with 4 of 4 licenses valid, but the safety and mechanism data are incomplete. The high TxGNN score alone (0.9918) is not enough to justify advancing. At this stage it is best treated as a research question.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

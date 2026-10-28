@@ -4,9 +4,9 @@ title: Pemigatinib
 parent: Model Prediction Only (L5)
 nav_order: 1026
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "PEMIGATINIB"
-predicted_indications: ["multiple endocrine neoplasia", "amenorrhea (disease)", "HER2 positive breast carcinoma", "cytomegalovirus infection", "infectious bovine rhinotracheitis", "malignant catarrh", "amyotrophic lateral sclerosis", "amyotrohpic lateral sclerosis type 22", "amyotrophic lateral sclerosis, susceptibility to", "axial spondylometaphyseal dysplasia"]
+predicted_indications: ["multiple endocrine neoplasia", "amenorrhea (disease)", "HER2 positive breast carcinoma", "cytomegalovirus infection", "infectious bovine rhinotracheitis", "malignant catarrh", "amyotrophic lateral sclerosis", "amyotrohpic lateral sclerosis type 22", "axial spondylometaphyseal dysplasia"]
 last_modified_at: 2026-10-14
 description: "Pemigatinib: predicted new indication Multiple endocrine neoplasia (evidence level L5). Approved use: Not available in the compiled data"
 ---
@@ -14,7 +14,7 @@ description: "Pemigatinib: predicted new indication Multiple endocrine neoplasia
 # Pemigatinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,19 +47,19 @@ The TxGNN model predicts it may be effective for **multiple endocrine neoplasia*
 |------|------|
 | Original Indication | Not available in the compiled data |
 | Predicted New Indication | Multiple endocrine neoplasia |
-| TxGNN Prediction Score | 99.71% |
+| TxGNN Prediction Score | 0.9971 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (the single NDA is cancelled) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the compiled data. Pemigatinib is known to be an FGFR1-3 inhibitor, a targeted kinase-inhibitor class used in oncology. Because the original MOA entry is empty, this mechanism could not be cross-checked against the data.
 
-The link to multiple endocrine neoplasia is weak. These syndromes are typically driven by MEN1 or RET alterations, and the compiled data shows no direct connection between FGFR signaling and these syndromes. The high TxGNN score (0.997) reflects a pattern in the knowledge graph rather than demonstrated biology, and a high score alone should not be read as evidence of efficacy.
+The link to multiple endocrine neoplasia is weak. These syndromes are typically driven by MEN1 or RET alterations, and the compiled data shows no direct connection between FGFR signaling and these syndromes. The high TxGNN score (0.9971) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. A high score alone should not be read as evidence of efficacy.
 
-For context, the other top-ranked predictions are also unsupported. Several are implausible for an FGFR inhibitor or are not relevant to human medicine: amenorrhea, cytomegalovirus infection, and two bovine diseases (infectious bovine rhinotracheitis and malignant catarrhal fever). The two bovine diseases share an identical score, which suggests a graph-based artifact. Among the others, HER2-positive breast carcinoma, ALS, and axial spondylometaphyseal dysplasia have some biological plausibility via FGFR signaling, but none has trial or disease-specific literature support in the data.
+For context, the other top-ranked predictions are also unsupported. Several are implausible for an FGFR inhibitor or are not relevant to human medicine: amenorrhea, cytomegalovirus infection, and two bovine diseases (infectious bovine rhinotracheitis and malignant catarrhal fever). The two bovine diseases share an identical score (0.9943), which may reflect similarities the TxGNN model (deep learning) learned between related diseases, not biological evidence. Among the others, HER2-positive breast carcinoma and axial spondylometaphyseal dysplasia have some biological plausibility via FGFR signaling, but none has trial or disease-specific literature support in the data.
 
 ## Clinical Trial Evidence
 
@@ -73,7 +73,7 @@ Currently no related literature available for multiple endocrine neoplasia.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA213736 | PEMAZYRE (Incyte Corporation) | Tablet | Not available; status: cancelled |
+| NDA213736 | PEMAZYRE (Incyte Corporation) | Tablet | Not available; status: valid |
 
 ## Cytotoxicity
 

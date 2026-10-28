@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "MODAFINIL"
 predicted_indications: ["insomnia (disease)"]
 last_modified_at: 2026-10-14
-description: "Modafinil: predicted new indication Insomnia (evidence level L3). Approved use: Narcolepsy (including narcolepsy with cataplexy)"
+description: "Modafinil: predicted new indication insomnia (evidence level L3). Approved use: Narcolepsy (including narcolepsy with cataplexy)"
 ---
 
 # Modafinil
@@ -50,9 +50,9 @@ The mechanistic link is weak, because a wake-promoting drug could plausibly wors
 |------|------|
 | Original Indication | Narcolepsy (including narcolepsy with cataplexy) |
 | Predicted New Indication | Insomnia |
-| TxGNN Prediction Score | 99.85% |
+| TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L3 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 7) |
 | Number of NDAs | 7 (all cancelled) |
 | Recommended Decision | Hold |
 
@@ -98,15 +98,15 @@ None of these publications directly demonstrates that modafinil treats insomnia.
 
 ## US Market Information
 
-All seven authorizations are cancelled, and none carries approved-indication text in the data compiled for this report.
+All seven authorizations are valid, and none carries approved-indication text in the data compiled for this report.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA020717 | Provigil (Apotex Corp) | Tablet | Not available (cancelled) |
-| ANDA207196 | Modafinil (Heritage/Avet) | Tablet | Not available (cancelled) |
-| ANDA078963 | Modafinil (Bionpharma) | Tablet | Not available (cancelled) |
-| ANDA209966 | Modafinil (Golden State Medical Supply) | Tablet | Not available (cancelled) |
-| ANDA077667 | Modafinil (Apotex Corp.) | Tablet | Not available (cancelled) |
+| NDA020717 | Provigil (Apotex Corp) | Tablet | Not available (valid) |
+| ANDA207196 | Modafinil (Heritage/Avet) | Tablet | Not available (valid) |
+| ANDA078963 | Modafinil (Bionpharma) | Tablet | Not available (valid) |
+| ANDA209966 | Modafinil (Golden State Medical Supply) | Tablet | Not available (valid) |
+| ANDA077667 | Modafinil (Apotex Corp.) | Tablet | Not available (valid) |
 
 ---
 
@@ -126,7 +126,7 @@ Please refer to the package insert for official warnings and contraindications, 
 **Decision: Hold**
 
 **Rationale:**
-The predicted insomnia indication rests on a weak mechanistic link, because modafinil promotes wakefulness and may worsen insomnia. Direct clinical evidence is limited to one small Phase 4 study without reported results and one terminated study with 2 participants. All US licenses are cancelled, and many of the knowledge-graph contraindications (cardiovascular, psychiatric) overlap with typical insomnia populations.
+The predicted insomnia indication rests on a weak mechanistic link, because modafinil promotes wakefulness and may worsen insomnia. Direct clinical evidence is limited to one small Phase 4 study without reported results and one terminated study with 2 participants. The drug is marketed in the US with 7 valid licenses, and many of the knowledge-graph contraindications (cardiovascular, psychiatric) overlap with typical insomnia populations.
 
 **To proceed, the following is needed:**
 - Mechanism-of-action data and a convincing rationale for a benefit in insomnia, or a reframing toward secondary sleep/wake disturbances (e.g., in Parkinson's disease)

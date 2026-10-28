@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "FORMALDEHYDE"
 predicted_indications: ["leishmaniasis, diffuse cutaneous", "cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency", "mucocutaneous leishmaniasis", "pyelonephritis", "streptococcal pneumonia", "X-linked lymphoproliferative syndrome", "trigonitis", "acquired hemophagocytic lymphohistiocytosis associated with malignant disease", "hemophagocytic syndrome associated with an infection", "Plasmodium falciparum malaria"]
 last_modified_at: 2026-10-14
-description: "Formaldehyde: predicted new indication Leishmaniasis, diffuse cutaneous (evidence level L5). Approved use: Influenza"
+description: "Formaldehyde: predicted new indication Leishmaniasis, diffuse cutaneous (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Formaldehyde
@@ -33,24 +33,24 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Formaldehyde: From Influenza to Diffuse Cutaneous Leishmaniasis
+## Formaldehyde: Leishmaniasis, diffuse cutaneous
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Formaldehyde is listed in the underlying knowledge graph with influenza-related original indications. It is mainly known as a protein cross-linking agent, used for vaccine inactivation and tissue fixation.
+Formaldehyde is mainly known as a protein cross-linking agent, used for vaccine inactivation and tissue fixation. Scores on this page come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 The TxGNN model predicts it may be effective for **diffuse cutaneous leishmaniasis**, but **0 clinical trials** and **0 publications** support this prediction. The score is a computational output only.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Influenza (from the knowledge graph; no approved indication text on the US record) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Leishmaniasis, diffuse cutaneous |
-| TxGNN Prediction Score | 99.93% |
+| TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 (cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -100,7 +100,7 @@ The retrieved literature does raise a carcinogenicity concern. The International
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is very high (99.93%), but no clinical trials or supporting literature exist for any predicted indication. There is no plausible therapeutic mechanism. Formaldehyde's toxicity and carcinogenicity argue against systemic therapeutic use. The only US license has been cancelled.
+The TxGNN score is very high (0.9993), but no clinical trials or supporting literature exist for any predicted indication. There is no plausible therapeutic mechanism. Formaldehyde's toxicity and carcinogenicity argue against systemic therapeutic use. The only US license has been cancelled.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (blocking gap for safety screening)

@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "RIFABUTIN"
 predicted_indications: ["HIV infectious disease", "multiple endocrine neoplasia", "sclerosing cholangitis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "conjunctivitis", "leprosy", "endocarditis", "pneumocystosis", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]
 last_modified_at: 2026-10-14
-description: "Rifabutin: predicted new indication HIV infectious disease (evidence level L1). Approved use: Not available"
+description: "Rifabutin: predicted new indication HIV infectious disease (evidence level L1). Approved use: Not recorded in the local data"
 ---
 
 # Rifabutin
@@ -33,7 +33,7 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-## Rifabutin: From Mycobacterial Infection Prophylaxis to HIV Infectious Disease
+## Rifabutin: HIV infectious disease
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,12 +48,12 @@ The link is indirect: rifabutin does not act on HIV itself, but it treats opport
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (no approved-indication text in the US license records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | HIV infectious disease |
-| TxGNN Prediction Score | 99.88% |
+| TxGNN Prediction Score | 0.9988 |
 | Evidence Level | L1 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 2 (both cancelled) |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---
@@ -115,7 +115,6 @@ Of the 20 publications retrieved, the table lists the 10 most relevant. None is 
 | NDA050689 (cancelled) | Rifabutin (Mylan Pharmaceuticals Inc.) | Capsule | Not available |
 | ANDA215041 (cancelled) | Rifabutin (ANI Pharmaceuticals, Inc.) | Capsule | Not available |
 
-Both US licenses are cancelled and there are no currently valid single-ingredient or combination licenses.
 
 ---
 
@@ -143,7 +142,7 @@ Several large randomized Phase 3 trials support rifabutin-containing regimens fo
 - Establish a protocol for interaction management with specific antiretroviral regimens and for monitoring neutropenia, thrombocytopenia and uveitis
 - Clarify the regulatory pathway given that both US licenses are cancelled
 
-**Other predicted indications:** Leprosy (L4, preclinical and in vitro evidence only) is a research question. Endocarditis and pneumocystosis (L4) are Hold, with only case reports, reviews and animal data. Multiple endocrine neoplasia, sclerosing cholangitis, a rare neurodevelopmental disorder, conjunctivitis, feline AIDS and simian immunodeficiency virus infection (L5) are Hold, with no supporting evidence and likely knowledge-graph artifacts.
+**Other predicted indications:** Leprosy (L4, preclinical and in vitro evidence only) is a research question. Endocarditis and pneumocystosis (L4) are Hold, with only case reports, reviews and animal data. Multiple endocrine neoplasia, sclerosing cholangitis, a rare neurodevelopmental disorder, conjunctivitis, feline AIDS and simian immunodeficiency virus infection (L5) are Hold, with no supporting evidence and likely TxGNN model (deep learning) artifacts.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

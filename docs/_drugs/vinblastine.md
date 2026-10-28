@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "VINBLASTINE"
 predicted_indications: ["rhabdomyosarcoma (disease)", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "liver sarcoma", "monocytic leukemia", "neuroblastoma", "ganglioneuroblastoma (disease)"]
 last_modified_at: 2026-10-14
-description: "Vinblastine: predicted new indication Rhabdomyosarcoma (evidence level L3). Approved use: Hodgkin lymphoma, non-Hodgkin lymphoma…"
+description: "Vinblastine: predicted new indication Rhabdomyosarcoma (disease) (evidence level L3). Approved use: Not recorded in the local data"
 ---
 
 # Vinblastine
@@ -33,7 +33,7 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-## Vinblastine: From Hodgkin Lymphoma and Other Lymphomas to Rhabdomyosarcoma
+## Vinblastine: Rhabdomyosarcoma (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ but there are currently **0 registered clinical trials** and only **7 publicatio
 
 | Item | Content |
 |------|------|
-| Original Indication | Hodgkin lymphoma, non-Hodgkin lymphoma, mycosis fungoides and primary cutaneous T-cell lymphoma, mantle cell lymphoma, Langerhans cell histiocytosis (from the knowledge graph; the US label indication text is not available) |
-| Predicted New Indication | Rhabdomyosarcoma |
-| TxGNN Prediction Score | 99.86% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Rhabdomyosarcoma (disease) |
+| TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L3 |
-| US Market Status | Cancelled only (the single ANDA is cancelled) |
-| Number of NDAs | 1 (ANDA; cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -115,7 +115,7 @@ Please refer to the package insert for the official warnings and contraindicatio
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is high (99.86%) and the antimitotic mechanism is plausible. However, there are no registered trials, the literature is limited to case reports, small series and preclinical work, and vinblastine's individual contribution in combination regimens cannot be isolated. The only US authorization is cancelled, and the official label safety data are missing.
+The TxGNN score is high (0.9986) and the antimitotic mechanism is plausible. However, there are no registered trials, the literature is limited to case reports, small series and preclinical work, and vinblastine's individual contribution in combination regimens cannot be isolated. The only US authorization is cancelled, and the official label safety data are missing.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

@@ -50,10 +50,10 @@ Pretomanid is an oral nitroimidazooxazine antibiotic used against drug-resistant
 |------|------|
 | Original Indication | Not available in the license record (known use: drug-resistant pulmonary tuberculosis as part of BPaL) |
 | Predicted New Indication | Candidiasis |
-| TxGNN Prediction Score | 99.69% |
+| TxGNN Prediction Score | 0.9969 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,16 +62,16 @@ Pretomanid is an oral nitroimidazooxazine antibiotic used against drug-resistant
 
 Detailed mechanism of action data is not available in the data compiled for this report. Pretomanid is known to be a prodrug activated by the Ddn nitroreductase of *Mycobacterium tuberculosis*, and it has no established antifungal activity.
 
-For candidiasis, the supplied data support **no mechanistic link**. The very high TxGNN score (0.997) is a graph-based prediction only and could not be cross-checked against known pharmacology. A fungal infection caused by *Candida* is biologically distant from mycobacterial infection, so this prediction should be treated as a computational hypothesis.
+For candidiasis, the supplied data support **no mechanistic link**. The very high TxGNN score (0.9969) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. A fungal infection caused by *Candida* is biologically distant from mycobacterial infection, so this prediction should be treated as a computational hypothesis.
 
 **Other predicted indications (for context):**
 
 | Rank | Predicted Indication | TxGNN Score | Evidence Level | Assessment |
 |------|------|------|------|------|
-| 2 | Leprosy | 99.27% | L4 | Biologically plausible but untested. *M. leprae* is related to *M. tuberculosis*, but it may lack or have a divergent Ddn/F420 activation pathway because of extensive genome reduction. This needs verification. |
-| 3 | Coronary artery disease | 99.25% | L5 | No identifiable mechanistic rationale. |
-| 4 | Myocardial ischemia | 99.17% | L5 | No mechanistic rationale; likely driven by network proximity to coronary artery disease. |
-| 5 | Anomalous left coronary artery from the pulmonary artery | 99.08% | L5 | A congenital structural anomaly treated surgically; likely a graph artifact. |
+| 2 | Leprosy | 0.9927 | L5 | Biologically plausible but untested. *M. leprae* is related to *M. tuberculosis*, but it may lack or have a divergent Ddn/F420 activation pathway because of extensive genome reduction. This needs verification. |
+| 3 | Coronary artery disease | 0.9925 | L5 | No identifiable mechanistic rationale. |
+| 4 | Myocardial ischemia | 0.9917 | L5 | No mechanistic rationale; likely driven by network proximity to coronary artery disease. |
+| 5 | Anomalous left coronary artery from the pulmonary artery | 0.9908 | L5 | A congenital structural anomaly treated surgically; the score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. |
 
 ---
 

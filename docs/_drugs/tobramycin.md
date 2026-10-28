@@ -6,9 +6,9 @@ nav_order: 1237
 evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Tobramycin: predicted new indication Exposure keratitis (evidence level L4). Approved use: Bacterial and ocular infections (e.g., conjunctivitis…"
 monitor_inn: "TOBRAMYCIN"
 predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "epidemic keratoconjunctivitis"]
+description: "Tobramycin: predicted new indication Exposure keratitis (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Tobramycin
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Tobramycin: From Bacterial Eye and Staphylococcal Infections to Exposure Keratitis
+## Tobramycin: Exposure keratitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,11 +45,11 @@ The TxGNN model predicts it may be effective for **Exposure Keratitis**, but **n
 
 | Item | Content |
 |------|------|
-| Original Indication | Bacterial and ocular infections (e.g., conjunctivitis, Staphylococcus aureus infection), based on the knowledge graph; no approved indication text is available in the US license records |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Exposure keratitis |
-| TxGNN Prediction Score | 99.93% |
+| TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 15) |
 | Number of NDAs | 15 (all cancelled; includes 2 NDAs and 13 ANDAs) |
 | Recommended Decision | Hold |
 
@@ -82,15 +82,15 @@ None of these studies directly tests tobramycin for exposure keratitis.
 
 ## US Market Information
 
-All 15 US licenses are cancelled. Approved indication text is not available in the data compiled for this report. The main licenses are:
+15 valid US licenses are on record, and the drug is marketed. Approved indication text is not available in the data compiled for this report. The main licenses are:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA201688 | TOBI Podhaler (Viatris Specialty LLC) | Capsule | Not available (cancelled) |
-| NDA205433 | Kitabis Pak (Pari Respiratory Equipment) | Solution | Not available (cancelled) |
-| ANDA207444 | Tobramycin (St. Mary's Medical Park Pharmacy) | Solution/Drops | Not available (cancelled) |
-| ANDA211189 | Tobramycin (Xiromed LLC) | Lyophilized powder for injection | Not available (cancelled) |
-| ANDA217344 | Tobramycin (Micro Labs Limited) | Inhalant | Not available (cancelled) |
+| NDA201688 | TOBI Podhaler (Viatris Specialty LLC) | Capsule | Not available (valid) |
+| NDA205433 | Kitabis Pak (Pari Respiratory Equipment) | Solution | Not available (valid) |
+| ANDA207444 | Tobramycin (St. Mary's Medical Park Pharmacy) | Solution/Drops | Not available (valid) |
+| ANDA211189 | Tobramycin (Xiromed LLC) | Lyophilized powder for injection | Not available (valid) |
+| ANDA217344 | Tobramycin (Micro Labs Limited) | Inhalant | Not available (valid) |
 
 The other 10 licenses are also cancelled generic ANDAs (solution, injection, and eye-drop forms).
 
@@ -113,7 +113,7 @@ The prediction score is high, but exposure keratitis is mainly a non-infectious 
 - Clarification of the intended role (prophylaxis or treatment of secondary bacterial infection) versus standard care, such as lubrication and eyelid protection
 - Comparative clinical data on safety and efficacy of topical tobramycin in patients with compromised corneal epithelium
 - Mechanism of action data and package insert warnings and contraindications
-- Current US market status for ophthalmic tobramycin, since all licenses in the data are cancelled
+- Current US market status for ophthalmic tobramycin, which is marketed with 15 valid licenses in the data
 
 **Other predictions reviewed:** Otitis externa is the most plausible, with a mechanistic link through Pseudomonas aeruginosa and Staphylococcus aureus and historical case reports of tobramycin use in malignant otitis externa. However, it is closer to confirming an existing use than novel repurposing, and no controlled human trials were provided. Other predictions (post-bacterial disorder, infective urethral stricture, epidemic keratoconjunctivitis, and several non-bacterial conditions) have weak, indirect, or no evidence and are not recommended for advancement.
 ## Disclaimer

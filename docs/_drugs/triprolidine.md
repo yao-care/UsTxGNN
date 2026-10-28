@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Triprolidine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1266
-evidence_level: L4
-indication_count: 7
-last_modified_at: 2026-10-14
-description: "Triprolidine: predicted new indication Allergic urticaria (evidence level L4). Approved use: Allergic rhinitis"
+evidence_level: L5
+indication_count: 5
+last_modified_at: 2026-10-28
 monitor_inn: "TRIPROLIDINE"
 predicted_indications: ["nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic"]
+description: "Triprolidine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Triprolidine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **7** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,25 +33,24 @@ Evidence Level: **L4** | Predicted Indications: **7**
 
 </div>
 
-## Triprolidine: From Allergic Rhinitis to Allergic Urticaria
+## Triprolidine: Nasal cavity disease
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Triprolidine is a first-generation H1-receptor antihistamine, originally used for allergic and vasomotor rhinitis, the common cold, allergic conjunctivitis, urticaria and angioedema.
-The TxGNN model predicts it may be effective for **allergic urticaria**,
 but **no clinical trials** and only **2 indirect publications** currently support this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Allergic rhinitis (the US license record has no approved-indication text; the indication list comes from the TxGNN knowledge graph) |
-| Predicted New Indication | Allergic urticaria |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 1 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Nasal cavity disease |
+| TxGNN Prediction Score | 0.9983 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -61,8 +60,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 Allergic urticaria is driven by histamine release, so H1 blockade is mechanistically coherent. This is essentially an extension within an existing indication class rather than a true repurposing. The prediction mainly confirms a known drug-class effect and does not point to a new therapeutic area.
 
 The other predicted indications are weaker:
-- **Cold urticaria** (score 99.97%): plausible because H1 antihistamines are standard symptomatic therapy, but there are no triprolidine-specific data.
-- **Pharyngitis** (99.82%): any benefit would be symptomatic only (reduced rhinorrhea and congestion), not treatment of the underlying infection.
+- **Pharyngitis** (0.9982): any benefit would be symptomatic only (reduced rhinorrhea and congestion), not treatment of the underlying infection.
 - **Nasal cavity disease**, **acute laryngopharyngitis**, **recalcitrant atopic dermatitis** and **IgE responsiveness, atopic**: no supporting trials or literature. Some are overly broad or non-disease terms, and H1 blockade does not address the drivers of atopic dermatitis.
 
 ## Clinical Trial Evidence
@@ -71,7 +69,6 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Evidence for the top prediction, allergic urticaria:
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|

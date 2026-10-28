@@ -4,17 +4,17 @@ title: Levomilnacipran
 parent: Model Prediction Only (L5)
 nav_order: 856
 evidence_level: L5
-indication_count: 6
+indication_count: 3
 last_modified_at: 2026-10-14
-description: "Levomilnacipran: predicted new indication Benign paroxysmal torticollis of infancy (evidence level L5). Approved use: Major depressive disorder"
 monitor_inn: "LEVOMILNACIPRAN"
-predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "dysthymic disorder", "melancholia", "neurotic disorder"]
+predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "neurotic disorder"]
+description: "Levomilnacipran: predicted new indication Benign paroxysmal torticollis of infancy (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Levomilnacipran
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-## Levomilnacipran: From Depression to Benign Paroxysmal Torticollis of Infancy
+## Levomilnacipran: Benign paroxysmal torticollis of infancy
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,19 +45,19 @@ The TxGNN model predicts it may be effective for **benign paroxysmal torticollis
 
 | Item | Content |
 |------|------|
-| Original Indication | Major depressive disorder (the license record has no indication text; this comes from the knowledge graph's indication list, which also includes unipolar depression, endogenous depression and anxiety disorder) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Benign paroxysmal torticollis of infancy |
-| TxGNN Prediction Score | 99.53% |
+| TxGNN Prediction Score | 0.9953 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known information, levomilnacipran is an SNRI. Its efficacy in major depressive disorder has been established, and it is the more active enantiomer of milnacipran.
 
-Benign paroxysmal torticollis of infancy is an episodic pediatric disorder related to the migraine spectrum and possibly to channelopathies (e.g., CACNA1A). A link to serotonin and norepinephrine reuptake inhibition is speculative. The very high score most likely reflects proximity in the knowledge graph rather than a true pharmacological rationale.
+Benign paroxysmal torticollis of infancy is an episodic pediatric disorder related to the migraine spectrum and possibly to channelopathies (e.g., CACNA1A). A link to serotonin and norepinephrine reuptake inhibition is speculative. The very high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 There is also a population mismatch. The condition occurs in infants, while levomilnacipran has no pediatric approval for this use, which is a major safety barrier.
 
@@ -65,11 +65,8 @@ There is also a population mismatch. The condition occurs in infants, while levo
 
 | Rank | Predicted Indication | Score | Evidence Level | Comment |
 |---|---|---|---|---|
-| 2 | Agoraphobia | 99.53% | L5 | Plausible class-level link (SNRIs/SSRIs in anxiety and panic disorders), but no levomilnacipran-specific data |
-| 3 | Dysthymic disorder | 99.24% | L5 | Closely related to major depressive disorder; no specific studies |
-| 4 | Melancholia | 99.20% | L4 | Falls within the existing depression indication; only general MDD literature |
-| 5 | Neurotic depression | 99.20% | L4 | Within the depression spectrum; one preclinical study (PMID 37413934) |
-| 6 | Neurotic disorder | 99.19% | L5 | Outdated, nonspecific category; prediction only |
+| 2 | Agoraphobia | 0.9953 | L5 | Plausible class-level link (SNRIs/SSRIs in anxiety and panic disorders), but no levomilnacipran-specific data |
+| 6 | Neurotic disorder | 0.9919 | L5 | Outdated, nonspecific category; prediction only |
 
 Of these, agoraphobia and dysthymic disorder have a more credible mechanistic rationale than the top-ranked prediction. Melancholia and neurotic depression largely overlap with the existing indication rather than representing true repurposing.
 
@@ -85,7 +82,7 @@ Currently no related literature available for benign paroxysmal torticollis of i
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA204168 | Fetzima | Capsule, extended release (oral) | Status: cancelled (Allergan, Inc.) |
+| NDA204168 | Fetzima | Capsule, extended release (oral) | Status: valid (Allergan, Inc.) |
 
 ## Safety Considerations
 

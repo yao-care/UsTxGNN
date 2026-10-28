@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "SELENIUM"
 predicted_indications: ["sclerosing cholangitis"]
 last_modified_at: 2026-10-14
-description: "Selenium: predicted new indication Sclerosing cholangitis (evidence level L5). Approved use: Not available"
+description: "Selenium: predicted new indication Sclerosing cholangitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Selenium
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-## Selenium: From an Unspecified Original Indication to Sclerosing Cholangitis
+## Selenium: Sclerosing cholangitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -44,11 +44,11 @@ Selenium is an essential trace element, marketed in the US mainly as selenious a
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (approved indication text is empty in the compiled data) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Sclerosing cholangitis |
-| TxGNN Prediction Score | 99.04% |
+| TxGNN Prediction Score | 0.9904 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 3) |
 | Number of NDAs | 3 authorizations in total (1 NDA, 1 ANDA, 1 unnumbered homeopathic product), all cancelled |
 | Recommended Decision | Hold |
 
@@ -56,7 +56,7 @@ Selenium is an essential trace element, marketed in the US mainly as selenious a
 
 Detailed mechanism-of-action data is not available. Based on general knowledge, selenium is a cofactor of glutathione peroxidases and other selenoproteins. Antioxidant and anti-inflammatory effects on cholestatic liver injury are therefore plausible, but this has not been verified in the data compiled for this report.
 
-The literature links selenium to primary sclerosing cholangitis (PSC) only as a matter of status. One 1995 study reported abnormal hepatic copper and selenium retention in PSC patients, and a 2025 study examined dietary intake in PSC. These are observational findings about selenium levels or intake. They do not show that giving selenium treats the disease. The very high TxGNN score (0.99) is a model output and has no supporting mechanistic or clinical confirmation here.
+The literature links selenium to primary sclerosing cholangitis (PSC) only as a matter of status. One 1995 study reported abnormal hepatic copper and selenium retention in PSC patients, and a 2025 study examined dietary intake in PSC. These are observational findings about selenium levels or intake. They do not show that giving selenium treats the disease. The very high TxGNN score (0.9904) is a model output and has no supporting mechanistic or clinical confirmation here.
 
 ## Clinical Trial Evidence
 
@@ -93,7 +93,7 @@ For other safety information, please refer to the package insert.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score. There are no registered clinical trials, and the literature shows only altered selenium status in PSC, not a therapeutic effect. Selenium has no currently valid US license in the compiled data, and the original indication and safety labeling are not available.
+The prediction rests only on a model score. There are no registered clinical trials, and the literature shows only altered selenium status in PSC, not a therapeutic effect.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications, which are currently missing and block safety screening

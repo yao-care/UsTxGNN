@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "CEVIMELINE"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
-last_modified_at: 2026-10-14
-description: "Cevimeline: predicted new indication Hypertrichosis (evidence level L5). Approved use: Not stated in the US licence data compiled for this report (generally…"
+last_modified_at: 2026-10-28
+description: "Cevimeline: predicted new indication Hypertrichosis (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Cevimeline
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-## Cevimeline: From Xerostomia in Sjögren's Syndrome to Hypertrichosis
+## Cevimeline: Hypertrichosis (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,24 +45,24 @@ The TxGNN model predicts it may be effective for **hypertrichosis**, but **no cl
 
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the US licence data compiled for this report (generally known use: dry mouth in Sjögren's syndrome) |
-| Predicted New Indication | Hypertrichosis |
-| TxGNN Prediction Score | 99.26% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Hypertrichosis (disease) |
+| TxGNN Prediction Score | 0.9926 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licences) |
-| Number of NDAs | 8 (all cancelled; 1 NDA and 7 ANDAs) |
+| US Market Status | Marketed (valid licenses: 8 of 8) |
+| Number of NDAs | 8 (valid: 8) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data are not available in the data compiled for this report. Based on general pharmacology, cevimeline is a muscarinic M1/M3 receptor agonist that increases exocrine gland secretion. Its efficacy in dry mouth is the basis of its original use.
 
-No plausible mechanistic link between muscarinic agonism and hair follicle cycling or hypertrichosis is established in the available data. The high score (0.993) is a graph-based prediction only, and no trial or publication backs it. Because the original mechanism data are missing, the prediction cannot be cross-checked against them.
+No plausible mechanistic link between muscarinic agonism and hair follicle cycling or hypertrichosis is established in the available data. The high score (0.9926) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No trial or publication backs it. Because the original mechanism data are missing, the prediction cannot be cross-checked against them.
 
 The other top predictions are similarly weak:
-- **Ambras type hypertrichosis universalis congenita** (99.08%): a rare genetic disorder tied to chromosome 8q22 rearrangements affecting TRPS1 regulation. A drug is unlikely to correct this defect, and the prediction probably reflects network proximity to the broader hypertrichosis node.
-- **Malformation syndrome with odontal and/or periodontal component** (99.07%): increased salivation could at best give symptomatic oral relief, without addressing the developmental defect.
-- **Syndrome with a Dandy-Walker malformation as major feature** (99.06%): cevimeline's peripheral action has no recognized way to modify cerebellar development. This looks like a graph-level artifact.
+- **Ambras type hypertrichosis universalis congenita** (0.9908): a rare genetic disorder tied to chromosome 8q22 rearrangements affecting TRPS1 regulation. A drug is unlikely to correct this defect, and the prediction probably reflects network proximity to the broader hypertrichosis node.
+- **Malformation syndrome with odontal and/or periodontal component** (0.9907): increased salivation could at best give symptomatic oral relief, without addressing the developmental defect.
+- **Syndrome with a Dandy-Walker malformation as major feature** (0.9906): cevimeline's peripheral action has no recognized way to modify cerebellar development. This score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Clinical Trial Evidence
 
@@ -99,7 +99,7 @@ Label warnings and contraindications were not available in the data compiled for
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a graph-based model score. There are no clinical trials or publications, no plausible mechanistic link, and no currently valid US marketing authorisation. The evidence level is L5.
+The prediction rests only on a TxGNN model (deep learning) score, which may reflect similarities the model learned between related diseases, not biological evidence. There are no clinical trials or publications and no plausible mechanistic link. The drug is currently marketed in the US (8 of 8 licenses valid). The evidence level is L5.
 
 **To proceed, the following is needed:**
 - Label warnings and contraindications from the FDA package insert (a blocking gap for safety screening)

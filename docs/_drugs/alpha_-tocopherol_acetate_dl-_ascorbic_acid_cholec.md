@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Alpha -Tocopherol Acetate Dl- Ascorbic Acid Cholec
@@ -51,7 +52,7 @@ Without a prediction anchor, downstream evidence collection and decision analysi
 | Predicted New Indication | None generated |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | — (below L5; model produced no output) |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 4) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

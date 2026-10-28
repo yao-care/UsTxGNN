@@ -48,10 +48,10 @@ Note that this prediction largely overlaps with the drug's existing use, so it i
 |------|------|
 | Original Indication | Hereditary angioedema (including HAE with C1 inhibitor deficiency) |
 | Predicted New Indication | C1 inhibitor deficiency |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L1 |
-| US Market Status | Cancelled only (all listed authorizations are cancelled) |
-| Number of NDAs | 8 authorizations (1 NDA, 7 ANDAs) |
+| US Market Status | Marketed (valid licenses: 8 of 8) |
+| Number of NDAs | 8 (valid: 8) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
@@ -94,7 +94,7 @@ Most of the trial evidence concerns the hereditary form. The acquired form is me
 
 ## US Market Information
 
-All eight authorizations are currently listed as cancelled. No approved-indication text is available in the data compiled for this report.
+The drug is marketed in the US, with all eight authorizations currently valid. No approved-indication text is available in the data compiled for this report.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
@@ -122,7 +122,7 @@ Several completed Phase 3 trials, including randomized, double-blind studies, su
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications, which are currently missing and block formal safety screening
 - Formal mechanism of action data from DrugBank
-- Clarification of the US market status, since all eight authorizations are listed as cancelled
+- Clarification of the US market status, since all eight authorizations are valid
 - Controlled evidence in acquired C1 inhibitor deficiency if that population is the target
 - A review of concomitant ACE inhibitor use
 ## Disclaimer

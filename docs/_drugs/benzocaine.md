@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "BENZOCAINE"
 predicted_indications: ["papillary conjunctivitis"]
-last_modified_at: 2026-10-14
-description: "Benzocaine: predicted new indication Papillary conjunctivitis (evidence level L5). Approved use: Tinea pedis, dermatitis, pharyngitis, tinea corporis, tinea infection"
+last_modified_at: 2026-10-27
+description: "Benzocaine: predicted new indication papillary conjunctivitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Benzocaine
@@ -33,34 +33,34 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-## Benzocaine: From Dermatitis and Pharyngitis to Papillary Conjunctivitis
+## Benzocaine: topical ester local anesthetic (sodium channel blocker) → papillary conjunctivitis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Benzocaine is a topical ester local anesthetic, originally associated with tinea pedis, dermatitis, pharyngitis, tinea corporis and tinea infection.
-The TxGNN model predicts it may be effective for **Papillary Conjunctivitis**,
-but there are currently **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model score alone.
+Benzocaine is a topical ester local anesthetic that has been marketed in the United States in products such as oral liquids, gels and lozenges.
+The TxGNN model predicts it may be relevant for **papillary conjunctivitis**, with a score of **0.9938**.
+There are currently **no clinical trials and no publications** supporting this direction, so the prediction rests on the model score alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Tinea pedis, dermatitis, pharyngitis, tinea corporis, tinea infection (knowledge-graph indications; no approved indication text is available from the US licenses) |
-| Predicted New Indication | Papillary conjunctivitis |
-| TxGNN Prediction Score | 99.38% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | papillary conjunctivitis |
+| TxGNN Prediction Score | 0.9938 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 4 (all cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 4) |
+| Number of NDAs | at least 4 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Benzocaine is generally known as a topical ester local anesthetic that blocks voltage-gated sodium channels. This could, in theory, relieve surface pain or itching on the eye.
+Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, benzocaine is an ester local anesthetic that blocks voltage-gated sodium channels in nerve endings. This reduces the transmission of pain and itch signals on the surface where it is applied.
 
-However, the mechanistic link is weak. Papillary conjunctivitis is mainly an allergic or mechanical inflammatory condition (for example, from contact lenses, prostheses or sutures). A local anesthetic would only mask symptoms and would not treat the underlying cause. Benzocaine is also not an established ophthalmic agent, and repeated use of topical anesthetics on the eye raises concerns such as corneal toxicity and delayed healing.
+In principle, this could ease the discomfort of an irritated ocular surface. However, papillary conjunctivitis is mainly an allergic or mechanical inflammatory condition (for example, from contact lenses, prostheses or sutures). A local anesthetic relieves symptoms only and does not treat the underlying cause.
 
-The TxGNN score is high (99.38%), but no clinical or literature evidence backs it. The prediction should be treated as a hypothesis only.
+The mechanistic link therefore remains unconfirmed. Repeated use of topical anesthetics on the eye is also associated with corneal toxicity and delayed healing, and benzocaine is not an established ophthalmic agent. The high model score is not backed by clinical evidence.
 
 ## Clinical Trial Evidence
 
@@ -72,34 +72,31 @@ Currently no related literature available.
 
 ## US Market Information
 
-All four US authorizations for benzocaine are cancelled, and none currently has a valid status. No approved indication text is recorded for them.
-
-| Authorization Number | Product Name | Dosage Form | Status |
+| Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| M022 | Kank-A | Liquid | Cancelled |
-| M017 | INTIMALE Benzocaine Delay Gel | Gel | Cancelled |
-| part348 | Preboost | Liquid | Cancelled |
-| M004 | Brace Relief | Gel | Cancelled |
+| M022 | Kank-A | Liquid | Not recorded in the data |
+| M017 | INTIMALE Benzocaine Delay Gel | Gel | Not recorded in the data |
+| part348 | Preboost | Liquid | Not recorded in the data |
+| M004 | Brace Relief | Gel | Not recorded in the data |
+
+The list of records may be partial.
 
 ## Safety Considerations
 
-- **Disease associations flagged in the knowledge graph (not label text)**: The knowledge graph links benzocaine to possible contraindications in several conditions. Examples include liver failure and liver disease, kidney disease, porphyria, epilepsy, thrombocytopenia, neutropenia and agranulocytosis, diabetes and diabetic ketoacidosis, hepatic encephalopathy, and blood coagulation disease. These are model-derived associations and need verification against official labeling.
-- **Drug Interactions**: No interaction records were found.
-
-Please refer to the package insert for full safety information.
+Please refer to the package insert for safety information. Package insert warnings and contraindications were not available in the data compiled for this report, and no drug interaction records were found.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting clinical trials or literature (Evidence Level L5). The mechanism is a poor fit for an allergic or mechanical condition, and ocular use of topical anesthetics carries safety concerns. All US authorizations are also cancelled.
+The prediction has no supporting clinical trials or publications (evidence level L5). The mechanism is plausible only for symptom relief. It does not address the likely causes of papillary conjunctivitis, and ocular safety concerns exist with topical anesthetics.
 
 **To proceed, the following is needed:**
-- Official package insert warnings and contraindications (a blocking gap for safety screening)
-- Detailed mechanism of action data
-- Preclinical or clinical evidence that benzocaine is effective and safe for papillary conjunctivitis
-- Assessment of route compatibility, since the existing products are topical or oral/mucosal and not ophthalmic
+- Published or registered studies that directly examine benzocaine in papillary conjunctivitis
+- Mechanism of action data and an assessment of whether symptom relief alone is a meaningful goal
+- Ocular safety data (corneal toxicity, repeated use) and an ophthalmic-suitable formulation and route
+- Package insert warnings and contraindications
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -48,17 +48,17 @@ This is a computational prediction only, so the evidence is very weak.
 |------|------|
 | Original Indication | Not available in the data compiled for this report |
 | Predicted New Indication | Pulmonary hypertension |
-| TxGNN Prediction Score | 99.38% |
+| TxGNN Prediction Score | 0.9938 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (the single NDA is listed as cancelled) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism-of-action data are not available in the compiled data. Erdafitinib is known to be a pan-FGFR tyrosine kinase inhibitor. FGF/FGFR signaling has been implicated in pulmonary vascular remodeling and smooth muscle proliferation, so a biologically plausible link to pulmonary hypertension exists, but it has not been validated.
 
-The original indication text was empty in the compiled data, so the relationship between the original and the predicted indication cannot be assessed. The high TxGNN score (0.994) is a model output and not evidence of efficacy.
+The original indication text was empty in the compiled data, so the relationship between the original and the predicted indication cannot be assessed. The high TxGNN score (0.9938) is a model output and not evidence of efficacy.
 
 There is also a safety concern. FGFR inhibition is associated with hyperphosphatemia and ocular toxicity, and these would need careful evaluation in a vascular disease setting.
 

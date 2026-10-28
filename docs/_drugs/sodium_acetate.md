@@ -40,7 +40,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 Sodium acetate is an electrolyte and alkalinizing agent, and a source of sodium. It is also used as an excipient or buffer in many other products.
 The TxGNN model predicts it may be effective for **congenital prothrombin deficiency**, but there are currently **0 clinical trials** and **0 publications** supporting this prediction.
-The high score appears to be a graph-based artifact rather than a real therapeutic signal.
+The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Quick Overview
 
@@ -48,9 +48,9 @@ The high score appears to be a graph-based artifact rather than a real therapeut
 |------|------|
 | Original Indication | No approved indication text is available in the US licence records |
 | Predicted New Indication | Congenital prothrombin deficiency |
-| TxGNN Prediction Score | 99.98% |
+| TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licences) |
+| US Market Status | Marketed (valid licenses on record: at least 12) |
 | Number of NDAs | 12 (all cancelled) |
 | Recommended Decision | Hold |
 
@@ -58,7 +58,7 @@ The high score appears to be a graph-based artifact rather than a real therapeut
 
 Currently, detailed mechanism of action data is not available. Based on general pharmacology, sodium acetate is an electrolyte source. Acetate is metabolised to bicarbonate, giving it an alkalinizing effect.
 
-Congenital prothrombin deficiency is a monogenic coagulation disorder (F2 gene) that is treated by replacing the missing clotting factor. No plausible mechanistic link between sodium acetate and prothrombin function was identified. The high TxGNN score is most likely a knowledge-graph artifact and is not supported by clinical or literature evidence.
+Congenital prothrombin deficiency is a monogenic coagulation disorder (F2 gene) that is treated by replacing the missing clotting factor. No plausible mechanistic link between sodium acetate and prothrombin function was identified. The high TxGNN score is most likely a TxGNN model (deep learning) artifact and is not supported by clinical or literature evidence.
 
 The other top-ranked predictions are similarly weak, including epiglottitis, urinary tract infection, sclerosing cholangitis, Ureaplasma and gonococcal urethritis, dyspepsia, uterine inflammatory disease, gastroparesis and xanthogranulomatous pyelonephritis. Most are infections treated with antibiotics, which sodium acetate does not provide. The only speculative link is for urinary tract infection, where urine alkalinization could change urine pH. This is not an established therapy and may even favour some pathogens.
 
@@ -74,7 +74,7 @@ Literature retrieved for lower-ranked predictions does not support a therapeutic
 
 ## US Market Information
 
-All 12 US licences are cancelled and none has approved indication text. The products below are those in the compiled data, and many contain sodium acetate as a component or excipient rather than as the active ingredient.
+All 12 US licenses are valid and none has approved indication text. The products below are those in the compiled data, and many contain sodium acetate as a component or excipient rather than as the active ingredient.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

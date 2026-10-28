@@ -48,19 +48,19 @@ but **no clinical trials and no publications** currently support this direction,
 |------|------|
 | Original Indication | Acute intermittent porphyria |
 | Predicted New Indication | Thrombocytopenic purpura |
-| TxGNN Prediction Score | 99.79% |
+| TxGNN Prediction Score | 0.9979 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 1 (BLA101246, cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, hemin is a heme preparation used in acute intermittent porphyria, a disorder of heme biosynthesis. Hemin supplies heme and induces heme oxygenase-1, but the data compiled for this report show no established link between these actions and platelet disorders.
 
-The high TxGNN score (99.79%) reflects a knowledge-graph association only. No trials or publications were found to explain why a porphyria treatment would help thrombocytopenic purpura, so the mechanistic link remains unconfirmed.
+The high TxGNN score (0.9979) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No trials or publications were found to explain why a porphyria treatment would help thrombocytopenic purpura, so the mechanistic link remains unconfirmed.
 
-Other top predictions are mostly coagulation or bleeding disorders (hemophilia, von Willebrand disease, factor XI deficiency, C1 inhibitor deficiency, and others). They appear to share the same graph signal and are not independent evidence. Hemin has also been reported to cause coagulopathy or thrombophlebitis at high doses, which is a safety concern and argues against these indications.
+Other top predictions are mostly coagulation or bleeding disorders (hemophilia, von Willebrand disease, factor XI deficiency, C1 inhibitor deficiency, and others). They appear to share the same similarities the TxGNN model (deep learning) learned between related diseases and are not independent evidence. Hemin has also been reported to cause coagulopathy or thrombophlebitis at high doses, which is a safety concern and argues against these indications.
 
 ## Clinical Trial Evidence
 
@@ -93,7 +93,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a knowledge-graph score, with no clinical trials, no relevant literature, and no mechanistic link to thrombocytopenic purpura. The product's US license is cancelled, and hemin's known coagulation effects raise safety concerns for bleeding and platelet disorders.
+The prediction rests only on a TxGNN model (deep learning) score, with no clinical trials, no relevant literature, and no mechanistic link to thrombocytopenic purpura. The product's US license is cancelled, and hemin's known coagulation effects raise safety concerns for bleeding and platelet disorders.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

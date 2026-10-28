@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "URIC ACID"
 predicted_indications: ["rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "bronchitis"]
 last_modified_at: 2026-10-14
-description: "Uric Acid: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: No approved indication recorded"
+description: "Uric Acid: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Uric Acid
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-## Uric Acid: From an Unspecified Original Indication to Rheumatoid Arthritis
+## Uric Acid: Rheumatoid arthritis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,12 +45,12 @@ The TxGNN model predicts it may be relevant to **Rheumatoid Arthritis**, but the
 
 | Item | Content |
 |------|------|
-| Original Indication | No approved indication recorded |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Rheumatoid arthritis |
-| TxGNN Prediction Score | 99.68% |
+| TxGNN Prediction Score | 0.9968 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -88,7 +88,6 @@ The high TxGNN score most likely reflects network proximity between purine metab
 |---------|------|------|-----------|
 | Not available (cancelled) | Uric Acid | Liquid | No approved indication recorded |
 
-The only authorization on record is cancelled, so no valid US product is currently marketed.
 
 ## Safety Considerations
 

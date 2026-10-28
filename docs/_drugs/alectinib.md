@@ -4,7 +4,7 @@ title: Alectinib
 parent: Model Prediction Only (L5)
 nav_order: 219
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
 description: "Alectinib: predicted new indication Fibromatosis, gingival (evidence level L5). Approved use: Non-small cell lung carcinoma (lung cancer)"
 monitor_inn: "ALECTINIB"
@@ -14,7 +14,7 @@ predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma 
 # Alectinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,17 +48,17 @@ This is a model-only signal and is not backed by any real-world evidence.
 |------|------|
 | Original Indication | Non-small cell lung carcinoma (lung cancer) |
 | Predicted New Indication | Fibromatosis, gingival |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (the single NDA is cancelled) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism-of-action data is not available in the data compiled for this report. From general knowledge, alectinib is a selective inhibitor of anaplastic lymphoma kinase (ALK), with activity against RET as well. Its efficacy in ALK-positive NSCLC is well established.
 
-For gingival fibromatosis, the link is weak. Hereditary gingival fibromatosis is not known to be driven by ALK or RET signalling, and no mechanistic rationale has been established. The very high TxGNN score reflects a pattern in the knowledge graph rather than a biological or clinical finding. The other top-ranked predictions show the same pattern: none has a plausible ALK-dependent mechanism, apart from tumour types that overlap with the existing lung cancer use.
+For gingival fibromatosis, the link is weak. Hereditary gingival fibromatosis is not known to be driven by ALK or RET signaling, and no mechanistic rationale has been established. The very high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The other top-ranked predictions show the same pattern: none has a plausible ALK-dependent mechanism, apart from tumor types that overlap with the existing lung cancer use.
 
 ## Clinical Trial Evidence
 
@@ -74,7 +74,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA208434 | ALECENSA (Genentech, Inc.) | Capsule (oral) | Not listed; status: cancelled |
+| NDA208434 | ALECENSA (Genentech, Inc.) | Capsule (oral) | Not listed; status: valid |
 
 ## Cytotoxicity
 

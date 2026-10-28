@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Anemone Hepatica Var Obtusa Antimony Potassium Tar
@@ -51,7 +52,8 @@ Currently there are **no clinical trials or literature** supporting its drug rep
 | Predicted new indications | None (TxGNN did not generate predictions) |
 | TxGNN prediction score | — |
 | Evidence level | L5 (only model input, no actual research) |
-| US market status | Not marketed (0 approvals) |
+| US market status | Marketed (valid licenses on record: at least 1) |
+| Number of NDAs | at least 1 |
 | Total number of approvals | 0 |
 | Recommended decision | **Hold** |
 

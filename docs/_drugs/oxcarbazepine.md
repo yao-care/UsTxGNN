@@ -4,17 +4,17 @@ title: Oxcarbazepine
 parent: Moderate Evidence (L3-L4)
 nav_order: 1002
 evidence_level: L4
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-14
-description: "Oxcarbazepine: predicted new indication Visual epilepsy (evidence level L4). Approved use: Partial epilepsy"
 monitor_inn: "OXCARBAZEPINE"
 predicted_indications: ["restless legs syndrome"]
+description: "Oxcarbazepine: predicted new indication Restless legs syndrome (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Oxcarbazepine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Oxcarbazepine: From Partial Epilepsy to Visual Epilepsy
+## Oxcarbazepine: Restless legs syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Oxcarbazepine is an antiseizure medication originally used to treat partial (focal) epilepsy.
-The TxGNN model predicts it may be effective for **visual epilepsy**, but there are currently **0 registered clinical trials** and only general epilepsy literature (**16 publications**, mostly reviews and guidelines) supporting this direction.
 The evidence is indirect, so this is a model-driven hypothesis at this stage.
 
 ---
@@ -48,11 +47,11 @@ The evidence is indirect, so this is a model-driven hypothesis at this stage.
 
 | Item | Content |
 |------|------|
-| Original Indication | Partial epilepsy; partial motor epilepsy |
-| Predicted New Indication | Visual epilepsy |
-| TxGNN Prediction Score | 99.95% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Restless legs syndrome |
+| TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid licenses in the data compiled) |
+| US Market Status | Marketed (valid licenses on record: at least 11) |
 | Number of NDAs | 11 authorizations in total (1 NDA, 10 ANDAs; all cancelled) |
 | Recommended Decision | Hold |
 
@@ -66,7 +65,7 @@ Visual epilepsy is a focal, visually triggered seizure type. Because oxcarbazepi
 
 However, the retrieved literature consists of general antiseizure medication reviews and guidelines on focal epilepsy. None specifically addresses visually induced or reflex seizures. The prediction therefore rests mainly on the model score and on the drug's known activity in focal epilepsy.
 
-Other predicted indications follow a similar pattern. Most are rare reflex seizure types (audiogenic, eating, thinking, startle, micturition-induced, orgasm-induced, reading seizures) with scores of about 99.8–99.9%. Restless legs syndrome has case-report-level support, and status epilepticus has a small case-level report plus a safety signal. All have no registered clinical trials.
+Other predicted indications follow a similar pattern. Restless legs syndrome has case-report-level support, and status epilepticus has a small case-level report plus a safety signal. All have no registered clinical trials.
 
 ---
 
@@ -97,7 +96,7 @@ No publication addresses visual epilepsy directly. The table lists the most rele
 
 ## US Market Information
 
-All authorizations below are listed as cancelled. Approved indication text was not available in the data compiled.
+Approved indication text was not available in the data compiled.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -126,14 +125,13 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The 99.95% TxGNN score is a model prediction only. There are no clinical trials, and the literature is general epilepsy material that does not address visual epilepsy. Package insert safety data are also missing, which blocks safety screening. All US authorizations are currently cancelled.
+There are no clinical trials, and the literature is general epilepsy material that does not address visual epilepsy. Package insert safety data are also missing, which blocks safety screening.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (blocking data gap)
 - Detailed mechanism of action data (MOA)
 - Targeted literature search for oxcarbazepine in visually induced or photosensitive seizures, including case series
 - Clinical rationale for the diagnostic boundary between visual epilepsy and existing focal epilepsy indications
-- Review of the current US marketing status, since all licenses are listed as cancelled
 - Consideration of better-supported alternatives from the same prediction list, such as restless legs syndrome (case reports only, so still exploratory)
 ## Disclaimer
 

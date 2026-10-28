@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Decitabine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 576
-evidence_level: L4
+evidence_level: L5
 indication_count: 1
 monitor_inn: "DECITABINE"
 predicted_indications: ["refractory cytopenia of childhood"]
@@ -14,7 +14,7 @@ description: "Decitabine: predicted new indication Refractory cytopenia of child
 # Decitabine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **1** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ Support is currently limited: **0 registered clinical trials** and **2 publicati
 |------|------|
 | Original Indication | Myeloid leukemia (including AML and its subtypes) |
 | Predicted New Indication | Refractory cytopenia of childhood |
-| TxGNN Prediction Score | 99.03% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (all 13 listed authorizations are cancelled) |
+| TxGNN Prediction Score | 0.9903 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 13) |
 | Number of NDAs | 13 (all ANDA generic applications, none currently valid) |
 | Recommended Decision | Hold |
 
@@ -58,7 +58,7 @@ Support is currently limited: **0 registered clinical trials** and **2 publicati
 
 Detailed mechanism of action data is not available in the data compiled for this report. Based on the drug's known class pharmacology, decitabine is a hypomethylating agent (DNA methyltransferase inhibitor) already used in myeloid malignancies, including AML and myelodysplastic syndromes (MDS).
 
-RCC is the most common pediatric MDS subtype. The shared biology of aberrant DNA methylation and clonal myeloid dysregulation provides a plausible mechanistic rationale. This link rests on class-level knowledge rather than on the supplied data. The high TxGNN score (0.99) is a computational prediction and does not substitute for clinical evidence.
+RCC is the most common pediatric MDS subtype. The shared biology of aberrant DNA methylation and clonal myeloid dysregulation provides a plausible mechanistic rationale. This link rests on class-level knowledge rather than on the supplied data. The high TxGNN score (0.9903) is a computational prediction and does not substitute for clinical evidence.
 
 ## Clinical Trial Evidence
 
@@ -108,7 +108,7 @@ Please refer to the package insert for official warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is mechanistically plausible, but evidence is limited to one likely-retrospective cohort and one case report (L4), with no registered trials. All US authorizations are listed as cancelled, and the supplied data lack label safety information. In a pediatric population already affected by cytopenias, the drug's myelosuppressive potential also warrants caution.
+The prediction is mechanistically plausible, but evidence is limited to one likely-retrospective cohort and one case report (L4), with no registered trials. The drug is marketed in the US with 13 valid licenses, but the supplied data lack label safety information. In a pediatric population already affected by cytopenias, the drug's myelosuppressive potential also warrants caution.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

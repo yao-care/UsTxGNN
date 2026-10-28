@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Acalabrutinib
@@ -51,7 +52,8 @@ The pipeline is incomplete — key inputs including MOA data and regulatory data
 | Predicted New Indication | None — Evidence Pack returned no predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | N/A (pipeline did not complete) |
-| US Market Status | Not marketed in Taiwan (Not marketed) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Number of Taiwan Licenses | 0 |
 | Recommended Decision | **Hold** — rerun pipeline after resolving data gaps |
 

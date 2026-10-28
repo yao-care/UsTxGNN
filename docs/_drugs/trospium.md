@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Trospium
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 1270
-evidence_level: L5
-indication_count: 10
-monitor_inn: "Trospium"
-predicted_indications: ["irritable bowel syndrome", "cauda equina syndrome", "obsolete neurogenic bladder (disease)", "common cold", "dysthymic disorder", "neurocirculatory asthenia", "open-angle glaucoma", "autonomic nervous system disease", "insomnia (disease)", "primary hereditary glaucoma"]
-last_modified_at: 2026-10-14
-description: "Trospium: predicted new indication Irritable bowel syndrome (evidence level L5). Approved use: Not stated in the available license data"
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Trospium: known uses and market status in the United States; currently no new candidate indication"
+predicted_indications: []
 ---
 
 # Trospium
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,56 +32,55 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Trospium: From Overactive Bladder to Irritable Bowel Syndrome
+<!-- known-uses-page -->
+<!-- description: Trospium: known uses and market status in the United States; currently no new candidate indication -->
+## Trospium: Known uses and market status in the United States
 {: .text-alpha }
 
-## One-Sentence Summary
+## Summary
+The TxGNN deep-learning model has no candidate with a score of 0.99 or higher for Trospium, so there is currently no new predicted indication. The drug's own recorded uses are listed below; none are recorded for this drug.
 
-Trospium is a peripherally acting antimuscarinic (quaternary amine) that is established for bladder overactivity; the specific approved indication text is not included in the data compiled for this report.
-The TxGNN model predicts it may be effective for **irritable bowel syndrome**, but there are **0 clinical trials** and only **1 loosely related publication** (which does not study irritable bowel syndrome) supporting this direction.
-This is a model prediction only.
-
-## Quick Overview
-
+## Quick overview
 | Item | Content |
 |------|------|
-| Original Indication | Not stated in the available license data (mechanistically and in the data, linked to overactive bladder) |
-| Predicted New Indication | Irritable bowel syndrome |
-| TxGNN Prediction Score | 98.04% |
-| Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 9 (all ANDAs, all cancelled) |
-| Recommended Decision | Hold |
+| New predicted indications | None (no model candidate scored 0.99 or higher) |
+| Known uses recorded for this drug | 0 |
+| Evidence level | Not applicable |
+| Market status in the United States | Marketed (valid licenses on record: at least 9) |
+| Number of NDAs | at least 9 |
 
-## Why is This Prediction Reasonable?
+## Known uses recorded for this drug
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known information, trospium is a peripherally acting antimuscarinic (quaternary amine). Its established use is reducing detrusor overactivity in overactive bladder by blocking muscarinic receptors.
+### Approved (supported by a licence or label)
+| Indication | Source |
+|------|------|
+| none | none |
 
-Antimuscarinic drugs are used as antispasmodics in irritable bowel syndrome, so a plausible link exists through reduced gastrointestinal smooth muscle contraction. The mechanism is therefore potentially applicable.
+### Related to an approved indication (same disease category)
+| Indication | Approved category |
+|------|------|
+| none | none |
 
-However, the only publication linked to this prediction (PMID 33890538) concerns antimuscarinic use in older adults with dementia and overactive bladder, not irritable bowel syndrome. It provides no direct evidence. The high TxGNN score is a prediction only.
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-## Literature Evidence
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [33890538](https://pubmed.ncbi.nlm.nih.gov/33890538/) | 2021 | Cohort | Current Medical Research and Opinion | Examined incidence and predictors of antimuscarinic use among older adults with dementia and overactive bladder. Not about irritable bowel syndrome, so it offers no direct support. |
+### Relations recorded in the knowledge graph (no approval found)
+| Indication |
+|------|
+| none |
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA091573 | Trospium Chloride (Bryant Ranch Prepack) | Tablet, film coated | Not stated; cancelled |
-| ANDA206472 | Trospium Chloride (Macleods) | Tablet | Not stated; cancelled |
-| ANDA091289 | Trospium Chloride (Golden State Medical Supply) | Capsule, extended release | Not stated; cancelled |
-| ANDA213185 | Trospium Chloride (Bluepoint Laboratories) | Capsule, extended release | Not stated; cancelled |
-| ANDA091688 | Trospium Chloride (Cipla USA) | Tablet, film coated | Not stated; cancelled |
+| Licence | Product | Dosage form | Status |
+|------|------|------|------|
+| ANDA091573 | TROSPIUM CHLORIDE | TABLET, FILM COATED | Valid |
+| ANDA206472 | Trospium Chloride | TABLET | Valid |
+| ANDA091289 | Trospium Chloride | CAPSULE, EXTENDED RELEASE | Valid |
+| ANDA213185 | TROSPIUM CHLORIDE | CAPSULE, EXTENDED RELEASE | Valid |
+| ANDA091688 | Trospium Chloride | TABLET, FILM COATED | Valid |
+| ANDA215781 | Trospium Chloride | TABLET, FILM COATED | Valid |
+| ANDA201291 | Trospium Chloride | CAPSULE, EXTENDED RELEASE | Valid |
+| ANDA204945 | TROSPIUM CHLORIDE | TABLET, FILM COATED | Valid |
+| ANDA091575 | Trospium Chloride | TABLET, FILM COATED | Valid |
 
-All 9 licenses are single-ingredient and cancelled; the 5 shown are the first listed.
+Only part of the licence list is held in the data; the list may be incomplete.
 
 ## Safety Considerations
 
@@ -90,20 +88,6 @@ All 9 licenses are single-ingredient and cancelled; the 5 shown are the first li
 
 Please refer to the package insert for warnings and contraindications.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The prediction is supported only by the model score and a plausible antispasmodic mechanism. There are no clinical trials and no relevant literature on irritable bowel syndrome (L5). All US licenses are cancelled, and label safety information is missing.
-
-**To proceed, the following is needed:**
-- Review of the package insert for warnings and contraindications
-- Detailed mechanism-of-action data
-- A literature and trial search specific to antimuscarinics in irritable bowel syndrome
-- Confirmation of the approved original indication
-- Assessment of the US market and regulatory pathway, since no valid license currently exists
-- Assessment of anticholinergic burden and interaction risk in the target population
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

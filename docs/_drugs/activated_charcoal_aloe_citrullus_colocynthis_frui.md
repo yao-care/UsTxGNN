@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Activated Charcoal Aloe Citrullus Colocynthis Frui
@@ -53,7 +54,7 @@ As a result, **no evidence-based repurposing analysis can be completed at this s
 | Predicted New Indication | No TxGNN prediction generated |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (model prediction only — and none exists) |
-| US/TW Market Status | Not marketed |
+| US/TW Market Status | Marketed (valid licenses on record: at least 1) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

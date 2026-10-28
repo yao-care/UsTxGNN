@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Dantrolene
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 568
-evidence_level: L3
-indication_count: 9
+evidence_level: L5
+indication_count: 7
 last_modified_at: 2026-10-14
-description: "Dantrolene: predicted new indication Malignant hyperthermia, susceptibility to (evidence level L3). Approved use: Malignant hyperthermia of anesthesia"
 monitor_inn: "DANTROLENE"
-predicted_indications: ["moderate multiminicore disease with hand involvement", "King-Denborough syndrome", "congenital multicore myopathy with external ophthalmoplegia", "central core myopathy", "hypokalemic periodic paralysis", "thyrotoxic periodic paralysis, susceptibility to", "thyrotoxic periodic paralysis", "myopathy, centronuclear"]
+predicted_indications: ["moderate multiminicore disease with hand involvement", "King-Denborough syndrome", "congenital multicore myopathy with external ophthalmoplegia", "central core myopathy", "hypokalemic periodic paralysis", "thyrotoxic periodic paralysis", "myopathy, centronuclear"]
+description: "Dantrolene: predicted new indication Moderate multiminicore disease with hand involvement (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Dantrolene
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **9** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,23 @@ Evidence Level: **L3** | Predicted Indications: **9**
 
 </div>
 
-## Dantrolene: From Malignant Hyperthermia to Malignant Hyperthermia Susceptibility
+## Dantrolene: Moderate multiminicore disease with hand involvement
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Dantrolene was originally used to treat malignant hyperthermia during anaesthesia, including the exercise-induced form.
-The TxGNN model predicts it may be effective for **malignant hyperthermia, susceptibility to**, with **0 registered clinical trials** and **18 publications** (mostly guidelines and reviews) currently supporting this direction.
 This is essentially an on-label use rather than a true repurposing; the other predicted diseases (RYR1-related myopathies, periodic paralyses) have much weaker support.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Malignant hyperthermia of anesthesia; exercise-induced malignant hyperthermia |
-| Predicted New Indication | Malignant hyperthermia, susceptibility to |
-| TxGNN Prediction Score | 99.93% |
-| Evidence Level | L3 |
-| US Market Status | Cancelled only (all 7 authorizations are listed as cancelled) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Moderate multiminicore disease with hand involvement |
+| TxGNN Prediction Score | 0.9990 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 7) |
 | Number of NDAs | 7 (NDA and ANDA authorizations combined) |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -66,14 +65,13 @@ The predicted indication is closely related to the original indication, and the 
 
 | Predicted Disease | TxGNN Score | Evidence Level | Assessment |
 |------|------|------|------|
-| Moderate multiminicore disease with hand involvement | 99.90% | L5 | RYR1 link plausible; no trials or literature. Hold |
-| King-Denborough syndrome | 99.87% | L4 | Case-level evidence; benefit would be for MH risk, not the myopathy. Research question |
-| Congenital multicore myopathy with external ophthalmoplegia | 99.87% | L4 | Only a genetic study; no efficacy evidence. Hold |
-| Central core myopathy | 99.86% | L4 | Mechanistic and review-level evidence; relates to MH prophylaxis. Research question |
-| Hypokalemic periodic paralysis | 99.78% | L5 | Indirect link; no evidence. Hold |
-| Thyrotoxic periodic paralysis (susceptibility) | 99.74% | L5 | Speculative; no evidence. Hold |
-| Thyrotoxic periodic paralysis | 99.67% | L5 | Speculative; no evidence. Hold |
-| Centronuclear myopathy | 99.66% | L4 | Indirect evidence incl. a prophylactic-use case report in central core disease. Research question |
+| Moderate multiminicore disease with hand involvement | 0.9990 | L5 | RYR1 link plausible; no trials or literature. Hold |
+| King-Denborough syndrome | 0.9987 | L4 | Case-level evidence; benefit would be for MH risk, not the myopathy. Research question |
+| Congenital multicore myopathy with external ophthalmoplegia | 0.9987 | L5 | Only a genetic study; no efficacy evidence. Hold |
+| Central core myopathy | 0.9986 | L5 | Mechanistic and review-level evidence; relates to MH prophylaxis. Research question |
+| Hypokalemic periodic paralysis | 0.9978 | L5 | Indirect link; no evidence. Hold |
+| Thyrotoxic periodic paralysis | 0.9967 | L5 | Speculative; no evidence. Hold |
+| Centronuclear myopathy | 0.9966 | L5 | Indirect evidence incl. a prophylactic-use case report in central core disease. Research question |
 
 ## Clinical Trial Evidence
 
@@ -96,7 +94,6 @@ Currently no related clinical trials registered. The published guidelines note t
 
 ## US Market Information
 
-All authorizations below are listed as cancelled; approved-indication text was not available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -118,10 +115,9 @@ Please refer to the package insert for the official warnings and contraindicatio
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-For malignant hyperthermia susceptibility, dantrolene directly targets the disease mechanism and is recommended in consensus guidelines. The L3 level reflects the absence of registered Phase 3 RCTs, not weak clinical support. However, this is an on-label use, and all US authorizations are listed as cancelled. The remaining predictions (RYR1 myopathies and periodic paralyses) rest on indirect or no clinical evidence and should be treated as research questions or held.
+For malignant hyperthermia susceptibility, dantrolene directly targets the disease mechanism and is recommended in consensus guidelines. The L3 level reflects the absence of registered Phase 3 RCTs, not weak clinical support. The remaining predictions (RYR1 myopathies and periodic paralyses) rest on indirect or no clinical evidence and should be treated as research questions or held.
 
 **To proceed, the following is needed:**
-- Verify current US product availability, since all authorizations are listed as cancelled
 - Obtain the package insert warnings and contraindications (a blocking gap for safety screening)
 - Obtain detailed mechanism-of-action data from DrugBank
 - Review the major morphine interaction and the liver, muscle and lung cautions

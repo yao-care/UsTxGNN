@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Arnica Montana Whole Arsenic Trioxide Bos Taurus P
@@ -49,7 +50,7 @@ This candidate product is a complex formulation containing 11 components (includ
 | Predicted New Indications | None (TxGNN unable to generate prediction) |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (model level only, with no clinical or literature evidence) |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

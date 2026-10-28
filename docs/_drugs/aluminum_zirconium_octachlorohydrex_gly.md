@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Aluminum Zirconium Octachlorohydrex Gly
@@ -51,7 +52,7 @@ As a result, no supporting clinical trial or literature evidence for a new indic
 | Predicted New Indication | None — no TxGNN prediction available |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | N/A |
-| US Market Status | Not marketed (as a pharmaceutical drug) |
+| US Market Status | Marketed (valid licenses on record: at least 3) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 

@@ -4,17 +4,17 @@ title: Lenalidomide
 parent: High Evidence (L1-L2)
 nav_order: 844
 evidence_level: L2
-indication_count: 6
+indication_count: 4
 last_modified_at: 2026-10-14
 description: "Lenalidomide: predicted new indication Myeloid leukemia (evidence level L2). Approved use: Plasma cell myeloma (also mantle cell lymphoma, B-cell neoplasm…"
 monitor_inn: "LENALIDOMIDE"
-predicted_indications: ["myeloid leukemia", "refractory cytopenia of childhood", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts", "partial deletion of the long arm of chromosome 5"]
+predicted_indications: ["myeloid leukemia", "refractory cytopenia of childhood", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts"]
 ---
 
 # Lenalidomide
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **6** 
+Evidence Level: **L2** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ with **47 clinical trials** and **20 publications** currently supporting this di
 |------|------|
 | Original Indication | Plasma cell myeloma (also mantle cell lymphoma, B-cell neoplasm, lymphosarcoma, myelodysplastic syndrome) |
 | Predicted New Indication | Myeloid leukemia |
-| TxGNN Prediction Score | 99.49% |
+| TxGNN Prediction Score | 0.9949 |
 | Evidence Level | L2 |
-| US Market Status | Cancelled only (all 12 listed authorizations are cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 12) |
 | Number of NDAs | 12 (all generic ANDAs) |
 | Recommended Decision | Hold |
 
@@ -132,7 +132,7 @@ Package insert warnings and contraindications were not available; please refer t
 **Decision: Hold**
 
 **Rationale:**
-The mechanism is plausible and there are many Phase 1/2 AML and MDS trials, but they are mostly small, single-arm or combination studies with no completed Phase 3 evidence in myeloid leukemia. All US authorizations are cancelled, and label safety data are missing. The high hematologic toxicity risk in an already cytopenic population further calls for caution.
+The mechanism is plausible and there are many Phase 1/2 AML and MDS trials, but they are mostly small, single-arm or combination studies with no completed Phase 3 evidence in myeloid leukemia. The drug is marketed in the US with 12 valid licenses, and label safety data are missing. The high hematologic toxicity risk in an already cytopenic population further calls for caution.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (blocking gap for safety screening)

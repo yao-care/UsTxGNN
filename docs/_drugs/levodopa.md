@@ -48,9 +48,9 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Parkinson disease and related parkinsonian syndromes |
 | Predicted New Indication | Rasmussen subacute encephalitis |
-| TxGNN Prediction Score | 99.06% |
+| TxGNN Prediction Score | 0.9906 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all listed authorizations are cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 12) |
 | Number of NDAs | 12 (listed authorizations, including NDAs and ANDAs) |
 | Recommended Decision | Hold |
 
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 Rasmussen encephalitis is a rare, chronic, unilateral inflammatory brain disease. It is thought to be driven by T-cell-mediated (cytotoxic CD8+) neuroinflammation with astrocyte and neuronal loss. It presents with intractable focal seizures, progressive hemiparesis and cognitive decline. **No direct mechanistic link between the two has been established.**
 
-Possible indirect overlap is limited to dopaminergic modulation of neuroinflammation, or to the treatment of secondary movement abnormalities such as hemiparkinsonism or dystonia. This is speculative and unsupported by data. The high score (0.99) is likely driven by network proximity to the parkinsonism-related original indications (for example, hemiparkinsonism-hemiatrophy syndrome). It should not be read as clinical evidence.
+Possible indirect overlap is limited to dopaminergic modulation of neuroinflammation, or to the treatment of secondary movement abnormalities such as hemiparkinsonism or dystonia. This is speculative and unsupported by data. The high score (0.9906) is likely driven by network proximity to the parkinsonism-related original indications (for example, hemiparkinsonism-hemiatrophy syndrome). It should not be read as clinical evidence.
 
 ## Clinical Trial Evidence
 
@@ -103,7 +103,7 @@ Package insert warnings and contraindications were not available for this report
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the TxGNN model score (L5). There are no registered clinical trials or publications, no established mechanistic link, and no mechanism-of-action data. Levodopa also carries a knowledge-graph contraindication signal for epilepsy, the main manifestation of Rasmussen encephalitis. In addition, all 12 listed US authorizations are cancelled.
+The prediction is supported only by the TxGNN model (deep learning) score (L5). There are no registered clinical trials or publications, no established mechanistic link, and no mechanism-of-action data. Levodopa also carries a knowledge-graph contraindication signal for epilepsy, the main manifestation of Rasmussen encephalitis. In addition, the drug is marketed in the US, with 12 valid authorizations.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

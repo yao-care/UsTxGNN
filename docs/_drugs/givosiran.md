@@ -4,7 +4,7 @@ title: Givosiran
 parent: Model Prediction Only (L5)
 nav_order: 751
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
 description: "Givosiran: predicted new indication Hepatoportal sclerosis (evidence level L5). Approved use: Hepatic porphyria"
 monitor_inn: "GIVOSIRAN"
@@ -14,7 +14,7 @@ predicted_indications: ["hepatoportal sclerosis", "primitive portal vein thrombo
 # Givosiran
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Hepatic porphyria |
 | Predicted New Indication | Hepatoportal sclerosis |
-| TxGNN Prediction Score | 99.999% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,9 +62,9 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, givosiran is a GalNAc-conjugated siRNA that silences hepatic ALAS1, the first enzyme in heme biosynthesis. This lowers production of the neurotoxic intermediates ALA and PBG, which drive attacks in acute hepatic porphyria.
 
-For hepatoportal sclerosis (non-cirrhotic portal hypertension with obliterative portal venopathy), no plausible link to ALAS1 suppression is established. The high score most likely reflects proximity in the knowledge graph to other liver diseases rather than a mechanistic rationale. Several other predictions share an identical score (99.9986%), including primitive portal vein thrombosis, hepatopulmonary syndrome, idiopathic copper-associated cirrhosis and early-onset familial noncirrhotic portal hypertension. This points to a shared graph-based artifact rather than disease-specific signals.
+For hepatoportal sclerosis (non-cirrhotic portal hypertension with obliterative portal venopathy), no plausible link to ALAS1 suppression is established. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Several other predictions share an identical score (1.0000), including primitive portal vein thrombosis, hepatopulmonary syndrome, idiopathic copper-associated cirrhosis and early-onset familial noncirrhotic portal hypertension. This points to a shared model artifact rather than disease-specific signals.
 
-**Other predictions reviewed.** Only one of the top 10 predictions has any supporting literature: **porphyria due to ALA dehydratase deficiency (ADP)**, rank 9, score 99.91%. It is mechanistically strong, since ALAD deficiency causes ALA accumulation that givosiran reduces. However, ADP is a recognized subtype of acute hepatic porphyria, so it is closer to the existing indication than to true repurposing. The evidence is limited to case reports with mixed results (see below). The remaining predictions, including chronic hepatitis B and C, glycogen storage disease and phenylalanine metabolism disorder, have no supporting data and no evident mechanistic link.
+**Other predictions reviewed.** The other predictions, including chronic hepatitis B and C, glycogen storage disease and phenylalanine metabolism disorder, have no supporting data and no evident mechanistic link.
 
 ---
 

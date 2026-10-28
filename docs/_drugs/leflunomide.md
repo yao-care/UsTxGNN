@@ -48,9 +48,9 @@ but currently **0 clinical trials** and **0 publications** support this directio
 |------|------|
 | Original Indication | Rheumatoid arthritis; psoriatic arthritis |
 | Predicted New Indication | Brachydactyly-Syndactyly Syndrome |
-| TxGNN Prediction Score | 99.93% |
+| TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all 9 listed authorizations are cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 9) |
 | Number of NDAs | 9 (1 NDA and 8 ANDAs) |
 | Recommended Decision | Hold |
 
@@ -58,9 +58,9 @@ but currently **0 clinical trials** and **0 publications** support this directio
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Leflunomide is an immunomodulatory antimetabolite whose efficacy in rheumatoid arthritis and psoriatic arthritis is established. As general background (not drawn from the compiled data), it acts through its active metabolite teriflunomide, which inhibits dihydroorotate dehydrogenase (DHODH) and pyrimidine synthesis.
 
-No mechanistic link between leflunomide and the pathways underlying brachydactyly-syndactyly syndrome, a rare limb malformation disorder, has been established. The high TxGNN score (99.93%) is a computational prediction only and is not corroborated by any clinical or preclinical evidence. DHODH inhibition is also associated with teratogenic risk, which argues for particular caution in developmental disorders. This is general pharmacological background, not a finding from the compiled data.
+No mechanistic link between leflunomide and the pathways underlying brachydactyly-syndactyly syndrome, a rare limb malformation disorder, has been established. The high TxGNN score (0.9993) is a computational prediction only and is not corroborated by any clinical or preclinical evidence. DHODH inhibition is also associated with teratogenic risk, which argues for particular caution in developmental disorders. This is general pharmacological background, not a finding from the compiled data.
 
-A second prediction, colobomatous microphthalmia-rhizomelic dysplasia syndrome (score 99.93%), is likewise a rare congenital developmental syndrome with no supporting trials or literature, and the same concerns apply.
+A second prediction, colobomatous microphthalmia-rhizomelic dysplasia syndrome (score 0.9993), is likewise a rare congenital developmental syndrome with no supporting trials or literature, and the same concerns apply.
 
 ## Clinical Trial Evidence
 
@@ -74,11 +74,11 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA020905 | Arava (sanofi-aventis U.S. LLC) | Tablet, film coated | Not specified; status cancelled |
-| ANDA211863 | Leflunomide (Lupin Pharmaceuticals) | Tablet, film coated | Not specified; status cancelled |
-| ANDA212308 | Leflunomide (Zydus Pharmaceuticals USA) | Tablet, film coated | Not specified; status cancelled |
-| ANDA213652 | Leflunomide (Aurobindo Pharma) | Tablet, film coated | Not specified; status cancelled |
-| ANDA077090 | Leflunomide (AvPAK) | Tablet | Not specified; status cancelled |
+| NDA020905 | Arava (sanofi-aventis U.S. LLC) | Tablet, film coated | Not specified; status valid |
+| ANDA211863 | Leflunomide (Lupin Pharmaceuticals) | Tablet, film coated | Not specified; status valid |
+| ANDA212308 | Leflunomide (Zydus Pharmaceuticals USA) | Tablet, film coated | Not specified; status valid |
+| ANDA213652 | Leflunomide (Aurobindo Pharma) | Tablet, film coated | Not specified; status valid |
+| ANDA077090 | Leflunomide (AvPAK) | Tablet | Not specified; status valid |
 
 Four additional ANDA authorizations (Bryant Ranch Prepack, KVK-Tech, Alembic, Burel Pharmaceuticals) are also listed as cancelled.
 
@@ -106,7 +106,7 @@ Please refer to the package insert for complete warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has only a computational basis (L5), with no clinical trials, literature, or established mechanistic link. Leflunomide's known teratogenic risk and the rare congenital nature of the predicted conditions further weaken the case. All US authorizations are also cancelled.
+The prediction has only a computational basis (L5), with no clinical trials, literature, or established mechanistic link. Leflunomide's known teratogenic risk and the rare congenital nature of the predicted conditions further weaken the case. The drug is marketed in the US, with 9 valid licenses.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

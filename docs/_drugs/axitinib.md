@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Axitinib
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 433
-evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-14
-description: "Axitinib: predicted new indication Renal cell carcinoma associated with neuroblastoma (evidence level L5). Approved use: Renal cell carcinoma (including clear cell and non-papillary subtypes)"
+evidence_level: L4
+indication_count: 4
 monitor_inn: "AXITINIB"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax"]
+last_modified_at: 2026-10-27
+description: "Axitinib: predicted new indication liposarcoma (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Axitinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,104 +33,79 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Axitinib: From Renal Cell Carcinoma to Renal Cell Carcinoma Associated with Neuroblastoma
+## Axitinib: VEGFR tyrosine kinase inhibitor → liposarcoma
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Axitinib is an oral kinase inhibitor originally used to treat renal cell carcinoma (RCC).
-The TxGNN model predicts it may be effective for **renal cell carcinoma associated with neuroblastoma**, a very rare subtype.
-Currently **0 clinical trials** and **0 publications** support this specific prediction, so it rests on model output alone.
-
----
+Axitinib is an oral kinase inhibitor marketed in the United States as INLYTA.
+The TxGNN model predicts it may be effective for **liposarcoma**, but the support is thin: **0 clinical trials** and **1 preclinical publication** are currently available.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Renal cell carcinoma (including clear cell and non-papillary subtypes) |
-| Predicted New Indication | Renal cell carcinoma associated with neuroblastoma |
-| TxGNN Prediction Score | 99.90% |
-| Evidence Level | L5 |
-| US Market Status | Cancelled only (no active authorization) |
-| Number of NDAs | 1 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | liposarcoma |
+| TxGNN Prediction Score | 0.9987 |
+| Evidence Level | L4 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
-
----
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Axitinib is known as a selective inhibitor of vascular endothelial growth factor receptors 1, 2 and 3 (VEGFR1-3). It blocks the formation of new tumor blood vessels. Its efficacy in RCC, especially clear cell RCC, is well established.
+Detailed mechanism-of-action data is not available in the data compiled for this report. Axitinib is generally known as an inhibitor of vascular endothelial growth factor receptors (VEGFR), which blocks the formation of new blood vessels that tumours depend on.
 
-The predicted indication is an RCC subtype, so it sits close to the original indication. Angiogenesis-driven biology may be shared between the two. This is the only reasoning available: no trials, publications or subtype-specific data support it.
-
-The high score (99.90%) should be read with caution. Several unrelated or weakly supported predictions received nearly identical scores, so the score alone does not show real clinical promise.
-
----
+The one supporting study is a preclinical report of antiangiogenic and antitumour activity of axitinib in myxoid liposarcoma cell lines. That finding is consistent with a vascularity-driven mechanism, but it is laboratory evidence only. No human efficacy data were provided, so the link between the drug's mechanism and benefit in patients with liposarcoma remains a hypothesis.
 
 ## Clinical Trial Evidence
 
 Currently no related clinical trials registered.
 
----
-
 ## Literature Evidence
 
-Currently no related literature available.
-
----
+| PMID | Year | Type | Journal | Key Findings |
+|------|-----|------|------|---------|
+| [27822137](https://pubmed.ncbi.nlm.nih.gov/27822137/) | 2016 | Preclinical (in vitro/in vivo) | Sarcoma | Axitinib showed antiangiogenic and antitumour activity in myxoid liposarcoma cell lines, identified in a screen of targeted and chemotherapy agents. |
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA202324 | INLYTA | Tablet, film coated (oral) | Not specified in the data compiled |
-
-The only US authorization on record (single-agent product, manufacturer listed as U.S. Pharmaceuticals) has a **cancelled** status. No currently valid authorization was found.
-
----
+| NDA202324 | INLYTA | Film-coated tablet | Not recorded in the local data |
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
-| Cytotoxicity Classification | Targeted therapy (VEGFR tyrosine kinase inhibitor) |
+| Cytotoxicity Classification | Targeted therapy (kinase inhibitor) |
 | Myelosuppression Risk | Please refer to the package insert warnings and precautions |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
 | Monitoring Items | Please refer to the package insert warnings and precautions |
 | Handling Protection | Please refer to the package insert warnings and precautions |
 
----
-
 ## Safety Considerations
 
-Label warnings and contraindications were not available in the data compiled. Please refer to the package insert for these.
+- **Drug Interactions**: 100 interactions were found in the interaction screen; the first 20 are listed below.
+  - **Major**: Clarithromycin, Dexamethasone
+  - **Moderate**: Aprepitant, Clotrimazole, Miconazole, Naltrexone
+  - **Minor**: Famotidine, Ranitidine, Cimetidine, Nizatidine, Rabeprazole, Esomeprazole, Lansoprazole, Dexlansoprazole, Aluminum hydroxide, Calcium carbonate, Magaldrate, Magnesium carbonate, Magnesium hydroxide, Magnesium oxide
 
-**Drug Interactions**: A total of 100 interactions were identified; the 20 reviewed include:
-- **Major**: Clarithromycin, Dexamethasone
-- **Moderate**: Aprepitant, Clotrimazole, Miconazole, Naltrexone
-- **Minor**: Acid-reducing agents and antacids (famotidine, ranitidine, cimetidine, nizatidine, rabeprazole, esomeprazole, lansoprazole, dexlansoprazole, aluminum hydroxide, calcium carbonate, magaldrate, magnesium carbonate/hydroxide/oxide)
-
----
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction for this subtype has no supporting trials or literature (Evidence Level L5). The only US authorization is cancelled, and label safety information is missing. A recommendation to advance cannot be justified at this stage.
-
-Other predicted indications in the same analysis have more support:
-- **TFE3/Xp11.2 translocation RCC**: one small randomized Phase 2 trial (NCT03595124, n=15, axitinib plus nivolumab versus nivolumab alone), still active with no results (Evidence Level L2).
-- **Collecting duct carcinoma**: one recruiting Phase 2 trial (NCT06211114, n=30) plus case reports (Evidence Level L2).
-- **Renal carcinoma (clear cell RCC)**: Phase 3 evidence exists (AXIS, KEYNOTE-426, JAVELIN Renal 101), but this is the drug's original indication, so it is not true repurposing.
+The only evidence for liposarcoma is a single preclinical study in a myxoid subtype, with no clinical trials or human data. The high model score alone is not enough to justify moving forward.
 
 **To proceed, the following is needed:**
-- Any clinical or preclinical evidence specific to RCC associated with neuroblastoma
-- FDA package insert warnings and contraindications
-- Detailed mechanism of action data
-- Confirmation of current US labeling and market status, given the cancelled authorization
-- Reassessment of the other candidate indications above if a more evidence-based direction is wanted
+- Clinical data in liposarcoma (early-phase trials or case series), ideally by subtype
+- Further preclinical confirmation beyond myxoid liposarcoma
+- Mechanism-of-action documentation and the package insert warnings and contraindications
+- A safety and drug-interaction review for the target patient population
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

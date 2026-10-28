@@ -48,10 +48,10 @@ This prediction is a computational signal only and has no direct clinical suppor
 |------|------|
 | Original Indication | Not stated in the compiled data (the license records contain no indication text) |
 | Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.42% |
+| TxGNN Prediction Score | 0.9942 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all 4 authorizations are listed as cancelled) |
-| Number of NDAs | 4 (1 NDA and 3 ANDAs) |
+| US Market Status | Marketed (valid licenses: 4 of 4) |
+| Number of NDAs | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -62,7 +62,7 @@ A plausible link to migraine exists through modulation of sympathetic tone and c
 
 The single literature record is a 2019 drug-news roundup. It lists lofexidine (approved for opioid withdrawal symptoms) next to fremanezumab and galcanezumab (approved for migraine prevention). The apparent association most likely comes from this co-listing rather than from any evidence of benefit.
 
-A second predicted indication, **migraine with brainstem aura** (score 99.26%), has no trials and no publications. Its high score probably reflects its close ontological relationship to migraine disorder rather than independent evidence. An alpha-2 agonist effect on brainstem noradrenergic nuclei is speculative, and no established role exists for this drug class in this rare subtype.
+A second predicted indication, **migraine with brainstem aura** (score 0.9926), has no trials and no publications. Its high score probably reflects its close ontological relationship to migraine disorder rather than independent evidence. An alpha-2 agonist effect on brainstem noradrenergic nuclei is speculative, and no established role exists for this drug class in this rare subtype.
 
 ## Clinical Trial Evidence
 
@@ -78,10 +78,10 @@ Currently no related clinical trials registered.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA209229 | Lofexidine hydrochloride (Prasco Laboratories) | Tablet, film coated | Not stated; status cancelled |
-| ANDA218699 | Lofexidine hydrochloride (Novadoz Pharmaceuticals) | Tablet, film coated | Not stated; status cancelled |
-| ANDA218613 | Lofexidine (Indoco Remedies) | Tablet, coated | Not stated; status cancelled |
-| ANDA219917 | Lofexidine (ANI Pharmaceuticals) | Tablet | Not stated; status cancelled |
+| NDA209229 | Lofexidine hydrochloride (Prasco Laboratories) | Tablet, film coated | Not stated; status valid |
+| ANDA218699 | Lofexidine hydrochloride (Novadoz Pharmaceuticals) | Tablet, film coated | Not stated; status valid |
+| ANDA218613 | Lofexidine (Indoco Remedies) | Tablet, coated | Not stated; status valid |
+| ANDA219917 | Lofexidine (ANI Pharmaceuticals) | Tablet | Not stated; status valid |
 
 All products are oral tablets.
 
@@ -101,7 +101,7 @@ Please refer to the package insert for warnings and contraindications, as this i
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a computational score. There are no clinical trials, and the single publication is a drug-news roundup with no migraine data for lofexidine. All US authorizations are also cancelled, and the package insert safety information is missing.
+The prediction rests only on a computational score. There are no clinical trials, and the single publication is a drug-news roundup with no migraine data for lofexidine. The drug is marketed in the US, with 4 of 4 licenses valid, but the package insert safety information is missing.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

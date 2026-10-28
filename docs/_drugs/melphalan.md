@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Melphalan
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 896
-evidence_level: L2
-indication_count: 10
+evidence_level: L5
+indication_count: 6
 last_modified_at: 2026-10-14
-description: "Melphalan: predicted new indication Gonadal germ cell tumor (evidence level L2). Approved use: Ovarian cancer (including ovarian adenocarcinoma and ovarian germ cel…"
 monitor_inn: "MELPHALAN"
 predicted_indications: ["female breast carcinoma", "rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "endometrial mucinous adenocarcinoma"]
+description: "Melphalan: predicted new indication Female breast carcinoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Melphalan
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,32 +33,31 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-## Melphalan: From Ovarian Cancer to Gonadal Germ Cell Tumor
+## Melphalan: Female breast carcinoma
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Melphalan is an alkylating chemotherapy agent, originally used for ovarian cancer.
-The TxGNN model predicts it may be effective for **gonadal germ cell tumor**,
 with **7 clinical trials** (4 of them completed Phase 1/2 or Phase 2 studies that include melphalan or a melphalan-containing regimen) and **1 publication** currently supporting this direction. The literature support is very thin.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Ovarian cancer (including ovarian adenocarcinoma and ovarian germ cell tumor subtypes) |
-| Predicted New Indication | Gonadal germ cell tumor |
-| TxGNN Prediction Score | 99.77% |
-| Evidence Level | L2 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 2 (both cancelled) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Female breast carcinoma |
+| TxGNN Prediction Score | 0.9967 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, melphalan is a bifunctional alkylating agent that cross-links DNA and so kills rapidly dividing cells. Its efficacy in ovarian cancer has been established, and mechanistically it may be applicable to gonadal germ cell tumors.
 
-Germ cell tumors are generally highly sensitive to DNA-damaging chemotherapy. This is the rationale for high-dose regimens that include melphalan, followed by autologous stem cell rescue, in relapsed or poor-prognosis disease. Several of the original ovarian indications in the knowledge graph are themselves germ cell histologies (yolk sac tumor, malignant germ cell tumor of ovary, and others). This overlap likely explains the high prediction score.
+Germ cell tumors are generally highly sensitive to DNA-damaging chemotherapy. This is the rationale for high-dose regimens that include melphalan, followed by autologous stem cell rescue, in relapsed or poor-prognosis disease. This overlap likely explains the high prediction score.
 
 The evidence has important limits. In the supporting trials, melphalan is almost always one part of a multi-drug high-dose regimen, so its individual contribution cannot be separated out. The one Phase 2 study that directly targets germ cell tumors (NCT00936936) was a single-arm study of 64 patients, and the data compiled for this report do not include its efficacy results.
 
@@ -84,17 +83,15 @@ The evidence has important limits. In the supporting trials, melphalan is almost
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA207155 | EVOMELA (Acrotech Biopharma) | Injection, powder, lyophilized, for solution | Not available (status: cancelled) |
-| NDA217110 | IVRA (Apotex) | Injection, solution | Not available (status: cancelled) |
+| NDA207155 | EVOMELA (Acrotech Biopharma) | Injection, powder, lyophilized, for solution | Not available (status: valid) |
+| NDA217110 | IVRA (Apotex) | Injection, solution | Not available (status: valid) |
 
 ## Cytotoxicity
 
 | Item | Content |
 |------|------|
 | Cytotoxicity Classification | Conventional cytotoxic (alkylating agent, nitrogen mustard class) |
-| Myelosuppression Risk | High. The knowledge graph links melphalan to neutropenia, leukopenia, thrombocytopenia, anemia and agranulocytosis. |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | CBC with differential, liver and renal function. Pulmonary status should also be followed given the graph links to interstitial lung disease and pulmonary fibrosis. |
 | Handling Protection | Must follow cytotoxic drug handling regulations |
 
 ## Safety Considerations

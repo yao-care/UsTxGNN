@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "TERAZOSIN"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "migraine disorder", "migraine with brainstem aura", "Raynaud disease", "Ambras type hypertrichosis universalis congenita", "manic bipolar affective disorder", "kyphoscoliotic heart disease"]
 last_modified_at: 2026-10-14
-description: "Terazosin: predicted new indication Hypotrichosis simplex of the scalp (evidence level L5). Approved use: Hypertension"
+description: "Terazosin: predicted new indication Hypotrichosis simplex of the scalp (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Terazosin
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Terazosin: From Hypertension and Benign Prostatic Hyperplasia to Hypotrichosis Simplex of the Scalp
+## Terazosin: Hypotrichosis simplex of the scalp
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ Among the other predicted indications, **Raynaud disease** and **migraine** have
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension; benign prostatic hyperplasia |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Hypotrichosis simplex of the scalp |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of NDAs | 5 (all cancelled; listed as ANDAs) |
 | Recommended Decision | Hold |
 
@@ -58,13 +58,13 @@ Among the other predicted indications, **Raynaud disease** and **migraine** have
 
 Currently, detailed mechanism of action data is not available. Based on known information, terazosin is an alpha-1 adrenergic blocker. Its effect in hypertension and benign prostatic hyperplasia comes from relaxing vascular and prostatic smooth muscle.
 
-For hypotrichosis simplex of the scalp, the mechanistic rationale is weak. Hypotrichosis simplex is a genetic disorder of hair growth. A link to hair follicle biology, for example through the antihypertensive minoxidil, is only an analogy and not evidence. A vasodilatory effect on scalp microcirculation is speculative, and alpha-1 blockade is unlikely to correct an underlying genetic defect. The high score probably reflects proximity to other hair-related conditions in the knowledge graph rather than true biological relevance.
+For hypotrichosis simplex of the scalp, the mechanistic rationale is weak. Hypotrichosis simplex is a genetic disorder of hair growth. A link to hair follicle biology, for example through the antihypertensive minoxidil, is only an analogy and not evidence. A vasodilatory effect on scalp microcirculation is speculative, and alpha-1 blockade is unlikely to correct an underlying genetic defect. The high score (0.9997) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 The same applies to the other hair-related predictions (congenital hypotrichosis milia, diffuse alopecia areata, Ambras-type hypertrichosis). Alopecia areata is autoimmune, and Ambras syndrome is an excess-hair condition, the opposite phenotype.
 
 Two other predictions are mechanistically more coherent:
-- **Raynaud disease (score 99.83%):** Alpha-1 blockade causes peripheral vasodilation, which plausibly reduces vasospastic attacks.
-- **Migraine disorder (score 99.92%):** Alpha-1 blockade may modulate vascular tone and sympathetic activity relevant to migraine.
+- **Raynaud disease (score 0.9983):** Alpha-1 blockade causes peripheral vasodilation, which plausibly reduces vasospastic attacks.
+- **Migraine disorder (score 0.9992):** Alpha-1 blockade may modulate vascular tone and sympathetic activity relevant to migraine.
 
 ## Clinical Trial Evidence
 
@@ -87,11 +87,11 @@ The literature below relates to other predicted indications from the same candid
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA075317 | Terazosin (Jubilant Cadista) | Capsule | Not listed (cancelled) |
-| ANDA074823 | Terazosin Hydrochloride (Aphena Pharma Solutions) | Capsule | Not listed (cancelled) |
-| ANDA075667 | Terazosin (Bionpharma) | Capsule | Not listed (cancelled) |
-| ANDA075614 | Terazosin (Chartwell RX) | Capsule | Not listed (cancelled) |
-| ANDA219482 | Terazosin (Ajanta Pharma USA) | Capsule | Not listed (cancelled) |
+| ANDA075317 | Terazosin (Jubilant Cadista) | Capsule | Not listed (valid) |
+| ANDA074823 | Terazosin Hydrochloride (Aphena Pharma Solutions) | Capsule | Not listed (valid) |
+| ANDA075667 | Terazosin (Bionpharma) | Capsule | Not listed (valid) |
+| ANDA075614 | Terazosin (Chartwell RX) | Capsule | Not listed (valid) |
+| ANDA219482 | Terazosin (Ajanta Pharma USA) | Capsule | Not listed (valid) |
 
 ## Safety Considerations
 
@@ -106,14 +106,14 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The top prediction, hypotrichosis simplex of the scalp, has a very high model score but no trials or literature, and a weak mechanistic basis for a genetic hair disorder. Every hair-related prediction is at L4 or L5 evidence. Terazosin currently has no valid US licenses.
+The top prediction, hypotrichosis simplex of the scalp, has a very high model score but no trials or literature, and a weak mechanistic basis for a genetic hair disorder. Every hair-related prediction is at L4 or L5 evidence.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data
 - If pursuing this candidate list, prioritize **Raynaud disease** and **migraine**: these have older, small studies and need controlled trials, with comparison to established agents such as calcium channel blockers for Raynaud disease
 - For the hair-related predictions, preclinical evidence on follicle biology before any clinical consideration
-- Clarification of the regulatory path, since all five US licenses are cancelled
+- Clarification of the regulatory path, since 5 US licenses are valid
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

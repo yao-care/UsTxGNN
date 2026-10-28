@@ -46,17 +46,17 @@ Human secretin is a gastrointestinal peptide hormone, marketed in the US as the 
 |------|------|
 | Original Indication | Not stated in the data compiled for this report |
 | Predicted New Indication | Open-angle glaucoma |
-| TxGNN Prediction Score | 99.95% |
+| TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on general pharmacology, human secretin is a gastrointestinal peptide hormone that acts on secretin receptors (Gs-coupled, raising cAMP) in pancreatic ductal cells. No approved indication text was available in the data compiled for this report, so the relationship between the original use and glaucoma cannot be assessed.
 
-The data do not establish a mechanistic link to open-angle glaucoma. The score appears to come from knowledge-graph proximity rather than a biological rationale, and any ocular relevance would be speculative.
+The data do not establish a mechanistic link to open-angle glaucoma. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, and any ocular relevance would be speculative.
 
 The other top predictions point the same way. They include other glaucoma types, hair disorders (hypotrichosis, alopecia, and also its opposite, hypertrichosis), and congenital malformation syndromes. This clustering suggests the model is capturing generic neighborhood effects rather than directional pharmacology. All ten top predictions have Evidence Level L5 and a "Hold" recommendation.
 
@@ -72,7 +72,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA021256 | ChiRhoStim (ChiRhoClin, Inc.) | Injection, powder, lyophilized, for solution | Not listed; status: cancelled |
+| NDA021256 | ChiRhoStim (ChiRhoClin, Inc.) | Injection, powder, lyophilized, for solution | Not listed; status: valid |
 
 ## Safety Considerations
 

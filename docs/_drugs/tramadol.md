@@ -4,17 +4,17 @@ title: Tramadol
 parent: Model Prediction Only (L5)
 nav_order: 1246
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
 description: "Tramadol: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). Approved use: Osteoarthritis (also osteoarthritis susceptibility and arthropathy)"
 monitor_inn: "TRAMADOL"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "spondyloarthropathy, susceptibility to", "juvenile idiopathic arthritis", "juvenile arthritis due to defect in LACC1", "rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"]
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "juvenile idiopathic arthritis", "juvenile arthritis due to defect in LACC1", "rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"]
 ---
 
 # Tramadol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ but **no clinical trials** and **no publications** currently support this predic
 |------|------|
 | Original Indication | Osteoarthritis (also osteoarthritis susceptibility and arthropathy) |
 | Predicted New Indication | Acromesomelic dysplasia, Hunter-Thompson type |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
+| US Market Status | Marketed (valid licenses on record: at least 10) |
 | Number of NDAs | 10 |
 | Recommended Decision | Hold |
 
@@ -58,7 +58,7 @@ but **no clinical trials** and **no publications** currently support this predic
 
 Currently, detailed mechanism of action data is not available from the data compiled for this report. Based on general pharmacology, tramadol is a mu-opioid receptor agonist that also inhibits serotonin and norepinephrine reuptake, which gives it symptomatic pain-relieving effects.
 
-The predicted disease is a rare genetic skeletal dysplasia caused by a defect in the CDMP1/GDF5 pathway that affects bone growth. Tramadol does not address this underlying pathology. The very high TxGNN score most likely reflects proximity in the knowledge graph to musculoskeletal terms linked to the original indications, rather than a true biological link. At most, tramadol could offer symptomatic analgesia.
+The predicted disease is a rare genetic skeletal dysplasia caused by a defect in the CDMP1/GDF5 pathway that affects bone growth. Tramadol does not address this underlying pathology. The very high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. At most, tramadol could offer symptomatic analgesia.
 
 Other top-ranked predictions show the same pattern: rare skeletal dysplasias (brachyolmia, pseudoachondroplasia), juvenile arthritis subtypes and related connective-tissue conditions. None has a credible disease-modifying link to tramadol.
 
@@ -82,7 +82,7 @@ For reference, the only publication found among the top 10 predictions (for juve
 | ANDA076003 | Tramadol Hydrochloride | Tablet, coated | Not available |
 | ANDA075968 | Tramadol Hydrochloride | Tablet | Not available |
 
-All 10 authorizations are listed as cancelled; the five main ones are shown above. No currently valid single-ingredient or combination authorization was found.
+All 10 authorizations are listed as valid; the five main ones are shown above.
 
 ## Safety Considerations
 
@@ -97,7 +97,7 @@ Please refer to the package insert for the full warnings and contraindications, 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score, with no clinical trials, no literature and no credible mechanistic link. The high score appears to be an artifact of graph proximity. Tramadol would at best provide symptomatic pain relief, not treatment of the underlying genetic disorder. Its US authorizations are also all cancelled.
+The prediction is supported only by a model score, with no clinical trials, no literature and no credible mechanistic link. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Tramadol would at best provide symptomatic pain relief, not treatment of the underlying genetic disorder. Its 10 US authorizations are also all valid.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

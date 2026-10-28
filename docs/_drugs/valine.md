@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "VALINE"
 predicted_indications: ["sclerosing cholangitis", "angle-closure glaucoma", "hyperthyroidism", "aqueous misdirection", "traumatic glaucoma", "neovascular glaucoma", "glaucomatous atrophy of optic disc", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "obsolete bundle branch block", "hyperthyroxinemia"]
 last_modified_at: 2026-10-14
-description: "Valine: predicted new indication Sclerosing cholangitis (evidence level L4). Approved use: Not available"
+description: "Valine: predicted new indication Sclerosing cholangitis (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Valine
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Valine: From an Unspecified Original Indication to Sclerosing Cholangitis
+## Valine: Sclerosing cholangitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,12 +47,12 @@ The TxGNN model predicts it may be useful for **sclerosing cholangitis**, but th
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (the single U.S. record has no approved-indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Sclerosing cholangitis |
-| TxGNN Prediction Score | 99.42% |
+| TxGNN Prediction Score | 0.9942 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 (cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -101,7 +101,7 @@ Please refer to the package insert for safety information. No warnings, contrain
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a high model score and indirect metabolic associations only. There are no clinical trials and no evidence that valine is therapeutic in sclerosing cholangitis. The drug has no active U.S. authorization, and the safety and mechanism data are incomplete.
+The prediction rests on a high model score and indirect metabolic associations only. There are no clinical trials and no evidence that valine is therapeutic in sclerosing cholangitis. authorization, and the safety and mechanism data are incomplete.
 
 **To proceed, the following is needed:**
 - Mechanism of action data (for example from DrugBank) and a hypothesis for why valine would affect cholestatic liver disease

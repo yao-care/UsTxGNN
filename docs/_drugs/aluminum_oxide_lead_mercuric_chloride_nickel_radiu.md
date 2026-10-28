@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Aluminum Oxide Lead Mercuric Chloride Nickel Radiu
@@ -51,7 +52,7 @@ Due to the absence of both baseline indication data and model output, **this can
 | Predicted New Indication | None — no TxGNN prediction generated |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | N/A (below L5 — no prediction, no supporting studies) |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 3) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

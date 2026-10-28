@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "ESKETAMINE"
 predicted_indications: ["agoraphobia", "benign paroxysmal torticollis of infancy"]
 last_modified_at: 2026-10-14
-description: "Esketamine: predicted new indication Agoraphobia (evidence level L5). Approved use: Anxiety disorder, neurotic disorder, dysthymic disorder"
+description: "Esketamine: predicted new indication Agoraphobia (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Esketamine
@@ -33,12 +33,12 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-## Esketamine: From Anxiety Disorder to Agoraphobia
+## Esketamine: Agoraphobia
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Esketamine was originally associated with anxiety-spectrum conditions (anxiety disorder, neurotic disorder, dysthymic disorder) in the knowledge graph used for this analysis.
+Any association of esketamine with anxiety-spectrum conditions (anxiety disorder, neurotic disorder, dysthymic disorder) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 The TxGNN model predicts it may be effective for **agoraphobia**,
 but **no clinical trials and no publications** were found to support this direction, so it is a model-derived signal only.
 
@@ -46,12 +46,12 @@ but **no clinical trials and no publications** were found to support this direct
 
 | Item | Content |
 |------|------|
-| Original Indication | Anxiety disorder, neurotic disorder, dysthymic disorder (from the knowledge graph; no approved-indication text is available for the US license) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Agoraphobia |
-| TxGNN Prediction Score | 99.57% |
+| TxGNN Prediction Score | 0.9957 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,9 +60,9 @@ Detailed mechanism-of-action data for esketamine is not available in the data co
 
 Agoraphobia is usually classed with the anxiety disorders and often occurs together with panic disorder. Because esketamine's listed original indications (anxiety disorder, neurotic disorder) are close neighbors of agoraphobia, the prediction is biologically plausible on grounds of disease proximity.
 
-This is an inference, not evidence. The high model score (0.996) reflects a pattern in the knowledge graph, not any demonstrated clinical benefit.
+This is an inference, not evidence. The high model score (0.9957) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
-**Second predicted indication (for reference):** The model also predicted *benign paroxysmal torticollis of infancy* (score 99.49%). This is a rare, self-limiting pediatric disorder linked to channelopathy (often CACNA1A variants) and related to migraine. It has no evident connection to esketamine's glutamatergic action or its psychiatric indications, and it is likely a knowledge-graph artifact. It is rated L5 with a Hold recommendation and is not evaluated further here.
+**Second predicted indication (for reference):** The model also predicted *benign paroxysmal torticollis of infancy* (score 0.9949). This is a rare, self-limiting pediatric disorder linked to channelopathy (often CACNA1A variants) and related to migraine. It has no evident connection to esketamine's glutamatergic action or its psychiatric indications, and it is likely a TxGNN model (deep learning) artifact. It is rated L5 with a Hold recommendation and is not evaluated further here.
 
 ## Clinical Trial Evidence
 

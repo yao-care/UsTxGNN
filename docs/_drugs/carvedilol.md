@@ -4,17 +4,17 @@ title: Carvedilol
 parent: Model Prediction Only (L5)
 nav_order: 502
 evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-14
-description: "Carvedilol: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Hypertension (hypertensive disorder)"
+indication_count: 4
+last_modified_at: 2026-10-28
 monitor_inn: "CARVEDILOL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
+description: "Carvedilol: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Carvedilol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-## Carvedilol: From Hypertension to Malignant Hypertensive Renal Disease
+## Carvedilol: Malignant hypertensive renal disease
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ but **0 clinical trials** and **0 publications** currently support this specific
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension (hypertensive disorder) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Malignant hypertensive renal disease |
-| TxGNN Prediction Score | 99.55% |
+| TxGNN Prediction Score | 0.9955 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 9) |
 | Number of NDAs | 9 (all cancelled; listed as ANDAs) |
 | Recommended Decision | Hold |
 
@@ -58,13 +58,13 @@ but **0 clinical trials** and **0 publications** currently support this specific
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, carvedilol is a non-selective beta-blocker with alpha-1 blockade. Its blood-pressure-lowering effect is established in hypertension, and mechanistically it may be applicable to hypertension-related kidney damage.
 
-The high TxGNN score most likely reflects how close this disease sits to the original hypertension indication in the knowledge graph. Malignant hypertensive renal disease is essentially a severe complication of hypertension, so this is arguably an extension of the existing indication rather than true repurposing. No trials or literature were found for this specific indication.
+The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Here, the model may be picking up how close this disease sits to the original hypertension indication. Malignant hypertensive renal disease is essentially a severe complication of hypertension, so this is arguably an extension of the existing indication rather than true repurposing. No trials or literature were found for this specific indication.
 
 Other predictions in the same list follow a similar pattern:
-- **Malignant renovascular hypertension** (99.55%): a subtype of hypertension; beta-1 blockade may reduce renin release. No direct evidence.
-- **Pulmonary hypertension, unclear multifactorial mechanism** (99.54%): beta-blockade is controversial in pulmonary arterial hypertension because of possible reduced cardiac output. No direct evidence.
-- **Pulmonary hypertension owing to lung disease and/or hypoxia** (99.54%): only indirect preclinical data, for example carvedilol reversing hypoxia-induced hypertension in rats (PMID 26291659). Evidence level L4, labelled a research question.
-- **Braddock syndrome** (99.37%): no clear mechanistic rationale can be established.
+- **Malignant renovascular hypertension** (0.9955): a subtype of hypertension; beta-1 blockade may reduce renin release. No direct evidence.
+- **Pulmonary hypertension, unclear multifactorial mechanism** (0.9954): beta-blockade is controversial in pulmonary arterial hypertension because of possible reduced cardiac output. No direct evidence.
+- **Pulmonary hypertension owing to lung disease and/or hypoxia** (0.9954): only indirect preclinical data, for example carvedilol reversing hypoxia-induced hypertension in rats (PMID 26291659). Evidence level L4, labelled a research question.
+- **Braddock syndrome** (0.9937): no clear mechanistic rationale can be established.
 
 ## Clinical Trial Evidence
 
@@ -87,7 +87,7 @@ For reference, the closest evidence found for the fourth-ranked prediction (pulm
 
 ## US Market Information
 
-All nine US authorizations are cancelled, and none has approved-indication text on record.
+All nine US authorizations are valid, and none has approved-indication text on record.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -113,7 +113,7 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on knowledge-graph proximity alone, with no trials or literature for malignant hypertensive renal disease, and it largely overlaps with carvedilol's existing hypertension use. All US licenses are also cancelled, and label safety data is missing, which blocks safety screening.
+The prediction comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. There are no trials or literature for malignant hypertensive renal disease, and it largely overlaps with carvedilol's existing hypertension use. The drug is marketed with nine valid US licenses, but label safety data is missing, which blocks safety screening.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (currently a blocking gap)

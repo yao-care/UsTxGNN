@@ -4,17 +4,17 @@ title: Telmisartan
 parent: Model Prediction Only (L5)
 nav_order: 1206
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Telmisartan: predicted new indication Prinzmetal angina (evidence level L5). Approved use: Hypertension"
 monitor_inn: "TELMISARTAN"
 predicted_indications: ["Prinzmetal angina", "brain stem infarction", "ABri amyloidosis", "cerebral artery occlusion", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "intracerebral hemorrhage", "Braddock syndrome"]
+description: "Telmisartan: predicted new indication Prinzmetal angina (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Telmisartan
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Telmisartan: From Hypertension to Prinzmetal Angina
+## Telmisartan: Prinzmetal angina
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,11 +48,11 @@ The data compiled for this report show stronger support for two other candidates
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension (also stroke and cerebrovascular disorders, per the knowledge graph) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Prinzmetal angina |
-| TxGNN Prediction Score | 99.98% |
+| TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 (model prediction only) |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 10) |
 | Number of NDAs | 10 (all cancelled; listed as ANDAs) |
 | Recommended Decision | Hold |
 
@@ -65,8 +65,8 @@ Detailed mechanism of action data is not available in the data compiled for this
 Prinzmetal angina is a coronary vasospasm disorder. Vascular tone modulation through AT1 blockade is a conceivable connection to hypertension treatment, but the prediction currently rests on the model score alone.
 
 Other predictions have more supporting data:
-- **Cerebral artery occlusion** (score 99.95%): animal studies show telmisartan reduces infarct volume, oxidative stress and inflammation after middle cerebral artery occlusion. It sits close to the original stroke and cerebral infarction indications.
-- **Intracerebral hemorrhage** (score 99.93%): blood pressure control is the main modifiable factor for preventing recurrence. The Phase 3 TRIDENT trial tested a single-pill combination of three low-dose antihypertensives, which cannot be attributed to telmisartan alone.
+- **Cerebral artery occlusion** (score 0.9995): animal studies show telmisartan reduces infarct volume, oxidative stress and inflammation after middle cerebral artery occlusion. It sits close to the original stroke and cerebral infarction indications.
+- **Intracerebral hemorrhage** (score 0.9993): blood pressure control is the main modifiable factor for preventing recurrence. The Phase 3 TRIDENT trial tested a single-pill combination of three low-dose antihypertensives, which cannot be attributed to telmisartan alone.
 
 ---
 
@@ -121,15 +121,15 @@ No publications are available for Prinzmetal angina. The tables below show the m
 
 ## US Market Information
 
-Telmisartan has no currently valid US licenses. All 10 records are cancelled generic (ANDA) tablet products, and the approved indication text is not available.
+All 10 records are cancelled generic (ANDA) tablet products, and the approved indication text is not available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA202397 | Telmisartan (A-S Medication Solutions) | Tablet | Not available (cancelled) |
-| ANDA205150 | Telmisartan (Bryant Ranch Prepack) | Tablet | Not available (cancelled) |
-| ANDA203986 | Telmisartan (NorthStar Rx LLC) | Tablet | Not available (cancelled) |
-| ANDA208605 | Telmisartan (Bryant Ranch Prepack) | Tablet | Not available (cancelled) |
-| ANDA090032 | Telmisartan (Glenmark Pharmaceuticals Inc., USA) | Tablet | Not available (cancelled) |
+| ANDA202397 | Telmisartan (A-S Medication Solutions) | Tablet | Not available (valid) |
+| ANDA205150 | Telmisartan (Bryant Ranch Prepack) | Tablet | Not available (valid) |
+| ANDA203986 | Telmisartan (NorthStar Rx LLC) | Tablet | Not available (valid) |
+| ANDA208605 | Telmisartan (Bryant Ranch Prepack) | Tablet | Not available (valid) |
+| ANDA090032 | Telmisartan (Glenmark Pharmaceuticals Inc., USA) | Tablet | Not available (valid) |
 
 ---
 
@@ -139,7 +139,7 @@ Telmisartan has no currently valid US licenses. All 10 records are cancelled gen
 - **Drug Interactions** (100 interactions were found; examples):
   - **Major:** potassium citrate and potassium bicarbonate (risk of raised potassium).
   - **Moderate:** corticosteroids (hydrocortisone, dexamethasone, betamethasone, budesonide, triamcinolone), acetylsalicylic acid, morphine, bupropion, SGLT2 inhibitors (canagliflozin, dapagliflozin, empagliflozin), insulin, exenatide, and bowel-preparation agents.
-- **Specific caution:** ARBs carry known risks in renovascular disease such as bilateral renal artery stenosis. This matters for the malignant renovascular hypertension prediction.
+- **Specific caution:** ARBs carry known risks in renovascular disease such as bilateral renal artery stenosis.
 
 Please refer to the package insert for official warnings and contraindications.
 
@@ -150,7 +150,7 @@ Please refer to the package insert for official warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The top prediction, Prinzmetal angina, has only a model score (99.98%) with no trials or publications, so it is Level L5. Other candidates are better supported. Intracerebral hemorrhage has a Phase 3 trial, but it tested a triple combination. Cerebral artery occlusion is supported mainly by animal data. Neither can be attributed to telmisartan alone.
+The top prediction, Prinzmetal angina, has only a model score (0.9998) with no trials or publications, so it is Level L5. Other candidates are better supported. Intracerebral hemorrhage has a Phase 3 trial, but it tested a triple combination. Cerebral artery occlusion is supported mainly by animal data. Neither can be attributed to telmisartan alone.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
@@ -158,7 +158,7 @@ The top prediction, Prinzmetal angina, has only a model score (99.98%) with no t
 - Any clinical or mechanistic evidence for Prinzmetal angina
 - TRIDENT result details and any component-level analysis for intracerebral hemorrhage
 - A clinical (not animal) study of telmisartan alone in cerebral artery occlusion
-- A review of the regulatory position, since all US licenses are cancelled
+- A review of the regulatory position, since the drug is marketed and 10 licenses are valid
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "LANREOTIDE"
 predicted_indications: ["hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "Ambras type hypertrichosis universalis congenita"]
 last_modified_at: 2026-10-14
-description: "Lanreotide: predicted new indication Hypertrichosis (evidence level L5). Approved use: Acromegaly, hyperpituitarism, pituitary gigantism"
+description: "Lanreotide: predicted new indication Hypertrichosis (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Lanreotide
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-## Lanreotide: From Acromegaly to Hypertrichosis
+## Lanreotide: Hypertrichosis (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,21 +45,21 @@ The TxGNN model predicts it may be effective for **hypertrichosis**, but **no cl
 
 | Item | Content |
 |------|------|
-| Original Indication | Acromegaly, hyperpituitarism, pituitary gigantism (from the knowledge graph; no approved indication text is available in the US license records) |
-| Predicted New Indication | Hypertrichosis |
-| TxGNN Prediction Score | 99.97% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Hypertrichosis (disease) |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 3 (all cancelled; 2 NDAs and 1 ANDA) |
+| US Market Status | Marketed (valid licenses: 3 of 3) |
+| Number of NDAs | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, lanreotide is a somatostatin analog that suppresses growth hormone (GH) and IGF-1 signaling. Its efficacy in GH-excess conditions such as acromegaly is the basis of its original use.
 
-A link to hair growth regulation is conceivable, since GH/IGF-1 signaling can influence hair follicles. However, this is speculative. Hypertrichosis is usually a drug-induced or genetic phenotype, so a causal or therapeutic rationale for lanreotide has not been established. The high score may reflect shared features in the knowledge graph rather than a true therapeutic relationship.
+A link to hair growth regulation is conceivable, since GH/IGF-1 signaling can influence hair follicles. However, this is speculative. Hypertrichosis is usually a drug-induced or genetic phenotype, so a causal or therapeutic rationale for lanreotide has not been established. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
-The other top predictions (malformation syndrome with odontal/periodontal component, Dandy-Walker malformation syndrome, isolated genetic hair shaft abnormality, and Ambras type hypertrichosis universalis congenita) all scored between 99.96% and 99.97%. They also have no supporting trials or literature. The two hypertrichosis-related predictions are likely correlated rather than independent evidence. The remaining ones are structural or genetic conditions that a hormone-modulating drug is unlikely to reverse.
+The other top predictions (malformation syndrome with odontal/periodontal component, Dandy-Walker malformation syndrome, isolated genetic hair shaft abnormality, and Ambras type hypertrichosis universalis congenita) all scored between 0.9996 and 0.9997. They also have no supporting trials or literature. The two hypertrichosis-related predictions are likely correlated rather than independent evidence. The remaining ones are structural or genetic conditions that a hormone-modulating drug is unlikely to reverse.
 
 ## Clinical Trial Evidence
 
@@ -73,9 +73,9 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication | Status |
 |---------|------|------|-----------|------|
-| ANDA217193 | Lanreotide Acetate (Exelan Pharmaceuticals) | Injection | Not available | Cancelled |
-| NDA022074 | Somatuline Depot (Ipsen Biopharmaceuticals) | Injection | Not available | Cancelled |
-| NDA215395 | Lanreotide Acetate (Cipla USA) | Injection | Not available | Cancelled |
+| ANDA217193 | Lanreotide Acetate (Exelan Pharmaceuticals) | Injection | Not available | Valid |
+| NDA022074 | Somatuline Depot (Ipsen Biopharmaceuticals) | Injection | Not available | Valid |
+| NDA215395 | Lanreotide Acetate (Cipla USA) | Injection | Not available | Valid |
 
 ## Safety Considerations
 
@@ -94,14 +94,14 @@ Please refer to the package insert for label warnings and contraindications, as 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score (Evidence Level L5), with no trials, no literature, and no plausible established mechanism. No US license for lanreotide is currently valid, and label safety information could not be obtained, so the safety screen cannot proceed.
+The prediction is supported only by a model score (Evidence Level L5), with no trials, no literature, and no plausible established mechanism.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (from FDA sources)
 - Mechanism of action data (e.g., from DrugBank)
 - A literature and trial search for lanreotide or somatostatin analogs in hypertrichosis and hair disorders
 - Preclinical or mechanistic evidence linking GH/IGF-1 suppression to hair growth
-- Clarification of the current US regulatory and commercial status, given that all licenses are cancelled
+- Clarification of the current US regulatory and commercial status; the drug is marketed, with 3 of 3 licenses valid
 - A route and formulation compatibility assessment for the proposed indication
 ## Disclaimer
 

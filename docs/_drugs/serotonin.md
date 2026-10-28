@@ -4,17 +4,17 @@ title: Serotonin
 parent: Moderate Evidence (L3-L4)
 nav_order: 1156
 evidence_level: L4
-indication_count: 10
+indication_count: 9
 monitor_inn: "SEROTONIN"
-predicted_indications: ["insomnia (disease)", "anxiety disorder", "migraine disorder", "anxiety", "agoraphobia", "migraine with brainstem aura", "benign paroxysmal torticollis of infancy", "migraine with or without aura, susceptibility to", "manic bipolar affective disorder", "atrophoderma vermiculata"]
+predicted_indications: ["insomnia (disease)", "anxiety disorder", "migraine disorder", "anxiety", "agoraphobia", "migraine with brainstem aura", "benign paroxysmal torticollis of infancy", "manic bipolar affective disorder", "atrophoderma vermiculata"]
 last_modified_at: 2026-10-14
-description: "Serotonin: predicted new indication Insomnia (evidence level L4). Approved use: Not available (no approved indication text on file)"
+description: "Serotonin: predicted new indication Insomnia (disease) (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Serotonin
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Serotonin: From an Unspecified Original Indication to Insomnia
+## Serotonin: Insomnia (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ The prediction is a network-based signal, not clinical evidence.
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (no approved indication text on file) |
-| Predicted New Indication | Insomnia |
-| TxGNN Prediction Score | 99.90% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Insomnia (disease) |
+| TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 (cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -95,7 +95,6 @@ For the other top predictions, the evidence is similar in nature. Anxiety has on
 |---------|------|------|-----------|
 | Not available | Serotonin (BioActive Nutritional) | Liquid | Not available; status: cancelled |
 
-There are no currently valid single-ingredient or combination licenses.
 
 ## Safety Considerations
 

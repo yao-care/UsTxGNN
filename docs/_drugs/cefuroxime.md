@@ -4,9 +4,9 @@ title: Cefuroxime
 parent: Model Prediction Only (L5)
 nav_order: 509
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "CEFUROXIME"
-predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "Peptostreptococcus infectious disease", "blood group incompatibility", "urinary tract infection (disease)", "premalignant hematological system disease", "monoclonal gammopathy", "suppurative otitis media", "hematological disease associated with an acquired peripheral neuropathy"]
+predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "Peptostreptococcus infectious disease", "blood group incompatibility", "urinary tract infection (disease)", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
 last_modified_at: 2026-10-14
 description: "Cefuroxime: predicted new indication Polyclonal hyperviscosity syndrome (evidence level L5). Approved use: Bacterial infections (otitis media, pneumonia, meningitis, gonorrhea…"
 ---
@@ -14,7 +14,7 @@ description: "Cefuroxime: predicted new indication Polyclonal hyperviscosity syn
 # Cefuroxime
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Cefuroxime: From Bacterial Infections to Urinary Tract Infection
+## Cefuroxime: From Bacterial Infections to Polyclonal Hyperviscosity Syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -51,10 +51,10 @@ The TxGNN model's top-ranked prediction is **polyclonal hyperviscosity syndrome*
 |------|------|
 | Original Indication | Bacterial infections (otitis media, pneumonia, meningitis, gonorrhea, Lyme disease, etc.). The data compiled for this report contain no label indication text. |
 | Predicted New Indication (rank 1) | Polyclonal hyperviscosity syndrome |
-| TxGNN Prediction Score (rank 1) | 99.76% |
+| TxGNN Prediction Score (rank 1) | 0.9976 |
 | Evidence Level (rank 1) | L5 |
-| Best-Supported Candidate | Urinary tract infection (score 99.62%, Evidence Level L3) |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| Best-Supported Candidate | Polyclonal hyperviscosity syndrome |
+| US Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of NDAs/ANDAs | 5 (all cancelled) |
 | Recommended Decision | Hold (rank 1); UTI is a research question |
 
@@ -64,11 +64,11 @@ The TxGNN model's top-ranked prediction is **polyclonal hyperviscosity syndrome*
 
 Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, cefuroxime is a beta-lactam antibiotic that inhibits bacterial cell wall synthesis.
 
-**Rank 1 (polyclonal hyperviscosity syndrome):** There is no identifiable mechanistic link. This is a plasma protein and immunoglobulin disorder, and an antibacterial has no known effect on it. The high score is a graph-based artifact with no trial or literature support. The same applies to the other top-scoring predictions with no evidence, such as hyperamylasemia, congenital analbuminemia, premalignant hematological system disease and blood group incompatibility.
+**Rank 1 (polyclonal hyperviscosity syndrome):** There is no identifiable mechanistic link. This is a plasma protein and immunoglobulin disorder, and an antibacterial has no known effect on it. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, and there is no trial or literature support. The same applies to the other top-scoring predictions with no evidence, such as hyperamylasemia, congenital analbuminemia, premalignant hematological system disease and blood group incompatibility.
 
 **Best-supported candidate (UTI):** Cefuroxime is active against common uropathogens such as *E. coli*, *Klebsiella* and *Proteus*, so the mechanism is biologically coherent. UTI is also close to cefuroxime's already-labeled bacterial infection indications, so this is an extension of existing use rather than novel repurposing. Rising resistance and the cancelled-only US market status limit its practical value.
 
-**Other candidates:** Suppurative otitis media overlaps with an already-labeled indication, and the evidence is indirect (reviews and susceptibility studies). Peptostreptococcus infection is plausible for a beta-lactam, but the only evidence is a 1981 in-vitro paper centered on ceftazidime.
+**Other candidates:** Peptostreptococcus infection is plausible for a beta-lactam, but the only evidence is a 1981 in-vitro paper centered on ceftazidime.
 
 ---
 
@@ -105,15 +105,15 @@ Selected publications linked to UTI (rank 6), prioritizing comparative and revie
 
 ## US Market Information
 
-All five US authorizations are cancelled; no currently valid license exists. Approved-indication text is not available in the data compiled for this report.
+All five US authorizations are valid, and the drug is marketed. Approved-indication text is not available in the data compiled for this report.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA065048 | Cefuroxime (Hikma) | Injection, powder, for solution | Not available (cancelled) |
-| ANDA065308 | Cefuroxime Axetil (NorthStar Rx) | Tablet | Not available (cancelled) |
-| ANDA065496 | Cefuroxime axetil (A-S Medication Solutions) | Tablet, film coated | Not available (cancelled) |
-| ANDA064125 | Cefuroxime sodium (Sagent) | Injection, powder, for solution | Not available (cancelled) |
-| NDA050780 | Cefuroxime and Dextrose (B. Braun) | Injection, solution | Not available (cancelled) |
+| ANDA065048 | Cefuroxime (Hikma) | Injection, powder, for solution | Not available (valid) |
+| ANDA065308 | Cefuroxime Axetil (NorthStar Rx) | Tablet | Not available (valid) |
+| ANDA065496 | Cefuroxime axetil (A-S Medication Solutions) | Tablet, film coated | Not available (valid) |
+| ANDA064125 | Cefuroxime sodium (Sagent) | Injection, powder, for solution | Not available (valid) |
+| NDA050780 | Cefuroxime and Dextrose (B. Braun) | Injection, solution | Not available (valid) |
 
 ---
 
@@ -142,7 +142,7 @@ Please refer to the package insert for warnings and contraindications from the l
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism-of-action data from DrugBank
 - Cefuroxime-specific comparative trials for UTI, if pursued
-- Confirmation of whether a currently marketed cefuroxime product exists in the US, since all listed licenses are cancelled
+- Confirmation of which cefuroxime products are currently marketed in the US, since five valid licenses are listed
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

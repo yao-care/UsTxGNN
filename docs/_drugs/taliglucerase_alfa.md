@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **Hurler syndrome**, but **no c
 |------|------|
 | Original Indication | Gaucher disease |
 | Predicted New Indication | Hurler syndrome |
-| TxGNN Prediction Score | 99.52% |
+| TxGNN Prediction Score | 0.9952 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no active marketing authorization) |
-| Number of NDAs | 1 (BLA022458, cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -65,10 +65,10 @@ The mechanistic support is weak, however. Glucocerebrosidase does not act on der
 
 | Rank | Predicted Indication | TxGNN Score | Assessment |
 |------|------|------|------|
-| 2 | Scheie syndrome | 99.29% | Attenuated form of MPS I. Same reasoning and same limits as Hurler syndrome. |
-| 3 | Benign neoplasm of adrenal gland | 99.28% | Likely a graph artifact. Adrenal adenomas are reported in Gaucher patients, but this reflects co-occurrence, not a therapeutic target. |
-| 4 | Autosomal ichthyosis syndrome with fatal disease course | 99.24% | Speculative link through skin ceramide metabolism. The disease term is ambiguous, and systemic enzyme is unlikely to reach the epidermal barrier. |
-| 5 | Cholesteryl ester storage disease | 99.12% | Shared lysosomal pathology and liver/spleen involvement. Glucocerebrosidase does not act on cholesteryl esters, and sebelipase alfa is already approved. |
+| 2 | Scheie syndrome | 0.9929 | Attenuated form of MPS I. Same reasoning and same limits as Hurler syndrome. |
+| 3 | Benign neoplasm of adrenal gland | 0.9928 | The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Adrenal adenomas are reported in Gaucher patients, but this reflects co-occurrence, not a therapeutic target. |
+| 4 | Autosomal ichthyosis syndrome with fatal disease course | 0.9924 | Speculative link through skin ceramide metabolism. The disease term is ambiguous, and systemic enzyme is unlikely to reach the epidermal barrier. |
+| 5 | Cholesteryl ester storage disease | 0.9912 | Shared lysosomal pathology and liver/spleen involvement. Glucocerebrosidase does not act on cholesteryl esters, and sebelipase alfa is already approved. |
 
 ## Clinical Trial Evidence
 

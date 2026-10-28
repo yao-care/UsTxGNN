@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Arnica Montana Magnesium Sulfate Unspecified Witch
@@ -51,7 +52,7 @@ Without an anchor compound or mapped indication, a meaningful evidence-level ass
 | Predicted New Indication | No prediction available |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 – Model prediction not generated |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 14) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 

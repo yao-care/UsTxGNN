@@ -48,17 +48,17 @@ The prediction rests only on a computational score.
 |------|------|
 | Original Indication | Not available in the compiled data |
 | Predicted New Indication | Drug-induced osteoporosis |
-| TxGNN Prediction Score | 99.22% |
+| TxGNN Prediction Score | 0.9922 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (the single NDA is cancelled) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available in the data compiled for this report. Selinexor is generally known as an XPO1 (exportin-1) inhibitor, which blocks the nuclear export of regulatory proteins. A possible link to bone biology would run through nuclear export of regulators involved in osteoclast and osteoblast signaling. This is speculative and not supported by the supplied data.
 
-There is also a caution. Selinexor is associated with nausea, anorexia, weight loss, fatigue and cytopenias, which could plausibly worsen bone health in frail oncology patients. No evidence shows that it treats or prevents drug-induced osteoporosis. The high TxGNN score (0.992) is a computational prediction, not clinical evidence.
+There is also a caution. Selinexor is associated with nausea, anorexia, weight loss, fatigue and cytopenias, which could plausibly worsen bone health in frail oncology patients. No evidence shows that it treats or prevents drug-induced osteoporosis. The high TxGNN score (0.9922) is a computational prediction, not clinical evidence.
 
 ## Clinical Trial Evidence
 

@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Rabeprazole
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 1103
-evidence_level: L5
-indication_count: 2
-last_modified_at: 2026-10-14
-description: "Rabeprazole: predicted new indication Smouldering systemic mastocytosis (evidence level L5). Approved use: Peptic ulcer disease, gastroesophageal reflux disease…"
-monitor_inn: "RABEPRAZOLE"
-predicted_indications: ["lymphoadenopathic mastocytosis with eosinophilia"]
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Rabeprazole: known uses and market status in the United States; currently no new candidate indication"
+predicted_indications: []
 ---
 
 # Rabeprazole
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **2** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,54 +32,54 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-## Rabeprazole: From Peptic Ulcer and Acid-Related Disease to Smouldering Systemic Mastocytosis
+<!-- known-uses-page -->
+<!-- description: Rabeprazole: known uses and market status in the United States; currently no new candidate indication -->
+## Rabeprazole: Known uses and market status in the United States
 {: .text-alpha }
 
-## One-Sentence Summary
+## Summary
+The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Rabeprazole, but every candidate that can be traced to a source is already a known use. There is therefore currently no new predicted indication for this drug. The two known uses below appear only as relations in the knowledge graph, and no approval was found for them.
 
-Rabeprazole is a proton pump inhibitor originally used for acid-related conditions such as peptic ulcer disease, gastroesophageal reflux disease, and Zollinger-Ellison syndrome.
-The TxGNN model predicts it may be effective for **Smouldering systemic mastocytosis**,
-but currently there are **0 clinical trials** and **0 publications** supporting this direction, so the prediction rests on the model score alone.
-
-## Quick Overview
-
+## Quick overview
 | Item | Content |
 |------|------|
-| Original Indication | Peptic ulcer disease, gastroesophageal reflux disease, and related acid-related conditions (no approved indication text is available in the US license records) |
-| Predicted New Indication | Smouldering systemic mastocytosis |
-| TxGNN Prediction Score | 99.44% |
-| Evidence Level | L5 |
-| US Market Status | Cancelled only (all licenses cancelled) |
-| Number of NDAs | 7 (1 NDA and 6 ANDAs, all cancelled) |
-| Recommended Decision | Hold |
+| New predicted indications | None (all traceable model candidates are known uses) |
+| Known uses among model candidates | 2 |
+| Evidence level | Not applicable |
+| Market status in the United States | Marketed (valid licenses on record: at least 7) |
+| Number of NDAs | at least 7 |
 
-## Why is This Prediction Reasonable?
+## Known uses among the model's candidates
 
-Currently, detailed mechanism of action data is not available. Based on known information, rabeprazole is a proton pump inhibitor, its efficacy in acid-related disease is established, and the knowledge graph already links it to systemic mastocytosis and mastocytosis.
+### Approved (supported by a licence or label)
+| Indication | Source |
+|------|------|
+| none | none |
 
-The most plausible link is symptomatic. Mast cell mediators such as histamine can drive gastric acid hypersecretion and peptic disease, and acid suppression helps control these problems. This is symptom control, not activity against the underlying clonal mast cell proliferation.
+### Related to an approved indication (same disease category)
+| Indication | Approved category |
+|------|------|
+| none | none |
 
-The prediction therefore most likely reflects closeness to the existing mastocytosis indications in the knowledge graph rather than a new mechanism. A second prediction, lymphoadenopathic mastocytosis with eosinophilia (score 99.35%), follows the same reasoning and has no supporting trials or literature either.
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-## Literature Evidence
-
-Currently no related literature available.
+### Relations recorded in the knowledge graph (no approval found)
+| Indication |
+|------|
+| Smouldering systemic mastocytosis |
+| lymphoadenopathic mastocytosis with eosinophilia |
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA020973 | Aciphex (Waylis Therapeutics LLC) | Delayed-release tablet | Not available; license cancelled |
-| ANDA090678 | Rabeprazole Sodium (Lannett Company) | Delayed-release tablet | Not available; license cancelled |
-| ANDA208644 | Rabeprazole Sodium (RemedyRepack) | Delayed-release tablet | Not available; license cancelled |
-| ANDA204237 | Rabeprazole Sodium (Advanced Rx of Tennessee) | Delayed-release tablet | Not available; license cancelled |
-| ANDA205761 | Rabeprazole Sodium (Direct Rx) | Delayed-release tablet | Not available; license cancelled |
+| Licence | Product | Dosage form | Status |
+|------|------|------|------|
+| ANDA090678 | Rabeprazole Sodium | TABLET, DELAYED RELEASE | Valid |
+| ANDA208644 | Rabeprazole Sodium | TABLET, DELAYED RELEASE | Valid |
+| ANDA204237 | rabeprazole sodium | TABLET, DELAYED RELEASE | Valid |
+| ANDA205761 | RABEPRAZOLE SODIUM | TABLET, DELAYED RELEASE | Valid |
+| ANDA202376 | Rabeprazole sodium | TABLET, DELAYED RELEASE | Valid |
+| ANDA204179 | Rabeprazole | TABLET, DELAYED RELEASE | Valid |
+| NDA020973 | rabeprazole sodium | TABLET, DELAYED RELEASE | Valid |
 
-Two further cancelled ANDAs (ANDA202376, Torrent; ANDA204179, Amneal) are also on record, making 7 in total.
+Only part of the licence list is held in the data; the list may be incomplete.
 
 ## Safety Considerations
 
@@ -94,19 +93,6 @@ Two further cancelled ANDAs (ANDA202376, Torrent; ANDA204179, Amneal) are also o
 
 Please refer to the package insert for label warnings and contraindications.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The only support is a high model score. There are no registered trials or publications, the likely benefit is symptomatic acid suppression rather than disease modification, and all US licenses are cancelled.
-
-**To proceed, the following is needed:**
-- The FDA package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data for rabeprazole
-- A literature and trial search on proton pump inhibitors in mastocytosis to test whether any evidence exists beyond symptom control
-- A clear definition of the target outcome (symptom control versus disease modification) and a check of route compatibility
-- A review of the full drug interaction list, especially the major interactions
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

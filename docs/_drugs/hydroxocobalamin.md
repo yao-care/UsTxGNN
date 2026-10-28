@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "HYDROXOCOBALAMIN"
 predicted_indications: ["esophageal varices with bleeding", "esophageal varices without bleeding"]
 last_modified_at: 2026-10-14
-description: "Hydroxocobalamin: predicted new indication Esophageal varices with bleeding (evidence level L5). Approved use: Vitamin B12 deficiency, pernicious anemia, cyanide poisoning"
+description: "Hydroxocobalamin: predicted new indication Esophageal varices with bleeding (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Hydroxocobalamin
@@ -33,31 +33,31 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-## Hydroxocobalamin: From Vitamin B12 Deficiency to Esophageal Varices with Bleeding
+## Hydroxocobalamin: Esophageal varices with bleeding
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Hydroxocobalamin is a form of vitamin B12, originally used to treat vitamin B12 deficiency, pernicious anemia, and cyanide poisoning.
-The TxGNN model predicts it may be effective for **esophageal varices with bleeding** (and the closely related **esophageal varices without bleeding**), but currently there are **0 clinical trials** and **0 publications** supporting this direction. The prediction rests on the knowledge-graph model alone.
+The TxGNN model predicts it may be effective for **esophageal varices with bleeding** (and the closely related **esophageal varices without bleeding**), but currently there are **0 clinical trials** and **0 publications** supporting this direction. The prediction comes from the TxGNN model (deep learning) alone and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Vitamin B12 deficiency, pernicious anemia, cyanide poisoning (the US license entries contain no approved indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Esophageal varices with bleeding |
-| TxGNN Prediction Score | 99.23% |
+| TxGNN Prediction Score | 0.9923 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 2 (both cancelled) |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, hydroxocobalamin is a vitamin B12 form. Its established actions are acting as a cofactor for methionine synthase and methylmalonyl-CoA mutase, and binding cyanide to form cyanocobalamin. Its efficacy in B12 deficiency and cyanide poisoning is well recognized.
 
-These actions have no recognized role in portal hypertension, variceal formation, or hemostasis. The two predicted indications (with and without bleeding) have identical scores of 99.23%, which suggests they come from the same graph-based association rather than from independent evidence.
+These actions have no recognized role in portal hypertension, variceal formation, or hemostasis. The two predicted indications (with and without bleeding) have identical scores of 0.9923. These scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 One indirect route is possible in theory: hydroxocobalamin can scavenge nitric oxide, which might affect splanchnic vasodilation in portal hypertension. This hypothesis is speculative and untested, and no clinical data in this report support it. Standard care for esophageal varices (non-selective beta-blockers and endoscopic band ligation) is well established, so there is no evident unmet need that would justify prioritizing this candidate without supporting data.
 
@@ -73,10 +73,9 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA085998 | Hydroxocobalamin (Actavis Pharma, Inc.) | Injection, solution | Not listed; status: cancelled |
-| NDA022041 | Cyanokit (BTG International Inc.) | Injection, powder, lyophilized, for solution | Not listed; status: cancelled |
+| ANDA085998 | Hydroxocobalamin (Actavis Pharma, Inc.) | Injection, solution | Not listed; status: valid |
+| NDA022041 | Cyanokit (BTG International Inc.) | Injection, powder, lyophilized, for solution | Not listed; status: valid |
 
-Both products are injectables and both authorizations are cancelled, so no valid US license currently exists for this drug.
 
 ## Safety Considerations
 
@@ -96,7 +95,7 @@ Please refer to the package insert for key warnings and label-based contraindica
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a high model score (99.23%) but no clinical trials, no literature, and no plausible established mechanism. Evidence is at the lowest level (L5). In addition, there is no valid US license at present.
+The prediction has a high model score (0.9923) but no clinical trials, no literature, and no plausible established mechanism. Evidence is at the lowest level (L5).
 
 **To proceed, the following is needed:**
 - Detailed mechanism of action data, and a mechanistic assessment of the nitric oxide scavenging hypothesis in portal hypertension

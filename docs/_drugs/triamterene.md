@@ -4,17 +4,17 @@ title: Triamterene
 parent: Model Prediction Only (L5)
 nav_order: 1258
 evidence_level: L5
-indication_count: 6
-last_modified_at: 2026-10-14
-description: "Triamterene: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Hypertension, congestive heart failure"
+indication_count: 5
+last_modified_at: 2026-10-28
 monitor_inn: "TRIAMTERENE"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease"]
+description: "Triamterene: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Triamterene
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-## Triamterene: From Hypertension to Malignant Hypertensive Renal Disease
+## Triamterene: Malignant hypertensive renal disease
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ but **no clinical trials and no supporting publications** are currently availabl
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension, congestive heart failure (the approved-indication text in the US license records is empty; this comes from the knowledge-graph indication data) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Malignant hypertensive renal disease |
-| TxGNN Prediction Score | 99.89% |
+| TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 3 (1 NDA, 2 ANDAs; all cancelled) |
+| US Market Status | Marketed (valid licenses: 3 of 3) |
+| Number of NDAs | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -61,10 +61,9 @@ Currently, detailed mechanism of action data is not available. Based on known in
 The link between the original and predicted indications is plausible but weak. Malignant hypertension is a medical emergency that generally needs rapid, titratable parenteral therapy, so an oral diuretic is unlikely to be suitable as primary treatment. Reduced kidney function also raises the risk of hyperkalaemia with a potassium-sparing agent. The high TxGNN score likely reflects network proximity to hypertension-related terms rather than direct evidence.
 
 Other predictions in the same list are weaker or only indirectly supported:
-- **Malignant renovascular hypertension** (score 99.89%): driven mainly by renin-angiotensin-aldosterone system activation, where a potassium-sparing diuretic may add little and carries hyperkalaemia risk, especially with ACE inhibitors or ARBs.
-- **Pulmonary hypertension (lung disease/hypoxia-related, and unclear multifactorial)** (99.88%): any benefit would be limited to symptomatic volume management.
-- **Braddock syndrome** (99.84%): no clear mechanistic rationale; likely knowledge-graph noise.
-- **Chronic pulmonary heart disease** (99.75%): the most plausible secondary candidate, because diuretics are standard supportive therapy for right-heart failure with fluid retention (Evidence Level L4, "Research Question"). The support is indirect, since the papers cover heart failure generally.
+- **Pulmonary hypertension (lung disease/hypoxia-related, and unclear multifactorial)** (0.9988): any benefit would be limited to symptomatic volume management.
+- **Braddock syndrome** (0.9984): no clear mechanistic rationale; the score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
+- **Chronic pulmonary heart disease** (0.9975): the most plausible secondary candidate, because diuretics are standard supportive therapy for right-heart failure with fluid retention (Evidence Level L4, "Research Question"). The support is indirect, since the papers cover heart failure generally.
 
 ## Clinical Trial Evidence
 
@@ -87,9 +86,9 @@ These studies concern heart failure in general, not cor pulmonale or triamterene
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA013174 | Triamterene (Prasco Laboratories) | Capsule | Not stated in the available data (cancelled) |
-| ANDA211581 | Triamterene (Bryant Ranch Prepack) | Capsule | Not stated in the available data (cancelled) |
-| ANDA214768 | Triamterene (Biocon Pharma Inc.) | Capsule | Not stated in the available data (cancelled) |
+| NDA013174 | Triamterene (Prasco Laboratories) | Capsule | Not stated in the available data (valid) |
+| ANDA211581 | Triamterene (Bryant Ranch Prepack) | Capsule | Not stated in the available data (valid) |
+| ANDA214768 | Triamterene (Biocon Pharma Inc.) | Capsule | Not stated in the available data (valid) |
 
 All three authorizations are single-ingredient oral capsules and all are cancelled.
 
@@ -113,7 +112,7 @@ Package-insert warnings and contraindications were not available for this report
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the model score (Evidence Level L5). There are no clinical trials or relevant literature. The clinical setting (malignant hypertension with kidney involvement) needs rapid parenteral therapy and carries a high hyperkalaemia risk with a potassium-sparing diuretic. The drug also has no currently valid US licenses.
+The prediction is supported only by the model score (Evidence Level L5). There are no clinical trials or relevant literature. The clinical setting (malignant hypertension with kidney involvement) needs rapid parenteral therapy and carries a high hyperkalaemia risk with a potassium-sparing diuretic.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Golimumab
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 758
-evidence_level: L4
-indication_count: 5
+evidence_level: L5
+indication_count: 2
 last_modified_at: 2026-10-14
-description: "Golimumab: predicted new indication Rheumatoid vasculitis (evidence level L4). Approved use: Rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis…"
 monitor_inn: "GOLIMUMAB"
-predicted_indications: ["hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease"]
+predicted_indications: ["hypermobility of coccyx", "Kummell disease"]
+description: "Golimumab: predicted new indication Hypermobility of coccyx (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Golimumab
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Evidence Level: **L4** | Predicted Indications: **5**
 
 </div>
 
-## Golimumab: From Rheumatoid Arthritis and Other Inflammatory Arthritis to Rheumatoid Vasculitis
+## Golimumab: Hypermobility of coccyx
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Golimumab is an anti-TNF-alpha monoclonal antibody originally used for inflammatory rheumatic and bowel diseases, including rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis and ulcerative colitis.
-The TxGNN model predicts it may be effective for **rheumatoid vasculitis** with a very high score, but only **1 registered clinical trial (not relevant to this indication)** and **6 indirect publications (case reports and reviews)** exist, and none tests golimumab in this disease.
 
 ---
 
@@ -47,12 +46,12 @@ The TxGNN model predicts it may be effective for **rheumatoid vasculitis** with 
 
 | Item | Content |
 |------|------|
-| Original Indication | Rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis, ulcerative colitis, inflammatory bowel disease (from the knowledge graph; the US license records contain no indication text) |
-| Predicted New Indication | Rheumatoid vasculitis |
-| TxGNN Prediction Score | 99.73% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 2 (both listed as BLAs, both cancelled) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Hypermobility of coccyx |
+| TxGNN Prediction Score | 0.9967 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ---
@@ -92,8 +91,8 @@ The supporting evidence is indirect, though. No trial or paper provided here tes
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA125289 | Simponi (Janssen Biotech, Inc.) | Injection, solution | Not stated in the data; status cancelled |
-| BLA125433 | Simponi Aria (Janssen Biotech, Inc.) | Solution | Not stated in the data; status cancelled |
+| BLA125289 | Simponi (Janssen Biotech, Inc.) | Injection, solution | Not stated in the data; status valid |
+| BLA125433 | Simponi Aria (Janssen Biotech, Inc.) | Solution | Not stated in the data; status valid |
 
 ---
 

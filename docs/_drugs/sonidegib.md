@@ -4,7 +4,7 @@ title: Sonidegib
 parent: Model Prediction Only (L5)
 nav_order: 1174
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
 description: "Sonidegib: predicted new indication Medulloblastoma with extensive nodularity (evidence level L5). Approved use: Basal cell carcinoma (skin carcinoma)"
 monitor_inn: "SONIDEGIB"
@@ -14,7 +14,7 @@ predicted_indications: ["medulloblastoma with extensive nodularity", "xeroderma 
 # Sonidegib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ The prediction is biologically plausible but remains purely computational.
 |------|------|
 | Original Indication | Basal cell carcinoma (skin carcinoma) |
 | Predicted New Indication | Medulloblastoma with extensive nodularity |
-| TxGNN Prediction Score | 99.90% |
+| TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no active authorization) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---

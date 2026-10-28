@@ -6,9 +6,9 @@ nav_order: 598
 evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-14
-description: "Dextroamphetamine: predicted new indication Faciodigitogenital syndrome (evidence level L5). Approved use: Attention deficit hyperactivity disorder (ADHD)"
 monitor_inn: "DEXTROAMPHETAMINE"
 predicted_indications: ["faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "multiple system atrophy", "variably protease-sensitive prionopathy", "postural orthostatic tachycardia syndrome", "trichotillomania"]
+description: "Dextroamphetamine: predicted new indication Faciodigitogenital syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Dextroamphetamine
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-## Dextroamphetamine: From Attention Deficit Hyperactivity Disorder to Faciodigitogenital Syndrome
+## Dextroamphetamine: Faciodigitogenital syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,11 +45,11 @@ The TxGNN model predicts it may be effective for **Faciodigitogenital Syndrome**
 
 | Item | Content |
 |------|------|
-| Original Indication | Attention deficit hyperactivity disorder (ADHD); narcolepsy (US label text is not available, so these come from the knowledge graph) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Faciodigitogenital syndrome |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all 12 authorizations are cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 12) |
 | Number of NDAs | 12 (2 NDAs and 10 ANDAs) |
 | Recommended Decision | Hold |
 
@@ -57,7 +57,7 @@ The TxGNN model predicts it may be effective for **Faciodigitogenital Syndrome**
 
 Currently, detailed mechanism of action data is not available. Based on known information, dextroamphetamine is a stimulant whose efficacy in ADHD and narcolepsy is established, and it is generally understood to increase catecholamine (dopamine and norepinephrine) activity in the brain.
 
-Faciodigitogenital syndrome (Aarskog-Scott syndrome) is an X-linked developmental disorder caused by FGD1 variants. It often involves ADHD-like behavioral features. Dextroamphetamine might plausibly address those symptoms, but this link is inferred. The data compiled for this report contain no supporting studies, and the high score reflects a knowledge-graph prediction rather than clinical findings.
+Faciodigitogenital syndrome (Aarskog-Scott syndrome) is an X-linked developmental disorder caused by FGD1 variants. It often involves ADHD-like behavioral features. Dextroamphetamine might plausibly address those symptoms, but this link is inferred. The data compiled for this report contain no supporting studies, and the high score reflects a TxGNN model (deep learning) prediction rather than clinical findings.
 
 ## Clinical Trial Evidence
 
@@ -71,13 +71,13 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA215401 | XELSTRYM | Extended-release patch | Not available (cancelled) |
-| NDA017078 | DEXEDRINE | Extended-release capsule | Not available (cancelled) |
-| ANDA090533 | Zenzedi | Tablet | Not available (cancelled) |
-| ANDA040776 | PROCENTRA | Solution | Not available (cancelled) |
-| ANDA203901 | Dextroamphetamine Sulfate | Extended-release capsule | Not available (cancelled) |
+| NDA215401 | XELSTRYM | Extended-release patch | Not available (valid) |
+| NDA017078 | DEXEDRINE | Extended-release capsule | Not available (valid) |
+| ANDA090533 | Zenzedi | Tablet | Not available (valid) |
+| ANDA040776 | PROCENTRA | Solution | Not available (valid) |
+| ANDA203901 | Dextroamphetamine Sulfate | Extended-release capsule | Not available (valid) |
 
-Of the 12 authorizations in total, all are cancelled and none are currently valid. Only the first 5 are listed here.
+Only the first 5 are listed here.
 
 ## Safety Considerations
 
@@ -92,7 +92,7 @@ Please refer to the package insert for complete safety information, as label war
 **Decision: Hold**
 
 **Rationale:**
-The prediction for faciodigitogenital syndrome rests on a model score alone, with no clinical trials or literature. In the US, all dextroamphetamine authorizations are currently cancelled. The knowledge graph also lists many cardiovascular and psychiatric contraindications.
+The prediction for faciodigitogenital syndrome rests on a model score alone (TxGNN model, deep learning), with no clinical trials or literature. The score may reflect similarities the model learned between related diseases, not biological evidence. In the US, this drug is marketed, with 12 valid licenses. The TxGNN model's output also lists many cardiovascular and psychiatric contraindications.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "PREGABALIN"
 predicted_indications: ["tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "inclusion body myositis", "migraine disorder", "migraine with brainstem aura"]
 last_modified_at: 2026-10-14
-description: "Pregabalin: predicted new indication Tendinitis (evidence level L5). Approved use: Anxiety disorder, fibromyalgia, myofascial pain syndrome…"
+description: "Pregabalin: predicted new indication Tendinitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Pregabalin
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-## Pregabalin: From Anxiety Disorder, Fibromyalgia and Neuropathic Pain to Tendinitis
+## Pregabalin: Tendinitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,11 +45,11 @@ The TxGNN model predicts it may be effective for **tendinitis**, but there are *
 
 | Item | Content |
 |------|------|
-| Original Indication | Anxiety disorder, fibromyalgia, myofascial pain syndrome, postherpetic neuralgia (from the knowledge graph; the US license records list no indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Tendinitis |
-| TxGNN Prediction Score | 99.71% |
+| TxGNN Prediction Score | 0.9971 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no active licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 11) |
 | Number of NDAs | 11 (1 NDA and 10 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
@@ -57,7 +57,7 @@ The TxGNN model predicts it may be effective for **tendinitis**, but there are *
 
 Pregabalin binds the alpha2-delta subunit of voltage-gated calcium channels and reduces the release of excitatory neurotransmitters. This can relieve neuropathic and nociceptive pain. Detailed mechanism data were not available beyond this general description.
 
-The link to tendinitis is indirect. Tendinitis is a painful musculoskeletal condition, and pregabalin's known uses (fibromyalgia, myofascial pain) are also musculoskeletal pain syndromes. The high score is most likely driven by this overlap in the knowledge graph.
+The link to tendinitis is indirect. Tendinitis is a painful musculoskeletal condition, and pregabalin's known uses (fibromyalgia, myofascial pain) are also musculoskeletal pain syndromes. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 There is no evidence that pregabalin affects tendon inflammation, degeneration or healing. At most, it might relieve the pain component. It is not expected to modify the disease itself.
 
@@ -80,7 +80,7 @@ None of the retrieved papers tests pregabalin as a treatment for tendinitis. The
 
 ## US Market Information
 
-All 11 US licenses are cancelled and none are currently valid. The records list no approved indication text. The five main authorizations are shown below.
+The drug is marketed in the US, with 11 valid licenses. The records list no approved indication text. The five main authorizations are shown below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -109,7 +109,7 @@ The muscle-related signals (myopathy, rhabdomyolysis) deserve attention in a mus
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high, but no trial or paper tests pregabalin for tendinitis, and there is no mechanism by which it would treat tendon pathology. It might help the pain symptoms at most. All US licenses are also cancelled.
+The prediction score is very high, but no trial or paper tests pregabalin for tendinitis, and there is no mechanism by which it would treat tendon pathology. It might help the pain symptoms at most. The drug is marketed in the US, with 11 valid licenses.
 
 **To proceed, the following is needed:**
 - Direct clinical evidence, such as a pilot RCT of pregabalin for tendinitis pain against standard care.
@@ -117,7 +117,7 @@ The prediction score is very high, but no trial or paper tests pregabalin for te
 - Review of the current package insert for warnings and contraindications.
 - A safety assessment of the muscle-related contraindication signals and the opioid interaction.
 
-**Alternative candidate:** Among the other predictions for this drug, **migraine disorder** (score 99.47%) has the strongest support. It has two pediatric randomized trials, one against propranolol and one against sodium valproate, plus preclinical data on cortical spreading depression. Its Phase 3 trial (NCT00447369) was withdrawn, and adult evidence is lacking. It is better framed as a research question than as a ready candidate.
+**Alternative candidate:** Among the other predictions for this drug, **migraine disorder** (score 0.9947) has the strongest support. It has two pediatric randomized trials, one against propranolol and one against sodium valproate, plus preclinical data on cortical spreading depression. Its Phase 3 trial (NCT00447369) was withdrawn, and adult evidence is lacking. It is better framed as a research question than as a ready candidate.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

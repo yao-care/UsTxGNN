@@ -4,17 +4,17 @@ title: Diflunisal
 parent: Model Prediction Only (L5)
 nav_order: 606
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-14
-description: "Diflunisal: predicted new indication Ankylosing spondylitis (evidence level L5). Approved use: Rheumatoid arthritis, osteoarthritis, arthropathy"
 monitor_inn: "DIFLUNISAL"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "spondyloarthropathy, susceptibility to", "myosclerosis", "ankylosing spondylitis", "brachyolmia", "hypermobility of coccyx", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "inflammatory spondylopathy"]
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "ankylosing spondylitis", "brachyolmia", "hypermobility of coccyx", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "inflammatory spondylopathy"]
+description: "Diflunisal: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Diflunisal
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Diflunisal: From Rheumatoid Arthritis to Ankylosing Spondylitis
+## Diflunisal: Acromesomelic dysplasia, Hunter-Thompson type
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,12 +48,12 @@ For ankylosing spondylitis there are **0 registered clinical trials** and **7 pu
 
 | Item | Content |
 |------|------|
-| Original Indication | Rheumatoid arthritis, osteoarthritis, arthropathy (from the knowledge graph; no label text available) |
-| Predicted New Indication | Ankylosing spondylitis (the top-ranked TxGNN prediction, acromesomelic dysplasia Hunter-Thompson type, is not supported by any evidence and is not evaluated further) |
-| TxGNN Prediction Score | 99.98% for ankylosing spondylitis (rank 5); 99.99% for acromesomelic dysplasia (rank 1) |
-| Evidence Level | L3 (ankylosing spondylitis); L5 for the rank 1 prediction |
-| US Market Status | Cancelled only (all 3 authorizations cancelled) |
-| Number of NDAs | 3 (ANDA authorizations) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Acromesomelic dysplasia, Hunter-Thompson type |
+| TxGNN Prediction Score | 0.9999 |
+| Evidence Level | L5 (ankylosing spondylitis); L5 for the rank 1 prediction |
+| US Market Status | Marketed (valid licenses: 3 of 3) |
+| Number of NDAs | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ---
@@ -64,7 +64,7 @@ Detailed mechanism of action data for diflunisal is not available in the data co
 
 NSAIDs are a guideline-recognized first-line symptomatic therapy for ankylosing spondylitis, reducing pain, stiffness and inflammation through the same prostaglandin pathway. This makes the prediction mechanistically plausible, but it is essentially a class effect. Many established NSAIDs (such as naproxen and diclofenac) already fill this role, so the repurposing value of diflunisal is low.
 
-Most of the other top-ranked predictions are not credible. Rare genetic conditions (acromesomelic dysplasia, brachyolmia, brachyolmia-amelogenesis imperfecta syndrome, colobomatous microphthalmia-rhizomelic dysplasia syndrome) and myosclerosis have no plausible link to COX inhibition, and their high scores likely reflect knowledge-graph proximity to skeletal and arthropathy terms. Spondyloarthropathy susceptibility, hypermobility of coccyx and rheumatoid vasculitis have only weak indirect plausibility. Rheumatoid vasculitis needs immunosuppression, which NSAIDs cannot replace. Inflammatory spondylopathy overlaps with ankylosing spondylitis and relies on the same literature.
+Most of the other top-ranked predictions are not credible. Spondyloarthropathy susceptibility, hypermobility of coccyx and rheumatoid vasculitis have only weak indirect plausibility. Rheumatoid vasculitis needs immunosuppression, which NSAIDs cannot replace. Inflammatory spondylopathy overlaps with ankylosing spondylitis and relies on the same literature.
 
 ---
 
@@ -92,13 +92,13 @@ The literature below is for ankylosing spondylitis. The same set was retrieved f
 
 ## US Market Information
 
-All three authorizations are cancelled. No approved indication text is available.
+No approved indication text is available.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| ANDA202845 | Dolobid (INA Pharmaceutics Inc) | Film-coated tablet | Cancelled |
-| ANDA203547 | Diflunisal (Zydus Lifesciences Limited) | Tablet | Cancelled |
-| ANDA073673 | Diflunisal (Teva Pharmaceuticals USA, Inc.) | Film-coated tablet | Cancelled |
+| ANDA202845 | Dolobid (INA Pharmaceutics Inc) | Film-coated tablet | Valid |
+| ANDA203547 | Diflunisal (Zydus Lifesciences Limited) | Tablet | Valid |
+| ANDA073673 | Diflunisal (Teva Pharmaceuticals USA, Inc.) | Film-coated tablet | Valid |
 
 ---
 
@@ -120,7 +120,7 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The only credible new indication is ankylosing spondylitis. It rests on a class effect of NSAIDs and one small 1986 comparative study of 38 patients. There are no registered trials, the drug has no active US authorization, and established NSAIDs already cover this use. The higher-scored predictions have no supporting evidence and are likely knowledge-graph artifacts.
+The only credible new indication is ankylosing spondylitis. It rests on a class effect of NSAIDs and one small 1986 comparative study of 38 patients. The higher-scored predictions have no supporting evidence and are likely TxGNN model (deep learning) artifacts.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

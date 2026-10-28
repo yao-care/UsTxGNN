@@ -47,25 +47,25 @@ The TxGNN model predicts it may be effective for **non-syndromic esophageal malf
 |------|------|
 | Original Indication | Postmenopausal osteoporosis at high risk for fracture (from pharmacology data; the license record has no indication text) |
 | Predicted New Indication | Non-syndromic esophageal malformation |
-| TxGNN Prediction Score | 99.84% |
+| TxGNN Prediction Score | 0.9984 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no active license) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available in the data compiled for this report. Based on known pharmacology, abaloparatide is a PTHrP(1-34) analog that activates the PTH1 receptor (PTH1R) and has a bone anabolic effect. Its efficacy in osteoporosis was shown in a Phase 3 trial (NCT01343004), where it reduced new fractures versus placebo and showed less hypercalcemia than teriparatide.
 
-No plausible mechanistic link to esophageal malformation can be established. This is a congenital, structural, developmental condition, and adult pharmacological therapy is unlikely to correct it. The high score (0.998) most likely reflects graph proximity in the model rather than a defined biological rationale.
+No plausible mechanistic link to esophageal malformation can be established. This is a congenital, structural, developmental condition, and adult pharmacological therapy is unlikely to correct it. The high score (0.9984) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 Other predictions for this drug are similarly weak:
 
 | Predicted Indication | TxGNN Score | Assessment |
 |------|------|------|
-| Esophageal disease | 99.75% | Broad, non-specific category. No data link PTH1R agonism to esophageal pathology. |
-| Amenorrhea | 99.72% | Driven by hypothalamic-pituitary-ovarian axis dysfunction, on which abaloparatide has no established action. At most, it might support bone health in hypoestrogenic amenorrhea, which is not treatment of the condition itself. |
-| Esophageal ulcer | 99.02% | No known gastroprotective or mucosal-repair mechanism. |
+| Esophageal disease | 0.9975 | Broad, non-specific category. No data link PTH1R agonism to esophageal pathology. |
+| Amenorrhea | 0.9972 | Driven by hypothalamic-pituitary-ovarian axis dysfunction, on which abaloparatide has no established action. At most, it might support bone health in hypoestrogenic amenorrhea, which is not treatment of the condition itself. |
+| Esophageal ulcer | 0.9902 | No known gastroprotective or mucosal-repair mechanism. |
 
 ## Clinical Trial Evidence
 

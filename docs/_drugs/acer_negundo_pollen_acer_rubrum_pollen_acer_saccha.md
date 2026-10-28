@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Acer Negundo Pollen Acer Rubrum Pollen Acer Saccha
@@ -51,7 +52,7 @@ As a result, **no clinical trial or publication evidence** supporting a new indi
 | Predicted New Indication | — (No prediction generated) |
 | TxGNN Prediction Score | — |
 | Evidence Level | L5 — Model prediction only; no actual predictions produced |
-| US Market Status | Not marketed (no US licenses found) |
+| US Market Status | Marketed (valid licenses on record: at least 4) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

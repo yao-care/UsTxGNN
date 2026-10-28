@@ -4,17 +4,17 @@ title: Tolvaptan
 parent: Model Prediction Only (L5)
 nav_order: 1241
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Tolvaptan: predicted new indication Polycystic kidney disease 3 with or without polycystic liver disease (evidence level L5). Approved use: Inappropriate ADH syndrome"
 monitor_inn: "TOLVAPTAN"
 predicted_indications: ["renal-hepatic-pancreatic dysplasia", "karyomegalic interstitial nephritis", "thoracic malformation", "Joubert syndrome with renal defect", "adult familial nephronophthisis-spastic quadriparesia syndrome", "Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
+description: "Tolvaptan: predicted new indication Renal-hepatic-pancreatic dysplasia (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Tolvaptan
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,25 +33,24 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Tolvaptan: From Inappropriate ADH Syndrome to Polycystic Kidney Disease 3 (with or without Polycystic Liver Disease)
+## Tolvaptan: Renal-hepatic-pancreatic dysplasia
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Tolvaptan was originally used for conditions of excess antidiuretic hormone (SIADH and nephrogenic syndrome of inappropriate antidiuresis) and for polycystic kidney disease.
-The TxGNN model predicts it may be effective for **polycystic kidney disease 3 with or without polycystic liver disease**,
 with **0 registered clinical trials** and **20 publications** (including 2 RCTs and 1 Cochrane systematic review on ADPKD) currently supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Inappropriate ADH syndrome; nephrogenic syndrome of inappropriate antidiuresis; polycystic kidney disease (the data compiled for this report contain no approved-indication text from the US labels) |
-| Predicted New Indication | Polycystic kidney disease 3 with or without polycystic liver disease |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L1 (based on the pivotal ADPKD RCTs; see note below) |
-| US Market Status | Cancelled only (all licences listed as cancelled) |
-| Number of NDAs | 8 licences in total (2 NDAs and 6 ANDAs) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Renal-hepatic-pancreatic dysplasia |
+| TxGNN Prediction Score | 0.9998 |
+| Evidence Level | L5 (based on the pivotal ADPKD RCTs; see note below) |
+| US Market Status | Marketed (valid licenses: 8 of 8) |
+| Number of NDAs | 8 (valid: 8) |
 | Recommended Decision | Proceed with Guardrails |
 
 *Note on evidence level:* The RCTs (TEMPO 3:4 and REPRISE) were conducted in ADPKD generally, not in the GANAB-associated PKD3 form. No clinical trials specific to the predicted indication are registered, so the L1 rating applies to the closely related parent disease, and the direct evidence for PKD3 is weaker.
@@ -85,11 +84,11 @@ Currently no related clinical trials registered for this predicted indication.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA204441 | JYNARQUE | Tablet | Not available (status: cancelled) |
-| NDA022275 | SAMSCA | Tablet | Not available (status: cancelled) |
-| ANDA206119 | Tolvaptan (Endo USA) | Tablet | Not available (status: cancelled) |
-| ANDA216949 | Tolvaptan (Novadoz) | Tablet | Not available (status: cancelled) |
-| ANDA207605 | Tolvaptan (Apotex) | Tablet | Not available (status: cancelled) |
+| NDA204441 | JYNARQUE | Tablet | Not available (status: valid) |
+| NDA022275 | SAMSCA | Tablet | Not available (status: valid) |
+| ANDA206119 | Tolvaptan (Endo USA) | Tablet | Not available (status: valid) |
+| ANDA216949 | Tolvaptan (Novadoz) | Tablet | Not available (status: valid) |
+| ANDA207605 | Tolvaptan (Apotex) | Tablet | Not available (status: valid) |
 
 Three more generic ANDAs (Camber, Ascend and Lupin) are also listed, all with cancelled status.
 
@@ -116,7 +115,6 @@ Tolvaptan has strong RCT and systematic review evidence in ADPKD, and its V2-ant
 - Detailed mechanism-of-action data from DrugBank
 - Genotype-specific (GANAB) evidence, or at least subgroup data, to confirm that the ADPKD benefit applies to PKD3
 - A liver monitoring plan, given the knowledge-graph contraindications for liver failure and cirrhosis
-- Clarification of the cancelled licence status, since all 8 US licences are listed as cancelled and current availability should be verified
 
 ### Other Predicted Indications (Lower Priority)
 
@@ -124,8 +122,8 @@ Tolvaptan has strong RCT and systematic review evidence in ADPKD, and its V2-ant
 |---|---|---|---|---|
 | 2 | Renal-hepatic-pancreatic dysplasia | L5 | Hold | No evidence; speculative |
 | 3 | Karyomegalic interstitial nephritis | L5 | Hold | No vasopressin-dependent mechanism |
-| 4 | Thoracic malformation | L4 | Hold | Only a neonatal case report of symptomatic fluid management |
-| 5 | Joubert syndrome with renal defect | L4 | Research Question | Indirect cAMP rationale; needs preclinical work |
+| 4 | Thoracic malformation | L5 | Hold | Only a neonatal case report of symptomatic fluid management |
+| 5 | Joubert syndrome with renal defect | L5 | Research Question | Indirect cAMP rationale; needs preclinical work |
 | 6 | Adult familial nephronophthisis-spastic quadriparesia syndrome | L5 | Hold | Indirect rationale only |
 | 7–10 | Hypertrichosis-related, odontal/periodontal malformation and Dandy-Walker-related syndromes | L5 | Hold | No plausible mechanism; likely model artifacts |
 ## Disclaimer

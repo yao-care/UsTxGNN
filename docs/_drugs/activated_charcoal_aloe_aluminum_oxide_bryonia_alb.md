@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Activated Charcoal Aloe Aluminum Oxide Bryonia Alb
@@ -49,7 +50,7 @@ This candidate drug is a multi-component mixture containing 17 ingredients (acti
 | Predicted Novel Indications | None (TxGNN generated no predictions) |
 | TxGNN Prediction Score | — |
 | Evidence Level | **L5** (model unable to predict; no actual research available) |
-| U.S. Market Status | ✗ Not marketed |
+| U.S. Market Status | Marketed (valid licenses on record: at least 11) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

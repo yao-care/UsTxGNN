@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "HYALURONIDASE"
 predicted_indications: ["esotropia", "amenorrhea (disease)", "severe nonproliferative diabetic retinopathy", "renal tubular acidosis", "dermatitis", "diabetic retinopathy", "acrodermatitis chronica atrophicans", "diabetic cataract", "neonatal dermatomyositis", "non-syndromic esophageal malformation"]
 last_modified_at: 2026-10-14
-description: "Hyaluronidase: predicted new indication Esotropia (evidence level L5). Approved use: Not specified in the available US license records"
+description: "Hyaluronidase: predicted new indication Esotropia (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Hyaluronidase
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Hyaluronidase: From an Injection Adjuvant to Diabetic Retinopathy
+## Hyaluronidase: Esotropia (rank 1, TxGNN); diabetic retinopathy (esotropia)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -50,12 +50,12 @@ The top-ranked prediction (esotropia) has no supporting evidence. This report th
 
 | Item | Content |
 |------|------|
-| Original Indication | Not specified in the available US license records |
-| Predicted New Indication | Esotropia (rank 1, TxGNN); diabetic retinopathy (rank 6, best evidence) |
-| TxGNN Prediction Score | Esotropia 99.89%; diabetic retinopathy 99.71% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Esotropia (rank 1, TxGNN); diabetic retinopathy (esotropia) |
+| TxGNN Prediction Score | 0.9989 |
 | Evidence Level | Esotropia L4 (adverse-event reports only); diabetic retinopathy L1 (nominal, outcomes unverified) |
-| US Market Status | Cancelled only (all licenses cancelled) |
-| Number of NDAs | 10 (all BLAs, all cancelled) |
+| US Market Status | Marketed (valid licenses: 10 of 10) |
+| Number of NDAs | 10 (valid: 10) |
 | Recommended Decision | Hold (esotropia); Hold, with a research question for diabetic retinopathy |
 
 ---
@@ -121,7 +121,7 @@ Other predictions:
 
 ## US Market Information
 
-All 10 licenses are cancelled, and the indication text is not recorded for any of them. Most of the products are subcutaneous biologic formulations in which hyaluronidase is a component.
+10 of 10 licenses are valid, and the indication text is not recorded for any of them. Most of the products are subcutaneous biologic formulations in which hyaluronidase is a component.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -152,7 +152,7 @@ Please refer to the package insert for the full warnings and contraindications.
 **Rationale:**
 - The top-ranked prediction, esotropia, rests on a model score alone, and its only publication describes a complication rather than a treatment.
 - Diabetic retinopathy is the only direction with real clinical-trial history, two completed Phase 3 trials. However, their efficacy outcomes were not available, and the program is historical. Anti-VEGF drugs and laser are now standard care. This direction is best treated as a research question rather than a Go.
-- All US licenses are cancelled, and the package insert's warnings and contraindications are missing from the data.
+- The drug is marketed in the US, with 10 of 10 licenses valid, and the package insert's warnings and contraindications are missing from the data.
 
 **To proceed, the following is needed:**
 - The efficacy and safety results of NCT00198497 and NCT00198510 (published papers or registry results).

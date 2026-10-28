@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # 7-Oxodehydroepiandrosterone 3-Acetate Conium Macul
@@ -50,7 +51,7 @@ Due to the extremely complex component combination and known toxicity of certain
 | Predicted New Indications | None (TxGNN did not generate predictive results) |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (Model query only, no predictive output; actually below L5) |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 6) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold (Pending)** |
 

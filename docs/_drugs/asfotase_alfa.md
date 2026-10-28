@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "ASFOTASE ALFA"
 predicted_indications: ["mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "Steel syndrome", "exocrine pancreatic insufficiency", "Scheie syndrome", "Hurler syndrome", "lysosomal storage disease with skeletal involvement", "familial apolipoprotein C-II deficiency", "esophageal varices without bleeding", "esophageal varices with bleeding", "cystinosis"]
 last_modified_at: 2026-10-14
-description: "Asfotase Alfa: predicted new indication Mitochondrial oxidative phosphorylation disorder due to nuclear DNA a… (evidence level L5). Approved use: Hypophosphatasia"
+description: "Asfotase Alfa: predicted new indication mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies (evidence level L5). Approved use: Hypophosphatasia"
 ---
 
 # Asfotase Alfa
@@ -48,17 +48,17 @@ but currently **0 clinical trials** and **0 publications** support this directio
 |------|------|
 | Original Indication | Hypophosphatasia |
 | Predicted New Indication | Mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies |
-| TxGNN Prediction Score | 99.95% |
+| TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (the only listed authorization is cancelled) |
-| Number of NDAs | 1 (BLA 125513) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not currently available in the data compiled for this report. From general knowledge, asfotase alfa is a recombinant tissue-nonspecific alkaline phosphatase (TNSALP). It hydrolyzes extracellular substrates such as inorganic pyrophosphate and pyridoxal 5'-phosphate, which is how it supports bone mineralization in hypophosphatasia.
 
-A mechanistic link to the predicted indication is not apparent. Mitochondrial oxidative phosphorylation disorders arise from defects in intracellular energy metabolism, whereas asfotase alfa acts on extracellular substrates. The very high TxGNN score (99.95%) is a graph-based prediction only and is not supported by trial or literature evidence.
+A mechanistic link to the predicted indication is not apparent. Mitochondrial oxidative phosphorylation disorders arise from defects in intracellular energy metabolism, whereas asfotase alfa acts on extracellular substrates. The very high TxGNN score (0.9995) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It is not supported by trial or literature evidence.
 
 The other top-ranked predictions show the same pattern. Steel syndrome, exocrine pancreatic insufficiency, Scheie syndrome, Hurler syndrome, lysosomal storage disease with skeletal involvement, familial apolipoprotein C-II deficiency, esophageal varices (with and without bleeding) and cystinosis all lack clinical or literature support. Their links to asfotase alfa are at most generic, such as a shared enzyme-replacement modality or a skeletal phenotype. Steel syndrome has a loose conceptual connection to skeletal biology, but its underlying defect (collagen type XXVII) is unrelated to the TNSALP pathway. For several of these conditions, established therapies already exist, such as laronidase for MPS I and cysteamine for cystinosis.
 

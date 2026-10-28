@@ -4,17 +4,17 @@ title: Venetoclax
 parent: Model Prediction Only (L5)
 nav_order: 1286
 evidence_level: L5
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-14
-description: "Venetoclax: predicted new indication CLL/SLL with somatic hypermutation of the immunoglobulin heavy chain… (evidence level L5). Approved use: Acute lymphoblastic/lymphocytic leukemia"
 monitor_inn: "VENETOCLAX"
 predicted_indications: ["Hodgkins lymphoma", "chronic myelogenous leukemia, BCR-ABL1 positive", "Ewing sarcoma", "follicular lymphoma", "metastatic neoplasm", "malignant spiradenoma"]
+description: "Venetoclax: predicted new indication Hodgkins lymphoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Venetoclax
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,11 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Venetoclax: From Acute Lymphoblastic Leukemia / Richter Syndrome to Chronic Lymphocytic Leukemia Subtypes (Predicted Indication)
+## Venetoclax: Hodgkins lymphoma
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Venetoclax is an oral BCL-2 inhibitor whose original indications in the knowledge graph are acute lymphoblastic/lymphocytic leukemia and Richter syndrome.
-The TxGNN model predicts it may be effective for **chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation** (score 99.55%), but **no clinical trials and no literature** specific to this entry are available, so support is prediction only.
-Among the other top-10 predictions, **acute myeloid leukemia (AML)** has the strongest supporting data (**about 35 trials and 18 publications**).
 
 ---
 
@@ -48,12 +45,12 @@ Among the other top-10 predictions, **acute myeloid leukemia (AML)** has the str
 
 | Item | Content |
 |------|------|
-| Original Indication | Acute lymphoblastic/lymphocytic leukemia; Richter syndrome (knowledge graph indication edges; the US license record contains no indication text) |
-| Predicted New Indication | CLL/SLL with somatic hypermutation of the immunoglobulin heavy chain variable-region gene (top-ranked prediction) |
-| TxGNN Prediction Score | 99.55% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Hodgkins lymphoma |
+| TxGNN Prediction Score | 0.9951 |
 | Evidence Level | L5 (top-ranked prediction); best among top-10 predictions: L1 for AML, with caveats |
-| US Market Status | Cancelled only (the single NDA record is marked cancelled) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold (top-ranked prediction); Proceed with Guardrails for AML |
 
 ---
@@ -120,7 +117,7 @@ For Ewing sarcoma, only preclinical work exists (for example PMID 30348635, BCL-
 |---------|------|------|-----------|
 | NDA208573 (status: cancelled) | Venclexta (AbbVie Inc.) | Tablet, film coated (oral) | Indication text not available in the data |
 
-The only US license record on file is marked as cancelled, so the data compiled for this report show no currently valid US authorization. This should be verified against current FDA records before any decision, since venetoclax is described in the literature as FDA-approved for CLL and AML.
+This should be verified against current FDA records before any decision, since venetoclax is described in the literature as FDA-approved for CLL and AML.
 
 ---
 

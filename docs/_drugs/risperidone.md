@@ -4,17 +4,17 @@ title: Risperidone
 parent: Model Prediction Only (L5)
 nav_order: 1128
 evidence_level: L5
-indication_count: 6
+indication_count: 5
 last_modified_at: 2026-10-14
-description: "Risperidone: predicted new indication Gaze palsy, familial horizontal, with progressive scoliosis (evidence level L5). Approved use: Schizophrenia, bipolar disorder (including mania)…"
 monitor_inn: "RISPERIDONE"
-predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "asperger syndrome, susceptibility to", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania", "major affective disorder"]
+predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania", "major affective disorder"]
+description: "Risperidone: predicted new indication Gaze palsy, familial horizontal, with progressive scoliosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Risperidone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-## Risperidone: From Schizophrenia and Bipolar Disorder to Familial Horizontal Gaze Palsy with Progressive Scoliosis
+## Risperidone: Gaze palsy, familial horizontal, with progressive scoliosis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ This prediction currently has **0 clinical trials** and **0 publications** behin
 
 | Item | Content |
 |------|------|
-| Original Indication | Schizophrenia, bipolar disorder (including mania), autism spectrum disorder (from the knowledge graph; the US license records contain no indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Gaze palsy, familial horizontal, with progressive scoliosis |
-| TxGNN Prediction Score | 99.76% |
+| TxGNN Prediction Score | 0.9976 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 10) |
 | Number of NDAs | 10 licenses in total (2 NDAs, 8 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
@@ -70,15 +70,15 @@ Currently no related literature available.
 
 ## US Market Information
 
-All 10 licenses are cancelled. Indication text is not recorded for any of them. The five listed below are the main ones.
+10 licenses are valid. Indication text is not recorded for any of them. The five listed below are the main ones.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|------|
-| NDA021444 | RISPERDAL M-TAB (Janssen) | Orally disintegrating tablet | Cancelled |
-| NDA213586 | UZEDY (Teva) | Extended-release injectable suspension | Cancelled |
-| ANDA078707 | Risperidone (Westminster) | Film-coated tablet | Cancelled |
-| ANDA079059 | Risperidone (Bryant Ranch Prepack) | Solution | Cancelled |
-| ANDA077542 | Risperidone (Sun Pharmaceutical) | Orally disintegrating tablet | Cancelled |
+| NDA021444 | RISPERDAL M-TAB (Janssen) | Orally disintegrating tablet | Valid |
+| NDA213586 | UZEDY (Teva) | Extended-release injectable suspension | Valid |
+| ANDA078707 | Risperidone (Westminster) | Film-coated tablet | Valid |
+| ANDA079059 | Risperidone (Bryant Ranch Prepack) | Solution | Valid |
+| ANDA077542 | Risperidone (Sun Pharmaceutical) | Orally disintegrating tablet | Valid |
 
 ## Safety Considerations
 
@@ -101,7 +101,7 @@ The prediction has a very high model score but no clinical trials, no literature
 - A mechanistic rationale linking risperidone to ROBO3-related gaze palsy, or preclinical data supporting one.
 - Detailed mechanism of action data (MOA).
 - Label warnings and contraindications from the FDA package insert.
-- Clarification of the regulatory status, since all US licenses are cancelled.
+- Clarification of the regulatory status, since the drug is marketed in the US with 10 valid licenses.
 - Consideration of other predictions for this drug, which have more support in the data compiled for this report:
   - **Major affective disorder** has two Phase 3 trials of adjunctive risperidone in treatment-resistant depression and several meta-analyses (L1).
   - **Trichotillomania** has consistent case reports and case series (L3).

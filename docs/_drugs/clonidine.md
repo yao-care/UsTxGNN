@@ -48,9 +48,9 @@ The better-supported candidates among the other predictions are **Tourette syndr
 |------|------|
 | Original Indication | Hypertension (other listed indications: open-angle glaucoma, ADHD) |
 | Predicted New Indication | Faciodigitogenital syndrome |
-| TxGNN Prediction Score | 99.999% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
+| US Market Status | Marketed (valid licenses on record: at least 12) |
 | Number of NDAs | 12 (all cancelled; the authorizations listed are ANDAs) |
 | Recommended Decision | Hold |
 
@@ -58,22 +58,22 @@ The top-ranked prediction has no supporting evidence. Other predictions have mor
 
 | Rank | Predicted Indication | TxGNN Score | Evidence Level | Recommendation |
 |------|------|------|------|------|
-| 1 | Faciodigitogenital syndrome | 99.999% | L5 | Hold |
-| 2 | Specific developmental disorder | 99.999% | L4 | Hold |
-| 3 | Chondromyxoid fibroma | 99.997% | L5 | Hold |
-| 4 | Trichotillomania | 99.994% | L4 | Hold |
-| 5 | Tourette syndrome | 99.976% | L2 | Proceed with Guardrails |
-| 6 | Obesity disorder | 99.910% | L3 | Research Question |
-| 7 | Hypervitaminosis | 99.868% | L5 | Hold |
-| 8 | Proximal 16p11.2 microdeletion syndrome | 99.858% | L5 | Hold |
-| 9 | Migraine disorder | 99.814% | L3 | Research Question |
-| 10 | Manic bipolar affective disorder | 99.756% | L3 | Research Question |
+| 1 | Faciodigitogenital syndrome | 1.0000 | L5 | Hold |
+| 2 | Specific developmental disorder | 1.0000 | L5 | Hold |
+| 3 | Chondromyxoid fibroma | 1.0000 | L5 | Hold |
+| 4 | Trichotillomania | 1.0000 | L5 | Hold |
+| 5 | Tourette syndrome | 0.9998 | L2 | Proceed with Guardrails |
+| 6 | Obesity disorder | 0.9991 | L3 | Research Question |
+| 7 | Hypervitaminosis | 0.9987 | L5 | Hold |
+| 8 | Proximal 16p11.2 microdeletion syndrome | 0.9986 | L5 | Hold |
+| 9 | Migraine disorder | 0.9981 | L3 | Research Question |
+| 10 | Manic bipolar affective disorder | 0.9976 | L3 | Research Question |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, clonidine is an alpha-2 adrenergic agonist that reduces noradrenergic outflow. Its efficacy in hypertension and ADHD is established.
 
-For the top-ranked prediction, faciodigitogenital syndrome, no plausible mechanistic link is evident. This is a rare developmental genetic disorder, and the score reflects a graph-based prediction only. The same applies to chondromyxoid fibroma, hypervitaminosis and proximal 16p11.2 microdeletion syndrome. These should not be pursued without new supporting data.
+For the top-ranked prediction, faciodigitogenital syndrome, no plausible mechanistic link is evident. This is a rare developmental genetic disorder, and the score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The same applies to chondromyxoid fibroma, hypervitaminosis and proximal 16p11.2 microdeletion syndrome. These should not be pursued without new supporting data.
 
 The predictions with a more credible rationale share a noradrenergic or sympathetic mechanism:
 - **Tourette syndrome**: Reducing noradrenergic activity is an established way to treat tics, especially with comorbid ADHD. This is close to clonidine's existing ADHD use, so it is closer to an already-recognised use than a novel repurposing.
@@ -112,7 +112,7 @@ No literature was found for faciodigitogenital syndrome. Selected publications f
 
 ## US Market Information
 
-All 12 US authorizations are cancelled; none is currently valid. No approved indication text was available. The first five are listed.
+The drug is marketed in this country, with 12 valid licenses. No approved indication text was available. The first five are listed.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -145,7 +145,7 @@ Package insert warnings and contraindications were not available for this report
 - Detailed mechanism of action data
 - For Tourette syndrome: confirmation of a controlled Phase 3 trial or equivalent, and a decision on whether it counts as a new indication
 - For the other predictions: controlled trial data (for mania, a larger controlled trial than the terminated n=5 study)
-- Confirmation of current US market and route availability, since all authorizations are cancelled
+- Confirmation of current market and route availability, since the drug is marketed with 12 valid licenses
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "IBUPROFEN"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
-last_modified_at: 2026-10-14
-description: "Ibuprofen: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). Approved use: Rheumatoid arthritis, osteoarthritis, juvenile idiopathic arthritis…"
+last_modified_at: 2026-10-28
+description: "Ibuprofen: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Ibuprofen
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-## Ibuprofen: From Arthritis and Pain Conditions to Acromesomelic Dysplasia, Hunter-Thompson Type
+## Ibuprofen: Acromesomelic dysplasia, Hunter-Thompson type
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 | Item | Content |
 |------|------|
-| Original Indication | Rheumatoid arthritis, osteoarthritis, juvenile idiopathic arthritis, headache disorder, patent ductus arteriosus (from the knowledge graph indication list; no approved-indication text was available in the regulatory data) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Acromesomelic dysplasia, Hunter-Thompson type |
-| TxGNN Prediction Score | 99.74% |
+| TxGNN Prediction Score | 0.9974 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 14) |
 | Number of NDAs | 14 (2 NDAs and 12 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
@@ -58,9 +58,9 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 Currently, detailed mechanism of action data is not available in the compiled data. Ibuprofen is a well-known non-selective cyclooxygenase (COX) inhibitor that reduces prostaglandin synthesis, giving analgesic and anti-inflammatory effects. Its benefit in arthritis and arthropathy is symptomatic.
 
-Hunter-Thompson type acromesomelic dysplasia is a rare skeletal dysplasia caused by loss-of-function variants in GDF5 (BMP signalling). No plausible mechanism by which COX inhibition would correct this underlying defect has been established. The high score most likely reflects shared musculoskeletal phenotype associations in the knowledge graph with ibuprofen's arthritis and arthropathy indications, rather than a disease-modifying mechanism. At best, ibuprofen might offer symptomatic relief of joint pain.
+Hunter-Thompson type acromesomelic dysplasia is a rare skeletal dysplasia caused by loss-of-function variants in GDF5 (BMP signalling). No plausible mechanism by which COX inhibition would correct this underlying defect has been established. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. At best, ibuprofen might offer symptomatic relief of joint pain.
 
-Other top-ranked predictions show the same pattern: brachyolmia-amelogenesis imperfecta syndrome (99.71%), myosclerosis (99.68%), brachyolmia (99.67%), brachydactyly-syndactyly syndrome (99.66%), pseudoachondroplasia (99.66%) and colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.60%). All are rare genetic skeletal or developmental disorders with no supporting trials or literature. Pseudoachondroplasia has the most plausible symptom-level rationale (secondary joint pain and osteoarthritis), but it too would not address the primary COMP pathology.
+Other top-ranked predictions show the same pattern: brachyolmia-amelogenesis imperfecta syndrome (0.9971), myosclerosis (0.9968), brachyolmia (0.9967), brachydactyly-syndactyly syndrome (0.9966), pseudoachondroplasia (0.9966) and colobomatous microphthalmia-rhizomelic dysplasia syndrome (0.9960). All are rare genetic skeletal or developmental disorders with no supporting trials or literature. Pseudoachondroplasia has the most plausible symptom-level rationale (secondary joint pain and osteoarthritis), but it too would not address the primary COMP pathology.
 
 ## Clinical Trial Evidence
 
@@ -74,13 +74,13 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| NDA020402 | Advil (Haleon US Holdings LLC) | Capsule, liquid filled | Cancelled |
-| NDA018989 | Advil (Navajo Manufacturing Company Inc.) | Tablet, coated | Cancelled |
-| ANDA213794 | Ibuprofen (NuCare Pharmaceuticals) | Tablet | Cancelled |
-| ANDA071935 | Ibuprofen (Amneal Pharmaceuticals of New York) | Tablet | Cancelled |
-| ANDA078682 | Ibuprofen 200 (Walgreen Company) | Capsule, liquid filled | Cancelled |
+| NDA020402 | Advil (Haleon US Holdings LLC) | Capsule, liquid filled | Valid |
+| NDA018989 | Advil (Navajo Manufacturing Company Inc.) | Tablet, coated | Valid |
+| ANDA213794 | Ibuprofen (NuCare Pharmaceuticals) | Tablet | Valid |
+| ANDA071935 | Ibuprofen (Amneal Pharmaceuticals of New York) | Tablet | Valid |
+| ANDA078682 | Ibuprofen 200 (Walgreen Company) | Capsule, liquid filled | Valid |
 
-Approved-indication text is not available for these entries. Of 14 licenses in total, none are currently valid.
+Approved-indication text is not available for these entries.
 
 ## Safety Considerations
 
@@ -95,13 +95,13 @@ Package insert warnings and contraindications were not available in the compiled
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the TxGNN score (Evidence Level L5). There are no clinical trials or publications, and no plausible mechanism links COX inhibition to the GDF5/BMP defect. All US licenses are cancelled, and label safety data are missing.
+The prediction is supported only by the TxGNN score (Evidence Level L5). There are no clinical trials or publications, and no plausible mechanism links COX inhibition to the GDF5/BMP defect. The drug is marketed in the US with 14 valid licenses, but label safety data are missing.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and a credible mechanistic link between prostaglandin inhibition and GDF5/BMP signalling, or a clear rationale limited to symptomatic pain relief
 - Preclinical or observational evidence in acromesomelic dysplasia or related skeletal dysplasias
 - FDA package insert warnings and contraindications, to allow safety screening
-- Clarification of the current regulatory and market status, since all 14 licenses are cancelled
+- Clarification of the current regulatory and market status, since the drug is marketed with 14 valid licenses
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

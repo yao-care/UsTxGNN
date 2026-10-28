@@ -8,7 +8,7 @@ indication_count: 3
 monitor_inn: "OXYBUTYNIN"
 predicted_indications: ["restless legs syndrome", "gastroduodenitis", "peptic ulcer disease"]
 last_modified_at: 2026-10-14
-description: "Oxybutynin: predicted new indication Restless legs syndrome (evidence level L5). Approved use: Overactive bladder"
+description: "Oxybutynin: predicted new indication Restless legs syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Oxybutynin
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-## Oxybutynin: From Overactive Bladder to Restless Legs Syndrome
+## Oxybutynin: Restless legs syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,11 +45,11 @@ The TxGNN model predicts it may be effective for **Restless Legs Syndrome**, but
 
 | Item | Content |
 |------|------|
-| Original Indication | Overactive bladder (also neurogenic bladder and cauda equina syndrome, per the knowledge graph) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Restless legs syndrome |
-| TxGNN Prediction Score | 99.74% |
+| TxGNN Prediction Score | 0.9974 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all licenses cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 9) |
 | Number of NDAs | 9 (all cancelled; these are ANDA generic approvals) |
 | Recommended Decision | Hold |
 
@@ -60,8 +60,8 @@ Currently, detailed mechanism of action data is not available. Based on known in
 The link to restless legs syndrome is weak. This condition is mainly associated with dopaminergic dysfunction and brain iron deficiency. Anticholinergics are not an established treatment and may worsen sleep and cognition. The high TxGNN score is a computational prediction only and is not supported by a mechanistic or clinical rationale.
 
 Two other predictions were also generated, both at Hold and with no registered trials:
-- **Gastroduodenitis** (score 99.62%, L5): there is a plausible but unverified link through reduced gastrointestinal spasm and secretions. No literature was found.
-- **Peptic ulcer disease** (score 99.31%, L4): the evidence is limited to a 1964 uncontrolled clinical evaluation in GI disease, a 1965 pharmacology paper, and a 1990 case report of oxybutynin-induced reflux esophagitis, which points to a possible adverse GI effect. Modern standard care (PPIs, H. pylori eradication) makes anticholinergic therapy unlikely to be competitive.
+- **Gastroduodenitis** (score 0.9962, L5): there is a plausible but unverified link through reduced gastrointestinal spasm and secretions. No literature was found.
+- **Peptic ulcer disease** (score 0.9931, L4): the evidence is limited to a 1964 uncontrolled clinical evaluation in GI disease, a 1965 pharmacology paper, and a 1990 case report of oxybutynin-induced reflux esophagitis, which points to a possible adverse GI effect. Modern standard care (PPIs, H. pylori eradication) makes anticholinergic therapy unlikely to be competitive.
 
 ## Clinical Trial Evidence
 
@@ -81,7 +81,7 @@ For reference, the literature found for the third-ranked prediction (peptic ulce
 
 ## US Market Information
 
-All nine authorizations are generic (ANDA) approvals and all are cancelled. No approved indication text is available.
+The drug is marketed in the US with 9 valid licenses. No approved indication text is available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -108,7 +108,7 @@ Package insert warnings and contraindications were not available for this report
 **Decision: Hold**
 
 **Rationale:**
-The restless legs syndrome prediction has no registered trials or literature (Evidence Level L5) and no supporting mechanism. The drug has a known anticholinergic burden, and all US licenses are cancelled. The high TxGNN score alone is not sufficient to justify advancement.
+The restless legs syndrome prediction has no registered trials or literature (Evidence Level L5) and no supporting mechanism. The drug has a known anticholinergic burden, and it is marketed in the US with 9 valid licenses. The high TxGNN score (0.9974) alone is not sufficient to justify advancement.
 
 **To proceed, the following is needed:**
 - Mechanism of action data, and a plausible biological rationale linking antimuscarinic activity to restless legs syndrome

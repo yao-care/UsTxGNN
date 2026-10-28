@@ -48,10 +48,10 @@ but **no clinical trials and no publications** currently support this direction,
 |------|------|
 | Original Indication | Iron deficiency and iron deficiency anemia (the approved indication text is not recorded in the compiled license data) |
 | Predicted New Indication | Bronchitis |
-| TxGNN Prediction Score | 99.00% |
+| TxGNN Prediction Score | 0.9900 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 A speculative connection could involve iron status and host immune function or susceptibility to respiratory infection. This is only a hypothesis with no supporting data here. Intravenous iron may also carry infection-related concerns, which argues against assuming a benefit in bronchitis.
 
-The high TxGNN score (99.00%) is a computational prediction only. It is not backed by any clinical or literature evidence.
+The high TxGNN score (0.9900) is a computational prediction only. It is not backed by any clinical or literature evidence.
 
 ## Clinical Trial Evidence
 

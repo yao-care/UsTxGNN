@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "APOMORPHINE"
 predicted_indications: ["polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "schizophrenia", "myopia X-linked", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "syndromic myopia", "hydranencephaly (disease)"]
 last_modified_at: 2026-10-14
-description: "Apomorphine: predicted new indication Polymicrogyria, perisylvian… (evidence level L5). Approved use: Parkinson disease and related parkinsonian syndromes"
+description: "Apomorphine: predicted new indication polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (evidence level L5). Approved use: Parkinson disease and related parkinsonian syndromes"
 ---
 
 # Apomorphine
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Apomorphine: From Parkinson Disease to Schizophrenia
+## Apomorphine: From Parkinson Disease to polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -41,7 +41,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 Apomorphine is a dopamine receptor agonist, originally used to treat Parkinson disease and related parkinsonian syndromes.
 The TxGNN model's top-ranked prediction is a rare congenital brain malformation with no supporting evidence. The only prediction with any literature behind it is **Schizophrenia** (ranked 5th), supported by **0 clinical trials** and **20 publications**, most of them older, exploratory, or indirect.
 
-> Note: The first-ranked prediction, perisylvian polymicrogyria with cerebellar hypoplasia and arthrogryposis (score 99.75%), has no trials, no literature, and no plausible mechanism. This report therefore focuses on schizophrenia, the best-documented candidate among the top 10.
+> Note: The first-ranked prediction, perisylvian polymicrogyria with cerebellar hypoplasia and arthrogryposis (score 0.9975), has no trials, no literature, and no plausible mechanism. This report therefore focuses on schizophrenia, the best-documented candidate among the top 10.
 
 ## Quick Overview
 
@@ -49,10 +49,10 @@ The TxGNN model's top-ranked prediction is a rare congenital brain malformation 
 |------|------|
 | Original Indication | Parkinson disease and related parkinsonian syndromes (the data compiled for this report contain no approved-indication text for the US labels) |
 | Predicted New Indication | Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (rank 1); Schizophrenia (rank 5, the only candidate with literature) |
-| TxGNN Prediction Score | 99.75% (rank 1); 99.69% (schizophrenia) |
+| TxGNN Prediction Score | 0.9975 (rank 1); 0.9969 (schizophrenia) |
 | Evidence Level | L5 for rank 1; L4 for schizophrenia |
-| US Market Status | Cancelled only (no currently valid licences) |
-| Number of NDAs | 3 (all cancelled) |
+| US Market Status | Marketed (valid licenses: 3 of 3) |
+| Number of NDAs | 3 (valid: 3) |
 | Recommended Decision | Hold (schizophrenia: research question only) |
 
 ## Why is This Prediction Reasonable?
@@ -91,17 +91,17 @@ The table below lists the most relevant publications for schizophrenia (rank 5).
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA214056 | ONAPGO | Injection, solution | Not available (cancelled) |
-| NDA021264 | APOKYN | Injection | Not available (cancelled) |
-| ANDA212025 | Apomorphine hydrochloride | Injection | Not available (cancelled) |
+| NDA214056 | ONAPGO | Injection, solution | Not available (valid) |
+| NDA021264 | APOKYN | Injection | Not available (valid) |
+| ANDA212025 | Apomorphine hydrochloride | Injection | Not available (valid) |
 
-All three authorizations are listed as cancelled, so no currently valid US licence exists in the compiled data. All are injectable products.
+All three authorizations are listed as valid, so currently valid US licences exist in the compiled data. All are injectable products.
 
 ## Safety Considerations
 
 Package insert warnings and contraindications were not available in the data compiled for this report. Please refer to the package insert for safety information. The following supplementary information is available:
 
-- **Disease-level contraindications (knowledge-graph signals, not label text):** multiple system atrophy, postural orthostatic tachycardia syndrome, orthostatic hypotension, drug-induced dyskinesia, long QT syndrome (including familial), torsades de pointes, liver disease, gallbladder disease, psychotic disorders (including schizophreniform and schizoaffective disorder), mental disorder, potassium deficiency, substance abuse/dependence, coronary artery disease, impaired renal function, priapism, and cerebrovascular disorder.
+- **Disease-level contraindications (TxGNN model (deep learning) signals, not label text; they may reflect similarities the model learned between related diseases, not biological evidence):** multiple system atrophy, postural orthostatic tachycardia syndrome, orthostatic hypotension, drug-induced dyskinesia, long QT syndrome (including familial), torsades de pointes, liver disease, gallbladder disease, psychotic disorders (including schizophreniform and schizoaffective disorder), mental disorder, potassium deficiency, substance abuse/dependence, coronary artery disease, impaired renal function, priapism, and cerebrovascular disorder.
   - **Important for this repurposing question:** psychotic disorders and mental disorders appear in this list. This directly conflicts with the schizophrenia prediction and would need careful review.
 - **Drug interactions:** 100 interactions were recorded. Examples (first 20 reviewed):
   - **Major:** alosetron, cisapride, dolasetron, granisetron (QT-prolongation and related concerns are likely relevant).
@@ -113,13 +113,13 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-- All ten predictions rest on model scores alone, or on indirect, old, small studies. None has a registered clinical trial. The top prediction (polymicrogyria) has no plausible mechanism. For schizophrenia, the small controlled studies from 1975–1984 showed no significant benefit, and psychotic disorders appear among the knowledge-graph contraindications. Schizophrenia is best treated as a research question rather than a development candidate. All US licences are also cancelled.
+- All ten predictions rest on model scores alone, or on indirect, old, small studies. None has a registered clinical trial. The top prediction (polymicrogyria) has no plausible mechanism. For schizophrenia, the small controlled studies from 1975–1984 showed no significant benefit, and psychotic disorders appear among the knowledge-graph contraindications. Schizophrenia is best treated as a research question rather than a development candidate. The drug is marketed in the US, and all 3 licences are valid.
 
 **To proceed, the following is needed:**
 - Mechanism-of-action data and package insert warnings and contraindications (currently missing; the latter is a blocking gap for safety screening).
 - For schizophrenia, a careful review of the older negative studies and the psychosis-related contraindication signal, followed by preclinical or mechanistic work (for example, autoreceptor-selective effects) before any clinical consideration.
 - For the myopia and retinal predictions, supporting preclinical evidence, since retinal dopamine is only a hypothesis here, plus a route-of-administration assessment (current products are injectables only).
-- Confirmation of the current US regulatory and supply status, given that all licences are cancelled.
+- Confirmation of the current US regulatory and supply status, given that all 3 licences are listed as valid.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

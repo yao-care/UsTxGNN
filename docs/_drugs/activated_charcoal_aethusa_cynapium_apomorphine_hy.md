@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Activated Charcoal Aethusa Cynapium Apomorphine Hy
@@ -51,7 +52,7 @@ Without a TxGNN prediction score, clinical trial linkage, or literature support,
 | Predicted New Indication | None (TxGNN returned no predictions) |
 | TxGNN Prediction Score | — |
 | Evidence Level | L5 — Model prediction only; no actual studies linked |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 11) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

@@ -4,7 +4,7 @@ title: Cemiplimab
 parent: Model Prediction Only (L5)
 nav_order: 511
 evidence_level: L5
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-14
 description: "Cemiplimab: predicted new indication Gallbladder adenosquamous carcinoma (evidence level L5). Approved use: Squamous cell carcinoma"
 monitor_inn: "CEMIPLIMAB"
@@ -14,7 +14,7 @@ predicted_indications: ["gallbladder adenosquamous carcinoma", "rectal cloacogen
 # Cemiplimab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ but **no clinical trials and no publications** currently support this specific p
 |------|------|
 | Original Indication | Squamous cell carcinoma |
 | Predicted New Indication | Gallbladder adenosquamous carcinoma |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (the single BLA on record is listed as cancelled) |
-| Number of NDAs | 1 (BLA) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -64,13 +64,13 @@ The predicted indication, gallbladder adenosquamous carcinoma, contains a squamo
 
 ### Other Top Predictions
 
-The model produced nine other high-scoring predictions, all with scores around 99.99%. Only one has any supporting literature.
+The model produced nine other high-scoring predictions, all with scores around 0.9999. Only one has any supporting literature.
 
 | Rank | Predicted Indication | Evidence Level | Comment |
 |---|---|---|---|
 | 2 | Glottis squamous cell carcinoma | L5 | Head and neck squamous cancers respond to PD-1 blockade as a class; no cemiplimab-specific data |
 | 3 | Rectal cloacogenic carcinoma | L5 | Squamous features; PD-1 blockade explored in anal squamous carcinoma |
-| 4 | External ear basal cell carcinoma | L4 | One case report; the most supported of the ten |
+| 4 | External ear basal cell carcinoma | L5 | One case report; the most supported of the ten |
 | 5 | Adenosquamous prostate carcinoma | L5 | Prostate cancer generally responds poorly to PD-1 blockade |
 | 6 | Urethral verrucous carcinoma | L5 | Usually treated surgically; weak rationale |
 | 7 | Lung occult squamous cell carcinoma | L5 | Class activity in squamous NSCLC; no data for the occult setting |
@@ -96,7 +96,7 @@ For reference, the one publication supplied for another predicted indication (ex
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA761097 | LIBTAYO | Injection | Not listed in the data compiled; the record shows the authorization as cancelled (manufacturer: Regeneron Pharmaceuticals, Inc.) |
+| BLA761097 | LIBTAYO | Injection | Not listed in the data compiled; the record shows the authorization as valid (manufacturer: Regeneron Pharmaceuticals, Inc.) |
 
 The cancelled status in this record conflicts with the pharmacology data, which describe FDA approval in 2018 with expansions in 2021 and 2025. The current marketing status should be confirmed against the FDA database before any decision is made.
 

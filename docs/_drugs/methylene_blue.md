@@ -4,17 +4,17 @@ title: Methylene Blue
 parent: Model Prediction Only (L5)
 nav_order: 915
 evidence_level: L5
-indication_count: 3
+indication_count: 1
 last_modified_at: 2026-10-14
-description: "Methylene Blue: predicted new indication Bronchitis (evidence level L5). Approved use: Methemoglobinemia, sulfhemoglobinemia"
 monitor_inn: "METHYLENE BLUE"
-predicted_indications: ["bronchitis", "methemoglobinemia, alpha type", "methemoglobinemia due to deficiency of methemoglobin reductase"]
+predicted_indications: ["bronchitis"]
+description: "Methylene Blue: predicted new indication Bronchitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Methylene Blue
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-## Methylene Blue: From Methemoglobinemia to Bronchitis
+## Methylene Blue: Bronchitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,11 +47,11 @@ The TxGNN model predicts it may be effective for **bronchitis**, but the evidenc
 
 | Item | Content |
 |------|------|
-| Original Indication | Methemoglobinemia, sulfhemoglobinemia (from the knowledge graph; no approved indication text is available in the US license records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Bronchitis |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
+| US Market Status | Marketed (valid licenses on record: at least 10) |
 | Number of NDAs | 10 (all cancelled; most are ANDAs) |
 | Recommended Decision | Hold |
 
@@ -63,7 +63,6 @@ Detailed mechanism-of-action data for methylene blue is not available in the dat
 
 Its established use is in methemoglobinemia, where it is reduced to leucomethylene blue and then converts methemoglobin back to hemoglobin. This mechanism has no obvious link to bronchitis, a respiratory tract inflammatory or infectious condition. The TxGNN score is very high, but none of the retrieved literature tests methylene blue as a treatment for bronchitis. The prediction therefore cannot be grounded in the data supplied and should be treated as a model-generated hypothesis.
 
-Two other predictions for this drug are much closer to its original use: methemoglobinemia, alpha type (score 99.36%) and methemoglobinemia due to methemoglobin reductase deficiency (score 99.36%). The latter has some supporting case reports and veterinary data, which makes it a more biologically coherent research direction (see the final section).
 
 ---
 
@@ -92,7 +91,7 @@ None of these publications shows therapeutic benefit of methylene blue in bronch
 
 ## US Market Information
 
-All 10 US authorizations are listed as cancelled, and no approved indication text is recorded for them.
+All 10 US authorizations are listed as valid, the drug is marketed, and no approved indication text is recorded for them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

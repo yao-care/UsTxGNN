@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "ENOXAPARIN"
 predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive"]
 last_modified_at: 2026-10-14
-description: "Enoxaparin: predicted new indication Thrombophilia due to protein C deficiency, autosomal recessive (evidence level L5). Approved use: Pulmonary embolism"
+description: "Enoxaparin: predicted new indication Thrombophilia due to protein C deficiency, autosomal recessive (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Enoxaparin
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-## Enoxaparin: From Pulmonary Embolism to Thrombophilia Due to Protein C Deficiency (Autosomal Recessive)
+## Enoxaparin: Thrombophilia due to protein C deficiency, autosomal recessive
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ but the data compiled for this report contain **no clinical trials and no public
 
 | Item | Content |
 |------|------|
-| Original Indication | Pulmonary embolism; disseminated intravascular coagulation; purpura fulminans; acquired purpura fulminans (from the knowledge graph; no approved indication text is available in the US license records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Thrombophilia due to protein C deficiency, autosomal recessive |
-| TxGNN Prediction Score | 99.58% |
+| TxGNN Prediction Score | 0.9958 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all listed authorizations are cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 7) |
 | Number of NDAs | 7 (1 NDA and 6 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
@@ -74,13 +74,13 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| NDA020164 | Lovenox (Sanofi-Aventis U.S. LLC) | Injection | Cancelled |
-| ANDA076726 | Enoxaparin Sodium (Zydus Pharmaceuticals USA Inc.) | Injection, solution | Cancelled |
-| ANDA076684 | Enoxaparin Sodium (BluePoint Laboratories) | Injection | Cancelled |
-| ANDA077857 | Enoxaparin Sodium (Cardinal Health 107, LLC) | Injection | Cancelled |
-| ANDA205660 | Enoxaparin Sodium (Hepalink USA Inc.) | Injection, solution | Cancelled |
+| NDA020164 | Lovenox (Sanofi-Aventis U.S. LLC) | Injection | Valid |
+| ANDA076726 | Enoxaparin Sodium (Zydus Pharmaceuticals USA Inc.) | Injection, solution | Valid |
+| ANDA076684 | Enoxaparin Sodium (BluePoint Laboratories) | Injection | Valid |
+| ANDA077857 | Enoxaparin Sodium (Cardinal Health 107, LLC) | Injection | Valid |
+| ANDA205660 | Enoxaparin Sodium (Hepalink USA Inc.) | Injection, solution | Valid |
 
-Two further cancelled ANDAs (ANDA214646, ANDA206834) are also on record. Approved indication text is not available in the license records. All seven authorizations show as cancelled, so current product availability needs to be verified.
+Two further ANDAs (ANDA214646, ANDA206834) are also on record. Approved indication text is not available in the license records. The drug is marketed in the US, with 7 valid licenses.
 
 ## Safety Considerations
 
@@ -106,7 +106,7 @@ Package insert warnings and contraindications were not available in the compiled
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high, but it is the only support. There are no clinical trials or publications for this indication (evidence level L5), the mechanism-of-action data and label safety data are missing, and all US authorizations are cancelled.
+The prediction score is very high, but it is the only support. There are no clinical trials or publications for this indication (evidence level L5), the mechanism-of-action data and label safety data are missing, and the drug is marketed in the US with 7 valid licenses.
 
 **To proceed, the following is needed:**
 - Systematic literature search on heparin or enoxaparin use in severe congenital protein C deficiency (case reports, registries, guidelines)

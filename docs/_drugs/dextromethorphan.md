@@ -4,17 +4,17 @@ title: Dextromethorphan
 parent: Model Prediction Only (L5)
 nav_order: 599
 evidence_level: L5
-indication_count: 6
-last_modified_at: 2026-10-14
-description: "Dextromethorphan: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold…"
+indication_count: 5
+last_modified_at: 2026-10-28
 monitor_inn: "DEXTROMETHORPHAN"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "faucial diphtheria", "trigeminal autonomic cephalalgia", "cervical disc degenerative disorder", "allergic urticaria"]
+predicted_indications: ["nasal cavity disease", "faucial diphtheria", "trigeminal autonomic cephalalgia", "cervical disc degenerative disorder", "allergic urticaria"]
+description: "Dextromethorphan: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Dextromethorphan
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-## Dextromethorphan: From Allergic Rhinitis and Common Cold to Nasal Cavity Disease
+## Dextromethorphan: Nasal cavity disease
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,11 +45,11 @@ The TxGNN model predicts it may be effective for **nasal cavity disease**, but *
 
 | Item | Content |
 |------|------|
-| Original Indication | Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold, rhinitis, nasopharyngitis, headache disorder (from the knowledge graph; no approved indication text on the US licenses) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Nasal cavity disease |
-| TxGNN Prediction Score | 99.98% |
+| TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all licenses cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of NDAs | 5 licenses in total (4 OTC monograph or ANDA entries and 1 NDA; all cancelled) |
 | Recommended Decision | Hold |
 
@@ -57,15 +57,15 @@ The TxGNN model predicts it may be effective for **nasal cavity disease**, but *
 
 Detailed mechanism of action data is not available for this report. From general pharmacology, dextromethorphan is an NMDA receptor antagonist and sigma-1 agonist with central antitussive (cough-suppressing) activity. It does not have an established direct effect on nasal mucosal disease.
 
-The high score most likely reflects proximity in the knowledge graph. Dextromethorphan is already linked to allergic rhinitis, vasomotor rhinitis and rhinitis, all of which are nasal cavity conditions. The prediction therefore looks like an extension of existing rhinitis-related uses rather than a newly identified mechanism. Any benefit would probably be symptomatic (for example, cough relief), not disease-modifying.
+The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Dextromethorphan is already linked to allergic rhinitis, vasomotor rhinitis and rhinitis, all of which are nasal cavity conditions. The prediction therefore looks like an extension of existing rhinitis-related uses rather than a newly identified mechanism. Any benefit would probably be symptomatic (for example, cough relief), not disease-modifying.
 
 Other predicted indications show a similar pattern:
 
-- **Acute laryngopharyngitis (99.98%)**: Likely driven by overlap with pharyngitis and common cold; at most symptomatic cough relief.
-- **Faucial diphtheria (99.36%)**: Implausible as a therapeutic target. It is a bacterial toxin-mediated infection, and dextromethorphan has no antibacterial or antitoxin activity.
-- **Trigeminal autonomic cephalalgia (99.32%)**: A plausible but unverified hypothesis via NMDA antagonism and central sensitization in trigeminal pain pathways.
-- **Cervical disc degenerative disorder (99.30%)**: Only an indirect link, through possible modulation of neuropathic pain.
-- **Allergic urticaria (99.25%)**: No established antihistaminic or mast-cell activity; likely proximity to allergic rhinitis in the graph.
+- **Acute laryngopharyngitis (0.9998)**: Likely driven by overlap with pharyngitis and common cold; at most symptomatic cough relief.
+- **Faucial diphtheria (0.9936)**: Implausible as a therapeutic target. It is a bacterial toxin-mediated infection, and dextromethorphan has no antibacterial or antitoxin activity.
+- **Trigeminal autonomic cephalalgia (0.9932)**: A plausible but unverified hypothesis via NMDA antagonism and central sensitization in trigeminal pain pathways.
+- **Cervical disc degenerative disorder (0.9930)**: Only an indirect link, through possible modulation of neuropathic pain.
+- **Allergic urticaria (0.9925)**: No established antihistaminic or mast-cell activity; the score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Clinical Trial Evidence
 
@@ -79,13 +79,13 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| M012 | Childrens Giltuss Honey DM Cough | Liquid | Not stated (cancelled) |
-| M010 | RoboCough | Liquid | Not stated (cancelled) |
-| ANDA091135 | cough dm | Suspension | Not stated (cancelled) |
-| M013 | Dextabs | Tablet | Not stated (cancelled) |
-| NDA018658 | DELSYM | Suspension, extended release | Not stated (cancelled) |
+| M012 | Childrens Giltuss Honey DM Cough | Liquid | Not stated (valid) |
+| M010 | RoboCough | Liquid | Not stated (valid) |
+| ANDA091135 | cough dm | Suspension | Not stated (valid) |
+| M013 | Dextabs | Tablet | Not stated (valid) |
+| NDA018658 | DELSYM | Suspension, extended release | Not stated (valid) |
 
-All five US authorizations are cancelled, so no single-ingredient or combination product is currently valid in this dataset.
+All five US authorizations are valid, and the drug is currently marketed in the US.
 
 ## Safety Considerations
 
@@ -109,7 +109,7 @@ Notable moderate interactions include bupropion, cimetidine, morphine (including
 **Decision: Hold**
 
 **Rationale:**
-The prediction has the highest model score but no clinical trial or literature support (Evidence Level L5). It most likely reflects proximity to existing rhinitis indications rather than a new mechanism. Because all US licenses are cancelled and no label safety data were available, there is no basis to advance.
+The prediction has the highest model score but no clinical trial or literature support (Evidence Level L5). The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Because no label safety data were available, there is no basis to advance.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

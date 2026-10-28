@@ -48,10 +48,10 @@ The prediction rests on the model score alone.
 |------|------|
 | Original Indication | Influenza |
 | Predicted New Indication | Pyelonephritis |
-| TxGNN Prediction Score | 99.84% |
+| TxGNN Prediction Score | 0.9984 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (the single NDA is cancelled) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available from the data comp
 
 A plausible mechanistic link to pyelonephritis is hard to find. Pyelonephritis is mostly caused by bacteria such as *E. coli*, not by viruses. Bacteria do produce neuraminidases (sialidases) that may contribute to virulence, but zanamivir has little established activity against them, so this idea is speculative.
 
-Practical feasibility is also limited. Systemic exposure from the inhaled formulation is low, and an intravenous form is not widely marketed, which makes treating a urinary tract infection difficult. The high score is likely an artifact of the knowledge graph, for example connections through infection-related nodes.
+Practical feasibility is also limited. Systemic exposure from the inhaled formulation is low, and an intravenous form is not widely marketed, which makes treating a urinary tract infection difficult. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Clinical Trial Evidence
 
@@ -90,18 +90,18 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a high model score. There are no clinical trials or literature, no plausible mechanism against bacterial pyelonephritis, and the only US license is cancelled. The score is likely a knowledge-graph artifact.
+The prediction rests only on a high model score. There are no clinical trials or literature, no plausible mechanism against bacterial pyelonephritis, and the only US license is cancelled. The score is likely a TxGNN model (deep learning) artifact.
 
 **To proceed, the following is needed:**
 - Detailed mechanism of action data, including any evidence of zanamivir activity against bacterial neuraminidases
 - Preclinical evidence in relevant urinary tract infection models
 - Package insert warnings and contraindications
 - Pharmacokinetic data on urinary exposure and feasible routes of administration, since the inhaled form gives low systemic exposure
-- A review of how the knowledge graph produced this prediction
+- A review of how the TxGNN model (deep learning) produced this prediction
 
 ---
 
-**Note on the second prediction (disorder of tyrosine metabolism, score 99.02%):** This candidate is also at Evidence Level L5 with a Hold recommendation. The three retrieved publications all concern influenza neuraminidase inhibitors (oseltamivir resistance, an SPR inhibition assay, and an N294S neuraminidase mutation). None addresses tyrosine metabolism, and there is no apparent mechanistic link. This is most likely a prediction artifact.
+**Note on the second prediction (disorder of tyrosine metabolism, score 0.9902):** This candidate is also at Evidence Level L5 with a Hold recommendation. The three retrieved publications all concern influenza neuraminidase inhibitors (oseltamivir resistance, an SPR inhibition assay, and an N294S neuraminidase mutation). None addresses tyrosine metabolism, and there is no apparent mechanistic link. This is most likely a prediction artifact.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -4,17 +4,17 @@ title: Moxifloxacin
 parent: Model Prediction Only (L5)
 nav_order: 944
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Moxifloxacin: predicted new indication Polyclonal hyperviscosity syndrome (evidence level L5). Approved use: Bacterial infections (pneumonia, conjunctivitis, peritonitis…"
 monitor_inn: "MOXIFLOXACIN"
-predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder", "hematopoietic and lymphoid system neoplasm", "bubonic plague"]
+predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder", "hematopoietic and lymphoid system neoplasm"]
+description: "Moxifloxacin: predicted new indication Polyclonal hyperviscosity syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Moxifloxacin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Moxifloxacin: From Bacterial Infections to Polyclonal Hyperviscosity Syndrome
+## Moxifloxacin: Polyclonal hyperviscosity syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,11 +45,11 @@ The TxGNN model predicts it may be effective for **polyclonal hyperviscosity syn
 
 | Item | Content |
 |------|------|
-| Original Indication | Bacterial infections (pneumonia, conjunctivitis, peritonitis, plague and others) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Polyclonal hyperviscosity syndrome |
-| TxGNN Prediction Score | 99.98% |
+| TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 10) |
 | Number of NDAs | 10 (all cancelled) |
 | Recommended Decision | Hold |
 
@@ -69,7 +69,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-All 10 US authorizations are cancelled. The five main ones are listed below. Approved indication text was not available for these entries.
+The drug is marketed in the US, with 10 valid authorizations. The five main ones are listed below. Approved indication text was not available for these entries.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -92,14 +92,13 @@ All 10 US authorizations are cancelled. The five main ones are listed below. App
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting trials or literature and no plausible mechanism (L5). The drug has no currently valid US license, and its safety profile (QT prolongation, neuropathy, tendon and liver risks) is a concern. In this case, repurposing is not justified without new evidence.
+The prediction has no supporting trials or literature and no plausible mechanism (L5). In this case, repurposing is not justified without new evidence.
 
 **To proceed, the following is needed:**
 - Preclinical or mechanistic data showing any effect on serum viscosity or immunoglobulin-related pathology
 - Mechanism of action data and package insert warnings and contraindications to complete the safety screening
-- Confirmation of current US availability, since all licenses are cancelled
+- Confirmation of current US availability
 
-**Note:** Among the other predictions for this drug, **bubonic plague** (TxGNN score 99.41%) has the most coherent rationale. It has preclinical support (animal and in vitro studies against *Yersinia pestis*) and is an extension of the drug's existing plague indications rather than true repurposing. It is a more sensible direction for follow-up than the top-ranked prediction, though no human trial data exist for it.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -4,17 +4,17 @@ title: Metoclopramide
 parent: Model Prediction Only (L5)
 nav_order: 918
 evidence_level: L5
-indication_count: 5
+indication_count: 2
 last_modified_at: 2026-10-14
-description: "Metoclopramide: predicted new indication Gastric ulcer (evidence level L5). Approved use: Gastroesophageal reflux disease, esophagitis, peptic esophagitis"
 monitor_inn: "METOCLOPRAMIDE"
 predicted_indications: ["gastroduodenitis", "peptic ulcer perforation"]
+description: "Metoclopramide: predicted new indication Gastroduodenitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Metoclopramide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-## Metoclopramide: From Gastroesophageal Reflux Disease to Gastric Ulcer
+## Metoclopramide: Gastroduodenitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,11 +48,11 @@ but only **1 clinical trial** (a procedural study in upper GI bleeding) and **20
 
 | Item | Content |
 |------|------|
-| Original Indication | Gastroesophageal reflux disease, esophagitis, peptic esophagitis (from the knowledge graph; the US license records contain no indication text) |
-| Predicted New Indication | Gastric ulcer |
-| TxGNN Prediction Score | 99.93% |
-| Evidence Level | L3 (as assessed in the data compiled for this report; no completed Phase 3 or Phase 2/3 RCT for ulcer treatment) |
-| US Market Status | Cancelled only (all licenses cancelled) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Gastroduodenitis |
+| TxGNN Prediction Score | 0.9990 |
+| Evidence Level | L5 (as assessed in the data compiled for this report; no completed Phase 3 or Phase 2/3 RCT for ulcer treatment) |
+| US Market Status | Marketed (valid licenses on record: at least 10) |
 | Number of NDAs | 10 (all ANDAs, generic applications; none is an NDA) |
 | Recommended Decision | Hold |
 
@@ -70,10 +70,8 @@ Other predicted indications are weaker still:
 
 | Predicted Indication | TxGNN Score | Evidence Level | Assessment |
 |------|------|------|------|
-| Gastroduodenitis | 99.90% | L4 | Plausible motility effects only; no trials |
-| Peptic ulcer disease | 99.85% | L4 | Symptomatic or pre-endoscopy use only; no direct RCT of ulcer healing |
-| Gastrojejunal ulcer | 99.78% | L5 | No disease-specific evidence |
-| Peptic ulcer perforation | 99.78% | L5 | No credible link; prokinetics are generally contraindicated in suspected perforation |
+| Gastroduodenitis | 0.9990 | L5 | Plausible motility effects only; no trials |
+| Peptic ulcer perforation | 0.9978 | L5 | No credible link; prokinetics are generally contraindicated in suspected perforation |
 
 ---
 
@@ -129,7 +127,6 @@ All 10 US authorizations are generic applications (ANDAs) with a cancelled statu
 - Metabolic and organ-related: porphyria (inherited porphyria, porphyrin metabolism disease), cirrhosis of liver, impaired renal function, pyruvate dehydrogenase E3 deficiency, methemoglobinemia due to methemoglobin reductase deficiency
 - Psychiatric: anxiety disorder, neurotic disorder, dysthymic disorder
 
-Note that "active peptic ulcer disease" appears among the knowledge-graph contraindications, which runs against the predicted ulcer indication and warrants careful review.
 
 **Drug Interactions:** 100 interactions were found; the first 20 retrieved are summarized here.
 - **Major:** Tramadol, Amisulpride
@@ -153,7 +150,6 @@ Several of the interactions involve CNS depressants and opioids. Please refer to
 - Mechanism of action data (for example from DrugBank)
 - Results of NCT05746377 and the 2024 and 2026 visualization RCTs, to define whether a narrower pre-endoscopy use in upper GI bleeding is worth pursuing as a separate question
 - Clarification of the safety conflict with active peptic ulcer disease
-- Current US market status check, since all 10 generic licenses are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

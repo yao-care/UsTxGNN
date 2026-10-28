@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Interferon Gamma-1B
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 803
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 monitor_inn: "INTERFERON GAMMA-1B"
 predicted_indications: ["heart disease", "Jeune syndrome situs inversus", "orofacial clefting syndrome", "Pierre Robin syndrome associated with a chromosomal anomaly", "disorder of fucoglycosan synthesis", "genetic syndromic Pierre Robin syndrome", "partial deletion of the long arm of chromosome 7", "Laubry-Pezzi syndrome", "partial deletion of the long arm of chromosome 22", "interventricular septum aneurysm"]
@@ -14,7 +14,7 @@ description: "Interferon Gamma-1B: predicted new indication Heart disease (evide
 # Interferon Gamma-1B
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **heart disease**, but there ar
 |------|------|
 | Original Indication | Not available in the compiled data (the approved indication text on both license records is empty) |
 | Predicted New Indication | Heart disease |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 2 license records (both cancelled) |
+| TxGNN Prediction Score | 0.9999 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ---

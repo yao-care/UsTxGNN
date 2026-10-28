@@ -48,9 +48,9 @@ with **1 clinical trial** (a small, ongoing, non-placebo-controlled study) and a
 |------|------|
 | Original Indication | Fungal skin infections (e.g., tinea pedis, seborrheic dermatitis, cutaneous candidiasis, pityriasis versicolor). The US license records compiled for this report contain no approved-indication text. |
 | Predicted New Indication | Acne (disease) |
-| TxGNN Prediction Score | 99.80% |
+| TxGNN Prediction Score | 0.9980 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (all licenses cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 12) |
 | Number of NDAs | 12 licenses (1 NDA, 11 ANDAs or other) |
 | Recommended Decision | Hold |
 
@@ -89,7 +89,7 @@ None of these publications is a randomized trial of ketoconazole in acne. The ev
 
 ## US Market Information
 
-All 12 US licenses compiled for this report are cancelled, and none includes approved-indication text. The five main ones are listed below.
+The drug is marketed in the US, and all 12 US licenses compiled for this report are valid. None includes approved-indication text. The five main ones are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -114,13 +114,13 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is plausible, particularly for topical use, but supporting evidence is thin. There is one small, ongoing trial with an active comparator and no results, and the literature is laboratory-based or indirect. Systemic ketoconazole carries serious safety risks, and all US licenses are cancelled. The evidence level is L4, and the TxGNN score alone does not justify advancing.
+The prediction is plausible, particularly for topical use, but supporting evidence is thin. There is one small, ongoing trial with an active comparator and no results, and the literature is laboratory-based or indirect. Systemic ketoconazole carries serious safety risks, and the drug is marketed in the US under 12 valid licenses. The evidence level is L4, and the TxGNN score alone does not justify advancing.
 
 **To proceed, the following is needed:**
 - Results from NCT07237763, and ideally larger placebo-controlled or head-to-head Phase 2/3 trials of topical ketoconazole in acne
 - Confirmation of the mechanism of action and its link to acne, including the distinction between Malassezia folliculitis and true acne vulgaris
 - Package insert warnings and contraindications, which are currently missing and block formal safety screening
-- A decision on formulation (topical only is the realistic route) and a check of its current US regulatory and marketing status, given all licenses are cancelled
+- A decision on formulation (topical only is the realistic route) and a check of its current US regulatory and marketing status, given that the drug is marketed under 12 valid licenses
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -4,17 +4,17 @@ title: Potassium Iodide
 parent: Moderate Evidence (L3-L4)
 nav_order: 1070
 evidence_level: L4
-indication_count: 2
+indication_count: 1
 last_modified_at: 2026-10-14
-description: "Potassium Iodide: predicted new indication Nasal cavity disease (evidence level L4). Approved use: Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold…"
 monitor_inn: "POTASSIUM IODIDE"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis"]
+predicted_indications: ["nasal cavity disease"]
+description: "Potassium Iodide: predicted new indication Nasal cavity disease (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Potassium Iodide
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **2** 
+Evidence Level: **L4** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **2**
 
 </div>
 
-## Potassium Iodide: From Allergic Rhinitis and Upper Respiratory Conditions to Nasal Cavity Disease
+## Potassium Iodide: Nasal cavity disease
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ but there are **0 registered clinical trials** and only **4 publications** (all 
 
 | Item | Content |
 |------|------|
-| Original Indication | Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold, nasopharyngitis (from knowledge graph indication edges; no approved indication text on the US licenses) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Nasal cavity disease |
-| TxGNN Prediction Score | 99.95% |
+| TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 4) |
 | Number of NDAs | 4 (all cancelled) |
 | Recommended Decision | Hold |
 
@@ -77,13 +77,13 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All four US authorizations are cancelled. No approved indication text is available for them.
+Four US licenses are valid. No approved indication text is available for them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA018664 | IOSAT (Anbex Inc.) | Tablet | Not available (cancelled) |
-| ANDA076350 | Thyrosafe (BTG International Inc) | Tablet | Not available (cancelled) |
-| ANDA206211 | Potassium Iodide (Mission Pharmacal Company) | Solution | Not available (cancelled) |
+| NDA018664 | IOSAT (Anbex Inc.) | Tablet | Not available (valid) |
+| ANDA076350 | Thyrosafe (BTG International Inc) | Tablet | Not available (valid) |
+| ANDA206211 | Potassium Iodide (Mission Pharmacal Company) | Solution | Not available (valid) |
 | Not assigned | Kali Iodatum (Hahnemann Laboratories, Inc.) | Pellet | Not available (cancelled) |
 
 ## Safety Considerations
@@ -102,7 +102,7 @@ Please also refer to the package insert for official warnings and contraindicati
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a high model score and four case reports, three of them in animals, all describing fungal or fungus-like nasal infections. This does not support a general nasal cavity disease indication. The drug also has no currently valid US license, and there are many significant drug interactions.
+The prediction rests on a high model score and four case reports, three of them in animals, all describing fungal or fungus-like nasal infections. This does not support a general nasal cavity disease indication.
 
 **To proceed, the following is needed:**
 - Define a narrower, clinically meaningful target, such as fungal or fungus-like nasal infections, instead of "nasal cavity disease"
@@ -110,7 +110,7 @@ The prediction rests on a high model score and four case reports, three of them 
 - Mechanism of action data
 - FDA package insert warnings and contraindications
 - A review of the drug interaction profile, especially with ACE inhibitors, ARBs and NSAIDs, and a plan for potassium monitoring
-- A regulatory pathway given that all US licenses are cancelled
+- A regulatory pathway given that the drug is marketed in the US with four valid licenses
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

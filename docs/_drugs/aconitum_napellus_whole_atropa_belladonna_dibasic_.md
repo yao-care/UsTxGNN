@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Aconitum Napellus Whole Atropa Belladonna Dibasic 
@@ -51,7 +52,7 @@ This report therefore focuses on documenting known data gaps and outlining the m
 | Predicted New Indication | None — TxGNN returned no predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (no prediction generated; no actual studies identified) |
-| Market Status | Not marketed (Taiwan) |
+| Market Status | Marketed (valid licenses on record: at least 14) |
 | Number of Approved Licenses | 0 |
 | Recommended Decision | **Hold** |
 

@@ -48,13 +48,13 @@ but **no clinical trials and no publications** currently support this direction,
 |------|------|
 | Original Indication | Subarachnoid hemorrhage (including acquired aneurysmal subarachnoid hemorrhage) |
 | Predicted New Indication | Homozygous familial hypercholesterolemia |
-| TxGNN Prediction Score | 99.29% |
+| TxGNN Prediction Score | 0.9929 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 4 (all cancelled; 1 NDA and 3 ANDAs) |
+| US Market Status | Marketed (valid licenses: 4 of 4) |
+| Number of NDAs | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
-A second prediction, **nephrogenic syndrome of inappropriate antidiuresis (NSIAD)**, scored 99.05% and is also at evidence level L5 with a Hold recommendation. It is discussed briefly below.
+A second prediction, **nephrogenic syndrome of inappropriate antidiuresis (NSIAD)**, scored 0.9905 and is also at evidence level L5 with a Hold recommendation. It is discussed briefly below.
 
 ## Why is This Prediction Reasonable?
 
@@ -76,10 +76,10 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA216937 | Nimodipine (Camber Pharmaceuticals) | Solution | Not specified; status cancelled |
-| ANDA076740 | Nimodipine (Bionpharma) | Capsule, liquid filled | Not specified; status cancelled |
-| NDA203340 | Nymalize (Azurity Pharmaceuticals) | Solution | Not specified; status cancelled |
-| ANDA077811 | Nimodipine (Heritage/Avet Pharmaceuticals) | Capsule, liquid filled | Not specified; status cancelled |
+| ANDA216937 | Nimodipine (Camber Pharmaceuticals) | Solution | Not specified; status valid |
+| ANDA076740 | Nimodipine (Bionpharma) | Capsule, liquid filled | Not specified; status valid |
+| NDA203340 | Nymalize (Azurity Pharmaceuticals) | Solution | Not specified; status valid |
+| ANDA077811 | Nimodipine (Heritage/Avet Pharmaceuticals) | Capsule, liquid filled | Not specified; status valid |
 
 Available dosage forms are an oral liquid-filled capsule and a solution. Route compatibility with the predicted indications has not been assessed.
 
@@ -98,7 +98,7 @@ Please refer to the package insert for key warnings and formal contraindications
 **Decision: Hold**
 
 **Rationale:**
-Both predictions have only a computational basis (L5), with no clinical trials or literature. Neither has a plausible mechanistic link to nimodipine's calcium channel blockade. All US licenses are cancelled, and the safety profile (hypotension risk, liver disease caution, major interactions with CYP3A4 inhibitors such as clarithromycin) adds further caution.
+Both predictions have only a computational basis (L5), with no clinical trials or literature. Neither has a plausible mechanistic link to nimodipine's calcium channel blockade. The drug is marketed in the US, with 4 of 4 licenses valid, and the safety profile (hypotension risk, liver disease caution, major interactions with CYP3A4 inhibitors such as clarithromycin) adds further caution.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

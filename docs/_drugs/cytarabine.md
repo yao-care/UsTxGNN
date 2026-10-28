@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "CYTARABINE"
 predicted_indications: ["small cell lung carcinoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "upper aerodigestive tract neoplasm", "ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm", "neuroblastoma"]
 last_modified_at: 2026-10-14
-description: "Cytarabine: predicted new indication Small cell lung carcinoma (evidence level L4). Approved use: Acute lymphoblastic leukemia and acute myeloid leukemia (multiple sub…"
+description: "Cytarabine: predicted new indication Small cell lung carcinoma (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Cytarabine
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **9**
 
 </div>
 
-## Cytarabine: From Acute Leukemia to Small Cell Lung Carcinoma
+## Cytarabine: Small cell lung carcinoma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,12 +47,12 @@ The TxGNN model predicts it may be effective for **small cell lung carcinoma**, 
 
 | Item | Content |
 |------|------|
-| Original Indication | Acute lymphoblastic leukemia and acute myeloid leukemia (multiple subtypes) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Small cell lung carcinoma |
-| TxGNN Prediction Score | 99.78% |
+| TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 12 (all cancelled; 11 ANDAs and 1 NDA) |
+| US Market Status | Marketed (valid licenses: 12 of 12) |
+| Number of NDAs | 12 (valid: 12) |
 | Recommended Decision | Hold |
 
 ---
@@ -90,7 +90,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All 12 US authorizations are cancelled, and no approved indication text was available.
+All 12 US authorizations are valid and the drug is marketed, and no approved indication text was available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -128,14 +128,14 @@ Package insert warnings and contraindications were not available, so please refe
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a computational score and indirect evidence. No clinical trials exist, the only SCLC-specific publication has no available abstract, and the NSCLC studies showed low response rates with significant myelosuppression. Cytarabine also has no currently valid US license.
+The prediction rests on a computational score and indirect evidence. No clinical trials exist, the only SCLC-specific publication has no available abstract, and the NSCLC studies showed low response rates with significant myelosuppression.
 
 **To proceed, the following is needed:**
 - Retrieval and review of the full text of the 1987 high-dose cytarabine in SCLC report
 - Mechanism of action data
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Preclinical data on cytarabine activity in SCLC models
-- Clarification of regulatory and supply status given that all US licenses are cancelled
+- Clarification of regulatory and supply status given that the drug is marketed and all 12 US licenses are valid
 
 ---
 

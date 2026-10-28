@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "SODIUM OXYBATE"
 predicted_indications: ["insomnia (disease)", "obsolete neurogenic bladder (disease)", "sleep disorder, initiating and maintaining sleep", "cauda equina syndrome", "Wernicke-Korsakoff syndrome", "restless legs syndrome"]
 last_modified_at: 2026-10-14
-description: "Sodium Oxybate: predicted new indication Insomnia (evidence level L2). Approved use: Narcolepsy and narcolepsy-cataplexy syndrome"
+description: "Sodium Oxybate: predicted new indication Insomnia (disease) (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
 # Sodium Oxybate
@@ -33,7 +33,7 @@ Evidence Level: **L2** | Predicted Indications: **6**
 
 </div>
 
-## Sodium Oxybate: From Narcolepsy to Insomnia
+## Sodium Oxybate: Insomnia (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ with **3 clinical trials** (only 1 directly relevant) and **12 publications** cu
 
 | Item | Content |
 |------|------|
-| Original Indication | Narcolepsy and narcolepsy-cataplexy syndrome (the label indication text is not available, so this is taken from the knowledge-graph indication list) |
-| Predicted New Indication | Insomnia |
-| TxGNN Prediction Score | 99.997% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Insomnia (disease) |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L2 |
-| US Market Status | Cancelled only (all 4 authorizations are cancelled) |
-| Number of NDAs | 4 (2 NDAs and 2 ANDAs; 0 currently valid) |
+| US Market Status | Marketed (valid licenses: 4 of 4) |
+| Number of NDAs | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -90,10 +90,10 @@ No randomized trial results for sodium oxybate in insomnia appear among the publ
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA214755 | Lumryz (Avadel CNS Pharmaceuticals) | Extended-release suspension | Indication text not available; cancelled |
-| NDA021196 | Xyrem (Jazz Pharmaceuticals) | Solution | Indication text not available; cancelled |
-| ANDA210523 | Sodium oxybate (XLCare Pharmaceuticals) | Solution | Indication text not available; cancelled |
-| ANDA203631 | Sodium oxybate (Amneal Pharmaceuticals) | Solution | Indication text not available; cancelled |
+| NDA214755 | Lumryz (Avadel CNS Pharmaceuticals) | Extended-release suspension | Indication text not available; valid |
+| NDA021196 | Xyrem (Jazz Pharmaceuticals) | Solution | Indication text not available; valid |
+| ANDA210523 | Sodium oxybate (XLCare Pharmaceuticals) | Solution | Indication text not available; valid |
+| ANDA203631 | Sodium oxybate (Amneal Pharmaceuticals) | Solution | Indication text not available; valid |
 
 ## Safety Considerations
 
@@ -120,7 +120,7 @@ The only directly relevant trial is a small Phase 2 study (n=48) with no availab
 - Package insert warnings and contraindications
 - Mechanism of action data
 - A risk-benefit analysis covering respiratory depression, misuse and CNS-depressant interactions
-- Clarification of the current U.S. regulatory status, since all licenses are cancelled
+- Clarification of the current U.S. regulatory status, since the drug is marketed with 4 of 4 licenses valid
 - A larger Phase 2/3 randomized trial in insomnia with a safety plan that excludes sleep apnea and substance-use disorders
 ## Disclaimer
 

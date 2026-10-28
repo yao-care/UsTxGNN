@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Acetaminophen Chlorpheniramine Maleate Jujube Frui
@@ -49,7 +50,7 @@ This Evidence Pack covers a three-component combination product (acetaminophen, 
 | Predicted New Indication | No prediction generated |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — no predictions returned |
-| US Market Status | Not Marketed |
+| US Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 

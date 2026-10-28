@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Trastuzumab
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 1250
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 6
 last_modified_at: 2026-10-14
-description: "Trastuzumab: predicted new indication Progesterone-receptor positive breast cancer (evidence level L1). Approved use: HER2 positive breast carcinoma"
 monitor_inn: "TRASTUZUMAB"
 predicted_indications: ["malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "kidney pelvis sarcomatoid transitional cell carcinoma", "prostatic urethra urothelial carcinoma"]
+description: "Trastuzumab: predicted new indication Malignant cutaneous granular cell skin tumor (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Trastuzumab
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,25 +33,24 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-## Trastuzumab: From HER2-Positive Breast Carcinoma to Progesterone-Receptor Positive Breast Cancer
+## Trastuzumab: Malignant cutaneous granular cell skin tumor
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Trastuzumab is a HER2-targeted monoclonal antibody, originally used to treat HER2-positive breast carcinoma.
-The TxGNN model predicts it may be effective for **progesterone-receptor positive breast cancer**, with **12 clinical trials** and **20 publications** currently supporting this direction.
 This is best understood as an extension within the already established HER2-positive breast cancer indication rather than a true repurposing, because benefit depends on HER2 status, not progesterone receptor (PR) status.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | HER2 positive breast carcinoma |
-| Predicted New Indication | Progesterone-receptor positive breast cancer |
-| TxGNN Prediction Score | 99.90% |
-| Evidence Level | L1 |
-| US Market Status | Cancelled only (all 9 listings are marked cancelled) |
-| Number of NDAs | 9 (all biologics licence applications, BLAs) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Malignant cutaneous granular cell skin tumor |
+| TxGNN Prediction Score | 0.9948 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 9 of 9) |
+| Number of NDAs | 9 (valid: 9) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
@@ -138,11 +137,9 @@ A completed Phase 3 adjuvant trial with 3,270 patients (NCT01275677), plus rando
 
 ### Other Predicted Indications (Brief)
 
-- **Progesterone-receptor negative breast cancer** (score 99.90%, L1, Proceed with Guardrails): same HER2-selection caveat. Trastuzumab has no established role in triple-negative disease unless HER2 is expressed.
-- **Breast tumor luminal A or B** (score 99.90%, L2, Research Question): no trials listed. Rationale is limited to the HER2-positive luminal B subset.
-- **Normal breast-like subtype of breast carcinoma** (score 99.90%, L4, Hold): weak mechanistic rationale. The only trial is a not-yet-recruiting study of a different agent.
-- **Rare tumours** (malignant cutaneous granular cell skin tumor, ectomesenchymoma, HHV-8-related tumor, middle ear neuroendocrine tumor; scores 99.4–99.5%, L5, Hold): model prediction only, with no trials or literature.
-- **Urothelial tumours** (kidney pelvis sarcomatoid transitional cell carcinoma, prostatic urethra urothelial carcinoma; scores about 99.0%, L5, Hold): model prediction only, with HER2 expression in a subset of urothelial cancers as a plausible but untested hypothesis requiring biomarker confirmation.
+- Trastuzumab has no established role in triple-negative disease unless HER2 is expressed.
+- Rationale is limited to the HER2-positive luminal B subset.
+- The only trial is a not-yet-recruiting study of a different agent.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

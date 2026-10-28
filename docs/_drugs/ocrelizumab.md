@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "OCRELIZUMAB"
 predicted_indications: ["HER2 positive breast carcinoma", "progesterone-receptor positive breast cancer", "normal breast-like subtype of breast carcinoma", "breast tumor luminal A or B", "progesterone-receptor negative breast cancer"]
 last_modified_at: 2026-10-14
-description: "Ocrelizumab: predicted new indication HER2-positive breast carcinoma (evidence level L5). Approved use: Progressive multiple sclerosis"
+description: "Ocrelizumab: predicted new indication HER2 positive breast carcinoma (evidence level L5). Approved use: Progressive multiple sclerosis"
 ---
 
 # Ocrelizumab
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-## Ocrelizumab: From Progressive Multiple Sclerosis to HER2-Positive Breast Carcinoma
+## Ocrelizumab: From Progressive Multiple Sclerosis to HER2 positive breast carcinoma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,19 +48,19 @@ but there are currently **0 clinical trials** and **0 publications** that specif
 |------|------|
 | Original Indication | Progressive multiple sclerosis |
 | Predicted New Indication | HER2-positive breast carcinoma |
-| TxGNN Prediction Score | 99.89% |
+| TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 2 (BLA records) |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, ocrelizumab is a humanized anti-CD20 monoclonal antibody that depletes CD20-expressing B cells. Its efficacy in multiple sclerosis is well established. The publications compiled for this report describe B-cell depletion as the basis of its action in that disease.
 
-The data compiled for this report do not support a mechanistic link to HER2-positive breast carcinoma. HER2-driven tumour biology is not obviously connected to CD20-mediated B-cell depletion. The high TxGNN score (99.89%) is a computational prediction only, and no trials or publications back it.
+The data compiled for this report do not support a mechanistic link to HER2-positive breast carcinoma. HER2-driven tumour biology is not obviously connected to CD20-mediated B-cell depletion. The high TxGNN score (0.9989) is a computational prediction only, and no trials or publications back it.
 
-The other top-ranked predictions are also breast cancer subtypes: progesterone-receptor positive (99.81%), normal breast-like subtype (99.81%), luminal A or B (99.81%) and progesterone-receptor negative (99.80%). The first two share an identical score, which suggests they come from the same knowledge-graph neighbourhood rather than independent evidence. Hormone-receptor signalling is not a known target of anti-CD20 therapy.
+The other top-ranked predictions are also breast cancer subtypes: progesterone-receptor positive (0.9981), normal breast-like subtype (0.9981), luminal A or B (0.9981) and progesterone-receptor negative (0.9980). The first two share an identical score, which comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Hormone-receptor signalling is not a known target of anti-CD20 therapy.
 
 ## Clinical Trial Evidence
 
@@ -89,8 +89,8 @@ For the fourth-ranked prediction (luminal A or B breast tumour), the search retu
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA761053 | OCREVUS (Genentech, Inc.) | Injection | Status: cancelled |
-| BLA761371 | Ocrevus Zunovo (Genentech, Inc.) | Injection, solution | Status: cancelled |
+| BLA761053 | OCREVUS (Genentech, Inc.) | Injection | Status: valid |
+| BLA761371 | Ocrevus Zunovo (Genentech, Inc.) | Injection, solution | Status: valid |
 
 ## Safety Considerations
 

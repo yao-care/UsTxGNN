@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Sulfadiazine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1186
-evidence_level: L4
+evidence_level: L5
 indication_count: 2
 monitor_inn: "SULFADIAZINE"
 predicted_indications: ["pneumocystosis", "punctate epithelial keratoconjunctivitis"]
 last_modified_at: 2026-10-14
-description: "Sulfadiazine: predicted new indication Pneumocystosis (evidence level L4). Approved use: Toxoplasmosis (including congenital toxoplasmosis and ocular forms su…"
+description: "Sulfadiazine: predicted new indication Pneumocystosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Sulfadiazine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **2** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **2**
 
 </div>
 
-## Sulfadiazine: From Toxoplasmosis to Pneumocystosis
+## Sulfadiazine: Pneumocystosis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ but there are currently **0 clinical trials** and only **indirect literature (20
 
 | Item | Content |
 |------|------|
-| Original Indication | Toxoplasmosis (including congenital toxoplasmosis and ocular forms such as chorioretinitis), plus other conditions listed in the knowledge graph. No approved indication text is available from the US licenses. |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Pneumocystosis |
-| TxGNN Prediction Score | 99.39% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 2 (both cancelled) |
+| TxGNN Prediction Score | 0.9939 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -90,7 +90,6 @@ None of these publications is a randomized trial; all are reviews, case reports 
 | ANDA080084 (cancelled) | sulfADIAZINE (Chartwell RX, LLC) | Tablet | Not available |
 | ANDA040091 (cancelled) | SULFADIAZINE (Epic Pharma, LLC) | Tablet | Not available |
 
-Both authorizations are cancelled, so there is currently no valid US marketed product.
 
 ## Safety Considerations
 
@@ -119,7 +118,7 @@ The mechanistic link (folate pathway inhibition, class-level precedent with trim
 
 ### Note on the Second Predicted Indication
 
-The second prediction, **punctate epithelial keratoconjunctivitis** (TxGNN score 99.36%, evidence level L5), has no clinical trials or literature. This condition is often viral, so the antibacterial/antiprotozoal mechanism of sulfadiazine gives no clear rationale. The prediction may reflect the drug's ocular indications in the knowledge graph. **Decision: Hold.**
+The second prediction, **punctate epithelial keratoconjunctivitis** (TxGNN score 0.9936, evidence level L5), has no clinical trials or literature. This condition is often viral, so the antibacterial/antiprotozoal mechanism of sulfadiazine gives no clear rationale. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. **Decision: Hold.**
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

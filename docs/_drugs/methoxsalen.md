@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Methoxsalen
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 912
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 8
 last_modified_at: 2026-10-14
-description: "Methoxsalen: predicted new indication Localized pagetoid reticulosis (evidence level L4). Approved use: Primary cutaneous T-cell lymphoma (including non-Hodgkin type)"
 monitor_inn: "METHOXSALEN"
-predicted_indications: ["localized pagetoid reticulosis", "neoplasm of mature B-cells", "small intestinal Burkitt lymphoma", "thyroid gland mucosa-associated lymphoid tissue lymphoma", "small intestinal mucosa-associated lymphoid tissue lymphoma", "follicular lymphoma, susceptibility to, 1", "breast mucosa-associated lymphoid tissue lymphoma", "tonsillar lymphoma", "vulvar inverted follicular keratosis"]
+predicted_indications: ["localized pagetoid reticulosis", "neoplasm of mature B-cells", "small intestinal Burkitt lymphoma", "thyroid gland mucosa-associated lymphoid tissue lymphoma", "small intestinal mucosa-associated lymphoid tissue lymphoma", "breast mucosa-associated lymphoid tissue lymphoma", "tonsillar lymphoma", "vulvar inverted follicular keratosis"]
+description: "Methoxsalen: predicted new indication Localized pagetoid reticulosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Methoxsalen
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Methoxsalen: From Cutaneous T-Cell Lymphoma to Localized Pagetoid Reticulosis
+## Methoxsalen: Localized pagetoid reticulosis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ Currently there are **0 clinical trials** and **0 publications** specific to thi
 
 | Item | Content |
 |------|------|
-| Original Indication | Primary cutaneous T-cell lymphoma (including non-Hodgkin type); vitiligo |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Localized pagetoid reticulosis |
-| TxGNN Prediction Score | 99.97% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid authorizations) |
-| Number of NDAs | 2 (both cancelled) |
+| TxGNN Prediction Score | 0.9997 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -76,10 +76,9 @@ No literature was found for localized pagetoid reticulosis itself. For the secon
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA020969 | UVADEX (Therakos LLC) | Injection, solution | Not listed (cancelled) |
-| ANDA202687 | Methoxsalen (Strides Pharma Science Limited) | Capsule, liquid filled | Not listed (cancelled) |
+| NDA020969 | UVADEX (Therakos LLC) | Injection, solution | Not listed (valid) |
+| ANDA202687 | Methoxsalen (Strides Pharma Science Limited) | Capsule, liquid filled | Not listed (valid) |
 
-Both authorizations are cancelled, so no methoxsalen product is currently valid in the US based on the data compiled for this report.
 
 ## Safety Considerations
 
@@ -106,7 +105,7 @@ Many of these interactions likely relate to additive photosensitivity, but the d
 **Decision: Hold**
 
 **Rationale:**
-The prediction is mechanistically plausible because it lies within the cutaneous T-cell lymphoma family where PUVA is established. However, there are no trials or publications for this disease, the evidence is only L4, and no methoxsalen product currently holds a valid US authorization. The package insert safety data are missing, and the knowledge graph flags multiple contraindications, including skin cancers.
+The prediction is mechanistically plausible because it lies within the cutaneous T-cell lymphoma family where PUVA is established. The package insert safety data are missing, and the knowledge graph flags multiple contraindications, including skin cancers.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

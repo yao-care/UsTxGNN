@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "LEUPROLIDE"
 predicted_indications: ["osteoarthritis", "pseudoachondroplasia"]
 last_modified_at: 2026-10-14
-description: "Leuprolide: predicted new indication Osteoarthritis (evidence level L5). Approved use: Endometriosis, precocious puberty"
+description: "Leuprolide: predicted new indication Osteoarthritis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Leuprolide
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-## Leuprolide: From Endometriosis to Osteoarthritis
+## Leuprolide: Osteoarthritis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ but currently **0 clinical trials** and **1 publication** (an unrelated case rep
 
 | Item | Content |
 |------|------|
-| Original Indication | Endometriosis, precocious puberty (from the knowledge graph; no approved-indication text is available in the US licence records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Osteoarthritis |
-| TxGNN Prediction Score | 99.70% |
+| TxGNN Prediction Score | 0.9970 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all licences cancelled) |
-| Number of NDAs | 6 |
+| US Market Status | Marketed (valid licenses: 6 of 6) |
+| Number of NDAs | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,9 +60,9 @@ Detailed mechanism of action data is not currently available. Based on known pha
 
 A credible mechanistic link to osteoarthritis cannot be established from the data compiled for this report. Estrogen deficiency is generally associated with worse joint health (for example, higher osteoarthritis risk after menopause). GnRH-agonist-induced hypoestrogenism would therefore be expected to be neutral or harmful rather than beneficial.
 
-The very high TxGNN score (99.70%) is a model-based prediction only. No clinical evidence supports it, so it should be treated with caution.
+The very high TxGNN score (0.9970) is a model-based prediction only. No clinical evidence supports it, so it should be treated with caution.
 
-A second prediction, **pseudoachondroplasia** (score 99.69%), has no clinical trials or literature either. The disease is caused by COMP gene mutations that stress cartilage cells, and GnRH suppression has no known effect on that pathology. One speculative indirect idea is that GnRH agonists delay growth-plate closure, but this does not address the underlying defect.
+A second prediction, **pseudoachondroplasia** (score 0.9969), has no clinical trials or literature either. The disease is caused by COMP gene mutations that stress cartilage cells, and GnRH suppression has no known effect on that pathology. One speculative indirect idea is that GnRH agonists delay growth-plate closure, but this does not address the underlying defect.
 
 ## Clinical Trial Evidence
 
@@ -76,7 +76,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All six US licences are currently cancelled. Approved-indication text is not available in the records.
+All six US licenses are currently valid. Approved-indication text is not available in the records.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -100,7 +100,7 @@ Please refer to the package insert for label warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone (evidence level L5). There are no relevant trials or literature, and the biology (sex-steroid suppression) suggests no benefit, and possibly harm, for osteoarthritis. All US licences are also cancelled.
+The prediction rests on a model score alone (evidence level L5). There are no relevant trials or literature, and the biology (sex-steroid suppression) suggests no benefit, and possibly harm, for osteoarthritis. All six US licenses are currently valid.
 
 **To proceed, the following is needed:**
 - Detailed mechanism of action data (MOA)

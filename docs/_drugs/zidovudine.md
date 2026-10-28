@@ -4,7 +4,7 @@ title: Zidovudine
 parent: Moderate Evidence (L3-L4)
 nav_order: 1304
 evidence_level: L4
-indication_count: 6
+indication_count: 4
 last_modified_at: 2026-10-14
 description: "Zidovudine: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: HIV infectious disease, AIDS"
 monitor_inn: "ZIDOVUDINE"
@@ -14,7 +14,7 @@ predicted_indications: ["simian immunodeficiency virus infection", "feline acqui
 # Zidovudine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **6** 
+Evidence Level: **L4** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **simian immunodeficiency virus
 |------|------|
 | Original Indication | HIV infectious disease, AIDS (the US licence records contain no indication text) |
 | Predicted New Indication | Simian immunodeficiency virus infection |
-| TxGNN Prediction Score | 99.96% |
+| TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (all licences cancelled) |
-| Number of NDAs | 13 (3 NDAs and 10 ANDAs) |
+| US Market Status | Marketed (valid licenses: 13 of 13) |
+| Number of NDAs | 13 (valid: 13) |
 | Recommended Decision | Hold |
 
 ---
@@ -92,7 +92,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All 13 US licences are cancelled; none are currently valid. The data compiled for this report contain no approved-indication text.
+Marketed in the US: 13 of 13 licences are valid. The data compiled for this report contain no approved-indication text.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -119,7 +119,7 @@ Please refer to the package insert for official warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high, but support is limited to macaque and in vitro studies with no human trials, and the indication is an animal-model version of the drug's original HIV use. All US licences are also cancelled.
+The prediction score is high, but support is limited to macaque and in vitro studies with no human trials, and the indication is an animal-model version of the drug's original HIV use. The drug is marketed in the US, with 13 of 13 licences valid.
 
 **To proceed, the following is needed:**
 - Clarification of whether SIV infection has any translational purpose beyond serving as a research model
@@ -132,8 +132,8 @@ The prediction score is high, but support is limited to macaque and in vitro stu
 
 | Predicted Indication | Evidence Level | Decision | Comment |
 |------|------|------|------|
-| Feline acquired immunodeficiency syndrome | L4 | Hold | Veterinary and animal-model evidence only; not a human repurposing candidate |
-| Neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter | L5 | Hold | No trials, literature or plausible mechanism; likely a knowledge-graph artifact |
+| Feline acquired immunodeficiency syndrome | L5 | Hold | Veterinary and animal-model evidence only; not a human repurposing candidate |
+| Neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter | L5 | Hold | No trials, literature or plausible mechanism; likely a TxGNN model (deep learning) artifact |
 | Obsolete familial combined hyperlipidemia | L5 | Hold | Obsolete term with no evidence; NRTIs tend to cause dyslipidemia, not treat it |
 | Congenital HIV | L1 | Proceed with Guardrails | Phase 3 trials (NCT00102960, NCT00001104) and public health guidance exist, but this is essentially the original HIV indication; monitor for anemia and neutropenia |
 | AIDS related complex | L1 | Proceed with Guardrails | Phase 3 trial NCT00001011 (n=538) supports use, but ARC is an outdated term and this is the historical original indication; many interactions and hematologic toxicity require guardrails |

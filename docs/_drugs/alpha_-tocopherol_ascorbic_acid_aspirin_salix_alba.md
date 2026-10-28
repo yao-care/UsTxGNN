@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Alpha -Tocopherol Ascorbic Acid Aspirin Salix Alba
@@ -51,7 +52,7 @@ Without a model prediction or supporting evidence, this candidate cannot proceed
 | Predicted New Indication | None generated |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — model prediction only; no supporting studies |
-| Market Status | Not marketed |
+| Market Status | Marketed (valid licenses on record: at least 4) |
 | Number of Authorizations | 0 |
 | Recommended Decision | **Hold** |
 

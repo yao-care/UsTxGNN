@@ -8,7 +8,7 @@ indication_count: 3
 monitor_inn: "NEVIRAPINE"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 last_modified_at: 2026-10-14
-description: "Nevirapine: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: HIV infection / AIDS"
+description: "Nevirapine: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Nevirapine
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **3**
 
 </div>
 
-## Nevirapine: From HIV Infection to Simian Immunodeficiency Virus Infection
+## Nevirapine: Simian immunodeficiency virus infection
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ but there are currently **0 clinical trials** and only **indirect literature** (
 
 | Item | Content |
 |------|------|
-| Original Indication | HIV infection / AIDS |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Simian immunodeficiency virus infection |
-| TxGNN Prediction Score | 99.85% |
+| TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid authorizations) |
-| Number of NDAs | 9 (all cancelled; listed as ANDA generic applications) |
+| US Market Status | Marketed (valid licenses: 9 of 9) |
+| Number of NDAs | 9 (valid: 9) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -63,8 +63,8 @@ However, the mechanistic link is weak. SIV reverse transcriptase is naturally re
 SIV infection is also an animal disease with no direct human clinical relevance as a repurposing target. The literature assessment here was based mainly on titles and partial abstracts.
 
 Two other predictions were also reviewed and are not supported either:
-- **Feline acquired immunodeficiency syndrome** (score 99.85%): one 2023 biochemical and structural study compared NNRTIs against feline immunodeficiency virus RT. This is indirect evidence only, the binding pocket differs from HIV-1 RT, and NNRTIs are generally weak against FIV. It is a veterinary indication.
-- **Neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter** (score 99.82%): no trials, no literature, and no evident mechanistic connection.
+- **Feline acquired immunodeficiency syndrome** (score 0.9985): one 2023 biochemical and structural study compared NNRTIs against feline immunodeficiency virus RT. This is indirect evidence only, the binding pocket differs from HIV-1 RT, and NNRTIs are generally weak against FIV. It is a veterinary indication.
+- **Neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter** (score 0.9982): no trials, no literature, and no evident mechanistic connection.
 
 ## Clinical Trial Evidence
 
@@ -109,7 +109,7 @@ Please refer to the package insert for key warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on model output and indirect in vitro and animal-model literature. The literature points toward SIV being naturally resistant to nevirapine, SIV infection has no human clinical relevance, and nevirapine currently has no valid US authorizations. The safety profile (hepatotoxicity, severe skin reactions, large interaction burden) adds further concern.
+The prediction rests on model output and indirect in vitro and animal-model literature. The safety profile (hepatotoxicity, severe skin reactions, large interaction burden) adds further concern.
 
 **To proceed, the following is needed:**
 - Direct evidence of nevirapine activity against wild-type SIV (currently contradicted by available literature)

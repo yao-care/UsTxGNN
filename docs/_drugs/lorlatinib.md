@@ -4,7 +4,7 @@ title: Lorlatinib
 parent: Model Prediction Only (L5)
 nav_order: 871
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
 description: "Lorlatinib: predicted new indication Fibromatosis, gingival (evidence level L5). Approved use: Non-small cell lung carcinoma / lung cancer"
 monitor_inn: "LORLATINIB"
@@ -14,7 +14,7 @@ predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma 
 # Lorlatinib
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -39,7 +39,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 ## One-Sentence Summary
 
 Lorlatinib is a third-generation ALK/ROS1 tyrosine kinase inhibitor, originally used to treat ALK-positive non-small cell lung cancer.
-The TxGNN model's top-ranked prediction is **gingival fibromatosis**, but **no clinical trials and no publications** support this prediction, so it rests on a graph-based score alone.
+The TxGNN model (deep learning) ranks **fibromatosis, gingival** as its top prediction (score 0.9981), but **no clinical trials and no publications** support it. The score comes from the TxGNN model and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Quick Overview
 
@@ -47,17 +47,17 @@ The TxGNN model's top-ranked prediction is **gingival fibromatosis**, but **no c
 |------|------|
 | Original Indication | Non-small cell lung carcinoma / lung cancer (the approval text is not available in the US license record) |
 | Predicted New Indication | Fibromatosis, gingival |
-| TxGNN Prediction Score | 99.81% |
+| TxGNN Prediction Score | 0.9981 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (the single NDA is recorded as cancelled) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, lorlatinib is a brain-penetrant ALK/ROS1 inhibitor. Its efficacy in ALK-positive NSCLC has been established, notably in the Phase 3 CROWN trial.
 
-For the top prediction, however, no link was identified between ALK/ROS1 inhibition and gingival fibromatosis. The high TxGNN score is a graph-based inference only. The mechanistic rationale is weak, and the prediction should be treated as a hypothesis rather than a supported repurposing opportunity.
+For the top prediction, however, no link was identified between ALK/ROS1 inhibition and fibromatosis, gingival. The high TxGNN score (0.9981) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The mechanistic rationale is weak, and the prediction should be treated as a hypothesis rather than a supported repurposing opportunity.
 
 For context, the other top-ranked predictions are also weakly supported:
 - Most (fibroma of lung, hamartoma of lung, pulmonary sulcus neoplasm, and several rare genetic or skin disorders) have no trials or literature at all.

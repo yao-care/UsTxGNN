@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Rilpivirine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1123
-evidence_level: L4
-indication_count: 5
-last_modified_at: 2026-10-14
-description: "Rilpivirine: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L4). Approved use: HIV infectious disease"
+evidence_level: L5
+indication_count: 3
+last_modified_at: 2026-10-28
 monitor_inn: "RILPIVIRINE"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+description: "Rilpivirine: predicted new indication Feline acquired immunodeficiency syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Rilpivirine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **5**
 
 </div>
 
-## Rilpivirine: From HIV Infection to Feline Acquired Immunodeficiency Syndrome
+## Rilpivirine: Feline acquired immunodeficiency syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ Support is thin: **0 clinical trials** and **1 preclinical publication**. The ot
 
 | Item | Content |
 |------|------|
-| Original Indication | HIV infectious disease; AIDS |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Feline acquired immunodeficiency syndrome |
-| TxGNN Prediction Score | 99.97% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (all licenses cancelled) |
-| Number of NDAs | 4 (all cancelled) |
+| TxGNN Prediction Score | 0.9997 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 4 of 4) |
+| Number of NDAs | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -61,10 +61,8 @@ Detailed mechanism-of-action data is not available in the data compiled for this
 Feline immunodeficiency virus (FIV) is a lentivirus related to HIV and has its own reverse transcriptase, so a mechanistic rationale exists. However, the FIV enzyme is known to differ from HIV-1 reverse transcriptase in the residues lining the NNRTI binding pocket, so activity cannot be assumed. The only supporting item is a 2023 biochemical and structural comparison of NNRTIs (nevirapine, efavirenz, rilpivirine) against FIV and HIV reverse transcriptases. It is preclinical. This is a veterinary indication with no human clinical relevance, and the cancelled US market status further limits practical development.
 
 **Other predictions in the ranked list:**
-- **Simian immunodeficiency virus infection (99.97%):** Macaque studies of long-acting rilpivirine, alone or with cabotegravir, cover resistance selection, post-exposure prophylaxis, and virologic remission. These are animal models of HIV and support the existing HIV indication rather than a new human one. Several of the papers focus on cabotegravir or on combinations, so attribution to rilpivirine is partial.
-- **Neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.97%):** No mechanistic link, trials, or literature. This is likely a knowledge-graph artifact.
-- **Congenital HIV (99.56%):** The literature concerns long-acting cabotegravir/rilpivirine in pregnancy, which addresses maternal treatment and fetal safety, not treatment of infected infants.
-- **AIDS related complex (99.56%):** A historical term already covered by the existing HIV/AIDS indications, so it is not true repurposing.
+- **Simian immunodeficiency virus infection (0.9997):** Macaque studies of long-acting rilpivirine, alone or with cabotegravir, cover resistance selection, post-exposure prophylaxis, and virologic remission. These are animal models of HIV and support the existing HIV indication rather than a new human one. Several of the papers focus on cabotegravir or on combinations, so attribution to rilpivirine is partial.
+- **Neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (0.9997):** No mechanistic link, trials, or literature. This is likely a TxGNN model (deep learning) artifact.
 
 ## Clinical Trial Evidence
 
@@ -100,14 +98,14 @@ For the lower-ranked prediction of congenital HIV, one trial was retrieved, but 
 
 ## US Market Information
 
-All four US authorizations are cancelled. Approved indication text was not available for any of them.
+All four US authorizations are valid. Approved indication text was not available for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| NDA219016 | EDURANT PED | Tablet, for suspension | Cancelled |
-| ANDA218798 | Rilpivirine (Somerset Therapeutics) | Tablet, film coated | Cancelled |
-| NDA202022 | EDURANT | Tablet, film coated | Cancelled |
-| NDA210192 | Juluca | Tablet, film coated | Cancelled |
+| NDA219016 | EDURANT PED | Tablet, for suspension | Valid |
+| ANDA218798 | Rilpivirine (Somerset Therapeutics) | Tablet, film coated | Valid |
+| NDA202022 | EDURANT | Tablet, film coated | Valid |
+| NDA210192 | Juluca | Tablet, film coated | Valid |
 
 ## Safety Considerations
 
@@ -121,7 +119,7 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (feline acquired immunodeficiency syndrome) is a veterinary indication supported by a single preclinical study, with no registered trials. The remaining predictions are either indirect, fall within the existing HIV indication, or lack any biological rationale. All US licenses are cancelled, which further limits practical development.
+The top-ranked prediction (feline acquired immunodeficiency syndrome) is a veterinary indication supported by a single preclinical study, with no registered trials. The remaining predictions are either indirect, fall within the existing HIV indication, or lack any biological rationale.
 
 **To proceed, the following is needed:**
 - Mechanism-of-action data and FDA package insert warnings and contraindications (both are currently missing, and the missing label safety data blocks safety screening)

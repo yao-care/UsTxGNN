@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Acer Negundo Pollen Acer Pseudoplatanus Pollen Act
@@ -47,7 +48,7 @@ This candidate consists of an 18-component mixture including tree pollens, class
 |------|---------|
 | Original Indication | Not established (no regulatory records found) |
 | Predicted New Indication | None returned by TxGNN |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

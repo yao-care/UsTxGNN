@@ -6,9 +6,9 @@ nav_order: 792
 evidence_level: L3
 indication_count: 7
 last_modified_at: 2026-10-14
-description: "Imipramine: predicted new indication Attention deficit-hyperactivity disorder (evidence level L3). Approved use: Anxiety disorder, neurotic disorder, dysthymic disorder…"
 monitor_inn: "IMIPRAMINE"
 predicted_indications: ["attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "benign paroxysmal torticollis of infancy", "obsessive-compulsive disorder"]
+description: "Imipramine: predicted new indication Attention deficit-hyperactivity disorder (evidence level L3). Approved use: Not recorded in the local data"
 ---
 
 # Imipramine
@@ -33,7 +33,7 @@ Evidence Level: **L3** | Predicted Indications: **7**
 
 </div>
 
-## Imipramine: From Anxiety Disorder to Attention Deficit-Hyperactivity Disorder
+## Imipramine: Attention deficit-hyperactivity disorder
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,11 +47,11 @@ The TxGNN model predicts it may be effective for **attention deficit-hyperactivi
 
 | Item | Content |
 |------|------|
-| Original Indication | Anxiety disorder, neurotic disorder, dysthymic disorder, nocturnal enuresis (from the TxGNN knowledge graph; no approved indication text is available in the US license records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Attention deficit-hyperactivity disorder |
-| TxGNN Prediction Score | 99.90% |
+| TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L3 |
-| US Market Status | Cancelled only (no currently valid licenses in the data compiled) |
+| US Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of NDAs | 5 (all cancelled; listed under ANDA numbers) |
 | Recommended Decision | Hold |
 
@@ -96,11 +96,11 @@ All five records are cancelled, and the data compiled contains no approved indic
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| ANDA040903 | Imipramine Hydrochloride (PD-Rx Pharmaceuticals) | Film-coated tablet | Cancelled |
-| ANDA040751 | Imipramine Hydrochloride (Proficient Rx) | Tablet | Cancelled |
-| ANDA091099 | Imipramine Pamoate (Hikma) | Capsule | Cancelled |
-| ANDA090442 | Imipramine Hydrochloride (Lupin) | Film-coated tablet | Cancelled |
-| ANDA090444 | Imipramine Pamoate (Lupin) | Capsule | Cancelled |
+| ANDA040903 | Imipramine Hydrochloride (PD-Rx Pharmaceuticals) | Film-coated tablet | Valid |
+| ANDA040751 | Imipramine Hydrochloride (Proficient Rx) | Tablet | Valid |
+| ANDA091099 | Imipramine Pamoate (Hikma) | Capsule | Valid |
+| ANDA090442 | Imipramine Hydrochloride (Lupin) | Film-coated tablet | Valid |
+| ANDA090444 | Imipramine Pamoate (Lupin) | Capsule | Valid |
 
 ---
 
@@ -126,14 +126,13 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The mechanism is plausible and the literature includes a dedicated report and several reviews placing tricyclics as second-line ADHD options. However, there are no registered clinical trials, the evidence is mainly older reviews and small studies, and the cardiac and anticholinergic safety burden and high interaction load are significant. All US licenses are also cancelled, and better-tolerated alternatives exist. The other predicted indications (ADHD inattentive type, faciodigitogenital syndrome, specific developmental disorder, chondromyxoid fibroma, benign paroxysmal torticollis of infancy) have no supporting evidence. Obsessive-compulsive disorder has only weak comparative evidence, and clomipramine and SSRIs are better supported. They do not change this decision.
+The mechanism is plausible and the literature includes a dedicated report and several reviews placing tricyclics as second-line ADHD options. However, there are no registered clinical trials, the evidence is mainly older reviews and small studies, and the cardiac and anticholinergic safety burden and high interaction load are significant. The drug is also marketed in the US (5 valid licenses), and better-tolerated alternatives exist. The other predicted indications (ADHD inattentive type, faciodigitogenital syndrome, specific developmental disorder, chondromyxoid fibroma, benign paroxysmal torticollis of infancy) have no supporting evidence. Obsessive-compulsive disorder has only weak comparative evidence, and clomipramine and SSRIs are better supported. They do not change this decision.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications, which are currently a blocking gap for safety screening
 - Detailed mechanism of action data from DrugBank
 - Controlled trial evidence (or a systematic review) of imipramine versus placebo or atomoxetine in ADHD
 - A cardiac safety and interaction management plan, particularly for children
-- A clear regulatory pathway, since there are no currently valid US licenses
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

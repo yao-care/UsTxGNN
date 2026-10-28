@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Apis Mellifera Arctostaphylos Uva-Ursi Leaf Atropa
@@ -47,7 +48,7 @@ This product is a complex 23-ingredient herbal and homeopathic formula containin
 | Predicted New Indication | None — TxGNN did not return predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (model prediction only; in this case, not even a prediction) |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 1) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 

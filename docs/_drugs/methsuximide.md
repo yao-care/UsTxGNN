@@ -4,17 +4,17 @@ title: Methsuximide
 parent: Model Prediction Only (L5)
 nav_order: 914
 evidence_level: L5
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-14
-description: "Methsuximide: predicted new indication Insomnia (evidence level L5). Approved use: Epilepsy, absence epilepsy"
 monitor_inn: "METHSUXIMIDE"
 predicted_indications: ["insomnia (disease)", "nephrogenic syndrome of inappropriate antidiuresis", "sleep disorder, initiating and maintaining sleep", "nephrogenic diabetes insipidus", "restless legs syndrome", "trichotillomania", "Wernicke-Korsakoff syndrome"]
+description: "Methsuximide: predicted new indication Insomnia (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Methsuximide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Methsuximide: From Epilepsy to Insomnia
+## Methsuximide: Insomnia (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,24 +45,23 @@ The TxGNN model predicts it may be effective for **insomnia**, but **no clinical
 
 | Item | Content |
 |------|------|
-| Original Indication | Epilepsy, absence epilepsy |
-| Predicted New Indication | Insomnia |
-| TxGNN Prediction Score | 99.97% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Insomnia (disease) |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 2 (both cancelled) |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
-Note: the original indications come from knowledge-graph indication edges, because the license records contain no approved indication text.
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism-of-action data is not available in the data compiled for this report. Based on general pharmacological knowledge, methsuximide is a succinimide anticonvulsant thought to act mainly by inhibiting T-type calcium channels in thalamic neurons. These channels help shape thalamocortical rhythms and sedation, so an effect on sleep is plausible.
 
-However, no direct link between methsuximide and insomnia is documented. The high score (99.97%) is a computational prediction only. A closely related prediction, "sleep disorder, initiating and maintaining sleep" (score 99.70%), relies on the same speculative hypothesis and likewise has no trials or literature.
+However, no direct link between methsuximide and insomnia is documented. The high score (0.9997) is a computational prediction only. A closely related prediction, "sleep disorder, initiating and maintaining sleep" (score 0.9970), relies on the same speculative hypothesis and likewise has no trials or literature.
 
 Other top-ranked predictions are weaker or not credible:
-- **Nephrogenic syndrome of inappropriate antidiuresis and nephrogenic diabetes insipidus:** these involve vasopressin-pathway defects (AVPR2/AQP2), and methsuximide has no known action there. These look like graph artifacts.
+- **Nephrogenic syndrome of inappropriate antidiuresis and nephrogenic diabetes insipidus:** these involve vasopressin-pathway defects (AVPR2/AQP2), and methsuximide has no known action there.
 - **Childhood absence epilepsy susceptibility and familial mesial temporal lobe epilepsy:** these are extensions of the existing anticonvulsant use rather than true repurposing, and no supporting studies were found.
 - **Acute encephalopathy with biphasic seizures:** the rationale is indirect, and no trials or literature exist.
 - **Wernicke-Korsakoff syndrome:** caused by thiamine deficiency, with no mechanistic connection to methsuximide.
@@ -107,14 +106,13 @@ No literature is available for the lead prediction (insomnia). The only publicat
 **Decision: Hold**
 
 **Rationale:**
-The insomnia prediction is supported only by a model score, with no clinical trials or literature (Evidence Level L5). The mechanistic link is speculative. The product currently has no valid US license, and the available safety data are incomplete, including several knowledge-graph contraindication signals.
+The insomnia prediction is supported only by a model score, with no clinical trials or literature (Evidence Level L5). The mechanistic link is speculative.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism-of-action data (for example, from DrugBank)
 - Preclinical or early clinical evidence of methsuximide's effect on sleep
 - Review of the sedation and CNS-depressant interaction risks in a sleep population
-- Clarification of the regulatory path, given that all US licenses are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

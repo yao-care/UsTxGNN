@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "HALCINONIDE"
 predicted_indications: ["annular atrophic lichen planus", "lichen planus pigmentosus", "hypertrophic lichen planus", "vulvar inverted follicular keratosis", "lichen planus pemphigoides", "alopecia areata", "telogen effluvium", "alopecia mucinosa", "hereditary hypotrichosis with recurrent skin vesicles", "Quinquaud's folliculitis decalvans"]
 last_modified_at: 2026-10-14
-description: "Halcinonide: predicted new indication Annular atrophic lichen planus (evidence level L5). Approved use: Inflammatory skin conditions, including atopic dermatitis…"
+description: "Halcinonide: predicted new indication Annular atrophic lichen planus (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Halcinonide
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Halcinonide: From Inflammatory Skin Conditions to Annular Atrophic Lichen Planus
+## Halcinonide: Annular atrophic lichen planus
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,12 +48,12 @@ Across the 10 predicted indications, the only published item is a 1977 title-onl
 
 | Item | Content |
 |------|------|
-| Original Indication | Inflammatory skin conditions, including atopic dermatitis, contact dermatitis, seborrheic dermatitis, neurodermatitis, lichen disease and discoid lupus erythematosus (from the knowledge graph; no approved indication text was available in the US license records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Annular atrophic lichen planus |
-| TxGNN Prediction Score | 99.93% |
+| TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all licenses cancelled) |
-| Number of NDAs | 4 licenses in total (2 NDAs and 2 ANDAs) |
+| US Market Status | Marketed (valid licenses: 4 of 4) |
+| Number of NDAs | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ---
@@ -72,16 +72,16 @@ The model produced 10 predictions in total. They differ widely in plausibility:
 
 | Rank | Predicted Indication | Score | Evidence Level | Assessment |
 |------|------|------|------|------|
-| 1 | Annular atrophic lichen planus | 99.93% | L5 | Plausible mechanism, but atrophy concern |
-| 2 | Lichen planus pigmentosus | 99.93% | L5 | Plausible anti-inflammatory rationale, no data |
-| 3 | Hypertrophic lichen planus | 99.93% | L5 | Most clinically plausible; high-potency steroids (including under occlusion) are commonly used |
-| 4 | Vulvar inverted follicular keratosis | 99.93% | L5 | Weak rationale; may reflect similarity to seborrheic keratosis |
-| 5 | Lichen planus pemphigoides | 99.92% | L5 | Anti-inflammatory rationale, but severe disease usually needs systemic therapy |
-| 6 | Alopecia areata | 99.91% | L4 | Plausible; one 1977 title-only publication |
-| 7 | Telogen effluvium | 99.89% | L5 | Weak rationale (non-inflammatory, self-limiting) |
-| 8 | Alopecia mucinosa | 99.89% | L5 | Modest rationale; possible lymphoma association needs careful diagnosis |
-| 9 | Hereditary hypotrichosis with recurrent skin vesicles | 99.89% | L5 | No clear mechanism; likely a network artifact |
-| 10 | Quinquaud's folliculitis decalvans | 99.88% | L5 | Antibiotics are the mainstay; steroid only adjunctive |
+| 1 | Annular atrophic lichen planus | 0.9993 | L5 | Plausible mechanism, but atrophy concern |
+| 2 | Lichen planus pigmentosus | 0.9993 | L5 | Plausible anti-inflammatory rationale, no data |
+| 3 | Hypertrophic lichen planus | 0.9993 | L5 | Most clinically plausible; high-potency steroids (including under occlusion) are commonly used |
+| 4 | Vulvar inverted follicular keratosis | 0.9993 | L5 | Weak rationale; may reflect similarity to seborrheic keratosis |
+| 5 | Lichen planus pemphigoides | 0.9992 | L5 | Anti-inflammatory rationale, but severe disease usually needs systemic therapy |
+| 6 | Alopecia areata | 0.9991 | L4 | Plausible; one 1977 title-only publication |
+| 7 | Telogen effluvium | 0.9989 | L5 | Weak rationale (non-inflammatory, self-limiting) |
+| 8 | Alopecia mucinosa | 0.9989 | L5 | Modest rationale; possible lymphoma association needs careful diagnosis |
+| 9 | Hereditary hypotrichosis with recurrent skin vesicles | 0.9989 | L5 | No clear mechanism; likely a network artifact |
+| 10 | Quinquaud's folliculitis decalvans | 0.9988 | L5 | Antibiotics are the mainstay; steroid only adjunctive |
 
 ---
 
@@ -107,12 +107,12 @@ The only publication found across the predicted indications relates to rank 6, a
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA017556 | Halcinonide (Sun Pharmaceutical Industries) | Cream | Not available; status cancelled |
-| ANDA217671 | Halcinonide Topical Solution (INA Pharmaceutics) | Solution | Not available; status cancelled |
-| NDA017823 | HALOG (E.R. Squibb & Sons) | Solution | Not available; status cancelled |
-| ANDA211027 | Halcinonide (Mylan Pharmaceuticals) | Cream | Not available; status cancelled |
+| NDA017556 | Halcinonide (Sun Pharmaceutical Industries) | Cream | Not available; status valid |
+| ANDA217671 | Halcinonide Topical Solution (INA Pharmaceutics) | Solution | Not available; status valid |
+| NDA017823 | HALOG (E.R. Squibb & Sons) | Solution | Not available; status valid |
+| ANDA211027 | Halcinonide (Mylan Pharmaceuticals) | Cream | Not available; status valid |
 
-All four US licenses are cancelled, so there is currently no actively marketed halcinonide product in the US.
+All four US licenses are valid, and halcinonide is currently marketed in the US.
 
 ---
 
@@ -130,7 +130,7 @@ Please refer to the package insert for further safety information, as no label w
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high (99.93%), and a topical corticosteroid for lichen planus is mechanistically reasonable. However, there are no trials or literature for annular atrophic lichen planus, all US licenses are cancelled, and skin atrophy is a listed contraindication. Of the candidates, hypertrophic lichen planus is the most clinically plausible, and alopecia areata is the only one with any published report (1977, title only).
+The prediction score is very high (0.9993), and a topical corticosteroid for lichen planus is mechanistically reasonable. However, there are no trials or literature for annular atrophic lichen planus, and skin atrophy is a listed contraindication. The drug is marketed in the US, with all four licenses valid. Of the candidates, hypertrophic lichen planus is the most clinically plausible, and alopecia areata is the only one with any published report (1977, title only).
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

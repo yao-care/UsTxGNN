@@ -4,17 +4,17 @@ title: Dupilumab
 parent: Moderate Evidence (L3-L4)
 nav_order: 634
 evidence_level: L3
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Dupilumab: predicted new indication Bronchitis (evidence level L3). Approved use: Atopic dermatitis (atopic eczema)"
 monitor_inn: "DUPILUMAB"
 predicted_indications: ["bronchitis", "acne keloid", "exanthem (disease)", "neonatal dermatomyositis", "acrodermatitis chronica atrophicans", "amyopathic dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy"]
+description: "Dupilumab: predicted new indication Bronchitis (evidence level L3). Approved use: Not recorded in the local data"
 ---
 
 # Dupilumab
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L3** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-## Dupilumab: From Atopic Dermatitis to Bronchitis
+## Dupilumab: Bronchitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,12 +45,12 @@ The TxGNN model predicts it may be effective for **bronchitis**, but this predic
 
 | Item | Content |
 |------|------|
-| Original Indication | Atopic dermatitis (atopic eczema) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Bronchitis |
-| TxGNN Prediction Score | 99.92% |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L3 |
-| US Market Status | Cancelled only (1 BLA on record, status cancelled) |
-| Number of NDAs | 1 (BLA761055) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -62,7 +62,7 @@ The same type 2 pathway drives mucus hypersecretion and eosinophilic infiltratio
 However, bronchitis as a defined indication has not been directly tested. The only trial listed concerns chronic rhinosinusitis, and the literature is mainly about asthma and COPD. Bronchitis itself appears only in a pediatric plastic bronchitis review. The prediction should therefore be treated as a research question rather than a confirmed finding.
 
 **Other predicted indications (for context):**
-- **Dermatitis (score 99.71%)**: This corresponds to atopic dermatitis, the drug's original indication, so it is not a true repurposing finding. Several completed Phase 3 RCTs and the SOLO 1/2 publication support it (evidence level L1).
+- **Dermatitis**: This corresponds to atopic dermatitis, the drug's original indication, so it is not a true repurposing finding. Several completed Phase 3 RCTs and the SOLO 1/2 publication support it (evidence level L1).
 - **Acne keloid, exanthem**: Only case reports, small studies and systematic reviews exist (L4 and L3 respectively).
 - **Six other predictions** (neonatal dermatomyositis, acrodermatitis chronica atrophicans, amyopathic dermatomyositis, childhood connective-tissue-disease ILD, familial hydroa vacciniforme, severe nonproliferative diabetic retinopathy): there is no supporting evidence and the mechanistic rationale is weak, so these remain model predictions only (L5).
 
@@ -91,7 +91,7 @@ However, bronchitis as a defined indication has not been directly tested. The on
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA761055 | Dupixent (sanofi-aventis U.S. LLC) | Injection, solution | Not listed in the data compiled for this report (status: cancelled) |
+| BLA761055 | Dupixent (sanofi-aventis U.S. LLC) | Injection, solution | Not listed in the data compiled for this report (status: valid) |
 
 ## Safety Considerations
 

@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **HER2 positive breast carcinom
 |------|------|
 | Original Indication | Tenosynovial giant cell tumor (including the localized type and pigmented villonodular synovitis) |
 | Predicted New Indication | HER2 positive breast carcinoma |
-| TxGNN Prediction Score | 99.98% |
+| TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -63,7 +63,7 @@ Detailed mechanism-of-action data is not available in the data compiled for this
 
 The proposed link to breast cancer is indirect. CSF1R inhibition can reprogram tumor-associated macrophages, which may counter immunosuppression in the tumor microenvironment. The only linked paper (PMID 41986650) is a preclinical study in which CSF1R inhibitors reduced CDK4/6 inhibitor-induced immunosuppression in **HR+/HER2-** breast cancer. It addresses CSF1R inhibitors in general, not HER2-positive disease and not pexidartinib specifically.
 
-TGCT is a benign, locally aggressive synovial tumor, so its biology is very different from HER2-driven breast cancer. The high TxGNN score (99.98%) is a computational prediction only and is not backed by indication-specific clinical or mechanistic data.
+TGCT is a benign, locally aggressive synovial tumor, so its biology is very different from HER2-driven breast cancer. The high TxGNN score (0.9998) is a computational prediction only and is not backed by indication-specific clinical or mechanistic data.
 
 ---
 

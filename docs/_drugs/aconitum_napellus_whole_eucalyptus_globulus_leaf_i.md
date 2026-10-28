@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Aconitum Napellus Whole Eucalyptus Globulus Leaf I
@@ -51,7 +52,8 @@ Given the complete absence of regulatory, mechanistic, and predictive data, this
 | Predicted New Indication | None (TxGNN returned no candidates) |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — Model prediction only; in this case, no prediction was generated |
-| Market Status | Not marketed in Taiwan; US status unknown |
+| Market Status | Marketed (valid licenses on record: at least 1) |
+| Number of NDAs | at least 1 |
 | Number of Approvals | 0 |
 | Recommended Decision | **Hold** |
 

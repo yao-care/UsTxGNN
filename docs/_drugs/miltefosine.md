@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Miltefosine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 931
-evidence_level: L3
-indication_count: 4
-last_modified_at: 2026-10-14
-description: "Miltefosine: predicted new indication Leishmaniasis, diffuse cutaneous (evidence level L3). Approved use: Leishmaniasis (including mucocutaneous and visceral leishmaniasis)"
+evidence_level: L5
+indication_count: 3
 monitor_inn: "MILTEFOSINE"
-predicted_indications: ["leishmaniasis, diffuse cutaneous", "echinococcus granulosus infectious disease", "alveolar echinococcosis", "Smouldering systemic mastocytosis"]
+predicted_indications: ["echinococcus granulosus infectious disease", "alveolar echinococcosis", "Smouldering systemic mastocytosis"]
+last_modified_at: 2026-10-23
+description: "Miltefosine: predicted new indication Echinococcus granulosus infectious disease (evidence level L5). Approved use: Leishmaniasis (including mucocutaneous and visceral leishmaniasis)"
 ---
 
 # Miltefosine
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **4** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,34 +33,39 @@ Evidence Level: **L3** | Predicted Indications: **4**
 
 </div>
 
-## Miltefosine: From Leishmaniasis to Diffuse Cutaneous Leishmaniasis
+## Miltefosine: From Leishmaniasis to Echinococcus granulosus Infectious Disease
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Miltefosine is an oral alkylphosphocholine drug originally used to treat leishmaniasis (visceral, mucocutaneous and cutaneous forms).
-The TxGNN model predicts it may be effective for **Diffuse Cutaneous Leishmaniasis**,
-with **no registered clinical trials** but **20 publications** (mostly reviews and case reports) currently supporting this direction.
+Miltefosine is an oral drug originally used to treat leishmaniasis (including visceral and mucocutaneous forms).
+The TxGNN model predicts it may be effective for **echinococcus granulosus infectious disease**,
+but there are currently **0 clinical trials** and **0 publications** directly studying this disease, so the prediction rests on the computational model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Leishmaniasis (including mucocutaneous and visceral leishmaniasis) |
-| Predicted New Indication | Leishmaniasis, diffuse cutaneous |
-| TxGNN Prediction Score | 99.72% |
-| Evidence Level | L3 |
-| US Market Status | Cancelled only (the single NDA is cancelled) |
-| Number of NDAs | 1 |
-| Recommended Decision | Proceed with Guardrails |
+| Original Indication | Leishmaniasis (including mucocutaneous and visceral leishmaniasis); recorded in the knowledge graph, as the US licence has no indication text in the data compiled for this report |
+| Predicted New Indication | Echinococcus granulosus infectious disease |
+| TxGNN Prediction Score | 0.9941 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
+| Number of approvals | 1 NDA |
+| Recommended Decision | Hold |
+
+Two other predictions were also generated: alveolar echinococcosis (score 0.9921) and smouldering systemic mastocytosis (score 0.9905). Both are also L5 and Hold, and are discussed briefly below.
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism-of-action data are not available in the data compiled for this report. Based on the published literature, miltefosine is an alkylphosphocholine with direct antileishmanial activity. It is thought to disrupt parasite lipid metabolism, membrane signaling and mitochondrial function.
+Detailed mechanism of action data is not available. Based on known information, miltefosine is an alkylphosphocholine with established antiparasitic activity against Leishmania and other protozoa. It is thought to disrupt lipid metabolism, membrane signaling and calcium homeostasis in parasites.
 
-Diffuse cutaneous leishmaniasis (DCL) is caused by the same family of *Leishmania* parasites as the approved indications. This prediction is therefore a close extension within the original indication class rather than a true repurposing. DCL is rare and severely disabling, and there is no established effective treatment.
+*Echinococcus granulosus* is a parasitic tapeworm (cestode) that causes cystic echinococcosis. A similar membrane-targeting effect on its larval stages (metacestodes or protoscoleces) is plausible, but this is unverified. The very high TxGNN score is a computational prediction only, and the supplied data contain no study that confirms the link.
 
-Published reports describe a clinical response, but also relapse after treatment. They also include in vitro and in vivo susceptibility data for a *L. amazonensis* isolate from a patient with diffuse disease. Together these indicate real activity but limited durability.
+**Other predicted indications**
+- **Alveolar echinococcosis:** The same reasoning applies to the related tapeworm *Echinococcus multilocularis*. The only supplied publication (PMID 16940089) tested other drugs and, based on its title, does not evaluate miltefosine, so it gives no direct support.
+- **Smouldering systemic mastocytosis:** No clear mechanistic link is evident. Miltefosine affects PI3K/Akt signaling and phospholipid metabolism, which could in theory influence mast cell survival, but this is speculative.
 
 ## Clinical Trial Evidence
 
@@ -68,47 +73,41 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
+For echinococcus granulosus infectious disease, currently no related literature is available.
+
+For the related prediction alveolar echinococcosis, one publication was supplied, but it does not study miltefosine:
+
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
-| [32853410](https://pubmed.ncbi.nlm.nih.gov/32853410/) | 2020 | Systematic review (Cochrane) | Cochrane Database Syst Rev | Interventions for American cutaneous and mucocutaneous leishmaniasis; pentavalent antimonials remain first choice, alternatives need effectiveness and safety review |
-| [26938448](https://pubmed.ncbi.nlm.nih.gov/26938448/) | 2016 | Systematic review | PLoS Negl Trop Dis | Treatment of *L. aethiopica* cutaneous leishmaniasis, including diffuse and mucocutaneous forms; evidence-based guidelines are lacking |
-| [34048461](https://pubmed.ncbi.nlm.nih.gov/34048461/) | 2021 | Pilot clinical study | PLoS Negl Trop Dis | Miltefosine for cutaneous leishmaniasis from *L. aethiopica* in Ethiopia; the only oral antileishmanial drug, with a more favourable side-effect profile than sodium stibogluconate |
-| [17441955](https://pubmed.ncbi.nlm.nih.gov/17441955/) | 2007 | Case report | Br J Dermatol | Diffuse cutaneous leishmaniasis responded to miltefosine but then relapsed |
-| [16796642](https://pubmed.ncbi.nlm.nih.gov/16796642/) | 2006 | Case report | Int J Dermatol | Miltefosine treatment of a 31-year-old man with lifelong diffuse cutaneous leishmaniasis |
-| [17172368](https://pubmed.ncbi.nlm.nih.gov/17172368/) | 2006 | Case report | Am J Trop Med Hyg | Relapse of diffuse cutaneous leishmaniasis (*L. mexicana*) two months after miltefosine; lesions cleared after four months of treatment |
-| [25033218](https://pubmed.ncbi.nlm.nih.gov/25033218/) | 2014 | In vitro / in vivo study | PLoS Negl Trop Dis | Miltefosine susceptibility of a *L. amazonensis* isolate from a patient with diffuse cutaneous leishmaniasis |
-| [26568336](https://pubmed.ncbi.nlm.nih.gov/26568336/) | 2015 | Review | J Am Acad Dermatol | Differential diagnosis, diagnosis, histopathology and management of cutaneous and mucocutaneous leishmaniasis |
-| [18721114](https://pubmed.ncbi.nlm.nih.gov/18721114/) | 2008 | Review | Expert Opin Drug Metab Toxicol | Status of miltefosine as the first oral leishmaniasis treatment, first registered in 2002 for Indian visceral leishmaniasis |
-| [16597200](https://pubmed.ncbi.nlm.nih.gov/16597200/) | 2006 | Review | Expert Rev Anti Infect Ther | Oral miltefosine as an alternative to pentavalent antimony for leishmaniasis |
+| [16940089](https://pubmed.ncbi.nlm.nih.gov/16940089/) | 2006 | In vitro study | Antimicrobial Agents and Chemotherapy | Tested itraconazole, methiazole and nitazoxanide against *E. multilocularis* larvae. Albendazole and mebendazole are the only licensed drugs for human alveolar echinococcosis. |
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA204684 (cancelled) | IMPAVIDO | Capsule | Not listed in the data compiled for this report |
+| NDA204684 | IMPAVIDO (Profounda, Inc.) | Capsule (oral) | Not available in the data compiled for this report |
 
 ## Safety Considerations
 
-- **Contraindications (from knowledge-graph relationships, not label text)**: Sjögren-Larsson syndrome and congenital ichthyosiform erythroderma.
-- **Drug Interactions**: 9 moderate-level interactions were identified, mainly with hormonal contraceptives and related agents: levonorgestrel, norethisterone, desogestrel, ethinylestradiol, drospirenone, norgestrel, dienogest and norgestimate. A moderate interaction with idelalisib was also identified. Miltefosine also acts on AKT serine/threonine kinase 1 (AKT1).
+- **Knowledge-graph contraindication relations (not label text):** Sjogren-Larsson syndrome and congenital ichthyosiform erythroderma.
+- **Drug Interactions:** Nine interactions are rated Moderate, mostly with hormonal contraceptives and related agents: levonorgestrel, norethisterone, desogestrel, ethinylestradiol, drospirenone, norgestrel, dienogest and norgestimate. Idelalisib is also rated Moderate.
+- **Pharmacology:** Miltefosine is recorded as acting on the human AKT1 kinase target.
 
-Please refer to the package insert for other safety information, including warnings.
+Please refer to the package insert for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
-**Decision: Proceed with Guardrails**
+**Decision: Hold**
 
 **Rationale:**
-DCL is a *Leishmania* infection within the same class as miltefosine's original indications, and case reports and susceptibility data show activity. However, the evidence is limited to case reports, small studies and reviews, relapse after treatment is repeatedly documented, and there are no registered clinical trials.
+The prediction for echinococcus granulosus infectious disease is supported only by a high model score. No clinical trials or publications directly study this disease, so the evidence level is L5. The mechanism of action data are also missing.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (currently missing and blocking for safety screening)
-- Detailed mechanism of action data
-- Controlled studies or prospective trials evaluating durability of response and relapse prevention in DCL
-- Current US availability review, since the only NDA is cancelled
-- Safety management plan for drug interactions with hormonal contraceptives
-
-**Other predicted indications (not recommended to advance now):** Echinococcus granulosus infection, alveolar echinococcosis and smouldering systemic mastocytosis (TxGNN scores 99.41%, 99.21% and 99.05%). All are L5, model prediction only, with no supporting trials or direct literature on miltefosine, so the decision for each is **Hold**.
+- Preclinical validation (in vitro and animal studies) of miltefosine against *Echinococcus* larval stages
+- Mechanism of action data for miltefosine
+- FDA package insert warnings and contraindications for safety screening
+- Comparison with the current standard of care (benzimidazoles and surgery) to define the clinical need
+- Assessment of route and dosing suitability, which are still pending
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "ROPINIROLE"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "schizophrenia", "myopia X-linked", "congenital disorder of glycosylation with defective fucosylation", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "Charcot-Marie-Tooth disease, demyelinating, type 1G"]
 last_modified_at: 2026-10-14
-description: "Ropinirole: predicted new indication Attention deficit-hyperactivity disorder (evidence level L3). Approved use: Restless legs syndrome"
+description: "Ropinirole: predicted new indication Attention deficit-hyperactivity disorder (evidence level L3). Approved use: Not recorded in the local data"
 ---
 
 # Ropinirole
@@ -33,7 +33,7 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-## Ropinirole: From Restless Legs Syndrome to Attention Deficit-Hyperactivity Disorder
+## Ropinirole: Attention deficit-hyperactivity disorder
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ but currently there are **0 registered clinical trials** and **8 publications** 
 
 | Item | Content |
 |------|------|
-| Original Indication | Restless legs syndrome; Parkinson disease |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Attention deficit-hyperactivity disorder |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L3 |
-| US Market Status | Cancelled only (all 7 listed ANDAs are cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 7) |
 | Number of NDAs | 7 (all ANDA generic applications, all cancelled) |
 | Recommended Decision | Hold |
 
@@ -83,15 +83,15 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All 7 listed authorizations are cancelled, and no active US marketing authorization is shown. The data compiled for this report contains no approved indication text for any of them.
+The drug is marketed in the US, with 7 valid authorizations. The data compiled for this report contains no approved indication text for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| ANDA090135 | ropinirole (Glenmark) | Film-coated tablet | Cancelled |
-| ANDA078110 | ropinirole hydrochloride (Solco Healthcare) | Film-coated tablet | Cancelled |
-| ANDA079165 | Ropinirole (Marlex) | Film-coated tablet | Cancelled |
-| ANDA090429 | Ropinirole (Alembic) | Film-coated tablet | Cancelled |
-| ANDA090869 | Ropinirole hydrochloride (AvKARE) | Film-coated extended-release tablet | Cancelled |
+| ANDA090135 | ropinirole (Glenmark) | Film-coated tablet | Valid |
+| ANDA078110 | ropinirole hydrochloride (Solco Healthcare) | Film-coated tablet | Valid |
+| ANDA079165 | Ropinirole (Marlex) | Film-coated tablet | Valid |
+| ANDA090429 | Ropinirole (Alembic) | Film-coated tablet | Valid |
+| ANDA090869 | Ropinirole hydrochloride (AvKARE) | Film-coated extended-release tablet | Valid |
 
 ## Safety Considerations
 
@@ -106,14 +106,14 @@ Please refer to the package insert for the full warnings and contraindications, 
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high and there is a plausible dopaminergic link, supported by one case report and a possible 2026 randomized trial. However, there are no registered trials, the key study is unverified, there is no active US marketing authorization, and label safety data and mechanism data are missing.
+The prediction score is high and there is a plausible dopaminergic link, supported by one case report and a possible 2026 randomized trial.
 
 **To proceed, the following is needed:**
 - Retrieve and verify the full text of PMID 42640474 (design, primary outcomes, results, adverse events)
 - Obtain the FDA package insert warnings and contraindications to allow safety screening
 - Obtain detailed mechanism of action data
 - Search trial registries for registered or ongoing ADHD studies of ropinirole
-- Assess pediatric safety, including impulse-control and gambling signals, and the regulatory path given that all US authorizations are cancelled
+- Assess pediatric safety, including impulse-control and gambling signals, and the regulatory path given that the drug is marketed in the US with 7 valid authorizations
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

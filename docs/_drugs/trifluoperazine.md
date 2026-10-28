@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Trifluoperazine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1261
-evidence_level: L4
+evidence_level: L5
 indication_count: 1
 monitor_inn: "TRIFLUOPERAZINE"
 predicted_indications: ["manic bipolar affective disorder"]
 last_modified_at: 2026-10-14
-description: "Trifluoperazine: predicted new indication Manic bipolar affective disorder (evidence level L4). Approved use: Schizophrenia, anxiety"
+description: "Trifluoperazine: predicted new indication Manic bipolar affective disorder (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Trifluoperazine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **1** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **1**
 
 </div>
 
-## Trifluoperazine: From Schizophrenia and Anxiety to Manic Bipolar Affective Disorder
+## Trifluoperazine: Manic bipolar affective disorder
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,19 +46,19 @@ but currently there are **0 registered clinical trials** and only **a small set 
 
 | Item | Content |
 |------|------|
-| Original Indication | Schizophrenia, anxiety (from knowledge graph indication data; the US license records contain no indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Manic bipolar affective disorder |
-| TxGNN Prediction Score | 99.51% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (all licenses cancelled) |
-| Number of NDAs | 5 (all ANDAs, all cancelled) |
+| TxGNN Prediction Score | 0.9951 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 5 of 5) |
+| Number of NDAs | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available for this drug. Based on its drug class, trifluoperazine is a phenothiazine antipsychotic whose main action is dopamine D2 receptor antagonism. Its efficacy in schizophrenia is established, and mechanistically it may be applicable to manic bipolar affective disorder.
 
-D2 antagonism is a mechanism shared by antipsychotics used to control acute mania and psychotic features in bipolar disorder, so the link is biologically plausible. The high TxGNN score (0.995) is a computational prediction and most likely reflects this class-level similarity. The data compiled for this report contain no drug-specific clinical data for trifluoperazine in mania, so the prediction should be treated as a hypothesis rather than a confirmed finding.
+D2 antagonism is a mechanism shared by antipsychotics used to control acute mania and psychotic features in bipolar disorder, so the link is biologically plausible. The high TxGNN score (0.9951) is a computational prediction and most likely reflects this class-level similarity. The data compiled for this report contain no drug-specific clinical data for trifluoperazine in mania, so the prediction should be treated as a hypothesis rather than a confirmed finding.
 
 ## Clinical Trial Evidence
 
@@ -113,13 +113,12 @@ Please refer to the package insert for official warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is plausible because D2 antagonism is shared with antipsychotics used in mania, but it rests on a model score alone (L4). There are no registered trials and no drug-specific mania data, and all US licenses are cancelled. The knowledge-graph contraindication list is also broad.
+The prediction is plausible because D2 antagonism is shared with antipsychotics used in mania, but it rests on a model score alone (L4). There are no registered trials and no drug-specific mania data. The drug is marketed in the US, with 5 of 5 licenses valid. The knowledge-graph contraindication list is also broad.
 
 **To proceed, the following is needed:**
 - Official package insert warnings and contraindications (FDA)
 - Confirmed mechanism of action data (e.g., DrugBank receptor binding profile)
 - Drug-specific clinical evidence for trifluoperazine in mania (comparative trials or systematic reviews against established antipsychotics)
-- Review of market availability, since there is no active US license
 - A safety plan covering hematologic, hepatic, neurological (extrapyramidal and neuroleptic malignant syndrome), and cardiovascular risks
 ## Disclaimer
 

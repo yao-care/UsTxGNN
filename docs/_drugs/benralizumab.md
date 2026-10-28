@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Benralizumab
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 445
-evidence_level: L2
+evidence_level: L5
 indication_count: 5
 monitor_inn: "BENRALIZUMAB"
 predicted_indications: ["thrombocytopenia due to immune destruction", "dermatitis", "acne keloid", "neonatal dermatomyositis", "amyopathic dermatomyositis"]
 last_modified_at: 2026-10-14
-description: "Benralizumab: predicted new indication Dermatitis (evidence level L2). Approved use: Eosinophilic pneumonia"
+description: "Benralizumab: predicted new indication thrombocytopenia due to immune destruction (evidence level L2). Approved use: Eosinophilic pneumonia"
 ---
 
 # Benralizumab
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,12 @@ Evidence Level: **L2** | Predicted Indications: **5**
 
 </div>
 
-## Benralizumab: From Eosinophilic Pneumonia to Dermatitis
+## Benralizumab: From Eosinophilic Pneumonia to thrombocytopenia due to immune destruction
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Benralizumab is an anti-IL-5 receptor alpha antibody. In the knowledge graph its original indications are eosinophilic pneumonia and pulmonary eosinophilia, and it is marketed in the US for severe eosinophilic asthma and eosinophilic granulomatosis with polyangiitis.
+Benralizumab is an anti-IL-5 receptor alpha antibody. Its original indications are eosinophilic pneumonia and pulmonary eosinophilia, and it is marketed in the US for severe eosinophilic asthma and eosinophilic granulomatosis with polyangiitis.
 The TxGNN model's top-scoring predictions have no supporting studies. The best-supported prediction is **Dermatitis** (rank 2), backed by **3 clinical trials** and **20 publications**, but the key placebo-controlled trial was terminated and the published results report no benefit in atopic dermatitis.
 
 ---
@@ -49,10 +49,10 @@ The TxGNN model's top-scoring predictions have no supporting studies. The best-s
 |------|------|
 | Original Indication | Eosinophilic pneumonia; pulmonary eosinophilia (US label indication text was not available) |
 | Predicted New Indication | Dermatitis (the rank 1 prediction, thrombocytopenia due to immune destruction, has no supporting evidence, so the best-supported prediction is evaluated here) |
-| TxGNN Prediction Score | 99.16% (dermatitis); 99.34% (rank 1, immune thrombocytopenia) |
-| Evidence Level | L2 |
-| US Market Status | Cancelled only (one BLA, FASENRA, is listed as cancelled in the data compiled for this report) |
-| Number of NDAs | 1 (BLA761070) |
+| TxGNN Prediction Score | 0.9916 (dermatitis); 0.9934 (rank 1, immune thrombocytopenia) |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---

@@ -48,10 +48,10 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Mycosis fungoides and variants; primary cutaneous T-cell lymphoma; peripheral T-cell lymphoma and related T-cell/NK-cell lymphomas |
 | Predicted New Indication | Prostatic urethra urothelial carcinoma |
-| TxGNN Prediction Score | 99.44% |
+| TxGNN Prediction Score | 0.9944 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 (BLA761051) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 The possible link to urothelial carcinoma is Treg depletion in the tumour microenvironment, which could enhance anti-tumour immunity and might complement checkpoint-based immunotherapy. This is a generic immuno-oncology hypothesis and is speculative. No data were provided showing CCR4 dependence in this tumour type.
 
-The top predictions are also clustered: several related urothelial entities (prostatic urethra, renal pelvis, bladder sarcomatoid variants) have near-identical scores of about 99.4%. This suggests a shared model signal rather than independent evidence. The score should be read as a computational hypothesis only.
+The top predictions are also clustered: several related urothelial entities (prostatic urethra, renal pelvis, bladder sarcomatoid variants) have near-identical scores of about 0.9940. This suggests a shared model signal rather than independent evidence. The score should be read as a computational hypothesis only.
 
 Other predicted indications, all also at L5 with a Hold recommendation, include HHV-8-related tumours (a somewhat more biologically coherent hypothesis, since Tregs and CCR4-expressing cells may contribute to immune evasion), ectomesenchymoma, and malignant cutaneous granular cell tumour.
 
@@ -76,7 +76,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA761051 | POTELIGEO (Kyowa Kirin, Inc.) | Injection | Not listed in the compiled data; status: cancelled |
+| BLA761051 | POTELIGEO (Kyowa Kirin, Inc.) | Injection | Not listed in the compiled data; status: valid |
 
 ## Cytotoxicity
 

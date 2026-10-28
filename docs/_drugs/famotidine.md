@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Famotidine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 692
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 4
 last_modified_at: 2026-10-14
-description: "Famotidine: predicted new indication Duodenogastric reflux (evidence level L4). Approved use: Gastric ulcer, gastroesophageal reflux disease, esophagitis…"
 monitor_inn: "FAMOTIDINE"
-predicted_indications: ["duodenal obstruction", "abnormality of glucagon secretion", "gastroduodenitis", "multiple endocrine neoplasia", "acne (disease)"]
+predicted_indications: ["duodenal obstruction", "abnormality of glucagon secretion", "multiple endocrine neoplasia", "acne (disease)"]
+description: "Famotidine: predicted new indication Duodenal obstruction (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Famotidine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,23 +33,22 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Famotidine: From Gastric Ulcer to Duodenogastric Reflux
+## Famotidine: Duodenal obstruction
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Famotidine is a histamine H2-receptor blocker that reduces stomach acid. It is used for gastric and duodenal ulcers, reflux disease and related acid disorders.
-The TxGNN model predicts it may help with **duodenogastric reflux**, but there are currently **0 registered clinical trials** and only **2 small or older publications** supporting this direction.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Gastric ulcer, gastroesophageal reflux disease, esophagitis, dyspepsia, duodenal ulcer, Zollinger-Ellison syndrome (the licence records compiled contain no indication text, so these come from the knowledge-graph indication list) |
-| Predicted New Indication | Duodenogastric reflux |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (14 listings, none currently valid in the data compiled) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Duodenal obstruction |
+| TxGNN Prediction Score | 0.9999 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 14) |
 | Number of NDAs | 14 (all are generic ANDA listings) |
 | Recommended Decision | Hold |
 
@@ -57,7 +56,7 @@ The TxGNN model predicts it may help with **duodenogastric reflux**, but there a
 
 Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, famotidine is an H2-receptor antagonist. It blocks histamine on stomach acid-producing cells and lowers acid output. Its efficacy in acid-related conditions such as ulcers and reflux disease is well established.
 
-In duodenogastric reflux, bile and duodenal contents flow back into the stomach. Lowering acid may reduce mucosal injury and symptoms, so the prediction is plausible. However, famotidine does not correct the bile reflux itself. The link is therefore indirect, and the high score probably reflects its closeness to known acid-related diseases in the knowledge graph.
+In duodenogastric reflux, bile and duodenal contents flow back into the stomach. Lowering acid may reduce mucosal injury and symptoms, so the prediction is plausible. However, famotidine does not correct the bile reflux itself.
 
 ## Clinical Trial Evidence
 
@@ -72,15 +71,15 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All 14 listings are generic (ANDA) and are marked as cancelled. No approved-indication text was recorded. The first five are shown.
+No approved-indication text was recorded. The first five are shown.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
 |---------|------|------|------|------|
-| ANDA075786 | famotidine | Tablet, film coated | Chartwell RX, LLC | Cancelled |
-| ANDA078916 | Famotidine | Tablet | NCS HealthCare of KY (Vangard Labs) | Cancelled |
-| ANDA075511 | Famotidine | Tablet, film coated | Northwind Health Company, LLC | Cancelled |
-| ANDA201995 | Famotidine | Powder, for solution | Akorn | Cancelled |
-| ANDA206531 | Zantac 360, Travel BASIX | Tablet, film coated | Lil' Drug Store Products, Inc | Cancelled |
+| ANDA075786 | famotidine | Tablet, film coated | Chartwell RX, LLC | Valid |
+| ANDA078916 | Famotidine | Tablet | NCS HealthCare of KY (Vangard Labs) | Valid |
+| ANDA075511 | Famotidine | Tablet, film coated | Northwind Health Company, LLC | Valid |
+| ANDA201995 | Famotidine | Powder, for solution | Akorn | Valid |
+| ANDA206531 | Zantac 360, Travel BASIX | Tablet, film coated | Lil' Drug Store Products, Inc | Valid |
 
 ## Safety Considerations
 
@@ -103,7 +102,7 @@ The prediction is mechanistically plausible but has no registered trials and onl
 - Clarification of current US marketing status, since all listings in the data compiled are cancelled
 - Renal function and gastric cancer considerations in trial design
 
-**Note:** Among the other predicted indications, peptic ulcer disease has the strongest evidence (L1, with several randomized trials). It largely overlaps famotidine's existing uses, and famotidine was inferior to pantoprazole for preventing recurrent aspirin-related ulcers.
+It largely overlaps famotidine's existing uses, and famotidine was inferior to pantoprazole for preventing recurrent aspirin-related ulcers.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

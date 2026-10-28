@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Abrus Precatorius Seed Aconitum Napellus Allylthio
@@ -51,7 +52,7 @@ As a result, **no repurposing evidence, clinical trial links, or literature asso
 | Predicted New Indication | None — TxGNN returned no candidates |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (model prediction only) — actually below L5; no prediction was generated |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 8) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

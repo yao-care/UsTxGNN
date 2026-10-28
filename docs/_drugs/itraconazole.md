@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "ITRACONAZOLE"
 predicted_indications: ["pneumocystosis"]
 last_modified_at: 2026-10-14
-description: "Itraconazole: predicted new indication Pneumocystosis (evidence level L5). Approved use: Systemic fungal infections"
+description: "Itraconazole: predicted new indication Pneumocystosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Itraconazole
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-## Itraconazole: From Systemic Fungal Infections to Pneumocystosis
+## Itraconazole: Pneumocystosis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,19 +45,19 @@ The TxGNN model predicts it may be effective for **Pneumocystosis**, but the dat
 
 | Item | Content |
 |------|------|
-| Original Indication | Systemic fungal infections (esophageal candidiasis, candidemia, histoplasmosis, aspergillosis, blastomycosis, and others; listed in the knowledge graph, as US label text is not available) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Pneumocystosis |
-| TxGNN Prediction Score | 99.34% |
+| TxGNN Prediction Score | 0.9934 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all 9 licenses cancelled) |
-| Number of NDAs | 9 (9 cancelled; includes NDA and ANDA licenses) |
+| US Market Status | Marketed (valid licenses: 9 of 9) |
+| Number of NDAs | 9 (valid: 9) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism-of-action data is not available in the compiled data. From general pharmacology, itraconazole is an azole antifungal that inhibits fungal lanosterol 14-alpha-demethylase (CYP51), blocking ergosterol synthesis. Its efficacy across many systemic fungal infections is well established.
 
-The mechanistic link to pneumocystosis is weak, however. *Pneumocystis jirovecii* has a cell membrane in which cholesterol, rather than ergosterol, is the dominant sterol, so the azole target is largely absent. The high TxGNN score (0.993) therefore likely reflects network proximity to other fungal diseases rather than a true mechanistic fit.
+The mechanistic link to pneumocystosis is weak, however. *Pneumocystis jirovecii* has a cell membrane in which cholesterol, rather than ergosterol, is the dominant sterol, so the azole target is largely absent. The high TxGNN score (0.9934) therefore likely reflects network proximity to other fungal diseases rather than a true mechanistic fit.
 
 The supplied literature points the same way. Most articles are general reviews of prophylaxis and opportunistic infections in transplant, HIV and neutropenic patients, or reports of histoplasmosis and aspergillosis. They appear to have been retrieved because itraconazole is discussed alongside other fungal infections, not because it was studied for Pneumocystis. Pneumocystosis is also not among the drug's listed original indications.
 
@@ -84,7 +84,7 @@ No study listed below tests itraconazole for Pneumocystis treatment. Study types
 
 ## US Market Information
 
-All 9 US licenses are cancelled, and no approved-indication text is available for them.
+All 9 US licenses are valid, and no approved-indication text is available for them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -117,7 +117,7 @@ The following come from the knowledge graph (not label text) and from drug-inter
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is high, but there are no registered clinical trials and no literature testing itraconazole against Pneumocystis. *Pneumocystis* lacks the ergosterol target of azoles, so the mechanistic rationale is weak. Evidence stays at L5 (model prediction only), and all US licenses are cancelled.
+The TxGNN score is high, but there are no registered clinical trials and no literature testing itraconazole against Pneumocystis. *Pneumocystis* lacks the ergosterol target of azoles, so the mechanistic rationale is weak. Evidence stays at L5 (model prediction only), and the drug is marketed in the US with 9 valid licenses.
 
 **To proceed, the following is needed:**
 - Direct evidence of itraconazole activity against *Pneumocystis* (in vitro, animal, or clinical), with a plausible non-ergosterol mechanism

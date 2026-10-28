@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-## Estrone: From Acne to Elevated Plasma Zinc
+## Estrone: zinc, elevated plasma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,19 +48,19 @@ The prediction rests on a computational score alone and has no direct clinical s
 |------|------|
 | Original Indication | Acne |
 | Predicted New Indication | Zinc, elevated plasma |
-| TxGNN Prediction Score | 99.81% |
+| TxGNN Prediction Score | 0.9981 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid authorization) |
+| US Market Status | Marketed (valid licenses on record: at least 1) |
 | Number of NDAs | 1 (cancelled) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. Based on known information, estrone is an estrogen, and the knowledge graph links it to acne. Whether and how it would affect plasma zinc has not been established.
+Currently, detailed mechanism of action data is not available. Based on known information, estrone is an estrogen. The prediction comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Whether and how it would affect plasma zinc has not been established.
 
-The only retrieved publication (PMID 12081830) studied soy protein and isoflavone intake in perimenopausal women and measured iron indexes and antioxidant status. It did not test estrone and did not report plasma zinc. Any link would be indirect, for example through estrogen effects on trace metal metabolism, and is speculative. The high TxGNN score (0.998) is a model output and should not be read as clinical validation.
+The only retrieved publication (PMID 12081830) studied soy protein and isoflavone intake in perimenopausal women and measured iron indexes and antioxidant status. It did not test estrone and did not report plasma zinc. Any link would be indirect, for example through estrogen effects on trace metal metabolism, and is speculative. The high TxGNN score (0.9981) is a model output and should not be read as clinical validation.
 
-A second predicted indication, pyogenic arthritis-pyoderma gangrenosum-acne (PAPA) syndrome (score 99.30%), also has no trials and no literature. It is an autoinflammatory disorder driven by excess IL-1beta, and no evidence connects estrone to that pathway. The score likely reflects network proximity through the acne association.
+A second predicted indication, pyogenic arthritis-pyoderma gangrenosum-acne (PAPA) syndrome (score 0.9930), also has no trials and no literature. It is an autoinflammatory disorder driven by excess IL-1beta, and no evidence connects estrone to that pathway. The score likely reflects network proximity through the acne association.
 
 ## Clinical Trial Evidence
 

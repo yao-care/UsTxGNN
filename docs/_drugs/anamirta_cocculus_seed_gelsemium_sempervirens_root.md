@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Anamirta Cocculus Seed Gelsemium Sempervirens Root
@@ -51,7 +52,7 @@ The TxGNN pipeline returned **no predicted new indications** for this combinatio
 | Predicted New Indication | None (TxGNN returned no candidates) |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — Model prediction only, but no candidates generated |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 12) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

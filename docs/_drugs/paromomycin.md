@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "PAROMOMYCIN"
 predicted_indications: ["idiopathic copper-associated cirrhosis", "hepatoportal sclerosis", "hepatopulmonary syndrome", "early-onset familial noncirrhotic portal hypertension", "primitive portal vein thrombosis", "hepatic porphyria", "acute urate nephropathy", "peritonitis"]
 last_modified_at: 2026-10-14
-description: "Paromomycin: predicted new indication Idiopathic copper-associated cirrhosis (evidence level L5). Approved use: Hepatic coma / hepatic encephalopathy"
+description: "Paromomycin: predicted new indication Idiopathic copper-associated cirrhosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Paromomycin
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-## Paromomycin: From Hepatic Encephalopathy to Idiopathic Copper-Associated Cirrhosis
+## Paromomycin: Idiopathic copper-associated cirrhosis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,21 +46,21 @@ This is a computational prediction only, with no direct supporting evidence.
 
 | Item | Content |
 |------|------|
-| Original Indication | Hepatic coma / hepatic encephalopathy (from the knowledge graph; no approved indication text is available in the US license record) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Idiopathic copper-associated cirrhosis |
-| TxGNN Prediction Score | 99.90% |
+| TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 1 (ANDA, cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, paromomycin is an aminoglycoside that is poorly absorbed from the gut, so it acts mainly by reducing intestinal bacteria. This gut-decontaminating effect is the basis of its use in hepatic encephalopathy, where gut-derived toxins such as ammonia contribute to disease.
 
-The predicted indication, idiopathic copper-associated cirrhosis, is a chronic liver disease. The high score most likely reflects the closeness of liver-related diseases in the knowledge graph rather than a demonstrated biological link. No direct mechanistic connection to copper accumulation or copper-driven liver injury has been established. Any rationale would depend on speculative gut-liver axis modulation in chronic liver disease.
+The predicted indication, idiopathic copper-associated cirrhosis, is a chronic liver disease. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No direct mechanistic connection to copper accumulation or copper-driven liver injury has been established. Any rationale would depend on speculative gut-liver axis modulation in chronic liver disease.
 
-The same score (99.90%) was assigned to several other liver and portal conditions, such as hepatoportal sclerosis, hepatopulmonary syndrome, and portal vein thrombosis. This suggests the scores reflect network proximity to the original liver indications and are not specific to this disease.
+The same score (0.9990) was assigned to several other liver and portal conditions, such as hepatoportal sclerosis, hepatopulmonary syndrome, and portal vein thrombosis. This suggests the scores reflect network proximity to the original liver indications and are not specific to this disease.
 
 ## Clinical Trial Evidence
 
@@ -100,7 +100,6 @@ The prediction rests only on a model score, with no clinical trials, no literatu
 - Mechanism of action data (e.g., from DrugBank)
 - Preclinical or mechanistic evidence linking gut decontamination or the gut-liver axis to copper-associated liver injury
 - Review of renal and hearing safety for any chronic liver disease population
-- Clarification of route compatibility and a current regulatory pathway, since no valid US license exists
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

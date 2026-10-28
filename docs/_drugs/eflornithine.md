@@ -46,10 +46,10 @@ Eflornithine was originally used to treat human African trypanosomiasis (sleepin
 |------|------|
 | Original Indication | Human African trypanosomiasis (trypanosomiasis) |
 | Predicted New Indication | Esotropia |
-| TxGNN Prediction Score | 99.85% |
+| TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (the single NDA is cancelled) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -58,7 +58,7 @@ Eflornithine irreversibly inhibits ornithine decarboxylase (ODC, encoded by *ODC
 
 For esotropia, no established mechanistic link was found. Esotropia is a disorder of ocular alignment driven by extraocular muscle, neural, or refractive factors, and no plausible pathway connecting polyamine depletion to ocular motor alignment is supported by the data compiled for this report. The high TxGNN score is therefore best treated as a hypothesis-generating signal, not as supporting evidence.
 
-A second prediction, **neurotrophic keratopathy** (score 99.38%), is also at the L5 level with no trials or literature. A speculative link exists through polyamines' role in corneal epithelial proliferation and wound healing. However, ODC inhibition would be expected to suppress rather than promote epithelial proliferation, and the disease is driven by impaired corneal innervation and loss of trophic support. This prediction is likewise unvalidated and recommended as Hold.
+A second prediction, **neurotrophic keratopathy** (score 0.9938), is also at the L5 level with no trials or literature. A speculative link exists through polyamines' role in corneal epithelial proliferation and wound healing. However, ODC inhibition would be expected to suppress rather than promote epithelial proliferation, and the disease is driven by impaired corneal innervation and loss of trophic support. This prediction is likewise unvalidated and recommended as Hold.
 
 ## Clinical Trial Evidence
 

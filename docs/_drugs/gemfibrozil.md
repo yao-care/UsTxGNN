@@ -4,17 +4,17 @@ title: Gemfibrozil
 parent: Moderate Evidence (L3-L4)
 nav_order: 749
 evidence_level: L4
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Gemfibrozil: predicted new indication Rheumatoid arthritis (evidence level L4). Approved use: Hypertriglyceridemia"
 monitor_inn: "GEMFIBROZIL"
-predicted_indications: ["rheumatoid arthritis", "multiple endocrine neoplasia", "HIV infectious disease", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "methemoglobinemia, alpha type", "obsolete familial combined hyperlipidemia", "sclerosing cholangitis", "methemoglobin reductase deficiency"]
+predicted_indications: ["rheumatoid arthritis", "multiple endocrine neoplasia", "HIV infectious disease", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "methemoglobinemia, alpha type", "sclerosing cholangitis", "methemoglobin reductase deficiency"]
+description: "Gemfibrozil: predicted new indication Rheumatoid arthritis (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Gemfibrozil
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Gemfibrozil: From Hypertriglyceridemia to Rheumatoid Arthritis
+## Gemfibrozil: Rheumatoid arthritis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,11 +45,11 @@ The TxGNN model predicts it may be effective for **rheumatoid arthritis**, but *
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertriglyceridemia (from knowledge-graph indication data; no approved-indication text is listed for the US licenses) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Rheumatoid arthritis |
-| TxGNN Prediction Score | 99.90% |
+| TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of NDAs | 5 (all generic ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
@@ -78,11 +78,11 @@ All five US licenses are generic tablets and are now cancelled. The compiled dat
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| ANDA204189 | Gemfibrozil (Viona Pharmaceuticals) | Tablet | Cancelled |
-| ANDA214603 | Gemfibrozil (Proficient Rx) | Tablet | Cancelled |
-| ANDA078012 | Gemfibrozil (Bryant Ranch Prepack) | Tablet | Cancelled |
-| ANDA077836 | Gemfibrozil (RemedyRepack) | Tablet | Cancelled |
-| ANDA202726 | Gemfibrozil (Vangard Labs) | Tablet, film coated | Cancelled |
+| ANDA204189 | Gemfibrozil (Viona Pharmaceuticals) | Tablet | Valid |
+| ANDA214603 | Gemfibrozil (Proficient Rx) | Tablet | Valid |
+| ANDA078012 | Gemfibrozil (Bryant Ranch Prepack) | Tablet | Valid |
+| ANDA077836 | Gemfibrozil (RemedyRepack) | Tablet | Valid |
+| ANDA202726 | Gemfibrozil (Vangard Labs) | Tablet, film coated | Valid |
 
 ## Safety Considerations
 

@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Aluminum Oxide Bryonia Alba Root Graphite Lead Lyc
@@ -49,7 +50,7 @@ This Evidence Pack describes a twelve-ingredient homeopathic polypharmacy produc
 | Predicted New Indication | No prediction generated |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (model prediction absent — evaluation not initiated) |
-| Market Status | Not marketed (Taiwan TFDA: 0 authorizations) |
+| Market Status | Marketed (valid licenses on record: at least 14) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

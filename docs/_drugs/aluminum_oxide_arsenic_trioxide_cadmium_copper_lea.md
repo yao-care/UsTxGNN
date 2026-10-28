@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Aluminum Oxide Arsenic Trioxide Cadmium Copper Lea
@@ -51,7 +52,7 @@ This case cannot be evaluated as a drug repurposing candidate under current cond
 | Predicted New Indication | None (TxGNN produced no predictions) |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | N/A — no predictions generated |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 6) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

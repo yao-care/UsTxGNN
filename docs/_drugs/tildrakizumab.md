@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **severe nonproliferative diabe
 |------|------|
 | Original Indication | Not listed in the compiled data (known clinical use: moderate-to-severe plaque psoriasis) |
 | Predicted New Indication | Severe nonproliferative diabetic retinopathy |
-| TxGNN Prediction Score | 99.63% |
+| TxGNN Prediction Score | 0.9963 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (the single BLA is recorded as cancelled) |
-| Number of NDAs | 1 (BLA761067) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -63,9 +63,9 @@ Other predicted indications show the same pattern of high scores without support
 
 | Predicted Indication | TxGNN Score | Evidence Level | Comment |
 |------|------|------|------|
-| Diabetic retinopathy | 99.53% | L5 | Same inflammatory rationale. Anti-VEGF, laser and corticosteroids set a high bar, and a systemic anti-IL-23 antibody would first need preclinical ocular evidence. |
-| Diabetic cataract | 99.21% | L5 | Driven mainly by hyperglycemia-related osmotic and oxidative lens stress. The link to IL-23 blockade is weak, and surgery is the definitive treatment. |
-| Drug-induced osteoporosis | 99.20% | L5 | IL-23/IL-17 is implicated in bone remodeling, but the direction of effect is unestablished. |
+| Diabetic retinopathy | 0.9953 | L5 | Same inflammatory rationale. Anti-VEGF, laser and corticosteroids set a high bar, and a systemic anti-IL-23 antibody would first need preclinical ocular evidence. |
+| Diabetic cataract | 0.9921 | L5 | Driven mainly by hyperglycemia-related osmotic and oxidative lens stress. The link to IL-23 blockade is weak, and surgery is the definitive treatment. |
+| Drug-induced osteoporosis | 0.9920 | L5 | IL-23/IL-17 is implicated in bone remodeling, but the direction of effect is unestablished. |
 
 ## Clinical Trial Evidence
 

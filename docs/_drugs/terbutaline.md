@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **obstructive lung disease**, w
 |------|------|
 | Original Indication | Asthma (also intrinsic and allergic asthma, bronchitis, pulmonary emphysema) |
 | Predicted New Indication | Obstructive lung disease |
-| TxGNN Prediction Score | 99.96% |
+| TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L1 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 6 (all cancelled) |
+| US Market Status | Marketed (valid licenses: 6 of 6) |
+| Number of NDAs | 6 (valid: 6) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---
@@ -63,7 +63,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 Asthma, bronchitis, and emphysema are all forms of obstructive lung disease. The predicted indication therefore overlaps almost completely with the original ones, and the same bronchodilator mechanism applies. This explains the very high TxGNN score.
 
-The other two predictions are much weaker. "Respiratory malformation" (score 99.52%) has no literature showing that terbutaline works. Beta-2 agonism could at most relieve secondary bronchospasm, and the score likely reflects network proximity to airway disease. "Rienhoff syndrome" (score 99.38%) has no trial or literature evidence and no plausible mechanistic link. Both are rated Hold.
+The other two predictions are much weaker. "Respiratory malformation" (score 0.9952) has no literature showing that terbutaline works. Beta-2 agonism could at most relieve secondary bronchospasm, and the score likely reflects network proximity to airway disease. "Rienhoff syndrome" (score 0.9938) has no trial or literature evidence and no plausible mechanistic link. Both are rated Hold.
 
 ---
 
@@ -105,7 +105,7 @@ Terbutaline mostly appears as a reliever or comparator arm in these trials, rath
 
 ## US Market Information
 
-All six US authorizations are cancelled, and none is currently valid. The approved indication text is not available for any of them.
+All six US authorizations are currently valid, and the drug is marketed. The approved indication text is not available for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -137,7 +137,7 @@ Package insert warnings and contraindications were not available for this report
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Multiple large, completed Phase 3 trials in asthma include terbutaline as an active reliever or comparator, and the predicted indication overlaps almost entirely with the existing ones. Still, most trials do not test terbutaline as the primary agent. All US authorizations are also cancelled, which limits near-term development.
+Multiple large, completed Phase 3 trials in asthma include terbutaline as an active reliever or comparator, and the predicted indication overlaps almost entirely with the existing ones. Still, most trials do not test terbutaline as the primary agent. All six US authorizations are also currently valid, and the drug is marketed.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

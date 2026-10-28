@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "PLECANATIDE"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "isolated genetic hair shaft abnormality", "syndrome with a Dandy-Walker malformation as major feature", "idiopathic spontaneous coronary artery dissection", "vascular disease", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "phaeochromocytoma"]
 last_modified_at: 2026-10-14
-description: "Plecanatide: predicted new indication Hypertrichosis (evidence level L5). Approved use: Chronic idiopathic constipation (CIC) and IBS with constipation (IBS-…"
+description: "Plecanatide: predicted new indication Hypertrichosis (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Plecanatide
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Plecanatide: From Chronic Idiopathic Constipation to Hypertrichosis
+## Plecanatide: Hypertrichosis (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,33 +45,32 @@ The TxGNN model predicts it may be effective for **hypertrichosis**, but there a
 
 | Item | Content |
 |------|------|
-| Original Indication | Chronic idiopathic constipation (CIC) and IBS with constipation (IBS-C), per the pharmacology data compiled for this report. The US license record has no indication text. |
-| Predicted New Indication | Hypertrichosis |
-| TxGNN Prediction Score | 99.998% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Hypertrichosis (disease) |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (the single NDA is recorded as cancelled) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the drug record. Based on the pharmacology data compiled for this report, plecanatide is a peptide agonist of guanylate cyclase-C (GUCY2C) on intestinal epithelium. It raises intracellular cGMP and is approved for constipation-predominant gut disorders.
 
-The link to hypertrichosis is weak. No known pathway connects GC-C agonism to hair follicle regulation. Plecanatide acts locally in the gut with minimal systemic absorption, which makes an effect on hair growth even less plausible. The very high TxGNN score most likely reflects proximity in the knowledge graph rather than a biological rationale.
+The link to hypertrichosis is weak. No known pathway connects GC-C agonism to hair follicle regulation. Plecanatide acts locally in the gut with minimal systemic absorption, which makes an effect on hair growth even less plausible.
 
 The other nine top-ranked predictions are similarly unsupported:
 
 | Rank | Predicted Disease | Score | Assessment |
 |------|------|------|------|
-| 2 | Ambras type hypertrichosis universalis congenita | 99.998% | Genomic rearrangement disorder (TRPS1 region); no link to GC-C signaling |
-| 3 | Malformation syndrome with odontal/periodontal component | 99.997% | Developmental genetic malformation; no mechanism |
-| 4 | Isolated genetic hair shaft abnormality | 99.997% | Structural gene defects; not addressed by intestinal GC-C agonism |
-| 5 | Syndrome with Dandy-Walker malformation | 99.997% | Congenital brain malformation; negligible systemic exposure |
-| 6 | Idiopathic spontaneous coronary artery dissection | 99.996% | cGMP is relevant to vascular tissue, but the drug is minimally absorbed |
-| 7 | Vascular disease | 99.995% | Broad category; speculative |
-| 8 | Arterial thoracic outlet syndrome | 99.995% | Mechanical compression disorder |
-| 9 | Venous thoracic outlet syndrome | 99.995% | Mechanical compression; identical score to the arterial form suggests a graph artifact |
-| 10 | Phaeochromocytoma | 99.995% | No link between intestinal GC-C signaling and this tumour |
+| 2 | Ambras type hypertrichosis universalis congenita | 1.0000 | Genomic rearrangement disorder (TRPS1 region); no link to GC-C signaling |
+| 3 | Malformation syndrome with odontal/periodontal component | 1.0000 | Developmental genetic malformation; no mechanism |
+| 4 | Isolated genetic hair shaft abnormality | 1.0000 | Structural gene defects; not addressed by intestinal GC-C agonism |
+| 5 | Syndrome with Dandy-Walker malformation | 1.0000 | Congenital brain malformation; negligible systemic exposure |
+| 6 | Idiopathic spontaneous coronary artery dissection | 1.0000 | cGMP is relevant to vascular tissue, but the drug is minimally absorbed |
+| 7 | Vascular disease | 1.0000 | Broad category; speculative |
+| 8 | Arterial thoracic outlet syndrome | 1.0000 | Mechanical compression disorder |
+| 10 | Phaeochromocytoma | 1.0000 | No link between intestinal GC-C signaling and this tumour |
 
 ## Clinical Trial Evidence
 

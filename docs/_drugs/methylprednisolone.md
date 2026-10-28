@@ -4,7 +4,7 @@ title: Methylprednisolone
 parent: Moderate Evidence (L3-L4)
 nav_order: 917
 evidence_level: L3
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
 description: "Methylprednisolone: predicted new indication Alopecia areata (evidence level L3). Approved use: Autoimmune disease (other listed indications include Crohn disease…"
 monitor_inn: "METHYLPREDNISOLONE"
@@ -14,7 +14,7 @@ predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvi
 # Methylprednisolone
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L3** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ with **1 clinical trial** and **20 publications** currently supporting this dire
 |------|------|
 | Original Indication | Autoimmune disease (other listed indications include Crohn disease, adrenocortical insufficiency, acute lymphoblastic leukemia) |
 | Predicted New Indication | Alopecia areata |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L3 |
-| US Market Status | Cancelled only (all 8 authorizations cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 8) |
 | Number of NDAs | 8 (2 NDAs and 6 ANDAs) |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -85,7 +85,7 @@ The main limitations are relapse after withdrawal and cumulative steroid toxicit
 
 ## US Market Information
 
-All 8 authorizations are listed as cancelled, and no approved indication text was available.
+The drug is marketed, with 8 valid authorizations listed, and no approved indication text was available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -115,7 +115,7 @@ One completed Phase 4 trial (n=42) and many open-label and retrospective studies
 - Package insert warnings and contraindications, which are currently missing
 - Detailed mechanism of action data
 - A relapse-management and cumulative steroid toxicity monitoring plan, with attention to hypertension, hyperglycemia and the interactions above
-- Clarification of US regulatory status, since all 8 authorizations are listed as cancelled
+- Clarification of US regulatory status, since the drug is marketed with 8 valid authorizations
 
 **Other predicted indications:** Alopecia mucinosa, telogen effluvium, folliculitis decalvans, alopecia antibody deficiency, and several rare hereditary hair disorders (ranks 2–8) have no trials or supporting literature and should be on **Hold**. Alopecia universalis with onychodystrophy and vitiligo (rank 9) is an indirect extrapolation from alopecia areata and remains a research question. Idiopathic steroid-sensitive nephrotic syndrome (rank 10) has mostly review-level literature, and because glucocorticoid class therapy is already standard of care, the added value of methylprednisolone is undefined. It also remains a research question.
 ## Disclaimer

@@ -48,9 +48,9 @@ The data compiled for this report show the strongest (still only indirect) suppo
 |------|------|
 | Original Indication | Diarrheal disease, dyspepsia (the license records contain no approved indication text) |
 | Predicted New Indication | Paratyphoid fever |
-| TxGNN Prediction Score | 99.98% |
+| TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
+| US Market Status | Marketed (valid licenses on record: at least 3) |
 | Number of NDAs | 3 (all cancelled) |
 | Recommended Decision | Hold |
 
@@ -64,9 +64,9 @@ Other predictions fall into three groups:
 
 | Predicted Indication | Score | Evidence Level | Comment |
 |------|------|------|------|
-| Salmonellosis | 99.95% | L4 | In vitro bacterial killing plus older reviews and a veterinary study; no human trials |
-| Gingivitis | 99.75% | L4 | Preclinical dental antibacterial work and two 1946 historical reports; no modern trials |
-| Diffuse scleroderma, typhoid fever, conjunctivitis, relapsing fever, acute contagious conjunctivitis, punctate epithelial keratoconjunctivitis, otitis externa | 99.68%–99.96% | L5 | Prediction only; no supporting data and weak or speculative mechanistic links |
+| Salmonellosis | 0.9995 | L5 | In vitro bacterial killing plus older reviews and a veterinary study; no human trials |
+| Gingivitis | 0.9975 | L5 | Preclinical dental antibacterial work and two 1946 historical reports; no modern trials |
+| Diffuse scleroderma, typhoid fever, conjunctivitis, relapsing fever, acute contagious conjunctivitis, punctate epithelial keratoconjunctivitis, otitis externa | 0.9968–0.9996 | L5 | Prediction only; no supporting data and weak or speculative mechanistic links |
 
 ## Clinical Trial Evidence
 
@@ -96,15 +96,15 @@ For **gingivitis** (second supported prediction), the literature is preclinical 
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| M001 | Stomach | Liquid | Not specified (cancelled) |
-| M008 | Stomach Relief | Liquid | Not specified (cancelled) |
-| M002 | GNP Pink Bismuth | Chewable tablet | Not specified (cancelled) |
+| M001 | Stomach | Liquid | Not specified (valid) |
+| M008 | Stomach Relief | Liquid | Not specified (valid) |
+| M002 | GNP Pink Bismuth | Chewable tablet | Not specified (valid) |
 
-All three authorizations are cancelled, and no valid single-ingredient or combination authorization remains.
+The drug is marketed in the US, and all three authorizations are valid.
 
 ## Safety Considerations
 
-- **Contraindications (from knowledge-graph associations, not label text)**: The graph links the drug to liver failure, liver disease, kidney disease, gallbladder disease, epilepsy, diabetes mellitus, diabetic ketoacidosis, neutropenia, agranulocytosis, gout, peripheral neuropathy and other peripheral nervous system disease, blood coagulation disease, brain disease, non-infectious meningitis, substance abuse/dependence, *Clostridium difficile* colitis, perinatal necrotizing enterocolitis, and pyoureter. These should be verified against official labeling.
+- **Contraindications (reported associations, not label text)**: The drug is associated with liver failure, liver disease, kidney disease, gallbladder disease, epilepsy, diabetes mellitus, diabetic ketoacidosis, neutropenia, agranulocytosis, gout, peripheral neuropathy and other peripheral nervous system disease, blood coagulation disease, brain disease, non-infectious meningitis, substance abuse/dependence, *Clostridium difficile* colitis, perinatal necrotizing enterocolitis, and pyoureter. These should be verified against official labeling.
 - **Drug Interactions**: 64 interactions were identified, all in the moderate category among those listed. The main groups are:
   - Tetracycline antibiotics (doxycycline, tetracycline, minocycline)
   - Antidiabetic agents, including sulfonylureas (chlorpropamide, glimepiride, glipizide, glyburide, tolazamide), meglitinides (repaglinide, nateglinide) and many insulins (aspart, degludec, detemir, glargine, glulisine, human isophane/regular/inhaled)
@@ -117,7 +117,7 @@ Label-based warnings were not available for this report. Please refer to the pac
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction, paratyphoid fever, rests on model score alone (L5) with no trials or literature, and a non-absorbed gut-acting agent is unlikely to treat a systemic infection. All US authorizations are cancelled, and label safety data are missing. Salmonellosis and gingivitis are worth treating as research questions (L4), but their support is limited to in vitro, veterinary, and historical sources.
+The top-ranked prediction, paratyphoid fever, rests on model score alone (L5) with no trials or literature, and a non-absorbed gut-acting agent is unlikely to treat a systemic infection. The drug is marketed in the US with three valid authorizations, and label safety data are missing. Salmonellosis and gingivitis are worth treating as research questions (L4), but their support is limited to in vitro, veterinary, and historical sources.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
@@ -125,7 +125,7 @@ The top-ranked prediction, paratyphoid fever, rests on model score alone (L5) wi
 - Human clinical data for enteric infections such as salmonellosis, and for any systemic enteric fever, before further investment
 - For gingivitis, modern controlled studies and a suitable topical or oral-care formulation
 - Confirmation of the contraindication signals listed above against official labeling
-- Clarification of current US regulatory status, given that all three authorizations are cancelled
+- Confirmation of current US regulatory status, given that the drug is marketed with three valid authorizations
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

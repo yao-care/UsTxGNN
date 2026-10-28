@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Famciclovir
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 691
-evidence_level: L4
+evidence_level: L5
 indication_count: 9
 monitor_inn: "FAMCICLOVIR"
 predicted_indications: ["post-infectious neuralgia", "sequela of COVID-19", "hepatitis C induced liver cirrhosis", "malignant pleural mesothelioma", "AIDS-related disorder", "malignant epithelioid mesothelioma", "chickenpox", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
@@ -14,7 +14,7 @@ description: "Famciclovir: predicted new indication Post-infectious neuralgia (e
 # Famciclovir
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **9** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,9 +50,9 @@ Evidence is therefore limited to model prediction and indirect mechanistic reaso
 |------|------|
 | Original Indication | Herpes zoster |
 | Predicted New Indication | Post-infectious neuralgia |
-| TxGNN Prediction Score | 99.75% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (no active licenses) |
+| TxGNN Prediction Score | 0.9975 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 4) |
 | Number of NDAs | 4 (all cancelled; listed as ANDAs) |
 | Recommended Decision | Hold |
 
@@ -84,20 +84,20 @@ Currently no related literature available for this predicted indication.
 
 ## US Market Information
 
-All four US authorizations for famciclovir are cancelled, and no approved indication text is recorded for them.
+Famciclovir is marketed in the US, and 4 US authorizations are currently valid. No approved indication text is recorded for them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA202438 | Famciclovir (Proficient Rx LP) | Film-coated tablet | Not recorded (cancelled) |
-| ANDA201022 | Famciclovir (Macleods Pharmaceuticals) | Film-coated tablet | Not recorded (cancelled) |
-| ANDA091114 | Famciclovir (Rising Pharma) | Film-coated tablet | Not recorded (cancelled) |
-| ANDA077487 | Famciclovir (Teva Pharmaceuticals USA) | Film-coated tablet | Not recorded (cancelled) |
+| ANDA202438 | Famciclovir (Proficient Rx LP) | Film-coated tablet | Not recorded (valid) |
+| ANDA201022 | Famciclovir (Macleods Pharmaceuticals) | Film-coated tablet | Not recorded (valid) |
+| ANDA091114 | Famciclovir (Rising Pharma) | Film-coated tablet | Not recorded (valid) |
+| ANDA077487 | Famciclovir (Teva Pharmaceuticals USA) | Film-coated tablet | Not recorded (valid) |
 
 ---
 
 ## Safety Considerations
 
-- **Contraindications (knowledge-graph associations, not label text)**: kidney disease and pyoureter are linked to famciclovir in the TxGNN knowledge graph.
+- **Contraindications (model-derived associations, not label text)**: kidney disease and pyoureter are flagged for famciclovir by the TxGNN model (deep learning). This output may reflect similarities the model learned between related diseases, not biological evidence.
 - **Drug Interactions**: 84 potential interactions were identified, but severity levels are unclassified. Examples include calcitriol, doxycycline, metformin, omeprazole, morphine, prednisone, simvastatin and vancomycin.
 
 For warnings and full safety information, please refer to the package insert.
@@ -109,7 +109,7 @@ For warnings and full safety information, please refer to the package insert.
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high, but the supporting evidence is only a model prediction plus an indirect mechanistic argument. The sole trial found studies oxycodone rather than famciclovir, and no literature was retrieved. In addition, all US licenses are cancelled, which limits practical availability.
+The prediction score is high, but the supporting evidence is only a model prediction plus an indirect mechanistic argument. The sole trial found studies oxycodone rather than famciclovir, and no literature was retrieved.
 
 **To proceed, the following is needed:**
 - Clinical studies or systematic reviews testing whether famciclovir reduces the incidence or severity of postherpetic neuralgia

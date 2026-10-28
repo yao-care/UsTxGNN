@@ -4,17 +4,17 @@ title: Letrozole
 parent: High Evidence (L1-L2)
 nav_order: 848
 evidence_level: L1
-indication_count: 10
+indication_count: 4
 last_modified_at: 2026-10-14
-description: "Letrozole: predicted new indication Female breast carcinoma (evidence level L1). Approved use: Not listed in the US license data compiled for this report (letrozole…"
 monitor_inn: "LETROZOLE"
 predicted_indications: ["nipple carcinoma", "Ehrlich tumor carcinoma", "breast fibrocystic disease", "benign mammary dysplasia"]
+description: "Letrozole: predicted new indication Nipple carcinoma (evidence level L1). Approved use: Not recorded in the local data"
 ---
 
 # Letrozole
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L1** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,23 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-## Letrozole: From Breast Cancer Endocrine Therapy to Female Breast Carcinoma
+## Letrozole: Nipple carcinoma
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Letrozole is a non-steroidal aromatase inhibitor that lowers estrogen production, and it is used to treat hormone receptor-positive breast cancer.
-The TxGNN model predicts it may be effective for **female breast carcinoma**, with **41 clinical trials** and **20 publications** compiled for this prediction.
 This is largely an established standard-of-care use rather than a new repurposing finding.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the US license data compiled for this report (letrozole is an aromatase inhibitor used in hormone receptor-positive breast cancer) |
-| Predicted New Indication | Female breast carcinoma |
-| TxGNN Prediction Score | 99.98% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Nipple carcinoma |
+| TxGNN Prediction Score | 0.9976 |
 | Evidence Level | L1 |
-| US Market Status | Cancelled only (all 6 listings are cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 6) |
 | Number of NDAs | 6 (1 NDA and 5 ANDAs) |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -58,7 +57,7 @@ This is largely an established standard-of-care use rather than a new repurposin
 
 Letrozole is a third-generation, non-steroidal aromatase inhibitor. It blocks the conversion of androgens to estrogens, which reduces the estrogen-driven growth of hormone receptor-positive breast tumours. The data compiled for this report did not include a mechanism-of-action entry, so this description comes from the published literature (for example, PMID 17912633, "The discovery and mechanism of action of letrozole").
 
-The predicted indication, female breast carcinoma, is the drug's core clinical use. Large Phase 3 trials such as PALOMA-2, MONALEESA-2, and the BIG 1-98 comparison with tamoxifen show letrozole serving as the endocrine backbone in advanced and early breast cancer. The prediction is therefore well supported, but it describes an established use, not a new one.
+Large Phase 3 trials such as PALOMA-2, MONALEESA-2, and the BIG 1-98 comparison with tamoxifen show letrozole serving as the endocrine backbone in advanced and early breast cancer. The prediction is therefore well supported, but it describes an established use, not a new one.
 
 The market status of "Cancelled only" refers to the specific product listings in the data. It should be checked against current generic availability before any deployment decision.
 
@@ -117,7 +116,6 @@ One further listing, ANDA200161 (Bryant Ranch Prepack, tablet), is also cancelle
 | Cytotoxicity Classification | Targeted hormonal therapy (aromatase inhibitor); not a conventional cytotoxic agent |
 | Myelosuppression Risk | Please refer to the package insert warnings and precautions |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Please refer to the package insert; liver function and bone health are relevant given the knowledge-graph signals below |
 | Handling Protection | Please refer to the package insert warnings and precautions |
 
 ## Safety Considerations

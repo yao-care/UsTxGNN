@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Aluminum Zirconium Octachlorohydrate Anhydrous
@@ -51,7 +52,7 @@ Due to the complete absence of regulatory approval records, predicted indication
 | Predicted New Indication | No predictions available |
 | TxGNN Prediction Score | Not applicable |
 | Evidence Level | L5 (no model predictions, no clinical studies, no literature) |
-| US Market Status | Not marketed as a pharmaceutical |
+| US Market Status | Marketed (valid licenses on record: at least 3) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 

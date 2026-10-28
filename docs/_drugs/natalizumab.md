@@ -48,10 +48,10 @@ Among the other top predictions, the available literature (for example, in psori
 |------|------|
 | Original Indication | Crohn's disease, inflammatory bowel disease, Crohn's colitis, multiple sclerosis |
 | Predicted New Indication | Bronchitis |
-| TxGNN Prediction Score | 99.46% |
+| TxGNN Prediction Score | 0.9946 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 2 (both cancelled) |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -64,10 +64,10 @@ In principle, the same effect could modulate airway inflammation, which may expl
 
 | Rank | Predicted Indication | TxGNN Score | Evidence Level | Summary |
 |------|------|------|------|------|
-| 2 | Parapsoriasis | 99.37% | L4 | Only a single 2020 case report of dermatologic adverse events (confounded by fingolimod); no treatment evidence |
-| 3 | Psoriasis | 99.19% | L4 | Mostly case reports of natalizumab-induced or aggravated psoriasis; one small series reports improvement in comorbid psoriasis |
-| 4 | Severe nonproliferative diabetic retinopathy | 99.18% | L5 | Prediction only; no trials or literature |
-| 5 | Acute lichenoid pityriasis | 99.04% | L4 | Same single confounded case report as rank 2; no therapeutic support |
+| 2 | Parapsoriasis | 0.9937 | L5 | Only a single 2020 case report of dermatologic adverse events (confounded by fingolimod); no treatment evidence |
+| 3 | Psoriasis | 0.9919 | L4 | Mostly case reports of natalizumab-induced or aggravated psoriasis; one small series reports improvement in comorbid psoriasis |
+| 4 | Severe nonproliferative diabetic retinopathy | 0.9918 | L5 | Prediction only; no trials or literature |
+| 5 | Acute lichenoid pityriasis | 0.9904 | L5 | Same single confounded case report as rank 2; no therapeutic support |
 
 ## Clinical Trial Evidence
 
@@ -98,8 +98,8 @@ Overall, there is no trial evidence of benefit in psoriasis, and the case report
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication | Status |
 |---------|------|------|-----------|------|
-| BLA761322 | TYRUKO (Sandoz Inc) | Injection | Not available | Cancelled |
-| BLA125104 | TYSABRI (Biogen Inc.) | Injection | Not available | Cancelled |
+| BLA761322 | TYRUKO (Sandoz Inc) | Injection | Not available | Valid |
+| BLA125104 | TYSABRI (Biogen Inc.) | Injection | Not available | Valid |
 
 ## Safety Considerations
 

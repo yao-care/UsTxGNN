@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Acorus Calamus Whole Citrullus Colocynthis Fruit P
@@ -51,7 +52,7 @@ Without a matched DrugBank entry or approved indication, no evidence-supported n
 | Predicted New Indication | No prediction generated |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | Below L5 — model prediction not generated |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 7) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

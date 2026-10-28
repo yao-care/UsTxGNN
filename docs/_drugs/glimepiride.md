@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "GLIMEPIRIDE"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
 last_modified_at: 2026-10-14
-description: "Glimepiride: predicted new indication Classic stiff person syndrome (evidence level L5). Approved use: Type 2 diabetes mellitus"
+description: "Glimepiride: predicted new indication Classic stiff person syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Glimepiride
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-## Glimepiride: From Type 2 Diabetes Mellitus to Classic Stiff Person Syndrome
+## Glimepiride: Classic stiff person syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 
 | Item | Content |
 |------|------|
-| Original Indication | Type 2 diabetes mellitus |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Classic stiff person syndrome |
-| TxGNN Prediction Score | 99.75% |
+| TxGNN Prediction Score | 0.9975 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 6) |
 | Number of NDAs | 6 (all ANDA, all cancelled) |
 | Recommended Decision | Hold |
 
@@ -58,9 +58,9 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 
 Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, glimepiride is a sulfonylurea that closes KATP channels in pancreatic beta cells to stimulate insulin secretion. Its efficacy in type 2 diabetes is established.
 
-Stiff person syndrome is an autoimmune neurological disorder, typically with anti-GAD65 antibodies that impair GABAergic signaling. No mechanistic link to glimepiride is established, and the drug has no known benefit for the neurological symptoms. The high score is more likely explained by diabetes-related graph proximity: stiff person syndrome is commonly comorbid with type 1 diabetes, and the knowledge graph may be picking up that association rather than a therapeutic rationale.
+Stiff person syndrome is an autoimmune neurological disorder, typically with anti-GAD65 antibodies that impair GABAergic signaling. No mechanistic link to glimepiride is established, and the drug has no known benefit for the neurological symptoms. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence: stiff person syndrome is commonly comorbid with type 1 diabetes, and the model may be picking up that association rather than a therapeutic rationale.
 
-The same caution applies to the other predictions. Focal stiff limb syndrome received an identical score (99.75%), which suggests a shared graph neighborhood rather than independent evidence. The remaining candidates are:
+The same caution applies to the other predictions. Focal stiff limb syndrome received an identical score (0.9975), which suggests similarities the TxGNN model (deep learning) learned between related diseases rather than independent evidence. The remaining candidates are:
 
 - **Opsismodysplasia**: possible link to insulin signaling, but speculative.
 - **Thiamine-responsive dysfunction syndrome**: sulfonylureas may treat its diabetic component only, not the underlying disorder.
@@ -83,13 +83,13 @@ Currently no relevant literature is available for the top prediction. The only p
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA202112 | Glimepiride (A-S Medication Solutions) | Tablet | Not available; status cancelled |
-| ANDA077091 | Glimepiride (Dr. Reddy's Laboratories) | Tablet | Not available; status cancelled |
-| ANDA202759 | Glimepiride (Aurobindo Pharma) | Tablet | Not available; status cancelled |
-| ANDA077911 | Glimepiride (Carlsbad Technology) | Tablet | Not available; status cancelled |
-| ANDA078181 | Glimepiride (Proficient Rx) | Tablet | Not available; status cancelled |
+| ANDA202112 | Glimepiride (A-S Medication Solutions) | Tablet | Not available; status valid |
+| ANDA077091 | Glimepiride (Dr. Reddy's Laboratories) | Tablet | Not available; status valid |
+| ANDA202759 | Glimepiride (Aurobindo Pharma) | Tablet | Not available; status valid |
+| ANDA077911 | Glimepiride (Carlsbad Technology) | Tablet | Not available; status valid |
+| ANDA078181 | Glimepiride (Proficient Rx) | Tablet | Not available; status valid |
 
-A sixth license (ANDA091220, Micro Labs Limited) is also cancelled. All six licenses are single-ingredient oral tablets, and none is currently valid.
+A sixth license (ANDA091220, Micro Labs Limited) is also cancelled.
 
 ## Safety Considerations
 
@@ -111,7 +111,7 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is computational only (L5), with no clinical trials or relevant literature. No plausible mechanism links glimepiride to stiff person syndrome, and the high score likely reflects diabetes-related graph proximity. In addition, all US licenses for glimepiride are cancelled.
+The prediction is computational only (L5), with no clinical trials or relevant literature. No plausible mechanism links glimepiride to stiff person syndrome, and the score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. In addition, glimepiride is marketed in the US, with 6 valid licenses.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

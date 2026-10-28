@@ -48,10 +48,10 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Migraine disorder (migraine with or without aura) |
 | Predicted New Indication | Heparin cofactor 2 deficiency |
-| TxGNN Prediction Score | 99.50% |
+| TxGNN Prediction Score | 0.9950 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (BLA761063, EMGALITY) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -64,8 +64,8 @@ Two other predictions share the same weakness:
 
 | Rank | Predicted Indication | TxGNN Score | Trials | Publications | Evidence Level |
 |------|------|------|------|------|------|
-| 2 | Antithrombin deficiency type 2 | 99.41% | 0 | 0 | L5 |
-| 3 | Factor 5 excess with spontaneous thrombosis | 99.41% | 0 | 0 | L5 |
+| 2 | Antithrombin deficiency type 2 | 0.9941 | 0 | 0 | L5 |
+| 3 | Factor 5 excess with spontaneous thrombosis | 0.9941 | 0 | 0 | L5 |
 
 Both are hereditary coagulation disorders with no known connection to CGRP neutralization. Because the third condition carries thrombotic risk, any use would need strong supporting evidence, which is absent. CGRP-pathway agents also have vascular-tone considerations that would need review.
 
@@ -81,7 +81,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA761063 | EMGALITY (Eli Lilly and Company) | Injection, solution | Status: cancelled |
+| BLA761063 | EMGALITY (Eli Lilly and Company) | Injection, solution | Status: valid |
 
 ## Safety Considerations
 

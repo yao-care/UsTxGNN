@@ -46,20 +46,20 @@ Maraviroc is a CCR5 antagonist that was developed as an antiretroviral for HIV-1
 |------|------|
 | Original Indication | Not listed in the data compiled for this report (the drug is known as an HIV-1 CCR5 antagonist) |
 | Predicted New Indication | Multiple endocrine neoplasia |
-| TxGNN Prediction Score | 99.82% |
+| TxGNN Prediction Score | 0.9982 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all listed authorizations are cancelled) |
-| Number of NDAs | 4 authorizations (1 NDA, 3 ANDAs) |
+| US Market Status | Marketed (valid licenses: 4 of 4) |
+| Number of NDAs | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Maraviroc blocks the chemokine receptor CCR5. Detailed mechanism of action data is not available in the data compiled for this report, so the statement above reflects general knowledge of the drug class. Its efficacy in its original indication rests on this CCR5 blockade, which stops HIV from entering immune cells.
 
-For multiple endocrine neoplasia (MEN), the main disease drivers are genes such as MEN1 and RET. The data compiled for this report establishes no direct link between CCR5 signalling and these pathways. The high TxGNN score therefore reflects a computational pattern in the knowledge graph rather than a demonstrated biological rationale, and the relationship between the original and new indications remains unassessed.
+For multiple endocrine neoplasia (MEN), the main disease drivers are genes such as MEN1 and RET. The data compiled for this report establishes no direct link between CCR5 signalling and these pathways. The high TxGNN score therefore comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, and the relationship between the original and new indications remains unassessed.
 
 Other predictions for this drug have somewhat more plausible rationales, though none has clinical support:
-- **HER2-positive breast carcinoma** (score 99.22%, evidence level L4): a 2020 preclinical study (PMID 32404410) reported that autocrine CCL5 drives trastuzumab resistance through ERK pathway activation. Because CCL5 signals through CCR5, blocking CCR5 with maraviroc is a biologically plausible way to overcome resistance. This is the most mechanistically grounded candidate, but it is indirect and preclinical.
+- **HER2-positive breast carcinoma** (score 0.9922, evidence level L4): a 2020 preclinical study (PMID 32404410) reported that autocrine CCL5 drives trastuzumab resistance through ERK pathway activation. Because CCL5 signals through CCR5, blocking CCR5 with maraviroc is a biologically plausible way to overcome resistance. This is the most mechanistically grounded candidate, but it is indirect and preclinical.
 - **Primary cutaneous T-cell lymphoma** and **acne**: chemokine-mediated cell trafficking to the skin gives a speculative hypothesis, with no maraviroc-specific data.
 
 ## Clinical Trial Evidence
@@ -74,12 +74,12 @@ Currently no related literature available for multiple endocrine neoplasia.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA022128 | SELZENTRY (A-S Medication Solutions) | Film-coated tablet | Not listed (cancelled) |
-| ANDA217880 | Maraviroc (Zydus Pharmaceuticals USA Inc.) | Film-coated tablet | Not listed (cancelled) |
-| ANDA217114 | Maraviroc (i3 Pharmaceuticals, LLC) | Film-coated tablet | Not listed (cancelled) |
-| ANDA203347 | Maraviroc (Hetero Labs Limited) | Film-coated tablet | Not listed (cancelled) |
+| NDA022128 | SELZENTRY (A-S Medication Solutions) | Film-coated tablet | Not listed (valid) |
+| ANDA217880 | Maraviroc (Zydus Pharmaceuticals USA Inc.) | Film-coated tablet | Not listed (valid) |
+| ANDA217114 | Maraviroc (i3 Pharmaceuticals, LLC) | Film-coated tablet | Not listed (valid) |
+| ANDA203347 | Maraviroc (Hetero Labs Limited) | Film-coated tablet | Not listed (valid) |
 
-All four authorizations are marked as cancelled, and none is currently valid.
+All four licenses are currently valid.
 
 ## Safety Considerations
 

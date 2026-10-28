@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Activated Charcoal Aloe Causticum Chelidonium Maju
@@ -51,7 +52,7 @@ As a result, this report serves as a data gap assessment rather than a standard 
 | Predicted New Indication | None (TxGNN returned no results) |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — Model prediction not available; no supporting studies |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 7) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

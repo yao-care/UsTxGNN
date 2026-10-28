@@ -48,9 +48,9 @@ but there are currently **0 clinical trials** and **0 publications** directly su
 |------|------|
 | Original Indication | Psoriasis, parapsoriasis, acne |
 | Predicted New Indication | Seborrheic dermatitis |
-| TxGNN Prediction Score | 99.79% |
+| TxGNN Prediction Score | 0.9979 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 11) |
 | Number of NDAs | 11 (all cancelled; includes both NDAs and ANDAs) |
 | Recommended Decision | Hold |
 
@@ -62,7 +62,7 @@ Retinoids normalize keratinocyte differentiation and reduce proliferation and in
 
 This link is a hypothesis only. No trials or literature were found to support it. Topical retinoids can cause irritation, and seborrheic dermatitis commonly affects the face, so tolerability is a potential concern.
 
-Other predictions from the model include seborrheic keratosis (score 99.51%) and vulvar inverted follicular keratosis (score 99.38%). Seborrheic keratosis has two related publications, described below. Vulvar inverted follicular keratosis has no supporting evidence.
+Other predictions from the model include seborrheic keratosis (score 0.9951) and vulvar inverted follicular keratosis (score 0.9938). Seborrheic keratosis has two related publications, described below. Vulvar inverted follicular keratosis has no supporting evidence.
 
 ## Clinical Trial Evidence
 
@@ -81,15 +81,15 @@ For reference, the second-ranked prediction, seborrheic keratosis, has two indir
 
 ## US Market Information
 
-All 11 licenses are cancelled; none is currently valid. Approved indication text was not available. Five main authorizations:
+The drug is marketed, with 11 valid licenses. Approved indication text was not available. Five main authorizations:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA021184 | TAZORAC | Cream | Not available (cancelled) |
-| NDA020600 | Tazorac | Gel | Not available (cancelled) |
-| NDA211882 | Arazlo | Lotion | Not available (cancelled) |
-| NDA202428 | tazarotene | Aerosol, foam | Not available (cancelled) |
-| ANDA217075 | TAZAROTENE | Cream | Not available (cancelled) |
+| NDA021184 | TAZORAC | Cream | Not available (valid) |
+| NDA020600 | Tazorac | Gel | Not available (valid) |
+| NDA211882 | Arazlo | Lotion | Not available (valid) |
+| NDA202428 | tazarotene | Aerosol, foam | Not available (valid) |
+| ANDA217075 | TAZAROTENE | Cream | Not available (valid) |
 
 ## Cytotoxicity
 
@@ -106,7 +106,7 @@ Not applicable. Tazarotene is not an antineoplastic drug, so this section is omi
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high (99.79%), but the evidence level is L5: there are no clinical trials and no literature for seborrheic dermatitis. In addition, all US licenses are cancelled, and package insert safety data and mechanism data are missing.
+The prediction score is high (0.9979), but the evidence level is L5: there are no clinical trials and no literature for seborrheic dermatitis. In addition, the drug is marketed with 11 valid licenses, but package insert safety data and mechanism data are missing.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

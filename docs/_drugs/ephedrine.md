@@ -4,17 +4,17 @@ title: Ephedrine
 parent: Moderate Evidence (L3-L4)
 nav_order: 658
 evidence_level: L4
-indication_count: 3
+indication_count: 2
 last_modified_at: 2026-10-14
 description: "Ephedrine: predicted new indication Nasal cavity disease (evidence level L4). Approved use: Allergic rhinitis, vasomotor rhinitis, rhinitis…"
 monitor_inn: "EPHEDRINE"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "trigeminal autonomic cephalalgia"]
+predicted_indications: ["nasal cavity disease", "trigeminal autonomic cephalalgia"]
 ---
 
 # Ephedrine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **3** 
+Evidence Level: **L4** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ but the data compiled for this report contain **0 clinical trials** and only **2
 |------|------|
 | Original Indication | Allergic rhinitis, vasomotor rhinitis, rhinitis, nasopharyngitis and related upper-airway conditions (the US license records contain no indication text) |
 | Predicted New Indication | Nasal cavity disease |
-| TxGNN Prediction Score | 99.90% |
+| TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 14) |
 | Number of NDAs | 14 (all cancelled; includes both NDAs and ANDAs) |
 | Recommended Decision | Hold |
 
@@ -60,7 +60,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 The predicted indication, nasal cavity disease, largely overlaps with the drug's existing indications (allergic rhinitis, vasomotor rhinitis, rhinitis, nasopharyngitis). It is therefore not a true repurposing candidate, but more of a restatement of known uses. The mechanism is biologically plausible, but it is inferred from general knowledge rather than from the provided data.
 
-Two other predictions were also generated, and both have weaker support. **Acute laryngopharyngitis** (score 99.90%) has no trials or literature, and ephedrine would at most relieve symptoms. **Trigeminal autonomic cephalalgia** (score 99.34%) has no trials or literature, and the mechanistic link is speculative because sympathomimetics could worsen headache or cardiovascular risk.
+Two other predictions were also generated, and both have weaker support. **Acute laryngopharyngitis** (score 0.9990) has no trials or literature, and ephedrine would at most relieve symptoms. **Trigeminal autonomic cephalalgia** (score 0.9934) has no trials or literature, and the mechanistic link is speculative because sympathomimetics could worsen headache or cardiovascular risk.
 
 ## Clinical Trial Evidence
 
@@ -77,7 +77,7 @@ Both publications are low-tier evidence. They involve combination products and d
 
 ## US Market Information
 
-All 14 licenses are listed as cancelled, and no approved indication text is recorded for any of them. The five main entries are shown below.
+All 14 licenses are valid, and no approved indication text is recorded for any of them. The five main entries are shown below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -101,7 +101,7 @@ Label-based warnings and contraindications were not available. Please refer to t
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high, but the predicted indication largely overlaps with existing uses, so it adds little new. No clinical trials exist, the only literature is old or preliminary and involves combination products, and all US licenses are cancelled. The available products are mostly injectables, which do not match a nasal indication.
+The prediction score is high, but the predicted indication largely overlaps with existing uses, so it adds little new. No clinical trials exist, the only literature is old or preliminary and involves combination products, and the drug is marketed with 14 valid US licenses. The available products are mostly injectables, which do not match a nasal indication.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications, which are required before any safety screening

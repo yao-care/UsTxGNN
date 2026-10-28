@@ -1,18 +1,19 @@
 ---
 layout: default
 title: Brompheniramine
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 474
-evidence_level: L5
-indication_count: 2
-last_modified_at: 2026-10-14
-description: "Brompheniramine: predicted new indication Allergic urticaria (evidence level L5). Approved use: Allergic rhinitis, vasomotor rhinitis, common cold…"
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Brompheniramine: known uses and market status in the United States; currently no new candidate indication"
+predicted_indications: []
 ---
 
 # Brompheniramine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **2** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,59 +32,46 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-## Brompheniramine: From Allergic Rhinitis and Urticaria to Allergic Urticaria
+<!-- known-uses-page -->
+<!-- description: Brompheniramine: known uses and market status in the United States; currently no new candidate indication -->
+## Brompheniramine: Known uses and market status in the United States
 {: .text-alpha }
 
-## One-Sentence Summary
+## Summary
+The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Brompheniramine, but every candidate that can be traced to a source is already a known use. There is therefore currently no new predicted indication for this drug. The two known uses are recorded as relations in the knowledge graph only, and no approval was found for them.
 
-Brompheniramine is a first-generation antihistamine, originally used for allergic rhinitis, the common cold, allergic conjunctivitis and urticaria.
-The TxGNN model predicts it may be effective for **Allergic Urticaria** (and secondarily **Cold Urticaria**), but **no clinical trials and no publications** were found in the data compiled for this report. The prediction rests on model output alone.
-
----
-
-## Quick Overview
-
+## Quick overview
 | Item | Content |
 |------|------|
-| Original Indication | Allergic rhinitis, vasomotor rhinitis, common cold, atopic/vernal/papillary conjunctivitis, familial dermatographia, urticaria, angioedema (from the knowledge graph; no US label text available) |
-| Predicted New Indication | Allergic urticaria |
-| TxGNN Prediction Score | 99.87% |
-| Evidence Level | L5 |
-| US Market Status | Cancelled only (no active marketed product) |
-| Number of NDAs | 1 (cancelled) |
-| Recommended Decision | Hold |
+| New predicted indications | None (all traceable model candidates are known uses) |
+| Known uses among model candidates | 2 |
+| Evidence level | Not applicable |
+| Market status in the United States | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 
----
+## Known uses among the model's candidates
 
-## Why is This Prediction Reasonable?
+### Approved (supported by a licence or label)
+| Indication | Source |
+|------|------|
+| none | none |
 
-Detailed mechanism-of-action data is not available in the data compiled for this report. Based on drug class knowledge, brompheniramine is a first-generation H1-receptor antagonist (alkylamine class). Allergic urticaria is driven largely by histamine released from mast cells, so H1 blockade is mechanistically plausible.
+### Related to an approved indication (same disease category)
+| Indication | Approved category |
+|------|------|
+| none | none |
 
-The high score most likely reflects overlap with indications the drug already carries in the knowledge graph (urticaria, angioedema, allergic rhinitis). The prediction is therefore closer to a restatement of an existing indication than a novel repurposing.
-
-The second-ranked prediction, **cold urticaria** (score 99.55%), follows the same logic. It is a physical urticaria in which cold exposure triggers mast cell degranulation, and H1 antihistamines are standard first-line therapy. However, no brompheniramine-specific evidence was supplied. Sedating first-generation agents are also generally less favored than second-generation antihistamines for chronic use, which limits practical value.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
-
----
+### Relations recorded in the knowledge graph (no approval found)
+| Indication |
+|------|
+| allergic urticaria |
+| cold urticaria |
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| M012 (cancelled) | CVS Pharmacy (CVS Pharmacy, Inc.) | Liquid | Not stated |
-
----
+| Licence | Product | Dosage form | Status |
+|------|------|------|------|
+| M012 | Brompheniramine maleate | LIQUID | Valid |
 
 ## Safety Considerations
 
@@ -96,19 +84,6 @@ Package insert warnings and contraindications were not available. Please refer t
 
 ---
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The prediction has no supporting trials or literature (L5), and it largely duplicates indications the drug already has. There is also no active US-marketed product, and the package insert safety review has not been completed.
-
-**To proceed, the following is needed:**
-- FDA package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data from DrugBank
-- A literature and trial search specific to brompheniramine in allergic and cold urticaria
-- A comparison against second-generation antihistamines to establish practical value
-- Confirmation of route and formulation availability, since the only US authorization is cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

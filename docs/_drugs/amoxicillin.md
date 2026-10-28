@@ -39,7 +39,7 @@ Evidence Level: **L5** | Predicted Indications: **8**
 ## One-Sentence Summary
 
 Amoxicillin is a beta-lactam antibiotic originally used to treat bacterial infections such as urinary tract infection, otitis media, pneumonia, and pharyngitis.
-The TxGNN model predicts it may be effective for **Polyclonal Hyperviscosity Syndrome**, but **no clinical trials and no publications** currently support this prediction. The high score appears to be a knowledge-graph artifact rather than a real therapeutic signal.
+The TxGNN model predicts it may be effective for **Polyclonal Hyperviscosity Syndrome**, but **no clinical trials and no publications** currently support this prediction. The high score appears to be a TxGNN model (deep learning) artifact rather than a real therapeutic signal.
 
 ## Quick Overview
 
@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **Polyclonal Hyperviscosity Syn
 |------|------|
 | Original Indication | Urinary tract infection, infectious otitis media, streptococcal infection, bacterial pneumonia, pharyngitis and other bacterial infections |
 | Predicted New Indication | Polyclonal hyperviscosity syndrome |
-| TxGNN Prediction Score | 99.63% |
+| TxGNN Prediction Score | 0.9963 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all licenses cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 11) |
 | Number of NDAs | 11 (all are ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
@@ -57,9 +57,9 @@ The TxGNN model predicts it may be effective for **Polyclonal Hyperviscosity Syn
 
 Currently, detailed mechanism of action data is not available from the data compiled for this report. Amoxicillin is a member of the beta-lactam antibacterial class, which acts by inhibiting bacterial cell wall synthesis. Its efficacy in bacterial infections is well established.
 
-For the predicted indication, however, no plausible mechanistic link was identified. Polyclonal hyperviscosity syndrome arises from elevated polyclonal immunoglobulins, which is not an infectious process, so an antibacterial would have no clear target. The high TxGNN score (99.63%) appears to be an artifact of the knowledge graph, and the same score was assigned to several other unrelated predictions (for example hyperamylasemia and congenital analbuminemia).
+For the predicted indication, however, no plausible mechanistic link was identified. Polyclonal hyperviscosity syndrome arises from elevated polyclonal immunoglobulins, which is not an infectious process, so an antibacterial would have no clear target. The high TxGNN score (0.9963) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Similarly high scores were assigned to several other unrelated predictions (for example hyperamylasemia at 0.9963 and congenital analbuminemia at 0.9959).
 
-For context, the highest-ranked prediction with a biologically plausible antibacterial rationale is **septicemic plague** (score 99.13%), caused by *Yersinia pestis*. Evidence there is limited to animal-model and in vitro studies. Beta-lactams are not first-line for plague, and the intracellular localization of the organism may limit their efficacy. It is flagged as a research question only.
+For context, the highest-ranked prediction with a biologically plausible antibacterial rationale is **septicemic plague** (score 0.9913), caused by *Yersinia pestis*. Evidence there is limited to animal-model and in vitro studies. Beta-lactams are not first-line for plague, and the intracellular localization of the organism may limit their efficacy. It is flagged as a research question only.
 
 ## Clinical Trial Evidence
 

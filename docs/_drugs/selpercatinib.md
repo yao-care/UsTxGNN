@@ -46,10 +46,10 @@ Selpercatinib is a selective RET kinase inhibitor used in RET-driven cancers suc
 |------|------|
 | Original Indication | Not specified in the approval records compiled for this report (the available literature points to RET-driven cancers) |
 | Predicted New Indication | Pulmonary hypertension |
-| TxGNN Prediction Score | 99.18% |
+| TxGNN Prediction Score | 0.9918 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (both NDAs cancelled) |
-| Number of NDAs | 2 |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -58,7 +58,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 The link to pulmonary hypertension is only indirect. Kinase signaling is involved in pulmonary vascular remodeling, and some other kinase inhibitors have been studied in pulmonary arterial hypertension. Conversely, some kinase inhibitors are associated with pulmonary vascular toxicity. No direct mechanistic or clinical evidence for RET inhibition in pulmonary hypertension is available.
 
-The score is very high, but it comes from a graph-based computational prediction only. Two other predictions, migraine disorder (99.17%) and migraine with brainstem aura (99.05%), also have no trials or literature. The brainstem aura prediction is a subtype of the first, so it is not independent evidence.
+The score is very high, but it comes from the TxGNN model (deep learning) only and may reflect similarities the model learned between related diseases, not biological evidence. Two other predictions, migraine disorder (0.9917) and migraine with brainstem aura (0.9905), also have no trials or literature. The brainstem aura prediction is a subtype of the first, so it is not independent evidence.
 
 ## Clinical Trial Evidence
 
@@ -78,8 +78,8 @@ None of these publications address pulmonary hypertension, so they do not suppor
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA218160 | RETEVMO | Tablet, coated | Not available (status: cancelled) |
-| NDA213246 | RETEVMO | Capsule | Not available (status: cancelled) |
+| NDA218160 | RETEVMO | Tablet, coated | Not available (status: valid) |
+| NDA213246 | RETEVMO | Capsule | Not available (status: valid) |
 
 ## Cytotoxicity
 

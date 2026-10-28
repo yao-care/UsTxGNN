@@ -4,17 +4,17 @@ title: Fosinopril
 parent: Model Prediction Only (L5)
 nav_order: 738
 evidence_level: L5
-indication_count: 5
+indication_count: 4
 last_modified_at: 2026-10-14
-description: "Fosinopril: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Hypertension (hypertensive disorder)"
 monitor_inn: "FOSINOPRIL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
+description: "Fosinopril: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Fosinopril
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-## Fosinopril: From Hypertension to Malignant Hypertensive Renal Disease
+## Fosinopril: Malignant hypertensive renal disease
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension (hypertensive disorder) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Malignant hypertensive renal disease |
-| TxGNN Prediction Score | 99.87% |
+| TxGNN Prediction Score | 0.9987 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 4) |
 | Number of NDAs | 4 (all cancelled; listed as ANDAs) |
 | Recommended Decision | Hold |
 
@@ -66,10 +66,9 @@ Other predicted indications in the data (all L5, all Hold):
 
 | Rank | Predicted Indication | Score | Comment |
 |------|------|------|------|
-| 2 | Malignant renovascular hypertension | 99.87% | RAAS-driven, so plausible. In bilateral renal artery stenosis or a solitary kidney, ACE inhibitors can precipitate acute renal failure, a significant safety concern. |
-| 3 | Pulmonary hypertension, unclear multifactorial mechanism | 99.87% | Only an indirect link; ACE inhibitors have generally not shown clear benefit in pulmonary hypertension. |
-| 4 | Pulmonary hypertension owing to lung disease and/or hypoxia | 99.87% | Theoretical rationale only; the retrieved literature does not support efficacy and includes an adverse-event signal. |
-| 5 | Braddock syndrome | 99.81% | No plausible mechanistic link is evident; likely a knowledge-graph artifact. |
+| 3 | Pulmonary hypertension, unclear multifactorial mechanism | 0.9987 | Only an indirect link; ACE inhibitors have generally not shown clear benefit in pulmonary hypertension. |
+| 4 | Pulmonary hypertension owing to lung disease and/or hypoxia | 0.9987 | Theoretical rationale only; the retrieved literature does not support efficacy and includes an adverse-event signal. |
+| 5 | Braddock syndrome | 0.9981 | No plausible mechanistic link is evident; likely a TxGNN model (deep learning) artifact. |
 
 ## Clinical Trial Evidence
 
@@ -121,14 +120,14 @@ Package insert warnings and contraindications were not available. Please refer t
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a high model score (99.87%), with no clinical trials or literature. It is largely an extension of the existing hypertension indication, and there are no currently valid US licenses. Safety review cannot proceed without the package insert.
+The prediction is supported only by a high model score (0.9987), with no clinical trials or literature. Safety review cannot proceed without the package insert.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (blocking gap for safety screening)
 - Mechanism of action data from DrugBank
 - Clinical or observational evidence for ACE inhibitors in malignant hypertensive nephropathy
 - Review of renal safety, especially in renovascular disease
-- Clarification of the regulatory status, since all US licenses are cancelled
+- Clarification of the regulatory status, since the drug is marketed and 4 US licenses are valid
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

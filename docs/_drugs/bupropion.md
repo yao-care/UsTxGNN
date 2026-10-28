@@ -48,9 +48,9 @@ with **6 registered clinical trials** (4 completed, 1 withdrawn, 1 early phase) 
 |------|------|
 | Original Indication | Major depressive disorder, anxiety disorder, nicotine dependence and related conditions (the listed US licences carry no indication text) |
 | Predicted New Indication | Attention deficit-hyperactivity disorder |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L1 |
-| US Market Status | Cancelled only (all 13 licences cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 13) |
 | Number of NDAs | 13 (all ANDAs, all cancelled) |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -127,7 +127,7 @@ One completed Phase 3 randomised, placebo-controlled trial (NCT00048360) and one
 - Package insert warnings and contraindications (a blocking gap), especially seizure risk, the boxed warning, and the neuropsychiatric profile
 - Detailed mechanism of action data from DrugBank
 - Trial results for NCT00048360 and NCT00061087, including the comparator, randomisation and blinding, and efficacy and safety outcomes
-- Confirmation of the current US regulatory status, since all 13 ANDAs are cancelled
+- Confirmation of the current US regulatory status, since 13 ANDAs are valid and the drug is marketed
 - A patient selection and monitoring plan covering seizure risk, hypertension, cardiovascular disease, eating disorders, and substance use comorbidity
 - A review of the major drug interactions, particularly with opioids and methylphenidate, before any combination use
 ## Disclaimer

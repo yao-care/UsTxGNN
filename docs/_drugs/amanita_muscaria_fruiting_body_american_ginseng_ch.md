@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Amanita Muscaria Fruiting Body American Ginseng Ch
@@ -51,7 +52,7 @@ As a result, **no evidence level can be assigned** and no repurposing direction 
 | Predicted New Indication | None — TxGNN returned no predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | Not assessable (no prediction generated) |
-| US/TW Market Status | Not marketed |
+| US/TW Market Status | Marketed (valid licenses on record: at least 3) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **bronchitis**, but this rests 
 |------|------|
 | Original Indication | Not available in the data compiled for this report (the license record has no indication text) |
 | Predicted New Indication | Bronchitis |
-| TxGNN Prediction Score | 99.23% |
+| TxGNN Prediction Score | 0.9923 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
+| US Market Status | Marketed (valid licenses on record: at least 1) |
 | Number of NDAs | 1 |
 | Recommended Decision | Hold |
 
@@ -57,7 +57,7 @@ The TxGNN model predicts it may be effective for **bronchitis**, but this rests 
 
 Currently, detailed mechanism of action data is not available. Phenazopyridine is generally known as a urinary tract analgesic that acts locally on the urinary mucosa. The data compiled for this report documents no mechanism and no original indication.
 
-Based on known pharmacology, there is no established link between a urinary mucosal analgesic and airway inflammation or infection in bronchitis. The high TxGNN score (0.992) may reflect artifacts of the knowledge-graph topology rather than biological plausibility. For context, the model ranked this prediction 16,929th, so the high score should be interpreted cautiously. No mechanistic hypothesis can be confirmed without further data.
+Based on known pharmacology, there is no established link between a urinary mucosal analgesic and airway inflammation or infection in bronchitis. The high TxGNN score (0.9923) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. For context, the model ranked this prediction 16,929th, so the high score should be interpreted cautiously. No mechanistic hypothesis can be confirmed without further data.
 
 ## Clinical Trial Evidence
 

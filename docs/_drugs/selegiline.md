@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Selegiline
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1150
-evidence_level: L3
+evidence_level: L5
 indication_count: 4
 monitor_inn: "SELEGILINE"
 predicted_indications: ["polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "schizophrenia", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies"]
 last_modified_at: 2026-10-14
-description: "Selegiline: predicted new indication Schizophrenia (evidence level L3). Approved use: Parkinson disease"
+description: "Selegiline: predicted new indication Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Selegiline
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **4** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L3** | Predicted Indications: **4**
 
 </div>
 
-## Selegiline: From Parkinson Disease to Schizophrenia
+## Selegiline: Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,12 +47,12 @@ The TxGNN model predicts it may be effective for **Schizophrenia** (the second-r
 
 | Item | Content |
 |------|------|
-| Original Indication | Parkinson disease (also depression and anxiety disorder, per the knowledge graph) |
-| Predicted New Indication | Schizophrenia (the top-ranked prediction, polymicrogyria with cerebellar hypoplasia and arthrogryposis, has no supporting evidence, so the best-supported candidate is evaluated here) |
-| TxGNN Prediction Score | 99.14% |
-| Evidence Level | L3 |
-| US Market Status | Cancelled only (all licences cancelled) |
-| Number of NDAs | 8 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis |
+| TxGNN Prediction Score | 0.9915 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 8 of 8) |
+| Number of NDAs | 8 (valid: 8) |
 | Recommended Decision | Hold (treat as a research question) |
 
 ---
@@ -98,15 +98,15 @@ The abstracts available for this report do not state the outcomes of the randomi
 
 ## US Market Information
 
-All eight US authorisations are cancelled; none are currently valid. The data compiled for this report contain no approved-indication text.
+The data compiled for this report contain no approved-indication text.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| NDA021336 | EMSAM | Patch | Cancelled |
-| NDA021479 | ZELAPAR | Orally disintegrating tablet | Cancelled |
-| ANDA074672 | Selegiline Hydrochloride | Tablet | Cancelled |
-| ANDA206803 | Selegiline Hydrochloride | Capsule | Cancelled |
-| ANDA074871 | Selegiline Hydrochloride | Tablet | Cancelled |
+| NDA021336 | EMSAM | Patch | Valid |
+| NDA021479 | ZELAPAR | Orally disintegrating tablet | Valid |
+| ANDA074672 | Selegiline Hydrochloride | Tablet | Valid |
+| ANDA206803 | Selegiline Hydrochloride | Capsule | Valid |
+| ANDA074871 | Selegiline Hydrochloride | Tablet | Valid |
 
 Three further abbreviated applications (ANDA075352, ANDA075321, ANDA074565; capsules and tablets) are also cancelled.
 
@@ -134,13 +134,12 @@ Metoclopramide and similar agents deserve attention in patients on antipsychotic
 **Decision: Hold (treat as a research question)**
 
 **Rationale:**
-Schizophrenia is the only prediction with plausible mechanistic and clinical support. Even so, the single registered trial is early-phase with no available results, and the evidence is placed at L3. The knowledge graph also lists psychotic and schizophrenia-spectrum disorders as contraindications, and all US licences are cancelled. The other three predictions (L5, or tangential literature only) have no actionable evidence.
+Schizophrenia is the only prediction with plausible mechanistic and clinical support. Even so, the single registered trial is early-phase with no available results, and the evidence is placed at L3. The other three predictions (L5, or tangential literature only) have no actionable evidence.
 
 **To proceed, the following is needed:**
 - Extraction of efficacy results from the published randomised trials (e.g. PMIDs 15677608, 17972359, 10587287) and NCT00456976, ideally in a quantitative meta-analysis
 - Reconciliation of the knowledge-graph contraindications (psychotic disorders) with the proposed indication
 - The FDA package insert for warnings and contraindications (a blocking data gap), and mechanism-of-action data from DrugBank
-- A review of interactions with antipsychotics and other co-medications, plus the regulatory pathway given that all US licences are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

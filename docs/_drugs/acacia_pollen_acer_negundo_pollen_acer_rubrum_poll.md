@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Acacia Pollen Acer Negundo Pollen Acer Rubrum Poll
@@ -51,7 +52,7 @@ Without a prediction to evaluate, this report documents the data gaps and recomm
 | Predicted New Indication | — (no TxGNN prediction generated) |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — model prediction only; no actual repurposing studies |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 1) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

@@ -4,7 +4,7 @@ title: Zonisamide
 parent: Model Prediction Only (L5)
 nav_order: 1312
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
 description: "Zonisamide: predicted new indication Tourette syndrome (evidence level L5). Approved use: Not available"
 monitor_inn: "ZONISAMIDE"
@@ -14,7 +14,7 @@ predicted_indications: ["Tourette syndrome", "trichotillomania", "methemoglobine
 # Zonisamide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,9 +50,9 @@ Among the other top-10 predictions, **absence epilepsy** has the most supporting
 |------|------|
 | Original Indication | Not available (approved indication text is empty in the compiled license data; literature describes zonisamide as an antiepileptic drug) |
 | Predicted New Indication | Tourette syndrome |
-| TxGNN Prediction Score | 99.85% |
+| TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L5 (model prediction only) |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 7) |
 | Number of NDAs | 7 authorizations in total (1 NDA, 6 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
@@ -68,18 +68,17 @@ Other top-10 predictions, for context:
 
 | Rank | Predicted Indication | Score | Evidence Level | Assessment |
 |------|------|------|------|------|
-| 1 | Tourette syndrome | 99.85% | L5 | No evidence; tic-induction risk |
-| 2 | Trichotillomania | 99.78% | L5 | No evidence; speculative link |
-| 3 | Methemoglobinemia, alpha type | 99.64% | L5 | No plausible mechanism; sulfonamide oxidative risk |
-| 4 | Methemoglobinemia | 99.63% | L5 | Correlated duplicate of rank 3 |
-| 5 | Prinzmetal angina | 99.55% | L5 | Speculative T-type calcium channel link |
-| 6 | Methemoglobin reductase deficiency | 99.53% | L5 | Genetic enzyme deficiency; no mechanism |
-| 7 | Manic bipolar affective disorder | 99.35% | L4 | Mixed, indirect evidence |
-| 8 | Absence epilepsy | 99.24% | L4 | Strongest mechanistic rationale |
-| 9 | Fibromyalgia | 99.20% | L5 | Only trial withdrawn |
-| 10 | Conjunctivitis | 99.16% | L5 | No credible rationale |
+| 1 | Tourette syndrome | 0.9985 | L5 | No evidence; tic-induction risk |
+| 2 | Trichotillomania | 0.9978 | L5 | No evidence; speculative link |
+| 3 | Methemoglobinemia, alpha type | 0.9964 | L5 | No plausible mechanism; sulfonamide oxidative risk |
+| 4 | Methemoglobinemia | 0.9963 | L5 | Correlated duplicate of rank 3 |
+| 5 | Prinzmetal angina | 0.9955 | L5 | Speculative T-type calcium channel link |
+| 6 | Methemoglobin reductase deficiency | 0.9953 | L5 | Genetic enzyme deficiency; no mechanism |
+| 7 | Manic bipolar affective disorder | 0.9935 | L5 | Mixed, indirect evidence |
+| 9 | Fibromyalgia | 0.9920 | L5 | Only trial withdrawn |
+| 10 | Conjunctivitis | 0.9916 | L5 | No credible rationale |
 
-The methemoglobinemia-related predictions (ranks 3, 4 and 6) are likely artifacts of the knowledge graph. Because zonisamide is a sulfonamide, they point to a potential risk rather than a benefit.
+The methemoglobinemia-related predictions (ranks 3, 4 and 6) come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Because zonisamide is a sulfonamide, they point to a potential risk rather than a benefit.
 
 Among the ten, **absence epilepsy** is the most mechanistically credible. T-type calcium channels are central to the thalamocortical spike-wave discharges seen in absence seizures, and zonisamide already has an established place in other epilepsy types. However, this is close to the drug's existing use rather than a true repurposing to a new disease area.
 
@@ -103,7 +102,6 @@ For the top-ranked prediction (Tourette syndrome), no related literature is avai
 
 The most relevant publications for the other candidate indications are listed below. The tier column is the preliminary classification from the compiled data; items marked "design not confirmed" were classified from titles and abstracts only.
 
-**Absence epilepsy (rank 8)**
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
@@ -138,15 +136,15 @@ The most relevant publications for the other candidate indications are listed be
 
 ## US Market Information
 
-All seven authorizations are cancelled, and no approved indication text is available in the compiled data.
+All seven authorizations are valid, and no approved indication text is available in the compiled data.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA020789 | Zonegran (Advanz Pharma (US) Corp.) | Capsule | Not available (cancelled) |
-| ANDA077651 | Zonisamide (Glenmark Pharmaceuticals Inc., USA) | Capsule | Not available (cancelled) |
-| ANDA077634 | Zonisamide (Sun Pharmaceutical Industries, Inc.) | Capsule | Not available (cancelled) |
-| ANDA077645 | Zonisamide (Aurobindo Pharma Limited) | Capsule | Not available (cancelled) |
-| ANDA077625 | Zonisamide (Zydus Lifesciences Limited) | Capsule | Not available (cancelled) |
+| NDA020789 | Zonegran (Advanz Pharma (US) Corp.) | Capsule | Not available (valid) |
+| ANDA077651 | Zonisamide (Glenmark Pharmaceuticals Inc., USA) | Capsule | Not available (valid) |
+| ANDA077634 | Zonisamide (Sun Pharmaceutical Industries, Inc.) | Capsule | Not available (valid) |
+| ANDA077645 | Zonisamide (Aurobindo Pharma Limited) | Capsule | Not available (valid) |
+| ANDA077625 | Zonisamide (Zydus Lifesciences Limited) | Capsule | Not available (valid) |
 
 Two further generic authorizations (ANDA214492, Unichem; ANDA077869, Exelan) are also cancelled.
 
@@ -169,7 +167,7 @@ Package insert warnings and contraindications were not available in the compiled
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction, Tourette syndrome, rests on a model score alone (L5) with no trials or literature, and the available literature points to a tic-induction risk rather than benefit. The strongest candidate, absence epilepsy (L4), has a credible mechanism and small supportive studies, but it is essentially an extension within epilepsy and lacks Phase 2/3 randomized evidence. Bipolar mania evidence is indirect and mixed, including a case of zonisamide-induced mania. All US authorizations are cancelled.
+The top-ranked prediction, Tourette syndrome, rests on a model score alone (L5) with no trials or literature, and the available literature points to a tic-induction risk rather than benefit. Bipolar mania evidence is indirect and mixed, including a case of zonisamide-induced mania. The drug is marketed in the US with seven valid authorizations.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
@@ -177,7 +175,7 @@ The top-ranked prediction, Tourette syndrome, rests on a model score alone (L5) 
 - Full-text review of the absence epilepsy and juvenile myoclonic epilepsy studies to confirm study design (retrospective versus prospective) and whether the evidence can reach L3
 - Controlled trial data for any indication under consideration; none is currently registered except one withdrawn fibromyalgia trial
 - A safety assessment of the tic, OCD, mania and methemoglobinemia signals before any psychiatric repurposing is considered
-- Clarification of the US regulatory status, given that all licenses are cancelled
+- Clarification of the US regulatory status, given that the drug is marketed with seven valid licenses
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

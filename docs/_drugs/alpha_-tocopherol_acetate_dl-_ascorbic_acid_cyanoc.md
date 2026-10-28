@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Alpha -Tocopherol Acetate Dl- Ascorbic Acid Cyanoc
@@ -49,7 +50,7 @@ This candidate is a multi-component vitamin and mineral supplement containing el
 | Predicted New Indication | None (no TxGNN output) |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — Model prediction only (no output) |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 4) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

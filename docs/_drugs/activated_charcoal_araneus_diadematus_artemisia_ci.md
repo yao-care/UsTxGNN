@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Activated Charcoal Araneus Diadematus Artemisia Ci
@@ -51,7 +52,7 @@ nor is there clinical trial or literature support for the repurposing direction 
 | Predicted New Indication | None (TxGNN generated no prediction) |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (model unable to assess; lack of any actual research) |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 13) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

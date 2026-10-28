@@ -4,17 +4,17 @@ title: Propylthiouracil
 parent: Moderate Evidence (L3-L4)
 nav_order: 1095
 evidence_level: L4
-indication_count: 3
+indication_count: 2
 last_modified_at: 2026-10-14
-description: "Propylthiouracil: predicted new indication Resistance to thyroid hormone due to a mutation in thyroid hormone re… (evidence level L4). Approved use: Hyperthyroidism, Graves disease, thyrotoxicosis, t…"
 monitor_inn: "PROPYLTHIOURACIL"
-predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "neonatal thyrotoxicosis", "hyperthyroxinemia"]
+predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "hyperthyroxinemia"]
+description: "Propylthiouracil: predicted new indication Resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Propylthiouracil
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **3** 
+Evidence Level: **L4** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,25 +33,25 @@ Evidence Level: **L4** | Predicted Indications: **3**
 
 </div>
 
-## Propylthiouracil: From Hyperthyroidism to Resistance to Thyroid Hormone (THRB Mutation)
+## Propylthiouracil: Resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Propylthiouracil (PTU) is an antithyroid drug originally used to treat hyperthyroidism, Graves disease, thyrotoxicosis and thyroid crisis.
 The TxGNN model predicts it may be effective for **resistance to thyroid hormone due to a THRB mutation**, but **no clinical trials** and only **4 publications** (case reports and mouse studies, none testing PTU as a treatment) are available.
-The prediction is graph-based and is not supported by clinical evidence.
+The prediction comes from the TxGNN model (deep learning) and is not supported by clinical evidence.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hyperthyroidism, Graves disease, thyrotoxicosis, thyroid crisis (from the knowledge graph; no label indication text is available) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta |
-| TxGNN Prediction Score | 99.66% |
+| TxGNN Prediction Score | 0.9966 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (all 5 authorizations cancelled) |
-| Number of NDAs | 5 (4 ANDAs and 1 NDA) |
+| US Market Status | Marketed (valid licenses: 5 of 5) |
+| Number of NDAs | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 The predicted indication is a different kind of problem. In resistance to thyroid hormone (RTH beta), mutations in the THRB gene make tissues respond poorly to circulating thyroid hormone. Hormone levels are high, but the defect lies in the receptor. Lowering hormone levels is therefore mechanistically questionable. It could worsen hypothyroidism in resistant tissues and push TSH higher, which may enlarge the goitre. One published case in the compiled literature fits this concern: a patient with RTH was treated with PTU for presumed thyrotoxicosis, and her goitre became larger.
 
-The high score reflects similarity within the knowledge graph (shared thyroid-hormone biology), not evidence that PTU helps these patients.
+The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases (shared thyroid-hormone biology), not biological evidence that PTU helps these patients.
 
 ## Clinical Trial Evidence
 
@@ -79,11 +79,11 @@ Currently no related clinical trials registered.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA080016 | Propylthiouracil (Chartwell RX, LLC) | Tablet | Not available (cancelled) |
-| ANDA080154 | Propylthiouracil (Quagen Pharmaceuticals LLC) | Tablet | Not available (cancelled) |
-| ANDA080172 | Propylthiouracil (Teva Pharmaceuticals, Inc.) | Tablet | Not available (cancelled) |
-| ANDA208867 | Propylthiouracil (Macleods Pharmaceuticals Limited) | Tablet | Not available (cancelled) |
-| NDA006188 | Propylthiouracil (American Health Packaging) | Tablet | Not available (cancelled) |
+| ANDA080016 | Propylthiouracil (Chartwell RX, LLC) | Tablet | Not available (valid) |
+| ANDA080154 | Propylthiouracil (Quagen Pharmaceuticals LLC) | Tablet | Not available (valid) |
+| ANDA080172 | Propylthiouracil (Teva Pharmaceuticals, Inc.) | Tablet | Not available (valid) |
+| ANDA208867 | Propylthiouracil (Macleods Pharmaceuticals Limited) | Tablet | Not available (valid) |
+| NDA006188 | Propylthiouracil (American Health Packaging) | Tablet | Not available (valid) |
 
 All five authorizations are oral tablets and all are listed as cancelled.
 
@@ -103,7 +103,7 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high, but there are no clinical trials and the literature consists only of case descriptions and mouse models, none testing PTU as therapy. The mechanism points the wrong way: reducing thyroid hormone in patients whose tissues already respond poorly to it may cause harm. All US authorizations are cancelled.
+The prediction score is very high, but there are no clinical trials and the literature consists only of case descriptions and mouse models, none testing PTU as therapy. The mechanism points the wrong way: reducing thyroid hormone in patients whose tissues already respond poorly to it may cause harm. All 5 US authorizations are valid, and the drug is marketed.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking data gap)
@@ -115,8 +115,8 @@ The prediction score is very high, but there are no clinical trials and the lite
 
 *Other predictions of lower priority, for context:*
 
-- **Neonatal thyrotoxicosis** (score 99.40%, L4): This is mechanistically close to PTU's original use. The evidence is mostly reviews on maternal hyperthyroidism in pregnancy, where PTU is used, plus one cohort study (PMID 25747892). Direct treatment of the neonate is not established, and a case report (PMID 2090674) describes neonatal hepatitis after placental PTU transfer. It is best framed as a research question.
-- **Hyperthyroxinemia** (score 99.08%, L4): This is a laboratory finding with many causes. Antithyroid treatment is plausible only when it reflects true hormone overproduction, and it could harm patients with binding-protein abnormalities or hormone resistance. The evidence is case reports and animal studies, so the recommendation is Hold.
+- **Neonatal thyrotoxicosis**: This is mechanistically close to PTU's original use. The evidence is mostly reviews on maternal hyperthyroidism in pregnancy, where PTU is used, plus one cohort study (PMID 25747892). Direct treatment of the neonate is not established, and a case report (PMID 2090674) describes neonatal hepatitis after placental PTU transfer. It is best framed as a research question.
+- **Hyperthyroxinemia** (score 0.9908, L4): This is a laboratory finding with many causes. Antithyroid treatment is plausible only when it reflects true hormone overproduction, and it could harm patients with binding-protein abnormalities or hormone resistance. The evidence is case reports and animal studies, so the recommendation is Hold.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

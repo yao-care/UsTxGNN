@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Dacarbazine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 563
-evidence_level: L4
+evidence_level: L5
 indication_count: 1
 monitor_inn: "DACARBAZINE"
 predicted_indications: ["upper aerodigestive tract neoplasm"]
 last_modified_at: 2026-10-14
-description: "Dacarbazine: predicted new indication Upper aerodigestive tract neoplasm (evidence level L4). Approved use: Hodgkin lymphoma and metastatic melanoma"
+description: "Dacarbazine: predicted new indication Upper aerodigestive tract neoplasm (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Dacarbazine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **1** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **1**
 
 </div>
 
-## Dacarbazine: From Hodgkin Lymphoma and Metastatic Melanoma to Upper Aerodigestive Tract Neoplasm
+## Dacarbazine: Upper aerodigestive tract neoplasm
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ but there are **0 registered clinical trials** and only indirect literature (**2
 
 | Item | Content |
 |------|------|
-| Original Indication | Hodgkin lymphoma and metastatic melanoma (approved indication text is not available in the US license records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Upper aerodigestive tract neoplasm |
-| TxGNN Prediction Score | 99.26% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 3 (all cancelled; listed as ANDAs) |
+| TxGNN Prediction Score | 0.9926 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 3 of 3) |
+| Number of NDAs | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -98,7 +98,6 @@ All three US authorisations for single-agent dacarbazine are cancelled. Approved
 | Cytotoxicity Classification | Conventional cytotoxic (alkylating agent) |
 | Myelosuppression Risk | Please refer to the package insert warnings and precautions. The knowledge graph links the drug to leukopenia, thrombocytopenia and anaemia as contraindicated conditions, which suggests haematological toxicity is a concern |
 | Emetogenicity Classification | Please refer to the package insert warnings and precautions |
-| Monitoring Items | Complete blood count, liver function and renal function (the knowledge graph flags kidney and liver disease) |
 | Handling Protection | Must follow cytotoxic drug handling regulations |
 
 ## Safety Considerations
@@ -113,13 +112,13 @@ Please refer to the package insert for label warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a high model score and indirect literature from other tumour types. There are no registered trials, no direct evidence in upper aerodigestive tract neoplasm, and no valid US marketing authorisation. Evidence is at L4.
+The prediction rests on a high model score and indirect literature from other tumour types. Evidence is at L4.
 
 **To proceed, the following is needed:**
 - Review of the current FDA package insert for warnings and contraindications, since this safety data is missing
 - Detailed mechanism of action data
 - Direct preclinical or clinical evidence in upper aerodigestive tract tumours, in particular squamous cell carcinoma
-- Clarification of the regulatory pathway, since all US licences are cancelled
+- Clarification of the regulatory pathway; the drug is marketed in the US, with 3 of 3 licenses valid
 - Comparison with current standard therapies for this indication
 ## Disclaimer
 

@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Aluminum Oxide Arsenic Trioxide Atropa Belladonna 
@@ -51,7 +52,7 @@ With **0 clinical trials** and **0 supporting publications** identified in this 
 | Predicted New Indication | Unable to generate — no DrugBank mapping |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | Below L5 (no predictions generated) |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

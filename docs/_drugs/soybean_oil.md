@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "SOYBEAN OIL"
 predicted_indications: ["amenorrhea (disease)"]
 last_modified_at: 2026-10-14
-description: "Soybean Oil: predicted new indication Amenorrhea (evidence level L5). Approved use: Not listed in the available data"
+description: "Soybean Oil: predicted new indication Amenorrhea (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Soybean Oil
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-## Soybean Oil: From Parenteral Nutrition Lipid Source to Amenorrhea
+## Soybean Oil: Amenorrhea (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,19 +46,19 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the available data (the product forms are intravenous lipid emulsions, but no indication text is recorded) |
-| Predicted New Indication | Amenorrhea |
-| TxGNN Prediction Score | 99.61% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Amenorrhea (disease) |
+| TxGNN Prediction Score | 0.9961 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid authorizations) |
-| Number of NDAs | 9 authorizations in total (all cancelled; includes 5 NDAs and 3 BLAs, as listed below) |
+| US Market Status | Marketed (valid licenses: 9 of 9) |
+| Number of NDAs | 9 (valid: 9) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. No original indications are recorded either, so the relationship between the original and new indications cannot be assessed from the data compiled for this report.
 
-The very high TxGNN score (99.61%) is a computational knowledge-graph prediction only. Soybean oil is mainly a lipid and calorie source (for example in parenteral nutrition emulsions) and provides omega-6 fatty acids and phytosterols. One could speculate that amenorrhea related to low energy availability, such as functional hypothalamic amenorrhea, might be indirectly influenced by lipid supplementation, or that phytoestrogens might play a role. This is a hypothesis only. It is not supported by any evidence in the data and should not be treated as a finding.
+The very high TxGNN score (0.9961) is a computational TxGNN model (deep learning) prediction only. Soybean oil is mainly a lipid and calorie source (for example in parenteral nutrition emulsions) and provides omega-6 fatty acids and phytosterols. One could speculate that amenorrhea related to low energy availability, such as functional hypothalamic amenorrhea, might be indirectly influenced by lipid supplementation, or that phytoestrogens might play a role. This is a hypothesis only. It is not supported by any evidence in the data and should not be treated as a finding.
 
 ## Clinical Trial Evidence
 
@@ -70,7 +70,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-All 9 authorizations are cancelled. No approved indication text is recorded for any of them.
+The drug is marketed, and all 9 authorizations are valid. No approved indication text is recorded for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -91,7 +91,7 @@ Please refer to the package insert for safety information. No drug interaction r
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score, with no registered clinical trials, no literature, no mechanism data and no recorded original indication. The drug has no currently valid US authorization, and the safety review cannot proceed because package insert information is missing.
+The prediction rests only on a model score, with no registered clinical trials, no literature, no mechanism data and no recorded original indication.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

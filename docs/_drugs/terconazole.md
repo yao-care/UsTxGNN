@@ -6,9 +6,9 @@ nav_order: 1213
 evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Terconazole: predicted new indication Trichomonal vulvovaginitis (evidence level L5). Approved use: Vulvovaginal candidiasis"
 monitor_inn: "TERCONAZOLE"
 predicted_indications: ["trichomonal vulvovaginitis", "vulvitis", "vulvovaginitis", "postmenopausal atrophic vaginitis", "vaginitis (disease)", "herpetic vulvovaginitis", "ulceration of vulva", "vulvar neoplasm", "vaginal discharge", "bacterial vaginosis"]
+description: "Terconazole: predicted new indication Trichomonal vulvovaginitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Terconazole
@@ -33,32 +33,32 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Terconazole: From Vulvovaginal Candidiasis to Trichomonal Vulvovaginitis
+## Terconazole: Trichomonal vulvovaginitis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Terconazole is a topical triazole antifungal originally used to treat vulvovaginal candidiasis.
 The TxGNN model predicts it may be effective for **trichomonal vulvovaginitis**, but **no clinical trials** and only **2 general review papers** support this direction, and neither reports trichomonas outcomes.
-The top-ranked prediction therefore looks like a knowledge-graph artefact rather than a real repurposing signal.
+The top-ranked prediction therefore looks like a TxGNN model (deep learning) artefact rather than a real repurposing signal.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Vulvovaginal candidiasis |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Trichomonal vulvovaginitis |
-| TxGNN Prediction Score | 99.86% |
+| TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid authorizations) |
-| Number of NDAs | 6 (all cancelled) |
+| US Market Status | Marketed (valid licenses: 6 of 6) |
+| Number of NDAs | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism-of-action data is not available in the data compiled for this report. From general knowledge, terconazole is a triazole antifungal that inhibits fungal lanosterol 14-alpha-demethylase (CYP51), which blocks ergosterol synthesis. This explains its efficacy in candidal vulvovaginitis.
 
-*Trichomonas vaginalis* is a protozoan, not a fungus, and it does not rely on ergosterol-dependent membrane biology in the way fungi do. The antifungal mechanism therefore does not plausibly transfer. The high TxGNN score most likely reflects shared vaginitis-related neighbours in the knowledge graph rather than a true pharmacological link.
+*Trichomonas vaginalis* is a protozoan, not a fungus, and it does not rely on ergosterol-dependent membrane biology in the way fungi do. The antifungal mechanism therefore does not plausibly transfer. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 Other predictions in the list are mostly either the same as the approved indication (vulvitis, vulvovaginitis, vaginitis) or lack a mechanistic rationale (atrophic vaginitis, herpetic vulvovaginitis, vulvar ulceration, vulvar neoplasm, bacterial vaginosis).
 
@@ -92,13 +92,13 @@ Strong supporting literature exists only for the approved candidal indication. E
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA075953 | Terconazole (A-S Medication Solutions) | Cream | Cancelled |
-| ANDA077553 | Terconazole (Sun Pharmaceutical Industries) | Suppository | Cancelled |
-| ANDA076043 | Terconazole (A-S Medication Solutions) | Cream | Cancelled |
-| ANDA076712 | Terconazole (A-S Medication Solutions) | Cream | Cancelled |
-| NDA021735 | Terconazole (A-S Medication Solutions) | Cream | Cancelled |
+| ANDA075953 | Terconazole (A-S Medication Solutions) | Cream | Valid |
+| ANDA077553 | Terconazole (Sun Pharmaceutical Industries) | Suppository | Valid |
+| ANDA076043 | Terconazole (A-S Medication Solutions) | Cream | Valid |
+| ANDA076712 | Terconazole (A-S Medication Solutions) | Cream | Valid |
+| NDA021735 | Terconazole (A-S Medication Solutions) | Cream | Valid |
 
-A sixth authorization (ANDA077149, Padagis Israel Pharmaceuticals, suppository) is also cancelled. None of the six has valid status.
+A sixth authorization (ANDA077149, Padagis Israel Pharmaceuticals, suppository) is also cancelled.
 
 ## Cytotoxicity
 
@@ -115,13 +115,13 @@ One literature item is worth noting: a case report ([33860751](https://pubmed.nc
 **Decision: Hold**
 
 **Rationale:**
-The predicted indication has no trials and no supporting literature, and the antifungal mechanism does not plausibly act on a protozoan. The score appears to come from graph proximity to vaginitis. Standard trichomoniasis treatment (nitroimidazoles) is already established.
+The predicted indication has no trials and no supporting literature, and the antifungal mechanism does not plausibly act on a protozoan. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases such as vaginitis, not biological evidence. Standard trichomoniasis treatment (nitroimidazoles) is already established.
 
 **To proceed, the following is needed:**
 - A new mechanistic hypothesis for activity against *Trichomonas vaginalis*, ideally with in vitro susceptibility data
 - Retrieval of the FDA package insert warnings and contraindications (a blocking safety data gap)
 - Confirmation of the mechanism-of-action data from DrugBank
-- Clarification of why all US authorizations are cancelled, if commercial availability matters
+- Confirmation of current US market status (marketed, with 6 of 6 licenses valid), if commercial availability matters
 - If a related direction is of interest, the better-supported options are within candidal disease (non-albicans Candida, recurrent vulvovaginal candidiasis), but these are extensions of the approved use rather than new indications
 ## Disclaimer
 

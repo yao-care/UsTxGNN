@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "PHENOXYBENZAMINE"
 predicted_indications: ["primary hereditary glaucoma", "open-angle glaucoma"]
 last_modified_at: 2026-10-14
-description: "Phenoxybenzamine: predicted new indication Primary hereditary glaucoma (evidence level L5). Approved use: Pheochromocytoma (adrenal gland pheochromocytoma)…"
+description: "Phenoxybenzamine: predicted new indication Primary hereditary glaucoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Phenoxybenzamine
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-## Phenoxybenzamine: From Pheochromocytoma to Primary Hereditary Glaucoma
+## Phenoxybenzamine: Primary hereditary glaucoma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ but **no clinical trials and no publications** currently support this direction,
 
 | Item | Content |
 |------|------|
-| Original Indication | Pheochromocytoma (adrenal gland pheochromocytoma), sympathetic paraganglioma and related tumours (from the knowledge graph; no approved indication text is available in the US license records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Primary hereditary glaucoma |
-| TxGNN Prediction Score | 99.55% |
+| TxGNN Prediction Score | 0.9955 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 3 (all ANDAs, all cancelled) |
+| US Market Status | Marketed (valid licenses: 3 of 3) |
+| Number of NDAs | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -62,7 +62,7 @@ In principle, alpha blockade could affect aqueous humor dynamics, for example th
 
 However, the link is weak and speculative:
 - Primary hereditary glaucoma (congenital and juvenile forms) is driven mainly by developmental or genetic defects of the trabecular meshwork and anterior chamber angle (for example, CYP1B1 or MYOC variants). Alpha blockade is not expected to correct these structural defects.
-- For open-angle glaucoma, the second prediction (score 99.48%), the direction of effect is not established. Systemic alpha blockade may lower ocular perfusion pressure, which could be unfavourable for the optic nerve.
+- For open-angle glaucoma, the second prediction (score 0.9948), the direction of effect is not established. Systemic alpha blockade may lower ocular perfusion pressure, which could be unfavourable for the optic nerve.
 - Many established topical glaucoma therapies already exist, which limits the need for a systemic oral agent with significant side effects.
 
 ## Clinical Trial Evidence
@@ -77,9 +77,9 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA212568 | Phenoxybenzamine hydrochloride (Amneal Pharmaceuticals NY LLC) | Capsule | Not listed (license cancelled) |
-| ANDA215042 | Phenoxybenzamine Hydrochloride (Novitium Pharma LLC) | Capsule | Not listed (license cancelled) |
-| ANDA215600 | Phenoxybenzamine Hydrochloride (Aurobindo Pharma Limited) | Capsule | Not listed (license cancelled) |
+| ANDA212568 | Phenoxybenzamine hydrochloride (Amneal Pharmaceuticals NY LLC) | Capsule | Not listed (license valid) |
+| ANDA215042 | Phenoxybenzamine Hydrochloride (Novitium Pharma LLC) | Capsule | Not listed (license valid) |
+| ANDA215600 | Phenoxybenzamine Hydrochloride (Aurobindo Pharma Limited) | Capsule | Not listed (license valid) |
 
 All three licenses are for single-ingredient oral capsules, and all are cancelled. Availability of the drug in the US is therefore limited.
 
@@ -100,7 +100,7 @@ Official warnings and contraindications from the package insert were not availab
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the TxGNN model score, with no clinical trials or publications (Evidence Level L5). The mechanistic link is speculative, especially for a genetically driven condition such as primary hereditary glaucoma. In addition, all US licenses are cancelled and systemic alpha blockade carries safety concerns.
+The prediction is supported only by the TxGNN model score, with no clinical trials or publications (Evidence Level L5). The mechanistic link is speculative, especially for a genetically driven condition such as primary hereditary glaucoma. In addition, the drug is marketed in the US (3 of 3 licenses valid) and systemic alpha blockade carries safety concerns.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

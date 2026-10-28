@@ -4,9 +4,9 @@ title: Inclisiran
 parent: Model Prediction Only (L5)
 nav_order: 794
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "INCLISIRAN"
-predicted_indications: ["potassium deficiency disease", "esophageal disease", "atypical coarctation of aorta", "migraine disorder", "non-syndromic esophageal malformation", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "aortic malformation", "esophageal ulcer", "Raynaud disease"]
+predicted_indications: ["potassium deficiency disease", "esophageal disease", "atypical coarctation of aorta", "migraine disorder", "non-syndromic esophageal malformation", "migraine with brainstem aura", "aortic malformation", "esophageal ulcer", "Raynaud disease"]
 last_modified_at: 2026-10-14
 description: "Inclisiran: predicted new indication Potassium deficiency disease (evidence level L5). Approved use: Not recorded in the data compiled for this report"
 ---
@@ -14,7 +14,7 @@ description: "Inclisiran: predicted new indication Potassium deficiency disease 
 # Inclisiran
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -38,7 +38,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 ## One-Sentence Summary
 
-Inclisiran is a small interfering RNA (siRNA) that targets PCSK9 and is marketed in the US under the brand name LEQVIO. The TxGNN model predicts it may be effective for **potassium deficiency disease**, but **no clinical trials or publications** currently support this prediction. The score is a graph-based computational result only.
+Inclisiran is a small interfering RNA (siRNA) that targets PCSK9 and is marketed in the US under the brand name LEQVIO. The TxGNN model (deep learning) predicts it may be effective for **potassium deficiency disease**, but **no clinical trials or publications** currently support this prediction. The score is a computational result from the TxGNN model only.
 
 ## Quick Overview
 
@@ -46,17 +46,17 @@ Inclisiran is a small interfering RNA (siRNA) that targets PCSK9 and is marketed
 |------|------|
 | Original Indication | Not recorded in the data compiled for this report |
 | Predicted New Indication | Potassium deficiency disease |
-| TxGNN Prediction Score | 99.93% |
+| TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (the single NDA is cancelled) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, inclisiran is a PCSK9-targeting siRNA that lowers LDL-C by upregulating hepatic LDL receptors.
 
-The prediction is difficult to justify mechanistically. There is no plausible link between hepatic PCSK9 silencing and potassium homeostasis. The very high TxGNN score (99.93%) reflects a pattern in the knowledge graph rather than biological or clinical support. No trials or literature were found.
+The prediction is difficult to justify mechanistically. There is no plausible link between hepatic PCSK9 silencing and potassium homeostasis. The very high TxGNN score (0.9993) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No trials or literature were found.
 
 The other top-ranked predictions show the same pattern. These include esophageal disease, atypical coarctation of aorta, several migraine subtypes, esophageal malformation, esophageal ulcer, and Raynaud disease. All are Evidence Level L5 with a "Hold" recommendation.
 
@@ -90,7 +90,7 @@ Please refer to the package insert for safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a graph-based model score. There is no mechanistic rationale, no relevant clinical trial, and no literature for potassium deficiency disease. The only NDA on record is also cancelled.
+The prediction rests only on a TxGNN model (deep learning) score, which may reflect similarities the model learned between related diseases, not biological evidence. There is no mechanistic rationale, no relevant clinical trial, and no literature for potassium deficiency disease. The drug is marketed, with 1 valid licence of 1.
 
 **To proceed, the following is needed:**
 - Documented original indication and approved indication text from the FDA label

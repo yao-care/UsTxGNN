@@ -8,7 +8,7 @@ indication_count: 3
 monitor_inn: "FEBUXOSTAT"
 predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "Lesch-Nyhan syndrome"]
 last_modified_at: 2026-10-14
-description: "Febuxostat: predicted new indication Renal hypouricemia (evidence level L4). Approved use: Hyperuricemia"
+description: "Febuxostat: predicted new indication Hypouricemia, renal (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Febuxostat
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **3**
 
 </div>
 
-## Febuxostat: From Hyperuricemia to Renal Hypouricemia
+## Febuxostat: Hypouricemia, renal
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,11 +48,11 @@ Because renal hypouricemia is a condition of already low uric acid, the high mod
 
 | Item | Content |
 |------|------|
-| Original Indication | Hyperuricemia (the approved indication text was not available in the compiled data; the original indication comes from the knowledge graph) |
-| Predicted New Indication | Renal hypouricemia |
-| TxGNN Prediction Score | 99.99% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Hypouricemia, renal |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 10) |
 | Number of NDAs | 10 (all cancelled; 1 NDA and 9 ANDAs) |
 | Recommended Decision | Hold |
 
@@ -62,13 +62,13 @@ Because renal hypouricemia is a condition of already low uric acid, the high mod
 
 Detailed mechanism-of-action data is not available in the compiled data. Based on known pharmacology, febuxostat is a non-purine selective xanthine oxidase inhibitor that lowers serum uric acid, and its efficacy in hyperuricemia is established.
 
-Renal hypouricemia, however, is the opposite problem. It is caused by loss-of-function of urate transporters (URAT1/GLUT9), which leaves serum urate already low. Lowering urate further is mechanistically counterproductive and could be harmful. The high TxGNN score most likely reflects shared urate-metabolism nodes in the knowledge graph rather than real therapeutic benefit.
+Renal hypouricemia, however, is the opposite problem. It is caused by loss-of-function of urate transporters (URAT1/GLUT9), which leaves serum urate already low. Lowering urate further is mechanistically counterproductive and could be harmful. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 The only plausible link is indirect. A 2023 case report (PMID 36754409) describes a young football player with familial renal hypouricemia and recurrent exercise-induced acute kidney injury, and discusses xanthine oxidoreductase inhibitors as a possible preventive measure. This is a hypothesis-level proposal, not demonstrated clinical efficacy.
 
 Two other lower-ranked predictions are mechanistically more coherent, although both rest on case-level evidence only:
-- **Partial HPRT deficiency** (score 99.98%): the purine overproduction and hyperuricemia can plausibly be controlled by xanthine oxidase inhibition. Allopurinol is the standard, and febuxostat could be an alternative in allopurinol-intolerant patients.
-- **Lesch-Nyhan syndrome** (score 99.68%): febuxostat could control hyperuricemia and prevent urate nephropathy, but it does not address the neurobehavioral features, which are the main unmet need.
+- **Partial HPRT deficiency** (score 0.9998): the purine overproduction and hyperuricemia can plausibly be controlled by xanthine oxidase inhibition. Allopurinol is the standard, and febuxostat could be an alternative in allopurinol-intolerant patients.
+- **Lesch-Nyhan syndrome** (score 0.9968): febuxostat could control hyperuricemia and prevent urate nephropathy, but it does not address the neurobehavioral features, which are the main unmet need.
 
 ---
 
@@ -91,7 +91,7 @@ Two other lower-ranked predictions are mechanistically more coherent, although b
 
 ## US Market Information
 
-All 10 US authorizations are cancelled, and the approved indication text was not available.
+The drug is marketed in the US with 10 valid authorizations, and the approved indication text was not available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

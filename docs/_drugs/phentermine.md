@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "PHENTERMINE"
 predicted_indications: ["hypervitaminosis", "proximal 16p11.2 microdeletion syndrome", "obsolete hypertelorism (disease)", "frontorhiny"]
-last_modified_at: 2026-10-14
-description: "Phentermine: predicted new indication Hypervitaminosis (evidence level L5). Approved use: Obesity disorder"
+last_modified_at: 2026-10-28
+description: "Phentermine: predicted new indication Hypervitaminosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Phentermine
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-## Phentermine: From Obesity to Hypervitaminosis
+## Phentermine: Hypervitaminosis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ but **0 clinical trials** and **0 publications** currently support this predicti
 
 | Item | Content |
 |------|------|
-| Original Indication | Obesity disorder (hypotensive disorder and monogenic obesity are also listed as original indications; no approved indication text is available in the US license data) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Hypervitaminosis |
-| TxGNN Prediction Score | 99.57% |
+| TxGNN Prediction Score | 0.9957 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 11) |
 | Number of NDAs | 11 (all cancelled; listed as ANDAs) |
 | Recommended Decision | Hold |
 
@@ -58,11 +58,11 @@ but **0 clinical trials** and **0 publications** currently support this predicti
 
 Currently, detailed mechanism of action data is not available. Based on known information, phentermine is a sympathomimetic amine that promotes norepinephrine release and suppresses appetite. Its use in obesity is well established.
 
-However, hypervitaminosis results from excess vitamin intake or accumulation, and appetite suppression does not address it. No plausible mechanistic link was identified, and the high TxGNN score (99.57%) appears to be a graph-based prediction without pharmacological support. It should be treated as a hypothesis-generating signal only.
+However, hypervitaminosis results from excess vitamin intake or accumulation, and appetite suppression does not address it. No plausible mechanistic link was identified. The high TxGNN score (0.9957) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It should be treated as a hypothesis-generating signal only.
 
 Other predictions from the model fall into two groups:
-- **Proximal 16p11.2 microdeletion syndrome** (99.49%): This is an indirect and speculative link. The syndrome is associated with severe early-onset obesity, so symptomatic weight management is conceptually plausible, and this likely reflects the original monogenic obesity indication. The drug would treat only the obesity phenotype, not the underlying genetic disorder. Neurodevelopmental, cardiovascular and psychiatric comorbidities raise safety concerns for a stimulant.
-- **Obsolete hypertelorism (disease)** (99.41%) and **frontorhiny** (99.04%): These are craniofacial structural anomalies with no mechanistic link. The first term is obsolete in the ontology, so its prediction may be an artifact.
+- **Proximal 16p11.2 microdeletion syndrome** (0.9949): This is an indirect and speculative link. The syndrome is associated with severe early-onset obesity, so symptomatic weight management is conceptually plausible, and this likely reflects the original monogenic obesity indication. The drug would treat only the obesity phenotype, not the underlying genetic disorder. Neurodevelopmental, cardiovascular and psychiatric comorbidities raise safety concerns for a stimulant.
+- **Obsolete hypertelorism (disease)** (0.9941) and **frontorhiny** (0.9904): These are craniofacial structural anomalies with no mechanistic link. The first term is obsolete in the ontology, so its prediction may be an artifact.
 
 ## Clinical Trial Evidence
 
@@ -96,10 +96,10 @@ Please refer to the package insert for official warnings and contraindications, 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone (L5), with no clinical trials or literature, and no plausible mechanism links appetite suppression to hypervitaminosis. All US licenses are cancelled, and the drug's cardiovascular and psychiatric safety profile adds further caution.
+The prediction rests on a model score alone (L5), with no clinical trials or literature, and no plausible mechanism links appetite suppression to hypervitaminosis. The drug is marketed in the US with 11 valid licenses, and its cardiovascular and psychiatric safety profile adds further caution.
 
 **To proceed, the following is needed:**
-- A documented mechanistic rationale for hypervitaminosis (or confirmation that the prediction is a graph artifact)
+- A documented mechanistic rationale for hypervitaminosis (or confirmation that the score only reflects similarities the TxGNN model learned between related diseases, not biological evidence)
 - Mechanism of action data for phentermine
 - FDA package insert warnings and contraindications for safety screening
 - Any supporting preclinical or clinical evidence

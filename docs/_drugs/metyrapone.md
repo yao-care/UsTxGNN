@@ -4,9 +4,9 @@ title: Metyrapone
 parent: Model Prediction Only (L5)
 nav_order: 922
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "METYRAPONE"
-predicted_indications: ["exercise-induced malignant hyperthermia", "malignant hyperthermia, susceptibility to", "King-Denborough syndrome", "central core myopathy", "moderate multiminicore disease with hand involvement", "congenital multicore myopathy with external ophthalmoplegia", "myopathy, centronuclear", "familial periodic paralysis", "renal tubular acidosis", "malignant hyperthermia of anesthesia"]
+predicted_indications: ["exercise-induced malignant hyperthermia", "King-Denborough syndrome", "central core myopathy", "moderate multiminicore disease with hand involvement", "congenital multicore myopathy with external ophthalmoplegia", "myopathy, centronuclear", "familial periodic paralysis", "renal tubular acidosis", "malignant hyperthermia of anesthesia"]
 last_modified_at: 2026-10-14
 description: "Metyrapone: predicted new indication Exercise-induced malignant hyperthermia (evidence level L5). Approved use: Not stated in the US license data. Pharmacology sources describe use…"
 ---
@@ -14,7 +14,7 @@ description: "Metyrapone: predicted new indication Exercise-induced malignant hy
 # Metyrapone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ The prediction rests on computational network proximity only, and no biological 
 |------|------|
 | Original Indication | Not stated in the US license data. Pharmacology sources describe use as a diagnostic test of hypothalamic-pituitary function and occasional use in Cushing's syndrome |
 | Predicted New Indication | Exercise-induced malignant hyperthermia |
-| TxGNN Prediction Score | 99.95% |
+| TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no active license) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -64,7 +64,7 @@ Detailed mechanism-of-action data was not available in the data compiled for thi
 
 The predicted indication is mechanistically unrelated to this action. Malignant hyperthermia is a disorder of skeletal muscle calcium handling, mainly involving RYR1 and CACNA1S. Its acute treatment is dantrolene, which acts directly on the ryanodine receptor. No plausible link between steroidogenesis inhibition and this pathway was identified.
 
-The high TxGNN score most likely reflects proximity in the knowledge graph to a cluster of related myopathy nodes rather than biological rationale. This prediction should be treated as a computational hypothesis, not a supported lead.
+The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related myopathy diseases, not biological evidence. This prediction should be treated as a computational hypothesis, not a supported lead.
 
 ### Other Predicted Indications
 
@@ -72,15 +72,14 @@ Nine other predictions were reviewed, and all lack clinical trials. Most are RYR
 
 | Rank | Predicted Indication | TxGNN Score | Evidence Level |
 |---|---|---|---|
-| 2 | Malignant hyperthermia, susceptibility to | 99.82% | L5 |
-| 3 | King-Denborough syndrome | 99.77% | L5 |
-| 4 | Central core myopathy | 99.72% | L5 |
-| 5 | Moderate multiminicore disease with hand involvement | 99.72% | L5 |
-| 6 | Congenital multicore myopathy with external ophthalmoplegia | 99.70% | L5 |
-| 7 | Myopathy, centronuclear | 99.47% | L5 |
-| 8 | Familial periodic paralysis | 99.40% | L4 |
-| 9 | Renal tubular acidosis | 99.28% | L5 |
-| 10 | Malignant hyperthermia of anesthesia | 99.23% | L5 |
+| 3 | King-Denborough syndrome | 0.9977 | L5 |
+| 4 | Central core myopathy | 0.9972 | L5 |
+| 5 | Moderate multiminicore disease with hand involvement | 0.9972 | L5 |
+| 6 | Congenital multicore myopathy with external ophthalmoplegia | 0.9970 | L5 |
+| 7 | Myopathy, centronuclear | 0.9947 | L5 |
+| 8 | Familial periodic paralysis | 0.9940 | L4 |
+| 9 | Renal tubular acidosis | 0.9928 | L5 |
+| 10 | Malignant hyperthermia of anesthesia | 0.9923 | L5 |
 
 ---
 
@@ -106,7 +105,7 @@ The only publication identified across the ten predictions concerns the rank 8 p
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA012911 | Metopirone (ESTEVE PHARMACEUTICALS, S.A.) | Capsule, gelatin coated (oral) | Not stated in the license data. Status: cancelled |
+| NDA012911 | Metopirone (ESTEVE PHARMACEUTICALS, S.A.) | Capsule, gelatin coated (oral) | Not stated in the license data. Status: valid |
 
 ---
 

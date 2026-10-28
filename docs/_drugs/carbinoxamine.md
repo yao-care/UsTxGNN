@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Carbinoxamine
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 496
-evidence_level: L4
-indication_count: 7
-last_modified_at: 2026-10-14
-description: "Carbinoxamine: predicted new indication Allergic urticaria (evidence level L4). Approved use: Allergic rhinitis (other labeled uses: vasomotor rhinitis…"
+evidence_level: L5
+indication_count: 5
 monitor_inn: "CARBINOXAMINE"
 predicted_indications: ["nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic"]
+last_modified_at: 2026-10-27
+description: "Carbinoxamine: predicted new indication nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Carbinoxamine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **7** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,41 +33,34 @@ Evidence Level: **L4** | Predicted Indications: **7**
 
 </div>
 
-## Carbinoxamine: From Allergic Rhinitis to Allergic Urticaria
+## Carbinoxamine: First-generation H1 antihistamine → nasal cavity disease
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Carbinoxamine is a first-generation H1-antihistamine, originally used for allergic and vasomotor rhinitis, the common cold, allergic conjunctivitis, urticaria and angioedema.
-The TxGNN model predicts it may be effective for **Allergic Urticaria**, but there are currently **0 clinical trials** and **0 publications** supporting this prediction.
-It is largely a subtype of an existing indication rather than a true repurposing.
+Carbinoxamine is a first-generation H1 antihistamine with anticholinergic activity, marketed in the United States as single-ingredient oral products.
+The TxGNN model predicts it may be useful for **nasal cavity disease**, with a score of 0.9988.
+**No clinical trials and no publications** were found for this prediction, so the support is indirect and based on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Allergic rhinitis (other labeled uses: vasomotor rhinitis, common cold, conjunctivitis, urticaria, angioedema) |
-| Predicted New Indication | Allergic urticaria |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 6 (all cancelled) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | nasal cavity disease |
+| TxGNN Prediction Score | 0.9988 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 6 of 6) |
+| Number of NDAs | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, carbinoxamine is a first-generation H1-antihistamine. In allergic urticaria, histamine released from mast cells drives the wheal-and-flare reaction, so blocking the H1 receptor is mechanistically plausible.
+Currently, detailed mechanism of action data is not available in the data compiled for this report. Carbinoxamine belongs to the class of first-generation H1 antihistamines. Such drugs block histamine at H1 receptors and also have anticholinergic effects, which reduce sneezing and watery nasal discharge.
 
-Urticaria and angioedema are already among carbinoxamine's original indications. Allergic urticaria is therefore largely a subtype of an existing indication, not a new therapeutic area. The very high TxGNN score (99.99%) probably reflects this overlap.
+"Nasal cavity disease" is a very broad category. A symptomatic benefit on nasal discharge and sneezing is plausible for allergic or vasomotor nasal conditions. However, the term is too non-specific to support a distinct repurposing claim. The link is indirect and inferred from the drug's class effects, not from any study of this disease.
 
-Other predictions follow the same pattern:
-
-- **Cold urticaria** (99.96%): a physical urticaria that also involves mast cell histamine release. Antihistamines are standard therapy in general, but second-generation agents are preferred.
-- **Nasal cavity disease** (99.88%): a broad category that overlaps with the labeled rhinitis indications. It is too non-specific to support a distinct claim.
-- **Pharyngitis** (99.87%): nasopharyngitis and the common cold are already labeled. Any benefit would be symptomatic (drying of secretions).
-- **Acute laryngopharyngitis** (99.87%): supported only by a model prediction and a loose symptomatic analogy. It is typically infectious, and no specific H1-related pathway is known.
-- **Recalcitrant atopic dermatitis** (99.73%): driven mainly by type 2 inflammation, with histamine playing a minor role in itch. H1 antihistamines have weak evidence, and the anticholinergic burden makes benefit unlikely.
-- **IgE responsiveness, atopic** (99.68%): a trait rather than a treatable disease. Carbinoxamine does not change IgE production.
+Because no trial or publication in the data compiled for this report directly studies nasal cavity disease, the evidence level is set to L5, even though the model's internal rationale rated it L4.
 
 ## Clinical Trial Evidence
 
@@ -81,36 +74,30 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA040458 | Carbinoxamine Maleate (Genus Lifesciences) | Solution | Not available (cancelled) |
-| ANDA207484 | Carbinoxamine Maleate (BluCrest Pharmaceuticals) | Tablet | Not available (cancelled) |
-| NDA022556 | Carbinoxamine Maleate Extended-Release Oral Suspension (Neos Therapeutics) | Extended-release suspension | Not available (cancelled) |
-| ANDA215476 | Carbinoxamine Maleate (Leading Pharma) | Tablet | Not available (cancelled) |
-| ANDA090756 | Carbinoxamine Maleate (Biocomp Pharma) | Tablet | Not available (cancelled) |
-
-One further cancelled authorization (ANDA040442, Genus Lifesciences, tablet) brings the total to 6. All six licenses are cancelled.
+| ANDA040458 | Carbinoxamine Maleate | Solution | Not recorded |
+| ANDA207484 | Carbinoxamine Maleate | Tablet | Not recorded |
+| NDA022556 | Carbinoxamine Maleate Extended-Release Oral Suspension | Extended-release suspension | Not recorded |
+| ANDA215476 | Carbinoxamine Maleate | Tablet | Not recorded |
+| ANDA090756 | Carbinoxamine Maleate | Tablet | Not recorded |
 
 ## Safety Considerations
 
-- **Disease contraindications (from the knowledge graph, not label text):** The drug-disease contraindication links include hypertension, epilepsy, peptic ulcer disease, kidney and liver disease, pancreatitis, hypothyroidism, diabetes mellitus, diabetic ketoacidosis, benign prostatic hyperplasia, coronary artery disease, myocardial infarction, heart conduction disease, ocular hypertension, inflammatory bowel disease, respiratory failure and others. These need to be checked against the package insert.
-- **Drug Interactions:** 100 interactions were found. The ones listed here are examples.
-  - **Major:** potassium chloride and potassium citrate.
-  - **Moderate:** anticholinergics (atropine, hyoscyamine, scopolamine, glycopyrronium, dicyclomine, clidinium, propantheline, methscopolamine, mepenzolate), opioids and related agents (morphine, loperamide, opium, eluxadoline), cannabinoids (dronabinol, nabilone) and metoclopramide. Additive anticholinergic and sedative effects are the main concern.
+- **Drug Interactions**: 100 interactions were found in total. Major-level interactions include **potassium chloride** and **potassium citrate**. Moderate-level interactions include other anticholinergic drugs (atropine, hyoscyamine, glycopyrronium, dicyclomine, scopolamine, propantheline) and opioids or central nervous system–active drugs (morphine, loperamide, opium, dronabinol, nabilone). Additive anticholinergic and sedative effects are the main concern.
 
-Package insert warnings and contraindications were not available, so please refer to the package insert for them.
+Please refer to the package insert for warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score and class-level mechanistic reasoning only, with no trials or publications for carbinoxamine. Allergic urticaria largely overlaps with an existing labeled indication, so it adds little as a repurposing opportunity. All six US licenses are cancelled, and the package insert safety data are missing.
+The prediction score is high (0.9988), but no trials or publications address nasal cavity disease. The category is also too broad to define a specific repurposing question.
 
 **To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
+- A more specific target condition (for example, a defined type of rhinitis) in place of the broad "nasal cavity disease" category
+- Clinical or literature evidence studying carbinoxamine directly in that condition
 - Mechanism of action data
-- Carbinoxamine-specific clinical or observational evidence in urticaria
-- Clarification of why the US licenses were cancelled and whether any marketed product remains
-- A comparison with second-generation antihistamines, which are preferred in urticaria
+- Package insert warnings and contraindications for safety screening
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

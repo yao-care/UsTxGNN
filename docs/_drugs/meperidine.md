@@ -48,10 +48,10 @@ The prediction is a computational signal only and is not backed by any real-worl
 |------|------|
 | Original Indication | Not available in the compiled data (the approved indication text of all licenses is empty) |
 | Predicted New Indication | Tourette syndrome |
-| TxGNN Prediction Score | 99.46% |
+| TxGNN Prediction Score | 0.9946 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 5 (all cancelled; 1 NDA and 4 ANDAs) |
+| US Market Status | Marketed (valid licenses: 5 of 5) |
+| Number of NDAs | 5 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available. Based on general 
 
 Tourette syndrome involves dysregulated cortico-striato-thalamo-cortical circuits, mainly dopaminergic, with GABAergic and glutamatergic contributions. A link through opioid-system modulation of dopaminergic tone is speculative. Some opioid-modulating agents have been explored in tic disorders, but nothing supports meperidine specifically.
 
-The high TxGNN score (99.46%) is a computational prediction only. The mechanistic rationale is weak, and the safety profile (serotonin syndrome risk with serotonergic agents, which are common in Tourette and comorbid psychiatric treatment; seizure risk from the neurotoxic metabolite normeperidine) is unfavorable for a chronic neuropsychiatric indication.
+The high TxGNN score (0.9946) is a computational prediction only. The mechanistic rationale is weak, and the safety profile (serotonin syndrome risk with serotonergic agents, which are common in Tourette and comorbid psychiatric treatment; seizure risk from the neurotoxic metabolite normeperidine) is unfavorable for a chronic neuropsychiatric indication.
 
 ## Clinical Trial Evidence
 
@@ -74,13 +74,13 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| NDA021171 | DEMEROL (Hospira, Inc.) | Injection, solution | Cancelled |
-| ANDA088744 | Meperidine Hydrochloride (Hikma) | Solution | Cancelled |
-| ANDA080445 | Meperidine Hydrochloride (Hikma) | Injection | Cancelled |
-| ANDA040331 | Meperidine Hydrochloride (Epic Pharma) | Tablet | Cancelled |
-| ANDA040893 | Meperidine Hydrochloride (Genus Lifesciences) | Tablet | Cancelled |
+| NDA021171 | DEMEROL (Hospira, Inc.) | Injection, solution | Valid |
+| ANDA088744 | Meperidine Hydrochloride (Hikma) | Solution | Valid |
+| ANDA080445 | Meperidine Hydrochloride (Hikma) | Injection | Valid |
+| ANDA040331 | Meperidine Hydrochloride (Epic Pharma) | Tablet | Valid |
+| ANDA040893 | Meperidine Hydrochloride (Genus Lifesciences) | Tablet | Valid |
 
-All five authorizations are cancelled, and no approved indication text is available for any of them.
+All five licenses are valid and the drug is marketed in the US, and no approved indication text is available for any of them.
 
 ## Cytotoxicity
 
@@ -119,7 +119,7 @@ Please refer to the package insert for warnings and contraindications, which are
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a model score alone (Evidence Level L5), with no clinical trials or publications. The mechanistic link is speculative, the safety profile (serotonin syndrome, normeperidine neurotoxicity, abuse liability, many contraindication signals) is unfavorable for a chronic indication, and all US licenses are cancelled. Tourette syndrome is a chronic condition, so these safety concerns weigh heavily.
+The prediction rests on a model score alone (Evidence Level L5), with no clinical trials or publications. The mechanistic link is speculative, and the safety profile (serotonin syndrome, normeperidine neurotoxicity, abuse liability, many contraindication signals) is unfavorable for a chronic indication, although the drug is marketed in the US with 5 of 5 licenses valid. Tourette syndrome is a chronic condition, so these safety concerns weigh heavily.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
@@ -130,7 +130,7 @@ The prediction rests on a model score alone (Evidence Level L5), with no clinica
 
 ---
 
-*Additional predicted indication (for reference):* The second-ranked prediction, **trichotillomania** (TxGNN score 99.39%), is also Evidence Level L5 with no trials or literature, and is likewise on Hold. Its biological rationale is weak or even contradictory, because a mu-opioid agonist acts opposite to the opioid-antagonist approach (naltrexone) studied for this condition, and the same safety concerns apply.
+*Additional predicted indication (for reference):* The second-ranked prediction, **trichotillomania** (TxGNN score 0.9939), is also Evidence Level L5 with no trials or literature, and is likewise on Hold. Its biological rationale is weak or even contradictory, because a mu-opioid agonist acts opposite to the opioid-antagonist approach (naltrexone) studied for this condition, and the same safety concerns apply.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

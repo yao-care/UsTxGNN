@@ -48,9 +48,9 @@ Currently **6 clinical trials** (3 directly relevant) and **20 publications** ar
 |------|------|
 | Original Indication | Psoriatic arthritis, psoriasis, parapsoriasis |
 | Predicted New Indication | Dermatitis |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L2 |
-| US Market Status | Cancelled only (all 11 listed licenses are marked cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 11) |
 | Number of NDAs | 11 (BLA) |
 | Recommended Decision | Hold |
 
@@ -92,11 +92,11 @@ The very high TxGNN score should be read with caution. "Dermatitis" covers heter
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA125261 | STELARA | Injection, solution | Not available in compiled data (status: cancelled) |
-| BLA761331 | WEZLANA | Injection, solution | Not available in compiled data (status: cancelled) |
-| BLA761338 | STEQEYMA | Injection, solution | Not available in compiled data (status: cancelled) |
-| BLA761343 | Selarsdi | Injection, solution | Not available in compiled data (status: cancelled) |
-| BLA761406 | YESINTEK | Solution | Not available in compiled data (status: cancelled) |
+| BLA125261 | STELARA | Injection, solution | Not available in compiled data (status: valid) |
+| BLA761331 | WEZLANA | Injection, solution | Not available in compiled data (status: valid) |
+| BLA761338 | STEQEYMA | Injection, solution | Not available in compiled data (status: valid) |
+| BLA761343 | Selarsdi | Injection, solution | Not available in compiled data (status: valid) |
+| BLA761406 | YESINTEK | Solution | Not available in compiled data (status: valid) |
 
 The data list 11 BLAs in total (including the Stelara originator and several biosimilars), all with cancelled status. This should be verified against current FDA records.
 
@@ -116,7 +116,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-Two Phase 2 randomized, placebo-controlled studies exist in atopic dermatitis (evidence level L2), but the mechanism fits only partially because atopic dermatitis is mainly Th2-driven, and efficacy in these studies appears limited. "Dermatitis" is also too broad to define a specific indication. All US licenses are listed as cancelled, and the package-insert safety data are missing.
+Two Phase 2 randomized, placebo-controlled studies exist in atopic dermatitis (evidence level L2), but the mechanism fits only partially because atopic dermatitis is mainly Th2-driven, and efficacy in these studies appears limited. "Dermatitis" is also too broad to define a specific indication. The drug is marketed in the US, with 11 valid licenses, and the package-insert safety data are missing.
 
 **To proceed, the following is needed:**
 - Full results (primary endpoints, effect size) of NCT01945086 and NCT01806662, plus confirmation of the study populations

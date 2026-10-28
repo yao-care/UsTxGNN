@@ -46,17 +46,17 @@ Prasterone (DHEA) is a sex-steroid precursor whose original indications in the d
 |------|------|
 | Original Indication | Systemic lupus erythematosus; pediatric systemic lupus erythematosus; psychologic dyspareunia (US labeling for the vaginal insert covers dyspareunia due to vulvar and vaginal atrophy) |
 | Predicted New Indication | Heparin cofactor 2 deficiency |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid authorizations) |
-| Number of NDAs | 2 (both cancelled) |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, prasterone (DHEA) is an endogenous steroid precursor that is converted in the body into androgens and estrogens. It has reported immunomodulatory properties, which is consistent with its use in lupus.
 
-For heparin cofactor 2 deficiency, no mechanistic link has been established. This is a rare inherited serpin deficiency, and prasterone has no known effect on heparin cofactor II levels or function. The prediction is a graph-based score only.
+For heparin cofactor 2 deficiency, no mechanistic link has been established. This is a rare inherited serpin deficiency, and prasterone has no known effect on heparin cofactor II levels or function. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 The high score therefore should not be read as biological support. Sex steroids may raise rather than lower thrombotic risk, so the prediction is of doubtful plausibility and carries a safety caveat.
 
@@ -77,7 +77,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA208470 | Intrarosa (Millicent US, Inc.) | Insert | Status: cancelled |
+| NDA208470 | Intrarosa (Millicent US, Inc.) | Insert | Status: valid |
 | Not available | DHEA (Deseret Biologicals, Inc.) | Liquid | Status: cancelled |
 
 Pharmacology data indicate that prasterone (Intrarosa) was FDA approved for moderate to severe pain during sexual intercourse (dyspareunia) as a symptom of vulvar and vaginal atrophy in women. Both authorizations are now cancelled.

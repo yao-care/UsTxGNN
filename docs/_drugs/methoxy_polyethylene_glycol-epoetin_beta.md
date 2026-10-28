@@ -48,28 +48,28 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Not listed in the compiled data |
 | Predicted New Indication | Primary release disorder of platelets |
-| TxGNN Prediction Score | 99.36% |
+| TxGNN Prediction Score | 0.9936 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no active license) |
-| Number of NDAs | 1 (BLA 125164, cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the compiled data. Based on general knowledge of the drug class, methoxy polyethylene glycol-epoetin beta is a long-acting ESA that acts on the erythropoietin receptor to stimulate red blood cell production.
 
-The link to a platelet secretion defect is weak and indirect. ESAs have been reported to influence platelet reactivity and thrombotic risk, but this does not suggest therapeutic benefit in a platelet function disorder. The high TxGNN score is a graph-based prediction and may reflect network artifacts rather than a true biological relationship.
+The link to a platelet secretion defect is weak and indirect. ESAs have been reported to influence platelet reactivity and thrombotic risk, but this does not suggest therapeutic benefit in a platelet function disorder. The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 **Other predicted indications (all L5, all Hold, no trials or literature):**
 
 | Rank | Predicted Indication | TxGNN Score | Comment |
 |------|------|------|------|
-| 2 | Glanzmann thrombasthenia | 99.30% | Caused by an integrin αIIbβ3 defect, unrelated to erythropoietin receptor signaling |
-| 3 | Pseudo-von Willebrand disease | 99.25% | Caused by a gain-of-function GP1BA variant, with no established link to the erythropoietin pathway |
-| 4 | Severe nonproliferative diabetic retinopathy | 99.15% | Biologically plausible, but ESA exposure could promote retinal neovascularization, so this is a potential safety concern |
-| 5 | Heparin cofactor 2 deficiency | 99.10% | Prothrombotic condition; ESA thrombosis risk is undesirable |
-| 6 | Antithrombin deficiency type 2 | 99.07% | Prothrombotic condition; ESA thrombosis risk is a concern |
-| 7 | Factor 5 excess with spontaneous thrombosis | 99.04% | Hypercoagulable condition; the association more likely indicates risk than opportunity |
+| 2 | Glanzmann thrombasthenia | 0.9930 | Caused by an integrin αIIbβ3 defect, unrelated to erythropoietin receptor signaling |
+| 3 | Pseudo-von Willebrand disease | 0.9925 | Caused by a gain-of-function GP1BA variant, with no established link to the erythropoietin pathway |
+| 4 | Severe nonproliferative diabetic retinopathy | 0.9915 | Biologically plausible, but ESA exposure could promote retinal neovascularization, so this is a potential safety concern |
+| 5 | Heparin cofactor 2 deficiency | 0.9910 | Prothrombotic condition; ESA thrombosis risk is undesirable |
+| 6 | Antithrombin deficiency type 2 | 0.9907 | Prothrombotic condition; ESA thrombosis risk is a concern |
+| 7 | Factor 5 excess with spontaneous thrombosis | 0.9904 | Hypercoagulable condition; the association more likely indicates risk than opportunity |
 
 ## Clinical Trial Evidence
 

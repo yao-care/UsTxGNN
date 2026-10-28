@@ -1,18 +1,19 @@
 ---
 layout: default
 title: Temazepam
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 1208
-evidence_level: L5
-indication_count: 1
-last_modified_at: 2026-10-14
-description: "Temazepam: predicted new indication Sleep disorder, initiating and maintaining sleep (evidence level L5). Approved use: Insomnia"
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Temazepam: known uses and market status in the United States; currently no new candidate indication"
+predicted_indications: []
 ---
 
 # Temazepam
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **1** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,65 +32,52 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-## Temazepam: From Insomnia to Sleep Disorder (Initiating and Maintaining Sleep)
+<!-- known-uses-page -->
+<!-- description: Temazepam: known uses and market status in the United States; currently no new candidate indication -->
+## Temazepam: Known uses and market status in the United States
 {: .text-alpha }
 
-## One-Sentence Summary
+## Summary
+The TxGNN deep-learning model produced candidates for Temazepam with a score of 0.99 or higher. Every candidate that can be traced to a source is already a known use. There is currently no new predicted indication for this drug.
 
-Temazepam is a benzodiazepine hypnotic originally used to treat insomnia.
-The TxGNN model predicts it may be effective for **sleep disorder, initiating and maintaining sleep**, which is essentially the same condition as its original use.
-Currently **0 clinical trials** and **20 publications** (mostly guidelines and reviews) relate to this direction.
-
-## Quick Overview
-
+## Quick overview
 | Item | Content |
 |------|------|
-| Original Indication | Insomnia (the US license records contain no indication text; this comes from the knowledge graph) |
-| Predicted New Indication | Sleep disorder, initiating and maintaining sleep |
-| TxGNN Prediction Score | 99.82% |
-| Evidence Level | L1 per the data compiled for this report (see note below) |
-| US Market Status | Cancelled only (no active licenses) |
-| Number of NDAs | 6 (all cancelled; 1 NDA and 5 ANDAs) |
-| Recommended Decision | Hold |
+| New predicted indications | None (all traceable model candidates are known uses) |
+| Known uses among model candidates | 0 |
+| Evidence level | Not applicable |
+| Market status in the United States | Marketed (valid licenses on record: at least 6) |
+| Number of NDAs | at least 6 |
 
-**Note on evidence level:** The L1 rating in the data does not match the stated criteria (≥2 completed Phase 3 RCTs), because no clinical trials are registered. The supporting material consists of guidelines, systematic reviews and one RCT on benzodiazepine discontinuation. Strictly applying the rules, the level is closer to L3 (systematic reviews and guidelines).
+## Known uses among the model's candidates
 
-## Why is This Prediction Reasonable?
+### Approved (supported by a licence or label)
+| Indication | Source |
+|------|------|
+| None | None |
 
-Detailed mechanism of action data is not currently available. Based on known class pharmacology, temazepam is a benzodiazepine receptor agonist that enhances GABA-A receptor inhibitory signalling, which promotes sleep onset and maintenance.
+### Related to an approved indication (same disease category)
+| Indication | Approved category |
+|------|------|
+| None | None |
 
-The predicted indication, difficulty initiating and maintaining sleep, is effectively the same as the original indication of insomnia. This is therefore **not a true repurposing candidate**. It restates the existing use, and the high TxGNN score reflects this overlap rather than a new mechanistic finding.
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-## Literature Evidence
-
-| PMID | Year | Type | Journal | Key Findings |
-|------|-----|------|------|---------|
-| [27998379](https://pubmed.ncbi.nlm.nih.gov/27998379/) | 2017 | Guideline | J Clin Sleep Med | AASM guideline on drug treatment of chronic insomnia in adults, assessing individual drugs |
-| [33249496](https://pubmed.ncbi.nlm.nih.gov/33249496/) | 2021 | Systematic review / network meta-analysis | Sleep | Compares efficacy and safety of hypnotics for insomnia in older adults |
-| [39374004](https://pubmed.ncbi.nlm.nih.gov/39374004/) | 2024 | RCT | JAMA Intern Med | Masked taper plus behavioral intervention for discontinuing benzodiazepine receptor agonist hypnotics (about stopping, not efficacy) |
-| [30058034](https://pubmed.ncbi.nlm.nih.gov/30058034/) | 2018 | Review | Drugs Aging | Pharmacological management recommendations for insomnia in elderly patients |
-| [27751669](https://pubmed.ncbi.nlm.nih.gov/27751669/) | 2016 | Review | Clin Ther | Safety and efficacy of sleep medicines in older adults |
-| [31730011](https://pubmed.ncbi.nlm.nih.gov/31730011/) | 2019 | Overview of reviews | Syst Rev | Compares pharmacological and non-pharmacological insomnia interventions |
-| [32544795](https://pubmed.ncbi.nlm.nih.gov/32544795/) | 2020 | Quantitative comparison | Sleep Med | Modeled comparison of drug efficacy for insomnia |
-| [2567741](https://pubmed.ncbi.nlm.nih.gov/2567741/) | 1989 | Critical review | J Clin Psychopharmacol | Rebound insomnia after stopping short half-life benzodiazepines, including temazepam |
-| [15089115](https://pubmed.ncbi.nlm.nih.gov/15089115/) | 2004 | Review | CNS Drugs | Residual "hangover" effects of hypnotics and accident risk |
-| [3332464](https://pubmed.ncbi.nlm.nih.gov/3332464/) | 1987 | Review | Semin Neurol | Temazepam is effective mainly for sleep maintenance |
+### Relations recorded in the knowledge graph (no approval found)
+| Indication |
+|------|
+| None |
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| NDA018163 | Temazepam (American Health Packaging) | Capsule | Not recorded; status cancelled |
-| ANDA211542 | Temazepam (Bryant Ranch Prepack) | Capsule | Not recorded; status cancelled |
-| ANDA071457 | Temazepam (Proficient Rx LP) | Capsule | Not recorded; status cancelled |
-| ANDA071456 | Temazepam (Proficient Rx LP) | Capsule | Not recorded; status cancelled |
-| ANDA071620 | Temazepam (REMEDYREPACK INC.) | Capsule | Not recorded; status cancelled |
+| Licence | Product | Dosage form | Status |
+|------|------|------|------|
+| NDA018163 | Temazepam | CAPSULE | Valid |
+| ANDA211542 | Temazepam | CAPSULE | Valid |
+| ANDA071457 | temazepam | CAPSULE | Valid |
+| ANDA071456 | temazepam | CAPSULE | Valid |
+| ANDA071620 | Temazepam | CAPSULE | Valid |
+| ANDA201781 | temazepam | CAPSULE | Valid |
 
-A sixth authorization, ANDA201781 (Solco Healthcare U.S., LLC, capsule), is also cancelled. All six are oral capsules.
+Only part of the licence list is held in the data; the list may be incomplete.
 
 ## Safety Considerations
 
@@ -102,19 +90,6 @@ A sixth authorization, ANDA201781 (Solco Healthcare U.S., LLC, capsule), is also
 
 Please refer to the package insert for official warnings and contraindications.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The predicted indication restates temazepam's existing insomnia use, so there is no new repurposing opportunity. No clinical trials are registered, all US licenses are cancelled, and the label-based safety data are missing.
-
-**To proceed, the following is needed:**
-- Retrieve the FDA package insert (warnings, contraindications, approved indication)
-- Obtain mechanism of action data from DrugBank
-- Confirm whether the predicted indication is genuinely distinct from insomnia, or drop it as a restatement of the approved use
-- Verify the market status, since all six US licenses are cancelled
-- Correct the evidence level against the defined criteria
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

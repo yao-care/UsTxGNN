@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Trihexyphenidyl
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1263
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 monitor_inn: "TRIHEXYPHENIDYL"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "attention deficit hyperactivity disorder, inattentive type", "Rasmussen subacute encephalitis", "PLA2G6-associated neurodegeneration", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "myelitis", "Charcot-Marie-Tooth disease, demyelinating, type 1G"]
@@ -14,7 +14,7 @@ description: "Trihexyphenidyl: predicted new indication Attention deficit-hypera
 # Trihexyphenidyl
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ but there are currently **0 clinical trials** and only **1 indirect publication*
 |------|------|
 | Original Indication | Parkinson disease and related movement disorders (parkinsonism, dystonia, blepharospasm) |
 | Predicted New Indication | Attention deficit-hyperactivity disorder |
-| TxGNN Prediction Score | 99.92% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 6 (all cancelled; listed as ANDAs) |
+| TxGNN Prediction Score | 0.9992 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 6 of 6) |
+| Number of NDAs | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -74,7 +74,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All six US authorizations (ANDAs) are cancelled. No approved indication text is available in the data.
+All six US authorizations (ANDAs) are valid. No approved indication text is available in the data.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -103,7 +103,7 @@ Please refer to the package insert for label warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests almost entirely on a computational score. There are no clinical trials, and the only publication is indirect and does not test the drug in ADHD. The anticholinergic cognitive effects also argue against benefit. In addition, all US licenses are cancelled.
+The prediction rests almost entirely on a computational score. There are no clinical trials, and the only publication is indirect and does not test the drug in ADHD. The anticholinergic cognitive effects also argue against benefit. In addition, the drug is marketed in the US, with all six licenses valid.
 
 **To proceed, the following is needed:**
 - Detailed mechanism of action data (MOA)

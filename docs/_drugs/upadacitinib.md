@@ -47,19 +47,19 @@ The TxGNN model predicts it may be effective for **colobomatous microphthalmia-r
 |------|------|
 | Original Indication | Rheumatoid arthritis |
 | Predicted New Indication | Colobomatous microphthalmia-rhizomelic dysplasia syndrome |
-| TxGNN Prediction Score | 99.61% |
+| TxGNN Prediction Score | 0.9961 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 2 |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, upadacitinib is a selective JAK1 inhibitor, and its efficacy in rheumatoid arthritis is established through suppression of JAK-STAT-mediated cytokine signaling.
 
-The predicted condition is a rare developmental disorder with eye and skeletal malformations. Disorders like this are generally not driven by JAK-STAT-mediated inflammation, so a plausible mechanistic link cannot be established from the available data. The high score (0.996) most likely reflects shared gene or pathway neighbors in the knowledge graph rather than a validated biological rationale. The prediction should be treated as a hypothesis-generating signal only.
+The predicted condition is a rare developmental disorder with eye and skeletal malformations. Disorders like this are generally not driven by JAK-STAT-mediated inflammation, so a plausible mechanistic link cannot be established from the available data. The high score (0.9961) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The prediction should be treated as a hypothesis-generating signal only.
 
-A second prediction, brachydactyly-syndactyly syndrome (score 99.58%, also L5, also Hold), is a congenital limb malformation and has the same limitations: no trials, no literature, and no inflammatory component to target.
+A second prediction, brachydactyly-syndactyly syndrome (score 0.9958, also L5, also Hold), is a congenital limb malformation and has the same limitations: no trials, no literature, and no inflammatory component to target.
 
 ## Clinical Trial Evidence
 
@@ -91,7 +91,7 @@ Both authorizations are listed as cancelled in the data compiled for this report
 **Decision: Hold**
 
 **Rationale:**
-The only support is a high knowledge-graph score. There are no clinical trials or publications, no plausible mechanistic link to JAK1 signaling, and the product's US authorizations are cancelled. A benefit-risk case cannot be made for a congenital structural condition given the known JAK inhibitor safety profile.
+The only support is a high TxGNN model (deep learning) score. There are no clinical trials or publications, no plausible mechanistic link to JAK1 signaling, and the product's US authorizations are cancelled. A benefit-risk case cannot be made for a congenital structural condition given the known JAK inhibitor safety profile.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (required before any safety screening)

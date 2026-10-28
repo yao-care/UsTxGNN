@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Tadalafil"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
-last_modified_at: 2026-10-14
-description: "Tadalafil: predicted new indication Ambras type hypertrichosis universalis congenita (evidence level L5). Approved use: Erectile dysfunction, benign prostatic hyperplasia…"
+last_modified_at: 2026-10-28
+description: "Tadalafil: predicted new indication Ambras type hypertrichosis universalis congenita (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Tadalafil
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-## Tadalafil: From Erectile Dysfunction and Pulmonary Hypertension to Ambras Type Hypertrichosis Universalis Congenita
+## Tadalafil: Ambras type hypertrichosis universalis congenita
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,11 +45,11 @@ The TxGNN model predicts it may be effective for **Ambras type hypertrichosis un
 
 | Item | Content |
 |------|------|
-| Original Indication | Erectile dysfunction, benign prostatic hyperplasia, pulmonary hypertension, psychologic dyspareunia, premature ejaculation (from the knowledge graph; no approved-indication text is available in the US license records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Ambras type hypertrichosis universalis congenita |
-| TxGNN Prediction Score | 99.98% |
+| TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all 11 licenses cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 11) |
 | Number of NDAs | 11 (all generic ANDAs; no NDA among them) |
 | Recommended Decision | Hold |
 
@@ -57,16 +57,16 @@ The TxGNN model predicts it may be effective for **Ambras type hypertrichosis un
 
 Currently, detailed mechanism of action data is not available in the compiled data. Tadalafil is generally known as a PDE5 inhibitor that raises cGMP and causes vasodilation. Its efficacy in erectile dysfunction and pulmonary hypertension is established.
 
-The predicted disease is a congenital condition driven by genetic (chromosomal or regulatory) abnormalities, and a biological link to PDE5 inhibition is not evident. The high score likely comes from knowledge-graph proximity to hypertrichosis-related phenotypes. Hypertrichosis is a known adverse effect of vasodilators such as minoxidil, so the association may point in the wrong direction (inducing rather than treating). The therapeutic rationale is unsupported.
+The predicted disease is a congenital condition driven by genetic (chromosomal or regulatory) abnormalities, and a biological link to PDE5 inhibition is not evident. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Hypertrichosis is a known adverse effect of vasodilators such as minoxidil, so the association may point in the wrong direction (inducing rather than treating). The therapeutic rationale is unsupported.
 
 The other top-ranked predictions show the same pattern, and the compiled data provides no evidence for any of them:
-- Hypertrichosis (99.98%): likely a shared vasodilatory or cGMP-pathway signal, with an unclear direction of effect.
-- Malformation syndrome with odontal and/or periodontal component (99.97%): no plausible mechanism.
-- Syndrome with a Dandy-Walker malformation as major feature (99.97%): a structural brain anomaly that a PDE5 inhibitor would not be expected to reverse.
-- Isolated genetic hair shaft abnormality (99.96%): no established rationale.
-- Familial isolated trichomegaly (99.65%): a genetic trait with no plausible therapeutic mechanism.
-- Kyphoscoliotic heart disease (99.43%): the most biologically plausible, because kyphoscoliosis can cause chronic hypoxia and secondary pulmonary hypertension. This is a hypothesis only and has not been tested.
-- Migraine with brainstem aura (99.08%): the only evidence is a case report suggesting tadalafil may trigger aura (an adverse-event signal).
+- Hypertrichosis (0.9998): likely a shared vasodilatory or cGMP-pathway signal, with an unclear direction of effect.
+- Malformation syndrome with odontal and/or periodontal component (0.9997): no plausible mechanism.
+- Syndrome with a Dandy-Walker malformation as major feature (0.9997): a structural brain anomaly that a PDE5 inhibitor would not be expected to reverse.
+- Isolated genetic hair shaft abnormality (0.9996): no established rationale.
+- Familial isolated trichomegaly (0.9965): a genetic trait with no plausible therapeutic mechanism.
+- Kyphoscoliotic heart disease (0.9943): the most biologically plausible, because kyphoscoliosis can cause chronic hypoxia and secondary pulmonary hypertension. This is a hypothesis only and has not been tested.
+- Migraine with brainstem aura (0.9908): the only evidence is a case report suggesting tadalafil may trigger aura (an adverse-event signal).
 
 ## Clinical Trial Evidence
 
@@ -84,7 +84,7 @@ For reference, the only publication found among the top predictions relates to m
 
 ## US Market Information
 
-All 11 US licenses are listed as cancelled, and none has approved-indication text on record. Five of them are shown below.
+All 11 US licenses are valid, and none has approved-indication text on record. Five of them are shown below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -107,7 +107,7 @@ Please refer to the package insert for official warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no trials or publications (Evidence Level L5). The biological rationale is weak, and the signal may reflect an adverse-effect association (hypertrichosis from vasodilation) rather than a therapeutic one. All US licenses are also cancelled, and the official safety label data is missing.
+The prediction has no trials or publications (Evidence Level L5). The biological rationale is weak, and the signal may reflect an adverse-effect association (hypertrichosis from vasodilation) rather than a therapeutic one. The drug is marketed in the US with 11 valid licenses, but the official safety label data is missing.
 
 **To proceed, the following is needed:**
 - Detailed mechanism of action data (MOA)

@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "QUETIAPINE"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "hydranencephaly (disease)", "distal 17p13.3 microdeletion syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "trichotillomania", "syndromic myopia", "myopia 26, X-linked, female-limited"]
 last_modified_at: 2026-10-14
-description: "Quetiapine: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Bipolar disorder, major affective disorder…"
+description: "Quetiapine: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Quetiapine
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Quetiapine: From Bipolar Disorder and Schizophrenia to Trichotillomania
+## Quetiapine: Retinal dystrophy with or without extraocular anomalies
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ This report therefore covers the top-ranked prediction in the overview table, an
 
 | Item | Content |
 |------|------|
-| Original Indication | Bipolar disorder, major affective disorder, manic bipolar affective disorder, schizophrenia (from the knowledge graph; no label indication text is available) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication (TxGNN rank 1) | Retinal dystrophy with or without extraocular anomalies |
-| TxGNN Prediction Score (rank 1) | 99.57% |
-| Best-Supported Candidate | Trichotillomania (TxGNN score 99.38%, rank 8 of the top 10) |
+| TxGNN Prediction Score (rank 1) | 0.9957 |
+| Best-Supported Candidate | Retinal dystrophy with or without extraocular anomalies |
 | Evidence Level | L5 for the rank 1 prediction (L4 for trichotillomania) |
-| US Market Status | Cancelled only (no currently valid licenses in the data compiled) |
+| US Market Status | Marketed (valid licenses on record: at least 9) |
 | Number of NDAs/ANDAs | 9 (1 NDA, 8 ANDAs; all cancelled) |
 | Recommended Decision | Hold (rank 1); trichotillomania is a research question only |
 
@@ -59,7 +59,7 @@ This report therefore covers the top-ranked prediction in the overview table, an
 
 Detailed mechanism of action data for quetiapine is not available in the data compiled for this report. Based on general pharmacology, quetiapine is an atypical antipsychotic that acts mainly through serotonin (5-HT2A) and dopamine (D2) receptor antagonism. This is general knowledge, not drawn from the supplied data.
 
-**Rank 1 (retinal dystrophy):** No clinical trials or literature were found, and no plausible mechanism links quetiapine to retinal degeneration. The high score is a graph-based prediction only. The same holds for the other top-ranked predictions, such as congenital disorder of glycosylation, hydranencephaly, 17p13.3 microdeletion syndrome, polymicrogyria, X-linked myopia, syndromic myopia, and Charcot-Marie-Tooth type 1G. These are genetic or structural conditions that an antipsychotic is not expected to modify.
+**Rank 1 (retinal dystrophy):** No clinical trials or literature were found, and no plausible mechanism links quetiapine to retinal degeneration. The high score (0.9957) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The same holds for the other top-ranked predictions, such as congenital disorder of glycosylation, hydranencephaly, 17p13.3 microdeletion syndrome, polymicrogyria, X-linked myopia, syndromic myopia, and Charcot-Marie-Tooth type 1G. These are genetic or structural conditions that an antipsychotic is not expected to modify.
 
 **Trichotillomania (rank 8):** This is an obsessive-compulsive-spectrum disorder, and atypical antipsychotics are sometimes used as augmentation in OCD-spectrum conditions, so the idea is plausible. The direction of effect is not clear-cut, though. One report in the literature describes quetiapine exacerbating obsessive-compulsive symptoms in a patient who also had trichotillomania.
 
@@ -82,7 +82,7 @@ No literature is available for the rank 1 prediction. For trichotillomania, the 
 
 ## US Market Information
 
-All nine US authorizations are cancelled. The data compiled for this report does not include approved-indication text.
+The drug is marketed in the US, with nine valid authorizations. The data compiled for this report does not include approved-indication text.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -114,7 +114,6 @@ Package insert warnings and contraindications are not available in the data comp
 **Rationale:**
 - The rank 1 prediction (retinal dystrophy) and the other top-ranked predictions have no trials, no literature, and no plausible mechanism. They are model outputs only (Evidence Level L5).
 - Trichotillomania has a plausible mechanism and a few case reports, but no controlled trials. The evidence is mixed because quetiapine has also been reported to worsen obsessive-compulsive symptoms. It is best treated as a research question, not a candidate for advancement.
-- Quetiapine has no currently valid US licenses in the data compiled, and the safety label data is missing.
 
 **To proceed, the following is needed:**
 - Quetiapine mechanism of action data (for example, from DrugBank)

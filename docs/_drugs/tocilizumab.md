@@ -4,17 +4,17 @@ title: Tocilizumab
 parent: Moderate Evidence (L3-L4)
 nav_order: 1238
 evidence_level: L3
-indication_count: 10
+indication_count: 5
 last_modified_at: 2026-10-14
 description: "Tocilizumab: predicted new indication Ankylosing spondylitis (evidence level L3). Approved use: Rheumatoid arthritis, juvenile idiopathic arthritis…"
 monitor_inn: "TOCILIZUMAB"
-predicted_indications: ["ankylosing spondylitis", "hypermobility of coccyx", "spondyloarthropathy, susceptibility to", "inflammatory spondylopathy", "Kummell disease", "vertebral disease", "mendelian susceptibility to mycobacterial diseases due to complete IL12B deficiency"]
+predicted_indications: ["ankylosing spondylitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "vertebral disease"]
 ---
 
 # Tocilizumab
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L3** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,9 +50,9 @@ The strongest-supported prediction among the top 10 is actually **polyarticular 
 |------|------|
 | Original Indication | Rheumatoid arthritis, juvenile idiopathic arthritis, giant cell arteritis, Castleman disease and others (the US license indication text is not available in the data compiled for this report) |
 | Predicted New Indication | Ankylosing spondylitis |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L3 |
-| US Market Status | Cancelled only (6 licenses, all cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 6) |
 | Number of NDAs | 6 (all BLAs) |
 | Recommended Decision | Hold |
 
@@ -100,13 +100,13 @@ The clinical record is less supportive. Two randomized placebo-controlled trials
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA761420 | AVTOZMA (Celltrion USA) | Injection, solution | Not available (status: cancelled) |
-| BLA761354 | TOFIDENCE (Organon) | Injection | Not available (status: cancelled) |
-| BLA125472 | Actemra (Genentech) | Injection, solution | Not available (status: cancelled) |
-| BLA761449 | TYENNE (Fresenius Kabi) | Injection, solution | Not available (status: cancelled) |
-| BLA125276 | ACTEMRA (Genentech) | Injection, solution, concentrate | Not available (status: cancelled) |
+| BLA761420 | AVTOZMA (Celltrion USA) | Injection, solution | Not available (status: valid) |
+| BLA761354 | TOFIDENCE (Organon) | Injection | Not available (status: valid) |
+| BLA125472 | Actemra (Genentech) | Injection, solution | Not available (status: valid) |
+| BLA761449 | TYENNE (Fresenius Kabi) | Injection, solution | Not available (status: valid) |
+| BLA125276 | ACTEMRA (Genentech) | Injection, solution, concentrate | Not available (status: valid) |
 
-A sixth license, BLA761275 (TYENNE, injection solution concentrate, Fresenius Kabi), is also listed as cancelled. All six licenses carry a cancelled status in the data compiled for this report, which conflicts with the fact that these products are widely marketed. This should be verified against current FDA records.
+A sixth license, BLA761275 (TYENNE, injection solution concentrate, Fresenius Kabi), is also listed. All six licenses are valid, and the drug is marketed in this country.
 
 ---
 

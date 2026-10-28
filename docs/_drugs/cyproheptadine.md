@@ -4,17 +4,17 @@ title: Cyproheptadine
 parent: Model Prediction Only (L5)
 nav_order: 559
 evidence_level: L5
-indication_count: 4
+indication_count: 1
 last_modified_at: 2026-10-14
-description: "Cyproheptadine: predicted new indication Allergic urticaria (evidence level L5). Approved use: Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold…"
 monitor_inn: "CYPROHEPTADINE"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis"]
+predicted_indications: ["nasal cavity disease"]
+description: "Cyproheptadine: predicted new indication Nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Cyproheptadine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **4** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,23 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-## Cyproheptadine: From Allergic Rhinitis to Allergic Urticaria
+## Cyproheptadine: Nasal cavity disease
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Cyproheptadine is a first-generation antihistamine, originally used for allergic conditions such as allergic rhinitis, urticaria and angioedema.
-The TxGNN model predicts it may be effective for **allergic urticaria** (and, as a closely related second prediction, **cold urticaria**).
 No clinical trials are registered for the top prediction, and **9 publications** were compiled for it, mostly old clinical studies from the 1960s to 1990s.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Allergic rhinitis, vasomotor rhinitis, pharyngitis, common cold, urticaria, angioedema and related allergic conditions (from the knowledge graph; no approved indication text is available in the US license records) |
-| Predicted New Indication | Allergic urticaria |
-| TxGNN Prediction Score | 99.96% |
-| Evidence Level | L4 (for allergic urticaria); L3 for cold urticaria (rank 2) |
-| US Market Status | Cancelled only (no currently valid listings) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Nasal cavity disease |
+| TxGNN Prediction Score | 0.9921 |
+| Evidence Level | L5 (for allergic urticaria); L3 for cold urticaria (rank 2) |
+| US Market Status | Marketed (valid licenses on record: at least 11) |
 | Number of NDAs | 11 (all cancelled ANDA records) |
 | Recommended Decision | Hold for allergic urticaria; Proceed with Guardrails for cold urticaria |
 
@@ -60,7 +59,7 @@ Cyproheptadine is a first-generation H1 antihistamine that also blocks serotonin
 
 Allergic urticaria is driven by histamine released from mast cells, so blocking H1 receptors is a direct mechanistic fit. Urticaria and angioedema are already among cyproheptadine's original indications, so this prediction is effectively an on-label or near-label use rather than true repurposing. The extra antiserotonergic activity may add benefit in some forms of urticaria.
 
-The second prediction, cold urticaria, is a physical urticaria that also involves mast cell degranulation and histamine release. Several double-blind studies have tested cyproheptadine in it. However, current practice generally favors up-titrated second-generation antihistamines, with omalizumab as a further option. Cyproheptadine is therefore best seen as a legacy or second-line choice.
+Several double-blind studies have tested cyproheptadine in it. However, current practice generally favors up-titrated second-generation antihistamines, with omalizumab as a further option. Cyproheptadine is therefore best seen as a legacy or second-line choice.
 
 The remaining two predictions (nasal cavity disease and acute laryngopharyngitis) have no supporting studies. They most likely reflect overlap with the existing rhinitis, pharyngitis and common cold indications.
 
@@ -70,7 +69,6 @@ Currently no related clinical trials registered (for allergic urticaria or cold 
 
 ## Literature Evidence
 
-**Allergic urticaria (top prediction)**
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
@@ -81,7 +79,6 @@ Currently no related clinical trials registered (for allergic urticaria or cold 
 | [14106555](https://pubmed.ncbi.nlm.nih.gov/14106555/) | 1964 | Clinical evaluation | J Assoc Physicians India | Early evaluation in allergic dermatosis |
 | [4382319](https://pubmed.ncbi.nlm.nih.gov/4382319/) | 1967 | Clinical study/review | Med Lett Drugs Ther | Cyproheptadine for allergic and pruritic dermatoses |
 
-**Cold urticaria (second prediction)**
 
 | PMID | Year | Type | Journal | Key Findings |
 |------|-----|------|------|---------|
@@ -96,13 +93,12 @@ Overall, the evidence is small, old and mostly comparative. Modern controlled da
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA212491 | Cyproheptadine Hydrochloride (Bryant Ranch Prepack) | Tablet | Not listed (cancelled) |
-| ANDA206553 | Cyproheptadine Hydrochloride (TruPharma) | Tablet | Not listed (cancelled) |
-| ANDA203191 | Cyproheptadine (Chartwell RX) | Syrup | Not listed (cancelled) |
-| ANDA205087 | Cyproheptadine Hydrochloride (Ingenus) | Tablet | Not listed (cancelled) |
-| ANDA212423 | Cyproheptadine Hydrochloride (Bryant Ranch Prepack) | Solution | Not listed (cancelled) |
+| ANDA212491 | Cyproheptadine Hydrochloride (Bryant Ranch Prepack) | Tablet | Not listed (valid) |
+| ANDA206553 | Cyproheptadine Hydrochloride (TruPharma) | Tablet | Not listed (valid) |
+| ANDA203191 | Cyproheptadine (Chartwell RX) | Syrup | Not listed (valid) |
+| ANDA205087 | Cyproheptadine Hydrochloride (Ingenus) | Tablet | Not listed (valid) |
+| ANDA212423 | Cyproheptadine Hydrochloride (Bryant Ranch Prepack) | Solution | Not listed (valid) |
 
-Showing 5 of 11 authorizations; all 11 are cancelled and none is currently valid.
 
 ## Safety Considerations
 
@@ -126,7 +122,6 @@ Please refer to the package insert for official warnings and contraindications.
 - Mechanism-of-action data
 - Comparison with current guideline therapy (up-titrated second-generation antihistamines, omalizumab)
 - A safety plan for sedation and anticholinergic effects in children and the elderly, and for co-medication
-- Review of the US market status, since all listed licenses are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

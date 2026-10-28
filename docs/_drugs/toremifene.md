@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **HIV infectious disease**, but
 |------|------|
 | Original Indication | Not stated in the compiled data (all license records have empty indication text) |
 | Predicted New Indication | HIV infectious disease |
-| TxGNN Prediction Score | 99.41% |
+| TxGNN Prediction Score | 0.9941 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all licenses cancelled) |
-| Number of NDAs | 3 (1 NDA and 2 ANDAs, all cancelled) |
+| US Market Status | Marketed (valid licenses: 3 of 3) |
+| Number of NDAs | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ---
@@ -63,7 +63,7 @@ Currently, detailed mechanism of action data is not available. Toremifene is a k
 
 The only linked publication (PMID 24520056, 2014) shows that estrogen receptor antagonists related to tamoxifen and toremifene have antifungal activity against *Cryptococcus*. They appear to act by binding EF-hand proteins such as calmodulin, and they synergize with fluconazole and amphotericin B in vitro. Cryptococcal meningitis is a major opportunistic infection in people with HIV/AIDS.
 
-This evidence does **not** show activity against HIV itself. At most, it suggests a possible adjunctive role against an opportunistic infection in people living with HIV. The very high TxGNN score (99.41%) is a computational prediction only and should not be read as clinical support.
+This evidence does **not** show activity against HIV itself. At most, it suggests a possible adjunctive role against an opportunistic infection in people living with HIV. The very high TxGNN score (0.9941) is a computational prediction only and should not be read as clinical support.
 
 ---
 
@@ -85,9 +85,9 @@ Currently no related clinical trials registered.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA020497 | Fareston (Kyowa Kirin, Inc.) | Tablet | Not available; status cancelled |
-| ANDA208813 | Toremifene citrate (Rising Pharma Holdings, Inc.) | Tablet | Not available; status cancelled |
-| ANDA212818 | Toremifene citrate (Novadoz Pharmaceuticals LLC) | Tablet | Not available; status cancelled |
+| NDA020497 | Fareston (Kyowa Kirin, Inc.) | Tablet | Not available; status valid |
+| ANDA208813 | Toremifene citrate (Rising Pharma Holdings, Inc.) | Tablet | Not available; status valid |
+| ANDA212818 | Toremifene citrate (Novadoz Pharmaceuticals LLC) | Tablet | Not available; status valid |
 
 ---
 
@@ -127,13 +127,13 @@ For label-based warnings and contraindications, please refer to the package inse
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a computational score and a single preclinical antifungal paper that does not show anti-HIV activity. There are no clinical trials, the evidence level is L5, and all US licenses are cancelled.
+The prediction rests only on a computational score and a single preclinical antifungal paper that does not show anti-HIV activity. There are no clinical trials, the evidence level is L5, and the drug is marketed in the US with 3 of 3 licenses valid.
 
 **To proceed, the following is needed:**
 - Direct evidence of anti-HIV activity, or a clearly defined adjunctive role in cryptococcal infection among people with HIV (in vitro, animal, then clinical studies)
 - Mechanism of action data
 - FDA package insert warnings and contraindications for formal safety screening, with particular attention to QT prolongation and its interactions with antiretroviral and antifungal drugs
-- Clarification of the original approved indication and of the commercial availability of toremifene, since all US licenses are cancelled
+- Clarification of the original approved indication and of the commercial availability of toremifene, which is marketed in the US with 3 of 3 licenses valid
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

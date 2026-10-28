@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "LOMUSTINE"
 predicted_indications: ["lymphosarcoma", "malignant tumor of meninges", "spinal cord cancer", "cerebral neuroblastoma", "pediatric cerebral ependymoblastoma", "pediatric infratentorial ependymoblastoma", "childhood brain germinoma", "cerebellopontine angle embryonal tumor", "lymph node cancer", "cerebral sarcoma"]
 last_modified_at: 2026-10-14
-description: "Lomustine: predicted new indication Lymphosarcoma (evidence level L2). Approved use: Hodgkin lymphoma and brain tumors"
+description: "Lomustine: predicted new indication Lymphosarcoma (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
 # Lomustine
@@ -33,7 +33,7 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-## Lomustine: From Hodgkin Lymphoma and Brain Tumors to Lymphosarcoma
+## Lomustine: Lymphosarcoma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,12 +47,12 @@ The TxGNN model predicts it may be effective for **Lymphosarcoma** (non-Hodgkin 
 
 | Item | Content |
 |------|------|
-| Original Indication | Hodgkin lymphoma and brain tumors (as listed in the knowledge graph; no approved-indication text is available in the US license records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Lymphosarcoma |
-| TxGNN Prediction Score | 99.90% |
+| TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L2 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 2 (both cancelled) |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ---
@@ -104,8 +104,8 @@ Most direct human evidence comes from oral combination regimens, such as lomusti
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA017588 | Gleostine (Azurity Pharmaceuticals) | Capsule, gelatin coated | Not available (cancelled) |
-| ANDA219265 | Lomustine (Carnegie Pharmaceuticals) | Capsule | Not available (cancelled) |
+| NDA017588 | Gleostine (Azurity Pharmaceuticals) | Capsule, gelatin coated | Not available (valid) |
+| ANDA219265 | Lomustine (Carnegie Pharmaceuticals) | Capsule | Not available (valid) |
 
 ---
 
@@ -135,7 +135,7 @@ Package insert warnings and contraindications were not available and should be r
 **Decision: Hold**
 
 **Rationale:**
-Human evidence for lymphosarcoma consists of small Phase 2 combination-regimen trials (the largest completed one enrolled 54 patients), several withdrawn or terminated trials, and mostly veterinary literature. All current US licenses are cancelled, and label safety data are missing. Lomustine's effect cannot be separated from its partner drugs. The Evidence Level (L2) is based on the highest-level evidence found, and it does not outweigh these gaps.
+Human evidence for lymphosarcoma consists of small Phase 2 combination-regimen trials (the largest completed one enrolled 54 patients), several withdrawn or terminated trials, and mostly veterinary literature. The drug is marketed in the US, with 2 valid licenses of 2, and label safety data are missing. Lomustine's effect cannot be separated from its partner drugs. The Evidence Level (L2) is based on the highest-level evidence found, and it does not outweigh these gaps.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications

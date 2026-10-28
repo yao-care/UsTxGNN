@@ -48,17 +48,17 @@ but currently there are **0 clinical trials** and only **1 loosely related publi
 |------|------|
 | Original Indication | Not listed in the data compiled for this report (generally used for relapsing multiple sclerosis) |
 | Predicted New Indication | Hemoglobinopathy |
-| TxGNN Prediction Score | 99.03% |
+| TxGNN Prediction Score | 0.9903 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all licenses cancelled) |
-| Number of NDAs | 9 (1 NDA, 8 ANDAs) |
+| US Market Status | Marketed (valid licenses: 9 of 9) |
+| Number of NDAs | 9 (valid: 9) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge, glatiramer acetate is an immunomodulator that shifts T-cell responses toward a Th2 phenotype and induces regulatory T cells. It is used in multiple sclerosis.
 
-No plausible direct mechanistic link to hemoglobinopathies (such as sickle cell disease or thalassemia) has been established. The only linked publication (PMID 28372806) is a case-based commentary on immune disorders after natalizumab discontinuation in an MS patient who also had beta thalassemia. It does not evaluate glatiramer in hemoglobinopathy. The very high TxGNN score is therefore most likely a graph-proximity artifact from shared immune-related nodes rather than evidence of efficacy.
+No plausible direct mechanistic link to hemoglobinopathies (such as sickle cell disease or thalassemia) has been established. The only linked publication (PMID 28372806) is a case-based commentary on immune disorders after natalizumab discontinuation in an MS patient who also had beta thalassemia. It does not evaluate glatiramer in hemoglobinopathy. The very high score (0.9903) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Clinical Trial Evidence
 
@@ -72,15 +72,15 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All nine authorizations are cancelled, and no approved indication text is available in the data compiled for this report.
+The drug is marketed in the US, with 9 of 9 licenses valid, and no approved indication text is available in the data compiled for this report.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA020622 | Copaxone (Teva Neuroscience) | Injection, solution | Not available (cancelled) |
-| ANDA090218 | Glatopa (Sandoz) | Injection, solution | Not available (cancelled) |
-| ANDA091646 | Glatiramer Acetate (Mylan) | Injection, solution | Not available (cancelled) |
-| ANDA206936 | Glatiramer Acetate (Mylan) | Injection, solution | Not available (cancelled) |
-| ANDA203857 | Glatiramer Acetate (Sun Pharmaceutical) | Injection, solution | Not available (cancelled) |
+| NDA020622 | Copaxone (Teva Neuroscience) | Injection, solution | Not available (valid) |
+| ANDA090218 | Glatopa (Sandoz) | Injection, solution | Not available (valid) |
+| ANDA091646 | Glatiramer Acetate (Mylan) | Injection, solution | Not available (valid) |
+| ANDA206936 | Glatiramer Acetate (Mylan) | Injection, solution | Not available (valid) |
+| ANDA203857 | Glatiramer Acetate (Sun Pharmaceutical) | Injection, solution | Not available (valid) |
 
 ## Safety Considerations
 
@@ -93,14 +93,14 @@ For other safety information, please refer to the package insert.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a graph-based model score. There are no clinical trials, the single linked publication does not study glatiramer in hemoglobinopathy, and no mechanistic link is established. All US licenses are cancelled, which further limits translational feasibility.
+The prediction rests only on a score from the TxGNN model (deep learning). There are no clinical trials, the single linked publication does not study glatiramer in hemoglobinopathy, and no mechanistic link is established.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (currently blocking safety screening)
 - Mechanism of action data (e.g., from DrugBank)
 - Preclinical or mechanistic evidence linking glatiramer's immunomodulation to hemoglobinopathy pathophysiology
 - Clarification of which hemoglobinopathy (sickle cell disease, thalassemia, etc.) is targeted, and of the route and formulation requirements
-- Confirmation of current regulatory and market status, since all US licenses are cancelled
+- Confirmation of current regulatory and market status (9 of 9 US licenses are currently valid)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

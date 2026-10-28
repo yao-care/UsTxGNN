@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # 1 2-Distearoyl-Sn-Glycero-3-Phosphocholine Activat
@@ -49,7 +50,7 @@ This candidate is a 13-component mixture whose ingredients span activated charco
 | Predicted New Indication | None — TxGNN returned no output |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (model prediction only) — but no prediction was produced |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 14) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

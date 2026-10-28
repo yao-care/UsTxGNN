@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "LITHIUM CARBONATE"
 predicted_indications: ["pseudoachondroplasia", "acromesomelic dysplasia, Hunter-Thompson type", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia", "myosclerosis", "brachyolmia-amelogenesis imperfecta syndrome", "brachydactyly-syndactyly syndrome", "Behr syndrome", "WHIM syndrome", "combined immunodeficiency due to moesin deficiency"]
 last_modified_at: 2026-10-14
-description: "Lithium Carbonate: predicted new indication Pseudoachondroplasia (evidence level L5). Approved use: Bipolar disorder"
+description: "Lithium Carbonate: predicted new indication Pseudoachondroplasia (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Lithium Carbonate
@@ -33,12 +33,12 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Lithium Carbonate: From Bipolar Disorder to Pseudoachondroplasia
+## Lithium Carbonate: Pseudoachondroplasia
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Lithium carbonate is a mood stabiliser, originally used for bipolar disorder and related affective disorders, and the knowledge graph also links it to several arthropathies.
+Lithium carbonate is a mood stabilizer, originally used for bipolar disorder and related affective disorders, and the TxGNN model (deep learning) also predicts it for several arthropathies; these predictions may reflect similarities the model learned between related diseases, not biological evidence.
 The TxGNN model predicts it may be effective for **Pseudoachondroplasia**, a rare skeletal dysplasia, but **0 clinical trials** and **0 publications** currently support this direction.
 This is a model-only prediction with no direct supporting evidence.
 
@@ -48,11 +48,11 @@ This is a model-only prediction with no direct supporting evidence.
 
 | Item | Content |
 |------|------|
-| Original Indication | Bipolar disorder (also major affective disorder, manic bipolar affective disorder, and several arthropathies in the knowledge graph) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Pseudoachondroplasia |
-| TxGNN Prediction Score | 99.98% |
+| TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licences in the data compiled for this report) |
+| US Market Status | Marketed (valid licenses on record: at least 10) |
 | Number of NDAs | 10 authorisation records (2 NDAs and 7 ANDAs, plus 1 record without a number) |
 | Recommended Decision | Hold |
 
@@ -62,11 +62,11 @@ This is a model-only prediction with no direct supporting evidence.
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, lithium inhibits GSK-3β and modulates Wnt/β-catenin signalling. This pathway influences chondrocyte differentiation and skeletal cell stress responses.
 
-Pseudoachondroplasia is caused by COMP mutations, which lead to endoplasmic reticulum stress in chondrocytes and defects in the extracellular matrix. The model's link likely comes from lithium's association with arthropathies (rheumatoid arthritis, osteoarthritis, juvenile idiopathic arthritis, spondyloarthropathy) in the knowledge graph. These share network neighbours with skeletal disorders.
+Pseudoachondroplasia is caused by COMP mutations, which lead to endoplasmic reticulum stress in chondrocytes and defects in the extracellular matrix. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, such as the arthropathies associated with lithium (rheumatoid arthritis, osteoarthritis, juvenile idiopathic arthritis, spondyloarthropathy) and skeletal disorders, not biological evidence.
 
 No direct evidence connects lithium to COMP-related pathology, so the mechanistic rationale is speculative.
 
-**Other predictions of note:** The other top-ranked predictions are also model-only, with scores from 99.29% to 99.96%. They include acromesomelic dysplasia (Hunter-Thompson type), brachyolmia, myosclerosis, Behr syndrome, WHIM syndrome and moesin-deficiency immunodeficiency. Only brachyolmia-amelogenesis imperfecta syndrome has an associated paper, and it is a general review with no lithium-specific data. Lithium's known teratogenicity concern argues for caution in the developmental skeletal conditions.
+**Other predictions of note:** The other top-ranked predictions are also model-only, with scores from 0.9929 to 0.9996. They include acromesomelic dysplasia (Hunter-Thompson type), brachyolmia, myosclerosis, Behr syndrome, WHIM syndrome and moesin-deficiency immunodeficiency. Only brachyolmia-amelogenesis imperfecta syndrome has an associated paper, and it is a general review with no lithium-specific data. Lithium's known teratogenicity concern argues for caution in the developmental skeletal conditions.
 
 ---
 
@@ -86,13 +86,13 @@ Currently no related literature available for pseudoachondroplasia.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA017812 | Lithium Carbonate (Cardinal Health 107) | Capsule, gelatin coated | Not stated; status cancelled |
-| NDA018558 | Lithium Carbonate (Hikma) | Tablet | Not stated; status cancelled |
-| ANDA204779 | Lithium Carbonate (RemedyRepack) | Tablet, extended release | Not stated; status cancelled |
-| ANDA076832 | Lithium Carbonate (Hikma) | Tablet, extended release | Not stated; status cancelled |
-| ANDA079159 | Lithium Carbonate (Alembic) | Capsule | Not stated; status cancelled |
+| NDA017812 | Lithium Carbonate (Cardinal Health 107) | Capsule, gelatin coated | Not stated; status valid |
+| NDA018558 | Lithium Carbonate (Hikma) | Tablet | Not stated; status valid |
+| ANDA204779 | Lithium Carbonate (RemedyRepack) | Tablet, extended release | Not stated; status valid |
+| ANDA076832 | Lithium Carbonate (Hikma) | Tablet, extended release | Not stated; status valid |
+| ANDA079159 | Lithium Carbonate (Alembic) | Capsule | Not stated; status valid |
 
-All 10 authorisation records in the data are marked cancelled, with no currently valid single-ingredient or combination licences. Cancelled status in this dataset may not reflect actual marketing, so it should be verified against current FDA records.
+Cancelled status in this dataset may not reflect actual marketing, so it should be verified against current FDA records.
 
 ---
 

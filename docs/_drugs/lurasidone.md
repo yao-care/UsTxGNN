@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Lurasidone
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 878
-evidence_level: L3
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Lurasidone: predicted new indication Manic bipolar affective disorder (evidence level L3). Approved use: Bipolar disorder, schizophrenia"
 monitor_inn: "LURASIDONE"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia X-linked", "syndromic myopia", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy"]
+description: "Lurasidone: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Lurasidone
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,23 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-## Lurasidone: From Bipolar Disorder and Schizophrenia to Manic Bipolar Affective Disorder
+## Lurasidone: Retinal dystrophy with or without extraocular anomalies
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Lurasidone is an atypical antipsychotic originally used to treat bipolar disorder (bipolar depression) and schizophrenia.
-The TxGNN model predicts it may be effective for **manic bipolar affective disorder**,
 but the evidence is thin: the only registered trial (**1 clinical trial**) was withdrawn with no participants, and the **20 publications** are mostly guidelines, reviews and meta-analyses that support the drug indirectly.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Bipolar disorder, schizophrenia (from the knowledge graph; no approved-indication text is available in the US license records) |
-| Predicted New Indication | Manic bipolar affective disorder |
-| TxGNN Prediction Score | 99.98% |
-| Evidence Level | L3 |
-| US Market Status | Cancelled only (all licenses are listed as cancelled) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
+| TxGNN Prediction Score | 0.9995 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 12) |
 | Number of NDAs | 12 (all generic ANDAs) |
 | Recommended Decision | Hold |
 
@@ -85,7 +84,7 @@ One caution: a case report (PMID 31298818) describes lurasidone-induced mania, w
 
 ## US Market Information
 
-The 12 licenses are all generic ANDAs, and all are listed as cancelled. No approved-indication text is recorded for any of them. The table shows 5 of the 12.
+No approved-indication text is recorded for any of them. The table shows 5 of the 12.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -117,13 +116,11 @@ Package insert warnings were not available in the data compiled for this report.
 
 **Rationale:**
 - The only trial for the predicted indication was withdrawn with no participants, and the literature addresses bipolar depression or bipolar disorder in general rather than mania specifically. The antimanic rationale rests on class effects.
-- All 12 US licenses are cancelled, and the package insert warnings and the mechanism of action data are missing.
 - Nine other predicted indications (for example retinal dystrophy, hydranencephaly and several myopia subtypes) have high model scores but no trials or literature, and they have no plausible pharmacological rationale. They are all rated Hold.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and the package insert's warnings and contraindications
 - Controlled trials of lurasidone in acute mania (adult and pediatric), or a review of existing data
-- Current US marketing status, since all licenses are listed as cancelled
 - A safety plan covering metabolic, cardiovascular and hematologic risks, along with the major drug interactions
 ## Disclaimer
 

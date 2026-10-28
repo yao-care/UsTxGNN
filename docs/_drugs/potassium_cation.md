@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "POTASSIUM CATION"
 predicted_indications: ["hypertensive disorder", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "malignant renovascular hypertension", "Braddock syndrome"]
 last_modified_at: 2026-10-14
-description: "Potassium Cation: predicted new indication Hypertensive disorder (evidence level L5). Approved use: Not recorded"
+description: "Potassium Cation: predicted new indication Hypertensive disorder (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Potassium Cation
@@ -33,25 +33,25 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-## Potassium Cation: From an Unspecified Original Indication to Hypertensive Disorder
+## Potassium Cation: Hypertensive disorder
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Potassium cation is a generic ion/nutrient entry rather than a defined drug product, and no original approved indication is recorded for it in the data compiled for this report.
-The TxGNN model predicts it may be effective for **hypertensive disorder**, with a very high score (99.2%).
+The TxGNN model predicts it may be effective for **hypertensive disorder**, with a very high score (0.9920).
 However, there are currently **0 clinical trials** and **0 publications** supporting this prediction, so it rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded (the only US license has no approved indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Hypertensive disorder |
-| TxGNN Prediction Score | 99.20% |
+| TxGNN Prediction Score | 0.9920 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 (cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -64,11 +64,11 @@ Other predicted indications are weaker still:
 
 | Rank | Predicted Indication | TxGNN Score | Comment |
 |---|---|---|---|
-| 2 | Pulmonary hypertension owing to lung disease and/or hypoxia | 99.15% | Potassium channel biology is involved in hypoxic pulmonary vasoconstriction, but that is not the same as potassium supplementation |
-| 3 | Pulmonary hypertension with unclear multifactorial mechanism | 99.15% | Identical score to rank 2, suggesting a shared graph neighborhood rather than independent evidence |
-| 4 | Malignant hypertensive renal disease | 99.11% | Hyperkalemia risk in renal impairment likely outweighs any speculative benefit |
-| 5 | Malignant renovascular hypertension | 99.11% | Potassium disturbances here are complications to correct, not a disease-modifying mechanism |
-| 6 | Braddock syndrome | 99.01% | Very rare condition; no plausible mechanistic link evident |
+| 2 | Pulmonary hypertension owing to lung disease and/or hypoxia | 0.9915 | Potassium channel biology is involved in hypoxic pulmonary vasoconstriction, but that is not the same as potassium supplementation |
+| 3 | Pulmonary hypertension with unclear multifactorial mechanism | 0.9915 | Identical score to rank 2; the score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence |
+| 4 | Malignant hypertensive renal disease | 0.9911 | Hyperkalemia risk in renal impairment likely outweighs any speculative benefit |
+| 5 | Malignant renovascular hypertension | 0.9911 | Potassium disturbances here are complications to correct, not a disease-modifying mechanism |
+| 6 | Braddock syndrome | 0.9901 | Very rare condition; no plausible mechanistic link evident |
 
 ## Clinical Trial Evidence
 
@@ -95,7 +95,7 @@ No drug interaction records were found. In the renal-related predictions (ranks 
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high, but the evidence level is L5 (model prediction only), with no trials, no literature, no mechanism data and no active US license. Potassium cation is a generic entry rather than a specific product, so the prediction cannot yet be turned into a testable drug candidate.
+Potassium cation is a generic entry rather than a specific product, so the prediction cannot yet be turned into a testable drug candidate.
 
 **To proceed, the following is needed:**
 - Selection of specific potassium salt formulations (e.g., potassium chloride, potassium citrate) to evaluate

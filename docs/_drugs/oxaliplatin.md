@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "OXALIPLATIN"
 predicted_indications: ["malignant pleural mesothelioma", "malignant epithelioid mesothelioma", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
 last_modified_at: 2026-10-14
-description: "Oxaliplatin: predicted new indication Malignant pleural mesothelioma (evidence level L2). Approved use: Metastasis from malignant tumor of colon"
+description: "Oxaliplatin: predicted new indication Malignant pleural mesothelioma (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
 # Oxaliplatin
@@ -33,7 +33,7 @@ Evidence Level: **L2** | Predicted Indications: **4**
 
 </div>
 
-## Oxaliplatin: From Metastatic Colon Cancer to Malignant Pleural Mesothelioma
+## Oxaliplatin: Malignant pleural mesothelioma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ with **3 clinical trials** (2 directly relevant Phase 2 studies) and **20 public
 
 | Item | Content |
 |------|------|
-| Original Indication | Metastasis from malignant tumor of colon (from the knowledge graph; no approved indication text is available in the US license records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Malignant pleural mesothelioma |
-| TxGNN Prediction Score | 99.68% |
+| TxGNN Prediction Score | 0.9968 |
 | Evidence Level | L2 |
-| US Market Status | Cancelled only (all 9 licenses cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 9) |
 | Number of NDAs | 9 (all are ANDA generic applications) |
 | Recommended Decision | Hold (research question) |
 
@@ -119,7 +119,7 @@ Please refer to the package insert for official warnings and contraindications.
 **Decision: Hold (research question)**
 
 **Rationale:**
-Several Phase 2 studies show oxaliplatin-based combinations have some activity in pleural mesothelioma, but they are small and non-randomized. One second-line study found no objective responses. No Phase 3 trial shows an advantage over standard cisplatin/pemetrexed. Also, all US oxaliplatin licenses are cancelled, which complicates any near-term development path.
+Several Phase 2 studies show oxaliplatin-based combinations have some activity in pleural mesothelioma, but they are small and non-randomized. One second-line study found no objective responses. No Phase 3 trial shows an advantage over standard cisplatin/pemetrexed. Also, only some US oxaliplatin licenses are valid (9 valid licenses are currently marketed), which complicates any near-term development path.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications, which are currently missing and block safety screening

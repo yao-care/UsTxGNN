@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "PROCHLORPERAZINE"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "syndromic myopia", "myopia 26, X-linked, female-limited", "atypical glycine encephalopathy", "manic bipolar affective disorder"]
 last_modified_at: 2026-10-14
-description: "Prochlorperazine: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Schizophrenia"
+description: "Prochlorperazine: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Prochlorperazine
@@ -33,12 +33,12 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Prochlorperazine: From Schizophrenia to Retinal Dystrophy (Top TxGNN Prediction)
+## Prochlorperazine: Retinal dystrophy with or without extraocular anomalies
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Prochlorperazine is a phenothiazine antipsychotic and antiemetic, listed in the knowledge graph as originally indicated for schizophrenia.
+Prochlorperazine is a phenothiazine antipsychotic and antiemetic, originally indicated for schizophrenia.
 The TxGNN model's top-ranked prediction is **retinal dystrophy with or without extraocular anomalies**, but this prediction has **0 clinical trials** and **0 publications** behind it.
 The only prediction with any supporting literature is **manic bipolar affective disorder** (rank 10), which has **7 publications**, mostly old or indirect, and no registered trials.
 
@@ -46,11 +46,11 @@ The only prediction with any supporting literature is **manic bipolar affective 
 
 | Item | Content |
 |------|------|
-| Original Indication | Schizophrenia (from the knowledge graph; no approved indication text is available in the US license records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
-| TxGNN Prediction Score | 99.998% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 11) |
 | Number of NDAs | 11 (all cancelled; these are ANDA generic applications) |
 | Recommended Decision | Hold |
 
@@ -62,7 +62,7 @@ The high TxGNN score reflects a computational prediction only. No trials or lite
 
 The other top-ranked predictions are similarly unsupported: hydranencephaly, a congenital disorder of glycosylation, X-linked myopia, Charcot-Marie-Tooth disease type 1G, perisylvian polymicrogyria, syndromic myopia, X-linked female-limited myopia 26, and atypical glycine encephalopathy. All are rare congenital or genetic conditions with no plausible disease-modifying role for a D2 antagonist.
 
-The one biologically plausible prediction is **manic bipolar affective disorder** (score 99.979%, rank 10). Its D2 antagonism is shared with antipsychotics used for acute mania and agitation. It is the closest to the original psychiatric use, but the supporting evidence is indirect (see below).
+The one biologically plausible prediction is **manic bipolar affective disorder** (score 0.9998, rank 10). Its D2 antagonism is shared with antipsychotics used for acute mania and agitation. It is the closest to the original psychiatric use, but the supporting evidence is indirect (see below).
 
 ## Clinical Trial Evidence
 
@@ -86,7 +86,7 @@ None of these provides controlled efficacy data for prochlorperazine in mania.
 
 ## US Market Information
 
-All 11 US authorizations are cancelled, and none has approved indication text on record.
+The drug is marketed in the US with 11 valid authorizations, and none has approved indication text on record.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -118,13 +118,12 @@ Not applicable. Prochlorperazine is not an antineoplastic drug, so this section 
 **Decision: Hold**
 
 **Rationale:**
-The top-ranked prediction (retinal dystrophy) is supported only by a model score, with no trials, no literature and no mechanistic link (Evidence Level L5). The only plausible direction, manic bipolar affective disorder, has only indirect, largely historical evidence (Level L4), and newer antipsychotics are established alternatives. All US licenses are cancelled and the interaction burden is large.
+The top-ranked prediction (retinal dystrophy) is supported only by a model score, with no trials, no literature and no mechanistic link (Evidence Level L5). The only plausible direction, manic bipolar affective disorder, has only indirect, largely historical evidence (Level L4), and newer antipsychotics are established alternatives. The drug is marketed in the US with 11 valid licenses, and the interaction burden is large.
 
 **To proceed, the following is needed:**
 - Package-insert warnings and contraindications (currently a blocking gap for safety screening)
 - Mechanism of action data (for example from DrugBank)
 - For bipolar mania: a systematic search for controlled efficacy data specific to prochlorperazine, followed by a comparison against current antipsychotics
-- Clarification of the regulatory and supply situation, since no valid US license currently exists
 - A mechanistic rationale and preclinical evidence before any further consideration of the retinal or other rare-disease predictions
 ## Disclaimer
 

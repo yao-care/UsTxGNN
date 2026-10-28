@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Elagolix
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 645
-evidence_level: L4
+evidence_level: L5
 indication_count: 1
 monitor_inn: "ELAGOLIX"
 predicted_indications: ["amenorrhea (disease)"]
@@ -14,7 +14,7 @@ description: "Elagolix: predicted new indication Amenorrhea (evidence level L4).
 # Elagolix
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **1** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ Amenorrhea appears to be an expected pharmacological effect of the drug rather t
 |------|------|
 | Original Indication | Endometriosis (including endometriosis of the uterus) |
 | Predicted New Indication | Amenorrhea |
-| TxGNN Prediction Score | 99.75% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 1 |
+| TxGNN Prediction Score | 0.9975 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -91,7 +91,7 @@ The publications below concern elagolix in uterine fibroids and heavy menstrual 
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA210450 | Orilissa (AbbVie Inc.) | Tablet, film coated (oral) | Not specified in the available data; status: cancelled |
+| NDA210450 | Orilissa (AbbVie Inc.) | Tablet, film coated (oral) | Not specified in the available data; status: valid |
 
 ---
 

@@ -47,19 +47,19 @@ The TxGNN model predicts it may be effective for **congenital prothrombin defici
 |------|------|
 | Original Indication | Vitamin deficiency disorder / vitamin A deficiency |
 | Predicted New Indication | Congenital prothrombin deficiency |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid authorizations) |
+| US Market Status | Marketed (valid licenses on record: at least 4) |
 | Number of NDAs | 4 (all cancelled) |
 | Recommended Decision | Hold |
 
-*Note: The original indication comes from the TxGNN knowledge graph. The US authorization records compiled for this report contain no approved-indication text.*
+*Note: The original indication is not listed in the TxGNN model's output. The US authorization records compiled for this report contain no approved-indication text.*
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, vitamin A (retinol) is an essential nutrient. Its role in correcting vitamin A deficiency is well established, and its active metabolites act through retinoic acid signaling to support vision, epithelial differentiation, and immune function.
 
-The mechanistic link to the predicted indication is weak. Prothrombin (factor II) synthesis depends on vitamin K, not vitamin A, and congenital prothrombin deficiency is an inherited disorder of the gene encoding prothrombin. No established role for vitamin A in this pathway was identified. The high model score most likely reflects the general "vitamin/nutritional disorder" neighborhood in the knowledge graph rather than a true therapeutic relationship.
+The mechanistic link to the predicted indication is weak. Prothrombin (factor II) synthesis depends on vitamin K, not vitamin A, and congenital prothrombin deficiency is an inherited disorder of the gene encoding prothrombin. No established role for vitamin A in this pathway was identified. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Clinical Trial Evidence
 
@@ -71,14 +71,14 @@ Currently no related literature available.
 
 ## US Market Information
 
-All four US authorizations on record are cancelled.
+The drug is marketed in the US, and all four US authorizations on record are valid.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| NDA006823 | AQUASOL A | Injection, solution | Cancelled |
-| M016 | SKINEEZ | Cloth | Cancelled |
+| NDA006823 | AQUASOL A | Injection, solution | Valid |
+| M016 | SKINEEZ | Cloth | Valid |
 | Not available | Tri-Vite Drops with Fluoride | Solution | Cancelled |
-| 505G(a)(3) | NOAVIA Retinol Moisturizer | Cream | Cancelled |
+| 505G(a)(3) | NOAVIA Retinol Moisturizer | Cream | Valid |
 
 ## Safety Considerations
 
@@ -95,12 +95,12 @@ Package insert warnings and contraindications were not available for this report
 **Decision: Hold**
 
 **Rationale:**
-The prediction for congenital prothrombin deficiency has no supporting trials or literature, and its biological rationale conflicts with known biology, since prothrombin synthesis is vitamin K-dependent. In addition, all US authorizations are cancelled.
+The prediction for congenital prothrombin deficiency has no supporting trials or literature, and its biological rationale conflicts with known biology, since prothrombin synthesis is vitamin K-dependent. In addition, the drug is marketed in the US with four valid authorizations.
 
 **To proceed, the following is needed:**
 - Mechanistic evidence for any role of vitamin A in prothrombin expression or function.
 - Mechanism of action data and package insert safety information.
-- A review of the other predicted indications. In this dataset, **perinatal disease** (score 99.63%) has the most substantial support. Cochrane systematic reviews of RCTs suggest vitamin A supplementation in very-low-birth-weight infants may reduce death or bronchopulmonary dysplasia. Its benefit is modest and practicality is limited by the route and supply. It is a better candidate for further research than the top-ranked prediction.
+- A review of the other predicted indications. In this dataset, **perinatal disease** (score 0.9963) has the most substantial support. Cochrane systematic reviews of RCTs suggest vitamin A supplementation in very-low-birth-weight infants may reduce death or bronchopulmonary dysplasia. Its benefit is modest and practicality is limited by the route and supply. It is a better candidate for further research than the top-ranked prediction.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

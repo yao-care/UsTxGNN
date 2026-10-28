@@ -4,17 +4,17 @@ title: Fluorometholone
 parent: Model Prediction Only (L5)
 nav_order: 722
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Fluorometholone: predicted new indication Postinfectious vasculitis (evidence level L5). Approved use: Uveitis and other ocular inflammatory conditions (iridocyclitis…"
 monitor_inn: "FLUOROMETHOLONE"
-predicted_indications: ["postinfectious vasculitis", "post-bacterial disorder", "otitis externa", "infective urethral stricture", "post-infectious syndrome", "punctate epithelial keratoconjunctivitis", "infection-related hemolytic uremic syndrome", "Chagas cardiomyopathy", "lens-induced iridocyclitis", "glaucomatocyclitic crisis"]
+predicted_indications: ["postinfectious vasculitis", "post-bacterial disorder", "otitis externa", "infective urethral stricture", "post-infectious syndrome", "punctate epithelial keratoconjunctivitis", "infection-related hemolytic uremic syndrome", "Chagas cardiomyopathy", "glaucomatocyclitic crisis"]
+description: "Fluorometholone: predicted new indication Postinfectious vasculitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Fluorometholone
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Fluorometholone: From Uveitis and Ocular Inflammation to Postinfectious Vasculitis
+## Fluorometholone: Postinfectious vasculitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,12 +48,12 @@ but **no clinical trials and no publications** currently support this prediction
 
 | Item | Content |
 |------|------|
-| Original Indication | Uveitis and other ocular inflammatory conditions (iridocyclitis, atopic/vernal conjunctivitis, corneal ulcer, among others). The market-authorization records compiled for this report contain no approved-indication text. |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Postinfectious vasculitis |
-| TxGNN Prediction Score | 99.91% |
+| TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all authorizations cancelled) |
-| Number of NDAs | 4 (4 cancelled, 0 currently valid) |
+| US Market Status | Marketed (valid licenses: 4 of 4) |
+| Number of NDAs | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ---
@@ -70,10 +70,9 @@ The top-ranked prediction is weakly supported. Some lower-ranked predictions are
 
 | Rank | Predicted Indication | TxGNN Score | Evidence Level | Comment |
 |------|------|------|------|------|
-| 6 | Punctate epithelial keratoconjunctivitis | 99.89% | L4 | The most plausible candidate. Two indirect papers were found, neither testing fluorometholone. Steroids may worsen some infections. |
-| 9 | Lens-induced iridocyclitis | 99.82% | L4 | Effectively a subtype of an existing indication. Definitive treatment is usually surgical. |
-| 10 | Glaucomatocyclitic crisis | 99.82% | L4 | Steroids are standard for the inflammation, and fluorometholone tends to raise eye pressure less than other steroids. IOP monitoring is essential. |
-| 3 | Otitis externa | 99.90% | L5 | Mechanism plausible, but ear-canal use of an ophthalmic suspension is unvalidated. |
+| 6 | Punctate epithelial keratoconjunctivitis | 0.9989 | L5 | The most plausible candidate. Two indirect papers were found, neither testing fluorometholone. Steroids may worsen some infections. |
+| 10 | Glaucomatocyclitic crisis | 0.9982 | L5 | Steroids are standard for the inflammation, and fluorometholone tends to raise eye pressure less than other steroids. IOP monitoring is essential. |
+| 3 | Otitis externa | 0.9990 | L5 | Mechanism plausible, but ear-canal use of an ophthalmic suspension is unvalidated. |
 
 Ranks 2, 4, 5, 7 and 8 (post-bacterial disorder, infective urethral stricture, post-infectious syndrome, infection-related hemolytic uremic syndrome, Chagas cardiomyopathy) are systemic or non-specific conditions with no plausible exposure from a topical eye drop and no supporting evidence.
 
@@ -102,12 +101,12 @@ For reference, two indirect papers were retrieved for the rank-6 prediction (pun
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA019079 | Flarex (Harrow Eye, LLC) | Suspension/drops | Not available (cancelled) |
-| NDA019216 | FML Forte (Allergan, Inc.) | Suspension/drops | Not available (cancelled) |
-| NDA016851 | FML (Allergan, Inc.) | Suspension/drops | Not available (cancelled) |
-| ANDA216348 | Fluorometholone ophthalmic suspension (Amneal Pharmaceuticals NY LLC) | Suspension/drops | Not available (cancelled) |
+| NDA019079 | Flarex (Harrow Eye, LLC) | Suspension/drops | Not available (valid) |
+| NDA019216 | FML Forte (Allergan, Inc.) | Suspension/drops | Not available (valid) |
+| NDA016851 | FML (Allergan, Inc.) | Suspension/drops | Not available (valid) |
+| ANDA216348 | Fluorometholone ophthalmic suspension (Amneal Pharmaceuticals NY LLC) | Suspension/drops | Not available (valid) |
 
-All four authorizations are listed as cancelled, so no currently valid US product was found in the compiled data.
+All four US authorizations are currently valid, and the drug is marketed in the US.
 
 ---
 
@@ -126,7 +125,7 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction for postinfectious vasculitis is supported only by a model score (L5), with no trials or publications. A topical eye drop is also unlikely to treat a systemic vasculitis, and all US authorizations are cancelled.
+The prediction for postinfectious vasculitis is supported only by a model score (L5), with no trials or publications. A topical eye drop is also unlikely to treat a systemic vasculitis. The drug is marketed in the US, and all 4 of its 4 authorizations are valid.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (currently missing and blocking safety screening)

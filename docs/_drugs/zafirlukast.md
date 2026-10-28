@@ -39,7 +39,7 @@ Evidence Level: **L5** | Predicted Indications: **2**
 ## One-Sentence Summary
 
 Zafirlukast is a cysteinyl leukotriene receptor antagonist originally used to treat asthma (including intrinsic and allergic asthma).
-The TxGNN model predicts it may be effective for **Bronchitis** (score 99.93%), but **no clinical trials and no publications** currently support this specific indication.
+The TxGNN model predicts it may be effective for **Bronchitis** (score 0.9993), but **no clinical trials and no publications** currently support this specific indication.
 The second-ranked prediction, **Obstructive Lung Disease**, is backed by **18 publications** (all reviews or pharmacology articles) and no clinical trials.
 
 ## Quick Overview
@@ -48,10 +48,10 @@ The second-ranked prediction, **Obstructive Lung Disease**, is backed by **18 pu
 |------|------|
 | Original Indication | Asthma (including intrinsic asthma and allergic asthma) |
 | Predicted New Indication | Bronchitis |
-| TxGNN Prediction Score | 99.93% |
+| TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 (model prediction only) |
-| US Market Status | Cancelled only (all 4 authorizations cancelled) |
-| Number of NDAs | 4 (1 NDA and 3 ANDAs, all cancelled) |
+| US Market Status | Marketed (valid licenses: 4 of 4) |
+| Number of NDAs | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -87,7 +87,7 @@ For the second-ranked prediction, **obstructive lung disease** (evidence level L
 
 ## US Market Information
 
-All four US authorizations are currently cancelled, and no approved indication text is available in the data.
+All four US authorizations are currently valid, and no approved indication text is available in the data.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -111,7 +111,7 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The bronchitis prediction rests on a model score alone (L5), with no trials or literature. The obstructive lung disease prediction has only indirect, review-level evidence (L4). All US authorizations are also cancelled, and the label safety data is missing.
+The bronchitis prediction rests on a model score alone (L5), with no trials or literature. The obstructive lung disease prediction has only indirect, review-level evidence (L4). All four US authorizations are valid, but the label safety data is missing.
 
 **To proceed, the following is needed:**
 - Obtain and review the FDA package insert for warnings and contraindications, especially regarding liver disease, as flagged by the knowledge graph

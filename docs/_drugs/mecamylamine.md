@@ -4,17 +4,17 @@ title: Mecamylamine
 parent: Model Prediction Only (L5)
 nav_order: 890
 evidence_level: L5
-indication_count: 4
+indication_count: 3
 last_modified_at: 2026-10-14
-description: "Mecamylamine: predicted new indication Malignant renovascular hypertension (evidence level L5). Approved use: Hypertension (hypertensive disorder)"
 monitor_inn: "MECAMYLAMINE"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia"]
+description: "Mecamylamine: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Mecamylamine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **4** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,23 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-## Mecamylamine: From Hypertension to Malignant Renovascular Hypertension
+## Mecamylamine: Malignant hypertensive renal disease
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Mecamylamine is an oral ganglionic blocker, originally used to treat hypertension.
-The TxGNN model predicts it may be effective for **malignant renovascular hypertension**, but **no clinical trials** and **no related publications** currently support this prediction, so it rests on model output alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension (hypertensive disorder) |
-| Predicted New Indication | Malignant renovascular hypertension |
-| TxGNN Prediction Score | 99.14% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Malignant hypertensive renal disease |
+| TxGNN Prediction Score | 0.9914 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no active marketing authorization) |
-| Number of NDAs | 1 (an ANDA, cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,9 +59,9 @@ Currently, detailed mechanism of action data is not available in the compiled da
 The new indication is also a form of severe hypertension, so the prediction is plausible on the surface. Ganglionic blockade was historically used in malignant hypertension. However, malignant renovascular hypertension is driven largely by activation of the renin-angiotensin system and renal artery stenosis, which ganglionic blockade does not address directly. The high TxGNN score most likely reflects similarity to the already-approved hypertension indication rather than independent evidence.
 
 Other predictions for this drug are weaker still:
-- **Malignant hypertensive renal disease** (score 99.14%): same rationale as above, with no trials or literature. Modern agents (RAAS inhibitors, calcium channel blockers, IV vasodilators) are better characterized.
-- **Pulmonary hypertension with unclear multifactorial mechanism** (score 99.09%): no direct mechanistic link was identified, and systemic hypotension could be harmful in right-ventricle-dependent disease.
-- **Pulmonary hypertension owing to lung disease and/or hypoxia** (score 99.09%): only indirect preclinical literature on nicotinic signalling in hypoxia (see below).
+- **Malignant hypertensive renal disease** (score 0.9914): same rationale as above, with no trials or literature. Modern agents (RAAS inhibitors, calcium channel blockers, IV vasodilators) are better characterized.
+- **Pulmonary hypertension with unclear multifactorial mechanism** (score 0.9909): no direct mechanistic link was identified, and systemic hypotension could be harmful in right-ventricle-dependent disease.
+- **Pulmonary hypertension owing to lung disease and/or hypoxia** (score 0.9909): only indirect preclinical literature on nicotinic signalling in hypoxia (see below).
 
 ## Clinical Trial Evidence
 
@@ -70,7 +69,6 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-For the top-ranked prediction (malignant renovascular hypertension), currently no related literature is available.
 
 For the fourth prediction (pulmonary hypertension owing to lung disease and/or hypoxia), 20 publications were retrieved. All are preclinical or in vitro studies, and none evaluates mecamylamine in pulmonary hypertension. Representative examples:
 
@@ -112,7 +110,7 @@ Please refer to the package insert for warnings and contraindications, as this i
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the model score (Evidence Level L5), with no clinical trials or direct literature. The drug's mechanism does not address the main drivers of renovascular hypertension, it is no longer marketed in the US, and better-characterized alternatives exist.
+The prediction is supported only by the model score (Evidence Level L5), with no clinical trials or direct literature.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

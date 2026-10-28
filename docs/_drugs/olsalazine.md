@@ -46,20 +46,20 @@ Olsalazine is a locally acting prodrug of 5-aminosalicylic acid (5-ASA, mesalami
 |------|------|
 | Original Indication | Not stated in the available US label data |
 | Predicted New Indication | Myelodysplastic syndrome |
-| TxGNN Prediction Score | 99.91% |
+| TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, olsalazine is a prodrug of 5-ASA that acts mainly locally in the colon, with minimal systemic exposure. Its original indication text is not recorded in the data compiled for this report.
 
-No mechanistic link to MDS is established. A speculative anti-inflammatory or NF-kB-modulating rationale could be proposed, but olsalazine's low systemic absorption argues against meaningful effects on bone marrow. The high TxGNN score (0.999) reflects network proximity in the knowledge graph rather than validated pharmacology.
+No mechanistic link to MDS is established. A speculative anti-inflammatory or NF-kB-modulating rationale could be proposed, but olsalazine's low systemic absorption argues against meaningful effects on bone marrow. The high TxGNN score (0.9991) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 Other top predictions are related or unrelated conditions, all with the same lack of supporting data:
-- MDS-related terms: unclassified MDS, refractory cytopenia of childhood, partial deletion of the long arm of chromosome 5 (del(5q)), aregenerative anemia, and congenital sideroblastic anemia. These likely cluster with MDS in the graph.
+- MDS-related terms: unclassified MDS, refractory cytopenia of childhood, partial deletion of the long arm of chromosome 5 (del(5q)), aregenerative anemia, and congenital sideroblastic anemia. These likely reflect similarities the TxGNN model (deep learning) learned between related diseases, not biological evidence.
 - Hair disorders: hypotrichosis simplex of the scalp, congenital hypotrichosis milia, alopecia and diffuse alopecia areata. Only alopecia areata has a theoretical immune-mediated rationale, and it is unsupported by data.
 
 ## Clinical Trial Evidence

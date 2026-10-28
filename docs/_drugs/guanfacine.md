@@ -50,9 +50,9 @@ Currently **0 clinical trials** and **0 publications** support this prediction, 
 |------|------|
 | Original Indication | Hypertension; attention deficit hyperactivity disorder (ADHD) |
 | Predicted New Indication | Faciodigitogenital syndrome |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 (model prediction only) |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 11) |
 | Number of NDAs | 11 authorizations (1 NDA, 10 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
@@ -80,7 +80,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-All 11 authorizations are cancelled. The five main ones are listed below, and the approved indication text is not specified in the authorization records.
+There are 11 valid authorizations. The five main ones are listed below, and the approved indication text is not specified in the authorization records.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -106,7 +106,7 @@ Please refer to the package insert for authoritative warnings and contraindicati
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting trials or literature, and no plausible biological link to alpha-2A agonism was found. All US authorizations are also cancelled. The score alone is not enough to justify further investment.
+The prediction has no supporting trials or literature, and no plausible biological link to alpha-2A agonism was found. The drug is marketed in the US, with 11 valid authorizations. The score alone is not enough to justify further investment.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and a credible biological rationale linking guanfacine to this disorder

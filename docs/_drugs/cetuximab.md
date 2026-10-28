@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Cetuximab: From Colorectal and Squamous Cell Cancers to Premalignant Neoplasm
+## Cetuximab: From Colorectal and Squamous Cell Cancers to Chondroid Hamartoma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -49,10 +49,10 @@ The TxGNN model's top-ranked predictions are mostly unsupported, so this report 
 |------|------|
 | Original Indication | Colorectal cancer and squamous cell carcinoma (colon, pharyngeal, laryngeal); the US license text is blank |
 | Predicted New Indication | Top-ranked prediction: chondroid hamartoma (no supporting evidence). Best-evidenced candidates: pre-malignant neoplasm and cystic neoplasm |
-| TxGNN Prediction Score | 99.95% (top prediction, chondroid hamartoma); 99.95% (pre-malignant neoplasm) |
+| TxGNN Prediction Score | 0.9995 (top prediction, chondroid hamartoma); 0.9995 (pre-malignant neoplasm) |
 | Evidence Level | L5 for the top-ranked prediction; L2 for pre-malignant neoplasm and cystic neoplasm |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 (BLA125084, cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold (overall); pre-malignant neoplasm and cystic neoplasm are worth a research question |
 
 ---
@@ -118,7 +118,7 @@ The other eight predictions have no registered clinical trials.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA125084 | ERBITUX (ImClone LLC) | Solution | Not listed; status: cancelled |
+| BLA125084 | ERBITUX (ImClone LLC) | Solution | Not listed; status: valid |
 
 ---
 
@@ -149,7 +149,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-- The highest TxGNN scores (about 99.95%) fall on conditions with no trials or literature and no EGFR-driven rationale, so the scores alone do not justify moving forward. Evidence for the best candidates (pre-malignant neoplasm, cystic neoplasm) is limited to small Phase I/II studies. Their disease labels are broad, and the US license is cancelled.
+- The highest TxGNN scores (about 0.9995) fall on conditions with no trials or literature and no EGFR-driven rationale, so the scores alone do not justify moving forward. Evidence for the best candidates (pre-malignant neoplasm, cystic neoplasm) is limited to small Phase I/II studies. Their disease labels are broad, and the US license is cancelled.
 - Pre-malignant neoplasm and cystic neoplasm can be kept as research questions, not development candidates.
 
 **To proceed, the following is needed:**

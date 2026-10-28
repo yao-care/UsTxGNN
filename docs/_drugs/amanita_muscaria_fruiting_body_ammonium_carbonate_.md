@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Amanita Muscaria Fruiting Body Ammonium Carbonate 
@@ -51,7 +52,7 @@ Due to the complete absence of prediction outputs and critical data gaps, a mean
 | Predicted New Indication | None (TxGNN returned no candidates) |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 — Model prediction only (no predictions generated) |
-| US Market Status | Not marketed (Not Marketed) |
+| US Market Status | Marketed (valid licenses on record: at least 12) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

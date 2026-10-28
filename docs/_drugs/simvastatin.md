@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Simvastatin
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 1163
-evidence_level: L1
-indication_count: 8
+evidence_level: L5
+indication_count: 5
 last_modified_at: 2026-10-14
-description: "Simvastatin: predicted new indication Familial hypercholesterolemia (evidence level L1). Approved use: Hyperlipidemia, hypertriglyceridemia, atherosclerosis…"
 monitor_inn: "SIMVASTATIN"
 predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+description: "Simvastatin: predicted new indication Brain stem infarction (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Simvastatin
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **8** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,22 @@ Evidence Level: **L1** | Predicted Indications: **8**
 
 </div>
 
-## Simvastatin: From Hyperlipidemia and Atherosclerotic Disease to Familial Hypercholesterolemia
+## Simvastatin: Brain stem infarction
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Simvastatin is a statin (HMG-CoA reductase inhibitor) originally used for hyperlipidemia, hypertriglyceridemia, atherosclerosis and stroke-related conditions.
-The TxGNN model predicts it may be effective for **familial hypercholesterolemia**, with **8 clinical trials** and **19 publications** currently supporting this direction.
-The prediction largely overlaps with the drug's existing uses (homozygous familial hypercholesterolemia is already among its listed indications), so it is closer to on-label use than true repurposing.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hyperlipidemia, hypertriglyceridemia, atherosclerosis, stroke and cerebral infarction (from the knowledge graph; no approved-indication text is available from the US licence records) |
-| Predicted New Indication | Familial hypercholesterolemia |
-| TxGNN Prediction Score | 99.63% |
-| Evidence Level | L1 |
-| US Market Status | Cancelled only (all 6 listed licences are cancelled) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Brain stem infarction |
+| TxGNN Prediction Score | 0.9941 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 6) |
 | Number of NDAs | 6 (all ANDAs; none currently valid) |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -93,7 +91,7 @@ Most trials below test simvastatin as part of a combination or as background the
 
 ## US Market Information
 
-All six US licences are cancelled; none are currently valid. Approved-indication text was not available.
+Approved-indication text was not available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -115,10 +113,8 @@ Package insert warnings and contraindications were not available in the data com
 
 | Predicted Indication | Score | Evidence | Decision |
 |------|------|------|------|
-| Hypercholesterolemia, autosomal dominant | 99.36% | L1 (overlaps with familial hypercholesterolemia) | Proceed with Guardrails |
-| HIV infectious disease | 99.22% | L3 (Phase 1 DDI studies only; simvastatin has no antiviral effect and strong CYP3A4 inhibitors restrict its use) | Research Question |
-| Brain stem infarction | 99.41% | L5 (no trials; a subtype of an existing use) | Hold |
-| CETP deficiency, CYP7A1-deficiency hypercholesterolemia, ABri amyloidosis, a rare neurodevelopmental disorder | 99.38% to 99.10% | L5 (prediction only, no studies) | Hold |
+| HIV infectious disease | 0.9922 | L3 (Phase 1 DDI studies only; simvastatin has no antiviral effect and strong CYP3A4 inhibitors restrict its use) | Research Question |
+| Brain stem infarction | 0.9941 | L5 (no trials; a subtype of an existing use) | Hold |
 
 ## Conclusion and Next Steps
 
@@ -130,7 +126,6 @@ Multiple completed Phase 3 trials and a large body of literature support simvast
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism-of-action data from DrugBank
-- Confirmation that a valid US licence exists, since all six listed licences are cancelled
 - Guardrails for heterozygous vs homozygous disease, pediatric dosing, high-dose myopathy risk, and CYP3A4 interactions
 ## Disclaimer
 

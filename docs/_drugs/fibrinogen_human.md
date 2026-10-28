@@ -48,10 +48,10 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Not listed in the US license data compiled for this report (general use: fibrinogen replacement in congenital or acquired fibrinogen deficiency) |
 | Predicted New Indication | Hemoglobinopathy |
-| TxGNN Prediction Score | 99.12% |
+| TxGNN Prediction Score | 0.9912 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 2 (both BLAs, both cancelled) |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,14 +60,14 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 A plausible but speculative connection is managing bleeding complications or coagulopathy in certain hemoglobinopathy settings, such as surgery or severe hemorrhage. No trial or publication in the data compiled for this report supports this.
 
-The score is high (0.991), but it is a computational prediction without clinical validation. It may partly reflect graph-based artifacts, such as links between coagulation-related and hematologic disease nodes, rather than a true therapeutic relationship. It should be treated with caution.
+The score is high (0.9912), but it is a computational prediction without clinical validation. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It should be treated with caution.
 
 ## US Market Information
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA125612 | Fibryga (Octapharma USA Inc) | Powder, for solution | Not available (license status: cancelled) |
-| BLA125317 | Riastap (CSL Behring GmbH) | Injection, solution | Not available (license status: cancelled) |
+| BLA125612 | Fibryga (Octapharma USA Inc) | Powder, for solution | Not available (license status: valid) |
+| BLA125317 | Riastap (CSL Behring GmbH) | Injection, solution | Not available (license status: valid) |
 
 ## Safety Considerations
 

@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "TRANEXAMIC ACID"
 predicted_indications: ["amenorrhea (disease)"]
 last_modified_at: 2026-10-14
-description: "Tranexamic Acid: predicted new indication Amenorrhea (evidence level L5). Approved use: Endometriosis (endometriosis of uterus), per the knowledge graph"
+description: "Tranexamic Acid: predicted new indication Amenorrhea (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Tranexamic Acid
@@ -33,12 +33,12 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-## Tranexamic Acid: From Endometriosis to Amenorrhea
+## Tranexamic Acid: Amenorrhea (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Tranexamic acid is an antifibrinolytic originally linked to endometriosis in the knowledge graph used for this analysis.
+Tranexamic acid is an antifibrinolytic.
 The TxGNN model predicts it may be effective for **Amenorrhea**,
 but there are currently **0 clinical trials** and only **2 publications** (both reviews, and neither directly addresses treating amenorrhea) supporting this direction.
 
@@ -46,11 +46,11 @@ but there are currently **0 clinical trials** and only **2 publications** (both 
 
 | Item | Content |
 |------|------|
-| Original Indication | Endometriosis (endometriosis of uterus), per the knowledge graph; no approved indication text is available from US licences |
-| Predicted New Indication | Amenorrhea |
-| TxGNN Prediction Score | 99.19% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Amenorrhea (disease) |
+| TxGNN Prediction Score | 0.9919 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licences) |
+| US Market Status | Marketed (valid licenses on record: at least 13) |
 | Number of NDAs | 13 (1 NDA and 12 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available in the compiled da
 
 The link to the predicted indication is **indirect**. Tranexamic acid could plausibly be used for menses suppression or prophylaxis, for example in haematology patients at risk of heavy bleeding. However, it does not act on the hormonal axis that causes or treats true amenorrhea (absence of menses). Any benefit would come from reducing menstrual bleeding, not from treating amenorrhea as a pathological condition.
 
-The high TxGNN score (0.99) is a computational prediction. It may reflect proximity to other menstrual-disorder indications rather than a genuine therapeutic rationale. It should be interpreted cautiously.
+The high TxGNN score (0.9919) comes from the TxGNN model (deep learning) and is a computational prediction. It may reflect similarities the model learned between related diseases, not biological evidence. It should be interpreted cautiously.
 
 ## Clinical Trial Evidence
 
@@ -75,7 +75,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All 13 licences are cancelled, and none carries approved indication text in the data compiled. The first five are listed below.
+All 13 licenses are valid, and none carries approved indication text in the data compiled. The first five are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -111,7 +111,7 @@ Label-based warnings and contraindications were not available. Please refer to t
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests solely on a model score. There are no clinical trials, and the two reviews on menstrual bleeding do not show benefit in treating amenorrhea. The mechanism is indirect, since tranexamic acid reduces bleeding rather than restoring menses. All US licences are cancelled, and label safety data are missing.
+The prediction rests solely on a model score. There are no clinical trials, and the two reviews on menstrual bleeding do not show benefit in treating amenorrhea. The mechanism is indirect, since tranexamic acid reduces bleeding rather than restoring menses. The 13 US licenses are valid, and label safety data are missing.
 
 **To proceed, the following is needed:**
 - Clarify whether the intended use is treating amenorrhea or menses suppression (for example in haematology patients), as these are different questions

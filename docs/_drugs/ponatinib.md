@@ -48,10 +48,10 @@ The second-ranked prediction, liposarcoma, is supported by only **1 preclinical 
 |------|------|
 | Original Indication | Chronic myelogenous leukemia, BCR-ABL1 positive |
 | Predicted New Indication | Fibromatosis, gingival |
-| TxGNN Prediction Score | 99.04% |
+| TxGNN Prediction Score | 0.9904 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (the single NDA is cancelled) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 However, no mechanism specific to gingival fibromatosis is documented in the available data, so the link is speculative. Gingival fibromatosis is a benign, non-life-threatening condition, and ponatinib's known cardiovascular and thrombotic toxicity would weigh heavily against its use there.
 
-**Second prediction (for reference):** Liposarcoma (TxGNN score 99.00%, Evidence Level L4, "Research Question"). One 2017 preclinical study profiled kinases in liposarcoma and identified druggable targets. The data do not show whether ponatinib was among the active agents, so the link remains plausible but unconfirmed.
+**Second prediction (for reference):** Liposarcoma (TxGNN score 0.9900, Evidence Level L4, "Research Question"). One 2017 preclinical study profiled kinases in liposarcoma and identified druggable targets. The data do not show whether ponatinib was among the active agents, so the link remains plausible but unconfirmed.
 
 ## Clinical Trial Evidence
 

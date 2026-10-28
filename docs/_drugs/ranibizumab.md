@@ -4,17 +4,17 @@ title: Ranibizumab
 parent: Model Prediction Only (L5)
 nav_order: 1109
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Ranibizumab: predicted new indication Severe nonproliferative diabetic retinopathy (evidence level L5). Approved use: Diabetic retinopathy, macular degeneration, diabetic macular edema…"
 monitor_inn: "RANIBIZUMAB"
 predicted_indications: ["diabetes mellitus type 2 associated cataract", "immature cataract", "mature cataract", "craniostenosis cataract", "tetanic cataract", "nuclear senile cataract", "cortical cataract", "senile cataract", "hemorrhagic disease of newborn"]
+description: "Ranibizumab: predicted new indication Diabetes mellitus type 2 associated cataract (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Ranibizumab
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,25 +33,24 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Ranibizumab: From Diabetic Retinopathy and Macular Degeneration to Severe Nonproliferative Diabetic Retinopathy
+## Ranibizumab: Diabetes mellitus type 2 associated cataract
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Ranibizumab is an anti-VEGF antibody fragment, originally used for retinal diseases such as macular degeneration and diabetic macular edema.
-The TxGNN model predicts it may be effective for **severe nonproliferative diabetic retinopathy**,
 with **0 registered clinical trials** and **19 publications** currently supporting this direction. The prediction is largely adjacent to an existing indication (diabetic retinopathy is already among the original indications), so it is closer to an indication extension than a true repurposing.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Diabetic retinopathy, macular degeneration, diabetic macular edema, retinopathy of prematurity and related retinal diseases (approved indication text is not available in the US license records) |
-| Predicted New Indication | Severe nonproliferative diabetic retinopathy |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L1 (based on literature only; see note below) |
-| US Market Status | Cancelled only (all 4 licenses listed as cancelled) |
-| Number of NDAs | 4 (BLA licenses) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Diabetes mellitus type 2 associated cataract |
+| TxGNN Prediction Score | 0.9999 |
+| Evidence Level | L5 (based on literature only; see note below) |
+| US Market Status | Marketed (valid licenses: 4 of 4) |
+| Number of NDAs | 4 (valid: 4) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
@@ -85,10 +84,10 @@ Currently no related clinical trials registered in the data compiled for this re
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA125156 | LUCENTIS (Genentech) | Injection, solution | Not available (status: cancelled) |
-| BLA761197 | Susvimo (Genentech) | Injection, solution | Not available (status: cancelled) |
-| BLA761165 | CIMERLI (Sandoz) | Injection, solution | Not available (status: cancelled) |
-| BLA761202 | Byooviz (Harrow Eye) | Injection, solution | Not available (status: cancelled) |
+| BLA125156 | LUCENTIS (Genentech) | Injection, solution | Not available (status: valid) |
+| BLA761197 | Susvimo (Genentech) | Injection, solution | Not available (status: valid) |
+| BLA761165 | CIMERLI (Sandoz) | Injection, solution | Not available (status: valid) |
+| BLA761202 | Byooviz (Harrow Eye) | Injection, solution | Not available (status: valid) |
 
 ## Safety Considerations
 
@@ -102,13 +101,12 @@ Package insert warnings and drug interaction data were not available in the data
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-Ranibizumab has a direct mechanistic fit for diabetic retinopathy, and the literature includes a Phase 3 randomized trial (PAVILION) plus RIDE/RISE and DRCR.net analyses. However, no registered trials were found in the compiled data, the indication is already close to the original one, and package insert safety data and US market status (all licenses cancelled) are unresolved.
+Ranibizumab has a direct mechanistic fit for diabetic retinopathy, and the literature includes a Phase 3 randomized trial (PAVILION) plus RIDE/RISE and DRCR.net analyses.
 
 **To proceed, the following is needed:**
 - Verify the primary reports of PAVILION and RIDE/RISE and confirm the L1 grading, since no registry trials were captured
 - Obtain the FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Obtain mechanism of action data from DrugBank
-- Clarify the current US regulatory status, since all four BLA licenses are listed as cancelled
 - Define a monitoring plan for intravitreal injection risks, including infection, given the knowledge-graph contraindications
 
 **Other predicted indications:** The remaining predictions (diabetic and other cataract types, craniostenosis cataract, tetanic cataract, hemorrhagic disease of newborn) lack a plausible anti-VEGF mechanism and have only indirect or no evidence. The suggested decision for all of them is **Hold**.

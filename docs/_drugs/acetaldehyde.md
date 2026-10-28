@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Acetaldehyde
@@ -51,7 +52,8 @@ This report cannot advance to a standard repurposing evaluation without foundati
 | Predicted New Indication | No prediction available |
 | TxGNN Prediction Score | — |
 | Evidence Level | L5 (no predictions returned) |
-| Market Status | Not marketed |
+| Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Number of Approvals | 0 |
 | Recommended Decision | Hold |
 

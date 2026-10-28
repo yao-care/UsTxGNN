@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "MOLINDONE"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "hydranencephaly (disease)", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia X-linked", "syndromic myopia", "atypical glycine encephalopathy", "manic bipolar affective disorder"]
 last_modified_at: 2026-10-14
-description: "Molindone: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Schizophrenia"
+description: "Molindone: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Molindone
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Molindone: From Schizophrenia to Retinal Dystrophy (Top-Ranked Prediction, Unsupported)
+## Molindone: Retinal dystrophy with or without extraocular anomalies
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,12 +48,12 @@ The only prediction with any literature is **manic bipolar affective disorder** 
 
 | Item | Content |
 |------|------|
-| Original Indication | Schizophrenia (from the knowledge graph; no approved indication text on the US license record) |
-| Predicted New Indication | Retinal dystrophy with or without extraocular anomalies (rank 1); manic bipolar affective disorder is the only prediction with literature (rank 10) |
-| TxGNN Prediction Score | 99.998% (rank 1); 99.984% (manic bipolar affective disorder) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Retinal dystrophy with or without extraocular anomalies |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 (rank 1); L4 (manic bipolar affective disorder) |
-| US Market Status | Cancelled only (no active marketing authorization) |
-| Number of NDAs | 1 (an ANDA, cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,7 +62,7 @@ The only prediction with any literature is **manic bipolar affective disorder** 
 
 Currently, detailed mechanism of action data is not available from the data compiled for this report. Based on known pharmacology, molindone is a dopamine D2 receptor antagonist and a structurally distinct dihydroindolone antipsychotic. Its efficacy in schizophrenia is established.
 
-**Rank 1 (retinal dystrophy):** No plausible mechanistic link was identified. Retinal dystrophies are mainly genetic, and nothing suggests D2 antagonism would alter their course. The high score is a graph-based artifact rather than a pharmacological signal.
+**Rank 1 (retinal dystrophy):** No plausible mechanistic link was identified. Retinal dystrophies are mainly genetic, and nothing suggests D2 antagonism would alter their course. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 **Other top-ranked predictions (ranks 2–9)** are similarly unsupported. They include congenital glycosylation disorder, hydranencephaly, Charcot-Marie-Tooth type 1G, several myopia forms, polymicrogyria, and atypical glycine encephalopathy. All are genetic or structural conditions with no trials or literature. For the myopia forms, dopamine signaling is discussed in general eye-growth biology. There is no evidence that a D2 antagonist helps, and antagonism could even be counterproductive.
 
@@ -117,7 +117,7 @@ Please refer to the package insert for label warnings and contraindications, whi
 **Decision: Hold**
 
 **Rationale:**
-- The top-ranked prediction (retinal dystrophy) and all other top-ten predictions except one have no trials, no literature, and no plausible mechanism. Molindone also has no active US marketing authorization, which limits practical development.
+- The top-ranked prediction (retinal dystrophy) and all other top-ten predictions except one have no trials, no literature, and no plausible mechanism.
 - Manic bipolar affective disorder is a reasonable research question (L4), but current evidence is class-level and does not test molindone directly.
 
 **To proceed, the following is needed:**

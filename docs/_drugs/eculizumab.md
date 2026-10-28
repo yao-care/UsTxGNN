@@ -47,17 +47,17 @@ The TxGNN model predicts it may be effective for **cyclic hematopoiesis**, but *
 |------|------|
 | Original Indication | Paroxysmal nocturnal hemoglobinuria; neuromyelitis optica (the US license records contain no indication text) |
 | Predicted New Indication | Cyclic hematopoiesis (cyclic neutropenia) |
-| TxGNN Prediction Score | 99.97% |
+| TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all 3 licenses are listed as cancelled) |
-| Number of NDAs | 3 (all are BLAs) |
+| US Market Status | Marketed (valid licenses: 3 of 3) |
+| Number of NDAs | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known information, eculizumab is a monoclonal antibody against complement protein C5 that blocks terminal complement activation. Its efficacy in complement-mediated diseases such as paroxysmal nocturnal hemoglobinuria is established.
 
-The predicted indication, however, has no established link to this mechanism. Cyclic neutropenia is caused by ELANE mutations that impair neutrophil production, and it is not a complement-mediated disease. The very high TxGNN score (0.9997) most likely reflects knowledge-graph proximity to other hematologic disorders rather than a biological rationale.
+The predicted indication, however, has no established link to this mechanism. Cyclic neutropenia is caused by ELANE mutations that impair neutrophil production, and it is not a complement-mediated disease. The very high TxGNN score (0.9997) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 Other highly ranked predictions show the same pattern. They are all neutropenia or immunodeficiency disorders (for example severe congenital neutropenia, JAGN1, CXCR2 and CSF3R deficiencies, and X-linked neutropenia). These arise from defects in granulopoiesis, neutrophil mobilization or signaling, not terminal complement activity. The ranking therefore looks like a cluster of related hematologic conditions rather than independent, mechanism-backed leads.
 
@@ -73,9 +73,9 @@ No literature was retrieved for cyclic hematopoiesis, the top-ranked prediction.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA125166 | SOLIRIS (Alexion Pharmaceuticals Inc.) | Injection, solution, concentrate | Not listed in the data (status: cancelled) |
-| BLA761333 | BKEMV (Amgen Inc) | Injection, solution, concentrate | Not listed in the data (status: cancelled) |
-| BLA761340 | EPYSQLI (Teva Pharmaceuticals USA, Inc.) | Injection, solution | Not listed in the data (status: cancelled) |
+| BLA125166 | SOLIRIS (Alexion Pharmaceuticals Inc.) | Injection, solution, concentrate | Not listed in the data (status: valid) |
+| BLA761333 | BKEMV (Amgen Inc) | Injection, solution, concentrate | Not listed in the data (status: valid) |
+| BLA761340 | EPYSQLI (Teva Pharmaceuticals USA, Inc.) | Injection, solution | Not listed in the data (status: valid) |
 
 ## Safety Considerations
 

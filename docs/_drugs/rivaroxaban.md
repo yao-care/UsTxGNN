@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **rheumatoid arthritis**, but t
 |------|------|
 | Original Indication | Not available in the compiled data (the approved-indication text is empty for all licenses) |
 | Predicted New Indication | Rheumatoid arthritis |
-| TxGNN Prediction Score | 99.57% |
+| TxGNN Prediction Score | 0.9957 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 9) |
 | Number of NDAs | 9 licenses in total (2 NDAs and 7 ANDAs) |
 | Recommended Decision | Hold |
 
@@ -74,7 +74,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All 9 licenses have a cancelled status, and the approved-indication text is not available for any of them.
+All 9 licenses are valid, and the approved-indication text is not available for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -98,7 +98,7 @@ Package insert warnings and contraindications are not available in the compiled 
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high, but it is a model output only. There are no clinical trials and no literature showing that rivaroxaban affects rheumatoid arthritis. In addition, all 9 US licenses are cancelled, and the package insert safety information is missing, which blocks progression to safety screening.
+The prediction score is very high, but it is a model output only. There are no clinical trials and no literature showing that rivaroxaban affects rheumatoid arthritis. In addition, the drug is marketed in the US with 9 valid licenses, but the package insert safety information is missing, which blocks progression to safety screening.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap)
@@ -109,9 +109,9 @@ The prediction score is very high, but it is a model output only. There are no c
 ---
 
 *Other predicted indications were also evaluated and all are on Hold:*
-- **Gout** (score 99.51%, L5): no clinical trials, and the retrieved literature does not show efficacy.
-- **HIV infectious disease** (score 99.17%, L4): the evidence concerns anticoagulant safety and drug interactions with boosted antiretrovirals, not treatment of HIV. The one Phase 2 trial (NCT00786422) is a venous thromboembolism study.
-- **Brachydactyly-syndactyly syndrome** (score 99.10%, L5): no trials or literature, and no plausible mechanism. This is likely a graph-based artifact.
+- **Gout** (score 0.9951, L5): no clinical trials, and the retrieved literature does not show efficacy.
+- **HIV infectious disease** (score 0.9917, L4): the evidence concerns anticoagulant safety and drug interactions with boosted antiretrovirals, not treatment of HIV. The one Phase 2 trial (NCT00786422) is a venous thromboembolism study.
+- **Brachydactyly-syndactyly syndrome** (score 0.9910, L5): no trials or literature, and no plausible mechanism. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

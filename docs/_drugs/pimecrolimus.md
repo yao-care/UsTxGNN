@@ -4,17 +4,17 @@ title: Pimecrolimus
 parent: High Evidence (L1-L2)
 nav_order: 1045
 evidence_level: L2
-indication_count: 4
+indication_count: 3
 last_modified_at: 2026-10-14
-description: "Pimecrolimus: predicted new indication Seborrheic dermatitis (evidence level L2). Approved use: Atopic dermatitis (atopic eczema)"
 monitor_inn: "PIMECROLIMUS"
 predicted_indications: ["seborrheic dermatitis", "exanthem (disease)", "acrodermatitis chronica atrophicans"]
+description: "Pimecrolimus: predicted new indication Seborrheic dermatitis (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
 # Pimecrolimus
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **4** 
+Evidence Level: **L2** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L2** | Predicted Indications: **4**
 
 </div>
 
-## Pimecrolimus: From Atopic Dermatitis to Seborrheic Dermatitis
+## Pimecrolimus: Seborrheic dermatitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,12 +48,12 @@ with **1 clinical trial** (a completed Phase 2 randomized study) and **18 public
 
 | Item | Content |
 |------|------|
-| Original Indication | Atopic dermatitis (atopic eczema) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Seborrheic dermatitis |
-| TxGNN Prediction Score | 99.73% |
+| TxGNN Prediction Score | 0.9973 |
 | Evidence Level | L2 |
-| US Market Status | Cancelled only (all 3 authorizations cancelled) |
-| Number of NDAs | 3 (1 NDA and 2 ANDAs) |
+| US Market Status | Marketed (valid licenses: 3 of 3) |
+| Number of NDAs | 3 (valid: 3) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---
@@ -101,11 +101,10 @@ Several other retrieved publications were only tangentially related and are not 
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA021302 | Pimecrolimus (Oceanside Pharmaceuticals) | Cream | Not listed (status: cancelled) |
-| ANDA209345 | Pimecrolimus (Actavis Pharma, Inc.) | Cream | Not listed (status: cancelled) |
-| ANDA211769 | Pimecrolimus (Glenmark Pharmaceuticals Inc., USA) | Cream | Not listed (status: cancelled) |
+| NDA021302 | Pimecrolimus (Oceanside Pharmaceuticals) | Cream | Not listed (status: valid) |
+| ANDA209345 | Pimecrolimus (Actavis Pharma, Inc.) | Cream | Not listed (status: valid) |
+| ANDA211769 | Pimecrolimus (Glenmark Pharmaceuticals Inc., USA) | Cream | Not listed (status: valid) |
 
-All three authorizations are single-ingredient topical creams and all are cancelled, so no currently valid US authorization appears in the data compiled.
 
 ---
 
@@ -135,13 +134,12 @@ All three authorizations are single-ingredient topical creams and all are cancel
 **Decision: Proceed with Guardrails**
 
 **Rationale:**
-A completed, randomized Phase 2 trial in seborrheic dermatitis plus two systematic reviews of RCTs and several open-label studies support effectiveness and tolerability. The evidence is below Phase 3 level, the boxed warning on long-term use applies, and all US authorizations are currently cancelled, so this is not a straightforward Go.
+A completed, randomized Phase 2 trial in seborrheic dermatitis plus two systematic reviews of RCTs and several open-label studies support effectiveness and tolerability. The evidence is below Phase 3 level and the boxed warning on long-term use applies. The drug is currently marketed in the US, with 3 of 3 licenses valid, so this is not a straightforward Go.
 
 **To proceed, the following is needed:**
 - Review of the current package insert (warnings, contraindications, boxed warning text), as label safety data are not available in the data compiled
 - Results from NCT00403559 and, ideally, a Phase 3 randomized trial in seborrheic dermatitis
 - Drug-specific mechanism of action data to replace the class-based inference
-- A regulatory and availability plan, since no US authorization is currently valid
 - A safety plan covering limits on duration of use, infection screening (viral and fungal), and avoidance in infants under 2 years
 ## Disclaimer
 

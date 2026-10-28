@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Ertapenem
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 668
-evidence_level: L4
+evidence_level: L5
 indication_count: 2
 monitor_inn: "ERTAPENEM"
 predicted_indications: ["bacterial arthritis", "staphylococcus aureus infection"]
 last_modified_at: 2026-10-14
-description: "Ertapenem: predicted new indication Bacterial arthritis (evidence level L4). Approved use: Bacterial pneumonia, streptococcal pneumonia…"
+description: "Ertapenem: predicted new indication Bacterial arthritis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Ertapenem
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **2** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **2**
 
 </div>
 
-## Ertapenem: From Bacterial Pneumonia to Bacterial Arthritis
+## Ertapenem: Bacterial arthritis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,12 +45,12 @@ The TxGNN model predicts it may be effective for **bacterial arthritis**, but so
 
 | Item | Content |
 |------|------|
-| Original Indication | Bacterial pneumonia, streptococcal pneumonia, Peptostreptococcus infection (from the TxGNN knowledge graph; no label indication text was available) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Bacterial arthritis |
-| TxGNN Prediction Score | 99.72% |
-| Evidence Level | L4 |
-| US Market Status | ✗ Cancelled only (no currently valid licenses) |
-| Number of NDAs | 6 (1 NDA, 5 ANDAs; all cancelled) |
+| TxGNN Prediction Score | 0.9972 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 6 of 6) |
+| Number of NDAs | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -82,15 +82,15 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All 6 authorizations are cancelled, and no label indication text was available. The first five are listed below.
+All 6 authorizations are valid, and no label indication text was available. The first five are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
 |---------|------|------|-----------|------|
-| NDA021337 | INVANZ | Injection, powder, lyophilized, for solution | Merck Sharp & Dohme LLC | Cancelled |
-| ANDA218067 | Ertapenem | Injection, powder, lyophilized, for solution | Qilu Antibiotics Pharmaceutical Co., Ltd. | Cancelled |
-| ANDA208790 | Ertapenem | Injection, powder, lyophilized, for solution | Fresenius Kabi USA, LLC | Cancelled |
-| ANDA207647 | Ertapenem | Injection | Savior Lifetec Corporation | Cancelled |
-| ANDA212040 | Ertapenem | Injection, powder, lyophilized, for solution | Fosun Pharma USA Inc | Cancelled |
+| NDA021337 | INVANZ | Injection, powder, lyophilized, for solution | Merck Sharp & Dohme LLC | Valid |
+| ANDA218067 | Ertapenem | Injection, powder, lyophilized, for solution | Qilu Antibiotics Pharmaceutical Co., Ltd. | Valid |
+| ANDA208790 | Ertapenem | Injection, powder, lyophilized, for solution | Fresenius Kabi USA, LLC | Valid |
+| ANDA207647 | Ertapenem | Injection | Savior Lifetec Corporation | Valid |
+| ANDA212040 | Ertapenem | Injection, powder, lyophilized, for solution | Fosun Pharma USA Inc | Valid |
 
 ## Safety Considerations
 
@@ -104,12 +104,12 @@ Please refer to the package insert for warnings, contraindications and dosing in
 **Decision: Hold**
 
 **Rationale:**
-The mechanistic fit is reasonable and the TxGNN score is high. However, the evidence consists of case reports and mixed-infection cohorts, with no registered trials and no controlled data in bacterial arthritis. All US licenses are also listed as cancelled.
+The mechanistic fit is reasonable and the TxGNN score is high. However, the evidence consists of case reports and mixed-infection cohorts, with no registered trials and no controlled data in bacterial arthritis. The drug is marketed in the US, and all 6 US licenses are valid.
 
 **To proceed, the following is needed:**
 - Prospective or well-designed comparative studies of ertapenem in septic arthritis and bone and joint infections, including pathogen-specific outcomes
 - Mechanism of action data and the official package insert warnings and contraindications
-- Confirmation of current US availability, since all listed licenses are cancelled
+- Confirmation of current US availability, although all 6 listed licenses are valid
 - A review of the knowledge-graph contraindication signals (kidney disease, epilepsy, *C. difficile* colitis) against the label
 
 A separate direction may be worth considering. The second-ranked prediction, *Staphylococcus aureus* infection, has a Phase 2 trial (NCT04886284, cefazolin plus ertapenem in MSSA bacteremia) and supporting salvage-therapy case series. It has stronger evidence than bacterial arthritis, but it is a combination-regimen question, not ertapenem monotherapy.

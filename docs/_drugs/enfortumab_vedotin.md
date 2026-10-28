@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "ENFORTUMAB VEDOTIN"
 predicted_indications: ["leprosy", "multiple endocrine neoplasia", "cytomegalovirus infection", "candidiasis", "cerebral infarction", "HIV infectious disease", "homozygous familial hypercholesterolemia", "malignant catarrh", "infectious bovine rhinotracheitis"]
-last_modified_at: 2026-10-14
-description: "Enfortumab Vedotin: predicted new indication Leprosy (evidence level L5). Approved use: Urothelial carcinoma"
+last_modified_at: 2026-10-28
+description: "Enfortumab Vedotin: predicted new indication Leprosy (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Enfortumab Vedotin
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **9**
 
 </div>
 
-## Enfortumab Vedotin: From Urothelial Carcinoma to Leprosy
+## Enfortumab Vedotin: Leprosy
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,12 +45,12 @@ The TxGNN model predicts it may be effective for **leprosy**, but there are **0 
 
 | Item | Content |
 |------|------|
-| Original Indication | Urothelial carcinoma (from general drug knowledge; the US license record in the compiled data has no indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Leprosy |
-| TxGNN Prediction Score | 99.53% |
+| TxGNN Prediction Score | 0.9953 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 (BLA761137) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,9 +60,9 @@ Detailed mechanism-of-action data is not available in the data compiled for this
 No plausible mechanistic link to leprosy was identified. Leprosy is a *Mycobacterium leprae* infection, and a cytotoxic payload aimed at Nectin-4-expressing tumour cells has no known antibacterial activity. The high TxGNN score is best read as a model output, not as biological support. Immunosuppression and cytotoxicity would also be a safety concern in this setting.
 
 Other top-ranked predictions show the same pattern, with no supporting data or plausible mechanism:
-- Multiple endocrine neoplasia (99.43%): Nectin-4 expression in these tumours is not established.
-- Cytomegalovirus infection (99.36%): the only linked paper is a case report of an adverse event (esophagitis), not a therapeutic benefit.
-- Candidiasis (99.30%): the only linked paper is a pharmacovigilance study of ADC risk signals, not a therapeutic effect.
+- Multiple endocrine neoplasia (0.9943): Nectin-4 expression in these tumours is not established.
+- Cytomegalovirus infection (0.9936): the only linked paper is a case report of an adverse event (esophagitis), not a therapeutic benefit.
+- Candidiasis (0.9930): the only linked paper is a pharmacovigilance study of ADC risk signals, not a therapeutic effect.
 - Cerebral infarction, HIV infection, homozygous familial hypercholesterolemia, malignant catarrh and infectious bovine rhinotracheitis: all prediction-only. The last two are veterinary diseases and likely ontology-mapping artifacts.
 
 ## Clinical Trial Evidence
@@ -84,7 +84,7 @@ For reference, the two papers linked to other predicted indications report safet
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA761137 | PADCEV (Seagen Inc.) | Lyophilized powder for injection solution | Not listed in the compiled data (status: cancelled) |
+| BLA761137 | PADCEV (Seagen Inc.) | Lyophilized powder for injection solution | Not listed in the compiled data (status: valid) |
 
 ## Cytotoxicity
 

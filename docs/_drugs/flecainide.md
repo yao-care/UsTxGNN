@@ -4,17 +4,17 @@ title: Flecainide
 parent: Moderate Evidence (L3-L4)
 nav_order: 710
 evidence_level: L4
-indication_count: 10
+indication_count: 9
 monitor_inn: "FLECAINIDE"
-predicted_indications: ["stroke disorder", "obsolete susceptibility to ischemic stroke", "sick sinus syndrome 2, autosomal dominant", "ABri amyloidosis", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "duodenal obstruction", "cerebrovascular disorder", "nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-10-14
-description: "Flecainide: predicted new indication Stroke disorder (evidence level L4). Approved use: Atrial fibrillation"
+predicted_indications: ["stroke disorder", "sick sinus syndrome 2, autosomal dominant", "ABri amyloidosis", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "duodenal obstruction", "cerebrovascular disorder", "nephrogenic syndrome of inappropriate antidiuresis"]
+last_modified_at: 2026-10-28
+description: "Flecainide: predicted new indication Stroke disorder (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Flecainide
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Flecainide: From Atrial Fibrillation to Stroke Disorder
+## Flecainide: Stroke disorder
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,11 +48,11 @@ but the support is indirect: **1 clinical trial** (with an arrhythmia endpoint, 
 
 | Item | Content |
 |------|------|
-| Original Indication | Atrial fibrillation (from the TxGNN knowledge graph; no approved indication text is available in the US license records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Stroke disorder |
-| TxGNN Prediction Score | 99.91% |
+| TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (all 7 ANDAs cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 7) |
 | Number of NDAs | 7 (all ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
@@ -62,7 +62,7 @@ but the support is indirect: **1 clinical trial** (with an arrhythmia endpoint, 
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on known information, flecainide is a class 1C sodium channel blocker used for rhythm control in atrial fibrillation (AF).
 
-The link between AF and stroke is indirect. Stroke is a major downstream consequence of AF, so reducing AF burden could in theory lower cardioembolic risk. However, no study shows that flecainide itself prevents stroke. The high TxGNN score most likely reflects the well-known AF-stroke association in the knowledge graph rather than a direct therapeutic effect.
+The link between AF and stroke is indirect. Stroke is a major downstream consequence of AF, so reducing AF burden could in theory lower cardioembolic risk. However, no study shows that flecainide itself prevents stroke. The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence of a direct therapeutic effect.
 
 There is also a practical limit. Flecainide is considered inappropriate in structural or ischemic heart disease, which describes many stroke patients.
 
@@ -97,15 +97,15 @@ No randomized trial of flecainide for stroke prevention was found. The literatur
 
 ## US Market Information
 
-All seven authorizations are cancelled, and no approved indication text is available for them.
+All seven authorizations are valid, and no approved indication text is available for them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA075882 | Flecainide Acetate (Golden State Medical Supply) | Tablet | Not available (cancelled) |
-| ANDA202821 | Flecainide Acetate (Aurobindo Pharma) | Tablet | Not available (cancelled) |
-| ANDA075442 | Flecainide Acetate (Amneal Pharmaceuticals) | Tablet | Not available (cancelled) |
-| ANDA079164 | Flecainide Acetate (Chartwell RX) | Tablet | Not available (cancelled) |
-| ANDA210683 | Flecainide Acetate (Unichem Pharmaceuticals USA) | Tablet | Not available (cancelled) |
+| ANDA075882 | Flecainide Acetate (Golden State Medical Supply) | Tablet | Not available (valid) |
+| ANDA202821 | Flecainide Acetate (Aurobindo Pharma) | Tablet | Not available (valid) |
+| ANDA075442 | Flecainide Acetate (Amneal Pharmaceuticals) | Tablet | Not available (valid) |
+| ANDA079164 | Flecainide Acetate (Chartwell RX) | Tablet | Not available (valid) |
+| ANDA210683 | Flecainide Acetate (Unichem Pharmaceuticals USA) | Tablet | Not available (valid) |
 
 ---
 
@@ -124,16 +124,16 @@ Please refer to the package insert for the full warnings and contraindications, 
 **Decision: Hold**
 
 **Rationale:**
-The stroke prediction rests on the indirect AF-stroke association. The only trial measures arrhythmia after PFO closure, not stroke, and there is no direct evidence that flecainide prevents stroke. Safety concerns (ischemic and structural heart disease, conduction disease, many drug interactions) further limit use in stroke populations. All US licenses are cancelled, and blocking data gaps remain in label safety information. The evidence level is L4, which is a research question rather than a development candidate.
+The stroke prediction rests on the indirect AF-stroke association. The only trial measures arrhythmia after PFO closure, not stroke, and there is no direct evidence that flecainide prevents stroke. Safety concerns (ischemic and structural heart disease, conduction disease, many drug interactions) further limit use in stroke populations. The drug is marketed in the US with 7 valid licenses, and blocking data gaps remain in label safety information. The evidence level is L4, which is a research question rather than a development candidate.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data
 - Results of NCT05213104 (expected completion September 2026), to see whether reducing atrial arrhythmia after PFO closure translates into fewer cerebrovascular events
 - Direct studies of flecainide with stroke or cerebrovascular outcomes as the endpoint, in patients without structural or ischemic heart disease
-- Clarification of current US commercial availability, since all listed ANDAs are cancelled
+- Clarification of current US commercial availability
 
-**Other predicted indications (ranks 2–10):** The remaining predictions are weaker. "Cerebrovascular disorder" (99.22%, L4) rests on the same indirect AF-stroke logic and the same trial. The other eight (obsolete susceptibility to ischemic stroke, sick sinus syndrome 2, ABri amyloidosis, sarcoglycanopathy, Wildervanck syndrome, macrocephaly with dysmorphic facies and psychomotor retardation, duodenal obstruction, nephrogenic syndrome of inappropriate antidiuresis) are model predictions only (L5), with no trials or literature and no plausible mechanism. Sick sinus syndrome 2 is also a safety conflict, since flecainide can worsen sinus node dysfunction. All are on Hold.
+**Other predicted indications (ranks 2–10):** The remaining predictions are weaker. "Cerebrovascular disorder" (0.9922, L4) rests on the same indirect AF-stroke logic and the same trial. The other eight (obsolete susceptibility to ischemic stroke, sick sinus syndrome 2, ABri amyloidosis, sarcoglycanopathy, Wildervanck syndrome, macrocephaly with dysmorphic facies and psychomotor retardation, duodenal obstruction, nephrogenic syndrome of inappropriate antidiuresis) are model predictions only (L5), with no trials or literature and no plausible mechanism. Sick sinus syndrome 2 is also a safety conflict, since flecainide can worsen sinus node dysfunction. All are on Hold.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

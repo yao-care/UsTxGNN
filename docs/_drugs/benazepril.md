@@ -4,17 +4,17 @@ title: Benazepril
 parent: Model Prediction Only (L5)
 nav_order: 443
 evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-14
-description: "Benazepril: predicted new indication Malignant renovascular hypertension (evidence level L5). Approved use: Hypertension (hypertensive disorder)"
+indication_count: 4
 monitor_inn: "BENAZEPRIL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
+last_modified_at: 2026-10-27
+description: "Benazepril: predicted new indication malignant hypertensive renal disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Benazepril
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **4** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,45 +33,34 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-## Benazepril: From Hypertension to Malignant Renovascular Hypertension
+## Benazepril: ACE inhibitor → malignant hypertensive renal disease
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Benazepril is an ACE inhibitor originally used to treat hypertension.
-The TxGNN model predicts it may be effective for **malignant renovascular hypertension**,
-but **0 clinical trials** and **0 relevant publications** currently support this direction, so the prediction rests on a computational score and class-level reasoning only.
+Benazepril is an angiotensin-converting enzyme (ACE) inhibitor marketed in the United States.
+The TxGNN model predicts it may be useful for **malignant hypertensive renal disease**.
+So far, **no clinical trials and no publications** directly studying this disease with benazepril have been compiled, so the prediction rests on the model score and class-level mechanistic reasoning.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension (hypertensive disorder) |
-| Predicted New Indication | Malignant renovascular hypertension |
-| TxGNN Prediction Score | 99.65% |
-| Evidence Level | L4 (no clinical trials or literature; indirect, class-level mechanistic support only) |
-| US Market Status | Cancelled only (all licenses cancelled) |
-| Number of NDAs | 4 (all ANDAs, all cancelled) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | malignant hypertensive renal disease |
+| TxGNN Prediction Score | 0.9965 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 4) |
+| Number of NDAs | at least 4 |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on known information, benazepril belongs to the ACE inhibitor class. Its efficacy in hypertension is established, and mechanistically it may be applicable to malignant renovascular hypertension.
+Detailed mechanism-of-action data for benazepril are not available in the data compiled for this report. Based on its drug class, benazepril blocks the ACE enzyme and thereby dampens the renin-angiotensin-aldosterone system (RAAS). This lowers blood pressure and reduces pressure inside the kidney's filtering units.
 
-Malignant renovascular hypertension is driven by marked activation of the renin-angiotensin system. ACE inhibition therefore makes mechanistic sense, since it reduces angiotensin II formation and lowers blood pressure.
+Malignant hypertensive kidney disease involves severe blood pressure elevation together with strong RAAS activation. Reducing intraglomerular pressure and protein leakage is therefore biologically coherent for an ACE inhibitor.
 
-There is an important safety concern. ACE inhibitors are known to risk precipitating acute renal failure in patients with bilateral renal artery stenosis or stenosis in a solitary kidney, which is the population at issue here. The high TxGNN score is a computational prediction only and is not a substitute for clinical evidence.
-
-**Other predicted indications (for reference):**
-
-| Rank | Predicted Indication | TxGNN Score | Evidence Level | Recommendation |
-|---|---|---|---|---|
-| 2 | Malignant hypertensive renal disease | 99.65% | L4 | Research Question |
-| 3 | Pulmonary hypertension with unclear multifactorial mechanism | 99.60% | L5 | Hold |
-| 4 | Pulmonary hypertension owing to lung disease and/or hypoxia | 99.60% | L5 | Hold |
-| 5 | Braddock syndrome | 99.44% | L5 | Hold |
-
-Malignant hypertensive renal disease is a close extension of the approved indication, because ACE inhibitors lower blood pressure and intraglomerular pressure and reduce proteinuria. The pulmonary hypertension predictions are speculative, as ACE inhibitors are not an established treatment there and hypotension is a concern. For Braddock syndrome, no mechanistic link could be established from the available data.
+This reasoning is indirect, however. It rests on class-level knowledge and on the TxGNN score. No study specific to benazepril in this disease was supplied. Any investigation would need close monitoring of kidney function and potassium.
 
 ## Clinical Trial Evidence
 
@@ -79,42 +68,44 @@ Currently no related clinical trials registered.
 
 ## Literature Evidence
 
-Currently no related literature available for malignant renovascular hypertension.
-
-(For the rank 4 prediction, three publications were retrieved, but they concern traditional Chinese medicine formulations in renal and cardiac fibrosis models. They do not study benazepril or pulmonary hypertension and were judged not relevant.)
+Currently no related literature available.
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Status |
-|---------|------|------|-----------|
-| ANDA076118 | Benazepril Hydrochloride (PD-Rx Pharmaceuticals) | Tablet, coated | Cancelled |
-| ANDA076820 | Benazepril Hydrochloride (Bryant Ranch Prepack) | Tablet | Cancelled |
-| ANDA078212 | Benazepril Hydrochloride (Preferred Pharmaceuticals) | Tablet, film coated | Cancelled |
-| ANDA076267 | Benazepril Hydrochloride (Chartwell RX) | Tablet | Cancelled |
+Benazepril is marketed in the United States. The records compiled for this report are listed below and may be partial.
 
-All four licenses are oral single-ingredient products and all are cancelled. No approved indication text was recorded for them.
+| Authorization Number | Product Name | Dosage Form | Manufacturer |
+|---------|------|------|-----------|
+| ANDA076118 | Benazepril Hydrochloride | Tablet, coated | PD-Rx Pharmaceuticals, Inc. |
+| ANDA076820 | Benazepril Hydrochloride | Tablet | Bryant Ranch Prepack |
+| ANDA078212 | Benazepril Hydrochloride | Tablet, film coated | Preferred Pharmaceuticlas Inc. |
+| ANDA076267 | Benazepril hydrochloride | Tablet | Chartwell RX, LLC |
+
+All listed products are oral dosage forms.
 
 ## Safety Considerations
 
-- **Contraindication-related conditions (from the knowledge graph, not label text):** Liver failure, kidney disease, pancreatitis, liver disease, gallbladder disease, angioedema (including hereditary, acquired, and RAAS-blocker-induced forms), systemic lupus erythematosus, potassium deficiency disease, diabetes mellitus and diabetic ketoacidosis, neutropenia, agranulocytosis, hypotensive disorder, hyperparathyroidism, hepatic coma and encephalopathy, connective tissue disease, neonatal jaundice, and anuria.
-- **Drug Interactions:** 100 interactions were found, and the main ones listed are all moderate. They are mostly with glucose-lowering agents, including insulins (human, aspart, degludec, detemir, glargine, glulisine, lispro), sulfonylureas (acetohexamide, chlorpropamide, glimepiride, glipizide, glyburide), alogliptin, dapagliflozin, and exenatide. Hydrocortisone and glycerin are also listed.
-- **Setting-specific concern:** In renovascular disease, ACE inhibition carries a risk of acute renal failure, so renal function and potassium would need close monitoring.
+- **Drug Interactions**: The interaction screening returned 100 interacting drugs. The entries reviewed are all rated Moderate and are mainly:
+  - Glucose-lowering drugs: insulins (human, aspart, degludec, detemir, glargine, glulisine, lispro and others), sulfonylureas (acetohexamide, chlorpropamide, glimepiride, glipizide, glyburide), alogliptin, dapagliflozin and exenatide
+  - Corticosteroids: hydrocortisone
+  - Glycerin
 
-Please refer to the package insert for the full warnings, since label-based warnings and contraindications were not available in the data compiled for this report.
+  Blood glucose should be monitored closely when benazepril is combined with these agents.
+
+For warnings and contraindications, please refer to the package insert.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The prediction is mechanistically plausible but has no supporting trials or literature, and the renal safety risk in renovascular stenosis is significant. All US licenses are also cancelled, which limits near-term development.
+The prediction score is high (0.9965) and the mechanistic reasoning is plausible for an ACE inhibitor. However, no clinical trial or publication directly studies benazepril in malignant hypertensive renal disease, so the evidence is at the model-prediction level only (L5).
 
 **To proceed, the following is needed:**
-- FDA package insert warnings and contraindications (a blocking gap for safety screening)
-- Detailed mechanism of action data
-- Targeted literature and trial searches for ACE inhibitors in malignant renovascular hypertension and malignant hypertensive nephrosclerosis
-- A renal safety assessment for patients with bilateral renal artery stenosis or a solitary kidney
-- Expert review of the lower-ranked predictions, especially Braddock syndrome, before any further consideration
+- A systematic literature search for ACE inhibitors, or benazepril specifically, in malignant hypertensive nephrosclerosis
+- Detailed mechanism-of-action data for benazepril
+- The package insert warnings and contraindications, reviewed for renal impairment, hyperkalaemia and hypotension
+- A kidney-function and potassium monitoring plan for any proposed study
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

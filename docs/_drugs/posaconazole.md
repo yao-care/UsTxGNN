@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **Pneumocystosis**, but only **
 |------|------|
 | Original Indication | Chromomycosis, coccidioidomycosis, aspergillosis, candidiasis, histoplasmosis, sporotrichosis, fusariosis, mycetoma and other fungal infections |
 | Predicted New Indication | Pneumocystosis |
-| TxGNN Prediction Score | 99.77% |
+| TxGNN Prediction Score | 0.9977 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all licenses cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 14) |
 | Number of NDAs | 14 (2 NDAs and 12 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
@@ -57,7 +57,7 @@ The TxGNN model predicts it may be effective for **Pneumocystosis**, but only **
 
 Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, posaconazole is a triazole antifungal that inhibits fungal lanosterol 14-alpha-demethylase (CYP51), which blocks ergosterol synthesis. Its efficacy against several fungal infections is established.
 
-The prediction is weak mechanistically. *Pneumocystis jirovecii* has cholesterol rather than ergosterol in its membranes, so azoles are generally considered ineffective against it. First-line therapy is trimethoprim-sulfamethoxazole. The very high TxGNN score likely reflects the drug's broad antifungal class association in the knowledge graph rather than a true mechanistic link.
+The prediction is weak mechanistically. *Pneumocystis jirovecii* has cholesterol rather than ergosterol in its membranes, so azoles are generally considered ineffective against it. First-line therapy is trimethoprim-sulfamethoxazole. The very high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Clinical Trial Evidence
 
@@ -79,15 +79,15 @@ None of these publications tests posaconazole for pneumocystosis.
 
 ## US Market Information
 
-All 14 US authorizations are listed as cancelled. The data compiled for this report contains no approved indication text. The main authorizations are:
+The drug is marketed in the US, with 14 valid licenses. The data compiled for this report contains no approved indication text. The main authorizations are:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA205596 | NOXAFIL (Merck Sharp & Dohme LLC) | Solution | Not available (cancelled) |
-| NDA205053 | Posaconazole (Bryant Ranch Prepack) | Tablet, coated | Not available (cancelled) |
-| ANDA214842 | Posaconazole (Eugia US LLC) | Injection | Not available (cancelled) |
-| ANDA212226 | Posaconazole (Golden State Medical Supply) | Tablet, delayed release | Not available (cancelled) |
-| ANDA219057 | Posaconazole (Camber Pharmaceuticals) | Solution | Not available (cancelled) |
+| NDA205596 | NOXAFIL (Merck Sharp & Dohme LLC) | Solution | Not available (valid) |
+| NDA205053 | Posaconazole (Bryant Ranch Prepack) | Tablet, coated | Not available (valid) |
+| ANDA214842 | Posaconazole (Eugia US LLC) | Injection | Not available (valid) |
+| ANDA212226 | Posaconazole (Golden State Medical Supply) | Tablet, delayed release | Not available (valid) |
+| ANDA219057 | Posaconazole (Camber Pharmaceuticals) | Solution | Not available (valid) |
 
 Available dosage forms include injectable, oral (delayed-release and coated tablets) and solution.
 
@@ -110,7 +110,7 @@ The high TxGNN score is not backed by a plausible mechanism, because *Pneumocyst
 - Mechanism of action data, plus evidence that posaconazole has activity against *Pneumocystis*
 - Preclinical or clinical studies of posaconazole in pneumocystosis, or a review of any posaconazole-containing prophylaxis trials that report *Pneumocystis* outcomes
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
-- Clarification of the regulatory status, since all US licenses are listed as cancelled
+- Confirmation of the regulatory status of the 14 valid US licenses
 - Comparison against trimethoprim-sulfamethoxazole, the standard of care
 ## Disclaimer
 

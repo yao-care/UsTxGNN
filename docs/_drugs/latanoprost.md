@@ -4,17 +4,17 @@ title: Latanoprost
 parent: Model Prediction Only (L5)
 nav_order: 839
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Latanoprost: predicted new indication Primary hereditary glaucoma (evidence level L5). Approved use: Open-angle glaucoma"
 monitor_inn: "LATANOPROST"
 predicted_indications: ["visceral calciphylaxis", "hypotrichosis simplex of the scalp", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "congenital hypotrichosis milia", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis"]
+description: "Latanoprost: predicted new indication Visceral calciphylaxis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Latanoprost
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,36 +33,35 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Latanoprost: From Open-Angle Glaucoma to Primary Hereditary Glaucoma
+## Latanoprost: Visceral calciphylaxis
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Latanoprost is a prostaglandin eye drop originally used to treat open-angle glaucoma and ocular hypertension.
-The TxGNN model predicts it may be effective for **primary hereditary glaucoma**,
 but **0 clinical trials** and **0 publications** are currently available to support this direction, so the prediction rests on the model alone.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Open-angle glaucoma; ocular hypertension |
-| Predicted New Indication | Primary hereditary glaucoma |
-| TxGNN Prediction Score | 99.88% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Visceral calciphylaxis |
+| TxGNN Prediction Score | 0.9983 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 10 (all cancelled; includes 3 NDAs and 7 ANDAs) |
+| US Market Status | Marketed (valid licenses: 10 of 10) |
+| Number of NDAs | 10 (valid: 10) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacological knowledge, latanoprost is a prostaglandin F2-alpha analog that lowers intraocular pressure (IOP) by increasing uveoscleral outflow of aqueous humour.
 
-Hereditary glaucoma is also characterised by elevated IOP, so an IOP-lowering mechanism is plausible. The very high TxGNN score is probably driven largely by the drug's proximity to the approved glaucoma indications in the knowledge graph, rather than by independent evidence.
+Hereditary glaucoma is also characterised by elevated IOP, so an IOP-lowering mechanism is plausible.
 
 Caution is needed. Primary congenital forms of glaucoma are typically managed surgically, and prostaglandin analogs are reported to have variable efficacy in paediatric patients. This is background knowledge, not part of the compiled evidence.
 
-Other predictions for this drug (ranked by score) are weaker. Hair-growth conditions (hypotrichosis simplex of the scalp, congenital hypotrichosis milia) have a biologically plausible link, since prostaglandin F2-alpha analogs stimulate hair growth. Vascular, thoracic outlet, gastric and lymphatic conditions (visceral calciphylaxis, thoracic outlet syndromes, angiodysplasia of stomach, blue toe syndrome, lymphangiectasis) have no credible mechanistic link and are likely knowledge-graph artifacts. None has any supporting trials or literature.
+Other predictions for this drug (ranked by score) are weaker. Hair-growth conditions (hypotrichosis simplex of the scalp, congenital hypotrichosis milia) have a biologically plausible link, since prostaglandin F2-alpha analogs stimulate hair growth. Vascular, thoracic outlet, gastric and lymphatic conditions (visceral calciphylaxis, thoracic outlet syndromes, angiodysplasia of stomach, blue toe syndrome, lymphangiectasis) have no credible mechanistic link and are likely TxGNN model (deep learning) artifacts. None has any supporting trials or literature.
 
 ## Clinical Trial Evidence
 
@@ -74,15 +73,15 @@ Currently no related literature available.
 
 ## US Market Information
 
-All 10 listed authorizations are cancelled. No approved-indication text was available for any of them.
+No approved-indication text was available for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| ANDA091449 | Latanoprost (Sandoz Inc) | Solution | Cancelled |
-| ANDA218257 | Latanoprost (Sagent Pharmaceuticals) | Solution/drops | Cancelled |
-| ANDA202442 | Latanoprost (Rising Pharma Holdings) | Solution | Cancelled |
-| ANDA201786 | Latanoprost (Somerset Therapeutics) | Solution/drops | Cancelled |
-| NDA020597 | Latanoprost (Mylan Pharmaceuticals) | Solution | Cancelled |
+| ANDA091449 | Latanoprost (Sandoz Inc) | Solution | Valid |
+| ANDA218257 | Latanoprost (Sagent Pharmaceuticals) | Solution/drops | Valid |
+| ANDA202442 | Latanoprost (Rising Pharma Holdings) | Solution | Valid |
+| ANDA201786 | Latanoprost (Somerset Therapeutics) | Solution/drops | Valid |
+| NDA020597 | Latanoprost (Mylan Pharmaceuticals) | Solution | Valid |
 
 Other cancelled authorizations include NDA216472 (IYUZEH, Thea Pharma) and NDA206185 (XELPROS, Sun Pharmaceutical), plus three further ANDAs.
 
@@ -105,7 +104,6 @@ The prediction is supported only by the model score (L5), with no clinical trial
 - Detailed mechanism of action data
 - Literature and trial searches specific to hereditary and congenital glaucoma, including paediatric efficacy and safety
 - Route compatibility and similarity-to-original assessments, which are still pending
-- Clarification of current US market status, since all licenses are cancelled
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

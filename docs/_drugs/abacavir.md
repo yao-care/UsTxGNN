@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Abacavir
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 36
-evidence_level: L4
+evidence_level: L5
 indication_count: 3
 monitor_inn: "ABACAVIR"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
@@ -14,7 +14,7 @@ description: "Abacavir: predicted new indication Simian immunodeficiency virus i
 # Abacavir
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Currently there are **0 clinical trials** and **1 publication** (an in vitro sus
 |------|------|
 | Original Indication | HIV infectious disease; AIDS |
 | Predicted New Indication | Simian immunodeficiency virus infection |
-| TxGNN Prediction Score | 99.79% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (all licenses cancelled) |
-| Number of NDAs | 7 (1 NDA and 6 ANDAs, all cancelled) |
+| TxGNN Prediction Score | 0.9979 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 7 of 7) |
+| Number of NDAs | 7 (valid: 7) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -63,8 +63,8 @@ Simian immunodeficiency virus (SIV) is a lentivirus closely related to HIV, and 
 However, SIV infection is a disease of non-human primates and has no human clinical development path. It overlaps with the existing HIV indication rather than representing a genuinely new use for patients. Its value for repurposing is therefore limited.
 
 Two other predictions were also generated:
-- **Feline acquired immunodeficiency syndrome (FIV):** Score 99.79%. One animal study (PMID 11684314) tested zidovudine, lamivudine and abacavir in combination. It is indirect, veterinary evidence only, and abacavir's own contribution cannot be isolated. Evidence level L4, decision Hold.
-- **Neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter:** Score 99.78%. This is a model prediction only, with no trials or literature, and no plausible pathway linking an NRTI to this rare disorder is supported. Evidence level L5, decision Hold.
+- **Feline acquired immunodeficiency syndrome (FIV):** Score 0.9979. One animal study (PMID 11684314) tested zidovudine, lamivudine and abacavir in combination. It is indirect, veterinary evidence only, and abacavir's own contribution cannot be isolated. Evidence level L4, decision Hold.
+- **Neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter:** Score 0.9978. This is a model prediction only, with no trials or literature, and no plausible pathway linking an NRTI to this rare disorder is supported. Evidence level L5, decision Hold.
 
 ## Clinical Trial Evidence
 
@@ -86,13 +86,13 @@ Related literature for the feline prediction:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA020978 | ZIAGEN (ViiV Healthcare) | Solution | Not listed (cancelled) |
-| ANDA091294 | Abacavir Sulfate (Mylan) | Tablet, film coated | Not listed (cancelled) |
-| ANDA077844 | Abacavir (Aurobindo) | Tablet, film coated | Not listed (cancelled) |
-| ANDA078119 | Abacavir (Cipla USA) | Tablet, film coated | Not listed (cancelled) |
-| ANDA091560 | Abacavir (Coupler) | Tablet | Not listed (cancelled) |
+| NDA020978 | ZIAGEN (ViiV Healthcare) | Solution | Not listed (valid) |
+| ANDA091294 | Abacavir Sulfate (Mylan) | Tablet, film coated | Not listed (valid) |
+| ANDA077844 | Abacavir (Aurobindo) | Tablet, film coated | Not listed (valid) |
+| ANDA078119 | Abacavir (Cipla USA) | Tablet, film coated | Not listed (valid) |
+| ANDA091560 | Abacavir (Coupler) | Tablet | Not listed (valid) |
 
-All 7 licenses are cancelled; none is currently valid. Two further cancelled solution ANDAs (Camber ANDA201107, Rising ANDA077950) are not shown.
+All 7 licenses are valid. Two further cancelled solution ANDAs (Camber ANDA201107, Rising ANDA077950) are not shown.
 
 ## Safety Considerations
 
@@ -107,14 +107,14 @@ Package insert warnings and contraindications were not available for this report
 **Decision: Hold**
 
 **Rationale:**
-The only support for the top prediction is a single in vitro study. There are no clinical trials, and SIV is an animal-model disease with no human development path. All US licenses are cancelled, and the prediction largely overlaps with abacavir's existing HIV indication.
+The only support for the top prediction is a single in vitro study. There are no clinical trials, and SIV is an animal-model disease with no human development path. The drug is marketed in the US, with all 7 licenses valid, and the prediction largely overlaps with abacavir's existing HIV indication.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data from DrugBank
 - A clear human-relevant indication, since the current top predictions are animal-model diseases or have no mechanistic link
 - Independent target and pathophysiology review for the neurodevelopmental disorder prediction
-- Clarification of the US regulatory status, given that all licenses are cancelled
+- Clarification of the US regulatory status, given that the drug is marketed and all 7 licenses are valid
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

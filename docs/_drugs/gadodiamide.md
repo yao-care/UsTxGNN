@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Gadodiamide
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 743
-evidence_level: L4
-indication_count: 2
+evidence_level: L5
+indication_count: 1
 monitor_inn: "GADODIAMIDE"
-predicted_indications: ["rheumatoid arthritis", "osteoarthritis susceptibility"]
+predicted_indications: ["rheumatoid arthritis"]
 last_modified_at: 2026-10-14
 description: "Gadodiamide: predicted new indication Rheumatoid arthritis (evidence level L4). Approved use: Not available in the data compiled for this report (a diagnostic MRI…"
 ---
@@ -14,7 +14,7 @@ description: "Gadodiamide: predicted new indication Rheumatoid arthritis (eviden
 # Gadodiamide
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **2** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ This prediction is most likely a computational artifact and is not supported as 
 |------|------|
 | Original Indication | Not available in the data compiled for this report (a diagnostic MRI contrast agent) |
 | Predicted New Indication | Rheumatoid arthritis |
-| TxGNN Prediction Score | 99.16% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (no active license) |
-| Number of NDAs | 1 |
+| TxGNN Prediction Score | 0.9916 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -64,7 +64,7 @@ Currently, detailed mechanism of action data is not available. Gadodiamide is a 
 
 The three retrieved publications used gadolinium-enhanced MRI to visualize inflamed joints in rheumatoid arthritis and other inflammatory joint diseases, for example to assess synovitis and predict bone erosions. They support a **diagnostic or imaging-assessment role**, not treatment of the disease.
 
-The high TxGNN score (0.99) probably reflects network associations in the knowledge graph (the drug appears frequently alongside rheumatoid arthritis in imaging studies), not a pharmacological effect. No disease-modifying mechanism is supported. The model also ranked a second prediction, "osteoarthritis susceptibility" (score 99.11%), which has no trials or literature and is a susceptibility phenotype rather than a treatable disease, so it is likely a knowledge-graph artifact as well.
+The high TxGNN score (0.9916) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No disease-modifying mechanism is supported.
 
 ---
 
@@ -90,7 +90,7 @@ All three studies concern imaging diagnosis, not therapeutic efficacy.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA020123 | OMNISCAN (GE Healthcare Inc.) | Injection | Not listed (license status: cancelled) |
+| NDA020123 | OMNISCAN (GE Healthcare Inc.) | Injection | Not listed (license status: valid) |
 
 ---
 
@@ -108,7 +108,7 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-Gadodiamide is a diagnostic contrast agent with no known therapeutic mechanism. The available literature supports only an imaging role in rheumatoid arthritis, there are no clinical trials, and the license is cancelled. The high TxGNN score is probably a knowledge-graph artifact.
+Gadodiamide is a diagnostic contrast agent with no known therapeutic mechanism. The available literature supports only an imaging role in rheumatoid arthritis, there are no clinical trials, and the license is cancelled. The high TxGNN score is probably a TxGNN model (deep learning) artifact.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

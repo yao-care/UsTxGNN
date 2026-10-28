@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Mepolizumab
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 900
-evidence_level: L4
+evidence_level: L5
 indication_count: 5
 monitor_inn: "MEPOLIZUMAB"
 predicted_indications: ["thrombocytopenia due to immune destruction", "primary release disorder of platelets", "pseudo-von Willebrand disease", "autoimmune thrombocytopenic", "Glanzmann thrombasthenia"]
@@ -14,7 +14,7 @@ description: "Mepolizumab: predicted new indication Thrombocytopenia due to immu
 # Mepolizumab
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **5** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ but currently only **1 case report** supports this direction, with **no register
 |------|------|
 | Original Indication | Eosinophilic pneumonia; pulmonary eosinophilia |
 | Predicted New Indication | Thrombocytopenia due to immune destruction |
-| TxGNN Prediction Score | 99.66% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (the two listed BLAs are both cancelled) |
-| Number of NDAs | 2 (BLAs) |
+| TxGNN Prediction Score | 0.9966 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 A plausible link to immune-mediated thrombocytopenia exists only in a narrow context: hypereosinophilic syndrome accompanied by an immune-mediated cytopenia, where eosinophil-driven immune dysregulation may contribute to platelet destruction. There is no established role for IL-5 blockade in primary immune thrombocytopenia, which is driven mainly by anti-platelet autoantibodies and T-cell dysregulation.
 
-The high TxGNN score (99.66%) is a computational prediction reflecting network proximity in the knowledge graph. It does not substitute for clinical evidence.
+The high TxGNN score (0.9966) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It does not substitute for clinical evidence.
 
 ## Clinical Trial Evidence
 
@@ -76,8 +76,8 @@ Currently no related clinical trials registered.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA125526 | Nucala (GlaxoSmithKline LLC) | Injection, powder, for solution | Not available (status: cancelled) |
-| BLA761122 | Nucala (GlaxoSmithKline LLC) | Injection, solution | Not available (status: cancelled) |
+| BLA125526 | Nucala (GlaxoSmithKline LLC) | Injection, powder, for solution | Not available (status: valid) |
+| BLA761122 | Nucala (GlaxoSmithKline LLC) | Injection, solution | Not available (status: valid) |
 
 ## Safety Considerations
 

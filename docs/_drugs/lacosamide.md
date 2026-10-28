@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Lacosamide
-parent: High Evidence (L1-L2)
+parent: Model Prediction Only (L5)
 nav_order: 828
-evidence_level: L1
+evidence_level: L5
 indication_count: 10
 monitor_inn: "LACOSAMIDE"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "insomnia (disease)", "migraine with brainstem aura", "myofascial pain syndrome", "obsessive-compulsive disorder", "papillary conjunctivitis"]
 last_modified_at: 2026-10-14
-description: "Lacosamide: predicted new indication Migraine disorder (evidence level L1). Approved use: Not available in the data compiled for this report"
+description: "Lacosamide: predicted new indication Manic bipolar affective disorder (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Lacosamide
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-## Lacosamide: From Epilepsy (Original Indication Not Listed in Data) to Migraine Disorder
+## Lacosamide: Manic bipolar affective disorder
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,15 +48,15 @@ Evidence is strongest for active-comparator trials against propranolol and topir
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in the data compiled for this report (the approved indication text is blank in all licenses; the literature describes lacosamide as an antiepileptic drug) |
-| Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.87% |
-| Evidence Level | L1 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Manic bipolar affective disorder |
+| TxGNN Prediction Score | 0.9996 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 13) |
 | Number of NDAs | 13 (all ANDA generic applications, all cancelled; no NDA in the data) |
 | Recommended Decision | Proceed with Guardrails |
 
-Note: The top-ranked TxGNN prediction is manic bipolar affective disorder (99.96%, evidence level L3, "Research Question"). Migraine disorder is reported here because it has the strongest clinical evidence among the ten predictions.
+Note: The top-ranked TxGNN prediction is manic bipolar affective disorder (0.9996, evidence level L3, "Research Question"). Migraine disorder is reported here because it has the strongest clinical evidence among the ten predictions.
 
 ---
 
@@ -100,7 +100,7 @@ These links are plausible but still partly indirect. Most of the clinical trials
 
 ## US Market Information
 
-All 13 licenses in the data are cancelled generic applications, and the approved indication text is blank for each. Five are listed below.
+Five are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -139,7 +139,6 @@ Migraine has several completed Phase 3 trials, including two active-comparator t
 - The FDA package insert warnings and contraindications and the approved indication text, which are currently missing.
 - Mechanism-of-action data from DrugBank to support the CRMP2/CGRP hypothesis.
 - A safety monitoring plan covering cardiac conduction (PR interval, ECG), dizziness, and screening for interacting drugs, especially in patients with cardiac conduction disease.
-- Note on US availability: all listed licenses are cancelled, so current market status should be confirmed before planning development.
 
 **Other predicted indications (for reference):**
 - Manic bipolar affective disorder: Research Question (L3), supported by a retrospective cohort and an open-label pilot trial, with no registered trials.

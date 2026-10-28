@@ -4,7 +4,7 @@ title: Alglucosidase Alfa
 parent: Model Prediction Only (L5)
 nav_order: 221
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-14
 description: "Alglucosidase Alfa: predicted new indication Adult polyglucosan body disease (evidence level L5). Approved use: Glycogen storage disease (Pompe disease)"
 monitor_inn: "ALGLUCOSIDASE ALFA"
@@ -14,7 +14,7 @@ predicted_indications: ["adult polyglucosan body disease", "congenital entropion
 # Alglucosidase Alfa
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **8** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ but **no clinical trials and no publications** currently support this direction,
 |------|------|
 | Original Indication | Glycogen storage disease (Pompe disease) |
 | Predicted New Indication | Adult polyglucosan body disease |
-| TxGNN Prediction Score | 99.47% |
+| TxGNN Prediction Score | 0.9947 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 2 (BLA licenses, both cancelled) |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -66,8 +66,7 @@ The rationale is weak for three reasons:
 - Enzyme replacement therapy penetrates the central nervous system poorly, which limits relevance for a neurological disease.
 
 Other top-ranked predictions have similarly weak support:
-- **Glycogen branching enzyme deficiency forms (congenital neuromuscular and fatal perinatal; score 99.32% each):** the link is only the shared glycogen storage disease class, and the drug does not replace branching enzyme.
-- **Eyelid and ocular congenital conditions (congenital entropion, congenital ectropion, epiblepharon, congenital Horner syndrome, ptosis-strabismus-ectopic pupils syndrome) and related rare syndromes (ptosis-vocal cord paralysis syndrome, camptodactyly-myopia-medial rectus fibrosis syndrome):** no plausible mechanistic connection was identified, and these predictions appear to be graph-based artifacts.
+- **Eyelid and ocular congenital conditions (congenital entropion, congenital ectropion, epiblepharon, congenital Horner syndrome, ptosis-strabismus-ectopic pupils syndrome) and related rare syndromes (ptosis-vocal cord paralysis syndrome, camptodactyly-myopia-medial rectus fibrosis syndrome):** no plausible mechanistic connection was identified; the scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Clinical Trial Evidence
 
@@ -81,8 +80,8 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA125291 | Lumizyme (Genzyme Corporation) | Injection, powder, for solution | Not available (status: cancelled) |
-| BLA761194 | Nexviazyme (Genzyme Corporation) | Injection, powder, lyophilized, for solution | Not available (status: cancelled) |
+| BLA125291 | Lumizyme (Genzyme Corporation) | Injection, powder, for solution | Not available (status: valid) |
+| BLA761194 | Nexviazyme (Genzyme Corporation) | Injection, powder, lyophilized, for solution | Not available (status: valid) |
 
 Both licenses are listed as cancelled in the data compiled for this report, and the dosage forms are injectable only.
 

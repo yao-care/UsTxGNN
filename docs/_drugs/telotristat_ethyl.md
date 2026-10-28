@@ -48,10 +48,10 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Diarrheal disease |
 | Predicted New Indication | Cauda equina syndrome |
-| TxGNN Prediction Score | 99.38% |
+| TxGNN Prediction Score | 0.9938 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid authorization) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,9 +60,9 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 No established biological link was identified between lowering peripheral serotonin and cauda equina syndrome. Cauda equina syndrome is a compressive injury of the lumbosacral nerve roots. The drug is not expected to cross the blood-brain barrier appreciably and would not be expected to relieve nerve root compression.
 
-The high score (0.994) is a computational prediction only. It may reflect graph proximity through shared bowel and bladder dysfunction features rather than a true therapeutic mechanism. The prediction should be treated as a hypothesis, not as evidence of efficacy.
+The high score (0.9938) is a computational prediction from the TxGNN model (deep learning) only. It may reflect similarities the model learned between related diseases, such as shared bowel and bladder dysfunction features, not biological evidence or a true therapeutic mechanism. The prediction should be treated as a hypothesis, not as evidence of efficacy.
 
-A second prediction, "obsolete neurogenic bladder (disease)" (score 99.15%), is also at the model-prediction-only stage. Serotonin signalling does play a role in bladder and bowel function, so a speculative link is conceivable, but no supporting data exist. The term is also obsolete in the ontology and should be mapped to a current term (e.g., neurogenic lower urinary tract dysfunction) before any further assessment.
+A second prediction, "obsolete neurogenic bladder (disease)" (score 0.9915), is also at the model-prediction-only stage. Serotonin signalling does play a role in bladder and bowel function, so a speculative link is conceivable, but no supporting data exist. The term is also obsolete in the ontology and should be mapped to a current term (e.g., neurogenic lower urinary tract dysfunction) before any further assessment.
 
 ## Clinical Trial Evidence
 

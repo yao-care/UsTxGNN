@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "TAFENOQUINE"
 predicted_indications: ["Smouldering systemic mastocytosis"]
 last_modified_at: 2026-10-14
-description: "Tafenoquine: predicted new indication Smouldering systemic mastocytosis (evidence level L5). Approved use: Malaria"
+description: "Tafenoquine: predicted new indication Smouldering systemic mastocytosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Tafenoquine
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-## Tafenoquine: From Malaria to Smouldering Systemic Mastocytosis
+## Tafenoquine: Smouldering systemic mastocytosis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,19 +46,19 @@ but **no clinical trials and no publications** currently support this direction,
 
 | Item | Content |
 |------|------|
-| Original Indication | Malaria |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Smouldering systemic mastocytosis |
-| TxGNN Prediction Score | 99.05% |
+| TxGNN Prediction Score | 0.9905 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 2 |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available. Based on known information, tafenoquine is an 8-aminoquinoline antimalarial, and its efficacy in malaria has been established. Any mechanistic link to smouldering systemic mastocytosis cannot be established from the data compiled for this report.
 
-The TxGNN score is very high (99.05%), but it is a graph-based computational prediction only. Possible links to mast cell disease, such as effects on KIT-driven mast cell proliferation, oxidative stress, or lysosomal pathways, are speculative and not supported by any evidence gathered here. Malaria and smouldering systemic mastocytosis are also biologically very different diseases (a parasitic infection versus a clonal mast cell neoplasm), so the relationship between the original and new indication is not apparent.
+The TxGNN score is very high (0.9905), but it comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Possible links to mast cell disease, such as effects on KIT-driven mast cell proliferation, oxidative stress, or lysosomal pathways, are speculative and not supported by any evidence gathered here. Malaria and smouldering systemic mastocytosis are also biologically very different diseases (a parasitic infection versus a clonal mast cell neoplasm), so the relationship between the original and new indication is not apparent.
 
 Mechanistic validation, such as in vitro mast cell assays and KIT D816V models, would be required before any further consideration.
 
@@ -77,7 +77,6 @@ Currently no related literature available.
 | NDA210795 (Cancelled) | Krintafel (GlaxoSmithKline LLC) | Film-coated tablet | Not listed in the data compiled |
 | NDA210607 (Cancelled) | Arakoda (60 Degrees Pharmaceuticals, Inc.) | Film-coated tablet | Not listed in the data compiled |
 
-Both authorizations are oral tablets and both are marked as cancelled, so there is currently no valid US marketing license for single-ingredient tafenoquine in the data compiled.
 
 ## Cytotoxicity
 

@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Aluminum Oxide American Ginseng Anemone Pulsatilla
@@ -51,7 +52,7 @@ A meaningful drug repurposing evaluation **cannot be completed** with the curren
 | Predicted New Indication | None — TxGNN returned 0 candidates |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | L5 (model prediction only — no actual studies linked to this mixture as a whole) |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

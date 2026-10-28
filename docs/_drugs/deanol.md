@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "DEANOL"
 predicted_indications: ["insomnia (disease)"]
 last_modified_at: 2026-10-14
-description: "Deanol: predicted new indication Insomnia (evidence level L5). Approved use: Not recorded"
+description: "Deanol: predicted new indication insomnia (evidence level L5). Approved use: Not recorded"
 ---
 
 # Deanol
@@ -48,15 +48,15 @@ The prediction is a computational hypothesis only.
 |------|------|
 | Original Indication | Not recorded (the single license has no indication text) |
 | Predicted New Indication | Insomnia |
-| TxGNN Prediction Score | 99.87% |
+| TxGNN Prediction Score | 0.9987 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 (cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Currently, detailed mechanism of action data is not available. The only support for this prediction is a very high TxGNN knowledge-graph score. No mechanistic pathway to insomnia can be established from the data compiled for this report.
+Currently, detailed mechanism of action data is not available. The only support for this prediction is a very high TxGNN TxGNN model (deep learning) score. No mechanistic pathway to insomnia can be established from the data compiled for this report.
 
 Deanol is commonly proposed in general background knowledge as a choline precursor and possible acetylcholine modulator. This is not evidence from the compiled data, and any link to sleep regulation would be speculative. Because no original indication is recorded, the relationship between the original and the new indication cannot be assessed either. The prediction should be treated as a hypothesis to be tested, not as a supported conclusion.
 
@@ -74,7 +74,7 @@ Currently no related literature available.
 |---------|------|------|-----------|
 | Not available (cancelled) | DMAE | Liquid | Not recorded |
 
-The only authorization is a cancelled single-ingredient product (manufacturer: Professional Complementary Health Formulas). There is no currently valid authorization.
+The only authorization is a single-ingredient product (manufacturer: Professional Complementary Health Formulas), and it is currently valid. The drug is marketed in the United States.
 
 ## Safety Considerations
 

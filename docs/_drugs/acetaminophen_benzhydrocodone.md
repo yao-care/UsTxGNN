@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Acetaminophen Benzhydrocodone
@@ -51,7 +52,7 @@ This report documents the data gaps and recommends remediation steps before any 
 | Predicted New Indication | — (No TxGNN predictions available) |
 | TxGNN Prediction Score | — |
 | Evidence Level | L5 — Model prediction only; no actual studies linked |
-| US Market Status | Not marketed in Taiwan (Not marketed) |
+| US Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

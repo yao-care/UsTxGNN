@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Actaea Spicata Root Arnica Montana Caulophyllum Th
@@ -49,7 +50,7 @@ This candidate drug is a homeopathic complex formula containing 9 ingredients, i
 | Predicted New Indications | None (No TxGNN output) |
 | TxGNN Prediction Score | — |
 | Evidence Level | L5 (No model prediction, insufficient data) |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 14) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

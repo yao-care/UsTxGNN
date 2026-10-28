@@ -48,10 +48,10 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | No approved indication text is available in the US license records (general pharmacology: antidote for ethylene glycol and methanol poisoning) |
 | Predicted New Indication | Sclerosing cholangitis |
-| TxGNN Prediction Score | 99.28% |
+| TxGNN Prediction Score | 0.9928 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 4 (all ANDAs, all cancelled) |
+| US Market Status | Marketed (valid licenses: 4 of 4) |
+| Number of NDAs | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 Sclerosing cholangitis is a chronic, cholestatic, immune-mediated biliary disease. No plausible mechanistic link between alcohol dehydrogenase inhibition and this disease can be established from the available data. One speculative route is alcohol dehydrogenase-mediated metabolism or oxidative stress in the biliary epithelium, but nothing in the data supports it, so it should not be treated as a finding.
 
-The score is very high and has no corroboration. It may reflect knowledge-graph artifacts and should be verified before any further work.
+The score is very high and has no corroboration. It may reflect TxGNN model (deep learning) artifacts and should be verified before any further work.
 
 ## Clinical Trial Evidence
 
@@ -91,12 +91,12 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The only support is a computational prediction score. There are no clinical trials or publications, no mechanism data, and no plausible mechanistic link to sclerosing cholangitis. All US licenses are cancelled, and the knowledge graph flags liver and gallbladder disease as concerns.
+The only support is a computational prediction score. There are no clinical trials or publications, no mechanism data, and no plausible mechanistic link to sclerosing cholangitis. The drug is marketed in the US, with 4 of 4 licenses valid.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data (for example from DrugBank) and a mechanistic rationale linking alcohol dehydrogenase inhibition to biliary disease
-- Verification that the prediction is not a knowledge-graph artifact, plus a literature and trial search with broader terms
+- Verification that the prediction is not a TxGNN model (deep learning) artifact, plus a literature and trial search with broader terms
 - Preclinical evidence in a cholangitis model, if the prediction survives verification
 - Clarification of the original indication text and the reason for the cancelled licenses
 - Route compatibility assessment (the product is injectable only)

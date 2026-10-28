@@ -47,13 +47,13 @@ The TxGNN model predicts it may be effective for **migraine disorder**, but ther
 |------|------|
 | Original Indication | Not available (approved indication text is blank in all US license records) |
 | Predicted New Indication | Migraine disorder |
-| TxGNN Prediction Score | 99.56% |
+| TxGNN Prediction Score | 0.9956 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 13) |
 | Number of NDAs | 13 (all cancelled) |
 | Recommended Decision | Hold |
 
-A second prediction, **migraine with brainstem aura** (score 99.42%, Evidence Level L5, Hold), is covered briefly in the sections below.
+A second prediction, **migraine with brainstem aura** (score 0.9942, Evidence Level L5, Hold), is covered briefly in the sections below.
 
 ## Why is This Prediction Reasonable?
 
@@ -81,7 +81,7 @@ Of the 10 publications retrieved for migraine disorder, only the first four rows
 
 ## US Market Information
 
-All 13 US licenses are cancelled and none has approved indication text on record. Five examples:
+All 13 US licenses are valid, and none has approved indication text on record. Five examples:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -107,7 +107,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is very high, but the evidence is model prediction plus indirect preclinical findings, with no clinical trials and no human data for atropine in migraine. All US licenses are cancelled, and the mechanistic direction is uncertain for the aura subtype.
+The TxGNN score is very high, but the evidence is model prediction plus indirect preclinical findings, with no clinical trials and no human data for atropine in migraine. The drug is marketed in the US with 13 valid licenses, and the mechanistic direction is uncertain for the aura subtype.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

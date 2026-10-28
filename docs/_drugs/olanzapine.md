@@ -4,17 +4,17 @@ title: Olanzapine
 parent: Model Prediction Only (L5)
 nav_order: 985
 evidence_level: L5
-indication_count: 3
+indication_count: 2
 last_modified_at: 2026-10-14
-description: "Olanzapine: predicted new indication Benign paroxysmal torticollis of infancy (evidence level L5). Approved use: Schizophrenia, bipolar disorder…"
 monitor_inn: "OLANZAPINE"
-predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "dysthymic disorder"]
+predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
+description: "Olanzapine: predicted new indication Benign paroxysmal torticollis of infancy (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Olanzapine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **3** 
+Evidence Level: **L5** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-## Olanzapine: From Bipolar Disorder and Schizophrenia to Benign Paroxysmal Torticollis of Infancy
+## Olanzapine: Benign paroxysmal torticollis of infancy
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ Two other predictions, agoraphobia (6 publications) and dysthymic disorder (5 pu
 
 | Item | Content |
 |------|------|
-| Original Indication | Schizophrenia, bipolar disorder, major depressive disorder and anxiety disorder (from the knowledge-graph indication list; no approved-indication text was available in the US licence records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Benign paroxysmal torticollis of infancy |
-| TxGNN Prediction Score | 99.54% |
+| TxGNN Prediction Score | 0.9954 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licences) |
+| US Market Status | Marketed (valid licenses on record: at least 10) |
 | Number of NDAs | 10 (all cancelled; all are generic applications, ANDAs) |
 | Recommended Decision | Hold |
 
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available. Olanzapine is kno
 
 Benign paroxysmal torticollis of infancy is a rare, self-limiting childhood disorder. It is thought to belong to the migraine spectrum and has been linked to channelopathies (for example, CACNA1A). No established mechanistic link exists between olanzapine's receptor profile and this condition.
 
-There is also a safety concern in the opposite direction. Antipsychotics can cause dystonic reactions and extrapyramidal effects, which could mimic or worsen torticollis in infants. The very high score (0.995) is a graph-based prediction only and should be treated with caution.
+There is also a safety concern in the opposite direction. Antipsychotics can cause dystonic reactions and extrapyramidal effects, which could mimic or worsen torticollis in infants. The very high score (0.9954) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, so it should be treated with caution.
 
 ## Clinical Trial Evidence
 
@@ -102,7 +102,7 @@ For package-insert warnings and contraindications, please refer to the current l
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a very high model score but no clinical trials, no literature and no plausible mechanistic link. The condition affects infants, and the drug may cause dystonic reactions that could worsen the symptoms. All US licences are also cancelled.
+The prediction has a very high model score but no clinical trials, no literature and no plausible mechanistic link. The condition affects infants, and the drug may cause dystonic reactions that could worsen the symptoms. The drug is also currently marketed in the US, with 10 valid licenses.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for olanzapine, and any biological rationale linking it to this condition
@@ -110,8 +110,7 @@ The prediction has a very high model score but no clinical trials, no literature
 - Any clinical or preclinical evidence in this condition (none was found)
 
 **Note on the other predictions:**
-- **Agoraphobia (score 99.47%, evidence level L3):** The evidence includes a 12-week open-label trial of olanzapine augmentation in SSRI-resistant panic disorder (31 patients; PMID 16415705), two case reports and two systematic reviews. There is no randomised evidence, and agoraphobia outcomes are not separated from panic disorder. This is best treated as a research question.
-- **Dysthymic disorder (score 99.28%, evidence level L3):** The evidence is indirect: a Cochrane review of second-generation antipsychotics in major depression and dysthymia (PMID 21154393), a small open-label study in borderline personality disorder with dysthymia, and reviews of other drugs. There are no dysthymia-specific RCTs of olanzapine. Metabolic risk with long-term use is a concern. This is also best treated as a research question.
+- **Agoraphobia (score 0.9947, evidence level L3):** The evidence includes a 12-week open-label trial of olanzapine augmentation in SSRI-resistant panic disorder (31 patients; PMID 16415705), two case reports and two systematic reviews. There is no randomised evidence, and agoraphobia outcomes are not separated from panic disorder. This is best treated as a research question.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

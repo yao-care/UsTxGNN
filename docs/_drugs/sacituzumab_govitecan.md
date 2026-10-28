@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **drug-induced osteoporosis**, 
 |------|------|
 | Original Indication | Not available in the compiled data (the license record has no approved indication text) |
 | Predicted New Indication | Drug-induced osteoporosis |
-| TxGNN Prediction Score | 99.78% |
+| TxGNN Prediction Score | 0.9978 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (the single BLA record is marked cancelled) |
-| Number of NDAs | 1 (BLA761115) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -67,9 +67,9 @@ Other predicted indications, all also at L5 with a Hold recommendation, were:
 
 | Rank | Predicted Indication | TxGNN Score |
 |------|------|------|
-| 2 | Severe nonproliferative diabetic retinopathy | 99.69% |
-| 3 | Diabetic retinopathy | 99.60% |
-| 4 | Diabetic cataract | 99.12% |
+| 2 | Severe nonproliferative diabetic retinopathy | 0.9969 |
+| 3 | Diabetic retinopathy | 0.9960 |
+| 4 | Diabetic cataract | 0.9912 |
 
 None has clinical or literature support. A Trop-2-directed cytotoxic ADC has no established role in retinal microvascular disease or lens pathology. Systemic exposure to a cytotoxic agent in these non-malignant chronic conditions would be hard to justify without supporting data.
 

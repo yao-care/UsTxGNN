@@ -4,7 +4,7 @@ title: Sorafenib
 parent: High Evidence (L1-L2)
 nav_order: 1175
 evidence_level: L2
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-14
 description: "Sorafenib: predicted new indication Liposarcoma (evidence level L2). Approved use: Hepatocellular carcinoma (also liver cancer subtypes…"
 monitor_inn: "SORAFENIB"
@@ -14,7 +14,7 @@ predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "female bre
 # Sorafenib
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L2** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **Liposarcoma**, but support is
 |------|------|
 | Original Indication | Hepatocellular carcinoma (also liver cancer subtypes, renal cell carcinoma, thyroid carcinoma) |
 | Predicted New Indication | Liposarcoma |
-| TxGNN Prediction Score | 99.82% |
+| TxGNN Prediction Score | 0.9982 |
 | Evidence Level | L2 |
-| US Market Status | Cancelled only (all 6 listed authorizations are cancelled) |
-| Number of NDAs | 6 (1 NDA and 5 ANDAs) |
+| US Market Status | Marketed (valid licenses: 6 of 6) |
+| Number of NDAs | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -82,7 +82,7 @@ The clinical picture is less encouraging. In Phase 2 studies of advanced soft ti
 
 ## US Market Information
 
-All six US authorizations listed are currently cancelled. Approved indication text was not available for any of them.
+All six US authorizations listed are currently valid. Approved indication text was not available for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -120,7 +120,7 @@ Package insert warnings and contraindications were not available for this report
 **Decision: Hold**
 
 **Rationale:**
-The only direct evidence is a single-arm Phase 2 in mixed soft tissue sarcomas, and published results show modest activity concentrated in vascular sarcomas rather than liposarcoma. Other trials and studies are small, non-specific or preclinical. Established agents such as trabectedin have stronger histology-specific support. All US sorafenib authorizations are also currently cancelled.
+The only direct evidence is a single-arm Phase 2 in mixed soft tissue sarcomas, and published results show modest activity concentrated in vascular sarcomas rather than liposarcoma. Other trials and studies are small, non-specific or preclinical. Established agents such as trabectedin have stronger histology-specific support. All US sorafenib authorizations are currently valid.
 
 **To proceed, the following is needed:**
 - Liposarcoma-specific response data, for example subgroup analysis from the S0505 and NCT00217620 trials

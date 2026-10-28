@@ -4,17 +4,17 @@ title: Trazodone
 parent: Moderate Evidence (L3-L4)
 nav_order: 1254
 evidence_level: L3
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
 description: "Trazodone: predicted new indication Obsessive-compulsive disorder (evidence level L3). Approved use: Unipolar depression, major depressive disorder"
 monitor_inn: "TRAZODONE"
-predicted_indications: ["obsessive-compulsive disorder", "schizoid personality disorder", "schizotypal personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "benign paroxysmal torticollis of infancy", "agoraphobia", "dysthymic disorder", "phobic disorder", "Ohdo syndrome and variants"]
+predicted_indications: ["obsessive-compulsive disorder", "schizoid personality disorder", "schizotypal personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "benign paroxysmal torticollis of infancy", "agoraphobia", "phobic disorder", "Ohdo syndrome and variants"]
 ---
 
 # Trazodone
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **10** 
+Evidence Level: **L3** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ but the supporting evidence consists of **no registered clinical trials** and **
 |------|------|
 | Original Indication | Unipolar depression, major depressive disorder (the US license entries contain no indication text) |
 | Predicted New Indication | Obsessive-compulsive disorder |
-| TxGNN Prediction Score | 99.95% |
+| TxGNN Prediction Score | 0.9995 |
 | Evidence Level | L3 |
-| US Market Status | Cancelled only (all 9 listed licenses are cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 9) |
 | Number of NDAs | 9 (all ANDA generic applications, none currently valid) |
 | Recommended Decision | Hold (research question only) |
 
@@ -85,11 +85,11 @@ The 1992 placebo-controlled study is the strongest item, but the data compiled f
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA205253 | Trazodone Hydrochloride (Cardinal Health 107) | Tablet | Not stated (cancelled) |
-| ANDA071524 | Trazodone Hydrochloride (Vangard Labs) | Tablet | Not stated (cancelled) |
-| ANDA202180 | Trazodone Hydrochloride (Torrent) | Tablet | Not stated (cancelled) |
-| ANDA071196 | Trazodone Hydrochloride (RemedyRepack) | Tablet | Not stated (cancelled) |
-| ANDA204852 | Trazodone Hydrochloride (Bryant Ranch Prepack) | Tablet | Not stated (cancelled) |
+| ANDA205253 | Trazodone Hydrochloride (Cardinal Health 107) | Tablet | Not stated (valid) |
+| ANDA071524 | Trazodone Hydrochloride (Vangard Labs) | Tablet | Not stated (valid) |
+| ANDA202180 | Trazodone Hydrochloride (Torrent) | Tablet | Not stated (valid) |
+| ANDA071196 | Trazodone Hydrochloride (RemedyRepack) | Tablet | Not stated (valid) |
+| ANDA204852 | Trazodone Hydrochloride (Bryant Ranch Prepack) | Tablet | Not stated (valid) |
 
 Nine licenses are listed in total, all cancelled, and all are oral tablets.
 
@@ -118,11 +118,10 @@ The mechanistic link is plausible and one placebo-controlled study exists, but t
 
 | Predicted Indication | Score | Evidence Level | Note |
 |------|------|------|------|
-| Dysthymic disorder | 99.48% | L3 | Close to the original depression indication, but direct evidence is limited to a 1992 open-label study and insomnia-focused work |
-| Agoraphobia | 99.81% | L3 | Small 1980s panic disorder studies; efficacy appears inferior to standard agents |
-| Phobic disorder | 99.45% | L3 | Rests on the same two panic and agoraphobia studies |
-| Paranoid and histrionic personality disorders | 99.92% | L5 | Only a drug-interaction case report and a 1975 hysteria report, with no efficacy evidence |
-| Schizoid and schizotypal personality disorders, benign paroxysmal torticollis of infancy, Ohdo syndrome | 99.92% / 99.92% / 99.83% / 99.28% | L5 | No trials, no literature, no plausible mechanism; likely graph artifacts |
+| Agoraphobia | 0.9981 | L3 | Small 1980s panic disorder studies; efficacy appears inferior to standard agents |
+| Phobic disorder | 0.9945 | L5 | Rests on the same two panic and agoraphobia studies |
+| Paranoid and histrionic personality disorders | 0.9992 | L5 | Only a drug-interaction case report and a 1975 hysteria report, with no efficacy evidence |
+| Schizoid and schizotypal personality disorders, benign paroxysmal torticollis of infancy, Ohdo syndrome | 0.9992 / 0.9992 / 0.9983 / 0.9928 | L5 | No trials, no literature, no plausible mechanism; scores come from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

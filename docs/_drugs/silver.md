@@ -48,9 +48,9 @@ The 5 retrieved papers use silver only as a staining reagent or concern unrelate
 |------|------|
 | Original Indication | Not available (the only license lists no approved indication) |
 | Predicted New Indication | Bone Paget disease |
-| TxGNN Prediction Score | 99.67% |
+| TxGNN Prediction Score | 0.9967 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
+| US Market Status | Marketed (valid licenses on record: at least 1) |
 | Number of NDAs | 1 (cancelled) |
 | Recommended Decision | Hold |
 
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available. No original indic
 
 The retrieved literature does not describe silver as a treatment. Silver appears only as a histological tool: silver staining of nucleolar organizer regions in osteoclast nuclei, silver impregnation of bone sections, and osteoid quantification. The Paget disease papers concern osteoclast features (such as increased nucleolar organizer regions and Gallium-67 citrate uptake), not a therapeutic effect of silver.
 
-The high TxGNN score (99.67%) therefore does not have a supporting pharmacological rationale in the available data. The link appears to come from the co-occurrence of "silver" and "Paget's bone disease" in the literature rather than from a real drug-disease relationship.
+The high TxGNN score (0.9967) therefore does not have a supporting pharmacological rationale in the available data. The link appears to come from the co-occurrence of "silver" and "Paget's bone disease" in the literature rather than from a real drug-disease relationship.
 
 ## Clinical Trial Evidence
 
@@ -84,7 +84,7 @@ None of these papers evaluates silver as a therapy for Paget disease of bone.
 |---------|------|------|-----------|
 | Not available | Colloidal Silver (BioActive Nutritional, Inc.) | Liquid | Not listed (status: cancelled) |
 
-Other silver dosage forms appear in the records (pellet, gel, spray, ointment), but no active license exists for any of them.
+Other silver dosage forms appear in the records (pellet, gel, spray, ointment), and 1 valid license is currently on record for this drug in this country.
 
 ## Safety Considerations
 

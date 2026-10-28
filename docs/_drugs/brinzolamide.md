@@ -1,18 +1,19 @@
 ---
 layout: default
 title: Brinzolamide
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 469
-evidence_level: L5
-indication_count: 1
-last_modified_at: 2026-10-14
-description: "Brinzolamide: predicted new indication Primary hereditary glaucoma (evidence level L5). Approved use: Open-angle glaucoma, ocular hypertension"
+evidence_level: N/A
+indication_count: 0
+last_modified_at: 2026-10-23
+description: "Brinzolamide: known uses and market status in the United States; currently no new candidate indication"
+predicted_indications: []
 ---
 
 # Brinzolamide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **1** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -31,51 +32,48 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-## Brinzolamide: From Open-Angle Glaucoma to Primary Hereditary Glaucoma
+<!-- known-uses-page -->
+<!-- description: Brinzolamide: known uses and market status in the United States; currently no new candidate indication -->
+## Brinzolamide: Known uses and market status in the United States
 {: .text-alpha }
 
-## One-Sentence Summary
+## Summary
+The TxGNN model's candidates for Brinzolamide (score ≥ 0.99) are all known uses, so there is currently no new predicted indication. The one candidate that can be traced to a source, primary hereditary glaucoma, is supported by a licence in another country. This page lists those known uses and the market status in the United States.
 
-Brinzolamide was originally used to treat open-angle glaucoma and ocular hypertension.
-The TxGNN model predicts it may be effective for **primary hereditary glaucoma**,
-but currently **0 clinical trials** and **0 publications** support this direction, so the prediction rests on the model score alone.
-
-## Quick Overview
-
+## Quick overview
 | Item | Content |
 |------|------|
-| Original Indication | Open-angle glaucoma, ocular hypertension |
-| Predicted New Indication | Primary hereditary glaucoma |
-| TxGNN Prediction Score | 99.48% |
-| Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 4 (all cancelled) |
-| Recommended Decision | Hold |
+| New predicted indications | None (all traceable model candidates are known uses) |
+| Known uses among model candidates | 1 |
+| Evidence level | Not applicable |
+| Market status in the United States | Marketed (valid licenses: 4 of 4) |
+| Number of NDAs | 4 (valid: 4) |
 
-## Why is This Prediction Reasonable?
+## Known uses among the model's candidates
 
-Detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge of the drug class, brinzolamide is a carbonic anhydrase II inhibitor. It lowers intraocular pressure by reducing aqueous humor secretion. This mechanistic link is inferred from general pharmacology, not from the supplied data.
+### Approved (supported by a licence or label)
+| Indication | Source |
+|------|------|
+| primary hereditary glaucoma | licence in another country (approved indication: glaucoma) |
 
-Primary hereditary glaucoma (for example, primary congenital glaucoma and juvenile open-angle glaucoma) shares elevated intraocular pressure as the main modifiable risk factor with the approved indications. A pressure-lowering drug could therefore plausibly be relevant.
+### Related to an approved indication (same disease category)
+| Indication | Approved category |
+|------|------|
+| none | none |
 
-The very high score (0.995) most likely reflects how closely this indication resembles the approved ones (open-angle glaucoma, ocular hypertension) in the knowledge graph. It is largely a re-labeling within a disease subtype, not independent evidence of new efficacy. Pediatric safety and efficacy are not established in the available data. Hereditary or congenital glaucoma often needs surgery, with medical therapy as an adjunct.
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-## Literature Evidence
-
-Currently no related literature available.
+### Relations recorded in the knowledge graph (no approval found)
+| Indication |
+|------|
+| none |
 
 ## US Market Information
 
-| Authorization Number | Product Name | Dosage Form | Approved Indication |
-|---------|------|------|-----------|
-| ANDA211914 | Brinzolamide (Bryant Ranch Prepack) | Ophthalmic suspension/drops | Not listed; status cancelled |
-| ANDA204884 | Brinzolamide (Bausch & Lomb Incorporated) | Ophthalmic suspension/drops | Not listed; status cancelled |
-| NDA020816 | Azopt (Sandoz Inc) | Ophthalmic suspension/drops | Not listed; status cancelled |
-| NDA204251 | Simbrinza (Alcon Laboratories, Inc.) | Ophthalmic suspension/drops | Not listed; status cancelled |
+| Licence | Product | Dosage form | Status |
+|------|------|------|------|
+| ANDA211914 | brinzolamide | SUSPENSION/ DROPS | Valid |
+| ANDA204884 | brinzolamide | SUSPENSION/ DROPS | Valid |
+| NDA020816 | brinzolamide | SUSPENSION/ DROPS | Valid |
+| NDA204251 | brinzolamide/brimonidine tartrate | SUSPENSION/ DROPS | Valid |
 
 ## Safety Considerations
 
@@ -83,20 +81,6 @@ Currently no related literature available.
 
 Please refer to the package insert for warnings and contraindications, as this information is not available in the data compiled for this report.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The prediction has no supporting clinical trials or literature (Evidence Level L5). The high score mostly reflects similarity to the existing glaucoma indications. Package insert safety data and mechanism data are missing, and all US licenses are cancelled.
-
-**To proceed, the following is needed:**
-- Package insert warnings and contraindications (a blocking gap for safety screening)
-- Mechanism of action data from DrugBank
-- Literature and trial searches for brinzolamide in primary congenital and juvenile glaucoma
-- Pediatric safety and efficacy data
-- Clarification of why all US licenses are cancelled, and whether a marketed product exists
-- Assessment of route compatibility and structural similarity to the original indications (currently pending)
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

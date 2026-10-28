@@ -4,17 +4,17 @@ title: Hydroxyurea
 parent: Model Prediction Only (L5)
 nav_order: 781
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Hydroxyurea: predicted new indication Female breast carcinoma (evidence level L5). Approved use: Melanoma, sickle cell anemia, ovarian cancer"
 monitor_inn: "HYDROXYUREA"
 predicted_indications: ["female breast carcinoma", "sickle cell-hemoglobin E disease syndrome", "sickle cell-beta-thalassemia disease syndrome", "sickle cell-hemoglobin d disease syndrome", "sickle cell-hemoglobin c disease syndrome", "cervical adenosarcoma", "colon mucinous adenocarcinoma", "rectum mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma"]
+description: "Hydroxyurea: predicted new indication Female breast carcinoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Hydroxyurea
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Hydroxyurea: From Melanoma and Sickle Cell Anemia to Female Breast Carcinoma
+## Hydroxyurea: Female breast carcinoma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,11 +47,11 @@ The TxGNN model predicts it may be effective for **female breast carcinoma**, bu
 
 | Item | Content |
 |------|------|
-| Original Indication | Melanoma, sickle cell anemia, ovarian cancer (from the knowledge graph; no approved-indication text is available from the US labels) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Female breast carcinoma |
-| TxGNN Prediction Score | 99.97% |
-| Evidence Level | L4 (preclinical and mechanistic studies only) |
-| US Market Status | Cancelled only (no currently valid authorizations) |
+| TxGNN Prediction Score | 0.9997 |
+| Evidence Level | L5 (preclinical and mechanistic studies only) |
+| US Market Status | Marketed (valid licenses on record: at least 7) |
 | Number of NDAs | 7 authorizations in total (3 NDAs, 4 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
@@ -95,11 +95,11 @@ Several other retrieved papers are only loosely related, such as cervical cancer
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
 |---------|------|------|------|------|
-| NDA016295 | HYDREA | Capsule | H2-Pharma LLC | Cancelled |
-| NDA208843 | Siklos | Film-coated tablet | Medunik | Cancelled |
-| NDA216593 | XROMI | Solution | Nova Laboratories, Ltd. | Cancelled |
-| ANDA075340 | Hydroxyurea | Capsule | Endo USA, Inc. | Cancelled |
-| ANDA075143 | Hydroxyurea | Capsule | AvKARE | Cancelled |
+| NDA016295 | HYDREA | Capsule | H2-Pharma LLC | Valid |
+| NDA208843 | Siklos | Film-coated tablet | Medunik | Valid |
+| NDA216593 | XROMI | Solution | Nova Laboratories, Ltd. | Valid |
+| ANDA075340 | Hydroxyurea | Capsule | Endo USA, Inc. | Valid |
+| ANDA075143 | Hydroxyurea | Capsule | AvKARE | Valid |
 
 Two further generic capsule authorizations (ANDA218021, ANDA213438) are also cancelled. Approved-indication text is not available for these entries.
 
@@ -131,7 +131,7 @@ Package insert warnings and contraindications were not available. Please refer t
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high (99.97%), but breast cancer support is limited to preclinical work and two Phase 1 combination studies from 1991-1992. No breast cancer trial is registered, so the evidence level is L4.
+The prediction score is very high (0.9997), but breast cancer support is limited to preclinical work and two Phase 1 combination studies from 1991-1992. No breast cancer trial is registered, so the evidence level is L4.
 
 Among the other candidates evaluated for hydroxyurea, **sickle cell-hemoglobin C disease** is much better supported. It has a Phase 2 trial (NCT00532883, terminated), a 2025 NEJM Evidence publication, Cochrane reviews, and an L2 rating. It carries a "Proceed with Guardrails" recommendation and may be a stronger repurposing direction.
 
@@ -140,7 +140,7 @@ Among the other candidates evaluated for hydroxyurea, **sickle cell-hemoglobin C
 - Detailed mechanism-of-action data
 - Modern preclinical data on hydroxyurea alone or in combination in breast cancer models, such as subtype-specific or BRCA-deficient models
 - A clinical rationale and trial design, since no registered breast cancer trial exists
-- Clarification of the US regulatory position, since all authorizations are currently cancelled
+- Clarification of the US regulatory position, since 7 authorizations are currently valid
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

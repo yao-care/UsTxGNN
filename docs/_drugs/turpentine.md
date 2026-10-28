@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "TURPENTINE"
 predicted_indications: ["multiple endocrine neoplasia"]
 last_modified_at: 2026-10-14
-description: "Turpentine: predicted new indication Multiple endocrine neoplasia (evidence level L5). Approved use: Not recorded"
+description: "Turpentine: predicted new indication Multiple endocrine neoplasia (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Turpentine
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-## Turpentine: From No Recorded Indication to Multiple Endocrine Neoplasia
+## Turpentine: Multiple endocrine neoplasia
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,11 +48,11 @@ The prediction rests solely on a computational score.
 
 | Item | Content |
 |------|------|
-| Original Indication | Not recorded (no approved indication text in the license data) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Multiple endocrine neoplasia |
-| TxGNN Prediction Score | 99.60% |
+| TxGNN Prediction Score | 0.9960 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 3) |
 | Number of NDAs | 3 (all cancelled) |
 | Recommended Decision | Hold |
 
@@ -64,7 +64,7 @@ Currently, detailed mechanism of action data is not available. Turpentine is a c
 
 No mechanistic link to multiple endocrine neoplasia can be established from the data compiled for this report. These syndromes are driven by germline mutations in MEN1 (menin), RET, or CDKN1B, and turpentine has no known target or pathway relevant to them.
 
-The very high TxGNN score (0.996) is a computational prediction, not biological or clinical evidence. It may reflect knowledge-graph artifacts such as sparse drug connectivity or shared neighbouring nodes, and it should not be read as a biological signal.
+The very high TxGNN score (0.996) is a computational prediction, not biological or clinical evidence. It may reflect TxGNN model (deep learning) artifacts such as sparse drug connectivity or shared neighbouring nodes, and it should not be read as a biological signal.
 
 ---
 
@@ -85,10 +85,10 @@ Currently no related literature available.
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | Not available | Terebinthina (Boiron) | Pellet | Not recorded (cancelled) |
-| M017 | Ling Nam Hak Kwai Oil (Ling Nam Medicine Factory (H.K.) Ltd.) | Oil | Not recorded (cancelled) |
-| M014 | ARTREX (Bioved Pharmaceuticals) | Cream | Not recorded (cancelled) |
+| M017 | Ling Nam Hak Kwai Oil (Ling Nam Medicine Factory (H.K.) Ltd.) | Oil | Not recorded (valid) |
+| M014 | ARTREX (Bioved Pharmaceuticals) | Cream | Not recorded (valid) |
 
-All three authorizations are cancelled, so no valid licenses remain.
+The drug is marketed in this country, and all 3 licenses are valid.
 
 ---
 
@@ -105,13 +105,13 @@ The package insert warnings and contraindications were not available, and no dru
 **Decision: Hold**
 
 **Rationale:**
-The only support is a computational score, with no clinical trials, no literature, no mechanistic rationale and no valid US market authorization. Together with turpentine's known toxicity, this does not justify advancing the candidate.
+Together with turpentine's known toxicity, this does not justify advancing the candidate.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)
 - Mechanism of action data, to test whether any plausible link to MEN1, RET or CDKN1B biology exists
 - Preclinical or mechanistic evidence for activity in multiple endocrine neoplasia
-- Review of the knowledge-graph prediction to rule out artifacts from sparse connectivity
+- Review of the TxGNN model (deep learning) prediction to rule out artifacts from sparse connectivity
 - Assessment of route compatibility and a safety plan, given turpentine's toxicity
 ## Disclaimer
 

@@ -9,6 +9,7 @@ evidence_level: L5
 indication_count: 0
 last_modified_at: 2026-09-17
 description: "Abiraterone Acetate Niraparib Tosylate Monohydrate: predicted new indication None — TxGNN returned no predictions (evidence level L5). Approved use: Not available — no TFDA license data"
+predicted_indications: []
 ---
 
 # Abiraterone Acetate Niraparib Tosylate Monohydrate

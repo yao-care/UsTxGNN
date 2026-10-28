@@ -50,10 +50,10 @@ The best-supported direction in the data is actually **small cell lung carcinoma
 |------|------|
 | Original Indication | Breast carcinoma / breast neoplasm (the US license record lists no indication text) |
 | Predicted New Indication | Primary pulmonary lymphoma |
-| TxGNN Prediction Score | 99.71% |
+| TxGNN Prediction Score | 0.9971 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -68,12 +68,12 @@ Anthracyclines are a backbone of lymphoma regimens (for example CHOP-type regime
 
 | Rank | Predicted Indication | TxGNN Score | Evidence Level | Assessment |
 |------|------|------|------|------|
-| 2 | Well-differentiated fetal adenocarcinoma of the lung | 99.69% | L5 | Computational only; no trials or literature |
-| 3 | Small cell lung carcinoma | 99.69% | L1 | Phase 3 trials and Phase 2 studies exist; not adopted in current standard of care (platinum-etoposide plus immunotherapy) |
-| 4 | Pulmonary blastoma | 99.65% | L4 | Case reports only |
-| 5 | Lung mixed small cell and squamous cell carcinoma | 99.17% | L5 | Computational only |
-| 6 | Myeloid leukemia | 99.07% | L3 | Limited historical use; therapy-related AML/MDS risk offsets rationale |
-| 7 | Upper aerodigestive tract neoplasm | 99.06% | L1 | Core of ECF/EOX regimens (MAGIC trial); largely superseded by FLOT and immunotherapy |
+| 2 | Well-differentiated fetal adenocarcinoma of the lung | 0.9969 | L5 | Computational only; no trials or literature |
+| 3 | Small cell lung carcinoma | 0.9969 | L5 | Phase 3 trials and Phase 2 studies exist; not adopted in current standard of care (platinum-etoposide plus immunotherapy) |
+| 4 | Pulmonary blastoma | 0.9965 | L4 | Case reports only |
+| 5 | Lung mixed small cell and squamous cell carcinoma | 0.9917 | L5 | Computational only |
+| 6 | Myeloid leukemia | 0.9907 | L3 | Limited historical use; therapy-related AML/MDS risk offsets rationale |
+| 7 | Upper aerodigestive tract neoplasm | 0.9906 | L5 | Core of ECF/EOX regimens (MAGIC trial); largely superseded by FLOT and immunotherapy |
 
 ---
 

@@ -48,10 +48,10 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Thrombocytopenia due to immune destruction |
 | Predicted New Indication | Autosomal thrombocytopenia with normal platelets |
-| TxGNN Prediction Score | 99.45% |
+| TxGNN Prediction Score | 0.9945 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,9 +60,9 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 The predicted indication is a heritable form of thrombocytopenia. Such conditions are presumably driven by defects in platelet production or function rather than by immune-mediated clearance. SYK inhibition therefore has no clear link to the likely underlying disease process. The two conditions share only the label "low platelet count".
 
-The high TxGNN score (99.45%) probably reflects network proximity to the thrombocytopenia concept in the knowledge graph rather than a validated mechanistic rationale. It should be treated as a hypothesis-generating signal only.
+The high TxGNN score (0.9945) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It should be treated as a hypothesis-generating signal only.
 
-A second prediction, **non-syndromic esophageal malformation** (score 99.05%), was also generated. No credible mechanistic link was identified. Esophageal malformations are structural defects arising during embryonic development, and an immune-cell kinase inhibitor has no apparent role in correcting them. The high score is likely a knowledge-graph artifact. No trials or literature support it, and use in a neonatal or pediatric population would raise safety questions that current data do not address.
+A second prediction, **non-syndromic esophageal malformation** (score 0.9905), was also generated. No credible mechanistic link was identified. Esophageal malformations are structural defects arising during embryonic development, and an immune-cell kinase inhibitor has no apparent role in correcting them. The high score is likely a TxGNN model (deep learning) artifact. No trials or literature support it, and use in a neonatal or pediatric population would raise safety questions that current data do not address.
 
 ## Clinical Trial Evidence
 
@@ -76,7 +76,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA209299 | TAVALISSE (Rigel Pharmaceuticals, Inc.) | Tablet (oral) | Not listed in the data compiled; status: cancelled |
+| NDA209299 | TAVALISSE (Rigel Pharmaceuticals, Inc.) | Tablet (oral) | Not listed in the data compiled; status: valid |
 
 ## Safety Considerations
 

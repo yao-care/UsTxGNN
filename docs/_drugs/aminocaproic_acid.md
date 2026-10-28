@@ -46,9 +46,9 @@ Aminocaproic acid is an antifibrinolytic drug, used to control bleeding caused b
 |------|------|
 | Original Indication | Not stated in the compiled license data (the antifibrinolytic use is based on general knowledge of the drug class) |
 | Predicted New Indication | Severe nonproliferative diabetic retinopathy |
-| TxGNN Prediction Score | 99.27% |
+| TxGNN Prediction Score | 0.9927 |
 | Evidence Level | L5 (model prediction only) |
-| US Market Status | Cancelled only (no active licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 13) |
 | Number of NDAs | 13 (all cancelled; 1 NDA and 12 ANDAs) |
 | Recommended Decision | Hold |
 
@@ -78,7 +78,7 @@ Currently no related literature available.
 | ANDA071192 (cancelled) | Aminocaproic Acid (Medical Purchasing Solutions, LLC) | Injection, solution | Not stated |
 | ANDA216464 (cancelled) | Aminocaproic Acid (Camber Pharmaceuticals, Inc.) | Solution | Not stated |
 
-All 13 licenses compiled for this drug are cancelled. Available dosage forms were oral tablets, injectable solutions, and other solutions.
+13 valid licenses are on record for this drug in the US market, which is marketed. Available dosage forms were oral tablets, injectable solutions, and other solutions.
 
 ## Safety Considerations
 
@@ -96,7 +96,7 @@ Please refer to the package insert for warnings and contraindications from the l
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests solely on a high model score (L5). No trials or publications support it, the mechanistic link is hypothetical, and the thrombotic risk is a particular concern in diabetic patients. In addition, all US licenses for this drug are cancelled.
+The prediction rests solely on a high model score (L5). No trials or publications support it, the mechanistic link is hypothetical, and the thrombotic risk is a particular concern in diabetic patients. In addition, this drug is marketed in the US with 13 valid licenses.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

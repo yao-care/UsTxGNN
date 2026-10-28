@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Anas Platyrhynchos Feather Anser Anser Feather Bos
@@ -51,7 +52,7 @@ Without a predicted indication or supporting evidence, a standard drug repurposi
 | Predicted New Indication | None generated |
 | TxGNN Prediction Score | Not available |
 | Evidence Level | L5 — model produced no output |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 4) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 

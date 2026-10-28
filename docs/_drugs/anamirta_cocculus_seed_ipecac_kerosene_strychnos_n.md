@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Anamirta Cocculus Seed Ipecac Kerosene Strychnos N
@@ -49,7 +50,7 @@ This product is a five-component combination formula containing Anamirta Cocculu
 | Predicted New Indication | No prediction result |
 | TxGNN Prediction Score | None |
 | Evidence Level | L5 (Model failed to generate prediction, no actual research support) |
-| US Market Status | Not marketed |
+| US Market Status | Marketed (valid licenses on record: at least 1) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 

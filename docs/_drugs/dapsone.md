@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "DAPSONE"
 predicted_indications: ["pneumocystosis"]
 last_modified_at: 2026-10-14
-description: "Dapsone: predicted new indication Pneumocystosis (evidence level L1). Approved use: Dermatitis herpetiformis, acne, leprosy"
+description: "Dapsone: predicted new indication Pneumocystosis (evidence level L1). Approved use: Not recorded in the local data"
 ---
 
 # Dapsone
@@ -33,7 +33,7 @@ Evidence Level: **L1** | Predicted Indications: **1**
 
 </div>
 
-## Dapsone: From Dermatitis Herpetiformis, Acne and Leprosy to Pneumocystosis
+## Dapsone: Pneumocystosis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ with **10 clinical trials** and **20 publications** currently supporting this di
 
 | Item | Content |
 |------|------|
-| Original Indication | Dermatitis herpetiformis, acne, leprosy (from the knowledge graph; no approved-indication text is available from US labels) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Pneumocystosis |
-| TxGNN Prediction Score | 99.73% |
+| TxGNN Prediction Score | 0.9973 |
 | Evidence Level | L1 |
-| US Market Status | Cancelled only (all 15 authorizations are cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 15) |
 | Number of NDAs | 15 authorizations in total (2 NDAs and 13 ANDAs) |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -94,15 +94,15 @@ The clinical trial record supports the prediction. Dapsone has been tested again
 
 ## US Market Information
 
-All 15 US authorizations for dapsone are cancelled; none is currently valid. The five below are representative.
+All 15 US authorizations for dapsone are valid. The five below are representative.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA021794 | Dapsone (Pacific Pharma) | Gel | Not available (cancelled) |
-| NDA207154 | Aczone (Almirall) | Gel | Not available (cancelled) |
-| ANDA086841 | Dapsone (Westminster) | Tablet | Not available (cancelled) |
-| ANDA086842 | Dapsone (Westminster) | Tablet | Not available (cancelled) |
-| ANDA206505 | Dapsone (ANI) | Tablet | Not available (cancelled) |
+| NDA021794 | Dapsone (Pacific Pharma) | Gel | Not available (valid) |
+| NDA207154 | Aczone (Almirall) | Gel | Not available (valid) |
+| ANDA086841 | Dapsone (Westminster) | Tablet | Not available (valid) |
+| ANDA086842 | Dapsone (Westminster) | Tablet | Not available (valid) |
+| ANDA206505 | Dapsone (ANI) | Tablet | Not available (valid) |
 
 Oral tablets and topical gels have both been marketed. Only the oral form is relevant to PCP.
 
@@ -126,7 +126,7 @@ Four completed Phase 3 trials (700, 600, 400 and 290 participants) evaluated dap
 - Verified mechanism of action data from DrugBank
 - G6PD deficiency screening before use, and monitoring for methemoglobinemia and hemolysis
 - A review of the 100 drug interactions against the intended co-medications
-- Confirmation of product availability and formulation, since all US authorizations are cancelled
+- Confirmation of product availability and formulation
 - Reading of the Phase 3 trial results (dapsone arm outcomes), since the data compiled here give only trial design summaries
 ## Disclaimer
 

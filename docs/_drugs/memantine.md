@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "MEMANTINE"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
-last_modified_at: 2026-10-14
-description: "Memantine: predicted new indication Migraine disorder (evidence level L5). Approved use: Not available in the data"
+last_modified_at: 2026-10-28
+description: "Memantine: predicted new indication Pulmonary hypertension (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Memantine
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **4**
 
 </div>
 
-## Memantine: From Alzheimer's-Type Dementia to Migraine Disorder
+## Memantine: Pulmonary hypertension
 {: .text-alpha }
 
 Note: The data compiled for this report contains no approved-indication text for memantine, so the original indication is not stated in the regulatory data. The framing above reflects memantine's well-known use as an NMDA receptor antagonist. The report focuses on the best-supported prediction, **migraine disorder** (rank 2), rather than the top-scoring one (pulmonary hypertension), because migraine has far stronger evidence.
@@ -41,18 +41,18 @@ Note: The data compiled for this report contains no approved-indication text for
 ## One-Sentence Summary
 
 Memantine is an NMDA receptor antagonist whose original indication could not be confirmed from the regulatory data compiled for this report.
-The TxGNN model gave **migraine disorder** a score of 99.5%, and the topic is supported by **1 completed Phase 3 trial** and **about 20 publications**, including systematic reviews and a meta-analysis.
+The TxGNN model gave **migraine disorder** a score of 0.9952, and the topic is supported by **1 completed Phase 3 trial** and **about 20 publications**, including systematic reviews and a meta-analysis.
 The evidence is real but modest in quality: the only Phase 3 trial is small (33 patients) and compares memantine with another drug rather than with placebo.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available in the data (no approved-indication text was recorded for any license) |
-| Predicted New Indication | Migraine disorder (the top-ranked prediction, pulmonary hypertension, has only L5 evidence) |
-| TxGNN Prediction Score | 99.52% |
-| Evidence Level | L1 (rests on one completed Phase 3 trial; quality is modest) |
-| US Market Status | Cancelled only (all licenses are listed as cancelled) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Pulmonary hypertension |
+| TxGNN Prediction Score | 0.9954 |
+| Evidence Level | L5 (rests on one completed Phase 3 trial; quality is modest) |
+| US Market Status | Marketed (valid licenses on record: at least 13) |
 | Number of NDAs | 13 (all are ANDA generic applications, none currently valid) |
 | Recommended Decision | Hold (research question; larger placebo-controlled trials are needed) |
 
@@ -114,14 +114,14 @@ Please refer to the package insert for warnings and contraindications. That labe
 
 **Rationale:**
 Migraine has a plausible mechanism and a completed Phase 3 trial, which gives it a formal L1 grade. In practice the evidence is weak. The trial is small and uses an active comparator, and the literature itself describes the evidence as limited. The other predictions are weaker still:
-- **Pulmonary hypertension** (99.54%) is L5. The linked papers concern a different compound (MN-08) or a metabolic topic, so they do not support memantine.
-- **Kyphoscoliotic heart disease** (99.43%) has no trials, no literature and no plausible mechanism. It is likely a knowledge-graph artifact.
-- **Migraine with brainstem aura** (99.41%) is L4. It relies on indirect mechanistic reviews and an RCT in a different subtype.
+- **Pulmonary hypertension** (0.9954) is L5. The linked papers concern a different compound (MN-08) or a metabolic topic, so they do not support memantine.
+- **Kyphoscoliotic heart disease** (0.9943) has no trials, no literature and no plausible mechanism. It is likely a TxGNN model (deep learning) artifact.
+- **Migraine with brainstem aura** (0.9941) is L4. It relies on indirect mechanistic reviews and an RCT in a different subtype.
 
 **To proceed, the following is needed:**
 - The FDA package insert warnings and contraindications (a blocking gap for safety screening)
 - Detailed mechanism of action data from DrugBank
-- Confirmation of the approved original indication and current US market status, since all licenses show as cancelled
+- Confirmation of the approved original indication and current US market status, since the drug is marketed with 13 valid licenses
 - Larger, adequately powered placebo-controlled trials of memantine in migraine prevention
 - A close reading of the meta-analysis and systematic reviews (PMIDs 33961371, 34352118) to judge the true effect size and safety
 ## Disclaimer

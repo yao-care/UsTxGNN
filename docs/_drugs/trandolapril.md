@@ -4,7 +4,7 @@ title: Trandolapril
 parent: Model Prediction Only (L5)
 nav_order: 1247
 evidence_level: L5
-indication_count: 6
+indication_count: 5
 last_modified_at: 2026-10-14
 description: "Trandolapril: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Hypertension (hypertensive disorder)"
 monitor_inn: "TRANDOLAPRIL"
@@ -14,7 +14,7 @@ predicted_indications: ["malignant hypertensive renal disease", "pulmonary hyper
 # Trandolapril
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **5** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,17 +48,17 @@ but currently there are **0 clinical trials** and **0 publications** directly su
 |------|------|
 | Original Indication | Hypertension (hypertensive disorder) |
 | Predicted New Indication | Malignant hypertensive renal disease |
-| TxGNN Prediction Score | 99.92% |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid authorizations) |
-| Number of NDAs | 3 (all ANDAs, all cancelled) |
+| US Market Status | Marketed (valid licenses: 3 of 3) |
+| Number of NDAs | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, trandolapril is an angiotensin-converting enzyme (ACE) inhibitor. By blocking the renin-angiotensin-aldosterone system (RAAS), it lowers blood pressure and reduces pressure within the kidney's filtering units (intraglomerular pressure). This is biologically plausible for kidney injury caused by severe hypertension.
 
-The predicted indication is closely related to the approved one. Malignant hypertensive renal disease is a kidney complication of severe hypertension, so this is more a subtype extension of the hypertension indication than true repurposing. The high prediction score (0.999) is not backed by any trials or literature in the data compiled for this report.
+The predicted indication is closely related to the approved one. Malignant hypertensive renal disease is a kidney complication of severe hypertension, so this is more a subtype extension of the hypertension indication than true repurposing. The high prediction score (0.9992) is not backed by any trials or literature in the data compiled for this report.
 
 Other predictions from the same model run include malignant renovascular hypertension, two forms of pulmonary hypertension, Braddock syndrome, and chronic pulmonary heart disease. All are rated L4–L5 and Hold. The pulmonary hypertension and chronic pulmonary heart disease predictions are supported only by indirect preclinical work (cardiac hypertrophy regression, hypoxia-induced coronary vasospasm, and vascular function in rats with chronic heart failure). Malignant renovascular hypertension is mechanistically relevant (renin-dependent), but carries a known risk of acute renal function decline in bilateral renal artery stenosis.
 
@@ -66,9 +66,9 @@ Other predictions from the same model run include malignant renovascular hyperte
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA078438 | Trandolapril (Rising Pharma Holdings, Inc.) | Tablet | Not listed (status: cancelled) |
-| ANDA077522 | Trandolapril (Lupin Pharmaceuticals, Inc.) | Tablet | Not listed (status: cancelled) |
-| ANDA078508 | Trandolapril (Epic Pharma, LLC) | Tablet | Not listed (status: cancelled) |
+| ANDA078438 | Trandolapril (Rising Pharma Holdings, Inc.) | Tablet | Not listed (status: valid) |
+| ANDA077522 | Trandolapril (Lupin Pharmaceuticals, Inc.) | Tablet | Not listed (status: valid) |
+| ANDA078508 | Trandolapril (Epic Pharma, LLC) | Tablet | Not listed (status: valid) |
 
 ## Safety Considerations
 
@@ -82,7 +82,7 @@ Please also refer to the package insert for official warnings and contraindicati
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by a model score. No clinical trials or literature were found for malignant hypertensive renal disease, and no valid US authorization is currently active. Official label safety information has not yet been reviewed, and the knowledge graph signals kidney-related cautions.
+The prediction is supported only by a model score from the TxGNN model (deep learning), which may reflect similarities the model learned between related diseases, not biological evidence. No clinical trials or literature were found for malignant hypertensive renal disease, and the drug is marketed in the US with 3 of 3 licenses valid. Official label safety information has not yet been reviewed.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (blocking gap for safety screening)

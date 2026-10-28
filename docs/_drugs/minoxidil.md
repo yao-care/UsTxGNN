@@ -6,9 +6,9 @@ nav_order: 933
 evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-14
-description: "Minoxidil: predicted new indication Hypotrichosis simplex of the scalp (evidence level L3). Approved use: Hypertension"
 monitor_inn: "MINOXIDIL"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "pseudopelade of Brocq", "pulmonary arterial hypertension", "pulmonary arteriovenous malformation (disease)", "pulmonary arterial hypertension associated with congenital heart disease", "primary hereditary glaucoma", "pulmonary arterial hypertension associated with schistosomiasis", "pulmonary arterial hypertension associated with chronic hemolytic anemia"]
+description: "Minoxidil: predicted new indication Hypotrichosis simplex of the scalp (evidence level L3). Approved use: Not recorded in the local data"
 ---
 
 # Minoxidil
@@ -33,7 +33,7 @@ Evidence Level: **L3** | Predicted Indications: **10**
 
 </div>
 
-## Minoxidil: From Hypertension and Alopecia to Hypotrichosis Simplex of the Scalp
+## Minoxidil: Hypotrichosis simplex of the scalp
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ Currently **0 registered clinical trials** and **3 publications** (case series a
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypertension; alopecia (from the knowledge graph; no approved indication text is available in the license records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Hypotrichosis simplex of the scalp |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L3 |
-| US Market Status | Cancelled only (no currently valid licenses in the data compiled) |
+| US Market Status | Marketed (valid licenses on record: at least 10) |
 | Number of NDAs | 10 license records (all cancelled) |
 | Recommended Decision | Hold |
 
@@ -98,7 +98,7 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is very high and the mechanism is plausible, but the evidence is limited to three combination-therapy case reports with no registered trials. Minoxidil's own effect cannot be separated out. Oral use also carries cardiovascular safety concerns, and all US licenses in the data are cancelled.
+The TxGNN score is very high and the mechanism is plausible, but the evidence is limited to three combination-therapy case reports with no registered trials. Minoxidil's own effect cannot be separated out. Oral use also carries cardiovascular safety concerns, and the drug is marketed in the US with 10 valid licenses in the data.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications, which are currently a blocking gap for safety screening

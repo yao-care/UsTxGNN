@@ -47,17 +47,17 @@ The TxGNN model predicts it may be effective for **familial adrenal hypoplasia w
 |------|------|
 | Original Indication | Not stated in the US license records compiled for this report. Pharmacology data describe approved use for eye pain and inflammation after ophthalmic surgery and for anterior uveitis. |
 | Predicted New Indication | Familial adrenal hypoplasia with absent pituitary luteinizing hormone |
-| TxGNN Prediction Score | 99.96% |
+| TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 8 authorizations in total (1 NDA, 7 ANDAs), all cancelled |
+| US Market Status | Marketed (valid licenses: 8 of 8) |
+| Number of NDAs | 8 (valid: 8) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism-of-action data are not available in the data compiled for this report. From pharmacology data, difluprednate is a glucocorticoid receptor (NR3C1) agonist with a reported binding affinity (Ki) of 0.78 nM. It is a prodrug that is converted to an active metabolite after application.
 
-The predicted disease is a congenital genetic disorder (for example involving NR0B1/DAX-1) that causes adrenal and gonadotropin deficiency. Glucocorticoids are relevant to the cortisol deficiency in such conditions, so there is a class-level link. However, difluprednate is a potent topical ophthalmic and dermatologic steroid, not a systemic replacement agent. The score most likely reflects associations in the knowledge graph rather than a validated biological rationale. No clinical or literature support was found.
+The predicted disease is a congenital genetic disorder (for example involving NR0B1/DAX-1) that causes adrenal and gonadotropin deficiency. Glucocorticoids are relevant to the cortisol deficiency in such conditions, so there is a class-level link. However, difluprednate is a potent topical ophthalmic and dermatologic steroid, not a systemic replacement agent. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. No clinical or literature support was found.
 
 Other predictions in the top 10 follow a similar pattern. Adrenocortical insufficiency, nephrotic syndrome, seborrheic dermatitis and necrobiosis lipoidica have plausible class-level steroid rationales. Seborrheic keratosis, PAGOD syndrome and vulvar inverted follicular keratosis have little biological basis. The only prediction with any supporting item is iris disease (rank 10), which probably overlaps with the existing ocular use.
 
@@ -79,11 +79,11 @@ For reference, the only publication found among the top 10 predictions relates t
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA022212 | DUREZOL (Sandoz Inc) | Emulsion | Not stated in the data (cancelled) |
-| ANDA211776 | Difluprednate (Cipla USA Inc.) | Emulsion | Not stated in the data (cancelled) |
-| ANDA219441 | Difluprednate (Leading Pharma, LLC) | Emulsion | Not stated in the data (cancelled) |
-| ANDA213774 | Difluprednate (Alembic Pharmaceuticals Limited) | Emulsion | Not stated in the data (cancelled) |
-| ANDA218191 | Difluprednate (Upsher-Smith Laboratories, LLC) | Emulsion | Not stated in the data (cancelled) |
+| NDA022212 | DUREZOL (Sandoz Inc) | Emulsion | Not stated in the data (valid) |
+| ANDA211776 | Difluprednate (Cipla USA Inc.) | Emulsion | Not stated in the data (valid) |
+| ANDA219441 | Difluprednate (Leading Pharma, LLC) | Emulsion | Not stated in the data (valid) |
+| ANDA213774 | Difluprednate (Alembic Pharmaceuticals Limited) | Emulsion | Not stated in the data (valid) |
+| ANDA218191 | Difluprednate (Upsher-Smith Laboratories, LLC) | Emulsion | Not stated in the data (valid) |
 
 Three more authorizations (Mylan, Amneal and Dr. Reddy's) are also cancelled, for a total of 8.
 
@@ -99,7 +99,7 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the model score (L5). There are no clinical trials or publications, and a potent topical ophthalmic steroid is not a suitable replacement therapy for a congenital adrenal and gonadotropin deficiency. All US licenses are cancelled.
+The prediction is supported only by the model score (L5). There are no clinical trials or publications, and a potent topical ophthalmic steroid is not a suitable replacement therapy for a congenital adrenal and gonadotropin deficiency. The drug is marketed in the US, with all 8 of 8 licenses valid.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings, contraindications and approved indications

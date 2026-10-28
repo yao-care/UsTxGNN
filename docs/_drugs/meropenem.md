@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Meropenem
-parent: Model Prediction Only (L5)
+parent: Moderate Evidence (L3-L4)
 nav_order: 903
-evidence_level: L5
-indication_count: 10
+evidence_level: L4
+indication_count: 9
 last_modified_at: 2026-10-14
 description: "Meropenem: predicted new indication Bacterial arthritis (evidence level L5). Approved use: Bacterial meningitis, peritonitis…"
 monitor_inn: "MEROPENEM"
@@ -14,7 +14,7 @@ predicted_indications: ["bacterial arthritis", "epiglottitis", "staphylococcus a
 # Meropenem
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ The best-supported candidate among the ten predictions is **urinary tract infect
 |------|------|
 | Original Indication | Bacterial meningitis, peritonitis, Pseudomonas aeruginosa infection and other serious bacterial infections (the US license records contain no indication text) |
 | Predicted New Indication | Bacterial arthritis (rank 1); urinary tract infection (rank 6) has the strongest evidence |
-| TxGNN Prediction Score | 99.92% (bacterial arthritis); 99.52% (urinary tract infection) |
+| TxGNN Prediction Score | 0.9992 (bacterial arthritis) |
 | Evidence Level | L4 (bacterial arthritis); L1 (urinary tract infection) |
-| US Market Status | Cancelled only (all licenses cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 9) |
 | Number of NDAs | 9 (1 NDA and 8 ANDAs, all cancelled) |
 | Recommended Decision | Hold (bacterial arthritis); Proceed with Guardrails (urinary tract infection) |
 
@@ -100,7 +100,7 @@ For **bacterial arthritis** (rank 1), the strongest items are weaker in design: 
 
 ## US Market Information
 
-All nine US authorizations are cancelled. The records contain no approved-indication text.
+Nine US authorizations are valid. The records contain no approved-indication text.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -124,14 +124,14 @@ Please refer to the package insert for key warnings and formal contraindications
 **Decision: Hold (bacterial arthritis, the top-ranked prediction); Proceed with Guardrails (urinary tract infection)**
 
 **Rationale:**
-- For bacterial arthritis, the model score is very high (99.92%), but evidence is limited to case reports, surveys, and pharmacokinetic work (L4), with no trials. Use today rests on susceptibility-guided clinical judgement rather than efficacy data.
+- For bacterial arthritis, the model score is very high (0.9992), but evidence is limited to case reports, surveys, and pharmacokinetic work (L4), with no trials. Use today rests on susceptibility-guided clinical judgement rather than efficacy data.
 - Complicated urinary tract infection has Phase 3 RCT support (L1), but the trials largely use meropenem as a comparator or combination partner, and the novelty is low because it is an established class use. Reserve it for ESBL or multidrug-resistant pathogens, with stewardship, susceptibility testing, and renal dose adjustment.
 - Other predictions (epiglottitis, laryngitis, paratyphoid fever, Lyme disease, Peptostreptococcus, gonococcal urethritis) should stay on Hold. Ureaplasma urethritis is likely a false positive because the organism has no cell wall. Staphylococcus aureus infection is a research question limited to combination therapy for persistent MSSA bacteraemia, since meropenem is not active against MRSA.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications, which are currently missing and block formal safety screening.
 - Detailed mechanism of action data from DrugBank.
-- Clarification of US regulatory status, since all nine licenses are cancelled.
+- Clarification of US regulatory status, since the drug is marketed with nine valid licenses.
 - For bacterial arthritis, prospective or comparative data on meropenem in bone and joint infection.
 - For urinary tract infection, review of the trials where meropenem is the tested agent rather than the comparator.
 - Dosing guidance for renal impairment, and a seizure-risk review given the epilepsy association.

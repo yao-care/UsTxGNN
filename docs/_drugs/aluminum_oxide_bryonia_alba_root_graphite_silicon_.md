@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Aluminum Oxide Bryonia Alba Root Graphite Silicon 
@@ -51,7 +52,7 @@ No supporting clinical trials or literature evidence could be retrieved as a res
 | Predicted New Indication | No prediction generated |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | Cannot be determined — no prediction output |
-| US Market Status | Not Marketed |
+| US Market Status | Marketed (valid licenses on record: at least 3) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 

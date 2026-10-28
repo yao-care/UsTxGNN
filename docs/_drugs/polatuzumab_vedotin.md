@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-## Polatuzumab Vedotin: From an Unspecified Original Indication to HER2-Positive Breast Carcinoma
+## Polatuzumab Vedotin: From an Unspecified Original Indication to HER2 positive breast carcinoma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,17 +47,17 @@ The TxGNN model predicts it may be effective for **HER2-positive breast carcinom
 |------|------|
 | Original Indication | Not available in the compiled data |
 | Predicted New Indication | HER2 positive breast carcinoma |
-| TxGNN Prediction Score | 99.34% |
+| TxGNN Prediction Score | 0.9934 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 (BLA761121) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not formally available in the compiled data. Based on known pharmacology, polatuzumab vedotin is an ADC that targets CD79b, a component of the B-cell receptor, and delivers the microtubule-disrupting payload MMAE (monomethyl auristatin E). Its biology is therefore tied to B-cell malignancies, not breast cancer.
 
-The only plausible indirect link is the payload. Microtubule-targeting payloads are already used in HER2-directed ADCs such as trastuzumab emtansine (DM1) and trastuzumab deruxtecan, so cytotoxic payload activity is not foreign to HER2-positive breast cancer. However, polatuzumab vedotin has no HER2-directed targeting, and breast tumor cells are not known to express CD79b at meaningful levels. Any activity would depend on non-specific payload effects, which is an unsupported hypothesis. The high TxGNN score (0.993) is a computational prediction only and should not be read as evidence of efficacy. The model's rank for this drug-disease pair was 14,969.
+The only plausible indirect link is the payload. Microtubule-targeting payloads are already used in HER2-directed ADCs such as trastuzumab emtansine (DM1) and trastuzumab deruxtecan, so cytotoxic payload activity is not foreign to HER2-positive breast cancer. However, polatuzumab vedotin has no HER2-directed targeting, and breast tumor cells are not known to express CD79b at meaningful levels. Any activity would depend on non-specific payload effects, which is an unsupported hypothesis. The high TxGNN score (0.9934) is a computational prediction only and should not be read as evidence of efficacy. The model's rank for this drug-disease pair was 14,969.
 
 ## Clinical Trial Evidence
 
@@ -71,7 +71,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA761121 | POLIVY | Injection, powder, lyophilized, for solution | Not stated in the compiled data (status: cancelled; manufacturer: Genentech, Inc.) |
+| BLA761121 | POLIVY | Injection, powder, lyophilized, for solution | Not stated in the compiled data (status: valid; manufacturer: Genentech, Inc.) |
 
 ## Cytotoxicity
 

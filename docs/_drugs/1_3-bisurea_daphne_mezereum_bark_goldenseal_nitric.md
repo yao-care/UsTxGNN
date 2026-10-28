@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # 1 3-Bisurea Daphne Mezereum Bark Goldenseal Nitric
@@ -51,7 +52,7 @@ Without a resolvable drug identity, repurposing evaluation cannot proceed at thi
 | Predicted New Indication | None — TxGNN returned no predictions |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | Cannot be assessed |
-| US Market Status | Not marketed (0 authorizations) |
+| US Market Status | Marketed (valid licenses on record: at least 12) |
 | Number of NDAs | 0 |
 | Recommended Decision | **Hold** |
 

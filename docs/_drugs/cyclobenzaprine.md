@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Cyclobenzaprine
-parent: Model Prediction Only (L5)
+parent: High Evidence (L1-L2)
 nav_order: 554
-evidence_level: L5
+evidence_level: L2
 indication_count: 3
 monitor_inn: "CYCLOBENZAPRINE"
 predicted_indications: ["myofascial pain syndrome", "neuralgia", "papillary conjunctivitis"]
@@ -14,7 +14,7 @@ description: "Cyclobenzaprine: predicted new indication Myofascial pain syndrome
 # Cyclobenzaprine
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **3** 
+Evidence Level: **L2** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,9 +46,9 @@ Cyclobenzaprine is a centrally acting skeletal muscle relaxant. The TxGNN model 
 |------|------|
 | Original Indication | Not available in the compiled data (the license records list no indication text) |
 | Predicted New Indication | Myofascial pain syndrome |
-| TxGNN Prediction Score | 99.09% |
+| TxGNN Prediction Score | 0.9909 |
 | Evidence Level | L2 (see note under "Clinical Trial Evidence") |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 9) |
 | Number of NDAs | 9 licenses (1 NDA, 8 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
@@ -91,7 +91,7 @@ The abstracts available for this report state the study objectives but not the r
 
 ## US Market Information
 
-All nine US licenses on record are cancelled. The records contain no approved-indication text.
+Nine valid US licenses are on record, and the drug is marketed. The records contain no approved-indication text.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -115,14 +115,14 @@ Please refer to the package insert for official warnings and contraindications, 
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN score is high (99.09%), and the mechanism is plausible. However, the large Phase 3 trials are in fibromyalgia, and the direct evidence in myofascial pain consists of a few small, older randomized studies. In addition, all US licenses are cancelled, and the label safety data is missing. The case for proceeding is therefore not yet established.
+The TxGNN score is high (0.9909), and the mechanism is plausible. However, the large Phase 3 trials are in fibromyalgia, and the direct evidence in myofascial pain consists of a few small, older randomized studies. In addition, the label safety data is missing. The case for proceeding is therefore not yet established.
 
 **To proceed, the following is needed:**
 - Obtain and review the FDA package insert for warnings, contraindications and the original indication
 - Obtain detailed mechanism-of-action data from DrugBank
 - Review the full text of the four randomized studies (PMIDs 12764337, 11889661, 24822235, 20673246) to assess efficacy and quality
 - Confirm whether any trial directly tests cyclobenzaprine in myofascial pain syndrome, rather than fibromyalgia
-- Clarify the current US regulatory and market status, since all listed licenses are cancelled
+- Clarify the current US regulatory and market status, since the drug is marketed with 9 valid licenses
 - Assess the interaction and anticholinergic risks, especially for older patients and those with glaucoma, thyroid or cardiac conduction disease
 ## Disclaimer
 

@@ -49,10 +49,10 @@ The TxGNN model predicts it may be effective for **sclerosing cholangitis**, but
 |------|------|
 | Original Indication | Not available (the approved indication text is empty) |
 | Predicted New Indication | Sclerosing cholangitis |
-| TxGNN Prediction Score | 99.43% |
+| TxGNN Prediction Score | 0.9943 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid authorization) |
-| Number of NDAs | 1 (cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -63,9 +63,9 @@ Currently, detailed mechanism of action data is not available. Phenylalanine is 
 
 The only mechanistic hint in the retrieved literature is a cohort study of plasma tyrosine in primary biliary cirrhosis and primary sclerosing cholangitis. It suggests altered aromatic amino acid metabolism in cholestatic liver disease. This is an association with fatigue, not evidence that phenylalanine treats the disease.
 
-The high TxGNN score (99.43%) is a computational prediction only. No therapeutic rationale has been established, so the prediction should be treated as a hypothesis, not a finding.
+The high TxGNN score (0.9943) is a computational prediction only. No therapeutic rationale has been established, so the prediction should be treated as a hypothesis, not a finding.
 
-A second prediction, **congenital prothrombin deficiency** (score 99.26%), has no clinical trials, no literature, and no known mechanistic link. Phenylalanine is not known to affect prothrombin synthesis or activity. Its evidence level is L5.
+A second prediction, **congenital prothrombin deficiency** (score 0.9926), has no clinical trials, no literature, and no known mechanistic link. Phenylalanine is not known to affect prothrombin synthesis or activity. Its evidence level is L5.
 
 ---
 

@@ -4,17 +4,17 @@ title: Miglitol
 parent: Model Prediction Only (L5)
 nav_order: 928
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Miglitol: predicted new indication Focal stiff limb syndrome (evidence level L5). Approved use: Type 2 diabetes mellitus"
 monitor_inn: "MIGLITOL"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pancreatic agenesis", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
+description: "Miglitol: predicted new indication Focal stiff limb syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Miglitol
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Miglitol: From Type 2 Diabetes Mellitus to Focal Stiff Limb Syndrome
+## Miglitol: Focal stiff limb syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,12 +47,12 @@ The TxGNN model predicts it may be effective for **focal stiff limb syndrome**, 
 
 | Item | Content |
 |------|------|
-| Original Indication | Type 2 diabetes mellitus |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Focal stiff limb syndrome |
-| TxGNN Prediction Score | 99.87% |
+| TxGNN Prediction Score | 0.9987 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no active marketing authorization) |
-| Number of NDAs | 1 (one ANDA, cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -63,7 +63,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 **The prediction is not mechanistically convincing.** Focal stiff limb syndrome is a variant of stiff person syndrome spectrum disorders. These are autoimmune or neurological disorders of the central nervous system, often linked to anti-GAD antibodies. Miglitol's local action on carbohydrate digestion has no known effect on this pathology.
 
-The high score most likely reflects network proximity in the knowledge graph. Diabetes and GAD-related autoimmunity are closely connected there, and this is not a true therapeutic signal. The same pattern appears for the neighbouring prediction, classic stiff person syndrome, which has an identical score.
+The high score most likely reflects similarities the TxGNN model (deep learning) learned between related diseases, not biological evidence. Diabetes and GAD-related autoimmunity are closely related, and this is not a true therapeutic signal. The same pattern appears for the neighboring prediction, classic stiff person syndrome, which has an identical score.
 
 ---
 
@@ -103,7 +103,7 @@ Please refer to the package insert for full warnings and contraindications.
 
 ## Additional Note: Other Predictions for Miglitol
 
-Of the 10 predicted indications, only **type 1 diabetes mellitus** (TxGNN score 99.60%) has any supporting evidence. The other eight, including lipodystrophy variants, pancreatic agenesis, opsismodysplasia and thiamine-responsive dysfunction syndrome, have no trials or literature and no credible mechanism.
+The predicted indications, including lipodystrophy variants, pancreatic agenesis, opsismodysplasia and thiamine-responsive dysfunction syndrome, have no trials or literature and no credible mechanism.
 
 For type 1 diabetes, miglitol acts as an adjunct to insulin to blunt after-meal glucose peaks.
 
@@ -124,7 +124,7 @@ The evidence is small and mostly dated. With only one open-label Phase 3 trial, 
 **Decision: Hold**
 
 **Rationale:**
-The predicted indication, focal stiff limb syndrome, has no clinical trials or publications, and no plausible mechanistic link to an intestinal alpha-glucosidase inhibitor. The prediction appears to be a knowledge-graph artifact. The only US authorization is cancelled, so the drug has no active US marketing authorization.
+The predicted indication, focal stiff limb syndrome, has no clinical trials or publications, and no plausible mechanistic link to an intestinal alpha-glucosidase inhibitor. The prediction appears to be a TxGNN model (deep learning) artifact.
 
 **To proceed, the following is needed:**
 - Any clinical or preclinical evidence linking miglitol to stiff person spectrum disorders (none currently exists)

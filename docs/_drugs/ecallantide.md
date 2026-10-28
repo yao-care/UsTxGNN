@@ -48,10 +48,10 @@ Currently, **7 clinical trials** (3 phase 3 studies, 2 of them randomized and pl
 |------|------|
 | Original Indication | Hereditary angioedema; hereditary angioedema with C1 inhibitor deficiency |
 | Predicted New Indication | C1 inhibitor deficiency |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L1 |
-| US Market Status | Cancelled only (no active marketing authorization) |
-| Number of NDAs | 1 (BLA125277, cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

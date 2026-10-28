@@ -50,10 +50,10 @@ but **no clinical trials** and **no publications** currently support this predic
 |------|------|
 | Original Indication | Epilepsy, status epilepticus |
 | Predicted New Indication | Conjunctivitis |
-| TxGNN Prediction Score | 99.36% |
+| TxGNN Prediction Score | 0.9936 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all licenses cancelled) |
-| Number of NDAs | 6 (1 NDA and 5 ANDAs, all cancelled) |
+| US Market Status | Marketed (valid licenses: 6 of 6) |
+| Number of NDAs | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 ---
@@ -62,7 +62,7 @@ but **no clinical trials** and **no publications** currently support this predic
 
 Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, fosphenytoin is converted in the body to phenytoin, which blocks voltage-gated sodium channels and stabilizes neuronal membranes. This is the basis of its efficacy in epilepsy and status epilepticus.
 
-For conjunctivitis, however, there is no clear mechanistic link. Conjunctivitis is typically infectious or allergic, and no plausible sodium-channel-mediated pathway is evident. The high TxGNN score reflects a pattern in the knowledge graph rather than a demonstrated biological rationale, and it should be read as a hypothesis-generating signal only.
+For conjunctivitis, however, there is no clear mechanistic link. Conjunctivitis is typically infectious or allergic, and no plausible sodium-channel-mediated pathway is evident. The high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence, so it should be read as a hypothesis-generating signal only.
 
 ### Other Predicted Indications Reviewed
 
@@ -70,12 +70,12 @@ Other predictions were also reviewed. All have lower evidence than would be need
 
 | Predicted Indication | TxGNN Score | Evidence Level | Assessment |
 |------|------|------|------|
-| Nephrogenic syndrome of inappropriate antidiuresis | 99.28% | L5 | The condition is caused by gain-of-function mutations in the vasopressin V2 receptor; sodium-channel blockade does not address this. No evidence. |
-| Tourette syndrome | 99.22% | L5 | Involves dopaminergic and cortico-striatal circuit dysregulation; no direct evidence for fosphenytoin. |
-| Manic bipolar affective disorder | 99.18% | L4 | Other anticonvulsants are effective in mania, and one 2003 publication on intravenous fosphenytoin in acute mania exists. Design and sample size are unverified. This is the most plausible of the predictions as a research question. |
-| Idiopathic granulomatous myositis | 99.02% | L5 | An immune-mediated myopathy; fosphenytoin has no relevant immunomodulatory action, and phenytoin can itself cause myopathy or hypersensitivity. |
-| Myositis fibrosa | 99.02% | L5 | No known mechanism; the score is likely driven by shared graph neighbors with granulomatous myositis. |
-| Fibromyalgia | 99.02% | L5 | Pregabalin and gabapentin act through a different mechanism (α2δ calcium-channel subunit); phenytoin-class agents have no established benefit. |
+| Nephrogenic syndrome of inappropriate antidiuresis | 0.9928 | L5 | The condition is caused by gain-of-function mutations in the vasopressin V2 receptor; sodium-channel blockade does not address this. No evidence. |
+| Tourette syndrome | 0.9922 | L5 | Involves dopaminergic and cortico-striatal circuit dysregulation; no direct evidence for fosphenytoin. |
+| Manic bipolar affective disorder | 0.9918 | L5 | Other anticonvulsants are effective in mania, and one 2003 publication on intravenous fosphenytoin in acute mania exists. Design and sample size are unverified. This is the most plausible of the predictions as a research question. |
+| Idiopathic granulomatous myositis | 0.9902 | L5 | An immune-mediated myopathy; fosphenytoin has no relevant immunomodulatory action, and phenytoin can itself cause myopathy or hypersensitivity. |
+| Myositis fibrosa | 0.9902 | L5 | No known mechanism; the score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. |
+| Fibromyalgia | 0.9902 | L5 | Pregabalin and gabapentin act through a different mechanism (α2δ calcium-channel subunit); phenytoin-class agents have no established benefit. |
 
 ---
 
@@ -99,15 +99,15 @@ For the manic bipolar affective disorder prediction, one publication was identif
 
 ## US Market Information
 
-All six US authorizations are cancelled, so there is currently no actively marketed fosphenytoin product in the data compiled for this report. Approved indication text is not available for these entries.
+All six US authorizations are valid, so fosphenytoin is currently marketed in the data compiled for this report. Approved indication text is not available for these entries.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA020450 | CEREBYX (Pfizer) | Injection, solution | Not available (cancelled) |
-| ANDA214926 | Fosphenytoin sodium (Glenmark) | Injection, solution | Not available (cancelled) |
-| ANDA078765 | Fosphenytoin sodium (West-Ward) | Injection, solution | Not available (cancelled) |
-| ANDA077989 | Fosphenytoin sodium (Hikma) | Injection | Not available (cancelled) |
-| ANDA078476 | Fosphenytoin sodium (Amneal) | Injection | Not available (cancelled) |
+| NDA020450 | CEREBYX (Pfizer) | Injection, solution | Not available (valid) |
+| ANDA214926 | Fosphenytoin sodium (Glenmark) | Injection, solution | Not available (valid) |
+| ANDA078765 | Fosphenytoin sodium (West-Ward) | Injection, solution | Not available (valid) |
+| ANDA077989 | Fosphenytoin sodium (Hikma) | Injection | Not available (valid) |
+| ANDA078476 | Fosphenytoin sodium (Amneal) | Injection | Not available (valid) |
 
 ---
 
@@ -133,7 +133,7 @@ Package insert warnings and contraindications are not available in the data comp
 **Decision: Hold**
 
 **Rationale:**
-The conjunctivitis prediction has a high model score but no clinical trials, no literature, and no plausible mechanistic link (Level L5). All US authorizations are cancelled, which further limits practical development.
+The conjunctivitis prediction has a high model score but no clinical trials, no literature, and no plausible mechanistic link (Level L5). All six US authorizations are valid, and the drug is marketed.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

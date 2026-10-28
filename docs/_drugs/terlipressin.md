@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Terlipressin
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1216
-evidence_level: L3
+evidence_level: L5
 indication_count: 7
 monitor_inn: "TERLIPRESSIN"
 predicted_indications: ["open-angle glaucoma", "primary hereditary glaucoma", "pulmonary hypertension", "kyphoscoliotic heart disease", "esotropia", "glaucoma 1, open angle", "headache disorder"]
@@ -14,7 +14,7 @@ description: "Terlipressin: predicted new indication Pulmonary hypertension (evi
 # Terlipressin
 {: .fs-9 }
 
-Evidence Level: **L3** | Predicted Indications: **7** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ The evidence is early-stage and the direction of effect is uncertain.
 |------|------|
 | Original Indication | Not available in the data compiled for this report |
 | Predicted New Indication | Pulmonary hypertension (the highest-scoring prediction was open-angle glaucoma, but it has no supporting evidence, so this report focuses on the best-supported prediction) |
-| TxGNN Prediction Score | 99.56% (open-angle glaucoma, the top-ranked prediction: 99.78%) |
-| Evidence Level | L3 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 |
+| TxGNN Prediction Score | 0.9956 (open-angle glaucoma, the top-ranked prediction: 0.9978) |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold (treat as a research question) |
 
 ## Why is This Prediction Reasonable?
@@ -88,7 +88,7 @@ The table lists the publications most relevant to pulmonary hypertension. Papers
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA022231 | Terlivaz (Mallinckrodt Hospital Products Inc.; status: cancelled) | Injection, powder, lyophilized, for solution | Not available in the data compiled for this report |
+| NDA022231 | Terlivaz (Mallinckrodt Hospital Products Inc.; status: valid) | Injection, powder, lyophilized, for solution | Not available in the data compiled for this report |
 
 ## Safety Considerations
 

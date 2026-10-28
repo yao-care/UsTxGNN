@@ -4,17 +4,17 @@ title: Prednisolone
 parent: High Evidence (L1-L2)
 nav_order: 1077
 evidence_level: L2
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Prednisolone: predicted new indication Alopecia areata (evidence level L2). Approved use: Autoimmune disease, Crohn disease and inflammatory bowel disease…"
 monitor_inn: "PREDNISOLONE"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "prolapse of lacrimal gland"]
+description: "Prednisolone: predicted new indication Alopecia areata (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
 # Prednisolone
 {: .fs-9 }
 
-Evidence Level: **L2** | Predicted Indications: **10** 
+Evidence Level: **L2** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L2** | Predicted Indications: **10**
 
 </div>
 
-## Prednisolone: From Autoimmune and Inflammatory Disease to Alopecia Areata
+## Prednisolone: Alopecia areata
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,11 +48,11 @@ with **0 registered clinical trials** but **20 publications** (including a place
 
 | Item | Content |
 |------|------|
-| Original Indication | Autoimmune disease, Crohn disease and inflammatory bowel disease, adrenocortical insufficiency, acute lymphoblastic leukemia, and others (taken from the knowledge-graph indication list; no approved-indication text is available from the US licenses) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Alopecia areata |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L2 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 13) |
 | Number of NDAs | 13 licenses in total (all cancelled) |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -93,7 +93,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All 13 US licenses in the data are cancelled; no valid license is currently listed. Approved-indication text is not available. Five representative entries:
+The drug is marketed in the US, with 13 valid licenses in the data. Approved-indication text is not available. Five representative entries:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|

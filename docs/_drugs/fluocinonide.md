@@ -48,9 +48,9 @@ Among the other top predictions, only alopecia areata has any related material (
 |------|------|
 | Original Indication | Atopic dermatitis, contact dermatitis, seborrheic dermatitis, discoid lupus erythematosus and other inflammatory skin conditions (the US licence records contain no indication text) |
 | Predicted New Indication | Alopecia mucinosa |
-| TxGNN Prediction Score | 99.61% |
+| TxGNN Prediction Score | 0.9961 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licences) |
+| US Market Status | Marketed (valid licenses on record: at least 13) |
 | Number of NDAs | 13 (all ANDA generic applications, all cancelled) |
 | Recommended Decision | Hold |
 
@@ -61,7 +61,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 Alopecia mucinosa (follicular mucinosis) is an inflammatory disorder of the hair follicle, so local anti-inflammatory therapy is mechanistically plausible. It can also overlap with cutaneous T-cell lymphoma, which is already among fluocinonide's listed original indications. This overlap is an inference, not evidence.
 
 The TxGNN score is a computational prediction only. Other high-ranking predictions are weakly supported or implausible:
-- **Alopecia areata** (score 99.59%): an autoimmune, T-cell-mediated disease for which corticosteroids are an established drug class, so the mechanism is plausible.
+- **Alopecia areata** (score 0.9959): an autoimmune, T-cell-mediated disease for which corticosteroids are an established drug class, so the mechanism is plausible.
 - **Telogen effluvium, hereditary hypotrichosis with recurrent skin vesicles, alopecia antibody deficiency, and alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome**: little biological rationale for a topical corticosteroid. The high scores probably reflect network proximity to other alopecia terms.
 - **Folliculitis decalvans**: only an indirect, adjunctive rationale.
 
@@ -109,7 +109,7 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The top prediction, alopecia mucinosa, has only a computational score (L5), with no trials or literature. Alopecia areata has a more plausible mechanism but only tangential evidence (L4). The basic safety data needed for screening is also missing, and all US licences are cancelled.
+The top prediction, alopecia mucinosa, has only a computational score (L5), with no trials or literature. Alopecia areata has a more plausible mechanism but only tangential evidence (L4). The basic safety data needed for screening is also missing, although the drug is marketed in the US with 13 valid licenses.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications from FDA (currently blocking for safety screening)

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Peppermint Oil
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1031
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 monitor_inn: "PEPPERMINT OIL"
 predicted_indications: ["leprosy", "pneumocystosis", "coronary artery disease", "myocardial ischemia", "echinococcus granulosus infectious disease", "polyp of vocal cord", "uterine polyp", "polyp of middle ear", "cardiovascular disease", "polyp of frontal sinus"]
-last_modified_at: 2026-10-14
-description: "Peppermint Oil: predicted new indication Cardiovascular Disease (evidence level L4). Approved use: Not available (no approved indication text in any authorization)"
+last_modified_at: 2026-10-28
+description: "Peppermint Oil: predicted new indication Leprosy (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Peppermint Oil
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **10** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,12 +33,11 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Peppermint Oil: From an Unspecified Original Indication to Cardiovascular Disease
+## Peppermint Oil: Leprosy
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Peppermint oil has no approved indication on record in the data compiled for this report, and all four of its US authorizations are cancelled.
 The TxGNN model ranks **leprosy** first, but the only prediction with any supporting evidence is **Cardiovascular Disease**, which is the one evaluated here.
 That prediction has **1 completed small trial** and **2 directly relevant publications**, both on hypertension rather than cardiovascular disease outcomes.
 
@@ -48,15 +47,15 @@ That prediction has **1 completed small trial** and **2 directly relevant public
 
 | Item | Content |
 |------|------|
-| Original Indication | Not available (no approved indication text in any authorization) |
-| Predicted New Indication | Cardiovascular Disease (rank 9 of the top 10 predictions; the only one with any trial or literature support) |
-| TxGNN Prediction Score | 99.13% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 4 (all cancelled) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Leprosy |
+| TxGNN Prediction Score | 0.9980 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 4 of 4) |
+| Number of NDAs | 4 (valid: 4) |
 | Recommended Decision | Hold (research question only) |
 
-**Note on the top-ranked predictions:** The nine other predictions (leprosy 99.80%, pneumocystosis 99.58%, coronary artery disease 99.35%, myocardial ischemia 99.26%, echinococcus granulosus infection 99.25%, and polyps of the vocal cord, uterus, middle ear and frontal sinus at 99.1%) have no clinical trials or publications. They are Level L5 (model prediction only) and are on Hold. Cardiovascular disease is reported here because it is the only prediction with supporting data.
+**Note on the top-ranked predictions:** The nine other predictions (leprosy 0.9980, pneumocystosis 0.9958, coronary artery disease 0.9935, myocardial ischemia 0.9926, echinococcus granulosus infection 0.9925, and polyps of the vocal cord, uterus, middle ear and frontal sinus at 99.1%) have no clinical trials or publications. They are Level L5 (model prediction only) and are on Hold. Cardiovascular disease is reported here because it is the only prediction with supporting data.
 
 ---
 
@@ -94,9 +93,9 @@ The data compiled for this report also contained four publications that do not b
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| M005 | Gray Nail Essence Oil | Liquid | Not stated (cancelled) |
-| M029 | Gray Nail Essence Oil | Liquid | Not stated (cancelled) |
-| M017 | SINSINPAP COOL | Patch | Not stated (cancelled) |
+| M005 | Gray Nail Essence Oil | Liquid | Not stated (valid) |
+| M029 | Gray Nail Essence Oil | Liquid | Not stated (valid) |
+| M017 | SINSINPAP COOL | Patch | Not stated (valid) |
 | Not available | iShanCare | Patch | Not stated (cancelled) |
 
 ---
@@ -112,7 +111,7 @@ Please refer to the package insert for safety information. No warnings, contrain
 **Decision: Hold (research question only)**
 
 **Rationale:**
-The prediction rests on one small, completed, non-phased trial and one related publication, both using surrogate hypertension endpoints. There is no approved indication, no mechanism data, and no safety data, and every US authorization is cancelled. Evidence is at Level L4 and is not enough to support a move forward.
+The prediction rests on one small, completed, non-phased trial and one related publication, both using surrogate hypertension endpoints. Evidence is at Level L4 and is not enough to support a move forward.
 
 **To proceed, the following is needed:**
 - Published results from NCT05561543 and the 2026 placebo-controlled trial (PMID 42024666), including effect sizes on blood pressure

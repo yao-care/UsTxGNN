@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "MIDAZOLAM"
 predicted_indications: ["insomnia (disease)"]
 last_modified_at: 2026-10-14
-description: "Midazolam: predicted new indication Insomnia (evidence level L3). Approved use: Anxiety"
+description: "Midazolam: predicted new indication Insomnia (disease) (evidence level L3). Approved use: Not recorded in the local data"
 ---
 
 # Midazolam
@@ -33,7 +33,7 @@ Evidence Level: **L3** | Predicted Indications: **1**
 
 </div>
 
-## Midazolam: From Anxiety to Insomnia
+## Midazolam: Insomnia (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ with **2 clinical trials** (both only indirectly related) and **10 publications*
 
 | Item | Content |
 |------|------|
-| Original Indication | Anxiety |
-| Predicted New Indication | Insomnia |
-| TxGNN Prediction Score | 99.74% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Insomnia (disease) |
+| TxGNN Prediction Score | 0.9974 |
 | Evidence Level | L3 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 12) |
 | Number of NDAs | 12 (all cancelled) |
 | Recommended Decision | Hold |
 
@@ -84,13 +84,12 @@ The indication is not entirely new. Oral midazolam was studied as a hypnotic in 
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA075243 | Midazolam (Hikma) | Injection | Not available (cancelled) |
-| NDA216359 | Midazolam (Rafa Laboratories) | Injection, solution | Not available (cancelled) |
-| ANDA090850 | Midazolam Hydrochloride (Belcher) | Injection, solution | Not available (cancelled) |
-| ANDA203460 | Midazolam (Fresenius Kabi) | Injection, solution | Not available (cancelled) |
-| ANDA075873 | Midazolam Hydrochloride (American Health Packaging) | Syrup | Not available (cancelled) |
+| ANDA075243 | Midazolam (Hikma) | Injection | Not available (valid) |
+| NDA216359 | Midazolam (Rafa Laboratories) | Injection, solution | Not available (valid) |
+| ANDA090850 | Midazolam Hydrochloride (Belcher) | Injection, solution | Not available (valid) |
+| ANDA203460 | Midazolam (Fresenius Kabi) | Injection, solution | Not available (valid) |
+| ANDA075873 | Midazolam Hydrochloride (American Health Packaging) | Syrup | Not available (valid) |
 
-All 12 listed authorizations (injection and syrup forms) are cancelled; none is currently valid.
 
 ## Safety Considerations
 
@@ -105,7 +104,7 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The only direct evidence for midazolam as a hypnotic consists of older studies (1981–1990), and the registered trials are only indirectly related. All US licenses are cancelled, and label-based safety data are not available. This is best treated as a research question rather than a candidate ready to advance.
+The only direct evidence for midazolam as a hypnotic consists of older studies (1981–1990), and the registered trials are only indirectly related. Midazolam is marketed in the US with 12 valid licenses, and label-based safety data are not available. This is best treated as a research question rather than a candidate ready to advance.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

@@ -4,17 +4,17 @@ title: Ranitidine
 parent: Moderate Evidence (L3-L4)
 nav_order: 1110
 evidence_level: L4
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-14
-description: "Ranitidine: predicted new indication Active peptic ulcer disease (evidence level L4). Approved use: Gastric ulcer, gastroesophageal reflux disease, esophagitis…"
 monitor_inn: "RANITIDINE"
 predicted_indications: ["peptic ulcer perforation", "duodenal obstruction", "gastroduodenitis", "Smouldering systemic mastocytosis", "abnormality of glucagon secretion", "lymphoadenopathic mastocytosis with eosinophilia"]
+description: "Ranitidine: predicted new indication Peptic ulcer perforation (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
 # Ranitidine
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L4** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,25 +33,24 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Ranitidine: From Gastric Ulcer to Active Peptic Ulcer Disease
+## Ranitidine: Peptic ulcer perforation
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Ranitidine is an H2-receptor antagonist originally used to treat gastric and duodenal ulcers, reflux disease and acid hypersecretory conditions.
-The TxGNN model predicts it may be effective for **active peptic ulcer disease**, but this is essentially the same as its original indication rather than a true new use.
 There are **no registered clinical trials** for this exact term and **20 publications** (mostly reviews and comparator papers), so the evidence is only indirect.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Gastric ulcer, gastroesophageal reflux disease, esophagitis, duodenal ulcer, Zollinger-Ellison syndrome (label indication text is not available; taken from the knowledge graph) |
-| Predicted New Indication | Active peptic ulcer disease |
-| TxGNN Prediction Score | 99.89% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Peptic ulcer perforation |
+| TxGNN Prediction Score | 0.9988 |
 | Evidence Level | L4 |
-| US Market Status | Cancelled only (all licences cancelled) |
-| Number of NDAs | 9 (all cancelled ANDAs) |
+| US Market Status | Marketed (valid licenses: 9 of 9) |
+| Number of NDAs | 9 (valid: 9) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -64,7 +63,7 @@ Other predicted indications are weaker still. Perforation, duodenal obstruction 
 
 ## Clinical Trial Evidence
 
-No registered trials for "active peptic ulcer disease" were found. The closest term, "peptic ulcer disease" (a separate prediction, score 99.58%), returned five trials. None of them tests ranitidine as the intervention under study.
+None of them tests ranitidine as the intervention under study.
 
 | Trial Number | Phase | Status | Enrollment | Key Findings |
 |---------|------|------|------|---------|
@@ -97,11 +96,11 @@ These are older drug reviews and comparator papers. None is a modern ranitidine-
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA077824 | Ranitidine (Amneal) | Tablet | Not available (cancelled) |
-| ANDA211289 | Ranitidine (Rising Pharma) | Tablet | Not available (cancelled) |
-| ANDA078192 | Ranitidine (Dr. Reddy's) | Coated tablet | Not available (cancelled) |
-| ANDA210243 | Ranitidine (Granules India) | Tablet | Not available (cancelled) |
-| ANDA209859 | Ranitidine (Ajanta Pharma) | Capsule | Not available (cancelled) |
+| ANDA077824 | Ranitidine (Amneal) | Tablet | Not available (valid) |
+| ANDA211289 | Ranitidine (Rising Pharma) | Tablet | Not available (valid) |
+| ANDA078192 | Ranitidine (Dr. Reddy's) | Coated tablet | Not available (valid) |
+| ANDA210243 | Ranitidine (Granules India) | Tablet | Not available (valid) |
+| ANDA209859 | Ranitidine (Ajanta Pharma) | Capsule | Not available (valid) |
 
 Nine licences in total are on record, and all are cancelled. The remaining four are Acid Reducer (WinCo Foods, film-coated tablet), Ranitidine syrup (Pharmaceutical Associates), and two further Dr. Reddy's products (capsule and tablet). The market withdrawal is linked to NDMA contamination concerns.
 
@@ -119,7 +118,7 @@ Nine licences in total are on record, and all are cancelled. The remaining four 
 **Decision: Hold**
 
 **Rationale:**
-- Active peptic ulcer disease is not a new indication for ranitidine, so the prediction offers no repurposing value. All US licences are cancelled, and no trial tests ranitidine for this use. Evidence is L4: only indirect, mostly historical literature.
+- Evidence is L4: only indirect, mostly historical literature.
 
 **To proceed, the following is needed:**
 - Mechanism of action data and the FDA label warnings and contraindications

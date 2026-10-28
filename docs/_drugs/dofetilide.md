@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Dofetilide
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 619
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 monitor_inn: "DOFETILIDE"
-predicted_indications: ["stroke disorder", "obsolete susceptibility to ischemic stroke", "ABri amyloidosis", "sick sinus syndrome 2, autosomal dominant", "Wildervanck syndrome", "sarcoglycanopathy", "duodenal obstruction", "brain stem infarction", "macrocephaly, dysmorphic facies, and psychomotor retardation", "cerebrovascular disorder"]
+predicted_indications: ["stroke disorder", "ABri amyloidosis", "sick sinus syndrome 2, autosomal dominant", "Wildervanck syndrome", "sarcoglycanopathy", "duodenal obstruction", "brain stem infarction", "macrocephaly, dysmorphic facies, and psychomotor retardation", "cerebrovascular disorder"]
 last_modified_at: 2026-10-14
 description: "Dofetilide: predicted new indication Stroke disorder (evidence level L4). Approved use: Atrial fibrillation"
 ---
@@ -14,7 +14,7 @@ description: "Dofetilide: predicted new indication Stroke disorder (evidence lev
 # Dofetilide
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ The TxGNN model predicts it may be effective for **stroke disorder**, but there 
 |------|------|
 | Original Indication | Atrial fibrillation |
 | Predicted New Indication | Stroke disorder |
-| TxGNN Prediction Score | 99.99% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (all licenses cancelled) |
+| TxGNN Prediction Score | 0.9999 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 9) |
 | Number of NDAs | 9 authorizations (1 NDA and 8 ANDAs) |
 | Recommended Decision | Hold |
 
@@ -59,7 +59,7 @@ Currently, detailed mechanism of action data is not available in the data compil
 
 The link between the two conditions is indirect. Stroke is a downstream complication of atrial fibrillation, so maintaining sinus rhythm might lower the risk of clot formation and embolism. However, the retrieved literature covers rhythm management and comparisons of antiarrhythmic drugs. None of it shows that dofetilide prevents stroke. Rhythm control also does not replace anticoagulation.
 
-The very high TxGNN score most likely reflects how closely atrial fibrillation and stroke sit in the knowledge graph, not a new mechanism of action.
+The very high TxGNN score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases such as atrial fibrillation and stroke, not biological evidence or a new mechanism of action.
 
 ## Clinical Trial Evidence
 
@@ -83,13 +83,13 @@ None of these studies uses stroke as an endpoint.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA020931 | Tikosyn (Pfizer) | Capsule | Not listed (cancelled) |
-| ANDA210466 | Dofetilide (Sun Pharmaceutical) | Capsule | Not listed (cancelled) |
-| ANDA207058 | Dofetilide (Dr. Reddy's) | Capsule | Not listed (cancelled) |
-| ANDA213220 | Dofetilide (Novadoz) | Capsule | Not listed (cancelled) |
-| ANDA210740 | Dofetilide (Aurobindo) | Capsule | Not listed (cancelled) |
+| NDA020931 | Tikosyn (Pfizer) | Capsule | Not listed (valid) |
+| ANDA210466 | Dofetilide (Sun Pharmaceutical) | Capsule | Not listed (valid) |
+| ANDA207058 | Dofetilide (Dr. Reddy's) | Capsule | Not listed (valid) |
+| ANDA213220 | Dofetilide (Novadoz) | Capsule | Not listed (valid) |
+| ANDA210740 | Dofetilide (Aurobindo) | Capsule | Not listed (valid) |
 
-Four more ANDAs (Accord, Bionpharma, Sigmapharm, Exelan) are also cancelled. All 9 authorizations are in cancelled status.
+Four more ANDAs (Accord, Bionpharma, Sigmapharm, Exelan) are also valid. All 9 authorizations are in valid status.
 
 ## Safety Considerations
 
@@ -115,7 +115,7 @@ Please refer to the package insert for full safety information.
 **Decision: Hold**
 
 **Rationale:**
-The stroke prediction rests on knowledge-graph proximity to atrial fibrillation. No trials exist, the literature contains no stroke-outcome data, and the drug carries a serious proarrhythmic risk. All US authorizations are also cancelled. The other nine predicted indications are either unsupported by any evidence (L5) or biologically implausible, so none is a better candidate.
+The stroke prediction comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases such as atrial fibrillation, not biological evidence. No trials exist, the literature contains no stroke-outcome data, and the drug carries a serious proarrhythmic risk. The drug is marketed, with 9 valid US authorizations. The other nine predicted indications are either unsupported by any evidence (L5) or biologically implausible, so none is a better candidate.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a current blocking gap)

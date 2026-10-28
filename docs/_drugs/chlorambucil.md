@@ -4,17 +4,17 @@ title: Chlorambucil
 parent: Model Prediction Only (L5)
 nav_order: 518
 evidence_level: L5
-indication_count: 8
+indication_count: 7
 last_modified_at: 2026-10-14
-description: "Chlorambucil: predicted new indication CLL/SLL with immunoglobulin heavy chain variable-region gene somatic… (evidence level L5). Approved use: Hodgkin lymphoma, follicular lymphoma, acute lymphoblas…"
 monitor_inn: "CHLORAMBUCIL"
 predicted_indications: ["chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "ALK-positive large B-cell lymphoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "small cell lung carcinoma"]
+description: "Chlorambucil: predicted new indication Chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hy… (evidence level L5). Approved use: Not …"
 ---
 
 # Chlorambucil
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **8** 
+Evidence Level: **L5** | Predicted Indications: **7** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **8**
 
 </div>
 
-## Chlorambucil: From Hodgkin Lymphoma and Chronic Leukemias to Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma Subtypes (Top Prediction)
+## Chlorambucil: Chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ However, **0 clinical trials** and **0 publications** were found for this specif
 
 | Item | Content |
 |------|------|
-| Original Indication | Hodgkin lymphoma, follicular lymphoma, acute lymphoblastic leukemia, Richter syndrome (from the knowledge graph; no approved-indication text is available from the US license record) |
-| Predicted New Indication | CLL/SLL with immunoglobulin heavy chain variable-region gene somatic hypermutation |
-| TxGNN Prediction Score | 99.72% |
-| Evidence Level | L4 (preclinical/mechanistic only; no trials or subtype-specific literature) |
-| US Market Status | Cancelled only (the single NDA is cancelled) |
-| Number of NDAs | 1 |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation |
+| TxGNN Prediction Score | 0.9972 |
+| Evidence Level | L5 (preclinical/mechanistic only; no trials or subtype-specific literature) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -63,9 +63,9 @@ The predicted entity is a molecular subtype of CLL/SLL, defined by somatic hyper
 Chlorambucil has also largely been replaced in CLL by targeted therapies such as BTK inhibitors and BCL2 inhibitors. For example, a phase 3 comparison (RESONATE-2) showed ibrutinib to be superior to chlorambucil in older untreated CLL/SLL patients. This limits the practical value of the prediction.
 
 Other predictions in the list are also of interest, but their evidence is mostly weaker:
-- **Pregerminal center CLL/SLL** (score 99.72%): plausible by the same reasoning, with only a 2003 review as context.
-- **Primary pulmonary lymphoma** (score 99.42%): the best-supported of the other predictions (L3), because chlorambucil has been used in indolent extranodal marginal zone/MALT lymphoma. The supporting data are case reports, retrospective series, guidelines and a small 1987 phase II study.
-- **Small cell lung carcinoma** (score 99.24%): historical trials were negative or showed no meaningful benefit, and current evidence is mostly preclinical.
+- **Pregerminal center CLL/SLL** (score 0.9972): plausible by the same reasoning, with only a 2003 review as context.
+- **Primary pulmonary lymphoma** (score 0.9942): the best-supported of the other predictions (L3), because chlorambucil has been used in indolent extranodal marginal zone/MALT lymphoma. The supporting data are case reports, retrospective series, guidelines and a small 1987 phase II study.
+- **Small cell lung carcinoma** (score 0.9924): historical trials were negative or showed no meaningful benefit, and current evidence is mostly preclinical.
 - **ALK-positive large B-cell lymphoma, well-differentiated fetal adenocarcinoma of the lung and pulmonary blastoma:** computational prediction only (L5).
 - **Acute lymphoblastic leukemia:** already listed among the original indications, so this is not true repurposing.
 
@@ -97,7 +97,7 @@ No publications were found for the top-ranked subtype. The table below lists the
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA010669 | LEUKERAN (Waylis Therapeutics LLC) | Film-coated tablet (oral) | Not specified in the record; status cancelled |
+| NDA010669 | LEUKERAN (Waylis Therapeutics LLC) | Film-coated tablet (oral) | Not specified in the record; status valid |
 
 ## Cytotoxicity
 

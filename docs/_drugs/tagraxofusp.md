@@ -47,21 +47,21 @@ The TxGNN model predicts it may be effective for **esotropia**, but there are cu
 |------|------|
 | Original Indication | CD4+/CD56+ hematodermic neoplasm |
 | Predicted New Indication | Esotropia |
-| TxGNN Prediction Score | 99.73% |
+| TxGNN Prediction Score | 0.9973 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of BLAs/NDAs | 1 (BLA761116, Elzonris, cancelled) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of BLAs/NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacological knowledge, tagraxofusp is a CD123-directed cytotoxin (interleukin-3 fused to a truncated diphtheria toxin). It kills CD123-expressing hematologic cells, which explains its activity in CD4+/CD56+ hematodermic neoplasm.
 
-Esotropia is an ocular motility disorder (inward eye deviation) with no known CD123-driven pathology. No plausible mechanistic link between the original indication and esotropia was identified. The high TxGNN score (99.73%) is a statistical output of the knowledge-graph model and is not backed by clinical or literature evidence.
+Esotropia is an ocular motility disorder (inward eye deviation) with no known CD123-driven pathology. No plausible mechanistic link between the original indication and esotropia was identified. The high TxGNN score (0.9973) is a statistical output of the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It is not backed by clinical or literature evidence.
 
 The drug's systemic toxicity, including capillary leak syndrome and hepatotoxicity, also argues against use in a non-malignant condition such as esotropia.
 
-Other top-ranked predictions show the same pattern. They include pre-malignant neoplasm, inner ear neoplasm, benign neoplasm of tongue, bronchial adenomas/carcinoids (childhood), chondroid hamartoma, non-seminomatous lesion, ductal or ductular proliferation, cystic neoplasm, and thyroglossal duct cyst. All have scores of about 99.7%, all are Evidence Level L5, and none has supporting trials or publications. The only indirect rationale is for pre-malignant neoplasm, where some pre-malignant hematologic conditions (e.g., myelodysplastic syndromes) express CD123. That category is too non-specific to act on.
+Other top-ranked predictions show the same pattern. They include pre-malignant neoplasm, inner ear neoplasm, benign neoplasm of tongue, bronchial adenomas/carcinoids (childhood), chondroid hamartoma, non-seminomatous lesion, ductal or ductular proliferation, cystic neoplasm, and thyroglossal duct cyst. All have scores of 0.9972 or 0.9973, all are Evidence Level L5, and none has supporting trials or publications. The only indirect rationale is for pre-malignant neoplasm, where some pre-malignant hematologic conditions (e.g., myelodysplastic syndromes) express CD123. That category is too non-specific to act on.
 
 ## Clinical Trial Evidence
 
@@ -75,7 +75,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA761116 | Elzonris (Stemline Therapeutics, Inc.) | Injection, solution | Not listed (status: cancelled) |
+| BLA761116 | Elzonris (Stemline Therapeutics, Inc.) | Injection, solution | Not listed (status: valid) |
 
 ## Cytotoxicity
 

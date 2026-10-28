@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "DEXMEDETOMIDINE"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "migraine with brainstem aura", "headache disorder", "trigeminal autonomic cephalalgia"]
 last_modified_at: 2026-10-14
-description: "Dexmedetomidine: predicted new indication Headache disorder . The top-ranked prediction by score is nephrogenic… (evidence level L5). Approved use: Not available in the data compiled for this report …"
+description: "Dexmedetomidine: predicted new indication nephrogenic syndrome of inappropriate antidiuresis . The top-ranked prediction by score is nephrogenic… (evidence level L5). Approved use: Not available in the data compiled for this report …"
 ---
 
 # Dexmedetomidine
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **5**
 
 </div>
 
-## Dexmedetomidine: From Sedation (Approved Indication Not Listed) to Headache Disorder
+## Dexmedetomidine: From Sedation (Approved Indication Not Listed) to Nephrogenic syndrome of inappropriate antidiuresis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -49,9 +49,9 @@ The TxGNN model predicts it may be effective for **Headache Disorder** (the best
 |------|------|
 | Original Indication | Not available in the data compiled for this report (the label text is empty) |
 | Predicted New Indication | Headache disorder (best-supported prediction). The top-ranked prediction by score is nephrogenic syndrome of inappropriate antidiuresis. |
-| TxGNN Prediction Score | 99.30% for headache disorder (99.60% for nephrogenic syndrome of inappropriate antidiuresis, which has no supporting evidence) |
-| Evidence Level | L2 (headache disorder). Other predictions are L5, except migraine disorder, which is L5 with one ongoing trial. |
-| US Market Status | Cancelled only (all 13 listings are cancelled) |
+| TxGNN Prediction Score | 0.9930 for headache disorder (0.9960 for nephrogenic syndrome of inappropriate antidiuresis, which has no supporting evidence) |
+| Evidence Level | L5 (headache disorder). Other predictions are L5, except migraine disorder, which is L5 with one ongoing trial. |
+| US Market Status | Marketed (valid licenses on record: at least 13) |
 | Number of NDAs | 13 (2 NDAs and 11 ANDAs) |
 | Recommended Decision | Hold (a focused research question on PDPH is reasonable) |
 
@@ -64,7 +64,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 For headache, the proposed rationale is that alpha-2 agonism modulates nociception and sympathetic tone. It may also reduce cerebral blood flow through cerebrovascular vasoconstriction. Nebulized or intranasal delivery allows mucosal absorption. This is plausible for PDPH, where the trials focus. It also fits migraine, where dampened noradrenergic and trigeminovascular signalling and reduced central sensitization are plausible.
 
 The rationale does not extend equally to all predictions:
-- **Nephrogenic SIAD:** The disease is caused by gain-of-function mutations in the vasopressin V2 receptor, which act downstream of vasopressin release. Alpha-2 agonism is unlikely to correct this receptor-level defect. The high score of 99.60% is a model prediction only.
+- **Nephrogenic SIAD:** The disease is caused by gain-of-function mutations in the vasopressin V2 receptor, which act downstream of vasopressin release. Alpha-2 agonism is unlikely to correct this receptor-level defect. The high score of 0.9960 is a model prediction only.
 - **Migraine with brainstem aura and trigeminal autonomic cephalalgia:** Any rationale is extrapolated from general migraine or trigeminal pathophysiology and is speculative. No trials or literature exist.
 - **Headache disorder:** The evidence applies to PDPH only, not to primary headache disorders.
 
@@ -115,11 +115,11 @@ All 13 listings are cancelled, and none has approved indication text in the comp
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA021038 | Precedex (Hospira, Inc.) | Injection, solution | Not available (cancelled) |
-| NDA206628 | Dexmedetomidine in Dextrose (WG Critical Care, LLC) | Injection | Not available (cancelled) |
-| ANDA201072 | Dexmedetomidine Hydrochloride (Fresenius Kabi USA, LLC) | Injection, solution | Not available (cancelled) |
-| ANDA208532 | Dexmedetomidine HCl in 0.9% Sodium Chloride (Baxter Healthcare Company) | Injection | Not available (cancelled) |
-| ANDA209065 | Dexmedetomidine (Avenacy Inc.) | Injection, solution, concentrate | Not available (cancelled) |
+| NDA021038 | Precedex (Hospira, Inc.) | Injection, solution | Not available (valid) |
+| NDA206628 | Dexmedetomidine in Dextrose (WG Critical Care, LLC) | Injection | Not available (valid) |
+| ANDA201072 | Dexmedetomidine Hydrochloride (Fresenius Kabi USA, LLC) | Injection, solution | Not available (valid) |
+| ANDA208532 | Dexmedetomidine HCl in 0.9% Sodium Chloride (Baxter Healthcare Company) | Injection | Not available (valid) |
+| ANDA209065 | Dexmedetomidine (Avenacy Inc.) | Injection, solution, concentrate | Not available (valid) |
 
 All products are injectables (injection, injection solution, and injection solution concentrate). The nebulized route used in the headache trials is not an approved route in the compiled data.
 

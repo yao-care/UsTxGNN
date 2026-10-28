@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "IRON"
 predicted_indications: ["vitamin B12- and folate-independent constitutional megaloblastic anemia", "Plummer-Vinson syndrome", "non-syndromic esophageal malformation", "biotin metabolic disease", "vitamin deficiency disorder", "esophageal disease"]
 last_modified_at: 2026-10-14
-description: "Iron: predicted new indication Vitamin B12- and folate-independent constitutional megaloblastic anem… (evidence level L5). Approved use: Iron deficiency anemia (also folate deficiency anemia…"
+description: "Iron: predicted new indication Vitamin B12- and folate-independent constitutional megaloblastic anemia (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Iron
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **6**
 
 </div>
 
-## Iron: From Iron Deficiency Anemia to Vitamin B12- and Folate-Independent Constitutional Megaloblastic Anemia
+## Iron: Vitamin B12- and folate-independent constitutional megaloblastic anemia
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -47,11 +47,11 @@ The TxGNN model predicts it may be effective for **vitamin B12- and folate-indep
 
 | Item | Content |
 |------|------|
-| Original Indication | Iron deficiency anemia (also folate deficiency anemia, anemia of prematurity, hypochromic anemia, microcytic anemia, deficiency anemia) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Vitamin B12- and folate-independent constitutional megaloblastic anemia |
-| TxGNN Prediction Score | 99.89% |
+| TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
+| US Market Status | Marketed (valid licenses on record: at least 2) |
 | Number of NDAs | 2 authorizations on record (both cancelled) |
 | Recommended Decision | Hold |
 
@@ -63,7 +63,7 @@ The TxGNN model predicts it may be effective for **vitamin B12- and folate-indep
 
 Currently, detailed mechanism of action data is not available. Based on known information, iron is an essential mineral that supports hemoglobin synthesis, and its efficacy in iron deficiency anemia is well established.
 
-The link to the predicted indication is weak. Megaloblastic anemia is driven by impaired DNA synthesis, not by a lack of iron. Iron is therefore not expected to correct this condition. The high TxGNN score (99.89%) probably reflects proximity to other anemia terms in the knowledge graph rather than a real mechanistic connection.
+The link to the predicted indication is weak. Megaloblastic anemia is driven by impaired DNA synthesis, not by a lack of iron. Iron is therefore not expected to correct this condition. The high TxGNN score (0.9989) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 For comparison, the model's second-ranked prediction, **Plummer-Vinson syndrome**, is much better grounded. It is defined by iron deficiency anemia, dysphagia and esophageal webs, and iron repletion is already its established first-line treatment. This is largely standard care, not a new repurposing signal. The data compiled for it consist of reviews, case reports and one retrospective multicenter study, and no registered trials.
 
@@ -86,9 +86,9 @@ Currently no related literature available.
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
 | Not listed | Ferrum Metallicum (Hahnemann Laboratories, Inc.) | Pellet | Not listed (cancelled) |
-| NDA217347 | Sofdra (Botanix SB Inc.) | Gel | Not listed (cancelled) |
+| NDA217347 | Sofdra (Botanix SB Inc.) | Gel | Not listed (valid) |
 
-Both authorizations are cancelled, so no currently valid US authorization is on record. Neither record states an approved indication. The Sofdra record should be verified against the source label, because a topical gel is an unusual match for an iron product.
+Neither record states an approved indication. The Sofdra record should be verified against the source label, because a topical gel is an unusual match for an iron product.
 
 ---
 
@@ -114,7 +114,7 @@ For label warnings and contraindications, please refer to the package insert.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no supporting trials or literature, and the mechanism is implausible: megaloblastic anemia is caused by impaired DNA synthesis, not iron deficiency. The high model score likely reflects graph proximity to other anemia terms. Iron has no valid US authorization on record.
+The prediction has no supporting trials or literature, and the mechanism is implausible: megaloblastic anemia is caused by impaired DNA synthesis, not iron deficiency. The high model score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Iron is marketed in the US, with 2 valid licenses on record.
 
 **To proceed, the following is needed:**
 - Mechanistic evidence that iron affects this form of megaloblastic anemia, or a rationale for the model's prediction.

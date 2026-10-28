@@ -48,10 +48,10 @@ but there are currently **0 registered clinical trials** and only **2 case repor
 |------|------|
 | Original Indication | Not stated in the US license records; pharmacology data list intranasal use for allergic rhinitis, nasal polyposis and asthma, and topical use for allergic skin disorders |
 | Predicted New Indication | Primary cutaneous T-cell lymphoma |
-| TxGNN Prediction Score | 99.36% |
+| TxGNN Prediction Score | 0.9936 |
 | Evidence Level | L5 (model prediction only; the only literature is two case reports, which does not meet L3 criteria) |
-| US Market Status | ✗ Cancelled only (all licenses cancelled) |
-| Number of NDAs | 4 (1 NDA and 3 ANDAs, all cancelled) |
+| US Market Status | Marketed (valid licenses: 4 of 4) |
+| Number of NDAs | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -77,12 +77,12 @@ Currently no related clinical trials registered.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA215712 | Nasonex | Metered spray | Not listed (cancelled) |
-| ANDA217498 | Mometasone Furoate | Metered spray | Not listed (cancelled) |
-| ANDA215878 | Mometasone Furoate Monohydrate | Metered spray | Not listed (cancelled) |
-| ANDA091161 | Mometasone Furoate | Metered spray | Not listed (cancelled) |
+| NDA215712 | Nasonex | Metered spray | Not listed (valid) |
+| ANDA217498 | Mometasone Furoate | Metered spray | Not listed (valid) |
+| ANDA215878 | Mometasone Furoate Monohydrate | Metered spray | Not listed (valid) |
+| ANDA091161 | Mometasone Furoate | Metered spray | Not listed (valid) |
 
-All four US authorizations are cancelled, and all are metered nasal sprays. No topical formulation is represented in the data compiled for this report.
+The drug is marketed in the US, and all 4 licenses are valid. All are metered nasal sprays. No topical formulation is represented in the data compiled for this report.
 
 ## Safety Considerations
 
@@ -95,7 +95,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests on a computational score and a plausible class-level mechanism (topical corticosteroids in early mycosis fungoides). There are no clinical trials and no supportive mometasone-specific literature; one case report even describes treatment failure in a benign mimic. All US licenses are cancelled, and the available products are nasal sprays, which are not suited to skin-directed therapy.
+The prediction (primary cutaneous T-cell lymphoma, score 0.9936) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. It rests on a plausible class-level mechanism (topical corticosteroids in early mycosis fungoides). There are no clinical trials and no supportive mometasone-specific literature; one case report even describes treatment failure in a benign mimic. The drug is marketed in the US with 4 valid licenses, but the available products are nasal sprays, which are not suited to skin-directed therapy.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

@@ -48,21 +48,21 @@ but currently there are **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Skin disease caused by infection |
 | Predicted New Indication | Bacteroidaceae infectious disease |
-| TxGNN Prediction Score | 99.48% |
+| TxGNN Prediction Score | 0.9948 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 2 |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
 Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacology, oritavancin is a lipoglycopeptide that inhibits bacterial cell wall synthesis (transglycosylation and transpeptidation) and disrupts membrane integrity. Its activity is mainly against Gram-positive bacteria, which is consistent with its use in skin infections.
 
-The link to the predicted indication is weak. Bacteroidaceae are Gram-negative anaerobes with an outer membrane that glycopeptides generally cannot penetrate. The high TxGNN score (99.48%) is therefore not supported by known pharmacology. It may reflect a graph-based association, such as shared infection-related nodes, rather than real activity.
+The link to the predicted indication is weak. Bacteroidaceae are Gram-negative anaerobes with an outer membrane that glycopeptides generally cannot penetrate. The high TxGNN score (0.9948) is therefore not supported by known pharmacology. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 Two other top-ranked predictions are also doubtful, which suggests the model's scores for this drug should be read with caution:
-- **Ophthalmic herpes zoster (score 99.03%)**: caused by a virus, and oritavancin has no known antiviral activity.
-- **Mycoplasma pneumoniae pneumonia (score 99.01%)**: Mycoplasma lacks a cell wall, so cell-wall-targeting agents are intrinsically inactive.
+- **Ophthalmic herpes zoster (score 0.9903)**: caused by a virus, and oritavancin has no known antiviral activity.
+- **Mycoplasma pneumoniae pneumonia (score 0.9901)**: Mycoplasma lacks a cell wall, so cell-wall-targeting agents are intrinsically inactive.
 
 ## Clinical Trial Evidence
 
@@ -76,8 +76,8 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA214155 | Kimyrsa | Lyophilized powder for injection solution | Not available (status: cancelled) |
-| NDA206334 | Orbactiv | Lyophilized powder for injection solution | Not available (status: cancelled) |
+| NDA214155 | Kimyrsa | Lyophilized powder for injection solution | Not available (status: valid) |
+| NDA206334 | Orbactiv | Lyophilized powder for injection solution | Not available (status: valid) |
 
 Both authorizations are held by Melinta Therapeutics, LLC and are currently listed as cancelled.
 

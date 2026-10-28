@@ -4,17 +4,17 @@ title: Tacrolimus
 parent: High Evidence (L1-L2)
 nav_order: 1191
 evidence_level: L1
-indication_count: 3
-last_modified_at: 2026-10-14
-description: "Tacrolimus: predicted new indication Seborrheic dermatitis (evidence level L1). Approved use: Atopic eczema / atopic dermatitis"
+indication_count: 2
+last_modified_at: 2026-10-28
 monitor_inn: "TACROLIMUS"
 predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
+description: "Tacrolimus: predicted new indication Seborrheic dermatitis (evidence level L1). Approved use: Not recorded in the local data"
 ---
 
 # Tacrolimus
 {: .fs-9 }
 
-Evidence Level: **L1** | Predicted Indications: **3** 
+Evidence Level: **L1** | Predicted Indications: **2** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L1** | Predicted Indications: **3**
 
 </div>
 
-## Tacrolimus: From Atopic Eczema to Seborrheic Dermatitis
+## Tacrolimus: Seborrheic dermatitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ with **2 clinical trials** (one completed Phase 3, one completed Phase 4) and **
 
 | Item | Content |
 |------|------|
-| Original Indication | Atopic eczema / atopic dermatitis (from the knowledge graph; no approved-indication text is available in the US licence records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Seborrheic dermatitis |
-| TxGNN Prediction Score | 99.26% |
+| TxGNN Prediction Score | 0.9926 |
 | Evidence Level | L1 |
-| US Market Status | Cancelled only (all licences currently listed as cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 13) |
 | Number of NDAs | 13 licences (2 NDAs, 11 ANDAs) |
 | Recommended Decision | Proceed with Guardrails |
 
@@ -84,7 +84,7 @@ Atopic dermatitis and seborrheic dermatitis are both chronic, relapsing inflamma
 
 ## US Market Information
 
-All 13 licences are currently listed as cancelled. The main ones are:
+There are currently 13 valid licenses. The main ones are:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -114,12 +114,11 @@ A completed Phase 3 trial and a completed Phase 4 study in facial seborrheic der
 - FDA package insert warnings and contraindications (currently missing)
 - Detailed mechanism-of-action data from DrugBank
 - Verification of randomization, blinding and results for NCT02004860 and the published trial
-- A US regulatory pathway review, since all current licences are cancelled
+- A US regulatory pathway review
 - A long-term safety monitoring plan (cancer risk, infection) and age/duration limits consistent with labeling
 
 **Other predictions (for reference):**
-- **Dermatitis (99.17%, L1):** This is largely atopic dermatitis, the already-established indication, so it is a confirmation rather than a new repurposing finding.
-- **Parapsoriasis (99.24%, L4, Hold):** Evidence is limited to two case reports of pityriasis lichenoides, with no clinical trials. The high TxGNN score is a prediction, not clinical validation.
+- **Parapsoriasis (0.9924, L4, Hold):** Evidence is limited to two case reports of pityriasis lichenoides, with no clinical trials. The high TxGNN score is a prediction, not clinical validation.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

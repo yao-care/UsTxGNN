@@ -6,9 +6,9 @@ nav_order: 932
 evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-14
-description: "Minocycline: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). Approved use: Urinary tract infection, bronchitis, acne…"
 monitor_inn: "MINOCYCLINE"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis"]
+description: "Minocycline: predicted new indication Punctate epithelial keratoconjunctivitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Minocycline
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **2**
 
 </div>
 
-## Minocycline: From Bacterial Infections and Acne to Punctate Epithelial Keratoconjunctivitis
+## Minocycline: Punctate epithelial keratoconjunctivitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 | Item | Content |
 |------|------|
-| Original Indication | Urinary tract infection, bronchitis, acne, and other bacterial infections (the US label text was not available, so these come from the knowledge-graph indication list) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Punctate epithelial keratoconjunctivitis |
-| TxGNN Prediction Score | 99.63% |
+| TxGNN Prediction Score | 0.9963 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all licenses cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 8) |
 | Number of NDAs | 8 (7 ANDAs and 1 NDA) |
 | Recommended Decision | Hold |
 
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available. Based on known in
 
 From general pharmacology knowledge (not from the data compiled for this report), minocycline has two properties that could be relevant to the ocular surface. It has anti-inflammatory activity and inhibits matrix metalloproteinases (MMPs), enzymes involved in tissue breakdown. It also acts against bacteria. Both could in principle help in a condition with inflammation and surface damage of the cornea and conjunctiva.
 
-This link is hypothetical. Without mechanism data or any supporting studies, it needs independent validation. A second prediction, exposure keratitis (score 99.20%), follows a similar rationale and has the same lack of evidence.
+This link is hypothetical. Without mechanism data or any supporting studies, it needs independent validation. A second prediction, exposure keratitis (score 0.9920), follows a similar rationale and has the same lack of evidence.
 
 ## Clinical Trial Evidence
 
@@ -72,7 +72,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-All licenses listed are cancelled. No active US authorization was found.
+The drug is marketed in the US, with 8 valid licenses.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -99,14 +99,14 @@ Package insert warnings and contraindications were not available. Please refer t
 **Decision: Hold**
 
 **Rationale:**
-The prediction has a high model score but no clinical trials or literature behind it (Evidence Level L5). There is also no mechanism data, and all US licenses are cancelled. There is not enough basis to move forward.
+The prediction has a high model score but no clinical trials or literature behind it (Evidence Level L5). There is also no mechanism data. The drug is marketed in the US, with 8 valid licenses. There is not enough basis to move forward.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications, to allow safety screening
 - Detailed mechanism of action data
 - Preclinical or clinical evidence in punctate epithelial keratoconjunctivitis
 - An assessment of route and formulation, since an ocular formulation would be needed and none of the listed products is for the eye
-- Clarification of the regulatory status, since all US licenses are cancelled
+- Clarification of the regulatory status, since the drug is marketed in the US with 8 valid licenses
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

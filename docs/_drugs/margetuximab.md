@@ -39,7 +39,7 @@ Evidence Level: **L5** | Predicted Indications: **2**
 ## One-Sentence Summary
 
 Margetuximab is an Fc-engineered anti-HER2 monoclonal antibody used with chemotherapy for pretreated HER2-positive metastatic breast cancer.
-The TxGNN model's highest-ranked prediction is **drug-induced osteoporosis** (no supporting trials or publications, likely a knowledge-graph artifact). The second-ranked prediction, **HER2 positive breast carcinoma**, is supported by **7 clinical trials** and **20 publications**, but it is essentially the drug's already-approved use rather than true repurposing.
+The TxGNN model's highest-ranked prediction is **drug-induced osteoporosis** (no supporting trials or publications, likely a TxGNN model (deep learning) artifact). The second-ranked prediction, **HER2 positive breast carcinoma**, is supported by **7 clinical trials** and **20 publications**, but it is essentially the drug's already-approved use rather than true repurposing.
 
 ---
 
@@ -49,17 +49,17 @@ The TxGNN model's highest-ranked prediction is **drug-induced osteoporosis** (no
 |------|------|
 | Original Indication | Not stated in the license data compiled for this report (literature indicates HER2-positive metastatic breast cancer) |
 | Predicted New Indication | Drug-induced osteoporosis (rank 1); HER2 positive breast carcinoma (rank 2, evaluated in detail below) |
-| TxGNN Prediction Score | Drug-induced osteoporosis: 99.29%; HER2 positive breast carcinoma: 99.05% |
+| TxGNN Prediction Score | Drug-induced osteoporosis: 0.9929; HER2 positive breast carcinoma: 0.9905 |
 | Evidence Level | Drug-induced osteoporosis: L5; HER2 positive breast carcinoma: L1 |
-| US Market Status | Cancelled only (to be verified, see below) |
-| Number of NDAs | 1 (BLA761150) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Drug-induced osteoporosis: Hold; HER2 positive breast carcinoma: Proceed with Guardrails |
 
 ---
 
 ## Why is This Prediction Reasonable?
 
-**Drug-induced osteoporosis (rank 1).** The score is very high, but no clinical trials or publications support it. Margetuximab targets HER2 and enhances immune-cell killing of tumour cells. No plausible biological pathway links HER2 targeting to preventing or treating drug-induced bone loss. The prediction is most likely a knowledge-graph artifact driven by network proximity rather than a real mechanism. Detailed mechanism of action data is also unavailable, which limits further verification.
+**Drug-induced osteoporosis (rank 1).** The score is very high, but no clinical trials or publications support it. Margetuximab targets HER2 and enhances immune-cell killing of tumour cells. No plausible biological pathway links HER2 targeting to preventing or treating drug-induced bone loss. The prediction is most likely a TxGNN model (deep learning) artifact driven by network proximity rather than a real mechanism. Detailed mechanism of action data is also unavailable, which limits further verification.
 
 **HER2 positive breast carcinoma (rank 2).** Margetuximab binds the extracellular domain of HER2, as trastuzumab does. Its engineered Fc region binds the activating receptor CD16A (FcγRIIIa) more strongly and the inhibitory receptor CD32B more weakly. This enhances NK-cell-mediated antibody-dependent cellular cytotoxicity (ADCC) against HER2-overexpressing tumour cells. The mechanism is directly relevant to this disease.
 
@@ -106,7 +106,7 @@ No literature is available for drug-induced osteoporosis. The publications below
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA761150 | MARGENZA (MacroGenics, Inc) | Injection, solution, concentrate | Indication text not available in the data compiled; status listed as cancelled |
+| BLA761150 | MARGENZA (MacroGenics, Inc) | Injection, solution, concentrate | Indication text not available in the data compiled; status listed as valid |
 
 The "Cancelled only" status appears inconsistent with the literature describing the 2020 FDA approval. The current regulatory and market status should be verified.
 
@@ -138,7 +138,7 @@ Please refer to the package insert for full warnings and contraindications, whic
 **Decision: Hold for drug-induced osteoporosis; Proceed with Guardrails for HER2 positive breast carcinoma**
 
 **Rationale:**
-- Drug-induced osteoporosis has no trial or literature support and no plausible mechanism (L5), so the high score likely reflects a knowledge-graph artifact.
+- Drug-induced osteoporosis has no trial or literature support and no plausible mechanism (L5), so the high score likely reflects a TxGNN model (deep learning) artifact.
 - HER2 positive breast carcinoma has Phase 3 RCT evidence (SOPHIA) and an FDA approval (L1), but it is an existing indication, not new repurposing.
 
 **To proceed, the following is needed:**

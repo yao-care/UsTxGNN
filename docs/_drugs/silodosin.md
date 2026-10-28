@@ -48,9 +48,9 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Benign prostatic hyperplasia |
 | Predicted New Indication | Ambras type hypertrichosis universalis congenita |
-| TxGNN Prediction Score | 99.99% |
+| TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all licenses cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 9) |
 | Number of NDAs | 9 (all ANDAs) |
 | Recommended Decision | Hold |
 
@@ -58,17 +58,17 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 Detailed mechanism of action data is not available in the data compiled for this report. Based on its known pharmacology, silodosin is a selective alpha-1A adrenergic receptor antagonist. It relaxes smooth muscle in the prostate and bladder neck, which is how it relieves urinary symptoms of BPH.
 
-The link to the predicted indication is weak. Ambras syndrome is a rare congenital disorder associated with genomic rearrangements affecting regulation of the *TRPS1* gene. This pathway is unrelated to alpha-1A adrenergic signaling. The very high TxGNN score (99.99%) reflects proximity in the knowledge graph, not pharmacological or clinical evidence.
+The link to the predicted indication is weak. Ambras syndrome is a rare congenital disorder associated with genomic rearrangements affecting regulation of the *TRPS1* gene. This pathway is unrelated to alpha-1A adrenergic signaling. The very high TxGNN score (0.9999) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 Other predictions for this drug follow the same pattern, and none has a credible mechanism:
 
 | Rank | Predicted Indication | TxGNN Score | Assessment |
 |------|------|------|------|
-| 2 | Hypertrichosis | 99.99% | Alpha-1A blockade is not known to stimulate hair growth. This likely reflects graph proximity to the rare congenital hypertrichosis entries. Hypertrichosis would be an adverse effect rather than a therapeutic goal. |
-| 3 | Malformation syndrome with odontal and/or periodontal component | 99.99% | Congenital structural defects are not expected to respond to an alpha-1A antagonist. |
-| 4 | Syndrome with a Dandy-Walker malformation as major feature | 99.98% | A congenital brain malformation is not expected to be reversed by silodosin. |
-| 5 | Isolated genetic hair shaft abnormality | 99.98% | The cause is structural gene defects, with no known role for alpha-1A antagonism. |
-| 6 | Familial isolated trichomegaly | 99.23% | A rare, mostly benign trait with no link to alpha-1A antagonists. |
+| 2 | Hypertrichosis | 0.9999 | Alpha-1A blockade is not known to stimulate hair growth. This score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Hypertrichosis would be an adverse effect rather than a therapeutic goal. |
+| 3 | Malformation syndrome with odontal and/or periodontal component | 0.9999 | Congenital structural defects are not expected to respond to an alpha-1A antagonist. |
+| 4 | Syndrome with a Dandy-Walker malformation as major feature | 0.9998 | A congenital brain malformation is not expected to be reversed by silodosin. |
+| 5 | Isolated genetic hair shaft abnormality | 0.9998 | The cause is structural gene defects, with no known role for alpha-1A antagonism. |
+| 6 | Familial isolated trichomegaly | 0.9923 | A rare, mostly benign trait with no link to alpha-1A antagonists. |
 
 ## Clinical Trial Evidence
 
@@ -94,7 +94,7 @@ Four more cancelled ANDAs are also on record: Ajanta, Lupin, Camber and PD-Rx.
 
 ## Safety Considerations
 
-**Contraindication-related conditions (from knowledge graph associations, not label text):**
+**Contraindication-related conditions (from TxGNN model (deep learning) predictions, which may reflect similarities the model learned between related diseases, not biological evidence, and not label text):**
 - Multiple system atrophy
 - Postural orthostatic tachycardia syndrome
 - Orthostatic hypotension
@@ -114,14 +114,14 @@ Please refer to the package insert for label warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trial or literature support (Evidence Level L5) and no plausible mechanistic link between alpha-1A adrenergic antagonism and a congenital hair disorder. All US licenses are also cancelled, so there is no marketed product to build on.
+The prediction has no clinical trial or literature support (Evidence Level L5) and no plausible mechanistic link between alpha-1A adrenergic antagonism and a congenital hair disorder. The drug is currently marketed in the US, with 9 valid licenses.
 
 **To proceed, the following is needed:**
 - Complete mechanism of action data
 - FDA package insert warnings and contraindications, needed for safety screening
 - Preclinical or mechanistic evidence linking alpha-1A antagonism to hair follicle biology or *TRPS1* pathways
 - Clarification of whether the hypertrichosis signal reflects an adverse effect rather than a therapeutic opportunity
-- Confirmation of the regulatory pathway, given that all US licenses are cancelled
+- Confirmation of the regulatory pathway, given that 9 US licenses are currently valid
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

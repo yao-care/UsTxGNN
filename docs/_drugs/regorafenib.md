@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "REGORAFENIB"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "clear cell renal carcinoma", "unclassified renal cell carcinoma", "renal cell carcinoma associated with neuroblastoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "childhood kidney cell carcinoma", "vulva sarcoma"]
 last_modified_at: 2026-10-14
-description: "Regorafenib: predicted new indication Liposarcoma (evidence level L2). Approved use: Metastatic colorectal cancer, hepatocellular carcinoma…"
+description: "Regorafenib: predicted new indication Liposarcoma (evidence level L2). Approved use: Not recorded in the local data"
 ---
 
 # Regorafenib
@@ -33,7 +33,7 @@ Evidence Level: **L2** | Predicted Indications: **8**
 
 </div>
 
-## Regorafenib: From Metastatic Colorectal Cancer / Hepatocellular Carcinoma / GIST to Liposarcoma
+## Regorafenib: Liposarcoma
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ However, the randomized trial data in liposarcoma (REGOSARC and the SARC024 lipo
 
 | Item | Content |
 |------|------|
-| Original Indication | Metastatic colorectal cancer, hepatocellular carcinoma, gastrointestinal stromal tumor (as listed in the knowledge graph; no approved-indication text is available in the US license record) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Liposarcoma |
-| TxGNN Prediction Score | 99.76% |
+| TxGNN Prediction Score | 0.9976 |
 | Evidence Level | L2 |
-| US Market Status | Cancelled only (the single NDA is recorded as cancelled) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold (the compiled system output was "Proceed with Guardrails", but see rationale below) |
 
 ## Why is This Prediction Reasonable?
@@ -120,7 +120,7 @@ Please refer to the package insert for the official warnings and contraindicatio
 **Decision: Hold**
 
 **Rationale:**
-The only direct randomized evidence in liposarcoma (REGOSARC and the SARC024 liposarcoma cohort) is negative, and the authors do not support routine use. The high TxGNN score (99.76%) and the Phase 2 evidence level (L2) reflect that the drug has been tested in this disease, not that it works. The US NDA is also recorded as cancelled, and label warnings are unavailable. The other predicted indications are either prediction-only (L5, Hold) or lack disease-specific trials (clear cell renal carcinoma, L3, research question).
+The only direct randomized evidence in liposarcoma (REGOSARC and the SARC024 liposarcoma cohort) is negative, and the authors do not support routine use. The high TxGNN score (0.9976) and the Phase 2 evidence level (L2) reflect that the drug has been tested in this disease, not that it works. The US NDA is also recorded as cancelled, and label warnings are unavailable. The other predicted indications are either prediction-only (L5, Hold) or lack disease-specific trials (clear cell renal carcinoma, L3, research question).
 
 **To proceed, the following is needed:**
 - Retrieve the FDA package insert (warnings and contraindications), a blocking gap for safety screening

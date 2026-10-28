@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "NEPAFENAC"
 predicted_indications: ["eye disease", "optic papillitis", "hypotrichosis simplex of the scalp", "seborrheic keratosis", "von Hippel anomaly", "congenital hypotrichosis milia", "mcpherson robertson cammarano syndrome", "lagophthalmos", "vulvar inverted follicular keratosis", "vitreous detachment"]
 last_modified_at: 2026-10-14
-description: "Nepafenac: predicted new indication Eye disease (evidence level L1). Approved use: Not listed in the data compiled for this report (the published litera…"
+description: "Nepafenac: predicted new indication Eye disease (evidence level L1). Approved use: Not recorded in the local data"
 ---
 
 # Nepafenac
@@ -33,7 +33,7 @@ Evidence Level: **L1** | Predicted Indications: **10**
 
 </div>
 
-## Nepafenac: From Ocular Inflammation After Cataract Surgery to Eye Disease
+## Nepafenac: Eye disease
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ Most of this evidence concerns uses that nepafenac is already established for, s
 
 | Item | Content |
 |------|------|
-| Original Indication | Not listed in the data compiled for this report (the published literature describes pain and inflammation associated with cataract surgery) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Eye disease |
-| TxGNN Prediction Score | 99.85% |
+| TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L1 |
-| US Market Status | Cancelled only (no currently valid license) |
-| Number of NDAs | 2 (both cancelled) |
+| US Market Status | Marketed (valid licenses: 2 of 2) |
+| Number of NDAs | 2 (valid: 2) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?
@@ -62,9 +62,9 @@ The original use, controlling inflammation and pain after cataract surgery, is d
 
 "Eye disease" is a very broad label. The prediction should be read as support for inflammation-driven ocular conditions, not for every eye disorder. The other lower-ranked predictions were also reviewed:
 
-- **Optic papillitis** (score 99.84%): the evidence is indirect, with one rabbit study and one post-cataract trial. Evidence level L4, Hold.
-- **Vitreous detachment** (score 99.81%): one biomarker trial in retinal detachment. Evidence level L4, treated as a research question.
-- **Hair, skin and rare syndrome predictions** (for example hypotrichosis, seborrheic keratosis): no plausible mechanism and no trials or literature. These look like knowledge-graph artifacts, and the evidence level is L5 (model prediction only).
+- **Optic papillitis** (score 0.9984): the evidence is indirect, with one rabbit study and one post-cataract trial. Evidence level L4, Hold.
+- **Vitreous detachment** (score 0.9981): one biomarker trial in retinal detachment. Evidence level L4, treated as a research question.
+- **Hair, skin and rare syndrome predictions** (for example hypotrichosis, seborrheic keratosis): no plausible mechanism and no trials or literature. These look like TxGNN model (deep learning) artifacts, and the evidence level is L5 (model prediction only).
 
 ## Clinical Trial Evidence
 
@@ -104,10 +104,9 @@ Other registered trials cover diabetic macular edema, epiretinal membrane surger
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA203491 | ILEVRO (Harrow Eye, LLC) | Suspension/drops | Not listed; status: cancelled |
-| NDA021862 | NEVANAC (Harrow Eye, LLC) | Suspension/drops | Not listed; status: cancelled |
+| NDA203491 | ILEVRO (Harrow Eye, LLC) | Suspension/drops | Not listed; status: valid |
+| NDA021862 | NEVANAC (Harrow Eye, LLC) | Suspension/drops | Not listed; status: valid |
 
-Both licenses are currently cancelled, so there is no active US single-ingredient license for nepafenac in the compiled data.
 
 ## Safety Considerations
 

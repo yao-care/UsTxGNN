@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-19
+predicted_indications: []
 ---
 
 # Apis Mellifera Arctium Lappa Root Arctostaphylos U
@@ -49,7 +50,7 @@ This candidate medicine is a multi-component formulation containing 20 botanical
 | Predicted New Indication | No prediction (TxGNN unable to process) |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | Unable to rate (below L5) |
-| Market Status | Not Marketed |
+| Market Status | Marketed (valid licenses on record: at least 1) |
 | Number of Licenses | 0 |
 | Recommended Decision | **Hold** |
 

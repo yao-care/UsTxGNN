@@ -48,10 +48,10 @@ but currently there are **0 registered clinical trials** and only **9 publicatio
 |------|------|
 | Original Indication | Asthma, allergic rhinitis (approved indication text not available in the US license records; taken from the drug's known indication list) |
 | Predicted New Indication | Atopic eczema |
-| TxGNN Prediction Score | 99.41% |
+| TxGNN Prediction Score | 0.9941 |
 | Evidence Level | L3 |
-| US Market Status | Cancelled only (all 3 authorizations cancelled) |
-| Number of NDAs | 3 (2 NDAs and 1 ANDA) |
+| US Market Status | Marketed (valid licenses: 3 of 3) |
+| Number of NDAs | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -84,11 +84,11 @@ Currently no related clinical trials registered.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA207921 | QVAR REDIHALER (Teva Respiratory) | Metered aerosol | Not specified (cancelled) |
-| ANDA213811 | Beclomethasone Dipropionate (Amneal) | Metered aerosol | Not specified (cancelled) |
-| NDA202813 | QNASL (Teva Respiratory) | Metered aerosol | Not specified (cancelled) |
+| NDA207921 | QVAR REDIHALER (Teva Respiratory) | Metered aerosol | Not specified (valid) |
+| ANDA213811 | Beclomethasone Dipropionate (Amneal) | Metered aerosol | Not specified (valid) |
+| NDA202813 | QNASL (Teva Respiratory) | Metered aerosol | Not specified (valid) |
 
-All three authorizations are cancelled, and all are inhaled or intranasal aerosol products. No topical dermatological formulation is listed.
+All three authorizations are valid, and all are inhaled or intranasal aerosol products. No topical dermatological formulation is listed.
 
 ## Safety Considerations
 
@@ -103,7 +103,7 @@ Please refer to the package insert for label warnings, which were not available 
 **Decision: Hold**
 
 **Rationale:**
-The high model score is not backed by modern clinical evidence: there are no registered trials, and the literature consists of small, older studies, reviews, and safety reports, some pointing to adrenal and growth concerns. Many approved topical corticosteroids already treat atopic eczema, and all US authorizations for this drug are cancelled and none is a dermatological product.
+The high model score is not backed by modern clinical evidence: there are no registered trials, and the literature consists of small, older studies, reviews, and safety reports, some pointing to adrenal and growth concerns. Many approved topical corticosteroids already treat atopic eczema, and the drug is marketed in the US with all 3 authorizations valid, but none is a dermatological product.
 
 **To proceed, the following is needed:**
 - Package insert warnings and contraindications (a blocking gap for safety screening)

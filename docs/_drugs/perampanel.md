@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Perampanel
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 1032
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-14
-description: "Perampanel: predicted new indication Visual epilepsy (evidence level L4). Approved use: Partial epilepsy"
 monitor_inn: "PERAMPANEL"
 predicted_indications: ["beta-ketothiolase deficiency"]
+description: "Perampanel: predicted new indication Beta-ketothiolase deficiency (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Perampanel
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,12 @@ Evidence Level: **L4** | Predicted Indications: **10**
 
 </div>
 
-## Perampanel: From Partial Epilepsy to Visual Epilepsy
+## Perampanel: Beta-ketothiolase deficiency
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Perampanel is an antiseizure medication that blocks AMPA glutamate receptors. It was originally used for partial-onset (focal) epilepsy.
-The TxGNN model predicts it may be effective for **visual epilepsy** (seizures triggered by visual stimuli), but the supporting evidence is thin: **0 clinical trials** and **19 publications**, none of which studies visual epilepsy directly.
 
 ---
 
@@ -47,11 +46,11 @@ The TxGNN model predicts it may be effective for **visual epilepsy** (seizures t
 
 | Item | Content |
 |------|------|
-| Original Indication | Partial epilepsy; partial motor epilepsy |
-| Predicted New Indication | Visual epilepsy |
-| TxGNN Prediction Score | 99.92% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (no currently valid authorization) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Beta-ketothiolase deficiency |
+| TxGNN Prediction Score | 0.9979 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of NDAs | 5 authorizations in total (2 NDAs, 3 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
@@ -94,15 +93,15 @@ None of the publications below studies visual epilepsy specifically. They show p
 
 ## US Market Information
 
-All five US authorizations are cancelled. Indication text was not available for them.
+Indication text was not available for them.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
 |---------|------|------|------|------|
-| NDA202834 | Fycompa | Tablet | Eisai Inc. | Cancelled |
-| NDA208277 | Fycompa | Suspension | Eisai Inc. | Cancelled |
-| ANDA209801 | Perampanel | Film-coated tablet | Teva Pharmaceuticals, Inc. | Cancelled |
-| ANDA209538 | Perampanel | Film-coated tablet | Sun Pharmaceutical Industries, Inc. | Cancelled |
-| ANDA218178 | Perampanel | Film-coated tablet | Novadoz Pharmaceuticals LLC | Cancelled |
+| NDA202834 | Fycompa | Tablet | Eisai Inc. | Valid |
+| NDA208277 | Fycompa | Suspension | Eisai Inc. | Valid |
+| ANDA209801 | Perampanel | Film-coated tablet | Teva Pharmaceuticals, Inc. | Valid |
+| ANDA209538 | Perampanel | Film-coated tablet | Sun Pharmaceutical Industries, Inc. | Valid |
+| ANDA218178 | Perampanel | Film-coated tablet | Novadoz Pharmaceuticals LLC | Valid |
 
 ---
 
@@ -125,15 +124,14 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is very high, but no clinical trials exist and no study addresses visual epilepsy directly. The mechanism (AMPA antagonism) is plausible, but the evidence is indirect (L4). The drug also has no currently valid US authorization.
+The mechanism (AMPA antagonism) is plausible, but the evidence is indirect (L4).
 
 **To proceed, the following is needed:**
 - Case reports, case series, or an EEG-based study of perampanel in photosensitive or visually triggered epilepsy, or a preclinical photosensitivity model.
 - Mechanism-of-action data and package insert warnings and contraindications.
 - A safety plan for the psychiatric and behavioral risks and for CNS-depressant interactions.
-- A decision on a regulatory pathway, given that all US authorizations are cancelled.
 
-**Note on other predictions:** Among the other top-ranked predictions, **status epilepticus** has the strongest support (L3). It has a recruiting Phase 2 trial (NCT06401707), a completed retrospective cohort, and several systematic reviews. It may be a better near-term repurposing candidate than visual epilepsy.
+It has a recruiting Phase 2 trial (NCT06401707), a completed retrospective cohort, and several systematic reviews.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

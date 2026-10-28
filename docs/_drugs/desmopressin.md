@@ -4,17 +4,17 @@ title: Desmopressin
 parent: Model Prediction Only (L5)
 nav_order: 586
 evidence_level: L5
-indication_count: 7
+indication_count: 6
 last_modified_at: 2026-10-14
-description: "Desmopressin: predicted new indication Congenital prothrombin deficiency (evidence level L5). Approved use: Hereditary von Willebrand disease"
 monitor_inn: "DESMOPRESSIN"
 predicted_indications: ["congenital prothrombin deficiency", "inherited thrombophilia", "Glanzmann thrombasthenia", "primary release disorder of platelets", "Scott syndrome", "flood factor deficiency"]
+description: "Desmopressin: predicted new indication Congenital prothrombin deficiency (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Desmopressin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **7** 
+Evidence Level: **L5** | Predicted Indications: **6** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **7**
 
 </div>
 
-## Desmopressin: From Von Willebrand Disease to Congenital Prothrombin Deficiency
+## Desmopressin: Congenital prothrombin deficiency
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ This top-ranked prediction is most likely a network-proximity artefact, and the 
 
 | Item | Content |
 |------|------|
-| Original Indication | Hereditary von Willebrand disease; nocturnal enuresis; hemophilia (from the knowledge graph; no approved indication text was available in the US license records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Congenital prothrombin deficiency |
-| TxGNN Prediction Score | 99.70% |
+| TxGNN Prediction Score | 0.9970 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
+| US Market Status | Marketed (valid licenses on record: at least 11) |
 | Number of NDAs | 11 (all cancelled) |
 | Recommended Decision | Hold |
 
@@ -58,7 +58,7 @@ This top-ranked prediction is most likely a network-proximity artefact, and the 
 
 Detailed mechanism-of-action data is not available in the data compiled for this report. Based on known pharmacology, desmopressin is a synthetic vasopressin analogue. It acts through V2 receptor signalling to release von Willebrand factor (VWF) and factor VIII (FVIII) from endothelial stores. This explains its use in von Willebrand disease and mild hemophilia A.
 
-Congenital prothrombin (factor II) deficiency is a different problem. Desmopressin has no known way to raise prothrombin levels. The high TxGNN score most likely reflects the disease's proximity to other bleeding disorders in the knowledge graph rather than a true biological effect. Prothrombin deficiency is normally managed with prothrombin complex concentrate. The prediction is therefore **not mechanistically supported**.
+Congenital prothrombin (factor II) deficiency is a different problem. Desmopressin has no known way to raise prothrombin levels. The high score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Prothrombin deficiency is normally managed with prothrombin complex concentrate. The prediction is therefore **not mechanistically supported**.
 
 ## Clinical Trial Evidence
 
@@ -72,7 +72,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All 11 US authorizations are cancelled. The records contain no approved indication text. Up to 5 are listed below.
+The drug is marketed in the US, with 11 valid authorizations. The records contain no approved indication text. Up to 5 are listed below.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -101,19 +101,18 @@ Six further predictions were reviewed. None has a clinical trial, and none chang
 
 | Rank | Predicted Indication | Score | Evidence Level | Assessment |
 |------|------|------|------|------|
-| 2 | Inherited thrombophilia | 99.44% | L5 | Likely false positive. A pro-hemostatic agent in a prothrombotic state is counter-indicated, and the literature links desmopressin to a thrombotic signal. |
-| 3 | Glanzmann thrombasthenia | 99.30% | L4 | Desmopressin cannot restore the missing αIIbβ3 receptor. It is an adjunct with limited, variable efficacy, and case reports show failures. A research question only. |
-| 4 | Primary release disorder of platelets | 99.26% | L3 | The most plausible of the group. It can shorten bleeding time, supported by small observational studies and a 2023 review, but there are no randomized trials. |
-| 5 | Pseudo-von Willebrand disease | 99.16% | L4 | Likely harmful, because releasing more VWF may worsen platelet clumping and thrombocytopenia. |
-| 6 | Scott syndrome | 99.16% | L5 | There is no known effect on scramblase function and no direct evidence. |
-| 7 | "Flood factor deficiency" | 99.15% | L4 | The disease name appears to be garbled or mis-mapped. The evidence reflects the existing von Willebrand disease indication. The ontology entry should be checked. |
+| 2 | Inherited thrombophilia | 0.9944 | L5 | Likely false positive. A pro-hemostatic agent in a prothrombotic state is counter-indicated, and the literature links desmopressin to a thrombotic signal. |
+| 3 | Glanzmann thrombasthenia | 0.9930 | L4 | Desmopressin cannot restore the missing αIIbβ3 receptor. It is an adjunct with limited, variable efficacy, and case reports show failures. A research question only. |
+| 4 | Primary release disorder of platelets | 0.9926 | L5 | The most plausible of the group. It can shorten bleeding time, supported by small observational studies and a 2023 review, but there are no randomized trials. |
+| 6 | Scott syndrome | 0.9916 | L5 | There is no known effect on scramblase function and no direct evidence. |
+| 7 | "Flood factor deficiency" | 0.9915 | L5 | The disease name appears to be garbled or mis-mapped. The evidence reflects the existing von Willebrand disease indication. The ontology entry should be checked. |
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The top prediction, congenital prothrombin deficiency, has no clinical trials, one old general review, and no plausible mechanism. There are no currently valid US licenses, and key safety data are missing, which is a blocking data gap.
+The top prediction, congenital prothrombin deficiency, has no clinical trials, one old general review, and no plausible mechanism.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (blocking gap for safety screening)

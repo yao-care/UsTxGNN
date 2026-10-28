@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Etanercept
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 678
-evidence_level: L4
-indication_count: 6
+evidence_level: L5
+indication_count: 3
 last_modified_at: 2026-10-14
-description: "Etanercept: predicted new indication Rheumatoid vasculitis (evidence level L4). Approved use: Rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis…"
 monitor_inn: "ETANERCEPT"
-predicted_indications: ["hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "vertebral disease"]
+predicted_indications: ["hypermobility of coccyx", "Kummell disease", "vertebral disease"]
+description: "Etanercept: predicted new indication Hypermobility of coccyx (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Etanercept
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **6** 
+Evidence Level: **L5** | Predicted Indications: **3** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,23 @@ Evidence Level: **L4** | Predicted Indications: **6**
 
 </div>
 
-## Etanercept: From Rheumatoid Arthritis to Rheumatoid Vasculitis
+## Etanercept: Hypermobility of coccyx
 {: .text-alpha }
 
 ## One-Sentence Summary
 
 Etanercept is a TNF-blocking fusion protein, originally used for inflammatory arthritis such as rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis and juvenile idiopathic arthritis.
-The TxGNN model predicts it may be effective for **rheumatoid vasculitis**, but only **1 loosely related clinical trial** and **20 publications** were found, and most of that literature is about etanercept *causing* vasculitis, not treating it.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis, juvenile idiopathic arthritis (no approved-indication text was available on the US license record) |
-| Predicted New Indication | Rheumatoid vasculitis |
-| TxGNN Prediction Score | 99.71% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (the single ENBREL license is cancelled) |
-| Number of NDAs | 1 (BLA103795) |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | Hypermobility of coccyx |
+| TxGNN Prediction Score | 0.9963 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -90,7 +89,7 @@ There are important counter-signals, however:
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA103795 | ENBREL (Immunex Corporation) | Solution | Not specified in the available record; license status: cancelled |
+| BLA103795 | ENBREL (Immunex Corporation) | Solution | Not specified in the available record; license status: valid |
 
 ## Safety Considerations
 

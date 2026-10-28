@@ -4,17 +4,17 @@ title: Sulindac
 parent: Model Prediction Only (L5)
 nav_order: 1188
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
-description: "Sulindac: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). Approved use: Bursitis, rheumatoid arthritis, ankylosing spondylitis, tendinitis…"
 monitor_inn: "SULINDAC"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "brachyolmia", "myosclerosis", "pseudoachondroplasia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "WHIM syndrome", "hypermobility of coccyx"]
+description: "Sulindac: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Sulindac
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Sulindac: From Musculoskeletal Inflammatory Conditions to Acromesomelic Dysplasia, Hunter-Thompson Type
+## Sulindac: Acromesomelic dysplasia, Hunter-Thompson type
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -45,12 +45,12 @@ The TxGNN model predicts it may be effective for **acromesomelic dysplasia, Hunt
 
 | Item | Content |
 |------|------|
-| Original Indication | Bursitis, rheumatoid arthritis, ankylosing spondylitis, tendinitis, gout, osteoarthritis (approved indication text is not available in the US license records) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Acromesomelic dysplasia, Hunter-Thompson type |
-| TxGNN Prediction Score | 99.92% |
+| TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licenses) |
-| Number of NDAs | 6 (all cancelled; listed as ANDAs) |
+| US Market Status | Marketed (valid licenses: 6 of 6) |
+| Number of NDAs | 6 (valid: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -73,11 +73,11 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| ANDA072711 | SULINDAC (PuraCap Laboratories / Blu Pharmaceuticals) | Tablet | Not available (cancelled) |
-| ANDA072051 | SULINDAC (Sun Pharmaceutical Industries) | Tablet | Not available (cancelled) |
-| ANDA072050 | SULINDAC (PD-Rx Pharmaceuticals) | Tablet | Not available (cancelled) |
-| ANDA072710 | SULINDAC (PuraCap Laboratories / Blu Pharmaceuticals) | Tablet | Not available (cancelled) |
-| ANDA071795 | Sulindac (PD-Rx Pharmaceuticals) | Tablet | Not available (cancelled) |
+| ANDA072711 | SULINDAC (PuraCap Laboratories / Blu Pharmaceuticals) | Tablet | Not available (valid) |
+| ANDA072051 | SULINDAC (Sun Pharmaceutical Industries) | Tablet | Not available (valid) |
+| ANDA072050 | SULINDAC (PD-Rx Pharmaceuticals) | Tablet | Not available (valid) |
+| ANDA072710 | SULINDAC (PuraCap Laboratories / Blu Pharmaceuticals) | Tablet | Not available (valid) |
+| ANDA071795 | Sulindac (PD-Rx Pharmaceuticals) | Tablet | Not available (valid) |
 
 All six records are cancelled; only the first five are shown. The only dosage form is oral tablet.
 
@@ -105,14 +105,13 @@ Please refer to the package insert for full safety information, as label warning
 **Decision: Hold**
 
 **Rationale:**
-The prediction is supported only by the TxGNN model score. There are no clinical trials or publications, no plausible mechanistic link between COX inhibition and the GDF5 signaling defect, and no currently valid US marketing authorization for sulindac.
+The prediction is supported only by the TxGNN model score.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for sulindac and a credible biological rationale linking it to GDF5/BMP signaling or skeletal development
 - Preclinical evidence (for example, cell or animal models of GDF5-related dysplasia)
 - Package insert warnings and contraindications to complete safety screening
-- Clarification of regulatory and commercial status, since all US licenses are cancelled
-- Consideration of whether a more biologically coherent candidate, such as rheumatoid vasculitis, merits a separate evidence review
+- Clarification of regulatory and commercial status, since the drug is marketed in the US with 6 of 6 licenses valid
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

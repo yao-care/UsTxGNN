@@ -48,10 +48,10 @@ The prediction is a computational hypothesis only.
 |------|------|
 | Original Indication | Not recorded (approved indication text is empty in all licenses) |
 | Predicted New Indication | Exercise-induced malignant hyperthermia |
-| TxGNN Prediction Score | 99.40% |
+| TxGNN Prediction Score | 0.9940 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 3 (all cancelled) |
+| US Market Status | Marketed (valid licenses: 3 of 3) |
+| Number of NDAs | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -60,7 +60,7 @@ Currently, detailed mechanism of action data is not available. Sorbitol is known
 
 Malignant hyperthermia and exertional heat illness involve dysregulated calcium release in skeletal muscle (for example through RYR1) and hypermetabolism. No plausible pharmacological connection between sorbitol and these pathways is evident from the available information.
 
-The high score (0.994) most likely reflects network proximity or shared neighbors in the knowledge graph rather than a biological rationale. The prediction should be treated as a hypothesis to examine, not as supporting evidence.
+The high score (0.9940) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. The prediction should be treated as a hypothesis to examine, not as supporting evidence.
 
 ## Clinical Trial Evidence
 
@@ -74,9 +74,9 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA017863 | Sorbitol (Baxter Healthcare Corporation) | Irrigant | Not recorded (status: cancelled) |
-| M007 | GeriCare Sorbitol Solution (GERI-CARE Pharmaceuticals) | Liquid | Not recorded (status: cancelled) |
-| nan | Plaque identifying (Shenzhen Yagao Technology Co., Ltd.) | Powder, dentifrice | Not recorded (status: cancelled) |
+| NDA017863 | Sorbitol (Baxter Healthcare Corporation) | Irrigant | Not recorded (status: valid) |
+| M007 | GeriCare Sorbitol Solution (GERI-CARE Pharmaceuticals) | Liquid | Not recorded (status: valid) |
+| nan | Plaque identifying (Shenzhen Yagao Technology Co., Ltd.) | Powder, dentifrice | Not recorded (status: valid) |
 
 ## Safety Considerations
 
@@ -92,7 +92,7 @@ Package insert warnings and contraindications were not available for this report
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a knowledge-graph score, with no clinical trials, no literature, no documented mechanism, and no plausible pharmacological link to the proposed indication. All US authorizations are cancelled, and package insert safety data are missing.
+The prediction rests only on a TxGNN model (deep learning) score, with no clinical trials, no literature, no documented mechanism, and no plausible pharmacological link to the proposed indication. The drug is marketed in the US, with 3 of 3 licenses valid, and package insert safety data are missing.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for sorbitol, and a justification of any link to calcium-release dysregulation in skeletal muscle

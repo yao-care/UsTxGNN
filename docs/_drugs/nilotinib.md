@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Nilotinib
-parent: Moderate Evidence (L3-L4)
+parent: Model Prediction Only (L5)
 nav_order: 966
-evidence_level: L4
+evidence_level: L5
 indication_count: 1
 monitor_inn: "NILOTINIB"
 predicted_indications: ["dermatofibrosarcoma protuberans"]
@@ -14,7 +14,7 @@ description: "Nilotinib: predicted new indication Dermatofibrosarcoma protuberan
 # Nilotinib
 {: .fs-9 }
 
-Evidence Level: **L4** | Predicted Indications: **1** 
+Evidence Level: **L5** | Predicted Indications: **1** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ but currently there are **0 registered clinical trials** and **1 publication** (
 |------|------|
 | Original Indication | Chronic myelogenous leukemia, BCR-ABL1 positive |
 | Predicted New Indication | Dermatofibrosarcoma protuberans |
-| TxGNN Prediction Score | 99.31% |
-| Evidence Level | L4 |
-| US Market Status | Cancelled only (all listed authorizations are cancelled) |
+| TxGNN Prediction Score | 0.9931 |
+| Evidence Level | L5 |
+| US Market Status | Marketed (valid licenses on record: at least 8) |
 | Number of NDAs | 8 (authorizations of all types, including NDAs and ANDAs) |
 | Recommended Decision | Hold |
 
@@ -58,7 +58,7 @@ but currently there are **0 registered clinical trials** and **1 publication** (
 
 Currently, detailed mechanism of action data is not available in the data compiled for this report. Based on general knowledge of nilotinib's kinase profile, it is a BCR-ABL tyrosine kinase inhibitor that also inhibits PDGFR and KIT.
 
-DFSP is typically driven by the COL1A1-PDGFB fusion, which causes constitutive autocrine activation of PDGFRB. Because nilotinib inhibits PDGFR, it plausibly blocks this driver pathway. This is the same class rationale that supports imatinib, which is established in unresectable or metastatic DFSP. The high TxGNN score (0.993) is consistent with this shared-target logic.
+DFSP is typically driven by the COL1A1-PDGFB fusion, which causes constitutive autocrine activation of PDGFRB. Because nilotinib inhibits PDGFR, it plausibly blocks this driver pathway. This is the same class rationale that supports imatinib, which is established in unresectable or metastatic DFSP. The high TxGNN score (0.9931) is consistent with this shared-target logic.
 
 Note that this link rests on general pharmacological knowledge rather than on mechanism data supplied for this report, and no clinical studies of nilotinib in DFSP were identified.
 
@@ -74,7 +74,7 @@ Currently no related clinical trials registered.
 
 ## US Market Information
 
-All eight authorizations are listed as cancelled. Approved indication text was not available for any of them.
+Eight valid authorizations are listed. Approved indication text was not available for any of them.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -108,13 +108,13 @@ Package insert warnings and contraindications were not available in the data com
 **Decision: Hold**
 
 **Rationale:**
-The mechanistic rationale (PDGFR inhibition, analogous to imatinib in DFSP) is plausible and the TxGNN score is high. However, there are no registered clinical trials, only one general review, no nilotinib-specific DFSP data, and no available label safety data. The evidence is L4, and all US authorizations are currently listed as cancelled.
+The mechanistic rationale (PDGFR inhibition, analogous to imatinib in DFSP) is plausible and the TxGNN model (deep learning) score is high (0.9931). However, there are no registered clinical trials, only one general review, no nilotinib-specific DFSP data, and no available label safety data. The evidence is L4. The drug is marketed in the US with 8 valid authorizations.
 
 **To proceed, the following is needed:**
 - Obtain and review the FDA package insert (warnings, contraindications, indications), which is a blocking gap for safety screening
 - Obtain detailed mechanism of action data from DrugBank
 - Search for nilotinib-specific DFSP evidence (case series, preclinical PDGFRB-fusion models, imatinib-resistant DFSP)
-- Clarify the US regulatory status, since all listed authorizations are marked cancelled
+- Clarify the approved indications for the 8 valid US authorizations
 - Assess the QT-prolongation, hepatic, and metabolic risks, and the major DDIs, for the target DFSP population
 ## Disclaimer
 

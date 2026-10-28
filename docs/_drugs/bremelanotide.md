@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "BREMELANOTIDE"
 predicted_indications: ["acne (disease)", "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "exocrine pancreatic insufficiency", "cauda equina syndrome", "pituitary dwarfism", "zinc, elevated plasma", "retinopathy of prematurity", "esotropia", "Beare-Stevenson cutis gyrata syndrome", "combined small cell lung carcinoma"]
-last_modified_at: 2026-10-14
-description: "Bremelanotide: predicted new indication Acne (evidence level L5). Approved use: Hypoactive sexual desire disorder (HSDD)"
+last_modified_at: 2026-10-27
+description: "Bremelanotide: predicted new indication acne (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Bremelanotide
@@ -33,35 +33,32 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Bremelanotide: From Hypoactive Sexual Desire Disorder to Acne
+## Bremelanotide: melanocortin receptor agonist → acne (disease)
 {: .text-alpha }
 
 ## One-Sentence Summary
 
-Bremelanotide is a melanocortin receptor agonist, originally used to treat hypoactive sexual desire disorder (HSDD).
-The TxGNN model predicts it may be effective for **acne**, but **no clinical trials** and **no publications** currently support this direction, so it remains a computational prediction only.
+Bremelanotide is a melanocortin receptor agonist delivered by injection. The TxGNN model predicts it may be useful for **acne (disease)**, with a score of 0.9999 or higher in the model's ranking. However, **no clinical trials and no publications** were found for this prediction, so the evidence is limited to the model output.
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | Hypoactive sexual desire disorder (HSDD) |
-| Predicted New Indication | Acne |
-| TxGNN Prediction Score | 100.00% |
+| Original Indication | Not recorded in the local data |
+| Predicted New Indication | acne (disease) |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (the single NDA is cancelled) |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
 
-Detailed mechanism of action data is not formally available for this report. From pharmacology data, bremelanotide (PT-141) is a peptide that acts on melanocortin receptors, including MC1R, MC3R, MC4R and MC5R. It is approved as a subcutaneous injection for premenopausal women with HSDD.
+Bremelanotide is a melanocortin receptor agonist. It acts mainly on MC3R and MC4R, with some activity at MC1R, and the pharmacology data compiled for this report also list MC5R as a target. Detailed mechanism-of-action text is not available in the data compiled for this report, so this section relies on the receptor targets listed there.
 
-Melanocortin signaling, particularly through MC1R and MC5R, has been linked to skin inflammation and sebaceous gland regulation. This offers a plausible but unvalidated link to acne. The similarity between the original and predicted indications has not been assessed, since HSDD is a central nervous system-driven condition and acne is a dermatologic one.
+Melanocortin signaling, particularly through MC1R and MC5R, has been linked to skin inflammation and the regulation of sebaceous glands. That gives a plausible but unvalidated reason why a melanocortin agonist could affect acne. The link has not been tested for bremelanotide.
 
-There is also a tolerability concern: MC1R activation can cause hyperpigmentation, a known adverse effect of bremelanotide. This would matter for any dermatologic use.
-
-Although the TxGNN score is at its maximum, no trials or literature back it up. The score should be read as a hypothesis-generating signal only.
+There is also a tolerability concern. MC1R activation can cause hyperpigmentation, a known adverse effect of bremelanotide, and this could limit its use on the skin. The maximal TxGNN score reflects a computational prediction only, not clinical support.
 
 ## Clinical Trial Evidence
 
@@ -75,32 +72,29 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA210557 (Cancelled) | Vyleesi (Cosette Pharmaceuticals, Inc.) | Injection | Not listed in the data compiled for this report |
+| NDA210557 | Vyleesi | Injection | Not recorded in the local data |
 
 ## Safety Considerations
 
-- **Drug Interactions**:
-  - **Naltrexone (Major)**: this is the only graded interaction identified.
-  - Pharmacology data also show that bremelanotide acts on the MC1R, MC3R, MC4R and MC5R receptors. These are target activities, not interactions in the clinical sense.
-- **Disease associations flagged in the knowledge graph** (not taken from label text): hypertensive disorder, hypertension, cardiovascular disease and heart disease are listed as contraindication-related conditions. This is consistent with the transient blood pressure increases known with this drug class.
-- **Dermatologic tolerability**: MC1R-mediated hyperpigmentation is a known adverse effect and is relevant to any acne use.
+- **Drug Interactions**: One major interaction is recorded, with naltrexone. The remaining pharmacology entries in the interaction data describe receptor targets (MC1R, MC3R, MC4R, MC5R), not drug-drug interactions.
+- **Cardiovascular caution**: The data compiled for this report associate bremelanotide with hypertension and cardiovascular or heart disease as conditions of concern. These come from relation records, not label text. Transient blood pressure increases are a recognised concern for this drug class.
+- **Skin**: Hyperpigmentation through MC1R activation is a known adverse effect and is relevant to any dermatologic use.
 
-Please refer to the package insert for complete warnings and contraindications.
+Please refer to the package insert for full warnings and contraindications.
 
 ## Conclusion and Next Steps
 
 **Decision: Hold**
 
 **Rationale:**
-The acne prediction has the maximum TxGNN score but no clinical trials or literature (Evidence Level L5). The mechanistic link is only plausible, and the hyperpigmentation and cardiovascular considerations weigh against it. The only US NDA is cancelled, which further limits near-term development.
+The prediction rests only on the model score. No trials or publications address bremelanotide in acne, so the evidence level is L5. The hyperpigmentation and blood pressure concerns add to the case for caution.
 
 **To proceed, the following is needed:**
-- Review of the FDA package insert for warnings and contraindications
-- Detailed mechanism of action data for bremelanotide
-- Preclinical evidence that melanocortin receptor agonism (for example MC1R or MC5R) affects sebaceous gland activity or skin inflammation in acne models
-- Assessment of whether the hyperpigmentation and blood pressure effects are acceptable for an acne population
-- Evaluation of route and formulation compatibility, since only an injectable form exists and a topical or other option may be needed for acne
-- Clarification of the regulatory and commercial status of the cancelled NDA
+- Preclinical or early clinical data on melanocortin agonism in acne, including sebaceous gland and inflammation models
+- An assessment of hyperpigmentation risk with repeated or topical use
+- Package insert warnings and contraindications for a formal safety review
+- Detailed mechanism-of-action data
+- Evaluation of the injectable route against what an acne treatment would require
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

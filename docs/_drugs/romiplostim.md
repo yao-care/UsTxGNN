@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "ROMIPLOSTIM"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "fetal and neonatal alloimmune thrombocytopenia", "Scott syndrome", "hemorrhagic disorder due to a constitutional thrombocytopenia", "bleeding diathesis due to a collagen receptor defect", "platelet-type bleeding disorder", "autosomal dominant macrothrombocytopenia", "Ehlers-Danlos syndrome, fibronectinemic type"]
 last_modified_at: 2026-10-14
-description: "Romiplostim: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Idiopathic aplastic anemia, aplastic anemia…"
+description: "Romiplostim: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Romiplostim
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Romiplostim: From Aplastic Anemia and Autoimmune Thrombocytopenia to Primary Release Disorder of Platelets
+## Romiplostim: Primary release disorder of platelets
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,12 +48,12 @@ The prediction is best treated as a model artifact until disease-specific eviden
 
 | Item | Content |
 |------|------|
-| Original Indication | Idiopathic aplastic anemia, aplastic anemia, autoimmune thrombocytopenia (from the knowledge graph; no approved-indication text is available in the licence record) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Primary release disorder of platelets |
-| TxGNN Prediction Score | 99.99983% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 (BLA125268) |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ---
@@ -68,15 +68,15 @@ The predicted disease is a **qualitative** platelet function defect, in which pl
 
 | Rank | Predicted Disease | TxGNN Score | Evidence Level | Assessment |
 |---|---|---|---|---|
-| 2 | Pseudo-von Willebrand disease | 99.99977% | L5 | No rationale; more platelets could theoretically worsen platelet-vWF aggregation |
-| 3 | Glanzmann thrombasthenia | 99.99954% | L5 | Platelet count is normal; the defect is functional |
-| 4 | Fetal and neonatal alloimmune thrombocytopenia | 99.98730% | L4 | Immune-mediated, partly analogous to ITP; only indirect support; the most plausible candidate |
-| 5 | Scott syndrome | 99.96656% | L5 | Qualitative defect; unlikely to respond |
-| 6 | Hemorrhagic disorder due to constitutional thrombocytopenia | 99.95290% | L5 | Plausible only for specific genetic subtypes |
-| 7 | Bleeding diathesis due to a collagen receptor defect | 99.95080% | L5 | Receptor function defect; unlikely to respond |
-| 8 | Platelet-type bleeding disorder | 99.93190% | L5 | Generic, mostly functional category |
-| 9 | Autosomal dominant macrothrombocytopenia | 99.88074% | L5 | Some TPO-agonist responses reported in related conditions, but no evidence for this entry |
-| 10 | Ehlers-Danlos syndrome, fibronectinemic type | 99.84516% | L5 | No plausible pathway |
+| 2 | Pseudo-von Willebrand disease | 1.0000 | L5 | No rationale; more platelets could theoretically worsen platelet-vWF aggregation |
+| 3 | Glanzmann thrombasthenia | 1.0000 | L5 | Platelet count is normal; the defect is functional |
+| 4 | Fetal and neonatal alloimmune thrombocytopenia | 0.9999 | L5 | Immune-mediated, partly analogous to ITP; only indirect support; the most plausible candidate |
+| 5 | Scott syndrome | 0.9997 | L5 | Qualitative defect; unlikely to respond |
+| 6 | Hemorrhagic disorder due to constitutional thrombocytopenia | 0.9995 | L5 | Plausible only for specific genetic subtypes |
+| 7 | Bleeding diathesis due to a collagen receptor defect | 0.9995 | L5 | Receptor function defect; unlikely to respond |
+| 8 | Platelet-type bleeding disorder | 0.9993 | L5 | Generic, mostly functional category |
+| 9 | Autosomal dominant macrothrombocytopenia | 0.9988 | L5 | Some TPO-agonist responses reported in related conditions, but no evidence for this entry |
+| 10 | Ehlers-Danlos syndrome, fibronectinemic type | 0.9985 | L5 | No plausible pathway |
 
 ---
 
@@ -111,7 +111,7 @@ For the most plausible alternative (fetal and neonatal alloimmune thrombocytopen
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| BLA125268 | Nplate (Amgen, Inc) | Injection, powder, lyophilized, for solution | Not stated in the licence record; status: cancelled |
+| BLA125268 | Nplate (Amgen, Inc) | Injection, powder, lyophilized, for solution | Not stated in the licence record; status: valid |
 
 ---
 

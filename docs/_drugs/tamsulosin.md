@@ -48,9 +48,9 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 |------|------|
 | Original Indication | Benign prostatic hyperplasia |
 | Predicted New Indication | Ambras type hypertrichosis universalis congenita |
-| TxGNN Prediction Score | 99.996% |
+| TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (no currently valid licences) |
+| US Market Status | Marketed (valid licenses on record: at least 6) |
 | Number of NDAs | 6 (all cancelled; listed as ANDA generic applications) |
 | Recommended Decision | Hold |
 
@@ -60,7 +60,7 @@ Detailed mechanism of action data is not available in the data compiled for this
 
 No established mechanism links this action to Ambras syndrome. Ambras syndrome is a rare congenital disorder associated with genomic rearrangements at 8q22 that affect regulation of the *TRPS1* gene. An alpha-1 blocker would not be expected to act on this pathway.
 
-The very high score (0.99996, model rank 246) appears to reflect network proximity in the knowledge graph rather than a pharmacological rationale. Without trials or literature, this prediction should be treated as a computational hypothesis only.
+The very high score (1.0000, model rank 246) comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. Without trials or literature, this prediction should be treated as a computational hypothesis only.
 
 **Other predictions in the top 10** are similarly unsupported. They include hypertrichosis, dental and periodontal malformation syndromes, Dandy-Walker malformation syndromes, hair shaft abnormalities, hypotrichosis, alopecia areata, alopecia, and migraine with brainstem aura. All are at evidence level L5 with a Hold recommendation. Hypertrichosis in particular would normally be an adverse effect rather than a therapeutic goal.
 
@@ -76,15 +76,15 @@ Currently no related literature available for the top-ranked prediction.
 
 ## US Market Information
 
-All six US authorisations are cancelled generic applications for oral capsules. No approved indication text is available for them.
+All six US authorizations are valid generic applications for oral capsules. No approved indication text is available for them.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
 |---------|------|------|------|------|
-| ANDA202433 | Tamsulosin Hydrochloride | Capsule | Cardinal Health 107, LLC | Cancelled |
-| ANDA207405 | Tamsulosin Hydrochloride | Capsule | Chartwell RX, LLC | Cancelled |
-| ANDA090931 | Tamsulosin Hydrochloride | Capsule | Proficient Rx LP | Cancelled |
-| ANDA078225 | Tamsulosin Hydrochloride | Capsule | Zydus Pharmaceuticals USA Inc. | Cancelled |
-| ANDA214730 | Tamsulosin Hydrochloride | Capsule | XLCare Pharmaceuticals, Inc | Cancelled |
+| ANDA202433 | Tamsulosin Hydrochloride | Capsule | Cardinal Health 107, LLC | Valid |
+| ANDA207405 | Tamsulosin Hydrochloride | Capsule | Chartwell RX, LLC | Valid |
+| ANDA090931 | Tamsulosin Hydrochloride | Capsule | Proficient Rx LP | Valid |
+| ANDA078225 | Tamsulosin Hydrochloride | Capsule | Zydus Pharmaceuticals USA Inc. | Valid |
+| ANDA214730 | Tamsulosin Hydrochloride | Capsule | XLCare Pharmaceuticals, Inc | Valid |
 
 ## Safety Considerations
 
@@ -100,14 +100,14 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction has no clinical trials, no supporting literature, and no plausible mechanistic link to the predicted condition. Evidence is at level L5 (model prediction only). In addition, all US licences for tamsulosin are cancelled.
+The prediction has no clinical trials, no supporting literature, and no plausible mechanistic link to the predicted condition. Evidence is at level L5 (model prediction only). In addition, tamsulosin is marketed in the US with 6 valid licenses.
 
 **To proceed, the following is needed:**
 - Mechanistic evidence connecting alpha-1A/1D blockade to the *TRPS1* or 8q22-related pathology of Ambras syndrome, or a rationale for choosing another prediction.
 - Detailed mechanism of action data (MOA).
 - Package insert warnings and contraindications, to allow safety screening.
 - Preclinical studies (for example in cell or animal models) before any clinical consideration.
-- Clarification of current US marketing status, since no valid licences are listed.
+- Clarification of current US marketing status, since 6 valid licenses are listed.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -47,10 +47,10 @@ The TxGNN model predicts it may be effective for **feline acquired immunodeficie
 |------|------|
 | Original Indication | HIV infectious disease, AIDS |
 | Predicted New Indication | Feline acquired immunodeficiency syndrome |
-| TxGNN Prediction Score | 99.93% |
+| TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only |
-| Number of NDAs | 1 |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
+| Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -62,8 +62,8 @@ Feline immunodeficiency virus (FIV) is a lentivirus related to HIV. The high TxG
 This prediction should be treated with caution. NNRTIs are generally inactive against FIV because the FIV reverse transcriptase differs structurally in the NNRTI binding pocket. No supporting data were available, so the link remains a computational hypothesis.
 
 Two other predictions share this limitation:
-- **Simian immunodeficiency virus infection** (score 99.93%): SIV is closely related to HIV, but SIVmac is intrinsically resistant to many NNRTIs. The only linked publication (PMID 31658118) concerns islatravir, a different drug, and is not supportive.
-- **A rare neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter** (score 99.91%): no plausible mechanistic link was identified, and the score appears to be a graph-based artifact.
+- **Simian immunodeficiency virus infection** (score 0.9993): SIV is closely related to HIV, but SIVmac is intrinsically resistant to many NNRTIs. The only linked publication (PMID 31658118) concerns islatravir, a different drug, and is not supportive.
+- **A rare neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter** (score 0.9991): no plausible mechanistic link was identified, and the score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
 
 ## Clinical Trial Evidence
 

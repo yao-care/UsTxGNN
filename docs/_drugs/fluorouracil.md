@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "FLUOROURACIL"
 predicted_indications: ["botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "liver sarcoma", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome", "sickle cell-hemoglobin E disease syndrome", "sickle cell-beta-thalassemia disease syndrome"]
 last_modified_at: 2026-10-14
-description: "Fluorouracil: predicted new indication Botryoid-type embryonal rhabdomyosarcoma of the vagina (evidence level L5). Approved use: Superficial multifocal basal cell carcinoma, actinic keratosis…"
+description: "Fluorouracil: predicted new indication Botryoid-type embryonal rhabdomyosarcoma of the vagina (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Fluorouracil
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **10**
 
 </div>
 
-## Fluorouracil: From Skin Conditions and Gastrointestinal Cancers to Rhabdomyosarcoma
+## Fluorouracil: Botryoid-type embryonal rhabdomyosarcoma of the vagina
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,11 +46,11 @@ The broader rhabdomyosarcoma prediction is supported only by a few old reviews a
 
 | Item | Content |
 |------|------|
-| Original Indication | Superficial multifocal basal cell carcinoma, actinic keratosis, gastric cancer, colorectal metastasis, pancreatic adenocarcinoma (from the knowledge graph; the US label text was not available in the data compiled for this report) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Botryoid-type embryonal rhabdomyosarcoma of the vagina |
-| TxGNN Prediction Score | 99.75% |
+| TxGNN Prediction Score | 0.9975 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all licences are cancelled) |
+| US Market Status | Marketed (valid licenses on record: at least 12) |
 | Number of NDAs | 12 (1 NDA and 11 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
@@ -58,7 +58,7 @@ The broader rhabdomyosarcoma prediction is supported only by a few old reviews a
 
 Detailed mechanism of action data is not available in the data compiled for this report. Based on general pharmacological knowledge, fluorouracil inhibits thymidylate synthase and is incorporated into RNA and DNA, which makes it cytotoxic to rapidly dividing cells. Its efficacy in gastrointestinal cancers and in skin lesions is well established.
 
-The link to rhabdomyosarcoma is weak. It rests on the general idea that an antimetabolite may act against proliferating sarcoma cells. Standard rhabdomyosarcoma regimens (such as VAC/VDC-based) do not include fluorouracil, so the prediction is not backed by current clinical practice. The model's graph-based prediction may partly reflect fluorouracil's use in related tumours such as biliary tract carcinoma, but that is a different histology.
+The link to rhabdomyosarcoma is weak. It rests on the general idea that an antimetabolite may act against proliferating sarcoma cells. Standard rhabdomyosarcoma regimens (such as VAC/VDC-based) do not include fluorouracil, so the prediction is not backed by current clinical practice. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, such as biliary tract carcinoma where fluorouracil is used, not biological evidence. That is a different histology.
 
 The same pattern applies to the other top-ranked predictions. These are rhabdomyosarcoma subtypes (parameningeal, prostate and extrahepatic bile duct), liver sarcoma, and three sickle cell disease syndromes. The sickle cell predictions are speculative, since they would depend on fetal haemoglobin induction by cytotoxic agents, and fluorouracil's toxicity is unfavourable in a chronic non-malignant disease.
 
@@ -81,7 +81,7 @@ These sources are old, indirect or anecdotal. The only recent report (2026) desc
 
 ## US Market Information
 
-All 12 licences are cancelled and none is currently valid. The approved indication text was not available in the data compiled for this report.
+Fluorouracil is marketed, with 12 valid licenses. The approved indication text was not available in the data compiled for this report.
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer |
 |---------|------|------|-----------|
@@ -127,7 +127,7 @@ Please refer to the package insert for complete safety information.
 **Decision: Hold**
 
 **Rationale:**
-The prediction score is high (99.75%), but the evidence is at the model-prediction-only level (L5). There are no clinical trials and no relevant literature for the top-ranked indication. Fluorouracil is not part of standard rhabdomyosarcoma regimens, and all US licences are currently cancelled.
+The prediction score is high (0.9975), but the evidence is at the model-prediction-only level (L5). There are no clinical trials and no relevant literature for the top-ranked indication. Fluorouracil is not part of standard rhabdomyosarcoma regimens, and the drug is marketed with 12 valid US licenses.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (currently a blocking gap for safety screening)

@@ -8,6 +8,7 @@ indication_count: 0
 noindex: true
 sitemap: false
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Andrographis Paniculata Whole Baptisia Tinctoria R
@@ -51,7 +52,7 @@ As a result, **no predicted indication**, **no supporting clinical trials**, and
 | Predicted New Indication | No prediction generated |
 | TxGNN Prediction Score | N/A |
 | Evidence Level | Below L5 — no model output produced |
-| US Market Status | Not Marketed |
+| US Market Status | Marketed (valid licenses on record: at least 1) |
 | Number of NDAs | 0 |
 | Recommended Decision | Hold |
 

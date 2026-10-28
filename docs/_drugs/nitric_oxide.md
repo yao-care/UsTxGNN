@@ -4,7 +4,7 @@ title: Nitric Oxide
 parent: Model Prediction Only (L5)
 nav_order: 970
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-14
 description: "Nitric Oxide: predicted new indication Malformation syndrome with odontal and/or periodontal component (evidence level L5). Approved use: Pulmonary hypertension"
 monitor_inn: "NITRIC OXIDE"
@@ -14,7 +14,7 @@ predicted_indications: ["malformation syndrome with odontal and/or periodontal c
 # Nitric Oxide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **10** 
+Evidence Level: **L5** | Predicted Indications: **9** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,10 +50,10 @@ This prediction has **0 clinical trials** behind it. The **20 publications** ret
 |------|------|
 | Original Indication | Pulmonary hypertension; congenital alveolar capillary dysplasia; persistent fetal circulation syndrome (the licence records contain no indication text) |
 | Predicted New Indication | Malformation syndrome with odontal and/or periodontal component |
-| TxGNN Prediction Score | 99.57% |
+| TxGNN Prediction Score | 0.9957 |
 | Evidence Level | L5 |
-| US Market Status | ✗ Cancelled only (no currently valid licences) |
-| Number of NDAs | 4 (2 NDA, 2 ANDA; all cancelled) |
+| US Market Status | Marketed (valid licenses: 4 of 4) |
+| Number of NDAs | 4 (valid: 4) |
 | Recommended Decision | Hold |
 
 ---
@@ -95,7 +95,7 @@ No randomized trials were found. The table lists the most relevant items, with r
 
 ## US Market Information
 
-All four US licences are cancelled. The licence records contain no approved-indication text.
+All four US licenses are valid. The license records contain no approved-indication text.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
@@ -123,9 +123,8 @@ Please refer to the package insert for complete warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a very high model score (99.57%). No clinical trials exist, and the literature is indirect laboratory work on periodontitis. NO is also delivered as an inhaled gas, and all four US licences are cancelled. No clear mechanism links it to a congenital malformation syndrome with a dental component.
+The prediction rests only on a very high model score (0.9957). No clinical trials exist, and the literature is indirect laboratory work on periodontitis. NO is also delivered as an inhaled gas, and all four US licenses are valid. No clear mechanism links it to a congenital malformation syndrome with a dental component.
 
-For context, other predictions in the same analysis have more support. Pulmonary arterial hypertension, for example, has an on-label rationale, a completed Phase 2 study (NCT02734953, n=10) and several Phase 3 trials, though the Phase 3 trials were terminated or withdrawn. That indication is within the drug's original use and is not a new repurposing.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for the drug

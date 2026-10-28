@@ -8,7 +8,7 @@ indication_count: 3
 monitor_inn: "EMPAGLIFLOZIN"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia"]
 last_modified_at: 2026-10-14
-description: "Empagliflozin: predicted new indication Classic stiff person syndrome (evidence level L5). Approved use: Type 2 diabetes mellitus"
+description: "Empagliflozin: predicted new indication Classic stiff person syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
 # Empagliflozin
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **3**
 
 </div>
 
-## Empagliflozin: From Type 2 Diabetes Mellitus to Classic Stiff Person Syndrome
+## Empagliflozin: Classic stiff person syndrome
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -46,12 +46,12 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 
 | Item | Content |
 |------|------|
-| Original Indication | Type 2 diabetes mellitus (the approved-indication text was not available in the US license records; this is taken from the knowledge-graph indication data) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Classic stiff person syndrome |
-| TxGNN Prediction Score | 99.06% |
+| TxGNN Prediction Score | 0.9906 |
 | Evidence Level | L5 |
-| US Market Status | Cancelled only (all 3 listed authorizations are cancelled) |
-| Number of NDAs | 3 |
+| US Market Status | Marketed (valid licenses: 3 of 3) |
+| Number of NDAs | 3 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -61,8 +61,8 @@ Currently, detailed mechanism of action data is not available. Based on known in
 Stiff person syndrome is an autoimmune neurological disorder, typically associated with anti-GAD65 antibodies and impaired GABAergic inhibition. Empagliflozin has no known action on these pathways. The only possible connection is that SGLT2 inhibitors might influence immune or metabolic pathways, and that stiff person syndrome often co-occurs with type 1 diabetes and other autoimmune conditions. This is speculative.
 
 Two other predictions show the same weakness:
-- **Focal stiff limb syndrome** (score 99.06%), a variant of the stiff person spectrum, received a score identical to classic stiff person syndrome. This suggests the prediction comes from shared disease-graph neighbours rather than independent evidence.
-- **Opsismodysplasia** (score 99.03%) is a rare skeletal dysplasia linked to INPPL1 (SHIP2) mutations, which affect insulin and PI3K/AKT signalling. This gives a loose conceptual connection to glucose and insulin pathways, but no evidence shows empagliflozin modifies this pathology. The patient population is extremely small and mostly paediatric, which raises additional safety considerations.
+- **Focal stiff limb syndrome** (score 0.9906), a variant of the stiff person spectrum, received a score identical to classic stiff person syndrome. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence.
+- **Opsismodysplasia** (score 0.9903) is a rare skeletal dysplasia linked to INPPL1 (SHIP2) mutations, which affect insulin and PI3K/AKT signalling. This gives a loose conceptual connection to glucose and insulin pathways, but no evidence shows empagliflozin modifies this pathology. The patient population is extremely small and mostly paediatric, which raises additional safety considerations.
 
 ## Clinical Trial Evidence
 
@@ -76,9 +76,9 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication |
 |---------|------|------|-----------|
-| NDA204629 | JARDIANCE (A-S Medication Solutions) | Film-coated tablet | Not available (status: cancelled) |
-| NDA208658 | Synjardy (Boehringer Ingelheim) | Extended-release tablet | Not available (status: cancelled) |
-| NDA206111 | Synjardy (Boehringer Ingelheim) | Tablet | Not available (status: cancelled) |
+| NDA204629 | JARDIANCE (A-S Medication Solutions) | Film-coated tablet | Not available (status: valid) |
+| NDA208658 | Synjardy (Boehringer Ingelheim) | Extended-release tablet | Not available (status: valid) |
+| NDA206111 | Synjardy (Boehringer Ingelheim) | Tablet | Not available (status: valid) |
 
 ## Safety Considerations
 
@@ -93,7 +93,7 @@ Please refer to the package insert for warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The prediction rests only on a model score (99.06%), with no registered trials, no publications, and no plausible mechanistic link between SGLT2 inhibition and the autoimmune, GABAergic pathology of stiff person syndrome. The identical score for focal stiff limb syndrome suggests a graph-neighbour artefact. All US authorizations listed are cancelled.
+The prediction rests only on a TxGNN model (deep learning) score (0.9906), with no registered trials, no publications, and no plausible mechanistic link between SGLT2 inhibition and the autoimmune, GABAergic pathology of stiff person syndrome. The identical score for focal stiff limb syndrome may reflect similarities the model learned between related diseases, not biological evidence. The drug is marketed in the US, and all 3 US authorizations listed are valid.
 
 **To proceed, the following is needed:**
 - Mechanism of action data for empagliflozin

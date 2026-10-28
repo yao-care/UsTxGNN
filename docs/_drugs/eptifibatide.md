@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 663
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 description: "Eptifibatide: predicted new indication rheumatoid arthritis (evidence level L5). Approved use: Acute coronary syndrome"
 monitor_inn: "EPTIFIBATIDE"
 predicted_indications: ["rheumatoid arthritis", "sickle cell-hemoglobin E disease syndrome", "sickle cell-beta-thalassemia disease syndrome", "sickle cell-hemoglobin d disease syndrome", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome", "sickle cell-hemoglobin c disease syndrome", "hemoglobinopathy", "female breast carcinoma", "beta-thalassemia with other manifestations", "partial deletion of the short arm of chromosome 16"]
@@ -50,7 +50,7 @@ The evidence is early and does not establish efficacy.
 
 | Item | Content |
 |------|------|
-| Original Indication | Acute coronary syndrome (from the knowledge graph; the US licenses contain no indication text) |
+| Original Indication | Not recorded in the local data |
 | Predicted New Indication | Hemoglobinopathy (sickle cell disease); the top-ranked prediction by score is rheumatoid arthritis |
 | TxGNN Prediction Score | 0.9998 for hemoglobinopathy (rheumatoid arthritis: 0.9999) |
 | Evidence Level | L5 (hemoglobinopathy; the single Phase 1/2 trial was terminated and is underpowered) |
@@ -133,7 +133,7 @@ Please refer to the package insert for full warnings and contraindications.
 **Decision: Hold**
 
 **Rationale:**
-The only direct clinical evidence is a small, terminated Phase 1/2 trial (13 patients) plus early pilot and Phase I studies in sickle cell disease. Efficacy is not shown, bleeding risk is a concern, and no US licenses are currently valid. The other predictions are computational only or preclinical.
+The only direct clinical evidence is a small, terminated Phase 1/2 trial (13 patients) plus early pilot and Phase I studies in sickle cell disease. The other predictions are computational only or preclinical.
 
 **To proceed, the following is needed:**
 - FDA package insert warnings and contraindications (a blocking gap for safety screening)

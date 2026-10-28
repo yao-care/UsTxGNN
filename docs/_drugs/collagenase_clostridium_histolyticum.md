@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "COLLAGENASE CLOSTRIDIUM HISTOLYTICUM"
 predicted_indications: ["primary release disorder of platelets", "Glanzmann thrombasthenia", "pseudo-von Willebrand disease", "Ledderhose disease", "infantile digital fibromatosis", "palmar fibromatosis", "hemorrhagic disorder due to a constitutional thrombocytopenia", "Scott syndrome", "bleeding diathesis due to a collagen receptor defect", "posterior leukoencephalopathy syndrome"]
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Collagenase Clostridium Histolyticum: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Peyronie disease, penile fibromatosis, balanitis xerotica oblit…"
 ---
 

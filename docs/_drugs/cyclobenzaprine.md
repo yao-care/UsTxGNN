@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 3
 monitor_inn: "CYCLOBENZAPRINE"
 predicted_indications: ["myofascial pain syndrome", "neuralgia", "papillary conjunctivitis"]
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Cyclobenzaprine: predicted new indication Myofascial pain syndrome (evidence level L5). Approved use: Not available in the compiled data"
 ---
 

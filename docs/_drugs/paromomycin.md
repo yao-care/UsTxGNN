@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "PAROMOMYCIN"
 predicted_indications: ["idiopathic copper-associated cirrhosis", "hepatoportal sclerosis", "hepatopulmonary syndrome", "early-onset familial noncirrhotic portal hypertension", "primitive portal vein thrombosis", "hepatic porphyria", "acute urate nephropathy", "peritonitis"]
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Paromomycin: predicted new indication Idiopathic copper-associated cirrhosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 

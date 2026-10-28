@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Aconitum Napellus Whole Causticum Coffea Arabica S
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 138
-evidence_level: L5
-indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-09-17
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Aconitum Napellus Whole Causticum Coffea Arabica S
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **0** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,61 +33,19 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-## Homeopathic Combination (12 Components): Evaluation Not Possible — No Predicted Indication
+## Aconitum Napellus Whole Causticum Coffea Arabica S
 {: .text-alpha }
-
-## One-Sentence Summary
-
-This submission involves a complex homeopathic combination product containing 12 botanical, mineral, and floral ingredients, including Aconitum Napellus, Coffea Arabica (roasted), Pulsatilla Montana, Saffron, and Gold (Aurum metallicum), among others.
-No approved indication or marketing authorization was found for this product in any reviewed market, and the TxGNN model did not generate any repurposing prediction candidates.
-Without a predicted indication or supporting clinical evidence, a meaningful drug repurposing evaluation cannot be completed at this stage.
-
----
 
 ## Quick Overview
 
 | Item | Content |
 |------|------|
-| Original Indication | No approved indication on record |
-| Predicted New Indication | None — no TxGNN prediction generated |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 (no study; model prediction absent) |
+| Original Indication | Not recorded in the local data |
 | US Market Status | Marketed (valid licenses on record: at least 14) |
 | Number of NDAs | 0 |
-| Recommended Decision | **Hold** |
 
 ---
 
-## Why No Prediction Was Generated
-
-No predicted indication is available from the TxGNN model for this compound, so a mechanistic repurposing rationale cannot be constructed at this time.
-
-Currently, detailed mechanism of action data is not available. This product is a homeopathic combination of 12 ingredients: Aconitum Napellus Whole, Causticum, Coffea Arabica Seed (Roasted), Fagus Sylvatica Flowering Top, Gold (Aurum metallicum), Impatiens Glandulifera Flower, Magnesium Phosphate Dibasic Trihydrate, Potassium Phosphate, Pulsatilla Montana Whole, Saffron, Silicon Dioxide (Silicea), and Verbena Officinalis Flowering Top. Each constituent is typically employed in homeopathic or Bach-flower practice; standardised pharmacological mechanisms are not established for these preparations within conventional pharmacology databases such as DrugBank.
-
-No DrugBank ID could be mapped to this multi-component product as a whole, which directly explains the absence of a TxGNN knowledge-graph signal. The TxGNN model relies on a drug node being present in the heterogeneous biomedical knowledge graph; without a valid DrugBank anchor, no disease–drug edge traversal is possible and no score is produced.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
----
-
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The TxGNN model did not produce any repurposing predictions for this product because no DrugBank ID could be resolved, leaving the drug node absent from the knowledge graph. Compounding this, no original indication, mechanism of action, or safety profile data are available, making any repurposing evaluation infeasible at this time.
-
-**To proceed, the following is needed:**
-
-- **Clarify product identity**: confirm brand name and whether this is a licensed homeopathic speciality, a botanical fixed-dose combination, or an unlicensed compounded preparation.
-- **Obtain product monograph or package insert**: establish the original approved indication, key warnings, and contraindications (currently Blocking data gap DG001).
-- **Establish mechanism of action**: retrieve pharmacological data from DrugBank or primary literature for the major active constituents — especially Saffron (*Crocus sativus* extract, linked to mood/neurological activity), Aconitum Napellus, and Gold — to complete data gap DG002.
-- **Re-run TxGNN on individual active components**: map individual ingredients to their respective DrugBank IDs and run separate repurposing predictions. Aggregate signals may reveal a shared therapeutic target that was invisible when the combination was queried as a single entity.
-- **Confirm regulatory status**: verify status in Taiwan (TFDA), the US (FDA), and the EU (EMA) before any further evaluation or investment decision.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

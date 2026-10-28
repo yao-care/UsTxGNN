@@ -1,20 +1,20 @@
 ---
 layout: default
 title: 2-Butoxyethyl Laurate Chelidonium Majus Whole Gels
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 18
-evidence_level: L5
-indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-09-17
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # 2-Butoxyethyl Laurate Chelidonium Majus Whole Gels
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **0** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,64 +33,16 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-## Multi-Component Homeopathic Mixture: Insufficient Data for Repurposing Evaluation
+## 2-Butoxyethyl Laurate Chelidonium Majus Whole Gels
 {: .text-alpha }
-
-## One-Sentence Summary
-
-This candidate consists of a seven-ingredient combination — including botanical/homeopathic components (Chelidonium majus, Gelsemium sempervirens, Strychnos nux-vomica, Sulfur) and excipients (2-Butoxyethyl laurate, Glycerin, Sodium carbonate) — with no registered market authorization in the United States.
-The TxGNN model returned **no predicted indications** for this candidate, and **no clinical trials or literature** have been identified.
-Due to the absence of a unified DrugBank ID, mechanism-of-action data, and regulatory history, this candidate cannot proceed through standard repurposing evaluation at this time.
-
----
 
 ## Quick Overview
 
 | Item | Content |
 |------|---------|
-| Original Indication | None on record |
-| Predicted New Indication | None (TxGNN returned no predictions) |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 (model prediction only) → effectively below L5: no prediction generated |
+| Original Indication | Not recorded in the local data |
 | US Market Status | Marketed (valid licenses on record: at least 12) |
 | Number of NDAs | 0 |
-| Recommended Decision | **Hold** |
-
----
-
-## Why is This Prediction Reasonable?
-
-No TxGNN prediction is available for this candidate, so a mechanism-based repurposing rationale cannot be constructed.
-
-The ingredient list suggests a **homeopathic or naturopathic combination product**. Key components include:
-
-- **Chelidonium majus** (greater celandine): traditionally used in European herbal medicine for hepatobiliary complaints and wart treatment
-- **Gelsemium sempervirens** (yellow jasmine): used in classical homeopathy for flu-like neurological symptoms, anxiety, and headache
-- **Strychnos nux-vomica** (nux vomica): a homeopathic staple for digestive hypersensitivity, irritability, and hangover-like states; contains strychnine alkaloids at pharmacologically sub-threshold homeopathic dilutions
-- **Sulfur**: a classical homeopathic "polychrest" associated with skin and metabolic presentations
-- **2-Butoxyethyl laurate, Glycerin, Sodium carbonate**: excipients or formulation aids
-
-Because the product is a multi-ingredient mixture without a single active pharmaceutical ingredient (API) traceable to DrugBank, the TxGNN knowledge graph — which operates on individual drug nodes — was unable to generate a repurposing score. This is a structural limitation of the model for combination homeopathic products, not a data quality failure per se.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for this combination.
-
----
-
-## Literature Evidence
-
-Currently no related literature available for this specific combination.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-> **Note on Strychnos nux-vomica**: At conventional (non-homeopathic) doses, nux vomica contains strychnine, which is a potent glycine-receptor antagonist with a narrow therapeutic index. If this product is intended for administration at pharmacologically active concentrations, a dedicated strychnine toxicity review is required before any clinical use.
 
 ---
 

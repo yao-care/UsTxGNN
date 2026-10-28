@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 751
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Givosiran: predicted new indication Hepatoportal sclerosis (evidence level L5). Approved use: Hepatic porphyria"
 monitor_inn: "GIVOSIRAN"
 predicted_indications: ["hepatoportal sclerosis", "primitive portal vein thrombosis", "hepatopulmonary syndrome", "idiopathic copper-associated cirrhosis", "early-onset familial noncirrhotic portal hypertension", "chronic hepatitis C virus infection", "glycogen storage disease due to hepatic glycogen synthase deficiency", "chronic hepatitis B virus infection", "disorder of phenylalanine metabolism"]

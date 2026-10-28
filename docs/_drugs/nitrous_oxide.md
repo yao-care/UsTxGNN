@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "NITROUS OXIDE"
 predicted_indications: ["benign prostatic hyperplasia (disease)"]
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Nitrous Oxide: predicted new indication Benign prostatic hyperplasia (evidence level L4). Approved use: Not specified in the US license records compiled for this report"
 ---
 

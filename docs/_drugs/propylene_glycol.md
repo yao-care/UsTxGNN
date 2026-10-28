@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "PROPYLENE GLYCOL"
 predicted_indications: ["bronchitis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy", "nuclear senile cataract", "cortical cataract", "senile cataract", "diabetic cataract", "diabetes mellitus type 2 associated cataract", "tetanic cataract", "immature cataract"]
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Propylene Glycol: predicted new indication Bronchitis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 

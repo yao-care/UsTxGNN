@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Antimony Trisulfide Atropa Belladonna Calcium Fluo
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 354
-evidence_level: L5
-indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-09-17
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Antimony Trisulfide Atropa Belladonna Calcium Fluo
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **0** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,28 +33,16 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-## Multi-Component Homeopathic Preparation: Insufficient Data for Drug Repurposing Evaluation
+## Antimony Trisulfide Atropa Belladonna Calcium Fluo
 {: .text-alpha }
-
-## One-Sentence Summary
-
-This submission contains a complex, multi-ingredient homeopathic formula (including Atropa Belladonna, Mercurius Solubilis, Sepia Officinalis, Hekla Lava, and eight other constituents) with no established original indication on record.
-The TxGNN model returned **no predicted indications** for this candidate, and **no supporting clinical trials or publications** were identified.
-Without a DrugBank ID, approved regulatory status, or any mechanistic data, this candidate cannot be assessed for repurposing at this time.
-
----
 
 ## Quick Overview
 
 | Item | Content |
 |------|---------|
-| Original Indication | Not recorded |
-| Predicted New Indication | None — TxGNN returned no candidates |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 (model prediction only — no predictions generated) |
+| Original Indication | Not recorded in the local data |
 | Market Status | Marketed (valid licenses on record: at least 6) |
 | Number of Licenses | 0 |
-| Recommended Decision | **Hold** |
 
 ---
 
@@ -69,7 +57,7 @@ This formula is a multi-component preparation whose individual constituents are 
 
 The combination pattern — particularly Hekla Lava, Calcium Fluoride, and Calc Carb — is characteristic of homeopathic dental or bone-related preparations in classical homeopathic practice. However, none of the ingredients carry an established pharmacological mechanism of action (MOA) in the conventional pharmacological sense, and no DrugBank ID was resolved for the compound or any of its components.
 
-TxGNN operates on a knowledge graph built from conventional drug–disease relationships. Because this formula has no DrugBank node and no conventional pharmacological profile, it falls outside the model's prediction domain, which explains the empty `predicted_indications` result.
+Because this formula has no DrugBank node and no conventional pharmacological profile, it falls outside the model's prediction domain, which explains the empty `predicted_indications` result.
 
 ---
 
@@ -87,7 +75,7 @@ Currently no related literature available.
 
 ## Market Information
 
-This preparation has no regulatory licenses on file. It is not marketed and has not received any approvals.
+This preparation has no regulatory licenses on file.
 
 ---
 
@@ -99,20 +87,6 @@ Please refer to the package insert for safety information.
 
 ---
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-This candidate cannot be assessed for drug repurposing because the TxGNN model generated no predictions, the compound has no regulatory history, no DrugBank mapping, and no pharmacological MOA data — all essential prerequisites for a meaningful repurposing evaluation.
-
-**To proceed, the following is needed:**
-
-- **Confirm compound identity**: Clarify whether this is a single registered homeopathic product; if so, obtain the brand name and full product monograph
-- **Resolve DrugBank mapping**: Attempt to map individual active constituents (e.g., Atropa Belladonna alkaloids) to DrugBank entries separately for any partial analysis
-- **Document dilution levels**: Homeopathic preparations are highly dilution-dependent; toxicological and pharmacological assessment requires knowing the potency (X/C/LM scale) for each ingredient
-- **Re-run TxGNN on individual constituents**: If any ingredient maps to a DrugBank node (e.g., atropine from Belladonna), a sub-component repurposing analysis may be feasible
-- **Obtain package insert**: Source the product monograph or regulatory dossier to populate the safety and indication fields before re-evaluation
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

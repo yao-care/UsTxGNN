@@ -5,7 +5,7 @@ parent: Moderate Evidence (L3-L4)
 nav_order: 661
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Epirubicin: predicted new indication Primary pulmonary lymphoma (evidence level L4). Approved use: Breast carcinoma / breast neoplasm"
 monitor_inn: "EPIRUBICIN"
 predicted_indications: ["primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "small cell lung carcinoma", "pulmonary blastoma", "lung mixed small cell and squamous cell carcinoma", "myeloid leukemia", "upper aerodigestive tract neoplasm"]

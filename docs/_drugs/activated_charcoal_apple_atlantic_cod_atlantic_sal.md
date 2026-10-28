@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Activated Charcoal Apple Atlantic Cod Atlantic Sal
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 195
-evidence_level: L5
-indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-09-17
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Activated Charcoal Apple Atlantic Cod Atlantic Sal
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **0** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,32 +33,22 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-## Multi-Ingredient Complex Mixture: Insufficient Data for Drug Repurposing Evaluation
+## Activated Charcoal Apple Atlantic Cod Atlantic Sal
 {: .text-alpha }
-
-## One-Sentence Summary
-
-This candidate entry contains a complex mixture of 55+ ingredients spanning foods, allergens, homeopathic substances, and pharmacological agents (e.g., cortisone acetate, histamine dihydrochloride, hyaluronidase), and cannot be treated as a single drug entity for repurposing analysis. The TxGNN model returned **no predicted indications**, and the entry carries no US regulatory approvals, no DrugBank ID, and no mechanism of action data — making a standard repurposing evaluation impossible at this stage.
-
----
 
 ## Quick Overview
 
 | Item | Content |
 |------|---------|
-| Original Indication | Not established (no regulatory approval found) |
-| Predicted New Indication | None (TxGNN returned no predictions) |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 — Model prediction only, but no predictions were generated |
+| Original Indication | Not recorded in the local data |
 | US Market Status | Marketed (valid licenses on record: at least 2) |
 | Number of NDAs | 0 |
-| Recommended Decision | **Hold** |
 
 ---
 
 ## Why No Prediction Was Generated
 
-TxGNN operates by mapping a drug's INN to a DrugBank node, then traversing the knowledge graph to score candidate disease relationships. This candidate failed at the first step for two compounding reasons:
+This candidate failed at the first step for two compounding reasons:
 
 **1. No resolvable single INN.** The entry contains 55 distinct substances — ranging from common foods (apple, banana, wheat) and seafood (Atlantic cod, Pacific oyster) to homeopathic botanicals (Gelsemium sempervirens root, Pulsatilla pratensis, Lycopodium clavatum spore) and pharmacologically active agents (cortisone acetate, serotonin hydrochloride, hyaluronidase, interferon γ porcine recombinant). A TxGNN model (deep learning) prediction model requires a singular, identifiable drug node; a heterogeneous 55-component list cannot be anchored to any single DrugBank entry.
 
@@ -90,20 +80,6 @@ These components individually have safety profiles that would require evaluation
 
 ---
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-This entry does not represent a single drug and cannot be evaluated under the standard TxGNN drug repurposing framework. TxGNN produced zero predictions because no valid drug identity could be resolved from the 55-ingredient list.
-
-**To proceed, the following is needed:**
-
-- **Clarify the product identity**: Determine whether this is a registered homeopathic product, an allergy immunotherapy panel, a diagnostic reagent kit, or another product category — and retrieve its official product name and regulatory classification.
-- **Identify the active pharmaceutical ingredient (API)**: If repurposing evaluation is intended for a specific component (e.g., cortisone acetate or hyaluronidase), submit that single INN as a separate Evidence Pack.
-- **Obtain DrugBank mapping**: Once the API is isolated, resolve its DrugBank ID to enable TxGNN traversal.
-- **Retrieve package insert**: Required to complete DG001 (safety warnings/contraindications) and DG002 (mechanism of action).
-- **Determine regulatory pathway**: If this is a homeopathic combination product, it may fall outside standard NDA/ANDA review scope and require a different evaluation framework.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

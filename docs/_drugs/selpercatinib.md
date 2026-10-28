@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Selpercatinib"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura"]
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Selpercatinib: predicted new indication Pulmonary hypertension (evidence level L5). Approved use: Not specified in the approval records compiled for this report (the a…"
 ---
 

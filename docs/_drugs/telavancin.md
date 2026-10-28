@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "TELAVANCIN"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "septicemic plague", "premalignant hematological system disease", "hematological disease associated with an acquired peripheral neuropathy", "monoclonal gammopathy", "congenital hematological disorder"]
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Telavancin: predicted new indication Hyperamylasemia (evidence level L5). Approved use: Bacterial pneumonia"
 ---
 

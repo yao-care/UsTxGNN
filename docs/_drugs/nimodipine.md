@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "NIMODIPINE"
 predicted_indications: ["homozygous familial hypercholesterolemia", "nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Nimodipine: predicted new indication Homozygous familial hypercholesterolemia (evidence level L5). Approved use: Subarachnoid hemorrhage (including acquired aneurysmal subarachnoid h…"
 ---
 

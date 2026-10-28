@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 591
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 monitor_inn: "DEXBROMPHENIRAMINE"
 predicted_indications: ["recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "nasal cavity disease", "acute laryngopharyngitis", "pharyngitis"]
 description: "Dexbrompheniramine: predicted new indication Recalcitrant atopic dermatitis (evidence level L5). Approved use: Not recorded in the local data"

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Activated Charcoal Anhydrous Dibasic Calcium Phosp
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 182
-evidence_level: L5
-indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-09-17
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Activated Charcoal Anhydrous Dibasic Calcium Phosp
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **0** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-## Multi-Component Mixture: No TxGNN Repurposing Prediction Available
+## Activated Charcoal Anhydrous Dibasic Calcium Phosp
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,13 +48,10 @@ The profile is flagged **Hold** pending fundamental data remediation and safety 
 
 | Item | Content |
 |------|---------|
-| Original Indication | Not recorded |
-| Predicted New Indication | No prediction available |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | Not evaluable — no prediction generated |
+| Original Indication | Not recorded in the local data |
+| US Market Status | Marketed (valid licenses on record: at least 6) |
 | Taiwan Market Status | Not marketed (TFDA query returned 0 results) |
 | Number of Licenses | 0 |
-| Recommended Decision | **Hold** |
 
 ---
 
@@ -75,7 +72,7 @@ This entry is a **multi-component mixture** rather than a single active pharmace
 | 9 | Teucrium Scorodonia Flowering Top (Wood Sage) | Herbal |
 | 10 | Tin (Stannum) | Homeopathic mineral |
 
-This composition is consistent with a **homeopathic preparation**. TxGNN is designed for single-molecule active pharmaceutical ingredients and operates on a knowledge graph of individual drug–disease pairs. Multi-component homeopathic formulations fall outside the model's intended scope, which explains why no prediction was generated.
+This composition is consistent with a **homeopathic preparation**. Multi-component homeopathic formulations fall outside the model's intended scope, which explains why no prediction was generated.
 
 ---
 
@@ -91,20 +88,6 @@ All other safety fields (warnings, contraindications, drug interactions) returne
 
 ---
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-This entry cannot proceed through the standard TxGNN repurposing pipeline because it is a multi-component mixture with no individual active ingredient mappable to the model's drug node graph, no original indication on record, and at least one ingredient (Oenanthe Aquatica) with serious toxicity concerns that must be addressed before any repurposing work begins.
-
-**To proceed, the following is needed:**
-
-- **Clarify product category**: Confirm whether this is a registered homeopathic preparation and provide ingredient dilution levels (e.g., 6C, 30X). This determines applicable regulatory pathway and safety thresholds.
-- **Resolve Oenanthe Aquatica safety concern**: Obtain concentration data and assess compliance with applicable toxic plant regulations before any further steps.
-- **Identify the repurposing target**: If the intent is to evaluate a specific component (e.g., a single active molecule in this mixture), resubmit that ingredient as a separate single-drug evidence pack with its own DrugBank ID.
-- **Obtain MOA data**: For any single-molecule candidate extracted from this mixture, query DrugBank or relevant pharmacological databases for mechanism of action.
-- **Confirm regulatory scope**: Clarify whether Taiwan TFDA authorization is being sought and under which product category (pharmaceutical, OTC, or homeopathic).
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

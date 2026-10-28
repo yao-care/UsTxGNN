@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 1
 monitor_inn: "POTASSIUM CHLORIDE"
 predicted_indications: ["renal tubular acidosis"]
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Potassium Chloride: predicted new indication Renal tubular acidosis (evidence level L4). Approved use: Not recorded in the local data"
 ---
 

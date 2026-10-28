@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Alpha -Tocopherol Acetate Dl- Ascorbic Acid Biotin
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 233
-evidence_level: L5
-indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-09-17
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Alpha -Tocopherol Acetate Dl- Ascorbic Acid Biotin
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **0** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,28 +33,17 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-## Multi-Ingredient Nutritional Supplement: Drug Repurposing Evaluation Incomplete
+## Alpha -Tocopherol Acetate Dl- Ascorbic Acid Biotin
 {: .text-alpha }
-
-## One-Sentence Summary
-
-This candidate is a multi-ingredient nutritional supplement combination containing twelve components — including Vitamin E, Vitamin C, Biotin, Calcium, Vitamin D3, Vitamin B12, DHA (Doconexent), Iron, Folic Acid, Magnesium, Iodine, and Vitamin B6 — which together resemble a prenatal or comprehensive multivitamin formulation.
-
-The TxGNN model did **not return any predicted new indications** for this candidate, and the drug is currently **not marketed** in Taiwan with no registered licenses. A formal repurposing evaluation cannot be completed at this stage.
-
----
 
 ## Quick Overview
 
 | Item | Content |
 |------|---------|
-| Original Indication | None on record |
-| Predicted New Indication | None (TxGNN returned no predictions) |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 — Model prediction unavailable; no supporting studies |
+| Original Indication | Not recorded in the local data |
+| US Market Status | Marketed (valid licenses on record: at least 5) |
 | Taiwan Market Status | Not marketed (Not marketed) |
 | Number of Licenses | 0 |
-| Recommended Decision | **Hold** |
 
 ---
 
@@ -88,7 +77,7 @@ Currently no related literature available for this combination as a unified TxGN
 
 ## Taiwan Market Information
 
-This drug combination has **no registered licenses** in Taiwan and is currently not marketed (Not marketed). No authorization records are available.
+No authorization records are available.
 
 ---
 
@@ -98,20 +87,6 @@ Please refer to the package insert for safety information. No warnings, contrain
 
 ---
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-TxGNN returned no predicted indications for this candidate because the multi-ingredient compound string could not be resolved to a DrugBank node in the knowledge graph. Without a valid prediction, there is no repurposing signal to evaluate.
-
-**To proceed, the following is needed:**
-
-- **Decompose the combination**: Run TxGNN predictions individually for each of the twelve active ingredients (e.g., Doconexent, Folic Acid, Ferrous Fumarate) and aggregate results
-- **Resolve DrugBank ID**: Map the combination or its key components to valid DrugBank IDs to enable knowledge graph traversal
-- **Clarify intended use case**: If this is a prenatal supplement formulation, the evaluation framework may need to be adapted — repurposing analysis is most applicable to single-entity pharmaceutical drugs, not fixed nutritional combinations
-- **Obtain Taiwan regulatory data**: Download the package insert PDF from the TFDA website to extract warnings and contraindications, once a matched product is identified
-- **Obtain MOA data**: Query the DrugBank API for each individual component to support mechanism-based association analysis
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

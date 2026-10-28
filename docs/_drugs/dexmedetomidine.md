@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "DEXMEDETOMIDINE"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "migraine disorder", "migraine with brainstem aura", "headache disorder", "trigeminal autonomic cephalalgia"]
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Dexmedetomidine: predicted new indication nephrogenic syndrome of inappropriate antidiuresis . The top-ranked prediction by score is nephrogenic… (evidence level L5). Approved use: Not available in the data compiled for this report …"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "STREPTOZOCIN"
 predicted_indications: ["relapsing-remitting multiple sclerosis", "small cell lung carcinoma", "pulmonary blastoma", "well-differentiated fetal adenocarcinoma of the lung", "hereditary breast ovarian cancer syndrome", "primary pulmonary lymphoma", "lymphosarcoma", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma"]
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Streptozocin: predicted new indication Relapsing-remitting multiple sclerosis (evidence level L5). Approved use: Not available in the compiled data"
 ---
 

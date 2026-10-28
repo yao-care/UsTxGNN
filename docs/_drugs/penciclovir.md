@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "PENCICLOVIR"
 predicted_indications: ["fascioliasis"]
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Penciclovir: predicted new indication Fascioliasis (evidence level L5). Approved use: Herpes labialis"
 ---
 

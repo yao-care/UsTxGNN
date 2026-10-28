@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Actaea Spicata Root Althaea Officinalis Root Arnic
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 149
-evidence_level: L5
-indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-09-17
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Actaea Spicata Root Althaea Officinalis Root Arnic
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **0** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,71 +33,16 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-## Multi-Component Homeopathic Formula: Repurposing Evaluation Not Feasible — Insufficient Data
+## Actaea Spicata Root Althaea Officinalis Root Arnic
 {: .text-alpha }
-
-## One-Sentence Summary
-
-This Evidence Pack describes a 22-ingredient homeopathic/herbal combination product (including Arnica Montana, Black Cohosh, Hypericum Perforatum, Horse Chestnut, and Atropa Belladonna among others) whose ingredient profile is consistent with traditional rheumatic and musculoskeletal formulas.
-However, the TxGNN model **generated no predicted indications** for this compound, and the drug holds **zero US market authorizations**, leaving the repurposing pathway without a computable starting point.
-No clinical trial, literature, safety, or mechanistic data were retrievable for this combination as a whole.
-
----
 
 ## Quick Overview
 
 | Item | Content |
 |------|---------|
-| Original Indication | Not available — no market authorizations found |
-| Predicted New Indication | None — TxGNN returned no predictions |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | Below L5 (no predictions, no studies) |
+| Original Indication | Not recorded in the local data |
 | US Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of NDAs | 0 |
-| Recommended Decision | **Hold** |
-
----
-
-## Why is This Prediction Reasonable?
-
-No TxGNN repurposing prediction was generated for this compound, so a conventional mechanistic rationale cannot be constructed. The following observations explain why the model likely failed to produce output.
-
-**The drug is a 22-ingredient homeopathic combination with no unified DrugBank identifier.** TxGNN operates on the Knowledge Graph (KG), which maps single chemical entities (DrugBank IDs) to disease nodes. A multi-component homeopathic formula — where each ingredient is used at dilutions that eliminate pharmacokinetic measurability — cannot be represented as a single node in the KG. As a result, neither the KG method nor the deep-learning method could generate a ranked disease prediction.
-
-**Individual ingredients do have known pharmacological profiles**, though their relevance under homeopathic dilution is scientifically contested. Components such as Salicylic Acid (COX inhibition / anti-inflammatory), Horse Chestnut (aescin / venous tone), Hypericum Perforatum (serotonin reuptake modulation), and Atropa Belladonna (muscarinic antagonism) have established mechanisms. The overall ingredient pattern is consistent with a traditional formula targeting **musculoskeletal and rheumatic conditions** (joint pain, arthritis, soft-tissue inflammation). However, this inference is based on ingredient taxonomy alone and does not constitute a TxGNN-supported prediction.
-
-**Proceeding with a repurposing analysis would require decomposing the formula** into individual active ingredients, mapping each to a DrugBank ID, and running separate predictions — or treating the most pharmacologically relevant single ingredient (e.g., Salicylic Acid or Hypericum Perforatum) as the anchor compound.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for this combination formula.
-
----
-
-## Literature Evidence
-
-Currently no related literature available for this combination formula as a single entity.
-
----
-
-## US Market Information
-
-No US market authorizations found for this product. The formula may circulate as an OTC homeopathic product regulated under the FDA's Homeopathic Drug Products guidance rather than the standard NDA pathway, which would explain the absence of NDA records.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-> **Note on individual ingredients:** Several components carry known safety signals that would require assessment if any single-ingredient repurposing path is pursued:
-> - **Atropa Belladonna** — anticholinergic toxicity risk; narrow therapeutic index
-> - **Black Cohosh (Actaea spicata / Cimicifuga)** — hepatotoxicity reports in literature
-> - **Hypericum Perforatum** — clinically significant CYP3A4 induction; interactions with anticoagulants, immunosuppressants, and antiretrovirals
-> - **Salicylic Acid** — GI bleeding risk; contraindicated in children (Reye's syndrome)
-> - **Lithium Carbonate** — narrow therapeutic index; renal and thyroid monitoring required
 
 ---
 

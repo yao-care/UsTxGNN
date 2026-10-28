@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Antimony Trisulfide Bordetella Pertussis Clostridi
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 359
-evidence_level: L5
-indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-09-17
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Antimony Trisulfide Bordetella Pertussis Clostridi
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **0** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,43 +33,16 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-## Multi-Component Homeopathic Complex (14 Ingredients): TxGNN Prediction Unavailable
+## Antimony Trisulfide Bordetella Pertussis Clostridi
 {: .text-alpha }
-
-## One-Sentence Summary
-
-This product consists of 14 heterogeneous components — including attenuated pathogens, homeopathic botanicals, inorganic compounds, and a biological material — with no approved indication on record in any jurisdiction.
-The TxGNN model was **unable to generate drug repurposing predictions** for this entry due to the absence of a DrugBank ID and the non-standard multi-component nature of the formulation.
-No clinical trial or literature evidence specific to this combination was identified.
-
----
 
 ## Quick Overview
 
 | Item | Content |
 |------|---------|
-| Original Indication | Not available — no registered indication found |
-| Predicted New Indication | Not available — TxGNN prediction not generated |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 (no prediction generated; model could not process entry) |
+| Original Indication | Not recorded in the local data |
 | US Market Status | Marketed (valid licenses on record: at least 6) |
 | Number of NDAs | 0 |
-| Recommended Decision | Hold |
-
----
-
-## Why is This Prediction Reasonable?
-
-No TxGNN prediction was generated for this product. The root cause is the absence of a DrugBank ID, which is a required input to the TxGNN knowledge graph model. The product's INN field lists 14 disparate components across four distinct categories:
-
-- **Pathogenic antigens**: Bordetella pertussis, Clostridium tetani, Measles virus, Mumps virus, Rubella virus, Poliovirus
-- **Homeopathic botanicals**: Daphne mezereum bark, Ledum palustre twig, Thuja occidentalis leafy twig
-- **Inorganic / mineral compounds**: Antimony trisulfide, Silicon dioxide, Oyster shell calcium carbonate (crude)
-- **Other materials**: Thimerosal (preservative), Human breast tumor cell
-
-This ingredient profile is consistent with a **homeopathic nosode or complex remedy** — a category that is not represented as individual drug entities in DrugBank and is not processable by the TxGNN disease-ontology mapping pipeline.
-
-Without a coherent molecular target or pharmacological mechanism of action, it is not scientifically feasible to construct a repurposing hypothesis, nor to evaluate mechanistic plausibility for any new indication. The TxGNN failure in this case reflects a genuine data-structure incompatibility rather than a mere data gap.
 
 ---
 
@@ -87,20 +60,6 @@ Please obtain regulatory-grade documentation before any further safety assessmen
 
 ---
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-This product cannot be meaningfully evaluated under the TxGNN drug repurposing framework. The multi-component, non-standard formulation has no DrugBank ID, no registered indication, and no TxGNN-generated prediction. All safety fields are data gaps, and the product is not marketed in any tracked jurisdiction.
-
-**To proceed, the following is needed:**
-
-- **Clarify product identity**: Confirm whether this is a homeopathic nosode, an experimental immunological preparation, or a combination biological product, and provide the brand name and regulatory classification
-- **Obtain a DrugBank ID**: If a single principal active component exists, identify it and re-submit as an individual drug entry
-- **Obtain regulatory documentation**: Secure the package insert, TFDA registration record, or equivalent label from the originating country to establish the approved or proposed indication
-- **Conduct biologics-grade safety assessment**: Given the pathogen and human-cell-derived components, standard small-molecule safety review is insufficient; ICH Q5A/Q5D and relevant vaccine safety guidelines should be applied
-- **Re-scope the repurposing question**: If the intent is to evaluate one specific component (e.g., Thimerosal or an individual viral antigen) for a new indication, isolate that ingredient and re-submit a single-entity Evidence Pack
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

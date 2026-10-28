@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "PHENAZOPYRIDINE"
 predicted_indications: ["bronchitis"]
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Phenazopyridine: predicted new indication Bronchitis (evidence level L5). Approved use: Not available in the data compiled for this report"
 ---
 

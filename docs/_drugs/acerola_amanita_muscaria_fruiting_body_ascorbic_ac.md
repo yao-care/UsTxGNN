@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Acerola Amanita Muscaria Fruiting Body Ascorbic Ac
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 81
-evidence_level: L5
-indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-09-17
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Acerola Amanita Muscaria Fruiting Body Ascorbic Ac
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **0** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,81 +33,19 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-## Multi-Ingredient Botanical Complex: Repurposing Evaluation Not Feasible
+## Acerola Amanita Muscaria Fruiting Body Ascorbic Ac
 {: .text-alpha }
-
-## One-Sentence Summary
-
-This submission contains a ten-ingredient botanical/natural-product combination (including Acerola, Ascorbic Acid, Amanita muscaria, Capsicum, Citrus aurantium rind, Lemon juice, Parsley, Rosehip, Potato whole, and Pig bone marrow) with no recognized single INN, no Taiwan or US market authorization, and no DrugBank identifier.
-The TxGNN model returned **no predicted indications** for this combination, and there are currently **0 clinical trials** and **0 publications** directly linked to it as a defined entity.
-As a result, a standard repurposing evaluation cannot be completed at this stage.
-
----
 
 ## Quick Overview
 
 | Item | Content |
 |------|---------|
-| Original Indication | None on record |
-| Predicted New Indication | None (TxGNN returned no candidates) |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 — model prediction only; in this case no prediction was generated |
+| Original Indication | Not recorded in the local data |
 | US Market Status | Marketed (valid licenses on record: at least 8) |
 | Number of NDAs | 0 |
-| Recommended Decision | **Hold** |
 
 ---
 
-## Why No Prediction Was Generated
-
-The TxGNN model operates on single, well-defined chemical entities mapped to a DrugBank ID within its knowledge graph. This submission presents a **multi-ingredient mixture** with no single DrugBank ID and no unified INN, which prevents the model from anchoring the query to any node in the graph.
-
-Additionally, the ingredient list spans several distinct pharmacological categories simultaneously — vitamin C donors (Acerola, Ascorbic Acid, Rosehip, Lemon juice), alkaloid-containing botanicals (Amanita muscaria, Capsicum, Citrus aurantium), common food plants (Parsley, Potato), and an animal-derived tissue (pig bone marrow) — making a single mechanistic rationale for repurposing impossible to construct without decomposing the mixture into individual components first.
-
-Until each active ingredient is evaluated independently or the combination is registered with a unified DrugBank or RxNorm identifier, TxGNN prediction scores will remain unavailable.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered for this combination as a unified entity.
-
----
-
-## Literature Evidence
-
-Currently no related literature available for this combination as a unified entity.
-
----
-
-## US Market Information
-
-This combination has no US NDA on record and is not currently marketed in Taiwan (0 licenses, status: Not marketed).
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-> **Note on Amanita muscaria**: One ingredient — *Amanita muscaria* fruiting body — warrants flagging. This mushroom contains ibotenic acid and muscimol (GABA-A agonist and NMDA antagonist activity). In homeopathic dilutions it may be present at sub-pharmacological concentrations, but its inclusion in a non-diluted formulation raises safety questions that require clarification before any clinical use or repurposing study.
-
----
-
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The combination cannot be evaluated as a repurposing candidate in its current form because it lacks a unified drug identity, a DrugBank mapping, any existing indication, and TxGNN returned zero predicted indications. There is no evidence base to support a Go or Proceed with Guardrails decision.
-
-**To proceed, the following is needed:**
-
-- **Decompose into individual ingredients**: Submit each of the 10 components (e.g., Ascorbic acid, Capsicum extract, Amanita muscaria extract) separately through the TxGNN pipeline; each has its own DrugBank ID.
-- **Clarify formulation intent**: Determine whether this is a homeopathic preparation, a nutritional supplement, or a botanical drug candidate — the regulatory pathway and evaluation framework differ significantly.
-- **Resolve Amanita muscaria safety concern**: Confirm the concentration/dilution level and obtain relevant toxicology data before any clinical evaluation.
-- **Establish MOA per ingredient**: Once individual DrugBank IDs are confirmed, mechanism of action data can be retrieved to support network pharmacology analysis.
-- **Obtain product registration data**: If this formulation is marketed under a specific brand elsewhere, retrieve the product monograph to establish the original approved indication.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

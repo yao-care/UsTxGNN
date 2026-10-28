@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 9
 monitor_inn: "NABILONE"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "headache disorder", "trigeminal autonomic cephalalgia", "atrophoderma vermiculata", "nephrogenic syndrome of inappropriate antidiuresis", "ulerythema ophryogenesis", "manic bipolar affective disorder", "Tourette syndrome"]
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Nabilone: predicted new indication Migraine disorder (evidence level L4). Approved use: Not stated in the data compiled for this report"
 ---
 

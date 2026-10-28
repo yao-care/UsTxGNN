@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "FLUORESCEIN"
 predicted_indications: ["Prinzmetal angina", "antithrombin deficiency type 2", "rheumatoid arthritis", "factor 5 excess with spontaneous thrombosis", "hemoglobinopathy", "heparin cofactor 2 deficiency", "thrombophilia", "hyperthyroidism", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations"]
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Fluorescein: predicted new indication Prinzmetal angina (evidence level L5). Approved use: Diagnostic use"
 ---
 

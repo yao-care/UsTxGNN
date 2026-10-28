@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 2
 monitor_inn: "NORTRIPTYLINE"
 predicted_indications: ["attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type"]
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Nortriptyline: predicted new indication Attention deficit-hyperactivity disorder (evidence level L2). Approved use: Not recorded in the local data"
 ---
 

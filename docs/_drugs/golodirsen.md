@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 759
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 monitor_inn: "GOLODIRSEN"
 predicted_indications: ["distal myopathy, Welander type", "nebulin-related early-onset distal myopathy", "X-linked myopathy with postural muscle atrophy"]
 description: "Golodirsen: predicted new indication Distal myopathy, Welander type (evidence level L5). Approved use: Not recorded in the local data"

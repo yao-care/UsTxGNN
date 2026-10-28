@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "FENTANYL"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Fentanyl: predicted new indication Nephrogenic syndrome of inappropriate antidiuresis (evidence level L5). Approved use: Not specified in the available data"
 ---
 

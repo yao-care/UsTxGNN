@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Activated Charcoal Arsenic Triiodide Oenanthe Aqua
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 209
-evidence_level: L5
-indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-09-17
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Activated Charcoal Arsenic Triiodide Oenanthe Aqua
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **0** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-## Multi-Component Preparation: Insufficient Data for Drug Repurposing Evaluation
+## Activated Charcoal Arsenic Triiodide Oenanthe Aqua
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -48,19 +48,15 @@ Without a valid prediction target, a standard repurposing evaluation cannot proc
 
 | Item | Content |
 |------|---------|
-| Original Indication | None on record |
-| Predicted New Indication | None generated |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | N/A (No prediction generated) |
+| Original Indication | Not recorded in the local data |
 | US Market Status | Marketed (valid licenses on record: at least 6) |
 | Number of NDAs | 0 |
-| Recommended Decision | **Hold** |
 
 ---
 
 ## Why is This Prediction Unavailable?
 
-The TxGNN pipeline relies on mapping each drug's active ingredient to a DrugBank node in the knowledge graph. For this candidate, no DrugBank ID was successfully assigned (`drugbank_id: null`), which prevents the model from locating the compound within the graph and computing traversal-based repurposing scores.
+The TxGNN pipeline relies on mapping each drug's active ingredient to a DrugBank node in the knowledge graph.
 
 The ingredient list points toward a homeopathic combination product. Homeopathic preparations are typically not catalogued as discrete entities in DrugBank because their active fractions are defined by dilution series rather than by molecular structure. As a result, standard SMILES-based or target-based lookups return no match, and the deep-learning prediction pathway is also blocked.
 
@@ -94,20 +90,6 @@ Please refer to the package insert for safety information.
 
 ---
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-TxGNN could not map this multi-ingredient candidate to the knowledge graph, so no repurposing prediction was generated; without a target indication, the evaluation pipeline cannot advance beyond this point.
-
-**To proceed, the following is needed:**
-
-- **DrugBank ID resolution**: Attempt per-ingredient lookups for each of the nine components individually (e.g., Arsenious acid → DB01169 for arsenic trioxide; Silicea → separate search) to determine whether any single ingredient can anchor a prediction.
-- **Original indication clarification**: Identify the product's approved or traditional use (likely a respiratory or detoxification indication for homeopathic preparations of this type) to establish a baseline for comparison.
-- **Regulatory classification**: Confirm whether the product is classified as a homeopathic medicine, traditional herbal product, or conventional pharmaceutical in the target jurisdiction, as this determines which regulatory and safety frameworks apply.
-- **MOA documentation**: If individual ingredients are pursued, document their pharmacological mechanisms before initiating any repurposing analysis.
-- **Safety dossier**: Obtain the full prescribing information (especially for the arsenic triiodide fraction) before any clinical or preclinical forward planning.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

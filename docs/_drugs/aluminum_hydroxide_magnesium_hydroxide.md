@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Aluminum Hydroxide Magnesium Hydroxide
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 276
-evidence_level: L5
-indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-09-17
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Aluminum Hydroxide Magnesium Hydroxide
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **0** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -37,75 +37,19 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 ---
 
-## Aluminum Hydroxide + Magnesium Hydroxide: Repurposing Evaluation — Insufficient Data to Proceed
+## Aluminum Hydroxide Magnesium Hydroxide
 {: .text-alpha }
-
-## One-Sentence Summary
-
-Aluminum hydroxide combined with magnesium hydroxide is a well-known antacid combination used for acid-related gastrointestinal conditions.
-The TxGNN pipeline returned **no predicted indications** for this drug, and the Evidence Pack contains **no market authorization records** and **no safety data**, making a repurposing assessment impossible at this stage.
-This report documents the data gaps and recommends remediation steps before re-evaluation.
-
----
 
 ## Quick Overview
 
 | Item | Content |
 |------|---------|
-| Original Indication | Not recorded in this Evidence Pack |
-| Predicted New Indication | No prediction generated |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | Not assessable (no predictions) |
+| Original Indication | Not recorded in the local data |
 | Market Status | Marketed (valid licenses on record: at least 14) |
 | Number of Authorizations | 0 |
-| Recommended Decision | **Hold** |
 
 ---
 
-## Why the Pipeline Returned No Predictions
-
-The pipeline was unable to produce repurposing candidates for this drug for the following likely reasons:
-
-**DrugBank ID is missing.** The Evidence Pack records `drugbank_id: null`, meaning the TxGNN knowledge graph could not link this drug to a graph node. Without a valid DrugBank node, the knowledge graph traversal and deep-learning scoring steps cannot run, producing an empty `predicted_indications` array.
-
-**The drug name is a compound string.** The query used `"ALUMINUM HYDROXIDE; MAGNESIUM HYDROXIDE"` as a single token. Most mapping pipelines expect individual INN names. The semicolon-delimited format may have caused the normalizer to fail to match either component to a DrugBank entry.
-
-**Market data absence may be an artefact.** Aluminum hydroxide/magnesium hydroxide combination products (e.g., Maalox, Mylanta) are widely sold OTC in most markets. Zero authorizations is likely a retrieval miss — possibly because OTC products use different registration pathways — rather than genuine absence from the market.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
----
-
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-No TxGNN predictions were generated because the DrugBank mapping failed, making the knowledge-graph and deep-learning steps inoperable. There is no candidate indication to evaluate, and all safety fields are flagged as data gaps.
-
-**To proceed, the following is needed:**
-
-1. **Resolve DG002 (High) — Identify DrugBank IDs for both components**
-   - Aluminum hydroxide: DB01592 (DrugBank)
-   - Magnesium hydroxide: DB14021 (DrugBank)
-   - Update the pipeline to pass each component separately, then merge predictions.
-
-2. **Resolve DG001 (Blocking) — Obtain package insert warnings and contraindications**
-   - Source: Regulatory authority official website
-   - Method: Download and parse the package insert PDF.
-
-3. **Verify market registration status**
-   - Confirm whether OTC registrations are captured in the current data source; if not, extend the query to OTC/over-the-counter databases.
-
-4. **Re-run TxGNN pipeline**
-   - After DrugBank IDs are confirmed, re-run `run_kg_prediction.py` and `txgnn_model.py` for each individual component (aluminum hydroxide and magnesium hydroxide), then generate the combined Evidence Pack.
-
-5. **Consider evaluating components individually**
-   - Literature and clinical trial evidence for antacid repurposing (e.g., aluminum hydroxide in hyperphosphatemia, magnesium hydroxide as a laxative) exists and may surface meaningful TxGNN candidates once properly mapped.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

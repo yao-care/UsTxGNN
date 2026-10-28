@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "LANADELUMAB"
 predicted_indications: ["C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "pancreatitis", "pseudo-von Willebrand disease", "primary release disorder of platelets", "immune-mediated necrotizing myopathy", "Glanzmann thrombasthenia", "antisynthetase syndrome", "focal myositis", "Scott syndrome"]
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Lanadelumab: predicted new indication C1 inhibitor deficiency (evidence level L1). Approved use: Hereditary angioedema (including HAE with C1-INH deficiency)"
 ---
 

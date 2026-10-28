@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "COCAINE"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "papillary conjunctivitis", "rhinitis", "irritable bowel syndrome", "anaphylaxis", "neurocirculatory asthenia", "atopic conjunctivitis", "food-dependent exercise-induced anaphylaxis", "pharyngitis"]
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Cocaine: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not listed in the US license data"
 ---
 

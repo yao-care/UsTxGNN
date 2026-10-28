@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "OBILTOXAXIMAB"
 predicted_indications: ["postinfectious vasculitis", "post-infectious syndrome", "post-bacterial disorder", "infective urethral stricture", "otitis externa", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "drug-induced osteoporosis"]
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Obiltoxaximab: predicted new indication Postinfectious vasculitis (evidence level L5). Approved use: Inhalational anthrax (anthrax infection)"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "CALASPARGASE PEGOL"
 predicted_indications: ["insomnia (disease)", "factor 5 excess with spontaneous thrombosis", "heparin cofactor 2 deficiency", "antithrombin deficiency type 2"]
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Calaspargase Pegol: predicted new indication Insomnia (disease) (evidence level L5). Approved use: Not listed in the available regulatory data"
 ---
 

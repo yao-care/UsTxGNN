@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "CETUXIMAB"
 predicted_indications: ["chondroid hamartoma", "bronchial adenomas/carcinoids childhood", "ductal or ductular proliferation", "non-seminomatous lesion", "tumor of testis and paratestis", "odontogenic cyst", "thyroglossal duct cyst", "cystic neoplasm", "epiglottis neoplasm", "pre-malignant neoplasm"]
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Cetuximab: predicted new indication Top-ranked prediction: chondroid hamartoma . Best-evidenced candidate… (evidence level L5). Approved use: Colorectal cancer and squamous cell carcinoma (colon, pha…"
 ---
 

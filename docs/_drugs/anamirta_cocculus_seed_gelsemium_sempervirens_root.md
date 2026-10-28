@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Anamirta Cocculus Seed Gelsemium Sempervirens Root
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 340
-evidence_level: L5
-indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-09-17
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Anamirta Cocculus Seed Gelsemium Sempervirens Root
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **0** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,54 +33,16 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-## Multi-Component Homeopathic Combination: Insufficient Data for Repurposing Analysis
+## Anamirta Cocculus Seed Gelsemium Sempervirens Root
 {: .text-alpha }
-
-## One-Sentence Summary
-
-This submission contains a multi-ingredient botanical/homeopathic combination (Anamirta cocculus seed, Gelsemium sempervirens root, Sodium borate, Tobacco leaf, Toxicodendron pubescens leaf, Wood creosote) with no approved indications on record and no US market presence.
-The TxGNN pipeline returned **no predicted new indications** for this combination, as the compound has no DrugBank ID mapping and no original indication to anchor the repurposing model.
-**No evidence-based repurposing assessment can be completed** at this time.
-
----
 
 ## Quick Overview
 
 | Item | Content |
 |------|---------|
-| Original Indication | None on record |
-| Predicted New Indication | None (TxGNN returned no candidates) |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 — Model prediction only, but no candidates generated |
+| Original Indication | Not recorded in the local data |
 | US Market Status | Marketed (valid licenses on record: at least 12) |
 | Number of NDAs | 0 |
-| Recommended Decision | **Hold** |
-
----
-
-## Why No Prediction Was Generated
-
-This combination product could not be processed by the TxGNN repurposing pipeline for three structural reasons:
-
-**1. No DrugBank ID.** The TxGNN knowledge graph anchors drug nodes via DrugBank IDs. This combination has no assigned DrugBank ID, so no node exists in the graph from which disease edges can be predicted.
-
-**2. Multi-component botanical formulation.** The six ingredients (Anamirta cocculus seed, Gelsemium sempervirens root, Sodium borate, Tobacco leaf, Toxicodendron pubescens leaf, Wood creosote) are characteristic of a homeopathic combination product. Homeopathic formulations are typically prepared at high dilutions and are not represented as individual chemical entities in pharmacological databases used by TxGNN.
-
-**3. No original indication anchor.** The repurposing model uses the original approved indication as a biological reference point. With zero approved indications in the regulatory database, the similarity-based propagation across the knowledge graph cannot be initialised.
-
----
-
-## US Market Information
-
-No authorisations found. This product is not registered in the US database queried.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-> No drug interaction data, key warnings, or contraindications were retrieved for this combination. All safety fields returned no data during the 2026-03-24 query run.
 
 ---
 

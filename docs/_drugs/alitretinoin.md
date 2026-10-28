@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "ALITRETINOIN"
 predicted_indications: ["amenorrhea (disease)", "acne (disease)", "atypical coarctation of aorta", "pregnancy associated osteoporosis", "aortic malformation", "postmenopausal osteoporosis", "autosomal dominant neovascular inflammatory vitreoretinopathy", "breast fibrocystic disease", "benign mammary dysplasia", "Worth syndrome"]
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Alitretinoin: predicted new indication amenorrhea (evidence level L5). Approved use: Not stated in the US license record. Drug-level pharmacology data lis…"
 ---
 

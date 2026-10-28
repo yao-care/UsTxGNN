@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "GLATIRAMER"
 predicted_indications: ["hemoglobinopathy"]
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Glatiramer: predicted new indication Hemoglobinopathy (evidence level L5). Approved use: Not listed in the data compiled for this report (generally used for r…"
 ---
 

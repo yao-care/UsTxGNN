@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Alpha -Tocopherol Ascorbic Acid Banana Beta Carote
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 246
-evidence_level: L5
-indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-09-19
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Alpha -Tocopherol Ascorbic Acid Banana Beta Carote
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **0** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,10 +33,9 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-## Multi-component Natural Supplement Formulation: Insufficient Assessment Data, Cannot Proceed with Drug Repurposing Analysis
+## Alpha -Tocopherol Ascorbic Acid Banana Beta Carote
 {: .text-alpha }
 
----
 
 ## One-Sentence Summary
 
@@ -49,13 +48,10 @@ This candidate is a multi-component supplement formulation composed of eight nat
 | Item | Content |
 |------|---------|
 | Ingredient composition | α-tocopherol / ascorbic acid / banana / β-carotene / Houttuynia cordata / inulin / nattokinase / rutin |
-| Original indication | No data |
-| Predicted new indication | **None** (TxGNN unable to map; no prediction generated) |
-| TxGNN prediction score | Not applicable |
-| Evidence level | **L5** (model prediction failed; no supporting actual research) |
+| Original indication | Not recorded in the local data |
+| US Market Status | Marketed (valid licenses: 1 of 1) |
 | Taiwan market status | ✗ Not marketed (0 drug licenses) |
-| Number of licenses | 0 |
-| Recommended decision | **Hold** |
+| Number of licenses | 1 (valid: 1) |
 
 ---
 
@@ -96,21 +92,6 @@ This product holds no drug license in Taiwan and has no corresponding US FDA dru
 Please refer to the individual product information sheets or safety data sheets of each ingredient for safety information.
 
 ---
-
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-This product is a multi-component natural formulation without drug licenses in Taiwan, with failed TxGNN mapping and no predicted indications. Under current technical conditions, **effective drug repurposing assessment cannot be performed**; advancement is not recommended until clear designation of individual active ingredients and drug-grade data are obtained.
-
-**To proceed, the following is needed:**
-
-- **Segregate candidate items**: Establish independent Evidence Packs for each of the eight ingredients, entering the TxGNN mapping workflow as individual INNs (priority recommendation: Nattokinase, Rutin, Houttuynia cordata)
-- **Establish pharmaceutical identity**: Confirm whether each ingredient has a corresponding DrugBank ID (currently, no DrugBank ID is found for the overall formulation)
-- **Supplement mechanism of action (MOA)**: Query DrugBank API for MOA data of each individual ingredient to resolve the DG002 data gap
-- **Clarify regulatory classification**: Determine the classification of this product in Taiwan (pharmaceutical drug vs. health supplement vs. food), which will determine the applicable review pathway
-- **Supplement TFDA product labels and warnings**: If relevant products exist, download and parse product labeling PDFs from the FDA website to extract safety information, resolving the DG001 blocking gap
 
 ## Disclaimer
 

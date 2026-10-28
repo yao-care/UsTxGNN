@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "MOMETASONE"
 predicted_indications: ["primary cutaneous T-cell lymphoma"]
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Mometasone: predicted new indication Primary cutaneous T-cell lymphoma (evidence level L5). Approved use: Not stated in the US license records"
 ---
 

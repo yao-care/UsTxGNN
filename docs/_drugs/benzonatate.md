@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "BENZONATATE"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)"]
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Benzonatate: predicted new indication Cauda equina syndrome (evidence level L5). Approved use: Not listed in the US license data (benzonatate is generally known as…"
 ---
 

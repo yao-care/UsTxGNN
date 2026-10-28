@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 1
 monitor_inn: "APIXABAN"
 predicted_indications: ["migraine disorder"]
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Apixaban: predicted new indication Migraine disorder (evidence level L4). Approved use: Not available in the data compiled for this report"
 ---
 

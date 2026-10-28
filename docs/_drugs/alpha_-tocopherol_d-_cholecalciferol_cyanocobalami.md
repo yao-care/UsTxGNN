@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Alpha -Tocopherol D- Cholecalciferol Cyanocobalami
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 253
-evidence_level: L5
-indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-09-17
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Alpha -Tocopherol D- Cholecalciferol Cyanocobalami
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **0** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,83 +33,20 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-## Multi-Vitamin/Mineral Complex: Evaluation Report — No Predicted Indications Available
+## Alpha -Tocopherol D- Cholecalciferol Cyanocobalami
 {: .text-alpha }
-
-## One-Sentence Summary
-
-This candidate is a multi-component nutritional supplement comprising eleven vitamins and minerals (including Vitamins A, B1, B2, B3, B6, B12, C, D3, E, Folate, and Fluoride), with no registered products found in the Taiwan regulatory database.
-The TxGNN model returned **no predicted repurposing indications** for this compound, likely because the query string contained the full multi-ingredient INN list rather than a single mappable DrugBank entity.
-As a result, **no clinical evidence table can be generated**, and evaluation cannot proceed in the current format.
-
----
 
 ## Quick Overview
 
 | Item | Content |
 |------|---------|
-| Original Indication | Not available (no regulatory records found) |
-| Predicted New Indication | None (TxGNN returned no predictions) |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 — Model prediction only (no predictions generated) |
+| Original Indication | Not recorded in the local data |
+| US Market Status | Marketed (valid licenses on record: at least 4) |
 | Taiwan Market Status | Not marketed (0 licenses) |
 | Number of Licenses | 0 |
-| Recommended Decision | **Hold** |
 
 ---
 
-## Why is This Prediction Reasonable?
-
-No repurposing prediction was generated for this candidate, so a mechanistic rationale cannot be constructed in the standard format.
-
-The compound is a fixed-dose combination of eleven micronutrients typically formulated as a prenatal or comprehensive multivitamin supplement. Because TxGNN operates on single-entity DrugBank nodes, a multi-ingredient INN string of this type cannot be mapped to a single graph node, which explains the absence of predictions.
-
-Currently, detailed mechanism of action data is not available. Based on known pharmacology, the individual components of this combination (e.g., Levomefolate Calcium for neural tube defect prevention, Cholecalciferol for bone metabolism, Cyanocobalamin for haematopoiesis) each have well-characterised mechanisms, but these cannot be meaningfully aggregated into a single repurposing hypothesis without decomposing the combination into its constituent ingredients and running TxGNN on each separately.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
-*(No predicted indication is available to anchor an evidence search.)*
-
----
-
-## Literature Evidence
-
-Currently no related literature available.
-
-*(No predicted indication is available to anchor a PubMed search.)*
-
----
-
-## Taiwan Market Information
-
-No regulatory authorizations found in the Taiwan database for this compound combination.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
----
-
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The TxGNN pipeline failed to produce any repurposing prediction because the input INN string is a multi-ingredient combination rather than a single mappable drug entity; without a predicted indication, no evaluation pathway can be initiated.
-
-**To proceed, the following is needed:**
-
-- **Decompose the combination**: Split the eleven-ingredient INN list into individual components and run TxGNN separately for each ingredient (e.g., Cholecalciferol, Cyanocobalamin, Levomefolate Calcium) to obtain individual prediction scores.
-- **Identify the primary active ingredient**: Determine which single component is the clinical focus of any repurposing hypothesis, then re-run the full Evidence Pack pipeline against that ingredient's DrugBank ID.
-- **Resolve the DrugBank mapping**: The query log shows DrugBank returned 1 result despite no `drugbank_id` being stored — retrieve and record the matched DrugBank ID so downstream tools can function correctly.
-- **Clarify the product intent**: Confirm whether this combination product is a prenatal supplement, a disease-specific nutraceutical, or part of a specific therapeutic protocol, as this will determine which component(s) to prioritise for repurposing evaluation.
-- **Re-run the Evidence Pack** once a single-ingredient target is identified, with TFDA package insert data and MOA data populated to resolve the two blocking data gaps (DG001, DG002).
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

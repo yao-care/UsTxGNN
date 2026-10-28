@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Alpha -Tocopherol Succinate D- Ascorbic Acid Chole
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 259
-evidence_level: L5
-indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-09-17
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Alpha -Tocopherol Succinate D- Ascorbic Acid Chole
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **0** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,38 +33,16 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-## Multivitamin Combination (B1/B2/B3/B6/B9/B12 + C + D3 + E): No Repurposing Prediction Available
+## Alpha -Tocopherol Succinate D- Ascorbic Acid Chole
 {: .text-alpha }
-
-## One-Sentence Summary
-
-This product is a nine-component vitamin combination — Thiamine Mononitrate (B1), Riboflavin 5'-Phosphate (B2), Niacinamide (B3), Pyridoxine HCl (B6), Folic Acid (B9), Methylcobalamin (B12), Ascorbic Acid (C), Cholecalciferol (D3), and D-alpha-Tocopherol Succinate (E) — classically used as nutritional supplementation.
-The TxGNN model returned **no predicted indications** for this combination, as the multi-ingredient formulation could not be resolved to a single DrugBank entity required for prediction.
-There is currently **insufficient computational and regulatory data** to support a repurposing evaluation.
-
----
 
 ## Quick Overview
 
 | Item | Content |
 |------|---------|
-| Original Indication | Nutritional supplementation (B-complex + vitamins C, D3, E) |
-| Predicted New Indication | None — TxGNN returned no candidates |
-| TxGNN Prediction Score | Not available |
-| Evidence Level | L5 — no predictions generated |
+| Original Indication | Not recorded in the local data |
 | US Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of NDAs | 0 |
-| Recommended Decision | Hold |
-
----
-
-## Why is This Prediction Reasonable?
-
-This combination contains nine distinct active ingredients across two vitamin classes: water-soluble vitamins (B1, B2, B3, B6, B9, B12, C) and fat-soluble vitamins (D3, E). Each component carries a distinct mechanism — for example, B-vitamins serve as enzyme cofactors in energy metabolism and one-carbon cycling, Vitamin D3 regulates calcium homeostasis and immune modulation, and Vitamin E acts as a lipid-soluble antioxidant. As a combined formulation, however, the product does not map to any single DrugBank identifier.
-
-The TxGNN model operates on individual drug entities identified by DrugBank IDs. Because this formulation is a multi-ingredient combination with no unified DrugBank mapping, the model was unable to generate repurposing predictions. This is a known limitation of graph-based drug repurposing models when applied to fixed-dose combinations — the knowledge graph cannot represent the combined pharmacology as a single node.
-
-Individual components of this combination have established evidence for repurposing investigation in separate contexts (e.g., Vitamin D in autoimmune disease, Methylcobalamin in neuropathy). However, evaluating them as a single combined entity computationally is not feasible without decomposition into constituent ingredients and re-running the pipeline per component.
 
 ---
 

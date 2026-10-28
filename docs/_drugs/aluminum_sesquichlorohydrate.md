@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Aluminum Sesquichlorohydrate
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 306
-evidence_level: L5
-indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-09-17
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Aluminum Sesquichlorohydrate
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **0** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,59 +33,20 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-## Aluminum Sesquichlorohydrate: Drug Repurposing Assessment — Insufficient Data to Generate Prediction
+## Aluminum Sesquichlorohydrate
 {: .text-alpha }
-
-## One-Sentence Summary
-
-Aluminum Sesquichlorohydrate is an aluminum salt compound commonly used as an active ingredient in antiperspirant/deodorant formulations, acting by temporarily blocking sweat ducts. The TxGNN model returned **no repurposing predictions** for this compound, and no Taiwan FDA marketing authorizations were found. With zero clinical trial or literature evidence linked to any predicted indication, this candidate cannot advance to evaluation at this time.
-
----
 
 ## Quick Overview
 
 | Item | Content |
 |------|---------|
-| Original Indication | Not available (no marketing authorizations on record) |
-| Predicted New Indication | None — TxGNN returned no candidates |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 (model prediction only — no predictions generated) |
+| Original Indication | Not recorded in the local data |
+| US Market Status | Marketed (valid licenses on record: at least 3) |
 | Taiwan Market Status | Not marketed |
 | Number of Licenses | 0 |
-| Recommended Decision | **Hold** |
 
 ---
 
-## Why No Prediction Was Generated
-
-Aluminum Sesquichlorohydrate (Al₂Cl₃(OH)₃) is a partially neutralized aluminum chloride salt. Its primary known mechanism is the formation of a physical plug within eccrine sweat gland ducts, reducing sweat secretion — a purely local, topical mechanism with no systemic pharmacological target.
-
-The absence of TxGNN predictions is mechanistically consistent: the TxGNN knowledge graph operates on systemic drug–target–disease relationships. A compound with no identified systemic protein targets (receptor, enzyme, transporter) and no DrugBank ID will not generate meaningful graph traversal paths, resulting in an empty candidate list.
-
-Additionally, no Taiwan FDA license data was retrieved, meaning there is no approved indication from which to anchor a repurposing trajectory.
-
----
-
-## Safety Considerations
-
-No safety data — including warnings, contraindications, or drug–drug interactions — was returned from any queried source. Please refer to the product package insert and official regulatory monographs for safety information before any further evaluation.
-
----
-
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-There are no TxGNN-predicted indications, no regulatory approvals, no DrugBank identifier, and no mechanism-of-action data on file. There is no scientific basis on which to conduct a repurposing analysis at this time.
-
-**To proceed, the following is needed:**
-
-- **Obtain a DrugBank ID** — Query DrugBank by synonyms (e.g., Aluminium chlorohydrex, Al₂Cl₃(OH)₃) to establish a structured pharmacological profile and enable TxGNN graph linkage.
-- **Define a systemic MOA** — If the compound has any systemic targets beyond topical sweat-duct occlusion (e.g., aluminum ion–mediated signaling), document them to enable knowledge graph traversal.
-- **Re-run TxGNN prediction** — Once a DrugBank ID and target profile are established, re-execute the prediction pipeline to determine whether any disease nodes are reachable.
-- **Review TFDA package insert** — Download and parse the official monograph PDF to fill the blocking safety data gap (DG001) before any S1 safety screening can proceed.
-- **Confirm intended scope** — Clarify whether this compound is being evaluated as a standalone systemic agent or as part of a formulation; if the latter, the parent active ingredient (e.g., aluminum chloride) may be the more appropriate query target.
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

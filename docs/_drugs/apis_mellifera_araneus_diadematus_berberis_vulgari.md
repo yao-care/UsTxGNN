@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Apis Mellifera Araneus Diadematus Berberis Vulgari
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 381
-evidence_level: L5
-indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-12
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Apis Mellifera Araneus Diadematus Berberis Vulgari
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **0** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -37,6 +37,8 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 | Issue | Detail |
 |-------|--------|
+| US Market Status | Marketed (valid licenses on record: at least 7) |
+| Number of NDAs | at least 7 |
 | Entity resolution failure | 11-ingredient homeopathic string → `drugbank_id: null` → no KG node |
 | TxGNN output | `predicted_indications: []` — zero predictions generated |
 | Regulatory status | 0 Taiwan licenses; not marketed in any jurisdiction on record |

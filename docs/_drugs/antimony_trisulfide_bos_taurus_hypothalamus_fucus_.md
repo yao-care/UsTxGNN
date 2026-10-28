@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Antimony Trisulfide Bos Taurus Hypothalamus Fucus 
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 360
-evidence_level: L5
-indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-09-17
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Antimony Trisulfide Bos Taurus Hypothalamus Fucus 
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **0** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,74 +33,16 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-## Multi-Ingredient Compound (Antimony Trisulfide / Fucus Vesiculosus / Thyroid): Insufficient Evidence for Repurposing Evaluation
+## Antimony Trisulfide Bos Taurus Hypothalamus Fucus
 {: .text-alpha }
-
-## One-Sentence Summary
-
-This is a complex multi-ingredient preparation comprising seven components — including homeopathic minerals, bovine glandulars, botanical extracts, and a thyroid fraction — with no established approved indication on record.
-The TxGNN model was **unable to generate any repurposing prediction** for this compound, most likely because the multi-ingredient composition could not be mapped to a single DrugBank entity.
-As a result, **no clinical trial or literature evidence** can be linked to a predicted new indication at this time.
-
----
 
 ## Quick Overview
 
 | Item | Content |
 |------|---------|
-| Original Indication | None on record |
-| Predicted New Indication | None (TxGNN prediction not available) |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 — model prediction unavailable; no supporting studies |
+| Original Indication | Not recorded in the local data |
 | US Market Status | Marketed (valid licenses on record: at least 12) |
 | Number of NDAs | 0 |
-| Recommended Decision | Hold |
-
----
-
-## Why is This Prediction Reasonable?
-
-Detailed mechanism of action data is not available, and no DrugBank ID could be assigned to this compound. The seven ingredients span multiple pharmacological categories:
-
-- **Fucus vesiculosus** (bladderwrack) contains iodine and has historically been associated with thyroid modulation.
-- **Thyroid, unspecified** is a crude glandular extract sometimes used in traditional compounding.
-- **Phytolacca americana root** carries immune-modulatory and anti-inflammatory properties in herbal medicine literature, but its clinical evidence base is sparse.
-- **Semecarpus anacardium juice** is an Ayurvedic botanical with reported anti-tumour and anti-inflammatory activity in preclinical models.
-- **Antimony trisulfide** and **sodium sulfate** are inorganic compounds with roots in homeopathic practice.
-- **Bos taurus hypothalamus** is a bovine glandular used in integrative medicine formulations.
-
-Because the compound is a mixture of chemically and pharmacologically heterogeneous agents, the TxGNN knowledge-graph model — which operates on single-entity DrugBank nodes — cannot assign a unified drug representation and therefore produces no prediction. Without a prediction, there is no anchor disease to evaluate.
-
----
-
-## Clinical Trial Evidence
-
-Currently no related clinical trials registered.
-
----
-
-## Literature Evidence
-
-Currently no related literature available for the compound as a whole. Individual ingredients have scattered preclinical reports, but these cannot be attributed to this multi-ingredient formulation as a unit.
-
----
-
-## US Market Information
-
-This compound holds no NDA or any US market authorization. No product licensing records were retrieved.
-
----
-
-## Safety Considerations
-
-Please refer to the package insert for safety information.
-
-For individual ingredient safety considerations:
-- **Phytolacca americana (pokeweed)** is recognized as toxic in high doses; roots contain phytolaccatoxin and phytolaccigenin.
-- **Semecarpus anacardium** juice contains urushiol-type compounds and may cause contact sensitization.
-- Thyroid glandular extracts carry risk of hyperthyroidism in sensitive patients.
-
-No formal drug–drug interaction data is available for this combination.
 
 ---
 

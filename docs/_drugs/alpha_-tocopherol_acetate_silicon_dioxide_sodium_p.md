@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Alpha -Tocopherol Acetate Silicon Dioxide Sodium P
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 242
-evidence_level: L5
-indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-09-17
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Alpha -Tocopherol Acetate Silicon Dioxide Sodium P
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **0** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,67 +33,19 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-## Alpha-Tocopherol Acetate Combination: Unable to Generate Repurposing Evaluation
+## Alpha -Tocopherol Acetate Silicon Dioxide Sodium P
 {: .text-alpha }
-
-## One-Sentence Summary
-
-The queried entry `.ALPHA.-TOCOPHEROL ACETATE; SILICON DIOXIDE; SODIUM PYROPHOSPHATE` appears to be a multi-ingredient raw material or excipient listing rather than a single drug entity suitable for repurposing evaluation.
-The TxGNN model returned **no predicted indications** for this entry, and no US market authorization records were found.
-As a result, a standard repurposing evaluation cannot be completed at this time.
-
----
 
 ## Quick Overview
 
 | Item | Content |
 |------|---------|
-| Original Indication | None on record |
-| Predicted New Indication | None — TxGNN returned no predictions |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 (model prediction only — not applicable; no predictions generated) |
+| Original Indication | Not recorded in the local data |
 | US Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of NDAs | 0 |
-| Recommended Decision | **Hold** |
 
 ---
 
-## Why No Prediction Was Generated
-
-The query string contains three distinct components:
-
-| Component | Role |
-|-----------|------|
-| **Alpha-Tocopherol Acetate** | Pharmacologically active — esterified form of Vitamin E; antioxidant |
-| **Silicon Dioxide** | Pharmaceutical excipient — anti-caking / flow agent; no therapeutic activity |
-| **Sodium Pyrophosphate** | Pharmaceutical excipient / food additive — buffering/sequestrant agent; no therapeutic activity |
-
-Because TxGNN's knowledge graph operates on single drug entities mapped to DrugBank identifiers, a compound query string containing excipients alongside an active ingredient cannot be resolved to a valid DrugBank node. No DrugBank ID was assigned (`drugbank_id: null`), and consequently no knowledge-graph traversal or deep-learning inference was performed.
-
-If a repurposing evaluation is intended for **Vitamin E (alpha-tocopherol acetate)** specifically, the query should be resubmitted using the single INN `alpha-tocopherol acetate` or its DrugBank identifier **DB00163**, separately from the excipient components.
-
----
-
-## Safety Considerations
-
-No safety data is available for this entry. Please refer to the package insert for safety information.
-
----
-
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-The Evidence Pack could not be evaluated because the drug entry is a multi-ingredient excipient mixture without a valid DrugBank mapping, and TxGNN returned zero predicted indications. There is no actionable repurposing signal to assess.
-
-**To proceed, the following is needed:**
-
-- **Resubmit as a single-entity query**: Use `alpha-tocopherol acetate` (DrugBank DB00163) as the sole drug identifier, omitting excipients (silicon dioxide, sodium pyrophosphate)
-- **Confirm the clinical question**: Clarify whether the intent is to repurpose Vitamin E for a new therapeutic indication, or whether this entry was submitted in error
-- **Retrieve MOA data**: Query DrugBank API for `DB00163` to obtain mechanism of action, pharmacodynamics, and indication data
-- **Re-run TxGNN pipeline**: After correcting the drug identifier, re-execute KG and DL predictions to obtain ranked indication candidates
-- **TFDA package insert review**: If a Taiwan-marketed Vitamin E product exists under a different trade name, retrieve the full product monograph for safety pre-screening
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

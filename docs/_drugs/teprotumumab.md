@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "TEPROTUMUMAB"
 predicted_indications: ["monosomy X", "esophageal varices with bleeding", "esophageal varices without bleeding", "mixed gonadal dysgenesis", "mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies", "Turner syndrome due to structural X chromosome anomalies", "mosaic monosomy X", "sex chromosome disorder of sex development", "varicose disease", "X chromosome number anomaly"]
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Teprotumumab: predicted new indication Monosomy X (evidence level L5). Approved use: Endocrine exophthalmos"
 ---
 

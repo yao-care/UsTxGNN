@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "BROMFENAC"
 predicted_indications: ["eye disease", "optic papillitis", "von Hippel anomaly", "mcpherson robertson cammarano syndrome", "vulvar inverted follicular keratosis", "lagophthalmos", "microblepharon-ablephara syndrome", "seborrheic keratosis", "conjunctival degeneration", "luxation of globe"]
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Bromfenac: predicted new indication Eye disease (evidence level L1). Approved use: Not available"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 10
 monitor_inn: "PLATINUM"
 predicted_indications: ["urinary bladder carcinoma", "infiltrating bladder urothelial carcinoma", "non-invasive bladder urothelial carcinoma", "bladder urachal urothelial carcinoma", "bladder signet ring cell adenocarcinoma", "bladder colonic type adenocarcinoma", "bladder colloid adenocarcinoma", "bladder mixed adenocarcinoma", "bladder clear cell adenocarcinoma", "urinary bladder neoplasm"]
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Platinum: predicted new indication Urinary bladder carcinoma (evidence level L5). Approved use: Not available"
 ---
 

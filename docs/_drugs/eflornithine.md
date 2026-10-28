@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "EFLORNITHINE"
 predicted_indications: ["esotropia", "neurotrophic keratopathy"]
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Eflornithine: predicted new indication Esotropia (evidence level L5). Approved use: Human African trypanosomiasis (trypanosomiasis)"
 ---
 

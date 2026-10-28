@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "RIVAROXABAN"
 predicted_indications: ["rheumatoid arthritis", "gout", "HIV infectious disease", "brachydactyly-syndactyly syndrome"]
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Rivaroxaban: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: Not available in the compiled data"
 ---
 

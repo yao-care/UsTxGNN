@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1305
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 monitor_inn: "ZILEUTON"
 predicted_indications: ["bronchitis", "obstructive lung disease", "atopic eczema", "bronchial neoplasm (disease)", "Laubry-Pezzi syndrome", "heart disease", "interventricular septum aneurysm", "genetic syndromic Pierre Robin syndrome"]
 description: "Zileuton: predicted new indication Bronchitis (evidence level L5). Approved use: Not recorded in the local data"

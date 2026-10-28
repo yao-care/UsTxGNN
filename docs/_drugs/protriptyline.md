@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "PROTRIPTYLINE"
 predicted_indications: ["attention deficit hyperactivity disorder, inattentive type", "specific developmental disorder", "attention deficit-hyperactivity disorder", "chondromyxoid fibroma", "faciodigitogenital syndrome"]
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Protriptyline: predicted new indication Attention deficit hyperactivity disorder, inattentive type (evidence level L5). Approved use: Not recorded in the local data"
 ---
 

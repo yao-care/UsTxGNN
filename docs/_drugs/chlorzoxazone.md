@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "CHLORZOXAZONE"
 predicted_indications: ["migraine disorder", "nephrogenic syndrome of inappropriate antidiuresis", "migraine with brainstem aura", "pulmonary hypertension", "atrophoderma vermiculata", "ulerythema ophryogenesis", "kyphoscoliotic heart disease", "rheumatoid arthritis"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Chlorzoxazone: predicted new indication migraine disorder (evidence level L5). Approved use: Not recorded in the local data"
 ---
 

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Acetaldehyde Acetone Amaryllis Belladonna Whole Be
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 84
-evidence_level: L5
-indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-09-17
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Acetaldehyde Acetone Amaryllis Belladonna Whole Be
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **0** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,16 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-## Multi-Component Mixture (15 Ingredients): No Repurposing Prediction Available
+## Acetaldehyde Acetone Amaryllis Belladonna Whole Be
 {: .text-alpha }
-
-## One-Sentence Summary
-
-This submission contains a complex 15-component mixture including several inherently toxic substances (e.g., benzene, strychnos nux-vomica seed, colchicum autumnale bulb, phosphorus). The TxGNN model returned **no predicted new indications** for this combination, and the mixture holds **no regulatory approval** in any queried jurisdiction. Given the complete absence of predictions and pervasive data gaps, this candidate **cannot be evaluated** under the standard repurposing framework.
 
 ## Quick Overview
 
 | Item | Content |
 |------|---------|
-| Original Indication | Unknown — no regulatory records found |
-| Predicted New Indication | None — TxGNN returned no predictions |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | N/A |
+| Original Indication | Not recorded in the local data |
 | US Market Status | Marketed (valid licenses: 3 of 3) |
 | Number of NDAs | 3 (valid: 3) |
-| Recommended Decision | **Hold** |
 
 ## Why is This Prediction Reasonable?
 
@@ -70,7 +62,7 @@ Currently no related literature available.
 
 ## US Market Information
 
-This mixture holds no US FDA-approved product records and is not marketed. No license table can be generated.
+No license table can be generated.
 
 ## Safety Considerations
 
@@ -86,19 +78,6 @@ Several components of this mixture carry well-documented toxicity profiles that 
 
 Formal drug–drug interaction data and structured contraindication records are not available in queried databases for this multi-ingredient combination.
 
-## Conclusion and Next Steps
-
-**Decision: Hold**
-
-**Rationale:**
-This candidate returns no TxGNN repurposing predictions and carries zero regulatory approval in any queried jurisdiction. Multiple components are classified as known toxins, carcinogens, or hazardous substances, making a favorable benefit–risk profile implausible without extraordinary evidence and a clearly defined therapeutic context.
-
-**To proceed, the following is needed:**
-- Clarify the intended product category: homeopathic preparation, traditional medicine, industrial compound, or research mixture — as each follows a different regulatory and evaluation pathway
-- Provide dosage form and per-ingredient concentration data, since toxicological risk is heavily concentration-dependent (e.g., colchicine at homeopathic dilution vs. pharmacological dose)
-- Commission a formal toxicology review given the presence of benzene, strychnine-containing seeds, colchicum alkaloids, and elemental phosphorus
-- If a legitimate therapeutic claim exists, retrieve the full package insert, historical indication records, and MOA data from the originating regulatory authority
-- Re-submit individual active ingredient INN codes (rather than the full concatenated string) to the TxGNN pipeline to obtain component-level repurposing predictions
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "BLACK COHOSH"
 predicted_indications: ["heart disease", "Laubry-Pezzi syndrome", "Pierre Robin syndrome associated with a chromosomal anomaly", "genetic syndromic Pierre Robin syndrome", "partial deletion of the long arm of chromosome 7", "Jeune syndrome situs inversus", "orofacial clefting syndrome", "disorder of fucoglycosan synthesis", "pulmonary valve disease", "interventricular septum aneurysm"]
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Black Cohosh: predicted new indication Heart disease (evidence level L4). Approved use: Not available"
 ---
 

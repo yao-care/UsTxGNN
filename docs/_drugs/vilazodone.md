@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "VILAZODONE"
 predicted_indications: ["neurotic disorder", "obsessive-compulsive disorder", "agoraphobia", "benign paroxysmal torticollis of infancy", "Keppen-Lubinsky syndrome", "Ohdo syndrome and variants", "schizoid personality disorder"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Vilazodone: predicted new indication Neurotic disorder (evidence level L5). Approved use: Major depressive disorder"
 ---
 

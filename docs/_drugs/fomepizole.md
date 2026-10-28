@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "FOMEPIZOLE"
 predicted_indications: ["sclerosing cholangitis"]
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Fomepizole: predicted new indication Sclerosing cholangitis (evidence level L5). Approved use: No approved indication text is available in the US license records (g…"
 ---
 

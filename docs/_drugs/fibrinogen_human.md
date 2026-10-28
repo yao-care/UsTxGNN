@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "FIBRINOGEN HUMAN"
 predicted_indications: ["hemoglobinopathy"]
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Fibrinogen Human: predicted new indication Hemoglobinopathy (evidence level L5). Approved use: Not listed in the US license data compiled for this report (general u…"
 ---
 

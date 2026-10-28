@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Alpha -Tocopherol Acetate Dl- Ascorbic Acid Calciu
-parent: Model Prediction Only (L5)
+parent: Known Uses Only (No New Predictions)
 nav_order: 234
-evidence_level: L5
-indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-09-17
+last_modified_at: 2026-10-29
 predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Alpha -Tocopherol Acetate Dl- Ascorbic Acid Calciu
 {: .fs-9 }
 
-Evidence Level: **L5** | Predicted Indications: **0** 
+Evidence Level: **N/A** | Predicted Indications: **0** 
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,30 +33,18 @@ Evidence Level: **L5** | Predicted Indications: **0**
 
 </div>
 
-## DL-α-Tocopherol / Ascorbic Acid / Cholecalciferol / DHA Complex: Nutritional Supplement — No Repurposing Predictions Available
+## Alpha -Tocopherol Acetate Dl- Ascorbic Acid Calciu
 {: .text-alpha }
 
----
-
-## One-Sentence Summary
-
-This evidence pack describes an 8-component nutritional supplement combination — comprising Vitamin E, Vitamin C, Calcium, Vitamin D3, Doconexent (DHA), Ferrous Fumarate, Folic Acid, and Pyridoxine — consistent with a prenatal multivitamin formulation.
-The TxGNN model returned **no repurposing predictions** for this multi-component query, and the combination is currently **not registered in Taiwan**.
-With no original indication on record, no predicted indications, and critical data gaps throughout, this candidate cannot advance to repurposing evaluation at this stage.
-
----
 
 ## Quick Overview
 
 | Item | Content |
 |------|---------|
-| Original Indication | Not on record |
-| Predicted New Indication | No predictions generated |
-| TxGNN Prediction Score | N/A |
-| Evidence Level | L5 — model prediction unavailable |
+| Original Indication | Not recorded in the local data |
+| US Market Status | Marketed (valid licenses on record: at least 5) |
 | Taiwan Market Status | ✗ Not marketed (0 registrations) |
 | Number of Registrations | 0 |
-| Recommended Decision | **Hold** |
 
 ---
 
@@ -65,7 +53,7 @@ With no original indication on record, no predicted indications, and critical da
 **Decision: Hold**
 
 **Rationale:**
-The TxGNN pipeline could not generate any repurposing predictions for this multi-component query. Without a single active ingredient resolved to a DrugBank ID, the knowledge graph has no node to traverse, making all downstream scoring impossible.
+The TxGNN pipeline could not generate any repurposing predictions for this multi-component query.
 
 **To proceed, the following is needed:**
 

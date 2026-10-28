@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 991
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 monitor_inn: "OMADACYCLINE"
 predicted_indications: ["drug-induced osteoporosis", "orbital cellulitis", "post-infectious syndrome", "postinfectious vasculitis", "post-bacterial disorder", "ophthalmic herpes zoster", "otitis externa", "infective urethral stricture", "infection-related hemolytic uremic syndrome"]
 description: "Omadacycline: predicted new indication Drug-induced osteoporosis (evidence level L5). Approved use: Not recorded in the local data"

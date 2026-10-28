@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "FOLIC ACID"
 predicted_indications: ["biotin metabolic disease"]
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Folic Acid: predicted new indication Biotin metabolic disease (evidence level L5). Approved use: Vitamin deficiency disorder"
 ---
 

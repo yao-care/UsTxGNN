@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "MECLIZINE"
 predicted_indications: ["allergic urticaria", "common cold", "nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "cold urticaria"]
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Meclizine: predicted new indication Allergic urticaria (evidence level L5). Approved use: Central nervous system origin vertigo"
 ---
 

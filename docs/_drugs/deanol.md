@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "DEANOL"
 predicted_indications: ["insomnia (disease)"]
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Deanol: predicted new indication insomnia (evidence level L5). Approved use: Not recorded"
 ---
 

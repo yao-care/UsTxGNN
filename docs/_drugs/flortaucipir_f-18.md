@@ -6,7 +6,7 @@ title: Flortaucipir F-18
 parent: Known Uses Only (No New Predictions)
 nav_order: 711
 monitor_inn: "Flortaucipir F-18"
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-28
 description: "Flortaucipir F-18: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 indication_count: 0

@@ -3,7 +3,7 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 12 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 14 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>12 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>14 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,77 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (12)
+## Related News (14)
+
+### [Single dose of fast-acting psychedelic nasal spray shows promise for stubborn depression - Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxNS1dEeTN5QnAtTzVjbFpycWpIQXlMQzNQaFM0SHdTM0N3TEtkR25nTU9IR3ZaSWlFNkVjbVlrZzI5VEFkeTZSR29fZzJ5RjZwZTl4ZUwzc0ZQMFNodWFRN0loVXpCVVFqa09PMUI3enJIWXAxTEdqNzBsUUZnSC16b09DZw?oc=5)
+
+2026-10-28
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxNS1dEeTN5QnAtTzVjbFpycWpIQXlMQzNQaFM0SHdTM0N3TEtkR25nTU9IR3ZaSWlFNkVjbVlrZzI5VEFkeTZSR29fZzJ5RjZwZTl4ZUwzc0ZQMFNodWFRN0loVXpCVVFqa09PMUI3enJIWXAxTEdqNzBsUUZnSC16b09DZw?oc=5)
+
+---
+
+### [Scientists discover a hidden reason why muscles weaken with age - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1mWFdVZ1o0VkpLV2VHbUZRa25LRzJZVGtxUHZ3QmVaVUhyeXNvUVFhTXV0WFVWMU5zR05zNWVsRVR5M0JMQVBGZ2tRNC1fYUhadGlXa181SFNZUmg2SWcwOXBXYjJ1cFBZU25HcUp4MA?oc=5)
+
+2026-10-28
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1mWFdVZ1o0VkpLV2VHbUZRa25LRzJZVGtxUHZ3QmVaVUhyeXNvUVFhTXV0WFVWMU5zR05zNWVsRVR5M0JMQVBGZ2tRNC1fYUhadGlXa181SFNZUmg2SWcwOXBXYjJ1cFBZU25HcUp4MA?oc=5)
+
+---
+
+### [LSD and psilocybin push brain blood flow in opposite directions, study suggests - Medical Xpress](https://news.google.com/rss/articles/CBMiekFVX3lxTE45WU5KM1F2Y2NoNTU5SDl2STNaR1RkUWV6LTZ6TUt0OENwNkR2STZKcW1fZ0FjQjlnUmJhcTdCSkxrZjVGaVIyTkE0QU9oRk8xSTJzRFpjVjRZNlJFVUY3aHVXdHQzd3BjVWltaFZ2VElMaW5MYTQxdFVB?oc=5)
+
+2026-10-28
+
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiekFVX3lxTE45WU5KM1F2Y2NoNTU5SDl2STNaR1RkUWV6LTZ6TUt0OENwNkR2STZKcW1fZ0FjQjlnUmJhcTdCSkxrZjVGaVIyTkE0QU9oRk8xSTJzRFpjVjRZNlJFVUY3aHVXdHQzd3BjVWltaFZ2VElMaW5MYTQxdFVB?oc=5)
+
+---
+
+### [Weight-loss drug could help address nighttime sleep disruptions for millions - Fox News](https://news.google.com/rss/articles/CBMingFBVV95cUxPZWlxdV8xSE1JRktFM2NDNUJtSHg1QzVGd2Y5aEMyUW9rbTBGWEQ4VG95WXhrTW1IOW91aFVTVTdBb0RCeC1KQXpZb09oX2p5Z09hcFFCTllkRWtUMGZnUXRNdTN1a0Q0MWxfcVdMcXhDRU5OZTkwLXdmazNNVUtJRDc1TG1RY2dBQm1saVh4UXVRSkh2X1hSUmxjTUYtd9IBowFBVV95cUxOSy1hM3ZiVVZldDd5b3p4U1NxOUoza1JvRThvbm5ocXNoRVNCMGwxcUE1X0pvWFF5RnFBOTJPajRYVHNMZGRqZ1pRYlJoUTZOQWpmMzlkNVdBM3hneVBFNXBvMmN5RTNwRHBhUmtVSTB0SU1yMDFMdjhZOFVMeEQxWGQ5OW5HMTBnYUs1OE1aZDU5UDRfTHc2RkxabmhmZTRISXRZ?oc=5)
+
+2026-10-28
+
+Source: [Fox News](https://news.google.com/rss/articles/CBMingFBVV95cUxPZWlxdV8xSE1JRktFM2NDNUJtSHg1QzVGd2Y5aEMyUW9rbTBGWEQ4VG95WXhrTW1IOW91aFVTVTdBb0RCeC1KQXpZb09oX2p5Z09hcFFCTllkRWtUMGZnUXRNdTN1a0Q0MWxfcVdMcXhDRU5OZTkwLXdmazNNVUtJRDc1TG1RY2dBQm1saVh4UXVRSkh2X1hSUmxjTUYtd9IBowFBVV95cUxOSy1hM3ZiVVZldDd5b3p4U1NxOUoza1JvRThvbm5ocXNoRVNCMGwxcUE1X0pvWFF5RnFBOTJPajRYVHNMZGRqZ1pRYlJoUTZOQWpmMzlkNVdBM3hneVBFNXBvMmN5RTNwRHBhUmtVSTB0SU1yMDFMdjhZOFVMeEQxWGQ5OW5HMTBnYUs1OE1aZDU5UDRfTHc2RkxabmhmZTRISXRZ?oc=5)
+
+---
+
+### [A simple daily fiber supplement reduced arthritis pain and improved strength - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wd2JxT3p2RzlQZDVkTlYyX0JUQ0VsODRJcHh1NFNyNHRXRjNxMkxscmYxNURpOEZCZE0xLUJmajVIcnBYMkl1aWR2TUowN3pqOTVJYmhUM1k2bHltQUx1eFpJYXNPRTNvMzF4SUpkQQ?oc=5)
+
+2026-10-28
+
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE8wd2JxT3p2RzlQZDVkTlYyX0JUQ0VsODRJcHh1NFNyNHRXRjNxMkxscmYxNURpOEZCZE0xLUJmajVIcnBYMkl1aWR2TUowN3pqOTVJYmhUM1k2bHltQUx1eFpJYXNPRTNvMzF4SUpkQQ?oc=5)
+
+---
+
+### [Drinking Tea May Lower Your Risk of Vascular Disease – but There’s a Catch](https://news.google.com/rss/articles/CBMingFBVV95cUxOVEVhcWJyWkM1RF9zVjJ3THhwWFhEQnJvcHRaNEIzWl9LYXM5Q0xsMkJCYjRjbC1kRXh6akw3bW5kV00tU0o1aWdubDZLUHZLOURpdzN4TGh1UV83RWU2d3hrRXhZc2IzTW45NUJ1Yld0czlFQ2JCaVRsTThtanNkdGdzUG5rMDl6aW5CSDJSbWFRVWVMVVFwNVo3QzZsdw?oc=5)
+
+2026-10-27
+
+Source: [SciTechDaily](https://news.google.com/rss/articles/CBMingFBVV95cUxOVEVhcWJyWkM1RF9zVjJ3THhwWFhEQnJvcHRaNEIzWl9LYXM5Q0xsMkJCYjRjbC1kRXh6akw3bW5kV00tU0o1aWdubDZLUHZLOURpdzN4TGh1UV83RWU2d3hrRXhZc2IzTW45NUJ1Yld0czlFQ2JCaVRsTThtanNkdGdzUG5rMDl6aW5CSDJSbWFRVWVMVVFwNVo3QzZsdw?oc=5)
+
+---
+
+### [Mice With Parkinson's-Like Brain Changes Unexpectedly Recovered a Year Later](https://news.google.com/rss/articles/CBMipwFBVV95cUxQci1Lcl9iUGdEYzFReFR5elZ2SWpUQU9GZEhyYmowR0xCMjlxQUtTbjRLVmUza2Q5dVR3NDVxeWVKeFhxWWlmcmt0NDl0VXc5cHNWSHBTMEpXX3RmX1ZHMVRrUGhkVkVDd1ctdm0xb0VYNzQyN24xT1owX2s3aFB4T055dl9wTV9yTmgwZmVxcEc1T25ndXhkdW1vU1kwNzFkRjRkWkNybw?oc=5)
+
+2026-10-27
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMipwFBVV95cUxQci1Lcl9iUGdEYzFReFR5elZ2SWpUQU9GZEhyYmowR0xCMjlxQUtTbjRLVmUza2Q5dVR3NDVxeWVKeFhxWWlmcmt0NDl0VXc5cHNWSHBTMEpXX3RmX1ZHMVRrUGhkVkVDd1ctdm0xb0VYNzQyN24xT1owX2s3aFB4T055dl9wTV9yTmgwZmVxcEc1T25ndXhkdW1vU1kwNzFkRjRkWkNybw?oc=5)
+
+---
 
 ### [At 59, My Eyes Were Dry, Gritty, and Constantly Watering—Until I Tried This Simple, Doctor-Approved Trick](https://news.google.com/rss/articles/CBMilwFBVV95cUxNYWV1S3RPdlFJcnBjTVY4YkM1bVJ6OEVqTDlkcnB5aUdHLU4wOVpXQl8xUkRtOFBhOTNINXlQSXd4TmxBTDZ4YU83S015OVU1ODlxbEFXVkRYdU9QX0lDMnEzVTZ1S0JFZHRqQmxRN0piVU1BelE5Q1FQdXpWMU0zQkdfZDNuZUYwcER6bWg3dkdqYjRFM2JV?oc=5)
 
 2026-10-27
 
 Source: [Prevention](https://news.google.com/rss/articles/CBMilwFBVV95cUxNYWV1S3RPdlFJcnBjTVY4YkM1bVJ6OEVqTDlkcnB5aUdHLU4wOVpXQl8xUkRtOFBhOTNINXlQSXd4TmxBTDZ4YU83S015OVU1ODlxbEFXVkRYdU9QX0lDMnEzVTZ1S0JFZHRqQmxRN0piVU1BelE5Q1FQdXpWMU0zQkdfZDNuZUYwcER6bWg3dkdqYjRFM2JV?oc=5)
+
+---
+
+### [Colorectal cancer is surging in an unexpected group — and it’s ‘developing differently’ - New York Post](https://news.google.com/rss/articles/CBMikwFBVV95cUxPcEU4LTJ4UmpTNk5icmFUOVpmM0otRnNRU3FnOTE5QXlmN0JsUXpNRUVGYmd1REo2OWtUTVJfMkVtakM4cnhBSlRXTUhXOTlTeGRIM1N3ZlR6NlpNazM4MlQ5WmRFS1E3Mkl5d0ZpUmpOSzFINHZlR1I2MGJPcEZfTkdVV0NFTHFfei11c0tRcnk5Z0E?oc=5)
+
+2026-10-27
+
+Source: [New York Post](https://news.google.com/rss/articles/CBMikwFBVV95cUxPcEU4LTJ4UmpTNk5icmFUOVpmM0otRnNRU3FnOTE5QXlmN0JsUXpNRUVGYmd1REo2OWtUTVJfMkVtakM4cnhBSlRXTUhXOTlTeGRIM1N3ZlR6NlpNazM4MlQ5WmRFS1E3Mkl5d0ZpUmpOSzFINHZlR1I2MGJPcEZfTkdVV0NFTHFfei11c0tRcnk5Z0E?oc=5)
 
 ---
 
@@ -53,14 +117,6 @@ Source: [Gizmodo](https://news.google.com/rss/articles/CBMiygFBVV95cUxQU0ZMSlR4T
 
 ---
 
-### [Ancient armored bottom-feeder is first seagoing amphibian](https://news.google.com/rss/articles/CBMitAFBVV95cUxNNjBFdkF3TTVCTmJUeHRiT19xSGJhQ3NQbnRYY0UycU0tV3ZrbXBoRGxHbTBfZ0tRVVl0MDBYMXlaZHJTejZ2TkdoVlhFaV9NS3NvQnRaOGtPeGNmVnNiaUdkWFkwbkwzc3lrckl3eUFTUVhDMEFrMlFjbWJRZFhmMWg0M2pHaHE1TWVfbGxaVkVnSk5ud3UzZDFXNkFkeVhwV1pYWkt5NDlxdVBOcGs4b1RvcE0?oc=5)
-
-2026-10-27
-
-Source: [Reuters](https://news.google.com/rss/articles/CBMitAFBVV95cUxNNjBFdkF3TTVCTmJUeHRiT19xSGJhQ3NQbnRYY0UycU0tV3ZrbXBoRGxHbTBfZ0tRVVl0MDBYMXlaZHJTejZ2TkdoVlhFaV9NS3NvQnRaOGtPeGNmVnNiaUdkWFkwbkwzc3lrckl3eUFTUVhDMEFrMlFjbWJRZFhmMWg0M2pHaHE1TWVfbGxaVkVnSk5ud3UzZDFXNkFkeVhwV1pYWkt5NDlxdVBOcGs4b1RvcE0?oc=5)
-
----
-
 ### [Neurologists Reveal The Overlooked Signs Of Alzheimer's They Wish Everyone Knew](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVDBTN2JqN25ZOTROSncyaV9ud1h3ZmFmMlVsc25WYXJxcjQwU0J4R3FXTFo3R2x3WlFqWlpVVk9obUNjSUNhSEd3VmVXVHFST3JMdzVrTE8yUm1CWnM5YWs0RTN0RWlmeUNkZk5aMklZM2g3ZFNIZnh6a0FPZUppc19LUV9ONUhGV3p3bFVvWVZ1NU5uU3R2Wm9iamFxbXUt0gGmAUFVX3lxTE02R05VaFdSZENpZmF3djFzOXZCWF9uQ1B1VlpjWWJVZ3Z1LVhKei1HdjhTU3dYUk1vUHV5czB4VVYzbU9aeTNramNxZElOS3dWT3IzV0p4Y29FSlNsVjN4ek1USGVURXdmRlZ4S1lRV3pBaGZpbkgwOHpzZmlIQ1h5ZnBtUDdzMlJ0LU1zTmpXMFNuY2oyYVVpTkV0U0VaMk9sNHJHWFE?oc=5)
 
 2026-10-27
@@ -69,59 +125,19 @@ Source: [HuffPost](https://news.google.com/rss/articles/CBMioAFBVV95cUxNVDBTN2Jq
 
 ---
 
-### [Scientists produce less disruptive research as they age, but their breakthroughs are more likely to last](https://news.google.com/rss/articles/CBMif0FVX3lxTE1FdDVfbWFUdlV1eW5ucFRNLXFTeERIV3dzRmJuWkdrUm1nQUtYNUZFNmlqUEMwSThUOTVObm93YzQyX0pza196TFgxV2lBT3VueGtqZmttSkJpeW1wc2t0VGN0UHNCM0pGSkgwMEF4T01LRFlRRFNBb3BubmUya0E?oc=5)
+### [Scientists Just Connected 2 Types of Ultra-Processed Foods to Lower Colon Cancer Risk](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ1pXUWtGeGhaeXZKMmR0Qld2aVVnNExGUWVvdUp3YlgxYTJWd2VfakM1RU0wYkpTQlI0TEE2Q0hRWHY4Q3h1dzRjVjlYWmh3YkRoNmlPOWdKUGpIenNjdlhBcG5rbVRWTDYyMWFoRVZKSU8zcGRhNk1sSDRBRkxlcVRwVnNQSVFj?oc=5)
+
+2026-10-27
+
+Source: [EatingWell](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ1pXUWtGeGhaeXZKMmR0Qld2aVVnNExGUWVvdUp3YlgxYTJWd2VfakM1RU0wYkpTQlI0TEE2Q0hRWHY4Q3h1dzRjVjlYWmh3YkRoNmlPOWdKUGpIenNjdlhBcG5rbVRWTDYyMWFoRVZKSU8zcGRhNk1sSDRBRkxlcVRwVnNQSVFj?oc=5)
+
+---
+
+### [AI detects “invisible” signs of pancreatic cancer years before diagnosis - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE51T1h4YWVpam5oZE9WWGVkSjFuN1JiVGU3b0xnWE1IdXJwVkdBV0Rrb2FIY1U0N29FaU4yR2ZKT24zVTFxTWkzaHk4Ym5qeGxqU2stdTFMeEZnazhrMVNCVUVoT2FNSDhoU3ZUZGtHaw?oc=5)
 
 2026-10-26
 
-Source: [Phys.org](https://news.google.com/rss/articles/CBMif0FVX3lxTE1FdDVfbWFUdlV1eW5ucFRNLXFTeERIV3dzRmJuWkdrUm1nQUtYNUZFNmlqUEMwSThUOTVObm93YzQyX0pza196TFgxV2lBT3VueGtqZmttSkJpeW1wc2t0VGN0UHNCM0pGSkgwMEF4T01LRFlRRFNBb3BubmUya0E?oc=5)
-
----
-
-### [The Most Powerful Obesity Drug Yet Has a Hidden Benefit—and It Happens While You Sleep](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcFZaWlZOdjc4RlpqczRZV3ZsZFI2bHRQNVVrNzFlX1lEZ0FTbjZwSXh1dVMzdGNSZU9sdGh2dUl5RkxXb3cwaEZZdjA0MXJCTGw0UE5nVTRXTE4td0ZnNFdkR3hJVHpDV3VtWk5YVDU0UUJNTXVKYkd6SHc1b1FqMjRTVFJWb09YTk9RNVg5YWZZQUNtUjBnWnJldXBLLUF3RUNsa0JxRXhSTVZiZWhGU0tQUlYyWl9K?oc=5)
-
-2026-10-26
-
-Source: [Gizmodo](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcFZaWlZOdjc4RlpqczRZV3ZsZFI2bHRQNVVrNzFlX1lEZ0FTbjZwSXh1dVMzdGNSZU9sdGh2dUl5RkxXb3cwaEZZdjA0MXJCTGw0UE5nVTRXTE4td0ZnNFdkR3hJVHpDV3VtWk5YVDU0UUJNTXVKYkd6SHc1b1FqMjRTVFJWb09YTk9RNVg5YWZZQUNtUjBnWnJldXBLLUF3RUNsa0JxRXhSTVZiZWhGU0tQUlYyWl9K?oc=5)
-
----
-
-### [Nose Spray Made From Toad Venom Compound Quickly Eases Depression For Weeks in Clinical Trial](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMWU5RDBuUWN0QXcwOHFjdFBQMXozc29SNDlhZzlraTk4T0ZQNmJCZnhCUEdaVHhZQXYwRFRTWGpWdlZ5eHptZHFaVlFkR1JaQ0pVSGYyWEVTTUNiTUM0VFRWSG9nYXYtb05jNzBLeHJmRHphNmhaY2lLZWlqZlFGZ1lhSkZTZEE1UVZPaE5MV1pseXdvQ0FEOU9lMzUzdE9RdkNEc1d1M0hPelJvcXpONV9QQXFJbEExZzNmX0s0cWEyamM?oc=5)
-
-2026-10-26
-
-Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMWU5RDBuUWN0QXcwOHFjdFBQMXozc29SNDlhZzlraTk4T0ZQNmJCZnhCUEdaVHhZQXYwRFRTWGpWdlZ5eHptZHFaVlFkR1JaQ0pVSGYyWEVTTUNiTUM0VFRWSG9nYXYtb05jNzBLeHJmRHphNmhaY2lLZWlqZlFGZ1lhSkZTZEE1UVZPaE5MV1pseXdvQ0FEOU9lMzUzdE9RdkNEc1d1M0hPelJvcXpONV9QQXFJbEExZzNmX0s0cWEyamM?oc=5)
-
----
-
-### [Beyond cigarettes: Uncovering the causes of lung cancer in nonsmokers - The Washington Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxNd1dJVFd0X0lOTldCT2ZGNk83ajctdE12dmdodndXLUVnNWlPd2RzQjBZRV9iVFQzZFdROGFsSW5wMGthTFBVdHdlT0FxT2d6d191aUxDSmxzby02RlFmUGFfb1FhQ0RBUW9ERmc0cGUyQjgzaV8zREV0UDluVVBuZDdnNzVGQkR6TG1IREZpNzdrUlBoRU9rSzZZMVY0UWtpTFh2TV9BSXI2aUhU?oc=5)
-
-2026-10-23
-
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxNd1dJVFd0X0lOTldCT2ZGNk83ajctdE12dmdodndXLUVnNWlPd2RzQjBZRV9iVFQzZFdROGFsSW5wMGthTFBVdHdlT0FxT2d6d191aUxDSmxzby02RlFmUGFfb1FhQ0RBUW9ERmc0cGUyQjgzaV8zREV0UDluVVBuZDdnNzVGQkR6TG1IREZpNzdrUlBoRU9rSzZZMVY0UWtpTFh2TV9BSXI2aUhU?oc=5)
-
----
-
-### [Fruits and vegetables may be a better option to improve kidney disease outcomes](https://news.google.com/rss/articles/CBMixgFBVV95cUxQcnhLSl9GTFlqdFM0SG1jY0NPTHBpN1Q1Z29hN1BDTjJBbWsta2dwdXJnOS1KVS1COHZrRjlDMmxkZktOblNoYjdzbG02ZUtaTFEtaDhJV1BHRkpPbVlmQTVTbUx1eTdneXdBTXdXdldSaEQ4TUhnUkt1VGVGWHVOZW42cmNEcTFqYjdQTU5HZGtmMl9sOUJmaEFMek1lSkQzbUc2M2stSkw3Mk1YWEJ5eGhPY2Y1Z2dyZ0FXcW1ZMERlR0ZsUkE?oc=5)
-
-2026-10-23
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMixgFBVV95cUxQcnhLSl9GTFlqdFM0SG1jY0NPTHBpN1Q1Z29hN1BDTjJBbWsta2dwdXJnOS1KVS1COHZrRjlDMmxkZktOblNoYjdzbG02ZUtaTFEtaDhJV1BHRkpPbVlmQTVTbUx1eTdneXdBTXdXdldSaEQ4TUhnUkt1VGVGWHVOZW42cmNEcTFqYjdQTU5HZGtmMl9sOUJmaEFMek1lSkQzbUc2M2stSkw3Mk1YWEJ5eGhPY2Y1Z2dyZ0FXcW1ZMERlR0ZsUkE?oc=5)
-
----
-
-### [Psilocybin reshapes brain connections through distinct cellular pathways](https://news.google.com/rss/articles/CBMivAFBVV95cUxNMVhqeHpaSGRBZmljcFgtTWh6cGM3aThyS19UMEdTaVNWeWNRSUNfSjloVEVfWEk4VXNna1V4TWJEZ3hOelFHVldTdzRnT09fSkI4SXZ5bHZpQUJFVHpSWnM4Nmpkb0pwQWd3UlRLamtLLXVWVkdwb3FJZXoydDlzMDFLZWNFYXRhTlZWWE80emRTY0JlRU1NbjFFZTdYVlkydGJhNUFGRWVHTHFQWmtEakZvWTVVcWU0QU13YQ?oc=5)
-
-2026-10-23
-
-Source: [News-Medical](https://news.google.com/rss/articles/CBMivAFBVV95cUxNMVhqeHpaSGRBZmljcFgtTWh6cGM3aThyS19UMEdTaVNWeWNRSUNfSjloVEVfWEk4VXNna1V4TWJEZ3hOelFHVldTdzRnT09fSkI4SXZ5bHZpQUJFVHpSWnM4Nmpkb0pwQWd3UlRLamtLLXVWVkdwb3FJZXoydDlzMDFLZWNFYXRhTlZWWE80emRTY0JlRU1NbjFFZTdYVlkydGJhNUFGRWVHTHFQWmtEakZvWTVVcWU0QU13YQ?oc=5)
-
----
-
-### [Study links regular tea drinking to 11% lower vascular disease risk](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQXzVVWkhSU3ZFWHgyVmxNbWozcGtvc3NFalVmYnI5UVRqbTVVTmNKSWhrbndQUDI5YWg0cUdzS2RYZDVhMUxQTmo3Y3FEYzZwZzhBQUN2c3lOYnBsWVJRZzk0dkNrMUFmUVQ1TkxjLTVDeFNMYUl2S0ZuRnZVZENQUzQ4TGNQOC1qb0h30gGQAUFVX3lxTFBNUEJFX0ZXbmNsT1lpSHdUcDV0cTJZT1BySTlqa09KSmJxWktQdmd5emI5NG95WTJHRU8xN19qYmtDUldoOEJCWEpaV1JCdFlMTUJqVzYxdlc2SXh3UUExek14aW5WMnRlZnk0RVc2ZlJaN1hSZ29MVTZsMFVqZ285UzVxNFNvYzdWU2Q0cjN3dw?oc=5)
-
-2026-10-22
-
-Source: [NewsNation](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQXzVVWkhSU3ZFWHgyVmxNbWozcGtvc3NFalVmYnI5UVRqbTVVTmNKSWhrbndQUDI5YWg0cUdzS2RYZDVhMUxQTmo3Y3FEYzZwZzhBQUN2c3lOYnBsWVJRZzk0dkNrMUFmUVQ1TkxjLTVDeFNMYUl2S0ZuRnZVZENQUzQ4TGNQOC1qb0h30gGQAUFVX3lxTFBNUEJFX0ZXbmNsT1lpSHdUcDV0cTJZT1BySTlqa09KSmJxWktQdmd5emI5NG95WTJHRU8xN19qYmtDUldoOEJCWEpaV1JCdFlMTUJqVzYxdlc2SXh3UUExek14aW5WMnRlZnk0RVc2ZlJaN1hSZ29MVTZsMFVqZ285UzVxNFNvYzdWU2Q0cjN3dw?oc=5)
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE51T1h4YWVpam5oZE9WWGVkSjFuN1JiVGU3b0xnWE1IdXJwVkdBV0Rrb2FIY1U0N29FaU4yR2ZKT24zVTFxTWkzaHk4Ym5qeGxqU2stdTFMeEZnazhrMVNCVUVoT2FNSDhoU3ZUZGtHaw?oc=5)
 
 ---
 

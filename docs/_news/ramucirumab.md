@@ -3,7 +3,7 @@ layout: default
 title: "Ramucirumab News"
 parent: Health News
 nav_exclude: true
-description: "Health news related to Ramucirumab. 1 predicted indications."
+description: "Health news related to Ramucirumab. 10 predicted indications."
 permalink: /news/ramucirumab/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="What news is there about Ramucirumab?">
-<strong>Ramucirumab</strong> currently has <strong>7 news articles</strong>, with 1 predicted indications.
+<strong>Ramucirumab</strong> currently has <strong>8 news articles</strong>, with 10 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -26,36 +26,53 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 <strong>Drug Information</strong>
 <ul>
 <li><strong>Evidence level</strong>: L5</li>
-<li><strong>Predicted indications (1)</strong>:<ul>
-<li>Uterine ligament adenocarcinoma</li>
+<li><strong>Predicted indications (10)</strong>:<ul>
+<li>uterine ligament adenocarcinoma</li>
+<li>endocervical carcinoma</li>
+<li>adenoid cystic carcinoma of the cervix uteri</li>
+<li>uterine ligament serous adenocarcinoma</li>
+<li>signet ring cell variant cervical mucinous adenocarcinoma</li>
+<li>cervical adenosquamous carcinoma, glassy cell variant</li>
+<li>uterine ligament endometrioid adenocarcinoma</li>
+<li>uterine ligament clear cell adenocarcinoma</li>
+<li>uterine ligament mucinous adenocarcinoma</li>
+<li>intestinal variant cervical mucinous adenocarcinoma</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ramucirumab/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (7)
+## Related News (8)
 
-### [A 32-year-old woman with intense nausea was told she was ‘too young’ for colon cancer. She was diagnosed at stage 3.](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNDdsQUJwMW1KRjQ1eHlEbWpUeXZSWjBwYm8wV05NWU44ZGNnck8xRXRyUmNGTHN6WktFX3V5VDRxdkhTY2MxMmo0WFdTclRESHZGeWRDX1M4Z19xbzFxUGJjMldCempMUnh5YXc1VmFBWlIwd0oxcHBJMldJMHdCR0hZOWN0NTM3VFNV?oc=5)
+### [She took birth control for acne. It started ‘feeding’ a hidden cancer - USA Today](https://news.google.com/rss/articles/CBMirAFBVV95cUxOTkx3Vk12aVpud1E0TVVGQ0Vqa0FDa0hRVG9EZVpHMG53YWRqUi1HT3k3ZjZucnNlMGxJRXFfTHNkOE14M3NvaVI5U2FDRFFfN0JnY3p2TjFCT1o2cTdIMVFqWnNOY25sUkVTaUFfWGNhelAyOW1KMFBHRG1Ybm5LeDZhTkN5LS1vbGpRQ1dHQTRuLS1vajdiYWdQaHhWQXd6RmZqUlB5aXJlWThO?oc=5)
+
+2026-10-28 <span class="news-indication-tag">cancer</span>
+
+Source: [USA Today](https://news.google.com/rss/articles/CBMirAFBVV95cUxOTkx3Vk12aVpud1E0TVVGQ0Vqa0FDa0hRVG9EZVpHMG53YWRqUi1HT3k3ZjZucnNlMGxJRXFfTHNkOE14M3NvaVI5U2FDRFFfN0JnY3p2TjFCT1o2cTdIMVFqWnNOY25sUkVTaUFfWGNhelAyOW1KMFBHRG1Ybm5LeDZhTkN5LS1vbGpRQ1dHQTRuLS1vajdiYWdQaHhWQXd6RmZqUlB5aXJlWThO?oc=5)
+
+---
+
+### [32-Year-Old Woman With With Colon Cancer Was Told She Was 'Too Young' - Business Insider](https://news.google.com/rss/articles/CBMikwFBVV95cUxPQUllbVo1NEhfd0hla2p3Wl8wNGJVWGIyX3Q4NGpqanotemZNQWg4WnA2ZlU5VGFTZ0NpRnVzM1J6SHpIaDNrTU9pbjgtQ0Y3SFJtUGRPVmp0MTEwM2ptaDN5TG44RmRRVkhlempfaW5xZGMtVTlkd0xxS1dRNGpYYlNpZTRfRkJ1eDgyc2d2SWY0eGc?oc=5)
 
 2026-10-27 <span class="news-indication-tag">cancer</span>
 
-Source: [Yahoo](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNDdsQUJwMW1KRjQ1eHlEbWpUeXZSWjBwYm8wV05NWU44ZGNnck8xRXRyUmNGTHN6WktFX3V5VDRxdkhTY2MxMmo0WFdTclRESHZGeWRDX1M4Z19xbzFxUGJjMldCempMUnh5YXc1VmFBWlIwd0oxcHBJMldJMHdCR0hZOWN0NTM3VFNV?oc=5)
+Source: [Business Insider](https://news.google.com/rss/articles/CBMikwFBVV95cUxPQUllbVo1NEhfd0hla2p3Wl8wNGJVWGIyX3Q4NGpqanotemZNQWg4WnA2ZlU5VGFTZ0NpRnVzM1J6SHpIaDNrTU9pbjgtQ0Y3SFJtUGRPVmp0MTEwM2ptaDN5TG44RmRRVkhlempfaW5xZGMtVTlkd0xxS1dRNGpYYlNpZTRfRkJ1eDgyc2d2SWY0eGc?oc=5)
 
 ---
 
 ### [Colorectal cancer is surging in an unexpected group — and it’s ‘developing differently’ - New York Post](https://news.google.com/rss/articles/CBMikwFBVV95cUxPcEU4LTJ4UmpTNk5icmFUOVpmM0otRnNRU3FnOTE5QXlmN0JsUXpNRUVGYmd1REo2OWtUTVJfMkVtakM4cnhBSlRXTUhXOTlTeGRIM1N3ZlR6NlpNazM4MlQ5WmRFS1E3Mkl5d0ZpUmpOSzFINHZlR1I2MGJPcEZfTkdVV0NFTHFfei11c0tRcnk5Z0E?oc=5)
 
-2026-10-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">RA</span>
+2026-10-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
 Source: [New York Post](https://news.google.com/rss/articles/CBMikwFBVV95cUxPcEU4LTJ4UmpTNk5icmFUOVpmM0otRnNRU3FnOTE5QXlmN0JsUXpNRUVGYmd1REo2OWtUTVJfMkVtakM4cnhBSlRXTUhXOTlTeGRIM1N3ZlR6NlpNazM4MlQ5WmRFS1E3Mkl5d0ZpUmpOSzFINHZlR1I2MGJPcEZfTkdVV0NFTHFfei11c0tRcnk5Z0E?oc=5)
 
 ---
 
-### [20 Breast Cancer Survivors Share The Early Warning Signs They Experienced](https://news.google.com/rss/articles/CBMikgFBVV95cUxQMUZsWWRFcHE2X0l3Q3EtMU52OElSckY3SWRkeXp4Q082NEpTb2UyU1NiWVBoQklFUUZBT3c0R2E4TDAyTmpwZEx4dnczd29MWXZ5a1c2ZFJOWGlKUFJHb0F0R1ZTUDhheFVMVkh3M0lSd24zZEJOaG5yR0NVWjUxSVI3SnBKc2ZwdUtSWkNaTDV3UQ?oc=5)
+### [Scientists Just Connected 2 Types of Ultra-Processed Foods to Lower Colon Cancer Risk](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ1pXUWtGeGhaeXZKMmR0Qld2aVVnNExGUWVvdUp3YlgxYTJWd2VfakM1RU0wYkpTQlI0TEE2Q0hRWHY4Q3h1dzRjVjlYWmh3YkRoNmlPOWdKUGpIenNjdlhBcG5rbVRWTDYyMWFoRVZKSU8zcGRhNk1sSDRBRkxlcVRwVnNQSVFj?oc=5)
 
-2026-10-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span>
+2026-10-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
-Source: [Yahoo](https://news.google.com/rss/articles/CBMikgFBVV95cUxQMUZsWWRFcHE2X0l3Q3EtMU52OElSckY3SWRkeXp4Q082NEpTb2UyU1NiWVBoQklFUUZBT3c0R2E4TDAyTmpwZEx4dnczd29MWXZ5a1c2ZFJOWGlKUFJHb0F0R1ZTUDhheFVMVkh3M0lSd24zZEJOaG5yR0NVWjUxSVI3SnBKc2ZwdUtSWkNaTDV3UQ?oc=5)
+Source: [EatingWell](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ1pXUWtGeGhaeXZKMmR0Qld2aVVnNExGUWVvdUp3YlgxYTJWd2VfakM1RU0wYkpTQlI0TEE2Q0hRWHY4Q3h1dzRjVjlYWmh3YkRoNmlPOWdKUGpIenNjdlhBcG5rbVRWTDYyMWFoRVZKSU8zcGRhNk1sSDRBRkxlcVRwVnNQSVFj?oc=5)
 
 ---
 
@@ -75,17 +92,17 @@ Source: [Futurity](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oMGtYVHZ0
 
 ---
 
-### [Breast cancer early warning signs: 5 subtle changes women should never ignore, even if there is no pain - The Times of India](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNS2w4Y1RWTnRpZjJnT0NSYzJOZ3h1TFU2LS1jVVBkQ0xjWlFPQWdyNFp3QUFqcHI5a213S2t3VThnMzh5MDVVandYUGZnUUQxV3NsM2Y0MW9wWnhoN1VFeUhLa0VCUkl3c3U0dERGS210R0pfNGF3dlc2OUZyS3lndERsVjEyTUZOOWsxUEJXdW45akE5UlZ4M0VCODB4dzVMLXllRlVMWWZGMVljV2xHeTk3QVFuMUJmNWtNZ2VEOU1Xd0F6aElQNTZsWlUtY2VTaW11cGFHM1FXaG9ZWE1RSy03UktDcUFid3NPdHRxTlJRNXVUUHk0dW05MTdnTTjSAYQCQVVfeXFMTlpzWXdNTE9WbGh2RVVYRTJtQXVzTHpyZG5TajlUNDNVTnVEb2ZPbzJScDlZdjE4MkJSVGdYLTk5NEdaUE1DSmhkSUF3NXFCamdxQWd0Nzd1RnlSODNySGtVZ3F4c2pUR3kxcDVjMmJyYTN6a3FNcVlfUVlxZXdWWHdJaXgtQm1hUVJxcHhWa0s0ZDY2aU55SFZGTzVXQ0Y4enV4UHBOQjBuSllIalZZa0Z6NDlESUNBNkJtQ3VzOHZWTlc4MWdCb1FiT1ZuTFRSc3ZySm1ZeTdEMkM2TktHN2VhRjM1Y3AtZTdaeVc4T0lrbjU2THZjMUxUSlNLN0JTUXk5UE4?oc=5)
+### [AI detects “invisible” signs of pancreatic cancer years before diagnosis - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE51T1h4YWVpam5oZE9WWGVkSjFuN1JiVGU3b0xnWE1IdXJwVkdBV0Rrb2FIY1U0N29FaU4yR2ZKT24zVTFxTWkzaHk4Ym5qeGxqU2stdTFMeEZnazhrMVNCVUVoT2FNSDhoU3ZUZGtHaw?oc=5)
 
-2026-10-25 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+2026-10-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">UC</span>
 
-Source: [The Times of India](https://news.google.com/rss/articles/CBMi_wFBVV95cUxNS2w4Y1RWTnRpZjJnT0NSYzJOZ3h1TFU2LS1jVVBkQ0xjWlFPQWdyNFp3QUFqcHI5a213S2t3VThnMzh5MDVVandYUGZnUUQxV3NsM2Y0MW9wWnhoN1VFeUhLa0VCUkl3c3U0dERGS210R0pfNGF3dlc2OUZyS3lndERsVjEyTUZOOWsxUEJXdW45akE5UlZ4M0VCODB4dzVMLXllRlVMWWZGMVljV2xHeTk3QVFuMUJmNWtNZ2VEOU1Xd0F6aElQNTZsWlUtY2VTaW11cGFHM1FXaG9ZWE1RSy03UktDcUFid3NPdHRxTlJRNXVUUHk0dW05MTdnTTjSAYQCQVVfeXFMTlpzWXdNTE9WbGh2RVVYRTJtQXVzTHpyZG5TajlUNDNVTnVEb2ZPbzJScDlZdjE4MkJSVGdYLTk5NEdaUE1DSmhkSUF3NXFCamdxQWd0Nzd1RnlSODNySGtVZ3F4c2pUR3kxcDVjMmJyYTN6a3FNcVlfUVlxZXdWWHdJaXgtQm1hUVJxcHhWa0s0ZDY2aU55SFZGTzVXQ0Y4enV4UHBOQjBuSllIalZZa0Z6NDlESUNBNkJtQ3VzOHZWTlc4MWdCb1FiT1ZuTFRSc3ZySm1ZeTdEMkM2TktHN2VhRjM1Y3AtZTdaeVc4T0lrbjU2THZjMUxUSlNLN0JTUXk5UE4?oc=5)
+Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE51T1h4YWVpam5oZE9WWGVkSjFuN1JiVGU3b0xnWE1IdXJwVkdBV0Rrb2FIY1U0N29FaU4yR2ZKT24zVTFxTWkzaHk4Ym5qeGxqU2stdTFMeEZnazhrMVNCVUVoT2FNSDhoU3ZUZGtHaw?oc=5)
 
 ---
 
 ### [Beyond cigarettes: Uncovering the causes of lung cancer in nonsmokers - The Washington Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxNd1dJVFd0X0lOTldCT2ZGNk83ajctdE12dmdodndXLUVnNWlPd2RzQjBZRV9iVFQzZFdROGFsSW5wMGthTFBVdHdlT0FxT2d6d191aUxDSmxzby02RlFmUGFfb1FhQ0RBUW9ERmc0cGUyQjgzaV8zREV0UDluVVBuZDdnNzVGQkR6TG1IREZpNzdrUlBoRU9rSzZZMVY0UWtpTFh2TV9BSXI2aUhU?oc=5)
 
-2026-10-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">UC</span>
+2026-10-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
 
 Source: [The Washington Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxNd1dJVFd0X0lOTldCT2ZGNk83ajctdE12dmdodndXLUVnNWlPd2RzQjBZRV9iVFQzZFdROGFsSW5wMGthTFBVdHdlT0FxT2d6d191aUxDSmxzby02RlFmUGFfb1FhQ0RBUW9ERmc0cGUyQjgzaV8zREV0UDluVVBuZDdnNzVGQkR6TG1IREZpNzdrUlBoRU9rSzZZMVY0UWtpTFh2TV9BSXI2aUhU?oc=5)
 

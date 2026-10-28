@@ -32,27 +32,27 @@ This page brings together the latest health news about “CAD” and lists the d
 
 ## Related News (3)
 
+### [Chemical Industry Has Known Risks of Microplastics for Decades](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT0lhUl9uTUtMeHpYMTBjVVJ5Nm40cWhONmVlYlFXcHA3UXg3cU1GNF85NWZWMS1vb2xzYVNUYVJ5bk8teXpIVVM5TkFlOEViMFV6TEVvSU5GUUowMTF1Z0J6U1FjWDl5d2hodlhFcmdGcXktVWtTS0RrSmtObGE2NVVMWGhmY1lWR3RCVHVYWnU4NDNnbEVxOWNHRU9CMGJaV19HZXBIYkpDZWkydkdRcXlpRGk0b1NWOThJ?oc=5)
+
+2026-10-28
+
+Source: [Gizmodo](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT0lhUl9uTUtMeHpYMTBjVVJ5Nm40cWhONmVlYlFXcHA3UXg3cU1GNF85NWZWMS1vb2xzYVNUYVJ5bk8teXpIVVM5TkFlOEViMFV6TEVvSU5GUUowMTF1Z0J6U1FjWDl5d2hodlhFcmdGcXktVWtTS0RrSmtObGE2NVVMWGhmY1lWR3RCVHVYWnU4NDNnbEVxOWNHRU9CMGJaV19HZXBIYkpDZWkydkdRcXlpRGk0b1NWOThJ?oc=5)
+
+---
+
+### [Drinking Tea May Lower Your Risk of Vascular Disease – but There’s a Catch](https://news.google.com/rss/articles/CBMingFBVV95cUxOVEVhcWJyWkM1RF9zVjJ3THhwWFhEQnJvcHRaNEIzWl9LYXM5Q0xsMkJCYjRjbC1kRXh6akw3bW5kV00tU0o1aWdubDZLUHZLOURpdzN4TGh1UV83RWU2d3hrRXhZc2IzTW45NUJ1Yld0czlFQ2JCaVRsTThtanNkdGdzUG5rMDl6aW5CSDJSbWFRVWVMVVFwNVo3QzZsdw?oc=5)
+
+2026-10-27
+
+Source: [SciTechDaily](https://news.google.com/rss/articles/CBMingFBVV95cUxOVEVhcWJyWkM1RF9zVjJ3THhwWFhEQnJvcHRaNEIzWl9LYXM5Q0xsMkJCYjRjbC1kRXh6akw3bW5kV00tU0o1aWdubDZLUHZLOURpdzN4TGh1UV83RWU2d3hrRXhZc2IzTW45NUJ1Yld0czlFQ2JCaVRsTThtanNkdGdzUG5rMDl6aW5CSDJSbWFRVWVMVVFwNVo3QzZsdw?oc=5)
+
+---
+
 ### [Colorectal cancer is surging in an unexpected group — and it’s ‘developing differently’ - New York Post](https://news.google.com/rss/articles/CBMikwFBVV95cUxPcEU4LTJ4UmpTNk5icmFUOVpmM0otRnNRU3FnOTE5QXlmN0JsUXpNRUVGYmd1REo2OWtUTVJfMkVtakM4cnhBSlRXTUhXOTlTeGRIM1N3ZlR6NlpNazM4MlQ5WmRFS1E3Mkl5d0ZpUmpOSzFINHZlR1I2MGJPcEZfTkdVV0NFTHFfei11c0tRcnk5Z0E?oc=5)
 
 2026-10-27
 
 Source: [New York Post](https://news.google.com/rss/articles/CBMikwFBVV95cUxPcEU4LTJ4UmpTNk5icmFUOVpmM0otRnNRU3FnOTE5QXlmN0JsUXpNRUVGYmd1REo2OWtUTVJfMkVtakM4cnhBSlRXTUhXOTlTeGRIM1N3ZlR6NlpNazM4MlQ5WmRFS1E3Mkl5d0ZpUmpOSzFINHZlR1I2MGJPcEZfTkdVV0NFTHFfei11c0tRcnk5Z0E?oc=5)
-
----
-
-### [Cardiovascular Health in Girls and Women Compendium](https://news.google.com/rss/articles/CBMinwFBVV95cUxNT0tteDZoNDNHcHFZaHVXWVNTS0VhWWxLVTVleTlvZFU1Z0VjdVZsNXBPZDZyYUVkSTZCMGdkNXNSUmNPc05zTXVSZm44bGNBM1hVaXRPbVFoTF9qbkhVSWJkRll0ODZXVkQtQnhEMEVNVGV1UGI4VGhkVWNka0dDWlVCRkFSTzNVVVVyUlVvQkpXdllCaEtkV2NuRmlxcFE?oc=5)
-
-2026-10-26
-
-Source: [professional.heart.org](https://news.google.com/rss/articles/CBMinwFBVV95cUxNT0tteDZoNDNHcHFZaHVXWVNTS0VhWWxLVTVleTlvZFU1Z0VjdVZsNXBPZDZyYUVkSTZCMGdkNXNSUmNPc05zTXVSZm44bGNBM1hVaXRPbVFoTF9qbkhVSWJkRll0ODZXVkQtQnhEMEVNVGV1UGI4VGhkVWNka0dDWlVCRkFSTzNVVVVyUlVvQkpXdllCaEtkV2NuRmlxcFE?oc=5)
-
----
-
-### [Study links regular tea drinking to 11% lower vascular disease risk](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQXzVVWkhSU3ZFWHgyVmxNbWozcGtvc3NFalVmYnI5UVRqbTVVTmNKSWhrbndQUDI5YWg0cUdzS2RYZDVhMUxQTmo3Y3FEYzZwZzhBQUN2c3lOYnBsWVJRZzk0dkNrMUFmUVQ1TkxjLTVDeFNMYUl2S0ZuRnZVZENQUzQ4TGNQOC1qb0h30gGQAUFVX3lxTFBNUEJFX0ZXbmNsT1lpSHdUcDV0cTJZT1BySTlqa09KSmJxWktQdmd5emI5NG95WTJHRU8xN19qYmtDUldoOEJCWEpaV1JCdFlMTUJqVzYxdlc2SXh3UUExek14aW5WMnRlZnk0RVc2ZlJaN1hSZ29MVTZsMFVqZ285UzVxNFNvYzdWU2Q0cjN3dw?oc=5)
-
-2026-10-22
-
-Source: [NewsNation](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQXzVVWkhSU3ZFWHgyVmxNbWozcGtvc3NFalVmYnI5UVRqbTVVTmNKSWhrbndQUDI5YWg0cUdzS2RYZDVhMUxQTmo3Y3FEYzZwZzhBQUN2c3lOYnBsWVJRZzk0dkNrMUFmUVQ1TkxjLTVDeFNMYUl2S0ZuRnZVZENQUzQ4TGNQOC1qb0h30gGQAUFVX3lxTFBNUEJFX0ZXbmNsT1lpSHdUcDV0cTJZT1BySTlqa09KSmJxWktQdmd5emI5NG95WTJHRU8xN19qYmtDUldoOEJCWEpaV1JCdFlMTUJqVzYxdlc2SXh3UUExek14aW5WMnRlZnk0RVc2ZlJaN1hSZ29MVTZsMFVqZ285UzVxNFNvYzdWU2Q0cjN3dw?oc=5)
 
 ---
 

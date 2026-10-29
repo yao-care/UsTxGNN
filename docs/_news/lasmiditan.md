@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Lasmiditan. 2 predicted indications."
 permalink: /news/lasmiditan/
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 ---
 
 # Lasmiditan News
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="What news is there about Lasmiditan?">
-<strong>Lasmiditan</strong> currently has <strong>28 news articles</strong>, with 2 predicted indications.
+<strong>Lasmiditan</strong> currently has <strong>31 news articles</strong>, with 2 predicted indications.
 </p>
 
 <div class="key-takeaway">
@@ -34,13 +34,37 @@ This page combines the AI-predicted indications for Lasmiditan with the latest h
 <p><a href="{{ '/drugs/lasmiditan/' | relative_url }}">View full drug report →</a></p>
 </div>
 
-## Related News (28)
+## Related News (31)
 
-### [Possible new dwarf planet identified orbiting beyond Pluto](https://news.google.com/rss/articles/CBMipAFBVV95cUxNSFRhSHg1cTFvRXlsbjFTQlJDRXl1NlktV1lPTzl2ek9TYWhEX2pwcklrOVhyOTJXTnFlNFdYQlJXMEJzWmVwNXJJMURwdDduSzZ0bjFsUmhud1N1MzdHbjVuOFlsNnJZY0Q2MjRvWEFZN3dYX2ZzS29HalZremZ2Sk9pcVFZZVZPR0UtMFJ0ODJjVDVXTF8wZ05GMHBkUE1tYVRZUg?oc=5)
+### [These 1970s Kids Had to Stay in School For 1 Year Longer. Decades Later, The Results Are Dramatic.](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVTZiSGNzM0pSOVZpRVlsWEt3YUpsTkFEcmVWMjlPYTNudnMwZWZ4VjBPbEgwQVVEM2dyc1czMEZndUhvWTV0ZnNEZld4SHc4dklZQlNNcDVyNTRZU0lfaWRBWEh0bHByTDFxcjdGcURvazFQQkd5Z3ZOYnUtSUZMTTE5UzZoRnFnNUdlZDYzZU1VZGlzdDlDU0djenFYSWk0MGJfN1N2SUhfckFFLVR3a3BNUWZqeXk5blFURnZWUTduZw?oc=5)
 
-2026-10-28 <span class="news-indication-tag">MI</span>
+2026-10-29 <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
-Source: [Reuters](https://news.google.com/rss/articles/CBMipAFBVV95cUxNSFRhSHg1cTFvRXlsbjFTQlJDRXl1NlktV1lPTzl2ek9TYWhEX2pwcklrOVhyOTJXTnFlNFdYQlJXMEJzWmVwNXJJMURwdDduSzZ0bjFsUmhud1N1MzdHbjVuOFlsNnJZY0Q2MjRvWEFZN3dYX2ZzS29HalZremZ2Sk9pcVFZZVZPR0UtMFJ0ODJjVDVXTF8wZ05GMHBkUE1tYVRZUg?oc=5)
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVTZiSGNzM0pSOVZpRVlsWEt3YUpsTkFEcmVWMjlPYTNudnMwZWZ4VjBPbEgwQVVEM2dyc1czMEZndUhvWTV0ZnNEZld4SHc4dklZQlNNcDVyNTRZU0lfaWRBWEh0bHByTDFxcjdGcURvazFQQkd5Z3ZOYnUtSUZMTTE5UzZoRnFnNUdlZDYzZU1VZGlzdDlDU0djenFYSWk0MGJfN1N2SUhfckFFLVR3a3BNUWZqeXk5blFURnZWUTduZw?oc=5)
+
+---
+
+### [Perinatal elimination of genetically aberrant human cortical neurons](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QMFkwaVp5Z3FmQkxmY29vUkM1a3ByOGFnQld5bkdzMTdJandsVy1PUEhWV0JhRHJpYU1udk1sdW1yWkZCaWFSaHl0ZHVDYnRPVXBTd2lvRFVJcG0wSUFR?oc=5)
+
+2026-10-28 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QMFkwaVp5Z3FmQkxmY29vUkM1a3ByOGFnQld5bkdzMTdJandsVy1PUEhWV0JhRHJpYU1udk1sdW1yWkZCaWFSaHl0ZHVDYnRPVXBTd2lvRFVJcG0wSUFR?oc=5)
+
+---
+
+### [Rare and common genetic variants shape single-cell immune gene expression](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiZXBudTczV192Y2ZoM19vVkk5ZW9nZkdaNUpna0I1TUtNZHZpeV92RWVmZGYxcUNhZU56UmRTSnplbllpWEhRRjlZdHExakttSW9GSUxDV3B1Z1RpWFFV?oc=5)
+
+2026-10-28 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBiZXBudTczV192Y2ZoM19vVkk5ZW9nZkdaNUpna0I1TUtNZHZpeV92RWVmZGYxcUNhZU56UmRTSnplbllpWEhRRjlZdHExakttSW9GSUxDV3B1Z1RpWFFV?oc=5)
+
+---
+
+### [MCT1-dependent mitochondrial lactate import sustains cardiac metabolism](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QLXdlRjFScGJTNHY5Q0s3VTNBRzRIeWFpNklYUzZMYUQ5WndTcG5lTmcya1JtNTRXZVU4V3NKRnp3MUowTHFGMEJyMGVUa19mNklock9QallHVTl6RGNF?oc=5)
+
+2026-10-28 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+
+Source: [Nature](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QLXdlRjFScGJTNHY5Q0s3VTNBRzRIeWFpNklYUzZMYUQ5WndTcG5lTmcya1JtNTRXZVU4V3NKRnp3MUowTHFGMEJyMGVUa19mNklock9QallHVTl6RGNF?oc=5)
 
 ---
 
@@ -52,14 +76,6 @@ Source: [SFGATE](https://news.google.com/rss/articles/CBMiggFBVV95cUxOTUxpVl9maH
 
 ---
 
-### [Chemical Industry Has Known Risks of Microplastics for Decades](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT0lhUl9uTUtMeHpYMTBjVVJ5Nm40cWhONmVlYlFXcHA3UXg3cU1GNF85NWZWMS1vb2xzYVNUYVJ5bk8teXpIVVM5TkFlOEViMFV6TEVvSU5GUUowMTF1Z0J6U1FjWDl5d2hodlhFcmdGcXktVWtTS0RrSmtObGE2NVVMWGhmY1lWR3RCVHVYWnU4NDNnbEVxOWNHRU9CMGJaV19HZXBIYkpDZWkydkdRcXlpRGk0b1NWOThJ?oc=5)
-
-2026-10-28 <span class="news-indication-tag">CAD</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
-
-Source: [Gizmodo](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT0lhUl9uTUtMeHpYMTBjVVJ5Nm40cWhONmVlYlFXcHA3UXg3cU1GNF85NWZWMS1vb2xzYVNUYVJ5bk8teXpIVVM5TkFlOEViMFV6TEVvSU5GUUowMTF1Z0J6U1FjWDl5d2hodlhFcmdGcXktVWtTS0RrSmtObGE2NVVMWGhmY1lWR3RCVHVYWnU4NDNnbEVxOWNHRU9CMGJaV19HZXBIYkpDZWkydkdRcXlpRGk0b1NWOThJ?oc=5)
-
----
-
 ### [Single dose of fast-acting psychedelic nasal spray shows promise for stubborn depression - Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxNS1dEeTN5QnAtTzVjbFpycWpIQXlMQzNQaFM0SHdTM0N3TEtkR25nTU9IR3ZaSWlFNkVjbVlrZzI5VEFkeTZSR29fZzJ5RjZwZTl4ZUwzc0ZQMFNodWFRN0loVXpCVVFqa09PMUI3enJIWXAxTEdqNzBsUUZnSC16b09DZw?oc=5)
 
 2026-10-28 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
@@ -68,11 +84,11 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxNS1
 
 ---
 
-### [NASA rover detects ultrafine dust particles on Mars](https://news.google.com/rss/articles/CBMilwFBVV95cUxNNHRWaTYtaU1YWV9FMW1jWmx4NmNPaXQwVkpWLXZoektyQ2RqVnZBVl9Ya0YxUXlqVm00SVdROU4yQ0VHMnowRHBIOGljM2NCakQ5ZHVyTXFEdmhmRTJVa1hyYnRNZ1lqY3dDX0Y2SkcyMTE3RnFvWVBYVktzb0VFZUJpMXJWVlZ0RXFYVjhxWlE3NUhMeW1N?oc=5)
+### [The 3 public health threats that scare Michael Osterholm most—and 4 bonus frights](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZkJEZkVXN3E2aURPR1V2X2JCcjZmTE1zYjlvZUJrTnlkbGc4VVNlODg2SENfU3FjdWdnbWdBUjUxS3VQb1BWblgyZ1ZSck1IaHktQ0hlbWxRTjEyT1hlZGpjT2hxNHdBX0Q4TUhFT20yajhjYlVxUTM0c2VKLUpUQUo3WnB1OGFTTGI5RktHZVdycWZqZ0R1TFZnVk55OW40NFJUakpZbmxMMzc2TFhrS1JoQzV3OTdp?oc=5)
 
 2026-10-28 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
 
-Source: [Reuters](https://news.google.com/rss/articles/CBMilwFBVV95cUxNNHRWaTYtaU1YWV9FMW1jWmx4NmNPaXQwVkpWLXZoektyQ2RqVnZBVl9Ya0YxUXlqVm00SVdROU4yQ0VHMnowRHBIOGljM2NCakQ5ZHVyTXFEdmhmRTJVa1hyYnRNZ1lqY3dDX0Y2SkcyMTE3RnFvWVBYVktzb0VFZUJpMXJWVlZ0RXFYVjhxWlE3NUhMeW1N?oc=5)
+Source: [CIDRAP](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZkJEZkVXN3E2aURPR1V2X2JCcjZmTE1zYjlvZUJrTnlkbGc4VVNlODg2SENfU3FjdWdnbWdBUjUxS3VQb1BWblgyZ1ZSck1IaHktQ0hlbWxRTjEyT1hlZGpjT2hxNHdBX0Q4TUhFT20yajhjYlVxUTM0c2VKLUpUQUo3WnB1OGFTTGI5RktHZVdycWZqZ0R1TFZnVk55OW40NFJUakpZbmxMMzc2TFhrS1JoQzV3OTdp?oc=5)
 
 ---
 
@@ -140,11 +156,11 @@ Source: [NPR](https://news.google.com/rss/articles/CBMiowFBVV95cUxOVFpNRldjenFZd
 
 ---
 
-### [Cocaine and meth drive increase in drug overdose deaths in Minnesota - Star Tribune](https://news.google.com/rss/articles/CBMimwFBVV95cUxPS2E2M1NxT2I2MHk3WjE5dW1KaGZWSVJGVjBkREk4QjMyRnhkWGV1a25NeFF2a0ZCZlg2Ri1CTzV4djZrRFBwajVMYjdiNTdOYW9BZGF2M0VMZDRzUzVmWUpiSF9rNmtuSkF1eGstaGJJenBlQTdhNncyWVJSRGRTeTJtT3NSeG5ORjNyVGZ3QkNZbllSVVZtV1BlZw?oc=5)
+### [Testosterone helps new brain cells survive, but timing matters, study in male rats suggests - Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObGpCbEZnTnYyazd1TDdJTUd2VU1MRHlfcmtqZEhrMXpLd1NPTlU4cmdVZFNyOE5scE9BMlFkb280a0syTnFKVEpEeEdHck54N1lpdTBBQXhXRzAxVE03bkR2bkRuZ0FiVTVJa0lxOVZMT3lWbjZjZk4zQ2I3b2pONVFnZDFkQV9w?oc=5)
 
 2026-10-27 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
 
-Source: [Star Tribune](https://news.google.com/rss/articles/CBMimwFBVV95cUxPS2E2M1NxT2I2MHk3WjE5dW1KaGZWSVJGVjBkREk4QjMyRnhkWGV1a25NeFF2a0ZCZlg2Ri1CTzV4djZrRFBwajVMYjdiNTdOYW9BZGF2M0VMZDRzUzVmWUpiSF9rNmtuSkF1eGstaGJJenBlQTdhNncyWVJSRGRTeTJtT3NSeG5ORjNyVGZ3QkNZbllSVVZtV1BlZw?oc=5)
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMiiAFBVV95cUxObGpCbEZnTnYyazd1TDdJTUd2VU1MRHlfcmtqZEhrMXpLd1NPTlU4cmdVZFNyOE5scE9BMlFkb280a0syTnFKVEpEeEdHck54N1lpdTBBQXhXRzAxVE03bkR2bkRuZ0FiVTVJa0lxOVZMT3lWbjZjZk4zQ2I3b2pONVFnZDFkQV9w?oc=5)
 
 ---
 
@@ -161,6 +177,22 @@ Source: [Phys.org](https://news.google.com/rss/articles/CBMihgFBVV95cUxPUGZMOHhS
 2026-10-27 <span class="news-indication-tag">MI</span>
 
 Source: [Newser](https://news.google.com/rss/articles/CBMikgFBVV95cUxOb2hnVER4NlN3VHJsbHZGMTNkeTViN3ZYSkJtYm5XdFY4b0JBS0JyWHdHVEpoSGdkOXpad1lnOE5FUld5aTNkeTJvelF6cFF0WDJQaFNqeDBvNFhSUVNSekI0U3VxS3FIWWtaQW8wYXZqNFBzX0NyLTVGSUFzTDNMM1g5dlFONTZtQUpyUWNsWGxHZw?oc=5)
+
+---
+
+### [BYU-led team releases a new global food pyramid - ABC4 Utah](https://news.google.com/rss/articles/CBMib0FVX3lxTE9QV0RMNVlaQjFnczZjOWRON2pVR0oweE8xWnhUOW9FcGZkVno5cm1icmpXc3k1M29ndGg3cTRxd0dWejlVWlFVNnNXNkpTcThsWmpGcnhvMzJlLXFUajhTaEJWbEFGc1E1NlFaYlZhb9IBdEFVX3lxTE9ELWhWUkVMSkxxcXFSWkNZcE9HQmtVRVliemd3dHBfQ1dDOVJteWNqVXR3OFQyTW91bFlUeFlEQTJVT0dCMFBobkUxNzFySHBwUTlkQUJ2cU5OY2VSSDJNaUoyVGVkT3gtVmd2cUh6bnhsMGlI?oc=5)
+
+2026-10-27 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+
+Source: [ABC4 Utah](https://news.google.com/rss/articles/CBMib0FVX3lxTE9QV0RMNVlaQjFnczZjOWRON2pVR0oweE8xWnhUOW9FcGZkVno5cm1icmpXc3k1M29ndGg3cTRxd0dWejlVWlFVNnNXNkpTcThsWmpGcnhvMzJlLXFUajhTaEJWbEFGc1E1NlFaYlZhb9IBdEFVX3lxTE9ELWhWUkVMSkxxcXFSWkNZcE9HQmtVRVliemd3dHBfQ1dDOVJteWNqVXR3OFQyTW91bFlUeFlEQTJVT0dCMFBobkUxNzFySHBwUTlkQUJ2cU5OY2VSSDJNaUoyVGVkT3gtVmd2cUh6bnhsMGlI?oc=5)
+
+---
+
+### [Scientists Discover That Eating Peanuts Every Day May Help Protect the Aging Brain](https://news.google.com/rss/articles/CBMirAFBVV95cUxObjJrV21rN1U5VnF4a1Vpdi1BcDZPWUpCeHAwaDA5UFRHWVlCQlkyeGMxbjEzX2pXR1FMYlotN3pBOXphU3J3bGRVRlNkcjQ0MnhYVUlqekNWbFd2aGRsOWhmcUtWMjBOZmdVeENFVjJXa1dkaFdPV0t3bnREeV9FanFoWTNPTVJIdEYxZVkzdUZNTGoxMXpOVjZmUThmU25nY1lqRUZ5SE55cmNa?oc=5)
+
+2026-10-27 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
+
+Source: [SciTechDaily](https://news.google.com/rss/articles/CBMirAFBVV95cUxObjJrV21rN1U5VnF4a1Vpdi1BcDZPWUpCeHAwaDA5UFRHWVlCQlkyeGMxbjEzX2pXR1FMYlotN3pBOXphU3J3bGRVRlNkcjQ0MnhYVUlqekNWbFd2aGRsOWhmcUtWMjBOZmdVeENFVjJXa1dkaFdPV0t3bnREeV9FanFoWTNPTVJIdEYxZVkzdUZNTGoxMXpOVjZmUThmU25nY1lqRUZ5SE55cmNa?oc=5)
 
 ---
 
@@ -217,14 +249,6 @@ Source: [CNN](https://news.google.com/rss/articles/CBMijwFBVV95cUxNVkh0X3lBd2RiW
 2026-10-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
 
 Source: [The Washington Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxNd1dJVFd0X0lOTldCT2ZGNk83ajctdE12dmdodndXLUVnNWlPd2RzQjBZRV9iVFQzZFdROGFsSW5wMGthTFBVdHdlT0FxT2d6d191aUxDSmxzby02RlFmUGFfb1FhQ0RBUW9ERmc0cGUyQjgzaV8zREV0UDluVVBuZDdnNzVGQkR6TG1IREZpNzdrUlBoRU9rSzZZMVY0UWtpTFh2TV9BSXI2aUhU?oc=5)
-
----
-
-### [The U.S.-Funded Plan To Kill Infants In Africa By Withholding Vaccines Has Been Thwarted](https://news.google.com/rss/articles/CBMirAFBVV95cUxPMzFNMXNFb3JTWWh4cUU5Tk5la2Y1bFlqVEJlb1hEaDc4NEZuUzlnOGVnODM5ZXY2cTFWdkJNQ1Vjb0x5Qlo0RFFacmRvYXIybmlRQkRiM3Z4djNQU1MwY0lPZGJ4Q1BUQ0t5TTFtYmx5cjY5OUEwSFo2b2dLUEpOV2c0UFREYnhROGhsZmhrM25RWWg4SW1aVFpvaUxfeXljVktLNmpFSmxCbHJS?oc=5)
-
-2026-10-23 <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
-
-Source: [Defector](https://news.google.com/rss/articles/CBMirAFBVV95cUxPMzFNMXNFb3JTWWh4cUU5Tk5la2Y1bFlqVEJlb1hEaDc4NEZuUzlnOGVnODM5ZXY2cTFWdkJNQ1Vjb0x5Qlo0RFFacmRvYXIybmlRQkRiM3Z4djNQU1MwY0lPZGJ4Q1BUQ0t5TTFtYmx5cjY5OUEwSFo2b2dLUEpOV2c0UFREYnhROGhsZmhrM25RWWg4SW1aVFpvaUxfeXljVktLNmpFSmxCbHJS?oc=5)
 
 ---
 

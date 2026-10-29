@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1083
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Primidone: predicted new indication Trigeminal nerve neoplasm (evidence level L5). Approved use: Epilepsy (including generalized tonic-clonic seizures…"
 monitor_inn: "PRIMIDONE"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
@@ -50,7 +50,7 @@ The score is a model output only, with no actual study behind it.
 | Predicted New Indication | Trigeminal nerve neoplasm |
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 8) |
+| US Market Status | Marketed (valid licenses on record: at least 7) |
 | Number of NDAs | 8 (1 NDA and 7 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 

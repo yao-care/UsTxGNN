@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "PENCICLOVIR"
 predicted_indications: ["fascioliasis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Penciclovir: predicted new indication Fascioliasis (evidence level L5). Approved use: Herpes labialis"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **fascioliasis**, but this rest
 | Predicted New Indication | Fascioliasis |
 | TxGNN Prediction Score | 0.9906 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 5 of 5) |
-| Number of NDAs | 5 (valid: 5) |
+| US Market Status | Marketed (valid licenses: 4 of 5) |
+| Number of NDAs | 5 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

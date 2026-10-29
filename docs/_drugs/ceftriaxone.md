@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "CEFTRIAXONE"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "infectious otitis media", "blood group incompatibility", "suppurative otitis media", "chronic otitis media"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Ceftriaxone: predicted new indication polyclonal hyperviscosity syndrome (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,7 +50,7 @@ but the data compiled for this report contain **0 clinical trials** and **0 publ
 | Predicted New Indication | polyclonal hyperviscosity syndrome |
 | TxGNN Prediction Score | 0.9939 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 8) |
+| US Market Status | Marketed (valid licenses on record: at least 7) |
 | Number of NDAs | at least 8 |
 | Recommended Decision | Hold |
 

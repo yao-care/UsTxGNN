@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1101
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "QUINAPRIL"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
 description: "Quinapril: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -51,7 +51,7 @@ but **no clinical trials and no publications** currently support this specific p
 | Predicted New Indication | Malignant hypertensive renal disease |
 | TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 5) |
+| US Market Status | Marketed (valid licenses on record: at least 3) |
 | Number of NDAs | 5 (all ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 

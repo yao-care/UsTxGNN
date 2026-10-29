@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 683
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "ETODOLAC"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx"]
 description: "Etodolac: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). Approved use: Not recorded in the local data"
@@ -48,7 +48,7 @@ The TxGNN model predicts it may be effective for **Acromesomelic Dysplasia, Hunt
 | Original Indication | Not recorded in the local data |
 | Predicted New Indication | Acromesomelic dysplasia, Hunter-Thompson type |
 | Evidence Level | L5 for the top-ranked prediction; L4 for ankylosing spondylitis |
-| US Market Status | Marketed (valid licenses on record: at least 10) |
+| US Market Status | Marketed (valid licenses on record: at least 9) |
 | Number of NDAs | 10 (all ANDAs, all cancelled) |
 | Recommended Decision | Hold (top-ranked prediction); Research Question for ankylosing spondylitis |
 

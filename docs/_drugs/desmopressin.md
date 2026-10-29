@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 586
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "DESMOPRESSIN"
 predicted_indications: ["congenital prothrombin deficiency", "inherited thrombophilia", "Glanzmann thrombasthenia", "primary release disorder of platelets", "Scott syndrome", "flood factor deficiency"]
 description: "Desmopressin: predicted new indication Congenital prothrombin deficiency (evidence level L5). Approved use: Not recorded in the local data"
@@ -50,7 +50,7 @@ This top-ranked prediction is most likely a network-proximity artefact, and the 
 | Predicted New Indication | Congenital prothrombin deficiency |
 | TxGNN Prediction Score | 0.9970 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 11) |
+| US Market Status | Marketed (valid licenses on record: at least 8) |
 | Number of NDAs | 11 (all cancelled) |
 | Recommended Decision | Hold |
 

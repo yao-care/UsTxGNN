@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "PRASUGREL"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura", "kyphoscoliotic heart disease", "rheumatoid arthritis", "homozygous familial hypercholesterolemia", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "leprosy"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Prasugrel: predicted new indication Pulmonary hypertension (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -51,8 +51,8 @@ The data compiled for this report show that TxGNN's top-ranked prediction is pul
 | Predicted New Indication | Pulmonary hypertension |
 | TxGNN Prediction Score | 0.9988 |
 | Evidence Level | L5 (retrospective review and open-label pilot, class-level; no prasugrel RCT) |
-| US Market Status | Marketed (valid licenses: 7 of 7) |
-| Number of NDAs | 7 (valid: 7) |
+| US Market Status | Marketed (valid licenses: 6 of 7) |
+| Number of NDAs | 7 (valid: 6) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

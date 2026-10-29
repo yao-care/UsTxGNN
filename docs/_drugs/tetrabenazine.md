@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "TETRABENAZINE"
 predicted_indications: ["polycystic kidney disease 3 with or without polycystic liver disease", "renal-hepatic-pancreatic dysplasia", "Joubert syndrome with renal defect", "karyomegalic interstitial nephritis", "thoracic malformation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "acute intermittent porphyria", "adult familial nephronophthisis-spastic quadriparesia syndrome", "atypical glycine encephalopathy", "congenital disorder of glycosylation with defective fucosylation"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Tetrabenazine: predicted new indication Polycystic kidney disease 3 with or without polycystic liver disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,7 +50,7 @@ but currently **0 clinical trials** and **0 publications** support this predicti
 | Predicted New Indication | Polycystic kidney disease 3 with or without polycystic liver disease |
 | TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 9) |
+| US Market Status | Marketed (valid licenses on record: at least 7) |
 | Number of NDAs | 9 (1 NDA and 8 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 
@@ -75,7 +75,7 @@ Currently no related literature available.
 | Authorization Number | Product Name | Dosage Form | Approved Indication | Status |
 |---------|------|------|-----------|------|
 | NDA021894 | Xenazine (Lundbeck Pharmaceuticals LLC) | Tablet | Not available | Valid |
-| ANDA206129 | Tetrabenazine (Sun Pharmaceutical Industries) | Tablet | Not available | Valid |
+| ANDA206129 | Tetrabenazine (Sun Pharmaceutical Industries) | Tablet | Not available | ANDA (Discontinued in Drugs@FDA) |
 | ANDA213316 | Tetrabenazine (Heritage/Avet Pharmaceuticals) | Tablet | Not available | Valid |
 | ANDA207682 | Tetrabenazine (Precision Dose) | Tablet | Not available | Valid |
 | ANDA204574 | Tetrabenazine (Camber Pharmaceuticals) | Coated tablet | Not available | Valid |

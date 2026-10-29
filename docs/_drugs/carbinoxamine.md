@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "CARBINOXAMINE"
 predicted_indications: ["nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Carbinoxamine: predicted new indication nasal cavity disease (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,8 +50,8 @@ The TxGNN model predicts it may be useful for **nasal cavity disease**, with a s
 | Predicted New Indication | nasal cavity disease |
 | TxGNN Prediction Score | 0.9988 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 6 of 6) |
-| Number of NDAs | 6 (valid: 6) |
+| US Market Status | Marketed (valid licenses: 5 of 6) |
+| Number of NDAs | 6 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

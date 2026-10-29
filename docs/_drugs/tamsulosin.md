@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "TAMSULOSIN"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "migraine with brainstem aura"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Tamsulosin: predicted new indication Ambras type hypertrichosis universalis congenita (evidence level L5). Approved use: Benign prostatic hyperplasia"
 ---
 
@@ -50,7 +50,7 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 | Predicted New Indication | Ambras type hypertrichosis universalis congenita |
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 6) |
+| US Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of NDAs | 6 (all cancelled; listed as ANDA generic applications) |
 | Recommended Decision | Hold |
 
@@ -82,7 +82,7 @@ All six US authorizations are valid generic applications for oral capsules. No a
 |---------|------|------|------|------|
 | ANDA202433 | Tamsulosin Hydrochloride | Capsule | Cardinal Health 107, LLC | Valid |
 | ANDA207405 | Tamsulosin Hydrochloride | Capsule | Chartwell RX, LLC | Valid |
-| ANDA090931 | Tamsulosin Hydrochloride | Capsule | Proficient Rx LP | Valid |
+| ANDA090931 | Tamsulosin Hydrochloride | Capsule | Proficient Rx LP | ANDA (Discontinued in Drugs@FDA) |
 | ANDA078225 | Tamsulosin Hydrochloride | Capsule | Zydus Pharmaceuticals USA Inc. | Valid |
 | ANDA214730 | Tamsulosin Hydrochloride | Capsule | XLCare Pharmaceuticals, Inc | Valid |
 

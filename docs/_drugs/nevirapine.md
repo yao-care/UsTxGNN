@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 3
 monitor_inn: "NEVIRAPINE"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Nevirapine: predicted new indication Simian immunodeficiency virus infection (evidence level L4). Approved use: Not recorded in the local data"
 ---
 
@@ -50,8 +50,8 @@ but there are currently **0 clinical trials** and only **indirect literature** (
 | Predicted New Indication | Simian immunodeficiency virus infection |
 | TxGNN Prediction Score | 0.9985 |
 | Evidence Level | L4 |
-| US Market Status | Marketed (valid licenses: 9 of 9) |
-| Number of NDAs | 9 (valid: 9) |
+| US Market Status | Marketed (valid licenses: 8 of 9) |
+| Number of NDAs | 9 (valid: 8) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

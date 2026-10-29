@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "DIGOXIN"
 predicted_indications: ["Prinzmetal angina", "duodenal obstruction", "duodenal ulcer (disease)", "duodenogastric reflux", "hypoalphalipoproteinemia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Digoxin: predicted new indication Prinzmetal angina (evidence level L5). Approved use: Atrial fibrillation"
 ---
 
@@ -49,7 +49,7 @@ The TxGNN model predicts it may be effective for **Prinzmetal angina**, but ther
 | Predicted New Indication | Prinzmetal angina |
 | TxGNN Prediction Score | 0.9981 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 11) |
+| US Market Status | Marketed (valid licenses on record: at least 8) |
 | Number of NDAs | 11 authorizations in total (2 NDAs, 9 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 

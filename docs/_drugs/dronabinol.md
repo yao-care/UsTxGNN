@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 9
 monitor_inn: "DRONABINOL"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "headache disorder", "trigeminal autonomic cephalalgia", "pulmonary hypertension", "hypertrichosis (disease)", "kyphoscoliotic heart disease", "Ambras type hypertrichosis universalis congenita", "atrophoderma vermiculata"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Dronabinol: predicted new indication Migraine disorder (evidence level L3). Approved use: Not recorded in the local data"
 ---
 
@@ -49,7 +49,7 @@ The TxGNN model predicts it may be effective for **migraine disorder**, with **1
 | Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 0.9992 |
 | Evidence Level | L3 |
-| US Market Status | Marketed (valid licenses on record: at least 4) |
+| US Market Status | Marketed (valid licenses on record: at least 2) |
 | Number of NDAs | 4 authorizations (2 NDAs, 2 ANDAs) |
 | Recommended Decision | Hold |
 

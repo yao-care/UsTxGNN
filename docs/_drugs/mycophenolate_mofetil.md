@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "MYCOPHENOLATE MOFETIL"
 predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "bone Paget disease", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "multiple sclerosis", "hemosiderosis", "Heiner syndrome", "African iron overload", "neonatal hemochromatosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Mycophenolate Mofetil: predicted new indication HIV infectious disease (evidence level L5). Approved use: Not available in the compiled data"
 ---
 
@@ -52,7 +52,7 @@ The evidence is early-stage, mixed, and modest.
 | Predicted New Indication | HIV infectious disease |
 | TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L2 (per the compiled scoring; see note below) |
-| US Market Status | Marketed (valid licenses on record: at least 17) |
+| US Market Status | Marketed (valid licenses on record: at least 15) |
 | Number of NDAs | 17 licenses in total (NDAs and ANDAs) |
 | Recommended Decision | Hold |
 

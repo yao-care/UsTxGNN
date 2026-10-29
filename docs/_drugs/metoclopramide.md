@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 918
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "METOCLOPRAMIDE"
 predicted_indications: ["gastroduodenitis", "peptic ulcer perforation"]
 description: "Metoclopramide: predicted new indication Gastroduodenitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -52,7 +52,7 @@ but only **1 clinical trial** (a procedural study in upper GI bleeding) and **20
 | Predicted New Indication | Gastroduodenitis |
 | TxGNN Prediction Score | 0.9990 |
 | Evidence Level | L5 (as assessed in the data compiled for this report; no completed Phase 3 or Phase 2/3 RCT for ulcer treatment) |
-| US Market Status | Marketed (valid licenses on record: at least 10) |
+| US Market Status | Marketed (valid licenses on record: at least 9) |
 | Number of NDAs | 10 (all ANDAs, generic applications; none is an NDA) |
 | Recommended Decision | Hold |
 

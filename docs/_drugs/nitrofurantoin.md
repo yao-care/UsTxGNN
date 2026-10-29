@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "NITROFURANTOIN"
 predicted_indications: ["rheumatoid arthritis", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "sclerosing cholangitis", "methemoglobinemia, alpha type", "gout", "methemoglobinemia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Nitrofurantoin: predicted new indication Rheumatoid arthritis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,7 +50,7 @@ The retrieved publications mostly describe harm, such as drug-induced pulmonary 
 | Predicted New Indication | Rheumatoid arthritis |
 | TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 12) |
+| US Market Status | Marketed (valid licenses on record: at least 10) |
 | Number of NDAs | 12 (1 NDA and 11 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 

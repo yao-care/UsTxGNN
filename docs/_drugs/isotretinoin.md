@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 817
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "ISOTRETINOIN"
 predicted_indications: ["malignant hypertensive renal disease"]
 description: "Isotretinoin: predicted new indication Malignant hypertensive renal disease (evidence level L5). Approved use: Not recorded in the local data"
@@ -51,7 +51,7 @@ The TxGNN model predicts it may be effective for **malignant renovascular hypert
 | Predicted New Indication | Malignant hypertensive renal disease |
 | TxGNN Prediction Score | 0.9901 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 10) |
+| US Market Status | Marketed (valid licenses on record: at least 9) |
 | Number of NDAs | 10 (1 NDA and 9 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 

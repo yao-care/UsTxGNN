@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "TECHNETIUM TC-99M SESTAMIBI"
 predicted_indications: ["homozygous familial hypercholesterolemia", "multiple endocrine neoplasia", "cerebral infarction", "hypoalphalipoproteinemia", "cytomegalovirus infection", "Prinzmetal angina", "stroke disorder", "gastrin secretion abnormality", "cerebral arterial disease", "obsolete familial combined hyperlipidemia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Technetium Tc-99M Sestamibi: predicted new indication Homozygous familial hypercholesterolemia (evidence level L5). Approved use: Not specified in the available license data"
 ---
 
@@ -50,8 +50,8 @@ The only prediction with any literature is **multiple endocrine neoplasia** (ran
 | Predicted New Indication | Homozygous familial hypercholesterolemia |
 | TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 3 of 3) |
-| Number of NDAs | 3 (valid: 3) |
+| US Market Status | Marketed (valid licenses: 2 of 3) |
+| Number of NDAs | 3 (valid: 2) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

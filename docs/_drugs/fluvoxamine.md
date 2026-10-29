@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 732
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "FLUVOXAMINE"
 predicted_indications: ["paranoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "anxiety disorder", "agoraphobia", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder", "endogenous depression"]
 description: "Fluvoxamine: predicted new indication Paranoid personality disorder (evidence level L5). Approved use: Not recorded in the local data"
@@ -51,7 +51,7 @@ The TxGNN model predicts it may be effective for **Paranoid Personality Disorder
 | Predicted New Indication | Paranoid personality disorder |
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 8) |
+| US Market Status | Marketed (valid licenses on record: at least 7) |
 | Number of NDAs | 8 authorizations in total (1 NDA and 7 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 

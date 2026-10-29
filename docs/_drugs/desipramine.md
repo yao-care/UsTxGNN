@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 584
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "DESIPRAMINE"
 predicted_indications: ["attention deficit hyperactivity disorder, inattentive type", "attention deficit-hyperactivity disorder", "specific developmental disorder", "chondromyxoid fibroma", "faciodigitogenital syndrome", "benign paroxysmal torticollis of infancy", "agoraphobia", "obsessive-compulsive disorder"]
 description: "Desipramine: predicted new indication Attention deficit hyperactivity disorder, inattentive type (evidence level L5). Approved use: Not recorded in the local data"
@@ -49,7 +49,7 @@ The TxGNN model predicts it may be effective for **attention deficit hyperactivi
 | Predicted New Indication | Attention deficit hyperactivity disorder, inattentive type |
 | TxGNN Prediction Score | 0.9981 |
 | Evidence Level | L5 for the inattentive subtype (L3 for parent ADHD) |
-| US Market Status | Marketed (valid licenses on record: at least 6) |
+| US Market Status | Marketed (valid licenses on record: at least 3) |
 | Number of NDAs | 6 (all cancelled; 1 NDA and 5 ANDAs) |
 | Recommended Decision | Hold |
 

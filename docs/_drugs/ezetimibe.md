@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 690
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "EZETIMIBE"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
 description: "Ezetimibe: predicted new indication Cholesterol-ester transfer protein deficiency (evidence level L5). Approved use: Not recorded in the local data"
@@ -49,7 +49,7 @@ The data compiled for this report include **41 clinical trials** and **18 public
 | Predicted New Indication | Cholesterol-ester transfer protein deficiency |
 | TxGNN Prediction Score | 0.9909 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 12) |
+| US Market Status | Marketed (valid licenses on record: at least 11) |
 | Number of NDAs | 12 authorizations (1 NDA, 11 ANDAs) |
 | Recommended Decision | Hold |
 

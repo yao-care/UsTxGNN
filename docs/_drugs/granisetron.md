@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "GRANISETRON"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "acute contagious conjunctivitis", "angioedema", "allergic urticaria", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "bronchitis", "cold urticaria", "conjunctivitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Granisetron: predicted new indication Manic bipolar affective disorder (evidence level L5). Approved use: Not stated in the compiled regulatory data (granisetron is generally…"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **manic bipolar affective disor
 | Predicted New Indication | Manic bipolar affective disorder |
 | TxGNN Prediction Score | 0.9962 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 10 of 10) |
-| Number of NDAs | 10 (valid: 10) |
+| US Market Status | Marketed (valid licenses: 8 of 10) |
+| Number of NDAs | 10 (valid: 8) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -87,10 +87,10 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| NDA022445 | SUSTOL (Heron Therapeutics) | Injection | Valid |
+| NDA022445 | SUSTOL (Heron Therapeutics) | Injection | NDA (Discontinued in Drugs@FDA) |
 | NDA022198 | SANCUSO (Cumberland Pharmaceuticals) | Patch | Valid |
 | ANDA091136 | Granisetron Hydrochloride (Mylan Institutional) | Injection, solution | Valid |
-| ANDA204238 | Granisetron Hydrochloride (Eugia US) | Injection, solution | Valid |
+| ANDA204238 | Granisetron Hydrochloride (Eugia US) | Injection, solution | ANDA (Discontinued in Drugs@FDA) |
 | ANDA219282 | Granisol (Intra-Sana Laboratories) | Solution | Valid |
 
 The compiled records contain no approved indication text for these licenses. Five more licenses (all cancelled) are on file, covering tablets, film-coated tablets and additional injections.

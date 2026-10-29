@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 469
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Brinzolamide: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -46,8 +46,8 @@ The TxGNN model's candidates for Brinzolamide (score ≥ 0.99) are all known use
 | New predicted indications | None (all traceable model candidates are known uses) |
 | Known uses among model candidates | 1 |
 | Evidence level | Not applicable |
-| Market status in the United States | Marketed (valid licenses: 4 of 4) |
-| Number of NDAs | 4 (valid: 4) |
+| Market status in the United States | Marketed (valid licenses: 3 of 4) |
+| Number of NDAs | 4 (valid: 3) |
 
 ## Known uses among the model's candidates
 
@@ -70,7 +70,7 @@ The TxGNN model's candidates for Brinzolamide (score ≥ 0.99) are all known use
 
 | Licence | Product | Dosage form | Status |
 |------|------|------|------|
-| ANDA211914 | brinzolamide | SUSPENSION/ DROPS | Valid |
+| ANDA211914 | brinzolamide | SUSPENSION/ DROPS | ANDA (Discontinued in Drugs@FDA) |
 | ANDA204884 | brinzolamide | SUSPENSION/ DROPS | Valid |
 | NDA020816 | brinzolamide | SUSPENSION/ DROPS | Valid |
 | NDA204251 | brinzolamide/brimonidine tartrate | SUSPENSION/ DROPS | Valid |

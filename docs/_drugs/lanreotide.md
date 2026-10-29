@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "LANREOTIDE"
 predicted_indications: ["hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "Ambras type hypertrichosis universalis congenita"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Lanreotide: predicted new indication Hypertrichosis (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **hypertrichosis**, but **no cl
 | Predicted New Indication | Hypertrichosis (disease) |
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 3 of 3) |
-| Number of NDAs | 3 (valid: 3) |
+| US Market Status | Marketed (valid licenses: 1 of 3) |
+| Number of NDAs | 3 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -73,9 +73,9 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Approved Indication | Status |
 |---------|------|------|-----------|------|
-| ANDA217193 | Lanreotide Acetate (Exelan Pharmaceuticals) | Injection | Not available | Valid |
+| ANDA217193 | Lanreotide Acetate (Exelan Pharmaceuticals) | Injection | Not available | ANDA (Discontinued in Drugs@FDA) |
 | NDA022074 | Somatuline Depot (Ipsen Biopharmaceuticals) | Injection | Not available | Valid |
-| NDA215395 | Lanreotide Acetate (Cipla USA) | Injection | Not available | Valid |
+| NDA215395 | Lanreotide Acetate (Cipla USA) | Injection | Not available | NDA (Discontinued in Drugs@FDA) |
 
 ## Safety Considerations
 

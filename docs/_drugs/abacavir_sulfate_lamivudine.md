@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 0
 noindex: true
 sitemap: false
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 predicted_indications: []
 ---
 
@@ -94,7 +94,7 @@ This combination is **not registered** in the Taiwan TFDA database. No license r
 |------|--------|
 | TFDA Query Date | 2026-03-24 |
 | Query Result | 0 records found |
-| Market Status | Marketed (valid licenses on record: at least 13) |
+| Market Status | Marketed (valid licenses on record: at least 12) |
 | Number of NDAs | at least 13 |
 
 *For reference: Abacavir + Lamivudine is marketed internationally as Epzicom (US, GlaxoSmithKline) and Kivexa (EU), approved for HIV-1 infection in adults and pediatric patients. These approvals are outside the scope of this Taiwan-focused Evidence Pack.*

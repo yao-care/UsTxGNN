@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1050
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "PIROXICAM"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "WHIM syndrome", "rheumatoid nodulosis", "juvenile idiopathic arthritis"]
 description: "Piroxicam: predicted new indication Colobomatous microphthalmia-rhizomelic dysplasia syndrome (evidence level L5). Approved use: Not recorded in the local data"
@@ -49,7 +49,7 @@ The TxGNN model's top-ranked prediction is a rare skeletal and ocular syndrome w
 | Predicted New Indication | Colobomatous microphthalmia-rhizomelic dysplasia syndrome |
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 (rank 1); L3 (juvenile idiopathic arthritis) |
-| US Market Status | Marketed (valid licenses on record: at least 7) |
+| US Market Status | Marketed (valid licenses on record: at least 5) |
 | Number of NDAs | 7 (all ANDA generics, all cancelled) |
 | Recommended Decision | Hold (rank 1); Proceed with Guardrails is suggested only for the JIA research question |
 

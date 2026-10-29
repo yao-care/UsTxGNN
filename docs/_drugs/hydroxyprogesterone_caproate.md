@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 780
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "HYDROXYPROGESTERONE CAPROATE"
 predicted_indications: ["endometriosis of uterus", "renal hypoplasia, bilateral", "endometriosis of rectovaginal septum and vagina", "endometriosis in cutaneous scar", "renal hypoplasia (disease)", "uterine corpus cancer", "cervix endometriosis", "endometrial cancer", "breast fibrocystic disease", "infantile cerebral and cerebellar atrophy with postnatal progressive microcephaly"]
 description: "Hydroxyprogesterone Caproate: predicted new indication Endometriosis of uterus (evidence level L5). Approved use: Not recorded in the local data"
@@ -52,8 +52,8 @@ There are **0 registered clinical trials** and **20 publications** for endometri
 | Predicted New Indication | Endometriosis of uterus |
 | TxGNN Prediction Score | 0.9998 |
 | Evidence Level | L5 (endometrial cancer); L4 for endometriosis of uterus; L5 for most other predictions |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| US Market Status | Not marketed (licenses canceled: 1 of 1) |
+| Number of NDAs | 1 (valid: 0) |
 | Recommended Decision | Hold |
 
 **Note on selection:** The top-ranked prediction by TxGNN score is endometriosis of uterus. Its only publication is a case report of a pregnancy complication, which is not evidence of efficacy. This report therefore features endometrial cancer, the prediction with the most substantial evidence. Other predictions are summarized at the end.

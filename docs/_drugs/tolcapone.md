@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1239
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "TOLCAPONE"
 predicted_indications: ["Rasmussen subacute encephalitis", "myelitis", "PLA2G6-associated neurodegeneration", "transaldolase deficiency", "fructose-1,6-bisphosphatase deficiency", "Lewy body dementia", "X-linked intellectual disability-ataxia-apraxia syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "X-linked intellectual disability-cerebellar hypoplasia syndrome", "paralysis agitans, juvenile, of Hunt"]
 description: "Tolcapone: predicted new indication Rasmussen subacute encephalitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -50,8 +50,8 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 | Predicted New Indication | Rasmussen subacute encephalitis |
 | TxGNN Prediction Score | 0.9993 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 2 of 2) |
-| Number of NDAs | 2 (valid: 2) |
+| US Market Status | Not marketed (licenses canceled: 2 of 2) |
+| Number of NDAs | 2 (valid: 0) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -76,8 +76,8 @@ Currently no related literature available for Rasmussen subacute encephalitis.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
-| NDA020697 | Tolcapone (Oceanside Pharmaceuticals) | Tablet, film coated | Valid |
-| ANDA208937 | Tolcapone (Ingenus Pharmaceuticals, LLC) | Tablet | Valid |
+| NDA020697 | Tolcapone (Oceanside Pharmaceuticals) | Tablet, film coated | NDA (Discontinued in Drugs@FDA) |
+| ANDA208937 | Tolcapone (Ingenus Pharmaceuticals, LLC) | Tablet | ANDA (Discontinued in Drugs@FDA) |
 
 Approved indication text was not available for either authorization. Neither is currently valid.
 

@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 7
 monitor_inn: "CYCLOSPORINE"
 predicted_indications: ["granulomatous disease, chronic, autosomal recessive", "brain aneurysm", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital ichthyosiform erythroderma", "fetal erythroblastosis", "brachydactyly-syndactyly syndrome", "prolapse of lacrimal gland"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Cyclosporine: predicted new indication Granulomatous disease, chronic, autosomal recessive (evidence level L4). Approved use: Rheumatoid arthritis, dry eye syndrome, xerophthalmia…"
 ---
 
@@ -50,7 +50,7 @@ This prediction should be regarded as a computational signal only.
 | Predicted New Indication | Granulomatous disease, chronic, autosomal recessive |
 | TxGNN Prediction Score | 0.9968 |
 | Evidence Level | L4 |
-| US Market Status | Marketed (valid licenses on record: at least 13) |
+| US Market Status | Marketed (valid licenses on record: at least 12) |
 | Number of NDAs | 13 (no currently valid licenses) |
 | Recommended Decision | Hold |
 

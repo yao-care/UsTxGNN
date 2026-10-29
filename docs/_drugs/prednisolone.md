@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 1077
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "PREDNISOLONE"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "prolapse of lacrimal gland"]
 description: "Prednisolone: predicted new indication Alopecia areata (evidence level L2). Approved use: Not recorded in the local data"
@@ -52,7 +52,7 @@ with **0 registered clinical trials** but **20 publications** (including a place
 | Predicted New Indication | Alopecia areata |
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L2 |
-| US Market Status | Marketed (valid licenses on record: at least 13) |
+| US Market Status | Marketed (valid licenses on record: at least 12) |
 | Number of NDAs | 13 licenses in total (all cancelled) |
 | Recommended Decision | Proceed with Guardrails |
 

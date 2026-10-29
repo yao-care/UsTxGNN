@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 1
 monitor_inn: "GLUCAGON"
 predicted_indications: ["irritable bowel syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Glucagon: predicted new indication Irritable bowel syndrome (evidence level L5). Approved use: Not stated in the data compiled for this report"
 ---
 
@@ -48,8 +48,8 @@ Glucagon is a proglucagon-derived peptide hormone. It is also long established a
 | Predicted New Indication | Irritable bowel syndrome |
 | TxGNN Prediction Score | 0.9924 |
 | Evidence Level | L3 (indirect; observational and review-level literature, no glucagon-specific trials) |
-| US Market Status | Marketed (valid licenses: 5 of 5) |
-| Number of NDAs | 5 (valid: 5) |
+| US Market Status | Marketed (valid licenses: 4 of 5) |
+| Number of NDAs | 5 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

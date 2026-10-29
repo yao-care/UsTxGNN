@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "MISOPROSTOL"
 predicted_indications: ["amenorrhea (disease)", "atypical coarctation of aorta"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Misoprostol: predicted new indication Amenorrhea (evidence level L4). Approved use: Not available"
 ---
 
@@ -50,7 +50,7 @@ The evidence is weak, so the recommendation is **Hold**.
 | Predicted New Indication | Amenorrhea |
 | TxGNN Prediction Score | 0.9964 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 5) |
+| US Market Status | Marketed (valid licenses on record: at least 3) |
 | Number of NDAs | 5 (all cancelled; 1 NDA and 4 ANDAs) |
 | Recommended Decision | Hold |
 

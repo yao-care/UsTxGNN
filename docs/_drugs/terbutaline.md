@@ -7,7 +7,7 @@ evidence_level: L1
 indication_count: 3
 monitor_inn: "TERBUTALINE"
 predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Terbutaline: predicted new indication Obstructive lung disease (evidence level L1). Approved use: Asthma (also intrinsic and allergic asthma, bronchitis…"
 ---
 
@@ -51,8 +51,8 @@ The TxGNN model predicts it may be effective for **obstructive lung disease**, w
 | Predicted New Indication | Obstructive lung disease |
 | TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L1 |
-| US Market Status | Marketed (valid licenses: 6 of 6) |
-| Number of NDAs | 6 (valid: 6) |
+| US Market Status | Marketed (valid licenses: 5 of 6) |
+| Number of NDAs | 6 (valid: 5) |
 | Recommended Decision | Proceed with Guardrails |
 
 ---

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "QUETIAPINE"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "hydranencephaly (disease)", "distal 17p13.3 microdeletion syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "trichotillomania", "syndromic myopia", "myopia 26, X-linked, female-limited"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Quetiapine: predicted new indication Retinal dystrophy with or without extraocular anomalies (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -51,7 +51,7 @@ This report therefore covers the top-ranked prediction in the overview table, an
 | TxGNN Prediction Score (rank 1) | 0.9957 |
 | Best-Supported Candidate | Retinal dystrophy with or without extraocular anomalies |
 | Evidence Level | L5 for the rank 1 prediction (L4 for trichotillomania) |
-| US Market Status | Marketed (valid licenses on record: at least 9) |
+| US Market Status | Marketed (valid licenses on record: at least 8) |
 | Number of NDAs/ANDAs | 9 (1 NDA, 8 ANDAs; all cancelled) |
 | Recommended Decision | Hold (rank 1); trichotillomania is a research question only |
 

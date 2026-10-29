@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "DECITABINE"
 predicted_indications: ["refractory cytopenia of childhood"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Decitabine: predicted new indication Refractory cytopenia of childhood (evidence level L4). Approved use: Myeloid leukemia (including AML and its subtypes)"
 ---
 
@@ -50,7 +50,7 @@ Support is currently limited: **0 registered clinical trials** and **2 publicati
 | Predicted New Indication | Refractory cytopenia of childhood |
 | TxGNN Prediction Score | 0.9903 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 13) |
+| US Market Status | Marketed (valid licenses on record: at least 10) |
 | Number of NDAs | 13 (all ANDA generic applications, none currently valid) |
 | Recommended Decision | Hold |
 

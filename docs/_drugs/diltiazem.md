@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 609
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Diltiazem: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ The TxGNN model produced candidates for Diltiazem, but every candidate that can 
 | New predicted indications | None (all traceable model candidates are known uses) |
 | Known uses among model candidates | 1 |
 | Evidence level | Not applicable |
-| Market status in the United States | Marketed (valid licenses on record: at least 19) |
+| Market status in the United States | Marketed (valid licenses on record: at least 18) |
 | Number of NDAs | at least 19 |
 
 ## Known uses among the model's candidates
@@ -86,7 +86,7 @@ The TxGNN model produced candidates for Diltiazem, but every candidate that can 
 | ANDA205231 | Diltiazem hydrochloride | CAPSULE, EXTENDED RELEASE | Valid |
 | ANDA217377 | diltiazem hydrochloride | CAPSULE, EXTENDED RELEASE | Valid |
 | ANDA074752 | Diltiazem Hydrochloride | CAPSULE, EXTENDED RELEASE | Valid |
-| ANDA090421 | Diltiazem Hydrochloride | CAPSULE, EXTENDED RELEASE | Valid |
+| ANDA090421 | Diltiazem Hydrochloride | CAPSULE, EXTENDED RELEASE | ANDA (Discontinued in Drugs@FDA) |
 | ANDA074185 | Diltiazem Hydrochloride | TABLET, FILM COATED | Valid |
 | ANDA075853 | DILTIAZEM HCI | INJECTION, POWDER, LYOPHILIZED, FOR SOLU | Valid |
 

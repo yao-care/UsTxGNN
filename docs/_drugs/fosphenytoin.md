@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "FOSPHENYTOIN"
 predicted_indications: ["conjunctivitis", "nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome", "manic bipolar affective disorder", "idiopathic granulomatous myositis", "myositis fibrosa", "fibromyalgia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Fosphenytoin: predicted new indication Conjunctivitis (evidence level L5). Approved use: Epilepsy, status epilepticus"
 ---
 
@@ -52,8 +52,8 @@ but **no clinical trials** and **no publications** currently support this predic
 | Predicted New Indication | Conjunctivitis |
 | TxGNN Prediction Score | 0.9936 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 6 of 6) |
-| Number of NDAs | 6 (valid: 6) |
+| US Market Status | Marketed (valid licenses: 5 of 6) |
+| Number of NDAs | 6 (valid: 5) |
 | Recommended Decision | Hold |
 
 ---

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1124
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Riluzole: predicted new indication Bilateral parasagittal parieto-occipital polymicrogyria (evidence level L5). Approved use: Amyotrophic lateral sclerosis"
 monitor_inn: "RILUZOLE"
 predicted_indications: ["bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia", "lower motor neuron syndrome with late-adult onset", "trichomegaly-retina pigmentary degeneration-dwarfism syndrome", "lethal arthrogryposis-anterior horn cell disease syndrome", "monomelic amyotrophy", "Mills syndrome", "autosomal dominant mitochondrial myopathy with exercise intolerance", "amyotrohpic lateral sclerosis type 22"]
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **bilateral parasagittal pariet
 | Predicted New Indication | Bilateral parasagittal parieto-occipital polymicrogyria |
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 6 of 6) |
-| Number of NDAs | 6 (valid: 6) |
+| US Market Status | Marketed (valid licenses: 5 of 6) |
+| Number of NDAs | 6 (valid: 5) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -88,7 +88,7 @@ All six authorizations are valid. No approved-indication text is available in th
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
 | ANDA204048 | Riluzole (Ascend Laboratories) | Tablet | Valid |
-| ANDA091417 | Riluzole (Sun Pharmaceutical) | Tablet, film coated | Valid |
+| ANDA091417 | Riluzole (Sun Pharmaceutical) | Tablet, film coated | ANDA (Discontinued in Drugs@FDA) |
 | ANDA091394 | Riluzole (Glenmark) | Tablet, film coated | Valid |
 | ANDA206045 | Riluzole (AvKARE) | Tablet, film coated | Valid |
 | NDA209080 | TIGLUTIK (EDW Pharma) | Liquid | Valid |

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "FLUOCINOLONE ACETONIDE"
 predicted_indications: ["hypertrophic lichen planus", "annular atrophic lichen planus", "lichen planus pigmentosus", "lichen planus pemphigoides"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Fluocinolone Acetonide: predicted new indication Hypertrophic lichen planus (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -49,7 +49,7 @@ The TxGNN model predicts it may be effective for **Hypertrophic Lichen Planus**,
 | Predicted New Indication | Hypertrophic lichen planus |
 | TxGNN Prediction Score | 0.9942 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 17) |
+| US Market Status | Marketed (valid licenses on record: at least 15) |
 | Number of NDAs | 17 authorizations in total (4 NDAs and 13 ANDAs; all cancelled) |
 | Recommended Decision | Hold |
 

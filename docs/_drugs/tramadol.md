@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1246
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Tramadol: predicted new indication Acromesomelic dysplasia, Hunter-Thompson type (evidence level L5). Approved use: Osteoarthritis (also osteoarthritis susceptibility and arthropathy)"
 monitor_inn: "TRAMADOL"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "juvenile idiopathic arthritis", "juvenile arthritis due to defect in LACC1", "rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"]
@@ -50,7 +50,7 @@ but **no clinical trials** and **no publications** currently support this predic
 | Predicted New Indication | Acromesomelic dysplasia, Hunter-Thompson type |
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 10) |
+| US Market Status | Marketed (valid licenses on record: at least 8) |
 | Number of NDAs | 10 |
 | Recommended Decision | Hold |
 

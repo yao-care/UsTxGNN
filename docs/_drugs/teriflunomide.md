@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 1214
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Teriflunomide: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ All candidates produced by the TxGNN model for Teriflunomide that can be traced 
 | New predicted indications | None (all traceable model candidates are known uses) |
 | Known uses among model candidates | 1 |
 | Evidence level | Not applicable |
-| Market status in the United States | Marketed (valid licenses on record: at least 12) |
+| Market status in the United States | Marketed (valid licenses on record: at least 11) |
 | Number of NDAs | at least 12 |
 
 ## Known uses among the model's candidates
@@ -73,7 +73,7 @@ All candidates produced by the TxGNN model for Teriflunomide that can be traced 
 | ANDA209700 | Teriflunomide | TABLET, FILM COATED | Valid |
 | ANDA218663 | TERIFLUNOMIDE | TABLET, FILM COATED | Valid |
 | NDA202992 | teriflunomide | TABLET, FILM COATED | Valid |
-| ANDA209702 | Teriflunomide | TABLET, FILM COATED | Valid |
+| ANDA209702 | Teriflunomide | TABLET, FILM COATED | ANDA (Discontinued in Drugs@FDA) |
 | ANDA209668 | Teriflunomide | TABLET, FILM COATED | Valid |
 | ANDA209572 | TERIFLUNOMIDE | TABLET, FILM COATED | Valid |
 | ANDA209639 | Teriflunomide | TABLET, FILM COATED | Valid |

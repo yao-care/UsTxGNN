@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "DIFLUPREDNATE"
 predicted_indications: ["familial adrenal hypoplasia with absent pituitary luteinizing hormone", "seborrheic keratosis", "PAGOD syndrome", "vulvar inverted follicular keratosis", "adrenocortical insufficiency", "seborrheic dermatitis", "46,XY disorder of sex development", "necrobiosis lipoidica", "nephrotic syndrome", "iris disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Difluprednate: predicted new indication Familial adrenal hypoplasia with absent pituitary luteinizing hormone (evidence level L5). Approved use: Not stated in the US license records compiled for this…"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **familial adrenal hypoplasia w
 | Predicted New Indication | Familial adrenal hypoplasia with absent pituitary luteinizing hormone |
 | TxGNN Prediction Score | 0.9996 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 8 of 8) |
-| Number of NDAs | 8 (valid: 8) |
+| US Market Status | Marketed (valid licenses: 7 of 8) |
+| Number of NDAs | 8 (valid: 7) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

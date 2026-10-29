@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "OLICERIDINE"
 predicted_indications: ["insomnia (disease)", "migraine disorder", "irritable bowel syndrome", "neurocirculatory asthenia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Oliceridine: predicted new indication Insomnia (evidence level L5). Approved use: Not stated in the data compiled for this report"
 ---
 
@@ -48,8 +48,8 @@ Oliceridine is a G protein-biased mu-opioid receptor agonist given by injection,
 | Predicted New Indication | Insomnia |
 | TxGNN Prediction Score | 0.9979 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| US Market Status | Not marketed (licenses canceled: 1 of 1) |
+| Number of NDAs | 1 (valid: 0) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

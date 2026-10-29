@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 764
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Guanfacine: predicted new indication Faciodigitogenital syndrome (evidence level L5). Approved use: Hypertension"
 monitor_inn: "GUANFACINE"
 predicted_indications: ["faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "trichotillomania", "manic bipolar affective disorder", "restless legs syndrome", "Tourette syndrome"]
@@ -52,7 +52,7 @@ Currently **0 clinical trials** and **0 publications** support this prediction, 
 | Predicted New Indication | Faciodigitogenital syndrome |
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L5 (model prediction only) |
-| US Market Status | Marketed (valid licenses on record: at least 11) |
+| US Market Status | Marketed (valid licenses on record: at least 10) |
 | Number of NDAs | 11 authorizations (1 NDA, 10 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 

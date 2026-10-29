@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 1119
 evidence_level: L1
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "RIBAVIRIN"
 predicted_indications: ["chronic hepatitis B virus infection", "primitive portal vein thrombosis", "early-onset familial noncirrhotic portal hypertension", "hepatopulmonary syndrome", "hepatoportal sclerosis", "hepatic porphyria", "IgG4-related pachymeningitis", "IgG4-related aortitis", "IgG4-related mesenteritis"]
 description: "Ribavirin: predicted new indication Chronic hepatitis B virus infection (evidence level L1). Approved use: Not recorded in the local data"
@@ -52,8 +52,8 @@ with **15 clinical trials** and **20 publications** retrieved. Most of these are
 | Predicted New Indication | Chronic hepatitis B virus infection |
 | TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L1 (nominal, see note below) |
-| US Market Status | Marketed (valid licenses: 5 of 5) |
-| Number of NDAs | 5 (valid: 5) |
+| US Market Status | Marketed (valid licenses: 3 of 5) |
+| Number of NDAs | 5 (valid: 3) |
 | Recommended Decision | Hold |
 
 *Note on evidence level:* Under the grading rules, two completed Phase 3 trials would qualify for L1. Only one completed Phase 3 trial (NCT00114361) directly addresses ribavirin in HBV, and it tested a combination with peginterferon. The other Phase 3 trials are HCV-focused. The L1 label should therefore be read cautiously, and the effective strength of direct evidence is closer to L2.
@@ -114,8 +114,8 @@ All five authorizations in the data are valid, and the drug is marketed in the U
 |---------|------|------|-----------|
 | ANDA079111 | Ribavirin (Aurobindo Pharma) | Tablet, film coated | Valid |
 | ANDA079117 | Ribavirin (Aurobindo Pharma) | Capsule | Valid |
-| NDA018859 | Ribavirin (Bryant Ranch Prepack) | Powder, for solution | Valid |
-| ANDA207366 | Ribavirin (Navinta LLC) | Powder, for solution | Valid |
+| NDA018859 | Ribavirin (Bryant Ranch Prepack) | Powder, for solution | NDA (Discontinued in Drugs@FDA) |
+| ANDA207366 | Ribavirin (Navinta LLC) | Powder, for solution | ANDA (Discontinued in Drugs@FDA) |
 | Not specified | Ribavirinum (Hahnemann Laboratories) | Pellet | Cancelled |
 
 ---

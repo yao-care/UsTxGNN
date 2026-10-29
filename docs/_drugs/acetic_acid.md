@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "ACETIC ACID"
 predicted_indications: ["post-bacterial disorder", "postinfectious vasculitis", "post-infectious syndrome", "Chagas cardiomyopathy", "infective urethral stricture", "infection-related hemolytic uremic syndrome", "drug-induced osteoporosis", "pityriasis simplex", "tinea corporis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Acetic Acid: predicted new indication post-bacterial disorder (evidence level L5). Approved use: Otitis externa"
 ---
 
@@ -50,8 +50,8 @@ The top-scoring predictions (e.g., post-bacterial disorder) have no supporting s
 | Predicted New Indication | Tinea corporis (highest-ranked prediction by TxGNN is post-bacterial disorder, but it has no evidence, so tinea corporis is the focus here) |
 | TxGNN Prediction Score | 0.9925 (tinea corporis); 0.9998 (post-bacterial disorder, rank 1, no evidence) |
 | Evidence Level | L5 (tinea corporis); L5 for all other predictions |
-| US Market Status | Marketed (valid licenses: 6 of 6) |
-| Number of NDAs | 6 (valid: 6) |
+| US Market Status | Marketed (valid licenses: 4 of 6) |
+| Number of NDAs | 6 (valid: 4) |
 | Recommended Decision | Hold (tinea corporis may be treated as a research question) |
 
 ## Why is This Prediction Reasonable?
@@ -92,8 +92,8 @@ All six authorizations are valid and the drug is currently marketed. The data co
 
 | Authorization Number | Product Name | Dosage Form | Manufacturer | Status |
 |---------|------|------|------|------|
-| ANDA040166 | Acetic Acid | Solution | Chartwell RX, LLC | Valid |
-| NDA012179 | Acetic Acid | Solution | NuCare Pharmaceuticals, Inc. | Valid |
+| ANDA040166 | Acetic Acid | Solution | Chartwell RX, LLC | ANDA (Discontinued in Drugs@FDA) |
+| NDA012179 | Acetic Acid | Solution | NuCare Pharmaceuticals, Inc. | NDA (Discontinued in Drugs@FDA) |
 | ANDA040607 | Acetic Acid | Solution | A-S Medication Solutions | Valid |
 | NDA018161 | Acetic Acid | Irrigant | B. Braun Medical Inc. | Valid |
 | NDA018523 | Acetic Acid | Irrigant | Baxter Healthcare Corporation | Valid |

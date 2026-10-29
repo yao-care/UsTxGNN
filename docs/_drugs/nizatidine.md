@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "NIZATIDINE"
 predicted_indications: ["duodenal obstruction", "gastroduodenitis", "multiple endocrine neoplasia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Nizatidine: predicted new indication duodenal obstruction (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -48,8 +48,8 @@ Nizatidine is an H2-receptor antagonist (acid-suppressing drug). The TxGNN model
 | Predicted New Indication | duodenal obstruction |
 | TxGNN Prediction Score | 0.9986 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 4 of 4) |
-| Number of NDAs | 4 (valid: 4) |
+| US Market Status | Marketed (valid licenses: 3 of 4) |
+| Number of NDAs | 4 (valid: 3) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

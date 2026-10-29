@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 1044
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Pilocarpine: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ The TxGNN deep-learning model produced candidates for Pilocarpine at a score of 
 | New predicted indications | None (all traceable model candidates are known uses) |
 | Known uses among model candidates | 1 |
 | Evidence level | Not applicable |
-| Market status in the United States | Marketed (valid licenses on record: at least 10) |
+| Market status in the United States | Marketed (valid licenses on record: at least 8) |
 | Number of NDAs | at least 10 |
 
 ## Known uses among the model's candidates
@@ -72,14 +72,14 @@ The TxGNN deep-learning model produced candidates for Pilocarpine at a score of 
 |------|------|------|------|
 | ANDA077220 | Pilocarpine Hydrochloride | TABLET, FILM COATED | Valid |
 | ANDA076963 | PILOCARPINE HYDROCHLORIDE | TABLET, FILM COATED | Valid |
-| NDA214028 | Pilocarpine Hydrochloride | SOLUTION/ DROPS | Valid |
+| NDA214028 | Pilocarpine Hydrochloride | SOLUTION/ DROPS | NDA (Discontinued in Drugs@FDA) |
 | NDA217836 | Pilocarpine Hydrochloride | SOLUTION | Valid |
 | ANDA077248 | PILOCARPINE HYDROCHLORIDE | TABLET, FILM COATED | Valid |
 | NDA020237 | Pilocarpine Hydrochloride | TABLET, FILM COATED | Valid |
 | NDA200890 | pilocarpine hydrochloride | SOLUTION/ DROPS | Valid |
 | ANDA214193 | Pilocarpine Hydrochloride | SOLUTION/ DROPS | Valid |
 | ANDA212377 | pilocarpine hydrochloride | TABLET, FILM COATED | Valid |
-| ANDA076746 | pilocarpine hydrchloride | TABLET, FILM COATED | Valid |
+| ANDA076746 | pilocarpine hydrchloride | TABLET, FILM COATED | ANDA (Discontinued in Drugs@FDA) |
 
 Only part of the licence list is held in the data; the list may be incomplete.
 

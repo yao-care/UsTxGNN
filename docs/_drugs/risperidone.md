@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1128
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "RISPERIDONE"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania", "major affective disorder"]
 description: "Risperidone: predicted new indication Gaze palsy, familial horizontal, with progressive scoliosis (evidence level L5). Approved use: Not recorded in the local data"
@@ -50,7 +50,7 @@ This prediction currently has **0 clinical trials** and **0 publications** behin
 | Predicted New Indication | Gaze palsy, familial horizontal, with progressive scoliosis |
 | TxGNN Prediction Score | 0.9976 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 10) |
+| US Market Status | Marketed (valid licenses on record: at least 8) |
 | Number of NDAs | 10 licenses in total (2 NDAs, 8 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 
@@ -74,7 +74,7 @@ Currently no related literature available.
 
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|------|
-| NDA021444 | RISPERDAL M-TAB (Janssen) | Orally disintegrating tablet | Valid |
+| NDA021444 | RISPERDAL M-TAB (Janssen) | Orally disintegrating tablet | NDA (Discontinued in Drugs@FDA) |
 | NDA213586 | UZEDY (Teva) | Extended-release injectable suspension | Valid |
 | ANDA078707 | Risperidone (Westminster) | Film-coated tablet | Valid |
 | ANDA079059 | Risperidone (Bryant Ranch Prepack) | Solution | Valid |

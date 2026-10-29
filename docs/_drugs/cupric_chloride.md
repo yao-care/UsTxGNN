@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "CUPRIC CHLORIDE"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "thrombocytopenia due to immune destruction"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Cupric Chloride: predicted new indication Primary release disorder of platelets (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **primary release disorder of p
 | Predicted New Indication | Primary release disorder of platelets |
 | TxGNN Prediction Score | 0.9929 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 5 of 5) |
-| Number of NDAs | 5 (valid: 5) |
+| US Market Status | Marketed (valid licenses: 4 of 5) |
+| Number of NDAs | 5 (valid: 4) |
 | Recommended Decision | Hold |
 
 Two other predictions were also generated, and both are at evidence level L5 with a Hold recommendation:

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "DOXERCALCIFEROL"
 predicted_indications: ["obsolete vitamin D deficiency"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Doxercalciferol: predicted new indication Obsolete vitamin D deficiency (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -49,8 +49,8 @@ The TxGNN model predicts it may be effective for **"obsolete vitamin D deficienc
 | Predicted New Indication | Obsolete vitamin D deficiency |
 | TxGNN Prediction Score | 0.9948 |
 | Evidence Level | L5 (model prediction only) |
-| US Market Status | Marketed (valid licenses: 5 of 5) |
-| Number of NDAs | 5 (valid: 5) |
+| US Market Status | Marketed (valid licenses: 4 of 5) |
+| Number of NDAs | 5 (valid: 4) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?
@@ -74,7 +74,7 @@ All five authorizations are valid. The approved indication text is not available
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
 | ANDA210452 | Doxercalciferol (Dr. Reddy's Laboratories Inc) | Injection | Valid |
-| ANDA213717 | Doxercalciferol (Eugia US LLC) | Injection, solution | Valid |
+| ANDA213717 | Doxercalciferol (Eugia US LLC) | Injection, solution | ANDA (Discontinued in Drugs@FDA) |
 | ANDA215810 | Doxercalciferol (Alembic Pharmaceuticals Inc.) | Injection, solution | Valid |
 | ANDA211670 | Doxercalciferol (Meitheal Pharmaceuticals Inc.) | Injection, solution | Valid |
 | ANDA205360 | Doxercalciferol (Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.) | Capsule | Valid |

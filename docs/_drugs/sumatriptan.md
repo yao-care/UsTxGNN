@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 1189
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Sumatriptan: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Sumatript
 | New predicted indications | None (all traceable model candidates are known uses) |
 | Known uses among model candidates | 1 |
 | Evidence level | Not applicable |
-| Market status in the United States | Marketed (valid licenses on record: at least 15) |
+| Market status in the United States | Marketed (valid licenses on record: at least 11) |
 | Number of NDAs | at least 15 |
 
 ## Known uses among the model's candidates
@@ -72,18 +72,18 @@ The TxGNN deep-learning model (score ≥ 0.99) produced candidates for Sumatript
 |------|------|------|------|
 | NDA210884 | sumatriptan | SPRAY | Valid |
 | ANDA078327 | Sumatriptan Succinate | TABLET | Valid |
-| ANDA076572 | Sumatriptan | TABLET | Valid |
+| ANDA076572 | Sumatriptan | TABLET | ANDA (Discontinued in Drugs@FDA) |
 | ANDA214209 | Sumatriptan | SPRAY | Valid |
 | ANDA208967 | sumatriptan | SPRAY | Valid |
 | ANDA213465 | sumatriptan | SPRAY | Valid |
 | ANDA213518 | sumatriptan succinate | INJECTION | Valid |
 | NDA020132 | sumatriptan | TABLET, FILM COATED | Valid |
-| ANDA076554 | SUMATRIPTAN | TABLET | Valid |
+| ANDA076554 | SUMATRIPTAN | TABLET | ANDA (Discontinued in Drugs@FDA) |
 | ANDA219036 | sumatriptan | TABLET, FILM COATED | Valid |
 | ANDA076847 | Sumatriptan Succinate | TABLET | Valid |
 | ANDA077744 | sumatriptan succinate | TABLET, FILM COATED | Valid |
-| ANDA207101 | Sumatriptan | INJECTION | Valid |
-| ANDA078295 | Sumatriptan Succinate | TABLET, FILM COATED | Valid |
+| ANDA207101 | Sumatriptan | INJECTION | ANDA (Discontinued in Drugs@FDA) |
+| ANDA078295 | Sumatriptan Succinate | TABLET, FILM COATED | ANDA (Discontinued in Drugs@FDA) |
 | ANDA078284 | Sumatriptan Succinate | TABLET, FILM COATED | Valid |
 
 Only part of the licence list is held in the data; the list may be incomplete.

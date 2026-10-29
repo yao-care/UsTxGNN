@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 916
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "METHYLPHENIDATE"
 predicted_indications: ["faciodigitogenital syndrome", "chondromyxoid fibroma", "specific developmental disorder", "dysthymic disorder"]
 description: "Methylphenidate: predicted new indication Faciodigitogenital syndrome (evidence level L5). Approved use: Not recorded in the local data"
@@ -49,7 +49,7 @@ The TxGNN model predicts it may be effective for **Faciodigitogenital Syndrome**
 | Predicted New Indication | Faciodigitogenital syndrome |
 | TxGNN Prediction Score | 1.0000 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 18) |
+| US Market Status | Marketed (valid licenses on record: at least 16) |
 | Number of NDAs | 18 authorizations in total (all cancelled; includes both NDAs and ANDAs) |
 | Recommended Decision | Hold |
 

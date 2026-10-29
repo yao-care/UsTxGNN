@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 9
 monitor_inn: "NABILONE"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "headache disorder", "trigeminal autonomic cephalalgia", "atrophoderma vermiculata", "nephrogenic syndrome of inappropriate antidiuresis", "ulerythema ophryogenesis", "manic bipolar affective disorder", "Tourette syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Nabilone: predicted new indication Migraine disorder (evidence level L4). Approved use: Not stated in the data compiled for this report"
 ---
 
@@ -48,8 +48,8 @@ Nabilone is a synthetic cannabinoid capsule (marketed in the US as Cesamet) that
 | Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 0.9989 |
 | Evidence Level | L4 |
-| US Market Status | Marketed (valid licenses: 1 of 1) |
-| Number of NDAs | 1 (valid: 1) |
+| US Market Status | Not marketed (licenses canceled: 1 of 1) |
+| Number of NDAs | 1 (valid: 0) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

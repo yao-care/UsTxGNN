@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "SOYBEAN OIL"
 predicted_indications: ["amenorrhea (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Soybean Oil: predicted new indication Amenorrhea (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,8 +50,8 @@ but there are currently **0 clinical trials** and **0 publications** supporting 
 | Predicted New Indication | Amenorrhea (disease) |
 | TxGNN Prediction Score | 0.9961 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 9 of 9) |
-| Number of NDAs | 9 (valid: 9) |
+| US Market Status | Marketed (valid licenses: 8 of 9) |
+| Number of NDAs | 9 (valid: 8) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

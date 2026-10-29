@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "POSACONAZOLE"
 predicted_indications: ["pneumocystosis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Posaconazole: predicted new indication Pneumocystosis (evidence level L5). Approved use: Chromomycosis, coccidioidomycosis, aspergillosis, candidiasis…"
 ---
 
@@ -49,7 +49,7 @@ The TxGNN model predicts it may be effective for **Pneumocystosis**, but only **
 | Predicted New Indication | Pneumocystosis |
 | TxGNN Prediction Score | 0.9977 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 14) |
+| US Market Status | Marketed (valid licenses on record: at least 12) |
 | Number of NDAs | 14 (2 NDAs and 12 ANDAs, all cancelled) |
 | Recommended Decision | Hold |
 

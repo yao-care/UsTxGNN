@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "PALONOSETRON"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Palonosetron: predicted new indication Migraine disorder (evidence level L5). Approved use: Not available in the data compiled for this report (palonosetron is g…"
 ---
 
@@ -48,7 +48,7 @@ Palonosetron is a 5-HT3 receptor antagonist, a drug class used to prevent nausea
 | Predicted New Indication | Migraine disorder |
 | TxGNN Prediction Score | 0.9974 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 14) |
+| US Market Status | Marketed (valid licenses on record: at least 12) |
 | Number of NDAs | 14 (all cancelled; 11 ANDAs and 3 NDAs) |
 | Recommended Decision | Hold |
 

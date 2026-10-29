@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "IVABRADINE"
 predicted_indications: ["hypertrichosis (disease)", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Ivabradine: predicted new indication Hypertrichosis (disease) (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,7 +50,7 @@ Ivabradine is a heart-rate-lowering drug that selectively inhibits the HCN chann
 | Predicted New Indication | Hypertrichosis (disease) |
 | TxGNN Prediction Score | 0.9979 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 7) |
+| US Market Status | Marketed (valid licenses on record: at least 6) |
 | Number of NDAs | 7 authorizations in total (1 NDA, 6 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 

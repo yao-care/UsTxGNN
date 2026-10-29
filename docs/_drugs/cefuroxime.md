@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "CEFUROXIME"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "Peptostreptococcus infectious disease", "blood group incompatibility", "urinary tract infection (disease)", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Cefuroxime: predicted new indication Polyclonal hyperviscosity syndrome (evidence level L5). Approved use: Bacterial infections (otitis media, pneumonia, meningitis, gonorrhea…"
 ---
 
@@ -54,7 +54,7 @@ The TxGNN model's top-ranked prediction is **polyclonal hyperviscosity syndrome*
 | TxGNN Prediction Score (rank 1) | 0.9976 |
 | Evidence Level (rank 1) | L5 |
 | Best-Supported Candidate | Polyclonal hyperviscosity syndrome |
-| US Market Status | Marketed (valid licenses on record: at least 5) |
+| US Market Status | Marketed (valid licenses on record: at least 4) |
 | Number of NDAs/ANDAs | 5 (all cancelled) |
 | Recommended Decision | Hold (rank 1); UTI is a research question |
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "LIFITEGRAST"
 predicted_indications: ["penile fibromatosis", "palmar fibromatosis", "Ledderhose disease", "infantile digital fibromatosis", "severe nonproliferative diabetic retinopathy", "diabetic retinopathy"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Lifitegrast: predicted new indication Penile fibromatosis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -51,8 +51,8 @@ The TxGNN model predicts it may be effective for **penile fibromatosis** (Peyron
 | Predicted New Indication | Penile fibromatosis |
 | TxGNN Prediction Score | 0.9959 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 2 of 2) |
-| Number of NDAs | 2 (valid: 2) |
+| US Market Status | Marketed (valid licenses: 1 of 2) |
+| Number of NDAs | 2 (valid: 1) |
 | Recommended Decision | Hold |
 
 Other predicted indications from the same analysis, all at evidence level L5 and Hold: palmar fibromatosis (0.9959), Ledderhose disease (0.9957), infantile digital fibromatosis (0.9953), severe nonproliferative diabetic retinopathy (0.9924), and diabetic retinopathy (0.9903).

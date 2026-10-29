@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 627
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "DOXYCYCLINE"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "exposure keratitis", "chronic gingivitis"]
 description: "Doxycycline: predicted new indication Top-ranked: punctate epithelial keratoconjunctivitis . Best-supported: post-bacterial disorder (punctate epithelial ker… (evidence level L5). Approved use: Not r…"
@@ -52,7 +52,7 @@ That direction is backed by **11 clinical trials** (several completed Phase 4 an
 | Predicted New Indication | Top-ranked: punctate epithelial keratoconjunctivitis (rank 1). Best-supported: post-bacterial disorder (punctate epithelial keratoconjunctivitis) |
 | TxGNN Prediction Score | 0.9994 |
 | Evidence Level | L5 (punctate epithelial keratoconjunctivitis); L1 (post-bacterial disorder) |
-| US Market Status | Marketed (valid licenses on record: at least 15) |
+| US Market Status | Marketed (valid licenses on record: at least 14) |
 | Number of NDAs | 15 (1 NDA, 14 ANDAs) |
 | Recommended Decision | Hold (top-ranked prediction); Proceed with Guardrails (post-bacterial disorder / doxy-PEP) |
 

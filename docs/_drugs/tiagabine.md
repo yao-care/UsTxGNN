@@ -5,7 +5,7 @@ parent: Known Uses Only (No New Predictions)
 nav_order: 1226
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Tiagabine: known uses and market status in the United States; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -46,8 +46,8 @@ The TxGNN deep-learning model produced candidates for Tiagabine, but every candi
 | New predicted indications | None (all traceable model candidates are known uses) |
 | Known uses among model candidates | 0 |
 | Evidence level | Not applicable |
-| Market status in the United States | Marketed (valid licenses: 3 of 3) |
-| Number of NDAs | 3 (valid: 3) |
+| Market status in the United States | Marketed (valid licenses: 2 of 3) |
+| Number of NDAs | 3 (valid: 2) |
 
 ## Known uses among the model's candidates
 
@@ -72,7 +72,7 @@ The TxGNN deep-learning model produced candidates for Tiagabine, but every candi
 |------|------|------|------|
 | NDA020646 | Tiagabine Hydrochloride | TABLET, FILM COATED | Valid |
 | ANDA214816 | Tiagabine Hydrochloride | TABLET | Valid |
-| ANDA077555 | TIAGABINE HYDROCHLORIDE | TABLET, FILM COATED | Valid |
+| ANDA077555 | TIAGABINE HYDROCHLORIDE | TABLET, FILM COATED | ANDA (Discontinued in Drugs@FDA) |
 
 ## Safety Considerations
 

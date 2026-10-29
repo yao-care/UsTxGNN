@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "FULVESTRANT"
 predicted_indications: ["HIV infectious disease", "multiple endocrine neoplasia", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "rheumatoid arthritis", "acne (disease)", "brachydactyly-syndactyly syndrome", "hemoglobinopathy", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Fulvestrant: predicted new indication HIV infectious disease (evidence level L4). Approved use: Not listed in the data compiled for this report (fulvestrant is widel…"
 ---
 
@@ -50,8 +50,8 @@ but the supporting evidence is thin: **0 clinical trials** and **2 publications*
 | Predicted New Indication | HIV infectious disease |
 | TxGNN Prediction Score | 0.9991 |
 | Evidence Level | L4 |
-| US Market Status | Marketed (valid licenses: 12 of 12) |
-| Number of NDAs | 12 (valid: 12) |
+| US Market Status | Marketed (valid licenses: 11 of 12) |
+| Number of NDAs | 12 (valid: 11) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "CARBOPROST TROMETHAMINE"
 predicted_indications: ["atypical coarctation of aorta", "aortic malformation", "migraine with brainstem aura", "migraine disorder", "pulmonary hypertension", "non-syndromic esophageal malformation", "kyphoscoliotic heart disease", "amenorrhea (disease)", "esophageal disease", "primary hereditary glaucoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Carboprost Tromethamine: predicted new indication Atypical coarctation of aorta (evidence level L5). Approved use: Not stated in the data compiled for this report (the drug is known as…"
 ---
 
@@ -48,7 +48,7 @@ Carboprost tromethamine is a prostaglandin F2alpha analog marketed in the US as 
 | Predicted New Indication | Atypical coarctation of aorta |
 | TxGNN Prediction Score | 0.9999 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses on record: at least 13) |
+| US Market Status | Marketed (valid licenses on record: at least 12) |
 | Number of NDAs | 13 licenses listed (1 NDA, 12 ANDAs), all cancelled |
 | Recommended Decision | Hold |
 

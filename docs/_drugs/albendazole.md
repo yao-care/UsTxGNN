@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 3
 monitor_inn: "ALBENDAZOLE"
 predicted_indications: ["alveolar echinococcosis", "coenurosis", "Cestode infectious disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Albendazole: predicted new indication Alveolar echinococcosis (evidence level L2). Approved use: Cystic echinococcosis, cysticercosis"
 ---
 
@@ -50,8 +50,8 @@ with **3 clinical trials** and **20 publications** currently supporting this dir
 | Predicted New Indication | Alveolar echinococcosis |
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L2 |
-| US Market Status | Marketed (valid licenses: 7 of 7) |
-| Number of NDAs | 7 (valid: 7) |
+| US Market Status | Marketed (valid licenses: 5 of 7) |
+| Number of NDAs | 7 (valid: 5) |
 | Recommended Decision | Proceed with Guardrails |
 
 ## Why is This Prediction Reasonable?

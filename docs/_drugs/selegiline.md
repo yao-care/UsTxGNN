@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "SELEGILINE"
 predicted_indications: ["polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "schizophrenia", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Selegiline: predicted new indication Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -51,8 +51,8 @@ The TxGNN model predicts it may be effective for **Schizophrenia** (the second-r
 | Predicted New Indication | Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis |
 | TxGNN Prediction Score | 0.9915 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 8 of 8) |
-| Number of NDAs | 8 (valid: 8) |
+| US Market Status | Marketed (valid licenses: 6 of 8) |
+| Number of NDAs | 8 (valid: 6) |
 | Recommended Decision | Hold (treat as a research question) |
 
 ---
@@ -103,7 +103,7 @@ The data compiled for this report contain no approved-indication text.
 | Authorization Number | Product Name | Dosage Form | Status |
 |---------|------|------|-----------|
 | NDA021336 | EMSAM | Patch | Valid |
-| NDA021479 | ZELAPAR | Orally disintegrating tablet | Valid |
+| NDA021479 | ZELAPAR | Orally disintegrating tablet | NDA (Discontinued in Drugs@FDA) |
 | ANDA074672 | Selegiline Hydrochloride | Tablet | Valid |
 | ANDA206803 | Selegiline Hydrochloride | Capsule | Valid |
 | ANDA074871 | Selegiline Hydrochloride | Tablet | Valid |

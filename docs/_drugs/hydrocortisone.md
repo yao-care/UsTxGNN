@@ -5,7 +5,7 @@ parent: High Evidence (L1-L2)
 nav_order: 776
 evidence_level: L1
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "HYDROCORTISONE"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
 description: "Hydrocortisone: predicted new indication Alopecia areata (evidence level L1). Approved use: Not recorded in the local data"
@@ -49,7 +49,7 @@ The TxGNN model predicts it may be effective for **alopecia areata**, but only *
 | Predicted New Indication | Alopecia areata |
 | TxGNN Prediction Score | 0.9997 |
 | Evidence Level | L1 (formally met by one Phase 3 RCT, but see caveats below) |
-| US Market Status | Marketed (valid licenses on record: at least 9) |
+| US Market Status | Marketed (valid licenses on record: at least 8) |
 | Number of NDAs | 9 (all cancelled; the records are mostly ANDA or OTC monograph entries) |
 | Recommended Decision | Hold |
 

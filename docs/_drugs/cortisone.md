@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "CORTISONE"
 predicted_indications: ["primary cutaneous T-cell lymphoma", "adrenocortical insufficiency", "myelodysplastic syndrome", "lymphosarcoma", "candidiasis", "Crohn's colitis", "refractory cytopenia of childhood", "unclassified myelodysplastic syndrome", "partial deletion of the long arm of chromosome 5"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Cortisone: predicted new indication primary cutaneous T-cell lymphoma (evidence level L5). Approved use: Not recorded in the local data"
 ---
 
@@ -50,8 +50,8 @@ Support is very thin: the data compiled for this report contain **no clinical tr
 | Predicted New Indication | primary cutaneous T-cell lymphoma |
 | TxGNN Prediction Score | 0.9967 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 2 of 2) |
-| Number of NDAs | 2 (valid: 2) |
+| US Market Status | Marketed (valid licenses: 1 of 2) |
+| Number of NDAs | 2 (valid: 1) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 839
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 monitor_inn: "LATANOPROST"
 predicted_indications: ["visceral calciphylaxis", "hypotrichosis simplex of the scalp", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "congenital hypotrichosis milia", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis"]
 description: "Latanoprost: predicted new indication Visceral calciphylaxis (evidence level L5). Approved use: Not recorded in the local data"
@@ -49,8 +49,8 @@ but **0 clinical trials** and **0 publications** are currently available to supp
 | Predicted New Indication | Visceral calciphylaxis |
 | TxGNN Prediction Score | 0.9983 |
 | Evidence Level | L5 |
-| US Market Status | Marketed (valid licenses: 10 of 10) |
-| Number of NDAs | 10 (valid: 10) |
+| US Market Status | Marketed (valid licenses: 8 of 10) |
+| Number of NDAs | 10 (valid: 8) |
 | Recommended Decision | Hold |
 
 ## Why is This Prediction Reasonable?

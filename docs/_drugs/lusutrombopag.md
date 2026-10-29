@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 880
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 monitor_inn: "LUSUTROMBOPAG"
 predicted_indications: ["hereditary thrombocytopenia with normal platelets", "marcothrombocytopenia with mitral valve insufficiency", "transient neonatal thrombocytopenia", "dense granule disease", "platelet storage pool deficiency", "amyotrophic lateral sclerosis", "lower motor neuron syndrome with late-adult onset", "bilateral parasagittal parieto-occipital polymicrogyria", "axial spondylometaphyseal dysplasia"]
 description: "Lusutrombopag: predicted new indication Hereditary thrombocytopenia with normal platelets (evidence level L5). Approved use: Not recorded in the local data"
@@ -77,7 +77,6 @@ The model also returned nine other predictions, all at evidence level L5 with no
 | 5 | Platelet storage pool deficiency | 0.9996 | A qualitative platelet disorder that is unlikely to respond to a higher platelet count alone. |
 | 6 | Amyotrophic lateral sclerosis | 0.9995 | No plausible link between TPO receptor agonism and motor neuron degeneration. |
 | 7 | Lower motor neuron syndrome with late-adult onset | 0.9995 | No recognized link to the TPO pathway. The score comes from the TxGNN model (deep learning) and may reflect similarities the model learned between related diseases, not biological evidence. |
-| 8 | Amyotrophic lateral sclerosis, susceptibility to | 0.9995 | No mechanism connects the drug to the genetic risk. Likely a TxGNN model (deep learning) artifact. |
 | 9 | Bilateral parasagittal parieto-occipital polymicrogyria | 0.9995 | A developmental cortical malformation. The drug has no plausible effect. |
 | 10 | Axial spondylometaphyseal dysplasia | 0.9995 | A skeletal dysplasia with no relation to TPO signaling. Likely a computational artifact. |
 

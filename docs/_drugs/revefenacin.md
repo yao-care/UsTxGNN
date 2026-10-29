@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1118
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 monitor_inn: "REVEFENACIN"
 predicted_indications: ["bronchitis"]
 description: "Revefenacin: predicted new indication Bronchitis (evidence level L5). Approved use: Not recorded in the local data"
@@ -33,7 +33,7 @@ Evidence Level: **L5** | Predicted Indications: **1**
 
 </div>
 
-## Revefenacin: Bronchitis (rank 1); Obstructive lung disease (bronchitis)
+## Revefenacin: Bronchitis
 {: .text-alpha }
 
 ## One-Sentence Summary
@@ -49,9 +49,9 @@ For obstructive lung disease, **13 clinical trials** (including several complete
 | Item | Content |
 |------|------|
 | Original Indication | Not recorded in the local data |
-| Predicted New Indication | Bronchitis (rank 1); Obstructive lung disease (bronchitis) |
+| Predicted New Indication | Bronchitis |
 | TxGNN Prediction Score | 0.9961 |
-| Evidence Level | Bronchitis: L3 (indirect only); Obstructive lung disease: L1 |
+| Evidence Level | Bronchitis: L5 (indirect only); Obstructive lung disease: L5 |
 | US Market Status | Marketed (valid licenses: 1 of 1) |
 | Number of NDAs | 1 (valid: 1) |
 | Recommended Decision | Proceed with Guardrails (obstructive lung disease); Hold / research question only (bronchitis) |

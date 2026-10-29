@@ -5,7 +5,7 @@ parent: Model Prediction Only (L5)
 nav_order: 1227
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 monitor_inn: "TICAGRELOR"
 predicted_indications: ["intracranial arteriosclerosis", "Monckeberg arteriosclerosis", "priapism", "ischemic disease", "May-Thurner syndrome", "livedo reticularis", "vascular ectasia", "angiodysplasia", "fibrocartilaginous embolism"]
 description: "Ticagrelor: predicted new indication Intracranial arteriosclerosis (evidence level L5). Approved use: Not recorded in the local data"
@@ -120,7 +120,6 @@ The mechanism is plausible, and a large Phase 3 trial (CAPTIVA, n=1683) directly
 |------|------|------|------|------|------|
 | 4 | Ischemic disease | 0.9964 | L1 | Proceed with Guardrails | Largely overlaps the existing acute coronary syndrome use (e.g., TWILIGHT, PEGASUS, and 2021 stroke/TIA RCTs), so it confirms an existing use rather than novel repurposing |
 | 8 | Vascular ectasia | 0.9947 | L5 | Research Question | Only an indirect review on coronary ectasia; bleeding concern |
-| 2, 3, 5, 6, 7, 9, 10 | Monckeberg arteriosclerosis, priapism, May-Thurner syndrome, livedo reticularis, mesenteric vascular occlusion, angiodysplasia, fibrocartilaginous embolism | 0.9927–0.9994 | L5 | Hold | Little or no supporting evidence. Angiodysplasia is a bleeding source and likely a false-positive association. Priapism raises a possible adverse-event concern. |
 ## Disclaimer
 
 This content is for research purposes only and does not constitute medical advice.

@@ -3,7 +3,7 @@ layout: default
 title: "flu (influenza) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about flu (influenza). 3 articles, 2 related drugs."
+description: "Health news about flu (influenza). 4 articles, 2 related drugs."
 permalink: /news/influenza/
 last_modified_at: 2026-10-29
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="What news is there about flu (influenza)?">
-<strong>flu (influenza)</strong> currently has <strong>3 news articles</strong> and 2 related drugs.
+<strong>flu (influenza)</strong> currently has <strong>4 news articles</strong> and 2 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -31,29 +31,37 @@ This page brings together the latest health news about “flu” and lists the d
 </ul>
 </div>
 
-## Related News (3)
+## Related News (4)
 
-### [Sick right now? It's probably not the flu, but this virus is surging - NBC 5 Chicago](https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2lnMGI0OGVMam0yUE9iMWtTb016UmJpM3czNmtqY1NnOHRRY1dVV19sOGxOLVh6TlpwV19Yb1Z0Ri1tb18zcGFjV3h0TVAwMVRhTEJFWDA3M1JNN3ByOUNwOVVrMDY1Qzh6cHVqWlQ3WWVZckRNU2Zwczh2LVhFeHlubXl1dUFVLUNHLWUwaDFuWXB0MlJrTjBtbEpPamR3cHAySDI1S3FFSFMxWldLMmJ30gG6AUFVX3lxTE1DTEh3bHM5aXNkWEdfeVRocE42WmJXc2I5U0ZVRXcwQmFpcno2V2hyV3M0Wk43VUhjajJrVnVZWHZOWXZGVktPc3g5NnBXcThrU0R4NHJIMXlqOWlxMVJoRGJJanpTNFpGeEx1V2F4eG1lYmN2aHl5WWtkRXR0TE1jQ2FQdlptVFNhM3FRMFlkOE82NVo5dDlRUG9tVjA0Q0lMNkp3Z1J2N2F2aWhnS1dudXZFXzFfS1ZsUQ?oc=5)
+### [First flu-related death of the season reported in eastern Idaho - East Idaho News](https://news.google.com/rss/articles/CBMipwFBVV95cUxNMk9jYnNKS3pYcWlPZVh1eTFqZEN5b0hCNzhNX0FIYkRuc1NveW5tMkl2akh6eTU1WGFqSGhZNDdWSTlZZ081bnhkOW94UzhTX1V0dkFCQ3NfWVZ3Y1RTRUprWldCLXp3UEljOTA2TzZSU0VoMXNhbkp5UEVBMWgzN2hXbjhRTmlDWlE1MVVuUlhTZjZKS2NsRG05a3lTZ1FhT1Q4WGNPYw?oc=5)
 
-2026-10-28
+2026-10-29
 
-Source: [NBC 5 Chicago](https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2lnMGI0OGVMam0yUE9iMWtTb016UmJpM3czNmtqY1NnOHRRY1dVV19sOGxOLVh6TlpwV19Yb1Z0Ri1tb18zcGFjV3h0TVAwMVRhTEJFWDA3M1JNN3ByOUNwOVVrMDY1Qzh6cHVqWlQ3WWVZckRNU2Zwczh2LVhFeHlubXl1dUFVLUNHLWUwaDFuWXB0MlJrTjBtbEpPamR3cHAySDI1S3FFSFMxWldLMmJ30gG6AUFVX3lxTE1DTEh3bHM5aXNkWEdfeVRocE42WmJXc2I5U0ZVRXcwQmFpcno2V2hyV3M0Wk43VUhjajJrVnVZWHZOWXZGVktPc3g5NnBXcThrU0R4NHJIMXlqOWlxMVJoRGJJanpTNFpGeEx1V2F4eG1lYmN2aHl5WWtkRXR0TE1jQ2FQdlptVFNhM3FRMFlkOE82NVo5dDlRUG9tVjA0Q0lMNkp3Z1J2N2F2aWhnS1dudXZFXzFfS1ZsUQ?oc=5)
-
----
-
-### [Flu survivor shares near-death experience as doctors urge vaccination ahead of early flu season - ABC7 New York](https://news.google.com/rss/articles/CBMitAFBVV95cUxQMGhMekRSQjNzd1ZORHF0VnAwN28xX2h6ZTNqS056VDBHM0JmbFM5MmVZQnF3ZS1NVUhKS014VlpBSndwdDR6RFQ3SDBfTmFEb2Zzak96SUhIR3g2SnliT2h5alVsM1R1eFZmZ0wwZXg4WVA5UmxtbFRUUXdBc0JNZE4tSXRPcmlOY2NEemJXeTVtLUQ1Z3BpZ3JZaVBQZ0tCUFpjMkkyRGhWTmJlOGVRR0h1YmXSAboBQVVfeXFMTXJ6OUc0dDhSUUU0YV8yNldPNno5ZEk5MUs0VmpwSS0wZzdDZFFUT0tqSVFaMDFWd3NjMnYwOUFyZlJ3UnZCM2pCQTB4U0tqS21XcHlSMnJpc05ybjU5OTFQeGVrOWNuUEVjVlhsWlNTWFlHdFh3YXdTSGZlNG5hSWJWOUxpZUl4YWlDdmhUZjhDX2VkTWl5Um04Z01EdEEyUTRJZjVQU21JQXZZdm05N2JKSk05cUJKMEFR?oc=5)
-
-2026-10-27
-
-Source: [ABC7 New York](https://news.google.com/rss/articles/CBMitAFBVV95cUxQMGhMekRSQjNzd1ZORHF0VnAwN28xX2h6ZTNqS056VDBHM0JmbFM5MmVZQnF3ZS1NVUhKS014VlpBSndwdDR6RFQ3SDBfTmFEb2Zzak96SUhIR3g2SnliT2h5alVsM1R1eFZmZ0wwZXg4WVA5UmxtbFRUUXdBc0JNZE4tSXRPcmlOY2NEemJXeTVtLUQ1Z3BpZ3JZaVBQZ0tCUFpjMkkyRGhWTmJlOGVRR0h1YmXSAboBQVVfeXFMTXJ6OUc0dDhSUUU0YV8yNldPNno5ZEk5MUs0VmpwSS0wZzdDZFFUT0tqSVFaMDFWd3NjMnYwOUFyZlJ3UnZCM2pCQTB4U0tqS21XcHlSMnJpc05ybjU5OTFQeGVrOWNuUEVjVlhsWlNTWFlHdFh3YXdTSGZlNG5hSWJWOUxpZUl4YWlDdmhUZjhDX2VkTWl5Um04Z01EdEEyUTRJZjVQU21JQXZZdm05N2JKSk05cUJKMEFR?oc=5)
+Source: [East Idaho News](https://news.google.com/rss/articles/CBMipwFBVV95cUxNMk9jYnNKS3pYcWlPZVh1eTFqZEN5b0hCNzhNX0FIYkRuc1NveW5tMkl2akh6eTU1WGFqSGhZNDdWSTlZZ081bnhkOW94UzhTX1V0dkFCQ3NfWVZ3Y1RTRUprWldCLXp3UEljOTA2TzZSU0VoMXNhbkp5UEVBMWgzN2hXbjhRTmlDWlE1MVVuUlhTZjZKS2NsRG05a3lTZ1FhT1Q4WGNPYw?oc=5)
 
 ---
 
-### [A 'canary in the coal mine': Measles resurgence exposes weaknesses in U.S. public health, experts say](https://news.google.com/rss/articles/CBMibkFVX3lxTFBQeHFFY0VET0lSLXBsNG1vc0paTjJVOFFrOEd6QlpEZUs5QW9sU0QwTzhqdTloQUhuTFNXTHpKYm1rc1pwQUdMSkt2VHVlWWREa1AtLUpodWU4MTZhOVZYRU5naXNDRmdHOWFOcFhB0gFzQVVfeXFMUFB5ZS1HUWVsSnE0Q0xIa1ZDY1ZhRXV3a3VXeVFJb0VBaGtvS05pOHZhUHRsR2tNSU4xN1NlMnFVYjhzcThDTm5XeUhYMG1Ka1B6UUhtdkMzU19lbmd2X2RvaC1mNnRSblB0cy0zbU5JTzNINA?oc=5)
+### [Physicists Propose a Strange New State of Matter: A Liquid That Can Flow in Time](https://news.google.com/rss/articles/CBMirAFBVV95cUxQcy1zdEk1eWlUYU55Um53T3MySWZuNGRsZ2UzV2RzMy1wMTVxMzlwZWlqRXhZa1lvdUhZczhHejF4R1NKMlhHTFpLdjZwOHhBR0NOX2pRN2ROR2toWFl5R0ZyZUlmY2JQcWZzYjljc282SE5Zd1hUNGZFVUtyWF9MSWJ5SnV1bnRRdHRkV3ZBZWx4UWNYcXpkcHc3WFNodmNtXzNVSk9xLVVmbEdy?oc=5)
 
 2026-10-27
 
-Source: [CNBC](https://news.google.com/rss/articles/CBMibkFVX3lxTFBQeHFFY0VET0lSLXBsNG1vc0paTjJVOFFrOEd6QlpEZUs5QW9sU0QwTzhqdTloQUhuTFNXTHpKYm1rc1pwQUdMSkt2VHVlWWREa1AtLUpodWU4MTZhOVZYRU5naXNDRmdHOWFOcFhB0gFzQVVfeXFMUFB5ZS1HUWVsSnE0Q0xIa1ZDY1ZhRXV3a3VXeVFJb0VBaGtvS05pOHZhUHRsR2tNSU4xN1NlMnFVYjhzcThDTm5XeUhYMG1Ka1B6UUhtdkMzU19lbmd2X2RvaC1mNnRSblB0cy0zbU5JTzNINA?oc=5)
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMirAFBVV95cUxQcy1zdEk1eWlUYU55Um53T3MySWZuNGRsZ2UzV2RzMy1wMTVxMzlwZWlqRXhZa1lvdUhZczhHejF4R1NKMlhHTFpLdjZwOHhBR0NOX2pRN2ROR2toWFl5R0ZyZUlmY2JQcWZzYjljc282SE5Zd1hUNGZFVUtyWF9MSWJ5SnV1bnRRdHRkV3ZBZWx4UWNYcXpkcHc3WFNodmNtXzNVSk9xLVVmbEdy?oc=5)
+
+---
+
+### [Flu Activity Is Ramping Up Early This Year. Is a Mutated H1N1 Strain to Blame?](https://news.google.com/rss/articles/CBMimgFBVV95cUxQMmh4bFdPQ2ROeFVPdmNyNVZsc0Y4VFVONGpTcllwekEzeWR2VGYyV3BTNkRoQ2dTS19fc2VJZFpzSklKcmxpRjU2bW1lWkxFQkk0bmhlUW0tV29sTU1Wa3pXcG9pTXVSdDZQeC1tU1YyUGZieF80eDBmNkoySnU4Y0tGVm5ObGI2V2hMT3ktQUEzdF9OT1pJSTNB?oc=5)
+
+2026-10-26
+
+Source: [TODAY.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxQMmh4bFdPQ2ROeFVPdmNyNVZsc0Y4VFVONGpTcllwekEzeWR2VGYyV3BTNkRoQ2dTS19fc2VJZFpzSklKcmxpRjU2bW1lWkxFQkk0bmhlUW0tV29sTU1Wa3pXcG9pTXVSdDZQeC1tU1YyUGZieF80eDBmNkoySnU4Y0tGVm5ObGI2V2hMT3ktQUEzdF9OT1pJSTNB?oc=5)
+
+---
+
+### [Measles is a reckoning for RFK Jr. and MAHA](https://news.google.com/rss/articles/CBMiggFBVV95cUxNRVdhVVRPN1hEd3BIR041dTc1N0dIVEptMkRuQ3E5ZzNTemhjQ0EyQUYzS2FKWjNGb0NQSTRHcWJSZjFmLWdUTXVrOU5YUm9XV0V3Ym1zZ3c5OERuOXJrUFZOTmdKa2Y2Q0R1aVJzd3BFSzdRZlBBRzZnRmNla1Y0M25R?oc=5)
+
+2026-10-24
+
+Source: [Salon.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxNRVdhVVRPN1hEd3BIR041dTc1N0dIVEptMkRuQ3E5ZzNTemhjQ0EyQUYzS2FKWjNGb0NQSTRHcWJSZjFmLWdUTXVrOU5YUm9XV0V3Ym1zZ3c5OERuOXJrUFZOTmdKa2Y2Q0R1aVJzd3BFSzdRZlBBRzZnRmNla1Y0M25R?oc=5)
 
 ---
 

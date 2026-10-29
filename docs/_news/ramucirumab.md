@@ -44,11 +44,35 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 
 ## Related News (8)
 
-### [The rise of colon cancer among young people has been a mystery. Boston experts say they now have clues. - The Boston Globe](https://news.google.com/rss/articles/CBMikAFBVV95cUxQTFYyODd3aFJia3FQYTVMTHpKcTFSOUxXNnpKNGdYbFFjc2VxNGIwT1VPRXZvdzBfNTN2bjgzQnRiNFdCUnhFQ0RWNHNxZlEycF9XdG5PVU1GS0dfYnRYMW52NkFBcl9fb1haZTRROVRWQnhYQkd4WHpyYWlWNm00RVJ3T2QteG5iZmVMeE5sR0Y?oc=5)
+### [Colon cancer looks different in young people — and often more aggressive, a new study found - Business Insider](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdHNhck4xMHFXWEFJdGx4Q2NBOFVydzJlNXNHdEZnbmROZS1ZNzZBY1VqVHZqNnYwRmluQ01TSmI0N1pTZ0hlNTk0VXp3ajd6cVc1UTMxQ3FsY3RsSzBMQ0hfTHIyM2pRZDZUTGlrNW1USmUxRE5NbFB5VWR0YWFPcGh4RTZYT2lZOUgyQktJUnVrOFNfX21V?oc=5)
 
-2026-10-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
+2026-10-29 <span class="news-indication-tag">cancer</span>
 
-Source: [The Boston Globe](https://news.google.com/rss/articles/CBMikAFBVV95cUxQTFYyODd3aFJia3FQYTVMTHpKcTFSOUxXNnpKNGdYbFFjc2VxNGIwT1VPRXZvdzBfNTN2bjgzQnRiNFdCUnhFQ0RWNHNxZlEycF9XdG5PVU1GS0dfYnRYMW52NkFBcl9fb1haZTRROVRWQnhYQkd4WHpyYWlWNm00RVJ3T2QteG5iZmVMeE5sR0Y?oc=5)
+Source: [Business Insider](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdHNhck4xMHFXWEFJdGx4Q2NBOFVydzJlNXNHdEZnbmROZS1ZNzZBY1VqVHZqNnYwRmluQ01TSmI0N1pTZ0hlNTk0VXp3ajd6cVc1UTMxQ3FsY3RsSzBMQ0hfTHIyM2pRZDZUTGlrNW1USmUxRE5NbFB5VWR0YWFPcGh4RTZYT2lZOUgyQktJUnVrOFNfX21V?oc=5)
+
+---
+
+### [An Overlooked Immune Cell Killed The Deadliest Form of Lung Cancer in Lab Tests](https://news.google.com/rss/articles/CBMirAFBVV95cUxOenBTSi1XVV95a0lSdDEwd3pyb2ZQS0NFS29vQUpFRmoyLXAzNjNKc0E2eHlHZHhtSTZOdm5UVk4zVjQ1cUo4elFKN1dGenZMVDRDUUFSMV82RTMtVkN4Q2x6TEdKbVRpSmI4YXAycXMyMXBwRFdzd2dTeWl0eklpTWk0ZGlxUzVxRHY0Sk5iSnZELTU3dHZCdlh6T1NXYVRSTTdFYnZuZllmSXRZ?oc=5)
+
+2026-10-29 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMirAFBVV95cUxOenBTSi1XVV95a0lSdDEwd3pyb2ZQS0NFS29vQUpFRmoyLXAzNjNKc0E2eHlHZHhtSTZOdm5UVk4zVjQ1cUo4elFKN1dGenZMVDRDUUFSMV82RTMtVkN4Q2x6TEdKbVRpSmI4YXAycXMyMXBwRFdzd2dTeWl0eklpTWk0ZGlxUzVxRHY0Sk5iSnZELTU3dHZCdlh6T1NXYVRSTTdFYnZuZllmSXRZ?oc=5)
+
+---
+
+### [Utah pediatrician urges women not to delay mammograms after cancer diagnosis - KSL News](https://news.google.com/rss/articles/CBMiswFBVV95cUxOUkFVM21RNldSM0dPREVSTURZM0NvY2U5clpDQS14WVZRUV9MZkx1YUFBWXJRMjhXRXIwNU9yYl9WQnZ3Yl9pcmhjay10QzhMZjRucHMxRHNaRGt2SVRPQWR2clE2Q3dOOXBuMGdoUnRyWUpCVGtyOGZJV1UwZ3lEZGRsbUNSWlpqV0J1ckdNT2ZBMTlyYzZfYVppcDR4MHJHTzFYM2pqZFFkSVVvQWRFVTEwOA?oc=5)
+
+2026-10-28 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+
+Source: [KSL News](https://news.google.com/rss/articles/CBMiswFBVV95cUxOUkFVM21RNldSM0dPREVSTURZM0NvY2U5clpDQS14WVZRUV9MZkx1YUFBWXJRMjhXRXIwNU9yYl9WQnZ3Yl9pcmhjay10QzhMZjRucHMxRHNaRGt2SVRPQWR2clE2Q3dOOXBuMGdoUnRyWUpCVGtyOGZJV1UwZ3lEZGRsbUNSWlpqV0J1ckdNT2ZBMTlyYzZfYVppcDR4MHJHTzFYM2pqZFFkSVVvQWRFVTEwOA?oc=5)
+
+---
+
+### [Many people develop painful swelling after breast cancer treatment. What to know about lymphedema - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT1YwMi00MFZ4QTJBdlJEVTkya3RrRmF5NjM5ei1rV0pBak0wSHpXS21kTlNSUG11bkx1MjVTTThZaXJqbFlFejRieXhMS01WMXJ0STBpQTJxQmtTa0JTV2d1b2hMLUVNUmJjOE9WZk9xYlh1eHY0Q2tTcHJ2YzQ4czFwQ2U5dzhxN2hDNW96S2xCcGdvX3BGT25TUDkxYTMyNkpTQV8zak1WR2M?oc=5)
+
+2026-10-28 <span class="news-indication-tag">cancer</span>
+
+Source: [ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT1YwMi00MFZ4QTJBdlJEVTkya3RrRmF5NjM5ei1rV0pBak0wSHpXS21kTlNSUG11bkx1MjVTTThZaXJqbFlFejRieXhMS01WMXJ0STBpQTJxQmtTa0JTV2d1b2hMLUVNUmJjOE9WZk9xYlh1eHY0Q2tTcHJ2YzQ4czFwQ2U5dzhxN2hDNW96S2xCcGdvX3BGT25TUDkxYTMyNkpTQV8zak1WR2M?oc=5)
 
 ---
 
@@ -68,14 +92,6 @@ Source: [EatingWell](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ1pXUW
 
 ---
 
-### [Diagnostic test could flag which men need aggressive prostate cancer treatment and which don't - Fox News](https://news.google.com/rss/articles/CBMinAFBVV95cUxPeEhmWDRRNXdVY0xXcUlmTDRwaVg1d0Y1cFlVVUF1cGM5ck9RanI2bEJuS3otN2F3YnFFQm9zUTI5UVRmVHN4Vy1YOGxaZy1aV2lZNV9VWnZ5REhqVFhaTi1hd292c2tGb2d3alYxY29rVlBkOE85eWR1RUlqclpGY3BYb21WVmFLSnRkSWpLajBTSjVUTTdDa1FMS2vSAaIBQVVfeXFMUFVrTHVwMDBMa1R1MExmaUtMaHBLZk5QT3FydnQ4Z25fT29IRjI2VS16N3YwbE91ZW41b0lhMXphRnh3Ni1XUks2VXZGNnJXbVNYUjA5aU45NDN1NWs1TTdEajNSYUpac2t5ZXVpYUVaX1BmN2F2R0RuNjRrdVdyUXk2NUNBN2JnRFpXczBneEhUTWJxVWpUWlNFOXM1ZV96Rkp3?oc=5)
-
-2026-10-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
-
-Source: [Fox News](https://news.google.com/rss/articles/CBMinAFBVV95cUxPeEhmWDRRNXdVY0xXcUlmTDRwaVg1d0Y1cFlVVUF1cGM5ck9RanI2bEJuS3otN2F3YnFFQm9zUTI5UVRmVHN4Vy1YOGxaZy1aV2lZNV9VWnZ5REhqVFhaTi1hd292c2tGb2d3alYxY29rVlBkOE85eWR1RUlqclpGY3BYb21WVmFLSnRkSWpLajBTSjVUTTdDa1FMS2vSAaIBQVVfeXFMUFVrTHVwMDBMa1R1MExmaUtMaHBLZk5QT3FydnQ4Z25fT29IRjI2VS16N3YwbE91ZW41b0lhMXphRnh3Ni1XUks2VXZGNnJXbVNYUjA5aU45NDN1NWs1TTdEajNSYUpac2t5ZXVpYUVaX1BmN2F2R0RuNjRrdVdyUXk2NUNBN2JnRFpXczBneEhUTWJxVWpUWlNFOXM1ZV96Rkp3?oc=5)
-
----
-
 ### [Young adults with cancer report getting dismissed by doctors](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oMGtYVHZ0RmdWeTNHTzlGaHZBNzIySTg0YmJ6a3NhT2FSUi15dzFGZlNBUDcyU19xam9iU1ZTOF9EMzI3emc4Rm5JMWY2cDZISjUwdmNJT2xSZ1dtTXpSUjlyeXk1Zw?oc=5)
 
 2026-10-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span>
@@ -84,27 +100,11 @@ Source: [Futurity](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oMGtYVHZ0
 
 ---
 
-### [AI detects “invisible” signs of pancreatic cancer years before diagnosis - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE51T1h4YWVpam5oZE9WWGVkSjFuN1JiVGU3b0xnWE1IdXJwVkdBV0Rrb2FIY1U0N29FaU4yR2ZKT24zVTFxTWkzaHk4Ym5qeGxqU2stdTFMeEZnazhrMVNCVUVoT2FNSDhoU3ZUZGtHaw?oc=5)
-
-2026-10-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">UC</span>
-
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE51T1h4YWVpam5oZE9WWGVkSjFuN1JiVGU3b0xnWE1IdXJwVkdBV0Rrb2FIY1U0N29FaU4yR2ZKT24zVTFxTWkzaHk4Ym5qeGxqU2stdTFMeEZnazhrMVNCVUVoT2FNSDhoU3ZUZGtHaw?oc=5)
-
----
-
 ### [Beyond cigarettes: Uncovering the causes of lung cancer in nonsmokers - The Washington Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxNd1dJVFd0X0lOTldCT2ZGNk83ajctdE12dmdodndXLUVnNWlPd2RzQjBZRV9iVFQzZFdROGFsSW5wMGthTFBVdHdlT0FxT2d6d191aUxDSmxzby02RlFmUGFfb1FhQ0RBUW9ERmc0cGUyQjgzaV8zREV0UDluVVBuZDdnNzVGQkR6TG1IREZpNzdrUlBoRU9rSzZZMVY0UWtpTFh2TV9BSXI2aUhU?oc=5)
 
 2026-10-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
 
 Source: [The Washington Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxNd1dJVFd0X0lOTldCT2ZGNk83ajctdE12dmdodndXLUVnNWlPd2RzQjBZRV9iVFQzZFdROGFsSW5wMGthTFBVdHdlT0FxT2d6d191aUxDSmxzby02RlFmUGFfb1FhQ0RBUW9ERmc0cGUyQjgzaV8zREV0UDluVVBuZDdnNzVGQkR6TG1IREZpNzdrUlBoRU9rSzZZMVY0UWtpTFh2TV9BSXI2aUhU?oc=5)
-
----
-
-### [Scientists discover a hidden immune weapon against deadly lung cancer - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBuQ3hLOE9qYzRGS0d1YlhFZ2lUT2ZUdmpSeDNUdlB5aVFwc2JxdW4waDQ0dXlaZ294a2FsOTF4MTY0MVJUdXozRnhjenJpQ3ZzbU92cjdzY3RTRk1ma0hTSHNCTWpmX3Q0UFpYY2RxWQ?oc=5)
-
-2026-10-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
-
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTFBuQ3hLOE9qYzRGS0d1YlhFZ2lUT2ZUdmpSeDNUdlB5aVFwc2JxdW4waDQ0dXlaZ294a2FsOTF4MTY0MVJUdXozRnhjenJpQ3ZzbU92cjdzY3RTRk1ma0hTSHNCTWpmX3Q0UFpYY2RxWQ?oc=5)
 
 ---
 

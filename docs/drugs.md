@@ -31,6 +31,11 @@ description: "All drug validation reports and evidence level statistics in UsTxG
 
 ---
 
+<!-- local-home:start（母目錄 .claude/gen_local_home_20261029.py 產生，勿手改）-->
+This list is based on the registration data of [FDA](https://www.fda.gov/) (United States).
+
+<!-- local-home:end -->
+
 ## Evidence level breakdown
 
 | Evidence level | Drugs | Description |

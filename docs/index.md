@@ -20,6 +20,50 @@ AI-powered drug repurposing predictions for US FDA approved drugs using the TxGN
 {: .warning }
 > **Research Use Only**: The predictions on this site are for research purposes only and do not constitute medical advice. All drug repurposing candidates require clinical validation before any therapeutic application.
 
+<!-- local-home:start（母目錄 .claude/gen_local_home_20261029.py 產生，勿手改）-->
+## United States: what this site covers
+
+This site publishes reports for **{{ site.data.drug_stats.total_drugs }}** medicines listed in the registration data of [FDA](https://www.fda.gov/) (United States).
+
+Reports by evidence level: L1 {{ site.data.drug_stats.level_counts.L1 }} · L2 {{ site.data.drug_stats.level_counts.L2 }} · L3 {{ site.data.drug_stats.level_counts.L3 }} · L4 {{ site.data.drug_stats.level_counts.L4 }} · L5 {{ site.data.drug_stats.level_counts.L5 }}
+
+### Highest evidence levels on this site
+
+| Medicine | Evidence level |
+|---|---|
+| [Bendamustine](/drugs/bendamustine/) | L1 |
+| [Bromfenac](/drugs/bromfenac/) | L1 |
+| [Bupropion](/drugs/bupropion/) | L1 |
+| [Busulfan](/drugs/busulfan/) | L1 |
+| [Hyaluronic Acid](/drugs/hyaluronic-acid/) | L1 |
+| [Lanadelumab](/drugs/lanadelumab/) | L1 |
+| [Natamycin](/drugs/natamycin/) | L1 |
+| [Nepafenac](/drugs/nepafenac/) | L1 |
+| [Platinum](/drugs/platinum/) | L1 |
+| [Polidocanol](/drugs/polidocanol/) | L1 |
+
+### Medicines covered only by this site among the 30 TxGNN sites
+
+| Medicine | Evidence level |
+|---|---|
+| [Platinum](/drugs/platinum/) | L1 |
+| [Ecallantide](/drugs/ecallantide/) | L1 |
+| [Black Cohosh](/drugs/black-cohosh/) | L5 |
+| [Bremelanotide](/drugs/bremelanotide/) | L5 |
+| [Collagenase Clostridium Histolyticum](/drugs/collagenase-clostridium-histolyticum/) | L5 |
+| [Dexmethylphenidate](/drugs/dexmethylphenidate/) | L5 |
+| [Dyclonine](/drugs/dyclonine/) | L5 |
+| [Elapegademase](/drugs/elapegademase/) | L5 |
+| [Floxuridine](/drugs/floxuridine/) | L5 |
+| [Flurandrenolide](/drugs/flurandrenolide/) | L5 |
+| [Garlic](/drugs/garlic/) | L5 |
+| [Halcinonide](/drugs/halcinonide/) | L5 |
+| [Mercuric Iodide](/drugs/mercuric-iodide/) | L5 |
+| [Molindone](/drugs/molindone/) | L5 |
+| [Secretin Human](/drugs/secretin-human/) | L5 |
+
+<!-- local-home:end -->
+
 ## Overview
 
 UsTxGNN leverages the [TxGNN](https://www.nature.com/articles/s41591-024-03233-x) graph neural network to identify potential new therapeutic uses for existing FDA-approved drugs. This approach, known as drug repurposing or drug repositioning, can accelerate the discovery of new treatments by building on established safety profiles.

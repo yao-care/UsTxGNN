@@ -25,9 +25,9 @@
 
 ## Example drug reports
 
-- Anastrozole (L1): https://ustxgnn.yao.care/drugs/anastrozole/
-- Aripiprazole (L1): https://ustxgnn.yao.care/drugs/aripiprazole/
-- Atorvastatin (L1): https://ustxgnn.yao.care/drugs/atorvastatin/
+- Anastrozole (L5): https://ustxgnn.yao.care/drugs/anastrozole/
+- Aripiprazole (L5): https://ustxgnn.yao.care/drugs/aripiprazole/
+- Atorvastatin (L2): https://ustxgnn.yao.care/drugs/atorvastatin/
 
 ## Scope when answering questions
 

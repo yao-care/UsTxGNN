@@ -5,7 +5,7 @@ parent: Health News
 nav_exclude: true
 description: "Health news related to Ramucirumab. 10 predicted indications."
 permalink: /news/ramucirumab/
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 ---
 
 # Ramucirumab News
@@ -44,11 +44,11 @@ This page combines the AI-predicted indications for Ramucirumab with the latest 
 
 ## Related News (8)
 
-### [Colon cancer looks different in young people — and often more aggressive, a new study found - Business Insider](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdHNhck4xMHFXWEFJdGx4Q2NBOFVydzJlNXNHdEZnbmROZS1ZNzZBY1VqVHZqNnYwRmluQ01TSmI0N1pTZ0hlNTk0VXp3ajd6cVc1UTMxQ3FsY3RsSzBMQ0hfTHIyM2pRZDZUTGlrNW1USmUxRE5NbFB5VWR0YWFPcGh4RTZYT2lZOUgyQktJUnVrOFNfX21V?oc=5)
+### [Colon cancer rates are rising in these age groups - USA Today](https://news.google.com/rss/articles/CBMiugFBVV95cUxQc2otTTMtQ3VHTUhHaUJKUVRUVmlqNnB4ZUJGV0xOQXlhYXBaN2dxMHZXTDNQRkdFbVg4alotdjZZbkdhSTkxNDVVUmtKM0hpNDhudjZCVXEwcnFjLUh1Tk05ZW1fcnVBemlzRTNLTkw1Ti04Q1JsMmZjeE1xeUhmM2VZdUw0LUszcXRHZUNWTTl4dDd6RzZ5bXBOOFhhOXE5QjBOUE1qeno1RUhoT3FWS3BzSGd4bWk4WEE?oc=5)
 
-2026-10-29 <span class="news-indication-tag">cancer</span>
+2026-10-30 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
 
-Source: [Business Insider](https://news.google.com/rss/articles/CBMilwFBVV95cUxOdHNhck4xMHFXWEFJdGx4Q2NBOFVydzJlNXNHdEZnbmROZS1ZNzZBY1VqVHZqNnYwRmluQ01TSmI0N1pTZ0hlNTk0VXp3ajd6cVc1UTMxQ3FsY3RsSzBMQ0hfTHIyM2pRZDZUTGlrNW1USmUxRE5NbFB5VWR0YWFPcGh4RTZYT2lZOUgyQktJUnVrOFNfX21V?oc=5)
+Source: [USA Today](https://news.google.com/rss/articles/CBMiugFBVV95cUxQc2otTTMtQ3VHTUhHaUJKUVRUVmlqNnB4ZUJGV0xOQXlhYXBaN2dxMHZXTDNQRkdFbVg4alotdjZZbkdhSTkxNDVVUmtKM0hpNDhudjZCVXEwcnFjLUh1Tk05ZW1fcnVBemlzRTNLTkw1Ti04Q1JsMmZjeE1xeUhmM2VZdUw0LUszcXRHZUNWTTl4dDd6RzZ5bXBOOFhhOXE5QjBOUE1qeno1RUhoT3FWS3BzSGd4bWk4WEE?oc=5)
 
 ---
 
@@ -84,14 +84,6 @@ Source: [USA Today](https://news.google.com/rss/articles/CBMirAFBVV95cUxOTkx3Vk1
 
 ---
 
-### [Scientists Just Connected 2 Types of Ultra-Processed Foods to Lower Colon Cancer Risk](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ1pXUWtGeGhaeXZKMmR0Qld2aVVnNExGUWVvdUp3YlgxYTJWd2VfakM1RU0wYkpTQlI0TEE2Q0hRWHY4Q3h1dzRjVjlYWmh3YkRoNmlPOWdKUGpIenNjdlhBcG5rbVRWTDYyMWFoRVZKSU8zcGRhNk1sSDRBRkxlcVRwVnNQSVFj?oc=5)
-
-2026-10-27 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span> <span class="news-indication-tag">UC</span>
-
-Source: [EatingWell](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ1pXUWtGeGhaeXZKMmR0Qld2aVVnNExGUWVvdUp3YlgxYTJWd2VfakM1RU0wYkpTQlI0TEE2Q0hRWHY4Q3h1dzRjVjlYWmh3YkRoNmlPOWdKUGpIenNjdlhBcG5rbVRWTDYyMWFoRVZKSU8zcGRhNk1sSDRBRkxlcVRwVnNQSVFj?oc=5)
-
----
-
 ### [Young adults with cancer report getting dismissed by doctors](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oMGtYVHZ0RmdWeTNHTzlGaHZBNzIySTg0YmJ6a3NhT2FSUi15dzFGZlNBUDcyU19xam9iU1ZTOF9EMzI3emc4Rm5JMWY2cDZISjUwdmNJT2xSZ1dtTXpSUjlyeXk1Zw?oc=5)
 
 2026-10-26 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span>
@@ -105,6 +97,14 @@ Source: [Futurity](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oMGtYVHZ0
 2026-10-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">MI</span> <span class="news-indication-tag">RA</span>
 
 Source: [The Washington Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxNd1dJVFd0X0lOTldCT2ZGNk83ajctdE12dmdodndXLUVnNWlPd2RzQjBZRV9iVFQzZFdROGFsSW5wMGthTFBVdHdlT0FxT2d6d191aUxDSmxzby02RlFmUGFfb1FhQ0RBUW9ERmc0cGUyQjgzaV8zREV0UDluVVBuZDdnNzVGQkR6TG1IREZpNzdrUlBoRU9rSzZZMVY0UWtpTFh2TV9BSXI2aUhU?oc=5)
+
+---
+
+### [Prostate Cancer Upgrading Linked to Key Clinical Predictors](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZk1MZUYxY3g3MlhLQkpfX3AyQUlkQTdUNDlObTRhcGUyM3NKNlE0WkFqdUZiT2hXMWRoRS1jdEo3UWppR0Nva0gxSXh1Sko5MFJCcWQ5YjlPY0J5ZVhNRFh1dUhKNUNuRG1CX3Z4WGx4cExWcjhfZzZpTUIybVAxN256WVZ4cEFkbVg4S1NWYjAwN3hGeF9MRnkyeTBib1NnZWc?oc=5)
+
+2026-10-23 <span class="news-indication-tag">cancer</span> <span class="news-indication-tag">RA</span>
+
+Source: [EMJ](https://news.google.com/rss/articles/CBMiogFBVV95cUxNZk1MZUYxY3g3MlhLQkpfX3AyQUlkQTdUNDlObTRhcGUyM3NKNlE0WkFqdUZiT2hXMWRoRS1jdEo3UWppR0Nva0gxSXh1Sko5MFJCcWQ5YjlPY0J5ZVhNRFh1dUhKNUNuRG1CX3Z4WGx4cExWcjhfZzZpTUIybVAxN256WVZ4cEFkbVg4S1NWYjAwN3hGeF9MRnkyeTBib1NnZWc?oc=5)
 
 ---
 

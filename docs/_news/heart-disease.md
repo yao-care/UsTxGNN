@@ -3,7 +3,7 @@ layout: default
 title: "CAD (heart disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about CAD (heart disease). 1 articles, 1 related drugs."
+description: "Health news about CAD (heart disease). 2 articles, 1 related drugs."
 permalink: /news/heart-disease/
 last_modified_at: 2026-10-30
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about CAD (heart disease)?">
-<strong>CAD (heart disease)</strong> currently has <strong>1 news articles</strong> and 1 related drugs.
+<strong>CAD (heart disease)</strong> currently has <strong>2 news articles</strong> and 1 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,21 @@ This page brings together the latest health news about “CAD” and lists the d
 </ul>
 </div>
 
-## Related News (1)
+## Related News (2)
 
-### [More education linked to lower dementia risk, study finds - The Washington Post](https://news.google.com/rss/articles/CBMipgFBVV95cUxQSVAwZjVWenRjWWRmV1p4eUtsd0s5UVBpa0tHaEJfdWc3dzZGblNZOEExNGx4SnpVa2FFYUtUZ1ZTVEFfRTBVOWMyNVh3NUt5N2hlRUdlVjRWdnNfc0dibXI0WFdvYUdNVXJjSVdIVGtHVElWSVpBNVBOTUtSSVROMlBqc21ZQ2FKTWNxa1hMQkRSQ1pZaFF0S0xyTHJzWE5HTlJvYzJn?oc=5)
+### [This Is the Healthiest Way To Drink Tea: 4 Tips To Protect Your Heart With Every Sip - Woman's World](https://news.google.com/rss/articles/CBMisAFBVV95cUxQT092U2o5Tmk5NEw2SUl1bnYxNFZhcFNGeVRPNUduRkdWSUdPaUp3SDhUTU1DbkxjbHhFTDRKMVp2T2hDdW54cm1FbWhfcWdsTWhuNlQ2NmdORkRKcmZOS3NsQ1ZaWjgyM3RYSklJQ0p2VU4wbWZLUlpMZHJTZ1ZiMFFTVnBqX3FMYTdfeDh4ZFIxRWpKZ3FVTXRTb0xLTGtKZndON1RoSkUtX0dSS0pMQw?oc=5)
 
 2026-10-29
 
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMipgFBVV95cUxQSVAwZjVWenRjWWRmV1p4eUtsd0s5UVBpa0tHaEJfdWc3dzZGblNZOEExNGx4SnpVa2FFYUtUZ1ZTVEFfRTBVOWMyNVh3NUt5N2hlRUdlVjRWdnNfc0dibXI0WFdvYUdNVXJjSVdIVGtHVElWSVpBNVBOTUtSSVROMlBqc21ZQ2FKTWNxa1hMQkRSQ1pZaFF0S0xyTHJzWE5HTlJvYzJn?oc=5)
+Source: [Woman's World](https://news.google.com/rss/articles/CBMisAFBVV95cUxQT092U2o5Tmk5NEw2SUl1bnYxNFZhcFNGeVRPNUduRkdWSUdPaUp3SDhUTU1DbkxjbHhFTDRKMVp2T2hDdW54cm1FbWhfcWdsTWhuNlQ2NmdORkRKcmZOS3NsQ1ZaWjgyM3RYSklJQ0p2VU4wbWZLUlpMZHJTZ1ZiMFFTVnBqX3FMYTdfeDh4ZFIxRWpKZ3FVTXRTb0xLTGtKZndON1RoSkUtX0dSS0pMQw?oc=5)
+
+---
+
+### [These 1970s Kids Had to Stay in School For 1 Year Longer. Decades Later, The Results Are Dramatic.](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVTZiSGNzM0pSOVZpRVlsWEt3YUpsTkFEcmVWMjlPYTNudnMwZWZ4VjBPbEgwQVVEM2dyc1czMEZndUhvWTV0ZnNEZld4SHc4dklZQlNNcDVyNTRZU0lfaWRBWEh0bHByTDFxcjdGcURvazFQQkd5Z3ZOYnUtSUZMTTE5UzZoRnFnNUdlZDYzZU1VZGlzdDlDU0djenFYSWk0MGJfN1N2SUhfckFFLVR3a3BNUWZqeXk5blFURnZWUTduZw?oc=5)
+
+2026-10-29
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVTZiSGNzM0pSOVZpRVlsWEt3YUpsTkFEcmVWMjlPYTNudnMwZWZ4VjBPbEgwQVVEM2dyc1czMEZndUhvWTV0ZnNEZld4SHc4dklZQlNNcDVyNTRZU0lfaWRBWEh0bHByTDFxcjdGcURvazFQQkd5Z3ZOYnUtSUZMTTE5UzZoRnFnNUdlZDYzZU1VZGlzdDlDU0djenFYSWk0MGJfN1N2SUhfckFFLVR3a3BNUWZqeXk5blFURnZWUTduZw?oc=5)
 
 ---
 

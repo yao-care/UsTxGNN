@@ -3,7 +3,7 @@ layout: default
 title: "UC (inflammatory bowel disease) News"
 parent: Health News
 nav_exclude: true
-description: "Health news about UC (inflammatory bowel disease). 10 articles, 6 related drugs."
+description: "Health news about UC (inflammatory bowel disease). 13 articles, 6 related drugs."
 permalink: /news/inflammatory-bowel-disease/
 last_modified_at: 2026-10-30
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="What news is there about UC (inflammatory bowel disease)?">
-<strong>UC (inflammatory bowel disease)</strong> currently has <strong>10 news articles</strong> and 6 related drugs.
+<strong>UC (inflammatory bowel disease)</strong> currently has <strong>13 news articles</strong> and 6 related drugs.
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,31 @@ This page brings together the latest health news about “UC” and lists the dr
 </ul>
 </div>
 
-## Related News (10)
+## Related News (13)
+
+### [Voyager 1 gives controllers the silent treatment - The Register](https://news.google.com/rss/articles/CBMipgFBVV95cUxPMHg4VU9zT2Y4cGNZOC16dUdtaEo2WDQtRFF5bXg2Y2dRSHVua1NzalFYUFlaWGp2SGVYWUZUYXdsWTg2VDRuUXNoX2ozTnAzVFBmOXM1Z3pjaC1QcTVtMHdRUFlmNnJyZXQ3QU1XeldEOXRfYVUwU1VMTXlKelJfcy0tTjR0S3pWdkNZMUh0ekhVR0pGRmRUZ1d6eGd4aUhWRGhyeGhR?oc=5)
+
+2026-10-30
+
+Source: [The Register](https://news.google.com/rss/articles/CBMipgFBVV95cUxPMHg4VU9zT2Y4cGNZOC16dUdtaEo2WDQtRFF5bXg2Y2dRSHVua1NzalFYUFlaWGp2SGVYWUZUYXdsWTg2VDRuUXNoX2ozTnAzVFBmOXM1Z3pjaC1QcTVtMHdRUFlmNnJyZXQ3QU1XeldEOXRfYVUwU1VMTXlKelJfcy0tTjR0S3pWdkNZMUh0ekhVR0pGRmRUZ1d6eGd4aUhWRGhyeGhR?oc=5)
+
+---
+
+### [Doctor Shares 3 Lifestyle Habits to Reduce Breast Cancer Risk](https://news.google.com/rss/articles/CBMitAFBVV95cUxQVzBLa2ppUjZkY1VzaXBUNktaWmR6dDdwckJkUHlDUDUwR2dzNUNRakszSFF6QVpYcXRBV0xpODFHM1pCaG5Nb21LOHA0RW1Od05URVJCWHhaZGVKMkxNYVRNMFZCY1gwd0VsdHk1ZDN5WHIzSkpfZEM0REhPYWR2a1B2eEFNV05wbDc0ZVA3QllkY0hYV1RmX2R2eF9oWXBEeTBkZ29kVFNUV3VWb1hhaDBSQlg?oc=5)
+
+2026-10-30
+
+Source: [TODAY.com](https://news.google.com/rss/articles/CBMitAFBVV95cUxQVzBLa2ppUjZkY1VzaXBUNktaWmR6dDdwckJkUHlDUDUwR2dzNUNRakszSFF6QVpYcXRBV0xpODFHM1pCaG5Nb21LOHA0RW1Od05URVJCWHhaZGVKMkxNYVRNMFZCY1gwd0VsdHk1ZDN5WHIzSkpfZEM0REhPYWR2a1B2eEFNV05wbDc0ZVA3QllkY0hYV1RmX2R2eF9oWXBEeTBkZ29kVFNUV3VWb1hhaDBSQlg?oc=5)
+
+---
+
+### [This Is the Healthiest Way To Drink Tea: 4 Tips To Protect Your Heart With Every Sip - Woman's World](https://news.google.com/rss/articles/CBMisAFBVV95cUxQT092U2o5Tmk5NEw2SUl1bnYxNFZhcFNGeVRPNUduRkdWSUdPaUp3SDhUTU1DbkxjbHhFTDRKMVp2T2hDdW54cm1FbWhfcWdsTWhuNlQ2NmdORkRKcmZOS3NsQ1ZaWjgyM3RYSklJQ0p2VU4wbWZLUlpMZHJTZ1ZiMFFTVnBqX3FMYTdfeDh4ZFIxRWpKZ3FVTXRTb0xLTGtKZndON1RoSkUtX0dSS0pMQw?oc=5)
+
+2026-10-29
+
+Source: [Woman's World](https://news.google.com/rss/articles/CBMisAFBVV95cUxQT092U2o5Tmk5NEw2SUl1bnYxNFZhcFNGeVRPNUduRkdWSUdPaUp3SDhUTU1DbkxjbHhFTDRKMVp2T2hDdW54cm1FbWhfcWdsTWhuNlQ2NmdORkRKcmZOS3NsQ1ZaWjgyM3RYSklJQ0p2VU4wbWZLUlpMZHJTZ1ZiMFFTVnBqX3FMYTdfeDh4ZFIxRWpKZ3FVTXRTb0xLTGtKZndON1RoSkUtX0dSS0pMQw?oc=5)
+
+---
 
 ### [Why is colorectal cancer aggressive in younger patients? Boston researchers discover new clues](https://news.google.com/rss/articles/CBMilgFBVV95cUxPWXp4emQ1OU9RNjZtOUxwSmljVEVyc1NFUFpacFhHblJYX1NZMi1lbmZiTFdjTHJNaXRVdmh1TXdXa2JqY0lhbzZqTnhhclZpbmItdnlNVURYMldrVkJDTENhUHFEcjloQ0FDaDJaTmRyak9iVDVKUjRRUjJiNkJ4NXhIZ084RlJZUFF1N29SbDR5SmhGV2c?oc=5)
 
@@ -45,27 +69,35 @@ Source: [WCVB](https://news.google.com/rss/articles/CBMilgFBVV95cUxPWXp4emQ1OU9R
 
 ---
 
-### [Want Less Knee Arthritis Pain? A 6-Week Study Found a Daily Supplement With a Surprising Second Benefit](https://news.google.com/rss/articles/CBMixgFBVV95cUxOcWJWX1V4VnNXS1UzWmNEQ0d6ZGdfcjZGNEJGTVNiZlB0UFg3OExIZm5rcTg3QWFnM0VMZWFEUGF6ZGlvM0dQaUZkUS0xYXJjb3RMTThieTRLakR6YXVJa1VaQ1pOQV84NGJ0LXdVOHBrSDRlQlJibkFTa2pVZEZRaWVYMHpOaGRvdFhBMkxPc21WbzBKUkdzUHYwZVJnNGNWYzBqbW1TeV9BYUdJQ3VVN2x0aWVfMjJyVnpITThyYXJyNkJfZUE?oc=5)
+### [Known for preventing cancer, p53 could also help immune cells fight it - Medical Xpress](https://news.google.com/rss/articles/CBMidkFVX3lxTE4xS3JTRExiY002UU9qN0JlVW1hWlVRZHRXWnRTNmFmZTR5bWRKSERjbUV2ZnA2dnJfbVVsRnNucmRfU2RrY19QQXFZQmhSUTVSTmRvc1ktX3VrTEZWd0szY3pyY3FpZ1NmNmN0MExLa0JRcmtwa0E?oc=5)
 
 2026-10-29
 
-Source: [Inc.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxOcWJWX1V4VnNXS1UzWmNEQ0d6ZGdfcjZGNEJGTVNiZlB0UFg3OExIZm5rcTg3QWFnM0VMZWFEUGF6ZGlvM0dQaUZkUS0xYXJjb3RMTThieTRLakR6YXVJa1VaQ1pOQV84NGJ0LXdVOHBrSDRlQlJibkFTa2pVZEZRaWVYMHpOaGRvdFhBMkxPc21WbzBKUkdzUHYwZVJnNGNWYzBqbW1TeV9BYUdJQ3VVN2x0aWVfMjJyVnpITThyYXJyNkJfZUE?oc=5)
+Source: [Medical Xpress](https://news.google.com/rss/articles/CBMidkFVX3lxTE4xS3JTRExiY002UU9qN0JlVW1hWlVRZHRXWnRTNmFmZTR5bWRKSERjbUV2ZnA2dnJfbVVsRnNucmRfU2RrY19QQXFZQmhSUTVSTmRvc1ktX3VrTEZWd0szY3pyY3FpZ1NmNmN0MExLa0JRcmtwa0E?oc=5)
 
 ---
 
-### [Unlocking the mysteries of how simple embryos become complex creatures - The Washington Post](https://news.google.com/rss/articles/CBMipgFBVV95cUxNdnlkUnM0V0JfQ09GVVlGVkgwanhvSUFHblJYb2xWa0JaZ3BNXzl2ZnRxRDhMWE5DQlN6X09nbDExTkd6MC05QmZFck5VbEpoR1NtTzhYY1VldkUzell2X0dNLUp5VDUwVXBBWTBoQmtWb1p2djdKY3FJX3FQc3YzczQ1RVZnaUNZd1QtS3NlQndNSWpZRnNfSHR1UGRVZmZyMUVuTFdR?oc=5)
+### [Study: Staple supplement known to aid digestion may have shocking impact on arthritis - New York Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxQN0xXWmlwc3NYYmZGRW9sblhUUERjZlVwX1hIaHZYYjJoUjVRWGlUVVRVZVZMR3dWY1RvTHJySjc1ZFJoejJSYlE4cjhIRkZOb3luNXBPdlVvZTM5c1VfckhHZmljYzBXbTg2QV9zc0FPUGpscTgxSGh1clRqUEVpcFBWS2hqZDhsWV84OFRiUTQ3TzMyOC01OV9mZms3QTRZRVpmU05EUGFZNGJwNUE?oc=5)
 
 2026-10-29
 
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMipgFBVV95cUxNdnlkUnM0V0JfQ09GVVlGVkgwanhvSUFHblJYb2xWa0JaZ3BNXzl2ZnRxRDhMWE5DQlN6X09nbDExTkd6MC05QmZFck5VbEpoR1NtTzhYY1VldkUzell2X0dNLUp5VDUwVXBBWTBoQmtWb1p2djdKY3FJX3FQc3YzczQ1RVZnaUNZd1QtS3NlQndNSWpZRnNfSHR1UGRVZmZyMUVuTFdR?oc=5)
+Source: [New York Post](https://news.google.com/rss/articles/CBMirgFBVV95cUxQN0xXWmlwc3NYYmZGRW9sblhUUERjZlVwX1hIaHZYYjJoUjVRWGlUVVRVZVZMR3dWY1RvTHJySjc1ZFJoejJSYlE4cjhIRkZOb3luNXBPdlVvZTM5c1VfckhHZmljYzBXbTg2QV9zc0FPUGpscTgxSGh1clRqUEVpcFBWS2hqZDhsWV84OFRiUTQ3TzMyOC01OV9mZms3QTRZRVpmU05EUGFZNGJwNUE?oc=5)
 
 ---
 
-### [More education linked to lower dementia risk, study finds - The Washington Post](https://news.google.com/rss/articles/CBMipgFBVV95cUxQSVAwZjVWenRjWWRmV1p4eUtsd0s5UVBpa0tHaEJfdWc3dzZGblNZOEExNGx4SnpVa2FFYUtUZ1ZTVEFfRTBVOWMyNVh3NUt5N2hlRUdlVjRWdnNfc0dibXI0WFdvYUdNVXJjSVdIVGtHVElWSVpBNVBOTUtSSVROMlBqc21ZQ2FKTWNxa1hMQkRSQ1pZaFF0S0xyTHJzWE5HTlJvYzJn?oc=5)
+### [Farmer's Blurry Eyes Caused by Parasitic Worms](https://news.google.com/rss/articles/CBMiswFBVV95cUxOOE02NmVjWlh0elJzY0w1RUJfdWQ2M01kV015Ml9vTi02NVNXVWJvN3R3dWRWSE9MSFRXTVdBZm55TnlMVWJLQ3RkbktSQlFSNEEzQ0lHTk01bko2UnVTS2NLNHUxUkVSbkpWQnc4cnJhdzJpeTdkcnRNMEFNWDdDRHVtT21lRkJsSF9aSjVXOUZ3Qlc4MmtQLXdGWGZjTGl1dlFNUXFXSUFiTkVlME9vVEJ3SQ?oc=5)
 
 2026-10-29
 
-Source: [The Washington Post](https://news.google.com/rss/articles/CBMipgFBVV95cUxQSVAwZjVWenRjWWRmV1p4eUtsd0s5UVBpa0tHaEJfdWc3dzZGblNZOEExNGx4SnpVa2FFYUtUZ1ZTVEFfRTBVOWMyNVh3NUt5N2hlRUdlVjRWdnNfc0dibXI0WFdvYUdNVXJjSVdIVGtHVElWSVpBNVBOTUtSSVROMlBqc21ZQ2FKTWNxa1hMQkRSQ1pZaFF0S0xyTHJzWE5HTlJvYzJn?oc=5)
+Source: [Gizmodo](https://news.google.com/rss/articles/CBMiswFBVV95cUxOOE02NmVjWlh0elJzY0w1RUJfdWQ2M01kV015Ml9vTi02NVNXVWJvN3R3dWRWSE9MSFRXTVdBZm55TnlMVWJLQ3RkbktSQlFSNEEzQ0lHTk01bko2UnVTS2NLNHUxUkVSbkpWQnc4cnJhdzJpeTdkcnRNMEFNWDdDRHVtT21lRkJsSF9aSjVXOUZ3Qlc4MmtQLXdGWGZjTGl1dlFNUXFXSUFiTkVlME9vVEJ3SQ?oc=5)
+
+---
+
+### [These 1970s Kids Had to Stay in School For 1 Year Longer. Decades Later, The Results Are Dramatic.](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVTZiSGNzM0pSOVZpRVlsWEt3YUpsTkFEcmVWMjlPYTNudnMwZWZ4VjBPbEgwQVVEM2dyc1czMEZndUhvWTV0ZnNEZld4SHc4dklZQlNNcDVyNTRZU0lfaWRBWEh0bHByTDFxcjdGcURvazFQQkd5Z3ZOYnUtSUZMTTE5UzZoRnFnNUdlZDYzZU1VZGlzdDlDU0djenFYSWk0MGJfN1N2SUhfckFFLVR3a3BNUWZqeXk5blFURnZWUTduZw?oc=5)
+
+2026-10-29
+
+Source: [ScienceAlert](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVTZiSGNzM0pSOVZpRVlsWEt3YUpsTkFEcmVWMjlPYTNudnMwZWZ4VjBPbEgwQVVEM2dyc1czMEZndUhvWTV0ZnNEZld4SHc4dklZQlNNcDVyNTRZU0lfaWRBWEh0bHByTDFxcjdGcURvazFQQkd5Z3ZOYnUtSUZMTTE5UzZoRnFnNUdlZDYzZU1VZGlzdDlDU0djenFYSWk0MGJfN1N2SUhfckFFLVR3a3BNUWZqeXk5blFURnZWUTduZw?oc=5)
 
 ---
 
@@ -77,19 +109,11 @@ Source: [Medical Xpress](https://news.google.com/rss/articles/CBMigwFBVV95cUxNS1
 
 ---
 
-### [Scientists discover a hidden reason why muscles weaken with age - Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1mWFdVZ1o0VkpLV2VHbUZRa25LRzJZVGtxUHZ3QmVaVUhyeXNvUVFhTXV0WFVWMU5zR05zNWVsRVR5M0JMQVBGZ2tRNC1fYUhadGlXa181SFNZUmg2SWcwOXBXYjJ1cFBZU25HcUp4MA?oc=5)
+### [Weight-loss drug could help address nighttime sleep disruptions for millions - Fox News](https://news.google.com/rss/articles/CBMingFBVV95cUxPZWlxdV8xSE1JRktFM2NDNUJtSHg1QzVGd2Y5aEMyUW9rbTBGWEQ4VG95WXhrTW1IOW91aFVTVTdBb0RCeC1KQXpZb09oX2p5Z09hcFFCTllkRWtUMGZnUXRNdTN1a0Q0MWxfcVdMcXhDRU5OZTkwLXdmazNNVUtJRDc1TG1RY2dBQm1saVh4UXVRSkh2X1hSUmxjTUYtdw?oc=5)
 
 2026-10-28
 
-Source: [Science Daily](https://news.google.com/rss/articles/CBMib0FVX3lxTE1mWFdVZ1o0VkpLV2VHbUZRa25LRzJZVGtxUHZ3QmVaVUhyeXNvUVFhTXV0WFVWMU5zR05zNWVsRVR5M0JMQVBGZ2tRNC1fYUhadGlXa181SFNZUmg2SWcwOXBXYjJ1cFBZU25HcUp4MA?oc=5)
-
----
-
-### [Weight-loss drug could help address nighttime sleep disruptions for millions - Fox News](https://news.google.com/rss/articles/CBMingFBVV95cUxPZWlxdV8xSE1JRktFM2NDNUJtSHg1QzVGd2Y5aEMyUW9rbTBGWEQ4VG95WXhrTW1IOW91aFVTVTdBb0RCeC1KQXpZb09oX2p5Z09hcFFCTllkRWtUMGZnUXRNdTN1a0Q0MWxfcVdMcXhDRU5OZTkwLXdmazNNVUtJRDc1TG1RY2dBQm1saVh4UXVRSkh2X1hSUmxjTUYtd9IBowFBVV95cUxOSy1hM3ZiVVZldDd5b3p4U1NxOUoza1JvRThvbm5ocXNoRVNCMGwxcUE1X0pvWFF5RnFBOTJPajRYVHNMZGRqZ1pRYlJoUTZOQWpmMzlkNVdBM3hneVBFNXBvMmN5RTNwRHBhUmtVSTB0SU1yMDFMdjhZOFVMeEQxWGQ5OW5HMTBnYUs1OE1aZDU5UDRfTHc2RkxabmhmZTRISXRZ?oc=5)
-
-2026-10-28
-
-Source: [Fox News](https://news.google.com/rss/articles/CBMingFBVV95cUxPZWlxdV8xSE1JRktFM2NDNUJtSHg1QzVGd2Y5aEMyUW9rbTBGWEQ4VG95WXhrTW1IOW91aFVTVTdBb0RCeC1KQXpZb09oX2p5Z09hcFFCTllkRWtUMGZnUXRNdTN1a0Q0MWxfcVdMcXhDRU5OZTkwLXdmazNNVUtJRDc1TG1RY2dBQm1saVh4UXVRSkh2X1hSUmxjTUYtd9IBowFBVV95cUxOSy1hM3ZiVVZldDd5b3p4U1NxOUoza1JvRThvbm5ocXNoRVNCMGwxcUE1X0pvWFF5RnFBOTJPajRYVHNMZGRqZ1pRYlJoUTZOQWpmMzlkNVdBM3hneVBFNXBvMmN5RTNwRHBhUmtVSTB0SU1yMDFMdjhZOFVMeEQxWGQ5OW5HMTBnYUs1OE1aZDU5UDRfTHc2RkxabmhmZTRISXRZ?oc=5)
+Source: [Fox News](https://news.google.com/rss/articles/CBMingFBVV95cUxPZWlxdV8xSE1JRktFM2NDNUJtSHg1QzVGd2Y5aEMyUW9rbTBGWEQ4VG95WXhrTW1IOW91aFVTVTdBb0RCeC1KQXpZb09oX2p5Z09hcFFCTllkRWtUMGZnUXRNdTN1a0Q0MWxfcVdMcXhDRU5OZTkwLXdmazNNVUtJRDc1TG1RY2dBQm1saVh4UXVRSkh2X1hSUmxjTUYtdw?oc=5)
 
 ---
 
@@ -109,11 +133,11 @@ Source: [EatingWell](https://news.google.com/rss/articles/CBMib0FVX3lxTE1DVWhxLT
 
 ---
 
-### [Is There a Healthier Way to Eat Halloween Candy? - The New York Times](https://news.google.com/rss/articles/CBMihgFBVV95cUxNeUJ3bzN2TEp3amZBdHpYNFN0YVl6cXZSR0JCZDFMX1VTZklMd21BdjFtOXA2b3ZyVGZFLUhxcnNqRzJyOU5xNUFUUmo1dS1lTGZ4cmFrZHEtZXp2WjdEOElQejNEVlRLajNXQUxNSnkxbmE3RHdwMnI5eTBLbWtoLVlEZkVPdw?oc=5)
+### [Armored amphibian lived entirely at sea 237 million years ago, fossils suggest](https://news.google.com/rss/articles/CBMiekFVX3lxTE8yb2RUQk1fTldwbXJxZ0lRcXZZTllWaldlamJlM2JZbTRNbE5feFFReS04Vk15djF2bTdKd3VqejVrZUFzakRpcTNOdjJ2ak5nUGlNRS0tUUMtSnVDTG9ycERLM1pfNXpaUXctd1pHNXlMVkVXaDJyNml3?oc=5)
 
-2026-10-27
+2026-10-26
 
-Source: [The New York Times](https://news.google.com/rss/articles/CBMihgFBVV95cUxNeUJ3bzN2TEp3amZBdHpYNFN0YVl6cXZSR0JCZDFMX1VTZklMd21BdjFtOXA2b3ZyVGZFLUhxcnNqRzJyOU5xNUFUUmo1dS1lTGZ4cmFrZHEtZXp2WjdEOElQejNEVlRLajNXQUxNSnkxbmE3RHdwMnI5eTBLbWtoLVlEZkVPdw?oc=5)
+Source: [Phys.org](https://news.google.com/rss/articles/CBMiekFVX3lxTE8yb2RUQk1fTldwbXJxZ0lRcXZZTllWaldlamJlM2JZbTRNbE5feFFReS04Vk15djF2bTdKd3VqejVrZUFzakRpcTNOdjJ2ak5nUGlNRS0tUUMtSnVDTG9ycERLM1pfNXpaUXctd1pHNXlMVkVXaDJyNml3?oc=5)
 
 ---
 
